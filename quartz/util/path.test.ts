@@ -116,6 +116,11 @@ describe("transforms", () => {
         ["index.md", "index"],
         ["test.mp4", "test.mp4"],
         ["note with spaces.md", "note-with-spaces"],
+        ["objektai/asmenys/Zigmantas Kęstutaitis.md", "objektai/asmenys/Zigmantas-Kestutaitis"],
+        [
+          "objektai/saltiniai/Pabaltijo valstybių sąjungos sutartis (1934 m.).md",
+          "objektai/saltiniai/Pabaltijo-valstybiu-sajungos-sutartis-(1934-m.)",
+        ],
         ["notes.with.dots.md", "notes.with.dots"],
         ["test/special chars?.md", "test/special-chars"],
         ["test/special chars #3.md", "test/special-chars-3"],

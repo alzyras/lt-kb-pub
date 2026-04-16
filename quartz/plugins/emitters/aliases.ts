@@ -5,8 +5,65 @@ import { BuildCtx } from "../../util/ctx"
 import { VFile } from "vfile"
 import path from "path"
 
+function legacySluggify(s: string): string {
+  return s
+    .split("/")
+    .map((segment) =>
+      segment
+        .replace(/\s/g, "-")
+        .replace(/&/g, "-and-")
+        .replace(/%/g, "-percent")
+        .replace(/\?/g, "")
+        .replace(/#/g, ""),
+    )
+    .join("/")
+    .replace(/\/$/, "")
+}
+
+function legacySlugifyFilePath(fp: string): FullSlug {
+  fp = fp.replace(/^\/+/, "")
+  let ext = fp.match(/\.[A-Za-z0-9]+$/)?.[0]
+  const withoutFileExt = ext ? fp.replace(new RegExp(ext + "$"), "") : fp
+  if ([".md", ".html", undefined].includes(ext)) {
+    ext = ""
+  }
+
+  let slug = legacySluggify(withoutFileExt)
+  if (slug.endsWith("_index")) {
+    slug = slug.replace(/_index$/, "index")
+  }
+
+  return (slug + ext) as FullSlug
+}
+
+function redirectPage(fromSlug: FullSlug, toSlug: FullSlug, ctx: BuildCtx) {
+  const redirUrl = resolveRelative(fromSlug, toSlug)
+  return write({
+    ctx,
+    content: `
+      <!DOCTYPE html>
+      <html lang="lt">
+      <head>
+      <title>${toSlug}</title>
+      <link rel="canonical" href="${redirUrl}">
+      <meta name="robots" content="noindex">
+      <meta charset="utf-8">
+      <meta http-equiv="refresh" content="0; url=${redirUrl}">
+      </head>
+      </html>
+      `,
+    slug: fromSlug,
+    ext: ".html",
+  })
+}
+
 async function* processFile(ctx: BuildCtx, file: VFile) {
   const ogSlug = simplifySlug(file.data.slug!)
+  const legacySlug = legacySlugifyFilePath(String(file.data.relativePath ?? ""))
+
+  if (legacySlug && legacySlug !== file.data.slug) {
+    yield redirectPage(simplifySlug(legacySlug), ogSlug, ctx)
+  }
 
   for (const aliasTarget of file.data.aliases ?? []) {
     const aliasTargetSlug = (
@@ -15,24 +72,7 @@ async function* processFile(ctx: BuildCtx, file: VFile) {
         : aliasTarget
     ) as FullSlug
 
-    const redirUrl = resolveRelative(aliasTargetSlug, ogSlug)
-    yield write({
-      ctx,
-      content: `
-        <!DOCTYPE html>
-        <html lang="en-us">
-        <head>
-        <title>${ogSlug}</title>
-        <link rel="canonical" href="${redirUrl}">
-        <meta name="robots" content="noindex">
-        <meta charset="utf-8">
-        <meta http-equiv="refresh" content="0; url=${redirUrl}">
-        </head>
-        </html>
-        `,
-      slug: aliasTargetSlug,
-      ext: ".html",
-    })
+    yield redirectPage(aliasTargetSlug, ogSlug, ctx)
   }
 }
 

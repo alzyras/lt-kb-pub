@@ -8,19 +8,19 @@ title: Lietuvos istorijos žinių bazė
 
 ## Pagrindinės dėžės
 
-- [[objektai/README|Objektai]]
-- [[tyrimai]]
-- [[paveikslėliai]]
+- [Objektai](https://alzyras.github.io/lt-kb-pub/objektai/)
+- [Tyrimai](https://alzyras.github.io/lt-kb-pub/tyrimai/)
+- [Paveikslėliai](https://alzyras.github.io/lt-kb-pub/paveiksleliai/)
 
 ## Objektų kategorijos
 
-- [[objektai/asmenys]]
-- [[objektai/autoriai]]
-- [[objektai/ivykiai]]
-- [[objektai/vietos]]
-- [[objektai/grupes]]
-- [[objektai/daiktai]]
-- [[objektai/paprociai]]
-- [[objektai/posakiai]]
-- [[objektai/zodynas]]
-- [[objektai/saltiniai]]
+- [Asmenys](https://alzyras.github.io/lt-kb-pub/objektai/asmenys/)
+- [Autoriai](https://alzyras.github.io/lt-kb-pub/objektai/autoriai/)
+- [Įvykiai](https://alzyras.github.io/lt-kb-pub/objektai/ivykiai/)
+- [Vietos](https://alzyras.github.io/lt-kb-pub/objektai/vietos/)
+- [Grupės](https://alzyras.github.io/lt-kb-pub/objektai/grupes/)
+- [Daiktai](https://alzyras.github.io/lt-kb-pub/objektai/daiktai/)
+- [Papročiai](https://alzyras.github.io/lt-kb-pub/objektai/paprociai/)
+- [Posakiai](https://alzyras.github.io/lt-kb-pub/objektai/posakiai/)
+- [Žodynas](https://alzyras.github.io/lt-kb-pub/objektai/zodynas/)
+- [Šaltiniai](https://alzyras.github.io/lt-kb-pub/objektai/saltiniai/)

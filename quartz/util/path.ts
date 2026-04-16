@@ -55,15 +55,39 @@ export function getFullSlug(window: Window): FullSlug {
 }
 
 function sluggify(s: string): string {
+  const transliterations: Record<string, string> = {
+    Ð: "D",
+    ð: "d",
+    Þ: "Th",
+    þ: "th",
+    Ł: "L",
+    ł: "l",
+    Ø: "O",
+    ø: "o",
+    Æ: "AE",
+    æ: "ae",
+    Œ: "OE",
+    œ: "oe",
+    ß: "ss",
+  }
+
   return s
     .split("/")
     .map((segment) =>
       segment
+        .normalize("NFKD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .replace(/[ÐðÞþŁłØøÆæŒœß]/g, (char) => transliterations[char] ?? char)
         .replace(/\s/g, "-")
         .replace(/&/g, "-and-")
         .replace(/%/g, "-percent")
         .replace(/\?/g, "")
-        .replace(/#/g, ""),
+        .replace(/#/g, "")
+        .replace(/[–—−]/g, "-")
+        .replace(/[“”„"‘’']/g, "")
+        .replace(/[^A-Za-z0-9._~(),!/-]/g, "-")
+        .replace(/-+/g, "-")
+        .replace(/^-|-$/g, ""),
     )
     .join("/") // always use / as sep
     .replace(/\/$/, "")
