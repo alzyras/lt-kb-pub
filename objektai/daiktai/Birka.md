@@ -12,7 +12,6 @@ saltiniai:
 zymos:
   - įrankis
   - prekyba
-bukle: juodrastis
 laikotarpis: "senovė; šaltinio rašymo meto dabartis"
 datos: []
 vaidmenys:

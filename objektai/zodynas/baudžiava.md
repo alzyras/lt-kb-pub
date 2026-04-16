@@ -12,7 +12,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - istorinė-sąvoka
-bukle: juodrastis
 laikotarpis: "XVI-XIX a.; panaikinta 1861 m. manifestu"
 datos:
   - "1557 m."

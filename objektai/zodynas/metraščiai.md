@@ -11,7 +11,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - istorinė-sąvoka
-bukle: juodrastis
 laikotarpis: "XV a. pradžia ir vėlesni istoriniai šaltiniai"
 datos: []
 vaidmenys: []

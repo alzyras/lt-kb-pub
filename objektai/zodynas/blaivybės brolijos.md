@@ -12,7 +12,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - istorinė-sąvoka
-bukle: juodrastis
 laikotarpis: "1858-1863 m.; draudimas po 1863 m. sukilimo"
 datos:
   - "1858 m."

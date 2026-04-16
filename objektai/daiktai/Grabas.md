@@ -13,7 +13,6 @@ saltiniai:
 zymos:
   - buities-daiktas
   - laidotuvės
-bukle: juodrastis
 laikotarpis: "I–II a. po Kr.; XV–XX a. kontekstai"
 datos: []
 vaidmenys:

@@ -10,7 +10,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - religinis-terminas
-bukle: juodrastis
 laikotarpis: "1525 m."
 datos:
   - "1525 m."

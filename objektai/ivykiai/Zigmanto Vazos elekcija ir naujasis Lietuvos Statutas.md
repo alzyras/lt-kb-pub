@@ -9,7 +9,6 @@ saltiniai:
 zymos:
   - elekcija
   - dokumentas
-bukle: juodrastis
 laikotarpis: "1588 m."
 datos:
   - "1588 m."

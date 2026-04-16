@@ -11,7 +11,6 @@ saltiniai:
 zymos:
   - karo-reikmuo
   - ginklas
-bukle: juodrastis
 laikotarpis: "XIII–XIV a."
 datos: []
 vaidmenys:

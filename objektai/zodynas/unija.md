@@ -12,7 +12,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - teisinis-terminas
-bukle: juodrastis
 laikotarpis: "1385-1569 m. Lietuvos ir Lenkijos santykių kontekste"
 datos:
   - "1385 m."

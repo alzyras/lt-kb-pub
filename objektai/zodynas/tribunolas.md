@@ -13,7 +13,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - teisinis-terminas
-bukle: juodrastis
 laikotarpis: "nuo 1581 m. iki Lietuvos valstybės nepriklausomybės pabaigos"
 datos:
   - "1581 m."

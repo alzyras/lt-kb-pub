@@ -10,7 +10,6 @@ saltiniai:
 zymos:
   - simbolis
   - religinė-praktika
-bukle: juodrastis
 laikotarpis: "1430 m.; 1530 m.; 1610 m."
 datos:
   - "1430 m."

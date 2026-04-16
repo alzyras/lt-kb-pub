@@ -9,7 +9,6 @@ saltiniai:
 zymos:
   - socialinė-praktika
   - teisinė-praktika
-bukle: juodrastis
 laikotarpis: "senovės aisčių visuomenės kontekstas"
 datos: []
 vaidmenys:

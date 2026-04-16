@@ -9,7 +9,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - teisinis-terminas
-bukle: juodrastis
 laikotarpis: "1918-1922 m. Lietuvos pripažinimo kontekstas"
 datos:
   - "1921 m. rugsėjo 22 d."

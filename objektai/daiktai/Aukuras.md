@@ -9,7 +9,6 @@ saltiniai:
 zymos:
   - simbolis
   - religinė-praktika
-bukle: juodrastis
 laikotarpis: "senovės aisčių laikai"
 datos: []
 vaidmenys:

@@ -13,7 +13,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - istorinė-sąvoka
-bukle: juodrastis
 laikotarpis: "1606-1608 m. ir platesnis bajorijos konfederacijų kontekstas"
 datos:
   - "1606-1608 m."

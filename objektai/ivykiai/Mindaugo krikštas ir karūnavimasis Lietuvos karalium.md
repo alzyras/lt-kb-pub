@@ -9,7 +9,6 @@ saltiniai:
 zymos:
   - krikštas
   - karūnacija
-bukle: juodrastis
 laikotarpis: "1251–1253 m."
 datos:
   - "1251–1253 m."

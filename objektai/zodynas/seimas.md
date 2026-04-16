@@ -14,7 +14,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - istorinė-sąvoka
-bukle: juodrastis
 laikotarpis: "nuo ponų tarybos įsigalėjimo; po Liublino unijos bendrieji seimai"
 datos:
   - "1566 m."

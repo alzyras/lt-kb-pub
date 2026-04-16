@@ -11,7 +11,6 @@ saltiniai:
 zymos:
   - valdovas
   - karvedys
-bukle: juodrastis
 laikotarpis: "XIV a."
 datos:
   - "1382 m."

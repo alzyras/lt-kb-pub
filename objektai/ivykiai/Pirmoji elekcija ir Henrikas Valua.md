@@ -8,7 +8,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - elekcija
-bukle: juodrastis
 laikotarpis: "1573–1574 m."
 datos:
   - "1573–1574 m."

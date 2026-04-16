@@ -9,7 +9,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - šventė
-bukle: juodrastis
 laikotarpis: "spaudos draudimo laikai"
 datos:
   - "1894 m."

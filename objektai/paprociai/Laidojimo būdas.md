@@ -10,7 +10,6 @@ saltiniai:
 zymos:
   - laidotuvės
   - religinė-praktika
-bukle: juodrastis
 laikotarpis: "senovės aisčių religijos kontekstas"
 datos: []
 vaidmenys:

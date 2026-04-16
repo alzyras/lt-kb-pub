@@ -9,7 +9,6 @@ saltiniai:
 zymos:
   - elekcija
   - privilegija
-bukle: juodrastis
 laikotarpis: "1447 m."
 datos:
   - "1447 m."

@@ -10,7 +10,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - kunigaikštis
-bukle: juodrastis
 laikotarpis: "1263-1265 m."
 datos:
   - "1263-1265 m."

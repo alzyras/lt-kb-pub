@@ -11,7 +11,6 @@ saltiniai:
 zymos:
   - formulė
   - frazė
-bukle: juodrastis
 laikotarpis: "1501 m."
 datos:
   - "1501 m."

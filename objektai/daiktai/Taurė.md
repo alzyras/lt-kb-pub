@@ -11,7 +11,6 @@ saltiniai:
 zymos:
   - buities-daiktas
   - simbolis
-bukle: juodrastis
 laikotarpis: "Augusto II laikai"
 datos: []
 vaidmenys:

@@ -11,7 +11,6 @@ saltiniai:
 zymos:
   - transportas
   - buities-daiktas
-bukle: juodrastis
 laikotarpis: "LDK laikai; 1430 m.; XVIII a."
 datos:
   - "1430 m."

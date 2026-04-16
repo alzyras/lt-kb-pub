@@ -9,7 +9,6 @@ saltiniai:
 zymos:
   - karas
   - sutartis
-bukle: juodrastis
 laikotarpis: ""
 datos: []
 vaidmenys:

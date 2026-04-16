@@ -10,7 +10,6 @@ saltiniai:
 zymos:
   - ritualas
   - šeima
-bukle: juodrastis
 laikotarpis: "senovės aisčių visuomenės kontekstas"
 datos: []
 vaidmenys:

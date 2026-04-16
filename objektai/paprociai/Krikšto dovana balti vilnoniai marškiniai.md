@@ -11,7 +11,6 @@ saltiniai:
 zymos:
   - krikštas
   - religinė-praktika
-bukle: juodrastis
 laikotarpis: "Lietuvos krikštas (1387 m.)"
 datos:
   - "1387 m."

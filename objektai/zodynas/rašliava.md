@@ -11,7 +11,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - archajiškas-žodis
-bukle: juodrastis
 laikotarpis: "XV-XVIII a. šaltinyje vartojama raštijos ir istorinių raštų kontekste"
 datos: []
 vaidmenys: []

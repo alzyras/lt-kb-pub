@@ -8,7 +8,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - konfliktas
-bukle: juodrastis
 laikotarpis: "1263 m."
 datos:
   - "1263 m."

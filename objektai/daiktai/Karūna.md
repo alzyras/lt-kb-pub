@@ -11,7 +11,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - simbolis
-bukle: juodrastis
 laikotarpis: "1251–1253 m.; 1429–1430 m."
 datos:
   - "1251 m. liepos 17 d."

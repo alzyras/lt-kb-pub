@@ -12,7 +12,6 @@ saltiniai:
 zymos:
   - ginklas
   - karo-reikmuo
-bukle: juodrastis
 laikotarpis: "Kęstučio laikai; XVI–XVII a.; 1919–1920 m."
 datos:
   - "1605 m."

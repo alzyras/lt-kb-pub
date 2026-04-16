@@ -8,7 +8,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - mūšis
-bukle: juodrastis
 laikotarpis: "1236 m."
 datos:
   - "1236 m."

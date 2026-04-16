@@ -9,7 +9,6 @@ saltiniai:
 zymos:
   - elekcija
   - konfliktas
-bukle: juodrastis
 laikotarpis: ""
 datos: []
 vaidmenys:

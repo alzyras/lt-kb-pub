@@ -9,7 +9,6 @@ saltiniai:
 zymos:
   - sutartis
   - unija
-bukle: juodrastis
 laikotarpis: "1596 m."
 datos:
   - "1596 m."

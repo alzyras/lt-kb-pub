@@ -23,7 +23,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - pinigai
-bukle: juodrastis
 laikotarpis: "XIV–XVIII a.; Kosciuškos sukilimo metai"
 datos: []
 vaidmenys:

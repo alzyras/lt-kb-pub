@@ -12,7 +12,6 @@ saltiniai:
 zymos:
   - istorinė-sąvoka
   - ūkis
-bukle: juodrastis
 laikotarpis: "XVI a.; 1557 m."
 datos:
   - "1557 m."

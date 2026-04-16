@@ -10,7 +10,6 @@ saltiniai:
 zymos:
   - formulė
   - frazė
-bukle: juodrastis
 laikotarpis: "lietuvių spaudos draudimo laikotarpis"
 datos: []
 vaidmenys:

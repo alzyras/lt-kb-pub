@@ -10,7 +10,6 @@ saltiniai:
 zymos:
   - ginklas
   - karo-reikmuo
-bukle: juodrastis
 laikotarpis: "Traidenio laikai"
 datos: []
 vaidmenys:

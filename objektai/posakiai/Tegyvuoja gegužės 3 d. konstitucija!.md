@@ -11,7 +11,6 @@ saltiniai:
 zymos:
   - frazė
   - formulė
-bukle: juodrastis
 laikotarpis: "1823 m."
 datos:
   - "1823 m."

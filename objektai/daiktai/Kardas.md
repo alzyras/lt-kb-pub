@@ -12,7 +12,6 @@ zymos:
   - ginklas
   - karo-reikmuo
   - simbolis
-bukle: juodrastis
 laikotarpis: "XIII–XIV a.; XVIII a."
 datos: []
 vaidmenys:

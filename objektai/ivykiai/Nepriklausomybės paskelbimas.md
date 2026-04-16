@@ -8,7 +8,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - politinis-sprendimas
-bukle: juodrastis
 laikotarpis: "1918 m. vasario 16 d."
 datos:
   - "1918 m. vasario 16 d."

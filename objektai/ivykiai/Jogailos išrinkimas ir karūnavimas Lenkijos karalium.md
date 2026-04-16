@@ -9,7 +9,6 @@ saltiniai:
 zymos:
   - elekcija
   - karūnacija
-bukle: juodrastis
 laikotarpis: "1386 m."
 datos:
   - "1386 m."

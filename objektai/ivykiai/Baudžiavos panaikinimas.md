@@ -8,7 +8,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - reforma
-bukle: juodrastis
 laikotarpis: "1861 m. vasario 19 d."
 datos:
   - "1861 m. vasario 19 d."

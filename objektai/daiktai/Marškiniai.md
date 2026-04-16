@@ -10,7 +10,6 @@ saltiniai:
 zymos:
   - drabužis
   - simbolis
-bukle: juodrastis
 laikotarpis: "Lietuvos krikšto laikai"
 datos:
   - "1387 m."

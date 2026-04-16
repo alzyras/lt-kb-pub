@@ -11,7 +11,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - religinis-terminas
-bukle: juodrastis
 laikotarpis: "1253 m.; 1387 m.; 1417-1421 m."
 datos:
   - "1253 m."

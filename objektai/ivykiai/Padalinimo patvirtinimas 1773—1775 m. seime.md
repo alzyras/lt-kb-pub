@@ -9,7 +9,6 @@ saltiniai:
 zymos:
   - seimas
   - politinis-sprendimas
-bukle: juodrastis
 laikotarpis: "1773–1775 m."
 datos:
   - "1773–1775 m."

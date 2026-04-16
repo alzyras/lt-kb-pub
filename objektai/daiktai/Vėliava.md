@@ -14,7 +14,6 @@ saltiniai:
 zymos:
   - simbolis
   - karo-reikmuo
-bukle: juodrastis
 laikotarpis: "XV–XVI a.; 1863 m.; 1902 m."
 datos:
   - "1863 m."

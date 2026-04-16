@@ -11,7 +11,6 @@ saltiniai:
 zymos:
   - konfliktas
   - politinis-sprendimas
-bukle: juodrastis
 laikotarpis: ""
 datos: []
 vaidmenys: []

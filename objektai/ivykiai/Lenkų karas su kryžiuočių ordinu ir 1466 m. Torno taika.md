@@ -9,7 +9,6 @@ saltiniai:
 zymos:
   - karas
   - sutartis
-bukle: juodrastis
 laikotarpis: "1466 m."
 datos:
   - "1466 m."

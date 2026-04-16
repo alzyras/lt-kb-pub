@@ -11,7 +11,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - teisinis-terminas
-bukle: juodrastis
 laikotarpis: "1572-1573 m. ir kiti laikotarpiai po karaliaus mirties"
 datos:
   - "1572-1573 m."

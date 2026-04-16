@@ -11,7 +11,6 @@ saltiniai:
 zymos:
   - frazė
   - formulė
-bukle: juodrastis
 laikotarpis: "XVII-XVIII a."
 datos: []
 vaidmenys:

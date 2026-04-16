@@ -9,7 +9,6 @@ saltiniai:
 zymos:
   - suvažiavimas
   - unija
-bukle: juodrastis
 laikotarpis: ""
 datos: []
 vaidmenys:

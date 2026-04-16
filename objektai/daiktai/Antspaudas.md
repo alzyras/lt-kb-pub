@@ -11,7 +11,6 @@ saltiniai:
 zymos:
   - simbolis
   - dokumentas
-bukle: juodrastis
 laikotarpis: "XIV–XVIII a."
 datos:
   - "XVIII a."

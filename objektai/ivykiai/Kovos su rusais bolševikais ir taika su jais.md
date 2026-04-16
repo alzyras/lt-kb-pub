@@ -9,7 +9,6 @@ saltiniai:
 zymos:
   - karas
   - sutartis
-bukle: juodrastis
 laikotarpis: "1919–1920 m."
 datos:
   - "1919–1920 m."

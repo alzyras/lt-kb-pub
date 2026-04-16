@@ -11,7 +11,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - valdovas
-bukle: juodrastis
 laikotarpis: "XIV-XV a."
 datos:
   - "1380 m."

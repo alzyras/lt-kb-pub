@@ -10,7 +10,6 @@ saltiniai:
 zymos:
   - transportas
   - karo-reikmuo
-bukle: juodrastis
 laikotarpis: "1920 m."
 datos:
   - "1920 m. spalių 3—4 d."
