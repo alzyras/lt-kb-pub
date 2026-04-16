@@ -10,7 +10,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - kronika
-bukle: juodrastis
 laikotarpis: "1582 m."
 datos:
   - "1582 m."

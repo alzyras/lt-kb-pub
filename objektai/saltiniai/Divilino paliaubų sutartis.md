@@ -12,7 +12,6 @@ saltiniai:
 zymos:
   - sutartis
   - paliaubos
-bukle: juodrastis
 laikotarpis: "1618 m."
 datos:
   - "1618 m."

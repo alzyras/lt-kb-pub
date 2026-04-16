@@ -13,7 +13,6 @@ saltiniai:
 zymos:
   - sutartis
   - aktas
-bukle: juodrastis
 laikotarpis: "1401 m."
 datos:
   - "1401 m."

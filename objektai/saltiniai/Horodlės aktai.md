@@ -10,7 +10,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - aktas
-bukle: juodrastis
 laikotarpis: "1413 m."
 datos:
   - "1413 m."

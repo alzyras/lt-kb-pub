@@ -12,7 +12,6 @@ saltiniai:
 zymos:
   - katekizmas
   - knyga
-bukle: juodrastis
 laikotarpis: "1547 m."
 datos:
   - "1547 m."
@@ -30,10 +29,6 @@ patikimumas: "Papildomi bibliografiniai duomenys paimti iš A. Šapokos vadovėl
 - Metai: 1547 m.
 
 ## Turinys ir apimtis
-
-## Teksto būklė
-
-## Ribotumai
 
 ## Ryšiai
 

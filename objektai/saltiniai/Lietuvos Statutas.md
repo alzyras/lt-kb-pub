@@ -12,7 +12,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - dokumentas
-bukle: juodrastis
 laikotarpis: "1529-1588 m."
 datos:
   - "1529 m."

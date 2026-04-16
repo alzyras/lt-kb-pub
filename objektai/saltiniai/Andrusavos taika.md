@@ -14,7 +14,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - sutartis
-bukle: juodrastis
 laikotarpis: "1667 m.; patvirtinta 1686 m."
 datos:
   - "1667 m."

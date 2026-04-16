@@ -3,10 +3,10 @@ import { FullSlug, SimpleSlug, resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
 import { byDateAndAlphabetical } from "./PageList"
 import style from "./styles/recentNotes.scss"
-import { Date, getDate } from "./Date"
 import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
 import { classNames } from "../util/lang"
+import { visibleHistoricalPeriod } from "../util/historicalPeriod"
 
 interface Options {
   title?: string
@@ -42,6 +42,7 @@ export default ((userOpts?: Partial<Options>) => {
           {pages.slice(0, opts.limit).map((page) => {
             const title = page.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title
             const tags = page.frontmatter?.tags ?? []
+            const historicalPeriod = visibleHistoricalPeriod(page.frontmatter?.laikotarpis)
 
             return (
               <li class="recent-li">
@@ -53,11 +54,7 @@ export default ((userOpts?: Partial<Options>) => {
                       </a>
                     </h3>
                   </div>
-                  {page.dates && (
-                    <p class="meta">
-                      <Date date={getDate(cfg, page)!} locale={cfg.locale} />
-                    </p>
-                  )}
+                  {historicalPeriod && <p class="meta">{historicalPeriod}</p>}
                   {opts.showTags && (
                     <ul class="tags">
                       {tags.map((tag) => (

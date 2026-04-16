@@ -1,10 +1,10 @@
-import { Date, getDate } from "./Date"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import readingTime from "reading-time"
 import { classNames } from "../util/lang"
 import { i18n } from "../i18n"
 import { JSX } from "preact"
 import style from "./styles/contentMeta.scss"
+import { visibleHistoricalPeriod } from "../util/historicalPeriod"
 
 interface ContentMetaOptions {
   /**
@@ -28,9 +28,10 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
     if (text) {
       const segments: (string | JSX.Element)[] = []
+      const historicalPeriod = visibleHistoricalPeriod(fileData.frontmatter?.laikotarpis)
 
-      if (fileData.dates) {
-        segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
+      if (historicalPeriod) {
+        segments.push(<span>{historicalPeriod}</span>)
       }
 
       // Display reading time if enabled
@@ -40,6 +41,10 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
           minutes: Math.ceil(minutes),
         })
         segments.push(<span>{displayedTime}</span>)
+      }
+
+      if (segments.length === 0) {
+        return null
       }
 
       return (

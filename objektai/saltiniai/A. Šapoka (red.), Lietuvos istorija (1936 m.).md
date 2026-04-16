@@ -11,7 +11,6 @@ saltiniai: []
 zymos:
   - vadovėlis
   - knyga
-bukle: "OCR tekstas peržiūrėtinas"
 laikotarpis: "1936 m."
 datos:
   - "1936 m."
@@ -48,15 +47,6 @@ patikimumas: "Bibliografiniai duomenys paimti tik iš darbo tekste matomų titul
 - Lietuvos istorijos vadovėlis, pratarmėje apibrėžtas kaip platesnė lietuvių tautos gyvenimo kelio apžvalga, jungianti seniausiųjų ir naujųjų laikų įvykius.
 - Turinys apima įvedamąją dalį, priešistorinį laikotarpį, valstybės kūrimą, Gediminaičių dinastijos valdymą, Lietuvos ir Lenkijos santykius, valstybės žlugimo laikotarpį, rusų valdymo laikus, tautinį atgimimą ir nepriklausomos valstybės atkūrimą.
 - Pratarmėje nurodyta, kad vadovėlis skirtas ir visuomenei, ir mokyklai.
-
-## Teksto būklė
-- Būklė: OCR tekstas peržiūrėtinas.
-- Matyti eilutės pabaigos kėlimai su brūkšneliais, suskaidytos antraštės, tarpuotos raidės ir pavieniai OCR ženklų netikslumai, pvz., redaktoriaus pavardės eilutėje yra mišrių raidžių.
-
-## Ribotumai
-- Tai sintetinis vadovėlis, o ne pirminių šaltinių publikacija.
-- Pratarmėje nurodyta, kad atskirų bendradarbių dalys buvo redaguotos, vienodintos, papildytos ir kai kur trumpintos, todėl galutinis tekstas yra redakcinės sintezės rezultatas.
-- Pratarmėje taip pat nurodytas kompromisas tarp visuomenės ir mokyklos poreikių.
 
 ## Ryšiai
 - Viešas citavimo taikinys: `objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md`

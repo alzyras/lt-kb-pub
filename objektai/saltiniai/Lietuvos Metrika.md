@@ -11,7 +11,6 @@ saltiniai:
   - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - dokumentas
-bukle: juodrastis
 laikotarpis: "XV a. vid. - XVIII a. pab."
 datos: []
 patikimumas: "Duomenys paimti tik iš A. Šapokos vadovėlio paminėjimų."

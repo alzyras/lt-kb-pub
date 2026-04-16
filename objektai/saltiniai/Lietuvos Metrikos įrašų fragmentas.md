@@ -11,7 +11,6 @@ saltiniai:
 zymos:
   - dokumentas
   - laiškas
-bukle: juodrastis
 laikotarpis: "1540 m."
 datos:
   - "1540 m. sausio 13 d."

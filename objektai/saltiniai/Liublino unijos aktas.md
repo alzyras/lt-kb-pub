@@ -12,7 +12,6 @@ saltiniai:
 zymos:
   - aktas
   - unija
-bukle: juodrastis
 laikotarpis: "1569 m."
 datos:
   - "1569 m. liepos 1 d."

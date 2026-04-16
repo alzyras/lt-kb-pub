@@ -1,4 +1,4 @@
-import { FullSlug, isRelativeURL, resolveRelative, simplifySlug } from "../../util/path"
+import { FullSlug, isRelativeURL, resolveRelative } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 import { write } from "./helpers"
 import { BuildCtx } from "../../util/ctx"
@@ -58,11 +58,11 @@ function redirectPage(fromSlug: FullSlug, toSlug: FullSlug, ctx: BuildCtx) {
 }
 
 async function* processFile(ctx: BuildCtx, file: VFile) {
-  const ogSlug = simplifySlug(file.data.slug!)
+  const ogSlug = file.data.slug! as FullSlug
   const legacySlug = legacySlugifyFilePath(String(file.data.relativePath ?? ""))
 
   if (legacySlug && legacySlug !== file.data.slug) {
-    yield redirectPage(simplifySlug(legacySlug), ogSlug, ctx)
+    yield redirectPage(legacySlug, ogSlug, ctx)
   }
 
   for (const aliasTarget of file.data.aliases ?? []) {

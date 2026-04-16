@@ -6,7 +6,6 @@ variantai: []
 aliases: []
 saltiniai: []
 zymos: []
-bukle: juodrastis
 laikotarpis: ""
 datos: []
 vaidmenys: []
@@ -19,10 +18,6 @@ patikimumas: ""
 ## Bibliografiniai duomenys
 
 ## Turinys ir apimtis
-
-## Teksto būklė
-
-## Ribotumai
 
 ## Ryšiai
 

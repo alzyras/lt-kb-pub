@@ -12,7 +12,6 @@ saltiniai:
 zymos:
   - sutartis
   - aktas
-bukle: juodrastis
 laikotarpis: "1927 m."
 datos:
   - "1927 m."
