@@ -29,10 +29,24 @@ patikimumas: ""
 
 ## Savybės
 - išvaizda:
+  - santrauka:
+    šaltiniai:
 - būdas / charakteris:
+  - santrauka:
+    šaltiniai:
 - elgesys:
+  - santrauka:
+    šaltiniai:
 - reputacija:
+  - santrauka:
+    šaltiniai:
 - gebėjimai:
+  - santrauka:
+    šaltiniai:
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
