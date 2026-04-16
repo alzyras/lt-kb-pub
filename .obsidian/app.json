@@ -1,3 +1,32 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    ".DS_Store",
+    ".git/",
+    ".gitattributes",
+    ".github/",
+    ".gitignore",
+    ".node-version",
+    ".npmrc",
+    ".obsidian/",
+    ".prettierignore",
+    ".prettierrc",
+    "LICENSE.txt",
+    "content/",
+    "globals.d.ts",
+    "index.d.ts",
+    "index.md",
+    "node_modules/",
+    "package-lock.json",
+    "package.json",
+    "private/",
+    "prof/",
+    "public/",
+    "quartz/",
+    "quartz.config.ts",
+    "quartz.layout.ts",
+    "templates/",
+    "tsconfig.json",
+    "tsconfig.tsbuildinfo"
+  ]
 }
