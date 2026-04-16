@@ -66,12 +66,4 @@ Kaunas svarbus kaip upių, archyvų, pilies ir vėlesnės politikos centras.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Kaunas“ mini šiame kontekste: Kaunas svarbus kaip upių, archyvų, pilies ir vėlesnės politikos centras.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Bet ir jai susidarius, rytų Lietuvos vandens dar ilgai tekėjo senosiomis vagomis. Kai ledynas dar tebebuvo apklojęs Žemaičius, jo pakraštyje, apie Kauną, buvo daugybė susitelkusių vandenų. Iš čia, dabartine Nemuno vidurupio vaga, vanduo tekėjo priešingai šiandieninei Nemuno tėkmei — į pietus. Kita srovė tekėjo dabartine Neries vaga, irgi priešingai šiandieninei jos tėkmei, taigi— į rytus.
-  pagrindžia: Vietos „Kaunas“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

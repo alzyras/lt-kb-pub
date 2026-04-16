@@ -53,11 +53,4 @@ Kandidatas žymi Mindaugo krikštą ir karūnavimą, kurie tekste siejami į vie
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 - dalyvis: [[Mindaugas]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    4. Mindaugo krikštas ir karūnavimasis Lietuvos karalium (1251-1253 m.) Kai po Vorutos apgulos Mindaugas pasiūlė ordinui taiką, Livonijos magistras Andrius iš Štirlando ( von Stirland) jam pateikė krikšto sąlygą.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-
 ## Pastabos

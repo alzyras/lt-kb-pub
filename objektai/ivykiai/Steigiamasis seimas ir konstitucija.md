@@ -53,17 +53,4 @@ patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą; dal
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    1. Steigiamasis seimas ir konstitucija
-
-    Laikinė konstitucija. Kai Valstybės Taryba 1918 metų lapkričio mėnesio 2 d. atšaukė Uracho išrinkimą Lietuvos karalium, valdymo formos klausimą ji paliko spręsti steigiamajam seimui.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    1. Steigiamasis seimas ir konstitucija
-  pagrindžia: Papildomą šaltinio paminėjimą apie įvykį.
-
 ## Pastabos

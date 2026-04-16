@@ -55,17 +55,4 @@ Kandidatas žymi uniją, turėjusią didelę religinę ir politinę reikšmę.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    4. Bažnytinė Brastos unija (1596 m.)
-
-    Zigmanto tikybinė politika. Zigmantas Vaza buvo karštas katalikas.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    4. Bažnytinė Brastos unija (1596 m.)
-  pagrindžia: Papildomą šaltinio paminėjimą apie įvykį.
-
 ## Pastabos

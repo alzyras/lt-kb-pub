@@ -49,13 +49,4 @@ patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą; dal
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    1. Įstojimas į Tautų Sąjungą ir Lietuvos pripažinimas de jure
-
-    Nuo Vilniaus konferencijos (1917 m.) laikų Taryba rūpinosi išgauti Lietuvos valstybės pripažinimą.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-
 ## Pastabos

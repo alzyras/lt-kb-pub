@@ -46,13 +46,3 @@ Goštautų giminė yra didikų giminė. Šaltinyje ši grupė apibūdinama kaip 
   citata: |
     Lietuvoje išaugo Alberto Goštauto vadovaujama partija
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Goštautų šeimos reikšmė nesumažėjo nė po Jono Goštauto mirties.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Lietuvoje išaugo Alberto Goštauto vadovaujama partija
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

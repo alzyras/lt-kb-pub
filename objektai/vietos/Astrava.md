@@ -60,12 +60,4 @@ Astrava svarbi kaip Vytauto ir Onos Vytautienės raštų vieta.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Astrava“ mini šiame kontekste: Astrava svarbi kaip Vytauto ir Onos Vytautienės raštų vieta.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    III. Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpjūčio 5 d.). IV. Vytauto, Skirgailos, Vladimiro ir Teodoro Algirdaičių raštas Jogailai (rašytas Krokuvoje 1394 m. vasario 18 d ).
-  pagrindžia: Vietos „Astrava“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

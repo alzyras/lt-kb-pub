@@ -57,12 +57,4 @@ Salynas minimas kaip Vytauto sutarties vieta su ordinu.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Salynas“ mini šiame kontekste: Salynas minimas kaip Vytauto sutarties vieta su ordinu.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    9. Vytauto santykiai su vokiečių ordinu ir Salyno sutartis (1398 m.) Dusyk Vytauto apgautas, ordinas buvo labai ant jo įtūžęs ir tuojau pasiryžo jam atkeršyti.
-  pagrindžia: Vietos „Salynas“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

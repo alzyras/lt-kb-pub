@@ -57,14 +57,6 @@ patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Melnas“ mini šiame kontekste: Šaltinyje vartojama sutarties vietovardžio forma.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tas išbuvo Čekijos valdovu net kelerius metus, kol Vytautas, susitaikinęs su imperatorium Zigmantu, jį atšaukė.
-  pagrindžia: Vietos „Melnas“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos
 
 - Šaltinyje vietovė pasirodo tik per taikos pavadinimą; galutinė toponimo normalizacija gali skirtis.

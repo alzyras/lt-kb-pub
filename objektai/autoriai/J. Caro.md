@@ -47,10 +47,4 @@ J. Caro šiame šaltinyje minimas kaip Lenkijos istorijos autorius.
 ## Ryšiai
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Be to, daug medžiagos galima rasti kaimynių tautų istorijose: M. Bobrzyński, Dzieje Polski w zarysie, I—II (1880, 1881); J. Szujski, Dzieje Polski I—IV (1894, II laida); J. Caro, Geschichte Polens, II—VI (1840—1869); Historya polityczna Polsk, I, II (1920, 1923, Encykloped.
-  pagrindžia: Tiesioginį bibliografinį įrodymą.
-
 ## Pastabos

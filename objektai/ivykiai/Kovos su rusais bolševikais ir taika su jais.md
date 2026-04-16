@@ -54,17 +54,4 @@ Kandidatas žymi pirmuosius nepriklausomybės karus ir taikos bandymus.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    2. Kovos su rusais bolševikais ir taika su jais
-
-    Kovos. Pirmasis naujokų šaukimas į nepriklausomosios Lietuvos kariuomenę buvo paskelbtas tik 1919 m. kovo mėn.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    2. Kovos su rusais bolševikais ir taika su jais
-  pagrindžia: Papildomą šaltinio paminėjimą apie įvykį.
-
 ## Pastabos

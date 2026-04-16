@@ -53,9 +53,4 @@ Bibliografijoje Vydūnas pateiktas Mažosios Lietuvos istorijos skyriuje.
     Vydūnas (Vilius Storasta).
   pagrindžia: Varianto `Vilius Storasta` ryšį su Vydūno vardu.
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    L. Weber, Preussen vor 500 Jahren (1878); Vydūnas, 700 Jahre deutsch-litauischen Beziehungen (1932); A. Bezcenbeigen, Die litauisch-preuss.
-  pagrindžia: Tiesioginį bibliografinį įrodymą.
-
 ## Pastabos

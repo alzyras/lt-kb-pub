@@ -43,11 +43,5 @@ Lietuvos Vakarų Sąjunga yra sąjunga. Šaltinyje ši grupė apibūdinama taip:
 ## Ryšiai
 - Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
 
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    O tam susipratimui pagreitinti yra įsikūrusi speciali Lietuvos Vakarų Sąjunga, kuri tuo ypatingai rūpinasi.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-
 ## Pastabos
 - Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

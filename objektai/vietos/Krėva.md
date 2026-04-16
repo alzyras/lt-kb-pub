@@ -59,12 +59,4 @@ Krėva svarbi kaip Jogailos ir Kęstučio konflikto vieta.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Krėva“ mini šiame kontekste: Krėva svarbi kaip Jogailos ir Kęstučio konflikto vieta.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Kęstučio lavonas iš Krėvos buvo atvežtas į Vilnių ir iškilmingai palaidotas.
-  pagrindžia: Vietos „Krėva“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

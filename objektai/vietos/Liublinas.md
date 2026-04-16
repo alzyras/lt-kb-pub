@@ -58,12 +58,4 @@ Liublinas svarbus dėl unijos ir politinių naujovių.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Liublinas“ mini šiame kontekste: Liublinas svarbus dėl unijos ir politinių naujovių.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Nuolatinis pavojus karo su Maskva vertė lietuvius nesišalinti per daug nuo Lenkijos ir sudaryti su ja naują sąjungos sutartį. Dėl to pagaliau ir įvyko abiejų valstybių unija.
-  pagrindžia: Vietos „Liublinas“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

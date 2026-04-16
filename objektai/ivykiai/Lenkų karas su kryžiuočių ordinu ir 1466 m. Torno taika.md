@@ -62,17 +62,4 @@ patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą; dal
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 - dalyvis: [[Kazimieras]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    5. Lenkų karas su kryžiuočių ordinu ir 1466 m. Torno taika
-
-    13 metų karas. Kazimiero laikais ordinas jau buvo visiškai susilpnėjęs, todėl nė nebegalvojo apie bet kokį karą.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    5. Lenkų karas su kryžiuočių ordinu ir 1466 m. Torno taika
-  pagrindžia: Papildomą šaltinio paminėjimą apie įvykį.
-
 ## Pastabos

@@ -60,17 +60,4 @@ patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą; dal
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 - dalyvis: [[Kazimieras]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    1. Kazimiero išrinkimas didžiuoju Lietuvos kunigaikščiu (1440 m.)
-
-    Išrinkimas. Zigmantui žuvus, natūraliu kandidatu į Lietuvos sostą tapo jo sūnus Mykolas; Mykolo šalininkai tuojau ir užėmė žemutinę Vilniaus pilį, Trakus ir Brastą. Žemaičiai taip pat palaikė jo pusę. Tačiau daugumas didikų, bijodami keršto už tėvo mirtį, buvo nusistatę prieš jį. Nors tuo pat metu pareiškė savo pretenzijas į sostą ir Švitrigaila, bet galingesnieji Lietuvos didikai, susirinkę į Alšėnus, didžiuoju kunigaikščiu išrinko jaunėlį Jogailos sūnų, Kazimierą. Jis buvo iškviestas į Vilnių ir čia paskelbtas didžiuoju Lietuvos kunigaikščiu. Švitrigailos ir Mykolo šalininkai turėjo nusileisti, — vieni geruoju, o kiti, priversti ginklu. Kadangi Kazimieras teturėjo vos 13 m. amžiaus, tai jo vardu kraštą valdė skirtieji patarėjai, kuriems vadovavo išmintingasai politikas Jonas Goštautas.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    1. Kazimiero išrinkimas d. Lietuvos kunigaikščiu (1440 m.). 177
-  pagrindžia: Papildomą šaltinio paminėjimą apie įvykį.
-
 ## Pastabos

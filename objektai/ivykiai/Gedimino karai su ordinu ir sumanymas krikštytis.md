@@ -59,17 +59,4 @@ Skyrius jungia Gedimino karinius konfliktus su ordinu ir jo krikšto planus.
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 - dalyvis: [[Gediminas]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    5. Gedimino karai su ordinu ir sumanymas krikštytis
-
-    Santykiai su ordinu. Gedimino viešpatavimo pradžia buvo rami. Žemaitijos pasieny kryžiuočiai turėjo pasistatę eilę tvirtovių ir ruošėsi slinkti tolyn. Bet pirmaisiais 6 metais, t. y. iki 1522 m., jie didelio žygio nesuruošė: buvo daromi tik maži plėšikiški užpuolimai. Livonijoje tuo tarpu ordinas tebesibylinėjo su arkivyskupu, tad irgi negalėjo surengti didelių žygių. Tik 1322 m., pasikvietę svečių iš Vokietijos, kryžiuočiai suruošė žygi į Žemaičius ir sugriovė vieną pilį. Atsilygindamas už tai, Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    5. Gedimino karai su ordinu ir sumanymas krikštytis. 68
-  pagrindžia: Papildomą šaltinio paminėjimą apie įvykį.
-
 ## Pastabos

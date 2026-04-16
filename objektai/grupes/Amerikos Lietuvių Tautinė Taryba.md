@@ -43,11 +43,5 @@ Amerikos Lietuvių Tautinė Taryba yra taryba. Šaltinyje ši grupė apibūdinam
 ## Ryšiai
 - Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
 
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Į katalikų 1916 m. suorganizuotą Tautos Tarybą tautininkai nėjo: jie suorganizavo savo Amerikos Lietuvių Tautinę Tarybą.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-
 ## Pastabos
 - Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

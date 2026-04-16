@@ -59,12 +59,4 @@ Bazelis minimas kaip bažnytinio suvažiavimo vieta.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Bazelis“ mini šiame kontekste: Bazelis minimas kaip bažnytinio suvažiavimo vieta.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tiesa, Lenkija vėliau su Prūsų ordinu pradėjo dar naują karą, kuris padarė ordiną Lenkijos vasalu, tačiau Lietuva tame kare jau nebedalyvavo, nors buvo valdoma to paties valdovo — Kazimiero.
-  pagrindžia: Vietos „Bazelis“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

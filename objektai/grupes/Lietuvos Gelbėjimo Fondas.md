@@ -43,11 +43,5 @@ Lietuvos Gelbėjimo Fondas yra fondas. Šaltinyje ši grupė apibūdinama taip: 
 ## Ryšiai
 - Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
 
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tuomet tautininkai, nutarę skyrium organizuotis, įkūrė tautiškąją lietuvių pirmeivių partiją, kuri vėliau virto Amerikos Lietuvių Tautine Sandara ir įsteigė Lietuvos Gelbėjimo Fondą.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-
 ## Pastabos
 - Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

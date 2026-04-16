@@ -59,12 +59,4 @@ Aukštaitija minima kaip rytinė lietuvių žemių dalis.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Aukštaitija“ mini šiame kontekste: Aukštaitija minima kaip rytinė lietuvių žemių dalis.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Dabartinėj mūsų Suvalkų krašto lygumoj, Mažojoj Lietuvoj ir didelėj Prūsų daly buvo pilna nepereinamų pelkių ir girių. Gyventojų čia buvo palyginti reta. Jie gyveno tik sausesnėse girių aikštėse. Geriau buvo įsikurti aukštesnėse Žemaitijos ir Aukštaitijos lygumose, todėl čia gyventojų buvo tirščiau. Didžiulės, giriomis apaugusios pelkės skyrė aukštaičius nuo Padauguvio giminių.
-  pagrindžia: Vietos „Aukštaitija“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

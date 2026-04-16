@@ -54,13 +54,4 @@ Kandidatas žymi šiaurės karo pradžią ir švedų įsiveržimą į Lietuvą.
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 - dalyvis: [[Augustas II]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    15. Švedų antplūdis ir karas su jais
-
-    Karo pradžia. Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo jaunutis Karolis XII; jam tebuvo vos 18 metų amžiaus.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-
 ## Pastabos

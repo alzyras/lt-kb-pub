@@ -54,13 +54,4 @@ Kandidatas žymi naujo valdovo išrinkimą po Kazimiero laikų.
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 - dalyvis: [[Aleksandras]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    1. Aleksandro (1492—1506 m.) išrinkimas didžiuoju Lietuvos kunigaikščiu
-
-    Kazimiero laikais Lietuvos santykiai su Lenkija buvo labai įtempti. Išrenkant jį didžiuoju Lietuvos kunigaikščiu, ryšys su Lenkija buvo visiškai nutrauktas; jis buvo atnaujintas tik Kazimierui tapus ir Lenkų karalium.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-
 ## Pastabos

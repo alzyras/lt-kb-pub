@@ -59,13 +59,4 @@ patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą; dal
 - dalyvis: [[Vytautas]]
 - dalyvis: [[Jogaila]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    16. Naujas sunormavimas santykių su Lenkija — Horodlės aktai (1413 m.)
-
-    Lietuvos Lenkijos santykiai iki Horodlės akto keitėsi net keletą kartų. Pirmiausia, kai Jogaila išėjo į Lenkiją, jis ir visi kunigaikščiai pasižadėjo, kad Lietuva bus su Lenkija sujungta ir paties Jogailos valdoma.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-
 ## Pastabos

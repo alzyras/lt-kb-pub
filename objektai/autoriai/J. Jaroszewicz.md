@@ -46,10 +46,4 @@ Autorius pateiktas bendrųjų Lietuvos istorijos veikalų bibliografijoje.
 ## Ryšiai
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Litewskiego za Jagiellonów, I, 1377—1499 (1930); J. Jaroszewicz, Obraz Litwy pod względem jej cywilizacyi, I—III (1844) ; T. N ar but t, Dzieje št. narodu Litewskiego, I—IX (1835—1841); A. Janulaitis, Lietuvos visuomenės ir teisės istorija (1916; parašyta sekant Št.
-  pagrindžia: Tiesioginį bibliografinį įrodymą.
-
 ## Pastabos

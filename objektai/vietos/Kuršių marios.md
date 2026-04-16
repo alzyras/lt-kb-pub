@@ -66,13 +66,6 @@ patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės jungiasi su Baltija. Senoji tos vietos sodyba buvo vadinama Klaipėda; ordinas ją pavadino vokišku Nemuno vardu — Memel.
-  pagrindžia: Kuršių marių pavadinimą ir šaltinio kontekstą.
-
 ## Pastabos
 
 - Kandidatų faile pateikta forma `Kuršmarių`, o darbo tekste čia rasta formų `Kuršmarės` ir `Kuršmares`.

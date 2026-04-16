@@ -51,15 +51,5 @@ Lietuvos Vyčiai yra sąjunga. Šaltinyje ši grupė apibūdinama taip: Kataliki
 ## Ryšiai
 - Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
 
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Lietuvos Vyčių Sąjungoje
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Nemaža katalikų jaunimo Federacija suorganizavo ir Lietuvos Vyčių Sąjungoje (tai maždaug, kaip Lietuvoje pavasarininkai); ji turi apie 100 kuopų ir leidžia savo laikraštį „Vytį".
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-
 ## Pastabos
 - Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

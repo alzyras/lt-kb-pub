@@ -57,12 +57,4 @@ Kijevas minimas kaip tolimas Lietuvos įtakos taikinys.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Kijevas“ mini šiame kontekste: Kijevas minimas kaip tolimas Lietuvos įtakos taikinys.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Gediminas čia glaudžiai sujungė su savo valstybe jau Vytenio užimtą Palenkę, Pagirį ir gretimąsias sritis, o be to, dar užėmė didelę dalį Voluinės, prijungė po Mindaugo išsivaduvusį Vitebską su gretimaisiais miestais ir paėmė į savo įtaką tolimąjį Kijevą. Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Naugardą — Gedimino sūnus Narimantas).
-  pagrindžia: Vietos „Kijevas“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

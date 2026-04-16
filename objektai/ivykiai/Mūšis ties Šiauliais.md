@@ -47,13 +47,4 @@ patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą; dal
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    2. Mūšis ties Šiauliais (1236 m.) ir kalavijuočių susiliejimas su kryžiuočiais (1237 m.)
-
-    Mirus vysk. Albertui, kalavijuočių ordinui nekaip sekėsi, nes naujasis vyskupas, norėdamas suvaldyti ordiną, buvo pradėjęs su juo kovą, kurią išsprendė tik popiežiaus legatas. Ordinas buvo silpnas, ir jam buvo sunku kariauti su stiprėjančia Lietuva.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-
 ## Pastabos

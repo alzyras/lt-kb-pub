@@ -47,13 +47,4 @@ Tai konkretus teismų kalbos pakeitimas, įtvirtinęs lenkų kalbą vietoje gud�
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    12. Lenkų kalbos įvedimas Lietuvos teismuose
-
-    Tame pačiame 1697 m. coaequatio iurium įstatyme buvo dar pasakyta, kad visi Lietuvos teismų sprendimai turį būti rašomi nebe senąja kanceliarine gudų kalba, bet lenkų kalba. Lietuvoje iki Jogailos Vytauto laikų nebuvo jokių raštų vidaus reikalams: visi dovanojimai ir teismo sprendimai būdavo atliekami žodžiu arba žymimi kokiais nors kitais ženklais.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-
 ## Pastabos

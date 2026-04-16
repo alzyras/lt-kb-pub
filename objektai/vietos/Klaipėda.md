@@ -60,12 +60,4 @@ Klaipėda siejama su ordino pilies statyba ir vėlesniu krašto klausimu.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Klaipėda“ mini šiame kontekste: Klaipėda siejama su ordino pilies statyba ir vėlesniu krašto klausimu.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Be to, užėmus pajūrį, Livonijoje ir Prūsuose veikiančios ordino šakos galėtų susisiekti sausuma. Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės jungiasi su Baltija. Senoji tos vietos sodyba buvo vadinama Klaipėda; ordinas ją pavadino vokišku Nemuno vardu — Memel. Žemaičiai tuojau suprato naujosios pilies pavojingumą ir ėmė ją pulti dar tebestatomą.
-  pagrindžia: Vietos „Klaipėda“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

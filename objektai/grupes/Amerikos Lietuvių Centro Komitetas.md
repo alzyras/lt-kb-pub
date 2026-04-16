@@ -48,15 +48,5 @@ Amerikos Lietuvių Centro Komitetas yra komitetas. Šaltinyje ši grupė apibūd
 ## Ryšiai
 - Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
 
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Amerikos Lietuvių Centro Komitetas
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tuo būdu atsirado trys lietuvių Fondai, iš kurių socialistiškasis niekad nedirbo kartu su kitais dviem ir rinko aukas tik nukentėjusiems nuo karo šelpti, o katalikų ir tautininkų Fondai kartais veikdavo ir išvien: mat, jų abiejų tikslai buvo vienodi — šelpti nukentėjusius ir rūpintis autonomija.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-
 ## Pastabos
 - Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

@@ -63,7 +63,4 @@ Vaišvilkas šiame šaltinyje minimas kaip Mindaugo sūnus ir 1265-1268 m. Lietu
 ## Ryšiai
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-- Pagrindiniai įrodymai pateikti skiltyje „Reikšmingi paminėjimai“.
-
 ## Pastabos

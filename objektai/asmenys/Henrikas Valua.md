@@ -63,7 +63,4 @@ Henrikas Valua šiame šaltinyje minimas pirmosios elekcijos ir 1573-1574 m. val
 ## Ryšiai
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-- Pagrindiniai įrodymai pateikti skiltyje „Reikšmingi paminėjimai“.
-
 ## Pastabos

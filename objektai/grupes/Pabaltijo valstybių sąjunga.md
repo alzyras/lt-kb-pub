@@ -44,13 +44,3 @@ Pabaltijo valstybių sąjunga yra sąjunga. Šaltinyje ši grupė apibūdinama k
   citata: |
     Išplėsta ir sustiprinta Pabaltijo valstybių sąjunga turės
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Pabaltijo valstybių sąjunga
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Išplėsta ir sustiprinta Pabaltijo valstybių sąjunga turės
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

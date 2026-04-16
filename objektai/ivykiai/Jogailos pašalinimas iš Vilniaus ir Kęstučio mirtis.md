@@ -69,17 +69,4 @@ Kandidatas žymi politinę krizę, kuri pakeitė valdžios pusiausvyrą Lietuvoj
 - dalyvis: [[Kęstutis]]
 - dalyvis: [[Vytautas]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    2. Jogailos pašalinimas iš Vilniaus ir Kęstučio mirtis
-
-    Jogailos pašalinimas (1381 m.). Apie Jogailos išdavikišką sutartį Kęstučiui pranešė vienas aukštas ordino narys: matyt, ordinas trokšte troško, kad Lietuvoje kuo greičiausiai įsivyrautų vaidai. Kęstutis tuojau patikėjo žinia, nes jau ir pats įtarė Jogailą.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    2. Jogailos pašalinimas iš Vilniaus ir Kęstučio mirtis. 97
-  pagrindžia: Papildomą šaltinio paminėjimą apie įvykį.
-
 ## Pastabos

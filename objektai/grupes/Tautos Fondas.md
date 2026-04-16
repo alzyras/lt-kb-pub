@@ -39,24 +39,8 @@ Tautos Fondas yra fondas. Šaltinyje ši grupė apibūdinama taip: Amerikos liet
   citata: |
     Susivienijimas Lietuvių Amerikoje 1902 m., o Susivienijimas Lietuvių R. Katalikų Amerikoje 1907 m. įsteigė Tautos Fondą, į kurį kiekvienas narys mokėjo po 5 centus per metus tautos reikalams.
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-- santrauka: Papildomas tiesioginis paminėjimas iš to paties šaltinio.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Susivienijimas Lietuvių Amerikoje 1902 m., o Susivienijimas Lietuvių R. Katalikų Amerikoje 1907 m. įsteigė Tautos Fondą, į kurį kiekvienas narys mokėjo po 5 centus per metus tautos reikalams.
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
 ## Ryšiai
 - Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Susivienijimas Lietuvių Amerikoje 1902 m., o Susivienijimas Lietuvių R. Katalikų Amerikoje 1907 m. įsteigė Tautos Fondą, į kurį kiekvienas narys mokėjo po 5 centus per metus tautos reikalams.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Susivienijimas Lietuvių Amerikoje 1902 m., o Susivienijimas Lietuvių R. Katalikų Amerikoje 1907 m. įsteigė Tautos Fondą, į kurį kiekvienas narys mokėjo po 5 centus per metus tautos reikalams.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
 
 ## Pastabos
 - Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

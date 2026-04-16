@@ -57,12 +57,4 @@ Krokuva minimas kaip istorinė Lenkijos sostinė.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Krokuva“ mini šiame kontekste: Krokuva minimas kaip istorinė Lenkijos sostinė.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    1384 m., kada Jadvyga jau buvo atvažiavusi iš Vengrijos į Krokuvą ir buvo vainikuota Lenkijos karaliene, pas Jogailą atvyko speciali lenkų ponų delegacija. Tuomet Jogaila išsiuntė į Lenkiją savo delegaciją, kuriai vadovavo Skirgaila. Toji delegacija pirmiausia susitarė su lenkais Krokuvoje, o vėliau dar nuvyko pas Jadvygos motiną į Vengriją (iš Krokuvos grįžo tiktai delegacijos pirmininkas Skirgaila). Su pačia Jadvyga nebuvo ko kalbėti, nes ji tebuvo dar vos 14 metų mergaitė, buvo įsimylėjusi savo sužadėtinį Vilhelmą ir apie Jogailą nenorėjo nė klausyti.
-  pagrindžia: Vietos „Krokuva“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

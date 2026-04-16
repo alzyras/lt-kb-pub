@@ -39,9 +39,3 @@ Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba yra taryba. Šaltinyje ši
   citata: |
     Nepriklausomybės šūkį toliau skleidė naujai sukurtoji Voroneže Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba, kurią sudarė įvairių partijų atstovai, sušaukti į suvažiavimą trijų pasižymėjusių vyrų — Pr.
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Nepriklausomybės šūkį toliau skleidė naujai sukurtoji Voroneže Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba, kurią sudarė įvairių partijų atstovai, sušaukti į suvažiavimą trijų pasižymėjusių vyrų — Pr.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

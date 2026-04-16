@@ -44,13 +44,3 @@ Targovicos konfederacija yra konfederacija. Šaltinyje ši grupė apibūdinama k
   citata: |
     Targovicos konfederacija, kuri ėjo prieš visas reformas
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Targovicos konfederacija
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Targovicos konfederacija, kuri ėjo prieš visas reformas
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

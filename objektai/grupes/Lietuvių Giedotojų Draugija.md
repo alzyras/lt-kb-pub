@@ -39,24 +39,8 @@ Lietuvių Giedotojų Draugija yra draugija. Šaltinyje ši grupė apibūdinama t
   citata: |
     Iš karto draugija gyvavo gana sunkiai, bet, švęsdama savo dešimtmetį, ji suorganizavo didelę dainų šventę ir įkūrė Lietuvių Giedotojų Draugiją, kuri Vydūno (Storastos) vadovaujama tebegyMažosios Lietuvos lietuvaitės liaudies meno parodoje, Tilžėje, 1934 m. vuoja ir dabar.
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-- santrauka: Papildomas tiesioginis paminėjimas iš to paties šaltinio.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Iš karto draugija gyvavo gana sunkiai, bet, švęsdama savo dešimtmetį, ji suorganizavo didelę dainų šventę ir įkūrė Lietuvių Giedotojų Draugiją, kuri Vydūno (Storastos) vadovaujama tebegyMažosios Lietuvos lietuvaitės liaudies meno parodoje, Tilžėje, 1934 m. vuoja ir dabar.
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
 ## Ryšiai
 - Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Iš karto draugija gyvavo gana sunkiai, bet, švęsdama savo dešimtmetį, ji suorganizavo didelę dainų šventę ir įkūrė Lietuvių Giedotojų Draugiją, kuri Vydūno (Storastos) vadovaujama tebegyMažosios Lietuvos lietuvaitės liaudies meno parodoje, Tilžėje, 1934 m. vuoja ir dabar.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Iš karto draugija gyvavo gana sunkiai, bet, švęsdama savo dešimtmetį, ji suorganizavo didelę dainų šventę ir įkūrė Lietuvių Giedotojų Draugiją, kuri Vydūno (Storastos) vadovaujama tebegyMažosios Lietuvos lietuvaitės liaudies meno parodoje, Tilžėje, 1934 m. vuoja ir dabar.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
 
 ## Pastabos
 - Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

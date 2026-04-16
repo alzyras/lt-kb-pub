@@ -57,12 +57,4 @@ Aisčių kraštas apibrėžiamas kaip pajūrio erdvė prie Baltijos.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Baltijos jūra“ mini šiame kontekste: Aisčių kraštas apibrėžiamas kaip pajūrio erdvė prie Baltijos.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Aisčių kraštas. Visos aisčių giminės gyveno palyginti labai nuošaliam krašte, paliai Baltijos jūrą. Tas kraštas sudaro beveik vieną ištisinę lygumą. Aukštumų čia yra tik rytinėje Lietuvos dalyje, t. y. pačiam jos pakrašty, •— ten, iš kur vienos upės pradeda tekėti į vakarus (Nemuno baseino upės), o kitos į rytus (Dniepro baseino upės).
-  pagrindžia: Vietos „Baltijos jūra“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

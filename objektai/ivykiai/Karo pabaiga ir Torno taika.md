@@ -67,17 +67,4 @@ Tai karo pabaigos ir taikos sutarties įtvirtinimo etapas po didžiojo karo.
 - dalyvis: [[Vytautas]]
 - dalyvis: [[Jogaila]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    15. Karo pabaiga ir Torno taika (1411 m.)
-
-    Tą pačią dieną po mūšio nei lietuviai nei lenkai toli nesivijo kryžiuočių, nes reikėjo pasilsėti. Sąjungininkų kariuomenė tik po kelių dienų teišsirengė Marijenburgo link.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    15. Karo pabaiga ir Tomo taika (1411 m.)
-  pagrindžia: Papildomą šaltinio paminėjimą apie įvykį.
-
 ## Pastabos

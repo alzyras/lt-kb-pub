@@ -57,12 +57,4 @@ Dniepras minimas kaip rytinis prekybos ir baseino orientyras.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Dniepras“ mini šiame kontekste: Dniepras minimas kaip rytinis prekybos ir baseino orientyras.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolatinį upių susisiekimą su Bizantija. Vienas iš jų svarbiųjų upių kelių į Bizantiją buvo Dauguva ir Dniepras (čia jiems tekdavo sausuma pereiti tiktai nedidelį tarpą, skiriantį tų upių aukštupius). Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmonių, saugančių upe keliaujančius pirklius nuo plėšikų.
-  pagrindžia: Vietos „Dniepras“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

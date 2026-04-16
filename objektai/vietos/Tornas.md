@@ -57,12 +57,4 @@ Tornas minimas kaip ordino karo ir taikos vieta.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Tornas“ mini šiame kontekste: Tornas minimas kaip ordino karo ir taikos vieta.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Lenkų karas su kryžiuočių ordinu ir 1466 m. Torno taika
-  pagrindžia: Vietos „Tornas“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

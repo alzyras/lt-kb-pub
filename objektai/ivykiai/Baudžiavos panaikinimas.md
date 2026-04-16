@@ -47,13 +47,4 @@ Kandidatas žymi baudžiavos panaikinimą visoje Rusijos imperijoje.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    9. Baudžiavos panaikinimas
-
-    Valstiečių būklė XIX amž. vidury beveik nepakitėjo. Kai 1817 m. bajorija, pradėjusi kalbėti apie baudžiavos panaikinimą, buvo sudrausta, — tas klausimas daugiau jau nebeiškilo.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-
 ## Pastabos

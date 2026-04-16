@@ -58,12 +58,4 @@ Klaipėdos kraštas aptariamas kaip atskiras prijungimo ir administravimo klausi
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Klaipėdos kraštas“ mini šiame kontekste: Klaipėdos kraštas aptariamas kaip atskiras prijungimo ir administravimo klausimas.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (netoli Turmanto stoties), buvo nukaišiota gairėmis; tokia pat ji tebėra ir iki šiol.
-  pagrindžia: Vietos „Klaipėdos kraštas“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

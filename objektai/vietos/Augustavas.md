@@ -57,12 +57,4 @@ Augustavas minimas kaip pasienio ruožo ir linijos orientyras.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Augustavas“ mini šiame kontekste: Augustavas minimas kaip pasienio ruožo ir linijos orientyras.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Lietuvos delegacija tada vėl kreipėsi į konferenciją, kad ji nustatytų laikinę demarkacijos liniją. Speciali Prancūzų karo. misija Lietuvoje tą liniją nustatė birželio mėn. 18 d., vesdama ją tiesiog nuo Lykos (Elko) ligi Augustavo (šis miestas lenkų pusėje), pro Ratnyčią, Varėną ir Vilnių, paliai geležinkelį (5 klm. į vakarus), Vilnių palikdama lenkų pusėj. Kadangi ta demarkacinė linija teturėjo tik laikinės militarinės reikšmės, tai Lietuvos vyriausybė ją priėmė, nors ji ir buvo kenksminga tautos interesams.
-  pagrindžia: Vietos „Augustavas“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

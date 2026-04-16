@@ -46,11 +46,5 @@ Tautiškoji Lenkų Sąjunga yra sąjunga. Šaltinyje ši grupė apibūdinama tai
 ## Ryšiai
 - Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
 
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Lietuvių visuomeninis judėjimas J. Amerikos Valstybėse iš pradžių taip pat buvo glaudžiai susijęs su lenkais; dažnai lietuviai arba jų draugijėlės dėjosi su Tautiškąja Lenkų Sąjunga, kuri buvo skelbiama esanti abiejų tautų organizacija.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-
 ## Pastabos
 - Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

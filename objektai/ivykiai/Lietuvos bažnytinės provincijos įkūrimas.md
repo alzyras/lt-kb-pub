@@ -58,15 +58,4 @@ Kandidatas žymi Lietuvos Bažnyčios įteisinimą ir atskyrimą nuo vokiečių 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 - dalyvis: [[Mindaugas]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    5. Lietuvos bažnytinės provincijos įkūrimas (1253 m.) Ta pati delegacija, kuri prašė popiežių karūnuoti Mindaugą, drauge prašė įkurti jo valstybėje ir vyskupystę.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    5. Lietuvos bažnytinės provincijos įkūrimas (1253 m.). 54
-  pagrindžia: Papildomą šaltinio paminėjimą apie įvykį.
-
 ## Pastabos

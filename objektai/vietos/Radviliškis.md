@@ -60,12 +60,4 @@ Radviliškis minimas kaip bermontininkų ir Lietuvos kariuomenės kovų vieta.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Radviliškis“ mini šiame kontekste: Radviliškis minimas kaip bermontininkų ir Lietuvos kariuomenės kovų vieta.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Radviliškį ir Šiaulius. 1919 m. lapkričio 21—22 d. prie Radviliškio įvyko didelės kautynės, kurias bermotininkai visiškai pralaimėjo. Radvilišky ir Šiauliuose mūsų kariuomenė rado visko prigrūstus sandėlius.
-  pagrindžia: Vietos „Radviliškis“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

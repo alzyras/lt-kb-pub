@@ -61,12 +61,4 @@ Jelgava minima tiek Latvijos lietuvių veiklos, tiek geografinių ribų kontekst
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Jelgava“ mini šiame kontekste: Jelgava minima tiek Latvijos lietuvių veiklos, tiek geografinių ribų kontekste.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Visai Livonijai buvo pripažinta tikėjimo laisvė (mat, ji buvo protestantiška) ir plati savivaldybė, o iš Kuršo ir Žiemgalos buvo sudaryta kunigaikštystė su sostine Jelgavoje (Mintaujoje), kuri buvo pavesta vasalo teisėmis valdyti Ketleriui, ligi pasibaigs jo giminė. Šitos sutarties nepripažino tik Rygos miestas; jis liko nepriklausomos iki 1582 m., kada jį nukariavo Steponas Batoras.
-  pagrindžia: Vietos „Jelgava“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

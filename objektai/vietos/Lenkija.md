@@ -60,12 +60,4 @@ Lenkija svarbi kaip Lietuvos valdovų ir sienų politikos kaimynė.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Lenkija“ mini šiame kontekste: Lenkija svarbi kaip Lietuvos valdovų ir sienų politikos kaimynė.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tatai Vytauto santykius su ordinu visai nutraukė, ir jis, jau nebesislėpdamas, nusiuntė į Žemaičius savo bajorų ir paėmė juos į savo valdžią. Po to karas su ordinu jau buvo nebeišvengiamas.
-  pagrindžia: Vietos „Lenkija“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

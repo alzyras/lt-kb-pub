@@ -56,11 +56,4 @@ Kandidatas jungia Žemaitijos krikštą ir vyskupystės kūrimą kaip vieną pro
 - dalyvis: [[Vytautas]]
 - dalyvis: [[Jogaila]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    1413 m. jau ir tatai buvo atmesta, o buvo tik paliktos Jogailos teisės Lietuvai ir padėti pagrindai artimam Lietuvos ir Lenkijos bendradarbiavimui, kuris jas suvedė į uniją tiktai po 150 metų (1569 m.). 17. Žemaičių krikštas (1413 m.) ir vyskupystės įkūrimas (1417—1421 m.) Krikštas.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-
 ## Pastabos

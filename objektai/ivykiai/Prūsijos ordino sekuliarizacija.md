@@ -58,15 +58,4 @@ Kandidatas žymi ordino valstybės pertvarką į pasaulietinę kunigaikštystę.
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 - dalyvis: [[Zigmantas II]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    7. Prūsijos ordino sekuliarizacija (1525 m.) Nuo to laiko, kai Lietuva krikštijosi ir Europos buvo pripažinta katalikiška valstybe, kryžiuočių ordinas buvo nebepateisinamas.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    7. Prūsijos ordino sekuliarizacija (1525 m.)
-  pagrindžia: Papildomą šaltinio paminėjimą apie įvykį.
-
 ## Pastabos

@@ -57,12 +57,4 @@ Panevėžys minimas tarp provincijos muziejų ar vietovių.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Panevėžys“ mini šiame kontekste: Panevėžys minimas tarp provincijos muziejų ar vietovių.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Lietuvoje dabar kuriamas centralinis Vytauto Didžiojo Muziejus Kaune. Nemaža muziejų yra ir provincijoj (Klaipėdoj, Šiauliuose, Panevėžy, Telšiuose, Kėdainiuose, Biržuose ir kitur). Dvasinės kultūros palaikai, arba tautosaka, taip pat yra renkama, rūšiuojama ir spausdinama.
-  pagrindžia: Vietos „Panevėžys“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

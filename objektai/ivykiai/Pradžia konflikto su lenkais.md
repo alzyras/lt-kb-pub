@@ -53,17 +53,4 @@ Kandidatas žymi konflikto su Lenkija pradžią po valstybės atkūrimo.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    4. Pradžia konflikto su Lenkais
-
-    Lenkų norai prijungti Lietuvą prie savo valstybės. Dėl senųjų valstybinių ir kultūrinių ryšių su Lenkija, Lietuvoje visą laiką buvo stiprus sulenkėjusių bajorų dvarininkų sluoksnis.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    4. Pradžia konflikto su lenkais
-  pagrindžia: Papildomą šaltinio paminėjimą apie įvykį.
-
 ## Pastabos

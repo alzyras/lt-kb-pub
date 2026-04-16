@@ -46,13 +46,3 @@ Habsburgai yra dinastija. Šaltinyje ši grupė apibūdinama kaip austrijos vald
   citata: |
     Kadangi jo didieji priešai buvo susirišę su Prancūzija, tai jis pats tuojau užmezgė ryšius su Austrų Habsburgais ir iš jų šeimos net vedė žmoną.
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Habsburgais dėl Vengrijos ir Čekijos
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Kadangi jo didieji priešai buvo susirišę su Prancūzija, tai jis pats tuojau užmezgė ryšius su Austrų Habsburgais ir iš jų šeimos net vedė žmoną.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

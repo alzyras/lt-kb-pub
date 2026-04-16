@@ -44,13 +44,3 @@ Nebylys seimas yra seimas. Šaltinyje ši grupė apibūdinama kaip seimas, kuris
   citata: |
     Dėl to, kad jame niekas nekalbėjo, jis ir vadinamas nebyliu.
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    1717 m. „nebylys seimas"
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Dėl to, kad jame niekas nekalbėjo, jis ir vadinamas nebyliu.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

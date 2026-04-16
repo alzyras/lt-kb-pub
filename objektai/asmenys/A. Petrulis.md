@@ -61,8 +61,5 @@ A. Petrulis šiame šaltinyje minimas kaip kunigas ir Lietuvos Tarybos narys; pi
 ## Ryšiai
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-- Pagrindiniai įrodymai pateikti skiltyje „Reikšmingi paminėjimai“.
-
 ## Pastabos
 - Tapatybė palikta inicialine forma, nes pilnas vardas šiame šaltinyje nepateiktas.

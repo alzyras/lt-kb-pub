@@ -57,12 +57,4 @@ Kopenhaga minima kaip tarptautinių derybų dėl Nemuno vieta.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Kopenhaga“ mini šiame kontekste: Kopenhaga minima kaip tarptautinių derybų dėl Nemuno vieta.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tačiau tas pasiūlymas nebuvo priimtas. Kitais metais (1925 m.) Lenkija pasiūlė Lietuvai derybas dėl Nemuno atidarymo Kopenhagoje. Kadangi Klaipėdos konvencijoje Lietuva sutiko, nepaisydama savo ginčo su Lenkija, atidaryti Nemuną miško plukdymui, todėl pasiūlymą priėmė.
-  pagrindžia: Vietos „Kopenhaga“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

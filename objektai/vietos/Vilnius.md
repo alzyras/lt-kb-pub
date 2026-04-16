@@ -68,12 +68,4 @@ Vilnius nuolat veikia kaip valdžios, diplomatinis ir kultūrinis centras.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Vilnius“ mini šiame kontekste: Vilnius nuolat veikia kaip valdžios, diplomatinis ir kultūrinis centras.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tačiau, būdamas ramus valdovas, kurs valdė daugiausia diplomatija, o kariuomenei vadovauti paprastai siųsdavo savo valdinius arba sūnus, — Gediminas turėjo pasirinkti sau nuolatinę gyvenamąją vietą. Tokia nuolatinė jo sostinė ir buvo Vilnius. Vilnius — Lietuvos sostinė. Mes tikrai žinome, kad 1323 m. Gediminas gyveno jau Vilniuje. Tais metais jau iš Vilniaus jis rašė savo garsiuosius laiškus popiežiui ir vakarų Europos miestams, iš Vilniaus jis derėjosi su Ryga ir su ordinu, pagaliau Vilniuje kitais metais jis turėjo pasikalbėjimą su popiežiaus legatų pasiuntiniais dėl krikšto.
-  pagrindžia: Vietos „Vilnius“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

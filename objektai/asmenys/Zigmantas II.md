@@ -63,7 +63,4 @@ Zigmantas II šiame šaltinyje pristatomas kaip 1506-1548 m. valdovas, siejamas 
 ## Ryšiai
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-- Pagrindiniai įrodymai pateikti skiltyje „Reikšmingi paminėjimai“.
-
 ## Pastabos

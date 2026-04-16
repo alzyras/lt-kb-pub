@@ -58,12 +58,4 @@ Giedraičiai svarbūs kaip 1920 m. kovų vieta.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Giedraičiai“ mini šiame kontekste: Giedraičiai svarbūs kaip 1920 m. kovų vieta.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Širvintų buvo paimti lenkų brigados ir pulko štabai, su viršum 200 belaisvių, 2 patrankos, 9 minosvydžiai, 20 kulkosvydžių ir kt. Antras toks pats laimėjimas buvo lapkričio 21d. prie Giedraičių. Po šių laimėjimų mūsų kariuomenė jau buvo bežygiuojanti į Vilnių, tačiau Tautų Sąjungos komisija vėl pasiūlė sustabdyti kovas ir nustatė tarp kariuomenių neutralinę zoną.
-  pagrindžia: Vietos „Giedraičiai“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

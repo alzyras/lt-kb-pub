@@ -59,12 +59,4 @@ Brasta įvardijama kaip pietrytinė pasienio sritis ir vėlesnis politinis centr
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Brasta“ mini šiame kontekste: Brasta įvardijama kaip pietrytinė pasienio sritis ir vėlesnis politinis centras.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Toliau nuo jų, į pietus, kairiajam Nemuno krante, t. y. pietinėje Mažosios Lietuvos dalyje, dabartiniam Suvalkų krašte, — maždaug nuo Merkinės jau abiejuose Nemuno krantuose iki anapus Naugarduko, Slanimo ir Brastos — gyveno sūduviai, arba jotvingai. Į pietus nuo žemaičių ir į rytus nuo jotvingų gyveno aukštaičiai, kurie sudarė vėlesnės Lietuvos valstybės branduolį.
-  pagrindžia: Vietos „Brasta“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

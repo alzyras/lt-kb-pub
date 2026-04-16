@@ -53,17 +53,4 @@ Kandidatas žymi konflikto su Lenkija tarptautinį etapą.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    7. Karas su Lenkais ir byla Tautų Sąjungoje
-
-    Mūsų kariuomenės laimėjimai kare su lenkais. Užėmę Vilnių, lenkai nesustojo, bet veržėsi gilyn į Lietuvą ir net buvo prasilaužę prie Ukmergės (Kėdainių ir Jonavos kryptimi).
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    7 Karas su Lenkais ir byla Tautų Sąjungoje
-  pagrindžia: Papildomą šaltinio paminėjimą apie įvykį.
-
 ## Pastabos

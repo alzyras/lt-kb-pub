@@ -46,13 +46,3 @@ Kalavijuočių ordinas yra ordino grupė. Šaltinyje ši grupė apibūdinama kai
   citata: |
     Nukariavęs dabartinėje Latvijoje gyvenusias aisčių gimines, ordinas bandė plėsti karo žygius ir į žemaičių bei aukštaičių kraštą, bet čia buvo skaudžiai sumuštas (Šiaulių mūšyje 1236 m.). Pabūgęs, kad vienas neatsilaikys, kalavijuočių ordinas susidėjo su kariaujančiu tuo metu Prūsuose kryžiuočių ordinu.
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Kalavijuočių, arba Livonijos, ordinas
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Nukariavęs dabartinėje Latvijoje gyvenusias aisčių gimines, ordinas bandė plėsti karo žygius ir į žemaičių bei aukštaičių kraštą, bet čia buvo skaudžiai sumuštas (Šiaulių mūšyje 1236 m.). Pabūgęs, kad vienas neatsilaikys, kalavijuočių ordinas susidėjo su kariaujančiu tuo metu Prūsuose kryžiuočių ordinu.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

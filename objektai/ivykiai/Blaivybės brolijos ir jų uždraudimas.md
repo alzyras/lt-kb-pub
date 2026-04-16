@@ -47,13 +47,4 @@ Kandidatas žymi blaivybės sąjūdžio kilimą ir jo užgniaužimą administrac
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    10. Blaivybės brolijos ir jų uždraudimas
-
-    Brolijų įkūrimas. Lietuvoje nuo seno buvo ypatingai įsigalėjęs girtuokliavimas ne tik bajorijos, bet ir valstiečių tarpe.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-
 ## Pastabos

@@ -56,13 +56,4 @@ Tai karo su Maskva užbaigimas ir svarbi taikos sutartis.
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 - dalyvis: [[Jonas Kazimieras]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    17. Pabaiga karo su Maskva ir Andrusavos taika (1667 m.)
-
-    Kaip matėm, 1656 m. buvo padarytos paliaubos su Maskva. Paliaubų metu ėjo derybos dėl caro sūnaus pripažinimo Jono Kazimiero įpėdiniu.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-
 ## Pastabos

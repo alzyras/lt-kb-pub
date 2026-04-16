@@ -44,13 +44,3 @@ Varšuvos konfederacija yra konfederacija. Šaltinyje ši grupė apibūdinama ka
   citata: |
     Varšuvos konfederacija
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Šitas susitarimas buvo pavadintas konfederacija, kuri nuo akto surašymo vietos paprastai vadinama Varšuvos konfederacija (konfederacija tais laikais buvo vadinamas bajorijos susitelkimas ir susitarimas ginti bet kokiuos savo reikalus net ginklu).
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Varšuvos konfederacija
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

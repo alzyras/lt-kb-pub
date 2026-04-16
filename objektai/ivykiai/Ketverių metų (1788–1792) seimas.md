@@ -47,13 +47,4 @@ Tai vienas svarbiausių Respublikos reformų ir valstybės gelbėjimo bandymų.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    2. Ketverių metų (1788—1792) seimas
-
-    1787 m. Kotryna Dniepru keliavo aplankyt Rusijos neseniai užkariauto Krimo. Pakeliui (Kaneve) ji susitiko su buvusiu prieš 25 m. savo mylimuoju Stanislovu Augustu.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-
 ## Pastabos

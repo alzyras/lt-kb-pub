@@ -60,12 +60,4 @@ Prūsija vartojama kaip kryžiuočių užkariautas kraštas ir vėlesnė valstyb
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Prūsija“ mini šiame kontekste: Prūsija vartojama kaip kryžiuočių užkariautas kraštas ir vėlesnė valstybė.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Daugelis karų metu išbėgiojusių vietos gyventojų pradėjo grįžti atgal į savo tėvų paliktas sodybas ir virto ordino baudžiauninkais. Anksčiau ordinas visą savo kraštą vadino Prūsija, o jos gyventojus — prūsais: mat, taip vadinosi pačios vakariausios aisčių giminės, su kuriomis jis pirmučiausia susidūrė. Bet vėliau, pažinęs lietuvių valstybę, ordinas pamatė, kad ir jo nukariautose žemėse gyvena tie patys lietuviai.
-  pagrindžia: Vietos „Prūsija“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

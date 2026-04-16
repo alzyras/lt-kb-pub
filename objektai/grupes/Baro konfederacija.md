@@ -44,13 +44,3 @@ Baro konfederacija yra konfederacija. Šaltinyje ši grupė apibūdinama kaip ba
   citata: |
     Baro konfederacija ir pirmasis Respublikos žemių padalinimas
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Baro miestely (Podolėje), susimetė į konfederaciją
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Baro konfederacija ir pirmasis Respublikos žemių padalinimas
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

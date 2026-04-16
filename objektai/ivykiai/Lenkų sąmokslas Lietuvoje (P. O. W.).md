@@ -53,17 +53,4 @@ Kandidatas žymi slaptos lenkų organizacijos veiklą Lietuvoje.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    5. Lenkų sąmokslas Lietuvoje (P.O.W.)
-
-    Trokšdami užimti Lietuvą ir per ją pasiekti Baltijos jūrą, lenkai nesitenkino vien savo kariuomenės užgrobimais, bet pradėjo ruošti sąmokslą pačioje Lietuvoje. Kai Lietuvos vyriausybė kaip įmanydama organizavo krašto gynimą ir ėmė valdžią iš pasitraukiančių vokiečių, — iš Varšuvos ir iš užimtojo Vilniaus buvo skleidžiama įvairiausių šmeižtų ir agituojama dėtis su Lenkija: esą, Lietuvos vyriausybė esanti vokiečių pastatyta ir, nesusidėjusi su Lenkija, Lietuva liksianti Vokiečių vergovėje.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    5. Lenkų sąmokslas Lietuvoje (P. O. W.)
-  pagrindžia: Papildomą šaltinio paminėjimą apie įvykį.
-
 ## Pastabos

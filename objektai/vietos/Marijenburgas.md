@@ -57,12 +57,4 @@ Marijenburgas minimas kaip ordino pilis, kurią lietuviai puolė ar sugriovė.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Marijenburgas“ mini šiame kontekste: Marijenburgas minimas kaip ordino pilis, kurią lietuviai puolė ar sugriovė.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų pačių krikščionių tarpe.
-  pagrindžia: Vietos „Marijenburgas“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

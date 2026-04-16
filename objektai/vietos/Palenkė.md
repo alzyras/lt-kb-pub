@@ -57,12 +57,4 @@ Palenkė minima kaip Vytenio ir Gedimino laikų pasienio erdvė.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Palenkė“ mini šiame kontekste: Palenkė minima kaip Vytenio ir Gedimino laikų pasienio erdvė.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Senasis jotvingų kraštas (t. y. vadinamoji Juodoji Rusija su Naugarduku, Slanimu ir Volkovisku), kurį buvo užėmusi ir kolonizavusi Voluinė, jau tapo nebeginčijamu Lietuvos kraštu. Vytenis taip pat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, kurias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai), prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną ir Brastą.
-  pagrindžia: Vietos „Palenkė“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

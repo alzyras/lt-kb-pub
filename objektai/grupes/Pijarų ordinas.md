@@ -44,13 +44,3 @@ Pijarų ordinas yra ordino grupė. Šaltinyje ši grupė apibūdinama kaip švie
   citata: |
     Ypač daug mokyklų tebeturėjo pijarai
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjimu rūpinąsis pijarų ordinas (pijarai kurdavo vadinamąsias dievobaimingąsias mokyklas, lotyniškai scholae piae; dėl to jie ir buvo vadinami pijarais).
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Ypač daug mokyklų tebeturėjo pijarai
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

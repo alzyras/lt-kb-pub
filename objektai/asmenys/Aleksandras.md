@@ -51,9 +51,7 @@ Aleksandras šiame šaltinyje pristatomas kaip 1492-1506 m. Lietuvos didysis kun
 - gebėjimai:
   - santrauka: Toje pačioje šaltinio frazėje Aleksandrui priskiriamas gebėjimų stygiaus vertinimas.
     šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-    citata: |
-      Aleksandras buvo kaulingas ir petingas, tačiau be jokių gabumų vyras.
-    pagrindžia: Šaltinio vertinimą apie Aleksandro gebėjimus.
+    pagrindžia: Šaltinio vertinimą apie Aleksandro gebėjimus; citata pateikta prie išvaizdos apibūdinimo.
 
 ## Dalyvavimas įvykiuose
 

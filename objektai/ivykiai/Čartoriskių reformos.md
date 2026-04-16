@@ -54,13 +54,4 @@ Kandidatas žymi valstybės aparato ir seimo darbo pertvarkymo bandymą.
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 - dalyvis: [[Stanislovas Augustas]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    4. Čartoriskių reformos
-
-    Čartoriskiai turėjo didelių planų: jie svajojo panaikinti netvarką ir pakelti Respublikos prestižą kitų valstybių tarpe. Tam tikslui jie pirmiausia pasirūpino bent kiek sutvarkyti valstybę viduje.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-
 ## Pastabos

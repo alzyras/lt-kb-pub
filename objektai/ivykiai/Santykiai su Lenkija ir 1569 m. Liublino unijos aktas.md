@@ -61,17 +61,4 @@ Tai vienas svarbiausių valstybinių aktų šaltinyje.
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 - dalyvis: [[Zigmantas Augustas]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    13. Santykiai su Lenkija ir 1569 m. Liublino unijos aktas
-
-    Lietuvos Lenkijos santykių klausimas iki karų dėl Livonijos. Lietuvos Lenkijos santykiai nebuvo sutvarkyti nei Aleksandro nei Zigmanto II laikais.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    13. Santykiai su Lenkija ir 1569 m. Liublino unijos aktas
-  pagrindžia: Papildomą šaltinio paminėjimą apie įvykį.
-
 ## Pastabos

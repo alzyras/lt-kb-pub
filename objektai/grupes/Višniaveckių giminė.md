@@ -44,13 +44,3 @@ Višniaveckių giminė yra didikų giminė. Šaltinyje ši grupė apibūdinama k
   citata: |
     Mykolas Kaributas Višniaveckis
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Višniaveckiai buvo kilę iš Algirdo sūnaus Kaributo, kurio krikščioniškas vardas buvo Dimitrijas.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Mykolas Kaributas Višniaveckis
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

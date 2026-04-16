@@ -64,17 +64,4 @@ Kandidatas žymi bendrą Lietuvos ir Lenkijos karo su ordinu kulminaciją.
 - dalyvis: [[Vytautas]]
 - dalyvis: [[Jogaila]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    14. Lietuvos ir Lenkijos karas su ordinu 1410 m.
-
-    Pasiruošimas karui.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    14. Lietuvos ir Lenkijos karas su ordinu 1410 m. 126
-  pagrindžia: Papildomą šaltinio paminėjimą apie įvykį.
-
 ## Pastabos

@@ -44,13 +44,3 @@ Pranciškonai yra vienuolių ordino grupė. Šaltinyje ši grupė apibūdinama k
   citata: |
     Kadangi antrajame Gedimino laiške buvo aiškiai išreikštas noras krikštytis, tai Gediminas dėl to apkaltino laišką rašiusį vienuolį pranciškoną, kad jis negerai parašęs.
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pranciškonų ir domininkonų; jie turį savo bažnyčių ir laisvai skelbią krikščionybę.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Kadangi antrajame Gedimino laiške buvo aiškiai išreikštas noras krikštytis, tai Gediminas dėl to apkaltino laišką rašiusį vienuolį pranciškoną, kad jis negerai parašęs.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

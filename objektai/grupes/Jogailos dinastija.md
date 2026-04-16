@@ -46,13 +46,3 @@ Jogailos dinastija yra dinastija. Šaltinyje ši grupė apibūdinama kaip jogail
   citata: |
     Tos dinastijos valdovų valdoma, Lenkija galėjo stoti į varžytynes su galingais imperatoriais
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Žodžiu, Jogailos dinastijos metu Lenkija klestėte klestėjo.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tos dinastijos valdovų valdoma, Lenkija galėjo stoti į varžytynes su galingais imperatoriais
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

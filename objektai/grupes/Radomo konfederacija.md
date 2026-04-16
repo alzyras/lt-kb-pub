@@ -44,13 +44,3 @@ Radomo konfederacija yra konfederacija. Šaltinyje ši grupė apibūdinama kaip 
   citata: |
     Konfederacijos centru buvo numatytas Radomas, o jos priešaky buvo pastatytas Rusų iš emigracijos atšauktasis K. Radvila.
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Radomo konfederacija
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Konfederacijos centru buvo numatytas Radomas, o jos priešaky buvo pastatytas Rusų iš emigracijos atšauktasis K. Radvila.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

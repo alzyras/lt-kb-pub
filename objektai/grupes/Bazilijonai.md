@@ -39,9 +39,3 @@ Bazilijonai yra vienuolių ordino grupė. Šaltinyje ši grupė apibūdinama kai
   citata: |
     Buvo manoma, kad karaliaus skiriami unitų vyskupai ir bazilijonų vienuoliai palengva visus atvers į uniją, tačiau išėjo kitaip.
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Buvo manoma, kad karaliaus skiriami unitų vyskupai ir bazilijonų vienuoliai palengva visus atvers į uniją, tačiau išėjo kitaip.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

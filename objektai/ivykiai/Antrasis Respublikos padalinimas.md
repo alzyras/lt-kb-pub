@@ -47,13 +47,4 @@ Tai vienas iš valstybės teritorinio žlugimo etapų.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    6. Antrasis Respublikos padalinimas (1793 m.)
-
-    Tuo metu, kai seimo sukurtoji valstybės valdžia buvo sugriauta ir atiteko konfederacijai (ši savo centru padarė Gardiną), tarp Rusijos, Prūsijos ir Austrijos ėjo derybos dėl tolimesnio Respublikos likimo. Prūsija ir Austrija tada kariavo su revoliucine Prancūzija.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-
 ## Pastabos

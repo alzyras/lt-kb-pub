@@ -59,12 +59,4 @@ Vokietija minima kaip ordino, Prūsijos ir Klaipėdos klausimų centras.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Vokietija“ mini šiame kontekste: Vokietija minima kaip ordino, Prūsijos ir Klaipėdos klausimų centras.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Čia, be to, dar nemažai prisidėjo Vokietija, kuri, tam tikrą laiką būdama Tautų Sąjungos narys, ne kartą skundė Tautų Sąjungai Lietuvos vyriausybę už tariamą konvencijos nesilaikymą; tuo tarpu ta pati Vokietija visokiais slaptais būdais kišosi į Klaipėdos vidaus administracijos reikalus ir kiršino gyventojus prieš visą eilę konvencijos nuostatų. Dėl tos priežasties Klaipėdoje maža tėra ramumo ir darnaus sugyvenimo. Vokietija, svajodama vėl užgrobti Klaipėdos kraštą, tam neturi jokio juridinio pagrindo, nes, pasirašydama Versalio sutartį, ji sutiko su Klaipėdos krašto atskyrimu, o 1928 m. darydama sienų sutartį su Lietuva, niekieno neverčiama Klaipėdos kraštą pripažino Lietuvai.
-  pagrindžia: Vietos „Vokietija“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

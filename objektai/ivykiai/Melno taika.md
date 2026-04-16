@@ -63,15 +63,4 @@ Taika užbaigė ilgą ginčą dėl Žemaitijos ir sienos klausimo.
 - dalyvis: [[Vytautas]]
 - dalyvis: [[Jogaila]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    19. Melno taika (1422 m.) ir Žemaičių ginčo pabaiga Diplomatinė kova dėl Žemaičių ir kai kurių Lenkijos sričių ėjo visą laiką.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    19. Melno taika (1422 m.) ir Žemaičių ginčo pabaiga
-  pagrindžia: Papildomą šaltinio paminėjimą apie įvykį.
-
 ## Pastabos

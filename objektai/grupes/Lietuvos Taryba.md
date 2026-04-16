@@ -44,13 +44,3 @@ Lietuvos Taryba yra taryba. Šaltinyje ši grupė apibūdinama kaip vilniaus kon
   citata: |
     Lietuvos Tarybos nariai buvo šie: J. Basanavičius, (†), S. Banaitis (†), M. Biržiška, K. Bizauskas, P. Dovydaitis, S. Kairys, P. Klimas, D. Malinauskas, P. Mironas, S. Narutavičius (†), A. Petrulis (†), A. Smetona, J. Smilgevičius, J. Staugaitis, A. Stulginskis, J. Šaulys, K. Šaulys, J. Šernas (†), J. Vailokaitis, J. Vileišis.
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti tautinių mažumų atstovai.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Lietuvos Tarybos nariai buvo šie: J. Basanavičius, (†), S. Banaitis (†), M. Biržiška, K. Bizauskas, P. Dovydaitis, S. Kairys, P. Klimas, D. Malinauskas, P. Mironas, S. Narutavičius (†), A. Petrulis (†), A. Smetona, J. Smilgevičius, J. Staugaitis, A. Stulginskis, J. Šaulys, K. Šaulys, J. Šernas (†), J. Vailokaitis, J. Vileišis.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

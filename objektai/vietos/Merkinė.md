@@ -57,12 +57,4 @@ Merkinė minima kaip vakarinės lietuvių gynybos riba.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Merkinė“ mini šiame kontekste: Merkinė minima kaip vakarinės lietuvių gynybos riba.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Čia dabartinėje savo vietoje, Klaipėdos krašte ir Kuršmarių pakrantėmis, gyveno žemaičiai. Toliau nuo jų, į pietus, kairiajam Nemuno krante, t. y. pietinėje Mažosios Lietuvos dalyje, dabartiniam Suvalkų krašte, — maždaug nuo Merkinės jau abiejuose Nemuno krantuose iki anapus Naugarduko, Slanimo ir Brastos — gyveno sūduviai, arba jotvingai. Į pietus nuo žemaičių ir į rytus nuo jotvingų gyveno aukštaičiai, kurie sudarė vėlesnės Lietuvos valstybės branduolį.
-  pagrindžia: Vietos „Merkinė“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

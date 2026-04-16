@@ -57,12 +57,4 @@ Varšuva dažna kaip Lenkijos politinis centras ir spaudimo Lietuvai vieta.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Varšuva“ mini šiame kontekste: Varšuva dažna kaip Lenkijos politinis centras ir spaudimo Lietuvai vieta.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tad, kai Lietuva prašydavo lenkus paramos prieš Maskvą, jie visuomet keldavo unijos klausimą. Derybos dėl unijos 1563—4 m. lenkų seime Varšuvoje. Kai 1562 m. caras Jonas IV pradėjo pulti Lietuvos žemes, unijos
-  pagrindžia: Vietos „Varšuva“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

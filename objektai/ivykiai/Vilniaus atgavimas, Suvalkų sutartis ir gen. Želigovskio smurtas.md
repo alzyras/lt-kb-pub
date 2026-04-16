@@ -48,13 +48,4 @@ Tai Vilniaus klausimo krizė, sutarties sudarymas ir vėlesnis smurtinis pažeid
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    6. Vilniaus atgavimas, Suvalkų sutartis ir gen. Želigovskio smurtas
-
-    Vilniaus atgavimas. Kai lenkai savo kovose su Rusais nuėjo net ligi Kijevo (1920 m. gegužės mėn.), ūmai pasikeitė karo laimė, ir lenkai turėjo labai greitu tempu trauktis.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-
 ## Pastabos

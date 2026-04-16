@@ -46,11 +46,4 @@ Kandidatas žymi religinio konflikto smurtinį epizodą.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Kražių skerdynės (1893 m.). Valdžia nutarė panaikinti Kražių vienuolyną, bažnyčią ir kapines (1891 m.). Vyskupas Paliulionis, gavęs įsakymą (1892 m.) išgabenti vienuoles į Kauną, kurį laiką delsė, rūpindamasis, kad įsakymas būtų pakeistas, bet pagaliau liepė jį vykdyti. Tuo tarpu žmonės sujudo.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-
 ## Pastabos

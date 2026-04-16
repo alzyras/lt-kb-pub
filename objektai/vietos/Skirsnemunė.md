@@ -57,12 +57,4 @@ Skirsnemunė minima kaip viena iš Panemunės pilių.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Skirsnemunė“ mini šiame kontekste: Skirsnemunė minima kaip viena iš Panemunės pilių.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Nustojęs vilties veikiai nukariauti Žemaičius, jis vėliau Klaipėdą perleido Prūsų kryžiuočiams (1328 m.). Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o kiek vėliau ir Skirsnemunės
-  pagrindžia: Vietos „Skirsnemunė“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

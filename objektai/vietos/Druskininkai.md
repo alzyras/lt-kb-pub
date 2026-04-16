@@ -58,12 +58,4 @@ Druskininkai minimi kaip 1920 m. demarkacinės linijos taškas.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Druskininkai“ mini šiame kontekste: Druskininkai minimi kaip 1920 m. demarkacinės linijos taškas.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    22 d. gausingos lenkų jėgos (dvi kavalerijos brigados ir dvi pėstininkų divizijos) ties Gibais (Seinų srityje) pralaužė lietuvių frontą ir užėjo iš užpakalio. O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną ir užėjo lietuviams iš kairiojo sparno, — mūsų kariuomenės būklė dar labiau pablogėjo: dalis mūsų kariuomenės buvo visai atkirsta nuo savųjų.
-  pagrindžia: Vietos „Druskininkai“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

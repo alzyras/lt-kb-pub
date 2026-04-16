@@ -54,17 +54,4 @@ Tai svarbus teritorinis ir politinis Lietuvos laimėjimas tarpukariu.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    3. Klaipėdos krašto prijungimas
-
-    Mažosios Lietuvos klausimas, Lietuvos valstybei kuriantis. Lietuvos valstybė iš pat pradžių buvo kuriama grynai tautiškais pagrindais, — taigi nesiekiant istorinių sienų, bet norint sujungti į vieną valstybę visas lietuvių gyvenamąsias žemes.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    3. Klaipėdos krašto prijungimas
-  pagrindžia: Papildomą šaltinio paminėjimą apie įvykį.
-
 ## Pastabos

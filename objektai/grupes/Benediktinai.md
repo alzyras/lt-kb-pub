@@ -39,9 +39,3 @@ Benediktinai yra vienuolių ordino grupė. Šaltinyje ši grupė apibūdinama ka
   citata: |
     Ten pagyvenęs kelerius metus benediktinų vienuolyne
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Ten pagyvenęs kelerius metus benediktinų vienuolyne
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

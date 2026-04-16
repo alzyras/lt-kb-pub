@@ -46,10 +46,4 @@ Bibliografijoje A. Dambrauskas pateiktas švietimo ir tikybinių santykių XVI a
 ## Ryšiai
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Wotschke, Geschichte der Rerformation in Polen (1911); K. Völker, Der Protestantismus in Polen (1910); A. Dambrauskas, Pradžia ir išsiplėtojimas protest. Lietuvoje XVI a. (Draugija, 1909). XVII.
-  pagrindžia: Tiesioginį bibliografinį įrodymą.
-
 ## Pastabos

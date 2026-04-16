@@ -59,12 +59,4 @@ Estija minima kaip šiaurinė Baltijos erdvė už Dauguvos.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Estija“ mini šiame kontekste: Estija minima kaip šiaurinė Baltijos erdvė už Dauguvos.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Bet, neatvykus Naugardo kariuomenei, jis neįstengė paimti pilies ir, grįžęs namo, daugiau su ordinu nebekariavo. Tuo tarpu Treniota su žemaičiais žygiavo tolimus žygius: Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją. Tai buvo tik siaubiamieji, o ne užkariaujamieji žygiai. Livonijos ordinas atsigavo gana greit. Po kiek laiko atsigavo ir Prūsų ordinas; bet kol jis atgavo savo pirmykštę būklę Prūsuose, praėjo net 14 metų.
-  pagrindžia: Vietos „Estija“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

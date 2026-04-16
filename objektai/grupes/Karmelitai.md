@@ -39,9 +39,3 @@ Karmelitai yra vienuolių ordino grupė. Šaltinyje ši grupė apibūdinama kaip
   citata: |
     Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: domininkonai, karmelitai, bernardinai, pranciškonai, augustinijonai ir kt. Jų vienuolynų Lietuvoje buvo jau gana daug.
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: domininkonai, karmelitai, bernardinai, pranciškonai, augustinijonai ir kt. Jų vienuolynų Lietuvoje buvo jau gana daug.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

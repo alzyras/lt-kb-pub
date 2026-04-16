@@ -61,17 +61,4 @@ Kandidatas jungia Kazimiero išrinkimą ir privilegiją, kuri sustiprino luomine
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 - dalyvis: [[Kazimieras]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    3. Kazimiero išrinkimas Lenkų karalium ir 1447 m. privilegija
-
-    Kazimiero išrinkimas Lenkų karalium. Kazimiero valdžiai Lietuvoje jau įsigalėjus, 1444 m. atėjo žinia, kad jo brolis, Lenkų ir Vengrų karalius Vladislovas, žuvo mūšyje su turkais (jis žuvo prie Varnos miesto, todėl paprastai vadinamas Varniečiu).
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    3. Kazimiero išrinkimas Lenkų kar. ir 1447 m. privilegija
-  pagrindžia: Papildomą šaltinio paminėjimą apie įvykį.
-
 ## Pastabos

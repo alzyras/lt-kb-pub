@@ -59,12 +59,4 @@ Latvija minima ir kaip istorinis kraštas, ir kaip moderni valstybė.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Latvija“ mini šiame kontekste: Latvija minima ir kaip istorinis kraštas, ir kaip moderni valstybė.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tačiau didžiojo karo metu Latvijos pramonė pairo, daugumas lietuvių grįžo namo, ir Latvijos lietuvių kultūrinė veikla susilpnėjo. Po karo susikūrė nepriklausoma Latvių valstybė. Vedant Lietuvos Latvijos sieną, prie Latvijos buvo prijungti kai kurie lietuviški valsčiai (ypač Alūkstos apskr.), o kai kur vienas kitas latviškas valsčius ar jo dalis atiteko Lietuvai.
-  pagrindžia: Vietos „Latvija“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

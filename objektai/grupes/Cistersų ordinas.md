@@ -39,9 +39,3 @@ Cistersų ordinas yra ordino grupė. Šaltinyje ši grupė apibūdinama kaip min
   citata: |
     Olivos cistersų ordino vienuolis Kristijonas
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Olivos cistersų ordino vienuolis Kristijonas
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

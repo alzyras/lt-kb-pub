@@ -44,13 +44,3 @@ Domininkonai yra vienuolių ordino grupė. Šaltinyje ši grupė apibūdinama ka
   citata: |
     Maždaug kartu su Kristijonu čia vyskupu buvo įšventintas lenkų domininkonas Vitas.
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pranciškonų ir domininkonų; jie turį savo bažnyčių ir laisvai skelbią krikščionybę.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Maždaug kartu su Kristijonu čia vyskupu buvo įšventintas lenkų domininkonas Vitas.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

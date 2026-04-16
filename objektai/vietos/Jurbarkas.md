@@ -59,12 +59,4 @@ Jurbarkas minimas kaip ordino ir žemaičių pilių kovų punktas.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Jurbarkas“ mini šiame kontekste: Jurbarkas minimas kaip ordino ir žemaičių pilių kovų punktas.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Durbės mūšis (1260 m.) ir jo padariniai. Pasistatęs Klaipėdos pilį, Livonijos ordinas vėl ėmė pulti žemaičius. Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurios žemaičiai taip pat neįstengė išgriauti. Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Ordinas ketino suruošti į Žemaičius didelį žygį ir išgriauti Karšuvą.
-  pagrindžia: Vietos „Jurbarkas“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

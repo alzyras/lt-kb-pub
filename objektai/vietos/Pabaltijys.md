@@ -57,12 +57,4 @@ Aisčiai įvardijami kaip Pabaltijo gyventojai.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Pabaltijys“ mini šiame kontekste: Aisčiai įvardijami kaip Pabaltijo gyventojai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir kt.), priklauso prie tos pačios indoeuropiečių, arba arijų, tautų grupės. Kada ir iš kur aisčiai atsikraustė į Pabaltijį, lig šiol mokslas dar nėra nustatęs (yra tik keletas hipotezių). Bet prasidedant istoriniams laikams, jie jau gyveno Baltijos pakrantėse, tarp Vyslos ir Dauguvos upių ir dar už Dauguvos, maždaug iki dabartinės Estijos sienos.
-  pagrindžia: Vietos „Pabaltijys“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

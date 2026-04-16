@@ -62,12 +62,4 @@ Rusija minima tiek ankstyvųjų žygių, tiek XX a. politikos kontekste.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Rusija“ mini šiame kontekste: Rusija minima tiek ankstyvųjų žygių, tiek XX a. politikos kontekste.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Taigi Podolė, nors ir buvo lietuvių kunigaikščių valdoma, tačiau iki Vytauto laikų sudarė kaip ir atskirą, Lietuvos valstybės mažai tepriklausomą kunigaikštystę. Naujų žemių užėmimas šiaurinėje Rusijoje. Rusijoje Algirdas tęsė savo tėvo politiką. Rinkdamas į savo valdžią centrinės Rusijos kunigaikštystes, jis irgi susidūrė su sustiprėjusią Maskva.
-  pagrindžia: Vietos „Rusija“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

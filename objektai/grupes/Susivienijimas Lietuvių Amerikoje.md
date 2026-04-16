@@ -48,15 +48,5 @@ Susivienijimas Lietuvių Amerikoje yra susivienijimas. Šaltinyje ši grupė api
 ## Ryšiai
 - Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
 
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje vėliau buvo pavadintas Susivienijimu Lietuvių Amerikoje, tačiau jo vadovybė pasiliko katalikiškose rankose.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tuo būdu atsirado du Susivienijimai: Susivienijimas Lietuvių Amerikoje ir Susivienijimas Lietuvių Rymo Katalikų Amerikoje.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-
 ## Pastabos
 - Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

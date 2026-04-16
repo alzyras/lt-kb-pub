@@ -52,11 +52,4 @@ Tai konkretaus bažnytinio suvažiavimo ir unijos klausimo aptarimo kandidatas.
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 - dalyvis: [[Zigmantas Kęstutaitis]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    3. Bažnyčios suvažiavimas Bazely ir bažnytinės unijos klausimas Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj) vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-
 ## Pastabos

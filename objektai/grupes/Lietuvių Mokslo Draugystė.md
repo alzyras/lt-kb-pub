@@ -39,24 +39,8 @@ Lietuvių Mokslo Draugystė yra draugija. Šaltinyje ši grupė apibūdinama tai
   citata: |
     Tada Šliūpo rūpesčiu buvo įsteigta Lietuvių Mokslo Draugystė, kuri leido mėnesinį literatūros ir mokslo žurnalą „Apšvietą" ir išleido keletą knygų.
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-- santrauka: Papildomas tiesioginis paminėjimas iš to paties šaltinio.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tada Šliūpo rūpesčiu buvo įsteigta Lietuvių Mokslo Draugystė, kuri leido mėnesinį literatūros ir mokslo žurnalą „Apšvietą" ir išleido keletą knygų.
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
 ## Ryšiai
 - Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tada Šliūpo rūpesčiu buvo įsteigta Lietuvių Mokslo Draugystė, kuri leido mėnesinį literatūros ir mokslo žurnalą „Apšvietą" ir išleido keletą knygų.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tada Šliūpo rūpesčiu buvo įsteigta Lietuvių Mokslo Draugystė, kuri leido mėnesinį literatūros ir mokslo žurnalą „Apšvietą" ir išleido keletą knygų.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
 
 ## Pastabos
 - Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

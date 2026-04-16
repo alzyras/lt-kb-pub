@@ -43,11 +43,5 @@ Draugija Užsienio Lietuviams Remti yra draugija. Šaltinyje ši grupė apibūdi
 ## Ryšiai
 - Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
 
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Dalį tam reikalui pinigų sudėjo patys vietos lietuviai, bet nemaža paramos buvo gauta iš konsulato ir iš Draugijos Užsienio Lietuviams Remti.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-
 ## Pastabos
 - Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

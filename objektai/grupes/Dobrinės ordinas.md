@@ -44,13 +44,3 @@ Dobrinės ordinas yra ordino grupė. Šaltinyje ši grupė apibūdinama kaip tru
   citata: |
     Bet riterių buvo nedaug, todėl ir jų pagalba buvo nedidelė: jie vos įstengdavo apginti savo pilį.
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Taigi buvo įkurtas (1228 m.) vyskupo priklausąs riterių ordinas, kurs pagal savo gyvenamąją vietą buvo vadinamas Dobrinės ordinu.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Bet riterių buvo nedaug, todėl ir jų pagalba buvo nedidelė: jie vos įstengdavo apginti savo pilį.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

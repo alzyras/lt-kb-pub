@@ -44,13 +44,3 @@ Saksų dinastija yra dinastija. Šaltinyje ši grupė apibūdinama kaip respubli
   citata: |
     Tačiau karalium buvo išrinktas Saksonijos elektorius Fridrikas Augustas.
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    b. Saksų dinastijos laikai (1697—1763 m.)
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tačiau karalium buvo išrinktas Saksonijos elektorius Fridrikas Augustas.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

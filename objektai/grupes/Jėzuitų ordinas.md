@@ -44,13 +44,3 @@ Jėzuitų ordinas yra ordino grupė. Šaltinyje ši grupė apibūdinama kaip kat
   citata: |
     Tai buvo vadinamoji Edukacinė Komisija, kuri perėmė kaip tik tuo metu panaikinto jėzuitų ordino mokyklas ir ėmė rūpintis visu švietimu.
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kovai su plintančiu protestantizmu.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tai buvo vadinamoji Edukacinė Komisija, kuri perėmė kaip tik tuo metu panaikinto jėzuitų ordino mokyklas ir ėmė rūpintis visu švietimu.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

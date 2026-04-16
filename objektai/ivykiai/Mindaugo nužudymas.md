@@ -60,17 +60,4 @@ Aiškiai įvardytas valdovo nužudymas, nutraukęs Mindaugo laikų valstybės mo
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 - dalyvis: [[Mindaugas]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    8. Mindaugo nužudymas (1263 m.)
-
-    Mindaugas, po Durbės pralaimėjimo užpuolęs 1262 m. labai susilpnėjusį ordiną, daugiau jo nebelietė. Tuo metu sukilusioms ordino pavergtoms giminėms kariauti tepadėdavo vien žemaičiai.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    8. Mindaugo nužudymas (1263 m.)
-  pagrindžia: Papildomą šaltinio paminėjimą apie įvykį.
-
 ## Pastabos

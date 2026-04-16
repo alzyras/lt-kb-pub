@@ -64,7 +64,4 @@ Mindaugas šiame šaltinyje pristatomas kaip Lietuvos valstybės kūrimo figūra
 ## Ryšiai
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-- Pagrindiniai įrodymai pateikti skiltyje „Reikšmingi paminėjimai“.
-
 ## Pastabos

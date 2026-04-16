@@ -47,13 +47,4 @@ Kandidatas žymi lietuviškų knygų lotyniškomis raidėmis draudimą ir spaudo
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    8. Lietuviškosios spaudos uždraudimas
-
-    Muravjovas, pagerindamas valstiečių būklę ir pertvarkydamas savivaldybes, tikėjosi patrauksiąs į rusų valdžios pusę daugumą krašto gyventojų, o surusindamas mokyklas, tikėjosi atidarysiąs duris rusiškumui. Bet tuo dar nesitenkindamas, jis pasiryžo net pakeisti lietuviškąjį raštą, kad ir maldaknygės rusintų lietuvį.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-
 ## Pastabos

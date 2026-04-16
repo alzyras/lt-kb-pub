@@ -54,17 +54,4 @@ Kandidatas jungia karo veiksmus ir taikos sudarymą.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    10. Karas su Maskva ir Polianovos taika
-
-    Divilino paliaubų sutartis (1618 m.) Maskvai buvo labai negarbinga, nes ji turėjo užleisti Lietuvai ir Lenkijai nemaža žemių. Todėl caras vis laukė progos atsigriebti.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    10. Karas su Maskva ir Palianovos taika
-  pagrindžia: Papildomą šaltinio paminėjimą apie įvykį.
-
 ## Pastabos

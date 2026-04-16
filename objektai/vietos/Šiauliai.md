@@ -65,12 +65,4 @@ patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Šiauliai“ mini šiame kontekste: Šiauliai minimi ir kaip ankstyvojo mūšio, ir kaip XX a. kovų vieta.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Lietuvos valdovu. Be to, tais pačiais metais buvo pirmas didelis suvienytos Lietuvos mūšis su kalavijuočiais.
-  pagrindžia: Vietos „Šiauliai“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

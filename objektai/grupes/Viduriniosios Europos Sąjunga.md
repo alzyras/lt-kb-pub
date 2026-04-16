@@ -43,11 +43,5 @@ Viduriniosios Europos Sąjunga yra sąjunga. Šaltinyje ši grupė apibūdinama 
 ## Ryšiai
 - Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
 
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Jis dėjosi su pirmojo Čekoslovakų prezidento T. Masariko įkurtąja Viduriniosios Europos Sąjungą, reikalaujančia pavergtoms tautoms laisvės.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-
 ## Pastabos
 - Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

@@ -39,9 +39,3 @@ Marijonai yra vienuolių ordino grupė. Šaltinyje ši grupė apibūdinama kaip 
   citata: |
     Visos jos yra pradedamosios, tik vienuolės kazimierietės išlaiko 2 aukštesniąsias mergaičių mokyklas, vad. akademijas (jose mokosi apie 200 lietuvaičių), o vienuoliai marijonai — dvi berniukų kolegijas.
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Visos jos yra pradedamosios, tik vienuolės kazimierietės išlaiko 2 aukštesniąsias mergaičių mokyklas, vad. akademijas (jose mokosi apie 200 lietuvaičių), o vienuoliai marijonai — dvi berniukų kolegijas.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

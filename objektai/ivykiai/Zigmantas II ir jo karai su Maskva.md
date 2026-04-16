@@ -60,17 +60,4 @@ patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą; dal
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 - dalyvis: [[Zigmantas II]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    6. Zigmantas II (Senasis, — 1506—1548 m.) ir jo karai su Maskva
-
-    Zigmanto elekcija. Ir Jonas Albrechtas ir Aleksandras mirė bevaikiai. Iš gausingos Kazimiero šeimos teliko tik vienas, jauniausiasis sūnus Zigmantas. Jis tuo tarpu gyveno Silezijoje, kur iš brolio, Čekų karaliaus Vladislovo, buvo gavęs valdyti keletą mažų kunigaikštysčių. 1501 m. renkamas Lenkų karalium Aleksandras buvo patvirtinęs dokumentą, kuriuo po jo mirties Lietuva ir Lenkija turėjo bendrai išrinkti sau naują valdovą, bet mirdamas testamentu jis skyrė Lietuvos sostą broliui Zigmantui, o apie Lenkų sostą nieko nekalbėjo. Zigmantas, sužinojęs apie sunkią brolio ligą, skubėjo į Lietuvą, bet rado jį jau mirusį. Lietuvos ponai tuojau paskelbė jį didžiuoju kunigaikščiu ir pasiūlė lenkams išsirinkti jį ir savo karalium. Šie ir išrinko, nes bijojo, kad nenutrūktų ryšys su Lietuva.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    6. Zigmantas II (1506—1548 m.) ir jo karai su Maskva. 201
-  pagrindžia: Papildomą šaltinio paminėjimą apie įvykį.
-
 ## Pastabos

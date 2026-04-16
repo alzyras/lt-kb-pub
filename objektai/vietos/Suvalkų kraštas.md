@@ -57,12 +57,4 @@ Minimas kaip žemės lyguma ir pasienio erdvė.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Suvalkų kraštas“ mini šiame kontekste: Minimas kaip žemės lyguma ir pasienio erdvė.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    O ir čia jų buvo ne kažin kiek, nes ir Lietuva daugely vietų buvo apaugusi didžiulėmis, mažai tegyvenamomis giriomis. Antai ištisa didžiulė giria buvo kryžiuočių pasienis, t. y. visas dabartinis Suvalkų kraštas, didesniosios Tauragės, Kretingos ir Telšių apskričių dalys. Antra tokia pat didžiulė giria buvo Livonijos pasienis (šiaurinė Lietuvos dalis). Be to, didžiulių girių buvo pilna ir visam krašte.
-  pagrindžia: Vietos „Suvalkų kraštas“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

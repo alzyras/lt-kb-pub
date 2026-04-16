@@ -60,17 +60,4 @@ Kandidatas žymi valdovo išrinkimą po Vladislovo Vazos mirties.
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 - dalyvis: [[Jonas Kazimieras]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    18. Jono Kazimiero valdymo pabaiga ir abdikacija
-
-    Iš Jono Kazimiero buvo menkas karalius: jis neturėjo nei gabumų nei noro valstybę tvarkyti. Jam labiausiai rūpėjo savo paties asmeniniai reikalai.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    14. Jonas Kazimieras ir jo elekcija
-  pagrindžia: Papildomą šaltinio paminėjimą apie įvykį.
-
 ## Pastabos

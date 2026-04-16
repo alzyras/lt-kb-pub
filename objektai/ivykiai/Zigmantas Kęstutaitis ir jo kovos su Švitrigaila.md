@@ -58,13 +58,4 @@ Kandidatas žymi valdžios kovą tarp dviejų pretendentų į Lietuvos valdžią
 - dalyvis: [[Zigmantas Kęstutaitis]]
 - dalyvis: [[Švitrigaila]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    2. Zigmantas Kęstutaitis (1432—1440 m.) ir jo kovos su Švitrigaila
-
-    1432 m. perversmas. Perversmą suruošė buvusieji Vytauto padėjėjai, nepatenkinti Švitrigailos politika.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-
 ## Pastabos

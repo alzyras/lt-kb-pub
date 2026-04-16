@@ -39,9 +39,3 @@ Hanza yra miestų sąjunga. Šaltinyje ši grupė apibūdinama kaip vokiškų mi
   citata: |
     Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinamoji Hanza.
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinamoji Hanza.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

@@ -57,12 +57,4 @@ Naugardukas minimas kaip įkurtas nukariautose žemėse ir kaip kunigaikštysči
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Naugardukas“ mini šiame kontekste: Naugardukas minimas kaip įkurtas nukariautose žemėse ir kaip kunigaikštysčių centras.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Voluinės kunigaikščiams geriau sekėsi kariauti su jotvingais, ir iki XIII amž. pradžios jie jau buvo paėmę net Gardiną. Nukariautose žemėse tada buvo įkurti Naugardukas, Slanimas ir atstatyta, jotvingų buvusi, Gardino pilis (senasis Gardinas, tur būt, bus turėjęs kitą vardą). Tuo būdu XIII amž. pradžioje, kai Mindaugas pradėjo kurti Lietuvos valstybę, Voluinės kunigaikštijos siena ėjo aukščiau Gardino ir nyko kažkur miškuose.
-  pagrindžia: Vietos „Naugardukas“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

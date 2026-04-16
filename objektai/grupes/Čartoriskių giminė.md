@@ -48,13 +48,3 @@ patikimumas: ""
   citata: |
     Čartoriskiai, imdamiesi reformų, tegalvojo tik apie valdžios reformas
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Čartoriskių partija tada dar buvo vadinama „familija": mat, visi jos galvos buvo giminės.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Čartoriskiai, imdamiesi reformų, tegalvojo tik apie valdžios reformas
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

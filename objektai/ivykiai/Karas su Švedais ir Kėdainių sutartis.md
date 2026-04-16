@@ -54,13 +54,4 @@ Kandidatas žymi Lietuvos politinį posūkį karo su Švedija metu.
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 - dalyvis: [[Jonas Kazimieras]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    16. Karas su Švedais ir Kėdainių sutartis
-
-    Karo pradžia. Štumdorfe padarytų paliaubų laikas baigėsi 1661 m. Bet Švedijoje tuo tarpu įvyko permainų.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-
 ## Pastabos

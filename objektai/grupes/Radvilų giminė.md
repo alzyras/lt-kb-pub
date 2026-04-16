@@ -50,13 +50,3 @@ Radvilų giminė yra didikų giminė. Šaltinyje ši grupė apibūdinama kaip vi
   citata: |
     Biržiečiai Radvilos, iki XVII amž. pusės vadovavę Lietuvos gyvenimui
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Radvilų šeimos buvo dvi šakos.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Biržiečiai Radvilos, iki XVII amž. pusės vadovavę Lietuvos gyvenimui
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

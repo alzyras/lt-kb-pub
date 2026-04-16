@@ -44,13 +44,3 @@ Gediminaičių dinastija yra dinastija. Šaltinyje ši grupė apibūdinama kaip 
   citata: |
     Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksandro brolis, Čekų karalius Vladislovas, savo ir jaunesniojo brolio Zigmanto vardu net pareiškė protestą dėl to susitarimo.
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Gediminaičių dinastijos pradžia
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksandro brolis, Čekų karalius Vladislovas, savo ir jaunesniojo brolio Zigmanto vardu net pareiškė protestą dėl to susitarimo.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

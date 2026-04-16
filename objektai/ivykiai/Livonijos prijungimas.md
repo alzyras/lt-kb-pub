@@ -58,17 +58,4 @@ patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą; dal
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 - dalyvis: [[Zigmantas Augustas]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    11. Livonijos prijungimas Livonijos būklė XVI amžiuje. Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros jungtinės valstybės: 4 vyskupystės, ordinas ir Rygos miestas. Iš pradžių ir
-
-    ordinas priklausė Rygos arkivyskupui, bet XIV amžiuje (Gedimino laikais, — žiūr. 71 psl.) jis nusikratė ta priklausomybe.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    11. Livonijos prijungimas
-  pagrindžia: Papildomą šaltinio paminėjimą apie įvykį.
-
 ## Pastabos

@@ -57,12 +57,4 @@ Vorskla siejama su Vytauto žygiu ir mūšiu rytuose.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Vorskla“ mini šiame kontekste: Vorskla siejama su Vytauto žygiu ir mūšiu rytuose.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Jis dar turėjo didelių planų, todėl jam būtų buvę nenaudinga garsintis nepriklausomu nuo Jogailos, nes būtų tekę sueiti į konfliktą su juo ir su Lenkija.
-  pagrindžia: Vietos „Vorskla“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

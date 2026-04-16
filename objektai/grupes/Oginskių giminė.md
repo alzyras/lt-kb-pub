@@ -44,13 +44,3 @@ Oginskių giminė yra didikų giminė. Šaltinyje ši grupė apibūdinama kaip d
   citata: |
     Prieš juos tebeveikė Oginskio ir kitų būriai.
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Oginskiai — kilimų dirbtuves
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Prieš juos tebeveikė Oginskio ir kitų būriai.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

@@ -58,12 +58,4 @@ Luckas minimas kaip Vytauto laikų suvažiavimo vieta.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Luckas“ mini šiame kontekste: Luckas minimas kaip Vytauto laikų suvažiavimo vieta.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Lucko suvažiavimas (1429 m.), Vytauto karūnacijos byla ir Vytauto mirtis
-  pagrindžia: Vietos „Luckas“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

@@ -56,15 +56,4 @@ Kandidatas žymi privilegijos suteikimą Žemaičių kunigaikštystei.
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 - dalyvis: [[Kazimieras]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    2. Žemaičių kunigaikštystės privilegija Nesutikimai, kilę po Zigmanto mirties, teturėjo tam tikrų padarinių tik Žemaičiams: konkurentų kovų metu jie išgavo iš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems laikams laidavo jiems savotišką vidaus tvarkymąsi.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    2. Žemaičių kunigaikštystės privilegija
-  pagrindžia: Papildomą šaltinio paminėjimą apie įvykį.
-
 ## Pastabos

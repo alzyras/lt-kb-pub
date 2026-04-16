@@ -57,12 +57,4 @@ Kernavė pateikiama kaip Traidenio ir ankstyvųjų kunigaikščių centras.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Kernavė“ mini šiame kontekste: Kernavė pateikiama kaip Traidenio ir ankstyvųjų kunigaikščių centras.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Kai kurie mokslininkai spėja Mindaugo sostinę buvus Liškiavą ar Kernavę, kiti jos ieško kitur. Traidenio centrinė pilis, arba sostinė, buvo Kernavė. O iš kur buvo kilęs ir kur dažniausiai gyvendavo Vytenis ir jo tėvas, irgi nežinome. Nežinome taip pat, iš kur pradėjo valdyti Gediminas.
-  pagrindžia: Vietos „Kernavė“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

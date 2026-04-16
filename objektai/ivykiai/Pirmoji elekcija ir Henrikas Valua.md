@@ -62,19 +62,4 @@ Kandidatas žymi pirmąją elekciją po Jogailaičių dinastijos pabaigos.
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 - dalyvis: [[Henrikas Valua]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    2. Pirmoji elekcija ir Henrikas Valua (1573—1574 m.)
-
-    Lietuviai konvokacijoj nedalyvavo: nepatenkinti lenkais, jie norėjo pakeisti neseniai padarytos unijos sąlygas ir atsiimti lenkų užgrobtas žemes; tačiau visiškai nutraukti ryšių su lenkais nesiryžo, nes kaip tik tada grėsė naujas sunkus karas su Maskva, ir jie tikėjosi gauti Lenkų paramos. Primui šaukiant konvokacinį seimą, į Varšuvą jie nusiuntė tik savo delegaciją, reikalaudami patogesnės vietos elekcijai. Bet pagaliau jie lenkams
-
-    nusileido ir balandžio mėnesį atvyko į sušauktą elekcinį seimą.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    2. Pirmoji elekcija ir Henrikas Valua (1573—1574 m.). 279
-  pagrindžia: Papildomą šaltinio paminėjimą apie įvykį.
-
 ## Pastabos

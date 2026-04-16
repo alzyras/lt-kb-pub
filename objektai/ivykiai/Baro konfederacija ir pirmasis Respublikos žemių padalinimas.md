@@ -48,13 +48,4 @@ patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą; dal
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    6. Baro konfederacija ir pirmasis Respublikos žemių padalinimas
-
-    Konfederacijos kūrimasis. Anksčiau Rusija vis dėjosi bajorijos laisvių gynėja ir, kišdamasi į Respublikos reikalus, sakėsi ginanti jos laisvę. Radomo konfederacijos ir 1768 m. seimo metu Repninas jau perdaug aiškiai išėjo iš tokių bičiuliškų ribų: panieka, su kuria jis žiūrėjo į seimą, prievarta, jam priešinančiųsi dvarų sunaikinimas ir senatorių ištrėmimas į Rusijos gilumą buvo jau visai nepanašūs į bičiulišką globą veiksmai. Todėl, dar nepasibaigus 1768 m. seimui, dalis Lenkų bajorijos, susirinkusi Baro miestely (Podolėje), susimetė į konfederaciją kovoti su Rusijos priespauda ir už senąsias bajorų laisves. Labai greit judėjimas apėmė visą Lenkiją ir Lietuvą. Visur bajorija ėmė burtis ir dėtis prie konfederatų.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-
 ## Pastabos

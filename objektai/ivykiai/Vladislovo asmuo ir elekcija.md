@@ -53,17 +53,4 @@ Kandidatas žymi valdovo išrinkimą ir jo politinę pradžią.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    9. Vladislovo asmuo ir elekcija
-
-    Zigmantas Vaza mirdamas paliko 5 sūnus ir 2 dukteris. Nuo pat valdymo pradžios tėvas buvo pradėjęs rūpintis, kad Lietuvos ir Lenkijos sostai atitektų vienam iš jo sūnų.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    9. Vladislovo asmuo ir elekcija
-  pagrindžia: Papildomą šaltinio paminėjimą apie įvykį.
-
 ## Pastabos

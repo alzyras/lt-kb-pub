@@ -44,13 +44,3 @@ Steigiamasis seimas yra seimas. Šaltinyje ši grupė apibūdinama kaip 1920 m. 
   citata: |
     Vilniuje sušauktas steigiamasis seimas turėjo nustatyti valstybės konstituciją ir santykius su kitomis valstybėmis.
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Steigiamasis seimas
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Vilniuje sušauktas steigiamasis seimas turėjo nustatyti valstybės konstituciją ir santykius su kitomis valstybėmis.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

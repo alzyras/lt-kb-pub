@@ -58,12 +58,4 @@ Amerika minima kaip lietuvių veiklos ir išeivijos erdvė.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Amerika“ mini šiame kontekste: Amerika minima kaip lietuvių veiklos ir išeivijos erdvė.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    4. Lietuvių veikla Amerikoj, Šveicarijoj ir kitur
-  pagrindžia: Ameriką kaip lietuvių išeivijos ir politinės veiklos erdvę.
-
 ## Pastabos

@@ -57,12 +57,4 @@ Latvijos ir vėliau platesnis ordino valdomas kraštas.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Livonija“ mini šiame kontekste: Latvijos ir vėliau platesnis ordino valdomas kraštas.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Kai šituose kraštuose ėmė lankytis vokiečių pirkliai ir misijonieriai, tai pirmiausia jie susidūrė su lybiais. Todėl dabartinė Latvija vakarų Europos raštuose buvo pradėta vadinti Livonija. O kai čia įsikūrė vokiečių ateivių valstybė, tai Livonija buvo vadinamas visas jų pavergtas kraštas, — lygiai taip, kaip vienos prūsų giminės vardu buvo pavadintas visas vokiečių ordino nukariautas vakarinių aisčių kraštas.
-  pagrindžia: Vietos „Livonija“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

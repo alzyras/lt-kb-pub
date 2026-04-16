@@ -55,13 +55,4 @@ Kandidatas žymi pirmojo padalinimo patvirtinimą ir Respublikos santvarkos pert
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 - dalyvis: [[Stanislovas Augustas]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    7. Padalinimo patvirtinimas 1773—1775 m. seime
-
-    Rusijai, Prūsijai ir Austrijai užėmus sau pasiskirtas sritis ir likvidavus konfederatus, reikėjo dar sutvarkyti santykius su pačia Respublika. Reikėjo gauti iš jos padalinimo patvirtinimą ir padaryti su ja taikos sutartį.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-
 ## Pastabos

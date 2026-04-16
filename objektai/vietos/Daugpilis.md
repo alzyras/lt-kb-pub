@@ -57,12 +57,4 @@ Daugpilis minimas Latvijos ir pasienio mokyklų bei sienų kontekste.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Daugpilis“ mini šiame kontekste: Daugpilis minimas Latvijos ir pasienio mokyklų bei sienų kontekste.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Radvilos fundacija), Pašiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja), Vitebske (Smolensko vaivados A. Gansiausko f-ja), Žodiškiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sapiegos f-ja). Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve, Alūkstoje, Daugpily, Jelgavoj ir kitur.
-  pagrindžia: Vietos „Daugpilis“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

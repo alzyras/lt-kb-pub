@@ -57,12 +57,4 @@ Marijenverderis minimas kaip ordino pilies vieta prie veiksmų prieš Lietuvą.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Marijenverderis“ mini šiame kontekste: Marijenverderis minimas kaip ordino pilies vieta prie veiksmų prieš Lietuvą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Šį kartą Vytautui ordinas jau nebedavė valdyti jokios pilies. Tačiau jam buvo leista gyventi prie pat Kauno, vietoj senojo Marijenverderio pastatytoje Ritersverderio pilyje. Čia jis organizavo karą su Jogaila. Karas jam iš pradžių nesisekė: iš jo buvo atimtos visos jo valdytosios sritys; Skirgaila užėmė ir Gardiną, kurį Vytautas susitarimo pradžioje buvo atidavęs ordinui.
-  pagrindžia: Vietos „Marijenverderis“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

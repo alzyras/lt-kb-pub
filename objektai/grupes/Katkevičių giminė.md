@@ -44,13 +44,3 @@ Katkevičių giminė yra didikų giminė. Šaltinyje ši grupė apibūdinama kai
   citata: |
     Lietuva, vadovaujama J. J. Katkevičiaus ir M. Radvilos
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Su jais, jau tada ir kiek vėliau, bandė konkuruoti gudų kilimo Katkevičiai, kurie betgi, negalėdami prilygti Radviloms turtingumu, nepaveržė iš jų įtakos.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Lietuva, vadovaujama J. J. Katkevičiaus ir M. Radvilos
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

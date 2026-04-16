@@ -46,11 +46,5 @@ Ivinskio Draugija yra draugija. Šaltinyje ši grupė apibūdinama taip: Ameriko
 ## Ryšiai
 - Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
 
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Kaupo, A. Miluko ir J. Žilinsko,—pastangomis buvo įkurta Ivinskio Draugija, kurios tikslas buvo rūpintis, kad 1900 m. pasaulinėje Paryžiaus parodoje būtų ir lietuvių skyrius;
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-
 ## Pastabos
 - Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

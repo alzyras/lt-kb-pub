@@ -59,12 +59,4 @@ Voluinė nuolat minima kaip pietinis Lietuvos politinis kaimynas.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Voluinė“ mini šiame kontekste: Voluinė nuolat minima kaip pietinis Lietuvos politinis kaimynas.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Senieji aisčių kaimynai vakaruose buvo lenkams artimi pamarėnai (už Vyslos), pietuose buvo mozūrai, kurių sodybos susisiekė su prūsų giminių ir jotvingų sodybomis. Dar toliau į pietus jotvingai ribojosi su lenkais ir Voluinės rusais. Rytuose aukštaičiai susisiekė su gudais. Su tais pačiais gudais rytuose ribojosi latgaliai; į šiaurę nuo latgalių gyveno estai. Nuo jūros latvius skyrė lybiai.
-  pagrindžia: Vietos „Voluinė“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

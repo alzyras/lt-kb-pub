@@ -44,13 +44,3 @@ Pacų giminė yra didikų giminė. Šaltinyje ši grupė apibūdinama kaip didik
   citata: |
     Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris Kristupas Pacas, — tas pats, kuris pastatė gražųjį Pažaislio vienuolyną paliai Kauną (jo brolis hetmonas Mykolas pastatė taip pat gražiausią Vilniuje barokinę šv. Petro ir Povilo -bažnyčią Antakalny).
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris Kristupas Pacas, — tas pats, kuris pastatė gražųjį Pažaislio vienuolyną paliai Kauną (jo brolis hetmonas Mykolas pastatė taip pat gražiausią Vilniuje barokinę šv. Petro ir Povilo -bažnyčią Antakalny).
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

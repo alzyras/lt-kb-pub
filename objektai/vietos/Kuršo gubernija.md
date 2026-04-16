@@ -57,12 +57,4 @@ Kuršo gubernija minima tarp sienų perbraižymo ir gyventojų pasiskirstymo kon
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Kuršo gubernija“ mini šiame kontekste: Kuršo gubernija minima tarp sienų perbraižymo ir gyventojų pasiskirstymo kontekstų.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo laikoma buvusios Kuršo gubernijos siena. Bet
-  pagrindžia: Vietos „Kuršo gubernija“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

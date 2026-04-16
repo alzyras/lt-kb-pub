@@ -57,12 +57,4 @@ Upė svarbi latvių ir žemaičių erdvės riboje.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Šventoji“ mini šiame kontekste: Upė svarbi latvių ir žemaičių erdvės riboje.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Rytinės jų sienos nėra aiškios; jie užėmė visą Neries aukštupį, artėjo prie Bererinos aukštupio ir prie Dysnos Latviai. Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir žemaičių, gyveno kuršiai, kairiajame Dauguvos žemupio krante — žiemgaliai, kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apskritis, gyveno sėliai, o į šiaurę nuo jų, t. y. dešiniajam Dauguvos vidurupio krante gyveno latgãliai (taip šitų sričių gyventojus vadina senieji raštai).
-  pagrindžia: Vietos „Šventoji“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

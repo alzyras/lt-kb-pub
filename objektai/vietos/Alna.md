@@ -57,12 +57,4 @@ Upė minima kartu su Deimena, apibrėžiant vakarines ribas.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Alna“ mini šiame kontekste: Upė minima kartu su Deimena, apibrėžiant vakarines ribas.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Prūsų vardą tuo būdu gavo visas kryžiuočių pavergtas kraštas, nors jo rytinėje dalyje gyveno jau kitos tarmės kiltys. Prūsų, t. y. vakarinių aisčių siena vakaruose buvo Vyslos upė, o pietuose jų siena ėjo pagal lenkų mozūrų sodybas. Su lietuviais jie susisiekė maždaug toje vietoje, kur teka Deimenos ir Alnos upės.
-  pagrindžia: Vietos „Alna“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

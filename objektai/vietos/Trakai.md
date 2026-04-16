@@ -59,12 +59,4 @@ Trakai minimi kaip antrinis Lietuvos sostinės centras ir pilių vieta.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Trakai“ mini šiame kontekste: Trakai minimi kaip antrinis Lietuvos sostinės centras ir pilių vieta.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Lietuvos sostine. Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai. Jo sūnus Kęstutis vėliau pastatė kitą didingą mūro pilį to paties ežero saloje. Ir Vilniaus ir Trakų pilys vėliau buvo perstatytos.
-  pagrindžia: Vietos „Trakai“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

@@ -57,12 +57,4 @@ patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Įsrutis“ mini šiame kontekste: Įsrutis minimas kaip paskutinė vakarinė ordino pilis krašto viduje.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Po maro visam krašte liko net 10.834 visiškai tuščios sodybos. Iš jų 8.411 buvo Mažojoje Lietuvoje, t. y. rytinėje Prūsų kunigaikštijos provincijoje, jau nuo 1600 m. vadinamoje Lietuva. Įsruties apskrity tuščių sodybų buvo net 4.620, Ragainės — 1613, Tilžės — 1307, Klaipėdos — 871.
-  pagrindžia: Vietos „Įsrutis“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

@@ -53,11 +53,4 @@ Sutartis siejama su Vytauto santykiais su ordinu ir laikinu politiniu sureguliav
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 - dalyvis: [[Vytautas]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    9. Vytauto santykiai su vokiečių ordinu ir Salyno sutartis (1398 m.) Dusyk Vytauto apgautas, ordinas buvo labai ant jo įtūžęs ir tuojau pasiryžo jam atkeršyti.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-
 ## Pastabos

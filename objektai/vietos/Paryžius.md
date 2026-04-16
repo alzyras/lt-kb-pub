@@ -60,12 +60,4 @@ Paryžius svarbus kaip taikos konferencijų ir lietuvių diplomatijos vieta.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Paryžius“ mini šiame kontekste: Paryžius svarbus kaip taikos konferencijų ir lietuvių diplomatijos vieta.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Amerikoje ir kitur užsieniuose nebuvo tuo atžvilgiu suvaržyti ir aiškiai pabrėžė savo reikalavimuose Mažosios ir Didžiosios Lietuvos sujungimą. Taikos konferencijoje Paryžiuje Lietuvos delegacija jau oficialiai ta prasme išdėstė savo reikalavimus (1919.III.24.).
-  pagrindžia: Vietos „Paryžius“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

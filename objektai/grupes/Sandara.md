@@ -42,24 +42,8 @@ Sandara yra draugija. Šaltinyje ši grupė apibūdinama taip: Klaipėdoje įkur
   citata: |
     1904 m. dr. Gaigalaičio buvo įkurta Klaipėdoje tikybinė lietuvių draugija, vardu „Sandara", kuri irgi tebegyvuoja, jungdama viso krašto lietuvius.
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-- santrauka: Papildomas tiesioginis paminėjimas iš to paties šaltinio.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    1904 m. dr. Gaigalaičio buvo įkurta Klaipėdoje tikybinė lietuvių draugija, vardu „Sandara", kuri irgi tebegyvuoja, jungdama viso krašto lietuvius.
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
 ## Ryšiai
 - Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    1904 m. dr. Gaigalaičio buvo įkurta Klaipėdoje tikybinė lietuvių draugija, vardu „Sandara", kuri irgi tebegyvuoja, jungdama viso krašto lietuvius.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    1904 m. dr. Gaigalaičio buvo įkurta Klaipėdoje tikybinė lietuvių draugija, vardu „Sandara", kuri irgi tebegyvuoja, jungdama viso krašto lietuvius.
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
 
 ## Pastabos
 - Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

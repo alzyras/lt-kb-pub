@@ -59,13 +59,4 @@ Kandidatas žymi suvažiavimą ir su juo siejamą Vytauto karūnacijos bylą.
 - dalyvis: [[Vytautas]]
 - dalyvis: [[Jogaila]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    23. Lucko suvažiavimas (1429 m.), Vytauto karūnacijos byla ir Vytauto mirtis
-
-    Lucko suvažiavimas ir karūnacijos sumanymas. 1429 m. turėjo įvykti valdovų suvažiavimas rytų Europos politikos klausimams apsvarstyti.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-
 ## Pastabos

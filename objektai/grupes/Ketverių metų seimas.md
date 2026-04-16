@@ -44,13 +44,3 @@ Ketverių metų seimas yra seimas. Šaltinyje ši grupė apibūdinama kaip refor
   citata: |
     Tuo būdu ketverių metų seimas bandė pabaigti uniją
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Ketverių metų (1788—1792) seimas
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tuo būdu ketverių metų seimas bandė pabaigti uniją
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

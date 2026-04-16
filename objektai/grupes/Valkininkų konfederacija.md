@@ -44,13 +44,3 @@ Valkininkų konfederacija yra konfederacija. Šaltinyje ši grupė apibūdinama 
   citata: |
     Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)
   pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-
-## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    1700 m. Valkininkų konfederacija
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)
-  pagrindžia: Tiesioginis pavadinimo ar vaidmens įrodymas.

@@ -54,11 +54,4 @@ Kandidatas žymi valdovo santuoką ir su ja kilusį politinį konfliktą.
 - dalyvis: [[Zigmantas Augustas]]
 - dalyvis: [[Barbora Radvilaitė]]
 
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    10. Zigmanto Augusto ir Barboros Radvilaitės vedybos ir konfliktas dėl jos su lenkais Įsikurdamas Vilniuje, Zigmantas Augustas jau buvo vedęs. Bet jo žmona Habsburgaitė netrukus mirė. Tuo metu, greta didžiojo kunigaikščio rūmų, buvusiuose Radvilų rūmuose, gyveno jauna graži našlė Barbora Radvilaitė Goštautienė. Mirus žmonai, Z. Augustas veikiai susiartino su ja ir karštai įsimylėjo. Iš kunigaikščių rūmų iki Radvilų rūmų per sodą Z. Augustas liepė įtaisyti dengtą priėjimą, kur abu įsimylėjusieji susitikdavo. Vieną kartą Barboros brolis Mikalojus, vadinamas Ruduoju, ir jos pusbrolis Mikalojus, vadinamas Juoduoju, atvyko pasimatymo metu ir pareikalavo, kad Z. Augustas vestų Barborą, nes, esą, plintančios kalbos žeminančios jų šeimos garbę. Zigmantas Augustas su tuo sutiko, ir tuojau, pakvietus kunigą, slapta įvyko jungtuvės.
-  pagrindžia: Įvykio pavadinimą, šaltinyje pateiktą kontekstą ir, kai nurodyta, datą.
-
 ## Pastabos

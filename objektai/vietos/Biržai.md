@@ -64,12 +64,4 @@ Biržai minimi tarp provincijos vietų ir 1919 m. kovų.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Biržai“ mini šiame kontekste: Biržai minimi tarp provincijos vietų ir 1919 m. kovų.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Lietuvoje dabar kuriamas centralinis Vytauto Didžiojo Muziejus Kaune. Nemaža muziejų yra ir provincijoj (Klaipėdoj, Šiauliuose, Panevėžy, Telšiuose, Kėdainiuose, Biržuose ir kitur). Dvasinės kultūros palaikai, arba tautosaka, taip pat yra renkama, rūšiuojama ir spausdinama.
-  pagrindžia: Vietos „Biržai“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos

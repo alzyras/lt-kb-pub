@@ -57,12 +57,4 @@ Kauno gubernija minima kaip administracinė ir archyvinė erdvė.
 
 - šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
-## Šaltiniai ir įrodymai
-
-- santrauka: Šaltinis vietą „Kauno gubernija“ mini šiame kontekste: Kauno gubernija minima kaip administracinė ir archyvinė erdvė.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Rusų valdymo metu taip pat buvo atsiradusių archyvų; svarbiausi iš jų dabar yra Vilniuje. Juose surinkti Vilniuje buvusių rusų valdžios įstaigų dokumentai. Buvusios Kauno gubernijos įstaigų archyvai dabar saugomi Kaune, vadinamajame Centraliniame Valstybės Archyve. Iš kitų dabar Kaune esančių archyvų paminėtini dar Arkivyskupijos, Kauno miesto ir įvairių valdžios įstaigų archyvai.
-  pagrindžia: Vietos „Kauno gubernija“ pavadinimą, tipą ir šaltinio kontekstą.
-
 ## Pastabos
