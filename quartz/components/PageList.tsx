@@ -77,24 +77,26 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
             <div class="section">
               {historicalPeriod && <p class="meta">{historicalPeriod}</p>}
               <div class="desc">
-                <h3>
+                <h3 class="title-row">
                   <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
                     {title}
                   </a>
+                  {tags.length > 0 && (
+                    <ul class="tags inline-tags">
+                      {tags.map((tag) => (
+                        <li>
+                          <a
+                            class="internal tag-link"
+                            href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
+                          >
+                            {tag}
+                          </a>
+                        </li>
+                      ))}
+                    </ul>
+                  )}
                 </h3>
               </div>
-              <ul class="tags">
-                {tags.map((tag) => (
-                  <li>
-                    <a
-                      class="internal tag-link"
-                      href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
-                    >
-                      {tag}
-                    </a>
-                  </li>
-                ))}
-              </ul>
             </div>
           </li>
         )
@@ -108,7 +110,25 @@ PageList.css = `
   margin: 0;
 }
 
-.section > .tags {
+.section .title-row {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.section .inline-tags {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
   margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.section .inline-tags .tag-link {
+  font-size: 0.78rem;
+  line-height: 1.2;
+  opacity: 0.9;
 }
 `
