@@ -3,7 +3,6 @@ import { QuartzPluginData } from "../plugins/vfile"
 import { getDate } from "./Date"
 import { QuartzComponent, QuartzComponentProps } from "./types"
 import { GlobalConfiguration } from "../cfg"
-import { visibleHistoricalPeriod } from "../util/historicalPeriod"
 
 export type SortFn = (f1: QuartzPluginData, f2: QuartzPluginData) => number
 
@@ -70,14 +69,10 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
       {list.map((page) => {
         const title = page.frontmatter?.title
         const tags = page.frontmatter?.tags ?? []
-        const historicalPeriod = visibleHistoricalPeriod(page.frontmatter?.laikotarpis)
 
         return (
           <li class="section-li">
             <div class="section">
-              <div class="meta-box">
-                <p class="meta">{historicalPeriod ?? ""}</p>
-              </div>
               <div class="desc">
                 <h3 class="title-row">
                   <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
