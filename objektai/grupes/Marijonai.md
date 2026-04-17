@@ -1,40 +1,82 @@
 ---
 tipas: grupe
 pavadinimas: "Marijonai"
-sukurta: "2026-04-16"
-variantai:
+sukurta: "2026-04-17"
+variantai: 
   - "vienuoliai marijonai"
-aliases:
+aliases: 
   - "vienuoliai marijonai"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: 
+  - "vienuolių ordinas"
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "vidutinis"
 ---
 # Marijonai
 
 ## Santrauka
-Marijonai yra vienuolių ordino grupė. Šaltinyje ši grupė apibūdinama kaip vienuolių grupė, kuri šaltinyje siejama su mokymo ir kolegijų veikla.
+
+Vienuolių grupė, kuri šaltinyje siejama su mokymo ir kolegijų veikla.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Marijonai`
-- Variacijos arba alternatyvios formos: `vienuoliai marijonai`
+
+- „Marijonai“
+- „vienuoliai marijonai“
+
+## Laikotarpis ir datos
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip vienuolių ordinas.
+
+Šaltinyje aiškiai nurodomas grupės tipas: vienuolių ordinas.
 
 ## Sudėtis ir vaidmuo
 - tipas: vienuolių ordinas
-- vaidmuo: vienuolių grupė, kuri šaltinyje siejama su mokymo ir kolegijų veikla
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Marijonai“ apibūdinama taip: Vienuolių grupė, kuri šaltinyje siejama su mokymo ir kolegijų veikla."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Vienuolių grupė, kuri šaltinyje siejama su mokymo ir kolegijų veikla.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
     Visos jos yra pradedamosios, tik vienuolės kazimierietės išlaiko 2 aukštesniąsias mergaičių mokyklas, vad. akademijas (jose mokosi apie 200 lietuvaičių), o vienuoliai marijonai — dvi berniukų kolegijas.
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
+
+## Pastabos

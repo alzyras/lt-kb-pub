@@ -1,60 +1,80 @@
 ---
 tipas: asmuo
 pavadinimas: "Jonas Sobieskis"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "Jono Sobieskio"
-aliases:
-  - "Jonas Sobieskis"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - valdovas
-laikotarpis: "XVII a."
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: "1696 m."
 datos:
   - "1696 m."
-vaidmenys:
-  - valdovas
+periodas: ""
+subperiodiai: []
+date_start: "1696"
+date_end: "1696"
+vaidmenys: []
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis Joną Sobieskį įvardija vardu ir susieja su valdovo laikotarpio politiniais planais."
+susije_irasai: []
+patikimumas: "aukstas"
 ---
 # Jonas Sobieskis
 
 ## Santrauka
-Jonas Sobieskis šiame šaltinyje minimas kaip valdovas, kurio politiniai planai baigėsi be pasiekto rezultato.
+
+Šaltinyje nurodoma, kad Jonas Sobieskis mirė 1696 m., nieko nepasiekęs.
 
 ## Variantai
+
 - Jono Sobieskio
 
 ## Laikotarpis ir datos
-- laikotarpis: XVII a.
+- laikotarpis: 1696 m.
 - datos: 1696 m.
+- periodas:
+- subperiodiai:
+- date_start: 1696
+- date_end: 1696
 
 ## Vaidmenys
-- valdovas
 
 ## Savybės
-- išvaizda:
-- būdas / charakteris:
-- elgesys:
-- reputacija:
-- gebėjimai:
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje nurodoma, kad Jonas Sobieskis mirė 1696 m., nieko nepasiekęs."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
-- santrauka: Jonas Sobieskis minimas mirties ir nepasiektų planų kontekste.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Citata pagrindžia asmens dalyvavimo ar istorinio įvykio kontekstą.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Daug dirbęs, daug kariavęs, Jonas Sobieskis mirė 1696 m., nieko nepasiekęs. Visas kraštas buvo nepatenkintas jo pastangomis tvirtai valdyti, niekad nenorėjo duoti pinigų jo planams vykdyti, o savavaliauti įpratę didikai visur jam priešinosi.
-  pagrindžia: Jono Sobieskio mirties datą ir politinio rezultato vertinimą.
+    Jonas Sobieskis mirė 1696 m., nieko nepasiekęs.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
 ## Šaltiniai ir įrodymai
-- Pagrindinis įrodymas pateiktas skiltyje „Reikšmingi paminėjimai“.
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos

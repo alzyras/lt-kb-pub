@@ -1,59 +1,85 @@
 ---
 tipas: vieta
 pavadinimas: "Šventoji"
-sukurta: "2026-04-16"
-variantai: 
+sukurta: "2026-04-17"
+variantai:
+  - "Šventoji"
   - "Šventosios"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "upė"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # Šventoji
 
 ## Santrauka
-
 Upė svarbi latvių ir žemaičių erdvės riboje.
 
 ## Pavadinimai šaltiniuose
-
 - Šventoji
 - Šventosios
 
 ## Laikotarpis ir datos
-
 - laikotarpis: 
 - datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-
-Šaltinyje ši vieta įvardijama kaip upė.
+upė.
 
 ## Geografinis ir istorinis kontekstas
-
 - tipas: upė
 - regionas:
 - susiję žmonės:
 - susiję įvykiai:
 - susijusios grupės:
 
-## Reikšmingi paminėjimai
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje „Šventoji“ minimas kaip upė: Upė svarbi latvių ir žemaičių erdvės riboje."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
-- santrauka: Šaltinis vietą „Šventoji“ mini šiame kontekste: Upė svarbi latvių ir žemaičių erdvės riboje.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Upė svarbi latvių ir žemaičių erdvės riboje.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Rytinės jų sienos nėra aiškios; jie užėmė visą Neries aukštupį, artėjo prie Bererinos aukštupio ir prie Dysnos Latviai. Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir žemaičių, gyveno kuršiai, kairiajame Dauguvos žemupio krante — žiemgaliai, kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apskritis, gyveno sėliai, o į šiaurę nuo jų, t. y. dešiniajam Dauguvos vidurupio krante gyveno latgãliai (taip šitų sričių gyventojus vadina senieji raštai).
-  pagrindžia: Vietos „Šventoji“ pavadinimą, tipą ir šaltinio kontekstą.
+    **Latviai.** Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo
+    Šventosios upės ir žemaičių, gyveno kuršiai, kairiajame Dau-
+    guvos žemupio krante — žiemgaliai, kairiajame Dauguvos
+    vidurupio krante, siekdami dabartines Utenos ir Zarasų apskri-
+    tis, gyveno sėliai, o į šiaurę nuo jų, t. y. dešiniajam Dauguvos
+    vidurupio krante gyveno latgãliai (taip šitų sričių gyven-
+    tojus vadina senieji raštai). Kai XIII amž. daugumas šitų kil-
+    čių pateko į vokiečių ordino valdžią, tai iš jų visų susiformavo
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Šaltiniai ir įrodymai
+- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
 
 ## Pastabos

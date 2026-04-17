@@ -1,47 +1,91 @@
 ---
 tipas: grupe
 pavadinimas: "Ponų taryba"
-sukurta: "2026-04-16"
-variantai:
+sukurta: "2026-04-17"
+variantai: 
   - "didžiojo kunigaikščio taryba"
   - "senatas"
-aliases:
+aliases: 
   - "didžiojo kunigaikščio taryba"
   - "senatas"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: 
+  - "taryba"
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "vidutinis"
 ---
 # Ponų taryba
 
 ## Santrauka
-Ponų taryba yra taryba. Šaltinyje ši grupė apibūdinama kaip lietuvos didžiojo kunigaikščio valdžios taryba, išaugusi į svarbiausią politinį organą.
+
+Lietuvos didžiojo kunigaikščio valdžios taryba, išaugusi į svarbiausią politinį organą.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Ponų taryba`
-- Variacijos arba alternatyvios formos: `didžiojo kunigaikščio taryba`, `senatas`
+
+- „Ponų taryba“
+- „didžiojo kunigaikščio taryba“
+- „senatas“
+
+## Laikotarpis ir datos
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip taryba.
+
+Šaltinyje aiškiai nurodomas grupės tipas: taryba.
 
 ## Sudėtis ir vaidmuo
 - tipas: taryba
-- vaidmuo: lietuvos didžiojo kunigaikščio valdžios taryba, išaugusi į svarbiausią politinį organą
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Ponų taryba“ apibūdinama taip: Lietuvos didžiojo kunigaikščio valdžios taryba, išaugusi į svarbiausią politinį organą."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Lietuvos didžiojo kunigaikščio valdžios taryba, išaugusi į svarbiausią politinį organą.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Lietuva savo viduje dar tebebuvo visiškai savarankiška valstybė; savo išvaizda ji betgi jau artėjo prie Lenkijos: Lenkijoje ponija buvo įsigalėjusi dar prieš Jogailos laikus, — Lietuvoje ji įsigalėjo ypač povytautiniais laikais; Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžiojo kunigaikščio, arba ponų taryba atsirado ir Lietuvoje.
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-- santrauka: Papildomas tiesioginis paminėjimas iš to paties šaltinio.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Lenkų ponų taryba
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+    Lietuva savo
+    viduje dar tebebuvo visiškai savarankiška valstybė; savo iš-
+    vaizda ji betgi jau artėjo prie Lenkijos: Lenkijoje ponija buvo
+    įsigalėjusi dar prieš Jogailos laikus, — Lietuvoje ji įsigalėjo
+    ypač povytautiniais laikais; Lenkijoje prie karaliaus buvo ponų
+    taryba, vadinama senatu, — panaši didžiojo kunigaikš-
+    čio, arba ponų taryba atsirado ir Lietuvoje.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
+
+## Pastabos

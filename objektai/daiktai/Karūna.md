@@ -1,92 +1,111 @@
 ---
 tipas: daiktas
-pavadinimas: "karūna"
-sukurta: "2026-04-16"
+pavadinimas: "Karūna"
+sukurta: "2026-04-17"
 variantai:
-  - "karūną"
-  - "karališkąją karūną"
-  - "Lenkų karūną"
+  - "karališkoji karūna"
+  - "Lenkų karūna"
+  - "karūna"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - simbolis
-laikotarpis: "1251–1253 m.; 1429–1430 m."
+  - "simbolis"
+laikotarpis: "XIII–XV a."
 datos:
-  - "1251 m. liepos 17 d."
-  - "1253 m."
-  - "1429–1430 m."
+  - "1430 m."
+periodas: "viduramziai"
+subperiodiai: []
+date_start: "1200"
+date_end: "1430"
 vaidmenys:
-  - "valdovo legitimumo simbolis"
-dalyviai:
-  - "[[Mindaugas]]"
-  - "[[Vytautas]]"
-  - "[[Jogaila]]"
-susije_irasai:
-  - "[[Mindaugo krikštas ir karūnavimasis Lietuvos karalium]]"
-  - "[[Lucko suvažiavimas]]"
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą; forma „Lenkų karūna“ šaltinyje gali reikšti ir valdžią ar sostą, ne tik fizinį daiktą."
+  - "valdžios simbolis"
+dalyviai: []
+susije_irasai: []
+patikimumas: ""
 ---
 # Karūna
 
 ## Santrauka
 
-Karūna šaltinyje siejama su valdovo statusu ir valstybės savarankiškumo klausimu: Mindaugui prašyta karališkosios karūnos, o Vytauto karūnacijos byloje laukta karūnos su dokumentais.
+Karūna šaltinyje veikia kaip valdovo statuso ir karūnacijos simbolis: ji minima Mindaugo karališkosios karūnos prašyme ir Vytauto karūnavimosi byloje.
 
 ## Pavadinimai šaltiniuose
 
-- karūna
-- karūną
-- karališkąją karūną
-- Lenkų karūną
+- „karališkąją karūną“
+- „Lenkų karūną“
+- „karūną“
 
 ## Laikotarpis ir datos
 
-- laikotarpis: 1251–1253 m.; 1429–1430 m.
-- datos: 1251 m. liepos 17 d.; 1253 m.; 1429–1430 m.
+- laikotarpis: XIII–XV a.
+- datos: 1430 m.
+- periodas: viduramžiai
+- subperiodiai:
+- date_start: 1200
+- date_end: 1430
 
 ## Kas tai
 
-Karūna yra valdovo legitimumo ir karališko statuso simbolis. Šaltinyje ji kartais vartojama ir politine, sosto ar valstybės valdžios prasme.
+Valdovo statuso ir karūnacijos ženklas.
 
 ## Naudojimas
 
-- Mindaugo atveju karūna prašyta iš popiežiaus ir siejama su karaliaus titulu.
-- Vytauto atveju karūna siejama su savarankiškumo demonstravimu ir karūnacijos dokumentais.
+Šaltinyje karūna siejama su valdovo legitimumu ir karūnacijos procesu.
 
 ## Kontekstas
 
-- laikotarpis: Mindaugo krikšto ir karūnavimo bei Vytauto karūnacijos bylos kontekstai.
-- susiję žmonės: [[Mindaugas]], [[Vytautas]], [[Jogaila]]
-- susiję įvykiai: [[Mindaugo krikštas ir karūnavimasis Lietuvos karalium]], [[Lucko suvažiavimas]]
+- laikotarpis: XIII–XV a.
+- susiję žmonės:
+- susiję įvykiai:
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Mindaugo kontekste šaltinis mini prašymą suteikti jam karališkąją karūną."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Vytauto karūnacijos byloje šaltinis mini Lenkų karūnos pasiūlymą, imperatoriaus žadėtą karūną ir naują karūnacijos datą, kurios Vytautas nebesulaukė."
+  pagrindžia:
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Vytauto karūnacijos byloje lenkai siūlė jam Lenkų karūną, bet šaltinis tai aiškina kaip Jogailos sosto atsisakymo klausimą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Mindaugui prašoma karališkosios karūnos.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Lenkai dar visaip bandė sutrukdyti Vytauto sumanymą, prašė Vytautą nors nesiskubinti ir buvo pasiūlę jam įteikti net Lenkų karūną (tuo būdu Jogailai būtų tekę atsisakyti nuo sosto).
-  pagrindžia: Karūnos politinę, sosto ir valdžios simbolikos reikšmę.
+    Kartu buvo prašoma suteikti Mindaugui karališkąją karūną.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Vytauto karūnacijos byloje karūna minima kaip ginčo ir laukimo objektas.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata: |
+    Lenkai dar visaip bandė sutrukdyti Vytauto sumanymą,
+    prašė Vytautą nors nesiskubinti ir buvo pasiūlę jam įteikti net
+    Lenkų karūną (tuo būdu Jogailai būtų tekę atsisakyti nuo sosto).
+    Tačiau Vytautas viską atmetė. Tada lenkai pradėjo ginkluotis.
+    Buvo paruoštos betgi ir Vytauto jėgos. Jis jau paskyrė karūnacijos terminą (rugsėjo 8 d.), susikvietė svečių ir laukė imperatoriaus
+    atsiunčiamos žadėtosios karūnos su karūnacijos dokumentais.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-- asmuo: [[Mindaugas]]
-- asmuo: [[Vytautas]]
-- asmuo: [[Jogaila]]
-- įvykis: [[Mindaugo krikštas ir karūnavimasis Lietuvos karalium]]
-- įvykis: [[Lucko suvažiavimas]]
-
 ## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Kartu buvo prašoma suteikti Mindaugui karališkąją karūną. Popiežius su džiaugsmu sutiko delegaciją ir įgaliojo Kulmo vyskupą Henriką karūnuoti Mindaugą karalium. Popiežiaus sutikimas buvo duotas 1251 m. liepos 17 d., bet karūnacija teįvyko tik 1253 m., t. y. po 2 metų. Kaip matome, Mindaugas bandė staiga iškelti savo sukurtą valstybę ir pastatyti ją, kaip lygią, greta kitų Europos viešpatysčių.
-  pagrindžia: Mindaugui prašytą karališkąją karūną ir karūnavimo datų kontekstą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Buvo paruoštos betgi ir Vytauto jėgos. Jis jau paskyrė karūnacijos terminą (rugsėjo 8 d.), susikvietė svečių ir laukė imperatoriaus atsiunčiamos žadėtosios karūnos su karūnacijos dokumentais. Bet lenkai buvo pasiryžę nieku būdu neleisti įvykdyti karūnacijos.
-  pagrindžia: Vytauto lauktą karūną ir jos ryšį su karūnacijos dokumentais.
 
 ## Pastabos

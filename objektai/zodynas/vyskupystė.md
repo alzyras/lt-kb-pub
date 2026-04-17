@@ -1,68 +1,87 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "vyskupystė"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "vyskupystės"
   - "vyskupystę"
-aliases:
-  - "vyskupystė"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - religinis-terminas
-laikotarpis: "1253 m.; 1387 m.; 1417-1421 m."
-datos:
-  - "1253 m."
-  - "1417-1421 m."
-vaidmenys: []
+  - "istorinė-sąvoka"
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "žodyno terminas"
+  - "Bažnyčios organizacija"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Reikšmė aiškinama tik iš bažnytinės organizacijos aprašymų šaltinyje."
+susije_irasai: []
+patikimumas: ""
 ---
 # vyskupystė
 
+## Santrauka
+
+Terminas „vyskupystė“ šiame šaltinyje vartojamas reikšme: bažnytinė sritis, vyskupo valdos ir organizacija.
+
 ## Žodis ir formos
 
-- Kanoninė forma: `vyskupystė`
-- Šaltinio formos: `vyskupystė`, `vyskupystės`, `vyskupystę`
-
-## Laikotarpis ir datos
-
-- laikotarpis: 1253 m.; 1387 m.; 1417-1421 m.
-- datos: 1253 m.; 1417-1421 m.
+- Pagrindinė forma: „vyskupystė“.
+- Šaltinyje rasta forma: „vyskupystė“.
+- Šaltinyje rasta forma: „vyskupystės“.
+- Šaltinyje rasta forma: „vyskupystę“.
 
 ## Reikšmė iš konteksto
 
-Šaltinyje `vyskupystė` reiškia bažnytinę sritį ir organizaciją, turinčią vyskupą, centrą, katedrą, parapijines bažnyčias ir žemes.
+bažnytinė sritis, vyskupo valdos ir organizacija.
 
 ## Vartojimas
 
-Terminas vartojamas Mindaugo laikų Lietuvos bažnytinės provincijos, Vilniaus vyskupystės ir Žemaičių vyskupystės įkūrimo aprašymuose.
+Vartojimo sritis šaltinyje: Bažnyčios organizacija.
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Pagal vietinį šaltinio kontekstą terminas „vyskupystė“ reiškia: bažnytinė sritis, vyskupo valdos ir organizacija."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Mindaugo delegacija prašė įkurti vyskupystę jo valstybėje.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „vyskupystė“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Ta pati delegacija, kuri prašė popiežių karūnuoti Mindaugą, drauge prašė įkurti jo valstybėje ir vyskupystę.
-  pagrindžia: Vyskupystės kaip bažnytinės organizacijos įkūrimo reikšmę.
-- santrauka: Žemaičių vyskupystė turėjo centrą, vyskupą ir parapijines bažnyčias.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    Tuo pat metu suvažiavimas pavedė Vilniaus vyskupui
+    Petrui ir Lvovo vyskupui Jonui nuvykti į Žemaičius, ištirti jų
+    būklės ir suorganizuoti ten vyskupystę. Tie pasiuntiniai tris mė-
+    nesius dirbo Žemaičiuose ir įšventino pirmąjį Žemaičių vyskupą
+    Motiejų. Vyskupystės centru buvo padaryti Varniai.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „vyskupystė“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Tie pasiuntiniai tris mėnesius dirbo Žemaičiuose ir įšventino pirmąjį Žemaičių vyskupą Motiejų. Vyskupystės centru buvo padaryti Varniai. Vyskupystė buvo vadinama Žemaičių, arba Medininkų, nes Varniai buvo Medininkais vadinamoje Žemaičių srityje. Vytautas ten pastatė katedrą, o visam krašte — 8 parapijines bažnyčias (Viduklėje, Luokėje, Kaltinėnuose, Kelmėje, Raseiniuose, Ariogaloje, Kražiuose ir Veliuonoje).
-  pagrindžia: Vyskupystės teritorinę ir institucinę reikšmę.
-
-## Ryšiai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedrą ir dar 7 pirmąsias parapijines bažnyčias krašte (Ukmergėje, Maišiogaloje, Nemenčine, Medininkuose, Krėvoje, Obalčiuose ir Ainoje).
-  pagrindžia: Vyskupystės ryšį su katedra ir parapijų tinklu.
-
-## Pastabos
+    Ta pati delegacija, kuri prašė popiežių karūnuoti Mindaugą,
+    drauge prašė įkurti jo valstybėje ir vyskupystę. Rygos arkivys-
+    kupas manė, kad jam turinti priklausyti ir Lietuvos Bažnyčia,
+    nes jis buvo laikomas Pabaltijo metropolitu. Jis manė, kad po-
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

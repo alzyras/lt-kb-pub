@@ -1,67 +1,102 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "kanceliarija"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "kanceliarijų"
   - "kanceliarijoje"
   - "kanceliarijos"
-aliases:
-  - "kanceliarija"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - istorinė-sąvoka
-laikotarpis: "nuo XV a. vidurio"
+  - "istorinė-sąvoka"
+laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "žodyno terminas"
+  - "valstybės administracija, dokumentų tvarkymas"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Reikšmė aiškinama tik iš raštvedybos ir archyvų konteksto šaltinyje."
+susije_irasai: []
+patikimumas: ""
 ---
 # kanceliarija
 
+## Santrauka
+
+Terminas „kanceliarija“ šiame šaltinyje vartojamas reikšme: valdovo raštinė, raštvedybos įstaiga.
+
 ## Žodis ir formos
 
-- Kanoninė forma: `kanceliarija`
-- Šaltinio formos: `kanceliarijų`, `kanceliarijoje`, `kanceliarijos`
+- Pagrindinė forma: „kanceliarija“.
+- Šaltinyje rasta forma: „kanceliarijų“.
+- Šaltinyje rasta forma: „kanceliarijoje“.
+- Šaltinyje rasta forma: „kanceliarijos“.
 
 ## Laikotarpis ir datos
-
-- laikotarpis: nuo XV a. vidurio
+- laikotarpis: 
 - datos:
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Reikšmė iš konteksto
 
-Šaltinyje `kanceliarija` reiškia valdovo ar valstybės raštvedybos įstaigą, kurioje vedamos raštų knygos, saugomi nuorašai ir telkiami dokumentai.
+valdovo raštinė, raštvedybos įstaiga.
 
 ## Vartojimas
 
-Terminas vartojamas aiškinant, kodėl iki Jogailos ir Vytauto laikų išliko nedaug raštų, ir kaip vėliau susidarė dokumentų archyvai.
+Vartojimo sritis šaltinyje: valstybės administracija, dokumentų tvarkymas.
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Pagal vietinį šaltinio kontekstą terminas „kanceliarija“ reiškia: valdovo raštinė, raštvedybos įstaiga."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Šaltinis nurodo, kad iki Jogailos ir Vytauto laikų didžiojo kunigaikščio dvare kanceliarijų nebuvę.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „kanceliarija“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Lietuvoje iki Jogailos ir Vytauto laikų net didžiojo kunigaikščio dvare nėra buvę kanceliarijų, todėl tėra tik atsitiktinai išlikusių to meto raštų. Iš jų paminėtini kunigaikščių susirašinėjimai su užsieniais (jų ir jiems rašyti laiškai), sutartys su užsieniais, o nuo XIV amž. pabaigos jau pradeda rastis įvairių vidaus dokumentų: apdovanojimų, privilegijų, valdovų įsakymų, pranešimų iš provincijų ir t. t. Toliau tokių raštų vis daugėja.
-  pagrindžia: Termino vartojimą valdovo dvaro raštvedybos įstaigos reikšme.
-- santrauka: Nuo XV a. vidurio kanceliarija siejama su raštų knygomis ir dokumentų nuorašais.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    Lietuvoje iki Jogailos ir Vytauto laikų net didžiojo kuni-
+    gaikščio dvare nėra buvę kanceliarijų, todėl tėra tik atsitiktinai
+    išlikusių to meto raštų. Iš jų paminėtini kunigaikščių susira-
+    šinėjimai su užsieniais (jų ir jiems rašyti laiškai), sutartys su už-
+    sieniais, o nuo XIV amž. pabaigos jau pradeda rastis įvairių vi-
+    daus dokumentų: apdovanojimų, privilegijų, valdovų įsakymų,
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „kanceliarija“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Nuo XV amž. vidurio didžiojo kunigaikščio kanceliarijoje jau vedamos siunčiamųjų ir gaunamųjų raštų knygos, saugomi jų nuorašai.
-  pagrindžia: Kanceliarijos funkcijas.
+    Nuo XV amž. vidurio didžiojo kunigaikščio kanceliarijoje jau
+    vedamos siunčiamųjų ir gaunamųjų raštų knygos, saugomi jų
+    nuorašai. Tuo būdu susidarė tokių dokumentų archyvas,
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
 ## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    D. kunigaikščio Kazimiero laikais archyvą jau laikė ir kunigaikščio kanceliarijoje.
-  pagrindžia: Kanceliarijos ryšį su archyvo laikymu.
 
 ## Pastabos

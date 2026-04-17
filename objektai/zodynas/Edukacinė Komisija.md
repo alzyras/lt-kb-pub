@@ -1,68 +1,109 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "Edukacinė Komisija"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "Edukacinę Komisiją"
   - "Edukacinės Komisijos"
   - "Komisija"
-aliases:
-  - "Edukacinė Komisija"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - istorinė-sąvoka
-laikotarpis: "nuo 1773 m."
+  - "istorinė-sąvoka"
+laikotarpis: "1773 m."
 datos:
   - "1773 m."
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: "1773"
+date_end: "1773"
+vaidmenys:
+  - "žodyno terminas"
+  - "švietimo administracija"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Reikšmė aiškinama tik iš šaltinio švietimo pertvarkymo aprašymo."
+susije_irasai: []
+patikimumas: ""
 ---
 # Edukacinė Komisija
 
+## Santrauka
+
+Terminas „Edukacinė Komisija“ šiame šaltinyje vartojamas reikšme: bendra Lietuvos ir Lenkijos švietimo komisija, perėmusi jėzuitų mokyklas. Šaltinio kontekstas sieja jį su: 1773 m..
+
 ## Žodis ir formos
 
-- Kanoninė forma: `Edukacinė Komisija`
-- Šaltinio formos: `Edukacinę Komisiją`, `Edukacinės Komisijos`, `Komisija`
+- Pagrindinė forma: „Edukacinė Komisija“.
+- Šaltinyje rasta forma: „Edukacinę Komisiją“.
+- Šaltinyje rasta forma: „Edukacinės Komisijos“.
+- Šaltinyje rasta forma: „Komisija“.
 
 ## Laikotarpis ir datos
-
-- laikotarpis: nuo 1773 m.
-- datos: 1773 m.
+- laikotarpis: 1773 m.
+- datos:
+  - 1773 m.
+- periodas:
+- subperiodiai:
+- date_start: 1773
+- date_end: 1773
 
 ## Reikšmė iš konteksto
 
-Šaltinyje `Edukacinė Komisija` reiškia bendrą Lietuvos ir Lenkijos švietimo organą, įsteigtą jėzuitų turto ir mokyklų perėmimui bei viso švietimo priežiūrai.
+bendra Lietuvos ir Lenkijos švietimo komisija, perėmusi jėzuitų mokyklas.
 
 ## Vartojimas
 
-Terminas vartojamas jėzuitų ordino panaikinimo ir naujos mokyklų sistemos kūrimo kontekste.
+Vartojimo sritis šaltinyje: švietimo administracija.
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Pagal vietinį šaltinio kontekstą terminas „Edukacinė Komisija“ reiškia: bendra Lietuvos ir Lenkijos švietimo komisija, perėmusi jėzuitų mokyklas."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Šaltinio kontekstas terminą „Edukacinė Komisija“ sieja su laikotarpiu arba data: 1773 m.."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Šaltinis nurodo Komisijos įsteigimo priežastį ir funkciją.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „Edukacinė Komisija“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Buvo nutarta visus jėzuitų turtus sunaudoti švietimo reikalams ir įsteigti vadinamąją Edukacinę Komisiją, kuri rūpintųsi mokyklomis. Ji tuojau turėjo perimti į savo žinią visas buvusias jėzuitų mokyklas ir jų turtų pajamas.
-  pagrindžia: Komisijos paskirtį.
-- santrauka: Komisija buvo bendra Lietuvai ir Lenkijai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    vadinamąją Edukacinę Komisiją, kuri rūpintųsi mokyklomis. Ji tuojau turėjo perimti į savo žinią visas buvusias
+    jėzuitų mokyklas ir jų turtų pajamas. Taip pat jai buvo pavesta
+
+    Jėzuitų akademijos antspaudas (XVIII amž.) ir rektoriaus valdžios ženklas.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+    - t-002
+- id: q-002
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „Edukacinė Komisija“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Taip pat jai buvo pavesta visų kitų mokyklų priežiūra. Komisija buvo įkurta bendra Lietuvai ir Lenkijai.
-  pagrindžia: Komisijos bendrą Lietuvos ir Lenkijos pobūdį.
+    Naujoji mokyklų sistema. Edukacinė Komisija perorganizavo visą mokyklų tinklą. Pirmiausia Lietuvoje ir Lenkijoje
+    buvo padaryta po vieną vyriausiąją mokyklą, kuriai priklausė
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+    - t-002
 
 ## Ryšiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
 ## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Naujoji mokyklų sistema. Edukacinė Komisija perorganizavo visą mokyklų tinklą. Pirmiausia Lietuvoje ir Lenkijoje buvo padaryta po vieną vyriausiąją mokyklą, kuriai priklausė visų kitų krašto mokyklų priežiūra.
-  pagrindžia: Komisijos veiklą mokyklų sistemoje.
 
 ## Pastabos

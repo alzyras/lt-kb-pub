@@ -1,81 +1,89 @@
 ---
 tipas: daiktas
-pavadinimas: "taurė"
-sukurta: "2026-04-16"
+pavadinimas: "Taurė"
+sukurta: "2026-04-17"
 variantai:
   - "taurių"
   - "taurės"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - buities-daiktas
-  - simbolis
-laikotarpis: "Augusto II laikai"
+  - "buities-daiktas"
+laikotarpis: ""
 datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
 vaidmenys:
-  - "iškilmių indas"
   - "šeimos brangenybė"
-dalyviai:
-  - "[[Augustas II]]"
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+  - "iškilmių indas"
+dalyviai: []
+susije_irasai: []
+patikimumas: ""
 ---
 # Taurė
 
 ## Santrauka
 
-Taurės šaltinyje minimos XVIII a. girtuokliavimo kulto aprašyme: didikai ir bajorija jas laikė šeimos brangenybėmis, ypač jei iš jų buvo gėręs karalius.
+Taurės šaltinyje minimos kaip su iškilmėmis susijusios didikų ir bajorijos šeimos brangenybės; taurės, iš kurių buvo gėręs karalius, laikytos ypatingomis šventenybėmis.
 
 ## Pavadinimai šaltiniuose
 
-- taurių
-- taurės
+- „taurių“
+- „taurės“
 
 ## Laikotarpis ir datos
 
-- laikotarpis: Augusto II laikai
+- laikotarpis:
 - datos:
+- periodas:
+- subperiodiai:
+- date_start:
+- date_end:
 
 ## Kas tai
 
-Tai iškilmėmis susijęs gėrimo indas, kuris šaltinyje įgauna šeimos brangenybės ir beveik šventenybės reikšmę.
+Iškilmių gėrimo indas ir šeimos brangenybė.
 
 ## Naudojimas
 
-- Taurės buvo susijusios su iškilmėmis.
-- Jei iš taurės buvo gėręs karalius, ji laikyta ypatinga šventenybe.
-- Kai kurie didikai turėjo specialų ceremonialą taurėms rodyti svečiams.
+Šaltinis sieja taures su iškilmėmis ir ypatinga pagarba, jei iš jų buvo gėręs karalius.
 
 ## Kontekstas
 
-- laikotarpis: Augusto II laikų bajorijos ir didikų papročių aprašymas.
-- susiję žmonės: [[Augustas II]]
+- laikotarpis:
+- susiję žmonės:
 - susiję įvykiai:
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Šaltinis nurodo, kad didikai ir bajorija šeimos brangenybių tarpe turėjo su įvairiomis iškilmėmis susijusių taurių, o karaliaus naudotos taurės laikytos ypatingomis šventenybėmis."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Šaltinis taurių kultą sieja su platesniu girtuokliavimo kultu.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Taurės apibūdinamos kaip iškilmių ir šeimos brangenybių objektai.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Dar patvirkusio girtuoklio karaliaus Augusto II laikais didikai, o nuo jų ir bajorija, išmoko tik puotauti ir girtauti. Iškilo girtuokliavimo kultas: didikai ir bajorija savo šeimos brangenybių tarpe turėjo su įvairiomis iškilmėmis susijusių taurių; jei iš jų kada nors buvo gėręs koks karalius, tai taurės buvo laikomos, kaip ypatingos šventenybės, pagarbioje vietoje.
-  pagrindžia: Taurių reikšmės socialinį kontekstą.
+    Iškilo girtuokliavimo kultas: didikai ir bajorija savo šeimos brangenybių tarpe turėjo
+    su įvairiomis iškilmėmis susijusių taurių; jei iš jų kada nors buvo
+    gėręs koks karalius, tai taurės buvo laikomos, kaip ypatingos šventenybės, pagarbioje vietoje.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-- asmuo: [[Augustas II]]
-
 ## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Iškilo girtuokliavimo kultas: didikai ir bajorija savo šeimos brangenybių tarpe turėjo su įvairiomis iškilmėmis susijusių taurių; jei iš jų kada nors buvo gėręs koks karalius, tai taurės buvo laikomos, kaip ypatingos šventenybės, pagarbioje vietoje. Kai kurie didikai tokių taurių parodymui svečiams buvo išgalvoję net specialų ceremonialą.
-  pagrindžia: Taurių statusą kaip šeimos brangenybių ir iškilmių indų.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Kai kurie didikai tokių taurių parodymui svečiams buvo išgalvoję net specialų ceremonialą.
-  pagrindžia: Taurių rodymo ceremonialą.
 
 ## Pastabos

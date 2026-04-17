@@ -1,59 +1,79 @@
 ---
 tipas: vieta
 pavadinimas: "Suvalkų kraštas"
-sukurta: "2026-04-16"
-variantai: 
+sukurta: "2026-04-17"
+variantai:
+  - "Suvalkų kraštas"
   - "Suvalkų krašte"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "kraštas / sritis"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # Suvalkų kraštas
 
 ## Santrauka
-
 Minimas kaip žemės lyguma ir pasienio erdvė.
 
 ## Pavadinimai šaltiniuose
-
 - Suvalkų kraštas
 - Suvalkų krašte
 
 ## Laikotarpis ir datos
-
 - laikotarpis: 
 - datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-
-Šaltinyje ši vieta įvardijama kaip kraštas / sritis.
+kraštas / sritis.
 
 ## Geografinis ir istorinis kontekstas
-
 - tipas: kraštas / sritis
 - regionas:
 - susiję žmonės:
 - susiję įvykiai:
 - susijusios grupės:
 
-## Reikšmingi paminėjimai
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje „Suvalkų kraštas“ minimas kaip kraštas / sritis: Minimas kaip žemės lyguma ir pasienio erdvė."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
-- santrauka: Šaltinis vietą „Suvalkų kraštas“ mini šiame kontekste: Minimas kaip žemės lyguma ir pasienio erdvė.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Minimas kaip žemės lyguma ir pasienio erdvė.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    O ir čia jų buvo ne kažin kiek, nes ir Lietuva daugely vietų buvo apaugusi didžiulėmis, mažai tegyvenamomis giriomis. Antai ištisa didžiulė giria buvo kryžiuočių pasienis, t. y. visas dabartinis Suvalkų kraštas, didesniosios Tauragės, Kretingos ir Telšių apskričių dalys. Antra tokia pat didžiulė giria buvo Livonijos pasienis (šiaurinė Lietuvos dalis). Be to, didžiulių girių buvo pilna ir visam krašte.
-  pagrindžia: Vietos „Suvalkų kraštas“ pavadinimą, tipą ir šaltinio kontekstą.
+    jotvingų gyvenamos pietinės sritys ir jų šiaurinė dalis. Dabartinėj mūsų Suvalkų krašto lygumoj, Mažojoj Lietuvoj ir didelėj
+    Prūsų daly buvo pilna nepereinamų pelkių ir girių. Gyventojų
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Šaltiniai ir įrodymai
+- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
 
 ## Pastabos

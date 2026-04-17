@@ -1,62 +1,82 @@
 ---
 tipas: vieta
 pavadinimas: "Varėna"
-sukurta: "2026-04-16"
-variantai: 
+sukurta: "2026-04-17"
+variantai:
+  - "Varėna"
   - "Varėnos"
   - "Varėnoj"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos: []
-laikotarpis: "1920 m.; tarpukaris"
-datos: 
-  - "1920 m."
-vaidmenys: []
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "miestas / stotis"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # Varėna
 
 ## Santrauka
-
 Varėna minima kaip geležinkelio ir karo veiksmų vieta.
 
 ## Pavadinimai šaltiniuose
-
 - Varėna
 - Varėnos
 - Varėnoj
 
 ## Laikotarpis ir datos
-
-- laikotarpis: 1920 m.; tarpukaris
-- datos: 1920 m.
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-
-Šaltinyje ši vieta įvardijama kaip miestas / stotis.
+miestas / stotis.
 
 ## Geografinis ir istorinis kontekstas
-
 - tipas: miestas / stotis
 - regionas:
 - susiję žmonės:
 - susiję įvykiai:
 - susijusios grupės:
 
-## Reikšmingi paminėjimai
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje „Varėna“ minimas kaip miestas / stotis: Varėna minima kaip geležinkelio ir karo veiksmų vieta."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
-- santrauka: Šaltinis vietą „Varėna“ mini šiame kontekste: Varėna minima kaip geležinkelio ir karo veiksmų vieta.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Varėna minima kaip geležinkelio ir karo veiksmų vieta.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną ir užėjo lietuviams iš kairiojo sparno, — mūsų kariuomenės būklė dar labiau pablogėjo: dalis mūsų kariuomenės buvo visai atkirsta nuo savųjų. Pagaliau ėjo kiti nepasisekimai: spalių mėn. 1—2 d. lenkai sumušė mūsų kariuomenės dalį netoli Lazdijų, spalių 3—4 d. užėmė Varėnos stotį, kur paėmė mūsų šarvuotą traukinį. Tuo būdu, užėmus Varėną, Suvalkų krašte sugrupuotai mūsų kariuomenei buvo atkirstas tiesioginis kelias į pavojuje atsidūrusį Vilnių.
-  pagrindžia: Vietos „Varėna“ pavadinimą, tipą ir šaltinio kontekstą.
+    nuo savųjų. Pagaliau ėjo kiti nepasisekimai: spalių mėn. 1—2 d.
+    lenkai sumušė mūsų kariuomenės dalį netoli Lazdijų, spalių 3—4
+    d. užėmė Varėnos stotį, kur paėmė mūsų šarvuotą traukinį.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Šaltiniai ir įrodymai
+- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
 
 ## Pastabos

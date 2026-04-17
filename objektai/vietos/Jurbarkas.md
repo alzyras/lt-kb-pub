@@ -1,61 +1,83 @@
 ---
 tipas: vieta
 pavadinimas: "Jurbarkas"
-sukurta: "2026-04-16"
-variantai: 
+sukurta: "2026-04-17"
+variantai:
+  - "Jurbarkas"
   - "Jurbarko"
   - "Jurbarką"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos: []
-laikotarpis: ""
-datos: []
-vaidmenys: []
+laikotarpis: "1259 m."
+datos:
+  - "1259 m."
+periodas: ""
+subperiodiai: []
+date_start: "1259"
+date_end: "1259"
+vaidmenys:
+  - "pilis / miestas"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # Jurbarkas
 
 ## Santrauka
-
 Jurbarkas minimas kaip ordino ir žemaičių pilių kovų punktas.
 
 ## Pavadinimai šaltiniuose
-
 - Jurbarkas
 - Jurbarko
 - Jurbarką
 
 ## Laikotarpis ir datos
-
-- laikotarpis: 
-- datos: 
+- laikotarpis: 1259 m.
+- datos: 1259 m.
+- periodas:
+- subperiodiai:
+- date_start: 1259
+- date_end: 1259
 
 ## Kas tai
-
-Šaltinyje ši vieta įvardijama kaip pilis / miestas.
+pilis / miestas.
 
 ## Geografinis ir istorinis kontekstas
-
 - tipas: pilis / miestas
 - regionas:
 - susiję žmonės:
 - susiję įvykiai:
 - susijusios grupės:
 
-## Reikšmingi paminėjimai
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje „Jurbarkas“ minimas kaip pilis / miestas: Jurbarkas minimas kaip ordino ir žemaičių pilių kovų punktas."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
-- santrauka: Šaltinis vietą „Jurbarkas“ mini šiame kontekste: Jurbarkas minimas kaip ordino ir žemaičių pilių kovų punktas.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Jurbarkas minimas kaip ordino ir žemaičių pilių kovų punktas.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Durbės mūšis (1260 m.) ir jo padariniai. Pasistatęs Klaipėdos pilį, Livonijos ordinas vėl ėmė pulti žemaičius. Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurios žemaičiai taip pat neįstengė išgriauti. Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Ordinas ketino suruošti į Žemaičius didelį žygį ir išgriauti Karšuvą.
-  pagrindžia: Vietos „Jurbarkas“ pavadinimą, tipą ir šaltinio kontekstą.
+    pėdos pilį, Livonijos ordinas vėl ėmė pulti žemaičius. Po ilgų
+    kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259
+    m.), kurios žemaičiai taip pat neįstengė išgriauti. Tada priešais
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Šaltiniai ir įrodymai
+- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
 
 ## Pastabos

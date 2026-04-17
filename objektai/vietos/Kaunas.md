@@ -1,68 +1,81 @@
 ---
 tipas: vieta
 pavadinimas: "Kaunas"
-sukurta: "2026-04-16"
-variantai: 
+sukurta: "2026-04-17"
+variantai:
+  - "Kaunas"
   - "Kauno"
   - "Kaune"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - kaunas
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "miestas"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # Kaunas
 
 ## Santrauka
-
 Kaunas svarbus kaip upių, archyvų, pilies ir vėlesnės politikos centras.
 
 ## Pavadinimai šaltiniuose
-
 - Kaunas
 - Kauno
 - Kaune
 
 ## Laikotarpis ir datos
-
 - laikotarpis: 
 - datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-
-Šaltinyje ši vieta įvardijama kaip miestas.
+miestas.
 
 ## Geografinis ir istorinis kontekstas
-
 - tipas: miestas
 - regionas:
 - susiję žmonės:
 - susiję įvykiai:
 - susijusios grupės:
 
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje „Kaunas“ minimas kaip miestas: Kaunas svarbus kaip upių, archyvų, pilies ir vėlesnės politikos centras."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
-
-- santrauka: Šaltinis vietą „Kaunas“ mini šiame kontekste: Kaunas svarbus kaip upių, archyvų, pilies ir vėlesnės politikos centras.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Kaunas svarbus kaip upių, archyvų, pilies ir vėlesnės politikos centras.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Bet ir jai susidarius, rytų Lietuvos vandens dar ilgai tekėjo senosiomis vagomis. Kai ledynas dar tebebuvo apklojęs Žemaičius, jo pakraštyje, apie Kauną, buvo daugybė susitelkusių vandenų. Iš čia, dabartine Nemuno vidurupio vaga, vanduo tekėjo priešingai šiandieninei Nemuno tėkmei — į pietus. Kita srovė tekėjo dabartine Neries vaga, irgi priešingai šiandieninei jos tėkmei, taigi— į rytus.
-  pagrindžia: Vietos „Kaunas“ pavadinimą, tipą ir šaltinio kontekstą.
-
-- santrauka: Papildomas šaltinio paminėjimas apie vietą „Kaunas“.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Pilies įgula buvo negausinga ir nepasiruošusi ilgam apgulimui. Jai trūko net maisto. Bet įgulos vadas, Kęstučio sūnus Vaidotas, atsilaikė net keletą savaičių. Kai jo karių teliko Kauno pilies griuvėsiai. tik 36, jis bandė prasimušti pro apgulusių kryžiuočių eiles, tačiau nepajėgė ir pakliuvo į nelaisvę. Sugriovę pilį, kryžiuočiai Kaune nepasiliko, ir lietuviai ten ėmė statyti kitą pilį, pavadintą Naujuoju Kaunu.
-  pagrindžia: Papildomą vietos „Kaunas“ vartoseną šaltinyje.
+    mis vagomis. Kai ledynas dar tebebuvo apklojęs Žemaičius, jo
+    pakraštyje, apie Kauną, buvo daugybė susitelkusių vandenų. Iš
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Šaltiniai ir įrodymai
+- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
 
 ## Pastabos

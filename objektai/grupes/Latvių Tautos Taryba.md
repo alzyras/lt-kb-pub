@@ -1,49 +1,81 @@
 ---
 tipas: grupe
 pavadinimas: "Latvių Tautos Taryba"
-sukurta: "2026-04-16"
-variantai: 
-  - "Tautos Taryba"
-aliases: 
-  - "Tautos Taryba"
+sukurta: "2026-04-17"
+variantai: []
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: 
+  - "taryba"
 dalyviai: []
 susije_irasai: []
-patikimumas: "Paremta šaltinio citatomis ir tiesioginiais paminėjimais."
+patikimumas: "vidutinis"
 ---
 # Latvių Tautos Taryba
 
 ## Santrauka
-Latvių Tautos Taryba yra taryba. Šaltinyje ši grupė apibūdinama taip: Latvijos politinė taryba, veikusi nepriklausomybės laikotarpiu.
+
+Latvijos politinė taryba, kuri rūpinosi sukurti nepriklausomą Latviją.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Latvių Tautos Taryba`
-- Variacijos arba alternatyvios formos: `Tautos Taryba`
+
+- „Latvių Tautos Taryba“
 
 ## Laikotarpis ir datos
 - laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip taryba.
+
+Šaltinyje aiškiai nurodomas grupės tipas: taryba.
 
 ## Sudėtis ir vaidmuo
 - tipas: taryba
-- vaidmuo: Latvijos politinė taryba, veikusi nepriklausomybės laikotarpiu.
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Latvių Tautos Taryba“ apibūdinama kaip Latvijos politinė taryba, kuri rūpinosi sukurti nepriklausomą Latviją."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Latvijos politinė taryba, siekusi nepriklausomos Latvijos.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Latvių Tautos Taryba pareiškė dėl to proLatvijos laisvės paminklas Rygoje. testą.
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+    Tuo tarpu vokiečių neužimtoje Latvijos dalyje su-
+    sidarė Tautos Taryba, kuri kartu su Petrapilio latvių pabėgėlių
+    komitetu ėmė rūpintis sukurti nepriklausomą Latviją.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos
-- Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

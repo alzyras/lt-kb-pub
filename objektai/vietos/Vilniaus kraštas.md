@@ -1,61 +1,80 @@
 ---
 tipas: vieta
 pavadinimas: "Vilniaus kraštas"
-sukurta: "2026-04-16"
-variantai: 
+sukurta: "2026-04-17"
+variantai:
+  - "Vilniaus kraštas"
   - "Vilniaus kraštą"
   - "Vilniaus krašte"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos: []
-laikotarpis: "XX a. pradžia; tarpukaris"
+laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "kraštas"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # Vilniaus kraštas
 
 ## Santrauka
-
-Vilniaus kraštas aprašomas kaip ginčo ir okupacijos teritorija. Vilniaus kraštas aptariamas kaip ginčo, okupacijos ir diplomatijos teritorija.
+Vilniaus kraštas aptariamas kaip ginčo, okupacijos ir diplomatijos teritorija.
 
 ## Pavadinimai šaltiniuose
-
 - Vilniaus kraštas
 - Vilniaus kraštą
 - Vilniaus krašte
 
 ## Laikotarpis ir datos
-
-- laikotarpis: XX a. pradžia; tarpukaris
+- laikotarpis: 
 - datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-
-Šaltinyje ši vieta įvardijama kaip kraštas.
+kraštas.
 
 ## Geografinis ir istorinis kontekstas
-
 - tipas: kraštas
 - regionas:
 - susiję žmonės:
 - susiję įvykiai:
 - susijusios grupės:
 
-## Reikšmingi paminėjimai
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje „Vilniaus kraštas“ minimas kaip kraštas: Vilniaus kraštas aptariamas kaip ginčo, okupacijos ir diplomatijos teritorija."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
-- santrauka: Šaltinis vietą „Vilniaus kraštas“ mini šiame kontekste: Vilniaus kraštas aprašomas kaip ginčo ir okupacijos teritorija. Vilniaus kraštas aptariamas kaip ginčo, okupacijos ir diplomatijos teritorija.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Vilniaus kraštas aptariamas kaip ginčo, okupacijos ir diplomatijos teritorija.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Bet, deja, iki šiol dar nepasisekė nė to pasiekti: šiandieninė Lietuva dar tebeturi sunkų teritorialinį uždavinį — atgauti visas lietuvių gyvenamąsias žemes. Tuo tarpu jai yra pasisekę atgauti tik Klaipėdos kraštą, tačiau Vilniaus kraštas dar tebėra lenkų užgrobtas. Taigi Lietuvai dar nepasisekė net sujungti visų lietuviškųjų žemių, buvusių didžiosios kunigaikštijos ribose.
-  pagrindžia: Vietos „Vilniaus kraštas“ pavadinimą, tipą ir šaltinio kontekstą.
+    žemes. Tuo tarpu jai yra pasisekę atgauti tik Klaipėdos kraštą, tačiau Vilniaus kraštas dar tebėra lenkų užgrobtas. Taigi Lietuvai
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Šaltiniai ir įrodymai
+- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
 
 ## Pastabos

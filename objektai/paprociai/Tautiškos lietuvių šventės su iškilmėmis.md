@@ -1,80 +1,77 @@
 ---
 tipas: paprotys
 pavadinimas: "Tautiškos lietuvių šventės su iškilmėmis"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
-  - "tautiškos lietuvių šventės"
+  - "tautiškos lietuvių šventės su iškilmėmis"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos:
   - šventė
+  - socialinė-praktika
 laikotarpis: "spaudos draudimo laikai"
-datos:
-  - "1894 m."
-vaidmenys:
-  - "lietuvių žadinimo ir Lietuvos skriaudų viešinimo priemonė"
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: []
 dalyviai:
   - "Amerikos lietuviai"
-susije_irasai:
-  - "[[Kražių skerdynės]]"
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: ""
 ---
 # Tautiškos lietuvių šventės su iškilmėmis
 
 ## Santrauka
 
-Šaltinis Amerikos lietuvių tautinio veikimo kontekste mini tautiškas lietuvių šventes su iškilmėmis, kurių tikslas buvo žadinti lietuvius ir parodyti Lietuvos skriaudas pasauliui.
+Amerikos lietuviai organizuodavo tautiškas lietuvių šventes su iškilmėmis, kurių tikslas buvo žadinti lietuvius ir parodyti Lietuvos skriaudas pasauliui.
 
 ## Laikotarpis ir datos
-- laikotarpis: spaudos draudimo laikai.
-- datos: 1894 m.
+- laikotarpis: spaudos draudimo laikai
+- datos:
+- periodas:
+- subperiodiai:
+- date_start:
+- date_end:
 
 ## Kas tai
 
-Tai Amerikos lietuvių rengtos tautinės šventės su iškilmėmis, susietos su politiniu Lietuvos skriaudų viešinimu.
+Viešos tautinės šventės Amerikos lietuvių veiklos kontekste.
 
 ## Atlikimas
-- kas atlieka: Amerikos lietuviai veikėjai ir lietuvių kolonijos.
-- kada atliekama: spaudos draudimo laikais; 1894 m. dėl Kražių skerdynių vyko protestai ir gedulingi minėjimai.
-- kaip atliekama: organizuojamos šventės su iškilmėmis, protestai ir gedulingi minėjimai.
+- kas atlieka: Amerikos lietuviai
+- kada atliekama: spaudos draudimo laikais, viešinant Lietuvos reikalus
+- kaip atliekama: organizuojamos tautiškos lietuvių šventės su iškilmėmis
 
 ## Paskirtis
 
-Šaltinis nurodo tikslą: žadinti pačius lietuvius ir parodyti Lietuvos skriaudas pasauliui.
+Žadinti lietuvius ir parodyti Lietuvos skriaudas pasauliui.
 
 ## Kontekstas
-- regionas: J. Amerikos Valstybės, lietuvių kolonijos.
-- laikotarpis: spaudos draudimo laikai.
-- susiję žodžiai: protestai, gedulingi minėjimai, Lietuvos skriaudos, priespauda.
+- regionas: Amerika
+- laikotarpis: spaudos draudimo laikai
+- susiję žodžiai:
 - susiję daiktai:
 
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinis nurodo, kad Amerikos lietuviai organizuodavo tautiškas lietuvių šventes su iškilmėmis, kurių tikslas buvo žadinti lietuvius ir parodyti Lietuvos skriaudas pasauliui."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
-
-- santrauka: Šaltinis šventes sieja su platesniu Amerikos lietuvių siekiu kitataučius supažindinti su lietuvių reikalais.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Tautiškos lietuvių šventės aprašytos kaip lietuvių žadinimo ir Lietuvos skriaudų viešinimo priemonė.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Trūkstant jėgų, tas sumanymas nebuvo įvykdytas, tačiau Amerikos lietuviai veikėjai stengėsi kitais būdais supažindinti kitataučius su lietuvių reikalais, būtent prieš Rusų „Lietuvos" antraštė.
-  pagrindžia: Praktikos politinio viešinimo kontekstą.
-
-## Ryšiai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-- įvykis: [[Kražių skerdynės]]
-
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    6. Tautiškasis judėjimas Lietuvoje ir J. Amerikos Valstybių lietuviai
-
-    Spaudos draudimo laikai.
-  pagrindžia: Laikotarpio ir Amerikos lietuvių kontekstą.
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Būdavo organizuojamos tautiškos lietuvių šventės su iškilmėmis, kurių tikslas buvo ne tik žadinti pačius lietuvius, bet ir parodyti Lietuvos skriaudas pasauliui. 1894 m. visose lietuvių kolonijose dėl Kražių skerdynių įvyko protestai, gedulingi jų minėjimai, ir viso to atgarsis pasiekė ne tik Amerikos, bet ir Europos tautų spaudą. Buvo išleista keletas net svetimtaučių parašytų knygučių, nušviečiančių sunkią Lietuvos priespaudą; jos buvo išsiuntinėtos visiems Rusijos ministeriams, senatoriams ir laikraščių redakcijoms.
-  pagrindžia: Švenčių pavadinimą, paskirtį, 1894 m. protestus ir minėjimus.
-
-## Pastabos
+    Būdavo organizuojamos tautiškos lietuvių šventės su iškilmėmis, kurių tikslas buvo ne tik žadinti pačius lietuvius, bet ir parodyti Lietuvos skriaudas pasauliui.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

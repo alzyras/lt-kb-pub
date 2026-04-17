@@ -1,75 +1,102 @@
 ---
 tipas: paprotys
 pavadinimas: "Ugnies kultas"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
-  - "gabijos gerbimas"
-  - "amžinosios ugnies kūrenimas"
-aliases: []
+  - "amžinoji ugnis"
+  - "šventoji namų ugnelė"
+  - "gabija"
+aliases:
+  - "Gabija"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos:
-  - tikėjimas
   - religinė-praktika
-laikotarpis: "senovės aisčių religijos kontekstas"
+  - tikėjimas
+laikotarpis: "senovės aisčių religija"
 datos: []
-vaidmenys:
-  - "ryšio su dievais priemonė"
-  - "aukų deginimo vieta"
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: []
 dalyviai:
   - "aisčiai"
-susije_irasai:
-  - "[[Aukuras]]"
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: ""
 ---
 # Ugnies kultas
 
 ## Santrauka
 
-Šaltinis ugnį apibūdina kaip reikšmingą aisčių religijos dalį: per ją žmonės susižinodavo su dievais, ugnyje degindavo aukas, kai kur kūrendavo amžinąją ugnį, o namų židinyje gerbė šventąją namų ugnelę, arba gabiją.
+Aisčių religijoje ugnis buvo laikoma dievybe ir bendravimo su dievais tarpininke; ji deginta aukoms, kai kur nuolat kūrenta kaip amžinoji ugnis, o namų židinyje gerbta kaip gabija.
 
 ## Laikotarpis ir datos
-- laikotarpis: senovės aisčių religijos kontekstas.
+- laikotarpis: senovės aisčių religija
 - datos:
+- periodas:
+- subperiodiai:
+- date_start:
+- date_end:
 
 ## Kas tai
 
-Tai ugnies gerbimo ir apeiginio naudojimo praktika aisčių religijoje.
+Religinė ugnies pagarba aisčių pasaulėžiūroje.
 
 ## Atlikimas
-- kas atlieka: aisčiai.
-- kada atliekama: kai kuriose vietose nuolat; namų židinyje bent žiemos metu.
-- kaip atliekama: ugnis kūrenama, per ją susižinoma su dievais, ugnyje deginamos aukos.
+- kas atlieka: aisčiai
+- kada atliekama: šventovėse ir namų židinyje; namų židinyje bent žiemos metu
+- kaip atliekama: ugnis kūrenama, per ją susižinoma su dievais ir deginamos aukos
 
 ## Paskirtis
 
-Šaltinis ugnį sieja su susižinojimu su dievais, dievų valios sužinojimu ir aukų deginimu.
+Per ugnį susižinoti su dievais, sužinoti jų valią ir aukoti dievams.
 
 ## Kontekstas
 - regionas:
-- laikotarpis: senovės aisčių religijos aptarimas.
-- susiję žodžiai: amžinoji ugnis, šventoji namų ugnelė, gabija, aukos.
-- susiję daiktai: [[Aukuras]].
+- laikotarpis: senovės aisčių religija
+- susiję žodžiai:
+- susiję daiktai:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje ugnis aisčių religijoje apibūdinta kaip dievybė ir tarpininkė, per kurią žmonės susižinodavo su dievais, sužinodavo jų valią ir degindavo aukas."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Šaltinis nurodo amžinąją ugnį kai kuriose vietose ir šventąją namų ugnelę, arba gabiją, kiekvienų namų židinyje."
+  pagrindžia:
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- santrauka: Šaltinis miškus ir medžius sieja su aukomis ir būrimu, o miškuose mini amžinąsias ugnis.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Ugnis aprašoma kaip dievybė ir aukojimo tarpininkė.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Ant medžių šakų aisčiai kabindavo įvairias aukas, iš medžių ošimo burdavo likimą. Miškuose dažniausiai būdavo kūrenamos ir amžinosios ugnys. Šventovės buvo po atviru dangum, jose kūrenosi amžinoji ugnis.
-  pagrindžia: Ugnies kulto ryšį su aukomis, miškais ir amžinosios ugnies kūrenimu.
-
-## Ryšiai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-- daiktas: [[Aukuras]]
-
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    Reikšmingą vietą aisčių religijoje turėjo ugnis. Ji buvo
+    ne tik dievybė — per ją žmonės susižinodavo su savo dievais, sužinodavo jų valią; ugnyje aisčiai degindavo ir dievams aukas.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Šaltinis mini amžinąją ugnį ir šventąją namų ugnelę, arba gabiją.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Reikšmingą vietą aisčių religijoje turėjo ugnis. Ji buvo ne tik dievybė — per ją žmonės susižinodavo su savo dievais, sužinodavo jų valią; ugnyje aisčiai degindavo ir dievams aukas. Kai kuriose vietose ji buvo nuolat kūrenama — tai amžinoji ugnis. Tokios vietos buvo savotiškos šventovės. Ugnis buvo gerbiama ne tik šventovėje, bet ir kiekvienų namų židiny, kur, bent žiemos metu, ji buvo nuolat kūrenama. Tai vadinamoji šventoji namų ugnelė, arba gabija. Dėl to ugnies kulto dar ir dabar pas mus ugnis tebelaikoma ypatingoj pagarboj (pav., kai kur laikoma net nuodėme užlieti ją kokiomis srutomis ar nešvarumais).
-  pagrindžia: Ugnies kulto reikšmę, veiksmus ir gabijos pavadinimą.
-
-## Pastabos
+    Kai kuriose vietose ji buvo nuolat kūrenama — tai amžinoji
+    ugnis. Tokios vietos buvo savotiškos šventovės. Ugnis buvo
+    gerbiama ne tik šventovėje, bet ir kiekvienų namų židiny, kur,
+    bent žiemos metu, ji buvo nuolat kūrenama. Tai vadinamoji
+    šventoji namų ugnelė, arba gabija.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002

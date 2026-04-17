@@ -1,70 +1,69 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "rokošas"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "rokošo"
-  - "rokošu"
-  - "rokošininkas"
-  - "rokošininkų"
-aliases:
-  - "rokošas"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - istorinė-sąvoka
-laikotarpis: "1606-1608 m. ir platesnis bajorijos konfederacijų kontekstas"
-datos:
-  - "1606-1608 m."
-  - "1609 m."
-vaidmenys: []
+  - "istorinė-sąvoka"
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "žodyno terminas"
+  - "ankstyvųjų naujųjų laikų politinė kova"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Reikšmė aiškinama tik iš Zebžidovskio rokošo aprašymo."
+susije_irasai: []
+patikimumas: ""
 ---
 # rokošas
 
+## Santrauka
+
+Terminas „rokošas“ šiame šaltinyje vartojamas reikšme: prieš karalių nukreipta bajorijos konfederacija.
+
 ## Žodis ir formos
 
-- Kanoninė forma: `rokošas`
-- Šaltinio formos: `rokošas`, `rokošo`, `rokošu`, `rokošininkas`, `rokošininkų`
-
-## Laikotarpis ir datos
-
-- laikotarpis: 1606-1608 m. ir platesnis bajorijos konfederacijų kontekstas
-- datos: 1606-1608 m.; 1609 m.
+- Pagrindinė forma: „rokošas“.
+- Šaltinyje rasta forma: „rokošas“.
+- Šaltinyje rasta forma: „rokošo“.
 
 ## Reikšmė iš konteksto
 
-Šaltinyje `rokošas` reiškia ginkluotą bajorijos susibūrimą arba konfederaciją, nukreiptą prieš karalių.
+prieš karalių nukreipta bajorijos konfederacija.
 
 ## Vartojimas
 
-Terminas vartojamas aprašant 1606-1608 m. maištą prieš Zigmantą Vazą.
+Vartojimo sritis šaltinyje: ankstyvųjų naujųjų laikų politinė kova.
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Pagal vietinį šaltinio kontekstą terminas „rokošas“ reiškia prieš karalių nukreiptą bajorijos susibūrimą arba konfederaciją."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Šaltinis aprašo Zebžidovskio vadovaujamą maištą ir jo politines priežastis.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „rokošas“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Maišto vadu buvo Krokuvos vaivada Zebžidovskis. Iš lietuvių prie jo prisidėjo Jonušas Radvila (Kristupo Perkūno sūnus). Šis buvo karštas kalvinas; jausdamasis karaliaus dėl tikėjimo skriaudžiamas, jis norėjo jam atkeršyti.
-  pagrindžia: Konkretų rokošo pavyzdį.
-- santrauka: Šaltinis pateikia tiesioginį rokošo apibrėžimą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Jei toks susibūrimas, arba konfederacija, būdavo nukreiptas prieš karalių, tai jis būdavo vadinamas rokošu. Šitas maištas nuo vado vardo yra vadinamas Zebžidovskio rokošu.
-  pagrindžia: Termino reikšmę.
-
-## Ryšiai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Maištas užtruko per 2 metus (1606—1608). Lenkijoje virė nuolatinis vidaus karas. Lietuvoje buvo ramiau, tik maištininkas J. Radvila su savo kariuomene nuolat vykdavo į Lenkiją.
-  pagrindžia: Rokošo laiko ribas ir pobūdį.
-
-## Pastabos
+    Jei toks
+    susibūrimas, arba konfederacija, būdavo nukreiptas prieš karalių,
+    tai jis būdavo vadinamas _rokošu._ Šitas maištas nuo vado vardo
+    yra vadinamas Zebžidovskio rokošu.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

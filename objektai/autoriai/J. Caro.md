@@ -1,49 +1,75 @@
 ---
 tipas: autorius
 pavadinimas: "J. Caro"
-sukurta: "2026-04-16"
-variantai: []
-aliases:
+sukurta: "2026-04-17"
+variantai:
   - "J. Caro"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - autorius
-laikotarpis: "1840-1869 m."
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: "1840-1869 m. bibliografijos kontekstas"
 datos:
-  - "1840 m."
-  - "1869 m."
+  - "1840-1869 m."
+periodas: ""
+subperiodiai: []
+date_start: "1840"
+date_end: "1869"
 vaidmenys:
   - autorius
-  - istorikas
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Bibliografija tiesiogiai nurodo J. Caro veikalą."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # J. Caro
 
 ## Santrauka
-J. Caro šiame šaltinyje minimas kaip Lenkijos istorijos autorius.
+
+J. Caro bibliografijoje minimas kaip Lenkijos istorijos veikalo autorius.
 
 ## Laikotarpis ir datos
-- laikotarpis: 1840-1869 m.
-- datos: 1840 m.; 1869 m.
+- laikotarpis: 1840-1869 m. bibliografijos kontekstas
+- datos: 1840-1869 m.
+- periodas:
+- subperiodiai:
+- date_start: 1840
+- date_end: 1869
 
 ## Darbai
-- `Geschichte Polens`.
+
+- „Geschichte Polens“.
 
 ## Kontekstas
-Šaltinyje J. Caro darbas pateiktas tarp kaimyninių tautų istorijų.
+
+Autorius minimas prie kaimyninių tautų istorijų.
+
+## Teiginiai
+- id: t-001
+  teiginys: "Bibliografijoje J. Caro pateikiamas kaip veikalo „Geschichte Polens“ autorius."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Bibliografija nurodo J. Caro Lenkijos istorijos tomus.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Bibliografijoje J. Caro siejamas su Lenkijos istorijos veikalu.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Be to, daug medžiagos galima rasti kaimynių tautų istorijose: M. Bobrzyński, Dzieje Polski w zarysie, I—II (1880, 1881); J. Szujski, Dzieje Polski I—IV (1894, II laida); J. Caro, Geschichte Polens, II—VI (1840—1869); Historya polityczna Polsk, I, II (1920, 1923, Encykloped.
-  pagrindžia: Autoriaus ir veikalo ryšį.
+    _J. Caro,_ Geschichte Polens, II—VI (1840—1869)
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su veikalu."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia bibliografinį autoriaus paminėjimą.
 
 ## Pastabos

@@ -1,66 +1,90 @@
 ---
 tipas: asmuo
 pavadinimas: "Zigmantas Augustas"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "Zigmanto Augusto"
-aliases:
-  - "Zigmantas Augustas"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - valdovas
-laikotarpis: "XVI a."
-datos:
-  - "1544 m."
-  - "1572 m."
+  - "kunigaikštis"
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
 vaidmenys:
-  - didysis Lietuvos kunigaikštis
+  - "kunigaikštis"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis Zigmantą Augustą tiesiogiai vadina didžiuoju Lietuvos kunigaikščiu ir pateikia kelis jo veiklos kontekstus."
+susije_irasai: []
+patikimumas: "aukstas"
 ---
 # Zigmantas Augustas
 
 ## Santrauka
-Zigmantas Augustas šiame šaltinyje pristatomas kaip didysis Lietuvos kunigaikštis, susijęs su Vilniaus dvaru, Barboros Radvilaitės vedybomis ir XVI a. politiniais sprendimais.
+
+Šaltinyje nurodoma, kad Zigmantas Augustas buvo gana išmintingas, bet svyruoklis, minkštas, nepaslankus, nedarbštus ir dėl atidėliojimo pramintas „Rytdiena“.
 
 ## Variantai
+
 - Zigmanto Augusto
 
 ## Laikotarpis ir datos
-- laikotarpis: XVI a.
-- datos: 1544 m.; 1572 m.
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Vaidmenys
-- didysis Lietuvos kunigaikštis
+
+- kunigaikštis
 
 ## Savybės
-- išvaizda:
 - būdas / charakteris:
-  - santrauka: Šaltinis Zigmantą Augustą apibūdina kaip išmintingą, bet svyruojantį.
-    šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-    citata: |
-      Apskritai Zigmantas Augustas buvo gana išmintingas, tačiau svyruoklis, minkštas, nepaslankus, nedarbštus, viską atidėliojąs kitai dienai ir dėl to pramintas „Rytdiena".
-    pagrindžia: Zigmanto Augusto būdo apibūdinimą.
-- elgesys:
-- reputacija:
-- gebėjimai:
+  - santrauka: Šaltinyje nurodoma, kad Zigmantas Augustas buvo gana išmintingas, bet svyruoklis, minkštas, nepaslankus, nedarbštus ir dėl atidėliojimo pramintas „Rytdiena“.
+    šaltiniai:
+      - [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje nurodoma, kad Zigmantas Augustas buvo gana išmintingas, bet svyruoklis, minkštas, nepaslankus, nedarbštus ir dėl atidėliojimo pramintas „Rytdiena“."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
-- santrauka: Šaltinis Zigmantą Augustą įvardija didžiuoju Lietuvos kunigaikščiu.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Citata pagrindžia šaltinyje pateiktą asmens apibūdinimą.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    9. Zigmantas Augustas — didysis Lietuvos kunigaikštis
-  pagrindžia: Zigmanto Augusto valdovo vaidmenį.
+    Apskritai Zigmantas Augustas buvo gana išmintingas, tačiau svy-
+    ruoklis, minkštas, nepaslankus, nedarbštus, viską atidėliojąs kitai
+    dienai ir dėl to pramintas „Rytdiena".
+  priskyrimo_pagrindas: needs_review
+  teiginio_tipas: vertinimas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
 ## Šaltiniai ir įrodymai
-- Pagrindiniai įrodymai pateikti skiltyse „Savybės“ ir „Reikšmingi paminėjimai“.
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos

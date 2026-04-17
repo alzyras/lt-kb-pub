@@ -1,48 +1,76 @@
 ---
 tipas: autorius
 pavadinimas: "J. Jaroszewicz"
-sukurta: "2026-04-16"
-variantai: []
-aliases:
+sukurta: "2026-04-17"
+variantai:
   - "J. Jaroszewicz"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - autorius
-laikotarpis: "1844 m."
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: "1844 m. bibliografijos kontekstas"
 datos:
   - "1844 m."
+periodas: ""
+subperiodiai: []
+date_start: "1844"
+date_end: "1844"
 vaidmenys:
   - autorius
-  - tyrėjas
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Bibliografija tiesiogiai nurodo J. Jaroszewicz veikalą."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # J. Jaroszewicz
 
 ## Santrauka
-J. Jaroszewicz šiame šaltinyje minimas kaip Lietuvos istorijos ir civilizacijos veikalų autorius.
+
+J. Jaroszewicz bibliografijoje minimas kaip veikalo apie Lietuvos civilizaciją autorius.
 
 ## Laikotarpis ir datos
-- laikotarpis: 1844 m.
+- laikotarpis: 1844 m. bibliografijos kontekstas
 - datos: 1844 m.
+- periodas:
+- subperiodiai:
+- date_start: 1844
+- date_end: 1844
 
 ## Darbai
-- `Obraz Litwy pod względem jej cywilizacyi`.
+
+- „Obraz Litwy pod względem jej cywilizacyi“.
 
 ## Kontekstas
-Autorius pateiktas bendrųjų Lietuvos istorijos veikalų bibliografijoje.
+
+Autorius minimas bendrųjų veikalų bibliografiniame sąraše.
+
+## Teiginiai
+- id: t-001
+  teiginys: "Bibliografijoje J. Jaroszewicz pateikiamas kaip veikalo „Obraz Litwy pod względem jej cywilizacyi“ autorius."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Bibliografijoje nurodomas J. Jaroszewicz trijų tomų veikalas apie Lietuvą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Bibliografijoje J. Jaroszewicz siejamas su veikalu apie Lietuvos civilizaciją.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Litewskiego za Jagiellonów, I, 1377—1499 (1930); J. Jaroszewicz, Obraz Litwy pod względem jej cywilizacyi, I—III (1844) ; T. N ar but t, Dzieje št. narodu Litewskiego, I—IX (1835—1841); A. Janulaitis, Lietuvos visuomenės ir teisės istorija (1916; parašyta sekant Št.
-  pagrindžia: Autoriaus ir veikalo ryšį.
+    _J. Jaroszewicz,_ Obraz Litwy pod względem jej
+    cywilizacyi, I—III (1844)
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su veikalu."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia bibliografinį autoriaus paminėjimą.
 
 ## Pastabos

@@ -1,68 +1,83 @@
 ---
 tipas: posakis
 pavadinimas: "Niekas negalėjo mūsų dovanoti, nes mes esame laisvi žmonės"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "laisvus ir garbingus žmones"
-aliases:
-  - "Niekas negalėjo mūsų dovanoti, nes mes esame laisvi žmonės"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - frazė
-laikotarpis: "1569 m."
-datos:
-  - "1569 m."
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+zymos: []
+laikotarpis: "Liublino seimas"
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
 vaidmenys:
-  - "Liublino seimo poleminė frazė"
+  - "politinės polemikos frazė"
 dalyviai:
-  - "[[Liublino seimas]]"
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-  - "[[Liublino seimas]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+  - "Mikalojus Radvila Rudasis"
+  - "Jonas Jeronimas Katkevičius"
+  - "Lietuvos atstovai"
+susije_irasai: []
+patikimumas: ""
 ---
 # Niekas negalėjo mūsų dovanoti, nes mes esame laisvi žmonės
 
+## Santrauka
+
+„Niekas negalėjo mūsų dovanoti, nes mes esame laisvi žmonės“ šaltinyje pateikta kaip griežtas Radvilos atsakas į lenkų teiginį, kad Lietuva esanti Jogailos dovana Lenkijos karūnai.
+
 ## Forma
 
-Niekas negalėjo mūsų dovanoti, nes mes esame laisvi žmonės.
+- „Niekas negalėjo mūsų dovanoti, nes mes esame laisvi žmonės“
 
 ## Variantai
 
-- laisvus ir garbingus žmones
+- „laisvus ir garbingus žmones“
 
 ## Laikotarpis ir datos
 
-- laikotarpis: 1569 m.
-- datos: 1569 m.
+- laikotarpis: Liublino seimas
+- datos:
+- periodas:
+- subperiodiai:
+- date_start:
+- date_end:
 
 ## Kontekstas ir vartojimas
 
-Šaltinis frazę pateikia Liublino seimo derybose, ginčijantis dėl teiginio, kad Lietuva buvusi Jogailos dovana Lenkijos karūnai.
+Frazė šaltinyje vartojama Liublino seimo ginče dėl Lietuvos ir Lenkijos santykio.
 
 ## Reikšmė
 
-Frazė reiškia Lietuvos bajorijos laisvės ir politinio nedovanojamumo argumentą.
+Lietuvos atstovų laisvės ir nepavaldumo argumentas: Lietuva ir jos žmonės nelaikomi kieno nors dovana.
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Šaltinyje frazė „Niekas negalėjo mūsų dovanoti, nes mes esame laisvi žmonės“ priskiriama Radvilai kaip atsakas į teiginį, kad Lietuvą Lenkijos karūnai dovanojęs Jogaila."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Prieš šią frazę Katkevičius ironiškai atkirto į tą patį dovanojimo argumentą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Liublino seimo ginče Radvila atmeta Lietuvos kaip dovanos Lenkijai sampratą.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Tada Katkevičius ironiškai atkirto: „Jei mes jums dovanoti, tai kam jums dar derėtis dėl unijos?"
-  pagrindžia: Poleminį frazės kontekstą.
-
-## Ryšiai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-- grupė: [[Liublino seimas]]
-
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    O Radvila dar griežčiau pareiškė: „Niekas negalėjo mūsų dovanoti, nes mes esame laisvi žmonės... Ponams lenkams Lietuva dovanodavo šunų skalikų, žirgelių žemaitukų, bet ne mus, laisvus ir garbingus žmones. Tad kiekvieną, kurs norėtų mane pavergti, aš laikyčiau tironu, o ne savo viešpačiu".
-  pagrindžia: Frazės formą, reikšmę ir vartojimą Liublino seimo polemikoje.
-
-## Pastabos
+    Padnievskis pareiškė, kad Lietuvą Lenkijos karūnai dovanojęs Jogaila, ir ji buvusi atskirai valdoma tik iš lenkų karalių malonės; ji
+    buvusi duodama didiesiems kunigaikščiams tik iki gyvos jų galvos.
+    Tada Katkevičius ironiškai atkirto: „Jei mes jums dovanoti, tai
+    kam jums dar derėtis dėl unijos?" O Radvila dar griežčiau pareiškė: „Niekas negalėjo mūsų dovanoti, nes mes esame laisvi žmonės...
+    Ponams lenkams Lietuva dovanodavo šunų skalikų, žirgelių žemaitukų, bet ne mus, laisvus ir garbingus žmones. Tad kiekvieną, kurs
+    norėtų mane pavergti, aš laikyčiau tironu, o ne savo viešpačiu".
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

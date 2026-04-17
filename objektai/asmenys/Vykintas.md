@@ -1,62 +1,84 @@
 ---
 tipas: asmuo
 pavadinimas: "Vykintas"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "Vykinto"
-aliases:
-  - "Vykintas"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - kunigaikštis
-laikotarpis: "XIII a."
-datos:
-  - "XIII a."
+  - "kunigaikštis"
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
 vaidmenys:
-  - žemaičių kunigaikštis
-  - Mindaugo bendradarbis
+  - "kunigaikštis"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis tiesiogiai įvardija Vykintą Mindaugo bendradarbiu ir žemaičių kunigaikščiu."
+susije_irasai: []
+patikimumas: "aukstas"
 ---
 # Vykintas
 
 ## Santrauka
-Vykintas šiame šaltinyje minimas kaip Mindaugo bendradarbis ir žemaičių kunigaikštis.
+
+Šaltinyje nurodoma, kad kunigaikštis Vykintas netrukus ties Tverais buvo nu-.
 
 ## Variantai
+
 - Vykinto
 
 ## Laikotarpis ir datos
-- laikotarpis: XIII a.
-- datos: XIII a.
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Vaidmenys
-- žemaičių kunigaikštis
-- Mindaugo bendradarbis
+
+- kunigaikštis
 
 ## Savybės
-- išvaizda:
-- būdas / charakteris:
-- elgesys:
-- reputacija:
-- gebėjimai:
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje nurodoma, kad kunigaikštis Vykintas netrukus ties Tverais buvo nu-."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
-- santrauka: Vykintas įvardytas Mindaugo bendradarbiu ir žemaičių kunigaikščiu.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Citata pagrindžia asmens pareigas arba vaidmenį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Mindaugo bendradarbis, žemaičių kunigaikštis Vykintas.
-  pagrindžia: Vykinto tapatybę ir vaidmenį.
+    Kunigaikštis Vykintas netrukus ties Tverais buvo nu-
+    galėtas; jis pats žuvo mūšyje, o Tautvilas su Erdvilu pabėgo.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
 ## Šaltiniai ir įrodymai
-- Pagrindinis įrodymas pateiktas skiltyje „Reikšmingi paminėjimai“.
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos

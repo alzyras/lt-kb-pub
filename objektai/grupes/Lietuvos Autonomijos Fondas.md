@@ -1,46 +1,81 @@
 ---
 tipas: grupe
 pavadinimas: "Lietuvos Autonomijos Fondas"
-sukurta: "2026-04-16"
-variantai: []
-aliases: []
+sukurta: "2026-04-17"
+variantai: 
+  - "Lietuvos Autonomijos Fondas"
+aliases: 
+  - "Lietuvos Autonomijos Fondas"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: 
+  - "fondas"
 dalyviai: []
 susije_irasai: []
-patikimumas: "Paremta šaltinio citatomis ir tiesioginiais paminėjimais."
+patikimumas: "vidutinis"
 ---
 # Lietuvos Autonomijos Fondas
 
 ## Santrauka
-Lietuvos Autonomijos Fondas yra fondas. Šaltinyje ši grupė apibūdinama taip: Katalikų sukurtas fondas, rinkęs aukas autonomijai ir karo nukentėjusiems.
+
+Katalikų sukurtas fondas, rinkęs aukas autonomijai ir karo nukentėjusiems.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Lietuvos Autonomijos Fondas`
+
+- „Lietuvos Autonomijos Fondas“
 
 ## Laikotarpis ir datos
 - laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip fondas.
+
+Šaltinyje aiškiai nurodomas grupės tipas: fondas.
 
 ## Sudėtis ir vaidmuo
 - tipas: fondas
-- vaidmuo: Katalikų sukurtas fondas, rinkęs aukas autonomijai ir karo nukentėjusiems.
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Lietuvos Autonomijos Fondas“ apibūdinama taip: Katalikų sukurtas fondas, rinkęs aukas autonomijai ir karo nukentėjusiems."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Katalikų sukurtas fondas, rinkęs aukas autonomijai ir karo nukentėjusiems.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Nuo tautininkų atsiskyrę katalikai įkūrė Lietuvos Autonomijos Fondą
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+    Nuo tautininkų atsiskyrę katalikai įkūrė Lietuvos Autonomijos Fondą, kuris surinko apie 75.000 dolerių.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos
-- Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

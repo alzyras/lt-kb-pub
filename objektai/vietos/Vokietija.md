@@ -1,61 +1,82 @@
 ---
 tipas: vieta
 pavadinimas: "Vokietija"
-sukurta: "2026-04-16"
-variantai: 
+sukurta: "2026-04-17"
+variantai:
+  - "Vokietija"
   - "Vokietijos"
   - "Vokietijoje"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos: []
-laikotarpis: ""
-datos: []
-vaidmenys: []
+laikotarpis: "1928 m."
+datos:
+  - "1928 m."
+periodas: ""
+subperiodiai: []
+date_start: "1928"
+date_end: "1928"
+vaidmenys:
+  - "valstybė"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # Vokietija
 
 ## Santrauka
-
 Vokietija minima kaip ordino, Prūsijos ir Klaipėdos klausimų centras.
 
 ## Pavadinimai šaltiniuose
-
 - Vokietija
 - Vokietijos
 - Vokietijoje
 
 ## Laikotarpis ir datos
-
-- laikotarpis: 
-- datos: 
+- laikotarpis: 1928 m.
+- datos: 1928 m.
+- periodas:
+- subperiodiai:
+- date_start: 1928
+- date_end: 1928
 
 ## Kas tai
-
-Šaltinyje ši vieta įvardijama kaip valstybė.
+valstybė.
 
 ## Geografinis ir istorinis kontekstas
-
 - tipas: valstybė
 - regionas:
 - susiję žmonės:
 - susiję įvykiai:
 - susijusios grupės:
 
-## Reikšmingi paminėjimai
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje „Vokietija“ minimas kaip valstybė: Vokietija minima kaip ordino, Prūsijos ir Klaipėdos klausimų centras."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
-- santrauka: Šaltinis vietą „Vokietija“ mini šiame kontekste: Vokietija minima kaip ordino, Prūsijos ir Klaipėdos klausimų centras.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Vokietija minima kaip ordino, Prūsijos ir Klaipėdos klausimų centras.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Čia, be to, dar nemažai prisidėjo Vokietija, kuri, tam tikrą laiką būdama Tautų Sąjungos narys, ne kartą skundė Tautų Sąjungai Lietuvos vyriausybę už tariamą konvencijos nesilaikymą; tuo tarpu ta pati Vokietija visokiais slaptais būdais kišosi į Klaipėdos vidaus administracijos reikalus ir kiršino gyventojus prieš visą eilę konvencijos nuostatų. Dėl tos priežasties Klaipėdoje maža tėra ramumo ir darnaus sugyvenimo. Vokietija, svajodama vėl užgrobti Klaipėdos kraštą, tam neturi jokio juridinio pagrindo, nes, pasirašydama Versalio sutartį, ji sutiko su Klaipėdos krašto atskyrimu, o 1928 m. darydama sienų sutartį su Lietuva, niekieno neverčiama Klaipėdos kraštą pripažino Lietuvai.
-  pagrindžia: Vietos „Vokietija“ pavadinimą, tipą ir šaltinio kontekstą.
+    Vokietija, svajodama vėl užgrobti Klaipėdos kraštą, tam neturi jokio juridinio pagrindo, nes, pasirašydama Versalio sutartį, ji sutiko su Klaipėdos krašto atskyrimu, o 1928 m. darydama sienų sutartį su Lietuva, niekieno neverčiama Klaipėdos
+    kraštą pripažino Lietuvai.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Šaltiniai ir įrodymai
+- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
 
 ## Pastabos

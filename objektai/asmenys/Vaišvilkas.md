@@ -1,65 +1,79 @@
 ---
 tipas: asmuo
 pavadinimas: "Vaišvilkas"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "Vaišvilko"
-aliases:
-  - "Vaišvilkas"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - valdovas
-laikotarpis: "1265-1268 m."
-datos:
-  - "1265-1268 m."
-vaidmenys:
-  - Lietuvos valdovas
-  - Mindaugo sūnus
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: []
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis aiškiai sieja Vaišvilką su Mindaugu ir pateikia jo valdymo laikotarpį."
+susije_irasai: []
+patikimumas: "aukstas"
 ---
 # Vaišvilkas
 
 ## Santrauka
-Vaišvilkas šiame šaltinyje minimas kaip Mindaugo sūnus ir 1265-1268 m. Lietuvos valdovas.
+
+Šaltinyje nurodoma, kad pagaliau po taikos su Voluine Vaišvilkas išvyko į Graikiją.
 
 ## Variantai
+
 - Vaišvilko
 
 ## Laikotarpis ir datos
-- laikotarpis: 1265-1268 m.
-- datos: 1265-1268 m.
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Vaidmenys
-- Lietuvos valdovas
-- Mindaugo sūnus
 
 ## Savybės
-- išvaizda:
-- būdas / charakteris:
-- elgesys:
-- reputacija:
-- gebėjimai:
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje nurodoma, kad pagaliau po taikos su Voluine Vaišvilkas išvyko į Graikiją."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
-- santrauka: Po taikos su Voluine Vaišvilkas išvyko į Graikiją.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Citata pagrindžia asmens ryšį arba giminystės kontekstą.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
     Pagaliau po taikos su Voluine Vaišvilkas išvyko į Graikiją
-  pagrindžia: Vaišvilko veiksmą ir aiškų asmens įvardijimą Mindaugo aplinkoje.
-
-- santrauka: Šaltinis Vaišvilką išskiria kaip valdovą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Vaišvilkas (1265—1268 m.).
-  pagrindžia: Vaišvilko valdymo laikotarpį.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos

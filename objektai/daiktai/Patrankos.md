@@ -1,104 +1,126 @@
 ---
 tipas: daiktas
-pavadinimas: "patrankos"
-sukurta: "2026-04-16"
+pavadinimas: "Patrankos"
+sukurta: "2026-04-17"
 variantai:
-  - "patranka"
-  - "patrankomis"
+  - "patrankas"
   - "patrankų"
-aliases: []
+  - "patrankomis"
+aliases:
+  - "patranka"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - ginklas
-  - karo-reikmuo
-laikotarpis: "Kęstučio laikai; XVI–XVII a.; 1919–1920 m."
-datos:
-  - "1605 m."
-  - "1625 m."
-  - "1919–1920 m."
+  - "ginklas"
+laikotarpis: "Kęstučio laikai"
+datos: []
+periodas: "viduramziai"
+subperiodiai: []
+date_start: ""
+date_end: ""
 vaidmenys:
-  - "artilerijos ginklas"
-dalyviai:
-  - "[[Kęstutis]]"
-  - "[[Steponas Batoras]]"
-susije_irasai:
-  - "[[Karai su Švedais dėl Livonijos]]"
-  - "[[Kovos su rusais bolševikais ir taika su jais]]"
-  - "[[Vilniaus atgavimas, Suvalkų sutartis ir gen. Želigovskio smurtas]]"
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+  - "artilerija"
+  - "apgulos ginklas"
+dalyviai: []
+susije_irasai: []
+patikimumas: ""
 ---
 # Patrankos
 
 ## Santrauka
 
-Patrankos šaltinyje aprašomos kaip perimtas vakarietiškas karo ginklas, vartotas pilims griauti, lietas Vilniuje ir minimas vėlesnių karų grobio bei kariuomenės sudėties kontekstuose.
+Patrankos šaltinyje pristatomos kaip iš Vakarų perimta karo technika, kurią kryžiuočiai pirmą kartą pavartojo prieš lietuvius Kęstučio laikais, o netrukus turėjo ir pats Kęstutis. Kituose paminėjimuose jos siejamos su didžiųjų žygių logistika ir karo grobiu.
 
 ## Pavadinimai šaltiniuose
 
-- patrankos
-- patrankomis
-- patrankų
+- „patrankas“
+- „patrankų“
+- „patrankomis“
 
 ## Laikotarpis ir datos
 
-- laikotarpis: Kęstučio laikai; XVI–XVII a.; 1919–1920 m.
-- datos: 1605 m.; 1625 m.; 1919–1920 m.
+- laikotarpis: Kęstučio laikai
+- datos:
+- periodas: viduramžiai
+- subperiodiai:
+- date_start:
+- date_end:
 
 ## Kas tai
 
-Tai artilerijos ginklas, šaltinyje siejamas su pilių griovimu, liejyklomis, karo grobiu ir modernios kariuomenės ginkluote.
+Artilerijos ir apgulos ginklas.
 
 ## Naudojimas
 
-- Kęstučio laikais patrankomis buvo griaunamos priešų pilys.
-- Stepono Batoro karo rengimo metu Vilniuje buvo įsteigta patrankų liejykla.
-- 1605 m. Salaspilio mūšyje patrankos minimos kaip Katkevičiui tekęs grobis.
-- 1919–1920 m. patrankos minimos Lietuvos kariuomenės ir karo grobio apskaitoje.
+Šaltinis nurodo, kad patrankomis buvo griaunamos pilys.
 
 ## Kontekstas
 
-- laikotarpis: nuo kovų su ordinu iki nepriklausomybės kovų.
-- susiję žmonės: [[Kęstutis]], [[Steponas Batoras]]
-- susiję įvykiai: [[Karai su Švedais dėl Livonijos]], [[Kovos su rusais bolševikais ir taika su jais]], [[Vilniaus atgavimas, Suvalkų sutartis ir gen. Želigovskio smurtas]]
+- laikotarpis: Kęstučio laikai
+- susiję žmonės:
+- susiję įvykiai:
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Šaltinis nurodo, kad kryžiuočiai patrankas pirmą kartą pavartojo prieš lietuvius Kęstučio laikais, o nepraėjus nė metams patrankų jau turėjo ir Kęstutis."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Šaltinis nurodo, kad didesnieji žygiai, kai buvo gabenamos patrankos ir pilių griaunamieji pabūklai, paprastai buvo atliekami upėmis."
+  pagrindžia:
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-003
+  teiginys: "Šaltinyje patrankos minimos kaip karo grobis: Katkevičiui teko 20 patrankų."
+  pagrindžia:
+    - q-003
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Šaltinis mini Nesvyžiaus Radvilų liejykloje nulietą XVII a. patranką kaip iliustracijos objektą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Aprašomas patrankų perėmimas ir naudojimas pilims griauti.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    XVII amž. patrankos Gustavo Adolfo parodoje Stokholme 1932 m. Pirmoji (gražiausioji) yra nulieta Nesvyžiaus Radvilų liejykloje 1602 m. Ant jos yra Radvilų herbas ir atitinkamas užrašas. Švedai išvežė ją iš Biržų 1625 m.
-  pagrindžia: Patrankų gamybos ir karo grobio kontekstą XVII a.
+    Pavyzdžiui, Vakaruose išradus patrankas, kryžiuočiai jas pirmą kartą pavartojo prieš lietuvius
+    Kęstučio laikais; nepraėjo nė metų, patrankų jau turėjo ir
+    Kęstutis, kurs, atsilygindamas kryžiuočiams, taip pat patrankomis griovė jų pilis.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Patrankos minimos didžiųjų karo žygių logistikoje.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata: |
+    Strateginiu atžvilgiu ši vieta buvo labai svarbi. Didesnieji žygiai, kai būdavo gabenamos patrankos ir pilių griaunamieji pabūklai, paprastai būdavo atliekami upėmis.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- id: q-003
+  santrauka: Patrankos minimos kaip Katkevičiaus gautas karo grobis.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata: |
+    Katkevičiui teko 60 vėliavų, 20 patrankų ir keli tūkstančiai karių.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-- asmuo: [[Kęstutis]]
-- asmuo: [[Steponas Batoras]]
-- įvykis: [[Karai su Švedais dėl Livonijos]]
-
 ## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Pavyzdžiui, Vakaruose išradus patrankas, kryžiuočiai jas pirmą kartą pavartojo prieš lietuvius Kęstučio laikais; nepraėjo nė metų, patrankų jau turėjo ir Kęstutis, kurs, atsilygindamas kryžiuočiams, taip pat patrankomis griovė jų pilis. Savo kraštui ginti lietuviai statėsi pilis (žiūr.
-  pagrindžia: Patrankų perėmimą ir naudojimą pilims griauti Kęstučio laikais.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),
-  pagrindžia: Patrankų gamybos infrastruktūrą Vilniuje Stepono Batoro karo rengimo metu.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Katkevičiui teko 60 vėliavų, 20 patrankų ir keli tūkstančiai karių.
-  pagrindžia: Patrankas kaip Salaspilio mūšio karo grobį.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Nuo 1919 m. gegužės mėn. vidurio prasidėjo planingesnės mūsų kariuomenės operacijos, tačiau mūsų jėgos tada dar nebuvo didesnės, kaip 5—6 tūkstančiai durtuvų, 10 patrankų ir 200 kardų (raitelių).
-  pagrindžia: Patrankas kaip Lietuvos kariuomenės ginkluotės dalį 1919 m.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Širvintų buvo paimti lenkų brigados ir pulko štabai, su viršum 200 belaisvių, 2 patrankos, 9 minosvydžiai, 20 kulkosvydžių ir kt. Antras toks pats laimėjimas buvo lapkričio 21d. prie Giedraičių.
-  pagrindžia: Patrankas kaip 1920 m. karo grobį prie Širvintų.
 
 ## Pastabos

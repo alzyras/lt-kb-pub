@@ -1,46 +1,81 @@
 ---
 tipas: grupe
 pavadinimas: "Lietuvos Atstatymo Bendrovė"
-sukurta: "2026-04-16"
-variantai: []
-aliases: []
+sukurta: "2026-04-17"
+variantai: 
+  - "Lietuvos Atstatymo Bendrovė"
+aliases: 
+  - "Lietuvos Atstatymo Bendrovė"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: 
+  - "bendrovė"
 dalyviai: []
 susije_irasai: []
-patikimumas: "Paremta šaltinio citatomis ir tiesioginiais paminėjimais."
+patikimumas: "vidutinis"
 ---
 # Lietuvos Atstatymo Bendrovė
 
 ## Santrauka
-Lietuvos Atstatymo Bendrovė yra bendrovė. Šaltinyje ši grupė apibūdinama taip: Amerikos lietuvių bendrovė, mėginusi organizuoti į Lietuvą perkeltinas ūkio įmones.
+
+Amerikos lietuvių bendrovė, mėginusi organizuoti į Lietuvą perkeltinas ūkio įmones.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Lietuvos Atstatymo Bendrovė`
+
+- „Lietuvos Atstatymo Bendrovė“
 
 ## Laikotarpis ir datos
 - laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip bendrovė.
+
+Šaltinyje aiškiai nurodomas grupės tipas: bendrovė.
 
 ## Sudėtis ir vaidmuo
 - tipas: bendrovė
-- vaidmuo: Amerikos lietuvių bendrovė, mėginusi organizuoti į Lietuvą perkeltinas ūkio įmones.
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Lietuvos Atstatymo Bendrovė“ apibūdinama taip: Amerikos lietuvių bendrovė, mėginusi organizuoti į Lietuvą perkeltinas ūkio įmones."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Amerikos lietuvių bendrovė, mėginusi organizuoti į Lietuvą perkeltinas ūkio įmones.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Jis įsteigė Lietuvos Atstatymo Bendrovę
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+    Jis įsteigė Lietuvos Atstatymo Bendrovę; ta bendrovė ėmėsi organizuoti įvairių šakų bendroves, kurios po karo turėjo persikelti į Lietuvą.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos
-- Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

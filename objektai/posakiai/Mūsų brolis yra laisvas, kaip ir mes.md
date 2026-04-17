@@ -1,57 +1,79 @@
 ---
 tipas: posakis
 pavadinimas: "Mūsų brolis yra laisvas, kaip ir mes"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai: []
-aliases:
-  - "Mūsų brolis yra laisvas, kaip ir mes"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - frazė
-laikotarpis: "Vytauto karūnavimosi klausimo kontekstas"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+zymos: []
+laikotarpis: "Vytauto karūnavimosi byla"
 datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
 vaidmenys:
-  - "Jogailos atsakymo frazė"
+  - "valdovo atsakymas"
 dalyviai:
-  - "[[Jogaila]]"
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-  - "[[Jogaila]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+  - "Jogaila"
+  - "Vytautas"
+  - "Lietuvos bajorai"
+susije_irasai: []
+patikimumas: ""
 ---
 # Mūsų brolis yra laisvas, kaip ir mes
 
+## Santrauka
+
+„Mūsų brolis yra laisvas, kaip ir mes“ šaltinyje pateikta kaip Jogailos atsakymo pradžia, kai jo klausta, ar jis laiko Vytautą ir Lietuvos bajorus laisvais.
+
 ## Forma
 
-Mūsų brolis yra laisvas, kaip ir mes.
+- „Mūsų brolis yra laisvas, kaip ir mes“
 
 ## Variantai
 
+- Nėra užfiksuotų variantų.
+
 ## Laikotarpis ir datos
 
-- laikotarpis: Vytauto karūnavimosi klausimo kontekstas
+- laikotarpis: Vytauto karūnavimosi byla
 - datos:
+- periodas:
+- subperiodiai:
+- date_start:
+- date_end:
 
 ## Kontekstas ir vartojimas
 
-Šaltinis frazę priskiria Jogailos atsakymui, kai Vytautas per delegaciją klausė, ar Jogaila laiko jį ir Lietuvos bajorus laisvais.
+Šaltinyje frazė vartojama Jogailos pasiaiškinime dėl Vytauto ir Lietuvos bajorų laisvės.
 
 ## Reikšmė
 
-Frazė reiškia Vytauto, Lietuvos kunigaikščių ir bajorų laisvės bei lygybės pripažinimą Jogailos atsakyme.
+Vytautas, Lietuvos kunigaikščiai ir bajorai laikomi laisvais ir lygiais su Lenkijos ponais.
 
-## Ryšiai
+## Teiginiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-- asmuo: [[Jogaila]]
-- asmuo: [[Vytautas]]
+- id: t-001
+  teiginys: "Šaltinyje frazė „Mūsų brolis yra laisvas, kaip ir mes“ priskiriama Jogailai kaip atsakymas, kad Vytautas, Lietuvos kunigaikščiai ir bajorai laikomi laisvais ir lygiais su Lenkijos ponais."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
-## Šaltiniai ir įrodymai
+## Reikšmingi paminėjimai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Jogailos atsakymas apie Vytauto ir Lietuvos bajorų laisvę.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laikąs jį ir Lietuvos bajorus laisvais ar nelaisvais. Jogaila atsakė labai nuolaidžiai: „Mūsų brolis yra laisvas, kaip ir mes, ir mes jo nelaikome kitokiu, kaip tik mūsų broliu. Taip pat ir Lietuvos kunigaikščius bei bajorus laikome laisvais, kaip ir mūsų (t. y. Lenkijos) ponus, ir lygiais su jais" ...
-  pagrindžia: Frazės formą, kalbėtoją, vartojimo situaciją ir reikšmę.
-
-## Pastabos
+    Jogaila atsakė labai nuolaidžiai: „Mūsų brolis yra laisvas, kaip ir mes, ir mes jo nelaikome kitokiu, kaip tik mūsų
+    broliu. Taip pat ir Lietuvos kunigaikščius bei bajorus laikome
+    laisvais, kaip ir mūsų (t. y. Lenkijos) ponus, ir lygiais su jais" ...
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

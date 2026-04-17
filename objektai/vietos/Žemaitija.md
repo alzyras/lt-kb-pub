@@ -1,62 +1,83 @@
 ---
 tipas: vieta
 pavadinimas: "Žemaitija"
-sukurta: "2026-04-16"
-variantai: 
+sukurta: "2026-04-17"
+variantai:
+  - "Žemaitija"
   - "Žemaitijos"
   - "Žemaičių"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - žemaitija
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "kraštas / sritis"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # Žemaitija
 
 ## Santrauka
-
 Žemaitija tekste veikia kaip atskiras politinis ir karo regionas.
 
 ## Pavadinimai šaltiniuose
-
 - Žemaitija
 - Žemaitijos
 - Žemaičių
 
 ## Laikotarpis ir datos
-
 - laikotarpis: 
 - datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-
-Šaltinyje ši vieta įvardijama kaip kraštas / sritis.
+kraštas / sritis.
 
 ## Geografinis ir istorinis kontekstas
-
 - tipas: kraštas / sritis
 - regionas:
 - susiję žmonės:
 - susiję įvykiai:
 - susijusios grupės:
 
-## Reikšmingi paminėjimai
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje „Žemaitija“ minimas kaip kraštas / sritis: Žemaitija tekste veikia kaip atskiras politinis ir karo regionas."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
-- santrauka: Šaltinis vietą „Žemaitija“ mini šiame kontekste: Žemaitija tekste veikia kaip atskiras politinis ir karo regionas.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Žemaitija tekste veikia kaip atskiras politinis ir karo regionas.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Dabartinėj mūsų Suvalkų krašto lygumoj, Mažojoj Lietuvoj ir didelėj Prūsų daly buvo pilna nepereinamų pelkių ir girių. Gyventojų čia buvo palyginti reta. Jie gyveno tik sausesnėse girių aikštėse. Geriau buvo įsikurti aukštesnėse Žemaitijos ir Aukštaitijos lygumose, todėl čia gyventojų buvo tirščiau. Didžiulės, giriomis apaugusios pelkės skyrė aukštaičius nuo Padauguvio giminių.
-  pagrindžia: Vietos „Žemaitija“ pavadinimą, tipą ir šaltinio kontekstą.
+    tėse. Geriau buvo įsikurti aukštesnėse Žemaitijos ir Aukštaitijos
+    lygumose, todėl čia gyventojų buvo tirščiau. Didžiulės, gi-
+    riomis apaugusios pelkės skyrė aukštaičius nuo Padauguvio
+    giminių. Rytuose nuo gudų juos skyrė didžiulės sausos girios.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Šaltiniai ir įrodymai
+- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
 
 ## Pastabos

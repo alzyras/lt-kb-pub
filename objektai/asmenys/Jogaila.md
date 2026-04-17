@@ -1,67 +1,81 @@
 ---
 tipas: asmuo
 pavadinimas: "Jogaila"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "Jogailos"
   - "Jono Jogailos"
-aliases:
-  - "Jogaila"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - valdovas
-laikotarpis: "XIV-XV a."
-datos:
-  - "1380 m."
-vaidmenys:
-  - Lietuvos valdovas
-  - Lenkijos karalius
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: []
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis Jogailą sieja su Algirdo įpėdinyste ir Lenkijos karaliaus vaidmeniu."
+susije_irasai: []
+patikimumas: "aukstas"
 ---
 # Jogaila
 
 ## Santrauka
-Jogaila šiame šaltinyje pristatomas kaip Algirdo įpėdinis, Lietuvos valdovas ir vėlesnis Lenkijos karalius.
+
+Šaltinyje nurodoma, kad Jogaila pradėjo valdyti, kaip teisėtas tėvo.
 
 ## Variantai
+
 - Jogailos
 - Jono Jogailos
 
 ## Laikotarpis ir datos
-- laikotarpis: XIV-XV a.
-- datos: 1380 m.
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Vaidmenys
-- Lietuvos valdovas
-- Lenkijos karalius
 
 ## Savybės
-- išvaizda:
-- būdas / charakteris:
-- elgesys:
-- reputacija:
-- gebėjimai:
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
-## Reikšmingi paminėjimai
-- santrauka: Šaltinis Jogailą pristato kaip Algirdo įpėdinį.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    1. Algirdo įpėdinis Jogaila ir jo politika
-  pagrindžia: Jogailos įpėdinio vaidmenį.
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje nurodoma, kad Jogaila pradėjo valdyti, kaip teisėtas tėvo."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
-- santrauka: Jogaila pradėjo valdyti kaip teisėtas tėvo įpėdinis.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Citata pagrindžia asmens pareigas arba vaidmenį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Jogaila ir Kęstutis. Jogaila pradėjo valdyti, kaip teisėtas tėvo įpėdinis.
-  pagrindžia: Jogailos valdžios perėmimą.
+    Jogaila pradėjo valdyti, kaip teisėtas tėvo
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos

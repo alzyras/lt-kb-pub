@@ -1,65 +1,89 @@
 ---
 tipas: asmuo
 pavadinimas: "Kazimieras"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "Kazimiero"
-aliases:
-  - "Kazimieras"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - valdovas
-laikotarpis: "1440-1492 m."
-datos:
-  - "1440-1492 m."
+  - "kunigaikštis"
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
 vaidmenys:
-  - Lietuvos didysis kunigaikštis
+  - "didysis kunigaikštis"
+  - "kunigaikštis"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis Kazimierą pateikia atskiro laikotarpio antraštėje su datomis ir tiesiogiai apibūdina jo asmenį."
+susije_irasai: []
+patikimumas: "aukstas"
 ---
 # Kazimieras
 
 ## Santrauka
-Kazimieras šiame šaltinyje pristatomas kaip 1440-1492 m. Lietuvos valdovas pereinamuoju laikotarpiu.
+
+Šaltinyje nurodoma, kad Kazimieras buvo santūrus ir kieto būdo žmogus.
 
 ## Variantai
+
 - Kazimiero
 
 ## Laikotarpis ir datos
-- laikotarpis: 1440-1492 m.
-- datos: 1440-1492 m.
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Vaidmenys
-- Lietuvos didysis kunigaikštis
+
+- didysis kunigaikštis
+- kunigaikštis
 
 ## Savybės
-- išvaizda:
 - būdas / charakteris:
-  - santrauka: Šaltinis Kazimierą apibūdina kaip santūrų ir kieto būdo žmogų.
-    šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-    citata: |
-      Asmuo. Kazimieras buvo santūrus ir kieto būdo žmogus.
-    pagrindžia: Kazimiero būdo apibūdinimą.
-- elgesys:
-- reputacija:
-- gebėjimai:
+  - santrauka: Šaltinyje nurodoma, kad Kazimieras buvo santūrus ir kieto būdo žmogus.
+    šaltiniai:
+      - [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje nurodoma, kad Kazimieras buvo santūrus ir kieto būdo žmogus."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
-- santrauka: Turinys Kazimiero laikus apibrėžia kaip pereinamąjį laikotarpį.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Citata pagrindžia šaltinyje pateiktą asmens apibūdinimą.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis
-  pagrindžia: Kazimiero valdymo datas ir laikotarpį.
+    Kazimieras buvo santūrus ir kieto būdo žmogus.
+  teiginio_tipas: vertinimas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
 ## Šaltiniai ir įrodymai
-- Pagrindiniai įrodymai pateikti skiltyse „Savybės“ ir „Reikšmingi paminėjimai“.
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos

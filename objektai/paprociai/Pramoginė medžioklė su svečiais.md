@@ -1,78 +1,89 @@
 ---
 tipas: paprotys
 pavadinimas: "Pramoginė medžioklė su svečiais"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
-  - "iškilmingi ordino žygiai su svečiais"
+  - "pramoginė medžioklė"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos:
+  - karyba
   - socialinė-praktika
 laikotarpis: "Algirdo ir Kęstučio laikai"
 datos: []
-vaidmenys:
-  - "Vakarų riterių pramoginio dalyvavimo karo žygiuose forma"
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: []
 dalyviai:
-  - "kryžiuočiai"
-  - "iš Vakarų atvykę svečiai"
-susije_irasai:
-  - "[[Kardas]]"
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis karo žygius vadina tarsi pramogine medžiokle; įrašas fiksuoja šią šaltinio formuluotę, o ne savarankišką institucijos pavadinimą."
+  - "ordino svečiai"
+  - "Europos riteriai"
+susije_irasai: []
+patikimumas: ""
 ---
 # Pramoginė medžioklė su svečiais
 
 ## Santrauka
 
-Šaltinis Algirdo ir Kęstučio kovų su vokiečių ordinu skyriuje nereguliarius ordino žygius, rengiamus atvykus Vakarų svečiams, apibūdina kaip tarsi pramoginę medžioklę, atliekamą iškilmingai su puotomis ir riterių kėlimu.
+Ordino nereguliarūs žygiai į Lietuvą, rengiami atvykus Vakarų svečiams, šaltinyje apibūdinti kaip pramoginė medžioklė su iškilmėmis, puotomis ir riterių kėlimu.
 
 ## Laikotarpis ir datos
-- laikotarpis: Algirdo ir Kęstučio laikai.
+- laikotarpis: Algirdo ir Kęstučio laikai
 - datos:
+- periodas:
+- subperiodiai:
+- date_start:
+- date_end:
 
 ## Kas tai
 
-Tai šaltinyje aprašyta iškilminga karo žygių su svečiais praktika, kurioje žygiai į Lietuvą pristatomi kaip pramogos Vakarų riteriams.
+Karo žygių ir riteriškų pramogų derinys ordino kovų su Lietuva kontekste.
 
 ## Atlikimas
-- kas atlieka: ordinas, kryžiuočiai ir iš Vakarų atvykę svečiai.
-- kada atliekama: kai iš Vakarų atvykdavo svečių.
-- kaip atliekama: rengiamas žygis į Lietuvą, saugiose vietose ruošiamos puotos, kai kurie svečiai keliami į riterius.
+- kas atlieka: ordinas ir iš Vakarų atvykę svečiai
+- kada atliekama: kai iš Vakarų atvykdavo svečių
+- kaip atliekama: žygiai atliekami iškilmingai, rengiamos puotos, kai kurie svečiai keliami į riterius
 
 ## Paskirtis
 
-Šaltinis nurodo, kad Europos riteriai buvo kviečiami kaip į pramogas kariauti su lietuviais.
+Šaltinyje žygiai apibūdinti kaip pramogos, į kurias Europos riteriai buvo kviečiami kariauti su lietuviais.
 
 ## Kontekstas
-- regionas: ordino žygiai į Lietuvą.
-- laikotarpis: Algirdo ir Kęstučio kovos su vokiečių ordinu.
-- susiję žodžiai: ordinas, riteriai, puotos, žygiai.
-- susiję daiktai: [[Kardas]].
+- regionas:
+- laikotarpis: Algirdo ir Kęstučio laikai
+- susiję žodžiai:
+- susiję daiktai:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinis nurodo, kad nereguliarūs ordino žygiai dažniausiai būdavo rengiami tada, kai iš Vakarų atvykdavo svečių, ir tuomet būdavo tarsi pramoginė medžioklė."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Šaltinis nurodo, kad tokie žygiai buvo atliekami iškilmingai: svečių garbei rengiamos puotos, o kai kurie svečiai keliami į riterius."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- santrauka: Šaltinis nurodo, kad ordinas kasmet rengdavo bent du reguliarius žygius ir daugybę kitų.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Ordino žygiai su svečiais apibūdinami kaip pramoginė medžioklė su puotomis ir riterystės ceremonialu.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Ordinas gebėjo kasmet suruošti į Lietuvą ne mažiau, kaip du žygius: vienas paprastai būdavo sausio ar vasario mėnesį, o antras — vasaros gale, dažniausiai rugpiūčio mėnesį. Mat, pirmu atveju buvo naudojamasi patogiu keliu, užšalus vandenims, o antru atveju buvo naudojamasi vasaros sausra.
-  pagrindžia: Reguliarių žygių, nuo kurių skiriami svečių žygiai, kontekstą.
-
-## Ryšiai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-- daiktas: [[Kardas]]
-
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    2. Kovos su vokiečių ordinu Algirdo ir Kęstučio laikais
-  pagrindžia: Laikotarpio kontekstą.
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Šitie nereguliarūs žygiai dažniausiai būdavo ruošiami tada, kai iš Vakarų atvykdavo svečių. Tokie žygiai tuomet būdavo tarsi pramoginė medžioklė. Jie būdavo iškilmingai atliekami: saugiose vietose svečių garbei būdavo ruošiamos puotos, kai kurie svečiai būdavo keliami į riterius ir t.t. Žodžiu, to meto Europos riteriai buvo kviečiami, lyg į kokias pramogas, kariauti su lietuviais.
-  pagrindžia: Praktikos dalyvius, laiką, iškilmingą atlikimą ir šaltinio formuluotę.
-
-## Pastabos
+    Šitie nereguliarūs žygiai dažniausiai būdavo
+    ruošiami tada, kai iš Vakarų atvykdavo svečių. Tokie žygiai
+    tuomet būdavo tarsi pramoginė medžioklė. Jie būdavo iškilmingai
+    atliekami: saugiose vietose svečių garbei būdavo ruošiamos puotos,
+    kai kurie svečiai būdavo keliami į riterius ir t.t.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+    - t-002

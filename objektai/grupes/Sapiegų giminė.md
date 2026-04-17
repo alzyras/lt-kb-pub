@@ -1,45 +1,100 @@
 ---
 tipas: grupe
 pavadinimas: "Sapiegų giminė"
-sukurta: "2026-04-16"
-variantai:
+sukurta: "2026-04-17"
+variantai: 
   - "Sapiegos"
-aliases:
+aliases: 
   - "Sapiegos"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: 
+  - "giminė"
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "vidutinis"
 ---
 # Sapiegų giminė
 
 ## Santrauka
-Sapiegų giminė yra didikų giminė. Šaltinyje ši grupė apibūdinama kaip didikų giminė, kuri XVII a. pabaigoje valdė Lietuvos politiką.
+
+Didikų giminė, kuri XVII a. pabaigoje valdė Lietuvos politiką.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Sapiegų giminė`
-- Variacijos arba alternatyvios formos: `Sapiegos`
+
+- „Sapiegų giminė“
+- „Sapiegos“
+
+## Laikotarpis ir datos
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip giminė.
+
+Šaltinyje aiškiai nurodomas grupės tipas: giminė.
 
 ## Sudėtis ir vaidmuo
 - tipas: giminė
-- vaidmuo: didikų giminė, kuri XVII a. pabaigoje valdė Lietuvos politiką
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Sapiegų giminė“ apibūdinama taip: Didikų giminė, kuri XVII a. pabaigoje valdė Lietuvos politiką."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Didikų giminė, kuri XVII a. pabaigoje valdė Lietuvos politiką.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
     Tačiau Sapiegų galia jau buvo sunaikinta; jų dvarai buvo sunykę, apiplėšti ir praskolinti.
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-- santrauka: Papildomas tiesioginis paminėjimas iš to paties šaltinio.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Šaltinio ištrauka pagrindžia grupės „Sapiegų giminė“ paminėjimą arba vaidmenį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Po trejų metų Sapiegos buvo visiškai nugalėti.
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+    monas — išvesti iš bažnytinių dvarų kariuomenę. Daugiau konfliktų tarp hetmono ir vyskupo nebebuvo, ir vėlesnėse bajorijos kovose su Sapiegomis vyskupas jau nebedalyvavo; jis
+    net stengėsi sutaikinti kovojančius. Deja, bajorija jau buvo
+    sukelta, ir Sapiegų priešai, vedami Oginskio, kaip tik stengėsi
+    pasinaudoti prieš juos tarpuvaldžiu. Nors ir nelengva buvo
+    sunaikinti Sapiegų galybę, tačiau bajorijai pradėjo sektis. Po
+    trejų metų Sapiegos buvo visiškai nugalėti.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
+- q-002 pagrindžia t-001.
+
+## Pastabos

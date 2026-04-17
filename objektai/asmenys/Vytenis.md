@@ -1,60 +1,79 @@
 ---
 tipas: asmuo
 pavadinimas: "Vytenis"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "Vytenio"
-aliases:
-  - "Vytenis"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - valdovas
-laikotarpis: "1295-1316 m."
-datos:
-  - "1295-1316 m."
-vaidmenys:
-  - Lietuvos valdovas
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: []
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Identitetą pagrindžia šaltinio skyriaus antraštė, kurioje pateiktas vardas ir valdymo datos."
+susije_irasai: []
+patikimumas: "aukstas"
 ---
 # Vytenis
 
 ## Santrauka
-Vytenis šiame šaltinyje pristatomas kaip 1295-1316 m. Lietuvos valdovas ir Gedimino pirmtakas.
+
+Vytenis šiame šaltinyje minimas kaip Gedimino pirmtakas ir vienas iš ankstyvųjų Lietuvos valdovų.
 
 ## Variantai
+
 - Vytenio
 
 ## Laikotarpis ir datos
-- laikotarpis: 1295-1316 m.
-- datos: 1295-1316 m.
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Vaidmenys
-- Lietuvos valdovas
 
 ## Savybės
-- išvaizda:
-- būdas / charakteris:
-- elgesys:
-- reputacija:
-- gebėjimai:
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
+## Teiginiai
+- id: t-001
+  teiginys: "Vytenis šiame šaltinyje minimas kaip Gedimino pirmtakas ir vienas iš ankstyvųjų Lietuvos valdovų."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
-- santrauka: Šaltinis Vytenį išskiria kaip atskirą Lietuvos valdovą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Citata pagrindžia asmens pareigas arba vaidmenį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    3. Vytenis (1295-1316 m.)
-  pagrindžia: Vytenio vardą ir valdymo laikotarpį.
+    Kaip Vytenis, taip ir jis palaikė sąjungą su Rygos
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
 ## Šaltiniai ir įrodymai
-- Pagrindinis įrodymas pateiktas skiltyje „Reikšmingi paminėjimai“.
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos

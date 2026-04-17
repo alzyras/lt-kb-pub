@@ -1,84 +1,108 @@
 ---
 tipas: daiktas
-pavadinimas: "kardas"
-sukurta: "2026-04-16"
+pavadinimas: "Kardas"
+sukurta: "2026-04-17"
 variantai:
+  - "kardas"
   - "kardą"
   - "kardais"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - ginklas
-  - karo-reikmuo
-  - simbolis
-laikotarpis: "XIII–XIV a.; XVIII a."
+  - "ginklas"
+laikotarpis: "XIII a. ir vėlesni laikai"
 datos: []
+periodas: "viduramziai"
+subperiodiai: []
+date_start: ""
+date_end: ""
 vaidmenys:
-  - "raitelio pagrindinis ginklas"
-  - "bajoriškasis ženklas"
+  - "raitelio ginklas"
+  - "bajoriškas ženklas"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: ""
 ---
 # Kardas
 
 ## Santrauka
 
-Šaltinyje kardas minimas kaip pagrindinis raitelio ginklas, o vėlesniame bajorijos seimelių kontekste - kaip bajoriškasis ženklas ir smurto įrankis.
+Kardas šaltinyje įvardijamas kaip pagrindinis raitelio ginklas; kitur jis pasirodo kaip bajoriškas ženklas ir kovos ar iššūkio objektas.
 
 ## Pavadinimai šaltiniuose
 
-- kardas
-- kardą
-- kardais
+- „kardas“
+- „kardą“
+- „kardais“
 
 ## Laikotarpis ir datos
 
-- laikotarpis: XIII–XIV a.; XVIII a.
+- laikotarpis: XIII a. ir vėlesni laikai
 - datos:
+- periodas: viduramžiai
+- subperiodiai:
+- date_start:
+- date_end:
 
 ## Kas tai
 
-Kardas šaltinyje yra raitelio ginkluotės dalis. XVIII a. seimelių aprašyme jis taip pat veikia kaip bajoro statuso ženklas.
+Ginklas, šaltinyje pirmiausia siejamas su raitelių karyba.
 
 ## Naudojimas
 
-- Karyboje kardas įvardijamas kaip pagrindinis raitelio ginklas.
-- Seimeliuose kardas galėjo būti vartojamas muštynėms ir politinei prievartai.
+Šaltinis nurodo kardą kaip pagrindinį raitelio ginklą.
 
 ## Kontekstas
 
-- laikotarpis: kovų su ordinu ir vėlesnės bajoriškos seimelių kultūros kontekstai.
+- laikotarpis: senovės lietuvių kariškosios kultūros aprašymas
 - susiję žmonės:
 - susiję įvykiai:
 
+## Teiginiai
+
+- id: t-001
+  teiginys: "Šaltinis nurodo, kad pagrindinis raitelio ginklas buvo kardas."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Tanenbergo mūšio pasakojime šaltinis mini magistro Vytautui ir Jogailai nusiųstus du plikus kardus kaip raginimą nesislapstyti krūmuose."
+  pagrindžia:
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 
-- santrauka: Šaltinis kardo neapriboja vien karu: seimelių aprašyme jis tampa bajoriškuoju ženklu ir smurto priemone.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Kardas įvardijamas kaip pagrindinis raitelio ginklas.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Į seimelius tokių plikbajorių atsigabendavo visi didikai, ir todėl seimeliai buvo nuolatinių muštynių vieta. Seimelio vaizdai, aprašyti daugelio ano meto žmonių, tiesiog šiurpūs. Kiekvienas didikas ir stipresnis bajoras nusiųsdavo į okolicas vežimų ir atgabendavo keletą dešimčių ar keletą šimtų plikbajorių. Jiems iš anksto būdavo pažadama po kokį auksiną ar du ir, be to, duodamas visiškas išlaikymas seimelio metu.
-  pagrindžia: Seimelių socialinį kontekstą, kuriame kardas minimas kaip bajorų turėtas ženklas ir muštynių įrankis.
+    Pagrindinis raitelio ginklas buvo kardas, galvai ir krūtinei pridengti —
+    geležiniai šarvai.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Du kardai minimi kaip magistro siųstas iššūkis Vytautui ir Jogailai.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata: |
+    Magistras nusiuntė Vytautui ir
+    Jogailai du plikus kardus, ragindamas nesislapstyti krūmuose.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
 ## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Į karo žygius lietuviai jodavo raiti ir dideliais būriais. Jų ginklai buvo panašūs į visos Europos karių ginklus. Pagrindinis raitelio ginklas buvo kardas, galvai ir krūtinei pridengti — geležiniai šarvai. Arkliai buvo balnojami tokiais pat balnais ir taip pat žabojami, kaip ir Vakaruose.
-  pagrindžia: Kardą kaip pagrindinį raitelio ginklą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių, nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo vartoti savo pono ar to, kuris gerai užmokėdavo, nuomonei paremti. Į seimelius tokių plikbajorių atsigabendavo visi didikai, ir todėl seimeliai buvo nuolatinių muštynių vieta.
-  pagrindžia: Kardą kaip bajoriškąjį ženklą ir politinio smurto priemonę.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Paties seimelio metu muštynės kardais taip pat būdavo paprastas dalykas. Reikėdavo tik vadams susikirsti, kam nors tarti įžeidžiamą žodį, — įžeistojo palydovai tuojau čiupdavo kardus, ir žudynės būdavo neišvengiamos. Visą seimelio laiką nesiliaudavo girtuokliavimas; ypatingai jis įsismagindavo, seimelio darbams pasibaigus.
-  pagrindžia: Kardo vartojimą seimelių muštynėse.
 
 ## Pastabos

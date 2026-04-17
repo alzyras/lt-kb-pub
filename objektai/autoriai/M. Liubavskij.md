@@ -1,59 +1,95 @@
 ---
 tipas: autorius
 pavadinimas: "M. Liubavskij"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "M. Liubavski"
-aliases:
   - "M. Liubavskij"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - autorius
-laikotarpis: "1892-1910 m."
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: "1892-1910 m. bibliografijos kontekstas"
 datos:
   - "1892 m."
   - "1901 m."
   - "1910 m."
+periodas: ""
+subperiodiai: []
+date_start: "1892"
+date_end: "1910"
 vaidmenys:
   - autorius
   - tyrėjas
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Bibliografija tiesiogiai sieja M. Liubavskij su konkrečiais veikalais."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # M. Liubavskij
 
 ## Santrauka
-M. Liubavskij šiame šaltinyje minimas kaip Lietuvos ir Rusios valstybės istorijos tyrėjas, kurio darbai pateikiami bibliografiniuose nurodymuose.
+
+M. Liubavskij bibliografijoje minimas kaip Lietuvos ir Rusios valstybės istorijos darbų autorius.
 
 ## Laikotarpis ir datos
-- laikotarpis: 1892-1910 m.
+- laikotarpis: 1892-1910 m. bibliografijos kontekstas
 - datos: 1892 m.; 1901 m.; 1910 m.
+- periodas:
+- subperiodiai:
+- date_start: 1892
+- date_end: 1910
 
 ## Darbai
-- `Očerk istorii litovsko-russkago gosudarstva do liublinskoj unii vkliučitelno`.
-- `Oblasnoje dielenije i miestnoje upravlenije Lit.-russk. gosudarstva`.
-- `Lit.-russkij sejm`.
+
+- „Očerk istorii litovsko-russkago gosudarstva do liublinskoj unii vkliučitelno“.
+- „Oblasnoje dielenije i miestnoje upravlenije Lit.-russk. gosudarstva“.
+- „Lit.-russkij sejm“.
 
 ## Kontekstas
-Šaltinis jį įtraukia prie bendrųjų veikalų ir prie Lietuvos vidaus santykių XIV-XV a. literatūros.
+
+Autorius minimas bibliografiniuose nurodymuose prie bendrųjų veikalų ir Lietuvos vidaus santykių temų.
+
+## Teiginiai
+- id: t-001
+  teiginys: "Bibliografijoje M. Liubavskij pateikiamas kaip Lietuvos ir Rusios valstybės istorijos darbų autorius."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Bendrųjų veikalų skyriuje pateiktas M. Liubavskio sintetinis darbas.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Bendrųjų veikalų sąraše M. Liubavskij siejamas su sintetiniu veikalu.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    M. Liubavski, Očerk istorii litovsko-russkago gosudarstva do liublinskoj unii vkliučitelno (1910;
-  pagrindžia: Autoriaus ir veikalo ryšį.
+    _M. Liubavski,_ Očerk istorii litovsko-russkago gosudarstva do liublinskoj unii
+    vkliučitelno (1910; dalį to veikalo į liet. kalbą yra išvertęs _Sondeckis)
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su veikalu."
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Vidaus santykių bibliografijoje M. Liubavskij siejamas su administracijos ir seimo darbais.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata: |
+    _M. Liubavskij,_ Oblas-
+    noje dielenije i miestnoje upravlenije Lit.-russk. gosudarstva (1892)
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su dviem darbais."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
 ## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    1907); — Zemskije privilei V. Kn. Lit. (Žurnal Min. N. Prosv. 1903); M. Liubavskij, Oblasnoje dielenije i miestnoje upravlenije Lit.-russk. gosudarstva (1892) ; — Lit.- russkij sejm (1901); W. Kamieniecki, Wpływy zakonne na ustrój litewski (Przegl. hist.
-  pagrindžia: Kitus bibliografijoje nurodytus M. Liubavskij darbus.
+
+- q-001 ir q-002 pagrindžia bibliografinį autoriaus paminėjimą.
 
 ## Pastabos

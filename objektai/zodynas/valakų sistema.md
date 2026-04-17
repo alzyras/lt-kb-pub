@@ -1,68 +1,105 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "valakų sistema"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "valakų sistemą"
-  - "valakų reforma"
-aliases:
-  - "valakų sistema"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - istorinė-sąvoka
-  - ūkis
-laikotarpis: "XVI a.; 1557 m."
+  - "istorinė-sąvoka"
+laikotarpis: "1557 m."
 datos:
   - "1557 m."
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: "1557"
+date_end: "1557"
+vaidmenys:
+  - "žodyno terminas"
+  - "žemėtvarka, agrarinė reforma"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Reikšmė aiškinama tik iš šaltinio žemės reformos aprašymo."
+susije_irasai: []
+patikimumas: ""
 ---
 # valakų sistema
 
+## Santrauka
+
+Terminas „valakų sistema“ šiame šaltinyje vartojamas reikšme: žemės reformos sistema, pagal kurią valstiečiams nustatytas vienodas žemės vienetas ir suvienodinti mokesčiai. Šaltinio kontekstas sieja jį su: 1557 m..
+
 ## Žodis ir formos
 
-- Kanoninė forma: `valakų sistema`
-- Šaltinio formos: `valakų sistema`, `valakų sistemą`, `valakų reforma`
+- Pagrindinė forma: „valakų sistema“.
+- Šaltinyje rasta forma: „valakų sistema“.
+- Šaltinyje rasta forma: „valakų sistemą“.
 
 ## Laikotarpis ir datos
-
-- laikotarpis: XVI a.; 1557 m.
-- datos: 1557 m.
+- laikotarpis: 1557 m.
+- datos:
+  - 1557 m.
+- periodas:
+- subperiodiai:
+- date_start: 1557
+- date_end: 1557
 
 ## Reikšmė iš konteksto
 
-Šaltinyje `valakų sistema` reiškia žemės ūkio pertvarką, pagal kurią žemė atskiriama, išmatuojama, valstiečiai apgyvendinami kaimuose ir jiems skiriamas valakas kaip žemės bei prievolių vienetas.
+žemės reformos sistema, pagal kurią valstiečiams nustatytas vienodas žemės vienetas ir suvienodinti mokesčiai.
 
 ## Vartojimas
 
-Terminas vartojamas XVI a. žemės reformos aprašyme.
+Vartojimo sritis šaltinyje: žemėtvarka, agrarinė reforma.
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Pagal vietinį šaltinio kontekstą terminas „valakų sistema“ reiškia: žemės reformos sistema, pagal kurią valstiečiams nustatytas vienodas žemės vienetas ir suvienodinti mokesčiai."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Šaltinio kontekstas terminą „valakų sistema“ sieja su laikotarpiu arba data: 1557 m.."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: 1557 m. įstatymas šaltinyje tiesiogiai siejamas su valakų sistemos įvedimu.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „valakų sistema“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūkį ir įvedantį valakų sistemą.
-  pagrindžia: Datą ir sistemos įvedimą.
-- santrauka: Šaltinis apibūdina pagrindinius sistemos veiksmus.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    žiūrėti valstiečių turtingumo. Maža to, 1557 m. jis paskelbė
+    įstatymą, visiškai pertvarkantį žemės ūkį ir įvedantį valakų
+    sistemą.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+    - t-002
+- id: q-002
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „valakų sistema“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Naujuoju įstatymu buvo įsakyta visas žemes atskirti, o valstiečius apgyvendinti kaimuose.
-  pagrindžia: Valakų sistemos pertvarkos turinį.
+    Su šia reforma valakas pasidarė ūkio vienetas: nuo jo
+    buvo imami mokesčiai, nuo jo buvo einamos ir pareigos. Pati
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+    - t-002
 
 ## Ryšiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
 ## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Su šia reforma valakas pasidarė ūkio vienetas: nuo jo buvo imami mokesčiai, nuo jo buvo einamos ir pareigos.
-  pagrindžia: Sistemos ryšį su mokesčiais ir prievolėmis.
 
 ## Pastabos

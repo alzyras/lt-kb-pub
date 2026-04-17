@@ -1,70 +1,77 @@
 ---
 tipas: paprotys
 pavadinimas: "Paveldėjimo papročiai"
-sukurta: "2026-04-16"
-variantai: []
+sukurta: "2026-04-17"
+variantai:
+  - "paveldėjimo papročiai"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos:
-  - socialinė-praktika
   - teisinė-praktika
-laikotarpis: "senovės aisčių visuomenės kontekstas"
+  - šeima
+laikotarpis: "senovės aisčių visuomeninė santvarka"
 datos: []
-vaidmenys:
-  - "bendro šeimos turto valdymo perdavimo pagrindas"
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: []
 dalyviai:
   - "vienas šeimos narys"
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis paveldėjimo papročius mini trumpai; konkrečios taisyklės ir eiga neaprašytos."
+susije_irasai: []
+patikimumas: ""
 ---
 # Paveldėjimo papročiai
 
 ## Santrauka
 
-Šaltinis paveldėjimo papročius mini senovės aisčių šeimos ir turto santvarkoje: bendrą šeimos turtą valdė vienas šeimos narys pagal tam tikrus paveldėjimo papročius.
+Šaltinis nurodo, kad bendrą šeimos turtą pagal paveldėjimo papročius valdė vienas šeimos narys.
 
 ## Laikotarpis ir datos
-- laikotarpis: senovės aisčių visuomenės kontekstas.
+- laikotarpis: senovės aisčių visuomeninė santvarka
 - datos:
+- periodas:
+- subperiodiai:
+- date_start:
+- date_end:
 
 ## Kas tai
 
-Tai šaltinyje nurodyti papročiai, pagal kuriuos vienam šeimos nariui tekdavo valdyti bendrą šeimos turtą.
+Šeimos turto valdymą apibrėžę papročiai.
 
 ## Atlikimas
-- kas atlieka: vienas šeimos narys valdo bendrą turtą ir šeimą.
-- kada atliekama: bendro šeimos turto valdymo kontekste.
-- kaip atliekama: šaltinis konkrečios procedūros neaprašo.
+- kas atlieka: vienas šeimos narys
+- kada atliekama: valdant bendrą šeimos turtą
+- kaip atliekama:
 
 ## Paskirtis
 
-Šaltinis papročius sieja su bendro šeimos turto ir šeimos valdymu.
+Šaltinis aiškiai nurodo bendro šeimos turto valdymą.
 
 ## Kontekstas
 - regionas:
-- laikotarpis: senovės aisčių visuomenės aptarimas.
-- susiję žodžiai: šeima, bendras turtas, paveldėjimas.
+- laikotarpis: senovės aisčių visuomeninė santvarka
+- susiję žodžiai:
 - susiję daiktai:
 
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinis nurodo, kad visa šeima turėjo bendrą turtą, kurį pagal paveldėjimo papročius valdė vienas šeimos narys."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
-
-- santrauka: Šaltinis nurodo, kad šeima apėmė ne tik tėvus su vaikais, bet ir kartu gyvenusius gimines.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Paveldėjimo papročiai siejami su bendro šeimos turto valdymu.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Kaip visų tautų, taip ir aisčių pagrindinis visuomenės vienetas buvo šeima. Ją sudarė ne tik tėvai su vaikais, bet ir giminės,—bent tie, kurie gyveno kartu, tose pačiose sodybose, o dažnai ir po vienu stogu.
-  pagrindžia: Šeimos, kurios turtas valdomas pagal papročius, sudėtį.
-
-## Ryšiai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Kad šeimos sukūrimas buvo laikomas labai svarbiu įvykiu, rodo iki mūsų laikų gausiai išlikusios įvairios vedybų apeigos, papročiai, daugybė vestuvinių dainų ir t. t. Visa šeima turėjo bendrą turtą, kurį valdė, tam tikrais paveldėjimo papročiais, vienas šeimos narys. Jis valdė ir visą šeimą. Greičiausiai tai buvo kuris nors senas žmogus.
-  pagrindžia: Paveldėjimo papročių ryšį su bendro šeimos turto ir šeimos valdymu.
-
-## Pastabos
+    Visa šeima turėjo bendrą turtą, kurį valdė, tam tikrais paveldėjimo papročiais, vienas šeimos narys. Jis valdė ir visą šeimą.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

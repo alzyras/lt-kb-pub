@@ -1,70 +1,84 @@
 ---
 tipas: daiktas
-pavadinimas: "taranas"
-sukurta: "2026-04-16"
+pavadinimas: "Taranas"
+sukurta: "2026-04-17"
 variantai:
   - "taranus"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - ginklas
-  - karo-reikmuo
-laikotarpis: "XIII–XIV a."
+  - "karo-reikmuo"
+laikotarpis: "XIII a. ir vėlesni laikai"
 datos: []
+periodas: "viduramziai"
+subperiodiai: []
+date_start: ""
+date_end: ""
 vaidmenys:
-  - "pilims griauti skirta mašina"
+  - "apgulos mašina"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: ""
 ---
 # Taranas
 
 ## Santrauka
 
-Taranas šaltinyje minimas kaip speciali, vietoje iš medžių pasidirbdinama mašina pilims griauti.
+Taranas šaltinyje apibūdinamas kaip pilims griauti vietoje iš medžių pasidaroma speciali mašina.
 
 ## Pavadinimai šaltiniuose
 
-- taranus
+- „taranus“
 
 ## Laikotarpis ir datos
 
-- laikotarpis: XIII–XIV a.
+- laikotarpis: XIII a. ir vėlesni laikai
 - datos:
+- periodas: viduramžiai
+- subperiodiai:
+- date_start:
+- date_end:
 
 ## Kas tai
 
-Tai apgulos mašina, naudojama pilių griovimui.
+Apgulos mašina pilims griauti.
 
 ## Naudojimas
 
-- Taranai buvo pasidirbdinami karo žygio vietoje ir naudojami pilims griauti.
+Šaltinis tiesiogiai nurodo, kad taranai buvo naudojami pilims griauti.
 
 ## Kontekstas
 
-- laikotarpis: lietuvių karo technikos ir kovų su pilimis kontekstas.
+- laikotarpis: lietuvių karo technikos aprašymas
 - susiję žmonės:
 - susiję įvykiai:
 
+## Teiginiai
+
+- id: t-001
+  teiginys: "Šaltinyje taranai įvardijami kaip pilims griauti vietoje, miške, iš medžių pasidaromos specialios mašinos."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 
-- santrauka: Šaltinis taranus sieja su platesniu lietuvių karo technikos apibūdinimu.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Taranai apibūdinami kaip pilims griauti skirtos mašinos.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Taigi lietuvių karo technika buvo gana aukšta. Be to, jie greit perimdavo naujuosius priešų ginklus.
-  pagrindžia: Taranų vietą bendrame karo technikos vertinime.
+    Pilims griauti čia pat, miške, prisikirtę medžių, pasidirbdavo specialias mašinas — taranus.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
 ## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Lietuviai turėjo susidarę ir savo kariavimo būdą, savo taktiką. Pilims griauti čia pat, miške, prisikirtę medžių, pasidirbdavo specialias mašinas — taranus. Prie sienų pristumdavo aukštus bokštus, iš kurių būdavo galima nusileisti į apgultąją pilį. Traidenis, apgulęs Daugpilio pilį, buvo pasidirbęs akmenų svaidomąją mašiną.
-  pagrindžia: Tarano paskirtį ir pasidirbdinimo būdą.
 
 ## Pastabos

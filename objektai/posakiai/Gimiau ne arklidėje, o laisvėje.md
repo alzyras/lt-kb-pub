@@ -1,61 +1,81 @@
 ---
 tipas: posakis
 pavadinimas: "Gimiau ne arklidėje, o laisvėje"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai: []
-aliases:
-  - "Gimiau ne arklidėje, o laisvėje"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - frazė
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+zymos: []
 laikotarpis: "1576 m."
 datos:
   - "1576 m."
+periodas: ""
+subperiodiai: []
+date_start: "1576"
+date_end: "1576"
 vaidmenys:
-  - "Stepono Batoro politinės kalbos frazė"
+  - "valdovo atsakymas"
 dalyviai:
-  - "[[Steponas Batoras]]"
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-  - "[[Steponas Batoras]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+  - "Steponas Batoras"
+  - "Lenkų seimas"
+susije_irasai: []
+patikimumas: ""
 ---
 # Gimiau ne arklidėje, o laisvėje
 
+## Santrauka
+
+„Gimiau ne arklidėje, o laisvėje“ šaltinyje pateikta kaip Stepono Batoro pasakymo pradžia 1576 m. ginče su Lenkų seimu.
+
 ## Forma
 
-Gimiau ne arklidėje, o laisvėje.
+- „Gimiau ne arklidėje, o laisvėje“
 
 ## Variantai
+
+- Nėra užfiksuotų variantų.
 
 ## Laikotarpis ir datos
 
 - laikotarpis: 1576 m.
-- datos: 1576 m.
+- datos:
+  - 1576 m.
+- periodas:
+- subperiodiai:
+- date_start: 1576
+- date_end: 1576
 
 ## Kontekstas ir vartojimas
 
-Šaltinis frazę priskiria Steponui Batorui. Ji pasakyta 1576 m., kai Lenkų seimas atsisakinėjo duoti mokesčių karo reikalui ir reikalavo Zigmanto Augusto turtų apyskaitos.
+Šaltinyje frazė priskiriama Steponui Batorui, kai Lenkų seimas atsisakė duoti mokesčių karo reikalui ir reikalavo Zigmanto Augusto turtų apyskaitos.
 
 ## Reikšmė
 
-Frazė šaltinyje pabrėžia Batoro asmeninę laisvę, valdovo orumą ir pasipriešinimą seimo spaudimui.
+Valdovas pabrėžia savo laisvę, orumą ir teisę valdyti.
 
-## Ryšiai
+## Teiginiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-- asmuo: [[Steponas Batoras]]
+- id: t-001
+  teiginys: "Šaltinyje frazė „Gimiau ne arklidėje, o laisvėje“ priskiriama Steponui Batorui 1576 m. ginče su Lenkų seimu dėl karo mokesčių ir Zigmanto Augusto turtų apyskaitos."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
-## Šaltiniai ir įrodymai
+## Reikšmingi paminėjimai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Steponui Batorui priskiriamas pasakymas apie laisvę ir valdovo orumą.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Kartą 1576 m., kai Lenkų seimas atsisakinėjo duoti karo reikalui mokesčių ir reikalavo iš Batoro Zigmanto Augusto turtų apyskaitos, jis pasakė: „Gimiau ne arklidėje, o laisvėje. Prieš atvykstant pas jus, valgio ir apdaro man pakako. Todėl myliu ir saugau savo laisvę.
-  pagrindžia: Frazės formą, kalbėtoją, datą ir vartojimo situaciją.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Taigi esu tikras jūsų karalius, o ne koks nors nulipdytas ar nutepliotas. Noriu patsai valdyti ir įsakinėti, tad nepakęsiu, kad kas nors man įsakinėtų.
-  pagrindžia: Frazės politinę reikšmę valdovo savarankiškumo kontekste.
-
-## Pastabos
+    Kartą 1576 m., kai Lenkų seimas atsisakinėjo duoti karo reikalui mokesčių ir reikalavo iš Batoro Zigmanto Augusto turtų
+    apyskaitos, jis pasakė: „Gimiau ne arklidėje, o laisvėje. Prieš
+    atvykstant pas jus, valgio ir apdaro man pakako. Todėl myliu ir
+    saugau savo laisvę.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

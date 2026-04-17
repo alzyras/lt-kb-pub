@@ -1,57 +1,78 @@
 ---
 tipas: vieta
 pavadinimas: "Junigėda"
-sukurta: "2026-04-16"
-variantai: []
+sukurta: "2026-04-17"
+variantai:
+  - "Junigėda"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "vietovė"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # Junigėda
 
 ## Santrauka
-
 Tekste tai sena Veliuonos vietovės forma.
 
 ## Pavadinimai šaltiniuose
-
 - Junigėda
 
 ## Laikotarpis ir datos
-
 - laikotarpis: 
 - datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-
-Šaltinyje ši vieta įvardijama kaip vietovė.
+vietovė.
 
 ## Geografinis ir istorinis kontekstas
-
 - tipas: vietovė
 - regionas:
 - susiję žmonės:
 - susiję įvykiai:
 - susijusios grupės:
 
-## Reikšmingi paminėjimai
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje „Junigėda“ minimas kaip vietovė: Tekste tai sena Veliuonos vietovės forma."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
-- santrauka: Šaltinis vietą „Junigėda“ mini šiame kontekste: Tekste tai sena Veliuonos vietovės forma.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Tekste tai sena Veliuonos vietovės forma.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Dalis čia pažymėtų lietuvių pilių trumpą laiką testovėjo. Kaip matyti iš žemėlapio, kryžiuočių pilys buvo statomos paprastai greta, saloje arba kitoje Nemuno pusėje, prieš lietuvių pilis. (Veliuona čia pažymėtoji Junigėda, — taip ji kurį laiką buvo vadinama XIII amž.). muno vagas. Ordinas, norėdamas šį svarbų punktą užgrobti, padarė daugybę užpuolimų, ir jam pagaliau pasisekė sunaikinti pilį, ir lietuvių atramos punktas liko tik netoli Kauno Neries Pakrantėje buvusi Eigulių pilis.
-  pagrindžia: Vietos „Junigėda“ pavadinimą, tipą ir šaltinio kontekstą.
+    Nemuno pusėje, prieš lietuvių pilis. (Veliuona čia pažymėtoji Junigėda, —
+    taip ji kurį laiką buvo vadinama XIII amž.).
+    muno vagas. Ordinas, norėdamas šį svarbų punktą užgrobti,
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Šaltiniai ir įrodymai
+- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
 
 ## Pastabos

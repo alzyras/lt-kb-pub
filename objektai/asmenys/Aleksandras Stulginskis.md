@@ -1,63 +1,86 @@
 ---
 tipas: asmuo
 pavadinimas: "Aleksandras Stulginskis"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "A. Stulginskis"
-aliases:
-  - "Aleksandras Stulginskis"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: "XX a."
+laikotarpis: ""
 datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
 vaidmenys:
-  - Lietuvos Tarybos narys
-  - valstybės veikėjas
+  - "Lietuvos Tarybos narys"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis pateikia pilną Aleksandro Stulginskio vardą ir A. Stulginskio formą Lietuvos Tarybos kontekste."
+susije_irasai: []
+patikimumas: "aukstas"
 ---
 # Aleksandras Stulginskis
 
 ## Santrauka
-Aleksandras Stulginskis šiame šaltinyje minimas kaip Lietuvos Tarybos ir valstybės politikos veikėjas.
+
+Aleksandras Stulginskis šiame šaltinyje minimas kaip Tarybos ir valstybės politikos veikėjas.
 
 ## Variantai
+
 - A. Stulginskis
 
 ## Laikotarpis ir datos
-- laikotarpis: XX a.
-- datos:
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Vaidmenys
+
 - Lietuvos Tarybos narys
-- valstybės veikėjas
 
 ## Savybės
-- išvaizda:
-- būdas / charakteris:
-- elgesys:
-- reputacija:
-- gebėjimai:
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
-## Reikšmingi paminėjimai
-- santrauka: Šaltinis pateikia pilną Aleksandro Stulginskio vardą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Aleksandras Stulginskis,
-  pagrindžia: Pilną asmens vardo formą.
+## Teiginiai
+- id: t-001
+  teiginys: "Aleksandras Stulginskis šiame šaltinyje minimas kaip Tarybos ir valstybės politikos veikėjas."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
-- santrauka: A. Stulginskis nurodytas Lietuvos Tarybos narių sąraše.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Citata pagrindžia asmens pareigas arba vaidmenį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Lietuvos Tarybos nariai buvo šie: J. Basanavičius, (†), S. Banaitis (†), M. Biržiška, K. Bizauskas, P. Dovydaitis, S. Kairys, P. Klimas, D. Malinauskas, P. Mironas, S. Narutavičius (†), A. Petrulis (†), A. Smetona, J. Smilgevičius, J. Staugaitis, A. Stulginskis, J. Šaulys, K. Šaulys, J. Šernas (†), J. Vailokaitis, J. Vileišis.
-  pagrindžia: Aleksandro Stulginskio dalyvavimą Lietuvos Taryboje.
+    Lietuvos Tarybos nariai buvo šie: J. Basanavičius, (†), S. Ba-
+    naitis (†), M. Biržiška, K. Bizauskas, P. Dovydaitis, S. Kairys, P.
+    Klimas, D. Malinauskas, P. Mironas, S. Narutavičius (†), A. Pet-
+    rulis (†), A. Smetona, J. Smilgevičius, J. Staugaitis, A. Stulginskis,
+    J. Šaulys, K. Šaulys, J. Šernas (†), J. Vailokaitis, J. Vileišis.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos

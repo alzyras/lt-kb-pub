@@ -1,46 +1,81 @@
 ---
 tipas: grupe
 pavadinimas: "Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje"
-sukurta: "2026-04-16"
-variantai: []
-aliases: []
+sukurta: "2026-04-17"
+variantai: 
+  - "Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje"
+aliases: 
+  - "Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: 
+  - "susivienijimas"
 dalyviai: []
 susije_irasai: []
-patikimumas: "Paremta šaltinio citatomis ir tiesioginiais paminėjimais."
+patikimumas: "vidutinis"
 ---
 # Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje
 
 ## Santrauka
-Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje yra susivienijimas. Šaltinyje ši grupė apibūdinama taip: Katalikiškas lietuvių susivienijimas, iš kurio vėliau išaugo kitos Amerikos organizacijos.
+
+Katalikiškas lietuvių susivienijimas, iš kurio vėliau išaugo kitos Amerikos organizacijos.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje`
+
+- „Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje“
 
 ## Laikotarpis ir datos
 - laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip susivienijimas.
+
+Šaltinyje aiškiai nurodomas grupės tipas: susivienijimas.
 
 ## Sudėtis ir vaidmuo
 - tipas: susivienijimas
-- vaidmuo: Katalikiškas lietuvių susivienijimas, iš kurio vėliau išaugo kitos Amerikos organizacijos.
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje“ apibūdinama taip: Katalikiškas lietuvių susivienijimas, iš kurio vėliau išaugo kitos Amerikos organizacijos."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Katalikiškas lietuvių susivienijimas, iš kurio vėliau išaugo kitos Amerikos organizacijos.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
     Jo vietoje lietuvių kunigų pastangomis tuojau buvo įkurtas kitas — Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje.
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos
-- Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

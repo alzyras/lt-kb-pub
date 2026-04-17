@@ -1,45 +1,101 @@
 ---
 tipas: grupe
 pavadinimas: "Joanitų ordinas"
-sukurta: "2026-04-16"
-variantai:
+sukurta: "2026-04-17"
+variantai: 
   - "joanitai"
-aliases:
+aliases: 
   - "joanitai"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: 
+  - "ordinas"
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "vidutinis"
 ---
 # Joanitų ordinas
 
 ## Santrauka
-Joanitų ordinas yra ordino grupė. Šaltinyje ši grupė apibūdinama kaip kitas kryžiaus žygių laikų riterių ordinas, minimas šalia templininkų.
+
+Kitas kryžiaus žygių laikų riterių ordinas, minimas šalia templininkų.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Joanitų ordinas`
-- Variacijos arba alternatyvios formos: `joanitai`
+
+- „Joanitų ordinas“
+- „joanitai“
+
+## Laikotarpis ir datos
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip ordinas.
+
+Šaltinyje aiškiai nurodomas grupės tipas: ordinas.
 
 ## Sudėtis ir vaidmuo
 - tipas: ordinas
-- vaidmuo: kitas kryžiaus žygių laikų riterių ordinas, minimas šalia templininkų
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Joanitų ordinas“ apibūdinama taip: Kitas kryžiaus žygių laikų riterių ordinas, minimas šalia templininkų."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Vokiečių riterių ordinas, veikiantis Prūsijoje ir Livonijoje.; Minimas kaip vienas iš kryžiaus žygių laikų riterių ordinų.; Kitas kryžiaus žygių laikų riterių ordinas, minimas šalia templininkų.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Kalavijuočių ordino įkūrimas (1202 m.). Palestinoje, einant kryžiaus karams su turkais, krikščionims apsaugoti ir kariauti buvo įsteigti net keli riterių vienuolių ordinai (templininkų, joanitų ir vokiečių, arba kryžiuočių, ordinas).
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-- santrauka: Papildomas tiesioginis paminėjimas iš to paties šaltinio.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    Palestinoje, einant kryžiaus karams su turkais, krikščionims apsaugoti ir kariauti buvo įsteigti net keli riterių vienuolių ordinai (templininkų, joanitų ir vokiečių, arba kryžiuočių, ordinas).
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Šaltinio ištrauka pagrindžia grupės „Joanitų ordinas“ paminėjimą arba vaidmenį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o trečiojo kryžiaus žygio metu vokiečiai įkūrė savo Marijos Mergelės ordiną (1190 m.). Pastarojo nariai (o taip pat ir templininkai) nešiojo baltus apsiaustus su išsiūtu juodu kryžium, todėl mūsų krašte dažniausiai būdavo vadinami kryžiuočiais.
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+    vėl ėmė grėsti turkų pavojus, ir maldininkams darėsi labai pavojinga
+    ten keliauti. Todėl visos didesniosios valstybės ten ėmė steigti specialias brolijas savo maldininkams globoti. Iš pradžių tokios brolijos
+    globojo ligonius ir saugojo, kad maldininkams nieko blogo neatsitiktų
+    kelyje. Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė
+    turkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos
+    virto kariaujančiųjų riterių ordinais. Italai čia turėjo savo joanitų
+    ordiną, prancūzai — templininkų, o trečiojo kryžiaus žygio metu
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
+- q-002 pagrindžia t-001.
+
+## Pastabos

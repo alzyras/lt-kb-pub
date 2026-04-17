@@ -1,45 +1,100 @@
 ---
 tipas: grupe
 pavadinimas: "Pabaltijo valstybių sąjunga"
-sukurta: "2026-04-16"
-variantai:
+sukurta: "2026-04-17"
+variantai: 
   - "Pabaltijo sąjunga"
-aliases:
+aliases: 
   - "Pabaltijo sąjunga"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
-datos: []
-vaidmenys: []
+datos: 
+  - "1934 m."
+periodas: ""
+subperiodiai: []
+date_start: "1934"
+date_end: "1934"
+vaidmenys: 
+  - "sąjunga"
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "vidutinis"
 ---
 # Pabaltijo valstybių sąjunga
 
 ## Santrauka
-Pabaltijo valstybių sąjunga yra sąjunga. Šaltinyje ši grupė apibūdinama kaip pokarinio Baltijos valstybių bendradarbiavimo sumanymas.
+
+Pokarinio Baltijos valstybių bendradarbiavimo sumanymas.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Pabaltijo valstybių sąjunga`
-- Variacijos arba alternatyvios formos: `Pabaltijo sąjunga`
+
+- „Pabaltijo valstybių sąjunga“
+- „Pabaltijo sąjunga“
+
+## Laikotarpis ir datos
+- laikotarpis: 
+- datos: 1934 m.
+- periodas:
+- subperiodiai:
+- date_start: 1934
+- date_end: 1934
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip sąjunga.
+
+Šaltinyje aiškiai nurodomas grupės tipas: sąjunga.
 
 ## Sudėtis ir vaidmuo
 - tipas: sąjunga
-- vaidmuo: pokarinio Baltijos valstybių bendradarbiavimo sumanymas
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Pabaltijo valstybių sąjunga“ apibūdinama taip: Pokarinio Baltijos valstybių bendradarbiavimo sumanymas."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Pokarinio Baltijos valstybių bendradarbiavimo sumanymas.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Pabaltijo valstybių sąjunga
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-- santrauka: Papildomas tiesioginis paminėjimas iš to paties šaltinio.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    Iš politinių sutarčių paminėtinos yra draugingumo sutartys su Sovietų Rusija ir 1934 m. pasirašytoji Pabaltijo valstybių sąjunga.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Šaltinio ištrauka pagrindžia grupės „Pabaltijo valstybių sąjunga“ paminėjimą arba vaidmenį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
+    tis į periodines konferencijas. Iš bendrųjų klausimų sutartis
+
+    išskyrė tam tikras vadinamąsias specialines problemas, dėl kurių tuo tarpu sunku būtų rasti bendrą nusistatymą (čia reikia turėti galvoje Vilniaus problemą, kurioje Latviai ir Estai
+    nesiryžta tuo tarpu atvirai stoti į Lietuvos pusę).
     Išplėsta ir sustiprinta Pabaltijo valstybių sąjunga turės
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
+- q-002 pagrindžia t-001.
+
+## Pastabos

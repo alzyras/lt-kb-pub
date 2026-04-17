@@ -1,66 +1,98 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "metraščiai"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "metraščiuose"
   - "metraščių"
-aliases:
-  - "metraščiai"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - istorinė-sąvoka
-laikotarpis: "XV a. pradžia ir vėlesni istoriniai šaltiniai"
+  - "istorinė-sąvoka"
+laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "žodyno terminas"
+  - "istoriniai šaltiniai"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Reikšmė aiškinama tik iš šaltinio vietos, kur metraščiai sugretinti su kronikomis."
+susije_irasai: []
+patikimumas: ""
 ---
 # metraščiai
 
+## Santrauka
+
+Terminas „metraščiai“ šiame šaltinyje vartojamas reikšme: senųjų laikų istoriniai užrašai, kronikos.
+
 ## Žodis ir formos
 
-- Kanoninė forma: `metraščiai`
-- Šaltinio formos: `metraščiuose`, `metraščių`, `metraščiai`
+- Pagrindinė forma: „metraščiai“.
+- Šaltinyje rasta forma: „metraščiuose“.
+- Šaltinyje rasta forma: „metraščių“.
+- Šaltinyje rasta forma: „metraščiai“.
 
 ## Laikotarpis ir datos
-
-- laikotarpis: XV a. pradžia ir vėlesni istoriniai šaltiniai
+- laikotarpis: 
 - datos:
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Reikšmė iš konteksto
 
-Šaltinyje `metraščiai` reiškia senųjų laikų istorines knygas arba kronikas. Šaltinis pabrėžia, kad jos gali būti nepilnos, netikslios ir tendencingos, todėl jas reikia tikrinti dokumentais.
+senųjų laikų istoriniai užrašai, kronikos.
 
 ## Vartojimas
 
-Terminas vartojamas istoriografinių šaltinių aptarime, aiškinant, iš kur gaunamos pirmosios rašytinės žinios apie lietuvius.
+Vartojimo sritis šaltinyje: istoriniai šaltiniai.
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Pagal vietinį šaltinio kontekstą terminas „metraščiai“ reiškia: senųjų laikų istoriniai užrašai, kronikos."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Metraščiai tiesiogiai paaiškinami kaip kronikos, senųjų laikų istorinės knygos.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „metraščiai“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Pačių pirmųjų rašytinių žinių apie lietuvius duoda svetimšaliai, kuriems tekdavo susidurti su lietuviais, — būtent skandinavai, vokiečiai, lenkai ir rusai. Šitų istorinių žinių randame jų kronikose, arba metraščiuose.
-  pagrindžia: Tiesioginę reikšmę ir laikotarpį, kada metraščiai pradedami sieti su Lietuva.
-- santrauka: Šaltinis įspėja, kad metraščiai nėra pakankami be dokumentų kontrolės.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    ir rusai. Šitų istorinių žinių randame jų kronikose, arba
+    metraščiuose. Tai yra savotiškos senųjų laikų istorinės
+    knygos. Pačioje Lietuvoje metraščių pradeda rastis tik XV amž.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „metraščiai“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Bet kronikų ir metraščių duodamos žinios yra labai nepilnos ir netikslios. Dažnai jų rašytojai papasakoja Įvykius tendencingai, iškeldami savo artimuosius ir pažemindami nekenčiamuosius. Be to, dažnai tokie rašytojai, neturėdami tikslių žinių, daug ką iškraipo.
-  pagrindžia: Metraščių kaip istorinio šaltinio ribotumą.
+    Bet kronikų ir metraščių duodamos žinios yra labai nepilnos
+    ir netikslios. Dažnai jų rašytojai papasakoja Įvykius tendencin-
+    gai, iškeldami savo artimuosius ir pažemindami nekenčiamuosius.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
 ## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Istorikai, norėdami atitaisyti jų prasimanymus ir klaidas, naudojasi dokumentais, kurie negali būti tendencingi, nes jie būdavo rašomi kokiam nors reikalui. Lietuvoje iki Jogailos ir Vytauto laikų net didžiojo kunigaikščio dvare nėra buvę kanceliarijų, todėl tėra tik atsitiktinai išlikusių to meto raštų.
-  pagrindžia: Kodėl metraščių duomenys šaltinyje laikomi tikrintinais.
 
 ## Pastabos

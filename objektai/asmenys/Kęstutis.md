@@ -1,68 +1,80 @@
 ---
 tipas: asmuo
 pavadinimas: "Kęstutis"
-sukurta: "2026-04-16"
-variantai:
-  - "Kęstučio"
-aliases:
-  - "Kęstutis"
+sukurta: "2026-04-17"
+variantai: []
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - valdovas
-  - karvedys
-laikotarpis: "XIV a."
-datos:
-  - "1382 m."
-vaidmenys:
-  - Trakų valdovas
-  - karo vadas
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: []
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis Kęstutį aprašo tiesiogiai ir sieja su Trakais, karo veiksmais bei Lietuvos gynyba."
+susije_irasai: []
+patikimumas: "aukstas"
 ---
 # Kęstutis
 
 ## Santrauka
-Kęstutis šiame šaltinyje pristatomas kaip Trakų valdovas, karo vadas ir Lietuvos gynėjas.
+
+Šaltinyje nurodoma, kad Kęstutis buvo tikras karys, tikras savo krašto gynėjas.
 
 ## Variantai
-- Kęstučio
 
 ## Laikotarpis ir datos
-- laikotarpis: XIV a.
-- datos: 1382 m.
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Vaidmenys
-- Trakų valdovas
-- karo vadas
 
 ## Savybės
-- išvaizda:
-- būdas / charakteris:
-- elgesys:
-- reputacija:
 - gebėjimai:
-  - santrauka: Šaltinis Kęstutį tiesiogiai apibūdina kaip karį ir krašto gynėją.
-    šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-    citata: |
-      Kęstutis buvo tikras karys, tikras savo krašto gynėjas. Neatimdavo jam proto laimėjimai, o drąsos — nepasisekimai.
-    pagrindžia: Kęstučio karinį pajėgumą ir gynėjo reputaciją.
+  - santrauka: Šaltinyje nurodoma, kad Kęstutis buvo tikras karys, tikras savo krašto gynėjas.
+    šaltiniai:
+      - [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje nurodoma, kad Kęstutis buvo tikras karys, tikras savo krašto gynėjas."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
-- santrauka: Kęstutis įvardijamas kaip valdęs Trakus.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Citata pagrindžia šaltinyje pateiktą asmens apibūdinimą.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Kęstutis valdė Trakus nuo pat jaunystės.
-  pagrindžia: Kęstučio valdžios vietą.
+    Kęstutis buvo tikras karys, tikras savo krašto gynėjas.
+  teiginio_tipas: vertinimas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
 ## Šaltiniai ir įrodymai
-- Pagrindiniai įrodymai pateikti skiltyse „Savybės“ ir „Reikšmingi paminėjimai“.
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos

@@ -1,70 +1,86 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "tribunolas"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "tribunolo"
   - "Tribunolo"
-  - "Vyriausiasis Lietuvos tribunolas"
-aliases:
-  - "tribunolas"
-  - "Vyriausiasis Lietuvos tribunolas"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - teisinis-terminas
-laikotarpis: "nuo 1581 m. iki Lietuvos valstybės nepriklausomybės pabaigos"
-datos:
-  - "1581 m."
-  - "1588 m."
-vaidmenys: []
+  - "istorinė-sąvoka"
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "žodyno terminas"
+  - "teisminė sistema"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Reikšmė aiškinama tik iš Vyriausiojo Lietuvos tribunolo aprašymo."
+susije_irasai: []
+patikimumas: ""
 ---
 # tribunolas
 
+## Santrauka
+
+Terminas „tribunolas“ šiame šaltinyje vartojamas reikšme: aukščiausias valstybės teismas.
+
 ## Žodis ir formos
 
-- Kanoninė forma: `tribunolas`
-- Šaltinio formos: `tribunolo`, `Tribunolo`, `Vyriausiojo Lietuvos tribunolo`
-
-## Laikotarpis ir datos
-
-- laikotarpis: nuo 1581 m. iki Lietuvos valstybės nepriklausomybės pabaigos
-- datos: 1581 m.; 1588 m.
+- Pagrindinė forma: „tribunolas“.
+- Šaltinyje rasta forma: „tribunolo“.
+- Šaltinyje rasta forma: „Tribunolo“.
 
 ## Reikšmė iš konteksto
 
-Šaltinyje `tribunolas` reiškia bajorijos renkamą aukščiausiąjį apeliacinį teismą, perėmusį dalį didžiojo kunigaikščio teismo funkcijų.
+aukščiausias valstybės teismas.
 
 ## Vartojimas
 
-Terminas vartojamas teismų reformos ir Vyriausiojo Lietuvos tribunolo įkūrimo aprašyme.
+Vartojimo sritis šaltinyje: teisminė sistema.
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Pagal vietinį šaltinio kontekstą terminas „tribunolas“ reiškia: aukščiausias valstybės teismas."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Tribunolas šaltinyje siejamas su bajorijos reikalavimu sparčiau tvarkyti apeliacines bylas.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „tribunolas“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Bet pagaliau, kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m.), atsisakė nuo savo teismų ir įkūrė pačios bajorijos renkamą tribunolą Lenkijoje, tai netrukus tas pats buvo padaryta ir Lietuvoje. Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose Lietuvos seimuose, ir galutinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks pat išliko iki pat nepriklausomybės pabaigos.
-  pagrindžia: Tribunolo kaip renkamų bajorijos teismų reikšmę.
-- santrauka: Šaltinis nurodo tribunolo įkūrimo datą ir teisėjų rinkimo tvarką.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    Gana ilgą laiką bajorija čia nieko nelaimėjo. Bet pagaliau,
+    kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m.),
+    atsisakė nuo savo teismų ir įkūrė pačios bajorijos renkamą tri-
+    bunolą Lenkijoje, tai netrukus tas pats buvo padaryta ir
+    Lietuvoje.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „tribunolas“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose Lietuvos seimuose, ir galutinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks pat išliko iki pat nepriklausomybės pabaigos. Tribunolo teisėjais buvo visų seimelių renkami bajorijos atstovai. Jie visada būdavo renkami specialiai šaukiamame Grabnyčių seimely (apie vasario 2 d.) ir darbuodavos tribunole vienus metus.
-  pagrindžia: Įkūrimo datą, trukmę ir teisėjų rinkimą.
-
-## Ryšiai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tribunole pirmininkaudavo iš tų pačių deputatų renkamas pirmininkas, vadinamas tribunolo maršalka. Bylos būdavo sprendžiamos balsų dauguma. O bajorijos byloms su dvasininkais būdavo sudaromas mišrasis teismas, arba dvasiškasis tribunolas, į kurį įeidavo 4 vyskupijų kapitulų skiriami kunigai ir 6 tribunolo deputatai.
-  pagrindžia: Tribunolo vidaus darbo tvarką.
-
-## Pastabos
+    Vyriausiojo Lietuvos tribunolo reikalas buvo
+    svarstytas net keliuose atskiruose Lietuvos seimuose, ir galu-
+    tinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks
+    pat išliko iki pat nepriklausomybės pabaigos.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

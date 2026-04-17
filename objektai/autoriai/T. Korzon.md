@@ -1,59 +1,93 @@
 ---
 tipas: autorius
 pavadinimas: "T. Korzon"
-sukurta: "2026-04-16"
-variantai: []
-aliases:
+sukurta: "2026-04-17"
+variantai:
   - "T. Korzon"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - autorius
-laikotarpis: "1897-1923 m."
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: "1909-1923 m. bibliografijos kontekstas"
 datos:
-  - "1897 m."
   - "1909 m."
   - "1923 m."
+periodas: ""
+subperiodiai: []
+date_start: "1909"
+date_end: "1923"
 vaidmenys:
   - autorius
-  - istorikas
+  - tyrėjas
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Bibliografija tiesiogiai nurodo T. Korzon darbus."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # T. Korzon
 
 ## Santrauka
-T. Korzon šiame šaltinyje minimas kaip karo, kariuomenės ir XVIII a. vidaus istorijos autorius.
+
+T. Korzon bibliografijoje minimas kaip karo ir kariuomenės istorijos darbų autorius.
 
 ## Laikotarpis ir datos
-- laikotarpis: 1897-1923 m.
-- datos: 1897 m.; 1909 m.; 1923 m.
+- laikotarpis: 1909-1923 m. bibliografijos kontekstas
+- datos: 1909 m.; 1923 m.
+- periodas:
+- subperiodiai:
+- date_start: 1909
+- date_end: 1923
 
 ## Darbai
-- `Dzieje wojen i wojskowości w Polsce`.
-- `Organizacja wojska Litwy w okresie jagiellońskim`.
-- `Wewnętrzne dzieje Polski za St. Augusta`.
-- `Kosciuszko`.
+
+- „Dzieje wojen i wojskowości w Polsce“.
+- „Organizacja wojska Litwy w okresie jagiellońskim“.
 
 ## Kontekstas
-T. Korzon darbai pateikiami bendrųjų veikalų, valstybės santvarkos ir XVIII a. temų bibliografijoje.
+
+Autorius minimas ir prie bendrųjų veikalų, ir prie XVI a. valstybės santvarkos bibliografijos.
+
+## Teiginiai
+- id: t-001
+  teiginys: "Bibliografijoje T. Korzon pateikiamas kaip karo ir kariuomenės istorijos darbų autorius."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Bendrųjų veikalų skyriuje nurodomas T. Korzon darbas apie karus ir kariuomenę.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Bibliografijoje T. Korzon siejamas su karo istorijos veikalu.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    (1925; Kasakaičio vert.); T. Korzon, Dzieje wojen i wojskowości w Polsce, I—III (1923); A. Bruckner, Dzieje kultury Polskiej, I-III (1930—1931); M. Gruševski, Istorija Ukraini Rusi, I-IX (1907—1930); S. M. Solovjev, Ist.
-  pagrindžia: Autoriaus ir veikalo ryšį.
+    T. _Korzon,_ Dzieje
+    wojen i wojskowości w Polsce, I—III (1923)
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su veikalu."
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Bibliografijoje T. Korzon siejamas su Lietuvos kariuomenės organizacijos darbu.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata: |
+    _T. Korzon,_ Organizacja
+    wojska Litwy w okresie jagiellońskim (Rocznik Tow. Prz. Nauk w Wilnie,
+    1909)
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su darbu."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
 ## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    R. poviet i ego sejmik (1911); T. Korzon, Organizacja wojska Litwy w okresie jagiellońskim (Rocznik Tow. Prz. Nauk w Wilnie, 1909); V. Piieta, Agrarnaja reforma Sigismundą Augusta, I, II (1916, 1917).
-  pagrindžia: T. Korzon darbą apie Lietuvos kariuomenės organizaciją.
+
+- q-001 ir q-002 pagrindžia bibliografinius paminėjimus.
 
 ## Pastabos

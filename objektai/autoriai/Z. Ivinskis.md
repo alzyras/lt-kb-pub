@@ -1,66 +1,114 @@
 ---
 tipas: autorius
 pavadinimas: "Z. Ivinskis"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
-  - "dr. Z. Ivinskis"
-aliases:
   - "Z. Ivinskis"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - autorius
-laikotarpis: "1933-1936 m."
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: "1933-1936 m. leidinio ir bibliografijos kontekstas"
 datos:
   - "1933 m."
   - "1934 m."
   - "1936 m."
+periodas: ""
+subperiodiai: []
+date_start: "1933"
+date_end: "1936"
 vaidmenys:
-  - bendradarbis
   - autorius
+  - bendradarbis
   - tyrėjas
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis tiesiogiai nurodo Z. Ivinskio vadovėlio dalį ir bibliografinius darbus."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # Z. Ivinskis
 
 ## Santrauka
-Z. Ivinskis šiame šaltinyje minimas kaip vadovėlio bendradarbis ir istorinių tyrimų autorius. Jam priskirta dalis apie laikotarpį iki Gediminaičių dinastijos galo.
+
+Z. Ivinskis pratarmėje nurodytas kaip „Lietuvos istorijos“ dalies autorius, o bibliografijoje minimas kaip istorinių studijų autorius.
 
 ## Laikotarpis ir datos
-- laikotarpis: 1933-1936 m.
+- laikotarpis: 1933-1936 m. leidinio ir bibliografijos kontekstas
 - datos: 1933 m.; 1934 m.; 1936 m.
+- periodas:
+- subperiodiai:
+- date_start: 1933
+- date_end: 1936
 
 ## Darbai
-- `Lietuvos istorijos` dalis apie laikotarpį iki Gediminaičių dinastijos galo.
-- `Saulės — Šiaulių kautynės`.
-- `Geschichte des Bauernstandes in Litauen`.
-- `Senosios Lietuvos ūkis`.
+
+- „Lietuvos istorijos“ dalis iki Gediminaičių dinastijos pabaigos.
+- „Saulės — Šiaulių kautynės ...“.
+- „Geschichte des Bauernstandes in Litauen, bis z. XVI Jh.“.
 
 ## Kontekstas
-Šaltinyje Z. Ivinskio autorystė grindžiama ir pratarmės autoriniu paskirstymu, ir bibliografiniais įrašais.
+
+Šaltinis Z. Ivinskį rodo ir kaip leidinio bendradarbį, ir kaip bibliografijoje cituojamą tyrėją.
+
+## Teiginiai
+- id: t-001
+  teiginys: "Z. Ivinskis parašė „Lietuvos istorijos“ dalį apie laikotarpį iki Gediminaičių dinastijos pabaigos."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Bibliografijoje Z. Ivinskis pateikiamas kaip darbų apie Šiaulių kautynes ir Lietuvos valstiečių luomą autorius."
+  pagrindžia:
+    - q-002
+    - q-003
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pratarmėje Z. Ivinskis nurodytas kaip vienos vadovėlio dalies autorius.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Pratarmė nurodo Z. Ivinskio parašytą dalį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Tuo būdu p. J. Jakštas parašė apie pirmąjį mūsų tautos valstybinio gyvenimo laikotarpį, iki krikščioniškųjų laikų pradžios, dr. Z. Ivinskis — apie sekantį laikotarpį, iki Gediminaičių dinastijos galo; man teko tęsinys — iki nepriklausomosios valstybės galo; p. P. Šležas parašė apie rusų valdymo laikus, o p. P. Klimas — apie nepriklausomosios valstybės atstatymą ir nepriklausomojo gyvenimo laikotarpį.
-  pagrindžia: Autorinį indėlį į vadovėlį.
+    kų pradžios, dr. Z. Ivinskis — apie sekantį laikotarpį, iki Gedi-
+    minaičių dinastijos galo
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Pratarmė tiesiogiai įvardija autorių ir jam priskirtą dalį."
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Bibliografijoje Z. Ivinskis siejamas su darbu apie Šiaulių kautynes.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata: |
+    Z. _Ivinskis,_ Saulės — Šiaulių kautynės ... (Karo Arch., VII ir atsp.)
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su darbo pavadinimu."
+  pagrindžia:
+    - t-002
+- id: q-003
+  santrauka: Bibliografijoje Z. Ivinskis siejamas su darbu apie Lietuvos valstiečių luomą.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata: |
+    Z. _Ivinskis,_ Geschichte des Bauernstandes in Litauen, bis
+    z. XVI Jh. (1933; liet. parafr.: „Lietuvos valstiečių luomo susiformavimas ir
+    raida", Athen., 1931, 1)
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su nurodytais darbais."
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
 ## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Z. Ivinskis, Saulės — Šiaulių kautynės ... (Karo Arch., VII ir atsp.)
-  pagrindžia: Bibliografinį Z. Ivinskio darbą.
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Adels bis 1385 (1932); Z. Ivinskis, Geschichte des Bauernstandes in Litauen, bis z. XVI Jh. (1933; liet. parafr.: „Lietuvos valstiečių luomo susiformavimas ir raida", Athen., 1931, 1); — Lietuvos prekyba su Prūsais, I (1934) ; J. Remeika, Der Handel auf der Memel bis 1430 (T. ir Ž., V). XIII.
-  pagrindžia: Kitus bibliografijoje nurodytus Z. Ivinskio darbus.
+- q-001 pagrindžia jo leidinio dalį.
+- q-002 ir q-003 pagrindžia bibliografijoje minimus darbus.
 
 ## Pastabos

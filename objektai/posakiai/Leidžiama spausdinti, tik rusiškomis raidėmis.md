@@ -1,54 +1,78 @@
 ---
 tipas: posakis
 pavadinimas: "Leidžiama spausdinti, tik rusiškomis raidėmis"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai: []
-aliases:
-  - "Leidžiama spausdinti, tik rusiškomis raidėmis"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - formulė
-  - frazė
-laikotarpis: "lietuvių spaudos draudimo laikotarpis"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+zymos: []
+laikotarpis: "lietuviškosios spaudos draudimo laikotarpis"
 datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
 vaidmenys:
-  - "cenzūros formuluotė"
-dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+  - "cenzūros formulė"
+dalyviai:
+  - "Rusų cenzūra"
+  - "P. Vileišis"
+susije_irasai: []
+patikimumas: ""
 ---
 # Leidžiama spausdinti, tik rusiškomis raidėmis
 
+## Santrauka
+
+„Leidžiama spausdinti, tik rusiškomis raidėmis“ šaltinyje pateikta kaip Rusų cenzūros atsakymas P. Vileišiui spaudos draudimo sąlygomis.
+
 ## Forma
 
-Leidžiama spausdinti, tik rusiškomis raidėmis.
+- „Leidžiama spausdinti, tik rusiškomis raidėmis“
 
 ## Variantai
 
+- Nėra užfiksuotų variantų.
+
 ## Laikotarpis ir datos
 
-- laikotarpis: lietuvių spaudos draudimo laikotarpis
+- laikotarpis: lietuviškosios spaudos draudimo laikotarpis
 - datos:
+- periodas:
+- subperiodiai:
+- date_start:
+- date_end:
 
 ## Kontekstas ir vartojimas
 
-Šaltinis frazę pateikia kaip cenzūros atsakymą P. Vileišiui, kai jis mėgino apeiti lietuviškos spaudos draudimą.
+Šaltinis frazę vartoja aiškindamas lietuvių pastangas apeiti administracinį spaudos draudimą.
 
 ## Reikšmė
 
-Frazė reiškia sąlyginį leidimą spausdinti lietuvišką tekstą tik rusiškomis raidėmis.
+Spausdinti leidžiama tik su privalomu rusišku raidynu.
 
-## Ryšiai
+## Teiginiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: t-001
+  teiginys: "Šaltinyje frazė „Leidžiama spausdinti, tik rusiškomis raidėmis“ pateikta kaip Rusų cenzūros įprastas atsakymas P. Vileišiui, kai spauda buvo uždrausta administraciniu būdu."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
-## Šaltiniai ir įrodymai
+## Reikšmingi paminėjimai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Rusų cenzūros atsakymas dėl spausdinimo rusiškomis raidėmis.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Kai vieną metą Rusų valdžia pasidarė nuolaidesnė, žymiam lietuvių veikėjui P. Vileišiui pasisekė išspausdinti Petrapily keletą lietuviškų moksliškų knygučių. Bet vėliau jam cenzūra paprastai atsakydavo: „Leidžiama spausdinti, tik rusiškomis raidėmis".
-  pagrindžia: Frazės formą, vartojimo situaciją ir reikšmę.
-
-## Pastabos
+    Kai vieną metą Rusų valdžia pasidarė nuolaidesnė,
+    žymiam lietuvių veikėjui P. Vileišiui pasisekė išspausdinti Petrapily keletą lietuviškų moksliškų knygučių. Bet vėliau jam
+    cenzūra paprastai atsakydavo: „Leidžiama spausdinti, tik rusiškomis raidėmis".
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

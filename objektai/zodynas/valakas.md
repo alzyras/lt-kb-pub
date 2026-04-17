@@ -1,68 +1,106 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "valakas"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "valaką"
   - "valakai"
-  - "valako"
-aliases:
-  - "valakas"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - istorinė-sąvoka
-laikotarpis: "XVI a.; valakų reforma"
+  - "istorinė-sąvoka"
+laikotarpis: "XVI amž."
 datos:
-  - "1557 m."
-vaidmenys: []
+  - "XVI amž."
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "žodyno terminas"
+  - "agrarinė sistema, mokesčiai"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Reikšmė aiškinama tik iš valakų sistemos aprašymo."
+susije_irasai: []
+patikimumas: ""
 ---
 # valakas
 
+## Santrauka
+
+Terminas „valakas“ šiame šaltinyje vartojamas reikšme: žemės ploto ir prievolių matas. Šaltinio kontekstas sieja jį su: XVI amž..
+
 ## Žodis ir formos
 
-- Kanoninė forma: `valakas`
-- Šaltinio formos: `valaką`, `valakas`, `valakai`, `valako`
+- Pagrindinė forma: „valakas“.
+- Šaltinyje rasta forma: „valaką“.
+- Šaltinyje rasta forma: „valakas“.
+- Šaltinyje rasta forma: „valakai“.
 
 ## Laikotarpis ir datos
-
-- laikotarpis: XVI a.; valakų reforma
-- datos: 1557 m.
+- laikotarpis: XVI amž.
+- datos:
+  - XVI amž.
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Reikšmė iš konteksto
 
-Šaltinyje `valakas` reiškia valstiečiui skiriamą žemės kiekį ir ūkio vienetą, nuo kurio imami mokesčiai ir einamos pareigos. Šaltinis nurodo, kad valako dydis galėjo skirtis pagal žemės kokybę.
+žemės ploto ir prievolių matas.
 
 ## Vartojimas
 
-Terminas vartojamas valakų sistemos ir valstiečių prievolių aprašyme.
+Vartojimo sritis šaltinyje: agrarinė sistema, mokesčiai.
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Pagal vietinį šaltinio kontekstą terminas „valakas“ reiškia: žemės ploto ir prievolių matas."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Šaltinio kontekstas terminą „valakas“ sieja su laikotarpiu arba data: XVI amž.."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Valakas apibrėžiamas kaip visiems duodamas vienodas žemės kiekis.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „valakas“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Dabar buvo nustatyta visiems duoti po vienodą žemės kiekį — po vadinamąjį valaką.
-  pagrindžia: Termino reikšmę.
-- santrauka: Šaltinis nurodo, kad valako dydis priklausė nuo žemės kokybės.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    „dūmo", t. y. nuo gyvenamųjų namų. Dabar buvo nustatyta
+    visiems duoti po vienodą žemės kiekį — po vadinamąjį valaką.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+    - t-002
+- id: q-002
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „valakas“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Valstiečiams duodamieji valakai nebuvo visiškai lygūs: kur žemė būdavo geresnė, valakai būdavo mažesni, o kur žemė būdavo prastesnė, — didesni. Valakas kai kur buvo 30—33 margų, o kai kur siekė net 44 margus. Su šia reforma valakas pasidarė ūkio vienetas: nuo jo buvo imami mokesčiai, nuo jo buvo einamos ir pareigos.
-  pagrindžia: Valako dydžio kintamumą.
+    Su šia reforma valakas pasidarė ūkio vienetas: nuo jo
+    buvo imami mokesčiai, nuo jo buvo einamos ir pareigos. Pati
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+    - t-002
 
 ## Ryšiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
 ## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Su šia reforma valakas pasidarė ūkio vienetas: nuo jo buvo imami mokesčiai, nuo jo buvo einamos ir pareigos.
-  pagrindžia: Valako kaip mokesčių ir prievolių vieneto reikšmę.
 
 ## Pastabos

@@ -1,64 +1,74 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "elekcija"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "elekcijos"
   - "elekcijoj"
-  - "elekcinis seimas"
-aliases:
-  - "elekcija"
+  - "elekcijų"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - teisinis-terminas
-laikotarpis: "renkamųjų valdovų laikotarpis po 1572 m."
-datos:
-  - "1572-1573 m."
-  - "1573-1574 m."
-vaidmenys: []
+  - "istorinė-sąvoka"
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "žodyno terminas"
+  - "politinė procedūra, monarchijos paveldėjimas"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Reikšmė aiškinama tik iš pirmojo tarpuvaldžio ir valdovų rinkimų aprašymo."
+susije_irasai: []
+patikimumas: ""
 ---
 # elekcija
 
+## Santrauka
+
+Terminas „elekcija“ šiame šaltinyje vartojamas reikšme: valdovo rinkimai.
+
 ## Žodis ir formos
 
-- Kanoninė forma: `elekcija`
-- Šaltinio formos: `elekcija`, `elekcijos`, `elekcijoj`, `elekcinis seimas`
-
-## Laikotarpis ir datos
-
-- laikotarpis: renkamųjų valdovų laikotarpis po 1572 m.
-- datos: 1572-1573 m.; 1573-1574 m.
+- Pagrindinė forma: „elekcija“.
+- Šaltinyje rasta forma: „elekcija“.
+- Šaltinyje rasta forma: „elekcijos“.
+- Šaltinyje rasta forma: „elekcijoj“.
+- Šaltinyje rasta forma: „elekcijų“.
 
 ## Reikšmė iš konteksto
 
-Šaltinyje `elekcija` reiškia karaliaus rinkimą. Pirmojo tarpuvaldžio aprašyme ji siejama su rinkimo vieta, dalyviais ir balsavimo teise.
+valdovo rinkimai.
 
 ## Vartojimas
 
-Terminas vartojamas valdovo rinkimų, elekcinio seimo ir tarpuvaldžio procedūrų kontekste.
+Vartojimo sritis šaltinyje: politinė procedūra, monarchijos paveldėjimas.
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Pagal vietinį šaltinio kontekstą terminas „elekcija“ reiškia: valdovo rinkimai."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Šaltinis paaiškina, kur ir kaip turėjo vykti karaliaus elekcija.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „elekcija“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Taip pat visiems laikams buvo nustatyta karaliaus elekcijos tvarka: buvo nutarta, kad elekcija turinti įvykti lauke tarp Varšuvos ir Volos kaimo; o elekcijoj dalyvauti ir balsuoti galįs kiekvienas bajoras (taigi buvo sakoma, kad į elekciją bajorai vykstą viritim).
-  pagrindžia: Termino reikšmę kaip karaliaus rinkimo procedūrą.
-
-## Ryšiai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Po konvokacinio seimo, jo nustatytu laiku, taip pat primas šaukdavo e1ekcinį seimą, kuriame būdavo sprendžiami visi karaliaus rinkimo formalumai ir surašomos jam pateikiamos sąlygos.
-  pagrindžia: Elekcijos ryšį su elekcinio seimo formalumais.
-
-## Pastabos
+    Taip pat visiems laikams buvo nustatyta karaliaus elekcijos tvar-
+    ka: buvo nutarta, kad elekcija turinti įvykti lauke tarp
+    Varšuvos ir Volos kaimo; o elekcijoj dalyvauti ir
+    balsuoti galįs kiekvienas bajoras (taigi buvo sakoma, kad į elek-
+    ciją bajorai vykstą _viritim)._
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

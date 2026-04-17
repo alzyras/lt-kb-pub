@@ -1,72 +1,85 @@
 ---
 tipas: daiktas
-pavadinimas: "geležiniai šarvai"
-sukurta: "2026-04-16"
+pavadinimas: "Geležiniai šarvai"
+sukurta: "2026-04-17"
 variantai:
-  - "šarvai"
-  - "šarvuotą"
+  - "geležiniai šarvai"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - karo-reikmuo
-  - ginklas
-laikotarpis: "XIII–XIV a."
+  - "karo-reikmuo"
+laikotarpis: "XIII a. ir vėlesni laikai"
 datos: []
+periodas: "viduramziai"
+subperiodiai: []
+date_start: ""
+date_end: ""
 vaidmenys:
-  - "raitelio apsauginė ginkluotė"
+  - "apsauginė ginkluotė"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: ""
 ---
 # Geležiniai šarvai
 
 ## Santrauka
 
-Geležiniai šarvai šaltinyje minimi kaip raitelio apsauga galvai ir krūtinei, kartu su pagrindiniu raitelio ginklu - kardu.
+Geležiniai šarvai šaltinyje minimi kaip raitelio galvai ir krūtinei pridengti skirta ginkluotės dalis.
 
 ## Pavadinimai šaltiniuose
 
-- geležiniai šarvai
-- šarvuotą
+- „geležiniai šarvai“
 
 ## Laikotarpis ir datos
 
-- laikotarpis: XIII–XIV a.
+- laikotarpis: XIII a. ir vėlesni laikai
 - datos:
+- periodas: viduramžiai
+- subperiodiai:
+- date_start:
+- date_end:
 
 ## Kas tai
 
-Tai geležinė apsauginė raitelio ginkluotės dalis, saugojusi galvą ir krūtinę.
+Apsauginė raitelio ginkluotės dalis.
 
 ## Naudojimas
 
-- Naudoti raitelio kūnui pridengti karo žygiuose.
+Šaltinis nurodo, kad geležiniai šarvai dengė galvą ir krūtinę.
 
 ## Kontekstas
 
-- laikotarpis: lietuvių karo žygių ir kovų su ordinu kontekstas.
+- laikotarpis: senovės lietuvių kariškosios kultūros aprašymas
 - susiję žmonės:
 - susiję įvykiai:
 
+## Teiginiai
+
+- id: t-001
+  teiginys: "Šaltinyje geležiniai šarvai nurodyti kaip raitelio galvai ir krūtinei pridengti skirta ginkluotės dalis."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 
-- santrauka: Šaltinis pažymi, kad metalinius daiktus lietuviams tekdavo pirkti arba grobti, todėl ne visi turėjo brangiąją ginkluotę.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Geležiniai šarvai nurodomi kaip raitelio apsauga.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Bet kadangi visus metalinius daiktus lietuviams tekdavo pirktis arba grobtis iš užsienio, tai ne visi jų turėdavo.
-  pagrindžia: Kodėl geležiniai šarvai nebuvo visuotinai prieinama ginkluotė.
+    Pagrindinis raitelio ginklas buvo kardas, galvai ir krūtinei pridengti —
+    geležiniai šarvai.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
 ## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Į karo žygius lietuviai jodavo raiti ir dideliais būriais. Jų ginklai buvo panašūs į visos Europos karių ginklus. Pagrindinis raitelio ginklas buvo kardas, galvai ir krūtinei pridengti — geležiniai šarvai. Arkliai buvo balnojami tokiais pat balnais ir taip pat žabojami, kaip ir Vakaruose.
-  pagrindžia: Geležinius šarvus kaip raitelio galvos ir krūtinės apsaugą.
 
 ## Pastabos

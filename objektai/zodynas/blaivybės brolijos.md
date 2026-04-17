@@ -1,69 +1,98 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "blaivybės brolijos"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
-  - "blaivybės brolijas"
   - "blaivybės broliją"
   - "blaivybę"
-aliases:
-  - "blaivybės brolijos"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - istorinė-sąvoka
-laikotarpis: "1858-1863 m.; draudimas po 1863 m. sukilimo"
-datos:
-  - "1858 m."
-  - "1863 m."
-vaidmenys: []
+  - "istorinė-sąvoka"
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "žodyno terminas"
+  - "socialinis judėjimas, Bažnyčios veikla"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Reikšmė aiškinama tik iš Valančiaus laikų blaivybės sąjūdžio aprašymo."
+susije_irasai: []
+patikimumas: ""
 ---
 # blaivybės brolijos
 
+## Santrauka
+
+Terminas „blaivybės brolijos“ šiame šaltinyje vartojamas reikšme: religinis ir visuomeninis blaivybės sąjūdis.
+
 ## Žodis ir formos
 
-- Kanoninė forma: `blaivybės brolijos`
-- Šaltinio formos: `blaivybės brolijos`, `blaivybės brolijas`, `blaivybės broliją`
+- Pagrindinė forma: „blaivybės brolijos“.
+- Šaltinyje rasta forma: „blaivybės brolijos“.
+- Šaltinyje rasta forma: „blaivybės broliją“.
+- Šaltinyje rasta forma: „blaivybę“.
 
 ## Laikotarpis ir datos
-
-- laikotarpis: 1858-1863 m.; draudimas po 1863 m. sukilimo
-- datos: 1858 m.; 1863 m.
+- laikotarpis: 
+- datos:
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Reikšmė iš konteksto
 
-Šaltinyje `blaivybės brolijos` reiškia vyskupo Valančiaus ir kunigijos skatinamus blaivybės susibūrimus, į kuriuos buvo surašomi žmonės, pasižadėję negerti.
+religinis ir visuomeninis blaivybės sąjūdis.
 
 ## Vartojimas
 
-Terminas vartojamas socialinio ir religinio blaivybės judėjimo, valdžios suvaržymų ir draudimo kontekste.
+Vartojimo sritis šaltinyje: socialinis judėjimas, Bažnyčios veikla.
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Pagal vietinį šaltinio kontekstą terminas „blaivybės brolijos“ reiškia: religinis ir visuomeninis blaivybės sąjūdis."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Šaltinis aprašo brolijų platinimą ir narystės pažadą negerti.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „blaivybės brolijos“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Vyskupo raginama, kunigija tapo uoliausia blaivybės platintoja; ji surašinėjo žmones į blaivybės brolijas. 1858 m. pradėtas darbas greit išsiplėtė, ir daugumas tikinčiųjų pasižadėjo niekad nebegerti.
-  pagrindžia: Brolijų funkciją ir pradžią.
-- santrauka: Šaltinis rodo, kad brolijos buvo laikomos draudžiamomis organizacijomis.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    galos dekanatai). Vyskupo raginama, kunigija tapo uoliausia
+    blaivybės platintoja; ji surašinėjo žmones į blaivybės brolijas.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „blaivybės brolijos“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Blaivybės brolijų suvaržymai. Jau iš pat pradžių Vilniaus generalgubernatorius ir Kauno gubernatorius buvo pradėję kabintis prie vyskupo ir kunigų, drausdami blaivybės brolijas, nes tada buvo uždraustos visos draugijos.
-  pagrindžia: Administracinį brolijų statusą ir suvaržymus.
+    visas nuo rusų valdžios nepriklausomas organizacijas, Muravjo-
+    vas pranešė vyskupui Valančiui, kad kiekvienas kunigas, išdrįsęs
+    organizuoti ar palaikyti blaivybės broliją, būsiąs baudžiamas pir-
+    mą kartą 100, o antrą kartą 200 rublių ir būsiąs atiduotas karo
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
 ## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Norėdamas išnaikinti visas nuo rusų valdžios nepriklausomas organizacijas, Muravjovas pranešė vyskupui Valančiui, kad kiekvienas kunigas, išdrįsęs organizuoti ar palaikyti blaivybės broliją, būsiąs baudžiamas pirmą kartą 100, o antrą kartą 200 rublių ir būsiąs atiduotas karo
-  pagrindžia: Brolijų platinimo uždraudimą.
 
 ## Pastabos

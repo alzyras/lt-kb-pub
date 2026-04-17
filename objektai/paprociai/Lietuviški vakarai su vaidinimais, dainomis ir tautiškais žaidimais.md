@@ -1,76 +1,78 @@
 ---
 tipas: paprotys
 pavadinimas: "Lietuviški vakarai su vaidinimais, dainomis ir tautiškais žaidimais"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "lietuviški vakarai"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos:
   - socialinė-praktika
-laikotarpis: "po 1905 m."
-datos:
-  - "1905 m."
-vaidmenys:
-  - "kalbos ir tautos meilės kėlimo priemonė"
+laikotarpis: "tautiškasis sąjūdis"
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: []
 dalyviai:
   - "lietuviai inteligentai"
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: ""
 ---
 # Lietuviški vakarai su vaidinimais, dainomis ir tautiškais žaidimais
 
 ## Santrauka
 
-Šaltinis po 1905 m. tautos švietimo darbų kontekste mini lietuviškus vakarus su vaidinimais, dainomis ir tautiškais žaidimais kaip priemonę kelti savo kalbos ir tautos meilę.
+Lietuviški vakarai su vaidinimais, dainomis ir tautiškais žaidimais šaltinyje pateikti kaip tautinės savimonės ugdymo praktika, kėlusi kalbos ir tautos meilę.
 
 ## Laikotarpis ir datos
-- laikotarpis: po 1905 m.
-- datos: 1905 m.
+- laikotarpis: tautiškasis sąjūdis
+- datos:
+- periodas:
+- subperiodiai:
+- date_start:
+- date_end:
 
 ## Kas tai
 
-Tai tautinio organizacinio darbo forma, susieta su draugijomis, mokyklomis ir kultūriniu veikimu.
+Kultūriniai lietuviški vakarai su sceniniais ir bendruomeniniais elementais.
 
 ## Atlikimas
-- kas atlieka: šaltinis nurodo Lietuvoje likusius lietuvius inteligentus ir tautiško organizacinio darbo vykdytojus.
-- kada atliekama: po 1905 m. tautinio veikimo pagyvėjimo metu.
-- kaip atliekama: rengiami vakarai su vaidinimais, dainomis ir tautiškais žaidimais.
+- kas atlieka: lietuvių inteligentai ir organizacinio darbo dalyviai
+- kada atliekama: tautiškojo organizacinio darbo metu
+- kaip atliekama: rengiami vakarai su vaidinimais, dainomis ir tautiškais žaidimais
 
 ## Paskirtis
 
-Šaltinis nurodo, kad tokiais vakarais buvo keliama savo kalbos ir tautos meilė, o tauta ruošiama savaimingam gyvenimui ir kultūros kūrimui.
+Kelti savo kalbos ir tautos meilę.
 
 ## Kontekstas
-- regionas: Lietuva.
-- laikotarpis: po 1905 m.
-- susiję žodžiai: viešosios ir slaptosios draugijos, mokyklos, tautiškas organizacinis darbas.
+- regionas:
+- laikotarpis: tautiškasis sąjūdis
+- susiję žodžiai:
 - susiję daiktai:
 
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinis nurodo, kad lietuviškais vakarais su vaidinimais, dainomis ir tautiškais žaidimais buvo keliama savo kalbos ir tautos meilė."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
-
-- santrauka: Šaltinis nurodo, kad Lietuvoje likę inteligentai varė tautišką organizacinį darbą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Lietuviški vakarai aprašyti kaip kalbos ir tautos meilės kėlimo priemonė.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Lietuviai inteligentai Lietuvoje negalėdavo gauti darbo; dažniausiai jiems tekdavo dirbti Rusijoje. Lietuvoje galėdavo likti tik kunigai ir laisvųjų profesijų inteligentai — gydytojai ir advokatai. Todėl lietuviai daugiausia ir rinkdavosi tas profesijas. Likę namie, jie varė tautišką organizacinį darbą. Tuo būdu pamažu visomis viešosiomis ir slaptosiomis draugijomis, savomis mokyklomis, lietuviškais vakarais (su vaidinimais, dainomis ir tautiškais žaidimais) buvo keliama savo kalbos ir tautos meilė.
-  pagrindžia: Dalyvių ir organizacinio konteksto apibūdinimą.
-
-## Ryšiai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    10. Tautos švietimo darbai po 1905 m
-  pagrindžia: Laikotarpio kontekstą.
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tuo būdu pamažu visomis viešosiomis ir slaptosiomis draugijomis, savomis mokyklomis, lietuviškais vakarais (su vaidinimais, dainomis ir tautiškais žaidimais) buvo keliama savo kalbos ir tautos meilė. Tauta buvo ruošiama savaimingam gyvenimui ir savosios kultūros kūrimui. 11.
-  pagrindžia: Lietuviškų vakarų sudėtį ir paskirtį.
-
-## Pastabos
+    Likę namie, jie varė tautišką organizacinį darbą. Tuo būdu pamažu visomis viešosiomis ir slaptosiomis draugijomis, savomis
+    mokyklomis, lietuviškais vakarais (su vaidinimais, dainomis ir
+    tautiškais žaidimais) buvo keliama savo kalbos ir tautos meilė.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

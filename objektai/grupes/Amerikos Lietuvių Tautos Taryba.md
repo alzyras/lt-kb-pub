@@ -1,46 +1,81 @@
 ---
 tipas: grupe
 pavadinimas: "Amerikos Lietuvių Tautos Taryba"
-sukurta: "2026-04-16"
-variantai: []
-aliases: []
+sukurta: "2026-04-17"
+variantai: 
+  - "Amerikos Lietuvių Tautos Taryba"
+aliases: 
+  - "Amerikos Lietuvių Tautos Taryba"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: 
+  - "taryba"
 dalyviai: []
 susije_irasai: []
-patikimumas: "Paremta šaltinio citatomis ir tiesioginiais paminėjimais."
+patikimumas: "vidutinis"
 ---
 # Amerikos Lietuvių Tautos Taryba
 
 ## Santrauka
-Amerikos Lietuvių Tautos Taryba yra taryba. Šaltinyje ši grupė apibūdinama taip: Amerikos lietuvių taryba, sudaryta iš didžiųjų organizacijų atstovų.
+
+Amerikos lietuvių taryba, sudaryta iš didžiųjų organizacijų atstovų.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Amerikos Lietuvių Tautos Taryba`
+
+- „Amerikos Lietuvių Tautos Taryba“
 
 ## Laikotarpis ir datos
 - laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip taryba.
+
+Šaltinyje aiškiai nurodomas grupės tipas: taryba.
 
 ## Sudėtis ir vaidmuo
 - tipas: taryba
-- vaidmuo: Amerikos lietuvių taryba, sudaryta iš didžiųjų organizacijų atstovų.
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Amerikos Lietuvių Tautos Taryba“ apibūdinama taip: Amerikos lietuvių taryba, sudaryta iš didžiųjų organizacijų atstovų."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Amerikos lietuvių taryba, sudaryta iš didžiųjų organizacijų atstovų.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Amerikos Lietuvių Tautos Tarybą
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+    Taip pat buvo nutarta suorganizuoti iš visų didžiųjų organizacijų atstovų Amerikos Lietuvių Tautos Tarybą.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos
-- Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

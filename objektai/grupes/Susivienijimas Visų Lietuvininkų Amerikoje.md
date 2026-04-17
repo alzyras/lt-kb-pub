@@ -1,48 +1,82 @@
 ---
 tipas: grupe
 pavadinimas: "Susivienijimas Visų Lietuvininkų Amerikoje"
-sukurta: "2026-04-16"
-variantai: []
-aliases: []
+sukurta: "2026-04-17"
+variantai: 
+  - "Susivienijimas Visų Lietuvininkų Amerikoje"
+aliases: 
+  - "Susivienijimas Visų Lietuvininkų Amerikoje"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: "1885 m."
+laikotarpis: ""
 datos: 
   - "1885 m."
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: "1885"
+date_end: "1885"
+vaidmenys: 
+  - "susivienijimas"
 dalyviai: []
 susije_irasai: []
-patikimumas: "Paremta šaltinio citatomis ir tiesioginiais paminėjimais."
+patikimumas: "vidutinis"
 ---
 # Susivienijimas Visų Lietuvininkų Amerikoje
 
 ## Santrauka
-Susivienijimas Visų Lietuvininkų Amerikoje yra susivienijimas. Šaltinyje ši grupė apibūdinama taip: Pirmasis dr. Šliūpo rūpesčiu sukurtas Amerikos lietuvių susivienijimas.
+
+Pirmasis dr. Šliūpo rūpesčiu sukurtas Amerikos lietuvių susivienijimas.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Susivienijimas Visų Lietuvininkų Amerikoje`
+
+- „Susivienijimas Visų Lietuvininkų Amerikoje“
 
 ## Laikotarpis ir datos
-- laikotarpis: 1885 m.
-- data: 1885 m.
+- laikotarpis: 
+- datos: 1885 m.
+- periodas:
+- subperiodiai:
+- date_start: 1885
+- date_end: 1885
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip susivienijimas.
+
+Šaltinyje aiškiai nurodomas grupės tipas: susivienijimas.
 
 ## Sudėtis ir vaidmuo
 - tipas: susivienijimas
-- vaidmuo: Pirmasis dr. Šliūpo rūpesčiu sukurtas Amerikos lietuvių susivienijimas.
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Susivienijimas Visų Lietuvininkų Amerikoje“ apibūdinama taip: Pirmasis dr. Šliūpo rūpesčiu sukurtas Amerikos lietuvių susivienijimas."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Pirmasis dr. Šliūpo rūpesčiu sukurtas Amerikos lietuvių susivienijimas.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
     1885 m. jo rūpesčiu buvo įkurtas Susivienijimas Visų Lietuvininkų Amerikoje.
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos
-- Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

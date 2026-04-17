@@ -1,64 +1,79 @@
 ---
 tipas: asmuo
 pavadinimas: "Steponas Batoras"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "Stepono Batoro"
-aliases:
-  - "Steponas Batoras"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - valdovas
-laikotarpis: "XVI a."
-datos:
-  - "1576 m."
-  - "1578 m."
-vaidmenys:
-  - valdovas
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: []
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis Steponą Batorą tiesiogiai sieja su valdovo ir karo su Maskva kontekstu."
+susije_irasai: []
+patikimumas: "aukstas"
 ---
 # Steponas Batoras
 
 ## Santrauka
-Steponas Batoras šiame šaltinyje minimas kaip valdovas ir karo su Maskva veikėjas.
+
+Steponas Batoras šiame šaltinyje pateikiamas kaip valdovas ir karo su Maskva veikėjas.
 
 ## Variantai
+
 - Stepono Batoro
 
 ## Laikotarpis ir datos
-- laikotarpis: XVI a.
-- datos: 1576 m.; 1578 m.
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Vaidmenys
-- valdovas
 
 ## Savybės
-- išvaizda:
-- būdas / charakteris:
-- elgesys:
-- reputacija:
-- gebėjimai:
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
-## Reikšmingi paminėjimai
-- santrauka: Turinys Steponą Batorą sieja su karais prieš Maskvą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Stepono Batoro karai su Maskva
-  pagrindžia: Stepono Batoro politinį ir karinį kontekstą.
+## Teiginiai
+- id: t-001
+  teiginys: "Steponas Batoras šiame šaltinyje pateikiamas kaip valdovas ir karo su Maskva veikėjas."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
-- santrauka: Šaltinis Steponą Batorą apibūdina kaip reikšmingą Lietuvos valdovą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Citata pagrindžia asmens veiksmą šaltinyje.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Stepono Batoro valdymo reikšmė ir jo mirtis Steponas Batoras buvo paskutinysis garbingas Lietuvos valdovas.
-  pagrindžia: Šaltinio vertinimą apie valdovo reikšmę.
+    Steponas Batoras turėjo 43 m. amžiaus.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos

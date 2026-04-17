@@ -1,72 +1,72 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "liberum veto"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "veto"
-  - "laisvojo pasipriešinimo teisė"
-aliases:
-  - "liberum veto"
-  - "laisvojo pasipriešinimo teisė"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - teisinis-terminas
-laikotarpis: "po Liublino unijos; XVII-XVIII a."
-datos:
-  - "1652 m."
-vaidmenys: []
+  - "istorinė-sąvoka"
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "žodyno terminas"
+  - "seimo procedūra, politinė teisė"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/posakiai/liberum veto|liberum veto]]"
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Reikšmė aiškinama tik iš šaltinio seimų procedūros aprašymo."
+susije_irasai: []
+patikimumas: ""
 ---
 # liberum veto
 
+## Santrauka
+
+Terminas „liberum veto“ šiame šaltinyje vartojamas reikšme: vieno atstovo teisė sustabdyti seimo sprendimą.
+
 ## Žodis ir formos
 
-- Kanoninė forma: `liberum veto`
-- Šaltinio formos: `liberum veto`, `veto`, `laisvojo pasipriešinimo teisė`
-
-## Laikotarpis ir datos
-
-- laikotarpis: po Liublino unijos; XVII-XVIII a.
-- datos: 1652 m.
+- Pagrindinė forma: „liberum veto“.
+- Šaltinyje rasta forma: „liberum veto“.
+- Šaltinyje rasta forma: „veto“.
 
 ## Reikšmė iš konteksto
 
-Šaltinyje `liberum veto` reiškia laisvojo pasipriešinimo teisę: vieno ar kelių atstovų protestas galėdavo sustabdyti seimo nutarimą ir išardyti seimą.
+vieno atstovo teisė sustabdyti seimo sprendimą.
 
 ## Vartojimas
 
-Terminas vartojamas seimų vienbalsiškumo, bajoriškųjų laisvių ir valstybės politinės krizės kontekste.
+Vartojimo sritis šaltinyje: seimo procedūra, politinė teisė.
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Pagal vietinį šaltinio kontekstą terminas „liberum veto“ reiškia: vieno atstovo teisė sustabdyti seimo sprendimą."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Šaltinis pateikia tiesioginį termino paaiškinimą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „liberum veto“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Tatai vadinosi liberum veto, t. y. laisvojo pasipriešinimo teisė. Dėl jos daugybė seimų turėjo išsiskirstyti,
+    tarimą, ir visas seimas turėdavo nusileisti. Pasipriešinimo teisė
+    visų buvo labai branginama, nes visi savo laisvės pagrindu laikė
+    šį dėsnį: „Be manęs nieko negali būti sprendžiama apie mane"
+    _(nihil de те, sine те)._ Tatai vadinosi _liberum veto,_ t. y. laisvojo
+    pasipriešinimo teisė. Dėl jos daugybė seimų turėjo išsiskirstyti,
 
     nieko nenuveikę.
-  pagrindžia: Termino reikšmę.
-- santrauka: Konfederaciniai seimai pateikiami kaip būdas apeiti veto teisę.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Atstovai į juos būdavo renkami paprasta tvarka, tik suvažiavę, pasiūlius karaliui ar kam nors kitam, jie pasirašydavo tam tikrą pasižadėjimo aktą, kad numatomus klausimus spręsią balsų dauguma. Tuo būdu šitokiam seime veto teisė jau nebeveikė.
-  pagrindžia: Veto teisės praktinę reikšmę seimo darbui.
-
-## Ryšiai
-
-- susijęs posakio įrašas: [[objektai/posakiai/liberum veto|liberum veto]]
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Vazų karaliavimo laikai yra netvarkos įsigalėjimo laikotarpis: seimai kaskart vis dažniau ėmė irti, liberum veto įėjo į kasdieninę gyvenimo praktiką. Dažnai girdime, kad liberum veto teise pirmą kartą pasinaudojęs ir seimą išardęs Upytės atstovas Čičinskas (Sicinskis) 1652 m. Tatai netiesa: daug kartų seimai iširo ir prieš 1652 m. Nuo 1536 m., kada iširo pirmasis Lenkijos seimas, iki 1569 m. Liublino seimo, kada prasidėjo bendrieji lietuvių lenkų seimai, — Lenkijoje iš viso iširo 7 seimai.
-  pagrindžia: Termino įsitvirtinimą politinėje praktikoje.
-
-## Pastabos
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

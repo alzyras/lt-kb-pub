@@ -1,69 +1,119 @@
 ---
 tipas: autorius
 pavadinimas: "Ig. Jonynas"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
-  - "Įg. Jonynas"
-  - "įg. Jonynas"
-aliases:
   - "Ig. Jonynas"
+  - "Įg. Jonynas"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - autorius
-laikotarpis: "1930-1936 m."
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: "1930-1933 m. bibliografijos kontekstas"
 datos:
   - "1930 m."
   - "1932 m."
   - "1933 m."
-  - "1936 m."
+periodas: ""
+subperiodiai: []
+date_start: "1930"
+date_end: "1933"
 vaidmenys:
   - autorius
-  - istorikas
+  - tyrėjas
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Bibliografija tiesiogiai nurodo Ig. Jonyno darbus; šaltinyje yra OCR/inicialo variantų."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # Ig. Jonynas
 
 ## Santrauka
-Ig. Jonynas šiame šaltinyje minimas kaip Kęstučio, Vytauto šeimos, Lietuvos statuto ir Mažosios Lietuvos istorijos tyrėjas.
+
+Ig. Jonynas bibliografijoje minimas kaip Kęstučio, Lietuvos Statuto ir Mažosios Lietuvos istorijos temų autorius.
 
 ## Laikotarpis ir datos
-- laikotarpis: 1930-1936 m.
-- datos: 1930 m.; 1932 m.; 1933 m.; 1936 m.
+- laikotarpis: 1930-1933 m. bibliografijos kontekstas
+- datos: 1930 m.; 1932 m.; 1933 m.
+- periodas:
+- subperiodiai:
+- date_start: 1930
+- date_end: 1933
 
 ## Darbai
-- `Kęstutis`.
-- `D. L. Kun. Kęstutis`.
-- `Vytauto šeima`.
-- `Jogaila`.
-- `Pirmasis Lietuvos statutas`.
-- `Iš Mažosios Lietuvos istorijos`.
+
+- „Kęstutis“.
+- „D. L. Kun. Kęstutis“.
+- „Pirmasis Lietuvos statutas“.
+- „Iš Mažosios Lietuvos istorijos“.
 
 ## Kontekstas
-Šaltinyje autoriaus inicialas pateikiamas keliomis formomis, todėl variantai įrašyti atskirai, bet darbai deduplikuoti vienoje pastaboje.
+
+Autorius minimas keliuose bibliografijos skyriuose: prie Algirdo ir Kęstučio laikų, valstybės santvarkos bei Mažosios Lietuvos istorijos.
+
+## Teiginiai
+- id: t-001
+  teiginys: "Bibliografijoje Ig. Jonynas pateikiamas kaip darbų apie Kęstutį autorius."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Bibliografijoje Ig. Jonynas pateikiamas kaip darbo apie pirmąjį Lietuvos Statutą autorius."
+  pagrindžia:
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-003
+  teiginys: "Bibliografijoje Ig. Jonynas pateikiamas kaip darbo apie Mažosios Lietuvos istoriją autorius."
+  pagrindžia:
+    - q-003
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Algirdo ir Kęstučio laikų bibliografijoje pateikti Ig. Jonyno darbai apie Kęstutį.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Bibliografijoje Ig. Jonynas siejamas su darbais apie Kęstutį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    1909); Įg. Jonynas, Kęstutis (Liet. Aidas, 1932); — D. L. Kun. Kęstutis (1932); A. Kučinskas, Kęstučio mirtis (At., III); P. Šležas, Kęstučio šeima (Mūsų Žin., 1933); K. Stadnicki, Bracia Wł. Jagiełły (1870).
-  pagrindžia: Autoriaus ir darbų ryšį.
+    _Įg. Jonynas,_ Kęstutis (Liet. Aidas, 1932); — D. L. Kun. Kęstutis (1932)
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su darbais."
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Bibliografijoje Ig. Jonynas siejamas su darbu apie pirmąjį Lietuvos Statutą.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata: |
+    _Ig. Jonynas,_ Pirmasis Lietuvos statutas (Vairas, 1930, Nr. 2)
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su nurodytu darbu."
+  pagrindžia:
+    - t-002
+- id: q-003
+  santrauka: Bibliografijoje Ig. Jonynas siejamas su Mažosios Lietuvos istorijos darbu.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata: |
+    **_Ig. Jonynas,_** **Iš Mažosios Lietuvos istorijos (Vasario 16-oji, 1933); —
+    Klaipėda 1923—1933; medžiaga paskaitoms (1933, L. Saulių S. leid.);**
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su Mažosios Lietuvos istorijos darbu."
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
 ## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    A. Beršadskij, Litovskije evrei (1883); A. Janulaitis, Žydai Lietuvoje (1923); M. F. Vladimirskij-Budanov, Niemeckoje pravo v Polšče i Litvie (1866); F. I. Leontovii, Oblasnoe upravlenie v v. kn. lit. do i poslie Liublinskoj unii (Jurid. zapiski, 1908, 1909); Ig. Jonynas, Pirmasis Lietuvos statutas (Vairas, 1930, Nr. 2); Księga pamiątkowa ...
-  pagrindžia: Ig. Jonyno darbą apie Lietuvos statutą.
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Litauen (1927); Ig. Jonynas, Iš Mažosios Lietuvos istorijos (Vasario 16-oji, 1933); — Klaipėda 1923—1933; medžiaga paskaitoms (1933, L. Saulių S. leid.); V. Vileišis, Tautiniai santykiai Maž.
-  pagrindžia: Ig. Jonyno darbus apie Mažąją Lietuvą ir Klaipėdą.
+- q-001 pagrindžia Kęstučio temų autorystę.
+- q-002 pagrindžia Lietuvos Statuto temą.
+- q-003 pagrindžia Mažosios Lietuvos istorijos temą.
 
 ## Pastabos

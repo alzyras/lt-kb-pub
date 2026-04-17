@@ -1,91 +1,86 @@
 ---
 tipas: paprotys
 pavadinimas: "Krikšto dovana balti vilnoniai marškiniai"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "krikšto dovana"
-  - "baltų vilnonių marškinių dalijimas"
+  - "balti vilnoniai marškiniai"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos:
   - krikštas
-  - religinė-praktika
-laikotarpis: "Lietuvos krikštas (1387 m.)"
+  - ritualas
+laikotarpis: "Lietuvos krikštas"
 datos:
   - "1387 m."
+periodas: ""
+subperiodiai: []
+date_start: "1387"
+date_end: "1387"
 vaidmenys:
-  - "[[Jogaila]]: jo vardu dalinta krikšto dovana"
+  - "krikšto dovana"
 dalyviai:
-  - "[[Jogaila]]"
+  - "Jogaila"
 susije_irasai:
-  - "[[Lietuvos krikštas]]"
-  - "[[Marškiniai]]"
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+  - "[[objektai/daiktai/Marškiniai]]"
+patikimumas: ""
 ---
 # Krikšto dovana balti vilnoniai marškiniai
 
 ## Santrauka
 
-Lietuvos krikšto aprašyme šaltinis mini praktiką, kad Jogailos vardu krikštijamiesiems buvo dalinami balti vilnoniai marškiniai, simbolizuojantys nekaltąją sielą.
+Lietuvos krikšto metu Jogailos vardu kaip krikšto dovana buvo dalijami balti vilnoniai marškiniai, simbolizavę nekaltąją sielą.
 
 ## Laikotarpis ir datos
-- laikotarpis: Lietuvos krikštas (1387 m.).
+- laikotarpis: Lietuvos krikštas
 - datos: 1387 m.
+- periodas:
+- subperiodiai:
+- date_start: 1387
+- date_end: 1387
 
 ## Kas tai
 
-Tai krikšto metu dalinta simbolinė dovana.
+Krikšto metu dalinta simbolinė dovana.
 
 ## Atlikimas
-- kas atlieka: dalijama Jogailos vardu.
-- kada atliekama: Lietuvos krikšto metu.
-- kaip atliekama: krikštijamiesiems dalijami balti vilnoniai marškiniai.
+- kas atlieka: Jogailos vardu
+- kada atliekama: Lietuvos krikšto metu
+- kaip atliekama: dalinami balti vilnoniai marškiniai
 
 ## Paskirtis
 
-Šaltinis nurodo simbolinę reikšmę: marškiniai simbolizavo nekaltąją sielą.
+Marškiniai simbolizavo nekaltąją sielą.
 
 ## Kontekstas
-- regionas: Lietuva.
-- laikotarpis: Lietuvos krikštas.
-- susiję žodžiai: krikštas, nekaltoji siela.
-- susiję daiktai: [[Marškiniai]].
+- regionas: Lietuva
+- laikotarpis: Lietuvos krikštas
+- susiję žodžiai:
+- susiję daiktai: [[objektai/daiktai/Marškiniai]]
+
+## Teiginiai
+- id: t-001
+  teiginys: "Lietuvos krikšto metu Jogailos vardu kaip krikšto dovana buvo dalinami balti vilnoniai marškiniai, simbolizavę nekaltąją sielą."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- santrauka: Šaltinis pažymi, kad krikštas buvo atliekamas būriais ir žmonėms suteikiami vardai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Balti vilnoniai marškiniai aprašyti kaip Jogailos vardu dalinta krikšto dovana.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Krikštui sušaukdavo apylinkės žmones į vieną vietą; kad greičiau eitų krikštas, žmones
-
-    krikštijo būriais. Vienas būrys buvo krikštijamas vienu, kitas kitu vardu ir t. t.
-  pagrindžia: Krikšto dovanos dalijimo apeiginį kontekstą.
-
-- santrauka: Šaltinis paaiškina, kodėl dovana galėjo skatinti krikštytis.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Kadangi tais laikais lietuviai paprastai nešiodavo lininius apdarus, tai daug kas ėjo krikštytis jau vien dėl marškinių.
-  pagrindžia: Marškinių materialinę reikšmę krikšto aprašyme.
+    Kaip krikšto dovana, Jogailos vardu buvo
+    dalinami balti vilnoniai marškiniai, simbolizuoją nekaltąją sielą.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-- asmuo: [[Jogaila]]
-- įvykis: [[Lietuvos krikštas]]
-- daiktas: [[Marškiniai]]
-
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    4. Lietuvos krikštas (1387 m.)
-  pagrindžia: Laikotarpį ir datą.
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Kaip krikšto dovana, Jogailos vardu buvo dalinami balti vilnoniai marškiniai, simbolizuoją nekaltąją sielą.
-  pagrindžia: Krikšto dovanos pavadinimą, atlikėją Jogailos vardu ir simbolinę reikšmę.
-
-## Pastabos
+Ši praktika susijusi su daikto pastaba [[objektai/daiktai/Marškiniai]].

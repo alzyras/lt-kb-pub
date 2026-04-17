@@ -1,47 +1,108 @@
 ---
 tipas: grupe
 pavadinimas: "Habsburgai"
-sukurta: "2026-04-16"
-variantai:
+sukurta: "2026-04-17"
+variantai: 
   - "Austrų Habsburgai"
   - "Habsburgų"
-aliases:
+aliases: 
   - "Austrų Habsburgai"
   - "Habsburgų"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
-vaidmenys: []
+laikotarpis: "amžiaus"
+datos: 
+  - "amžiaus"
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: 
+  - "dinastija"
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "vidutinis"
 ---
 # Habsburgai
 
 ## Santrauka
-Habsburgai yra dinastija. Šaltinyje ši grupė apibūdinama kaip austrijos valdovų dinastija, su kuria lietuvių ir lenkų valdovai nuolat derėjosi.
+
+Austrijos valdovų dinastija, su kuria lietuvių ir lenkų valdovai nuolat derėjosi.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Habsburgai`
-- Variacijos arba alternatyvios formos: `Austrų Habsburgai`, `Habsburgų`
+
+- „Habsburgai“
+- „Austrų Habsburgai“
+- „Habsburgų“
+
+## Laikotarpis ir datos
+- laikotarpis: amžiaus
+- datos: amžiaus
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip dinastija.
+
+Šaltinyje aiškiai nurodomas grupės tipas: dinastija.
 
 ## Sudėtis ir vaidmuo
 - tipas: dinastija
-- vaidmuo: austrijos valdovų dinastija, su kuria lietuvių ir lenkų valdovai nuolat derėjosi
+- laikotarpis: amžiaus
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Habsburgai“ apibūdinama taip: Austrijos valdovų dinastija, su kuria lietuvių ir lenkų valdovai nuolat derėjosi."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Šaltinio ištrauka pagrindžia grupės „Habsburgai“ paminėjimą arba vaidmenį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Habsburgais dėl Vengrijos ir Čekijos
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-- santrauka: Papildomas tiesioginis paminėjimas iš to paties šaltinio.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    išsprendė sunkų klausimą savo santykių su vokiečiais, o vėliau, jos
+    padedami, varė didelės valstybės politiką. Be to, Lenkijai Jogaila paliko savo dinastiją, kuri, pradedant nuo Kazimiero, valdė ją kartu su
+    Lietuva dar beveik pusantro amžiaus. Tos dinastijos valdovų
+    valdoma, Lenkija galėjo stoti į varžytynes su galingais imperatoriais
+
+    Habsburgais dėl Vengrijos ir Čekijos. Žodžiu, Jogailos dinastijos
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Šaltinio ištrauka pagrindžia grupės „Habsburgai“ paminėjimą arba vaidmenį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Kadangi jo didieji priešai buvo susirišę su Prancūzija, tai jis pats tuojau užmezgė ryšius su Austrų Habsburgais ir iš jų šeimos net vedė žmoną.
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+    Naujajam karaliui, kuris neturėjo nei turtų nei plačių ryšių,
+    kurį visi didikai laikė už save mažesniu ir tapusiu karalium tik
+    per nesusipratimą, — buvo nelengva karaliauti. Prancūzijos kandidato partija tuojau pradėjo ruoštis jį pašalinti. Jo parama
+    buvo tik Pacų vadovaujamoji Lietuva ir Lenkijos bajorų partija. Kadangi jo didieji priešai buvo susirišę su Prancūzija, tai
+    jis pats tuojau užmezgė ryšius su Austrų Habsburgais ir iš jų
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
+- q-002 pagrindžia t-001.
+
+## Pastabos

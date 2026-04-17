@@ -1,78 +1,86 @@
 ---
 tipas: daiktas
-pavadinimas: "kryžius"
-sukurta: "2026-04-16"
+pavadinimas: "Kryžius"
+sukurta: "2026-04-17"
 variantai:
-  - "kryžių"
   - "kryžius"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - simbolis
-laikotarpis: "XIX a."
+  - "simbolis"
+laikotarpis: ""
 datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
 vaidmenys:
-  - "religinis ir atminimo ženklas"
+  - "religinis ženklas"
+  - "padėkos ženklas"
 dalyviai: []
-susije_irasai:
-  - "[[Blaivybės brolijos ir jų uždraudimas]]"
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: ""
 ---
 # Kryžius
 
 ## Santrauka
 
-Kryžius šaltinyje minimas kaip religinis prašymo ar padėkos ženklas Kryžių Kalne ir kaip blaivybės judėjimo atminimo ženklas.
+Kryžius šaltinyje minimas kaip žmonių statomas prašymo Dievui arba padėkos ženklas.
 
 ## Pavadinimai šaltiniuose
 
-- kryžius
-- kryžių
+- „kryžius“
 
 ## Laikotarpis ir datos
 
-- laikotarpis: XIX a.
+- laikotarpis:
 - datos:
+- periodas:
+- subperiodiai:
+- date_start:
+- date_end:
 
 ## Kas tai
 
-Tai religinis ir atminimo ženklas, statomas šventoje vietoje arba blaivybės judėjimui paminėti.
+Religinis ir atminimo ženklas.
 
 ## Naudojimas
 
-- Statomas norint ko nors išprašyti iš Dievo arba Jam padėkoti.
-- Statomas blaivybei paminėti.
+Šaltinis nurodo, kad kryžiai statomi ko nors išprašyti iš Dievo arba reiškiant Jam padėką.
 
 ## Kontekstas
 
-- laikotarpis: Kryžių Kalno ir vyskupo Valančiaus blaivybės sąjūdžio kontekstai.
+- laikotarpis:
 - susiję žmonės:
-- susiję įvykiai: [[Blaivybės brolijos ir jų uždraudimas]]
+- susiję įvykiai:
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Šaltinyje nurodoma, kad žmonės stato kryžius norėdami ko išprašyti iš Dievo arba reikšdami Jam padėką."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Kryžiai minimi ir represinio smurto aprašyme, kai buvo laužomi kryžiai, paveikslai ir vėliavos.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Kryžius apibūdinamas kaip prašymo ir padėkos ženklas.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Atvykę žandarai su kazokais juos visus išvaikė, bažnyčios altorius išgriovė, kryžius sulaužė, paveikslus ir vėliavas sukapojo, sugadino net trobesius, kad nebegalima būtų juose gyventi.
-  pagrindžia: Kryžių kaip materialių religinių ženklų pažeidžiamumą konflikto metu.
+    žmonės stato ant jo kryžius, norėdami ko išprašyti iš Dievo arba
+    reikšdami Jam padėką.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-- įvykis: [[Blaivybės brolijos ir jų uždraudimas]]
-
 ## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Piliakalnis — Kryžių Kalnas Jurgaičių kaime, Meškučių valsč., Šiaulių apskr. Piliakalnį laikydami šventa vieta, žmonės stato ant jo kryžius, norėdami ko išprašyti iš Dievo arba reikšdami Jam padėką.
-  pagrindžia: Kryžius kaip maldos ir padėkos ženklus Kryžių Kalne.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Patys parapijonys daug kur ėmė bausti apylinkės girtuoklius, o blaivybei paminėti statė kryžius ir paminklus.
-  pagrindžia: Kryžių statymą blaivybei paminėti.
 
 ## Pastabos
