@@ -1,6 +1,6 @@
 import { FullSlug, isFolderPath, resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
-import { getDate } from "./Date"
+import { Date as QuartzDate, getDate } from "./Date"
 import { QuartzComponent, QuartzComponentProps } from "./types"
 import { GlobalConfiguration } from "../cfg"
 
@@ -69,10 +69,14 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
       {list.map((page) => {
         const title = page.frontmatter?.title
         const tags = page.frontmatter?.tags ?? []
+        const pageDate = getDate(cfg, page)
 
         return (
           <li class="section-li">
             <div class="section">
+              <div class="meta-box">
+                {pageDate && <QuartzDate date={pageDate} locale={cfg.locale} />}
+              </div>
               <div class="desc">
                 <h3 class="title-row">
                   <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
