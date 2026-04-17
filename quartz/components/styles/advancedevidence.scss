@@ -1,0 +1,42 @@
+.advanced-evidence-toggle {
+  cursor: pointer;
+  padding: 0;
+  position: relative;
+  background: none;
+  border: none;
+  width: 30px;
+  height: 32px;
+  margin: 0;
+  text-align: center;
+  flex-shrink: 0;
+
+  & .advanced-evidence-toggle-label {
+    position: absolute;
+    top: calc(50% - 8px);
+    left: 0;
+    width: 100%;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    color: var(--darkgray);
+    text-transform: uppercase;
+  }
+}
+
+.advanced-evidence-line {
+  font-size: 0.85rem;
+  color: var(--gray);
+  line-height: 1.35;
+}
+
+:root[advanced-evidence="off"] {
+  .advanced-evidence-line {
+    display: none !important;
+  }
+}
+
+:root[advanced-evidence="on"] {
+  .advanced-evidence-line {
+    display: block;
+  }
+}
