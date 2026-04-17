@@ -11,20 +11,39 @@ li.section-li {
 
   & > .section {
     display: grid;
-    grid-template-columns: fit-content(8em) 1fr;
+    grid-template-columns: 8rem minmax(0, 1fr);
+    align-items: start;
+    column-gap: 0.9rem;
 
     & > .desc > h3 > a {
       background-color: transparent;
     }
 
-    & .meta {
-      margin: 0 1em 0 0;
-      opacity: 0.6;
+    & .meta-box {
+      min-height: 1.4rem;
+      color: var(--gray);
+      font-size: 0.88rem;
+      line-height: 1.2;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      padding-top: 0.12rem;
     }
   }
 }
 
 // modifications in popover context
 .popover .section {
-  grid-template-columns: fit-content(8em) 1fr !important;
+  grid-template-columns: 8rem minmax(0, 1fr) !important;
+}
+
+@media all and ($mobile) {
+  li.section-li > .section {
+    grid-template-columns: 6.75rem minmax(0, 1fr);
+    column-gap: 0.65rem;
+  }
+
+  li.section-li > .section .meta-box {
+    font-size: 0.8rem;
+  }
 }

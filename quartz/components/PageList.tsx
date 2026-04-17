@@ -1,9 +1,8 @@
 import { FullSlug, isFolderPath, resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
-import { getDate } from "./Date"
+import { Date as QuartzDate, getDate } from "./Date"
 import { QuartzComponent, QuartzComponentProps } from "./types"
 import { GlobalConfiguration } from "../cfg"
-import { visibleHistoricalPeriod } from "../util/historicalPeriod"
 
 export type SortFn = (f1: QuartzPluginData, f2: QuartzPluginData) => number
 
@@ -70,32 +69,34 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
       {list.map((page) => {
         const title = page.frontmatter?.title
         const tags = page.frontmatter?.tags ?? []
-        const historicalPeriod = visibleHistoricalPeriod(page.frontmatter?.laikotarpis)
+        const pageDate = getDate(cfg, page)
 
         return (
           <li class="section-li">
             <div class="section">
-              {historicalPeriod && <p class="meta">{historicalPeriod}</p>}
+              <div class="meta-box">
+                {pageDate && <QuartzDate date={pageDate} locale={cfg.locale} />}
+              </div>
               <div class="desc">
                 <h3 class="title-row">
                   <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
                     {title}
                   </a>
-                  {tags.length > 0 && (
-                    <ul class="tags inline-tags">
-                      {tags.map((tag) => (
-                        <li>
-                          <a
-                            class="internal tag-link"
-                            href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
-                          >
-                            {tag}
-                          </a>
-                        </li>
-                      ))}
-                    </ul>
-                  )}
                 </h3>
+                {tags.length > 0 && (
+                  <ul class="tags inline-tags">
+                    {tags.map((tag) => (
+                      <li>
+                        <a
+                          class="internal tag-link"
+                          href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
+                        >
+                          {tag}
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                )}
               </div>
             </div>
           </li>
@@ -111,23 +112,20 @@ PageList.css = `
 }
 
 .section .title-row {
-  display: flex;
-  align-items: baseline;
-  gap: 0.5rem;
-  flex-wrap: wrap;
+  display: block;
 }
 
 .section .inline-tags {
-  display: inline-flex;
+  display: flex;
   flex-wrap: wrap;
   gap: 0.35rem;
-  margin: 0;
+  margin: 0.35rem 0 0;
   padding: 0;
   list-style: none;
 }
 
 .section .inline-tags .tag-link {
-  font-size: 0.78rem;
+  font-size: 0.72rem;
   line-height: 1.2;
   opacity: 0.9;
 }
