@@ -11,20 +11,51 @@ li.section-li {
 
   & > .section {
     display: grid;
-    grid-template-columns: fit-content(8em) 1fr;
+    grid-template-columns: 9.5rem 1fr;
+    align-items: start;
+    column-gap: 0.9rem;
 
     & > .desc > h3 > a {
       background-color: transparent;
     }
 
+    & .meta-box {
+      min-height: 1.6rem;
+      max-width: 9.5rem;
+      display: flex;
+      align-items: flex-start;
+    }
+
     & .meta {
-      margin: 0 1em 0 0;
+      margin: 0;
       opacity: 0.6;
+      font-size: 0.92rem;
+      line-height: 1.25;
+      word-break: break-word;
+      overflow-wrap: anywhere;
     }
   }
 }
 
 // modifications in popover context
 .popover .section {
-  grid-template-columns: fit-content(8em) 1fr !important;
+  grid-template-columns: 9.5rem 1fr !important;
+  column-gap: 0.75rem;
+}
+
+@media all and ($mobile) {
+  li.section-li > .section {
+    grid-template-columns: 7.5rem 1fr;
+    column-gap: 0.65rem;
+  }
+
+  li.section-li > .section .meta-box {
+    max-width: 7.5rem;
+    min-height: 1.4rem;
+  }
+
+  li.section-li > .section .meta {
+    font-size: 0.82rem;
+    line-height: 1.2;
+  }
 }
