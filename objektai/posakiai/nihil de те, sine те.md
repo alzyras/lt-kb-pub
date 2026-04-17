@@ -1,59 +1,81 @@
 ---
 tipas: posakis
 pavadinimas: "nihil de те, sine те"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
+  - "nihil de me, sine me"
   - "Be manęs nieko negali būti sprendžiama apie mane"
-aliases:
-  - "nihil de те, sine те"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - formulė
-laikotarpis: "po Liublino unijos"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+zymos: []
+laikotarpis: "Lietuvos ir Lenkijos Respublikos seimų praktika"
 datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
 vaidmenys:
-  - "laisvojo pasipriešinimo dėsnio formulė"
-dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą; lotyniškoje formoje palikti šaltinyje matomi OCR ženklai."
+  - "pasipriešinimo teisės dėsnis"
+dalyviai:
+  - "bajorija"
+susije_irasai: []
+patikimumas: ""
 ---
 # nihil de те, sine те
 
+## Santrauka
+
+„Nihil de те, sine те“ šaltinyje pateikiama kaip pasipriešinimo teisės dėsnis, lietuviškai aiškinamas fraze „Be manęs nieko negali būti sprendžiama apie mane“.
+
 ## Forma
 
-nihil de те, sine те.
+- nihil de те, sine те
 
 ## Variantai
 
-- Be manęs nieko negali būti sprendžiama apie mane
+- nihil de me, sine me
+- „Be manęs nieko negali būti sprendžiama apie mane“
 
 ## Laikotarpis ir datos
 
-- laikotarpis: po Liublino unijos
+- laikotarpis: Lietuvos ir Lenkijos Respublikos seimų praktika
 - datos:
+- periodas:
+- subperiodiai:
+- date_start:
+- date_end:
 
 ## Kontekstas ir vartojimas
 
-Šaltinis šią formulę pateikia kaip bajoriško pasipriešinimo teisės dėsnį, siejamą su liberum veto.
+Šaltinyje lotyniška formulė pateikiama aiškinant bajorijos brangintą pasipriešinimo teisę ir „liberum veto“.
 
 ## Reikšmė
 
-Šaltinyje formulė reiškia, kad sprendimas apie žmogų neturi būti daromas be jo paties.
+Sprendimas apie asmenį neturi būti daromas be jo paties.
 
-## Ryšiai
+## Teiginiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-- susijęs posakis: [[liberum veto]]
+- id: t-001
+  teiginys: "Šaltinyje „nihil de те, sine те“ pateikiama kaip dėsnis, lietuviškai aiškinamas žodžiais „Be manęs nieko negali būti sprendžiama apie mane“ ir siejamas su „liberum veto“."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
-## Šaltiniai ir įrodymai
+## Reikšmingi paminėjimai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Pateikiamas pasipriešinimo teisės dėsnis ir jo lotyniška forma.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Pasipriešinimo teisė visų buvo labai branginama, nes visi savo laisvės pagrindu laikė šį dėsnį: „Be manęs nieko negali būti sprendžiama apie mane" (nihil de те, sine те). Tatai vadinosi liberum veto, t. y. laisvojo pasipriešinimo teisė.
-  pagrindžia: Formą, lietuvišką variantą ir ryšį su liberum veto.
-
-## Pastabos
-
-- Lotyniška forma palikta tokia, kokia matoma šaltinyje.
+    visų buvo labai branginama, nes visi savo laisvės pagrindu laikė
+    šį dėsnį: „Be manęs nieko negali būti sprendžiama apie mane"
+    (nihil de те, sine те). Tatai vadinosi liberum veto, t. y. laisvojo
+    pasipriešinimo teisė. Dėl jos daugybė seimų turėjo išsiskirstyti,
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

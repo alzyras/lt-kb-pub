@@ -1,66 +1,83 @@
 ---
 tipas: asmuo
 pavadinimas: "Mindaugas"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "Mindaugo"
-aliases:
-  - "Mindaugas"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - valdovas
-laikotarpis: "XIII a."
-datos:
-  - "1251-1253 m."
-  - "1263 m."
+  - "valdovas"
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
 vaidmenys:
-  - Lietuvos valdovas
-  - valstybės kūrėjas
+  - "valstybės kūrėjas"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis tiesiogiai sieja Mindaugą su Lietuvos valstybės kūrimu ir skiria jam atskirus skyrius."
+susije_irasai: []
+patikimumas: "aukstas"
 ---
 # Mindaugas
 
 ## Santrauka
-Mindaugas šiame šaltinyje pristatomas kaip Lietuvos valstybės kūrimo figūra, su kuria siejami kovų, krikšto, karūnavimo ir nužudymo skyriai.
+
+Šaltinyje nurodoma, kad Mindaugas pradėjo kurti Lietuvos valstybę.
 
 ## Variantai
+
 - Mindaugo
 
 ## Laikotarpis ir datos
-- laikotarpis: XIII a.
-- datos: 1251-1253 m.; 1263 m.
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Vaidmenys
-- Lietuvos valdovas
+
 - valstybės kūrėjas
 
 ## Savybės
-- išvaizda:
-- būdas / charakteris:
-- elgesys:
-- reputacija:
-- gebėjimai:
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
-## Reikšmingi paminėjimai
-- santrauka: Šaltinis Mindaugą sieja su Lietuvos valstybės kūrimu.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tuo būdu XIII amž. pradžioje, kai Mindaugas pradėjo kurti Lietuvos valstybę, Voluinės kunigaikštijos siena ėjo aukščiau Gardino ir nyko kažkur miškuose.
-  pagrindžia: Mindaugo vaidmenį valstybės kūrime.
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje nurodoma, kad Mindaugas pradėjo kurti Lietuvos valstybę."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
-- santrauka: Turinys nurodo Mindaugo krikšto ir karūnavimosi temą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Citata pagrindžia asmens dalyvavimo ar istorinio įvykio kontekstą.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Mindaugo krikštas ir karūnavimasis Lietuvos karalium
-  pagrindžia: Mindaugo krikšto ir karūnavimo kontekstą.
+    Mindaugas pradėjo kurti Lietuvos valstybę
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos

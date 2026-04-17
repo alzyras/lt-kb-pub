@@ -1,56 +1,92 @@
 ---
 tipas: autorius
 pavadinimas: "F. Koneczny"
-sukurta: "2026-04-16"
-variantai: []
-aliases:
+sukurta: "2026-04-17"
+variantai:
   - "F. Koneczny"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - autorius
-laikotarpis: "1888-1929 m."
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: "1888-1929 m. bibliografijos kontekstas"
 datos:
   - "1888 m."
   - "1929 m."
+periodas: ""
+subperiodiai: []
+date_start: "1888"
+date_end: "1929"
 vaidmenys:
   - autorius
-  - istorikas
+  - tyrėjas
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Bibliografija tiesiogiai priskiria F. Koneczny du darbus."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # F. Koneczny
 
 ## Santrauka
-F. Koneczny šiame šaltinyje minimas kaip Jogailos, Vytauto ir Lietuvos-Maskvos santykių tyrėjas.
+
+F. Koneczny bibliografijoje minimas kaip darbų apie Jogailą, Vytautą, Lietuvą ir Maskvą autorius.
 
 ## Laikotarpis ir datos
-- laikotarpis: 1888-1929 m.
+- laikotarpis: 1888-1929 m. bibliografijos kontekstas
 - datos: 1888 m.; 1929 m.
+- periodas:
+- subperiodiai:
+- date_start: 1888
+- date_end: 1929
 
 ## Darbai
-- `Jagiełło i Witold`.
-- `Litwa a Moskwa w latach 1449—1492`.
+
+- „Jagiełło i Witold“.
+- „Litwa a Moskwa w latach 1449—1492“.
 
 ## Kontekstas
-Bibliografija jį sieja su Jogailos ir Vytauto laikais bei Kazimiero-Zigmanto Augusto laikų santykiais su Maskva.
+
+Autorius minimas Jogailos ir Vytauto bei Kazimiero-Zigmanto Augusto laikų bibliografijoje.
+
+## Teiginiai
+- id: t-001
+  teiginys: "Bibliografijoje F. Koneczny pateikiamas kaip darbų apie Jogailą, Vytautą, Lietuvą ir Maskvą autorius."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Jogailos ir Vytauto laikų bibliografijoje nurodytas F. Koneczny darbas.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Bibliografijoje F. Koneczny siejamas su darbu apie Jogailą ir Vytautą.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Smolka, Rok 1386 (1886); F. Koneczny, Jagiełło i Witold (1888) ; O. Halecki, Dzieje unii Jagiellońskiej, I, II (1919) ; A. Prochaska, Dzieje Witolda (1914); — Król Wł. Jagiełło, I, II (1908); J. Pfitzner, Grossfürst Witold v. L. als Staatsmann (1930, liet. vert.) ; A. Borbašev, Vitovt i jego politika do Griunvald. bitvy (1885) ; — Vitovt.
-  pagrindžia: Autoriaus ir veikalo ryšį.
+    _F. Ko-
+    neczny,_ Jagiełło i Witold (1888)
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su darbu."
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Bibliografijoje F. Koneczny siejamas su darbu apie Lietuvą ir Maskvą.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata: |
+    _F. Koneczny,_ Litwa a Moskwa w latach 1449—
+    1492 (1929)
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su darbu."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
 ## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Papće, Polska i Litwa na przełomie średnich wieków (1904); — Studya i szkice z czasów Kazimierza Jagiellończyka (1907); F. Koneczny, Litwa a Moskwa w latach 1449— 1492 (1929); W. Bialowiejśka, Stosunki Litwy z Moskwą 1492—1499 (At.
-  pagrindžia: F. Koneczny darbą apie Lietuvos ir Maskvos santykius.
+
+- q-001 ir q-002 pagrindžia bibliografinius paminėjimus.
 
 ## Pastabos

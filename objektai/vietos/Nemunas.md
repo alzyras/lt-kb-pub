@@ -1,69 +1,87 @@
 ---
 tipas: vieta
 pavadinimas: "Nemunas"
-sukurta: "2026-04-16"
-variantai: 
+sukurta: "2026-04-17"
+variantai:
+  - "Nemunas"
   - "Nemuno"
   - "Nemuną"
   - "Nemunu"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "upė"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # Nemunas
 
 ## Santrauka
-
 Nemunas kartojasi kaip pagrindinė valstybės ir karo geografija.
 
 ## Pavadinimai šaltiniuose
-
 - Nemunas
 - Nemuno
 - Nemuną
 - Nemunu
 
 ## Laikotarpis ir datos
-
 - laikotarpis: 
 - datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-
-Šaltinyje ši vieta įvardijama kaip upė.
+upė.
 
 ## Geografinis ir istorinis kontekstas
-
 - tipas: upė
 - regionas:
 - susiję žmonės:
 - susiję įvykiai:
 - susijusios grupės:
 
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje „Nemunas“ minimas kaip upė: Nemunas kartojasi kaip pagrindinė valstybės ir karo geografija."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
-
-- santrauka: Šaltinis vietą „Nemunas“ mini šiame kontekste: Nemunas kartojasi kaip pagrindinė valstybės ir karo geografija.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Nemunas kartojasi kaip pagrindinė valstybės ir karo geografija.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Bet ir jai susidarius, rytų Lietuvos vandens dar ilgai tekėjo senosiomis vagomis. Kai ledynas dar tebebuvo apklojęs Žemaičius, jo pakraštyje, apie Kauną, buvo daugybė susitelkusių vandenų. Iš čia, dabartine Nemuno vidurupio vaga, vanduo tekėjo priešingai šiandieninei Nemuno tėkmei — į pietus. Kita srovė tekėjo dabartine Neries vaga, irgi priešingai šiandieninei jos tėkmei, taigi— į rytus.
-  pagrindžia: Vietos „Nemunas“ pavadinimą, tipą ir šaltinio kontekstą.
-
-- santrauka: Papildomas šaltinio paminėjimas apie vietą „Nemunas“.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Durbės mūšis (1260 m.) ir jo padariniai. Pasistatęs Klaipėdos pilį, Livonijos ordinas vėl ėmė pulti žemaičius. Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurios žemaičiai taip pat neįstengė išgriauti. Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Ordinas ketino suruošti į Žemaičius didelį žygį ir išgriauti Karšuvą.
-  pagrindžia: Papildomą vietos „Nemunas“ vartoseną šaltinyje.
+    Kai ledynas dar tebebuvo apklojęs Žemaičius, jo
+    pakraštyje, apie Kauną, buvo daugybė susitelkusių vandenų. Iš
+    čia, dabartine Nemuno vidurupio vaga, vanduo tekėjo priešingai
+    šiandieninei Nemuno tėkmei — į pietus. Kita srovė tekėjo da-
+    bartine Neries vaga, irgi priešingai šiandieninei jos tėkmei, taigi—
+    į rytus.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Šaltiniai ir įrodymai
+- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
 
 ## Pastabos

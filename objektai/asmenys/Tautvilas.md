@@ -1,65 +1,79 @@
 ---
 tipas: asmuo
 pavadinimas: "Tautvilas"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "Tautvilo"
-aliases:
-  - "Tautvilas"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - kunigaikštis
-laikotarpis: "XIII a."
-datos:
-  - "XIII a."
-vaidmenys:
-  - Mindaugo giminaitis
-  - Polocko valdovas
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: []
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis Tautvilą sieja su Mindaugo konfliktais ir įvardija Polocko valdovu."
+susije_irasai: []
+patikimumas: "aukstas"
 ---
 # Tautvilas
 
 ## Santrauka
-Tautvilas šiame šaltinyje minimas kaip Mindaugo konflikto dalyvis ir Polocko valdovas.
+
+Šaltinyje nurodoma, kad pagaliau Tautvilas buvo nužudytas, ir valdžią paėmė.
 
 ## Variantai
+
 - Tautvilo
 
 ## Laikotarpis ir datos
-- laikotarpis: XIII a.
-- datos: XIII a.
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Vaidmenys
-- Mindaugo giminaitis
-- Polocko valdovas
 
 ## Savybės
-- išvaizda:
-- būdas / charakteris:
-- elgesys:
-- reputacija:
-- gebėjimai:
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
-## Reikšmingi paminėjimai
-- santrauka: Tautvilas minimas kartu su Erdvilu ir Vykintu Mindaugo konflikto kontekste.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas,
-  pagrindžia: Tautvilo ryšį su Mindaugo konflikto dalyviais.
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje nurodoma, kad pagaliau Tautvilas buvo nužudytas, ir valdžią paėmė."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
-- santrauka: Po Mindaugo mirties Tautvilas įvardijamas kaip Polocko valdovas.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Citata pagrindžia asmens ryšį arba giminystės kontekstą.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Stipriausi konkurentai į Mindaugo sostą buvo jo žudikas Treniota ir buvęs Mindaugo priešas, Polocko valdovas Tautvilas. Abudu stengėsi vienas kitą pašalinti.
-  pagrindžia: Tautvilo vaidmenį.
+    Pagaliau Tautvilas buvo nužudytas, ir valdžią paėmė
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos

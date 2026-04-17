@@ -1,45 +1,106 @@
 ---
 tipas: grupe
 pavadinimas: "Višniaveckių giminė"
-sukurta: "2026-04-16"
-variantai:
+sukurta: "2026-04-17"
+variantai: 
   - "Višniaveckiai"
-aliases:
+aliases: 
   - "Višniaveckiai"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
-datos: []
-vaidmenys: []
+datos: 
+  - "1669—1696 m"
+  - "1669—1673 m."
+  - "1696 m"
+  - "1673 m."
+periodas: ""
+subperiodiai: []
+date_start: "1669"
+date_end: "1696"
+vaidmenys: 
+  - "giminė"
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "vidutinis"
 ---
 # Višniaveckių giminė
 
 ## Santrauka
-Višniaveckių giminė yra didikų giminė. Šaltinyje ši grupė apibūdinama kaip algirdo sūnaus Kaributo palikuonių giminė, iškilusi Respublikos elekcijų metu.
+
+Algirdo sūnaus Kaributo palikuonių giminė, iškilusi Respublikos elekcijų metu.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Višniaveckių giminė`
-- Variacijos arba alternatyvios formos: `Višniaveckiai`
+
+- „Višniaveckių giminė“
+- „Višniaveckiai“
+
+## Laikotarpis ir datos
+- laikotarpis: 
+- datos: 1669—1696 m, 1669—1673 m., 1696 m, 1673 m.
+- periodas:
+- subperiodiai:
+- date_start: 1669
+- date_end: 1696
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip giminė.
+
+Šaltinyje aiškiai nurodomas grupės tipas: giminė.
 
 ## Sudėtis ir vaidmuo
 - tipas: giminė
-- vaidmuo: algirdo sūnaus Kaributo palikuonių giminė, iškilusi Respublikos elekcijų metu
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Višniaveckių giminė“ apibūdinama taip: Algirdo sūnaus Kaributo palikuonių giminė, iškilusi Respublikos elekcijų metu."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Algirdo sūnaus Kaributo palikuonių giminė, iškilusi Respublikos elekcijų metu.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Višniaveckiai buvo kilę iš Algirdo sūnaus Kaributo, kurio krikščioniškas vardas buvo Dimitrijas.
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-- santrauka: Papildomas tiesioginis paminėjimas iš to paties šaltinio.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    Višniaveckiai buvo kilę iš Algirdo sūnaus Kaributo, kurio
+    krikščioniškas vardas buvo Dimitrijas.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Šaltinio ištrauka pagrindžia grupės „Višniaveckių giminė“ paminėjimą arba vaidmenį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Mykolas Kaributas Višniaveckis
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+    kad duoda jiems pinigų savo šalininkams verbuoti. Jie pradėjo
+    jaustis esą svetimų karalių sąjungininkai, o iš tikrųjų tapo jų samdytais agentais. Krašte tolydžio augo anarchija. Įsigalėjęs pinigų
+    ėmimas iš užsienio neišnyko iki pat Respublikos gyvenimo pabaigos.
+
+    a. Dviejų saviškių karalių laikai (1669—1696 m)
+
+    2. Mykolas Kaributas Višniaveckis (1669—1673 m.) ir jo elekcija
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
+- q-002 pagrindžia t-001.
+
+## Pastabos

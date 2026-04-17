@@ -1,63 +1,79 @@
 ---
 tipas: asmuo
 pavadinimas: "Vytautas"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "Vytauto"
-aliases:
-  - "Vytautas"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - valdovas
-laikotarpis: "XIV-XV a."
-datos:
-  - "1430 m."
-vaidmenys:
-  - Lietuvos valdovas
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: []
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis Vytautą tiesiogiai vadina visos Lietuvos valdovu ir jam skiria atskirus politinių kovų skyrius."
+susije_irasai: []
+patikimumas: "aukstas"
 ---
 # Vytautas
 
 ## Santrauka
-Vytautas šiame šaltinyje pristatomas kaip visos Lietuvos valdovas ir viena svarbiausių Lietuvos valstybės raidos figūrų.
+
+Šaltinyje nurodoma, kad Vytautas padėjo pamatus naujajai Lietuvai.
 
 ## Variantai
+
 - Vytauto
 
 ## Laikotarpis ir datos
-- laikotarpis: XIV-XV a.
-- datos: 1430 m.
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Vaidmenys
-- Lietuvos valdovas
 
 ## Savybės
-- išvaizda:
-- būdas / charakteris:
-- elgesys:
-- reputacija:
-- gebėjimai:
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
-## Reikšmingi paminėjimai
-- santrauka: Turinys Vytautą įvardija visos Lietuvos valdovu.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    7. Vytautas — visos Lietuvos valdovas. Astravos sutartis
-  pagrindžia: Vytauto valdovo vaidmenį.
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje nurodoma, kad Vytautas padėjo pamatus naujajai Lietuvai."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
-- santrauka: Šaltinis Vytautui priskiria naujosios Lietuvos pamatų dėjimą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Citata pagrindžia asmens pareigas arba vaidmenį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Žodžiu, Vytautas padėjo pamatus naujajai Lietuvai. Tik, deja, tolesni politiniai įvykiai jai sutrukdė tinkamai plėtotis ir stiprėti.
-  pagrindžia: Vytauto reikšmę valstybės raidai.
+    Vytautas padėjo pamatus naujajai Lietuvai.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos

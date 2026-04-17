@@ -1,59 +1,106 @@
 ---
 tipas: autorius
 pavadinimas: "O. Halecki"
-sukurta: "2026-04-16"
-variantai: []
-aliases:
+sukurta: "2026-04-17"
+variantai:
   - "O. Halecki"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - autorius
-laikotarpis: "1915-1919 m."
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: "1915-1919 m. bibliografijos kontekstas"
 datos:
   - "1915 m."
   - "1916 m."
   - "1919 m."
+periodas: ""
+subperiodiai: []
+date_start: "1915"
+date_end: "1919"
 vaidmenys:
   - autorius
-  - istorikas
+  - tyrėjas
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Bibliografija tiesiogiai nurodo O. Halecki darbus."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # O. Halecki
 
 ## Santrauka
-O. Halecki šiame šaltinyje minimas kaip Jagiellonų unijos, Liublino unijos ir Švitrigailos laikų tyrėjas.
+
+O. Halecki bibliografijoje minimas kaip Jogailaičių unijos ir Lietuvos Didžiosios Kunigaikštystės dalių temų autorius.
 
 ## Laikotarpis ir datos
-- laikotarpis: 1915-1919 m.
+- laikotarpis: 1915-1919 m. bibliografijos kontekstas
 - datos: 1915 m.; 1916 m.; 1919 m.
+- periodas:
+- subperiodiai:
+- date_start: 1915
+- date_end: 1919
 
 ## Darbai
-- `Dzieje unii Jagiellońskiej`.
-- `Unia lubelska`.
-- `Przyłączenie Podlasia, Wołynia i Kijowszczyzny do Korony w r. 1569`.
-- `Ostatnie lata Świdrygiełły`.
+
+- „Dzieje unii Jagiellońskiej“.
+- „Litwa, Ruś i Żmudź jako części składowe W. Ks. Lit.“.
+- „Ostatnie lata Świdrygiełły“.
 
 ## Kontekstas
-Bibliografijoje O. Halecki minimas prie Jogailos ir Vytauto, Lietuvos vidaus santykių, Švitrigailos laikų ir Liublino unijos temų.
+
+Autorius minimas keliuose bibliografijos skyriuose, susijusiuose su Jogailos, Vytauto, vidaus santykių ir Švitrigailos laikais.
+
+## Teiginiai
+- id: t-001
+  teiginys: "Bibliografijoje O. Halecki pateikiamas kaip Jogailaičių unijos, Lietuvos Didžiosios Kunigaikštystės dalių ir Švitrigailos laikų darbų autorius."
+  pagrindžia:
+    - q-001
+    - q-002
+    - q-003
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Jogailos ir Vytauto laikų bibliografijoje pateiktas O. Halecki darbas apie Jagiellonų uniją.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Bibliografijoje O. Halecki siejamas su Jogailaičių unijos veikalu.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Smolka, Rok 1386 (1886); F. Koneczny, Jagiełło i Witold (1888) ; O. Halecki, Dzieje unii Jagiellońskiej, I, II (1919) ; A. Prochaska, Dzieje Witolda (1914); — Król Wł. Jagiełło, I, II (1908); J. Pfitzner, Grossfürst Witold v. L. als Staatsmann (1930, liet. vert.) ; A. Borbašev, Vitovt i jego politika do Griunvald. bitvy (1885) ; — Vitovt.
-  pagrindžia: Autoriaus ir veikalo ryšį.
+    O. _Halecki,_ Dzieje unii Jagiellońskiej, I, II
+    (1919)
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su veikalu."
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Bibliografijoje O. Halecki siejamas su Lietuvos Didžiosios Kunigaikštystės ir Švitrigailos temomis.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata: |
+    O. _Halecki,_ Ostatnie lata Świdrygiełły (1915)
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su darbu."
+  pagrindžia:
+    - t-001
+- id: q-003
+  santrauka: Bibliografijoje O. Halecki siejamas su Lietuvos, Rusios ir Žemaitijos kaip Lietuvos Didžiosios Kunigaikštystės dalių tema.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata: |
+    O. _Halecki,_ Litwa,
+    Ruś i Żmudź jako części składowe W. Ks. Lit. (Rozpr. Ak. Um. 1916)
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su darbu."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
 ## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    3); O. Halecki, Unia lubelska (1916); — Przyłączenie Podlasia, Wołynia i Kijowszczyzny do Korony w r. 1569 (1915); A. Šapoka, Lietuvių lenkų santykiai po Vytauto iki 1569 m. (Nauj.
-  pagrindžia: O. Halecki darbus apie Liublino uniją ir 1569 m. prijungimus.
+
+- q-001, q-002 ir q-003 pagrindžia bibliografinius paminėjimus.
 
 ## Pastabos

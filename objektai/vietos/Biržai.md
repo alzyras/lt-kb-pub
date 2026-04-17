@@ -1,66 +1,79 @@
 ---
 tipas: vieta
 pavadinimas: "Biržai"
-sukurta: "2026-04-16"
-variantai: 
+sukurta: "2026-04-17"
+variantai:
+  - "Biržai"
   - "Biržuose"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos: []
 laikotarpis: ""
-datos: 
-  - "1919 m."
-vaidmenys: []
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "miestas"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # Biržai
 
 ## Santrauka
-
 Biržai minimi tarp provincijos vietų ir 1919 m. kovų.
 
 ## Pavadinimai šaltiniuose
-
 - Biržai
 - Biržuose
 
 ## Laikotarpis ir datos
-
 - laikotarpis: 
-- datos: 1919 m.
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-
-Šaltinyje ši vieta įvardijama kaip miestas.
+miestas.
 
 ## Geografinis ir istorinis kontekstas
-
 - tipas: miestas
 - regionas:
 - susiję žmonės:
 - susiję įvykiai:
 - susijusios grupės:
 
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje „Biržai“ minimas kaip miestas: Biržai minimi tarp provincijos vietų ir 1919 m. kovų."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
-
-- santrauka: Šaltinis vietą „Biržai“ mini šiame kontekste: Biržai minimi tarp provincijos vietų ir 1919 m. kovų.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Biržai minimi tarp provincijos vietų ir 1919 m. kovų.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Lietuvoje dabar kuriamas centralinis Vytauto Didžiojo Muziejus Kaune. Nemaža muziejų yra ir provincijoj (Klaipėdoj, Šiauliuose, Panevėžy, Telšiuose, Kėdainiuose, Biržuose ir kitur). Dvasinės kultūros palaikai, arba tautosaka, taip pat yra renkama, rūšiuojama ir spausdinama.
-  pagrindžia: Vietos „Biržai“ pavadinimą, tipą ir šaltinio kontekstą.
-
-- santrauka: Papildomas šaltinio paminėjimas apie vietą „Biržai“.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Iš pradžių ši kariuomenė nerodė savo priešingumo Lietuvai, kariaujančiai su bolševikais. Bet 1919 m. spalių mėnesį, kai šiaurinėje Lietuvos dalyje dar nebuvo mūsų kariuomenės, bermontininkai užėmė Šiaulius, Biržus, Linkuvą, Radviliškį ir pradėjo rodyti aiškų nepalankumą Lietuvai. Lietuvos vyriausybės protestai nieko negelbėjo. Turėdami stiprią pajėgą, bermontininkai nuginklavę išvaikė ten buvusias Lietuvos komendantūras ir ėmė vieni šeimininkauti.
-  pagrindžia: Papildomą vietos „Biržai“ vartoseną šaltinyje.
+    Muziejus Kaune. Nemaža muziejų yra ir provincijoj (Klaipėdoj, Šiauliuose, Panevėžy, Telšiuose, Kėdainiuose, Biržuose
+    ir kitur).
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Šaltiniai ir įrodymai
+- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
 
 ## Pastabos

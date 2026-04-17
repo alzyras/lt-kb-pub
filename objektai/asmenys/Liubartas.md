@@ -1,65 +1,79 @@
 ---
 tipas: asmuo
 pavadinimas: "Liubartas"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "Liubarto"
-aliases:
-  - "Liubartas"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - kunigaikštis
-laikotarpis: "XIV a."
-datos:
-  - "XIV a."
-vaidmenys:
-  - Voluinės valdovas
-  - Kęstučio ir Algirdo brolis
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: []
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis aiškiai nurodo Liubarto giminystę su Kęstučiu ir Algirdu bei valdžią Voluinėje."
+susije_irasai: []
+patikimumas: "aukstas"
 ---
 # Liubartas
 
 ## Santrauka
-Liubartas šiame šaltinyje minimas kaip Kęstučio ir Algirdo brolis, valdęs Voluinės dalį ir ją atlaikęs kovose.
+
+Liubartas šiame šaltinyje minimas kaip Kęstučio ir Algirdo brolis, valdęs Voluinę.
 
 ## Variantai
+
 - Liubarto
 
 ## Laikotarpis ir datos
-- laikotarpis: XIV a.
-- datos: XIV a.
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Vaidmenys
-- Voluinės valdovas
-- Kęstučio ir Algirdo brolis
 
 ## Savybės
-- išvaizda:
-- būdas / charakteris:
-- elgesys:
-- reputacija:
-- gebėjimai:
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
-## Reikšmingi paminėjimai
-- santrauka: Šaltinis Liubartą sieja su Kęstučiu, Algirdu ir Voluinės valdymu.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    O kai jis savo dėmesį atkreipė į rytus ir į pietus, tai pasidarė net Lietuvos priešas: dėdamasis Voluinės kunigaikščių įpėdiniu, jis siekė užimti Voluinę, kurios didelę dalį valdė Kęstučio ir Algirdo brolis Liubartas. Dėl Voluinės ir prasidėjo kovos su lenkais, ėjusios net keletą dešimtmečių.
-  pagrindžia: Liubarto giminystę ir valdžios vaidmenį.
+## Teiginiai
+- id: t-001
+  teiginys: "Liubartas šiame šaltinyje minimas kaip Kęstučio ir Algirdo brolis, valdęs Voluinę."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
-- santrauka: Liubartas minimas kaip atlaikęs Voluinę.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Citata pagrindžia asmens ryšį arba giminystės kontekstą.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Voluinę Liubartas vis dėlto atlaikė.
-  pagrindžia: Liubarto politinę ir karinę reikšmę Voluinėje.
+    dalį valdė Kęstučio ir Algirdo brolis Liubartas.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos

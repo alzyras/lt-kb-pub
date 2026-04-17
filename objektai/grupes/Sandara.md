@@ -1,48 +1,83 @@
 ---
 tipas: grupe
 pavadinimas: "Sandara"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai: 
   - "tikybinė lietuvių draugija „Sandara\""
 aliases: 
   - "tikybinė lietuvių draugija „Sandara\""
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
-datos: []
-vaidmenys: []
+datos: 
+  - "1904 m."
+periodas: ""
+subperiodiai: []
+date_start: "1904"
+date_end: "1904"
+vaidmenys: 
+  - "draugija"
 dalyviai: []
 susije_irasai: []
-patikimumas: "Paremta šaltinio citatomis ir tiesioginiais paminėjimais."
+patikimumas: "vidutinis"
 ---
 # Sandara
 
 ## Santrauka
-Sandara yra draugija. Šaltinyje ši grupė apibūdinama taip: Klaipėdoje įkurta lietuvių tikybinė draugija, jungianti krašto lietuvius.
+
+Klaipėdoje įkurta lietuvių tikybinė draugija, jungianti krašto lietuvius.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Sandara`
-- Variacijos arba alternatyvios formos: `tikybinė lietuvių draugija „Sandara"`
+
+- „Sandara“
+- „tikybinė lietuvių draugija „Sandara"“
 
 ## Laikotarpis ir datos
 - laikotarpis: 
+- datos: 1904 m.
+- periodas:
+- subperiodiai:
+- date_start: 1904
+- date_end: 1904
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip draugija.
+
+Šaltinyje aiškiai nurodomas grupės tipas: draugija.
 
 ## Sudėtis ir vaidmuo
 - tipas: draugija
-- vaidmuo: Klaipėdoje įkurta lietuvių tikybinė draugija, jungianti krašto lietuvius.
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Sandara“ apibūdinama taip: Klaipėdoje įkurta lietuvių tikybinė draugija, jungianti krašto lietuvius."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Klaipėdoje įkurta lietuvių tikybinė draugija, jungianti krašto lietuvius.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
     1904 m. dr. Gaigalaičio buvo įkurta Klaipėdoje tikybinė lietuvių draugija, vardu „Sandara", kuri irgi tebegyvuoja, jungdama viso krašto lietuvius.
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
 ## Ryšiai
-- Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos
-- Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

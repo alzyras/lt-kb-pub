@@ -1,64 +1,87 @@
 ---
 tipas: asmuo
 pavadinimas: "Augustas III"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "Augusto III"
-aliases:
-  - "Augustas III"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - valdovas
-laikotarpis: "XVIII a."
+  - "karalius"
+laikotarpis: ""
 datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
 vaidmenys:
-  - karalius
+  - "karalius"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis Augustą III įvardija atskiro skyriaus antraštėje ir tiesiogiai apibūdina jo valdymą."
+susije_irasai: []
+patikimumas: "aukstas"
 ---
 # Augustas III
 
 ## Santrauka
-Augustas III šiame šaltinyje pristatomas kaip svetimųjų pastatytasis karalius ir neigiamai vertinamas valdovas.
+
+Šaltinyje nurodoma, kad Augustas III buvo visiškai netikęs valdovas.
 
 ## Variantai
+
 - Augusto III
 
 ## Laikotarpis ir datos
-- laikotarpis: XVIII a.
-- datos:
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Vaidmenys
+
 - karalius
 
 ## Savybės
-- išvaizda:
-- būdas / charakteris:
-- elgesys:
-- reputacija:
-  - santrauka: Šaltinis Augustą III tiesiogiai vertina kaip netikusį valdovą.
-    šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-    citata: |
-      Augustas III buvo visiškai netikęs valdovas. Nebuvo toks palaidūnas, kaip tėvas, — buvo geras, ramus gausingos šeimos galva, — tačiau neturėjo nei savo tėvo energijos nei iniciatyvos.
-    pagrindžia: Augusto III reputacijos vertinimą šaltinyje.
 - gebėjimai:
+  - santrauka: Šaltinyje nurodoma, kad Augustas III buvo visiškai netikęs valdovas.
+    šaltiniai:
+      - [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje nurodoma, kad Augustas III buvo visiškai netikęs valdovas."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
-- santrauka: Šaltinio turinys Augustą III vadina svetimųjų pastatytuoju karaliumi.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Citata pagrindžia šaltinyje pateiktą asmens apibūdinimą.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Augustas III — svetimųjų pastatytasis karalius
-  pagrindžia: Augusto III valdovo vaidmenį ir politinį kontekstą.
+    Augustas III buvo visiškai netikęs valdovas.
+  teiginio_tipas: vertinimas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
 ## Šaltiniai ir įrodymai
-- Pagrindiniai įrodymai pateikti skiltyse „Savybės“ ir „Reikšmingi paminėjimai“.
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos

@@ -1,45 +1,102 @@
 ---
 tipas: grupe
 pavadinimas: "Valkininkų konfederacija"
-sukurta: "2026-04-16"
-variantai:
+sukurta: "2026-04-17"
+variantai: 
   - "1700 m. Valkininkų konfederacija"
-aliases:
+aliases: 
   - "1700 m. Valkininkų konfederacija"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
-datos: []
-vaidmenys: []
+datos: 
+  - "1700 m."
+periodas: ""
+subperiodiai: []
+date_start: "1700"
+date_end: "1700"
+vaidmenys: 
+  - "konfederacija"
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "vidutinis"
 ---
 # Valkininkų konfederacija
 
 ## Santrauka
-Valkininkų konfederacija yra konfederacija. Šaltinyje ši grupė apibūdinama kaip lietuvos bajorijos ir Sapiegų konflikto kulminacija.
+
+Lietuvos bajorijos ir Sapiegų konflikto kulminacija.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Valkininkų konfederacija`
-- Variacijos arba alternatyvios formos: `1700 m. Valkininkų konfederacija`
+
+- „Valkininkų konfederacija“
+- „1700 m. Valkininkų konfederacija“
+
+## Laikotarpis ir datos
+- laikotarpis: 
+- datos: 1700 m.
+- periodas:
+- subperiodiai:
+- date_start: 1700
+- date_end: 1700
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip konfederacija.
+
+Šaltinyje aiškiai nurodomas grupės tipas: konfederacija.
 
 ## Sudėtis ir vaidmuo
 - tipas: konfederacija
-- vaidmuo: lietuvos bajorijos ir Sapiegų konflikto kulminacija
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Valkininkų konfederacija“ apibūdinama taip: Lietuvos bajorijos ir Sapiegų konflikto kulminacija."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Lietuvos bajorijos ir Sapiegų konflikto kulminacija.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    1700 m. Valkininkų konfederacija
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-- santrauka: Papildomas tiesioginis paminėjimas iš to paties šaltinio.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    Augustas II ir jo politiniai siekimai - 1700 m. Valkininkų konfederacija 14.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Šaltinio ištrauka pagrindžia grupės „Valkininkų konfederacija“ paminėjimą arba vaidmenį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+    būdama, ji didžiai įsipyko Žemaičių bajorijai, ir visa Lietuva
+    kartu su Lenkais ėmė reikalauti, kad karalius ją grąžintų atgal į
+    Saksoniją. Sapiegos betgi ėmė remti karaliaus sumanytą karą
+    su Švedais. Dėl to karalius palinko į jų pusę ir net pavedė
+    jiems dar daugiau pasamdyti kariuomenės. Tada Sapiegos vėl
+    pradėjo drąsiai šeimininkauti Lietuvoje, su niekuo nebesiskaitydami; jų priešų kurstoma bajorija ir vėl ėmė bruzdėti.
+    Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.).
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
+- q-002 pagrindžia t-001.
+
+## Pastabos

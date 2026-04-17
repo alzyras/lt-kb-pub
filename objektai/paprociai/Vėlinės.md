@@ -1,71 +1,86 @@
 ---
 tipas: paprotys
 pavadinimas: "Vėlinės"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "vėlių garbinamosios šventės"
+  - "vėlinės"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos:
-  - šventė
   - religinė-praktika
-laikotarpis: "senovės aisčių religijos kontekstas"
+  - tikėjimas
+laikotarpis: "senovės aisčių religija"
 datos: []
-vaidmenys:
-  - "vėlių garbinimo šventė"
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: []
 dalyviai:
   - "aisčiai"
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: ""
 ---
 # Vėlinės
 
 ## Santrauka
 
-Šaltinis Vėlines apibūdina kaip specialias vėlių garbinamąsias šventes, kuriose vėlėms aukojamos aukos; taip pat mini maisto ir gėrimų skyrimą vėlėms kiekvienos puotos metu.
+Vėlinės šaltinyje aprašytos kaip specialios vėlių garbinamosios šventės, per kurias vėlėms aukotos aukos; kiekvienos puotos metu joms buvo nuliejama gėrimų ir numetama maisto.
 
 ## Laikotarpis ir datos
-- laikotarpis: senovės aisčių religijos kontekstas.
+- laikotarpis: senovės aisčių religija
 - datos:
+- periodas:
+- subperiodiai:
+- date_start:
+- date_end:
 
 ## Kas tai
 
-Tai vėlių garbinimo šventės, susietos su tikėjimu, kad mirusiųjų vėlės lieka arti šeimų ir gyventos aplinkos.
+Vėlių garbinimo šventės.
 
 ## Atlikimas
-- kas atlieka: aisčiai.
-- kada atliekama: šaltinis nurodo specialias vėlių garbinamąsias šventes ir kiekvienos puotos metu atliekamą maisto bei gėrimų skyrimą.
-- kaip atliekama: aukojamos aukos, žemėn nuliejama gėrimų ir numetama maisto.
+- kas atlieka: aisčiai
+- kada atliekama: specialių vėlių garbinamųjų švenčių metu ir kiekvienos puotos metu
+- kaip atliekama: vėlėms aukojamos aukos, nuliejama gėrimų ir numetama maisto
 
 ## Paskirtis
 
-Šaltinis nurodo vėlių garbinimą.
+Garbinant mirusiųjų vėles.
 
 ## Kontekstas
 - regionas:
-- laikotarpis: senovės aisčių pomirtinio pasaulio samprata.
-- susiję žodžiai: vėlės, aukos, puota, dausos.
-- susiję daiktai: gėrimai, maistas.
+- laikotarpis: senovės aisčių religija
+- susiję žodžiai:
+- susiję daiktai:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinis nurodo, kad aisčiai ruošdavo specialias vėlių garbinamąsias šventes, vadinamas vėlinėmis, ir jose aukodavo įvairias aukas."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Šaltinis nurodo, kad vėlėms kiekvienos puotos metu žemėn būdavo nuliejama gėrimų ir numetama maisto."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- santrauka: Šaltinis aiškina, kodėl vėlės laikytos susijusiomis su šeimomis ir gyvenama aplinka.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Vėlinės aprašytos kaip vėlių garbinimo šventės su aukomis, gėrimais ir maistu.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Tačiau aisčiai tikėjo, kad mirusiųjų vėlės nesiskiriančios nuo šeimų ir gyventos aplinkos: jos apsigyvenančios gyvuliuose ar medžiuose, augančiuose ant jų kapų, ir būnančios savo šeimų globėjos.
-  pagrindžia: Vėlinių religinį pagrindą.
-
-## Ryšiai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Todėl būdavo ruošiamos specialios vėlių garbinamosios šventės, vadinamosios vėlinės; tuomet joms būdavo aukojamos įvairios aukos. Vėlėms kiekvienos puotos metu žemėn būdavo nuliejama gėrimų ir numetama maisto. Dievai gyvenę dažniausiai medžiuose, — ypač tie, kurie buvo susiję su aplinkuma.
-  pagrindžia: Vėlinių pavadinimą, veiksmus ir vėlių garbinimo paskirtį.
-
-## Pastabos
+    Todėl būdavo ruošiamos specialios vėlių garbinamosios šventės, vadinamosios vėlinės; tuomet joms būdavo
+    aukojamos įvairios aukos. Vėlėms kiekvienos puotos metu žemėn būdavo nuliejama gėrimų ir numetama maisto.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+    - t-002

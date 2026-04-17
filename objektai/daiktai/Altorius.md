@@ -1,79 +1,95 @@
 ---
 tipas: daiktas
-pavadinimas: "altorius"
-sukurta: "2026-04-16"
+pavadinimas: "Altorius"
+sukurta: "2026-04-17"
 variantai:
   - "altorium"
+  - "altorius"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - simbolis
-  - religinė-praktika
-laikotarpis: "1430 m.; 1530 m.; 1610 m."
+  - "ritualas"
+laikotarpis: "Vytauto kapo kontekstas"
 datos:
-  - "1430 m."
   - "1530 m."
-  - "1610 m."
+periodas: "viduramziai"
+subperiodiai: []
+date_start: ""
+date_end: "1530"
 vaidmenys:
-  - "bažnytinis objektas"
-dalyviai:
-  - "[[Vytautas]]"
-  - "[[Zigmantas Augustas]]"
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+  - "bažnytinis įrenginys"
+dalyviai: []
+susije_irasai: []
+patikimumas: ""
 ---
 # Altorius
 
 ## Santrauka
 
-Altorius šaltinyje minimas Vytauto kapo istorijoje: Vytautas buvo palaidotas po šv. Mykolo Arkangelo altoriumi, o po 1530 m. katedros gaisro altorius žuvo.
+Altorius šaltinyje minimas Vytauto kapo ir Vilniaus katedros istorijoje: Vytautas palaidotas po šv. Mykolo Arkangelo altoriumi, o 1530 m. katedros gaisre tas altorius žuvo.
 
 ## Pavadinimai šaltiniuose
 
-- altorius
-- altorium
+- „šv. Mykolo Arkangelo altorium“
+- „altorius“
 
 ## Laikotarpis ir datos
 
-- laikotarpis: 1430 m.; 1530 m.; 1610 m.
-- datos: 1430 m.; 1530 m.; 1610 m.
+- laikotarpis: Vytauto kapo kontekstas
+- datos: 1530 m.
+- periodas: viduramžiai
+- subperiodiai:
+- date_start:
+- date_end: 1530
 
 ## Kas tai
 
-Tai bažnytinis objektas, šaltinyje svarbus kaip Vytauto palaidojimo vietos orientyras.
+Bažnytinis įrenginys, šaltinyje susietas su palaidojimo vieta.
 
 ## Naudojimas
 
-- Šaltinis nurodo, kad Vytautas buvo palaidotas katedros rūsyje po šv. Mykolo Arkangelo altoriumi.
-- Altoriaus vietoje karalienė Bona pastatė marmurinį paminklą.
+Šaltinis altorių mini kaip erdvinį orientyrą Vytauto palaidojimo vietai apibūdinti.
 
 ## Kontekstas
 
-- laikotarpis: Vytauto mirties ir Vilniaus katedros kapų istorijos kontekstas.
-- susiję žmonės: [[Vytautas]], [[Zigmantas Augustas]]
+- laikotarpis: Vytauto kapo kontekstas
+- susiję žmonės:
 - susiję įvykiai:
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Šaltinis nurodo, kad Vytautas buvo palaidotas Vilniaus katedros rūsyje po šv. Mykolo Arkangelo altoriumi."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Šaltinyje nurodoma, kad 1530 m. katedrai sudegus altorius žuvo."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Altorius žuvo 1530 m. katedrai sudegus, o vėliau žuvo ir jo vietoje pastatytas paminklas.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Altorius siejamas su Vytauto palaidojimo vieta ir 1530 m. katedros gaisru.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    1530 m. katedrai sudegus, altorius žuvo. Tada Zigmanto Augusto motina, karalienė Bona, altoriaus vietoje buvo pastačiusi marmurinį paminklą; bet kai 1610 m. apdegė katedra, žuvo ir šis paminklas. XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užėmė rusai.
-  pagrindžia: Altoriaus sunaikinimą ir jo vietos vėlesnį memorialinį naudojimą.
+    Vytauto kapas. Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas
+    katedros rūsyje, po šv. Mykolo Arkangelo altorium. 1530 m. katedrai sudegus, altorius žuvo.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+    - t-002
 
 ## Ryšiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-- asmuo: [[Vytautas]]
-- asmuo: [[Zigmantas Augustas]]
-
 ## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Vytauto kapas. Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas katedros rūsyje, po šv. Mykolo Arkangelo altorium. 1530 m. katedrai sudegus, altorius žuvo.
-  pagrindžia: Altorių kaip Vytauto palaidojimo vietos orientyrą.
 
 ## Pastabos

@@ -1,67 +1,83 @@
 ---
 tipas: asmuo
 pavadinimas: "Augustas II"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "Augusto II"
-  - "Fridrikas Augustas II"
-aliases:
-  - "Augustas II"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - valdovas
-laikotarpis: "1697-1733 m."
-datos:
-  - "1697-1733 m."
-vaidmenys:
-  - valdovas
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: []
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis Augustą II pateikia su valdymo datomis ir atskiro skyriaus politiniu kontekstu."
+susije_irasai: []
+patikimumas: "aukstas"
 ---
 # Augustas II
 
 ## Santrauka
-Augustas II šiame šaltinyje pristatomas kaip 1697-1733 m. valdovas, siejamas su elekcija ir politiniais siekimais.
+
+Šaltinyje nurodoma, kad Augustas II buvo stambaus sudėjimo, tvirtas vyras.
 
 ## Variantai
+
 - Augusto II
-- Fridrikas Augustas II
 
 ## Laikotarpis ir datos
-- laikotarpis: 1697-1733 m.
-- datos: 1697-1733 m.
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Vaidmenys
-- valdovas
 
 ## Savybės
 - išvaizda:
-  - santrauka: Šaltinis Augustą II apibūdina kaip stambaus sudėjimo ir tvirtą vyrą.
-    šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-    citata: |
-      Augustas II buvo stambaus sudėjimo, tvirtas vyras. Todėl savo gimtinėje jis buvo vadinamas Tvirtuoju (Der Starke).
-    pagrindžia: Augusto II fizinį apibūdinimą.
-- būdas / charakteris:
-- elgesys:
-- reputacija:
-- gebėjimai:
+  - santrauka: Šaltinyje nurodoma, kad Augustas II buvo stambaus sudėjimo, tvirtas vyras.
+    šaltiniai:
+      - [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje nurodoma, kad Augustas II buvo stambaus sudėjimo, tvirtas vyras."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
-- santrauka: Šaltinio turinys Augustą II sieja su elekcija.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Citata pagrindžia šaltinyje pateiktą asmens apibūdinimą.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Augustas II (1697—1733 m.) ir jo elekcija
-  pagrindžia: Augusto II datas ir elekcijos kontekstą.
+    Augustas II buvo stambaus sudėjimo, tvirtas vyras.
+  teiginio_tipas: vertinimas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
 ## Šaltiniai ir įrodymai
-- Pagrindiniai įrodymai pateikti skiltyse „Savybės“ ir „Reikšmingi paminėjimai“.
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos

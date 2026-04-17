@@ -1,64 +1,89 @@
 ---
 tipas: asmuo
 pavadinimas: "A. Petrulis"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "kun. A. Petrulis"
-aliases:
-  - "A. Petrulis"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: "XX a."
+laikotarpis: ""
 datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
 vaidmenys:
-  - kunigas
-  - Lietuvos Tarybos narys
+  - "Lietuvos Tarybos narys"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis pateikia A. Petrulį su kunigo titulu ir Lietuvos Tarybos kontekstu; pilnas vardas šaltinyje neišrašytas."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # A. Petrulis
 
 ## Santrauka
-A. Petrulis šiame šaltinyje minimas kaip kunigas ir Lietuvos Tarybos narys; pilnas vardas šaltinyje nepateiktas.
+
+A. Petrulis šiame šaltinyje minimas kaip kunigas ir Lietuvos Tarybos veikėjas.
 
 ## Variantai
+
 - kun. A. Petrulis
 
 ## Laikotarpis ir datos
-- laikotarpis: XX a.
-- datos:
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Vaidmenys
-- kunigas
+
 - Lietuvos Tarybos narys
 
 ## Savybės
-- išvaizda:
-- būdas / charakteris:
-- elgesys:
-- reputacija:
-- gebėjimai:
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
-## Reikšmingi paminėjimai
-- santrauka: A. Petrulis nurodytas Lietuvos Tarybos narių sąraše.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Lietuvos Tarybos nariai buvo šie: J. Basanavičius, (†), S. Banaitis (†), M. Biržiška, K. Bizauskas, P. Dovydaitis, S. Kairys, P. Klimas, D. Malinauskas, P. Mironas, S. Narutavičius (†), A. Petrulis (†), A. Smetona, J. Smilgevičius, J. Staugaitis, A. Stulginskis, J. Šaulys, K. Šaulys, J. Šernas (†), J. Vailokaitis, J. Vileišis.
-  pagrindžia: A. Petrulio dalyvavimą Lietuvos Taryboje.
+## Teiginiai
+- id: t-001
+  teiginys: "A. Petrulis šiame šaltinyje minimas kaip kunigas ir Lietuvos Tarybos veikėjas."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
-- santrauka: Iliustracijos antraštėje jis pateiktas su kunigo titulu.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Citata pagrindžia asmens pareigas arba vaidmenį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
+    **Lietuvos Taryba, pasirašiusi nepriklausomybės aktą.
+    Iš kairės į dešinę sėdi: J. Vileišis, dr. J. Šaulys, kun. J. Staugaitis, St. Na-
+    rutavičius, dr. J. Basanavičius, A. Smetona, kan. K. Šaulys, Stp. Kairys ir
+    J. Smilgevičius; stovi: K. Bizauskas, J. Vailokaitis, D. Malinauskas, kun.
     VI. Mironas, M. Biržiška, kun. A. Petrulis, S. Banaitis, P. Klimas,
-  pagrindžia: Kunigo titulą ir Tarybos grupės kontekstą.
+    A. Stulginskis, J. Šernas ir Pr. Dovydaitis.**
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos
-- Tapatybė palikta inicialine forma, nes pilnas vardas šiame šaltinyje nepateiktas.
+
+- Identiteto pastaba: Vardas pateikiamas tik inicialu ir kunigo titulu, todėl pilnas vardas nėra visiškai atstatytas iš paties teksto.

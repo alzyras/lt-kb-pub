@@ -1,82 +1,106 @@
 ---
 tipas: daiktas
-pavadinimas: "vežimas"
-sukurta: "2026-04-16"
+pavadinimas: "Vežimas"
+sukurta: "2026-04-17"
 variantai:
   - "vežimų"
+  - "vežimus"
   - "vežime"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - transportas
-  - buities-daiktas
-laikotarpis: "LDK laikai; 1430 m.; XVIII a."
-datos:
-  - "1430 m."
+  - "transportas"
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
 vaidmenys:
-  - "kelionės ir pervežimo priemonė"
-dalyviai:
-  - "[[Vytautas]]"
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+  - "transporto priemonė"
+dalyviai: []
+susije_irasai: []
+patikimumas: ""
 ---
 # Vežimas
 
 ## Santrauka
 
-Vežimas šaltinyje minimas kaip transporto priemonė kunigaikščio pasiuntiniams, Vytauto paskutinės kelionės epizode ir seimelių mobilizavimo aprašyme.
+Vežimai šaltinyje minimi kaip kunigaikščio pasiuntiniams parūpinama transporto priemonė ir kaip amatininkų dirbiniai kunigaikščiui ar ponui.
 
 ## Pavadinimai šaltiniuose
 
-- vežimas
-- vežimų
-- vežime
+- „vežimų“
+- „vežimus“
+- „vežime“
 
 ## Laikotarpis ir datos
 
-- laikotarpis: LDK laikai; 1430 m.; XVIII a.
-- datos: 1430 m.
+- laikotarpis:
+- datos:
+- periodas:
+- subperiodiai:
+- date_start:
+- date_end:
 
 ## Kas tai
 
-Tai transporto priemonė žmonėms ir reikmenims vežti.
+Transporto priemonė.
 
 ## Naudojimas
 
-- Bajorija turėjo parūpinti vežimų kunigaikščio pasiuntiniams.
-- Vytautas po susitrenkimo važiavo žmonos vežime.
-- XVIII a. seimelių aprašyme vežimais buvo atgabenami plikbajoriai.
+Šaltinis vežimus sieja su pasiuntinių aprūpinimu ir kunigaikščiui ar ponui reikalingais amatininkų dirbiniais.
 
 ## Kontekstas
 
-- laikotarpis: LDK prievolių, Vytauto mirties ir XVIII a. seimelių kontekstai.
-- susiję žmonės: [[Vytautas]]
+- laikotarpis:
+- susiję žmonės:
 - susiję įvykiai:
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Šaltinis nurodo, kad bajorija turėjo pravažiuojantiems kunigaikščio pasiuntiniams parūpinti arklių ir vežimų."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Šaltinyje minimi amatininkai, dirbę kunigaikščiui ar ponui reikalingus vežimus ir ratus."
+  pagrindžia:
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Seimelių aprašyme vežimas tampa masinio bajorų atgabenimo priemone.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Vežimai minimi kaip pasiuntiniams parūpinama transporto priemonė.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Kiekvienas didikas ir stipresnis bajoras nusiųsdavo į okolicas vežimų ir atgabendavo keletą dešimčių ar keletą šimtų plikbajorių. Jiems iš anksto būdavo pažadama po kokį auksiną ar du ir, be to, duodamas visiškas išlaikymas seimelio metu.
-  pagrindžia: Vežimų naudojimą bajorų mobilizavimui seimeliuose.
+    Be to, bajorija dar turėjo išlaikyti pravažiuojančius kunigaikščio pasiuntinius, parūpinti jiems
+    arklių, vežimų.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Vežimai minimi kaip amatininkų dirbiniai.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata: |
+    Be to, buvo speciali rūšis amatininkų, kurie dirbo kunigaikščiui ar ponui reikalingus vežimus ir ratus (tai vadinamieji r a t i n i n k a i) ir t. t.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-- asmuo: [[Vytautas]]
-
 ## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Be to, bajorija dar turėjo išlaikyti pravažiuojančius kunigaikščio pasiuntinius, parūpinti jiems arklių, vežimų. Jie turėjo išlaikyti ir kelionėje pas juos sustojantį kunigaikštį su visu jo dvaru.
-  pagrindžia: Vežimus kaip kelionės prievolės dalį.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Susitrenkęs nebegalėjo toliau joti, todėl važiavo žmonos vežime. Nuvykęs į Trakus, atsigulė ir daugiau nebekėlė.
-  pagrindžia: Vežimą kaip Vytauto kelionės priemonę po susitrenkimo.
 
 ## Pastabos

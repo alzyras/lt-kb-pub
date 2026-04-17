@@ -1,47 +1,106 @@
 ---
 tipas: grupe
 pavadinimas: "Goštautų giminė"
-sukurta: "2026-04-16"
-variantai:
+sukurta: "2026-04-17"
+variantai: 
   - "Goštautai"
   - "Goštautų šeima"
-aliases:
+aliases: 
   - "Goštautai"
   - "Goštautų šeima"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
-datos: []
-vaidmenys: []
+datos: 
+  - "1544
+—1548 m."
+  - "1548 m."
+periodas: ""
+subperiodiai: []
+date_start: "1544"
+date_end: "1548"
+vaidmenys: 
+  - "giminė"
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "vidutinis"
 ---
 # Goštautų giminė
 
 ## Santrauka
-Goštautų giminė yra didikų giminė. Šaltinyje ši grupė apibūdinama kaip įtakinga didikų šeima, iškilusi Zigmanto Augusto laikais.
+
+Įtakinga didikų šeima, iškilusi Zigmanto Augusto laikais.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Goštautų giminė`
-- Variacijos arba alternatyvios formos: `Goštautai`, `Goštautų šeima`
+
+- „Goštautų giminė“
+- „Goštautai“
+- „Goštautų šeima“
+
+## Laikotarpis ir datos
+- laikotarpis: 
+- datos: 1544
+—1548 m., 1548 m.
+- periodas:
+- subperiodiai:
+- date_start: 1544
+- date_end: 1548
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip giminė.
+
+Šaltinyje aiškiai nurodomas grupės tipas: giminė.
 
 ## Sudėtis ir vaidmuo
 - tipas: giminė
-- vaidmuo: įtakinga didikų šeima, iškilusi Zigmanto Augusto laikais
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Goštautų giminė“ apibūdinama taip: Įtakinga didikų šeima, iškilusi Zigmanto Augusto laikais."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Įtakinga didikų šeima, iškilusi Zigmanto Augusto laikais.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Goštautų šeimos reikšmė nesumažėjo nė po Jono Goštauto mirties.
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-- santrauka: Papildomas tiesioginis paminėjimas iš to paties šaltinio.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    Goštautų šeimos reikšmė nesuma-
+    žėjo nė po Jono Goštauto mirties.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Šaltinio ištrauka pagrindžia grupės „Goštautų giminė“ paminėjimą arba vaidmenį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Lietuvoje išaugo Alberto Goštauto vadovaujama partija
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+    Bet tuo metu
+    Lietuvoje išaugo Alberto Goštauto vadovaujama partija, rei-
+
+    kalavusi daugiau atsiriboti nuo Lenkijos.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
+- q-002 pagrindžia t-001.
+
+## Pastabos

@@ -1,71 +1,102 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "unija"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "unijos"
   - "uniją"
   - "unijai"
-aliases:
-  - "unija"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - teisinis-terminas
-laikotarpis: "1385-1569 m. Lietuvos ir Lenkijos santykių kontekste"
-datos:
-  - "1385 m."
-  - "1401 m."
-  - "1413 m."
-  - "1569 m."
-vaidmenys: []
+  - "istorinė-sąvoka"
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "žodyno terminas"
+  - "valstybinė sandara, politinės sutartys"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Reikšmė aiškinama tik iš šaltinio svarstymo apie Lietuvos ir Lenkijos aktus."
+susije_irasai: []
+patikimumas: ""
 ---
 # unija
 
+## Santrauka
+
+Terminas „unija“ šiame šaltinyje vartojamas reikšme: kelių valstybių politinis junginys arba sąjunga.
+
 ## Žodis ir formos
 
-- Kanoninė forma: `unija`
-- Šaltinio formos: `unija`, `unijos`, `uniją`, `unijai`
+- Pagrindinė forma: „unija“.
+- Šaltinyje rasta forma: „unija“.
+- Šaltinyje rasta forma: „unijos“.
+- Šaltinyje rasta forma: „uniją“.
+- Šaltinyje rasta forma: „unijai“.
 
 ## Laikotarpis ir datos
-
-- laikotarpis: 1385-1569 m. Lietuvos ir Lenkijos santykių kontekste
-- datos: 1385 m.; 1401 m.; 1413 m.; 1569 m.
+- laikotarpis: 
+- datos:
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Reikšmė iš konteksto
 
-Šaltinyje `unija` reiškia kelių valstybių politinį ryšį per bendrą valdovą arba vėliau glaudesnį valstybinį junginį. Krėvos atvejis aiškinamas kaip unijos programa, o tik 1569 m. aktas laikomas tikru unijos aktu.
+kelių valstybių politinis junginys arba sąjunga.
 
 ## Vartojimas
 
-Terminas vartojamas Lietuvos ir Lenkijos santykių aprašyme, taip pat bažnytinės unijos junginiuose.
+Vartojimo sritis šaltinyje: valstybinė sandara, politinės sutartys.
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Pagal vietinį šaltinio kontekstą terminas „unija“ reiškia: kelių valstybių politinis junginys arba sąjunga."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Šaltinis pateikia kontekstinį unijos apibrėžimą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „unija“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    1385 m. Krėvos sutartis tikrai turėjo būti unijos pradžia, nes Jogaila ten pasižadėjo kartu valdyti abidvi valstybes (unija juk yra tada, kai kelias valstybes valdo vienas valdovas). Bet pats Krėvos aktas dar nebuvo tikras unijos aktas, nes jame nebuvo pasakyta, kaip tos abidvi valstybės bus valdomos, kaip jos santykiaus; tai buvo tik unijos programa.
-  pagrindžia: Sąvokos reikšmę pagal šaltinio paaiškinimą.
-- santrauka: Liublino aktas šaltinyje laikomas pirmuoju aktu, kurį galima vadinti unijos aktu.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    neteisingas. 1385 m. Krėvos sutartis tikrai turėjo būti unijos pra-
+    džia, nes Jogaila ten pasižadėjo kartu valdyti abidvi valstybes (unija
+    juk yra tada, kai kelias valstybes valdo vienas valdovas). Bet pats
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „unija“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Liublino unijos akto reikšmė. Šis aktas buvo pirmasis, kurį galima pavadinti unijos aktu.
-  pagrindžia: Sąvokos taikymą 1569 m. aktui.
+    Liublino unijos akto reikšmė. Šis aktas buvo pirmasis, kurį
+    galima pavadinti unijos aktu. Jis sukūrė savotišką dviejų valsty-
+    bių junginį, kokio ligi tol dar nebuvo; iki tol abiejų pusių bu-
+    vo pripažinti tik 1413 m. ir Zigmanto Kęstutaičio aktai, o visi
+    kiti (1499, 1501, 1564 m.) aktai buvo lietuvių nepatvirtinti. Zig-
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
 ## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Bet pats Krėvos aktas dar nebuvo tikras unijos aktas, nes jame nebuvo pasakyta, kaip tos abidvi valstybės bus valdomos, kaip jos santykiaus; tai buvo tik unijos programa. Netrukus prasidėjęs Vytauto valdymas išardė sugalvotą uniją, ir buvo atstatyta visiškai nepriklausoma Lietuvos valstybė. 1401 m. buvo patvirtinta savarankiškoji Lietuvos valstybė, tačiau tuo pat metu dar buvo numatyta, kad unija turėsianti prasidėti po Vytauto mirties.
-  pagrindžia: Skirtumą tarp programos ir įvykusios unijos.
 
 ## Pastabos

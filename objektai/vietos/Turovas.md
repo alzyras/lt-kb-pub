@@ -1,59 +1,80 @@
 ---
 tipas: vieta
 pavadinimas: "Turovas"
-sukurta: "2026-04-16"
-variantai: 
+sukurta: "2026-04-17"
+variantai:
+  - "Turovas"
   - "Turovą"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "kunigaikštystė / miestas"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # Turovas
 
 ## Santrauka
-
 Turovas minimas tarp Gedimino dinastijos valdomų rytinių sričių.
 
 ## Pavadinimai šaltiniuose
-
 - Turovas
 - Turovą
 
 ## Laikotarpis ir datos
-
 - laikotarpis: 
 - datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-
-Šaltinyje ši vieta įvardijama kaip kunigaikštystė / miestas.
+kunigaikštystė / miestas.
 
 ## Geografinis ir istorinis kontekstas
-
 - tipas: kunigaikštystė / miestas
 - regionas:
 - susiję žmonės:
 - susiję įvykiai:
 - susijusios grupės:
 
-## Reikšmingi paminėjimai
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje „Turovas“ minimas kaip kunigaikštystė / miestas: Turovas minimas tarp Gedimino dinastijos valdomų rytinių sričių."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
-- santrauka: Šaltinis vietą „Turovas“ mini šiame kontekste: Turovas minimas tarp Gedimino dinastijos valdomų rytinių sričių.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Turovas minimas tarp Gedimino dinastijos valdomų rytinių sričių.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Gediminas mirė apie 1341 m. Mirdamas jis paliko 7 sūnus. Jau anksčiau visi jie buvo gavę po sritį. Vyriausias sūnus, Manv y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą ir Pinską, Karijotas — Naugarduką ir Volkoviską, Algirdas — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą.
-  pagrindžia: Vietos „Turovas“ pavadinimą, tipą ir šaltinio kontekstą.
+    Jau anksčiau visi jie buvo gavę po sritį. Vyriausias sūnus, Manv y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą
+    ir Pinską, Karijotas — Naugarduką ir Volkoviską, Algirdas — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų
+    pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą. Jo žinioje
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Šaltiniai ir įrodymai
+- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
 
 ## Pastabos

@@ -1,45 +1,86 @@
 ---
 tipas: grupe
 pavadinimas: "Steigiamasis seimas"
-sukurta: "2026-04-16"
-variantai:
+sukurta: "2026-04-17"
+variantai: 
   - "steigiamasis seimas"
-aliases:
+aliases: 
   - "steigiamasis seimas"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
-datos: []
-vaidmenys: []
+datos: 
+  - "1920 m."
+  - "1917 m."
+periodas: ""
+subperiodiai: []
+date_start: "1920"
+date_end: "1920"
+vaidmenys: 
+  - "seimas"
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "vidutinis"
 ---
 # Steigiamasis seimas
 
 ## Santrauka
-Steigiamasis seimas yra seimas. Šaltinyje ši grupė apibūdinama kaip 1920 m. Lietuvos konstituciją ir valstybės santvarką nustatęs seimas.
+
+1920 m. Lietuvos konstituciją ir valstybės santvarką nustatęs seimas.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Steigiamasis seimas`
-- Variacijos arba alternatyvios formos: `steigiamasis seimas`
+
+- „Steigiamasis seimas“
+
+## Laikotarpis ir datos
+- laikotarpis: 
+- datos: 1920 m., 1917 m.
+- periodas:
+- subperiodiai:
+- date_start: 1920
+- date_end: 1920
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip seimas.
+
+Šaltinyje aiškiai nurodomas grupės tipas: seimas.
 
 ## Sudėtis ir vaidmuo
 - tipas: seimas
-- vaidmuo: 1920 m. Lietuvos konstituciją ir valstybės santvarką nustatęs seimas
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Steigiamasis seimas“ apibūdinama taip: 1920 m. Lietuvos konstituciją ir valstybės santvarką nustatęs seimas."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Šaltinio ištrauka pagrindžia grupės „Steigiamasis seimas“ paminėjimą arba vaidmenį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Steigiamasis seimas
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-- santrauka: Papildomas tiesioginis paminėjimas iš to paties šaltinio.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Vilniuje sušauktas steigiamasis seimas turėjo nustatyti valstybės konstituciją ir santykius su kitomis valstybėmis.
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+    aplyginti ekonominiai reikalavimai (okupacijos sąlygose, ži-
+    noma, dar negalėjo būti kalbos apie Mažosios Lietuvos pri-
+    jungimą). Vilniuje sušauktas steigiamasis seimas turėjo nusta-
+    tyti valstybės konstituciją ir santykius su kitomis valstybėmis.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
+
+## Pastabos

@@ -1,66 +1,81 @@
 ---
 tipas: asmuo
 pavadinimas: "Stanislovas Augustas"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "Stanislovo Augusto"
-  - "Stanislovas Augustas Poniatauskas"
   - "Poniatauskas"
-aliases:
-  - "Stanislovas Augustas"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - valdovas
-laikotarpis: "XVIII a."
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: ""
 datos: []
-vaidmenys:
-  - valdovas
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: []
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis pateikia pilną Stanislovo Augusto Poniatausko formą ir sosto atsisakymo kontekstą."
+susije_irasai: []
+patikimumas: "aukstas"
 ---
 # Stanislovas Augustas
 
 ## Santrauka
-Stanislovas Augustas šiame šaltinyje pristatomas kaip paskutinio Respublikos laikotarpio valdovas, priverstas atsisakyti sosto.
+
+Šaltinyje nurodoma, kad Stanislovas Augustas buvo priverstas atsisakyti nuo sosto.
 
 ## Variantai
+
 - Stanislovo Augusto
-- Stanislovas Augustas Poniatauskas
 - Poniatauskas
 
 ## Laikotarpis ir datos
-- laikotarpis: XVIII a.
-- datos:
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Vaidmenys
-- valdovas
 
 ## Savybės
-- išvaizda:
-- būdas / charakteris:
-- elgesys:
-- reputacija:
-- gebėjimai:
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
-## Reikšmingi paminėjimai
-- santrauka: Šaltinis pateikia pilną valdovo vardą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Stanislovas Augustas Poniatauskas,
-  pagrindžia: Stanislovo Augusto vardo variantą.
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje nurodoma, kad Stanislovas Augustas buvo priverstas atsisakyti nuo sosto."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
-- santrauka: Stanislovas Augustas minimas sosto atsisakymo kontekste.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Citata pagrindžia asmens dalyvavimo ar istorinio įvykio kontekstą.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
     Stanislovas Augustas buvo priverstas atsisakyti nuo sosto.
-  pagrindžia: Stanislovo Augusto politinį likimą.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos

@@ -1,47 +1,104 @@
 ---
 tipas: grupe
 pavadinimas: "Jogailos dinastija"
-sukurta: "2026-04-16"
-variantai:
+sukurta: "2026-04-17"
+variantai: 
   - "Jogailos giminė"
   - "Jogailos sūnūs"
-aliases:
+aliases: 
   - "Jogailos giminė"
   - "Jogailos sūnūs"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
-vaidmenys: []
+laikotarpis: "amžiaus"
+datos: 
+  - "amžiaus"
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: 
+  - "dinastija"
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "vidutinis"
 ---
 # Jogailos dinastija
 
 ## Santrauka
-Jogailos dinastija yra dinastija. Šaltinyje ši grupė apibūdinama kaip jogailos palikuonių valdovų linija, valdžiusi kartu su Lietuva dar beveik pusantro amžiaus.
+
+Jogailos palikuonių valdovų linija, valdžiusi kartu su Lietuva dar beveik pusantro amžiaus.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Jogailos dinastija`
-- Variacijos arba alternatyvios formos: `Jogailos giminė`, `Jogailos sūnūs`
+
+- „Jogailos dinastija“
+- „Jogailos giminė“
+- „Jogailos sūnūs“
+
+## Laikotarpis ir datos
+- laikotarpis: amžiaus
+- datos: amžiaus
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip dinastija.
+
+Šaltinyje aiškiai nurodomas grupės tipas: dinastija.
 
 ## Sudėtis ir vaidmuo
 - tipas: dinastija
-- vaidmuo: jogailos palikuonių valdovų linija, valdžiusi kartu su Lietuva dar beveik pusantro amžiaus
+- laikotarpis: amžiaus
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Jogailos dinastija“ apibūdinama taip: Jogailos palikuonių valdovų linija, valdžiusi kartu su Lietuva dar beveik pusantro amžiaus."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Jogailos palikuonių valdovų linija, valdžiusi kartu su Lietuva dar beveik pusantro amžiaus.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
     Žodžiu, Jogailos dinastijos metu Lenkija klestėte klestėjo.
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-- santrauka: Papildomas tiesioginis paminėjimas iš to paties šaltinio.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Šaltinio ištrauka pagrindžia grupės „Jogailos dinastija“ paminėjimą arba vaidmenį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Tos dinastijos valdovų valdoma, Lenkija galėjo stoti į varžytynes su galingais imperatoriais
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+    Jogailos reikšmė Lietuvai. Lenkai Jogailą laiko vienu didžiųjų
+    savo valdovų, nes per jį jie susiartino su Lietuva, kurios padedami
+    išsprendė sunkų klausimą savo santykių su vokiečiais, o vėliau, jos
+    padedami, varė didelės valstybės politiką. Be to, Lenkijai Jogaila paliko savo dinastiją, kuri, pradedant nuo Kazimiero, valdė ją kartu su
+    Lietuva dar beveik pusantro amžiaus. Tos dinastijos valdovų
+    valdoma, Lenkija galėjo stoti į varžytynes su galingais imperatoriais
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
+- q-002 pagrindžia t-001.
+
+## Pastabos

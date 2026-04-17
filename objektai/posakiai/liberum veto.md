@@ -1,30 +1,35 @@
 ---
 tipas: posakis
 pavadinimas: "liberum veto"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "laisvojo pasipriešinimo teisė"
-aliases:
-  - "liberum veto"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - formulė
-laikotarpis: "po Liublino unijos; XVII-XVIII a."
-datos:
-  - "1652 m."
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+zymos: []
+laikotarpis: "Lietuvos ir Lenkijos Respublikos seimų praktika"
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
 vaidmenys:
-  - "seimo pasipriešinimo teisės formulė"
-dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+  - "pasipriešinimo teisės formulė"
+dalyviai:
+  - "seimo atstovai"
+susije_irasai: []
+patikimumas: ""
 ---
 # liberum veto
 
+## Santrauka
+
+„Liberum veto“ šaltinyje aiškinama kaip laisvojo pasipriešinimo teisė, kai atstovo protestas galėjo priversti seimą nusileisti arba išsiskirstyti nieko nenuveikus.
+
 ## Forma
 
-liberum veto.
+- liberum veto
 
 ## Variantai
 
@@ -32,41 +37,63 @@ liberum veto.
 
 ## Laikotarpis ir datos
 
-- laikotarpis: po Liublino unijos; XVII-XVIII a.
-- datos: 1652 m.
+- laikotarpis: Lietuvos ir Lenkijos Respublikos seimų praktika
+- datos:
+- periodas:
+- subperiodiai:
+- date_start:
+- date_end:
 
 ## Kontekstas ir vartojimas
 
-Šaltinis formulę sieja su seimo vienbalsiškumo praktika: vieno ar kelių atstovų protestas galėjo sustabdyti viso seimo nutarimą.
+Šaltinis frazę aiškina seimų vienbalsiškumo ir atstovo pasipriešinimo teisės kontekste.
 
 ## Reikšmė
 
-Šaltinyje liberum veto reiškia laisvojo pasipriešinimo teisę, dėl kurios seimai galėdavo išsiskirstyti nieko nenuveikę.
+Atstovo teisė pasipriešinti sprendimui, dėl kurios seimas galėjo išsiskirstyti nieko nenuveikęs.
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Šaltinyje „liberum veto“ apibrėžiama kaip laisvojo pasipriešinimo teisė, susijusi su atstovo protestu ir seimų išsiskirstymu nieko nenuveikus."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Vėlesniame santvarkos blogybių aprašyme šaltinis sako, kad liberum veto įėjo į kasdienę politinę praktiką.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Aiškinama, kad atstovo protestas galėjo priversti seimą nusileisti.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Vazų karaliavimo laikai yra netvarkos įsigalėjimo laikotarpis: seimai kaskart vis dažniau ėmė irti, liberum veto įėjo į kasdieninę gyvenimo praktiką. Dažnai girdime, kad liberum veto teise pirmą kartą pasinaudojęs ir seimą išardęs Upytės atstovas Čičinskas (Sicinskis) 1652 m.
-  pagrindžia: Formulės praktinį įsigalėjimą ir 1652 m. paminėjimą.
-- santrauka: Reformų kontekste liberum veto nurodoma kaip pagrindinė politinė blogybė.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    Todėl atstovo pasipriešinimas būdavo
+    laikomas vaivadijos ar pavieto pasipriešinimu, ir niekas nega-
+    lėdavo jo priversti kitaip pasielgti. Šita pasipriešinimo teise
+    ilgainiui buvo pradėta ir blogam naudotis. Dažnai vienas ar
+    keli papirkti atstovai pareikšdavo protestą prieš viso seimo nu-
+    tarimą, ir visas seimas turėdavo nusileisti.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Šaltinis susieja pasipriešinimo teisės dėsnį su pavadinimu „liberum veto“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Vieni bandė siūlyti aptvarkyti gyvenimą, paliekant nepaliestus pagrindinius „aukso laisvės" principus, o kiti net siūlė panaikinti pagrindinę blogybę — liberum veto.
-  pagrindžia: Liberum veto ryšį su XVIII a. reformų klausimu.
+    Pasipriešinimo teisė
+    visų buvo labai branginama, nes visi savo laisvės pagrindu laikė
+    šį dėsnį: „Be manęs nieko negali būti sprendžiama apie mane"
+    _(nihil de те, sine те)._ Tatai vadinosi _liberum veto,_ t. y. laisvojo
+    pasipriešinimo teisė. Dėl jos daugybė seimų turėjo išsiskirstyti,
 
-## Ryšiai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-- susijęs posakis: [[aukso laisvė]]
-- susijęs posakis: [[nihil de те, sine те]]
-
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Pasipriešinimo teisė visų buvo labai branginama, nes visi savo laisvės pagrindu laikė šį dėsnį: „Be manęs nieko negali būti sprendžiama apie mane" (nihil de те, sine те). Tatai vadinosi liberum veto, t. y. laisvojo pasipriešinimo teisė. Dėl jos daugybė seimų turėjo išsiskirstyti, nieko nenuveikę.
-  pagrindžia: Formą, vertimą ir reikšmę seimo pasipriešinimo teisės kontekste.
-
-## Pastabos
+    nieko nenuveikę.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

@@ -1,51 +1,82 @@
 ---
 tipas: grupe
 pavadinimas: "Amerikos Lietuvių Darbininkų Susivienijimas"
-sukurta: "2026-04-16"
-variantai: []
-aliases: []
+sukurta: "2026-04-17"
+variantai: 
+  - "Amerikos Lietuvių Darbininkų Susivienijimas"
+aliases: 
+  - "Amerikos Lietuvių Darbininkų Susivienijimas"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
-datos: []
-vaidmenys: []
+datos: 
+  - "1930 m."
+periodas: ""
+subperiodiai: []
+date_start: "1930"
+date_end: "1930"
+vaidmenys: 
+  - "susivienijimas"
 dalyviai: []
 susije_irasai: []
-patikimumas: "Paremta šaltinio citatomis ir tiesioginiais paminėjimais."
+patikimumas: "vidutinis"
 ---
 # Amerikos Lietuvių Darbininkų Susivienijimas
 
 ## Santrauka
-Amerikos Lietuvių Darbininkų Susivienijimas yra susivienijimas. Šaltinyje ši grupė apibūdinama taip: Trečiasis amerikiečių lietuvių susivienijimas, susiformavęs iš komunistinės srovės.
+
+Trečiasis amerikiečių lietuvių susivienijimas, susiformavęs iš komunistinės srovės.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Amerikos Lietuvių Darbininkų Susivienijimas`
+
+- „Amerikos Lietuvių Darbininkų Susivienijimas“
 
 ## Laikotarpis ir datos
 - laikotarpis: 
+- datos: 1930 m.
+- periodas:
+- subperiodiai:
+- date_start: 1930
+- date_end: 1930
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip susivienijimas.
+
+Šaltinyje aiškiai nurodomas grupės tipas: susivienijimas.
 
 ## Sudėtis ir vaidmuo
 - tipas: susivienijimas
-- vaidmuo: Trečiasis amerikiečių lietuvių susivienijimas, susiformavęs iš komunistinės srovės.
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Amerikos Lietuvių Darbininkų Susivienijimas“ apibūdinama taip: Trečiasis amerikiečių lietuvių susivienijimas, susiformavęs iš komunistinės srovės."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Trečiasis amerikiečių lietuvių susivienijimas, susiformavęs iš komunistinės srovės.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Amerikos Lietuvių Darbininkų Susivienijimą
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-- santrauka: Papildomas tiesioginis paminėjimas iš to paties šaltinio.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tuo būdu Amerikoje atsirado trečias lietuvių Susivienijimas.
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+    Pagaliau po triukšmingo 1930 m. Čikagoje įvykusio Susivienijimo seimo jie įsikūrė atskirą organizaciją — Amerikos Lietuvių Darbininkų Susivienijimą.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos
-- Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

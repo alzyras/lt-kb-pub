@@ -1,72 +1,79 @@
 ---
 tipas: paprotys
 pavadinimas: "Kryžių statymas ant piliakalnio"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
-  - "kryžių statymas ant Kryžių Kalno"
+  - "žmonės stato ant jo kryžius"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos:
   - religinė-praktika
 laikotarpis: ""
 datos: []
-vaidmenys:
-  - "prašymo arba padėkos Dievui ženklas"
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: []
 dalyviai:
   - "žmonės"
-susije_irasai:
-  - "[[Kryžius]]"
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: ""
 ---
 # Kryžių statymas ant piliakalnio
 
 ## Santrauka
 
-Šaltinis Kryžių Kalno piliakalnio aprašyme mini praktiką, kai žmonės, laikydami piliakalnį šventa vieta, stato ant jo kryžius prašydami Dievo malonės arba dėkodami.
+Žmonės statė kryžius ant šventa laikomos Kryžių Kalno vietos, prašydami Dievo arba reikšdami Jam padėką.
 
 ## Laikotarpis ir datos
 - laikotarpis:
 - datos:
+- periodas:
+- subperiodiai:
+- date_start:
+- date_end:
 
 ## Kas tai
 
-Tai šaltinyje įvardyta pamaldumo praktika, susieta su piliakalnio laikymu šventa vieta.
+Pamaldumo praktika, šaltinyje siejama su Kryžių Kalnu Jurgaičių kaime.
 
 ## Atlikimas
-- kas atlieka: žmonės.
-- kada atliekama: kai piliakalnis laikomas šventa vieta.
-- kaip atliekama: ant piliakalnio statomi kryžiai.
+- kas atlieka: žmonės
+- kada atliekama: kai piliakalnis laikomas šventa vieta
+- kaip atliekama: ant piliakalnio statomi kryžiai
 
 ## Paskirtis
 
-Šaltinis nurodo dvi paskirtis: ko nors išprašyti iš Dievo arba Jam padėkoti.
+Prašyti Dievo arba Jam dėkoti.
 
 ## Kontekstas
-- regionas: Jurgaičių kaimas, Meškučių valsčius, Šiaulių apskritis.
+- regionas: Jurgaičių kaimas, Meškučių valsčius, Šiaulių apskritis
 - laikotarpis:
-- susiję žodžiai: šventa vieta, Dievas, padėka.
-- susiję daiktai: [[Kryžius]].
+- susiję žodžiai:
+- susiję daiktai:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje nurodyta, kad žmonės, laikydami Kryžių Kalno piliakalnį šventa vieta, stato ant jo kryžius prašydami Dievo arba reikšdami Jam padėką."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- santrauka: Šaltinis vietą įvardija kaip Kryžių Kalną ir lokalizuoja ją Jurgaičių kaime.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Kryžių statymas ant piliakalnio siejamas su prašymu Dievui ir padėka.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Piliakalnis — Kryžių Kalnas Jurgaičių kaime, Meškučių valsč., Šiaulių apskr.
-  pagrindžia: Papročio vietos ir pavadinimo kontekstą.
-
-## Ryšiai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-- daiktas: [[Kryžius]]
-
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Piliakalnį laikydami šventa vieta, žmonės stato ant jo kryžius, norėdami ko išprašyti iš Dievo arba reikšdami Jam padėką.
-  pagrindžia: Kas atlieka praktiką, ką daro ir kokiu tikslu.
-
-## Pastabos
+    Piliakalnis — Kryžių Kalnas
+    Jurgaičių kaime, Meškučių valsč., Šiaulių apskr. Piliakalnį laikydami šventa
+    vieta, žmonės stato ant jo kryžius, norėdami ko išprašyti iš Dievo arba
+    reikšdami Jam padėką.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

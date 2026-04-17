@@ -1,69 +1,84 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "pravoslavinimas"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "pravoslavinimu"
   - "pravoslavinimo"
   - "pravoslavinamąjį"
-aliases:
-  - "pravoslavinimas"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - religinis-terminas
-laikotarpis: "XIX a. rusinimo laikai"
+  - "istorinė-sąvoka"
+laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "žodyno terminas"
+  - "religinė ir kultūrinė asimiliacija"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Reikšmė aiškinama tik iš rusinimo ir kovos dėl bažnyčių aprašymo."
+susije_irasai: []
+patikimumas: ""
 ---
 # pravoslavinimas
 
+## Santrauka
+
+Terminas „pravoslavinimas“ šiame šaltinyje vartojamas reikšme: stačiatikybės skleidimas kaip rusinimo priemonė.
+
 ## Žodis ir formos
 
-- Kanoninė forma: `pravoslavinimas`
-- Šaltinio formos: `pravoslavinimu`, `pravoslavinimo`, `pravoslavinamąjį`
-
-## Laikotarpis ir datos
-
-- laikotarpis: XIX a. rusinimo laikai
-- datos:
+- Pagrindinė forma: „pravoslavinimas“.
+- Šaltinyje rasta forma: „pravoslavinimu“.
+- Šaltinyje rasta forma: „pravoslavinimo“.
+- Šaltinyje rasta forma: „pravoslavinamąjį“.
 
 ## Reikšmė iš konteksto
 
-Šaltinyje `pravoslavinimas` reiškia pastangas versti ar skatinti katalikus pereiti į pravoslaviją ir naudoti pravoslaviją kaip rusinimo priemonę.
+stačiatikybės skleidimas kaip rusinimo priemonė.
 
 ## Vartojimas
 
-Terminas vartojamas slaptojoje lietuvių spaudoje, Valančiaus raginimuose ir kovos su rusinimu aprašyme.
+Vartojimo sritis šaltinyje: religinė ir kultūrinė asimiliacija.
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Pagal vietinį šaltinio kontekstą terminas „pravoslavinimas“ reiškia: stačiatikybės skleidimas kaip rusinimo priemonė."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Šaltinis sieja pravoslavinimą su rusinimu ir mokyklomis.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „pravoslavinimas“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Siekdama to tikslo, ji labiausiai kovojo prieš pravoslavinamąjį rusinimą, ragino tėvus neleisti savo vaikų rusinti mokyklose. Apskritai „Apžvalga" buvo nepaprastai karinga.
-  pagrindžia: Pravoslavinimo ryšį su rusinimu.
-- santrauka: Valančiaus atsišaukimai šaltinyje aprašomi kaip mokymas priešintis pravoslavinimui.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    Tam tikslui vysk. Valančius išleido net 9 slaptus
+    atsišaukimus, kuriuose mokė, kaip turi priešintis pravoslavi-
+    nimui tikintieji ir kunigai. Jis ragino jokiu būdu neiti į cerkves.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „pravoslavinimas“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Tam tikslui vysk. Valančius išleido net 9 slaptus atsišaukimus, kuriuose mokė, kaip turi priešintis pravoslavinimui tikintieji ir kunigai. Jis ragino jokiu būdu neiti į cerkves.
-  pagrindžia: Pravoslavinimą kaip religinės prievartos ar spaudimo objektą.
-
-## Ryšiai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Jei kunigams įsakytų raginti žmones į pravoslaviją, jie turį
-
-    veikti priešingai, nors už tai tektų ir mirti.
-  pagrindžia: Pravoslavinimo spaudimo pobūdį šaltinyje.
-
-## Pastabos
+    ji labiausiai kovojo prieš pravoslavinamąjį rusinimą, ragino tėvus
+    neleisti savo vaikų rusinti mokyklose.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

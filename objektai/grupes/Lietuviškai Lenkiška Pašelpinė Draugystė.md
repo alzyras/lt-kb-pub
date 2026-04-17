@@ -1,46 +1,81 @@
 ---
 tipas: grupe
 pavadinimas: "Lietuviškai Lenkiška Pašelpinė Draugystė"
-sukurta: "2026-04-16"
-variantai: []
-aliases: []
+sukurta: "2026-04-17"
+variantai: 
+  - "Lietuviškai Lenkiška Pašelpinė Draugystė"
+aliases: 
+  - "Lietuviškai Lenkiška Pašelpinė Draugystė"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: 
+  - "draugija"
 dalyviai: []
 susije_irasai: []
-patikimumas: "Paremta šaltinio citatomis ir tiesioginiais paminėjimais."
+patikimumas: "vidutinis"
 ---
 # Lietuviškai Lenkiška Pašelpinė Draugystė
 
 ## Santrauka
-Lietuviškai Lenkiška Pašelpinė Draugystė yra draugija. Šaltinyje ši grupė apibūdinama taip: Ankstyva Amerikoje veikusi draugija, rodžiusi lietuvių prisišliejimą prie lenkų.
+
+Ankstyva Amerikoje veikusi draugija, rodžiusi lietuvių prisišliejimą prie lenkų.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Lietuviškai Lenkiška Pašelpinė Draugystė`
+
+- „Lietuviškai Lenkiška Pašelpinė Draugystė“
 
 ## Laikotarpis ir datos
 - laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip draugija.
+
+Šaltinyje aiškiai nurodomas grupės tipas: draugija.
 
 ## Sudėtis ir vaidmuo
 - tipas: draugija
-- vaidmuo: Ankstyva Amerikoje veikusi draugija, rodžiusi lietuvių prisišliejimą prie lenkų.
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Lietuviškai Lenkiška Pašelpinė Draugystė“ apibūdinama taip: Ankstyva Amerikoje veikusi draugija, rodžiusi lietuvių prisišliejimą prie lenkų."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Viena iš lenkiškų draugijų, su kuriomis pirmieji Amerikos lietuviai buvo susiję.; Ankstyva Amerikoje veikusi draugija, rodžiusi lietuvių prisišliejimą prie lenkų.; Viena iš ankstyvųjų lietuvių draugijų Amerikoje, kuriai suteiktas lenkiškas Jagiello vardas.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Lietuviškai Lenkiška Pašelpinė Draugystė
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+    Atsirado draugijų, kurių jau vieni vardai rodė prisišliejimą prie lenkų, pavyzdžiui: Unija Lubelska, Lietuviškai Lenkiška Pašelpinė Draugystė arba Króla Władysława Jagiełły Draugystė.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos
-- Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

@@ -1,69 +1,99 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "baudžiava"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "baudžiavos"
+  - "baudžiauninkų"
   - "baudžiavą"
-  - "baudžiauninko"
-aliases:
-  - "baudžiava"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - istorinė-sąvoka
-laikotarpis: "XVI-XIX a.; panaikinta 1861 m. manifestu"
-datos:
-  - "1557 m."
-  - "1861 m."
-vaidmenys: []
+  - "istorinė-sąvoka"
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "žodyno terminas"
+  - "socialinė ir ekonominė istorija"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Reikšmė aiškinama tik iš valstiečių prievolių ir panaikinimo aprašymų."
+susije_irasai: []
+patikimumas: ""
 ---
 # baudžiava
 
+## Santrauka
+
+Terminas „baudžiava“ šiame šaltinyje vartojamas reikšme: valstiečių prievolinė priklausomybė nuo dvaro.
+
 ## Žodis ir formos
 
-- Kanoninė forma: `baudžiava`
-- Šaltinio formos: `baudžiava`, `baudžiavos`, `baudžiavą`, `baudžiauninko`
+- Pagrindinė forma: „baudžiava“.
+- Šaltinyje rasta forma: „baudžiava“.
+- Šaltinyje rasta forma: „baudžiavos“.
+- Šaltinyje rasta forma: „baudžiauninkų“.
+- Šaltinyje rasta forma: „baudžiavą“.
 
 ## Laikotarpis ir datos
-
-- laikotarpis: XVI-XIX a.; panaikinta 1861 m. manifestu
-- datos: 1557 m.; 1861 m.
+- laikotarpis: 
+- datos:
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Reikšmė iš konteksto
 
-Šaltinyje `baudžiava` reiškia valstiečių priklausomybę ir prievolinį darbą dvarui. Konkrečiai minima pareiga nuo valako eiti dirbti dvarui kelias dienas per savaitę.
+valstiečių prievolinė priklausomybė nuo dvaro.
 
 ## Vartojimas
 
-Terminas vartojamas valstiečių būklės, dvarų prievolių, reformų ir baudžiavos panaikinimo aprašymuose.
+Vartojimo sritis šaltinyje: socialinė ir ekonominė istorija.
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Pagal vietinį šaltinio kontekstą terminas „baudžiava“ reiškia: valstiečių prievolinė priklausomybė nuo dvaro."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Šaltinis nurodo konkrečią baudžiavos prievolę nuo valako.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „baudžiava“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Inventoriuose, pavyzdžiui, buvo nustatyta, kad nuo valako turi eiti dvarui baudžiavą 3 dienas savaitėje vyras su arkliu ir 1 dieną moteris; už kitų dienų darbus turėjo būti atlyginama nustatyta taksa.
-  pagrindžia: Baudžiavos kaip dvaro darbo prievolės reikšmę.
-- santrauka: 1861 m. manifestas šaltinyje siejamas su baudžiavos panaikinimu visoje Rusijos imperijoje.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    būklė, nes visur buvo įvesta sunki baudžiava. Tuo tarpu jau
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „baudžiava“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Baudžiavos panaikinimo manifestas buvo paruoštas Petrapily ir paskelbtas 1861 m. vasario 19 d. Juo visoje Rusijos imperijoje buvo panaikinta baudžiava, o valstiečiams duota teisė per 49 metus išsipirkti žemę.
-  pagrindžia: Panaikinimo datą ir reformos turinį.
+    Baudžiavos panaikinimo klausimas. Apie baudžiavos pa-
+    naikinimą bajorijos daugumas nenorėjo nė girdėti. Po I pada-
+    linimo buvo ketinta paruošti visų Respublikos įstatymų ko-
+    deksą; darbas buvo pavestas vienam mokslintam Lenkijos
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
 ## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Su šia reforma valakas pasidarė ūkio vienetas: nuo jo buvo imami mokesčiai, nuo jo buvo einamos ir pareigos.
-  pagrindžia: Baudžiavos ryšį su valakų reforma ir prievolėmis.
 
 ## Pastabos

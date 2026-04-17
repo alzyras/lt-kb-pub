@@ -1,40 +1,81 @@
 ---
 tipas: grupe
 pavadinimas: "Bernardinai"
-sukurta: "2026-04-16"
-variantai:
+sukurta: "2026-04-17"
+variantai: 
   - "bernardinai"
-aliases:
+aliases: 
   - "bernardinai"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: 
+  - "vienuolių ordinas"
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "vidutinis"
 ---
 # Bernardinai
 
 ## Santrauka
-Bernardinai yra vienuolių ordino grupė. Šaltinyje ši grupė apibūdinama kaip katalikų vienuolių grupė, įvardyta tarp kitų švietimo darbe dalyvavusių ordinų.
+
+Katalikų vienuolių grupė, įvardyta tarp kitų švietimo darbe dalyvavusių ordinų.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Bernardinai`
-- Variacijos arba alternatyvios formos: `bernardinai`
+
+- „Bernardinai“
+
+## Laikotarpis ir datos
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip vienuolių ordinas.
+
+Šaltinyje aiškiai nurodomas grupės tipas: vienuolių ordinas.
 
 ## Sudėtis ir vaidmuo
 - tipas: vienuolių ordinas
-- vaidmuo: katalikų vienuolių grupė, įvardyta tarp kitų švietimo darbe dalyvavusių ordinų
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Bernardinai“ apibūdinama taip: Katalikų vienuolių grupė, įvardyta tarp kitų švietimo darbe dalyvavusių ordinų."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Katalikų vienuolių grupė, įvardyta tarp kitų švietimo darbe dalyvavusių ordinų.; Minimi kartu su kitais katalikų vienuoliais, dalyvavusiais švietime.; Minimi kaip vienas iš švietime veikusių katalikų ordinų.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: domininkonai, karmelitai, bernardinai, pranciškonai, augustinijonai ir kt. Jų vienuolynų Lietuvoje buvo jau gana daug.
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+    dar rūpinosi šių ordinų vienuoliai: domininkonai, karmelitai, bernardinai, pranciškonai, augustinijonai ir kt.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
+
+## Pastabos

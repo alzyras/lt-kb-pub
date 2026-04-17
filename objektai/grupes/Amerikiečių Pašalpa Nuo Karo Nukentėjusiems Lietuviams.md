@@ -1,49 +1,87 @@
 ---
 tipas: grupe
 pavadinimas: "Amerikiečių Pašalpa Nuo Karo Nukentėjusiems Lietuviams"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai: 
   - "Amerikiečių Pašalpa"
 aliases: 
   - "Amerikiečių Pašalpa"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: 
+  - "organizacija"
 dalyviai: []
 susije_irasai: []
-patikimumas: "Paremta šaltinio citatomis ir tiesioginiais paminėjimais."
+patikimumas: "vidutinis"
 ---
 # Amerikiečių Pašalpa Nuo Karo Nukentėjusiems Lietuviams
 
 ## Santrauka
-Amerikiečių Pašalpa Nuo Karo Nukentėjusiems Lietuviams yra organizacija. Šaltinyje ši grupė apibūdinama taip: Kunigo Miluko rūpesčiu įkurta organizacija, rinkusi bažnytines aukas.
+
+Kunigo Miluko rūpesčiu įkurta organizacija, kuri, padedant kardinolui Farley, daugumoje Amerikos vyskupysčių rengė bažnytines rinkliavas.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Amerikiečių Pašalpa Nuo Karo Nukentėjusiems Lietuviams`
-- Variacijos arba alternatyvios formos: `Amerikiečių Pašalpa`
+
+- „Amerikiečių Pašalpa Nuo Karo Nukentėjusiems Lietuviams“
+- „Amerikiečių Pašalpa“
 
 ## Laikotarpis ir datos
 - laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip organizacija.
+
+Šaltinyje aiškiai nurodomas grupės tipas: organizacija.
 
 ## Sudėtis ir vaidmuo
 - tipas: organizacija
-- vaidmuo: Kunigo Miluko rūpesčiu įkurta organizacija, rinkusi bažnytines aukas.
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Amerikiečių Pašalpa Nuo Karo Nukentėjusiems Lietuviams“ apibūdinama kaip kunigo Miluko rūpesčiu įkurta organizacija, kuri, padedant kardinolui Farley, daugumoje Amerikos vyskupysčių rengė bažnytines rinkliavas."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Kunigo Miluko rūpesčiu įkurta organizacija, rengusi bažnytines rinkliavas.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Amerikiečių Pašalpa Nuo Karo Nukentėjusiems Lietuviams
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+    Amerikiečių Pašalpa Nuo Karo Nukentėju-
+    siems Lietuviams (kun. Miluko rūpesčiu įkurtoji organizacija),
+    jos garbės pirmininkui, Naujorko kardinolui Farley, padedant,
+
+    daugumoje Amerikos vyskupysčių padarė bažnyčiose rinkliavas,
+    kurios taip pat davė dideles sumas.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos
-- Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

@@ -1,66 +1,81 @@
 ---
 tipas: asmuo
 pavadinimas: "Mikalojus Radvila Juodasis"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "Mikalojus Radvila, vadinamas Juoduoju"
   - "Juodasis"
-aliases:
-  - "Mikalojus Radvila Juodasis"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - didikas
-laikotarpis: "XVI a."
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: ""
 datos: []
-vaidmenys:
-  - hetmonas
-  - politinis veikėjas
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: []
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis tiesiogiai pateikia Mikalojų Radvilą Juodąjį ir jo pravardės variantą."
+susije_irasai: []
+patikimumas: "aukstas"
 ---
 # Mikalojus Radvila Juodasis
 
 ## Santrauka
-Mikalojus Radvila Juodasis šiame šaltinyje minimas kaip svarbus Radvilų politinis veikėjas ir hetmonas.
+
+Mikalojus Radvila Juodasis šiame šaltinyje minimas kaip vienas iš svarbių Radvilų politinių veikėjų.
 
 ## Variantai
+
 - Mikalojus Radvila, vadinamas Juoduoju
 - Juodasis
 
 ## Laikotarpis ir datos
-- laikotarpis: XVI a.
-- datos:
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Vaidmenys
-- hetmonas
-- politinis veikėjas
 
 ## Savybės
-- išvaizda:
-- būdas / charakteris:
-- elgesys:
-- reputacija:
-- gebėjimai:
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
-## Reikšmingi paminėjimai
-- santrauka: Šaltinis pateikia Mikalojų Radvilą Juoduoju vadinamo asmens forma.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Vykdyti sutarties į Livoniją buvo pasiųstas galingiausios to meto Lietuvos didžiūnų šeimos narys ir sumaniausias politikas kancleris Mikalojus Radvila, vadinamas Juoduoju. Jis įgijo visų livoniečių pasitikėjimą ir prikalbėjo juos visiškai susijungti su Lietuva. Tačiau, atvykę į Vilnių, Livonijos delegatai pareiškė Zigmantui Augustui, kad norį susijungti ne su viena Lietuva, bet kartu ir su Lenkija, nes tikėjosi, kad tik abidvi valstybės galės juos apginti nuo Maskvos.
-  pagrindžia: Vardo ir pravardės formą.
+## Teiginiai
+- id: t-001
+  teiginys: "Mikalojus Radvila Juodasis šiame šaltinyje minimas kaip vienas iš svarbių Radvilų politinių veikėjų."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
-- santrauka: Šaltinis jį įvardija hetmonu.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Citata pagrindžia asmens pareigas arba vaidmenį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Bet toliau eiti jai jau nebesisekė: hetmonas Mikalojus Radvila, vadinamas Ruduoju (Juodojo pusbrolis), smarkiai sumušė caro kariuomenę ties Ula (1564 m. pradžioje; 4.000 lietuvių sumušė apie 30.000 maskviečių; kita Maskvos armija, sužinojusi apie pirmosios pralaimėjimą, pabėgo be kovos, palikdama didelį grobį).
-  pagrindžia: Hetmono vaidmenį.
+    Mikalojus Radvila, vadinamas Juoduoju.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos

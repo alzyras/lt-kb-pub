@@ -1,62 +1,83 @@
 ---
 tipas: vieta
 pavadinimas: "Paryžius"
-sukurta: "2026-04-16"
-variantai: 
+sukurta: "2026-04-17"
+variantai:
+  - "Paryžius"
   - "Paryžiuje"
   - "Paryžių"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos: []
-laikotarpis: "1919 m.; tarpukaris"
-datos: 
+laikotarpis: "1919 m."
+datos:
   - "1919 m."
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: "1919"
+date_end: "1919"
+vaidmenys:
+  - "miestas"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # Paryžius
 
 ## Santrauka
-
 Paryžius svarbus kaip taikos konferencijų ir lietuvių diplomatijos vieta.
 
 ## Pavadinimai šaltiniuose
-
 - Paryžius
 - Paryžiuje
 - Paryžių
 
 ## Laikotarpis ir datos
-
-- laikotarpis: 1919 m.; tarpukaris
+- laikotarpis: 1919 m.
 - datos: 1919 m.
+- periodas:
+- subperiodiai:
+- date_start: 1919
+- date_end: 1919
 
 ## Kas tai
-
-Šaltinyje ši vieta įvardijama kaip miestas.
+miestas.
 
 ## Geografinis ir istorinis kontekstas
-
 - tipas: miestas
 - regionas:
 - susiję žmonės:
 - susiję įvykiai:
 - susijusios grupės:
 
-## Reikšmingi paminėjimai
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje „Paryžius“ minimas kaip miestas: Paryžius svarbus kaip taikos konferencijų ir lietuvių diplomatijos vieta."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
-- santrauka: Šaltinis vietą „Paryžius“ mini šiame kontekste: Paryžius svarbus kaip taikos konferencijų ir lietuvių diplomatijos vieta.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Paryžius svarbus kaip taikos konferencijų ir lietuvių diplomatijos vieta.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Amerikoje ir kitur užsieniuose nebuvo tuo atžvilgiu suvaržyti ir aiškiai pabrėžė savo reikalavimuose Mažosios ir Didžiosios Lietuvos sujungimą. Taikos konferencijoje Paryžiuje Lietuvos delegacija jau oficialiai ta prasme išdėstė savo reikalavimus (1919.III.24.).
-  pagrindžia: Vietos „Paryžius“ pavadinimą, tipą ir šaltinio kontekstą.
+    Lietuvos sujungimą. Taikos konferencijoje Paryžiuje Lietuvos
+    delegacija jau oficialiai ta prasme išdėstė savo reikalavimus
+    (1919.III.24.).
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Šaltiniai ir įrodymai
+- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
 
 ## Pastabos

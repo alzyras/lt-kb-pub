@@ -1,62 +1,86 @@
 ---
 tipas: asmuo
 pavadinimas: "K. Masiliūnas"
-sukurta: "2026-04-16"
-variantai:
-  - "K. Masiliūno"
-aliases:
-  - "K. Masiliūnas"
+sukurta: "2026-04-17"
+variantai: []
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: "1936 m."
-datos:
-  - "1936 m."
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
 vaidmenys:
-  - viceministeris
-  - vadovėlio rengimo organizatorius
+  - "viceministras"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis K. Masiliūną įvardija viceministru ir vadovėlio bendradarbių subūrimo organizatoriumi; pilnas vardas šaltinyje neišrašytas."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # K. Masiliūnas
 
 ## Santrauka
-K. Masiliūnas šiame šaltinyje minimas kaip viceministeris, kurio rūpesčiu buvo suburti vadovėlio rengėjai.
+
+Šaltinyje nurodoma, kad p. viceministerio K. Masiliūno rūpesčiu buvo suburti vadovėlio rengėjai.
 
 ## Variantai
-- K. Masiliūno
 
 ## Laikotarpis ir datos
-- laikotarpis: 1936 m.
-- datos: 1936 m.
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Vaidmenys
-- viceministeris
-- vadovėlio rengimo organizatorius
+
+- viceministras
 
 ## Savybės
-- išvaizda:
-- būdas / charakteris:
-- elgesys:
-- reputacija:
-- gebėjimai:
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje nurodoma, kad p. viceministerio K. Masiliūno rūpesčiu buvo suburti vadovėlio rengėjai."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
-- santrauka: K. Masiliūno rūpesčiu buvo suburti vadovėlio rengėjai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Citata įvardija K. Masiliūną ir jo rūpestį suburiant vadovėlio rengėjus.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Pagaliau p. Viceministerio K. Masiliūno rūpesčiu buvo suburta penketas žmonių, sutikusių imtis to darbo ir sutarusių parašyti kiekvienas apie atskirą mūsų tautos gyvenimo laikotarpį.
-  pagrindžia: K. Masiliūno organizacinį vaidmenį.
+    Ypač dėl jo sielojosi Švietimo
+    Ministerija. Pagaliau p. Viceministerio K. Masiliūno rūpesčiu
+    buvo suburta penketas žmonių, sutikusių imtis to darbo ir su-
+    tarusių parašyti kiekvienas apie atskirą mūsų tautos gyvenimo
+    laikotarpį.
+  priskyrimo_pagrindas: needs_review
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
 ## Šaltiniai ir įrodymai
-- Pagrindinis įrodymas pateiktas skiltyje „Reikšmingi paminėjimai“.
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos
-- Tapatybė palikta inicialine forma, nes pilnas vardas šiame šaltinyje nepateiktas.
+
+- Identiteto pastaba: Pilnas vardas šaltinyje nenurodytas.

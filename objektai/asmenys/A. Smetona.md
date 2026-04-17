@@ -1,61 +1,79 @@
 ---
 tipas: asmuo
 pavadinimas: "A. Smetona"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai: []
-aliases:
-  - "A. Smetona"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: "XX a."
+laikotarpis: ""
 datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
 vaidmenys:
-  - valstybės prezidentas
-  - Lietuvos Tarybos narys
+  - "prezidentas"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis A. Smetoną tiesiogiai įvardija valstybės prezidentu ir Lietuvos Tarybos kontekste."
+susije_irasai: []
+patikimumas: "aukstas"
 ---
 # A. Smetona
 
 ## Santrauka
-A. Smetona šiame šaltinyje minimas kaip valstybės prezidentas, Lietuvos Tarybos narys ir politinių organizacijų veikėjas.
+
+A. Smetona šiame šaltinyje minimas kaip valstybės prezidentas ir politinių organizacijų veikėjas.
 
 ## Variantai
 
 ## Laikotarpis ir datos
-- laikotarpis: XX a.
-- datos:
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Vaidmenys
-- valstybės prezidentas
-- Lietuvos Tarybos narys
+
+- prezidentas
 
 ## Savybės
-- išvaizda:
-- būdas / charakteris:
-- elgesys:
-- reputacija:
-- gebėjimai:
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
+## Teiginiai
+- id: t-001
+  teiginys: "A. Smetona šiame šaltinyje minimas kaip valstybės prezidentas ir politinių organizacijų veikėjas."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
-- santrauka: Šaltinis A. Smetoną įvardija valstybės prezidentu.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Citata pagrindžia asmens pareigas arba vaidmenį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
     Valstybės Prezidentas A. Smetona).
-  pagrindžia: A. Smetonos prezidento vaidmenį.
-
-- santrauka: Lietuvos Taryba A. Smetoną išsirinko pirmininku.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Savo pirmininku Taryba išsirinko A. Smetoną.
-  pagrindžia: A. Smetonos vaidmenį Lietuvos Taryboje.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos

@@ -1,65 +1,83 @@
 ---
 tipas: asmuo
 pavadinimas: "Daumantas"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "Daumanto"
-aliases:
-  - "Daumantas"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - kunigaikštis
-laikotarpis: "XIII a."
-datos:
-  - "XIII a."
+  - "kunigaikštis"
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
 vaidmenys:
-  - Nalšėnų kunigaikštis
-  - kariuomenės vadas
+  - "kunigaikštis"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis tiesiogiai įvardija Daumantą Nalšėnų kunigaikščiu ir kariuomenės vadu."
+susije_irasai: []
+patikimumas: "aukstas"
 ---
 # Daumantas
 
 ## Santrauka
-Daumantas šiame šaltinyje minimas kaip Nalšėnų kunigaikštis, vadovavęs kariuomenei ir dalyvavęs Mindaugo nužudyme.
+
+Šaltinyje nurodoma, kad kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas.
 
 ## Variantai
+
 - Daumanto
 
 ## Laikotarpis ir datos
-- laikotarpis: XIII a.
-- datos: XIII a.
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Vaidmenys
-- Nalšėnų kunigaikštis
-- kariuomenės vadas
+
+- kunigaikštis
 
 ## Savybės
-- išvaizda:
-- būdas / charakteris:
-- elgesys:
-- reputacija:
-- gebėjimai:
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje nurodoma, kad kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
-- santrauka: Daumantas įvardytas Nalšėnų kunigaikščiu ir kariuomenės vadu.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Citata pagrindžia asmens pareigas arba vaidmenį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
     Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas.
-  pagrindžia: Daumanto tapatybę ir karinį vaidmenį.
-
-- santrauka: Daumantas minimas kaip Mindaugo nužudymo sąmokslo dalyvis.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Daumantas susimokę jį nužudė.
-  pagrindžia: Daumanto dalyvavimą Mindaugo nužudyme.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos

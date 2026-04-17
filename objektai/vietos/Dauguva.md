@@ -1,65 +1,80 @@
 ---
 tipas: vieta
 pavadinimas: "Dauguva"
-sukurta: "2026-04-16"
-variantai: 
+sukurta: "2026-04-17"
+variantai:
+  - "Dauguva"
   - "Dauguvos"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "upė"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # Dauguva
 
 ## Santrauka
-
 Upė svarbi aisčių gyvenamos erdvės ir prekybos kelių riboje.
 
 ## Pavadinimai šaltiniuose
-
 - Dauguva
 - Dauguvos
 
 ## Laikotarpis ir datos
-
 - laikotarpis: 
 - datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-
-Šaltinyje ši vieta įvardijama kaip upė.
+upė.
 
 ## Geografinis ir istorinis kontekstas
-
 - tipas: upė
 - regionas:
 - susiję žmonės:
 - susiję įvykiai:
 - susijusios grupės:
 
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje „Dauguva“ minimas kaip upė: Upė svarbi aisčių gyvenamos erdvės ir prekybos kelių riboje."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
-
-- santrauka: Šaltinis vietą „Dauguva“ mini šiame kontekste: Upė svarbi aisčių gyvenamos erdvės ir prekybos kelių riboje.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Upė svarbi aisčių gyvenamos erdvės ir prekybos kelių riboje.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Kada ir iš kur aisčiai atsikraustė į Pabaltijį, lig šiol mokslas dar nėra nustatęs (yra tik keletas hipotezių). Bet prasidedant istoriniams laikams, jie jau gyveno Baltijos pakrantėse, tarp Vyslos ir Dauguvos upių ir dar už Dauguvos, maždaug iki dabartinės Estijos sienos. Kalbų mokslas iš visų aisčių išskiria tris kilčių grupes. Pirmoji, dešiniajam Vyslos žemupio krante gyvenusi, vakarinė kilčių grupė paprastai vadinama prūsais; nuo jų į šiaurės rytus gyveno tos aisčių kiltys, iš kurių yra susiformavusi lietuvių tauta, o dar toliau gyveno tos kiltys, iš kurių yra susidarę dabartiniai latviai.
-  pagrindžia: Vietos „Dauguva“ pavadinimą, tipą ir šaltinio kontekstą.
-
-- santrauka: Papildomas šaltinio paminėjimas apie vietą „Dauguva“.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tik didelė dalis sėlių pateko į lietuvių valstybę, ir jų vardas išnyko. Bet ne visa dabartinė Latvija buvo gyvenama aisčių. Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai. Aisčiams jie visiškai ne giminės; kartu su estais ir suomiais jie priklauso prie neaiškios kilmės tautų, mokslo vadinamų ugriais suomiais.
-  pagrindžia: Papildomą vietos „Dauguva“ vartoseną šaltinyje.
+    nustatęs (yra tik keletas hipotezių). Bet prasidedant istoriniams
+    laikams, jie jau gyveno Baltijos pakrantėse, tarp Vyslos ir Dauguvos upių ir dar už Dauguvos, maždaug iki dabartinės Estijos
+    sienos.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Šaltiniai ir įrodymai
+- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
 
 ## Pastabos

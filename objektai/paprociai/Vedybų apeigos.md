@@ -1,70 +1,78 @@
 ---
 tipas: paprotys
 pavadinimas: "Vedybų apeigos"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
-  - "vedybų papročiai"
+  - "vedybų apeigos"
+  - "vestuvinės dainos"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos:
   - ritualas
   - šeima
-laikotarpis: "senovės aisčių visuomenės kontekstas"
+laikotarpis: "senovės aisčių visuomeninė santvarka"
 datos: []
-vaidmenys:
-  - "šeimos sukūrimo svarbos ženklas"
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: []
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis tik bendrai mini išlikusias vedybų apeigas, papročius ir dainas; atlikėjai ir eiga nedetalizuojami."
+susije_irasai: []
+patikimumas: ""
 ---
 # Vedybų apeigos
 
 ## Santrauka
 
-Šaltinis vedybų apeigas mini senovės aisčių visuomeninės santvarkos skyriuje kaip ženklą, kad šeimos sukūrimas buvo laikomas labai svarbiu įvykiu.
+Šaltinis vedybų apeigas, papročius ir vestuvines dainas pateikia kaip ženklą, kad šeimos sukūrimas buvo laikomas labai svarbiu įvykiu.
 
 ## Laikotarpis ir datos
-- laikotarpis: senovės aisčių visuomenės kontekstas.
+- laikotarpis: senovės aisčių visuomeninė santvarka
 - datos:
+- periodas:
+- subperiodiai:
+- date_start:
+- date_end:
 
 ## Kas tai
 
-Tai šeimos sukūrimą lydėjusios apeigos ir papročiai, kurių gausų išlikimą šaltinis nurodo kaip šeimos reikšmės įrodymą.
+Šeimos sukūrimą lydėjusios apeigos ir papročiai.
 
 ## Atlikimas
 - kas atlieka:
-- kada atliekama: šeimos sukūrimo metu.
-- kaip atliekama: šaltinis nurodo tik apeigas, papročius ir vestuvines dainas, bet jų eigos neaprašo.
+- kada atliekama: kuriant šeimą
+- kaip atliekama:
 
 ## Paskirtis
 
-Šaltinis tiesiogiai nurodo ne paskirtį, o tai, kad apeigos rodo šeimos sukūrimo svarbą.
+Šaltinis paskirties atskirai nepaaiškina.
 
 ## Kontekstas
 - regionas:
-- laikotarpis: senovės aisčių visuomenės aptarimas.
-- susiję žodžiai: šeima, vedybos, vestuvinės dainos.
+- laikotarpis: senovės aisčių visuomeninė santvarka
+- susiję žodžiai:
 - susiję daiktai:
 
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinis gausiai išlikusias vedybų apeigas, papročius ir vestuvines dainas sieja su tuo, kad šeimos sukūrimas buvo laikomas labai svarbiu įvykiu."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
-
-- santrauka: Šaltinis šeimą apibūdina kaip pagrindinį aisčių visuomenės vienetą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Vedybų apeigos ir papročiai pateikiami kaip šeimos sukūrimo svarbos ženklas.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Visuomenė. Kaip visų tautų, taip ir aisčių pagrindinis visuomenės vienetas buvo šeima. Ją sudarė ne tik tėvai su vaikais, bet ir Piliakalnis — Kryžių Kalnas Jurgaičių kaime, Meškučių valsč., Šiaulių apskr.
-  pagrindžia: Vedybų apeigų socialinį kontekstą.
-
-## Ryšiai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Kad šeimos sukūrimas buvo laikomas labai svarbiu įvykiu, rodo iki mūsų laikų gausiai išlikusios įvairios vedybų apeigos, papročiai, daugybė vestuvinių dainų ir t. t. Visa šeima turėjo bendrą turtą, kurį valdė, tam tikrais paveldėjimo papročiais, vienas šeimos narys.
-  pagrindžia: Vedybų apeigų buvimą ir jų ryšį su šeimos sukūrimo svarba.
-
-## Pastabos
+    Kad šeimos sukūrimas buvo laikomas
+    labai svarbiu įvykiu, rodo iki mūsų laikų gausiai išlikusios įvairios vedybų apeigos, papročiai, daugybė vestuvinių dainų ir t. t.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

@@ -1,74 +1,136 @@
 ---
 tipas: autorius
 pavadinimas: "A. Šapoka"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "A. Š A P О K А"
-aliases:
-  - "A. Šapoka"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - autorius
-laikotarpis: "1931-1936 m."
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: "1936 m. leidinio ir bibliografijos kontekstas"
 datos:
   - "1931 m."
-  - "1932 m."
   - "1935 m."
   - "1936 m."
+periodas: ""
+subperiodiai: []
+date_start: "1931"
+date_end: "1936"
 vaidmenys:
   - redaktorius
   - autorius
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis tiesiogiai nurodo redaktoriaus vaidmenį ir bibliografijoje sieja A. Šapoką su konkrečiais darbais."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # A. Šapoka
 
 ## Santrauka
-A. Šapoka šiame šaltinyje yra `Lietuvos istorijos` redaktorius ir vienas iš autorių. Pratarmėje jis aprašo, kad jam teko suderinti, suvienodinti ir papildyti penkių bendradarbių parengtas dalis.
+
+A. Šapoka šiame šaltinyje nurodomas kaip „Lietuvos istorijos“ redaktorius, vienas iš atskirų dalių autorių ir bibliografijoje minimas istorinių darbų autorius.
 
 ## Laikotarpis ir datos
-- laikotarpis: 1931-1936 m.
-- datos: 1931 m.; 1932 m.; 1935 m.; 1936 m.
+- laikotarpis: 1936 m. leidinio ir bibliografijos kontekstas
+- datos: 1931 m.; 1935 m.; 1936 m.
+- periodas:
+- subperiodiai:
+- date_start: 1931
+- date_end: 1936
 
 ## Darbai
-- `Lietuvos istorija` - redaktorius.
-- `Vokiečių r. ordinas iki atsikraustymo į Prūsus`.
-- `Senosios Lietuvos valstybės santvarkos bruožai`.
-- `Pirmasis bandymas pataisyti 1569 m. uniją`.
-- `Leonas Sapiega kaip Liet. politikas`.
-- `Atsakingieji Liet. politikos vadai reformų seimo metu`.
+
+- „Lietuvos istorija“ - redaguotas veikalas.
+- Dalis iki nepriklausomosios valstybės pabaigos.
+- „Vokiečių r. ordinas iki atsikraustymo į Prūsus“.
+- „Kur senovės liet. mokslo ieškojo“.
 
 ## Kontekstas
-Šaltinis pateikia A. Šapoką kaip leidinio redakcinio suvienodinimo centrą: jis suderino bendradarbių tekstus, papildė spragas ir parašė įvedamąją bei kai kurias papildomas dalis.
+
+Šaltinyje A. Šapoka kalba pratarmės pirmuoju asmeniu ir aiškina, kad jam buvo patikėtas atskirų dalių derinimas, vienodinimas ir sujungimas.
+
+## Teiginiai
+- id: t-001
+  teiginys: "A. Šapoka tituliniame puslapyje nurodytas kaip „Lietuvos istorijos“ redaktorius."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Pratarmėje A. Šapoka nurodo, kad jam teko parašyti tęsinį iki nepriklausomosios valstybės pabaigos."
+  pagrindžia:
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-003
+  teiginys: "Bibliografijoje A. Šapoka pateikiamas kaip darbų apie Vokiečių ordiną ir senovės lietuvių mokslą autorius."
+  pagrindžia:
+    - q-003
+    - q-004
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Titulinis lapas A. Šapoką nurodo redaktoriumi.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Tituliniame puslapyje A. Šapoka nurodytas kaip redaktorius.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
     R E D. A. Š A P О K А
-  pagrindžia: Redaktoriaus vaidmenį.
-
-- santrauka: Pratarmėje paaiškinamas A. Šapokos redakcinis darbas.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Trumpas tituliniame puslapyje esantis įrašas tiesiogiai nurodo redaktorių."
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Pratarmėje A. Šapoka nurodo savo parašytą laikotarpį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Suprantama, kad penkių žmonių atskirai rašytos dalys negalėjo sudaryti vieningo ir darnaus veikalo. Todėl reikėjo jas visas suderinti, suvienodinti ir surišti. Tas darbas buvo man patikėtas. Kaip ir galima buvo laukti, iš rankraščių pasirodė, kad kiekvieno iš bendradarbių turima kiek savotiška pažiūra į visą mūsų tautos praeitį ir, be to, skirstant medžiagą į skyrius, kiekvieno laikomasi kiek kitoniško pagrindo.
-  pagrindžia: Redakcinio suvienodinimo funkciją.
+    Tuo būdu p. J. Jakštas parašė apie pirmąjį mūsų
+    tautos valstybinio gyvenimo laikotarpį, iki krikščioniškųjų lai-
+    kų pradžios, dr. Z. Ivinskis — apie sekantį laikotarpį, iki Gedi-
+    minaičių dinastijos galo; man teko tęsinys — iki nepriklausomo-
+    sios valstybės galo; p. P. Šležas parašė apie rusų valdymo lai-
+    kus, o p. P. Klimas — apie nepriklausomosios valstybės atsta-
+    tymą ir nepriklausomojo gyvenimo laikotarpį.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Pirmojo asmens formą sustiprina tituliniame puslapyje ir pratarmėje nurodytas redaktoriaus kontekstas."
+  pagrindžia:
+    - t-002
+- id: q-003
+  santrauka: Bibliografijoje A. Šapoka siejamas su darbu apie Vokiečių ordiną.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata: |
+    _A. Šapoka,_ Vokiečių r. ordinas iki
+    atsikraustymo į Prūsus (Židinys 1931)
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja pavardę su darbais."
+  pagrindžia:
+    - t-003
+- id: q-004
+  santrauka: Bibliografijoje A. Šapoka siejamas su darbu apie senovės lietuvių mokslą.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata: |
+    A. Šapoka, Kur senovės liet. mokslo ieškojo (Židinys, 1935, Nr. 10, 11)
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su nurodytu darbu."
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
 ## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    A. Šapoka, Vokiečių r. ordinas iki atsikraustymo į Prūsus (Židinys 1931); — Čekų k. Pšemislo II žygiai į Prūsus... (Praeitis, III).
-  pagrindžia: Bibliografinį A. Šapokos darbų priskyrimą.
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    XVIII. Valstybinė santvarka po Liublino unijos. 1. I. Lappo, Lietuva ir Lenkija po 1569 m. L. unijos (1932); S. A. Beršadskij, Lit. statut i polsk. konstitucii (1893); 5. L. Ptašicki, K istorii lit. prava poslie III statuta (1893); F. 1. Leontovič, Spornyje voprosy po ist. R.-Lit. prava (1893); A. Šapoka, Senosios Lietuvos valstybės santvarkos bruožai (atsp. iš Židinio, 1935, Nr. 1—2); W. Konopczyński, Liberum veto (1918); O. Balzer, Z zagadnień ustrojowych Polski (1915); St.
-  pagrindžia: A. Šapokos darbą apie Lietuvos valstybės santvarką.
+- q-001 pagrindžia redaktoriaus vaidmenį.
+- q-002 pagrindžia autorystės dalį pratarmėje.
+- q-003 ir q-004 pagrindžia bibliografijoje minimus darbus.
 
 ## Pastabos

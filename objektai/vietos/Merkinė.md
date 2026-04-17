@@ -1,59 +1,84 @@
 ---
 tipas: vieta
 pavadinimas: "Merkinė"
-sukurta: "2026-04-16"
-variantai: 
+sukurta: "2026-04-17"
+variantai:
+  - "Merkinė"
   - "Merkinės"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "miestas / pilis"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # Merkinė
 
 ## Santrauka
-
 Merkinė minima kaip vakarinės lietuvių gynybos riba.
 
 ## Pavadinimai šaltiniuose
-
 - Merkinė
 - Merkinės
 
 ## Laikotarpis ir datos
-
 - laikotarpis: 
 - datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-
-Šaltinyje ši vieta įvardijama kaip miestas / pilis.
+miestas / pilis.
 
 ## Geografinis ir istorinis kontekstas
-
 - tipas: miestas / pilis
 - regionas:
 - susiję žmonės:
 - susiję įvykiai:
 - susijusios grupės:
 
-## Reikšmingi paminėjimai
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje „Merkinė“ minimas kaip miestas / pilis: Merkinė minima kaip vakarinės lietuvių gynybos riba."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
-- santrauka: Šaltinis vietą „Merkinė“ mini šiame kontekste: Merkinė minima kaip vakarinės lietuvių gynybos riba.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Merkinė minima kaip vakarinės lietuvių gynybos riba.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Čia dabartinėje savo vietoje, Klaipėdos krašte ir Kuršmarių pakrantėmis, gyveno žemaičiai. Toliau nuo jų, į pietus, kairiajam Nemuno krante, t. y. pietinėje Mažosios Lietuvos dalyje, dabartiniam Suvalkų krašte, — maždaug nuo Merkinės jau abiejuose Nemuno krantuose iki anapus Naugarduko, Slanimo ir Brastos — gyveno sūduviai, arba jotvingai. Į pietus nuo žemaičių ir į rytus nuo jotvingų gyveno aukštaičiai, kurie sudarė vėlesnės Lietuvos valstybės branduolį.
-  pagrindžia: Vietos „Merkinė“ pavadinimą, tipą ir šaltinio kontekstą.
+    Toliau nuo jų, į pietus,
+    kairiajam Nemuno krante, t. y. pietinėje Mažosios Lietuvos da-
+    lyje, dabartiniam Suvalkų krašte, — maždaug nuo Merkinės jau
+    abiejuose Nemuno krantuose iki anapus Naugarduko, Slanimo
+    ir Brastos — gyveno sūduviai, arba jotvingai. Į pie-
+    tus nuo žemaičių ir į rytus nuo jotvingų gyveno aukštai-
+    čiai, kurie sudarė vėlesnės Lietuvos valstybės branduolį.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Šaltiniai ir įrodymai
+- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
 
 ## Pastabos

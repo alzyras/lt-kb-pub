@@ -1,65 +1,83 @@
 ---
 tipas: asmuo
 pavadinimas: "Traidenis"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "Traidenio"
-aliases:
-  - "Traidenis"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - valdovas
-laikotarpis: "1270-1282 m."
-datos:
-  - "1270-1282 m."
+  - "kunigaikštis"
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
 vaidmenys:
-  - Lietuvos valdovas
-  - Kernavės kunigaikštis
+  - "kunigaikštis"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis pateikia Traidenio vardą, valdymo datas ir kunigaikščio statusą."
+susije_irasai: []
+patikimumas: "aukstas"
 ---
 # Traidenis
 
 ## Santrauka
-Traidenis šiame šaltinyje pristatomas kaip 1270-1282 m. valdęs Lietuvos valdovas ir Kernavės kunigaikštis.
+
+Traidenis šiame šaltinyje pavadintas atskiru valdovu ir minimas kaip Kernavės kunigaikštis.
 
 ## Variantai
+
 - Traidenio
 
 ## Laikotarpis ir datos
-- laikotarpis: 1270-1282 m.
-- datos: 1270-1282 m.
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Vaidmenys
-- Lietuvos valdovas
-- Kernavės kunigaikštis
+
+- kunigaikštis
 
 ## Savybės
-- išvaizda:
-- būdas / charakteris:
-- elgesys:
-- reputacija:
-- gebėjimai:
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
+## Teiginiai
+- id: t-001
+  teiginys: "Traidenis šiame šaltinyje pavadintas atskiru valdovu ir minimas kaip Kernavės kunigaikštis."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
-- santrauka: Šaltinis Traidenį įvardija Kernavės kunigaikščiu.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Citata pagrindžia asmens pareigas arba vaidmenį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
     Kernavės kunigaikštis Traidenis.
-  pagrindžia: Traidenio kunigaikščio vaidmenį.
-
-- santrauka: Šaltinio turinyje nurodomas Traidenio valdymo laikotarpis.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    10. Traidenis (1270-1282 m.)
-  pagrindžia: Traidenio vardą ir valdymo datas.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos

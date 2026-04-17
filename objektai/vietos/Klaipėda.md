@@ -1,62 +1,82 @@
 ---
 tipas: vieta
 pavadinimas: "Klaipėda"
-sukurta: "2026-04-16"
-variantai: 
+sukurta: "2026-04-17"
+variantai:
+  - "Klaipėda"
   - "Klaipėdos"
   - "Klaipėdą"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos: []
-laikotarpis: "1252 m.; XV-XVII a.; tarpukaris"
-datos: 
-  - "1252 m."
-vaidmenys: []
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "miestas / pilis"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # Klaipėda
 
 ## Santrauka
-
 Klaipėda siejama su ordino pilies statyba ir vėlesniu krašto klausimu.
 
 ## Pavadinimai šaltiniuose
-
 - Klaipėda
 - Klaipėdos
 - Klaipėdą
 
 ## Laikotarpis ir datos
-
-- laikotarpis: 1252 m.; XV-XVII a.; tarpukaris
-- datos: 1252 m.
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-
-Šaltinyje ši vieta įvardijama kaip miestas / pilis.
+miestas / pilis.
 
 ## Geografinis ir istorinis kontekstas
-
 - tipas: miestas / pilis
 - regionas:
 - susiję žmonės:
 - susiję įvykiai:
 - susijusios grupės:
 
-## Reikšmingi paminėjimai
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje „Klaipėda“ minimas kaip miestas / pilis: Klaipėda siejama su ordino pilies statyba ir vėlesniu krašto klausimu."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
-- santrauka: Šaltinis vietą „Klaipėda“ mini šiame kontekste: Klaipėda siejama su ordino pilies statyba ir vėlesniu krašto klausimu.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Klaipėda siejama su ordino pilies statyba ir vėlesniu krašto klausimu.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Be to, užėmus pajūrį, Livonijoje ir Prūsuose veikiančios ordino šakos galėtų susisiekti sausuma. Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės jungiasi su Baltija. Senoji tos vietos sodyba buvo vadinama Klaipėda; ordinas ją pavadino vokišku Nemuno vardu — Memel. Žemaičiai tuojau suprato naujosios pilies pavojingumą ir ėmė ją pulti dar tebestatomą.
-  pagrindžia: Vietos „Klaipėda“ pavadinimą, tipą ir šaltinio kontekstą.
+    jungiasi su Baltija. Senoji tos vietos sodyba buvo vadinama
+    Klaipėda; ordinas ją pavadino vokišku Nemuno vardu —
+    Memel. Žemaičiai tuojau suprato naujosios pilies pavojingumą
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Šaltiniai ir įrodymai
+- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
 
 ## Pastabos

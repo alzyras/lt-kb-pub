@@ -1,67 +1,96 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "coaequatio iurium"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "coaequatio iurium įstatymas"
-  - "teisių sulyginimo įstatymas"
-aliases:
-  - "coaequatio iurium"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - teisinis-terminas
-laikotarpis: "1697 m."
-datos:
-  - "1697 m."
-vaidmenys: []
+  - "istorinė-sąvoka"
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "žodyno terminas"
+  - "luominių ir valstybinių teisių politika"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Reikšmė aiškinama tik iš 1697 m. teisių sulyginimo įstatymo aprašymo."
+susije_irasai: []
+patikimumas: ""
 ---
 # coaequatio iurium
 
+## Santrauka
+
+Terminas „coaequatio iurium“ šiame šaltinyje vartojamas reikšme: teisių sulyginimas tarp Lietuvos ir Lenkijos.
+
 ## Žodis ir formos
 
-- Kanoninė forma: `coaequatio iurium`
-- Šaltinio formos: `coaequatio iurium`, `coaequatio iurium įstatymas`
+- Pagrindinė forma: „coaequatio iurium“.
+- Šaltinyje rasta forma: „coaequatio iurium“.
+- Šaltinyje rasta forma: „coaequatio iurium įstatymas“.
 
 ## Laikotarpis ir datos
-
-- laikotarpis: 1697 m.
-- datos: 1697 m.
+- laikotarpis: 
+- datos:
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Reikšmė iš konteksto
 
-Šaltinyje `coaequatio iurium` reiškia Lietuvos ir Lenkijos teisių sulyginimo įstatymą, kuriuo buvo siekiama suvienodinti Lietuvos ir Lenkijos ministerių teises.
+teisių sulyginimas tarp Lietuvos ir Lenkijos.
 
 ## Vartojimas
 
-Terminas vartojamas Sapiegų galios apribojimo, ministerių kompetencijos ir Lietuvos-Lenkijos institucijų suartėjimo kontekste.
+Vartojimo sritis šaltinyje: luominių ir valstybinių teisių politika.
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Pagal vietinį šaltinio kontekstą terminas „coaequatio iurium“ reiškia: teisių sulyginimas tarp Lietuvos ir Lenkijos."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Šaltinis tiesiogiai paaiškina įstatymo šūkį ir tikslą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „coaequatio iurium“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
+    prieš grįžtantį hetmoną jau stoti su didelėmis pajėgomis.
+
+    11. Lietuvos ir Lenkijos „teisių sulyginimo" įstatymas
+        (coaequatio iurium, — 1697 m.)
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „coaequatio iurium“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata: |
+    rinti kanclerio teises, atimant iš jo teismo sprendimų priežiūrą.
     Visa tai ėjo Lietuvos ir Lenkijos teisių sulyginimo (coaequatio iurium) šūkiu, nes tuo buvo norima suvienodinti Lietuvos ir Lenkijos ministerių teises.
-  pagrindžia: Termino reikšmę.
-- santrauka: Įstatymas siejamas su 1697 m. elekcinio seimo sprendimu.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Kancleriui nesipriešinant, vieni Sapiegos nepajėgė apginti ministerių teisių, ir coaequatio iurium įstatymas buvo priimtas elekciniame seime (1697 m.). Tačiau Sapiegos, nenorėdami išsižadėti savo galybės, nė neketino laikytis šito įstatymo.
-  pagrindžia: Datą ir priėmimo aplinkybes.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
 ## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tame pačiame 1697 m. coaequatio iurium įstatyme buvo dar pasakyta, kad visi Lietuvos teismų sprendimai turį būti rašomi nebe senąja kanceliarine gudų kalba, bet lenkų kalba.
-  pagrindžia: Papildomą įstatymo pasekmę teismų kalbai.
 
 ## Pastabos

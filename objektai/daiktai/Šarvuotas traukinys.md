@@ -1,73 +1,89 @@
 ---
 tipas: daiktas
-pavadinimas: "šarvuotas traukinys"
-sukurta: "2026-04-16"
+pavadinimas: "Šarvuotas traukinys"
+sukurta: "2026-04-17"
 variantai:
   - "šarvuotą traukinį"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - transportas
-  - karo-reikmuo
-laikotarpis: "1920 m."
+  - "transportas"
+  - "karo-reikmuo"
+laikotarpis: "1920 m. spalio 3—4 d."
 datos:
-  - "1920 m. spalių 3—4 d."
+  - "spalių 3—4 d."
+periodas: "siuolaikine_istorija"
+subperiodiai:
+  - "nepriklausomos Lietuvos karai"
+date_start: "1920"
+date_end: "1920"
 vaidmenys:
-  - "karo transporto objektas"
+  - "karinis transportas"
 dalyviai: []
-susije_irasai:
-  - "[[Vilniaus atgavimas, Suvalkų sutartis ir gen. Želigovskio smurtas]]"
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: ""
 ---
 # Šarvuotas traukinys
 
 ## Santrauka
 
-Šarvuotas traukinys šaltinyje minimas 1920 m. karo su Lenkija kontekste: lenkai, užėmę Varėnos stotį, paėmė Lietuvos šarvuotą traukinį.
+Šarvuotas traukinys šaltinyje minimas kaip Lietuvos kariuomenės objektas, kurį lenkai paėmė užėmę Varėnos stotį.
 
 ## Pavadinimai šaltiniuose
 
-- šarvuotą traukinį
+- „šarvuotą traukinį“
 
 ## Laikotarpis ir datos
 
-- laikotarpis: 1920 m.
-- datos: 1920 m. spalių 3—4 d.
+- laikotarpis: 1920 m. spalio 3—4 d.
+- datos: spalių 3—4 d.
+- periodas: nepriklausomos Lietuvos karai
+- subperiodiai:
+- date_start:
+- date_end:
 
 ## Kas tai
 
-Tai karo transporto ir kovos objektas, šaltinyje siejamas su Varėnos stoties užėmimu.
+Karinis geležinkelio transportas.
 
 ## Naudojimas
 
-- Šaltinis nenurodo jo techninio naudojimo; jis minimas kaip paimtas Lietuvos karo objektas.
+Šaltinis šarvuotą traukinį mini karo veiksmų ir Varėnos stoties užėmimo kontekste.
 
 ## Kontekstas
 
-- laikotarpis: 1920 m. Lietuvos ir Lenkijos karo veiksmai.
+- laikotarpis: Lietuvos ir Lenkijos konflikto kontekstas
 - susiję žmonės:
-- susiję įvykiai: [[Vilniaus atgavimas, Suvalkų sutartis ir gen. Želigovskio smurtas]]
+- susiję įvykiai:
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Šaltinis nurodo, kad spalio 3—4 d. lenkai užėmė Varėnos stotį ir paėmė Lietuvos šarvuotą traukinį."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Varėnos stoties užėmimas atkirto tiesioginį kelią į Vilnių Suvalkų krašte sugrupuotai Lietuvos kariuomenei.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Šarvuotas traukinys minimas kaip Varėnos stotyje paimtas karo objektas.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Tuo būdu, užėmus Varėną, Suvalkų krašte sugrupuotai mūsų kariuomenei buvo atkirstas tiesioginis kelias į pavojuje atsidūrusį Vilnių.
-  pagrindžia: Šarvuoto traukinio paėmimo karinį kontekstą.
+    1—2 d.
+    lenkai sumušė mūsų kariuomenės dalį netoli Lazdijų, spalių 3—4
+    d. užėmė Varėnos stotį, kur paėmė mūsų šarvuotą traukinį.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-- įvykis: [[Vilniaus atgavimas, Suvalkų sutartis ir gen. Želigovskio smurtas]]
-
 ## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Pagaliau ėjo kiti nepasisekimai: spalių mėn. 1—2 d. lenkai sumušė mūsų kariuomenės dalį netoli Lazdijų, spalių 3—4 d. užėmė Varėnos stotį, kur paėmė mūsų šarvuotą traukinį.
-  pagrindžia: Šarvuoto traukinio paėmimą Varėnos stotyje.
 
 ## Pastabos

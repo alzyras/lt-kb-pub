@@ -1,36 +1,55 @@
 ---
 tipas: saltinis
 pavadinimas: "Horodlės aktai"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
-  - "Horodlės aktai (1413 m.)"
+  - "Horodlės aktai"
+  - "Horodlės aktas"
 aliases:
   - "Horodlės aktai"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - aktas
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
 laikotarpis: "1413 m."
 datos:
   - "1413 m."
-patikimumas: "Duomenys paimti tik iš A. Šapokos vadovėlio paminėjimų."
+periodas: ""
+subperiodiai: []
+date_start: "1413"
+date_end: "1413"
+vaidmenys:
+  - politiniai aktai
+dalyviai:
+  - "Jogaila"
+  - "Vytautas"
+susije_irasai: []
+patikimumas: ""
 ---
 # Horodlės aktai
 
-## Bibliografiniai duomenys
-- Tipas: aktai.
-- Data: 1413 m.
-- Apimtis: trys dokumentai pagal šaltinio formuluotę.
+## Santrauka
 
-## Bibliografiniai įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-- citata: |
-    Suvažiavimo nutarimai buvo surašyti trijuose dokumentuose: vienas bendras dokumentas buvo Jogailos ir Vytauto ir po vieną dokumentą abiejų valstybių bajorų.
-  pagrindžia: Horodlės aktų dokumentinę formą.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-- citata: |
-    Horodlės aktais buvo patvirtinta savarankiška Vytauto sukurtoji valstybė, bet kartu buvo padėti pamatai suartėti abiejų valstybių ir visuomenių santvarkoms, kurios per kelis šimtus metų visiškai susivienodino.
-  pagrindžia: Šaltinyje pateikiamą aktų reikšmę.
+Horodlės aktai šiame šaltinyje aprašomi kaip 1413 m. Horodlės suvažiavimo nutarimai, surašyti trijuose dokumentuose ir sunorminę Lietuvos bei Lenkijos santykius.
 
-## Pastabos
-- Nenaudota išorinė bibliografija.
+## Teiginiai
+- id: t-001
+  teiginys: "Horodlės suvažiavimo nutarimai buvo surašyti trijuose dokumentuose: viename bendrame Jogailos ir Vytauto dokumente ir po vieną abiejų valstybių bajorų dokumentą."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Šaltinis nurodo Horodlės aktų dokumentų skaičių ir pobūdį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata: |
+    Visa tai buvo sutarta
+    bendrame Lietuvos ir Lenkijos valdovų ir bajorų suvažiavime
+    Horodlėje. Suvažiavimo nutarimai buvo surašyti trijuose dokumentuose: vienas bendras dokumentas buvo Jogailos ir Vytauto ir po vieną dokumentą abiejų valstybių bajorų.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Šaltinis tiesiogiai nusako aktų dokumentinę sudėtį."
+  pagrindžia:
+    - t-001

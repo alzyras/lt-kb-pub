@@ -1,65 +1,79 @@
 ---
 tipas: asmuo
 pavadinimas: "Zigmantas II"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "Zigmanto II"
-  - "Zigmantas II Senasis"
-aliases:
-  - "Zigmantas II"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - valdovas
-laikotarpis: "1506-1548 m."
-datos:
-  - "1506-1548 m."
-vaidmenys:
-  - Lietuvos ir Lenkijos valdovas
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: []
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis nurodo Zigmanto II vardą, Senasis variantą, valdymo datas ir karų su Maskva kontekstą."
+susije_irasai: []
+patikimumas: "aukstas"
 ---
 # Zigmantas II
 
 ## Santrauka
-Zigmantas II šiame šaltinyje pristatomas kaip 1506-1548 m. valdovas, siejamas su karais su Maskva ir dvarų ūkio tvarkymu.
+
+Šaltinyje nurodoma, kad Zigmantas II rūpinosi sutvarkyti patį dvarų ūkį.
 
 ## Variantai
+
 - Zigmanto II
-- Zigmantas II Senasis
 
 ## Laikotarpis ir datos
-- laikotarpis: 1506-1548 m.
-- datos: 1506-1548 m.
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Vaidmenys
-- Lietuvos ir Lenkijos valdovas
 
 ## Savybės
-- išvaizda:
-- būdas / charakteris:
-- elgesys:
-- reputacija:
-- gebėjimai:
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
-## Reikšmingi paminėjimai
-- santrauka: Šaltinis Zigmanto II valdymą sieja su karais prieš Maskvą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    6. Zigmantas II (Senasis, — 1506—1548 m.) ir jo karai su Maskva
-  pagrindžia: Zigmanto II vardą, variantą, datas ir karo kontekstą.
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje nurodoma, kad Zigmantas II rūpinosi sutvarkyti patį dvarų ūkį."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
-- santrauka: Zigmantas II minimas dvarų ūkio tvarkymo kontekste.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Citata pagrindžia asmens pareigas arba vaidmenį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Be to, Zigmantas II rūpinosi sutvarkyti patį dvarų ūkį.
-  pagrindžia: Zigmanto II politinę ir ūkinę veiklą.
+    Zigmantas II rūpinosi sutvarkyti patį dvarų ūkį.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos

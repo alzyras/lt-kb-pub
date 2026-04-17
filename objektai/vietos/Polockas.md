@@ -1,61 +1,83 @@
 ---
 tipas: vieta
 pavadinimas: "Polockas"
-sukurta: "2026-04-16"
-variantai: 
+sukurta: "2026-04-17"
+variantai:
+  - "Polockas"
   - "Polocko"
   - "Polocką"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "kunigaikštystė / miestas"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # Polockas
 
 ## Santrauka
-
 Polockas svarbus kaip ankstyvas rytinis Lietuvos politinis taikinys.
 
 ## Pavadinimai šaltiniuose
-
 - Polockas
 - Polocko
 - Polocką
 
 ## Laikotarpis ir datos
-
 - laikotarpis: 
 - datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-
-Šaltinyje ši vieta įvardijama kaip kunigaikštystė / miestas.
+kunigaikštystė / miestas.
 
 ## Geografinis ir istorinis kontekstas
-
 - tipas: kunigaikštystė / miestas
 - regionas:
 - susiję žmonės:
 - susiję įvykiai:
 - susijusios grupės:
 
-## Reikšmingi paminėjimai
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje „Polockas“ minimas kaip kunigaikštystė / miestas: Polockas svarbus kaip ankstyvas rytinis Lietuvos politinis taikinys."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
-- santrauka: Šaltinis vietą „Polockas“ mini šiame kontekste: Polockas svarbus kaip ankstyvas rytinis Lietuvos politinis taikinys.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Polockas svarbus kaip ankstyvas rytinis Lietuvos politinis taikinys.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Šiaurėje, kur buvo susikūrusi galinga Polocko kunigaikštija, lietuvių ir latvių giminėms iš karto irgi nelabai sekėsi. Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis artino į aisčių kraštą. Kurį laiką Padauguvio giminės net mokėjo jam duoklę — buvo pripažinusios jo valdžią. Bet jau XII amž.
-  pagrindžia: Vietos „Polockas“ pavadinimą, tipą ir šaltinio kontekstą.
+    Nors jie ir
+    atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas
+    vis artino į aisčių kraštą. Kurį laiką Padauguvio giminės net mo-
+    kėjo jam duoklę — buvo pripažinusios jo valdžią.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Šaltiniai ir įrodymai
+- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
 
 ## Pastabos

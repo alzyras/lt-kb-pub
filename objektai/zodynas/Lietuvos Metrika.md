@@ -1,67 +1,87 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "Lietuvos Metrika"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "Lietuvos Metrikos"
   - "Metrika"
-aliases:
-  - "Lietuvos Metrika"
-  - "Metrika"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - istorinė-sąvoka
-laikotarpis: "nuo XV a. vidurio iki Lietuvos valstybės nepriklausomybės pabaigos"
+  - "istorinė-sąvoka"
+laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "žodyno terminas"
+  - "archyvai, raštvedyba"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Reikšmė aiškinama tik iš šaltinio archyvų ir kanceliarijos aprašymo."
+susije_irasai: []
+patikimumas: ""
 ---
 # Lietuvos Metrika
 
+## Santrauka
+
+Terminas „Lietuvos Metrika“ šiame šaltinyje vartojamas reikšme: didžiojo kunigaikščio dokumentų archyvas ir jo nuorašų knygos.
+
 ## Žodis ir formos
 
-- Kanoninė forma: `Lietuvos Metrika`
-- Šaltinio formos: `Lietuvos Metrikos`, `Lietuvos Metrika`, `Metrika`
-
-## Laikotarpis ir datos
-
-- laikotarpis: nuo XV a. vidurio iki Lietuvos valstybės nepriklausomybės pabaigos
-- datos:
+- Pagrindinė forma: „Lietuvos Metrika“.
+- Šaltinyje rasta forma: „Lietuvos Metrikos“.
+- Šaltinyje rasta forma: „Lietuvos Metrika“.
+- Šaltinyje rasta forma: „Metrika“.
 
 ## Reikšmė iš konteksto
 
-Šaltinyje `Lietuvos Metrika` reiškia didžiojo kunigaikščio kanceliarijoje susidariusį dokumentų archyvą ir jo nuorašų knygas.
+didžiojo kunigaikščio dokumentų archyvas ir jo nuorašų knygos.
 
 ## Vartojimas
 
-Terminas vartojamas archyvų ir rašytinių šaltinių aprašyme, nurodant Lietuvos istorijai svarbiausią dokumentų rinkinį.
+Vartojimo sritis šaltinyje: archyvai, raštvedyba.
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Pagal vietinį šaltinio kontekstą terminas „Lietuvos Metrika“ reiškia: didžiojo kunigaikščio dokumentų archyvas ir jo nuorašų knygos."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Metrikos vardas siejamas su didžiojo kunigaikščio kanceliarijos dokumentų archyvu.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „Lietuvos Metrika“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Tuo būdu susidarė tokių dokumentų archyvas, žinomas Lietuvos Metrikos vardu, kurs išliko iki mūsų laikų.
-  pagrindžia: Pavadinimą ir archyvo reikšmę.
-- santrauka: Šaltinis paaiškina, kad Metrika vadintos nuorašų knygos, o visas archyvas vadintas Lietuvos Metrika.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    Nuo XV amž. vidurio didžiojo kunigaikščio kanceliarijoje jau
+    vedamos siunčiamųjų ir gaunamųjų raštų knygos, saugomi jų
+    nuorašai. Tuo būdu susidarė tokių dokumentų archyvas,
+    žinomas Lietuvos Metrikos vardu, kurs išliko iki mūsų
+    laikų.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „Lietuvos Metrika“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Iš pradžių čia buvo saugomi tik valdovo dovanojimų raštai, o vėliau tam tikrose knygose buvo surašomi ne tik dovanojimai, bet ir teismų sprendimai, seimų nutarimai ir kiti valdžios aktai. Šitos nuorašų knygos buvo vadinamos Metrika. Tuo būdu visas susidaręs archyvas vadinamas Lietuvos Metrika. Į tą archyvą buvo kraunama medžiaga iki pat nepriklausomybės galo.
-  pagrindžia: Metrikos kaip nuorašų knygų ir archyvo reikšmę.
-
-## Ryšiai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Į tą archyvą buvo kraunama medžiaga iki pat nepriklausomybės galo. Lietuvą užėmus rusams, jis buvo išvežtas į Rusiją ir dabar yra Maskvoje. Be šito Metrikos archyvo, senojoje Lietuvos valstybėje buvo dar teismų archyvų, kuriuose buvo saugomos ne tik teismų bylos, bet ir visokių sutarčių, testamentų ir kitokių piliečių dokumentų nuorašai.
-  pagrindžia: Archyvo kaupimo laiką ir šaltinyje nurodytą vėlesnę būklę.
-
-## Pastabos
+    Šitos nuorašų knygos buvo vadinamos Metrika. Tuo
+    būdu visas susidaręs archyvas vadinamas Lietuvos Met-
+    rika. Į tą archyvą buvo kraunama medžiaga iki pat nepriklau-
+    somybės galo.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

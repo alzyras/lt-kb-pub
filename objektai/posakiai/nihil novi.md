@@ -1,65 +1,84 @@
 ---
 tipas: posakis
 pavadinimas: "nihil novi"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
-  - "nieko naujo"
-aliases:
-  - "nihil novi"
+  - '„nieko naujo"'
+  - '„nihil novi"'
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - formulė
-laikotarpis: "1505 m.; po Liublino unijos"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+zymos: []
+laikotarpis: "1505 m."
 datos:
   - "1505 m."
+periodas: ""
+subperiodiai: []
+date_start: "1505"
+date_end: "1505"
 vaidmenys:
   - "privilegijos formulė"
-dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+dalyviai:
+  - "Lenkijos karalius"
+  - "senatas"
+  - "bajorijos atstovai"
+susije_irasai: []
+patikimumas: ""
 ---
 # nihil novi
 
+## Santrauka
+
+„Nihil novi“ šaltinyje aiškinama kaip 1505 m. privilegijos formulė: karalius pasižadėjo neįvesti „nieko naujo“ be senato ir bajorijos atstovų sutikimo.
+
 ## Forma
 
-nihil novi.
+- „nihil novi“
 
 ## Variantai
 
-- nieko naujo
+- „nieko naujo“
 
 ## Laikotarpis ir datos
 
-- laikotarpis: 1505 m.; po Liublino unijos
-- datos: 1505 m.
+- laikotarpis: 1505 m.
+- datos:
+  - 1505 m.
+- periodas:
+- subperiodiai:
+- date_start: 1505
+- date_end: 1505
 
 ## Kontekstas ir vartojimas
 
-Šaltinis šią formulę aiškina kaip Lenkijos 1505 m. privilegijos pavadinimą. Po unijos dėsnis buvo pritaikytas ir Lietuvos bajorijai.
+Šaltinyje ši formulė vartojama aiškinant Lenkijos seimo kompetenciją ir privilegiją, ribojusią karaliaus veikimą.
 
 ## Reikšmė
 
-Formulė reiškia, kad karalius negalėjo įvesti nieko naujo be senato ir bajorijos atstovų sutikimo.
+Jokių naujų dalykų be senato ir bajorijos atstovų sutikimo.
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Šaltinyje „nihil novi“ aiškinama kaip 1505 m. privilegijos pavadinimo formulė, reiškusi karaliaus pasižadėjimą neįvesti „nieko naujo“ be senato ir bajorijos atstovų sutikimo."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Šaltinis nurodo, kad po unijos dėsnis buvo pritaikytas ir Lietuvos bajorijai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Nurodoma 1505 m. privilegijos esmė ir „nihil novi“ reikšmė.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Lenkijoje veikęs 1505 m. privilegijos dėsnis nihil novi buvo pritaikytas ir Lietuvos bajorijai. Ji taip pat įgavo visas kitas lenkų teises ir pradėjo gyventi lenkų šlėktos viešojo gyvenimo papročiais, — jautėsi krašto valdovė.
-  pagrindžia: Formulės taikymą Lietuvos bajorijai po unijos.
-
-## Ryšiai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Lenkijoje nuo 1505 m. veikė privilegija, kuria karalius buvo pasižadėjęs neįvesti „nieko naujo" be senato ir bajorijos atstovų sutikimo (dėl to ta privilegija ir vadinama „nihil novi" — „nieko naujo").
-  pagrindžia: Formą, vertimą, datą ir reikšmę.
-
-## Pastabos
+    Lenkijoje nuo 1505 m. veikė privilegija, kuria karalius buvo
+    pasižadėjęs neįvesti „nieko naujo" be senato ir bajorijos
+    atstovų sutikimo (dėl to ta privilegija ir vadinama „ nihil novi" —
+    „nieko naujo").
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

@@ -1,68 +1,97 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "spaudos draudimas"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "spaudos draudimo"
-  - "spaudos draudžiamuoju metu"
-aliases:
-  - "spaudos draudimas"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - istorinė-sąvoka
-laikotarpis: "1864-1904 m."
-datos:
-  - "1864 m."
-  - "1904 m."
-vaidmenys: []
+  - "istorinė-sąvoka"
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "žodyno terminas"
+  - "carinės Rusijos kalbos ir kultūros priespauda"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Reikšmė aiškinama tik iš šaltinio spaudos draudimo panaikinimo skyriaus."
+susije_irasai: []
+patikimumas: ""
 ---
 # spaudos draudimas
 
+## Santrauka
+
+Terminas „spaudos draudimas“ šiame šaltinyje vartojamas reikšme: lietuviškos spaudos ribojimo politika.
+
 ## Žodis ir formos
 
-- Kanoninė forma: `spaudos draudimas`
-- Šaltinio formos: `spaudos draudimo`, `spaudos draudžiamuoju metu`
+- Pagrindinė forma: „spaudos draudimas“.
+- Šaltinyje rasta forma: „spaudos draudimo“.
+- Šaltinyje rasta forma: „spaudos draudimas“.
 
 ## Laikotarpis ir datos
-
-- laikotarpis: 1864-1904 m.
-- datos: 1864 m.; 1904 m.
+- laikotarpis: 
+- datos:
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Reikšmė iš konteksto
 
-Šaltinyje `spaudos draudimas` reiškia administracinį lietuviškos spaudos lotyniškomis raidėmis draudimą ir valdžios bandymą įpiršti rusiškomis raidėmis spausdintas knygas.
+lietuviškos spaudos ribojimo politika.
 
 ## Vartojimas
 
-Terminas vartojamas slaptosios spaudos plitimo, knygų konfiskavimo, cenzūros ir 1904 m. panaikinimo aprašyme.
+Vartojimo sritis šaltinyje: carinės Rusijos kalbos ir kultūros priespauda.
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Pagal vietinį šaltinio kontekstą terminas „spaudos draudimas“ reiškia: lietuviškos spaudos ribojimo politika."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Šaltinis pabrėžia, kad per 40 draudimo metų lietuviškoji spauda augo.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „spaudos draudimas“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Slaptosios spaudos išsiplėtimas. Per 40 spaudos draudimo metų paaiškėjo, kad lietuviškoji spauda auga, nepaisydama jokių persekiojimų. Veltui nuėjo rusų pastangos įpiršti valdžios leidžiamąsias knygas, spausdintas rusiškomis raidėmis.
-  pagrindžia: Draudimo trukmę ir slaptos spaudos kontekstą.
-- santrauka: Spaudos draudimas šaltinyje siejamas su rusiškomis raidėmis.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    tinimas ten ėjo kitokiu keliu. Ypač žiauri pasidarė germaniza-
+    cija paskutiniais metais. Anksčiau ten galėdavo net prisiglausti
+    Didžiosios Lietuvos veikėjai: spaudos draudimo laikais ten
+    buvo spausdinama daugumas lietuviškų knygų, skirtų Didžiajai
+    Lietuvai; ten buvo įkurtos net specialios lietuviškoms kny-
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „spaudos draudimas“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Bet vėliau jam cenzūra paprastai atsakydavo: „Leidžiama spausdinti, tik rusiškomis raidėmis". Vieną kitą knygutę ar kokį atsišaukimą pasisekdavo išspausdinti, tik cenzūrą apgavus arba apėjus.
-  pagrindžia: Draudimo praktinę formą.
+    cija paskutiniais metais. Anksčiau ten galėdavo net prisiglausti
+    Didžiosios Lietuvos veikėjai: spaudos draudimo laikais ten
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
 ## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Rusų valdžia įsitikino, kad ji veltui kovoja su lotyniškomis raidėmis, kad tatai ne tik nieko nepadėjo krašto rusinimui, bet dar pakenkė, ir 1904 m. gegužės 7 d. (sen. kalendorium balandžio 24 d.) caras paskelbė lietuviškosios spaudos laisvę. Grąžinti lietuviams spaudą valdžiai buvo dar ir dėl to svarbu, kad tuo metu prasidėjo Rusijos karas su Japonija, ir buvo reikalinga ramybė valstybės viduje.
-  pagrindžia: Draudimo panaikinimą ir ryšį su rusinimu.
 
 ## Pastabos

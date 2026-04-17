@@ -1,32 +1,63 @@
 ---
 tipas: saltinis
 pavadinimas: "Lietuvos Metrikos įrašų fragmentas"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
-  - "Zigmanto II laiškas ponų tarybai dėl Lietuvos ir Livonijos sienos"
+  - "Lietuvos Metrikos įrašų fragmentas"
 aliases:
   - "Lietuvos Metrikos įrašų fragmentas"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - dokumentas
-  - laiškas
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
 laikotarpis: "1540 m."
 datos:
   - "1540 m. sausio 13 d."
-patikimumas: "Duomenys paimti tik iš A. Šapokos vadovėlyje pateikto priedėlio paaiškinimo."
+periodas: ""
+subperiodiai: []
+date_start: "1540"
+date_end: "1540"
+vaidmenys:
+  - laiško fragmentas
+dalyviai:
+  - "Zigmantas II"
+  - "ponų taryba"
+susije_irasai:
+  - "[[objektai/saltiniai/Lietuvos Metrika]]"
+patikimumas: ""
 ---
 # Lietuvos Metrikos įrašų fragmentas
 
-## Bibliografiniai duomenys
-- Tipas: Lietuvos Metrikos įrašo fragmentas, Zigmanto II laiškas.
-- Data: 1540 m. sausio 13 d.
+## Santrauka
 
-## Bibliografiniai įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-- citata: |
-    Lietuvos Metrikos įrašų fragmentas. Tai yra Zigmanto II 1540 m. sausio 13 d. ponų tarybai rašytas laiškas, kuriame jis duoda instrukcijų, kaip skirtieji komisarai (Žemaičių vyskupas ir seniūnas) turi ištirti ir kartu su Livonijos magistro atstovais išvesti Lietuvos Livonijos sieną.
-  pagrindžia: Pavadinimą, datą, dokumento formą ir turinio esmę.
+Lietuvos Metrikos įrašų fragmentas šiame šaltinyje aprašomas kaip Zigmanto II 1540 m. sausio 13 d. ponų tarybai rašyto laiško fragmentas dėl Lietuvos ir Livonijos sienos išvedimo.
 
-## Pastabos
-- Nenaudota išorinė bibliografija.
+## Teiginiai
+- id: t-001
+  teiginys: "Lietuvos Metrikos įrašų fragmentas šaltinyje apibūdinamas kaip Zigmanto II 1540 m. sausio 13 d. ponų tarybai rašytas laiškas."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Laiške duodamos instrukcijos komisarams, turėjusiems su Livonijos magistro atstovais išvesti Lietuvos Livonijos sieną."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Priedėlių paaiškinime nurodoma fragmento data, autorius ir turinys.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata: |
+    VII. Lietuvos Metrikos įrašų fragmentas. Tai yra Zigmanto II 1540 m.
+    sausio 13 d. ponų tarybai rašytas laiškas, kuriame jis duoda instrukcijų,
+    kaip skirtieji komisarai (Žemaičių vyskupas ir seniūnas) turi ištirti ir kartu
+    su Livonijos magistro atstovais išvesti Lietuvos Livonijos sieną.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Šaltinio priedėlis tiesiogiai nurodo fragmento datą ir turinį."
+  pagrindžia:
+    - t-001
+    - t-002

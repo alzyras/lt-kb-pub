@@ -1,59 +1,79 @@
 ---
 tipas: vieta
 pavadinimas: "Marijenverderis"
-sukurta: "2026-04-16"
-variantai: 
+sukurta: "2026-04-17"
+variantai:
+  - "Marijenverderis"
   - "Marijenverderio"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "pilis"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # Marijenverderis
 
 ## Santrauka
-
 Marijenverderis minimas kaip ordino pilies vieta prie veiksmų prieš Lietuvą.
 
 ## Pavadinimai šaltiniuose
-
 - Marijenverderis
 - Marijenverderio
 
 ## Laikotarpis ir datos
-
 - laikotarpis: 
 - datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-
-Šaltinyje ši vieta įvardijama kaip pilis.
+pilis.
 
 ## Geografinis ir istorinis kontekstas
-
 - tipas: pilis
 - regionas:
 - susiję žmonės:
 - susiję įvykiai:
 - susijusios grupės:
 
-## Reikšmingi paminėjimai
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje „Marijenverderis“ minimas kaip pilis: Marijenverderis minimas kaip ordino pilies vieta prie veiksmų prieš Lietuvą."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
-- santrauka: Šaltinis vietą „Marijenverderis“ mini šiame kontekste: Marijenverderis minimas kaip ordino pilies vieta prie veiksmų prieš Lietuvą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Marijenverderis minimas kaip ordino pilies vieta prie veiksmų prieš Lietuvą.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Šį kartą Vytautui ordinas jau nebedavė valdyti jokios pilies. Tačiau jam buvo leista gyventi prie pat Kauno, vietoj senojo Marijenverderio pastatytoje Ritersverderio pilyje. Čia jis organizavo karą su Jogaila. Karas jam iš pradžių nesisekė: iš jo buvo atimtos visos jo valdytosios sritys; Skirgaila užėmė ir Gardiną, kurį Vytautas susitarimo pradžioje buvo atidavęs ordinui.
-  pagrindžia: Vietos „Marijenverderis“ pavadinimą, tipą ir šaltinio kontekstą.
+    Tačiau jam buvo leista gyventi prie pat Kauno, vietoj
+    senojo Marijenverderio pastatytoje Ritersverderio pilyje. Čia jis
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Šaltiniai ir įrodymai
+- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
 
 ## Pastabos

@@ -1,49 +1,87 @@
 ---
 tipas: grupe
 pavadinimas: "Towarzystwo Polskie Bratniej Pomocy Świętego Jerzego"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai: 
-  - "Patrona Litwy"
+  - "Towarzystwo Polskie Bratniej Pomocy Świętego Jerzego, Patrona Litwy"
 aliases: 
-  - "Patrona Litwy"
+  - "Towarzystwo Polskie Bratniej Pomocy Świętego Jerzego, Patrona Litwy"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
-datos: []
-vaidmenys: []
+datos: 
+  - "1874 m."
+periodas: ""
+subperiodiai: []
+date_start: "1874"
+date_end: "1874"
+vaidmenys: 
+  - "draugija"
 dalyviai: []
 susije_irasai: []
-patikimumas: "Paremta šaltinio citatomis ir tiesioginiais paminėjimais."
+patikimumas: "vidutinis"
 ---
 # Towarzystwo Polskie Bratniej Pomocy Świętego Jerzego
 
 ## Santrauka
-Towarzystwo Polskie Bratniej Pomocy Świętego Jerzego yra draugija. Šaltinyje ši grupė apibūdinama taip: Lenkų pagalbos draugija, kuriai buvo priskirtas Lietuvos patrono šv. Jurgio vardas.
+
+Lenkų pagalbos draugija, kuriai buvo priskirtas Lietuvos patrono šv. Jurgio vardas.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Towarzystwo Polskie Bratniej Pomocy Świętego Jerzego`
-- Variacijos arba alternatyvios formos: `Patrona Litwy`
+
+- „Towarzystwo Polskie Bratniej Pomocy Świętego Jerzego“
+- „Towarzystwo Polskie Bratniej Pomocy Świętego Jerzego, Patrona Litwy“
 
 ## Laikotarpis ir datos
 - laikotarpis: 
+- datos: 1874 m.
+- periodas:
+- subperiodiai:
+- date_start: 1874
+- date_end: 1874
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip draugija.
+
+Šaltinyje aiškiai nurodomas grupės tipas: draugija.
 
 ## Sudėtis ir vaidmuo
 - tipas: draugija
-- vaidmuo: Lenkų pagalbos draugija, kuriai buvo priskirtas Lietuvos patrono šv. Jurgio vardas.
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Towarzystwo Polskie Bratniej Pomocy Świętego Jerzego“ apibūdinama taip: Lenkų pagalbos draugija, kuriai buvo priskirtas Lietuvos patrono šv. Jurgio vardas."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Lenkų pagalbos draugija, kuriai buvo priskirtas Lietuvos patrono šv. Jurgio vardas.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Towarzystwo Polskie Bratniej Pomocy Świętego Jerzego, Patrona Litwy
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+    Arba štai vėl koks keistas vienos drau-
+    gijos vardas: Towarzystwo Polskie Bratniej Po-
+    mocy Świętego Jerzego, Patrona Litwy (Šven-
+    to Jurgio, Lietuvos Patrono, Broliškosios Paramos Lenkų Drau-
+    gija)-
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos
-- Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

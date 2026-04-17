@@ -1,89 +1,110 @@
 ---
 tipas: daiktas
-pavadinimas: "grabas"
-sukurta: "2026-04-16"
+pavadinimas: "Grabas"
+sukurta: "2026-04-17"
 variantai:
   - "grabe"
   - "grabą"
-  - "grabų"
-  - "grabus"
+  - "grabo"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - buities-daiktas
-  - laidotuvės
-laikotarpis: "I–II a. po Kr.; XV–XX a. kontekstai"
-datos: []
+  - "laidotuvės"
+laikotarpis: ""
+datos:
+  - "I—II a. po Kr."
+periodas: ""
+subperiodiai: []
+date_start: "1"
+date_end: "200"
 vaidmenys:
   - "laidojimo objektas"
-dalyviai:
-  - "[[Vytautas]]"
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+dalyviai: []
+susije_irasai: []
+patikimumas: ""
 ---
 # Grabas
 
 ## Santrauka
 
-Grabas šaltinyje minimas kaip medinis laidojimo objektas archeologiniame kapo pavyzdyje ir kaip Vytauto kaulams skirtas arba su jo kapo istorija siejamas objektas.
+Grabas šaltinyje minimas kaip iš medžio išskaptuotas laidojimo objektas; vėliau minimas ir D. Malinausko padirbdintas grabas Vytauto kaulams sudėti.
 
 ## Pavadinimai šaltiniuose
 
-- grabas
-- grabe
-- grabą
-- grabus
+- „grabe“
+- „grabą“
+- „grabo“
 
 ## Laikotarpis ir datos
 
-- laikotarpis: I–II a. po Kr.; XV–XX a. kontekstai
-- datos:
+- laikotarpis:
+- datos: I—II a. po Kr.
+- periodas:
+- subperiodiai:
+- date_start: 1
+- date_end: 200
 
 ## Kas tai
 
-Tai laidojimo objektas ar karstas. Šaltinyje jis pasirodo ir archeologinio kapo, ir istorinės atminties kontekstuose.
+Laidojimo objektas.
 
 ## Naudojimas
 
-- I–II a. kapo iliustracijoje lavonas palaidotas mediniame išskaptuotame grabe.
-- D. Malinauskas, tikėdamas Vytauto kaulus tebesant, padirbdino grabą Vytauto kaulams sudėti.
-- Šaltinis mini ir grabų iškasimą bei išmetimą lietuvių ir lenkų parapinių konfliktų kontekste.
+Šaltinis nurodo, kad jame buvo palaidotas lavonas arba kad jis buvo padirbdintas Vytauto kaulams sudėti.
 
 ## Kontekstas
 
-- laikotarpis: archeologinis kapo aprašymas; Vytauto kapo paieškos; lietuvių ir lenkų parapijų konfliktai.
-- susiję žmonės: [[Vytautas]]
+- laikotarpis:
+- susiję žmonės:
 - susiję įvykiai:
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Šaltinio kapo pjūvio aprašyme lavonas nurodytas kaip palaidotas iš medžio išskaptuotame grabe."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Šaltinyje nurodoma, kad D. Malinauskas padirbdino puikų grabą Vytauto kaulams sudėti."
+  pagrindžia:
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Šaltinis mini paslėptą ir nerandamą Vytauto grabą per rusų antplūdžio aprašymą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Grabas apibūdinamas kaip iš medžio išskaptuotas laidojimo objektas.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    (Šito rusų antplūdžio metu kažkur buvo paslėptas ir ligi šiol nerandamas Vytauto grabas, — žr. 146—148 psl.).
-  pagrindžia: Vytauto grabo atminties ir paieškų kontekstą.
-- santrauka: Grabų iškasimas parapinių konfliktų aprašyme rodo objektą kaip palaikų ir bendruomeninės garbės vietą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    Išilginis kapo (I—II a. po Kr.) piüvis.
+    Lavonas, palaidotas iš medžio išskaptuotame grabe. Gale galvos puodai su
+    maistu.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Minimas D. Malinausko padirbdintas grabas Vytauto kaulams sudėti.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Sužinoję tatai, lenkai iškasė mergaičių grabus ir išmetė už kapinių tvoros (už tai „kultūringieji patriotai", žinoma, buvo suimti ir pateko į kalėjimą).
-  pagrindžia: Grabus kaip konfliktuose simboliškai reikšmingus laidojimo objektus.
+    D. Malinauskas, kurs švenčiausiai
+    tiki Vytauto kaulus tebesant ir kuris iš padavimo numano, kur jie
+    galėtų būti, — surinkęs aukų, padirbdino puikų grabą Vytauto kaulams sudėti, bet lenkai to grabo nepriėmė į katedrą
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-- asmuo: [[Vytautas]]
-
 ## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Išilginis kapo (I—II a. po Kr.) piüvis. Lavonas, palaidotas iš medžio išskaptuotame grabe. Gale galvos puodai su maistu.
-  pagrindžia: Grabą kaip medinį laidojimo objektą archeologiniame kapo aprašyme.
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    D. Malinauskas, kurs švenčiausiai tiki Vytauto kaulus tebesant ir kuris iš padavimo numano, kur jie galėtų būti, — surinkęs aukų, padirbdino puikų grabą Vytauto kaulams sudėti, bet lenkai to grabo nepriėmė į katedrą, ir dabar jis saugomas Vilniaus Lietuvių Mokslo Draugijoje. O vis dėlto yra daug vilties, kad Vytauto kapas kada nors bus surastas, ir jo kaulai bus padėti katedroje garbingoje vietoje.
-  pagrindžia: Grabą kaip Vytauto kaulams skirtą objektą.
 
 ## Pastabos

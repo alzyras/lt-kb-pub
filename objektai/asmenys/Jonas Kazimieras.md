@@ -1,63 +1,83 @@
 ---
 tipas: asmuo
 pavadinimas: "Jonas Kazimieras"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "Jono Kazimiero"
-aliases:
-  - "Jonas Kazimieras"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - valdovas
-laikotarpis: "1648-1668 m."
-datos:
-  - "1648-1668 m."
+  - "karalius"
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
 vaidmenys:
-  - karalius
+  - "karalius"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis Jonas Kazimierą sieja su atskiru 1648-1668 m. laikotarpiu ir politiniais veiksmais."
+susije_irasai: []
+patikimumas: "aukstas"
 ---
 # Jonas Kazimieras
 
 ## Santrauka
-Jonas Kazimieras šiame šaltinyje pristatomas kaip 1648-1668 m. valdovas, kurio laikams skiriamas atskiras skyrius.
+
+Šaltinyje nurodoma, kad Jonas Kazimieras pabėgo į Austrijos Sileziją.
 
 ## Variantai
+
 - Jono Kazimiero
 
 ## Laikotarpis ir datos
-- laikotarpis: 1648-1668 m.
-- datos: 1648-1668 m.
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Vaidmenys
+
 - karalius
 
 ## Savybės
-- išvaizda:
-- būdas / charakteris:
-- elgesys:
-- reputacija:
-- gebėjimai:
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
-## Reikšmingi paminėjimai
-- santrauka: Šaltinio turinys nurodo Jono Kazimiero laikus.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    c. Jono Kazimiero laikai (1648—1668 m.)
-  pagrindžia: Jono Kazimiero valdymo laikotarpį.
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje nurodoma, kad Jonas Kazimieras pabėgo į Austrijos Sileziją."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
-- santrauka: Jonas Kazimieras šaltinyje minimas pasitraukimo į Austrijos Sileziją kontekste.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Citata pagrindžia asmens pareigas arba vaidmenį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Lenkijoje švedams pasisekė: pašaukta Lenkijos bajorija pasidavė be mūšio (ties Uiste, liepos 25 d.). Švedai netrukus užėmė didžiąją dalį Lenkijos; kitą dalį teriojo rusai su kazokais, o karalius Jonas Kazimieras pabėgo į Austrijos Sileziją.
-  pagrindžia: Jono Kazimiero politinį veiksmą karo kontekste.
+    Jonas Kazimieras pabėgo į Austrijos Sileziją.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos

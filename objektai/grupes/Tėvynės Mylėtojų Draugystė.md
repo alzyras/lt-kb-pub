@@ -1,51 +1,81 @@
 ---
 tipas: grupe
 pavadinimas: "Tėvynės Mylėtojų Draugystė"
-sukurta: "2026-04-16"
-variantai: []
-aliases: []
+sukurta: "2026-04-17"
+variantai: 
+  - "Tėvynės Mylėtojų Draugystė"
+aliases: 
+  - "Tėvynės Mylėtojų Draugystė"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: 
+  - "draugija"
 dalyviai: []
 susije_irasai: []
-patikimumas: "Paremta šaltinio citatomis ir tiesioginiais paminėjimais."
+patikimumas: "vidutinis"
 ---
 # Tėvynės Mylėtojų Draugystė
 
 ## Santrauka
-Tėvynės Mylėtojų Draugystė yra draugija. Šaltinyje ši grupė apibūdinama taip: Spaudos ir knygų leidybos organizacija Amerikos lietuvių tarpe.
+
+Spaudos ir knygų leidybos organizacija Amerikos lietuvių tarpe.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Tėvynės Mylėtojų Draugystė`
+
+- „Tėvynės Mylėtojų Draugystė“
 
 ## Laikotarpis ir datos
 - laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip draugija.
+
+Šaltinyje aiškiai nurodomas grupės tipas: draugija.
 
 ## Sudėtis ir vaidmuo
 - tipas: draugija
-- vaidmuo: Spaudos ir knygų leidybos organizacija Amerikos lietuvių tarpe.
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Tėvynės Mylėtojų Draugystė“ apibūdinama taip: Spaudos ir knygų leidybos organizacija Amerikos lietuvių tarpe."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Spaudos ir knygų leidybos organizacija Amerikos lietuvių tarpe.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Tėvynės Mylėtojų Draugystė
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-- santrauka: Papildomas tiesioginis paminėjimas iš to paties šaltinio.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Bet ypatingai pagyvėjo lietuviškoji spauda, kai 1896 m. buvo įsteigta Tėvynės Mylėtojų Draugystė, turėjusi tikslą leisti lietuviškus raštus.
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+    Yra ir kultūrinių organizacijų, pav., Tėvynės Mylėtojų Draugystė (knygoms leisti), jaunimo organizacija — Lietuvos Vyčiai ir kt.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos
-- Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

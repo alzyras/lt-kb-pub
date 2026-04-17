@@ -1,76 +1,81 @@
 ---
 tipas: paprotys
 pavadinimas: "Žalčių laikymas namuose"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
-  - "šventųjų žalčių laikymas"
+  - "žalčiai"
+  - "šventieji gyvuliai"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos:
-  - tikėjimas
   - religinė-praktika
-laikotarpis: "senovės aisčių religijos kontekstas"
+  - tikėjimas
+laikotarpis: "senovės aisčių religija"
 datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
 vaidmenys:
   - "namų globėjai"
 dalyviai:
   - "aisčiai"
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: ""
 ---
 # Žalčių laikymas namuose
 
 ## Santrauka
 
-Šaltinis nurodo, kad aisčių namuose buvo laikomi šventieji gyvuliai, ypač žalčiai; jie su apeigomis įvedami į paskirtą guolį ir laikomi namų globėjais.
+Aisčių namuose žalčiai laikyti šventaisiais gyvuliais ir namų globėjais; į paskirtą guolį jie būdavo įvedami su apeigomis.
 
 ## Laikotarpis ir datos
-- laikotarpis: senovės aisčių religijos kontekstas.
+- laikotarpis: senovės aisčių religija
 - datos:
+- periodas:
+- subperiodiai:
+- date_start:
+- date_end:
 
 ## Kas tai
 
-Tai šventųjų gyvulių, ypač žalčių, laikymo namuose praktika.
+Namų religinė praktika, susijusi su šventais gyvuliais.
 
 ## Atlikimas
-- kas atlieka: aisčiai.
-- kada atliekama: namuose, įvedant žalčius į paskirtą guolį.
-- kaip atliekama: žalčiai į guolį įvedami su tam tikromis apeigomis ir ten laikomi.
+- kas atlieka: aisčiai
+- kada atliekama: namuose, įvedant žalčius į paskirtą guolį
+- kaip atliekama: žalčiai įvedami su tam tikromis apeigomis ir laikomi kaip namų globėjai
 
 ## Paskirtis
 
-Šaltinis nurodo, kad žalčiai laikomi kaip namų globėjai.
+Laikyti žalčius kaip namų globėjus.
 
 ## Kontekstas
 - regionas:
-- laikotarpis: senovės aisčių namų dievybių aptarimas.
-- susiję žodžiai: šventieji gyvuliai, namų globėjai, apeigos.
+- laikotarpis: senovės aisčių religija
+- susiję žodžiai:
 - susiję daiktai:
 
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinis nurodo, kad aisčių namuose buvo laikomi šventieji gyvuliai, ypač žalčiai, kurie su apeigomis būdavo įvedami į paskirtą guolį ir laikomi namų globėjais."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
-
-- santrauka: Šaltinis šią praktiką sieja su platesne namų dievybių samprata.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Žalčiai namuose aprašomi kaip šventieji gyvuliai ir namų globėjai.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Kaip visoje gamtoje buvo pilna dievybių, taip jų buvo apstu ir aisčių namuose. Be namų dvasios, kuri saugojusi visus namus, čia buvo dar židinio ir kitokių dievų.
-  pagrindžia: Žalčių laikymo namuose religinį kontekstą.
-
-## Ryšiai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Be to, namuose buvo laikomi šventieji gyvuliai, ypač žalčiai. Į paskirtą guolį jie būdavo įvedami su tam tikromis apeigomis ir ten buvo laikomi, kaip namų globėjai. Šita pagarba žalčiams tebėra kai kur išlikusi dar ir dabar.
-  pagrindžia: Žalčių laikymą, įvedimą su apeigomis ir jų namų globėjų vaidmenį.
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Šita pagarba žalčiams tebėra kai kur išlikusi dar ir dabar. Dar visai neseniai miškų ir pamiškių senose trobose buvo laikomi žalčiai.
-  pagrindžia: Šaltinyje nurodytą praktikos išlikimo paminėjimą.
-
-## Pastabos
+    Be to, namuose buvo laikomi šventieji gyvuliai, ypač žalčiai. Į paskirtą guolį jie
+    būdavo įvedami su tam tikromis apeigomis ir ten buvo laikomi,
+    kaip namų globėjai.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

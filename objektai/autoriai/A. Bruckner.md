@@ -1,58 +1,93 @@
 ---
 tipas: autorius
 pavadinimas: "A. Bruckner"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
-  - "A. Brückner"
-aliases:
   - "A. Bruckner"
+  - "A. Brückner"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - autorius
-laikotarpis: "1904-1931 m."
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: "1904-1931 m. bibliografijos kontekstas"
 datos:
   - "1904 m."
-  - "1930 m."
-  - "1931 m."
+  - "1930-1931 m."
+periodas: ""
+subperiodiai: []
+date_start: "1904"
+date_end: "1931"
 vaidmenys:
   - autorius
   - tyrėjas
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Bibliografija tiesiogiai nurodo A. Bruckner / A. Brückner darbus."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # A. Bruckner
 
 ## Santrauka
-A. Bruckner šiame šaltinyje minimas kaip kultūros istorijos ir senosios Lietuvos tyrimų autorius.
+
+A. Bruckner bibliografijoje minimas kaip kultūros istorijos ir senosios Lietuvos temų autorius.
 
 ## Laikotarpis ir datos
-- laikotarpis: 1904-1931 m.
-- datos: 1904 m.; 1930 m.; 1931 m.
+- laikotarpis: 1904-1931 m. bibliografijos kontekstas
+- datos: 1904 m.; 1930-1931 m.
+- periodas:
+- subperiodiai:
+- date_start: 1904
+- date_end: 1931
 
 ## Darbai
-- `Dzieje kultury Polskiej`.
-- `Starożytna Litwa`.
+
+- „Dzieje kultury Polskiej“.
+- „Starożytna Litwa“.
 
 ## Kontekstas
-Šaltinyje pavardė pateikta be diakritiko ir su diakritiku, bet abiem atvejais bibliografija ją sieja su konkrečiais darbais.
+
+Autorius minimas prie bendrųjų veikalų ir senovės lietuvių kultūrinių bei visuomeninių santykių bibliografijos.
+
+## Teiginiai
+- id: t-001
+  teiginys: "Bibliografijoje A. Bruckner pateikiamas kaip kultūros istorijos ir senosios Lietuvos temų darbų autorius."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Bendrųjų veikalų skyriuje nurodomas A. Bruckner darbas apie Lenkijos kultūrą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Bendrųjų veikalų sąraše A. Bruckner siejamas su Lenkijos kultūros istorija.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    (1925; Kasakaičio vert.); T. Korzon, Dzieje wojen i wojskowości w Polsce, I—III (1923); A. Bruckner, Dzieje kultury Polskiej, I-III (1930—1931); M. Gruševski, Istorija Ukraini Rusi, I-IX (1907—1930); S. M. Solovjev, Ist.
-  pagrindžia: Autoriaus ir veikalo ryšį.
+    _A. Bruckner,_ Dzieje kultury
+    Polskiej, I-III (1930—1931)
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su veikalu."
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Bibliografijoje A. Brückner siejamas su senosios Lietuvos veikalu.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata: |
+    _A. Brückner,_ Sta-
+    rożytna Litwa (1904) ;
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja variantinę autoriaus rašybą su darbu."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
 ## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Prussia, 1924) ; P. Schmidt, Die Mytologie der Letten (Die Letten, 1930); A. Brückner, Starożytna Litwa (1904) ; K. Būga, Medžiaga ... mitologijai, I, II (1908, 1909) ; IV.
-  pagrindžia: A. Brückner darbą apie senąją Lietuvą.
+
+- q-001 ir q-002 pagrindžia bibliografinius paminėjimus.
 
 ## Pastabos

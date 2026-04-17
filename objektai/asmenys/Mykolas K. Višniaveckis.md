@@ -1,60 +1,79 @@
 ---
 tipas: asmuo
 pavadinimas: "Mykolas K. Višniaveckis"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "M. K. Višniaveckis"
-aliases:
-  - "Mykolas K. Višniaveckis"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - valdovas
-laikotarpis: "1669-1673 m."
-datos:
-  - "1669-1673 m."
-vaidmenys:
-  - valdovas
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: []
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Šaltinis Mykolą K. Višniaveckį pateikia atskiro skyriaus antraštėje su valdymo datomis."
+susije_irasai: []
+patikimumas: "aukstas"
 ---
 # Mykolas K. Višniaveckis
 
 ## Santrauka
-Mykolas K. Višniaveckis šiame šaltinyje minimas kaip 1669-1673 m. valdovas ir elekcijos figūra.
+
+Mykolas K. Višniaveckis šiame šaltinyje minimas kaip valdovas ir elekcijos figūra.
 
 ## Variantai
+
 - M. K. Višniaveckis
 
 ## Laikotarpis ir datos
-- laikotarpis: 1669-1673 m.
-- datos: 1669-1673 m.
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Vaidmenys
-- valdovas
 
 ## Savybės
-- išvaizda:
-- būdas / charakteris:
-- elgesys:
-- reputacija:
-- gebėjimai:
+
+## Šaltinių vaizdas
+- sutampantys vertinimai:
+- skirtingi vertinimai:
 
 ## Dalyvavimas įvykiuose
 
+## Teiginiai
+- id: t-001
+  teiginys: "Mykolas K. Višniaveckis šiame šaltinyje minimas kaip valdovas ir elekcijos figūra."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
-- santrauka: Šaltinio turinys Mykolą K. Višniaveckį sieja su elekcija ir 1669-1673 m. laikotarpiu.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Citata pagrindžia asmens pareigas arba vaidmenį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    2. Mykolas K. Višniaveckis (1669—1673 m.) ir jo elekcija
-  pagrindžia: Mykolo K. Višniaveckio vardą, datas ir politinį kontekstą.
+    Mykolas K. Višniaveckis
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
 ## Šaltiniai ir įrodymai
-- Pagrindinis įrodymas pateiktas skiltyje „Reikšmingi paminėjimai“.
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos

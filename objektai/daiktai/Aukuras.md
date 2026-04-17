@@ -1,70 +1,85 @@
 ---
 tipas: daiktas
-pavadinimas: "aukuras"
-sukurta: "2026-04-16"
-variantai: []
+pavadinimas: "Aukuras"
+sukurta: "2026-04-17"
+variantai:
+  - "aukuras"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - simbolis
-  - religinė-praktika
-laikotarpis: "senovės aisčių laikai"
+  - "ritualas"
+laikotarpis: "ikikrikščioniškos religijos kontekstas"
 datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
 vaidmenys:
-  - "apeiginis šventovės įrenginys"
+  - "apeiginis įrenginys"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: ""
 ---
 # Aukuras
 
 ## Santrauka
 
-Aukuras šaltinyje minimas senovės aisčių šventovių aprašyme: dievams nebuvo statoma maldyklų, o šventovėje buvęs tik vienas aukuras.
+Aukuras šaltinyje minimas kaip vienintelis šventovėse statomas apeiginis įrenginys, kai maldyklos nestatomos.
 
 ## Pavadinimai šaltiniuose
 
-- aukuras
+- „aukuras“
 
 ## Laikotarpis ir datos
 
-- laikotarpis: senovės aisčių laikai
+- laikotarpis: ikikrikščioniškos religijos kontekstas
 - datos:
+- periodas:
+- subperiodiai:
+- date_start:
+- date_end:
 
 ## Kas tai
 
-Tai apeiginis šventovės įrenginys, skirtas kulto praktikoms po atviru dangumi.
+Apeiginis įrenginys.
 
 ## Naudojimas
 
-- Šaltinis aukurą sieja su šventovėmis, kuriose kūrenosi amžinoji ugnis.
-- Šaltinis nurodo ir kitų apeigoms reikalingų įrengimų buvimą, bet dievų stabų nebuvimą.
+Šaltinis aukurą sieja su šventovių apeigomis.
 
 ## Kontekstas
 
-- laikotarpis: senovės aisčių religijos kontekstas.
+- laikotarpis: ikikrikščioniška kulto praktika
 - susiję žmonės:
 - susiję įvykiai:
 
+## Teiginiai
+
+- id: t-001
+  teiginys: "Šaltinis nurodo, kad šventovėse nebuvo statoma maldyklų, o tik vienas aukuras."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 
-- santrauka: Šventovės apibūdinamos kaip buvusios po atviru dangumi.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Aukuras nurodomas kaip vienintelis šventovės įrenginys vietoj maldyklos.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Šventovės buvo po atviru dangum, jose kūrenosi amžinoji ugnis.
-  pagrindžia: Aukuru pažymimos šventovės pobūdį.
+    šventovėse jiems nebuvo statoma jokių maldyklų,
+    o tik vienas aukuras.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
 ## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Kadangi, aisčių tikėjimu, dievai turėję savo būstines aplinkumoj, tai šventovėse jiems nebuvo statoma jokių maldyklų, o tik vienas aukuras. Žinoma, ten buvo ir šiaipjau apeigoms reikalingų įrengimų, tačiau nebuvo jokių dievų stabų: aisčiai jų neturėjo. Jie turėjo tik įvairių apeiginių statulų bei stulpų, ant kurių dėjo aukas, bet tai nebuvo dievai.
-  pagrindžia: Aukurą kaip vienintelį aiškiai įvardytą šventovės kulto įrenginį.
 
 ## Pastabos

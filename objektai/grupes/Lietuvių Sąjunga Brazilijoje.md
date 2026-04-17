@@ -1,48 +1,82 @@
 ---
 tipas: grupe
 pavadinimas: "Lietuvių Sąjunga Brazilijoje"
-sukurta: "2026-04-16"
-variantai: []
-aliases: []
+sukurta: "2026-04-17"
+variantai: 
+  - "Lietuvių Sąjunga Brazilijoje"
+aliases: 
+  - "Lietuvių Sąjunga Brazilijoje"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: "1931 m."
+laikotarpis: ""
 datos: 
   - "1931 m."
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: "1931"
+date_end: "1931"
+vaidmenys: 
+  - "sąjunga"
 dalyviai: []
 susije_irasai: []
-patikimumas: "Paremta šaltinio citatomis ir tiesioginiais paminėjimais."
+patikimumas: "vidutinis"
 ---
 # Lietuvių Sąjunga Brazilijoje
 
 ## Santrauka
-Lietuvių Sąjunga Brazilijoje yra sąjunga. Šaltinyje ši grupė apibūdinama taip: Sao Paulo lietuvių organizacija, leidusi savaitraštį ir vienijusi tautišką veikimą.
+
+Sao Paulo lietuvių organizacija, leidusi savaitraštį ir vienijusi tautišką veikimą.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Lietuvių Sąjunga Brazilijoje`
+
+- „Lietuvių Sąjunga Brazilijoje“
 
 ## Laikotarpis ir datos
-- laikotarpis: 1931 m.
-- data: 1931 m.
+- laikotarpis: 
+- datos: 1931 m.
+- periodas:
+- subperiodiai:
+- date_start: 1931
+- date_end: 1931
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip sąjunga.
+
+Šaltinyje aiškiai nurodomas grupės tipas: sąjunga.
 
 ## Sudėtis ir vaidmuo
 - tipas: sąjunga
-- vaidmuo: Sao Paulo lietuvių organizacija, leidusi savaitraštį ir vienijusi tautišką veikimą.
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Lietuvių Sąjunga Brazilijoje“ apibūdinama taip: Sao Paulo lietuvių organizacija, leidusi savaitraštį ir vienijusi tautišką veikimą."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Sao Paulo lietuvių organizacija, leidusi savaitraštį ir vienijusi tautišką veikimą.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Jau 1931 m. čia susikūrė Lietuvių Sąjunga Brazilijoje
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+    Jau 1931 m. čia susikūrė Lietuvių Sąjunga Brazilijoje.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos
-- Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

@@ -1,70 +1,97 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "bažnytinė unija"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai:
   - "bažnytinės unijos"
-  - "Bažnyčių unija"
-aliases:
-  - "bažnytinė unija"
-  - "Bažnyčių unija"
+  - "unijos"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - religinis-terminas
-laikotarpis: "1418 m.; 1431-1452 m.; XVI a. pabaiga"
-datos:
-  - "1418 m."
-  - "1452 m."
-  - "1596 m."
-vaidmenys: []
+  - "istorinė-sąvoka"
+laikotarpis: ""
+datos: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "žodyno terminas"
+  - "bažnytinė politika ir teologinis ginčas"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Reikšmė aiškinama tik iš šaltinyje pateiktų Rytų ir Vakarų Bažnyčių sujungimo bandymų."
+susije_irasai: []
+patikimumas: ""
 ---
 # bažnytinė unija
 
+## Santrauka
+
+Terminas „bažnytinė unija“ šiame šaltinyje vartojamas reikšme: Rytų ir Vakarų Bažnyčių suvienijimas.
+
 ## Žodis ir formos
 
-- Kanoninė forma: `bažnytinė unija`
-- Šaltinio formos: `bažnytinės unijos`, `bažnytinę uniją`, `Bažnyčių unija`
+- Pagrindinė forma: „bažnytinė unija“.
+- Šaltinyje rasta forma: „bažnytinės unijos“.
+- Šaltinyje rasta forma: „unijos“.
 
 ## Laikotarpis ir datos
-
-- laikotarpis: 1418 m.; 1431-1452 m.; XVI a. pabaiga
-- datos: 1418 m.; 1452 m.; 1596 m.
+- laikotarpis: 
+- datos:
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Reikšmė iš konteksto
 
-Šaltinyje `bažnytinė unija` reiškia Rytų apeigų, šaltinyje vadinamų pravoslavais, ir katalikų Bažnyčios sujungimo sumanymą, reikalaujantį pripažinti popiežiaus valdžią ir katalikų dogmas.
+Rytų ir Vakarų Bažnyčių suvienijimas.
 
 ## Vartojimas
 
-Terminas vartojamas Vytauto, Bazelio suvažiavimo ir Brastos unijos kontekstuose.
+Vartojimo sritis šaltinyje: bažnytinė politika ir teologinis ginčas.
+
+## Teiginiai
+
+- id: t-001
+  teiginys: "Pagal vietinį šaltinio kontekstą terminas „bažnytinė unija“ reiškia: Rytų ir Vakarų Bažnyčių suvienijimas."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- santrauka: Šaltinis aiškina bažnytinę uniją kaip abiejų krikščioniškųjų Bažnyčių sujungimą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „bažnytinė unija“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Todėl buvo pradėta galvoti apie abiejų krikščioniškųjų Bažnyčių sujungimą, arba apie bažnytinę uniją. Tam reikėjo, kad pravoslavai pripažintų popiežiaus valdžią ir priimtų katalikų dogmas. Buvo dar ir kitas motyvas siekti bažnytinės unijos.
-  pagrindžia: Termino reikšmę.
-- santrauka: Bazelio suvažiavime bažnytinės unijos klausimas liko neišspręstas Lietuvoje.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    3. Bažnyčios suvažiavimas Bazely ir bažnytinės unijos
+        klausimas
+    Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj)
+    vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas. Jame, tarp kitko, buvo iškeltas ir bažnytinės unijos klausimas, kuris jau buvo spręstas Konstancos suvažiavime. Anuomet bažnytine unija rūpinosi Vytautas, tačiau jam tatai nepasisekė (žiūr.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „bažnytinė unija“.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Bažnyčios suvažiavimas Bazely ir bažnytinės unijos klausimas Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj) vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas. Jame, tarp kitko, buvo iškeltas ir bažnytinės unijos klausimas, kuris jau buvo spręstas Konstancos suvažiavime.
-  pagrindžia: Termino vartojimą XV a. bažnytinės politikos kontekste.
+    Buvo dar ir kitas motyvas siekti bažnytinės unijos. Negaudami lygių teisių su katalikais, pravoslavai galėjo linkti į
+    Maskvą. Kadaise Algirdas, bijodamas, kad rusai nepalinktų
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
 ## Šaltiniai ir įrodymai
-
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Unijos paskelbimas Brastos sinode (1596 m.).
-  pagrindžia: Vėlesnį šaltinyje nurodytą bažnytinės unijos įgyvendinimo kontekstą.
 
 ## Pastabos

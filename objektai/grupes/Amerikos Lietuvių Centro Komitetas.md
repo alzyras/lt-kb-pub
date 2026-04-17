@@ -1,51 +1,81 @@
 ---
 tipas: grupe
 pavadinimas: "Amerikos Lietuvių Centro Komitetas"
-sukurta: "2026-04-16"
-variantai: []
-aliases: []
+sukurta: "2026-04-17"
+variantai: 
+  - "Amerikos Lietuvių Centro Komitetas"
+aliases: 
+  - "Amerikos Lietuvių Centro Komitetas"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: 
+  - "komitetas"
 dalyviai: []
 susije_irasai: []
-patikimumas: "Paremta šaltinio citatomis ir tiesioginiais paminėjimais."
+patikimumas: "vidutinis"
 ---
 # Amerikos Lietuvių Centro Komitetas
 
 ## Santrauka
-Amerikos Lietuvių Centro Komitetas yra komitetas. Šaltinyje ši grupė apibūdinama taip: Bendras katalikų ir tautininkų komitetas karo metu.
+
+Bendras katalikų ir tautininkų komitetas karo metu.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Amerikos Lietuvių Centro Komitetas`
+
+- „Amerikos Lietuvių Centro Komitetas“
 
 ## Laikotarpis ir datos
 - laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip komitetas.
+
+Šaltinyje aiškiai nurodomas grupės tipas: komitetas.
 
 ## Sudėtis ir vaidmuo
 - tipas: komitetas
-- vaidmuo: Bendras katalikų ir tautininkų komitetas karo metu.
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Amerikos Lietuvių Centro Komitetas“ apibūdinama taip: Bendras katalikų ir tautininkų komitetas karo metu."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Bendras katalikų ir tautininkų komitetas karo metu.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Amerikos Lietuvių Centro Komitetas
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-- santrauka: Papildomas tiesioginis paminėjimas iš to paties šaltinio.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tuo būdu atsirado trys lietuvių Fondai, iš kurių socialistiškasis niekad nedirbo kartu su kitais dviem ir rinko aukas tik nukentėjusiems nuo karo šelpti, o katalikų ir tautininkų Fondai kartais veikdavo ir išvien: mat, jų abiejų tikslai buvo vienodi — šelpti nukentėjusius ir rūpintis autonomija.
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+    Taip antai, katalikų Tautos Fondas yra surinkęs milijono su viršum dolerių, tautininkų Lietuvos Gelbėjimo Fondas surinko apie 15.000 dolerių, socialistų Lietuvos Šelpimo Fondas — irgi apie tiek pat; kurį laiką katalikų ir tautininkų bendras, o vėliau vienų tautininkų sudaromas Amerikos Lietuvių Centro Komitetas (nukentėjusiems nuo karo šelpti) buvo surinkęs apie 250.000 dolerių (viena rinkliava davė 230.000 dolerių).
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos
-- Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

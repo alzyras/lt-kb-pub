@@ -1,64 +1,123 @@
 ---
 tipas: autorius
 pavadinimas: "V. Biržiška"
-sukurta: "2026-04-16"
-variantai: []
-aliases:
+sukurta: "2026-04-17"
+variantai:
   - "V. Biržiška"
+aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - autorius
-laikotarpis: "1921-1934 m."
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: "1921-1934 m. bibliografijos kontekstas"
 datos:
   - "1921 m."
   - "1922 m."
   - "1930 m."
   - "1932 m."
   - "1934 m."
+periodas: ""
+subperiodiai: []
+date_start: "1921"
+date_end: "1934"
 vaidmenys:
   - autorius
   - tyrėjas
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Bibliografija tiesiogiai nurodo V. Biržiškos darbus."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # V. Biržiška
 
 ## Santrauka
-V. Biržiška šiame šaltinyje minimas kaip lietuviškos knygos, spaudos draudimo ir Lietuvos kariuomenės istorijos autorius.
+
+V. Biržiška bibliografijoje minimas kaip Lietuvos karo kelių, hetmono J. K. Katkevičiaus, lietuviškos knygos ir spaudos draudimo istorijos autorius.
 
 ## Laikotarpis ir datos
-- laikotarpis: 1921-1934 m.
+- laikotarpis: 1921-1934 m. bibliografijos kontekstas
 - datos: 1921 m.; 1922 m.; 1930 m.; 1932 m.; 1934 m.
+- periodas:
+- subperiodiai:
+- date_start: 1921
+- date_end: 1934
 
 ## Darbai
-- `Kryžiuočių keliai į Lietuvą XIV amž.`
-- `D. Lietuvos hetmonas J. K. Katkevičius`.
-- `XV—XVIII a. Lietuvos kariuomenės vadai`.
-- `Lietuviškų knygų istorijos bruožai`.
-- `Lietuvių knygų augimo etapai`.
-- `Kaip buvo uždrausta ir atkovota liet. spauda`.
-- `Iš mūsų laikraščių praeities`.
+
+- „Kryžiuočių keliai į Lietuvą XIV amž.“.
+- „D. Lietuvos hetmonas J. K. Katkevičius“.
+- „Lietuviškų knygų istorijos bruožai“.
+- „Lietuvių knygų augimo etapai“.
+- „Kaip buvo uždrausta ir atkovota liet. spauda“.
 
 ## Kontekstas
-Šaltinyje V. Biržiška cituojamas skirtinguose karinės, kultūrinės ir spaudos istorijos skyriuose.
+
+Autorius minimas bibliografijoje prie Algirdo ir Kęstučio laikų, Vazų laikų, XVII a. švietimo ir rusifikacijos bei atgimimo temų.
+
+## Teiginiai
+- id: t-001
+  teiginys: "Bibliografijoje V. Biržiška pateikiamas kaip darbo apie kryžiuočių kelius į Lietuvą XIV a. autorius."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Bibliografijoje V. Biržiška pateikiamas kaip darbų apie lietuviškas knygas autorius."
+  pagrindžia:
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-003
+  teiginys: "Bibliografijoje V. Biržiška pateikiamas kaip darbo apie lietuviškos spaudos draudimą ir atkovojimą autorius."
+  pagrindžia:
+    - q-003
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: XVII a. švietimo bibliografijoje pateikti V. Biržiškos lietuviškos knygos istorijos darbai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Bibliografijoje V. Biržiška siejamas su darbu apie kryžiuočių kelius į Lietuvą.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    1929); V. Sobieski, Nienawiść wyznaniowa tłumów za rządów Zygmanta III (1902); M. Biržiška, Iš mūsų kultūros ir literatūros istorijos (1931); V. Biržiška, Lietuviškų knygų istorijos bruožai (1930); — Lietuvių knygų augimo etapai (1930). XXII.
-  pagrindžia: Autoriaus ir darbų ryšį.
+    _V. Biržiška,_ Kryžiuočių keliai į Lietuvą XIV
+    amž., I dalis (Praeitis I)
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su nurodytu darbu."
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Bibliografijoje V. Biržiška siejamas su lietuviškų knygų istorijos darbais.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata: |
+    _V. Biržiška,_ Lietuviškų knygų istorijos bruo-
+    žai (1930); — Lietuvių knygų augimo etapai (1930).
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su dviem darbais."
+  pagrindžia:
+    - t-002
+- id: q-003
+  santrauka: Bibliografijoje V. Biržiška siejamas su darbu apie spaudos draudimą.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata: |
+    _V. Biržiška,_ Kaip buvo uždrausta ir atkovota liet. spauda (1934); — Iš mūsų
+    laikraščių praeities (1932)
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su nurodytu darbu ir susijusiu leidiniu."
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 
 ## Šaltiniai ir įrodymai
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    (Tieoss Kel., 1928, Nr. 4); — Kunigų kova su rusų valdžia dėl tikybos ir gimtosios kalbos dėstymo mokykloje (ten pat, 1930, Nr. 5) ;— Apie lotyniškų raidžių draudimą (Athen, 1933, IV) ; — Lietuvių rusinimas per Kauno gubernijos pradžios mokyklas (spausdinama); V. Biržiška, Kaip buvo uždrausta ir atkovota liet. spauda (1934); — Iš mūsų laikraščių praeities (1932); J. Totoraitis, Lietuvos atgijimas; A. Rimka, Liet. tautos atgimimo socialiniai pagrindai ir „Auszros" — „Varpo" gadynės socialekonominiai raštai (Teisių F. Darbai, VI); P. Šalčius, „Auszros" ir „Szwiesos" ekonomika (ten pat); K. Šakenis, „Auszra" ir jos gadynė (1933); P. Ruseckas, Knygnešys, I, II; — Spaudos draudimo gadynė (1929); — Did.
-  pagrindžia: V. Biržiškos darbus apie spaudos draudimą ir laikraščius.
+
+- q-001 pagrindžia karo kelių temą.
+- q-002 pagrindžia lietuviškų knygų istorijos darbus.
+- q-003 pagrindžia spaudos draudimo temą.
 
 ## Pastabos

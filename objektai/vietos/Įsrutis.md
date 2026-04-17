@@ -1,59 +1,78 @@
 ---
 tipas: vieta
 pavadinimas: "Įsrutis"
-sukurta: "2026-04-16"
-variantai: 
+sukurta: "2026-04-17"
+variantai:
+  - "Įsrutis"
   - "Įsruties"
 aliases: []
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
 zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys:
+  - "miestas / pilis"
 dalyviai: []
-susije_irasai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-patikimumas: "Įrašas sudarytas tik pagal nurodyto darbo šaltinio tekstą."
+susije_irasai: []
+patikimumas: "vidutinis"
 ---
 # Įsrutis
 
 ## Santrauka
-
 Įsrutis minimas kaip paskutinė vakarinė ordino pilis krašto viduje.
 
 ## Pavadinimai šaltiniuose
-
 - Įsrutis
 - Įsruties
 
 ## Laikotarpis ir datos
-
 - laikotarpis: 
 - datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-
-Šaltinyje ši vieta įvardijama kaip miestas / pilis.
+miestas / pilis.
 
 ## Geografinis ir istorinis kontekstas
-
 - tipas: miestas / pilis
 - regionas:
 - susiję žmonės:
 - susiję įvykiai:
 - susijusios grupės:
 
-## Reikšmingi paminėjimai
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje „Įsrutis“ minimas kaip miestas / pilis: Įsrutis minimas kaip paskutinė vakarinė ordino pilis krašto viduje."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  statusas: patvirtinta
 
-- santrauka: Šaltinis vietą „Įsrutis“ mini šiame kontekste: Įsrutis minimas kaip paskutinė vakarinė ordino pilis krašto viduje.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Įsrutis minimas kaip paskutinė vakarinė ordino pilis krašto viduje.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
   citata: |
-    Po maro visam krašte liko net 10.834 visiškai tuščios sodybos. Iš jų 8.411 buvo Mažojoje Lietuvoje, t. y. rytinėje Prūsų kunigaikštijos provincijoje, jau nuo 1600 m. vadinamoje Lietuva. Įsruties apskrity tuščių sodybų buvo net 4.620, Ragainės — 1613, Tilžės — 1307, Klaipėdos — 871.
-  pagrindžia: Vietos „Įsrutis“ pavadinimą, tipą ir šaltinio kontekstą.
+    Dar ilgai anapus Nemuno, krašto viduje, paskutinė vakarinė ordino pilis buvo Įsrutis. Nors visas kraštas nuo Nemuno iki Alnos
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
+- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
 
-- šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+## Šaltiniai ir įrodymai
+- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
 
 ## Pastabos

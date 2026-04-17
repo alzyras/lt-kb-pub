@@ -1,46 +1,81 @@
 ---
 tipas: grupe
 pavadinimas: "Lietuvos Šelpimo Fondas"
-sukurta: "2026-04-16"
-variantai: []
-aliases: []
+sukurta: "2026-04-17"
+variantai: 
+  - "Lietuvos Šelpimo Fondas"
+aliases: 
+  - "Lietuvos Šelpimo Fondas"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: 
+  - "fondas"
 dalyviai: []
 susije_irasai: []
-patikimumas: "Paremta šaltinio citatomis ir tiesioginiais paminėjimais."
+patikimumas: "vidutinis"
 ---
 # Lietuvos Šelpimo Fondas
 
 ## Santrauka
-Lietuvos Šelpimo Fondas yra fondas. Šaltinyje ši grupė apibūdinama taip: Socialistų kontroliuotas fondas, skirtas karo nukentėjusiems lietuviams šelpti.
+
+Socialistų kontroliuotas fondas, skirtas karo nukentėjusiems lietuviams šelpti.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Lietuvos Šelpimo Fondas`
+
+- „Lietuvos Šelpimo Fondas“
 
 ## Laikotarpis ir datos
 - laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip fondas.
+
+Šaltinyje aiškiai nurodomas grupės tipas: fondas.
 
 ## Sudėtis ir vaidmuo
 - tipas: fondas
-- vaidmuo: Socialistų kontroliuotas fondas, skirtas karo nukentėjusiems lietuviams šelpti.
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Lietuvos Šelpimo Fondas“ apibūdinama taip: Socialistų kontroliuotas fondas, skirtas karo nukentėjusiems lietuviams šelpti."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Socialistų kontroliuotas fondas, skirtas karo nukentėjusiems lietuviams šelpti.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
     Antrasis (Bruklino) seimas, socialistų balsais atmetęs reikalavimą skirtis nuo Rusijos, įkūrė Lietuvos Šelpimo Fondą, kurs pateko į socialistų rankas.
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos
-- Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.

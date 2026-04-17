@@ -1,40 +1,82 @@
 ---
 tipas: grupe
 pavadinimas: "Hanza"
-sukurta: "2026-04-16"
-variantai:
+sukurta: "2026-04-17"
+variantai: 
   - "vokiškųjų miestų pirklių sąjunga"
-aliases:
+aliases: 
   - "vokiškųjų miestų pirklių sąjunga"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
-vaidmenys: []
+periodas: ""
+subperiodiai: []
+date_start: ""
+date_end: ""
+vaidmenys: 
+  - "miestų sąjunga"
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "vidutinis"
 ---
 # Hanza
 
 ## Santrauka
-Hanza yra miestų sąjunga. Šaltinyje ši grupė apibūdinama kaip vokiškų miestų pirklių sąjunga, valdžiusi prekybos kelius.
+
+Vokiškų miestų pirklių sąjunga, valdžiusi prekybos kelius.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Hanza`
-- Variacijos arba alternatyvios formos: `vokiškųjų miestų pirklių sąjunga`
+
+- „Hanza“
+- „vokiškųjų miestų pirklių sąjunga“
+
+## Laikotarpis ir datos
+- laikotarpis: 
+- datos: 
+- periodas:
+- subperiodiai:
+- date_start: 
+- date_end: 
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip miestų sąjunga.
+
+Šaltinyje aiškiai nurodomas grupės tipas: miestų sąjunga.
 
 ## Sudėtis ir vaidmuo
 - tipas: miestų sąjunga
-- vaidmuo: vokiškų miestų pirklių sąjunga, valdžiusi prekybos kelius
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Hanza“ apibūdinama taip: Vokiškų miestų pirklių sąjunga, valdžiusi prekybos kelius."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Vokiškų miestų pirklių sąjunga, valdžiusi prekybos kelius.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
     Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinamoji Hanza.
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
+
+## Pastabos

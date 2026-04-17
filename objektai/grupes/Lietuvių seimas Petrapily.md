@@ -1,45 +1,87 @@
 ---
 tipas: grupe
 pavadinimas: "Lietuvių seimas Petrapily"
-sukurta: "2026-04-16"
-variantai:
+sukurta: "2026-04-17"
+variantai: 
   - "lietuvių seimas Petrapily"
-aliases:
+aliases: 
   - "lietuvių seimas Petrapily"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
-datos: []
-vaidmenys: []
+datos: 
+  - "1917 m."
+  - "1917 m"
+periodas: ""
+subperiodiai: []
+date_start: "1917"
+date_end: "1917"
+vaidmenys: 
+  - "seimas"
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "vidutinis"
 ---
 # Lietuvių seimas Petrapily
 
 ## Santrauka
-Lietuvių seimas Petrapily yra seimas. Šaltinyje ši grupė apibūdinama kaip 1917 m. Petrograde sušauktas lietuvių seimas, kuriame buvo svarstytas Lietuvos ateities klausimas.
+
+1917 m. Petrograde sušauktas lietuvių seimas, kuriame buvo svarstytas Lietuvos ateities klausimas.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Lietuvių seimas Petrapily`
-- Variacijos arba alternatyvios formos: `lietuvių seimas Petrapily`
+
+- „Lietuvių seimas Petrapily“
+
+## Laikotarpis ir datos
+- laikotarpis: 
+- datos: 1917 m., 1917 m
+- periodas:
+- subperiodiai:
+- date_start: 1917
+- date_end: 1917
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip seimas.
+
+Šaltinyje aiškiai nurodomas grupės tipas: seimas.
 
 ## Sudėtis ir vaidmuo
 - tipas: seimas
-- vaidmuo: 1917 m. Petrograde sušauktas lietuvių seimas, kuriame buvo svarstytas Lietuvos ateities klausimas
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Lietuvių seimas Petrapily“ apibūdinama taip: 1917 m. Petrograde sušauktas lietuvių seimas, kuriame buvo svarstytas Lietuvos ateities klausimas."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Šaltinio ištrauka pagrindžia grupės „Lietuvių seimas Petrapily“ paminėjimą arba vaidmenį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    1917 m. lietuvių seimas Petrapily
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-- santrauka: Papildomas tiesioginis paminėjimas iš to paties šaltinio.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Rusijoje 1917 metų kovo mėnesį iš visokių srovių buvo sudaryta Lietuvių Tautos Taryba, kuri, norėdama sustiprinti savo autoritetą, sušaukė visų Rusijoje išblaškytų lietuvių seimą (Petrapily 1917 m. gegužės 27 d., sen. kal.).
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+    popiežiaus Benedikto XV tokią pat dieną rinkliavai visose
+    pasaulio bažnyčiose.
+    Nors Komitetas tą didįjį pašalpos darbą dirbo su tam tikra
+    politine idėja, tačiau viešasis politinis darbas Rusijoje teprasidėjo tik po 1917 metų revoliucijos.
+    1917 m. lietuvių seimas Petrapily. Rusijoje 1917 metų kovo
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
+
+## Pastabos

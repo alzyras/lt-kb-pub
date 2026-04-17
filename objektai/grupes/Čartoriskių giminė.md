@@ -1,49 +1,107 @@
 ---
 tipas: grupe
 pavadinimas: "Čartoriskių giminė"
-sukurta: "2026-04-16"
-variantai:
+sukurta: "2026-04-17"
+variantai: 
   - "Čartoriskiai"
   - "Čartoriskių partija"
   - "familija"
-aliases:
+aliases: 
   - "Čartoriskiai"
   - "Čartoriskių partija"
   - "familija"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
-datos: []
-vaidmenys: []
+datos: 
+  - "1780 m."
+periodas: ""
+subperiodiai: []
+date_start: "1780"
+date_end: "1780"
+vaidmenys: 
+  - "giminė / politinė partija"
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "vidutinis"
 ---
 # Čartoriskių giminė
 
 ## Santrauka
-Čartoriskių giminė yra didikų giminė ir politinė partija. Šaltinyje ši grupė apibūdinama kaip didikų giminė, kuri XVIII a. viduryje tapo pagrindine politine jėga.
+
+Didikų giminė, kuri XVIII a. viduryje tapo pagrindine politine jėga.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Čartoriskių giminė`
-- Variacijos arba alternatyvios formos: `Čartoriskiai`, `Čartoriskių partija`, `familija`
+
+- „Čartoriskių giminė“
+- „Čartoriskiai“
+- „Čartoriskių partija“
+- „familija“
+
+## Laikotarpis ir datos
+- laikotarpis: 
+- datos: 1780 m.
+- periodas:
+- subperiodiai:
+- date_start: 1780
+- date_end: 1780
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip giminė / politinė partija.
+
+Šaltinyje aiškiai nurodomas grupės tipas: giminė / politinė partija.
 
 ## Sudėtis ir vaidmuo
 - tipas: giminė / politinė partija
-- vaidmuo: didikų giminė, kuri XVIII a. viduryje tapo pagrindine politine jėga
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Čartoriskių giminė“ apibūdinama taip: Didikų giminė, kuri XVIII a. viduryje tapo pagrindine politine jėga."
+  pagrindžia:
+    - q-001
+    - q-002
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Didikų giminė, kuri XVIII a. viduryje tapo pagrindine politine jėga.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
     Čartoriskių partija tada dar buvo vadinama „familija": mat, visi jos galvos buvo giminės.
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
-- santrauka: Papildomas tiesioginis paminėjimas iš to paties šaltinio.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Šaltinio ištrauka pagrindžia grupės „Čartoriskių giminė“ paminėjimą arba vaidmenį.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
-    Čartoriskiai, imdamiesi reformų, tegalvojo tik apie valdžios reformas
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+    (1780 m.), o jį patį apšaukė bajorijos išdaviku. Pasitaikydavo tik,
+    kad vienas kitas ponas atleisdavo nuo baudžiavos savo valstiečius.
+    Šiaipjau valstiečių būklės pagerinimui nebuvo nieko padaryta net
+    paskutiniaisiais Respublikos gyvenimo metais įvykusiame reforminiame seime, kada daug gero buvo padaryta miestams ir kada buvo
+    perorganizuotas visas valstybės aparatas. Tad suprantama, kodėl ir
+    Čartoriskiai, imdamiesi reformų, tegalvojo tik apie valdžios reformas: socialinio gyvenimo jie visiškai nelietė.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
+- q-002 pagrindžia t-001.
+
+## Pastabos

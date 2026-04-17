@@ -1,49 +1,83 @@
 ---
 tipas: grupe
 pavadinimas: "Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimas"
-sukurta: "2026-04-16"
+sukurta: "2026-04-17"
 variantai: 
   - "giedrininkai"
 aliases: 
   - "giedrininkai"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
-datos: []
-vaidmenys: []
+datos: 
+  - "1912 m."
+periodas: ""
+subperiodiai: []
+date_start: "1912"
+date_end: "1912"
+vaidmenys: 
+  - "susivienijimas"
 dalyviai: []
 susije_irasai: []
-patikimumas: "Paremta šaltinio citatomis ir tiesioginiais paminėjimais."
+patikimumas: "vidutinis"
 ---
 # Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimas
 
 ## Santrauka
-Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimas yra susivienijimas. Šaltinyje ši grupė apibūdinama taip: Katalikiškas moksleivių susivienijimas, įkurtas Federacijos rūpesčiu.
+
+Katalikiškas moksleivių susivienijimas, įkurtas Federacijos rūpesčiu.
 
 ## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: `Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimas`
-- Variacijos arba alternatyvios formos: `giedrininkai`
+
+- „Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimas“
+- „giedrininkai“
 
 ## Laikotarpis ir datos
 - laikotarpis: 
+- datos: 1912 m.
+- periodas:
+- subperiodiai:
+- date_start: 1912
+- date_end: 1912
 
 ## Kas tai
-Šaltinyje ši grupė įvardijama kaip susivienijimas.
+
+Šaltinyje aiškiai nurodomas grupės tipas: susivienijimas.
 
 ## Sudėtis ir vaidmuo
 - tipas: susivienijimas
-- vaidmuo: Katalikiškas moksleivių susivienijimas, įkurtas Federacijos rūpesčiu.
+- laikotarpis: 
+- nariai:
+- susiję žmonės:
+- susiję įvykiai:
+- susijusios vietos:
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje grupė „Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimas“ apibūdinama taip: Katalikiškas moksleivių susivienijimas, įkurtas Federacijos rūpesčiu."
+  pagrindžia:
+    - q-001
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- santrauka: Pavadinimas ir kontekstas nurodyti tiesiogiai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)|A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- id: q-001
+  santrauka: Katalikiškas moksleivių susivienijimas, įkurtas Federacijos rūpesčiu.
+  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata: |
     1912 m. F-ja sušaukė Čikagoje pirmąjį lietuvių moksleivių suvažiavimą ir įkūrė Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimą (to Susivienijimo nariai, nuo savo organo „Giedros", buvo vadinami giedrininkais).
-  pagrindžia: Tiesiogiai parodo, kaip grupė minima šaltinyje.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-- Šaltinyje šiam įrašui aiškių papildomų vidinių ryšių be šaltinio citavimo neišskirta.
+
+## Šaltiniai ir įrodymai
+
+- q-001 pagrindžia t-001.
 
 ## Pastabos
-- Įrašas sukurtas iš šio šaltinio grupių kandidatų; papildomi ryšiai nepridėti, jei pats šaltinio kontekstas jų aiškiai nereikalavo.
