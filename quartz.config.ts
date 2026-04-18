@@ -12,7 +12,10 @@ const config: QuartzConfig = {
     pageTitleSuffix: " – LT KB",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: {
+      provider: "google",
+      tagId: "G-ND4JX0KK51",
+    },
     locale: "lt-LT",
     baseUrl: "alzyras.github.io/lt-kb-pub",
     ignorePatterns: [
