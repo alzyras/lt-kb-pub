@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "google",
-      tagId: "G-ND4JX0KK51",
+      tagId: "G-P32S0DY7SH",
     },
     locale: "lt-LT",
     baseUrl: "alzyras.github.io/lt-kb-pub",
