@@ -1,82 +1,80 @@
 ---
 tipas: grupe
 pavadinimas: "Amerikos lietuvių seimas"
-sukurta: "2026-04-17"
+sukurta: "2026-04-18"
 variantai: 
-  - "Amerikos lietuvių seimas"
+  - "Amerikos lietuvių seimą"
 aliases: 
   - "Amerikos lietuvių seimas"
+  - "Amerikos lietuvių seimą"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
+laikotarpis: "1918 m. kovo 13—14 d."
 datos: 
-  - "1918 m."
-periodas: ""
-subperiodiai: []
+  - "1918 m. kovo 13—14 d."
+periodas: "naujieji_laikai"
+periodo_grupes: []
+amziai: 
+  - "XX"
 date_start: "1918"
 date_end: "1918"
-vaidmenys: 
-  - "seimas"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Amerikos lietuvių seimas
 
 ## Santrauka
-
-1918 m. Naujorke susirinkęs seimas, rėmęs nepriklausomą Lietuvą.
+Šaltinyje „Amerikos lietuvių seimas“ apibūdinama kaip seimas; naujorke sušauktas amerikiečių lietuvių susirinkimas, pareikalavęs pripažinti nepriklausomą Lietuvos valstybę. (t-001)
 
 ## Pavadinimai šaltiniuose
-
-- „Amerikos lietuvių seimas“
+- Kanoninis pavadinimas: Amerikos lietuvių seimas
+- Šaltinyje fiksuotos formos: Amerikos lietuvių seimą
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 1918 m.
-- periodas:
-- subperiodiai:
+- laikotarpis: 1918 m. kovo 13—14 d.
+- datos: 1918 m. kovo 13—14 d.
+- periodas: naujieji_laikai
+- periodo_grupes: 
+- amziai: XX
 - date_start: 1918
 - date_end: 1918
 
 ## Kas tai
-
-Šaltinyje aiškiai nurodomas grupės tipas: seimas.
+- tipas: seimas
+Šaltinyje „Amerikos lietuvių seimas“ apibūdinama kaip seimas; naujorke sušauktas amerikiečių lietuvių susirinkimas, pareikalavęs pripažinti nepriklausomą Lietuvos valstybę. (t-001)
 
 ## Sudėtis ir vaidmuo
-- tipas: seimas
-- laikotarpis: 
-- nariai:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios vietos:
+- Šaltinyje „Amerikos lietuvių seimas“ apibūdinama kaip seimas; naujorke sušauktas amerikiečių lietuvių susirinkimas, pareikalavęs pripažinti nepriklausomą Lietuvos valstybę. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje grupė „Amerikos lietuvių seimas“ apibūdinama taip: 1918 m. Naujorke susirinkęs seimas, rėmęs nepriklausomą Lietuvą."
+  teiginys: "Šaltinyje „Amerikos lietuvių seimas“ apibūdinama kaip seimas; naujorke sušauktas amerikiečių lietuvių susirinkimas, pareikalavęs pripažinti nepriklausomą Lietuvos valstybę."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: 1918 m. Naujorke susirinkęs seimas, rėmęs nepriklausomą Lietuvą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Naujorke buvo sušauktas Amerikos lietuvių seimas, kuriame susirinko apie 1.200 delegatų; jie pareikalavo iš Amerikos (tada jau kare dalyvavusios) vyriausybės pripažinti nepriklausomą Lietuvos valstybę.
+  santrauka: Naujorke sušauktas amerikiečių lietuvių susirinkimas, pareikalavęs pripažinti nepriklausomą Lietuvos valstybę.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Tais pat metais kovo mėn.
+    13—14 d. Naujorke buvo sušauktas Amerikos lietuvių seimas,
+    kuriame susirinko apie 1.200 delegatų; jie pareikalavo iš Ameri-
+    kos (tada jau kare dalyvavusios) vyriausybės pripažinti nepriklau-
+    somą Lietuvos valstybę.
+  citata_rodoma: |
+    Tais pat metais kovo mėn. 13—14 d. Naujorke buvo sušauktas Amerikos lietuvių seimas, kuriame susirinko apie 1.200 delegatų; jie pareikalavo iš Amerikos (tada jau kare dalyvavusios) vyriausybės pripažinti nepriklausomą Lietuvos valstybę.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

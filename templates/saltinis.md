@@ -24,8 +24,9 @@ patikimumas: ""
 
 ## Reikšmingi paminėjimai
 - santrauka:
-  citata: |
-    
+  citata_originali: |
+
+  citata_rodoma: ""
   pagrindžia:
 
 ## Bibliografiniai įrodymai

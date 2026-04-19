@@ -1,81 +1,93 @@
 ---
 tipas: vieta
 pavadinimas: "Mažoji Lietuva"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
+  - "Mažosios Lietuvos"
+  - "M. Lietuvos"
+  - "Mažąją Lietuvą"
+aliases: 
   - "Mažoji Lietuva"
   - "Mažosios Lietuvos"
-  - "Mažojoj Lietuvoj"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+  - "M. Lietuvos"
+  - "Mažąją Lietuvą"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "kraštas / sritis"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Mažoji Lietuva
 
 ## Santrauka
-Tekste minima kaip pietinė ir vėliau vokiečių valdytą kraštą žyminti erdvė.
+Šaltinyje vieta „Mažoji Lietuva“ siejama su šiais kontekstais: Mažoji Lietuva įvardijama kaip atskiras istorinis regionas; Minima kaip nuo maro nukentėjęs Lietuvos kraštas. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
-- Mažoji Lietuva
-- Mažosios Lietuvos
-- Mažojoj Lietuvoj
+- Pagrindinė forma: Mažoji Lietuva
+- Šaltinyje fiksuotos formos: Mažosios Lietuvos; M. Lietuvos; Mažąją Lietuvą
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-kraštas / sritis.
+- tipas: regionas; kraštas / regionas
 
 ## Geografinis ir istorinis kontekstas
-- tipas: kraštas / sritis
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Mažoji Lietuva įvardijama kaip atskiras istorinis regionas. (t-001)
+- Minima kaip nuo maro nukentėjęs Lietuvos kraštas. (t-002)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Mažoji Lietuva“ minimas kaip kraštas / sritis: Tekste minima kaip pietinė ir vėliau vokiečių valdytą kraštą žyminti erdvė."
+  teiginys: "Šaltinyje vieta „Mažoji Lietuva“ siejama su šiuo kontekstu: Mažoji Lietuva įvardijama kaip atskiras istorinis regionas."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Šaltinyje vieta „Mažoji Lietuva“ siejama su šiuo kontekstu: Minima kaip nuo maro nukentėjęs Lietuvos kraštas."
+  pagrindžia:
+    - q-002
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Tekste minima kaip pietinė ir vėliau vokiečių valdytą kraštą žyminti erdvė.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    jotvingų gyvenamos pietinės sritys ir jų šiaurinė dalis. Dabartinėj mūsų Suvalkų krašto lygumoj, Mažojoj Lietuvoj ir didelėj
-    Prūsų daly buvo pilna nepereinamų pelkių ir girių. Gyventojų
+  santrauka: Mažoji Lietuva įvardijama kaip atskiras istorinis regionas.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    **II. Mažoji Lietuva Vokiečių valdžioje**
+  citata_rodoma: |
+    II. Mažoji Lietuva Vokiečių valdžioje
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
+- id: q-002
+  santrauka: Minima kaip nuo maro nukentėjęs Lietuvos kraštas.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Maras buvo pasiekęs ir Mažąją Lietuvą;
+    pav., Klaipėdoje 1710 m. mirė 1.883 žmonės, o visoje Maž. Lietu-
+    voje — apie 150.000.
+  citata_rodoma: |
+    Maras buvo pasiekęs ir Mažąją Lietuvą; pav., Klaipėdoje 1710 m. mirė 1.883 žmonės, o visoje Maž. Lietuvoje — apie 150.000.
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

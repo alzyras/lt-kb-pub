@@ -1,20 +1,25 @@
 ---
 tipas: asmuo
 pavadinimas: "Mikalojus Kristupas Radvila Našlaitėlis"
-sukurta: "2026-04-17"
-variantai:
-  - "Mikalojus Kristupas"
+sukurta: "2026-04-18"
+variantai: 
+  - "Mikalojus Kristupas Radvila"
+  - "Mikalojus Kristupo Radvilos"
   - "Našlaitėlis"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+aliases: 
+  - "Mikalojus Kristupas Radvila Našlaitėlis"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
+laikotarpis: "1582 m."
+datos: 
+  - "1582 m."
 periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
+periodo_grupes: []
+amziai: 
+  - "XVI"
+date_start: "1582"
+date_end: "1582"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -23,78 +28,46 @@ patikimumas: "aukstas"
 # Mikalojus Kristupas Radvila Našlaitėlis
 
 ## Santrauka
-
-Mikalojus Kristupas, vadinamas Našlaitėliu, šiame šaltinyje minimas kaip vyriausiasis iš Mikalojaus Juodojo sūnų, užėmęs aukštus urėdus.
+Šaltinyje Mikalojus Kristupas Radvila Našlaitėlis apibūdinamas taip: po Stepono Batoro karų ir įsitvirtinimo Livonijoje Mikalojus Kristupas Radvila buvusiam kalvinų centre įkūrė jėzuitų kolegiją.
 
 ## Variantai
-
-- Mikalojus Kristupas
+- Mikalojus Kristupas Radvila
+- Mikalojus Kristupo Radvilos
 - Našlaitėlis
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
+- laikotarpis: 1582 m.
+- datos: 1582 m.
 - periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
-
-## Vaidmenys
-
-## Savybės
-
-## Šaltinių vaizdas
-- sutampantys vertinimai:
-- skirtingi vertinimai:
-
-## Dalyvavimas įvykiuose
+- periodo_grupes:
+- amziai: XVI
+- date_start: 1582
+- date_end: 1582
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Mikalojus Kristupas, vadinamas Našlaitėliu, šiame šaltinyje minimas kaip vyriausiasis iš Mikalojaus Juodojo sūnų, užėmęs aukštus urėdus."
+  teiginys: "Šaltinyje Mikalojus Kristupas Radvila Našlaitėlis apibūdinamas taip: po Stepono Batoro karų ir įsitvirtinimo Livonijoje Mikalojus Kristupas Radvila buvusiam kalvinų centre įkūrė jėzuitų kolegiją."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Citata įvardija Mikalojų Kristupą Našlaitėlį Radvilų šeimos kontekste ir išvardija jo urėdus.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Zigmanto Augusto laikais visam Lietuvos gyvenimui vadovavo
-    pusbroliai Radvilos — Mikalojus Juodasis (nesvyžietis)
-    ir Mikalojus Rudasis (biržietis). Liublino unijos suda-
-    rymo metu M. Juodasis jau buvo miręs († 1565 m.); greta M. Ru-
-    dojo († 1584 m.) tuomet stovėjo Žemaičių seniūnas ir Livonijos
-
-    gubernatorius Jonas Jeronimas Katkevičius († 1579
-    m.), — tas pats, kuris Liublino seime daugiausia kalbėjo Lietuvos
-    vardu.
-    Šita senoji karta išmirė Stp. Batoro laikais. Jų vietoje stojo
-    jų sūnūs. Mikalojus Juodasis paliko 4 sūnus, kurie visi perėjo į
-    katalikybę. Vienas iš jų — Jurgis († 1600 m.) — buvo Vilniaus
-    vyskupu (po Protasevičiaus) ir Livonijos gubernatorium, o vėliau
-    Krokuvos vyskupu ir kardinolu; be to, jis buvo net kandidatas į
-    popiežius. Iš kitų brolių žymesnis buvo vyriausiasis — Mika-
-    lojus Kristupas, vadinamas Našlaitėliu († 1616 m.).
-    Jis turėjo vieną po kito šiuos urėdus: kiemo maršalkystę, krašto
-    maršalkystę, Trakų kaštelioniją, Trakų vaivadiją ir Vilniaus vai-
-    vadiją.
-  priskyrimo_pagrindas: needs_review
+  santrauka: po Stepono Batoro karų ir įsitvirtinimo Livonijoje Mikalojus Kristupas Radvila buvusiam kalvinų centre įkūrė jėzuitų kolegiją.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Tuo metu Mikalojus Kristupas Radvila, vad. Našlaitėlis, įkūrė jė-
+    zuitų kolegiją buvusiam kalvinų centre — Nesvyžiuje (1582 m.).
+  citata_rodoma: |
+    Tuo metu Mikalojus Kristupas Radvila, vad. Našlaitėlis, įkūrė jėzuitų kolegiją buvusiam kalvinų centre — Nesvyžiuje (1582 m.).
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  priskyrimo_pagrindas: explicit_variant
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

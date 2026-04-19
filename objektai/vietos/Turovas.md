@@ -1,80 +1,75 @@
 ---
 tipas: vieta
 pavadinimas: "Turovas"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
+  - "Turovo"
+aliases: 
   - "Turovas"
-  - "Turovą"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+  - "Turovo"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "kunigaikštystė / miestas"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Turovas
 
 ## Santrauka
-Turovas minimas tarp Gedimino dinastijos valdomų rytinių sričių.
+Šaltinyje vieta „Turovas“ siejama su šiuo kontekstu: Minimas kartu su Pinsko kunigaikštyste kaip Vytenio prijungta sritis. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Turovas
-- Turovą
+- Pagrindinė forma: Turovas
+- Šaltinyje fiksuotos formos: Turovo
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-kunigaikštystė / miestas.
+- tipas: kunigaikštystė / miestas
 
 ## Geografinis ir istorinis kontekstas
-- tipas: kunigaikštystė / miestas
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Minimas kartu su Pinsko kunigaikštyste kaip Vytenio prijungta sritis. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Turovas“ minimas kaip kunigaikštystė / miestas: Turovas minimas tarp Gedimino dinastijos valdomų rytinių sričių."
+  teiginys: "Šaltinyje vieta „Turovas“ siejama su šiuo kontekstu: Minimas kartu su Pinsko kunigaikštyste kaip Vytenio prijungta sritis."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Turovas minimas tarp Gedimino dinastijos valdomų rytinių sričių.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    Jau anksčiau visi jie buvo gavę po sritį. Vyriausias sūnus, Manv y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą
-    ir Pinską, Karijotas — Naugarduką ir Volkoviską, Algirdas — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų
-    pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą. Jo žinioje
+  santrauka: Minimas kartu su Pinsko kunigaikštyste kaip Vytenio prijungta sritis.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Bet užtat jis prijungė prie Lietuvos Mindaugo dar
+    nepasiektą Pagirį -Turovo ir Pinsko kunigaikštystes. Senasis
+    jotvingų kraštas (t. y. vadinamoji Juodoji Rusija su Naugar-
+    duku, Slanimu ir Volkovisku), kurį buvo užėmusi ir kolonizavusi
+    Voluinė, jau tapo nebeginčijamu Lietuvos kraštu. Vytenis taip
+    pat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, ku-
+    rias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai),
+    prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną
+    ir Brastą.
+  citata_rodoma: |
+    Bet užtat jis prijungė prie Lietuvos Mindaugo dar nepasiektą Pagirį -Turovo ir Pinsko kunigaikštystes. Senasis jotvingų kraštas (t. y. vadinamoji Juodoji Rusija su Naugarduku, Slanimu ir Volkovisku), kurį buvo užėmusi ir kolonizavusi Voluinė, jau tapo nebeginčijamu Lietuvos kraštu. Vytenis taip pat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, kurias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai), prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną ir Brastą.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -1,18 +1,19 @@
 ---
 tipas: asmuo
 pavadinimas: "Julijona"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
   - "Julijoną"
-  - "Julijonos"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+aliases: 
+  - "Julijona"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
 vaidmenys: []
@@ -23,66 +24,36 @@ patikimumas: "aukstas"
 # Julijona
 
 ## Santrauka
-
-Julijona šiame šaltinyje minima kaip Tverės kunigaikščio sesuo, kurią Algirdas vedė ieškodamas sąjungininko prieš Maskvą.
+Šaltinyje Julijona apibūdinamas taip: Tverės kunigaikščio sesuo, kurią Algirdas vedė kaip sąjungininkę prieš Maskvą.
 
 ## Variantai
-
 - Julijoną
-- Julijonos
-
-## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
-
-## Vaidmenys
-
-## Savybės
-
-## Šaltinių vaizdas
-- sutampantys vertinimai:
-- skirtingi vertinimai:
-
-## Dalyvavimas įvykiuose
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Julijona šiame šaltinyje minima kaip Tverės kunigaikščio sesuo, kurią Algirdas vedė ieškodamas sąjungininko prieš Maskvą."
+  teiginys: "Šaltinyje Julijona apibūdinamas taip: Tverės kunigaikščio sesuo, kurią Algirdas vedė kaip sąjungininkę prieš Maskvą."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Citata įvardija Algirdą, Julijoną ir vedybų politinį kontekstą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Rusijoje Al-
-    girdas tęsė savo tėvo politiką. Rinkdamas į savo valdžią
-    centrinės Rusijos kunigaikštystes, jis irgi susidūrė su sustiprė-
-    jusią Maskva. Norėdamas turėti sąjungininką prieš Maskvą,
+  santrauka: Tverės kunigaikščio sesuo, kurią Algirdas vedė kaip sąjungininkę prieš Maskvą.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Norėdamas turėti sąjungininką prieš Maskvą,
     jis vedė Tverės kunigaikščio seserį Julijoną. Kadangi tuo
     metu Tverė varžėsi su Maskva dėl įtakos, tai Algirdui teko net
     kelis kartus padėti savo svainiui prieš Maskvą.
-  priskyrimo_pagrindas: needs_review
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  priskyrimo_pagrindas: explicit_variant
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

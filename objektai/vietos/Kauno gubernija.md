@@ -1,79 +1,72 @@
 ---
 tipas: vieta
 pavadinimas: "Kauno gubernija"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
+  - "Kauno gubernijas"
+aliases: 
   - "Kauno gubernija"
-  - "Kauno gubernijos"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+  - "Kauno gubernijas"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
+laikotarpis: "po trečiojo padalinimo"
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "gubernija"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Kauno gubernija
 
 ## Santrauka
-Kauno gubernija minima kaip administracinė ir archyvinė erdvė.
+Šaltinyje vieta „Kauno gubernija“ siejama su šiuo kontekstu: Minima kaip viena iš trijų gubernijų, į kurias po sujungimo vėl buvo padalintos Rusijai tekusios žemės. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Kauno gubernija
-- Kauno gubernijos
+- Pagrindinė forma: Kauno gubernija
+- Šaltinyje fiksuotos formos: Kauno gubernijas
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- laikotarpis: po trečiojo padalinimo
 
 ## Kas tai
-gubernija.
+- tipas: gubernija / administracinis vienetas
 
 ## Geografinis ir istorinis kontekstas
-- tipas: gubernija
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Minima kaip viena iš trijų gubernijų, į kurias po sujungimo vėl buvo padalintos Rusijai tekusios žemės. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Kauno gubernija“ minimas kaip gubernija: Kauno gubernija minima kaip administracinė ir archyvinė erdvė."
+  teiginys: "Šaltinyje vieta „Kauno gubernija“ siejama su šiuo kontekstu: Minima kaip viena iš trijų gubernijų, į kurias po sujungimo vėl buvo padalintos Rusijai tekusios žemės."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Kauno gubernija minima kaip administracinė ir archyvinė erdvė.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    rusų valdžios įstaigų dokumentai. Buvusios Kauno gubernijos
-    įstaigų archyvai dabar saugomi Kaune, vadinamajame Centraliniame Valstybės Archyve. Iš kitų dabar Kaune
+  santrauka: Minima kaip viena iš trijų gubernijų, į kurias po sujungimo vėl buvo padalintos Rusijai tekusios žemės.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Visos po trečiojo padalinimo Rusijai teku-
+    sios žemės iš pradžių buvo padalintos į dvi gubernijas —
+    Vilniaus ir Slanimo. Po kiek laiko jos buvo sujungtos
+    į vieną Lietuvos guberniją, bet netrukus vėl buvo pa-
+    dalintos net į 3 — Vilniaus, Kauno ir Gardino — gu-
+    bernijas.
+  citata_rodoma: |
+    Visos po trečiojo padalinimo Rusijai tekusios žemės iš pradžių buvo padalintos į dvi gubernijas — Vilniaus ir Slanimo. Po kiek laiko jos buvo sujungtos į vieną Lietuvos guberniją, bet netrukus vėl buvo padalintos net į 3 — Vilniaus, Kauno ir Gardino — gubernijas.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

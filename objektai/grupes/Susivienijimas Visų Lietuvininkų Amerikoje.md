@@ -1,82 +1,79 @@
 ---
 tipas: grupe
 pavadinimas: "Susivienijimas Visų Lietuvininkų Amerikoje"
-sukurta: "2026-04-17"
+sukurta: "2026-04-18"
 variantai: 
-  - "Susivienijimas Visų Lietuvininkų Amerikoje"
+  - "Susivienijimą Visų Lietuvininkų Amerikoje"
 aliases: 
   - "Susivienijimas Visų Lietuvininkų Amerikoje"
+  - "Susivienijimą Visų Lietuvininkų Amerikoje"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
+laikotarpis: "1885 m."
 datos: 
   - "1885 m."
-periodas: ""
-subperiodiai: []
+periodas: "naujieji_laikai"
+periodo_grupes: []
+amziai: 
+  - "XIX"
 date_start: "1885"
 date_end: "1885"
-vaidmenys: 
-  - "susivienijimas"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Susivienijimas Visų Lietuvininkų Amerikoje
 
 ## Santrauka
-
-Pirmasis dr. Šliūpo rūpesčiu sukurtas Amerikos lietuvių susivienijimas.
+Šaltinyje „Susivienijimas Visų Lietuvininkų Amerikoje“ apibūdinama kaip susivienijimas; pirmasis bandymas sujungti Amerikos lietuvius į vieną organizaciją; tikslas aiškiai įvardytas citatoje. (t-001)
 
 ## Pavadinimai šaltiniuose
-
-- „Susivienijimas Visų Lietuvininkų Amerikoje“
+- Kanoninis pavadinimas: Susivienijimas Visų Lietuvininkų Amerikoje
+- Šaltinyje fiksuotos formos: Susivienijimą Visų Lietuvininkų Amerikoje
 
 ## Laikotarpis ir datos
-- laikotarpis: 
+- laikotarpis: 1885 m.
 - datos: 1885 m.
-- periodas:
-- subperiodiai:
+- periodas: naujieji_laikai
+- periodo_grupes: 
+- amziai: XIX
 - date_start: 1885
 - date_end: 1885
 
 ## Kas tai
-
-Šaltinyje aiškiai nurodomas grupės tipas: susivienijimas.
+- tipas: susivienijimas
+Šaltinyje „Susivienijimas Visų Lietuvininkų Amerikoje“ apibūdinama kaip susivienijimas; pirmasis bandymas sujungti Amerikos lietuvius į vieną organizaciją; tikslas aiškiai įvardytas citatoje. (t-001)
 
 ## Sudėtis ir vaidmuo
-- tipas: susivienijimas
-- laikotarpis: 
-- nariai:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios vietos:
+- Šaltinyje „Susivienijimas Visų Lietuvininkų Amerikoje“ apibūdinama kaip susivienijimas; pirmasis bandymas sujungti Amerikos lietuvius į vieną organizaciją; tikslas aiškiai įvardytas citatoje. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje grupė „Susivienijimas Visų Lietuvininkų Amerikoje“ apibūdinama taip: Pirmasis dr. Šliūpo rūpesčiu sukurtas Amerikos lietuvių susivienijimas."
+  teiginys: "Šaltinyje „Susivienijimas Visų Lietuvininkų Amerikoje“ apibūdinama kaip susivienijimas; pirmasis bandymas sujungti Amerikos lietuvius į vieną organizaciją; tikslas aiškiai įvardytas citatoje."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Pirmasis dr. Šliūpo rūpesčiu sukurtas Amerikos lietuvių susivienijimas.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    1885 m. jo rūpesčiu buvo įkurtas Susivienijimas Visų Lietuvininkų Amerikoje.
+  santrauka: Pirmasis bandymas sujungti Amerikos lietuvius į vieną organizaciją; tikslas aiškiai įvardytas citatoje.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    1885 m. jo rūpesčiu buvo įkurtas Susivie-
+    nijimas Visų Lietuvininkų Amerikoje. To Su-
+    sivienijimo tikslas buvo „pagelbėti kitiems pakelti savo tautystę".
+    Tačiau jis greitai žuvo.
+  citata_rodoma: |
+    1885 m. jo rūpesčiu buvo įkurtas Susivienijimas Visų Lietuvininkų Amerikoje. To Susivienijimo tikslas buvo „pagelbėti kitiems pakelti savo tautystę". Tačiau jis greitai žuvo.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

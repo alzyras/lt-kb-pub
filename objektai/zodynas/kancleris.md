@@ -1,111 +1,80 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: "kancleris"
-sukurta: "2026-04-17"
-variantai:
-  - "kancleriai"
-  - "kanclerio"
-aliases: []
+pavadinimas: "Kancleris"
+sukurta: "2026-04-18"
+variantai: 
+  - "kancleris"
+aliases: 
+  - "Kancleris"
+  - "kancleris"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - "istorinė-sąvoka"
-laikotarpis: "nuo 1566 m.; XVII a."
-datos:
-  - "nuo 1566 m."
-  - "XVII a."
-periodas: ""
-subperiodiai: []
-date_start: "1566"
-date_end: "1566"
-vaidmenys:
-  - "žodyno terminas"
-  - "kanceliarija, valstybės raštvedyba"
+  - "teisinis-terminas"
+laikotarpis: "nuo 1550 m."
+datos: 
+  - "nuo 1550 m."
+periodas: "ankstyvieji_naujieji_laikai"
+periodo_grupes: []
+amziai: 
+  - "XVI"
+date_start: "1550"
+date_end: "1550"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "aukstas"
 ---
-# kancleris
+# Kancleris
 
 ## Santrauka
-
-Terminas „kancleris“ šiame šaltinyje vartojamas reikšme: aukštas raštinės ir užsienio reikalų pareigūnas. Šaltinio kontekstas sieja jį su: nuo 1566 m.; XVII a..
+Šaltinyje „Kancleris“ vartojama taip: Aukščiausias raštvedybos arba valstybės administracijos pareigūnas. (t-001)
 
 ## Žodis ir formos
-
-- Pagrindinė forma: „kancleris“.
-- Šaltinyje rasta forma: „kancleriai“.
-- Šaltinyje rasta forma: „kancleris“.
-- Šaltinyje rasta forma: „kanclerio“.
+- Kanoninis pavadinimas: Kancleris
+- Formos šaltinyje: kancleris
 
 ## Laikotarpis ir datos
-- laikotarpis: nuo 1566 m.; XVII a.
-- datos:
-  - nuo 1566 m.
-  - XVII a.
-- periodas:
-- subperiodiai:
-- date_start: 1566
-- date_end: 1566
+- laikotarpis: nuo 1550 m.
+- datos: nuo 1550 m.
+- periodas: ankstyvieji_naujieji_laikai
+- periodo_grupes: 
+- amziai: XVI
+- date_start: 1550
+- date_end: 1550
 
 ## Reikšmė iš konteksto
-
-aukštas raštinės ir užsienio reikalų pareigūnas.
+- Aukščiausias raštvedybos arba valstybės administracijos pareigūnas. (t-001)
 
 ## Vartojimas
-
-Vartojimo sritis šaltinyje: kanceliarija, valstybės raštvedyba.
+Terminas šaltinyje vartojamas šiame kontekste: valstybės administracija, pareigybės. (t-001)
 
 ## Teiginiai
-
 - id: t-001
-  teiginys: "Pagal vietinį šaltinio kontekstą terminas „kancleris“ reiškia: aukštas raštinės ir užsienio reikalų pareigūnas."
+  teiginys: "Šaltinyje „Kancleris“ vartojama taip: Aukščiausias raštvedybos arba valstybės administracijos pareigūnas."
   pagrindžia:
     - q-001
-    - q-002
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
-- id: t-002
-  teiginys: "Šaltinio kontekstas terminą „kancleris“ sieja su laikotarpiu arba data: nuo 1566 m.; XVII a.."
-  pagrindžia:
-    - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - id: q-001
-  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „kancleris“.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Didžiojo kunigaikščio rūmų saugumui, tvarkai ir iškilmių cere-
-    monijoms prižiūrėti buvo maršalkos, įvairiausiems didžiojo
-    kunigaikščio kanceliarijos reikalams vesti buvo kancleriai
-    ir jų pavaduotojai vicekancleriai (nuo 1566 m.); pini-
-    giniams reikalams tvarkyti buvo iždininkai, o kariuomenei
+  santrauka: Terminas vartojamas kaip Mikalojui Radvilai Juodajam suteikta aukšta valstybės pareigybė.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Mikalojus Radvila Juodasis,
+    Lietuvos krašto maršalka (nuo 1542 m.),
+    kancleris (nuo 1550 m.) ir Vilniaus vai-
+    vada (nuo 1551 m.); 1561-1562 m.
+    Livonijos vietininkas († 1565 m.).
+  citata_rodoma: |
+    Mikalojus Radvila Juodasis, Lietuvos krašto maršalka (nuo 1542 m.), kancleris (nuo 1550 m.) ir Vilniaus vaivada (nuo 1551 m.); 1561-1562 m. Livonijos vietininkas († 1565 m.).
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia termino vartoseną arba aiškinimą šaltinyje."
   pagrindžia:
     - t-001
-    - t-002
-- id: q-002
-  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „kancleris“.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    buvo didysis, arba krašto, kancleris ir vicekancleris. Kancleris
-    turėjo savo žinioje didįjį, o vicekancleris mažąjį antspaudą.
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

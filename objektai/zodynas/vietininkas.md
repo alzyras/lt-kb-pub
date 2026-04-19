@@ -1,94 +1,85 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: "vietininkas"
-sukurta: "2026-04-17"
-variantai:
-  - "vietininkų"
-aliases: []
+pavadinimas: "Vietininkas"
+sukurta: "2026-04-18"
+variantai: 
+  - "vietininką"
+  - "vietininku"
+  - "vietininkas"
+aliases: 
+  - "Vietininkas"
+  - "vietininką"
+  - "vietininku"
+  - "vietininkas"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - "istorinė-sąvoka"
-laikotarpis: ""
-datos: []
-periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "žodyno terminas"
-  - "teritorinė ir rūmų administracija"
+  - "teisinis-terminas"
+laikotarpis: "1386—1389 m.; 1392 m."
+datos: 
+  - "1386—1389 m."
+  - "1392 m."
+periodas: "viduramziai"
+periodo_grupes: []
+amziai: 
+  - "XIV"
+date_start: "1386"
+date_end: "1392"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "aukstas"
 ---
-# vietininkas
+# Vietininkas
 
 ## Santrauka
-
-Terminas „vietininkas“ šiame šaltinyje vartojamas reikšme: vietoje valdovo ar didžiojo kunigaikščio valdantis pareigūnas.
+Šaltinyje „Vietininkas“ vartojama taip: Valdovo vietą užimantis pavaduotojas arba įgaliotinis. (t-001)
 
 ## Žodis ir formos
-
-- Pagrindinė forma: „vietininkas“.
-- Šaltinyje rasta forma: „vietininkų“.
-- Šaltinyje rasta forma: „vietininkas“.
+- Kanoninis pavadinimas: Vietininkas
+- Formos šaltinyje: vietininką; vietininku; vietininkas
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos:
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- laikotarpis: 1386—1389 m.; 1392 m.
+- datos: 1386—1389 m.; 1392 m.
+- periodas: viduramziai
+- periodo_grupes: 
+- amziai: XIV
+- date_start: 1386
+- date_end: 1392
 
 ## Reikšmė iš konteksto
-
-vietoje valdovo ar didžiojo kunigaikščio valdantis pareigūnas.
+- Valdovo vietą užimantis pavaduotojas arba įgaliotinis. (t-001)
 
 ## Vartojimas
-
-Vartojimo sritis šaltinyje: teritorinė ir rūmų administracija.
+Terminas šaltinyje vartojamas šiame kontekste: politinė istorija, valdžios pareigybės. (t-001)
 
 ## Teiginiai
-
 - id: t-001
-  teiginys: "Pagal vietinį šaltinio kontekstą terminas „vietininkas“ reiškia: vietoje valdovo ar didžiojo kunigaikščio valdantis pareigūnas."
+  teiginys: "Šaltinyje „Vietininkas“ vartojama taip: Valdovo vietą užimantis pavaduotojas arba įgaliotinis."
   pagrindžia:
     - q-001
-    - q-002
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - id: q-001
-  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „vietininkas“.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    giau neatsirado, todėl visos kitos sritys ir toliau buvo valdomos
-    vietininkų. Tik iš ordino atgautuose Žemaičiuose jau nuo 1411
+  santrauka: Vartojamas kalbant apie valdovo pavaduotoją, kuris turėjo tvarkyti Lietuvos reikalus Jogailos vardu ir vėliau tapo Vytauto valdžios apibūdinimu.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Buvo iškeltas sumanymas,
+    kad geriau būtų Lietuvą valdyti ne tiesiog iš Lenkijos, bet per
+    vietininką, kurio klausytų visi kunigaikščiai, kad tuo būdu
+    lenkams čia nebereikėtų kištis. Iš karto tokiuo vietininku
+    buvo numatytas Jogailos brolis Aleksandras Vygandas, bet jis
+    staiga mirė, todėl galutinai buvo apsistota ties Vytautu.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- id: q-002
-  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „vietininkas“.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    seniūno vardu. Bet iš tikro nei vaivados nei Žemaičių seniūnas
-    nuo didesniųjų sričių vietininkų niekuo nesiskyrė, ir vėliau visi
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia termino vartoseną arba aiškinimą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

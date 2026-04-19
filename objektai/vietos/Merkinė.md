@@ -1,84 +1,76 @@
 ---
 tipas: vieta
 pavadinimas: "Merkinė"
-sukurta: "2026-04-17"
-variantai:
-  - "Merkinė"
+sukurta: "2026-04-18"
+variantai: 
+  - "Merkinę"
   - "Merkinės"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+aliases: 
+  - "Merkinė"
+  - "Merkinę"
+  - "Merkinės"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
+laikotarpis: "1920 m. spalis"
+datos: 
+  - "1920 m. spalis"
 periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "miestas / pilis"
+periodo_grupes: []
+amziai: 
+  - "XX"
+date_start: "1920"
+date_end: "1920"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Merkinė
 
 ## Santrauka
-Merkinė minima kaip vakarinės lietuvių gynybos riba.
+Šaltinyje vieta „Merkinė“ siejama su šiuo kontekstu: sudeginama kartu su Gardinu ir Lyda ordino kariuomenės žygyje. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Merkinė
-- Merkinės
+- Pagrindinė forma: Merkinė
+- Šaltinyje fiksuotos formos: Merkinę; Merkinės
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- laikotarpis: 1920 m. spalis
+- datos: 1920 m. spalis
+- amziai: XX
+- date_start/date_end: 1920 / 1920
 
 ## Kas tai
-miestas / pilis.
+- tipas: miestas; vietovė
 
 ## Geografinis ir istorinis kontekstas
-- tipas: miestas / pilis
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- sudeginama kartu su Gardinu ir Lyda ordino kariuomenės žygyje. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Merkinė“ minimas kaip miestas / pilis: Merkinė minima kaip vakarinės lietuvių gynybos riba."
+  teiginys: "Šaltinyje vieta „Merkinė“ siejama su šiuo kontekstu: sudeginama kartu su Gardinu ir Lyda ordino kariuomenės žygyje."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Merkinė minima kaip vakarinės lietuvių gynybos riba.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    Toliau nuo jų, į pietus,
-    kairiajam Nemuno krante, t. y. pietinėje Mažosios Lietuvos da-
-    lyje, dabartiniam Suvalkų krašte, — maždaug nuo Merkinės jau
-    abiejuose Nemuno krantuose iki anapus Naugarduko, Slanimo
-    ir Brastos — gyveno sūduviai, arba jotvingai. Į pie-
-    tus nuo žemaičių ir į rytus nuo jotvingų gyveno aukštai-
-    čiai, kurie sudarė vėlesnės Lietuvos valstybės branduolį.
+  santrauka: sudeginama kartu su Gardinu ir Lyda ordino kariuomenės žygyje.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    tais metais ordino kariuomenė sudegino Gardiną, Merkinę ir Ly-
+    dą; trečiais metais vokiečiai buvo užpuolę patį Vilnių, tačiau pi-
+    lies neįstengė paimti.
+  citata_rodoma: |
+    tais metais ordino kariuomenė sudegino Gardiną, Merkinę ir Lydą; trečiais metais vokiečiai buvo užpuolę patį Vilnių, tačiau pilies neįstengė paimti.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

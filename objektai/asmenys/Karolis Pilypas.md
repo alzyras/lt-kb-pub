@@ -1,20 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: "Karolis Pilypas"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
   - "Karolio Pilypo"
-  - "Karoliu Pilypu"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "Karolis Neuburgietis"
+aliases: 
+  - "Karolis Pilypas"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
+laikotarpis: "1688 m."
+datos: 
+  - "1688 m."
 periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
+periodo_grupes: []
+amziai: 
+  - "XVII"
+date_start: "1688"
+date_end: "1688"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -23,60 +27,46 @@ patikimumas: "aukstas"
 # Karolis Pilypas
 
 ## Santrauka
-
-Karolis Pilypas šiame šaltinyje minimas kaip Neuburgo princas, ištekėjęs už Radvilaitės.
+Šaltinyje Karolis Pilypas apibūdinamas taip: Minimas kaip Neuburgo princas, už kurio ištekėjo Radvilaitė.
 
 ## Variantai
-
 - Karolio Pilypo
-- Karoliu Pilypu
+- Karolis Neuburgietis
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
+- laikotarpis: 1688 m.
+- datos: 1688 m.
 - periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
-
-## Vaidmenys
-
-## Savybės
-
-## Šaltinių vaizdas
-- sutampantys vertinimai:
-- skirtingi vertinimai:
-
-## Dalyvavimas įvykiuose
+- periodo_grupes:
+- amziai: XVII
+- date_start: 1688
+- date_end: 1688
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Karolis Pilypas šiame šaltinyje minimas kaip Neuburgo princas, ištekėjęs už Radvilaitės."
+  teiginys: "Šaltinyje Karolis Pilypas apibūdinamas taip: Minimas kaip Neuburgo princas, už kurio ištekėjo Radvilaitė."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Citata pagrindžia asmens ryšį arba giminystės kontekstą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    ji slapta ištekėjo už Neu-
+  santrauka: Minimas kaip Neuburgo princas, už kurio ištekėjo Radvilaitė.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Bet vos Jokūbas
+    parvyko namo ir ėmė ruoštis vestuvėms, ji slapta ištekėjo už Neu-
     burgo princo Karolio Pilypo iš Heidelbergo (1688 m.).
+  citata_rodoma: |
+    Bet vos Jokūbas parvyko namo ir ėmė ruoštis vestuvėms, ji slapta ištekėjo už Neuburgo princo Karolio Pilypo iš Heidelbergo (1688 m.).
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  priskyrimo_pagrindas: explicit_variant
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

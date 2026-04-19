@@ -1,21 +1,25 @@
 ---
 tipas: asmuo
 pavadinimas: "Povilas Sapiega"
-sukurta: "2026-04-17"
-variantai:
-  - "P. Sapiega"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+sukurta: "2026-04-18"
+variantai: 
+  - "Sapiega"
+  - "Sapiegai"
+aliases: 
+  - "Povilas Sapiega"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
+laikotarpis: "1646—1656 m.; 1656—1665 m.; 1656—1657 m.; 1658—1665 m."
+datos: 
+  - "1646—1656 m.; 1656—1665 m.; 1656—1657 m.; 1658—1665 m."
 periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "vaivada"
+periodo_grupes: []
+amziai: 
+  - "XVII"
+date_start: "1646"
+date_end: "1665"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukstas"
@@ -23,62 +27,49 @@ patikimumas: "aukstas"
 # Povilas Sapiega
 
 ## Santrauka
-
-Povilas Sapiega šiame šaltinyje minimas kaip Vitebsko vaivada ir Sapiegų giminės narys.
+Šaltinyje Povilas Sapiega apibūdinamas taip: Minimas kaip Vitebsko ir Vilniaus vaivada, karaliui ištikimos kariuomenės regimentorius ir didysis hetmonas.
 
 ## Variantai
-
-- P. Sapiega
+- Sapiega
+- Sapiegai
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
+- laikotarpis: 1646—1656 m.; 1656—1665 m.; 1656—1657 m.; 1658—1665 m.
+- datos: 1646—1656 m.; 1656—1665 m.; 1656—1657 m.; 1658—1665 m.
 - periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
-
-## Vaidmenys
-
-- vaivada
-
-## Savybės
-
-## Šaltinių vaizdas
-- sutampantys vertinimai:
-- skirtingi vertinimai:
-
-## Dalyvavimas įvykiuose
+- periodo_grupes:
+- amziai: XVII
+- date_start: 1646
+- date_end: 1665
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Povilas Sapiega šiame šaltinyje minimas kaip Vitebsko vaivada ir Sapiegų giminės narys."
+  teiginys: "Šaltinyje Povilas Sapiega apibūdinamas taip: Minimas kaip Vitebsko ir Vilniaus vaivada, karaliui ištikimos kariuomenės regimentorius ir didysis hetmonas."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Citata pagrindžia asmens pareigas arba vaidmenį.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vi-
-    tebsko vaivada Povilas Sapiega, kuris veikė atskirai ir nuo rusų
-    traukėsi Lenkijos link.
+  santrauka: Minimas kaip Vitebsko ir Vilniaus vaivada, karaliui ištikimos kariuomenės regimentorius ir didysis hetmonas.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Povilas Sapiega,
+    1646—1656 m. Vitebsko vaivada,
+    1656—1665 m. Vilniaus vaivada,
+    1656—1657 ш. karaliui ištikimos Lie-
+    tuvos kariuomenės regimentorius, o
+    1658—1665 m. didysis hetmonas.
+  citata_rodoma: |
+    Povilas Sapiega, 1646—1656 m. Vitebsko vaivada, 1656—1665 m. Vilniaus vaivada, 1656—1657 ш. karaliui ištikimos Lietuvos kariuomenės regimentorius, o 1658—1665 m. didysis hetmonas.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

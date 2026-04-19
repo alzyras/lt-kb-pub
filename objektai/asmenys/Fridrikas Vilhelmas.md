@@ -1,20 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: "Fridrikas Vilhelmas"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
   - "Fridriko Vilhelmo"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "didžiuoju elektorium"
+aliases: 
+  - "Fridrikas Vilhelmas"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: "1701 m."
-datos:
-  - "1701 m."
+laikotarpis: ""
+datos: []
 periodas: ""
-subperiodiai: []
-date_start: "1701"
-date_end: "1701"
+periodo_grupes: []
+amziai: []
+date_start: ""
+date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -23,58 +25,37 @@ patikimumas: "aukstas"
 # Fridrikas Vilhelmas
 
 ## Santrauka
-
-Šaltinyje nurodoma, kad elektorius Fridrikas Vilhelmas 1701 m. karūnavosi Prūsų.
+Šaltinyje Fridrikas Vilhelmas apibūdinamas taip: Minimas kaip Brandenburgo elektorius, nuo kurio kariuomenės apsigynė Prūsijoje.
 
 ## Variantai
-
 - Fridriko Vilhelmo
-
-## Laikotarpis ir datos
-- laikotarpis: 1701 m.
-- datos: 1701 m.
-- periodas:
-- subperiodiai:
-- date_start: 1701
-- date_end: 1701
-
-## Vaidmenys
-
-## Savybės
-
-## Šaltinių vaizdas
-- sutampantys vertinimai:
-- skirtingi vertinimai:
-
-## Dalyvavimas įvykiuose
+- didžiuoju elektorium
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje nurodoma, kad elektorius Fridrikas Vilhelmas 1701 m. karūnavosi Prūsų."
+  teiginys: "Šaltinyje Fridrikas Vilhelmas apibūdinamas taip: Minimas kaip Brandenburgo elektorius, nuo kurio kariuomenės apsigynė Prūsijoje."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Citata pagrindžia asmens pareigas arba vaidmenį.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    elektorius Fridrikas Vilhelmas 1701 m. karūnavosi Prūsų
+  santrauka: Minimas kaip Brandenburgo elektorius, nuo kurio kariuomenės apsigynė Prūsijoje.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Prūsijoje kariavo tiktai vieni
+    švedai ir už Prancūzijos pinigus pasamdyta kariuomenė, nuo
+    kurių Fridrikas Vilhelmas (vadinamas didžiuoju elektorium)
+    lengvai apsigynė.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

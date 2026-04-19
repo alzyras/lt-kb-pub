@@ -1,79 +1,73 @@
 ---
 tipas: posakis
 pavadinimas: "Mūsų brolis yra laisvas, kaip ir mes"
-sukurta: "2026-04-17"
+sukurta: "2026-04-18"
 variantai: []
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
-zymos: []
-laikotarpis: "Vytauto karūnavimosi byla"
-datos: []
+aliases: 
+  - "Mūsų brolis yra laisvas, kaip ir mes"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: 
+  - "formulė"
+laikotarpis: "1430 m. rudenį"
+datos: 
+  - "1430 m. rudenį"
 periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "valdovo atsakymas"
-dalyviai:
-  - "Jogaila"
-  - "Vytautas"
-  - "Lietuvos bajorai"
+periodo_grupes: []
+amziai: 
+  - "XV"
+date_start: "1430"
+date_end: "1430"
+vaidmenys: []
+dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "vidutinis"
 ---
 # Mūsų brolis yra laisvas, kaip ir mes
 
 ## Santrauka
-
-„Mūsų brolis yra laisvas, kaip ir mes“ šaltinyje pateikta kaip Jogailos atsakymo pradžia, kai jo klausta, ar jis laiko Vytautą ir Lietuvos bajorus laisvais.
+Šaltinyje užfiksuota formuluotė „Mūsų brolis yra laisvas, kaip ir mes“; kontekstas: Jogaila atsako Vytauto delegacijai dėl Lietuvos bajorų laisvės ir formuluoja valdovų bei didikų tarpusavio brolybės ir lygybės tezę. Reikšmė: Trumpa politinė replika apie laisvę, brolybę ir lygybę tarp valdovų bei jų didikų. (t-001)
 
 ## Forma
-
-- „Mūsų brolis yra laisvas, kaip ir mes“
-
-## Variantai
-
-- Nėra užfiksuotų variantų.
+- pagrindinė forma: Mūsų brolis yra laisvas, kaip ir mes (t-001)
 
 ## Laikotarpis ir datos
-
-- laikotarpis: Vytauto karūnavimosi byla
-- datos:
-- periodas:
-- subperiodiai:
-- date_start:
-- date_end:
+- laikotarpis: 1430 m. rudenį (t-001)
+- datos: 1430 m. rudenį (t-001)
+- amziai: XV (t-001)
+- date_start/date_end: 1430 / 1430 (t-001)
 
 ## Kontekstas ir vartojimas
-
-Šaltinyje frazė vartojama Jogailos pasiaiškinime dėl Vytauto ir Lietuvos bajorų laisvės.
+Jogaila atsako Vytauto delegacijai dėl Lietuvos bajorų laisvės ir formuluoja valdovų bei didikų tarpusavio brolybės ir lygybės tezę. (t-001)
 
 ## Reikšmė
-
-Vytautas, Lietuvos kunigaikščiai ir bajorai laikomi laisvais ir lygiais su Lenkijos ponais.
+Trumpa politinė replika apie laisvę, brolybę ir lygybę tarp valdovų bei jų didikų. (t-001)
 
 ## Teiginiai
-
 - id: t-001
-  teiginys: "Šaltinyje frazė „Mūsų brolis yra laisvas, kaip ir mes“ priskiriama Jogailai kaip atsakymas, kad Vytautas, Lietuvos kunigaikščiai ir bajorai laikomi laisvais ir lygiais su Lenkijos ponais."
+  teiginys: "Šaltinyje užfiksuota formuluotė „Mūsų brolis yra laisvas, kaip ir mes“; kontekstas: Jogaila atsako Vytauto delegacijai dėl Lietuvos bajorų laisvės ir formuluoja valdovų bei didikų tarpusavio brolybės ir lygybės tezę."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - id: q-001
-  santrauka: Jogailos atsakymas apie Vytauto ir Lietuvos bajorų laisvę.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    Jogaila atsakė labai nuolaidžiai: „Mūsų brolis yra laisvas, kaip ir mes, ir mes jo nelaikome kitokiu, kaip tik mūsų
+  santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Jogaila atsakė labai nuolaidžiai: „Mūsų brolis yra lais-
+    vas, kaip ir mes, ir mes jo nelaikome kitokiu, kaip tik mūsų
     broliu. Taip pat ir Lietuvos kunigaikščius bei bajorus laikome
     laisvais, kaip ir mūsų (t. y. Lenkijos) ponus, ir lygiais su jais" ...
+  citata_rodoma: |
+    Jogaila atsakė labai nuolaidžiai: „Mūsų brolis yra laisvas, kaip ir mes, ir mes jo nelaikome kitokiu, kaip tik mūsų broliu. Taip pat ir Lietuvos kunigaikščius bei bajorus laikome laisvais, kaip ir mūsų (t. y. Lenkijos) ponus, ir lygiais su jais"...
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia formuluotės buvimą ir jos vartojimo kontekstą šaltinyje."
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

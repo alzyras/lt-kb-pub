@@ -1,85 +1,69 @@
 ---
 tipas: vieta
 pavadinimas: "Dubysa"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
+  - "Dubysos"
+aliases: 
   - "Dubysa"
   - "Dubysos"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "upė"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Dubysa
 
 ## Santrauka
-Dubysa minima kaip ordino ir Lietuvos sienos bei pilių grandinės orientyras.
+Šaltinyje vieta „Dubysa“ siejama su šiuo kontekstu: Minima kaip Panemunės pilių saugomas upynas. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Dubysa
-- Dubysos
+- Pagrindinė forma: Dubysa
+- Šaltinyje fiksuotos formos: Dubysos
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-upė.
+- tipas: upė / upynas
 
 ## Geografinis ir istorinis kontekstas
-- tipas: upė
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Minima kaip Panemunės pilių saugomas upynas. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Dubysa“ minimas kaip upė: Dubysa minima kaip ordino ir Lietuvos sienos bei pilių grandinės orientyras."
+  teiginys: "Šaltinyje vieta „Dubysa“ siejama su šiuo kontekstu: Minima kaip Panemunės pilių saugomas upynas."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Dubysa minima kaip ordino ir Lietuvos sienos bei pilių grandinės orientyras.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    Lietuvos vaka-
-    ruose susidarė ištisa kryžiuočių pilių virtinė, — pradedant Klaipė-
-    da, einant Nemunu iki Dubysos, o kai kuriais laikotarpiais iki
-    Nevėžio ir net iki Neries intako. Čia buvo šios ordino pilys: Klai-
-    pėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajer-
-    burgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie
-    Kauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir
-    kitos (žiūr. 85 psl.).
+  santrauka: Minima kaip Panemunės pilių saugomas upynas.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Veliuona, Kolainiai, Bisėnai ir t.t. Tos Panemunės pilys turėjo
+    saugoti Dubysos upyną. Toliau į vakarus, Jūros paupyje, sto-
+    vėjo vadinamoji Gedimino pilis.
+  citata_rodoma: |
+    Veliuona, Kolainiai, Bisėnai ir t.t. Tos Panemunės pilys turėjo saugoti Dubysos upyną. Toliau į vakarus, Jūros paupyje, stovėjo vadinamoji Gedimino pilis.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

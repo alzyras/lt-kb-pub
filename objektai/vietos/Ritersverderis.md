@@ -1,82 +1,93 @@
 ---
 tipas: vieta
 pavadinimas: "Ritersverderis"
-sukurta: "2026-04-17"
-variantai:
-  - "Ritersverderis"
+sukurta: "2026-04-18"
+variantai: 
+  - "Ritersverderio"
   - "Ritersverderį"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+aliases: 
+  - "Ritersverderis"
+  - "Ritersverderio"
+  - "Ritersverderį"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "pilis"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Ritersverderis
 
 ## Santrauka
-Ritersverderis minimas kaip Vytauto sunaikinta ordino pilis.
+Šaltinyje vieta „Ritersverderis“ siejama su šiais kontekstais: Vytauto rezidencijos pilis prie Kauno; Minima tarp prie Kauno statytų ir griautų ordino pilių. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
-- Ritersverderis
-- Ritersverderį
+- Pagrindinė forma: Ritersverderis
+- Šaltinyje fiksuotos formos: Ritersverderio; Ritersverderį
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-pilis.
+- tipas: pilis
 
 ## Geografinis ir istorinis kontekstas
-- tipas: pilis
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Vytauto rezidencijos pilis prie Kauno. (t-001)
+- Minima tarp prie Kauno statytų ir griautų ordino pilių. (t-002)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Ritersverderis“ minimas kaip pilis: Ritersverderis minimas kaip Vytauto sunaikinta ordino pilis."
+  teiginys: "Šaltinyje vieta „Ritersverderis“ siejama su šiuo kontekstu: Vytauto rezidencijos pilis prie Kauno."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Šaltinyje vieta „Ritersverderis“ siejama su šiuo kontekstu: Minima tarp prie Kauno statytų ir griautų ordino pilių."
+  pagrindžia:
+    - q-002
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Ritersverderis minimas kaip Vytauto sunaikinta ordino pilis.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    tikti taikintis. Kai viskas buvo sutarta su atvykusiais naujais Jo-
-    gailos pasiuntiniais, Vytautas staiga sudegino Ritersverderį; sku-
-    biai nuvykęs į Gardiną, sustiprino pilį ir sudegino dar porą ne-
-    toli Gardino pastatytų naujų ordino pilių. Šitaip jis baigė ant-
-    rąją savo sąjungą su ordinu. Įtūžęs ordinas nieko negalėjo dau-
+  santrauka: Vytauto rezidencijos pilis prie Kauno.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Tačiau jam buvo leista gyventi prie pat Kauno, vietoj
+    senojo Marijenverderio pastatytoje Ritersverderio pilyje.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
+- id: q-002
+  santrauka: Minima tarp prie Kauno statytų ir griautų ordino pilių.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Čia buvo šios ordino pilys: Klai-
+    pėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajer-
+    burgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie
+    Kauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir
+    kitos (žiūr. 85 psl.).
+  citata_rodoma: |
+    Čia buvo šios ordino pilys: Klaipėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajerburgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie Kauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir kitos (žiūr. 85 psl.).
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

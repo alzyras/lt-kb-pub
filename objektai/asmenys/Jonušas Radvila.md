@@ -1,21 +1,25 @@
 ---
 tipas: asmuo
 pavadinimas: "Jonušas Radvila"
-sukurta: "2026-04-17"
-variantai:
-  - "Jonušas"
-  - "Jonušo"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+sukurta: "2026-04-18"
+variantai: 
+  - "Jonušo Radvilos"
+  - "Radvila"
+  - "Radvilai"
+aliases: 
+  - "Jonušas Radvila"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: "1620 m."
-datos:
-  - "1620 m."
+laikotarpis: "1646—1654 m.; 1654—1655 m.; 1646—1653 m.; 1653—1655 m."
+datos: 
+  - "1646—1654 m.; 1654—1655 m.; 1646—1653 m.; 1653—1655 m."
 periodas: ""
-subperiodiai: []
-date_start: "1620"
-date_end: "1620"
+periodo_grupes: []
+amziai: 
+  - "XVII"
+date_start: "1646"
+date_end: "1655"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -24,59 +28,49 @@ patikimumas: "aukstas"
 # Jonušas Radvila
 
 ## Santrauka
-
-Jonušas Radvila šiame šaltinyje minimas kaip rokošininkas ir įtakingas Radvilų giminės veikėjas.
+Šaltinyje Jonušas Radvila apibūdinamas taip: Minimas kaip didysis ir lauko hetmonas, mėginęs su kitais Lietuvos ponais tartis su švedų kariuomene ir vėliau gynęs uniją su švedais.
 
 ## Variantai
-
-- Jonušas
-- Jonušo
+- Jonušo Radvilos
+- Radvila
+- Radvilai
 
 ## Laikotarpis ir datos
-- laikotarpis: 1620 m.
-- datos: 1620 m.
+- laikotarpis: 1646—1654 m.; 1654—1655 m.; 1646—1653 m.; 1653—1655 m.
+- datos: 1646—1654 m.; 1654—1655 m.; 1646—1653 m.; 1653—1655 m.
 - periodas:
-- subperiodiai:
-- date_start: 1620
-- date_end: 1620
-
-## Vaidmenys
-
-## Savybės
-
-## Šaltinių vaizdas
-- sutampantys vertinimai:
-- skirtingi vertinimai:
-
-## Dalyvavimas įvykiuose
+- periodo_grupes:
+- amziai: XVII
+- date_start: 1646
+- date_end: 1655
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Jonušas Radvila šiame šaltinyje minimas kaip rokošininkas ir įtakingas Radvilų giminės veikėjas."
+  teiginys: "Šaltinyje Jonušas Radvila apibūdinamas taip: Minimas kaip didysis ir lauko hetmonas, mėginęs su kitais Lietuvos ponais tartis su švedų kariuomene ir vėliau gynęs uniją su švedais."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Citata pagrindžia asmens pareigas arba vaidmenį.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Jonušas († 1620 m.), yra žinomas rokošininkas
+  santrauka: Minimas kaip didysis ir lauko hetmonas, mėginęs su kitais Lietuvos ponais tartis su švedų kariuomene ir vėliau gynęs uniją su švedais.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    **Jonušas Radvila,**
+    Kristupo II sūnus, — 1646—1654 m. lauko
+    hetmonas, 1654—1655 m. did. hetmonas,
+    1646—1653 m. Žemaičių seniūnas,
+    1653—1655 m. Vilniaus vaivada.
+  citata_rodoma: |
+    Jonušas Radvila, Kristupo II sūnus, — 1646—1654 m. lauko hetmonas, 1654—1655 m. did. hetmonas, 1646—1653 m. Žemaičių seniūnas, 1653—1655 m. Vilniaus vaivada.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

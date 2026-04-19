@@ -1,23 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: "Zofija"
-sukurta: "2026-04-17"
-variantai:
-  - "Zofijos"
-  - "Alšėnų kunigaikštytė Zofija"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - "kunigaikštytė"
-laikotarpis: ""
-datos: []
+sukurta: "2026-04-18"
+variantai: []
+aliases: 
+  - "Zofija"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: "1424 m. paminėjimas"
+datos: 
+  - "1424 m. paminėjimas"
 periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "Jogailos ketvirtoji žmona"
+periodo_grupes: []
+amziai: 
+  - "XV"
+date_start: "1424"
+date_end: "1424"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukstas"
@@ -25,65 +25,43 @@ patikimumas: "aukstas"
 # Zofija
 
 ## Santrauka
-
-Zofija šiame šaltinyje identifikuojama kaip Alšėnų kunigaikštytė, Jogailos ketvirtoji žmona.
-
-## Variantai
-
-- Zofijos
-- Alšėnų kunigaikštytė Zofija
+Šaltinyje Zofija apibūdinamas taip: Jogailos ketvirtoji žmona, Alšėnų kunigaikštytė.
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
+- laikotarpis: 1424 m. paminėjimas
+- datos: 1424 m. paminėjimas
 - periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
-
-## Vaidmenys
-
-- Jogailos ketvirtoji žmona
-
-## Savybės
-
-## Šaltinių vaizdas
-- sutampantys vertinimai:
-- skirtingi vertinimai:
-
-## Dalyvavimas įvykiuose
+- periodo_grupes:
+- amziai: XV
+- date_start: 1424
+- date_end: 1424
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Zofija šiame šaltinyje identifikuojama kaip Alšėnų kunigaikštytė, Jogailos ketvirtoji žmona."
+  teiginys: "Šaltinyje Zofija apibūdinamas taip: Jogailos ketvirtoji žmona, Alšėnų kunigaikštytė."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Citata pagrindžia Zofijos tapatybę ir ryšį su Jogaila.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
+  santrauka: Jogailos ketvirtoji žmona, Alšėnų kunigaikštytė.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
     Bet pagaliau (1424 m.) Jogaila su ketvirtąja sa-
     vo žmona susilaukė vieno, o vėliau ir kito sūnaus (jo 4-oji
     žmona buvo Vytauto išpiršta ir jo dvare išaugusi lietuvaitė,
     Alšėnų kunigaikštytė Zofija).
-  priskyrimo_pagrindas: needs_review
+  citata_rodoma: |
+    Bet pagaliau (1424 m.) Jogaila su ketvirtąja savo žmona susilaukė vieno, o vėliau ir kito sūnaus (jo 4-oji žmona buvo Vytauto išpiršta ir jo dvare išaugusi lietuvaitė, Alšėnų kunigaikštytė Zofija).
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

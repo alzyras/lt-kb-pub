@@ -1,99 +1,78 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: "baudžiava"
-sukurta: "2026-04-17"
-variantai:
-  - "baudžiavos"
-  - "baudžiauninkų"
-  - "baudžiavą"
-aliases: []
+pavadinimas: "Baudžiava"
+sukurta: "2026-04-18"
+variantai: 
+  - "baudžiava"
+aliases: 
+  - "Baudžiava"
+  - "baudžiava"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - "istorinė-sąvoka"
-laikotarpis: ""
-datos: []
-periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "žodyno terminas"
-  - "socialinė ir ekonominė istorija"
+  - "teisinis-terminas"
+laikotarpis: "Po 1447 m. privilegijos"
+datos: 
+  - "Po 1447 m. privilegijos"
+periodas: "viduramziai"
+periodo_grupes: []
+amziai: 
+  - "XV"
+date_start: "1447"
+date_end: "1447"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "aukstas"
 ---
-# baudžiava
+# Baudžiava
 
 ## Santrauka
-
-Terminas „baudžiava“ šiame šaltinyje vartojamas reikšme: valstiečių prievolinė priklausomybė nuo dvaro.
+Šaltinyje „Baudžiava“ vartojama taip: Baudžiavinis valstiečių pavaldumas. (t-001)
 
 ## Žodis ir formos
-
-- Pagrindinė forma: „baudžiava“.
-- Šaltinyje rasta forma: „baudžiava“.
-- Šaltinyje rasta forma: „baudžiavos“.
-- Šaltinyje rasta forma: „baudžiauninkų“.
-- Šaltinyje rasta forma: „baudžiavą“.
+- Kanoninis pavadinimas: Baudžiava
+- Formos šaltinyje: baudžiava
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos:
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- laikotarpis: Po 1447 m. privilegijos
+- datos: Po 1447 m. privilegijos
+- periodas: viduramziai
+- periodo_grupes: 
+- amziai: XV
+- date_start: 1447
+- date_end: 1447
 
 ## Reikšmė iš konteksto
-
-valstiečių prievolinė priklausomybė nuo dvaro.
+- Baudžiavinis valstiečių pavaldumas. (t-001)
 
 ## Vartojimas
-
-Vartojimo sritis šaltinyje: socialinė ir ekonominė istorija.
+Terminas šaltinyje vartojamas šiame kontekste: socialinė istorija, valstiečių prievolės. (t-001)
 
 ## Teiginiai
-
 - id: t-001
-  teiginys: "Pagal vietinį šaltinio kontekstą terminas „baudžiava“ reiškia: valstiečių prievolinė priklausomybė nuo dvaro."
+  teiginys: "Šaltinyje „Baudžiava“ vartojama taip: Baudžiavinis valstiečių pavaldumas."
   pagrindžia:
     - q-001
-    - q-002
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - id: q-001
-  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „baudžiava“.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    būklė, nes visur buvo įvesta sunki baudžiava. Tuo tarpu jau
+  santrauka: Terminas vartojamas valstiečių priklausomybės ir vis didėjančių prievolių santykiui įvardyti.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Po 1447 m. privilegijos palengva prasidėjo tikroji bau-
+    džiava (žiūr. 180 psl.): iš savo vietų nebegalį išsikelti valstie-
+    čiai buvo apkraunami vis didesniais mokesčiais ir darbais.
+  citata_rodoma: |
+    Po 1447 m. privilegijos palengva prasidėjo tikroji baudžiava (žiūr. 180 psl.): iš savo vietų nebegalį išsikelti valstiečiai buvo apkraunami vis didesniais mokesčiais ir darbais.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- id: q-002
-  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „baudžiava“.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Baudžiavos panaikinimo klausimas. Apie baudžiavos pa-
-    naikinimą bajorijos daugumas nenorėjo nė girdėti. Po I pada-
-    linimo buvo ketinta paruošti visų Respublikos įstatymų ko-
-    deksą; darbas buvo pavestas vienam mokslintam Lenkijos
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia termino vartoseną arba aiškinimą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

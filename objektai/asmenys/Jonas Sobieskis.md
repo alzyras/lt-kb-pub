@@ -1,19 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: "Jonas Sobieskis"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
   - "Jono Sobieskio"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+aliases: 
+  - "Jonas Sobieskis"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: "1696 m."
-datos:
-  - "1696 m."
+laikotarpis: "1674–1696 m."
+datos: 
+  - "1674–1696 m."
 periodas: ""
-subperiodiai: []
-date_start: "1696"
+periodo_grupes: []
+amziai: 
+  - "XVII"
+date_start: "1674"
 date_end: "1696"
 vaidmenys: []
 dalyviai: []
@@ -23,58 +26,62 @@ patikimumas: "aukstas"
 # Jonas Sobieskis
 
 ## Santrauka
-
-Šaltinyje nurodoma, kad Jonas Sobieskis mirė 1696 m., nieko nepasiekęs.
+Šaltinyje Jonas Sobieskis apibūdinamas taip: Paminėtas kaip elekcijos tema. Šaltinyje Jonas Sobieskis apibūdinamas taip: Minimas kaip valdovas, kurio laikais žinomas tik vienas pinigas.
 
 ## Variantai
-
 - Jono Sobieskio
 
 ## Laikotarpis ir datos
-- laikotarpis: 1696 m.
-- datos: 1696 m.
+- laikotarpis: 1674–1696 m.
+- datos: 1674–1696 m.
 - periodas:
-- subperiodiai:
-- date_start: 1696
+- periodo_grupes:
+- amziai: XVII
+- date_start: 1674
 - date_end: 1696
-
-## Vaidmenys
-
-## Savybės
-
-## Šaltinių vaizdas
-- sutampantys vertinimai:
-- skirtingi vertinimai:
-
-## Dalyvavimas įvykiuose
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje nurodoma, kad Jonas Sobieskis mirė 1696 m., nieko nepasiekęs."
+  teiginys: "Šaltinyje Jonas Sobieskis apibūdinamas taip: Paminėtas kaip elekcijos tema."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Šaltinyje Jonas Sobieskis apibūdinamas taip: Minimas kaip valdovas, kurio laikais žinomas tik vienas pinigas."
+  pagrindžia:
+    - q-002
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Citata pagrindžia asmens dalyvavimo ar istorinio įvykio kontekstą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Jonas Sobieskis mirė 1696 m., nieko nepasiekęs.
+  santrauka: Paminėtas kaip elekcijos tema.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Jono Sobieskio (1674—1696 m.) elekcija
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  priskyrimo_pagrindas: explicit_variant
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
+- id: q-002
+  santrauka: Minimas kaip valdovas, kurio laikais žinomas tik vienas pinigas.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    **Jono Sobieskio** yra žinomas tik vienintelis pinigas — _šeštokas_ (41 nr.).
+  citata_rodoma: |
+    Jono Sobieskio yra žinomas tik vienintelis pinigas — šeštokas (41 nr.).
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_variant
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

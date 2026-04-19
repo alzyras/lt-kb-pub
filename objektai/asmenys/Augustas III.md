@@ -1,22 +1,25 @@
 ---
 tipas: asmuo
 pavadinimas: "Augustas III"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
   - "Augusto III"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - "karalius"
-laikotarpis: ""
-datos: []
+  - "Fridrikas Augustas"
+aliases: 
+  - "Augustas III"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: "1733—1763 m."
+datos: 
+  - "1733—1763 m."
 periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "karalius"
+periodo_grupes: []
+amziai: 
+  - "XVIII"
+date_start: "1733"
+date_end: "1763"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukstas"
@@ -24,64 +27,64 @@ patikimumas: "aukstas"
 # Augustas III
 
 ## Santrauka
-
-Šaltinyje nurodoma, kad Augustas III buvo visiškai netikęs valdovas.
+Šaltinyje Augustas III apibūdinamas taip: Paminėtas kaip svetimųjų pastatytasis karalius. Šaltinyje Augustas III apibūdinamas taip: Minimas kaip Augusto II sūnus, gavęs sostą ir nurodytas kaip Lietuvos kunigaikštis, Lenkų karalius ir Saksų elektorius.
 
 ## Variantai
-
 - Augusto III
+- Fridrikas Augustas
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
+- laikotarpis: 1733—1763 m.
+- datos: 1733—1763 m.
 - periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
-
-## Vaidmenys
-
-- karalius
-
-## Savybės
-- gebėjimai:
-  - santrauka: Šaltinyje nurodoma, kad Augustas III buvo visiškai netikęs valdovas.
-    šaltiniai:
-      - [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltinių vaizdas
-- sutampantys vertinimai:
-- skirtingi vertinimai:
-
-## Dalyvavimas įvykiuose
+- periodo_grupes:
+- amziai: XVIII
+- date_start: 1733
+- date_end: 1763
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje nurodoma, kad Augustas III buvo visiškai netikęs valdovas."
+  teiginys: "Šaltinyje Augustas III apibūdinamas taip: Paminėtas kaip svetimųjų pastatytasis karalius."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Šaltinyje Augustas III apibūdinamas taip: Minimas kaip Augusto II sūnus, gavęs sostą ir nurodytas kaip Lietuvos kunigaikštis, Lenkų karalius ir Saksų elektorius."
+  pagrindžia:
+    - q-002
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Citata pagrindžia šaltinyje pateiktą asmens apibūdinimą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Augustas III buvo visiškai netikęs valdovas.
-  teiginio_tipas: vertinimas
-  patikimumo_lygis: vidutinis
+  santrauka: Paminėtas kaip svetimųjų pastatytasis karalius.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Augustas III — svetimųjų pastatytasis karalius
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
+- id: q-002
+  santrauka: Minimas kaip Augusto II sūnus, gavęs sostą ir nurodytas kaip Lietuvos kunigaikštis, Lenkų karalius ir Saksų elektorius.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Augustas III,
+    1733—1763 m. d. Lietuvos kunigaikštis,
+    Lenkų karalius ir Saksų elektorius.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

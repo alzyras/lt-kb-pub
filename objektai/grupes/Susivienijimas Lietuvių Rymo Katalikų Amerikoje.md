@@ -1,81 +1,71 @@
 ---
 tipas: grupe
 pavadinimas: "Susivienijimas Lietuvių Rymo Katalikų Amerikoje"
-sukurta: "2026-04-17"
+sukurta: "2026-04-18"
 variantai: 
-  - "Susivienijimas Lietuvių Rymo Katalikų Amerikoje"
+  - "Susivienijimą Lietuvių Rymo Katalikų Amerikoje"
 aliases: 
   - "Susivienijimas Lietuvių Rymo Katalikų Amerikoje"
+  - "Susivienijimą Lietuvių Rymo Katalikų Amerikoje"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys: 
-  - "susivienijimas"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Susivienijimas Lietuvių Rymo Katalikų Amerikoje
 
 ## Santrauka
-
-Katalikiška Amerikos lietuvių organizacija, kuri ir toliau veikė greta kitų susivienijimų.
+Šaltinyje „Susivienijimas Lietuvių Rymo Katalikų Amerikoje“ apibūdinama kaip susivienijimas; vienas iš dviejų po suskilimo atsiradusių amerikiečių lietuvių susivienijimų. (t-001)
 
 ## Pavadinimai šaltiniuose
-
-- „Susivienijimas Lietuvių Rymo Katalikų Amerikoje“
+- Kanoninis pavadinimas: Susivienijimas Lietuvių Rymo Katalikų Amerikoje
+- Šaltinyje fiksuotos formos: Susivienijimą Lietuvių Rymo Katalikų Amerikoje
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-
-Šaltinyje aiškiai nurodomas grupės tipas: susivienijimas.
+- tipas: susivienijimas
+Šaltinyje „Susivienijimas Lietuvių Rymo Katalikų Amerikoje“ apibūdinama kaip susivienijimas; vienas iš dviejų po suskilimo atsiradusių amerikiečių lietuvių susivienijimų. (t-001)
 
 ## Sudėtis ir vaidmuo
-- tipas: susivienijimas
-- laikotarpis: 
-- nariai:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios vietos:
+- Šaltinyje „Susivienijimas Lietuvių Rymo Katalikų Amerikoje“ apibūdinama kaip susivienijimas; vienas iš dviejų po suskilimo atsiradusių amerikiečių lietuvių susivienijimų. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje grupė „Susivienijimas Lietuvių Rymo Katalikų Amerikoje“ apibūdinama taip: Katalikiška Amerikos lietuvių organizacija, kuri ir toliau veikė greta kitų susivienijimų."
+  teiginys: "Šaltinyje „Susivienijimas Lietuvių Rymo Katalikų Amerikoje“ apibūdinama kaip susivienijimas; vienas iš dviejų po suskilimo atsiradusių amerikiečių lietuvių susivienijimų."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Katalikiška Amerikos lietuvių organizacija, kuri ir toliau veikė greta kitų susivienijimų.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tuo būdu atsirado du Susivienijimai: Susivienijimas Lietuvių Amerikoje ir Susivienijimas Lietuvių Rymo Katalikų Amerikoje.
+  santrauka: Vienas iš dviejų po suskilimo atsiradusių amerikiečių lietuvių susivienijimų.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Tuo būdu atsirado du Susivienijimai: Susivieniji-
+    mas Lietuvių Amerikoje ir Susivienijimas
+    Lietuvių Rymo Katalikų Amerikoje. Abi tos
+    organizacijos ir šiandien tebegyvuoja.
+  citata_rodoma: |
+    Tuo būdu atsirado du Susivienijimai: Susivienijimas Lietuvių Amerikoje ir Susivienijimas Lietuvių Rymo Katalikų Amerikoje. Abi tos organizacijos ir šiandien tebegyvuoja.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

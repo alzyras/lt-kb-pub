@@ -1,82 +1,100 @@
 ---
 tipas: vieta
 pavadinimas: "Klaipėda"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
+  - "Klaipėdoj"
+  - "Memel"
+aliases: 
   - "Klaipėda"
-  - "Klaipėdos"
-  - "Klaipėdą"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+  - "Klaipėdoj"
+  - "Memel"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
+laikotarpis: "1252 m."
+datos: 
+  - "1252 m."
 periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "miestas / pilis"
+periodo_grupes: []
+amziai: 
+  - "XIII"
+date_start: "1252"
+date_end: "1252"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Klaipėda
 
 ## Santrauka
-Klaipėda siejama su ordino pilies statyba ir vėlesniu krašto klausimu.
+Šaltinyje vieta „Klaipėda“ siejama su šiais kontekstais: Miestas minimas tarp provincijos muziejų vietų; Minima kaip sena sodyba, kurią ordinas pervadino Memeliu. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
-- Klaipėda
-- Klaipėdos
-- Klaipėdą
+- Pagrindinė forma: Klaipėda
+- Šaltinyje fiksuotos formos: Klaipėdoj; Memel
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- laikotarpis: 1252 m.
+- datos: 1252 m.
+- amziai: XIII
+- date_start/date_end: 1252 / 1252
 
 ## Kas tai
-miestas / pilis.
+- tipas: miestas; miestas / pilis
 
 ## Geografinis ir istorinis kontekstas
-- tipas: miestas / pilis
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Miestas minimas tarp provincijos muziejų vietų. (t-001)
+- Minima kaip sena sodyba, kurią ordinas pervadino Memeliu. (t-002)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Klaipėda“ minimas kaip miestas / pilis: Klaipėda siejama su ordino pilies statyba ir vėlesniu krašto klausimu."
+  teiginys: "Šaltinyje vieta „Klaipėda“ siejama su šiuo kontekstu: Miestas minimas tarp provincijos muziejų vietų."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Šaltinyje vieta „Klaipėda“ siejama su šiuo kontekstu: Minima kaip sena sodyba, kurią ordinas pervadino Memeliu."
+  pagrindžia:
+    - q-002
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Klaipėda siejama su ordino pilies statyba ir vėlesniu krašto klausimu.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    jungiasi su Baltija. Senoji tos vietos sodyba buvo vadinama
-    Klaipėda; ordinas ją pavadino vokišku Nemuno vardu —
-    Memel. Žemaičiai tuojau suprato naujosios pilies pavojingumą
+  santrauka: Miestas minimas tarp provincijos muziejų vietų.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Muziejus Kaune. Nemaža muziejų yra ir provincijoj (Klai-
+    pėdoj, Šiauliuose, Panevėžy, Telšiuose, Kėdainiuose, Biržuose
+    ir kitur).
+  citata_rodoma: |
+    Muziejus Kaune. Nemaža muziejų yra ir provincijoj (Klaipėdoj, Šiauliuose, Panevėžy, Telšiuose, Kėdainiuose, Biržuose ir kitur).
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
+- id: q-002
+  santrauka: Minima kaip sena sodyba, kurią ordinas pervadino Memeliu.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Tam tikslui 1252 m. Livo-
+    nijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės
+    jungiasi su Baltija. Senoji tos vietos sodyba buvo vadinama
+    Klaipėda; ordinas ją pavadino vokišku Nemuno vardu —
+    Memel.
+  citata_rodoma: |
+    Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės jungiasi su Baltija. Senoji tos vietos sodyba buvo vadinama Klaipėda; ordinas ją pavadino vokišku Nemuno vardu — Memel.
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

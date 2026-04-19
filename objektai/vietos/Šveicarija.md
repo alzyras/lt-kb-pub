@@ -1,78 +1,92 @@
 ---
 tipas: vieta
 pavadinimas: "Šveicarija"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
+  - "Šveicarijoje"
+  - "Šveicarijoj"
+aliases: 
   - "Šveicarija"
-  - "Šveicarijos"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+  - "Šveicarijoje"
+  - "Šveicarijoj"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "valstybė"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Šveicarija
 
 ## Santrauka
-Šveicarija minima kaip federalizmo pavyzdys ir emigracijos erdvė.
+Šaltinyje vieta „Šveicarija“ siejama su šiais kontekstais: Šalis nurodoma skliausteliuose prie Bazelio kaip suvažiavimo vietos aplinka; Minima kaip vieta, kur vyko pavergtų tautų kongresas Lozanoje. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
-- Šveicarija
-- Šveicarijos
+- Pagrindinė forma: Šveicarija
+- Šaltinyje fiksuotos formos: Šveicarijoje; Šveicarijoj
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-valstybė.
+- tipas: valstybė; valstybė / kraštas
 
 ## Geografinis ir istorinis kontekstas
-- tipas: valstybė
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Šalis nurodoma skliausteliuose prie Bazelio kaip suvažiavimo vietos aplinka. (t-001)
+- Minima kaip vieta, kur vyko pavergtų tautų kongresas Lozanoje. (t-002)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Šveicarija“ minimas kaip valstybė: Šveicarija minima kaip federalizmo pavyzdys ir emigracijos erdvė."
+  teiginys: "Šaltinyje vieta „Šveicarija“ siejama su šiuo kontekstu: Šalis nurodoma skliausteliuose prie Bazelio kaip suvažiavimo vietos aplinka."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Šaltinyje vieta „Šveicarija“ siejama su šiuo kontekstu: Minima kaip vieta, kur vyko pavergtų tautų kongresas Lozanoje."
+  pagrindžia:
+    - q-002
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Šveicarija minima kaip federalizmo pavyzdys ir emigracijos erdvė.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    mažintą Gardino apylinke, kuri turėjo atitekti Lenkijai). 3) Lietuva sudaro, Šveicarijos pavyzdžiu, du kantonus — Kauno ir Vilniaus — su federaline sostine Vilnium. 4) Lietuvių ir lenkų kalbos
+  santrauka: Šalis nurodoma skliausteliuose prie Bazelio kaip suvažiavimo vietos aplinka.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj)
+    vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
+- id: q-002
+  santrauka: Minima kaip vieta, kur vyko pavergtų tautų kongresas Lozanoje.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Kiek vėliau trys Komiteto dele-
+    gatai išvyko į Lozaną _(Lausanne,_ Šveicarijoje), kur tų pavergtų
+    tautų kongresas pareikalavo visai nepriklausomos Lietuvos
+    atstatymo.
+  citata_rodoma: |
+    Kiek vėliau trys Komiteto delegatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kongresas pareikalavo visai nepriklausomos Lietuvos atstatymo.
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

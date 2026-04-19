@@ -1,102 +1,110 @@
 ---
 tipas: posakis
 pavadinimas: "Respublika laikosi netvarka"
-sukurta: "2026-04-17"
-variantai:
-  - "Respublika laikantisi netvarka"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
-zymos: []
-laikotarpis: "Lietuvos ir Lenkijos Respublikos bajorijos santvarka"
+sukurta: "2026-04-18"
+variantai: 
+  - "Polska nierządem stoi"
+  - "Respublika laikantisi netvarkos dėka"
+  - "Respublika laikosi netvarkos dėka"
+aliases: 
+  - "Respublika laikosi netvarka"
+  - "Polska nierządem stoi"
+  - "Respublika laikantisi netvarkos dėka"
+  - "Respublika laikosi netvarkos dėka"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: 
+  - "patarlė"
+laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "netvarkos pateisinimo formulė"
-dalyviai:
-  - "bajorija"
+vaidmenys: []
+dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "vidutinis"
 ---
 # Respublika laikosi netvarka
 
 ## Santrauka
-
-„Respublika laikosi netvarka“ šaltinyje įvardyta kaip į madą įėjęs posakis, kuriuo aiškinta, kad netvarkinga bajorų Respublika esanti nepavojinga kitiems ir todėl saugi; vėliau šaltinis tą senąjį posakį vadina neteisingu.
+Šaltinyje formuluotė „Respublika laikosi netvarka“ užfiksuota keliais variantais; kontekstas: Bajorijos politinis posakis, pateisinantis Respublikos netvarką kaip laisvės ir saugumo sąlygą; 25 gabale pateikta lenkiška formulė yra tos pačios minties variantas. Reikšmė: Politinė patarlė ar formulė, teigianti, kad valstybė laikosi netvarkos dėka ir todėl esanti nepavojinga kaimynams. (t-001)
 
 ## Forma
-
-- „Respublika laikosi netvarka“
+- pagrindinė forma: Respublika laikosi netvarka (t-001)
 
 ## Variantai
-
-- „Respublika laikantisi netvarka“
+- Polska nierządem stoi
+- Respublika laikantisi netvarkos dėka
+- Respublika laikosi netvarkos dėka
 
 ## Laikotarpis ir datos
-
-- laikotarpis: Lietuvos ir Lenkijos Respublikos bajorijos santvarka
-- datos:
-- periodas:
-- subperiodiai:
-- date_start:
-- date_end:
+- Šaltinyje aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
-
-Šaltinis posakį sieja su didžiūnų galia, seimų irimu, bajorijos laisvės ideologija ir valstybės netvarka.
+Bajorijos politinis posakis, pateisinantis Respublikos netvarką kaip laisvės ir saugumo sąlygą; 25 gabale pateikta lenkiška formulė yra tos pačios minties variantas. (t-001)
 
 ## Reikšmė
-
-Netvarkos pateisinimas: esą netvarkinga Respublika niekam nepavojinga, todėl jos niekas nepuls.
+Politinė patarlė ar formulė, teigianti, kad valstybė laikosi netvarkos dėka ir todėl esanti nepavojinga kaimynams. (t-001)
 
 ## Teiginiai
-
 - id: t-001
-  teiginys: "Šaltinyje „Respublika laikosi netvarka“ aiškinamas kaip posakis, kuriuo bajorų Respublikos netvarka pateikta kaip jos nepavojingumo ir saugumo priežastis."
+  teiginys: "Šaltinyje formuluotė „Respublika laikosi netvarka“ užfiksuota keliais variantais; kontekstas: Bajorijos politinis posakis, pateisinantis Respublikos netvarką kaip laisvės ir saugumo sąlygą; 25 gabale pateikta lenkiška formulė yra tos pačios minties variantas."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  statusas: patvirtinta
-- id: t-002
-  teiginys: "Vėlesniame šaltinio kontekste senasis posakis, kad Respublika laikosi netvarka, vadinamas neteisingu."
-  pagrindžia:
     - q-002
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - id: q-001
-  santrauka: Paaiškinama posakio reikšmė ir jo vieta bajoriškos laisvės ideologijoje.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    Laisvės ideologai matė
-    netvarką, tačiau veto teisę laikė šventa: esą, tai visų bajoriškųjų
+  santrauka: Citata užfiksuoja 1-ąjį formuluotės variantą arba kontekstą.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    neapykantą didžiūnams, tačiau brangino savo laisvę. Nie-
+    kas nesirūpino perorganizuoti valstybės. Laisvės ideologai matė
+    netvarką, tačiau _veto_ teisę laikė šventa: esą, tai visų bajoriškųjų
     laisvių perlas, saugotinas, kaip akies lėlytė. Kiek vėliau įėjo
     į madą posakis: „Respublika laikosi netvarka"
     (t. y. netvarkos dėka): esą, laisva bajorų Respublika esanti
     netvarkinga, užtat niekam ir nepavojinga, — todėl jos niekas
     nepulsiąs; taigi bajorija galinti džiaugtis savo laisve ir niekuo
-    nesirūpinti.
+    nesirūpinti. Nors gyvenimas labai greit parodė šito įsitikini-
+  citata_rodoma: |
+    neapykantą didžiūnams, tačiau brangino savo laisvę. Niekas nesirūpino perorganizuoti valstybės. Laisvės ideologai matė netvarką, tačiau veto teisę laikė šventa: esą, tai visų bajoriškųjų laisvių perlas, saugotinas, kaip akies lėlytė. Kiek vėliau įėjo į madą posakis: „Respublika laikosi netvarka" (t. y. netvarkos dėka): esą, laisva bajorų Respublika esanti netvarkinga, užtat niekam ir nepavojinga, — todėl jos niekas nepulsiąs; taigi bajorija galinti džiaugtis savo laisve ir niekuo nesirūpinti. Nors gyvenimas labai greit parodė šito įsitikini-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia formuluotės buvimą ir jos vartojimo kontekstą šaltinyje."
   pagrindžia:
     - t-001
+
 - id: q-002
-  santrauka: Vėlesniame reformų kontekste šaltinis senąjį posakį vadina neteisingu.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    Rusų kariuomenės dalių. O visa tai pirštu prikišamai rodė bajorijai, jog senasis posakis, kad Respublika laikantisi netvarka,
-    yra neteisingas; tatai vertė ją susirūpinti, kaip susitvarkyti, kad
-    būtų galima pašalinti tą priespaudą.
-  teiginio_tipas: vertinimas
+  santrauka: Citata užfiksuoja 2-ąjį formuluotės variantą arba kontekstą.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Bajorija, gindama savo kišeninius reikalus, filosofavo, kad,
+    girdi, geriau esą pasilikti be kariuomenės: Respublika laikantisi
+    
+    XVIII amž. bajoro tipas.
+    (Norblino piešinys).
+    
+    netvarkos dėka _(Polska nierządem stoi);_ kol ji būsianti silpna,
+    tol būsianti nepavojinga savo kaimynams, ir jos niekas nelie-
+    siąs. O tuo tarpu su Respublika niekas nebesiskaitė; visi žiū-
+  citata_rodoma: |
+    Bajorija, gindama savo kišeninius reikalus, filosofavo, kad,
+    girdi, geriau esą pasilikti be kariuomenės: Respublika laikantisi
+    netvarkos dėka _(Polska nierządem stoi);_ kol ji būsianti silpna,
+    tol būsianti nepavojinga savo kaimynams, ir jos niekas neliesiąs.
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia formuluotės buvimą ir jos vartojimo kontekstą šaltinyje."
   pagrindžia:
-    - t-002
+    - t-001
+
+## Ryšiai
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

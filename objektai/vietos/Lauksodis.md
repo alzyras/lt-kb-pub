@@ -1,22 +1,23 @@
 ---
 tipas: vieta
 pavadinimas: "Lauksodis"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
+  - "Lauksodyje"
+aliases: 
   - "Lauksodis"
   - "Lauksodyje"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "vietovė"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
@@ -24,57 +25,43 @@ patikimumas: "vidutinis"
 # Lauksodis
 
 ## Santrauka
-Lauksodis minimas tarp mokyklų vietų.
+Šaltinyje vieta „Lauksodis“ siejama su šiuo kontekstu: Minimas tarp jėzuitų mažesnių mokyklų vietų. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Lauksodis
-- Lauksodyje
+- Pagrindinė forma: Lauksodis
+- Šaltinyje fiksuotos formos: Lauksodyje
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-vietovė.
+- tipas: vietovė
 
 ## Geografinis ir istorinis kontekstas
-- tipas: vietovė
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Minimas tarp jėzuitų mažesnių mokyklų vietų. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Lauksodis“ minimas kaip vietovė: Lauksodis minimas tarp mokyklų vietų."
+  teiginys: "Šaltinyje vieta „Lauksodis“ siejama su šiuo kontekstu: Minimas tarp jėzuitų mažesnių mokyklų vietų."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Lauksodis minimas tarp mokyklų vietų.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    piegos f-ja). Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
+  santrauka: Minimas tarp jėzuitų mažesnių mokyklų vietų.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
     Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
     Alūkstoje, Daugpily, Jelgavoj ir kitur.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

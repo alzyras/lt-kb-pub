@@ -1,100 +1,84 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: "de jure"
-sukurta: "2026-04-17"
-variantai: []
-aliases: []
+pavadinimas: "De jure"
+sukurta: "2026-04-18"
+variantai: 
+  - "de jure"
+aliases: 
+  - "De jure"
+  - "de jure"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - "istorinė-sąvoka"
+  - "teisinis-terminas"
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "žodyno terminas"
-  - "diplomatija, tarptautinė teisė"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "aukstas"
 ---
-# de jure
+# De jure
 
 ## Santrauka
-
-Terminas „de jure“ šiame šaltinyje vartojamas reikšme: teisiškai, oficialiai pripažintas.
+Šaltinyje „De jure“ vartojama taip: Oficialus, teisinis valstybės pripažinimas. (t-001)
 
 ## Žodis ir formos
-
-- Pagrindinė forma: „de jure“.
-- Šaltinyje rasta forma: „de jure“.
+- Kanoninis pavadinimas: De jure
+- Formos šaltinyje: de jure
 
 ## Laikotarpis ir datos
 - laikotarpis: 
-- datos:
-- periodas:
-- subperiodiai:
+- datos: 
+- periodas: 
+- periodo_grupes: 
+- amziai: 
 - date_start: 
 - date_end: 
 
 ## Reikšmė iš konteksto
-
-teisiškai, oficialiai pripažintas.
+- Oficialus, teisinis valstybės pripažinimas. (t-001)
 
 ## Vartojimas
-
-Vartojimo sritis šaltinyje: diplomatija, tarptautinė teisė.
+Terminas šaltinyje vartojamas šiame kontekste: tarptautinė teisė, diplomatinė leksika. (t-001)
 
 ## Teiginiai
-
 - id: t-001
-  teiginys: "Pagal vietinį šaltinio kontekstą terminas „de jure“ reiškia: teisiškai, oficialiai pripažintas."
+  teiginys: "Šaltinyje „De jure“ vartojama taip: Oficialus, teisinis valstybės pripažinimas."
   pagrindžia:
     - q-001
-    - q-002
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - id: q-001
-  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „de jure“.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    1. Įstojimas į Tautų Sąjungą ir Lietuvos pripažinimas de jure
-
-    Nuo Vilniaus konferencijos (1917 m.) laikų Taryba rūpinosi
-    išgauti Lietuvos valstybės pripažinimą. Pati nepriklausomybės
-    paskelbimo formulė (1918.11.16) numatė kreipimąsi į Rusijos.
-    Vokietijos ir kitų valstybių vyriausybes, kad jos pripažintų
-    nepriklausomą Lietuvos valstybę. Dar prieš sudarant pirmąją
-    vyriausybę, tokį pripažinimą, nors ir su rezervais, padarė Vokietija (1918 m. kovo 23 d.). Sovietų Rusija tatai padarė, pasirašydama taikos sutartį (1920.VII.12). Kai kurios kitos valstybės (pav., Anglija, Prancūzija, Norvegija, Italija, Šveicarija,
-    Švedija, Danija, Olandija, Suomija, Latvija, Lenkija) iš pradžių
-    tepripažino Lietuvą tik de facto, t. y. nesiimdamos ginti naujos valstybės teisių būti nepriklausomai. Taikos kongreso
+  santrauka: Tarptautinis valstybės pripažinimas vartojamas kaip teisinis priešpriešos terminas de facto pripažinimui.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Tuo būdu nuo 1921 metų rugsėjo 22 d. Lietuva įėjo lygio-
+    mis teisėmis į pasaulio valstybių draugiją. Bet tas įėjimas dar
+    neišsprendė juridinių santykių su visa eile valstybių. De jure
+    Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos,
+    Argentinos, Meksikos ir Latvijos bei Estijos (šias pastarąsias
+    tada jau buvo pripažinusi de jure 21 valstybė). Iš didžiųjų
+    santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amerika
+    (VII.28); Anglija, Prancūzija, Italija ir Japonija pripažino tiktai
+    1922 metų gruodžio 20 dieną, pateikusios sąlygą, kad Lietuva
+    pripažintų Versalio sutarties nuostatus, liečiančius Nemuno
+    navigacijos režimą, t. y. jo internacionalizavimą.
+  citata_rodoma: |
+    Tuo būdu nuo 1921 metų rugsėjo 22 d. Lietuva įėjo lygiomis teisėmis į pasaulio valstybių draugiją. Bet tas įėjimas dar neišsprendė juridinių santykių su visa eile valstybių. De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argentinos, Meksikos ir Latvijos bei Estijos (šias pastarąsias tada jau buvo pripažinusi de jure 21 valstybė). Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amerika (VII.28); Anglija, Prancūzija, Italija ir Japonija pripažino tiktai 1922 metų gruodžio 20 dieną, pateikusios sąlygą, kad Lietuva pripažintų Versalio sutarties nuostatus, liečiančius Nemuno navigacijos režimą, t. y. jo internacionalizavimą.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- id: q-002
-  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „de jure“.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    ir Lietuvos diplomatų žygių, J. Amerikos Valstybės pripažino
-    Lietuvą de jure. Po jos netrukus tą pat padarė ir kitos didžiosios valstybės.
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia termino vartoseną arba aiškinimą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -1,91 +1,62 @@
 ---
 tipas: autorius
 pavadinimas: "H. Paszkiewicz"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: []
+aliases: 
   - "H. Paszkiewicz"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1925-1933 m. bibliografijos kontekstas"
-datos:
-  - "1925 m."
-  - "1933 m."
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: 
+  - "autorius"
+  - "mokslininkas"
+laikotarpis: ""
+datos: []
 periodas: ""
-subperiodiai: []
-date_start: "1925"
-date_end: "1933"
-vaidmenys:
-  - autorius
-  - tyrėjas
-dalyviai: []
+periodo_grupes: []
+amziai: []
+date_start: ""
+date_end: ""
+vaidmenys: 
+  - "autorius"
+  - "mokslininkas"
+dalyviai: 
+  - "H. Paszkiewicz"
 susije_irasai: []
 patikimumas: "vidutinis"
 ---
 # H. Paszkiewicz
 
 ## Santrauka
-
-H. Paszkiewicz bibliografijoje minimas kaip darbų apie Lietuvos ir Maskvos santykius autorius.
-
-## Laikotarpis ir datos
-- laikotarpis: 1925-1933 m. bibliografijos kontekstas
-- datos: 1925 m.; 1933 m.
-- periodas:
-- subperiodiai:
-- date_start: 1925
-- date_end: 1933
+Šaltinyje H. Paszkiewicz minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip Lietuvos istorijos ir Lenkijos santykių tyrėjas.
 
 ## Darbai
-
-- „Jagiellonowie a Moskwa, I — Litwa a Moskwa w XIII i XIV wieku“.
-- „Polityka ruska Kazimierza W.“.
+- Bibliografijoje nurodytas kaip Lietuvos istorijos ir Lenkijos santykių tyrėjas. (t-001)
 
 ## Kontekstas
-
-Autorius minimas ir prie bendrųjų veikalų, ir prie Algirdo bei Kęstučio laikų bibliografijos.
+- Bibliografinė eilutė tiesiogiai įvardija Paszkiewiczių kaip veikalo autorių. (q-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Bibliografijoje H. Paszkiewicz pateikiamas kaip darbų apie Lietuvos ir Maskvos santykius autorius."
+  teiginys: "Šaltinyje H. Paszkiewicz autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip Lietuvos istorijos ir Lenkijos santykių tyrėjas."
   pagrindžia:
     - q-001
-    - q-002
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Bendrųjų veikalų sąraše H. Paszkiewicz siejamas su veikalu apie Jogailaičius ir Maskvą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
+  santrauka: Bibliografijoje nurodytas kaip Lietuvos istorijos ir Lenkijos santykių tyrėjas.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
     H. Paszkiewicz,_ Jagiellonowie a Moskwa, I — Litwa a Moskwa w XIII i
-    XIV wieku (1933)
+    XIV wieku (1933); _L. Kolankowski,_ Dzieje w. Ks. Litewskiego za Jagiel-
+  citata_rodoma: |
+    H. Paszkiewicz, Jagiellonowie a Moskwa, I — Litwa a Moskwa w XIII i XIV wieku (1933); L. Kolankowski, Dzieje w. Ks. Litewskiego za Jagiel-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su veikalu."
+  priskyrimo_pagrindas: explicit_variant
+  patikimumo_pagrindimas: "Bibliografinė eilutė tiesiogiai įvardija Paszkiewiczių kaip veikalo autorių."
   pagrindžia:
     - t-001
-- id: q-002
-  santrauka: Algirdo ir Kęstučio laikų bibliografijoje H. Paszkiewicz siejamas su darbu apie Kazimiero politiką.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    _H. Paszkiewicz,_ Polityka ruska Kazimierza W. (1925)
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su darbu."
-  pagrindžia:
-    - t-001
-
-## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 ir q-002 pagrindžia bibliografinius paminėjimus.
-
-## Pastabos

@@ -1,92 +1,60 @@
 ---
 tipas: autorius
 pavadinimas: "L. Kolankowski"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: []
+aliases: 
   - "L. Kolankowski"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1913-1930 m. bibliografijos kontekstas"
-datos:
-  - "1913 m."
-  - "1930 m."
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: 
+  - "autorius"
+laikotarpis: ""
+datos: []
 periodas: ""
-subperiodiai: []
-date_start: "1913"
-date_end: "1930"
-vaidmenys:
-  - autorius
-  - tyrėjas
-dalyviai: []
+periodo_grupes: []
+amziai: []
+date_start: ""
+date_end: ""
+vaidmenys: 
+  - "autorius"
+dalyviai: 
+  - "L. Kolankowski"
 susije_irasai: []
 patikimumas: "vidutinis"
 ---
 # L. Kolankowski
 
 ## Santrauka
-
-L. Kolankowski bibliografijoje minimas kaip Lietuvos Didžiosios Kunigaikštystės ir Zigmanto Augusto laikų tyrimų autorius.
-
-## Laikotarpis ir datos
-- laikotarpis: 1913-1930 m. bibliografijos kontekstas
-- datos: 1913 m.; 1930 m.
-- periodas:
-- subperiodiai:
-- date_start: 1913
-- date_end: 1930
+Šaltinyje L. Kolankowski minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip Lietuvos Didžiosios Kunigaikštystės istorijos autorius.
 
 ## Darbai
-
-- „Dzieje w. Ks. Litewskiego za Jagiellonów, I, 1377—1499“.
-- „Zygmunt Aug. wielki ks. Litwy do r. 1548“.
+- Bibliografijoje nurodytas kaip Lietuvos Didžiosios Kunigaikštystės istorijos autorius. (t-001)
 
 ## Kontekstas
-
-Autorius minimas bibliografiniuose nurodymuose prie bendrųjų veikalų ir Kazimiero-Zigmanto Augusto laikų.
+- Bibliografinė eilutė tiesiogiai įvardija Kolankowskį kaip veikalo autorių. (q-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Bibliografijoje L. Kolankowski pateikiamas kaip Lietuvos Didžiosios Kunigaikštystės ir Zigmanto Augusto laikų darbų autorius."
+  teiginys: "Šaltinyje L. Kolankowski autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip Lietuvos Didžiosios Kunigaikštystės istorijos autorius."
   pagrindžia:
     - q-001
-    - q-002
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Bendrųjų veikalų sąraše L. Kolankowski siejamas su Lietuvos Didžiosios Kunigaikštystės istorija.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    _L. Kolankowski,_ Dzieje w. Ks. Litewskiego za Jagiel-
-    lonów, I, 1377—1499 (1930)
+  santrauka: Bibliografijoje nurodytas kaip Lietuvos Didžiosios Kunigaikštystės istorijos autorius.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    XIV wieku (1933); _L. Kolankowski,_ Dzieje w. Ks. Litewskiego za Jagiel-
+    lonów, I, 1377—1499 (1930); _J. Jaroszewicz,_ Obraz Litwy pod względem jej
+  citata_rodoma: |
+    XIV wieku (1933); L. Kolankowski, Dzieje w. Ks. Litewskiego za Jagiellonów, I, 1377—1499 (1930); J. Jaroszewicz, Obraz Litwy pod względem jej
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su veikalu."
+  priskyrimo_pagrindas: explicit_variant
+  patikimumo_pagrindimas: "Bibliografinė eilutė tiesiogiai įvardija Kolankowskį kaip veikalo autorių."
   pagrindžia:
     - t-001
-- id: q-002
-  santrauka: Kazimiero-Zigmanto Augusto laikų bibliografijoje L. Kolankowski siejamas su darbu apie Zigmantą Augustą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    _L. Kolankowski,_ Zygmunt Aug. wielki
-    ks. Litwy do r. 1548 (1913)
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su darbu."
-  pagrindžia:
-    - t-001
-
-## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 ir q-002 pagrindžia bibliografinius paminėjimus.
-
-## Pastabos

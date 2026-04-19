@@ -1,80 +1,69 @@
 ---
 tipas: vieta
 pavadinimas: "Mozyrius"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: []
+aliases: 
   - "Mozyrius"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
+laikotarpis: "1654 m."
+datos: 
+  - "1654 m."
 periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "miestas"
+periodo_grupes: []
+amziai: 
+  - "XVII"
+date_start: "1654"
+date_end: "1654"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Mozyrius
 
 ## Santrauka
-Mozyrius minimas kaip greitai pasidavęs pietų gudų miestas.
+Šaltinyje vieta „Mozyrius“ siejama su šiuo kontekstu: Minimas tarp miestų, kurie greitai pasidavė rusams. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Mozyrius
+- Pagrindinė forma: Mozyrius
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- laikotarpis: 1654 m.
+- datos: 1654 m.
+- amziai: XVII
+- date_start/date_end: 1654 / 1654
 
 ## Kas tai
-miestas.
+- tipas: miestas
 
 ## Geografinis ir istorinis kontekstas
-- tipas: miestas
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Minimas tarp miestų, kurie greitai pasidavė rusams. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Mozyrius“ minimas kaip miestas: Mozyrius minimas kaip greitai pasidavęs pietų gudų miestas."
+  teiginys: "Šaltinyje vieta „Mozyrius“ siejama su šiuo kontekstu: Minimas tarp miestų, kurie greitai pasidavė rusams."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Mozyrius minimas kaip greitai pasidavęs pietų gudų miestas.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    Priešas ėmė
-    vieną miestą po kito. Tik Smolensko tvirtos sienos sulaikė
+  santrauka: Minimas tarp miestų, kurie greitai pasidavė rusams.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
     rusus net 4 mėnesius, o kiti miestai — Polockas, Vitebskas,
-    Mogilevas, Mozyrius — greit pasidavė. Karalius Jonas Kazi-
-    mieras atvyko Lietuvos gelbėti.
+    Mogilevas, Mozyrius — greit pasidavė.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

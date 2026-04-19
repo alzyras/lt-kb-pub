@@ -1,104 +1,82 @@
 ---
 tipas: grupe
 pavadinimas: "Vazų dinastija"
-sukurta: "2026-04-17"
+sukurta: "2026-04-18"
 variantai: 
-  - "Vazai"
+  - "Vazų šeima"
+  - "Vazų"
 aliases: 
-  - "Vazai"
+  - "Vazų dinastija"
+  - "Vazų šeima"
+  - "Vazų"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: "XVII amž"
+laikotarpis: "1648—1668 m."
 datos: 
-  - "1697—1763 m."
-  - "1763 m."
-  - "XVII amž"
-periodas: ""
-subperiodiai: []
-date_start: "1697"
-date_end: "1763"
-vaidmenys: 
-  - "dinastija"
+  - "1648—1668 m."
+periodas: "ankstyvieji_naujieji_laikai"
+periodo_grupes: []
+amziai: 
+  - "XVII"
+date_start: "1648"
+date_end: "1668"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Vazų dinastija
 
 ## Santrauka
-
-Respublikos valdovų dinastija XVII amžiuje.
+Šaltinyje „Vazų dinastija“ apibūdinama kaip dinastija; vazų šeima čia rodoma kaip sava dinastija, prie kurios kraštas buvo prisirišęs ir dėl kurios kandidatų į sostą klausimas buvo sprendžiamas beveik savaime. (t-001)
 
 ## Pavadinimai šaltiniuose
-
-- „Vazų dinastija“
-- „Vazai“
+- Kanoninis pavadinimas: Vazų dinastija
+- Šaltinyje fiksuotos formos: Vazų šeima; Vazų
 
 ## Laikotarpis ir datos
-- laikotarpis: XVII amž
-- datos: 1697—1763 m., 1763 m., XVII amž
-- periodas:
-- subperiodiai:
-- date_start: 1697
-- date_end: 1763
+- laikotarpis: 1648—1668 m.
+- datos: 1648—1668 m.
+- periodas: ankstyvieji_naujieji_laikai
+- periodo_grupes: 
+- amziai: XVII
+- date_start: 1648
+- date_end: 1668
 
 ## Kas tai
-
-Šaltinyje aiškiai nurodomas grupės tipas: dinastija.
+- tipas: dinastija
+Šaltinyje „Vazų dinastija“ apibūdinama kaip dinastija; vazų šeima čia rodoma kaip sava dinastija, prie kurios kraštas buvo prisirišęs ir dėl kurios kandidatų į sostą klausimas buvo sprendžiamas beveik savaime. (t-001)
 
 ## Sudėtis ir vaidmuo
-- tipas: dinastija
-- laikotarpis: XVII amž
-- nariai:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios vietos:
+- Šaltinyje „Vazų dinastija“ apibūdinama kaip dinastija; vazų šeima čia rodoma kaip sava dinastija, prie kurios kraštas buvo prisirišęs ir dėl kurios kandidatų į sostą klausimas buvo sprendžiamas beveik savaime. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje grupė „Vazų dinastija“ apibūdinama taip: Respublikos valdovų dinastija XVII amžiuje."
+  teiginys: "Šaltinyje „Vazų dinastija“ apibūdinama kaip dinastija; vazų šeima čia rodoma kaip sava dinastija, prie kurios kraštas buvo prisirišęs ir dėl kurios kandidatų į sostą klausimas buvo sprendžiamas beveik savaime."
   pagrindžia:
     - q-001
-    - q-002
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Respublikos valdovų dinastija XVII amžiuje.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Ilgas 3 Vazų karaliavimo periodas visiškai suartino Lietuvą su Lenkija.
+  santrauka: Vazų šeima čia rodoma kaip sava dinastija, prie kurios kraštas buvo prisirišęs ir dėl kurios kandidatų į sostą klausimas buvo sprendžiamas beveik savaime.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Vladislovas įpėdinių nepaliko. Bet kadangi kraštas jau
+    buvo apsipratęs su Vazų šeima ir į ją žiūrėjo, kaip į savą di-
+    nastiją, tai niekas apie kitus kandidatus nė negalvojo. Rei-
+    kėjo tik išspręsti ginčą tarp dviejų sosto trokštančių Vladislovo
+    brolių — Karolio ir Jono Kazimiero.
+  citata_rodoma: |
+    Vladislovas įpėdinių nepaliko. Bet kadangi kraštas jau buvo apsipratęs su Vazų šeima ir į ją žiūrėjo, kaip į savą dinastiją, tai niekas apie kitus kandidatus nė negalvojo. Reikėjo tik išspręsti ginčą tarp dviejų sosto trokštančių Vladislovo brolių — Karolio ir Jono Kazimiero.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- id: q-002
-  santrauka: Šaltinio ištrauka pagrindžia grupės „Vazų dinastija“ paminėjimą arba vaidmenį.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    net stengėsi sutaikinti kovojančius. Deja, bajorija jau buvo
-    sukelta, ir Sapiegų priešai, vedami Oginskio, kaip tik stengėsi
-    pasinaudoti prieš juos tarpuvaldžiu. Nors ir nelengva buvo
-    sunaikinti Sapiegų galybę, tačiau bajorijai pradėjo sektis. Po
-    trejų metų Sapiegos buvo visiškai nugalėti.
-
-    b. Saksų dinastijos laikai (1697—1763 m.)
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-- q-002 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

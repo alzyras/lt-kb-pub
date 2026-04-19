@@ -1,100 +1,77 @@
 ---
 tipas: grupe
 pavadinimas: "Pabaltijo valstybių sąjunga"
-sukurta: "2026-04-17"
+sukurta: "2026-04-18"
 variantai: 
-  - "Pabaltijo sąjunga"
+  - "Pabaltijo Sąjunga"
 aliases: 
-  - "Pabaltijo sąjunga"
+  - "Pabaltijo valstybių sąjunga"
+  - "Pabaltijo Sąjunga"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
+laikotarpis: "1919 m.; 1934 metų rugsėjo mėn. 12 d."
 datos: 
-  - "1934 m."
-periodas: ""
-subperiodiai: []
-date_start: "1934"
+  - "1919 m.; 1934 metų rugsėjo mėn. 12 d."
+periodas: "siuolaikine_istorija"
+periodo_grupes: []
+amziai: 
+  - "XX"
+date_start: "1919"
 date_end: "1934"
-vaidmenys: 
-  - "sąjunga"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Pabaltijo valstybių sąjunga
 
 ## Santrauka
-
-Pokarinio Baltijos valstybių bendradarbiavimo sumanymas.
+Šaltinyje „Pabaltijo valstybių sąjunga“ apibūdinama kaip sąjunga; Pabaltijo valstybių sąjungos sumanymas siejamas su 1919 metų Paryžiaus taikos konferencija. (t-001)
 
 ## Pavadinimai šaltiniuose
-
-- „Pabaltijo valstybių sąjunga“
-- „Pabaltijo sąjunga“
+- Kanoninis pavadinimas: Pabaltijo valstybių sąjunga
+- Šaltinyje fiksuotos formos: Pabaltijo Sąjunga
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 1934 m.
-- periodas:
-- subperiodiai:
-- date_start: 1934
+- laikotarpis: 1919 m.; 1934 metų rugsėjo mėn. 12 d.
+- datos: 1919 m.; 1934 metų rugsėjo mėn. 12 d.
+- periodas: siuolaikine_istorija
+- periodo_grupes: 
+- amziai: XX
+- date_start: 1919
 - date_end: 1934
 
 ## Kas tai
-
-Šaltinyje aiškiai nurodomas grupės tipas: sąjunga.
+- tipas: sąjunga
+Šaltinyje „Pabaltijo valstybių sąjunga“ apibūdinama kaip sąjunga; Pabaltijo valstybių sąjungos sumanymas siejamas su 1919 metų Paryžiaus taikos konferencija. (t-001)
 
 ## Sudėtis ir vaidmuo
-- tipas: sąjunga
-- laikotarpis: 
-- nariai:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios vietos:
+- Šaltinyje „Pabaltijo valstybių sąjunga“ apibūdinama kaip sąjunga; Pabaltijo valstybių sąjungos sumanymas siejamas su 1919 metų Paryžiaus taikos konferencija. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje grupė „Pabaltijo valstybių sąjunga“ apibūdinama taip: Pokarinio Baltijos valstybių bendradarbiavimo sumanymas."
+  teiginys: "Šaltinyje „Pabaltijo valstybių sąjunga“ apibūdinama kaip sąjunga; Pabaltijo valstybių sąjungos sumanymas siejamas su 1919 metų Paryžiaus taikos konferencija."
   pagrindžia:
     - q-001
-    - q-002
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Pokarinio Baltijos valstybių bendradarbiavimo sumanymas.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Iš politinių sutarčių paminėtinos yra draugingumo sutartys su Sovietų Rusija ir 1934 m. pasirašytoji Pabaltijo valstybių sąjunga.
+  santrauka: Pabaltijo valstybių sąjungos sumanymas siejamas su 1919 metų Paryžiaus taikos konferencija.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    **Pabaltijo valstybių sąjunga.** Šios sąjungos sumanymas buvo
+    kilęs jau 1919 metais Paryžiaus taikos konferencijos metu.
+  citata_rodoma: |
+    Pabaltijo valstybių sąjunga. Šios sąjungos sumanymas buvo kilęs jau 1919 metais Paryžiaus taikos konferencijos metu.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- id: q-002
-  santrauka: Šaltinio ištrauka pagrindžia grupės „Pabaltijo valstybių sąjunga“ paminėjimą arba vaidmenį.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    tis į periodines konferencijas. Iš bendrųjų klausimų sutartis
-
-    išskyrė tam tikras vadinamąsias specialines problemas, dėl kurių tuo tarpu sunku būtų rasti bendrą nusistatymą (čia reikia turėti galvoje Vilniaus problemą, kurioje Latviai ir Estai
-    nesiryžta tuo tarpu atvirai stoti į Lietuvos pusę).
-    Išplėsta ir sustiprinta Pabaltijo valstybių sąjunga turės
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-- q-002 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

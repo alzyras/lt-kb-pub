@@ -1,19 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: "Andrius iš Štirlando"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
   - "von Stirland"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+aliases: 
+  - "Andrius iš Štirlando"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
+laikotarpis: "1251–1253 m."
+datos: 
+  - "1251–1253 m."
 periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
+periodo_grupes: []
+amziai: 
+  - "XIII"
+date_start: "1251"
+date_end: "1253"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -22,58 +26,47 @@ patikimumas: "aukstas"
 # Andrius iš Štirlando
 
 ## Santrauka
-
-Šaltinyje nurodoma, kad andrius buvo iš tikro padorus ir labai.
+Šaltinyje Andrius iš Štirlando apibūdinamas taip: Livonijos magistras, pateikęs Mindaugui krikšto sąlygą ir rūpinęsis jo krikštu.
 
 ## Variantai
-
 - von Stirland
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
+- laikotarpis: 1251–1253 m.
+- datos: 1251–1253 m.
 - periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
-
-## Vaidmenys
-
-## Savybės
-
-## Šaltinių vaizdas
-- sutampantys vertinimai:
-- skirtingi vertinimai:
-
-## Dalyvavimas įvykiuose
+- periodo_grupes:
+- amziai: XIII
+- date_start: 1251
+- date_end: 1253
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje nurodoma, kad andrius buvo iš tikro padorus ir labai."
+  teiginys: "Šaltinyje Andrius iš Štirlando apibūdinamas taip: Livonijos magistras, pateikęs Mindaugui krikšto sąlygą ir rūpinęsis jo krikštu."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Citata pagrindžia asmens pareigas arba vaidmenį.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Andrius buvo iš tikro padorus ir labai
+  santrauka: Livonijos magistras, pateikęs Mindaugui krikšto sąlygą ir rūpinęsis jo krikštu.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Kai po Vorutos apgulos Mindaugas pasiūlė ordinui taiką,
+    Livonijos magistras Andrius iš Štirlando ( _von Stirland)_ jam pa-
+    teikė krikšto sąlygą. Andrius buvo iš tikro padorus ir labai
+    maldingas riteris: jis tikrai troško Lietuvos krikšto. Todėl, kai
+    Mindaugas sutiko krikštytis, jis nuoširdžiai rūpinosi jam padėti.
+  citata_rodoma: |
+    Kai po Vorutos apgulos Mindaugas pasiūlė ordinui taiką, Livonijos magistras Andrius iš Štirlando (von Stirland) jam pateikė krikšto sąlygą. Andrius buvo iš tikro padorus ir labai maldingas riteris: jis tikrai troško Lietuvos krikšto. Todėl, kai Mindaugas sutiko krikštytis, jis nuoširdžiai rūpinosi jam padėti.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

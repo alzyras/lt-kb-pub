@@ -1,79 +1,73 @@
 ---
 tipas: vieta
 pavadinimas: "Bobruiskas"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
+  - "Bobruiske"
+aliases: 
   - "Bobruiskas"
   - "Bobruiske"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "miestas"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Bobruiskas
 
 ## Santrauka
-Bobruiskas minimas kartu su kitomis Naugarduko apygardos vietomis.
+Šaltinyje vieta „Bobruiskas“ siejama su šiuo kontekstu: Minimas kaip jėzuitų kolegijos fundacijos vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Bobruiskas
-- Bobruiske
+- Pagrindinė forma: Bobruiskas
+- Šaltinyje fiksuotos formos: Bobruiske
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-miestas.
+- tipas: miestas
 
 ## Geografinis ir istorinis kontekstas
-- tipas: miestas
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Minimas kaip jėzuitų kolegijos fundacijos vieta. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Bobruiskas“ minimas kaip miestas: Bobruiskas minimas kartu su kitomis Naugarduko apygardos vietomis."
+  teiginys: "Šaltinyje vieta „Bobruiskas“ siejama su šiuo kontekstu: Minimas kaip jėzuitų kolegijos fundacijos vieta."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Bobruiskas minimas kartu su kitomis Naugarduko apygardos vietomis.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    I Gardino apygardoj apygardėlinių mokyklų buvo šiose vietose: Vilniuje, Volkoviske, Višniove, Pastoviuose, Lydoje, Merkinėje,
-    ir Ščucine; II Naugarduko apygardoje jų buvo Minske, Cholopieničiuose, Nesvyžiuje, Slucke, Bobruiske, Berezvieče ir Lužkose.
+  santrauka: Minimas kaip jėzuitų kolegijos fundacijos vieta.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
+    Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko
+    vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig-
+    manto fundacija), Smolenske (klebono Lempickio ir kt. fun-
+    dacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske
+    (kanclerio Martyno Oginskio ir K. Bžostausko fundacija), Nau-
+    garduke (sudėtinė fundacija), Bobruiske (Triznos fun-
+  citata_rodoma: |
+    būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zigmanto fundacija), Smolenske (klebono Lempickio ir kt. fundacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske (kanclerio Martyno Oginskio ir K. Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fun-
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

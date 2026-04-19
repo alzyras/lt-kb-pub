@@ -1,82 +1,81 @@
 ---
 tipas: grupe
 pavadinimas: "Hanza"
-sukurta: "2026-04-17"
+sukurta: "2026-04-18"
 variantai: 
-  - "vokiškųjų miestų pirklių sąjunga"
+  - "vokiečių miestų sąjunga"
+  - "vokiečių miestų sąjunga, vadinamoji Hanza"
 aliases: 
-  - "vokiškųjų miestų pirklių sąjunga"
+  - "Hanza"
+  - "vokiečių miestų sąjunga"
+  - "vokiečių miestų sąjunga, vadinamoji Hanza"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-subperiodiai: []
+laikotarpis: "XIII amž-je"
+datos: 
+  - "XIII amž-je"
+periodas: "viduramziai"
+periodo_grupes: []
+amziai: 
+  - "XIII"
 date_start: ""
 date_end: ""
-vaidmenys: 
-  - "miestų sąjunga"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Hanza
 
 ## Santrauka
-
-Vokiškų miestų pirklių sąjunga, valdžiusi prekybos kelius.
+Šaltinyje „Hanza“ apibūdinama kaip miestų sąjunga; ši sąjunga įvardyta kaip jėga, kuri XIII amžiuje perėmė šiaurinės Europos prekybą į savo rankas. (t-001)
 
 ## Pavadinimai šaltiniuose
-
-- „Hanza“
-- „vokiškųjų miestų pirklių sąjunga“
+- Kanoninis pavadinimas: Hanza
+- Šaltinyje fiksuotos formos: vokiečių miestų sąjunga; vokiečių miestų sąjunga, vadinamoji Hanza
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
+- laikotarpis: XIII amž-je
+- datos: XIII amž-je
+- periodas: viduramziai
+- periodo_grupes: 
+- amziai: XIII
 - date_start: 
 - date_end: 
 
 ## Kas tai
-
-Šaltinyje aiškiai nurodomas grupės tipas: miestų sąjunga.
+- tipas: miestų sąjunga
+Šaltinyje „Hanza“ apibūdinama kaip miestų sąjunga; ši sąjunga įvardyta kaip jėga, kuri XIII amžiuje perėmė šiaurinės Europos prekybą į savo rankas. (t-001)
 
 ## Sudėtis ir vaidmuo
-- tipas: miestų sąjunga
-- laikotarpis: 
-- nariai:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios vietos:
+- Šaltinyje „Hanza“ apibūdinama kaip miestų sąjunga; ši sąjunga įvardyta kaip jėga, kuri XIII amžiuje perėmė šiaurinės Europos prekybą į savo rankas. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje grupė „Hanza“ apibūdinama taip: Vokiškų miestų pirklių sąjunga, valdžiusi prekybos kelius."
+  teiginys: "Šaltinyje „Hanza“ apibūdinama kaip miestų sąjunga; ši sąjunga įvardyta kaip jėga, kuri XIII amžiuje perėmė šiaurinės Europos prekybą į savo rankas."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Vokiškų miestų pirklių sąjunga, valdžiusi prekybos kelius.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinamoji Hanza.
+  santrauka: Ši sąjunga įvardyta kaip jėga, kuri XIII amžiuje perėmė šiaurinės Europos prekybą į savo rankas.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    XIII amž-je visos šiaurinės Europos prekybą suėmė į sa-
+    vo rankas vokiečių miestų sąjunga, vadinamoji Hanza. Vi-
+    same Baltijos pajūry vokiečiai buvo įsikūrę savo miestų ar bent
+    prekyviečių, kur mainėsi prekėmis su vietos gyventojais.
+  citata_rodoma: |
+    XIII amž-je visos šiaurinės Europos prekybą suėmė į savo rankas vokiečių miestų sąjunga, vadinamoji Hanza. Visame Baltijos pajūry vokiečiai buvo įsikūrę savo miestų ar bent prekyviečių, kur mainėsi prekėmis su vietos gyventojais.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

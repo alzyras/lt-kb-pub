@@ -1,83 +1,72 @@
 ---
 tipas: vieta
 pavadinimas: "Ukmergė"
-sukurta: "2026-04-17"
-variantai:
-  - "Ukmergė"
-  - "Ukmergės"
+sukurta: "2026-04-18"
+variantai: 
   - "Ukmergę"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+aliases: 
+  - "Ukmergė"
+  - "Ukmergę"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "miestas"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Ukmergė
 
 ## Santrauka
-Ukmergė minima tiek mokyklų, tiek karo veiksmų kontekste.
+Šaltinyje vieta „Ukmergė“ siejama su šiuo kontekstu: Minima kaip vieta, kurią pasiekė kryžiuočių puolimai. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Ukmergė
-- Ukmergės
-- Ukmergę
+- Pagrindinė forma: Ukmergė
+- Šaltinyje fiksuotos formos: Ukmergę
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-miestas.
+- tipas: miestas
 
 ## Geografinis ir istorinis kontekstas
-- tipas: miestas
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Minima kaip vieta, kurią pasiekė kryžiuočių puolimai. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Ukmergė“ minimas kaip miestas: Ukmergė minima tiek mokyklų, tiek karo veiksmų kontekste."
+  teiginys: "Šaltinyje vieta „Ukmergė“ siejama su šiuo kontekstu: Minima kaip vieta, kurią pasiekė kryžiuočių puolimai."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Ukmergė minima tiek mokyklų, tiek karo veiksmų kontekste.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    buvo sudaryti teisminiai pavietai. Kai kurie iš jų sutapo su
-    vaivadijomis, bet iš kai kurių didelių vaivadijų buvo išskirti
-    net keli pavietai; pav., iš Vilniaus vaivadijos buvo išskirta
-    Ašmenos, Lydos, Ukmergės ir Breslaujos, o iš Trakų vaivadijos — Gardino, Kauno ir Upytės pavietai. Pilies teismai
+  santrauka: Minima kaip vieta, kurią pasiekė kryžiuočių puolimai.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Kovos su ordinu, paliauboms pasibaigus. Pasibaigus pa-
+    liaubų laikui, kryžiuočiai tuojau ėmė pulti Lietuvą iš Nemuno
+    pusės. Jie iš čia veržėsi į Žemaičius. Tuo tarpu jų livoniškė šaka,
+    apsidorojusi su arkivyskupu ir rygiečiais, daugiausia puolė
+    Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus
+    apylinkes.
+  citata_rodoma: |
+    Kovos su ordinu, paliauboms pasibaigus. Pasibaigus paliaubų laikui, kryžiuočiai tuojau ėmė pulti Lietuvą iš Nemuno pusės. Jie iš čia veržėsi į Žemaičius. Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, daugiausia puolė Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus apylinkes.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

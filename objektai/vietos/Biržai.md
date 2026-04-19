@@ -1,79 +1,97 @@
 ---
 tipas: vieta
 pavadinimas: "Biržai"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
+  - "Biržuose"
+  - "Biržų"
+aliases: 
   - "Biržai"
   - "Biržuose"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+  - "Biržų"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
+laikotarpis: "1625 m."
+datos: 
+  - "1625 m."
 periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "miestas"
+periodo_grupes: []
+amziai: 
+  - "XVII"
+date_start: "1625"
+date_end: "1625"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Biržai
 
 ## Santrauka
-Biržai minimi tarp provincijos vietų ir 1919 m. kovų.
+Šaltinyje vieta „Biržai“ siejama su šiais kontekstais: Miestas minimas tarp provincijos muziejų vietų; Minimas kaip vieta, iš kurios švedai išvežė patranką. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
-- Biržai
-- Biržuose
+- Pagrindinė forma: Biržai
+- Šaltinyje fiksuotos formos: Biržuose; Biržų
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- laikotarpis: 1625 m.
+- datos: 1625 m.
+- amziai: XVII
+- date_start/date_end: 1625 / 1625
 
 ## Kas tai
-miestas.
+- tipas: miestas
 
 ## Geografinis ir istorinis kontekstas
-- tipas: miestas
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Miestas minimas tarp provincijos muziejų vietų. (t-001)
+- Minimas kaip vieta, iš kurios švedai išvežė patranką. (t-002)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Biržai“ minimas kaip miestas: Biržai minimi tarp provincijos vietų ir 1919 m. kovų."
+  teiginys: "Šaltinyje vieta „Biržai“ siejama su šiuo kontekstu: Miestas minimas tarp provincijos muziejų vietų."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Šaltinyje vieta „Biržai“ siejama su šiuo kontekstu: Minimas kaip vieta, iš kurios švedai išvežė patranką."
+  pagrindžia:
+    - q-002
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Biržai minimi tarp provincijos vietų ir 1919 m. kovų.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    Muziejus Kaune. Nemaža muziejų yra ir provincijoj (Klaipėdoj, Šiauliuose, Panevėžy, Telšiuose, Kėdainiuose, Biržuose
+  santrauka: Miestas minimas tarp provincijos muziejų vietų.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Muziejus Kaune. Nemaža muziejų yra ir provincijoj (Klai-
+    pėdoj, Šiauliuose, Panevėžy, Telšiuose, Kėdainiuose, Biržuose
     ir kitur).
+  citata_rodoma: |
+    Muziejus Kaune. Nemaža muziejų yra ir provincijoj (Klaipėdoj, Šiauliuose, Panevėžy, Telšiuose, Kėdainiuose, Biržuose ir kitur).
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
+- id: q-002
+  santrauka: Minimas kaip vieta, iš kurios švedai išvežė patranką.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Gustavo Adolfo parodoje Stokholme 1932 m. Pirmoji (gražiausioji) yra
+    nulieta Nesvyžiaus Radvilų liejykloje 1602 m. Ant jos yra Radvilų herbas
+    ir atitinkamas užrašas. Švedai išvežė ją iš Biržų 1625 m.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

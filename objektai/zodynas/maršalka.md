@@ -1,109 +1,80 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: "maršalka"
-sukurta: "2026-04-17"
-variantai:
-  - "maršalkos"
-  - "maršalkai"
-aliases: []
+pavadinimas: "Maršalka"
+sukurta: "2026-04-18"
+variantai: 
+  - "maršalka"
+aliases: 
+  - "Maršalka"
+  - "maršalka"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - "istorinė-sąvoka"
-laikotarpis: "XVI a.; XVII a."
-datos:
-  - "XVI a."
-  - "XVII a."
-periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "žodyno terminas"
-  - "rūmų ir valstybės administracija"
+  - "teisinis-terminas"
+laikotarpis: "nuo 1542 m."
+datos: 
+  - "nuo 1542 m."
+periodas: "ankstyvieji_naujieji_laikai"
+periodo_grupes: []
+amziai: 
+  - "XVI"
+date_start: "1542"
+date_end: "1542"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "aukstas"
 ---
-# maršalka
+# Maršalka
 
 ## Santrauka
-
-Terminas „maršalka“ šiame šaltinyje vartojamas reikšme: aukštas rūmų pareigūnas, rūpinęsis tvarka ir ceremonijomis. Šaltinio kontekstas sieja jį su: XVI a.; XVII a..
+Šaltinyje „Maršalka“ vartojama taip: Aukštas valstybės pareigūnas arba krašto maršalas. (t-001)
 
 ## Žodis ir formos
-
-- Pagrindinė forma: „maršalka“.
-- Šaltinyje rasta forma: „maršalkos“.
-- Šaltinyje rasta forma: „maršalka“.
-- Šaltinyje rasta forma: „maršalkai“.
+- Kanoninis pavadinimas: Maršalka
+- Formos šaltinyje: maršalka
 
 ## Laikotarpis ir datos
-- laikotarpis: XVI a.; XVII a.
-- datos:
-  - XVI a.
-  - XVII a.
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- laikotarpis: nuo 1542 m.
+- datos: nuo 1542 m.
+- periodas: ankstyvieji_naujieji_laikai
+- periodo_grupes: 
+- amziai: XVI
+- date_start: 1542
+- date_end: 1542
 
 ## Reikšmė iš konteksto
-
-aukštas rūmų pareigūnas, rūpinęsis tvarka ir ceremonijomis.
+- Aukštas valstybės pareigūnas arba krašto maršalas. (t-001)
 
 ## Vartojimas
-
-Vartojimo sritis šaltinyje: rūmų ir valstybės administracija.
+Terminas šaltinyje vartojamas šiame kontekste: valstybės pareigybės, administracija. (t-001)
 
 ## Teiginiai
-
 - id: t-001
-  teiginys: "Pagal vietinį šaltinio kontekstą terminas „maršalka“ reiškia: aukštas rūmų pareigūnas, rūpinęsis tvarka ir ceremonijomis."
+  teiginys: "Šaltinyje „Maršalka“ vartojama taip: Aukštas valstybės pareigūnas arba krašto maršalas."
   pagrindžia:
     - q-001
-    - q-002
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
-- id: t-002
-  teiginys: "Šaltinio kontekstas terminą „maršalka“ sieja su laikotarpiu arba data: XVI a.; XVII a.."
-  pagrindžia:
-    - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - id: q-001
-  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „maršalka“.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Didžiojo kunigaikščio rūmų saugumui, tvarkai ir iškilmių cere-
-    monijoms prižiūrėti buvo maršalkos, įvairiausiems didžiojo
+  santrauka: Terminas vartojamas kaip Lietuvos krašto pareigybė tarp aukščiausių valstybės urėdų.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Mikalojus Radvila Juodasis,
+    Lietuvos krašto maršalka (nuo 1542 m.),
+    kancleris (nuo 1550 m.) ir Vilniaus vai-
+    vada (nuo 1551 m.); 1561-1562 m.
+    Livonijos vietininkas († 1565 m.).
+  citata_rodoma: |
+    Mikalojus Radvila Juodasis, Lietuvos krašto maršalka (nuo 1542 m.), kancleris (nuo 1550 m.) ir Vilniaus vaivada (nuo 1551 m.); 1561-1562 m. Livonijos vietininkas († 1565 m.).
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia termino vartoseną arba aiškinimą šaltinyje."
   pagrindžia:
     - t-001
-    - t-002
-- id: q-002
-  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „maršalka“.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Maršalkų valdžios ženklas buvo lazda. Juos laikydavo pir-
-    maisiais valstybės urėdais, kurių pareiga būdavo rūpintis karaliaus
-    saugumu ir tvarka jo reziduojamoje ar sustojamoje vietoje. Tam
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

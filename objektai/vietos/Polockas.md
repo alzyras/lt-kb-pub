@@ -1,83 +1,72 @@
 ---
 tipas: vieta
 pavadinimas: "Polockas"
-sukurta: "2026-04-17"
-variantai:
-  - "Polockas"
-  - "Polocko"
+sukurta: "2026-04-18"
+variantai: 
   - "Polocką"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+  - "Polocko"
+aliases: 
+  - "Polockas"
+  - "Polocką"
+  - "Polocko"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "kunigaikštystė / miestas"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Polockas
 
 ## Santrauka
-Polockas svarbus kaip ankstyvas rytinis Lietuvos politinis taikinys.
+Šaltinyje vieta „Polockas“ siejama su šiuo kontekstu: Minimas kaip lietuvių pasiektas ir ilgiausiai išlaikytas rytinis taškas. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Polockas
-- Polocko
-- Polocką
+- Pagrindinė forma: Polockas
+- Šaltinyje fiksuotos formos: Polocką; Polocko
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-kunigaikštystė / miestas.
+- tipas: miestas
 
 ## Geografinis ir istorinis kontekstas
-- tipas: kunigaikštystė / miestas
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Minimas kaip lietuvių pasiektas ir ilgiausiai išlaikytas rytinis taškas. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Polockas“ minimas kaip kunigaikštystė / miestas: Polockas svarbus kaip ankstyvas rytinis Lietuvos politinis taikinys."
+  teiginys: "Šaltinyje vieta „Polockas“ siejama su šiuo kontekstu: Minimas kaip lietuvių pasiektas ir ilgiausiai išlaikytas rytinis taškas."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Polockas svarbus kaip ankstyvas rytinis Lietuvos politinis taikinys.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    Nors jie ir
-    atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas
-    vis artino į aisčių kraštą. Kurį laiką Padauguvio giminės net mo-
-    kėjo jam duoklę — buvo pripažinusios jo valdžią.
+  santrauka: Minimas kaip lietuvių pasiektas ir ilgiausiai išlaikytas rytinis taškas.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Be to, jie padarė daug žygių į rytus ir į šiaurę. Lietu-
+    viai siaubė D. Naugardo žemes ir nužygiavo toli anapus Polocko.
+    Kiek laiko lietuvių rankose buvo net Smolenskas. Bet ilgesnį lai-
+    ką jie teišlaikė tik Polocką.
+  citata_rodoma: |
+    Be to, jie padarė daug žygių į rytus ir į šiaurę. Lietuviai siaubė D. Naugardo žemes ir nužygiavo toli anapus Polocko. Kiek laiko lietuvių rankose buvo net Smolenskas. Bet ilgesnį laiką jie teišlaikė tik Polocką.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

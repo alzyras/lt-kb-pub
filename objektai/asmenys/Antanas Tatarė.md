@@ -1,0 +1,65 @@
+---
+tipas: asmuo
+pavadinimas: "Antanas Tatarė"
+sukurta: "2026-04-18"
+variantai: []
+aliases: 
+  - "Antanas Tatarė"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: "1805—1889 m."
+datos: 
+  - "1805—1889 m."
+periodas: ""
+periodo_grupes: []
+amziai: 
+  - "XIX"
+date_start: "1805"
+date_end: "1889"
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
+patikimumas: "aukstas"
+---
+# Antanas Tatarė
+
+## Santrauka
+Šaltinyje Antanas Tatarė apibūdinamas taip: Minimas kaip suvalkietis kunigas, rašęs eiles ir leidęs lietuviškas knygas.
+
+## Laikotarpis ir datos
+- laikotarpis: 1805—1889 m.
+- datos: 1805—1889 m.
+- periodas:
+- periodo_grupes:
+- amziai: XIX
+- date_start: 1805
+- date_end: 1889
+
+## Teiginiai
+- id: t-001
+  teiginys: "Šaltinyje Antanas Tatarė apibūdinamas taip: Minimas kaip suvalkietis kunigas, rašęs eiles ir leidęs lietuviškas knygas."
+  pagrindžia:
+    - q-001
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+- id: q-001
+  santrauka: Minimas kaip suvalkietis kunigas, rašęs eiles ir leidęs lietuviškas knygas.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Suvalkiečiai kun. Antanas Tatarė (1805—1889 m.)
+    ir Mykolas Akelaitis (1828—1857 m.) parašė eilių ir
+    išleido keletą liaudžiai naudingų lietuviškų knygų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -1,79 +1,71 @@
 ---
 tipas: vieta
 pavadinimas: "Marijenverderis"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
+  - "Marijenverderio"
+aliases: 
   - "Marijenverderis"
   - "Marijenverderio"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "pilis"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Marijenverderis
 
 ## Santrauka
-Marijenverderis minimas kaip ordino pilies vieta prie veiksmų prieš Lietuvą.
+Šaltinyje vieta „Marijenverderis“ siejama su šiuo kontekstu: Minima tarp prie Kauno statytų ir griautų ordino pilių. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Marijenverderis
-- Marijenverderio
+- Pagrindinė forma: Marijenverderis
+- Šaltinyje fiksuotos formos: Marijenverderio
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-pilis.
+- tipas: pilis
 
 ## Geografinis ir istorinis kontekstas
-- tipas: pilis
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Minima tarp prie Kauno statytų ir griautų ordino pilių. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Marijenverderis“ minimas kaip pilis: Marijenverderis minimas kaip ordino pilies vieta prie veiksmų prieš Lietuvą."
+  teiginys: "Šaltinyje vieta „Marijenverderis“ siejama su šiuo kontekstu: Minima tarp prie Kauno statytų ir griautų ordino pilių."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Marijenverderis minimas kaip ordino pilies vieta prie veiksmų prieš Lietuvą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    Tačiau jam buvo leista gyventi prie pat Kauno, vietoj
-    senojo Marijenverderio pastatytoje Ritersverderio pilyje. Čia jis
+  santrauka: Minima tarp prie Kauno statytų ir griautų ordino pilių.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Čia buvo šios ordino pilys: Klai-
+    pėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajer-
+    burgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie
+    Kauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir
+    kitos (žiūr. 85 psl.).
+  citata_rodoma: |
+    Čia buvo šios ordino pilys: Klaipėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajerburgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie Kauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir kitos (žiūr. 85 psl.).
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

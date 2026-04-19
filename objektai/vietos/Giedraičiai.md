@@ -1,79 +1,69 @@
 ---
 tipas: vieta
 pavadinimas: "Giedraičiai"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
+  - "Giedraičiuose"
+aliases: 
   - "Giedraičiai"
-  - "Giedraičių"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+  - "Giedraičiuose"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "miestas / mūšio vieta"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Giedraičiai
 
 ## Santrauka
-Giedraičiai svarbūs kaip 1920 m. kovų vieta.
+Šaltinyje vieta „Giedraičiai“ siejama su šiuo kontekstu: Minimi kaip vieta, kur triukšmadariai dėl lietuviškų pamaldų buvo nubausti. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Giedraičiai
-- Giedraičių
+- Pagrindinė forma: Giedraičiai
+- Šaltinyje fiksuotos formos: Giedraičiuose
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-miestas / mūšio vieta.
+- tipas: miestelis
 
 ## Geografinis ir istorinis kontekstas
-- tipas: miestas / mūšio vieta
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Minimi kaip vieta, kur triukšmadariai dėl lietuviškų pamaldų buvo nubausti. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Giedraičiai“ minimas kaip miestas / mūšio vieta: Giedraičiai svarbūs kaip 1920 m. kovų vieta."
+  teiginys: "Šaltinyje vieta „Giedraičiai“ siejama su šiuo kontekstu: Minimi kaip vieta, kur triukšmadariai dėl lietuviškų pamaldų buvo nubausti."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Giedraičiai svarbūs kaip 1920 m. kovų vieta.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    svydžių ir kt. Antras toks pats laimėjimas buvo lapkričio 21d.
-    prie Giedraičių. Po šių laimėjimų mūsų kariuomenė
+  santrauka: Minimi kaip vieta, kur triukšmadariai dėl lietuviškų pamaldų buvo nubausti.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Lietuviai tada kreipėsi į teismą, ir kai kur (Giedraičiuose, Jo-
+    nišky) triukšmadariai buvo nubausti. Bet, lenkų spaudos pa-
+    drąsinti ir vietos dvarininkų pakurstyti, jie nenusigando.
+  citata_rodoma: |
+    Lietuviai tada kreipėsi į teismą, ir kai kur (Giedraičiuose, Jonišky) triukšmadariai buvo nubausti. Bet, lenkų spaudos padrąsinti ir vietos dvarininkų pakurstyti, jie nenusigando.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -1,78 +1,101 @@
 ---
 tipas: vieta
 pavadinimas: "Dancigas"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
+  - "Dancigo"
+  - "Dancigą"
+aliases: 
   - "Dancigas"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+  - "Dancigo"
+  - "Dancigą"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "miestas"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Dancigas
 
 ## Santrauka
-Dancigas minimas ordino Prūsijos miestų sąrašuose.
+Šaltinyje vieta „Dancigas“ siejama su šiais kontekstais: Miestas minimas tarp svarbiausių archyvų centrų Lietuvos istorijos medžiagai; Minimas kaip vieta, į kurią atplaukė princas Kontis ir kur jo šalininkai sudarė konfederaciją. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
-- Dancigas
+- Pagrindinė forma: Dancigas
+- Šaltinyje fiksuotos formos: Dancigo; Dancigą
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-miestas.
+- tipas: miestas
 
 ## Geografinis ir istorinis kontekstas
-- tipas: miestas
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Miestas minimas tarp svarbiausių archyvų centrų Lietuvos istorijos medžiagai. (t-001)
+- Minimas kaip vieta, į kurią atplaukė princas Kontis ir kur jo šalininkai sudarė konfederaciją. (t-002)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Dancigas“ minimas kaip miestas: Dancigas minimas ordino Prūsijos miestų sąrašuose."
+  teiginys: "Šaltinyje vieta „Dancigas“ siejama su šiuo kontekstu: Miestas minimas tarp svarbiausių archyvų centrų Lietuvos istorijos medžiagai."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Šaltinyje vieta „Dancigas“ siejama su šiuo kontekstu: Minimas kaip vieta, į kurią atplaukė princas Kontis ir kur jo šalininkai sudarė konfederaciją."
+  pagrindžia:
+    - q-002
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Dancigas minimas ordino Prūsijos miestų sąrašuose.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    ordino pilių. Nedaug betrūko, kad ordinas būtų buvęs visiškai
-    išvytas iš krašto: jam buvo likusios tik pačios stipriosios pilys
-    (Karaliaučius, Baiga, Elbingas, Dancigas, Kulmas ir Tornas).
+  santrauka: Miestas minimas tarp svarbiausių archyvų centrų Lietuvos istorijos medžiagai.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Nuo seniausių laikų Lietuva labai daug turėjo
+    įvairių santykių ir su vokiečių ordinais, o vėliau—su vad. Prūsais,
+    todėl labai daug medžiagos yra ypač Karaliaučiaus, Dan-
+    cigo ir Berlyno archyvuose. Taip pat nuo senų laikų Lietuvos
+    valstybė turėjo daug reikalų su popiežium, todėl nemaža medžia-
+    gos yra ir Vatikano archyve (iš tų laikų, kai buvo rūpi-
+    namasi Lietuvos krikštu, o vėliau — Lietuvos Bažnyčios orga-
+    nizavimu). Bet daugiausia medžiagos yra Lenkijoje, Varšu-
+    vos ir Krokuvos archyvuose; ypač jos gausu iš tų amžių,
+    kai Lietuva gyveno susirišusi, o vėliau unijoje su Lenkija.
+  citata_rodoma: |
+    Nuo seniausių laikų Lietuva labai daug turėjo įvairių santykių ir su vokiečių ordinais, o vėliau—su vad. Prūsais, todėl labai daug medžiagos yra ypač Karaliaučiaus, Dancigo ir Berlyno archyvuose. Taip pat nuo senų laikų Lietuvos valstybė turėjo daug reikalų su popiežium, todėl nemaža medžiagos yra ir Vatikano archyve (iš tų laikų, kai buvo rūpinamasi Lietuvos krikštu, o vėliau — Lietuvos Bažnyčios organizavimu). Bet daugiausia medžiagos yra Lenkijoje, Varšuvos ir Krokuvos archyvuose; ypač jos gausu iš tų amžių, kai Lietuva gyveno susirišusi, o vėliau unijoje su Lenkija.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
+- id: q-002
+  santrauka: Minimas kaip vieta, į kurią atplaukė princas Kontis ir kur jo šalininkai sudarė konfederaciją.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Bet Augus-
+    tas jau su paruošta kariuomene atskubėjo į Krokuvą ir čia ka-
+    rūnavosi. Kontys irgi atplaukė į Dancigą. Jo šalininkai sudarė
+    konfederaciją jam paremti.
+  citata_rodoma: |
+    Bet Augustas jau su paruošta kariuomene atskubėjo į Krokuvą ir čia karūnavosi. Kontys irgi atplaukė į Dancigą. Jo šalininkai sudarė konfederaciją jam paremti.
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

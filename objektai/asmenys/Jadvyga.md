@@ -1,25 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: "Jadvyga"
-sukurta: "2026-04-17"
-variantai:
-  - "Jadvygą"
+sukurta: "2026-04-18"
+variantai: 
   - "Jadvygai"
   - "Jadvygos"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - "karalienė"
+  - "Jadvygą"
+aliases: 
+  - "Jadvyga"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "karalienė"
-  - "karalius"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukstas"
@@ -27,66 +26,39 @@ patikimumas: "aukstas"
 # Jadvyga
 
 ## Santrauka
-
-Jadvyga šiame šaltinyje minima kaip Lenkijos karalienė Jogailos derybų su lenkais kontekste.
+Šaltinyje Jadvyga apibūdinamas taip: Liudviko duktė, sužadėta su Zigmantu.
 
 ## Variantai
-
-- Jadvygą
 - Jadvygai
 - Jadvygos
-
-## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
-
-## Vaidmenys
-
-- karalienė
-- karalius
-
-## Savybės
-
-## Šaltinių vaizdas
-- sutampantys vertinimai:
-- skirtingi vertinimai:
-
-## Dalyvavimas įvykiuose
+- Jadvygą
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Jadvyga šiame šaltinyje minima kaip Lenkijos karalienė Jogailos derybų su lenkais kontekste."
+  teiginys: "Šaltinyje Jadvyga apibūdinamas taip: Liudviko duktė, sužadėta su Zigmantu."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Citata pagrindžia asmens ryšį arba giminystės kontekstą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    1384 m., kada Jadvyga jau
-    buvo atvažiavusi iš Vengrijos į Krokuvą ir buvo vainikuota Len-
-    kijos karaliene, pas Jogailą atvyko speciali lenkų ponų delega-
-    cija.
+  santrauka: Liudviko duktė, sužadėta su Zigmantu.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Jo dukters, Marija ir Jadvyga, buvo
+    sužadėtos: Marija — su imperatoriaus Karolio IV sūnum Zig-
+    mantu (Liuksemburgiečiu), o Jadvyga — su Austrijos kunigaikš-
+    čiu Vilhelmu Habsburgu.
+  citata_rodoma: |
+    Jo dukters, Marija ir Jadvyga, buvo sužadėtos: Marija — su imperatoriaus Karolio IV sūnum Zigmantu (Liuksemburgiečiu), o Jadvyga — su Austrijos kunigaikščiu Vilhelmu Habsburgu.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

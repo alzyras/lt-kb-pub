@@ -1,89 +1,78 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: "dūmas"
-sukurta: "2026-04-17"
-variantai:
+pavadinimas: "Dūmas"
+sukurta: "2026-04-18"
+variantai: 
   - "dūmo"
-aliases: []
+aliases: 
+  - "Dūmas"
+  - "dūmo"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - "istorinė-sąvoka"
-laikotarpis: "XVI amž."
-datos:
-  - "XVI amž."
+laikotarpis: "XVI amžius"
+datos: 
+  - "XVI amžius"
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: 
+  - "XVI"
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "žodyno terminas"
-  - "kaimo ūkis, mokesčiai"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "vidutinis"
 ---
-# dūmas
+# Dūmas
 
 ## Santrauka
-
-Terminas „dūmas“ šiame šaltinyje vartojamas reikšme: sodyba arba ūkis kaip mokestinis vienetas. Šaltinio kontekstas sieja jį su: XVI amž..
+Šaltinyje „Dūmas“ vartojama taip: Gyvenamasis namas arba sodybinis vienetas kaip mokesčio apskaitos pagrindas. (t-001)
 
 ## Žodis ir formos
-
-- Pagrindinė forma: „dūmas“.
-- Šaltinyje rasta forma: „dūmo“.
+- Kanoninis pavadinimas: Dūmas
+- Formos šaltinyje: dūmo
 
 ## Laikotarpis ir datos
-- laikotarpis: XVI amž.
-- datos:
-  - XVI amž.
-- periodas:
-- subperiodiai:
+- laikotarpis: XVI amžius
+- datos: XVI amžius
+- periodas: 
+- periodo_grupes: 
+- amziai: XVI
 - date_start: 
 - date_end: 
 
 ## Reikšmė iš konteksto
-
-sodyba arba ūkis kaip mokestinis vienetas.
+- Gyvenamasis namas arba sodybinis vienetas kaip mokesčio apskaitos pagrindas. (t-001)
 
 ## Vartojimas
-
-Vartojimo sritis šaltinyje: kaimo ūkis, mokesčiai.
+Terminas šaltinyje vartojamas šiame kontekste: žemės ūkio ir mokesčių istorija. (t-001)
 
 ## Teiginiai
-
 - id: t-001
-  teiginys: "Pagal vietinį šaltinio kontekstą terminas „dūmas“ reiškia: sodyba arba ūkis kaip mokestinis vienetas."
+  teiginys: "Šaltinyje „Dūmas“ vartojama taip: Gyvenamasis namas arba sodybinis vienetas kaip mokesčio apskaitos pagrindas."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
-- id: t-002
-  teiginys: "Šaltinio kontekstas terminą „dūmas“ sieja su laikotarpiu arba data: XVI amž.."
-  pagrindžia:
-    - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - id: q-001
-  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „dūmas“.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    kaimuose. Anksčiau jie turėjo po labai nelygiai žemės ir mokesčius mokėjo ne nuo žemės ploto, o nuo sodybos ir nuo
-    „dūmo", t. y. nuo gyvenamųjų namų. Dabar buvo nustatyta
+  santrauka: Mokesčiai skaičiuojami ne tik nuo žemės ploto, bet ir nuo sodybos bei gyvenamųjų namų.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Anksčiau jie turėjo po labai nelygiai žemės ir mo-
+    kesčius mokėjo ne nuo žemės ploto, o nuo sodybos ir nuo
+    „dūmo", t. y. nuo gyvenamųjų namų.
+  citata_rodoma: |
+    Anksčiau jie turėjo po labai nelygiai žemės ir mokesčius mokėjo ne nuo žemės ploto, o nuo sodybos ir nuo „dūmo", t. y. nuo gyvenamųjų namų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia termino vartoseną arba aiškinimą šaltinyje."
   pagrindžia:
     - t-001
-    - t-002
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

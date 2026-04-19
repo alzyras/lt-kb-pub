@@ -1,21 +1,25 @@
 ---
 tipas: asmuo
 pavadinimas: "Borisas Godunovas"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
   - "Godunovas"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "Godunovą"
+aliases: 
+  - "Borisas Godunovas"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
+laikotarpis: "1597 m."
+datos: 
+  - "1597 m."
 periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "Maskvos caras"
+periodo_grupes: []
+amziai: 
+  - "XVI"
+date_start: "1597"
+date_end: "1597"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukstas"
@@ -23,64 +27,50 @@ patikimumas: "aukstas"
 # Borisas Godunovas
 
 ## Santrauka
-
-Šaltinyje nurodoma, kad 1589 m. Maskvos caras Borisas Godunovas buvo įkūręs naują pravoslavų patriarchatą Maskvoje.
+Šaltinyje Borisas Godunovas apibūdinamas kaip Maskvos didžiūnas, Teodoro žmonos brolis, turėjęs valdžią Teodoro laikais ir 1597 m. pasiskelbęs caru.
 
 ## Variantai
-
 - Godunovas
+- Godunovą
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
+- laikotarpis: 1597 m.
+- datos: 1597 m.
 - periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
-
-## Vaidmenys
-
-- Maskvos caras
-
-## Savybės
-
-## Šaltinių vaizdas
-- sutampantys vertinimai:
-- skirtingi vertinimai:
-
-## Dalyvavimas įvykiuose
+- periodo_grupes:
+- amziai: XVI
+- date_start: 1597
+- date_end: 1597
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje nurodoma, kad 1589 m. Maskvos caras Borisas Godunovas buvo įkūręs naują pravoslavų patriarchatą Maskvoje."
+  teiginys: "Šaltinyje Borisas Godunovas apibūdinamas kaip Maskvos didžiūnas, Teodoro žmonos brolis, turėjęs valdžią Teodoro laikais ir 1597 m. pasiskelbęs caru."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Citata įvardija Borisą Godunovą ir jo veiksmą Maskvos patriarchato klausimu.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Kaip tik tuo metu (1589 m.) Maskvos caras Borisas Godu-
-    novas buvo įkūręs naują pravoslavų patriarchatą Maskvoje.
-    Jis rūpinosi, kad šiam naujajam patriarchui priklausytų Kijevo
-    metropolitas, kuriuo tuomet buvo Ragoza.
-  priskyrimo_pagrindas: needs_review
+  santrauka: Maskvos didžiūnas, Teodoro žmonos brolis, turėjęs valdžią Teodoro laikais ir 1597 m. pasiskelbęs caru.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Maskvos suirutė. Caro Jono IV Žiauriojo sūnus Teodo-
+    ras buvo silpnos sveikatos ir silpno proto. Jam tebegyvenant,
+    visą valdžią turėjo energingas ir sumanus bajoras (taip Mas-
+    kvoje buvo vadinami didžiūnai), jo žmonos brolis Borisas
+    Godunovas. Teodoro jaunutis brolis Dimitrijas bu-
+    vo nužudytas, o Teodoras mirė bevaikis, ir po jo caru pasiskelbė
+    Godunovas (1597 m.).
+  citata_rodoma: |
+    Maskvos suirutės metu, Teodorui tebegyvenant, visą valdžią turėjo energingas ir sumanus Maskvos didžiūnas, jo žmonos brolis Borisas Godunovas. Teodorui mirus bevaikiam, po jo caru pasiskelbė Godunovas (1597 m.).
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  priskyrimo_pagrindas: explicit_variant
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

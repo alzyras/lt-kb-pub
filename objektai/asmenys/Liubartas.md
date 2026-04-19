@@ -1,17 +1,20 @@
 ---
 tipas: asmuo
 pavadinimas: "Liubartas"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
   - "Liubarto"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "Liubartu"
+aliases: 
+  - "Liubartas"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
 vaidmenys: []
@@ -22,58 +25,40 @@ patikimumas: "aukstas"
 # Liubartas
 
 ## Santrauka
-
-Liubartas šiame šaltinyje minimas kaip Kęstučio ir Algirdo brolis, valdęs Voluinę.
+Šaltinyje Liubartas apibūdinamas taip: Gedimino sūnus, valdęs dalį Voluinės ir minimas kaip vienas iš kovų dėl Voluinės veikėjų.
 
 ## Variantai
-
 - Liubarto
-
-## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
-
-## Vaidmenys
-
-## Savybės
-
-## Šaltinių vaizdas
-- sutampantys vertinimai:
-- skirtingi vertinimai:
-
-## Dalyvavimas įvykiuose
+- Liubartu
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Liubartas šiame šaltinyje minimas kaip Kęstučio ir Algirdo brolis, valdęs Voluinę."
+  teiginys: "Šaltinyje Liubartas apibūdinamas taip: Gedimino sūnus, valdęs dalį Voluinės ir minimas kaip vienas iš kovų dėl Voluinės veikėjų."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Citata pagrindžia asmens ryšį arba giminystės kontekstą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    dalį valdė Kęstučio ir Algirdo brolis Liubartas.
+  santrauka: Gedimino sūnus, valdęs dalį Voluinės ir minimas kaip vienas iš kovų dėl Voluinės veikėjų.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kuni-
+    gaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo
+    vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės. Bo-
+    leslovui mirus, Liubartas veržėsi užimti visą Voluinę, bet čia
+    pasipriešino Lenkų karalius Kazimieras, kuris laikė save Boles-
+    lovo įpėdiniu.
+  citata_rodoma: |
+    Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kunigaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės. Boleslovui mirus, Liubartas veržėsi užimti visą Voluinę, bet čia pasipriešino Lenkų karalius Kazimieras, kuris laikė save Boleslovo įpėdiniu.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

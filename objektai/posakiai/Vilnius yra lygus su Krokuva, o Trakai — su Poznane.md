@@ -1,102 +1,77 @@
 ---
 tipas: posakis
 pavadinimas: "Vilnius yra lygus su Krokuva, o Trakai — su Poznane"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
   - "nes Vilnius yra lygus su Krokuva, o Trakai — su Poznane"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
-zymos: []
-laikotarpis: "1563-1564 m. Varšuvos seimas"
-datos:
-  - "1563 m. lapkričio 21 d."
-  - "1564 m. vasario 22 d."
+aliases: 
+  - "Vilnius yra lygus su Krokuva, o Trakai — su Poznane"
+  - "nes Vilnius yra lygus su Krokuva, o Trakai — su Poznane"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: 
+  - "formulė"
+laikotarpis: "1563—1564 m."
+datos: 
+  - "1563—1564 m."
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: 
+  - "XVI"
 date_start: "1563"
 date_end: "1564"
-vaidmenys:
-  - "politinio lygiateisiškumo argumentas"
-dalyviai:
-  - "Lietuvos delegacija"
+vaidmenys: []
+dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "vidutinis"
 ---
 # Vilnius yra lygus su Krokuva, o Trakai — su Poznane
 
 ## Santrauka
-
-„Vilnius yra lygus su Krokuva, o Trakai — su Poznane“ šaltinyje pateikta kaip Lietuvos delegacijos argumentas dėl garbingų vietų bendrame seime.
+Šaltinyje užfiksuota formuluotė „Vilnius yra lygus su Krokuva, o Trakai — su Poznane“; kontekstas: Lietuvių delegacija Varšuvos seime gina garbingas vietas ir lygiavertę Lietuvos padėtį su Lenkijos centrais. Reikšmė: Lakoniška lygybės formulė, pabrėžianti Vilniaus ir Trakų rangą derybose su lenkais. (t-001)
 
 ## Forma
-
-- „Vilnius yra lygus su Krokuva, o Trakai — su Poznane“
+- pagrindinė forma: Vilnius yra lygus su Krokuva, o Trakai — su Poznane (t-001)
 
 ## Variantai
-
-- „nes Vilnius yra lygus su Krokuva, o Trakai — su Poznane“
+- nes Vilnius yra lygus su Krokuva, o Trakai — su Poznane
 
 ## Laikotarpis ir datos
-
-- laikotarpis: 1563-1564 m. Varšuvos seimas
-- datos:
-  - 1563 m. lapkričio 21 d.
-  - 1564 m. vasario 22 d.
-- periodas:
-- subperiodiai:
-- date_start: 1563
-- date_end: 1564
+- laikotarpis: 1563—1564 m. (t-001)
+- datos: 1563—1564 m. (t-001)
+- amziai: XVI (t-001)
+- date_start/date_end: 1563 / 1564 (t-001)
 
 ## Kontekstas ir vartojimas
-
-Frazė šaltinyje vartojama Varšuvos seimo derybų dėl unijos kontekste, kai lietuviai gynė savo teises.
+Lietuvių delegacija Varšuvos seime gina garbingas vietas ir lygiavertę Lietuvos padėtį su Lenkijos centrais. (t-001)
 
 ## Reikšmė
-
-Lietuvos politinio lygiateisiškumo su Lenkija argumentas.
+Lakoniška lygybės formulė, pabrėžianti Vilniaus ir Trakų rangą derybose su lenkais. (t-001)
 
 ## Teiginiai
-
 - id: t-001
-  teiginys: "Šaltinyje frazė „Vilnius yra lygus su Krokuva, o Trakai — su Poznane“ pateikta kaip Lietuvos delegacijos argumentas, kai ji bendrame seime reikalavo garbingų vietų."
-  pagrindžia:
-    - q-002
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  statusas: patvirtinta
-- id: t-002
-  teiginys: "Šaltinyje Varšuvos seimo derybos datuojamos nuo 1563 m. lapkričio 21 d. iki 1564 m. vasario 22 d."
+  teiginys: "Šaltinyje užfiksuota formuluotė „Vilnius yra lygus su Krokuva, o Trakai — su Poznane“; kontekstas: Lietuvių delegacija Varšuvos seime gina garbingas vietas ir lygiavertę Lietuvos padėtį su Lenkijos centrais."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - id: q-001
-  santrauka: Šaltinis datuoja Varšuvos seimo derybas.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki 1564 m. vasario 22 d.
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- id: q-002
-  santrauka: Lietuvos delegacija Varšuvos seime reikalauja garbingų vietų ir lygina Vilnių su Krokuva, Trakus su Poznane.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    Ypač griežtai lietuviai ėmė ginti savo
-    teises, gavę žinią apie laimėjimą ties Ula. Jie reikalavo sau visiško
-    savarankiškumo, sutikdami tik su bendru valdovu. Jie sutiko atvažiuoti ir į bendrus seimus, bet tik tada, kai tatai bus reikalinga
-    pačiai Lietuvai, ir nieku būdu nenorėjo išsižadėti savo atskirų seimų.
+  santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
     Bendram seime jie reikalavo sau irgi garbingų vietų, „nes Vilnius
     yra lygus su Krokuva, o Trakai — su Poznane". Karalių sutiko rinkti
+    bendrai, bet tik ne Lenkijos centre, o pačiame pasieny, ir reikalavo,
+    kad lietuvių ir lenkų rinkėjų būtų po lygiai.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia formuluotės buvimą ir jos vartojimo kontekstą šaltinyje."
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

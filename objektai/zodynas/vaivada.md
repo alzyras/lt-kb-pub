@@ -1,110 +1,81 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: "vaivada"
-sukurta: "2026-04-17"
-variantai:
-  - "vaivadas"
-  - "vaivadų"
-  - "vaivadomis"
-aliases: []
+pavadinimas: "Vaivada"
+sukurta: "2026-04-18"
+variantai: 
+  - "vaivados"
+  - "vaivadijos"
+aliases: 
+  - "Vaivada"
+  - "vaivados"
+  - "vaivadijos"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - "istorinė-sąvoka"
-laikotarpis: "1413 m.; XVI a."
-datos:
+  - "teisinis-terminas"
+laikotarpis: "1413 m."
+datos: 
   - "1413 m."
-  - "XVI a."
-periodas: ""
-subperiodiai: []
+periodas: "viduramziai"
+periodo_grupes: []
+amziai: 
+  - "XV"
 date_start: "1413"
 date_end: "1413"
-vaidmenys:
-  - "žodyno terminas"
-  - "valstybės administracija, karinė ir teritorinė valdžia"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "vidutinis"
 ---
-# vaivada
+# Vaivada
 
 ## Santrauka
-
-Terminas „vaivada“ šiame šaltinyje vartojamas reikšme: krašto ar srities valdovas ir karo bei teismo pareigūnas. Šaltinio kontekstas sieja jį su: 1413 m.; XVI a..
+Šaltinyje „Vaivada“ vartojama taip: Aukštas krašto administracijos pareigūnas, susietas su vaivadijos valdymu. (t-001)
 
 ## Žodis ir formos
-
-- Pagrindinė forma: „vaivada“.
-- Šaltinyje rasta forma: „vaivadas“.
-- Šaltinyje rasta forma: „vaivadų“.
-- Šaltinyje rasta forma: „vaivadomis“.
+- Kanoninis pavadinimas: Vaivada
+- Formos šaltinyje: vaivados; vaivadijos
 
 ## Laikotarpis ir datos
-- laikotarpis: 1413 m.; XVI a.
-- datos:
-  - 1413 m.
-  - XVI a.
-- periodas:
-- subperiodiai:
+- laikotarpis: 1413 m.
+- datos: 1413 m.
+- periodas: viduramziai
+- periodo_grupes: 
+- amziai: XV
 - date_start: 1413
 - date_end: 1413
 
 ## Reikšmė iš konteksto
-
-krašto ar srities valdovas ir karo bei teismo pareigūnas.
+- Aukštas krašto administracijos pareigūnas, susietas su vaivadijos valdymu. (t-001)
 
 ## Vartojimas
-
-Vartojimo sritis šaltinyje: valstybės administracija, karinė ir teritorinė valdžia.
+Terminas šaltinyje vartojamas šiame kontekste: valstybės valdymas, pareigybės. (t-001)
 
 ## Teiginiai
-
 - id: t-001
-  teiginys: "Pagal vietinį šaltinio kontekstą terminas „vaivada“ reiškia: krašto ar srities valdovas ir karo bei teismo pareigūnas."
+  teiginys: "Šaltinyje „Vaivada“ vartojama taip: Aukštas krašto administracijos pareigūnas, susietas su vaivadijos valdymu."
   pagrindžia:
     - q-001
-    - q-002
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
-- id: t-002
-  teiginys: "Šaltinio kontekstas terminą „vaivada“ sieja su laikotarpiu arba data: 1413 m.; XVI a.."
-  pagrindžia:
-    - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - id: q-001
-  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „vaivada“.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    urėdai turėjo būti vaivados ir kaštelionai; jie turėjo gauti tam tikrų teisių krašto valdyme ir karo atveju turėjo
-    vadovauti savo vaivadijos bajorams. Pirmieji tokie vaivadų ir
+  santrauka: Horodlėje aptariamas naujai įvestas krašto urėdas, turintis teisių valdyme ir karo vadovavime.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    O tokie, lenkų pavyzdžiu naujai įvesti,
+    urėdai turėjo būti vaivados ir kaštelionai; jie tu-
+    rėjo gauti tam tikrų teisių krašto valdyme ir karo atveju turėjo
+    vadovauti savo vaivadijos bajorams.
+  citata_rodoma: |
+    O tokie, lenkų pavyzdžiu naujai įvesti, urėdai turėjo būti vaivados ir kaštelionai; jie turėjo gauti tam tikrų teisių krašto valdyme ir karo atveju turėjo vadovauti savo vaivadijos bajorams.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia termino vartoseną arba aiškinimą šaltinyje."
   pagrindžia:
     - t-001
-    - t-002
-- id: q-002
-  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „vaivada“.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    ninkais, bet vaivadomis. Tai buvo lenkiškojo tipo urėdai,
-    kurie vesdavo savo srities bajoriją į karą ir turėdavo kitokių,
-    į vietininkų panašių, pareigų. Jiems karo reikaluose ir teismuose
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

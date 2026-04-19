@@ -1,109 +1,79 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: "kaštelionas"
-sukurta: "2026-04-17"
-variantai:
+pavadinimas: "Kaštelionas"
+sukurta: "2026-04-18"
+variantai: 
   - "kaštelionai"
-aliases: []
+aliases: 
+  - "Kaštelionas"
+  - "kaštelionai"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - "istorinė-sąvoka"
-laikotarpis: "1413 m.; 1566 m."
-datos:
+  - "teisinis-terminas"
+laikotarpis: "1413 m."
+datos: 
   - "1413 m."
-  - "1566 m."
-periodas: ""
-subperiodiai: []
+periodas: "viduramziai"
+periodo_grupes: []
+amziai: 
+  - "XV"
 date_start: "1413"
-date_end: "1566"
-vaidmenys:
-  - "žodyno terminas"
-  - "valstybės pareigybės"
+date_end: "1413"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "vidutinis"
 ---
-# kaštelionas
+# Kaštelionas
 
 ## Santrauka
-
-Terminas „kaštelionas“ šiame šaltinyje vartojamas reikšme: pilies ar srities pareigūnas, padėjėjas karo ir teismo reikaluose. Šaltinio kontekstas sieja jį su: 1413 m.; 1566 m..
+Šaltinyje „Kaštelionas“ vartojama taip: Krašto administracijos arba pilies pareigūnas, įvestas lenkišku pavyzdžiu. (t-001)
 
 ## Žodis ir formos
-
-- Pagrindinė forma: „kaštelionas“.
-- Šaltinyje rasta forma: „kaštelionai“.
-- Šaltinyje rasta forma: „kaštelionas“.
+- Kanoninis pavadinimas: Kaštelionas
+- Formos šaltinyje: kaštelionai
 
 ## Laikotarpis ir datos
-- laikotarpis: 1413 m.; 1566 m.
-- datos:
-  - 1413 m.
-  - 1566 m.
-- periodas:
-- subperiodiai:
+- laikotarpis: 1413 m.
+- datos: 1413 m.
+- periodas: viduramziai
+- periodo_grupes: 
+- amziai: XV
 - date_start: 1413
-- date_end: 1566
+- date_end: 1413
 
 ## Reikšmė iš konteksto
-
-pilies ar srities pareigūnas, padėjėjas karo ir teismo reikaluose.
+- Krašto administracijos arba pilies pareigūnas, įvestas lenkišku pavyzdžiu. (t-001)
 
 ## Vartojimas
-
-Vartojimo sritis šaltinyje: valstybės pareigybės.
+Terminas šaltinyje vartojamas šiame kontekste: valstybės valdymas, pareigybės. (t-001)
 
 ## Teiginiai
-
 - id: t-001
-  teiginys: "Pagal vietinį šaltinio kontekstą terminas „kaštelionas“ reiškia: pilies ar srities pareigūnas, padėjėjas karo ir teismo reikaluose."
+  teiginys: "Šaltinyje „Kaštelionas“ vartojama taip: Krašto administracijos arba pilies pareigūnas, įvestas lenkišku pavyzdžiu."
   pagrindžia:
     - q-001
-    - q-002
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
-- id: t-002
-  teiginys: "Šaltinio kontekstas terminą „kaštelionas“ sieja su laikotarpiu arba data: 1413 m.; 1566 m.."
-  pagrindžia:
-    - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - id: q-001
-  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „kaštelionas“.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
+  santrauka: Taip pat įvardijamas naujai įvestas urėdas, minimas drauge su vaivada.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    O tokie, lenkų pavyzdžiu naujai įvesti,
     urėdai turėjo būti vaivados ir kaštelionai; jie tu-
     rėjo gauti tam tikrų teisių krašto valdyme ir karo atveju turėjo
-    vadovauti savo vaivadijos bajorams. Pirmieji tokie vaivadų ir
+    vadovauti savo vaivadijos bajorams.
+  citata_rodoma: |
+    O tokie, lenkų pavyzdžiu naujai įvesti, urėdai turėjo būti vaivados ir kaštelionai; jie turėjo gauti tam tikrų teisių krašto valdyme ir karo atveju turėjo vadovauti savo vaivadijos bajorams.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia termino vartoseną arba aiškinimą šaltinyje."
   pagrindžia:
     - t-001
-    - t-002
-- id: q-002
-  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „kaštelionas“.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    į vietininkų panašių, pareigų. Jiems karo reikaluose ir teismuose
-    tarsi padėjėjai buvo kaštelionai. (Bet tose dviejose di-
-    džiulėse vaivadijose buvo taip pat ir vietininkų, valdančių di-
-    džiojo kunigaikščio dvarus su mažesnėmis apylinkėmis). Vieti-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

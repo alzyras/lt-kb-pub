@@ -1,85 +1,76 @@
 ---
 tipas: vieta
 pavadinimas: "Cėsys"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
+  - "Cėsio"
+  - "Vendeno"
+aliases: 
   - "Cėsys"
   - "Cėsio"
   - "Vendeno"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: "1262 m."
-datos:
+datos: 
   - "1262 m."
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: 
+  - "XIII"
 date_start: "1262"
 date_end: "1262"
-vaidmenys:
-  - "miestas / pilis"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Cėsys
 
 ## Santrauka
-Cėsys minimas kaip Livonijos ordino žemės punktas, pasiektas Mindaugo žygyje.
+Šaltinyje vieta „Cėsys“ siejama su šiuo kontekstu: Minimas kaip tolimiausias Mindaugo žygio taškas Livonijos ordino žemėje. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Cėsys
-- Cėsio
-- Vendeno
+- Pagrindinė forma: Cėsys
+- Šaltinyje fiksuotos formos: Cėsio; Vendeno
 
 ## Laikotarpis ir datos
 - laikotarpis: 1262 m.
 - datos: 1262 m.
-- periodas:
-- subperiodiai:
-- date_start: 1262
-- date_end: 1262
+- amziai: XIII
+- date_start/date_end: 1262 / 1262
 
 ## Kas tai
-miestas / pilis.
+- tipas: miestas
 
 ## Geografinis ir istorinis kontekstas
-- tipas: miestas / pilis
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Minimas kaip tolimiausias Mindaugo žygio taškas Livonijos ordino žemėje. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Cėsys“ minimas kaip miestas / pilis: Cėsys minimas kaip Livonijos ordino žemės punktas, pasiektas Mindaugo žygyje."
+  teiginys: "Šaltinyje vieta „Cėsys“ siejama su šiuo kontekstu: Minimas kaip tolimiausias Mindaugo žygio taškas Livonijos ordino žemėje."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Cėsys minimas kaip Livonijos ordino žemės punktas, pasiektas Mindaugo žygyje.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    Todėl Mindaugas priėmė pasiūlymą ir, sudaręs są-
+  santrauka: Minimas kaip tolimiausias Mindaugo žygio taškas Livonijos ordino žemėje.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Mindaugas priėmė pasiūlymą ir, sudaręs są-
     jungą su D. Naugardu, 1262 m. nužygiavo į Livonijos ordino
-    žemę net iki Cėsio (Vendeno). Bet, neatvykus Naugardo ka-
-    riuomenei, jis neįstengė paimti pilies ir, grįžęs namo, daugiau su
-    ordinu nebekariavo.
+    žemę net iki Cėsio (Vendeno).
+  citata_rodoma: |
+    Mindaugas priėmė pasiūlymą ir, sudaręs sąjungą su D. Naugardu, 1262 m. nužygiavo į Livonijos ordino žemę net iki Cėsio (Vendeno).
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

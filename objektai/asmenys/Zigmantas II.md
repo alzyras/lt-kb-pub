@@ -1,19 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: "Zigmantas II"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
   - "Zigmanto II"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+aliases: 
+  - "Zigmantas II"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
+laikotarpis: "1506–1548 m.; 1540 m. sausio 13 d."
+datos: 
+  - "1506–1548 m.; 1540 m. sausio 13 d."
 periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
+periodo_grupes: []
+amziai: 
+  - "XVI"
+date_start: "1506"
+date_end: "1548"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -22,58 +26,65 @@ patikimumas: "aukstas"
 # Zigmantas II
 
 ## Santrauka
-
-Šaltinyje nurodoma, kad Zigmantas II rūpinosi sutvarkyti patį dvarų ūkį.
+Šaltinyje Zigmantas II apibūdinamas taip: Įvardytas kaip valdovas, kurio laikais vyko karai su Maskva. Šaltinyje Zigmantas II apibūdinamas taip: Minimas kaip 1540 m. Lietuvos Metrikos laiško ponų tarybai autorius.
 
 ## Variantai
-
 - Zigmanto II
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
+- laikotarpis: 1506–1548 m.; 1540 m. sausio 13 d.
+- datos: 1506–1548 m.; 1540 m. sausio 13 d.
 - periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
-
-## Vaidmenys
-
-## Savybės
-
-## Šaltinių vaizdas
-- sutampantys vertinimai:
-- skirtingi vertinimai:
-
-## Dalyvavimas įvykiuose
+- periodo_grupes:
+- amziai: XVI
+- date_start: 1506
+- date_end: 1548
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje nurodoma, kad Zigmantas II rūpinosi sutvarkyti patį dvarų ūkį."
+  teiginys: "Šaltinyje Zigmantas II apibūdinamas taip: Įvardytas kaip valdovas, kurio laikais vyko karai su Maskva."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Šaltinyje Zigmantas II apibūdinamas taip: Minimas kaip 1540 m. Lietuvos Metrikos laiško ponų tarybai autorius."
+  pagrindžia:
+    - q-002
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Citata pagrindžia asmens pareigas arba vaidmenį.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Zigmantas II rūpinosi sutvarkyti patį dvarų ūkį.
+  santrauka: Įvardytas kaip valdovas, kurio laikais vyko karai su Maskva.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Zigmantas II (1506—1548 m.) ir jo karai su Maskva
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
+- id: q-002
+  santrauka: Minimas kaip 1540 m. Lietuvos Metrikos laiško ponų tarybai autorius.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    **VII. Lietuvos Metrikos įrašų fragmentas.** Tai yra Zigmanto II 1540 m.
+    sausio 13 d. ponų tarybai rašytas laiškas, kuriame jis duoda instrukcijų,
+    kaip skirtieji komisarai (Žemaičių vyskupas ir seniūnas) turi ištirti ir kartu
+    su Livonijos magistro atstovais išvesti Lietuvos Livonijos sieną.
+  citata_rodoma: |
+    VII. Lietuvos Metrikos įrašų fragmentas. Tai yra Zigmanto II 1540 m. sausio 13 d. ponų tarybai rašytas laiškas, kuriame jis duoda instrukcijų, kaip skirtieji komisarai (Žemaičių vyskupas ir seniūnas) turi ištirti ir kartu su Livonijos magistro atstovais išvesti Lietuvos Livonijos sieną.
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_variant
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

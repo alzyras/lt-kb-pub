@@ -1,129 +1,68 @@
 ---
 tipas: autorius
 pavadinimas: "P. Klimas"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: []
+aliases: 
   - "P. Klimas"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1918-1936 m. bibliografijos ir leidinio kontekstas"
-datos:
-  - "1918 m."
-  - "1919 m."
-  - "1920 m."
-  - "1923 m."
-  - "1936 m."
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: 
+  - "autorius"
+laikotarpis: ""
+datos: []
 periodas: ""
-subperiodiai: []
-date_start: "1918"
-date_end: "1936"
-vaidmenys:
-  - autorius
-  - bendradarbis
-dalyviai: []
+periodo_grupes: []
+amziai: []
+date_start: ""
+date_end: ""
+vaidmenys: 
+  - "autorius"
+dalyviai: 
+  - "P. Klimas"
 susije_irasai: []
 patikimumas: "vidutinis"
 ---
 # P. Klimas
 
 ## Santrauka
-
-P. Klimas pratarmėje nurodytas kaip „Lietuvos istorijos“ dalies apie nepriklausomos valstybės atkūrimą ir nepriklausomą gyvenimą autorius; bibliografijoje jis siejamas su darbais apie senovę, žemės valdymą ir valstybės kūrimą.
-
-## Laikotarpis ir datos
-- laikotarpis: 1918-1936 m. bibliografijos ir leidinio kontekstas
-- datos: 1918 m.; 1919 m.; 1920 m.; 1923 m.; 1936 m.
-- periodas:
-- subperiodiai:
-- date_start: 1918
-- date_end: 1936
+Šaltinyje P. Klimas minimas autorystės, redagavimo arba tyrimo kontekste: Įvardytas kaip nepriklausomosios valstybės atstatymo ir gyvenimo laikotarpio autorius.
 
 ## Darbai
-
-- „Lietuvos istorijos“ dalis apie nepriklausomosios valstybės atstatymą ir nepriklausomąjį gyvenimą.
-- „Liet. senobės bruožai“.
-- „Lietuvos žemės valdymo istorija“.
-- „Lietuvos valstybės kūrimas, 1915—1918“.
+- Įvardytas kaip nepriklausomosios valstybės atstatymo ir gyvenimo laikotarpio autorius. (t-001)
 
 ## Kontekstas
-
-Šaltinyje P. Klimas minimas ir kaip leidinio bendradarbis, ir kaip bibliografijoje cituojamas autorius.
+- Vardas susietas su konkrečia veikalo dalimi ir autoriaus funkcija. (q-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "P. Klimas parašė „Lietuvos istorijos“ dalį apie nepriklausomosios valstybės atstatymą ir nepriklausomąjį gyvenimą."
+  teiginys: "Šaltinyje P. Klimas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Įvardytas kaip nepriklausomosios valstybės atstatymo ir gyvenimo laikotarpio autorius."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
-- id: t-002
-  teiginys: "Bibliografijoje P. Klimas pateikiamas kaip darbų apie senovę, žemės valdymą ir Lietuvos valstybės kūrimą autorius."
-  pagrindžia:
-    - q-002
-    - q-003
-    - q-004
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Pratarmė nurodo P. Klimo parašytą dalį.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    p. P. Klimas — apie nepriklausomosios valstybės atsta-
-    tymą ir nepriklausomojo gyvenimo laikotarpį
+  santrauka: Įvardytas kaip nepriklausomosios valstybės atstatymo ir gyvenimo laikotarpio autorius.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Pagaliau p. Viceministerio K. Masiliūno rūpesčiu
+    buvo suburta penketas žmonių, sutikusių imtis to darbo ir su-
+    tarusių parašyti kiekvienas apie atskirą mūsų tautos gyvenimo
+    laikotarpį. Tuo būdu p. J. Jakštas parašė apie pirmąjį mūsų
+    tautos valstybinio gyvenimo laikotarpį, iki krikščioniškųjų lai-
+    kų pradžios, dr. Z. Ivinskis — apie sekantį laikotarpį, iki Gedi-
+    minaičių dinastijos galo; man teko tęsinys — iki nepriklausomo-
+    sios valstybės galo; p. P. Šležas parašė apie rusų valdymo lai-
+    kus, o p. P. Klimas — apie nepriklausomosios valstybės atsta-
+    tymą ir nepriklausomojo gyvenimo laikotarpį.
+  citata_rodoma: |
+    Pagaliau p. Viceministerio K. Masiliūno rūpesčiu buvo suburta penketas žmonių, sutikusių imtis to darbo ir sutarusių parašyti kiekvienas apie atskirą mūsų tautos gyvenimo laikotarpį. Tuo būdu p. J. Jakštas parašė apie pirmąjį mūsų tautos valstybinio gyvenimo laikotarpį, iki krikščioniškųjų laikų pradžios, dr. Z. Ivinskis — apie sekantį laikotarpį, iki Gediminaičių dinastijos galo; man teko tęsinys — iki nepriklausomosios valstybės galo; p. P. Šležas parašė apie rusų valdymo laikus, o p. P. Klimas — apie nepriklausomosios valstybės atstatymą ir nepriklausomojo gyvenimo laikotarpį.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Pratarmė tiesiogiai įvardija autorių ir jam priskirtą dalį."
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: "Vardas susietas su konkrečia veikalo dalimi ir autoriaus funkcija."
   pagrindžia:
     - t-001
-- id: q-002
-  santrauka: Bibliografijoje P. Klimas siejamas su darbu apie senovę.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    _P. Klimas,_
-    Liet. senobės bruožai (1919)
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su darbu."
-  pagrindžia:
-    - t-002
-- id: q-003
-  santrauka: Bibliografijoje P. Klimas siejamas su darbu apie žemės valdymą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    P. _Klimas,_
-    Lietuvos žemės valdymo istorija (1919, 1920)
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su darbu."
-  pagrindžia:
-    - t-002
-- id: q-004
-  santrauka: Bibliografijoje P. Klimas siejamas su darbais apie valstybės kūrimą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    P. _Klimas,_ Lie-
-    tuvos valstybės kūrimas, 1915—1918 (1918)
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su darbais."
-  pagrindžia:
-    - t-002
-
-## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia jo leidinio dalį.
-- q-002, q-003 ir q-004 pagrindžia bibliografinius paminėjimus.
-
-## Pastabos

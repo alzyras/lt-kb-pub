@@ -1,82 +1,76 @@
 ---
 tipas: vieta
 pavadinimas: "Trakai"
-sukurta: "2026-04-17"
-variantai:
-  - "Trakai"
-  - "Trakų"
+sukurta: "2026-04-18"
+variantai: 
+  - "Trakuose"
   - "Trakus"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+  - "Trakų"
+aliases: 
+  - "Trakai"
+  - "Trakuose"
+  - "Trakus"
+  - "Trakų"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
+laikotarpis: "1379 m."
+datos: 
+  - "1379 m."
 periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "miestas / pilis"
+periodo_grupes: []
+amziai: 
+  - "XIV"
+date_start: "1379"
+date_end: "1379"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Trakai
 
 ## Santrauka
-Trakai minimi kaip antrinis Lietuvos sostinės centras ir pilių vieta.
+Šaltinyje vieta „Trakai“ siejama su šiuo kontekstu: Trakai minimi kaip 1379 m. paliaubų vieta ir vėlesnių kovų dėl valdžios erdvė. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Trakai
-- Trakų
-- Trakus
+- Pagrindinė forma: Trakai
+- Šaltinyje fiksuotos formos: Trakuose; Trakus; Trakų
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- laikotarpis: 1379 m.
+- datos: 1379 m.
+- amziai: XIV
+- date_start/date_end: 1379 / 1379
 
 ## Kas tai
-miestas / pilis.
+- tipas: miestas
 
 ## Geografinis ir istorinis kontekstas
-- tipas: miestas / pilis
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Trakai minimi kaip 1379 m. paliaubų vieta ir vėlesnių kovų dėl valdžios erdvė. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Trakai“ minimas kaip miestas / pilis: Trakai minimi kaip antrinis Lietuvos sostinės centras ir pilių vieta."
+  teiginys: "Šaltinyje vieta „Trakai“ siejama su šiuo kontekstu: Trakai minimi kaip 1379 m. paliaubų vieta ir vėlesnių kovų dėl valdžios erdvė."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Trakai minimi kaip antrinis Lietuvos sostinės centras ir pilių vieta.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    Lietuvos sostine. Netoli Vilniaus, sunkiai prieinamame Galvės
-    ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą
-    laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai. Jo
+  santrauka: Trakai minimi kaip 1379 m. paliaubų vieta ir vėlesnių kovų dėl valdžios erdvė.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Tuo būdu 1 3 7 9 m.
+    Trakuose buvo padarytos 10 metų paliaubos.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

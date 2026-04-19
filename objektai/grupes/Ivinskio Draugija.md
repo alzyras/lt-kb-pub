@@ -1,83 +1,79 @@
 ---
 tipas: grupe
 pavadinimas: "Ivinskio Draugija"
-sukurta: "2026-04-17"
+sukurta: "2026-04-18"
 variantai: 
-  - "Ivinskio draugija"
+  - "Ivinskio Draugiją"
 aliases: 
-  - "Ivinskio draugija"
+  - "Ivinskio Draugija"
+  - "Ivinskio Draugiją"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
+laikotarpis: "1894 m."
 datos: 
   - "1894 m."
-  - "1900 m."
-periodas: ""
-subperiodiai: []
+periodas: "naujieji_laikai"
+periodo_grupes: []
+amziai: 
+  - "XIX"
 date_start: "1894"
 date_end: "1894"
-vaidmenys: 
-  - "draugija"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Ivinskio Draugija
 
 ## Santrauka
-
-Amerikos lietuvių draugija, rūpinusis lietuvišku skyriumi Paryžiaus parodoje.
+Šaltinyje „Ivinskio Draugija“ apibūdinama kaip draugija; 1894 m. įkurta draugija, siekusi lietuvių skyriaus Paryžiaus parodoje. (t-001)
 
 ## Pavadinimai šaltiniuose
-
-- „Ivinskio Draugija“
+- Kanoninis pavadinimas: Ivinskio Draugija
+- Šaltinyje fiksuotos formos: Ivinskio Draugiją
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 1894 m., 1900 m.
-- periodas:
-- subperiodiai:
+- laikotarpis: 1894 m.
+- datos: 1894 m.
+- periodas: naujieji_laikai
+- periodo_grupes: 
+- amziai: XIX
 - date_start: 1894
 - date_end: 1894
 
 ## Kas tai
-
-Šaltinyje aiškiai nurodomas grupės tipas: draugija.
+- tipas: draugija
+Šaltinyje „Ivinskio Draugija“ apibūdinama kaip draugija; 1894 m. įkurta draugija, siekusi lietuvių skyriaus Paryžiaus parodoje. (t-001)
 
 ## Sudėtis ir vaidmuo
-- tipas: draugija
-- laikotarpis: 
-- nariai:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios vietos:
+- Šaltinyje „Ivinskio Draugija“ apibūdinama kaip draugija; 1894 m. įkurta draugija, siekusi lietuvių skyriaus Paryžiaus parodoje. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje grupė „Ivinskio Draugija“ apibūdinama taip: Amerikos lietuvių draugija, rūpinusis lietuvišku skyriumi Paryžiaus parodoje."
+  teiginys: "Šaltinyje „Ivinskio Draugija“ apibūdinama kaip draugija; 1894 m. įkurta draugija, siekusi lietuvių skyriaus Paryžiaus parodoje."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Amerikos lietuvių draugija, rūpinusis lietuvišku skyriumi Paryžiaus parodoje.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
+  santrauka: 1894 m. įkurta draugija, siekusi lietuvių skyriaus Paryžiaus parodoje.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Jau 1894 m. trijų lietuvių klierikų, vėliau žymių veikėjų
+    kunigų,—A. Kaupo, A. Miluko ir J. Žilinsko,—pastangomis bu-
+    vo įkurta Ivinskio Draugija, kurios tikslas buvo rūpintis, kad
+    1900 m. pasaulinėje Paryžiaus parodoje būtų ir lietuvių skyrius;
+  citata_rodoma: |
     Jau 1894 m. trijų lietuvių klierikų, vėliau žymių veikėjų kunigų,—A. Kaupo, A. Miluko ir J. Žilinsko,—pastangomis buvo įkurta Ivinskio Draugija, kurios tikslas buvo rūpintis, kad 1900 m. pasaulinėje Paryžiaus parodoje būtų ir lietuvių skyrius;
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -1,19 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: "Henrikas Valua"
-sukurta: "2026-04-17"
-variantai:
-  - "Valua"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+sukurta: "2026-04-18"
+variantai: []
+aliases: 
+  - "Henrikas Valua"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
+laikotarpis: "1573–1574 m."
+datos: 
+  - "1573–1574 m."
 periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
+periodo_grupes: []
+amziai: 
+  - "XVI"
+date_start: "1573"
+date_end: "1574"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -22,59 +25,39 @@ patikimumas: "aukstas"
 # Henrikas Valua
 
 ## Santrauka
-
-Henrikas Valua šiame šaltinyje minimas pirmosios elekcijos ir valdovo rinkimų kontekste.
-
-## Variantai
-
-- Valua
+Šaltinyje Henrikas Valua apibūdinamas taip: Įvardytas pirmosios elekcijos skyriuje.
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
+- laikotarpis: 1573–1574 m.
+- datos: 1573–1574 m.
 - periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
-
-## Vaidmenys
-
-## Savybės
-
-## Šaltinių vaizdas
-- sutampantys vertinimai:
-- skirtingi vertinimai:
-
-## Dalyvavimas įvykiuose
+- periodo_grupes:
+- amziai: XVI
+- date_start: 1573
+- date_end: 1574
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Henrikas Valua šiame šaltinyje minimas pirmosios elekcijos ir valdovo rinkimų kontekste."
+  teiginys: "Šaltinyje Henrikas Valua apibūdinamas taip: Įvardytas pirmosios elekcijos skyriuje."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Citata pagrindžia asmens dalyvavimo ar istorinio įvykio kontekstą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Henrikas Valua _(Valois)._ Laimėjo šis pastarasis, nes jo
-    reikalavimai buvo mažiausi ir jis sutiko su visomis sąlygomis.
+  santrauka: Įvardytas pirmosios elekcijos skyriuje.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Pirmoji elekcija ir Henrikas Valua (1573—1574 m.)
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
