@@ -1,83 +1,79 @@
 ---
 tipas: vieta
 pavadinimas: "Žemaitija"
-sukurta: "2026-04-17"
-variantai:
-  - "Žemaitija"
-  - "Žemaitijos"
+sukurta: "2026-04-18"
+variantai: 
   - "Žemaičių"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+  - "žemaičių kraštą"
+  - "Žemaičiuose"
+  - "Žemaitiją"
+aliases: 
+  - "Žemaitija"
+  - "Žemaičių"
+  - "žemaičių kraštą"
+  - "Žemaičiuose"
+  - "Žemaitiją"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
+laikotarpis: "1413 m."
+datos: 
+  - "1413 m."
 periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "kraštas / sritis"
+periodo_grupes: []
+amziai: 
+  - "XV"
+date_start: "1413"
+date_end: "1413"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Žemaitija
 
 ## Santrauka
-Žemaitija tekste veikia kaip atskiras politinis ir karo regionas.
+Šaltinyje vieta „Žemaitija“ siejama su šiuo kontekstu: Minima kaip ordino puolamas ir vėliau žemaičių kovų su ordinu laukas. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Žemaitija
-- Žemaitijos
-- Žemaičių
+- Pagrindinė forma: Žemaitija
+- Šaltinyje fiksuotos formos: Žemaičių; žemaičių kraštą; Žemaičiuose; Žemaitiją
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- laikotarpis: 1413 m.
+- datos: 1413 m.
+- amziai: XV
+- date_start/date_end: 1413 / 1413
 
 ## Kas tai
-kraštas / sritis.
+- tipas: regionas; istorinis kraštas
 
 ## Geografinis ir istorinis kontekstas
-- tipas: kraštas / sritis
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Minima kaip ordino puolamas ir vėliau žemaičių kovų su ordinu laukas. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Žemaitija“ minimas kaip kraštas / sritis: Žemaitija tekste veikia kaip atskiras politinis ir karo regionas."
+  teiginys: "Šaltinyje vieta „Žemaitija“ siejama su šiuo kontekstu: Minima kaip ordino puolamas ir vėliau žemaičių kovų su ordinu laukas."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Žemaitija tekste veikia kaip atskiras politinis ir karo regionas.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    tėse. Geriau buvo įsikurti aukštesnėse Žemaitijos ir Aukštaitijos
-    lygumose, todėl čia gyventojų buvo tirščiau. Didžiulės, gi-
-    riomis apaugusios pelkės skyrė aukštaičius nuo Padauguvio
-    giminių. Rytuose nuo gudų juos skyrė didžiulės sausos girios.
+  santrauka: Minima kaip ordino puolamas ir vėliau žemaičių kovų su ordinu laukas.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    ordinas bandė plėsti karo
+    žygius ir į žemaičių bei aukštaičių kraštą, bet čia buvo skaudžiai
+    sumuštas (Šiaulių mūšyje 1236 m.).
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -1,83 +1,83 @@
 ---
 tipas: grupe
 pavadinimas: "Ambasadorių Konferencija"
-sukurta: "2026-04-17"
+sukurta: "2026-04-18"
 variantai: 
+  - "Didžiosios valstybės"
   - "vadinamoji Ambasadorių Konferencija"
 aliases: 
+  - "Ambasadorių Konferencija"
+  - "Didžiosios valstybės"
   - "vadinamoji Ambasadorių Konferencija"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
+laikotarpis: "1923 m."
 datos: 
-  - "1923 m"
-periodas: ""
-subperiodiai: []
+  - "1923 m."
+periodas: "siuolaikine_istorija"
+periodo_grupes: []
+amziai: 
+  - "XX"
 date_start: "1923"
 date_end: "1923"
-vaidmenys: 
-  - "konferencija"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Ambasadorių Konferencija
 
 ## Santrauka
-
-Didžiųjų valstybių konferencija, sprendusi Klaipėdos krašto klausimą.
+Šaltinyje „Ambasadorių Konferencija“ apibūdinama kaip konferencija; didžiųjų valstybių, vadinamoji Ambasadorių Konferencija, 1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės. (t-001)
 
 ## Pavadinimai šaltiniuose
-
-- „Ambasadorių Konferencija“
-- „vadinamoji Ambasadorių Konferencija“
+- Kanoninis pavadinimas: Ambasadorių Konferencija
+- Šaltinyje fiksuotos formos: Didžiosios valstybės; vadinamoji Ambasadorių Konferencija
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 1923 m
-- periodas:
-- subperiodiai:
+- laikotarpis: 1923 m.
+- datos: 1923 m.
+- periodas: siuolaikine_istorija
+- periodo_grupes: 
+- amziai: XX
 - date_start: 1923
 - date_end: 1923
 
 ## Kas tai
-
-Šaltinyje aiškiai nurodomas grupės tipas: konferencija.
+- tipas: konferencija
+Šaltinyje „Ambasadorių Konferencija“ apibūdinama kaip konferencija; didžiųjų valstybių, vadinamoji Ambasadorių Konferencija, 1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės. (t-001)
 
 ## Sudėtis ir vaidmuo
-- tipas: konferencija
-- laikotarpis: 
-- nariai:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios vietos:
+- Šaltinyje „Ambasadorių Konferencija“ apibūdinama kaip konferencija; didžiųjų valstybių, vadinamoji Ambasadorių Konferencija, 1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje grupė „Ambasadorių Konferencija“ apibūdinama taip: Didžiųjų valstybių konferencija, sprendusi Klaipėdos krašto klausimą."
+  teiginys: "Šaltinyje „Ambasadorių Konferencija“ apibūdinama kaip konferencija; didžiųjų valstybių, vadinamoji Ambasadorių Konferencija, 1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Didžiųjų valstybių konferencija, sprendusi Klaipėdos krašto klausimą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
+  santrauka: Didžiųjų valstybių, vadinamoji Ambasadorių Konferencija, 1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Didžiosios
+    valstybės, arba vadinamoji Ambasadorių Konferencija, buvo
+    patenkintos jų komisijos ir Lietuvos komisaro bendradarbiavimu
+    visų įvykių likvidavime ir 1923 metų vasario 16 d. nutarė Klai-
+    pėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui
+    suteikiant autonominį režimą.
+  citata_rodoma: |
     Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkintos jų komisijos ir Lietuvos komisaro bendradarbiavimu visų įvykių likvidavime ir 1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui suteikiant autonominį režimą.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

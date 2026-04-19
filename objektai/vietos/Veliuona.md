@@ -1,80 +1,69 @@
 ---
 tipas: vieta
 pavadinimas: "Veliuona"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
+  - "Veliuonos"
+aliases: 
   - "Veliuona"
   - "Veliuonos"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "miestas / pilis"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Veliuona
 
 ## Santrauka
-Veliuona siejama su Junigėda ir Panemunės pilių grandine.
+Šaltinyje vieta „Veliuona“ siejama su šiuo kontekstu: Minima kaip viena iš Panemunės pilių. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Veliuona
-- Veliuonos
+- Pagrindinė forma: Veliuona
+- Šaltinyje fiksuotos formos: Veliuonos
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-miestas / pilis.
+- tipas: pilis / vietovė
 
 ## Geografinis ir istorinis kontekstas
-- tipas: miestas / pilis
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Minima kaip viena iš Panemunės pilių. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Veliuona“ minimas kaip miestas / pilis: Veliuona siejama su Junigėda ir Panemunės pilių grandine."
+  teiginys: "Šaltinyje vieta „Veliuona“ siejama su šiuo kontekstu: Minima kaip viena iš Panemunės pilių."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Veliuona siejama su Junigėda ir Panemunės pilių grandine.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    Nemuno pusėje, prieš lietuvių pilis. (Veliuona čia pažymėtoji Junigėda, —
-    taip ji kurį laiką buvo vadinama XIII amž.).
-    muno vagas. Ordinas, norėdamas šį svarbų punktą užgrobti,
+  santrauka: Minima kaip viena iš Panemunės pilių.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Veliuona, Kolainiai, Bisėnai ir t.t. Tos Panemunės pilys turėjo
+    saugoti Dubysos upyną. Toliau į vakarus, Jūros paupyje, sto-
+    vėjo vadinamoji Gedimino pilis.
+  citata_rodoma: |
+    Veliuona, Kolainiai, Bisėnai ir t.t. Tos Panemunės pilys turėjo saugoti Dubysos upyną. Toliau į vakarus, Jūros paupyje, stovėjo vadinamoji Gedimino pilis.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

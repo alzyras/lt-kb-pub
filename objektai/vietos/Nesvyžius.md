@@ -1,81 +1,75 @@
 ---
 tipas: vieta
 pavadinimas: "Nesvyžius"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
+  - "Nesvyžiuje"
+  - "Nesvyžiaus"
+aliases: 
   - "Nesvyžius"
   - "Nesvyžiuje"
   - "Nesvyžiaus"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
+laikotarpis: "1602 m."
+datos: 
+  - "1602 m."
 periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "miestas"
+periodo_grupes: []
+amziai: 
+  - "XVII"
+date_start: "1602"
+date_end: "1602"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Nesvyžius
 
 ## Santrauka
-Nesvyžius minimas ir kaip mokyklų vieta, ir kaip Radvilų centras.
+Šaltinyje vieta „Nesvyžius“ siejama su šiuo kontekstu: Minimas kaip Radvilų liejyklos vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Nesvyžius
-- Nesvyžiuje
-- Nesvyžiaus
+- Pagrindinė forma: Nesvyžius
+- Šaltinyje fiksuotos formos: Nesvyžiuje; Nesvyžiaus
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- laikotarpis: 1602 m.
+- datos: 1602 m.
+- amziai: XVII
+- date_start/date_end: 1602 / 1602
 
 ## Kas tai
-miestas.
+- tipas: vietovė; miestas
 
 ## Geografinis ir istorinis kontekstas
-- tipas: miestas
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Minimas kaip Radvilų liejyklos vieta. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Nesvyžius“ minimas kaip miestas: Nesvyžius minimas ir kaip mokyklų vieta, ir kaip Radvilų centras."
+  teiginys: "Šaltinyje vieta „Nesvyžius“ siejama su šiuo kontekstu: Minimas kaip Radvilų liejyklos vieta."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Nesvyžius minimas ir kaip mokyklų vieta, ir kaip Radvilų centras.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    I Gardino apygardoj apygardėlinių mokyklų buvo šiose vietose: Vilniuje, Volkoviske, Višniove, Pastoviuose, Lydoje, Merkinėje,
-    ir Ščucine; II Naugarduko apygardoje jų buvo Minske, Cholopieničiuose, Nesvyžiuje, Slucke, Bobruiske, Berezvieče ir Lužkose.
+  santrauka: Minimas kaip Radvilų liejyklos vieta.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Gustavo Adolfo parodoje Stokholme 1932 m. Pirmoji (gražiausioji) yra
+    nulieta Nesvyžiaus Radvilų liejykloje 1602 m. Ant jos yra Radvilų herbas
+    ir atitinkamas užrašas. Švedai išvežė ją iš Biržų 1625 m.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

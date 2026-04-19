@@ -1,81 +1,77 @@
 ---
 tipas: grupe
 pavadinimas: "Lietuvių Namai"
-sukurta: "2026-04-17"
+sukurta: "2026-04-18"
 variantai: 
-  - "Lietuvių Namai"
+  - "Buenos Airės mieste įkurtas kelių organizacijų centras, pavadintas Lietuvių Namais"
 aliases: 
   - "Lietuvių Namai"
+  - "Buenos Airės mieste įkurtas kelių organizacijų centras, pavadintas Lietuvių Namais"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys: 
-  - "centras"
+laikotarpis: "1931 m."
+datos: 
+  - "1931 m."
+periodas: "siuolaikine_istorija"
+periodo_grupes: []
+amziai: 
+  - "XX"
+date_start: "1931"
+date_end: "1931"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Lietuvių Namai
 
 ## Santrauka
-
-Buenos Airių lietuvių centras, subūręs kelias organizacijas.
+Šaltinyje „Lietuvių Namai“ apibūdinama kaip organizacijų centras; 1931 m. Buenos Airėse buvo įkurtas kelių organizacijų centras, pavadintas Lietuvių Namais. (t-001)
 
 ## Pavadinimai šaltiniuose
-
-- „Lietuvių Namai“
+- Kanoninis pavadinimas: Lietuvių Namai
+- Šaltinyje fiksuotos formos: Buenos Airės mieste įkurtas kelių organizacijų centras, pavadintas Lietuvių Namais
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- laikotarpis: 1931 m.
+- datos: 1931 m.
+- periodas: siuolaikine_istorija
+- periodo_grupes: 
+- amziai: XX
+- date_start: 1931
+- date_end: 1931
 
 ## Kas tai
-
-Šaltinyje aiškiai nurodomas grupės tipas: centras.
+- tipas: organizacijų centras
+Šaltinyje „Lietuvių Namai“ apibūdinama kaip organizacijų centras; 1931 m. Buenos Airėse buvo įkurtas kelių organizacijų centras, pavadintas Lietuvių Namais. (t-001)
 
 ## Sudėtis ir vaidmuo
-- tipas: centras
-- laikotarpis: 
-- nariai:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios vietos:
+- Šaltinyje „Lietuvių Namai“ apibūdinama kaip organizacijų centras; 1931 m. Buenos Airėse buvo įkurtas kelių organizacijų centras, pavadintas Lietuvių Namais. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje grupė „Lietuvių Namai“ apibūdinama taip: Buenos Airių lietuvių centras, subūręs kelias organizacijas."
+  teiginys: "Šaltinyje „Lietuvių Namai“ apibūdinama kaip organizacijų centras; 1931 m. Buenos Airėse buvo įkurtas kelių organizacijų centras, pavadintas Lietuvių Namais."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Buenos Airių lietuvių centras, subūręs kelias organizacijas.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    buvo įkurtas kelių organizacijų centras, pavadintas Lietuvių Namais.
+  santrauka: 1931 m. Buenos Airėse buvo įkurtas kelių organizacijų centras, pavadintas Lietuvių Namais.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    1931 m. Lietuvos valdžiai remiant, Buenos Airės mieste
+    buvo įkurtas kelių organizacijų centras, pavadintas Lietuvių
+    Namais.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

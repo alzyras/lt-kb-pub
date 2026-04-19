@@ -1,85 +1,76 @@
 ---
 tipas: daiktas
 pavadinimas: "Rektoriaus lazda"
-sukurta: "2026-04-17"
-variantai:
-  - "Rektoriaus lazda"
+sukurta: "2026-04-18"
+variantai: 
+  - "rektoriaus valdžios ženklas"
   - "lazda"
-aliases: []
+  - "sidabrinė"
+aliases: 
+  - "Rektoriaus lazda"
+  - "rektoriaus valdžios ženklas"
+  - "lazda"
+  - "sidabrinė"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: 
   - "simbolis"
-laikotarpis: "Vazų laikai"
+laikotarpis: "Vazų laikais"
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "akademinės valdžios ženklas"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "aukstas"
 ---
 # Rektoriaus lazda
 
 ## Santrauka
-
-Rektoriaus lazda šaltinyje minima kaip sidabrinė akademinės valdžios ženklą turinti lazda, pradėta vartoti Vazų laikais.
+Šaltinyje „Rektoriaus lazda“ siejamas su šiuo kontekstu: Sidabrinė lazda čia pristatoma kaip rektoriaus valdžios ženklas, pradėtas vartoti Vazų laikais.
 
 ## Pavadinimai šaltiniuose
-
-- „Rektoriaus lazda“
+- rektoriaus valdžios ženklas
+- lazda
+- sidabrinė
 
 ## Laikotarpis ir datos
-
-- laikotarpis: Vazų laikai
+- laikotarpis: Vazų laikais
 - datos:
 - periodas:
-- subperiodiai:
+- periodo_grupes:
+- amziai:
 - date_start:
 - date_end:
 
 ## Kas tai
-
-Akademinės valdžios ženklas.
-
-## Naudojimas
-
-Šaltinis nurodo, kad rektoriaus lazda pradėta vartoti Vazų laikais.
-
-## Kontekstas
-
-- laikotarpis: Vazų laikai
-- susiję žmonės:
-- susiję įvykiai:
+Šaltinyje „Rektoriaus lazda“ siejamas su šiuo kontekstu: Sidabrinė lazda čia pristatoma kaip rektoriaus valdžios ženklas, pradėtas vartoti Vazų laikais.
 
 ## Teiginiai
-
 - id: t-001
-  teiginys: "Šaltinis nurodo, kad sidabrinė rektoriaus lazda pradėta vartoti Vazų laikais."
+  teiginys: "Šaltinyje „Rektoriaus lazda“ siejamas su šiuo kontekstu: Sidabrinė lazda čia pristatoma kaip rektoriaus valdžios ženklas, pradėtas vartoti Vazų laikais."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - id: q-001
-  santrauka: Rektoriaus lazda apibūdinama kaip sidabrinis valdžios ženklas.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Rektoriaus lazda (sidabrinė) pradėta vartoti Vazų laikais.
+  santrauka: Sidabrinė lazda čia pristatoma kaip rektoriaus valdžios ženklas, pradėtas vartoti Vazų laikais.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Rektoriaus lazda (sidabrinė) pradėta vartoti Vazų laikais. Jos viršuje
+    esančio Vyties skyde yra tas pats I H S ženklas.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo daiktą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

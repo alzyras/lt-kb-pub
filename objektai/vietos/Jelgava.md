@@ -1,84 +1,100 @@
 ---
 tipas: vieta
 pavadinimas: "Jelgava"
-sukurta: "2026-04-17"
-variantai:
-  - "Jelgava"
-  - "Jelgavoj"
+sukurta: "2026-04-18"
+variantai: 
   - "Jelgavoje"
-  - "Jelgalvoje"
+  - "Mintaujoje"
   - "Mintauja"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+aliases: 
+  - "Jelgava"
+  - "Jelgavoje"
+  - "Mintaujoje"
+  - "Mintauja"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
+laikotarpis: "1561 m."
+datos: 
+  - "1561 m."
 periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "miestas"
+periodo_grupes: []
+amziai: 
+  - "XVI"
+date_start: "1561"
+date_end: "1561"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Jelgava
 
 ## Santrauka
-Jelgava minima tiek Latvijos lietuvių veiklos, tiek geografinių ribų kontekste.
+Šaltinyje vieta „Jelgava“ siejama su šiais kontekstais: Jelgava minima kaip Kuršo ir Žiemgalos kunigaikštystės sostinė; Minima kaip Kuršo ir Žiemgalos kunigaikštijos sostinė. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
-- Jelgava
-- Jelgavoj
-- Jelgavoje
-- Jelgalvoje
-- Mintauja
+- Pagrindinė forma: Jelgava
+- Šaltinyje fiksuotos formos: Jelgavoje; Mintaujoje; Mintauja
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- laikotarpis: 1561 m.
+- datos: 1561 m.
+- amziai: XVI
+- date_start/date_end: 1561 / 1561
 
 ## Kas tai
-miestas.
+- tipas: miestas
 
 ## Geografinis ir istorinis kontekstas
-- tipas: miestas
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Jelgava minima kaip Kuršo ir Žiemgalos kunigaikštystės sostinė. (t-001)
+- Minima kaip Kuršo ir Žiemgalos kunigaikštijos sostinė. (t-002)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Jelgava“ minimas kaip miestas: Jelgava minima tiek Latvijos lietuvių veiklos, tiek geografinių ribų kontekste."
+  teiginys: "Šaltinyje vieta „Jelgava“ siejama su šiuo kontekstu: Jelgava minima kaip Kuršo ir Žiemgalos kunigaikštystės sostinė."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Šaltinyje vieta „Jelgava“ siejama su šiuo kontekstu: Minima kaip Kuršo ir Žiemgalos kunigaikštijos sostinė."
+  pagrindžia:
+    - q-002
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Jelgava minima tiek Latvijos lietuvių veiklos, tiek geografinių ribų kontekste.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    uždarbiauti. Be paprastų darbininkų, Rygoje, Liepojoje ir Jelgalvoje (Mintaujoje) tuomet apsigyveno nemaža ir lietuvių inteligentų, kurie ten ir pradėjo kultūrinę veiklą. Tuo metu, kai
+  santrauka: Jelgava minima kaip Kuršo ir Žiemgalos kunigaikštystės sostinė.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    o iš Kuršo ir Žiemgalos buvo sudaryta ku-
+    nigaikštystė su sostine Jelgavoje (Mintaujoje), kuri buvo pa-
+    vesta vasalo teisėmis valdyti Ketleriui, ligi pasibaigs jo giminė.
+  citata_rodoma: |
+    o iš Kuršo ir Žiemgalos buvo sudaryta kunigaikštystė su sostine Jelgavoje (Mintaujoje), kuri buvo pavesta vasalo teisėmis valdyti Ketleriui, ligi pasibaigs jo giminė.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
+- id: q-002
+  santrauka: Minima kaip Kuršo ir Žiemgalos kunigaikštijos sostinė.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    magistras Ketleris gavo iš vad. Kuršo ir
+    Žiemgalos susidedančią kunigaikštiją su sostine Jelgava (Min-
+    tauja).
+  citata_rodoma: |
+    magistras Ketleris gavo iš vad. Kuršo ir Žiemgalos susidedančią kunigaikštiją su sostine Jelgava (Mintauja).
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

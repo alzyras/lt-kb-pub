@@ -37,8 +37,9 @@ patikimumas: ""
 ## Reikšmingi paminėjimai
 - santrauka:
   šaltinis: [[<šaltinio aprašas>]]
-  citata: |
-    
+  citata_originali: |
+
+  citata_rodoma: ""
   pagrindžia:
 
 ## Ryšiai

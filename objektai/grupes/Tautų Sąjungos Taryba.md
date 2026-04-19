@@ -1,82 +1,78 @@
 ---
 tipas: grupe
 pavadinimas: "Tautų Sąjungos Taryba"
-sukurta: "2026-04-17"
+sukurta: "2026-04-18"
 variantai: 
-  - "Tautų S-gos Taryba"
+  - "T. S. Taryba"
 aliases: 
-  - "Tautų S-gos Taryba"
+  - "Tautų Sąjungos Taryba"
+  - "T. S. Taryba"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys: 
-  - "taryba"
+laikotarpis: "1920 m. spalių mėn. pabaigoj; 1921 m. kovo mėn. 3 d."
+datos: 
+  - "1920 m. spalių mėn. pabaigoj; 1921 m. kovo mėn. 3 d."
+periodas: "siuolaikine_istorija"
+periodo_grupes: []
+amziai: 
+  - "XX"
+date_start: "1920"
+date_end: "1921"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Tautų Sąjungos Taryba
 
 ## Santrauka
-
-Tautų Sąjungos valdymo organas, nagrinėjęs Klaipėdos klausimą.
+Šaltinyje „Tautų Sąjungos Taryba“ apibūdinama kaip taryba; Tautų Sąjungos Taryba siūlė ginčą spręsti plebiscitu Tautų Sąjungos priežiūroje. (t-001)
 
 ## Pavadinimai šaltiniuose
-
-- „Tautų Sąjungos Taryba“
-- „Tautų S-gos Taryba“
+- Kanoninis pavadinimas: Tautų Sąjungos Taryba
+- Šaltinyje fiksuotos formos: T. S. Taryba
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- laikotarpis: 1920 m. spalių mėn. pabaigoj; 1921 m. kovo mėn. 3 d.
+- datos: 1920 m. spalių mėn. pabaigoj; 1921 m. kovo mėn. 3 d.
+- periodas: siuolaikine_istorija
+- periodo_grupes: 
+- amziai: XX
+- date_start: 1920
+- date_end: 1921
 
 ## Kas tai
-
-Šaltinyje aiškiai nurodomas grupės tipas: taryba.
+- tipas: taryba
+Šaltinyje „Tautų Sąjungos Taryba“ apibūdinama kaip taryba; Tautų Sąjungos Taryba siūlė ginčą spręsti plebiscitu Tautų Sąjungos priežiūroje. (t-001)
 
 ## Sudėtis ir vaidmuo
-- tipas: taryba
-- laikotarpis: 
-- nariai:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios vietos:
+- Šaltinyje „Tautų Sąjungos Taryba“ apibūdinama kaip taryba; Tautų Sąjungos Taryba siūlė ginčą spręsti plebiscitu Tautų Sąjungos priežiūroje. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje grupė „Tautų Sąjungos Taryba“ apibūdinama taip: Tautų Sąjungos valdymo organas, nagrinėjęs Klaipėdos klausimą."
+  teiginys: "Šaltinyje „Tautų Sąjungos Taryba“ apibūdinama kaip taryba; Tautų Sąjungos Taryba siūlė ginčą spręsti plebiscitu Tautų Sąjungos priežiūroje."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Tautų Sąjungos valdymo organas, nagrinėjęs Klaipėdos klausimą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tautų Sąjungos Taryba, išklausiusi Lietuvos delegato (Galvanausko) protestą prieš tokį Ambasadorių Konferencijos skundą ir pranešimą apie priežastis, dėl kurių Lietuva negalėjo priimti pasiūlyto projekto be pataisų ir be rezervų, nusprendė sudaryti specialią komisiją konvencijos projektui paruošti, pašalinant visus nesusipratimus (1923.XII.17.).
+  santrauka: Tautų Sąjungos Taryba siūlė ginčą spręsti plebiscitu Tautų Sąjungos priežiūroje.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Lenkija nepaisė to reikalavimo, o T. S. Taryba, susirinkusi spa-
+    lių mėn. pabaigoj Briusely, pasiūlė visą tą ginčą išspręsti ple-
+    biscitu Tautų Sąjungos priežiūroje.
+  citata_rodoma: |
+    Lenkija nepaisė to reikalavimo, o T. S. Taryba, susirinkusi spalių mėn. pabaigoj Briusely, pasiūlė visą tą ginčą išspręsti plebiscitu Tautų Sąjungos priežiūroje.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

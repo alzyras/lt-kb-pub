@@ -1,82 +1,78 @@
 ---
 tipas: grupe
 pavadinimas: "Lietuvių Sąjunga Brazilijoje"
-sukurta: "2026-04-17"
+sukurta: "2026-04-18"
 variantai: 
-  - "Lietuvių Sąjunga Brazilijoje"
+  - "Lietuvių Sąjunga Bra-zilijoje"
 aliases: 
   - "Lietuvių Sąjunga Brazilijoje"
+  - "Lietuvių Sąjunga Bra-zilijoje"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
+laikotarpis: "1931 m."
 datos: 
   - "1931 m."
-periodas: ""
-subperiodiai: []
+periodas: "siuolaikine_istorija"
+periodo_grupes: []
+amziai: 
+  - "XX"
 date_start: "1931"
 date_end: "1931"
-vaidmenys: 
-  - "sąjunga"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Lietuvių Sąjunga Brazilijoje
 
 ## Santrauka
-
-Sao Paulo lietuvių organizacija, leidusi savaitraštį ir vienijusi tautišką veikimą.
+Šaltinyje „Lietuvių Sąjunga Brazilijoje“ apibūdinama kaip sąjunga; 1931 m. Brazilijoje susikūrusi lietuvių sąjunga ėmė leisti savaitraštį „Lietuvį Brazilijoje“. (t-001)
 
 ## Pavadinimai šaltiniuose
-
-- „Lietuvių Sąjunga Brazilijoje“
+- Kanoninis pavadinimas: Lietuvių Sąjunga Brazilijoje
+- Šaltinyje fiksuotos formos: Lietuvių Sąjunga Bra-zilijoje
 
 ## Laikotarpis ir datos
-- laikotarpis: 
+- laikotarpis: 1931 m.
 - datos: 1931 m.
-- periodas:
-- subperiodiai:
+- periodas: siuolaikine_istorija
+- periodo_grupes: 
+- amziai: XX
 - date_start: 1931
 - date_end: 1931
 
 ## Kas tai
-
-Šaltinyje aiškiai nurodomas grupės tipas: sąjunga.
+- tipas: sąjunga
+Šaltinyje „Lietuvių Sąjunga Brazilijoje“ apibūdinama kaip sąjunga; 1931 m. Brazilijoje susikūrusi lietuvių sąjunga ėmė leisti savaitraštį „Lietuvį Brazilijoje“. (t-001)
 
 ## Sudėtis ir vaidmuo
-- tipas: sąjunga
-- laikotarpis: 
-- nariai:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios vietos:
+- Šaltinyje „Lietuvių Sąjunga Brazilijoje“ apibūdinama kaip sąjunga; 1931 m. Brazilijoje susikūrusi lietuvių sąjunga ėmė leisti savaitraštį „Lietuvį Brazilijoje“. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje grupė „Lietuvių Sąjunga Brazilijoje“ apibūdinama taip: Sao Paulo lietuvių organizacija, leidusi savaitraštį ir vienijusi tautišką veikimą."
+  teiginys: "Šaltinyje „Lietuvių Sąjunga Brazilijoje“ apibūdinama kaip sąjunga; 1931 m. Brazilijoje susikūrusi lietuvių sąjunga ėmė leisti savaitraštį „Lietuvį Brazilijoje“."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Sao Paulo lietuvių organizacija, leidusi savaitraštį ir vienijusi tautišką veikimą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Jau 1931 m. čia susikūrė Lietuvių Sąjunga Brazilijoje.
+  santrauka: 1931 m. Brazilijoje susikūrusi lietuvių sąjunga ėmė leisti savaitraštį „Lietuvį Brazilijoje“.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Jau 1931 m. čia susikūrė Lietuvių Sąjunga Bra-
+    zilijoje. Ji ėmė leisti savaitraštį „Lietuvį Brazilijo-
+    je", kurs vėliau buvo pavadintas „Lietuviu".
+  citata_rodoma: |
+    Jau 1931 m. čia susikūrė Lietuvių Sąjunga Brazilijoje. Ji ėmė leisti savaitraštį „Lietuvį Brazilijoje", kurs vėliau buvo pavadintas „Lietuviu".
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

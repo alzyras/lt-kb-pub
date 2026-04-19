@@ -1,88 +1,57 @@
 ---
 tipas: asmuo
 pavadinimas: "J. Tonkūnas"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
   - "J. Tonkūnui"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+aliases: 
+  - "J. Tonkūnas"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "ministras"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # J. Tonkūnas
 
 ## Santrauka
-
-J. Tonkūnas šiame šaltinyje paminėtas kaip švietimo ministras, kuriam dėkojama už paramą.
+Šaltinyje J. Tonkūnas apibūdinamas taip: Paminėtas kaip švietimo ministras, kuriam padėkota už rūpestį leidiniu.
 
 ## Variantai
-
 - J. Tonkūnui
-
-## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
-
-## Vaidmenys
-
-- ministras
-
-## Savybės
-
-## Šaltinių vaizdas
-- sutampantys vertinimai:
-- skirtingi vertinimai:
-
-## Dalyvavimas įvykiuose
 
 ## Teiginiai
 - id: t-001
-  teiginys: "J. Tonkūnas šiame šaltinyje paminėtas kaip švietimo ministras, kuriam dėkojama už paramą."
+  teiginys: "Šaltinyje J. Tonkūnas apibūdinamas taip: Paminėtas kaip švietimo ministras, kuriam padėkota už rūpestį leidiniu."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Citata pagrindžia asmens pareigas arba vaidmenį.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
+  santrauka: Paminėtas kaip švietimo ministras, kuriam padėkota už rūpestį leidiniu.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
     Pirmiausia
-    tenka padėkoti p. Švietimo Ministeriui prof. J. Tonkūnui ir Vi-
-    ceministeriui K. Masiliūnui, kurie daugiausia rūpinosi renkant
-    bendradarbius, o vėliau visą laiką rodė dėmesį dirbamajam dar-
-    bui ir teikė reikiamos paramos.
+    tenka padėkoti p. Švietimo Ministeriui prof. J. Tonkūnui
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  priskyrimo_pagrindas: explicit_variant
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
-
-- Identiteto pastaba: Tekstas pateikia tik inicialą, todėl pilnas vardas nepatvirtinamas.
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

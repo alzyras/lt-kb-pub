@@ -1,82 +1,78 @@
 ---
 tipas: grupe
 pavadinimas: "Lietuvių Katalikų šv. Kazimiero draugija"
-sukurta: "2026-04-17"
+sukurta: "2026-04-18"
 variantai: 
-  - "Lietuvių Katalikų šv. Kazimiero draugija"
+  - "vietinė Lietuvių Katalikų šv. Kazimiero draugija"
 aliases: 
   - "Lietuvių Katalikų šv. Kazimiero draugija"
+  - "vietinė Lietuvių Katalikų šv. Kazimiero draugija"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
+laikotarpis: "1930 m."
 datos: 
   - "1930 m."
-periodas: ""
-subperiodiai: []
+periodas: "siuolaikine_istorija"
+periodo_grupes: []
+amziai: 
+  - "XX"
 date_start: "1930"
 date_end: "1930"
-vaidmenys: 
-  - "draugija"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Lietuvių Katalikų šv. Kazimiero draugija
 
 ## Santrauka
-
-Argentinos lietuvių katalikiška draugija, leidusi savaitraštį ir rėmusi tautinį darbą.
+Šaltinyje „Lietuvių Katalikų šv. Kazimiero draugija“ apibūdinama kaip draugija; 1930 m. ši draugija pradėjo leisti savaitraštį „Švyturį“, ir tai pagyvino tautišką veikimą Argentinoje. (t-001)
 
 ## Pavadinimai šaltiniuose
-
-- „Lietuvių Katalikų šv. Kazimiero draugija“
+- Kanoninis pavadinimas: Lietuvių Katalikų šv. Kazimiero draugija
+- Šaltinyje fiksuotos formos: vietinė Lietuvių Katalikų šv. Kazimiero draugija
 
 ## Laikotarpis ir datos
-- laikotarpis: 
+- laikotarpis: 1930 m.
 - datos: 1930 m.
-- periodas:
-- subperiodiai:
+- periodas: siuolaikine_istorija
+- periodo_grupes: 
+- amziai: XX
 - date_start: 1930
 - date_end: 1930
 
 ## Kas tai
-
-Šaltinyje aiškiai nurodomas grupės tipas: draugija.
+- tipas: draugija
+Šaltinyje „Lietuvių Katalikų šv. Kazimiero draugija“ apibūdinama kaip draugija; 1930 m. ši draugija pradėjo leisti savaitraštį „Švyturį“, ir tai pagyvino tautišką veikimą Argentinoje. (t-001)
 
 ## Sudėtis ir vaidmuo
-- tipas: draugija
-- laikotarpis: 
-- nariai:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios vietos:
+- Šaltinyje „Lietuvių Katalikų šv. Kazimiero draugija“ apibūdinama kaip draugija; 1930 m. ši draugija pradėjo leisti savaitraštį „Švyturį“, ir tai pagyvino tautišką veikimą Argentinoje. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje grupė „Lietuvių Katalikų šv. Kazimiero draugija“ apibūdinama taip: Argentinos lietuvių katalikiška draugija, leidusi savaitraštį ir rėmusi tautinį darbą."
+  teiginys: "Šaltinyje „Lietuvių Katalikų šv. Kazimiero draugija“ apibūdinama kaip draugija; 1930 m. ši draugija pradėjo leisti savaitraštį „Švyturį“, ir tai pagyvino tautišką veikimą Argentinoje."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Argentinos lietuvių katalikiška draugija, leidusi savaitraštį ir rėmusi tautinį darbą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tik 1930 m. vietinė Lietuvių Katalikų šv. Kazimiero draugija ėmė leisti savaitraštį „Švyturį", su kurio pasirodymu pagyvėjo ir visas tautiškas veikimas.
+  santrauka: 1930 m. ši draugija pradėjo leisti savaitraštį „Švyturį“, ir tai pagyvino tautišką veikimą Argentinoje.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Tik 1930 m. vietinė Lietuvių Katalikų šv. Kazimiero draugija
+    ėmė leisti savaitraštį
+    „Švyturį", su kurio pasirodymu pagyvėjo ir visas tautiškas
+    veikimas.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

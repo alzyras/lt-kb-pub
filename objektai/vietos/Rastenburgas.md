@@ -1,97 +1,68 @@
 ---
 tipas: vieta
 pavadinimas: "Rastenburgas"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: []
+aliases: 
   - "Rastenburgas"
-  - "Rastenburgo"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: "1252 m., 1289 m., 1293 m., 1325 m., 1335 m., 1337 m., 1340 m., 1345 m., 1353 m., 1395 m., 1398 m., 1435 m."
-datos:
-  - "1252 m."
-  - "1289 m."
-  - "1293 m."
-  - "1325 m."
-  - "1335 m."
-  - "1337 m."
-  - "1340 m."
+laikotarpis: "1345 m."
+datos: 
   - "1345 m."
-  - "1353 m."
-  - "1395 m."
-  - "1398 m."
-  - "1435 m."
 periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "pilis / miestas"
+periodo_grupes: []
+amziai: 
+  - "XIV"
+date_start: "1345"
+date_end: "1345"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Rastenburgas
 
 ## Santrauka
-Rastenburgas pateikiamas kaip viena iš ordino pilių.
+Šaltinyje vieta „Rastenburgas“ siejama su šiuo kontekstu: Įvardytas kartu su Johanisburgu kaip ordino pilis su įkūrimo data. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Rastenburgas
-- Rastenburgo
+- Pagrindinė forma: Rastenburgas
 
 ## Laikotarpis ir datos
-- laikotarpis: 1252 m., 1289 m., 1293 m., 1325 m., 1335 m., 1337 m., 1340 m., 1345 m., 1353 m., 1395 m., 1398 m., 1435 m.
-- datos: 1252 m., 1289 m., 1293 m., 1325 m., 1335 m., 1337 m., 1340 m., 1345 m., 1353 m., 1395 m., 1398 m., 1435 m.
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- laikotarpis: 1345 m.
+- datos: 1345 m.
+- amziai: XIV
+- date_start/date_end: 1345 / 1345
 
 ## Kas tai
-pilis / miestas.
+- tipas: pilis
 
 ## Geografinis ir istorinis kontekstas
-- tipas: pilis / miestas
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Įvardytas kartu su Johanisburgu kaip ordino pilis su įkūrimo data. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Rastenburgas“ minimas kaip pilis / miestas: Rastenburgas pateikiamas kaip viena iš ordino pilių."
+  teiginys: "Šaltinyje vieta „Rastenburgas“ siejama su šiuo kontekstu: Įvardytas kartu su Johanisburgu kaip ordino pilis su įkūrimo data."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Rastenburgas pateikiamas kaip viena iš ordino pilių.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    pastatytos jau karams besibaigiant. Štai Lietuvai artimesniųjų pilių įkūrimo
-    datos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava —
-    1325 m., Vėluva ir Angerburgas — 1335 m., Įsrutis ir Röselis — 1337 m.,
-    Lotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m.,
-    Alenšteinas — 1353 m., Ortelsburgas — taip pat XIV a. vidury, Bišofsburgas—
-    1395 m., Lyka — 1398 m. (miestelis prie jos pradėtas kurti tik 1435 m. ), ir t.t.
-    - Kaip matome, Į pietus nuo Ragainės, be vėlyvos Lykos pilaitės, nebuvo
-        jokios ordino pilies.
+  santrauka: Įvardytas kartu su Johanisburgu kaip ordino pilis su įkūrimo data.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Lotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m., Alenšteinas — 1353 m.,
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

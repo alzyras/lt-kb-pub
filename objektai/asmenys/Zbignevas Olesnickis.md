@@ -1,23 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: "Zbignevas Olesnickis"
-sukurta: "2026-04-17"
-variantai:
-  - "Olesnickis"
-  - "Zbignevo Olesnickio"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+sukurta: "2026-04-18"
+variantai: 
+  - "vysk. Zbignevas Olesnickis"
+aliases: 
+  - "Zbignevas Olesnickis"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: "1455 m."
-datos:
-  - "1455 m."
+laikotarpis: ""
+datos: []
 periodas: ""
-subperiodiai: []
-date_start: "1455"
-date_end: "1455"
-vaidmenys:
-  - "Lietuvos Tarybos narys"
+periodo_grupes: []
+amziai: []
+date_start: ""
+date_end: ""
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukstas"
@@ -25,62 +24,36 @@ patikimumas: "aukstas"
 # Zbignevas Olesnickis
 
 ## Santrauka
-
-Šaltinyje nurodoma, kad olesnickis mirė 1455 m., pasku-.
+Šaltinyje Zbignevas Olesnickis apibūdinamas taip: Lenkų ponų tarybos vadovas, priešinęsis Vytauto karūnacijai.
 
 ## Variantai
-
-- Olesnickis
-- Zbignevo Olesnickio
-
-## Laikotarpis ir datos
-- laikotarpis: 1455 m.
-- datos: 1455 m.
-- periodas:
-- subperiodiai:
-- date_start: 1455
-- date_end: 1455
-
-## Vaidmenys
-
-- Lietuvos Tarybos narys
-
-## Savybės
-
-## Šaltinių vaizdas
-- sutampantys vertinimai:
-- skirtingi vertinimai:
-
-## Dalyvavimas įvykiuose
+- vysk. Zbignevas Olesnickis
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje nurodoma, kad olesnickis mirė 1455 m., pasku-."
+  teiginys: "Šaltinyje Zbignevas Olesnickis apibūdinamas taip: Lenkų ponų tarybos vadovas, priešinęsis Vytauto karūnacijai."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Citata pagrindžia asmens pareigas arba vaidmenį.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Olesnickis mirė 1455 m., pasku-
-    tinius 10 m. gyvendamas nuošaliai.
+  santrauka: Lenkų ponų tarybos vadovas, priešinęsis Vytauto karūnacijai.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    bet griežčiausiai pasipriešino Lenkų ponų taryba, kuriai vado-
+    vavo Lietuvos savarankiškumo priešas, vysk. Zbignevas
+    Olesnickis.
+  citata_rodoma: |
+    bet griežčiausiai pasipriešino Lenkų ponų taryba, kuriai vadovavo Lietuvos savarankiškumo priešas, vysk. Zbignevas Olesnickis.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  priskyrimo_pagrindas: adjacent_named_context
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

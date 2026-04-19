@@ -1,79 +1,68 @@
 ---
 tipas: vieta
 pavadinimas: "Suvalkų kraštas"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
+  - "Suvalkų krašte"
+aliases: 
   - "Suvalkų kraštas"
   - "Suvalkų krašte"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "kraštas / sritis"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Suvalkų kraštas
 
 ## Santrauka
-Minimas kaip žemės lyguma ir pasienio erdvė.
+Šaltinyje vieta „Suvalkų kraštas“ siejama su šiuo kontekstu: Minimas kaip girios kraštas prie Nemuno. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Suvalkų kraštas
-- Suvalkų krašte
+- Pagrindinė forma: Suvalkų kraštas
+- Šaltinyje fiksuotos formos: Suvalkų krašte
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-kraštas / sritis.
+- tipas: kraštas / regionas
 
 ## Geografinis ir istorinis kontekstas
-- tipas: kraštas / sritis
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Minimas kaip girios kraštas prie Nemuno. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Suvalkų kraštas“ minimas kaip kraštas / sritis: Minimas kaip žemės lyguma ir pasienio erdvė."
+  teiginys: "Šaltinyje vieta „Suvalkų kraštas“ siejama su šiuo kontekstu: Minimas kaip girios kraštas prie Nemuno."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Minimas kaip žemės lyguma ir pasienio erdvė.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    jotvingų gyvenamos pietinės sritys ir jų šiaurinė dalis. Dabartinėj mūsų Suvalkų krašto lygumoj, Mažojoj Lietuvoj ir didelėj
-    Prūsų daly buvo pilna nepereinamų pelkių ir girių. Gyventojų
+  santrauka: Minimas kaip girios kraštas prie Nemuno.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Aukščiau Dubysos žiočių, Lietuvos valstybei priklausė jau abi
+    Nemuno pusės (dabartiniame Suvalkų krašte buvo didžiulė giria,
+    ir ten nebuvo pasistatę pilių nei kryžiuočiai nei lietuviai).
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

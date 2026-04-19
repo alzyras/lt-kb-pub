@@ -1,80 +1,78 @@
 ---
 tipas: vieta
 pavadinimas: "Daugpilis"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
+  - "Daugpilį"
+aliases: 
   - "Daugpilis"
-  - "Daugpily"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+  - "Daugpilį"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
+laikotarpis: "1274 m."
+datos: 
+  - "1274 m."
 periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "miestas"
+periodo_grupes: []
+amziai: 
+  - "XIII"
+date_start: "1274"
+date_end: "1274"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Daugpilis
 
 ## Santrauka
-Daugpilis minimas Latvijos ir pasienio mokyklų bei sienų kontekste.
+Šaltinyje vieta „Daugpilis“ siejama su šiuo kontekstu: Minimas kaip ordino pastatyta pilis Naujinio vietoje. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Daugpilis
-- Daugpily
+- Pagrindinė forma: Daugpilis
+- Šaltinyje fiksuotos formos: Daugpilį
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- laikotarpis: 1274 m.
+- datos: 1274 m.
+- amziai: XIII
+- date_start/date_end: 1274 / 1274
 
 ## Kas tai
-miestas.
+- tipas: pilis / tvirtovė
 
 ## Geografinis ir istorinis kontekstas
-- tipas: miestas
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Minimas kaip ordino pastatyta pilis Naujinio vietoje. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Daugpilis“ minimas kaip miestas: Daugpilis minimas Latvijos ir pasienio mokyklų bei sienų kontekste."
+  teiginys: "Šaltinyje vieta „Daugpilis“ siejama su šiuo kontekstu: Minimas kaip ordino pastatyta pilis Naujinio vietoje."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Daugpilis minimas Latvijos ir pasienio mokyklų bei sienų kontekste.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    piegos f-ja). Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
-    Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
-    Alūkstoje, Daugpily, Jelgavoj ir kitur.
+  santrauka: Minimas kaip ordino pastatyta pilis Naujinio vietoje.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Po Durbės mūšio sukilusias kiltis ordinas jau buvo
+    nugalėjęs. Traidenis net kelis kartus skaudžiai sumušė Livonijos
+    ordino kariuomenę ir ne kartą su savo kariuomene skersai ir
+    išilgai išvaikščiojo ordino žemes, tačiau nepajėgė sugriauti jo
+    galingų pilių. Tuo būdu ordinas atsilaikė, kai kur net pasistū-
+    mėjo į Lietuvos pusę. Taip antai, vienų paliaubų metu ordinas
+    (1274 m.) Naujinio vietoje pastatė Daugpilį.
+  citata_rodoma: |
+    Po Durbės mūšio sukilusias kiltis ordinas jau buvo nugalėjęs. Traidenis net kelis kartus skaudžiai sumušė Livonijos ordino kariuomenę ir ne kartą su savo kariuomene skersai ir išilgai išvaikščiojo ordino žemes, tačiau nepajėgė sugriauti jo galingų pilių. Tuo būdu ordinas atsilaikė, kai kur net pasistūmėjo į Lietuvos pusę. Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Daugpilį.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -1,19 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: "Švitrigaila"
-sukurta: "2026-04-17"
-variantai:
-  - "Švitrigailos"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+sukurta: "2026-04-18"
+variantai: []
+aliases: 
+  - "Švitrigaila"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
+laikotarpis: "1430–1432 m."
+datos: 
+  - "1430–1432 m."
 periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
+periodo_grupes: []
+amziai: 
+  - "XV"
+date_start: "1430"
+date_end: "1432"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -22,58 +25,39 @@ patikimumas: "aukstas"
 # Švitrigaila
 
 ## Santrauka
-
-Šaltinyje nurodoma, kad Švitrigaila nuo pat jaunystės buvo didelis nenuorama.
-
-## Variantai
-
-- Švitrigailos
+Šaltinyje Švitrigaila apibūdinamas taip: Įvardytas kaip kovų su Lenkija veikėjas.
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
+- laikotarpis: 1430–1432 m.
+- datos: 1430–1432 m.
 - periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
-
-## Vaidmenys
-
-## Savybės
-
-## Šaltinių vaizdas
-- sutampantys vertinimai:
-- skirtingi vertinimai:
-
-## Dalyvavimas įvykiuose
+- periodo_grupes:
+- amziai: XV
+- date_start: 1430
+- date_end: 1432
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje nurodoma, kad Švitrigaila nuo pat jaunystės buvo didelis nenuorama."
+  teiginys: "Šaltinyje Švitrigaila apibūdinamas taip: Įvardytas kaip kovų su Lenkija veikėjas."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Citata pagrindžia asmens veiksmą šaltinyje.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Švitrigaila nuo pat jaunystės buvo didelis nenuorama.
+  santrauka: Įvardytas kaip kovų su Lenkija veikėjas.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Švitrigaila ir jo kovos su Lenkija (1430—1432 m.)
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

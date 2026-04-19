@@ -1,85 +1,75 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "pacta conventa"
-sukurta: "2026-04-17"
-variantai:
-  - "pacta conventa punktų"
-aliases: []
+sukurta: "2026-04-18"
+variantai: []
+aliases: 
+  - "pacta conventa"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - "istorinė-sąvoka"
-laikotarpis: ""
-datos: []
-periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "žodyno terminas"
-  - "monarcho rinkimai, politinė sutartis"
+  - "teisinis-terminas"
+laikotarpis: "1697 m."
+datos: 
+  - "1697 m."
+periodas: "ankstyvieji_naujieji_laikai"
+periodo_grupes: []
+amziai: 
+  - "XVII"
+date_start: "1697"
+date_end: "1697"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "aukstas"
 ---
 # pacta conventa
 
 ## Santrauka
-
-Terminas „pacta conventa“ šiame šaltinyje vartojamas reikšme: valdovo rinkimo metu duodami sutartiniai įsipareigojimai. Šaltinis taip pat rodo, kad pacta conventa punktų sulaužymas galėjo būti naudojamas kaip kaltinimas valdovui.
+Šaltinyje „pacta conventa“ vartojama taip: Valdovo priimtos rinkimų sąlygos ir įsipareigojimai. (t-001)
 
 ## Žodis ir formos
+- Kanoninis pavadinimas: pacta conventa
 
-- Pagrindinė forma: „pacta conventa“.
-- Šaltinyje rasta forma: „pacta conventa“.
-- Šaltinyje rasta forma: „pacta conventa punktų“.
+## Laikotarpis ir datos
+- laikotarpis: 1697 m.
+- datos: 1697 m.
+- periodas: ankstyvieji_naujieji_laikai
+- periodo_grupes: 
+- amziai: XVII
+- date_start: 1697
+- date_end: 1697
 
 ## Reikšmė iš konteksto
-
-valdovo rinkimo metu duodami sutartiniai įsipareigojimai ir jų punktai.
+- Valdovo priimtos rinkimų sąlygos ir įsipareigojimai. (t-001)
 
 ## Vartojimas
-
-Vartojimo sritis šaltinyje: monarcho rinkimai, politinė sutartis.
+Terminas šaltinyje vartojamas šiame kontekste: valdovų rinkimai, politinė istorija. (t-001)
 
 ## Teiginiai
-
 - id: t-001
-  teiginys: "Pagal vietinį šaltinio kontekstą terminas „pacta conventa“ reiškia: valdovo rinkimo metu duodami sutartiniai įsipareigojimai."
+  teiginys: "Šaltinyje „pacta conventa“ vartojama taip: Valdovo priimtos rinkimų sąlygos ir įsipareigojimai."
   pagrindžia:
     - q-001
-    - q-002
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - id: q-001
-  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „pacta conventa“.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Be vadinamųjų Henriko artikulų, naujajam karaliui dar
-    buvo pateiktos sąlygos, liečiančios jį patį. Jos buvo surašytos
-    kitam rašte, vadinamam _pacta conventa._ Toksai aktas _(pacta
-    conventa)_ vėliau būdavo pateikiamas kiekvienam naujam kara-
-    liui, ir kiekvienam valdovui teikiamosios sąlygos bent kiek
-    skirdavosi.
+  santrauka: Terminas vartojamas kaip valdovo įsipareigojimų ir suvaržymų rinkinys, kuriuo remiantis jis negalėjo laikyti kariuomenės prie savęs.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Kadangi pagal pacta conventa jis negalėjo
+    prie savęs laikyti tos kariuomenės, tai jis sugalvojo ją pasilikti,
+    
+    apsiimdamas atkariauti turkų užimtas Podolės sritis.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia termino vartoseną arba aiškinimą šaltinyje."
   pagrindžia:
     - t-001
-- id: q-002
-  santrauka: Pacta conventa punktų sulaužymas minimas kaip politinis kaltinimas valdovui.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Kai, mirus pirmajai
-    žmonai Onai, jis ketino vesti jos seserį, jo politiniai priešai
-    apkaltino jį sulaužius _pacta conventa_ punktus ir pakėlė maištą.
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
+
+## Ryšiai
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

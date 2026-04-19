@@ -1,16 +1,19 @@
 ---
 tipas: asmuo
 pavadinimas: "Kęstutis"
-sukurta: "2026-04-17"
-variantai: []
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+sukurta: "2026-04-18"
+variantai: 
+  - "Kęstučio"
+aliases: 
+  - "Kęstutis"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
 vaidmenys: []
@@ -21,60 +24,33 @@ patikimumas: "aukstas"
 # Kęstutis
 
 ## Santrauka
-
-Šaltinyje nurodoma, kad Kęstutis buvo tikras karys, tikras savo krašto gynėjas.
+Šaltinyje Kęstutis apibūdinamas taip: Paminėtas kartu su Kęstučiu kaip atskiro laikotarpio valdovas.
 
 ## Variantai
-
-## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
-
-## Vaidmenys
-
-## Savybės
-- gebėjimai:
-  - santrauka: Šaltinyje nurodoma, kad Kęstutis buvo tikras karys, tikras savo krašto gynėjas.
-    šaltiniai:
-      - [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltinių vaizdas
-- sutampantys vertinimai:
-- skirtingi vertinimai:
-
-## Dalyvavimas įvykiuose
+- Kęstučio
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje nurodoma, kad Kęstutis buvo tikras karys, tikras savo krašto gynėjas."
+  teiginys: "Šaltinyje Kęstutis apibūdinamas taip: Paminėtas kartu su Kęstučiu kaip atskiro laikotarpio valdovas."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Citata pagrindžia šaltinyje pateiktą asmens apibūdinimą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Kęstutis buvo tikras karys, tikras savo krašto gynėjas.
-  teiginio_tipas: vertinimas
-  patikimumo_lygis: vidutinis
+  santrauka: Paminėtas kartu su Kęstučiu kaip atskiro laikotarpio valdovas.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Algirdo ir Kęstučio laikai
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  priskyrimo_pagrindas: explicit_variant
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

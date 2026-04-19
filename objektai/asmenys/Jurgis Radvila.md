@@ -1,23 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: "Jurgis Radvila"
-sukurta: "2026-04-17"
-variantai:
-  - "Jurgis"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - "vyskupas"
-laikotarpis: "1600 m."
-datos:
-  - "1600 m."
+sukurta: "2026-04-18"
+variantai: []
+aliases: 
+  - "Jurgis Radvila"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
+laikotarpis: "1510—1514 m.; 1522—1527 m.; 1527—1541 m.; 1521—1531 m.; 1531—1541 m."
+datos: 
+  - "1510—1514 m.; 1522—1527 m.; 1527—1541 m.; 1521—1531 m.; 1531—1541 m."
 periodas: ""
-subperiodiai: []
-date_start: "1600"
-date_end: "1600"
-vaidmenys:
-  - "vyskupas"
+periodo_grupes: []
+amziai: 
+  - "XVI"
+date_start: "1510"
+date_end: "1541"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukstas"
@@ -25,60 +25,45 @@ patikimumas: "aukstas"
 # Jurgis Radvila
 
 ## Santrauka
-
-Šaltinyje nurodoma, kad jurgis († 1600 m.) — buvo Vilniaus vyskupu.
-
-## Variantai
-
-- Jurgis
+Šaltinyje Jurgis Radvila apibūdinamas taip: Biržų Radvilų šakos tėvas, buvęs Kijevo vaivada, Trakų ir Vilniaus kaštelionas bei lauko hetmonas.
 
 ## Laikotarpis ir datos
-- laikotarpis: 1600 m.
-- datos: 1600 m.
+- laikotarpis: 1510—1514 m.; 1522—1527 m.; 1527—1541 m.; 1521—1531 m.; 1531—1541 m.
+- datos: 1510—1514 m.; 1522—1527 m.; 1527—1541 m.; 1521—1531 m.; 1531—1541 m.
 - periodas:
-- subperiodiai:
-- date_start: 1600
-- date_end: 1600
-
-## Vaidmenys
-
-- vyskupas
-
-## Savybės
-
-## Šaltinių vaizdas
-- sutampantys vertinimai:
-- skirtingi vertinimai:
-
-## Dalyvavimas įvykiuose
+- periodo_grupes:
+- amziai: XVI
+- date_start: 1510
+- date_end: 1541
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje nurodoma, kad jurgis († 1600 m.) — buvo Vilniaus vyskupu."
+  teiginys: "Šaltinyje Jurgis Radvila apibūdinamas taip: Biržų Radvilų šakos tėvas, buvęs Kijevo vaivada, Trakų ir Vilniaus kaštelionas bei lauko hetmonas."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Citata pagrindžia asmens pareigas arba vaidmenį.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Jurgis († 1600 m.) — buvo Vilniaus vyskupu
+  santrauka: Biržų Radvilų šakos tėvas, buvęs Kijevo vaivada, Trakų ir Vilniaus kaštelionas bei lauko hetmonas.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Jurgis Radvila,
+    Biržų Radvilų šakos tėvas, 1510—
+    1514 m.Kijevo vaivada; 1522—1527 m
+    Trakų, o 1527-1541 m. Vilniaus kaš-
+    telionas; 1521 — 1531 m. lauko (kiemo)
+    hetmonas, 1531—1541 m. d. hetmonas.
+  citata_rodoma: |
+    Jurgis Radvila, Biržų Radvilų šakos tėvas, 1510— 1514 m.Kijevo vaivada; 1522—1527 m Trakų, o 1527-1541 m. Vilniaus kaštelionas; 1521 — 1531 m. lauko (kiemo) hetmonas, 1531—1541 m. d. hetmonas.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

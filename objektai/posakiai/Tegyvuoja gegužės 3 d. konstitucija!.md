@@ -1,80 +1,70 @@
 ---
 tipas: posakis
 pavadinimas: "Tegyvuoja gegužės 3 d. konstitucija!"
-sukurta: "2026-04-17"
-variantai:
-  - "Te-gyvuoja gegužės 3 d. konstitucija!"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
-zymos: []
-laikotarpis: "1823 m."
-datos:
-  - "1823 m."
+sukurta: "2026-04-18"
+variantai: 
+  - "Tegyvuoja gegužės 3 d. konstitucija!"
+aliases: 
+  - "Tegyvuoja gegužės 3 d. konstitucija!"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: 
+  - "formulė"
+laikotarpis: ""
+datos: []
 periodas: ""
-subperiodiai: []
-date_start: "1823"
-date_end: "1823"
-vaidmenys:
-  - "politinis šūkis"
-dalyviai:
-  - "Vilniaus gimnazijos mokinys"
+periodo_grupes: []
+amziai: []
+date_start: ""
+date_end: ""
+vaidmenys: []
+dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "aukstas"
 ---
 # Tegyvuoja gegužės 3 d. konstitucija!
 
 ## Santrauka
-
-„Tegyvuoja gegužės 3 d. konstitucija!“ šaltinyje minima kaip 1823 m. Vilniaus gimnazijos mokinio ant lentos užrašytas šūkis.
+Šaltinyje užfiksuota formuluotė „Tegyvuoja gegužės 3 d. konstitucija!“; kontekstas: Užrašas ant lentos, išreiškiantis reforminės konstitucijos idealizavimą ir laisvės siekį. Reikšmė: Šūkiu skambantis politinis palaikymo užrašas. (t-001)
 
 ## Forma
-
-- „Tegyvuoja gegužės 3 d. konstitucija!“
+- pagrindinė forma: Tegyvuoja gegužės 3 d. konstitucija! (t-001)
 
 ## Variantai
-
-- „Te-gyvuoja gegužės 3 d. konstitucija!“
+- Tegyvuoja gegužės 3 d. konstitucija!
 
 ## Laikotarpis ir datos
-
-- laikotarpis: 1823 m.
-- datos:
-  - 1823 m.
-- periodas:
-- subperiodiai:
-- date_start: 1823
-- date_end: 1823
+- Šaltinyje aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
-
-Šaltinyje šūkis siejamas su Vilniaus mokinių ir studentų aplinka; po užrašo prasidėjo kratos ir areštai.
+Užrašas ant lentos, išreiškiantis reforminės konstitucijos idealizavimą ir laisvės siekį. (t-001)
 
 ## Reikšmė
-
-Palaikymas Gegužės 3 d. konstitucijai, kuri šaltinyje vadinama siektinu idealu ir laisvės garantija.
+Šūkiu skambantis politinis palaikymo užrašas. (t-001)
 
 ## Teiginiai
-
 - id: t-001
-  teiginys: "Šaltinyje frazė „Tegyvuoja gegužės 3 d. konstitucija!“ minima kaip Vilniaus gimnazijos mokinio 1823 m. ant lentos užrašytas šūkis; Gegužės 3 d. konstitucija čia aiškinama kaip siektinas idealas ir laisvės garantija."
+  teiginys: "Šaltinyje užfiksuota formuluotė „Tegyvuoja gegužės 3 d. konstitucija!“; kontekstas: Užrašas ant lentos, išreiškiantis reforminės konstitucijos idealizavimą ir laisvės siekį."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - id: q-001
-  santrauka: Vilniaus gimnazijos mokinio užrašas ir jo paaiškinimas.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    Tik visai netikėtai beplintantį judėjimą 1823 m. išardė rusai.
-    Vienas Vilniaus gimnazijos mokinys ant lentos užrašė: „Tegyvuoja gegužės 3 d. konstitucija!" (mat, ši reforminio
-    seimo konstitucija lenkų ir Lietuvos bajorijos buvo laikoma siektinu idealu ir laisvės garantija).
+  santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Vienas Vilniaus gimnazijos mokinys ant lentos užrašė: „Te-
+    gyvuoja gegužės 3 d. konstitucija!"
+  citata_rodoma: |
+    Vienas Vilniaus gimnazijos mokinys ant lentos užrašė: „Tegyvuoja gegužės 3 d. konstitucija!"
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia formuluotės buvimą ir jos vartojimo kontekstą šaltinyje."
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

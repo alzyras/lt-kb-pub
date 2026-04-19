@@ -1,93 +1,60 @@
 ---
 tipas: autorius
 pavadinimas: "T. Korzon"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: []
+aliases: 
   - "T. Korzon"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1909-1923 m. bibliografijos kontekstas"
-datos:
-  - "1909 m."
-  - "1923 m."
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: 
+  - "autorius"
+laikotarpis: ""
+datos: []
 periodas: ""
-subperiodiai: []
-date_start: "1909"
-date_end: "1923"
-vaidmenys:
-  - autorius
-  - tyrėjas
-dalyviai: []
+periodo_grupes: []
+amziai: []
+date_start: ""
+date_end: ""
+vaidmenys: 
+  - "autorius"
+dalyviai: 
+  - "T. Korzon"
 susije_irasai: []
 patikimumas: "vidutinis"
 ---
 # T. Korzon
 
 ## Santrauka
-
-T. Korzon bibliografijoje minimas kaip karo ir kariuomenės istorijos darbų autorius.
-
-## Laikotarpis ir datos
-- laikotarpis: 1909-1923 m. bibliografijos kontekstas
-- datos: 1909 m.; 1923 m.
-- periodas:
-- subperiodiai:
-- date_start: 1909
-- date_end: 1923
+Šaltinyje T. Korzon minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip karo ir karo istorijos autorius.
 
 ## Darbai
-
-- „Dzieje wojen i wojskowości w Polsce“.
-- „Organizacja wojska Litwy w okresie jagiellońskim“.
+- Bibliografijoje nurodytas kaip karo ir karo istorijos autorius. (t-001)
 
 ## Kontekstas
-
-Autorius minimas ir prie bendrųjų veikalų, ir prie XVI a. valstybės santvarkos bibliografijos.
+- Bibliografinė eilutė tiesiogiai įvardija Korzoną kaip veikalo autorių. (q-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Bibliografijoje T. Korzon pateikiamas kaip karo ir kariuomenės istorijos darbų autorius."
+  teiginys: "Šaltinyje T. Korzon autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip karo ir karo istorijos autorius."
   pagrindžia:
     - q-001
-    - q-002
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Bibliografijoje T. Korzon siejamas su karo istorijos veikalu.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    T. _Korzon,_ Dzieje
-    wojen i wojskowości w Polsce, I—III (1923)
+  santrauka: Bibliografijoje nurodytas kaip karo ir karo istorijos autorius.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    _V. Smoleński,_ Lenkų t. ist. (1925; _Kasakaičio_ vert.); T. _Korzon,_ Dzieje
+    wojen i wojskowości w Polsce, I—III (1923); _A. Bruckner,_ Dzieje kultury
+  citata_rodoma: |
+    V. Smoleński, Lenkų t. ist. (1925; Kasakaičio vert.); T. Korzon, Dzieje wojen i wojskowości w Polsce, I—III (1923); A. Bruckner, Dzieje kultury
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su veikalu."
+  priskyrimo_pagrindas: explicit_variant
+  patikimumo_pagrindimas: "Bibliografinė eilutė tiesiogiai įvardija Korzoną kaip veikalo autorių."
   pagrindžia:
     - t-001
-- id: q-002
-  santrauka: Bibliografijoje T. Korzon siejamas su Lietuvos kariuomenės organizacijos darbu.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    _T. Korzon,_ Organizacja
-    wojska Litwy w okresie jagiellońskim (Rocznik Tow. Prz. Nauk w Wilnie,
-    1909)
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su darbu."
-  pagrindžia:
-    - t-001
-
-## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 ir q-002 pagrindžia bibliografinius paminėjimus.
-
-## Pastabos

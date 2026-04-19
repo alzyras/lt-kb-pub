@@ -1,85 +1,79 @@
 ---
 tipas: grupe
 pavadinimas: "Lietuvių Tautos Taryba"
-sukurta: "2026-04-17"
-variantai: []
-aliases: []
+sukurta: "2026-04-18"
+variantai: 
+  - "Tautos Taryba"
+aliases: 
+  - "Lietuvių Tautos Taryba"
+  - "Tautos Taryba"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
+laikotarpis: "1917 m. kovas"
 datos: 
-  - "1917 m"
-  - "1917 m."
-periodas: ""
-subperiodiai: []
+  - "1917 m. kovas"
+periodas: "naujieji_laikai"
+periodo_grupes: []
+amziai: 
+  - "XX"
 date_start: "1917"
 date_end: "1917"
-vaidmenys: 
-  - "taryba"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Lietuvių Tautos Taryba
 
 ## Santrauka
-
-Petrograde sudaryta lietuvių politinė taryba, siekusi sustiprinti nepriklausomybės siekį.
+Šaltinyje „Lietuvių Tautos Taryba“ apibūdinama kaip taryba; rusijoje iš įvairių srovių sudaryta taryba, kuri sušaukė lietuvių seimą Petrapilyje. (t-001)
 
 ## Pavadinimai šaltiniuose
-
-- „Lietuvių Tautos Taryba“
+- Kanoninis pavadinimas: Lietuvių Tautos Taryba
+- Šaltinyje fiksuotos formos: Tautos Taryba
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 1917 m, 1917 m.
-- periodas:
-- subperiodiai:
+- laikotarpis: 1917 m. kovas
+- datos: 1917 m. kovas
+- periodas: naujieji_laikai
+- periodo_grupes: 
+- amziai: XX
 - date_start: 1917
 - date_end: 1917
 
 ## Kas tai
-
-Šaltinyje aiškiai nurodomas grupės tipas: taryba.
+- tipas: taryba
+Šaltinyje „Lietuvių Tautos Taryba“ apibūdinama kaip taryba; rusijoje iš įvairių srovių sudaryta taryba, kuri sušaukė lietuvių seimą Petrapilyje. (t-001)
 
 ## Sudėtis ir vaidmuo
-- tipas: taryba
-- laikotarpis: 
-- nariai:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios vietos:
+- Šaltinyje „Lietuvių Tautos Taryba“ apibūdinama kaip taryba; rusijoje iš įvairių srovių sudaryta taryba, kuri sušaukė lietuvių seimą Petrapilyje. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje grupė „Lietuvių Tautos Taryba“ apibūdinama taip: Petrograde sudaryta lietuvių politinė taryba, siekusi sustiprinti nepriklausomybės siekį."
+  teiginys: "Šaltinyje „Lietuvių Tautos Taryba“ apibūdinama kaip taryba; rusijoje iš įvairių srovių sudaryta taryba, kuri sušaukė lietuvių seimą Petrapilyje."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Petrograde sudaryta lietuvių politinė taryba, siekusi sustiprinti nepriklausomybės siekį.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
+  santrauka: Rusijoje iš įvairių srovių sudaryta taryba, kuri sušaukė lietuvių seimą Petrapilyje.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
     Rusijoje 1917 metų kovo
     mėnesį iš visokių srovių buvo sudaryta Lietuvių Tautos Taryba,
     kuri, norėdama sustiprinti savo autoritetą, sušaukė visų Rusijoje
     išblaškytų lietuvių seimą (Petrapily 1917 m. gegužės 27 d.,
     sen. kal.).
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

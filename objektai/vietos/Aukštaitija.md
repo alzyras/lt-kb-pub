@@ -1,83 +1,70 @@
 ---
 tipas: vieta
 pavadinimas: "Aukštaitija"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
+  - "aukštaičių kraštą"
+  - "Aukštaičiuose"
+aliases: 
   - "Aukštaitija"
-  - "Aukštaitijos"
-  - "Aukštaičius"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+  - "aukštaičių kraštą"
+  - "Aukštaičiuose"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "kraštas / sritis"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Aukštaitija
 
 ## Santrauka
-Aukštaitija minima kaip rytinė lietuvių žemių dalis.
+Šaltinyje vieta „Aukštaitija“ siejama su šiuo kontekstu: Minima kaip ordino puolamas kraštas ir kaip galimas Vorutos aplinkos regionas. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Aukštaitija
-- Aukštaitijos
-- Aukštaičius
+- Pagrindinė forma: Aukštaitija
+- Šaltinyje fiksuotos formos: aukštaičių kraštą; Aukštaičiuose
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-kraštas / sritis.
+- tipas: istorinis kraštas
 
 ## Geografinis ir istorinis kontekstas
-- tipas: kraštas / sritis
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Minima kaip ordino puolamas kraštas ir kaip galimas Vorutos aplinkos regionas. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Aukštaitija“ minimas kaip kraštas / sritis: Aukštaitija minima kaip rytinė lietuvių žemių dalis."
+  teiginys: "Šaltinyje vieta „Aukštaitija“ siejama su šiuo kontekstu: Minima kaip ordino puolamas kraštas ir kaip galimas Vorutos aplinkos regionas."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Aukštaitija minima kaip rytinė lietuvių žemių dalis.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    Geriau buvo įsikurti aukštesnėse Žemaitijos ir Aukštaitijos
-    lygumose, todėl čia gyventojų buvo tirščiau. Didžiulės, gi-
-    riomis apaugusios pelkės skyrė aukštaičius nuo Padauguvio
-    giminių.
+  santrauka: Minima kaip ordino puolamas kraštas ir kaip galimas Vorutos aplinkos regionas.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    ordinas bandė plėsti karo
+    žygius ir į žemaičių bei aukštaičių kraštą, bet čia buvo skaudžiai
+    sumuštas (Šiaulių mūšyje 1236 m.).
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

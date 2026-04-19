@@ -1,22 +1,25 @@
 ---
 tipas: asmuo
 pavadinimas: "Jonas Zamoiskis"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
+  - "Zamoiskio"
   - "Zamoiskis"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - "karvedys"
+aliases: 
+  - "Jonas Zamoiskis"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: []
 laikotarpis: ""
-datos: []
+datos: 
+  - "1587 m."
 periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "hetmonas"
+periodo_grupes: []
+amziai: 
+  - "XVI"
+date_start: "1587"
+date_end: "1587"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukstas"
@@ -24,60 +27,51 @@ patikimumas: "aukstas"
 # Jonas Zamoiskis
 
 ## Santrauka
-
-Jonas Zamoiskis šiame šaltinyje minimas kaip Lenkų hetmonas ir svarbus karo vadas.
+Šaltinyje Jonas Zamoiskis apibūdinamas taip: Minimas kaip Lenkijos kancleris ir hetmonas, puolamas elekcijos metu.
 
 ## Variantai
-
+- Zamoiskio
 - Zamoiskis
 
 ## Laikotarpis ir datos
 - laikotarpis: 
-- datos: 
+- datos: 1587 m.
 - periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
-
-## Vaidmenys
-
-- hetmonas
-
-## Savybės
-
-## Šaltinių vaizdas
-- sutampantys vertinimai:
-- skirtingi vertinimai:
-
-## Dalyvavimas įvykiuose
+- periodo_grupes:
+- amziai: XVI
+- date_start: 1587
+- date_end: 1587
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Jonas Zamoiskis šiame šaltinyje minimas kaip Lenkų hetmonas ir svarbus karo vadas."
+  teiginys: "Šaltinyje Jonas Zamoiskis apibūdinamas taip: Minimas kaip Lenkijos kancleris ir hetmonas, puolamas elekcijos metu."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Citata pagrindžia asmens pareigas arba vaidmenį.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    hetmonas Jonas Zamoiskis.
+  santrauka: Minimas kaip Lenkijos kancleris ir hetmonas, puolamas elekcijos metu.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Ypač buvo puolamas jo pirmasis padėjėjas, Lenkijos kancleris
+
+    ir hetmonas Jonas Zamoiskis. Į elekcijos seimą 1587 m. Za-
+    moiskis ir jo priešininkai suvažiavo su dideliais kariuomenės
+    būriais. Elekcijos laukas atrodė, kaip dviejų priešų karo sto-
+    vykla. Lietuviai irgi atvažiavo į Varšuvą, tačiau į elekciją nėjo:
+    jie reikalavo, kad pirma lenkai savitarpyje susitaikintų ir paša-
+    lintų kariuomenę.
+  citata_rodoma: |
+    Ypač buvo puolamas jo pirmasis padėjėjas, Lenkijos kancleris ir hetmonas Jonas Zamoiskis. Į elekcijos seimą 1587 m. Zamoiskis ir jo priešininkai suvažiavo su dideliais kariuomenės būriais. Elekcijos laukas atrodė, kaip dviejų priešų karo stovykla. Lietuviai irgi atvažiavo į Varšuvą, tačiau į elekciją nėjo: jie reikalavo, kad pirma lenkai savitarpyje susitaikintų ir pašalintų kariuomenę.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

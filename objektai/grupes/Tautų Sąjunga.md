@@ -1,104 +1,82 @@
 ---
 tipas: grupe
 pavadinimas: "Tautų Sąjunga"
-sukurta: "2026-04-17"
+sukurta: "2026-04-18"
 variantai: 
-  - "Tautų S-ga"
+  - "Tautų Sąjungai"
+  - "Tautų Sąjungoje"
 aliases: 
-  - "Tautų S-ga"
+  - "Tautų Sąjunga"
+  - "Tautų Sąjungai"
+  - "Tautų Sąjungoje"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys: 
-  - "sąjunga"
+laikotarpis: "1920 m. rugsėjo 20 d.; 1921 m. kovo mėn. 3 d."
+datos: 
+  - "1920 m. rugsėjo 20 d.; 1921 m. kovo mėn. 3 d."
+periodas: "siuolaikine_istorija"
+periodo_grupes: []
+amziai: 
+  - "XX"
+date_start: "1920"
+date_end: "1921"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Tautų Sąjunga
 
 ## Santrauka
-
-Tarptautinių santykių tvarkymo ir taikos saugojimo įstaiga, į kurią Lietuvos vyriausybė kreipėsi dėl priėmimo ir kuriai sutiko perduoti ginčus su Lenkija.
+Šaltinyje „Tautų Sąjunga“ apibūdinama kaip sąjunga; tarptautinė sąjunga, šiame gabale veikianti kaip ginčo tarp Lietuvos ir Lenkijos tarpininkė ir plebiscito priežiūros institucija. (t-001)
 
 ## Pavadinimai šaltiniuose
-
-- „Tautų Sąjunga“
-- „Tautų S-ga“
+- Kanoninis pavadinimas: Tautų Sąjunga
+- Šaltinyje fiksuotos formos: Tautų Sąjungai; Tautų Sąjungoje
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- laikotarpis: 1920 m. rugsėjo 20 d.; 1921 m. kovo mėn. 3 d.
+- datos: 1920 m. rugsėjo 20 d.; 1921 m. kovo mėn. 3 d.
+- periodas: siuolaikine_istorija
+- periodo_grupes: 
+- amziai: XX
+- date_start: 1920
+- date_end: 1921
 
 ## Kas tai
-
-Šaltinyje aiškiai nurodomas grupės tipas: sąjunga.
+- tipas: sąjunga
+Šaltinyje „Tautų Sąjunga“ apibūdinama kaip sąjunga; tarptautinė sąjunga, šiame gabale veikianti kaip ginčo tarp Lietuvos ir Lenkijos tarpininkė ir plebiscito priežiūros institucija. (t-001)
 
 ## Sudėtis ir vaidmuo
-- tipas: sąjunga
-- laikotarpis: 
-- nariai:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios vietos:
+- Šaltinyje „Tautų Sąjunga“ apibūdinama kaip sąjunga; tarptautinė sąjunga, šiame gabale veikianti kaip ginčo tarp Lietuvos ir Lenkijos tarpininkė ir plebiscito priežiūros institucija. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje Tautų Sąjunga apibūdinama kaip tarptautinių santykių tvarkymo ir taikos saugojimo įstaiga, į kurią Lietuvos vyriausybė kreipėsi dėl priėmimo ir kuriai sutiko perduoti ginčus su Lenkija."
+  teiginys: "Šaltinyje „Tautų Sąjunga“ apibūdinama kaip sąjunga; tarptautinė sąjunga, šiame gabale veikianti kaip ginčo tarp Lietuvos ir Lenkijos tarpininkė ir plebiscito priežiūros institucija."
   pagrindžia:
     - q-001
-    - q-002
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Tautų Sąjungos paskirtis ir Lietuvos kreipimasis dėl priėmimo.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasira-
-    šytą 1919 metų birželio 28 d.), Lietuvos vyriausybė kreipėsi į
-    ją, prašydama priimti Lietuvą į tą naują tarptautinių santykių
-    tvarkymo ir taikos saugojimo įstaigą, kaip savarankišką nepri-
-    klausomą valstybę. Tatai buvo reikalinga dar ir dėl to, kad jau
-    nuo 1920 metų rugsėjo mėnesio Lietuva sutiko savo ginčus su
-    Lenkija perduoti Tautų S-gos Tarybai, dar nebūdama jos narys.
+  santrauka: Tarptautinė sąjunga, šiame gabale veikianti kaip ginčo tarp Lietuvos ir Lenkijos tarpininkė ir plebiscito priežiūros institucija.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    **Suvalkų derybos.** Tuo pat laiku, kai Tautų Sąjunga nu-
+    sprendė (rugsėjo 20 d.) tarp Lietuvos ir Lenkijos sustabdyti
+    karo veiksmus, nustatė demarkacijos liniją (Kerzono linija, 1919
+    gruodžio 8 d.) ir pasiuntė kontrolės komisiją, — lenkų kariuomenė
+    peržengė tą liniją ir veržėsi į Gardino—Varėnos ruožą.
+  citata_rodoma: |
+    Suvalkų derybos. Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir Lenkijos sustabdyti karo veiksmus, nustatė demarkacijos liniją (Kerzono linija, 1919 gruodžio 8 d.) ir pasiuntė kontrolės komisiją, — lenkų kariuomenė peržengė tą liniją ir veržėsi į Gardino—Varėnos ruožą.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- id: q-002
-  santrauka: Lietuvos priėmimo į Tautų Sąjungą klausimas buvo išspręstas 1921 m.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Kitame visuotiniame Tautų Sąjungos susirinkime (1921 m.)
-    visų trijų Pabaltijo valstybių priėmimo klausimas buvo teigiamai
-    išspręstas, tačiau ne be sunkenybių Lietuvai. Tuo metu didžio-
-    sios valstybės Latviją ir Estiją jau buvo pripažinusios de jure,
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-- q-002 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -1,82 +1,125 @@
 ---
 tipas: vieta
 pavadinimas: "Vokietija"
-sukurta: "2026-04-17"
-variantai:
-  - "Vokietija"
+sukurta: "2026-04-18"
+variantai: 
+  - "Vokietiją"
   - "Vokietijos"
   - "Vokietijoje"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+aliases: 
+  - "Vokietija"
+  - "Vokietiją"
+  - "Vokietijos"
+  - "Vokietijoje"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: "1928 m."
-datos:
-  - "1928 m."
+laikotarpis: "1635 m."
+datos: 
+  - "1635 m."
 periodas: ""
-subperiodiai: []
-date_start: "1928"
-date_end: "1928"
-vaidmenys:
-  - "valstybė"
+periodo_grupes: []
+amziai: 
+  - "XVII"
+date_start: "1635"
+date_end: "1635"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Vokietija
 
 ## Santrauka
-Vokietija minima kaip ordino, Prūsijos ir Klaipėdos klausimų centras.
+Šaltinyje vieta „Vokietija“ siejama su šiais kontekstais: Šalis minima kaip vieta, į kurią buvo išvežta Lietuvos istorijos medžiagos; Minima kaip kolonistų ir pagalbos šaltinis kryžiuočių ordinui. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
-- Vokietija
-- Vokietijos
-- Vokietijoje
+- Pagrindinė forma: Vokietija
+- Šaltinyje fiksuotos formos: Vokietiją; Vokietijos; Vokietijoje
 
 ## Laikotarpis ir datos
-- laikotarpis: 1928 m.
-- datos: 1928 m.
-- periodas:
-- subperiodiai:
-- date_start: 1928
-- date_end: 1928
+- laikotarpis: 1635 m.
+- datos: 1635 m.
+- amziai: XVII
+- date_start/date_end: 1635 / 1635
 
 ## Kas tai
-valstybė.
+- tipas: valstybė / šalis; valstybė; valstybė / kraštas
 
 ## Geografinis ir istorinis kontekstas
-- tipas: valstybė
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Šalis minima kaip vieta, į kurią buvo išvežta Lietuvos istorijos medžiagos. (t-001)
+- Minima kaip kolonistų ir pagalbos šaltinis kryžiuočių ordinui. (t-002)
+- Minima kaip 30 metų karo erdvė. (t-003)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Vokietija“ minimas kaip valstybė: Vokietija minima kaip ordino, Prūsijos ir Klaipėdos klausimų centras."
+  teiginys: "Šaltinyje vieta „Vokietija“ siejama su šiuo kontekstu: Šalis minima kaip vieta, į kurią buvo išvežta Lietuvos istorijos medžiagos."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Šaltinyje vieta „Vokietija“ siejama su šiuo kontekstu: Minima kaip kolonistų ir pagalbos šaltinis kryžiuočių ordinui."
+  pagrindžia:
+    - q-002
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-003
+  teiginys: "Šaltinyje vieta „Vokietija“ siejama su šiuo kontekstu: Minima kaip 30 metų karo erdvė."
+  pagrindžia:
+    - q-003
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Vokietija minima kaip ordino, Prūsijos ir Klaipėdos klausimų centras.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    Vokietija, svajodama vėl užgrobti Klaipėdos kraštą, tam neturi jokio juridinio pagrindo, nes, pasirašydama Versalio sutartį, ji sutiko su Klaipėdos krašto atskyrimu, o 1928 m. darydama sienų sutartį su Lietuva, niekieno neverčiama Klaipėdos
-    kraštą pripažino Lietuvai.
+  santrauka: Šalis minima kaip vieta, į kurią buvo išvežta Lietuvos istorijos medžiagos.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Pav., dalis jos per karus buvo išvežta į Švediją; Rusija
+    daug jos išvežė, užėmusi Lietuvą; unijos laikais nemaža jos pa-
+    teko į Lenkiją, o vėlesniais laikais daug medžiagos ten išvežė
+    sulenkėję mūsų dvarininkai. Pagaliau tų pačių dvarininkų ne-
+    maža jos išvežta į Prancūziją, Italiją ir Vokietiją.
+  citata_rodoma: |
+    Pav., dalis jos per karus buvo išvežta į Švediją; Rusija daug jos išvežė, užėmusi Lietuvą; unijos laikais nemaža jos pateko į Lenkiją, o vėlesniais laikais daug medžiagos ten išvežė sulenkėję mūsų dvarininkai. Pagaliau tų pačių dvarininkų nemaža jos išvežta į Prancūziją, Italiją ir Vokietiją.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
+- id: q-002
+  santrauka: Minima kaip kolonistų ir pagalbos šaltinis kryžiuočių ordinui.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Apie pilis buvo
+    kurdinami iš Vokietijos atkviesti kolonistai. Jie buvo pirmieji
+    vokietybės daigai šiose aisčių žemėse. Kartu su nukariavimu
+    žengė ir krikščionystė: buvo statomos bažnyčios ir vienuo-
+    lynai, o prūsai buvo varu krikštijami.
+  citata_rodoma: |
+    Apie pilis buvo kurdinami iš Vokietijos atkviesti kolonistai. Jie buvo pirmieji vokietybės daigai šiose aisčių žemėse. Kartu su nukariavimu žengė ir krikščionystė: buvo statomos bažnyčios ir vienuolynai, o prūsai buvo varu krikštijami.
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  pagrindžia:
+    - t-002
+- id: q-003
+  santrauka: Minima kaip 30 metų karo erdvė.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Tuo metu Vokietijoje tebe-
+    ėjo vadinamasis 30 metų karas.
+  citata_rodoma: |
+    Tuo metu Vokietijoje tebeėjo vadinamasis 30 metų karas.
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

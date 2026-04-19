@@ -1,109 +1,84 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: "vaivadija"
-sukurta: "2026-04-17"
-variantai:
-  - "vaivadijos"
+pavadinimas: "Vaivadija"
+sukurta: "2026-04-18"
+variantai: 
   - "vaivadijomis"
-aliases: []
+  - "vaivadijos"
+aliases: 
+  - "Vaivadija"
+  - "vaivadijomis"
+  - "vaivadijos"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - "istorinė-sąvoka"
-laikotarpis: "XVI a."
-datos:
-  - "XVI a."
-periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "žodyno terminas"
-  - "krašto administracinis suskirstymas"
+  - "teisinis-terminas"
+laikotarpis: "1413 m."
+datos: 
+  - "1413 m."
+periodas: "viduramziai"
+periodo_grupes: []
+amziai: 
+  - "XV"
+date_start: "1413"
+date_end: "1413"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "aukstas"
 ---
-# vaivadija
+# Vaivadija
 
 ## Santrauka
-
-Terminas „vaivadija“ šiame šaltinyje vartojamas reikšme: administracinis teritorinis vienetas. Šaltinio kontekstas sieja jį su: XVI a..
+Šaltinyje „Vaivadija“ vartojama taip: Krašto administracinis vienetas, kuriam vadovavo vaivada. (t-001)
 
 ## Žodis ir formos
-
-- Pagrindinė forma: „vaivadija“.
-- Šaltinyje rasta forma: „vaivadijos“.
-- Šaltinyje rasta forma: „vaivadijomis“.
+- Kanoninis pavadinimas: Vaivadija
+- Formos šaltinyje: vaivadijomis; vaivadijos
 
 ## Laikotarpis ir datos
-- laikotarpis: XVI a.
-- datos:
-  - XVI a.
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- laikotarpis: 1413 m.
+- datos: 1413 m.
+- periodas: viduramziai
+- periodo_grupes: 
+- amziai: XV
+- date_start: 1413
+- date_end: 1413
 
 ## Reikšmė iš konteksto
-
-administracinis teritorinis vienetas.
+- Krašto administracinis vienetas, kuriam vadovavo vaivada. (t-001)
 
 ## Vartojimas
-
-Vartojimo sritis šaltinyje: krašto administracinis suskirstymas.
+Terminas šaltinyje vartojamas šiame kontekste: administracinė istorija, valstybės valdymas. (t-001)
 
 ## Teiginiai
-
 - id: t-001
-  teiginys: "Pagal vietinį šaltinio kontekstą terminas „vaivadija“ reiškia: administracinis teritorinis vienetas."
+  teiginys: "Šaltinyje „Vaivadija“ vartojama taip: Krašto administracinis vienetas, kuriam vadovavo vaivada."
   pagrindžia:
     - q-001
-    - q-002
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
-- id: t-002
-  teiginys: "Šaltinio kontekstas terminą „vaivadija“ sieja su laikotarpiu arba data: XVI a.."
-  pagrindžia:
-    - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - id: q-001
-  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „vaivadija“.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Krašto padalinimas į pavietus ir vaivadijas. Visas kraš-
-    tas jau anksčiau buvo padalintas į vaivadijas, ir didelių sričių,
-    buvusiųjų kunigaikštysčių, vietininkai jau buvo gavę vaivadų
-    vardą dar XVI amž. pradžioje. Įvedant naujuosius teismus,
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-    - t-002
-- id: q-002
-  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „vaivadija“.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    tysčių buvo panaikintos. Vietoj kunigaikščių srityse buvo paskir-
+  santrauka: Terminas žymi administracinį vienetą, į kurį buvo paverstos buvusios kunigaikštystės.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Vietoj kunigaikščių srityse buvo paskir-
     ti vietininkai; vėliau tie vietininkai virto vaivadomis, o buvusios
     kunigaikštystės — vaivadijomis. Vytautas patsai valdė Vil-
     niaus ir Trakų sritis (kitos žemės buvo valdomos jo vietininkų).
+    Tai buvo dideli plotai, kurių be specialių urėdų nebuvo galima
+    valdyti. Todėl 1413 m. iš tų sričių buvo sudarytos dvi pirmosios
+    vaivadijos.
+  citata_rodoma: |
+    Vietoj kunigaikščių srityse buvo paskirti vietininkai; vėliau tie vietininkai virto vaivadomis, o buvusios kunigaikštystės — vaivadijomis. Vytautas patsai valdė Vilniaus ir Trakų sritis (kitos žemės buvo valdomos jo vietininkų). Tai buvo dideli plotai, kurių be specialių urėdų nebuvo galima valdyti. Todėl 1413 m. iš tų sričių buvo sudarytos dvi pirmosios vaivadijos.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia termino vartoseną arba aiškinimą šaltinyje."
   pagrindžia:
     - t-001
-    - t-002
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

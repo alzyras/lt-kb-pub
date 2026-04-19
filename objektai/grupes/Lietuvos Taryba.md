@@ -1,82 +1,85 @@
 ---
 tipas: grupe
 pavadinimas: "Lietuvos Taryba"
-sukurta: "2026-04-17"
+sukurta: "2026-04-18"
 variantai: 
   - "Taryba"
 aliases: 
+  - "Lietuvos Taryba"
   - "Taryba"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys: 
-  - "taryba"
+laikotarpis: "1917 m. rugsėjo 18–22 d."
+datos: 
+  - "1917 m. rugsėjo 18–22 d."
+periodas: "naujieji_laikai"
+periodo_grupes: []
+amziai: 
+  - "XX"
+date_start: "1917"
+date_end: "1917"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Lietuvos Taryba
 
 ## Santrauka
-
-Vilniaus konferencijos išrinkta taryba, įgyvendinusi valstybės atkūrimo darbą.
+Šaltinyje „Lietuvos Taryba“ apibūdinama kaip taryba; vilniaus konferencijos sudaryta taryba, kuriai pavesta vykdyti konferencijos programą ir kuri vėliau įvardijama kaip Lietuvos Taryba. (t-001)
 
 ## Pavadinimai šaltiniuose
-
-- „Lietuvos Taryba“
-- „Taryba“
+- Kanoninis pavadinimas: Lietuvos Taryba
+- Šaltinyje fiksuotos formos: Taryba
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- laikotarpis: 1917 m. rugsėjo 18–22 d.
+- datos: 1917 m. rugsėjo 18–22 d.
+- periodas: naujieji_laikai
+- periodo_grupes: 
+- amziai: XX
+- date_start: 1917
+- date_end: 1917
 
 ## Kas tai
-
-Šaltinyje aiškiai nurodomas grupės tipas: taryba.
+- tipas: taryba
+Šaltinyje „Lietuvos Taryba“ apibūdinama kaip taryba; vilniaus konferencijos sudaryta taryba, kuriai pavesta vykdyti konferencijos programą ir kuri vėliau įvardijama kaip Lietuvos Taryba. (t-001)
 
 ## Sudėtis ir vaidmuo
-- tipas: taryba
-- laikotarpis: 
-- nariai:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios vietos:
+- Šaltinyje „Lietuvos Taryba“ apibūdinama kaip taryba; vilniaus konferencijos sudaryta taryba, kuriai pavesta vykdyti konferencijos programą ir kuri vėliau įvardijama kaip Lietuvos Taryba. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje grupė „Lietuvos Taryba“ apibūdinama taip: Vilniaus konferencijos išrinkta taryba, įgyvendinusi valstybės atkūrimo darbą."
+  teiginys: "Šaltinyje „Lietuvos Taryba“ apibūdinama kaip taryba; vilniaus konferencijos sudaryta taryba, kuriai pavesta vykdyti konferencijos programą ir kuri vėliau įvardijama kaip Lietuvos Taryba."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Vilniaus konferencijos išrinkta taryba, įgyvendinusi valstybės atkūrimo darbą.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti tautinių mažumų atstovai.
+  santrauka: Vilniaus konferencijos sudaryta taryba, kuriai pavesta vykdyti konferencijos programą ir kuri vėliau įvardijama kaip Lietuvos Taryba.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Konferencijos sudarytai programai vykdyti buvo išrinkta
+    Taryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti
+    tautinių mažumų atstovai.
+    
+    Lietuvos Tarybos nariai buvo šie: J. Basanavičius, (†), S. Ba-
+    naitis (†), M. Biržiška, K. Bizauskas, P. Dovydaitis, S. Kairys, P.
+    Klimas, D. Malinauskas, P. Mironas, S. Narutavičius (†), A. Pet-
+    rulis (†), A. Smetona, J. Smilgevičius, J. Staugaitis, A. Stulginskis,
+    J. Šaulys, K. Šaulys, J. Šernas (†), J. Vailokaitis, J. Vileišis. Savo
+    pirmininku Taryba išsirinko A. Smetoną.
+  citata_rodoma: |
+    Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti tautinių mažumų atstovai. Lietuvos Tarybos nariai buvo šie: J. Basanavičius, (†), S. Banaitis (†), M. Biržiška, K. Bizauskas, P. Dovydaitis, S. Kairys, P. Klimas, D. Malinauskas, P. Mironas, S. Narutavičius (†), A. Petrulis (†), A. Smetona, J. Smilgevičius, J. Staugaitis, A. Stulginskis, J. Šaulys, K. Šaulys, J. Šernas (†), J. Vailokaitis, J. Vileišis. Savo pirmininku Taryba išsirinko A. Smetoną.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

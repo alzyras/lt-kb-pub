@@ -1,81 +1,68 @@
 ---
 tipas: grupe
 pavadinimas: "Pietų Afrikos Lietuvių Draugija"
-sukurta: "2026-04-17"
+sukurta: "2026-04-18"
 variantai: 
-  - "Pietų Afrikos Lietuvių Draugija"
+  - "Pietų Afrikos Lietuvių Draugiją"
 aliases: 
   - "Pietų Afrikos Lietuvių Draugija"
+  - "Pietų Afrikos Lietuvių Draugiją"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys: 
-  - "draugija"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Pietų Afrikos Lietuvių Draugija
 
 ## Santrauka
-
-Nedidelė lietuvių organizacija Johanesburge.
+Šaltinyje „Pietų Afrikos Lietuvių Draugija“ apibūdinama kaip draugija; johanesburge lietuviai turėjo vieną nedidelę organizaciją, pavadintą Pietų Afrikos Lietuvių Draugija. (t-001)
 
 ## Pavadinimai šaltiniuose
-
-- „Pietų Afrikos Lietuvių Draugija“
+- Kanoninis pavadinimas: Pietų Afrikos Lietuvių Draugija
+- Šaltinyje fiksuotos formos: Pietų Afrikos Lietuvių Draugiją
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-
-Šaltinyje aiškiai nurodomas grupės tipas: draugija.
+- tipas: draugija
+Šaltinyje „Pietų Afrikos Lietuvių Draugija“ apibūdinama kaip draugija; johanesburge lietuviai turėjo vieną nedidelę organizaciją, pavadintą Pietų Afrikos Lietuvių Draugija. (t-001)
 
 ## Sudėtis ir vaidmuo
-- tipas: draugija
-- laikotarpis: 
-- nariai:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios vietos:
+- Šaltinyje „Pietų Afrikos Lietuvių Draugija“ apibūdinama kaip draugija; johanesburge lietuviai turėjo vieną nedidelę organizaciją, pavadintą Pietų Afrikos Lietuvių Draugija. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje grupė „Pietų Afrikos Lietuvių Draugija“ apibūdinama taip: Nedidelė lietuvių organizacija Johanesburge."
+  teiginys: "Šaltinyje „Pietų Afrikos Lietuvių Draugija“ apibūdinama kaip draugija; johanesburge lietuviai turėjo vieną nedidelę organizaciją, pavadintą Pietų Afrikos Lietuvių Draugija."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Nedidelė lietuvių organizacija Johanesburge.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Patys lietuviai vis dėlto yra išsisklaidę; tik Johanesburge jie turi vieną nedidelę organizaciją — Pietų Afrikos Lietuvių Draugiją.
+  santrauka: Johanesburge lietuviai turėjo vieną nedidelę organizaciją, pavadintą Pietų Afrikos Lietuvių Draugija.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    tik Johanesburge jie turi vieną nedidelę organizaciją — Pietų
+    Afrikos Lietuvių Draugiją.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

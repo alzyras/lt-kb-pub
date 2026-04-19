@@ -1,22 +1,23 @@
 ---
 tipas: grupe
 pavadinimas: "Viduriniosios Europos Sąjunga"
-sukurta: "2026-04-17"
+sukurta: "2026-04-18"
 variantai: 
-  - "Viduriniosios Europos Sąjunga"
+  - "Viduriniosios Europos Sąjungą"
 aliases: 
   - "Viduriniosios Europos Sąjunga"
+  - "Viduriniosios Europos Sąjungą"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys: 
-  - "sąjunga"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
@@ -24,58 +25,46 @@ patikimumas: "vidutinis"
 # Viduriniosios Europos Sąjunga
 
 ## Santrauka
-
-T. Masariko įkurta regioninė sąjunga, su kuria bendravo lietuvių delegatai.
+Šaltinyje „Viduriniosios Europos Sąjunga“ apibūdinama kaip sąjunga; t. Masariko įkurta sąjunga, su kuria dėjosi Amerikos lietuvių vykdomasis komitetas. (t-001)
 
 ## Pavadinimai šaltiniuose
-
-- „Viduriniosios Europos Sąjunga“
+- Kanoninis pavadinimas: Viduriniosios Europos Sąjunga
+- Šaltinyje fiksuotos formos: Viduriniosios Europos Sąjungą
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-
-Šaltinyje aiškiai nurodomas grupės tipas: sąjunga.
+- tipas: sąjunga
+Šaltinyje „Viduriniosios Europos Sąjunga“ apibūdinama kaip sąjunga; t. Masariko įkurta sąjunga, su kuria dėjosi Amerikos lietuvių vykdomasis komitetas. (t-001)
 
 ## Sudėtis ir vaidmuo
-- tipas: sąjunga
-- laikotarpis: 
-- nariai:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios vietos:
+- Šaltinyje „Viduriniosios Europos Sąjunga“ apibūdinama kaip sąjunga; t. Masariko įkurta sąjunga, su kuria dėjosi Amerikos lietuvių vykdomasis komitetas. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje grupė „Viduriniosios Europos Sąjunga“ apibūdinama taip: T. Masariko įkurta regioninė sąjunga, su kuria bendravo lietuvių delegatai."
+  teiginys: "Šaltinyje „Viduriniosios Europos Sąjunga“ apibūdinama kaip sąjunga; t. Masariko įkurta sąjunga, su kuria dėjosi Amerikos lietuvių vykdomasis komitetas."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: T. Masariko įkurta regioninė sąjunga, su kuria bendravo lietuvių delegatai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Įsikūręs vykdomasis Tarybų komitetas (iš 2 tautininkų ir 3 katalikų atstovų) pradėjo veikti Vašingtone; jis dėjosi su pirmojo Čekoslovakų prezidento T. Masariko įkurtąja Viduriniosios Europos Sąjungą, reikalaujančia pavergtoms tautoms laisvės.
+  santrauka: T. Masariko įkurta sąjunga, su kuria dėjosi Amerikos lietuvių vykdomasis komitetas.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    jis dėjosi su pirmojo Čekoslovakų prezidento T. Masariko įkur-
+    tąja Viduriniosios Europos Sąjungą, reikalaujančia pavergtoms
+    tautoms laisvės.
+  citata_rodoma: |
+    jis dėjosi su pirmojo Čekoslovakų prezidento T. Masariko įkurtąja Viduriniosios Europos Sąjungą, reikalaujančia pavergtoms tautoms laisvės.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

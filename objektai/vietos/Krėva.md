@@ -1,83 +1,70 @@
 ---
 tipas: vieta
 pavadinimas: "Krėva"
-sukurta: "2026-04-17"
-variantai:
-  - "Krėva"
+sukurta: "2026-04-18"
+variantai: 
+  - "Krėvos pilį"
+  - "Krėvoje"
   - "Krėvą"
-  - "Krėvos"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+aliases: 
+  - "Krėva"
+  - "Krėvos pilį"
+  - "Krėvoje"
+  - "Krėvą"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "pilis / vietovė"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Krėva
 
 ## Santrauka
-Krėva svarbi kaip Jogailos ir Kęstučio konflikto vieta.
+Šaltinyje vieta „Krėva“ siejama su šiuo kontekstu: Krėva minima kaip Kęstučio kalinimo ir mirties vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Krėva
-- Krėvą
-- Krėvos
+- Pagrindinė forma: Krėva
+- Šaltinyje fiksuotos formos: Krėvos pilį; Krėvoje; Krėvą
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-pilis / vietovė.
+- tipas: pilis / vietovė
 
 ## Geografinis ir istorinis kontekstas
-- tipas: pilis / vietovė
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Krėva minima kaip Kęstučio kalinimo ir mirties vieta. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Krėva“ minimas kaip pilis / vietovė: Krėva svarbi kaip Jogailos ir Kęstučio konflikto vieta."
+  teiginys: "Šaltinyje vieta „Krėva“ siejama su šiuo kontekstu: Krėva minima kaip Kęstučio kalinimo ir mirties vieta."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Krėva svarbi kaip Jogailos ir Kęstučio konflikto vieta.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    Kęstučio lavonas iš Krėvos buvo atvežtas į Vilnių ir iškil-
-    mingai palaidotas. Jis buvo sudegintas ant laužo su visais Kęstu-
-    čio mėgtaisiais daiktais, ginklais ir gyvuliais: sakalais, šunimis ir
-    arkliais.
+  santrauka: Krėva minima kaip Kęstučio kalinimo ir mirties vieta.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Kęstutį netrukus išvežė į Krėvos pilį, o Vytautą paliko Vilniuje.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

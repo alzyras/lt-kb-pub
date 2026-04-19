@@ -1,83 +1,78 @@
 ---
 tipas: vieta
 pavadinimas: "Kuršo gubernija"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
+  - "Kuršo gubernijos"
+  - "Kuršo gubernijoje"
+aliases: 
   - "Kuršo gubernija"
   - "Kuršo gubernijos"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+  - "Kuršo gubernijoje"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: "1921 m., 577 m."
-datos:
+laikotarpis: "1921 m."
+datos: 
   - "1921 m."
-  - "577 m."
 periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "gubernija"
+periodo_grupes: []
+amziai: 
+  - "XX"
+date_start: "1921"
+date_end: "1921"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Kuršo gubernija
 
 ## Santrauka
-Kuršo gubernija minima tarp sienų perbraižymo ir gyventojų pasiskirstymo kontekstų.
+Šaltinyje vieta „Kuršo gubernija“ siejama su šiuo kontekstu: Minima kaip buvusios Latvijos ir Lietuvos sienos orientyras bei teritorinė nuoroda derybose dėl sienos. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Kuršo gubernija
-- Kuršo gubernijos
+- Pagrindinė forma: Kuršo gubernija
+- Šaltinyje fiksuotos formos: Kuršo gubernijos; Kuršo gubernijoje
 
 ## Laikotarpis ir datos
-- laikotarpis: 1921 m., 577 m.
-- datos: 1921 m., 577 m.
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- laikotarpis: 1921 m.
+- datos: 1921 m.
+- amziai: XX
+- date_start/date_end: 1921 / 1921
 
 ## Kas tai
-gubernija.
+- tipas: gubernija
 
 ## Geografinis ir istorinis kontekstas
-- tipas: gubernija
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Minima kaip buvusios Latvijos ir Lietuvos sienos orientyras bei teritorinė nuoroda derybose dėl sienos. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Kuršo gubernija“ minimas kaip gubernija: Kuršo gubernija minima tarp sienų perbraižymo ir gyventojų pasiskirstymo kontekstų."
+  teiginys: "Šaltinyje vieta „Kuršo gubernija“ siejama su šiuo kontekstu: Minima kaip buvusios Latvijos ir Lietuvos sienos orientyras bei teritorinė nuoroda derybose dėl sienos."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Kuršo gubernija minima tarp sienų perbraižymo ir gyventojų pasiskirstymo kontekstų.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    latviškas valsčius ar jo dalis atiteko Lietuvai. 1921 m. siena tarp
-    Lietuvos ir Latvijos buvo išvesta maždaug buvusios Kuršo gubernijos riba, bet buvo padaryta mažų pakeitimų vienur Lietuvos,
-    kitur Latvijos naudai (Latvija iš buvusios Kauno gubernijos gavo
-    290 kv. km., o Lietuva iš Kuršo gub.— vos 83 kv. km.,— žiūr. 577
+  santrauka: Minima kaip buvusios Latvijos ir Lietuvos sienos orientyras bei teritorinė nuoroda derybose dėl sienos.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lie-
+    tuvos siena buvo laikoma buvusios Kuršo gubernijos siena. Bet
+    
+    kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje
+    čia pasitaikydavo nesusipratimų.
+  citata_rodoma: |
+    Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo laikoma buvusios Kuršo gubernijos siena. Bet kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje čia pasitaikydavo nesusipratimų.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

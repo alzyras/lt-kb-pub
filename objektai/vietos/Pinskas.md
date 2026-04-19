@@ -1,80 +1,74 @@
 ---
 tipas: vieta
 pavadinimas: "Pinskas"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
+  - "Pinske"
+  - "Pinsko"
+aliases: 
   - "Pinskas"
-  - "Pinską"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+  - "Pinske"
+  - "Pinsko"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "miestas"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Pinskas
 
 ## Santrauka
-Pinskas minimas kartu su Turovu kaip rytinė valda.
+Šaltinyje vieta „Pinskas“ siejama su šiuo kontekstu: Minimas kaip Vaišvilko gyvenamoji vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Pinskas
-- Pinską
+- Pagrindinė forma: Pinskas
+- Šaltinyje fiksuotos formos: Pinske; Pinsko
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-miestas.
+- tipas: miestas / kunigaikštystė
 
 ## Geografinis ir istorinis kontekstas
-- tipas: miestas
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Minimas kaip Vaišvilko gyvenamoji vieta. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Pinskas“ minimas kaip miestas: Pinskas minimas kartu su Turovu kaip rytinė valda."
+  teiginys: "Šaltinyje vieta „Pinskas“ siejama su šiuo kontekstu: Minimas kaip Vaišvilko gyvenamoji vieta."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Pinskas minimas kartu su Turovu kaip rytinė valda.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    Jau anksčiau visi jie buvo gavę po sritį. Vyriausias sūnus, Manv y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą
-    ir Pinską, Karijotas — Naugarduką ir Volkoviską, Algirdas — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų
-    pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą. Jo žinioje
+  santrauka: Minimas kaip Vaišvilko gyvenamoji vieta.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    **Vaišvilkas** (1265—1268 m.). Mindaugui žuvus, Vaišvilkas
+    buvo Graikijoj, bet veikiai po to grįžo ir apsigyveno Pinske.
+    Treniotą nužudžiusieji Mindaugo gimines šalininkai, žinoma,
+    tuojau ėmė galvoti apie jį. Todėl, atvykęs su Voluinės kuni-
+    gaikščių duota kariuomenės pagalba, jis greit įsiviešpatavo visoj
+    Lietuvoj.
+  citata_rodoma: |
+    Vaišvilkas (1265—1268 m.). Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsigyveno Pinske. Treniotą nužudžiusieji Mindaugo gimines šalininkai, žinoma, tuojau ėmė galvoti apie jį. Todėl, atvykęs su Voluinės kunigaikščių duota kariuomenės pagalba, jis greit įsiviešpatavo visoj Lietuvoj.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

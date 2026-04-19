@@ -1,78 +1,69 @@
 ---
 tipas: vieta
 pavadinimas: "Dysna"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
+  - "Dysnos"
+aliases: 
   - "Dysna"
   - "Dysnos"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "upė"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Dysna
 
 ## Santrauka
-Dysna minima kaip rytinė Aukštaitijos sienos kryptis.
+Šaltinyje vieta „Dysna“ siejama su šiuo kontekstu: Upė minima kaip rytinė aukštaičių gyvenamų žemių riba. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Dysna
-- Dysnos
+- Pagrindinė forma: Dysna
+- Šaltinyje fiksuotos formos: Dysnos
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-upė.
+- tipas: upė
 
 ## Geografinis ir istorinis kontekstas
-- tipas: upė
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Upė minima kaip rytinė aukštaičių gyvenamų žemių riba. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Dysna“ minimas kaip upė: Dysna minima kaip rytinė Aukštaitijos sienos kryptis."
+  teiginys: "Šaltinyje vieta „Dysna“ siejama su šiuo kontekstu: Upė minima kaip rytinė aukštaičių gyvenamų žemių riba."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Dysna minima kaip rytinė Aukštaitijos sienos kryptis.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    gyveno į šiaurę ir į rytus nuo prūsų,—maždaug iki dabartinės Latvių sienos. Čia dabartinėje savo vietoje, Klaipėdos krašte ir Kuršmarių pakrantėmis, gyveno žemaičiai. Toliau nuo jų, į pietus,
+  santrauka: Upė minima kaip rytinė aukštaičių gyvenamų žemių riba.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Ry-
+    tinės jų sienos nėra aiškios; jie užėmė visą Neries aukštupį,
+    artėjo prie Bererinos aukštupio ir prie Dysnos
+  citata_rodoma: |
+    Rytinės jų sienos nėra aiškios; jie užėmė visą Neries aukštupį, artėjo prie Bererinos aukštupio ir prie Dysnos
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

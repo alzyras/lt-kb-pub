@@ -4,29 +4,25 @@ pavadinimas: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
 sukurta: "2026-04-17"
 variantai:
   - "Lietuvos istorija"
-  - "A. Šapoka, Lietuvos istorija"
 aliases:
   - "Lietuvos istorija"
 saltiniai: []
 zymos:
-  - "vadovėlis"
-  - "knyga"
+  - knyga
+  - vadovėlis
 laikotarpis: "1936 m."
 datos:
   - "1936 m."
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai:
+  - XX
 date_start: "1936"
 date_end: "1936"
 vaidmenys:
-  - redaguotas veikalas
-  - vadovėlis
+  - redaktorius
 dalyviai:
   - "A. Šapoka"
-  - "J. Jakštas"
-  - "Z. Ivinskis"
-  - "P. Šležas"
-  - "P. Klimas"
 susije_irasai: []
 patikimumas: ""
 ---
@@ -34,156 +30,166 @@ patikimumas: ""
 
 ## Bibliografiniai duomenys
 
-- Pavadinimas šaltinio tekste: „Lietuvos istorija“.
-- Redaktorius: A. Šapoka.
-- Leidinys: Švietimo Ministerijos Knygų Leidimo Komisijos leidinys.
-- Leidimo vieta ir metai: Kaunas, 1936 m.
-- Leidinio numeris: Knygų Leidimo Komisijos leidinys Nr. 479.
-- Tiražas: 17.050 egzempliorių.
-- Spaustuvė: „Šviesos“ spaustuvė Kaune.
-- Pratarmėje kaip atskirų dalių autoriai nurodyti J. Jakštas, Z. Ivinskis, A. Šapoka, P. Šležas ir P. Klimas; A. Šapoka nurodo, kad jam patikėtas dalių suderinimo, suvienodinimo ir sujungimo darbas.
+- Pavadinimas: *Lietuvos istorija*. (t-001)
+- Redaktorius: A. Šapoka. (t-001, t-003)
+- Leidėjas: Švietimo Ministerijos Knygų Leidimo Komisija. (t-001)
+- Leidimo vieta ir metai: Kaunas, 1936 m. (t-001)
+- Leidinio numeris: Knygų Leidimo Komisijos leidinys Nr. 479. (t-001)
+- Spaustuvė: „Šviesos" spaustuvė Kaune. (t-001)
+- Tiražas: 17.050 egzempliorių. (t-001)
 
 ## Turinys ir apimtis
 
-Šaltinis yra Lietuvos istorijos vadovėlis, skirtas visuomenės ir mokyklos reikmėms. Pratarmėje jis apibūdinamas kaip platesnė tautos gyvenimo kelio apžvalga, jungianti seniausiųjų ir naujųjų laikų įvykius.
-
-Turinyje matomos temos apima įvadinę dalį, priešistorinį laikotarpį, Lietuvos valstybės kūrimą, Gediminaičių valdomą Lietuvą, ponų ir bajorijos viešpatavimo laikotarpį, Rusų valdžios laikotarpį, nepriklausomos Lietuvos gyvenimą, Mažąją Lietuvą, latvių tautos kelią ir lietuvių emigraciją. Šaltinio pabaigoje matomi priedėlių paaiškinimai ir bibliografiniai nurodymai.
+Šaltinis pristatomas kaip vadovėlis, kuriuo siekta pateikti platesnę lietuvių tautos gyvenimo kelio apžvalgą nuo seniausiųjų iki naujųjų laikų. Prefacijoje nurodyta, kad atskiras dalis rengė keli bendradarbiai, o A. Šapokai buvo patikėtas jų suderinimas, suvienodinimas ir sujungimas. Ten pat paminėta, kad apimtis papildyta įvedamąja dalimi, Mažosios Lietuvos lietuvių gyvenimu ir lietuvių emigracija. (t-002, t-003, t-004)
 
 ## Ryšiai
 
-Leidinys tiesiogiai siejamas su Švietimo Ministerijos Knygų Leidimo Komisija. Pratarmėje nurodyta, kad atskiras dalis rašė J. Jakštas, Z. Ivinskis, A. Šapoka, P. Šležas ir P. Klimas, o A. Šapoka atliko dalių derinimo, vienodinimo ir jungimo darbą.
+- Redakcinis ryšys: A. Šapoka. (t-001, t-003)
+- Instituciniai ryšiai: Švietimo Ministerijos Knygų Leidimo Komisija ir „Šviesos" spaustuvė Kaune. (t-001)
 
 ## Teiginiai
 
 - id: t-001
-  teiginys: "Tituliniame puslapyje veikalas pavadintas „Lietuvos istorija“, nurodytas redaktorius A. Šapoka, Švietimo Ministerijos Knygų Leidimo Komisijos leidinys ir leidimo vieta bei metai: Kaunas, 1936 m."
+  teiginys: "Šaltinis yra 1936 m. Kaune išleista *Lietuvos istorija*, redaguota A. Šapokos, išleista Švietimo Ministerijos Knygų Leidimo Komisijos ir spausdinta „Šviesos“ spaustuvėje."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - id: t-002
-  teiginys: "Leidinio pradžioje nurodyta, kad išspausdinta 17.050 egzempliorių, leidinys yra Knygų Leidimo Komisijos leidinys Nr. 479, o spaustuvė - „Šviesos“ spaustuvė Kaune."
+  teiginys: "Prefacijoje vadovėlio tikslas apibūdintas kaip platesnė lietuvių tautos gyvenimo kelio apžvalga nuo seniausiųjų iki naujųjų laikų."
   pagrindžia:
     - q-002
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - id: t-003
-  teiginys: "Pratarmėje nurodyta, kad atskirus laikotarpius rašė J. Jakštas, Z. Ivinskis, A. Šapoka, P. Šležas ir P. Klimas, o A. Šapokai patikėtas dalių suderinimo, suvienodinimo ir sujungimo darbas."
+  teiginys: "Prefacijoje nurodyta, kad skirtingas Lietuvos istorijos dalis rengė J. Jakštas, Z. Ivinskis, A. Šapoka, P. Šležas ir P. Klimas, o A. Šapokai buvo patikėtas visų dalių suderinimas."
   pagrindžia:
     - q-003
-    - q-004
-    - q-005
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - id: t-004
-  teiginys: "Pratarmėje vadovėlio rengimas siejamas su visuomenės ir mokyklos reikmėmis."
+  teiginys: "Prefacijoje nurodyta, kad rengiant vadovėlį papildomai parašyta įvedamoji dalis ir skyriai apie Mažosios Lietuvos lietuvių gyvenimą bei lietuvių emigraciją."
   pagrindžia:
-    - q-006
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    - q-004
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - id: t-005
-  teiginys: "Pratarmėje vadovėlis apibūdinamas kaip platesnė tautos gyvenimo kelio apžvalga, jungianti seniausiųjų ir naujųjų laikų įvykius."
+  teiginys: "Prefacijoje nurodyta, kad vadovėlis buvo taikomas ir visuomenės, ir mokyklos reikalui."
   pagrindžia:
-    - q-007
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    - q-005
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+
+- id: q-002
+  santrauka: Prefacijoje nusakomas vadovėlio tikslas ir apimtis.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Istoriškoji mūsų rašliava paskutiniaisiais metais gerokai pa-
+    ūgėjo. Bet ligi šiol dar niekas nebuvo bandęs paruošti platesnę
+    mūsų tautos gyvenimo kelio apžvalgą, kuri sujungtų seniausiųjų
+    ir naujųjų laikų įvykius. Tokio vadovėlio reikalą gyvai jautė
+    tiek visuomenė, tiek mokykla. Ypač dėl jo sielojosi Švietimo
+    Ministerija.
+  citata_rodoma: |
+    Istoriškoji mūsų rašliava paskutiniaisiais metais gerokai paūgėjo. Bet ligi šiol dar niekas nebuvo bandęs paruošti platesnę mūsų tautos gyvenimo kelio apžvalgą, kuri sujungtų seniausiųjų ir naujųjų laikų įvykius. Tokio vadovėlio reikalą gyvai jautė tiek visuomenė, tiek mokykla. Ypač dėl jo sielojosi Švietimo Ministerija.
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Prefacijos tekstas tiesiogiai apibūdina vadovėlio sumanymą."
+  pagrindžia:
+    - t-002
+- id: q-003
+  santrauka: Prefacijoje išvardijami darbą rengę autoriai ir A. Šapokai patikėtas redakcinis darbas.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Pagaliau p. Viceministerio K. Masiliūno rūpesčiu
+    buvo suburta penketas žmonių, sutikusių imtis to darbo ir su-
+    tarusių parašyti kiekvienas apie atskirą mūsų tautos gyvenimo
+    laikotarpį. Tuo būdu p. J. Jakštas parašė apie pirmąjį mūsų
+    tautos valstybinio gyvenimo laikotarpį, iki krikščioniškųjų lai-
+    kų pradžios, dr. Z. Ivinskis — apie sekantį laikotarpį, iki Gedi-
+    minaičių dinastijos galo; man teko tęsinys — iki nepriklausomo-
+    sios valstybės galo; p. P. Šležas parašė apie rusų valdymo lai-
+    kus, o p. P. Klimas — apie nepriklausomosios valstybės atsta-
+    tymą ir nepriklausomojo gyvenimo laikotarpį. Suprantama, kad
+    penkių žmonių atskirai rašytos dalys negalėjo sudaryti vieningo
+    ir darnaus veikalo. Todėl reikėjo jas visas suderinti, suvieno-
+    dinti ir surišti. Tas darbas buvo man patikėtas.
+  citata_rodoma: |
+    Pagaliau p. Viceministerio K. Masiliūno rūpesčiu buvo suburta penketas žmonių, sutikusių imtis to darbo ir sutarusių parašyti kiekvienas apie atskirą mūsų tautos gyvenimo laikotarpį. Tuo būdu p. J. Jakštas parašė apie pirmąjį mūsų tautos valstybinio gyvenimo laikotarpį, iki krikščioniškųjų laikų pradžios, dr. Z. Ivinskis — apie sekantį laikotarpį, iki Gediminaičių dinastijos galo; man teko tęsinys — iki nepriklausomosios valstybės galo; p. P. Šležas parašė apie rusų valdymo laikus, o p. P. Klimas — apie nepriklausomosios valstybės atstatymą ir nepriklausomojo gyvenimo laikotarpį. Suprantama, kad penkių žmonių atskirai rašytos dalys negalėjo sudaryti vieningo ir darnaus veikalo. Todėl reikėjo jas visas suderinti, suvienodinti ir surišti. Tas darbas buvo man patikėtas.
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Prefacijos tekstas tiesiogiai nurodo bendradarbius ir redaktoriaus vaidmenį."
+  pagrindžia:
+    - t-003
+- id: q-004
+  santrauka: Prefacijoje nurodomi papildomai parašyti skyriai.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Taip antai,
+    teko dar parašyti įvedamąją dalį ir atskirus skyrius apie Ma-
+    žosios Lietuvos lietuvių gyvenimą ir lietuvių emigraciją.
+  citata_rodoma: |
+    Taip antai, teko dar parašyti įvedamąją dalį ir atskirus skyrius apie Mažosios Lietuvos lietuvių gyvenimą ir lietuvių emigraciją.
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Prefacijos tekstas tiesiogiai nurodo papildytas apimties dalis."
+  pagrindžia:
+    - t-004
+- id: q-005
+  santrauka: Prefacijoje nusakoma numatyta vadovėlio auditorija.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Imantis darbo, kaip minėta, buvo turima galvoje tiek visuo-
+    menės, tiek mokyklos reikalas. Abu juos suderinti buvo sun-
+    koka, todėl teko ieškoti ir čia kompromisinio kelio. Tuo būdu
+    vadovėlio turinys daugiau taikomas vidutiniam skaitytojui inte-
+    ligentui, o medžiagos paskirstymas bei dėstymas daugiau taiko-
+    mas mokyklos reikalui. Taigi, mokytojui tinkamai vadovaujant,
+    rodos, nesunkiai galės juo pasinaudoti ir mokiniai.
+  citata_rodoma: |
+    Imantis darbo, kaip minėta, buvo turima galvoje tiek visuomenės, tiek mokyklos reikalas. Abu juos suderinti buvo sunkoka, todėl teko ieškoti ir čia kompromisinio kelio. Tuo būdu vadovėlio turinys daugiau taikomas vidutiniam skaitytojui inteligentui, o medžiagos paskirstymas bei dėstymas daugiau taikomas mokyklos reikalui. Taigi, mokytojui tinkamai vadovaujant, rodos, nesunkiai galės juo pasinaudoti ir mokiniai.
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Prefacijos tekstas tiesiogiai apibūdina auditoriją."
+  pagrindžia:
+    - t-005
 
 ## Bibliografiniai įrodymai
 
 - id: q-001
-  santrauka: Pavadinimas, redaktorius, leidėjas, leidimo vieta ir metai matomi tituliniame puslapyje.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    LIETUVOS
+  santrauka: Antraštinis ir leidybinis įrašas pagrindžia pavadinimą, redaktorių, leidimo vietą, metus, leidėją, spaustuvę, leidinio numerį ir tiražą.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    # LIETUVOS
 
-    ISTORIJA
+    # ISTORIJA
 
     R E D. A. Š A P О K А
 
-    ŠVIETIMO MINISTERIJOS KNYGŲ
+    **ŠVIETIMO MINISTERIJOS KNYGŲ**
 
-    LEIDIMO KOMISIJOS LEIDINYS
+    **LEIDIMO KOMISIJOS LEIDINYS**
 
-    KAUNAS 1936 M.
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Duomenys tiesiogiai matomi šaltinio tituliniame puslapyje."
-  pagrindžia:
-    - t-001
-- id: q-002
-  santrauka: Tiražas, leidinio numeris ir spaustuvė matomi leidinio pradžioje.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
+    **KAUNAS 1936 M.**
+
+    9 (475) (022)
+
     Išspausdinta 17.050 egz.: 13.
     prastesnio, 3.500 geresnio ir 50
     numeruotų kreidinio popieriaus.
     Knygų Leidimo Komisijos leidinys Nr. 479
     Spaudė „Šviesos" spaustuvė Kaune
+  citata_rodoma: |
+    LIETUVOS ISTORIJA R E D. A. Š A P О K А ŠVIETIMO MINISTERIJOS KNYGŲ LEIDIMO KOMISIJOS LEIDINYS KAUNAS 1936 M. 9 (475) (022) Išspausdinta 17.050 egz.: 13. prastesnio, 3.500 geresnio ir 50 numeruotų kreidinio popieriaus. Knygų Leidimo Komisijos leidinys Nr. 479 Spaudė „Šviesos" spaustuvė Kaune
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Duomenys tiesiogiai matomi šaltinio leidybiniame įraše."
+  patikimumo_pagrindimas: "Antraštinis ir leidybinis įrašas tiesiogiai pateikia bibliografinius duomenis."
   pagrindžia:
-    - t-002
-- id: q-003
-  santrauka: Pratarmėje nurodoma, kad J. Jakštas, Z. Ivinskis ir A. Šapoka rašė atskirus laikotarpius.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tuo būdu p. J. Jakštas parašė apie pirmąjį mūsų
-    tautos valstybinio gyvenimo laikotarpį, iki krikščioniškųjų laikų pradžios, dr. Z. Ivinskis — apie sekantį laikotarpį, iki Gediminaičių dinastijos galo; man teko tęsinys — iki nepriklausomosios valstybės galo
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Pratarmės tekstas tiesiogiai įvardija dalies autorius."
-  pagrindžia:
-    - t-003
-- id: q-004
-  santrauka: Pratarmėje nurodoma, kad P. Šležas ir P. Klimas rašė atskirus laikotarpius.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    p. P. Šležas parašė apie rusų valdymo laikus, o p. P. Klimas — apie nepriklausomosios valstybės atstatymą ir nepriklausomojo gyvenimo laikotarpį
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Pratarmės tekstas tiesiogiai įvardija dalies autorius."
-  pagrindžia:
-    - t-003
-- id: q-005
-  santrauka: Pratarmėje nurodomas A. Šapokai patikėtas dalių derinimo darbas.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Suprantama, kad
-    penkių žmonių atskirai rašytos dalys negalėjo sudaryti vieningo
-    ir darnaus veikalo. Todėl reikėjo jas visas suderinti, suvienodinti ir surišti. Tas darbas buvo man patikėtas.
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Pratarmės tekstas tiesiogiai apibūdina A. Šapokai patikėtą redakcinį darbą."
-  pagrindžia:
-    - t-003
-- id: q-006
-  santrauka: Pratarmėje apibūdinama vadovėlio paskirtis visuomenei ir mokyklai.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Imantis darbo, kaip minėta, buvo turima galvoje tiek visuomenės, tiek mokyklos reikalas. Abu juos suderinti buvo sunkoka, todėl teko ieškoti ir čia kompromisinio kelio.
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Pratarmė tiesiogiai nusako numatytą vadovėlio adresatą."
-  pagrindžia:
-    - t-004
-- id: q-007
-  santrauka: Pratarmėje vadovėlis apibūdinamas kaip platesnė tautos gyvenimo kelio apžvalga, jungianti seniausiųjų ir naujųjų laikų įvykius.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Bet ligi šiol dar niekas nebuvo bandęs paruošti platesnę
-    mūsų tautos gyvenimo kelio apžvalgą, kuri sujungtų seniausiųjų
-    ir naujųjų laikų įvykius. Tokio vadovėlio reikalą gyvai jautė
-    tiek visuomenė, tiek mokykla.
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Pratarmė tiesiogiai apibūdina veikalo apimtį ir poreikį."
-  pagrindžia:
-    - t-005
+    - t-001

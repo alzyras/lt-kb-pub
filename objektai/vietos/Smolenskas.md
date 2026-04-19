@@ -1,79 +1,66 @@
 ---
 tipas: vieta
 pavadinimas: "Smolenskas"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: []
+aliases: 
   - "Smolenskas"
-  - "Smolensko"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "miestas"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Smolenskas
 
 ## Santrauka
-Smolenskas minimas kaip vienas iš Polocko kunigaikštystės miestų.
+Šaltinyje vieta „Smolenskas“ siejama su šiuo kontekstu: Minimas kaip trumpam lietuvių valdytas rytinis miestas. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Smolenskas
-- Smolensko
+- Pagrindinė forma: Smolenskas
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-miestas.
+- tipas: miestas
 
 ## Geografinis ir istorinis kontekstas
-- tipas: miestas
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Minimas kaip trumpam lietuvių valdytas rytinis miestas. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Smolenskas“ minimas kaip miestas: Smolenskas minimas kaip vienas iš Polocko kunigaikštystės miestų."
+  teiginys: "Šaltinyje vieta „Smolenskas“ siejama su šiuo kontekstu: Minimas kaip trumpam lietuvių valdytas rytinis miestas."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Smolenskas minimas kaip vienas iš Polocko kunigaikštystės miestų.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    amž. Polocko kunigaikštija pakriko. Iš jos miestų, kaip antai:
-    Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros kunigaikštijos. Tada aisčiams jau lengviau buvo kariauti, ir XIII a.
+  santrauka: Minimas kaip trumpam lietuvių valdytas rytinis miestas.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Be to, jie padarė daug žygių į rytus ir į šiaurę. Lietu-
+    viai siaubė D. Naugardo žemes ir nužygiavo toli anapus Polocko.
+    Kiek laiko lietuvių rankose buvo net Smolenskas.
+  citata_rodoma: |
+    Be to, jie padarė daug žygių į rytus ir į šiaurę. Lietuviai siaubė D. Naugardo žemes ir nužygiavo toli anapus Polocko. Kiek laiko lietuvių rankose buvo net Smolenskas.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

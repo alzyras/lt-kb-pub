@@ -1,84 +1,68 @@
 ---
 tipas: grupe
 pavadinimas: "Lietuvių Giedotojų Draugija"
-sukurta: "2026-04-17"
+sukurta: "2026-04-18"
 variantai: 
-  - "Lietuvių Giedotojų Draugija"
+  - "Lietuvių Giedotojų Draugiją"
 aliases: 
   - "Lietuvių Giedotojų Draugija"
+  - "Lietuvių Giedotojų Draugiją"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys: 
-  - "draugija"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Lietuvių Giedotojų Draugija
 
 ## Santrauka
-
-Vydūno vadovaujama lietuvių giedotojų organizacija, išaugusi iš „Birutės" draugijos veiklos.
+Šaltinyje „Lietuvių Giedotojų Draugija“ apibūdinama kaip kultūrinė draugija; draugija įvardijama kaip Birutės draugijos dešimtmečio proga įkurta organizacija, kuriai vadovavo Vydūnas (Storasta) ir kuri, pasak teksto, tebegyvuoja. (t-001)
 
 ## Pavadinimai šaltiniuose
-
-- „Lietuvių Giedotojų Draugija“
+- Kanoninis pavadinimas: Lietuvių Giedotojų Draugija
+- Šaltinyje fiksuotos formos: Lietuvių Giedotojų Draugiją
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-
-Šaltinyje aiškiai nurodomas grupės tipas: draugija.
+- tipas: kultūrinė draugija
+Šaltinyje „Lietuvių Giedotojų Draugija“ apibūdinama kaip kultūrinė draugija; draugija įvardijama kaip Birutės draugijos dešimtmečio proga įkurta organizacija, kuriai vadovavo Vydūnas (Storasta) ir kuri, pasak teksto, tebegyvuoja. (t-001)
 
 ## Sudėtis ir vaidmuo
-- tipas: draugija
-- laikotarpis: 
-- nariai:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios vietos:
+- Šaltinyje „Lietuvių Giedotojų Draugija“ apibūdinama kaip kultūrinė draugija; draugija įvardijama kaip Birutės draugijos dešimtmečio proga įkurta organizacija, kuriai vadovavo Vydūnas (Storasta) ir kuri, pasak teksto, tebegyvuoja. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje grupė „Lietuvių Giedotojų Draugija“ apibūdinama taip: Vydūno vadovaujama lietuvių giedotojų organizacija, išaugusi iš „Birutės\" draugijos veiklos."
+  teiginys: "Šaltinyje „Lietuvių Giedotojų Draugija“ apibūdinama kaip kultūrinė draugija; draugija įvardijama kaip Birutės draugijos dešimtmečio proga įkurta organizacija, kuriai vadovavo Vydūnas (Storasta) ir kuri, pasak teksto, tebegyvuoja."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Šaltinis dainų šventę pateikia kaip reikšmingą tautinio kultūrinio telkimosi ir dainavimo skatinimo formą.; Vydūno vadovaujama lietuvių giedotojų organizacija, išaugusi iš „Birutės" draugijos veiklos.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Iš karto draugija gyvavo
-    gana sunkiai, bet, švęsdama savo dešimtmetį, ji suorganizavo
+  santrauka: Draugija įvardijama kaip Birutės draugijos dešimtmečio proga įkurta organizacija, kuriai vadovavo Vydūnas (Storasta) ir kuri, pasak teksto, tebegyvuoja.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
     didelę dainų šventę ir įkūrė Lietuvių Giedotojų
-    Draugiją,
+    Draugiją
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -1,75 +1,60 @@
 ---
 tipas: autorius
 pavadinimas: "V. Smoleński"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: []
+aliases: 
   - "V. Smoleński"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1925 m. bibliografijos kontekstas"
-datos:
-  - "1925 m."
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: 
+  - "autorius"
+laikotarpis: ""
+datos: []
 periodas: ""
-subperiodiai: []
-date_start: "1925"
-date_end: "1925"
-vaidmenys:
-  - autorius
-dalyviai: []
+periodo_grupes: []
+amziai: []
+date_start: ""
+date_end: ""
+vaidmenys: 
+  - "autorius"
+dalyviai: 
+  - "V. Smoleński"
 susije_irasai: []
 patikimumas: "vidutinis"
 ---
 # V. Smoleński
 
 ## Santrauka
-
-V. Smoleński bibliografijoje minimas kaip Lenkijos istorijos darbo autorius.
-
-## Laikotarpis ir datos
-- laikotarpis: 1925 m. bibliografijos kontekstas
-- datos: 1925 m.
-- periodas:
-- subperiodiai:
-- date_start: 1925
-- date_end: 1925
+Šaltinyje V. Smoleński minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip Lenkijos istorijos autorius.
 
 ## Darbai
-
-- „Lenkų t. ist.“.
+- Bibliografijoje nurodytas kaip Lenkijos istorijos autorius. (t-001)
 
 ## Kontekstas
-
-Autorius minimas prie kaimyninių tautų istorijų.
+- Bibliografinė eilutė tiesiogiai įvardija Smoleńskį kaip veikalo autorių. (q-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Bibliografijoje V. Smoleński pateikiamas kaip darbo „Lenkų t. ist.“ autorius."
+  teiginys: "Šaltinyje V. Smoleński autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip Lenkijos istorijos autorius."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Bibliografijoje V. Smoleński siejamas su Lenkijos istorijos darbu.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    _V. Smoleński,_ Lenkų t. ist. (1925; _Kasakaičio_ vert.)
+  santrauka: Bibliografijoje nurodytas kaip Lenkijos istorijos autorius.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    _V. Smoleński,_ Lenkų t. ist. (1925; _Kasakaičio_ vert.); T. _Korzon,_ Dzieje
+    wojen i wojskowości w Polsce, I—III (1923); _A. Bruckner,_ Dzieje kultury
+  citata_rodoma: |
+    V. Smoleński, Lenkų t. ist. (1925; Kasakaičio vert.); T. Korzon, Dzieje wojen i wojskowości w Polsce, I—III (1923); A. Bruckner, Dzieje kultury
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su darbu."
+  priskyrimo_pagrindas: explicit_variant
+  patikimumo_pagrindimas: "Bibliografinė eilutė tiesiogiai įvardija Smoleńskį kaip veikalo autorių."
   pagrindžia:
     - t-001
-
-## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia bibliografinį autoriaus paminėjimą.
-
-## Pastabos

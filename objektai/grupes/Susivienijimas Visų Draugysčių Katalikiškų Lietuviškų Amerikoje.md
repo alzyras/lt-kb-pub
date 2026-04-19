@@ -1,81 +1,75 @@
 ---
 tipas: grupe
 pavadinimas: "Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje"
-sukurta: "2026-04-17"
+sukurta: "2026-04-18"
 variantai: 
-  - "Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje"
+  - "Susivienijimą Visų Draugysčių Katalikiškų Lietuviškų Amerikoje"
 aliases: 
   - "Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje"
+  - "Susivienijimą Visų Draugysčių Katalikiškų Lietuviškų Amerikoje"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys: 
-  - "susivienijimas"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje
 
 ## Santrauka
-
-Katalikiškas lietuvių susivienijimas, iš kurio vėliau išaugo kitos Amerikos organizacijos.
+Šaltinyje „Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje“ apibūdinama kaip susivienijimas; katalikiškas susivienijimas, įkurtas vietoje pirmojo ir aprašytas kaip organizacija, kuri turėjo sujungti lietuvius katalikus. (t-001)
 
 ## Pavadinimai šaltiniuose
-
-- „Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje“
+- Kanoninis pavadinimas: Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje
+- Šaltinyje fiksuotos formos: Susivienijimą Visų Draugysčių Katalikiškų Lietuviškų Amerikoje
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-
-Šaltinyje aiškiai nurodomas grupės tipas: susivienijimas.
+- tipas: susivienijimas
+Šaltinyje „Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje“ apibūdinama kaip susivienijimas; katalikiškas susivienijimas, įkurtas vietoje pirmojo ir aprašytas kaip organizacija, kuri turėjo sujungti lietuvius katalikus. (t-001)
 
 ## Sudėtis ir vaidmuo
-- tipas: susivienijimas
-- laikotarpis: 
-- nariai:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios vietos:
+- Šaltinyje „Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje“ apibūdinama kaip susivienijimas; katalikiškas susivienijimas, įkurtas vietoje pirmojo ir aprašytas kaip organizacija, kuri turėjo sujungti lietuvius katalikus. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje grupė „Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje“ apibūdinama taip: Katalikiškas lietuvių susivienijimas, iš kurio vėliau išaugo kitos Amerikos organizacijos."
+  teiginys: "Šaltinyje „Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje“ apibūdinama kaip susivienijimas; katalikiškas susivienijimas, įkurtas vietoje pirmojo ir aprašytas kaip organizacija, kuri turėjo sujungti lietuvius katalikus."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Katalikiškas lietuvių susivienijimas, iš kurio vėliau išaugo kitos Amerikos organizacijos.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Jo vietoje lietuvių kunigų pastangomis tuojau buvo įkurtas kitas — Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje.
+  santrauka: Katalikiškas susivienijimas, įkurtas vietoje pirmojo ir aprašytas kaip organizacija, kuri turėjo sujungti lietuvius katalikus.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    tuojau buvo įkurtas kitas — Susivienijimas Visų
+    Draugysčių Katalikiškų Lietuviškų Ameri-
+    koje. Šio Susivienijimo įstatuose buvo įrašytas toksai reika-
+    lavimas: „Kožnas lietuvininkas, prigulintis ing susivienijimą, pri-
+    valo užlaikyti savo naciją, priduot pagelbą savo broliui nelai-
+    mėje būvančiam, vest dievobaimingą gyvenimą ir davinėti gerą
+    priklodą (t. y. pavyzdį) nog savęs, taipgi naujai pribuvusiam
+    broliui iš Lietuvos duoti pagelbą".
+  citata_rodoma: |
+    tuojau buvo įkurtas kitas — Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje. Šio Susivienijimo įstatuose buvo įrašytas toksai reikalavimas: „Kožnas lietuvininkas, prigulintis ing susivienijimą, privalo užlaikyti savo naciją, priduot pagelbą savo broliui nelaimėje būvančiam, vest dievobaimingą gyvenimą ir davinėti gerą priklodą (t. y. pavyzdį) nog savęs, taipgi naujai pribuvusiam broliui iš Lietuvos duoti pagelbą".
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

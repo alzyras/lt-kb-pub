@@ -1,80 +1,71 @@
 ---
 tipas: vieta
 pavadinimas: "Slanimas"
-sukurta: "2026-04-17"
-variantai:
-  - "Slanimas"
+sukurta: "2026-04-18"
+variantai: 
+  - "Slanimą"
   - "Slanimo"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+aliases: 
+  - "Slanimas"
+  - "Slanimą"
+  - "Slanimo"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "miestas"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Slanimas
 
 ## Santrauka
-Slanimas minimas kartu su Naugarduku ir Brasta rytinių žemių kontekste.
+Šaltinyje vieta „Slanimas“ siejama su šiuo kontekstu: Minimas kaip Vaišvilkui atiduotas miestas po taikos su Voluine. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Slanimas
-- Slanimo
+- Pagrindinė forma: Slanimas
+- Šaltinyje fiksuotos formos: Slanimą; Slanimo
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-miestas.
+- tipas: miestas / sritis
 
 ## Geografinis ir istorinis kontekstas
-- tipas: miestas
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Minimas kaip Vaišvilkui atiduotas miestas po taikos su Voluine. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Slanimas“ minimas kaip miestas: Slanimas minimas kartu su Naugarduku ir Brasta rytinių žemių kontekste."
+  teiginys: "Šaltinyje vieta „Slanimas“ siejama su šiuo kontekstu: Minimas kaip Vaišvilkui atiduotas miestas po taikos su Voluine."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Slanimas minimas kartu su Naugarduku ir Brasta rytinių žemių kontekste.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    Nukariautose žemėse tada buvo įkurti Naugardukas, Slanimas ir
-    atstatyta, jotvingų buvusi, Gardino pilis (senasis Gardinas, tur
-    būt, bus turėjęs kitą vardą). Tuo būdu XIII amž. pradžioje, kai
+  santrauka: Minimas kaip Vaišvilkui atiduotas miestas po taikos su Voluine.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Danieliaus sūnui Romanui Mindaugas davė valdyti Nau-
+    garduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų
+    sričių miestus.
+  citata_rodoma: |
+    Danieliaus sūnui Romanui Mindaugas davė valdyti Naugarduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -1,83 +1,73 @@
 ---
 tipas: vieta
 pavadinimas: "Jurbarkas"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
+  - "Jurbarko"
+aliases: 
   - "Jurbarkas"
   - "Jurbarko"
-  - "Jurbarką"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: "1259 m."
-datos:
+datos: 
   - "1259 m."
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: 
+  - "XIII"
 date_start: "1259"
 date_end: "1259"
-vaidmenys:
-  - "pilis / miestas"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Jurbarkas
 
 ## Santrauka
-Jurbarkas minimas kaip ordino ir žemaičių pilių kovų punktas.
+Šaltinyje vieta „Jurbarkas“ siejama su šiuo kontekstu: Minima kaip Nemuno pakrantėje pastatyta ordino pilis. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Jurbarkas
-- Jurbarko
-- Jurbarką
+- Pagrindinė forma: Jurbarkas
+- Šaltinyje fiksuotos formos: Jurbarko
 
 ## Laikotarpis ir datos
 - laikotarpis: 1259 m.
 - datos: 1259 m.
-- periodas:
-- subperiodiai:
-- date_start: 1259
-- date_end: 1259
+- amziai: XIII
+- date_start/date_end: 1259 / 1259
 
 ## Kas tai
-pilis / miestas.
+- tipas: pilis / vietovė
 
 ## Geografinis ir istorinis kontekstas
-- tipas: pilis / miestas
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Minima kaip Nemuno pakrantėje pastatyta ordino pilis. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Jurbarkas“ minimas kaip pilis / miestas: Jurbarkas minimas kaip ordino ir žemaičių pilių kovų punktas."
+  teiginys: "Šaltinyje vieta „Jurbarkas“ siejama su šiuo kontekstu: Minima kaip Nemuno pakrantėje pastatyta ordino pilis."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Jurbarkas minimas kaip ordino ir žemaičių pilių kovų punktas.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    pėdos pilį, Livonijos ordinas vėl ėmė pulti žemaičius. Po ilgų
+  santrauka: Minima kaip Nemuno pakrantėje pastatyta ordino pilis.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Po ilgų
     kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259
-    m.), kurios žemaičiai taip pat neįstengė išgriauti. Tada priešais
+    m.), kurios žemaičiai taip pat neįstengė išgriauti.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -1,98 +1,68 @@
 ---
 tipas: autorius
 pavadinimas: "J. Jakštas"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: []
+aliases: 
   - "J. Jakštas"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1936 m. leidinio ir bibliografijos kontekstas"
-datos:
-  - "1936 m."
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: 
+  - "autorius"
+laikotarpis: ""
+datos: []
 periodas: ""
-subperiodiai: []
-date_start: "1936"
-date_end: "1936"
-vaidmenys:
-  - autorius
-  - bendradarbis
-dalyviai: []
+periodo_grupes: []
+amziai: []
+date_start: ""
+date_end: ""
+vaidmenys: 
+  - "autorius"
+dalyviai: 
+  - "J. Jakštas"
 susije_irasai: []
 patikimumas: "vidutinis"
 ---
 # J. Jakštas
 
 ## Santrauka
-
-J. Jakštas pratarmėje nurodytas kaip vienas iš „Lietuvos istorijos“ bendradarbių, parašęs pirmąjį tautos valstybinio gyvenimo laikotarpį iki krikščioniškųjų laikų pradžios.
-
-## Laikotarpis ir datos
-- laikotarpis: 1936 m. leidinio kontekstas
-- datos: 1936 m.
-- periodas:
-- subperiodiai:
-- date_start: 1936
-- date_end: 1936
+Šaltinyje J. Jakštas minimas autorystės, redagavimo arba tyrimo kontekste: Įvardytas kaip pirmojo laikotarpio teksto autorius.
 
 ## Darbai
-
-- „Lietuvos istorijos“ dalis apie pirmąjį tautos valstybinio gyvenimo laikotarpį.
-- „Vokiečių ord. ir Lietuva Vytenio ir Gedimino metu“.
+- Įvardytas kaip pirmojo laikotarpio teksto autorius. (t-001)
 
 ## Kontekstas
-
-Pratarmėje J. Jakštas įtrauktas į penkių žmonių grupę, sutikusią parašyti atskirus Lietuvos istorijos laikotarpius.
+- Vardas susietas su konkrečia veikalo dalimi ir autoriaus funkcija. (q-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "J. Jakštas parašė „Lietuvos istorijos“ dalį apie pirmąjį tautos valstybinio gyvenimo laikotarpį iki krikščioniškųjų laikų pradžios."
+  teiginys: "Šaltinyje J. Jakštas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Įvardytas kaip pirmojo laikotarpio teksto autorius."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
-- id: t-002
-  teiginys: "Bibliografijoje J. Jakštas nurodytas kaip darbo apie Vokiečių ordiną ir Lietuvą Vytenio ir Gedimino metu autorius."
-  pagrindžia:
-    - q-002
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Pratarmė nurodo J. Jakšto parašytą dalį.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Tuo būdu p. J. Jakštas parašė apie pirmąjį mūsų
+  santrauka: Įvardytas kaip pirmojo laikotarpio teksto autorius.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Pagaliau p. Viceministerio K. Masiliūno rūpesčiu
+    buvo suburta penketas žmonių, sutikusių imtis to darbo ir su-
+    tarusių parašyti kiekvienas apie atskirą mūsų tautos gyvenimo
+    laikotarpį. Tuo būdu p. J. Jakštas parašė apie pirmąjį mūsų
     tautos valstybinio gyvenimo laikotarpį, iki krikščioniškųjų lai-
-    kų pradžios
+    kų pradžios, dr. Z. Ivinskis — apie sekantį laikotarpį, iki Gedi-
+    minaičių dinastijos galo; man teko tęsinys — iki nepriklausomo-
+    sios valstybės galo; p. P. Šležas parašė apie rusų valdymo lai-
+    kus, o p. P. Klimas — apie nepriklausomosios valstybės atsta-
+    tymą ir nepriklausomojo gyvenimo laikotarpį.
+  citata_rodoma: |
+    Pagaliau p. Viceministerio K. Masiliūno rūpesčiu buvo suburta penketas žmonių, sutikusių imtis to darbo ir sutarusių parašyti kiekvienas apie atskirą mūsų tautos gyvenimo laikotarpį. Tuo būdu p. J. Jakštas parašė apie pirmąjį mūsų tautos valstybinio gyvenimo laikotarpį, iki krikščioniškųjų laikų pradžios, dr. Z. Ivinskis — apie sekantį laikotarpį, iki Gediminaičių dinastijos galo; man teko tęsinys — iki nepriklausomosios valstybės galo; p. P. Šležas parašė apie rusų valdymo laikus, o p. P. Klimas — apie nepriklausomosios valstybės atstatymą ir nepriklausomojo gyvenimo laikotarpį.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Pratarmė tiesiogiai įvardija autorių ir jam priskirtą dalį."
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: "Vardas susietas su konkrečia veikalo dalimi ir autoriaus funkcija."
   pagrindžia:
     - t-001
-- id: q-002
-  santrauka: Bibliografijoje J. Jakštas siejamas su darbu apie Vokiečių ordiną.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    _J. Jakš-
-    tas,_ Vokiečių ord. ir Lietuva Vytenio ir Gedimino metu (Senovė, I, II)
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su darbo pavadinimu."
-  pagrindžia:
-    - t-002
-
-## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia jo indėlį į leidinį.
-- q-002 pagrindžia bibliografinį autoriaus paminėjimą.
-
-## Pastabos

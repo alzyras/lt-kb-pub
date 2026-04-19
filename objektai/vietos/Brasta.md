@@ -1,86 +1,82 @@
 ---
 tipas: vieta
 pavadinimas: "Brasta"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
+  - "Brastos"
+  - "Brastą"
+aliases: 
   - "Brasta"
   - "Brastos"
   - "Brastą"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
+laikotarpis: "1596 m."
+datos: 
+  - "1596 m."
 periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "miestas / sritis"
+periodo_grupes: []
+amziai: 
+  - "XVI"
+date_start: "1596"
+date_end: "1596"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Brasta
 
 ## Santrauka
-Brasta įvardijama kaip pietrytinė pasienio sritis ir vėlesnis politinis centras.
+Šaltinyje vieta „Brasta“ siejama su šiuo kontekstu: Minima kaip Vytenio prijungta sritis prie Lietuvos. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Brasta
-- Brastos
-- Brastą
+- Pagrindinė forma: Brasta
+- Šaltinyje fiksuotos formos: Brastos; Brastą
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- laikotarpis: 1596 m.
+- datos: 1596 m.
+- amziai: XVI
+- date_start/date_end: 1596 / 1596
 
 ## Kas tai
-miestas / sritis.
+- tipas: miestas; miestas / vietovė
 
 ## Geografinis ir istorinis kontekstas
-- tipas: miestas / sritis
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Minima kaip Vytenio prijungta sritis prie Lietuvos. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Brasta“ minimas kaip miestas / sritis: Brasta įvardijama kaip pietrytinė pasienio sritis ir vėlesnis politinis centras."
+  teiginys: "Šaltinyje vieta „Brasta“ siejama su šiuo kontekstu: Minima kaip Vytenio prijungta sritis prie Lietuvos."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Brasta įvardijama kaip pietrytinė pasienio sritis ir vėlesnis politinis centras.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    Toliau nuo jų, į pietus,
-    kairiajam Nemuno krante, t. y. pietinėje Mažosios Lietuvos da-
-    lyje, dabartiniam Suvalkų krašte, — maždaug nuo Merkinės jau
-    abiejuose Nemuno krantuose iki anapus Naugarduko, Slanimo
-    ir Brastos — gyveno sūduviai, arba jotvingai. Į pie-
-    tus nuo žemaičių ir į rytus nuo jotvingų gyveno aukštai-
-    čiai, kurie sudarė vėlesnės Lietuvos valstybės branduolį.
+  santrauka: Minima kaip Vytenio prijungta sritis prie Lietuvos.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Bet užtat jis prijungė prie Lietuvos Mindaugo dar
+    nepasiektą Pagirį -Turovo ir Pinsko kunigaikštystes. Senasis
+    jotvingų kraštas (t. y. vadinamoji Juodoji Rusija su Naugar-
+    duku, Slanimu ir Volkovisku), kurį buvo užėmusi ir kolonizavusi
+    Voluinė, jau tapo nebeginčijamu Lietuvos kraštu. Vytenis taip
+    pat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, ku-
+    rias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai),
+    prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną
+    ir Brastą.
+  citata_rodoma: |
+    Bet užtat jis prijungė prie Lietuvos Mindaugo dar nepasiektą Pagirį -Turovo ir Pinsko kunigaikštystes. Senasis jotvingų kraštas (t. y. vadinamoji Juodoji Rusija su Naugarduku, Slanimu ir Volkovisku), kurį buvo užėmusi ir kolonizavusi Voluinė, jau tapo nebeginčijamu Lietuvos kraštu. Vytenis taip pat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, kurias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai), prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną ir Brastą.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

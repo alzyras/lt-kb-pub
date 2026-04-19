@@ -1,19 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: "Steponas Batoras"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
   - "Stepono Batoro"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+aliases: 
+  - "Steponas Batoras"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
+laikotarpis: "1576–1586 m."
+datos: 
+  - "1576–1586 m."
 periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
+periodo_grupes: []
+amziai: 
+  - "XVI"
+date_start: "1576"
+date_end: "1586"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -22,58 +26,42 @@ patikimumas: "aukstas"
 # Steponas Batoras
 
 ## Santrauka
-
-Steponas Batoras šiame šaltinyje pateikiamas kaip valdovas ir karo su Maskva veikėjas.
+Šaltinyje Steponas Batoras apibūdinamas taip: Paminėtas kaip valdovas ir kaip karų su Maskva veikėjas.
 
 ## Variantai
-
 - Stepono Batoro
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
+- laikotarpis: 1576–1586 m.
+- datos: 1576–1586 m.
 - periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
-
-## Vaidmenys
-
-## Savybės
-
-## Šaltinių vaizdas
-- sutampantys vertinimai:
-- skirtingi vertinimai:
-
-## Dalyvavimas įvykiuose
+- periodo_grupes:
+- amziai: XVI
+- date_start: 1576
+- date_end: 1586
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Steponas Batoras šiame šaltinyje pateikiamas kaip valdovas ir karo su Maskva veikėjas."
+  teiginys: "Šaltinyje Steponas Batoras apibūdinamas taip: Paminėtas kaip valdovas ir kaip karų su Maskva veikėjas."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Citata pagrindžia asmens veiksmą šaltinyje.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Steponas Batoras turėjo 43 m. amžiaus.
+  santrauka: Paminėtas kaip valdovas ir kaip karų su Maskva veikėjas.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Tarpuvaldis ir Stepono Batoro (1576—1586 m.) elekcija
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  priskyrimo_pagrindas: explicit_variant
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -1,18 +1,18 @@
 ---
 tipas: asmuo
 pavadinimas: "Jogaila"
-sukurta: "2026-04-17"
-variantai:
-  - "Jogailos"
-  - "Jono Jogailos"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+sukurta: "2026-04-18"
+variantai: []
+aliases: 
+  - "Jogaila"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
 vaidmenys: []
@@ -23,59 +23,30 @@ patikimumas: "aukstas"
 # Jogaila
 
 ## Santrauka
-
-Šaltinyje nurodoma, kad Jogaila pradėjo valdyti, kaip teisėtas tėvo.
-
-## Variantai
-
-- Jogailos
-- Jono Jogailos
-
-## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
-
-## Vaidmenys
-
-## Savybės
-
-## Šaltinių vaizdas
-- sutampantys vertinimai:
-- skirtingi vertinimai:
-
-## Dalyvavimas įvykiuose
+Šaltinyje Jogaila apibūdinamas taip: Paminėtas kaip Algirdo įpėdinis ir Lenkijos karalius.
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje nurodoma, kad Jogaila pradėjo valdyti, kaip teisėtas tėvo."
+  teiginys: "Šaltinyje Jogaila apibūdinamas taip: Paminėtas kaip Algirdo įpėdinis ir Lenkijos karalius."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Citata pagrindžia asmens pareigas arba vaidmenį.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Jogaila pradėjo valdyti, kaip teisėtas tėvo
+  santrauka: Paminėtas kaip Algirdo įpėdinis ir Lenkijos karalius.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Algirdo įpėdinis Jogaila ir jo politika
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata paimta iš nurodyto šaltinio kandidatų ir patikrinta pagal identiteto kontekstą."
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

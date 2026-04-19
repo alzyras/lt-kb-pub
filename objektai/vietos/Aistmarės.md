@@ -1,80 +1,66 @@
 ---
 tipas: vieta
 pavadinimas: "Aistmarės"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: []
+aliases: 
   - "Aistmarės"
-  - "Aistmares"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "marios"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Aistmarės
 
 ## Santrauka
-Aistmarės minimos kaip Baltijos vandens kelių dalis.
+Šaltinyje vieta „Aistmarės“ siejama su šiuo kontekstu: Senasis vietovardis minimas kaip aisčių gyvenamųjų vietų įrodymas Prūsuose. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Aistmarės
-- Aistmares
+- Pagrindinė forma: Aistmarės
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-marios.
+- tipas: lagūna / marios
 
 ## Geografinis ir istorinis kontekstas
-- tipas: marios
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Senasis vietovardis minimas kaip aisčių gyvenamųjų vietų įrodymas Prūsuose. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Aistmarės“ minimas kaip marios: Aistmarės minimos kaip Baltijos vandens kelių dalis."
+  teiginys: "Šaltinyje vieta „Aistmarės“ siejama su šiuo kontekstu: Senasis vietovardis minimas kaip aisčių gyvenamųjų vietų įrodymas Prūsuose."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Aistmarės minimos kaip Baltijos vandens kelių dalis.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    tuoti savo javus. Ji veždavo savo prekes Nemunu; iš Nemuno
-    kelias ėjo per jo šaką Giliją; pasiekus Kuršmares, toliau būdavo
-    plaukiama Deimena pro Labguvą į Prieglių, juo — pro Karaliaučių į Aistmares, iš čia — Nogatu į Vyslą, pagaliau į Dancigą.
+  santrauka: Senasis vietovardis minimas kaip aisčių gyvenamųjų vietų įrodymas Prūsuose.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Būga visas tas gimines vadino aisčiais, argumentuodami tuo, kad
+    taip jas vadina senieji viduramžio raštai ir kad ten, kur jie gyveno,
+    yra tą vardą pateisinančių vietovardžių (pav., _Aistmarės_ Prūsuose).
+  citata_rodoma: |
+    Būga visas tas gimines vadino aisčiais, argumentuodami tuo, kad taip jas vadina senieji viduramžio raštai ir kad ten, kur jie gyveno, yra tą vardą pateisinančių vietovardžių (pav., Aistmarės Prūsuose).
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

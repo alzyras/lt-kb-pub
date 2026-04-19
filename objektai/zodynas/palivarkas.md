@@ -1,91 +1,78 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: "palivarkas"
-sukurta: "2026-04-17"
-variantai:
+pavadinimas: "Palivarkas"
+sukurta: "2026-04-18"
+variantai: 
   - "palivarkai"
-aliases: []
+aliases: 
+  - "Palivarkas"
+  - "palivarkai"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - "istorinė-sąvoka"
-laikotarpis: "XVI amž."
-datos:
-  - "XVI amž."
+laikotarpis: "XVI amžius"
+datos: 
+  - "XVI amžius"
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: 
+  - "XVI"
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "žodyno terminas"
-  - "dvarų ūkis, žemės ūkis"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "aukstas"
 ---
-# palivarkas
+# Palivarkas
 
 ## Santrauka
-
-Terminas „palivarkas“ šiame šaltinyje vartojamas reikšme: dvaro ūkinė valda arba pagalbinis dvaro ūkis. Šaltinio kontekstas sieja jį su: XVI amž..
+Šaltinyje „Palivarkas“ vartojama taip: Pagalbinis dvaro ūkis arba dvaro padalinys. (t-001)
 
 ## Žodis ir formos
-
-- Pagrindinė forma: „palivarkas“.
-- Šaltinyje rasta forma: „palivarkai“.
+- Kanoninis pavadinimas: Palivarkas
+- Formos šaltinyje: palivarkai
 
 ## Laikotarpis ir datos
-- laikotarpis: XVI amž.
-- datos:
-  - XVI amž.
-- periodas:
-- subperiodiai:
+- laikotarpis: XVI amžius
+- datos: XVI amžius
+- periodas: 
+- periodo_grupes: 
+- amziai: XVI
 - date_start: 
 - date_end: 
 
 ## Reikšmė iš konteksto
-
-dvaro ūkinė valda arba pagalbinis dvaro ūkis.
+- Pagalbinis dvaro ūkis arba dvaro padalinys. (t-001)
 
 ## Vartojimas
-
-Vartojimo sritis šaltinyje: dvarų ūkis, žemės ūkis.
+Terminas šaltinyje vartojamas šiame kontekste: žemės ūkio istorija, dvarų ūkis. (t-001)
 
 ## Teiginiai
-
 - id: t-001
-  teiginys: "Pagal vietinį šaltinio kontekstą terminas „palivarkas“ reiškia: dvaro ūkinė valda arba pagalbinis dvaro ūkis."
+  teiginys: "Šaltinyje „Palivarkas“ vartojama taip: Pagalbinis dvaro ūkis arba dvaro padalinys."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
-- id: t-002
-  teiginys: "Šaltinio kontekstas terminą „palivarkas“ sieja su laikotarpiu arba data: XVI amž.."
-  pagrindžia:
-    - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - id: q-001
-  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „palivarkas“.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
+  santrauka: Prie dvarų steigiami ūkiniai padaliniai, aplink kuriuos išdėstomi valstiečių valakai.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
     Išmatavus žemę, geriausiose vietose buvo steigiami dvarai
     ir palivarkai, o aplink juos buvo duodama po valaką valstie-
-    čiams. Jų žemė buvo padalinta trilaukiais, o jie patys apgy-
-    vendinti kaimuose. Už tą dirbamą žemę jie mokėjo dvarui
+    čiams.
+  citata_rodoma: |
+    Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o aplink juos buvo duodama po valaką valstiečiams.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia termino vartoseną arba aiškinimą šaltinyje."
   pagrindžia:
     - t-001
-    - t-002
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

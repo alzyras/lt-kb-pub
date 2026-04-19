@@ -1,82 +1,78 @@
 ---
 tipas: grupe
 pavadinimas: "Amerikos Lietuvių Tautinė Taryba"
-sukurta: "2026-04-17"
+sukurta: "2026-04-18"
 variantai: 
-  - "Amerikos Lietuvių Tautinė Taryba"
+  - "Amerikos Lietuvių Tautinę Tarybą"
 aliases: 
   - "Amerikos Lietuvių Tautinė Taryba"
+  - "Amerikos Lietuvių Tautinę Tarybą"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
+laikotarpis: "1916 m."
 datos: 
   - "1916 m."
-periodas: ""
-subperiodiai: []
+periodas: "naujieji_laikai"
+periodo_grupes: []
+amziai: 
+  - "XX"
 date_start: "1916"
 date_end: "1916"
-vaidmenys: 
-  - "taryba"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Amerikos Lietuvių Tautinė Taryba
 
 ## Santrauka
-
-Tautininkų įkurta taryba, veikusį šalia kitų Amerikos lietuvių politinių centrų.
+Šaltinyje „Amerikos Lietuvių Tautinė Taryba“ apibūdinama kaip taryba; tautininkų suorganizuota taryba, kuri tekste priešpriešinama katalikų tarybai. (t-001)
 
 ## Pavadinimai šaltiniuose
-
-- „Amerikos Lietuvių Tautinė Taryba“
+- Kanoninis pavadinimas: Amerikos Lietuvių Tautinė Taryba
+- Šaltinyje fiksuotos formos: Amerikos Lietuvių Tautinę Tarybą
 
 ## Laikotarpis ir datos
-- laikotarpis: 
+- laikotarpis: 1916 m.
 - datos: 1916 m.
-- periodas:
-- subperiodiai:
+- periodas: naujieji_laikai
+- periodo_grupes: 
+- amziai: XX
 - date_start: 1916
 - date_end: 1916
 
 ## Kas tai
-
-Šaltinyje aiškiai nurodomas grupės tipas: taryba.
+- tipas: taryba
+Šaltinyje „Amerikos Lietuvių Tautinė Taryba“ apibūdinama kaip taryba; tautininkų suorganizuota taryba, kuri tekste priešpriešinama katalikų tarybai. (t-001)
 
 ## Sudėtis ir vaidmuo
-- tipas: taryba
-- laikotarpis: 
-- nariai:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios vietos:
+- Šaltinyje „Amerikos Lietuvių Tautinė Taryba“ apibūdinama kaip taryba; tautininkų suorganizuota taryba, kuri tekste priešpriešinama katalikų tarybai. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje grupė „Amerikos Lietuvių Tautinė Taryba“ apibūdinama taip: Tautininkų įkurta taryba, veikusį šalia kitų Amerikos lietuvių politinių centrų."
+  teiginys: "Šaltinyje „Amerikos Lietuvių Tautinė Taryba“ apibūdinama kaip taryba; tautininkų suorganizuota taryba, kuri tekste priešpriešinama katalikų tarybai."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Tautininkų įkurta taryba, veikusį šalia kitų Amerikos lietuvių politinių centrų.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
+  santrauka: Tautininkų suorganizuota taryba, kuri tekste priešpriešinama katalikų tarybai.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Į katalikų 1916 m. suorganizuotą Tautos Tarybą tau-
+    tininkai nėjo: jie suorganizavo savo Amerikos Lietuvių
+    Tautinę Tarybą.
+  citata_rodoma: |
     Į katalikų 1916 m. suorganizuotą Tautos Tarybą tautininkai nėjo: jie suorganizavo savo Amerikos Lietuvių Tautinę Tarybą.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -35,8 +35,9 @@ spalvu_vertinimas: ""
 
 ## Šaltiniai ir įrodymai
 - šaltinis: [[<šaltinio aprašas>]]
-  citata: |
-    
+  citata_originali: |
+
+  citata_rodoma: ""
   pagrindžia:
 
 ## Pastabos

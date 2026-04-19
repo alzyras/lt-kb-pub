@@ -1,129 +1,68 @@
 ---
 tipas: autorius
 pavadinimas: "P. Šležas"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: []
+aliases: 
   - "P. Šležas"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1930-1936 m. leidinio ir bibliografijos kontekstas"
-datos:
-  - "1930 m."
-  - "1932 m."
-  - "1933 m."
-  - "1936 m."
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+zymos: 
+  - "autorius"
+laikotarpis: ""
+datos: []
 periodas: ""
-subperiodiai: []
-date_start: "1930"
-date_end: "1936"
-vaidmenys:
-  - autorius
-  - bendradarbis
-  - redaktorius
-dalyviai: []
+periodo_grupes: []
+amziai: []
+date_start: ""
+date_end: ""
+vaidmenys: 
+  - "autorius"
+dalyviai: 
+  - "P. Šležas"
 susije_irasai: []
 patikimumas: "vidutinis"
 ---
 # P. Šležas
 
 ## Santrauka
-
-P. Šležas šaltinyje nurodytas kaip „Lietuvos istorijos“ dalies apie rusų valdymo laikus autorius, taip pat bibliografijoje minimas kaip atskirų istorinių darbų autorius ir redaktorius.
-
-## Laikotarpis ir datos
-- laikotarpis: 1930-1936 m. leidinio ir bibliografijos kontekstas
-- datos: 1930 m.; 1932 m.; 1933 m.; 1936 m.
-- periodas:
-- subperiodiai:
-- date_start: 1930
-- date_end: 1936
+Šaltinyje P. Šležas minimas autorystės, redagavimo arba tyrimo kontekste: Įvardytas kaip rusų valdymo laikų autorius.
 
 ## Darbai
-
-- „Lietuvos istorijos“ dalis apie rusų valdymo laikus.
-- „Ar Gediminaičiai yra kilę iš Žemaičių“.
-- „Kauno pilies išgriovimas 1362 m.“.
-- „Bandymai apkrikštyti Lietuvą Algirdo ir Kęstučio laikais“.
-- „Vytautas D.“ - nurodytas kaip redaktorius.
+- Įvardytas kaip rusų valdymo laikų autorius. (t-001)
 
 ## Kontekstas
-
-Šaltinis P. Šležo vaidmenį rodo ir leidinio pratarmėje, ir bibliografijoje.
+- Tekstas tiesiogiai priskiria jam vieną veikalo dalį. (q-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "P. Šležas parašė „Lietuvos istorijos“ dalį apie rusų valdymo laikus."
+  teiginys: "Šaltinyje P. Šležas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Įvardytas kaip rusų valdymo laikų autorius."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
-- id: t-002
-  teiginys: "Bibliografijoje P. Šležas pateikiamas kaip kelių istorinių darbų autorius ir leidinio „Vytautas D.“ redaktorius."
-  pagrindžia:
-    - q-002
-    - q-003
-    - q-004
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Pratarmė nurodo P. Šležo parašytą dalį.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    p. P. Šležas parašė apie rusų valdymo lai-
-    kus
+  santrauka: Įvardytas kaip rusų valdymo laikų autorius.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Pagaliau p. Viceministerio K. Masiliūno rūpesčiu
+    buvo suburta penketas žmonių, sutikusių imtis to darbo ir su-
+    tarusių parašyti kiekvienas apie atskirą mūsų tautos gyvenimo
+    laikotarpį. Tuo būdu p. J. Jakštas parašė apie pirmąjį mūsų
+    tautos valstybinio gyvenimo laikotarpį, iki krikščioniškųjų lai-
+    kų pradžios, dr. Z. Ivinskis — apie sekantį laikotarpį, iki Gedi-
+    minaičių dinastijos galo; man teko tęsinys — iki nepriklausomo-
+    sios valstybės galo; p. P. Šležas parašė apie rusų valdymo lai-
+    kus, o p. P. Klimas — apie nepriklausomosios valstybės atsta-
+    tymą ir nepriklausomojo gyvenimo laikotarpį.
+  citata_rodoma: |
+    Pagaliau p. Viceministerio K. Masiliūno rūpesčiu buvo suburta penketas žmonių, sutikusių imtis to darbo ir sutarusių parašyti kiekvienas apie atskirą mūsų tautos gyvenimo laikotarpį. Tuo būdu p. J. Jakštas parašė apie pirmąjį mūsų tautos valstybinio gyvenimo laikotarpį, iki krikščioniškųjų laikų pradžios, dr. Z. Ivinskis — apie sekantį laikotarpį, iki Gediminaičių dinastijos galo; man teko tęsinys — iki nepriklausomosios valstybės galo; p. P. Šležas parašė apie rusų valdymo laikus, o p. P. Klimas — apie nepriklausomosios valstybės atstatymą ir nepriklausomojo gyvenimo laikotarpį.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Pratarmė tiesiogiai įvardija autorių ir jam priskirtą dalį."
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: "Tekstas tiesiogiai priskiria jam vieną veikalo dalį."
   pagrindžia:
     - t-001
-- id: q-002
-  santrauka: Bibliografijoje P. Šležas siejamas su keliais darbais.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    P. _Šležas,_ Ar Gediminaičiai yra kilę iš Žemaičių
-    (Athenaeum, VI)
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su darbo pavadinimu."
-  pagrindžia:
-    - t-002
-- id: q-003
-  santrauka: Bibliografijoje P. Šležas minimas kaip darbų autorius ir redaktorius.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    P. _Šležas,_ Kauno pilies išgriovimas 1362 m. (Židinys, 1932, Nr. 10);
-    — Ko bėgo Kęstučio sūnus iš Lietuvos (Žid. 1932, Nr. 12)
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai sieja autorių su darbais."
-  pagrindžia:
-    - t-002
-- id: q-004
-  santrauka: Bibliografijoje P. Šležas nurodytas kaip leidinio apie Vytautą Didįjį redaktorius.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    Vytautas D. (1930, red. P. _Šležas)._
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Bibliografinis įrašas tiesiogiai nurodo redaktoriaus vaidmenį."
-  pagrindžia:
-    - t-002
-
-## Ryšiai
-
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-
-## Šaltiniai ir įrodymai
-
-- q-001 pagrindžia jo leidinio dalį.
-- q-002, q-003 ir q-004 pagrindžia bibliografinius paminėjimus.
-
-## Pastabos

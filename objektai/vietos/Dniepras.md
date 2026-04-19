@@ -1,83 +1,81 @@
 ---
 tipas: vieta
 pavadinimas: "Dniepras"
-sukurta: "2026-04-17"
-variantai:
+sukurta: "2026-04-18"
+variantai: 
+  - "Dniepro"
+aliases: 
   - "Dniepras"
   - "Dniepro"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
 laikotarpis: ""
 datos: []
 periodas: ""
-subperiodiai: []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
-vaidmenys:
-  - "upė"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Dniepras
 
 ## Santrauka
-Dniepras minimas kaip rytinis prekybos ir baseino orientyras.
+Šaltinyje vieta „Dniepras“ siejama su šiuo kontekstu: Upė minima kaip ledyno vandens baseinas ir rytinė geografinė kryptis. (t-001)
 
 ## Pavadinimai šaltiniuose
-- Dniepras
-- Dniepro
+- Pagrindinė forma: Dniepras
+- Šaltinyje fiksuotos formos: Dniepro
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-upė.
+- tipas: upė
 
 ## Geografinis ir istorinis kontekstas
-- tipas: upė
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Upė minima kaip ledyno vandens baseinas ir rytinė geografinė kryptis. (t-001)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Dniepras“ minimas kaip upė: Dniepras minimas kaip rytinis prekybos ir baseino orientyras."
+  teiginys: "Šaltinyje vieta „Dniepras“ siejama su šiuo kontekstu: Upė minima kaip ledyno vandens baseinas ir rytinė geografinė kryptis."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Dniepras minimas kaip rytinis prekybos ir baseino orientyras.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    Vienas iš jų svar-
-    biųjų upių kelių į Bizantiją buvo Dauguva ir Dniepras (čia
-    jiems tekdavo sausuma pereiti tiktai nedidelį tarpą, skiriantį tų
-    upių aukštupius). Ilgainiui paliai šitą kelią atsirado vikingų so-
-    dybų: tai buvo sodybos žmonių, saugančių upe keliaujančius
-    pirklius nuo plėšikų.
+  santrauka: Upė minima kaip ledyno vandens baseinas ir rytinė geografinė kryptis.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Ledyno
+    vanduo tuo tarpu tekėjo į Vyslos ir Dniepro baseinus. Nemuno
+    žemupys tebebuvo po ledais: žemutinė jo vaga susidarė vėliau. Bet
+    ir jai susidarius, rytų Lietuvos vandens dar ilgai tekėjo senosio-
+    mis vagomis. Kai ledynas dar tebebuvo apklojęs Žemaičius, jo
+    pakraštyje, apie Kauną, buvo daugybė susitelkusių vandenų. Iš
+    čia, dabartine Nemuno vidurupio vaga, vanduo tekėjo priešingai
+    šiandieninei Nemuno tėkmei — į pietus. Kita srovė tekėjo da-
+    bartine Neries vaga, irgi priešingai šiandieninei jos tėkmei, taigi—
+    į rytus. Ten šis vanduo susiliedavo su dabartiniu Merkiu, kuris
+    tada buvo didžiausia vandens nutekamoji vaga. Į jį taip pat pa-
+    tekdavo ir ta srovė, kuri tekėjo į pietus dabartine Nemuno vidur-
+    upio vaga. Visas tas vanduo patekdavo į Bugą, o juo — į Vyslą.
+    Ledams pasitraukus toliau į šiaurę, atsirado dabartinė žemutinio
+    Nemuno vaga.
+  citata_rodoma: |
+    Ledyno vanduo tuo tarpu tekėjo į Vyslos ir Dniepro baseinus. Nemuno žemupys tebebuvo po ledais: žemutinė jo vaga susidarė vėliau. Bet ir jai susidarius, rytų Lietuvos vandens dar ilgai tekėjo senosiomis vagomis. Kai ledynas dar tebebuvo apklojęs Žemaičius, jo pakraštyje, apie Kauną, buvo daugybė susitelkusių vandenų. Iš čia, dabartine Nemuno vidurupio vaga, vanduo tekėjo priešingai šiandieninei Nemuno tėkmei — į pietus. Kita srovė tekėjo dabartine Neries vaga, irgi priešingai šiandieninei jos tėkmei, taigi— į rytus. Ten šis vanduo susiliedavo su dabartiniu Merkiu, kuris tada buvo didžiausia vandens nutekamoji vaga. Į jį taip pat patekdavo ir ta srovė, kuri tekėjo į pietus dabartine Nemuno vidurupio vaga. Visas tas vanduo patekdavo į Bugą, o juo — į Vyslą. Ledams pasitraukus toliau į šiaurę, atsirado dabartinė žemutinio Nemuno vaga.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

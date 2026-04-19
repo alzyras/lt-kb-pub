@@ -1,83 +1,125 @@
 ---
 tipas: vieta
 pavadinimas: "Rusija"
-sukurta: "2026-04-17"
-variantai:
-  - "Rusija"
-  - "Rusiją"
+sukurta: "2026-04-18"
+variantai: 
   - "Rusijos"
-  - "Rusijoje"
-aliases: []
-saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]"
+  - "Rusiją"
+  - "Rusijai"
+aliases: 
+  - "Rusija"
+  - "Rusijos"
+  - "Rusiją"
+  - "Rusijai"
+saltiniai: 
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: ""
-datos: []
+laikotarpis: "1772 m."
+datos: 
+  - "1772 m."
 periodas: ""
-subperiodiai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "valstybė / kraštas"
+periodo_grupes: []
+amziai: 
+  - "XVIII"
+date_start: "1772"
+date_end: "1772"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: "aukstas"
 ---
 # Rusija
 
 ## Santrauka
-Rusija minima tiek ankstyvųjų žygių, tiek XX a. politikos kontekste.
+Šaltinyje vieta „Rusija“ siejama su šiais kontekstais: Šalis minima kaip Lietuvos istorijos medžiagos išvežimo ir archyvų saugojimo vieta; Minima kaip vieta, į kurią buvo vežami nuo karo ir bado bėgę žmonės, o vėliau kaip Rusijos valstybė Europos politikos kontekste. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
-- Rusija
-- Rusiją
-- Rusijos
-- Rusijoje
+- Pagrindinė forma: Rusija
+- Šaltinyje fiksuotos formos: Rusijos; Rusiją; Rusijai
 
 ## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 
-- periodas:
-- subperiodiai:
-- date_start: 
-- date_end: 
+- laikotarpis: 1772 m.
+- datos: 1772 m.
+- amziai: XVIII
+- date_start/date_end: 1772 / 1772
 
 ## Kas tai
-valstybė / kraštas.
+- tipas: valstybė / šalis; valstybė / kraštas
 
 ## Geografinis ir istorinis kontekstas
-- tipas: valstybė / kraštas
-- regionas:
-- susiję žmonės:
-- susiję įvykiai:
-- susijusios grupės:
+- Šalis minima kaip Lietuvos istorijos medžiagos išvežimo ir archyvų saugojimo vieta. (t-001)
+- Minima kaip vieta, į kurią buvo vežami nuo karo ir bado bėgę žmonės, o vėliau kaip Rusijos valstybė Europos politikos kontekste. (t-002)
+- Minima kaip valstybė, kuri užėmė dalį Lietuvos padalijimo metu. (t-003)
 
 ## Teiginiai
 - id: t-001
-  teiginys: "Šaltinyje „Rusija“ minimas kaip valstybė / kraštas: Rusija minima tiek ankstyvųjų žygių, tiek XX a. politikos kontekste."
+  teiginys: "Šaltinyje vieta „Rusija“ siejama su šiuo kontekstu: Šalis minima kaip Lietuvos istorijos medžiagos išvežimo ir archyvų saugojimo vieta."
   pagrindžia:
     - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Šaltinyje vieta „Rusija“ siejama su šiuo kontekstu: Minima kaip vieta, į kurią buvo vežami nuo karo ir bado bėgę žmonės, o vėliau kaip Rusijos valstybė Europos politikos kontekste."
+  pagrindžia:
+    - q-002
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-003
+  teiginys: "Šaltinyje vieta „Rusija“ siejama su šiuo kontekstu: Minima kaip valstybė, kuri užėmė dalį Lietuvos padalijimo metu."
+  pagrindžia:
+    - q-003
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - id: q-001
-  santrauka: Rusija minima tiek ankstyvųjų žygių, tiek XX a. politikos kontekste.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-  citata: |
-    Karai su totoriais. Rūpindamasis sutvarkyti savo valstybę,
-    po taikos su Voluine Mindaugas dar susidūrė su totoriais, pavergusiais tuo metu visą Rusiją. Mindaugas kartu su Voluine
+  santrauka: Šalis minima kaip Lietuvos istorijos medžiagos išvežimo ir archyvų saugojimo vieta.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Pav., dalis jos per karus buvo išvežta į Švediją; Rusija
+    daug jos išvežė, užėmusi Lietuvą; unijos laikais nemaža jos pa-
+    teko į Lenkiją, o vėlesniais laikais daug medžiagos ten išvežė
+    sulenkėję mūsų dvarininkai. Pagaliau tų pačių dvarininkų ne-
+    maža jos išvežta į Prancūziją, Italiją ir Vokietiją.
+  citata_rodoma: |
+    Pav., dalis jos per karus buvo išvežta į Švediją; Rusija daug jos išvežė, užėmusi Lietuvą; unijos laikais nemaža jos pateko į Lenkiją, o vėlesniais laikais daug medžiagos ten išvežė sulenkėję mūsų dvarininkai. Pagaliau tų pačių dvarininkų nemaža jos išvežta į Prancūziją, Italiją ir Vokietiją.
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai mini vietą ir jos kontekstą šiame šaltinyje."
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
+- id: q-002
+  santrauka: Minima kaip vieta, į kurią buvo vežami nuo karo ir bado bėgę žmonės, o vėliau kaip Rusijos valstybė Europos politikos kontekste.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    išvežti net į Rusiją ar pakliuvo kur nors į kariuomenę. Kaimai
+    ir dvarai buvo sudeginti, ir daug kur po karo sodybų vietose
+    tebuvo tik krūmai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  pagrindžia:
+    - t-002
+- id: q-003
+  santrauka: Minima kaip valstybė, kuri užėmė dalį Lietuvos padalijimo metu.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Rusija užėmė rytinę didžiosios Lietuvos kunigaikštijos dalį
+    iki Dauguvos ir Dniepro. Tuo būdu Rusijai teko Lat-
+    gala, šiaurinė dalis Polocko vaivadijos su pačiu miestu, beveik
+    visos Vitebsko ir Mstislaulio vaivadijos ir dalis Minsko vaivadi-
+    jos.
+  citata_rodoma: |
+    Rusija užėmė rytinę didžiosios Lietuvos kunigaikštijos dalį iki Dauguvos ir Dniepro. Tuo būdu Rusijai teko Latgala, šiaurinė dalis Polocko vaivadijos su pačiu miestu, beveik visos Vitebsko ir Mstislaulio vaivadijos ir dalis Minsko vaivadijos.
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
-- Šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.).md]]
-
-## Šaltiniai ir įrodymai
-- q-001 pateiktas skiltyje „Reikšmingi paminėjimai“ ir pagrindžia t-001.
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

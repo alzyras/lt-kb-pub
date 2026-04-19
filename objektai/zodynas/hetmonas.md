@@ -1,110 +1,82 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: "hetmonas"
-sukurta: "2026-04-17"
-variantai:
-  - "hetmonai"
-  - "hetmono"
-aliases: []
+pavadinimas: "Hetmonas"
+sukurta: "2026-04-18"
+variantai: 
+  - "hetmonas"
+aliases: 
+  - "Hetmonas"
+  - "hetmonas"
 saltiniai:
-  - "[[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
-  - "istorinė-sąvoka"
-laikotarpis: "nuo 1521 m.; XVII a."
-datos:
-  - "nuo 1521 m."
-  - "XVII a."
-periodas: ""
-subperiodiai: []
-date_start: "1521"
-date_end: "1521"
-vaidmenys:
-  - "žodyno terminas"
-  - "karinė valdžia"
+  - "karinis-terminas"
+laikotarpis: "1564 m. pradžioje"
+datos: 
+  - "1564 m. pradžioje"
+periodas: "ankstyvieji_naujieji_laikai"
+periodo_grupes: []
+amziai: 
+  - "XVI"
+date_start: "1564"
+date_end: "1564"
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: ""
+patikimumas: "aukstas"
 ---
-# hetmonas
+# Hetmonas
 
 ## Santrauka
-
-Terminas „hetmonas“ šiame šaltinyje vartojamas reikšme: aukščiausias karo vadas arba kariuomenės vadovas. Šaltinio kontekstas sieja jį su: nuo 1521 m.; XVII a..
+Šaltinyje „Hetmonas“ vartojama taip: Kariuomenės vadas, vyriausias karinis pareigūnas. (t-001)
 
 ## Žodis ir formos
-
-- Pagrindinė forma: „hetmonas“.
-- Šaltinyje rasta forma: „hetmonai“.
-- Šaltinyje rasta forma: „hetmonas“.
-- Šaltinyje rasta forma: „hetmono“.
+- Kanoninis pavadinimas: Hetmonas
+- Formos šaltinyje: hetmonas
 
 ## Laikotarpis ir datos
-- laikotarpis: nuo 1521 m.; XVII a.
-- datos:
-  - nuo 1521 m.
-  - XVII a.
-- periodas:
-- subperiodiai:
-- date_start: 1521
-- date_end: 1521
+- laikotarpis: 1564 m. pradžioje
+- datos: 1564 m. pradžioje
+- periodas: ankstyvieji_naujieji_laikai
+- periodo_grupes: 
+- amziai: XVI
+- date_start: 1564
+- date_end: 1564
 
 ## Reikšmė iš konteksto
-
-aukščiausias karo vadas arba kariuomenės vadovas.
+- Kariuomenės vadas, vyriausias karinis pareigūnas. (t-001)
 
 ## Vartojimas
-
-Vartojimo sritis šaltinyje: karinė valdžia.
+Terminas šaltinyje vartojamas šiame kontekste: karo istorija, kariuomenės vadovybė. (t-001)
 
 ## Teiginiai
-
 - id: t-001
-  teiginys: "Pagal vietinį šaltinio kontekstą terminas „hetmonas“ reiškia: aukščiausias karo vadas arba kariuomenės vadovas."
+  teiginys: "Šaltinyje „Hetmonas“ vartojama taip: Kariuomenės vadas, vyriausias karinis pareigūnas."
   pagrindžia:
     - q-001
-    - q-002
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
-- id: t-002
-  teiginys: "Šaltinio kontekstas terminą „hetmonas“ sieja su laikotarpiu arba data: nuo 1521 m.; XVII a.."
-  pagrindžia:
-    - q-001
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - id: q-001
-  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „hetmonas“.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    giniams reikalams tvarkyti buvo iždininkai, o kariuomenei
-    vadovauti — hetmonai. Hetmonų buvo du: krašto
+  santrauka: Terminas vartojamas karo vadui, kuris ties Ula sumušė caro kariuomenę, įvardyti.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Tuo būdu Maskva jau prisiarti-
+    no prie etnografinių Lietuvos žemių. Bet toliau eiti jai jau
+    nebesisekė: hetmonas Mikalojus Radvila, vadinamas
+    Ruduoju (Juodojo pusbrolis), smarkiai sumušė caro kariuo-
+    menę ties Ula (1564 m. pradžioje; 4.000 lietuvių sumušė apie
+    30.000 maskviečių; kita Maskvos armija, sužinojusi apie pirmo-
+    sios pralaimėjimą, pabėgo be kovos, palikdama didelį grobį).
+  citata_rodoma: |
+    Tuo būdu Maskva jau prisiartino prie etnografinių Lietuvos žemių. Bet toliau eiti jai jau nebesisekė: hetmonas Mikalojus Radvila, vadinamas Ruduoju (Juodojo pusbrolis), smarkiai sumušė caro kariuomenę ties Ula (1564 m. pradžioje; 4.000 lietuvių sumušė apie 30.000 maskviečių; kita Maskvos armija, sužinojusi apie pirmosios pralaimėjimą, pabėgo be kovos, palikdama didelį grobį).
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia termino vartoseną arba aiškinimą šaltinyje."
   pagrindžia:
     - t-001
-    - t-002
-- id: q-002
-  santrauka: Šaltinio ištraukoje vartojamas ar aiškinamas terminas „hetmonas“.
-  šaltinis: [[objektai/saltiniai/A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata: |
-    vadovauti — hetmonai. Hetmonų buvo du: krašto
-    hetmonas vadovaudavo į karą susirinkusiai bajorijai, o
-    kiemo hetmonas, atsiradęs nuo 1521 m., vadovaudavo
-    samdytajai kariuomenei (vėliau kiemo hetmonas buvo pradėtas
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-    - t-002
 
 ## Ryšiai
-
-## Šaltiniai ir įrodymai
-
-## Pastabos
+- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
