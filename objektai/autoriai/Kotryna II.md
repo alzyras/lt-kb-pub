@@ -46,6 +46,7 @@ patikimumas: "vidutinis"
   teiginys: "Šaltinyje Kotryna II minimas kaip rašytoja."
   pagrindžia:
     - q-001
+    - q-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
@@ -67,5 +68,20 @@ patikimumas: "vidutinis"
   patikimumo_saltinis: ai
   priskyrimo_pagrindas: explicit_variant
   patikimumo_pagrindimas: "Šaltinio fragmentas tiesiogiai susieja kandidatą su autorystės, redagavimo, vertimo, kronikininko ar bibliografinio autoriaus kontekstu."
+  pagrindžia:
+    - t-001
+- id: q-002
+  santrauka: Ištrauka tiesiogiai nurodo, kad Kotryna II pati rašė.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Kotryna II taip pat kvietė į Rusiją išgarsėjusius rašytojus ir pati
+    rašė.
+  citata_rodoma: |
+    Kotryna II taip pat kvietė į Rusiją išgarsėjusius rašytojus ir pati rašė.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: "Citata tiesiogiai nurodo Kotryną II ir rašymo veiksmą."
   pagrindžia:
     - t-001

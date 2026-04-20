@@ -34,22 +34,30 @@ patikimumas: "vidutinis"
 # J. Dlugošas
 
 ## Santrauka
-Šaltinyje J. Dlugošas minimas kaip istorikas; šis vaidmuo siejamas su rašymu apie Tanenbergo mūšį.
+Šaltinyje J. Dlugošas minimas kaip istorikas; šis vaidmuo siejamas su rašymu apie Tanenbergo mūšį, o iliustracijos užrašas jį taip pat vadina Kazimiero vaikų auklėtoju.
 
 ## Laikotarpis ir datos
 - XV amž. gale
 
 ## Darbai
 - Rašymas apie Tanenbergo mūšį. (t-001)
+- Iliustracijos užrašas mini jį kaip Kazimiero vaikų auklėtoją istoriką. (t-002)
 
 ## Kontekstas
 - Kazimiero vaikų auklėtojas, tiesiogiai įvardytas kaip istorikas. (q-001)
+- Atskirame užraše J. Dlugošas tiesiogiai vadinamas istoriku ir Kazimiero vaikų auklėtoju. (q-002)
 
 ## Teiginiai
 - id: t-001
   teiginys: "Šaltinyje J. Dlugošas minimas kaip istorikas, siejamas su rašymu apie Tanenbergo mūšį."
   pagrindžia:
     - q-001
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Iliustracijos užrašas J. Dlugošą vadina Kazimiero vaikų auklėtoju istoriku."
+  pagrindžia:
+    - q-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
@@ -71,3 +79,16 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Šaltinio fragmentas tiesiogiai susieja kandidatą su autorystės, redagavimo, vertimo, kronikininko ar bibliografinio autoriaus kontekstu."
   pagrindžia:
     - t-001
+- id: q-002
+  santrauka: Iliustracijos užrašas vadina J. Dlugošą istoriku ir Kazimiero vaikų auklėtoju.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Kazimiero vaikų auklėtojas istorikas J. Dlugošas ir karalaičiai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: "Užrašas tiesiogiai įvardija J. Dlugošą ir jo istoriko vaidmenį."
+  pagrindžia:
+    - t-002

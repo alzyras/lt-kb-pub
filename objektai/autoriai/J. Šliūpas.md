@@ -12,8 +12,10 @@ saltiniai:
 zymos: 
   - "autorius"
   - "redaktorius"
-laikotarpis: ""
-datos: []
+laikotarpis: "1884 m.; 1885 m."
+datos:
+  - "1884 m."
+  - "1885 m."
 periodas: ""
 periodo_grupes: []
 amziai: []
@@ -30,19 +32,34 @@ patikimumas: "vidutinis"
 # J. Šliūpas
 
 ## Santrauka
-Šaltinyje J. Šliūpas minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip vienas iš „Aušros“ redaktorių, vėliau išvykęs į Ameriką.
+Šaltinyje J. Šliūpas minimas kaip vienas iš „Aušros“ redaktorių ir kaip Amerikoje leisto laikraščio „Lietuviškasis Balsas“ leidėjas bei pagrindinis rašytojas.
 
 ## Darbai
 - Minimas kaip vienas iš „Aušros“ redaktorių, vėliau išvykęs į Ameriką. (t-001)
+- 1885 m. pradėjo leisti „Lietuviškąjį Balsą“ ir daugiausia pats jį prirašydavo, spausdindavo ir platindavo. (t-002)
+- Savo laikraštyje kėlė lietuvių susipratimą ir tą patį skelbė prakalbose. (t-003)
 
 ## Kontekstas
 - Tekstas tiesiogiai mini pavardę su inicialu ir redagavimo vaidmenį. (q-001)
+- Amerikos lietuvių spaudos kontekste Šliūpas tiesiogiai siejamas su laikraščio leidimu, rašymu ir viešu kalbėjimu. (q-002, q-003)
 
 ## Teiginiai
 - id: t-001
   teiginys: "Šaltinyje J. Šliūpas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip vienas iš „Aušros“ redaktorių, vėliau išvykęs į Ameriką."
   pagrindžia:
     - q-001
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Šaltinyje nurodoma, kad 1885 m. J. Šliūpas pradėjo leisti „Lietuviškąjį Balsą“, kurį jam tekdavo beveik vienam prirašyti, išspausdinti ir išplatinti."
+  pagrindžia:
+    - q-002
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-003
+  teiginys: "Šaltinyje nurodoma, kad J. Šliūpas savo laikraštyje kėlė lietuvių susipratimą ir tą patį skelbė prakalbose."
+  pagrindžia:
+    - q-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
@@ -67,3 +84,43 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Tekstas tiesiogiai mini pavardę su inicialu ir redagavimo vaidmenį."
   pagrindžia:
     - t-001
+- id: q-002
+  santrauka: Ištrauka sieja J. Šliūpą su „Lietuviškojo Balso“ leidimu, rašymu, spausdinimu ir platinimu.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Kaip tik tuo metu (1884 m.) atvyko j J. Amerikos Valstybes
+    iš Lietuvos pabėgęs į Prūsus, o iš čia Prūsų valdžios ištremtas
+    aušrininkas J. Šliūpas. Jis pasidarė viso tautiškojo lietuvių
+    judėjimo vadas. Iš pradžių jis ėmė dirbti čia atrastoje lietuvių
+    spaudoje kartu su veikėjais, palaikiusiais ryšius su lenkais.
+    Bet
+    1885 m. jau ėmė leisti savo laikraštį „Lietuviškąjį Bal-
+    są", kurį jam tekdavo beveik vienam ir prirašyti, ir išspausdinti
+    ir išplatinti.
+  citata_rodoma: |
+    Kaip tik tuo metu (1884 m.) atvyko j J. Amerikos Valstybes iš Lietuvos pabėgęs į Prūsus, o iš čia Prūsų valdžios ištremtas aušrininkas J. Šliūpas. Jis pasidarė viso tautiškojo lietuvių judėjimo vadas. Iš pradžių jis ėmė dirbti čia atrastoje lietuvių spaudoje kartu su veikėjais, palaikiusiais ryšius su lenkais. Bet 1885 m. jau ėmė leisti savo laikraštį „Lietuviškąjį Balsą", kurį jam tekdavo beveik vienam ir prirašyti, ir išspausdinti ir išplatinti.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: "Citata tiesiogiai nurodo J. Šliūpą ir jo leidybinį darbą."
+  pagrindžia:
+    - t-002
+- id: q-003
+  santrauka: Ištrauka nurodo Šliūpo laikraščio programinį turinį ir prakalbas.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Per 4 metus, padedamas Lietuvoje ir Rusijoje gy-
+    venančių lietuvių inteligentų, savo laikraštyje jis kėlė lietuvių
+    susipratimą, ragino pačius lietuvius tvarkyti savo gyvenimą, o
+    nesiglausti prie lenkų. Tą patį jis skelbė ir gyvu žodžiu savo
+    prakalbose.
+  citata_rodoma: |
+    Per 4 metus, padedamas Lietuvoje ir Rusijoje gyvenančių lietuvių inteligentų, savo laikraštyje jis kėlė lietuvių susipratimą, ragino pačius lietuvius tvarkyti savo gyvenimą, o nesiglausti prie lenkų. Tą patį jis skelbė ir gyvu žodžiu savo prakalbose.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: adjacent_named_context
+  patikimumo_pagrindimas: "Citata tęsia prieš tai tiesiogiai įvardyto J. Šliūpo laikraščio kontekstą."
+  pagrindžia:
+    - t-003
