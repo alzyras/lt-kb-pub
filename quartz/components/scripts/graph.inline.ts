@@ -92,6 +92,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     labelDegreeThreshold = 2,
     labelScaleMin = 0.12,
     labelScaleMax = 4,
+    labelShowAllZoom = 2,
   } = JSON.parse(graph.dataset["cfg"]!) as D3Config
 
   const data: Map<SimpleSlug, ContentDetails> = new Map(
@@ -358,6 +359,10 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const zoomLevel = currentTransform.k * opacityScale
     const degree = nodeDegree.get(node.simulationData.id) ?? 0
     const rank = nodeRank.get(node.simulationData.id) ?? Number.POSITIVE_INFINITY
+    if (zoomLevel >= labelShowAllZoom) {
+      return 0.86
+    }
+
     const graphIsDense = graphData.nodes.length > 100
     const importantFloor = graphIsDense ? 10 : 6
     const zoomProgress = clamp((zoomLevel - labelMinZoom) / (4 - labelMinZoom), 0, 1)
