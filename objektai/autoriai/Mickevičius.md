@@ -13,7 +13,7 @@ saltiniai:
 zymos:
   - "autorius"
 laikotarpis: ""
-datos:[]
+datos: []
 periodas: ""
 periodo_grupes: []
 amziai: []
