@@ -19,6 +19,7 @@ const ADVANCED_KEYS = new Set([
 ])
 const QUOTE_DISPLAY_KEY = "citata_rodoma"
 const QUOTE_ORIGINAL_KEY = "citata_originali"
+const QUOTE_LEGACY_DISPLAY_KEY = "citata"
 
 interface EvidenceEntry {
   id: string
@@ -65,6 +66,10 @@ function markdownCell(text: string): string {
 
 function markdownText(text: string): string {
   return text.replace(/\r?\n+/g, " ").trim()
+}
+
+function advancedCell(text: string): string {
+  return escapeHtml(text).replace(/\r?\n/g, "<br>")
 }
 
 function lineIndent(line: string): number {
@@ -292,7 +297,7 @@ function advancedRows(entry: EvidenceEntry, displayedQuote: string): string[] {
   const rows: string[] = []
   const original = entry.fields.get(QUOTE_ORIGINAL_KEY) ?? ""
   if (original && original.trim() !== displayedQuote.trim()) {
-    rows.push(`<tr><th>citata_originali</th><td><pre>${escapeHtml(original)}</pre></td></tr>`)
+    rows.push(`<tr><th>citata_originali</th><td>${advancedCell(original)}</td></tr>`)
   }
   for (const key of [
     "teiginio_tipas",
@@ -323,8 +328,9 @@ function renderMentionsSection(sectionLines: string[]): string[] | null {
     const summary = entry.fields.get("santrauka") ?? ""
     const source = entry.fields.get("šaltinis") ?? entry.fields.get("saltinis") ?? ""
     const displayQuote = entry.fields.get(QUOTE_DISPLAY_KEY)?.trim()
+    const legacyDisplayQuote = entry.fields.get(QUOTE_LEGACY_DISPLAY_KEY)?.trim()
     const originalQuote = entry.fields.get(QUOTE_ORIGINAL_KEY)?.trim() ?? ""
-    const quote = displayQuote || originalQuote
+    const quote = displayQuote || legacyDisplayQuote || originalQuote
 
     out.push(`${pill(entry.id)}`, "")
     if (summary) {
@@ -354,7 +360,11 @@ function renderStructuredSection(title: string, sectionLines: string[]): string[
   if (title === "Teiginiai") {
     return renderClaimsSection(sectionLines)
   }
-  if (title === "Reikšmingi paminėjimai") {
+  if (
+    title === "Reikšmingi paminėjimai" ||
+    title === "Šaltiniai ir įrodymai" ||
+    title === "Bibliografiniai įrodymai"
+  ) {
     return renderMentionsSection(sectionLines)
   }
   return null
@@ -437,7 +447,7 @@ function transformFallbackLines(lines: string[]): string[] {
 export const AdvancedEvidence: QuartzTransformerPlugin = () => ({
   name: "AdvancedEvidence",
   textTransform(_ctx, src) {
-    const lines = src.split("\n")
+    const lines = src.replace(/^((?:---\n[\s\S]*?\n---\n)?\s*)#\s+.+(?:\n|$)/, "$1").split("\n")
     const out: string[] = []
 
     for (let idx = 0; idx < lines.length; idx++) {
