@@ -43,15 +43,15 @@ patikimumas: "aukstas"
 - Minima kartu su Jėznu ir Butrimonimis kaip atimta vieta. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Krekenava“ siejama su šiuo kontekstu: Minima kartu su Jėznu ir Butrimonimis kaip atimta vieta."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minima kartu su Jėznu ir Butrimonimis kaip atimta vieta.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

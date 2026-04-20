@@ -43,15 +43,15 @@ patikimumas: "vidutinis"
 - date_end: 1911
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje K. Alšauskas apibūdinamas taip: Minimas kaip „Saulės“ draugijos atstovas, rinkęs aukas Amerikoje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip „Saulės“ draugijos atstovas, rinkęs aukas Amerikoje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

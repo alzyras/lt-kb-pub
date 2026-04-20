@@ -43,15 +43,15 @@ patikimumas: "aukstas"
 - Minima kaip vieta, į kurią lietuviai nusigaudavo per įlanką. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Sarema“ siejama su šiuo kontekstu: Minima kaip vieta, į kurią lietuviai nusigaudavo per įlanką."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minima kaip vieta, į kurią lietuviai nusigaudavo per įlanką.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -37,16 +37,16 @@ Ordino kariuomenė pasiekia Vilnių ir Trakus, padalijama į tris grupes, o po t
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Ordino kariuomenė pasiekia Vilnių ir Trakus, padalijama į tris grupes, o po to prasideda ir partizaninis karas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Ordino kariuomenė pasiekia Vilnių ir Trakus, padalijama į tris grupes, o po to prasideda ir partizaninis karas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

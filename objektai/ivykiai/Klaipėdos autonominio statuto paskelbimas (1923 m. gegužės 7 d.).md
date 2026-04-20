@@ -37,16 +37,16 @@ Lietuva paskelbė autonominį Klaipėdos statutą, kai derybose jau buvo pasiekt
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Lietuva paskelbė autonominį Klaipėdos statutą, kai derybose jau buvo pasiektas dalinis susitarimas su didžiosiomis valstybėmis."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Lietuva paskelbė autonominį Klaipėdos statutą, kai derybose jau buvo pasiektas dalinis susitarimas su didžiosiomis valstybėmis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

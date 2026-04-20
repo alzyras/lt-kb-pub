@@ -37,16 +37,16 @@ Katalikų Federacija sušaukė pirmąjį lietuvių moksleivių suvažiavimą Či
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Katalikų Federacija sušaukė pirmąjį lietuvių moksleivių suvažiavimą Čikagoje ir įkūrė moksleivių susivienijimą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Katalikų Federacija sušaukė pirmąjį lietuvių moksleivių suvažiavimą Čikagoje ir įkūrė moksleivių susivienijimą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

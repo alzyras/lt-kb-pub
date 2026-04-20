@@ -50,16 +50,16 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Lietuvos ir Lenkijos 1499 m. aktas (aktas)“ siejamas su šiuo kontekstu: Tekste aprašomas 1499 m. Lietuvos ir Lenkijos susitarimas dėl bendro valdovo rinkimo ir sąjungos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tekste aprašomas 1499 m. Lietuvos ir Lenkijos susitarimas dėl bendro valdovo rinkimo ir sąjungos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

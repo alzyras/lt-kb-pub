@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Tautų Sąjungos Taryba“ apibūdinama kaip taryba; Tautų Sąjungos Taryba siūlė ginčą spręsti plebiscitu Tautų Sąjungos priežiūroje. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Tautų Sąjungos Taryba“ apibūdinama kaip taryba; Tautų Sąjungos Taryba siūlė ginčą spręsti plebiscitu Tautų Sąjungos priežiūroje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tautų Sąjungos Taryba siūlė ginčą spręsti plebiscitu Tautų Sąjungos priežiūroje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

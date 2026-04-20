@@ -47,31 +47,31 @@ patikimumas: "vidutinis"
 - A. Jakšto lenkiškai parašyta brošiūra „Lietuvių Balsas“ minima 1902 m. kontekste. (t-003)
 
 ## Kontekstas
-- Tekstas jį tiesiogiai apibūdina kaip mokslininką, literatūros kritiką, publicistą ir poetą, o taip pat sieja su Kaune leistu mokslo žurnalu „Draugija“ ir brošiūra „Lietuvių Balsas“. (q-001)
-- Atskiri fragmentai pagrindžia jo vaidmenų apibūdinimą ir „Lietuvių Balsą“. (q-002, q-003)
+- Tekstas jį tiesiogiai apibūdina kaip mokslininką, literatūros kritiką, publicistą ir poetą, o taip pat sieja su Kaune leistu mokslo žurnalu „Draugija“ ir brošiūra „Lietuvių Balsas“. (c-001)
+- Atskiri fragmentai pagrindžia jo vaidmenų apibūdinimą ir „Lietuvių Balsą“. (c-002, c-003)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Adomas Dambrauskas Jakštas minimas kaip publicistas ir poetas, siejamas su: „Draugija“; „Lietuvių Balsas“."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje Adomas Dambrauskas Jakštas apibūdintas kaip mokslininkas, literatūros kritikas, publicistas ir poetas."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-003
+- t-003
   teiginys: "Šaltinyje nurodoma, kad buvo išleista A. Jakšto lenkiškai parašyta brošiūra „Lietuvių Balsas“."
   pagrindžia:
-    - q-003
+    - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje Adomas Dambrauskas Jakštas minimas kaip publicistas ir poetas, siejamas su: „Draugija“; „Lietuvių Balsas“.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -88,7 +88,7 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Šaltinio fragmentas tiesiogiai susieja kandidatą su autorystės, redagavimo, vertimo, kronikininko ar bibliografinio autoriaus kontekstu."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Ištrauka pateikia Adomo Dambrausko Jakšto vaidmenų apibūdinimą ir gimimo metus.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -104,7 +104,7 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija Adomą Dambrauską Jakštą ir jo vaidmenis."
   pagrindžia:
     - t-002
-- id: q-003
+- c-003
   santrauka: Ištrauka mini A. Jakšto lenkiškai parašytą brošiūrą „Lietuvių Balsas“.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

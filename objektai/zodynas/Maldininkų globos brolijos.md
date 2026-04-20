@@ -53,15 +53,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: kryžiaus žygiai, religinės brolijos, ordino istorija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Maldininkų globos brolijos“ vartojama taip: Religinės pagalbos brolijos maldininkams globoti, iš kurių išsirutuliojo karinės ordino struktūros."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Aprašomos brolijos, kurios pradžioje saugojo maldininkus, o vėliau virto riterių ordinais.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

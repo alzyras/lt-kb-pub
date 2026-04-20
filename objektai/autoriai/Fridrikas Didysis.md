@@ -35,18 +35,18 @@ patikimumas: "vidutinis"
 - poezijos ir mokslo veikalai. (t-001)
 
 ## Kontekstas
-- Minimas kaip valdovas, kuris savo dvare laikė Volterą ir pats rašė poezijos bei mokslo veikalus. (q-001)
+- Minimas kaip valdovas, kuris savo dvare laikė Volterą ir pats rašė poezijos bei mokslo veikalus. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Fridrikas Didysis minimas kaip rašytojas, siejamas su: poezijos ir mokslo veikalai."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje Fridrikas Didysis minimas kaip rašytojas, siejamas su: poezijos ir mokslo veikalai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

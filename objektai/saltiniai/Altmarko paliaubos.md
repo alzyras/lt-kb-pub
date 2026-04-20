@@ -46,16 +46,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Altmarko paliaubos“ siejamas su šiuo kontekstu: Po Švedijos karo su Lietuva ir Lenkija Altmarke buvo sudarytos šešerių metų paliaubos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Po Švedijos karo su Lietuva ir Lenkija Altmarke buvo sudarytos šešerių metų paliaubos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

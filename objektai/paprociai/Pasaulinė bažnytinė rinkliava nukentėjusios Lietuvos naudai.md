@@ -48,15 +48,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: popiežiaus paskelbta pasaulinė bažnytinė rinkliava nukentėjusios Lietuvos naudai (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Pasaulinė bažnytinė rinkliava nukentėjusios Lietuvos naudai“ siejama su formuluote: popiežiaus paskelbta pasaulinė bažnytinė rinkliava nukentėjusios Lietuvos naudai. Šaltinio kontekste nurodoma: kas atlieka: Šveicarijos komitetas; kada atliekama: 1917 m. pradžioj."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinis mini Šveicarijoje susidariusį komitetą, kuris tvarkė popiežiaus paskelbtą pasaulinę bažnytinę rinkliavą nukentėjusios Lietuvos naudai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

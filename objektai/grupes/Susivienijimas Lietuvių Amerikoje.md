@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Susivienijimas Lietuvių Amerikoje“ apibūdinama kaip susivienijimas; taip pavadintas buvęs katalikiškas susivienijimas po pervadinimo. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Susivienijimas Lietuvių Amerikoje“ apibūdinama kaip susivienijimas; taip pavadintas buvęs katalikiškas susivienijimas po pervadinimo."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Taip pavadintas buvęs katalikiškas susivienijimas po pervadinimo.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -49,15 +49,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: Po to prasidėjo priesaika, padėkos pamaldos (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Priesaika ir padėkos pamaldos po Liublino unijos akto patvirtinimo“ siejama su formuluote: Po to prasidėjo priesaika, padėkos pamaldos. Šaltinio kontekste nurodoma: kas atlieka: nenurodyta tiesiogiai; seimo dalyviai; kada atliekama: po to, kai lietuviai sutiko su lenkų paruoštojo akto nuostatais; prieš 1569 m. liepos 1 d.."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tai ceremoninis Liublino unijos akto priėmimo pabaigos veiksmas: po sutarimo minimos priesaikos ir padėkos pamaldos prieš galutinį aktų patvirtinimą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

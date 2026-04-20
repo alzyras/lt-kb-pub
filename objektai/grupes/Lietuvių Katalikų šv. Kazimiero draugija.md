@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Lietuvių Katalikų šv. Kazimiero draugija“ apibūdinama kaip draugija; 1930 m. ši draugija pradėjo leisti savaitraštį „Švyturį“, ir tai pagyvino tautišką veikimą Argentinoje. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Lietuvių Katalikų šv. Kazimiero draugija“ apibūdinama kaip draugija; 1930 m. ši draugija pradėjo leisti savaitraštį „Švyturį“, ir tai pagyvino tautišką veikimą Argentinoje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: 1930 m. ši draugija pradėjo leisti savaitraštį „Švyturį“, ir tai pagyvino tautišką veikimą Argentinoje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

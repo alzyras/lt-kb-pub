@@ -48,15 +48,15 @@ patikimumas: "vidutinis"
 Terminas šaltinyje vartojamas šiame kontekste: viduramžių politinė terminija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Lenininkas“ vartojama taip: Lenkijai pavaldus valdovas arba vasalas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Žodis vartojamas Lenkijai pavaldžiam Mozūrų kunigaikščiui įvardyti.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

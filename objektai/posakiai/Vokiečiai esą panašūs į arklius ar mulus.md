@@ -47,15 +47,15 @@ Prūsas, pamatęs kryžiuočius valgant kopūstus, juos pašiepiamai palygina su
 Tai ryškus, kandus palyginimas, kuriame vokiečiai vaizduojami kaip gyvuliai, galintys maitintis žole. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje užfiksuota formuluotė „Vokiečiai esą panašūs į arklius ar mulus — galį pavalgyti žolės“; kontekstas: Prūsas, pamatęs kryžiuočius valgant kopūstus, juos pašiepiamai palygina su arkliais ar mulais, galinčiais ėsti žolę."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

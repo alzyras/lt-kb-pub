@@ -30,15 +30,15 @@ patikimumas: "aukstas"
 - vysk. Zvieravičius
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Zvieravičius apibūdinamas taip: Minimas kaip Vilniaus vyskupas, duodavęs tokius pat atsakymus kaip Franckevičius."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip Vilniaus vyskupas, duodavęs tokius pat atsakymus kaip Franckevičius.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

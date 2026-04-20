@@ -39,15 +39,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: Į Rytprūsius iš visos Vokietijos daromos jaunimo ekskursijos; čia taip pat organizuojamos įvairios šventės ir kursai (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Rytprūsių jaunimo ekskursijos, šventės ir kursai“ siejama su formuluote: Į Rytprūsius iš visos Vokietijos daromos jaunimo ekskursijos; čia taip pat organizuojamos įvairios šventės ir kursai."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinis aprašo organizuotas jaunimo išvykas ir renginius Rytprūsiuose, kurių tikslas buvo įskiepyti vokiečių jaunimui ekspansinę valstybinę idėją.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -48,16 +48,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Z. Helcel, O dwukrotnem zamęžciu L. K. Radzwiłłówny (1857 m.)“ pateikiamas kaip bibliografinis arba turinio sąrašo paminėjimas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Bibliografiniai įrodymai
 
-- id: q-001
+- c-001
   santrauka: Šaltinis šioje bibliografinėje apžvalgoje minimas skyriaus „XXII. Valstybės pakrikimo ir reformų bandymų laikai“ sąraše.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

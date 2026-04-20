@@ -43,15 +43,15 @@ patikimumas: "aukstas"
 - date_end: 1844
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Fridrikas Vilhelmas IV apibūdinamas taip: Karalius, pakartojęs raštą dėl lietuviams skiriamų stipendijų ir leidęs dėstyti lietuvių kalbą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Karalius, pakartojęs raštą dėl lietuviams skiriamų stipendijų ir leidęs dėstyti lietuvių kalbą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

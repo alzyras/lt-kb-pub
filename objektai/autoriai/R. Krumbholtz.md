@@ -37,18 +37,18 @@ patikimumas: "vidutinis"
 - Samaiten u. d. D. Orden bis zum Frieden am Melno-See. (t-001)
 
 ## Kontekstas
-- Algirdo ir Kęstučio laikų bibliografijoje nurodytas kaip darbas apie Žemaitiją ir ordiną. (q-001)
+- Algirdo ir Kęstučio laikų bibliografijoje nurodytas kaip darbas apie Žemaitiją ir ordiną. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje R. Krumbholtz minimas kaip autorius, siejamas su: Samaiten u. d. D. Orden bis zum Frieden am Melno-See."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje R. Krumbholtz minimas kaip autorius, siejamas su: Samaiten u. d. D. Orden bis zum Frieden am Melno-See.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

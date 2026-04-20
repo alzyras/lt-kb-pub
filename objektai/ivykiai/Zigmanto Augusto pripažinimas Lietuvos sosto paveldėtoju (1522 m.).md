@@ -44,16 +44,16 @@ Bonos rūpesčiu Zigmantas Augustas dar vaikystėje buvo pripažintas Lietuvos s
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Bonos rūpesčiu Zigmantas Augustas dar vaikystėje buvo pripažintas Lietuvos sosto paveldėtoju."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Bonos rūpesčiu Zigmantas Augustas dar vaikystėje buvo pripažintas Lietuvos sosto paveldėtoju.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

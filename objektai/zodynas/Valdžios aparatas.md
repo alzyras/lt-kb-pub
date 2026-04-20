@@ -48,15 +48,15 @@ patikimumas: "vidutinis"
 Terminas šaltinyje vartojamas šiame kontekste: valstybės sandara, administracija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Valdžios aparatas“ vartojama taip: Valstybės administracinė mašina, valdžios institucijų visuma."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekste pabrėžiama, kad ankstyvojoje valdovo gyvenamojoje vietoje nebuvo jokios išplėtotos administracijos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

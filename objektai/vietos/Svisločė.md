@@ -46,15 +46,15 @@ patikimumas: "aukstas"
 - Minima kaip Dauguvos ir Nemuno baseino dalis rytinės sienos apraše. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Svisločė“ siejama su šiuo kontekstu: Minima kaip Dauguvos ir Nemuno baseino dalis rytinės sienos apraše."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minima kaip Dauguvos ir Nemuno baseino dalis rytinės sienos apraše.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

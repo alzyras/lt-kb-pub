@@ -30,15 +30,15 @@ patikimumas: "vidutinis"
 - Butrimavičius
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje T. Butrimavičius apibūdinamas taip: Minimas kaip Pinsko bajoras, daugiausia prisidėjęs prie magistralinių kelių tiesimo iš Pinsko į Slanimą ir Voluinę."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip Pinsko bajoras, daugiausia prisidėjęs prie magistralinių kelių tiesimo iš Pinsko į Slanimą ir Voluinę.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

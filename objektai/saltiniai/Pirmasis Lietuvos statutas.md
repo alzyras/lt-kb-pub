@@ -51,27 +51,27 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Pirmasis Lietuvos statutas“ šis dokumentas siejamas su Zigmantu Augustu ir bajorijos teisių plėtimu, o vėlesnėje pastraipoje aiškiai pasakoma, kad jis rodė Lietuvą kaip savarankišką valstybę."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Pirmasis Lietuvos statutas“ siejamas su šiuo kontekstu: Tekste pirmasis Lietuvos statutas minimas kaip 1529 m. patvirtintas teisynas, dar labiau praplėtęs bajorijos teises."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-003
+- t-003
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Pirmasis Lietuvos statutas“ pateikiamas kaip bibliografinis arba turinio sąrašo paminėjimas."
   pagrindžia:
-    - q-003
+    - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tekste šis dokumentas siejamas su Zigmantu Augustu ir bajorijos teisių plėtimu, o vėlesnėje pastraipoje aiškiai pasakoma, kad jis rodė Lietuvą kaip savarankišką valstybę.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -92,7 +92,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Tekste pirmasis Lietuvos statutas minimas kaip 1529 m. patvirtintas teisynas, dar labiau praplėtęs bajorijos teises.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -121,7 +121,7 @@ patikimumas: "aukstas"
 
 ## Bibliografiniai įrodymai
 
-- id: q-003
+- c-003
   santrauka: Šaltinis šioje bibliografinėje apžvalgoje minimas skyriaus „XV. Visuomeniniai santykiai ir valstybės santvarka XVI a“ sąraše.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

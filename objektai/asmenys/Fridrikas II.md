@@ -32,15 +32,15 @@ patikimumas: "aukstas"
 - Prūsų Fridriku II
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Fridrikas II apibūdinamas taip: Minimas kaip Prūsijos valdovas, su kuriuo Kotryna II derino Poniatausko kandidatūrą ir dalinimo klausimą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip Prūsijos valdovas, su kuriuo Kotryna II derino Poniatausko kandidatūrą ir dalinimo klausimą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

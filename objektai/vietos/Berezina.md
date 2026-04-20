@@ -46,15 +46,15 @@ patikimumas: "aukstas"
 - Minima kaip mūšio vieta, po kurios Napoleonas traukėsi atgal. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Berezina“ siejama su šiuo kontekstu: Minima kaip mūšio vieta, po kurios Napoleonas traukėsi atgal."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minima kaip mūšio vieta, po kurios Napoleonas traukėsi atgal.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

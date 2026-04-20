@@ -47,15 +47,15 @@ patikimumas: "aukstas"
 Karinis transporto objektas, šaltinyje minimas Varėnos stoties užėmimo kontekste. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinis nurodo, kad 1920 m. spalių 3-4 d. lenkai Varėnos stotyje paėmė lietuvių šarvuotą traukinį."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai nurodo šarvuoto traukinio paėmimą Varėnos stotyje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

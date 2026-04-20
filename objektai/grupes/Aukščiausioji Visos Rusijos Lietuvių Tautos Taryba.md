@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba“ apibūdinama kaip taryba; voroneže sukurta taryba, toliau skleidusi nepriklausomybės šūkį po seimo iširimo. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba“ apibūdinama kaip taryba; voroneže sukurta taryba, toliau skleidusi nepriklausomybės šūkį po seimo iširimo."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Voroneže sukurta taryba, toliau skleidusi nepriklausomybės šūkį po seimo iširimo.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -44,15 +44,15 @@ patikimumas: "vidutinis"
 Organizacijų aprangos atributas, šaltinyje minimas kartu su organizacijų ženklais. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinis mini daugelio organizacijų turėtas puošnias uniformas, kurios vėliau išnyko."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai mini puošnias uniformas ir ženklus.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

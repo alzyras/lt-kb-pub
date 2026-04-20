@@ -43,15 +43,15 @@ patikimumas: "vidutinis"
 - date_end: 1921
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Hymansas apibūdinamas taip: Minimas kaip Belgų atstovas, kuriam pavesta pirmininkauti Lietuvos ir Lenkijos deryboms dėl Vilniaus klausimo."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip Belgų atstovas, kuriam pavesta pirmininkauti Lietuvos ir Lenkijos deryboms dėl Vilniaus klausimo.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

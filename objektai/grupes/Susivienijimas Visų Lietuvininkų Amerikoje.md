@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Susivienijimas Visų Lietuvininkų Amerikoje“ apibūdinama kaip susivienijimas; pirmasis bandymas sujungti Amerikos lietuvius į vieną organizaciją; tikslas aiškiai įvardytas citatoje. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Susivienijimas Visų Lietuvininkų Amerikoje“ apibūdinama kaip susivienijimas; pirmasis bandymas sujungti Amerikos lietuvius į vieną organizaciją; tikslas aiškiai įvardytas citatoje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Pirmasis bandymas sujungti Amerikos lietuvius į vieną organizaciją; tikslas aiškiai įvardytas citatoje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -30,15 +30,15 @@ patikimumas: "aukstas"
 - K. Masiliūno
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje K. Masiliūnas apibūdinamas taip: Paminėtas kaip viceministras, kurio rūpesčiu suburti bendraautoriai."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Paminėtas kaip viceministras, kurio rūpesčiu suburti bendraautoriai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

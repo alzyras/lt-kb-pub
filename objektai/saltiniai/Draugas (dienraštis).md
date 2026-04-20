@@ -43,16 +43,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Draugas (dienraštis)“ siejamas su šiuo kontekstu: Tekste šis pavadinimas įvardijamas kaip vienas iš keturių tuo metu ėjusių lietuviškų dienraščių."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tekste šis pavadinimas įvardijamas kaip vienas iš keturių tuo metu ėjusių lietuviškų dienraščių.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

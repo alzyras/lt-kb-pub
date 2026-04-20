@@ -30,15 +30,15 @@ patikimumas: "aukstas"
 - Henriką
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Henrikas (Mozūrų kunigaikštis) apibūdinamas taip: Mozūrų kunigaikštis, Jogailos pasiųstas pas Vytautą deryboms."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Mozūrų kunigaikštis, Jogailos pasiųstas pas Vytautą deryboms.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

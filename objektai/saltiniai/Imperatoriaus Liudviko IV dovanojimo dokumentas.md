@@ -44,16 +44,16 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Imperatoriaus Liudviko IV dovanojimo dokumentas“ tai iliustruotas dovanojimo dokumentas, kuriame imperatorius Liudvikas IV dovanoja Lietuvą ordino magistrui Ditrichui von Altenburgui."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tai iliustruotas dovanojimo dokumentas, kuriame imperatorius Liudvikas IV dovanoja Lietuvą ordino magistrui Ditrichui von Altenburgui.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

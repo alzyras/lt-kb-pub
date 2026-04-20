@@ -43,16 +43,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Ūkininkas (laikraštis)“ siejamas su šiuo kontekstu: Minimas kaip varpininkų leidžiamas laikraštis, kurį „Apžvalga“ stengėsi atstoti."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Minimas kaip varpininkų leidžiamas laikraštis, kurį „Apžvalga“ stengėsi atstoti.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

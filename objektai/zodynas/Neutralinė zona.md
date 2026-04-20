@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: karo diplomatija, sienų ir demarkacijos klausimai. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Neutralinė zona“ vartojama taip: Laikina teritorinė juosta tarp kariaujančių pusių, skirta kovoms sustabdyti."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Žodis vartojamas apie laikiną tarp kariuomenių nustatytą juostą, kurioje turėjo būti sustabdyti kovos veiksmai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

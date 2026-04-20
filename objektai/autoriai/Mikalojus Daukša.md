@@ -43,18 +43,18 @@ patikimumas: "vidutinis"
 - katekizmo vertimas; postilės vertimas. (t-001)
 
 ## Kontekstas
-- Minimas kaip kanoninkas, vyskupo raginamas išleidęs lietuviškų katalikiškų tekstų vertimus. (q-001)
+- Minimas kaip kanoninkas, vyskupo raginamas išleidęs lietuviškų katalikiškų tekstų vertimus. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Mikalojus Daukša minimas kaip vertėjas, siejamas su: katekizmo vertimas; postilės vertimas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje Mikalojus Daukša minimas kaip vertėjas, siejamas su: katekizmo vertimas; postilės vertimas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

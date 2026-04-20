@@ -46,16 +46,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Jogailos ir Vytauto privilegija“ siejamas su šiuo kontekstu: Tekste ši 1413 m. privilegija minima kaip vienas iš ankstesnių teisinių dokumentų, davusių medžiagos Statutui."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tekste ši 1413 m. privilegija minima kaip vienas iš ankstesnių teisinių dokumentų, davusių medžiagos Statutui.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

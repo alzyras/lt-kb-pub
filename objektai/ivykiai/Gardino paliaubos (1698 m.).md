@@ -43,17 +43,17 @@ Prie Gardino pasiekta laikina taika tarp Sapiegų ir bajorijos, kai Flemingas ta
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Prie Gardino pasiekta laikina taika tarp Sapiegų ir bajorijos, kai Flemingas tarpininkavo ir privertė Sapiegas nusileisti."
   pagrindžia:
-    - q-001
-    - q-002
+    - c-001
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Citata pagrindžia įvykio „Gardino paliaubos (1698 m.)“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -71,7 +71,7 @@ Prie Gardino pasiekta laikina taika tarp Sapiegų ir bajorijos, kai Flemingas ta
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia teiginį šaltinio tekste."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Citata pagrindžia įvykio „Gardino paliaubos (1698 m.)“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

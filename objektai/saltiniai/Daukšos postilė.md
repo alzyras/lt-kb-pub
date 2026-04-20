@@ -49,16 +49,16 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Daukšos postilė“ siejamas su šiuo kontekstu: tekste Daukšos postilė minima greta postilių aiškinimo ir Mikalojui Daukšai priskiriamo 1599 m. postilės vertimo."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: tekste Daukšos postilė minima greta postilių aiškinimo ir Mikalojui Daukšai priskiriamo 1599 m. postilės vertimo.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

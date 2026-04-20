@@ -30,16 +30,16 @@ Vytautas pabėga iš Krėvos, trumpai pasiekia savo svainį Jonušą ir tada vyk
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Vytautas pabėga iš Krėvos, trumpai pasiekia savo svainį Jonušą ir tada vyksta prašyti pagalbos pas kryžiuočius."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Vytautas pabėga iš Krėvos, trumpai pasiekia savo svainį Jonušą ir tada vyksta prašyti pagalbos pas kryžiuočius.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

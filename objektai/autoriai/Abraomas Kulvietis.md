@@ -40,25 +40,25 @@ patikimumas: "vidutinis"
 - 1538 m. Vilniuje atidaryta protestantiškoji mokykla. (t-002)
 
 ## Kontekstas
-- Tekstas jį mini ir kaip 1538 m. Vilniuje atidarytos protestantiškos mokyklos steigėją, ir kaip vieną iš autorių, rašiusių lietuviškas protestantiškas knygas. (q-001)
-- Atskirame šaltinio fragmente Kulvietis tiesiogiai siejamas su protestantiškosios mokyklos atidarymu Vilniuje. (q-002)
+- Tekstas jį mini ir kaip 1538 m. Vilniuje atidarytos protestantiškos mokyklos steigėją, ir kaip vieną iš autorių, rašiusių lietuviškas protestantiškas knygas. (c-001)
+- Atskirame šaltinio fragmente Kulvietis tiesiogiai siejamas su protestantiškosios mokyklos atidarymu Vilniuje. (c-002)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Abraomas Kulvietis minimas kaip autorius, siejamas su: lietuviškos protestantiškos knygos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje nurodoma, kad 1538 m. Abraomas Kulvietis Vilniuje buvo atidaręs protestantiškąją mokyklą."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje Abraomas Kulvietis minimas kaip autorius, siejamas su: lietuviškos protestantiškos knygos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -78,7 +78,7 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Šaltinio fragmentas tiesiogiai susieja kandidatą su autorystės, redagavimo, vertimo, kronikininko ar bibliografinio autoriaus kontekstu."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Ištrauka nurodo 1538 m. Kulviečio protestantiškosios mokyklos Vilniuje kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

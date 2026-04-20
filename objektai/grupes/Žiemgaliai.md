@@ -42,15 +42,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Žiemgaliai“ apibūdinama kaip kiltis; žiemgaliai išvardijami kaip gyvenę kairiajame Dauguvos žemupio krante. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Žiemgaliai“ apibūdinama kaip kiltis; žiemgaliai išvardijami kaip gyvenę kairiajame Dauguvos žemupio krante."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Žiemgaliai išvardijami kaip gyvenę kairiajame Dauguvos žemupio krante.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

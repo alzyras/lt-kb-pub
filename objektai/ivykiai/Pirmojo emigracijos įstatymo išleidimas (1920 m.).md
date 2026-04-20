@@ -37,16 +37,16 @@ Lietuvoje buvo išleistas pirmasis emigracijos įstatymas, kuris vėliau pasirod
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Lietuvoje buvo išleistas pirmasis emigracijos įstatymas, kuris vėliau pasirodė turėjęs nemaža spragų."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Lietuvoje buvo išleistas pirmasis emigracijos įstatymas, kuris vėliau pasirodė turėjęs nemaža spragų.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

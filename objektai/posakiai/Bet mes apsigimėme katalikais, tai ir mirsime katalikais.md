@@ -44,15 +44,15 @@ patikimumas: "vidutinis"
 Karinga katalikiškos tapatybės formulė prieš rusinimą ir prievartą. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje užfiksuota formuluotė „Bet mes apsigimėme katalikais, tai ir mirsime katalikais“; kontekstas: „Apžvalgos“ poleminiame tekste prieš rusinimą išryškinamas katalikiškas tapatybės akcentas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

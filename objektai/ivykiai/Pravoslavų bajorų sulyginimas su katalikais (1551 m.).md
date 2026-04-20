@@ -42,16 +42,16 @@ Zigmantas Augustas 1551 m. privilegija visiškai sulygino pravoslavų bajorų te
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Zigmantas Augustas 1551 m. privilegija visiškai sulygino pravoslavų bajorų teises su katalikų teisėmis."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Zigmantas Augustas 1551 m. privilegija visiškai sulygino pravoslavų bajorų teises su katalikų teisėmis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

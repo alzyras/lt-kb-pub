@@ -37,16 +37,16 @@ Ordinas išsiunčia Vytautą su kariuomene į Lietuvą; ši kariuomenė užima T
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Ordinas išsiunčia Vytautą su kariuomene į Lietuvą; ši kariuomenė užima Trakus ir apgulė Vilnių, bet vėliau pasitraukia."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Ordinas išsiunčia Vytautą su kariuomene į Lietuvą; ši kariuomenė užima Trakus ir apgulė Vilnių, bet vėliau pasitraukia.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

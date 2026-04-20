@@ -44,15 +44,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Vengrai“ apibūdinama kaip tauta; vengrai minimi kaip viena iš valdovų aplinkų, su kuria Kazimierui teko daugiausia reikalų, nes jo sūnui Vladislovui pavyko užimti jų sostą. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Vengrai“ apibūdinama kaip tauta; vengrai minimi kaip viena iš valdovų aplinkų, su kuria Kazimierui teko daugiausia reikalų, nes jo sūnui Vladislovui pavyko užimti jų sostą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Vengrai minimi kaip viena iš valdovų aplinkų, su kuria Kazimierui teko daugiausia reikalų, nes jo sūnui Vladislovui pavyko užimti jų sostą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

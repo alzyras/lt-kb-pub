@@ -26,15 +26,15 @@ patikimumas: "vidutinis"
 Šaltinyje D. Malinauskas apibūdinamas taip: Surinko aukų ir padirbdino grabą Vytauto kaulams sudėti.
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje D. Malinauskas apibūdinamas taip: Surinko aukų ir padirbdino grabą Vytauto kaulams sudėti."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Surinko aukų ir padirbdino grabą Vytauto kaulams sudėti.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

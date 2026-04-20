@@ -37,18 +37,18 @@ patikimumas: "vidutinis"
 - Gedimino d. kilmė. (t-001)
 
 ## Kontekstas
-- Gedimino laikų bibliografijoje nurodytas kaip knygos apie Gedimino kilmę autorius. (q-001)
+- Gedimino laikų bibliografijoje nurodytas kaip knygos apie Gedimino kilmę autorius. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje A. Kučinskas minimas kaip autorius, siejamas su: Gedimino d. kilmė."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje A. Kučinskas minimas kaip autorius, siejamas su: Gedimino d. kilmė.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

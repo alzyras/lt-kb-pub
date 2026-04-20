@@ -48,22 +48,22 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Lietuvos nepriklausomybės paskelbimo aktas“ siejamas su šiuo kontekstu: Šaltinis dokumentą tiesiogiai įvardija kaip nepriklausomybės paskelbimo aktą ir sieja jį su Lietuvos Tarybos pasirašymu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje „Lietuvos nepriklausomybės paskelbimo aktas“ siejamas su šiuo kontekstu: Nėra."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Šaltinis dokumentą tiesiogiai įvardija kaip nepriklausomybės paskelbimo aktą ir sieja jį su Lietuvos Tarybos pasirašymu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -81,7 +81,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Nėra.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

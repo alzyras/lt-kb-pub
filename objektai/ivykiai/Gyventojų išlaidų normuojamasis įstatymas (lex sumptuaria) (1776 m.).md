@@ -38,16 +38,16 @@ Siekiant sumažinti importą ir paremti savąją pramonę, seimas priėmė gyven
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Siekiant sumažinti importą ir paremti savąją pramonę, seimas priėmė gyventojų išlaidų normuojamąjį įstatymą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Siekiant sumažinti importą ir paremti savąją pramonę, seimas priėmė gyventojų išlaidų normuojamąjį įstatymą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

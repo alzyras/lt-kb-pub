@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Lenkų ponai“ apibūdinama kaip ponai; lenkų ponai kviečia Kazimierą į sostą ir daro spaudimą lietuviams, kad šie jį išleistų į Lenkiją. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Lenkų ponai“ apibūdinama kaip ponai; lenkų ponai kviečia Kazimierą į sostą ir daro spaudimą lietuviams, kad šie jį išleistų į Lenkiją."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Lenkų ponai kviečia Kazimierą į sostą ir daro spaudimą lietuviams, kad šie jį išleistų į Lenkiją.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

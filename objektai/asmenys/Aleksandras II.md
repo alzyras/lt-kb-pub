@@ -41,15 +41,15 @@ patikimumas: "aukstas"
 - date_end: 1881
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Aleksandras II apibūdinamas taip: Minimas kaip naujasis caras, susirūpinęs baudžiavos panaikinimu ir reformomis."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip naujasis caras, susirūpinęs baudžiavos panaikinimu ir reformomis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

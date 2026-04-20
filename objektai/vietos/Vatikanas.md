@@ -41,15 +41,15 @@ patikimumas: "aukstas"
 - Vatikanas minimas kaip archyvų vieta, susijusi su Lietuvos krikštu ir Bažnyčios organizavimu. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Vatikanas“ siejama su šiuo kontekstu: Vatikanas minimas kaip archyvų vieta, susijusi su Lietuvos krikštu ir Bažnyčios organizavimu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Vatikanas minimas kaip archyvų vieta, susijusi su Lietuvos krikštu ir Bažnyčios organizavimu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

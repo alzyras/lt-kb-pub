@@ -38,16 +38,16 @@ Socialistų balsais atmestas reikalavimas skirtis nuo Rusijos, o Bruklino seimas
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Socialistų balsais atmestas reikalavimas skirtis nuo Rusijos, o Bruklino seimas įkūrė Lietuvos Šelpimo Fondą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Socialistų balsais atmestas reikalavimas skirtis nuo Rusijos, o Bruklino seimas įkūrė Lietuvos Šelpimo Fondą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

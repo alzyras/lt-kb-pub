@@ -41,15 +41,15 @@ patikimumas: "aukstas"
 - Minima kaip Kauno apylinkėse likęs lietuvių atramos punktas. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Eiguliai“ siejama su šiuo kontekstu: Minima kaip Kauno apylinkėse likęs lietuvių atramos punktas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minima kaip Kauno apylinkėse likęs lietuvių atramos punktas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

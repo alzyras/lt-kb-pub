@@ -44,15 +44,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Lenkų bajorija“ apibūdinama kaip bajorija; lenkų bajorija čia minimi kaip politinis partneris, kuris po Jogailos mirties įsipareigojo nerinkti naujo karaliaus be lietuvių ir Vytauto žinios. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Lenkų bajorija“ apibūdinama kaip bajorija; lenkų bajorija čia minimi kaip politinis partneris, kuris po Jogailos mirties įsipareigojo nerinkti naujo karaliaus be lietuvių ir Vytauto žinios."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Lenkų bajorija čia minimi kaip politinis partneris, kuris po Jogailos mirties įsipareigojo nerinkti naujo karaliaus be lietuvių ir Vytauto žinios.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

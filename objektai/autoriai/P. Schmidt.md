@@ -32,18 +32,18 @@ patikimumas: "vidutinis"
 - Bibliografijoje nurodytas kaip latvių mitologijos autorius. (t-001)
 
 ## Kontekstas
-- Bibliografinė eilutė tiesiogiai įvardija Schmidtą kaip veikalo autorių. (q-001)
+- Bibliografinė eilutė tiesiogiai įvardija Schmidtą kaip veikalo autorių. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje P. Schmidt autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip latvių mitologijos autorius."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Bibliografijoje nurodytas kaip latvių mitologijos autorius.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

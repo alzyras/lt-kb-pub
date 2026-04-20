@@ -52,15 +52,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: žemėvalda, valstybės iždas, administracija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Seniūnija“ vartojama taip: Valstybinis dvaras arba administracinė valda, duodama valdyti bajorui."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Valstybės dvarai, išdalinami valdyti bajorams, vadinami seniūnijomis; tekste skiriamos pilies seniūnijos ir tenutos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

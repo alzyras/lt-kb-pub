@@ -32,18 +32,18 @@ patikimumas: "vidutinis"
 - Bibliografijoje nurodytas kaip Rusijos, Lenkijos ir Livonijos istorijos autorius. (t-001)
 
 ## Kontekstas
-- Bibliografinė eilutė tiesiogiai įvardija Schiemanną kaip veikalo autorių. (q-001)
+- Bibliografinė eilutė tiesiogiai įvardija Schiemanną kaip veikalo autorių. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Th. Schiemann autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip Rusijos, Lenkijos ir Livonijos istorijos autorius."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Bibliografijoje nurodytas kaip Rusijos, Lenkijos ir Livonijos istorijos autorius.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

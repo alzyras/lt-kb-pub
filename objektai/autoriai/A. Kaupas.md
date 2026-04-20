@@ -37,18 +37,18 @@ patikimumas: "vidutinis"
 - Am. liet. mokyklos. (t-001)
 
 ## Kontekstas
-- Emigracijos bibliografijoje nurodytas kaip Amerikos lietuvių mokyklų autorius. (q-001)
+- Emigracijos bibliografijoje nurodytas kaip Amerikos lietuvių mokyklų autorius. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje A. Kaupas minimas kaip autorius, siejamas su: Am. liet. mokyklos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje A. Kaupas minimas kaip autorius, siejamas su: Am. liet. mokyklos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

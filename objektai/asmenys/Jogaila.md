@@ -26,15 +26,15 @@ patikimumas: "aukstas"
 Šaltinyje Jogaila apibūdinamas taip: Paminėtas kaip Algirdo įpėdinis ir Lenkijos karalius.
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Jogaila apibūdinamas taip: Paminėtas kaip Algirdo įpėdinis ir Lenkijos karalius."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Paminėtas kaip Algirdo įpėdinis ir Lenkijos karalius.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

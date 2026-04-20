@@ -33,18 +33,18 @@ patikimumas: "vidutinis"
 - Paminėtas kaip romėnų rašytojas, pirmasis šiame tekste minintis mūsų krašto gyventojus. (t-001)
 
 ## Kontekstas
-- Tekstas tiesiogiai jį įvardija kaip rašytoją ir susieja su veikalu „Germania“. (q-001)
+- Tekstas tiesiogiai jį įvardija kaip rašytoją ir susieja su veikalu „Germania“. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Tacitas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Paminėtas kaip romėnų rašytojas, pirmasis šiame tekste minintis mūsų krašto gyventojus."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Paminėtas kaip romėnų rašytojas, pirmasis šiame tekste minintis mūsų krašto gyventojus.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

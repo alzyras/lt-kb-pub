@@ -37,16 +37,16 @@ Pasibaigus karui su turkais, Augustui II teko išsiųsti saksų kariuomenę, tod
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Pasibaigus karui su turkais, Augustui II teko išsiųsti saksų kariuomenę, todėl jis ieškojo naujos išeities jai pasilikti."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Pasibaigus karui su turkais, Augustui II teko išsiųsti saksų kariuomenę, todėl jis ieškojo naujos išeities jai pasilikti.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

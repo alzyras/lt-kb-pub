@@ -37,16 +37,16 @@ Aleksandras tam tikru įsakymu išvarė žydus iš Lietuvos, konfiskavo jų turt
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Aleksandras tam tikru įsakymu išvarė žydus iš Lietuvos, konfiskavo jų turtą, o netrukus leido jiems grįžti."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Aleksandras tam tikru įsakymu išvarė žydus iš Lietuvos, konfiskavo jų turtą, o netrukus leido jiems grįžti.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

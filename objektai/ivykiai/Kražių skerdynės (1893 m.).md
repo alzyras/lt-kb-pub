@@ -42,16 +42,16 @@ Kražiuose bažnyčios uždarymas perauga į smurtinį susidūrimą su policija,
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Kražiuose bažnyčios uždarymas perauga į smurtinį susidūrimą su policija, atvykus gubernatoriui Klingenbergui ir kazokams."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Kražiuose bažnyčios uždarymas perauga į smurtinį susidūrimą su policija, atvykus gubernatoriui Klingenbergui ir kazokams.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

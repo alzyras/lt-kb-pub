@@ -42,15 +42,15 @@ patikimumas: "vidutinis"
 - Šaltinyje „Rusijos lietuvių Komitetas“ apibūdinama kaip komitetas; komitetas, siunčiantis savo atstovus į Švediją ir Daniją lietuvių reikalams. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Rusijos lietuvių Komitetas“ apibūdinama kaip komitetas; komitetas, siunčiantis savo atstovus į Švediją ir Daniją lietuvių reikalams."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Komitetas, siunčiantis savo atstovus į Švediją ir Daniją lietuvių reikalams.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

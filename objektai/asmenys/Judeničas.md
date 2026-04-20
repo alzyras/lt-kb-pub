@@ -43,21 +43,21 @@ patikimumas: "aukstas"
 - date_end: 1919
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Judeničas apibūdinamas taip: Minimas kaip bermontininkų kariuomenės vadas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje Judeničas apibūdinamas taip: Minimas kaip rusų generolas, su kurio kariuomene Golcas dėjosi kovai su bolševikais Estijoje."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip bermontininkų kariuomenės vadas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -74,7 +74,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Minimas kaip rusų generolas, su kurio kariuomene Golcas dėjosi kovai su bolševikais Estijoje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

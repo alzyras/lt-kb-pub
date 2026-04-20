@@ -43,16 +43,16 @@ Katalikų Čikagos seimas reikalavo Lietuvos autonomijos, paskyrė J. Gabrį del
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Katalikų Čikagos seimas reikalavo Lietuvos autonomijos, paskyrė J. Gabrį delegatu ir nutarė įkurti Tautos Fondą bei Tautos Tarybą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Katalikų Čikagos seimas reikalavo Lietuvos autonomijos, paskyrė J. Gabrį delegatu ir nutarė įkurti Tautos Fondą bei Tautos Tarybą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -32,18 +32,18 @@ patikimumas: "vidutinis"
 - Minimas kaip veikalų apie Lietuvos ir Lenkijos ginčą autorius. (t-001)
 
 ## Kontekstas
-- Bibliografinė eilutė tiesiogiai įvardija Natkevičių kaip autoriaus vardą. (q-001)
+- Bibliografinė eilutė tiesiogiai įvardija Natkevičių kaip autoriaus vardą. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje L. Natkevičius autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip veikalų apie Lietuvos ir Lenkijos ginčą autorius."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip veikalų apie Lietuvos ir Lenkijos ginčą autorius.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

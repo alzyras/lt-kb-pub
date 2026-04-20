@@ -40,16 +40,16 @@ Karoliui XII privertus sušaukti elekcinį seimą, švedų kariuomenės apsuptas
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Karoliui XII privertus sušaukti elekcinį seimą, švedų kariuomenės apsuptas seimas paskelbė karalium Poznanės vaivadą Stanislovą Leščinskį."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Karoliui XII privertus sušaukti elekcinį seimą, švedų kariuomenės apsuptas seimas paskelbė karalium Poznanės vaivadą Stanislovą Leščinskį.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

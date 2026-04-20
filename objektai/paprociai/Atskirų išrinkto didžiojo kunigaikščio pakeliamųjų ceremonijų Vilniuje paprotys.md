@@ -48,15 +48,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: atskiras išrinkto didžiojo kunigaikščio pakeliamąsias ceremonijas Vilniuje (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Atskirų išrinkto didžiojo kunigaikščio pakeliamųjų ceremonijų Vilniuje paprotys“ siejama su formuluote: atskiras išrinkto didžiojo kunigaikščio pakeliamąsias ceremonijas Vilniuje. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos delegacija; Lietuvos bajorija; kada atliekama: derantis dėl unijos ir valdovo rinkimo tvarkos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekstas rodo, kad išrinkto valdovo pakėlimo į pareigas ceremonijos buvo atskiras, aiškiai įvardytas ritualas, kurio lietuviai 1569 m. derybose atsisakė reikalauti.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

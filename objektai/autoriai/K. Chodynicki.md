@@ -37,18 +37,18 @@ patikimumas: "vidutinis"
 - Geneza dynastji Gediminą. (t-001)
 
 ## Kontekstas
-- Bibliografijoje tiesiogiai siejamas su Gediminaičių dinastijos kilmės tyrimu. (q-001)
+- Bibliografijoje tiesiogiai siejamas su Gediminaičių dinastijos kilmės tyrimu. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje K. Chodynicki minimas kaip autorius, siejamas su: Geneza dynastji Gediminą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje K. Chodynicki minimas kaip autorius, siejamas su: Geneza dynastji Gediminą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

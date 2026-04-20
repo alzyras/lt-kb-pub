@@ -47,15 +47,15 @@ patikimumas: "aukstas"
 Karo reikmuo, šaltinyje minimas kartu su patrankomis ir kulkosvydžiais. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinis minosvydžius mini tarp prie Širvintų paimto karo grobio."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai nurodo minosvydžius tarp paimtų karinių objektų.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

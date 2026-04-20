@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: Klaipėdos krašto statuso terminija, politinė geografija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Laisvoji valstybė“ vartojama taip: Atskirai organizuojamas, nuo Lietuvos atskirtas laisvas politinis vienetas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Klaipėdos krašte vartojama idėja apie atskirą „laisvąją valstybę“, priešpastatomą prijungimui prie Lietuvos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

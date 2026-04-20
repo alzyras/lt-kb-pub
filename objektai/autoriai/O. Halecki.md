@@ -37,18 +37,18 @@ patikimumas: "vidutinis"
 - Dzieje unii Jagiellońskiej. (t-001)
 
 ## Kontekstas
-- Jogailos ir Vytauto laikų bibliografijoje nurodytas kaip Jogailaičių unijos istorijos autorius. (q-001)
+- Jogailos ir Vytauto laikų bibliografijoje nurodytas kaip Jogailaičių unijos istorijos autorius. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje O. Halecki minimas kaip autorius, siejamas su: Dzieje unii Jagiellońskiej."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje O. Halecki minimas kaip autorius, siejamas su: Dzieje unii Jagiellońskiej.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -46,15 +46,15 @@ patikimumas: "aukstas"
 Valdovo antspaudas, šaltinyje pristatomas kaip didysis arba majestotinis Vytauto antspaudas. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinis įvardija didįjį, majestotinį Vytauto antspaudą ir pateikia jo lotyniško užrašo pradžią."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Iliustracijos antraštėje įvardijamas antspaudas ir pateikiamas jo užrašas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

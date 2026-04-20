@@ -37,16 +37,16 @@ Lietuva, Latvija ir Estija sudarė bendradarbiavimo sutartį, kuria suderino už
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Lietuva, Latvija ir Estija sudarė bendradarbiavimo sutartį, kuria suderino užsienio politiką ir tarpusavio paramą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Lietuva, Latvija ir Estija sudarė bendradarbiavimo sutartį, kuria suderino užsienio politiką ir tarpusavio paramą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

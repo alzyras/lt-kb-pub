@@ -37,16 +37,16 @@ Vokietijos puolimas ir Kauno bei Vilniaus paėmimas sukėlė komiteto narių pas
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Vokietijos puolimas ir Kauno bei Vilniaus paėmimas sukėlė komiteto narių pasidalijimą tarp Vilniaus ir Rusijos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Vokietijos puolimas ir Kauno bei Vilniaus paėmimas sukėlė komiteto narių pasidalijimą tarp Vilniaus ir Rusijos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

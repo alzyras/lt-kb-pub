@@ -50,16 +50,16 @@ Bajorijos politinis posakis, pateisinantis Respublikos netvarką kaip laisvės i
 Politinė patarlė ar formulė, teigianti, kad valstybė laikosi netvarkos dėka ir todėl esanti nepavojinga kaimynams. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje formuluotė „Respublika laikosi netvarka“ užfiksuota keliais variantais; kontekstas: Bajorijos politinis posakis, pateisinantis Respublikos netvarką kaip laisvės ir saugumo sąlygą; 25 gabale pateikta lenkiška formulė yra tos pačios minties variantas."
   pagrindžia:
-    - q-001
-    - q-002
+    - c-001
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata užfiksuoja 1-ąjį formuluotės variantą arba kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -81,7 +81,7 @@ Politinė patarlė ar formulė, teigianti, kad valstybė laikosi netvarkos dėka
   pagrindžia:
     - t-001
 
-- id: q-002
+- c-002
   santrauka: Citata užfiksuoja 2-ąjį formuluotės variantą arba kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

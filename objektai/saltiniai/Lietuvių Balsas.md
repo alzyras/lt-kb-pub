@@ -52,16 +52,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Lietuvių Balsas“ tai A. Jakšto brošiūra, skirta kvietimui jaunoji bajorija prisidėti prie Lietuvos atgaivinimo darbo."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tai A. Jakšto brošiūra, skirta kvietimui jaunoji bajorija prisidėti prie Lietuvos atgaivinimo darbo.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

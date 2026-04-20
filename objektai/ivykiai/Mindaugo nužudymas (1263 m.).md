@@ -44,16 +44,16 @@ Treniota ir Daumantas nužudė Mindaugą bei du jo sūnus, kai šis buvo kaltina
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Treniota ir Daumantas nužudė Mindaugą bei du jo sūnus, kai šis buvo kaltinamas susidėjęs su vokiečiais ir neva apleidęs tautinius reikalus."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Treniota ir Daumantas nužudė Mindaugą bei du jo sūnus, kai šis buvo kaltinamas susidėjęs su vokiečiais ir neva apleidęs tautinius reikalus.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

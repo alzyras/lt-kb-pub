@@ -1,3 +1,9 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// Public notes already render the canonical title through ArticleTitle.
+// Hide the duplicated first Markdown H1 from the note body.
+.page article.popover-hint > h1:first-child {
+  display: none;
+}

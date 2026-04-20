@@ -32,18 +32,18 @@ patikimumas: "vidutinis"
 - Minimas tarp lietuviškai rašiusių autorių. (t-001)
 
 ## Kontekstas
-- Tekstas tiesiogiai mini Vilentą tarp lietuviškai rašiusių asmenų. (q-001)
+- Tekstas tiesiogiai mini Vilentą tarp lietuviškai rašiusių asmenų. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Vilentas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas tarp lietuviškai rašiusių autorių."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas tarp lietuviškai rašiusių autorių.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

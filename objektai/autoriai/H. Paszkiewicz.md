@@ -34,18 +34,18 @@ patikimumas: "vidutinis"
 - Bibliografijoje nurodytas kaip Lietuvos istorijos ir Lenkijos santykių tyrėjas. (t-001)
 
 ## Kontekstas
-- Bibliografinė eilutė tiesiogiai įvardija Paszkiewiczių kaip veikalo autorių. (q-001)
+- Bibliografinė eilutė tiesiogiai įvardija Paszkiewiczių kaip veikalo autorių. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje H. Paszkiewicz autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip Lietuvos istorijos ir Lenkijos santykių tyrėjas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Bibliografijoje nurodytas kaip Lietuvos istorijos ir Lenkijos santykių tyrėjas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -43,16 +43,16 @@ Po Tridento suvažiavimo Vilniaus vyskupijoje pradėta kurti kunigų ruošimo į
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Po Tridento suvažiavimo Vilniaus vyskupijoje pradėta kurti kunigų ruošimo įstaigas; Protasevičius įsteigė bursą, o Jurgis Radvila 1582 m. įkūrė atskirą seminariją."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Po Tridento suvažiavimo Vilniaus vyskupijoje pradėta kurti kunigų ruošimo įstaigas; Protasevičius įsteigė bursą, o Jurgis Radvila 1582 m. įkūrė atskirą seminariją.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

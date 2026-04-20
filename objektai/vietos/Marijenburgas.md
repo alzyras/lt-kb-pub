@@ -43,15 +43,15 @@ patikimumas: "aukstas"
 - Minimas kaip ordino centro vardas po didžiojo magistro persikėlimo į Prūsus. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Marijenburgas“ siejama su šiuo kontekstu: Minimas kaip ordino centro vardas po didžiojo magistro persikėlimo į Prūsus."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip ordino centro vardas po didžiojo magistro persikėlimo į Prūsus.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

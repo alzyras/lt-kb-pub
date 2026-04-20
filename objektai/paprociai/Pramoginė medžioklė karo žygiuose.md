@@ -48,15 +48,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: Tokie žygiai tuomet būdavo tarsi pramoginė medžioklė. Jie būdavo iškilmingai atliekami: saugiose vietose svečių garbei būdavo ruošiamos puotos, kai kurie svečiai būdavo keliami į riterius ir t.t. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Pramoginė medžioklė karo žygiuose“ siejama su formuluote: Tokie žygiai tuomet būdavo tarsi pramoginė medžioklė. Jie būdavo iškilmingai atliekami: saugiose vietose svečių garbei būdavo ruošiamos puotos, kai kurie svečiai būdavo keliami į riterius ir t.t.. Šaltinio kontekste nurodoma: kas atlieka: kryžiuočiai, kviesdami Vakarų Europos riterius; kada atliekama: kai iš Vakarų atvykdavo svečių."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekstas rodo, kad nereguliarūs kryžiuočių žygiai į Lietuvą buvo organizuojami kaip iškilminga pramoga svečiams, su puotomis ir net įšventinimu į riterius.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

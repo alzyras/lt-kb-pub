@@ -44,15 +44,15 @@ Valančius moko, kaip į rusiškai kalbinančius žmones atsakyti trumpa atsisak
 Trumpa gynybinė atsakymo formulė prieš rusinimą. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje užfiksuota formuluotė „Nesuprantu“; kontekstas: Valančius moko, kaip į rusiškai kalbinančius žmones atsakyti trumpa atsisakymo formule."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

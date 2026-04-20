@@ -42,17 +42,17 @@ Numalšinus Kosciuškos sukilimą, Rusija su Prūsija ir Austrija pasidalijo vis
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Numalšinus Kosciuškos sukilimą, Rusija su Prūsija ir Austrija pasidalijo visą valstybę; Lietuva beveik visa atiteko Rusijai, o Stanislovas Augustas buvo priverstas atsisakyti sosto."
   pagrindžia:
-    - q-001
-    - q-002
+    - c-001
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Citata pagrindžia įvykio „Trečiasis Respublikos padalinimas (1795 m.)“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -70,7 +70,7 @@ Numalšinus Kosciuškos sukilimą, Rusija su Prūsija ir Austrija pasidalijo vis
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia teiginį šaltinio tekste."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Citata pagrindžia įvykio „Trečiasis Respublikos padalinimas (1795 m.)“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

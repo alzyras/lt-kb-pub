@@ -42,16 +42,16 @@ Liubartas bando užimti visą Voluinę, Kazimieras save laiko Boleslovo įpėdin
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Liubartas bando užimti visą Voluinę, Kazimieras save laiko Boleslovo įpėdiniu, ir dėl to prasideda karas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Liubartas bando užimti visą Voluinę, Kazimieras save laiko Boleslovo įpėdiniu, ir dėl to prasideda karas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -46,16 +46,16 @@ Lietuvos seimas paskelbė Zigmantą Augustą didžiuoju kunigaikščiu, o netruk
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Lietuvos seimas paskelbė Zigmantą Augustą didžiuoju kunigaikščiu, o netrukus lenkai jį karūnavo savo karalium."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Lietuvos seimas paskelbė Zigmantą Augustą didžiuoju kunigaikščiu, o netrukus lenkai jį karūnavo savo karalium.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -49,16 +49,16 @@ patikimumas: "vidutinis"
 - kaip atliekama: suorganizuoti reformoms priešingą konfederaciją; Varšuvoje susidarė bajorijos konfederacija (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Konfederacijų organizavimas“ siejama su formuluote: suorganizuoti reformoms priešingą konfederaciją; Varšuvoje susidarė bajorijos konfederacija. Šaltinio kontekste nurodoma: kas atlieka: reformų priešininkai, vėliau bajorija; kada atliekama: 1792 m. po karo su turkais; 1812 m. Napoleono žygio metu."
   pagrindžia:
-    - q-001
-    - q-002
+    - c-001
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinis rodo, kad politinei opozicijai ir vėliau bajorijai buvo būdinga telktis į konfederacijas kaip organizuotos politinės akcijos formą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -79,7 +79,7 @@ patikimumas: "vidutinis"
   pagrindžia:
     - t-001
 
-- id: q-002
+- c-002
   santrauka: Šaltinis rodo, kad 1812 m. Varšuvoje susidariusi bajorijos konfederacija kvietė sujungti buvusios Respublikos žemes.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -42,16 +42,16 @@ Zigmantas, siekdamas seimo paramos karo dėl Švedijos sosto akivaizdoje, Estij�
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Zigmantas, siekdamas seimo paramos karo dėl Švedijos sosto akivaizdoje, Estiją prijungė prie bendrosios Livonijos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Zigmantas, siekdamas seimo paramos karo dėl Švedijos sosto akivaizdoje, Estiją prijungė prie bendrosios Livonijos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

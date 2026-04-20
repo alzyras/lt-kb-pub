@@ -49,22 +49,22 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Lietuvos bajorijos raštas“ tai bajorijos parengtas politinis raštas, kuriuo Augustas skelbiamas absoliutišku didžiuoju Lietuvos kunigaikščiu, o pats dokumentas vėliau buvo sudegintas Varšuvos seime."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje „Lietuvos bajorijos raštas“ siejamas su šiuo kontekstu: Šaltinyje pateikiamas aprašomasis dokumento vardas, o ne atskiras oficialus pavadinimas, todėl kandidatas žymimas pagal tekste vartojamą formuluotę."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tai bajorijos parengtas politinis raštas, kuriuo Augustas skelbiamas absoliutišku didžiuoju Lietuvos kunigaikščiu, o pats dokumentas vėliau buvo sudegintas Varšuvos seime.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -79,7 +79,7 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Šaltinyje pateikiamas aprašomasis dokumento vardas, o ne atskiras oficialus pavadinimas, todėl kandidatas žymimas pagal tekste vartojamą formuluotę.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

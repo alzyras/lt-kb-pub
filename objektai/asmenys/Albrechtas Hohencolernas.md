@@ -43,15 +43,15 @@ patikimumas: "aukstas"
 - date_end: 1568
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Albrechtas Hohencolernas apibūdinamas taip: Paskutinis kryžiuočių magistras ir pirmasis Prūsijos kunigaikštis; Liuterio patarimu atsisakė vienuolio apdaro ir prisiekė Zigmantui."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Paskutinis kryžiuočių magistras ir pirmasis Prūsijos kunigaikštis; Liuterio patarimu atsisakė vienuolio apdaro ir prisiekė Zigmantui.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

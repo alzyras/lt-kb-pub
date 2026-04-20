@@ -51,15 +51,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Krikščionys demokratai“ apibūdinama kaip politinė grupė; iš veikėjų, susibūrusių apie „Tėvynės Sargą“, susidarė dar viena politinė grupė. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Krikščionys demokratai“ apibūdinama kaip politinė grupė; iš veikėjų, susibūrusių apie „Tėvynės Sargą“, susidarė dar viena politinė grupė."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Iš veikėjų, susibūrusių apie „Tėvynės Sargą“, susidarė dar viena politinė grupė.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

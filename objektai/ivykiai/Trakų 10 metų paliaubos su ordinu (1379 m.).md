@@ -44,16 +44,16 @@ Jogaila ir Kęstutis, ordino spaudžiami, Trakuose sudaro 10 metų paliaubas, o 
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Jogaila ir Kęstutis, ordino spaudžiami, Trakuose sudaro 10 metų paliaubas, o ordinas pasižada nepulti Palenkės."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Jogaila ir Kęstutis, ordino spaudžiami, Trakuose sudaro 10 metų paliaubas, o ordinas pasižada nepulti Palenkės.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -37,16 +37,16 @@ Briuselyje pradėtos derybos dėl Vilniaus klausimo, kuriose Lietuvos pusė pabr
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Briuselyje pradėtos derybos dėl Vilniaus klausimo, kuriose Lietuvos pusė pabrėžė, kad nesutinka su okupacijos įteisinimu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Briuselyje pradėtos derybos dėl Vilniaus klausimo, kuriose Lietuvos pusė pabrėžė, kad nesutinka su okupacijos įteisinimu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -44,15 +44,15 @@ Pastraipoje apie šviesuomenės trūkumą autoriaus teiginys susieja išsilavinu
 Trumpa, įsimenanti formuluotė apie kultūrinį ir švietimo atsilikimą kaip nelaimių pradžią. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje užfiksuota formuluotė „Čia ir prasidėjo lietuvių tautos nelaimės“; kontekstas: Pastraipoje apie šviesuomenės trūkumą autoriaus teiginys susieja išsilavinusių žmonių stoką su lietuvių tautos nelaimių pradžia."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

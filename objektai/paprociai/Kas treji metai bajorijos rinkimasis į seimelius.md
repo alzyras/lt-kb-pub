@@ -45,15 +45,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: Kas treji metai bajorija galėjo rinktis į seimelius (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Kas treji metai bajorijos rinkimasis į seimelius“ siejama su formuluote: Kas treji metai bajorija galėjo rinktis į seimelius. Šaltinio kontekste nurodoma: kas atlieka: bajorija; kada atliekama: kas treji metai."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekstas aprašo nuolatinę bajorijos savivaldos tvarką, kai seimeliuose būdavo svarstomi reikalai ir renkami atstovai į vietines bei gubernijos įstaigas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -37,18 +37,18 @@ patikimumas: "vidutinis"
 - Die Bekehrung Gedimins. (t-001)
 
 ## Kontekstas
-- Bibliografijoje tiesiogiai siejamas su Gedimino krikšto interpretacija. (q-001)
+- Bibliografijoje tiesiogiai siejamas su Gedimino krikšto interpretacija. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje K. Forstreuter minimas kaip autorius, siejamas su: Die Bekehrung Gedimins."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje K. Forstreuter minimas kaip autorius, siejamas su: Die Bekehrung Gedimins.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

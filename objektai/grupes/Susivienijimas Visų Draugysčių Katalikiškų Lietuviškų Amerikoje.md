@@ -42,15 +42,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje“ apibūdinama kaip susivienijimas; katalikiškas susivienijimas, įkurtas vietoje pirmojo ir aprašytas kaip organizacija, kuri turėjo sujungti lietuvius katalikus. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje“ apibūdinama kaip susivienijimas; katalikiškas susivienijimas, įkurtas vietoje pirmojo ir aprašytas kaip organizacija, kuri turėjo sujungti lietuvius katalikus."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Katalikiškas susivienijimas, įkurtas vietoje pirmojo ir aprašytas kaip organizacija, kuri turėjo sujungti lietuvius katalikus.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

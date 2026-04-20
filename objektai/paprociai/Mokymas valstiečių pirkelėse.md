@@ -48,15 +48,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: kuriose mokė valstiečių pirkelėse (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Mokymas valstiečių pirkelėse“ siejama su formuluote: kuriose mokė valstiečių pirkelėse. Šaltinio kontekste nurodoma: kas atlieka: kaimo siuvėjai ir vietos valstiečiai; kada atliekama: nuo 1568 m. ir vėliau."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinis aprašo kaimo mokyklėles kaip paprastą vietos švietimo tvarką, kai mokyta valstiečių pirkelėse ir dažniausiai kaimo siuvėjų.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

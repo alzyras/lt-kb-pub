@@ -54,16 +54,16 @@ patikimumas: "vidutinis"
 Terminas šaltinyje vartojamas šiame kontekste: baudžiava, žemės teisės; žemės teisė, agrarinė reforma. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Servitutas“ vartojama taip: baudžiavos metu turėtos teisės naudotis dvaro ganyklomis, miškais ir ežerais; Teisinė žemės naudojimo našta ar servitutinis apribojimas."
   pagrindžia:
-    - q-001
-    - q-002
+    - c-001
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: valstiečių baudžiavos laikų teisės aiškinamos kaip servitutai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -78,7 +78,7 @@ Terminas šaltinyje vartojamas šiame kontekste: baudžiava, žemės teisės; ž
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia termino vartoseną arba aiškinimą šaltinyje."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Terminas vartojamas žemės reformos aprašyme, kalbant apie žemės naudojimo varžtus ir bendrąsias ganyklas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

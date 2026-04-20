@@ -48,15 +48,15 @@ patikimumas: "aukstas"
 - taikos susitikimo sala Nemune netoli dabartinės Kulautuvos. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Salynas“ siejama su šiuo kontekstu: taikos susitikimo sala Nemune netoli dabartinės Kulautuvos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: taikos susitikimo sala Nemune netoli dabartinės Kulautuvos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

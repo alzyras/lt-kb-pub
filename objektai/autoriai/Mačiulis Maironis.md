@@ -37,18 +37,18 @@ patikimumas: "vidutinis"
 - Autorystės vaidmuo šaltinyje įvardytas kaip poetas. (t-001)
 
 ## Kontekstas
-- Tekstas jį tiesiogiai įvardija kaip poetą ir Kauno kunigų seminarijos rektorių; konkretaus kūrinio šiame gabale nemini. (q-001)
+- Tekstas jį tiesiogiai įvardija kaip poetą ir Kauno kunigų seminarijos rektorių; konkretaus kūrinio šiame gabale nemini. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Mačiulis Maironis minimas kaip poetas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje Mačiulis Maironis minimas kaip poetas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

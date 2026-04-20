@@ -52,15 +52,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Horodlės suvažiavimas“ apibūdinama kaip suvažiavimas; horodlės suvažiavimas įvardytas kaip bendras Lietuvos ir Lenkijos valdovų bei bajorų susitikimas, kuriame sutarti 1413 m. aktai ir politinis ryšys su Lenkija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Horodlės suvažiavimas“ apibūdinama kaip suvažiavimas; horodlės suvažiavimas įvardytas kaip bendras Lietuvos ir Lenkijos valdovų bei bajorų susitikimas, kuriame sutarti 1413 m. aktai ir politinis ryšys su Lenkija."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Horodlės suvažiavimas įvardytas kaip bendras Lietuvos ir Lenkijos valdovų bei bajorų susitikimas, kuriame sutarti 1413 m. aktai ir politinis ryšys su Lenkija.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -44,15 +44,15 @@ patikimumas: "vidutinis"
 Portretas, kurį šaltinis apibūdina kaip vieną iš seniausių Vytauto Didžiojo portretų. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinis mini vieną iš seniausių Vytauto Didžiojo portretų, esantį Nesvyžiuje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Iliustracijos antraštė nurodo portretą ir jo vietą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

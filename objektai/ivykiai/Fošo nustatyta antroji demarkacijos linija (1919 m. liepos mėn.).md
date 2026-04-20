@@ -37,16 +37,16 @@ Maršalas Fošas nustatė antrą demarkacijos liniją, kuria lenkams buvo palikt
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Maršalas Fošas nustatė antrą demarkacijos liniją, kuria lenkams buvo palikta platesnė juosta."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Maršalas Fošas nustatė antrą demarkacijos liniją, kuria lenkams buvo palikta platesnė juosta.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

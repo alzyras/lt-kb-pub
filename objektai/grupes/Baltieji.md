@@ -52,15 +52,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Baltieji“ apibūdinama kaip lenkų politinė partija; kita lenkų partija, kuri norėjo pašalinti rusus, bet nepritarė radikaliai raudonųjų programai. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Baltieji“ apibūdinama kaip lenkų politinė partija; kita lenkų partija, kuri norėjo pašalinti rusus, bet nepritarė radikaliai raudonųjų programai."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Kita lenkų partija, kuri norėjo pašalinti rusus, bet nepritarė radikaliai raudonųjų programai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

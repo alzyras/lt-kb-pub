@@ -30,15 +30,15 @@ patikimumas: "aukstas"
 - Henriko von Plaueno
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Henrikas von Plauenas apibūdinamas taip: Ordino komtūras, perėmęs vadovybę po Tanenbergo mūšio."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Ordino komtūras, perėmęs vadovybę po Tanenbergo mūšio.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

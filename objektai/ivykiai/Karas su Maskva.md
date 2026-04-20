@@ -37,16 +37,16 @@ Karas prasidėjo 1499 m., o šiame fragmente aprašomas pirmasis jo smūgis ties
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Karas prasidėjo 1499 m., o šiame fragmente aprašomas pirmasis jo smūgis ties Vedroša."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Karas prasidėjo 1499 m., o šiame fragmente aprašomas pirmasis jo smūgis ties Vedroša.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

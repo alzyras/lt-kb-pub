@@ -37,16 +37,16 @@ Pirmasis įsakymas kariuomenei organizuoti laikomas nepriklausomos Lietuvos kari
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Pirmasis įsakymas kariuomenei organizuoti laikomas nepriklausomos Lietuvos kariuomenės kūrimo pradžia."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Pirmasis įsakymas kariuomenei organizuoti laikomas nepriklausomos Lietuvos kariuomenės kūrimo pradžia.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

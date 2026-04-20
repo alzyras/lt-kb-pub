@@ -48,15 +48,15 @@ patikimumas: "aukstas"
 - Minima kaip vieta, į kurią traukė maldininkai ir kurią vėl užėmę turkai kėlė pavojų. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Jeruzalė“ siejama su šiuo kontekstu: Minima kaip vieta, į kurią traukė maldininkai ir kurią vėl užėmę turkai kėlė pavojų."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minima kaip vieta, į kurią traukė maldininkai ir kurią vėl užėmę turkai kėlė pavojų.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

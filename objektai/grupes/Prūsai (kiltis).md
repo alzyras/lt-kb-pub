@@ -48,15 +48,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Prūsai“ apibūdinama kaip kiltis; vakarinė aisčių kilčių grupė įvardijama kaip prūsai. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Prūsai“ apibūdinama kaip kiltis; vakarinė aisčių kilčių grupė įvardijama kaip prūsai."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Vakarinė aisčių kilčių grupė įvardijama kaip prūsai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

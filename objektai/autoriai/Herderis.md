@@ -32,18 +32,18 @@ patikimumas: "vidutinis"
 - Minimas kartu su Lesingu ir Goethė kaip vokiečių autoritetas, susižavėjęs lietuvių liaudies dainomis. (t-001)
 
 ## Kontekstas
-- Tekstas tiesiogiai jį įvardija ir pateikia tame pačiame autoritetų sąraše. (q-001)
+- Tekstas tiesiogiai jį įvardija ir pateikia tame pačiame autoritetų sąraše. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Herderis autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kartu su Lesingu ir Goethė kaip vokiečių autoritetas, susižavėjęs lietuvių liaudies dainomis."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kartu su Lesingu ir Goethė kaip vokiečių autoritetas, susižavėjęs lietuvių liaudies dainomis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

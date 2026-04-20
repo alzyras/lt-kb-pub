@@ -42,16 +42,16 @@ Katkevičius sustabdė švedų armiją ties Ryga, o mūšyje ją visiškai sutri
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Katkevičius sustabdė švedų armiją ties Ryga, o mūšyje ją visiškai sutriuškino."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Katkevičius sustabdė švedų armiją ties Ryga, o mūšyje ją visiškai sutriuškino.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

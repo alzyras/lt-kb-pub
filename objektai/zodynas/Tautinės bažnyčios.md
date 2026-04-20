@@ -48,15 +48,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: bažnyčios istorija, išeivijos religinė terminija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Tautinės bažnyčios“ vartojama taip: Nuo vyskupų nepriklausomos vietinės katalikų bažnyčios."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Katalikų hierarchijos nepriklausomos bažnyčios, atsiradusios lietuvių laisvamanių ir griežtesniųjų tautininkų įtakoje Amerikoje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

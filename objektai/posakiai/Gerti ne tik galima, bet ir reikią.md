@@ -44,15 +44,15 @@ Valdžios įsakymai dėl degtinės prekybos buvo aiškinami taip, kad blaivybės
 Propagandinė anti-blaivybės formulė, pateisinanti gėrimą. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje užfiksuota formuluotė „Gerti ne tik galima, bet ir reikią“; kontekstas: Valdžios įsakymai dėl degtinės prekybos buvo aiškinami taip, kad blaivybės judėjimui būtų suduotas smūgis."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

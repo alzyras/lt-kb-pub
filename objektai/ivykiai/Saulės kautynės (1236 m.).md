@@ -42,22 +42,22 @@ Ordinas, plėsdamas karo žygius į žemaičių ir aukštaičių kraštą, buvo 
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Ordinas, plėsdamas karo žygius į žemaičių ir aukštaičių kraštą, buvo skaudžiai sumuštas Šiaulių mūšyje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Kalavijuočiai įsiveržė į Lietuvą, ties Šiauliais pralaimėjo mūšį, o 1237 m. jų susitarimą su kryžiuočiais patvirtino popiežius."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Ordinas, plėsdamas karo žygius į žemaičių ir aukštaičių kraštą, buvo skaudžiai sumuštas Šiaulių mūšyje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -86,7 +86,7 @@ Ordinas, plėsdamas karo žygius į žemaičių ir aukštaičių kraštą, buvo 
   pagrindžia:
     - t-001
 
-- id: q-002
+- c-002
   santrauka: Kalavijuočiai įsiveržė į Lietuvą, ties Šiauliais pralaimėjo mūšį, o 1237 m. jų susitarimą su kryžiuočiais patvirtino popiežius.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -46,16 +46,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Žvaigždė (laikraštis)“ siejamas su šiuo kontekstu: Tekste šis leidinys minimas kaip ankstesnis Susivienijimo organas prieš jo pavadinimo pakeitimą į „Garsą“."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tekste šis leidinys minimas kaip ankstesnis Susivienijimo organas prieš jo pavadinimo pakeitimą į „Garsą“.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

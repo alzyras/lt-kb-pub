@@ -40,15 +40,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: įvairios vedybų apeigos, papročiai, daugybė vestuvinių dainų (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Senovės aisčių vedybų apeigos“ siejama su formuluote: įvairios vedybų apeigos, papročiai, daugybė vestuvinių dainų. Šaltinio kontekste nurodoma: kas atlieka: aisčiai; kada atliekama: šeimos sukūrimo / vestuvių metu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekstas šeimos sukūrimą tiesiogiai sieja su išlikusiomis vedybų apeigomis, papročiais ir vestuvinėmis dainomis, todėl čia matoma nusistovėjusi vestuvių praktika.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -32,18 +32,18 @@ patikimumas: "vidutinis"
 - Bibliografijoje nurodytas kaip baltų ir germanų genčių santykių autorius. (t-001)
 
 ## Kontekstas
-- Bibliografinė eilutė tiesiogiai įvardija Bujaką kaip veikalo autorių. (q-001)
+- Bibliografinė eilutė tiesiogiai įvardija Bujaką kaip veikalo autorių. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Er. Bujak autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip baltų ir germanų genčių santykių autorius."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Bibliografijoje nurodytas kaip baltų ir germanų genčių santykių autorius.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

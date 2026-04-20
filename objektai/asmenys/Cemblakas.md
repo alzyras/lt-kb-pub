@@ -43,15 +43,15 @@ patikimumas: "vidutinis"
 - date_end: 1418
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Cemblakas apibūdinamas taip: po nepatvirtinto išrinkimo jis buvo ekskomunikuotas ir nebegalėjo valdyti metropolijos; 1418 m. buvo pasiųstas į Konstancos Bažnyčios suvažiavimą derėtis dėl unijos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Po nepatvirtinto išrinkimo buvo ekskomunikuotas ir nebegalėjo valdyti metropolijos; 1418 m. buvo pasiųstas į Konstancos Bažnyčios suvažiavimą derėtis dėl unijos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

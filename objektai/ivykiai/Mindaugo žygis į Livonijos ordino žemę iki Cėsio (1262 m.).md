@@ -37,16 +37,16 @@ Mindaugas, pasukęs prieš ordiną kartu su žemaičiais, nužygiavo į Livonijo
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Mindaugas, pasukęs prieš ordiną kartu su žemaičiais, nužygiavo į Livonijos ordino žemę iki Cėsio, bet pilies nepaėmė."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Mindaugas, pasukęs prieš ordiną kartu su žemaičiais, nužygiavo į Livonijos ordino žemę iki Cėsio, bet pilies nepaėmė.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

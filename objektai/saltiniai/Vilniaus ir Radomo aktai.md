@@ -44,16 +44,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Vilniaus ir Radomo aktai“ siejamas su šiuo kontekstu: tekste šie aktai įvardijami kaip dokumentai, kurie patvirtino Vytauto savarankiškumą ir nustatė Lietuvos santykius su Jogaila bei Lenkija po 1401 m. susitarimo."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: tekste šie aktai įvardijami kaip dokumentai, kurie patvirtino Vytauto savarankiškumą ir nustatė Lietuvos santykius su Jogaila bei Lenkija po 1401 m. susitarimo.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

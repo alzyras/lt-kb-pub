@@ -40,15 +40,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: išlaikyti pravažiuojančius kunigaikščio pasiuntinius` / `išlaikyti ir kelionėje pas juos sustojantį kunigaikštį su visu jo dvaru (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Kunigaikščio ir jo pasiuntinių išlaikymas kelionėje“ siejama su formuluote: išlaikyti pravažiuojančius kunigaikščio pasiuntinius` / `išlaikyti ir kelionėje pas juos sustojantį kunigaikštį su visu jo dvaru. Šaltinio kontekste nurodoma: kas atlieka: bajorija; kada atliekama: pravažiuojant` / `kelionėje sustojant."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Bajorams priskiriama ne tik karo ir pilies prievolė, bet ir pareiga aprūpinti keliaujančius valdovo pasiuntinius bei patį kunigaikštį su jo dvaru. Tai atrodo kaip nusistovėjusi elitinė hospitavimo praktika.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

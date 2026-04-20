@@ -46,15 +46,15 @@ patikimumas: "aukstas"
 - Minima kaip vakarinės Vokietijos dalis, kurios okupacija tuo metu atitraukė didžiųjų valstybių dėmesį nuo Klaipėdos įvykių. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Ruhro sritis“ siejama su šiuo kontekstu: Minima kaip vakarinės Vokietijos dalis, kurios okupacija tuo metu atitraukė didžiųjų valstybių dėmesį nuo Klaipėdos įvykių."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minima kaip vakarinės Vokietijos dalis, kurios okupacija tuo metu atitraukė didžiųjų valstybių dėmesį nuo Klaipėdos įvykių.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

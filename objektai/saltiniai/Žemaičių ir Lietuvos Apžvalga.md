@@ -51,16 +51,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Žemaičių ir Lietuvos Apžvalga“ siejamas su šiuo kontekstu: Minimas kaip atskiras katalikiškas laikraštis, trumpiau vadinamas „Apžvalga“, kovojęs prieš rusinimą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Minimas kaip atskiras katalikiškas laikraštis, trumpiau vadinamas „Apžvalga“, kovojęs prieš rusinimą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

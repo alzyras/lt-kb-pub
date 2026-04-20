@@ -46,15 +46,15 @@ patikimumas: "aukstas"
 - Minima kaip laikraščio leidybos vieta, kur pasirodė straipsnis iš Gumbinės. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Iena“ siejama su šiuo kontekstu: Minima kaip laikraščio leidybos vieta, kur pasirodė straipsnis iš Gumbinės."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minima kaip laikraščio leidybos vieta, kur pasirodė straipsnis iš Gumbinės.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

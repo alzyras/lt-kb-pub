@@ -41,15 +41,15 @@ patikimumas: "aukstas"
 - Minimas kaip Mandžuko valstybės sostinė. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Harbinas“ siejama su šiuo kontekstu: Minimas kaip Mandžuko valstybės sostinė."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip Mandžuko valstybės sostinė.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

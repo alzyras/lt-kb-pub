@@ -42,26 +42,26 @@ patikimumas: "vidutinis"
 - Bibliografijoje atskirai minimas „Medžiaga ... mitologijai“ I-II (1908, 1909). (t-002)
 
 ## Kontekstas
-- Bibliografijoje nurodytas keliuose įrašuose kaip kalbos ir aisčių senovės tyrimų autorius. (q-001)
-- Atskirame bibliografijos punkte K. Būga siejamas su mitologijos medžiagos leidiniais. (q-002)
+- Bibliografijoje nurodytas keliuose įrašuose kaip kalbos ir aisčių senovės tyrimų autorius. (c-001)
+- Atskirame bibliografijos punkte K. Būga siejamas su mitologijos medžiagos leidiniais. (c-002)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje K. Būga minimas kaip autorius, siejamas su: Upių vardų studijos ir aisčių bei slavėnų senovė; Aisčių praeitis vietų vardų šviesoje; Liet. kalbos žodynas; Medžiaga ... mitologijai."
   pagrindžia:
-    - q-001
-    - q-002
+    - c-001
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Bibliografijoje K. Būga nurodytas kaip „Medžiaga ... mitologijai“ I-II (1908, 1909) autorius."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje K. Būga minimas kaip autorius, siejamas su: Upių vardų studijos ir aisčių bei slavėnų senovė; Aisčių praeitis vietų vardų šviesoje; Liet. kalbos žodynas; Medžiaga ... mitologijai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -78,7 +78,7 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Šaltinio fragmentas tiesiogiai susieja kandidatą su autorystės, redagavimo, vertimo, kronikininko ar bibliografinio autoriaus kontekstu."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Bibliografijoje pateikiamas K. Būgos darbas apie mitologiją.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

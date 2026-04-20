@@ -49,15 +49,15 @@ Cituojama Liublino unijos akto formuluotė, kuria Lietuvos ir Lenkijos jungtis a
 Įsimintina konstitucinė frazė, aiškinanti unijos ideologinę kalbą apie vieną valstybę. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje užfiksuota formuluotė „Didžioji Lietuvos kunigaikštystė ir Lenkų karalystė yra vienas nedalomas ir vienalytis kūnas, o taip pat ne skirtinga, bet viena bendra valstybė, kuri iš dviejų valstybių ir dviejų tautų suėjo ir susijungė į vieną visuomenę“; kontekstas: Cituojama Liublino unijos akto formuluotė, kuria Lietuvos ir Lenkijos jungtis apibrėžiama kaip vienas bendras politinis kūnas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

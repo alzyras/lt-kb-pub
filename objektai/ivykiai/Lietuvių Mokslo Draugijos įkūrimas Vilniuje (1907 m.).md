@@ -37,16 +37,16 @@ Vilniuje buvo įkurta draugija lietuvių tautai, jos kultūrai ir mokslui tirti 
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Vilniuje buvo įkurta draugija lietuvių tautai, jos kultūrai ir mokslui tirti bei kelti."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Vilniuje buvo įkurta draugija lietuvių tautai, jos kultūrai ir mokslui tirti bei kelti.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -37,16 +37,16 @@ Berne sušaukta konferencija patvirtino Vilniaus konferencijos nutarimus ir išk
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Berne sušaukta konferencija patvirtino Vilniaus konferencijos nutarimus ir iškėlė Klaipėdos uosto klausimą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Berne sušaukta konferencija patvirtino Vilniaus konferencijos nutarimus ir iškėlė Klaipėdos uosto klausimą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -37,16 +37,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "1930 m. vietinė Lietuvių Katalikų šv. Kazimiero draugija pradėjo leisti savaitraštį „Švyturį“, ir tai pagyvino tautišką veikimą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: 1930 m. vietinė Lietuvių Katalikų šv. Kazimiero draugija pradėjo leisti savaitraštį „Švyturį“, ir tai pagyvino tautišką veikimą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

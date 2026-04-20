@@ -37,16 +37,16 @@ Taryba atšaukė Uracho kvietimą ir valdymo formos klausimą paliko steigiamaja
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Taryba atšaukė Uracho kvietimą ir valdymo formos klausimą paliko steigiamajam seimui."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Taryba atšaukė Uracho kvietimą ir valdymo formos klausimą paliko steigiamajam seimui.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

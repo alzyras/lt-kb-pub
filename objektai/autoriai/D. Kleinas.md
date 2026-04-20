@@ -43,18 +43,18 @@ patikimumas: "vidutinis"
 - pirmoji lietuvių kalbos gramatika; dvi giesmių knygos. (t-001)
 
 ## Kontekstas
-- Tekstas jį aiškiai sieja su pirmąja lietuvių kalbos gramatika ir giesmių knygomis, todėl jis laikytinas autoriaus kandidatu šiame gabale. (q-001)
+- Tekstas jį aiškiai sieja su pirmąja lietuvių kalbos gramatika ir giesmių knygomis, todėl jis laikytinas autoriaus kandidatu šiame gabale. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje D. Kleinas minimas kaip autorius, siejamas su: pirmoji lietuvių kalbos gramatika; dvi giesmių knygos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje D. Kleinas minimas kaip autorius, siejamas su: pirmoji lietuvių kalbos gramatika; dvi giesmių knygos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

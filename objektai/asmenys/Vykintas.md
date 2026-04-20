@@ -26,15 +26,15 @@ patikimumas: "aukstas"
 Šaltinyje Vykintas apibūdinamas taip: Žemaičių kunigaikštis ir Mindaugo bendradarbis, vėliau įtrauktas į sąjungą prieš Mindaugą.
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Vykintas apibūdinamas taip: Žemaičių kunigaikštis ir Mindaugo bendradarbis, vėliau įtrauktas į sąjungą prieš Mindaugą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Žemaičių kunigaikštis ir Mindaugo bendradarbis, vėliau įtrauktas į sąjungą prieš Mindaugą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

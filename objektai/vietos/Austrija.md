@@ -53,21 +53,21 @@ patikimumas: "aukstas"
 - Minima kaip viena iš pagrindinių varžovų valstybių ir Sobieskio sąjungininkė karo su turkais metu. (t-002)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Austrija“ siejama su šiuo kontekstu: Austrija minima kaip vieta, kur pertvarkytas ordinas išliko iki vėlyvų laikų."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje vieta „Austrija“ siejama su šiuo kontekstu: Minima kaip viena iš pagrindinių varžovų valstybių ir Sobieskio sąjungininkė karo su turkais metu."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Austrija minima kaip vieta, kur pertvarkytas ordinas išliko iki vėlyvų laikų.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -81,7 +81,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Minima kaip viena iš pagrindinių varžovų valstybių ir Sobieskio sąjungininkė karo su turkais metu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

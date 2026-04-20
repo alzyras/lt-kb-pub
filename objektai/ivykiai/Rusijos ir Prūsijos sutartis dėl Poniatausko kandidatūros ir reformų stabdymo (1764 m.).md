@@ -44,16 +44,16 @@ Po Augusto III mirties Rusija ir Prūsija atnaujino sutartį, kuria rėmė Ponia
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Po Augusto III mirties Rusija ir Prūsija atnaujino sutartį, kuria rėmė Poniatausko kandidatūrą ir siekė sulaikyti bet kokias reformas Respublikoje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Po Augusto III mirties Rusija ir Prūsija atnaujino sutartį, kuria rėmė Poniatausko kandidatūrą ir siekė sulaikyti bet kokias reformas Respublikoje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

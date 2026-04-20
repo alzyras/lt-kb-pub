@@ -59,27 +59,27 @@ patikimumas: "aukstas"
 - Šaltinyje „Unitai“ siejama su šiuo kontekstu: Unitai čia aprašomi kaip unijos šalininkų pusė, kuri susidūrė su pravoslavais ir ilgainiui neišsiplėtė tiek, kiek buvo tikėtasi. (t-003)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Unitai“ apibūdinama kaip religinė bendruomenė; unitai čia aprašomi kaip unijos šalininkų pusė, kuri susidūrė su pravoslavais ir ilgainiui neišsiplėtė tiek, kiek buvo tikėtasi."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje „Unitai“ siejama su šiuo kontekstu: Unitai čia aprašomi kaip unijos šalininkų pusė, kuri susidūrė su pravoslavais ir ilgainiui neišsiplėtė tiek, kiek buvo tikėtasi."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-003
+- t-003
   teiginys: "Šaltinyje „Unitai“ siejama su šiuo kontekstu: Unitai čia aprašomi kaip unijos šalininkų pusė, kuri susidūrė su pravoslavais ir ilgainiui neišsiplėtė tiek, kiek buvo tikėtasi."
   pagrindžia:
-    - q-003
+    - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Unitai čia aprašomi kaip unijos šalininkų pusė, kuri susidūrė su pravoslavais ir ilgainiui neišsiplėtė tiek, kiek buvo tikėtasi.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -93,7 +93,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Unitai čia aprašomi kaip unijos šalininkų pusė, kuri susidūrė su pravoslavais ir ilgainiui neišsiplėtė tiek, kiek buvo tikėtasi.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -107,7 +107,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
   pagrindžia:
     - t-002
-- id: q-003
+- c-003
   santrauka: Unitai čia aprašomi kaip unijos šalininkų pusė, kuri susidūrė su pravoslavais ir ilgainiui neišsiplėtė tiek, kiek buvo tikėtasi.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

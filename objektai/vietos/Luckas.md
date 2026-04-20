@@ -54,27 +54,27 @@ patikimumas: "aukstas"
 - Minimas kaip Lucko vyskupo valdos miestas Brastos unijos pasakojime. (t-003)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Luckas“ siejama su šiuo kontekstu: pas Vytautą Lucke apsilankęs kunigaikščio sūnus susižadėjo su Sofija."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje vieta „Luckas“ siejama su šiuo kontekstu: Minimas kaip vieta, kur Švitrigaila baigė gyvenimą."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-003
+- t-003
   teiginys: "Šaltinyje vieta „Luckas“ siejama su šiuo kontekstu: Minimas kaip Lucko vyskupo valdos miestas Brastos unijos pasakojime."
   pagrindžia:
-    - q-003
+    - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: pas Vytautą Lucke apsilankęs kunigaikščio sūnus susižadėjo su Sofija.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -89,7 +89,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Minimas kaip vieta, kur Švitrigaila baigė gyvenimą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -102,7 +102,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-002
-- id: q-003
+- c-003
   santrauka: Minimas kaip Lucko vyskupo valdos miestas Brastos unijos pasakojime.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

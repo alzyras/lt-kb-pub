@@ -47,16 +47,16 @@ Varšuvos konfederacinis seimas turėjo įteisinti Repnino reikalavimus, buvo su
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Varšuvos konfederacinis seimas turėjo įteisinti Repnino reikalavimus, buvo suimti opozicijos vyskupai ir karininkai, o Rusijai pripažinta kardinalinių teisių garantija."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Varšuvos konfederacinis seimas turėjo įteisinti Repnino reikalavimus, buvo suimti opozicijos vyskupai ir karininkai, o Rusijai pripažinta kardinalinių teisių garantija.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

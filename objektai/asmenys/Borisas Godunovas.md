@@ -43,15 +43,15 @@ patikimumas: "aukstas"
 - date_end: 1597
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Borisas Godunovas apibūdinamas kaip Maskvos didžiūnas, Teodoro žmonos brolis, turėjęs valdžią Teodoro laikais ir 1597 m. pasiskelbęs caru."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Maskvos didžiūnas, Teodoro žmonos brolis, turėjęs valdžią Teodoro laikais ir 1597 m. pasiskelbęs caru.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

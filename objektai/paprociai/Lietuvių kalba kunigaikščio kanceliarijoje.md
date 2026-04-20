@@ -48,15 +48,15 @@ patikimumas: "aukstas"
 - kaip atliekama: valdžia ėmė vartoti lietuvių kalbą ir savo kanceliarijoje (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Lietuvių kalba kunigaikščio kanceliarijoje“ siejama su formuluote: valdžia ėmė vartoti lietuvių kalbą ir savo kanceliarijoje. Šaltinio kontekste nurodoma: kas atlieka: Prūsijos valdžia ir lietuviškai mokantys raštininkai; kada atliekama: XVII amžiuje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Valdžios raštai Mažosios Lietuvos visuomenei buvo rašomi lietuviškai, o ši rašytinė praktika vėliau buvo pratęsta ir atgaivinta.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

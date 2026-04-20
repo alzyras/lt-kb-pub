@@ -48,15 +48,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: Vilniaus katedroje įvyko iškilmingas pasižadėjimas atnaujinti uniją (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Iškilmingas pasižadėjimas atnaujinti uniją“ siejama su formuluote: Vilniaus katedroje įvyko iškilmingas pasižadėjimas atnaujinti uniją. Šaltinio kontekste nurodoma: kas atlieka: Vilniaus universiteto jaunuomenė, platesnė bajorija; kada atliekama: 1812 m. liepos 14 d.."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tai iškilmingas politinis pasižadėjimas katedroje, skirtas atnaujinti unijos ryšius su Lenkija; šaltinis sako, kad tokių iškilmių buvo ir kitur.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

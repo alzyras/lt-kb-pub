@@ -50,15 +50,15 @@ patikimumas: "vidutinis"
 Terminas šaltinyje vartojamas šiame kontekste: švietimo istorija, universitetinė leksika. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Moralinių mokslų kolegija“ vartojama taip: Aukštesnės mokyklos kolegija, kurioje dėstoma filosofija, teologija ir teisė."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Vyriausioji Lietuvos Mokykla padalijama į dvi kolegijas, iš kurių viena skirta moraliniams ir teisiniams mokslams.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

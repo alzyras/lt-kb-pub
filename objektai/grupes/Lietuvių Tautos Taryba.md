@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Lietuvių Tautos Taryba“ apibūdinama kaip taryba; rusijoje iš įvairių srovių sudaryta taryba, kuri sušaukė lietuvių seimą Petrapilyje. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Lietuvių Tautos Taryba“ apibūdinama kaip taryba; rusijoje iš įvairių srovių sudaryta taryba, kuri sušaukė lietuvių seimą Petrapilyje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Rusijoje iš įvairių srovių sudaryta taryba, kuri sušaukė lietuvių seimą Petrapilyje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

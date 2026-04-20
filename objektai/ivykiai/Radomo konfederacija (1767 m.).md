@@ -44,16 +44,16 @@ Repninui kurstant, įvairiuose pavietuose pradėjo kurtis prieš karalių ir Ča
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Repninui kurstant, įvairiuose pavietuose pradėjo kurtis prieš karalių ir Čartoriskius nukreiptos konfederacijos, kurių centras buvo Radomas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Repninui kurstant, įvairiuose pavietuose pradėjo kurtis prieš karalių ir Čartoriskius nukreiptos konfederacijos, kurių centras buvo Radomas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

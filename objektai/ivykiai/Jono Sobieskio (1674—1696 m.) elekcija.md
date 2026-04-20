@@ -44,17 +44,17 @@ Per elekciją lietuviai protestavo prieš Sobieskio kandidatūrą, bet dalis did
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Per elekciją lietuviai protestavo prieš Sobieskio kandidatūrą, bet dalis didikų jį palaikė, ir galiausiai jis buvo visų pripažintas."
   pagrindžia:
-    - q-001
-    - q-002
+    - c-001
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Citata pagrindžia įvykio „Jono Sobieskio (1674—1696 m.) elekcija“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -77,7 +77,7 @@ Per elekciją lietuviai protestavo prieš Sobieskio kandidatūrą, bet dalis did
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia teiginį šaltinio tekste."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Citata pagrindžia įvykio „Jono Sobieskio (1674—1696 m.) elekcija“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -56,33 +56,33 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Liublino unijos aktas“ siejamas su šiuo kontekstu: Tekstas kalba apie 1569 m. Liublino seime patvirtintus unijos aktus ir jų politinę reikšmę Lietuvos bei Lenkijos santykiams."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje „Liublino unijos aktas“ šis aktas minimas kaip teisės dokumentas, kuriuo nustatyta bendra Lietuvos ir Lenkijos užsienio politika."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-003
+- t-003
   teiginys: "Šaltinyje „Liublino unijos aktas“ siejamas su šiuo kontekstu: Šaltinyje pavadinimas išplėtotas per skyriaus antraštę ir aprašymą; pats cituojamas fragmentas labiau nusako akto reikšmę nei formalią dokumento antraštę."
   pagrindžia:
-    - q-003
+    - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-004
+- t-004
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Liublino unijos aktas“ siejamas su šiuo kontekstu: Tekste 1569 m. Liublino seimo užbaigtas unijos dokumentas įvardijamas kaip pirmasis unijos aktas."
   pagrindžia:
-    - q-004
+    - c-004
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tekstas kalba apie 1569 m. Liublino seime patvirtintus unijos aktus ir jų politinę reikšmę Lietuvos bei Lenkijos santykiams.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -95,7 +95,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Tekste šis aktas minimas kaip teisės dokumentas, kuriuo nustatyta bendra Lietuvos ir Lenkijos užsienio politika.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -112,7 +112,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
   pagrindžia:
     - t-002
-- id: q-003
+- c-003
   santrauka: Šaltinyje pavadinimas išplėtotas per skyriaus antraštę ir aprašymą; pats cituojamas fragmentas labiau nusako akto reikšmę nei formalią dokumento antraštę.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -125,7 +125,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
   pagrindžia:
     - t-003
-- id: q-004
+- c-004
   santrauka: Tekste 1569 m. Liublino seimo užbaigtas unijos dokumentas įvardijamas kaip pirmasis unijos aktas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -37,17 +37,17 @@ Muravjovas perėmė baudžiavos naikinimą, pertvarkė komisijas ir valstiečių
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Muravjovas perėmė baudžiavos naikinimą, pertvarkė komisijas ir valstiečių padėtį, o iki 1865 m. Lietuvoje baudžiava buvo galutinai panaikinta."
   pagrindžia:
-    - q-001
-    - q-002
+    - c-001
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Citata pagrindžia įvykio „Galutinis baudžiavos panaikinimas Lietuvoje (iki 1865 m.)“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -65,7 +65,7 @@ Muravjovas perėmė baudžiavos naikinimą, pertvarkė komisijas ir valstiečių
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia teiginį šaltinio tekste."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Citata pagrindžia įvykio „Galutinis baudžiavos panaikinimas Lietuvoje (iki 1865 m.)“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

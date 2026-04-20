@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Amerikos Lietuvių Tautinė Taryba“ apibūdinama kaip taryba; tautininkų suorganizuota taryba, kuri tekste priešpriešinama katalikų tarybai. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Amerikos Lietuvių Tautinė Taryba“ apibūdinama kaip taryba; tautininkų suorganizuota taryba, kuri tekste priešpriešinama katalikų tarybai."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tautininkų suorganizuota taryba, kuri tekste priešpriešinama katalikų tarybai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -55,15 +55,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: kazokų administracija, karo prievolė. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Kazokų regestrai“ vartojama taip: Oficialūs kazokų sąrašai arba į juos įrašytų kazokų statusas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Vartojama apie oficialų kazokų įrašymą į sąrašus ir jų atskyrimą nuo neregistruotų kazokų.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

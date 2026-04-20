@@ -58,15 +58,15 @@ patikimumas: "vidutinis"
 Šaltinyje „Vytauto Didžiojo paminklas Vilniaus katedroje“ tai Vytauto kapo atminimo paminklas Vilniaus katedroje, vėliau atnaujintas marmurine lenta ir portretu.
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Vytauto Didžiojo paminklas Vilniaus katedroje“ tai Vytauto kapo atminimo paminklas Vilniaus katedroje, vėliau atnaujintas marmurine lenta ir portretu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tai Vytauto kapo atminimo paminklas Vilniaus katedroje, vėliau atnaujintas marmurine lenta ir portretu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

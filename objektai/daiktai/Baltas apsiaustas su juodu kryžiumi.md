@@ -47,15 +47,15 @@ patikimumas: "aukstas"
 Šaltinyje „Baltas apsiaustas su juodu kryžiumi“ taip įvardijama kryžiuočių ir templininkų dėvėta apranga, kurią išskiria juodas kryžius ant balto apsiausto.
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Baltas apsiaustas su juodu kryžiumi“ taip įvardijama kryžiuočių ir templininkų dėvėta apranga, kurią išskiria juodas kryžius ant balto apsiausto."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekste taip įvardijama kryžiuočių ir templininkų dėvėta apranga, kurią išskiria juodas kryžius ant balto apsiausto.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

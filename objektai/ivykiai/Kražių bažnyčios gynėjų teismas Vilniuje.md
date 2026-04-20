@@ -34,16 +34,16 @@ Po Kražių skerdynių Vilniuje įvyksta gynėjų teismas, o visuomenės pasipik
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Po Kražių skerdynių Vilniuje įvyksta gynėjų teismas, o visuomenės pasipiktinimas valdžios veiksmais yra toks didelis, kad kaltinamuosius gina žymiausi Rusijos advokatai."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Po Kražių skerdynių Vilniuje įvyksta gynėjų teismas, o visuomenės pasipiktinimas valdžios veiksmais yra toks didelis, kad kaltinamuosius gina žymiausi Rusijos advokatai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

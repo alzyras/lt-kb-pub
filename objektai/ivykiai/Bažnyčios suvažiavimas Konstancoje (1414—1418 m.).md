@@ -42,16 +42,16 @@ Konstancoje vykęs visuotinis Bažnyčios suvažiavimas sprendė Žemaičių byl
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Konstancoje vykęs visuotinis Bažnyčios suvažiavimas sprendė Žemaičių bylą ir pavedė Vytautui su Jogaila skleisti krikščionybę Žemaičiuose."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Konstancoje vykęs visuotinis Bažnyčios suvažiavimas sprendė Žemaičių bylą ir pavedė Vytautui su Jogaila skleisti krikščionybę Žemaičiuose.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

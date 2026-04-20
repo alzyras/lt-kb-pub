@@ -33,18 +33,18 @@ patikimumas: "vidutinis"
 - žemaitiškas žodynas; Lietuvos istorija; senienų muziejus Baublyje.. (t-001)
 
 ## Kontekstas
-- žemaičių kalbos ir senienų rinkimo veikėjas, rašęs žemaitiškai. (q-001)
+- žemaičių kalbos ir senienų rinkimo veikėjas, rašęs žemaitiškai. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje D. Poška minimas kaip rašytojas, istorijos mėgėjas, siejamas su: žemaitiškas žodynas; Lietuvos istorija; senienų muziejus Baublyje.."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje D. Poška minimas kaip rašytojas, istorijos mėgėjas, siejamas su: žemaitiškas žodynas; Lietuvos istorija; senienų muziejus Baublyje..
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

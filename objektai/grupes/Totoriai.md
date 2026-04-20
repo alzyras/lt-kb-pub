@@ -42,15 +42,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Totoriai“ apibūdinama kaip tauta; totoriai šiame fragmente minimi kaip Jogailos sąjungininkai prieš Maskvą, o paskui kaip Kulikovo mūšyje sumušta kariuomenė. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Totoriai“ apibūdinama kaip tauta; totoriai šiame fragmente minimi kaip Jogailos sąjungininkai prieš Maskvą, o paskui kaip Kulikovo mūšyje sumušta kariuomenė."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Totoriai šiame fragmente minimi kaip Jogailos sąjungininkai prieš Maskvą, o paskui kaip Kulikovo mūšyje sumušta kariuomenė.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

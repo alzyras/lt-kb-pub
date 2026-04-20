@@ -46,15 +46,15 @@ patikimumas: "vidutinis"
 Antspaudas, šaltinyje pateiktas iliustracijos antraštėje. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinis tiesiogiai įvardija Vyriausiosios Lietuvos Mokyklos antspaudą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Trumpa antraštė tiesiogiai įvardija antspaudą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

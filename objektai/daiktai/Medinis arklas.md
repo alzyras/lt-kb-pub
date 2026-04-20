@@ -44,15 +44,15 @@ patikimumas: "aukstas"
 Šaltinyje „Medinis arklas“ aprašomas senasis žemdirbystės būdas, kai žemė daugiausia buvo ariama mediniu arklu be geležinio norago.
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Medinis arklas“ aprašomas senasis žemdirbystės būdas, kai žemė daugiausia buvo ariama mediniu arklu be geležinio norago."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: aprašomas senasis žemdirbystės būdas, kai žemė daugiausia buvo ariama mediniu arklu be geležinio norago.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

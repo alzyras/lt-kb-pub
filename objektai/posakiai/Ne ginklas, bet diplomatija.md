@@ -44,15 +44,15 @@ Gediminas apibūdinamas kaip valdovas, priešus įveikiantis pirmiausia diplomat
 Trumpa, aforistinė priešprieša tarp karo ir diplomatijos. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje užfiksuota formuluotė „Ne ginklas, bet diplomatija“; kontekstas: Gediminas apibūdinamas kaip valdovas, priešus įveikiantis pirmiausia diplomatinėmis priemonėmis, o ne karo jėga."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

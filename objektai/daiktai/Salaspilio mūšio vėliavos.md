@@ -50,15 +50,15 @@ patikimumas: "vidutinis"
 Karo kontekste minimos vėliavos, pateiktos kaip Salaspilio mūšio laimėjimo dalis. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinis mini, kad Katkevičiui teko 60 vėliavų, 20 patrankų ir keli tūkstančiai karių."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai nurodo vėliavas kaip karo laimėjimo dalį.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

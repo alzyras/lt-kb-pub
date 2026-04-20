@@ -33,18 +33,18 @@ patikimumas: "vidutinis"
 - Minimas tarp dainelių autorių, kurių kūriniai tebedainuojami. (t-001)
 
 ## Kontekstas
-- Tekstas tiesiogiai mini pavardę ir jo dainelių reikšmę. (q-001)
+- Tekstas tiesiogiai mini pavardę ir jo dainelių reikšmę. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Strazdelis autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas tarp dainelių autorių, kurių kūriniai tebedainuojami."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas tarp dainelių autorių, kurių kūriniai tebedainuojami.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

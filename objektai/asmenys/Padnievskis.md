@@ -41,15 +41,15 @@ patikimumas: "vidutinis"
 - date_end: 1569
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Padnievskis apibūdinamas taip: Krokuvos vyskupas, Liublino seime ginčijęsis dėl Lietuvos ir Lenkijos santykio."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Krokuvos vyskupas, Liublino seime ginčijęsis dėl Lietuvos ir Lenkijos santykio.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

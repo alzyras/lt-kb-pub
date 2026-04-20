@@ -49,15 +49,15 @@ Aprašant Ukmergės mūšio padarinius, autorius šiuo palyginimu nusako mūšio
 Vaizdinga ir įsimintina formulė, pabrėžianti Ukmergės mūšio lūžinį poveikį ordinui. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje užfiksuota formuluotė „Kas buvo Tanenbergo mūšis Prūsų kryžiuočiams, tas livoniškei ordino šakai buvo Ukmergės mūšis“; kontekstas: Aprašant Ukmergės mūšio padarinius, autorius šiuo palyginimu nusako mūšio reikšmę Livonijos ordino šakai."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

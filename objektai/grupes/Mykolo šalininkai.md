@@ -53,21 +53,21 @@ patikimumas: "aukstas"
 - Šaltinyje „Mykolo šalininkai“ siejama su šiuo kontekstu: Mykolo šalininkai po Zigmanto žūties užima svarbiausius miestus, remiami žemaičių, o vėliau priversti trauktis prieš Kazimierą. (t-002)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Mykolo šalininkai“ apibūdinama kaip šalininkai; mykolo šalininkai po Zigmanto žūties užima svarbiausius miestus, remiami žemaičių, o vėliau priversti trauktis prieš Kazimierą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje „Mykolo šalininkai“ siejama su šiuo kontekstu: Mykolo šalininkai po Zigmanto žūties užima svarbiausius miestus, remiami žemaičių, o vėliau priversti trauktis prieš Kazimierą."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Mykolo šalininkai po Zigmanto žūties užima svarbiausius miestus, remiami žemaičių, o vėliau priversti trauktis prieš Kazimierą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -83,7 +83,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Mykolo šalininkai po Zigmanto žūties užima svarbiausius miestus, remiami žemaičių, o vėliau priversti trauktis prieš Kazimierą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

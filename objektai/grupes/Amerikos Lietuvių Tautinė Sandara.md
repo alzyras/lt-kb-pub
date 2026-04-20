@@ -42,15 +42,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Amerikos Lietuvių Tautinė Sandara“ apibūdinama kaip politinė organizacija; tautininkų organizacija, kuri tekste įvardijama kaip vėlesnė lietuvių pirmeivių partijos forma. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Amerikos Lietuvių Tautinė Sandara“ apibūdinama kaip politinė organizacija; tautininkų organizacija, kuri tekste įvardijama kaip vėlesnė lietuvių pirmeivių partijos forma."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tautininkų organizacija, kuri tekste įvardijama kaip vėlesnė lietuvių pirmeivių partijos forma.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

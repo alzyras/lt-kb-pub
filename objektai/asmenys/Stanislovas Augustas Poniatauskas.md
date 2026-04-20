@@ -37,21 +37,21 @@ patikimumas: "aukstas"
 - Stanislovas Augustas
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Stanislovas Augustas Poniatauskas apibūdinamas taip: Čartoriskių pasiųstas į Petrapilį jų sesers sūnus, susisaistęs su sosto įpėdinio rūmais."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje Stanislovas Augustas Poniatauskas siejamas su Poniatausko kandidatūra ir Stanislovo Augusto išrinkimu karaliumi."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Čartoriskių pasiųstas į Petrapilį jų sesers sūnus, susisaistęs su sosto įpėdinio rūmais.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -68,7 +68,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Šaltinyje Poniatausko kandidatūra siejama su Stanislovo Augusto Poniatausko išrinkimu karaliumi.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

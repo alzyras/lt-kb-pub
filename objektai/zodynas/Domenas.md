@@ -53,16 +53,16 @@ patikimumas: "vidutinis"
 Terminas šaltinyje vartojamas šiame kontekste: žemėvalda, feodalinė ūkio sandara; žemėvalda, valdovo ūkis. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Domenas“ vartojama taip: Tiesiogiai valdovo valdoma dvaro žemė arba valda; Valdovo žemės valda arba domenas."
   pagrindžia:
-    - q-001
-    - q-002
+    - c-001
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Terminas vartojamas valdovo ar pono tiesiogiai valdomiems dvarams įvardyti.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -77,7 +77,7 @@ Terminas šaltinyje vartojamas šiame kontekste: žemėvalda, feodalinė ūkio s
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia termino vartoseną arba aiškinimą šaltinyje."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Terminas vartojamas didžiojo kunigaikščio žemės valdoms, iš kurių buvo gaunamos pajamos, įvardyti.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

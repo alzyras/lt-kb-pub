@@ -46,15 +46,15 @@ patikimumas: "aukstas"
 - Minima kaip Rusijai 1793 m. turėjusi atitekti didžiosios Lietuvos kunigaikštijos sritis. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Minsko vaivadija“ siejama su šiuo kontekstu: Minima kaip Rusijai 1793 m. turėjusi atitekti didžiosios Lietuvos kunigaikštijos sritis."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minima kaip Rusijai 1793 m. turėjusi atitekti didžiosios Lietuvos kunigaikštijos sritis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

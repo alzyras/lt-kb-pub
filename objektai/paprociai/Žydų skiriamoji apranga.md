@@ -46,15 +46,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: jie turėjo nešioti skirtingus apdarus ir geltonas kepuraites (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Žydų skiriamoji apranga“ siejama su formuluote: jie turėjo nešioti skirtingus apdarus ir geltonas kepuraites. Šaltinio kontekste nurodoma: kas atlieka: žydai."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekstas rodo privalomą žydų išskyrimą apranga ir kepuraitėmis, todėl tai atskira socialinė praktika greta gyvenimo getuose.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -50,15 +50,15 @@ patikimumas: "vidutinis"
 Memorialinis kryžius, šaltinyje siejamas su Rūdavos mūšiu ir žuvusio maršalkos Schindekopo atminimu. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinis Rūdavos mūšio paminklinį kryžių aprašo kaip Schindekopui atminti pastatytą ir kelis kartus atnaujintą paminklą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata aprašo kryžiaus pastatymą ir vėlesnius atnaujinimus.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

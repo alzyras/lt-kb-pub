@@ -37,16 +37,16 @@ Derybos dėl Nemuno atidarymo vyko Kopenhagoje ir Lugane, bet nesibaigė susitar
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Derybos dėl Nemuno atidarymo vyko Kopenhagoje ir Lugane, bet nesibaigė susitarimu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Derybos dėl Nemuno atidarymo vyko Kopenhagoje ir Lugane, bet nesibaigė susitarimu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

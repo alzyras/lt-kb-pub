@@ -37,16 +37,16 @@ Po suėmimo Vilniuje Kęstutis išvežamas į Krėvos pilį ir ten po penkių di
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Po suėmimo Vilniuje Kęstutis išvežamas į Krėvos pilį ir ten po penkių dienų nužudomas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Po suėmimo Vilniuje Kęstutis išvežamas į Krėvos pilį ir ten po penkių dienų nužudomas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

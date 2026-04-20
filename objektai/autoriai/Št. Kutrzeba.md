@@ -37,18 +37,18 @@ patikimumas: "vidutinis"
 - Akta unji NNr. 29—31. (t-001)
 
 ## Kontekstas
-- Dokumentų pavyzdžių pastaboje nurodytas kaip vienas iš išleistų „Akta unji“ rinkinio rengėjų. (q-001)
+- Dokumentų pavyzdžių pastaboje nurodytas kaip vienas iš išleistų „Akta unji“ rinkinio rengėjų. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Št. Kutrzeba minimas kaip sudarytojas, siejamas su: Akta unji NNr. 29—31."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje Št. Kutrzeba minimas kaip sudarytojas, siejamas su: Akta unji NNr. 29—31.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

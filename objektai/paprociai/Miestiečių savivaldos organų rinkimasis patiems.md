@@ -45,15 +45,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: Miestiečiai savo magistratus ir teismus taip pat rinkdavosi patys (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Miestiečių savivaldos organų rinkimasis patiems“ siejama su formuluote: Miestiečiai savo magistratus ir teismus taip pat rinkdavosi patys. Šaltinio kontekste nurodoma: kas atlieka: miestiečiai; kada atliekama: Rusų valdžios laikotarpiu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinis rodo miestų savivaldą: miestiečiai patys rinkdavosi magistratus ir teismus, valdė miesto turtą ir sprendė savo reikalus.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

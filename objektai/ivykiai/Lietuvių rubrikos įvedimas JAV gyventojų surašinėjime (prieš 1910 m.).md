@@ -37,16 +37,16 @@ Lietuvių delegacija pasiekė, kad prezidento įsakymu gyventojų surašinėjime
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Lietuvių delegacija pasiekė, kad prezidento įsakymu gyventojų surašinėjime būtų įvesta lietuvių rubrika."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Lietuvių delegacija pasiekė, kad prezidento įsakymu gyventojų surašinėjime būtų įvesta lietuvių rubrika.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -37,16 +37,16 @@ Vyskupo Alberto iniciatyva įkurtas ordinas, vėliau popiežiaus patvirtintas ir
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Vyskupo Alberto iniciatyva įkurtas ordinas, vėliau popiežiaus patvirtintas ir pavadintas Kristaus Karių Brolija, šaltinyje tiesiogiai siejamas su kalavijuočių ordinu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Vyskupo Alberto iniciatyva įkurtas ordinas, vėliau popiežiaus patvirtintas ir pavadintas Kristaus Karių Brolija, šaltinyje tiesiogiai siejamas su kalavijuočių ordinu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

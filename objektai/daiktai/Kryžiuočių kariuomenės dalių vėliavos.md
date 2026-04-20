@@ -48,15 +48,15 @@ patikimumas: "aukstas"
 Karo vėliavų rinkinys, šaltinyje siejamas su Tanenbergo mūšiu ir nugabenimu į Krokuvą. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinis teigia, kad Tanenbergo mūšyje lietuviams ir lenkams teko 51 kryžiuočių kariuomenės vėliava, vėliau papildyta dar 5 vėliavomis."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata aprašo vėliavų skaičių, kilmę ir nugabenimą į Krokuvą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

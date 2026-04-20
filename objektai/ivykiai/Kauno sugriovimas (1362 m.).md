@@ -37,16 +37,16 @@ Ordinas, keršydamas už Kęstučio pabėgimą, užpuola Kauną ir galiausiai pi
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Ordinas, keršydamas už Kęstučio pabėgimą, užpuola Kauną ir galiausiai pilių sistemą šioje vietoje sugriovė."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Ordinas, keršydamas už Kęstučio pabėgimą, užpuola Kauną ir galiausiai pilių sistemą šioje vietoje sugriovė.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -44,15 +44,15 @@ patikimumas: "aukstas"
 Paminklas, šaltinyje pateiktas kaip blaivybės judėjimo konteksto iliustracija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinis iliustracijos antraštėje įvardija Blaivybės paminklą Skapiškyje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Trumpa iliustracijos antraštė tiesiogiai įvardija paminklą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

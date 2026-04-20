@@ -42,15 +42,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: specialios vėlių garbinamosios šventės, vadinamosios vėlinės (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Senovės aisčių vėlinės“ siejama su formuluote: specialios vėlių garbinamosios šventės, vadinamosios vėlinės. Šaltinio kontekste nurodoma: kas atlieka: aisčiai; kada atliekama: vėlių garbinimo švenčių metu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Mirusiųjų vėlės aprašomos kaip šeimų globėjos, todėl rengiamos specialios vėlių šventės ir joms aukojama bei paliekama maisto ir gėrimų.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -49,15 +49,15 @@ Balti vilnoniai marškiniai šaltinyje minimi kaip Jogailos vardu dalinta krikš
 Krikšto dovana ir simbolinis drabužis, kurį šaltinis sieja su Jogailos vardu vykusiu krikštu. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Balti vilnoniai marškiniai šaltinyje minimi kaip Jogailos vardu dalinta krikšto dovana, simbolizavusi nekaltąją sielą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai nurodo baltus vilnonius marškinius kaip krikšto dovaną ir paaiškina jų simbolinę reikšmę.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -41,15 +41,15 @@ patikimumas: "vidutinis"
 - date_end: 1652
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Čičinskas apibūdinamas taip: Minimas kaip Upytės atstovas, susijęs su _liberum veto_ ir seimo išardymu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip Upytės atstovas, susijęs su _liberum veto_ ir seimo išardymu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

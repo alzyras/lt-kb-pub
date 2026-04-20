@@ -44,16 +44,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Tranzitinio miško plukdymo Nemunu taisyklės“ tai taisyklių rinkinys, kuriuo Lietuva įvykdė Klaipėdos konvencijoje prisiimtą įsipareigojimą dėl medienos plukdymo Nemunu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tai taisyklių rinkinys, kuriuo Lietuva įvykdė Klaipėdos konvencijoje prisiimtą įsipareigojimą dėl medienos plukdymo Nemunu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

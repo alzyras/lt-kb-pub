@@ -32,15 +32,15 @@ patikimumas: "aukstas"
 - Kristupą II Radvilą
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Kristupas II Radvila apibūdinamas taip: Minimas kaip Lietuvos lauko hetmonas, kuris rūpinosi Livonijos gynimu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip Lietuvos lauko hetmonas, kuris rūpinosi Livonijos gynimu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -53,15 +53,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: emigracijos istorija, migracijos verslas. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Emigracijos bendrovė“ vartojama taip: Emigrantų gabenimu užsiimanti bendrovė, kuri galėjo piktnaudžiauti keliautojų padėtimi."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Terminas vartojamas apie bendroves, kurios gabeno tautiečius į kitus kraštus ir dažnai juos išnaudodavo.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -42,18 +42,18 @@ patikimumas: "vidutinis"
 - „Viltis“. (t-001)
 
 ## Kontekstas
-- Tekstas tiesiogiai sako, kad „Viltis“ buvo A. Smetonos redaguojama. (q-001)
+- Tekstas tiesiogiai sako, kad „Viltis“ buvo A. Smetonos redaguojama. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje A. Smetona minimas kaip redaktorius, siejamas su: „Viltis“."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje A. Smetona minimas kaip redaktorius, siejamas su: „Viltis“.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

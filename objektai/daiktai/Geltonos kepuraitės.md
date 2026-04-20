@@ -46,15 +46,15 @@ patikimumas: "aukstas"
 Skiriamasis aprangos elementas, kurį šaltinis mini kalbėdamas apie žydų padėtį. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinis geltonas kepuraites mini kaip skiriamąjį žydų aprangos elementą Lietuvoje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai mini privalomą skirtingą apdarą ir geltonas kepuraites.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -43,15 +43,15 @@ patikimumas: "aukstas"
 - date_end: 1655
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Karolis X Gustavas apibūdinamas taip: 1655 m. vasarą jis per Prūsiją įsiveržė į Lenkiją, o jo trečioji armija turėjo įsiveržti į Lietuvą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: 1655 m. vasarą per Prūsiją įsiveržė į Lenkiją, o jo trečioji armija turėjo įsiveržti į Lietuvą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

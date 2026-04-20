@@ -37,16 +37,16 @@ Okupuotame krašte lenkai organizavo seimą, kuris turėjo spręsti Vilniaus kra
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Okupuotame krašte lenkai organizavo seimą, kuris turėjo spręsti Vilniaus krašto prisijungimą prie Lenkijos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Okupuotame krašte lenkai organizavo seimą, kuris turėjo spręsti Vilniaus krašto prisijungimą prie Lenkijos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

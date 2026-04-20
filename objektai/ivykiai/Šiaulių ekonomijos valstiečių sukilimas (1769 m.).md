@@ -37,16 +37,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šiaulių ekonomijos valstiečių sukilimas vyko Baro konfederacijos pradžios neramumų metu ir buvo žiauriai numalšintas kariuomenės."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Šiaulių ekonomijos valstiečių sukilimas vyko Baro konfederacijos pradžios neramumų metu ir buvo žiauriai numalšintas kariuomenės.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

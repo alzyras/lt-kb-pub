@@ -37,16 +37,16 @@ Miestai buvo pirmiausia pavesti seniūnų priežiūrai, o vėliau mažesnieji Li
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Miestai buvo pirmiausia pavesti seniūnų priežiūrai, o vėliau mažesnieji Lietuvos miestai neteko savivaldos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Miestai buvo pirmiausia pavesti seniūnų priežiūrai, o vėliau mažesnieji Lietuvos miestai neteko savivaldos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

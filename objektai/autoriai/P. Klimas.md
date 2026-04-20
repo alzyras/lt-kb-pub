@@ -32,18 +32,18 @@ patikimumas: "vidutinis"
 - Įvardytas kaip nepriklausomosios valstybės atstatymo ir gyvenimo laikotarpio autorius. (t-001)
 
 ## Kontekstas
-- Vardas susietas su konkrečia veikalo dalimi ir autoriaus funkcija. (q-001)
+- Vardas susietas su konkrečia veikalo dalimi ir autoriaus funkcija. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje P. Klimas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Įvardytas kaip nepriklausomosios valstybės atstatymo ir gyvenimo laikotarpio autorius."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Įvardytas kaip nepriklausomosios valstybės atstatymo ir gyvenimo laikotarpio autorius.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

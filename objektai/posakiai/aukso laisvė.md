@@ -47,15 +47,15 @@ Turinio antraštėje frazė pateikta kaip skirsnio akcentas, o dėstomajame teks
 Istorinė politinė formulė, siejama su bajorijos laisvių principų gynimu. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje užfiksuota formuluotė „Aukso laisvė“; kontekstas: Turinio antraštėje frazė pateikta kaip skirsnio akcentas, o dėstomajame tekste vartojama kaip pagrindinių senosios santvarkos principų pavadinimas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

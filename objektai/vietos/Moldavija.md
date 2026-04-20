@@ -47,21 +47,21 @@ patikimumas: "aukstas"
 - Minima kaip imperatoriaus pažadėtas Sobieskio sūnaus karo laimėjimas. (t-002)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Moldavija“ siejama su šiuo kontekstu: Minima kaip žygio kryptis prieš turkus."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje vieta „Moldavija“ siejama su šiuo kontekstu: Minima kaip imperatoriaus pažadėtas Sobieskio sūnaus karo laimėjimas."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minima kaip žygio kryptis prieš turkus.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -81,7 +81,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Minima kaip imperatoriaus pažadėtas Sobieskio sūnaus karo laimėjimas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

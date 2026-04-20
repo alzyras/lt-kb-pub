@@ -37,16 +37,16 @@ Kilus 1905 m. revoliucijai Rusijoje, Amerikos lietuviai ėmė steigti Lietuvos j
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Kilus 1905 m. revoliucijai Rusijoje, Amerikos lietuviai ėmė steigti Lietuvos judėjimui remti komitetus."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Kilus 1905 m. revoliucijai Rusijoje, Amerikos lietuviai ėmė steigti Lietuvos judėjimui remti komitetus.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

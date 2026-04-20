@@ -44,16 +44,16 @@ Karolis X Gustavas, tikėdamasis lengvos pergalės, su dviem armijomis įsiverž
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Karolis X Gustavas, tikėdamasis lengvos pergalės, su dviem armijomis įsiveržė į Lenkiją, o trečioji turėjo žygiuoti į Lietuvą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Karolis X Gustavas, tikėdamasis lengvos pergalės, su dviem armijomis įsiveržė į Lenkiją, o trečioji turėjo žygiuoti į Lietuvą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

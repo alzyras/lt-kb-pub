@@ -45,15 +45,15 @@ patikimumas: "aukstas"
 Antspaudas, šaltinyje susietas su 1436 metų dokumentu. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinis Zigmanto Kęstutaičio antspaudą įvardija kaip prie 1436 metų dokumento prisegtą antspaudą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Antraštė tiesiogiai įvardija antspaudą ir jo ryšį su 1436 m. dokumentu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -26,15 +26,15 @@ patikimumas: "aukstas"
 Šaltinyje J. Balčikonis apibūdinamas taip: Minimas kaip Komiteto narys.
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje J. Balčikonis apibūdinamas taip: Minimas kaip Komiteto narys."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip Komiteto narys.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

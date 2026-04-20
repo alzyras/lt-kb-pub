@@ -37,16 +37,16 @@ Tarybos delegacijos vizitas naujajam kancleriui Hertlingui atvėrė vaisingesnes
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Tarybos delegacijos vizitas naujajam kancleriui Hertlingui atvėrė vaisingesnes politines derybas su Vokietijos vyriausybe."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tarybos delegacijos vizitas naujajam kancleriui Hertlingui atvėrė vaisingesnes politines derybas su Vokietijos vyriausybe.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -53,15 +53,15 @@ patikimumas: "vidutinis"
 Terminas šaltinyje vartojamas šiame kontekste: administracinė sandara, valdymas. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Gubernija“ vartojama taip: imperijos administracinis vienetas, provincija."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Terminas vartojamas kalbant apie lietuviškąsias gubernijas ir Vilniaus gubernijos seimelį.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

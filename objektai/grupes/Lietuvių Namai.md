@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Lietuvių Namai“ apibūdinama kaip organizacijų centras; 1931 m. Buenos Airėse buvo įkurtas kelių organizacijų centras, pavadintas Lietuvių Namais. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Lietuvių Namai“ apibūdinama kaip organizacijų centras; 1931 m. Buenos Airėse buvo įkurtas kelių organizacijų centras, pavadintas Lietuvių Namais."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: 1931 m. Buenos Airėse buvo įkurtas kelių organizacijų centras, pavadintas Lietuvių Namais.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

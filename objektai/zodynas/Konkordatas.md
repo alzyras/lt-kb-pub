@@ -51,15 +51,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: bažnytinė teisė, valstybės ir Bažnyčios santykiai. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Konkordatas“ vartojama taip: Sutartis tarp Šv. Sosto ir valstybės dėl bažnyčios padėties."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Bažnytinis susitarimas tarp Lietuvos ir Šv. Sosto įvardijamas kaip konkordatas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

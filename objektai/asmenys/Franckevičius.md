@@ -41,15 +41,15 @@ patikimumas: "aukstas"
 - date_end: 1897
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Franckevičius apibūdinamas taip: Minimas kaip Vilniaus vyskupijos valdytojas, atsakęs Kalvių parapijos delegacijai."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip Vilniaus vyskupijos valdytojas, atsakęs Kalvių parapijos delegacijai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

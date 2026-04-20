@@ -47,16 +47,16 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Targovicos konfederacijos aktas“ tai dokumentas, kuriuo Targovicoje paskelbta konfederacija prieš reformas ir kuriuo remiantis vėliau rėmėsi sukilimo priešingų jėgų veiksmai."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tai dokumentas, kuriuo Targovicoje paskelbta konfederacija prieš reformas ir kuriuo remiantis vėliau rėmėsi sukilimo priešingų jėgų veiksmai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

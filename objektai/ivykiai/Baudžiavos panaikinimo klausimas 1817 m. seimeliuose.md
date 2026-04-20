@@ -38,16 +38,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "1816–1817 m. baudžiavos panaikinimai Estijoje, Kurše ir Vidžemėje paskatino Lietuvos bajorus bei seimelius svarstyti valstiečių atleidimą iš baudžiavos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: 1816–1817 m. baudžiavos panaikinimai Estijoje, Kurše ir Vidžemėje paskatino Lietuvos bajorus bei seimelius svarstyti valstiečių atleidimą iš baudžiavos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

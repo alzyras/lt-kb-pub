@@ -40,3 +40,103 @@
     display: block;
   }
 }
+
+.evidence-pill {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: max-content;
+  min-height: 1.45em;
+  padding: 0.12rem 0.48rem;
+  border-radius: 999px;
+  border: 1px solid color-mix(in srgb, var(--secondary) 32%, transparent);
+  background: color-mix(in srgb, var(--secondary) 12%, transparent);
+  color: var(--secondary);
+  font-size: 0.72em;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: 0.035em;
+  white-space: nowrap;
+  user-select: none;
+  vertical-align: 0.08em;
+}
+
+.evidence-pill-claim {
+  border-color: color-mix(in srgb, var(--tertiary) 34%, transparent);
+  background: color-mix(in srgb, var(--tertiary) 12%, transparent);
+  color: var(--tertiary);
+}
+
+.evidence-pill-quote {
+  border-color: color-mix(in srgb, var(--secondary) 34%, transparent);
+  background: color-mix(in srgb, var(--secondary) 12%, transparent);
+  color: var(--secondary);
+}
+
+article table:has(.evidence-pill) {
+  margin: 0.75rem 0 1.4rem;
+  font-size: 0.95rem;
+
+  th,
+  td {
+    vertical-align: top;
+  }
+
+  td:first-child {
+    min-width: 16rem;
+  }
+
+  td:last-child {
+    white-space: nowrap;
+  }
+}
+
+article h2 + p:has(> .evidence-pill-quote),
+article h2 + p + p:has(> .evidence-pill-quote),
+article p:has(> .evidence-pill-quote:only-child) {
+  margin-top: 1rem;
+}
+
+article p:has(> .evidence-pill-quote:only-child) {
+  margin-bottom: 0.35rem;
+}
+
+article p:has(> .evidence-pill-quote:only-child) + p,
+article p:has(> .evidence-pill-quote:only-child) + p + p {
+  margin-top: 0.25rem;
+}
+
+article blockquote {
+  border-left-color: color-mix(in srgb, var(--secondary) 45%, transparent);
+}
+
+.advanced-evidence-table {
+  width: 100%;
+  margin: 0.5rem 0 1.15rem;
+  border-collapse: collapse;
+  font-size: 0.82rem;
+
+  th,
+  td {
+    padding: 0.35rem 0.5rem;
+    border: 1px solid var(--lightgray);
+    vertical-align: top;
+  }
+
+  th {
+    width: 11rem;
+    color: var(--gray);
+    font-weight: 700;
+    text-align: left;
+    white-space: nowrap;
+  }
+
+  pre {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    white-space: pre-wrap;
+    font: inherit;
+  }
+}

@@ -42,15 +42,15 @@ patikimumas: "aukstas"
 - date_end: 1901
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Jonas Smalakys apibūdinamas taip: Minimas kaip Tilžės pirklys, 1898 m. išrinktas į imperijos parlamentą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip Tilžės pirklys, 1898 m. išrinktas į imperijos parlamentą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

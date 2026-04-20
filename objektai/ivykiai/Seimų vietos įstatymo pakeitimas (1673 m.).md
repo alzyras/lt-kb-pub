@@ -40,18 +40,18 @@ Aprašomas seimų vietos įstatymo pakeitimas, kuriuo nustatyta, kad kas trečia
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Aprašomas seimų vietos įstatymo pakeitimas, kuriuo nustatyta, kad kas trečias lietuvių maršalkos vedamas seimas turėtų rinktis Lietuvoje, Gardine."
   pagrindžia:
-    - q-001
-    - q-002
-    - q-003
+    - c-001
+    - c-002
+    - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Citata pagrindžia įvykio „Seimų vietos įstatymo pakeitimas (1673 m.)“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -72,7 +72,7 @@ Aprašomas seimų vietos įstatymo pakeitimas, kuriuo nustatyta, kad kas trečia
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia teiginį šaltinio tekste."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Citata pagrindžia įvykio „Seimų vietos įstatymo pakeitimas (1673 m.)“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -88,7 +88,7 @@ Aprašomas seimų vietos įstatymo pakeitimas, kuriuo nustatyta, kad kas trečia
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia teiginį šaltinio tekste."
   pagrindžia:
     - t-001
-- id: q-003
+- c-003
   santrauka: Citata pagrindžia įvykio „Seimų vietos įstatymo pakeitimas (1673 m.)“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -37,16 +37,16 @@ Derybos pasibaigė sutartimi, kuri nustatė demarkacijos liniją ir įpareigojo 
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Derybos pasibaigė sutartimi, kuri nustatė demarkacijos liniją ir įpareigojo sustabdyti kovas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Derybos pasibaigė sutartimi, kuri nustatė demarkacijos liniją ir įpareigojo sustabdyti kovas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

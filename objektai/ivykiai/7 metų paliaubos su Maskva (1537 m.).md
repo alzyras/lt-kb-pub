@@ -38,16 +38,16 @@ Pasibaigus nesėkmingam trečiajam karui su Maskva, buvo sudarytos 7 metų palia
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Pasibaigus nesėkmingam trečiajam karui su Maskva, buvo sudarytos 7 metų paliaubos; tekstas pabrėžia, kad po jų Zigmanto II laikais naujas karas nebeprasidėjo."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Pasibaigus nesėkmingam trečiajam karui su Maskva, buvo sudarytos 7 metų paliaubos; tekstas pabrėžia, kad po jų Zigmanto II laikais naujas karas nebeprasidėjo.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

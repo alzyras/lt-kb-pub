@@ -41,15 +41,15 @@ patikimumas: "aukstas"
 - kaip atliekama: lietuvių kalbos ir tikybos kursai (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Savaitgaliniai lietuvių kalbos ir tikybos kursai vaikams valdžios mokyklose“ siejama su formuluote: lietuvių kalbos ir tikybos kursai. Šaltinio kontekste nurodoma: kas atlieka: lietuviai vaikai, einantys į valdžios mokyklas; juos vedantys vienuoliai; kada atliekama: šeštadieniais ir sekmadieniais arba atostogų metu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinis rodo papildomą lietuvių kalbos ir tikybos mokymą vaikams, kurie lanko valdžios mokyklas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

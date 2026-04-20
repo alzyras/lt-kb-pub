@@ -40,15 +40,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: pabučiuoti soste sėdinčiajam karaliui rankos (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Karaliaus rankos pabučiavimas seimo pradžioje“ siejama su formuluote: pabučiuoti soste sėdinčiajam karaliui rankos. Šaltinio kontekste nurodoma: kas atlieka: visi seimo dalyviai; kada atliekama: seimo pradžioje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tai seimo atidarymo ceremonijos dalis, rodanti privalomą pagarbos gestą valdovui.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

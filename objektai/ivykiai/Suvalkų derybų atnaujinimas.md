@@ -37,16 +37,16 @@ Po įtemptų karo veiksmų Lenkija vėl pasiūlė derybas Suvalkuose, o Lietuvos
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Po įtemptų karo veiksmų Lenkija vėl pasiūlė derybas Suvalkuose, o Lietuvos vyriausybė sutiko."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Po įtemptų karo veiksmų Lenkija vėl pasiūlė derybas Suvalkuose, o Lietuvos vyriausybė sutiko.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

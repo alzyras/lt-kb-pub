@@ -37,17 +37,17 @@ Muravjovas uždarė parapijines mokyklas ir jų vietoje ėmė steigti rusiškas,
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Muravjovas uždarė parapijines mokyklas ir jų vietoje ėmė steigti rusiškas, o po to įsakė iš mokyklų pašalinti lenkų kalbą."
   pagrindžia:
-    - q-001
-    - q-002
+    - c-001
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Citata pagrindžia įvykio „Parapijinių mokyklų uždarymas ir lenkų kalbos pašalinimas iš mokyklų (1864 m.)“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -69,7 +69,7 @@ Muravjovas uždarė parapijines mokyklas ir jų vietoje ėmė steigti rusiškas,
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia teiginį šaltinio tekste."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Citata pagrindžia įvykio „Parapijinių mokyklų uždarymas ir lenkų kalbos pašalinimas iš mokyklų (1864 m.)“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

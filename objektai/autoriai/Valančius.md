@@ -41,51 +41,51 @@ patikimumas: "vidutinis"
 - Šaltinis nurodo, kad Valančius išleido 9 slaptus atsišaukimus prieš pravoslavinimą. (t-006)
 
 ## Kontekstas
-- Tekstas tiesiogiai nurodo jo bažnytinį titulą ir konkrečią istorinę knygą. (q-001)
-- Pasakojime apie Vilniaus universiteto įtaką Valančiaus veikalas įtraukiamas į pirmuosius lietuviškus mokslo veikalus. (q-002)
-- Spaudos draudimo laikotarpio pasakojime Valančius siejamas su knygučių rašymu ir leidyba. (q-003)
-- Atskiruose fragmentuose minimas jo veikalo draudimas, pasaulinio turinio knygutės ir slapti atsišaukimai. (q-004, q-005, q-006)
+- Tekstas tiesiogiai nurodo jo bažnytinį titulą ir konkrečią istorinę knygą. (c-001)
+- Pasakojime apie Vilniaus universiteto įtaką Valančiaus veikalas įtraukiamas į pirmuosius lietuviškus mokslo veikalus. (c-002)
+- Spaudos draudimo laikotarpio pasakojime Valančius siejamas su knygučių rašymu ir leidyba. (c-003)
+- Atskiruose fragmentuose minimas jo veikalo draudimas, pasaulinio turinio knygutės ir slapti atsišaukimai. (c-004, c-005, c-006)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Valančius autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Paminėtas kaip vyskupas, parašęs Žemaičių vyskupystės istoriją."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje nurodoma, kad Valančius 1848 m. parašė pirmą savo istorinį veikalą „Žemaičių vyskupystę“."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-003
+- t-003
   teiginys: "Šaltinyje nurodoma, kad Valančius pats parašė daugybę knygučių ir rūpinosi jų leidimu."
   pagrindžia:
-    - q-003
+    - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-004
+- t-004
   teiginys: "Šaltinyje nurodoma, kad valdžiai pavojinga laikyta Valančiaus „Žemaičių vyskupystė“ buvo uždrausta."
   pagrindžia:
-    - q-004
+    - c-004
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-005
+- t-005
   teiginys: "Šaltinyje prie reikšmingų Valančiaus leidinių minimi „Palangos Juzė“, „Paaugusių žmonių knygelė“, „Vaikų knygelė“ ir „Pasakojimas Antano tretininko“."
   pagrindžia:
-    - q-005
+    - c-005
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-006
+- t-006
   teiginys: "Šaltinyje nurodoma, kad Valančius išleido 9 slaptus atsišaukimus, mokančius priešintis pravoslavinimui."
   pagrindžia:
-    - q-006
+    - c-006
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Paminėtas kaip vyskupas, parašęs Žemaičių vyskupystės istoriją.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -100,7 +100,7 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Tekstas tiesiogiai nurodo jo bažnytinį titulą ir konkrečią istorinę knygą."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Ištrauka nurodo Valančiaus „Žemaičių vyskupystę“ kaip 1848 m. parašytą istorinį veikalą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -116,7 +116,7 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija Valančių ir jo veikalą su data."
   pagrindžia:
     - t-002
-- id: q-003
+- c-003
   santrauka: Ištrauka sieja Valančių su daugelio knygučių rašymu ir leidyba.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -132,7 +132,7 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Citata tiesiogiai nurodo vysk. Valančių ir jo paties parašytas knygutes."
   pagrindžia:
     - t-003
-- id: q-004
+- c-004
   santrauka: Ištrauka mini Valančiaus „Žemaičių vyskupystės“ uždraudimą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -147,7 +147,7 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Citata tiesiogiai susieja uždraudimą su Valančiaus veikalu."
   pagrindžia:
     - t-004
-- id: q-005
+- c-005
   santrauka: Ištrauka išvardija kelis reikšmingus Valančiaus leidinius.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -165,7 +165,7 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Citata tiesiogiai išvardija Valančiaus leidinius."
   pagrindžia:
     - t-005
-- id: q-006
+- c-006
   santrauka: Ištrauka nurodo Valančiaus slaptus atsišaukimus prieš pravoslavinimą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

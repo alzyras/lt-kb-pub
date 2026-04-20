@@ -37,16 +37,16 @@ Brazilijos lietuviai 1931 m. susibūrė į Lietuvių Sąjungą Brazilijoje, kuri
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Brazilijos lietuviai 1931 m. susibūrė į Lietuvių Sąjungą Brazilijoje, kuri ėmė leisti savaitraštį „Lietuvį Brazilijoje“."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Brazilijos lietuviai 1931 m. susibūrė į Lietuvių Sąjungą Brazilijoje, kuri ėmė leisti savaitraštį „Lietuvį Brazilijoje“.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

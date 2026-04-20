@@ -47,15 +47,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: XVII amž. įsigalėjo pačių žydų seimai. Seimai išrinkdavo vieną visai Lietuvai žydų mokesčių rinkėją ir gynė žydų reikalus prieš valdžią. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Žydų seimų rinkimasis ir mokesčių rinkėjo rinkimas“ siejama su formuluote: XVII amž. įsigalėjo pačių žydų seimai. Seimai išrinkdavo vieną visai Lietuvai žydų mokesčių rinkėją ir gynė žydų reikalus prieš valdžią.. Šaltinio kontekste nurodoma: kas atlieka: pačių žydų seimai; kada atliekama: XVII amž.."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekstas aprašo visai Lietuvos žydų bendruomenėms bendrą savivaldos ir atstovavimo praktiką, kai seimai rinkdavo mokesčių rinkėją ir gindavo bendruomenės reikalus prieš valdžią.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

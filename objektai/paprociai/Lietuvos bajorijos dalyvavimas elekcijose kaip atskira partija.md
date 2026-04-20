@@ -40,15 +40,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: Elekcijoje jie dalyvaudavo bendrai ir sudarydavo tik atskirą partiją (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Lietuvos bajorijos dalyvavimas elekcijose kaip atskira partija“ siejama su formuluote: Elekcijoje jie dalyvaudavo bendrai ir sudarydavo tik atskirą partiją. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos bajorija; kada atliekama: renkant naują karalių."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekstas rodo nusistovėjusią Lietuvos bajorijos rinkiminę laikyseną: po Vladislovo Vazos išrinkimo lietuviai nebekėlė atskiro kandidato ir elekcijose veikė kartu su lenkais kaip atskira politinė grupė.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

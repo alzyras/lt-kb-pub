@@ -52,15 +52,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Tautų Sąjunga“ apibūdinama kaip sąjunga; tarptautinė sąjunga, šiame gabale veikianti kaip ginčo tarp Lietuvos ir Lenkijos tarpininkė ir plebiscito priežiūros institucija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Tautų Sąjunga“ apibūdinama kaip sąjunga; tarptautinė sąjunga, šiame gabale veikianti kaip ginčo tarp Lietuvos ir Lenkijos tarpininkė ir plebiscito priežiūros institucija."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tarptautinė sąjunga, šiame gabale veikianti kaip ginčo tarp Lietuvos ir Lenkijos tarpininkė ir plebiscito priežiūros institucija.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

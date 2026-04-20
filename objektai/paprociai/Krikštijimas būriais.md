@@ -54,16 +54,16 @@ patikimumas: "vidutinis"
 - kaip atliekama: žmones krikštijo būriais; Vytautas su Jogaila patys atvyko į Žemaičius ir, keliose vietose sunaikinę pagoniškas šventoves, pakrikštydino pirmuosius būrius (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Krikštijimas būriais“ siejama su formuluote: žmones krikštijo būriais; Vytautas su Jogaila patys atvyko į Žemaičius ir, keliose vietose sunaikinę pagoniškas šventoves, pakrikštydino pirmuosius būrius. Šaltinio kontekste nurodoma: kas atlieka: Vytautas su Jogaila; kada atliekama: krikšto metu."
   pagrindžia:
-    - q-001
-    - q-002
+    - c-001
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Aprašomas ankstyvas Lietuvos krikštas, kai žmones sušaukdavo į vieną vietą ir krikštydavo grupėmis, kad apeiga vyktų greičiau.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -79,7 +79,7 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia šiame įraše nurodytą praktiką arba jos kontekstą."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Aprašomas Žemaičių krikštas po Torno taikos. Tekstas rodo ne tik patį krikšto veiksmą, bet ir tai, kad valdovai patys organizavo apeigą ir aiškino krikščionybės tiesas, kol dar nebuvo vietinių lietuviškai mokančių dvasininkų.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

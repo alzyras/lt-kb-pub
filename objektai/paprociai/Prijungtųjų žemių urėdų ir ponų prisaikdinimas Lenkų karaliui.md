@@ -48,15 +48,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: Prijungtųjų žemių urėdai ir didesnieji ponai kiekvienas skyrium buvo prisaikdinti Lenkų karaliui (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Prijungtųjų žemių urėdų ir ponų prisaikdinimas Lenkų karaliui“ siejama su formuluote: Prijungtųjų žemių urėdai ir didesnieji ponai kiekvienas skyrium buvo prisaikdinti Lenkų karaliui. Šaltinio kontekste nurodoma: kas atlieka: prijungtųjų žemių urėdai ir didesnieji ponai; kada atliekama: kai Palenkė, Voluinė, Braclavo ir Kijevo žemės buvo prijungiamos prie Lenkijos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tai aprašyta kaip prijungtų žemių politinio įtvirtinimo veiksmas: vietos urėdai ir ponai atskirai prisiekė karaliui, o atsisakiusieji buvo pakeisti kitais.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -52,40 +52,40 @@ patikimumas: ""
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šaltinis yra 1936 m. Kaune išleista *Lietuvos istorija*, redaguota A. Šapokos, išleista Švietimo Ministerijos Knygų Leidimo Komisijos ir spausdinta „Šviesos“ spaustuvėje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Prefacijoje vadovėlio tikslas apibūdintas kaip platesnė lietuvių tautos gyvenimo kelio apžvalga nuo seniausiųjų iki naujųjų laikų."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-003
+- t-003
   teiginys: "Prefacijoje nurodyta, kad skirtingas Lietuvos istorijos dalis rengė J. Jakštas, Z. Ivinskis, A. Šapoka, P. Šležas ir P. Klimas, o A. Šapokai buvo patikėtas visų dalių suderinimas."
   pagrindžia:
-    - q-003
+    - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-004
+- t-004
   teiginys: "Prefacijoje nurodyta, kad rengiant vadovėlį papildomai parašyta įvedamoji dalis ir skyriai apie Mažosios Lietuvos lietuvių gyvenimą bei lietuvių emigraciją."
   pagrindžia:
-    - q-004
+    - c-004
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-005
+- t-005
   teiginys: "Prefacijoje nurodyta, kad vadovėlis buvo taikomas ir visuomenės, ir mokyklos reikalui."
   pagrindžia:
-    - q-005
+    - c-005
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-002
+- c-002
   santrauka: Prefacijoje nusakomas vadovėlio tikslas ir apimtis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -103,7 +103,7 @@ patikimumas: ""
   patikimumo_pagrindimas: "Prefacijos tekstas tiesiogiai apibūdina vadovėlio sumanymą."
   pagrindžia:
     - t-002
-- id: q-003
+- c-003
   santrauka: Prefacijoje išvardijami darbą rengę autoriai ir A. Šapokai patikėtas redakcinis darbas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -128,7 +128,7 @@ patikimumas: ""
   patikimumo_pagrindimas: "Prefacijos tekstas tiesiogiai nurodo bendradarbius ir redaktoriaus vaidmenį."
   pagrindžia:
     - t-003
-- id: q-004
+- c-004
   santrauka: Prefacijoje nurodomi papildomai parašyti skyriai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -143,7 +143,7 @@ patikimumas: ""
   patikimumo_pagrindimas: "Prefacijos tekstas tiesiogiai nurodo papildytas apimties dalis."
   pagrindžia:
     - t-004
-- id: q-005
+- c-005
   santrauka: Prefacijoje nusakoma numatyta vadovėlio auditorija.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -165,7 +165,7 @@ patikimumas: ""
 
 ## Bibliografiniai įrodymai
 
-- id: q-001
+- c-001
   santrauka: Antraštinis ir leidybinis įrašas pagrindžia pavadinimą, redaktorių, leidimo vietą, metus, leidėją, spaustuvę, leidinio numerį ir tiražą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -46,15 +46,15 @@ patikimumas: "aukstas"
 Pinigai, šaltinyje susieti su Zigmanto Augusto monograma ir 1564 m. data. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinis mini, kad Zigmantas Augustas Ispanijos pustalerius ir talerius paleido į apyvartą, kontrasignavęs juos savo monograma ir 1564 m. data."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai nurodo Ispanijos pustalerius ir talerius bei jų kontrasignavimą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

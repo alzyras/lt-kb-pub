@@ -51,15 +51,15 @@ patikimumas: "vidutinis"
 Terminas šaltinyje vartojamas šiame kontekste: tautinio atgimimo terminija, publicistika. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Tautiškas susipratimas“ vartojama taip: Tautinis sąmoningumas, lietuvių tautos savivoka."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Sąvoka vartojama kalbant apie lietuvių tautinio sąjūdžio augimą ir kultūrinį susipratimą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

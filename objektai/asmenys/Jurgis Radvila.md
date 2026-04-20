@@ -37,15 +37,15 @@ patikimumas: "aukstas"
 - date_end: 1541
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Jurgis Radvila apibūdinamas taip: Biržų Radvilų šakos tėvas, buvęs Kijevo vaivada, Trakų ir Vilniaus kaštelionas bei lauko hetmonas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Biržų Radvilų šakos tėvas, buvęs Kijevo vaivada, Trakų ir Vilniaus kaštelionas bei lauko hetmonas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

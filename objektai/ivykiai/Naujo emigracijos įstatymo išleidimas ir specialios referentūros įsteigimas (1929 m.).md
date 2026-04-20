@@ -37,16 +37,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "1929 m. Lietuva išleido naują emigracijos įstatymą, kuris turėjo apsaugoti vykstančius nuo išnaudojimo ir kelionės nelaimių, o prie Vidaus Reikalų Ministerijos buvo įsteigta speciali referentūra."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: 1929 m. Lietuva išleido naują emigracijos įstatymą, kuris turėjo apsaugoti vykstančius nuo išnaudojimo ir kelionės nelaimių, o prie Vidaus Reikalų Ministerijos buvo įsteigta speciali referentūra.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

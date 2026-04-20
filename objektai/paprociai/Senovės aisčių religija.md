@@ -42,15 +42,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: pats religijos pobūdis visur buvo vienodas; visi jie garbino gamtą (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Senovės aisčių religija“ siejama su formuluote: pats religijos pobūdis visur buvo vienodas; visi jie garbino gamtą. Šaltinio kontekste nurodoma: kas atlieka: aisčiai."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Dėstomajame tekste aiškinamas bendras senovės aisčių religijos pobūdis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

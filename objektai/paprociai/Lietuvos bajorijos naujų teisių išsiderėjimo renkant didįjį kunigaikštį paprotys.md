@@ -48,15 +48,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: Lietuvos bajorija, rinkdama savo naują didįjį kunigaikštį, visada iš jo išsireikalaudavo sau kokių nors naujų teisių (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Lietuvos bajorijos naujų teisių išsiderėjimo renkant didįjį kunigaikštį paprotys“ siejama su formuluote: Lietuvos bajorija, rinkdama savo naują didįjį kunigaikštį, visada iš jo išsireikalaudavo sau kokių nors naujų teisių. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos bajorija; kada atliekama: renkant naują didįjį kunigaikštį."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekstas rodo nusistovėjusį valdovo rinkimo paprotį: bajorija, sutikdama išrinkti didįjį kunigaikštį, iš jo išsiderėdavo papildomų teisių.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

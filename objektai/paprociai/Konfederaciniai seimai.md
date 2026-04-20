@@ -40,15 +40,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: vadinamieji konfederaciniai seimai (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Konfederaciniai seimai“ siejama su formuluote: vadinamieji konfederaciniai seimai. Šaltinio kontekste nurodoma: kas atlieka: atstovai; kada atliekama: kai seimo iširimas grėsdavo valstybei dideliais pavojais."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekstas rodo priešpriešinę seimo praktiką, kai sprendimai buvo sutariami balsų dauguma ir taip apeidavo veto teisę.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

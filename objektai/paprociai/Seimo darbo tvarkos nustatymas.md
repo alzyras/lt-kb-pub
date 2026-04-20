@@ -48,15 +48,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: seimo darbų statutas (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Seimo darbo tvarkos nustatymas“ siejama su formuluote: seimo darbų statutas. Šaltinio kontekste nurodoma: kas atlieka: seimo dalyviai; kada atliekama: 1764 m., Čartoriskių reformų metu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinis rodo, kad Čartoriskiai įvedė nuolatinę seimo darbo tvarką: maršalka turėjo būti renkamas balsų dauguma, darbai dėstomi nustatyta eile, o seimeliuose duodamos priesaikos laikytis instrukcijų uždraustos. Taip pat iždo reikalai seime buvo susieti su balsų dauguma.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -46,21 +46,21 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Mažvydo katekizmas“ tai pirmasis lietuviškas katekizmas, priskiriamas Martynui Mažvydui; tekste jis siejamas ir su giesmėmis."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Mažvydo katekizmas“ siejamas su šiuo kontekstu: Tekste ši knyga įvardijama kaip pirmoji lietuviška knyga."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tai pirmasis lietuviškas katekizmas, priskiriamas Martynui Mažvydui; tekste jis siejamas ir su giesmėmis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -75,7 +75,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Tekste ši knyga įvardijama kaip pirmoji lietuviška knyga.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

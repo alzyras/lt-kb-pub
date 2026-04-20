@@ -48,15 +48,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: visi Lietuvos teismų sprendimai turį būti rašomi nebe senąja kanceliarine gudų kalba, bet lenkų kalba (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Lenkų kalbos vartojimas Lietuvos teismuose“ siejama su formuluote: visi Lietuvos teismų sprendimai turį būti rašomi nebe senąja kanceliarine gudų kalba, bet lenkų kalba. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos teismai; kada atliekama: po 1697 m. _coaequatio iurium_ įstatymo."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinis aprašo 1697 m. nustatytą oficialių teismų raštų kalbos pokytį: gudų kalba pakeičiama lenkų kalba, o vėliau visi oficialūs raštai pradedami rašyti tik lenkiškai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

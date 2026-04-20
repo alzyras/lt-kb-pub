@@ -32,18 +32,18 @@ patikimumas: "vidutinis"
 - Minimas kaip Memelio ir Heydekrugo istorijos autorius. (t-001)
 
 ## Kontekstas
-- Bibliografinė eilutė tiesiogiai įvardija Sembrickį kaip autoriaus vardą. (q-001)
+- Bibliografinė eilutė tiesiogiai įvardija Sembrickį kaip autoriaus vardą. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje J. A. Sembricki autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip Memelio ir Heydekrugo istorijos autorius."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip Memelio ir Heydekrugo istorijos autorius.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

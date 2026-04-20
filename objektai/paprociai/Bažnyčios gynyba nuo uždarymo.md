@@ -48,15 +48,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: visiems parapijonims susirinkus į šventorių ir į bažnyčią jokiu būdu neleisti jos uždaryti (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Bažnyčios gynyba nuo uždarymo“ siejama su formuluote: visiems parapijonims susirinkus į šventorių ir į bažnyčią jokiu būdu neleisti jos uždaryti. Šaltinio kontekste nurodoma: kas atlieka: parapijonys, žmonės; kada atliekama: kai valdžia mėgina uždaryti bažnyčią; ypač Kęstaičiuose (1886 m.) ir Kražiuose (1891–1893 m.)."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekstas rodo pasikartojančią parapijiečių taktiką prieš bažnyčių uždarymą: prašyti vyresnybės, budėti bažnyčioje ir neleisti jos uždaryti. Tai aprašoma ir kaip Kęstaičių, ir kaip Kražių laikysena.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

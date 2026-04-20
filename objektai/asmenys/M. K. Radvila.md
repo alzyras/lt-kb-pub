@@ -30,15 +30,15 @@ patikimumas: "vidutinis"
 - M. K. Radvilos
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje M. K. Radvila apibūdinamas taip: Minimas kaip Lietuvos lauko hetmonas ir vicekancleris, Sobieskio šalininkas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip Lietuvos lauko hetmonas ir vicekancleris, Sobieskio šalininkas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -38,25 +38,25 @@ patikimumas: "aukštas"
 - „Kronikos“ 1582 m. leidimas minimas prie jo portreto. (t-002)
 
 ## Kontekstas
-- Tekstas tiesiogiai sako, kad pirmoji spausdinta Lietuvos istorija buvo lenkiškai parašyta Strikauskio. (q-001)
-- Portreto užrašas pateikia vardą, datas ir ryšį su „Kronikos“ leidimu. (q-002)
+- Tekstas tiesiogiai sako, kad pirmoji spausdinta Lietuvos istorija buvo lenkiškai parašyta Strikauskio. (c-001)
+- Portreto užrašas pateikia vardą, datas ir ryšį su „Kronikos“ leidimu. (c-002)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Motiejus Strikauskis autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Įvardytas kaip pirmosios spausdintos Lietuvos istorijos autorius."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Iliustracijos užrašas pateikia Motiejaus Strikauskio 1548-1582 m. datas ir sieja portretą su jo „Kronikos“ 1582 m. leidimu."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Įvardytas kaip pirmosios spausdintos Lietuvos istorijos autorius.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -73,7 +73,7 @@ patikimumas: "aukštas"
   patikimumo_pagrindimas: "Tekstas tiesiogiai sako, kad pirmoji spausdinta Lietuvos istorija buvo lenkiškai parašyta Strikauskio."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Portreto užrašas pateikia Strikauskio datas ir jo „Kronikos“ leidimo kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

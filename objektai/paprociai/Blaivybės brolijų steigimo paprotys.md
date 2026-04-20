@@ -48,15 +48,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: ji surašinėjo žmones į blaivybės brolijas (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Blaivybės brolijų steigimo paprotys“ siejama su formuluote: ji surašinėjo žmones į blaivybės brolijas. Šaltinio kontekste nurodoma: kas atlieka: vyskupo Valančiaus raginama kunigija; vėliau ir parapijonys; kada atliekama: 1858 m. pradėjus blaivybės darbą; iki 1863 m. sukilimo."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekstas rodo, kad blaivybės judėjimas buvo organizuojamas per kunigiją, žmonių surašymą į brolijas ir vėliau tapo plačiu parapijų papročiu; kartu minima ir blaivybei paminėti statoma simbolika.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -49,21 +49,21 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Vilniaus Žinios“ tai pirmasis lietuvių dienraštis, aiškiai išskirtas iš kitų ankstyvų lietuviškų laikraščių."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Vilniaus Žinios“ siejamas su šiuo kontekstu: Tekste šis leidinys įvardijamas kaip pirmasis lietuvių dienraštis ir vienas iš 1905 m. pradžios lietuviškų laikraščių."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tai pirmasis lietuvių dienraštis, aiškiai išskirtas iš kitų ankstyvų lietuviškų laikraščių.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -80,7 +80,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Tekste šis leidinys įvardijamas kaip pirmasis lietuvių dienraštis ir vienas iš 1905 m. pradžios lietuviškų laikraščių.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

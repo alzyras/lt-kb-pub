@@ -42,15 +42,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Susivienijimas Lietuvių Rymo Katalikų Amerikoje“ apibūdinama kaip susivienijimas; vienas iš dviejų po suskilimo atsiradusių amerikiečių lietuvių susivienijimų. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Susivienijimas Lietuvių Rymo Katalikų Amerikoje“ apibūdinama kaip susivienijimas; vienas iš dviejų po suskilimo atsiradusių amerikiečių lietuvių susivienijimų."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Vienas iš dviejų po suskilimo atsiradusių amerikiečių lietuvių susivienijimų.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

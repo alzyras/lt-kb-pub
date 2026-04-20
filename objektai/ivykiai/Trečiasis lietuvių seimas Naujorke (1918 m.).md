@@ -43,22 +43,22 @@ Naujorke sušauktas trečiasis lietuvių seimas pareikalavo nepriklausomybės pr
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Naujorke sušauktas trečiasis lietuvių seimas pareikalavo nepriklausomybės pripažinimo ir išsiuntė delegaciją prezidentui Vilsonui."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Kitame šaltinio fragmente Naujorke sušauktas Amerikos lietuvių seimas datuojamas 1918 m. kovo 13—14 d."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Naujorke sušauktas trečiasis lietuvių seimas pareikalavo nepriklausomybės pripažinimo ir išsiuntė delegaciją prezidentui Vilsonui.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -81,7 +81,7 @@ Naujorke sušauktas trečiasis lietuvių seimas pareikalavo nepriklausomybės pr
   pagrindžia:
     - t-001
 
-- id: q-002
+- c-002
   santrauka: Kitas šaltinio fragmentas Naujorke sušauktą Amerikos lietuvių seimą datuoja 1918 m. kovo 13—14 d.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

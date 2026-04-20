@@ -42,16 +42,16 @@ Valdžia nutaria panaikinti Kražių vienuolyną, bažnyčią ir kapines; po 189
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Valdžia nutaria panaikinti Kražių vienuolyną, bažnyčią ir kapines; po 1892 m. įsakymo vienuolėms žmonės pradeda judėti ir ruoštis pasipriešinimui."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Valdžia nutaria panaikinti Kražių vienuolyną, bažnyčią ir kapines; po 1892 m. įsakymo vienuolėms žmonės pradeda judėti ir ruoštis pasipriešinimui.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

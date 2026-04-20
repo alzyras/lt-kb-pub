@@ -42,16 +42,16 @@ Jogaila sudaro sutartį su kryžiuočiais, kuria atiduoda Žemaičius iki Dubyso
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Jogaila sudaro sutartį su kryžiuočiais, kuria atiduoda Žemaičius iki Dubysos ir pasižada laikytis ordino sąlygų."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Jogaila sudaro sutartį su kryžiuočiais, kuria atiduoda Žemaičius iki Dubysos ir pasižada laikytis ordino sąlygų.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

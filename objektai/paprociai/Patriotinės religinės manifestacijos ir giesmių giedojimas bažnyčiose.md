@@ -51,16 +51,16 @@ patikimumas: "vidutinis"
 - kaip atliekama: pusiau tautiškos, pusiau religiškos manifestacijos; patriotiškų giesmių giedojimą bažnyčiose (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Patriotinės religinės manifestacijos ir giesmių giedojimas bažnyčiose“ siejama su formuluote: pusiau tautiškos, pusiau religiškos manifestacijos; patriotiškų giesmių giedojimą bažnyčiose. Šaltinio kontekste nurodoma: kada atliekama: 1863 m. sukilimo kontekste; 1863 m. sukilimo metu."
   pagrindžia:
-    - q-001
-    - q-002
+    - c-001
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinis aprašo viešas patriotines demonstracijas, kurios iš Varšuvos persimetė į Lietuvą ir buvo skirtos kelti patriotizmą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -76,7 +76,7 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia šiame įraše nurodytą praktiką arba jos kontekstą."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Šaltinis rodo, kad bažnyčiose giedotos patriotiškos giesmės kaip manifestacijų dalis, dėl kurios valdžia ėmėsi draudimų ir bausmių.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

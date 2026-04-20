@@ -37,16 +37,16 @@ Sudarius sąjungą su Austrija, turkai pasiekė Vieną, o Sobieskis atskubėjo i
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Sudarius sąjungą su Austrija, turkai pasiekė Vieną, o Sobieskis atskubėjo imperatoriui į pagalbą ir miestą išgelbėjo."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Sudarius sąjungą su Austrija, turkai pasiekė Vieną, o Sobieskis atskubėjo imperatoriui į pagalbą ir miestą išgelbėjo.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

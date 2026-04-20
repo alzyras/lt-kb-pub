@@ -49,15 +49,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: numizmatika, pinigų istorija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Pusportugalis“ vartojama taip: pusės portugalų auksinis pinigas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Vardas aiškinamas pagal Portugalų karaliaus Emanuelio pradėtus kalti 10 dukatų auksinius.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

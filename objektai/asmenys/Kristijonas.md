@@ -43,15 +43,15 @@ patikimumas: "aukstas"
 - date_end: 1215
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Kristijonas apibūdinamas taip: Kristijonas, jau pakrikštijęs arčiausia prie Vyslos gyvenusius prūsus, 1215 m. nuvyko į Romą krikštyti dviejų prūsų kunigaikščių."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Kristijonas, jau pakrikštijęs arčiausia prie Vyslos gyvenusius prūsus, 1215 m. nuvyko į Romą krikštyti dviejų prūsų kunigaikščių.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

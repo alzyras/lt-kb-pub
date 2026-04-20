@@ -34,16 +34,16 @@ Vilniuje įkurtas karo nukentėjusiems šelpti komitetas greitai tapo svarbia li
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Vilniuje įkurtas karo nukentėjusiems šelpti komitetas greitai tapo svarbia lietuvių organizacija ir rinko lėšas pagalbai."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Vilniuje įkurtas karo nukentėjusiems šelpti komitetas greitai tapo svarbia lietuvių organizacija ir rinko lėšas pagalbai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

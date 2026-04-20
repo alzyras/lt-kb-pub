@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 Popieriniai pinigai, šaltinyje aptariami Lietuvos pinigų apyvartos ir vertės kritimo kontekste. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinis popierines ostmarkes aprašo kaip apyvartoje buvusius pinigus, kurių kiekis ir vertė 1917-1922 m. smarkiai kito."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata pateikia popierinių ostmarkių apyvartos ir vertės kitimą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

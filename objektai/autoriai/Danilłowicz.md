@@ -33,18 +33,18 @@ patikimumas: "vidutinis"
 - Skarbiec, II Nr. 1659. (t-001)
 
 ## Kontekstas
-- Bibliografiniame regeste nurodytas kaip kitas dokumentų rinkinio / rodyklės rengėjas. (q-001)
+- Bibliografiniame regeste nurodytas kaip kitas dokumentų rinkinio / rodyklės rengėjas. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Danilłowicz minimas kaip sudarytojas, siejamas su: Skarbiec, II Nr. 1659."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje Danilłowicz minimas kaip sudarytojas, siejamas su: Skarbiec, II Nr. 1659.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

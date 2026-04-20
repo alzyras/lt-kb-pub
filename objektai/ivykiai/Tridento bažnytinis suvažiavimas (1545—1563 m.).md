@@ -37,16 +37,16 @@ Katalikų Bažnyčia, stodama į kovą su protestantizmu, persiorganizavo Triden
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Katalikų Bažnyčia, stodama į kovą su protestantizmu, persiorganizavo Tridento suvažiavime; ten buvo nuspręsta rūpintis geresniu dvasininkų paruošimu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Katalikų Bažnyčia, stodama į kovą su protestantizmu, persiorganizavo Tridento suvažiavime; ten buvo nuspręsta rūpintis geresniu dvasininkų paruošimu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

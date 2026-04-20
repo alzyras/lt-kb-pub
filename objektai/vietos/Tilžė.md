@@ -50,27 +50,27 @@ patikimumas: "aukstas"
 - Įvardyta kaip viena iš Lietuvai artimesniųjų ordino pilių su įkūrimo data. (t-003)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Tilžė“ siejama su šiuo kontekstu: Miestas minimas kaip šiaurinė Nemuno žiočių pasiekiama vieta."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje vieta „Tilžė“ siejama su šiuo kontekstu: Minima kaip viena iš vietų, kur lietuviškai atliekami prekybos reikalai."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-003
+- t-003
   teiginys: "Šaltinyje vieta „Tilžė“ siejama su šiuo kontekstu: Įvardyta kaip viena iš Lietuvai artimesniųjų ordino pilių su įkūrimo data."
   pagrindžia:
-    - q-003
+    - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Miestas minimas kaip šiaurinė Nemuno žiočių pasiekiama vieta.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -110,7 +110,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Minima kaip viena iš vietų, kur lietuviškai atliekami prekybos reikalai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -126,7 +126,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-002
-- id: q-003
+- c-003
   santrauka: Įvardyta kaip viena iš Lietuvai artimesniųjų ordino pilių su įkūrimo data.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

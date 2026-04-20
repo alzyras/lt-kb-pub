@@ -52,15 +52,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Ambasadorių Konferencija“ apibūdinama kaip konferencija; didžiųjų valstybių, vadinamoji Ambasadorių Konferencija, 1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Ambasadorių Konferencija“ apibūdinama kaip konferencija; didžiųjų valstybių, vadinamoji Ambasadorių Konferencija, 1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Didžiųjų valstybių, vadinamoji Ambasadorių Konferencija, 1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

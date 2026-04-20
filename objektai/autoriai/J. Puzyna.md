@@ -37,18 +37,18 @@ patikimumas: "vidutinis"
 - Kim był i jak się nazywał Pukuwer. (t-001)
 
 ## Kontekstas
-- Gedimino laikų bibliografijoje nurodytas kaip studijos apie Pukuverą autorius. (q-001)
+- Gedimino laikų bibliografijoje nurodytas kaip studijos apie Pukuverą autorius. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje J. Puzyna minimas kaip autorius, siejamas su: Kim był i jak się nazywał Pukuwer."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje J. Puzyna minimas kaip autorius, siejamas su: Kim był i jak się nazywał Pukuwer.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

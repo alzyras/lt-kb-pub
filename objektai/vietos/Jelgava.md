@@ -51,21 +51,21 @@ patikimumas: "aukstas"
 - Minima kaip Kuršo ir Žiemgalos kunigaikštijos sostinė. (t-002)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Jelgava“ siejama su šiuo kontekstu: Jelgava minima kaip Kuršo ir Žiemgalos kunigaikštystės sostinė."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje vieta „Jelgava“ siejama su šiuo kontekstu: Minima kaip Kuršo ir Žiemgalos kunigaikštijos sostinė."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Jelgava minima kaip Kuršo ir Žiemgalos kunigaikštystės sostinė.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -80,7 +80,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Minima kaip Kuršo ir Žiemgalos kunigaikštijos sostinė.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

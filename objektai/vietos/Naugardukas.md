@@ -43,15 +43,15 @@ patikimumas: "aukstas"
 - Minimas kaip Romanui Mindaugo duotas valdyti miestas. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Naugardukas“ siejama su šiuo kontekstu: Minimas kaip Romanui Mindaugo duotas valdyti miestas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip Romanui Mindaugo duotas valdyti miestas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

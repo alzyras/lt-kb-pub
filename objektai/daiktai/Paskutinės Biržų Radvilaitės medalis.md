@@ -44,15 +44,15 @@ patikimumas: "aukstas"
 Šaltinyje „Paskutinės Biržų Radvilaitės medalis“ tai paveikslo antraštėje įvardytas konkretus medalis, susietas su paskutine Biržų Radvilaite ir jos 8 metų amžiumi.
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Paskutinės Biržų Radvilaitės medalis“ tai paveikslo antraštėje įvardytas konkretus medalis, susietas su paskutine Biržų Radvilaite ir jos 8 metų amžiumi."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tai paveikslo antraštėje įvardytas konkretus medalis, susietas su paskutine Biržų Radvilaite ir jos 8 metų amžiumi.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

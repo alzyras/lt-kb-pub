@@ -44,15 +44,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Lybiai“ apibūdinama kaip tauta; lybiai įvardijami kaip neaiškios kilmės tauta, ne artima aisčiams. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Lybiai“ apibūdinama kaip tauta; lybiai įvardijami kaip neaiškios kilmės tauta, ne artima aisčiams."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Lybiai įvardijami kaip neaiškios kilmės tauta, ne artima aisčiams.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

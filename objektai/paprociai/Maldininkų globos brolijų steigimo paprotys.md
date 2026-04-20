@@ -48,15 +48,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: specialias brolijas savo maldininkams globoti (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Maldininkų globos brolijų steigimo paprotys“ siejama su formuluote: specialias brolijas savo maldininkams globoti. Šaltinio kontekste nurodoma: kas atlieka: visos didesniosios valstybės; kada atliekama: kai kelionės į Jeruzalę pasidarydavo pavojingos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekstas aiškina, kad dėl pavojingų kelionių į Jeruzalę valstybės ėmė steigti maldininkų globos brolijas; iš pradžių jos rūpinosi ligoniais ir keliautojų saugumu, todėl tai atrodo kaip nusistovėjusi religinė-socialinė praktika.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

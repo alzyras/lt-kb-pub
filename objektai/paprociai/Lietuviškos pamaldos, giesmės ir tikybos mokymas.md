@@ -62,18 +62,18 @@ patikimumas: "aukstas"
 - kaip atliekama: lietuviškai atliekama dalis pamaldų ir lietuviškai žmonės mokomi tikybos; pridedamosios lietuviškos pamaldos; lietuviškos pamaldos; pirmosios pamaldos buvo vokiškos, o tik antrosios lietuviškos (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Lietuviškos pamaldos, giesmės ir tikybos mokymas“ siejama su formuluote: lietuviškai atliekama dalis pamaldų ir lietuviškai žmonės mokomi tikybos; pridedamosios lietuviškos pamaldos; lietuviškos pamaldos; pirmosios pamaldos buvo vokiškos, o tik antrosios lietuviškos. Šaltinio kontekste nurodoma: kas atlieka: lietuvių kunigai ir parapijonys; Mažosios Lietuvos kunigai ir maldingieji lietuviai; religinės draugijos; kada atliekama: XIX a. pradžioje, Kantrimo memorialo kontekste; 1901 m. ir po to; XX a. pradžioje; XVIII amž. pradžioje; nuo XIX a. pradžios."
   pagrindžia:
-    - q-001
-    - q-002
-    - q-003
-    - q-004
+    - c-001
+    - c-002
+    - c-003
+    - c-004
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinis rodo, kad Tilžėje, Klaipėdoje ir iš dalies Karaliaučiuje lietuvių kalba buvo vartojama ne tik prekyboje, bet ir pamaldose bei tikybos mokyme.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -87,7 +87,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia šiame įraše nurodytą praktiką arba jos kontekstą."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Šaltinis aprašo lietuviškų pamaldų įvedimą, jų tęstinumą Vilniaus Šv. Mikalojaus bažnyčioje ir ginčus dėl jų kituose parapijose.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -103,7 +103,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia šiame įraše nurodytą praktiką arba jos kontekstą."
   pagrindžia:
     - t-001
-- id: q-003
+- c-003
   santrauka: Mažosios Lietuvos parapijose pamaldų tvarka skyrė vokiškas ir lietuviškas pamaldas, o lietuviai dažnai rinkdavosi į vokiškas dėl patogesnio laiko.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -127,7 +127,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia šiame įraše nurodytą praktiką arba jos kontekstą."
   pagrindžia:
     - t-001
-- id: q-004
+- c-004
   santrauka: Šaltinis religines draugijas rodo kaip nuolatinę lietuvybės atramą, kuri susirinkimuose saugojo lietuviškas pamaldas, giesmes ir kalbą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

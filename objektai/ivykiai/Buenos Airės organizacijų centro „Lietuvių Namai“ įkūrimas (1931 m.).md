@@ -37,16 +37,16 @@ Lietuvos valdžiai remiant Buenos Airėse buvo įkurtas kelių organizacijų cen
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Lietuvos valdžiai remiant Buenos Airėse buvo įkurtas kelių organizacijų centras, pavadintas Lietuvių Namais."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Lietuvos valdžiai remiant Buenos Airėse buvo įkurtas kelių organizacijų centras, pavadintas Lietuvių Namais.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

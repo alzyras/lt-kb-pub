@@ -38,15 +38,15 @@ patikimumas: "aukstas"
 - Įvardyta kaip ordino pilis, kurios įkūrimo data nurodyta apytiksliai. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Ortelsburgas“ siejama su šiuo kontekstu: Įvardyta kaip ordino pilis, kurios įkūrimo data nurodyta apytiksliai."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Įvardyta kaip ordino pilis, kurios įkūrimo data nurodyta apytiksliai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

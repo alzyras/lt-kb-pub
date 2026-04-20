@@ -37,16 +37,16 @@ Ruošdamasis koalicijai prieš turkus, Sobieskis sudarė amžinąją taiką su M
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Ruošdamasis koalicijai prieš turkus, Sobieskis sudarė amžinąją taiką su Maskva ir buvo patvirtinta Andrusavos sutartis."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Ruošdamasis koalicijai prieš turkus, Sobieskis sudarė amžinąją taiką su Maskva ir buvo patvirtinta Andrusavos sutartis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

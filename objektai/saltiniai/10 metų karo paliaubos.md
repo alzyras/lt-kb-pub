@@ -50,21 +50,21 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „10 metų karo paliaubos“ siejamas su šiuo kontekstu: Šaltinyje tai yra karo pabaigą įtvirtinantis teisinis objektas, pasirašytas po derybų dėl karo su Maskva."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „10 metų karo paliaubos“ siejamas su šiuo kontekstu: tekste minimos Trakuose 1379 m. padarytos 10 metų paliaubos tarp Jogailos, Kęstučio ir ordino."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Šaltinyje tai yra karo pabaigą įtvirtinantis teisinis objektas, pasirašytas po derybų dėl karo su Maskva.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -79,7 +79,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: tekste minimos Trakuose 1379 m. padarytos 10 metų paliaubos tarp Jogailos, Kęstučio ir ordino.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

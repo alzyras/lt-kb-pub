@@ -42,15 +42,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Templininkų ordinas“ apibūdinama kaip ordinas; paminėtas kaip prancūziškas riterių ordino pavyzdys tame pačiame brolijų virtimo ordinais aiškinime. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Templininkų ordinas“ apibūdinama kaip ordinas; paminėtas kaip prancūziškas riterių ordino pavyzdys tame pačiame brolijų virtimo ordinais aiškinime."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Paminėtas kaip prancūziškas riterių ordino pavyzdys tame pačiame brolijų virtimo ordinais aiškinime.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

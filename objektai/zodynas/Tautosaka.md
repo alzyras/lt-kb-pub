@@ -55,16 +55,16 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: istorijos šaltiniai, tautosakos tyrinėjimas; istorijos šaltinių klasifikacija, tautosakos tyrinėjimas. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Tautosaka“ vartojama taip: Žodžiu perduodama tautos kūryba, kurią sudaro padavimai, dainos, pasakos, burtai ir prietarai; Tautosaka, papročiai, apeigos, padavimai, dainos ir panašūs dvasinės kultūros likučiai."
   pagrindžia:
-    - q-001
-    - q-002
+    - c-001
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Įvardijama kaip istorinis šaltinis ir apibrėžiama per žodinę kūrybą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -79,7 +79,7 @@ Terminas šaltinyje vartojamas šiame kontekste: istorijos šaltiniai, tautosako
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia termino vartoseną arba aiškinimą šaltinyje."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Taip vadinama istorinei medžiagai priskiriama dvasinė kūryba, kuri šaltinyje siejama su tautosaka.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

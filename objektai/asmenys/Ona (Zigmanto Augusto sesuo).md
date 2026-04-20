@@ -45,15 +45,15 @@ patikimumas: "vidutinis"
 - date_end: 1596
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Ona (Zigmanto Augusto sesuo) apibūdinamas taip: Minima kaip Zigmanto Augusto sesuo biusto antraštėje Krokuvos katedroje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minima kaip Zigmanto Augusto sesuo biusto antraštėje Krokuvos katedroje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

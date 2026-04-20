@@ -46,15 +46,15 @@ patikimumas: "aukstas"
 - Minima kaip orientyras prie Bijotų, kur dar tebestovi D. Poškos Baublio muziejėliai. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Skaudvilė“ siejama su šiuo kontekstu: Minima kaip orientyras prie Bijotų, kur dar tebestovi D. Poškos Baublio muziejėliai."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minima kaip orientyras prie Bijotų, kur dar tebestovi D. Poškos Baublio muziejėliai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

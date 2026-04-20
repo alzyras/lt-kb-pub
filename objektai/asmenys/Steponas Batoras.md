@@ -41,15 +41,15 @@ patikimumas: "aukstas"
 - date_end: 1586
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Steponas Batoras apibūdinamas taip: Paminėtas kaip valdovas ir kaip karų su Maskva veikėjas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Paminėtas kaip valdovas ir kaip karų su Maskva veikėjas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
