@@ -1,9 +1,10 @@
 import { FullSlug, isFolderPath, resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
-import { Date as QuartzDate, getDate } from "./Date"
+import { getDate } from "./Date"
 import { QuartzComponent, QuartzComponentProps } from "./types"
 import { GlobalConfiguration } from "../cfg"
 import { isPeriodFilterTargetType, parseFrontmatterPeriodRange } from "../util/periodRange"
+import { visibleHistoricalPeriod } from "../util/historicalPeriod"
 // @ts-ignore
 import periodFilterScript from "./scripts/period-filter.inline"
 
@@ -76,6 +77,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
       page,
       isTargetType,
       range,
+      periodLabel: visibleHistoricalPeriod(page.frontmatter?.laikotarpis),
     }
   })
 
@@ -85,27 +87,45 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
     <>
       {showPeriodFilter && (
         <div class="period-filter-controls" data-period-filter-controls="true">
-          <div class="period-filter-row">
-            <label>Nuo</label>
-            <input type="range" min="0" max="2000" step="50" value="0" data-period-input="start" />
-            <span class="period-filter-value" data-period-value="start">
-              0
+          <div class="period-filter-header">
+            <span class="period-filter-label">Laikotarpis</span>
+            <span class="period-filter-range-label">
+              <span data-period-value="start">0</span>
+              {" – "}
+              <span data-period-value="end">2000</span>
             </span>
           </div>
-          <div class="period-filter-row">
-            <label>Iki</label>
-            <input type="range" min="0" max="2000" step="50" value="2000" data-period-input="end" />
-            <span class="period-filter-value" data-period-value="end">
-              2000
+          <div class="period-filter-slider" aria-label="Laikotarpio intervalas">
+            <div class="period-filter-track" />
+            <div class="period-filter-range" data-period-range-fill="" />
+            <input
+              type="range"
+              min="0"
+              max="2000"
+              step="25"
+              value="0"
+              aria-label="Nuo metų"
+              data-period-input="start"
+            />
+            <input
+              type="range"
+              min="0"
+              max="2000"
+              step="25"
+              value="2000"
+              aria-label="Iki metų"
+              data-period-input="end"
+            />
+          </div>
+          <div class="period-filter-footer">
+            <label class="period-filter-unknown">
+              <input type="checkbox" checked={true} data-period-input="unknown" />
+              Rodyti be aiškaus laikotarpio
+            </label>
+            <span class="period-filter-summary" data-period-summary="">
+              Rodoma 0 iš 0
             </span>
           </div>
-          <label class="period-filter-unknown">
-            <input type="checkbox" checked={true} data-period-input="unknown" />
-            Rodyti be aiškaus laikotarpio
-          </label>
-          <p class="period-filter-summary" data-period-summary="">
-            Rodoma 0 iš 0
-          </p>
         </div>
       )}
       <ul
@@ -113,10 +133,9 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
         data-period-filter-list={showPeriodFilter ? "true" : undefined}
         data-period-filter-enabled={showPeriodFilter ? "true" : undefined}
       >
-        {prepared.map(({ page, isTargetType, range }) => {
+        {prepared.map(({ page, isTargetType, range, periodLabel }) => {
           const title = page.frontmatter?.title
           const tags = page.frontmatter?.tags ?? []
-          const pageDate = getDate(cfg, page)
 
           return (
             <li
@@ -126,9 +145,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
               data-period-end={range ? `${range.end}` : undefined}
             >
               <div class="section">
-                <div class="meta-box">
-                  {pageDate && <QuartzDate date={pageDate} locale={cfg.locale} />}
-                </div>
+                <div class="meta-box">{periodLabel && <span>{periodLabel}</span>}</div>
                 <div class="desc">
                   <h3 class="title-row">
                     <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
@@ -186,48 +203,143 @@ PageList.css = `
 }
 
 .period-filter-controls {
-  margin-top: 1.1rem;
-  padding: 0.65rem 0.75rem 0.7rem;
-  border-radius: 0.65rem;
+  width: min(42rem, 100%);
+  margin: 1.25rem 0 1.4rem;
+  padding: 1rem 1.1rem 1.05rem;
+  border-radius: 1rem;
   border: 1px solid var(--lightgray);
-  background: color-mix(in srgb, var(--light) 70%, transparent);
+  background:
+    linear-gradient(135deg, color-mix(in srgb, var(--light) 90%, transparent), transparent),
+    color-mix(in srgb, var(--light) 72%, var(--dark) 8%);
+  box-shadow: 0 0.45rem 1.6rem color-mix(in srgb, var(--dark) 12%, transparent);
 }
 
-.period-filter-row {
-  display: grid;
-  grid-template-columns: 2.4rem minmax(0, 1fr) 3rem;
+.period-filter-header,
+.period-filter-footer {
+  display: flex;
   align-items: center;
-  gap: 0.6rem;
+  justify-content: space-between;
+  gap: 1rem;
 }
 
-.period-filter-row + .period-filter-row {
-  margin-top: 0.45rem;
+.period-filter-label {
+  color: var(--dark);
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
 }
 
-.period-filter-row > label {
-  font-size: 0.8rem;
-  color: var(--gray);
-}
-
-.period-filter-value {
-  text-align: right;
-  font-size: 0.8rem;
-  color: var(--darkgray);
+.period-filter-range-label {
+  color: var(--secondary);
+  font-size: 1rem;
+  font-weight: 800;
   font-variant-numeric: tabular-nums;
+}
+
+.period-filter-slider {
+  position: relative;
+  height: 3.2rem;
+  margin: 0.65rem 0 0.35rem;
+}
+
+.period-filter-track,
+.period-filter-range {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 1.42rem;
+  height: 0.55rem;
+  border-radius: 999rem;
+}
+
+.period-filter-track {
+  background: color-mix(in srgb, var(--lightgray) 72%, var(--dark) 16%);
+}
+
+.period-filter-range {
+  background: linear-gradient(90deg, var(--secondary), var(--tertiary));
+  box-shadow: 0 0 0.9rem color-mix(in srgb, var(--secondary) 38%, transparent);
+}
+
+.period-filter-slider input[type="range"] {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 3.2rem;
+  margin: 0;
+  appearance: none;
+  pointer-events: none;
+  background: transparent;
+}
+
+.period-filter-slider input[type="range"]::-webkit-slider-runnable-track {
+  height: 0.55rem;
+  background: transparent;
+}
+
+.period-filter-slider input[type="range"]::-moz-range-track {
+  height: 0.55rem;
+  background: transparent;
+}
+
+.period-filter-slider input[type="range"]::-webkit-slider-thumb {
+  width: 1.45rem;
+  height: 1.45rem;
+  margin-top: -0.45rem;
+  appearance: none;
+  pointer-events: auto;
+  cursor: grab;
+  border: 0.18rem solid var(--light);
+  border-radius: 999rem;
+  background: var(--secondary);
+  box-shadow:
+    0 0.18rem 0.55rem color-mix(in srgb, var(--dark) 26%, transparent),
+    0 0 0 0.18rem color-mix(in srgb, var(--secondary) 28%, transparent);
+}
+
+.period-filter-slider input[type="range"]::-moz-range-thumb {
+  width: 1.45rem;
+  height: 1.45rem;
+  pointer-events: auto;
+  cursor: grab;
+  border: 0.18rem solid var(--light);
+  border-radius: 999rem;
+  background: var(--secondary);
+  box-shadow:
+    0 0.18rem 0.55rem color-mix(in srgb, var(--dark) 26%, transparent),
+    0 0 0 0.18rem color-mix(in srgb, var(--secondary) 28%, transparent);
 }
 
 .period-filter-unknown {
   display: inline-flex;
   align-items: center;
-  gap: 0.35rem;
-  margin-top: 0.6rem;
-  font-size: 0.78rem;
-  color: var(--gray);
+  gap: 0.45rem;
+  color: var(--darkgray);
+  font-size: 0.82rem;
+}
+
+.period-filter-unknown input {
+  width: 1rem;
+  height: 1rem;
+  accent-color: var(--secondary);
 }
 
 .period-filter-summary {
-  margin: 0.45rem 0 0;
-  font-size: 0.76rem;
   color: var(--gray);
+  font-size: 0.82rem;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+@media all and (max-width: 600px) {
+  .period-filter-controls {
+    padding: 0.9rem;
+  }
+
+  .period-filter-footer {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 0.55rem;
+  }
 }
 `

@@ -1,31 +1,85 @@
-function updateFilter(control: HTMLElement, list: HTMLUListElement, changed: "start" | "end") {
-  const startInput = control.querySelector<HTMLInputElement>('input[data-period-input="start"]')
-  const endInput = control.querySelector<HTMLInputElement>('input[data-period-input="end"]')
+type PeriodFilterRefs = {
+  control: HTMLElement
+  list: HTMLUListElement
+  minInput: HTMLInputElement
+  maxInput: HTMLInputElement
+  unknownInput: HTMLInputElement
+  rangeFill: HTMLElement
+  startValue: HTMLElement
+  endValue: HTMLElement
+  summary: HTMLElement
+}
+
+const initialized = new WeakSet<HTMLElement>()
+
+function clampValue(value: number, min: number, max: number) {
+  return Math.min(Math.max(value, min), max)
+}
+
+function getRefs(control: HTMLElement): PeriodFilterRefs | undefined {
+  const list = control.parentElement?.querySelector<HTMLUListElement>(
+    'ul.section-ul[data-period-filter-enabled="true"]',
+  )
+  const minInput = control.querySelector<HTMLInputElement>('input[data-period-input="start"]')
+  const maxInput = control.querySelector<HTMLInputElement>('input[data-period-input="end"]')
   const unknownInput = control.querySelector<HTMLInputElement>('input[data-period-input="unknown"]')
+  const rangeFill = control.querySelector<HTMLElement>("[data-period-range-fill]")
   const startValue = control.querySelector<HTMLElement>('[data-period-value="start"]')
   const endValue = control.querySelector<HTMLElement>('[data-period-value="end"]')
   const summary = control.querySelector<HTMLElement>("[data-period-summary]")
 
-  if (!startInput || !endInput || !unknownInput || !startValue || !endValue || !summary) {
-    return
+  if (
+    !list ||
+    !minInput ||
+    !maxInput ||
+    !unknownInput ||
+    !rangeFill ||
+    !startValue ||
+    !endValue ||
+    !summary
+  ) {
+    return undefined
   }
 
-  let selectedStart = Number(startInput.value)
-  let selectedEnd = Number(endInput.value)
+  return {
+    control,
+    list,
+    minInput,
+    maxInput,
+    unknownInput,
+    rangeFill,
+    startValue,
+    endValue,
+    summary,
+  }
+}
+
+function updateFilter(refs: PeriodFilterRefs, changed: "start" | "end") {
+  const min = Number(refs.minInput.min || 0)
+  const max = Number(refs.minInput.max || 2000)
+  let selectedStart = clampValue(Number(refs.minInput.value), min, max)
+  let selectedEnd = clampValue(Number(refs.maxInput.value), min, max)
+
   if (selectedStart > selectedEnd) {
     if (changed === "start") {
       selectedEnd = selectedStart
-      endInput.value = `${selectedEnd}`
+      refs.maxInput.value = `${selectedEnd}`
     } else {
       selectedStart = selectedEnd
-      startInput.value = `${selectedStart}`
+      refs.minInput.value = `${selectedStart}`
     }
   }
 
-  startValue.textContent = `${selectedStart}`
-  endValue.textContent = `${selectedEnd}`
+  refs.startValue.textContent = `${selectedStart}`
+  refs.endValue.textContent = `${selectedEnd}`
 
-  const entries = list.querySelectorAll<HTMLLIElement>("li.section-li")
+  const range = Math.max(max - min, 1)
+  const left = ((selectedStart - min) / range) * 100
+  const right = 100 - ((selectedEnd - min) / range) * 100
+  refs.rangeFill.style.left = `${left}%`
+  refs.rangeFill.style.right = `${right}%`
+
+  const entries = refs.list.querySelectorAll<HTMLLIElement>("li.section-li")
   let visible = 0
   entries.forEach((entry) => {
     const isFilterable = entry.dataset.periodFilterable === "true"
@@ -38,7 +92,7 @@ function updateFilter(control: HTMLElement, list: HTMLUListElement, changed: "st
       if (hasRange) {
         keep = start <= selectedEnd && end >= selectedStart
       } else {
-        keep = unknownInput.checked
+        keep = refs.unknownInput.checked
       }
     }
 
@@ -48,41 +102,42 @@ function updateFilter(control: HTMLElement, list: HTMLUListElement, changed: "st
     }
   })
 
-  summary.textContent = `Rodoma ${visible} iš ${entries.length}`
+  refs.summary.textContent = `Rodoma ${visible} iš ${entries.length}`
 }
 
-document.addEventListener("nav", () => {
+function initPeriodFilters() {
   const controls = document.querySelectorAll<HTMLElement>(
     '.period-filter-controls[data-period-filter-controls="true"]',
   )
+
   controls.forEach((control) => {
-    const list = control.parentElement?.querySelector<HTMLUListElement>(
-      'ul.section-ul[data-period-filter-enabled="true"]',
-    )
-    if (!list) {
+    if (initialized.has(control)) {
       return
     }
 
-    const startInput = control.querySelector<HTMLInputElement>('input[data-period-input="start"]')
-    const endInput = control.querySelector<HTMLInputElement>('input[data-period-input="end"]')
-    const unknownInput = control.querySelector<HTMLInputElement>(
-      'input[data-period-input="unknown"]',
-    )
-    if (!startInput || !endInput || !unknownInput) {
+    const refs = getRefs(control)
+    if (!refs) {
       return
     }
 
-    const onStart = () => updateFilter(control, list, "start")
-    const onEnd = () => updateFilter(control, list, "end")
-    const onUnknown = () => updateFilter(control, list, "end")
+    initialized.add(control)
 
-    startInput.addEventListener("input", onStart)
-    endInput.addEventListener("input", onEnd)
-    unknownInput.addEventListener("change", onUnknown)
-    window.addCleanup(() => startInput.removeEventListener("input", onStart))
-    window.addCleanup(() => endInput.removeEventListener("input", onEnd))
-    window.addCleanup(() => unknownInput.removeEventListener("change", onUnknown))
+    const onStart = () => updateFilter(refs, "start")
+    const onEnd = () => updateFilter(refs, "end")
+    const onUnknown = () => updateFilter(refs, "end")
 
-    updateFilter(control, list, "end")
+    refs.minInput.addEventListener("input", onStart)
+    refs.maxInput.addEventListener("input", onEnd)
+    refs.unknownInput.addEventListener("change", onUnknown)
+    if (typeof window.addCleanup === "function") {
+      window.addCleanup(() => refs.minInput.removeEventListener("input", onStart))
+      window.addCleanup(() => refs.maxInput.removeEventListener("input", onEnd))
+      window.addCleanup(() => refs.unknownInput.removeEventListener("change", onUnknown))
+    }
+
+    updateFilter(refs, "end")
   })
-})
+}
+
+initPeriodFilters()
+document.addEventListener("nav", initPeriodFilters)

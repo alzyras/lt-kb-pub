@@ -203,5 +203,20 @@ export function parseFrontmatterPeriodRange(
 
 export function isPeriodFilterTargetType(tipas: unknown): boolean {
   const normalized = asString(tipas).toLowerCase()
-  return normalized === "asmuo" || normalized === "daiktas" || normalized === "posakis"
+  return [
+    "asmuo",
+    "autorius",
+    "saltinis",
+    "šaltinis",
+    "ivykis",
+    "įvykis",
+    "daiktas",
+    "paprotys",
+    "posakis",
+    "zodyno_irasas",
+    "žodyno_įrašas",
+    "vieta",
+    "grupe",
+    "grupė",
+  ].includes(normalized)
 }
