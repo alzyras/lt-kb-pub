@@ -5,10 +5,12 @@ sukurta: "2026-04-18"
 variantai:
   - "„Lietuvių Laikraštis\""
   - "pats pirmasis lietuviškas laikraštis spaudą atgavus"
+  - "„Lietuvių Laikraštis\""
 aliases:
   - "Lietuvių Laikraštis"
   - "„Lietuvių Laikraštis\""
   - "pats pirmasis lietuviškas laikraštis spaudą atgavus"
+  - "„Lietuvių Laikraštis\""
 saltiniai:
   - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
@@ -16,7 +18,7 @@ zymos:
 laikotarpis: "1905 m."
 datos:
   - "1905 m."
-periodas: ""
+periodas: "naujieji_laikai"
 periodo_grupes: []
 amziai:
   - "XX"

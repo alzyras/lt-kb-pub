@@ -17,10 +17,11 @@ saltiniai:
   - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - "dokumentas"
+  - "laiškas"
 laikotarpis: "1323 m."
 datos:
   - "1323 m."
-periodas: ""
+periodas: "viduramziai"
 periodo_grupes: []
 amziai:
   - "XIV"

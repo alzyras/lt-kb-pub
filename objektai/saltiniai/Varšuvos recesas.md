@@ -17,10 +17,11 @@ saltiniai:
   - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - "dokumentas"
+  - "aktas"
 laikotarpis: "1564 m."
 datos:
   - "1564 m."
-periodas: ""
+periodas: "ankstyvieji_naujieji_laikai"
 periodo_grupes: []
 amziai:
   - "XVI"

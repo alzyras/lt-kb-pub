@@ -5,14 +5,17 @@ sukurta: "2026-04-18"
 variantai:
   - "„Urugvajaus Aidą\""
   - "dvisavaitinį"
+  - "„Urugvajaus Aidą\""
 aliases:
   - "Urugvajaus Aidas"
   - "„Urugvajaus Aidą\""
   - "dvisavaitinį"
+  - "„Urugvajaus Aidą\""
 saltiniai:
   - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - "buities-daiktas"
+  - "dokumentas"
 laikotarpis: ""
 datos: []
 periodas: ""

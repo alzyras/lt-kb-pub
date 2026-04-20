@@ -2,9 +2,11 @@
 tipas: autorius
 pavadinimas: "A. Bruckner"
 sukurta: "2026-04-18"
-variantai: []
+variantai:
+  - "A. Brückner"
 aliases: 
   - "A. Bruckner"
+  - "A. Brückner"
 saltiniai: 
   - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: 
@@ -26,19 +28,27 @@ patikimumas: "vidutinis"
 # A. Bruckner
 
 ## Santrauka
-Šaltinyje A. Bruckner minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip lenkų kultūros istorijos autorius.
+Šaltinyje A. Bruckner / A. Brückner minimas autorystės, redagavimo arba tyrimo kontekste: bibliografijoje nurodytas kaip lenkų kultūros istorijos ir veikalo „Starożytna Litwa“ autorius.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip lenkų kultūros istorijos autorius. (t-001)
+- Bibliografijoje nurodytas kaip veikalo „Starożytna Litwa“ autorius. (t-002)
 
 ## Kontekstas
 - Bibliografinė eilutė tiesiogiai įvardija Brucknerį kaip veikalo autorių. (q-001)
+- Tas pats šaltinis kitame bibliografijos punkte pateikia rašybos variantą A. Brückner ir veikalą „Starożytna Litwa“. (q-002)
 
 ## Teiginiai
 - id: t-001
   teiginys: "Šaltinyje A. Bruckner autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip lenkų kultūros istorijos autorius."
   pagrindžia:
     - q-001
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Šaltinyje A. Brückner nurodytas kaip veikalo „Starożytna Litwa“ autorius."
+  pagrindžia:
+    - q-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
@@ -58,3 +68,18 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Bibliografinė eilutė tiesiogiai įvardija Brucknerį kaip veikalo autorių."
   pagrindžia:
     - t-001
+- id: q-002
+  santrauka: Bibliografijoje pateikiamas A. Brücknerio veikalas apie senąją Lietuvą.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    _A. Brückner,_ Sta-
+    rożytna Litwa (1904) ;
+  citata_rodoma: |
+    A. Brückner, Starożytna Litwa (1904);
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_variant
+  patikimumo_pagrindimas: "Bibliografinė eilutė tiesiogiai įvardija rašybos variantą ir veikalo pavadinimą."
+  pagrindžia:
+    - t-002

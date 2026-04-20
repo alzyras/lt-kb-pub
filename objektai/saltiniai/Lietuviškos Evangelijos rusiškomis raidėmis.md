@@ -2,7 +2,8 @@
 tipas: saltinis
 pavadinimas: "Lietuviškos Evangelijos rusiškomis raidėmis"
 sukurta: "2026-04-18"
-variantai: []
+variantai:
+  - "Lietuviškos Evangelijos rusiškomis raidėmis"
 aliases:
   - "Lietuviškos Evangelijos rusiškomis raidėmis"
 saltiniai:

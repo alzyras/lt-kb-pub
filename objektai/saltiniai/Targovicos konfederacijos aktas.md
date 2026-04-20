@@ -4,17 +4,20 @@ pavadinimas: "Targovicos konfederacijos aktas"
 sukurta: "2026-04-18"
 variantai:
   - "paskelbė konfederacijos aktą"
+  - "konfederacijos aktą"
 aliases:
   - "Targovicos konfederacijos aktas"
   - "paskelbė konfederacijos aktą"
+  - "konfederacijos aktą"
 saltiniai:
   - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - "dokumentas"
+  - "aktas"
 laikotarpis: "1792 m."
 datos:
   - "1792 m."
-periodas: ""
+periodas: "ankstyvieji_naujieji_laikai"
 periodo_grupes: []
 amziai:
   - "XVIII"

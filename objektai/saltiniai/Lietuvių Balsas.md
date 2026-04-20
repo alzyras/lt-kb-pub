@@ -5,10 +5,16 @@ sukurta: "2026-04-18"
 variantai:
   - "„Lietuvių Balsas\""
   - "brošiūra"
+  - "„Lietuvių Balsas\""
+  - "„Glos Litwinöw\""
+  - "A. Jakšto lenkiškai parašyta brošiūra"
 aliases:
   - "Lietuvių Balsas"
   - "„Lietuvių Balsas\""
   - "brošiūra"
+  - "„Lietuvių Balsas\""
+  - "„Glos Litwinöw\""
+  - "A. Jakšto lenkiškai parašyta brošiūra"
 saltiniai:
   - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
@@ -16,7 +22,7 @@ zymos:
 laikotarpis: "1902 m."
 datos:
   - "1902 m."
-periodas: ""
+periodas: "naujieji_laikai"
 periodo_grupes: []
 amziai:
   - "XX"

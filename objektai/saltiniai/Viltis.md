@@ -6,11 +6,15 @@ variantai:
   - "„Viltis\""
   - "redaguojamoji „Viltis\""
   - "stipriausias lietuviškas laikraštis"
+  - "„Viltis\""
+  - "redaguojamoji „Viltis\""
 aliases:
   - "Viltis"
   - "„Viltis\""
   - "redaguojamoji „Viltis\""
   - "stipriausias lietuviškas laikraštis"
+  - "„Viltis\""
+  - "redaguojamoji „Viltis\""
 saltiniai:
   - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
@@ -18,7 +22,7 @@ zymos:
 laikotarpis: "1907 m."
 datos:
   - "1907 m."
-periodas: ""
+periodas: "naujieji_laikai"
 periodo_grupes: []
 amziai:
   - "XX"

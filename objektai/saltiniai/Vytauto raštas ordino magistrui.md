@@ -2,9 +2,11 @@
 tipas: saltinis
 pavadinimas: "Vytauto raštas ordino magistrui"
 sukurta: "2026-04-18"
-variantai: []
+variantai:
+  - "V. Vytauto raštas ordino magistrui"
 aliases:
   - "Vytauto raštas ordino magistrui"
+  - "V. Vytauto raštas ordino magistrui"
 saltiniai:
   - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
@@ -12,7 +14,7 @@ zymos:
 laikotarpis: "1414 m. sausio 2 d."
 datos:
   - "1414 m. sausio 2 d."
-periodas: ""
+periodas: "viduramziai"
 periodo_grupes: []
 amziai:
   - "XV"

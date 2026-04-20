@@ -2,9 +2,11 @@
 tipas: saltinis
 pavadinimas: "Vytauto, Skirgailos, Vladimiro ir Teodoro Algirdaičių raštas Jogailai"
 sukurta: "2026-04-18"
-variantai: []
+variantai:
+  - "IV. Vytauto, Skirgailos, Vladimiro ir Teodoro Algirdaičių raštas Jogailai"
 aliases:
   - "Vytauto, Skirgailos, Vladimiro ir Teodoro Algirdaičių raštas Jogailai"
+  - "IV. Vytauto, Skirgailos, Vladimiro ir Teodoro Algirdaičių raštas Jogailai"
 saltiniai:
   - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
@@ -12,7 +14,7 @@ zymos:
 laikotarpis: "1394 m. vasario 18 d."
 datos:
   - "1394 m. vasario 18 d."
-periodas: ""
+periodas: "viduramziai"
 periodo_grupes: []
 amziai:
   - "XIV"

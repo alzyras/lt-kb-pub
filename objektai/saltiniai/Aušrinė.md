@@ -5,10 +5,12 @@ sukurta: "2026-04-18"
 variantai:
   - "„Aušrinę\""
   - "moksleivių žurnalą"
+  - "„Aušrinę\""
 aliases:
   - "Aušrinė"
   - "„Aušrinę\""
   - "moksleivių žurnalą"
+  - "„Aušrinę\""
 saltiniai:
   - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:

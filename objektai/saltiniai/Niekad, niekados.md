@@ -4,9 +4,13 @@ pavadinimas: "Niekad, niekados"
 sukurta: "2026-04-18"
 variantai:
   - "„Niekad, niekados\""
+  - "„Niekad, niekados\""
+  - "Przenigdy"
 aliases:
   - "Niekad, niekados"
   - "„Niekad, niekados\""
+  - "„Niekad, niekados\""
+  - "Przenigdy"
 saltiniai:
   - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:

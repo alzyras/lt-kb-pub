@@ -5,10 +5,14 @@ sukurta: "2026-04-18"
 variantai:
   - "Metrika"
   - "Metrikos archyvo"
+  - "Metrikos archyvas"
+  - "Lietuvos Metrikos įrašų fragmentas"
 aliases:
   - "Lietuvos Metrika"
   - "Metrika"
   - "Metrikos archyvo"
+  - "Metrikos archyvas"
+  - "Lietuvos Metrikos įrašų fragmentas"
 saltiniai:
   - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
@@ -56,7 +60,12 @@ patikimumas: "aukstas"
     - q-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-
+- id: t-003
+  teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Lietuvos Metrika“ siejamas su šiuo kontekstu: šaltinyje įvardytas Lietuvos Metrikos įrašų fragmentas, o viduje paaiškinta, kad tai Zigmanto II ponų tarybai rašytas laiškas dėl Lietuvos ir Livonijos sienos išvedimo."
+  pagrindžia:
+    - q-003
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
 
 - id: q-001
@@ -90,3 +99,18 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
   pagrindžia:
     - t-002
+- id: q-003
+  santrauka: šaltinyje įvardytas Lietuvos Metrikos įrašų fragmentas, o viduje paaiškinta, kad tai Zigmanto II ponų tarybai rašytas laiškas dėl Lietuvos ir Livonijos sienos išvedimo.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+      **VII. Lietuvos Metrikos įrašų fragmentas.** Tai yra Zigmanto II 1540 m.
+      sausio 13 d. ponų tarybai rašytas laiškas, kuriame jis duoda instrukcijų,
+      kaip skirtieji komisarai (Žemaičių vyskupas ir seniūnas) turi ištirti ir kartu
+      su Livonijos magistro atstovais išvesti Lietuvos Livonijos sieną.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai pateikia šaltinio pavadinimą, bibliografinį įrašą arba aprašomą kontekstą."
+  pagrindžia:
+    - t-003

@@ -4,6 +4,7 @@ pavadinimas: "Volumina Legum"
 sukurta: "2026-04-18"
 variantai:
   - "specialiuose rinkiniuose"
+  - "Volumina Legum"
 aliases:
   - "Volumina Legum"
   - "specialiuose rinkiniuose"
@@ -15,7 +16,8 @@ laikotarpis: "XVIII amžiuje; 1889 m."
 datos:
   - "XVIII amžiuje"
   - "1889 m."
-periodas: ""
+  - "XVIII amžiuje; 1889 m."
+periodas: "naujieji_laikai"
 periodo_grupes: []
 amziai:
   - "XVIII"

@@ -5,21 +5,26 @@ sukurta: "2026-04-18"
 variantai:
   - "pirmąjį Lietuvos statutą"
   - "statutą"
+  - "pirminė bibliografinė forma"
 aliases:
   - "Pirmasis Lietuvos statutas"
   - "pirmąjį Lietuvos statutą"
   - "statutą"
+  - "pirminė bibliografinė forma"
 saltiniai:
   - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - "dokumentas"
+  - "knyga"
 laikotarpis: "1529 m."
 datos:
   - "1529 m."
+  - "Vairas, 1930, Nr. 2"
 periodas: ""
 periodo_grupes: []
 amziai:
   - "XVI"
+  - "XX"
 date_start: "1529"
 date_end: "1529"
 vaidmenys: []
@@ -52,7 +57,18 @@ patikimumas: "aukstas"
     - q-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-
+- id: t-002
+  teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Pirmasis Lietuvos statutas“ siejamas su šiuo kontekstu: Tekste pirmasis Lietuvos statutas minimas kaip 1529 m. patvirtintas teisynas, dar labiau praplėtęs bajorijos teises."
+  pagrindžia:
+    - q-002
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-003
+  teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Pirmasis Lietuvos statutas“ pateikiamas kaip bibliografinis arba turinio sąrašo paminėjimas."
+  pagrindžia:
+    - q-003
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
 
 - id: q-001
@@ -76,3 +92,44 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
   pagrindžia:
     - t-001
+- id: q-002
+  santrauka: Tekste pirmasis Lietuvos statutas minimas kaip 1529 m. patvirtintas teisynas, dar labiau praplėtęs bajorijos teises.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+      1529 m. Bonai vi-
+      sokiomis intrygomis pa-
+      lenkus į savo pusę didi-
+      kus, o tėvui sutikus pa-
+      tvirtinti pirmąjį Lietuvos
+      statutą, dar labiau pra-
+      plėtusį bajorijos teises,
+      — Lietuvos seimas Zig-
+      mantą Augustą paskel-
+      bė didžiuoju kunigaikš-
+      čiu, o netrukus jį karū-
+      navo savo karalium ir
+      lenkai (1530 m.). Tad
+      jau tuomet buvo aišku,
+      kad po tėvo jis bus valdovas abiejose valstybėse.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai pateikia šaltinio pavadinimą, bibliografinį įrašą arba aprašomą kontekstą."
+  pagrindžia:
+    - t-002
+
+## Bibliografiniai įrodymai
+
+- id: q-003
+  santrauka: Šaltinis šioje bibliografinėje apžvalgoje minimas skyriaus „XV. Visuomeniniai santykiai ir valstybės santvarka XVI a“ sąraše.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+      _Ig. Jonynas,_ Pirmasis Lietuvos statutas (Vairas, 1930, Nr. 2)
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai pateikia šaltinio pavadinimą, bibliografinį įrašą arba aprašomą kontekstą."
+  pagrindžia:
+    - t-003

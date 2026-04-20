@@ -4,6 +4,7 @@ pavadinimas: "Mažvydo giesmynas"
 sukurta: "2026-04-18"
 variantai:
   - "1570 m. Mažvydo giesmynas"
+  - "Mažvydo giesmynas"
 aliases:
   - "Mažvydo giesmynas"
   - "1570 m. Mažvydo giesmynas"
@@ -11,10 +12,11 @@ saltiniai:
   - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - "dokumentas"
+  - "knyga"
 laikotarpis: "1570 m."
 datos:
   - "1570 m."
-periodas: ""
+periodas: "ankstyvieji_naujieji_laikai"
 periodo_grupes: []
 amziai:
   - "XVI"

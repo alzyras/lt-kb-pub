@@ -13,10 +13,11 @@ saltiniai:
   - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - "buities-daiktas"
+  - "dokumentas"
 laikotarpis: "1861 ar 1862 m."
 datos:
   - "1861 ar 1862 m."
-periodas: ""
+periodas: "naujieji_laikai"
 periodo_grupes: []
 amziai:
   - "XIX"
@@ -52,7 +53,12 @@ patikimumas: "vidutinis"
     - q-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-
+- id: t-002
+  teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Lietuviškas atsišaukimas“ siejamas su šiuo kontekstu: tekste šie atsišaukimai siejami su sukilimo metu skelbtais pažadais valstiečiams, o pats pavadinimas vartojamas ir kaip iliustracijos antraštė."
+  pagrindžia:
+    - q-002
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
 
 - id: q-001
@@ -68,3 +74,23 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
   pagrindžia:
     - t-001
+- id: q-002
+  santrauka: tekste šie atsišaukimai siejami su sukilimo metu skelbtais pažadais valstiečiams, o pats pavadinimas vartojamas ir kaip iliustracijos antraštė.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    lenkiškus ir lietuviškus atsišaukimus, kuriuose buvo skelbiama,
+    kad nuo sukilimo dienos nebesą jokių luominių skirtumų, kad
+    valstiečiai esą lygūs su bajorais, kad jų valdomoji žemė be jokio
+    Lietuviškas atsišaukimas,
+    išleistas 1861 ar 1862 m.
+    
+    atlyginimo liksianti jų nuosavybė. Taip pat buvo žadama duoti
+    po 3 margus žemės visiems trobelininkams ir darbininkams (ži-
+    noma, visa tai buvo žadama tik prisidėjusiems prie sukilimo).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai pateikia šaltinio pavadinimą, bibliografinį įrašą arba aprašomą kontekstą."
+  pagrindžia:
+    - t-002

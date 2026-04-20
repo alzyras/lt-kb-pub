@@ -4,17 +4,21 @@ pavadinimas: "Lietuvos nepriklausomybės paskelbimo aktas"
 sukurta: "2026-04-18"
 variantai:
   - "nepriklausomybės aktą"
+  - "Lietuvos nepriklausomybės paskelbimo aktas"
+  - "vasario 16 d. rezoliucija"
 aliases:
   - "Lietuvos nepriklausomybės paskelbimo aktas"
   - "nepriklausomybės aktą"
+  - "vasario 16 d. rezoliucija"
 saltiniai:
   - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - "dokumentas"
+  - "aktas"
 laikotarpis: "1918 m. vasario 16 d."
 datos:
   - "1918 m. vasario 16 d."
-periodas: ""
+periodas: "naujieji_laikai"
 periodo_grupes: []
 amziai:
   - "XX"

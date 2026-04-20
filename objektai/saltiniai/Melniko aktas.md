@@ -6,19 +6,22 @@ variantai:
   - "Melniko aktu"
   - "naujas susitarimas"
   - "atskiru dokumentu"
+  - "naujasis susitarimas"
 aliases:
   - "Melniko aktas"
   - "Melniko aktu"
   - "naujas susitarimas"
   - "atskiru dokumentu"
+  - "naujasis susitarimas"
 saltiniai:
   - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - "dokumentas"
+  - "aktas"
 laikotarpis: "1501 m."
 datos:
   - "1501 m."
-periodas: ""
+periodas: "ankstyvieji_naujieji_laikai"
 periodo_grupes: []
 amziai:
   - "XVI"

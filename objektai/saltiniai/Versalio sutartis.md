@@ -4,9 +4,11 @@ pavadinimas: "Versalio sutartis"
 sukurta: "2026-04-18"
 variantai:
   - "Versalio sutartį"
+  - "Versalio traktatą"
 aliases:
   - "Versalio sutartis"
   - "Versalio sutartį"
+  - "Versalio traktatą"
 saltiniai:
   - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
@@ -50,7 +52,12 @@ patikimumas: "aukstas"
     - q-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-
+- id: t-002
+  teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Versalio sutartis“ siejamas su šiuo kontekstu: Sutartis minima kaip dokumentas, po kurio vokiečiai ėmė trauktis iš Latvijos ir ji buvo paskelbta nepriklausoma."
+  pagrindžia:
+    - q-002
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
 
 - id: q-001
@@ -70,3 +77,19 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
   pagrindžia:
     - t-001
+- id: q-002
+  santrauka: Sutartis minima kaip dokumentas, po kurio vokiečiai ėmė trauktis iš Latvijos ir ji buvo paskelbta nepriklausoma.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+      Tačiau Latviją, kaip ir Lietuvą, išgelbėjo vokiečių pra-
+      laimėjimas vakaruose. Kai, pasirašę Versalio traktatą, vokie-
+      čiai ėmė trauktis iš Latvijos, ji buvo paskelbta nepriklausoma
+      (1918 m. lapkričio 18 d.), ir buvo sudaryta pirmoji latvių vyriau-
+      sybė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai pateikia šaltinio pavadinimą, bibliografinį įrašą arba aprašomą kontekstą."
+  pagrindžia:
+    - t-002

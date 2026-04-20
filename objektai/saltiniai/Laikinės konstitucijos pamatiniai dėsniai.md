@@ -16,7 +16,7 @@ zymos:
 laikotarpis: "1918 m. spalių mėnesio pabaiga"
 datos:
   - "1918 m. spalių mėnesio pabaiga"
-periodas: ""
+periodas: "naujieji_laikai"
 periodo_grupes: []
 amziai:
   - "XX"
@@ -68,7 +68,6 @@ patikimumas: "aukstas"
     Vyriausybė pradėjo veikti, vaduodamasi vadinamaisiais
     laikinės konstitucijos pamatiniais dėsniais, kuriuos išleido Vals-
     tybės Taryba savo sesijoj spalių mėnesio pabaigoj. Aukščiau-
-
 
     siojo valdžios organo kompetencija buvo atiduota Tarybos pre-
     zidiumui, kurį sudarė pirmininkas (A. Smetona) ir du vicepirmi-

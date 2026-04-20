@@ -4,6 +4,7 @@ pavadinimas: "D. Kleino giesmynas"
 sukurta: "2026-04-18"
 variantai:
   - "1666 m. D. Kleino giesmynas"
+  - "D. Kleino giesmynas"
 aliases:
   - "D. Kleino giesmynas"
   - "1666 m. D. Kleino giesmynas"
@@ -11,10 +12,11 @@ saltiniai:
   - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - "dokumentas"
+  - "knyga"
 laikotarpis: "1666 m."
 datos:
   - "1666 m."
-periodas: ""
+periodas: "ankstyvieji_naujieji_laikai"
 periodo_grupes: []
 amziai:
   - "XVII"

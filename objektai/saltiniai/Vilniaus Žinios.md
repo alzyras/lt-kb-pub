@@ -5,18 +5,21 @@ sukurta: "2026-04-18"
 variantai:
   - "„Vilniaus Žinios\""
   - "pirmasis lietuvių dienraštis"
+  - "„Vilniaus Žinios\""
 aliases:
   - "Vilniaus Žinios"
   - "„Vilniaus Žinios\""
   - "pirmasis lietuvių dienraštis"
+  - "„Vilniaus Žinios\""
 saltiniai:
   - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - "buities-daiktas"
+  - "dokumentas"
 laikotarpis: "1905 m."
 datos:
   - "1905 m."
-periodas: ""
+periodas: "naujieji_laikai"
 periodo_grupes: []
 amziai:
   - "XX"
@@ -52,7 +55,12 @@ patikimumas: "aukstas"
     - q-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-
+- id: t-002
+  teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Vilniaus Žinios“ siejamas su šiuo kontekstu: Tekste šis leidinys įvardijamas kaip pirmasis lietuvių dienraštis ir vienas iš 1905 m. pradžios lietuviškų laikraščių."
+  pagrindžia:
+    - q-002
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
 
 - id: q-001
@@ -72,3 +80,24 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
   pagrindžia:
     - t-001
+- id: q-002
+  santrauka: Tekste šis leidinys įvardijamas kaip pirmasis lietuvių dienraštis ir vienas iš 1905 m. pradžios lietuviškų laikraščių.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Spauda. 1905 m. išleisti laikiniai įstatymai palengvino laik-
+    raščių steigimą: tam tikslui nebereikėjo prašyti leidimo — pa-
+    
+    „Lietuvių Laikraštis",
+    — pats pirmasis lietuviškas laikraštis spaudą atgavus.
+    kako tik apie tai pranešti gubernatoriui. Todėl dar 1905 m. pra-
+    džioje pasirodė net trys lietuviški laikraščiai: „Lietuvių
+    Laikraštis", „Lietuvos Bitininkas" ir Petro Vilei-
+    šio leidžiamas pirmasis lietuvių dienraštis „Vilniaus Ži-
+    nios". Pirmasis ėjo Petrapily, o antrieji du Vilniuje. Tų
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai pateikia šaltinio pavadinimą, bibliografinį įrašą arba aprašomą kontekstą."
+  pagrindžia:
+    - t-002

@@ -8,6 +8,7 @@ variantai:
   - "unijos aktais"
   - "unijos akto"
   - "Liublino unijos aktu"
+  - "unijos aktu"
 aliases:
   - "Liublino unijos aktas"
   - "Liublino unijos akto"
@@ -15,15 +16,17 @@ aliases:
   - "unijos aktais"
   - "unijos akto"
   - "Liublino unijos aktu"
+  - "unijos aktu"
 saltiniai:
   - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos:
   - "dokumentas"
+  - "aktas"
 laikotarpis: "1569 m. liepos 1 d.; 1569 m."
 datos:
   - "1569 m. liepos 1 d."
   - "1569 m."
-periodas: ""
+periodas: "ankstyvieji_naujieji_laikai"
 periodo_grupes: []
 amziai:
   - "XVI"
@@ -71,7 +74,12 @@ patikimumas: "aukstas"
     - q-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-
+- id: t-004
+  teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Liublino unijos aktas“ siejamas su šiuo kontekstu: Tekste 1569 m. Liublino seimo užbaigtas unijos dokumentas įvardijamas kaip pirmasis unijos aktas."
+  pagrindžia:
+    - q-004
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
 
 - id: q-001
@@ -117,3 +125,16 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
   pagrindžia:
     - t-003
+- id: q-004
+  santrauka: Tekste 1569 m. Liublino seimo užbaigtas unijos dokumentas įvardijamas kaip pirmasis unijos aktas.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+      Liublino unijos akto reikšmė. Šis aktas buvo pirmasis, kurį
+      galima pavadinti unijos aktu.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata tiesiogiai pateikia šaltinio pavadinimą, bibliografinį įrašą arba aprašomą kontekstą."
+  pagrindžia:
+    - t-004
