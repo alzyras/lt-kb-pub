@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Dūmas
 
 ## Santrauka
-Šaltinyje „Dūmas“ vartojama taip: Gyvenamasis namas arba sodybinis vienetas kaip mokesčio apskaitos pagrindas. (t-001)
+Gyvenamasis namas arba sodybinis vienetas kaip mokesčio apskaitos pagrindas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Dūmas
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: žemės ūkio ir mokesčių ist
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Dūmas“ vartojama taip: Gyvenamasis namas arba sodybinis vienetas kaip mokesčio apskaitos pagrindas."
+  teiginys: "Gyvenamasis namas arba sodybinis vienetas kaip mokesčio apskaitos pagrindas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

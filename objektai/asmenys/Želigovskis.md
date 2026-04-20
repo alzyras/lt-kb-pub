@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Želigovskis
 
 ## Santrauka
-Šaltinyje Želigovskis apibūdinamas taip: Paminėtas kaip generolas, susijęs su Vilniaus atgavimu ir smurtu.
+Paminėtas kaip generolas, susijęs su Vilniaus atgavimu ir smurtu.
 
 ## Variantai
 - gen. Želigovskio
@@ -33,7 +33,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Želigovskis apibūdinamas taip: Paminėtas kaip generolas, susijęs su Vilniaus atgavimu ir smurtu."
+  teiginys: "Paminėtas kaip generolas, susijęs su Vilniaus atgavimu ir smurtu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

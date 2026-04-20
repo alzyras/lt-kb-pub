@@ -32,7 +32,7 @@ patikimumas: "aukstas"
 # Regestriniai kazokai
 
 ## Santrauka
-Šaltinyje „Regestriniai kazokai“ apibūdinama kaip registruotas karinis-socialinis sluoksnis; šis kandidatas žymi į regestrus surašytą kazokų dalį, kuri karo metu galėjo būti panaudota kaip didesnė kariuomenė, bet ramybės metu nebeturėjo tokios laisvės kaip anksčiau. (t-001) Šaltinyje „Regestriniai kazokai“ siejama su šiuo kontekstu: Šis kandidatas žymi į regestrus surašytą kazokų dalį, kuri karo metu galėjo būti panaudota kaip didesnė kariuomenė, bet ramybės metu nebeturėjo tokios laisvės kaip anksčiau. (t-002)
+registruotas karinis-socialinis sluoksnis; šis kandidatas žymi į regestrus surašytą kazokų dalį, kuri karo metu galėjo būti panaudota kaip didesnė kariuomenė, bet ramybės metu nebeturėjo tokios laisvės kaip anksčiau. (t-001) Šaltinyje „Regestriniai kazokai“ siejama su šiuo kontekstu: Šis kandidatas žymi į regestrus surašytą kazokų dalį, kuri karo metu galėjo būti panaudota kaip didesnė kariuomenė, bet ramybės metu nebeturėjo tokios laisvės kaip anksčiau. (t-002)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Regestriniai kazokai
@@ -49,7 +49,7 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: registruotas karinis-socialinis sluoksnis
-Šaltinyje „Regestriniai kazokai“ apibūdinama kaip registruotas karinis-socialinis sluoksnis; šis kandidatas žymi į regestrus surašytą kazokų dalį, kuri karo metu galėjo būti panaudota kaip didesnė kariuomenė, bet ramybės metu nebeturėjo tokios laisvės kaip anksčiau. (t-001)
+registruotas karinis-socialinis sluoksnis; šis kandidatas žymi į regestrus surašytą kazokų dalį, kuri karo metu galėjo būti panaudota kaip didesnė kariuomenė, bet ramybės metu nebeturėjo tokios laisvės kaip anksčiau. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Regestriniai kazokai“ apibūdinama kaip registruotas karinis-socialinis sluoksnis; šis kandidatas žymi į regestrus surašytą kazokų dalį, kuri karo metu galėjo būti panaudota kaip didesnė kariuomenė, bet ramybės metu nebeturėjo tokios laisvės kaip anksčiau. (t-001)
@@ -57,13 +57,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Regestriniai kazokai“ apibūdinama kaip registruotas karinis-socialinis sluoksnis; šis kandidatas žymi į regestrus surašytą kazokų dalį, kuri karo metu galėjo būti panaudota kaip didesnė kariuomenė, bet ramybės metu nebeturėjo tokios laisvės kaip anksčiau."
+  teiginys: "registruotas karinis-socialinis sluoksnis; šis kandidatas žymi į regestrus surašytą kazokų dalį, kuri karo metu galėjo būti panaudota kaip didesnė kariuomenė, bet ramybės metu nebeturėjo tokios laisvės kaip anksčiau."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Regestriniai kazokai“ siejama su šiuo kontekstu: Šis kandidatas žymi į regestrus surašytą kazokų dalį, kuri karo metu galėjo būti panaudota kaip didesnė kariuomenė, bet ramybės metu nebeturėjo tokios laisvės kaip anksčiau."
+  teiginys: "Šis kandidatas žymi į regestrus surašytą kazokų dalį, kuri karo metu galėjo būti panaudota kaip didesnė kariuomenė, bet ramybės metu nebeturėjo tokios laisvės kaip anksčiau."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

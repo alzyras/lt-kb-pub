@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Erdvilas
 
 ## Santrauka
-Šaltinyje Erdvilas apibūdinamas taip: Mindaugo brolėnas, pabėgęs pas Danielių ir įtrauktas į sąjungą prieš Mindaugą.
+Mindaugo brolėnas, pabėgęs pas Danielių ir įtrauktas į sąjungą prieš Mindaugą.
 
 ## Variantai
 - Erdvilo
@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Erdvilas apibūdinamas taip: Mindaugo brolėnas, pabėgęs pas Danielių ir įtrauktas į sąjungą prieš Mindaugą."
+  teiginys: "Mindaugo brolėnas, pabėgęs pas Danielių ir įtrauktas į sąjungą prieš Mindaugą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

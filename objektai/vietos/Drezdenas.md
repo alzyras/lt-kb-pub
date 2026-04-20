@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Drezdenas
 
 ## Santrauka
-Šaltinyje vieta „Drezdenas“ siejama su šiuo kontekstu: Minimas kaip miestas, kurį Prūsų kariuomenė užėmė ir kuriame buvo karaliaus perkelta pinigų kalykla. (t-001)
+Minimas kaip miestas, kurį Prūsų kariuomenė užėmė ir kuriame buvo karaliaus perkelta pinigų kalykla. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Drezdenas
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Drezdenas“ siejama su šiuo kontekstu: Minimas kaip miestas, kurį Prūsų kariuomenė užėmė ir kuriame buvo karaliaus perkelta pinigų kalykla."
+  teiginys: "Minimas kaip miestas, kurį Prūsų kariuomenė užėmė ir kuriame buvo karaliaus perkelta pinigų kalykla."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

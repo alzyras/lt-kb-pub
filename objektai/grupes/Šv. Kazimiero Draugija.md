@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Šv. Kazimiero Draugija
 
 ## Santrauka
-Šaltinyje „Šv. Kazimiero Draugija“ apibūdinama kaip draugija; kaune įkurta draugija knygoms ir laikraščiams leisti. (t-001)
+draugija; kaune įkurta draugija knygoms ir laikraščiams leisti. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Šv. Kazimiero Draugija
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: draugija
-Šaltinyje „Šv. Kazimiero Draugija“ apibūdinama kaip draugija; kaune įkurta draugija knygoms ir laikraščiams leisti. (t-001)
+draugija; kaune įkurta draugija knygoms ir laikraščiams leisti. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Šv. Kazimiero Draugija“ apibūdinama kaip draugija; kaune įkurta draugija knygoms ir laikraščiams leisti. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Šv. Kazimiero Draugija“ apibūdinama kaip draugija; kaune įkurta draugija knygoms ir laikraščiams leisti."
+  teiginys: "draugija; kaune įkurta draugija knygoms ir laikraščiams leisti."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

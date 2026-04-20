@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Seinai
 
 ## Santrauka
-Šaltinyje vieta „Seinai“ siejama su šiuo kontekstu: Minimi kaip vieta, kur pradėjo eiti laikraštis „Šaltinis“. (t-001)
+Minimi kaip vieta, kur pradėjo eiti laikraštis „Šaltinis“. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Seinai
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Seinai“ siejama su šiuo kontekstu: Minimi kaip vieta, kur pradėjo eiti laikraštis „Šaltinis“."
+  teiginys: "Minimi kaip vieta, kur pradėjo eiti laikraštis „Šaltinis“."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

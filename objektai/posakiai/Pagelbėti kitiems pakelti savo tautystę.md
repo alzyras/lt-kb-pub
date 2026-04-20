@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Pagelbėti kitiems pakelti savo tautystę
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Pagelbėti kitiems pakelti savo tautystę“; kontekstas: Susivienijimo Visų Lietuvininkų Amerikoje tikslas nusakytas kaip tautystės kėlimas per pagalbą kitiems. Reikšmė: Organizacijos tikslo formulė, skambanti kaip trumpas šūkis. (t-001)
+Užfiksuota formuluotė „Pagelbėti kitiems pakelti savo tautystę“; kontekstas: Susivienijimo Visų Lietuvininkų Amerikoje tikslas nusakytas kaip tautystės kėlimas per pagalbą kitiems. Reikšmė: Organizacijos tikslo formulė, skambanti kaip trumpas šūkis. (t-001)
 
 ## Forma
 - pagrindinė forma: Pagelbėti kitiems pakelti savo tautystę (t-001)
@@ -35,7 +35,7 @@ patikimumas: "vidutinis"
 - pagelbėti kitiems pakelti savo tautystę
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Susivienijimo Visų Lietuvininkų Amerikoje tikslas nusakytas kaip tautystės kėlimas per pagalbą kitiems. (t-001)
@@ -45,7 +45,7 @@ Organizacijos tikslo formulė, skambanti kaip trumpas šūkis. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Pagelbėti kitiems pakelti savo tautystę“; kontekstas: Susivienijimo Visų Lietuvininkų Amerikoje tikslas nusakytas kaip tautystės kėlimas per pagalbą kitiems."
+  teiginys: "Užfiksuota formuluotė „Pagelbėti kitiems pakelti savo tautystę“; kontekstas: Susivienijimo Visų Lietuvininkų Amerikoje tikslas nusakytas kaip tautystės kėlimas per pagalbą kitiems."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

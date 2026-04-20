@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Cėsys
 
 ## Santrauka
-Šaltinyje vieta „Cėsys“ siejama su šiuo kontekstu: Minimas kaip tolimiausias Mindaugo žygio taškas Livonijos ordino žemėje. (t-001)
+Minimas kaip tolimiausias Mindaugo žygio taškas Livonijos ordino žemėje. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Cėsys
@@ -49,7 +49,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Cėsys“ siejama su šiuo kontekstu: Minimas kaip tolimiausias Mindaugo žygio taškas Livonijos ordino žemėje."
+  teiginys: "Minimas kaip tolimiausias Mindaugo žygio taškas Livonijos ordino žemėje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # M. Vasmer
 
 ## Santrauka
-Šaltinyje M. Vasmer minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip baltų genčių rytinių ribų autorius.
+Bibliografijoje nurodytas kaip baltų genčių rytinių ribų autorius.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip baltų genčių rytinių ribų autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje M. Vasmer autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip baltų genčių rytinių ribų autorius."
+  teiginys: "Bibliografijoje nurodytas kaip baltų genčių rytinių ribų autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Fundacija
 
 ## Santrauka
-Šaltinyje „Fundacija“ vartojama taip: Fundas, įnašas arba išlaikymo kapitalas institucijai. (t-001)
+Fundas, įnašas arba išlaikymo kapitalas institucijai. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Fundacija
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: istorinis finansinis ir institu
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Fundacija“ vartojama taip: Fundas, įnašas arba išlaikymo kapitalas institucijai."
+  teiginys: "Fundas, įnašas arba išlaikymo kapitalas institucijai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Sarema
 
 ## Santrauka
-Šaltinyje vieta „Sarema“ siejama su šiuo kontekstu: Minima kaip vieta, į kurią lietuviai nusigaudavo per įlanką. (t-001)
+Minima kaip vieta, į kurią lietuviai nusigaudavo per įlanką. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Sarema
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Sarema“ siejama su šiuo kontekstu: Minima kaip vieta, į kurią lietuviai nusigaudavo per įlanką."
+  teiginys: "Minima kaip vieta, į kurią lietuviai nusigaudavo per įlanką."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

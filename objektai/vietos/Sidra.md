@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Sidra
 
 ## Santrauka
-Šaltinyje vieta „Sidra“ siejama su šiuo kontekstu: Minima kaip miestelis rytinės sienos apraše. (t-001)
+Minima kaip miestelis rytinės sienos apraše. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Sidra
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Sidra“ siejama su šiuo kontekstu: Minima kaip miestelis rytinės sienos apraše."
+  teiginys: "Minima kaip miestelis rytinės sienos apraše."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

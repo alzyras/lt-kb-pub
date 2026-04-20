@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 # Pravoslavai
 
 ## Santrauka
-Šaltinyje „Pravoslavai“ vartojama taip: Rytų krikščionys, stačiatikiai. (t-001)
+Rytų krikščionys, stačiatikiai. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Pravoslavai
@@ -56,7 +56,7 @@ Terminas šaltinyje vartojamas šiame kontekste: bažnytinė istorija, konfesini
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Pravoslavai“ vartojama taip: Rytų krikščionys, stačiatikiai."
+  teiginys: "Rytų krikščionys, stačiatikiai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

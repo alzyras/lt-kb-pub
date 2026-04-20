@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Kulmas
 
 ## Santrauka
-Šaltinyje vieta „Kulmas“ siejama su šiuo kontekstu: Minima kaip Kristijono veikimo vieta ir kaip prūsų puolama teritorija. (t-001)
+Minima kaip Kristijono veikimo vieta ir kaip prūsų puolama teritorija. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Kulmas
@@ -48,7 +48,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Kulmas“ siejama su šiuo kontekstu: Minima kaip Kristijono veikimo vieta ir kaip prūsų puolama teritorija."
+  teiginys: "Minima kaip Kristijono veikimo vieta ir kaip prūsų puolama teritorija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

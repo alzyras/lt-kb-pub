@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Vulfstanas
 
 ## Santrauka
-Šaltinyje Vulfstanas apibūdinamas taip: Įvardytas kaip IX amžiaus jūrininkas, kurio pasakojime aprašomi aisčiai.
+Įvardytas kaip IX amžiaus jūrininkas, kurio pasakojime aprašomi aisčiai.
 
 ## Variantai
 - Vulfstano
@@ -41,7 +41,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Vulfstanas apibūdinamas taip: Įvardytas kaip IX amžiaus jūrininkas, kurio pasakojime aprašomi aisčiai."
+  teiginys: "Įvardytas kaip IX amžiaus jūrininkas, kurio pasakojime aprašomi aisčiai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

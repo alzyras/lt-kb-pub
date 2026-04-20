@@ -34,7 +34,7 @@ patikimumas: "aukstas"
 # Prūsų kunigaikštija
 
 ## Santrauka
-Šaltinyje vieta „Prūsų kunigaikštija“ siejama su šiuo kontekstu: Minima kaip Brandenburgo elektoriams patekusi ir karo bei maro nualinta Prūsijos žemė. (t-001)
+Minima kaip Brandenburgo elektoriams patekusi ir karo bei maro nualinta Prūsijos žemė. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Prūsų kunigaikštija
@@ -54,7 +54,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Prūsų kunigaikštija“ siejama su šiuo kontekstu: Minima kaip Brandenburgo elektoriams patekusi ir karo bei maro nualinta Prūsijos žemė."
+  teiginys: "Minima kaip Brandenburgo elektoriams patekusi ir karo bei maro nualinta Prūsijos žemė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

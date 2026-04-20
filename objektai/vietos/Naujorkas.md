@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Naujorkas
 
 ## Santrauka
-Šaltinyje vieta „Naujorkas“ siejama su šiuo kontekstu: Minimas kaip Amerikos lietuvių seimo sušaukimo vieta. (t-001)
+Minimas kaip Amerikos lietuvių seimo sušaukimo vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Naujorkas
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Naujorkas“ siejama su šiuo kontekstu: Minimas kaip Amerikos lietuvių seimo sušaukimo vieta."
+  teiginys: "Minimas kaip Amerikos lietuvių seimo sušaukimo vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

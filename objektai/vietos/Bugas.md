@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Bugas
 
 ## Santrauka
-Šaltinyje vieta „Bugas“ siejama su šiuo kontekstu: Upė minima kaip vandens nutekėjimo kelias tarp Nemuno ir Vyslos baseinų. (t-001)
+Upė minima kaip vandens nutekėjimo kelias tarp Nemuno ir Vyslos baseinų. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Bugas
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Bugas“ siejama su šiuo kontekstu: Upė minima kaip vandens nutekėjimo kelias tarp Nemuno ir Vyslos baseinų."
+  teiginys: "Upė minima kaip vandens nutekėjimo kelias tarp Nemuno ir Vyslos baseinų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

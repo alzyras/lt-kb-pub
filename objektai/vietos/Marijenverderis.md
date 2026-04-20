@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Marijenverderis
 
 ## Santrauka
-Šaltinyje vieta „Marijenverderis“ siejama su šiuo kontekstu: Minima tarp prie Kauno statytų ir griautų ordino pilių. (t-001)
+Minima tarp prie Kauno statytų ir griautų ordino pilių. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Marijenverderis
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Marijenverderis“ siejama su šiuo kontekstu: Minima tarp prie Kauno statytų ir griautų ordino pilių."
+  teiginys: "Minima tarp prie Kauno statytų ir griautų ordino pilių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

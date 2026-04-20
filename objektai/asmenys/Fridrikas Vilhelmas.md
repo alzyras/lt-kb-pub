@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Fridrikas Vilhelmas
 
 ## Santrauka
-Šaltinyje Fridrikas Vilhelmas apibūdinamas taip: Minimas kaip Brandenburgo elektorius, nuo kurio kariuomenės apsigynė Prūsijoje.
+Minimas kaip Brandenburgo elektorius, nuo kurio kariuomenės apsigynė Prūsijoje.
 
 ## Variantai
 - Fridriko Vilhelmo
@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Fridrikas Vilhelmas apibūdinamas taip: Minimas kaip Brandenburgo elektorius, nuo kurio kariuomenės apsigynė Prūsijoje."
+  teiginys: "Minimas kaip Brandenburgo elektorius, nuo kurio kariuomenės apsigynė Prūsijoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

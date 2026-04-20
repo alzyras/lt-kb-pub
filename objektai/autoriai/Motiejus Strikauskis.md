@@ -31,7 +31,7 @@ patikimumas: "aukštas"
 # Motiejus Strikauskis
 
 ## Santrauka
-Šaltinyje Motiejus Strikauskis įvardytas kaip pirmosios spausdintos Lietuvos istorijos autorius; iliustracijos užrašas pateikia 1548-1582 m. datas ir sieja jį su 1582 m. „Kronikos“ leidimu.
+Motiejus Strikauskis įvardytas kaip pirmosios spausdintos Lietuvos istorijos autorius; iliustracijos užrašas pateikia 1548-1582 m. datas ir sieja jį su 1582 m. „Kronikos“ leidimu.
 
 ## Darbai
 - Įvardytas kaip pirmosios spausdintos Lietuvos istorijos autorius. (t-001)
@@ -43,7 +43,7 @@ patikimumas: "aukštas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Motiejus Strikauskis autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Įvardytas kaip pirmosios spausdintos Lietuvos istorijos autorius."
+  teiginys: "Įvardytas kaip pirmosios spausdintos Lietuvos istorijos autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

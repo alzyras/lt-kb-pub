@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # A. Bezcenbeigen
 
 ## Santrauka
-Šaltinyje A. Bezcenbeigen minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip veikalų apie lietuvių ir prūsų sieną autorius.
+Minimas kaip veikalų apie lietuvių ir prūsų sieną autorius.
 
 ## Darbai
 - Minimas kaip veikalų apie lietuvių ir prūsų sieną autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje A. Bezcenbeigen autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip veikalų apie lietuvių ir prūsų sieną autorius."
+  teiginys: "Minimas kaip veikalų apie lietuvių ir prūsų sieną autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

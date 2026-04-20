@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Prutas
 
 ## Santrauka
-Šaltinyje vieta „Prutas“ siejama su šiuo kontekstu: Minima kaip vieta, kur 1711 m. vos nežuvo caras Petras I. (t-001)
+Minima kaip vieta, kur 1711 m. vos nežuvo caras Petras I. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Prutas
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Prutas“ siejama su šiuo kontekstu: Minima kaip vieta, kur 1711 m. vos nežuvo caras Petras I."
+  teiginys: "Minima kaip vieta, kur 1711 m. vos nežuvo caras Petras I."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

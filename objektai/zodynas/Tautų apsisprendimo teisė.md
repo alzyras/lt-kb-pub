@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Tautų apsisprendimo teisė
 
 ## Santrauka
-Šaltinyje „Tautų apsisprendimo teisė“ vartojama taip: Tautų teisė pačioms spręsti dėl savo valstybingumo ir politinės ateities. (t-001)
+Tautų teisė pačioms spręsti dėl savo valstybingumo ir politinės ateities. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Tautų apsisprendimo teisė
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: politinė teorija, diplomatija.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Tautų apsisprendimo teisė“ vartojama taip: Tautų teisė pačioms spręsti dėl savo valstybingumo ir politinės ateities."
+  teiginys: "Tautų teisė pačioms spręsti dėl savo valstybingumo ir politinės ateities."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

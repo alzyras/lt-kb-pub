@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Juozapas II
 
 ## Santrauka
-Šaltinyje Juozapas II apibūdinamas taip: Minimas kaip Austrijos valdovas, vykdęs reformas ir pajungęs Bažnyčią valstybei.
+Minimas kaip Austrijos valdovas, vykdęs reformas ir pajungęs Bažnyčią valstybei.
 
 ## Variantai
 - Austrijos Juozapas II
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Juozapas II apibūdinamas taip: Minimas kaip Austrijos valdovas, vykdęs reformas ir pajungęs Bažnyčią valstybei."
+  teiginys: "Minimas kaip Austrijos valdovas, vykdęs reformas ir pajungęs Bažnyčią valstybei."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

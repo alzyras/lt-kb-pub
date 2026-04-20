@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Kalitos dinastija
 
 ## Santrauka
-Šaltinyje „Kalitos dinastija“ apibūdinama kaip dinastija; dinastija paminėta kaip Maskvos valdovų giminė, kuri baigėsi mirus Teodorui 1584 m. (t-001)
+dinastija; dinastija paminėta kaip Maskvos valdovų giminė, kuri baigėsi mirus Teodorui 1584 m. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Kalitos dinastija
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: dinastija
-Šaltinyje „Kalitos dinastija“ apibūdinama kaip dinastija; dinastija paminėta kaip Maskvos valdovų giminė, kuri baigėsi mirus Teodorui 1584 m. (t-001)
+dinastija; dinastija paminėta kaip Maskvos valdovų giminė, kuri baigėsi mirus Teodorui 1584 m. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Kalitos dinastija“ apibūdinama kaip dinastija; dinastija paminėta kaip Maskvos valdovų giminė, kuri baigėsi mirus Teodorui 1584 m. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kalitos dinastija“ apibūdinama kaip dinastija; dinastija paminėta kaip Maskvos valdovų giminė, kuri baigėsi mirus Teodorui 1584 m."
+  teiginys: "dinastija; dinastija paminėta kaip Maskvos valdovų giminė, kuri baigėsi mirus Teodorui 1584 m."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

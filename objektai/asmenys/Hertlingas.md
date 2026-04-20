@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Hertlingas
 
 ## Santrauka
-Šaltinyje Hertlingas apibūdinamas taip: Minimas kaip naujasis Vokietijos kancleris, su kuriuo vyko Tarybos delegacijos vizitas.
+Minimas kaip naujasis Vokietijos kancleris, su kuriuo vyko Tarybos delegacijos vizitas.
 
 ## Variantai
 - gr. Hertlingui
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Hertlingas apibūdinamas taip: Minimas kaip naujasis Vokietijos kancleris, su kuriuo vyko Tarybos delegacijos vizitas."
+  teiginys: "Minimas kaip naujasis Vokietijos kancleris, su kuriuo vyko Tarybos delegacijos vizitas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

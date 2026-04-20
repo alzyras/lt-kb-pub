@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Rusija
 
 ## Santrauka
-Šaltinyje vieta „Rusija“ siejama su šiais kontekstais: Šalis minima kaip Lietuvos istorijos medžiagos išvežimo ir archyvų saugojimo vieta; Minima kaip vieta, į kurią buvo vežami nuo karo ir bado bėgę žmonės, o vėliau kaip Rusijos valstybė Europos politikos kontekste. (t-001, t-002)
+Šalis minima kaip Lietuvos istorijos medžiagos išvežimo ir archyvų saugojimo vieta; Minima kaip vieta, į kurią buvo vežami nuo karo ir bado bėgę žmonės, o vėliau kaip Rusijos valstybė Europos politikos kontekste. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Rusija
@@ -53,19 +53,19 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Rusija“ siejama su šiuo kontekstu: Šalis minima kaip Lietuvos istorijos medžiagos išvežimo ir archyvų saugojimo vieta."
+  teiginys: "Šalis minima kaip Lietuvos istorijos medžiagos išvežimo ir archyvų saugojimo vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Rusija“ siejama su šiuo kontekstu: Minima kaip vieta, į kurią buvo vežami nuo karo ir bado bėgę žmonės, o vėliau kaip Rusijos valstybė Europos politikos kontekste."
+  teiginys: "Minima kaip vieta, į kurią buvo vežami nuo karo ir bado bėgę žmonės, o vėliau kaip Rusijos valstybė Europos politikos kontekste."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-003
-  teiginys: "Šaltinyje vieta „Rusija“ siejama su šiuo kontekstu: Minima kaip valstybė, kuri užėmė dalį Lietuvos padalijimo metu."
+  teiginys: "Minima kaip valstybė, kuri užėmė dalį Lietuvos padalijimo metu."
   pagrindžia:
     - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

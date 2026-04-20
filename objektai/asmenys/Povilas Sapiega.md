@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Povilas Sapiega
 
 ## Santrauka
-Šaltinyje Povilas Sapiega apibūdinamas taip: Minimas kaip Vitebsko ir Vilniaus vaivada, karaliui ištikimos kariuomenės regimentorius ir didysis hetmonas.
+Minimas kaip Vitebsko ir Vilniaus vaivada, karaliui ištikimos kariuomenės regimentorius ir didysis hetmonas.
 
 ## Variantai
 - Sapiega
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Povilas Sapiega apibūdinamas taip: Minimas kaip Vitebsko ir Vilniaus vaivada, karaliui ištikimos kariuomenės regimentorius ir didysis hetmonas."
+  teiginys: "Minimas kaip Vitebsko ir Vilniaus vaivada, karaliui ištikimos kariuomenės regimentorius ir didysis hetmonas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

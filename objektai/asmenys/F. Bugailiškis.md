@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # F. Bugailiškis
 
 ## Santrauka
-Šaltinyje F. Bugailiškis apibūdinamas taip: Minimas kaip kairiųjų srovių papildytas Vilniaus Komiteto narys.
+Minimas kaip kairiųjų srovių papildytas Vilniaus Komiteto narys.
 
 ## Variantai
 - F. Bugailiškiu
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje F. Bugailiškis apibūdinamas taip: Minimas kaip kairiųjų srovių papildytas Vilniaus Komiteto narys."
+  teiginys: "Minimas kaip kairiųjų srovių papildytas Vilniaus Komiteto narys."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

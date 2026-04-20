@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Haga
 
 ## Santrauka
-Šaltinyje vieta „Haga“ siejama su šiuo kontekstu: Minima kaip vieta, į kurios teismą Lietuvos vyriausybė pakvietė Lenkiją stoti. (t-001)
+Minima kaip vieta, į kurios teismą Lietuvos vyriausybė pakvietė Lenkiją stoti. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Haga
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Haga“ siejama su šiuo kontekstu: Minima kaip vieta, į kurios teismą Lietuvos vyriausybė pakvietė Lenkiją stoti."
+  teiginys: "Minima kaip vieta, į kurios teismą Lietuvos vyriausybė pakvietė Lenkiją stoti."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

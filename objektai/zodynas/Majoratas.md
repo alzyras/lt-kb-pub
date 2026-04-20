@@ -34,7 +34,7 @@ patikimumas: "vidutinis"
 # Majoratas
 
 ## Santrauka
-Šaltinyje „Majoratas“ vartojama taip: Paveldėjimo ir nuosavybės tvarka susaistyta dvarinė valda ar jos žemės. (t-001)
+Paveldėjimo ir nuosavybės tvarka susaistyta dvarinė valda ar jos žemės. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Majoratas
@@ -57,7 +57,7 @@ Terminas šaltinyje vartojamas šiame kontekste: žemės teisė, dvarų ir žem�
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Majoratas“ vartojama taip: Paveldėjimo ir nuosavybės tvarka susaistyta dvarinė valda ar jos žemės."
+  teiginys: "Paveldėjimo ir nuosavybės tvarka susaistyta dvarinė valda ar jos žemės."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

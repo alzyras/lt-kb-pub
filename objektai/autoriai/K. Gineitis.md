@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # K. Gineitis
 
 ## Santrauka
-Šaltinyje K. Gineitis minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip veikalų apie Amerikos lietuvius autorius.
+Minimas kaip veikalų apie Amerikos lietuvius autorius.
 
 ## Darbai
 - Minimas kaip veikalų apie Amerikos lietuvius autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje K. Gineitis autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip veikalų apie Amerikos lietuvius autorius."
+  teiginys: "Minimas kaip veikalų apie Amerikos lietuvius autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

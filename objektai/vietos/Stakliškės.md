@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Stakliškės
 
 ## Santrauka
-Šaltinyje vieta „Stakliškės“ siejama su šiuo kontekstu: Minima tarp vietų, kurias užėmė lenkai. (t-001)
+Minima tarp vietų, kurias užėmė lenkai. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Stakliškės
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Stakliškės“ siejama su šiuo kontekstu: Minima tarp vietų, kurias užėmė lenkai."
+  teiginys: "Minima tarp vietų, kurias užėmė lenkai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

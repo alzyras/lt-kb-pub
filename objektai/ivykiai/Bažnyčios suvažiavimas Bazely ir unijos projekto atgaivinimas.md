@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 
 ## Santrauka
 
-Šaltinyje minima, kad po Vytauto mirties unijos projektas vėl iškilo naujajame Bažnyčios suvažiavime Bazely, o jo reikalu daugiausia rūpinosi Švitrigaila. (t-001)
+minima, kad po Vytauto mirties unijos projektas vėl iškilo naujajame Bažnyčios suvažiavime Bazely, o jo reikalu daugiausia rūpinosi Švitrigaila. (t-001)
 
 ## Dalyviai ir vaidmenys
 
@@ -35,7 +35,7 @@ patikimumas: "aukstas"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje minima, kad po Vytauto mirties unijos projektas vėl iškilo naujajame Bažnyčios suvažiavime Bazely, o jo reikalu daugiausia rūpinosi Švitrigaila."
+  teiginys: "minima, kad po Vytauto mirties unijos projektas vėl iškilo naujajame Bažnyčios suvažiavime Bazely, o jo reikalu daugiausia rūpinosi Švitrigaila."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

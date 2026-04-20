@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # A. Bielenstein
 
 ## Santrauka
-Šaltinyje A. Bielenstein minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip baltų genčių ribų tyrėjas.
+Bibliografijoje nurodytas kaip baltų genčių ribų tyrėjas.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip baltų genčių ribų tyrėjas. (t-001)
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje A. Bielenstein autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip baltų genčių ribų tyrėjas."
+  teiginys: "Bibliografijoje nurodytas kaip baltų genčių ribų tyrėjas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

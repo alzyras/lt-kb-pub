@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Konstanca
 
 ## Santrauka
-Šaltinyje vieta „Konstanca“ siejama su šiuo kontekstu: Minima kaip Bažnyčios suvažiavimo vieta, kur spręstas Žemaičių klausimas. (t-001)
+Minima kaip Bažnyčios suvažiavimo vieta, kur spręstas Žemaičių klausimas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Konstanca
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Konstanca“ siejama su šiuo kontekstu: Minima kaip Bažnyčios suvažiavimo vieta, kur spręstas Žemaičių klausimas."
+  teiginys: "Minima kaip Bažnyčios suvažiavimo vieta, kur spręstas Žemaičių klausimas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

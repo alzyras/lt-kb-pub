@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Norblinas
 
 ## Santrauka
-Šaltinyje Norblinas apibūdinamas taip: Minimas braižinio antraštėje kaip valstiečio sodybos vaizdo autorius.
+Minimas braižinio antraštėje kaip valstiečio sodybos vaizdo autorius.
 
 ## Variantai
 - Norblino
@@ -42,7 +42,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Norblinas apibūdinamas taip: Minimas braižinio antraštėje kaip valstiečio sodybos vaizdo autorius."
+  teiginys: "Minimas braižinio antraštėje kaip valstiečio sodybos vaizdo autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

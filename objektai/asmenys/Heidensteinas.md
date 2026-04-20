@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # Heidensteinas
 
 ## Santrauka
-Šaltinyje Heidensteinas apibūdinamas taip: Raižinio antraštėje minimas kaip kelionės aprašymo autorius.
+Raižinio antraštėje minimas kaip kelionės aprašymo autorius.
 
 ## Variantai
 - Heidensteino
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Heidensteinas apibūdinamas taip: Raižinio antraštėje minimas kaip kelionės aprašymo autorius."
+  teiginys: "Raižinio antraštėje minimas kaip kelionės aprašymo autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

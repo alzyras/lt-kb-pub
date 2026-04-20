@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Uša
 
 ## Santrauka
-Šaltinyje vieta „Uša“ siejama su šiuo kontekstu: Minima rytinės sienos linijos apraše. (t-001)
+Minima rytinės sienos linijos apraše. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Uša
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Uša“ siejama su šiuo kontekstu: Minima rytinės sienos linijos apraše."
+  teiginys: "Minima rytinės sienos linijos apraše."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

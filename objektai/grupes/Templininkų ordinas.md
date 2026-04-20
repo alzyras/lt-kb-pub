@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Templininkų ordinas
 
 ## Santrauka
-Šaltinyje „Templininkų ordinas“ apibūdinama kaip ordinas; paminėtas kaip prancūziškas riterių ordino pavyzdys tame pačiame brolijų virtimo ordinais aiškinime. (t-001)
+ordinas; paminėtas kaip prancūziškas riterių ordino pavyzdys tame pačiame brolijų virtimo ordinais aiškinime. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Templininkų ordinas
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: ordinas
-Šaltinyje „Templininkų ordinas“ apibūdinama kaip ordinas; paminėtas kaip prancūziškas riterių ordino pavyzdys tame pačiame brolijų virtimo ordinais aiškinime. (t-001)
+ordinas; paminėtas kaip prancūziškas riterių ordino pavyzdys tame pačiame brolijų virtimo ordinais aiškinime. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Templininkų ordinas“ apibūdinama kaip ordinas; paminėtas kaip prancūziškas riterių ordino pavyzdys tame pačiame brolijų virtimo ordinais aiškinime. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Templininkų ordinas“ apibūdinama kaip ordinas; paminėtas kaip prancūziškas riterių ordino pavyzdys tame pačiame brolijų virtimo ordinais aiškinime."
+  teiginys: "ordinas; paminėtas kaip prancūziškas riterių ordino pavyzdys tame pačiame brolijų virtimo ordinais aiškinime."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

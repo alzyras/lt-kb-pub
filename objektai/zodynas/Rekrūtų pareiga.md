@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Rekrūtų pareiga
 
 ## Santrauka
-Šaltinyje „Rekrūtų pareiga“ vartojama taip: karo prievolė, rekrutų ėmimas į kariuomenę. (t-001)
+karo prievolė, rekrutų ėmimas į kariuomenę. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Rekrūtų pareiga
@@ -50,7 +50,7 @@ Terminas šaltinyje vartojamas šiame kontekste: karo prievolė, valstiečių pr
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Rekrūtų pareiga“ vartojama taip: karo prievolė, rekrutų ėmimas į kariuomenę."
+  teiginys: "karo prievolė, rekrutų ėmimas į kariuomenę."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Povilas Lukšys
 
 ## Santrauka
-Šaltinyje Povilas Lukšys apibūdinamas taip: Lietuvos kariuomenė prie Kėdainių laimėjo pirmą mūšį su bolševikais, bet žuvo pirmas fronto kareivis Povilas Lukšys.
+Lietuvos kariuomenė prie Kėdainių laimėjo pirmą mūšį su bolševikais, bet žuvo pirmas fronto kareivis Povilas Lukšys.
 
 ## Variantai
 - Lukšys
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Povilas Lukšys apibūdinamas taip: Lietuvos kariuomenė prie Kėdainių laimėjo pirmą mūšį su bolševikais, bet žuvo pirmas fronto kareivis Povilas Lukšys."
+  teiginys: "Lietuvos kariuomenė prie Kėdainių laimėjo pirmą mūšį su bolševikais, bet žuvo pirmas fronto kareivis Povilas Lukšys."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

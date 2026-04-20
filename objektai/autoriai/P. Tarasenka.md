@@ -29,7 +29,7 @@ patikimumas: "vidutinis"
 # P. Tarasenka
 
 ## Santrauka
-Šaltinyje P. Tarasenka minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip archeologijos ir piliakalnių tyrinėtojas.
+Bibliografijoje nurodytas kaip archeologijos ir piliakalnių tyrinėtojas.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip archeologijos ir piliakalnių tyrinėtojas. (t-001)
@@ -39,7 +39,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje P. Tarasenka autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip archeologijos ir piliakalnių tyrinėtojas."
+  teiginys: "Bibliografijoje nurodytas kaip archeologijos ir piliakalnių tyrinėtojas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

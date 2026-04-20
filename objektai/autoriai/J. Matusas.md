@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # J. Matusas
 
 ## Santrauka
-Šaltinyje J. Matusas minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip blaivybės brolijų Lietuvoje tyrimo autorius.
+Minimas kaip blaivybės brolijų Lietuvoje tyrimo autorius.
 
 ## Darbai
 - Minimas kaip blaivybės brolijų Lietuvoje tyrimo autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje J. Matusas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip blaivybės brolijų Lietuvoje tyrimo autorius."
+  teiginys: "Minimas kaip blaivybės brolijų Lietuvoje tyrimo autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

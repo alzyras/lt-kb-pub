@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Podolė
 
 ## Santrauka
-Šaltinyje vieta „Podolė“ siejama su šiais kontekstais: Minima kaip iš totorių atimta ir Gediminaičiams atiduota teritorija; Podolė minima kartu su Voluine kaip teritorija, dėl kurios Lietuva konfliktavo su Lenkija. (t-001, t-002)
+Minima kaip iš totorių atimta ir Gediminaičiams atiduota teritorija; Podolė minima kartu su Voluine kaip teritorija, dėl kurios Lietuva konfliktavo su Lenkija. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Podolė
@@ -48,13 +48,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Podolė“ siejama su šiuo kontekstu: Minima kaip iš totorių atimta ir Gediminaičiams atiduota teritorija."
+  teiginys: "Minima kaip iš totorių atimta ir Gediminaičiams atiduota teritorija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Podolė“ siejama su šiuo kontekstu: Podolė minima kartu su Voluine kaip teritorija, dėl kurios Lietuva konfliktavo su Lenkija."
+  teiginys: "Podolė minima kartu su Voluine kaip teritorija, dėl kurios Lietuva konfliktavo su Lenkija."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

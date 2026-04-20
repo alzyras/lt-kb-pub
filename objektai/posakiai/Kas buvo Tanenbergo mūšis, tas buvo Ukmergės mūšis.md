@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Kas buvo Tanenbergo mūšis, tas buvo Ukmergės mūšis
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Kas buvo Tanenbergo mūšis Prūsų kryžiuočiams, tas livoniškei ordino šakai buvo Ukmergės mūšis“; kontekstas: Aprašant Ukmergės mūšio padarinius, autorius šiuo palyginimu nusako mūšio reikšmę Livonijos ordino šakai. Reikšmė: Vaizdinga ir įsimintina formulė, pabrėžianti Ukmergės mūšio lūžinį poveikį ordinui. (t-001)
+Užfiksuota formuluotė „Kas buvo Tanenbergo mūšis Prūsų kryžiuočiams, tas livoniškei ordino šakai buvo Ukmergės mūšis“; kontekstas: Aprašant Ukmergės mūšio padarinius, autorius šiuo palyginimu nusako mūšio reikšmę Livonijos ordino šakai. Reikšmė: Vaizdinga ir įsimintina formulė, pabrėžianti Ukmergės mūšio lūžinį poveikį ordinui. (t-001)
 
 ## Forma
 - pagrindinė forma: Kas buvo Tanenbergo mūšis Prūsų kryžiuočiams, tas livoniškei ordino šakai buvo Ukmergės mūšis (t-001)
@@ -50,7 +50,7 @@ Vaizdinga ir įsimintina formulė, pabrėžianti Ukmergės mūšio lūžinį pov
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Kas buvo Tanenbergo mūšis Prūsų kryžiuočiams, tas livoniškei ordino šakai buvo Ukmergės mūšis“; kontekstas: Aprašant Ukmergės mūšio padarinius, autorius šiuo palyginimu nusako mūšio reikšmę Livonijos ordino šakai."
+  teiginys: "Užfiksuota formuluotė „Kas buvo Tanenbergo mūšis Prūsų kryžiuočiams, tas livoniškei ordino šakai buvo Ukmergės mūšis“; kontekstas: Aprašant Ukmergės mūšio padarinius, autorius šiuo palyginimu nusako mūšio reikšmę Livonijos ordino šakai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

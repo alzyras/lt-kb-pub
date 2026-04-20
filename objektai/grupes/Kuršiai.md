@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Kuršiai
 
 ## Santrauka
-Šaltinyje „Kuršiai“ apibūdinama kaip kiltis; kuršiai išvardijami kaip vakarinės dabartinės Latvijos dalies gyventojai. (t-001)
+kiltis; kuršiai išvardijami kaip vakarinės dabartinės Latvijos dalies gyventojai. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Kuršiai
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: kiltis
-Šaltinyje „Kuršiai“ apibūdinama kaip kiltis; kuršiai išvardijami kaip vakarinės dabartinės Latvijos dalies gyventojai. (t-001)
+kiltis; kuršiai išvardijami kaip vakarinės dabartinės Latvijos dalies gyventojai. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Kuršiai“ apibūdinama kaip kiltis; kuršiai išvardijami kaip vakarinės dabartinės Latvijos dalies gyventojai. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kuršiai“ apibūdinama kaip kiltis; kuršiai išvardijami kaip vakarinės dabartinės Latvijos dalies gyventojai."
+  teiginys: "kiltis; kuršiai išvardijami kaip vakarinės dabartinės Latvijos dalies gyventojai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

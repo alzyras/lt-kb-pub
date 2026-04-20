@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # J. Balčiūnas
 
 ## Santrauka
-Šaltinyje J. Balčiūnas minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip veikalų apie Napoleoną ir Vilnių autorius.
+Minimas kaip veikalų apie Napoleoną ir Vilnių autorius.
 
 ## Darbai
 - Minimas kaip veikalų apie Napoleoną ir Vilnių autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje J. Balčiūnas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip veikalų apie Napoleoną ir Vilnių autorius."
+  teiginys: "Minimas kaip veikalų apie Napoleoną ir Vilnių autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

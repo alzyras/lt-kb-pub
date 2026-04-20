@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Kaštelionas
 
 ## Santrauka
-Šaltinyje „Kaštelionas“ vartojama taip: Krašto administracijos arba pilies pareigūnas, įvestas lenkišku pavyzdžiu. (t-001)
+Krašto administracijos arba pilies pareigūnas, įvestas lenkišku pavyzdžiu. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Kaštelionas
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: valstybės valdymas, pareigybė
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kaštelionas“ vartojama taip: Krašto administracijos arba pilies pareigūnas, įvestas lenkišku pavyzdžiu."
+  teiginys: "Krašto administracijos arba pilies pareigūnas, įvestas lenkišku pavyzdžiu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

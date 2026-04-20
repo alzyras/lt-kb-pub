@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Pusdukatis
 
 ## Santrauka
-Šaltinyje „Pusdukatis“ vartojama taip: pusės dukato vertės auksinis pinigas. (t-001)
+pusės dukato vertės auksinis pinigas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Pusdukatis
@@ -50,7 +50,7 @@ Terminas šaltinyje vartojamas šiame kontekste: numizmatika, pinigų istorija. 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Pusdukatis“ vartojama taip: pusės dukato vertės auksinis pinigas."
+  teiginys: "pusės dukato vertės auksinis pinigas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

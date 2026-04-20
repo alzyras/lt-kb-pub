@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Birka
 
 ## Santrauka
-Šaltinyje vieta „Birka“ siejama su šiuo kontekstu: Miestas įvardytas kaip didžiausias prekybos centras, su kuriuo prekiavo aisčių giminės. (t-001)
+Miestas įvardytas kaip didžiausias prekybos centras, su kuriuo prekiavo aisčių giminės. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Birka
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Birka“ siejama su šiuo kontekstu: Miestas įvardytas kaip didžiausias prekybos centras, su kuriuo prekiavo aisčių giminės."
+  teiginys: "Miestas įvardytas kaip didžiausias prekybos centras, su kuriuo prekiavo aisčių giminės."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

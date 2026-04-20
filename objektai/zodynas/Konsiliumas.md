@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Konsiliumas
 
 ## Santrauka
-Šaltinyje „Konsiliumas“ vartojama taip: Visuotinis bažnytinis suvažiavimas. (t-001)
+Visuotinis bažnytinis suvažiavimas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Konsiliumas
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: bažnytinė istorija, lotynišk
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Konsiliumas“ vartojama taip: Visuotinis bažnytinis suvažiavimas."
+  teiginys: "Visuotinis bažnytinis suvažiavimas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

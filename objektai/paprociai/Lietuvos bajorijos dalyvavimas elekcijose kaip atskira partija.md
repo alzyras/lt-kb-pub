@@ -26,14 +26,13 @@ patikimumas: "vidutinis"
 # Lietuvos bajorijos dalyvavimas elekcijose kaip atskira partija
 
 ## Santrauka
-Šaltinyje minima praktika „Lietuvos bajorijos dalyvavimas elekcijose kaip atskira partija“ siejama su formuluote: Elekcijoje jie dalyvaudavo bendrai ir sudarydavo tik atskirą partiją. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos bajorija; kada atliekama: renkant naują karalių. (t-001)
+Elekcijoje jie dalyvaudavo bendrai ir sudarydavo tik atskirą partiją. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos bajorija; kada atliekama: renkant naują karalių. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Elekcijoje jie dalyvaudavo bendrai ir sudarydavo tik atskirą partiją
 
 ## Kas tai
-Šaltinyje minima praktika „Lietuvos bajorijos dalyvavimas elekcijose kaip atskira partija“ siejama su formuluote: Elekcijoje jie dalyvaudavo bendrai ir sudarydavo tik atskirą partiją. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos bajorija; kada atliekama: renkant naują karalių. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: Lietuvos bajorija (t-001)
 - kada atliekama: renkant naują karalių (t-001)
@@ -41,7 +40,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Lietuvos bajorijos dalyvavimas elekcijose kaip atskira partija“ siejama su formuluote: Elekcijoje jie dalyvaudavo bendrai ir sudarydavo tik atskirą partiją. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos bajorija; kada atliekama: renkant naują karalių."
+  teiginys: "Elekcijoje jie dalyvaudavo bendrai ir sudarydavo tik atskirą partiją. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos bajorija; kada atliekama: renkant naują karalių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -23,11 +23,11 @@ patikimumas: "aukstas"
 # Antanas Tizenhauzas
 
 ## Santrauka
-Šaltinyje Antanas Tizenhauzas apibūdinamas taip: Paminėtas kaip asmuo, kurio darbai ir nepasisekimai aptariami.
+Paminėtas kaip asmuo, kurio darbai ir nepasisekimai aptariami.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Antanas Tizenhauzas apibūdinamas taip: Paminėtas kaip asmuo, kurio darbai ir nepasisekimai aptariami."
+  teiginys: "Paminėtas kaip asmuo, kurio darbai ir nepasisekimai aptariami."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Dusburgas
 
 ## Santrauka
-Šaltinyje Dusburgas minimas kaip kronikininkas.
+Dusburgas minimas kaip kronikininkas.
 
 ## Darbai
 - Autorystės vaidmuo šaltinyje įvardytas kaip kronikininkas. (t-001)
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Dusburgas minimas kaip kronikininkas."
+  teiginys: "Dusburgas minimas kaip kronikininkas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

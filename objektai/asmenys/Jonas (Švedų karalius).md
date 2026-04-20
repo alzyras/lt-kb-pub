@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Jonas (Švedų karalius)
 
 ## Santrauka
-Šaltinyje Jonas (Švedų karalius) apibūdinamas taip: Minimas kaip Švedų karalius, statęs kandidatūrą į sostą per tarpuvaldį.
+Minimas kaip Švedų karalius, statęs kandidatūrą į sostą per tarpuvaldį.
 
 ## Variantai
 - Joną
@@ -33,7 +33,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Jonas (Švedų karalius) apibūdinamas taip: Minimas kaip Švedų karalius, statęs kandidatūrą į sostą per tarpuvaldį."
+  teiginys: "Minimas kaip Švedų karalius, statęs kandidatūrą į sostą per tarpuvaldį."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

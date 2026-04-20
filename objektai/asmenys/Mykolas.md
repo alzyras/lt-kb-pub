@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Mykolas
 
 ## Santrauka
-Šaltinyje Mykolas apibūdinamas taip: Kazimiero konkurentas, mėginęs susigrąžinti valdžią ir pabėgęs į Maskvą.
+Kazimiero konkurentas, mėginęs susigrąžinti valdžią ir pabėgęs į Maskvą.
 
 ## Variantai
 - Kazimiero konkurentas Mykolas
@@ -44,7 +44,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Mykolas apibūdinamas taip: Kazimiero konkurentas, mėginęs susigrąžinti valdžią ir pabėgęs į Maskvą."
+  teiginys: "Kazimiero konkurentas, mėginęs susigrąžinti valdžią ir pabėgęs į Maskvą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

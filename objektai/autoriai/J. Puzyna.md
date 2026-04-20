@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # J. Puzyna
 
 ## Santrauka
-Šaltinyje J. Puzyna minimas kaip autorius; šis vaidmuo siejamas su: Kim był i jak się nazywał Pukuwer.
+Kim był i jak się nazywał Pukuwer.
 
 ## Laikotarpis ir datos
 - 1935 m.
@@ -41,7 +41,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje J. Puzyna minimas kaip autorius, siejamas su: Kim był i jak się nazywał Pukuwer."
+  teiginys: "Kim był i jak się nazywał Pukuwer."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

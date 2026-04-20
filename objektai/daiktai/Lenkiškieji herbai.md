@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 # Lenkiškieji herbai
 
 ## Santrauka
-Šaltinyje „Lenkiškieji herbai“ siejamas su šiuo kontekstu: Šis kandidatas žymi heraldinius ženklus kaip simbolinius daiktus, kurie Horodlėje buvo suteikti Lietuvos bajorams.
+Šis kandidatas žymi heraldinius ženklus kaip simbolinius daiktus, kurie Horodlėje buvo suteikti Lietuvos bajorams.
 
 ## Pavadinimai šaltiniuose
 - Lenkiškųjų herbų suteikimas Lietuvos bajorams
@@ -55,11 +55,10 @@ patikimumas: "vidutinis"
 - date_end: 1413
 
 ## Kas tai
-Šaltinyje „Lenkiškieji herbai“ siejamas su šiuo kontekstu: Šis kandidatas žymi heraldinius ženklus kaip simbolinius daiktus, kurie Horodlėje buvo suteikti Lietuvos bajorams.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Lenkiškieji herbai“ siejamas su šiuo kontekstu: Šis kandidatas žymi heraldinius ženklus kaip simbolinius daiktus, kurie Horodlėje buvo suteikti Lietuvos bajorams."
+  teiginys: "Šis kandidatas žymi heraldinius ženklus kaip simbolinius daiktus, kurie Horodlėje buvo suteikti Lietuvos bajorams."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Barbora Radvilaitė
 
 ## Santrauka
-Šaltinyje Barbora Radvilaitė apibūdinamas taip: Paminėta kaip Zigmanto Augusto vedybų ir konflikto tema.
+Paminėta kaip Zigmanto Augusto vedybų ir konflikto tema.
 
 ## Variantai
 - Barboros Radvilaitės
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Barbora Radvilaitė apibūdinamas taip: Paminėta kaip Zigmanto Augusto vedybų ir konflikto tema."
+  teiginys: "Paminėta kaip Zigmanto Augusto vedybų ir konflikto tema."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

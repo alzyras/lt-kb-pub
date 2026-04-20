@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Du pliki kardai
 
 ## Santrauka
-Šaltinyje „Du pliki kardai“ kardai veikia kaip iššūkio ženklas, kuriuo ordino magistras ragina sąjungininkus pradėti mūšį.
+kardai veikia kaip iššūkio ženklas, kuriuo ordino magistras ragina sąjungininkus pradėti mūšį.
 
 ## Pavadinimai šaltiniuose
 - du plikus kardus
@@ -44,11 +44,10 @@ patikimumas: "aukstas"
 - date_end: 1410
 
 ## Kas tai
-Šaltinyje „Du pliki kardai“ kardai veikia kaip iššūkio ženklas, kuriuo ordino magistras ragina sąjungininkus pradėti mūšį.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Du pliki kardai“ kardai veikia kaip iššūkio ženklas, kuriuo ordino magistras ragina sąjungininkus pradėti mūšį."
+  teiginys: "kardai veikia kaip iššūkio ženklas, kuriuo ordino magistras ragina sąjungininkus pradėti mūšį."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

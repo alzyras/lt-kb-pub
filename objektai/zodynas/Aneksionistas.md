@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Aneksionistas
 
 ## Santrauka
-Šaltinyje „Aneksionistas“ vartojama taip: Prijungimo prie kitos valstybės šalininkas. (t-001)
+Prijungimo prie kitos valstybės šalininkas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Aneksionistas
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: politinė polemika, karo diplom
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Aneksionistas“ vartojama taip: Prijungimo prie kitos valstybės šalininkas."
+  teiginys: "Prijungimo prie kitos valstybės šalininkas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

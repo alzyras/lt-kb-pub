@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Egzekucija
 
 ## Santrauka
-Šaltinyje „Egzekucija“ vartojama taip: Įstatymų vykdymo ir valstybės dvarų susigrąžinimo politika. (t-001)
+Įstatymų vykdymo ir valstybės dvarų susigrąžinimo politika. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Egzekucija
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: teisės istorija, žemėvalda, 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Egzekucija“ vartojama taip: Įstatymų vykdymo ir valstybės dvarų susigrąžinimo politika."
+  teiginys: "Įstatymų vykdymo ir valstybės dvarų susigrąžinimo politika."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

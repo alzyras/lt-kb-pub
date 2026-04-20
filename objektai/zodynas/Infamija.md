@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Infamija
 
 ## Santrauka
-Šaltinyje „Infamija“ vartojama taip: Teisių atėmimo arba garbės netekimo sankcija senajame teisme. (t-001)
+Teisių atėmimo arba garbės netekimo sankcija senajame teisme. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Infamija
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: teisė, senoji teismo terminija
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Infamija“ vartojama taip: Teisių atėmimo arba garbės netekimo sankcija senajame teisme."
+  teiginys: "Teisių atėmimo arba garbės netekimo sankcija senajame teisme."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -23,11 +23,11 @@ patikimumas: "aukstas"
 # J. Šaulys
 
 ## Santrauka
-Šaltinyje J. Šaulys apibūdinamas taip: Minimas kaip Vykdomojo Komiteto biuro narys ir vėliau Lietuvos Tarybos narys.
+Minimas kaip Vykdomojo Komiteto biuro narys ir vėliau Lietuvos Tarybos narys.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje J. Šaulys apibūdinamas taip: Minimas kaip Vykdomojo Komiteto biuro narys ir vėliau Lietuvos Tarybos narys."
+  teiginys: "Minimas kaip Vykdomojo Komiteto biuro narys ir vėliau Lietuvos Tarybos narys."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

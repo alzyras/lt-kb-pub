@@ -35,7 +35,7 @@ patikimumas: "vidutinis"
 # J. Žilinskas
 
 ## Santrauka
-Šaltinyje J. Žilinskas minimas kaip redaktorius; šis vaidmuo siejamas su: „Tėvynę“.
+„Tėvynę“.
 
 ## Laikotarpis ir datos
 - 1896—1902 m.
@@ -48,7 +48,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje J. Žilinskas minimas kaip redaktorius, siejamas su: „Tėvynę“."
+  teiginys: "„Tėvynę“."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

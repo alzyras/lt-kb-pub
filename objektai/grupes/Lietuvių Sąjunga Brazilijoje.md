@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Lietuvių Sąjunga Brazilijoje
 
 ## Santrauka
-Šaltinyje „Lietuvių Sąjunga Brazilijoje“ apibūdinama kaip sąjunga; 1931 m. Brazilijoje susikūrusi lietuvių sąjunga ėmė leisti savaitraštį „Lietuvį Brazilijoje“. (t-001)
+sąjunga; 1931 m. Brazilijoje susikūrusi lietuvių sąjunga ėmė leisti savaitraštį „Lietuvį Brazilijoje“. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Lietuvių Sąjunga Brazilijoje
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: sąjunga
-Šaltinyje „Lietuvių Sąjunga Brazilijoje“ apibūdinama kaip sąjunga; 1931 m. Brazilijoje susikūrusi lietuvių sąjunga ėmė leisti savaitraštį „Lietuvį Brazilijoje“. (t-001)
+sąjunga; 1931 m. Brazilijoje susikūrusi lietuvių sąjunga ėmė leisti savaitraštį „Lietuvį Brazilijoje“. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Lietuvių Sąjunga Brazilijoje“ apibūdinama kaip sąjunga; 1931 m. Brazilijoje susikūrusi lietuvių sąjunga ėmė leisti savaitraštį „Lietuvį Brazilijoje“. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Lietuvių Sąjunga Brazilijoje“ apibūdinama kaip sąjunga; 1931 m. Brazilijoje susikūrusi lietuvių sąjunga ėmė leisti savaitraštį „Lietuvį Brazilijoje“."
+  teiginys: "sąjunga; 1931 m. Brazilijoje susikūrusi lietuvių sąjunga ėmė leisti savaitraštį „Lietuvį Brazilijoje“."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

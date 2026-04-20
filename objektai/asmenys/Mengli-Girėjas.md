@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Mengli-Girėjas
 
 ## Santrauka
-Šaltinyje Mengli-Girėjas apibūdinamas taip: Krimo ordos chanas, nuo 1466 m. perėjęs į Jono III pusę.
+Krimo ordos chanas, nuo 1466 m. perėjęs į Jono III pusę.
 
 ## Variantai
 - Mengli-Girėju
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Mengli-Girėjas apibūdinamas taip: Krimo ordos chanas, nuo 1466 m. perėjęs į Jono III pusę."
+  teiginys: "Krimo ordos chanas, nuo 1466 m. perėjęs į Jono III pusę."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

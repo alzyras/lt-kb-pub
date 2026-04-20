@@ -34,7 +34,7 @@ patikimumas: "aukstas"
 # Senatas
 
 ## Santrauka
-Šaltinyje „Senatas“ vartojama taip: Valstybės senatas, aukštųjų pareigūnų taryba. (t-001)
+Valstybės senatas, aukštųjų pareigūnų taryba. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Senatas
@@ -57,7 +57,7 @@ Terminas šaltinyje vartojamas šiame kontekste: valstybės valdymas, seimų ist
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Senatas“ vartojama taip: Valstybės senatas, aukštųjų pareigūnų taryba."
+  teiginys: "Valstybės senatas, aukštųjų pareigūnų taryba."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

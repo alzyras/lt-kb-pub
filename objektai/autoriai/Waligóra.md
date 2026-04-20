@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Waligóra
 
 ## Santrauka
-Šaltinyje Waligóra minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip veikalo apie Želigovskio Vilniaus užėmimą autorius.
+Minimas kaip veikalo apie Želigovskio Vilniaus užėmimą autorius.
 
 ## Darbai
 - Minimas kaip veikalo apie Želigovskio Vilniaus užėmimą autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Waligóra autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip veikalo apie Želigovskio Vilniaus užėmimą autorius."
+  teiginys: "Minimas kaip veikalo apie Želigovskio Vilniaus užėmimą autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

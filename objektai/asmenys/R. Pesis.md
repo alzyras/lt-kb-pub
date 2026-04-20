@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # R. Pesis
 
 ## Santrauka
-Šaltinyje R. Pesis apibūdinamas taip: Paminėtas kaip žemėlapius ir schemas braižęs asmuo.
+Paminėtas kaip žemėlapius ir schemas braižęs asmuo.
 
 ## Variantai
 - R. Pesiui
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje R. Pesis apibūdinamas taip: Paminėtas kaip žemėlapius ir schemas braižęs asmuo."
+  teiginys: "Paminėtas kaip žemėlapius ir schemas braižęs asmuo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -26,14 +26,13 @@ patikimumas: "vidutinis"
 # Kariuomenės konfederacija
 
 ## Santrauka
-Šaltinyje minima praktika „Kariuomenės konfederacija“ siejama su formuluote: Toks jų susibūrimas vadinosi kariuomenės konfederacija. Šaltinio kontekste nurodoma: kas atlieka: kareiviai; kada atliekama: kai ilgai nemokama alga. (t-001)
+Toks jų susibūrimas vadinosi kariuomenės konfederacija. Šaltinio kontekste nurodoma: kas atlieka: kareiviai; kada atliekama: kai ilgai nemokama alga. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Toks jų susibūrimas vadinosi kariuomenės konfederacija
 
 ## Kas tai
-Šaltinyje minima praktika „Kariuomenės konfederacija“ siejama su formuluote: Toks jų susibūrimas vadinosi kariuomenės konfederacija. Šaltinio kontekste nurodoma: kas atlieka: kareiviai; kada atliekama: kai ilgai nemokama alga. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: kareiviai (t-001)
 - kada atliekama: kai ilgai nemokama alga (t-001)
@@ -41,7 +40,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Kariuomenės konfederacija“ siejama su formuluote: Toks jų susibūrimas vadinosi kariuomenės konfederacija. Šaltinio kontekste nurodoma: kas atlieka: kareiviai; kada atliekama: kai ilgai nemokama alga."
+  teiginys: "Toks jų susibūrimas vadinosi kariuomenės konfederacija. Šaltinio kontekste nurodoma: kas atlieka: kareiviai; kada atliekama: kai ilgai nemokama alga."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

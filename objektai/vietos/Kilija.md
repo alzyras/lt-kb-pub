@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Kilija
 
 ## Santrauka
-Šaltinyje vieta „Kilija“ siejama su šiuo kontekstu: Minima kaip viena iš Dunojaus ir Dniestro žiočių sričių užimti numatytų vietų. (t-001)
+Minima kaip viena iš Dunojaus ir Dniestro žiočių sričių užimti numatytų vietų. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Kilija
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Kilija“ siejama su šiuo kontekstu: Minima kaip viena iš Dunojaus ir Dniestro žiočių sričių užimti numatytų vietų."
+  teiginys: "Minima kaip viena iš Dunojaus ir Dniestro žiočių sričių užimti numatytų vietų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Aukščiausioji Santarvininkių Taryba
 
 ## Santrauka
-Šaltinyje „Aukščiausioji Santarvininkių Taryba“ apibūdinama kaip taryba; santarvininkių aukščiausioji taryba, pasiūliusi paliaubas ir nustačiusi Kerzono liniją. (t-001)
+taryba; santarvininkių aukščiausioji taryba, pasiūliusi paliaubas ir nustačiusi Kerzono liniją. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Aukščiausioji Santarvininkių Taryba
@@ -46,14 +46,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: taryba
-Šaltinyje „Aukščiausioji Santarvininkių Taryba“ apibūdinama kaip taryba; santarvininkių aukščiausioji taryba, pasiūliusi paliaubas ir nustačiusi Kerzono liniją. (t-001)
+taryba; santarvininkių aukščiausioji taryba, pasiūliusi paliaubas ir nustačiusi Kerzono liniją. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Aukščiausioji Santarvininkių Taryba“ apibūdinama kaip taryba; santarvininkių aukščiausioji taryba, pasiūliusi paliaubas ir nustačiusi Kerzono liniją. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Aukščiausioji Santarvininkių Taryba“ apibūdinama kaip taryba; santarvininkių aukščiausioji taryba, pasiūliusi paliaubas ir nustačiusi Kerzono liniją."
+  teiginys: "taryba; santarvininkių aukščiausioji taryba, pasiūliusi paliaubas ir nustačiusi Kerzono liniją."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

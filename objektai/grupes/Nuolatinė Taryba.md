@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Nuolatinė Taryba
 
 ## Santrauka
-Šaltinyje „Nuolatinė Taryba“ apibūdinama kaip taryba; po II Respublikos padalinimo atgaivinta centrinė taryba, veikianti kaip valstybės valdymo organas. (t-001) Šaltinyje „Nuolatinė Taryba“ siejama su šiuo kontekstu: po II Respublikos padalinimo atgaivinta centrinė taryba, veikianti kaip valstybės valdymo organas. (t-002)
+taryba; po II Respublikos padalinimo atgaivinta centrinė taryba, veikianti kaip valstybės valdymo organas. (t-001) Šaltinyje „Nuolatinė Taryba“ siejama su šiuo kontekstu: po II Respublikos padalinimo atgaivinta centrinė taryba, veikianti kaip valstybės valdymo organas. (t-002)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Nuolatinė Taryba
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: taryba
-Šaltinyje „Nuolatinė Taryba“ apibūdinama kaip taryba; po II Respublikos padalinimo atgaivinta centrinė taryba, veikianti kaip valstybės valdymo organas. (t-001)
+taryba; po II Respublikos padalinimo atgaivinta centrinė taryba, veikianti kaip valstybės valdymo organas. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Nuolatinė Taryba“ apibūdinama kaip taryba; po II Respublikos padalinimo atgaivinta centrinė taryba, veikianti kaip valstybės valdymo organas. (t-001)
@@ -52,13 +52,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Nuolatinė Taryba“ apibūdinama kaip taryba; po II Respublikos padalinimo atgaivinta centrinė taryba, veikianti kaip valstybės valdymo organas."
+  teiginys: "taryba; po II Respublikos padalinimo atgaivinta centrinė taryba, veikianti kaip valstybės valdymo organas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Nuolatinė Taryba“ siejama su šiuo kontekstu: po II Respublikos padalinimo atgaivinta centrinė taryba, veikianti kaip valstybės valdymo organas."
+  teiginys: "po II Respublikos padalinimo atgaivinta centrinė taryba, veikianti kaip valstybės valdymo organas."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

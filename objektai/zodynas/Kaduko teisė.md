@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Kaduko teisė
 
 ## Santrauka
-Šaltinyje „Kaduko teisė“ vartojama taip: Beįpėdinio turto grįžimo valdovui teisė. (t-001)
+Beįpėdinio turto grįžimo valdovui teisė. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Kaduko teisė
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: teisės istorija, paveldėjimo 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kaduko teisė“ vartojama taip: Beįpėdinio turto grįžimo valdovui teisė."
+  teiginys: "Beįpėdinio turto grįžimo valdovui teisė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

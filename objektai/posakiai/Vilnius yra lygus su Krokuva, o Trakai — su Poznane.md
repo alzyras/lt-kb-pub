@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Vilnius yra lygus su Krokuva, o Trakai — su Poznane
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Vilnius yra lygus su Krokuva, o Trakai — su Poznane“; kontekstas: Lietuvių delegacija Varšuvos seime gina garbingas vietas ir lygiavertę Lietuvos padėtį su Lenkijos centrais. Reikšmė: Lakoniška lygybės formulė, pabrėžianti Vilniaus ir Trakų rangą derybose su lenkais. (t-001)
+Užfiksuota formuluotė „Vilnius yra lygus su Krokuva, o Trakai — su Poznane“; kontekstas: Lietuvių delegacija Varšuvos seime gina garbingas vietas ir lygiavertę Lietuvos padėtį su Lenkijos centrais. Reikšmė: Lakoniška lygybės formulė, pabrėžianti Vilniaus ir Trakų rangą derybose su lenkais. (t-001)
 
 ## Forma
 - pagrindinė forma: Vilnius yra lygus su Krokuva, o Trakai — su Poznane (t-001)
@@ -50,7 +50,7 @@ Lakoniška lygybės formulė, pabrėžianti Vilniaus ir Trakų rangą derybose s
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Vilnius yra lygus su Krokuva, o Trakai — su Poznane“; kontekstas: Lietuvių delegacija Varšuvos seime gina garbingas vietas ir lygiavertę Lietuvos padėtį su Lenkijos centrais."
+  teiginys: "Užfiksuota formuluotė „Vilnius yra lygus su Krokuva, o Trakai — su Poznane“; kontekstas: Lietuvių delegacija Varšuvos seime gina garbingas vietas ir lygiavertę Lietuvos padėtį su Lenkijos centrais."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

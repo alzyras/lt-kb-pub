@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Klingenbergas
 
 ## Santrauka
-Šaltinyje Klingenbergas apibūdinamas taip: Minimas kaip Kauno gubernatorius, atvykęs uždaryti Kražių bažnyčios.
+Minimas kaip Kauno gubernatorius, atvykęs uždaryti Kražių bažnyčios.
 
 ## Variantai
 - Kauno gubernatorius Klingenbergas
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Klingenbergas apibūdinamas taip: Minimas kaip Kauno gubernatorius, atvykęs uždaryti Kražių bažnyčios."
+  teiginys: "Minimas kaip Kauno gubernatorius, atvykęs uždaryti Kražių bažnyčios."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

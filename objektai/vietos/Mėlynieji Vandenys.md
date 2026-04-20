@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Mėlynieji Vandenys
 
 ## Santrauka
-Šaltinyje vieta „Mėlynieji Vandenys“ siejama su šiuo kontekstu: Minima kaip vieta, kur Algirdas sumušė totorius ir paėmė Kijevą. (t-001)
+Minima kaip vieta, kur Algirdas sumušė totorius ir paėmė Kijevą. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Mėlynieji Vandenys
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Mėlynieji Vandenys“ siejama su šiuo kontekstu: Minima kaip vieta, kur Algirdas sumušė totorius ir paėmė Kijevą."
+  teiginys: "Minima kaip vieta, kur Algirdas sumušė totorius ir paėmė Kijevą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

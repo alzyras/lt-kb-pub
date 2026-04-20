@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Reikia tik mokėti juos suprasti
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Reikia tik mokėti juos suprasti“; kontekstas: Aiškinant tautosakos, papročių ir prietarų reikšmę pabrėžiama, kad jų prasmę reikia mokėti perskaityti. Reikšmė: Tai trumpa, aforistinė autoriaus formuluotė apie kultūrinių liudijimų aiškinimą. (t-001)
+Užfiksuota formuluotė „Reikia tik mokėti juos suprasti“; kontekstas: Aiškinant tautosakos, papročių ir prietarų reikšmę pabrėžiama, kad jų prasmę reikia mokėti perskaityti. Reikšmė: Tai trumpa, aforistinė autoriaus formuluotė apie kultūrinių liudijimų aiškinimą. (t-001)
 
 ## Forma
 - pagrindinė forma: Reikia tik mokėti juos suprasti (t-001)
@@ -35,7 +35,7 @@ patikimumas: "vidutinis"
 - Reikia tik mokėti juos suprasti.
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Aiškinant tautosakos, papročių ir prietarų reikšmę pabrėžiama, kad jų prasmę reikia mokėti perskaityti. (t-001)
@@ -45,7 +45,7 @@ Tai trumpa, aforistinė autoriaus formuluotė apie kultūrinių liudijimų aišk
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Reikia tik mokėti juos suprasti“; kontekstas: Aiškinant tautosakos, papročių ir prietarų reikšmę pabrėžiama, kad jų prasmę reikia mokėti perskaityti."
+  teiginys: "Užfiksuota formuluotė „Reikia tik mokėti juos suprasti“; kontekstas: Aiškinant tautosakos, papročių ir prietarų reikšmę pabrėžiama, kad jų prasmę reikia mokėti perskaityti."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

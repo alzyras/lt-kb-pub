@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Lazdijai
 
 ## Santrauka
-Šaltinyje vieta „Lazdijai“ siejama su šiuo kontekstu: Minimi kaip vieta, netoli kurios lenkai sumušė Lietuvos kariuomenės dalį. (t-001)
+Minimi kaip vieta, netoli kurios lenkai sumušė Lietuvos kariuomenės dalį. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Lazdijai
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Lazdijai“ siejama su šiuo kontekstu: Minimi kaip vieta, netoli kurios lenkai sumušė Lietuvos kariuomenės dalį."
+  teiginys: "Minimi kaip vieta, netoli kurios lenkai sumušė Lietuvos kariuomenės dalį."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # C. Engel
 
 ## Santrauka
-Šaltinyje C. Engel minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip Memelio krašto priešistorės autorius.
+Bibliografijoje nurodytas kaip Memelio krašto priešistorės autorius.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip Memelio krašto priešistorės autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje C. Engel autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip Memelio krašto priešistorės autorius."
+  teiginys: "Bibliografijoje nurodytas kaip Memelio krašto priešistorės autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

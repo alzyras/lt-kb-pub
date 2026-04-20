@@ -30,7 +30,7 @@ patikimumas: "vidutinis"
 # Yra mūsų artimi ir broliai
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Yra mūsų artimi ir broliai, žmonės vienos su mumis prigimties, vieno tikėjimo, kurie mums darbuojasi, liedami prakaitą“; kontekstas: Vyskupo atsišaukime ši formuluotė pateikiama kaip kvietimas žiūrėti į valstiečius žmogiškiau. Reikšmė: Moralinis kreipinys apie valstiečių ir bajorijos žmogišką ryšį. (t-001)
+Užfiksuota formuluotė „Yra mūsų artimi ir broliai, žmonės vienos su mumis prigimties, vieno tikėjimo, kurie mums darbuojasi, liedami prakaitą“; kontekstas: Vyskupo atsišaukime ši formuluotė pateikiama kaip kvietimas žiūrėti į valstiečius žmogiškiau. Reikšmė: Moralinis kreipinys apie valstiečių ir bajorijos žmogišką ryšį. (t-001)
 
 ## Forma
 - pagrindinė forma: Yra mūsų artimi ir broliai, žmonės vienos su mumis prigimties, vieno tikėjimo, kurie mums darbuojasi, liedami prakaitą (t-001)
@@ -53,7 +53,7 @@ Moralinis kreipinys apie valstiečių ir bajorijos žmogišką ryšį. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Yra mūsų artimi ir broliai, žmonės vienos su mumis prigimties, vieno tikėjimo, kurie mums darbuojasi, liedami prakaitą“; kontekstas: Vyskupo atsišaukime ši formuluotė pateikiama kaip kvietimas žiūrėti į valstiečius žmogiškiau."
+  teiginys: "Užfiksuota formuluotė „Yra mūsų artimi ir broliai, žmonės vienos su mumis prigimties, vieno tikėjimo, kurie mums darbuojasi, liedami prakaitą“; kontekstas: Vyskupo atsišaukime ši formuluotė pateikiama kaip kvietimas žiūrėti į valstiečius žmogiškiau."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

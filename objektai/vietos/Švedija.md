@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Švedija
 
 ## Santrauka
-Šaltinyje vieta „Švedija“ siejama su šiais kontekstais: Šalis minima kaip vieta, į kurią per karus išvežta Lietuvos istorijos medžiagos; Švedija minima kaip viena iš valstybių, turėjusių dalį Livonijos. (t-001, t-002)
+Šalis minima kaip vieta, į kurią per karus išvežta Lietuvos istorijos medžiagos; Švedija minima kaip viena iš valstybių, turėjusių dalį Livonijos. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Švedija
@@ -48,13 +48,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Švedija“ siejama su šiuo kontekstu: Šalis minima kaip vieta, į kurią per karus išvežta Lietuvos istorijos medžiagos."
+  teiginys: "Šalis minima kaip vieta, į kurią per karus išvežta Lietuvos istorijos medžiagos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Švedija“ siejama su šiuo kontekstu: Švedija minima kaip viena iš valstybių, turėjusių dalį Livonijos."
+  teiginys: "Švedija minima kaip viena iš valstybių, turėjusių dalį Livonijos."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

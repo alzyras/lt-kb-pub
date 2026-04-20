@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Jėzuitų ordinas
 
 ## Santrauka
-Šaltinyje „Jėzuitų ordinas“ apibūdinama kaip vienuolių ordinas; ordinas įvardytas kaip nauja vienuolių organizacija, įkurta kovai su protestantizmu, o vėliau pakviestas į Lietuvą ir gavęs veiklos vietą Vilniuje. (t-001) Šaltinyje „Jėzuitų ordinas“ siejama su šiuo kontekstu: Ordinas įvardytas kaip nauja vienuolių organizacija, įkurta kovai su protestantizmu, o vėliau pakviestas į Lietuvą ir gavęs veiklos vietą Vilniuje. (t-002)
+vienuolių ordinas; ordinas įvardytas kaip nauja vienuolių organizacija, įkurta kovai su protestantizmu, o vėliau pakviestas į Lietuvą ir gavęs veiklos vietą Vilniuje. (t-001) Šaltinyje „Jėzuitų ordinas“ siejama su šiuo kontekstu: Ordinas įvardytas kaip nauja vienuolių organizacija, įkurta kovai su protestantizmu, o vėliau pakviestas į Lietuvą ir gavęs veiklos vietą Vilniuje. (t-002)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Jėzuitų ordinas
@@ -46,7 +46,7 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: vienuolių ordinas
-Šaltinyje „Jėzuitų ordinas“ apibūdinama kaip vienuolių ordinas; ordinas įvardytas kaip nauja vienuolių organizacija, įkurta kovai su protestantizmu, o vėliau pakviestas į Lietuvą ir gavęs veiklos vietą Vilniuje. (t-001)
+vienuolių ordinas; ordinas įvardytas kaip nauja vienuolių organizacija, įkurta kovai su protestantizmu, o vėliau pakviestas į Lietuvą ir gavęs veiklos vietą Vilniuje. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Jėzuitų ordinas“ apibūdinama kaip vienuolių ordinas; ordinas įvardytas kaip nauja vienuolių organizacija, įkurta kovai su protestantizmu, o vėliau pakviestas į Lietuvą ir gavęs veiklos vietą Vilniuje. (t-001)
@@ -54,13 +54,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Jėzuitų ordinas“ apibūdinama kaip vienuolių ordinas; ordinas įvardytas kaip nauja vienuolių organizacija, įkurta kovai su protestantizmu, o vėliau pakviestas į Lietuvą ir gavęs veiklos vietą Vilniuje."
+  teiginys: "vienuolių ordinas; ordinas įvardytas kaip nauja vienuolių organizacija, įkurta kovai su protestantizmu, o vėliau pakviestas į Lietuvą ir gavęs veiklos vietą Vilniuje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Jėzuitų ordinas“ siejama su šiuo kontekstu: Ordinas įvardytas kaip nauja vienuolių organizacija, įkurta kovai su protestantizmu, o vėliau pakviestas į Lietuvą ir gavęs veiklos vietą Vilniuje."
+  teiginys: "Ordinas įvardytas kaip nauja vienuolių organizacija, įkurta kovai su protestantizmu, o vėliau pakviestas į Lietuvą ir gavęs veiklos vietą Vilniuje."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Personalinė unija
 
 ## Santrauka
-Šaltinyje „Personalinė unija“ vartojama taip: Valstybių sąjunga su bendru valdovu, paliekant atskirą valstybingumą. (t-001)
+Valstybių sąjunga su bendru valdovu, paliekant atskirą valstybingumą. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Personalinė unija
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: valstybės santvarka, unijos is
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Personalinė unija“ vartojama taip: Valstybių sąjunga su bendru valdovu, paliekant atskirą valstybingumą."
+  teiginys: "Valstybių sąjunga su bendru valdovu, paliekant atskirą valstybingumą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

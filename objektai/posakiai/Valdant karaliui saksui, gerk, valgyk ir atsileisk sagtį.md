@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Valdant karaliui saksui, gerk, valgyk ir atsileisk sagtį
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Valdant karaliui saksui, gerk, valgyk ir atsileisk sagtį“; kontekstas: šis žinomas priežodis tekste siejamas su Augusto III laikų bajorijos puotavimu ir valstybės pakrikimu. Reikšmė: Ragina gerti, valgyti ir nevaržomai linksmai leisti laiką; tekste vartojama kaip nusakanti Saksų laikų nuotaiką formulė. (t-001)
+Užfiksuota formuluotė „Valdant karaliui saksui, gerk, valgyk ir atsileisk sagtį“; kontekstas: šis žinomas priežodis tekste siejamas su Augusto III laikų bajorijos puotavimu ir valstybės pakrikimu. Reikšmė: Ragina gerti, valgyti ir nevaržomai linksmai leisti laiką; tekste vartojama kaip nusakanti Saksų laikų nuotaiką formulė. (t-001)
 
 ## Forma
 - pagrindinė forma: Valdant karaliui saksui, gerk, valgyk ir atsileisk sagtį (t-001)
@@ -37,7 +37,7 @@ patikimumas: "vidutinis"
 - Valdant karaliui saksui, gerk, valgyk ir atsileisk sagtį
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 šis žinomas priežodis tekste siejamas su Augusto III laikų bajorijos puotavimu ir valstybės pakrikimu. (t-001)
@@ -47,7 +47,7 @@ Ragina gerti, valgyti ir nevaržomai linksmai leisti laiką; tekste vartojama ka
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Valdant karaliui saksui, gerk, valgyk ir atsileisk sagtį“; kontekstas: šis žinomas priežodis tekste siejamas su Augusto III laikų bajorijos puotavimu ir valstybės pakrikimu."
+  teiginys: "Užfiksuota formuluotė „Valdant karaliui saksui, gerk, valgyk ir atsileisk sagtį“; kontekstas: šis žinomas priežodis tekste siejamas su Augusto III laikų bajorijos puotavimu ir valstybės pakrikimu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Birka
 
 ## Santrauka
-Šaltinyje „Birka“ vartojama taip: Skaičiuojamoji lazdelė, naudota kaip kvitas ar vekselis atsiskaitymams. (t-001)
+Skaičiuojamoji lazdelė, naudota kaip kvitas ar vekselis atsiskaitymams. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Birka
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: prekyba, atsiskaitymo priemonė
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Birka“ vartojama taip: Skaičiuojamoji lazdelė, naudota kaip kvitas ar vekselis atsiskaitymams."
+  teiginys: "Skaičiuojamoji lazdelė, naudota kaip kvitas ar vekselis atsiskaitymams."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

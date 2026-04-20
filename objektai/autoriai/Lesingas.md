@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Lesingas
 
 ## Santrauka
-Šaltinyje Lesingas minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip vokiečių autoritetas, susižavėjęs lietuvių liaudies dainomis.
+Minimas kaip vokiečių autoritetas, susižavėjęs lietuvių liaudies dainomis.
 
 ## Darbai
 - Minimas kaip vokiečių autoritetas, susižavėjęs lietuvių liaudies dainomis. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Lesingas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip vokiečių autoritetas, susižavėjęs lietuvių liaudies dainomis."
+  teiginys: "Minimas kaip vokiečių autoritetas, susižavėjęs lietuvių liaudies dainomis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

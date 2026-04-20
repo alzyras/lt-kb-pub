@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Scholae piae
 
 ## Santrauka
-Šaltinyje „Scholae piae“ vartojama taip: Pijarų mokyklos, skirtos jaunuomenės auklėjimui. (t-001)
+Pijarų mokyklos, skirtos jaunuomenės auklėjimui. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Scholae piae
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: švietimo istorija, lotyniška 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Scholae piae“ vartojama taip: Pijarų mokyklos, skirtos jaunuomenės auklėjimui."
+  teiginys: "Pijarų mokyklos, skirtos jaunuomenės auklėjimui."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

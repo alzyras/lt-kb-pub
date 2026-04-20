@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Augustas II
 
 ## Santrauka
-Šaltinyje Augustas II apibūdinamas taip: Paminėtas kaip elekcijos ir valdžios laikotarpio tema. Šaltinyje Augustas II apibūdinamas taip: Apibūdinamas kaip nerūpestingas ir palaidūniškas valdovas, kurio laikais valstybė dar labiau pakriko. Iš viso šiame šaltinyje panaudota 3 reikšmingų paminėjimų.
+Paminėtas kaip elekcijos ir valdžios laikotarpio tema. Apibūdinamas kaip nerūpestingas ir palaidūniškas valdovas, kurio laikais valstybė dar labiau pakriko. Iš viso šiame šaltinyje panaudota 3 reikšmingų paminėjimų.
 
 ## Variantai
 - Augusto II
@@ -43,19 +43,19 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Augustas II apibūdinamas taip: Paminėtas kaip elekcijos ir valdžios laikotarpio tema."
+  teiginys: "Paminėtas kaip elekcijos ir valdžios laikotarpio tema."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje Augustas II apibūdinamas taip: Apibūdinamas kaip nerūpestingas ir palaidūniškas valdovas, kurio laikais valstybė dar labiau pakriko."
+  teiginys: "nerūpestingas ir palaidūniškas valdovas, kurio laikais valstybė dar labiau pakriko."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-003
-  teiginys: "Šaltinyje Augustas II apibūdinamas taip: Minimas kaip valdovas, kurio laikais kalykla Lietuvoje veikė trumpai."
+  teiginys: "Minimas kaip valdovas, kurio laikais kalykla Lietuvoje veikė trumpai."
   pagrindžia:
     - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

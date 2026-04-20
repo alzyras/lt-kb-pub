@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # H. Lowmiański
 
 ## Santrauka
-Šaltinyje H. Lowmiański minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip ankstyvosios Lietuvos visuomenės ir valstybės tyrėjas.
+Bibliografijoje nurodytas kaip ankstyvosios Lietuvos visuomenės ir valstybės tyrėjas.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip ankstyvosios Lietuvos visuomenės ir valstybės tyrėjas. (t-001)
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje H. Lowmiański autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip ankstyvosios Lietuvos visuomenės ir valstybės tyrėjas."
+  teiginys: "Bibliografijoje nurodytas kaip ankstyvosios Lietuvos visuomenės ir valstybės tyrėjas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

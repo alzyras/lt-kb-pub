@@ -30,7 +30,7 @@ patikimumas: "vidutinis"
 # Abraomas Kulvietis
 
 ## Santrauka
-Šaltinyje Abraomas Kulvietis minimas kaip vienas lietuviškų protestantiškų knygų autorių; atskiras fragmentas nurodo, kad 1538 m. jis Vilniuje buvo atidaręs protestantiškąją mokyklą.
+Abraomas Kulvietis minimas kaip vienas lietuviškų protestantiškų knygų autorių; atskiras fragmentas nurodo, kad 1538 m. jis Vilniuje buvo atidaręs protestantiškąją mokyklą.
 
 ## Laikotarpis ir datos
 - 1538 m.
@@ -45,13 +45,13 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Abraomas Kulvietis minimas kaip autorius, siejamas su: lietuviškos protestantiškos knygos."
+  teiginys: "lietuviškos protestantiškos knygos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje nurodoma, kad 1538 m. Abraomas Kulvietis Vilniuje buvo atidaręs protestantiškąją mokyklą."
+  teiginys: "nurodoma, kad 1538 m. Abraomas Kulvietis Vilniuje buvo atidaręs protestantiškąją mokyklą."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

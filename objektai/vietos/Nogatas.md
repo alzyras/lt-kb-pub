@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Nogatas
 
 ## Santrauka
-Šaltinyje vieta „Nogatas“ siejama su šiuo kontekstu: Minima kaip vandens kelio atkarpa prieš pasiekiant Vyslą ir Dancigą. (t-001)
+Minima kaip vandens kelio atkarpa prieš pasiekiant Vyslą ir Dancigą. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Nogatas
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Nogatas“ siejama su šiuo kontekstu: Minima kaip vandens kelio atkarpa prieš pasiekiant Vyslą ir Dancigą."
+  teiginys: "Minima kaip vandens kelio atkarpa prieš pasiekiant Vyslą ir Dancigą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

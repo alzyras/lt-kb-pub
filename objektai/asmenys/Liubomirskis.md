@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # Liubomirskis
 
 ## Santrauka
-Šaltinyje Liubomirskis apibūdinamas taip: Minimas kaip Lenkijos hetmonas, sukėlęs maištą prieš karalių ir jo politiką.
+Minimas kaip Lenkijos hetmonas, sukėlęs maištą prieš karalių ir jo politiką.
 
 ## Variantai
 - Liubomirskį
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Liubomirskis apibūdinamas taip: Minimas kaip Lenkijos hetmonas, sukėlęs maištą prieš karalių ir jo politiką."
+  teiginys: "Minimas kaip Lenkijos hetmonas, sukėlęs maištą prieš karalių ir jo politiką."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

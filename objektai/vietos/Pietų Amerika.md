@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Pietų Amerika
 
 ## Santrauka
-Šaltinyje vieta „Pietų Amerika“ siejama su šiuo kontekstu: Minima kaip lietuvių sklaidos regionas greta Šiaurės Amerikos. (t-001)
+Minima kaip lietuvių sklaidos regionas greta Šiaurės Amerikos. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Pietų Amerika
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Pietų Amerika“ siejama su šiuo kontekstu: Minima kaip lietuvių sklaidos regionas greta Šiaurės Amerikos."
+  teiginys: "Minima kaip lietuvių sklaidos regionas greta Šiaurės Amerikos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

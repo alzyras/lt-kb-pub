@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Ne ginklas, bet diplomatija
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Ne ginklas, bet diplomatija“; kontekstas: Gediminas apibūdinamas kaip valdovas, priešus įveikiantis pirmiausia diplomatinėmis priemonėmis, o ne karo jėga. Reikšmė: Trumpa, aforistinė priešprieša tarp karo ir diplomatijos. (t-001)
+Užfiksuota formuluotė „Ne ginklas, bet diplomatija“; kontekstas: Gediminas apibūdinamas kaip valdovas, priešus įveikiantis pirmiausia diplomatinėmis priemonėmis, o ne karo jėga. Reikšmė: Trumpa, aforistinė priešprieša tarp karo ir diplomatijos. (t-001)
 
 ## Forma
 - pagrindinė forma: Ne ginklas, bet diplomatija (t-001)
@@ -35,7 +35,7 @@ patikimumas: "vidutinis"
 - ne ginklas, bet diplomatija.
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Gediminas apibūdinamas kaip valdovas, priešus įveikiantis pirmiausia diplomatinėmis priemonėmis, o ne karo jėga. (t-001)
@@ -45,7 +45,7 @@ Trumpa, aforistinė priešprieša tarp karo ir diplomatijos. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Ne ginklas, bet diplomatija“; kontekstas: Gediminas apibūdinamas kaip valdovas, priešus įveikiantis pirmiausia diplomatinėmis priemonėmis, o ne karo jėga."
+  teiginys: "Užfiksuota formuluotė „Ne ginklas, bet diplomatija“; kontekstas: Gediminas apibūdinamas kaip valdovas, priešus įveikiantis pirmiausia diplomatinėmis priemonėmis, o ne karo jėga."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

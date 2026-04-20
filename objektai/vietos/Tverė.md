@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Tverė
 
 ## Santrauka
-Šaltinyje vieta „Tverė“ siejama su šiuo kontekstu: Minima kaip galingiausia rusų kunigaikštystė prie Maskvos. (t-001)
+Minima kaip galingiausia rusų kunigaikštystė prie Maskvos. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Tverė
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Tverė“ siejama su šiuo kontekstu: Minima kaip galingiausia rusų kunigaikštystė prie Maskvos."
+  teiginys: "Minima kaip galingiausia rusų kunigaikštystė prie Maskvos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

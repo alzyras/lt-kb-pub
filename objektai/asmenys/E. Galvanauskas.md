@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # E. Galvanauskas
 
 ## Santrauka
-Šaltinyje E. Galvanauskas apibūdinamas taip: Minimas kaip derybas vedęs asmuo, įvertinęs Tautų Sąjungos rekomendaciją dėl Vilniaus srities.
+Minimas kaip derybas vedęs asmuo, įvertinęs Tautų Sąjungos rekomendaciją dėl Vilniaus srities.
 
 ## Variantai
 - E. Galvanausko
@@ -33,7 +33,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje E. Galvanauskas apibūdinamas taip: Minimas kaip derybas vedęs asmuo, įvertinęs Tautų Sąjungos rekomendaciją dėl Vilniaus srities."
+  teiginys: "Minimas kaip derybas vedęs asmuo, įvertinęs Tautų Sąjungos rekomendaciją dėl Vilniaus srities."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

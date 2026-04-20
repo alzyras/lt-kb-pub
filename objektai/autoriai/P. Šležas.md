@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # P. Šležas
 
 ## Santrauka
-Šaltinyje P. Šležas minimas autorystės, redagavimo arba tyrimo kontekste: Įvardytas kaip rusų valdymo laikų autorius.
+Įvardytas kaip rusų valdymo laikų autorius.
 
 ## Darbai
 - Įvardytas kaip rusų valdymo laikų autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje P. Šležas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Įvardytas kaip rusų valdymo laikų autorius."
+  teiginys: "Įvardytas kaip rusų valdymo laikų autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

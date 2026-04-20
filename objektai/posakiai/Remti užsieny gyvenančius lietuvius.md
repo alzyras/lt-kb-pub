@@ -30,7 +30,7 @@ patikimumas: "vidutinis"
 # Remti užsieny gyvenančius lietuvius
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Remti užsieny gyvenančius lietuvius kultūriškai, o kiek galint ir materialiai“; kontekstas: Aprašant 1932 m. įsikūrusią Draugiją Užsienio Lietuviams Remti nusakomas jos tikslas. Reikšmė: Organizacijos tikslo formulė, aiškiai nusakanti pagalbos užsienio lietuviams kryptį. (t-001)
+Užfiksuota formuluotė „Remti užsieny gyvenančius lietuvius kultūriškai, o kiek galint ir materialiai“; kontekstas: Aprašant 1932 m. įsikūrusią Draugiją Užsienio Lietuviams Remti nusakomas jos tikslas. Reikšmė: Organizacijos tikslo formulė, aiškiai nusakanti pagalbos užsienio lietuviams kryptį. (t-001)
 
 ## Forma
 - pagrindinė forma: Remti užsieny gyvenančius lietuvius kultūriškai, o kiek galint ir materialiai (t-001)
@@ -53,7 +53,7 @@ Organizacijos tikslo formulė, aiškiai nusakanti pagalbos užsienio lietuviams 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Remti užsieny gyvenančius lietuvius kultūriškai, o kiek galint ir materialiai“; kontekstas: Aprašant 1932 m. įsikūrusią Draugiją Užsienio Lietuviams Remti nusakomas jos tikslas."
+  teiginys: "Užfiksuota formuluotė „Remti užsieny gyvenančius lietuvius kultūriškai, o kiek galint ir materialiai“; kontekstas: Aprašant 1932 m. įsikūrusią Draugiją Užsienio Lietuviams Remti nusakomas jos tikslas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

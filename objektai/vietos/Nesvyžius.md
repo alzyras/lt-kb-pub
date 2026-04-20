@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Nesvyžius
 
 ## Santrauka
-Šaltinyje vieta „Nesvyžius“ siejama su šiuo kontekstu: Minimas kaip Radvilų liejyklos vieta. (t-001)
+Minimas kaip Radvilų liejyklos vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Nesvyžius
@@ -49,7 +49,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Nesvyžius“ siejama su šiuo kontekstu: Minimas kaip Radvilų liejyklos vieta."
+  teiginys: "Minimas kaip Radvilų liejyklos vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

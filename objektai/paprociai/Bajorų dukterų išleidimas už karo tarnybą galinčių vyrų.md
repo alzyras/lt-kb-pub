@@ -26,14 +26,13 @@ patikimumas: "vidutinis"
 # Bajorų dukterų išleidimas už karo tarnybą galinčių vyrų
 
 ## Santrauka
-Šaltinyje minima praktika „Bajorų dukterų išleidimas už karo tarnybą galinčių vyrų“ siejama su formuluote: kunigaikštis rūpindavosi išleisti jas už tokių vyrų, kurie galėtų atlikti karo tarnybą. Šaltinio kontekste nurodoma: kas atlieka: kunigaikštis; kada atliekama: kai likdavo vienos tik dukterys. (t-001)
+kunigaikštis rūpindavosi išleisti jas už tokių vyrų, kurie galėtų atlikti karo tarnybą. Šaltinio kontekste nurodoma: kas atlieka: kunigaikštis; kada atliekama: kai likdavo vienos tik dukterys. (t-001)
 
 ## Pavadinimai šaltiniuose
 - kunigaikštis rūpindavosi išleisti jas už tokių vyrų, kurie galėtų atlikti karo tarnybą
 
 ## Kas tai
-Šaltinyje minima praktika „Bajorų dukterų išleidimas už karo tarnybą galinčių vyrų“ siejama su formuluote: kunigaikštis rūpindavosi išleisti jas už tokių vyrų, kurie galėtų atlikti karo tarnybą. Šaltinio kontekste nurodoma: kas atlieka: kunigaikštis; kada atliekama: kai likdavo vienos tik dukterys. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: kunigaikštis (t-001)
 - kada atliekama: kai likdavo vienos tik dukterys (t-001)
@@ -41,7 +40,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Bajorų dukterų išleidimas už karo tarnybą galinčių vyrų“ siejama su formuluote: kunigaikštis rūpindavosi išleisti jas už tokių vyrų, kurie galėtų atlikti karo tarnybą. Šaltinio kontekste nurodoma: kas atlieka: kunigaikštis; kada atliekama: kai likdavo vienos tik dukterys."
+  teiginys: "kunigaikštis rūpindavosi išleisti jas už tokių vyrų, kurie galėtų atlikti karo tarnybą. Šaltinio kontekste nurodoma: kas atlieka: kunigaikštis; kada atliekama: kai likdavo vienos tik dukterys."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

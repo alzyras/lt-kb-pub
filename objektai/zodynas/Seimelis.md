@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Seimelis
 
 ## Santrauka
-Šaltinyje „Seimelis“ vartojama taip: Vietos bajorų seimas arba apskrities seimas. (t-001)
+Vietos bajorų seimas arba apskrities seimas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Seimelis
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: seimų istorija, bajorų atstov
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Seimelis“ vartojama taip: Vietos bajorų seimas arba apskrities seimas."
+  teiginys: "Vietos bajorų seimas arba apskrities seimas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

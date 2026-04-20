@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Magnusas
 
 ## Santrauka
-Šaltinyje Magnusas apibūdinamas taip: 1577 m. jis buvo karūnuotas Livonijos karaliumi, o caro ir Magnuso kariuomenė tuomet ėmė vieną miestą po kito.
+1577 m. jis buvo karūnuotas Livonijos karaliumi, o caro ir Magnuso kariuomenė tuomet ėmė vieną miestą po kito.
 
 ## Variantai
 - Magnusu
@@ -44,7 +44,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Magnusas apibūdinamas taip: 1577 m. jis buvo karūnuotas Livonijos karaliumi, o caro ir Magnuso kariuomenė tuomet ėmė vieną miestą po kito."
+  teiginys: "1577 m. jis buvo karūnuotas Livonijos karaliumi, o caro ir Magnuso kariuomenė tuomet ėmė vieną miestą po kito."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

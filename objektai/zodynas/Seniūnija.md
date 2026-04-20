@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Seniūnija
 
 ## Santrauka
-Šaltinyje „Seniūnija“ vartojama taip: Valstybinis dvaras arba administracinė valda, duodama valdyti bajorui. (t-001)
+Valstybinis dvaras arba administracinė valda, duodama valdyti bajorui. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Seniūnija
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: žemėvalda, valstybės iždas,
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Seniūnija“ vartojama taip: Valstybinis dvaras arba administracinė valda, duodama valdyti bajorui."
+  teiginys: "Valstybinis dvaras arba administracinė valda, duodama valdyti bajorui."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

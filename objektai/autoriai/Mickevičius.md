@@ -29,7 +29,7 @@ patikimumas: "vidutinis"
 # Mickevičius
 
 ## Santrauka
-Šaltinyje Mickevičius minimas kaip poetas, rašytojas; šis vaidmuo siejamas su: raštai, susiję su Lietuvos istorija; poezija..
+raštai, susiję su Lietuvos istorija; poezija..
 
 ## Darbai
 - raštai, susiję su Lietuvos istorija; poezija.. (t-001)
@@ -39,7 +39,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Mickevičius minimas kaip poetas, rašytojas, siejamas su: raštai, susiję su Lietuvos istorija; poezija.."
+  teiginys: "raštai, susiję su Lietuvos istorija; poezija.."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

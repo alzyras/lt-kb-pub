@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Liublinas
 
 ## Santrauka
-Šaltinyje vieta „Liublinas“ siejama su šiuo kontekstu: Liublinas minimas kaip specialaus unijos seimo vieta. (t-001)
+Liublinas minimas kaip specialaus unijos seimo vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Liublinas
@@ -49,7 +49,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Liublinas“ siejama su šiuo kontekstu: Liublinas minimas kaip specialaus unijos seimo vieta."
+  teiginys: "Liublinas minimas kaip specialaus unijos seimo vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

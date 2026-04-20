@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Marijampolė
 
 ## Santrauka
-Šaltinyje vieta „Marijampolė“ siejama su šiuo kontekstu: Minima kaip Napoleono kariuomenės atsitraukimo maršruto miestas. (t-001)
+Minima kaip Napoleono kariuomenės atsitraukimo maršruto miestas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Marijampolė
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Marijampolė“ siejama su šiuo kontekstu: Minima kaip Napoleono kariuomenės atsitraukimo maršruto miestas."
+  teiginys: "Minima kaip Napoleono kariuomenės atsitraukimo maršruto miestas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

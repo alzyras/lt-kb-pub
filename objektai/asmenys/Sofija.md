@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Sofija
 
 ## Santrauka
-Šaltinyje Sofija apibūdinamas taip: Vytauto duktė, Vosyliaus sužadėtinė.
+Vytauto duktė, Vosyliaus sužadėtinė.
 
 ## Variantai
 - Sofiją
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Sofija apibūdinamas taip: Vytauto duktė, Vosyliaus sužadėtinė."
+  teiginys: "Vytauto duktė, Vosyliaus sužadėtinė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

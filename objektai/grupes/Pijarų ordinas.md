@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Pijarų ordinas
 
 ## Santrauka
-Šaltinyje „Pijarų ordinas“ apibūdinama kaip vienuolių ordinas; pijarų ordinas apibūdinamas kaip vėliau į Lietuvą atsikraustęs vienuolių ordinas, kurio nariai rūpinosi jaunuomenės auklėjimu ir dievobaimingomis mokyklomis. (t-001) Šaltinyje „Pijarų ordinas“ siejama su šiuo kontekstu: Pijarų ordinas apibūdinamas kaip vėliau į Lietuvą atsikraustęs vienuolių ordinas, kurio nariai rūpinosi jaunuomenės auklėjimu ir dievobaimingomis mokyklomis. (t-002)
+vienuolių ordinas; pijarų ordinas apibūdinamas kaip vėliau į Lietuvą atsikraustęs vienuolių ordinas, kurio nariai rūpinosi jaunuomenės auklėjimu ir dievobaimingomis mokyklomis. (t-001) Šaltinyje „Pijarų ordinas“ siejama su šiuo kontekstu: Pijarų ordinas apibūdinamas kaip vėliau į Lietuvą atsikraustęs vienuolių ordinas, kurio nariai rūpinosi jaunuomenės auklėjimu ir dievobaimingomis mokyklomis. (t-002)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Pijarų ordinas
@@ -46,7 +46,7 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: vienuolių ordinas
-Šaltinyje „Pijarų ordinas“ apibūdinama kaip vienuolių ordinas; pijarų ordinas apibūdinamas kaip vėliau į Lietuvą atsikraustęs vienuolių ordinas, kurio nariai rūpinosi jaunuomenės auklėjimu ir dievobaimingomis mokyklomis. (t-001)
+vienuolių ordinas; pijarų ordinas apibūdinamas kaip vėliau į Lietuvą atsikraustęs vienuolių ordinas, kurio nariai rūpinosi jaunuomenės auklėjimu ir dievobaimingomis mokyklomis. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Pijarų ordinas“ apibūdinama kaip vienuolių ordinas; pijarų ordinas apibūdinamas kaip vėliau į Lietuvą atsikraustęs vienuolių ordinas, kurio nariai rūpinosi jaunuomenės auklėjimu ir dievobaimingomis mokyklomis. (t-001)
@@ -54,13 +54,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Pijarų ordinas“ apibūdinama kaip vienuolių ordinas; pijarų ordinas apibūdinamas kaip vėliau į Lietuvą atsikraustęs vienuolių ordinas, kurio nariai rūpinosi jaunuomenės auklėjimu ir dievobaimingomis mokyklomis."
+  teiginys: "vienuolių ordinas; pijarų ordinas apibūdinamas kaip vėliau į Lietuvą atsikraustęs vienuolių ordinas, kurio nariai rūpinosi jaunuomenės auklėjimu ir dievobaimingomis mokyklomis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Pijarų ordinas“ siejama su šiuo kontekstu: Pijarų ordinas apibūdinamas kaip vėliau į Lietuvą atsikraustęs vienuolių ordinas, kurio nariai rūpinosi jaunuomenės auklėjimu ir dievobaimingomis mokyklomis."
+  teiginys: "Pijarų ordinas apibūdinamas kaip vėliau į Lietuvą atsikraustęs vienuolių ordinas, kurio nariai rūpinosi jaunuomenės auklėjimu ir dievobaimingomis mokyklomis."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

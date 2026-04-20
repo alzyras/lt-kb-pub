@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Vinrichas von Kniprodė
 
 ## Santrauka
-Šaltinyje Vinrichas von Kniprodė apibūdinamas taip: Kryžiuočių ordino magistras, kurio valdymu ordinas pasiekė didžiausią klestėjimą.
+Kryžiuočių ordino magistras, kurio valdymu ordinas pasiekė didžiausią klestėjimą.
 
 ## Laikotarpis ir datos
 - laikotarpis: 1351–1382 m.
@@ -38,7 +38,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Vinrichas von Kniprodė apibūdinamas taip: Kryžiuočių ordino magistras, kurio valdymu ordinas pasiekė didžiausią klestėjimą."
+  teiginys: "Kryžiuočių ordino magistras, kurio valdymu ordinas pasiekė didžiausią klestėjimą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Rišeljė
 
 ## Santrauka
-Šaltinyje Rišeljė apibūdinamas taip: Minimas kaip kardinolas Rišeljė, kurio vadovaujama Prancūzija varžėsi su Austrija.
+Minimas kaip kardinolas Rišeljė, kurio vadovaujama Prancūzija varžėsi su Austrija.
 
 ## Variantai
 - Richelieu
@@ -33,7 +33,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Rišeljė apibūdinamas taip: Minimas kaip kardinolas Rišeljė, kurio vadovaujama Prancūzija varžėsi su Austrija."
+  teiginys: "Minimas kaip kardinolas Rišeljė, kurio vadovaujama Prancūzija varžėsi su Austrija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Bazelis
 
 ## Santrauka
-Šaltinyje vieta „Bazelis“ siejama su šiuo kontekstu: Minimas kaip bažnytinio suvažiavimo vieta Švitrigailos ir Zigmanto kovų metu. (t-001)
+Minimas kaip bažnytinio suvažiavimo vieta Švitrigailos ir Zigmanto kovų metu. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Bazelis
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Bazelis“ siejama su šiuo kontekstu: Minimas kaip bažnytinio suvažiavimo vieta Švitrigailos ir Zigmanto kovų metu."
+  teiginys: "Minimas kaip bažnytinio suvažiavimo vieta Švitrigailos ir Zigmanto kovų metu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Veiveriai
 
 ## Santrauka
-Šaltinyje vieta „Veiveriai“ siejama su šiuo kontekstu: Minima kaip mokytojų seminarijos vieta Užnemunėje. (t-001)
+Minima kaip mokytojų seminarijos vieta Užnemunėje. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Veiveriai
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Veiveriai“ siejama su šiuo kontekstu: Minima kaip mokytojų seminarijos vieta Užnemunėje."
+  teiginys: "Minima kaip mokytojų seminarijos vieta Užnemunėje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

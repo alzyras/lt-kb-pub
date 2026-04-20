@@ -34,7 +34,7 @@ patikimumas: "vidutinis"
 # Henrikas (vadinamas Henriku Latviu)
 
 ## Santrauka
-Šaltinyje Henrikas (vadinamas Henriku Latviu) minimas kaip kronikininkas.
+Henrikas (vadinamas Henriku Latviu) minimas kaip kronikininkas.
 
 ## Darbai
 - Autorystės vaidmuo šaltinyje įvardytas kaip kronikininkas. (t-001)
@@ -44,7 +44,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Henrikas (vadinamas Henriku Latviu) minimas kaip kronikininkas."
+  teiginys: "Henrikas (vadinamas Henriku Latviu) minimas kaip kronikininkas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

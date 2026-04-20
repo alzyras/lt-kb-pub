@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # A. Kaupas
 
 ## Santrauka
-Šaltinyje A. Kaupas minimas kaip autorius; šis vaidmuo siejamas su: Am. liet. mokyklos.
+Am. liet. mokyklos.
 
 ## Laikotarpis ir datos
 - 1914 m.
@@ -41,7 +41,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje A. Kaupas minimas kaip autorius, siejamas su: Am. liet. mokyklos."
+  teiginys: "Am. liet. mokyklos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

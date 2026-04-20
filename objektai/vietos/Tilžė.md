@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Tilžė
 
 ## Santrauka
-Šaltinyje vieta „Tilžė“ siejama su šiais kontekstais: Miestas minimas kaip šiaurinė Nemuno žiočių pasiekiama vieta; Minima kaip viena iš vietų, kur lietuviškai atliekami prekybos reikalai. (t-001, t-002)
+Miestas minimas kaip šiaurinė Nemuno žiočių pasiekiama vieta; Minima kaip viena iš vietų, kur lietuviškai atliekami prekybos reikalai. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Tilžė
@@ -51,19 +51,19 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Tilžė“ siejama su šiuo kontekstu: Miestas minimas kaip šiaurinė Nemuno žiočių pasiekiama vieta."
+  teiginys: "Miestas minimas kaip šiaurinė Nemuno žiočių pasiekiama vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Tilžė“ siejama su šiuo kontekstu: Minima kaip viena iš vietų, kur lietuviškai atliekami prekybos reikalai."
+  teiginys: "Minima kaip viena iš vietų, kur lietuviškai atliekami prekybos reikalai."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-003
-  teiginys: "Šaltinyje vieta „Tilžė“ siejama su šiuo kontekstu: Įvardyta kaip viena iš Lietuvai artimesniųjų ordino pilių su įkūrimo data."
+  teiginys: "Įvardyta kaip viena iš Lietuvai artimesniųjų ordino pilių su įkūrimo data."
   pagrindžia:
     - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

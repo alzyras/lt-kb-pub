@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Neutralinė zona
 
 ## Santrauka
-Šaltinyje „Neutralinė zona“ vartojama taip: Laikina teritorinė juosta tarp kariaujančių pusių, skirta kovoms sustabdyti. (t-001)
+Laikina teritorinė juosta tarp kariaujančių pusių, skirta kovoms sustabdyti. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Neutralinė zona
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: karo diplomatija, sienų ir dem
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Neutralinė zona“ vartojama taip: Laikina teritorinė juosta tarp kariaujančių pusių, skirta kovoms sustabdyti."
+  teiginys: "Laikina teritorinė juosta tarp kariaujančių pusių, skirta kovoms sustabdyti."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

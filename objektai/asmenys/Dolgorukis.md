@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Dolgorukis
 
 ## Santrauka
-Šaltinyje Dolgorukis apibūdinamas taip: Minimas kaip caro generolas, padiktavęs bajorijai 1717 m. taikos sąlygas.
+Minimas kaip caro generolas, padiktavęs bajorijai 1717 m. taikos sąlygas.
 
 ## Laikotarpis ir datos
 - laikotarpis: 1717 m.
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Dolgorukis apibūdinamas taip: Minimas kaip caro generolas, padiktavęs bajorijai 1717 m. taikos sąlygas."
+  teiginys: "Minimas kaip caro generolas, padiktavęs bajorijai 1717 m. taikos sąlygas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

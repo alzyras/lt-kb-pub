@@ -37,7 +37,7 @@ patikimumas: "vidutinis"
 # Vydūnas
 
 ## Santrauka
-Šaltinyje Vydūnas minimas kaip rašytojas ir filosofas; iliustracijos užrašas pateikia jo vardo formą „Vilius Storasta“.
+Vydūnas minimas kaip rašytojas ir filosofas; iliustracijos užrašas pateikia jo vardo formą „Vilius Storasta“.
 
 ## Darbai
 - Autorystės vaidmuo šaltinyje įvardytas kaip rašytojas ir filosofas. (t-001)
@@ -49,13 +49,13 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Vydūnas minimas kaip rašytojas ir filosofas."
+  teiginys: "Vydūnas minimas kaip rašytojas ir filosofas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje prie Vydūno pateikiamas vardo variantas „Vilius Storasta“."
+  teiginys: "prie Vydūno pateikiamas vardo variantas „Vilius Storasta“."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

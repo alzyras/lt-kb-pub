@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Hetmonas
 
 ## Santrauka
-Šaltinyje „Hetmonas“ vartojama taip: Kariuomenės vadas, vyriausias karinis pareigūnas. (t-001)
+Kariuomenės vadas, vyriausias karinis pareigūnas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Hetmonas
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: karo istorija, kariuomenės vad
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Hetmonas“ vartojama taip: Kariuomenės vadas, vyriausias karinis pareigūnas."
+  teiginys: "Kariuomenės vadas, vyriausias karinis pareigūnas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

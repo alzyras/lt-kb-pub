@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Montrealis
 
 ## Santrauka
-Šaltinyje vieta „Montrealis“ siejama su šiuo kontekstu: Minimas kaip Kanados sostinė, kur yra lietuvių bažnyčia. (t-001)
+Minimas kaip Kanados sostinė, kur yra lietuvių bažnyčia. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Montrealis
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Montrealis“ siejama su šiuo kontekstu: Minimas kaip Kanados sostinė, kur yra lietuvių bažnyčia."
+  teiginys: "Minimas kaip Kanados sostinė, kur yra lietuvių bažnyčia."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

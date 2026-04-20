@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Lenkų karalystė
 
 ## Santrauka
-Šaltinyje vieta „Lenkų karalystė“ siejama su šiais kontekstais: Minima kaip teritorija, kuriai 1861 m. Rusijoje paskelbtas baudžiavos panaikinimas netaikytas; Minima kaip valstybė, prie kurios buvo priskirtas Suvalkų kraštas. (t-001, t-002)
+Minima kaip teritorija, kuriai 1861 m. Rusijoje paskelbtas baudžiavos panaikinimas netaikytas; Minima kaip valstybė, prie kurios buvo priskirtas Suvalkų kraštas. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Lenkų karalystė
@@ -52,13 +52,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Lenkų karalystė“ siejama su šiuo kontekstu: Minima kaip teritorija, kuriai 1861 m. Rusijoje paskelbtas baudžiavos panaikinimas netaikytas."
+  teiginys: "Minima kaip teritorija, kuriai 1861 m. Rusijoje paskelbtas baudžiavos panaikinimas netaikytas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Lenkų karalystė“ siejama su šiuo kontekstu: Minima kaip valstybė, prie kurios buvo priskirtas Suvalkų kraštas."
+  teiginys: "Minima kaip valstybė, prie kurios buvo priskirtas Suvalkų kraštas."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

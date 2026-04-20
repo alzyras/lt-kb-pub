@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Iškilmingas pasižadėjimas atnaujinti uniją
 
 ## Santrauka
-Šaltinyje minima praktika „Iškilmingas pasižadėjimas atnaujinti uniją“ siejama su formuluote: Vilniaus katedroje įvyko iškilmingas pasižadėjimas atnaujinti uniją. Šaltinio kontekste nurodoma: kas atlieka: Vilniaus universiteto jaunuomenė, platesnė bajorija; kada atliekama: 1812 m. liepos 14 d.. (t-001)
+Vilniaus katedroje įvyko iškilmingas pasižadėjimas atnaujinti uniją. Šaltinio kontekste nurodoma: kas atlieka: Vilniaus universiteto jaunuomenė, platesnė bajorija; kada atliekama: 1812 m. liepos 14 d.. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Vilniaus katedroje įvyko iškilmingas pasižadėjimas atnaujinti uniją
@@ -40,8 +40,7 @@ patikimumas: "vidutinis"
 - date_start/date_end: 1812 / 1812 (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Iškilmingas pasižadėjimas atnaujinti uniją“ siejama su formuluote: Vilniaus katedroje įvyko iškilmingas pasižadėjimas atnaujinti uniją. Šaltinio kontekste nurodoma: kas atlieka: Vilniaus universiteto jaunuomenė, platesnė bajorija; kada atliekama: 1812 m. liepos 14 d.. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: Vilniaus universiteto jaunuomenė, platesnė bajorija (t-001)
 - kada atliekama: 1812 m. liepos 14 d. (t-001)
@@ -49,7 +48,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Iškilmingas pasižadėjimas atnaujinti uniją“ siejama su formuluote: Vilniaus katedroje įvyko iškilmingas pasižadėjimas atnaujinti uniją. Šaltinio kontekste nurodoma: kas atlieka: Vilniaus universiteto jaunuomenė, platesnė bajorija; kada atliekama: 1812 m. liepos 14 d.."
+  teiginys: "Vilniaus katedroje įvyko iškilmingas pasižadėjimas atnaujinti uniją. Šaltinio kontekste nurodoma: kas atlieka: Vilniaus universiteto jaunuomenė, platesnė bajorija; kada atliekama: 1812 m. liepos 14 d.."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

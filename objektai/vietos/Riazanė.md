@@ -23,7 +23,7 @@ patikimumas: "aukstas"
 # Riazanė
 
 ## Santrauka
-Šaltinyje vieta „Riazanė“ siejama su šiuo kontekstu: Minima kartu su Tula ir Kaluga kaip Vytauto žygio pasiekta vieta. (t-001)
+Minima kartu su Tula ir Kaluga kaip Vytauto žygio pasiekta vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Riazanė
@@ -39,7 +39,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Riazanė“ siejama su šiuo kontekstu: Minima kartu su Tula ir Kaluga kaip Vytauto žygio pasiekta vieta."
+  teiginys: "Minima kartu su Tula ir Kaluga kaip Vytauto žygio pasiekta vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

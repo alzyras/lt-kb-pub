@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Bet mes apsigimėme katalikais, tai ir mirsime katalikais
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Bet mes apsigimėme katalikais, tai ir mirsime katalikais“; kontekstas: „Apžvalgos“ poleminiame tekste prieš rusinimą išryškinamas katalikiškas tapatybės akcentas. Reikšmė: Karinga katalikiškos tapatybės formulė prieš rusinimą ir prievartą. (t-001)
+Užfiksuota formuluotė „Bet mes apsigimėme katalikais, tai ir mirsime katalikais“; kontekstas: „Apžvalgos“ poleminiame tekste prieš rusinimą išryškinamas katalikiškas tapatybės akcentas. Reikšmė: Karinga katalikiškos tapatybės formulė prieš rusinimą ir prievartą. (t-001)
 
 ## Forma
 - pagrindinė forma: Bet mes apsigimėme katalikais, tai ir mirsime katalikais (t-001)
@@ -35,7 +35,7 @@ patikimumas: "vidutinis"
 - Bet mes apsigimėme katalikais, tai ir mirsime ka-
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 „Apžvalgos“ poleminiame tekste prieš rusinimą išryškinamas katalikiškas tapatybės akcentas. (t-001)
@@ -45,7 +45,7 @@ Karinga katalikiškos tapatybės formulė prieš rusinimą ir prievartą. (t-001
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Bet mes apsigimėme katalikais, tai ir mirsime katalikais“; kontekstas: „Apžvalgos“ poleminiame tekste prieš rusinimą išryškinamas katalikiškas tapatybės akcentas."
+  teiginys: "Užfiksuota formuluotė „Bet mes apsigimėme katalikais, tai ir mirsime katalikais“; kontekstas: „Apžvalgos“ poleminiame tekste prieš rusinimą išryškinamas katalikiškas tapatybės akcentas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

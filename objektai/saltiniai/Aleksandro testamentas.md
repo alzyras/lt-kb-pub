@@ -33,7 +33,7 @@ patikimumas: "vidutinis"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Aleksandro testamentas“ minimas Aleksandro testamentinis sprendimas dėl Lietuvos sosto perdavimo broliui Zigmantui.
+minimas Aleksandro testamentinis sprendimas dėl Lietuvos sosto perdavimo broliui Zigmantui.
 
 ## Ryšiai
 
@@ -42,7 +42,7 @@ patikimumas: "vidutinis"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Aleksandro testamentas“ minimas Aleksandro testamentinis sprendimas dėl Lietuvos sosto perdavimo broliui Zigmantui."
+  teiginys: "minimas Aleksandro testamentinis sprendimas dėl Lietuvos sosto perdavimo broliui Zigmantui."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

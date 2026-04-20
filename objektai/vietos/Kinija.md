@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Kinija
 
 ## Santrauka
-Šaltinyje vieta „Kinija“ siejama su šiuo kontekstu: Minima kaip šalis, į kurią po karo atvyko nemaža lietuvių. (t-001)
+Minima kaip šalis, į kurią po karo atvyko nemaža lietuvių. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Kinija
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Kinija“ siejama su šiuo kontekstu: Minima kaip šalis, į kurią po karo atvyko nemaža lietuvių."
+  teiginys: "Minima kaip šalis, į kurią po karo atvyko nemaža lietuvių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

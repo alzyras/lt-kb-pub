@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Drivietai
 
 ## Santrauka
-Šaltinyje vieta „Drivietai“ siejama su šiuo kontekstu: Minimi tarp rytinės sienos ežerų. (t-001)
+Minimi tarp rytinės sienos ežerų. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Drivietai
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Drivietai“ siejama su šiuo kontekstu: Minimi tarp rytinės sienos ežerų."
+  teiginys: "Minimi tarp rytinės sienos ežerų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

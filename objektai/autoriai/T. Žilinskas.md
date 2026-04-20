@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # T. Žilinskas
 
 ## Santrauka
-Šaltinyje T. Žilinskas minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip veikalo apie Amerikos Lietuvą autorius.
+Minimas kaip veikalo apie Amerikos Lietuvą autorius.
 
 ## Darbai
 - Minimas kaip veikalo apie Amerikos Lietuvą autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje T. Žilinskas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip veikalo apie Amerikos Lietuvą autorius."
+  teiginys: "Minimas kaip veikalo apie Amerikos Lietuvą autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Garšviai
 
 ## Santrauka
-Šaltinyje vieta „Garšviai“ siejama su šiuo kontekstu: Minimi kaip knygnešių tinklo centras, kurį suorganizavo J. Bielinis. (t-001)
+Minimi kaip knygnešių tinklo centras, kurį suorganizavo J. Bielinis. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Garšviai
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Garšviai“ siejama su šiuo kontekstu: Minimi kaip knygnešių tinklo centras, kurį suorganizavo J. Bielinis."
+  teiginys: "Minimi kaip knygnešių tinklo centras, kurį suorganizavo J. Bielinis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

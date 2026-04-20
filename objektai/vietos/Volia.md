@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Volia
 
 ## Santrauka
-Šaltinyje vieta „Volia“ siejama su šiuo kontekstu: Minima kaip Hymanso projekto linijos taškas. (t-001)
+Minima kaip Hymanso projekto linijos taškas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Volia
@@ -47,7 +47,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Volia“ siejama su šiuo kontekstu: Minima kaip Hymanso projekto linijos taškas."
+  teiginys: "Minima kaip Hymanso projekto linijos taškas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

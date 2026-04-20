@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Vitingas
 
 ## Santrauka
-Šaltinyje „Vitingas“ vartojama taip: Ordinui tarnaujantis senasis prūsų bajoras. (t-001)
+Ordinui tarnaujantis senasis prūsų bajoras. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Vitingas
@@ -50,7 +50,7 @@ Terminas šaltinyje vartojamas šiame kontekste: ordino visuomenė, socialiniai 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Vitingas“ vartojama taip: Ordinui tarnaujantis senasis prūsų bajoras."
+  teiginys: "Ordinui tarnaujantis senasis prūsų bajoras."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

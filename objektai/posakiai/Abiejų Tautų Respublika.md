@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Abiejų Tautų Respublika
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Abiejų Tautų Respublika“; kontekstas: Liublino unijos sukurtas valstybių junginys pavadinamas „abiejų tautų Respublika“, nors tekste pabrėžiama, kad abi valstybės iki galo nesusiliejo į vieną. Reikšmė: Istorinis jungtinės valstybės pavadinimas, kuris veikia kaip ryški politinė formuluotė. (t-001)
+Užfiksuota formuluotė „Abiejų Tautų Respublika“; kontekstas: Liublino unijos sukurtas valstybių junginys pavadinamas „abiejų tautų Respublika“, nors tekste pabrėžiama, kad abi valstybės iki galo nesusiliejo į vieną. Reikšmė: Istorinis jungtinės valstybės pavadinimas, kuris veikia kaip ryški politinė formuluotė. (t-001)
 
 ## Forma
 - pagrindinė forma: Abiejų Tautų Respublika (t-001)
@@ -50,7 +50,7 @@ Istorinis jungtinės valstybės pavadinimas, kuris veikia kaip ryški politinė 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Abiejų Tautų Respublika“; kontekstas: Liublino unijos sukurtas valstybių junginys pavadinamas „abiejų tautų Respublika“, nors tekste pabrėžiama, kad abi valstybės iki galo nesusiliejo į vieną."
+  teiginys: "Užfiksuota formuluotė „Abiejų Tautų Respublika“; kontekstas: Liublino unijos sukurtas valstybių junginys pavadinamas „abiejų tautų Respublika“, nors tekste pabrėžiama, kad abi valstybės iki galo nesusiliejo į vieną."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

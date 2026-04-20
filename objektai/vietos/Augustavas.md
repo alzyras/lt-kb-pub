@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Augustavas
 
 ## Santrauka
-Šaltinyje vieta „Augustavas“ siejama su šiuo kontekstu: Minimas kaip demarkacijos linijos pradžios taškas ir lenkų pusėje esantis miestas. (t-001)
+Minimas kaip demarkacijos linijos pradžios taškas ir lenkų pusėje esantis miestas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Augustavas
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Augustavas“ siejama su šiuo kontekstu: Minimas kaip demarkacijos linijos pradžios taškas ir lenkų pusėje esantis miestas."
+  teiginys: "Minimas kaip demarkacijos linijos pradžios taškas ir lenkų pusėje esantis miestas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

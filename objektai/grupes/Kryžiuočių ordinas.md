@@ -32,7 +32,7 @@ patikimumas: "aukstas"
 # Kryžiuočių ordinas
 
 ## Santrauka
-Šaltinyje „Kryžiuočių ordinas“ apibūdinamas kaip vokiečių (Marijos Mergelės) riterių ordinas; jo nariai Lietuvos kontekste dažnai vadinami kryžiuočiais. (t-001)
+vokiečių (Marijos Mergelės) riterių ordinas; jo nariai Lietuvos kontekste dažnai vadinami kryžiuočiais. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Kryžiuočių ordinas
@@ -43,14 +43,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: riterių ordinas
-Šaltinyje „Kryžiuočių ordinas“ apibūdinamas kaip vokiečių (Marijos Mergelės) riterių ordinas; jo nariai Lietuvos kontekste dažnai vadinami kryžiuočiais. (t-001)
+vokiečių (Marijos Mergelės) riterių ordinas; jo nariai Lietuvos kontekste dažnai vadinami kryžiuočiais. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje grupė pateikta kaip kariaujančiųjų riterių ordinas, kurio nariai atpažįstami pagal baltą apsiaustą su juodu kryžiumi. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kryžiuočių ordinas“ apibūdinamas kaip vokiečių (Marijos Mergelės) riterių ordinas; jo nariai Lietuvos kontekste dažnai vadinami kryžiuočiais."
+  teiginys: "vokiečių (Marijos Mergelės) riterių ordinas; jo nariai Lietuvos kontekste dažnai vadinami kryžiuočiais."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
@@ -77,4 +77,3 @@ patikimumas: "aukstas"
 ## Ryšiai
 - Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 - Terminas: [[Kryžiuočiai]]
-

@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Ostermejeris
 
 ## Santrauka
-Šaltinyje Ostermejeris apibūdinamas taip: Minimas kaip kunigas, gynęs lietuvių kalbą 1844 m. ginče.
+Minimas kaip kunigas, gynęs lietuvių kalbą 1844 m. ginče.
 
 ## Laikotarpis ir datos
 - laikotarpis: 1844 m.
@@ -38,7 +38,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Ostermejeris apibūdinamas taip: Minimas kaip kunigas, gynęs lietuvių kalbą 1844 m. ginče."
+  teiginys: "Minimas kaip kunigas, gynęs lietuvių kalbą 1844 m. ginče."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

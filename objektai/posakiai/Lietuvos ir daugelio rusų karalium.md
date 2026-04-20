@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Lietuvos ir daugelio rusų karalium
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Lietuvos ir daugelio rusų karalium“; kontekstas: Gediminas aptaria savo valdžios pretenziją, raštuose tituluodamasis Lietuvos ir daugelio rusų karaliumi. Reikšmė: Oficiali valdovo titulatura, rodanti pretenziją į Lietuvos ir rusų žemes. (t-001)
+Užfiksuota formuluotė „Lietuvos ir daugelio rusų karalium“; kontekstas: Gediminas aptaria savo valdžios pretenziją, raštuose tituluodamasis Lietuvos ir daugelio rusų karaliumi. Reikšmė: Oficiali valdovo titulatura, rodanti pretenziją į Lietuvos ir rusų žemes. (t-001)
 
 ## Forma
 - pagrindinė forma: Lietuvos ir daugelio rusų karalium (t-001)
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 - „Lietuvos ir daugelio rusų karalium“
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Gediminas aptaria savo valdžios pretenziją, raštuose tituluodamasis Lietuvos ir daugelio rusų karaliumi. (t-001)
@@ -48,7 +48,7 @@ Oficiali valdovo titulatura, rodanti pretenziją į Lietuvos ir rusų žemes. (t
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Lietuvos ir daugelio rusų karalium“; kontekstas: Gediminas aptaria savo valdžios pretenziją, raštuose tituluodamasis Lietuvos ir daugelio rusų karaliumi."
+  teiginys: "Užfiksuota formuluotė „Lietuvos ir daugelio rusų karalium“; kontekstas: Gediminas aptaria savo valdžios pretenziją, raštuose tituluodamasis Lietuvos ir daugelio rusų karaliumi."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

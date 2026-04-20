@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Amerikos Lietuvių Centro Komitetas
 
 ## Santrauka
-Šaltinyje „Amerikos Lietuvių Centro Komitetas“ apibūdinama kaip komitetas; tautininkų sudarytas centrinis komitetas, rinkęs aukas karo nukentėjusiems lietuviams šelpti. (t-001)
+komitetas; tautininkų sudarytas centrinis komitetas, rinkęs aukas karo nukentėjusiems lietuviams šelpti. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Amerikos Lietuvių Centro Komitetas
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: komitetas
-Šaltinyje „Amerikos Lietuvių Centro Komitetas“ apibūdinama kaip komitetas; tautininkų sudarytas centrinis komitetas, rinkęs aukas karo nukentėjusiems lietuviams šelpti. (t-001)
+komitetas; tautininkų sudarytas centrinis komitetas, rinkęs aukas karo nukentėjusiems lietuviams šelpti. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Amerikos Lietuvių Centro Komitetas“ apibūdinama kaip komitetas; tautininkų sudarytas centrinis komitetas, rinkęs aukas karo nukentėjusiems lietuviams šelpti. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Amerikos Lietuvių Centro Komitetas“ apibūdinama kaip komitetas; tautininkų sudarytas centrinis komitetas, rinkęs aukas karo nukentėjusiems lietuviams šelpti."
+  teiginys: "komitetas; tautininkų sudarytas centrinis komitetas, rinkęs aukas karo nukentėjusiems lietuviams šelpti."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

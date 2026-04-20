@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Kražių apygarda
 
 ## Santrauka
-Šaltinyje vieta „Kražių apygarda“ siejama su šiuo kontekstu: Minima kaip viena iš keturių Edukacinės Komisijos mokyklų apygardų. (t-001)
+Minima kaip viena iš keturių Edukacinės Komisijos mokyklų apygardų. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Kražių apygarda
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Kražių apygarda“ siejama su šiuo kontekstu: Minima kaip viena iš keturių Edukacinės Komisijos mokyklų apygardų."
+  teiginys: "Minima kaip viena iš keturių Edukacinės Komisijos mokyklų apygardų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

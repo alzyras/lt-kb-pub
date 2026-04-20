@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Adomas Čartoriskis
 
 ## Santrauka
-Šaltinyje Adomas Čartoriskis apibūdinamas taip: Minimas kaip vienas pagrindinių kandidatų į sostą ir Rusų vaivados Augusto sūnus.
+Minimas kaip vienas pagrindinių kandidatų į sostą ir Rusų vaivados Augusto sūnus.
 
 ## Variantai
 - Ad. Čartoriskis
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Adomas Čartoriskis apibūdinamas taip: Minimas kaip vienas pagrindinių kandidatų į sostą ir Rusų vaivados Augusto sūnus."
+  teiginys: "Minimas kaip vienas pagrindinių kandidatų į sostą ir Rusų vaivados Augusto sūnus."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -24,7 +24,7 @@ patikimumas: "vidutinis"
 # Aleksandro antspaudas
 
 ## Santrauka
-Šaltinyje „Aleksandro antspaudas“ siejamas su šiuo kontekstu: Paveikslo antraštėje tiesiogiai įvardytas Aleksandro antspaudas, todėl tai aiškus materialus daiktas, nors pats vaizdas plačiau neaprašomas.
+Paveikslo antraštėje tiesiogiai įvardytas Aleksandro antspaudas, todėl tai aiškus materialus daiktas, nors pats vaizdas plačiau neaprašomas.
 
 ## Pavadinimai šaltiniuose
 - Aleksandro antspaudas
@@ -39,11 +39,10 @@ patikimumas: "vidutinis"
 - date_end:
 
 ## Kas tai
-Šaltinyje „Aleksandro antspaudas“ siejamas su šiuo kontekstu: Paveikslo antraštėje tiesiogiai įvardytas Aleksandro antspaudas, todėl tai aiškus materialus daiktas, nors pats vaizdas plačiau neaprašomas.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Aleksandro antspaudas“ siejamas su šiuo kontekstu: Paveikslo antraštėje tiesiogiai įvardytas Aleksandro antspaudas, todėl tai aiškus materialus daiktas, nors pats vaizdas plačiau neaprašomas."
+  teiginys: "Paveikslo antraštėje tiesiogiai įvardytas Aleksandro antspaudas, todėl tai aiškus materialus daiktas, nors pats vaizdas plačiau neaprašomas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

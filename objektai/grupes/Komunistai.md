@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Komunistai
 
 ## Santrauka
-Šaltinyje „Komunistai“ apibūdinama kaip politinė grupė; komunistai paminimi kaip jėga, pasinaudojusi panaikinta karo būkle ir pradėjusi demonstracijas bei ekscesus. (t-001)
+politinė grupė; komunistai paminimi kaip jėga, pasinaudojusi panaikinta karo būkle ir pradėjusi demonstracijas bei ekscesus. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Komunistai
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: politinė grupė
-Šaltinyje „Komunistai“ apibūdinama kaip politinė grupė; komunistai paminimi kaip jėga, pasinaudojusi panaikinta karo būkle ir pradėjusi demonstracijas bei ekscesus. (t-001)
+politinė grupė; komunistai paminimi kaip jėga, pasinaudojusi panaikinta karo būkle ir pradėjusi demonstracijas bei ekscesus. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Komunistai“ apibūdinama kaip politinė grupė; komunistai paminimi kaip jėga, pasinaudojusi panaikinta karo būkle ir pradėjusi demonstracijas bei ekscesus. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Komunistai“ apibūdinama kaip politinė grupė; komunistai paminimi kaip jėga, pasinaudojusi panaikinta karo būkle ir pradėjusi demonstracijas bei ekscesus."
+  teiginys: "politinė grupė; komunistai paminimi kaip jėga, pasinaudojusi panaikinta karo būkle ir pradėjusi demonstracijas bei ekscesus."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

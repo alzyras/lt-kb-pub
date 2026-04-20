@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # V. Staniškis
 
 ## Santrauka
-Šaltinyje V. Staniškis apibūdinamas taip: Minimas kaip vienas iš trijų lietuvių mokytojų Marijampolės gimnazijoje.
+Minimas kaip vienas iš trijų lietuvių mokytojų Marijampolės gimnazijoje.
 
 ## Variantai
 - Staniškis
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje V. Staniškis apibūdinamas taip: Minimas kaip vienas iš trijų lietuvių mokytojų Marijampolės gimnazijoje."
+  teiginys: "Minimas kaip vienas iš trijų lietuvių mokytojų Marijampolės gimnazijoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

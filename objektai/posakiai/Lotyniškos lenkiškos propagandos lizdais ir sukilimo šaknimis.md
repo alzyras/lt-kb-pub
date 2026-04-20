@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis“; kontekstas: Muravjovo laikų represijose vienuolynai buvo viešai apibūdinti kaip priešvalstybinės propagandos ir sukilimo židiniai. Reikšmė: Pejoratyvinė oficiali etiketė, kuria pateisinamas vienuolynų uždarymas. (t-001)
+Užfiksuota formuluotė „Lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis“; kontekstas: Muravjovo laikų represijose vienuolynai buvo viešai apibūdinti kaip priešvalstybinės propagandos ir sukilimo židiniai. Reikšmė: Pejoratyvinė oficiali etiketė, kuria pateisinamas vienuolynų uždarymas. (t-001)
 
 ## Forma
 - pagrindinė forma: Lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis (t-001)
@@ -35,7 +35,7 @@ patikimumas: "vidutinis"
 - juos paskelbė „lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis".
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Muravjovo laikų represijose vienuolynai buvo viešai apibūdinti kaip priešvalstybinės propagandos ir sukilimo židiniai. (t-001)
@@ -45,7 +45,7 @@ Pejoratyvinė oficiali etiketė, kuria pateisinamas vienuolynų uždarymas. (t-0
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis“; kontekstas: Muravjovo laikų represijose vienuolynai buvo viešai apibūdinti kaip priešvalstybinės propagandos ir sukilimo židiniai."
+  teiginys: "Užfiksuota formuluotė „Lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis“; kontekstas: Muravjovo laikų represijose vienuolynai buvo viešai apibūdinti kaip priešvalstybinės propagandos ir sukilimo židiniai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

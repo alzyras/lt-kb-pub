@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Tautinės bažnyčios
 
 ## Santrauka
-Šaltinyje „Tautinės bažnyčios“ vartojama taip: Nuo vyskupų nepriklausomos vietinės katalikų bažnyčios. (t-001)
+Nuo vyskupų nepriklausomos vietinės katalikų bažnyčios. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Tautinės bažnyčios
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: bažnyčios istorija, išeivijo
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Tautinės bažnyčios“ vartojama taip: Nuo vyskupų nepriklausomos vietinės katalikų bažnyčios."
+  teiginys: "Nuo vyskupų nepriklausomos vietinės katalikų bažnyčios."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

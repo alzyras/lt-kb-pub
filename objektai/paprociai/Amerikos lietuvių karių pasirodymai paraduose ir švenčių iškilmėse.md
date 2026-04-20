@@ -26,14 +26,13 @@ patikimumas: "vidutinis"
 # Amerikos lietuvių karių pasirodymai paraduose ir švenčių iškilmėse
 
 ## Santrauka
-Šaltinyje minima praktika „Amerikos lietuvių karių pasirodymai paraduose ir švenčių iškilmėse“ siejama su formuluote: pasirodydavo įvairiuose paraduose ir švenčių iškilmėse. Šaltinio kontekste nurodoma: kas atlieka: Amerikos lietuviai, organizavę savo kariuomenę; kada atliekama: prieš keletą dešimčių metų. (t-001)
+pasirodydavo įvairiuose paraduose ir švenčių iškilmėse. Šaltinio kontekste nurodoma: kas atlieka: Amerikos lietuviai, organizavę savo kariuomenę; kada atliekama: prieš keletą dešimčių metų. (t-001)
 
 ## Pavadinimai šaltiniuose
 - pasirodydavo įvairiuose paraduose ir švenčių iškilmėse
 
 ## Kas tai
-Šaltinyje minima praktika „Amerikos lietuvių karių pasirodymai paraduose ir švenčių iškilmėse“ siejama su formuluote: pasirodydavo įvairiuose paraduose ir švenčių iškilmėse. Šaltinio kontekste nurodoma: kas atlieka: Amerikos lietuviai, organizavę savo kariuomenę; kada atliekama: prieš keletą dešimčių metų. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: Amerikos lietuviai, organizavę savo kariuomenę (t-001)
 - kada atliekama: prieš keletą dešimčių metų (t-001)
@@ -41,7 +40,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Amerikos lietuvių karių pasirodymai paraduose ir švenčių iškilmėse“ siejama su formuluote: pasirodydavo įvairiuose paraduose ir švenčių iškilmėse. Šaltinio kontekste nurodoma: kas atlieka: Amerikos lietuviai, organizavę savo kariuomenę; kada atliekama: prieš keletą dešimčių metų."
+  teiginys: "pasirodydavo įvairiuose paraduose ir švenčių iškilmėse. Šaltinio kontekste nurodoma: kas atlieka: Amerikos lietuviai, organizavę savo kariuomenę; kada atliekama: prieš keletą dešimčių metų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

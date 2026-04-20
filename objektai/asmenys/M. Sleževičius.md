@@ -23,11 +23,11 @@ patikimumas: "aukstas"
 # M. Sleževičius
 
 ## Santrauka
-Šaltinyje M. Sleževičius apibūdinamas taip: Minimas kaip Komiteto narys.
+Minimas kaip Komiteto narys.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje M. Sleževičius apibūdinamas taip: Minimas kaip Komiteto narys."
+  teiginys: "Minimas kaip Komiteto narys."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Jurgis Vašingtonas
 
 ## Santrauka
-Šaltinyje Jurgis Vašingtonas apibūdinamas taip: Minimas kaip Amerikos nepriklausomybės kovų generolas, Jurgio Vašingtono draugas ir 1794 m. sukilimo vadas.
+Minimas kaip Amerikos nepriklausomybės kovų generolas, Jurgio Vašingtono draugas ir 1794 m. sukilimo vadas.
 
 ## Variantai
 - Jurgio Vašingtono
@@ -45,7 +45,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Jurgis Vašingtonas apibūdinamas taip: Minimas kaip Amerikos nepriklausomybės kovų generolas, Jurgio Vašingtono draugas ir 1794 m. sukilimo vadas."
+  teiginys: "Minimas kaip Amerikos nepriklausomybės kovų generolas, Jurgio Vašingtono draugas ir 1794 m. sukilimo vadas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Ritersverderis
 
 ## Santrauka
-Šaltinyje vieta „Ritersverderis“ siejama su šiais kontekstais: Vytauto rezidencijos pilis prie Kauno; Minima tarp prie Kauno statytų ir griautų ordino pilių. (t-001, t-002)
+Vytauto rezidencijos pilis prie Kauno; Minima tarp prie Kauno statytų ir griautų ordino pilių. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Ritersverderis
@@ -45,13 +45,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Ritersverderis“ siejama su šiuo kontekstu: Vytauto rezidencijos pilis prie Kauno."
+  teiginys: "Vytauto rezidencijos pilis prie Kauno."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Ritersverderis“ siejama su šiuo kontekstu: Minima tarp prie Kauno statytų ir griautų ordino pilių."
+  teiginys: "Minima tarp prie Kauno statytų ir griautų ordino pilių."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

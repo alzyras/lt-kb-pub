@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Žydų seimų rinkimasis ir mokesčių rinkėjo rinkimas
 
 ## Santrauka
-Šaltinyje minima praktika „Žydų seimų rinkimasis ir mokesčių rinkėjo rinkimas“ siejama su formuluote: XVII amž. įsigalėjo pačių žydų seimai. Seimai išrinkdavo vieną visai Lietuvai žydų mokesčių rinkėją ir gynė žydų reikalus prieš valdžią.. Šaltinio kontekste nurodoma: kas atlieka: pačių žydų seimai; kada atliekama: XVII amž.. (t-001)
+XVII amž. įsigalėjo pačių žydų seimai. Seimai išrinkdavo vieną visai Lietuvai žydų mokesčių rinkėją ir gynė žydų reikalus prieš valdžią.. Šaltinio kontekste nurodoma: kas atlieka: pačių žydų seimai; kada atliekama: XVII amž.. (t-001)
 
 ## Pavadinimai šaltiniuose
 - XVII amž. įsigalėjo pačių žydų seimai. Seimai išrinkdavo vieną visai Lietuvai žydų mokesčių rinkėją ir gynė žydų reikalus prieš valdžią.
@@ -39,8 +39,7 @@ patikimumas: "vidutinis"
 - amziai: XVII (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Žydų seimų rinkimasis ir mokesčių rinkėjo rinkimas“ siejama su formuluote: XVII amž. įsigalėjo pačių žydų seimai. Seimai išrinkdavo vieną visai Lietuvai žydų mokesčių rinkėją ir gynė žydų reikalus prieš valdžią.. Šaltinio kontekste nurodoma: kas atlieka: pačių žydų seimai; kada atliekama: XVII amž.. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: pačių žydų seimai (t-001)
 - kada atliekama: XVII amž. (t-001)
@@ -48,7 +47,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Žydų seimų rinkimasis ir mokesčių rinkėjo rinkimas“ siejama su formuluote: XVII amž. įsigalėjo pačių žydų seimai. Seimai išrinkdavo vieną visai Lietuvai žydų mokesčių rinkėją ir gynė žydų reikalus prieš valdžią.. Šaltinio kontekste nurodoma: kas atlieka: pačių žydų seimai; kada atliekama: XVII amž.."
+  teiginys: "XVII amž. įsigalėjo pačių žydų seimai. Seimai išrinkdavo vieną visai Lietuvai žydų mokesčių rinkėją ir gynė žydų reikalus prieš valdžią.. Šaltinio kontekste nurodoma: kas atlieka: pačių žydų seimai; kada atliekama: XVII amž.."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

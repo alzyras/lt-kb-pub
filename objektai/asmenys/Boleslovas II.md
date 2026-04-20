@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Boleslovas II
 
 ## Santrauka
-Šaltinyje Boleslovas II apibūdinamas taip: Mozūrų kunigaikštis, vedęs Traidenio dukterį, kad apsisaugotų nuo jo puolimų.
+Mozūrų kunigaikštis, vedęs Traidenio dukterį, kad apsisaugotų nuo jo puolimų.
 
 ## Variantai
 - Boleslovą II
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Boleslovas II apibūdinamas taip: Mozūrų kunigaikštis, vedęs Traidenio dukterį, kad apsisaugotų nuo jo puolimų."
+  teiginys: "Mozūrų kunigaikštis, vedęs Traidenio dukterį, kad apsisaugotų nuo jo puolimų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

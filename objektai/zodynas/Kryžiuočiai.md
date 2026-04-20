@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Kryžiuočiai
 
 ## Santrauka
-Šaltinyje „Kryžiuočiai“ vartojama taip: Vokiečių riterių ordino nariai; vietinis jų pavadinimas Lietuvoje. (t-001)
+Vokiečių riterių ordino nariai; vietinis jų pavadinimas Lietuvoje. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Kryžiuočiai
@@ -54,7 +54,7 @@ Terminas šaltinyje vartojamas šiame kontekste: ordino istorija, viduramžių k
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kryžiuočiai“ vartojama taip: Vokiečių riterių ordino nariai; vietinis jų pavadinimas Lietuvoje."
+  teiginys: "Vokiečių riterių ordino nariai; vietinis jų pavadinimas Lietuvoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

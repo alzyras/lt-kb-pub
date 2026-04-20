@@ -23,11 +23,11 @@ patikimumas: "vidutinis"
 # Krečinskis
 
 ## Santrauka
-Šaltinyje Krečinskis apibūdinamas taip: Minimas kaip rusas, mokėjęs lietuviškai ir įtrauktas į raštų leidimo komitetą.
+Minimas kaip rusas, mokėjęs lietuviškai ir įtrauktas į raštų leidimo komitetą.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Krečinskis apibūdinamas taip: Minimas kaip rusas, mokėjęs lietuviškai ir įtrauktas į raštų leidimo komitetą."
+  teiginys: "Minimas kaip rusas, mokėjęs lietuviškai ir įtrauktas į raštų leidimo komitetą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

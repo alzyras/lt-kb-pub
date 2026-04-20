@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Konradas
 
 ## Santrauka
-Šaltinyje Konradas apibūdinamas taip: Mozūrų kunigaikštis, įkurdinęs Kristijoną Kulmo žemėje ir rėmęs prūsų krikštą.
+Mozūrų kunigaikštis, įkurdinęs Kristijoną Kulmo žemėje ir rėmęs prūsų krikštą.
 
 ## Variantai
 - Konrado
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Konradas apibūdinamas taip: Mozūrų kunigaikštis, įkurdinęs Kristijoną Kulmo žemėje ir rėmęs prūsų krikštą."
+  teiginys: "Mozūrų kunigaikštis, įkurdinęs Kristijoną Kulmo žemėje ir rėmęs prūsų krikštą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

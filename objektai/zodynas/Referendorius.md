@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Referendorius
 
 ## Santrauka
-Šaltinyje „Referendorius“ vartojama taip: Valstybės pareigūnas arba urėdas, susijęs su teikimu ir sprendimų rengimu. (t-001)
+Valstybės pareigūnas arba urėdas, susijęs su teikimu ir sprendimų rengimu. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Referendorius
@@ -54,7 +54,7 @@ Terminas šaltinyje vartojamas šiame kontekste: valstybės administracija, urė
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Referendorius“ vartojama taip: Valstybės pareigūnas arba urėdas, susijęs su teikimu ir sprendimų rengimu."
+  teiginys: "Valstybės pareigūnas arba urėdas, susijęs su teikimu ir sprendimų rengimu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

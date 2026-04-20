@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Mažeikiai
 
 ## Santrauka
-Šaltinyje vieta „Mažeikiai“ siejama su šiuo kontekstu: Minimi kartu su Seda kaip vieta, nuo kurios vokiečiai atmušė rusus. (t-001)
+Minimi kartu su Seda kaip vieta, nuo kurios vokiečiai atmušė rusus. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Mažeikiai
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Mažeikiai“ siejama su šiuo kontekstu: Minimi kartu su Seda kaip vieta, nuo kurios vokiečiai atmušė rusus."
+  teiginys: "Minimi kartu su Seda kaip vieta, nuo kurios vokiečiai atmušė rusus."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

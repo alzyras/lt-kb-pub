@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Leščinskis
 
 ## Santrauka
-Šaltinyje Leščinskis apibūdinamas taip: Paminėtas kaip karaliaus rinkimų tema. Šaltinyje Leščinskis apibūdinamas taip: Minimas kaip ištremtas karalius, kurio kandidatūrą rėmė Prancūzija.
+Paminėtas kaip karaliaus rinkimų tema. Minimas kaip ištremtas karalius, kurio kandidatūrą rėmė Prancūzija.
 
 ## Variantai
 - Leščinskį
@@ -33,13 +33,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Leščinskis apibūdinamas taip: Paminėtas kaip karaliaus rinkimų tema."
+  teiginys: "Paminėtas kaip karaliaus rinkimų tema."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje Leščinskis apibūdinamas taip: Minimas kaip ištremtas karalius, kurio kandidatūrą rėmė Prancūzija."
+  teiginys: "Minimas kaip ištremtas karalius, kurio kandidatūrą rėmė Prancūzija."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

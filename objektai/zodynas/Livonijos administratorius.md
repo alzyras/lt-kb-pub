@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Livonijos administratorius
 
 ## Santrauka
-Šaltinyje „Livonijos administratorius“ vartojama taip: Laikinas krašto administravimo pareigūnas. (t-001)
+Laikinas krašto administravimo pareigūnas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Livonijos administratorius
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: administracinė istorija, Livon
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Livonijos administratorius“ vartojama taip: Laikinas krašto administravimo pareigūnas."
+  teiginys: "Laikinas krašto administravimo pareigūnas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Tenuta
 
 ## Santrauka
-Šaltinyje „Tenuta“ vartojama taip: Iki gyvos galvos duodamas dvaras be dalyvavimo valdžioje. (t-001)
+Iki gyvos galvos duodamas dvaras be dalyvavimo valdžioje. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Tenuta
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: žemėvalda, administracinė is
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Tenuta“ vartojama taip: Iki gyvos galvos duodamas dvaras be dalyvavimo valdžioje."
+  teiginys: "Iki gyvos galvos duodamas dvaras be dalyvavimo valdžioje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

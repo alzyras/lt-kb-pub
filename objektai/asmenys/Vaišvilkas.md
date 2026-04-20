@@ -23,11 +23,11 @@ patikimumas: "aukstas"
 # Vaišvilkas
 
 ## Santrauka
-Šaltinyje Vaišvilkas apibūdinamas taip: Mindaugo sūnus, kuriam perleistas karo vadovavimas ir kuris vėliau išvyko į Graikiją.
+Mindaugo sūnus, kuriam perleistas karo vadovavimas ir kuris vėliau išvyko į Graikiją.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Vaišvilkas apibūdinamas taip: Mindaugo sūnus, kuriam perleistas karo vadovavimas ir kuris vėliau išvyko į Graikiją."
+  teiginys: "Mindaugo sūnus, kuriam perleistas karo vadovavimas ir kuris vėliau išvyko į Graikiją."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

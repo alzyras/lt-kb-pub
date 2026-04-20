@@ -29,7 +29,7 @@ patikimumas: "vidutinis"
 # Maro metu mirusiųjų laidojimas Šv. Roko vienuolių eremitų
 
 ## Santrauka
-Šaltinyje minima praktika „Maro metu mirusiųjų laidojimas Šv. Roko vienuolių eremitų“ siejama su formuluote: Laidojo daugiausia Š v. Roko vienuoliai eremitai. Šaltinio kontekste nurodoma: kas atlieka: Šv. Roko vienuoliai eremitai; kada atliekama: 1708—1711 m. maro metu. (t-001)
+Laidojo daugiausia Š v. Roko vienuoliai eremitai. Šaltinio kontekste nurodoma: kas atlieka: Šv. Roko vienuoliai eremitai; kada atliekama: 1708—1711 m. maro metu. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Laidojo daugiausia Š v. Roko vienuoliai eremitai
@@ -41,8 +41,7 @@ patikimumas: "vidutinis"
 - date_start/date_end: 1708 / 1711 (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Maro metu mirusiųjų laidojimas Šv. Roko vienuolių eremitų“ siejama su formuluote: Laidojo daugiausia Š v. Roko vienuoliai eremitai. Šaltinio kontekste nurodoma: kas atlieka: Šv. Roko vienuoliai eremitai; kada atliekama: 1708—1711 m. maro metu. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: Šv. Roko vienuoliai eremitai (t-001)
 - kada atliekama: 1708—1711 m. maro metu (t-001)
@@ -50,7 +49,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Maro metu mirusiųjų laidojimas Šv. Roko vienuolių eremitų“ siejama su formuluote: Laidojo daugiausia Š v. Roko vienuoliai eremitai. Šaltinio kontekste nurodoma: kas atlieka: Šv. Roko vienuoliai eremitai; kada atliekama: 1708—1711 m. maro metu."
+  teiginys: "Laidojo daugiausia Š v. Roko vienuoliai eremitai. Šaltinio kontekste nurodoma: kas atlieka: Šv. Roko vienuoliai eremitai; kada atliekama: 1708—1711 m. maro metu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

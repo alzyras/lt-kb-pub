@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Tautų Sąjungos Taryba
 
 ## Santrauka
-Šaltinyje „Tautų Sąjungos Taryba“ apibūdinama kaip taryba; Tautų Sąjungos Taryba siūlė ginčą spręsti plebiscitu Tautų Sąjungos priežiūroje. (t-001)
+taryba; Tautų Sąjungos Taryba siūlė ginčą spręsti plebiscitu Tautų Sąjungos priežiūroje. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Tautų Sąjungos Taryba
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: taryba
-Šaltinyje „Tautų Sąjungos Taryba“ apibūdinama kaip taryba; Tautų Sąjungos Taryba siūlė ginčą spręsti plebiscitu Tautų Sąjungos priežiūroje. (t-001)
+taryba; Tautų Sąjungos Taryba siūlė ginčą spręsti plebiscitu Tautų Sąjungos priežiūroje. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Tautų Sąjungos Taryba“ apibūdinama kaip taryba; Tautų Sąjungos Taryba siūlė ginčą spręsti plebiscitu Tautų Sąjungos priežiūroje. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Tautų Sąjungos Taryba“ apibūdinama kaip taryba; Tautų Sąjungos Taryba siūlė ginčą spręsti plebiscitu Tautų Sąjungos priežiūroje."
+  teiginys: "taryba; Tautų Sąjungos Taryba siūlė ginčą spręsti plebiscitu Tautų Sąjungos priežiūroje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

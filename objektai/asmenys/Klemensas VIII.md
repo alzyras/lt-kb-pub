@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Klemensas VIII
 
 ## Santrauka
-Šaltinyje Klemensas VIII apibūdinamas taip: Minimas kaip popiežius, visiškai pritaręs Pociejaus ir Terleckio misijai Romoje.
+Minimas kaip popiežius, visiškai pritaręs Pociejaus ir Terleckio misijai Romoje.
 
 ## Variantai
 - Klemenso VIII
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Klemensas VIII apibūdinamas taip: Minimas kaip popiežius, visiškai pritaręs Pociejaus ir Terleckio misijai Romoje."
+  teiginys: "Minimas kaip popiežius, visiškai pritaręs Pociejaus ir Terleckio misijai Romoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

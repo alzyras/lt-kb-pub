@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Kalvinai (grupė)
 
 ## Santrauka
-Šaltinyje „Kalvinai“ apibūdinama kaip religinė bendruomenė; kalvinai šiame gabale nurodomi kaip katalikų kunigų pakeitėjai M. Radvilos Juodojo dvaruose. (t-001)
+religinė bendruomenė; kalvinai šiame gabale nurodomi kaip katalikų kunigų pakeitėjai M. Radvilos Juodojo dvaruose. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Kalvinai (grupė)
@@ -40,14 +40,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: religinė bendruomenė
-Šaltinyje „Kalvinai“ apibūdinama kaip religinė bendruomenė; kalvinai šiame gabale nurodomi kaip katalikų kunigų pakeitėjai M. Radvilos Juodojo dvaruose. (t-001)
+religinė bendruomenė; kalvinai šiame gabale nurodomi kaip katalikų kunigų pakeitėjai M. Radvilos Juodojo dvaruose. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Kalvinai“ apibūdinama kaip religinė bendruomenė; kalvinai šiame gabale nurodomi kaip katalikų kunigų pakeitėjai M. Radvilos Juodojo dvaruose. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kalvinai“ apibūdinama kaip religinė bendruomenė; kalvinai šiame gabale nurodomi kaip katalikų kunigų pakeitėjai M. Radvilos Juodojo dvaruose."
+  teiginys: "religinė bendruomenė; kalvinai šiame gabale nurodomi kaip katalikų kunigų pakeitėjai M. Radvilos Juodojo dvaruose."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

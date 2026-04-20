@@ -32,7 +32,7 @@ patikimumas: "vidutinis"
 # Lietuvos atstovų priešseiminiai pasitarimai
 
 ## Santrauka
-Šaltinyje minima praktika „Lietuvos atstovų priešseiminiai pasitarimai“ siejama su formuluote: Lietuvos atstovai pirmiausia susivažiavo atskirai pasitarti; tokie pat į seimą vykstančių atstovų ir senatorių suvažiavimai. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos atstovai; Lietuvos atstovai ir senatoriai; kada atliekama: šaukiant seimą; prieš vykstant į Liubliną; prieš kiekvieną bendrąjį seimą. (t-001)
+Lietuvos atstovai pirmiausia susivažiavo atskirai pasitarti; tokie pat į seimą vykstančių atstovų ir senatorių suvažiavimai. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos atstovai; Lietuvos atstovai ir senatoriai; kada atliekama: šaukiant seimą; prieš vykstant į Liubliną; prieš kiekvieną bendrąjį seimą. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Lietuvos atstovai pirmiausia susivažiavo atskirai pasitarti
@@ -45,8 +45,7 @@ patikimumas: "vidutinis"
 - date_start/date_end: 1569 / 1569 (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Lietuvos atstovų priešseiminiai pasitarimai“ siejama su formuluote: Lietuvos atstovai pirmiausia susivažiavo atskirai pasitarti; tokie pat į seimą vykstančių atstovų ir senatorių suvažiavimai. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos atstovai; Lietuvos atstovai ir senatoriai; kada atliekama: šaukiant seimą; prieš vykstant į Liubliną; prieš kiekvieną bendrąjį seimą. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: Lietuvos atstovai; Lietuvos atstovai ir senatoriai (t-001)
 - kada atliekama: šaukiant seimą; prieš vykstant į Liubliną; prieš kiekvieną bendrąjį seimą (t-001)
@@ -54,7 +53,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Lietuvos atstovų priešseiminiai pasitarimai“ siejama su formuluote: Lietuvos atstovai pirmiausia susivažiavo atskirai pasitarti; tokie pat į seimą vykstančių atstovų ir senatorių suvažiavimai. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos atstovai; Lietuvos atstovai ir senatoriai; kada atliekama: šaukiant seimą; prieš vykstant į Liubliną; prieš kiekvieną bendrąjį seimą."
+  teiginys: "Lietuvos atstovai pirmiausia susivažiavo atskirai pasitarti; tokie pat į seimą vykstančių atstovų ir senatorių suvažiavimai. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos atstovai; Lietuvos atstovai ir senatoriai; kada atliekama: šaukiant seimą; prieš vykstant į Liubliną; prieš kiekvieną bendrąjį seimą."
   pagrindžia:
     - c-001
     - c-002

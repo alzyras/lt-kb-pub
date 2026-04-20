@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Kardinalinės teisės
 
 ## Santrauka
-Šaltinyje „Kardinalinės teisės“ vartojama taip: Pagrindinės valstybės konstitucinės teisės. (t-001)
+Pagrindinės valstybės konstitucinės teisės. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Kardinalinės teisės
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: valstybės teisė, politinė is
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kardinalinės teisės“ vartojama taip: Pagrindinės valstybės konstitucinės teisės."
+  teiginys: "Pagrindinės valstybės konstitucinės teisės."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

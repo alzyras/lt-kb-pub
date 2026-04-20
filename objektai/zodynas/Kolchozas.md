@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Kolchozas
 
 ## Santrauka
-Šaltinyje „Kolchozas“ vartojama taip: Sovietinis kolektyvinis ūkis. (t-001)
+Sovietinis kolektyvinis ūkis. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Kolchozas
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: Sovietų ūkio terminija, žem�
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kolchozas“ vartojama taip: Sovietinis kolektyvinis ūkis."
+  teiginys: "Sovietinis kolektyvinis ūkis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -48,7 +48,7 @@ patikimumas: "aukstas"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Liublino unijos aktas“ siejamas su šiuo kontekstu: Tekstas kalba apie 1569 m. Liublino seime patvirtintus unijos aktus ir jų politinę reikšmę Lietuvos bei Lenkijos santykiams.
+Tekstas kalba apie 1569 m. Liublino seime patvirtintus unijos aktus ir jų politinę reikšmę Lietuvos bei Lenkijos santykiams.
 
 ## Ryšiai
 
@@ -57,19 +57,19 @@ patikimumas: "aukstas"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Liublino unijos aktas“ siejamas su šiuo kontekstu: Tekstas kalba apie 1569 m. Liublino seime patvirtintus unijos aktus ir jų politinę reikšmę Lietuvos bei Lenkijos santykiams."
+  teiginys: "Tekstas kalba apie 1569 m. Liublino seime patvirtintus unijos aktus ir jų politinę reikšmę Lietuvos bei Lenkijos santykiams."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Liublino unijos aktas“ šis aktas minimas kaip teisės dokumentas, kuriuo nustatyta bendra Lietuvos ir Lenkijos užsienio politika."
+  teiginys: "šis aktas minimas kaip teisės dokumentas, kuriuo nustatyta bendra Lietuvos ir Lenkijos užsienio politika."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-003
-  teiginys: "Šaltinyje „Liublino unijos aktas“ siejamas su šiuo kontekstu: Šaltinyje pavadinimas išplėtotas per skyriaus antraštę ir aprašymą; pats cituojamas fragmentas labiau nusako akto reikšmę nei formalią dokumento antraštę."
+  teiginys: "pavadinimas išplėtotas per skyriaus antraštę ir aprašymą; pats cituojamas fragmentas labiau nusako akto reikšmę nei formalią dokumento antraštę."
   pagrindžia:
     - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

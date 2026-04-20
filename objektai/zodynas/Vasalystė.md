@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Vasalystė
 
 ## Santrauka
-Šaltinyje „Vasalystė“ vartojama taip: Vasalo priklausomybės santykis. (t-001)
+Vasalo priklausomybės santykis. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Vasalystė
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: feodaliniai santykiai, tarptaut
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Vasalystė“ vartojama taip: Vasalo priklausomybės santykis."
+  teiginys: "Vasalo priklausomybės santykis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Gaigalaitis
 
 ## Santrauka
-Šaltinyje Gaigalaitis apibūdinamas taip: Minimas kaip kunigas dr., 1903 m. išrinktas į karalystės parlamentą.
+Minimas kaip kunigas dr., 1903 m. išrinktas į karalystės parlamentą.
 
 ## Variantai
 - Gaigalaitį
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Gaigalaitis apibūdinamas taip: Minimas kaip kunigas dr., 1903 m. išrinktas į karalystės parlamentą."
+  teiginys: "Minimas kaip kunigas dr., 1903 m. išrinktas į karalystės parlamentą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

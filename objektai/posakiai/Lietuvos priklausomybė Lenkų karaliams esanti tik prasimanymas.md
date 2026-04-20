@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Lietuvos priklausomybė Lenkų karaliams esanti tik prasimanymas
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Lietuvos priklausomybė Lenkų karaliams esanti tik prasimanymas“; kontekstas: Zigmanto laiške imperatoriui ginamas Lietuvos savarankiškumas ir neigiama jos priklausomybė Lenkijos karaliams. Reikšmė: Lakoniška politinė formuluotė, naudojama kaip argumentas prieš Lietuvos priklausomybę Lenkijai. (t-001)
+Užfiksuota formuluotė „Lietuvos priklausomybė Lenkų karaliams esanti tik prasimanymas“; kontekstas: Zigmanto laiške imperatoriui ginamas Lietuvos savarankiškumas ir neigiama jos priklausomybė Lenkijos karaliams. Reikšmė: Lakoniška politinė formuluotė, naudojama kaip argumentas prieš Lietuvos priklausomybę Lenkijai. (t-001)
 
 ## Forma
 - pagrindinė forma: Lietuvos priklausomybė Lenkų karaliams esanti tik prasimanymas (t-001)
@@ -49,7 +49,7 @@ Lakoniška politinė formuluotė, naudojama kaip argumentas prieš Lietuvos prik
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Lietuvos priklausomybė Lenkų karaliams esanti tik prasimanymas“; kontekstas: Zigmanto laiške imperatoriui ginamas Lietuvos savarankiškumas ir neigiama jos priklausomybė Lenkijos karaliams."
+  teiginys: "Užfiksuota formuluotė „Lietuvos priklausomybė Lenkų karaliams esanti tik prasimanymas“; kontekstas: Zigmanto laiške imperatoriui ginamas Lietuvos savarankiškumas ir neigiama jos priklausomybė Lenkijos karaliams."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

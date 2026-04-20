@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Voluinė
 
 ## Santrauka
-Šaltinyje vieta „Voluinė“ siejama su šiais kontekstais: Minima kaip viena iš pagrindinių Mindaugo laikotarpio kaimyninių politinių teritorijų; Voluinė minima kaip teritorija, dėl kurios Lietuva konfliktavo su Lenkija. (t-001, t-002)
+Minima kaip viena iš pagrindinių Mindaugo laikotarpio kaimyninių politinių teritorijų; Voluinė minima kaip teritorija, dėl kurios Lietuva konfliktavo su Lenkija. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Voluinė
@@ -47,13 +47,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Voluinė“ siejama su šiuo kontekstu: Minima kaip viena iš pagrindinių Mindaugo laikotarpio kaimyninių politinių teritorijų."
+  teiginys: "Minima kaip viena iš pagrindinių Mindaugo laikotarpio kaimyninių politinių teritorijų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Voluinė“ siejama su šiuo kontekstu: Voluinė minima kaip teritorija, dėl kurios Lietuva konfliktavo su Lenkija."
+  teiginys: "Voluinė minima kaip teritorija, dėl kurios Lietuva konfliktavo su Lenkija."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

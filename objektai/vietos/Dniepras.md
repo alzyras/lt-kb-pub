@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Dniepras
 
 ## Santrauka
-Šaltinyje vieta „Dniepras“ siejama su šiuo kontekstu: Upė minima kaip ledyno vandens baseinas ir rytinė geografinė kryptis. (t-001)
+Upė minima kaip ledyno vandens baseinas ir rytinė geografinė kryptis. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Dniepras
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Dniepras“ siejama su šiuo kontekstu: Upė minima kaip ledyno vandens baseinas ir rytinė geografinė kryptis."
+  teiginys: "Upė minima kaip ledyno vandens baseinas ir rytinė geografinė kryptis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

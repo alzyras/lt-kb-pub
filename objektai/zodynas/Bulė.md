@@ -32,7 +32,7 @@ patikimumas: "aukstas"
 # Bulė
 
 ## Santrauka
-Šaltinyje „Bulė“ vartojama taip: Popiežiaus oficialus raštas, susijęs su Gedimino krikšto klausimu; Popiežiaus oficialus raštas arba bulė. (t-001)
+Popiežiaus oficialus raštas, susijęs su Gedimino krikšto klausimu; Popiežiaus oficialus raštas arba bulė. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Bulė
@@ -56,7 +56,7 @@ Terminas šaltinyje vartojamas šiame kontekste: bažnytinė diplomatija, vidura
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Bulė“ vartojama taip: Popiežiaus oficialus raštas, susijęs su Gedimino krikšto klausimu; Popiežiaus oficialus raštas arba bulė."
+  teiginys: "Popiežiaus oficialus raštas, susijęs su Gedimino krikšto klausimu; Popiežiaus oficialus raštas arba bulė."
   pagrindžia:
     - c-001
     - c-002

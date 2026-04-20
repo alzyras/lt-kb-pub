@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Rousseau
 
 ## Santrauka
-Šaltinyje Rousseau minimas tarp švietimo epochos autorių ir tarp autorių, kurių raštais apie valstybę domėtasi XVIII a. viduryje.
+Rousseau minimas tarp švietimo epochos autorių ir tarp autorių, kurių raštais apie valstybę domėtasi XVIII a. viduryje.
 
 ## Darbai
 - Minimas tarp švietimo epochos autorių. (t-001)
@@ -38,13 +38,13 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Rousseau autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas tarp švietimo epochos autorių."
+  teiginys: "Minimas tarp švietimo epochos autorių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje Rousseau minimas tarp autorių, rašiusių apie valstybę."
+  teiginys: "Rousseau minimas tarp autorių, rašiusių apie valstybę."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Kantonas
 
 ## Santrauka
-Šaltinyje „Kantonas“ vartojama taip: Autonominis teritorinis vienetas su savivalda. (t-001)
+Autonominis teritorinis vienetas su savivalda. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Kantonas
@@ -54,7 +54,7 @@ Terminas šaltinyje vartojamas šiame kontekste: konstitucinė sandara, autonomi
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kantonas“ vartojama taip: Autonominis teritorinis vienetas su savivalda."
+  teiginys: "Autonominis teritorinis vienetas su savivalda."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

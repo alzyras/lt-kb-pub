@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # Fridrikas
 
 ## Santrauka
-Šaltinyje Fridrikas apibūdinamas taip: Kazimiero sūnus, minimas su bažnytinėmis pareigomis.
+Kazimiero sūnus, minimas su bažnytinėmis pareigomis.
 
 ## Variantai
 - Fridriko
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Fridrikas apibūdinamas taip: Kazimiero sūnus, minimas su bažnytinėmis pareigomis."
+  teiginys: "Kazimiero sūnus, minimas su bažnytinėmis pareigomis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

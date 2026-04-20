@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Patriarchatas
 
 ## Santrauka
-Šaltinyje „Patriarchatas“ vartojama taip: Bažnytinė institucija arba patriarcho valdoma sritis. (t-001)
+Bažnytinė institucija arba patriarcho valdoma sritis. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Patriarchatas
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: bažnytinė istorija, Rytų kri
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Patriarchatas“ vartojama taip: Bažnytinė institucija arba patriarcho valdoma sritis."
+  teiginys: "Bažnytinė institucija arba patriarcho valdoma sritis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Skatikas
 
 ## Santrauka
-Šaltinyje „Skatikas“ vartojama taip: istorinis pinigų nominalas. (t-001)
+istorinis pinigų nominalas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Skatikas
@@ -52,7 +52,7 @@ Terminas šaltinyje vartojamas šiame kontekste: numizmatika, pinigų istorija. 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Skatikas“ vartojama taip: istorinis pinigų nominalas."
+  teiginys: "istorinis pinigų nominalas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

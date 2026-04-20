@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Amžinoje vokiečių vergovėje
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Amžinoje vokiečių vergovėje“; kontekstas: Nusakoma, kad anapus Nemuno likusios aisčių giminės pateko į ilgametę pavergtą padėtį. Reikšmė: Tai ryški, retoriškai sustiprinta pavergimo formuluotė. (t-001)
+Užfiksuota formuluotė „Amžinoje vokiečių vergovėje“; kontekstas: Nusakoma, kad anapus Nemuno likusios aisčių giminės pateko į ilgametę pavergtą padėtį. Reikšmė: Tai ryški, retoriškai sustiprinta pavergimo formuluotė. (t-001)
 
 ## Forma
 - pagrindinė forma: Amžinoje vokiečių vergovėje (t-001)
@@ -35,7 +35,7 @@ patikimumas: "vidutinis"
 - amžinoje vokiečių vergovėje
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Nusakoma, kad anapus Nemuno likusios aisčių giminės pateko į ilgametę pavergtą padėtį. (t-001)
@@ -45,7 +45,7 @@ Tai ryški, retoriškai sustiprinta pavergimo formuluotė. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Amžinoje vokiečių vergovėje“; kontekstas: Nusakoma, kad anapus Nemuno likusios aisčių giminės pateko į ilgametę pavergtą padėtį."
+  teiginys: "Užfiksuota formuluotė „Amžinoje vokiečių vergovėje“; kontekstas: Nusakoma, kad anapus Nemuno likusios aisčių giminės pateko į ilgametę pavergtą padėtį."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

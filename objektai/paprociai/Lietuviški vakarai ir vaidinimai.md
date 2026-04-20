@@ -32,7 +32,7 @@ patikimumas: "aukstas"
 # Lietuviški vakarai ir vaidinimai
 
 ## Santrauka
-Šaltinyje minima praktika „Lietuviški vakarai ir vaidinimai“ siejama su formuluote: lietuviškais vakarais (su vaidinimais, dainomis ir tautiškais žaidimais); darė susirinkimus, ruošė lietuviškus vaidinimus. Šaltinio kontekste nurodoma: kas atlieka: Latvijos lietuviai; kada atliekama: po 1905 m. revoliucijos; tautiškojo sąjūdžio stiprėjimo metu; XIX a. pabaigoje, kai Lietuvoje lietuviškas veikimas buvo persekiojamas. (t-001)
+lietuviškais vakarais (su vaidinimais, dainomis ir tautiškais žaidimais); darė susirinkimus, ruošė lietuviškus vaidinimus. Šaltinio kontekste nurodoma: kas atlieka: Latvijos lietuviai; kada atliekama: po 1905 m. revoliucijos; tautiškojo sąjūdžio stiprėjimo metu; XIX a. pabaigoje, kai Lietuvoje lietuviškas veikimas buvo persekiojamas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - lietuviškais vakarais (su vaidinimais, dainomis ir tautiškais žaidimais)
@@ -45,8 +45,7 @@ patikimumas: "aukstas"
 - date_start/date_end: 1905 / 1905 (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Lietuviški vakarai ir vaidinimai“ siejama su formuluote: lietuviškais vakarais (su vaidinimais, dainomis ir tautiškais žaidimais); darė susirinkimus, ruošė lietuviškus vaidinimus. Šaltinio kontekste nurodoma: kas atlieka: Latvijos lietuviai; kada atliekama: po 1905 m. revoliucijos; tautiškojo sąjūdžio stiprėjimo metu; XIX a. pabaigoje, kai Lietuvoje lietuviškas veikimas buvo persekiojamas. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: Latvijos lietuviai (t-001)
 - kada atliekama: po 1905 m. revoliucijos; tautiškojo sąjūdžio stiprėjimo metu; XIX a. pabaigoje, kai Lietuvoje lietuviškas veikimas buvo persekiojamas (t-001)
@@ -54,7 +53,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Lietuviški vakarai ir vaidinimai“ siejama su formuluote: lietuviškais vakarais (su vaidinimais, dainomis ir tautiškais žaidimais); darė susirinkimus, ruošė lietuviškus vaidinimus. Šaltinio kontekste nurodoma: kas atlieka: Latvijos lietuviai; kada atliekama: po 1905 m. revoliucijos; tautiškojo sąjūdžio stiprėjimo metu; XIX a. pabaigoje, kai Lietuvoje lietuviškas veikimas buvo persekiojamas."
+  teiginys: "lietuviškais vakarais (su vaidinimais, dainomis ir tautiškais žaidimais); darė susirinkimus, ruošė lietuviškus vaidinimus. Šaltinio kontekste nurodoma: kas atlieka: Latvijos lietuviai; kada atliekama: po 1905 m. revoliucijos; tautiškojo sąjūdžio stiprėjimo metu; XIX a. pabaigoje, kai Lietuvoje lietuviškas veikimas buvo persekiojamas."
   pagrindžia:
     - c-001
     - c-002

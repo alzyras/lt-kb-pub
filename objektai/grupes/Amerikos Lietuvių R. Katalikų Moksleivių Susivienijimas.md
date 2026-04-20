@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimas
 
 ## Santrauka
-Šaltinyje „Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimas“ apibūdinama kaip susivienijimas; 1912 m. Čikagoje įkurtas katalikiškų moksleivių susivienijimas. (t-001)
+susivienijimas; 1912 m. Čikagoje įkurtas katalikiškų moksleivių susivienijimas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimas
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: susivienijimas
-Šaltinyje „Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimas“ apibūdinama kaip susivienijimas; 1912 m. Čikagoje įkurtas katalikiškų moksleivių susivienijimas. (t-001)
+susivienijimas; 1912 m. Čikagoje įkurtas katalikiškų moksleivių susivienijimas. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimas“ apibūdinama kaip susivienijimas; 1912 m. Čikagoje įkurtas katalikiškų moksleivių susivienijimas. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimas“ apibūdinama kaip susivienijimas; 1912 m. Čikagoje įkurtas katalikiškų moksleivių susivienijimas."
+  teiginys: "susivienijimas; 1912 m. Čikagoje įkurtas katalikiškų moksleivių susivienijimas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

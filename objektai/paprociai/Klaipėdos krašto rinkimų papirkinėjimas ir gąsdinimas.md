@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Klaipėdos krašto rinkimų papirkinėjimas ir gąsdinimas
 
 ## Santrauka
-Šaltinyje minima praktika „Klaipėdos krašto rinkimų papirkinėjimas ir gąsdinimas“ siejama su formuluote: kiekvienų rinkimų metu kraštas dar būdavo užpilamas pinigais, o kartu būdavo paskleidžiami gandai. Šaltinio kontekste nurodoma: kas atlieka: vokiečiai ir jų remiamos organizacijos; kada atliekama: kiekvienų rinkimų metu; 1935 m. seimelio rinkimų išvakarėse. (t-001)
+kiekvienų rinkimų metu kraštas dar būdavo užpilamas pinigais, o kartu būdavo paskleidžiami gandai. Šaltinio kontekste nurodoma: kas atlieka: vokiečiai ir jų remiamos organizacijos; kada atliekama: kiekvienų rinkimų metu; 1935 m. seimelio rinkimų išvakarėse. (t-001)
 
 ## Pavadinimai šaltiniuose
 - kiekvienų rinkimų metu kraštas dar būdavo užpilamas pinigais, o kartu būdavo paskleidžiami gandai
@@ -39,8 +39,7 @@ patikimumas: "aukstas"
 - amziai: XX (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Klaipėdos krašto rinkimų papirkinėjimas ir gąsdinimas“ siejama su formuluote: kiekvienų rinkimų metu kraštas dar būdavo užpilamas pinigais, o kartu būdavo paskleidžiami gandai. Šaltinio kontekste nurodoma: kas atlieka: vokiečiai ir jų remiamos organizacijos; kada atliekama: kiekvienų rinkimų metu; 1935 m. seimelio rinkimų išvakarėse. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: vokiečiai ir jų remiamos organizacijos (t-001)
 - kada atliekama: kiekvienų rinkimų metu; 1935 m. seimelio rinkimų išvakarėse (t-001)
@@ -48,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Klaipėdos krašto rinkimų papirkinėjimas ir gąsdinimas“ siejama su formuluote: kiekvienų rinkimų metu kraštas dar būdavo užpilamas pinigais, o kartu būdavo paskleidžiami gandai. Šaltinio kontekste nurodoma: kas atlieka: vokiečiai ir jų remiamos organizacijos; kada atliekama: kiekvienų rinkimų metu; 1935 m. seimelio rinkimų išvakarėse."
+  teiginys: "kiekvienų rinkimų metu kraštas dar būdavo užpilamas pinigais, o kartu būdavo paskleidžiami gandai. Šaltinio kontekste nurodoma: kas atlieka: vokiečiai ir jų remiamos organizacijos; kada atliekama: kiekvienų rinkimų metu; 1935 m. seimelio rinkimų išvakarėse."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

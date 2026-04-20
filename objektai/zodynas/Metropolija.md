@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Metropolija
 
 ## Santrauka
-Šaltinyje „Metropolija“ vartojama taip: Bažnytinė provincija arba metropolito valdoma sritis. (t-001)
+Bažnytinė provincija arba metropolito valdoma sritis. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Metropolija
@@ -52,7 +52,7 @@ Terminas šaltinyje vartojamas šiame kontekste: bažnytinė administracija, Ryt
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Metropolija“ vartojama taip: Bažnytinė provincija arba metropolito valdoma sritis."
+  teiginys: "Bažnytinė provincija arba metropolito valdoma sritis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

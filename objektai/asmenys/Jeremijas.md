@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # Jeremijas
 
 ## Santrauka
-Šaltinyje Jeremijas apibūdinamas taip: Minimas kaip Konstantinopolio patriarchas, su kuriuo Ragoza buvo susipykęs.
+Minimas kaip Konstantinopolio patriarchas, su kuriuo Ragoza buvo susipykęs.
 
 ## Variantai
 - Jeremiju
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Jeremijas apibūdinamas taip: Minimas kaip Konstantinopolio patriarchas, su kuriuo Ragoza buvo susipykęs."
+  teiginys: "Minimas kaip Konstantinopolio patriarchas, su kuriuo Ragoza buvo susipykęs."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

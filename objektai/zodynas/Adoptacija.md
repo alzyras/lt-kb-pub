@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Adoptacija
 
 ## Santrauka
-Šaltinyje „Adoptacija“ vartojama taip: Heraldinė priėmimo į giminę praktika. (t-001)
+Heraldinė priėmimo į giminę praktika. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Adoptacija
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: heraldika, bajorų luominė kul
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Adoptacija“ vartojama taip: Heraldinė priėmimo į giminę praktika."
+  teiginys: "Heraldinė priėmimo į giminę praktika."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

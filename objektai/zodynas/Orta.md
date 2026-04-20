@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Orta
 
 ## Santrauka
-Šaltinyje „Orta“ vartojama taip: piniginis nominalas. (t-001)
+piniginis nominalas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Orta
@@ -50,7 +50,7 @@ Terminas šaltinyje vartojamas šiame kontekste: numizmatika, pinigų istorija. 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Orta“ vartojama taip: piniginis nominalas."
+  teiginys: "piniginis nominalas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

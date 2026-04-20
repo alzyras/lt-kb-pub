@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Praga
 
 ## Santrauka
-Šaltinyje vieta „Praga“ siejama su šiuo kontekstu: Minima kaip vieta, kur sustodavo iš Lietuvos į elekciją atvykstantys senatoriai ir atstovai. (t-001)
+Minima kaip vieta, kur sustodavo iš Lietuvos į elekciją atvykstantys senatoriai ir atstovai. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Praga
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Praga“ siejama su šiuo kontekstu: Minima kaip vieta, kur sustodavo iš Lietuvos į elekciją atvykstantys senatoriai ir atstovai."
+  teiginys: "Minima kaip vieta, kur sustodavo iš Lietuvos į elekciją atvykstantys senatoriai ir atstovai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

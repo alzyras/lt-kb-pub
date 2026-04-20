@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Akademija
 
 ## Santrauka
-Šaltinyje „Akademija“ vartojama taip: Aukštoji mokykla, universiteto tipo institucija. (t-001)
+Aukštoji mokykla, universiteto tipo institucija. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Akademija
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: švietimo istorija, universitet
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Akademija“ vartojama taip: Aukštoji mokykla, universiteto tipo institucija."
+  teiginys: "Aukštoji mokykla, universiteto tipo institucija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

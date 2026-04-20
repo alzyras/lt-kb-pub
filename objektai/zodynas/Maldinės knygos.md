@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Maldinės knygos
 
 ## Santrauka
-Šaltinyje „Maldinės knygos“ vartojama taip: Maldos, pamaldumo ar giesmių knygos. (t-001)
+Maldos, pamaldumo ar giesmių knygos. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Maldinės knygos
@@ -50,7 +50,7 @@ Terminas šaltinyje vartojamas šiame kontekste: bažnytinė leksika, religinių
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Maldinės knygos“ vartojama taip: Maldos, pamaldumo ar giesmių knygos."
+  teiginys: "Maldos, pamaldumo ar giesmių knygos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

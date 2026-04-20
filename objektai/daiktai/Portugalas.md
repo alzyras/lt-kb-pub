@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Portugalas
 
 ## Santrauka
-Šaltinyje „Portugalas“ tai Zigmanto Augusto ir Zigmanto Vazos pinigų aprašuose minimas 10 dukatų vertės aukso pinigas.
+tai Zigmanto Augusto ir Zigmanto Vazos pinigų aprašuose minimas 10 dukatų vertės aukso pinigas.
 
 ## Pavadinimai šaltiniuose
 - portugalai
@@ -48,11 +48,10 @@ patikimumas: "aukstas"
 - date_end:
 
 ## Kas tai
-Šaltinyje „Portugalas“ tai Zigmanto Augusto ir Zigmanto Vazos pinigų aprašuose minimas 10 dukatų vertės aukso pinigas.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Portugalas“ tai Zigmanto Augusto ir Zigmanto Vazos pinigų aprašuose minimas 10 dukatų vertės aukso pinigas."
+  teiginys: "tai Zigmanto Augusto ir Zigmanto Vazos pinigų aprašuose minimas 10 dukatų vertės aukso pinigas."
   pagrindžia:
     - c-001
     - c-002

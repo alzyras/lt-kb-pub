@@ -23,11 +23,11 @@ patikimumas: "aukstas"
 # S. Narutavičius
 
 ## Santrauka
-Šaltinyje S. Narutavičius apibūdinamas taip: Minimas kaip Lietuvos Tarybos narys.
+Minimas kaip Lietuvos Tarybos narys.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje S. Narutavičius apibūdinamas taip: Minimas kaip Lietuvos Tarybos narys."
+  teiginys: "Minimas kaip Lietuvos Tarybos narys."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

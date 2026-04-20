@@ -39,7 +39,7 @@ patikimumas: "aukstas"
 # Lietuviškos pamaldos, giesmės ir tikybos mokymas
 
 ## Santrauka
-Šaltinyje minima praktika „Lietuviškos pamaldos, giesmės ir tikybos mokymas“ siejama su formuluote: lietuviškai atliekama dalis pamaldų ir lietuviškai žmonės mokomi tikybos; pridedamosios lietuviškos pamaldos; lietuviškos pamaldos; pirmosios pamaldos buvo vokiškos, o tik antrosios lietuviškos. Šaltinio kontekste nurodoma: kas atlieka: lietuvių kunigai ir parapijonys; Mažosios Lietuvos kunigai ir maldingieji lietuviai; religinės draugijos; kada atliekama: XIX a. pradžioje, Kantrimo memorialo kontekste; 1901 m. ir po to; XX a. pradžioje; XVIII amž. pradžioje; nuo XIX a. pradžios. (t-001)
+lietuviškai atliekama dalis pamaldų ir lietuviškai žmonės mokomi tikybos; pridedamosios lietuviškos pamaldos; lietuviškos pamaldos; pirmosios pamaldos buvo vokiškos, o tik antrosios lietuviškos. Šaltinio kontekste nurodoma: kas atlieka: lietuvių kunigai ir parapijonys; Mažosios Lietuvos kunigai ir maldingieji lietuviai; religinės draugijos; kada atliekama: XIX a. pradžioje, Kantrimo memorialo kontekste; 1901 m. ir po to; XX a. pradžioje; XVIII amž. pradžioje; nuo XIX a. pradžios. (t-001)
 
 ## Pavadinimai šaltiniuose
 - lietuviškai atliekama dalis pamaldų ir lietuviškai žmonės mokomi tikybos
@@ -54,8 +54,7 @@ patikimumas: "aukstas"
 - date_start/date_end: 1822 / 1910 (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Lietuviškos pamaldos, giesmės ir tikybos mokymas“ siejama su formuluote: lietuviškai atliekama dalis pamaldų ir lietuviškai žmonės mokomi tikybos; pridedamosios lietuviškos pamaldos; lietuviškos pamaldos; pirmosios pamaldos buvo vokiškos, o tik antrosios lietuviškos. Šaltinio kontekste nurodoma: kas atlieka: lietuvių kunigai ir parapijonys; Mažosios Lietuvos kunigai ir maldingieji lietuviai; religinės draugijos; kada atliekama: XIX a. pradžioje, Kantrimo memorialo kontekste; 1901 m. ir po to; XX a. pradžioje; XVIII amž. pradžioje; nuo XIX a. pradžios. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: lietuvių kunigai ir parapijonys; Mažosios Lietuvos kunigai ir maldingieji lietuviai; religinės draugijos (t-001)
 - kada atliekama: XIX a. pradžioje, Kantrimo memorialo kontekste; 1901 m. ir po to; XX a. pradžioje; XVIII amž. pradžioje; nuo XIX a. pradžios (t-001)
@@ -63,7 +62,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Lietuviškos pamaldos, giesmės ir tikybos mokymas“ siejama su formuluote: lietuviškai atliekama dalis pamaldų ir lietuviškai žmonės mokomi tikybos; pridedamosios lietuviškos pamaldos; lietuviškos pamaldos; pirmosios pamaldos buvo vokiškos, o tik antrosios lietuviškos. Šaltinio kontekste nurodoma: kas atlieka: lietuvių kunigai ir parapijonys; Mažosios Lietuvos kunigai ir maldingieji lietuviai; religinės draugijos; kada atliekama: XIX a. pradžioje, Kantrimo memorialo kontekste; 1901 m. ir po to; XX a. pradžioje; XVIII amž. pradžioje; nuo XIX a. pradžios."
+  teiginys: "lietuviškai atliekama dalis pamaldų ir lietuviškai žmonės mokomi tikybos; pridedamosios lietuviškos pamaldos; lietuviškos pamaldos; pirmosios pamaldos buvo vokiškos, o tik antrosios lietuviškos. Šaltinio kontekste nurodoma: kas atlieka: lietuvių kunigai ir parapijonys; Mažosios Lietuvos kunigai ir maldingieji lietuviai; religinės draugijos; kada atliekama: XIX a. pradžioje, Kantrimo memorialo kontekste; 1901 m. ir po to; XX a. pradžioje; XVIII amž. pradžioje; nuo XIX a. pradžios."
   pagrindžia:
     - c-001
     - c-002

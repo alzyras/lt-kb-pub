@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Sibiras
 
 ## Santrauka
-Šaltinyje vieta „Sibiras“ siejama su šiuo kontekstu: Minimas kaip viena iš tremties vietų po sukilimo malšinimo. (t-001)
+Minimas kaip viena iš tremties vietų po sukilimo malšinimo. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Sibiras
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Sibiras“ siejama su šiuo kontekstu: Minimas kaip viena iš tremties vietų po sukilimo malšinimo."
+  teiginys: "Minimas kaip viena iš tremties vietų po sukilimo malšinimo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

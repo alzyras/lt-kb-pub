@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Radvilų rūmų Vilniuje medalis
 
 ## Santrauka
-Šaltinyje „Radvilų rūmų Vilniuje medalis“ tai kitas, atskiras medalis, kurio aprašomoji antraštė sieja jį su Radvilų rūmais Vilniuje.
+tai kitas, atskiras medalis, kurio aprašomoji antraštė sieja jį su Radvilų rūmais Vilniuje.
 
 ## Pavadinimai šaltiniuose
 - Medalis, vaizduojąs Radvilų rumus Vilniuje
@@ -43,11 +43,10 @@ patikimumas: "vidutinis"
 - date_end:
 
 ## Kas tai
-Šaltinyje „Radvilų rūmų Vilniuje medalis“ tai kitas, atskiras medalis, kurio aprašomoji antraštė sieja jį su Radvilų rūmais Vilniuje.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Radvilų rūmų Vilniuje medalis“ tai kitas, atskiras medalis, kurio aprašomoji antraštė sieja jį su Radvilų rūmais Vilniuje."
+  teiginys: "tai kitas, atskiras medalis, kurio aprašomoji antraštė sieja jį su Radvilų rūmais Vilniuje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

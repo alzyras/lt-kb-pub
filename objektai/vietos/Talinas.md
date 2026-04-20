@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Talinas
 
 ## Santrauka
-Šaltinyje vieta „Talinas“ siejama su šiuo kontekstu: Talinas minima kaip Švedų užimtas Livonijos miestas. (t-001)
+Talinas minima kaip Švedų užimtas Livonijos miestas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Talinas
@@ -49,7 +49,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Talinas“ siejama su šiuo kontekstu: Talinas minima kaip Švedų užimtas Livonijos miestas."
+  teiginys: "Talinas minima kaip Švedų užimtas Livonijos miestas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

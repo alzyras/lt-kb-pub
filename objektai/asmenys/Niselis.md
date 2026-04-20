@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Niselis
 
 ## Santrauka
-Šaltinyje Niselis apibūdinamas taip: Minimas kaip santarvės komisijos ir misijos vadovas, įsikišęs į kovas su bermontininkais.
+Minimas kaip santarvės komisijos ir misijos vadovas, įsikišęs į kovas su bermontininkais.
 
 ## Variantai
 - Niselio
@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Niselis apibūdinamas taip: Minimas kaip santarvės komisijos ir misijos vadovas, įsikišęs į kovas su bermontininkais."
+  teiginys: "Minimas kaip santarvės komisijos ir misijos vadovas, įsikišęs į kovas su bermontininkais."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Eiguliai
 
 ## Santrauka
-Šaltinyje vieta „Eiguliai“ siejama su šiuo kontekstu: Minima kaip Kauno apylinkėse likęs lietuvių atramos punktas. (t-001)
+Minima kaip Kauno apylinkėse likęs lietuvių atramos punktas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Eiguliai
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Eiguliai“ siejama su šiuo kontekstu: Minima kaip Kauno apylinkėse likęs lietuvių atramos punktas."
+  teiginys: "Minima kaip Kauno apylinkėse likęs lietuvių atramos punktas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

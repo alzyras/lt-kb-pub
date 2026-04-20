@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Jonas Jeronimas Katkevičius
 
 ## Santrauka
-Šaltinyje Jonas Jeronimas Katkevičius apibūdinamas taip: 1566 m. paskirtas Livonijos valdytoju ir prikalbėjęs livoniečius visiškai susijungti su Lietuva.
+1566 m. paskirtas Livonijos valdytoju ir prikalbėjęs livoniečius visiškai susijungti su Lietuva.
 
 ## Variantai
 - Jonas Jeronimas Katke-vičius
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Jonas Jeronimas Katkevičius apibūdinamas taip: 1566 m. paskirtas Livonijos valdytoju ir prikalbėjęs livoniečius visiškai susijungti su Lietuva."
+  teiginys: "1566 m. paskirtas Livonijos valdytoju ir prikalbėjęs livoniečius visiškai susijungti su Lietuva."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

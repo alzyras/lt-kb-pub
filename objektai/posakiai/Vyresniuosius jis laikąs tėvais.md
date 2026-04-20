@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Vyresniuosius jis laikąs tėvais
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais“; kontekstas: Gediminas aiškina popiežiui ir delegatams hierarchinę santykių tvarką savo laiške. Reikšmė: Formula, išreiškianti hierarchinę giminystės analogiją. (t-001)
+Užfiksuota formuluotė „Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais“; kontekstas: Gediminas aiškina popiežiui ir delegatams hierarchinę santykių tvarką savo laiške. Reikšmė: Formula, išreiškianti hierarchinę giminystės analogiją. (t-001)
 
 ## Forma
 - pagrindinė forma: Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais (t-001)
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 - vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Gediminas aiškina popiežiui ir delegatams hierarchinę santykių tvarką savo laiške. (t-001)
@@ -48,7 +48,7 @@ Formula, išreiškianti hierarchinę giminystės analogiją. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais“; kontekstas: Gediminas aiškina popiežiui ir delegatams hierarchinę santykių tvarką savo laiške."
+  teiginys: "Užfiksuota formuluotė „Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais“; kontekstas: Gediminas aiškina popiežiui ir delegatams hierarchinę santykių tvarką savo laiške."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

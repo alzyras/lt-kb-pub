@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Bobruiskas
 
 ## Santrauka
-Šaltinyje vieta „Bobruiskas“ siejama su šiuo kontekstu: Minimas kaip jėzuitų kolegijos fundacijos vieta. (t-001)
+Minimas kaip jėzuitų kolegijos fundacijos vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Bobruiskas
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Bobruiskas“ siejama su šiuo kontekstu: Minimas kaip jėzuitų kolegijos fundacijos vieta."
+  teiginys: "Minimas kaip jėzuitų kolegijos fundacijos vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

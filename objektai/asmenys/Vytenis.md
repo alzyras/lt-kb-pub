@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Vytenis
 
 ## Santrauka
-Šaltinyje Vytenis apibūdinamas taip: Įvardytas kaip Gediminaičių laikotarpio valdovas.
+Įvardytas kaip Gediminaičių laikotarpio valdovas.
 
 ## Laikotarpis ir datos
 - laikotarpis: 1295–1316 m.
@@ -39,7 +39,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Vytenis apibūdinamas taip: Įvardytas kaip Gediminaičių laikotarpio valdovas."
+  teiginys: "Įvardytas kaip Gediminaičių laikotarpio valdovas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

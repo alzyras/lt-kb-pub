@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Vengrai
 
 ## Santrauka
-Šaltinyje „Vengrai“ apibūdinama kaip tauta; vengrai minimi kaip viena iš valdovų aplinkų, su kuria Kazimierui teko daugiausia reikalų, nes jo sūnui Vladislovui pavyko užimti jų sostą. (t-001)
+tauta; vengrai minimi kaip viena iš valdovų aplinkų, su kuria Kazimierui teko daugiausia reikalų, nes jo sūnui Vladislovui pavyko užimti jų sostą. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Vengrai
@@ -38,14 +38,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: tauta
-Šaltinyje „Vengrai“ apibūdinama kaip tauta; vengrai minimi kaip viena iš valdovų aplinkų, su kuria Kazimierui teko daugiausia reikalų, nes jo sūnui Vladislovui pavyko užimti jų sostą. (t-001)
+tauta; vengrai minimi kaip viena iš valdovų aplinkų, su kuria Kazimierui teko daugiausia reikalų, nes jo sūnui Vladislovui pavyko užimti jų sostą. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Vengrai“ apibūdinama kaip tauta; vengrai minimi kaip viena iš valdovų aplinkų, su kuria Kazimierui teko daugiausia reikalų, nes jo sūnui Vladislovui pavyko užimti jų sostą. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Vengrai“ apibūdinama kaip tauta; vengrai minimi kaip viena iš valdovų aplinkų, su kuria Kazimierui teko daugiausia reikalų, nes jo sūnui Vladislovui pavyko užimti jų sostą."
+  teiginys: "tauta; vengrai minimi kaip viena iš valdovų aplinkų, su kuria Kazimierui teko daugiausia reikalų, nes jo sūnui Vladislovui pavyko užimti jų sostą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

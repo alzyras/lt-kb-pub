@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Modus vivendi
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Modus vivendi“; kontekstas: Jaunoji karta svarstė su ordinu rasti praktinį susitarimą, kad liautųsi karai ir būtų galima derėtis dėl sutarčių. Reikšmė: Laikino sugyvenimo arba praktinio susitarimo formulė. (t-001)
+Užfiksuota formuluotė „Modus vivendi“; kontekstas: Jaunoji karta svarstė su ordinu rasti praktinį susitarimą, kad liautųsi karai ir būtų galima derėtis dėl sutarčių. Reikšmė: Laikino sugyvenimo arba praktinio susitarimo formulė. (t-001)
 
 ## Forma
 - pagrindinė forma: Modus vivendi (t-001)
@@ -35,7 +35,7 @@ patikimumas: "vidutinis"
 - modus vivendi
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Jaunoji karta svarstė su ordinu rasti praktinį susitarimą, kad liautųsi karai ir būtų galima derėtis dėl sutarčių. (t-001)
@@ -45,7 +45,7 @@ Laikino sugyvenimo arba praktinio susitarimo formulė. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Modus vivendi“; kontekstas: Jaunoji karta svarstė su ordinu rasti praktinį susitarimą, kad liautųsi karai ir būtų galima derėtis dėl sutarčių."
+  teiginys: "Užfiksuota formuluotė „Modus vivendi“; kontekstas: Jaunoji karta svarstė su ordinu rasti praktinį susitarimą, kad liautųsi karai ir būtų galima derėtis dėl sutarčių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

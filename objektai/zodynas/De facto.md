@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # De facto
 
 ## Santrauka
-Šaltinyje „De facto“ vartojama taip: Faktiškas, bet dar ne pilnas teisinis valstybės ar valdžios pripažinimas. (t-001)
+Faktiškas, bet dar ne pilnas teisinis valstybės ar valdžios pripažinimas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: De facto
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: tarptautinė teisė, diplomatin
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „De facto“ vartojama taip: Faktiškas, bet dar ne pilnas teisinis valstybės ar valdžios pripažinimas."
+  teiginys: "Faktiškas, bet dar ne pilnas teisinis valstybės ar valdžios pripažinimas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

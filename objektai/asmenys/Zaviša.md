@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Zaviša
 
 ## Santrauka
-Šaltinyje Zaviša apibūdinamas taip: Jadvygos pasiųstas ištikimas bajoras, tikrinęs Jogailos išvaizdą.
+Jadvygos pasiųstas ištikimas bajoras, tikrinęs Jogailos išvaizdą.
 
 ## Variantai
 - Zavišą
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Zaviša apibūdinamas taip: Jadvygos pasiųstas ištikimas bajoras, tikrinęs Jogailos išvaizdą."
+  teiginys: "Jadvygos pasiųstas ištikimas bajoras, tikrinęs Jogailos išvaizdą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

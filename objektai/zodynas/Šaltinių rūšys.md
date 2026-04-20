@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Šaltinių rūšys
 
 ## Santrauka
-Šaltinyje „Šaltinių rūšys“ vartojama taip: Istorinių šaltinių klasifikacija į rašytinius, materialinius ir dvasinius likučius. (t-001)
+Istorinių šaltinių klasifikacija į rašytinius, materialinius ir dvasinius likučius. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Šaltinių rūšys
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: istorijos metodika, šaltinių 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Šaltinių rūšys“ vartojama taip: Istorinių šaltinių klasifikacija į rašytinius, materialinius ir dvasinius likučius."
+  teiginys: "Istorinių šaltinių klasifikacija į rašytinius, materialinius ir dvasinius likučius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

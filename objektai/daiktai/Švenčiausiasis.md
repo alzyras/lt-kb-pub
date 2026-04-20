@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Švenčiausiasis
 
 ## Santrauka
-Šaltinyje „Švenčiausiasis“ siejamas su šiuo kontekstu: Kražių bažnyčioje mėginamas išnešti liturginis objektas, bet žmonės tam neleidžia.
+Kražių bažnyčioje mėginamas išnešti liturginis objektas, bet žmonės tam neleidžia.
 
 ## Pavadinimai šaltiniuose
 - Švenčiausiąjį
@@ -43,11 +43,10 @@ patikimumas: "aukstas"
 - date_end: 1893
 
 ## Kas tai
-Šaltinyje „Švenčiausiasis“ siejamas su šiuo kontekstu: Kražių bažnyčioje mėginamas išnešti liturginis objektas, bet žmonės tam neleidžia.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Švenčiausiasis“ siejamas su šiuo kontekstu: Kražių bažnyčioje mėginamas išnešti liturginis objektas, bet žmonės tam neleidžia."
+  teiginys: "Kražių bažnyčioje mėginamas išnešti liturginis objektas, bet žmonės tam neleidžia."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

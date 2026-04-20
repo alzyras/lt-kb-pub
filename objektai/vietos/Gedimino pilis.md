@@ -23,7 +23,7 @@ patikimumas: "aukstas"
 # Gedimino pilis
 
 ## Santrauka
-Šaltinyje vieta „Gedimino pilis“ siejama su šiuo kontekstu: Minima kaip vadinamoji Gedimino pilis Jūros paupyje. (t-001)
+Minima kaip vadinamoji Gedimino pilis Jūros paupyje. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Gedimino pilis
@@ -39,7 +39,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Gedimino pilis“ siejama su šiuo kontekstu: Minima kaip vadinamoji Gedimino pilis Jūros paupyje."
+  teiginys: "Minima kaip vadinamoji Gedimino pilis Jūros paupyje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

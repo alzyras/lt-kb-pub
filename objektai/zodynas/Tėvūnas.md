@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Tėvūnas
 
 ## Santrauka
-Šaltinyje „Tėvūnas“ vartojama taip: Dvaro prievaizdas arba valdytojas. (t-001)
+Dvaro prievaizdas arba valdytojas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Tėvūnas
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: dvaro administracija, valdžios
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Tėvūnas“ vartojama taip: Dvaro prievaizdas arba valdytojas."
+  teiginys: "Dvaro prievaizdas arba valdytojas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

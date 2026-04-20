@@ -41,7 +41,7 @@ patikimumas: "aukstas"
 # Gudų kanceliarinė kalba
 
 ## Santrauka
-Šaltinyje „Gudų kanceliarinė kalba“ vartojama taip: Lietuvos raštų ir vidaus reikalų raštvedybos kalba, dar vadinama gudų kalba arba gudų rašto kalba. 1697 m. teismų sprendimuose ją pakeitė lenkų kalba. (t-001, t-002)
+Lietuvos raštų ir vidaus reikalų raštvedybos kalba, dar vadinama gudų kalba arba gudų rašto kalba. 1697 m. teismų sprendimuose ją pakeitė lenkų kalba. (t-001, t-002)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Gudų kanceliarinė kalba
@@ -64,7 +64,7 @@ Terminas šaltinyje vartojamas šiame kontekste: raštvedyba, kronikos, Lietuvos
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Gudų kanceliarinė kalba“ vartojama taip: Lietuvos raštų ir vidaus reikalų raštvedybos kalba, dar vadinama gudų kalba arba gudų rašto kalba."
+  teiginys: "Lietuvos raštų ir vidaus reikalų raštvedybos kalba, dar vadinama gudų kalba arba gudų rašto kalba."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

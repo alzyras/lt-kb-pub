@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Transumptas
 
 ## Santrauka
-Šaltinyje „Transumptas“ vartojama taip: patvirtinta dokumento kopija, nuorašas. (t-001)
+patvirtinta dokumento kopija, nuorašas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Transumptas
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: dokumentų istorija, diplomatik
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Transumptas“ vartojama taip: patvirtinta dokumento kopija, nuorašas."
+  teiginys: "patvirtinta dokumento kopija, nuorašas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

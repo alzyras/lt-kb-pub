@@ -37,7 +37,7 @@ patikimumas: "vidutinis"
 # Apygardėlinė mokykla
 
 ## Santrauka
-Šaltinyje „Apygardėlinė mokykla“ vartojama taip: Tam tikros apygardos mokykla žemesnėje švietimo sistemos pakopoje. (t-001)
+Tam tikros apygardos mokykla žemesnėje švietimo sistemos pakopoje. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Apygardėlinė mokykla
@@ -60,7 +60,7 @@ Terminas šaltinyje vartojamas šiame kontekste: švietimo administracija, mokyk
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Apygardėlinė mokykla“ vartojama taip: Tam tikros apygardos mokykla žemesnėje švietimo sistemos pakopoje."
+  teiginys: "Tam tikros apygardos mokykla žemesnėje švietimo sistemos pakopoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

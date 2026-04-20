@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Cerkvė
 
 ## Santrauka
-Šaltinyje „Cerkvė“ vartojama taip: Stačiatikių bažnyčia. (t-001)
+Stačiatikių bažnyčia. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Cerkvė
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: religinė istorija, bažnytinė
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Cerkvė“ vartojama taip: Stačiatikių bažnyčia."
+  teiginys: "Stačiatikių bažnyčia."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

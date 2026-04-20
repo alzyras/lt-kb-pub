@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Prūsai (kiltis)
 
 ## Santrauka
-Šaltinyje „Prūsai“ apibūdinama kaip kiltis; vakarinė aisčių kilčių grupė įvardijama kaip prūsai. (t-001)
+kiltis; vakarinė aisčių kilčių grupė įvardijama kaip prūsai. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Prūsai (kiltis)
@@ -42,14 +42,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: kiltis
-Šaltinyje „Prūsai“ apibūdinama kaip kiltis; vakarinė aisčių kilčių grupė įvardijama kaip prūsai. (t-001)
+kiltis; vakarinė aisčių kilčių grupė įvardijama kaip prūsai. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Prūsai“ apibūdinama kaip kiltis; vakarinė aisčių kilčių grupė įvardijama kaip prūsai. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Prūsai“ apibūdinama kaip kiltis; vakarinė aisčių kilčių grupė įvardijama kaip prūsai."
+  teiginys: "kiltis; vakarinė aisčių kilčių grupė įvardijama kaip prūsai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

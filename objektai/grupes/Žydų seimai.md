@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Žydų seimai
 
 ## Santrauka
-Šaltinyje „Žydų seimai“ apibūdinama kaip atstovaujamoji bendruomenių sueiga; žydų bendruomenių atstovaujamosios sueigos šiame gabale aprašomos kaip visos Lietuvos žydų reikalus gynęs ir mokesčių rinkėją rinkęs centras. (t-001) Šaltinyje „Žydų seimai“ siejama su šiuo kontekstu: Žydų bendruomenių atstovaujamosios sueigos šiame gabale aprašomos kaip visos Lietuvos žydų reikalus gynęs ir mokesčių rinkėją rinkęs centras. (t-002)
+atstovaujamoji bendruomenių sueiga; žydų bendruomenių atstovaujamosios sueigos šiame gabale aprašomos kaip visos Lietuvos žydų reikalus gynęs ir mokesčių rinkėją rinkęs centras. (t-001) Šaltinyje „Žydų seimai“ siejama su šiuo kontekstu: Žydų bendruomenių atstovaujamosios sueigos šiame gabale aprašomos kaip visos Lietuvos žydų reikalus gynęs ir mokesčių rinkėją rinkęs centras. (t-002)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Žydų seimai
@@ -46,7 +46,7 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: atstovaujamoji bendruomenių sueiga
-Šaltinyje „Žydų seimai“ apibūdinama kaip atstovaujamoji bendruomenių sueiga; žydų bendruomenių atstovaujamosios sueigos šiame gabale aprašomos kaip visos Lietuvos žydų reikalus gynęs ir mokesčių rinkėją rinkęs centras. (t-001)
+atstovaujamoji bendruomenių sueiga; žydų bendruomenių atstovaujamosios sueigos šiame gabale aprašomos kaip visos Lietuvos žydų reikalus gynęs ir mokesčių rinkėją rinkęs centras. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Žydų seimai“ apibūdinama kaip atstovaujamoji bendruomenių sueiga; žydų bendruomenių atstovaujamosios sueigos šiame gabale aprašomos kaip visos Lietuvos žydų reikalus gynęs ir mokesčių rinkėją rinkęs centras. (t-001)
@@ -54,13 +54,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Žydų seimai“ apibūdinama kaip atstovaujamoji bendruomenių sueiga; žydų bendruomenių atstovaujamosios sueigos šiame gabale aprašomos kaip visos Lietuvos žydų reikalus gynęs ir mokesčių rinkėją rinkęs centras."
+  teiginys: "atstovaujamoji bendruomenių sueiga; žydų bendruomenių atstovaujamosios sueigos šiame gabale aprašomos kaip visos Lietuvos žydų reikalus gynęs ir mokesčių rinkėją rinkęs centras."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Žydų seimai“ siejama su šiuo kontekstu: Žydų bendruomenių atstovaujamosios sueigos šiame gabale aprašomos kaip visos Lietuvos žydų reikalus gynęs ir mokesčių rinkėją rinkęs centras."
+  teiginys: "Žydų bendruomenių atstovaujamosios sueigos šiame gabale aprašomos kaip visos Lietuvos žydų reikalus gynęs ir mokesčių rinkėją rinkęs centras."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

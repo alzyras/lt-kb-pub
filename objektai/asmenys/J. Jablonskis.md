@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # J. Jablonskis
 
 ## Santrauka
-Šaltinyje J. Jablonskis apibūdinamas taip: Minimas kaip vienas iš trijų pasižymėjusių vyrų, sušaukusių suvažiavimą Voroneže.
+Minimas kaip vienas iš trijų pasižymėjusių vyrų, sušaukusių suvažiavimą Voroneže.
 
 ## Variantai
 - J. Jablonskio
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje J. Jablonskis apibūdinamas taip: Minimas kaip vienas iš trijų pasižymėjusių vyrų, sušaukusių suvažiavimą Voroneže."
+  teiginys: "Minimas kaip vienas iš trijų pasižymėjusių vyrų, sušaukusių suvažiavimą Voroneže."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

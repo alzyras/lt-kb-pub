@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Sao Paulo
 
 ## Santrauka
-Šaltinyje vieta „Sao Paulo“ siejama su šiuo kontekstu: Minimas kaip didžiausias lietuvių kultūrinis centras Brazilijoje ir vieta, kur atsirado pirmasis lietuviškas laikraštis. (t-001)
+Minimas kaip didžiausias lietuvių kultūrinis centras Brazilijoje ir vieta, kur atsirado pirmasis lietuviškas laikraštis. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Sao Paulo
@@ -49,7 +49,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Sao Paulo“ siejama su šiuo kontekstu: Minimas kaip didžiausias lietuvių kultūrinis centras Brazilijoje ir vieta, kur atsirado pirmasis lietuviškas laikraštis."
+  teiginys: "Minimas kaip didžiausias lietuvių kultūrinis centras Brazilijoje ir vieta, kur atsirado pirmasis lietuviškas laikraštis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

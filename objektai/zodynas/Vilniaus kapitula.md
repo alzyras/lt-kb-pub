@@ -30,7 +30,7 @@ patikimumas: "vidutinis"
 # Vilniaus kapitula
 
 ## Santrauka
-Šaltinyje „Vilniaus kapitula“ vartojama taip: Vilniaus katedros kapitula, dvasininkų kolegija prie vyskupijos. (t-001)
+Vilniaus katedros kapitula, dvasininkų kolegija prie vyskupijos. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Vilniaus kapitula
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: bažnytinė administracija. (t-
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Vilniaus kapitula“ vartojama taip: Vilniaus katedros kapitula, dvasininkų kolegija prie vyskupijos."
+  teiginys: "Vilniaus katedros kapitula, dvasininkų kolegija prie vyskupijos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

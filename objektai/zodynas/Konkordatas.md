@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Konkordatas
 
 ## Santrauka
-Šaltinyje „Konkordatas“ vartojama taip: Sutartis tarp Šv. Sosto ir valstybės dėl bažnyčios padėties. (t-001)
+Sutartis tarp Šv. Sosto ir valstybės dėl bažnyčios padėties. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Konkordatas
@@ -52,7 +52,7 @@ Terminas šaltinyje vartojamas šiame kontekste: bažnytinė teisė, valstybės 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Konkordatas“ vartojama taip: Sutartis tarp Šv. Sosto ir valstybės dėl bažnyčios padėties."
+  teiginys: "Sutartis tarp Šv. Sosto ir valstybės dėl bažnyčios padėties."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

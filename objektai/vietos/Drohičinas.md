@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Drohičinas
 
 ## Santrauka
-Šaltinyje vieta „Drohičinas“ siejama su šiuo kontekstu: Minimas kaip Traidenio laikinai užimta ir Vytenio prijungta vietovė. (t-001)
+Minimas kaip Traidenio laikinai užimta ir Vytenio prijungta vietovė. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Drohičinas
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Drohičinas“ siejama su šiuo kontekstu: Minimas kaip Traidenio laikinai užimta ir Vytenio prijungta vietovė."
+  teiginys: "Minimas kaip Traidenio laikinai užimta ir Vytenio prijungta vietovė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

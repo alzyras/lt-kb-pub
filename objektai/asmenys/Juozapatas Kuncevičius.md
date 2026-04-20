@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Juozapatas Kuncevičius
 
 ## Santrauka
-Šaltinyje Juozapatas Kuncevičius apibūdinamas taip: Unijos kovų įkarštyje Vitebsko miestiečiai sukilo ir nužudė Polocko unitų arkivyskupą Juozapatą Kuncevičių.
+Unijos kovų įkarštyje Vitebsko miestiečiai sukilo ir nužudė Polocko unitų arkivyskupą Juozapatą Kuncevičių.
 
 ## Variantai
 - Juozapatą Kuncevičių
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Juozapatas Kuncevičius apibūdinamas taip: Unijos kovų įkarštyje Vitebsko miestiečiai sukilo ir nužudė Polocko unitų arkivyskupą Juozapatą Kuncevičių."
+  teiginys: "Unijos kovų įkarštyje Vitebsko miestiečiai sukilo ir nužudė Polocko unitų arkivyskupą Juozapatą Kuncevičių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

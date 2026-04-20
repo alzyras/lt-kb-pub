@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Protekciniai muitai
 
 ## Santrauka
-Šaltinyje „Protekciniai muitai“ vartojama taip: Apsauginiai muitai vidaus ūkiui nuo importo. (t-001)
+Apsauginiai muitai vidaus ūkiui nuo importo. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Protekciniai muitai
@@ -50,7 +50,7 @@ Terminas šaltinyje vartojamas šiame kontekste: ekonomikos istorija, muitų pol
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Protekciniai muitai“ vartojama taip: Apsauginiai muitai vidaus ūkiui nuo importo."
+  teiginys: "Apsauginiai muitai vidaus ūkiui nuo importo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

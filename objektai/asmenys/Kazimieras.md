@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Kazimieras
 
 ## Santrauka
-Šaltinyje Kazimieras apibūdinamas taip: Paminėtas kaip Lietuvos didžiojo kunigaikščio rinkimų tema.
+Paminėtas kaip Lietuvos didžiojo kunigaikščio rinkimų tema.
 
 ## Variantai
 - Kazimiero
@@ -42,7 +42,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Kazimieras apibūdinamas taip: Paminėtas kaip Lietuvos didžiojo kunigaikščio rinkimų tema."
+  teiginys: "Paminėtas kaip Lietuvos didžiojo kunigaikščio rinkimų tema."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

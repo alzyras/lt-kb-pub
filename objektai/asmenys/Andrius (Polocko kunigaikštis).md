@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Andrius (Polocko kunigaikštis)
 
 ## Santrauka
-Šaltinyje Andrius (Polocko kunigaikštis) apibūdinamas taip: Jogailos vyresnysis brolis ir Polocko kunigaikštis, vadovavęs sąjungai prieš Jogailą.
+Jogailos vyresnysis brolis ir Polocko kunigaikštis, vadovavęs sąjungai prieš Jogailą.
 
 ## Variantai
 - Andriaus
@@ -35,7 +35,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Andrius (Polocko kunigaikštis) apibūdinamas taip: Jogailos vyresnysis brolis ir Polocko kunigaikštis, vadovavęs sąjungai prieš Jogailą."
+  teiginys: "Jogailos vyresnysis brolis ir Polocko kunigaikštis, vadovavęs sąjungai prieš Jogailą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

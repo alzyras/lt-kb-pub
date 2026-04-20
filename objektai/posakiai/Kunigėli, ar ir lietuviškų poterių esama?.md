@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Kunigėli, ar ir lietuviškų poterių esama?
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Kunigėli, ar ir lietuviškų poterių esama?“; kontekstas: Moterėlė taip atsako, kai jos paklausia apie lietuviškus poterius. Reikšmė: Ironiška replika apie lietuvių kalbą kasdienybei ir lenkų kalbą maldai. (t-001)
+Užfiksuota formuluotė „Kunigėli, ar ir lietuviškų poterių esama?“; kontekstas: Moterėlė taip atsako, kai jos paklausia apie lietuviškus poterius. Reikšmė: Ironiška replika apie lietuvių kalbą kasdienybei ir lenkų kalbą maldai. (t-001)
 
 ## Forma
 - pagrindinė forma: Kunigėli, ar ir lietuviškų poterių esama? (t-001)
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 - „Kunigėli, ar ir lietuviškų poterių esama? Aš maniau, kad tik šnekėti galima lietuviškai, o melstis tik lenkiškai".
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Moterėlė taip atsako, kai jos paklausia apie lietuviškus poterius. (t-001)
@@ -48,7 +48,7 @@ Ironiška replika apie lietuvių kalbą kasdienybei ir lenkų kalbą maldai. (t-
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Kunigėli, ar ir lietuviškų poterių esama?“; kontekstas: Moterėlė taip atsako, kai jos paklausia apie lietuviškus poterius."
+  teiginys: "Užfiksuota formuluotė „Kunigėli, ar ir lietuviškų poterių esama?“; kontekstas: Moterėlė taip atsako, kai jos paklausia apie lietuviškus poterius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

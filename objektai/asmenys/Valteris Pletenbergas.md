@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Valteris Pletenbergas
 
 ## Santrauka
-Šaltinyje Valteris Pletenbergas apibūdinamas taip: Livonijos ordino magistras, Aleksandro sąjungininkas kare su Maskva.
+Livonijos ordino magistras, Aleksandro sąjungininkas kare su Maskva.
 
 ## Variantai
 - Valterio Pletenbergo
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Valteris Pletenbergas apibūdinamas taip: Livonijos ordino magistras, Aleksandro sąjungininkas kare su Maskva."
+  teiginys: "Livonijos ordino magistras, Aleksandro sąjungininkas kare su Maskva."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

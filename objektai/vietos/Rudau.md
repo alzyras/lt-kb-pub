@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Rudau
 
 ## Santrauka
-Šaltinyje vieta „Rudau“ siejama su šiuo kontekstu: Minima kaip mūšio vieta bibliografinio darbo pavadinime. (t-001)
+Minima kaip mūšio vieta bibliografinio darbo pavadinime. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Rudau
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Rudau“ siejama su šiuo kontekstu: Minima kaip mūšio vieta bibliografinio darbo pavadinime."
+  teiginys: "Minima kaip mūšio vieta bibliografinio darbo pavadinime."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

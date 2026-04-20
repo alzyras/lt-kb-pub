@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Kudirka
 
 ## Santrauka
-Šaltinyje Kudirka minimas kaip autorius; šis vaidmuo siejamas su: eilutė „Iš praeities Tavo sūnūs te stiprybę semia“..
+eilutė „Iš praeities Tavo sūnūs te stiprybę semia“..
 
 ## Darbai
 - eilutė „Iš praeities Tavo sūnūs te stiprybę semia“.. (t-001)
@@ -37,7 +37,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Kudirka minimas kaip autorius, siejamas su: eilutė „Iš praeities Tavo sūnūs te stiprybę semia“.."
+  teiginys: "eilutė „Iš praeities Tavo sūnūs te stiprybę semia“.."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

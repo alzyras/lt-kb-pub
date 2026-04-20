@@ -23,11 +23,11 @@ patikimumas: "vidutinis"
 # Soltykas
 
 ## Santrauka
-Šaltinyje Soltykas apibūdinamas taip: Minimas kaip Krokuvos vyskupas tarp griežčiausių Repnino priešų.
+Minimas kaip Krokuvos vyskupas tarp griežčiausių Repnino priešų.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Soltykas apibūdinamas taip: Minimas kaip Krokuvos vyskupas tarp griežčiausių Repnino priešų."
+  teiginys: "Minimas kaip Krokuvos vyskupas tarp griežčiausių Repnino priešų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

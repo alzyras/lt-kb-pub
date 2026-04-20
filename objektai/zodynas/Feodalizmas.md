@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Feodalizmas
 
 ## Santrauka
-Šaltinyje „Feodalizmas“ vartojama taip: Viduramžių luominė žemėvaldos ir prievolių santvarka. (t-001)
+Viduramžių luominė žemėvaldos ir prievolių santvarka. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Feodalizmas
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: socialinė istorija, žemėvald
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Feodalizmas“ vartojama taip: Viduramžių luominė žemėvaldos ir prievolių santvarka."
+  teiginys: "Viduramžių luominė žemėvaldos ir prievolių santvarka."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

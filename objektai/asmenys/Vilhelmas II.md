@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Vilhelmas II
 
 ## Santrauka
-Šaltinyje Vilhelmas II apibūdinamas taip: Vokietijos kaizeris tą pačią dieną pasirašė Lietuvos pripažinimo aktą, susiedamas jį su artimesniais santykiais su Vokietija.
+Vokietijos kaizeris tą pačią dieną pasirašė Lietuvos pripažinimo aktą, susiedamas jį su artimesniais santykiais su Vokietija.
 
 ## Variantai
 - Vokietijos kaizeris Vilhelmas II
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Vilhelmas II apibūdinamas taip: Vokietijos kaizeris tą pačią dieną pasirašė Lietuvos pripažinimo aktą, susiedamas jį su artimesniais santykiais su Vokietija."
+  teiginys: "Vokietijos kaizeris tą pačią dieną pasirašė Lietuvos pripažinimo aktą, susiedamas jį su artimesniais santykiais su Vokietija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

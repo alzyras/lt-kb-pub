@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Progimnazija
 
 ## Santrauka
-Šaltinyje „Progimnazija“ vartojama taip: vidurinio tipo mokykla tarp gimnazijos ir žemesnių mokyklų. (t-001)
+vidurinio tipo mokykla tarp gimnazijos ir žemesnių mokyklų. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Progimnazija
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: švietimo sistema. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Progimnazija“ vartojama taip: vidurinio tipo mokykla tarp gimnazijos ir žemesnių mokyklų."
+  teiginys: "vidurinio tipo mokykla tarp gimnazijos ir žemesnių mokyklų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

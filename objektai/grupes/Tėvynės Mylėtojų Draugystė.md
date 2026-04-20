@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Tėvynės Mylėtojų Draugystė
 
 ## Santrauka
-Šaltinyje „Tėvynės Mylėtojų Draugystė“ apibūdinama kaip draugystė; knygų leidybai skirta kultūrinė organizacija. (t-001)
+draugystė; knygų leidybai skirta kultūrinė organizacija. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Tėvynės Mylėtojų Draugystė
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: draugystė
-Šaltinyje „Tėvynės Mylėtojų Draugystė“ apibūdinama kaip draugystė; knygų leidybai skirta kultūrinė organizacija. (t-001)
+draugystė; knygų leidybai skirta kultūrinė organizacija. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Tėvynės Mylėtojų Draugystė“ apibūdinama kaip draugystė; knygų leidybai skirta kultūrinė organizacija. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Tėvynės Mylėtojų Draugystė“ apibūdinama kaip draugystė; knygų leidybai skirta kultūrinė organizacija."
+  teiginys: "draugystė; knygų leidybai skirta kultūrinė organizacija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

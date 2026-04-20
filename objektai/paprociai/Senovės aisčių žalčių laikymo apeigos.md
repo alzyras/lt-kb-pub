@@ -26,14 +26,13 @@ patikimumas: "vidutinis"
 # Senovės aisčių žalčių laikymo apeigos
 
 ## Santrauka
-Šaltinyje minima praktika „Senovės aisčių žalčių laikymo apeigos“ siejama su formuluote: šventieji gyvuliai, ypač žalčiai. Šaltinio kontekste nurodoma: kas atlieka: aisčiai; kada atliekama: namuose. (t-001)
+šventieji gyvuliai, ypač žalčiai. Šaltinio kontekste nurodoma: kas atlieka: aisčiai; kada atliekama: namuose. (t-001)
 
 ## Pavadinimai šaltiniuose
 - šventieji gyvuliai, ypač žalčiai
 
 ## Kas tai
-Šaltinyje minima praktika „Senovės aisčių žalčių laikymo apeigos“ siejama su formuluote: šventieji gyvuliai, ypač žalčiai. Šaltinio kontekste nurodoma: kas atlieka: aisčiai; kada atliekama: namuose. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: aisčiai (t-001)
 - kada atliekama: namuose (t-001)
@@ -41,7 +40,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Senovės aisčių žalčių laikymo apeigos“ siejama su formuluote: šventieji gyvuliai, ypač žalčiai. Šaltinio kontekste nurodoma: kas atlieka: aisčiai; kada atliekama: namuose."
+  teiginys: "šventieji gyvuliai, ypač žalčiai. Šaltinio kontekste nurodoma: kas atlieka: aisčiai; kada atliekama: namuose."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Tikrinamoji komisija
 
 ## Santrauka
-Šaltinyje „Tikrinamoji komisija“ vartojama taip: komisija žemės reformos ir valstiečių ginčams tikrinti. (t-001)
+komisija žemės reformos ir valstiečių ginčams tikrinti. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Tikrinamoji komisija
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: žemės reforma, vietos adminis
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Tikrinamoji komisija“ vartojama taip: komisija žemės reformos ir valstiečių ginčams tikrinti."
+  teiginys: "komisija žemės reformos ir valstiečių ginčams tikrinti."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

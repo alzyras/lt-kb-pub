@@ -41,7 +41,7 @@ patikimumas: "aukstas"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Krėvos aktas“ siejamas su šiuo kontekstu: Šaltinis aiškiai įvardija Krėvos aktą kaip specialų dokumentą, patvirtinantį Jogailos pažadus.
+Šaltinis aiškiai įvardija Krėvos aktą kaip specialų dokumentą, patvirtinantį Jogailos pažadus.
 
 ## Ryšiai
 
@@ -50,7 +50,7 @@ patikimumas: "aukstas"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Krėvos aktas“ siejamas su šiuo kontekstu: Šaltinis aiškiai įvardija Krėvos aktą kaip specialų dokumentą, patvirtinantį Jogailos pažadus."
+  teiginys: "Šaltinis aiškiai įvardija Krėvos aktą kaip specialų dokumentą, patvirtinantį Jogailos pažadus."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

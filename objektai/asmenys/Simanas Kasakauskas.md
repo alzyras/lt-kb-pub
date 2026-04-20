@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Simanas Kasakauskas
 
 ## Santrauka
-Šaltinyje Simanas Kasakauskas apibūdinamas taip: Apibūdinamas kaip vienas energingiausių Lietuvos konfederatų vadų ir paskutinis Lietuvos didysis hetmonas.
+vienas energingiausių Lietuvos konfederatų vadų ir paskutinis Lietuvos didysis hetmonas.
 
 ## Laikotarpis ir datos
 - laikotarpis: 1793-1794 m.
@@ -38,7 +38,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Simanas Kasakauskas apibūdinamas taip: Apibūdinamas kaip vienas energingiausių Lietuvos konfederatų vadų ir paskutinis Lietuvos didysis hetmonas."
+  teiginys: "vienas energingiausių Lietuvos konfederatų vadų ir paskutinis Lietuvos didysis hetmonas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

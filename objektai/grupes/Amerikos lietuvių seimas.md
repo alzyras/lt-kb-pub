@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Amerikos lietuvių seimas
 
 ## Santrauka
-Šaltinyje „Amerikos lietuvių seimas“ apibūdinama kaip seimas; naujorke sušauktas amerikiečių lietuvių susirinkimas, pareikalavęs pripažinti nepriklausomą Lietuvos valstybę. (t-001)
+seimas; naujorke sušauktas amerikiečių lietuvių susirinkimas, pareikalavęs pripažinti nepriklausomą Lietuvos valstybę. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Amerikos lietuvių seimas
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: seimas
-Šaltinyje „Amerikos lietuvių seimas“ apibūdinama kaip seimas; naujorke sušauktas amerikiečių lietuvių susirinkimas, pareikalavęs pripažinti nepriklausomą Lietuvos valstybę. (t-001)
+seimas; naujorke sušauktas amerikiečių lietuvių susirinkimas, pareikalavęs pripažinti nepriklausomą Lietuvos valstybę. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Amerikos lietuvių seimas“ apibūdinama kaip seimas; naujorke sušauktas amerikiečių lietuvių susirinkimas, pareikalavęs pripažinti nepriklausomą Lietuvos valstybę. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Amerikos lietuvių seimas“ apibūdinama kaip seimas; naujorke sušauktas amerikiečių lietuvių susirinkimas, pareikalavęs pripažinti nepriklausomą Lietuvos valstybę."
+  teiginys: "seimas; naujorke sušauktas amerikiečių lietuvių susirinkimas, pareikalavęs pripažinti nepriklausomą Lietuvos valstybę."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

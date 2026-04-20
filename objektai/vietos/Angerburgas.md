@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Angerburgas
 
 ## Santrauka
-Šaltinyje vieta „Angerburgas“ siejama su šiuo kontekstu: Įvardytas kartu su Vėluva kaip ordino pilis su įkūrimo data. (t-001)
+Įvardytas kartu su Vėluva kaip ordino pilis su įkūrimo data. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Angerburgas
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Angerburgas“ siejama su šiuo kontekstu: Įvardytas kartu su Vėluva kaip ordino pilis su įkūrimo data."
+  teiginys: "Įvardytas kartu su Vėluva kaip ordino pilis su įkūrimo data."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

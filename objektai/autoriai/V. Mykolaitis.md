@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # V. Mykolaitis
 
 ## Santrauka
-Šaltinyje V. Mykolaitis minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip naujosios lietuvių literatūros autorius.
+Minimas kaip naujosios lietuvių literatūros autorius.
 
 ## Darbai
 - Minimas kaip naujosios lietuvių literatūros autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje V. Mykolaitis autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip naujosios lietuvių literatūros autorius."
+  teiginys: "Minimas kaip naujosios lietuvių literatūros autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

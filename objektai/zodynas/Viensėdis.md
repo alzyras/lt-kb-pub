@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Viensėdis
 
 ## Santrauka
-Šaltinyje „Viensėdis“ vartojama taip: Pavienė sodyba arba atskiras ūkis kaimo skirstymo sistemoje. (t-001)
+Pavienė sodyba arba atskiras ūkis kaimo skirstymo sistemoje. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Viensėdis
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: agrarinė reforma, kaimo gyvenv
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Viensėdis“ vartojama taip: Pavienė sodyba arba atskiras ūkis kaimo skirstymo sistemoje."
+  teiginys: "Pavienė sodyba arba atskiras ūkis kaimo skirstymo sistemoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

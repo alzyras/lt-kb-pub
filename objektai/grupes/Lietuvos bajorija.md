@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Lietuvos bajorija
 
 ## Santrauka
-Šaltinyje „Lietuvos bajorija“ apibūdinama kaip bajorija; lietuvos bajorija aprašoma kaip savarankiška politinė jėga, kuri Salyne Vytautą laikė vieninteliu savo valdovu. (t-001)
+bajorija; lietuvos bajorija aprašoma kaip savarankiška politinė jėga, kuri Salyne Vytautą laikė vieninteliu savo valdovu. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Lietuvos bajorija
@@ -40,14 +40,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: bajorija
-Šaltinyje „Lietuvos bajorija“ apibūdinama kaip bajorija; lietuvos bajorija aprašoma kaip savarankiška politinė jėga, kuri Salyne Vytautą laikė vieninteliu savo valdovu. (t-001)
+bajorija; lietuvos bajorija aprašoma kaip savarankiška politinė jėga, kuri Salyne Vytautą laikė vieninteliu savo valdovu. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Lietuvos bajorija“ apibūdinama kaip bajorija; lietuvos bajorija aprašoma kaip savarankiška politinė jėga, kuri Salyne Vytautą laikė vieninteliu savo valdovu. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Lietuvos bajorija“ apibūdinama kaip bajorija; lietuvos bajorija aprašoma kaip savarankiška politinė jėga, kuri Salyne Vytautą laikė vieninteliu savo valdovu."
+  teiginys: "bajorija; lietuvos bajorija aprašoma kaip savarankiška politinė jėga, kuri Salyne Vytautą laikė vieninteliu savo valdovu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

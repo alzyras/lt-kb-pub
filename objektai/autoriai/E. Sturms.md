@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # E. Sturms
 
 ## Santrauka
-Šaltinyje E. Sturms minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip Kuršo istorijos problemų autorius.
+Bibliografijoje nurodytas kaip Kuršo istorijos problemų autorius.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip Kuršo istorijos problemų autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje E. Sturms autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip Kuršo istorijos problemų autorius."
+  teiginys: "Bibliografijoje nurodytas kaip Kuršo istorijos problemų autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

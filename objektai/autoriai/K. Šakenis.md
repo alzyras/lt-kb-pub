@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # K. Šakenis
 
 ## Santrauka
-Šaltinyje K. Šakenis minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip knygos apie „Aušrą“ autorius.
+Minimas kaip knygos apie „Aušrą“ autorius.
 
 ## Darbai
 - Minimas kaip knygos apie „Aušrą“ autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje K. Šakenis autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip knygos apie „Aušrą“ autorius."
+  teiginys: "Minimas kaip knygos apie „Aušrą“ autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # St. Kutrzeba
 
 ## Santrauka
-Šaltinyje St. Kutrzeba minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip vienas iš atspausdintų dokumentų ir leidinių rengėjų.
+Minimas kaip vienas iš atspausdintų dokumentų ir leidinių rengėjų.
 
 ## Darbai
 - Minimas kaip vienas iš atspausdintų dokumentų ir leidinių rengėjų. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje St. Kutrzeba autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip vienas iš atspausdintų dokumentų ir leidinių rengėjų."
+  teiginys: "Minimas kaip vienas iš atspausdintų dokumentų ir leidinių rengėjų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

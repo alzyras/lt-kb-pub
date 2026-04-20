@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Kazokai
 
 ## Santrauka
-Šaltinyje „Kazokai“ apibūdinama kaip karinis-socialinis sluoksnis; kazokai čia aprašomi kaip Padnieprės pakraščiuose susitelkę, iš medžioklės ir plėšimų gyvenę būriai, kurie puldinėjo totorius ir turkų pasienius bei tapo svarbia Ukrainos neramumų jėga. (t-001) Šaltinyje „Kazokai“ siejama su šiuo kontekstu: Kazokai čia aprašomi kaip Padnieprės pakraščiuose susitelkę, iš medžioklės ir plėšimų gyvenę būriai, kurie puldinėjo totorius ir turkų pasienius bei tapo svarbia Ukrainos neramumų jėga. (t-002)
+karinis-socialinis sluoksnis; kazokai čia aprašomi kaip Padnieprės pakraščiuose susitelkę, iš medžioklės ir plėšimų gyvenę būriai, kurie puldinėjo totorius ir turkų pasienius bei tapo svarbia Ukrainos neramumų jėga. (t-001) Šaltinyje „Kazokai“ siejama su šiuo kontekstu: Kazokai čia aprašomi kaip Padnieprės pakraščiuose susitelkę, iš medžioklės ir plėšimų gyvenę būriai, kurie puldinėjo totorius ir turkų pasienius bei tapo svarbia Ukrainos neramumų jėga. (t-002)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Kazokai
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: karinis-socialinis sluoksnis
-Šaltinyje „Kazokai“ apibūdinama kaip karinis-socialinis sluoksnis; kazokai čia aprašomi kaip Padnieprės pakraščiuose susitelkę, iš medžioklės ir plėšimų gyvenę būriai, kurie puldinėjo totorius ir turkų pasienius bei tapo svarbia Ukrainos neramumų jėga. (t-001)
+karinis-socialinis sluoksnis; kazokai čia aprašomi kaip Padnieprės pakraščiuose susitelkę, iš medžioklės ir plėšimų gyvenę būriai, kurie puldinėjo totorius ir turkų pasienius bei tapo svarbia Ukrainos neramumų jėga. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Kazokai“ apibūdinama kaip karinis-socialinis sluoksnis; kazokai čia aprašomi kaip Padnieprės pakraščiuose susitelkę, iš medžioklės ir plėšimų gyvenę būriai, kurie puldinėjo totorius ir turkų pasienius bei tapo svarbia Ukrainos neramumų jėga. (t-001)
@@ -55,13 +55,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kazokai“ apibūdinama kaip karinis-socialinis sluoksnis; kazokai čia aprašomi kaip Padnieprės pakraščiuose susitelkę, iš medžioklės ir plėšimų gyvenę būriai, kurie puldinėjo totorius ir turkų pasienius bei tapo svarbia Ukrainos neramumų jėga."
+  teiginys: "karinis-socialinis sluoksnis; kazokai čia aprašomi kaip Padnieprės pakraščiuose susitelkę, iš medžioklės ir plėšimų gyvenę būriai, kurie puldinėjo totorius ir turkų pasienius bei tapo svarbia Ukrainos neramumų jėga."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Kazokai“ siejama su šiuo kontekstu: Kazokai čia aprašomi kaip Padnieprės pakraščiuose susitelkę, iš medžioklės ir plėšimų gyvenę būriai, kurie puldinėjo totorius ir turkų pasienius bei tapo svarbia Ukrainos neramumų jėga."
+  teiginys: "Kazokai čia aprašomi kaip Padnieprės pakraščiuose susitelkę, iš medžioklės ir plėšimų gyvenę būriai, kurie puldinėjo totorius ir turkų pasienius bei tapo svarbia Ukrainos neramumų jėga."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

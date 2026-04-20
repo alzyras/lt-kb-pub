@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Černigovas
 
 ## Santrauka
-Šaltinyje vieta „Černigovas“ siejama su šiuo kontekstu: Miestas minimas kaip Maskvai palikta teritorija po 1522 m. paliaubų. (t-001)
+Miestas minimas kaip Maskvai palikta teritorija po 1522 m. paliaubų. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Černigovas
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Černigovas“ siejama su šiuo kontekstu: Miestas minimas kaip Maskvai palikta teritorija po 1522 m. paliaubų."
+  teiginys: "Miestas minimas kaip Maskvai palikta teritorija po 1522 m. paliaubų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

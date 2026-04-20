@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Čartoriskių priešai
 
 ## Santrauka
-Šaltinyje „Čartoriskių priešai“ siejama su šiuo kontekstu: Čartoriskių opozicinė stovykla, kuri po 1764 m. elekcijos praranda įtaką ir yra išstumiama iš krašto. (t-001) Šaltinyje „Čartoriskių priešai“ siejama su šiuo kontekstu: Čartoriskių opozicinė stovykla, kuri po 1764 m. elekcijos praranda įtaką ir yra išstumiama iš krašto. (t-002)
+Čartoriskių opozicinė stovykla, kuri po 1764 m. elekcijos praranda įtaką ir yra išstumiama iš krašto. (t-001) Šaltinyje „Čartoriskių priešai“ siejama su šiuo kontekstu: Čartoriskių opozicinė stovykla, kuri po 1764 m. elekcijos praranda įtaką ir yra išstumiama iš krašto. (t-002)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Čartoriskių priešai
@@ -45,7 +45,7 @@ patikimumas: "aukstas"
 - date_end: 1764
 
 ## Kas tai
-Šaltinyje „Čartoriskių priešai“ siejama su šiuo kontekstu: Čartoriskių opozicinė stovykla, kuri po 1764 m. elekcijos praranda įtaką ir yra išstumiama iš krašto. (t-001)
+Čartoriskių opozicinė stovykla, kuri po 1764 m. elekcijos praranda įtaką ir yra išstumiama iš krašto. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Čartoriskių priešai“ siejama su šiuo kontekstu: Čartoriskių opozicinė stovykla, kuri po 1764 m. elekcijos praranda įtaką ir yra išstumiama iš krašto. (t-001)
@@ -53,13 +53,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Čartoriskių priešai“ siejama su šiuo kontekstu: Čartoriskių opozicinė stovykla, kuri po 1764 m. elekcijos praranda įtaką ir yra išstumiama iš krašto."
+  teiginys: "Čartoriskių opozicinė stovykla, kuri po 1764 m. elekcijos praranda įtaką ir yra išstumiama iš krašto."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Čartoriskių priešai“ siejama su šiuo kontekstu: Čartoriskių opozicinė stovykla, kuri po 1764 m. elekcijos praranda įtaką ir yra išstumiama iš krašto."
+  teiginys: "Čartoriskių opozicinė stovykla, kuri po 1764 m. elekcijos praranda įtaką ir yra išstumiama iš krašto."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

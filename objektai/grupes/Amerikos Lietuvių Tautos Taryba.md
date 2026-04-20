@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Amerikos Lietuvių Tautos Taryba
 
 ## Santrauka
-Šaltinyje „Amerikos Lietuvių Tautos Taryba“ apibūdinama kaip taryba; iš visų didžiųjų organizacijų atstovų suorganizuota taryba, kuri turėjo veikti karo ir autonomijos klausimais. (t-001)
+taryba; iš visų didžiųjų organizacijų atstovų suorganizuota taryba, kuri turėjo veikti karo ir autonomijos klausimais. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Amerikos Lietuvių Tautos Taryba
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: taryba
-Šaltinyje „Amerikos Lietuvių Tautos Taryba“ apibūdinama kaip taryba; iš visų didžiųjų organizacijų atstovų suorganizuota taryba, kuri turėjo veikti karo ir autonomijos klausimais. (t-001)
+taryba; iš visų didžiųjų organizacijų atstovų suorganizuota taryba, kuri turėjo veikti karo ir autonomijos klausimais. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Amerikos Lietuvių Tautos Taryba“ apibūdinama kaip taryba; iš visų didžiųjų organizacijų atstovų suorganizuota taryba, kuri turėjo veikti karo ir autonomijos klausimais. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Amerikos Lietuvių Tautos Taryba“ apibūdinama kaip taryba; iš visų didžiųjų organizacijų atstovų suorganizuota taryba, kuri turėjo veikti karo ir autonomijos klausimais."
+  teiginys: "taryba; iš visų didžiųjų organizacijų atstovų suorganizuota taryba, kuri turėjo veikti karo ir autonomijos klausimais."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

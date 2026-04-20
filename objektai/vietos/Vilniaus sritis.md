@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Vilniaus sritis
 
 ## Santrauka
-Šaltinyje vieta „Vilniaus sritis“ siejama su šiuo kontekstu: Minima kaip teritorinis suverenitetas, kurį Sovietų Rusija dar kartą patvirtino Lietuvai. (t-001)
+Minima kaip teritorinis suverenitetas, kurį Sovietų Rusija dar kartą patvirtino Lietuvai. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Vilniaus sritis
@@ -49,7 +49,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Vilniaus sritis“ siejama su šiuo kontekstu: Minima kaip teritorinis suverenitetas, kurį Sovietų Rusija dar kartą patvirtino Lietuvai."
+  teiginys: "Minima kaip teritorinis suverenitetas, kurį Sovietų Rusija dar kartą patvirtino Lietuvai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

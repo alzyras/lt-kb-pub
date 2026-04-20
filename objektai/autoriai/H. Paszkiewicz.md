@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # H. Paszkiewicz
 
 ## Santrauka
-Šaltinyje H. Paszkiewicz minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip Lietuvos istorijos ir Lenkijos santykių tyrėjas.
+Bibliografijoje nurodytas kaip Lietuvos istorijos ir Lenkijos santykių tyrėjas.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip Lietuvos istorijos ir Lenkijos santykių tyrėjas. (t-001)
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje H. Paszkiewicz autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip Lietuvos istorijos ir Lenkijos santykių tyrėjas."
+  teiginys: "Bibliografijoje nurodytas kaip Lietuvos istorijos ir Lenkijos santykių tyrėjas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

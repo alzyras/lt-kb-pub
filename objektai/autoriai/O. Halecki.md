@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # O. Halecki
 
 ## Santrauka
-Šaltinyje O. Halecki minimas kaip autorius; šis vaidmuo siejamas su: Dzieje unii Jagiellońskiej.
+Dzieje unii Jagiellońskiej.
 
 ## Laikotarpis ir datos
 - 1919 m.
@@ -41,7 +41,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje O. Halecki minimas kaip autorius, siejamas su: Dzieje unii Jagiellońskiej."
+  teiginys: "Dzieje unii Jagiellońskiej."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Olandija
 
 ## Santrauka
-Šaltinyje vieta „Olandija“ siejama su šiuo kontekstu: Minima kaip valstybė, kurios atstovai dalyvavo Štumdorfo derybose. (t-001)
+Minima kaip valstybė, kurios atstovai dalyvavo Štumdorfo derybose. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Olandija
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Olandija“ siejama su šiuo kontekstu: Minima kaip valstybė, kurios atstovai dalyvavo Štumdorfo derybose."
+  teiginys: "Minima kaip valstybė, kurios atstovai dalyvavo Štumdorfo derybose."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

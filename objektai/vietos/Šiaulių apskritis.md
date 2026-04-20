@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Šiaulių apskritis
 
 ## Santrauka
-Šaltinyje vieta „Šiaulių apskritis“ siejama su šiuo kontekstu: Apskritis nurodoma kaip Kryžių Kalno vietos dalis. (t-001)
+Apskritis nurodoma kaip Kryžių Kalno vietos dalis. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Šiaulių apskritis
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Šiaulių apskritis“ siejama su šiuo kontekstu: Apskritis nurodoma kaip Kryžių Kalno vietos dalis."
+  teiginys: "Apskritis nurodoma kaip Kryžių Kalno vietos dalis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

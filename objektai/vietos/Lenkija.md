@@ -37,7 +37,7 @@ patikimumas: "aukstas"
 # Lenkija
 
 ## Santrauka
-Šaltinyje vieta „Lenkija“ siejama su šiais kontekstais: Minima kaip žemė, kurią teriojo prūsai ir prieš kurią vyko ordino kovos; Lenkija minima kaip atskira valstybė, kuri kartu su Lietuva turi savą kariuomenę ir savus valstybinius reikalus. (t-001, t-002)
+Minima kaip žemė, kurią teriojo prūsai ir prieš kurią vyko ordino kovos; Lenkija minima kaip atskira valstybė, kuri kartu su Lietuva turi savą kariuomenę ir savus valstybinius reikalus. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Lenkija
@@ -59,19 +59,19 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Lenkija“ siejama su šiuo kontekstu: Minima kaip žemė, kurią teriojo prūsai ir prieš kurią vyko ordino kovos."
+  teiginys: "Minima kaip žemė, kurią teriojo prūsai ir prieš kurią vyko ordino kovos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Lenkija“ siejama su šiuo kontekstu: Lenkija minima kaip atskira valstybė, kuri kartu su Lietuva turi savą kariuomenę ir savus valstybinius reikalus."
+  teiginys: "Lenkija minima kaip atskira valstybė, kuri kartu su Lietuva turi savą kariuomenę ir savus valstybinius reikalus."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-003
-  teiginys: "Šaltinyje vieta „Lenkija“ siejama su šiuo kontekstu: Minima kaip valstybė, kurią apėmė konfederatų judėjimas."
+  teiginys: "Minima kaip valstybė, kurią apėmė konfederatų judėjimas."
   pagrindžia:
     - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

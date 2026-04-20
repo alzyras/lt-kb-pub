@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Indura
 
 ## Santrauka
-Šaltinyje vieta „Indura“ siejama su šiuo kontekstu: Minima ir kaip miestelis, ir kaip upė rytinės sienos apraše. (t-001)
+Minima ir kaip miestelis, ir kaip upė rytinės sienos apraše. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Indura
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Indura“ siejama su šiuo kontekstu: Minima ir kaip miestelis, ir kaip upė rytinės sienos apraše."
+  teiginys: "Minima ir kaip miestelis, ir kaip upė rytinės sienos apraše."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

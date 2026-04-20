@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Pskovas
 
 ## Santrauka
-Šaltinyje vieta „Pskovas“ siejama su šiuo kontekstu: Minimas kaip Daumanto kunigaikštystė po pabėgimo iš tėviškės. (t-001)
+Minimas kaip Daumanto kunigaikštystė po pabėgimo iš tėviškės. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Pskovas
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Pskovas“ siejama su šiuo kontekstu: Minimas kaip Daumanto kunigaikštystė po pabėgimo iš tėviškės."
+  teiginys: "Minimas kaip Daumanto kunigaikštystė po pabėgimo iš tėviškės."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

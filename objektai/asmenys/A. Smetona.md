@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # A. Smetona
 
 ## Santrauka
-Šaltinyje A. Smetona apibūdinamas taip: Minimas kaip dabartinis prezidentas, išvarytas iš gimnazijos už pasipriešinimą rusinimui.
+Minimas kaip dabartinis prezidentas, išvarytas iš gimnazijos už pasipriešinimą rusinimui.
 
 ## Variantai
 - Smetona
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje A. Smetona apibūdinamas taip: Minimas kaip dabartinis prezidentas, išvarytas iš gimnazijos už pasipriešinimą rusinimui."
+  teiginys: "Minimas kaip dabartinis prezidentas, išvarytas iš gimnazijos už pasipriešinimą rusinimui."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

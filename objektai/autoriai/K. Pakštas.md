@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # K. Pakštas
 
 ## Santrauka
-Šaltinyje K. Pakštas minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip Baltijos respublikų politinės geografijos autorius.
+Minimas kaip Baltijos respublikų politinės geografijos autorius.
 
 ## Darbai
 - Minimas kaip Baltijos respublikų politinės geografijos autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje K. Pakštas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip Baltijos respublikų politinės geografijos autorius."
+  teiginys: "Minimas kaip Baltijos respublikų politinės geografijos autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

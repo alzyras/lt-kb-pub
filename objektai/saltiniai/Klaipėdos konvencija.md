@@ -34,7 +34,7 @@ patikimumas: "aukstas"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Klaipėdos konvencija“ tai 1924 m. pasirašyta Klaipėdos krašto konvencija, kurios antroji dalis aprašo autonominį statutą.
+tai 1924 m. pasirašyta Klaipėdos krašto konvencija, kurios antroji dalis aprašo autonominį statutą.
 
 ## Ryšiai
 
@@ -43,7 +43,7 @@ patikimumas: "aukstas"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Klaipėdos konvencija“ tai 1924 m. pasirašyta Klaipėdos krašto konvencija, kurios antroji dalis aprašo autonominį statutą."
+  teiginys: "tai 1924 m. pasirašyta Klaipėdos krašto konvencija, kurios antroji dalis aprašo autonominį statutą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

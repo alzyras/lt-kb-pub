@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Hindenburgas
 
 ## Santrauka
-Šaltinyje Hindenburgas apibūdinamas taip: Maršalas, kurio Pirmojo pasaulinio karo pergalė prie Tanenbergo siejama su šios vietos vardu.
+Maršalas, kurio Pirmojo pasaulinio karo pergalė prie Tanenbergo siejama su šios vietos vardu.
 
 ## Variantai
 - maršalas Hindenburgas
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Hindenburgas apibūdinamas taip: Maršalas, kurio Pirmojo pasaulinio karo pergalė prie Tanenbergo siejama su šios vietos vardu."
+  teiginys: "Maršalas, kurio Pirmojo pasaulinio karo pergalė prie Tanenbergo siejama su šios vietos vardu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

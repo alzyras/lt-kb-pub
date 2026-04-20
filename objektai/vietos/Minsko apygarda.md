@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Minsko apygarda
 
 ## Santrauka
-Šaltinyje vieta „Minsko apygarda“ siejama su šiuo kontekstu: Minima kaip švietimo reikalų perdavimo vieta po Vilniaus apygardos uždarymo. (t-001)
+Minima kaip švietimo reikalų perdavimo vieta po Vilniaus apygardos uždarymo. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Minsko apygarda
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Minsko apygarda“ siejama su šiuo kontekstu: Minima kaip švietimo reikalų perdavimo vieta po Vilniaus apygardos uždarymo."
+  teiginys: "Minima kaip švietimo reikalų perdavimo vieta po Vilniaus apygardos uždarymo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

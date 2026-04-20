@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Henrikas (Mozūrų kunigaikštis)
 
 ## Santrauka
-Šaltinyje Henrikas (Mozūrų kunigaikštis) apibūdinamas taip: Mozūrų kunigaikštis, Jogailos pasiųstas pas Vytautą deryboms.
+Mozūrų kunigaikštis, Jogailos pasiųstas pas Vytautą deryboms.
 
 ## Variantai
 - Henriką
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Henrikas (Mozūrų kunigaikštis) apibūdinamas taip: Mozūrų kunigaikštis, Jogailos pasiųstas pas Vytautą deryboms."
+  teiginys: "Mozūrų kunigaikštis, Jogailos pasiųstas pas Vytautą deryboms."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

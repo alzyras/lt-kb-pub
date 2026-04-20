@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Lietuva nekariaujanti su krikščionybe: ji teginanti savo laisvę
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Lietuva nekariaujanti su krikščionybe: ji teginanti savo laisvę“; kontekstas: Gedimino laiške popiežiui aiškinama, kad Lietuva nekariauja su krikščionybe, o gina savo laisvę. Reikšmė: Skamba kaip lakoniška politinė tezė apie laisvės gynimą ir santykį su krikščionybe. (t-001)
+Užfiksuota formuluotė „Lietuva nekariaujanti su krikščionybe: ji teginanti savo laisvę“; kontekstas: Gedimino laiške popiežiui aiškinama, kad Lietuva nekariauja su krikščionybe, o gina savo laisvę. Reikšmė: Skamba kaip lakoniška politinė tezė apie laisvės gynimą ir santykį su krikščionybe. (t-001)
 
 ## Forma
 - pagrindinė forma: Lietuva nekariaujanti su krikščionybe: ji teginanti savo laisvę (t-001)
@@ -50,7 +50,7 @@ Skamba kaip lakoniška politinė tezė apie laisvės gynimą ir santykį su krik
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Lietuva nekariaujanti su krikščionybe: ji teginanti savo laisvę“; kontekstas: Gedimino laiške popiežiui aiškinama, kad Lietuva nekariauja su krikščionybe, o gina savo laisvę."
+  teiginys: "Užfiksuota formuluotė „Lietuva nekariaujanti su krikščionybe: ji teginanti savo laisvę“; kontekstas: Gedimino laiške popiežiui aiškinama, kad Lietuva nekariauja su krikščionybe, o gina savo laisvę."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

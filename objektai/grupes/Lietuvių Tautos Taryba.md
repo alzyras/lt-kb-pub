@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Lietuvių Tautos Taryba
 
 ## Santrauka
-Šaltinyje „Lietuvių Tautos Taryba“ apibūdinama kaip taryba; rusijoje iš įvairių srovių sudaryta taryba, kuri sušaukė lietuvių seimą Petrapilyje. (t-001)
+taryba; rusijoje iš įvairių srovių sudaryta taryba, kuri sušaukė lietuvių seimą Petrapilyje. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Lietuvių Tautos Taryba
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: taryba
-Šaltinyje „Lietuvių Tautos Taryba“ apibūdinama kaip taryba; rusijoje iš įvairių srovių sudaryta taryba, kuri sušaukė lietuvių seimą Petrapilyje. (t-001)
+taryba; rusijoje iš įvairių srovių sudaryta taryba, kuri sušaukė lietuvių seimą Petrapilyje. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Lietuvių Tautos Taryba“ apibūdinama kaip taryba; rusijoje iš įvairių srovių sudaryta taryba, kuri sušaukė lietuvių seimą Petrapilyje. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Lietuvių Tautos Taryba“ apibūdinama kaip taryba; rusijoje iš įvairių srovių sudaryta taryba, kuri sušaukė lietuvių seimą Petrapilyje."
+  teiginys: "taryba; rusijoje iš įvairių srovių sudaryta taryba, kuri sušaukė lietuvių seimą Petrapilyje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

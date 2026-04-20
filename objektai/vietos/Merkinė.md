@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Merkinė
 
 ## Santrauka
-Šaltinyje vieta „Merkinė“ siejama su šiuo kontekstu: sudeginama kartu su Gardinu ir Lyda ordino kariuomenės žygyje. (t-001)
+sudeginama kartu su Gardinu ir Lyda ordino kariuomenės žygyje. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Merkinė
@@ -49,7 +49,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Merkinė“ siejama su šiuo kontekstu: sudeginama kartu su Gardinu ir Lyda ordino kariuomenės žygyje."
+  teiginys: "sudeginama kartu su Gardinu ir Lyda ordino kariuomenės žygyje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Bažnyčios gynyba nuo uždarymo
 
 ## Santrauka
-Šaltinyje minima praktika „Bažnyčios gynyba nuo uždarymo“ siejama su formuluote: visiems parapijonims susirinkus į šventorių ir į bažnyčią jokiu būdu neleisti jos uždaryti. Šaltinio kontekste nurodoma: kas atlieka: parapijonys, žmonės; kada atliekama: kai valdžia mėgina uždaryti bažnyčią; ypač Kęstaičiuose (1886 m.) ir Kražiuose (1891–1893 m.). (t-001)
+visiems parapijonims susirinkus į šventorių ir į bažnyčią jokiu būdu neleisti jos uždaryti. Šaltinio kontekste nurodoma: kas atlieka: parapijonys, žmonės; kada atliekama: kai valdžia mėgina uždaryti bažnyčią; ypač Kęstaičiuose (1886 m.) ir Kražiuose (1891–1893 m.). (t-001)
 
 ## Pavadinimai šaltiniuose
 - visiems parapijonims susirinkus į šventorių ir į bažnyčią jokiu būdu neleisti jos uždaryti
@@ -40,8 +40,7 @@ patikimumas: "vidutinis"
 - date_start/date_end: 1886 / 1893 (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Bažnyčios gynyba nuo uždarymo“ siejama su formuluote: visiems parapijonims susirinkus į šventorių ir į bažnyčią jokiu būdu neleisti jos uždaryti. Šaltinio kontekste nurodoma: kas atlieka: parapijonys, žmonės; kada atliekama: kai valdžia mėgina uždaryti bažnyčią; ypač Kęstaičiuose (1886 m.) ir Kražiuose (1891–1893 m.). (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: parapijonys, žmonės (t-001)
 - kada atliekama: kai valdžia mėgina uždaryti bažnyčią; ypač Kęstaičiuose (1886 m.) ir Kražiuose (1891–1893 m.) (t-001)
@@ -49,7 +48,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Bažnyčios gynyba nuo uždarymo“ siejama su formuluote: visiems parapijonims susirinkus į šventorių ir į bažnyčią jokiu būdu neleisti jos uždaryti. Šaltinio kontekste nurodoma: kas atlieka: parapijonys, žmonės; kada atliekama: kai valdžia mėgina uždaryti bažnyčią; ypač Kęstaičiuose (1886 m.) ir Kražiuose (1891–1893 m.)."
+  teiginys: "visiems parapijonims susirinkus į šventorių ir į bažnyčią jokiu būdu neleisti jos uždaryti. Šaltinio kontekste nurodoma: kas atlieka: parapijonys, žmonės; kada atliekama: kai valdžia mėgina uždaryti bažnyčią; ypač Kęstaičiuose (1886 m.) ir Kražiuose (1891–1893 m.)."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

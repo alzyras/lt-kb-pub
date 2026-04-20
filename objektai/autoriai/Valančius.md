@@ -30,7 +30,7 @@ patikimumas: "vidutinis"
 # Valančius
 
 ## Santrauka
-Šaltinyje Valančius minimas kaip vyskupas ir autorius: jam priskiriama „Žemaičių vyskupystė“, daugybė knygučių, keli grožinio ir didaktinio pobūdžio leidiniai bei 9 slapti atsišaukimai.
+jam priskiriama „Žemaičių vyskupystė“, daugybė knygučių, keli grožinio ir didaktinio pobūdžio leidiniai bei 9 slapti atsišaukimai.
 
 ## Darbai
 - Paminėtas kaip vyskupas, parašęs Žemaičių vyskupystės istoriją. (t-001)
@@ -48,37 +48,37 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Valančius autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Paminėtas kaip vyskupas, parašęs Žemaičių vyskupystės istoriją."
+  teiginys: "Paminėtas kaip vyskupas, parašęs Žemaičių vyskupystės istoriją."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje nurodoma, kad Valančius 1848 m. parašė pirmą savo istorinį veikalą „Žemaičių vyskupystę“."
+  teiginys: "nurodoma, kad Valančius 1848 m. parašė pirmą savo istorinį veikalą „Žemaičių vyskupystę“."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-003
-  teiginys: "Šaltinyje nurodoma, kad Valančius pats parašė daugybę knygučių ir rūpinosi jų leidimu."
+  teiginys: "nurodoma, kad Valančius pats parašė daugybę knygučių ir rūpinosi jų leidimu."
   pagrindžia:
     - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-004
-  teiginys: "Šaltinyje nurodoma, kad valdžiai pavojinga laikyta Valančiaus „Žemaičių vyskupystė“ buvo uždrausta."
+  teiginys: "nurodoma, kad valdžiai pavojinga laikyta Valančiaus „Žemaičių vyskupystė“ buvo uždrausta."
   pagrindžia:
     - c-004
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-005
-  teiginys: "Šaltinyje prie reikšmingų Valančiaus leidinių minimi „Palangos Juzė“, „Paaugusių žmonių knygelė“, „Vaikų knygelė“ ir „Pasakojimas Antano tretininko“."
+  teiginys: "prie reikšmingų Valančiaus leidinių minimi „Palangos Juzė“, „Paaugusių žmonių knygelė“, „Vaikų knygelė“ ir „Pasakojimas Antano tretininko“."
   pagrindžia:
     - c-005
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-006
-  teiginys: "Šaltinyje nurodoma, kad Valančius išleido 9 slaptus atsišaukimus, mokančius priešintis pravoslavinimui."
+  teiginys: "nurodoma, kad Valančius išleido 9 slaptus atsišaukimus, mokančius priešintis pravoslavinimui."
   pagrindžia:
     - c-006
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

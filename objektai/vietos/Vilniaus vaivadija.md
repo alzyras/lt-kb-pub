@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Vilniaus vaivadija
 
 ## Santrauka
-Šaltinyje vieta „Vilniaus vaivadija“ siejama su šiuo kontekstu: Minima kaip viena iš Rusijai 1793 m. turėjusių atitekti didžiosios Lietuvos kunigaikštijos vaivadijų. (t-001)
+Minima kaip viena iš Rusijai 1793 m. turėjusių atitekti didžiosios Lietuvos kunigaikštijos vaivadijų. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Vilniaus vaivadija
@@ -49,7 +49,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Vilniaus vaivadija“ siejama su šiuo kontekstu: Minima kaip viena iš Rusijai 1793 m. turėjusių atitekti didžiosios Lietuvos kunigaikštijos vaivadijų."
+  teiginys: "Minima kaip viena iš Rusijai 1793 m. turėjusių atitekti didžiosios Lietuvos kunigaikštijos vaivadijų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

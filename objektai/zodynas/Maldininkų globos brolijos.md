@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Maldininkų globos brolijos
 
 ## Santrauka
-Šaltinyje „Maldininkų globos brolijos“ vartojama taip: Religinės pagalbos brolijos maldininkams globoti, iš kurių išsirutuliojo karinės ordino struktūros. (t-001)
+Religinės pagalbos brolijos maldininkams globoti, iš kurių išsirutuliojo karinės ordino struktūros. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Maldininkų globos brolijos
@@ -54,7 +54,7 @@ Terminas šaltinyje vartojamas šiame kontekste: kryžiaus žygiai, religinės b
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Maldininkų globos brolijos“ vartojama taip: Religinės pagalbos brolijos maldininkams globoti, iš kurių išsirutuliojo karinės ordino struktūros."
+  teiginys: "Religinės pagalbos brolijos maldininkams globoti, iš kurių išsirutuliojo karinės ordino struktūros."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

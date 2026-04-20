@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Seinų sritis
 
 ## Santrauka
-Šaltinyje vieta „Seinų sritis“ siejama su šiuo kontekstu: Minima kaip fronto ir demarkacijos zonos dalis. (t-001)
+Minima kaip fronto ir demarkacijos zonos dalis. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Seinų sritis
@@ -49,7 +49,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Seinų sritis“ siejama su šiuo kontekstu: Minima kaip fronto ir demarkacijos zonos dalis."
+  teiginys: "Minima kaip fronto ir demarkacijos zonos dalis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

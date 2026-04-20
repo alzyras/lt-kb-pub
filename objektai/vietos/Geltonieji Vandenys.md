@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Geltonieji Vandenys
 
 ## Santrauka
-Šaltinyje vieta „Geltonieji Vandenys“ siejama su šiuo kontekstu: Mūšio vieta, kur Chmelnickis sunaikino Lenkų kariuomenę. (t-001)
+Mūšio vieta, kur Chmelnickis sunaikino Lenkų kariuomenę. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Geltonieji Vandenys
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Geltonieji Vandenys“ siejama su šiuo kontekstu: Mūšio vieta, kur Chmelnickis sunaikino Lenkų kariuomenę."
+  teiginys: "Mūšio vieta, kur Chmelnickis sunaikino Lenkų kariuomenę."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

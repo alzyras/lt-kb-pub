@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Jotvingai
 
 ## Santrauka
-Šaltinyje „Jotvingai“ apibūdinama kaip kiltis; jotvingai minimi kartu su žemaičiais kaip Traidenio klaususi kiltis, kuri Mindaugo laikais dar „labai neaiškiai laikėsi“. (t-001)
+kiltis; jotvingai minimi kartu su žemaičiais kaip Traidenio klaususi kiltis, kuri Mindaugo laikais dar „labai neaiškiai laikėsi“. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Jotvingai
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: kiltis
-Šaltinyje „Jotvingai“ apibūdinama kaip kiltis; jotvingai minimi kartu su žemaičiais kaip Traidenio klaususi kiltis, kuri Mindaugo laikais dar „labai neaiškiai laikėsi“. (t-001)
+kiltis; jotvingai minimi kartu su žemaičiais kaip Traidenio klaususi kiltis, kuri Mindaugo laikais dar „labai neaiškiai laikėsi“. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Jotvingai“ apibūdinama kaip kiltis; jotvingai minimi kartu su žemaičiais kaip Traidenio klaususi kiltis, kuri Mindaugo laikais dar „labai neaiškiai laikėsi“. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Jotvingai“ apibūdinama kaip kiltis; jotvingai minimi kartu su žemaičiais kaip Traidenio klaususi kiltis, kuri Mindaugo laikais dar „labai neaiškiai laikėsi“."
+  teiginys: "kiltis; jotvingai minimi kartu su žemaičiais kaip Traidenio klaususi kiltis, kuri Mindaugo laikais dar „labai neaiškiai laikėsi“."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Mažlenkiai
 
 ## Santrauka
-Šaltinyje vieta „Mažlenkiai“ siejama su šiuo kontekstu: Minimi kaip Austrijos užimta Respublikos dalis pirmojo padalinimo metu. (t-001)
+Minimi kaip Austrijos užimta Respublikos dalis pirmojo padalinimo metu. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Mažlenkiai
@@ -47,7 +47,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Mažlenkiai“ siejama su šiuo kontekstu: Minimi kaip Austrijos užimta Respublikos dalis pirmojo padalinimo metu."
+  teiginys: "Minimi kaip Austrijos užimta Respublikos dalis pirmojo padalinimo metu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

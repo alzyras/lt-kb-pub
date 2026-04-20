@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Blaivybės brolijų steigimo paprotys
 
 ## Santrauka
-Šaltinyje minima praktika „Blaivybės brolijų steigimo paprotys“ siejama su formuluote: ji surašinėjo žmones į blaivybės brolijas. Šaltinio kontekste nurodoma: kas atlieka: vyskupo Valančiaus raginama kunigija; vėliau ir parapijonys; kada atliekama: 1858 m. pradėjus blaivybės darbą; iki 1863 m. sukilimo. (t-001)
+ji surašinėjo žmones į blaivybės brolijas. Šaltinio kontekste nurodoma: kas atlieka: vyskupo Valančiaus raginama kunigija; vėliau ir parapijonys; kada atliekama: 1858 m. pradėjus blaivybės darbą; iki 1863 m. sukilimo. (t-001)
 
 ## Pavadinimai šaltiniuose
 - ji surašinėjo žmones į blaivybės brolijas
@@ -40,8 +40,7 @@ patikimumas: "vidutinis"
 - date_start/date_end: 1858 / 1863 (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Blaivybės brolijų steigimo paprotys“ siejama su formuluote: ji surašinėjo žmones į blaivybės brolijas. Šaltinio kontekste nurodoma: kas atlieka: vyskupo Valančiaus raginama kunigija; vėliau ir parapijonys; kada atliekama: 1858 m. pradėjus blaivybės darbą; iki 1863 m. sukilimo. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: vyskupo Valančiaus raginama kunigija; vėliau ir parapijonys (t-001)
 - kada atliekama: 1858 m. pradėjus blaivybės darbą; iki 1863 m. sukilimo (t-001)
@@ -49,7 +48,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Blaivybės brolijų steigimo paprotys“ siejama su formuluote: ji surašinėjo žmones į blaivybės brolijas. Šaltinio kontekste nurodoma: kas atlieka: vyskupo Valančiaus raginama kunigija; vėliau ir parapijonys; kada atliekama: 1858 m. pradėjus blaivybės darbą; iki 1863 m. sukilimo."
+  teiginys: "ji surašinėjo žmones į blaivybės brolijas. Šaltinio kontekste nurodoma: kas atlieka: vyskupo Valančiaus raginama kunigija; vėliau ir parapijonys; kada atliekama: 1858 m. pradėjus blaivybės darbą; iki 1863 m. sukilimo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

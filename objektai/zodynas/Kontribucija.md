@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Kontribucija
 
 ## Santrauka
-Šaltinyje „Kontribucija“ vartojama taip: Karo prievolė arba iš valstybės išreikalauta piniginė įmoka. (t-001)
+Karo prievolė arba iš valstybės išreikalauta piniginė įmoka. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Kontribucija
@@ -54,7 +54,7 @@ Terminas šaltinyje vartojamas šiame kontekste: karo finansai, istorinis mokest
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kontribucija“ vartojama taip: Karo prievolė arba iš valstybės išreikalauta piniginė įmoka."
+  teiginys: "Karo prievolė arba iš valstybės išreikalauta piniginė įmoka."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

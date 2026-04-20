@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Moneta magni ducatus Lithuaniae
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Moneta magni ducatus Lithuaniae“; kontekstas: Zigmanto Augusto pinigų skyriaus apraše nurodomas lotyniškas įrašas ant jo pinigų. Reikšmė: Lotyniška pinigų legenda, kurioje nusakomas Lietuvos didžiosios kunigaikštystės titulas. (t-001)
+Užfiksuota formuluotė „Moneta magni ducatus Lithuaniae“; kontekstas: Zigmanto Augusto pinigų skyriaus apraše nurodomas lotyniškas įrašas ant jo pinigų. Reikšmė: Lotyniška pinigų legenda, kurioje nusakomas Lietuvos didžiosios kunigaikštystės titulas. (t-001)
 
 ## Forma
 - pagrindinė forma: Moneta magni ducatus Lithuaniae (t-001)
@@ -46,7 +46,7 @@ Lotyniška pinigų legenda, kurioje nusakomas Lietuvos didžiosios kunigaikštys
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Moneta magni ducatus Lithuaniae“; kontekstas: Zigmanto Augusto pinigų skyriaus apraše nurodomas lotyniškas įrašas ant jo pinigų."
+  teiginys: "Užfiksuota formuluotė „Moneta magni ducatus Lithuaniae“; kontekstas: Zigmanto Augusto pinigų skyriaus apraše nurodomas lotyniškas įrašas ant jo pinigų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

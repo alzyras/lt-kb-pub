@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 # Žemaitija
 
 ## Santrauka
-Šaltinyje vieta „Žemaitija“ siejama su šiuo kontekstu: Minima kaip ordino puolamas ir vėliau žemaičių kovų su ordinu laukas. (t-001)
+Minima kaip ordino puolamas ir vėliau žemaičių kovų su ordinu laukas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Žemaitija
@@ -53,7 +53,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Žemaitija“ siejama su šiuo kontekstu: Minima kaip ordino puolamas ir vėliau žemaičių kovų su ordinu laukas."
+  teiginys: "Minima kaip ordino puolamas ir vėliau žemaičių kovų su ordinu laukas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

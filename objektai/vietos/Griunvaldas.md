@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Griunvaldas
 
 ## Santrauka
-Šaltinyje vieta „Griunvaldas“ siejama su šiais kontekstais: mūšio vieta ordino žemėje; Minimas kaip viena iš Tanenbergo mūšio vietų. (t-001, t-002)
+mūšio vieta ordino žemėje; Minimas kaip viena iš Tanenbergo mūšio vietų. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Griunvaldas
@@ -49,13 +49,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Griunvaldas“ siejama su šiuo kontekstu: mūšio vieta ordino žemėje."
+  teiginys: "mūšio vieta ordino žemėje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Griunvaldas“ siejama su šiuo kontekstu: Minimas kaip viena iš Tanenbergo mūšio vietų."
+  teiginys: "Minimas kaip viena iš Tanenbergo mūšio vietų."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

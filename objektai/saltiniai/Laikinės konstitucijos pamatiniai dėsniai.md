@@ -38,7 +38,7 @@ patikimumas: "aukstas"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Laikinės konstitucijos pamatiniai dėsniai“ tai Valstybės Tarybos išleisti laikinės konstitucijos pagrindiniai dėsniai, kuriais buvo remtasi organizuojant pirmąją valdžios sandarą.
+tai Valstybės Tarybos išleisti laikinės konstitucijos pagrindiniai dėsniai, kuriais buvo remtasi organizuojant pirmąją valdžios sandarą.
 
 ## Ryšiai
 
@@ -47,13 +47,13 @@ patikimumas: "aukstas"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Laikinės konstitucijos pamatiniai dėsniai“ tai Valstybės Tarybos išleisti laikinės konstitucijos pagrindiniai dėsniai, kuriais buvo remtasi organizuojant pirmąją valdžios sandarą."
+  teiginys: "tai Valstybės Tarybos išleisti laikinės konstitucijos pagrindiniai dėsniai, kuriais buvo remtasi organizuojant pirmąją valdžios sandarą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Laikinės konstitucijos pamatiniai dėsniai“ siejamas su šiuo kontekstu: Nėra."
+  teiginys: "Nėra."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

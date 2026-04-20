@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Viurtembergas
 
 ## Santrauka
-Šaltinyje vieta „Viurtembergas“ siejama su šiuo kontekstu: Minimas kaip valdovo kilmės vieta, kai svarstytas Uracho kandidatūros ryšys su Vokietijos kunigaikščiais. (t-001)
+Minimas kaip valdovo kilmės vieta, kai svarstytas Uracho kandidatūros ryšys su Vokietijos kunigaikščiais. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Viurtembergas
@@ -47,7 +47,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Viurtembergas“ siejama su šiuo kontekstu: Minimas kaip valdovo kilmės vieta, kai svarstytas Uracho kandidatūros ryšys su Vokietijos kunigaikščiais."
+  teiginys: "Minimas kaip valdovo kilmės vieta, kai svarstytas Uracho kandidatūros ryšys su Vokietijos kunigaikščiais."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

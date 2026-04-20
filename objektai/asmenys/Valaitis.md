@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Valaitis
 
 ## Santrauka
-Šaltinyje Valaitis apibūdinamas taip: Minimas kaip kunigas, nuo 1928 m. Sao Paule rūpinęsis parapijos organizavimu ir prisidėjęs prie lietuvių mokyklų kūrimo. Šaltinyje Valaitis apibūdinamas taip: Sao Paule konsulato ir kun. Valaičio rūpesčiu buvo įkurtos keturios lietuvių mokyklos, trys iš jų jau turėjo savus rūmus.
+Minimas kaip kunigas, nuo 1928 m. Sao Paule rūpinęsis parapijos organizavimu ir prisidėjęs prie lietuvių mokyklų kūrimo. Sao Paule konsulato ir kun. Valaičio rūpesčiu buvo įkurtos keturios lietuvių mokyklos, trys iš jų jau turėjo savus rūmus.
 
 ## Variantai
 - Valaičio
@@ -46,13 +46,13 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Valaitis apibūdinamas taip: Minimas kaip kunigas, nuo 1928 m. Sao Paule rūpinęsis parapijos organizavimu ir prisidėjęs prie lietuvių mokyklų kūrimo."
+  teiginys: "Minimas kaip kunigas, nuo 1928 m. Sao Paule rūpinęsis parapijos organizavimu ir prisidėjęs prie lietuvių mokyklų kūrimo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje Valaitis apibūdinamas taip: Sao Paule konsulato ir kun. Valaičio rūpesčiu buvo įkurtos keturios lietuvių mokyklos, trys iš jų jau turėjo savus rūmus."
+  teiginys: "Sao Paule konsulato ir kun. Valaičio rūpesčiu buvo įkurtos keturios lietuvių mokyklos, trys iš jų jau turėjo savus rūmus."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

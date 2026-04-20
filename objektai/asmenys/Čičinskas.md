@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Čičinskas
 
 ## Santrauka
-Šaltinyje Čičinskas apibūdinamas taip: Minimas kaip Upytės atstovas, susijęs su _liberum veto_ ir seimo išardymu.
+Minimas kaip Upytės atstovas, susijęs su _liberum veto_ ir seimo išardymu.
 
 ## Variantai
 - Sicinskis
@@ -42,7 +42,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Čičinskas apibūdinamas taip: Minimas kaip Upytės atstovas, susijęs su _liberum veto_ ir seimo išardymu."
+  teiginys: "Minimas kaip Upytės atstovas, susijęs su _liberum veto_ ir seimo išardymu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

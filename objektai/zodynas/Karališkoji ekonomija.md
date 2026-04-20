@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Karališkoji ekonomija
 
 ## Santrauka
-Šaltinyje „Karališkoji ekonomija“ vartojama taip: Valdovo žemės valda arba ūkis, skirtas karaliaus pragyvenimui. (t-001)
+Valdovo žemės valda arba ūkis, skirtas karaliaus pragyvenimui. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Karališkoji ekonomija
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: dvarų ūkis, valstybės pajamo
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Karališkoji ekonomija“ vartojama taip: Valdovo žemės valda arba ūkis, skirtas karaliaus pragyvenimui."
+  teiginys: "Valdovo žemės valda arba ūkis, skirtas karaliaus pragyvenimui."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

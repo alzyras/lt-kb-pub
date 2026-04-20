@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # J. Šernas
 
 ## Santrauka
-Šaltinyje J. Šernas apibūdinamas taip: Minimas kaip Lietuvos Tarybos narys.
+Minimas kaip Lietuvos Tarybos narys.
 
 ## Variantai
 - J. Šerno
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje J. Šernas apibūdinamas taip: Minimas kaip Lietuvos Tarybos narys."
+  teiginys: "Minimas kaip Lietuvos Tarybos narys."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

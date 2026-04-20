@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Šveicarija
 
 ## Santrauka
-Šaltinyje vieta „Šveicarija“ siejama su šiais kontekstais: Šalis nurodoma skliausteliuose prie Bazelio kaip suvažiavimo vietos aplinka; Minima kaip vieta, kur vyko pavergtų tautų kongresas Lozanoje. (t-001, t-002)
+Šalis nurodoma skliausteliuose prie Bazelio kaip suvažiavimo vietos aplinka; Minima kaip vieta, kur vyko pavergtų tautų kongresas Lozanoje. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Šveicarija
@@ -45,13 +45,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Šveicarija“ siejama su šiuo kontekstu: Šalis nurodoma skliausteliuose prie Bazelio kaip suvažiavimo vietos aplinka."
+  teiginys: "Šalis nurodoma skliausteliuose prie Bazelio kaip suvažiavimo vietos aplinka."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Šveicarija“ siejama su šiuo kontekstu: Minima kaip vieta, kur vyko pavergtų tautų kongresas Lozanoje."
+  teiginys: "Minima kaip vieta, kur vyko pavergtų tautų kongresas Lozanoje."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

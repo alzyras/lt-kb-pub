@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Giedrininkai
 
 ## Santrauka
-Šaltinyje „Giedrininkai“ vartojama taip: „Giedros“ organo nariai arba šio katalikiško moksleivių susivienijimo nariai. (t-001)
+„Giedros“ organo nariai arba šio katalikiško moksleivių susivienijimo nariai. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Giedrininkai
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: katalikiško jaunimo organizaci
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Giedrininkai“ vartojama taip: „Giedros“ organo nariai arba šio katalikiško moksleivių susivienijimo nariai."
+  teiginys: "„Giedros“ organo nariai arba šio katalikiško moksleivių susivienijimo nariai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

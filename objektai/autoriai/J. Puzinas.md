@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # J. Puzinas
 
 ## Santrauka
-Šaltinyje J. Puzinas minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip priešistorės tyrėjas ir nacionalinio sąmoningumo problemų autorius.
+Bibliografijoje nurodytas kaip priešistorės tyrėjas ir nacionalinio sąmoningumo problemų autorius.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip priešistorės tyrėjas ir nacionalinio sąmoningumo problemų autorius. (t-001)
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje J. Puzinas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip priešistorės tyrėjas ir nacionalinio sąmoningumo problemų autorius."
+  teiginys: "Bibliografijoje nurodytas kaip priešistorės tyrėjas ir nacionalinio sąmoningumo problemų autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

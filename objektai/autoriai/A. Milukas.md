@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # A. Milukas
 
 ## Santrauka
-Šaltinyje A. Milukas minimas kaip autorius; šis vaidmuo siejamas su: Amerikos liet. kronika.
+Amerikos liet. kronika.
 
 ## Laikotarpis ir datos
 - 1929 m.
@@ -41,7 +41,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje A. Milukas minimas kaip autorius, siejamas su: Amerikos liet. kronika."
+  teiginys: "Amerikos liet. kronika."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

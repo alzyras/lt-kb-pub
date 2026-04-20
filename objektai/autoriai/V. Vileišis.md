@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # V. Vileišis
 
 ## Santrauka
-Šaltinyje V. Vileišis minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip Tautinių santykių Mažojoje Lietuvoje tyrimo autorius.
+Minimas kaip Tautinių santykių Mažojoje Lietuvoje tyrimo autorius.
 
 ## Darbai
 - Minimas kaip Tautinių santykių Mažojoje Lietuvoje tyrimo autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje V. Vileišis autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip Tautinių santykių Mažojoje Lietuvoje tyrimo autorius."
+  teiginys: "Minimas kaip Tautinių santykių Mažojoje Lietuvoje tyrimo autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

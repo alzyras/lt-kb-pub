@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Vilkaviškis
 
 ## Santrauka
-Šaltinyje vieta „Vilkaviškis“ siejama su šiuo kontekstu: Minimas kaip vieta, kur Napoleono kariuomenė buvo sustojusi prieš žygį į Lietuvą ir Rusiją. (t-001)
+Minimas kaip vieta, kur Napoleono kariuomenė buvo sustojusi prieš žygį į Lietuvą ir Rusiją. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Vilkaviškis
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Vilkaviškis“ siejama su šiuo kontekstu: Minimas kaip vieta, kur Napoleono kariuomenė buvo sustojusi prieš žygį į Lietuvą ir Rusiją."
+  teiginys: "Minimas kaip vieta, kur Napoleono kariuomenė buvo sustojusi prieš žygį į Lietuvą ir Rusiją."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Dingstė
 
 ## Santrauka
-Šaltinyje „Dingstė“ vartojama taip: Pretekstas, dingstis, priedanga. (t-001)
+Pretekstas, dingstis, priedanga. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Dingstė
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: senesnė bendrinė vartosena, i
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Dingstė“ vartojama taip: Pretekstas, dingstis, priedanga."
+  teiginys: "Pretekstas, dingstis, priedanga."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

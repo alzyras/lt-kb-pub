@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Banicija
 
 ## Santrauka
-Šaltinyje „Banicija“ vartojama taip: Ištrėmimo arba visų teisių atėmimo sankcija senajame teisme. (t-001)
+Ištrėmimo arba visų teisių atėmimo sankcija senajame teisme. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Banicija
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: teisė, senoji teismo terminija
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Banicija“ vartojama taip: Ištrėmimo arba visų teisių atėmimo sankcija senajame teisme."
+  teiginys: "Ištrėmimo arba visų teisių atėmimo sankcija senajame teisme."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

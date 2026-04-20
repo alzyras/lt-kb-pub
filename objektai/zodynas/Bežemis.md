@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Bežemis
 
 ## Santrauka
-Šaltinyje „Bežemis“ vartojama taip: Žemės neturintis asmuo, ypač kaimo ar kariuomenės reformų kontekste. (t-001)
+Žemės neturintis asmuo, ypač kaimo ar kariuomenės reformų kontekste. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Bežemis
@@ -54,7 +54,7 @@ Terminas šaltinyje vartojamas šiame kontekste: agrarinė reformų leksika, soc
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Bežemis“ vartojama taip: Žemės neturintis asmuo, ypač kaimo ar kariuomenės reformų kontekste."
+  teiginys: "Žemės neturintis asmuo, ypač kaimo ar kariuomenės reformų kontekste."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

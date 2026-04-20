@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Kuršėnai
 
 ## Santrauka
-Šaltinyje vieta „Kuršėnai“ siejama su šiuo kontekstu: Minima kaip bermontininkų įsiveržimo į Lietuvą vieta. (t-001)
+Minima kaip bermontininkų įsiveržimo į Lietuvą vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Kuršėnai
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Kuršėnai“ siejama su šiuo kontekstu: Minima kaip bermontininkų įsiveržimo į Lietuvą vieta."
+  teiginys: "Minima kaip bermontininkų įsiveržimo į Lietuvą vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

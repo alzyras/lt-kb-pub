@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # De jure
 
 ## Santrauka
-Šaltinyje „De jure“ vartojama taip: Oficialus, teisinis valstybės pripažinimas. (t-001)
+Oficialus, teisinis valstybės pripažinimas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: De jure
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: tarptautinė teisė, diplomatin
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „De jure“ vartojama taip: Oficialus, teisinis valstybės pripažinimas."
+  teiginys: "Oficialus, teisinis valstybės pripažinimas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -31,7 +31,7 @@ patikimumas: "vidutinis"
 # Smuklė
 
 ## Santrauka
-Šaltinyje „Smuklė“ vartojama taip: Užeiga, tavernos arba kaimo smuklė. (t-001)
+Užeiga, tavernos arba kaimo smuklė. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Smuklė
@@ -54,7 +54,7 @@ Terminas šaltinyje vartojamas šiame kontekste: socialinė ir ūkio istorija, a
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Smuklė“ vartojama taip: Užeiga, tavernos arba kaimo smuklė."
+  teiginys: "Užeiga, tavernos arba kaimo smuklė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

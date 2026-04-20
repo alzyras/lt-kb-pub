@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Veliuona
 
 ## Santrauka
-Šaltinyje vieta „Veliuona“ siejama su šiuo kontekstu: Minima kaip viena iš Panemunės pilių. (t-001)
+Minima kaip viena iš Panemunės pilių. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Veliuona
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Veliuona“ siejama su šiuo kontekstu: Minima kaip viena iš Panemunės pilių."
+  teiginys: "Minima kaip viena iš Panemunės pilių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

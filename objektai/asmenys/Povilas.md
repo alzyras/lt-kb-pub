@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # Povilas
 
 ## Santrauka
-Šaltinyje Povilas apibūdinamas taip: Minimas kaip Kotrynos įpėdinis caras, paleidęs iš kalėjimų su Kosciuška patekusius veikėjus.
+Minimas kaip Kotrynos įpėdinis caras, paleidęs iš kalėjimų su Kosciuška patekusius veikėjus.
 
 ## Variantai
 - caras Povilas
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Povilas apibūdinamas taip: Minimas kaip Kotrynos įpėdinis caras, paleidęs iš kalėjimų su Kosciuška patekusius veikėjus."
+  teiginys: "Minimas kaip Kotrynos įpėdinis caras, paleidęs iš kalėjimų su Kosciuška patekusius veikėjus."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

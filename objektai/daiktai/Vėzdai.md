@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Vėzdai
 
 ## Santrauka
-Šaltinyje „Vėzdai“ siejamas su šiuo kontekstu: Vėzdai čia minimi kaip triukšmadarių ginklas per konfliktus dėl lietuviškų pamaldų.
+Vėzdai čia minimi kaip triukšmadarių ginklas per konfliktus dėl lietuviškų pamaldų.
 
 ## Pavadinimai šaltiniuose
 - vėzdais
@@ -41,11 +41,10 @@ patikimumas: "aukstas"
 - date_end:
 
 ## Kas tai
-Šaltinyje „Vėzdai“ siejamas su šiuo kontekstu: Vėzdai čia minimi kaip triukšmadarių ginklas per konfliktus dėl lietuviškų pamaldų.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Vėzdai“ siejamas su šiuo kontekstu: Vėzdai čia minimi kaip triukšmadarių ginklas per konfliktus dėl lietuviškų pamaldų."
+  teiginys: "Vėzdai čia minimi kaip triukšmadarių ginklas per konfliktus dėl lietuviškų pamaldų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

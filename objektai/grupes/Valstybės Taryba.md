@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Valstybės Taryba
 
 ## Santrauka
-Šaltinyje „Valstybės Taryba“ apibūdinama kaip taryba; lenkijai suteiktos autonomijos sąlygomis įsteigta taryba, sudaryta iš pačių lenkų. (t-001)
+taryba; lenkijai suteiktos autonomijos sąlygomis įsteigta taryba, sudaryta iš pačių lenkų. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Valstybės Taryba
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: taryba
-Šaltinyje „Valstybės Taryba“ apibūdinama kaip taryba; lenkijai suteiktos autonomijos sąlygomis įsteigta taryba, sudaryta iš pačių lenkų. (t-001)
+taryba; lenkijai suteiktos autonomijos sąlygomis įsteigta taryba, sudaryta iš pačių lenkų. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Valstybės Taryba“ apibūdinama kaip taryba; lenkijai suteiktos autonomijos sąlygomis įsteigta taryba, sudaryta iš pačių lenkų. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Valstybės Taryba“ apibūdinama kaip taryba; lenkijai suteiktos autonomijos sąlygomis įsteigta taryba, sudaryta iš pačių lenkų."
+  teiginys: "taryba; lenkijai suteiktos autonomijos sąlygomis įsteigta taryba, sudaryta iš pačių lenkų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

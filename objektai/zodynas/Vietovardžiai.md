@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Vietovardžiai
 
 ## Santrauka
-Šaltinyje „Vietovardžiai“ vartojama taip: Vietų vardai, iš kurių daroma išvada apie senąsias gyventojų tėkmes ir kalbinę aplinką. (t-001)
+Vietų vardai, iš kurių daroma išvada apie senąsias gyventojų tėkmes ir kalbinę aplinką. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Vietovardžiai
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: istorijos šaltiniai, kalbotyra
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Vietovardžiai“ vartojama taip: Vietų vardai, iš kurių daroma išvada apie senąsias gyventojų tėkmes ir kalbinę aplinką."
+  teiginys: "Vietų vardai, iš kurių daroma išvada apie senąsias gyventojų tėkmes ir kalbinę aplinką."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

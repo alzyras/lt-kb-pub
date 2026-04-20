@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Jonas Kalita
 
 ## Santrauka
-Šaltinyje Jonas Kalita apibūdinamas taip: Maskvos iškilimo pradžios valdovas.
+Maskvos iškilimo pradžios valdovas.
 
 ## Variantai
 - Jono Kalitos
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Jonas Kalita apibūdinamas taip: Maskvos iškilimo pradžios valdovas."
+  teiginys: "Maskvos iškilimo pradžios valdovas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

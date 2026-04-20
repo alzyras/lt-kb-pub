@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Maskvos pasienys
 
 ## Santrauka
-Šaltinyje vieta „Maskvos pasienys“ siejama su šiuo kontekstu: Minima kaip pasienio sritis, kurioje dar liko atskirų kunigaikštysčių. (t-001)
+Minima kaip pasienio sritis, kurioje dar liko atskirų kunigaikštysčių. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Maskvos pasienys
@@ -42,7 +42,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Maskvos pasienys“ siejama su šiuo kontekstu: Minima kaip pasienio sritis, kurioje dar liko atskirų kunigaikštysčių."
+  teiginys: "Minima kaip pasienio sritis, kurioje dar liko atskirų kunigaikštysčių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

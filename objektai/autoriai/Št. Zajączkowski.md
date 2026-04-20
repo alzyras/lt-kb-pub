@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Št. Zajączkowski
 
 ## Santrauka
-Šaltinyje Št. Zajączkowski minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip Žemaitijos XIII a. istorijos tyrėjas.
+Bibliografijoje nurodytas kaip Žemaitijos XIII a. istorijos tyrėjas.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip Žemaitijos XIII a. istorijos tyrėjas. (t-001)
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Št. Zajączkowski autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip Žemaitijos XIII a. istorijos tyrėjas."
+  teiginys: "Bibliografijoje nurodytas kaip Žemaitijos XIII a. istorijos tyrėjas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

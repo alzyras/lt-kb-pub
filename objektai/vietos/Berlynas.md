@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Berlynas
 
 ## Santrauka
-Šaltinyje vieta „Berlynas“ siejama su šiais kontekstais: Miestas minimas kaip archyvų vieta, susijusi su Lietuvos istorija; Minimas kaip vieta, kur augo Boguslovo Radvilos duktė ir kur vyko jos santuokos reikalai. (t-001, t-002)
+Miestas minimas kaip archyvų vieta, susijusi su Lietuvos istorija; Minimas kaip vieta, kur augo Boguslovo Radvilos duktė ir kur vyko jos santuokos reikalai. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Berlynas
@@ -51,13 +51,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Berlynas“ siejama su šiuo kontekstu: Miestas minimas kaip archyvų vieta, susijusi su Lietuvos istorija."
+  teiginys: "Miestas minimas kaip archyvų vieta, susijusi su Lietuvos istorija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Berlynas“ siejama su šiuo kontekstu: Minimas kaip vieta, kur augo Boguslovo Radvilos duktė ir kur vyko jos santuokos reikalai."
+  teiginys: "Minimas kaip vieta, kur augo Boguslovo Radvilos duktė ir kur vyko jos santuokos reikalai."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

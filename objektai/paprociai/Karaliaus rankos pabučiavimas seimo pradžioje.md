@@ -26,14 +26,13 @@ patikimumas: "vidutinis"
 # Karaliaus rankos pabučiavimas seimo pradžioje
 
 ## Santrauka
-Šaltinyje minima praktika „Karaliaus rankos pabučiavimas seimo pradžioje“ siejama su formuluote: pabučiuoti soste sėdinčiajam karaliui rankos. Šaltinio kontekste nurodoma: kas atlieka: visi seimo dalyviai; kada atliekama: seimo pradžioje. (t-001)
+pabučiuoti soste sėdinčiajam karaliui rankos. Šaltinio kontekste nurodoma: kas atlieka: visi seimo dalyviai; kada atliekama: seimo pradžioje. (t-001)
 
 ## Pavadinimai šaltiniuose
 - pabučiuoti soste sėdinčiajam karaliui rankos
 
 ## Kas tai
-Šaltinyje minima praktika „Karaliaus rankos pabučiavimas seimo pradžioje“ siejama su formuluote: pabučiuoti soste sėdinčiajam karaliui rankos. Šaltinio kontekste nurodoma: kas atlieka: visi seimo dalyviai; kada atliekama: seimo pradžioje. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: visi seimo dalyviai (t-001)
 - kada atliekama: seimo pradžioje (t-001)
@@ -41,7 +40,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Karaliaus rankos pabučiavimas seimo pradžioje“ siejama su formuluote: pabučiuoti soste sėdinčiajam karaliui rankos. Šaltinio kontekste nurodoma: kas atlieka: visi seimo dalyviai; kada atliekama: seimo pradžioje."
+  teiginys: "pabučiuoti soste sėdinčiajam karaliui rankos. Šaltinio kontekste nurodoma: kas atlieka: visi seimo dalyviai; kada atliekama: seimo pradžioje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

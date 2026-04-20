@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Taip pat protestuoju prieš neteisybę
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Taip pat protestuoju prieš neteisybę, kuri mums būtų padaryta. Jei tas įvyks, mes ieškosim paramos ir dėsimės pirmiausia su valdovais krikščionimis, o paskui net su pagonimis“; kontekstas: Mikalojus Radvila Juodasis derybose dėl unijos formuluoja aštrų protestą ir politinį perspėjimą lenkams. Reikšmė: Ryški politinė replika, kuri tinka kaip įsimintina istorinio ginčo frazė. (t-001)
+Užfiksuota formuluotė „Taip pat protestuoju prieš neteisybę, kuri mums būtų padaryta. Jei tas įvyks, mes ieškosim paramos ir dėsimės pirmiausia su valdovais krikščionimis, o paskui net su pagonimis“; kontekstas: Mikalojus Radvila Juodasis derybose dėl unijos formuluoja aštrų protestą ir politinį perspėjimą lenkams. Reikšmė: Ryški politinė replika, kuri tinka kaip įsimintina istorinio ginčo frazė. (t-001)
 
 ## Forma
 - pagrindinė forma: Taip pat protestuoju prieš neteisybę, kuri mums būtų padaryta. Jei tas įvyks, mes ieškosim paramos ir dėsimės pirmiausia su valdovais krikščionimis, o paskui net su pagonimis (t-001)
@@ -50,7 +50,7 @@ Ryški politinė replika, kuri tinka kaip įsimintina istorinio ginčo frazė. (
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Taip pat protestuoju prieš neteisybę, kuri mums būtų padaryta. Jei tas įvyks, mes ieškosim paramos ir dėsimės pirmiausia su valdovais krikščionimis, o paskui net su pagonimis“; kontekstas: Mikalojus Radvila Juodasis derybose dėl unijos formuluoja aštrų protestą ir politinį perspėjimą lenkams."
+  teiginys: "Užfiksuota formuluotė „Taip pat protestuoju prieš neteisybę, kuri mums būtų padaryta. Jei tas įvyks, mes ieškosim paramos ir dėsimės pirmiausia su valdovais krikščionimis, o paskui net su pagonimis“; kontekstas: Mikalojus Radvila Juodasis derybose dėl unijos formuluoja aštrų protestą ir politinį perspėjimą lenkams."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

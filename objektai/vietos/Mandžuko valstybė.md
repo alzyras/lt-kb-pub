@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Mandžuko valstybė
 
 ## Santrauka
-Šaltinyje vieta „Mandžuko valstybė“ siejama su šiuo kontekstu: Minima kaip naujai įsteigta valstybė, kurios sostinėje gyvena dalis lietuvių. (t-001)
+Minima kaip naujai įsteigta valstybė, kurios sostinėje gyvena dalis lietuvių. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Mandžuko valstybė
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Mandžuko valstybė“ siejama su šiuo kontekstu: Minima kaip naujai įsteigta valstybė, kurios sostinėje gyvena dalis lietuvių."
+  teiginys: "Minima kaip naujai įsteigta valstybė, kurios sostinėje gyvena dalis lietuvių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

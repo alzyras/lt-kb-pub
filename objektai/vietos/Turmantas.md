@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Turmantas
 
 ## Santrauka
-Šaltinyje vieta „Turmantas“ siejama su šiuo kontekstu: Minimas kaip orientyras prie rytinės Lietuvos–Latvijos sienos. (t-001)
+Minimas kaip orientyras prie rytinės Lietuvos–Latvijos sienos. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Turmantas
@@ -47,7 +47,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Turmantas“ siejama su šiuo kontekstu: Minimas kaip orientyras prie rytinės Lietuvos–Latvijos sienos."
+  teiginys: "Minimas kaip orientyras prie rytinės Lietuvos–Latvijos sienos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

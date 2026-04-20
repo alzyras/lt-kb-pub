@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Hitleris
 
 ## Santrauka
-Šaltinyje Hitleris apibūdinamas taip: Minimas kaip Vokietijos vyriausybės ir valstybės galva, 1935 m. seimelio rinkimų išvakarėse atvirai pagrasinęs Lietuvai.
+Minimas kaip Vokietijos vyriausybės ir valstybės galva, 1935 m. seimelio rinkimų išvakarėse atvirai pagrasinęs Lietuvai.
 
 ## Variantai
 - Hitlerio
@@ -42,7 +42,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Hitleris apibūdinamas taip: Minimas kaip Vokietijos vyriausybės ir valstybės galva, 1935 m. seimelio rinkimų išvakarėse atvirai pagrasinęs Lietuvai."
+  teiginys: "Minimas kaip Vokietijos vyriausybės ir valstybės galva, 1935 m. seimelio rinkimų išvakarėse atvirai pagrasinęs Lietuvai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

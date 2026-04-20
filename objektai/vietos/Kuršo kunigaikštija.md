@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Kuršo kunigaikštija
 
 ## Santrauka
-Šaltinyje vieta „Kuršo kunigaikštija“ siejama su šiuo kontekstu: Minima kaip viena iš žemių, kurių statusas Liublino unijos derybose buvo sulygintas abiem valstybėms. (t-001)
+Minima kaip viena iš žemių, kurių statusas Liublino unijos derybose buvo sulygintas abiem valstybėms. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Kuršo kunigaikštija
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Kuršo kunigaikštija“ siejama su šiuo kontekstu: Minima kaip viena iš žemių, kurių statusas Liublino unijos derybose buvo sulygintas abiem valstybėms."
+  teiginys: "Minima kaip viena iš žemių, kurių statusas Liublino unijos derybose buvo sulygintas abiem valstybėms."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Šaltyšis
 
 ## Santrauka
-Šaltinyje „Šaltyšis“ vartojama taip: kaimo renkamas savivaldybės pareigūnas. (t-001)
+kaimo renkamas savivaldybės pareigūnas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Šaltyšis
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: kaimo savivalda. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Šaltyšis“ vartojama taip: kaimo renkamas savivaldybės pareigūnas."
+  teiginys: "kaimo renkamas savivaldybės pareigūnas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

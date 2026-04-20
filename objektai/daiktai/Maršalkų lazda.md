@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Maršalkų lazda
 
 ## Santrauka
-Šaltinyje „Maršalkų lazda“ lazda minima kaip maršalkų valdžios ženklas ir jų pareigų simbolis.
+lazda minima kaip maršalkų valdžios ženklas ir jų pareigų simbolis.
 
 ## Pavadinimai šaltiniuose
 - valdžios ženklas
@@ -44,11 +44,10 @@ patikimumas: "aukstas"
 - date_end:
 
 ## Kas tai
-Šaltinyje „Maršalkų lazda“ lazda minima kaip maršalkų valdžios ženklas ir jų pareigų simbolis.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Maršalkų lazda“ lazda minima kaip maršalkų valdžios ženklas ir jų pareigų simbolis."
+  teiginys: "lazda minima kaip maršalkų valdžios ženklas ir jų pareigų simbolis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

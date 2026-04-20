@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Kristupas Pacas
 
 ## Santrauka
-Šaltinyje Kristupas Pacas apibūdinamas taip: Minimas kaip Pacų šeimos kancleris ir Pažaislio vienuolyno statytojas.
+Minimas kaip Pacų šeimos kancleris ir Pažaislio vienuolyno statytojas.
 
 ## Variantai
 - Kristupo Paco
@@ -46,7 +46,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Kristupas Pacas apibūdinamas taip: Minimas kaip Pacų šeimos kancleris ir Pažaislio vienuolyno statytojas."
+  teiginys: "Minimas kaip Pacų šeimos kancleris ir Pažaislio vienuolyno statytojas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

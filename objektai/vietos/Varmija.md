@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Varmija
 
 ## Santrauka
-Šaltinyje vieta „Varmija“ siejama su šiais kontekstais: Minima per Varmijos vyskupo St. Hozijaus kvietimą jėzuitams į Lenkiją; Minima kaip Prūsijai tekusi teritorija kartu su Lenkijos Pavysliu. (t-001, t-002)
+Minima per Varmijos vyskupo St. Hozijaus kvietimą jėzuitams į Lenkiją; Minima kaip Prūsijai tekusi teritorija kartu su Lenkijos Pavysliu. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Varmija
@@ -52,13 +52,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Varmija“ siejama su šiuo kontekstu: Minima per Varmijos vyskupo St. Hozijaus kvietimą jėzuitams į Lenkiją."
+  teiginys: "Minima per Varmijos vyskupo St. Hozijaus kvietimą jėzuitams į Lenkiją."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Varmija“ siejama su šiuo kontekstu: Minima kaip Prūsijai tekusi teritorija kartu su Lenkijos Pavysliu."
+  teiginys: "Minima kaip Prūsijai tekusi teritorija kartu su Lenkijos Pavysliu."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

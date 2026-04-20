@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Vilsonas
 
 ## Santrauka
-Šaltinyje Vilsonas apibūdinamas taip: Minimas kaip Jungtinių Amerikos Valstybių prezidentas, į kurį buvo kreiptasi pagalbos.
+Minimas kaip Jungtinių Amerikos Valstybių prezidentas, į kurį buvo kreiptasi pagalbos.
 
 ## Variantai
 - Vilsoną
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Vilsonas apibūdinamas taip: Minimas kaip Jungtinių Amerikos Valstybių prezidentas, į kurį buvo kreiptasi pagalbos."
+  teiginys: "Minimas kaip Jungtinių Amerikos Valstybių prezidentas, į kurį buvo kreiptasi pagalbos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

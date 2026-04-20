@@ -40,7 +40,7 @@ patikimumas: "aukstas"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Draugija“ tai pirmasis lietuviškas mokslo žurnalas, susietas su Kauno spaudos gyvenimu.
+tai pirmasis lietuviškas mokslo žurnalas, susietas su Kauno spaudos gyvenimu.
 
 ## Ryšiai
 
@@ -49,7 +49,7 @@ patikimumas: "aukstas"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Draugija“ tai pirmasis lietuviškas mokslo žurnalas, susietas su Kauno spaudos gyvenimu."
+  teiginys: "tai pirmasis lietuviškas mokslo žurnalas, susietas su Kauno spaudos gyvenimu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

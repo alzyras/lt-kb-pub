@@ -37,7 +37,7 @@ patikimumas: "vidutinis"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Niekad, niekados“ tai bajorijos atsakomoji brošiūra į A. Jakšto „Lietuvių Balsą".
+tai bajorijos atsakomoji brošiūra į A. Jakšto „Lietuvių Balsą".
 
 ## Ryšiai
 
@@ -46,7 +46,7 @@ patikimumas: "vidutinis"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Niekad, niekados“ tai bajorijos atsakomoji brošiūra į A. Jakšto „Lietuvių Balsą\"."
+  teiginys: "tai bajorijos atsakomoji brošiūra į A. Jakšto „Lietuvių Balsą\"."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Dobrinės ordinas
 
 ## Santrauka
-Šaltinyje „Dobrinės ordinas“ vartojama taip: Mažas riterių ordinas, įkurtas ginant krikščionių bendruomenes Prūsuose. (t-001)
+Mažas riterių ordinas, įkurtas ginant krikščionių bendruomenes Prūsuose. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Dobrinės ordinas
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: ordino istorija, kryžiaus žyg
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Dobrinės ordinas“ vartojama taip: Mažas riterių ordinas, įkurtas ginant krikščionių bendruomenes Prūsuose."
+  teiginys: "Mažas riterių ordinas, įkurtas ginant krikščionių bendruomenes Prūsuose."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

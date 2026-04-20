@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Olivos cistersų ordinas
 
 ## Santrauka
-Šaltinyje „Olivos cistersų ordinas“ apibūdinama kaip ordinas; kristijonas įvardijamas kaip šio ordino vienuolis, todėl ordinas čia tampa jo religinės priklausomybės identifikatoriumi. (t-001)
+ordinas; kristijonas įvardijamas kaip šio ordino vienuolis, todėl ordinas čia tampa jo religinės priklausomybės identifikatoriumi. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Olivos cistersų ordinas
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: ordinas
-Šaltinyje „Olivos cistersų ordinas“ apibūdinama kaip ordinas; kristijonas įvardijamas kaip šio ordino vienuolis, todėl ordinas čia tampa jo religinės priklausomybės identifikatoriumi. (t-001)
+ordinas; kristijonas įvardijamas kaip šio ordino vienuolis, todėl ordinas čia tampa jo religinės priklausomybės identifikatoriumi. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Olivos cistersų ordinas“ apibūdinama kaip ordinas; kristijonas įvardijamas kaip šio ordino vienuolis, todėl ordinas čia tampa jo religinės priklausomybės identifikatoriumi. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Olivos cistersų ordinas“ apibūdinama kaip ordinas; kristijonas įvardijamas kaip šio ordino vienuolis, todėl ordinas čia tampa jo religinės priklausomybės identifikatoriumi."
+  teiginys: "ordinas; kristijonas įvardijamas kaip šio ordino vienuolis, todėl ordinas čia tampa jo religinės priklausomybės identifikatoriumi."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

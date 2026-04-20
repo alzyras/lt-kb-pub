@@ -36,7 +36,7 @@ patikimumas: "aukstas"
 # Unitai
 
 ## Santrauka
-Šaltinyje „Unitai“ vartojama taip: Unijos šalininkai, priešpriešinami pravoslavams. (t-001)
+Unijos šalininkai, priešpriešinami pravoslavams. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Unitai
@@ -59,7 +59,7 @@ Terminas šaltinyje vartojamas šiame kontekste: bažnytinė istorija, konfesini
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Unitai“ vartojama taip: Unijos šalininkai, priešpriešinami pravoslavams."
+  teiginys: "Unijos šalininkai, priešpriešinami pravoslavams."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

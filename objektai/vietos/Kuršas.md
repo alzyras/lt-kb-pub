@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Kuršas
 
 ## Santrauka
-Šaltinyje vieta „Kuršas“ siejama su šiuo kontekstu: Minimas kaip žemaičių ir ordino kovų erdvė prie Durbės mūšio. (t-001)
+Minimas kaip žemaičių ir ordino kovų erdvė prie Durbės mūšio. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Kuršas
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Kuršas“ siejama su šiuo kontekstu: Minimas kaip žemaičių ir ordino kovų erdvė prie Durbės mūšio."
+  teiginys: "Minimas kaip žemaičių ir ordino kovų erdvė prie Durbės mūšio."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Ekscesai
 
 ## Santrauka
-Šaltinyje „Ekscesai“ vartojama taip: Išsišokimai, pernelyg aštrūs arba smurtiniai veiksmai. (t-001)
+Išsišokimai, pernelyg aštrūs arba smurtiniai veiksmai. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Ekscesai
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: politiniai neramumai, viešoji 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Ekscesai“ vartojama taip: Išsišokimai, pernelyg aštrūs arba smurtiniai veiksmai."
+  teiginys: "Išsišokimai, pernelyg aštrūs arba smurtiniai veiksmai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

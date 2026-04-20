@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Napiersky
 
 ## Santrauka
-Šaltinyje Napiersky minimas kaip sudarytojas; šis vaidmuo siejamas su: Index I.
+Index I.
 
 ## Darbai
 - Index I. (t-001)
@@ -37,7 +37,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Napiersky minimas kaip sudarytojas, siejamas su: Index I."
+  teiginys: "Index I."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

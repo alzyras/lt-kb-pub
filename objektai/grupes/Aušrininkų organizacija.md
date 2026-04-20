@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Aušrininkų organizacija
 
 ## Santrauka
-Šaltinyje „Aušrininkų organizacija“ apibūdinama kaip moksleivių organizacija; socialistiškosios pakraipos moksleivių organizacija, atsiradusi iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę“. (t-001)
+moksleivių organizacija; socialistiškosios pakraipos moksleivių organizacija, atsiradusi iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę“. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Aušrininkų organizacija
@@ -36,14 +36,14 @@ patikimumas: "vidutinis"
 
 ## Kas tai
 - tipas: moksleivių organizacija
-Šaltinyje „Aušrininkų organizacija“ apibūdinama kaip moksleivių organizacija; socialistiškosios pakraipos moksleivių organizacija, atsiradusi iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę“. (t-001)
+moksleivių organizacija; socialistiškosios pakraipos moksleivių organizacija, atsiradusi iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę“. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Aušrininkų organizacija“ apibūdinama kaip moksleivių organizacija; socialistiškosios pakraipos moksleivių organizacija, atsiradusi iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę“. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Aušrininkų organizacija“ apibūdinama kaip moksleivių organizacija; socialistiškosios pakraipos moksleivių organizacija, atsiradusi iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę“."
+  teiginys: "moksleivių organizacija; socialistiškosios pakraipos moksleivių organizacija, atsiradusi iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę“."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

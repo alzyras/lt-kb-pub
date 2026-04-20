@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Punskas
 
 ## Santrauka
-Šaltinyje vieta „Punskas“ siejama su šiuo kontekstu: Minimas kartu su kitomis lenkų užimtomis vietomis. (t-001)
+Minimas kartu su kitomis lenkų užimtomis vietomis. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Punskas
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Punskas“ siejama su šiuo kontekstu: Minimas kartu su kitomis lenkų užimtomis vietomis."
+  teiginys: "Minimas kartu su kitomis lenkų užimtomis vietomis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

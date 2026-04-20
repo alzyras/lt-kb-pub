@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Vilniaus vyskupystė
 
 ## Santrauka
-Šaltinyje „Vilniaus vyskupystė“ vartojama taip: Vilniaus katalikų vyskupija, bažnytinės administracijos vienetas. (t-001)
+Vilniaus katalikų vyskupija, bažnytinės administracijos vienetas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Vilniaus vyskupystė
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: bažnytinė organizacija, Lietu
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Vilniaus vyskupystė“ vartojama taip: Vilniaus katalikų vyskupija, bažnytinės administracijos vienetas."
+  teiginys: "Vilniaus katalikų vyskupija, bažnytinės administracijos vienetas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 # Kalykla
 
 ## Santrauka
-Šaltinyje „Kalykla“ vartojama taip: monetų kaldinimo įstaiga. (t-001)
+monetų kaldinimo įstaiga. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Kalykla
@@ -56,7 +56,7 @@ Terminas šaltinyje vartojamas šiame kontekste: numizmatika, pinigų gamyba. (t
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kalykla“ vartojama taip: monetų kaldinimo įstaiga."
+  teiginys: "monetų kaldinimo įstaiga."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

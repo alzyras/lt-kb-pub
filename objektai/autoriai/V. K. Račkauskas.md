@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # V. K. Račkauskas
 
 ## Santrauka
-Šaltinyje V. K. Račkauskas minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip lietuvių susivienijimo Amerikoje istorijos autorius.
+Minimas kaip lietuvių susivienijimo Amerikoje istorijos autorius.
 
 ## Darbai
 - Minimas kaip lietuvių susivienijimo Amerikoje istorijos autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje V. K. Račkauskas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip lietuvių susivienijimo Amerikoje istorijos autorius."
+  teiginys: "Minimas kaip lietuvių susivienijimo Amerikoje istorijos autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

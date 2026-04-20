@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Sidabrinė
 
 ## Santrauka
-Šaltinyje „Sidabrinė“ vartojama taip: Piniginis mokestis. (t-001)
+Piniginis mokestis. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Sidabrinė
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: mokesčių istorija, socialinė
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Sidabrinė“ vartojama taip: Piniginis mokestis."
+  teiginys: "Piniginis mokestis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

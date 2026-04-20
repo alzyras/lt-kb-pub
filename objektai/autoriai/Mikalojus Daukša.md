@@ -33,7 +33,7 @@ patikimumas: "vidutinis"
 # Mikalojus Daukša
 
 ## Santrauka
-Šaltinyje Mikalojus Daukša minimas kaip vertėjas; šis vaidmuo siejamas su: katekizmo vertimas; postilės vertimas.
+katekizmo vertimas; postilės vertimas.
 
 ## Laikotarpis ir datos
 - 1595 m.
@@ -47,7 +47,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Mikalojus Daukša minimas kaip vertėjas, siejamas su: katekizmo vertimas; postilės vertimas."
+  teiginys: "katekizmo vertimas; postilės vertimas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

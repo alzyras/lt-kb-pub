@@ -26,14 +26,13 @@ patikimumas: "vidutinis"
 # Žemės perleidimas su kunigaikščio sutikimu
 
 ## Santrauka
-Šaltinyje minima praktika „Žemės perleidimas su kunigaikščio sutikimu“ siejama su formuluote: perleisdami žemę kitiems, turėdavo gauti kunigaikščio sutikimą. Šaltinio kontekste nurodoma: kas atlieka: bajorai / žemės savininkai; kada atliekama: perleidžiant, parduodant, dovanojant ar perleidžiant vedybų keliu. (t-001)
+perleisdami žemę kitiems, turėdavo gauti kunigaikščio sutikimą. Šaltinio kontekste nurodoma: kas atlieka: bajorai / žemės savininkai; kada atliekama: perleidžiant, parduodant, dovanojant ar perleidžiant vedybų keliu. (t-001)
 
 ## Pavadinimai šaltiniuose
 - perleisdami žemę kitiems, turėdavo gauti kunigaikščio sutikimą
 
 ## Kas tai
-Šaltinyje minima praktika „Žemės perleidimas su kunigaikščio sutikimu“ siejama su formuluote: perleisdami žemę kitiems, turėdavo gauti kunigaikščio sutikimą. Šaltinio kontekste nurodoma: kas atlieka: bajorai / žemės savininkai; kada atliekama: perleidžiant, parduodant, dovanojant ar perleidžiant vedybų keliu. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: bajorai / žemės savininkai (t-001)
 - kada atliekama: perleidžiant, parduodant, dovanojant ar perleidžiant vedybų keliu (t-001)
@@ -41,7 +40,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Žemės perleidimas su kunigaikščio sutikimu“ siejama su formuluote: perleisdami žemę kitiems, turėdavo gauti kunigaikščio sutikimą. Šaltinio kontekste nurodoma: kas atlieka: bajorai / žemės savininkai; kada atliekama: perleidžiant, parduodant, dovanojant ar perleidžiant vedybų keliu."
+  teiginys: "perleisdami žemę kitiems, turėdavo gauti kunigaikščio sutikimą. Šaltinio kontekste nurodoma: kas atlieka: bajorai / žemės savininkai; kada atliekama: perleidžiant, parduodant, dovanojant ar perleidžiant vedybų keliu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

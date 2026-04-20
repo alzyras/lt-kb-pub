@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Pašiaušė
 
 ## Santrauka
-Šaltinyje vieta „Pašiaušė“ siejama su šiuo kontekstu: Minima kaip bajoro Beinarto fundacijos vieta. (t-001)
+Minima kaip bajoro Beinarto fundacijos vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Pašiaušė
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Pašiaušė“ siejama su šiuo kontekstu: Minima kaip bajoro Beinarto fundacijos vieta."
+  teiginys: "Minima kaip bajoro Beinarto fundacijos vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

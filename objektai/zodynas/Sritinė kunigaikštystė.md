@@ -32,7 +32,7 @@ patikimumas: "aukstas"
 # Sritinė kunigaikštystė
 
 ## Santrauka
-Šaltinyje „Sritinė kunigaikštystė“ vartojama taip: Valdymo sistema, paremta atskiromis kunigaikštystėmis ir jų valdovais; Vietinė paveldima kunigaikštystė valstybės viduje. (t-001)
+Valdymo sistema, paremta atskiromis kunigaikštystėmis ir jų valdovais; Vietinė paveldima kunigaikštystė valstybės viduje. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Sritinė kunigaikštystė
@@ -56,7 +56,7 @@ Terminas šaltinyje vartojamas šiame kontekste: politinė istorija, viduramži�
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Sritinė kunigaikštystė“ vartojama taip: Valdymo sistema, paremta atskiromis kunigaikštystėmis ir jų valdovais; Vietinė paveldima kunigaikštystė valstybės viduje."
+  teiginys: "Valdymo sistema, paremta atskiromis kunigaikštystėmis ir jų valdovais; Vietinė paveldima kunigaikštystė valstybės viduje."
   pagrindžia:
     - c-001
     - c-002

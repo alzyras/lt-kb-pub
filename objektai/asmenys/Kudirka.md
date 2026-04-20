@@ -23,11 +23,11 @@ patikimumas: "vidutinis"
 # Kudirka
 
 ## Santrauka
-Šaltinyje Kudirka apibūdinamas taip: Minimas kaip asmuo, į himną įrašęs eilutę apie praeities stiprybę.
+Minimas kaip asmuo, į himną įrašęs eilutę apie praeities stiprybę.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Kudirka apibūdinamas taip: Minimas kaip asmuo, į himną įrašęs eilutę apie praeities stiprybę."
+  teiginys: "Minimas kaip asmuo, į himną įrašęs eilutę apie praeities stiprybę."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

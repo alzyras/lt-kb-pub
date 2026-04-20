@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 
 ## Santrauka
 
-Šaltinyje cituojamas Zigmanto II laiškas, kuriame nurodoma, kaip skirtieji komisarai turi ištirti ir kartu su Livonijos atstovais išvesti Lietuvos Livonijos sieną. (t-001)
+cituojamas Zigmanto II laiškas, kuriame nurodoma, kaip skirtieji komisarai turi ištirti ir kartu su Livonijos atstovais išvesti Lietuvos Livonijos sieną. (t-001)
 
 ## Laikotarpis ir datos
 
@@ -38,7 +38,7 @@ patikimumas: "aukstas"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje cituojamas Zigmanto II laiškas, kuriame nurodoma, kaip skirtieji komisarai turi ištirti ir kartu su Livonijos atstovais išvesti Lietuvos Livonijos sieną."
+  teiginys: "cituojamas Zigmanto II laiškas, kuriame nurodoma, kaip skirtieji komisarai turi ištirti ir kartu su Livonijos atstovais išvesti Lietuvos Livonijos sieną."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

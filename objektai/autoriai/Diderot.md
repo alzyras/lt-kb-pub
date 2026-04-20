@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Diderot
 
 ## Santrauka
-Šaltinyje Diderot minimas autorystės, redagavimo arba tyrimo kontekste: Minimas tarp švietimo epochos autorių ir kaip enciklopedijos organizatorius.
+Minimas tarp švietimo epochos autorių ir kaip enciklopedijos organizatorius.
 
 ## Darbai
 - Minimas tarp švietimo epochos autorių ir kaip enciklopedijos organizatorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Diderot autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas tarp švietimo epochos autorių ir kaip enciklopedijos organizatorius."
+  teiginys: "Minimas tarp švietimo epochos autorių ir kaip enciklopedijos organizatorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

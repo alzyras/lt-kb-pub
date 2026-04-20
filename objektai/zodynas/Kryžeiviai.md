@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Kryžeiviai
 
 ## Santrauka
-Šaltinyje „Kryžeiviai“ vartojama taip: Kryžiaus žygio kariai ar talkininkai, atvykę iš Vakarų. (t-001)
+Kryžiaus žygio kariai ar talkininkai, atvykę iš Vakarų. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Kryžeiviai
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: kryžiaus žygiai, viduramžių
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kryžeiviai“ vartojama taip: Kryžiaus žygio kariai ar talkininkai, atvykę iš Vakarų."
+  teiginys: "Kryžiaus žygio kariai ar talkininkai, atvykę iš Vakarų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

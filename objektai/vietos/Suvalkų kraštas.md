@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Suvalkų kraštas
 
 ## Santrauka
-Šaltinyje vieta „Suvalkų kraštas“ siejama su šiuo kontekstu: Minimas kaip girios kraštas prie Nemuno. (t-001)
+Minimas kaip girios kraštas prie Nemuno. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Suvalkų kraštas
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Suvalkų kraštas“ siejama su šiuo kontekstu: Minimas kaip girios kraštas prie Nemuno."
+  teiginys: "Minimas kaip girios kraštas prie Nemuno."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

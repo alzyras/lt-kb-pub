@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Praha
 
 ## Santrauka
-Šaltinyje vieta „Praha“ siejama su šiuo kontekstu: Minima kaip arkivyskupo Ernesto vadovaujamos delegacijos kilmės vieta. (t-001)
+Minima kaip arkivyskupo Ernesto vadovaujamos delegacijos kilmės vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Praha
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Praha“ siejama su šiuo kontekstu: Minima kaip arkivyskupo Ernesto vadovaujamos delegacijos kilmės vieta."
+  teiginys: "Minima kaip arkivyskupo Ernesto vadovaujamos delegacijos kilmės vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

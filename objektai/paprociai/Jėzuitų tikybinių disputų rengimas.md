@@ -26,14 +26,13 @@ patikimumas: "vidutinis"
 # Jėzuitų tikybinių disputų rengimas
 
 ## Santrauka
-Šaltinyje minima praktika „Jėzuitų tikybinių disputų rengimas“ siejama su formuluote: Jie ruošdavo tikybinius disputus. Šaltinio kontekste nurodoma: kas atlieka: jėzuitai; kada atliekama: kai protestantai pradėjo vengti disputų. (t-001)
+Jie ruošdavo tikybinius disputus. Šaltinio kontekste nurodoma: kas atlieka: jėzuitai; kada atliekama: kai protestantai pradėjo vengti disputų. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Jie ruošdavo tikybinius disputus
 
 ## Kas tai
-Šaltinyje minima praktika „Jėzuitų tikybinių disputų rengimas“ siejama su formuluote: Jie ruošdavo tikybinius disputus. Šaltinio kontekste nurodoma: kas atlieka: jėzuitai; kada atliekama: kai protestantai pradėjo vengti disputų. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: jėzuitai (t-001)
 - kada atliekama: kai protestantai pradėjo vengti disputų (t-001)
@@ -41,7 +40,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Jėzuitų tikybinių disputų rengimas“ siejama su formuluote: Jie ruošdavo tikybinius disputus. Šaltinio kontekste nurodoma: kas atlieka: jėzuitai; kada atliekama: kai protestantai pradėjo vengti disputų."
+  teiginys: "Jie ruošdavo tikybinius disputus. Šaltinio kontekste nurodoma: kas atlieka: jėzuitai; kada atliekama: kai protestantai pradėjo vengti disputų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

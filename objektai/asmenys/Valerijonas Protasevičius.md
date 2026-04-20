@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Valerijonas Protasevičius
 
 ## Santrauka
-Šaltinyje Valerijonas Protasevičius apibūdinamas taip: Lucko, vėliau Vilniaus vyskupas, kuris 1569 m. parsigabeno jėzuitus į Lietuvą.
+Lucko, vėliau Vilniaus vyskupas, kuris 1569 m. parsigabeno jėzuitus į Lietuvą.
 
 ## Variantai
 - Protasevičius
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Valerijonas Protasevičius apibūdinamas taip: Lucko, vėliau Vilniaus vyskupas, kuris 1569 m. parsigabeno jėzuitus į Lietuvą."
+  teiginys: "Lucko, vėliau Vilniaus vyskupas, kuris 1569 m. parsigabeno jėzuitus į Lietuvą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

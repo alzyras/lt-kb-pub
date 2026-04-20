@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Austrija-Vengrija
 
 ## Santrauka
-Šaltinyje vieta „Austrija-Vengrija“ siejama su šiuo kontekstu: Minima kartu su Vokietija, paskelbiant atstatomą Lenkijos valstybę. (t-001)
+Minima kartu su Vokietija, paskelbiant atstatomą Lenkijos valstybę. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Austrija-Vengrija
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Austrija-Vengrija“ siejama su šiuo kontekstu: Minima kartu su Vokietija, paskelbiant atstatomą Lenkijos valstybę."
+  teiginys: "Minima kartu su Vokietija, paskelbiant atstatomą Lenkijos valstybę."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

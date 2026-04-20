@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Kuopelė
 
 ## Santrauka
-Šaltinyje „Kuopelė“ vartojama taip: Maža neoficiali grupelė, būrelis arba slaptas sambūris. (t-001)
+Maža neoficiali grupelė, būrelis arba slaptas sambūris. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Kuopelė
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: moksleivių judėjimas, slaptos
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kuopelė“ vartojama taip: Maža neoficiali grupelė, būrelis arba slaptas sambūris."
+  teiginys: "Maža neoficiali grupelė, būrelis arba slaptas sambūris."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # Lempickis
 
 ## Santrauka
-Šaltinyje Lempickis apibūdinamas taip: Minimas kaip Smolensko klebonas, kurio fundacija siejama su jėzuitų kolegija.
+Minimas kaip Smolensko klebonas, kurio fundacija siejama su jėzuitų kolegija.
 
 ## Variantai
 - Lempickio
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Lempickis apibūdinamas taip: Minimas kaip Smolensko klebonas, kurio fundacija siejama su jėzuitų kolegija."
+  teiginys: "Minimas kaip Smolensko klebonas, kurio fundacija siejama su jėzuitų kolegija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

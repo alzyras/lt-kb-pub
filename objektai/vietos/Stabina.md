@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Stabina
 
 ## Santrauka
-Šaltinyje vieta „Stabina“ siejama su šiuo kontekstu: Minima kaip demarkacijos linijos taškas. (t-001)
+Minima kaip demarkacijos linijos taškas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Stabina
@@ -47,7 +47,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Stabina“ siejama su šiuo kontekstu: Minima kaip demarkacijos linijos taškas."
+  teiginys: "Minima kaip demarkacijos linijos taškas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

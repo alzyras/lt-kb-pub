@@ -38,7 +38,7 @@ patikimumas: "aukstas"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Suvalkų sutartis“ tai 1920 m. spalio 7 d. pasirašyta Suvalkų sutartis, kuria buvo nustatyta demarkacijos linija ir sustabdytos kovos tarp Lietuvos ir Lenkijos kariuomenių.
+tai 1920 m. spalio 7 d. pasirašyta Suvalkų sutartis, kuria buvo nustatyta demarkacijos linija ir sustabdytos kovos tarp Lietuvos ir Lenkijos kariuomenių.
 
 ## Ryšiai
 
@@ -47,13 +47,13 @@ patikimumas: "aukstas"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Suvalkų sutartis“ tai 1920 m. spalio 7 d. pasirašyta Suvalkų sutartis, kuria buvo nustatyta demarkacijos linija ir sustabdytos kovos tarp Lietuvos ir Lenkijos kariuomenių."
+  teiginys: "tai 1920 m. spalio 7 d. pasirašyta Suvalkų sutartis, kuria buvo nustatyta demarkacijos linija ir sustabdytos kovos tarp Lietuvos ir Lenkijos kariuomenių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Suvalkų sutartis“ siejamas su šiuo kontekstu: Kandidato citata iš sujungto kandidatų failo."
+  teiginys: "Kandidato citata iš sujungto kandidatų failo."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

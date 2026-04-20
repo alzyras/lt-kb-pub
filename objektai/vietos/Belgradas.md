@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Belgradas
 
 ## Santrauka
-Šaltinyje vieta „Belgradas“ siejama su šiuo kontekstu: Minimas kartu su Kilija kaip Dunojaus ir Dniestro žiočių sričių dalis. (t-001)
+Minimas kartu su Kilija kaip Dunojaus ir Dniestro žiočių sričių dalis. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Belgradas
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Belgradas“ siejama su šiuo kontekstu: Minimas kartu su Kilija kaip Dunojaus ir Dniestro žiočių sričių dalis."
+  teiginys: "Minimas kartu su Kilija kaip Dunojaus ir Dniestro žiočių sričių dalis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

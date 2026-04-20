@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Aukštaičiai
 
 ## Santrauka
-Šaltinyje „Aukštaičiai“ apibūdinama kaip kiltis; aukštaičiai įvardijami kaip tiesiogiai Gedimino valdoma kiltis ir kaip Lietuvos valstybės branduolys. (t-001) Šaltinyje „Aukštaičiai“ siejama su šiuo kontekstu: Aukštaičiai įvardijami kaip tiesiogiai Gedimino valdoma kiltis ir kaip Lietuvos valstybės branduolys. (t-002)
+kiltis; aukštaičiai įvardijami kaip tiesiogiai Gedimino valdoma kiltis ir kaip Lietuvos valstybės branduolys. (t-001) Šaltinyje „Aukštaičiai“ siejama su šiuo kontekstu: Aukštaičiai įvardijami kaip tiesiogiai Gedimino valdoma kiltis ir kaip Lietuvos valstybės branduolys. (t-002)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Aukštaičiai
@@ -38,7 +38,7 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: kiltis
-Šaltinyje „Aukštaičiai“ apibūdinama kaip kiltis; aukštaičiai įvardijami kaip tiesiogiai Gedimino valdoma kiltis ir kaip Lietuvos valstybės branduolys. (t-001)
+kiltis; aukštaičiai įvardijami kaip tiesiogiai Gedimino valdoma kiltis ir kaip Lietuvos valstybės branduolys. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Aukštaičiai“ apibūdinama kaip kiltis; aukštaičiai įvardijami kaip tiesiogiai Gedimino valdoma kiltis ir kaip Lietuvos valstybės branduolys. (t-001)
@@ -46,13 +46,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Aukštaičiai“ apibūdinama kaip kiltis; aukštaičiai įvardijami kaip tiesiogiai Gedimino valdoma kiltis ir kaip Lietuvos valstybės branduolys."
+  teiginys: "kiltis; aukštaičiai įvardijami kaip tiesiogiai Gedimino valdoma kiltis ir kaip Lietuvos valstybės branduolys."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Aukštaičiai“ siejama su šiuo kontekstu: Aukštaičiai įvardijami kaip tiesiogiai Gedimino valdoma kiltis ir kaip Lietuvos valstybės branduolys."
+  teiginys: "Aukštaičiai įvardijami kaip tiesiogiai Gedimino valdoma kiltis ir kaip Lietuvos valstybės branduolys."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Iždininkas
 
 ## Santrauka
-Šaltinyje „Iždininkas“ vartojama taip: Finansų pareigūnas, tvarkantis valstybės pajamas ir išlaidas. (t-001)
+Finansų pareigūnas, tvarkantis valstybės pajamas ir išlaidas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Iždininkas
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: valstybės administracija, fina
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Iždininkas“ vartojama taip: Finansų pareigūnas, tvarkantis valstybės pajamas ir išlaidas."
+  teiginys: "Finansų pareigūnas, tvarkantis valstybės pajamas ir išlaidas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

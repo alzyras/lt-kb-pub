@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Kapelionas
 
 ## Santrauka
-Šaltinyje „Kapelionas“ vartojama taip: Dvaro arba valdovo dvasininkas, patarėjas ir išpažinties klausytojas. (t-001)
+Dvaro arba valdovo dvasininkas, patarėjas ir išpažinties klausytojas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Kapelionas
@@ -52,7 +52,7 @@ Terminas šaltinyje vartojamas šiame kontekste: bažnytinė pareigybė, dvaro g
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kapelionas“ vartojama taip: Dvaro arba valdovo dvasininkas, patarėjas ir išpažinties klausytojas."
+  teiginys: "Dvaro arba valdovo dvasininkas, patarėjas ir išpažinties klausytojas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

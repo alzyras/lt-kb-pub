@@ -39,7 +39,7 @@ patikimumas: "vidutinis"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Lietuviškas atsišaukimas“ siejamas su šiuo kontekstu: Šaltinyje tai pateikiama ir kaip sukilimo metu skleidžiamų atsišaukimų grupė, ir kaip atskiros iliustracijos antraštė.
+tai pateikiama ir kaip sukilimo metu skleidžiamų atsišaukimų grupė, ir kaip atskiros iliustracijos antraštė.
 
 ## Ryšiai
 
@@ -48,7 +48,7 @@ patikimumas: "vidutinis"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Lietuviškas atsišaukimas“ siejamas su šiuo kontekstu: Šaltinyje tai pateikiama ir kaip sukilimo metu skleidžiamų atsišaukimų grupė, ir kaip atskiros iliustracijos antraštė."
+  teiginys: "tai pateikiama ir kaip sukilimo metu skleidžiamų atsišaukimų grupė, ir kaip atskiros iliustracijos antraštė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

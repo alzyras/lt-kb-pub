@@ -31,7 +31,7 @@ patikimumas: "vidutinis"
 # Kronikos
 
 ## Santrauka
-Šaltinyje „Kronikos“ vartojama taip: Istoriniai pasakojamieji raštai apie įvykius, dažnai saugomi bibliotekose ir archyvuose. (t-001)
+Istoriniai pasakojamieji raštai apie įvykius, dažnai saugomi bibliotekose ir archyvuose. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Kronikos
@@ -54,7 +54,7 @@ Terminas šaltinyje vartojamas šiame kontekste: istorijos raštija, rankrašči
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kronikos“ vartojama taip: Istoriniai pasakojamieji raštai apie įvykius, dažnai saugomi bibliotekose ir archyvuose."
+  teiginys: "Istoriniai pasakojamieji raštai apie įvykius, dažnai saugomi bibliotekose ir archyvuose."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

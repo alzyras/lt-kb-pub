@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # J. Wolff
 
 ## Santrauka
-Šaltinyje J. Wolff minimas kaip autorius; šis vaidmuo siejamas su: Ród Gediminą.
+Ród Gediminą.
 
 ## Laikotarpis ir datos
 - 1886 m.
@@ -41,7 +41,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje J. Wolff minimas kaip autorius, siejamas su: Ród Gediminą."
+  teiginys: "Ród Gediminą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

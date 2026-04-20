@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Lietuva kultūros ir šviesos ieškojo ne Rytuose, bet Vakaruose
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Lietuva kultūros ir šviesos ieškojo ne Rytuose, bet Vakaruose“; kontekstas: Autorius apibendrina ankstyvųjų Lietuvos kultūrinių ryšių kryptį ir priešpriešina Rytus Vakarams. Reikšmė: Trumpa, aforistinė formuluotė apie Lietuvos orientaciją į Vakarų kultūrą. (t-001)
+Užfiksuota formuluotė „Lietuva kultūros ir šviesos ieškojo ne Rytuose, bet Vakaruose“; kontekstas: Autorius apibendrina ankstyvųjų Lietuvos kultūrinių ryšių kryptį ir priešpriešina Rytus Vakarams. Reikšmė: Trumpa, aforistinė formuluotė apie Lietuvos orientaciją į Vakarų kultūrą. (t-001)
 
 ## Forma
 - pagrindinė forma: Lietuva kultūros ir šviesos ieškojo ne Rytuose, bet Vakaruose (t-001)
@@ -35,7 +35,7 @@ patikimumas: "vidutinis"
 - To meto Lietuva kultūros ir šviesos ieškojo ne Rytuose, bet Vakaruose.
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Autorius apibendrina ankstyvųjų Lietuvos kultūrinių ryšių kryptį ir priešpriešina Rytus Vakarams. (t-001)
@@ -45,7 +45,7 @@ Trumpa, aforistinė formuluotė apie Lietuvos orientaciją į Vakarų kultūrą.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Lietuva kultūros ir šviesos ieškojo ne Rytuose, bet Vakaruose“; kontekstas: Autorius apibendrina ankstyvųjų Lietuvos kultūrinių ryšių kryptį ir priešpriešina Rytus Vakarams."
+  teiginys: "Užfiksuota formuluotė „Lietuva kultūros ir šviesos ieškojo ne Rytuose, bet Vakaruose“; kontekstas: Autorius apibendrina ankstyvųjų Lietuvos kultūrinių ryšių kryptį ir priešpriešina Rytus Vakarams."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

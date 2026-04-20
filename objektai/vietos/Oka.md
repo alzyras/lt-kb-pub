@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Oka
 
 ## Santrauka
-Šaltinyje vieta „Oka“ siejama su šiuo kontekstu: Minimi Okos paupiai kaip Maskvai palikta teritorija. (t-001)
+Minimi Okos paupiai kaip Maskvai palikta teritorija. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Oka
@@ -47,7 +47,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Oka“ siejama su šiuo kontekstu: Minimi Okos paupiai kaip Maskvai palikta teritorija."
+  teiginys: "Minimi Okos paupiai kaip Maskvai palikta teritorija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

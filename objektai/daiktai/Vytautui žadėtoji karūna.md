@@ -32,7 +32,7 @@ patikimumas: "aukstas"
 # Vytautui žadėtoji karūna
 
 ## Santrauka
-Šaltinyje „Vytautui žadėtoji karūna“ siejamas su šiuo kontekstu: Ši karūna tekste yra konkretus valdovo karūnavimui skirtas daiktas, kurio Vytautas taip ir nesulaukė.
+Ši karūna tekste yra konkretus valdovo karūnavimui skirtas daiktas, kurio Vytautas taip ir nesulaukė.
 
 ## Pavadinimai šaltiniuose
 - žadėtosios karūnos
@@ -49,11 +49,10 @@ patikimumas: "aukstas"
 - date_end: 1430
 
 ## Kas tai
-Šaltinyje „Vytautui žadėtoji karūna“ siejamas su šiuo kontekstu: Ši karūna tekste yra konkretus valdovo karūnavimui skirtas daiktas, kurio Vytautas taip ir nesulaukė.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Vytautui žadėtoji karūna“ siejamas su šiuo kontekstu: Ši karūna tekste yra konkretus valdovo karūnavimui skirtas daiktas, kurio Vytautas taip ir nesulaukė."
+  teiginys: "Ši karūna tekste yra konkretus valdovo karūnavimui skirtas daiktas, kurio Vytautas taip ir nesulaukė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

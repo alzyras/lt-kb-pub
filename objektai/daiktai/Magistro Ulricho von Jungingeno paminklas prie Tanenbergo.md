@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Magistro Ulricho von Jungingeno paminklas prie Tanenbergo
 
 ## Santrauka
-Šaltinyje „Magistro Ulricho von Jungingeno paminklas prie Tanenbergo“ tai pavadintas memorialas, minimas kaip atskiras daiktas po Tanenbergo mūšio pasakojimo.
+tai pavadintas memorialas, minimas kaip atskiras daiktas po Tanenbergo mūšio pasakojimo.
 
 ## Pavadinimai šaltiniuose
 - Magistro Ulricho v. Jungingeno paminklas
@@ -42,11 +42,10 @@ patikimumas: "vidutinis"
 - date_end:
 
 ## Kas tai
-Šaltinyje „Magistro Ulricho von Jungingeno paminklas prie Tanenbergo“ tai pavadintas memorialas, minimas kaip atskiras daiktas po Tanenbergo mūšio pasakojimo.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Magistro Ulricho von Jungingeno paminklas prie Tanenbergo“ tai pavadintas memorialas, minimas kaip atskiras daiktas po Tanenbergo mūšio pasakojimo."
+  teiginys: "tai pavadintas memorialas, minimas kaip atskiras daiktas po Tanenbergo mūšio pasakojimo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

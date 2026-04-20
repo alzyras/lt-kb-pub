@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Vladislovas (Varnietis)
 
 ## Santrauka
-Šaltinyje Vladislovas (Varnietis) apibūdinamas taip: Jogailos sūnus, Lenkų ir Vengrų karalius, žuvęs prie Varnos.
+Jogailos sūnus, Lenkų ir Vengrų karalius, žuvęs prie Varnos.
 
 ## Variantai
 - Lenkų ir Vengrų karalius Vladislovas
@@ -48,7 +48,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Vladislovas (Varnietis) apibūdinamas taip: Jogailos sūnus, Lenkų ir Vengrų karalius, žuvęs prie Varnos."
+  teiginys: "Jogailos sūnus, Lenkų ir Vengrų karalius, žuvęs prie Varnos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

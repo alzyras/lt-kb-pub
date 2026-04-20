@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Aukso laisvė
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Aukso laisvė“; kontekstas: Turinio antraštėje frazė pateikta kaip skirsnio akcentas, o dėstomajame tekste vartojama kaip pagrindinių senosios santvarkos principų pavadinimas. Reikšmė: Istorinė politinė formulė, siejama su bajorijos laisvių principų gynimu. (t-001)
+Užfiksuota formuluotė „Aukso laisvė“; kontekstas: Turinio antraštėje frazė pateikta kaip skirsnio akcentas, o dėstomajame tekste vartojama kaip pagrindinių senosios santvarkos principų pavadinimas. Reikšmė: Istorinė politinė formulė, siejama su bajorijos laisvių principų gynimu. (t-001)
 
 ## Forma
 - pagrindinė forma: Aukso laisvė (t-001)
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 - aukso laisvės
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Turinio antraštėje frazė pateikta kaip skirsnio akcentas, o dėstomajame tekste vartojama kaip pagrindinių senosios santvarkos principų pavadinimas. (t-001)
@@ -48,7 +48,7 @@ Istorinė politinė formulė, siejama su bajorijos laisvių principų gynimu. (t
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Aukso laisvė“; kontekstas: Turinio antraštėje frazė pateikta kaip skirsnio akcentas, o dėstomajame tekste vartojama kaip pagrindinių senosios santvarkos principų pavadinimas."
+  teiginys: "Užfiksuota formuluotė „Aukso laisvė“; kontekstas: Turinio antraštėje frazė pateikta kaip skirsnio akcentas, o dėstomajame tekste vartojama kaip pagrindinių senosios santvarkos principų pavadinimas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Iena
 
 ## Santrauka
-Šaltinyje vieta „Iena“ siejama su šiuo kontekstu: Minima kaip laikraščio leidybos vieta, kur pasirodė straipsnis iš Gumbinės. (t-001)
+Minima kaip laikraščio leidybos vieta, kur pasirodė straipsnis iš Gumbinės. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Iena
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Iena“ siejama su šiuo kontekstu: Minima kaip laikraščio leidybos vieta, kur pasirodė straipsnis iš Gumbinės."
+  teiginys: "Minima kaip laikraščio leidybos vieta, kur pasirodė straipsnis iš Gumbinės."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

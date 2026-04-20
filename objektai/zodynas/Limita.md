@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Limita
 
 ## Santrauka
-Šaltinyje „Limita“ vartojama taip: Seimo darbų pertraukimas arba sustabdymas. (t-001)
+Seimo darbų pertraukimas arba sustabdymas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Limita
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: seimų procedūros, teisės ist
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Limita“ vartojama taip: Seimo darbų pertraukimas arba sustabdymas."
+  teiginys: "Seimo darbų pertraukimas arba sustabdymas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

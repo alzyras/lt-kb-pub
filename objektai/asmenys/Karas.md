@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # Karas
 
 ## Santrauka
-Šaltinyje Karas apibūdinamas taip: Minimas kaip prie K. Radvilos prikomandiruotas rusų pulkininkas, su kuriuo jis galėjo tartis.
+Minimas kaip prie K. Radvilos prikomandiruotas rusų pulkininkas, su kuriuo jis galėjo tartis.
 
 ## Variantai
 - rusų pulkininkas Karas
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Karas apibūdinamas taip: Minimas kaip prie K. Radvilos prikomandiruotas rusų pulkininkas, su kuriuo jis galėjo tartis."
+  teiginys: "Minimas kaip prie K. Radvilos prikomandiruotas rusų pulkininkas, su kuriuo jis galėjo tartis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

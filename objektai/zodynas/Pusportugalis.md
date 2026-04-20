@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Pusportugalis
 
 ## Santrauka
-Šaltinyje „Pusportugalis“ vartojama taip: pusės portugalų auksinis pinigas. (t-001)
+pusės portugalų auksinis pinigas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Pusportugalis
@@ -50,7 +50,7 @@ Terminas šaltinyje vartojamas šiame kontekste: numizmatika, pinigų istorija. 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Pusportugalis“ vartojama taip: pusės portugalų auksinis pinigas."
+  teiginys: "pusės portugalų auksinis pinigas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

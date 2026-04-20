@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Franckevičius
 
 ## Santrauka
-Šaltinyje Franckevičius apibūdinamas taip: Minimas kaip Vilniaus vyskupijos valdytojas, atsakęs Kalvių parapijos delegacijai.
+Minimas kaip Vilniaus vyskupijos valdytojas, atsakęs Kalvių parapijos delegacijai.
 
 ## Variantai
 - pralotas Franckevičius
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Franckevičius apibūdinamas taip: Minimas kaip Vilniaus vyskupijos valdytojas, atsakęs Kalvių parapijos delegacijai."
+  teiginys: "Minimas kaip Vilniaus vyskupijos valdytojas, atsakęs Kalvių parapijos delegacijai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

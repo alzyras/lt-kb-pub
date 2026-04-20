@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Mokytojų seminarija
 
 ## Santrauka
-Šaltinyje „Mokytojų seminarija“ vartojama taip: Mokytojų rengimo seminarija prie pradžios mokyklų sistemos. (t-001)
+Mokytojų rengimo seminarija prie pradžios mokyklų sistemos. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Mokytojų seminarija
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: švietimo istorija, mokytojų r
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Mokytojų seminarija“ vartojama taip: Mokytojų rengimo seminarija prie pradžios mokyklų sistemos."
+  teiginys: "Mokytojų rengimo seminarija prie pradžios mokyklų sistemos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

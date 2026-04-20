@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Žiemgala
 
 ## Santrauka
-Šaltinyje vieta „Žiemgala“ siejama su šiuo kontekstu: Minima kaip Gedimino ir ordino ginčijama sritis. (t-001)
+Minima kaip Gedimino ir ordino ginčijama sritis. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Žiemgala
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Žiemgala“ siejama su šiuo kontekstu: Minima kaip Gedimino ir ordino ginčijama sritis."
+  teiginys: "Minima kaip Gedimino ir ordino ginčijama sritis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

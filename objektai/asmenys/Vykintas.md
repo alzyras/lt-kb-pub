@@ -23,11 +23,11 @@ patikimumas: "aukstas"
 # Vykintas
 
 ## Santrauka
-Šaltinyje Vykintas apibūdinamas taip: Žemaičių kunigaikštis ir Mindaugo bendradarbis, vėliau įtrauktas į sąjungą prieš Mindaugą.
+Žemaičių kunigaikštis ir Mindaugo bendradarbis, vėliau įtrauktas į sąjungą prieš Mindaugą.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Vykintas apibūdinamas taip: Žemaičių kunigaikštis ir Mindaugo bendradarbis, vėliau įtrauktas į sąjungą prieš Mindaugą."
+  teiginys: "Žemaičių kunigaikštis ir Mindaugo bendradarbis, vėliau įtrauktas į sąjungą prieš Mindaugą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

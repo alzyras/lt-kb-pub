@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Žemaičiai visada buvo ir tebėra ta pati Lietuva
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Žemaičiai visada buvo ir tebėra ta pati Lietuva“; kontekstas: Vytautas laiške imperatoriui tvirtina Žemaičių ir Lietuvos tapatumą. Reikšmė: Trumpa, šūkiui artima politinė formuluotė apie vieną tautinę ir kraštinę tapatybę. (t-001)
+Užfiksuota formuluotė „Žemaičiai visada buvo ir tebėra ta pati Lietuva“; kontekstas: Vytautas laiške imperatoriui tvirtina Žemaičių ir Lietuvos tapatumą. Reikšmė: Trumpa, šūkiui artima politinė formuluotė apie vieną tautinę ir kraštinę tapatybę. (t-001)
 
 ## Forma
 - pagrindinė forma: Žemaičiai visada buvo ir tebėra ta pati Lietuva (t-001)
@@ -49,7 +49,7 @@ Trumpa, šūkiui artima politinė formuluotė apie vieną tautinę ir kraštinę
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Žemaičiai visada buvo ir tebėra ta pati Lietuva“; kontekstas: Vytautas laiške imperatoriui tvirtina Žemaičių ir Lietuvos tapatumą."
+  teiginys: "Užfiksuota formuluotė „Žemaičiai visada buvo ir tebėra ta pati Lietuva“; kontekstas: Vytautas laiške imperatoriui tvirtina Žemaičių ir Lietuvos tapatumą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

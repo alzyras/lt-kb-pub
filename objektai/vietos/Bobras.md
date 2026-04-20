@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Bobras
 
 ## Santrauka
-Šaltinyje vieta „Bobras“ siejama su šiuo kontekstu: Minima kaip rytinės sienos linijos pabaigos upė. (t-001)
+Minima kaip rytinės sienos linijos pabaigos upė. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Bobras
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Bobras“ siejama su šiuo kontekstu: Minima kaip rytinės sienos linijos pabaigos upė."
+  teiginys: "Minima kaip rytinės sienos linijos pabaigos upė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

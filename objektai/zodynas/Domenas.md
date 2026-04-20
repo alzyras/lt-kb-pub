@@ -30,7 +30,7 @@ patikimumas: "vidutinis"
 # Domenas
 
 ## Santrauka
-Šaltinyje „Domenas“ vartojama taip: Tiesiogiai valdovo valdoma dvaro žemė arba valda; Valdovo žemės valda arba domenas. (t-001)
+Tiesiogiai valdovo valdoma dvaro žemė arba valda; Valdovo žemės valda arba domenas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Domenas
@@ -54,7 +54,7 @@ Terminas šaltinyje vartojamas šiame kontekste: žemėvalda, feodalinė ūkio s
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Domenas“ vartojama taip: Tiesiogiai valdovo valdoma dvaro žemė arba valda; Valdovo žemės valda arba domenas."
+  teiginys: "Tiesiogiai valdovo valdoma dvaro žemė arba valda; Valdovo žemės valda arba domenas."
   pagrindžia:
     - c-001
     - c-002

@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # M. Yčas
 
 ## Santrauka
-Šaltinyje M. Yčas apibūdinamas taip: Minimas kaip II-osios Dūmos atstovas ir kadetų partijos narys.
+Minimas kaip II-osios Dūmos atstovas ir kadetų partijos narys.
 
 ## Variantai
 - M. Yčo
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje M. Yčas apibūdinamas taip: Minimas kaip II-osios Dūmos atstovas ir kadetų partijos narys."
+  teiginys: "Minimas kaip II-osios Dūmos atstovas ir kadetų partijos narys."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Divilinas
 
 ## Santrauka
-Šaltinyje vieta „Divilinas“ siejama su šiuo kontekstu: Minimas kaip kaimas prie Maskvos, kuriame sudarytos paliaubos su Maskva. (t-001)
+Minimas kaip kaimas prie Maskvos, kuriame sudarytos paliaubos su Maskva. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Divilinas
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Divilinas“ siejama su šiuo kontekstu: Minimas kaip kaimas prie Maskvos, kuriame sudarytos paliaubos su Maskva."
+  teiginys: "Minimas kaip kaimas prie Maskvos, kuriame sudarytos paliaubos su Maskva."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Lietuvos Vyčių Sąjunga
 
 ## Santrauka
-Šaltinyje „Lietuvos Vyčių Sąjunga“ apibūdinama kaip sąjunga; katalikų jaunimo organizacija, kuri tekste palyginama su pavasarininkais. (t-001)
+sąjunga; katalikų jaunimo organizacija, kuri tekste palyginama su pavasarininkais. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Lietuvos Vyčių Sąjunga
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: sąjunga
-Šaltinyje „Lietuvos Vyčių Sąjunga“ apibūdinama kaip sąjunga; katalikų jaunimo organizacija, kuri tekste palyginama su pavasarininkais. (t-001)
+sąjunga; katalikų jaunimo organizacija, kuri tekste palyginama su pavasarininkais. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Lietuvos Vyčių Sąjunga“ apibūdinama kaip sąjunga; katalikų jaunimo organizacija, kuri tekste palyginama su pavasarininkais. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Lietuvos Vyčių Sąjunga“ apibūdinama kaip sąjunga; katalikų jaunimo organizacija, kuri tekste palyginama su pavasarininkais."
+  teiginys: "sąjunga; katalikų jaunimo organizacija, kuri tekste palyginama su pavasarininkais."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

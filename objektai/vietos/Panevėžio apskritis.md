@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Panevėžio apskritis
 
 ## Santrauka
-Šaltinyje vieta „Panevėžio apskritis“ siejama su šiuo kontekstu: Minima kaip viena iš vietų, kur prie sukilimo prisidėjo valstiečiai. (t-001)
+Minima kaip viena iš vietų, kur prie sukilimo prisidėjo valstiečiai. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Panevėžio apskritis
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Panevėžio apskritis“ siejama su šiuo kontekstu: Minima kaip viena iš vietų, kur prie sukilimo prisidėjo valstiečiai."
+  teiginys: "Minima kaip viena iš vietų, kur prie sukilimo prisidėjo valstiečiai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

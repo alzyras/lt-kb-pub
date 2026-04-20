@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Valkininkai
 
 ## Santrauka
-Šaltinyje vieta „Valkininkai“ siejama su šiais kontekstais: Valkininkai minimi konfederacijos pavadinime; Minimas kaip galutinė vieta, prie kurios priėjo Sapiegas puolę būriai ir kur vyko konfederacijos įvykiai. (t-001, t-002)
+Valkininkai minimi konfederacijos pavadinime; Minimas kaip galutinė vieta, prie kurios priėjo Sapiegas puolę būriai ir kur vyko konfederacijos įvykiai. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Valkininkai
@@ -50,13 +50,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Valkininkai“ siejama su šiuo kontekstu: Valkininkai minimi konfederacijos pavadinime."
+  teiginys: "Valkininkai minimi konfederacijos pavadinime."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Valkininkai“ siejama su šiuo kontekstu: Minimas kaip galutinė vieta, prie kurios priėjo Sapiegas puolę būriai ir kur vyko konfederacijos įvykiai."
+  teiginys: "Minimas kaip galutinė vieta, prie kurios priėjo Sapiegas puolę būriai ir kur vyko konfederacijos įvykiai."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

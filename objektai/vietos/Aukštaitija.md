@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Aukštaitija
 
 ## Santrauka
-Šaltinyje vieta „Aukštaitija“ siejama su šiuo kontekstu: Minima kaip ordino puolamas kraštas ir kaip galimas Vorutos aplinkos regionas. (t-001)
+Minima kaip ordino puolamas kraštas ir kaip galimas Vorutos aplinkos regionas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Aukštaitija
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Aukštaitija“ siejama su šiuo kontekstu: Minima kaip ordino puolamas kraštas ir kaip galimas Vorutos aplinkos regionas."
+  teiginys: "Minima kaip ordino puolamas kraštas ir kaip galimas Vorutos aplinkos regionas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Magdeburginės miestų teisės
 
 ## Santrauka
-Šaltinyje „Magdeburginės miestų teisės“ vartojama taip: Miestų savivaldos teisės, paremtos Magdeburgo teise. (t-001)
+Miestų savivaldos teisės, paremtos Magdeburgo teise. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Magdeburginės miestų teisės
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: miestų teisės, savivalda. (t-
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Magdeburginės miestų teisės“ vartojama taip: Miestų savivaldos teisės, paremtos Magdeburgo teise."
+  teiginys: "Miestų savivaldos teisės, paremtos Magdeburgo teise."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Pietų Afrikos Unija
 
 ## Santrauka
-Šaltinyje vieta „Pietų Afrikos Unija“ siejama su šiuo kontekstu: Minima kaip vieta, kurioje susibūręs didesnis lietuvių skaičius Afrikoje. (t-001)
+Minima kaip vieta, kurioje susibūręs didesnis lietuvių skaičius Afrikoje. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Pietų Afrikos Unija
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Pietų Afrikos Unija“ siejama su šiuo kontekstu: Minima kaip vieta, kurioje susibūręs didesnis lietuvių skaičius Afrikoje."
+  teiginys: "Minima kaip vieta, kurioje susibūręs didesnis lietuvių skaičius Afrikoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

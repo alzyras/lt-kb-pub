@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Nemenčinė
 
 ## Santrauka
-Šaltinyje vieta „Nemenčinė“ siejama su šiuo kontekstu: minima tarp pirmųjų krašto parapijų vietų po krikšto. (t-001)
+minima tarp pirmųjų krašto parapijų vietų po krikšto. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Nemenčinė
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Nemenčinė“ siejama su šiuo kontekstu: minima tarp pirmųjų krašto parapijų vietų po krikšto."
+  teiginys: "minima tarp pirmųjų krašto parapijų vietų po krikšto."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

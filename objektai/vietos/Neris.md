@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Neris
 
 ## Santrauka
-Šaltinyje vieta „Neris“ siejama su šiuo kontekstu: Upė minima kaip ledyno vandens vaga ir Nemuno baseino dalis. (t-001)
+Upė minima kaip ledyno vandens vaga ir Nemuno baseino dalis. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Neris
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Neris“ siejama su šiuo kontekstu: Upė minima kaip ledyno vandens vaga ir Nemuno baseino dalis."
+  teiginys: "Upė minima kaip ledyno vandens vaga ir Nemuno baseino dalis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

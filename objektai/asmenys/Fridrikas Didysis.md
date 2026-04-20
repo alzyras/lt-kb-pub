@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Fridrikas Didysis
 
 ## Santrauka
-Šaltinyje Fridrikas Didysis apibūdinamas taip: Minimas kaip valdovas, savo dvare laikęs Volterą ir rašęs veikalus.
+Minimas kaip valdovas, savo dvare laikęs Volterą ir rašęs veikalus.
 
 ## Variantai
 - Fridriko Didžiojo
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Fridrikas Didysis apibūdinamas taip: Minimas kaip valdovas, savo dvare laikęs Volterą ir rašęs veikalus."
+  teiginys: "Minimas kaip valdovas, savo dvare laikęs Volterą ir rašęs veikalus."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

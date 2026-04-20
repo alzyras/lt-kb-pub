@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Čartoriskiai
 
 ## Santrauka
-Šaltinyje „Čartoriskiai“ apibūdinama kaip didikų giminė; čartoriskiai šiame gabale rodomi kaip valdžios siekianti didikų giminė, kuri kartu su Potockiais svarsto reformas ir po Augusto III mirties perima valdžią. (t-001) Šaltinyje „Čartoriskiai“ siejama su šiuo kontekstu: Čartoriskiai šiame gabale rodomi kaip valdžios siekianti didikų giminė, kuri kartu su Potockiais svarsto reformas ir po Augusto III mirties perima valdžią. (t-002)
+didikų giminė; čartoriskiai šiame gabale rodomi kaip valdžios siekianti didikų giminė, kuri kartu su Potockiais svarsto reformas ir po Augusto III mirties perima valdžią. (t-001) Šaltinyje „Čartoriskiai“ siejama su šiuo kontekstu: Čartoriskiai šiame gabale rodomi kaip valdžios siekianti didikų giminė, kuri kartu su Potockiais svarsto reformas ir po Augusto III mirties perima valdžią. (t-002)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Čartoriskiai
@@ -38,7 +38,7 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: didikų giminė
-Šaltinyje „Čartoriskiai“ apibūdinama kaip didikų giminė; čartoriskiai šiame gabale rodomi kaip valdžios siekianti didikų giminė, kuri kartu su Potockiais svarsto reformas ir po Augusto III mirties perima valdžią. (t-001)
+didikų giminė; čartoriskiai šiame gabale rodomi kaip valdžios siekianti didikų giminė, kuri kartu su Potockiais svarsto reformas ir po Augusto III mirties perima valdžią. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Čartoriskiai“ apibūdinama kaip didikų giminė; čartoriskiai šiame gabale rodomi kaip valdžios siekianti didikų giminė, kuri kartu su Potockiais svarsto reformas ir po Augusto III mirties perima valdžią. (t-001)
@@ -46,13 +46,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Čartoriskiai“ apibūdinama kaip didikų giminė; čartoriskiai šiame gabale rodomi kaip valdžios siekianti didikų giminė, kuri kartu su Potockiais svarsto reformas ir po Augusto III mirties perima valdžią."
+  teiginys: "didikų giminė; čartoriskiai šiame gabale rodomi kaip valdžios siekianti didikų giminė, kuri kartu su Potockiais svarsto reformas ir po Augusto III mirties perima valdžią."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Čartoriskiai“ siejama su šiuo kontekstu: Čartoriskiai šiame gabale rodomi kaip valdžios siekianti didikų giminė, kuri kartu su Potockiais svarsto reformas ir po Augusto III mirties perima valdžią."
+  teiginys: "Čartoriskiai šiame gabale rodomi kaip valdžios siekianti didikų giminė, kuri kartu su Potockiais svarsto reformas ir po Augusto III mirties perima valdžią."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

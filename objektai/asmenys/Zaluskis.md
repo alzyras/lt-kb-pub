@@ -23,11 +23,11 @@ patikimumas: "vidutinis"
 # Zaluskis
 
 ## Santrauka
-Šaltinyje Zaluskis apibūdinamas taip: Minimas kaip Krokuvos vyskupas tarp griežčiausių Repnino priešų.
+Minimas kaip Krokuvos vyskupas tarp griežčiausių Repnino priešų.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Zaluskis apibūdinamas taip: Minimas kaip Krokuvos vyskupas tarp griežčiausių Repnino priešų."
+  teiginys: "Minimas kaip Krokuvos vyskupas tarp griežčiausių Repnino priešų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

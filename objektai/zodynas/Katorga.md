@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Katorga
 
 ## Santrauka
-Šaltinyje „Katorga“ vartojama taip: Sunkusis kalėjimo darbas arba bausmė sunkiu darbu. (t-001)
+Sunkusis kalėjimo darbas arba bausmė sunkiu darbu. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Katorga
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: baudžiamoji teisė, carinės R
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Katorga“ vartojama taip: Sunkusis kalėjimo darbas arba bausmė sunkiu darbu."
+  teiginys: "Sunkusis kalėjimo darbas arba bausmė sunkiu darbu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

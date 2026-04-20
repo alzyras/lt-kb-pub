@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Jonas Kazimieras
 
 ## Santrauka
-Šaltinyje Jonas Kazimieras apibūdinamas taip: Paminėtas kaip valdovo laikotarpio tema. Šaltinyje Jonas Kazimieras apibūdinamas taip: Minimas pinigų skyriaus antraštėje kaip valdovas, kurio laikais kaldinti pinigai.
+Paminėtas kaip valdovo laikotarpio tema. Minimas pinigų skyriaus antraštėje kaip valdovas, kurio laikais kaldinti pinigai.
 
 ## Variantai
 - Jono Kazimiero
@@ -42,13 +42,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Jonas Kazimieras apibūdinamas taip: Paminėtas kaip valdovo laikotarpio tema."
+  teiginys: "Paminėtas kaip valdovo laikotarpio tema."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje Jonas Kazimieras apibūdinamas taip: Minimas pinigų skyriaus antraštėje kaip valdovas, kurio laikais kaldinti pinigai."
+  teiginys: "Minimas pinigų skyriaus antraštėje kaip valdovas, kurio laikais kaldinti pinigai."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

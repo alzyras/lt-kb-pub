@@ -23,11 +23,11 @@ patikimumas: "vidutinis"
 # Vainys
 
 ## Santrauka
-Šaltinyje Vainys apibūdinamas taip: Gedimino brolis, valdęs Polocką.
+Gedimino brolis, valdęs Polocką.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Vainys apibūdinamas taip: Gedimino brolis, valdęs Polocką."
+  teiginys: "Gedimino brolis, valdęs Polocką."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

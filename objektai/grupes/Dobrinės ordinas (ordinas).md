@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Dobrinės ordinas (ordinas)
 
 ## Santrauka
-Šaltinyje „Dobrinės ordinas“ apibūdinama kaip ordinas; kristijono ir Konrado sumanyta krikščionių gynybos organizacija šiame tekste tiesiogiai pavadinama Dobrinės ordinu. (t-001)
+ordinas; kristijono ir Konrado sumanyta krikščionių gynybos organizacija šiame tekste tiesiogiai pavadinama Dobrinės ordinu. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Dobrinės ordinas (ordinas)
@@ -46,14 +46,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: ordinas
-Šaltinyje „Dobrinės ordinas“ apibūdinama kaip ordinas; kristijono ir Konrado sumanyta krikščionių gynybos organizacija šiame tekste tiesiogiai pavadinama Dobrinės ordinu. (t-001)
+ordinas; kristijono ir Konrado sumanyta krikščionių gynybos organizacija šiame tekste tiesiogiai pavadinama Dobrinės ordinu. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Dobrinės ordinas“ apibūdinama kaip ordinas; kristijono ir Konrado sumanyta krikščionių gynybos organizacija šiame tekste tiesiogiai pavadinama Dobrinės ordinu. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Dobrinės ordinas“ apibūdinama kaip ordinas; kristijono ir Konrado sumanyta krikščionių gynybos organizacija šiame tekste tiesiogiai pavadinama Dobrinės ordinu."
+  teiginys: "ordinas; kristijono ir Konrado sumanyta krikščionių gynybos organizacija šiame tekste tiesiogiai pavadinama Dobrinės ordinu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

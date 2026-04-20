@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Vilniaus apygarda
 
 ## Santrauka
-Šaltinyje vieta „Vilniaus apygarda“ siejama su šiuo kontekstu: Minima kaip po 1831 m. sukilimo uždaryta švietimo apygarda. (t-001)
+Minima kaip po 1831 m. sukilimo uždaryta švietimo apygarda. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Vilniaus apygarda
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Vilniaus apygarda“ siejama su šiuo kontekstu: Minima kaip po 1831 m. sukilimo uždaryta švietimo apygarda."
+  teiginys: "Minima kaip po 1831 m. sukilimo uždaryta švietimo apygarda."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

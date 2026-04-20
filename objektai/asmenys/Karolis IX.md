@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Karolis IX
 
 ## Santrauka
-Šaltinyje Karolis IX apibūdinamas taip: Minimas kaip Švedų karalius, statęs kandidatūrą į sostą per tarpuvaldį.
+Minimas kaip Švedų karalius, statęs kandidatūrą į sostą per tarpuvaldį.
 
 ## Variantai
 - Karolio IX
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Karolis IX apibūdinamas taip: Minimas kaip Švedų karalius, statęs kandidatūrą į sostą per tarpuvaldį."
+  teiginys: "Minimas kaip Švedų karalius, statęs kandidatūrą į sostą per tarpuvaldį."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

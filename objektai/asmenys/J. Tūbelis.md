@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # J. Tūbelis
 
 ## Santrauka
-Šaltinyje J. Tūbelis apibūdinamas taip: Minimas kaip dabartinis prezidentas, išvarytas iš gimnazijos už pasipriešinimą rusinimui.
+Minimas kaip dabartinis prezidentas, išvarytas iš gimnazijos už pasipriešinimą rusinimui.
 
 ## Variantai
 - Tūbelis
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje J. Tūbelis apibūdinamas taip: Minimas kaip dabartinis prezidentas, išvarytas iš gimnazijos už pasipriešinimą rusinimui."
+  teiginys: "Minimas kaip dabartinis prezidentas, išvarytas iš gimnazijos už pasipriešinimą rusinimui."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

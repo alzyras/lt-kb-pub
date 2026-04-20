@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Maskva
 
 ## Santrauka
-Šaltinyje vieta „Maskva“ siejama su šiais kontekstais: Minima kaip Tverės kaimynė ir Gedimino rytų politikos fonas; Maskva minima kaip karo kryptis ir grėsmės šaltinis Lietuvos seimų bei kariuomenės aprašyme. (t-001, t-002)
+Minima kaip Tverės kaimynė ir Gedimino rytų politikos fonas; Maskva minima kaip karo kryptis ir grėsmės šaltinis Lietuvos seimų bei kariuomenės aprašyme. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Maskva
@@ -51,13 +51,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Maskva“ siejama su šiuo kontekstu: Minima kaip Tverės kaimynė ir Gedimino rytų politikos fonas."
+  teiginys: "Minima kaip Tverės kaimynė ir Gedimino rytų politikos fonas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Maskva“ siejama su šiuo kontekstu: Maskva minima kaip karo kryptis ir grėsmės šaltinis Lietuvos seimų bei kariuomenės aprašyme."
+  teiginys: "Maskva minima kaip karo kryptis ir grėsmės šaltinis Lietuvos seimų bei kariuomenės aprašyme."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

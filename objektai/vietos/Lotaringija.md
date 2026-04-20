@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Lotaringija
 
 ## Santrauka
-Šaltinyje vieta „Lotaringija“ siejama su šiuo kontekstu: Minima kaip Leščinskio gyvenamoji vieta ir vėliau kaip jo valdytas kraštas. (t-001)
+Minima kaip Leščinskio gyvenamoji vieta ir vėliau kaip jo valdytas kraštas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Lotaringija
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Lotaringija“ siejama su šiuo kontekstu: Minima kaip Leščinskio gyvenamoji vieta ir vėliau kaip jo valdytas kraštas."
+  teiginys: "Minima kaip Leščinskio gyvenamoji vieta ir vėliau kaip jo valdytas kraštas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

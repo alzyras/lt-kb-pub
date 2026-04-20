@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # T. Radžius
 
 ## Santrauka
-Šaltinyje T. Radžius apibūdinamas taip: Minimas kaip kunigas, Montevidėjuje subūręs katalikiškas tautiškas organizacijas ir jų centrą Urugvajaus Lietuvių Klubą. Šaltinyje T. Radžius apibūdinamas taip: Montevidėjuje kun. T. Radžiaus rūpesčiu tautiškos organizacijos buvo sujungtos į vieną centrą, pavadintą Urugvajaus Lietuvių Klubu.
+Minimas kaip kunigas, Montevidėjuje subūręs katalikiškas tautiškas organizacijas ir jų centrą Urugvajaus Lietuvių Klubą. Montevidėjuje kun. T. Radžiaus rūpesčiu tautiškos organizacijos buvo sujungtos į vieną centrą, pavadintą Urugvajaus Lietuvių Klubu.
 
 ## Variantai
 - T. Radžiaus
@@ -37,13 +37,13 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje T. Radžius apibūdinamas taip: Minimas kaip kunigas, Montevidėjuje subūręs katalikiškas tautiškas organizacijas ir jų centrą Urugvajaus Lietuvių Klubą."
+  teiginys: "Minimas kaip kunigas, Montevidėjuje subūręs katalikiškas tautiškas organizacijas ir jų centrą Urugvajaus Lietuvių Klubą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje T. Radžius apibūdinamas taip: Montevidėjuje kun. T. Radžiaus rūpesčiu tautiškos organizacijos buvo sujungtos į vieną centrą, pavadintą Urugvajaus Lietuvių Klubu."
+  teiginys: "Montevidėjuje kun. T. Radžiaus rūpesčiu tautiškos organizacijos buvo sujungtos į vieną centrą, pavadintą Urugvajaus Lietuvių Klubu."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

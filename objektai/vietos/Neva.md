@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Neva
 
 ## Santrauka
-Šaltinyje vieta „Neva“ siejama su šiuo kontekstu: Minima kaip upė, kurios pakrantėje pradėtas statyti Petrapilis. (t-001)
+Minima kaip upė, kurios pakrantėje pradėtas statyti Petrapilis. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Neva
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Neva“ siejama su šiuo kontekstu: Minima kaip upė, kurios pakrantėje pradėtas statyti Petrapilis."
+  teiginys: "Minima kaip upė, kurios pakrantėje pradėtas statyti Petrapilis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # carienė Ona
 
 ## Santrauka
-Šaltinyje carienė Ona apibūdinamas taip: Minima kaip Rusijos valdovė, kurios favoritui Bironui žadėtas Kuršas.
+Minima kaip Rusijos valdovė, kurios favoritui Bironui žadėtas Kuršas.
 
 ## Variantai
 - carienės Onos
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje carienė Ona apibūdinamas taip: Minima kaip Rusijos valdovė, kurios favoritui Bironui žadėtas Kuršas."
+  teiginys: "Minima kaip Rusijos valdovė, kurios favoritui Bironui žadėtas Kuršas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

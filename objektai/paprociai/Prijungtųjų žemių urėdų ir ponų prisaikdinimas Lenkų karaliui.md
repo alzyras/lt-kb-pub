@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Prijungtųjų žemių urėdų ir ponų prisaikdinimas Lenkų karaliui
 
 ## Santrauka
-Šaltinyje minima praktika „Prijungtųjų žemių urėdų ir ponų prisaikdinimas Lenkų karaliui“ siejama su formuluote: Prijungtųjų žemių urėdai ir didesnieji ponai kiekvienas skyrium buvo prisaikdinti Lenkų karaliui. Šaltinio kontekste nurodoma: kas atlieka: prijungtųjų žemių urėdai ir didesnieji ponai; kada atliekama: kai Palenkė, Voluinė, Braclavo ir Kijevo žemės buvo prijungiamos prie Lenkijos. (t-001)
+Prijungtųjų žemių urėdai ir didesnieji ponai kiekvienas skyrium buvo prisaikdinti Lenkų karaliui. Šaltinio kontekste nurodoma: kas atlieka: prijungtųjų žemių urėdai ir didesnieji ponai; kada atliekama: kai Palenkė, Voluinė, Braclavo ir Kijevo žemės buvo prijungiamos prie Lenkijos. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Prijungtųjų žemių urėdai ir didesnieji ponai kiekvienas skyrium buvo prisaikdinti Lenkų karaliui
@@ -40,8 +40,7 @@ patikimumas: "vidutinis"
 - date_start/date_end: 1569 / 1569 (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Prijungtųjų žemių urėdų ir ponų prisaikdinimas Lenkų karaliui“ siejama su formuluote: Prijungtųjų žemių urėdai ir didesnieji ponai kiekvienas skyrium buvo prisaikdinti Lenkų karaliui. Šaltinio kontekste nurodoma: kas atlieka: prijungtųjų žemių urėdai ir didesnieji ponai; kada atliekama: kai Palenkė, Voluinė, Braclavo ir Kijevo žemės buvo prijungiamos prie Lenkijos. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: prijungtųjų žemių urėdai ir didesnieji ponai (t-001)
 - kada atliekama: kai Palenkė, Voluinė, Braclavo ir Kijevo žemės buvo prijungiamos prie Lenkijos (t-001)
@@ -49,7 +48,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Prijungtųjų žemių urėdų ir ponų prisaikdinimas Lenkų karaliui“ siejama su formuluote: Prijungtųjų žemių urėdai ir didesnieji ponai kiekvienas skyrium buvo prisaikdinti Lenkų karaliui. Šaltinio kontekste nurodoma: kas atlieka: prijungtųjų žemių urėdai ir didesnieji ponai; kada atliekama: kai Palenkė, Voluinė, Braclavo ir Kijevo žemės buvo prijungiamos prie Lenkijos."
+  teiginys: "Prijungtųjų žemių urėdai ir didesnieji ponai kiekvienas skyrium buvo prisaikdinti Lenkų karaliui. Šaltinio kontekste nurodoma: kas atlieka: prijungtųjų žemių urėdai ir didesnieji ponai; kada atliekama: kai Palenkė, Voluinė, Braclavo ir Kijevo žemės buvo prijungiamos prie Lenkijos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

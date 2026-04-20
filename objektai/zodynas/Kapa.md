@@ -30,7 +30,7 @@ patikimumas: "vidutinis"
 # Kapa
 
 ## Santrauka
-Šaltinyje „Kapa“ vartojama taip: Istorinis pinigų arba sumos skaičiavimo vienetas. (t-001)
+Istorinis pinigų arba sumos skaičiavimo vienetas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Kapa
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: pinigai, istorinis skaičiavima
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kapa“ vartojama taip: Istorinis pinigų arba sumos skaičiavimo vienetas."
+  teiginys: "Istorinis pinigų arba sumos skaičiavimo vienetas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Liuterionys
 
 ## Santrauka
-Šaltinyje „Liuterionys“ vartojama taip: Liuteronai, protestantų šaka. (t-001)
+Liuteronai, protestantų šaka. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Liuterionys
@@ -50,7 +50,7 @@ Terminas šaltinyje vartojamas šiame kontekste: tikybos istorija, protestantizm
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Liuterionys“ vartojama taip: Liuteronai, protestantų šaka."
+  teiginys: "Liuteronai, protestantų šaka."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

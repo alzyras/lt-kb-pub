@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Vroclavas
 
 ## Santrauka
-Šaltinyje vieta „Vroclavas“ siejama su šiuo kontekstu: Minimas kaip imperijos kunigaikščių suvažiavimo vieta, kurioje spręsta dėl Žemaičių. (t-001)
+Minimas kaip imperijos kunigaikščių suvažiavimo vieta, kurioje spręsta dėl Žemaičių. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Vroclavas
@@ -49,7 +49,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Vroclavas“ siejama su šiuo kontekstu: Minimas kaip imperijos kunigaikščių suvažiavimo vieta, kurioje spręsta dėl Žemaičių."
+  teiginys: "Minimas kaip imperijos kunigaikščių suvažiavimo vieta, kurioje spręsta dėl Žemaičių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

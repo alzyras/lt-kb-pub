@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Vladimiras (Algirdo sūnus)
 
 ## Santrauka
-Šaltinyje Vladimiras (Algirdo sūnus) apibūdinamas kaip Algirdo sūnus, pasodintas į pašalinto Kijevo kunigaikščio vietą po 1362 m. žygio.
+Algirdo sūnus, pasodintas į pašalinto Kijevo kunigaikščio vietą po 1362 m. žygio.
 
 ## Laikotarpis ir datos
 - laikotarpis: 1362 m.
@@ -39,7 +39,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Vladimiras (Algirdo sūnus) apibūdinamas kaip Algirdo sūnus, pasodintas į pašalinto Kijevo kunigaikščio vietą po 1362 m. žygio."
+  teiginys: "Algirdo sūnus, pasodintas į pašalinto Kijevo kunigaikščio vietą po 1362 m. žygio."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

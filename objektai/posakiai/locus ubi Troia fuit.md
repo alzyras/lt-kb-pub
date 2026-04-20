@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # locus ubi Troia fuit
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „locus ubi Troia fuit“; kontekstas: šita lotyniška formulė pavartota aprašant visiškai nuniokotus kaimus ir sodybų vietas po karo bei maro. Reikšmė: Formulė reiškia, kad vieta tapo visiškai apleista ar sunykusi; tekste ji vartojama kaip vaizdingas krašto nuniokojimo apibūdinimas. (t-001)
+Užfiksuota formuluotė „locus ubi Troia fuit“; kontekstas: šita lotyniška formulė pavartota aprašant visiškai nuniokotus kaimus ir sodybų vietas po karo bei maro. Reikšmė: Formulė reiškia, kad vieta tapo visiškai apleista ar sunykusi; tekste ji vartojama kaip vaizdingas krašto nuniokojimo apibūdinimas. (t-001)
 
 ## Forma
 - pagrindinė forma: locus ubi Troia fuit (t-001)
@@ -49,7 +49,7 @@ Formulė reiškia, kad vieta tapo visiškai apleista ar sunykusi; tekste ji vart
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „locus ubi Troia fuit“; kontekstas: šita lotyniška formulė pavartota aprašant visiškai nuniokotus kaimus ir sodybų vietas po karo bei maro."
+  teiginys: "Užfiksuota formuluotė „locus ubi Troia fuit“; kontekstas: šita lotyniška formulė pavartota aprašant visiškai nuniokotus kaimus ir sodybų vietas po karo bei maro."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

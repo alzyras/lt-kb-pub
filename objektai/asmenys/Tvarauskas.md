@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Tvarauskas
 
 ## Santrauka
-Šaltinyje Tvarauskas apibūdinamas taip: Minimas kaip lietuviškai pramokęs lenkas, pradėjęs lietuviškos spaudos bandymus Amerikoje.
+Minimas kaip lietuviškai pramokęs lenkas, pradėjęs lietuviškos spaudos bandymus Amerikoje.
 
 ## Laikotarpis ir datos
 - laikotarpis: 1874 m.
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Tvarauskas apibūdinamas taip: Minimas kaip lietuviškai pramokęs lenkas, pradėjęs lietuviškos spaudos bandymus Amerikoje."
+  teiginys: "Minimas kaip lietuviškai pramokęs lenkas, pradėjęs lietuviškos spaudos bandymus Amerikoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

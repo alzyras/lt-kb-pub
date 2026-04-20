@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Realinė unija
 
 ## Santrauka
-Šaltinyje „Realinė unija“ vartojama taip: Glaudesnė valstybių sąjunga negu personalinė unija. (t-001)
+Glaudesnė valstybių sąjunga negu personalinė unija. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Realinė unija
@@ -50,7 +50,7 @@ Terminas šaltinyje vartojamas šiame kontekste: valstybės santvarka, unijos is
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Realinė unija“ vartojama taip: Glaudesnė valstybių sąjunga negu personalinė unija."
+  teiginys: "Glaudesnė valstybių sąjunga negu personalinė unija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

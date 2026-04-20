@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Sėliai
 
 ## Santrauka
-Šaltinyje „Sėliai“ apibūdinama kaip kiltis; apie sėlius pasakyta, kad didelė jų dalis pateko į lietuvių valstybę ir jų vardas išnyko. (t-001)
+kiltis; apie sėlius pasakyta, kad didelė jų dalis pateko į lietuvių valstybę ir jų vardas išnyko. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Sėliai
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: kiltis
-Šaltinyje „Sėliai“ apibūdinama kaip kiltis; apie sėlius pasakyta, kad didelė jų dalis pateko į lietuvių valstybę ir jų vardas išnyko. (t-001)
+kiltis; apie sėlius pasakyta, kad didelė jų dalis pateko į lietuvių valstybę ir jų vardas išnyko. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Sėliai“ apibūdinama kaip kiltis; apie sėlius pasakyta, kad didelė jų dalis pateko į lietuvių valstybę ir jų vardas išnyko. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Sėliai“ apibūdinama kaip kiltis; apie sėlius pasakyta, kad didelė jų dalis pateko į lietuvių valstybę ir jų vardas išnyko."
+  teiginys: "kiltis; apie sėlius pasakyta, kad didelė jų dalis pateko į lietuvių valstybę ir jų vardas išnyko."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

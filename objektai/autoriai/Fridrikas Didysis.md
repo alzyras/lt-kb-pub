@@ -29,7 +29,7 @@ patikimumas: "vidutinis"
 # Fridrikas Didysis
 
 ## Santrauka
-Šaltinyje Fridrikas Didysis minimas kaip rašytojas; šis vaidmuo siejamas su: poezijos ir mokslo veikalai.
+poezijos ir mokslo veikalai.
 
 ## Darbai
 - poezijos ir mokslo veikalai. (t-001)
@@ -39,7 +39,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Fridrikas Didysis minimas kaip rašytojas, siejamas su: poezijos ir mokslo veikalai."
+  teiginys: "poezijos ir mokslo veikalai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

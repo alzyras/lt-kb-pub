@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Elena
 
 ## Santrauka
-Šaltinyje Elena apibūdinamas taip: Maskvos kunigaikščio Jono III duktė ir Aleksandro sužadėtinė bei žmona.
+Maskvos kunigaikščio Jono III duktė ir Aleksandro sužadėtinė bei žmona.
 
 ## Variantai
 - Elenai
@@ -35,7 +35,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Elena apibūdinamas taip: Maskvos kunigaikščio Jono III duktė ir Aleksandro sužadėtinė bei žmona."
+  teiginys: "Maskvos kunigaikščio Jono III duktė ir Aleksandro sužadėtinė bei žmona."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

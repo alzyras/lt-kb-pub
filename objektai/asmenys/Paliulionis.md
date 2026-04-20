@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Paliulionis
 
 ## Santrauka
-Šaltinyje Paliulionis apibūdinamas taip: Minimas kaip vyskupas, delsęs vykdyti įsakymą dėl vienuolių išgabenimo į Kauną.
+Minimas kaip vyskupas, delsęs vykdyti įsakymą dėl vienuolių išgabenimo į Kauną.
 
 ## Variantai
 - vysk. Paliulionis
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Paliulionis apibūdinamas taip: Minimas kaip vyskupas, delsęs vykdyti įsakymą dėl vienuolių išgabenimo į Kauną."
+  teiginys: "Minimas kaip vyskupas, delsęs vykdyti įsakymą dėl vienuolių išgabenimo į Kauną."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

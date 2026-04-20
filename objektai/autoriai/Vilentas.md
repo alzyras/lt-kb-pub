@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Vilentas
 
 ## Santrauka
-Šaltinyje Vilentas minimas autorystės, redagavimo arba tyrimo kontekste: Minimas tarp lietuviškai rašiusių autorių.
+Minimas tarp lietuviškai rašiusių autorių.
 
 ## Darbai
 - Minimas tarp lietuviškai rašiusių autorių. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Vilentas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas tarp lietuviškai rašiusių autorių."
+  teiginys: "Minimas tarp lietuviškai rašiusių autorių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

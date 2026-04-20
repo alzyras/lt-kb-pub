@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Vitas
 
 ## Santrauka
-Šaltinyje Vitas apibūdinamas taip: Lenkų domininkonas, kartu su Kristijonu įšventintas vyskupu pietinėms Lietuvos sritims.
+Lenkų domininkonas, kartu su Kristijonu įšventintas vyskupu pietinėms Lietuvos sritims.
 
 ## Variantai
 - Vito
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Vitas apibūdinamas taip: Lenkų domininkonas, kartu su Kristijonu įšventintas vyskupu pietinėms Lietuvos sritims."
+  teiginys: "Lenkų domininkonas, kartu su Kristijonu įšventintas vyskupu pietinėms Lietuvos sritims."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

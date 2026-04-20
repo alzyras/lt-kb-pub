@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Hadži-Girėjas
 
 ## Santrauka
-Šaltinyje Hadži-Girėjas apibūdinamas taip: Krimo ordos chanas, įvardytas kaip ištikimas Lietuvos sąjungininkas.
+Krimo ordos chanas, įvardytas kaip ištikimas Lietuvos sąjungininkas.
 
 ## Variantai
 - Hadži-Girėjaus
@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Hadži-Girėjas apibūdinamas taip: Krimo ordos chanas, įvardytas kaip ištikimas Lietuvos sąjungininkas."
+  teiginys: "Krimo ordos chanas, įvardytas kaip ištikimas Lietuvos sąjungininkas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

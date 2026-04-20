@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Jei karalius miręs, — pareikšti užuojautą
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Jei karalius miręs, — pareikšti užuojautą“; kontekstas: Maskvos valdovo pasiuntinių instrukcijoje cituojama formuluotė, kaip elgtis, jei būtų pranešta apie Zigmanto mirtį. Reikšmė: Trumpa oficiali instrukcijos formulė, kuri gali būti laikoma įsimintina dvaro derybinės kalbos fraze. (t-001)
+Užfiksuota formuluotė „Jei karalius miręs, — pareikšti užuojautą“; kontekstas: Maskvos valdovo pasiuntinių instrukcijoje cituojama formuluotė, kaip elgtis, jei būtų pranešta apie Zigmanto mirtį. Reikšmė: Trumpa oficiali instrukcijos formulė, kuri gali būti laikoma įsimintina dvaro derybinės kalbos fraze. (t-001)
 
 ## Forma
 - pagrindinė forma: Jei karalius miręs, — pareikšti užuojautą (t-001)
@@ -49,7 +49,7 @@ Trumpa oficiali instrukcijos formulė, kuri gali būti laikoma įsimintina dvaro
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Jei karalius miręs, — pareikšti užuojautą“; kontekstas: Maskvos valdovo pasiuntinių instrukcijoje cituojama formuluotė, kaip elgtis, jei būtų pranešta apie Zigmanto mirtį."
+  teiginys: "Užfiksuota formuluotė „Jei karalius miręs, — pareikšti užuojautą“; kontekstas: Maskvos valdovo pasiuntinių instrukcijoje cituojama formuluotė, kaip elgtis, jei būtų pranešta apie Zigmanto mirtį."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

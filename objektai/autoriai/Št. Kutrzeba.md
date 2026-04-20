@@ -31,7 +31,7 @@ patikimumas: "vidutinis"
 # Št. Kutrzeba
 
 ## Santrauka
-Šaltinyje Št. Kutrzeba minimas kaip sudarytojas; šis vaidmuo siejamas su: Akta unji NNr. 29—31.
+Akta unji NNr. 29—31.
 
 ## Darbai
 - Akta unji NNr. 29—31. (t-001)
@@ -41,7 +41,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Št. Kutrzeba minimas kaip sudarytojas, siejamas su: Akta unji NNr. 29—31."
+  teiginys: "Akta unji NNr. 29—31."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

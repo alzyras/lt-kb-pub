@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Lietuvos Taryba
 
 ## Santrauka
-Šaltinyje „Lietuvos Taryba“ apibūdinama kaip taryba; vilniaus konferencijos sudaryta taryba, kuriai pavesta vykdyti konferencijos programą ir kuri vėliau įvardijama kaip Lietuvos Taryba. (t-001)
+taryba; vilniaus konferencijos sudaryta taryba, kuriai pavesta vykdyti konferencijos programą ir kuri vėliau įvardijama kaip Lietuvos Taryba. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Lietuvos Taryba
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: taryba
-Šaltinyje „Lietuvos Taryba“ apibūdinama kaip taryba; vilniaus konferencijos sudaryta taryba, kuriai pavesta vykdyti konferencijos programą ir kuri vėliau įvardijama kaip Lietuvos Taryba. (t-001)
+taryba; vilniaus konferencijos sudaryta taryba, kuriai pavesta vykdyti konferencijos programą ir kuri vėliau įvardijama kaip Lietuvos Taryba. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Lietuvos Taryba“ apibūdinama kaip taryba; vilniaus konferencijos sudaryta taryba, kuriai pavesta vykdyti konferencijos programą ir kuri vėliau įvardijama kaip Lietuvos Taryba. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Lietuvos Taryba“ apibūdinama kaip taryba; vilniaus konferencijos sudaryta taryba, kuriai pavesta vykdyti konferencijos programą ir kuri vėliau įvardijama kaip Lietuvos Taryba."
+  teiginys: "taryba; vilniaus konferencijos sudaryta taryba, kuriai pavesta vykdyti konferencijos programą ir kuri vėliau įvardijama kaip Lietuvos Taryba."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

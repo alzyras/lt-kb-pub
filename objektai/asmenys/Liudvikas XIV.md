@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Liudvikas XIV
 
 ## Santrauka
-Šaltinyje Liudvikas XIV apibūdinamas kaip „karaliaus saulė“, kurio laikais (1643—1715 m.) Prancūzija pasiekė didžiausią klestėjimo laikotarpį ir tapo Europos valdovų sekimo objektu.
+„karaliaus saulė“, kurio laikais (1643—1715 m.) Prancūzija pasiekė didžiausią klestėjimo laikotarpį ir tapo Europos valdovų sekimo objektu.
 
 ## Variantai
 - Liudviko XIV
@@ -43,7 +43,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Liudvikas XIV apibūdinamas kaip „karaliaus saulė“, kurio laikais (1643—1715 m.) Prancūzija pasiekė didžiausią klestėjimo laikotarpį ir tapo Europos valdovų sekimo objektu."
+  teiginys: "„karaliaus saulė“, kurio laikais (1643—1715 m.) Prancūzija pasiekė didžiausią klestėjimo laikotarpį ir tapo Europos valdovų sekimo objektu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

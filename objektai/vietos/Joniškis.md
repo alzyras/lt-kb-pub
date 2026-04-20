@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Joniškis
 
 ## Santrauka
-Šaltinyje vieta „Joniškis“ siejama su šiuo kontekstu: Minimas kartu su Giedraičiais kaip vieta, kur buvo nubausti triukšmadariai. (t-001)
+Minimas kartu su Giedraičiais kaip vieta, kur buvo nubausti triukšmadariai. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Joniškis
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Joniškis“ siejama su šiuo kontekstu: Minimas kartu su Giedraičiais kaip vieta, kur buvo nubausti triukšmadariai."
+  teiginys: "Minimas kartu su Giedraičiais kaip vieta, kur buvo nubausti triukšmadariai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

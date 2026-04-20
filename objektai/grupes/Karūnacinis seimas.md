@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Karūnacinis seimas
 
 ## Santrauka
-Šaltinyje „Karūnacinis seimas“ apibūdinama kaip seimas; karūnacinis seimas šiame gabale apibūdinamas kaip tarpuvaldį užbaigiantis seimas, kuris visada šaukiamas Krokuvoje. (t-001)
+seimas; karūnacinis seimas šiame gabale apibūdinamas kaip tarpuvaldį užbaigiantis seimas, kuris visada šaukiamas Krokuvoje. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Karūnacinis seimas
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: seimas
-Šaltinyje „Karūnacinis seimas“ apibūdinama kaip seimas; karūnacinis seimas šiame gabale apibūdinamas kaip tarpuvaldį užbaigiantis seimas, kuris visada šaukiamas Krokuvoje. (t-001)
+seimas; karūnacinis seimas šiame gabale apibūdinamas kaip tarpuvaldį užbaigiantis seimas, kuris visada šaukiamas Krokuvoje. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Karūnacinis seimas“ apibūdinama kaip seimas; karūnacinis seimas šiame gabale apibūdinamas kaip tarpuvaldį užbaigiantis seimas, kuris visada šaukiamas Krokuvoje. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Karūnacinis seimas“ apibūdinama kaip seimas; karūnacinis seimas šiame gabale apibūdinamas kaip tarpuvaldį užbaigiantis seimas, kuris visada šaukiamas Krokuvoje."
+  teiginys: "seimas; karūnacinis seimas šiame gabale apibūdinamas kaip tarpuvaldį užbaigiantis seimas, kuris visada šaukiamas Krokuvoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

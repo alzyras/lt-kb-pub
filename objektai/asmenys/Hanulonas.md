@@ -23,11 +23,11 @@ patikimumas: "vidutinis"
 # Hanulonas
 
 ## Santrauka
-Šaltinyje Hanulonas apibūdinamas taip: Jogailos valdymo pradžioje Vilniaus miesto viršininkas, pirklys vokietis.
+Jogailos valdymo pradžioje Vilniaus miesto viršininkas, pirklys vokietis.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Hanulonas apibūdinamas taip: Jogailos valdymo pradžioje Vilniaus miesto viršininkas, pirklys vokietis."
+  teiginys: "Jogailos valdymo pradžioje Vilniaus miesto viršininkas, pirklys vokietis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

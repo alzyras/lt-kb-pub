@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Zigmantas Vaza
 
 ## Santrauka
-Šaltinyje Zigmantas Vaza apibūdinamas taip: Minimas pinigų skyriaus antraštėje kaip valdovas, kurio laikais kaldinti pinigai.
+Minimas pinigų skyriaus antraštėje kaip valdovas, kurio laikais kaldinti pinigai.
 
 ## Variantai
 - Zigmanto Vazos
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Zigmantas Vaza apibūdinamas taip: Minimas pinigų skyriaus antraštėje kaip valdovas, kurio laikais kaldinti pinigai."
+  teiginys: "Minimas pinigų skyriaus antraštėje kaip valdovas, kurio laikais kaldinti pinigai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Buenos Airės
 
 ## Santrauka
-Šaltinyje vieta „Buenos Airės“ siejama su šiuo kontekstu: Minimas kaip Argentinos lietuvių organizacinis centras. (t-001)
+Minimas kaip Argentinos lietuvių organizacinis centras. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Buenos Airės
@@ -49,7 +49,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Buenos Airės“ siejama su šiuo kontekstu: Minimas kaip Argentinos lietuvių organizacinis centras."
+  teiginys: "Minimas kaip Argentinos lietuvių organizacinis centras."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

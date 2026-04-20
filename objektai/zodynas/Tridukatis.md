@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Tridukatis
 
 ## Santrauka
-Šaltinyje „Tridukatis“ vartojama taip: trijų dukatų vertės pinigas. (t-001)
+trijų dukatų vertės pinigas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Tridukatis
@@ -50,7 +50,7 @@ Terminas šaltinyje vartojamas šiame kontekste: numizmatika, pinigų istorija. 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Tridukatis“ vartojama taip: trijų dukatų vertės pinigas."
+  teiginys: "trijų dukatų vertės pinigas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

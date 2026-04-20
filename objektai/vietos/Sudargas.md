@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Sudargas
 
 ## Santrauka
-Šaltinyje vieta „Sudargas“ siejama su šiuo kontekstu: Minimas kaip knygnešių kelio vieta ir kaip Sudargo klebono M. Sederevičiaus parapija. (t-001)
+Minimas kaip knygnešių kelio vieta ir kaip Sudargo klebono M. Sederevičiaus parapija. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Sudargas
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Sudargas“ siejama su šiuo kontekstu: Minimas kaip knygnešių kelio vieta ir kaip Sudargo klebono M. Sederevičiaus parapija."
+  teiginys: "Minimas kaip knygnešių kelio vieta ir kaip Sudargo klebono M. Sederevičiaus parapija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

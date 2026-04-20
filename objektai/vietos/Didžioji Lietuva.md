@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Didžioji Lietuva
 
 ## Santrauka
-Šaltinyje vieta „Didžioji Lietuva“ siejama su šiais kontekstais: Minima kaip lietuvių protestantiškų raštų autorių kilmės kraštas; Minima kaip Rusų valdžioje buvusi lietuvių gyvenamoji žemė, kurią valstybės kūrėjai norėjo sujungti su Mažąja Lietuva. (t-001, t-002)
+Minima kaip lietuvių protestantiškų raštų autorių kilmės kraštas; Minima kaip Rusų valdžioje buvusi lietuvių gyvenamoji žemė, kurią valstybės kūrėjai norėjo sujungti su Mažąja Lietuva. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Didžioji Lietuva
@@ -43,13 +43,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Didžioji Lietuva“ siejama su šiuo kontekstu: Minima kaip lietuvių protestantiškų raštų autorių kilmės kraštas."
+  teiginys: "Minima kaip lietuvių protestantiškų raštų autorių kilmės kraštas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Didžioji Lietuva“ siejama su šiuo kontekstu: Minima kaip Rusų valdžioje buvusi lietuvių gyvenamoji žemė, kurią valstybės kūrėjai norėjo sujungti su Mažąja Lietuva."
+  teiginys: "Minima kaip Rusų valdžioje buvusi lietuvių gyvenamoji žemė, kurią valstybės kūrėjai norėjo sujungti su Mažąja Lietuva."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

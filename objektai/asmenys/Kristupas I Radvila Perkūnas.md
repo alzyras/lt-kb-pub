@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Kristupas I Radvila Perkūnas
 
 ## Santrauka
-Šaltinyje Kristupas I Radvila Perkūnas apibūdinamas taip: Minimas kaip Mikalojaus R. Rudojo sūnus ir kaip aukštas karinis bei politinis Lietuvos pareigūnas.
+Minimas kaip Mikalojaus R. Rudojo sūnus ir kaip aukštas karinis bei politinis Lietuvos pareigūnas.
 
 ## Laikotarpis ir datos
 - laikotarpis: nuo 1572 m.; nuo 1579 m.; nuo 1584 m.; nuo 1589 m.; † 1603 m.
@@ -39,7 +39,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Kristupas I Radvila Perkūnas apibūdinamas taip: Minimas kaip Mikalojaus R. Rudojo sūnus ir kaip aukštas karinis bei politinis Lietuvos pareigūnas."
+  teiginys: "Minimas kaip Mikalojaus R. Rudojo sūnus ir kaip aukštas karinis bei politinis Lietuvos pareigūnas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

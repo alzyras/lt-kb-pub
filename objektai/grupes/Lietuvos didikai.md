@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Lietuvos didikai
 
 ## Santrauka
-Šaltinyje „Lietuvos didikai“ apibūdinama kaip didikai; lietuvos didikai šiame gabale vaizduojami kaip politinis elitas, kuris renkasi Alšėnuose ir išrenka Kazimierą didžiuoju kunigaikščiu. (t-001)
+didikai; lietuvos didikai šiame gabale vaizduojami kaip politinis elitas, kuris renkasi Alšėnuose ir išrenka Kazimierą didžiuoju kunigaikščiu. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Lietuvos didikai
@@ -46,14 +46,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: didikai
-Šaltinyje „Lietuvos didikai“ apibūdinama kaip didikai; lietuvos didikai šiame gabale vaizduojami kaip politinis elitas, kuris renkasi Alšėnuose ir išrenka Kazimierą didžiuoju kunigaikščiu. (t-001)
+didikai; lietuvos didikai šiame gabale vaizduojami kaip politinis elitas, kuris renkasi Alšėnuose ir išrenka Kazimierą didžiuoju kunigaikščiu. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Lietuvos didikai“ apibūdinama kaip didikai; lietuvos didikai šiame gabale vaizduojami kaip politinis elitas, kuris renkasi Alšėnuose ir išrenka Kazimierą didžiuoju kunigaikščiu. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Lietuvos didikai“ apibūdinama kaip didikai; lietuvos didikai šiame gabale vaizduojami kaip politinis elitas, kuris renkasi Alšėnuose ir išrenka Kazimierą didžiuoju kunigaikščiu."
+  teiginys: "didikai; lietuvos didikai šiame gabale vaizduojami kaip politinis elitas, kuris renkasi Alšėnuose ir išrenka Kazimierą didžiuoju kunigaikščiu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

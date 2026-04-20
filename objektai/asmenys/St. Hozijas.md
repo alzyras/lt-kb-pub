@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # St. Hozijas
 
 ## Santrauka
-Šaltinyje St. Hozijas apibūdinamas taip: Varmijos vyskupas, į Lenkiją atkvietęs jėzuitus.
+Varmijos vyskupas, į Lenkiją atkvietęs jėzuitus.
 
 ## Laikotarpis ir datos
 - laikotarpis: 1564 m.
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje St. Hozijas apibūdinamas taip: Varmijos vyskupas, į Lenkiją atkvietęs jėzuitus."
+  teiginys: "Varmijos vyskupas, į Lenkiją atkvietęs jėzuitus."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

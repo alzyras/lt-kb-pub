@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # Bironas
 
 ## Santrauka
-Šaltinyje Bironas apibūdinamas taip: Minima kaip Rusijos valdovė, kurios favoritui Bironui žadėtas Kuršas.
+Minima kaip Rusijos valdovė, kurios favoritui Bironui žadėtas Kuršas.
 
 ## Variantai
 - Bironui
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Bironas apibūdinamas taip: Minima kaip Rusijos valdovė, kurios favoritui Bironui žadėtas Kuršas."
+  teiginys: "Minima kaip Rusijos valdovė, kurios favoritui Bironui žadėtas Kuršas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

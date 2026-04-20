@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Dogelis
 
 ## Santrauka
-Šaltinyje Dogelis apibūdinamas taip: Minimas kaip Komiteto narys.
+Minimas kaip Komiteto narys.
 
 ## Variantai
 - kun. Dogelis
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Dogelis apibūdinamas taip: Minimas kaip Komiteto narys."
+  teiginys: "Minimas kaip Komiteto narys."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

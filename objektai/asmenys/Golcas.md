@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Golcas
 
 ## Santrauka
-Šaltinyje Golcas apibūdinamas taip: Minimas kaip bermontininkų kariuomenės vadas.
+Minimas kaip bermontininkų kariuomenės vadas.
 
 ## Variantai
 - generolas Golcas
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Golcas apibūdinamas taip: Minimas kaip bermontininkų kariuomenės vadas."
+  teiginys: "Minimas kaip bermontininkų kariuomenės vadas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

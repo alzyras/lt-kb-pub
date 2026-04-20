@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # Kristina
 
 ## Santrauka
-Šaltinyje Kristina apibūdinamas taip: Minima kaip Gustavo Adolfo duktė, atsisakiusi Švedijos sosto.
+Minima kaip Gustavo Adolfo duktė, atsisakiusi Švedijos sosto.
 
 ## Variantai
 - Kristinos
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Kristina apibūdinamas taip: Minima kaip Gustavo Adolfo duktė, atsisakiusi Švedijos sosto."
+  teiginys: "Minima kaip Gustavo Adolfo duktė, atsisakiusi Švedijos sosto."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

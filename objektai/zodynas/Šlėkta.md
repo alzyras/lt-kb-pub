@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Šlėkta
 
 ## Santrauka
-Šaltinyje „Šlėkta“ vartojama taip: Lenkų bajorija, luomas su politinėmis teisėmis. (t-001)
+Lenkų bajorija, luomas su politinėmis teisėmis. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Šlėkta
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: luomų istorija, valstybės san
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Šlėkta“ vartojama taip: Lenkų bajorija, luomas su politinėmis teisėmis."
+  teiginys: "Lenkų bajorija, luomas su politinėmis teisėmis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

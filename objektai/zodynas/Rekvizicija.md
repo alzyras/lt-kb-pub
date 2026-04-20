@@ -31,7 +31,7 @@ patikimumas: "vidutinis"
 # Rekvizicija
 
 ## Santrauka
-Šaltinyje „Rekvizicija“ vartojama taip: Priverstinis maisto, pašarų, transporto ar kitų reikmenų paėmimas kariuomenės reikmėms; Priverstinis turto, maisto ar kitų išteklių paėmimas karo arba okupacijos reikmėms. (t-001)
+Priverstinis maisto, pašarų, transporto ar kitų reikmenų paėmimas kariuomenės reikmėms; Priverstinis turto, maisto ar kitų išteklių paėmimas karo arba okupacijos reikmėms. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Rekvizicija
@@ -55,7 +55,7 @@ Terminas šaltinyje vartojamas šiame kontekste: karo ūkis, okupacija, kariuome
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Rekvizicija“ vartojama taip: Priverstinis maisto, pašarų, transporto ar kitų reikmenų paėmimas kariuomenės reikmėms; Priverstinis turto, maisto ar kitų išteklių paėmimas karo arba okupacijos reikmėms."
+  teiginys: "Priverstinis maisto, pašarų, transporto ar kitų reikmenų paėmimas kariuomenės reikmėms; Priverstinis turto, maisto ar kitų išteklių paėmimas karo arba okupacijos reikmėms."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

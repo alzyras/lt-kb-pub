@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Knechtas
 
 ## Santrauka
-Šaltinyje „Knechtas“ vartojama taip: Riterių tarnas arba kariuomenėje tarnaujantis žmogus. (t-001)
+Riterių tarnas arba kariuomenėje tarnaujantis žmogus. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Knechtas
@@ -50,7 +50,7 @@ Terminas šaltinyje vartojamas šiame kontekste: ordino socialinė sandara, karo
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Knechtas“ vartojama taip: Riterių tarnas arba kariuomenėje tarnaujantis žmogus."
+  teiginys: "Riterių tarnas arba kariuomenėje tarnaujantis žmogus."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

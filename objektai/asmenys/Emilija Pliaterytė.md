@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Emilija Pliaterytė
 
 ## Santrauka
-Šaltinyje Emilija Pliaterytė apibūdinamas taip: Paveikslo antraštėje minimas kaip herojiška sukilėlių vadė.
+Paveikslo antraštėje minimas kaip herojiška sukilėlių vadė.
 
 ## Laikotarpis ir datos
 - laikotarpis: 1831 m.
@@ -38,7 +38,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Emilija Pliaterytė apibūdinamas taip: Paveikslo antraštėje minimas kaip herojiška sukilėlių vadė."
+  teiginys: "Paveikslo antraštėje minimas kaip herojiška sukilėlių vadė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

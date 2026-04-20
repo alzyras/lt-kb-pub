@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Kaišiadorys
 
 ## Santrauka
-Šaltinyje vieta „Kaišiadorys“ siejama su šiuo kontekstu: Minimi kaip kryptis, kuria lenkai veržėsi į Lietuvą. (t-001)
+Minimi kaip kryptis, kuria lenkai veržėsi į Lietuvą. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Kaišiadorys
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Kaišiadorys“ siejama su šiuo kontekstu: Minimi kaip kryptis, kuria lenkai veržėsi į Lietuvą."
+  teiginys: "Minimi kaip kryptis, kuria lenkai veržėsi į Lietuvą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

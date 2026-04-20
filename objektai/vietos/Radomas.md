@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Radomas
 
 ## Santrauka
-Šaltinyje vieta „Radomas“ siejama su šiuo kontekstu: Minimas kaip Radomo konfederacijos centras. (t-001)
+Minimas kaip Radomo konfederacijos centras. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Radomas
@@ -49,7 +49,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Radomas“ siejama su šiuo kontekstu: Minimas kaip Radomo konfederacijos centras."
+  teiginys: "Minimas kaip Radomo konfederacijos centras."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

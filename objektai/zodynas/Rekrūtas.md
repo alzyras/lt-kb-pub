@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Rekrūtas
 
 ## Santrauka
-Šaltinyje „Rekrūtas“ vartojama taip: Prievarta į kariuomenę šaukiamas žmogus, šauktinis. (t-001)
+Prievarta į kariuomenę šaukiamas žmogus, šauktinis. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Rekrūtas
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: kariuomenė, karo prievolė. (t
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Rekrūtas“ vartojama taip: Prievarta į kariuomenę šaukiamas žmogus, šauktinis."
+  teiginys: "Prievarta į kariuomenę šaukiamas žmogus, šauktinis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

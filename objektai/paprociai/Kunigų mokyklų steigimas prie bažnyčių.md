@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Kunigų mokyklų steigimas prie bažnyčių
 
 ## Santrauka
-Šaltinyje minima praktika „Kunigų mokyklų steigimas prie bažnyčių“ siejama su formuluote: jo raginami kunigai prie bažnyčių steigė mokyklas. Šaltinio kontekste nurodoma: kas atlieka: kunigai; kada atliekama: 1816 m. ir po jo, Žemaičių sąjūdžio metu. (t-001)
+jo raginami kunigai prie bažnyčių steigė mokyklas. Šaltinio kontekste nurodoma: kas atlieka: kunigai; kada atliekama: 1816 m. ir po jo, Žemaičių sąjūdžio metu. (t-001)
 
 ## Pavadinimai šaltiniuose
 - jo raginami kunigai prie bažnyčių steigė mokyklas
@@ -39,8 +39,7 @@ patikimumas: "vidutinis"
 - amziai: XIX (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Kunigų mokyklų steigimas prie bažnyčių“ siejama su formuluote: jo raginami kunigai prie bažnyčių steigė mokyklas. Šaltinio kontekste nurodoma: kas atlieka: kunigai; kada atliekama: 1816 m. ir po jo, Žemaičių sąjūdžio metu. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: kunigai (t-001)
 - kada atliekama: 1816 m. ir po jo, Žemaičių sąjūdžio metu (t-001)
@@ -48,7 +47,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Kunigų mokyklų steigimas prie bažnyčių“ siejama su formuluote: jo raginami kunigai prie bažnyčių steigė mokyklas. Šaltinio kontekste nurodoma: kas atlieka: kunigai; kada atliekama: 1816 m. ir po jo, Žemaičių sąjūdžio metu."
+  teiginys: "jo raginami kunigai prie bažnyčių steigė mokyklas. Šaltinio kontekste nurodoma: kas atlieka: kunigai; kada atliekama: 1816 m. ir po jo, Žemaičių sąjūdžio metu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

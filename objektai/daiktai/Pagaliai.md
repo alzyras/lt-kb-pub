@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Pagaliai
 
 ## Santrauka
-Šaltinyje „Pagaliai“ siejamas su šiuo kontekstu: Pagaliai čia veikia kaip improvizuotas ginklas žmonių pasipriešinime Kražiuose.
+Pagaliai čia veikia kaip improvizuotas ginklas žmonių pasipriešinime Kražiuose.
 
 ## Pavadinimai šaltiniuose
 - pagaliais
@@ -43,11 +43,10 @@ patikimumas: "vidutinis"
 - date_end: 1893
 
 ## Kas tai
-Šaltinyje „Pagaliai“ siejamas su šiuo kontekstu: Pagaliai čia veikia kaip improvizuotas ginklas žmonių pasipriešinime Kražiuose.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Pagaliai“ siejamas su šiuo kontekstu: Pagaliai čia veikia kaip improvizuotas ginklas žmonių pasipriešinime Kražiuose."
+  teiginys: "Pagaliai čia veikia kaip improvizuotas ginklas žmonių pasipriešinime Kražiuose."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

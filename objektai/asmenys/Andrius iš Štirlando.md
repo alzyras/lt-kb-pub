@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Andrius iš Štirlando
 
 ## Santrauka
-Šaltinyje Andrius iš Štirlando apibūdinamas taip: Livonijos magistras, pateikęs Mindaugui krikšto sąlygą ir rūpinęsis jo krikštu.
+Livonijos magistras, pateikęs Mindaugui krikšto sąlygą ir rūpinęsis jo krikštu.
 
 ## Variantai
 - von Stirland
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Andrius iš Štirlando apibūdinamas taip: Livonijos magistras, pateikęs Mindaugui krikšto sąlygą ir rūpinęsis jo krikštu."
+  teiginys: "Livonijos magistras, pateikęs Mindaugui krikšto sąlygą ir rūpinęsis jo krikštu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

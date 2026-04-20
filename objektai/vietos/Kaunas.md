@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Kaunas
 
 ## Santrauka
-Šaltinyje vieta „Kaunas“ siejama su šiais kontekstais: spaudos leidykla nurodoma Kaune; Vytautui leista gyventi prie pat Kauno, Ritersverderio pilyje. (t-001, t-002)
+spaudos leidykla nurodoma Kaune; Vytautui leista gyventi prie pat Kauno, Ritersverderio pilyje. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Kaunas
@@ -53,19 +53,19 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Kaunas“ siejama su šiuo kontekstu: spaudos leidykla nurodoma Kaune."
+  teiginys: "spaudos leidykla nurodoma Kaune."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Kaunas“ siejama su šiuo kontekstu: Vytautui leista gyventi prie pat Kauno, Ritersverderio pilyje."
+  teiginys: "Vytautui leista gyventi prie pat Kauno, Ritersverderio pilyje."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-003
-  teiginys: "Šaltinyje vieta „Kaunas“ siejama su šiuo kontekstu: Minimas kaip Karolio XII užimtas miestas žygyje į Lenkiją."
+  teiginys: "Minimas kaip Karolio XII užimtas miestas žygyje į Lenkiją."
   pagrindžia:
     - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

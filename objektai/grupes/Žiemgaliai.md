@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Žiemgaliai
 
 ## Santrauka
-Šaltinyje „Žiemgaliai“ apibūdinama kaip kiltis; žiemgaliai išvardijami kaip gyvenę kairiajame Dauguvos žemupio krante. (t-001)
+kiltis; žiemgaliai išvardijami kaip gyvenę kairiajame Dauguvos žemupio krante. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Žiemgaliai
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: kiltis
-Šaltinyje „Žiemgaliai“ apibūdinama kaip kiltis; žiemgaliai išvardijami kaip gyvenę kairiajame Dauguvos žemupio krante. (t-001)
+kiltis; žiemgaliai išvardijami kaip gyvenę kairiajame Dauguvos žemupio krante. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Žiemgaliai“ apibūdinama kaip kiltis; žiemgaliai išvardijami kaip gyvenę kairiajame Dauguvos žemupio krante. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Žiemgaliai“ apibūdinama kaip kiltis; žiemgaliai išvardijami kaip gyvenę kairiajame Dauguvos žemupio krante."
+  teiginys: "kiltis; žiemgaliai išvardijami kaip gyvenę kairiajame Dauguvos žemupio krante."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

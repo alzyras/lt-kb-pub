@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Demarkacinė linija
 
 ## Santrauka
-Šaltinyje „Demarkacinė linija“ vartojama taip: Laikina politinė ar karo riba tarp užimtų teritorijų. (t-001)
+Laikina politinė ar karo riba tarp užimtų teritorijų. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Demarkacinė linija
@@ -54,7 +54,7 @@ Terminas šaltinyje vartojamas šiame kontekste: karo istorija, sienų nustatyma
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Demarkacinė linija“ vartojama taip: Laikina politinė ar karo riba tarp užimtų teritorijų."
+  teiginys: "Laikina politinė ar karo riba tarp užimtų teritorijų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

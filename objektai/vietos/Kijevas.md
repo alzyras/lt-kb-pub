@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Kijevas
 
 ## Santrauka
-Šaltinyje vieta „Kijevas“ siejama su šiuo kontekstu: Minimas kaip tolimas miestas, paimtas į Gedimino įtaką. (t-001)
+Minimas kaip tolimas miestas, paimtas į Gedimino įtaką. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Kijevas
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Kijevas“ siejama su šiuo kontekstu: Minimas kaip tolimas miestas, paimtas į Gedimino įtaką."
+  teiginys: "Minimas kaip tolimas miestas, paimtas į Gedimino įtaką."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

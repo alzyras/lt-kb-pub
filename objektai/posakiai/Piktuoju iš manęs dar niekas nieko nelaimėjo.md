@@ -30,7 +30,7 @@ patikimumas: "vidutinis"
 # Piktuoju iš manęs dar niekas nieko nelaimėjo
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Piktuoju iš manęs dar niekas nieko nelaimėjo“; kontekstas: Vytautas Salyno derybose aštriai atsako ordino maršalkai ir pabrėžia, kad spaudimu jo nepalauši. Reikšmė: Glausta, įsimenanti frazė apie nepasidavimą spaudimui. (t-001)
+Užfiksuota formuluotė „Piktuoju iš manęs dar niekas nieko nelaimėjo“; kontekstas: Vytautas Salyno derybose aštriai atsako ordino maršalkai ir pabrėžia, kad spaudimu jo nepalauši. Reikšmė: Glausta, įsimenanti frazė apie nepasidavimą spaudimui. (t-001)
 
 ## Forma
 - pagrindinė forma: Piktuoju iš manęs dar niekas nieko nelaimėjo (t-001)
@@ -53,7 +53,7 @@ Glausta, įsimenanti frazė apie nepasidavimą spaudimui. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Piktuoju iš manęs dar niekas nieko nelaimėjo“; kontekstas: Vytautas Salyno derybose aštriai atsako ordino maršalkai ir pabrėžia, kad spaudimu jo nepalauši."
+  teiginys: "Užfiksuota formuluotė „Piktuoju iš manęs dar niekas nieko nelaimėjo“; kontekstas: Vytautas Salyno derybose aštriai atsako ordino maršalkai ir pabrėžia, kad spaudimu jo nepalauši."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

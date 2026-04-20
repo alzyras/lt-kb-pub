@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Diplomas
 
 ## Santrauka
-Šaltinyje „Diplomas“ vartojama taip: Oficialus valdovo aktas arba raštas. (t-001)
+Oficialus valdovo aktas arba raštas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Diplomas
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: diplomatikos leksika, valdovo a
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Diplomas“ vartojama taip: Oficialus valdovo aktas arba raštas."
+  teiginys: "Oficialus valdovo aktas arba raštas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

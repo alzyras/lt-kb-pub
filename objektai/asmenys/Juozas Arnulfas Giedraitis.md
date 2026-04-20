@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Juozas Arnulfas Giedraitis
 
 ## Santrauka
-Šaltinyje Juozas Arnulfas Giedraitis apibūdinamas taip: Prie Juozo Arnulfo Giedraičio veiklos aprašyta švietimo praktika, kai jo raginami kunigai steigė mokyklas prie bažnyčių.
+Prie Juozo Arnulfo Giedraičio veiklos aprašyta švietimo praktika, kai jo raginami kunigai steigė mokyklas prie bažnyčių.
 
 ## Variantai
 - Juozo Arnulfo Giedraičio
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Juozas Arnulfas Giedraitis apibūdinamas taip: Prie Juozo Arnulfo Giedraičio veiklos aprašyta švietimo praktika, kai jo raginami kunigai steigė mokyklas prie bažnyčių."
+  teiginys: "Prie Juozo Arnulfo Giedraičio veiklos aprašyta švietimo praktika, kai jo raginami kunigai steigė mokyklas prie bažnyčių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

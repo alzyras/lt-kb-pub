@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # G. Gerulis
 
 ## Santrauka
-Šaltinyje G. Gerulis minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip Mažosios Lietuvos vietovardžių autorius.
+Minimas kaip Mažosios Lietuvos vietovardžių autorius.
 
 ## Darbai
 - Minimas kaip Mažosios Lietuvos vietovardžių autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje G. Gerulis autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip Mažosios Lietuvos vietovardžių autorius."
+  teiginys: "Minimas kaip Mažosios Lietuvos vietovardžių autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

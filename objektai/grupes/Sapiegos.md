@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Sapiegos
 
 ## Santrauka
-Šaltinyje „Sapiegos“ apibūdinama kaip didikų giminė; sapiegos šiame gabale iškyla kaip įtakinga Lietuvos didikų giminė, gavusi svarbiausius urėdus ir valdžiusi kariuomenę bei krašto pajamas. (t-001) Šaltinyje „Sapiegos“ siejama su šiuo kontekstu: Sapiegos šiame gabale iškyla kaip įtakinga Lietuvos didikų giminė, gavusi svarbiausius urėdus ir valdžiusi kariuomenę bei krašto pajamas. (t-002)
+didikų giminė; sapiegos šiame gabale iškyla kaip įtakinga Lietuvos didikų giminė, gavusi svarbiausius urėdus ir valdžiusi kariuomenę bei krašto pajamas. (t-001) Šaltinyje „Sapiegos“ siejama su šiuo kontekstu: Sapiegos šiame gabale iškyla kaip įtakinga Lietuvos didikų giminė, gavusi svarbiausius urėdus ir valdžiusi kariuomenę bei krašto pajamas. (t-002)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Sapiegos
@@ -38,7 +38,7 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: didikų giminė
-Šaltinyje „Sapiegos“ apibūdinama kaip didikų giminė; sapiegos šiame gabale iškyla kaip įtakinga Lietuvos didikų giminė, gavusi svarbiausius urėdus ir valdžiusi kariuomenę bei krašto pajamas. (t-001)
+didikų giminė; sapiegos šiame gabale iškyla kaip įtakinga Lietuvos didikų giminė, gavusi svarbiausius urėdus ir valdžiusi kariuomenę bei krašto pajamas. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Sapiegos“ apibūdinama kaip didikų giminė; sapiegos šiame gabale iškyla kaip įtakinga Lietuvos didikų giminė, gavusi svarbiausius urėdus ir valdžiusi kariuomenę bei krašto pajamas. (t-001)
@@ -46,13 +46,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Sapiegos“ apibūdinama kaip didikų giminė; sapiegos šiame gabale iškyla kaip įtakinga Lietuvos didikų giminė, gavusi svarbiausius urėdus ir valdžiusi kariuomenę bei krašto pajamas."
+  teiginys: "didikų giminė; sapiegos šiame gabale iškyla kaip įtakinga Lietuvos didikų giminė, gavusi svarbiausius urėdus ir valdžiusi kariuomenę bei krašto pajamas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Sapiegos“ siejama su šiuo kontekstu: Sapiegos šiame gabale iškyla kaip įtakinga Lietuvos didikų giminė, gavusi svarbiausius urėdus ir valdžiusi kariuomenę bei krašto pajamas."
+  teiginys: "Sapiegos šiame gabale iškyla kaip įtakinga Lietuvos didikų giminė, gavusi svarbiausius urėdus ir valdžiusi kariuomenę bei krašto pajamas."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

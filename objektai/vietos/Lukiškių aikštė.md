@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Lukiškių aikštė
 
 ## Santrauka
-Šaltinyje vieta „Lukiškių aikštė“ siejama su šiuo kontekstu: Vilniaus prekyvietė tapatinama su dabartine Lukiškių aikšte, kur buvo statomos kartuvės. (t-001)
+Vilniaus prekyvietė tapatinama su dabartine Lukiškių aikšte, kur buvo statomos kartuvės. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Lukiškių aikštė
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Lukiškių aikštė“ siejama su šiuo kontekstu: Vilniaus prekyvietė tapatinama su dabartine Lukiškių aikšte, kur buvo statomos kartuvės."
+  teiginys: "Vilniaus prekyvietė tapatinama su dabartine Lukiškių aikšte, kur buvo statomos kartuvės."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

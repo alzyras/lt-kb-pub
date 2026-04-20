@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Brianskas
 
 ## Santrauka
-Šaltinyje vieta „Brianskas“ siejama su šiuo kontekstu: Minimas kaip žygio prieš jį taikinys prieš Mindaugo nužudymą. (t-001)
+Minimas kaip žygio prieš jį taikinys prieš Mindaugo nužudymą. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Brianskas
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Brianskas“ siejama su šiuo kontekstu: Minimas kaip žygio prieš jį taikinys prieš Mindaugo nužudymą."
+  teiginys: "Minimas kaip žygio prieš jį taikinys prieš Mindaugo nužudymą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

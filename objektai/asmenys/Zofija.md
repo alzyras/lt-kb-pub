@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Zofija
 
 ## Santrauka
-Šaltinyje Zofija apibūdinamas taip: Jogailos ketvirtoji žmona, Alšėnų kunigaikštytė.
+Jogailos ketvirtoji žmona, Alšėnų kunigaikštytė.
 
 ## Laikotarpis ir datos
 - laikotarpis: 1424 m. paminėjimas
@@ -38,7 +38,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Zofija apibūdinamas taip: Jogailos ketvirtoji žmona, Alšėnų kunigaikštytė."
+  teiginys: "Jogailos ketvirtoji žmona, Alšėnų kunigaikštytė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

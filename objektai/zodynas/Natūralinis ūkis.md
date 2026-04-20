@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Natūralinis ūkis
 
 ## Santrauka
-Šaltinyje „Natūralinis ūkis“ vartojama taip: Ūkis, paremtas natūriniais produktais ir mainais, o ne pinigais. (t-001)
+Ūkis, paremtas natūriniais produktais ir mainais, o ne pinigais. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Natūralinis ūkis
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: ekonomikos istorija. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Natūralinis ūkis“ vartojama taip: Ūkis, paremtas natūriniais produktais ir mainais, o ne pinigais."
+  teiginys: "Ūkis, paremtas natūriniais produktais ir mainais, o ne pinigais."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

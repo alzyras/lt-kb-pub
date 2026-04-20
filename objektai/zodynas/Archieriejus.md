@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Archieriejus
 
 ## Santrauka
-Šaltinyje „Archieriejus“ vartojama taip: pravoslavų vyskupas, bažnytinis rangas. (t-001)
+pravoslavų vyskupas, bažnytinis rangas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Archieriejus
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: stačiatikių bažnytinė hiera
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Archieriejus“ vartojama taip: pravoslavų vyskupas, bažnytinis rangas."
+  teiginys: "pravoslavų vyskupas, bažnytinis rangas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

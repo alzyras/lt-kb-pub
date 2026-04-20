@@ -43,7 +43,7 @@ patikimumas: "aukstas"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Melniko aktas“ siejamas su šiuo kontekstu: Melnike patvirtintas susitarimas vėliau tekste aiškiai įvardijamas kaip Melniko aktas.
+Melnike patvirtintas susitarimas vėliau tekste aiškiai įvardijamas kaip Melniko aktas.
 
 ## Ryšiai
 
@@ -52,7 +52,7 @@ patikimumas: "aukstas"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Melniko aktas“ siejamas su šiuo kontekstu: Melnike patvirtintas susitarimas vėliau tekste aiškiai įvardijamas kaip Melniko aktas."
+  teiginys: "Melnike patvirtintas susitarimas vėliau tekste aiškiai įvardijamas kaip Melniko aktas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

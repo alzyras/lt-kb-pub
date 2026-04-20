@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Fridrikas I
 
 ## Santrauka
-Šaltinyje Fridrikas I apibūdinamas taip: antrojo švedų karo pradžioje elektorius Fridrikas I pasiskelbė Prūsijos karaliumi, o vėlesnis tekstas šį veiksmą sieja su Prūsijos karalystės susidarymu.
+antrojo švedų karo pradžioje elektorius Fridrikas I pasiskelbė Prūsijos karaliumi, o vėlesnis tekstas šį veiksmą sieja su Prūsijos karalystės susidarymu.
 
 ## Variantai
 - elektorius Fridrikas I
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Fridrikas I apibūdinamas taip: antrojo švedų karo pradžioje elektorius Fridrikas I pasiskelbė Prūsijos karaliumi, o vėlesnis tekstas šį veiksmą sieja su Prūsijos karalystės susidarymu."
+  teiginys: "antrojo švedų karo pradžioje elektorius Fridrikas I pasiskelbė Prūsijos karaliumi, o vėlesnis tekstas šį veiksmą sieja su Prūsijos karalystės susidarymu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

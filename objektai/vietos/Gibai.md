@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Gibai
 
 ## Santrauka
-Šaltinyje vieta „Gibai“ siejama su šiuo kontekstu: Minimi kaip vieta, kur lenkų jėgos pralaužė lietuvių frontą. (t-001)
+Minimi kaip vieta, kur lenkų jėgos pralaužė lietuvių frontą. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Gibai
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Gibai“ siejama su šiuo kontekstu: Minimi kaip vieta, kur lenkų jėgos pralaužė lietuvių frontą."
+  teiginys: "Minimi kaip vieta, kur lenkų jėgos pralaužė lietuvių frontą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

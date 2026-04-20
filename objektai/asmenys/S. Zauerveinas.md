@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # S. Zauerveinas
 
 ## Santrauka
-Šaltinyje S. Zauerveinas apibūdinamas taip: Minimas kaip „Aušros“ siela ir vienas jos rašytojų.
+Minimas kaip „Aušros“ siela ir vienas jos rašytojų.
 
 ## Variantai
 - Zauerveinas
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje S. Zauerveinas apibūdinamas taip: Minimas kaip „Aušros“ siela ir vienas jos rašytojų."
+  teiginys: "Minimas kaip „Aušros“ siela ir vienas jos rašytojų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

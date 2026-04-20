@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Didžioji Britanija
 
 ## Santrauka
-Šaltinyje vieta „Didžioji Britanija“ siejama su šiuo kontekstu: Minima kaip lietuvių gyvenama erdvė, apimanti Angliją ir Škotiją. (t-001)
+Minima kaip lietuvių gyvenama erdvė, apimanti Angliją ir Škotiją. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Didžioji Britanija
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Didžioji Britanija“ siejama su šiuo kontekstu: Minima kaip lietuvių gyvenama erdvė, apimanti Angliją ir Škotiją."
+  teiginys: "Minima kaip lietuvių gyvenama erdvė, apimanti Angliją ir Škotiją."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Prūsai
 
 ## Santrauka
-Šaltinyje vieta „Prūsai“ siejama su šiuo kontekstu: Prūsai minimi kaip kraštas, į kurį atsikrausto kryžiuočių ordinas ir kuriame vyksta jo nukariavimai. (t-001)
+Prūsai minimi kaip kraštas, į kurį atsikrausto kryžiuočių ordinas ir kuriame vyksta jo nukariavimai. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Prūsai
@@ -46,7 +46,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Prūsai“ siejama su šiuo kontekstu: Prūsai minimi kaip kraštas, į kurį atsikrausto kryžiuočių ordinas ir kuriame vyksta jo nukariavimai."
+  teiginys: "Prūsai minimi kaip kraštas, į kurį atsikrausto kryžiuočių ordinas ir kuriame vyksta jo nukariavimai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

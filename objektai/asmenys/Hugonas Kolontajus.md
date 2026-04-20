@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Hugonas Kolontajus
 
 ## Santrauka
-Šaltinyje Hugonas Kolontajus apibūdinamas taip: Minimas kaip Lietuvos referendorius, vėliau Lenkijos vicekancleris ir žymiausias reformų partijos publicistas.
+Minimas kaip Lietuvos referendorius, vėliau Lenkijos vicekancleris ir žymiausias reformų partijos publicistas.
 
 ## Variantai
 - Kolontajus
@@ -43,7 +43,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Hugonas Kolontajus apibūdinamas taip: Minimas kaip Lietuvos referendorius, vėliau Lenkijos vicekancleris ir žymiausias reformų partijos publicistas."
+  teiginys: "Minimas kaip Lietuvos referendorius, vėliau Lenkijos vicekancleris ir žymiausias reformų partijos publicistas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

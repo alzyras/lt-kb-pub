@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Mikalojus Kristupas Radvila Našlaitėlis
 
 ## Santrauka
-Šaltinyje Mikalojus Kristupas Radvila Našlaitėlis apibūdinamas taip: po Stepono Batoro karų ir įsitvirtinimo Livonijoje Mikalojus Kristupas Radvila buvusiam kalvinų centre įkūrė jėzuitų kolegiją.
+po Stepono Batoro karų ir įsitvirtinimo Livonijoje Mikalojus Kristupas Radvila buvusiam kalvinų centre įkūrė jėzuitų kolegiją.
 
 ## Variantai
 - Mikalojus Kristupas Radvila
@@ -46,7 +46,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Mikalojus Kristupas Radvila Našlaitėlis apibūdinamas taip: po Stepono Batoro karų ir įsitvirtinimo Livonijoje Mikalojus Kristupas Radvila buvusiam kalvinų centre įkūrė jėzuitų kolegiją."
+  teiginys: "po Stepono Batoro karų ir įsitvirtinimo Livonijoje Mikalojus Kristupas Radvila buvusiam kalvinų centre įkūrė jėzuitų kolegiją."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

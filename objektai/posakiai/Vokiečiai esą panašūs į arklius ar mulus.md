@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Vokiečiai esą panašūs į arklius ar mulus
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Vokiečiai esą panašūs į arklius ar mulus — galį pavalgyti žolės“; kontekstas: Prūsas, pamatęs kryžiuočius valgant kopūstus, juos pašiepiamai palygina su arkliais ar mulais, galinčiais ėsti žolę. Reikšmė: Tai ryškus, kandus palyginimas, kuriame vokiečiai vaizduojami kaip gyvuliai, galintys maitintis žole. (t-001)
+Užfiksuota formuluotė „Vokiečiai esą panašūs į arklius ar mulus — galį pavalgyti žolės“; kontekstas: Prūsas, pamatęs kryžiuočius valgant kopūstus, juos pašiepiamai palygina su arkliais ar mulais, galinčiais ėsti žolę. Reikšmė: Tai ryškus, kandus palyginimas, kuriame vokiečiai vaizduojami kaip gyvuliai, galintys maitintis žole. (t-001)
 
 ## Forma
 - pagrindinė forma: Vokiečiai esą panašūs į arklius ar mulus — galį pavalgyti žolės (t-001)
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 - vokiečiai esą panašūs į arklius ar mulus — galį pavalgyti žolės
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Prūsas, pamatęs kryžiuočius valgant kopūstus, juos pašiepiamai palygina su arkliais ar mulais, galinčiais ėsti žolę. (t-001)
@@ -48,7 +48,7 @@ Tai ryškus, kandus palyginimas, kuriame vokiečiai vaizduojami kaip gyvuliai, g
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Vokiečiai esą panašūs į arklius ar mulus — galį pavalgyti žolės“; kontekstas: Prūsas, pamatęs kryžiuočius valgant kopūstus, juos pašiepiamai palygina su arkliais ar mulais, galinčiais ėsti žolę."
+  teiginys: "Užfiksuota formuluotė „Vokiečiai esą panašūs į arklius ar mulus — galį pavalgyti žolės“; kontekstas: Prūsas, pamatęs kryžiuočius valgant kopūstus, juos pašiepiamai palygina su arkliais ar mulais, galinčiais ėsti žolę."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

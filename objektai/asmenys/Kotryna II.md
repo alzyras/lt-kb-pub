@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Kotryna II
 
 ## Santrauka
-Šaltinyje Kotryna II apibūdinamas taip: Paminėta kaip Čartoriskių sustiprėjimo tema.
+Paminėta kaip Čartoriskių sustiprėjimo tema.
 
 ## Laikotarpis ir datos
 - laikotarpis: 1762—1796 m.
@@ -38,7 +38,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Kotryna II apibūdinamas taip: Paminėta kaip Čartoriskių sustiprėjimo tema."
+  teiginys: "Paminėta kaip Čartoriskių sustiprėjimo tema."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

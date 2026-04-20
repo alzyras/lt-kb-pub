@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Didžiojo kunigaikščio kepurė
 
 ## Santrauka
-Šaltinyje „Didžiojo kunigaikščio kepurė“ siejamas su šiuo kontekstu: Kazimiero pakėlimo apeigose Vilniaus katedroje ant jo galvos uždėta didžiojo kunigaikščio kepurė.
+Kazimiero pakėlimo apeigose Vilniaus katedroje ant jo galvos uždėta didžiojo kunigaikščio kepurė.
 
 ## Pavadinimai šaltiniuose
 - didžiojo kunigaikščio kepurę
@@ -42,11 +42,10 @@ patikimumas: "aukstas"
 - date_end:
 
 ## Kas tai
-Šaltinyje „Didžiojo kunigaikščio kepurė“ siejamas su šiuo kontekstu: Kazimiero pakėlimo apeigose Vilniaus katedroje ant jo galvos uždėta didžiojo kunigaikščio kepurė.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Didžiojo kunigaikščio kepurė“ siejamas su šiuo kontekstu: Kazimiero pakėlimo apeigose Vilniaus katedroje ant jo galvos uždėta didžiojo kunigaikščio kepurė."
+  teiginys: "Kazimiero pakėlimo apeigose Vilniaus katedroje ant jo galvos uždėta didžiojo kunigaikščio kepurė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

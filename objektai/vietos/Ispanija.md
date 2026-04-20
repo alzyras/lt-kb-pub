@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Ispanija
 
 ## Santrauka
-Šaltinyje vieta „Ispanija“ siejama su šiuo kontekstu: Minima kaip vieta, iš kurios 1492 m. buvo išvaryti žydai. (t-001)
+Minima kaip vieta, iš kurios 1492 m. buvo išvaryti žydai. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Ispanija
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Ispanija“ siejama su šiuo kontekstu: Minima kaip vieta, iš kurios 1492 m. buvo išvaryti žydai."
+  teiginys: "Minima kaip vieta, iš kurios 1492 m. buvo išvaryti žydai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

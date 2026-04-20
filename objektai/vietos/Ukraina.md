@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Ukraina
 
 ## Santrauka
-Šaltinyje vieta „Ukraina“ siejama su šiais kontekstais: Minima kaip teritorija, kurią siaubė totorių puolimai; Ukraina minima kaip Lenkijos pakraštys, viliojęs lenkus įsikurti Lietuvoje. (t-001, t-002)
+Minima kaip teritorija, kurią siaubė totorių puolimai; Ukraina minima kaip Lenkijos pakraštys, viliojęs lenkus įsikurti Lietuvoje. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Ukraina
@@ -44,19 +44,19 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Ukraina“ siejama su šiuo kontekstu: Minima kaip teritorija, kurią siaubė totorių puolimai."
+  teiginys: "Minima kaip teritorija, kurią siaubė totorių puolimai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Ukraina“ siejama su šiuo kontekstu: Ukraina minima kaip Lenkijos pakraštys, viliojęs lenkus įsikurti Lietuvoje."
+  teiginys: "Ukraina minima kaip Lenkijos pakraštys, viliojęs lenkus įsikurti Lietuvoje."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-003
-  teiginys: "Šaltinyje vieta „Ukraina“ siejama su šiuo kontekstu: Minima kaip Karolio XII ir Mazepos žygio kryptis."
+  teiginys: "Minima kaip Karolio XII ir Mazepos žygio kryptis."
   pagrindžia:
     - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

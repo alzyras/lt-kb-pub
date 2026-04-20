@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # K. Zabitis Nezabitauskas
 
 ## Santrauka
-Šaltinyje K. Zabitis Nezabitauskas minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip lietuviškųjų knygų bibliografijos autorius.
+Minimas kaip lietuviškųjų knygų bibliografijos autorius.
 
 ## Darbai
 - Minimas kaip lietuviškųjų knygų bibliografijos autorius. (t-001)
@@ -37,7 +37,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje K. Zabitis Nezabitauskas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip lietuviškųjų knygų bibliografijos autorius."
+  teiginys: "Minimas kaip lietuviškųjų knygų bibliografijos autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

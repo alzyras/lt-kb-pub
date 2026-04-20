@@ -29,7 +29,7 @@ patikimumas: "aukštas"
 # A. Šapoka
 
 ## Santrauka
-Šaltinyje A. Šapoka nurodytas kaip leidinio redaktorius; prefacijoje jis taip pat siejamas su veikalo tęsinio iki nepriklausomosios valstybės galo rašymu ir penkių bendradarbių dalių suderinimu.
+A. Šapoka nurodytas kaip leidinio redaktorius; prefacijoje jis taip pat siejamas su veikalo tęsinio iki nepriklausomosios valstybės galo rašymu ir penkių bendradarbių dalių suderinimu.
 
 ## Darbai
 - Antraštėje nurodytas kaip leidinio redaktorius. (t-001)
@@ -41,7 +41,7 @@ patikimumas: "aukštas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje A. Šapoka autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Antraštėje nurodytas kaip leidinio redaktorius."
+  teiginys: "Antraštėje nurodytas kaip leidinio redaktorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

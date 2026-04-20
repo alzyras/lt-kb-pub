@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Aldona
 
 ## Santrauka
-Šaltinyje Aldona apibūdinamas taip: Gedimino duktė, ištekinta už Vladislovo Lokietkos sūnaus ir pavadinta Gediminaičių giminės atstove.
+Gedimino duktė, ištekinta už Vladislovo Lokietkos sūnaus ir pavadinta Gediminaičių giminės atstove.
 
 ## Variantai
 - Aldoną
@@ -44,7 +44,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Aldona apibūdinamas taip: Gedimino duktė, ištekinta už Vladislovo Lokietkos sūnaus ir pavadinta Gediminaičių giminės atstove."
+  teiginys: "Gedimino duktė, ištekinta už Vladislovo Lokietkos sūnaus ir pavadinta Gediminaičių giminės atstove."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

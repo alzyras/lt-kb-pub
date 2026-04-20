@@ -23,7 +23,7 @@ patikimumas: "aukstas"
 # Ortelsburgas
 
 ## Santrauka
-Šaltinyje vieta „Ortelsburgas“ siejama su šiuo kontekstu: Įvardyta kaip ordino pilis, kurios įkūrimo data nurodyta apytiksliai. (t-001)
+Įvardyta kaip ordino pilis, kurios įkūrimo data nurodyta apytiksliai. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Ortelsburgas
@@ -39,7 +39,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Ortelsburgas“ siejama su šiuo kontekstu: Įvardyta kaip ordino pilis, kurios įkūrimo data nurodyta apytiksliai."
+  teiginys: "Įvardyta kaip ordino pilis, kurios įkūrimo data nurodyta apytiksliai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

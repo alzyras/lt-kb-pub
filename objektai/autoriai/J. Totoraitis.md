@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # J. Totoraitis
 
 ## Santrauka
-Šaltinyje J. Totoraitis minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip Mindaugo laikų tyrėjas.
+Bibliografijoje nurodytas kaip Mindaugo laikų tyrėjas.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip Mindaugo laikų tyrėjas. (t-001)
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje J. Totoraitis autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip Mindaugo laikų tyrėjas."
+  teiginys: "Bibliografijoje nurodytas kaip Mindaugo laikų tyrėjas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

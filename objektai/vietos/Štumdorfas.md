@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Štumdorfas
 
 ## Santrauka
-Šaltinyje vieta „Štumdorfas“ siejama su šiuo kontekstu: Minima kaip Prūsijoje vykusių derybų vieta prieš Štumdorfo paliaubas. (t-001)
+Minima kaip Prūsijoje vykusių derybų vieta prieš Štumdorfo paliaubas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Štumdorfas
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Štumdorfas“ siejama su šiuo kontekstu: Minima kaip Prūsijoje vykusių derybų vieta prieš Štumdorfo paliaubas."
+  teiginys: "Minima kaip Prūsijoje vykusių derybų vieta prieš Štumdorfo paliaubas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

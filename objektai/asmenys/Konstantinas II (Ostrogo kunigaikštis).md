@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Konstantinas II (Ostrogo kunigaikštis)
 
 ## Santrauka
-Šaltinyje Konstantinas II (Ostrogo kunigaikštis) apibūdinamas taip: Minimas kaip didžiausias pravoslavų ponas, stojęs prieš Brastos uniją.
+Minimas kaip didžiausias pravoslavų ponas, stojęs prieš Brastos uniją.
 
 ## Variantai
 - Konstantinas II
@@ -35,7 +35,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Konstantinas II (Ostrogo kunigaikštis) apibūdinamas taip: Minimas kaip didžiausias pravoslavų ponas, stojęs prieš Brastos uniją."
+  teiginys: "Minimas kaip didžiausias pravoslavų ponas, stojęs prieš Brastos uniją."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

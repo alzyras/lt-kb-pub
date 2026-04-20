@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Amerikos Lietuvių Katalikų Federacija
 
 ## Santrauka
-Šaltinyje „Amerikos Lietuvių Katalikų Federacija“ apibūdinama kaip federacija; katalikų organizaciją apjungianti federacija, kuri rūpinosi švietimu, mokyklomis ir kitomis katalikiškomis organizacijomis. (t-001)
+federacija; katalikų organizaciją apjungianti federacija, kuri rūpinosi švietimu, mokyklomis ir kitomis katalikiškomis organizacijomis. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Amerikos Lietuvių Katalikų Federacija
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: federacija
-Šaltinyje „Amerikos Lietuvių Katalikų Federacija“ apibūdinama kaip federacija; katalikų organizaciją apjungianti federacija, kuri rūpinosi švietimu, mokyklomis ir kitomis katalikiškomis organizacijomis. (t-001)
+federacija; katalikų organizaciją apjungianti federacija, kuri rūpinosi švietimu, mokyklomis ir kitomis katalikiškomis organizacijomis. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Amerikos Lietuvių Katalikų Federacija“ apibūdinama kaip federacija; katalikų organizaciją apjungianti federacija, kuri rūpinosi švietimu, mokyklomis ir kitomis katalikiškomis organizacijomis. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Amerikos Lietuvių Katalikų Federacija“ apibūdinama kaip federacija; katalikų organizaciją apjungianti federacija, kuri rūpinosi švietimu, mokyklomis ir kitomis katalikiškomis organizacijomis."
+  teiginys: "federacija; katalikų organizaciją apjungianti federacija, kuri rūpinosi švietimu, mokyklomis ir kitomis katalikiškomis organizacijomis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

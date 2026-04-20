@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # A. Vijūkas Kojelavičius
 
 ## Santrauka
-Šaltinyje A. Vijūkas Kojelavičius minimas autorystės, redagavimo arba tyrimo kontekste: Įvardytas kaip kaunietis jėzuitas, parašęs lotynišką Lietuvos istoriją.
+Įvardytas kaip kaunietis jėzuitas, parašęs lotynišką Lietuvos istoriją.
 
 ## Darbai
 - Įvardytas kaip kaunietis jėzuitas, parašęs lotynišką Lietuvos istoriją. (t-001)
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje A. Vijūkas Kojelavičius autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Įvardytas kaip kaunietis jėzuitas, parašęs lotynišką Lietuvos istoriją."
+  teiginys: "Įvardytas kaip kaunietis jėzuitas, parašęs lotynišką Lietuvos istoriją."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

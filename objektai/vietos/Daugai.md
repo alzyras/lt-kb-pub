@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Daugai
 
 ## Santrauka
-Šaltinyje vieta „Daugai“ siejama su šiuo kontekstu: Minima kaip vieta, kurią lenkai užėmė sulaužę demarkacijos liniją. (t-001)
+Minima kaip vieta, kurią lenkai užėmė sulaužę demarkacijos liniją. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Daugai
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Daugai“ siejama su šiuo kontekstu: Minima kaip vieta, kurią lenkai užėmė sulaužę demarkacijos liniją."
+  teiginys: "Minima kaip vieta, kurią lenkai užėmė sulaužę demarkacijos liniją."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

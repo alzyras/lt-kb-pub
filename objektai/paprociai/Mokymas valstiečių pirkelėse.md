@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Mokymas valstiečių pirkelėse
 
 ## Santrauka
-Šaltinyje minima praktika „Mokymas valstiečių pirkelėse“ siejama su formuluote: kuriose mokė valstiečių pirkelėse. Šaltinio kontekste nurodoma: kas atlieka: kaimo siuvėjai ir vietos valstiečiai; kada atliekama: nuo 1568 m. ir vėliau. (t-001)
+kuriose mokė valstiečių pirkelėse. Šaltinio kontekste nurodoma: kas atlieka: kaimo siuvėjai ir vietos valstiečiai; kada atliekama: nuo 1568 m. ir vėliau. (t-001)
 
 ## Pavadinimai šaltiniuose
 - kuriose mokė valstiečių pirkelėse
@@ -40,8 +40,7 @@ patikimumas: "vidutinis"
 - date_start/date_end: 1568 / 1568 (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Mokymas valstiečių pirkelėse“ siejama su formuluote: kuriose mokė valstiečių pirkelėse. Šaltinio kontekste nurodoma: kas atlieka: kaimo siuvėjai ir vietos valstiečiai; kada atliekama: nuo 1568 m. ir vėliau. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: kaimo siuvėjai ir vietos valstiečiai (t-001)
 - kada atliekama: nuo 1568 m. ir vėliau (t-001)
@@ -49,7 +48,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Mokymas valstiečių pirkelėse“ siejama su formuluote: kuriose mokė valstiečių pirkelėse. Šaltinio kontekste nurodoma: kas atlieka: kaimo siuvėjai ir vietos valstiečiai; kada atliekama: nuo 1568 m. ir vėliau."
+  teiginys: "kuriose mokė valstiečių pirkelėse. Šaltinio kontekste nurodoma: kas atlieka: kaimo siuvėjai ir vietos valstiečiai; kada atliekama: nuo 1568 m. ir vėliau."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

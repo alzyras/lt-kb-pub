@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Direktorija
 
 ## Santrauka
-Šaltinyje „Direktorija“ vartojama taip: Valdymo ar administravimo taryba, ypač Klaipėdos krašto institucija. (t-001)
+Valdymo ar administravimo taryba, ypač Klaipėdos krašto institucija. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Direktorija
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: administracinė terminija, Klai
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Direktorija“ vartojama taip: Valdymo ar administravimo taryba, ypač Klaipėdos krašto institucija."
+  teiginys: "Valdymo ar administravimo taryba, ypač Klaipėdos krašto institucija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

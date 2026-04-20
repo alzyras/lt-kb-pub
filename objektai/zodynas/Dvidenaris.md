@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Dvidenaris
 
 ## Santrauka
-Šaltinyje „Dvidenaris“ vartojama taip: dviejų denarų vertės pinigas. (t-001)
+dviejų denarų vertės pinigas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Dvidenaris
@@ -50,7 +50,7 @@ Terminas šaltinyje vartojamas šiame kontekste: numizmatika, pinigų istorija. 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Dvidenaris“ vartojama taip: dviejų denarų vertės pinigas."
+  teiginys: "dviejų denarų vertės pinigas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

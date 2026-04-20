@@ -26,14 +26,13 @@ patikimumas: "vidutinis"
 # Kunigaikščio ir jo pasiuntinių išlaikymas kelionėje
 
 ## Santrauka
-Šaltinyje minima praktika „Kunigaikščio ir jo pasiuntinių išlaikymas kelionėje“ siejama su formuluote: išlaikyti pravažiuojančius kunigaikščio pasiuntinius` / `išlaikyti ir kelionėje pas juos sustojantį kunigaikštį su visu jo dvaru. Šaltinio kontekste nurodoma: kas atlieka: bajorija; kada atliekama: pravažiuojant` / `kelionėje sustojant. (t-001)
+išlaikyti pravažiuojančius kunigaikščio pasiuntinius` / `išlaikyti ir kelionėje pas juos sustojantį kunigaikštį su visu jo dvaru. Šaltinio kontekste nurodoma: kas atlieka: bajorija; kada atliekama: pravažiuojant` / `kelionėje sustojant. (t-001)
 
 ## Pavadinimai šaltiniuose
 - išlaikyti pravažiuojančius kunigaikščio pasiuntinius` / `išlaikyti ir kelionėje pas juos sustojantį kunigaikštį su visu jo dvaru
 
 ## Kas tai
-Šaltinyje minima praktika „Kunigaikščio ir jo pasiuntinių išlaikymas kelionėje“ siejama su formuluote: išlaikyti pravažiuojančius kunigaikščio pasiuntinius` / `išlaikyti ir kelionėje pas juos sustojantį kunigaikštį su visu jo dvaru. Šaltinio kontekste nurodoma: kas atlieka: bajorija; kada atliekama: pravažiuojant` / `kelionėje sustojant. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: bajorija (t-001)
 - kada atliekama: pravažiuojant` / `kelionėje sustojant (t-001)
@@ -41,7 +40,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Kunigaikščio ir jo pasiuntinių išlaikymas kelionėje“ siejama su formuluote: išlaikyti pravažiuojančius kunigaikščio pasiuntinius` / `išlaikyti ir kelionėje pas juos sustojantį kunigaikštį su visu jo dvaru. Šaltinio kontekste nurodoma: kas atlieka: bajorija; kada atliekama: pravažiuojant` / `kelionėje sustojant."
+  teiginys: "išlaikyti pravažiuojančius kunigaikščio pasiuntinius` / `išlaikyti ir kelionėje pas juos sustojantį kunigaikštį su visu jo dvaru. Šaltinio kontekste nurodoma: kas atlieka: bajorija; kada atliekama: pravažiuojant` / `kelionėje sustojant."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

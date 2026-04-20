@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Šventoji
 
 ## Santrauka
-Šaltinyje vieta „Šventoji“ siejama su šiuo kontekstu: Upė minima kaip geografinė riba tarp žemaičių ir kuršių gyvenamų sričių. (t-001)
+Upė minima kaip geografinė riba tarp žemaičių ir kuršių gyvenamų sričių. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Šventoji
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Šventoji“ siejama su šiuo kontekstu: Upė minima kaip geografinė riba tarp žemaičių ir kuršių gyvenamų sričių."
+  teiginys: "Upė minima kaip geografinė riba tarp žemaičių ir kuršių gyvenamų sričių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

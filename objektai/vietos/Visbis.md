@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Visbis
 
 ## Santrauka
-Šaltinyje vieta „Visbis“ siejama su šiuo kontekstu: Miestas nurodomas kaip svarbiausias Hanzos prekybos centras Gotlando saloje. (t-001)
+Miestas nurodomas kaip svarbiausias Hanzos prekybos centras Gotlando saloje. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Visbis
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Visbis“ siejama su šiuo kontekstu: Miestas nurodomas kaip svarbiausias Hanzos prekybos centras Gotlando saloje."
+  teiginys: "Miestas nurodomas kaip svarbiausias Hanzos prekybos centras Gotlando saloje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

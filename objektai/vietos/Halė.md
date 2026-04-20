@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Halė
 
 ## Santrauka
-Šaltinyje vieta „Halė“ siejama su šiuo kontekstu: Minima kaip seminarijos įkūrimo vieta Brandenburge. (t-001)
+Minima kaip seminarijos įkūrimo vieta Brandenburge. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Halė
@@ -48,7 +48,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Halė“ siejama su šiuo kontekstu: Minima kaip seminarijos įkūrimo vieta Brandenburge."
+  teiginys: "Minima kaip seminarijos įkūrimo vieta Brandenburge."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

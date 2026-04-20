@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Karo būklė
 
 ## Santrauka
-Šaltinyje „Karo būklė“ vartojama taip: Nepaprastosios padėties arba karo padėties režimas. (t-001)
+Nepaprastosios padėties arba karo padėties režimas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Karo būklė
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: politinė administracija, nepap
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Karo būklė“ vartojama taip: Nepaprastosios padėties arba karo padėties režimas."
+  teiginys: "Nepaprastosios padėties arba karo padėties režimas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -35,7 +35,7 @@ patikimumas: "aukstas"
 # Livonija
 
 ## Santrauka
-Šaltinyje vieta „Livonija“ siejama su šiais kontekstais: Minima kaip kraštas, kuriame įsitvirtino vokiečių valstybė ir ordinas; Livonija minima kaip teritorija, suskaldyta tarp kelių valstybių ir tapusi karo bei pasidalinimo objektu. (t-001, t-002)
+Minima kaip kraštas, kuriame įsitvirtino vokiečių valstybė ir ordinas; Livonija minima kaip teritorija, suskaldyta tarp kelių valstybių ir tapusi karo bei pasidalinimo objektu. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Livonija
@@ -56,13 +56,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Livonija“ siejama su šiuo kontekstu: Minima kaip kraštas, kuriame įsitvirtino vokiečių valstybė ir ordinas."
+  teiginys: "Minima kaip kraštas, kuriame įsitvirtino vokiečių valstybė ir ordinas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Livonija“ siejama su šiuo kontekstu: Livonija minima kaip teritorija, suskaldyta tarp kelių valstybių ir tapusi karo bei pasidalinimo objektu."
+  teiginys: "Livonija minima kaip teritorija, suskaldyta tarp kelių valstybių ir tapusi karo bei pasidalinimo objektu."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

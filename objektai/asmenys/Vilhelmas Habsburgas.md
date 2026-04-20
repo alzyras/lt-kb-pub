@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Vilhelmas Habsburgas
 
 ## Santrauka
-Šaltinyje Vilhelmas Habsburgas apibūdinamas taip: Liudviko duktė, sužadėta su Zigmantu.
+Liudviko duktė, sužadėta su Zigmantu.
 
 ## Variantai
 - Habsburgu
@@ -37,7 +37,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Vilhelmas Habsburgas apibūdinamas taip: Liudviko duktė, sužadėta su Zigmantu."
+  teiginys: "Liudviko duktė, sužadėta su Zigmantu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

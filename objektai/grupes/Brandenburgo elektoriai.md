@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Brandenburgo elektoriai
 
 ## Santrauka
-Šaltinyje „Brandenburgo elektoriai“ apibūdinama kaip elektoriai; po Albrechto sūnaus mirties Prūsai atiteko Brandenburgo elektoriams, iš kurių vėliau išaugo galinga Prūsų karalystė. (t-001)
+elektoriai; po Albrechto sūnaus mirties Prūsai atiteko Brandenburgo elektoriams, iš kurių vėliau išaugo galinga Prūsų karalystė. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Brandenburgo elektoriai
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: elektoriai
-Šaltinyje „Brandenburgo elektoriai“ apibūdinama kaip elektoriai; po Albrechto sūnaus mirties Prūsai atiteko Brandenburgo elektoriams, iš kurių vėliau išaugo galinga Prūsų karalystė. (t-001)
+elektoriai; po Albrechto sūnaus mirties Prūsai atiteko Brandenburgo elektoriams, iš kurių vėliau išaugo galinga Prūsų karalystė. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Brandenburgo elektoriai“ apibūdinama kaip elektoriai; po Albrechto sūnaus mirties Prūsai atiteko Brandenburgo elektoriams, iš kurių vėliau išaugo galinga Prūsų karalystė. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Brandenburgo elektoriai“ apibūdinama kaip elektoriai; po Albrechto sūnaus mirties Prūsai atiteko Brandenburgo elektoriams, iš kurių vėliau išaugo galinga Prūsų karalystė."
+  teiginys: "elektoriai; po Albrechto sūnaus mirties Prūsai atiteko Brandenburgo elektoriams, iš kurių vėliau išaugo galinga Prūsų karalystė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

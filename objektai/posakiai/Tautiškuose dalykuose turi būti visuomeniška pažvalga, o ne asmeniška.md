@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Tautiškuose dalykuose turi būti visuomeniška pažvalga, o ne asmeniška
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Tautiškuose dalykuose turi būti visuomeniška pažvalga, o ne asmeniška“; kontekstas: Burba gina Šliūpo parašytus lietuvystei naudingus tekstus ir suformuluoja principą, kad tautiniuose dalykuose svarbesnė visuomeninė negu asmeninė nuostata. Reikšmė: Trumpa moralinė formulė apie tautinį veikimą ir viešą naudą. (t-001)
+Užfiksuota formuluotė „Tautiškuose dalykuose turi būti visuomeniška pažvalga, o ne asmeniška“; kontekstas: Burba gina Šliūpo parašytus lietuvystei naudingus tekstus ir suformuluoja principą, kad tautiniuose dalykuose svarbesnė visuomeninė negu asmeninė nuostata. Reikšmė: Trumpa moralinė formulė apie tautinį veikimą ir viešą naudą. (t-001)
 
 ## Forma
 - pagrindinė forma: Tautiškuose dalykuose turi būti visuomeniška pažvalga, o ne asmeniška (t-001)
@@ -35,7 +35,7 @@ patikimumas: "vidutinis"
 - tautiškuose dalykuose turi būti visuomeniška pažvalga, o ne asmeniška
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Burba gina Šliūpo parašytus lietuvystei naudingus tekstus ir suformuluoja principą, kad tautiniuose dalykuose svarbesnė visuomeninė negu asmeninė nuostata. (t-001)
@@ -45,7 +45,7 @@ Trumpa moralinė formulė apie tautinį veikimą ir viešą naudą. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Tautiškuose dalykuose turi būti visuomeniška pažvalga, o ne asmeniška“; kontekstas: Burba gina Šliūpo parašytus lietuvystei naudingus tekstus ir suformuluoja principą, kad tautiniuose dalykuose svarbesnė visuomeninė negu asmeninė nuostata."
+  teiginys: "Užfiksuota formuluotė „Tautiškuose dalykuose turi būti visuomeniška pažvalga, o ne asmeniška“; kontekstas: Burba gina Šliūpo parašytus lietuvystei naudingus tekstus ir suformuluoja principą, kad tautiniuose dalykuose svarbesnė visuomeninė negu asmeninė nuostata."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Filaretų Draugija
 
 ## Santrauka
-Šaltinyje „Filaretų Draugija“ apibūdinama kaip slapta studentų draugija; filaretų Draugija minima kaip vėliau įkurta, į platesnį narių ratą orientuota studentų draugija, kurios tikslas buvo mokslas, draugiškumas ir tėvynės meilė. (t-001)
+slapta studentų draugija; filaretų Draugija minima kaip vėliau įkurta, į platesnį narių ratą orientuota studentų draugija, kurios tikslas buvo mokslas, draugiškumas ir tėvynės meilė. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Filaretų Draugija
@@ -40,14 +40,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: slapta studentų draugija
-Šaltinyje „Filaretų Draugija“ apibūdinama kaip slapta studentų draugija; filaretų Draugija minima kaip vėliau įkurta, į platesnį narių ratą orientuota studentų draugija, kurios tikslas buvo mokslas, draugiškumas ir tėvynės meilė. (t-001)
+slapta studentų draugija; filaretų Draugija minima kaip vėliau įkurta, į platesnį narių ratą orientuota studentų draugija, kurios tikslas buvo mokslas, draugiškumas ir tėvynės meilė. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Filaretų Draugija“ apibūdinama kaip slapta studentų draugija; filaretų Draugija minima kaip vėliau įkurta, į platesnį narių ratą orientuota studentų draugija, kurios tikslas buvo mokslas, draugiškumas ir tėvynės meilė. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Filaretų Draugija“ apibūdinama kaip slapta studentų draugija; filaretų Draugija minima kaip vėliau įkurta, į platesnį narių ratą orientuota studentų draugija, kurios tikslas buvo mokslas, draugiškumas ir tėvynės meilė."
+  teiginys: "slapta studentų draugija; filaretų Draugija minima kaip vėliau įkurta, į platesnį narių ratą orientuota studentų draugija, kurios tikslas buvo mokslas, draugiškumas ir tėvynės meilė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Henrikas Valua
 
 ## Santrauka
-Šaltinyje Henrikas Valua apibūdinamas taip: Įvardytas pirmosios elekcijos skyriuje.
+Įvardytas pirmosios elekcijos skyriuje.
 
 ## Laikotarpis ir datos
 - laikotarpis: 1573–1574 m.
@@ -38,7 +38,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Henrikas Valua apibūdinamas taip: Įvardytas pirmosios elekcijos skyriuje."
+  teiginys: "Įvardytas pirmosios elekcijos skyriuje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

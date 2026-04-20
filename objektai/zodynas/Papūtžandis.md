@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Papūtžandis
 
 ## Santrauka
-Šaltinyje „Papūtžandis“ vartojama taip: Paniekinamas pravardžiuojantis žodis arba kreipinys. (t-001)
+Paniekinamas pravardžiuojantis žodis arba kreipinys. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Papūtžandis
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: poleminė publicistika, pravard
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Papūtžandis“ vartojama taip: Paniekinamas pravardžiuojantis žodis arba kreipinys."
+  teiginys: "Paniekinamas pravardžiuojantis žodis arba kreipinys."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

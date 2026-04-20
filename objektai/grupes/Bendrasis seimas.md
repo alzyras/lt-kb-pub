@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Bendrasis seimas
 
 ## Santrauka
-Šaltinyje „Bendrasis seimas“ apibūdinama kaip seimas; bendrasis seimas šiame gabale aprašomas kaip bendra lietuvių ir lenkų posėdžių erdvė, kurioje abi pusės derindavo nutarimus. (t-001)
+seimas; bendrasis seimas šiame gabale aprašomas kaip bendra lietuvių ir lenkų posėdžių erdvė, kurioje abi pusės derindavo nutarimus. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Bendrasis seimas
@@ -38,14 +38,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: seimas
-Šaltinyje „Bendrasis seimas“ apibūdinama kaip seimas; bendrasis seimas šiame gabale aprašomas kaip bendra lietuvių ir lenkų posėdžių erdvė, kurioje abi pusės derindavo nutarimus. (t-001)
+seimas; bendrasis seimas šiame gabale aprašomas kaip bendra lietuvių ir lenkų posėdžių erdvė, kurioje abi pusės derindavo nutarimus. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Bendrasis seimas“ apibūdinama kaip seimas; bendrasis seimas šiame gabale aprašomas kaip bendra lietuvių ir lenkų posėdžių erdvė, kurioje abi pusės derindavo nutarimus. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Bendrasis seimas“ apibūdinama kaip seimas; bendrasis seimas šiame gabale aprašomas kaip bendra lietuvių ir lenkų posėdžių erdvė, kurioje abi pusės derindavo nutarimus."
+  teiginys: "seimas; bendrasis seimas šiame gabale aprašomas kaip bendra lietuvių ir lenkų posėdžių erdvė, kurioje abi pusės derindavo nutarimus."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

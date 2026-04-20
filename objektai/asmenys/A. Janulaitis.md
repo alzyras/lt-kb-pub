@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # A. Janulaitis
 
 ## Santrauka
-Šaltinyje A. Janulaitis apibūdinamas taip: Minimas kaip Komiteto narys.
+Minimas kaip Komiteto narys.
 
 ## Variantai
 - A. Janulaičiu
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje A. Janulaitis apibūdinamas taip: Minimas kaip Komiteto narys."
+  teiginys: "Minimas kaip Komiteto narys."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

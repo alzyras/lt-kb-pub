@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Patriarchas
 
 ## Santrauka
-Šaltinyje „Patriarchas“ vartojama taip: Aukščiausias Rytų Bažnyčios vadovas arba patriarchas. (t-001)
+Aukščiausias Rytų Bažnyčios vadovas arba patriarchas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Patriarchas
@@ -50,7 +50,7 @@ Terminas šaltinyje vartojamas šiame kontekste: bažnytinė hierarchija, Rytų 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Patriarchas“ vartojama taip: Aukščiausias Rytų Bažnyčios vadovas arba patriarchas."
+  teiginys: "Aukščiausias Rytų Bažnyčios vadovas arba patriarchas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

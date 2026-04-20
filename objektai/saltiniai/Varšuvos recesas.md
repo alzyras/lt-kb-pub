@@ -43,7 +43,7 @@ patikimumas: "aukstas"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Varšuvos recesas“ siejamas su šiuo kontekstu: Tekstas aiškina, kad Varšuvos seime nebaigtų klausimų perkėlimas į kitą seimą buvo vadinamas recesu. Šis konkretus dokumentinis sprendimas įvardijamas kaip Varšuvos recesas.
+Tekstas aiškina, kad Varšuvos seime nebaigtų klausimų perkėlimas į kitą seimą buvo vadinamas recesu. Šis konkretus dokumentinis sprendimas įvardijamas kaip Varšuvos recesas.
 
 ## Ryšiai
 
@@ -52,7 +52,7 @@ patikimumas: "aukstas"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Varšuvos recesas“ siejamas su šiuo kontekstu: Tekstas aiškina, kad Varšuvos seime nebaigtų klausimų perkėlimas į kitą seimą buvo vadinamas recesu. Šis konkretus dokumentinis sprendimas įvardijamas kaip Varšuvos recesas."
+  teiginys: "Tekstas aiškina, kad Varšuvos seime nebaigtų klausimų perkėlimas į kitą seimą buvo vadinamas recesu. Šis konkretus dokumentinis sprendimas įvardijamas kaip Varšuvos recesas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

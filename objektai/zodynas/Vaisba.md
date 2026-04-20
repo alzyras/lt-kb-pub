@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Vaisba
 
 ## Santrauka
-Šaltinyje „Vaisba“ vartojama taip: Prekyba; vaisbūnas — pirklys. (t-001)
+Prekyba; vaisbūnas — pirklys. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Vaisba
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: prekyba, senoji lietuvių leksi
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Vaisba“ vartojama taip: Prekyba; vaisbūnas — pirklys."
+  teiginys: "Prekyba; vaisbūnas — pirklys."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Starodubas
 
 ## Santrauka
-Šaltinyje vieta „Starodubas“ siejama su šiuo kontekstu: Miestas minimas kartu su Homeliu ir Černigovu kaip Maskvai likusi vieta. (t-001)
+Miestas minimas kartu su Homeliu ir Černigovu kaip Maskvai likusi vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Starodubas
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Starodubas“ siejama su šiuo kontekstu: Miestas minimas kartu su Homeliu ir Černigovu kaip Maskvai likusi vieta."
+  teiginys: "Miestas minimas kartu su Homeliu ir Černigovu kaip Maskvai likusi vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

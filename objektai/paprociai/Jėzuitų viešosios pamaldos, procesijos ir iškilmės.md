@@ -26,21 +26,20 @@ patikimumas: "vidutinis"
 # Jėzuitų viešosios pamaldos, procesijos ir iškilmės
 
 ## Santrauka
-Šaltinyje minima praktika „Jėzuitų viešosios pamaldos, procesijos ir iškilmės“ siejama su formuluote: gražiomis iškilmingomis pamaldomis, visokiomis procesijomis ir iškilmėmis. Šaltinio kontekste nurodoma: kas atlieka: jėzuitai. (t-001)
+gražiomis iškilmingomis pamaldomis, visokiomis procesijomis ir iškilmėmis. Šaltinio kontekste nurodoma: kas atlieka: jėzuitai. (t-001)
 
 ## Pavadinimai šaltiniuose
 - gražiomis iškilmingomis pamaldomis, visokiomis procesijomis ir iškilmėmis
 
 ## Kas tai
-Šaltinyje minima praktika „Jėzuitų viešosios pamaldos, procesijos ir iškilmės“ siejama su formuluote: gražiomis iškilmingomis pamaldomis, visokiomis procesijomis ir iškilmėmis. Šaltinio kontekste nurodoma: kas atlieka: jėzuitai. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: jėzuitai (t-001)
 - kaip atliekama: gražiomis iškilmingomis pamaldomis, visokiomis procesijomis ir iškilmėmis (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Jėzuitų viešosios pamaldos, procesijos ir iškilmės“ siejama su formuluote: gražiomis iškilmingomis pamaldomis, visokiomis procesijomis ir iškilmėmis. Šaltinio kontekste nurodoma: kas atlieka: jėzuitai."
+  teiginys: "gražiomis iškilmingomis pamaldomis, visokiomis procesijomis ir iškilmėmis. Šaltinio kontekste nurodoma: kas atlieka: jėzuitai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

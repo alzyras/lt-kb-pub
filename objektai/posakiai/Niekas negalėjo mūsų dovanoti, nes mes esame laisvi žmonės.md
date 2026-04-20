@@ -30,7 +30,7 @@ patikimumas: "vidutinis"
 # Niekas negalėjo mūsų dovanoti, nes mes esame laisvi žmonės
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Niekas negalėjo mūsų dovanoti, nes mes esame laisvi žmonės“; kontekstas: Mikalojus Radvila derybose su lenkais griežtai atmeta mintį, kad Lietuva galėtų būti kieno nors „padovanota“. Reikšmė: Ryški politinė deklaracija apie laisvų žmonių nepadovanojamumą ir pasipriešinimą pavergimui. (t-001)
+Užfiksuota formuluotė „Niekas negalėjo mūsų dovanoti, nes mes esame laisvi žmonės“; kontekstas: Mikalojus Radvila derybose su lenkais griežtai atmeta mintį, kad Lietuva galėtų būti kieno nors „padovanota“. Reikšmė: Ryški politinė deklaracija apie laisvų žmonių nepadovanojamumą ir pasipriešinimą pavergimui. (t-001)
 
 ## Forma
 - pagrindinė forma: Niekas negalėjo mūsų dovanoti, nes mes esame laisvi žmonės (t-001)
@@ -53,7 +53,7 @@ Ryški politinė deklaracija apie laisvų žmonių nepadovanojamumą ir pasiprie
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Niekas negalėjo mūsų dovanoti, nes mes esame laisvi žmonės“; kontekstas: Mikalojus Radvila derybose su lenkais griežtai atmeta mintį, kad Lietuva galėtų būti kieno nors „padovanota“."
+  teiginys: "Užfiksuota formuluotė „Niekas negalėjo mūsų dovanoti, nes mes esame laisvi žmonės“; kontekstas: Mikalojus Radvila derybose su lenkais griežtai atmeta mintį, kad Lietuva galėtų būti kieno nors „padovanota“."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

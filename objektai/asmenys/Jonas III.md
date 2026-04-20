@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Jonas III
 
 ## Santrauka
-Šaltinyje Jonas III apibūdinamas taip: Maskvos galybės pradžios valdovas, pradėjęs spausti Lietuvą.
+Maskvos galybės pradžios valdovas, pradėjęs spausti Lietuvą.
 
 ## Variantai
 - Jono III-jo
@@ -45,7 +45,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Jonas III apibūdinamas taip: Maskvos galybės pradžios valdovas, pradėjęs spausti Lietuvą."
+  teiginys: "Maskvos galybės pradžios valdovas, pradėjęs spausti Lietuvą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

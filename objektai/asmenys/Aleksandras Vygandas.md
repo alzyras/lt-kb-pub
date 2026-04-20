@@ -23,11 +23,11 @@ patikimumas: "aukstas"
 # Aleksandras Vygandas
 
 ## Santrauka
-Šaltinyje Aleksandras Vygandas apibūdinamas taip: Jogailos brolis, trumpai numatytas Lietuvos vietininku.
+Jogailos brolis, trumpai numatytas Lietuvos vietininku.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Aleksandras Vygandas apibūdinamas taip: Jogailos brolis, trumpai numatytas Lietuvos vietininku."
+  teiginys: "Jogailos brolis, trumpai numatytas Lietuvos vietininku."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

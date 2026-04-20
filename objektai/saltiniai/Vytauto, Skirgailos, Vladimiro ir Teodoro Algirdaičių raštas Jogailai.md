@@ -36,7 +36,7 @@ patikimumas: "aukstas"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Vytauto, Skirgailos, Vladimiro ir Teodoro Algirdaičių raštas Jogailai“ tai Krokuvoje rašytas laiduojamasis raštas, susijęs su Andriaus paleidimu iš nelaisvės.
+tai Krokuvoje rašytas laiduojamasis raštas, susijęs su Andriaus paleidimu iš nelaisvės.
 
 ## Ryšiai
 
@@ -45,7 +45,7 @@ patikimumas: "aukstas"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Vytauto, Skirgailos, Vladimiro ir Teodoro Algirdaičių raštas Jogailai“ tai Krokuvoje rašytas laiduojamasis raštas, susijęs su Andriaus paleidimu iš nelaisvės."
+  teiginys: "tai Krokuvoje rašytas laiduojamasis raštas, susijęs su Andriaus paleidimu iš nelaisvės."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

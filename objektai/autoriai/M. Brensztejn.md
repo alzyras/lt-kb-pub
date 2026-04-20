@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # M. Brensztejn
 
 ## Santrauka
-Šaltinyje M. Brensztejn minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip veikalų apie Dionizą Paszkiewiczių autorius.
+Minimas kaip veikalų apie Dionizą Paszkiewiczių autorius.
 
 ## Darbai
 - Minimas kaip veikalų apie Dionizą Paszkiewiczių autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje M. Brensztejn autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip veikalų apie Dionizą Paszkiewiczių autorius."
+  teiginys: "Minimas kaip veikalų apie Dionizą Paszkiewiczių autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

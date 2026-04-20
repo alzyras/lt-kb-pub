@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Iš praeities Tavo sūnūs te stiprybę semia
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Iš praeities Tavo sūnūs te stiprybę semia“; kontekstas: Čia pateikiama kaip Kudirkos įrašyta eilutė į himną, siejama su tautos praeities stiprybe. Reikšmė: Tautiškai skambanti, plačiai atpažįstama formulė apie stiprybės semimąsi iš praeities. (t-001)
+Užfiksuota formuluotė „Iš praeities Tavo sūnūs te stiprybę semia“; kontekstas: Čia pateikiama kaip Kudirkos įrašyta eilutė į himną, siejama su tautos praeities stiprybe. Reikšmė: Tautiškai skambanti, plačiai atpažįstama formulė apie stiprybės semimąsi iš praeities. (t-001)
 
 ## Forma
 - pagrindinė forma: Iš praeities Tavo sūnūs te stiprybę semia (t-001)
@@ -34,7 +34,7 @@ patikimumas: "aukstas"
 - Iš praeities Tavo sūnūs te stiprybę semia
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Čia pateikiama kaip Kudirkos įrašyta eilutė į himną, siejama su tautos praeities stiprybe. (t-001)
@@ -44,7 +44,7 @@ Tautiškai skambanti, plačiai atpažįstama formulė apie stiprybės semimąsi 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Iš praeities Tavo sūnūs te stiprybę semia“; kontekstas: Čia pateikiama kaip Kudirkos įrašyta eilutė į himną, siejama su tautos praeities stiprybe."
+  teiginys: "Užfiksuota formuluotė „Iš praeities Tavo sūnūs te stiprybę semia“; kontekstas: Čia pateikiama kaip Kudirkos įrašyta eilutė į himną, siejama su tautos praeities stiprybe."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

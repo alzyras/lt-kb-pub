@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Silezija
 
 ## Santrauka
-Šaltinyje vieta „Silezija“ siejama su šiuo kontekstu: Silezija minima kaip ankstesnės Zigmanto patirties erdvė. (t-001)
+Silezija minima kaip ankstesnės Zigmanto patirties erdvė. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Silezija
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Silezija“ siejama su šiuo kontekstu: Silezija minima kaip ankstesnės Zigmanto patirties erdvė."
+  teiginys: "Silezija minima kaip ankstesnės Zigmanto patirties erdvė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

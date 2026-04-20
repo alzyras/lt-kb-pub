@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Hanza
 
 ## Santrauka
-Šaltinyje „Hanza“ apibūdinama kaip miestų sąjunga; ši sąjunga įvardyta kaip jėga, kuri XIII amžiuje perėmė šiaurinės Europos prekybą į savo rankas. (t-001)
+miestų sąjunga; ši sąjunga įvardyta kaip jėga, kuri XIII amžiuje perėmė šiaurinės Europos prekybą į savo rankas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Hanza
@@ -46,14 +46,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: miestų sąjunga
-Šaltinyje „Hanza“ apibūdinama kaip miestų sąjunga; ši sąjunga įvardyta kaip jėga, kuri XIII amžiuje perėmė šiaurinės Europos prekybą į savo rankas. (t-001)
+miestų sąjunga; ši sąjunga įvardyta kaip jėga, kuri XIII amžiuje perėmė šiaurinės Europos prekybą į savo rankas. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Hanza“ apibūdinama kaip miestų sąjunga; ši sąjunga įvardyta kaip jėga, kuri XIII amžiuje perėmė šiaurinės Europos prekybą į savo rankas. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Hanza“ apibūdinama kaip miestų sąjunga; ši sąjunga įvardyta kaip jėga, kuri XIII amžiuje perėmė šiaurinės Europos prekybą į savo rankas."
+  teiginys: "miestų sąjunga; ši sąjunga įvardyta kaip jėga, kuri XIII amžiuje perėmė šiaurinės Europos prekybą į savo rankas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -33,7 +33,7 @@ patikimumas: "vidutinis"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Zigmanto geležinis raštas“ minimas imperatoriaus Zigmanto duotas apsaugos ar laidavimo pobūdžio dokumentas Huso kelionei į Konstancą.
+minimas imperatoriaus Zigmanto duotas apsaugos ar laidavimo pobūdžio dokumentas Huso kelionei į Konstancą.
 
 ## Ryšiai
 
@@ -42,7 +42,7 @@ patikimumas: "vidutinis"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Zigmanto geležinis raštas“ minimas imperatoriaus Zigmanto duotas apsaugos ar laidavimo pobūdžio dokumentas Huso kelionei į Konstancą."
+  teiginys: "minimas imperatoriaus Zigmanto duotas apsaugos ar laidavimo pobūdžio dokumentas Huso kelionei į Konstancą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Piltenė
 
 ## Santrauka
-Šaltinyje vieta „Piltenė“ siejama su šiuo kontekstu: Piltenė minima kaip Danų valdytos Kuršo žemės pavadinimas. (t-001)
+Piltenė minima kaip Danų valdytos Kuršo žemės pavadinimas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Piltenė
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Piltenė“ siejama su šiuo kontekstu: Piltenė minima kaip Danų valdytos Kuršo žemės pavadinimas."
+  teiginys: "Piltenė minima kaip Danų valdytos Kuršo žemės pavadinimas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

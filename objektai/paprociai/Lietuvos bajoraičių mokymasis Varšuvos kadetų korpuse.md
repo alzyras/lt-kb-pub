@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Lietuvos bajoraičių mokymasis Varšuvos kadetų korpuse
 
 ## Santrauka
-Šaltinyje minima praktika „Lietuvos bajoraičių mokymasis Varšuvos kadetų korpuse“ siejama su formuluote: visi žymesnieji bajoraičiai vyko tenai mokytis. Šaltinio kontekste nurodoma: kas atlieka: žymesnieji Lietuvos bajoraičiai; kada atliekama: Stanislovo Augusto laikais, kai įkurtas Varšuvos kadetų korpusas. (t-001)
+visi žymesnieji bajoraičiai vyko tenai mokytis. Šaltinio kontekste nurodoma: kas atlieka: žymesnieji Lietuvos bajoraičiai; kada atliekama: Stanislovo Augusto laikais, kai įkurtas Varšuvos kadetų korpusas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - visi žymesnieji bajoraičiai vyko tenai mokytis
@@ -39,8 +39,7 @@ patikimumas: "vidutinis"
 - amziai: XVIII (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Lietuvos bajoraičių mokymasis Varšuvos kadetų korpuse“ siejama su formuluote: visi žymesnieji bajoraičiai vyko tenai mokytis. Šaltinio kontekste nurodoma: kas atlieka: žymesnieji Lietuvos bajoraičiai; kada atliekama: Stanislovo Augusto laikais, kai įkurtas Varšuvos kadetų korpusas. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: žymesnieji Lietuvos bajoraičiai (t-001)
 - kada atliekama: Stanislovo Augusto laikais, kai įkurtas Varšuvos kadetų korpusas (t-001)
@@ -48,7 +47,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Lietuvos bajoraičių mokymasis Varšuvos kadetų korpuse“ siejama su formuluote: visi žymesnieji bajoraičiai vyko tenai mokytis. Šaltinio kontekste nurodoma: kas atlieka: žymesnieji Lietuvos bajoraičiai; kada atliekama: Stanislovo Augusto laikais, kai įkurtas Varšuvos kadetų korpusas."
+  teiginys: "visi žymesnieji bajoraičiai vyko tenai mokytis. Šaltinio kontekste nurodoma: kas atlieka: žymesnieji Lietuvos bajoraičiai; kada atliekama: Stanislovo Augusto laikais, kai įkurtas Varšuvos kadetų korpusas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

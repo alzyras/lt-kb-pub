@@ -32,7 +32,7 @@ patikimumas: "aukstas"
 # Herbas
 
 ## Santrauka
-Šaltinyje „Herbas“ vartojama taip: Giminės ar bajorų žymuo, heraldinis simbolis. (t-001)
+Giminės ar bajorų žymuo, heraldinis simbolis. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Herbas
@@ -55,7 +55,7 @@ Terminas šaltinyje vartojamas šiame kontekste: heraldika, bajorų kultūra. (t
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Herbas“ vartojama taip: Giminės ar bajorų žymuo, heraldinis simbolis."
+  teiginys: "Giminės ar bajorų žymuo, heraldinis simbolis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

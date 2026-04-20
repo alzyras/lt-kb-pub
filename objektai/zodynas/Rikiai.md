@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Rikiai
 
 ## Santrauka
-Šaltinyje „Rikiai“ vartojama taip: Senovės aisčių apylinkių vadai, aukštesnysis visuomenės sluoksnis. (t-001)
+Senovės aisčių apylinkių vadai, aukštesnysis visuomenės sluoksnis. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Rikiai
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: visuomenės sandara, valdžios 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Rikiai“ vartojama taip: Senovės aisčių apylinkių vadai, aukštesnysis visuomenės sluoksnis."
+  teiginys: "Senovės aisčių apylinkių vadai, aukštesnysis visuomenės sluoksnis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

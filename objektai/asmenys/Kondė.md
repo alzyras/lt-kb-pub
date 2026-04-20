@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Kondė
 
 ## Santrauka
-Šaltinyje Kondė apibūdinamas taip: Minimas kaip Prancūzijos kandidatas į Respublikos sostą.
+Minimas kaip Prancūzijos kandidatas į Respublikos sostą.
 
 ## Variantai
 - Condė
@@ -33,7 +33,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Kondė apibūdinamas taip: Minimas kaip Prancūzijos kandidatas į Respublikos sostą."
+  teiginys: "Minimas kaip Prancūzijos kandidatas į Respublikos sostą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Tautvilas
 
 ## Santrauka
-Šaltinyje Tautvilas apibūdinamas taip: Mindaugo brolėnas, pabėgęs pas Danielių ir įtrauktas į sąjungą prieš Mindaugą.
+Mindaugo brolėnas, pabėgęs pas Danielių ir įtrauktas į sąjungą prieš Mindaugą.
 
 ## Variantai
 - Tautvilo
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Tautvilas apibūdinamas taip: Mindaugo brolėnas, pabėgęs pas Danielių ir įtrauktas į sąjungą prieš Mindaugą."
+  teiginys: "Mindaugo brolėnas, pabėgęs pas Danielių ir įtrauktas į sąjungą prieš Mindaugą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

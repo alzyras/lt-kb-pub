@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Persija
 
 ## Santrauka
-Šaltinyje vieta „Persija“ siejama su šiuo kontekstu: Minima kaip šalis, kurioje po Kaukazo ir Turkestano atsidūrė dalis lietuvių. (t-001)
+Minima kaip šalis, kurioje po Kaukazo ir Turkestano atsidūrė dalis lietuvių. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Persija
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Persija“ siejama su šiuo kontekstu: Minima kaip šalis, kurioje po Kaukazo ir Turkestano atsidūrė dalis lietuvių."
+  teiginys: "Minima kaip šalis, kurioje po Kaukazo ir Turkestano atsidūrė dalis lietuvių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

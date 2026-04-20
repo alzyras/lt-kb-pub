@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # E. Tiškevičius
 
 ## Santrauka
-Šaltinyje E. Tiškevičius apibūdinamas taip: Grafas, Vilniaus katedroje pastatęs naują paminklą Vytautui.
+Grafas, Vilniaus katedroje pastatęs naują paminklą Vytautui.
 
 ## Laikotarpis ir datos
 - laikotarpis: 1853 m. paminėjimas
@@ -38,7 +38,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje E. Tiškevičius apibūdinamas taip: Grafas, Vilniaus katedroje pastatęs naują paminklą Vytautui."
+  teiginys: "Grafas, Vilniaus katedroje pastatęs naują paminklą Vytautui."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

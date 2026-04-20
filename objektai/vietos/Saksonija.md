@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Saksonija
 
 ## Santrauka
-Šaltinyje vieta „Saksonija“ siejama su šiuo kontekstu: Minima kaip vieta, į kurią buvo norėta grąžinti karaliaus kariuomenę. (t-001)
+Minima kaip vieta, į kurią buvo norėta grąžinti karaliaus kariuomenę. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Saksonija
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Saksonija“ siejama su šiuo kontekstu: Minima kaip vieta, į kurią buvo norėta grąžinti karaliaus kariuomenę."
+  teiginys: "Minima kaip vieta, į kurią buvo norėta grąžinti karaliaus kariuomenę."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

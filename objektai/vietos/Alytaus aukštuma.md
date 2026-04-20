@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Alytaus aukštuma
 
 ## Santrauka
-Šaltinyje vieta „Alytaus aukštuma“ siejama su šiuo kontekstu: Aukštuma minima kaip geografinė kliūtis Nemuno vagos raidoje. (t-001)
+Aukštuma minima kaip geografinė kliūtis Nemuno vagos raidoje. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Alytaus aukštuma
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Alytaus aukštuma“ siejama su šiuo kontekstu: Aukštuma minima kaip geografinė kliūtis Nemuno vagos raidoje."
+  teiginys: "Aukštuma minima kaip geografinė kliūtis Nemuno vagos raidoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

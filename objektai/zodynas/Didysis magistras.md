@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Didysis magistras
 
 ## Santrauka
-Šaltinyje „Didysis magistras“ vartojama taip: Aukščiausias ordino vadovas. (t-001)
+Aukščiausias ordino vadovas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Didysis magistras
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: ordino administracija, viduram�
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Didysis magistras“ vartojama taip: Aukščiausias ordino vadovas."
+  teiginys: "Aukščiausias ordino vadovas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

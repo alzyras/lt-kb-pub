@@ -32,7 +32,7 @@ patikimumas: "aukstas"
 # Tautosaka
 
 ## Santrauka
-Šaltinyje „Tautosaka“ vartojama taip: Žodžiu perduodama tautos kūryba, kurią sudaro padavimai, dainos, pasakos, burtai ir prietarai; Tautosaka, papročiai, apeigos, padavimai, dainos ir panašūs dvasinės kultūros likučiai. (t-001)
+Žodžiu perduodama tautos kūryba, kurią sudaro padavimai, dainos, pasakos, burtai ir prietarai; Tautosaka, papročiai, apeigos, padavimai, dainos ir panašūs dvasinės kultūros likučiai. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Tautosaka
@@ -56,7 +56,7 @@ Terminas šaltinyje vartojamas šiame kontekste: istorijos šaltiniai, tautosako
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Tautosaka“ vartojama taip: Žodžiu perduodama tautos kūryba, kurią sudaro padavimai, dainos, pasakos, burtai ir prietarai; Tautosaka, papročiai, apeigos, padavimai, dainos ir panašūs dvasinės kultūros likučiai."
+  teiginys: "Žodžiu perduodama tautos kūryba, kurią sudaro padavimai, dainos, pasakos, burtai ir prietarai; Tautosaka, papročiai, apeigos, padavimai, dainos ir panašūs dvasinės kultūros likučiai."
   pagrindžia:
     - c-001
     - c-002

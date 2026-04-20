@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Lenas
 
 ## Santrauka
-Šaltinyje „Lenas“ vartojama taip: Feodalinė priklausomybė arba vasalo statusas aukštesniam valdovui. (t-001)
+Feodalinė priklausomybė arba vasalo statusas aukštesniam valdovui. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Lenas
@@ -52,7 +52,7 @@ Terminas šaltinyje vartojamas šiame kontekste: feodaliniai santykiai, valdžio
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Lenas“ vartojama taip: Feodalinė priklausomybė arba vasalo statusas aukštesniam valdovui."
+  teiginys: "Feodalinė priklausomybė arba vasalo statusas aukštesniam valdovui."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

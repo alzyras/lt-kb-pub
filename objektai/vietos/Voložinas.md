@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Voložinas
 
 ## Santrauka
-Šaltinyje vieta „Voložinas“ siejama su šiuo kontekstu: Minimas kaip rytinės sienos linijos punktas. (t-001)
+Minimas kaip rytinės sienos linijos punktas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Voložinas
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Voložinas“ siejama su šiuo kontekstu: Minimas kaip rytinės sienos linijos punktas."
+  teiginys: "Minimas kaip rytinės sienos linijos punktas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Vakarų Europa
 
 ## Santrauka
-Šaltinyje vieta „Vakarų Europa“ siejama su šiuo kontekstu: Minima kaip regionas, kurio universitetus lietuviai po krikšto pradėjo lankyti. (t-001)
+Minima kaip regionas, kurio universitetus lietuviai po krikšto pradėjo lankyti. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Vakarų Europa
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Vakarų Europa“ siejama su šiuo kontekstu: Minima kaip regionas, kurio universitetus lietuviai po krikšto pradėjo lankyti."
+  teiginys: "Minima kaip regionas, kurio universitetus lietuviai po krikšto pradėjo lankyti."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Taikos tarpininkas
 
 ## Santrauka
-Šaltinyje „Taikos tarpininkas“ vartojama taip: valstiečių savivaldybių priežiūros pareigūnas. (t-001)
+valstiečių savivaldybių priežiūros pareigūnas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Taikos tarpininkas
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: vietos administracija, savivald
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Taikos tarpininkas“ vartojama taip: valstiečių savivaldybių priežiūros pareigūnas."
+  teiginys: "valstiečių savivaldybių priežiūros pareigūnas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

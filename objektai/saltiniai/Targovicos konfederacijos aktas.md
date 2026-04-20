@@ -39,7 +39,7 @@ patikimumas: "vidutinis"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Targovicos konfederacijos aktas“ tai dokumentas, kuriuo Targovicoje paskelbta konfederacija prieš reformas ir kuriuo remiantis vėliau rėmėsi sukilimo priešingų jėgų veiksmai.
+tai dokumentas, kuriuo Targovicoje paskelbta konfederacija prieš reformas ir kuriuo remiantis vėliau rėmėsi sukilimo priešingų jėgų veiksmai.
 
 ## Ryšiai
 
@@ -48,7 +48,7 @@ patikimumas: "vidutinis"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Targovicos konfederacijos aktas“ tai dokumentas, kuriuo Targovicoje paskelbta konfederacija prieš reformas ir kuriuo remiantis vėliau rėmėsi sukilimo priešingų jėgų veiksmai."
+  teiginys: "tai dokumentas, kuriuo Targovicoje paskelbta konfederacija prieš reformas ir kuriuo remiantis vėliau rėmėsi sukilimo priešingų jėgų veiksmai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

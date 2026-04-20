@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Pravoslavija
 
 ## Santrauka
-Šaltinyje „Pravoslavija“ vartojama taip: Stačiatikybė, ortodoksų tikyba. (t-001)
+Stačiatikybė, ortodoksų tikyba. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Pravoslavija
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: religijos istorija, rusinimo po
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Pravoslavija“ vartojama taip: Stačiatikybė, ortodoksų tikyba."
+  teiginys: "Stačiatikybė, ortodoksų tikyba."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

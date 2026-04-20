@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 # Luckas
 
 ## Santrauka
-Šaltinyje vieta „Luckas“ siejama su šiais kontekstais: pas Vytautą Lucke apsilankęs kunigaikščio sūnus susižadėjo su Sofija; Minimas kaip vieta, kur Švitrigaila baigė gyvenimą. (t-001, t-002)
+pas Vytautą Lucke apsilankęs kunigaikščio sūnus susižadėjo su Sofija; Minimas kaip vieta, kur Švitrigaila baigė gyvenimą. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Luckas
@@ -55,19 +55,19 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Luckas“ siejama su šiuo kontekstu: pas Vytautą Lucke apsilankęs kunigaikščio sūnus susižadėjo su Sofija."
+  teiginys: "pas Vytautą Lucke apsilankęs kunigaikščio sūnus susižadėjo su Sofija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Luckas“ siejama su šiuo kontekstu: Minimas kaip vieta, kur Švitrigaila baigė gyvenimą."
+  teiginys: "Minimas kaip vieta, kur Švitrigaila baigė gyvenimą."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-003
-  teiginys: "Šaltinyje vieta „Luckas“ siejama su šiuo kontekstu: Minimas kaip Lucko vyskupo valdos miestas Brastos unijos pasakojime."
+  teiginys: "Minimas kaip Lucko vyskupo valdos miestas Brastos unijos pasakojime."
   pagrindžia:
     - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

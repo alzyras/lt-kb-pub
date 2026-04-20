@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Palivarkas
 
 ## Santrauka
-Šaltinyje „Palivarkas“ vartojama taip: Pagalbinis dvaro ūkis arba dvaro padalinys. (t-001)
+Pagalbinis dvaro ūkis arba dvaro padalinys. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Palivarkas
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: žemės ūkio istorija, dvarų 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Palivarkas“ vartojama taip: Pagalbinis dvaro ūkis arba dvaro padalinys."
+  teiginys: "Pagalbinis dvaro ūkis arba dvaro padalinys."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

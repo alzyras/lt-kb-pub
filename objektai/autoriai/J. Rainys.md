@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # J. Rainys
 
 ## Santrauka
-Šaltinyje J. Rainys minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip veikalo apie P. O. W. Lietuvoje autorius.
+Minimas kaip veikalo apie P. O. W. Lietuvoje autorius.
 
 ## Darbai
 - Minimas kaip veikalo apie P. O. W. Lietuvoje autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje J. Rainys autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip veikalo apie P. O. W. Lietuvoje autorius."
+  teiginys: "Minimas kaip veikalo apie P. O. W. Lietuvoje autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

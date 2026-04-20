@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Pustaleris
 
 ## Santrauka
-Šaltinyje „Pustaleris“ vartojama taip: pusė talerio vertės pinigas. (t-001)
+pusė talerio vertės pinigas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Pustaleris
@@ -54,7 +54,7 @@ Terminas šaltinyje vartojamas šiame kontekste: numizmatika, pinigų istorija. 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Pustaleris“ vartojama taip: pusė talerio vertės pinigas."
+  teiginys: "pusė talerio vertės pinigas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

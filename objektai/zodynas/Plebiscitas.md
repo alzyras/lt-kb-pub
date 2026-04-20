@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Plebiscitas
 
 ## Santrauka
-Šaltinyje „Plebiscitas“ vartojama taip: Balsavimu ar gyventojų atsiklausimu grindžiamas ginčo sprendimas. (t-001)
+Balsavimu ar gyventojų atsiklausimu grindžiamas ginčo sprendimas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Plebiscitas
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: tarptautinė teisė, Vilniaus k
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Plebiscitas“ vartojama taip: Balsavimu ar gyventojų atsiklausimu grindžiamas ginčo sprendimas."
+  teiginys: "Balsavimu ar gyventojų atsiklausimu grindžiamas ginčo sprendimas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

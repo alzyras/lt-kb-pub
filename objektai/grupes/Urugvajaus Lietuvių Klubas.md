@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Urugvajaus Lietuvių Klubas
 
 ## Santrauka
-Šaltinyje „Urugvajaus Lietuvių Klubas“ apibūdinama kaip klubas; montevidėjuje kun. T. Radžiaus rūpesčiu tautiškos organizacijos buvo sujungtos į vieną centrą, pavadintą Urugvajaus Lietuvių Klubu. (t-001)
+klubas; montevidėjuje kun. T. Radžiaus rūpesčiu tautiškos organizacijos buvo sujungtos į vieną centrą, pavadintą Urugvajaus Lietuvių Klubu. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Urugvajaus Lietuvių Klubas
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: klubas
-Šaltinyje „Urugvajaus Lietuvių Klubas“ apibūdinama kaip klubas; montevidėjuje kun. T. Radžiaus rūpesčiu tautiškos organizacijos buvo sujungtos į vieną centrą, pavadintą Urugvajaus Lietuvių Klubu. (t-001)
+klubas; montevidėjuje kun. T. Radžiaus rūpesčiu tautiškos organizacijos buvo sujungtos į vieną centrą, pavadintą Urugvajaus Lietuvių Klubu. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Urugvajaus Lietuvių Klubas“ apibūdinama kaip klubas; montevidėjuje kun. T. Radžiaus rūpesčiu tautiškos organizacijos buvo sujungtos į vieną centrą, pavadintą Urugvajaus Lietuvių Klubu. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Urugvajaus Lietuvių Klubas“ apibūdinama kaip klubas; montevidėjuje kun. T. Radžiaus rūpesčiu tautiškos organizacijos buvo sujungtos į vieną centrą, pavadintą Urugvajaus Lietuvių Klubu."
+  teiginys: "klubas; montevidėjuje kun. T. Radžiaus rūpesčiu tautiškos organizacijos buvo sujungtos į vieną centrą, pavadintą Urugvajaus Lietuvių Klubu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

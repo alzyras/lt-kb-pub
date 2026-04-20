@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Pagalvinis mokestis
 
 ## Santrauka
-Šaltinyje „Pagalvinis mokestis“ vartojama taip: Mokestis, kurį žydai mokėjo valstybei kaip atskirą prievolę. (t-001)
+Mokestis, kurį žydai mokėjo valstybei kaip atskirą prievolę. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Pagalvinis mokestis
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: mokesčių istorija, žydų ben
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Pagalvinis mokestis“ vartojama taip: Mokestis, kurį žydai mokėjo valstybei kaip atskirą prievolę."
+  teiginys: "Mokestis, kurį žydai mokėjo valstybei kaip atskirą prievolę."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # M. Toeppen
 
 ## Santrauka
-Šaltinyje M. Toeppen minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip Prūsijos geografinės istorijos autorius.
+Bibliografijoje nurodytas kaip Prūsijos geografinės istorijos autorius.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip Prūsijos geografinės istorijos autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje M. Toeppen autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip Prūsijos geografinės istorijos autorius."
+  teiginys: "Bibliografijoje nurodytas kaip Prūsijos geografinės istorijos autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

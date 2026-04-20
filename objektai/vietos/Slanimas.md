@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Slanimas
 
 ## Santrauka
-Šaltinyje vieta „Slanimas“ siejama su šiuo kontekstu: Minimas kaip Vaišvilkui atiduotas miestas po taikos su Voluine. (t-001)
+Minimas kaip Vaišvilkui atiduotas miestas po taikos su Voluine. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Slanimas
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Slanimas“ siejama su šiuo kontekstu: Minimas kaip Vaišvilkui atiduotas miestas po taikos su Voluine."
+  teiginys: "Minimas kaip Vaišvilkui atiduotas miestas po taikos su Voluine."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

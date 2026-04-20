@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Žiburys
 
 ## Santrauka
-Šaltinyje „Žiburys“ apibūdinama kaip draugija; marijampolėje veikusi viena iš trijų švietimo draugijų. (t-001)
+draugija; marijampolėje veikusi viena iš trijų švietimo draugijų. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Žiburys
@@ -36,14 +36,14 @@ patikimumas: "vidutinis"
 
 ## Kas tai
 - tipas: draugija
-Šaltinyje „Žiburys“ apibūdinama kaip draugija; marijampolėje veikusi viena iš trijų švietimo draugijų. (t-001)
+draugija; marijampolėje veikusi viena iš trijų švietimo draugijų. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Žiburys“ apibūdinama kaip draugija; marijampolėje veikusi viena iš trijų švietimo draugijų. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Žiburys“ apibūdinama kaip draugija; marijampolėje veikusi viena iš trijų švietimo draugijų."
+  teiginys: "draugija; marijampolėje veikusi viena iš trijų švietimo draugijų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

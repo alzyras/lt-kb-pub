@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Rytas
 
 ## Santrauka
-Šaltinyje „Rytas“ apibūdinama kaip draugija; viena iš trijų švietimo draugijų, veikusių Vilniuje. (t-001)
+draugija; viena iš trijų švietimo draugijų, veikusių Vilniuje. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Rytas
@@ -36,14 +36,14 @@ patikimumas: "vidutinis"
 
 ## Kas tai
 - tipas: draugija
-Šaltinyje „Rytas“ apibūdinama kaip draugija; viena iš trijų švietimo draugijų, veikusių Vilniuje. (t-001)
+draugija; viena iš trijų švietimo draugijų, veikusių Vilniuje. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Rytas“ apibūdinama kaip draugija; viena iš trijų švietimo draugijų, veikusių Vilniuje. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Rytas“ apibūdinama kaip draugija; viena iš trijų švietimo draugijų, veikusių Vilniuje."
+  teiginys: "draugija; viena iš trijų švietimo draugijų, veikusių Vilniuje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

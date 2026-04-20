@@ -23,11 +23,11 @@ patikimumas: "vidutinis"
 # Jaunius
 
 ## Santrauka
-Šaltinyje Jaunius apibūdinamas taip: Paminėtas kaip vienas iš kalbininkų, vartojusių aisčių terminą.
+Paminėtas kaip vienas iš kalbininkų, vartojusių aisčių terminą.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Jaunius apibūdinamas taip: Paminėtas kaip vienas iš kalbininkų, vartojusių aisčių terminą."
+  teiginys: "Paminėtas kaip vienas iš kalbininkų, vartojusių aisčių terminą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

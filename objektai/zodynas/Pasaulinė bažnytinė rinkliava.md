@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Pasaulinė bažnytinė rinkliava
 
 ## Santrauka
-Šaltinyje „Pasaulinė bažnytinė rinkliava“ vartojama taip: Popiežiaus paskelbta visuotinė bažnytinė rinkliava nukentėjusiai Lietuvai. (t-001)
+Popiežiaus paskelbta visuotinė bažnytinė rinkliava nukentėjusiai Lietuvai. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Pasaulinė bažnytinė rinkliava
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: bažnytinė labdara, karo metų
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Pasaulinė bažnytinė rinkliava“ vartojama taip: Popiežiaus paskelbta visuotinė bažnytinė rinkliava nukentėjusiai Lietuvai."
+  teiginys: "Popiežiaus paskelbta visuotinė bažnytinė rinkliava nukentėjusiai Lietuvai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

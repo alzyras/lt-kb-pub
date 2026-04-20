@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # A. Mierzyński
 
 ## Santrauka
-Šaltinyje A. Mierzyński minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip lietuvių mitologijos šaltinių autorius.
+Bibliografijoje nurodytas kaip lietuvių mitologijos šaltinių autorius.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip lietuvių mitologijos šaltinių autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje A. Mierzyński autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip lietuvių mitologijos šaltinių autorius."
+  teiginys: "Bibliografijoje nurodytas kaip lietuvių mitologijos šaltinių autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

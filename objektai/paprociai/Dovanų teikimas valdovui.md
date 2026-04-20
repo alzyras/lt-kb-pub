@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Dovanų teikimas valdovui
 
 ## Santrauka
-Šaltinyje minima praktika „Dovanų teikimas valdovui“ siejama su formuluote: apipildavo jį dovanomis. Šaltinio kontekste nurodoma: kas atlieka: pirkliai; kada atliekama: Vytauto laikais. (t-001)
+apipildavo jį dovanomis. Šaltinio kontekste nurodoma: kas atlieka: pirkliai; kada atliekama: Vytauto laikais. (t-001)
 
 ## Pavadinimai šaltiniuose
 - apipildavo jį dovanomis
@@ -37,8 +37,7 @@ patikimumas: "vidutinis"
 - datos: Vytauto laikai (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Dovanų teikimas valdovui“ siejama su formuluote: apipildavo jį dovanomis. Šaltinio kontekste nurodoma: kas atlieka: pirkliai; kada atliekama: Vytauto laikais. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: pirkliai (t-001)
 - kada atliekama: Vytauto laikais (t-001)
@@ -46,7 +45,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Dovanų teikimas valdovui“ siejama su formuluote: apipildavo jį dovanomis. Šaltinio kontekste nurodoma: kas atlieka: pirkliai; kada atliekama: Vytauto laikais."
+  teiginys: "apipildavo jį dovanomis. Šaltinio kontekste nurodoma: kas atlieka: pirkliai; kada atliekama: Vytauto laikais."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

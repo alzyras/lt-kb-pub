@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # Mikuckis
 
 ## Santrauka
-Šaltinyje Mikuckis apibūdinamas taip: Minimas kaip Varšuvos Vyriausiosios Mokyklos lektorius, kuriam pavestas lietuviškų raštų spausdinimas.
+Minimas kaip Varšuvos Vyriausiosios Mokyklos lektorius, kuriam pavestas lietuviškų raštų spausdinimas.
 
 ## Variantai
 - Mikuckiui
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Mikuckis apibūdinamas taip: Minimas kaip Varšuvos Vyriausiosios Mokyklos lektorius, kuriam pavestas lietuviškų raštų spausdinimas."
+  teiginys: "Minimas kaip Varšuvos Vyriausiosios Mokyklos lektorius, kuriam pavestas lietuviškų raštų spausdinimas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

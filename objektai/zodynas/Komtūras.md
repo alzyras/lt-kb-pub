@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Komtūras
 
 ## Santrauka
-Šaltinyje „Komtūras“ vartojama taip: Ordino karinį-administracinį vadovavimą perimantis pareigūnas. (t-001)
+Ordino karinį-administracinį vadovavimą perimantis pareigūnas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Komtūras
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: ordino administracija, viduram�
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Komtūras“ vartojama taip: Ordino karinį-administracinį vadovavimą perimantis pareigūnas."
+  teiginys: "Ordino karinį-administracinį vadovavimą perimantis pareigūnas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

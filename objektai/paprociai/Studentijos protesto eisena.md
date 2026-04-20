@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Studentijos protesto eisena
 
 ## Santrauka
-Šaltinyje minima praktika „Studentijos protesto eisena“ siejama su formuluote: tautiškosios studentijos eisena, reiškianti protestą prieš tuos ekscesus. Šaltinio kontekste nurodoma: kas atlieka: tautiškoji studentija Kaune; kada atliekama: 1926 m. lapkritį. (t-001)
+tautiškosios studentijos eisena, reiškianti protestą prieš tuos ekscesus. Šaltinio kontekste nurodoma: kas atlieka: tautiškoji studentija Kaune; kada atliekama: 1926 m. lapkritį. (t-001)
 
 ## Pavadinimai šaltiniuose
 - tautiškosios studentijos eisena, reiškianti protestą prieš tuos ekscesus
@@ -40,8 +40,7 @@ patikimumas: "vidutinis"
 - date_start/date_end: 1926 / 1926 (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Studentijos protesto eisena“ siejama su formuluote: tautiškosios studentijos eisena, reiškianti protestą prieš tuos ekscesus. Šaltinio kontekste nurodoma: kas atlieka: tautiškoji studentija Kaune; kada atliekama: 1926 m. lapkritį. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: tautiškoji studentija Kaune (t-001)
 - kada atliekama: 1926 m. lapkritį (t-001)
@@ -49,7 +48,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Studentijos protesto eisena“ siejama su formuluote: tautiškosios studentijos eisena, reiškianti protestą prieš tuos ekscesus. Šaltinio kontekste nurodoma: kas atlieka: tautiškoji studentija Kaune; kada atliekama: 1926 m. lapkritį."
+  teiginys: "tautiškosios studentijos eisena, reiškianti protestą prieš tuos ekscesus. Šaltinio kontekste nurodoma: kas atlieka: tautiškoji studentija Kaune; kada atliekama: 1926 m. lapkritį."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

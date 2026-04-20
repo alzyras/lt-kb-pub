@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Kaluga
 
 ## Santrauka
-Šaltinyje vieta „Kaluga“ siejama su šiuo kontekstu: Minima kartu su Tula ir Riazane kaip Vytauto žygio pasiekta vieta. (t-001)
+Minima kartu su Tula ir Riazane kaip Vytauto žygio pasiekta vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Kaluga
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Kaluga“ siejama su šiuo kontekstu: Minima kartu su Tula ir Riazane kaip Vytauto žygio pasiekta vieta."
+  teiginys: "Minima kartu su Tula ir Riazane kaip Vytauto žygio pasiekta vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

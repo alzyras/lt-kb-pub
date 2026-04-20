@@ -60,7 +60,7 @@ patikimumas: "aukstas"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Pirmoji krašto privilegija“ siejamas su šiuo kontekstu: Tekstas kalba apie rašytinį privilegijos dokumentą, kuriuo po krikšto nustatytos Bažnyčios, dvasininkų ir apsikrikštijusių bajorų teisės.
+Tekstas kalba apie rašytinį privilegijos dokumentą, kuriuo po krikšto nustatytos Bažnyčios, dvasininkų ir apsikrikštijusių bajorų teisės.
 
 ## Ryšiai
 
@@ -69,7 +69,7 @@ patikimumas: "aukstas"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Pirmoji krašto privilegija“ siejamas su šiuo kontekstu: Tekstas kalba apie rašytinį privilegijos dokumentą, kuriuo po krikšto nustatytos Bažnyčios, dvasininkų ir apsikrikštijusių bajorų teisės."
+  teiginys: "Tekstas kalba apie rašytinį privilegijos dokumentą, kuriuo po krikšto nustatytos Bažnyčios, dvasininkų ir apsikrikštijusių bajorų teisės."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

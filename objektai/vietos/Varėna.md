@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Varėna
 
 ## Santrauka
-Šaltinyje vieta „Varėna“ siejama su šiuo kontekstu: Minima kaip demarkacijos linijos atkarpos vieta. (t-001)
+Minima kaip demarkacijos linijos atkarpos vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Varėna
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Varėna“ siejama su šiuo kontekstu: Minima kaip demarkacijos linijos atkarpos vieta."
+  teiginys: "Minima kaip demarkacijos linijos atkarpos vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

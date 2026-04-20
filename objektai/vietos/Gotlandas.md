@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Gotlandas
 
 ## Santrauka
-Šaltinyje vieta „Gotlandas“ siejama su šiuo kontekstu: Sala minima kaip vieta, kur įkurtas Visbio miestas. (t-001)
+Sala minima kaip vieta, kur įkurtas Visbio miestas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Gotlandas
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Gotlandas“ siejama su šiuo kontekstu: Sala minima kaip vieta, kur įkurtas Visbio miestas."
+  teiginys: "Sala minima kaip vieta, kur įkurtas Visbio miestas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

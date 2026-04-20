@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Kahalai
 
 ## Santrauka
-Šaltinyje „Kahalai“ apibūdinama kaip žydų savivaldos organai; žydų bendruomenių savivaldos organai aprašomi kaip atskira žydų visuomenės dalis, o jų atsiradimas siejamas su Vytauto laikais. (t-001) Šaltinyje „Kahalai“ siejama su šiuo kontekstu: Žydų bendruomenių savivaldos organai aprašomi kaip atskira žydų visuomenės dalis, o jų atsiradimas siejamas su Vytauto laikais. (t-002)
+žydų savivaldos organai; žydų bendruomenių savivaldos organai aprašomi kaip atskira žydų visuomenės dalis, o jų atsiradimas siejamas su Vytauto laikais. (t-001) Šaltinyje „Kahalai“ siejama su šiuo kontekstu: Žydų bendruomenių savivaldos organai aprašomi kaip atskira žydų visuomenės dalis, o jų atsiradimas siejamas su Vytauto laikais. (t-002)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Kahalai
@@ -45,7 +45,7 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: žydų savivaldos organai
-Šaltinyje „Kahalai“ apibūdinama kaip žydų savivaldos organai; žydų bendruomenių savivaldos organai aprašomi kaip atskira žydų visuomenės dalis, o jų atsiradimas siejamas su Vytauto laikais. (t-001)
+žydų savivaldos organai; žydų bendruomenių savivaldos organai aprašomi kaip atskira žydų visuomenės dalis, o jų atsiradimas siejamas su Vytauto laikais. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Kahalai“ apibūdinama kaip žydų savivaldos organai; žydų bendruomenių savivaldos organai aprašomi kaip atskira žydų visuomenės dalis, o jų atsiradimas siejamas su Vytauto laikais. (t-001)
@@ -53,13 +53,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kahalai“ apibūdinama kaip žydų savivaldos organai; žydų bendruomenių savivaldos organai aprašomi kaip atskira žydų visuomenės dalis, o jų atsiradimas siejamas su Vytauto laikais."
+  teiginys: "žydų savivaldos organai; žydų bendruomenių savivaldos organai aprašomi kaip atskira žydų visuomenės dalis, o jų atsiradimas siejamas su Vytauto laikais."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Kahalai“ siejama su šiuo kontekstu: Žydų bendruomenių savivaldos organai aprašomi kaip atskira žydų visuomenės dalis, o jų atsiradimas siejamas su Vytauto laikais."
+  teiginys: "Žydų bendruomenių savivaldos organai aprašomi kaip atskira žydų visuomenės dalis, o jų atsiradimas siejamas su Vytauto laikais."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

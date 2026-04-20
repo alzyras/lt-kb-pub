@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Petras III
 
 ## Santrauka
-Šaltinyje Petras III apibūdinamas taip: Minimas kaip sosto įpėdinis ir vėliau nuo sosto pašalintas caras.
+Minimas kaip sosto įpėdinis ir vėliau nuo sosto pašalintas caras.
 
 ## Variantai
 - Petras (III)
@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Petras III apibūdinamas taip: Minimas kaip sosto įpėdinis ir vėliau nuo sosto pašalintas caras."
+  teiginys: "Minimas kaip sosto įpėdinis ir vėliau nuo sosto pašalintas caras."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

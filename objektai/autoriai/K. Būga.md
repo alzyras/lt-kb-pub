@@ -31,7 +31,7 @@ patikimumas: "vidutinis"
 # K. Būga
 
 ## Santrauka
-Šaltinyje K. Būga minimas kaip autorius; šis vaidmuo siejamas su: Upių vardų studijos ir aisčių bei slavėnų senovė; Aisčių praeitis vietų vardų šviesoje; Liet. kalbos žodynas; Medžiaga ... mitologijai.
+Upių vardų studijos ir aisčių bei slavėnų senovė; Aisčių praeitis vietų vardų šviesoje; Liet. kalbos žodynas; Medžiaga ... mitologijai.
 
 ## Laikotarpis ir datos
 - 1908 m.
@@ -47,7 +47,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje K. Būga minimas kaip autorius, siejamas su: Upių vardų studijos ir aisčių bei slavėnų senovė; Aisčių praeitis vietų vardų šviesoje; Liet. kalbos žodynas; Medžiaga ... mitologijai."
+  teiginys: "Upių vardų studijos ir aisčių bei slavėnų senovė; Aisčių praeitis vietų vardų šviesoje; Liet. kalbos žodynas; Medžiaga ... mitologijai."
   pagrindžia:
     - c-001
     - c-002

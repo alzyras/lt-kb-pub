@@ -23,11 +23,11 @@ patikimumas: "vidutinis"
 # Petkevičius
 
 ## Santrauka
-Šaltinyje Petkevičius apibūdinamas taip: Minimas kaip Žemaičių vyskupas, prisidėjęs prie klierikų bursos steigimo.
+Minimas kaip Žemaičių vyskupas, prisidėjęs prie klierikų bursos steigimo.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Petkevičius apibūdinamas taip: Minimas kaip Žemaičių vyskupas, prisidėjęs prie klierikų bursos steigimo."
+  teiginys: "Minimas kaip Žemaičių vyskupas, prisidėjęs prie klierikų bursos steigimo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

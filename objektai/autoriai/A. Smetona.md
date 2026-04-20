@@ -33,7 +33,7 @@ patikimumas: "vidutinis"
 # A. Smetona
 
 ## Santrauka
-Šaltinyje A. Smetona minimas kaip redaktorius; šis vaidmuo siejamas su: „Viltis“.
+„Viltis“.
 
 ## Laikotarpis ir datos
 - 1907 m.
@@ -46,7 +46,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje A. Smetona minimas kaip redaktorius, siejamas su: „Viltis“."
+  teiginys: "„Viltis“."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

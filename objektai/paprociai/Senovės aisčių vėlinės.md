@@ -28,14 +28,13 @@ patikimumas: "vidutinis"
 # Senovės aisčių vėlinės
 
 ## Santrauka
-Šaltinyje minima praktika „Senovės aisčių vėlinės“ siejama su formuluote: specialios vėlių garbinamosios šventės, vadinamosios vėlinės. Šaltinio kontekste nurodoma: kas atlieka: aisčiai; kada atliekama: vėlių garbinimo švenčių metu. (t-001)
+specialios vėlių garbinamosios šventės, vadinamosios vėlinės. Šaltinio kontekste nurodoma: kas atlieka: aisčiai; kada atliekama: vėlių garbinimo švenčių metu. (t-001)
 
 ## Pavadinimai šaltiniuose
 - specialios vėlių garbinamosios šventės, vadinamosios vėlinės
 
 ## Kas tai
-Šaltinyje minima praktika „Senovės aisčių vėlinės“ siejama su formuluote: specialios vėlių garbinamosios šventės, vadinamosios vėlinės. Šaltinio kontekste nurodoma: kas atlieka: aisčiai; kada atliekama: vėlių garbinimo švenčių metu. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: aisčiai (t-001)
 - kada atliekama: vėlių garbinimo švenčių metu (t-001)
@@ -43,7 +42,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Senovės aisčių vėlinės“ siejama su formuluote: specialios vėlių garbinamosios šventės, vadinamosios vėlinės. Šaltinio kontekste nurodoma: kas atlieka: aisčiai; kada atliekama: vėlių garbinimo švenčių metu."
+  teiginys: "specialios vėlių garbinamosios šventės, vadinamosios vėlinės. Šaltinio kontekste nurodoma: kas atlieka: aisčiai; kada atliekama: vėlių garbinimo švenčių metu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

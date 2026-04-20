@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Konfederacijos aktas
 
 ## Santrauka
-Šaltinyje „Konfederacijos aktas“ vartojama taip: Konfederacijos steigiamasis arba patvirtinamasis dokumentas. (t-001)
+Konfederacijos steigiamasis arba patvirtinamasis dokumentas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Konfederacijos aktas
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: politinė istorija, konfederaci
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Konfederacijos aktas“ vartojama taip: Konfederacijos steigiamasis arba patvirtinamasis dokumentas."
+  teiginys: "Konfederacijos steigiamasis arba patvirtinamasis dokumentas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

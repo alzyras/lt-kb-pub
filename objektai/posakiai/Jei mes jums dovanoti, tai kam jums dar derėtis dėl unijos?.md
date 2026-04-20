@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Jei mes jums dovanoti, tai kam jums dar derėtis dėl unijos?
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Jei mes jums dovanoti, tai kam jums dar derėtis dėl unijos?“; kontekstas: Liublino seimo derybose Jonas Jeronimas Katkevičius ironiškai atsako į lenkų kaltinimą, esą Lietuva jau buvusi „padovanota“ Lenkijos karūnai. Reikšmė: Trumpa retorinė replika, kuria ginama Lietuvos teisė derėtis dėl unijos iš naujo. (t-001)
+Užfiksuota formuluotė „Jei mes jums dovanoti, tai kam jums dar derėtis dėl unijos?“; kontekstas: Liublino seimo derybose Jonas Jeronimas Katkevičius ironiškai atsako į lenkų kaltinimą, esą Lietuva jau buvusi „padovanota“ Lenkijos karūnai. Reikšmė: Trumpa retorinė replika, kuria ginama Lietuvos teisė derėtis dėl unijos iš naujo. (t-001)
 
 ## Forma
 - pagrindinė forma: Jei mes jums dovanoti, tai kam jums dar derėtis dėl unijos? (t-001)
@@ -49,7 +49,7 @@ Trumpa retorinė replika, kuria ginama Lietuvos teisė derėtis dėl unijos iš 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Jei mes jums dovanoti, tai kam jums dar derėtis dėl unijos?“; kontekstas: Liublino seimo derybose Jonas Jeronimas Katkevičius ironiškai atsako į lenkų kaltinimą, esą Lietuva jau buvusi „padovanota“ Lenkijos karūnai."
+  teiginys: "Užfiksuota formuluotė „Jei mes jums dovanoti, tai kam jums dar derėtis dėl unijos?“; kontekstas: Liublino seimo derybose Jonas Jeronimas Katkevičius ironiškai atsako į lenkų kaltinimą, esą Lietuva jau buvusi „padovanota“ Lenkijos karūnai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

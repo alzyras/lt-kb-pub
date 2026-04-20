@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Mably
 
 ## Santrauka
-Šaltinyje Mably minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip vienas iš autorių, rašiusių apie valstybę.
+Minimas kaip vienas iš autorių, rašiusių apie valstybę.
 
 ## Darbai
 - Minimas kaip vienas iš autorių, rašiusių apie valstybę. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Mably autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip vienas iš autorių, rašiusių apie valstybę."
+  teiginys: "Minimas kaip vienas iš autorių, rašiusių apie valstybę."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

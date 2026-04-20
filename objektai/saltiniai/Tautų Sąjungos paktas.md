@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Tautų Sąjungos paktas“ siejamas su šiuo kontekstu: Šis paktas minimas kaip sąlygų rinkinys, kurį Lietuva turėjo įvykdyti, kad būtų priimta į Tautų Sąjungą.
+Šis paktas minimas kaip sąlygų rinkinys, kurį Lietuva turėjo įvykdyti, kad būtų priimta į Tautų Sąjungą.
 
 ## Ryšiai
 
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Tautų Sąjungos paktas“ siejamas su šiuo kontekstu: Šis paktas minimas kaip sąlygų rinkinys, kurį Lietuva turėjo įvykdyti, kad būtų priimta į Tautų Sąjungą."
+  teiginys: "Šis paktas minimas kaip sąlygų rinkinys, kurį Lietuva turėjo įvykdyti, kad būtų priimta į Tautų Sąjungą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

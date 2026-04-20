@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Pramoginė medžioklė karo žygiuose
 
 ## Santrauka
-Šaltinyje minima praktika „Pramoginė medžioklė karo žygiuose“ siejama su formuluote: Tokie žygiai tuomet būdavo tarsi pramoginė medžioklė. Jie būdavo iškilmingai atliekami: saugiose vietose svečių garbei būdavo ruošiamos puotos, kai kurie svečiai būdavo keliami į riterius ir t.t.. Šaltinio kontekste nurodoma: kas atlieka: kryžiuočiai, kviesdami Vakarų Europos riterius; kada atliekama: kai iš Vakarų atvykdavo svečių. (t-001)
+Tokie žygiai tuomet būdavo tarsi pramoginė medžioklė. Jie būdavo iškilmingai atliekami: saugiose vietose svečių garbei būdavo ruošiamos puotos, kai kurie svečiai būdavo keliami į riterius ir t.t.. Šaltinio kontekste nurodoma: kas atlieka: kryžiuočiai, kviesdami Vakarų Europos riterius; kada atliekama: kai iš Vakarų atvykdavo svečių. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Tokie žygiai tuomet būdavo tarsi pramoginė medžioklė. Jie būdavo iškilmingai atliekami: saugiose vietose svečių garbei būdavo ruošiamos puotos, kai kurie svečiai būdavo keliami į riterius ir t.t.
@@ -40,8 +40,7 @@ patikimumas: "vidutinis"
 - date_start/date_end: 1345 / 1377 (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Pramoginė medžioklė karo žygiuose“ siejama su formuluote: Tokie žygiai tuomet būdavo tarsi pramoginė medžioklė. Jie būdavo iškilmingai atliekami: saugiose vietose svečių garbei būdavo ruošiamos puotos, kai kurie svečiai būdavo keliami į riterius ir t.t.. Šaltinio kontekste nurodoma: kas atlieka: kryžiuočiai, kviesdami Vakarų Europos riterius; kada atliekama: kai iš Vakarų atvykdavo svečių. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: kryžiuočiai, kviesdami Vakarų Europos riterius (t-001)
 - kada atliekama: kai iš Vakarų atvykdavo svečių (t-001)
@@ -49,7 +48,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Pramoginė medžioklė karo žygiuose“ siejama su formuluote: Tokie žygiai tuomet būdavo tarsi pramoginė medžioklė. Jie būdavo iškilmingai atliekami: saugiose vietose svečių garbei būdavo ruošiamos puotos, kai kurie svečiai būdavo keliami į riterius ir t.t.. Šaltinio kontekste nurodoma: kas atlieka: kryžiuočiai, kviesdami Vakarų Europos riterius; kada atliekama: kai iš Vakarų atvykdavo svečių."
+  teiginys: "Tokie žygiai tuomet būdavo tarsi pramoginė medžioklė. Jie būdavo iškilmingai atliekami: saugiose vietose svečių garbei būdavo ruošiamos puotos, kai kurie svečiai būdavo keliami į riterius ir t.t.. Šaltinio kontekste nurodoma: kas atlieka: kryžiuočiai, kviesdami Vakarų Europos riterius; kada atliekama: kai iš Vakarų atvykdavo svečių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

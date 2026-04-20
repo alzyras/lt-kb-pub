@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Švitrigaila
 
 ## Santrauka
-Šaltinyje Švitrigaila apibūdinamas taip: Įvardytas kaip kovų su Lenkija veikėjas.
+Įvardytas kaip kovų su Lenkija veikėjas.
 
 ## Laikotarpis ir datos
 - laikotarpis: 1430–1432 m.
@@ -38,7 +38,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Švitrigaila apibūdinamas taip: Įvardytas kaip kovų su Lenkija veikėjas."
+  teiginys: "Įvardytas kaip kovų su Lenkija veikėjas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

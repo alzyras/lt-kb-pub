@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Ditrichas von Altenburgas
 
 ## Santrauka
-Šaltinyje Ditrichas von Altenburgas apibūdinamas taip: Imperatorius, kurio vardu pavadinta ordino magistrui dovanotos Lietuvos scena.
+Imperatorius, kurio vardu pavadinta ordino magistrui dovanotos Lietuvos scena.
 
 ## Variantai
 - Ditrichui von Altenburgui
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Ditrichas von Altenburgas apibūdinamas taip: Imperatorius, kurio vardu pavadinta ordino magistrui dovanotos Lietuvos scena."
+  teiginys: "Imperatorius, kurio vardu pavadinta ordino magistrui dovanotos Lietuvos scena."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

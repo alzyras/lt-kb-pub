@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Raudonųjų partija
 
 ## Santrauka
-Šaltinyje „Raudonųjų partija“ apibūdinama kaip lenkų politinė partija; radikaliausia lenkų partija, siekusi pašalinti rusus ir duoti valstiečiams laisvę bei žemės. (t-001)
+lenkų politinė partija; radikaliausia lenkų partija, siekusi pašalinti rusus ir duoti valstiečiams laisvę bei žemės. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Raudonųjų partija
@@ -46,14 +46,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: lenkų politinė partija
-Šaltinyje „Raudonųjų partija“ apibūdinama kaip lenkų politinė partija; radikaliausia lenkų partija, siekusi pašalinti rusus ir duoti valstiečiams laisvę bei žemės. (t-001)
+lenkų politinė partija; radikaliausia lenkų partija, siekusi pašalinti rusus ir duoti valstiečiams laisvę bei žemės. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Raudonųjų partija“ apibūdinama kaip lenkų politinė partija; radikaliausia lenkų partija, siekusi pašalinti rusus ir duoti valstiečiams laisvę bei žemės. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Raudonųjų partija“ apibūdinama kaip lenkų politinė partija; radikaliausia lenkų partija, siekusi pašalinti rusus ir duoti valstiečiams laisvę bei žemės."
+  teiginys: "lenkų politinė partija; radikaliausia lenkų partija, siekusi pašalinti rusus ir duoti valstiečiams laisvę bei žemės."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

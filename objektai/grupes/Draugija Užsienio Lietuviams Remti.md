@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Draugija Užsienio Lietuviams Remti
 
 ## Santrauka
-Šaltinyje „Draugija Užsienio Lietuviams Remti“ apibūdinama kaip draugija; 1932 m. įsikūrusi draugija rūpinosi užsienyje gyvenančių lietuvių kultūriniu ir, kiek įmanoma, materialiniu rėmimu. (t-001)
+draugija; 1932 m. įsikūrusi draugija rūpinosi užsienyje gyvenančių lietuvių kultūriniu ir, kiek įmanoma, materialiniu rėmimu. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Draugija Užsienio Lietuviams Remti
@@ -46,14 +46,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: draugija
-Šaltinyje „Draugija Užsienio Lietuviams Remti“ apibūdinama kaip draugija; 1932 m. įsikūrusi draugija rūpinosi užsienyje gyvenančių lietuvių kultūriniu ir, kiek įmanoma, materialiniu rėmimu. (t-001)
+draugija; 1932 m. įsikūrusi draugija rūpinosi užsienyje gyvenančių lietuvių kultūriniu ir, kiek įmanoma, materialiniu rėmimu. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Draugija Užsienio Lietuviams Remti“ apibūdinama kaip draugija; 1932 m. įsikūrusi draugija rūpinosi užsienyje gyvenančių lietuvių kultūriniu ir, kiek įmanoma, materialiniu rėmimu. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Draugija Užsienio Lietuviams Remti“ apibūdinama kaip draugija; 1932 m. įsikūrusi draugija rūpinosi užsienyje gyvenančių lietuvių kultūriniu ir, kiek įmanoma, materialiniu rėmimu."
+  teiginys: "draugija; 1932 m. įsikūrusi draugija rūpinosi užsienyje gyvenančių lietuvių kultūriniu ir, kiek įmanoma, materialiniu rėmimu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -23,11 +23,11 @@ patikimumas: "vidutinis"
 # Lelevelis
 
 ## Santrauka
-Šaltinyje Lelevelis apibūdinamas taip: Minimas kaip Vilniaus universiteto garsenybė ir istorijos profesorius.
+Minimas kaip Vilniaus universiteto garsenybė ir istorijos profesorius.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Lelevelis apibūdinamas taip: Minimas kaip Vilniaus universiteto garsenybė ir istorijos profesorius."
+  teiginys: "Minimas kaip Vilniaus universiteto garsenybė ir istorijos profesorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

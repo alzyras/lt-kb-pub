@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Lenkų ponai
 
 ## Santrauka
-Šaltinyje „Lenkų ponai“ apibūdinama kaip ponai; lenkų ponai kviečia Kazimierą į sostą ir daro spaudimą lietuviams, kad šie jį išleistų į Lenkiją. (t-001)
+ponai; lenkų ponai kviečia Kazimierą į sostą ir daro spaudimą lietuviams, kad šie jį išleistų į Lenkiją. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Lenkų ponai
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: ponai
-Šaltinyje „Lenkų ponai“ apibūdinama kaip ponai; lenkų ponai kviečia Kazimierą į sostą ir daro spaudimą lietuviams, kad šie jį išleistų į Lenkiją. (t-001)
+ponai; lenkų ponai kviečia Kazimierą į sostą ir daro spaudimą lietuviams, kad šie jį išleistų į Lenkiją. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Lenkų ponai“ apibūdinama kaip ponai; lenkų ponai kviečia Kazimierą į sostą ir daro spaudimą lietuviams, kad šie jį išleistų į Lenkiją. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Lenkų ponai“ apibūdinama kaip ponai; lenkų ponai kviečia Kazimierą į sostą ir daro spaudimą lietuviams, kad šie jį išleistų į Lenkiją."
+  teiginys: "ponai; lenkų ponai kviečia Kazimierą į sostą ir daro spaudimą lietuviams, kad šie jį išleistų į Lenkiją."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

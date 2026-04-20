@@ -39,7 +39,7 @@ patikimumas: "aukstas"
 
 ## Turinys ir apimtis
 
-Šaltinyje „D. Kleino gramatika“ siejamas su šiuo kontekstu: Iliustracijos antraštėje minima D. Kleino gramatika kaip vienas ankstyvųjų lietuviškų leidinių.
+Iliustracijos antraštėje minima D. Kleino gramatika kaip vienas ankstyvųjų lietuviškų leidinių.
 
 ## Ryšiai
 
@@ -48,7 +48,7 @@ patikimumas: "aukstas"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „D. Kleino gramatika“ siejamas su šiuo kontekstu: Iliustracijos antraštėje minima D. Kleino gramatika kaip vienas ankstyvųjų lietuviškų leidinių."
+  teiginys: "Iliustracijos antraštėje minima D. Kleino gramatika kaip vienas ankstyvųjų lietuviškų leidinių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

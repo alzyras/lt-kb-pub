@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Brunonas
 
 ## Santrauka
-Šaltinyje Brunonas apibūdinamas taip: Aprašomas kaip naujas vokietis misijonierius, dar vadinamas Bonifacu.
+Aprašomas kaip naujas vokietis misijonierius, dar vadinamas Bonifacu.
 
 ## Variantai
 - Bonifacas
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Brunonas apibūdinamas taip: Aprašomas kaip naujas vokietis misijonierius, dar vadinamas Bonifacu."
+  teiginys: "Aprašomas kaip naujas vokietis misijonierius, dar vadinamas Bonifacu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

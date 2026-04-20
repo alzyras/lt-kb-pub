@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Eustachijas Valavičius
 
 ## Santrauka
-Šaltinyje Eustachijas Valavičius apibūdinamas taip: Liublino seime minimas kaip vienas lietuvių vadų ir vicekancleris.
+Liublino seime minimas kaip vienas lietuvių vadų ir vicekancleris.
 
 ## Variantai
 - vicekancleris Valavičius
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Eustachijas Valavičius apibūdinamas taip: Liublino seime minimas kaip vienas lietuvių vadų ir vicekancleris."
+  teiginys: "Liublino seime minimas kaip vienas lietuvių vadų ir vicekancleris."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

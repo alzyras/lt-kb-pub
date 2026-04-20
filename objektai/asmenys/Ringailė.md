@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Ringailė
 
 ## Santrauka
-Šaltinyje Ringailė apibūdinamas taip: Vytauto sesuo, įkeista ordinui kaip įkaitė.
+Vytauto sesuo, įkeista ordinui kaip įkaitė.
 
 ## Variantai
 - Ringailę
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Ringailė apibūdinamas taip: Vytauto sesuo, įkeista ordinui kaip įkaitė."
+  teiginys: "Vytauto sesuo, įkeista ordinui kaip įkaitė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -24,7 +24,7 @@ patikimumas: "aukstas"
 # Senienos
 
 ## Santrauka
-Šaltinyje „Senienos“ vartojama taip: Istoriniai daiktai, archeologiniai radiniai, senoviniai kultūros palikimai. (t-001)
+Istoriniai daiktai, archeologiniai radiniai, senoviniai kultūros palikimai. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Senienos
@@ -46,7 +46,7 @@ Terminas šaltinyje vartojamas šiame kontekste: archeologija, muziejai, istorij
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Senienos“ vartojama taip: Istoriniai daiktai, archeologiniai radiniai, senoviniai kultūros palikimai."
+  teiginys: "Istoriniai daiktai, archeologiniai radiniai, senoviniai kultūros palikimai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

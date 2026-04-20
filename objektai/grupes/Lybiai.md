@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Lybiai
 
 ## Santrauka
-Šaltinyje „Lybiai“ apibūdinama kaip tauta; lybiai įvardijami kaip neaiškios kilmės tauta, ne artima aisčiams. (t-001)
+tauta; lybiai įvardijami kaip neaiškios kilmės tauta, ne artima aisčiams. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Lybiai
@@ -38,14 +38,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: tauta
-Šaltinyje „Lybiai“ apibūdinama kaip tauta; lybiai įvardijami kaip neaiškios kilmės tauta, ne artima aisčiams. (t-001)
+tauta; lybiai įvardijami kaip neaiškios kilmės tauta, ne artima aisčiams. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Lybiai“ apibūdinama kaip tauta; lybiai įvardijami kaip neaiškios kilmės tauta, ne artima aisčiams. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Lybiai“ apibūdinama kaip tauta; lybiai įvardijami kaip neaiškios kilmės tauta, ne artima aisčiams."
+  teiginys: "tauta; lybiai įvardijami kaip neaiškios kilmės tauta, ne artima aisčiams."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

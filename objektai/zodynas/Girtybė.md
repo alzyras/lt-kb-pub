@@ -29,7 +29,7 @@ patikimumas: "vidutinis"
 # Girtybė
 
 ## Santrauka
-Šaltinyje „Girtybė“ vartojama taip: Girtavimo būsena, girtuokliavimas. (t-001)
+Girtavimo būsena, girtuokliavimas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Girtybė
@@ -52,7 +52,7 @@ Terminas šaltinyje vartojamas šiame kontekste: socialinė istorija, blaivybės
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Girtybė“ vartojama taip: Girtavimo būsena, girtuokliavimas."
+  teiginys: "Girtavimo būsena, girtuokliavimas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

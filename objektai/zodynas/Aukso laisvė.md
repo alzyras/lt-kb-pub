@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Aukso laisvė
 
 ## Santrauka
-Šaltinyje „Aukso laisvė“ vartojama taip: Bajoriškųjų laisvių idealas, pateikiamas kaip politinės netvarkos pateisinimas. (t-001)
+Bajoriškųjų laisvių idealas, pateikiamas kaip politinės netvarkos pateisinimas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Aukso laisvė
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: politinė istorija, ideologinia
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Aukso laisvė“ vartojama taip: Bajoriškųjų laisvių idealas, pateikiamas kaip politinės netvarkos pateisinimas."
+  teiginys: "Bajoriškųjų laisvių idealas, pateikiamas kaip politinės netvarkos pateisinimas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

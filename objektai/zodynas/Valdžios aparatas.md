@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Valdžios aparatas
 
 ## Santrauka
-Šaltinyje „Valdžios aparatas“ vartojama taip: Valstybės administracinė mašina, valdžios institucijų visuma. (t-001)
+Valstybės administracinė mašina, valdžios institucijų visuma. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Valdžios aparatas
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: valstybės sandara, administrac
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Valdžios aparatas“ vartojama taip: Valstybės administracinė mašina, valdžios institucijų visuma."
+  teiginys: "Valstybės administracinė mašina, valdžios institucijų visuma."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

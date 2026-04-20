@@ -26,14 +26,13 @@ patikimumas: "vidutinis"
 # Kryžiuočių ordino brolių viso gyvenimo įžadas
 
 ## Santrauka
-Šaltinyje minima praktika „Kryžiuočių ordino brolių viso gyvenimo įžadas“ siejama su formuluote: pareigą nuolat kariauti su Kristaus vardo priešais. Šaltinio kontekste nurodoma: kas atlieka: ordino broliai — riteriai; kada atliekama: visam gyvenimui. (t-001)
+pareigą nuolat kariauti su Kristaus vardo priešais. Šaltinio kontekste nurodoma: kas atlieka: ordino broliai — riteriai; kada atliekama: visam gyvenimui. (t-001)
 
 ## Pavadinimai šaltiniuose
 - pareigą nuolat kariauti su Kristaus vardo priešais
 
 ## Kas tai
-Šaltinyje minima praktika „Kryžiuočių ordino brolių viso gyvenimo įžadas“ siejama su formuluote: pareigą nuolat kariauti su Kristaus vardo priešais. Šaltinio kontekste nurodoma: kas atlieka: ordino broliai — riteriai; kada atliekama: visam gyvenimui. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: ordino broliai — riteriai (t-001)
 - kada atliekama: visam gyvenimui (t-001)
@@ -41,7 +40,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Kryžiuočių ordino brolių viso gyvenimo įžadas“ siejama su formuluote: pareigą nuolat kariauti su Kristaus vardo priešais. Šaltinio kontekste nurodoma: kas atlieka: ordino broliai — riteriai; kada atliekama: visam gyvenimui."
+  teiginys: "pareigą nuolat kariauti su Kristaus vardo priešais. Šaltinio kontekste nurodoma: kas atlieka: ordino broliai — riteriai; kada atliekama: visam gyvenimui."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

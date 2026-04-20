@@ -26,14 +26,13 @@ patikimumas: "vidutinis"
 # Konfederaciniai seimai
 
 ## Santrauka
-Šaltinyje minima praktika „Konfederaciniai seimai“ siejama su formuluote: vadinamieji konfederaciniai seimai. Šaltinio kontekste nurodoma: kas atlieka: atstovai; kada atliekama: kai seimo iširimas grėsdavo valstybei dideliais pavojais. (t-001)
+vadinamieji konfederaciniai seimai. Šaltinio kontekste nurodoma: kas atlieka: atstovai; kada atliekama: kai seimo iširimas grėsdavo valstybei dideliais pavojais. (t-001)
 
 ## Pavadinimai šaltiniuose
 - vadinamieji konfederaciniai seimai
 
 ## Kas tai
-Šaltinyje minima praktika „Konfederaciniai seimai“ siejama su formuluote: vadinamieji konfederaciniai seimai. Šaltinio kontekste nurodoma: kas atlieka: atstovai; kada atliekama: kai seimo iširimas grėsdavo valstybei dideliais pavojais. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: atstovai (t-001)
 - kada atliekama: kai seimo iširimas grėsdavo valstybei dideliais pavojais (t-001)
@@ -41,7 +40,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Konfederaciniai seimai“ siejama su formuluote: vadinamieji konfederaciniai seimai. Šaltinio kontekste nurodoma: kas atlieka: atstovai; kada atliekama: kai seimo iširimas grėsdavo valstybei dideliais pavojais."
+  teiginys: "vadinamieji konfederaciniai seimai. Šaltinio kontekste nurodoma: kas atlieka: atstovai; kada atliekama: kai seimo iširimas grėsdavo valstybei dideliais pavojais."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -32,7 +32,7 @@ patikimumas: "vidutinis"
 # Motiejus Kazimieras Sarbievskis
 
 ## Santrauka
-Šaltinyje Motiejus Kazimieras Sarbievskis minimas kaip poetas.
+Motiejus Kazimieras Sarbievskis minimas kaip poetas.
 
 ## Laikotarpis ir datos
 - † 1640 m.
@@ -45,7 +45,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Motiejus Kazimieras Sarbievskis minimas kaip poetas."
+  teiginys: "Motiejus Kazimieras Sarbievskis minimas kaip poetas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Skaudvilė
 
 ## Santrauka
-Šaltinyje vieta „Skaudvilė“ siejama su šiuo kontekstu: Minima kaip orientyras prie Bijotų, kur dar tebestovi D. Poškos Baublio muziejėliai. (t-001)
+Minima kaip orientyras prie Bijotų, kur dar tebestovi D. Poškos Baublio muziejėliai. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Skaudvilė
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Skaudvilė“ siejama su šiuo kontekstu: Minima kaip orientyras prie Bijotų, kur dar tebestovi D. Poškos Baublio muziejėliai."
+  teiginys: "Minima kaip orientyras prie Bijotų, kur dar tebestovi D. Poškos Baublio muziejėliai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

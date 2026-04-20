@@ -43,7 +43,7 @@ patikimumas: "aukstas"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Gedimino laiškai“ kalbama apie Gedimino diplomatinę korespondenciją dėl krikšto, taikos su krikščionimis ir kvietimo miestiečiams, pirkliams, žemdirbiams bei riteriams atvykti į Lietuvą.
+kalbama apie Gedimino diplomatinę korespondenciją dėl krikšto, taikos su krikščionimis ir kvietimo miestiečiams, pirkliams, žemdirbiams bei riteriams atvykti į Lietuvą.
 
 ## Ryšiai
 
@@ -52,7 +52,7 @@ patikimumas: "aukstas"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Gedimino laiškai“ kalbama apie Gedimino diplomatinę korespondenciją dėl krikšto, taikos su krikščionimis ir kvietimo miestiečiams, pirkliams, žemdirbiams bei riteriams atvykti į Lietuvą."
+  teiginys: "kalbama apie Gedimino diplomatinę korespondenciją dėl krikšto, taikos su krikščionimis ir kvietimo miestiečiams, pirkliams, žemdirbiams bei riteriams atvykti į Lietuvą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

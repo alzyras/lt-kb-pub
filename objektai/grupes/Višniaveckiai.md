@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Višniaveckiai
 
 ## Santrauka
-Šaltinyje „Višniaveckiai“ apibūdinama kaip didikų giminė; višniaveckiai apibūdinami kaip iš Algirdo sūnaus Kaributo kilusi giminė, gyvenusi Ukrainoje ir šiuo metu jautusi Lenkijos piliečiais. (t-001)
+didikų giminė; višniaveckiai apibūdinami kaip iš Algirdo sūnaus Kaributo kilusi giminė, gyvenusi Ukrainoje ir šiuo metu jautusi Lenkijos piliečiais. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Višniaveckiai
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: didikų giminė
-Šaltinyje „Višniaveckiai“ apibūdinama kaip didikų giminė; višniaveckiai apibūdinami kaip iš Algirdo sūnaus Kaributo kilusi giminė, gyvenusi Ukrainoje ir šiuo metu jautusi Lenkijos piliečiais. (t-001)
+didikų giminė; višniaveckiai apibūdinami kaip iš Algirdo sūnaus Kaributo kilusi giminė, gyvenusi Ukrainoje ir šiuo metu jautusi Lenkijos piliečiais. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Višniaveckiai“ apibūdinama kaip didikų giminė; višniaveckiai apibūdinami kaip iš Algirdo sūnaus Kaributo kilusi giminė, gyvenusi Ukrainoje ir šiuo metu jautusi Lenkijos piliečiais. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Višniaveckiai“ apibūdinama kaip didikų giminė; višniaveckiai apibūdinami kaip iš Algirdo sūnaus Kaributo kilusi giminė, gyvenusi Ukrainoje ir šiuo metu jautusi Lenkijos piliečiais."
+  teiginys: "didikų giminė; višniaveckiai apibūdinami kaip iš Algirdo sūnaus Kaributo kilusi giminė, gyvenusi Ukrainoje ir šiuo metu jautusi Lenkijos piliečiais."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

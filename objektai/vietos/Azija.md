@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Azija
 
 ## Santrauka
-Šaltinyje vieta „Azija“ siejama su šiuo kontekstu: Minima kaip lietuvių išeivijos pasaulio dalis, kurioje lietuvių yra palyginti nedaug. (t-001)
+Minima kaip lietuvių išeivijos pasaulio dalis, kurioje lietuvių yra palyginti nedaug. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Azija
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Azija“ siejama su šiuo kontekstu: Minima kaip lietuvių išeivijos pasaulio dalis, kurioje lietuvių yra palyginti nedaug."
+  teiginys: "Minima kaip lietuvių išeivijos pasaulio dalis, kurioje lietuvių yra palyginti nedaug."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

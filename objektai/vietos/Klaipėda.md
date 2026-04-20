@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Klaipėda
 
 ## Santrauka
-Šaltinyje vieta „Klaipėda“ siejama su šiais kontekstais: Miestas minimas tarp provincijos muziejų vietų; Minima kaip sena sodyba, kurią ordinas pervadino Memeliu. (t-001, t-002)
+Miestas minimas tarp provincijos muziejų vietų; Minima kaip sena sodyba, kurią ordinas pervadino Memeliu. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Klaipėda
@@ -50,13 +50,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Klaipėda“ siejama su šiuo kontekstu: Miestas minimas tarp provincijos muziejų vietų."
+  teiginys: "Miestas minimas tarp provincijos muziejų vietų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Klaipėda“ siejama su šiuo kontekstu: Minima kaip sena sodyba, kurią ordinas pervadino Memeliu."
+  teiginys: "Minima kaip sena sodyba, kurią ordinas pervadino Memeliu."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

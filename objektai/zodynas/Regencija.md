@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Regencija
 
 ## Santrauka
-Šaltinyje „Regencija“ vartojama taip: Laikinoji valdžia mažamečio valdovo vardu. (t-001)
+Laikinoji valdžia mažamečio valdovo vardu. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Regencija
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: politinė istorija, valdžios p
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Regencija“ vartojama taip: Laikinoji valdžia mažamečio valdovo vardu."
+  teiginys: "Laikinoji valdžia mažamečio valdovo vardu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

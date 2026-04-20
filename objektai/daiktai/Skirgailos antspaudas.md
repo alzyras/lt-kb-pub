@@ -24,7 +24,7 @@ patikimumas: "aukstas"
 # Skirgailos antspaudas
 
 ## Santrauka
-Šaltinyje „Skirgailos antspaudas“ tai vienintelis išlikęs antspaudas iš rašto, kuriame buvo keturi antspaudai.
+tai vienintelis išlikęs antspaudas iš rašto, kuriame buvo keturi antspaudai.
 
 ## Pavadinimai šaltiniuose
 - Skirgailos antspaudas
@@ -39,11 +39,10 @@ patikimumas: "aukstas"
 - date_end:
 
 ## Kas tai
-Šaltinyje „Skirgailos antspaudas“ tai vienintelis išlikęs antspaudas iš rašto, kuriame buvo keturi antspaudai.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Skirgailos antspaudas“ tai vienintelis išlikęs antspaudas iš rašto, kuriame buvo keturi antspaudai."
+  teiginys: "tai vienintelis išlikęs antspaudas iš rašto, kuriame buvo keturi antspaudai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

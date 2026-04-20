@@ -26,14 +26,13 @@ patikimumas: "vidutinis"
 # Bičių drevių žymėjimo paprotys
 
 ## Santrauka
-Šaltinyje minima praktika „Bičių drevių žymėjimo paprotys“ siejama su formuluote: Bitės priklausydavo tam, kas jas atrasdavo. Radusysis drevę, tuojau įkirsdavo joje savo ženklą. Šaltinio kontekste nurodoma: kas atlieka: radusysis drevę; kada atliekama: radus drevę. (t-001)
+Bitės priklausydavo tam, kas jas atrasdavo. Radusysis drevę, tuojau įkirsdavo joje savo ženklą. Šaltinio kontekste nurodoma: kas atlieka: radusysis drevę; kada atliekama: radus drevę. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Bitės priklausydavo tam, kas jas atrasdavo. Radusysis drevę, tuojau įkirsdavo joje savo ženklą
 
 ## Kas tai
-Šaltinyje minima praktika „Bičių drevių žymėjimo paprotys“ siejama su formuluote: Bitės priklausydavo tam, kas jas atrasdavo. Radusysis drevę, tuojau įkirsdavo joje savo ženklą. Šaltinio kontekste nurodoma: kas atlieka: radusysis drevę; kada atliekama: radus drevę. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: radusysis drevę (t-001)
 - kada atliekama: radus drevę (t-001)
@@ -41,7 +40,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Bičių drevių žymėjimo paprotys“ siejama su formuluote: Bitės priklausydavo tam, kas jas atrasdavo. Radusysis drevę, tuojau įkirsdavo joje savo ženklą. Šaltinio kontekste nurodoma: kas atlieka: radusysis drevę; kada atliekama: radus drevę."
+  teiginys: "Bitės priklausydavo tam, kas jas atrasdavo. Radusysis drevę, tuojau įkirsdavo joje savo ženklą. Šaltinio kontekste nurodoma: kas atlieka: radusysis drevę; kada atliekama: radus drevę."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

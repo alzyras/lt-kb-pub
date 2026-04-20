@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Viritim
 
 ## Santrauka
-Šaltinyje „Viritim“ vartojama taip: Asmeniškas, ne per atstovus vykstantis dalyvavimas elekcijoje. (t-001)
+Asmeniškas, ne per atstovus vykstantis dalyvavimas elekcijoje. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Viritim
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: elekcijos, bajorų susirinkimai
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Viritim“ vartojama taip: Asmeniškas, ne per atstovus vykstantis dalyvavimas elekcijoje."
+  teiginys: "Asmeniškas, ne per atstovus vykstantis dalyvavimas elekcijoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

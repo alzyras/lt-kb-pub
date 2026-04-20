@@ -23,11 +23,11 @@ patikimumas: "aukstas"
 # Treniota
 
 ## Santrauka
-Šaltinyje Treniota apibūdinamas taip: Žemaičių kovų su ordinu vadovas ir Mindaugo seserėnas.
+Žemaičių kovų su ordinu vadovas ir Mindaugo seserėnas.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Treniota apibūdinamas taip: Žemaičių kovų su ordinu vadovas ir Mindaugo seserėnas."
+  teiginys: "Žemaičių kovų su ordinu vadovas ir Mindaugo seserėnas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

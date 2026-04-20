@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Regimentorius
 
 ## Santrauka
-Šaltinyje „Regimentorius“ vartojama taip: Kariuomenės dalinio vadas arba pulko vadas. (t-001)
+Kariuomenės dalinio vadas arba pulko vadas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Regimentorius
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: karo istorija, kariuomenės par
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Regimentorius“ vartojama taip: Kariuomenės dalinio vadas arba pulko vadas."
+  teiginys: "Kariuomenės dalinio vadas arba pulko vadas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

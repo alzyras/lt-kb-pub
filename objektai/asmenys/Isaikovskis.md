@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # Isaikovskis
 
 ## Santrauka
-Šaltinyje Isaikovskis apibūdinamas taip: Minimas kaip Smolensko vyskupas, kurio fundacija siejama su Gardinu.
+Minimas kaip Smolensko vyskupas, kurio fundacija siejama su Gardinu.
 
 ## Variantai
 - Isaikovskio
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Isaikovskis apibūdinamas taip: Minimas kaip Smolensko vyskupas, kurio fundacija siejama su Gardinu."
+  teiginys: "Minimas kaip Smolensko vyskupas, kurio fundacija siejama su Gardinu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

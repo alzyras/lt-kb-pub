@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Gardinas
 
 ## Santrauka
-Šaltinyje vieta „Gardinas“ siejama su šiais kontekstais: Minimas kaip viena iš lietuvių atkovotų sričių; Gardinas minimas kaip vieta, kur 1673 m. pagal pakeistą įstatymą turėjo rinktis kas trečias seimas. (t-001, t-002)
+Minimas kaip viena iš lietuvių atkovotų sričių; Gardinas minimas kaip vieta, kur 1673 m. pagal pakeistą įstatymą turėjo rinktis kas trečias seimas. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Gardinas
@@ -50,13 +50,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Gardinas“ siejama su šiuo kontekstu: Minimas kaip viena iš lietuvių atkovotų sričių."
+  teiginys: "Minimas kaip viena iš lietuvių atkovotų sričių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Gardinas“ siejama su šiuo kontekstu: Gardinas minimas kaip vieta, kur 1673 m. pagal pakeistą įstatymą turėjo rinktis kas trečias seimas."
+  teiginys: "Gardinas minimas kaip vieta, kur 1673 m. pagal pakeistą įstatymą turėjo rinktis kas trečias seimas."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

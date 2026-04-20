@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Pijarai
 
 ## Santrauka
-Šaltinyje „Pijarai“ vartojama taip: Pijorų ordino nariai, švietimu besirūpinę vienuoliai. (t-001)
+Pijorų ordino nariai, švietimu besirūpinę vienuoliai. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Pijarai
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: švietimo istorija, vienuolinia
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Pijarai“ vartojama taip: Pijorų ordino nariai, švietimu besirūpinę vienuoliai."
+  teiginys: "Pijorų ordino nariai, švietimu besirūpinę vienuoliai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

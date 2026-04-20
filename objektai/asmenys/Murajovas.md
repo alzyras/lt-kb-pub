@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Murajovas
 
 ## Santrauka
-Šaltinyje Murajovas apibūdinamas taip: Minimas kaip sukilimo malšintojas, pakreipęs 1861 m. reformą valstiečiams naudinga linkme.
+Minimas kaip sukilimo malšintojas, pakreipęs 1861 m. reformą valstiečiams naudinga linkme.
 
 ## Laikotarpis ir datos
 - laikotarpis: 1861 m.
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Murajovas apibūdinamas taip: Minimas kaip sukilimo malšintojas, pakreipęs 1861 m. reformą valstiečiams naudinga linkme."
+  teiginys: "Minimas kaip sukilimo malšintojas, pakreipęs 1861 m. reformą valstiečiams naudinga linkme."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -36,7 +36,7 @@ patikimumas: "aukstas"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Vytauto raštas ordino magistrui“ tai Vilniuje rašytas laidavimo dokumentas, siejantis Vytautą, Jogailą ir ordino magistrą Kuchmeisterį.
+tai Vilniuje rašytas laidavimo dokumentas, siejantis Vytautą, Jogailą ir ordino magistrą Kuchmeisterį.
 
 ## Ryšiai
 
@@ -45,7 +45,7 @@ patikimumas: "aukstas"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Vytauto raštas ordino magistrui“ tai Vilniuje rašytas laidavimo dokumentas, siejantis Vytautą, Jogailą ir ordino magistrą Kuchmeisterį."
+  teiginys: "tai Vilniuje rašytas laidavimo dokumentas, siejantis Vytautą, Jogailą ir ordino magistrą Kuchmeisterį."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

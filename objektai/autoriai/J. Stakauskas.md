@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # J. Stakauskas
 
 ## Santrauka
-Šaltinyje J. Stakauskas minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip Mindaugo laikų Lietuvos ir Vakarų Europos santykių autorius.
+Bibliografijoje nurodytas kaip Mindaugo laikų Lietuvos ir Vakarų Europos santykių autorius.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip Mindaugo laikų Lietuvos ir Vakarų Europos santykių autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje J. Stakauskas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip Mindaugo laikų Lietuvos ir Vakarų Europos santykių autorius."
+  teiginys: "Bibliografijoje nurodytas kaip Mindaugo laikų Lietuvos ir Vakarų Europos santykių autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

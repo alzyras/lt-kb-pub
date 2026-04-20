@@ -23,11 +23,11 @@ patikimumas: "vidutinis"
 # Bona
 
 ## Santrauka
-Šaltinyje Bona apibūdinamas taip: Įvardyta kaip Zigmanto II žmona.
+Įvardyta kaip Zigmanto II žmona.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Bona apibūdinamas taip: Įvardyta kaip Zigmanto II žmona."
+  teiginys: "Įvardyta kaip Zigmanto II žmona."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Kiltis
 
 ## Santrauka
-Šaltinyje „Kiltis“ vartojama taip: Gentis arba etninė grupė. (t-001)
+Gentis arba etninė grupė. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Kiltis
@@ -52,7 +52,7 @@ Terminas šaltinyje vartojamas šiame kontekste: senoji etnogenezė, istorijos s
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kiltis“ vartojama taip: Gentis arba etninė grupė."
+  teiginys: "Gentis arba etninė grupė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

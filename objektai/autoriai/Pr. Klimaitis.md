@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Pr. Klimaitis
 
 ## Santrauka
-Šaltinyje Pr. Klimaitis minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip Didžiojo Vilniaus seimo autorius.
+Minimas kaip Didžiojo Vilniaus seimo autorius.
 
 ## Darbai
 - Minimas kaip Didžiojo Vilniaus seimo autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Pr. Klimaitis autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip Didžiojo Vilniaus seimo autorius."
+  teiginys: "Minimas kaip Didžiojo Vilniaus seimo autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

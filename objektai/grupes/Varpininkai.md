@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Varpininkai
 
 ## Santrauka
-Šaltinyje „Varpininkai“ apibūdinama kaip visuomeninė ir politinė grupė; tekste varpininkai apibūdinami kaip su „Varpu“ susijusi grupė, kilusi iš valstiečių sluoksnio ir vėliau suskilusi į kelias politines kryptis. (t-001)
+visuomeninė ir politinė grupė; tekste varpininkai apibūdinami kaip su „Varpu“ susijusi grupė, kilusi iš valstiečių sluoksnio ir vėliau suskilusi į kelias politines kryptis. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Varpininkai
@@ -38,14 +38,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: visuomeninė ir politinė grupė
-Šaltinyje „Varpininkai“ apibūdinama kaip visuomeninė ir politinė grupė; tekste varpininkai apibūdinami kaip su „Varpu“ susijusi grupė, kilusi iš valstiečių sluoksnio ir vėliau suskilusi į kelias politines kryptis. (t-001)
+visuomeninė ir politinė grupė; tekste varpininkai apibūdinami kaip su „Varpu“ susijusi grupė, kilusi iš valstiečių sluoksnio ir vėliau suskilusi į kelias politines kryptis. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Varpininkai“ apibūdinama kaip visuomeninė ir politinė grupė; tekste varpininkai apibūdinami kaip su „Varpu“ susijusi grupė, kilusi iš valstiečių sluoksnio ir vėliau suskilusi į kelias politines kryptis. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Varpininkai“ apibūdinama kaip visuomeninė ir politinė grupė; tekste varpininkai apibūdinami kaip su „Varpu“ susijusi grupė, kilusi iš valstiečių sluoksnio ir vėliau suskilusi į kelias politines kryptis."
+  teiginys: "visuomeninė ir politinė grupė; tekste varpininkai apibūdinami kaip su „Varpu“ susijusi grupė, kilusi iš valstiečių sluoksnio ir vėliau suskilusi į kelias politines kryptis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

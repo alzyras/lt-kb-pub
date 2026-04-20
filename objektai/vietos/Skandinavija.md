@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Skandinavija
 
 ## Santrauka
-Šaltinyje vieta „Skandinavija“ siejama su šiuo kontekstu: Regionas minimas kaip ledyno susidarymo pradžios vieta. (t-001)
+Regionas minimas kaip ledyno susidarymo pradžios vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Skandinavija
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Skandinavija“ siejama su šiuo kontekstu: Regionas minimas kaip ledyno susidarymo pradžios vieta."
+  teiginys: "Regionas minimas kaip ledyno susidarymo pradžios vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

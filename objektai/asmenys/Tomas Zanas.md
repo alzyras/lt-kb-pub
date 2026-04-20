@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Tomas Zanas
 
 ## Santrauka
-Šaltinyje Tomas Zanas apibūdinamas taip: Minimas kaip filaretų vadas, ištremtas rusų.
+Minimas kaip filaretų vadas, ištremtas rusų.
 
 ## Laikotarpis ir datos
 - laikotarpis: 1823 m.
@@ -38,7 +38,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Tomas Zanas apibūdinamas taip: Minimas kaip filaretų vadas, ištremtas rusų."
+  teiginys: "Minimas kaip filaretų vadas, ištremtas rusų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

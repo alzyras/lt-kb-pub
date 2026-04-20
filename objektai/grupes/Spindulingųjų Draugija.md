@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Spindulingųjų Draugija
 
 ## Santrauka
-Šaltinyje „Spindulingųjų Draugija“ apibūdinama kaip visuomeninė draugija; spindulingųjų Draugija apibūdinama kaip visuomeninė jaunimo draugija, skleidusi žmoniškumo ir patriotizmo idėjas bei rengusi pasilinksminimus ir vakarėlius. (t-001)
+visuomeninė draugija; spindulingųjų Draugija apibūdinama kaip visuomeninė jaunimo draugija, skleidusi žmoniškumo ir patriotizmo idėjas bei rengusi pasilinksminimus ir vakarėlius. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Spindulingųjų Draugija
@@ -42,14 +42,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: visuomeninė draugija
-Šaltinyje „Spindulingųjų Draugija“ apibūdinama kaip visuomeninė draugija; spindulingųjų Draugija apibūdinama kaip visuomeninė jaunimo draugija, skleidusi žmoniškumo ir patriotizmo idėjas bei rengusi pasilinksminimus ir vakarėlius. (t-001)
+visuomeninė draugija; spindulingųjų Draugija apibūdinama kaip visuomeninė jaunimo draugija, skleidusi žmoniškumo ir patriotizmo idėjas bei rengusi pasilinksminimus ir vakarėlius. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Spindulingųjų Draugija“ apibūdinama kaip visuomeninė draugija; spindulingųjų Draugija apibūdinama kaip visuomeninė jaunimo draugija, skleidusi žmoniškumo ir patriotizmo idėjas bei rengusi pasilinksminimus ir vakarėlius. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Spindulingųjų Draugija“ apibūdinama kaip visuomeninė draugija; spindulingųjų Draugija apibūdinama kaip visuomeninė jaunimo draugija, skleidusi žmoniškumo ir patriotizmo idėjas bei rengusi pasilinksminimus ir vakarėlius."
+  teiginys: "visuomeninė draugija; spindulingųjų Draugija apibūdinama kaip visuomeninė jaunimo draugija, skleidusi žmoniškumo ir patriotizmo idėjas bei rengusi pasilinksminimus ir vakarėlius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

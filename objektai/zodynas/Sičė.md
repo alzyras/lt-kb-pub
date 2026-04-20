@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Sičė
 
 ## Santrauka
-Šaltinyje „Sičė“ vartojama taip: Kazokų centrinė stovykla arba įtvirtinta gyvenvietė. (t-001)
+Kazokų centrinė stovykla arba įtvirtinta gyvenvietė. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Sičė
@@ -54,7 +54,7 @@ Terminas šaltinyje vartojamas šiame kontekste: kazokų istorija, karo organiza
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Sičė“ vartojama taip: Kazokų centrinė stovykla arba įtvirtinta gyvenvietė."
+  teiginys: "Kazokų centrinė stovykla arba įtvirtinta gyvenvietė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

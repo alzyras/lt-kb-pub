@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Druja
 
 ## Santrauka
-Šaltinyje vieta „Druja“ siejama su šiuo kontekstu: Minima kaip rytinės sienos linijos atkarpa. (t-001)
+Minima kaip rytinės sienos linijos atkarpa. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Druja
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Druja“ siejama su šiuo kontekstu: Minima kaip rytinės sienos linijos atkarpa."
+  teiginys: "Minima kaip rytinės sienos linijos atkarpa."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

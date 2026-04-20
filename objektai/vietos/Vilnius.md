@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Vilnius
 
 ## Santrauka
-Šaltinyje vieta „Vilnius“ siejama su šiuo kontekstu: Minimas kaip Gedimino sostinė, į kurią legatai pasiuntė savo pasiuntinius. (t-001)
+Minimas kaip Gedimino sostinė, į kurią legatai pasiuntė savo pasiuntinius. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Vilnius
@@ -51,7 +51,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Vilnius“ siejama su šiuo kontekstu: Minimas kaip Gedimino sostinė, į kurią legatai pasiuntė savo pasiuntinius."
+  teiginys: "Minimas kaip Gedimino sostinė, į kurią legatai pasiuntė savo pasiuntinius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Mažoji Lietuva
 
 ## Santrauka
-Šaltinyje vieta „Mažoji Lietuva“ siejama su šiais kontekstais: Mažoji Lietuva įvardijama kaip atskiras istorinis regionas; Minima kaip nuo maro nukentėjęs Lietuvos kraštas. (t-001, t-002)
+Mažoji Lietuva įvardijama kaip atskiras istorinis regionas; Minima kaip nuo maro nukentėjęs Lietuvos kraštas. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Mažoji Lietuva
@@ -47,13 +47,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Mažoji Lietuva“ siejama su šiuo kontekstu: Mažoji Lietuva įvardijama kaip atskiras istorinis regionas."
+  teiginys: "Mažoji Lietuva įvardijama kaip atskiras istorinis regionas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Mažoji Lietuva“ siejama su šiuo kontekstu: Minima kaip nuo maro nukentėjęs Lietuvos kraštas."
+  teiginys: "Minima kaip nuo maro nukentėjęs Lietuvos kraštas."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

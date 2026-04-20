@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Girdava
 
 ## Santrauka
-Šaltinyje vieta „Girdava“ siejama su šiuo kontekstu: Įvardyta kaip ordino pilis su įkūrimo data. (t-001)
+Įvardyta kaip ordino pilis su įkūrimo data. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Girdava
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Girdava“ siejama su šiuo kontekstu: Įvardyta kaip ordino pilis su įkūrimo data."
+  teiginys: "Įvardyta kaip ordino pilis su įkūrimo data."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

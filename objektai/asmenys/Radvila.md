@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # Radvila
 
 ## Santrauka
-Šaltinyje Radvila apibūdinamas taip: Minimas kaip hetmonas ir politinis Čartoriskių priešininkas Lietuvoje.
+Minimas kaip hetmonas ir politinis Čartoriskių priešininkas Lietuvoje.
 
 ## Variantai
 - Radvilos
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Radvila apibūdinamas taip: Minimas kaip hetmonas ir politinis Čartoriskių priešininkas Lietuvoje."
+  teiginys: "Minimas kaip hetmonas ir politinis Čartoriskių priešininkas Lietuvoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

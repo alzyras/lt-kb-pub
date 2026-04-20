@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Kahalas
 
 ## Santrauka
-Šaltinyje „Kahalas“ vartojama taip: Žydų bendruomenės savivaldos organas. (t-001)
+Žydų bendruomenės savivaldos organas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Kahalas
@@ -52,7 +52,7 @@ Terminas šaltinyje vartojamas šiame kontekste: žydų bendruomenių istorija, 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kahalas“ vartojama taip: Žydų bendruomenės savivaldos organas."
+  teiginys: "Žydų bendruomenės savivaldos organas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

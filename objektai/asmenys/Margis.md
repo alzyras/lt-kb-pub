@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Margis
 
 ## Santrauka
-Šaltinyje Margis apibūdinamas taip: lietuviai, vadovaujami Margio, gindamiesi nuo vokiečių pasirenka žūtį ugnyje.
+lietuviai, vadovaujami Margio, gindamiesi nuo vokiečių pasirenka žūtį ugnyje.
 
 ## Variantai
 - Margio
@@ -42,7 +42,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Margis apibūdinamas taip: lietuviai, vadovaujami Margio, gindamiesi nuo vokiečių pasirenka žūtį ugnyje."
+  teiginys: "lietuviai, vadovaujami Margio, gindamiesi nuo vokiečių pasirenka žūtį ugnyje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

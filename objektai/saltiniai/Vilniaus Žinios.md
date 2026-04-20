@@ -41,7 +41,7 @@ patikimumas: "aukstas"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Vilniaus Žinios“ tai pirmasis lietuvių dienraštis, aiškiai išskirtas iš kitų ankstyvų lietuviškų laikraščių.
+tai pirmasis lietuvių dienraštis, aiškiai išskirtas iš kitų ankstyvų lietuviškų laikraščių.
 
 ## Ryšiai
 
@@ -50,7 +50,7 @@ patikimumas: "aukstas"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Vilniaus Žinios“ tai pirmasis lietuvių dienraštis, aiškiai išskirtas iš kitų ankstyvų lietuviškų laikraščių."
+  teiginys: "tai pirmasis lietuvių dienraštis, aiškiai išskirtas iš kitų ankstyvų lietuviškų laikraščių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # Narimantas
 
 ## Santrauka
-Šaltinyje Narimantas apibūdinamas taip: Buvęs Gardino kunigaikštis, Gedimino karo vadas ir Pskovo valdovas.
+Buvęs Gardino kunigaikštis, Gedimino karo vadas ir Pskovo valdovas.
 
 ## Variantai
 - Narimantą
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Narimantas apibūdinamas taip: Buvęs Gardino kunigaikštis, Gedimino karo vadas ir Pskovo valdovas."
+  teiginys: "Buvęs Gardino kunigaikštis, Gedimino karo vadas ir Pskovo valdovas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

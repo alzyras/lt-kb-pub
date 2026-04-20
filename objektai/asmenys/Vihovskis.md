@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Vihovskis
 
 ## Santrauka
-Šaltinyje Vihovskis apibūdinamas taip: Minimas kaip Bagdono Chmelnickio įpėdinis, su kazokais pasidavęs Jonui Kazimierui.
+Minimas kaip Bagdono Chmelnickio įpėdinis, su kazokais pasidavęs Jonui Kazimierui.
 
 ## Variantai
 - Vihovskį
@@ -42,7 +42,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Vihovskis apibūdinamas taip: Minimas kaip Bagdono Chmelnickio įpėdinis, su kazokais pasidavęs Jonui Kazimierui."
+  teiginys: "Minimas kaip Bagdono Chmelnickio įpėdinis, su kazokais pasidavęs Jonui Kazimierui."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

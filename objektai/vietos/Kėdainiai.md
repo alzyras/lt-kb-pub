@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Kėdainiai
 
 ## Santrauka
-Šaltinyje vieta „Kėdainiai“ siejama su šiais kontekstais: Kėdainiai minimi sutarties pavadinime; Minimas Kėdainių sutarties pavadinime, siejamoje su Jonušu Radvila ir švedais. (t-001, t-002)
+Kėdainiai minimi sutarties pavadinime; Minimas Kėdainių sutarties pavadinime, siejamoje su Jonušu Radvila ir švedais. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Kėdainiai
@@ -48,13 +48,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Kėdainiai“ siejama su šiuo kontekstu: Kėdainiai minimi sutarties pavadinime."
+  teiginys: "Kėdainiai minimi sutarties pavadinime."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Kėdainiai“ siejama su šiuo kontekstu: Minimas Kėdainių sutarties pavadinime, siejamoje su Jonušu Radvila ir švedais."
+  teiginys: "Minimas Kėdainių sutarties pavadinime, siejamoje su Jonušu Radvila ir švedais."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

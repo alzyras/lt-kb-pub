@@ -32,7 +32,7 @@ patikimumas: "aukstas"
 # Legatas
 
 ## Santrauka
-Šaltinyje „Legatas“ vartojama taip: Popiežiaus pasiuntinys, tarpininkas ar derybininkas. (t-001)
+Popiežiaus pasiuntinys, tarpininkas ar derybininkas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Legatas
@@ -55,7 +55,7 @@ Terminas šaltinyje vartojamas šiame kontekste: bažnytinė diplomatija, vidura
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Legatas“ vartojama taip: Popiežiaus pasiuntinys, tarpininkas ar derybininkas."
+  teiginys: "Popiežiaus pasiuntinys, tarpininkas ar derybininkas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Pabaltijis
 
 ## Santrauka
-Šaltinyje vieta „Pabaltijis“ siejama su šiuo kontekstu: Minimas kaip ordino dėmesio kryptis po išvarymo iš Mažosios Azijos. (t-001)
+Minimas kaip ordino dėmesio kryptis po išvarymo iš Mažosios Azijos. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Pabaltijis
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Pabaltijis“ siejama su šiuo kontekstu: Minimas kaip ordino dėmesio kryptis po išvarymo iš Mažosios Azijos."
+  teiginys: "Minimas kaip ordino dėmesio kryptis po išvarymo iš Mažosios Azijos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

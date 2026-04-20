@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Moralinių mokslų kolegija
 
 ## Santrauka
-Šaltinyje „Moralinių mokslų kolegija“ vartojama taip: Aukštesnės mokyklos kolegija, kurioje dėstoma filosofija, teologija ir teisė. (t-001)
+Aukštesnės mokyklos kolegija, kurioje dėstoma filosofija, teologija ir teisė. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Moralinių mokslų kolegija
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: švietimo istorija, universitet
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Moralinių mokslų kolegija“ vartojama taip: Aukštesnės mokyklos kolegija, kurioje dėstoma filosofija, teologija ir teisė."
+  teiginys: "Aukštesnės mokyklos kolegija, kurioje dėstoma filosofija, teologija ir teisė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

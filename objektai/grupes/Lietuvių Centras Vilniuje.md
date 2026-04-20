@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Lietuvių Centras Vilniuje
 
 ## Santrauka
-Šaltinyje „Lietuvių Centras Vilniuje“ apibūdinama kaip slaptas politinis centras; slaptas Vilniuje veikiantis centras, siekęs laisvos Lietuvos atstatymo ir lietuvių savarankiškumo propagandos. (t-001)
+slaptas politinis centras; slaptas Vilniuje veikiantis centras, siekęs laisvos Lietuvos atstatymo ir lietuvių savarankiškumo propagandos. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Lietuvių Centras Vilniuje
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: slaptas politinis centras
-Šaltinyje „Lietuvių Centras Vilniuje“ apibūdinama kaip slaptas politinis centras; slaptas Vilniuje veikiantis centras, siekęs laisvos Lietuvos atstatymo ir lietuvių savarankiškumo propagandos. (t-001)
+slaptas politinis centras; slaptas Vilniuje veikiantis centras, siekęs laisvos Lietuvos atstatymo ir lietuvių savarankiškumo propagandos. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Lietuvių Centras Vilniuje“ apibūdinama kaip slaptas politinis centras; slaptas Vilniuje veikiantis centras, siekęs laisvos Lietuvos atstatymo ir lietuvių savarankiškumo propagandos. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Lietuvių Centras Vilniuje“ apibūdinama kaip slaptas politinis centras; slaptas Vilniuje veikiantis centras, siekęs laisvos Lietuvos atstatymo ir lietuvių savarankiškumo propagandos."
+  teiginys: "slaptas politinis centras; slaptas Vilniuje veikiantis centras, siekęs laisvos Lietuvos atstatymo ir lietuvių savarankiškumo propagandos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

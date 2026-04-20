@@ -32,7 +32,7 @@ patikimumas: "vidutinis"
 # Kuršaitis
 
 ## Santrauka
-Šaltinyje Kuršaitis minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip „Keleivio“ redaktorius, lietuvių kalbos tyrinėtojas ir raštų autorius.
+Minimas kaip „Keleivio“ redaktorius, lietuvių kalbos tyrinėtojas ir raštų autorius.
 
 ## Darbai
 - Minimas kaip „Keleivio“ redaktorius, lietuvių kalbos tyrinėtojas ir raštų autorius. (t-001)
@@ -42,7 +42,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Kuršaitis autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip „Keleivio“ redaktorius, lietuvių kalbos tyrinėtojas ir raštų autorius."
+  teiginys: "Minimas kaip „Keleivio“ redaktorius, lietuvių kalbos tyrinėtojas ir raštų autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

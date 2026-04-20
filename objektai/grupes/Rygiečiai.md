@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Rygiečiai
 
 ## Santrauka
-Šaltinyje „Rygiečiai“ apibūdinama kaip miestiečiai; rygiečiai minimi kartu su arkivyskupu kaip ordino priešininkai, pasikvietę į talką Vytenį. (t-001)
+miestiečiai; rygiečiai minimi kartu su arkivyskupu kaip ordino priešininkai, pasikvietę į talką Vytenį. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Rygiečiai
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: miestiečiai
-Šaltinyje „Rygiečiai“ apibūdinama kaip miestiečiai; rygiečiai minimi kartu su arkivyskupu kaip ordino priešininkai, pasikvietę į talką Vytenį. (t-001)
+miestiečiai; rygiečiai minimi kartu su arkivyskupu kaip ordino priešininkai, pasikvietę į talką Vytenį. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Rygiečiai“ apibūdinama kaip miestiečiai; rygiečiai minimi kartu su arkivyskupu kaip ordino priešininkai, pasikvietę į talką Vytenį. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Rygiečiai“ apibūdinama kaip miestiečiai; rygiečiai minimi kartu su arkivyskupu kaip ordino priešininkai, pasikvietę į talką Vytenį."
+  teiginys: "miestiečiai; rygiečiai minimi kartu su arkivyskupu kaip ordino priešininkai, pasikvietę į talką Vytenį."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

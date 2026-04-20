@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Mačiulis Maironis
 
 ## Santrauka
-Šaltinyje Mačiulis Maironis apibūdinamas taip: Minimas kaip Kauno kunigų seminarijos rektorius ir poetas pralotas.
+Minimas kaip Kauno kunigų seminarijos rektorius ir poetas pralotas.
 
 ## Variantai
 - Maironis
@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Mačiulis Maironis apibūdinamas taip: Minimas kaip Kauno kunigų seminarijos rektorius ir poetas pralotas."
+  teiginys: "Minimas kaip Kauno kunigų seminarijos rektorius ir poetas pralotas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

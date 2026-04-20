@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Atskirų Lietuvos seimų šaukimas
 
 ## Santrauka
-Šaltinyje minima praktika „Atskirų Lietuvos seimų šaukimas“ siejama su formuluote: atskirus Lietuvos seimus šaukdavo patys Lietuvos ponai. Šaltinio kontekste nurodoma: kas atlieka: karalius arba Lietuvos ponai; kada atliekama: karalių nebuvimo metu, karui su Maskva arba užpuolus priešui. (t-001)
+atskirus Lietuvos seimus šaukdavo patys Lietuvos ponai. Šaltinio kontekste nurodoma: kas atlieka: karalius arba Lietuvos ponai; kada atliekama: karalių nebuvimo metu, karui su Maskva arba užpuolus priešui. (t-001)
 
 ## Pavadinimai šaltiniuose
 - atskirus Lietuvos seimus šaukdavo patys Lietuvos ponai
@@ -39,8 +39,7 @@ patikimumas: "vidutinis"
 - amziai: XVII (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Atskirų Lietuvos seimų šaukimas“ siejama su formuluote: atskirus Lietuvos seimus šaukdavo patys Lietuvos ponai. Šaltinio kontekste nurodoma: kas atlieka: karalius arba Lietuvos ponai; kada atliekama: karalių nebuvimo metu, karui su Maskva arba užpuolus priešui. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: karalius arba Lietuvos ponai (t-001)
 - kada atliekama: karalių nebuvimo metu, karui su Maskva arba užpuolus priešui (t-001)
@@ -48,7 +47,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Atskirų Lietuvos seimų šaukimas“ siejama su formuluote: atskirus Lietuvos seimus šaukdavo patys Lietuvos ponai. Šaltinio kontekste nurodoma: kas atlieka: karalius arba Lietuvos ponai; kada atliekama: karalių nebuvimo metu, karui su Maskva arba užpuolus priešui."
+  teiginys: "atskirus Lietuvos seimus šaukdavo patys Lietuvos ponai. Šaltinio kontekste nurodoma: kas atlieka: karalius arba Lietuvos ponai; kada atliekama: karalių nebuvimo metu, karui su Maskva arba užpuolus priešui."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # Mackevičius
 
 ## Santrauka
-Šaltinyje Mackevičius apibūdinamas taip: Dailininkas, kurio paveikslas iliustruoja Lucko suvažiavimą.
+Dailininkas, kurio paveikslas iliustruoja Lucko suvažiavimą.
 
 ## Variantai
 - Mackevičiaus
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Mackevičius apibūdinamas taip: Dailininkas, kurio paveikslas iliustruoja Lucko suvažiavimą."
+  teiginys: "Dailininkas, kurio paveikslas iliustruoja Lucko suvažiavimą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

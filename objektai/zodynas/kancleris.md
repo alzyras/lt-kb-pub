@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Kancleris
 
 ## Santrauka
-Šaltinyje „Kancleris“ vartojama taip: Aukščiausias raštvedybos arba valstybės administracijos pareigūnas. (t-001)
+Aukščiausias raštvedybos arba valstybės administracijos pareigūnas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Kancleris
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: valstybės administracija, pare
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kancleris“ vartojama taip: Aukščiausias raštvedybos arba valstybės administracijos pareigūnas."
+  teiginys: "Aukščiausias raštvedybos arba valstybės administracijos pareigūnas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

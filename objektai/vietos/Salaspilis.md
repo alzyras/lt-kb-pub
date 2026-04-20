@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Salaspilis
 
 ## Santrauka
-Šaltinyje vieta „Salaspilis“ siejama su šiuo kontekstu: Mūšio vieta prie Rygos, kur Katkevičius sutriuškino švedus. (t-001)
+Mūšio vieta prie Rygos, kur Katkevičius sutriuškino švedus. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Salaspilis
@@ -49,7 +49,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Salaspilis“ siejama su šiuo kontekstu: Mūšio vieta prie Rygos, kur Katkevičius sutriuškino švedus."
+  teiginys: "Mūšio vieta prie Rygos, kur Katkevičius sutriuškino švedus."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

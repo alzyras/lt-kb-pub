@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Kiaunininkai
 
 ## Santrauka
-Šaltinyje „Kiaunininkai“ vartojama taip: Valstiečiai, mokesčius mokėję kailiukais. (t-001)
+Valstiečiai, mokesčius mokėję kailiukais. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Kiaunininkai
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: mokesčių istorija, valstieči
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kiaunininkai“ vartojama taip: Valstiečiai, mokesčius mokėję kailiukais."
+  teiginys: "Valstiečiai, mokesčius mokėję kailiukais."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

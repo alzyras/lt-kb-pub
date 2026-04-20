@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Ivinskio Draugija
 
 ## Santrauka
-Šaltinyje „Ivinskio Draugija“ apibūdinama kaip draugija; 1894 m. įkurta draugija, siekusi lietuvių skyriaus Paryžiaus parodoje. (t-001)
+draugija; 1894 m. įkurta draugija, siekusi lietuvių skyriaus Paryžiaus parodoje. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Ivinskio Draugija
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: draugija
-Šaltinyje „Ivinskio Draugija“ apibūdinama kaip draugija; 1894 m. įkurta draugija, siekusi lietuvių skyriaus Paryžiaus parodoje. (t-001)
+draugija; 1894 m. įkurta draugija, siekusi lietuvių skyriaus Paryžiaus parodoje. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Ivinskio Draugija“ apibūdinama kaip draugija; 1894 m. įkurta draugija, siekusi lietuvių skyriaus Paryžiaus parodoje. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Ivinskio Draugija“ apibūdinama kaip draugija; 1894 m. įkurta draugija, siekusi lietuvių skyriaus Paryžiaus parodoje."
+  teiginys: "draugija; 1894 m. įkurta draugija, siekusi lietuvių skyriaus Paryžiaus parodoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

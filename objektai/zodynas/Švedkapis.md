@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Švedkapis
 
 ## Santrauka
-Šaltinyje „Švedkapis“ vartojama taip: Senas kapas arba kapinynas; šiame fragmente taip vadinami ir visi seni kapai. (t-001)
+Senas kapas arba kapinynas; šiame fragmente taip vadinami ir visi seni kapai. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Švedkapis
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: kapų pavadinimai, liaudies var
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Švedkapis“ vartojama taip: Senas kapas arba kapinynas; šiame fragmente taip vadinami ir visi seni kapai."
+  teiginys: "Senas kapas arba kapinynas; šiame fragmente taip vadinami ir visi seni kapai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

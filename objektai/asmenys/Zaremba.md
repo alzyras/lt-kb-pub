@@ -23,11 +23,11 @@ patikimumas: "vidutinis"
 # Zaremba
 
 ## Santrauka
-Šaltinyje Zaremba apibūdinamas taip: Vienas iš lenkų ponų, padėjusių sąmokslui prieš Švitrigailą.
+Vienas iš lenkų ponų, padėjusių sąmokslui prieš Švitrigailą.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Zaremba apibūdinamas taip: Vienas iš lenkų ponų, padėjusių sąmokslui prieš Švitrigailą."
+  teiginys: "Vienas iš lenkų ponų, padėjusių sąmokslui prieš Švitrigailą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Homelis
 
 ## Santrauka
-Šaltinyje vieta „Homelis“ siejama su šiais kontekstais: Miestas išvardijamas tarp Maskvai paliktų vietų; Homelis minimas kaip vienintelis iš karo metu atgautų miestų. (t-001, t-002)
+Miestas išvardijamas tarp Maskvai paliktų vietų; Homelis minimas kaip vienintelis iš karo metu atgautų miestų. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Homelis
@@ -48,13 +48,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Homelis“ siejama su šiuo kontekstu: Miestas išvardijamas tarp Maskvai paliktų vietų."
+  teiginys: "Miestas išvardijamas tarp Maskvai paliktų vietų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Homelis“ siejama su šiuo kontekstu: Homelis minimas kaip vienintelis iš karo metu atgautų miestų."
+  teiginys: "Homelis minimas kaip vienintelis iš karo metu atgautų miestų."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

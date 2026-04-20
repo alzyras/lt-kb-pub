@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Jonas Sobieskis
 
 ## Santrauka
-Šaltinyje Jonas Sobieskis apibūdinamas taip: Paminėtas kaip elekcijos tema. Šaltinyje Jonas Sobieskis apibūdinamas taip: Minimas kaip valdovas, kurio laikais žinomas tik vienas pinigas.
+Paminėtas kaip elekcijos tema. Minimas kaip valdovas, kurio laikais žinomas tik vienas pinigas.
 
 ## Variantai
 - Jono Sobieskio
@@ -42,13 +42,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Jonas Sobieskis apibūdinamas taip: Paminėtas kaip elekcijos tema."
+  teiginys: "Paminėtas kaip elekcijos tema."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje Jonas Sobieskis apibūdinamas taip: Minimas kaip valdovas, kurio laikais žinomas tik vienas pinigas."
+  teiginys: "Minimas kaip valdovas, kurio laikais žinomas tik vienas pinigas."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

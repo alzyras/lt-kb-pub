@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Gilija
 
 ## Santrauka
-Šaltinyje vieta „Gilija“ siejama su šiuo kontekstu: Minima kaip Nemuno kelio šaka, kuria prekės buvo gabenamos toliau į Prūsiją. (t-001)
+Minima kaip Nemuno kelio šaka, kuria prekės buvo gabenamos toliau į Prūsiją. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Gilija
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Gilija“ siejama su šiuo kontekstu: Minima kaip Nemuno kelio šaka, kuria prekės buvo gabenamos toliau į Prūsiją."
+  teiginys: "Minima kaip Nemuno kelio šaka, kuria prekės buvo gabenamos toliau į Prūsiją."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

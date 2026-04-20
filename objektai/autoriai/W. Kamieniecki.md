@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # W. Kamieniecki
 
 ## Santrauka
-Šaltinyje W. Kamieniecki minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip Lietuvos valstybės genezės autorius.
+Bibliografijoje nurodytas kaip Lietuvos valstybės genezės autorius.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip Lietuvos valstybės genezės autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje W. Kamieniecki autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip Lietuvos valstybės genezės autorius."
+  teiginys: "Bibliografijoje nurodytas kaip Lietuvos valstybės genezės autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

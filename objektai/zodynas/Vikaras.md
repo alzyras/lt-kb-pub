@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Vikaras
 
 ## Santrauka
-Šaltinyje „Vikaras“ vartojama taip: Parapijos kunigo padėjėjas arba žemesnysis dvasininkas. (t-001)
+Parapijos kunigo padėjėjas arba žemesnysis dvasininkas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Vikaras
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: bažnytinė hierarchija, religi
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Vikaras“ vartojama taip: Parapijos kunigo padėjėjas arba žemesnysis dvasininkas."
+  teiginys: "Parapijos kunigo padėjėjas arba žemesnysis dvasininkas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

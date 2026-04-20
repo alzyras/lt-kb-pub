@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Keturdukatis
 
 ## Santrauka
-Šaltinyje „Keturdukatis“ vartojama taip: keturių dukatų vertės pinigas. (t-001)
+keturių dukatų vertės pinigas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Keturdukatis
@@ -50,7 +50,7 @@ Terminas šaltinyje vartojamas šiame kontekste: numizmatika, pinigų istorija. 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Keturdukatis“ vartojama taip: keturių dukatų vertės pinigas."
+  teiginys: "keturių dukatų vertės pinigas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

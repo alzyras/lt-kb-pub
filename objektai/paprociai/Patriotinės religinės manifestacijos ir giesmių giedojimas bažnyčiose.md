@@ -31,7 +31,7 @@ patikimumas: "vidutinis"
 # Patriotinės religinės manifestacijos ir giesmių giedojimas bažnyčiose
 
 ## Santrauka
-Šaltinyje minima praktika „Patriotinės religinės manifestacijos ir giesmių giedojimas bažnyčiose“ siejama su formuluote: pusiau tautiškos, pusiau religiškos manifestacijos; patriotiškų giesmių giedojimą bažnyčiose. Šaltinio kontekste nurodoma: kada atliekama: 1863 m. sukilimo kontekste; 1863 m. sukilimo metu. (t-001)
+pusiau tautiškos, pusiau religiškos manifestacijos; patriotiškų giesmių giedojimą bažnyčiose. Šaltinio kontekste nurodoma: kada atliekama: 1863 m. sukilimo kontekste; 1863 m. sukilimo metu. (t-001)
 
 ## Pavadinimai šaltiniuose
 - pusiau tautiškos, pusiau religiškos manifestacijos
@@ -44,15 +44,14 @@ patikimumas: "vidutinis"
 - date_start/date_end: 1863 / 1863 (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Patriotinės religinės manifestacijos ir giesmių giedojimas bažnyčiose“ siejama su formuluote: pusiau tautiškos, pusiau religiškos manifestacijos; patriotiškų giesmių giedojimą bažnyčiose. Šaltinio kontekste nurodoma: kada atliekama: 1863 m. sukilimo kontekste; 1863 m. sukilimo metu. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kada atliekama: 1863 m. sukilimo kontekste; 1863 m. sukilimo metu (t-001)
 - kaip atliekama: pusiau tautiškos, pusiau religiškos manifestacijos; patriotiškų giesmių giedojimą bažnyčiose (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Patriotinės religinės manifestacijos ir giesmių giedojimas bažnyčiose“ siejama su formuluote: pusiau tautiškos, pusiau religiškos manifestacijos; patriotiškų giesmių giedojimą bažnyčiose. Šaltinio kontekste nurodoma: kada atliekama: 1863 m. sukilimo kontekste; 1863 m. sukilimo metu."
+  teiginys: "pusiau tautiškos, pusiau religiškos manifestacijos; patriotiškų giesmių giedojimą bažnyčiose. Šaltinio kontekste nurodoma: kada atliekama: 1863 m. sukilimo kontekste; 1863 m. sukilimo metu."
   pagrindžia:
     - c-001
     - c-002

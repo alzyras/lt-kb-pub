@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Rusijos ir Šveicarijos lietuvių suvažiavimas
 
 ## Santrauka
-Šaltinyje „Rusijos ir Šveicarijos lietuvių suvažiavimas“ apibūdinama kaip suvažiavimas; stokholme vykęs lietuvių suvažiavimas, skirtas Lietuvos klausimams populiarizuoti. (t-001)
+suvažiavimas; stokholme vykęs lietuvių suvažiavimas, skirtas Lietuvos klausimams populiarizuoti. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Rusijos ir Šveicarijos lietuvių suvažiavimas
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: suvažiavimas
-Šaltinyje „Rusijos ir Šveicarijos lietuvių suvažiavimas“ apibūdinama kaip suvažiavimas; stokholme vykęs lietuvių suvažiavimas, skirtas Lietuvos klausimams populiarizuoti. (t-001)
+suvažiavimas; stokholme vykęs lietuvių suvažiavimas, skirtas Lietuvos klausimams populiarizuoti. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Rusijos ir Šveicarijos lietuvių suvažiavimas“ apibūdinama kaip suvažiavimas; stokholme vykęs lietuvių suvažiavimas, skirtas Lietuvos klausimams populiarizuoti. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Rusijos ir Šveicarijos lietuvių suvažiavimas“ apibūdinama kaip suvažiavimas; stokholme vykęs lietuvių suvažiavimas, skirtas Lietuvos klausimams populiarizuoti."
+  teiginys: "suvažiavimas; stokholme vykęs lietuvių suvažiavimas, skirtas Lietuvos klausimams populiarizuoti."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

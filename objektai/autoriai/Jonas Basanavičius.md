@@ -29,7 +29,7 @@ patikimumas: "vidutinis"
 # Jonas Basanavičius
 
 ## Santrauka
-Šaltinyje Jonas Basanavičius minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip „Aušros“ siela ir vienas jos rašytojų.
+Minimas kaip „Aušros“ siela ir vienas jos rašytojų.
 
 ## Darbai
 - Minimas kaip „Aušros“ siela ir vienas jos rašytojų. (t-001)
@@ -39,7 +39,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Jonas Basanavičius autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip „Aušros“ siela ir vienas jos rašytojų."
+  teiginys: "Minimas kaip „Aušros“ siela ir vienas jos rašytojų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

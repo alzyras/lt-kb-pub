@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Gerti ne tik galima, bet ir reikią
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Gerti ne tik galima, bet ir reikią“; kontekstas: Valdžios įsakymai dėl degtinės prekybos buvo aiškinami taip, kad blaivybės judėjimui būtų suduotas smūgis. Reikšmė: Propagandinė anti-blaivybės formulė, pateisinanti gėrimą. (t-001)
+Užfiksuota formuluotė „Gerti ne tik galima, bet ir reikią“; kontekstas: Valdžios įsakymai dėl degtinės prekybos buvo aiškinami taip, kad blaivybės judėjimui būtų suduotas smūgis. Reikšmė: Propagandinė anti-blaivybės formulė, pateisinanti gėrimą. (t-001)
 
 ## Forma
 - pagrindinė forma: Gerti ne tik galima, bet ir reikią (t-001)
@@ -35,7 +35,7 @@ patikimumas: "vidutinis"
 - gerti ne tik galima, bet ir reikią.
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Valdžios įsakymai dėl degtinės prekybos buvo aiškinami taip, kad blaivybės judėjimui būtų suduotas smūgis. (t-001)
@@ -45,7 +45,7 @@ Propagandinė anti-blaivybės formulė, pateisinanti gėrimą. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Gerti ne tik galima, bet ir reikią“; kontekstas: Valdžios įsakymai dėl degtinės prekybos buvo aiškinami taip, kad blaivybės judėjimui būtų suduotas smūgis."
+  teiginys: "Užfiksuota formuluotė „Gerti ne tik galima, bet ir reikią“; kontekstas: Valdžios įsakymai dėl degtinės prekybos buvo aiškinami taip, kad blaivybės judėjimui būtų suduotas smūgis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

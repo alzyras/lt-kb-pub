@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Pavieto vėliava
 
 ## Santrauka
-Šaltinyje „Pavieto vėliava“ pavieto vėliava veikia kaip mobilizacijos ir pavieto bajorijos sutelkimo ženklas.
+pavieto vėliava veikia kaip mobilizacijos ir pavieto bajorijos sutelkimo ženklas.
 
 ## Pavadinimai šaltiniuose
 - pavieto vėliava
@@ -43,11 +43,10 @@ patikimumas: "aukstas"
 - date_end:
 
 ## Kas tai
-Šaltinyje „Pavieto vėliava“ pavieto vėliava veikia kaip mobilizacijos ir pavieto bajorijos sutelkimo ženklas.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Pavieto vėliava“ pavieto vėliava veikia kaip mobilizacijos ir pavieto bajorijos sutelkimo ženklas."
+  teiginys: "pavieto vėliava veikia kaip mobilizacijos ir pavieto bajorijos sutelkimo ženklas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

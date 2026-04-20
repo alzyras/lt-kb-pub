@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Maršalka
 
 ## Santrauka
-Šaltinyje „Maršalka“ vartojama taip: Aukštas valstybės pareigūnas arba krašto maršalas. (t-001)
+Aukštas valstybės pareigūnas arba krašto maršalas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Maršalka
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: valstybės pareigybės, adminis
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Maršalka“ vartojama taip: Aukštas valstybės pareigūnas arba krašto maršalas."
+  teiginys: "Aukštas valstybės pareigūnas arba krašto maršalas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

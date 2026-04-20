@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Švedai
 
 ## Santrauka
-Šaltinyje „Švedai“ apibūdinama kaip tauta; švedai šiame gabale veikia kaip karo pusė, kurią Karolis kurstė prieš Zigmantą ir su kuria vėliau buvo deramasi dėl paliaubų. (t-001)
+tauta; švedai šiame gabale veikia kaip karo pusė, kurią Karolis kurstė prieš Zigmantą ir su kuria vėliau buvo deramasi dėl paliaubų. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Švedai
@@ -47,14 +47,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: tauta
-Šaltinyje „Švedai“ apibūdinama kaip tauta; švedai šiame gabale veikia kaip karo pusė, kurią Karolis kurstė prieš Zigmantą ir su kuria vėliau buvo deramasi dėl paliaubų. (t-001)
+tauta; švedai šiame gabale veikia kaip karo pusė, kurią Karolis kurstė prieš Zigmantą ir su kuria vėliau buvo deramasi dėl paliaubų. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Švedai“ apibūdinama kaip tauta; švedai šiame gabale veikia kaip karo pusė, kurią Karolis kurstė prieš Zigmantą ir su kuria vėliau buvo deramasi dėl paliaubų. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Švedai“ apibūdinama kaip tauta; švedai šiame gabale veikia kaip karo pusė, kurią Karolis kurstė prieš Zigmantą ir su kuria vėliau buvo deramasi dėl paliaubų."
+  teiginys: "tauta; švedai šiame gabale veikia kaip karo pusė, kurią Karolis kurstė prieš Zigmantą ir su kuria vėliau buvo deramasi dėl paliaubų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

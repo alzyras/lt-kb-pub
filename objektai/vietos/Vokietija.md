@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Vokietija
 
 ## Santrauka
-Šaltinyje vieta „Vokietija“ siejama su šiais kontekstais: Šalis minima kaip vieta, į kurią buvo išvežta Lietuvos istorijos medžiagos; Minima kaip kolonistų ir pagalbos šaltinis kryžiuočių ordinui. (t-001, t-002)
+Šalis minima kaip vieta, į kurią buvo išvežta Lietuvos istorijos medžiagos; Minima kaip kolonistų ir pagalbos šaltinis kryžiuočių ordinui. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Vokietija
@@ -53,19 +53,19 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Vokietija“ siejama su šiuo kontekstu: Šalis minima kaip vieta, į kurią buvo išvežta Lietuvos istorijos medžiagos."
+  teiginys: "Šalis minima kaip vieta, į kurią buvo išvežta Lietuvos istorijos medžiagos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Vokietija“ siejama su šiuo kontekstu: Minima kaip kolonistų ir pagalbos šaltinis kryžiuočių ordinui."
+  teiginys: "Minima kaip kolonistų ir pagalbos šaltinis kryžiuočių ordinui."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-003
-  teiginys: "Šaltinyje vieta „Vokietija“ siejama su šiuo kontekstu: Minima kaip 30 metų karo erdvė."
+  teiginys: "Minima kaip 30 metų karo erdvė."
   pagrindžia:
     - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

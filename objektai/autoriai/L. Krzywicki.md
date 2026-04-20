@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # L. Krzywicki
 
 ## Santrauka
-Šaltinyje L. Krzywicki minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip Žemaitijos senovės autorius.
+Bibliografijoje nurodytas kaip Žemaitijos senovės autorius.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip Žemaitijos senovės autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje L. Krzywicki autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip Žemaitijos senovės autorius."
+  teiginys: "Bibliografijoje nurodytas kaip Žemaitijos senovės autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

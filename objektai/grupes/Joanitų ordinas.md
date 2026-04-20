@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Joanitų ordinas
 
 ## Santrauka
-Šaltinyje „Joanitų ordinas“ apibūdinama kaip ordinas; paminėtas kaip itališkas pavyzdys iš brolijų, kurios vėliau virto kariaujančiųjų riterių ordinais. (t-001)
+ordinas; paminėtas kaip itališkas pavyzdys iš brolijų, kurios vėliau virto kariaujančiųjų riterių ordinais. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Joanitų ordinas
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: ordinas
-Šaltinyje „Joanitų ordinas“ apibūdinama kaip ordinas; paminėtas kaip itališkas pavyzdys iš brolijų, kurios vėliau virto kariaujančiųjų riterių ordinais. (t-001)
+ordinas; paminėtas kaip itališkas pavyzdys iš brolijų, kurios vėliau virto kariaujančiųjų riterių ordinais. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Joanitų ordinas“ apibūdinama kaip ordinas; paminėtas kaip itališkas pavyzdys iš brolijų, kurios vėliau virto kariaujančiųjų riterių ordinais. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Joanitų ordinas“ apibūdinama kaip ordinas; paminėtas kaip itališkas pavyzdys iš brolijų, kurios vėliau virto kariaujančiųjų riterių ordinais."
+  teiginys: "ordinas; paminėtas kaip itališkas pavyzdys iš brolijų, kurios vėliau virto kariaujančiųjų riterių ordinais."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

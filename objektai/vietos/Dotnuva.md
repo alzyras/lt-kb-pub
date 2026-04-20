@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Dotnuva
 
 ## Santrauka
-Šaltinyje vieta „Dotnuva“ siejama su šiuo kontekstu: Minima kaip vieta, kurioje valdžios įkurtas valstiečių bankas šelpė rusų kolonistus. (t-001)
+Minima kaip vieta, kurioje valdžios įkurtas valstiečių bankas šelpė rusų kolonistus. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Dotnuva
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Dotnuva“ siejama su šiuo kontekstu: Minima kaip vieta, kurioje valdžios įkurtas valstiečių bankas šelpė rusų kolonistus."
+  teiginys: "Minima kaip vieta, kurioje valdžios įkurtas valstiečių bankas šelpė rusų kolonistus."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

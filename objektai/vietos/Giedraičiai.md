@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Giedraičiai
 
 ## Santrauka
-Šaltinyje vieta „Giedraičiai“ siejama su šiuo kontekstu: Minimi kaip vieta, kur triukšmadariai dėl lietuviškų pamaldų buvo nubausti. (t-001)
+Minimi kaip vieta, kur triukšmadariai dėl lietuviškų pamaldų buvo nubausti. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Giedraičiai
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Giedraičiai“ siejama su šiuo kontekstu: Minimi kaip vieta, kur triukšmadariai dėl lietuviškų pamaldų buvo nubausti."
+  teiginys: "Minimi kaip vieta, kur triukšmadariai dėl lietuviškų pamaldų buvo nubausti."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

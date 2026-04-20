@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # F. Balodis
 
 ## Santrauka
-Šaltinyje F. Balodis minimas autorystės, redagavimo arba tyrimo kontekste: Nurodytas kaip `Latvijas Archailogija` redaktorius.
+Nurodytas kaip `Latvijas Archailogija` redaktorius.
 
 ## Darbai
 - Nurodytas kaip `Latvijas Archailogija` redaktorius. (t-001)
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje F. Balodis autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Nurodytas kaip `Latvijas Archailogija` redaktorius."
+  teiginys: "Nurodytas kaip `Latvijas Archailogija` redaktorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

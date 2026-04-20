@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Lietuvos gubernija
 
 ## Santrauka
-Šaltinyje vieta „Lietuvos gubernija“ siejama su šiuo kontekstu: Minima kaip laikina vieninga gubernija, iš kurios vėliau buvo sudarytos Vilniaus, Kauno ir Gardino gubernijos. (t-001)
+Minima kaip laikina vieninga gubernija, iš kurios vėliau buvo sudarytos Vilniaus, Kauno ir Gardino gubernijos. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Lietuvos gubernija
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Lietuvos gubernija“ siejama su šiuo kontekstu: Minima kaip laikina vieninga gubernija, iš kurios vėliau buvo sudarytos Vilniaus, Kauno ir Gardino gubernijos."
+  teiginys: "Minima kaip laikina vieninga gubernija, iš kurios vėliau buvo sudarytos Vilniaus, Kauno ir Gardino gubernijos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

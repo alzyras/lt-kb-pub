@@ -24,7 +24,7 @@ patikimumas: "aukstas"
 # Prahos skatikai
 
 ## Santrauka
-Šaltinyje „Prahos skatikai“ tai konkretus svetimų pinigų pavidalas, minimas tarp kitų Lietuvoje vartotų pinigų formų.
+tai konkretus svetimų pinigų pavidalas, minimas tarp kitų Lietuvoje vartotų pinigų formų.
 
 ## Pavadinimai šaltiniuose
 - Prahos skatikai
@@ -39,11 +39,10 @@ patikimumas: "aukstas"
 - date_end:
 
 ## Kas tai
-Šaltinyje „Prahos skatikai“ tai konkretus svetimų pinigų pavidalas, minimas tarp kitų Lietuvoje vartotų pinigų formų.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Prahos skatikai“ tai konkretus svetimų pinigų pavidalas, minimas tarp kitų Lietuvoje vartotų pinigų formų."
+  teiginys: "tai konkretus svetimų pinigų pavidalas, minimas tarp kitų Lietuvoje vartotų pinigų formų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

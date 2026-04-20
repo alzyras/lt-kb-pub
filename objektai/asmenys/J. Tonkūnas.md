@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # J. Tonkūnas
 
 ## Santrauka
-Šaltinyje J. Tonkūnas apibūdinamas taip: Paminėtas kaip švietimo ministras, kuriam padėkota už rūpestį leidiniu.
+Paminėtas kaip švietimo ministras, kuriam padėkota už rūpestį leidiniu.
 
 ## Variantai
 - J. Tonkūnui
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje J. Tonkūnas apibūdinamas taip: Paminėtas kaip švietimo ministras, kuriam padėkota už rūpestį leidiniu."
+  teiginys: "Paminėtas kaip švietimo ministras, kuriam padėkota už rūpestį leidiniu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

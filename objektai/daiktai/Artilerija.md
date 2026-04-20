@@ -30,7 +30,7 @@ patikimumas: "vidutinis"
 # Artilerija
 
 ## Santrauka
-Šaltinyje „Artilerija“ artilerija minima kaip speciali kariuomenės rūšis ir kaip viena iš karo išlaidų dalių.
+artilerija minima kaip speciali kariuomenės rūšis ir kaip viena iš karo išlaidų dalių.
 
 ## Pavadinimai šaltiniuose
 - artilerijai
@@ -46,17 +46,16 @@ patikimumas: "vidutinis"
 - date_end:
 
 ## Kas tai
-Šaltinyje „Artilerija“ artilerija minima kaip speciali kariuomenės rūšis ir kaip viena iš karo išlaidų dalių.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Artilerija“ artilerija minima kaip speciali kariuomenės rūšis ir kaip viena iš karo išlaidų dalių."
+  teiginys: "artilerija minima kaip speciali kariuomenės rūšis ir kaip viena iš karo išlaidų dalių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Artilerija“ siejamas su šiuo kontekstu: Šaltinis įvardija ne pavienį daiktą, o karinę techniką / kariuomenės rūšį, todėl kandidatas pateikiamas apibendrintai."
+  teiginys: "Šaltinis įvardija ne pavienį daiktą, o karinę techniką / kariuomenės rūšį, todėl kandidatas pateikiamas apibendrintai."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

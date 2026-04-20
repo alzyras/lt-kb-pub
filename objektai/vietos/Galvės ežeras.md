@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Galvės ežeras
 
 ## Santrauka
-Šaltinyje vieta „Galvės ežeras“ siejama su šiuo kontekstu: Minimas kaip vieta, kur prie ežero pusiasalio Gediminas pastatė tvirtą pilį. (t-001)
+Minimas kaip vieta, kur prie ežero pusiasalio Gediminas pastatė tvirtą pilį. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Galvės ežeras
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Galvės ežeras“ siejama su šiuo kontekstu: Minimas kaip vieta, kur prie ežero pusiasalio Gediminas pastatė tvirtą pilį."
+  teiginys: "Minimas kaip vieta, kur prie ežero pusiasalio Gediminas pastatė tvirtą pilį."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

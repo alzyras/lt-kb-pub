@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Vladislovas Lokietka
 
 ## Santrauka
-Šaltinyje Vladislovas Lokietka apibūdinamas taip: XIV a. pradžioje jis suvienijo Lenkiją, o 1325 m. kovai su ordinu sudarė sąjungą su Gediminu.
+XIV a. pradžioje jis suvienijo Lenkiją, o 1325 m. kovai su ordinu sudarė sąjungą su Gediminu.
 
 ## Variantai
 - Vladislovu Lokietką
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Vladislovas Lokietka apibūdinamas taip: XIV a. pradžioje jis suvienijo Lenkiją, o 1325 m. kovai su ordinu sudarė sąjungą su Gediminu."
+  teiginys: "XIV a. pradžioje jis suvienijo Lenkiją, o 1325 m. kovai su ordinu sudarė sąjungą su Gediminu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

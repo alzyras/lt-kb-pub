@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Černigovo kraštas
 
 ## Santrauka
-Šaltinyje vieta „Černigovo kraštas“ siejama su šiuo kontekstu: Minimas kaip viena iš Kazimiero valdymo pabaigoje likusių kunigaikštysčių sričių. (t-001)
+Minimas kaip viena iš Kazimiero valdymo pabaigoje likusių kunigaikštysčių sričių. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Černigovo kraštas
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Černigovo kraštas“ siejama su šiuo kontekstu: Minimas kaip viena iš Kazimiero valdymo pabaigoje likusių kunigaikštysčių sričių."
+  teiginys: "Minimas kaip viena iš Kazimiero valdymo pabaigoje likusių kunigaikštysčių sričių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

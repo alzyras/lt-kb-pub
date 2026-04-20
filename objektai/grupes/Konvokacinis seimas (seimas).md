@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Konvokacinis seimas (seimas)
 
 ## Santrauka
-Šaltinyje „Konvokacinis seimas“ apibūdinama kaip seimas; konvokacinis seimas įvardytas kaip mirus karaliui šaukiamas tarpuvaldžio seimas, kuris sprendžia karaliaus rinkimo datą ir su elekcija susijusius klausimus. (t-001)
+seimas; konvokacinis seimas įvardytas kaip mirus karaliui šaukiamas tarpuvaldžio seimas, kuris sprendžia karaliaus rinkimo datą ir su elekcija susijusius klausimus. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Konvokacinis seimas (seimas)
@@ -40,14 +40,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: seimas
-Šaltinyje „Konvokacinis seimas“ apibūdinama kaip seimas; konvokacinis seimas įvardytas kaip mirus karaliui šaukiamas tarpuvaldžio seimas, kuris sprendžia karaliaus rinkimo datą ir su elekcija susijusius klausimus. (t-001)
+seimas; konvokacinis seimas įvardytas kaip mirus karaliui šaukiamas tarpuvaldžio seimas, kuris sprendžia karaliaus rinkimo datą ir su elekcija susijusius klausimus. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Konvokacinis seimas“ apibūdinama kaip seimas; konvokacinis seimas įvardytas kaip mirus karaliui šaukiamas tarpuvaldžio seimas, kuris sprendžia karaliaus rinkimo datą ir su elekcija susijusius klausimus. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Konvokacinis seimas“ apibūdinama kaip seimas; konvokacinis seimas įvardytas kaip mirus karaliui šaukiamas tarpuvaldžio seimas, kuris sprendžia karaliaus rinkimo datą ir su elekcija susijusius klausimus."
+  teiginys: "seimas; konvokacinis seimas įvardytas kaip mirus karaliui šaukiamas tarpuvaldžio seimas, kuris sprendžia karaliaus rinkimo datą ir su elekcija susijusius klausimus."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

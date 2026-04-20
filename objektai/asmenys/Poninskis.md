@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # Poninskis
 
 ## Santrauka
-Šaltinyje Poninskis apibūdinamas taip: Minimas kaip Rusų skiriamas maršalka, prieš kurį protestuojama seimo pradžios scenoje.
+Minimas kaip Rusų skiriamas maršalka, prieš kurį protestuojama seimo pradžios scenoje.
 
 ## Variantai
 - Poninskį
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Poninskis apibūdinamas taip: Minimas kaip Rusų skiriamas maršalka, prieš kurį protestuojama seimo pradžios scenoje."
+  teiginys: "Minimas kaip Rusų skiriamas maršalka, prieš kurį protestuojama seimo pradžios scenoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

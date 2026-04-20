@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Vikingai
 
 ## Santrauka
-Šaltinyje „Vikingai“ siejama su šiuo kontekstu: Vikingai aprašomi kaip ateiviai iš už jūros, užplūdę Europą ir įsikūrę aisčių pajūriuose. (t-001)
+Vikingai aprašomi kaip ateiviai iš už jūros, užplūdę Europą ir įsikūrę aisčių pajūriuose. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Vikingai
@@ -37,14 +37,13 @@ patikimumas: "aukstas"
 - Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
 
 ## Kas tai
-Šaltinyje „Vikingai“ siejama su šiuo kontekstu: Vikingai aprašomi kaip ateiviai iš už jūros, užplūdę Europą ir įsikūrę aisčių pajūriuose. (t-001)
-
+Žr. santrauką.
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Vikingai“ siejama su šiuo kontekstu: Vikingai aprašomi kaip ateiviai iš už jūros, užplūdę Europą ir įsikūrę aisčių pajūriuose. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Vikingai“ siejama su šiuo kontekstu: Vikingai aprašomi kaip ateiviai iš už jūros, užplūdę Europą ir įsikūrę aisčių pajūriuose."
+  teiginys: "Vikingai aprašomi kaip ateiviai iš už jūros, užplūdę Europą ir įsikūrę aisčių pajūriuose."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

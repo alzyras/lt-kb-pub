@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Bukovina
 
 ## Santrauka
-Šaltinyje vieta „Bukovina“ siejama su šiuo kontekstu: Minimi Bukovinos miškai, kuriuose žuvo Lenkų kariuomenė. (t-001)
+Minimi Bukovinos miškai, kuriuose žuvo Lenkų kariuomenė. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Bukovina
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Bukovina“ siejama su šiuo kontekstu: Minimi Bukovinos miškai, kuriuose žuvo Lenkų kariuomenė."
+  teiginys: "Minimi Bukovinos miškai, kuriuose žuvo Lenkų kariuomenė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Parapijinės mokyklos
 
 ## Santrauka
-Šaltinyje „Parapijinės mokyklos“ vartojama taip: Parapijų finansuojamos ir išlaikomos mokyklos. (t-001)
+Parapijų finansuojamos ir išlaikomos mokyklos. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Parapijinės mokyklos
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: švietimo istorija, išeivijos 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Parapijinės mokyklos“ vartojama taip: Parapijų finansuojamos ir išlaikomos mokyklos."
+  teiginys: "Parapijų finansuojamos ir išlaikomos mokyklos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Dortmundas
 
 ## Santrauka
-Šaltinyje vieta „Dortmundas“ siejama su šiuo kontekstu: Minimas kaip vienintelis aiškesnis lietuvių tautiško judėjimo centras Vokietijoje. (t-001)
+Minimas kaip vienintelis aiškesnis lietuvių tautiško judėjimo centras Vokietijoje. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Dortmundas
@@ -49,7 +49,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Dortmundas“ siejama su šiuo kontekstu: Minimas kaip vienintelis aiškesnis lietuvių tautiško judėjimo centras Vokietijoje."
+  teiginys: "Minimas kaip vienintelis aiškesnis lietuvių tautiško judėjimo centras Vokietijoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Hymansas
 
 ## Santrauka
-Šaltinyje Hymansas apibūdinamas taip: Minimas kaip Belgų atstovas, kuriam pavesta pirmininkauti Lietuvos ir Lenkijos deryboms dėl Vilniaus klausimo.
+Minimas kaip Belgų atstovas, kuriam pavesta pirmininkauti Lietuvos ir Lenkijos deryboms dėl Vilniaus klausimo.
 
 ## Variantai
 - Hymanso
@@ -44,7 +44,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Hymansas apibūdinamas taip: Minimas kaip Belgų atstovas, kuriam pavesta pirmininkauti Lietuvos ir Lenkijos deryboms dėl Vilniaus klausimo."
+  teiginys: "Minimas kaip Belgų atstovas, kuriam pavesta pirmininkauti Lietuvos ir Lenkijos deryboms dėl Vilniaus klausimo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

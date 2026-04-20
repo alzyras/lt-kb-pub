@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Kryžių Kalnas
 
 ## Santrauka
-Šaltinyje vieta „Kryžių Kalnas“ siejama su šiuo kontekstu: Piliakalnis įvardytas kaip šventa vieta, ant kurios statomi kryžiai. (t-001)
+Piliakalnis įvardytas kaip šventa vieta, ant kurios statomi kryžiai. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Kryžių Kalnas
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Kryžių Kalnas“ siejama su šiuo kontekstu: Piliakalnis įvardytas kaip šventa vieta, ant kurios statomi kryžiai."
+  teiginys: "Piliakalnis įvardytas kaip šventa vieta, ant kurios statomi kryžiai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

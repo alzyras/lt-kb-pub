@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Vievis
 
 ## Santrauka
-Šaltinyje vieta „Vievis“ siejama su šiuo kontekstu: Minimas kaip vieta, prie kurios lenkai karo veiksmais sulaikė lietuvių žygiavimą. (t-001)
+Minimas kaip vieta, prie kurios lenkai karo veiksmais sulaikė lietuvių žygiavimą. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Vievis
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Vievis“ siejama su šiuo kontekstu: Minimas kaip vieta, prie kurios lenkai karo veiksmais sulaikė lietuvių žygiavimą."
+  teiginys: "Minimas kaip vieta, prie kurios lenkai karo veiksmais sulaikė lietuvių žygiavimą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Latviai
 
 ## Santrauka
-Šaltinyje „Latviai“ apibūdinama kaip tauta; šaltinyje pasakyta, kad iš vokiečių ordino valdžion patekusių kilčių susiformavo latvių tauta. (t-001)
+tauta; šaltinyje pasakyta, kad iš vokiečių ordino valdžion patekusių kilčių susiformavo latvių tauta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Latviai
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: tauta
-Šaltinyje „Latviai“ apibūdinama kaip tauta; šaltinyje pasakyta, kad iš vokiečių ordino valdžion patekusių kilčių susiformavo latvių tauta. (t-001)
+tauta; šaltinyje pasakyta, kad iš vokiečių ordino valdžion patekusių kilčių susiformavo latvių tauta. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Latviai“ apibūdinama kaip tauta; šaltinyje pasakyta, kad iš vokiečių ordino valdžion patekusių kilčių susiformavo latvių tauta. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Latviai“ apibūdinama kaip tauta; šaltinyje pasakyta, kad iš vokiečių ordino valdžion patekusių kilčių susiformavo latvių tauta."
+  teiginys: "tauta; šaltinyje pasakyta, kad iš vokiečių ordino valdžion patekusių kilčių susiformavo latvių tauta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

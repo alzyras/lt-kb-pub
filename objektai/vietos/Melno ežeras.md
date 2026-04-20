@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Melno ežeras
 
 ## Santrauka
-Šaltinyje vieta „Melno ežeras“ siejama su šiuo kontekstu: Minimas kaip vieta, kur netoli buvo sudaryta Melno taika. (t-001)
+Minimas kaip vieta, kur netoli buvo sudaryta Melno taika. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Melno ežeras
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Melno ežeras“ siejama su šiuo kontekstu: Minimas kaip vieta, kur netoli buvo sudaryta Melno taika."
+  teiginys: "Minimas kaip vieta, kur netoli buvo sudaryta Melno taika."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

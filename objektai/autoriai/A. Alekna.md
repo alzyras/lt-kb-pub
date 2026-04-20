@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # A. Alekna
 
 ## Santrauka
-Šaltinyje A. Alekna minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip Valančiaus biografijos autorius.
+Minimas kaip Valančiaus biografijos autorius.
 
 ## Darbai
 - Minimas kaip Valančiaus biografijos autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje A. Alekna autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip Valančiaus biografijos autorius."
+  teiginys: "Minimas kaip Valančiaus biografijos autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

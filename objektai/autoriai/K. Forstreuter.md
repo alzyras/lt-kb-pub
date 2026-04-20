@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # K. Forstreuter
 
 ## Santrauka
-Šaltinyje K. Forstreuter minimas kaip autorius; šis vaidmuo siejamas su: Die Bekehrung Gedimins.
+Die Bekehrung Gedimins.
 
 ## Laikotarpis ir datos
 - 1928 m.
@@ -41,7 +41,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje K. Forstreuter minimas kaip autorius, siejamas su: Die Bekehrung Gedimins."
+  teiginys: "Die Bekehrung Gedimins."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

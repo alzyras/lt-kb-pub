@@ -29,7 +29,7 @@ patikimumas: "vidutinis"
 # Kuratorius
 
 ## Santrauka
-Šaltinyje „Kuratorius“ vartojama taip: švietimo apygardos pareigūnas arba globėjas, į kurį teikiamas memorialas. (t-001)
+švietimo apygardos pareigūnas arba globėjas, į kurį teikiamas memorialas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Kuratorius
@@ -52,7 +52,7 @@ Terminas šaltinyje vartojamas šiame kontekste: švietimo administracija, parei
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kuratorius“ vartojama taip: švietimo apygardos pareigūnas arba globėjas, į kurį teikiamas memorialas."
+  teiginys: "švietimo apygardos pareigūnas arba globėjas, į kurį teikiamas memorialas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

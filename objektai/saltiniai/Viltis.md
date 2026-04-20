@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Viltis“ tai politiškai aktyvus lietuviškas laikraštis, apibūdintas kaip stipriausias savo meto leidinys.
+tai politiškai aktyvus lietuviškas laikraštis, apibūdintas kaip stipriausias savo meto leidinys.
 
 ## Ryšiai
 
@@ -53,7 +53,7 @@ patikimumas: "aukstas"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Viltis“ tai politiškai aktyvus lietuviškas laikraštis, apibūdintas kaip stipriausias savo meto leidinys."
+  teiginys: "tai politiškai aktyvus lietuviškas laikraštis, apibūdintas kaip stipriausias savo meto leidinys."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

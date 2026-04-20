@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # M. Liubavski
 
 ## Santrauka
-Šaltinyje M. Liubavski minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip bendros Lietuvos istorijos veikalo autorius.
+Bibliografijoje nurodytas kaip bendros Lietuvos istorijos veikalo autorius.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip bendros Lietuvos istorijos veikalo autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje M. Liubavski autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip bendros Lietuvos istorijos veikalo autorius."
+  teiginys: "Bibliografijoje nurodytas kaip bendros Lietuvos istorijos veikalo autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Sviatoslavas (Smolensko kunigaikštis)
 
 ## Santrauka
-Šaltinyje Sviatoslavas (Smolensko kunigaikštis) apibūdinamas taip: Andriaus sąjungininkas, Smolensko kunigaikštis.
+Andriaus sąjungininkas, Smolensko kunigaikštis.
 
 ## Variantai
 - Smolensko kunigaikštis Sviatoslavas
@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Sviatoslavas (Smolensko kunigaikštis) apibūdinamas taip: Andriaus sąjungininkas, Smolensko kunigaikštis."
+  teiginys: "Andriaus sąjungininkas, Smolensko kunigaikštis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 # Vietininkas
 
 ## Santrauka
-Šaltinyje „Vietininkas“ vartojama taip: Valdovo vietą užimantis pavaduotojas arba įgaliotinis. (t-001)
+Valdovo vietą užimantis pavaduotojas arba įgaliotinis. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Vietininkas
@@ -56,7 +56,7 @@ Terminas šaltinyje vartojamas šiame kontekste: politinė istorija, valdžios p
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Vietininkas“ vartojama taip: Valdovo vietą užimantis pavaduotojas arba įgaliotinis."
+  teiginys: "Valdovo vietą užimantis pavaduotojas arba įgaliotinis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

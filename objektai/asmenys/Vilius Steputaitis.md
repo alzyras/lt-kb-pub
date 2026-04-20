@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Vilius Steputaitis
 
 ## Santrauka
-Šaltinyje Vilius Steputaitis apibūdinamas taip: Minimas kaip dvarininkas dr., 1913 m. išrinktas iš Tilžės apygardos.
+Minimas kaip dvarininkas dr., 1913 m. išrinktas iš Tilžės apygardos.
 
 ## Variantai
 - Vilių Steputaitį
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Vilius Steputaitis apibūdinamas taip: Minimas kaip dvarininkas dr., 1913 m. išrinktas iš Tilžės apygardos."
+  teiginys: "Minimas kaip dvarininkas dr., 1913 m. išrinktas iš Tilžės apygardos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

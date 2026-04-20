@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Mokinių pasipriešinimas pravoslavinimui mokyklose
 
 ## Santrauka
-Šaltinyje minima praktika „Mokinių pasipriešinimas pravoslavinimui mokyklose“ siejama su formuluote: mokiniai atsisakinėjo kalbėti rusiškai maldas, eiti į cerkves ir ėmė burtis į kuopeles. Šaltinio kontekste nurodoma: kas atlieka: mokiniai; kada atliekama: po Kražių skerdynių; XIX a. pabaigoje. (t-001)
+mokiniai atsisakinėjo kalbėti rusiškai maldas, eiti į cerkves ir ėmė burtis į kuopeles. Šaltinio kontekste nurodoma: kas atlieka: mokiniai; kada atliekama: po Kražių skerdynių; XIX a. pabaigoje. (t-001)
 
 ## Pavadinimai šaltiniuose
 - mokiniai atsisakinėjo kalbėti rusiškai maldas, eiti į cerkves ir ėmė burtis į kuopeles
@@ -40,8 +40,7 @@ patikimumas: "vidutinis"
 - date_start/date_end: 1893 / 1893 (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Mokinių pasipriešinimas pravoslavinimui mokyklose“ siejama su formuluote: mokiniai atsisakinėjo kalbėti rusiškai maldas, eiti į cerkves ir ėmė burtis į kuopeles. Šaltinio kontekste nurodoma: kas atlieka: mokiniai; kada atliekama: po Kražių skerdynių; XIX a. pabaigoje. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: mokiniai (t-001)
 - kada atliekama: po Kražių skerdynių; XIX a. pabaigoje (t-001)
@@ -49,7 +48,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Mokinių pasipriešinimas pravoslavinimui mokyklose“ siejama su formuluote: mokiniai atsisakinėjo kalbėti rusiškai maldas, eiti į cerkves ir ėmė burtis į kuopeles. Šaltinio kontekste nurodoma: kas atlieka: mokiniai; kada atliekama: po Kražių skerdynių; XIX a. pabaigoje."
+  teiginys: "mokiniai atsisakinėjo kalbėti rusiškai maldas, eiti į cerkves ir ėmė burtis į kuopeles. Šaltinio kontekste nurodoma: kas atlieka: mokiniai; kada atliekama: po Kražių skerdynių; XIX a. pabaigoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

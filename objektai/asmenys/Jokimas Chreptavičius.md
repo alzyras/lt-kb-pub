@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Jokimas Chreptavičius
 
 ## Santrauka
-Šaltinyje Jokimas Chreptavičius apibūdinamas taip: Minimas kaip vicekancleris, Edukacinės Komisijos sumanytojas ir Lietuvos mokyklų globėjas; vėliau šiame gabale išskiriamas kaip svarbiausias mokyklų kūrėjas.
+Minimas kaip vicekancleris, Edukacinės Komisijos sumanytojas ir Lietuvos mokyklų globėjas; vėliau šiame gabale išskiriamas kaip svarbiausias mokyklų kūrėjas.
 
 ## Variantai
 - Chreptavičius
@@ -43,7 +43,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Jokimas Chreptavičius apibūdinamas taip: Minimas kaip vicekancleris, Edukacinės Komisijos sumanytojas ir Lietuvos mokyklų globėjas; vėliau šiame gabale išskiriamas kaip svarbiausias mokyklų kūrėjas."
+  teiginys: "Minimas kaip vicekancleris, Edukacinės Komisijos sumanytojas ir Lietuvos mokyklų globėjas; vėliau šiame gabale išskiriamas kaip svarbiausias mokyklų kūrėjas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

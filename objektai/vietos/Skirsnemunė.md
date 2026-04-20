@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Skirsnemunė
 
 ## Santrauka
-Šaltinyje vieta „Skirsnemunė“ siejama su šiuo kontekstu: Minima kaip ordino pilis prie Nemuno. (t-001)
+Minima kaip ordino pilis prie Nemuno. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Skirsnemunė
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Skirsnemunė“ siejama su šiuo kontekstu: Minima kaip ordino pilis prie Nemuno."
+  teiginys: "Minima kaip ordino pilis prie Nemuno."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

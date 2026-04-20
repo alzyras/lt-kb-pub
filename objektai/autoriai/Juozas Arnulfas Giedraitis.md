@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Juozas Arnulfas Giedraitis
 
 ## Santrauka
-Šaltinyje Juozas Arnulfas Giedraitis minimas kaip vertėjas, švietimo rėmėjas; šis vaidmuo siejamas su: lietuviškasis Šv. Rašto vertimas..
+lietuviškasis Šv. Rašto vertimas..
 
 ## Darbai
 - lietuviškasis Šv. Rašto vertimas.. (t-001)
@@ -37,7 +37,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Juozas Arnulfas Giedraitis minimas kaip vertėjas, švietimo rėmėjas, siejamas su: lietuviškasis Šv. Rašto vertimas.."
+  teiginys: "lietuviškasis Šv. Rašto vertimas.."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

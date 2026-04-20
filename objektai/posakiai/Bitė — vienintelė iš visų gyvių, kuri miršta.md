@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Bitė — vienintelė iš visų gyvių, kuri miršta
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Bitė — vienintelė iš visų gyvių, kuri miršta, kaip ir žmogus“; kontekstas: Aiškinant bičių reikšmę pateikiama vaizdinga mintis apie bitės ir žmogaus panašumą, o toliau šią mintį pratęsia žodis „bičiulystė“. Reikšmė: Tai aforistiška formuluotė, jungianti bičių gyvavimo ypatybę su žmogaus likimu ir bendrumo įvaizdžiu. (t-001)
+Užfiksuota formuluotė „Bitė — vienintelė iš visų gyvių, kuri miršta, kaip ir žmogus“; kontekstas: Aiškinant bičių reikšmę pateikiama vaizdinga mintis apie bitės ir žmogaus panašumą, o toliau šią mintį pratęsia žodis „bičiulystė“. Reikšmė: Tai aforistiška formuluotė, jungianti bičių gyvavimo ypatybę su žmogaus likimu ir bendrumo įvaizdžiu. (t-001)
 
 ## Forma
 - pagrindinė forma: Bitė — vienintelė iš visų gyvių, kuri miršta, kaip ir žmogus (t-001)
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 - juk bitė — vienintelė iš visų gyvių, kuri miršta, kaip ir žmogus
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Aiškinant bičių reikšmę pateikiama vaizdinga mintis apie bitės ir žmogaus panašumą, o toliau šią mintį pratęsia žodis „bičiulystė“. (t-001)
@@ -48,7 +48,7 @@ Tai aforistiška formuluotė, jungianti bičių gyvavimo ypatybę su žmogaus li
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Bitė — vienintelė iš visų gyvių, kuri miršta, kaip ir žmogus“; kontekstas: Aiškinant bičių reikšmę pateikiama vaizdinga mintis apie bitės ir žmogaus panašumą, o toliau šią mintį pratęsia žodis „bičiulystė“."
+  teiginys: "Užfiksuota formuluotė „Bitė — vienintelė iš visų gyvių, kuri miršta, kaip ir žmogus“; kontekstas: Aiškinant bičių reikšmę pateikiama vaizdinga mintis apie bitės ir žmogaus panašumą, o toliau šią mintį pratęsia žodis „bičiulystė“."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

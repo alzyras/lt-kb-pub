@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Australija
 
 ## Santrauka
-Šaltinyje vieta „Australija“ siejama su šiuo kontekstu: Minima kaip emigracijos kryptis greta Amerikos ir Afrikos. (t-001)
+Minima kaip emigracijos kryptis greta Amerikos ir Afrikos. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Australija
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Australija“ siejama su šiuo kontekstu: Minima kaip emigracijos kryptis greta Amerikos ir Afrikos."
+  teiginys: "Minima kaip emigracijos kryptis greta Amerikos ir Afrikos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

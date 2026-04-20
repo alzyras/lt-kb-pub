@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Baltieji
 
 ## Santrauka
-Šaltinyje „Baltieji“ apibūdinama kaip lenkų politinė partija; kita lenkų partija, kuri norėjo pašalinti rusus, bet nepritarė radikaliai raudonųjų programai. (t-001)
+lenkų politinė partija; kita lenkų partija, kuri norėjo pašalinti rusus, bet nepritarė radikaliai raudonųjų programai. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Baltieji
@@ -46,14 +46,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: lenkų politinė partija
-Šaltinyje „Baltieji“ apibūdinama kaip lenkų politinė partija; kita lenkų partija, kuri norėjo pašalinti rusus, bet nepritarė radikaliai raudonųjų programai. (t-001)
+lenkų politinė partija; kita lenkų partija, kuri norėjo pašalinti rusus, bet nepritarė radikaliai raudonųjų programai. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Baltieji“ apibūdinama kaip lenkų politinė partija; kita lenkų partija, kuri norėjo pašalinti rusus, bet nepritarė radikaliai raudonųjų programai. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Baltieji“ apibūdinama kaip lenkų politinė partija; kita lenkų partija, kuri norėjo pašalinti rusus, bet nepritarė radikaliai raudonųjų programai."
+  teiginys: "lenkų politinė partija; kita lenkų partija, kuri norėjo pašalinti rusus, bet nepritarė radikaliai raudonųjų programai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

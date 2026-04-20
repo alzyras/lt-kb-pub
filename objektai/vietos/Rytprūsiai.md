@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Rytprūsiai
 
 ## Santrauka
-Šaltinyje vieta „Rytprūsiai“ siejama su šiuo kontekstu: Minimi kaip regionas, į kurį iš Vokietijos rengiamos jaunimo ekskursijos ir kur organizuojamos šventės bei kursai. (t-001)
+Minimi kaip regionas, į kurį iš Vokietijos rengiamos jaunimo ekskursijos ir kur organizuojamos šventės bei kursai. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Rytprūsiai
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Rytprūsiai“ siejama su šiuo kontekstu: Minimi kaip regionas, į kurį iš Vokietijos rengiamos jaunimo ekskursijos ir kur organizuojamos šventės bei kursai."
+  teiginys: "Minimi kaip regionas, į kurį iš Vokietijos rengiamos jaunimo ekskursijos ir kur organizuojamos šventės bei kursai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

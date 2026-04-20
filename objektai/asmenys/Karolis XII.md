@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Karolis XII
 
 ## Santrauka
-Šaltinyje Karolis XII apibūdinamas taip: Minimas kaip Švedų karalius, įsiveržęs į Lietuvą ir Lenkiją, o vėliau kariavęs su Augustu II ir Petru I.
+Minimas kaip Švedų karalius, įsiveržęs į Lietuvą ir Lenkiją, o vėliau kariavęs su Augustu II ir Petru I.
 
 ## Variantai
 - Karolio XII
@@ -43,7 +43,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Karolis XII apibūdinamas taip: Minimas kaip Švedų karalius, įsiveržęs į Lietuvą ir Lenkiją, o vėliau kariavęs su Augustu II ir Petru I."
+  teiginys: "Minimas kaip Švedų karalius, įsiveržęs į Lietuvą ir Lenkiją, o vėliau kariavęs su Augustu II ir Petru I."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

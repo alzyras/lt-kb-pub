@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Tytuvėnai
 
 ## Santrauka
-Šaltinyje vieta „Tytuvėnai“ siejama su šiuo kontekstu: Minima kaip vieta, kur pirmą kartą šiame pasakojime žmonės priešinosi bažnyčios uždarymui. (t-001)
+Minima kaip vieta, kur pirmą kartą šiame pasakojime žmonės priešinosi bažnyčios uždarymui. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Tytuvėnai
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Tytuvėnai“ siejama su šiuo kontekstu: Minima kaip vieta, kur pirmą kartą šiame pasakojime žmonės priešinosi bažnyčios uždarymui."
+  teiginys: "Minima kaip vieta, kur pirmą kartą šiame pasakojime žmonės priešinosi bažnyčios uždarymui."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

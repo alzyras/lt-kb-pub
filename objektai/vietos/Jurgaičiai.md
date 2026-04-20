@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Jurgaičiai
 
 ## Santrauka
-Šaltinyje vieta „Jurgaičiai“ siejama su šiuo kontekstu: Kaimas nurodomas kaip Kryžių Kalno vieta. (t-001)
+Kaimas nurodomas kaip Kryžių Kalno vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Jurgaičiai
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Jurgaičiai“ siejama su šiuo kontekstu: Kaimas nurodomas kaip Kryžių Kalno vieta."
+  teiginys: "Kaimas nurodomas kaip Kryžių Kalno vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

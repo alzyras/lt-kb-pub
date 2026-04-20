@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # Alpis
 
 ## Santrauka
-Šaltinyje Alpis apibūdinamas taip: Kęstučiui kalint Marienburge, padėjo jam pabėgti.
+Kęstučiui kalint Marienburge, padėjo jam pabėgti.
 
 ## Variantai
 - Alpio
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Alpis apibūdinamas taip: Kęstučiui kalint Marienburge, padėjo jam pabėgti."
+  teiginys: "Kęstučiui kalint Marienburge, padėjo jam pabėgti."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

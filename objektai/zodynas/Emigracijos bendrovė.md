@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Emigracijos bendrovė
 
 ## Santrauka
-Šaltinyje „Emigracijos bendrovė“ vartojama taip: Emigrantų gabenimu užsiimanti bendrovė, kuri galėjo piktnaudžiauti keliautojų padėtimi. (t-001)
+Emigrantų gabenimu užsiimanti bendrovė, kuri galėjo piktnaudžiauti keliautojų padėtimi. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Emigracijos bendrovė
@@ -54,7 +54,7 @@ Terminas šaltinyje vartojamas šiame kontekste: emigracijos istorija, migracijo
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Emigracijos bendrovė“ vartojama taip: Emigrantų gabenimu užsiimanti bendrovė, kuri galėjo piktnaudžiauti keliautojų padėtimi."
+  teiginys: "Emigrantų gabenimu užsiimanti bendrovė, kuri galėjo piktnaudžiauti keliautojų padėtimi."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

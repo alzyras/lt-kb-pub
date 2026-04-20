@@ -29,7 +29,7 @@ patikimumas: "vidutinis"
 # K. Stadnicki
 
 ## Santrauka
-Šaltinyje K. Stadnicki minimas kaip autorius; šis vaidmuo siejamas su: Synowie Gedymina I, II.
+Synowie Gedymina I, II.
 
 ## Laikotarpis ir datos
 - 1853 m.
@@ -43,7 +43,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje K. Stadnicki minimas kaip autorius, siejamas su: Synowie Gedymina I, II."
+  teiginys: "Synowie Gedymina I, II."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

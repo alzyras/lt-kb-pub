@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Lauksodis
 
 ## Santrauka
-Šaltinyje vieta „Lauksodis“ siejama su šiuo kontekstu: Minimas tarp jėzuitų mažesnių mokyklų vietų. (t-001)
+Minimas tarp jėzuitų mažesnių mokyklų vietų. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Lauksodis
@@ -42,7 +42,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Lauksodis“ siejama su šiuo kontekstu: Minimas tarp jėzuitų mažesnių mokyklų vietų."
+  teiginys: "Minimas tarp jėzuitų mažesnių mokyklų vietų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

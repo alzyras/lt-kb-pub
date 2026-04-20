@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Judeničas
 
 ## Santrauka
-Šaltinyje Judeničas apibūdinamas taip: Minimas kaip bermontininkų kariuomenės vadas. Šaltinyje Judeničas apibūdinamas taip: Minimas kaip rusų generolas, su kurio kariuomene Golcas dėjosi kovai su bolševikais Estijoje.
+Minimas kaip bermontininkų kariuomenės vadas. Minimas kaip rusų generolas, su kurio kariuomene Golcas dėjosi kovai su bolševikais Estijoje.
 
 ## Variantai
 - Judeničo
@@ -44,13 +44,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Judeničas apibūdinamas taip: Minimas kaip bermontininkų kariuomenės vadas."
+  teiginys: "Minimas kaip bermontininkų kariuomenės vadas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje Judeničas apibūdinamas taip: Minimas kaip rusų generolas, su kurio kariuomene Golcas dėjosi kovai su bolševikais Estijoje."
+  teiginys: "Minimas kaip rusų generolas, su kurio kariuomene Golcas dėjosi kovai su bolševikais Estijoje."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Pilsudskis
 
 ## Santrauka
-Šaltinyje Pilsudskis apibūdinamas taip: Minimas kaip Lenkijos kariuomenės vadovas, užėmęs pietinę ir rytinę Lietuvos dalį.
+Minimas kaip Lenkijos kariuomenės vadovas, užėmęs pietinę ir rytinę Lietuvos dalį.
 
 ## Variantai
 - Pilsudskio
@@ -42,7 +42,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Pilsudskis apibūdinamas taip: Minimas kaip Lenkijos kariuomenės vadovas, užėmęs pietinę ir rytinę Lietuvos dalį."
+  teiginys: "Minimas kaip Lenkijos kariuomenės vadovas, užėmęs pietinę ir rytinę Lietuvos dalį."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

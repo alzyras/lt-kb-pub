@@ -26,14 +26,13 @@ patikimumas: "vidutinis"
 # Valdovų tarpusavio vadinimas broliu
 
 ## Santrauka
-Šaltinyje minima praktika „Valdovų tarpusavio vadinimas broliu“ siejama su formuluote: valdovai vienas kitą vadindavo broliu. Šaltinio kontekste nurodoma: kas atlieka: valdovai; kada atliekama: valdovams bendraujant tarpusavyje; pavyzdyje minimas laiškas tarp valdovų. (t-001)
+valdovai vienas kitą vadindavo broliu. Šaltinio kontekste nurodoma: kas atlieka: valdovai; kada atliekama: valdovams bendraujant tarpusavyje; pavyzdyje minimas laiškas tarp valdovų. (t-001)
 
 ## Pavadinimai šaltiniuose
 - valdovai vienas kitą vadindavo broliu
 
 ## Kas tai
-Šaltinyje minima praktika „Valdovų tarpusavio vadinimas broliu“ siejama su formuluote: valdovai vienas kitą vadindavo broliu. Šaltinio kontekste nurodoma: kas atlieka: valdovai; kada atliekama: valdovams bendraujant tarpusavyje; pavyzdyje minimas laiškas tarp valdovų. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: valdovai (t-001)
 - kada atliekama: valdovams bendraujant tarpusavyje; pavyzdyje minimas laiškas tarp valdovų (t-001)
@@ -41,7 +40,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Valdovų tarpusavio vadinimas broliu“ siejama su formuluote: valdovai vienas kitą vadindavo broliu. Šaltinio kontekste nurodoma: kas atlieka: valdovai; kada atliekama: valdovams bendraujant tarpusavyje; pavyzdyje minimas laiškas tarp valdovų."
+  teiginys: "valdovai vienas kitą vadindavo broliu. Šaltinio kontekste nurodoma: kas atlieka: valdovai; kada atliekama: valdovams bendraujant tarpusavyje; pavyzdyje minimas laiškas tarp valdovų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

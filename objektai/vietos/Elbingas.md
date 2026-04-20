@@ -23,7 +23,7 @@ patikimumas: "aukstas"
 # Elbingas
 
 ## Santrauka
-Šaltinyje vieta „Elbingas“ siejama su šiuo kontekstu: Minimas tarp pačių stipriausių ordino pilių. (t-001)
+Minimas tarp pačių stipriausių ordino pilių. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Elbingas
@@ -39,7 +39,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Elbingas“ siejama su šiuo kontekstu: Minimas tarp pačių stipriausių ordino pilių."
+  teiginys: "Minimas tarp pačių stipriausių ordino pilių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

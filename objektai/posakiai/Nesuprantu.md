@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Nesuprantu
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Nesuprantu“; kontekstas: Valančius moko, kaip į rusiškai kalbinančius žmones atsakyti trumpa atsisakymo formule. Reikšmė: Trumpa gynybinė atsakymo formulė prieš rusinimą. (t-001)
+Užfiksuota formuluotė „Nesuprantu“; kontekstas: Valančius moko, kaip į rusiškai kalbinančius žmones atsakyti trumpa atsisakymo formule. Reikšmė: Trumpa gynybinė atsakymo formulė prieš rusinimą. (t-001)
 
 ## Forma
 - pagrindinė forma: Nesuprantu (t-001)
@@ -35,7 +35,7 @@ patikimumas: "vidutinis"
 - „Nesuprantu".
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Valančius moko, kaip į rusiškai kalbinančius žmones atsakyti trumpa atsisakymo formule. (t-001)
@@ -45,7 +45,7 @@ Trumpa gynybinė atsakymo formulė prieš rusinimą. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Nesuprantu“; kontekstas: Valančius moko, kaip į rusiškai kalbinančius žmones atsakyti trumpa atsisakymo formule."
+  teiginys: "Užfiksuota formuluotė „Nesuprantu“; kontekstas: Valančius moko, kaip į rusiškai kalbinančius žmones atsakyti trumpa atsisakymo formule."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

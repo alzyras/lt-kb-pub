@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # M. Urbšienė
 
 ## Santrauka
-Šaltinyje M. Urbšienė minimas autorystės, redagavimo arba tyrimo kontekste: Minima kaip Klaipėdos krašto istorijos paraštės autorė.
+Minima kaip Klaipėdos krašto istorijos paraštės autorė.
 
 ## Darbai
 - Minima kaip Klaipėdos krašto istorijos paraštės autorė. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje M. Urbšienė autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minima kaip Klaipėdos krašto istorijos paraštės autorė."
+  teiginys: "Minima kaip Klaipėdos krašto istorijos paraštės autorė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Minskas
 
 ## Santrauka
-Šaltinyje vieta „Minskas“ siejama su šiuo kontekstu: Minimas kaip vienas iš lietuvių rytinių žygių laimėjimų. (t-001)
+Minimas kaip vienas iš lietuvių rytinių žygių laimėjimų. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Minskas
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Minskas“ siejama su šiuo kontekstu: Minimas kaip vienas iš lietuvių rytinių žygių laimėjimų."
+  teiginys: "Minimas kaip vienas iš lietuvių rytinių žygių laimėjimų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

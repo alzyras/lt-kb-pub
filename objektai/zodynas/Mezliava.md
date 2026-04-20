@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Mezliava
 
 ## Santrauka
-Šaltinyje „Mezliava“ vartojama taip: Natūrinių mokesčių rūšis, mokestis produktais ar gyvuliais. (t-001)
+Natūrinių mokesčių rūšis, mokestis produktais ar gyvuliais. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Mezliava
@@ -50,7 +50,7 @@ Terminas šaltinyje vartojamas šiame kontekste: mokesčių istorija, ūkio isto
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Mezliava“ vartojama taip: Natūrinių mokesčių rūšis, mokestis produktais ar gyvuliais."
+  teiginys: "Natūrinių mokesčių rūšis, mokestis produktais ar gyvuliais."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

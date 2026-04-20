@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Patrankų liejykla
 
 ## Santrauka
-Šaltinyje „Patrankų liejykla“ vartojama taip: Patrankoms lieti skirta dirbtuvė arba gamykla. (t-001)
+Patrankoms lieti skirta dirbtuvė arba gamykla. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Patrankų liejykla
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: karo pramonė, ginkluotė. (t-0
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Patrankų liejykla“ vartojama taip: Patrankoms lieti skirta dirbtuvė arba gamykla."
+  teiginys: "Patrankoms lieti skirta dirbtuvė arba gamykla."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

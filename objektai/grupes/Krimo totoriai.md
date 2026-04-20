@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Krimo totoriai
 
 ## Santrauka
-Šaltinyje „Krimo totoriai“ apibūdinama kaip tauta; krimo totoriai minimi kaip Zigmanto sąjungininkai prieš Maskvą; už jų paramą mokama metinė duoklė. (t-001)
+tauta; krimo totoriai minimi kaip Zigmanto sąjungininkai prieš Maskvą; už jų paramą mokama metinė duoklė. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Krimo totoriai
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: tauta
-Šaltinyje „Krimo totoriai“ apibūdinama kaip tauta; krimo totoriai minimi kaip Zigmanto sąjungininkai prieš Maskvą; už jų paramą mokama metinė duoklė. (t-001)
+tauta; krimo totoriai minimi kaip Zigmanto sąjungininkai prieš Maskvą; už jų paramą mokama metinė duoklė. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Krimo totoriai“ apibūdinama kaip tauta; krimo totoriai minimi kaip Zigmanto sąjungininkai prieš Maskvą; už jų paramą mokama metinė duoklė. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Krimo totoriai“ apibūdinama kaip tauta; krimo totoriai minimi kaip Zigmanto sąjungininkai prieš Maskvą; už jų paramą mokama metinė duoklė."
+  teiginys: "tauta; krimo totoriai minimi kaip Zigmanto sąjungininkai prieš Maskvą; už jų paramą mokama metinė duoklė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

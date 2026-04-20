@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Žemietija
 
 ## Santrauka
-Šaltinyje „Žemietija“ vartojama taip: visiems luomams bendra Rusijos gubernijos savivaldybė. (t-001)
+visiems luomams bendra Rusijos gubernijos savivaldybė. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Žemietija
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: vietos savivalda, administracij
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Žemietija“ vartojama taip: visiems luomams bendra Rusijos gubernijos savivaldybė."
+  teiginys: "visiems luomams bendra Rusijos gubernijos savivaldybė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

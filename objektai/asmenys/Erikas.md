@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Erikas
 
 ## Santrauka
-Šaltinyje Erikas apibūdinamas taip: Minimas kaip Švedijos valdovas, kurį pašalino ponai ir kurio vietą atidavė Jonui.
+Minimas kaip Švedijos valdovas, kurį pašalino ponai ir kurio vietą atidavė Jonui.
 
 ## Variantai
 - Eriko
@@ -33,7 +33,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Erikas apibūdinamas taip: Minimas kaip Švedijos valdovas, kurį pašalino ponai ir kurio vietą atidavė Jonui."
+  teiginys: "Minimas kaip Švedijos valdovas, kurį pašalino ponai ir kurio vietą atidavė Jonui."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

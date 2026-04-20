@@ -37,7 +37,7 @@ patikimumas: "vidutinis"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Klaipėdos krašto statutas“ šis statutas siejamas su 1922 m. sudaryta komisija ir vėliau konvencijoje aprašytu autonominiu režimu Klaipėdos kraštui.
+šis statutas siejamas su 1922 m. sudaryta komisija ir vėliau konvencijoje aprašytu autonominiu režimu Klaipėdos kraštui.
 
 ## Ryšiai
 
@@ -46,7 +46,7 @@ patikimumas: "vidutinis"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Klaipėdos krašto statutas“ šis statutas siejamas su 1922 m. sudaryta komisija ir vėliau konvencijoje aprašytu autonominiu režimu Klaipėdos kraštui."
+  teiginys: "šis statutas siejamas su 1922 m. sudaryta komisija ir vėliau konvencijoje aprašytu autonominiu režimu Klaipėdos kraštui."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

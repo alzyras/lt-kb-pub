@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Kirilas Terleckis
 
 ## Santrauka
-Šaltinyje Kirilas Terleckis apibūdinamas taip: Minimas kaip Vladimiro vyskupas ir vienas pagrindinių unijos šalininkų.
+Minimas kaip Vladimiro vyskupas ir vienas pagrindinių unijos šalininkų.
 
 ## Variantai
 - Terleckis
@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Kirilas Terleckis apibūdinamas taip: Minimas kaip Vladimiro vyskupas ir vienas pagrindinių unijos šalininkų."
+  teiginys: "Minimas kaip Vladimiro vyskupas ir vienas pagrindinių unijos šalininkų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

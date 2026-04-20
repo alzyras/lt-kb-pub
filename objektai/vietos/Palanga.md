@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Palanga
 
 ## Santrauka
-Šaltinyje vieta „Palanga“ siejama su šiuo kontekstu: Minima kaip vieta prie planuoto Šventosios uosto. (t-001)
+Minima kaip vieta prie planuoto Šventosios uosto. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Palanga
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Palanga“ siejama su šiuo kontekstu: Minima kaip vieta prie planuoto Šventosios uosto."
+  teiginys: "Minima kaip vieta prie planuoto Šventosios uosto."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

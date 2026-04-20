@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Dysna
 
 ## Santrauka
-Šaltinyje vieta „Dysna“ siejama su šiuo kontekstu: Upė minima kaip rytinė aukštaičių gyvenamų žemių riba. (t-001)
+Upė minima kaip rytinė aukštaičių gyvenamų žemių riba. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Dysna
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Dysna“ siejama su šiuo kontekstu: Upė minima kaip rytinė aukštaičių gyvenamų žemių riba."
+  teiginys: "Upė minima kaip rytinė aukštaičių gyvenamų žemių riba."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

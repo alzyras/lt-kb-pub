@@ -23,11 +23,11 @@ patikimumas: "aukstas"
 # E. Vileišienė
 
 ## Santrauka
-Šaltinyje E. Vileišienė apibūdinamas taip: Minimas kaip Komiteto iždininkas.
+Minimas kaip Komiteto iždininkas.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje E. Vileišienė apibūdinamas taip: Minimas kaip Komiteto iždininkas."
+  teiginys: "Minimas kaip Komiteto iždininkas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

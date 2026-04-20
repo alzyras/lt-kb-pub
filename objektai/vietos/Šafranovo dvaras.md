@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Šafranovo dvaras
 
 ## Santrauka
-Šaltinyje vieta „Šafranovo dvaras“ siejama su šiuo kontekstu: Minimas kaip rytinės Lietuvos sienos linijos pradžios taškas. (t-001)
+Minimas kaip rytinės Lietuvos sienos linijos pradžios taškas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Šafranovo dvaras
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Šafranovo dvaras“ siejama su šiuo kontekstu: Minimas kaip rytinės Lietuvos sienos linijos pradžios taškas."
+  teiginys: "Minimas kaip rytinės Lietuvos sienos linijos pradžios taškas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

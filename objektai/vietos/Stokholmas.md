@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Stokholmas
 
 ## Santrauka
-Šaltinyje vieta „Stokholmas“ siejama su šiais kontekstais: Miestas minimas kaip geografinis orientyras prie Birkos; Minimas kaip parodos vieta, kur rodytos Švedijos karo relikvijos. (t-001, t-002)
+Miestas minimas kaip geografinis orientyras prie Birkos; Minimas kaip parodos vieta, kur rodytos Švedijos karo relikvijos. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Stokholmas
@@ -50,13 +50,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Stokholmas“ siejama su šiuo kontekstu: Miestas minimas kaip geografinis orientyras prie Birkos."
+  teiginys: "Miestas minimas kaip geografinis orientyras prie Birkos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Stokholmas“ siejama su šiuo kontekstu: Minimas kaip parodos vieta, kur rodytos Švedijos karo relikvijos."
+  teiginys: "Minimas kaip parodos vieta, kur rodytos Švedijos karo relikvijos."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

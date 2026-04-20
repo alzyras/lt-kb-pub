@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Mogilevas
 
 ## Santrauka
-Šaltinyje vieta „Mogilevas“ siejama su šiuo kontekstu: Minimas tarp miestų, kurie greitai pasidavė rusams. (t-001)
+Minimas tarp miestų, kurie greitai pasidavė rusams. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Mogilevas
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Mogilevas“ siejama su šiuo kontekstu: Minimas tarp miestų, kurie greitai pasidavė rusams."
+  teiginys: "Minimas tarp miestų, kurie greitai pasidavė rusams."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

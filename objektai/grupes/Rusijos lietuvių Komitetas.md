@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Rusijos lietuvių Komitetas
 
 ## Santrauka
-Šaltinyje „Rusijos lietuvių Komitetas“ apibūdinama kaip komitetas; komitetas, siunčiantis savo atstovus į Švediją ir Daniją lietuvių reikalams. (t-001)
+komitetas; komitetas, siunčiantis savo atstovus į Švediją ir Daniją lietuvių reikalams. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Rusijos lietuvių Komitetas
@@ -36,14 +36,14 @@ patikimumas: "vidutinis"
 
 ## Kas tai
 - tipas: komitetas
-Šaltinyje „Rusijos lietuvių Komitetas“ apibūdinama kaip komitetas; komitetas, siunčiantis savo atstovus į Švediją ir Daniją lietuvių reikalams. (t-001)
+komitetas; komitetas, siunčiantis savo atstovus į Švediją ir Daniją lietuvių reikalams. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Rusijos lietuvių Komitetas“ apibūdinama kaip komitetas; komitetas, siunčiantis savo atstovus į Švediją ir Daniją lietuvių reikalams. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Rusijos lietuvių Komitetas“ apibūdinama kaip komitetas; komitetas, siunčiantis savo atstovus į Švediją ir Daniją lietuvių reikalams."
+  teiginys: "komitetas; komitetas, siunčiantis savo atstovus į Švediją ir Daniją lietuvių reikalams."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # L. Natkevičius
 
 ## Santrauka
-Šaltinyje L. Natkevičius minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip veikalų apie Lietuvos ir Lenkijos ginčą autorius.
+Minimas kaip veikalų apie Lietuvos ir Lenkijos ginčą autorius.
 
 ## Darbai
 - Minimas kaip veikalų apie Lietuvos ir Lenkijos ginčą autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje L. Natkevičius autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip veikalų apie Lietuvos ir Lenkijos ginčą autorius."
+  teiginys: "Minimas kaip veikalų apie Lietuvos ir Lenkijos ginčą autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

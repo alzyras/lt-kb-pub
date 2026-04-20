@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Šach-Achmetas
 
 ## Santrauka
-Šaltinyje Šach-Achmetas apibūdinamas taip: Livonijos ordino magistras, Aleksandro sąjungininkas kare su Maskva.
+Livonijos ordino magistras, Aleksandro sąjungininkas kare su Maskva.
 
 ## Variantai
 - Šach-Achmeto
@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Šach-Achmetas apibūdinamas taip: Livonijos ordino magistras, Aleksandro sąjungininkas kare su Maskva."
+  teiginys: "Livonijos ordino magistras, Aleksandro sąjungininkas kare su Maskva."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

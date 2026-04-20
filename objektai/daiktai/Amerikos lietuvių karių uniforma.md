@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Amerikos lietuvių karių uniforma
 
 ## Santrauka
-Šaltinyje „Amerikos lietuvių karių uniforma“ siejamas su šiuo kontekstu: Uniforma čia susieta su Amerikos lietuvių organizuota kariuomene ir jos pasirodymais paraduose bei švenčių iškilmėse.
+Uniforma čia susieta su Amerikos lietuvių organizuota kariuomene ir jos pasirodymais paraduose bei švenčių iškilmėse.
 
 ## Pavadinimai šaltiniuose
 - savo uniformą
@@ -44,11 +44,10 @@ patikimumas: "vidutinis"
 - date_end:
 
 ## Kas tai
-Šaltinyje „Amerikos lietuvių karių uniforma“ siejamas su šiuo kontekstu: Uniforma čia susieta su Amerikos lietuvių organizuota kariuomene ir jos pasirodymais paraduose bei švenčių iškilmėse.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Amerikos lietuvių karių uniforma“ siejamas su šiuo kontekstu: Uniforma čia susieta su Amerikos lietuvių organizuota kariuomene ir jos pasirodymais paraduose bei švenčių iškilmėse."
+  teiginys: "Uniforma čia susieta su Amerikos lietuvių organizuota kariuomene ir jos pasirodymais paraduose bei švenčių iškilmėse."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

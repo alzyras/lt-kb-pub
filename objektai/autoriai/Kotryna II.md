@@ -30,7 +30,7 @@ patikimumas: "vidutinis"
 # Kotryna II
 
 ## Santrauka
-Šaltinyje Kotryna II minimas kaip rašytoja.
+Kotryna II minimas kaip rašytoja.
 
 ## Laikotarpis ir datos
 - 1762—1796 m.
@@ -43,7 +43,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Kotryna II minimas kaip rašytoja."
+  teiginys: "Kotryna II minimas kaip rašytoja."
   pagrindžia:
     - c-001
     - c-002

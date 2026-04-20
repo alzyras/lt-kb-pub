@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Juozas Dovydaitis
 
 ## Santrauka
-Šaltinyje Juozas Dovydaitis apibūdinamas taip: Minimas kaip Valančiaus bendradarbis, daug knygučių išleidęs Šiaulėniškio Senelio slapyvardžiu.
+Minimas kaip Valančiaus bendradarbis, daug knygučių išleidęs Šiaulėniškio Senelio slapyvardžiu.
 
 ## Variantai
 - J. S. Dovydaitis
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Juozas Dovydaitis apibūdinamas taip: Minimas kaip Valančiaus bendradarbis, daug knygučių išleidęs Šiaulėniškio Senelio slapyvardžiu."
+  teiginys: "Minimas kaip Valančiaus bendradarbis, daug knygučių išleidęs Šiaulėniškio Senelio slapyvardžiu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

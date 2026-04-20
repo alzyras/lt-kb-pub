@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Jonas Perlingas
 
 ## Santrauka
-Šaltinyje Jonas Perlingas apibūdinamas taip: Švitrigailos rašto antraštėje suvažiavimas įvardytas kaip dokumento adresatas, o tekste aiškiai sakoma, kad į jį siunčiamas dokumentas dėl bendros akcijos prieš Lenkiją ir Bažnyčių unijos rėmimo.
+Švitrigailos rašto antraštėje suvažiavimas įvardytas kaip dokumento adresatas, o tekste aiškiai sakoma, kad į jį siunčiamas dokumentas dėl bendros akcijos prieš Lenkiją ir Bažnyčių unijos rėmimo.
 
 ## Variantai
 - Joną Perlingą
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Jonas Perlingas apibūdinamas taip: Švitrigailos rašto antraštėje suvažiavimas įvardytas kaip dokumento adresatas, o tekste aiškiai sakoma, kad į jį siunčiamas dokumentas dėl bendros akcijos prieš Lenkiją ir Bažnyčių unijos rėmimo."
+  teiginys: "Švitrigailos rašto antraštėje suvažiavimas įvardytas kaip dokumento adresatas, o tekste aiškiai sakoma, kad į jį siunčiamas dokumentas dėl bendros akcijos prieš Lenkiją ir Bažnyčių unijos rėmimo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

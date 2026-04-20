@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Jėznas
 
 ## Santrauka
-Šaltinyje vieta „Jėznas“ siejama su šiuo kontekstu: Minimas kaip viena iš vietų, kuriose bolševikų buvo atimta teritorija. (t-001)
+Minimas kaip viena iš vietų, kuriose bolševikų buvo atimta teritorija. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Jėznas
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Jėznas“ siejama su šiuo kontekstu: Minimas kaip viena iš vietų, kuriose bolševikų buvo atimta teritorija."
+  teiginys: "Minimas kaip viena iš vietų, kuriose bolševikų buvo atimta teritorija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,20 +27,19 @@ patikimumas: "vidutinis"
 # Rytprūsių jaunimo ekskursijos, šventės ir kursai
 
 ## Santrauka
-Šaltinyje minima praktika „Rytprūsių jaunimo ekskursijos, šventės ir kursai“ siejama su formuluote: Į Rytprūsius iš visos Vokietijos daromos jaunimo ekskursijos; čia taip pat organizuojamos įvairios šventės ir kursai. (t-001)
+Į Rytprūsius iš visos Vokietijos daromos jaunimo ekskursijos; čia taip pat organizuojamos įvairios šventės ir kursai. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Į Rytprūsius iš visos Vokietijos daromos jaunimo ekskursijos; čia taip pat organizuojamos įvairios šventės ir kursai
 
 ## Kas tai
-Šaltinyje minima praktika „Rytprūsių jaunimo ekskursijos, šventės ir kursai“ siejama su formuluote: Į Rytprūsius iš visos Vokietijos daromos jaunimo ekskursijos; čia taip pat organizuojamos įvairios šventės ir kursai. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kaip atliekama: Į Rytprūsius iš visos Vokietijos daromos jaunimo ekskursijos; čia taip pat organizuojamos įvairios šventės ir kursai (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Rytprūsių jaunimo ekskursijos, šventės ir kursai“ siejama su formuluote: Į Rytprūsius iš visos Vokietijos daromos jaunimo ekskursijos; čia taip pat organizuojamos įvairios šventės ir kursai."
+  teiginys: "Į Rytprūsius iš visos Vokietijos daromos jaunimo ekskursijos; čia taip pat organizuojamos įvairios šventės ir kursai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

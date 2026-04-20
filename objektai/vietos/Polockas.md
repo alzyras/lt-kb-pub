@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Polockas
 
 ## Santrauka
-Šaltinyje vieta „Polockas“ siejama su šiuo kontekstu: Minimas kaip lietuvių pasiektas ir ilgiausiai išlaikytas rytinis taškas. (t-001)
+Minimas kaip lietuvių pasiektas ir ilgiausiai išlaikytas rytinis taškas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Polockas
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Polockas“ siejama su šiuo kontekstu: Minimas kaip lietuvių pasiektas ir ilgiausiai išlaikytas rytinis taškas."
+  teiginys: "Minimas kaip lietuvių pasiektas ir ilgiausiai išlaikytas rytinis taškas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

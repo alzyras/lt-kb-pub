@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Didžioji Lietuvos kunigaikštystė ir Lenkų karalystė yra vienas kūnas
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Didžioji Lietuvos kunigaikštystė ir Lenkų karalystė yra vienas nedalomas ir vienalytis kūnas, o taip pat ne skirtinga, bet viena bendra valstybė, kuri iš dviejų valstybių ir dviejų tautų suėjo ir susijungė į vieną visuomenę“; kontekstas: Cituojama Liublino unijos akto formuluotė, kuria Lietuvos ir Lenkijos jungtis apibrėžiama kaip vienas bendras politinis kūnas. Reikšmė: Įsimintina konstitucinė frazė, aiškinanti unijos ideologinę kalbą apie vieną valstybę. (t-001)
+Užfiksuota formuluotė „Didžioji Lietuvos kunigaikštystė ir Lenkų karalystė yra vienas nedalomas ir vienalytis kūnas, o taip pat ne skirtinga, bet viena bendra valstybė, kuri iš dviejų valstybių ir dviejų tautų suėjo ir susijungė į vieną visuomenę“; kontekstas: Cituojama Liublino unijos akto formuluotė, kuria Lietuvos ir Lenkijos jungtis apibrėžiama kaip vienas bendras politinis kūnas. Reikšmė: Įsimintina konstitucinė frazė, aiškinanti unijos ideologinę kalbą apie vieną valstybę. (t-001)
 
 ## Forma
 - pagrindinė forma: Didžioji Lietuvos kunigaikštystė ir Lenkų karalystė yra vienas nedalomas ir vienalytis kūnas, o taip pat ne skirtinga, bet viena bendra valstybė, kuri iš dviejų valstybių ir dviejų tautų suėjo ir susijungė į vieną visuomenę (t-001)
@@ -50,7 +50,7 @@ Cituojama Liublino unijos akto formuluotė, kuria Lietuvos ir Lenkijos jungtis a
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Didžioji Lietuvos kunigaikštystė ir Lenkų karalystė yra vienas nedalomas ir vienalytis kūnas, o taip pat ne skirtinga, bet viena bendra valstybė, kuri iš dviejų valstybių ir dviejų tautų suėjo ir susijungė į vieną visuomenę“; kontekstas: Cituojama Liublino unijos akto formuluotė, kuria Lietuvos ir Lenkijos jungtis apibrėžiama kaip vienas bendras politinis kūnas."
+  teiginys: "Užfiksuota formuluotė „Didžioji Lietuvos kunigaikštystė ir Lenkų karalystė yra vienas nedalomas ir vienalytis kūnas, o taip pat ne skirtinga, bet viena bendra valstybė, kuri iš dviejų valstybių ir dviejų tautų suėjo ir susijungė į vieną visuomenę“; kontekstas: Cituojama Liublino unijos akto formuluotė, kuria Lietuvos ir Lenkijos jungtis apibrėžiama kaip vienas bendras politinis kūnas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

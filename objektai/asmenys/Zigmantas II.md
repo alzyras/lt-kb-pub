@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Zigmantas II
 
 ## Santrauka
-Šaltinyje Zigmantas II apibūdinamas taip: Įvardytas kaip valdovas, kurio laikais vyko karai su Maskva. Šaltinyje Zigmantas II apibūdinamas taip: Minimas kaip 1540 m. Lietuvos Metrikos laiško ponų tarybai autorius.
+Įvardytas kaip valdovas, kurio laikais vyko karai su Maskva. Minimas kaip 1540 m. Lietuvos Metrikos laiško ponų tarybai autorius.
 
 ## Variantai
 - Zigmanto II
@@ -42,13 +42,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Zigmantas II apibūdinamas taip: Įvardytas kaip valdovas, kurio laikais vyko karai su Maskva."
+  teiginys: "Įvardytas kaip valdovas, kurio laikais vyko karai su Maskva."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje Zigmantas II apibūdinamas taip: Minimas kaip 1540 m. Lietuvos Metrikos laiško ponų tarybai autorius."
+  teiginys: "Minimas kaip 1540 m. Lietuvos Metrikos laiško ponų tarybai autorius."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -30,7 +30,7 @@ patikimumas: "vidutinis"
 # Pravoslavų brolijos
 
 ## Santrauka
-Šaltinyje „Pravoslavų brolijos“ vartojama taip: Stačiatikių religinės brolijos miestuose. (t-001)
+Stačiatikių religinės brolijos miestuose. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Pravoslavų brolijos
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: bažnytinė istorija, miestų r
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Pravoslavų brolijos“ vartojama taip: Stačiatikių religinės brolijos miestuose."
+  teiginys: "Stačiatikių religinės brolijos miestuose."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

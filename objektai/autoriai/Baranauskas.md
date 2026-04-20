@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Baranauskas
 
 ## Santrauka
-Šaltinyje Baranauskas minimas autorystės, redagavimo arba tyrimo kontekste: Minimas tarp dainelių autorių, kurių kūriniai tebedainuojami.
+Minimas tarp dainelių autorių, kurių kūriniai tebedainuojami.
 
 ## Darbai
 - Minimas tarp dainelių autorių, kurių kūriniai tebedainuojami. (t-001)
@@ -37,7 +37,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Baranauskas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas tarp dainelių autorių, kurių kūriniai tebedainuojami."
+  teiginys: "Minimas tarp dainelių autorių, kurių kūriniai tebedainuojami."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

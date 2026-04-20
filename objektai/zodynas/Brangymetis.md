@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Brangymetis
 
 ## Santrauka
-Šaltinyje „Brangymetis“ vartojama taip: Didelis kainų kilimas, stygiaus ir brangumo metas. (t-001)
+Didelis kainų kilimas, stygiaus ir brangumo metas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Brangymetis
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: ūkis, kainos, bado padariniai.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Brangymetis“ vartojama taip: Didelis kainų kilimas, stygiaus ir brangumo metas."
+  teiginys: "Didelis kainų kilimas, stygiaus ir brangumo metas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

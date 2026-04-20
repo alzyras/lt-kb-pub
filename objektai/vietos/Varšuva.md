@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Varšuva
 
 ## Santrauka
-Šaltinyje vieta „Varšuva“ siejama su šiais kontekstais: Miestas minimas kaip vienas pagrindinių archyvų centrų Lietuvos istorijos medžiagai; Varšuva minima kaip unijos derybų seimo vieta. (t-001, t-002)
+Miestas minimas kaip vienas pagrindinių archyvų centrų Lietuvos istorijos medžiagai; Varšuva minima kaip unijos derybų seimo vieta. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Varšuva
@@ -53,19 +53,19 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Varšuva“ siejama su šiuo kontekstu: Miestas minimas kaip vienas pagrindinių archyvų centrų Lietuvos istorijos medžiagai."
+  teiginys: "Miestas minimas kaip vienas pagrindinių archyvų centrų Lietuvos istorijos medžiagai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Varšuva“ siejama su šiuo kontekstu: Varšuva minima kaip unijos derybų seimo vieta."
+  teiginys: "Varšuva minima kaip unijos derybų seimo vieta."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-003
-  teiginys: "Šaltinyje vieta „Varšuva“ siejama su šiuo kontekstu: Varšuva minima kaip seimų vieta."
+  teiginys: "Varšuva minima kaip seimų vieta."
   pagrindžia:
     - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

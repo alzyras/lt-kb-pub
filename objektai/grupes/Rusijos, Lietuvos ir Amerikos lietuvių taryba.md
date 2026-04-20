@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Rusijos, Lietuvos ir Amerikos lietuvių taryba
 
 ## Santrauka
-Šaltinyje „Rusijos, Lietuvos ir Amerikos lietuvių taryba“ apibūdinama kaip taryba; šveicarijoje nutarta sukurti bendrą lietuvių propagandos tarybą iš Rusijos, Lietuvos ir Amerikos lietuvių. (t-001)
+taryba; šveicarijoje nutarta sukurti bendrą lietuvių propagandos tarybą iš Rusijos, Lietuvos ir Amerikos lietuvių. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Rusijos, Lietuvos ir Amerikos lietuvių taryba
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: taryba
-Šaltinyje „Rusijos, Lietuvos ir Amerikos lietuvių taryba“ apibūdinama kaip taryba; šveicarijoje nutarta sukurti bendrą lietuvių propagandos tarybą iš Rusijos, Lietuvos ir Amerikos lietuvių. (t-001)
+taryba; šveicarijoje nutarta sukurti bendrą lietuvių propagandos tarybą iš Rusijos, Lietuvos ir Amerikos lietuvių. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Rusijos, Lietuvos ir Amerikos lietuvių taryba“ apibūdinama kaip taryba; šveicarijoje nutarta sukurti bendrą lietuvių propagandos tarybą iš Rusijos, Lietuvos ir Amerikos lietuvių. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Rusijos, Lietuvos ir Amerikos lietuvių taryba“ apibūdinama kaip taryba; šveicarijoje nutarta sukurti bendrą lietuvių propagandos tarybą iš Rusijos, Lietuvos ir Amerikos lietuvių."
+  teiginys: "taryba; šveicarijoje nutarta sukurti bendrą lietuvių propagandos tarybą iš Rusijos, Lietuvos ir Amerikos lietuvių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

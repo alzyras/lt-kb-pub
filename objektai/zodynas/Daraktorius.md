@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Daraktorius
 
 ## Santrauka
-Šaltinyje „Daraktorius“ vartojama taip: tėvų samdytas kaimo mokytojas. (t-001)
+tėvų samdytas kaimo mokytojas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Daraktorius
@@ -50,7 +50,7 @@ Terminas šaltinyje vartojamas šiame kontekste: privatus mokymas, kaimo švieti
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Daraktorius“ vartojama taip: tėvų samdytas kaimo mokytojas."
+  teiginys: "tėvų samdytas kaimo mokytojas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

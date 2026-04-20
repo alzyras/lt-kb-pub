@@ -29,7 +29,7 @@ patikimumas: "vidutinis"
 # Krikšto dovanos baltais vilnoniais marškiniais
 
 ## Santrauka
-Šaltinyje minima praktika „Krikšto dovanos baltais vilnoniais marškiniais“ siejama su formuluote: Kaip krikšto dovana, Jogailos vardu buvo dalinami balti vilnoniai marškiniai. Šaltinio kontekste nurodoma: kas atlieka: Jogailos vardu; kada atliekama: krikšto metu. (t-001)
+Kaip krikšto dovana, Jogailos vardu buvo dalinami balti vilnoniai marškiniai. Šaltinio kontekste nurodoma: kas atlieka: Jogailos vardu; kada atliekama: krikšto metu. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kaip krikšto dovana, Jogailos vardu buvo dalinami balti vilnoniai marškiniai
@@ -41,8 +41,7 @@ patikimumas: "vidutinis"
 - date_start/date_end: 1387 / 1387 (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Krikšto dovanos baltais vilnoniais marškiniais“ siejama su formuluote: Kaip krikšto dovana, Jogailos vardu buvo dalinami balti vilnoniai marškiniai. Šaltinio kontekste nurodoma: kas atlieka: Jogailos vardu; kada atliekama: krikšto metu. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: Jogailos vardu (t-001)
 - kada atliekama: krikšto metu (t-001)
@@ -50,7 +49,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Krikšto dovanos baltais vilnoniais marškiniais“ siejama su formuluote: Kaip krikšto dovana, Jogailos vardu buvo dalinami balti vilnoniai marškiniai. Šaltinio kontekste nurodoma: kas atlieka: Jogailos vardu; kada atliekama: krikšto metu."
+  teiginys: "Kaip krikšto dovana, Jogailos vardu buvo dalinami balti vilnoniai marškiniai. Šaltinio kontekste nurodoma: kas atlieka: Jogailos vardu; kada atliekama: krikšto metu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

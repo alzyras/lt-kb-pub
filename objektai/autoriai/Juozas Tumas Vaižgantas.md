@@ -33,7 +33,7 @@ patikimumas: "vidutinis"
 # Juozas Tumas Vaižgantas
 
 ## Santrauka
-Šaltinyje Juozas Tumas Vaižgantas minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip kunigas, įkalbinėjęs redaktorių Pakalniškį švelninti „Apžvalgos“ toną, o vėliau prisidėjęs prie „Tėvynės Sargo“ redagavimo.
+Minimas kaip kunigas, įkalbinėjęs redaktorių Pakalniškį švelninti „Apžvalgos“ toną, o vėliau prisidėjęs prie „Tėvynės Sargo“ redagavimo.
 
 ## Darbai
 - Minimas kaip kunigas, įkalbinėjęs redaktorių Pakalniškį švelninti „Apžvalgos“ toną, o vėliau prisidėjęs prie „Tėvynės Sargo“ redagavimo. (t-001)
@@ -43,7 +43,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Juozas Tumas Vaižgantas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip kunigas, įkalbinėjęs redaktorių Pakalniškį švelninti „Apžvalgos“ toną, o vėliau prisidėjęs prie „Tėvynės Sargo“ redagavimo."
+  teiginys: "Minimas kaip kunigas, įkalbinėjęs redaktorių Pakalniškį švelninti „Apžvalgos“ toną, o vėliau prisidėjęs prie „Tėvynės Sargo“ redagavimo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

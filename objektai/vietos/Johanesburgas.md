@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Johanesburgas
 
 ## Santrauka
-Šaltinyje vieta „Johanesburgas“ siejama su šiuo kontekstu: Minimas kaip Pietų Afrikos lietuvių telkimosi vieta. (t-001)
+Minimas kaip Pietų Afrikos lietuvių telkimosi vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Johanesburgas
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Johanesburgas“ siejama su šiuo kontekstu: Minimas kaip Pietų Afrikos lietuvių telkimosi vieta."
+  teiginys: "Minimas kaip Pietų Afrikos lietuvių telkimosi vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

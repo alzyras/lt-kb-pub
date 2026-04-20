@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # S. Kairys
 
 ## Santrauka
-Šaltinyje S. Kairys apibūdinamas taip: Minimas kaip vienas iš Vilniaus Komiteto narių, papildytų iš kairiųjų srovių.
+Minimas kaip vienas iš Vilniaus Komiteto narių, papildytų iš kairiųjų srovių.
 
 ## Variantai
 - St. Kairiu
@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje S. Kairys apibūdinamas taip: Minimas kaip vienas iš Vilniaus Komiteto narių, papildytų iš kairiųjų srovių."
+  teiginys: "Minimas kaip vienas iš Vilniaus Komiteto narių, papildytų iš kairiųjų srovių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

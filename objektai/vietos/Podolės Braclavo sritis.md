@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Podolės Braclavo sritis
 
 ## Santrauka
-Šaltinyje vieta „Podolės Braclavo sritis“ siejama su šiuo kontekstu: Minima kaip viena tankiau gyvenama Lietuvos ir Lenkijos valdoma sritis. (t-001)
+Minima kaip viena tankiau gyvenama Lietuvos ir Lenkijos valdoma sritis. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Podolės Braclavo sritis
@@ -42,7 +42,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Podolės Braclavo sritis“ siejama su šiuo kontekstu: Minima kaip viena tankiau gyvenama Lietuvos ir Lenkijos valdoma sritis."
+  teiginys: "Minima kaip viena tankiau gyvenama Lietuvos ir Lenkijos valdoma sritis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

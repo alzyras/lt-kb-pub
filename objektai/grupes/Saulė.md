@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Saulė
 
 ## Santrauka
-Šaltinyje „Saulė“ apibūdinama kaip draugija; kaune veikusi švietimo draugija, kuriai šaltinis priskiria plataus masto mokyklų ir kursų steigimą. (t-001)
+draugija; kaune veikusi švietimo draugija, kuriai šaltinis priskiria plataus masto mokyklų ir kursų steigimą. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Saulė
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: draugija
-Šaltinyje „Saulė“ apibūdinama kaip draugija; kaune veikusi švietimo draugija, kuriai šaltinis priskiria plataus masto mokyklų ir kursų steigimą. (t-001)
+draugija; kaune veikusi švietimo draugija, kuriai šaltinis priskiria plataus masto mokyklų ir kursų steigimą. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Saulė“ apibūdinama kaip draugija; kaune veikusi švietimo draugija, kuriai šaltinis priskiria plataus masto mokyklų ir kursų steigimą. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Saulė“ apibūdinama kaip draugija; kaune veikusi švietimo draugija, kuriai šaltinis priskiria plataus masto mokyklų ir kursų steigimą."
+  teiginys: "draugija; kaune veikusi švietimo draugija, kuriai šaltinis priskiria plataus masto mokyklų ir kursų steigimą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

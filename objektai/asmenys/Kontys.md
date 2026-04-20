@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Kontys
 
 ## Santrauka
-Šaltinyje Kontys apibūdinamas taip: Minimas kaip prancūzų princas ir kandidatas į sostą.
+Minimas kaip prancūzų princas ir kandidatas į sostą.
 
 ## Variantai
 - Kontį
@@ -33,7 +33,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Kontys apibūdinamas taip: Minimas kaip prancūzų princas ir kandidatas į sostą."
+  teiginys: "Minimas kaip prancūzų princas ir kandidatas į sostą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

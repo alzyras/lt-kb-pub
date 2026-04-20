@@ -29,7 +29,7 @@ patikimumas: "vidutinis"
 # Heidensteinas
 
 ## Santrauka
-Šaltinyje Heidensteinas minimas kaip autorius; šis vaidmuo siejamas su: Heidensteino kelionės aprašymas.
+Heidensteino kelionės aprašymas.
 
 ## Darbai
 - Heidensteino kelionės aprašymas. (t-001)
@@ -39,7 +39,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Heidensteinas minimas kaip autorius, siejamas su: Heidensteino kelionės aprašymas."
+  teiginys: "Heidensteino kelionės aprašymas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

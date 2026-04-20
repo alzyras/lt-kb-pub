@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Berezina
 
 ## Santrauka
-Šaltinyje vieta „Berezina“ siejama su šiuo kontekstu: Minima kaip mūšio vieta, po kurios Napoleonas traukėsi atgal. (t-001)
+Minima kaip mūšio vieta, po kurios Napoleonas traukėsi atgal. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Berezina
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Berezina“ siejama su šiuo kontekstu: Minima kaip mūšio vieta, po kurios Napoleonas traukėsi atgal."
+  teiginys: "Minima kaip mūšio vieta, po kurios Napoleonas traukėsi atgal."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Didysis Naugardas
 
 ## Santrauka
-Šaltinyje vieta „Didysis Naugardas“ siejama su šiuo kontekstu: Minimas kaip lietuvių sąjungininkas kovose su ordinu. (t-001)
+Minimas kaip lietuvių sąjungininkas kovose su ordinu. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Didysis Naugardas
@@ -46,7 +46,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Didysis Naugardas“ siejama su šiuo kontekstu: Minimas kaip lietuvių sąjungininkas kovose su ordinu."
+  teiginys: "Minimas kaip lietuvių sąjungininkas kovose su ordinu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

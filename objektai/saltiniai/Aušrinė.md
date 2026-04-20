@@ -37,7 +37,7 @@ patikimumas: "vidutinis"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Aušrinė“ tai moksleivių žurnalas, su kuriuo siejama aušrininkų aplinka.
+tai moksleivių žurnalas, su kuriuo siejama aušrininkų aplinka.
 
 ## Ryšiai
 
@@ -46,7 +46,7 @@ patikimumas: "vidutinis"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Aušrinė“ tai moksleivių žurnalas, su kuriuo siejama aušrininkų aplinka."
+  teiginys: "tai moksleivių žurnalas, su kuriuo siejama aušrininkų aplinka."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

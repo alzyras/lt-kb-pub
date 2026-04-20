@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Didžioji suirutė
 
 ## Santrauka
-Šaltinyje „Didžioji suirutė“ vartojama taip: Maskvos perversmų ir suirutės laikotarpis po Kalitos dinastijos pabaigos. (t-001)
+Maskvos perversmų ir suirutės laikotarpis po Kalitos dinastijos pabaigos. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Didžioji suirutė
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: Rusijos istorija, dinastinė kr
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Didžioji suirutė“ vartojama taip: Maskvos perversmų ir suirutės laikotarpis po Kalitos dinastijos pabaigos."
+  teiginys: "Maskvos perversmų ir suirutės laikotarpis po Kalitos dinastijos pabaigos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

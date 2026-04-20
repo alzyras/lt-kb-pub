@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Amerikos Lietuvių Darbininkų Susivienijimas
 
 ## Santrauka
-Šaltinyje „Amerikos Lietuvių Darbininkų Susivienijimas“ apibūdinama kaip susivienijimas; trečiasis amerikiečių lietuvių susivienijimas, atsiradęs po triukšmingo Čikagos seimo. (t-001)
+susivienijimas; trečiasis amerikiečių lietuvių susivienijimas, atsiradęs po triukšmingo Čikagos seimo. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Amerikos Lietuvių Darbininkų Susivienijimas
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: susivienijimas
-Šaltinyje „Amerikos Lietuvių Darbininkų Susivienijimas“ apibūdinama kaip susivienijimas; trečiasis amerikiečių lietuvių susivienijimas, atsiradęs po triukšmingo Čikagos seimo. (t-001)
+susivienijimas; trečiasis amerikiečių lietuvių susivienijimas, atsiradęs po triukšmingo Čikagos seimo. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Amerikos Lietuvių Darbininkų Susivienijimas“ apibūdinama kaip susivienijimas; trečiasis amerikiečių lietuvių susivienijimas, atsiradęs po triukšmingo Čikagos seimo. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Amerikos Lietuvių Darbininkų Susivienijimas“ apibūdinama kaip susivienijimas; trečiasis amerikiečių lietuvių susivienijimas, atsiradęs po triukšmingo Čikagos seimo."
+  teiginys: "susivienijimas; trečiasis amerikiečių lietuvių susivienijimas, atsiradęs po triukšmingo Čikagos seimo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

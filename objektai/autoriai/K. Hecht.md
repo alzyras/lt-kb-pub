@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # K. Hecht
 
 ## Santrauka
-Šaltinyje K. Hecht minimas kaip autorius; šis vaidmuo siejamas su: Die Schlacht bei Rudau.
+Die Schlacht bei Rudau.
 
 ## Laikotarpis ir datos
 - 1914—1917 m.
@@ -41,7 +41,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje K. Hecht minimas kaip autorius, siejamas su: Die Schlacht bei Rudau."
+  teiginys: "Die Schlacht bei Rudau."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

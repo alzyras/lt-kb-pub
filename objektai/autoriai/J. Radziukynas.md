@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # J. Radziukynas
 
 ## Santrauka
-Šaltinyje J. Radziukynas minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip Suvalkų krašto piliakalnių autorius.
+Bibliografijoje nurodytas kaip Suvalkų krašto piliakalnių autorius.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip Suvalkų krašto piliakalnių autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje J. Radziukynas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip Suvalkų krašto piliakalnių autorius."
+  teiginys: "Bibliografijoje nurodytas kaip Suvalkų krašto piliakalnių autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Igelström
 
 ## Santrauka
-Šaltinyje Igelström apibūdinamas taip: Minimas kaip Kotrynos ambasadorius Varšuvoje, turėjęs savo žinioje 30.000 kariuomenės.
+Minimas kaip Kotrynos ambasadorius Varšuvoje, turėjęs savo žinioje 30.000 kariuomenės.
 
 ## Laikotarpis ir datos
 - laikotarpis: 1794 m.
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Igelström apibūdinamas taip: Minimas kaip Kotrynos ambasadorius Varšuvoje, turėjęs savo žinioje 30.000 kariuomenės."
+  teiginys: "Minimas kaip Kotrynos ambasadorius Varšuvoje, turėjęs savo žinioje 30.000 kariuomenės."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

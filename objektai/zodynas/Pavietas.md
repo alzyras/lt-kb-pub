@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Pavietas
 
 ## Santrauka
-Šaltinyje „Pavietas“ vartojama taip: Apskritis arba administracinis rajonas. (t-001)
+Apskritis arba administracinis rajonas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Pavietas
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: administracinė istorija, terit
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Pavietas“ vartojama taip: Apskritis arba administracinis rajonas."
+  teiginys: "Apskritis arba administracinis rajonas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

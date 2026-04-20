@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Nuosaikieji tautininkai
 
 ## Santrauka
-Šaltinyje „Nuosaikieji tautininkai“ apibūdinama kaip politinė grupė; aprašoma kaip nuo varpininkų pasitraukusi nuosaikesnė politinė kryptis, nepatenkinta vien valstiečių reikalais. (t-001)
+politinė grupė; aprašoma kaip nuo varpininkų pasitraukusi nuosaikesnė politinė kryptis, nepatenkinta vien valstiečių reikalais. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Nuosaikieji tautininkai
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: politinė grupė
-Šaltinyje „Nuosaikieji tautininkai“ apibūdinama kaip politinė grupė; aprašoma kaip nuo varpininkų pasitraukusi nuosaikesnė politinė kryptis, nepatenkinta vien valstiečių reikalais. (t-001)
+politinė grupė; aprašoma kaip nuo varpininkų pasitraukusi nuosaikesnė politinė kryptis, nepatenkinta vien valstiečių reikalais. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Nuosaikieji tautininkai“ apibūdinama kaip politinė grupė; aprašoma kaip nuo varpininkų pasitraukusi nuosaikesnė politinė kryptis, nepatenkinta vien valstiečių reikalais. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Nuosaikieji tautininkai“ apibūdinama kaip politinė grupė; aprašoma kaip nuo varpininkų pasitraukusi nuosaikesnė politinė kryptis, nepatenkinta vien valstiečių reikalais."
+  teiginys: "politinė grupė; aprašoma kaip nuo varpininkų pasitraukusi nuosaikesnė politinė kryptis, nepatenkinta vien valstiečių reikalais."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

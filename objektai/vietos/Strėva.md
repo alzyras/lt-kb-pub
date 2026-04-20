@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Strėva
 
 ## Santrauka
-Šaltinyje vieta „Strėva“ siejama su šiuo kontekstu: Minima kaip mūšio vieta 1348 m. žygyje. (t-001)
+Minima kaip mūšio vieta 1348 m. žygyje. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Strėva
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Strėva“ siejama su šiuo kontekstu: Minima kaip mūšio vieta 1348 m. žygyje."
+  teiginys: "Minima kaip mūšio vieta 1348 m. žygyje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

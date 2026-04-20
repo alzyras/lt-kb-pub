@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # P. Karge
 
 ## Santrauka
-Šaltinyje P. Karge minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip veikalų apie Mažąją Lietuvą ir tautinių santykių klausimus autorius.
+Minimas kaip veikalų apie Mažąją Lietuvą ir tautinių santykių klausimus autorius.
 
 ## Darbai
 - Minimas kaip veikalų apie Mažąją Lietuvą ir tautinių santykių klausimus autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje P. Karge autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip veikalų apie Mažąją Lietuvą ir tautinių santykių klausimus autorius."
+  teiginys: "Minimas kaip veikalų apie Mažąją Lietuvą ir tautinių santykių klausimus autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

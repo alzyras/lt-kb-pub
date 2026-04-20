@@ -33,7 +33,7 @@ patikimumas: "vidutinis"
 # Laidojimas su įkapėmis ir kūno sudeginimu
 
 ## Santrauka
-Šaltinyje minima praktika „Laidojimas su įkapėmis ir kūno sudeginimu“ siejama su formuluote: lavonų laidojamo būdo; laidodami lavonus, jie įdėdavo į kapą įvairių daiktų; iškilmingas Kęstučio palaidojimas ir jo sudeginimas ant laužo su daiktais, ginklais ir gyvuliais. Šaltinio kontekste nurodoma: kas atlieka: aisčiai; kada atliekama: laidotuvių metu. (t-001)
+lavonų laidojamo būdo; laidodami lavonus, jie įdėdavo į kapą įvairių daiktų; iškilmingas Kęstučio palaidojimas ir jo sudeginimas ant laužo su daiktais, ginklais ir gyvuliais. Šaltinio kontekste nurodoma: kas atlieka: aisčiai; kada atliekama: laidotuvių metu. (t-001)
 
 ## Pavadinimai šaltiniuose
 - lavonų laidojamo būdo
@@ -46,8 +46,7 @@ patikimumas: "vidutinis"
 - amziai: II (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Laidojimas su įkapėmis ir kūno sudeginimu“ siejama su formuluote: lavonų laidojamo būdo; laidodami lavonus, jie įdėdavo į kapą įvairių daiktų; iškilmingas Kęstučio palaidojimas ir jo sudeginimas ant laužo su daiktais, ginklais ir gyvuliais. Šaltinio kontekste nurodoma: kas atlieka: aisčiai; kada atliekama: laidotuvių metu. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: aisčiai (t-001)
 - kada atliekama: laidotuvių metu (t-001)
@@ -55,7 +54,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Laidojimas su įkapėmis ir kūno sudeginimu“ siejama su formuluote: lavonų laidojamo būdo; laidodami lavonus, jie įdėdavo į kapą įvairių daiktų; iškilmingas Kęstučio palaidojimas ir jo sudeginimas ant laužo su daiktais, ginklais ir gyvuliais. Šaltinio kontekste nurodoma: kas atlieka: aisčiai; kada atliekama: laidotuvių metu."
+  teiginys: "lavonų laidojamo būdo; laidodami lavonus, jie įdėdavo į kapą įvairių daiktų; iškilmingas Kęstučio palaidojimas ir jo sudeginimas ant laužo su daiktais, ginklais ir gyvuliais. Šaltinio kontekste nurodoma: kas atlieka: aisčiai; kada atliekama: laidotuvių metu."
   pagrindžia:
     - c-001
     - c-002

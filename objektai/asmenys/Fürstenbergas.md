@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Fürstenbergas
 
 ## Santrauka
-Šaltinyje Fürstenbergas apibūdinamas taip: Livonijos ordino magistras, bandęs ginti ordino nepriklausomybę Pasvalio sutarties metu.
+Livonijos ordino magistras, bandęs ginti ordino nepriklausomybę Pasvalio sutarties metu.
 
 ## Variantai
 - Fürstenbergo
@@ -44,7 +44,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Fürstenbergas apibūdinamas taip: Livonijos ordino magistras, bandęs ginti ordino nepriklausomybę Pasvalio sutarties metu."
+  teiginys: "Livonijos ordino magistras, bandęs ginti ordino nepriklausomybę Pasvalio sutarties metu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

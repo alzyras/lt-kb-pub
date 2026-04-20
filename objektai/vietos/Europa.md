@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Europa
 
 ## Santrauka
-Šaltinyje vieta „Europa“ siejama su šiuo kontekstu: Minima kaip karių ir samdinių kilmės erdvė. (t-001)
+Minima kaip karių ir samdinių kilmės erdvė. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Europa
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Europa“ siejama su šiuo kontekstu: Minima kaip karių ir samdinių kilmės erdvė."
+  teiginys: "Minima kaip karių ir samdinių kilmės erdvė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Wl. Semkowicz
 
 ## Santrauka
-Šaltinyje Wl. Semkowicz minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip vienas iš atspausdintų dokumentų ir leidinių rengėjų.
+Minimas kaip vienas iš atspausdintų dokumentų ir leidinių rengėjų.
 
 ## Darbai
 - Minimas kaip vienas iš atspausdintų dokumentų ir leidinių rengėjų. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Wl. Semkowicz autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip vienas iš atspausdintų dokumentų ir leidinių rengėjų."
+  teiginys: "Minimas kaip vienas iš atspausdintų dokumentų ir leidinių rengėjų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

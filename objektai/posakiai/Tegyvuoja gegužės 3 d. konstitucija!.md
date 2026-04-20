@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Tegyvuoja gegužės 3 d. konstitucija!
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Tegyvuoja gegužės 3 d. konstitucija!“; kontekstas: Užrašas ant lentos, išreiškiantis reforminės konstitucijos idealizavimą ir laisvės siekį. Reikšmė: Šūkiu skambantis politinis palaikymo užrašas. (t-001)
+Užfiksuota formuluotė „Tegyvuoja gegužės 3 d. konstitucija!“; kontekstas: Užrašas ant lentos, išreiškiantis reforminės konstitucijos idealizavimą ir laisvės siekį. Reikšmė: Šūkiu skambantis politinis palaikymo užrašas. (t-001)
 
 ## Forma
 - pagrindinė forma: Tegyvuoja gegužės 3 d. konstitucija! (t-001)
@@ -34,7 +34,7 @@ patikimumas: "aukstas"
 - Tegyvuoja gegužės 3 d. konstitucija!
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Užrašas ant lentos, išreiškiantis reforminės konstitucijos idealizavimą ir laisvės siekį. (t-001)
@@ -44,7 +44,7 @@ Užrašas ant lentos, išreiškiantis reforminės konstitucijos idealizavimą ir
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Tegyvuoja gegužės 3 d. konstitucija!“; kontekstas: Užrašas ant lentos, išreiškiantis reforminės konstitucijos idealizavimą ir laisvės siekį."
+  teiginys: "Užfiksuota formuluotė „Tegyvuoja gegužės 3 d. konstitucija!“; kontekstas: Užrašas ant lentos, išreiškiantis reforminės konstitucijos idealizavimą ir laisvės siekį."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

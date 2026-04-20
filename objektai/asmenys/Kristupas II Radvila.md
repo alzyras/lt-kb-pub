@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Kristupas II Radvila
 
 ## Santrauka
-Šaltinyje Kristupas II Radvila apibūdinamas taip: Minimas kaip Lietuvos lauko hetmonas, kuris rūpinosi Livonijos gynimu.
+Minimas kaip Lietuvos lauko hetmonas, kuris rūpinosi Livonijos gynimu.
 
 ## Variantai
 - Kristupo Perkūno sūnus
@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Kristupas II Radvila apibūdinamas taip: Minimas kaip Lietuvos lauko hetmonas, kuris rūpinosi Livonijos gynimu."
+  teiginys: "Minimas kaip Lietuvos lauko hetmonas, kuris rūpinosi Livonijos gynimu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

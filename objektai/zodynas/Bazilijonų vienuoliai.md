@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Bazilijonų vienuoliai
 
 ## Santrauka
-Šaltinyje „Bazilijonų vienuoliai“ vartojama taip: Vienuoliai, siejami su unitų bažnytine aplinka. (t-001)
+Vienuoliai, siejami su unitų bažnytine aplinka. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Bazilijonų vienuoliai
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: bažnytinė istorija, vienuolyn
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Bazilijonų vienuoliai“ vartojama taip: Vienuoliai, siejami su unitų bažnytine aplinka."
+  teiginys: "Vienuoliai, siejami su unitų bažnytine aplinka."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

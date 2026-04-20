@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Rašytiniai paminklai
 
 ## Santrauka
-Šaltinyje „Rašytiniai paminklai“ vartojama taip: Rašytiniai dokumentai, kronikos, nuorašai ir kiti istoriniai tekstai. (t-001)
+Rašytiniai dokumentai, kronikos, nuorašai ir kiti istoriniai tekstai. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Rašytiniai paminklai
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: istorijos šaltinių klasifikac
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Rašytiniai paminklai“ vartojama taip: Rašytiniai dokumentai, kronikos, nuorašai ir kiti istoriniai tekstai."
+  teiginys: "Rašytiniai dokumentai, kronikos, nuorašai ir kiti istoriniai tekstai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

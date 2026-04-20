@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Olšauskas
 
 ## Santrauka
-Šaltinyje Olšauskas apibūdinamas taip: Minimas kaip Komiteto narys.
+Minimas kaip Komiteto narys.
 
 ## Variantai
 - kun. Olšauskas
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Olšauskas apibūdinamas taip: Minimas kaip Komiteto narys."
+  teiginys: "Minimas kaip Komiteto narys."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

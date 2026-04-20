@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Metropolitas
 
 ## Santrauka
-Šaltinyje „Metropolitas“ vartojama taip: Aukščiausias bažnytinės provincijos vadovas. (t-001)
+Aukščiausias bažnytinės provincijos vadovas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Metropolitas
@@ -52,7 +52,7 @@ Terminas šaltinyje vartojamas šiame kontekste: bažnytinė hierarchija, Rytų 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Metropolitas“ vartojama taip: Aukščiausias bažnytinės provincijos vadovas."
+  teiginys: "Aukščiausias bažnytinės provincijos vadovas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

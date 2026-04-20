@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # A. Grotgeris
 
 ## Santrauka
-Šaltinyje A. Grotgeris apibūdinamas taip: Minimas paveikslų antraštėse kaip dailininkas.
+Minimas paveikslų antraštėse kaip dailininkas.
 
 ## Variantai
 - A. Grotgero
@@ -35,7 +35,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje A. Grotgeris apibūdinamas taip: Minimas paveikslų antraštėse kaip dailininkas."
+  teiginys: "Minimas paveikslų antraštėse kaip dailininkas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

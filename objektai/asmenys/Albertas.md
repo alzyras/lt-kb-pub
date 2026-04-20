@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Albertas
 
 ## Santrauka
-Šaltinyje Albertas apibūdinamas taip: Minimas kaip trečiasis Livonijos vyskupas, organizavęs ginkluotą savo tikinčiųjų apsaugą.
+Minimas kaip trečiasis Livonijos vyskupas, organizavęs ginkluotą savo tikinčiųjų apsaugą.
 
 ## Variantai
 - vysk. Albertas
@@ -43,7 +43,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Albertas apibūdinamas taip: Minimas kaip trečiasis Livonijos vyskupas, organizavęs ginkluotą savo tikinčiųjų apsaugą."
+  teiginys: "Minimas kaip trečiasis Livonijos vyskupas, organizavęs ginkluotą savo tikinčiųjų apsaugą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

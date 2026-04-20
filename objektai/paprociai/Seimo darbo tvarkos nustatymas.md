@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Seimo darbo tvarkos nustatymas
 
 ## Santrauka
-Šaltinyje minima praktika „Seimo darbo tvarkos nustatymas“ siejama su formuluote: seimo darbų statutas. Šaltinio kontekste nurodoma: kas atlieka: seimo dalyviai; kada atliekama: 1764 m., Čartoriskių reformų metu. (t-001)
+seimo darbų statutas. Šaltinio kontekste nurodoma: kas atlieka: seimo dalyviai; kada atliekama: 1764 m., Čartoriskių reformų metu. (t-001)
 
 ## Pavadinimai šaltiniuose
 - seimo darbų statutas
@@ -40,8 +40,7 @@ patikimumas: "vidutinis"
 - date_start/date_end: 1764 / 1764 (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Seimo darbo tvarkos nustatymas“ siejama su formuluote: seimo darbų statutas. Šaltinio kontekste nurodoma: kas atlieka: seimo dalyviai; kada atliekama: 1764 m., Čartoriskių reformų metu. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: seimo dalyviai (t-001)
 - kada atliekama: 1764 m., Čartoriskių reformų metu (t-001)
@@ -49,7 +48,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Seimo darbo tvarkos nustatymas“ siejama su formuluote: seimo darbų statutas. Šaltinio kontekste nurodoma: kas atlieka: seimo dalyviai; kada atliekama: 1764 m., Čartoriskių reformų metu."
+  teiginys: "seimo darbų statutas. Šaltinio kontekste nurodoma: kas atlieka: seimo dalyviai; kada atliekama: 1764 m., Čartoriskių reformų metu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

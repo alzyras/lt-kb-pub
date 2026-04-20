@@ -32,7 +32,7 @@ patikimumas: "vidutinis"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Lietuviškos Evangelijos rusiškomis raidėmis“ siejamas su šiuo kontekstu: Šaltinis šį leidinį pateikia spaudos draudimo pasakojime kaip rusiškomis raidėmis spausdintų lietuviškų religinių knygų pavyzdį.
+Šaltinis šį leidinį pateikia spaudos draudimo pasakojime kaip rusiškomis raidėmis spausdintų lietuviškų religinių knygų pavyzdį.
 
 ## Ryšiai
 
@@ -41,13 +41,13 @@ patikimumas: "vidutinis"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Lietuviškos Evangelijos rusiškomis raidėmis“ siejamas su šiuo kontekstu: Šaltinis šį leidinį pateikia spaudos draudimo pasakojime kaip rusiškomis raidėmis spausdintų lietuviškų religinių knygų pavyzdį."
+  teiginys: "Šaltinis šį leidinį pateikia spaudos draudimo pasakojime kaip rusiškomis raidėmis spausdintų lietuviškų religinių knygų pavyzdį."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Lietuviškos Evangelijos rusiškomis raidėmis“ siejamas su šiuo kontekstu: Šaltinyje tai pateikta kaip iliustracijos antraštė, todėl pavadinimas remiasi tik aprašomąja formuluote."
+  teiginys: "tai pateikta kaip iliustracijos antraštė, todėl pavadinimas remiasi tik aprašomąja formuluote."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

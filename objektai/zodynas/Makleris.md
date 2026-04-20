@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Makleris
 
 ## Santrauka
-Šaltinyje „Makleris“ vartojama taip: Tarpininkas ar spekuliantas, siekęs pelno iš emigracijos ir imigracijos verslo. (t-001)
+Tarpininkas ar spekuliantas, siekęs pelno iš emigracijos ir imigracijos verslo. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Makleris
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: emigracijos verslas, pejoratyvi
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Makleris“ vartojama taip: Tarpininkas ar spekuliantas, siekęs pelno iš emigracijos ir imigracijos verslo."
+  teiginys: "Tarpininkas ar spekuliantas, siekęs pelno iš emigracijos ir imigracijos verslo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

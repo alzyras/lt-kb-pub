@@ -32,7 +32,7 @@ patikimumas: "aukstas"
 # Seniūnas
 
 ## Santrauka
-Šaltinyje „Seniūnas“ vartojama taip: Vietos arba krašto administracinis pareigūnas, artimas vietininkui. (t-001)
+Vietos arba krašto administracinis pareigūnas, artimas vietininkui. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Seniūnas
@@ -55,7 +55,7 @@ Terminas šaltinyje vartojamas šiame kontekste: administracija, pareigybės. (t
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Seniūnas“ vartojama taip: Vietos arba krašto administracinis pareigūnas, artimas vietininkui."
+  teiginys: "Vietos arba krašto administracinis pareigūnas, artimas vietininkui."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -34,7 +34,7 @@ patikimumas: "aukstas"
 # Pravoslavai (grupė)
 
 ## Santrauka
-Šaltinyje „Pravoslavai“ apibūdinama kaip religinė bendruomenė; pravoslavai čia aprašomi kaip Lietuvos ir Lenkijos religinė bendrija, kurią Brastoje palietė unijos skilimas ir kuri vėliau konflikto su unitais metu gynė savo bažnyčias bei turtus. (t-001) Šaltinyje „Pravoslavai“ siejama su šiuo kontekstu: Pravoslavai čia aprašomi kaip Lietuvos ir Lenkijos religinė bendrija, kurią Brastoje palietė unijos skilimas ir kuri vėliau konflikto su unitais metu gynė savo bažnyčias bei turtus. (t-002)
+religinė bendruomenė; pravoslavai čia aprašomi kaip Lietuvos ir Lenkijos religinė bendrija, kurią Brastoje palietė unijos skilimas ir kuri vėliau konflikto su unitais metu gynė savo bažnyčias bei turtus. (t-001) Šaltinyje „Pravoslavai“ siejama su šiuo kontekstu: Pravoslavai čia aprašomi kaip Lietuvos ir Lenkijos religinė bendrija, kurią Brastoje palietė unijos skilimas ir kuri vėliau konflikto su unitais metu gynė savo bažnyčias bei turtus. (t-002)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Pravoslavai (grupė)
@@ -51,7 +51,7 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: religinė bendruomenė
-Šaltinyje „Pravoslavai“ apibūdinama kaip religinė bendruomenė; pravoslavai čia aprašomi kaip Lietuvos ir Lenkijos religinė bendrija, kurią Brastoje palietė unijos skilimas ir kuri vėliau konflikto su unitais metu gynė savo bažnyčias bei turtus. (t-001)
+religinė bendruomenė; pravoslavai čia aprašomi kaip Lietuvos ir Lenkijos religinė bendrija, kurią Brastoje palietė unijos skilimas ir kuri vėliau konflikto su unitais metu gynė savo bažnyčias bei turtus. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Pravoslavai“ apibūdinama kaip religinė bendruomenė; pravoslavai čia aprašomi kaip Lietuvos ir Lenkijos religinė bendrija, kurią Brastoje palietė unijos skilimas ir kuri vėliau konflikto su unitais metu gynė savo bažnyčias bei turtus. (t-001)
@@ -59,13 +59,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Pravoslavai“ apibūdinama kaip religinė bendruomenė; pravoslavai čia aprašomi kaip Lietuvos ir Lenkijos religinė bendrija, kurią Brastoje palietė unijos skilimas ir kuri vėliau konflikto su unitais metu gynė savo bažnyčias bei turtus."
+  teiginys: "religinė bendruomenė; pravoslavai čia aprašomi kaip Lietuvos ir Lenkijos religinė bendrija, kurią Brastoje palietė unijos skilimas ir kuri vėliau konflikto su unitais metu gynė savo bažnyčias bei turtus."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Pravoslavai“ siejama su šiuo kontekstu: Pravoslavai čia aprašomi kaip Lietuvos ir Lenkijos religinė bendrija, kurią Brastoje palietė unijos skilimas ir kuri vėliau konflikto su unitais metu gynė savo bažnyčias bei turtus."
+  teiginys: "Pravoslavai čia aprašomi kaip Lietuvos ir Lenkijos religinė bendrija, kurią Brastoje palietė unijos skilimas ir kuri vėliau konflikto su unitais metu gynė savo bažnyčias bei turtus."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

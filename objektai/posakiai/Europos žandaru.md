@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Europos žandaru
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Europos žandaru“; kontekstas: Taip apibūdinamas caras, pabrėžiant jo reakcinių veiksmų vaidmenį Europos politikoje. Reikšmė: Pravardinis politinis apibūdinimas. (t-001)
+Užfiksuota formuluotė „Europos žandaru“; kontekstas: Taip apibūdinamas caras, pabrėžiant jo reakcinių veiksmų vaidmenį Europos politikoje. Reikšmė: Pravardinis politinis apibūdinimas. (t-001)
 
 ## Forma
 - pagrindinė forma: Europos žandaru (t-001)
@@ -37,7 +37,7 @@ patikimumas: "vidutinis"
 - Europos žandaru
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Taip apibūdinamas caras, pabrėžiant jo reakcinių veiksmų vaidmenį Europos politikoje. (t-001)
@@ -47,7 +47,7 @@ Pravardinis politinis apibūdinimas. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Europos žandaru“; kontekstas: Taip apibūdinamas caras, pabrėžiant jo reakcinių veiksmų vaidmenį Europos politikoje."
+  teiginys: "Užfiksuota formuluotė „Europos žandaru“; kontekstas: Taip apibūdinamas caras, pabrėžiant jo reakcinių veiksmų vaidmenį Europos politikoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

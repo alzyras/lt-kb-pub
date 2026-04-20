@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # E. Maschke
 
 ## Santrauka
-Šaltinyje E. Maschke minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip Vokiečių ordino ir prūsų autorius.
+Bibliografijoje nurodytas kaip Vokiečių ordino ir prūsų autorius.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip Vokiečių ordino ir prūsų autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje E. Maschke autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip Vokiečių ordino ir prūsų autorius."
+  teiginys: "Bibliografijoje nurodytas kaip Vokiečių ordino ir prūsų autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

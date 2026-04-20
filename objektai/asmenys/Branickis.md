@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Branickis
 
 ## Santrauka
-Šaltinyje Branickis apibūdinamas taip: Minimas kaip hetmonas, kovojęs prieš Čartoriskius ir perėjęs į Potockių pusę.
+Minimas kaip hetmonas, kovojęs prieš Čartoriskius ir perėjęs į Potockių pusę.
 
 ## Variantai
 - Branickio
@@ -33,7 +33,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Branickis apibūdinamas taip: Minimas kaip hetmonas, kovojęs prieš Čartoriskius ir perėjęs į Potockių pusę."
+  teiginys: "Minimas kaip hetmonas, kovojęs prieš Čartoriskius ir perėjęs į Potockių pusę."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

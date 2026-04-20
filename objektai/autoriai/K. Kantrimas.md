@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # K. Kantrimas
 
 ## Santrauka
-Šaltinyje K. Kantrimas minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip universiteto bibliotekininkas ir lietuvių kalbos katedros projekto autorius.
+Minimas kaip universiteto bibliotekininkas ir lietuvių kalbos katedros projekto autorius.
 
 ## Darbai
 - Minimas kaip universiteto bibliotekininkas ir lietuvių kalbos katedros projekto autorius. (t-001)
@@ -37,7 +37,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje K. Kantrimas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip universiteto bibliotekininkas ir lietuvių kalbos katedros projekto autorius."
+  teiginys: "Minimas kaip universiteto bibliotekininkas ir lietuvių kalbos katedros projekto autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

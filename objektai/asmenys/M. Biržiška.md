@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # M. Biržiška
 
 ## Santrauka
-Šaltinyje M. Biržiška apibūdinamas taip: Minimas kaip vienas iš Vilniaus Komiteto narių, papildytų iš kairiųjų srovių.
+Minimas kaip vienas iš Vilniaus Komiteto narių, papildytų iš kairiųjų srovių.
 
 ## Variantai
 - M. Bir-žiška
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje M. Biržiška apibūdinamas taip: Minimas kaip vienas iš Vilniaus Komiteto narių, papildytų iš kairiųjų srovių."
+  teiginys: "Minimas kaip vienas iš Vilniaus Komiteto narių, papildytų iš kairiųjų srovių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

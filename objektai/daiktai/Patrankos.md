@@ -37,7 +37,7 @@ patikimumas: "aukstas"
 # Patrankos
 
 ## Santrauka
-Šaltinyje „Patrankos“ patrankos minimos ir kaip Salaspilio mūšio grobis, ir kaip XVII a. karo ginklas su nurodyta liejykla bei išvežimu iš Biržų.
+patrankos minimos ir kaip Salaspilio mūšio grobis, ir kaip XVII a. karo ginklas su nurodyta liejykla bei išvežimu iš Biržų.
 
 ## Pavadinimai šaltiniuose
 - 20 patrankų
@@ -54,11 +54,10 @@ patikimumas: "aukstas"
 - date_end: 1920
 
 ## Kas tai
-Šaltinyje „Patrankos“ patrankos minimos ir kaip Salaspilio mūšio grobis, ir kaip XVII a. karo ginklas su nurodyta liejykla bei išvežimu iš Biržų.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Patrankos“ patrankos minimos ir kaip Salaspilio mūšio grobis, ir kaip XVII a. karo ginklas su nurodyta liejykla bei išvežimu iš Biržų."
+  teiginys: "patrankos minimos ir kaip Salaspilio mūšio grobis, ir kaip XVII a. karo ginklas su nurodyta liejykla bei išvežimu iš Biržų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

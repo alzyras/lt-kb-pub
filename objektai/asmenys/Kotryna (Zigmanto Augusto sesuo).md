@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Kotryna (Zigmanto Augusto sesuo)
 
 ## Santrauka
-Šaltinyje Kotryna (Zigmanto Augusto sesuo) apibūdinamas taip: Minimas kaip Švedų karalius, statęs kandidatūrą į sostą per tarpuvaldį.
+Minimas kaip Švedų karalius, statęs kandidatūrą į sostą per tarpuvaldį.
 
 ## Variantai
 - Kotrynos
@@ -33,7 +33,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Kotryna (Zigmanto Augusto sesuo) apibūdinamas taip: Minimas kaip Švedų karalius, statęs kandidatūrą į sostą per tarpuvaldį."
+  teiginys: "Minimas kaip Švedų karalius, statęs kandidatūrą į sostą per tarpuvaldį."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

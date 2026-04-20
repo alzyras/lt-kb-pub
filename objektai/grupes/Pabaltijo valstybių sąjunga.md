@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Pabaltijo valstybių sąjunga
 
 ## Santrauka
-Šaltinyje „Pabaltijo valstybių sąjunga“ apibūdinama kaip sąjunga; Pabaltijo valstybių sąjungos sumanymas siejamas su 1919 metų Paryžiaus taikos konferencija. (t-001)
+sąjunga; Pabaltijo valstybių sąjungos sumanymas siejamas su 1919 metų Paryžiaus taikos konferencija. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Pabaltijo valstybių sąjunga
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: sąjunga
-Šaltinyje „Pabaltijo valstybių sąjunga“ apibūdinama kaip sąjunga; Pabaltijo valstybių sąjungos sumanymas siejamas su 1919 metų Paryžiaus taikos konferencija. (t-001)
+sąjunga; Pabaltijo valstybių sąjungos sumanymas siejamas su 1919 metų Paryžiaus taikos konferencija. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Pabaltijo valstybių sąjunga“ apibūdinama kaip sąjunga; Pabaltijo valstybių sąjungos sumanymas siejamas su 1919 metų Paryžiaus taikos konferencija. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Pabaltijo valstybių sąjunga“ apibūdinama kaip sąjunga; Pabaltijo valstybių sąjungos sumanymas siejamas su 1919 metų Paryžiaus taikos konferencija."
+  teiginys: "sąjunga; Pabaltijo valstybių sąjungos sumanymas siejamas su 1919 metų Paryžiaus taikos konferencija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

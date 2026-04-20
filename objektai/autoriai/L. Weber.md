@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # L. Weber
 
 ## Santrauka
-Šaltinyje L. Weber minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip veikalų apie Prūsiją ir Mažąją Lietuvą autorius.
+Minimas kaip veikalų apie Prūsiją ir Mažąją Lietuvą autorius.
 
 ## Darbai
 - Minimas kaip veikalų apie Prūsiją ir Mažąją Lietuvą autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje L. Weber autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip veikalų apie Prūsiją ir Mažąją Lietuvą autorius."
+  teiginys: "Minimas kaip veikalų apie Prūsiją ir Mažąją Lietuvą autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

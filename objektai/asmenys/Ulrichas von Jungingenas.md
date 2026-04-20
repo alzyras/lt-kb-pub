@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Ulrichas von Jungingenas
 
 ## Santrauka
-Šaltinyje Ulrichas von Jungingenas apibūdinamas taip: Ordino magistras, krito Tanenbergo mūšio lauke.
+Ordino magistras, krito Tanenbergo mūšio lauke.
 
 ## Variantai
 - Ulricho von Jungingeno
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Ulrichas von Jungingenas apibūdinamas taip: Ordino magistras, krito Tanenbergo mūšio lauke."
+  teiginys: "Ordino magistras, krito Tanenbergo mūšio lauke."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

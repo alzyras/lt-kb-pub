@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Roma
 
 ## Santrauka
-Šaltinyje vieta „Roma“ siejama su šiuo kontekstu: Minima kaip vieta, į kurią Kristijonas nuvyko krikštyti prūsų kunigaikščių. (t-001)
+Minima kaip vieta, į kurią Kristijonas nuvyko krikštyti prūsų kunigaikščių. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Roma
@@ -49,7 +49,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Roma“ siejama su šiuo kontekstu: Minima kaip vieta, į kurią Kristijonas nuvyko krikštyti prūsų kunigaikščių."
+  teiginys: "Minima kaip vieta, į kurią Kristijonas nuvyko krikštyti prūsų kunigaikščių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

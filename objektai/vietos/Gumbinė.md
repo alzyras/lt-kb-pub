@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Gumbinė
 
 ## Santrauka
-Šaltinyje vieta „Gumbinė“ siejama su šiuo kontekstu: Minima kaip vieta, iš kurios į Ienos laikraštį buvo nusiųstas anoniminis straipsnis prieš lietuvių kalbą. (t-001)
+Minima kaip vieta, iš kurios į Ienos laikraštį buvo nusiųstas anoniminis straipsnis prieš lietuvių kalbą. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Gumbinė
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Gumbinė“ siejama su šiuo kontekstu: Minima kaip vieta, iš kurios į Ienos laikraštį buvo nusiųstas anoniminis straipsnis prieš lietuvių kalbą."
+  teiginys: "Minima kaip vieta, iš kurios į Ienos laikraštį buvo nusiųstas anoniminis straipsnis prieš lietuvių kalbą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Mykolas Akelaitis
 
 ## Santrauka
-Šaltinyje Mykolas Akelaitis apibūdinamas taip: Minimas kaip suvalkietis kunigas, rašęs eiles ir leidęs lietuviškas knygas.
+Minimas kaip suvalkietis kunigas, rašęs eiles ir leidęs lietuviškas knygas.
 
 ## Laikotarpis ir datos
 - laikotarpis: 1828—1857 m.
@@ -38,7 +38,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Mykolas Akelaitis apibūdinamas taip: Minimas kaip suvalkietis kunigas, rašęs eiles ir leidęs lietuviškas knygas."
+  teiginys: "Minimas kaip suvalkietis kunigas, rašęs eiles ir leidęs lietuviškas knygas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

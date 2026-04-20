@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Morta
 
 ## Santrauka
-Šaltinyje Morta apibūdinamas taip: Mindaugo žmona, kurios mirtis tapo vienu iš sąmokslo prieš Mindaugą motyvų.
+Mindaugo žmona, kurios mirtis tapo vienu iš sąmokslo prieš Mindaugą motyvų.
 
 ## Variantai
 - Mortai
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Morta apibūdinamas taip: Mindaugo žmona, kurios mirtis tapo vienu iš sąmokslo prieš Mindaugą motyvų."
+  teiginys: "Mindaugo žmona, kurios mirtis tapo vienu iš sąmokslo prieš Mindaugą motyvų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

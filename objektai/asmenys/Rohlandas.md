@@ -23,11 +23,11 @@ patikimumas: "vidutinis"
 # Rohlandas
 
 ## Santrauka
-Šaltinyje Rohlandas apibūdinamas taip: Minimas generolų pasitarime dėl sukilėlių pajėgų padalijimo.
+Minimas generolų pasitarime dėl sukilėlių pajėgų padalijimo.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Rohlandas apibūdinamas taip: Minimas generolų pasitarime dėl sukilėlių pajėgų padalijimo."
+  teiginys: "Minimas generolų pasitarime dėl sukilėlių pajėgų padalijimo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

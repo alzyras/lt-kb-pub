@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Dubysa
 
 ## Santrauka
-Šaltinyje vieta „Dubysa“ siejama su šiuo kontekstu: Minima kaip Panemunės pilių saugomas upynas. (t-001)
+Minima kaip Panemunės pilių saugomas upynas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Dubysa
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Dubysa“ siejama su šiuo kontekstu: Minima kaip Panemunės pilių saugomas upynas."
+  teiginys: "Minima kaip Panemunės pilių saugomas upynas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

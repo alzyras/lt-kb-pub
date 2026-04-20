@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Be manęs nieko negali būti sprendžiama apie mane
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Be manęs nieko negali būti sprendžiama apie mane“; kontekstas: Aiškinant laisvojo pasipriešinimo teisę, ši formulė pateikiama kaip jos pagrindinis dėsnis. Reikšmė: Trumpa politinė-teisinė formulė apie teisę nepritarus stabdyti sprendimą. (t-001)
+Užfiksuota formuluotė „Be manęs nieko negali būti sprendžiama apie mane“; kontekstas: Aiškinant laisvojo pasipriešinimo teisę, ši formulė pateikiama kaip jos pagrindinis dėsnis. Reikšmė: Trumpa politinė-teisinė formulė apie teisę nepritarus stabdyti sprendimą. (t-001)
 
 ## Forma
 - pagrindinė forma: Be manęs nieko negali būti sprendžiama apie mane (t-001)
@@ -37,7 +37,7 @@ patikimumas: "vidutinis"
 - Be manęs nieko negali būti sprendžiama apie mane
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Aiškinant laisvojo pasipriešinimo teisę, ši formulė pateikiama kaip jos pagrindinis dėsnis. (t-001)
@@ -47,7 +47,7 @@ Trumpa politinė-teisinė formulė apie teisę nepritarus stabdyti sprendimą. (
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Be manęs nieko negali būti sprendžiama apie mane“; kontekstas: Aiškinant laisvojo pasipriešinimo teisę, ši formulė pateikiama kaip jos pagrindinis dėsnis."
+  teiginys: "Užfiksuota formuluotė „Be manęs nieko negali būti sprendžiama apie mane“; kontekstas: Aiškinant laisvojo pasipriešinimo teisę, ši formulė pateikiama kaip jos pagrindinis dėsnis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

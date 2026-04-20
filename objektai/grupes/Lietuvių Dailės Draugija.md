@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Lietuvių Dailės Draugija
 
 ## Santrauka
-Šaltinyje „Lietuvių Dailės Draugija“ apibūdinama kaip draugija; vilniuje įsikūrusi draugija, minima kartu su kitomis to paties švietimo sąjūdžio draugijomis. (t-001)
+draugija; vilniuje įsikūrusi draugija, minima kartu su kitomis to paties švietimo sąjūdžio draugijomis. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Lietuvių Dailės Draugija
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: draugija
-Šaltinyje „Lietuvių Dailės Draugija“ apibūdinama kaip draugija; vilniuje įsikūrusi draugija, minima kartu su kitomis to paties švietimo sąjūdžio draugijomis. (t-001)
+draugija; vilniuje įsikūrusi draugija, minima kartu su kitomis to paties švietimo sąjūdžio draugijomis. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Lietuvių Dailės Draugija“ apibūdinama kaip draugija; vilniuje įsikūrusi draugija, minima kartu su kitomis to paties švietimo sąjūdžio draugijomis. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Lietuvių Dailės Draugija“ apibūdinama kaip draugija; vilniuje įsikūrusi draugija, minima kartu su kitomis to paties švietimo sąjūdžio draugijomis."
+  teiginys: "draugija; vilniuje įsikūrusi draugija, minima kartu su kitomis to paties švietimo sąjūdžio draugijomis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

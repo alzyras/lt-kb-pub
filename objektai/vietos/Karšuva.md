@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Karšuva
 
 ## Santrauka
-Šaltinyje vieta „Karšuva“ siejama su šiuo kontekstu: Minima kaip žemaičių pilis priešais Jurbarką. (t-001)
+Minima kaip žemaičių pilis priešais Jurbarką. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Karšuva
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Karšuva“ siejama su šiuo kontekstu: Minima kaip žemaičių pilis priešais Jurbarką."
+  teiginys: "Minima kaip žemaičių pilis priešais Jurbarką."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

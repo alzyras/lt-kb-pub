@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Tautos Taryba (1794 m.)
 
 ## Santrauka
-Šaltinyje „Tautos Taryba (1794 m.)“ apibūdinama kaip taryba; prie Kosciuškos sukilimo vado buvo suorganizuota vadinamoji Tautos Taryba. (t-001)
+taryba; prie Kosciuškos sukilimo vado buvo suorganizuota vadinamoji Tautos Taryba. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Tautos Taryba (1794 m.)
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: taryba
-Šaltinyje „Tautos Taryba (1794 m.)“ apibūdinama kaip taryba; prie Kosciuškos sukilimo vado buvo suorganizuota vadinamoji Tautos Taryba. (t-001)
+taryba; prie Kosciuškos sukilimo vado buvo suorganizuota vadinamoji Tautos Taryba. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Tautos Taryba (1794 m.)“ apibūdinama kaip taryba; prie Kosciuškos sukilimo vado buvo suorganizuota vadinamoji Tautos Taryba. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Tautos Taryba (1794 m.)“ apibūdinama kaip taryba; prie Kosciuškos sukilimo vado buvo suorganizuota vadinamoji Tautos Taryba."
+  teiginys: "taryba; prie Kosciuškos sukilimo vado buvo suorganizuota vadinamoji Tautos Taryba."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

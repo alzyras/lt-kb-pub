@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # V. B. Antonovič
 
 ## Santrauka
-Šaltinyje V. B. Antonovič minimas kaip autorius; šis vaidmuo siejamas su: Monografii po ist. zapadnoj i jugozapadnoj Rossii.
+Monografii po ist. zapadnoj i jugozapadnoj Rossii.
 
 ## Laikotarpis ir datos
 - 1885 m.
@@ -41,7 +41,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje V. B. Antonovič minimas kaip autorius, siejamas su: Monografii po ist. zapadnoj i jugozapadnoj Rossii."
+  teiginys: "Monografii po ist. zapadnoj i jugozapadnoj Rossii."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

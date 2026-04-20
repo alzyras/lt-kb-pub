@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 # Kazokų regestrai
 
 ## Santrauka
-Šaltinyje „Kazokų regestrai“ vartojama taip: Oficialūs kazokų sąrašai arba į juos įrašytų kazokų statusas. (t-001)
+Oficialūs kazokų sąrašai arba į juos įrašytų kazokų statusas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Kazokų regestrai
@@ -56,7 +56,7 @@ Terminas šaltinyje vartojamas šiame kontekste: kazokų administracija, karo pr
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kazokų regestrai“ vartojama taip: Oficialūs kazokų sąrašai arba į juos įrašytų kazokų statusas."
+  teiginys: "Oficialūs kazokų sąrašai arba į juos įrašytų kazokų statusas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

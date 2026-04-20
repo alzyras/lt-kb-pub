@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # J. Urbšys
 
 ## Santrauka
-Šaltinyje J. Urbšys minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip medžiagos apie Vilniaus ginčo diplomatinę istoriją autorius.
+Minimas kaip medžiagos apie Vilniaus ginčo diplomatinę istoriją autorius.
 
 ## Darbai
 - Minimas kaip medžiagos apie Vilniaus ginčo diplomatinę istoriją autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje J. Urbšys autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip medžiagos apie Vilniaus ginčo diplomatinę istoriją autorius."
+  teiginys: "Minimas kaip medžiagos apie Vilniaus ginčo diplomatinę istoriją autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

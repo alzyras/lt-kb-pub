@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Tautos Taryba (Amerikos lietuvių katalikų, 1916 m.)
 
 ## Santrauka
-Šaltinyje „Tautos Taryba (Amerikos lietuvių katalikų, 1916 m.)“ apibūdinama kaip taryba; katalikų srovės suorganizuota taryba, nuo kurios tautininkai atsiskyrė. (t-001)
+taryba; katalikų srovės suorganizuota taryba, nuo kurios tautininkai atsiskyrė. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Tautos Taryba (Amerikos lietuvių katalikų, 1916 m.)
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: taryba
-Šaltinyje „Tautos Taryba (Amerikos lietuvių katalikų, 1916 m.)“ apibūdinama kaip taryba; katalikų srovės suorganizuota taryba, nuo kurios tautininkai atsiskyrė. (t-001)
+taryba; katalikų srovės suorganizuota taryba, nuo kurios tautininkai atsiskyrė. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Tautos Taryba (Amerikos lietuvių katalikų, 1916 m.)“ apibūdinama kaip taryba; katalikų srovės suorganizuota taryba, nuo kurios tautininkai atsiskyrė. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Tautos Taryba (Amerikos lietuvių katalikų, 1916 m.)“ apibūdinama kaip taryba; katalikų srovės suorganizuota taryba, nuo kurios tautininkai atsiskyrė."
+  teiginys: "taryba; katalikų srovės suorganizuota taryba, nuo kurios tautininkai atsiskyrė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

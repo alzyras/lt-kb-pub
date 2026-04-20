@@ -26,14 +26,13 @@ patikimumas: "vidutinis"
 # Laisvojo pasipriešinimo teisė (liberum veto)
 
 ## Santrauka
-Šaltinyje minima praktika „Laisvojo pasipriešinimo teisė (liberum veto)“ siejama su formuluote: Tatai vadinosi liberum veto, t. y. laisvojo pasipriešinimo teisė. Šaltinio kontekste nurodoma: kas atlieka: vienas ar keli papirkti atstovai; kada atliekama: kai pareiškiamas protestas prieš viso seimo nutarimą. (t-001)
+Tatai vadinosi liberum veto, t. y. laisvojo pasipriešinimo teisė. Šaltinio kontekste nurodoma: kas atlieka: vienas ar keli papirkti atstovai; kada atliekama: kai pareiškiamas protestas prieš viso seimo nutarimą. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Tatai vadinosi liberum veto, t. y. laisvojo pasipriešinimo teisė
 
 ## Kas tai
-Šaltinyje minima praktika „Laisvojo pasipriešinimo teisė (liberum veto)“ siejama su formuluote: Tatai vadinosi liberum veto, t. y. laisvojo pasipriešinimo teisė. Šaltinio kontekste nurodoma: kas atlieka: vienas ar keli papirkti atstovai; kada atliekama: kai pareiškiamas protestas prieš viso seimo nutarimą. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: vienas ar keli papirkti atstovai (t-001)
 - kada atliekama: kai pareiškiamas protestas prieš viso seimo nutarimą (t-001)
@@ -41,7 +40,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Laisvojo pasipriešinimo teisė (liberum veto)“ siejama su formuluote: Tatai vadinosi liberum veto, t. y. laisvojo pasipriešinimo teisė. Šaltinio kontekste nurodoma: kas atlieka: vienas ar keli papirkti atstovai; kada atliekama: kai pareiškiamas protestas prieš viso seimo nutarimą."
+  teiginys: "Tatai vadinosi liberum veto, t. y. laisvojo pasipriešinimo teisė. Šaltinio kontekste nurodoma: kas atlieka: vienas ar keli papirkti atstovai; kada atliekama: kai pareiškiamas protestas prieš viso seimo nutarimą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 # T. Narbutt
 
 ## Santrauka
-Šaltinyje T. Narbutt / T. Norbutas minimas autorystės kontekste: bibliografijoje nurodytas jo 1835-1841 m. veikalas, pasakojime jis siejamas su 9 tomų „Lietuvių tautos istorija“, o iliustracijos užrašas pateikia 1784—1864 m. datas.
+bibliografijoje nurodytas jo 1835-1841 m. veikalas, pasakojime jis siejamas su 9 tomų „Lietuvių tautos istorija“, o iliustracijos užrašas pateikia 1784—1864 m. datas.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip Lietuvos istorijos autorius. (t-001)
@@ -52,13 +52,13 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje T. Narbutt autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip Lietuvos istorijos autorius."
+  teiginys: "Bibliografijoje nurodytas kaip Lietuvos istorijos autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje T. Norbutas siejamas su 1835-1841 m. išspausdintu 9 tomų veikalu „Lietuvių tautos istorija“."
+  teiginys: "T. Norbutas siejamas su 1835-1841 m. išspausdintu 9 tomų veikalu „Lietuvių tautos istorija“."
   pagrindžia:
     - c-002
     - c-004
@@ -71,7 +71,7 @@ patikimumas: "vidutinis"
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-004
-  teiginys: "Šaltinyje T. Norbutas apibūdintas kaip pirmosios didžiulės 9 tomų Lietuvos istorijos autorius."
+  teiginys: "T. Norbutas apibūdintas kaip pirmosios didžiulės 9 tomų Lietuvos istorijos autorius."
   pagrindžia:
     - c-004
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -32,7 +32,7 @@ patikimumas: "aukstas"
 # Hetmono buožė
 
 ## Santrauka
-Šaltinyje „Hetmono buožė“ buožė veikia kaip karinio pareigų rango ženklas, suteikiamas kartu su seniūnija ir vėliau didžiojo hetmono pareigomis.
+buožė veikia kaip karinio pareigų rango ženklas, suteikiamas kartu su seniūnija ir vėliau didžiojo hetmono pareigomis.
 
 ## Pavadinimai šaltiniuose
 - lauko hetmono buožę
@@ -49,11 +49,10 @@ patikimumas: "aukstas"
 - date_end: 1605
 
 ## Kas tai
-Šaltinyje „Hetmono buožė“ buožė veikia kaip karinio pareigų rango ženklas, suteikiamas kartu su seniūnija ir vėliau didžiojo hetmono pareigomis.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Hetmono buožė“ buožė veikia kaip karinio pareigų rango ženklas, suteikiamas kartu su seniūnija ir vėliau didžiojo hetmono pareigomis."
+  teiginys: "buožė veikia kaip karinio pareigų rango ženklas, suteikiamas kartu su seniūnija ir vėliau didžiojo hetmono pareigomis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

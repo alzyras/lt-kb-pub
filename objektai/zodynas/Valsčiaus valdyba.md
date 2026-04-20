@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Valsčiaus valdyba
 
 ## Santrauka
-Šaltinyje „Valsčiaus valdyba“ vartojama taip: Valsčiaus administracinė įstaiga arba valdyba. (t-001)
+Valsčiaus administracinė įstaiga arba valdyba. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Valsčiaus valdyba
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: vietos administracija, carinės
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Valsčiaus valdyba“ vartojama taip: Valsčiaus administracinė įstaiga arba valdyba."
+  teiginys: "Valsčiaus administracinė įstaiga arba valdyba."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Latgaliai
 
 ## Santrauka
-Šaltinyje „Latgaliai“ apibūdinama kaip kiltis; latgaliai išvardijami kaip dešiniajame Dauguvos vidurupio krante gyvenusi kiltis. (t-001)
+kiltis; latgaliai išvardijami kaip dešiniajame Dauguvos vidurupio krante gyvenusi kiltis. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Latgaliai
@@ -38,14 +38,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: kiltis
-Šaltinyje „Latgaliai“ apibūdinama kaip kiltis; latgaliai išvardijami kaip dešiniajame Dauguvos vidurupio krante gyvenusi kiltis. (t-001)
+kiltis; latgaliai išvardijami kaip dešiniajame Dauguvos vidurupio krante gyvenusi kiltis. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Latgaliai“ apibūdinama kaip kiltis; latgaliai išvardijami kaip dešiniajame Dauguvos vidurupio krante gyvenusi kiltis. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Latgaliai“ apibūdinama kaip kiltis; latgaliai išvardijami kaip dešiniajame Dauguvos vidurupio krante gyvenusi kiltis."
+  teiginys: "kiltis; latgaliai išvardijami kaip dešiniajame Dauguvos vidurupio krante gyvenusi kiltis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Kvarta
 
 ## Santrauka
-Šaltinyje „Kvarta“ vartojama taip: Mokestis kariuomenės reikmėms iš valstybės dvarų pajamų. (t-001)
+Mokestis kariuomenės reikmėms iš valstybės dvarų pajamų. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Kvarta
@@ -50,7 +50,7 @@ Terminas šaltinyje vartojamas šiame kontekste: mokesčių istorija, kariuomen�
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kvarta“ vartojama taip: Mokestis kariuomenės reikmėms iš valstybės dvarų pajamų."
+  teiginys: "Mokestis kariuomenės reikmėms iš valstybės dvarų pajamų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # V. Pryšmantas
 
 ## Santrauka
-Šaltinyje V. Pryšmantas minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip žemaičių kilmės tyrinėtojas.
+Bibliografijoje nurodytas kaip žemaičių kilmės tyrinėtojas.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip žemaičių kilmės tyrinėtojas. (t-001)
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje V. Pryšmantas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip žemaičių kilmės tyrinėtojas."
+  teiginys: "Bibliografijoje nurodytas kaip žemaičių kilmės tyrinėtojas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

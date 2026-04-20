@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba
 
 ## Santrauka
-Šaltinyje „Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba“ apibūdinama kaip taryba; voroneže sukurta taryba, toliau skleidusi nepriklausomybės šūkį po seimo iširimo. (t-001)
+taryba; voroneže sukurta taryba, toliau skleidusi nepriklausomybės šūkį po seimo iširimo. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: taryba
-Šaltinyje „Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba“ apibūdinama kaip taryba; voroneže sukurta taryba, toliau skleidusi nepriklausomybės šūkį po seimo iširimo. (t-001)
+taryba; voroneže sukurta taryba, toliau skleidusi nepriklausomybės šūkį po seimo iširimo. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba“ apibūdinama kaip taryba; voroneže sukurta taryba, toliau skleidusi nepriklausomybės šūkį po seimo iširimo. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba“ apibūdinama kaip taryba; voroneže sukurta taryba, toliau skleidusi nepriklausomybės šūkį po seimo iširimo."
+  teiginys: "taryba; voroneže sukurta taryba, toliau skleidusi nepriklausomybės šūkį po seimo iširimo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -43,7 +43,7 @@ patikimumas: "aukstas"
 # Prūsija
 
 ## Santrauka
-Šaltinyje vieta „Prūsija“ siejama su šiais kontekstais: Prūsija minima kaip ordino valstybės virsmo ir vėlesnės Prūsų karalystės erdvė; Minima kaip švedų užimta ir deryboms svarbi teritorija. (t-001, t-002)
+Prūsija minima kaip ordino valstybės virsmo ir vėlesnės Prūsų karalystės erdvė; Minima kaip švedų užimta ir deryboms svarbi teritorija. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Prūsija
@@ -65,19 +65,19 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Prūsija“ siejama su šiuo kontekstu: Prūsija minima kaip ordino valstybės virsmo ir vėlesnės Prūsų karalystės erdvė."
+  teiginys: "Prūsija minima kaip ordino valstybės virsmo ir vėlesnės Prūsų karalystės erdvė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Prūsija“ siejama su šiuo kontekstu: Minima kaip švedų užimta ir deryboms svarbi teritorija."
+  teiginys: "Minima kaip švedų užimta ir deryboms svarbi teritorija."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-003
-  teiginys: "Šaltinyje vieta „Prūsija“ siejama su šiuo kontekstu: Minima kaip padalinimo dalytoja, užėmusi Lenkijos Pavyslį ir Varmiją."
+  teiginys: "Minima kaip padalinimo dalytoja, užėmusi Lenkijos Pavyslį ir Varmiją."
   pagrindžia:
     - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

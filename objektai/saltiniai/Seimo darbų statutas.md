@@ -38,7 +38,7 @@ patikimumas: "aukstas"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Seimo darbų statutas“ šis teisės aktas pristatomas kaip vienas iš pagrindinių Čartoriskių reformų rezultatų: juo siekta įvesti tvarką seimo darbuose, nustatyti maršalkos rinkimą balsų dauguma ir apriboti ankstesnį chaotišką sprendimų priėmimą.
+juo siekta įvesti tvarką seimo darbuose, nustatyti maršalkos rinkimą balsų dauguma ir apriboti ankstesnį chaotišką sprendimų priėmimą.
 
 ## Ryšiai
 
@@ -47,13 +47,13 @@ patikimumas: "aukstas"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Seimo darbų statutas“ šis teisės aktas pristatomas kaip vienas iš pagrindinių Čartoriskių reformų rezultatų: juo siekta įvesti tvarką seimo darbuose, nustatyti maršalkos rinkimą balsų dauguma ir apriboti ankstesnį chaotišką sprendimų priėmimą."
+  teiginys: "juo siekta įvesti tvarką seimo darbuose, nustatyti maršalkos rinkimą balsų dauguma ir apriboti ankstesnį chaotišką sprendimų priėmimą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Seimo darbų statutas“ siejamas su šiuo kontekstu: Šaltinyje tas pats reformų paketas dar vadinamas `seimo tvarkos įstatymu`; šalia jo minimas ir `iždo komisijos įstatymas`, kuriame įtvirtinta balsų daugumos taisyklė seimo iždo reikalams."
+  teiginys: "tas pats reformų paketas dar vadinamas `seimo tvarkos įstatymu`; šalia jo minimas ir `iždo komisijos įstatymas`, kuriame įtvirtinta balsų daugumos taisyklė seimo iždo reikalams."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

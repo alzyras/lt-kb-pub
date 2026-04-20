@@ -30,7 +30,7 @@ patikimumas: "vidutinis"
 # Respublika laikosi netvarka
 
 ## Santrauka
-Šaltinyje formuluotė „Respublika laikosi netvarka“ užfiksuota keliais variantais; kontekstas: Bajorijos politinis posakis, pateisinantis Respublikos netvarką kaip laisvės ir saugumo sąlygą; 25 gabale pateikta lenkiška formulė yra tos pačios minties variantas. Reikšmė: Politinė patarlė ar formulė, teigianti, kad valstybė laikosi netvarkos dėka ir todėl esanti nepavojinga kaimynams. (t-001)
+Bajorijos politinis posakis, pateisinantis Respublikos netvarką kaip laisvės ir saugumo sąlygą; 25 gabale pateikta lenkiška formulė yra tos pačios minties variantas. Reikšmė: Politinė patarlė ar formulė, teigianti, kad valstybė laikosi netvarkos dėka ir todėl esanti nepavojinga kaimynams. (t-001)
 
 ## Forma
 - pagrindinė forma: Respublika laikosi netvarka (t-001)
@@ -41,7 +41,7 @@ patikimumas: "vidutinis"
 - Respublika laikosi netvarkos dėka
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Bajorijos politinis posakis, pateisinantis Respublikos netvarką kaip laisvės ir saugumo sąlygą; 25 gabale pateikta lenkiška formulė yra tos pačios minties variantas. (t-001)
@@ -51,7 +51,7 @@ Politinė patarlė ar formulė, teigianti, kad valstybė laikosi netvarkos dėka
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje formuluotė „Respublika laikosi netvarka“ užfiksuota keliais variantais; kontekstas: Bajorijos politinis posakis, pateisinantis Respublikos netvarką kaip laisvės ir saugumo sąlygą; 25 gabale pateikta lenkiška formulė yra tos pačios minties variantas."
+  teiginys: "Bajorijos politinis posakis, pateisinantis Respublikos netvarką kaip laisvės ir saugumo sąlygą; 25 gabale pateikta lenkiška formulė yra tos pačios minties variantas."
   pagrindžia:
     - c-001
     - c-002

@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Marija Liudvika
 
 ## Santrauka
-Šaltinyje Marija Liudvika apibūdinamas taip: Minima kaip Jono Kazimiero žmona ir karališkųjų rūmų įtakinga veikėja.
+Minima kaip Jono Kazimiero žmona ir karališkųjų rūmų įtakinga veikėja.
 
 ## Variantai
 - Marijos Liudvikos
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Marija Liudvika apibūdinamas taip: Minima kaip Jono Kazimiero žmona ir karališkųjų rūmų įtakinga veikėja."
+  teiginys: "Minima kaip Jono Kazimiero žmona ir karališkųjų rūmų įtakinga veikėja."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

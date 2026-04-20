@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # V. Nagevičius
 
 ## Santrauka
-Šaltinyje V. Nagevičius minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip pajūrio kultūros tyrėjas.
+Bibliografijoje nurodytas kaip pajūrio kultūros tyrėjas.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip pajūrio kultūros tyrėjas. (t-001)
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje V. Nagevičius autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip pajūrio kultūros tyrėjas."
+  teiginys: "Bibliografijoje nurodytas kaip pajūrio kultūros tyrėjas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Lietuviai
 
 ## Santrauka
-Šaltinyje „Lietuviai“ apibūdinama kaip tauta; lietuviai aprašomi kaip Vytautą palaikanti krašto bendrija, kuri jį matė tautiškųjų reikalų gynėju ir priešinosi Jogailos atsivestiems lenkams. (t-001)
+tauta; lietuviai aprašomi kaip Vytautą palaikanti krašto bendrija, kuri jį matė tautiškųjų reikalų gynėju ir priešinosi Jogailos atsivestiems lenkams. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Lietuviai
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: tauta
-Šaltinyje „Lietuviai“ apibūdinama kaip tauta; lietuviai aprašomi kaip Vytautą palaikanti krašto bendrija, kuri jį matė tautiškųjų reikalų gynėju ir priešinosi Jogailos atsivestiems lenkams. (t-001)
+tauta; lietuviai aprašomi kaip Vytautą palaikanti krašto bendrija, kuri jį matė tautiškųjų reikalų gynėju ir priešinosi Jogailos atsivestiems lenkams. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Lietuviai“ apibūdinama kaip tauta; lietuviai aprašomi kaip Vytautą palaikanti krašto bendrija, kuri jį matė tautiškųjų reikalų gynėju ir priešinosi Jogailos atsivestiems lenkams. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Lietuviai“ apibūdinama kaip tauta; lietuviai aprašomi kaip Vytautą palaikanti krašto bendrija, kuri jį matė tautiškųjų reikalų gynėju ir priešinosi Jogailos atsivestiems lenkams."
+  teiginys: "tauta; lietuviai aprašomi kaip Vytautą palaikanti krašto bendrija, kuri jį matė tautiškųjų reikalų gynėju ir priešinosi Jogailos atsivestiems lenkams."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

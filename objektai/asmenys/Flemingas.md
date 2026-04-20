@@ -23,11 +23,11 @@ patikimumas: "vidutinis"
 # Flemingas
 
 ## Santrauka
-Šaltinyje Flemingas apibūdinamas taip: Minimas kaip saksų kariuomenės generolas, tarpininkavęs tarp bajorijos ir Sapiegų.
+Minimas kaip saksų kariuomenės generolas, tarpininkavęs tarp bajorijos ir Sapiegų.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Flemingas apibūdinamas taip: Minimas kaip saksų kariuomenės generolas, tarpininkavęs tarp bajorijos ir Sapiegų."
+  teiginys: "Minimas kaip saksų kariuomenės generolas, tarpininkavęs tarp bajorijos ir Sapiegų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

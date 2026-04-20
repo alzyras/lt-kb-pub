@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # H. Mościcki
 
 ## Santrauka
-Šaltinyje H. Mościcki minimas kaip autorius; šis vaidmuo siejamas su: Pod znakiem orła i pogoni.
+Pod znakiem orła i pogoni.
 
 ## Laikotarpis ir datos
 - 1923 m.
@@ -41,7 +41,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje H. Mościcki minimas kaip autorius, siejamas su: Pod znakiem orła i pogoni."
+  teiginys: "Pod znakiem orła i pogoni."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

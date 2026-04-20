@@ -34,7 +34,7 @@ patikimumas: "aukstas"
 # Unitai (grupė)
 
 ## Santrauka
-Šaltinyje „Unitai“ apibūdinama kaip religinė bendruomenė; unitai čia aprašomi kaip unijos šalininkų pusė, kuri susidūrė su pravoslavais ir ilgainiui neišsiplėtė tiek, kiek buvo tikėtasi. (t-001) Šaltinyje „Unitai“ siejama su šiuo kontekstu: Unitai čia aprašomi kaip unijos šalininkų pusė, kuri susidūrė su pravoslavais ir ilgainiui neišsiplėtė tiek, kiek buvo tikėtasi. (t-002) Įraše pateikiama 3 šaltinio citatų.
+religinė bendruomenė; unitai čia aprašomi kaip unijos šalininkų pusė, kuri susidūrė su pravoslavais ir ilgainiui neišsiplėtė tiek, kiek buvo tikėtasi. (t-001) Šaltinyje „Unitai“ siejama su šiuo kontekstu: Unitai čia aprašomi kaip unijos šalininkų pusė, kuri susidūrė su pravoslavais ir ilgainiui neišsiplėtė tiek, kiek buvo tikėtasi. (t-002) Įraše pateikiama 3 šaltinio citatų.
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Unitai (grupė)
@@ -51,7 +51,7 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: religinė bendruomenė
-Šaltinyje „Unitai“ apibūdinama kaip religinė bendruomenė; unitai čia aprašomi kaip unijos šalininkų pusė, kuri susidūrė su pravoslavais ir ilgainiui neišsiplėtė tiek, kiek buvo tikėtasi. (t-001)
+religinė bendruomenė; unitai čia aprašomi kaip unijos šalininkų pusė, kuri susidūrė su pravoslavais ir ilgainiui neišsiplėtė tiek, kiek buvo tikėtasi. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Unitai“ apibūdinama kaip religinė bendruomenė; unitai čia aprašomi kaip unijos šalininkų pusė, kuri susidūrė su pravoslavais ir ilgainiui neišsiplėtė tiek, kiek buvo tikėtasi. (t-001)
@@ -60,19 +60,19 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Unitai“ apibūdinama kaip religinė bendruomenė; unitai čia aprašomi kaip unijos šalininkų pusė, kuri susidūrė su pravoslavais ir ilgainiui neišsiplėtė tiek, kiek buvo tikėtasi."
+  teiginys: "religinė bendruomenė; unitai čia aprašomi kaip unijos šalininkų pusė, kuri susidūrė su pravoslavais ir ilgainiui neišsiplėtė tiek, kiek buvo tikėtasi."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Unitai“ siejama su šiuo kontekstu: Unitai čia aprašomi kaip unijos šalininkų pusė, kuri susidūrė su pravoslavais ir ilgainiui neišsiplėtė tiek, kiek buvo tikėtasi."
+  teiginys: "Unitai čia aprašomi kaip unijos šalininkų pusė, kuri susidūrė su pravoslavais ir ilgainiui neišsiplėtė tiek, kiek buvo tikėtasi."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-003
-  teiginys: "Šaltinyje „Unitai“ siejama su šiuo kontekstu: Unitai čia aprašomi kaip unijos šalininkų pusė, kuri susidūrė su pravoslavais ir ilgainiui neišsiplėtė tiek, kiek buvo tikėtasi."
+  teiginys: "Unitai čia aprašomi kaip unijos šalininkų pusė, kuri susidūrė su pravoslavais ir ilgainiui neišsiplėtė tiek, kiek buvo tikėtasi."
   pagrindžia:
     - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

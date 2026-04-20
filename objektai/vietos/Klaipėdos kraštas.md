@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Klaipėdos kraštas
 
 ## Santrauka
-Šaltinyje vieta „Klaipėdos kraštas“ siejama su šiuo kontekstu: Minimas kaip nuo Vokietijos atskirtas ir vėliau prie Lietuvos prijungtas autonominis kraštas. (t-001)
+Minimas kaip nuo Vokietijos atskirtas ir vėliau prie Lietuvos prijungtas autonominis kraštas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Klaipėdos kraštas
@@ -49,7 +49,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Klaipėdos kraštas“ siejama su šiuo kontekstu: Minimas kaip nuo Vokietijos atskirtas ir vėliau prie Lietuvos prijungtas autonominis kraštas."
+  teiginys: "Minimas kaip nuo Vokietijos atskirtas ir vėliau prie Lietuvos prijungtas autonominis kraštas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

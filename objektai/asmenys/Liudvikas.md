@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Liudvikas
 
 ## Santrauka
-Šaltinyje Liudvikas apibūdinamas taip: Vengrijos karalius, kuriam po Kazimiero mirties atiteko Lenkijos sostas.
+Vengrijos karalius, kuriam po Kazimiero mirties atiteko Lenkijos sostas.
 
 ## Variantai
 - Liudviko
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Liudvikas apibūdinamas taip: Vengrijos karalius, kuriam po Kazimiero mirties atiteko Lenkijos sostas."
+  teiginys: "Vengrijos karalius, kuriam po Kazimiero mirties atiteko Lenkijos sostas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Laikinoji Tautos Vyriausybė
 
 ## Santrauka
-Šaltinyje „Laikinoji Tautos Vyriausybė“ apibūdinama kaip sukilėlių vyriausybė; raudonųjų centro komitetas, pabėgėlių verčiamas, pasivadino Laikinąja Tautos Vyriausybe ir paskelbė sukilimą. (t-001)
+sukilėlių vyriausybė; raudonųjų centro komitetas, pabėgėlių verčiamas, pasivadino Laikinąja Tautos Vyriausybe ir paskelbė sukilimą. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Laikinoji Tautos Vyriausybė
@@ -46,14 +46,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: sukilėlių vyriausybė
-Šaltinyje „Laikinoji Tautos Vyriausybė“ apibūdinama kaip sukilėlių vyriausybė; raudonųjų centro komitetas, pabėgėlių verčiamas, pasivadino Laikinąja Tautos Vyriausybe ir paskelbė sukilimą. (t-001)
+sukilėlių vyriausybė; raudonųjų centro komitetas, pabėgėlių verčiamas, pasivadino Laikinąja Tautos Vyriausybe ir paskelbė sukilimą. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Laikinoji Tautos Vyriausybė“ apibūdinama kaip sukilėlių vyriausybė; raudonųjų centro komitetas, pabėgėlių verčiamas, pasivadino Laikinąja Tautos Vyriausybe ir paskelbė sukilimą. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Laikinoji Tautos Vyriausybė“ apibūdinama kaip sukilėlių vyriausybė; raudonųjų centro komitetas, pabėgėlių verčiamas, pasivadino Laikinąja Tautos Vyriausybe ir paskelbė sukilimą."
+  teiginys: "sukilėlių vyriausybė; raudonųjų centro komitetas, pabėgėlių verčiamas, pasivadino Laikinąja Tautos Vyriausybe ir paskelbė sukilimą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # M. Višniaveckis
 
 ## Santrauka
-Šaltinyje M. Višniaveckis apibūdinamas taip: Minimas kaip kunigaikštis, kurio kariuomenė niokojo Alytaus ekonomijos dvarus.
+Minimas kaip kunigaikštis, kurio kariuomenė niokojo Alytaus ekonomijos dvarus.
 
 ## Variantai
 - M. Višniaveckio
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje M. Višniaveckis apibūdinamas taip: Minimas kaip kunigaikštis, kurio kariuomenė niokojo Alytaus ekonomijos dvarus."
+  teiginys: "Minimas kaip kunigaikštis, kurio kariuomenė niokojo Alytaus ekonomijos dvarus."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

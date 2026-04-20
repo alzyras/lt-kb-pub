@@ -23,11 +23,11 @@ patikimumas: "aukstas"
 # Vaidotas
 
 ## Santrauka
-Šaltinyje Vaidotas apibūdinamas taip: Kęstučio sūnus ir Kauno pilies įgulos vadas.
+Kęstučio sūnus ir Kauno pilies įgulos vadas.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Vaidotas apibūdinamas taip: Kęstučio sūnus ir Kauno pilies įgulos vadas."
+  teiginys: "Kęstučio sūnus ir Kauno pilies įgulos vadas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

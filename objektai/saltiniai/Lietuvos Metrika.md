@@ -40,7 +40,7 @@ patikimumas: "aukstas"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Lietuvos Metrika“ taip vadinamos valdovo dovanojimų, teismų sprendimų ir seimų nutarimų nuorašų knygos, kurios sudarė Lietuvos Didžiosios Kunigaikštystės archyvą.
+taip vadinamos valdovo dovanojimų, teismų sprendimų ir seimų nutarimų nuorašų knygos, kurios sudarė Lietuvos Didžiosios Kunigaikštystės archyvą.
 
 ## Ryšiai
 
@@ -49,13 +49,13 @@ patikimumas: "aukstas"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Lietuvos Metrika“ taip vadinamos valdovo dovanojimų, teismų sprendimų ir seimų nutarimų nuorašų knygos, kurios sudarė Lietuvos Didžiosios Kunigaikštystės archyvą."
+  teiginys: "taip vadinamos valdovo dovanojimų, teismų sprendimų ir seimų nutarimų nuorašų knygos, kurios sudarė Lietuvos Didžiosios Kunigaikštystės archyvą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Lietuvos Metrika“ siejamas su šiuo kontekstu: Pavadinimas vartojamas dvejopai: ir pačioms nuorašų knygoms, ir visam susiformavusiam archyvui. Dėl to kandidatas artimas ir daikto, ir šaltinio ribai, bet čia paliekamas kaip materialus teisinių raštų rinkinys."
+  teiginys: "Pavadinimas vartojamas dvejopai: ir pačioms nuorašų knygoms, ir visam susiformavusiam archyvui. Dėl to kandidatas artimas ir daikto, ir šaltinio ribai, bet čia paliekamas kaip materialus teisinių raštų rinkinys."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

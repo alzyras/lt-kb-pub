@@ -24,7 +24,7 @@ patikimumas: "vidutinis"
 # Ožechovskis
 
 ## Santrauka
-Šaltinyje Ožechovskis apibūdinamas taip: Lenkų publicistas, minimas unijos ginčų ir anti-lietuviškų raštų kontekste.
+Lenkų publicistas, minimas unijos ginčų ir anti-lietuviškų raštų kontekste.
 
 ## Laikotarpis ir datos
 - laikotarpis: nenustatyta
@@ -37,7 +37,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Ožechovskis apibūdinamas taip: Lenkų publicistas, minimas unijos ginčų ir anti-lietuviškų raštų kontekste."
+  teiginys: "Lenkų publicistas, minimas unijos ginčų ir anti-lietuviškų raštų kontekste."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Pietų Afrikos Lietuvių Draugija
 
 ## Santrauka
-Šaltinyje „Pietų Afrikos Lietuvių Draugija“ apibūdinama kaip draugija; johanesburge lietuviai turėjo vieną nedidelę organizaciją, pavadintą Pietų Afrikos Lietuvių Draugija. (t-001)
+draugija; johanesburge lietuviai turėjo vieną nedidelę organizaciją, pavadintą Pietų Afrikos Lietuvių Draugija. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Pietų Afrikos Lietuvių Draugija
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: draugija
-Šaltinyje „Pietų Afrikos Lietuvių Draugija“ apibūdinama kaip draugija; johanesburge lietuviai turėjo vieną nedidelę organizaciją, pavadintą Pietų Afrikos Lietuvių Draugija. (t-001)
+draugija; johanesburge lietuviai turėjo vieną nedidelę organizaciją, pavadintą Pietų Afrikos Lietuvių Draugija. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Pietų Afrikos Lietuvių Draugija“ apibūdinama kaip draugija; johanesburge lietuviai turėjo vieną nedidelę organizaciją, pavadintą Pietų Afrikos Lietuvių Draugija. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Pietų Afrikos Lietuvių Draugija“ apibūdinama kaip draugija; johanesburge lietuviai turėjo vieną nedidelę organizaciją, pavadintą Pietų Afrikos Lietuvių Draugija."
+  teiginys: "draugija; johanesburge lietuviai turėjo vieną nedidelę organizaciją, pavadintą Pietų Afrikos Lietuvių Draugija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

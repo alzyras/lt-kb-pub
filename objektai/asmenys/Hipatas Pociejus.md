@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Hipatas Pociejus
 
 ## Santrauka
-Šaltinyje Hipatas Pociejus apibūdinamas taip: Minimas kaip Vladimiro vyskupas ir vienas pagrindinių unijos šalininkų.
+Minimas kaip Vladimiro vyskupas ir vienas pagrindinių unijos šalininkų.
 
 ## Variantai
 - Pociejui
@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Hipatas Pociejus apibūdinamas taip: Minimas kaip Vladimiro vyskupas ir vienas pagrindinių unijos šalininkų."
+  teiginys: "Minimas kaip Vladimiro vyskupas ir vienas pagrindinių unijos šalininkų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

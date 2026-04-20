@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Deimena
 
 ## Santrauka
-Šaltinyje vieta „Deimena“ siejama su šiuo kontekstu: Upė minima kaip prūsų ir lietuvių susisiekimo vieta. (t-001)
+Upė minima kaip prūsų ir lietuvių susisiekimo vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Deimena
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Deimena“ siejama su šiuo kontekstu: Upė minima kaip prūsų ir lietuvių susisiekimo vieta."
+  teiginys: "Upė minima kaip prūsų ir lietuvių susisiekimo vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

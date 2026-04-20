@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Mikalojus Daukša
 
 ## Santrauka
-Šaltinyje Mikalojus Daukša apibūdinamas taip: Minimas kaip kanoninkas, vyskupo raginamas išleidęs lietuviškus katalikiškus tekstus.
+Minimas kaip kanoninkas, vyskupo raginamas išleidęs lietuviškus katalikiškus tekstus.
 
 ## Variantai
 - Daukša
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Mikalojus Daukša apibūdinamas taip: Minimas kaip kanoninkas, vyskupo raginamas išleidęs lietuviškus katalikiškus tekstus."
+  teiginys: "Minimas kaip kanoninkas, vyskupo raginamas išleidęs lietuviškus katalikiškus tekstus."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

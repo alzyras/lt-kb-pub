@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Mūsų brolis yra laisvas, kaip ir mes
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Mūsų brolis yra laisvas, kaip ir mes“; kontekstas: Jogaila atsako Vytauto delegacijai dėl Lietuvos bajorų laisvės ir formuluoja valdovų bei didikų tarpusavio brolybės ir lygybės tezę. Reikšmė: Trumpa politinė replika apie laisvę, brolybę ir lygybę tarp valdovų bei jų didikų. (t-001)
+Užfiksuota formuluotė „Mūsų brolis yra laisvas, kaip ir mes“; kontekstas: Jogaila atsako Vytauto delegacijai dėl Lietuvos bajorų laisvės ir formuluoja valdovų bei didikų tarpusavio brolybės ir lygybės tezę. Reikšmė: Trumpa politinė replika apie laisvę, brolybę ir lygybę tarp valdovų bei jų didikų. (t-001)
 
 ## Forma
 - pagrindinė forma: Mūsų brolis yra laisvas, kaip ir mes (t-001)
@@ -45,7 +45,7 @@ Trumpa politinė replika apie laisvę, brolybę ir lygybę tarp valdovų bei jų
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Mūsų brolis yra laisvas, kaip ir mes“; kontekstas: Jogaila atsako Vytauto delegacijai dėl Lietuvos bajorų laisvės ir formuluoja valdovų bei didikų tarpusavio brolybės ir lygybės tezę."
+  teiginys: "Užfiksuota formuluotė „Mūsų brolis yra laisvas, kaip ir mes“; kontekstas: Jogaila atsako Vytauto delegacijai dėl Lietuvos bajorų laisvės ir formuluoja valdovų bei didikų tarpusavio brolybės ir lygybės tezę."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

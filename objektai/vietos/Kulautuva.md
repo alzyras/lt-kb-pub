@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Kulautuva
 
 ## Santrauka
-Šaltinyje vieta „Kulautuva“ siejama su šiuo kontekstu: nurodoma kaip dabartinė vieta prie Salyno. (t-001)
+nurodoma kaip dabartinė vieta prie Salyno. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Kulautuva
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Kulautuva“ siejama su šiuo kontekstu: nurodoma kaip dabartinė vieta prie Salyno."
+  teiginys: "nurodoma kaip dabartinė vieta prie Salyno."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

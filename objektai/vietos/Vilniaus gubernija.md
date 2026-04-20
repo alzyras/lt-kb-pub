@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Vilniaus gubernija
 
 ## Santrauka
-Šaltinyje vieta „Vilniaus gubernija“ siejama su šiuo kontekstu: Minima kaip viena iš trijų gubernijų, į kurias po sujungimo vėl buvo padalintos Rusijai tekusios žemės. (t-001)
+Minima kaip viena iš trijų gubernijų, į kurias po sujungimo vėl buvo padalintos Rusijai tekusios žemės. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Vilniaus gubernija
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Vilniaus gubernija“ siejama su šiuo kontekstu: Minima kaip viena iš trijų gubernijų, į kurias po sujungimo vėl buvo padalintos Rusijai tekusios žemės."
+  teiginys: "Minima kaip viena iš trijų gubernijų, į kurias po sujungimo vėl buvo padalintos Rusijai tekusios žemės."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

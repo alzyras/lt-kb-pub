@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Medžiola
 
 ## Santrauka
-Šaltinyje vieta „Medžiola“ siejama su šiuo kontekstu: Minima ir kaip upė, ir kaip to paties vardo ežeras rytinės sienos apraše. (t-001)
+Minima ir kaip upė, ir kaip to paties vardo ežeras rytinės sienos apraše. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Medžiola
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Medžiola“ siejama su šiuo kontekstu: Minima ir kaip upė, ir kaip to paties vardo ežeras rytinės sienos apraše."
+  teiginys: "Minima ir kaip upė, ir kaip to paties vardo ežeras rytinės sienos apraše."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

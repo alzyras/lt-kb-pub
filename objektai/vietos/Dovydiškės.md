@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Dovydiškės
 
 ## Santrauka
-Šaltinyje vieta „Dovydiškės“ siejama su šiuo kontekstu: Vietovė įvardijama kaip sutarties pasirašymo vieta. (t-001)
+Vietovė įvardijama kaip sutarties pasirašymo vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Dovydiškės
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Dovydiškės“ siejama su šiuo kontekstu: Vietovė įvardijama kaip sutarties pasirašymo vieta."
+  teiginys: "Vietovė įvardijama kaip sutarties pasirašymo vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

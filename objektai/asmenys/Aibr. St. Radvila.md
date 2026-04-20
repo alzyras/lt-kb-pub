@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # Aibr. St. Radvila
 
 ## Santrauka
-Šaltinyje Aibr. St. Radvila apibūdinamas taip: Minimas kaip Pinske veikiančios jėzuitų kolegijos fundatorius.
+Minimas kaip Pinske veikiančios jėzuitų kolegijos fundatorius.
 
 ## Variantai
 - Aibr. St. Radvilos
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Aibr. St. Radvila apibūdinamas taip: Minimas kaip Pinske veikiančios jėzuitų kolegijos fundatorius."
+  teiginys: "Minimas kaip Pinske veikiančios jėzuitų kolegijos fundatorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

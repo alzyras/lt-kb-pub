@@ -23,7 +23,7 @@ patikimumas: "aukstas"
 # Aistmarės
 
 ## Santrauka
-Šaltinyje vieta „Aistmarės“ siejama su šiuo kontekstu: Senasis vietovardis minimas kaip aisčių gyvenamųjų vietų įrodymas Prūsuose. (t-001)
+Senasis vietovardis minimas kaip aisčių gyvenamųjų vietų įrodymas Prūsuose. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Aistmarės
@@ -39,7 +39,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Aistmarės“ siejama su šiuo kontekstu: Senasis vietovardis minimas kaip aisčių gyvenamųjų vietų įrodymas Prūsuose."
+  teiginys: "Senasis vietovardis minimas kaip aisčių gyvenamųjų vietų įrodymas Prūsuose."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

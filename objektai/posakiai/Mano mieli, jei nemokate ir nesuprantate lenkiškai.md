@@ -30,7 +30,7 @@ patikimumas: "vidutinis"
 # Mano mieli, jei nemokate ir nesuprantate lenkiškai
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Mano mieli, jei nemokate ir nesuprantate lenkiškai — nedidelis daiktas“; kontekstas: Vilniaus vyskupijos valdytojas atmeta Kalvių parapijos delegacijos prašymą dėl lietuvio kunigo ir lietuviškų pamaldų. Reikšmė: Grasinanti replika, kuria atsisakoma lietuviškų pamaldų ir spaudžiama lenkiškai mokėti tikintiesiems. (t-001)
+Užfiksuota formuluotė „Mano mieli, jei nemokate ir nesuprantate lenkiškai — nedidelis daiktas“; kontekstas: Vilniaus vyskupijos valdytojas atmeta Kalvių parapijos delegacijos prašymą dėl lietuvio kunigo ir lietuviškų pamaldų. Reikšmė: Grasinanti replika, kuria atsisakoma lietuviškų pamaldų ir spaudžiama lenkiškai mokėti tikintiesiems. (t-001)
 
 ## Forma
 - pagrindinė forma: Mano mieli, jei nemokate ir nesuprantate lenkiškai — nedidelis daiktas (t-001)
@@ -53,7 +53,7 @@ Grasinanti replika, kuria atsisakoma lietuviškų pamaldų ir spaudžiama lenki�
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Mano mieli, jei nemokate ir nesuprantate lenkiškai — nedidelis daiktas“; kontekstas: Vilniaus vyskupijos valdytojas atmeta Kalvių parapijos delegacijos prašymą dėl lietuvio kunigo ir lietuviškų pamaldų."
+  teiginys: "Užfiksuota formuluotė „Mano mieli, jei nemokate ir nesuprantate lenkiškai — nedidelis daiktas“; kontekstas: Vilniaus vyskupijos valdytojas atmeta Kalvių parapijos delegacijos prašymą dėl lietuvio kunigo ir lietuviškų pamaldų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

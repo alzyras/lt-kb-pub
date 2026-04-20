@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Lvovas
 
 ## Santrauka
-Šaltinyje vieta „Lvovas“ siejama su šiuo kontekstu: Minimas kaip vieno iš pasiuntinių vyskupų atstovavimo miestas. (t-001)
+Minimas kaip vieno iš pasiuntinių vyskupų atstovavimo miestas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Lvovas
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Lvovas“ siejama su šiuo kontekstu: Minimas kaip vieno iš pasiuntinių vyskupų atstovavimo miestas."
+  teiginys: "Minimas kaip vieno iš pasiuntinių vyskupų atstovavimo miestas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Filomatų Draugija
 
 ## Santrauka
-Šaltinyje „Filomatų Draugija“ apibūdinama kaip slapta studentų draugija; filomatų Draugija įvardijama kaip slaptas studentų sambūris Vilniaus universitete, kurio tikslas buvo lavintis ir dirbti visuomenei. (t-001)
+slapta studentų draugija; filomatų Draugija įvardijama kaip slaptas studentų sambūris Vilniaus universitete, kurio tikslas buvo lavintis ir dirbti visuomenei. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Filomatų Draugija
@@ -40,14 +40,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: slapta studentų draugija
-Šaltinyje „Filomatų Draugija“ apibūdinama kaip slapta studentų draugija; filomatų Draugija įvardijama kaip slaptas studentų sambūris Vilniaus universitete, kurio tikslas buvo lavintis ir dirbti visuomenei. (t-001)
+slapta studentų draugija; filomatų Draugija įvardijama kaip slaptas studentų sambūris Vilniaus universitete, kurio tikslas buvo lavintis ir dirbti visuomenei. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Filomatų Draugija“ apibūdinama kaip slapta studentų draugija; filomatų Draugija įvardijama kaip slaptas studentų sambūris Vilniaus universitete, kurio tikslas buvo lavintis ir dirbti visuomenei. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Filomatų Draugija“ apibūdinama kaip slapta studentų draugija; filomatų Draugija įvardijama kaip slaptas studentų sambūris Vilniaus universitete, kurio tikslas buvo lavintis ir dirbti visuomenei."
+  teiginys: "slapta studentų draugija; filomatų Draugija įvardijama kaip slaptas studentų sambūris Vilniaus universitete, kurio tikslas buvo lavintis ir dirbti visuomenei."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Muštiniai
 
 ## Santrauka
-Šaltinyje „Muštiniai“ taip vadinami specialūs pailgi sidabro gabalai su pažymėta verte, vartoti vietoje pinigų.
+taip vadinami specialūs pailgi sidabro gabalai su pažymėta verte, vartoti vietoje pinigų.
 
 ## Pavadinimai šaltiniuose
 - sidabro gabalai
@@ -44,11 +44,10 @@ patikimumas: "aukstas"
 - date_end:
 
 ## Kas tai
-Šaltinyje „Muštiniai“ taip vadinami specialūs pailgi sidabro gabalai su pažymėta verte, vartoti vietoje pinigų.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Muštiniai“ taip vadinami specialūs pailgi sidabro gabalai su pažymėta verte, vartoti vietoje pinigų."
+  teiginys: "taip vadinami specialūs pailgi sidabro gabalai su pažymėta verte, vartoti vietoje pinigų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

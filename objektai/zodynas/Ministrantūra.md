@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Ministrantūra
 
 ## Santrauka
-Šaltinyje „Ministrantūra“ vartojama taip: Bažnytinio patarnavimo arba ministrantų pareigų mokymas. (t-001)
+Bažnytinio patarnavimo arba ministrantų pareigų mokymas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Ministrantūra
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: religinė pedagogika, bažnytin
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Ministrantūra“ vartojama taip: Bažnytinio patarnavimo arba ministrantų pareigų mokymas."
+  teiginys: "Bažnytinio patarnavimo arba ministrantų pareigų mokymas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

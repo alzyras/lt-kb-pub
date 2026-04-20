@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Mstislaulis
 
 ## Santrauka
-Šaltinyje vieta „Mstislaulis“ siejama su šiuo kontekstu: Minima kaip viena iš Rusijai tekusių Lietuvos Didžiosios Kunigaikštystės vaivadijų. (t-001)
+Minima kaip viena iš Rusijai tekusių Lietuvos Didžiosios Kunigaikštystės vaivadijų. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Mstislaulis
@@ -47,7 +47,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Mstislaulis“ siejama su šiuo kontekstu: Minima kaip viena iš Rusijai tekusių Lietuvos Didžiosios Kunigaikštystės vaivadijų."
+  teiginys: "Minima kaip viena iš Rusijai tekusių Lietuvos Didžiosios Kunigaikštystės vaivadijų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

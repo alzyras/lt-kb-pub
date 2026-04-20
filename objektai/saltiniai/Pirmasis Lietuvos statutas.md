@@ -43,7 +43,7 @@ patikimumas: "aukstas"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Pirmasis Lietuvos statutas“ šis dokumentas siejamas su Zigmantu Augustu ir bajorijos teisių plėtimu, o vėlesnėje pastraipoje aiškiai pasakoma, kad jis rodė Lietuvą kaip savarankišką valstybę.
+šis dokumentas siejamas su Zigmantu Augustu ir bajorijos teisių plėtimu, o vėlesnėje pastraipoje aiškiai pasakoma, kad jis rodė Lietuvą kaip savarankišką valstybę.
 
 ## Ryšiai
 
@@ -52,7 +52,7 @@ patikimumas: "aukstas"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Pirmasis Lietuvos statutas“ šis dokumentas siejamas su Zigmantu Augustu ir bajorijos teisių plėtimu, o vėlesnėje pastraipoje aiškiai pasakoma, kad jis rodė Lietuvą kaip savarankišką valstybę."
+  teiginys: "šis dokumentas siejamas su Zigmantu Augustu ir bajorijos teisių plėtimu, o vėlesnėje pastraipoje aiškiai pasakoma, kad jis rodė Lietuvą kaip savarankišką valstybę."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

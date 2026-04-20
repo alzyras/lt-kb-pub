@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Kolonizacija
 
 ## Santrauka
-Šaltinyje „Kolonizacija“ vartojama taip: Organizuotas žmonių kėlimas į kraštą siekiant jį rusinti. (t-001)
+Organizuotas žmonių kėlimas į kraštą siekiant jį rusinti. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Kolonizacija
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: gyventojų perkėlimas, rusinim
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kolonizacija“ vartojama taip: Organizuotas žmonių kėlimas į kraštą siekiant jį rusinti."
+  teiginys: "Organizuotas žmonių kėlimas į kraštą siekiant jį rusinti."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

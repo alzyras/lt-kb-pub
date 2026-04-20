@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Karolis
 
 ## Santrauka
-Šaltinyje Karolis apibūdinamas taip: Minimas kaip Austrijos remiamas Lotaringijos kunigaikštis ir kandidatas į sostą.
+Minimas kaip Austrijos remiamas Lotaringijos kunigaikštis ir kandidatas į sostą.
 
 ## Variantai
 - Karolį
@@ -33,7 +33,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Karolis apibūdinamas taip: Minimas kaip Austrijos remiamas Lotaringijos kunigaikštis ir kandidatas į sostą."
+  teiginys: "Minimas kaip Austrijos remiamas Lotaringijos kunigaikštis ir kandidatas į sostą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

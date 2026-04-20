@@ -39,7 +39,7 @@ patikimumas: "aukstas"
 
 ## Santrauka
 
-Šaltinyje Tanenbergo mūšis datuojamas 1410 m. liepos 15 d.; jis vyko ordino žemėje tarp [[Tanenbergas|Tanenbergo]] ir [[Griunvaldas|Griunvaldo]]. Šaltinis teigia, kad ordino jėgos buvo sunaikintos ir kad mūšio laimėjimo nuopelnas pirmiausia priskiriamas Vytautui. (t-001, t-002, t-003, t-004)
+Tanenbergo mūšis datuojamas 1410 m. liepos 15 d.; jis vyko ordino žemėje tarp [[Tanenbergas|Tanenbergo]] ir [[Griunvaldas|Griunvaldo]]. Šaltinis teigia, kad ordino jėgos buvo sunaikintos ir kad mūšio laimėjimo nuopelnas pirmiausia priskiriamas Vytautui. (t-001, t-002, t-003, t-004)
 
 ## Laikotarpis ir datos
 
@@ -83,7 +83,7 @@ patikimumas: "aukstas"
   statusas: patvirtinta
 
 - t-002
-  teiginys: "Šaltinyje Jogaila laikomas visų viršininku, o Vytautas vadinamas tikruoju mūšio vadu; lenkų kariuomenę rikiavo Zindramas iš Maškovičių."
+  teiginys: "Jogaila laikomas visų viršininku, o Vytautas vadinamas tikruoju mūšio vadu; lenkų kariuomenę rikiavo Zindramas iš Maškovičių."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

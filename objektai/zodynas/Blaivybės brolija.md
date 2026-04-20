@@ -30,7 +30,7 @@ patikimumas: "vidutinis"
 # Blaivybės brolija
 
 ## Santrauka
-Šaltinyje „Blaivybės brolija“ vartojama taip: Blaivybės judėjimo religinė ar visuomeninė brolija. (t-001)
+Blaivybės judėjimo religinė ar visuomeninė brolija. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Blaivybės brolija
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: religiniai sambūriai, blaivyb�
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Blaivybės brolija“ vartojama taip: Blaivybės judėjimo religinė ar visuomeninė brolija."
+  teiginys: "Blaivybės judėjimo religinė ar visuomeninė brolija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

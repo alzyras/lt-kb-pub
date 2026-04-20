@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Lietuvių Informacijų Biūras
 
 ## Santrauka
-Šaltinyje „Lietuvių Informacijų Biūras“ apibūdinama kaip biuras; paryžiuje įsteigtas lietuvių informacijos biuras, išlaikomas amerikiečių pinigais. (t-001)
+biuras; paryžiuje įsteigtas lietuvių informacijos biuras, išlaikomas amerikiečių pinigais. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Lietuvių Informacijų Biūras
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: biuras
-Šaltinyje „Lietuvių Informacijų Biūras“ apibūdinama kaip biuras; paryžiuje įsteigtas lietuvių informacijos biuras, išlaikomas amerikiečių pinigais. (t-001)
+biuras; paryžiuje įsteigtas lietuvių informacijos biuras, išlaikomas amerikiečių pinigais. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Lietuvių Informacijų Biūras“ apibūdinama kaip biuras; paryžiuje įsteigtas lietuvių informacijos biuras, išlaikomas amerikiečių pinigais. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Lietuvių Informacijų Biūras“ apibūdinama kaip biuras; paryžiuje įsteigtas lietuvių informacijos biuras, išlaikomas amerikiečių pinigais."
+  teiginys: "biuras; paryžiuje įsteigtas lietuvių informacijos biuras, išlaikomas amerikiečių pinigais."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

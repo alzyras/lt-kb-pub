@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Vakarų Europos karo etika
 
 ## Santrauka
-Šaltinyje minima praktika „Vakarų Europos karo etika“ siejama su formuluote: jau buvo laikomasi tam tikros karo etikos, t. y. tų kariavimo papročių, kurių buvo laikomasi vakarų Europoje. Šaltinio kontekste nurodoma: kas atlieka: kryžiuočiai ir lietuviai; kada atliekama: Algirdo ir Kęstučio laikais. (t-001)
+jau buvo laikomasi tam tikros karo etikos, t. y. tų kariavimo papročių, kurių buvo laikomasi vakarų Europoje. Šaltinio kontekste nurodoma: kas atlieka: kryžiuočiai ir lietuviai; kada atliekama: Algirdo ir Kęstučio laikais. (t-001)
 
 ## Pavadinimai šaltiniuose
 - jau buvo laikomasi tam tikros karo etikos, t. y. tų kariavimo papročių, kurių buvo laikomasi vakarų Europoje
@@ -39,8 +39,7 @@ patikimumas: "vidutinis"
 - amziai: XIV (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Vakarų Europos karo etika“ siejama su formuluote: jau buvo laikomasi tam tikros karo etikos, t. y. tų kariavimo papročių, kurių buvo laikomasi vakarų Europoje. Šaltinio kontekste nurodoma: kas atlieka: kryžiuočiai ir lietuviai; kada atliekama: Algirdo ir Kęstučio laikais. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: kryžiuočiai ir lietuviai (t-001)
 - kada atliekama: Algirdo ir Kęstučio laikais (t-001)
@@ -48,7 +47,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Vakarų Europos karo etika“ siejama su formuluote: jau buvo laikomasi tam tikros karo etikos, t. y. tų kariavimo papročių, kurių buvo laikomasi vakarų Europoje. Šaltinio kontekste nurodoma: kas atlieka: kryžiuočiai ir lietuviai; kada atliekama: Algirdo ir Kęstučio laikais."
+  teiginys: "jau buvo laikomasi tam tikros karo etikos, t. y. tų kariavimo papročių, kurių buvo laikomasi vakarų Europoje. Šaltinio kontekste nurodoma: kas atlieka: kryžiuočiai ir lietuviai; kada atliekama: Algirdo ir Kęstučio laikais."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

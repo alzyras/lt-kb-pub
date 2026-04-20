@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Povilas I
 
 ## Santrauka
-Šaltinyje Povilas I apibūdinamas taip: Minimas kaip Kotrynos II įpėdinis, grąžinęs Lietuvai senąjį statutą.
+Minimas kaip Kotrynos II įpėdinis, grąžinęs Lietuvai senąjį statutą.
 
 ## Variantai
 - Povilas
@@ -43,7 +43,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Povilas I apibūdinamas taip: Minimas kaip Kotrynos II įpėdinis, grąžinęs Lietuvai senąjį statutą."
+  teiginys: "Minimas kaip Kotrynos II įpėdinis, grąžinęs Lietuvai senąjį statutą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

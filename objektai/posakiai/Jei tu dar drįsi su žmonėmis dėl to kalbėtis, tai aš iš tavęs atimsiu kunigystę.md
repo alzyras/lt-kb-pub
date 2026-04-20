@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Jei tu dar drįsi su žmonėmis dėl to kalbėtis, tai aš iš tavęs atimsiu kunigystę
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Jei tu dar drįsi su žmonėmis dėl to kalbėtis, tai aš iš tavęs atimsiu kunigystę“; kontekstas: Tuo pat metu Franckevičius grasina lietuviui kunigui Šaparui dėl pokalbių su žmonėmis. Reikšmė: Griežtas bažnytinės valdžios grasinimas lietuvių kunigui. (t-001)
+Užfiksuota formuluotė „Jei tu dar drįsi su žmonėmis dėl to kalbėtis, tai aš iš tavęs atimsiu kunigystę“; kontekstas: Tuo pat metu Franckevičius grasina lietuviui kunigui Šaparui dėl pokalbių su žmonėmis. Reikšmė: Griežtas bažnytinės valdžios grasinimas lietuvių kunigui. (t-001)
 
 ## Forma
 - pagrindinė forma: Jei tu dar drįsi su žmonėmis dėl to kalbėtis, tai aš iš tavęs atimsiu kunigystę (t-001)
@@ -50,7 +50,7 @@ Griežtas bažnytinės valdžios grasinimas lietuvių kunigui. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Jei tu dar drįsi su žmonėmis dėl to kalbėtis, tai aš iš tavęs atimsiu kunigystę“; kontekstas: Tuo pat metu Franckevičius grasina lietuviui kunigui Šaparui dėl pokalbių su žmonėmis."
+  teiginys: "Užfiksuota formuluotė „Jei tu dar drįsi su žmonėmis dėl to kalbėtis, tai aš iš tavęs atimsiu kunigystę“; kontekstas: Tuo pat metu Franckevičius grasina lietuviui kunigui Šaparui dėl pokalbių su žmonėmis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

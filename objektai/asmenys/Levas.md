@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Levas
 
 ## Santrauka
-Šaltinyje Levas apibūdinamas taip: Vladimiro (Voluinėje) kunigaikštis, nužudęs Vaišvilką po sosto atidavimo Švarnui.
+Vladimiro (Voluinėje) kunigaikštis, nužudęs Vaišvilką po sosto atidavimo Švarnui.
 
 ## Variantai
 - Levo
@@ -33,7 +33,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Levas apibūdinamas taip: Vladimiro (Voluinėje) kunigaikštis, nužudęs Vaišvilką po sosto atidavimo Švarnui."
+  teiginys: "Vladimiro (Voluinėje) kunigaikštis, nužudęs Vaišvilką po sosto atidavimo Švarnui."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

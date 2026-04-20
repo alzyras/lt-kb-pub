@@ -37,7 +37,7 @@ patikimumas: "aukstas"
 # Kolegija
 
 ## Santrauka
-Šaltinyje „Kolegija“ vartojama taip: Universiteto bendrabutis arba studentų namai; Aukštesnioji mokykla, ypač jėzuitų švietimo įstaiga. (t-001)
+Universiteto bendrabutis arba studentų namai; Aukštesnioji mokykla, ypač jėzuitų švietimo įstaiga. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Kolegija
@@ -61,7 +61,7 @@ Terminas šaltinyje vartojamas šiame kontekste: aukštasis mokslas, universitet
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kolegija“ vartojama taip: Universiteto bendrabutis arba studentų namai; Aukštesnioji mokykla, ypač jėzuitų švietimo įstaiga."
+  teiginys: "Universiteto bendrabutis arba studentų namai; Aukštesnioji mokykla, ypač jėzuitų švietimo įstaiga."
   pagrindžia:
     - c-001
     - c-002

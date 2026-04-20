@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Kopenhaga
 
 ## Santrauka
-Šaltinyje vieta „Kopenhaga“ siejama su šiuo kontekstu: Minima kaip vieta, kur Lenkija pasiūlė Lietuvai derybas dėl Nemuno atidarymo. (t-001)
+Minima kaip vieta, kur Lenkija pasiūlė Lietuvai derybas dėl Nemuno atidarymo. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Kopenhaga
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Kopenhaga“ siejama su šiuo kontekstu: Minima kaip vieta, kur Lenkija pasiūlė Lietuvai derybas dėl Nemuno atidarymo."
+  teiginys: "Minima kaip vieta, kur Lenkija pasiūlė Lietuvai derybas dėl Nemuno atidarymo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Bijotai
 
 ## Santrauka
-Šaltinyje vieta „Bijotai“ siejama su šiuo kontekstu: Minimi kaip vieta, kur dar tebestovi D. Poškos Baublio muziejėliai. (t-001)
+Minimi kaip vieta, kur dar tebestovi D. Poškos Baublio muziejėliai. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Bijotai
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Bijotai“ siejama su šiuo kontekstu: Minimi kaip vieta, kur dar tebestovi D. Poškos Baublio muziejėliai."
+  teiginys: "Minimi kaip vieta, kur dar tebestovi D. Poškos Baublio muziejėliai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

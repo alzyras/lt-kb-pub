@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Labguva
 
 ## Santrauka
-Šaltinyje vieta „Labguva“ siejama su šiuo kontekstu: Minima kaip tarpinis prekybos kelio punktas pakeliui iš Kuršmarių į Priegliaus sritį. (t-001)
+Minima kaip tarpinis prekybos kelio punktas pakeliui iš Kuršmarių į Priegliaus sritį. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Labguva
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Labguva“ siejama su šiuo kontekstu: Minima kaip tarpinis prekybos kelio punktas pakeliui iš Kuršmarių į Priegliaus sritį."
+  teiginys: "Minima kaip tarpinis prekybos kelio punktas pakeliui iš Kuršmarių į Priegliaus sritį."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

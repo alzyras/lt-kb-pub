@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Ukmergė
 
 ## Santrauka
-Šaltinyje vieta „Ukmergė“ siejama su šiuo kontekstu: Minima kaip vieta, kurią pasiekė kryžiuočių puolimai. (t-001)
+Minima kaip vieta, kurią pasiekė kryžiuočių puolimai. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Ukmergė
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Ukmergė“ siejama su šiuo kontekstu: Minima kaip vieta, kurią pasiekė kryžiuočių puolimai."
+  teiginys: "Minima kaip vieta, kurią pasiekė kryžiuočių puolimai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

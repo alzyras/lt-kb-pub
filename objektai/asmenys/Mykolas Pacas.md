@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Mykolas Pacas
 
 ## Santrauka
-Šaltinyje Mykolas Pacas apibūdinamas taip: Minimas kaip Pacų šeimos kancleris ir Pažaislio vienuolyno statytojas.
+Minimas kaip Pacų šeimos kancleris ir Pažaislio vienuolyno statytojas.
 
 ## Variantai
 - Mykolas
@@ -33,7 +33,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Mykolas Pacas apibūdinamas taip: Minimas kaip Pacų šeimos kancleris ir Pažaislio vienuolyno statytojas."
+  teiginys: "Minimas kaip Pacų šeimos kancleris ir Pažaislio vienuolyno statytojas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

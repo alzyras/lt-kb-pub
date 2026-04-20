@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Lietuvių Mokslo Draugystė
 
 ## Santrauka
-Šaltinyje „Lietuvių Mokslo Draugystė“ apibūdinama kaip draugystė; amerikos lietuvių kultūrinė draugija, leidusi „Apšvietą“ ir knygas. (t-001)
+draugystė; amerikos lietuvių kultūrinė draugija, leidusi „Apšvietą“ ir knygas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Lietuvių Mokslo Draugystė
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: draugystė
-Šaltinyje „Lietuvių Mokslo Draugystė“ apibūdinama kaip draugystė; amerikos lietuvių kultūrinė draugija, leidusi „Apšvietą“ ir knygas. (t-001)
+draugystė; amerikos lietuvių kultūrinė draugija, leidusi „Apšvietą“ ir knygas. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Lietuvių Mokslo Draugystė“ apibūdinama kaip draugystė; amerikos lietuvių kultūrinė draugija, leidusi „Apšvietą“ ir knygas. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Lietuvių Mokslo Draugystė“ apibūdinama kaip draugystė; amerikos lietuvių kultūrinė draugija, leidusi „Apšvietą“ ir knygas."
+  teiginys: "draugystė; amerikos lietuvių kultūrinė draugija, leidusi „Apšvietą“ ir knygas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

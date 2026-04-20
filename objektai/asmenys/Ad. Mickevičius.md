@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Ad. Mickevičius
 
 ## Santrauka
-Šaltinyje Ad. Mickevičius apibūdinamas taip: Minimas kaip į Rusiją ištremtas po 1823 m. areštų ir kaip Kauno mokytojas.
+Minimas kaip į Rusiją ištremtas po 1823 m. areštų ir kaip Kauno mokytojas.
 
 ## Variantai
 - Mickevičius
@@ -42,7 +42,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Ad. Mickevičius apibūdinamas taip: Minimas kaip į Rusiją ištremtas po 1823 m. areštų ir kaip Kauno mokytojas."
+  teiginys: "Minimas kaip į Rusiją ištremtas po 1823 m. areštų ir kaip Kauno mokytojas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Maldininkų globos brolijų steigimo paprotys
 
 ## Santrauka
-Šaltinyje minima praktika „Maldininkų globos brolijų steigimo paprotys“ siejama su formuluote: specialias brolijas savo maldininkams globoti. Šaltinio kontekste nurodoma: kas atlieka: visos didesniosios valstybės; kada atliekama: kai kelionės į Jeruzalę pasidarydavo pavojingos. (t-001)
+specialias brolijas savo maldininkams globoti. Šaltinio kontekste nurodoma: kas atlieka: visos didesniosios valstybės; kada atliekama: kai kelionės į Jeruzalę pasidarydavo pavojingos. (t-001)
 
 ## Pavadinimai šaltiniuose
 - specialias brolijas savo maldininkams globoti
@@ -40,8 +40,7 @@ patikimumas: "vidutinis"
 - date_start/date_end: 1099 / 1099 (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Maldininkų globos brolijų steigimo paprotys“ siejama su formuluote: specialias brolijas savo maldininkams globoti. Šaltinio kontekste nurodoma: kas atlieka: visos didesniosios valstybės; kada atliekama: kai kelionės į Jeruzalę pasidarydavo pavojingos. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: visos didesniosios valstybės (t-001)
 - kada atliekama: kai kelionės į Jeruzalę pasidarydavo pavojingos (t-001)
@@ -49,7 +48,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Maldininkų globos brolijų steigimo paprotys“ siejama su formuluote: specialias brolijas savo maldininkams globoti. Šaltinio kontekste nurodoma: kas atlieka: visos didesniosios valstybės; kada atliekama: kai kelionės į Jeruzalę pasidarydavo pavojingos."
+  teiginys: "specialias brolijas savo maldininkams globoti. Šaltinio kontekste nurodoma: kas atlieka: visos didesniosios valstybės; kada atliekama: kai kelionės į Jeruzalę pasidarydavo pavojingos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

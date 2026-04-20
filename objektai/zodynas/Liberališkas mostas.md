@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Liberališkas mostas
 
 ## Santrauka
-Šaltinyje „Liberališkas mostas“ vartojama taip: Laisvinantis, nuolaidus politinis žingsnis. (t-001)
+Laisvinantis, nuolaidus politinis žingsnis. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Liberališkas mostas
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: politinė retorika, valdžios s
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Liberališkas mostas“ vartojama taip: Laisvinantis, nuolaidus politinis žingsnis."
+  teiginys: "Laisvinantis, nuolaidus politinis žingsnis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

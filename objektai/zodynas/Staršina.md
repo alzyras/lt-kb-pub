@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Staršina
 
 ## Santrauka
-Šaltinyje „Staršina“ vartojama taip: valsčiaus viršaitis arba vietos savivaldos pareigūnas. (t-001)
+valsčiaus viršaitis arba vietos savivaldos pareigūnas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Staršina
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: valsčių savivalda, vietos adm
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Staršina“ vartojama taip: valsčiaus viršaitis arba vietos savivaldos pareigūnas."
+  teiginys: "valsčiaus viršaitis arba vietos savivaldos pareigūnas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

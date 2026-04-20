@@ -31,7 +31,7 @@ patikimumas: "vidutinis"
 # Gubernija
 
 ## Santrauka
-Šaltinyje „Gubernija“ vartojama taip: imperijos administracinis vienetas, provincija. (t-001)
+imperijos administracinis vienetas, provincija. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Gubernija
@@ -54,7 +54,7 @@ Terminas šaltinyje vartojamas šiame kontekste: administracinė sandara, valdym
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Gubernija“ vartojama taip: imperijos administracinis vienetas, provincija."
+  teiginys: "imperijos administracinis vienetas, provincija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

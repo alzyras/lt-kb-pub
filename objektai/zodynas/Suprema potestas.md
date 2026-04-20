@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Suprema potestas
 
 ## Santrauka
-Šaltinyje „Suprema potestas“ vartojama taip: Aukščiausioji valstybės valdžia, suverenitetas. (t-001)
+Aukščiausioji valstybės valdžia, suverenitetas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Suprema potestas
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: konstitucinė teisė, politinė
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Suprema potestas“ vartojama taip: Aukščiausioji valstybės valdžia, suverenitetas."
+  teiginys: "Aukščiausioji valstybės valdžia, suverenitetas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

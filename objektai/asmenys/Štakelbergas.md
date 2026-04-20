@@ -23,11 +23,11 @@ patikimumas: "vidutinis"
 # Štakelbergas
 
 ## Santrauka
-Šaltinyje Štakelbergas apibūdinamas taip: Minimas kaip naujas Kotrynos II atstovas, vadovavęs seimo darbams.
+Minimas kaip naujas Kotrynos II atstovas, vadovavęs seimo darbams.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Štakelbergas apibūdinamas taip: Minimas kaip naujas Kotrynos II atstovas, vadovavęs seimo darbams."
+  teiginys: "Minimas kaip naujas Kotrynos II atstovas, vadovavęs seimo darbams."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Targovicos konfederacija
 
 ## Santrauka
-Šaltinyje „Targovicos konfederacija“ apibūdinama kaip konfederacija; lenkijos reformoms priešingų opozicionierių suorganizuota konfederacija, iš kurios vėliau kilo ir Lietuvos konfederacijos prisidėjimas. (t-001) Šaltinyje „Targovicos konfederacija“ siejama su šiuo kontekstu: Lenkijos reformoms priešingų opozicionierių suorganizuota konfederacija, iš kurios vėliau kilo ir Lietuvos konfederacijos prisidėjimas. (t-002)
+konfederacija; lenkijos reformoms priešingų opozicionierių suorganizuota konfederacija, iš kurios vėliau kilo ir Lietuvos konfederacijos prisidėjimas. (t-001) Šaltinyje „Targovicos konfederacija“ siejama su šiuo kontekstu: Lenkijos reformoms priešingų opozicionierių suorganizuota konfederacija, iš kurios vėliau kilo ir Lietuvos konfederacijos prisidėjimas. (t-002)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Targovicos konfederacija
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: konfederacija
-Šaltinyje „Targovicos konfederacija“ apibūdinama kaip konfederacija; lenkijos reformoms priešingų opozicionierių suorganizuota konfederacija, iš kurios vėliau kilo ir Lietuvos konfederacijos prisidėjimas. (t-001)
+konfederacija; lenkijos reformoms priešingų opozicionierių suorganizuota konfederacija, iš kurios vėliau kilo ir Lietuvos konfederacijos prisidėjimas. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Targovicos konfederacija“ apibūdinama kaip konfederacija; lenkijos reformoms priešingų opozicionierių suorganizuota konfederacija, iš kurios vėliau kilo ir Lietuvos konfederacijos prisidėjimas. (t-001)
@@ -52,13 +52,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Targovicos konfederacija“ apibūdinama kaip konfederacija; lenkijos reformoms priešingų opozicionierių suorganizuota konfederacija, iš kurios vėliau kilo ir Lietuvos konfederacijos prisidėjimas."
+  teiginys: "konfederacija; lenkijos reformoms priešingų opozicionierių suorganizuota konfederacija, iš kurios vėliau kilo ir Lietuvos konfederacijos prisidėjimas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Targovicos konfederacija“ siejama su šiuo kontekstu: Lenkijos reformoms priešingų opozicionierių suorganizuota konfederacija, iš kurios vėliau kilo ir Lietuvos konfederacijos prisidėjimas."
+  teiginys: "Lenkijos reformoms priešingų opozicionierių suorganizuota konfederacija, iš kurios vėliau kilo ir Lietuvos konfederacijos prisidėjimas."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -23,11 +23,11 @@ patikimumas: "vidutinis"
 # Zindramas iš Maškovičių
 
 ## Santrauka
-Šaltinyje Zindramas iš Maškovičių apibūdinamas taip: Lenkų kariuomenės rikiuotojas Tanenbergo mūšyje.
+Lenkų kariuomenės rikiuotojas Tanenbergo mūšyje.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Zindramas iš Maškovičių apibūdinamas taip: Lenkų kariuomenės rikiuotojas Tanenbergo mūšyje."
+  teiginys: "Lenkų kariuomenės rikiuotojas Tanenbergo mūšyje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

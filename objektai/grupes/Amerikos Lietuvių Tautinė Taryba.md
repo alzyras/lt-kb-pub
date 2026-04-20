@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Amerikos Lietuvių Tautinė Taryba
 
 ## Santrauka
-Šaltinyje „Amerikos Lietuvių Tautinė Taryba“ apibūdinama kaip taryba; tautininkų suorganizuota taryba, kuri tekste priešpriešinama katalikų tarybai. (t-001)
+taryba; tautininkų suorganizuota taryba, kuri tekste priešpriešinama katalikų tarybai. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Amerikos Lietuvių Tautinė Taryba
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: taryba
-Šaltinyje „Amerikos Lietuvių Tautinė Taryba“ apibūdinama kaip taryba; tautininkų suorganizuota taryba, kuri tekste priešpriešinama katalikų tarybai. (t-001)
+taryba; tautininkų suorganizuota taryba, kuri tekste priešpriešinama katalikų tarybai. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Amerikos Lietuvių Tautinė Taryba“ apibūdinama kaip taryba; tautininkų suorganizuota taryba, kuri tekste priešpriešinama katalikų tarybai. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Amerikos Lietuvių Tautinė Taryba“ apibūdinama kaip taryba; tautininkų suorganizuota taryba, kuri tekste priešpriešinama katalikų tarybai."
+  teiginys: "taryba; tautininkų suorganizuota taryba, kuri tekste priešpriešinama katalikų tarybai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

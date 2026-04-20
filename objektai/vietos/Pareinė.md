@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Pareinė
 
 ## Santrauka
-Šaltinyje vieta „Pareinė“ siejama su šiuo kontekstu: Minima kaip tolima Vokietijos sritis, kurioje gyvena lietuvių išeivių. (t-001)
+Minima kaip tolima Vokietijos sritis, kurioje gyvena lietuvių išeivių. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Pareinė
@@ -42,7 +42,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Pareinė“ siejama su šiuo kontekstu: Minima kaip tolima Vokietijos sritis, kurioje gyvena lietuvių išeivių."
+  teiginys: "Minima kaip tolima Vokietijos sritis, kurioje gyvena lietuvių išeivių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

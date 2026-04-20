@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Lietuvių valstiečių sąjunga
 
 ## Santrauka
-Šaltinyje „Lietuvių valstiečių sąjunga“ apibūdinama kaip politinė sąjunga; tekste ši sąjunga nurodoma kaip iš vadinamųjų demokratų išsivysčiusi politinė grupė. (t-001)
+politinė sąjunga; tekste ši sąjunga nurodoma kaip iš vadinamųjų demokratų išsivysčiusi politinė grupė. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Lietuvių valstiečių sąjunga
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: politinė sąjunga
-Šaltinyje „Lietuvių valstiečių sąjunga“ apibūdinama kaip politinė sąjunga; tekste ši sąjunga nurodoma kaip iš vadinamųjų demokratų išsivysčiusi politinė grupė. (t-001)
+politinė sąjunga; tekste ši sąjunga nurodoma kaip iš vadinamųjų demokratų išsivysčiusi politinė grupė. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Lietuvių valstiečių sąjunga“ apibūdinama kaip politinė sąjunga; tekste ši sąjunga nurodoma kaip iš vadinamųjų demokratų išsivysčiusi politinė grupė. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Lietuvių valstiečių sąjunga“ apibūdinama kaip politinė sąjunga; tekste ši sąjunga nurodoma kaip iš vadinamųjų demokratų išsivysčiusi politinė grupė."
+  teiginys: "politinė sąjunga; tekste ši sąjunga nurodoma kaip iš vadinamųjų demokratų išsivysčiusi politinė grupė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

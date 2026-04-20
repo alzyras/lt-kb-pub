@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Romanas
 
 ## Santrauka
-Šaltinyje Romanas apibūdinamas taip: Danieliaus sūnus, kurio vedybomis buvo sutvirtinta taika su Voluine.
+Danieliaus sūnus, kurio vedybomis buvo sutvirtinta taika su Voluine.
 
 ## Variantai
 - Romanui
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Romanas apibūdinamas taip: Danieliaus sūnus, kurio vedybomis buvo sutvirtinta taika su Voluine."
+  teiginys: "Danieliaus sūnus, kurio vedybomis buvo sutvirtinta taika su Voluine."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

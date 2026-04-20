@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Boleslovas (Mozūrų kunigaikštis)
 
 ## Santrauka
-Šaltinyje Boleslovas (Mozūrų kunigaikštis) apibūdinamas taip: Mozūrų kunigaikštis, kuriam lenkai grasino atiduoti sostą.
+Mozūrų kunigaikštis, kuriam lenkai grasino atiduoti sostą.
 
 ## Variantai
 - Boleslovui
@@ -33,7 +33,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Boleslovas (Mozūrų kunigaikštis) apibūdinamas taip: Mozūrų kunigaikštis, kuriam lenkai grasino atiduoti sostą."
+  teiginys: "Mozūrų kunigaikštis, kuriam lenkai grasino atiduoti sostą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

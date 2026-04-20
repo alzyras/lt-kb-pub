@@ -29,7 +29,7 @@ patikimumas: "vidutinis"
 # Tautiškas susipratimas
 
 ## Santrauka
-Šaltinyje „Tautiškas susipratimas“ vartojama taip: Tautinis sąmoningumas, lietuvių tautos savivoka. (t-001)
+Tautinis sąmoningumas, lietuvių tautos savivoka. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Tautiškas susipratimas
@@ -52,7 +52,7 @@ Terminas šaltinyje vartojamas šiame kontekste: tautinio atgimimo terminija, pu
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Tautiškas susipratimas“ vartojama taip: Tautinis sąmoningumas, lietuvių tautos savivoka."
+  teiginys: "Tautinis sąmoningumas, lietuvių tautos savivoka."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

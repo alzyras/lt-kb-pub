@@ -23,11 +23,11 @@ patikimumas: "aukstas"
 # Vosylius
 
 ## Santrauka
-Šaltinyje Vosylius apibūdinamas taip: Maskvos kunigaikščio sūnus, apsilankęs pas Vytautą ir susižadėjęs su jo dukteria Sofija.
+Maskvos kunigaikščio sūnus, apsilankęs pas Vytautą ir susižadėjęs su jo dukteria Sofija.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Vosylius apibūdinamas taip: Maskvos kunigaikščio sūnus, apsilankęs pas Vytautą ir susižadėjęs su jo dukteria Sofija."
+  teiginys: "Maskvos kunigaikščio sūnus, apsilankęs pas Vytautą ir susižadėjęs su jo dukteria Sofija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

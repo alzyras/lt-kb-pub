@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Lietuvos bajorijos naujų teisių išsiderėjimo renkant didįjį kunigaikštį paprotys
 
 ## Santrauka
-Šaltinyje minima praktika „Lietuvos bajorijos naujų teisių išsiderėjimo renkant didįjį kunigaikštį paprotys“ siejama su formuluote: Lietuvos bajorija, rinkdama savo naują didįjį kunigaikštį, visada iš jo išsireikalaudavo sau kokių nors naujų teisių. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos bajorija; kada atliekama: renkant naują didįjį kunigaikštį. (t-001)
+Lietuvos bajorija, rinkdama savo naują didįjį kunigaikštį, visada iš jo išsireikalaudavo sau kokių nors naujų teisių. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos bajorija; kada atliekama: renkant naują didįjį kunigaikštį. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Lietuvos bajorija, rinkdama savo naują didįjį kunigaikštį, visada iš jo išsireikalaudavo sau kokių nors naujų teisių
@@ -40,8 +40,7 @@ patikimumas: "vidutinis"
 - date_start/date_end: 1522 / 1522 (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Lietuvos bajorijos naujų teisių išsiderėjimo renkant didįjį kunigaikštį paprotys“ siejama su formuluote: Lietuvos bajorija, rinkdama savo naują didįjį kunigaikštį, visada iš jo išsireikalaudavo sau kokių nors naujų teisių. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos bajorija; kada atliekama: renkant naują didįjį kunigaikštį. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: Lietuvos bajorija (t-001)
 - kada atliekama: renkant naują didįjį kunigaikštį (t-001)
@@ -49,7 +48,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Lietuvos bajorijos naujų teisių išsiderėjimo renkant didįjį kunigaikštį paprotys“ siejama su formuluote: Lietuvos bajorija, rinkdama savo naują didįjį kunigaikštį, visada iš jo išsireikalaudavo sau kokių nors naujų teisių. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos bajorija; kada atliekama: renkant naują didįjį kunigaikštį."
+  teiginys: "Lietuvos bajorija, rinkdama savo naują didįjį kunigaikštį, visada iš jo išsireikalaudavo sau kokių nors naujų teisių. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos bajorija; kada atliekama: renkant naują didįjį kunigaikštį."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

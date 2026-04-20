@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Cenzas
 
 ## Santrauka
-Šaltinyje „Cenzas“ vartojama taip: Rinkimų teisę ribojantis turtinis ar socialinis reikalavimas. (t-001)
+Rinkimų teisę ribojantis turtinis ar socialinis reikalavimas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Cenzas
@@ -50,7 +50,7 @@ Terminas šaltinyje vartojamas šiame kontekste: rinkimų teisė, politinė term
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Cenzas“ vartojama taip: Rinkimų teisę ribojantis turtinis ar socialinis reikalavimas."
+  teiginys: "Rinkimų teisę ribojantis turtinis ar socialinis reikalavimas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

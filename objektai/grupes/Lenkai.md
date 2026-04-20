@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Lenkai
 
 ## Santrauka
-Šaltinyje „Lenkai“ apibūdinama kaip tauta; lenkai šiame gabale minimi kaip atskira politinė bendrija, kuri Lietuvoje skundėsi Jogailos politika ir siekė riboti Vytauto savarankiškumą. (t-001)
+tauta; lenkai šiame gabale minimi kaip atskira politinė bendrija, kuri Lietuvoje skundėsi Jogailos politika ir siekė riboti Vytauto savarankiškumą. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Lenkai
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: tauta
-Šaltinyje „Lenkai“ apibūdinama kaip tauta; lenkai šiame gabale minimi kaip atskira politinė bendrija, kuri Lietuvoje skundėsi Jogailos politika ir siekė riboti Vytauto savarankiškumą. (t-001)
+tauta; lenkai šiame gabale minimi kaip atskira politinė bendrija, kuri Lietuvoje skundėsi Jogailos politika ir siekė riboti Vytauto savarankiškumą. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Lenkai“ apibūdinama kaip tauta; lenkai šiame gabale minimi kaip atskira politinė bendrija, kuri Lietuvoje skundėsi Jogailos politika ir siekė riboti Vytauto savarankiškumą. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Lenkai“ apibūdinama kaip tauta; lenkai šiame gabale minimi kaip atskira politinė bendrija, kuri Lietuvoje skundėsi Jogailos politika ir siekė riboti Vytauto savarankiškumą."
+  teiginys: "tauta; lenkai šiame gabale minimi kaip atskira politinė bendrija, kuri Lietuvoje skundėsi Jogailos politika ir siekė riboti Vytauto savarankiškumą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

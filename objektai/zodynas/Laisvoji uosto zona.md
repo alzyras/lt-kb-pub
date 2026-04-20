@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Laisvoji uosto zona
 
 ## Santrauka
-Šaltinyje „Laisvoji uosto zona“ vartojama taip: Uosto teritorija su specialiu laisvojo tranzito ir valdymo režimu. (t-001)
+Uosto teritorija su specialiu laisvojo tranzito ir valdymo režimu. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Laisvoji uosto zona
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: uosto teisė, Klaipėdos konven
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Laisvoji uosto zona“ vartojama taip: Uosto teritorija su specialiu laisvojo tranzito ir valdymo režimu."
+  teiginys: "Uosto teritorija su specialiu laisvojo tranzito ir valdymo režimu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Kęstučio antspaudas
 
 ## Santrauka
-Šaltinyje „Kęstučio antspaudas“ siejamas su šiuo kontekstu: Tekstas pateikia Kęstučio antspaudo atvaizdą ir jo užrašą, todėl objektas atrodo kaip savarankiškas simbolinis daiktas.
+Tekstas pateikia Kęstučio antspaudo atvaizdą ir jo užrašą, todėl objektas atrodo kaip savarankiškas simbolinis daiktas.
 
 ## Pavadinimai šaltiniuose
 - S[igillum] Kynstutte
@@ -44,11 +44,10 @@ patikimumas: "aukstas"
 - date_end:
 
 ## Kas tai
-Šaltinyje „Kęstučio antspaudas“ siejamas su šiuo kontekstu: Tekstas pateikia Kęstučio antspaudo atvaizdą ir jo užrašą, todėl objektas atrodo kaip savarankiškas simbolinis daiktas.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kęstučio antspaudas“ siejamas su šiuo kontekstu: Tekstas pateikia Kęstučio antspaudo atvaizdą ir jo užrašą, todėl objektas atrodo kaip savarankiškas simbolinis daiktas."
+  teiginys: "Tekstas pateikia Kęstučio antspaudo atvaizdą ir jo užrašą, todėl objektas atrodo kaip savarankiškas simbolinis daiktas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

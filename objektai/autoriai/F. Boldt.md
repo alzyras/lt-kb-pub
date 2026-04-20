@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # F. Boldt
 
 ## Santrauka
-Šaltinyje F. Boldt minimas kaip autorius; šis vaidmuo siejamas su: Der D. Orden und Litauen 1370—1386.
+Der D. Orden und Litauen 1370—1386.
 
 ## Laikotarpis ir datos
 - 1873 m.
@@ -41,7 +41,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje F. Boldt minimas kaip autorius, siejamas su: Der D. Orden und Litauen 1370—1386."
+  teiginys: "Der D. Orden und Litauen 1370—1386."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

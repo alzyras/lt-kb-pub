@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Jėzuitų kolegijų mokinių religinė praktika ir vaidinimai
 
 ## Santrauka
-Šaltinyje minima praktika „Jėzuitų kolegijų mokinių religinė praktika ir vaidinimai“ siejama su formuluote: mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pamaldas; mokiniai ruošdavo religinio turinio vaidinimus ir disputus. Šaltinio kontekste nurodoma: kas atlieka: jėzuitų kolegijų mokiniai; kada atliekama: kolegijose, ištisą dieną prižiūrint mokytojams. (t-001)
+mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pamaldas; mokiniai ruošdavo religinio turinio vaidinimus ir disputus. Šaltinio kontekste nurodoma: kas atlieka: jėzuitų kolegijų mokiniai; kada atliekama: kolegijose, ištisą dieną prižiūrint mokytojams. (t-001)
 
 ## Pavadinimai šaltiniuose
 - mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pamaldas; mokiniai ruošdavo religinio turinio vaidinimus ir disputus
@@ -39,8 +39,7 @@ patikimumas: "vidutinis"
 - amziai: XVII (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Jėzuitų kolegijų mokinių religinė praktika ir vaidinimai“ siejama su formuluote: mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pamaldas; mokiniai ruošdavo religinio turinio vaidinimus ir disputus. Šaltinio kontekste nurodoma: kas atlieka: jėzuitų kolegijų mokiniai; kada atliekama: kolegijose, ištisą dieną prižiūrint mokytojams. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: jėzuitų kolegijų mokiniai (t-001)
 - kada atliekama: kolegijose, ištisą dieną prižiūrint mokytojams (t-001)
@@ -48,7 +47,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Jėzuitų kolegijų mokinių religinė praktika ir vaidinimai“ siejama su formuluote: mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pamaldas; mokiniai ruošdavo religinio turinio vaidinimus ir disputus. Šaltinio kontekste nurodoma: kas atlieka: jėzuitų kolegijų mokiniai; kada atliekama: kolegijose, ištisą dieną prižiūrint mokytojams."
+  teiginys: "mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pamaldas; mokiniai ruošdavo religinio turinio vaidinimus ir disputus. Šaltinio kontekste nurodoma: kas atlieka: jėzuitų kolegijų mokiniai; kada atliekama: kolegijose, ištisą dieną prižiūrint mokytojams."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Estija
 
 ## Santrauka
-Šaltinyje vieta „Estija“ siejama su šiais kontekstais: Šalis minima kaip Baltijos regiono riba; Minima kaip lietuvių žygių siekiama teritorija ir kaip lybių bei estų žemė. (t-001, t-002)
+Šalis minima kaip Baltijos regiono riba; Minima kaip lietuvių žygių siekiama teritorija ir kaip lybių bei estų žemė. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Estija
@@ -47,13 +47,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Estija“ siejama su šiuo kontekstu: Šalis minima kaip Baltijos regiono riba."
+  teiginys: "Šalis minima kaip Baltijos regiono riba."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Estija“ siejama su šiuo kontekstu: Minima kaip lietuvių žygių siekiama teritorija ir kaip lybių bei estų žemė."
+  teiginys: "Minima kaip lietuvių žygių siekiama teritorija ir kaip lybių bei estų žemė."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

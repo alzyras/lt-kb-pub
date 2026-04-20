@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Gmina
 
 ## Santrauka
-Šaltinyje „Gmina“ vartojama taip: valsčius, vietos administracinis vienetas. (t-001)
+valsčius, vietos administracinis vienetas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Gmina
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: vietos savivalda, Užnemunės a
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Gmina“ vartojama taip: valsčius, vietos administracinis vienetas."
+  teiginys: "valsčius, vietos administracinis vienetas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # A. Bruckner
 
 ## Santrauka
-Šaltinyje A. Bruckner / A. Brückner minimas autorystės, redagavimo arba tyrimo kontekste: bibliografijoje nurodytas kaip lenkų kultūros istorijos ir veikalo „Starożytna Litwa“ autorius.
+bibliografijoje nurodytas kaip lenkų kultūros istorijos ir veikalo „Starożytna Litwa“ autorius.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip lenkų kultūros istorijos autorius. (t-001)
@@ -40,13 +40,13 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje A. Bruckner autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip lenkų kultūros istorijos autorius."
+  teiginys: "Bibliografijoje nurodytas kaip lenkų kultūros istorijos autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje A. Brückner nurodytas kaip veikalo „Starożytna Litwa“ autorius."
+  teiginys: "A. Brückner nurodytas kaip veikalo „Starożytna Litwa“ autorius."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Ožechovskis
 
 ## Santrauka
-Šaltinyje Ožechovskis minimas kaip publicistas.
+Ožechovskis minimas kaip publicistas.
 
 ## Darbai
 - Autorystės vaidmuo šaltinyje įvardytas kaip publicistas. (t-001)
@@ -37,7 +37,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Ožechovskis minimas kaip publicistas."
+  teiginys: "Ožechovskis minimas kaip publicistas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

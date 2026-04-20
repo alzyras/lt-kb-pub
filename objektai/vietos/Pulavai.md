@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Pulavai
 
 ## Santrauka
-Šaltinyje vieta „Pulavai“ siejama su šiuo kontekstu: Minimi kaip viena iš žymių dvarvietės vietų Lenkijoje. (t-001)
+Minimi kaip viena iš žymių dvarvietės vietų Lenkijoje. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Pulavai
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Pulavai“ siejama su šiuo kontekstu: Minimi kaip viena iš žymių dvarvietės vietų Lenkijoje."
+  teiginys: "Minimi kaip viena iš žymių dvarvietės vietų Lenkijoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

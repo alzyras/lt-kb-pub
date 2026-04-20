@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Lentvaravas
 
 ## Santrauka
-Šaltinyje vieta „Lentvaravas“ siejama su šiuo kontekstu: Minimas kaip vienas iš geležinkelio ruožo taškų Hagos Teismo klausime dėl susisiekimo atidarymo. (t-001)
+Minimas kaip vienas iš geležinkelio ruožo taškų Hagos Teismo klausime dėl susisiekimo atidarymo. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Lentvaravas
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Lentvaravas“ siejama su šiuo kontekstu: Minimas kaip vienas iš geležinkelio ruožo taškų Hagos Teismo klausime dėl susisiekimo atidarymo."
+  teiginys: "Minimas kaip vienas iš geležinkelio ruožo taškų Hagos Teismo klausime dėl susisiekimo atidarymo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

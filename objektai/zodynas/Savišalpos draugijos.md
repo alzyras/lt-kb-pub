@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Savišalpos draugijos
 
 ## Santrauka
-Šaltinyje „Savišalpos draugijos“ vartojama taip: Lietuvių išeivių savišalpos ir paramos draugijos. (t-001)
+Lietuvių išeivių savišalpos ir paramos draugijos. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Savišalpos draugijos
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: socialinė istorija, išeivijos
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Savišalpos draugijos“ vartojama taip: Lietuvių išeivių savišalpos ir paramos draugijos."
+  teiginys: "Lietuvių išeivių savišalpos ir paramos draugijos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

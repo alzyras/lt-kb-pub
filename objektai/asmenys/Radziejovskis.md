@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # Radziejovskis
 
 ## Santrauka
-Šaltinyje Radziejovskis apibūdinamas taip: Minimas kaip ištremtas Lenkijos vicekancleris, raginęs Karolį Gustavą kariauti su Jonu Kazimieru.
+Minimas kaip ištremtas Lenkijos vicekancleris, raginęs Karolį Gustavą kariauti su Jonu Kazimieru.
 
 ## Variantai
 - Radziejovskį
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Radziejovskis apibūdinamas taip: Minimas kaip ištremtas Lenkijos vicekancleris, raginęs Karolį Gustavą kariauti su Jonu Kazimieru."
+  teiginys: "Minimas kaip ištremtas Lenkijos vicekancleris, raginęs Karolį Gustavą kariauti su Jonu Kazimieru."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

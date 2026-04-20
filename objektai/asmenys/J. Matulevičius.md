@@ -23,11 +23,11 @@ patikimumas: "aukstas"
 # J. Matulevičius
 
 ## Santrauka
-Šaltinyje J. Matulevičius apibūdinamas taip: Po karo Vilniaus vyskupu buvo paskirtas susipratęs lietuvis patriotas J. Matulevičius.
+Po karo Vilniaus vyskupu buvo paskirtas susipratęs lietuvis patriotas J. Matulevičius.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje J. Matulevičius apibūdinamas taip: Po karo Vilniaus vyskupu buvo paskirtas susipratęs lietuvis patriotas J. Matulevičius."
+  teiginys: "Po karo Vilniaus vyskupu buvo paskirtas susipratęs lietuvis patriotas J. Matulevičius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

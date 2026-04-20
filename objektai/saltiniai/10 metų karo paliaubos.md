@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Turinys ir apimtis
 
-Šaltinyje „10 metų karo paliaubos“ siejamas su šiuo kontekstu: Šaltinyje tai yra karo pabaigą įtvirtinantis teisinis objektas, pasirašytas po derybų dėl karo su Maskva.
+tai yra karo pabaigą įtvirtinantis teisinis objektas, pasirašytas po derybų dėl karo su Maskva.
 
 ## Ryšiai
 
@@ -51,7 +51,7 @@ patikimumas: "aukstas"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „10 metų karo paliaubos“ siejamas su šiuo kontekstu: Šaltinyje tai yra karo pabaigą įtvirtinantis teisinis objektas, pasirašytas po derybų dėl karo su Maskva."
+  teiginys: "tai yra karo pabaigą įtvirtinantis teisinis objektas, pasirašytas po derybų dėl karo su Maskva."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

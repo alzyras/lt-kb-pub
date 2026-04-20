@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Tacitas
 
 ## Santrauka
-Šaltinyje Tacitas minimas autorystės, redagavimo arba tyrimo kontekste: Paminėtas kaip romėnų rašytojas, pirmasis šiame tekste minintis mūsų krašto gyventojus.
+Paminėtas kaip romėnų rašytojas, pirmasis šiame tekste minintis mūsų krašto gyventojus.
 
 ## Darbai
 - Paminėtas kaip romėnų rašytojas, pirmasis šiame tekste minintis mūsų krašto gyventojus. (t-001)
@@ -37,7 +37,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Tacitas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Paminėtas kaip romėnų rašytojas, pirmasis šiame tekste minintis mūsų krašto gyventojus."
+  teiginys: "Paminėtas kaip romėnų rašytojas, pirmasis šiame tekste minintis mūsų krašto gyventojus."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

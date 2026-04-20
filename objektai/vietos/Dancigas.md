@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Dancigas
 
 ## Santrauka
-Šaltinyje vieta „Dancigas“ siejama su šiais kontekstais: Miestas minimas tarp svarbiausių archyvų centrų Lietuvos istorijos medžiagai; Minimas kaip vieta, į kurią atplaukė princas Kontis ir kur jo šalininkai sudarė konfederaciją. (t-001, t-002)
+Miestas minimas tarp svarbiausių archyvų centrų Lietuvos istorijos medžiagai; Minimas kaip vieta, į kurią atplaukė princas Kontis ir kur jo šalininkai sudarė konfederaciją. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Dancigas
@@ -45,13 +45,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Dancigas“ siejama su šiuo kontekstu: Miestas minimas tarp svarbiausių archyvų centrų Lietuvos istorijos medžiagai."
+  teiginys: "Miestas minimas tarp svarbiausių archyvų centrų Lietuvos istorijos medžiagai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Dancigas“ siejama su šiuo kontekstu: Minimas kaip vieta, į kurią atplaukė princas Kontis ir kur jo šalininkai sudarė konfederaciją."
+  teiginys: "Minimas kaip vieta, į kurią atplaukė princas Kontis ir kur jo šalininkai sudarė konfederaciją."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Nelaisvieji
 
 ## Santrauka
-Šaltinyje „Nelaisvieji“ vartojama taip: Prasiskolinę ūkininkai, neturėję laisvės įsikurti kur norėjo. (t-001)
+Prasiskolinę ūkininkai, neturėję laisvės įsikurti kur norėjo. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Nelaisvieji
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: socialinė istorija, priklausom
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Nelaisvieji“ vartojama taip: Prasiskolinę ūkininkai, neturėję laisvės įsikurti kur norėjo."
+  teiginys: "Prasiskolinę ūkininkai, neturėję laisvės įsikurti kur norėjo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

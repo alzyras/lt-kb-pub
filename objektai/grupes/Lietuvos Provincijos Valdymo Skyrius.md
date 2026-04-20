@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Lietuvos Provincijos Valdymo Skyrius
 
 ## Santrauka
-Šaltinyje „Lietuvos Provincijos Valdymo Skyrius“ apibūdinama kaip revoliucinis komitetas; lietuvoje susidaręs revoliucinis komitetas, taip pasivadinęs sukilimo pradžioje. (t-001)
+revoliucinis komitetas; lietuvoje susidaręs revoliucinis komitetas, taip pasivadinęs sukilimo pradžioje. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Lietuvos Provincijos Valdymo Skyrius
@@ -46,14 +46,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: revoliucinis komitetas
-Šaltinyje „Lietuvos Provincijos Valdymo Skyrius“ apibūdinama kaip revoliucinis komitetas; lietuvoje susidaręs revoliucinis komitetas, taip pasivadinęs sukilimo pradžioje. (t-001)
+revoliucinis komitetas; lietuvoje susidaręs revoliucinis komitetas, taip pasivadinęs sukilimo pradžioje. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Lietuvos Provincijos Valdymo Skyrius“ apibūdinama kaip revoliucinis komitetas; lietuvoje susidaręs revoliucinis komitetas, taip pasivadinęs sukilimo pradžioje. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Lietuvos Provincijos Valdymo Skyrius“ apibūdinama kaip revoliucinis komitetas; lietuvoje susidaręs revoliucinis komitetas, taip pasivadinęs sukilimo pradžioje."
+  teiginys: "revoliucinis komitetas; lietuvoje susidaręs revoliucinis komitetas, taip pasivadinęs sukilimo pradžioje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

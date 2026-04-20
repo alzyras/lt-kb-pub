@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Koadjutorius
 
 ## Santrauka
-Šaltinyje „Koadjutorius“ vartojama taip: Vyskupo padėjėjas arba pavaduotojas. (t-001)
+Vyskupo padėjėjas arba pavaduotojas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Koadjutorius
@@ -50,7 +50,7 @@ Terminas šaltinyje vartojamas šiame kontekste: bažnytinė pareigybė, vyskupi
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Koadjutorius“ vartojama taip: Vyskupo padėjėjas arba pavaduotojas."
+  teiginys: "Vyskupo padėjėjas arba pavaduotojas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

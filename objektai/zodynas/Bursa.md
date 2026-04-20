@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Bursa
 
 ## Santrauka
-Šaltinyje „Bursa“ vartojama taip: Bendrabutis, skirtas klierikams arba kunigų rengimui. (t-001)
+Bendrabutis, skirtas klierikams arba kunigų rengimui. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Bursa
@@ -54,7 +54,7 @@ Terminas šaltinyje vartojamas šiame kontekste: bažnytinė švietimo istorija.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Bursa“ vartojama taip: Bendrabutis, skirtas klierikams arba kunigų rengimui."
+  teiginys: "Bendrabutis, skirtas klierikams arba kunigų rengimui."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

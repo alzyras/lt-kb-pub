@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Eleonora
 
 ## Santrauka
-Šaltinyje Eleonora apibūdinamas taip: Minima kaip Mykolo našlė, kurios rankos siekė Lotaringietis.
+Minima kaip Mykolo našlė, kurios rankos siekė Lotaringietis.
 
 ## Variantai
 - Eleonorą
@@ -33,7 +33,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Eleonora apibūdinamas taip: Minima kaip Mykolo našlė, kurios rankos siekė Lotaringietis."
+  teiginys: "Minima kaip Mykolo našlė, kurios rankos siekė Lotaringietis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

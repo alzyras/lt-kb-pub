@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Pamarė
 
 ## Santrauka
-Šaltinyje vieta „Pamarė“ siejama su šiuo kontekstu: Minima kaip Kristijono kilmės vieta ir kaip lenkiškojo Pamario atitikmuo. (t-001)
+Minima kaip Kristijono kilmės vieta ir kaip lenkiškojo Pamario atitikmuo. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Pamarė
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Pamarė“ siejama su šiuo kontekstu: Minima kaip Kristijono kilmės vieta ir kaip lenkiškojo Pamario atitikmuo."
+  teiginys: "Minima kaip Kristijono kilmės vieta ir kaip lenkiškojo Pamario atitikmuo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

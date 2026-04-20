@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 # Dauguva
 
 ## Santrauka
-Šaltinyje vieta „Dauguva“ siejama su šiais kontekstais: Upė minima kaip Baltijos regiono riba; Minima kaip upė, už kurios žemaičiai pasiekdavo Estiją. (t-001, t-002)
+Upė minima kaip Baltijos regiono riba; Minima kaip upė, už kurios žemaičiai pasiekdavo Estiją. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Dauguva
@@ -51,13 +51,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Dauguva“ siejama su šiuo kontekstu: Upė minima kaip Baltijos regiono riba."
+  teiginys: "Upė minima kaip Baltijos regiono riba."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Dauguva“ siejama su šiuo kontekstu: Minima kaip upė, už kurios žemaičiai pasiekdavo Estiją."
+  teiginys: "Minima kaip upė, už kurios žemaičiai pasiekdavo Estiją."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

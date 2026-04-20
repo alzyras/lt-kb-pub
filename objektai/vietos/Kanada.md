@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Kanada
 
 ## Santrauka
-Šaltinyje vieta „Kanada“ siejama su šiuo kontekstu: Minima kaip šalis, kurioje gyvena apie 10.000 lietuvių. (t-001)
+Minima kaip šalis, kurioje gyvena apie 10.000 lietuvių. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Kanada
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Kanada“ siejama su šiuo kontekstu: Minima kaip šalis, kurioje gyvena apie 10.000 lietuvių."
+  teiginys: "Minima kaip šalis, kurioje gyvena apie 10.000 lietuvių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Marijavitai
 
 ## Santrauka
-Šaltinyje „Marijavitai“ vartojama taip: Marijavitų sekta arba jos nariai. (t-001)
+Marijavitų sekta arba jos nariai. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Marijavitai
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: religijos istorija, poleminė p
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Marijavitai“ vartojama taip: Marijavitų sekta arba jos nariai."
+  teiginys: "Marijavitų sekta arba jos nariai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

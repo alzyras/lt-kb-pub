@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Latvija
 
 ## Santrauka
-Šaltinyje vieta „Latvija“ siejama su šiais kontekstais: Šalis minima kaip aisčių gyvenamasis kraštas; Minima kaip teritorija, kurią nukariavo ordinas, ir kaip vieta, kur įsikūrė vokiečių valstybė. (t-001, t-002)
+Šalis minima kaip aisčių gyvenamasis kraštas; Minima kaip teritorija, kurią nukariavo ordinas, ir kaip vieta, kur įsikūrė vokiečių valstybė. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Latvija
@@ -45,13 +45,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Latvija“ siejama su šiuo kontekstu: Šalis minima kaip aisčių gyvenamasis kraštas."
+  teiginys: "Šalis minima kaip aisčių gyvenamasis kraštas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Latvija“ siejama su šiuo kontekstu: Minima kaip teritorija, kurią nukariavo ordinas, ir kaip vieta, kur įsikūrė vokiečių valstybė."
+  teiginys: "Minima kaip teritorija, kurią nukariavo ordinas, ir kaip vieta, kur įsikūrė vokiečių valstybė."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

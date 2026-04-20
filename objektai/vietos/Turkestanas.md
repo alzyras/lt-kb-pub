@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Turkestanas
 
 ## Santrauka
-Šaltinyje vieta „Turkestanas“ siejama su šiuo kontekstu: Minimas kartu su Kaukazu kaip lietuvių pabėgimo vieta. (t-001)
+Minimas kartu su Kaukazu kaip lietuvių pabėgimo vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Turkestanas
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Turkestanas“ siejama su šiuo kontekstu: Minimas kartu su Kaukazu kaip lietuvių pabėgimo vieta."
+  teiginys: "Minimas kartu su Kaukazu kaip lietuvių pabėgimo vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

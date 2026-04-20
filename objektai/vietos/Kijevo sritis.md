@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Kijevo sritis
 
 ## Santrauka
-Šaltinyje vieta „Kijevo sritis“ siejama su šiuo kontekstu: Minima kaip viena iš sričių, kurias totoriai baudė už kazokų puolimus. (t-001)
+Minima kaip viena iš sričių, kurias totoriai baudė už kazokų puolimus. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Kijevo sritis
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Kijevo sritis“ siejama su šiuo kontekstu: Minima kaip viena iš sričių, kurias totoriai baudė už kazokų puolimus."
+  teiginys: "Minima kaip viena iš sričių, kurias totoriai baudė už kazokų puolimus."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

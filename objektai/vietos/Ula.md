@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Ula
 
 ## Santrauka
-Šaltinyje vieta „Ula“ siejama su šiuo kontekstu: Ula minima kaip vieta, kur buvo sumušta caro kariuomenė. (t-001)
+Ula minima kaip vieta, kur buvo sumušta caro kariuomenė. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Ula
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Ula“ siejama su šiuo kontekstu: Ula minima kaip vieta, kur buvo sumušta caro kariuomenė."
+  teiginys: "Ula minima kaip vieta, kur buvo sumušta caro kariuomenė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

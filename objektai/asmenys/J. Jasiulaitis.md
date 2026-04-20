@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # J. Jasiulaitis
 
 ## Santrauka
-Šaltinyje J. Jasiulaitis apibūdinamas taip: Minimas kaip vienas iš trijų lietuvių mokytojų Marijampolės gimnazijoje.
+Minimas kaip vienas iš trijų lietuvių mokytojų Marijampolės gimnazijoje.
 
 ## Variantai
 - Jasiulaitis
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje J. Jasiulaitis apibūdinamas taip: Minimas kaip vienas iš trijų lietuvių mokytojų Marijampolės gimnazijoje."
+  teiginys: "Minimas kaip vienas iš trijų lietuvių mokytojų Marijampolės gimnazijoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

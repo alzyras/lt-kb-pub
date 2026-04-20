@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Cechas
 
 ## Santrauka
-Šaltinyje „Cechas“ vartojama taip: Amatininkų ar kitos profesijos miestiečių organizacija. (t-001)
+Amatininkų ar kitos profesijos miestiečių organizacija. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Cechas
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: amatai, miestų savivalda. (t-0
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Cechas“ vartojama taip: Amatininkų ar kitos profesijos miestiečių organizacija."
+  teiginys: "Amatininkų ar kitos profesijos miestiečių organizacija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

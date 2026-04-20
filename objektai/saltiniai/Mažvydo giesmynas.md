@@ -38,7 +38,7 @@ patikimumas: "aukstas"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Mažvydo giesmynas“ siejamas su šiuo kontekstu: Iliustracijos antraštėje minimas Mažvydo giesmynas kaip atskiras leidinys.
+Iliustracijos antraštėje minimas Mažvydo giesmynas kaip atskiras leidinys.
 
 ## Ryšiai
 
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Mažvydo giesmynas“ siejamas su šiuo kontekstu: Iliustracijos antraštėje minimas Mažvydo giesmynas kaip atskiras leidinys."
+  teiginys: "Iliustracijos antraštėje minimas Mažvydo giesmynas kaip atskiras leidinys."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

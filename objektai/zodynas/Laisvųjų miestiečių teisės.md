@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Laisvųjų miestiečių teisės
 
 ## Santrauka
-Šaltinyje „Laisvųjų miestiečių teisės“ vartojama taip: Miestiečių privilegijos ir teisinė padėtis pagal vakarietišką modelį. (t-001)
+Miestiečių privilegijos ir teisinė padėtis pagal vakarietišką modelį. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Laisvųjų miestiečių teisės
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: miestų istorija, socialinė sa
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Laisvųjų miestiečių teisės“ vartojama taip: Miestiečių privilegijos ir teisinė padėtis pagal vakarietišką modelį."
+  teiginys: "Miestiečių privilegijos ir teisinė padėtis pagal vakarietišką modelį."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

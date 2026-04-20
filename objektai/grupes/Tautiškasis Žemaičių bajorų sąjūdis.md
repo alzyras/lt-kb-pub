@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Tautiškasis Žemaičių bajorų sąjūdis
 
 ## Santrauka
-Šaltinyje „Tautiškasis Žemaičių bajorų sąjūdis“ apibūdinama kaip sąjūdis; šis sąjūdis apibrėžiamas kaip Žemaičių bajorų tautinis ir kultūrinis judėjimas, kurį sustiprino susidomėjimas lietuvių kalba ir kurio centras buvo Alsėdžiai. (t-001)
+sąjūdis; šis sąjūdis apibrėžiamas kaip Žemaičių bajorų tautinis ir kultūrinis judėjimas, kurį sustiprino susidomėjimas lietuvių kalba ir kurio centras buvo Alsėdžiai. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Tautiškasis Žemaičių bajorų sąjūdis
@@ -48,14 +48,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: sąjūdis
-Šaltinyje „Tautiškasis Žemaičių bajorų sąjūdis“ apibūdinama kaip sąjūdis; šis sąjūdis apibrėžiamas kaip Žemaičių bajorų tautinis ir kultūrinis judėjimas, kurį sustiprino susidomėjimas lietuvių kalba ir kurio centras buvo Alsėdžiai. (t-001)
+sąjūdis; šis sąjūdis apibrėžiamas kaip Žemaičių bajorų tautinis ir kultūrinis judėjimas, kurį sustiprino susidomėjimas lietuvių kalba ir kurio centras buvo Alsėdžiai. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Tautiškasis Žemaičių bajorų sąjūdis“ apibūdinama kaip sąjūdis; šis sąjūdis apibrėžiamas kaip Žemaičių bajorų tautinis ir kultūrinis judėjimas, kurį sustiprino susidomėjimas lietuvių kalba ir kurio centras buvo Alsėdžiai. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Tautiškasis Žemaičių bajorų sąjūdis“ apibūdinama kaip sąjūdis; šis sąjūdis apibrėžiamas kaip Žemaičių bajorų tautinis ir kultūrinis judėjimas, kurį sustiprino susidomėjimas lietuvių kalba ir kurio centras buvo Alsėdžiai."
+  teiginys: "sąjūdis; šis sąjūdis apibrėžiamas kaip Žemaičių bajorų tautinis ir kultūrinis judėjimas, kurį sustiprino susidomėjimas lietuvių kalba ir kurio centras buvo Alsėdžiai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

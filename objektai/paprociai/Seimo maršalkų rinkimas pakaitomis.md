@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Seimo maršalkų rinkimas pakaitomis
 
 ## Santrauka
-Šaltinyje minima praktika „Seimo maršalkų rinkimas pakaitomis“ siejama su formuluote: seimo maršalkos turi būti renkami pakaitomis iš mažlenkių, didlenkių ir lietuvių. Šaltinio kontekste nurodoma: kas atlieka: seimo dalyviai; kada atliekama: seimo tvarkoje; kiekvieno trečio seimo metu lietuvis būdavo maršalka. (t-001)
+seimo maršalkos turi būti renkami pakaitomis iš mažlenkių, didlenkių ir lietuvių. Šaltinio kontekste nurodoma: kas atlieka: seimo dalyviai; kada atliekama: seimo tvarkoje; kiekvieno trečio seimo metu lietuvis būdavo maršalka. (t-001)
 
 ## Pavadinimai šaltiniuose
 - seimo maršalkos turi būti renkami pakaitomis iš mažlenkių, didlenkių ir lietuvių
@@ -40,8 +40,7 @@ patikimumas: "vidutinis"
 - date_start/date_end: 1673 / 1673 (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Seimo maršalkų rinkimas pakaitomis“ siejama su formuluote: seimo maršalkos turi būti renkami pakaitomis iš mažlenkių, didlenkių ir lietuvių. Šaltinio kontekste nurodoma: kas atlieka: seimo dalyviai; kada atliekama: seimo tvarkoje; kiekvieno trečio seimo metu lietuvis būdavo maršalka. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: seimo dalyviai (t-001)
 - kada atliekama: seimo tvarkoje; kiekvieno trečio seimo metu lietuvis būdavo maršalka (t-001)
@@ -49,7 +48,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Seimo maršalkų rinkimas pakaitomis“ siejama su formuluote: seimo maršalkos turi būti renkami pakaitomis iš mažlenkių, didlenkių ir lietuvių. Šaltinio kontekste nurodoma: kas atlieka: seimo dalyviai; kada atliekama: seimo tvarkoje; kiekvieno trečio seimo metu lietuvis būdavo maršalka."
+  teiginys: "seimo maršalkos turi būti renkami pakaitomis iš mažlenkių, didlenkių ir lietuvių. Šaltinio kontekste nurodoma: kas atlieka: seimo dalyviai; kada atliekama: seimo tvarkoje; kiekvieno trečio seimo metu lietuvis būdavo maršalka."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

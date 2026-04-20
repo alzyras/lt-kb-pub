@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Lyda
 
 ## Santrauka
-Šaltinyje vieta „Lyda“ siejama su šiais kontekstais: minima šalia Astravos dvaro kaip susitaikymo vietos orientyras; Minima kaip viena iš vietų, kur susitelkė Sapiegų dvarus plėšę būriai. (t-001, t-002)
+minima šalia Astravos dvaro kaip susitaikymo vietos orientyras; Minima kaip viena iš vietų, kur susitelkė Sapiegų dvarus plėšę būriai. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Lyda
@@ -50,13 +50,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Lyda“ siejama su šiuo kontekstu: minima šalia Astravos dvaro kaip susitaikymo vietos orientyras."
+  teiginys: "minima šalia Astravos dvaro kaip susitaikymo vietos orientyras."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Lyda“ siejama su šiuo kontekstu: Minima kaip viena iš vietų, kur susitelkė Sapiegų dvarus plėšę būriai."
+  teiginys: "Minima kaip viena iš vietų, kur susitelkė Sapiegų dvarus plėšę būriai."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

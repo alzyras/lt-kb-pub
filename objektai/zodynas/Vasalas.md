@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Vasalas
 
 ## Santrauka
-Šaltinyje „Vasalas“ vartojama taip: Feodališkai priklausomas valdovas ar kilmingasis, pavaldus kitai valdžiai. (t-001)
+Feodališkai priklausomas valdovas ar kilmingasis, pavaldus kitai valdžiai. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Vasalas
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: viduramžių politinė ir feoda
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Vasalas“ vartojama taip: Feodališkai priklausomas valdovas ar kilmingasis, pavaldus kitai valdžiai."
+  teiginys: "Feodališkai priklausomas valdovas ar kilmingasis, pavaldus kitai valdžiai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

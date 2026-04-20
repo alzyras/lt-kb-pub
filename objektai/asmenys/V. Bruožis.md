@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # V. Bruožis
 
 ## Santrauka
-Šaltinyje V. Bruožis apibūdinamas taip: Minimas kaip vienas iš „Birutės“ draugijos sumanytojų.
+Minimas kaip vienas iš „Birutės“ draugijos sumanytojų.
 
 ## Variantai
 - Bruožis
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje V. Bruožis apibūdinamas taip: Minimas kaip vienas iš „Birutės“ draugijos sumanytojų."
+  teiginys: "Minimas kaip vienas iš „Birutės“ draugijos sumanytojų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

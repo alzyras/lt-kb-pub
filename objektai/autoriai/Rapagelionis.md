@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Rapagelionis
 
 ## Santrauka
-Šaltinyje Rapagelionis minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip vienas iš lietuviškų protestantiškų knygų autorių Mažojoje Lietuvoje.
+Minimas kaip vienas iš lietuviškų protestantiškų knygų autorių Mažojoje Lietuvoje.
 
 ## Darbai
 - Minimas kaip vienas iš lietuviškų protestantiškų knygų autorių Mažojoje Lietuvoje. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Rapagelionis autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip vienas iš lietuviškų protestantiškų knygų autorių Mažojoje Lietuvoje."
+  teiginys: "Minimas kaip vienas iš lietuviškų protestantiškų knygų autorių Mažojoje Lietuvoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

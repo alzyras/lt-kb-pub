@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Pilėnai
 
 ## Santrauka
-Šaltinyje vieta „Pilėnai“ siejama su šiuo kontekstu: Minima kaip pilies gynimo vieta. (t-001)
+Minima kaip pilies gynimo vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Pilėnai
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Pilėnai“ siejama su šiuo kontekstu: Minima kaip pilies gynimo vieta."
+  teiginys: "Minima kaip pilies gynimo vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

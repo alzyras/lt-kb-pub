@@ -23,7 +23,7 @@ patikimumas: "vidutinis"
 # Baiga
 
 ## Santrauka
-Šaltinyje vieta „Baiga“ siejama su šiuo kontekstu: Minima tarp pačių stipriausių ordino pilių. (t-001)
+Minima tarp pačių stipriausių ordino pilių. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Baiga
@@ -39,7 +39,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Baiga“ siejama su šiuo kontekstu: Minima tarp pačių stipriausių ordino pilių."
+  teiginys: "Minima tarp pačių stipriausių ordino pilių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

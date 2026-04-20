@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Kęstaičiai
 
 ## Santrauka
-Šaltinyje vieta „Kęstaičiai“ siejama su šiuo kontekstu: Minima kaip vieta, kur 1886 m. buvo uždaryta bažnyčia ir kilo gyventojų pasipriešinimas. (t-001)
+Minima kaip vieta, kur 1886 m. buvo uždaryta bažnyčia ir kilo gyventojų pasipriešinimas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Kęstaičiai
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Kęstaičiai“ siejama su šiuo kontekstu: Minima kaip vieta, kur 1886 m. buvo uždaryta bažnyčia ir kilo gyventojų pasipriešinimas."
+  teiginys: "Minima kaip vieta, kur 1886 m. buvo uždaryta bažnyčia ir kilo gyventojų pasipriešinimas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

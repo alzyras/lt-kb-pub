@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Šilingas
 
 ## Santrauka
-Šaltinyje „Šilingas“ vartojama taip: istorinis pinigų nominalas, mažos vertės moneta. (t-001)
+istorinis pinigų nominalas, mažos vertės moneta. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Šilingas
@@ -54,7 +54,7 @@ Terminas šaltinyje vartojamas šiame kontekste: numizmatika, pinigų istorija. 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Šilingas“ vartojama taip: istorinis pinigų nominalas, mažos vertės moneta."
+  teiginys: "istorinis pinigų nominalas, mažos vertės moneta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

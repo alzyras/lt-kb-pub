@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Referentūra
 
 ## Santrauka
-Šaltinyje „Referentūra“ vartojama taip: Specialus administracinis skyrius ar įstaiga emigracijai prižiūrėti. (t-001)
+Specialus administracinis skyrius ar įstaiga emigracijai prižiūrėti. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Referentūra
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: administracinė terminija, emig
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Referentūra“ vartojama taip: Specialus administracinis skyrius ar įstaiga emigracijai prižiūrėti."
+  teiginys: "Specialus administracinis skyrius ar įstaiga emigracijai prižiūrėti."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

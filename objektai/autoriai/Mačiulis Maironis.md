@@ -31,7 +31,7 @@ patikimumas: "vidutinis"
 # Mačiulis Maironis
 
 ## Santrauka
-Šaltinyje Mačiulis Maironis minimas kaip poetas.
+Mačiulis Maironis minimas kaip poetas.
 
 ## Darbai
 - Autorystės vaidmuo šaltinyje įvardytas kaip poetas. (t-001)
@@ -41,7 +41,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Mačiulis Maironis minimas kaip poetas."
+  teiginys: "Mačiulis Maironis minimas kaip poetas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

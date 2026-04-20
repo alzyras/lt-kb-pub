@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Kornilovas
 
 ## Santrauka
-Šaltinyje Kornilovas apibūdinamas taip: Minimas kaip švietimo kuratorius ir Muravjovo bendradarbis, dalyvavęs lietuviškų raidžių klausime.
+Minimas kaip švietimo kuratorius ir Muravjovo bendradarbis, dalyvavęs lietuviškų raidžių klausime.
 
 ## Laikotarpis ir datos
 - laikotarpis: 1864 m.
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Kornilovas apibūdinamas taip: Minimas kaip švietimo kuratorius ir Muravjovo bendradarbis, dalyvavęs lietuviškų raidžių klausime."
+  teiginys: "Minimas kaip švietimo kuratorius ir Muravjovo bendradarbis, dalyvavęs lietuviškų raidžių klausime."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

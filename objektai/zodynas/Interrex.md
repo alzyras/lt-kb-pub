@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Interrex
 
 ## Santrauka
-Šaltinyje „Interrex“ vartojama taip: Tarpuvaldžio metu valstybės galvos pareigybė arba titulas. (t-001)
+Tarpuvaldžio metu valstybės galvos pareigybė arba titulas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Interrex
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: valstybės valdymas, tarpuvaldi
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Interrex“ vartojama taip: Tarpuvaldžio metu valstybės galvos pareigybė arba titulas."
+  teiginys: "Tarpuvaldžio metu valstybės galvos pareigybė arba titulas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

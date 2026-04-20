@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Danija
 
 ## Santrauka
-Šaltinyje vieta „Danija“ siejama su šiuo kontekstu: Danija minima kaip viena iš valstybių, turėjusių dalį Livonijos. (t-001)
+Danija minima kaip viena iš valstybių, turėjusių dalį Livonijos. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Danija
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Danija“ siejama su šiuo kontekstu: Danija minima kaip viena iš valstybių, turėjusių dalį Livonijos."
+  teiginys: "Danija minima kaip viena iš valstybių, turėjusių dalį Livonijos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

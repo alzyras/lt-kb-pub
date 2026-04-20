@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # M. Sederevičius
 
 ## Santrauka
-Šaltinyje M. Sederevičius apibūdinamas taip: Minimas kaip Sudargo klebonas, aktyviai prisidėjęs prie knygų gabenimo.
+Minimas kaip Sudargo klebonas, aktyviai prisidėjęs prie knygų gabenimo.
 
 ## Variantai
 - Sederevičius
@@ -43,7 +43,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje M. Sederevičius apibūdinamas taip: Minimas kaip Sudargo klebonas, aktyviai prisidėjęs prie knygų gabenimo."
+  teiginys: "Minimas kaip Sudargo klebonas, aktyviai prisidėjęs prie knygų gabenimo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

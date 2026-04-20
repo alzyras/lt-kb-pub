@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Ežeronis
 
 ## Santrauka
-Šaltinyje vieta „Ežeronis“ siejama su šiuo kontekstu: Minimas kaip Hymanso projekte įvardytas linijos taškas tarp Nemuno ir Volios. (t-001)
+Minimas kaip Hymanso projekte įvardytas linijos taškas tarp Nemuno ir Volios. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Ežeronis
@@ -44,7 +44,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Ežeronis“ siejama su šiuo kontekstu: Minimas kaip Hymanso projekte įvardytas linijos taškas tarp Nemuno ir Volios."
+  teiginys: "Minimas kaip Hymanso projekte įvardytas linijos taškas tarp Nemuno ir Volios."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Esenas
 
 ## Santrauka
-Šaltinyje vieta „Esenas“ siejama su šiuo kontekstu: Minimas kaip vienas iš Vokietijos miestų, kuriuose gyvena lietuvių išeivių. (t-001)
+Minimas kaip vienas iš Vokietijos miestų, kuriuose gyvena lietuvių išeivių. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Esenas
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Esenas“ siejama su šiuo kontekstu: Minimas kaip vienas iš Vokietijos miestų, kuriuose gyvena lietuvių išeivių."
+  teiginys: "Minimas kaip vienas iš Vokietijos miestų, kuriuose gyvena lietuvių išeivių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

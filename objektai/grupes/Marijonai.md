@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Marijonai
 
 ## Santrauka
-Šaltinyje „Marijonai“ apibūdinama kaip vienuolija; vienuolių grupė, įtraukta į mokymą ir minima kartu su šv. Kazimiero seserimis. (t-001)
+vienuolija; vienuolių grupė, įtraukta į mokymą ir minima kartu su šv. Kazimiero seserimis. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Marijonai
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: vienuolija
-Šaltinyje „Marijonai“ apibūdinama kaip vienuolija; vienuolių grupė, įtraukta į mokymą ir minima kartu su šv. Kazimiero seserimis. (t-001)
+vienuolija; vienuolių grupė, įtraukta į mokymą ir minima kartu su šv. Kazimiero seserimis. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Marijonai“ apibūdinama kaip vienuolija; vienuolių grupė, įtraukta į mokymą ir minima kartu su šv. Kazimiero seserimis. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Marijonai“ apibūdinama kaip vienuolija; vienuolių grupė, įtraukta į mokymą ir minima kartu su šv. Kazimiero seserimis."
+  teiginys: "vienuolija; vienuolių grupė, įtraukta į mokymą ir minima kartu su šv. Kazimiero seserimis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

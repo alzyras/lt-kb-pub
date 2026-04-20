@@ -31,7 +31,7 @@ patikimumas: "vidutinis"
 # Servitutas
 
 ## Santrauka
-Šaltinyje „Servitutas“ vartojama taip: baudžiavos metu turėtos teisės naudotis dvaro ganyklomis, miškais ir ežerais; Teisinė žemės naudojimo našta ar servitutinis apribojimas. (t-001)
+baudžiavos metu turėtos teisės naudotis dvaro ganyklomis, miškais ir ežerais; Teisinė žemės naudojimo našta ar servitutinis apribojimas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Servitutas
@@ -55,7 +55,7 @@ Terminas šaltinyje vartojamas šiame kontekste: baudžiava, žemės teisės; ž
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Servitutas“ vartojama taip: baudžiavos metu turėtos teisės naudotis dvaro ganyklomis, miškais ir ežerais; Teisinė žemės naudojimo našta ar servitutinis apribojimas."
+  teiginys: "baudžiavos metu turėtos teisės naudotis dvaro ganyklomis, miškais ir ežerais; Teisinė žemės naudojimo našta ar servitutinis apribojimas."
   pagrindžia:
     - c-001
     - c-002

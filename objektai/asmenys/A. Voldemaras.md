@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # A. Voldemaras
 
 ## Santrauka
-Šaltinyje A. Voldemaras apibūdinamas taip: Taryba pavedė A. Voldemarui sudaryti pirmą nepriklausomos Lietuvos kabinetą, kuris netrukus pradėjo veikti. Šaltinyje A. Voldemaras apibūdinamas taip: Minimas kaip ministerių pirmininkas, vėliau kaip pirmojo nepriklausomos Lietuvos kabineto sudarytojas ir diplomatinės akcijos vykdytojas.
+Taryba pavedė A. Voldemarui sudaryti pirmą nepriklausomos Lietuvos kabinetą, kuris netrukus pradėjo veikti. Minimas kaip ministerių pirmininkas, vėliau kaip pirmojo nepriklausomos Lietuvos kabineto sudarytojas ir diplomatinės akcijos vykdytojas.
 
 ## Variantai
 - A. Voldemarui
@@ -46,13 +46,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje A. Voldemaras apibūdinamas taip: Taryba pavedė A. Voldemarui sudaryti pirmą nepriklausomos Lietuvos kabinetą, kuris netrukus pradėjo veikti."
+  teiginys: "Taryba pavedė A. Voldemarui sudaryti pirmą nepriklausomos Lietuvos kabinetą, kuris netrukus pradėjo veikti."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje A. Voldemaras apibūdinamas taip: Minimas kaip ministerių pirmininkas, vėliau kaip pirmojo nepriklausomos Lietuvos kabineto sudarytojas ir diplomatinės akcijos vykdytojas."
+  teiginys: "Minimas kaip ministerių pirmininkas, vėliau kaip pirmojo nepriklausomos Lietuvos kabineto sudarytojas ir diplomatinės akcijos vykdytojas."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

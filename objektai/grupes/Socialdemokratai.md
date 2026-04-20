@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Socialdemokratai
 
 ## Santrauka
-Šaltinyje „Socialdemokratai“ apibūdinama kaip politinė grupė; nurodomi kaip pirmoji nuo varpininkų atsiskyrusi politinė grupė, kai atsirado lietuvių politinės partijos. (t-001)
+politinė grupė; nurodomi kaip pirmoji nuo varpininkų atsiskyrusi politinė grupė, kai atsirado lietuvių politinės partijos. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Socialdemokratai
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: politinė grupė
-Šaltinyje „Socialdemokratai“ apibūdinama kaip politinė grupė; nurodomi kaip pirmoji nuo varpininkų atsiskyrusi politinė grupė, kai atsirado lietuvių politinės partijos. (t-001)
+politinė grupė; nurodomi kaip pirmoji nuo varpininkų atsiskyrusi politinė grupė, kai atsirado lietuvių politinės partijos. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Socialdemokratai“ apibūdinama kaip politinė grupė; nurodomi kaip pirmoji nuo varpininkų atsiskyrusi politinė grupė, kai atsirado lietuvių politinės partijos. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Socialdemokratai“ apibūdinama kaip politinė grupė; nurodomi kaip pirmoji nuo varpininkų atsiskyrusi politinė grupė, kai atsirado lietuvių politinės partijos."
+  teiginys: "politinė grupė; nurodomi kaip pirmoji nuo varpininkų atsiskyrusi politinė grupė, kai atsirado lietuvių politinės partijos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

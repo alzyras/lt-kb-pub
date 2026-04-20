@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Spindulingųjų draugijos pasilinksminimų ir vakarėlių rengimas
 
 ## Santrauka
-Šaltinyje minima praktika „Spindulingųjų draugijos pasilinksminimų ir vakarėlių rengimas“ siejama su formuluote: Tam tikslui ji rengė visokius pasilinksminimus, vakarėlius ir t.t.. Šaltinio kontekste nurodoma: kas atlieka: Spindulingųjų Draugija; kada atliekama: XIX a. pradžioje, slaptųjų jaunimo organizacijų veikimo metu. (t-001)
+Tam tikslui ji rengė visokius pasilinksminimus, vakarėlius ir t.t.. Šaltinio kontekste nurodoma: kas atlieka: Spindulingųjų Draugija; kada atliekama: XIX a. pradžioje, slaptųjų jaunimo organizacijų veikimo metu. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Tam tikslui ji rengė visokius pasilinksminimus, vakarėlius ir t.t.
@@ -39,8 +39,7 @@ patikimumas: "vidutinis"
 - amziai: XIX (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Spindulingųjų draugijos pasilinksminimų ir vakarėlių rengimas“ siejama su formuluote: Tam tikslui ji rengė visokius pasilinksminimus, vakarėlius ir t.t.. Šaltinio kontekste nurodoma: kas atlieka: Spindulingųjų Draugija; kada atliekama: XIX a. pradžioje, slaptųjų jaunimo organizacijų veikimo metu. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: Spindulingųjų Draugija (t-001)
 - kada atliekama: XIX a. pradžioje, slaptųjų jaunimo organizacijų veikimo metu (t-001)
@@ -48,7 +47,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Spindulingųjų draugijos pasilinksminimų ir vakarėlių rengimas“ siejama su formuluote: Tam tikslui ji rengė visokius pasilinksminimus, vakarėlius ir t.t.. Šaltinio kontekste nurodoma: kas atlieka: Spindulingųjų Draugija; kada atliekama: XIX a. pradžioje, slaptųjų jaunimo organizacijų veikimo metu."
+  teiginys: "Tam tikslui ji rengė visokius pasilinksminimus, vakarėlius ir t.t.. Šaltinio kontekste nurodoma: kas atlieka: Spindulingųjų Draugija; kada atliekama: XIX a. pradžioje, slaptųjų jaunimo organizacijų veikimo metu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

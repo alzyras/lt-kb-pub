@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Blaivybės brolijos
 
 ## Santrauka
-Šaltinyje „Blaivybės brolijos“ siejama su šiuo kontekstu: Tekste blaivybės brolijos aprašomos kaip kunigijos ir parapijonų organizuojamas blaivybės judėjimo tinklas, vėliau Muravjovo valdžios uždraustas kaip nepriklausoma organizacija. (t-001)
+Tekste blaivybės brolijos aprašomos kaip kunigijos ir parapijonų organizuojamas blaivybės judėjimo tinklas, vėliau Muravjovo valdžios uždraustas kaip nepriklausoma organizacija. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Blaivybės brolijos
@@ -45,14 +45,13 @@ patikimumas: "aukstas"
 - date_end: 1863
 
 ## Kas tai
-Šaltinyje „Blaivybės brolijos“ siejama su šiuo kontekstu: Tekste blaivybės brolijos aprašomos kaip kunigijos ir parapijonų organizuojamas blaivybės judėjimo tinklas, vėliau Muravjovo valdžios uždraustas kaip nepriklausoma organizacija. (t-001)
-
+Žr. santrauką.
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Blaivybės brolijos“ siejama su šiuo kontekstu: Tekste blaivybės brolijos aprašomos kaip kunigijos ir parapijonų organizuojamas blaivybės judėjimo tinklas, vėliau Muravjovo valdžios uždraustas kaip nepriklausoma organizacija. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Blaivybės brolijos“ siejama su šiuo kontekstu: Tekste blaivybės brolijos aprašomos kaip kunigijos ir parapijonų organizuojamas blaivybės judėjimo tinklas, vėliau Muravjovo valdžios uždraustas kaip nepriklausoma organizacija."
+  teiginys: "Tekste blaivybės brolijos aprašomos kaip kunigijos ir parapijonų organizuojamas blaivybės judėjimo tinklas, vėliau Muravjovo valdžios uždraustas kaip nepriklausoma organizacija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

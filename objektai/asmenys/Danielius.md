@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Danielius
 
 ## Santrauka
-Šaltinyje Danielius apibūdinamas taip: Voluinės kunigaikštis, pas kurį pabėgo Mindaugo brolėnai Tautvilas ir Erdvilas.
+Voluinės kunigaikštis, pas kurį pabėgo Mindaugo brolėnai Tautvilas ir Erdvilas.
 
 ## Variantai
 - Danieliaus
@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Danielius apibūdinamas taip: Voluinės kunigaikštis, pas kurį pabėgo Mindaugo brolėnai Tautvilas ir Erdvilas."
+  teiginys: "Voluinės kunigaikštis, pas kurį pabėgo Mindaugo brolėnai Tautvilas ir Erdvilas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

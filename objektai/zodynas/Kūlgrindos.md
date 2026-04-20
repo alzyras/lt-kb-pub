@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Kūlgrindos
 
 ## Santrauka
-Šaltinyje „Kūlgrindos“ vartojama taip: Slaptas akmenimis grįstas kelias, skirtas susisiekimui ar pasitraukimui pavojaus metu. (t-001)
+Slaptas akmenimis grįstas kelias, skirtas susisiekimui ar pasitraukimui pavojaus metu. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Kūlgrindos
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: gynyba, susisiekimas, senoji vi
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kūlgrindos“ vartojama taip: Slaptas akmenimis grįstas kelias, skirtas susisiekimui ar pasitraukimui pavojaus metu."
+  teiginys: "Slaptas akmenimis grįstas kelias, skirtas susisiekimui ar pasitraukimui pavojaus metu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

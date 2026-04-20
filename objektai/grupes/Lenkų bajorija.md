@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Lenkų bajorija
 
 ## Santrauka
-Šaltinyje „Lenkų bajorija“ apibūdinama kaip bajorija; lenkų bajorija čia minimi kaip politinis partneris, kuris po Jogailos mirties įsipareigojo nerinkti naujo karaliaus be lietuvių ir Vytauto žinios. (t-001)
+bajorija; lenkų bajorija čia minimi kaip politinis partneris, kuris po Jogailos mirties įsipareigojo nerinkti naujo karaliaus be lietuvių ir Vytauto žinios. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Lenkų bajorija
@@ -38,14 +38,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: bajorija
-Šaltinyje „Lenkų bajorija“ apibūdinama kaip bajorija; lenkų bajorija čia minimi kaip politinis partneris, kuris po Jogailos mirties įsipareigojo nerinkti naujo karaliaus be lietuvių ir Vytauto žinios. (t-001)
+bajorija; lenkų bajorija čia minimi kaip politinis partneris, kuris po Jogailos mirties įsipareigojo nerinkti naujo karaliaus be lietuvių ir Vytauto žinios. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Lenkų bajorija“ apibūdinama kaip bajorija; lenkų bajorija čia minimi kaip politinis partneris, kuris po Jogailos mirties įsipareigojo nerinkti naujo karaliaus be lietuvių ir Vytauto žinios. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Lenkų bajorija“ apibūdinama kaip bajorija; lenkų bajorija čia minimi kaip politinis partneris, kuris po Jogailos mirties įsipareigojo nerinkti naujo karaliaus be lietuvių ir Vytauto žinios."
+  teiginys: "bajorija; lenkų bajorija čia minimi kaip politinis partneris, kuris po Jogailos mirties įsipareigojo nerinkti naujo karaliaus be lietuvių ir Vytauto žinios."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

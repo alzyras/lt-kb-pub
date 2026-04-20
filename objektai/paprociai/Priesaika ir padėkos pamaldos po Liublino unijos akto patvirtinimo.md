@@ -29,7 +29,7 @@ patikimumas: "vidutinis"
 # Priesaika ir padėkos pamaldos po Liublino unijos akto patvirtinimo
 
 ## Santrauka
-Šaltinyje minima praktika „Priesaika ir padėkos pamaldos po Liublino unijos akto patvirtinimo“ siejama su formuluote: Po to prasidėjo priesaika, padėkos pamaldos. Šaltinio kontekste nurodoma: kas atlieka: nenurodyta tiesiogiai; seimo dalyviai; kada atliekama: po to, kai lietuviai sutiko su lenkų paruoštojo akto nuostatais; prieš 1569 m. liepos 1 d.. (t-001)
+Po to prasidėjo priesaika, padėkos pamaldos. Šaltinio kontekste nurodoma: kas atlieka: nenurodyta tiesiogiai; seimo dalyviai; kada atliekama: po to, kai lietuviai sutiko su lenkų paruoštojo akto nuostatais; prieš 1569 m. liepos 1 d.. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Po to prasidėjo priesaika, padėkos pamaldos
@@ -41,8 +41,7 @@ patikimumas: "vidutinis"
 - date_start/date_end: 1569 / 1569 (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Priesaika ir padėkos pamaldos po Liublino unijos akto patvirtinimo“ siejama su formuluote: Po to prasidėjo priesaika, padėkos pamaldos. Šaltinio kontekste nurodoma: kas atlieka: nenurodyta tiesiogiai; seimo dalyviai; kada atliekama: po to, kai lietuviai sutiko su lenkų paruoštojo akto nuostatais; prieš 1569 m. liepos 1 d.. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: nenurodyta tiesiogiai; seimo dalyviai (t-001)
 - kada atliekama: po to, kai lietuviai sutiko su lenkų paruoštojo akto nuostatais; prieš 1569 m. liepos 1 d. (t-001)
@@ -50,7 +49,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Priesaika ir padėkos pamaldos po Liublino unijos akto patvirtinimo“ siejama su formuluote: Po to prasidėjo priesaika, padėkos pamaldos. Šaltinio kontekste nurodoma: kas atlieka: nenurodyta tiesiogiai; seimo dalyviai; kada atliekama: po to, kai lietuviai sutiko su lenkų paruoštojo akto nuostatais; prieš 1569 m. liepos 1 d.."
+  teiginys: "Po to prasidėjo priesaika, padėkos pamaldos. Šaltinio kontekste nurodoma: kas atlieka: nenurodyta tiesiogiai; seimo dalyviai; kada atliekama: po to, kai lietuviai sutiko su lenkų paruoštojo akto nuostatais; prieš 1569 m. liepos 1 d.."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

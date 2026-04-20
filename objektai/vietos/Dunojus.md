@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Dunojus
 
 ## Santrauka
-Šaltinyje vieta „Dunojus“ siejama su šiuo kontekstu: Minima Dunojaus žiočių sritis, kurią ketinta užimti. (t-001)
+Minima Dunojaus žiočių sritis, kurią ketinta užimti. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Dunojus
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Dunojus“ siejama su šiuo kontekstu: Minima Dunojaus žiočių sritis, kurią ketinta užimti."
+  teiginys: "Minima Dunojaus žiočių sritis, kurią ketinta užimti."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

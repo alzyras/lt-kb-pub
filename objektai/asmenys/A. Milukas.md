@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # A. Milukas
 
 ## Santrauka
-Šaltinyje A. Milukas apibūdinamas taip: 1894 m. įkurta draugija, siekusi lietuvių skyriaus Paryžiaus parodoje.
+1894 m. įkurta draugija, siekusi lietuvių skyriaus Paryžiaus parodoje.
 
 ## Variantai
 - A. Miluko
@@ -42,7 +42,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje A. Milukas apibūdinamas taip: 1894 m. įkurta draugija, siekusi lietuvių skyriaus Paryžiaus parodoje."
+  teiginys: "1894 m. įkurta draugija, siekusi lietuvių skyriaus Paryžiaus parodoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

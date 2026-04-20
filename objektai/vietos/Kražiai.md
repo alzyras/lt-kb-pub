@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Kražiai
 
 ## Santrauka
-Šaltinyje vieta „Kražiai“ siejama su šiuo kontekstu: Minimi kaip jėzuitų kolegijos fundacijos vieta. (t-001)
+Minimi kaip jėzuitų kolegijos fundacijos vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Kražiai
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Kražiai“ siejama su šiuo kontekstu: Minimi kaip jėzuitų kolegijos fundacijos vieta."
+  teiginys: "Minimi kaip jėzuitų kolegijos fundacijos vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

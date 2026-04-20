@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Martynas Oginskis
 
 ## Santrauka
-Šaltinyje Martynas Oginskis apibūdinamas taip: Minimas kaip vienas iš jėzuitų kolegijos Minske fundatorių.
+Minimas kaip vienas iš jėzuitų kolegijos Minske fundatorių.
 
 ## Variantai
 - Martyno Oginskio
@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Martynas Oginskis apibūdinamas taip: Minimas kaip vienas iš jėzuitų kolegijos Minske fundatorių."
+  teiginys: "Minimas kaip vienas iš jėzuitų kolegijos Minske fundatorių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

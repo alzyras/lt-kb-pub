@@ -29,7 +29,7 @@ patikimumas: "vidutinis"
 # nihil novi
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „nihil novi“; kontekstas: Aprašoma 1505 m. Lenkijos privilegija, kuria karalius pasižadėjo neįvesti „nieko naujo“ be senato ir bajorijos sutikimo. Reikšmė: Trumpa lotyniška teisės formulė, susieta su principu „nieko naujo“. (t-001)
+Užfiksuota formuluotė „nihil novi“; kontekstas: Aprašoma 1505 m. Lenkijos privilegija, kuria karalius pasižadėjo neįvesti „nieko naujo“ be senato ir bajorijos sutikimo. Reikšmė: Trumpa lotyniška teisės formulė, susieta su principu „nieko naujo“. (t-001)
 
 ## Forma
 - pagrindinė forma: nihil novi (t-001)
@@ -52,7 +52,7 @@ Trumpa lotyniška teisės formulė, susieta su principu „nieko naujo“. (t-00
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „nihil novi“; kontekstas: Aprašoma 1505 m. Lenkijos privilegija, kuria karalius pasižadėjo neįvesti „nieko naujo“ be senato ir bajorijos sutikimo."
+  teiginys: "Užfiksuota formuluotė „nihil novi“; kontekstas: Aprašoma 1505 m. Lenkijos privilegija, kuria karalius pasižadėjo neįvesti „nieko naujo“ be senato ir bajorijos sutikimo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # A. Bulota
 
 ## Santrauka
-Šaltinyje A. Bulota apibūdinamas taip: Minimas kaip lietuvių atstovas, pateikęs pasiūlymą dėl lenkų kalbos vartojimo Suvalkų krašte.
+Minimas kaip lietuvių atstovas, pateikęs pasiūlymą dėl lenkų kalbos vartojimo Suvalkų krašte.
 
 ## Variantai
 - A. Bulotos
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje A. Bulota apibūdinamas taip: Minimas kaip lietuvių atstovas, pateikęs pasiūlymą dėl lenkų kalbos vartojimo Suvalkų krašte."
+  teiginys: "Minimas kaip lietuvių atstovas, pateikęs pasiūlymą dėl lenkų kalbos vartojimo Suvalkų krašte."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

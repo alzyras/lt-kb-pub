@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Skandinavai
 
 ## Santrauka
-Šaltinyje „Skandinavai“ apibūdinama kaip tautos; skandinavai įvardijami kaip energingiausia šiaurės Europos tautų grupė, palaikiusi upių susisiekimą su Bizantija. (t-001)
+tautos; skandinavai įvardijami kaip energingiausia šiaurės Europos tautų grupė, palaikiusi upių susisiekimą su Bizantija. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Skandinavai
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: tautos
-Šaltinyje „Skandinavai“ apibūdinama kaip tautos; skandinavai įvardijami kaip energingiausia šiaurės Europos tautų grupė, palaikiusi upių susisiekimą su Bizantija. (t-001)
+tautos; skandinavai įvardijami kaip energingiausia šiaurės Europos tautų grupė, palaikiusi upių susisiekimą su Bizantija. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Skandinavai“ apibūdinama kaip tautos; skandinavai įvardijami kaip energingiausia šiaurės Europos tautų grupė, palaikiusi upių susisiekimą su Bizantija. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Skandinavai“ apibūdinama kaip tautos; skandinavai įvardijami kaip energingiausia šiaurės Europos tautų grupė, palaikiusi upių susisiekimą su Bizantija."
+  teiginys: "tautos; skandinavai įvardijami kaip energingiausia šiaurės Europos tautų grupė, palaikiusi upių susisiekimą su Bizantija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

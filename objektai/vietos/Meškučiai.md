@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Meškučiai
 
 ## Santrauka
-Šaltinyje vieta „Meškučiai“ siejama su šiuo kontekstu: Valsčius nurodomas kartu su Kryžių Kalno vieta. (t-001)
+Valsčius nurodomas kartu su Kryžių Kalno vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Meškučiai
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Meškučiai“ siejama su šiuo kontekstu: Valsčius nurodomas kartu su Kryžių Kalno vieta."
+  teiginys: "Valsčius nurodomas kartu su Kryžių Kalno vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

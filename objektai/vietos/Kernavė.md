@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Kernavė
 
 ## Santrauka
-Šaltinyje vieta „Kernavė“ siejama su šiuo kontekstu: Minima kaip Traidenio valdžios centras. (t-001)
+Minima kaip Traidenio valdžios centras. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Kernavė
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Kernavė“ siejama su šiuo kontekstu: Minima kaip Traidenio valdžios centras."
+  teiginys: "Minima kaip Traidenio valdžios centras."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

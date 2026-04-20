@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Merkelis Giedraitis
 
 ## Santrauka
-Šaltinyje Merkelis Giedraitis apibūdinamas taip: Įvardytas kaip Žemaičių vyskupas, kurio globojamas Strikauskis parašė pirmąją spausdintą Lietuvos istoriją.
+Įvardytas kaip Žemaičių vyskupas, kurio globojamas Strikauskis parašė pirmąją spausdintą Lietuvos istoriją.
 
 ## Variantai
 - Merkelio Giedraičio
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Merkelis Giedraitis apibūdinamas taip: Įvardytas kaip Žemaičių vyskupas, kurio globojamas Strikauskis parašė pirmąją spausdintą Lietuvos istoriją."
+  teiginys: "Įvardytas kaip Žemaičių vyskupas, kurio globojamas Strikauskis parašė pirmąją spausdintą Lietuvos istoriją."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

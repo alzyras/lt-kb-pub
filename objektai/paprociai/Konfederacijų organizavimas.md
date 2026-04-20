@@ -29,7 +29,7 @@ patikimumas: "vidutinis"
 # Konfederacijų organizavimas
 
 ## Santrauka
-Šaltinyje minima praktika „Konfederacijų organizavimas“ siejama su formuluote: suorganizuoti reformoms priešingą konfederaciją; Varšuvoje susidarė bajorijos konfederacija. Šaltinio kontekste nurodoma: kas atlieka: reformų priešininkai, vėliau bajorija; kada atliekama: 1792 m. po karo su turkais; 1812 m. Napoleono žygio metu. (t-001)
+suorganizuoti reformoms priešingą konfederaciją; Varšuvoje susidarė bajorijos konfederacija. Šaltinio kontekste nurodoma: kas atlieka: reformų priešininkai, vėliau bajorija; kada atliekama: 1792 m. po karo su turkais; 1812 m. Napoleono žygio metu. (t-001)
 
 ## Pavadinimai šaltiniuose
 - suorganizuoti reformoms priešingą konfederaciją; Varšuvoje susidarė bajorijos konfederacija
@@ -41,8 +41,7 @@ patikimumas: "vidutinis"
 - date_start/date_end: 1792 / 1812 (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Konfederacijų organizavimas“ siejama su formuluote: suorganizuoti reformoms priešingą konfederaciją; Varšuvoje susidarė bajorijos konfederacija. Šaltinio kontekste nurodoma: kas atlieka: reformų priešininkai, vėliau bajorija; kada atliekama: 1792 m. po karo su turkais; 1812 m. Napoleono žygio metu. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: reformų priešininkai, vėliau bajorija (t-001)
 - kada atliekama: 1792 m. po karo su turkais; 1812 m. Napoleono žygio metu (t-001)
@@ -50,7 +49,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Konfederacijų organizavimas“ siejama su formuluote: suorganizuoti reformoms priešingą konfederaciją; Varšuvoje susidarė bajorijos konfederacija. Šaltinio kontekste nurodoma: kas atlieka: reformų priešininkai, vėliau bajorija; kada atliekama: 1792 m. po karo su turkais; 1812 m. Napoleono žygio metu."
+  teiginys: "suorganizuoti reformoms priešingą konfederaciją; Varšuvoje susidarė bajorijos konfederacija. Šaltinio kontekste nurodoma: kas atlieka: reformų priešininkai, vėliau bajorija; kada atliekama: 1792 m. po karo su turkais; 1812 m. Napoleono žygio metu."
   pagrindžia:
     - c-001
     - c-002

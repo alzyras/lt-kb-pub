@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Gustavas Adolfas
 
 ## Santrauka
-Šaltinyje Gustavas Adolfas apibūdinamas taip: Minimas kaip Švedijos karalius, atnaujinęs karą dėl Livonijos.
+Minimas kaip Švedijos karalius, atnaujinęs karą dėl Livonijos.
 
 ## Variantai
 - Gustavo Adolfo
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Gustavas Adolfas apibūdinamas taip: Minimas kaip Švedijos karalius, atnaujinęs karą dėl Livonijos."
+  teiginys: "Minimas kaip Švedijos karalius, atnaujinęs karą dėl Livonijos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

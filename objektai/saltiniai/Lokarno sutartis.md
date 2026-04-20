@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Lokarno sutartis“ tai Vokietijos sulaužyta sutartis, siejama su įsipareigojimu nelaikyti kariuomenės Pareinėje.
+tai Vokietijos sulaužyta sutartis, siejama su įsipareigojimu nelaikyti kariuomenės Pareinėje.
 
 ## Ryšiai
 
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Lokarno sutartis“ tai Vokietijos sulaužyta sutartis, siejama su įsipareigojimu nelaikyti kariuomenės Pareinėje."
+  teiginys: "tai Vokietijos sulaužyta sutartis, siejama su įsipareigojimu nelaikyti kariuomenės Pareinėje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

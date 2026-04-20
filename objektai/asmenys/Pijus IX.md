@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Pijus IX
 
 ## Santrauka
-Šaltinyje Pijus IX apibūdinamas taip: Minimas kaip popiežius, kurio paraginti dvasininkai ėmė skelbti blaivybę.
+Minimas kaip popiežius, kurio paraginti dvasininkai ėmė skelbti blaivybę.
 
 ## Variantai
 - Pijo IX
@@ -41,7 +41,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Pijus IX apibūdinamas taip: Minimas kaip popiežius, kurio paraginti dvasininkai ėmė skelbti blaivybę."
+  teiginys: "Minimas kaip popiežius, kurio paraginti dvasininkai ėmė skelbti blaivybę."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

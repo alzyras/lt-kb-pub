@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Traidenis
 
 ## Santrauka
-Šaltinyje Traidenis apibūdinamas taip: Skyriuje pateiktas kaip valdovas su aiškiai nurodytomis valdymo datomis.
+Skyriuje pateiktas kaip valdovas su aiškiai nurodytomis valdymo datomis.
 
 ## Laikotarpis ir datos
 - laikotarpis: 1270–1282 m.
@@ -38,7 +38,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Traidenis apibūdinamas taip: Skyriuje pateiktas kaip valdovas su aiškiai nurodytomis valdymo datomis."
+  teiginys: "Skyriuje pateiktas kaip valdovas su aiškiai nurodytomis valdymo datomis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

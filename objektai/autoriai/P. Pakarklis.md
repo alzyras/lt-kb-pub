@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # P. Pakarklis
 
 ## Santrauka
-Šaltinyje P. Pakarklis minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip Klaipėdos srities gyventojų tautybės tyrėjas.
+Bibliografijoje nurodytas kaip Klaipėdos srities gyventojų tautybės tyrėjas.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip Klaipėdos srities gyventojų tautybės tyrėjas. (t-001)
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje P. Pakarklis autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip Klaipėdos srities gyventojų tautybės tyrėjas."
+  teiginys: "Bibliografijoje nurodytas kaip Klaipėdos srities gyventojų tautybės tyrėjas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Kamenecas
 
 ## Santrauka
-Šaltinyje vieta „Kamenecas“ siejama su šiuo kontekstu: Minimas kaip stipriausia Podolės tvirtovė, kurią užėmė turkai. (t-001)
+Minimas kaip stipriausia Podolės tvirtovė, kurią užėmė turkai. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Kamenecas
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Kamenecas“ siejama su šiuo kontekstu: Minimas kaip stipriausia Podolės tvirtovė, kurią užėmė turkai."
+  teiginys: "Minimas kaip stipriausia Podolės tvirtovė, kurią užėmė turkai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

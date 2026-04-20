@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Kraševskis
 
 ## Santrauka
-Šaltinyje Kraševskis minimas autorystės, redagavimo arba tyrimo kontekste: Minimas tarp universiteto auklėtinių, kurių raštai idealizavo Lietuvos senovę.
+Minimas tarp universiteto auklėtinių, kurių raštai idealizavo Lietuvos senovę.
 
 ## Darbai
 - Minimas tarp universiteto auklėtinių, kurių raštai idealizavo Lietuvos senovę. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Kraševskis autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas tarp universiteto auklėtinių, kurių raštai idealizavo Lietuvos senovę."
+  teiginys: "Minimas tarp universiteto auklėtinių, kurių raštai idealizavo Lietuvos senovę."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

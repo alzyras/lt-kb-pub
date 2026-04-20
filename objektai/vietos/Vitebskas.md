@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Vitebskas
 
 ## Santrauka
-Šaltinyje vieta „Vitebskas“ siejama su šiuo kontekstu: Vitebskas minimas kaip Kęstučio ir vėliau Jogailos šeimos nariams skirta valda. (t-001)
+Vitebskas minimas kaip Kęstučio ir vėliau Jogailos šeimos nariams skirta valda. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Vitebskas
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Vitebskas“ siejama su šiuo kontekstu: Vitebskas minimas kaip Kęstučio ir vėliau Jogailos šeimos nariams skirta valda."
+  teiginys: "Vitebskas minimas kaip Kęstučio ir vėliau Jogailos šeimos nariams skirta valda."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

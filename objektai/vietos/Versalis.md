@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Versalis
 
 ## Santrauka
-Šaltinyje vieta „Versalis“ siejama su šiuo kontekstu: Minimas kaip taikos konferencijos vieta, į kurią vyko Amerikos lietuvių delegatai. (t-001)
+Minimas kaip taikos konferencijos vieta, į kurią vyko Amerikos lietuvių delegatai. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Versalis
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Versalis“ siejama su šiuo kontekstu: Minimas kaip taikos konferencijos vieta, į kurią vyko Amerikos lietuvių delegatai."
+  teiginys: "Minimas kaip taikos konferencijos vieta, į kurią vyko Amerikos lietuvių delegatai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

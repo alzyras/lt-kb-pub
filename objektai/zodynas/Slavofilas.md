@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Slavofilas
 
 ## Santrauka
-Šaltinyje „Slavofilas“ vartojama taip: rusų srovės atstovas, pabrėžiantis Lietuvos žemių rusiškumą. (t-001)
+rusų srovės atstovas, pabrėžiantis Lietuvos žemių rusiškumą. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Slavofilas
@@ -52,7 +52,7 @@ Terminas šaltinyje vartojamas šiame kontekste: ideologija, rusinimo politika. 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Slavofilas“ vartojama taip: rusų srovės atstovas, pabrėžiantis Lietuvos žemių rusiškumą."
+  teiginys: "rusų srovės atstovas, pabrėžiantis Lietuvos žemių rusiškumą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

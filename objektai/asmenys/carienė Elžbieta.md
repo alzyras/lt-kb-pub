@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # carienė Elžbieta
 
 ## Santrauka
-Šaltinyje carienė Elžbieta apibūdinamas taip: Minima kaip Rusijos carienė, valdžiusi Augusto III laikų pabaigoje.
+Minima kaip Rusijos carienė, valdžiusi Augusto III laikų pabaigoje.
 
 ## Variantai
 - carienės Elžbietos
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje carienė Elžbieta apibūdinamas taip: Minima kaip Rusijos carienė, valdžiusi Augusto III laikų pabaigoje."
+  teiginys: "Minima kaip Rusijos carienė, valdžiusi Augusto III laikų pabaigoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

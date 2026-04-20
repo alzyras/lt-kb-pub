@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Zbignevas Olesnickis
 
 ## Santrauka
-Šaltinyje Zbignevas Olesnickis apibūdinamas taip: Lenkų ponų tarybos vadovas, priešinęsis Vytauto karūnacijai.
+Lenkų ponų tarybos vadovas, priešinęsis Vytauto karūnacijai.
 
 ## Variantai
 - vysk. Zbignevas Olesnickis
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Zbignevas Olesnickis apibūdinamas taip: Lenkų ponų tarybos vadovas, priešinęsis Vytauto karūnacijai."
+  teiginys: "Lenkų ponų tarybos vadovas, priešinęsis Vytauto karūnacijai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

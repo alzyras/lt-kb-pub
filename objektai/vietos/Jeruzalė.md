@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Jeruzalė
 
 ## Santrauka
-Šaltinyje vieta „Jeruzalė“ siejama su šiuo kontekstu: Minima kaip vieta, į kurią traukė maldininkai ir kurią vėl užėmę turkai kėlė pavojų. (t-001)
+Minima kaip vieta, į kurią traukė maldininkai ir kurią vėl užėmę turkai kėlė pavojų. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Jeruzalė
@@ -49,7 +49,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Jeruzalė“ siejama su šiuo kontekstu: Minima kaip vieta, į kurią traukė maldininkai ir kurią vėl užėmę turkai kėlė pavojų."
+  teiginys: "Minima kaip vieta, į kurią traukė maldininkai ir kurią vėl užėmę turkai kėlė pavojų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

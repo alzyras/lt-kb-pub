@@ -24,7 +24,7 @@ patikimumas: "vidutinis"
 # Zigmanto II antkapis Krokuvos katedroje
 
 ## Santrauka
-Šaltinyje „Zigmanto II antkapis Krokuvos katedroje“ siejamas su šiuo kontekstu: Paveikslo antraštėje tiesiogiai įvardytas Zigmanto II antkapis Krokuvos katedroje.
+Paveikslo antraštėje tiesiogiai įvardytas Zigmanto II antkapis Krokuvos katedroje.
 
 ## Pavadinimai šaltiniuose
 - Zigmanto II antkapis Krokuvos katedroje
@@ -39,11 +39,10 @@ patikimumas: "vidutinis"
 - date_end:
 
 ## Kas tai
-Šaltinyje „Zigmanto II antkapis Krokuvos katedroje“ siejamas su šiuo kontekstu: Paveikslo antraštėje tiesiogiai įvardytas Zigmanto II antkapis Krokuvos katedroje.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Zigmanto II antkapis Krokuvos katedroje“ siejamas su šiuo kontekstu: Paveikslo antraštėje tiesiogiai įvardytas Zigmanto II antkapis Krokuvos katedroje."
+  teiginys: "Paveikslo antraštėje tiesiogiai įvardytas Zigmanto II antkapis Krokuvos katedroje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

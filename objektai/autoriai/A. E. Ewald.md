@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # A. E. Ewald
 
 ## Santrauka
-Šaltinyje A. E. Ewald minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip Vokiečių ordino Prūsijoje užkariavimo autorius.
+Bibliografijoje nurodytas kaip Vokiečių ordino Prūsijoje užkariavimo autorius.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip Vokiečių ordino Prūsijoje užkariavimo autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje A. E. Ewald autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip Vokiečių ordino Prūsijoje užkariavimo autorius."
+  teiginys: "Bibliografijoje nurodytas kaip Vokiečių ordino Prūsijoje užkariavimo autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

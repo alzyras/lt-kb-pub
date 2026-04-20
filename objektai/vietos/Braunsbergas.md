@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Braunsbergas
 
 ## Santrauka
-Šaltinyje vieta „Braunsbergas“ siejama su šiuo kontekstu: Nurodomas kaip Varmijos vyskupystės centras, kuriame buvo įkurdinti jėzuitai. (t-001)
+Nurodomas kaip Varmijos vyskupystės centras, kuriame buvo įkurdinti jėzuitai. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Braunsbergas
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Braunsbergas“ siejama su šiuo kontekstu: Nurodomas kaip Varmijos vyskupystės centras, kuriame buvo įkurdinti jėzuitai."
+  teiginys: "Nurodomas kaip Varmijos vyskupystės centras, kuriame buvo įkurdinti jėzuitai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

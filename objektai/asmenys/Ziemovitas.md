@@ -23,11 +23,11 @@ patikimumas: "aukstas"
 # Ziemovitas
 
 ## Santrauka
-Šaltinyje Ziemovitas apibūdinamas taip: Mozūrų kunigaikštis, pretendavęs į Jadvygos ranką.
+Mozūrų kunigaikštis, pretendavęs į Jadvygos ranką.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Ziemovitas apibūdinamas taip: Mozūrų kunigaikštis, pretendavęs į Jadvygos ranką."
+  teiginys: "Mozūrų kunigaikštis, pretendavęs į Jadvygos ranką."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

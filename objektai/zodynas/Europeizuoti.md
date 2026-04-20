@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Europeizuoti
 
 ## Santrauka
-Šaltinyje „Europeizuoti“ vartojama taip: Pritaikyti ar priartinti prie Vakarų Europos kultūros ir santvarkos. (t-001)
+Pritaikyti ar priartinti prie Vakarų Europos kultūros ir santvarkos. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Europeizuoti
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: kultūros istorija, politinė r
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Europeizuoti“ vartojama taip: Pritaikyti ar priartinti prie Vakarų Europos kultūros ir santvarkos."
+  teiginys: "Pritaikyti ar priartinti prie Vakarų Europos kultūros ir santvarkos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

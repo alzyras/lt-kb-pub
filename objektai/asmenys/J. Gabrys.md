@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # J. Gabrys
 
 ## Santrauka
-Šaltinyje J. Gabrys apibūdinamas taip: Paryžiuje įsteigtas lietuvių informacijos biuras, išlaikomas amerikiečių pinigais.
+Paryžiuje įsteigtas lietuvių informacijos biuras, išlaikomas amerikiečių pinigais.
 
 ## Variantai
 - J. Gabrio
@@ -42,7 +42,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje J. Gabrys apibūdinamas taip: Paryžiuje įsteigtas lietuvių informacijos biuras, išlaikomas amerikiečių pinigais."
+  teiginys: "Paryžiuje įsteigtas lietuvių informacijos biuras, išlaikomas amerikiečių pinigais."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Komuliejus
 
 ## Santrauka
-Šaltinyje Komuliejus apibūdinamas taip: Minimas kaip Vilniaus vyskupiją vizitavęs nuncijo atsiųstas pralotas.
+Minimas kaip Vilniaus vyskupiją vizitavęs nuncijo atsiųstas pralotas.
 
 ## Variantai
 - Comuleus
@@ -42,7 +42,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Komuliejus apibūdinamas taip: Minimas kaip Vilniaus vyskupiją vizitavęs nuncijo atsiųstas pralotas."
+  teiginys: "Minimas kaip Vilniaus vyskupiją vizitavęs nuncijo atsiųstas pralotas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

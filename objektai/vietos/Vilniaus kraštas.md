@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Vilniaus kraštas
 
 ## Santrauka
-Šaltinyje vieta „Vilniaus kraštas“ siejama su šiuo kontekstu: Minimas kaip pabėgėlių ir tremtinių kelio pradžios vieta. (t-001)
+Minimas kaip pabėgėlių ir tremtinių kelio pradžios vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Vilniaus kraštas
@@ -42,7 +42,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Vilniaus kraštas“ siejama su šiuo kontekstu: Minimas kaip pabėgėlių ir tremtinių kelio pradžios vieta."
+  teiginys: "Minimas kaip pabėgėlių ir tremtinių kelio pradžios vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Bravoras
 
 ## Santrauka
-Šaltinyje „Bravoras“ vartojama taip: Degtinės varykla arba dvaro alkoholio gamybos įrenginys. (t-001)
+Degtinės varykla arba dvaro alkoholio gamybos įrenginys. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Bravoras
@@ -50,7 +50,7 @@ Terminas šaltinyje vartojamas šiame kontekste: ūkio istorija, alkoholio gamyb
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Bravoras“ vartojama taip: Degtinės varykla arba dvaro alkoholio gamybos įrenginys."
+  teiginys: "Degtinės varykla arba dvaro alkoholio gamybos įrenginys."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

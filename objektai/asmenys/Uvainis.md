@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Uvainis
 
 ## Santrauka
-Šaltinyje Uvainis apibūdinamas taip: Minimas kaip numatytas Vilniaus universiteto lietuvių kalbos katedros vedėjas.
+Minimas kaip numatytas Vilniaus universiteto lietuvių kalbos katedros vedėjas.
 
 ## Laikotarpis ir datos
 - laikotarpis: 1822 m.
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Uvainis apibūdinamas taip: Minimas kaip numatytas Vilniaus universiteto lietuvių kalbos katedros vedėjas."
+  teiginys: "Minimas kaip numatytas Vilniaus universiteto lietuvių kalbos katedros vedėjas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,14 +27,13 @@ patikimumas: "vidutinis"
 # Seimo pradžios pamaldos ir pamokslas
 
 ## Santrauka
-Šaltinyje minima praktika „Seimo pradžios pamaldos ir pamokslas“ siejama su formuluote: Kiekvienas seimas prasidėdavo pamaldomis ir pamokslu. Šaltinio kontekste nurodoma: kas atlieka: seimo dalyviai; kada atliekama: kiekvieno seimo pradžioje. (t-001)
+Kiekvienas seimas prasidėdavo pamaldomis ir pamokslu. Šaltinio kontekste nurodoma: kas atlieka: seimo dalyviai; kada atliekama: kiekvieno seimo pradžioje. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kiekvienas seimas prasidėdavo pamaldomis ir pamokslu
 
 ## Kas tai
-Šaltinyje minima praktika „Seimo pradžios pamaldos ir pamokslas“ siejama su formuluote: Kiekvienas seimas prasidėdavo pamaldomis ir pamokslu. Šaltinio kontekste nurodoma: kas atlieka: seimo dalyviai; kada atliekama: kiekvieno seimo pradžioje. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: seimo dalyviai (t-001)
 - kada atliekama: kiekvieno seimo pradžioje (t-001)
@@ -42,7 +41,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Seimo pradžios pamaldos ir pamokslas“ siejama su formuluote: Kiekvienas seimas prasidėdavo pamaldomis ir pamokslu. Šaltinio kontekste nurodoma: kas atlieka: seimo dalyviai; kada atliekama: kiekvieno seimo pradžioje."
+  teiginys: "Kiekvienas seimas prasidėdavo pamaldomis ir pamokslu. Šaltinio kontekste nurodoma: kas atlieka: seimo dalyviai; kada atliekama: kiekvieno seimo pradžioje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

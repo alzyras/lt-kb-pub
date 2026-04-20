@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Chanatas
 
 ## Santrauka
-Šaltinyje „Chanatas“ vartojama taip: Chano valdoma valstybė, chanato tipo politinis vienetas. (t-001)
+Chano valdoma valstybė, chanato tipo politinis vienetas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Chanatas
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: politinė istorija, totorių va
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Chanatas“ vartojama taip: Chano valdoma valstybė, chanato tipo politinis vienetas."
+  teiginys: "Chano valdoma valstybė, chanato tipo politinis vienetas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

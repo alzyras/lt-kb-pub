@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Čekai
 
 ## Santrauka
-Šaltinyje „Čekai“ apibūdinama kaip tauta; čekai minimi kartu su Vengrais kaip valdovų grupė, kurios sostuose Kazimieras įsitvirtino savo sūnų pagalba. (t-001)
+tauta; čekai minimi kartu su Vengrais kaip valdovų grupė, kurios sostuose Kazimieras įsitvirtino savo sūnų pagalba. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Čekai
@@ -38,14 +38,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: tauta
-Šaltinyje „Čekai“ apibūdinama kaip tauta; čekai minimi kartu su Vengrais kaip valdovų grupė, kurios sostuose Kazimieras įsitvirtino savo sūnų pagalba. (t-001)
+tauta; čekai minimi kartu su Vengrais kaip valdovų grupė, kurios sostuose Kazimieras įsitvirtino savo sūnų pagalba. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Čekai“ apibūdinama kaip tauta; čekai minimi kartu su Vengrais kaip valdovų grupė, kurios sostuose Kazimieras įsitvirtino savo sūnų pagalba. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Čekai“ apibūdinama kaip tauta; čekai minimi kartu su Vengrais kaip valdovų grupė, kurios sostuose Kazimieras įsitvirtino savo sūnų pagalba."
+  teiginys: "tauta; čekai minimi kartu su Vengrais kaip valdovų grupė, kurios sostuose Kazimieras įsitvirtino savo sūnų pagalba."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

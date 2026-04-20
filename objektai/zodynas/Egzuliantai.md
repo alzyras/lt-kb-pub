@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Egzuliantai
 
 ## Santrauka
-Šaltinyje „Egzuliantai“ vartojama taip: Tremtiniai arba pabėgėliai iš prarastų žemių. (t-001)
+Tremtiniai arba pabėgėliai iš prarastų žemių. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Egzuliantai
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: socialinė istorija, bajorijos 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Egzuliantai“ vartojama taip: Tremtiniai arba pabėgėliai iš prarastų žemių."
+  teiginys: "Tremtiniai arba pabėgėliai iš prarastų žemių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

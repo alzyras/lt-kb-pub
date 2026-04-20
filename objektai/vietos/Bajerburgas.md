@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Bajerburgas
 
 ## Santrauka
-Šaltinyje vieta „Bajerburgas“ siejama su šiuo kontekstu: Minima kaip viena iš ordino naujų pilių prie Nemuno. (t-001)
+Minima kaip viena iš ordino naujų pilių prie Nemuno. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Bajerburgas
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Bajerburgas“ siejama su šiuo kontekstu: Minima kaip viena iš ordino naujų pilių prie Nemuno."
+  teiginys: "Minima kaip viena iš ordino naujų pilių prie Nemuno."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

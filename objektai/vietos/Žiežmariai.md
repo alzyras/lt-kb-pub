@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Žiežmariai
 
 ## Santrauka
-Šaltinyje vieta „Žiežmariai“ siejama su šiuo kontekstu: Minimi kaip ordino žygio į Aukštaičius pasiektas taškas prieš Strėvos mūšį. (t-001)
+Minimi kaip ordino žygio į Aukštaičius pasiektas taškas prieš Strėvos mūšį. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Žiežmariai
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Žiežmariai“ siejama su šiuo kontekstu: Minimi kaip ordino žygio į Aukštaičius pasiektas taškas prieš Strėvos mūšį."
+  teiginys: "Minimi kaip ordino žygio į Aukštaičius pasiektas taškas prieš Strėvos mūšį."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

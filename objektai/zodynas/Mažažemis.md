@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Mažažemis
 
 ## Santrauka
-Šaltinyje „Mažažemis“ vartojama taip: Nedidelį žemės plotą turintis valstietis ar ūkininkas. (t-001)
+Nedidelį žemės plotą turintis valstietis ar ūkininkas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Mažažemis
@@ -54,7 +54,7 @@ Terminas šaltinyje vartojamas šiame kontekste: agrarinė istorija, socialinė 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Mažažemis“ vartojama taip: Nedidelį žemės plotą turintis valstietis ar ūkininkas."
+  teiginys: "Nedidelį žemės plotą turintis valstietis ar ūkininkas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

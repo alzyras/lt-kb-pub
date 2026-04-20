@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Livoniškoji ordino šaka
 
 ## Santrauka
-Šaltinyje „Livoniškoji ordino šaka“ apibūdinama kaip ordino šaka; livoniškoji ordino šaka minima kaip atskira karinė ordino dalis, su kuria buvo sudarytos paliaubos prieš Tanenbergo mūšį. (t-001)
+ordino šaka; livoniškoji ordino šaka minima kaip atskira karinė ordino dalis, su kuria buvo sudarytos paliaubos prieš Tanenbergo mūšį. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Livoniškoji ordino šaka
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: ordino šaka
-Šaltinyje „Livoniškoji ordino šaka“ apibūdinama kaip ordino šaka; livoniškoji ordino šaka minima kaip atskira karinė ordino dalis, su kuria buvo sudarytos paliaubos prieš Tanenbergo mūšį. (t-001)
+ordino šaka; livoniškoji ordino šaka minima kaip atskira karinė ordino dalis, su kuria buvo sudarytos paliaubos prieš Tanenbergo mūšį. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Livoniškoji ordino šaka“ apibūdinama kaip ordino šaka; livoniškoji ordino šaka minima kaip atskira karinė ordino dalis, su kuria buvo sudarytos paliaubos prieš Tanenbergo mūšį. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Livoniškoji ordino šaka“ apibūdinama kaip ordino šaka; livoniškoji ordino šaka minima kaip atskira karinė ordino dalis, su kuria buvo sudarytos paliaubos prieš Tanenbergo mūšį."
+  teiginys: "ordino šaka; livoniškoji ordino šaka minima kaip atskira karinė ordino dalis, su kuria buvo sudarytos paliaubos prieš Tanenbergo mūšį."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

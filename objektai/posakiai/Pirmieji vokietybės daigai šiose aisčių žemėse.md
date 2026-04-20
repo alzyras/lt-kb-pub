@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Pirmieji vokietybės daigai šiose aisčių žemėse
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Pirmieji vokietybės daigai šiose aisčių žemėse“; kontekstas: Aprašomi prie pilių kurdinami iš Vokietijos atkviesti kolonistai ir jų reikšmė vokiečių įsitvirtinimui aisčių žemėse. Reikšmė: Tai vaizdinga metafora apie ankstyvą vokiečių kolonizaciją. (t-001)
+Užfiksuota formuluotė „Pirmieji vokietybės daigai šiose aisčių žemėse“; kontekstas: Aprašomi prie pilių kurdinami iš Vokietijos atkviesti kolonistai ir jų reikšmė vokiečių įsitvirtinimui aisčių žemėse. Reikšmė: Tai vaizdinga metafora apie ankstyvą vokiečių kolonizaciją. (t-001)
 
 ## Forma
 - pagrindinė forma: Pirmieji vokietybės daigai šiose aisčių žemėse (t-001)
@@ -35,7 +35,7 @@ patikimumas: "vidutinis"
 - pirmieji vokietybės daigai šiose aisčių žemėse
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Aprašomi prie pilių kurdinami iš Vokietijos atkviesti kolonistai ir jų reikšmė vokiečių įsitvirtinimui aisčių žemėse. (t-001)
@@ -45,7 +45,7 @@ Tai vaizdinga metafora apie ankstyvą vokiečių kolonizaciją. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Pirmieji vokietybės daigai šiose aisčių žemėse“; kontekstas: Aprašomi prie pilių kurdinami iš Vokietijos atkviesti kolonistai ir jų reikšmė vokiečių įsitvirtinimui aisčių žemėse."
+  teiginys: "Užfiksuota formuluotė „Pirmieji vokietybės daigai šiose aisčių žemėse“; kontekstas: Aprašomi prie pilių kurdinami iš Vokietijos atkviesti kolonistai ir jų reikšmė vokiečių įsitvirtinimui aisčių žemėse."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

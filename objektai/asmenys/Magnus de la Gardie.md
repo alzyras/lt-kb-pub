@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Magnus de la Gardie
 
 ## Santrauka
-Šaltinyje Magnus de la Gardie apibūdinamas taip: Minimas kaip švedų generolas, vadovavęs kariuomenei, turėjusiai įsiveržti į Lietuvą.
+Minimas kaip švedų generolas, vadovavęs kariuomenei, turėjusiai įsiveržti į Lietuvą.
 
 ## Variantai
 - Gardys
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Magnus de la Gardie apibūdinamas taip: Minimas kaip švedų generolas, vadovavęs kariuomenei, turėjusiai įsiveržti į Lietuvą."
+  teiginys: "Minimas kaip švedų generolas, vadovavęs kariuomenei, turėjusiai įsiveržti į Lietuvą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Turovas
 
 ## Santrauka
-Šaltinyje vieta „Turovas“ siejama su šiuo kontekstu: Minimas kartu su Pinsko kunigaikštyste kaip Vytenio prijungta sritis. (t-001)
+Minimas kartu su Pinsko kunigaikštyste kaip Vytenio prijungta sritis. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Turovas
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Turovas“ siejama su šiuo kontekstu: Minimas kartu su Pinsko kunigaikštyste kaip Vytenio prijungta sritis."
+  teiginys: "Minimas kartu su Pinsko kunigaikštyste kaip Vytenio prijungta sritis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

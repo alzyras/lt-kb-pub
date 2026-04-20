@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Sinodas
 
 ## Santrauka
-Šaltinyje „Sinodas“ vartojama taip: Bažnytinis susirinkimas. (t-001)
+Bažnytinis susirinkimas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Sinodas
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: bažnytinė istorija. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Sinodas“ vartojama taip: Bažnytinis susirinkimas."
+  teiginys: "Bažnytinis susirinkimas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

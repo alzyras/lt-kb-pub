@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Benediktas XV
 
 ## Santrauka
-Šaltinyje Benediktas XV apibūdinamas taip: Minimas kaip popiežius, per kurį buvo išrūpinta rinkliavos diena.
+Minimas kaip popiežius, per kurį buvo išrūpinta rinkliavos diena.
 
 ## Variantai
 - Benedikto XV
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Benediktas XV apibūdinamas taip: Minimas kaip popiežius, per kurį buvo išrūpinta rinkliavos diena."
+  teiginys: "Minimas kaip popiežius, per kurį buvo išrūpinta rinkliavos diena."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

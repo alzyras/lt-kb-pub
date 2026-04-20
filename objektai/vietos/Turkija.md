@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Turkija
 
 ## Santrauka
-Šaltinyje vieta „Turkija“ siejama su šiuo kontekstu: Minima kaip vieta, iš kurios Karolis XII buvo priverstas išsidanginti. (t-001)
+Minima kaip vieta, iš kurios Karolis XII buvo priverstas išsidanginti. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Turkija
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Turkija“ siejama su šiuo kontekstu: Minima kaip vieta, iš kurios Karolis XII buvo priverstas išsidanginti."
+  teiginys: "Minima kaip vieta, iš kurios Karolis XII buvo priverstas išsidanginti."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

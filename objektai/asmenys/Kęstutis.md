@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Kęstutis
 
 ## Santrauka
-Šaltinyje Kęstutis apibūdinamas taip: Paminėtas kartu su Kęstučiu kaip atskiro laikotarpio valdovas.
+Paminėtas kartu su Kęstučiu kaip atskiro laikotarpio valdovas.
 
 ## Variantai
 - Kęstučio
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Kęstutis apibūdinamas taip: Paminėtas kartu su Kęstučiu kaip atskiro laikotarpio valdovas."
+  teiginys: "Paminėtas kartu su Kęstučiu kaip atskiro laikotarpio valdovas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

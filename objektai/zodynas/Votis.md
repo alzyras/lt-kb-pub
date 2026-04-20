@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Votis
 
 ## Santrauka
-Šaltinyje „Votis“ vartojama taip: Pūlinys, guzys arba žaizda ant kūno. (t-001)
+Pūlinys, guzys arba žaizda ant kūno. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Votis
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: archajiška medicininė leksika
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Votis“ vartojama taip: Pūlinys, guzys arba žaizda ant kūno."
+  teiginys: "Pūlinys, guzys arba žaizda ant kūno."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

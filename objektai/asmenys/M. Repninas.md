@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # M. Repninas
 
 ## Santrauka
-Šaltinyje M. Repninas apibūdinamas taip: Paveikslo antraštėje nurodytas kaip Rusijos ambasadorius ir vėlesnis pirmasis Rusų generalgubernatorius Lietuvoje.
+Paveikslo antraštėje nurodytas kaip Rusijos ambasadorius ir vėlesnis pirmasis Rusų generalgubernatorius Lietuvoje.
 
 ## Variantai
 - Repninas
@@ -42,7 +42,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje M. Repninas apibūdinamas taip: Paveikslo antraštėje nurodytas kaip Rusijos ambasadorius ir vėlesnis pirmasis Rusų generalgubernatorius Lietuvoje."
+  teiginys: "Paveikslo antraštėje nurodytas kaip Rusijos ambasadorius ir vėlesnis pirmasis Rusų generalgubernatorius Lietuvoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

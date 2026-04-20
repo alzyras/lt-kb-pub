@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # R. Valsanokas
 
 ## Santrauka
-Šaltinyje R. Valsanokas minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip Klaipėdos problemos autorius.
+Minimas kaip Klaipėdos problemos autorius.
 
 ## Darbai
 - Minimas kaip Klaipėdos problemos autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje R. Valsanokas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip Klaipėdos problemos autorius."
+  teiginys: "Minimas kaip Klaipėdos problemos autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

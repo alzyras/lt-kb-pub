@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Ekskomunikacija
 
 ## Santrauka
-Šaltinyje „Ekskomunikacija“ vartojama taip: Bažnytinė nuobauda, atskirianti nuo Bažnyčios. (t-001)
+Bažnytinė nuobauda, atskirianti nuo Bažnyčios. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Ekskomunikacija
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: bažnytinė drausmė, kanoninė
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Ekskomunikacija“ vartojama taip: Bažnytinė nuobauda, atskirianti nuo Bažnyčios."
+  teiginys: "Bažnytinė nuobauda, atskirianti nuo Bažnyčios."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

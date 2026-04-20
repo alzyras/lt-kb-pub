@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Goethė
 
 ## Santrauka
-Šaltinyje Goethė minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kartu su Lesingu ir Herderiu kaip vokiečių autoritetas, susižavėjęs lietuvių liaudies dainomis.
+Minimas kartu su Lesingu ir Herderiu kaip vokiečių autoritetas, susižavėjęs lietuvių liaudies dainomis.
 
 ## Darbai
 - Minimas kartu su Lesingu ir Herderiu kaip vokiečių autoritetas, susižavėjęs lietuvių liaudies dainomis. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Goethė autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kartu su Lesingu ir Herderiu kaip vokiečių autoritetas, susižavėjęs lietuvių liaudies dainomis."
+  teiginys: "Minimas kartu su Lesingu ir Herderiu kaip vokiečių autoritetas, susižavėjęs lietuvių liaudies dainomis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

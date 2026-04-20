@@ -40,7 +40,7 @@ patikimumas: "aukstas"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Lietuvių Laikraštis“ tai pirmuoju po spaudos atgavimo pavadintas lietuviškas laikraštis.
+tai pirmuoju po spaudos atgavimo pavadintas lietuviškas laikraštis.
 
 ## Ryšiai
 
@@ -49,7 +49,7 @@ patikimumas: "aukstas"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Lietuvių Laikraštis“ tai pirmuoju po spaudos atgavimo pavadintas lietuviškas laikraštis."
+  teiginys: "tai pirmuoju po spaudos atgavimo pavadintas lietuviškas laikraštis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

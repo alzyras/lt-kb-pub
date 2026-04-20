@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Alšėnai
 
 ## Santrauka
-Šaltinyje vieta „Alšėnai“ siejama su šiuo kontekstu: Minimi kaip Lietuvos didikų susirinkimo vieta, kur išrinktas Kazimieras. (t-001)
+Minimi kaip Lietuvos didikų susirinkimo vieta, kur išrinktas Kazimieras. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Alšėnai
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Alšėnai“ siejama su šiuo kontekstu: Minimi kaip Lietuvos didikų susirinkimo vieta, kur išrinktas Kazimieras."
+  teiginys: "Minimi kaip Lietuvos didikų susirinkimo vieta, kur išrinktas Kazimieras."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

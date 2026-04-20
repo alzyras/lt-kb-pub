@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Horodlė
 
 ## Santrauka
-Šaltinyje vieta „Horodlė“ siejama su šiuo kontekstu: Minima kaip bendro Lietuvos ir Lenkijos valdovų bei bajorų suvažiavimo vieta. (t-001)
+Minima kaip bendro Lietuvos ir Lenkijos valdovų bei bajorų suvažiavimo vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Horodlė
@@ -49,7 +49,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Horodlė“ siejama su šiuo kontekstu: Minima kaip bendro Lietuvos ir Lenkijos valdovų bei bajorų suvažiavimo vieta."
+  teiginys: "Minima kaip bendro Lietuvos ir Lenkijos valdovų bei bajorų suvažiavimo vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

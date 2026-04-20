@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # Voina
 
 ## Santrauka
-Šaltinyje Voina apibūdinamas taip: Minimas kaip belaisvis, kurį Valkininkuose užkapojo bajorija.
+Minimas kaip belaisvis, kurį Valkininkuose užkapojo bajorija.
 
 ## Variantai
 - Voiną
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Voina apibūdinamas taip: Minimas kaip belaisvis, kurį Valkininkuose užkapojo bajorija."
+  teiginys: "Minimas kaip belaisvis, kurį Valkininkuose užkapojo bajorija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

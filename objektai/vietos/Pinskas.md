@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Pinskas
 
 ## Santrauka
-Šaltinyje vieta „Pinskas“ siejama su šiuo kontekstu: Minimas kaip Vaišvilko gyvenamoji vieta. (t-001)
+Minimas kaip Vaišvilko gyvenamoji vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Pinskas
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Pinskas“ siejama su šiuo kontekstu: Minimas kaip Vaišvilko gyvenamoji vieta."
+  teiginys: "Minimas kaip Vaišvilko gyvenamoji vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

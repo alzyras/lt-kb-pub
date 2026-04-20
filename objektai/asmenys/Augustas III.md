@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Augustas III
 
 ## Santrauka
-Šaltinyje Augustas III apibūdinamas taip: Paminėtas kaip svetimųjų pastatytasis karalius. Šaltinyje Augustas III apibūdinamas taip: Minimas kaip Augusto II sūnus, gavęs sostą ir nurodytas kaip Lietuvos kunigaikštis, Lenkų karalius ir Saksų elektorius.
+Paminėtas kaip svetimųjų pastatytasis karalius. Minimas kaip Augusto II sūnus, gavęs sostą ir nurodytas kaip Lietuvos kunigaikštis, Lenkų karalius ir Saksų elektorius.
 
 ## Variantai
 - Augusto III
@@ -44,13 +44,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Augustas III apibūdinamas taip: Paminėtas kaip svetimųjų pastatytasis karalius."
+  teiginys: "Paminėtas kaip svetimųjų pastatytasis karalius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje Augustas III apibūdinamas taip: Minimas kaip Augusto II sūnus, gavęs sostą ir nurodytas kaip Lietuvos kunigaikštis, Lenkų karalius ir Saksų elektorius."
+  teiginys: "Minimas kaip Augusto II sūnus, gavęs sostą ir nurodytas kaip Lietuvos kunigaikštis, Lenkų karalius ir Saksų elektorius."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

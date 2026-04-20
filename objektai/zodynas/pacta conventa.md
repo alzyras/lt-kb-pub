@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # pacta conventa
 
 ## Santrauka
-Šaltinyje „pacta conventa“ vartojama taip: Valdovo priimtos rinkimų sąlygos ir įsipareigojimai. (t-001)
+Valdovo priimtos rinkimų sąlygos ir įsipareigojimai. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: pacta conventa
@@ -48,7 +48,7 @@ Terminas šaltinyje vartojamas šiame kontekste: valdovų rinkimai, politinė is
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „pacta conventa“ vartojama taip: Valdovo priimtos rinkimų sąlygos ir įsipareigojimai."
+  teiginys: "Valdovo priimtos rinkimų sąlygos ir įsipareigojimai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

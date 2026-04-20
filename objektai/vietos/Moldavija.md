@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Moldavija
 
 ## Santrauka
-Šaltinyje vieta „Moldavija“ siejama su šiais kontekstais: Minima kaip žygio kryptis prieš turkus; Minima kaip imperatoriaus pažadėtas Sobieskio sūnaus karo laimėjimas. (t-001, t-002)
+Minima kaip žygio kryptis prieš turkus; Minima kaip imperatoriaus pažadėtas Sobieskio sūnaus karo laimėjimas. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Moldavija
@@ -48,13 +48,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Moldavija“ siejama su šiuo kontekstu: Minima kaip žygio kryptis prieš turkus."
+  teiginys: "Minima kaip žygio kryptis prieš turkus."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Moldavija“ siejama su šiuo kontekstu: Minima kaip imperatoriaus pažadėtas Sobieskio sūnaus karo laimėjimas."
+  teiginys: "Minima kaip imperatoriaus pažadėtas Sobieskio sūnaus karo laimėjimas."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

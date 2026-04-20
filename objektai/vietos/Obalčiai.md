@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Obalčiai
 
 ## Santrauka
-Šaltinyje vieta „Obalčiai“ siejama su šiuo kontekstu: minima tarp pirmųjų krašto parapijų vietų po krikšto. (t-001)
+minima tarp pirmųjų krašto parapijų vietų po krikšto. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Obalčiai
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Obalčiai“ siejama su šiuo kontekstu: minima tarp pirmųjų krašto parapijų vietų po krikšto."
+  teiginys: "minima tarp pirmųjų krašto parapijų vietų po krikšto."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Žemaičiai
 
 ## Santrauka
-Šaltinyje „Žemaičiai“ apibūdinama kaip kiltis; žemaičiai minimi kaip Traidenio klaususi kiltis, o vėliau kaip bendrija, nuolat kovojusi su vokiečių ordinu ir pripažinusi Gedimino valdžią. (t-001) Šaltinyje „Žemaičiai“ siejama su šiuo kontekstu: Žemaičiai minimi kaip Traidenio klaususi kiltis, o vėliau kaip bendrija, nuolat kovojusi su vokiečių ordinu ir pripažinusi Gedimino valdžią. (t-002)
+kiltis; žemaičiai minimi kaip Traidenio klaususi kiltis, o vėliau kaip bendrija, nuolat kovojusi su vokiečių ordinu ir pripažinusi Gedimino valdžią. (t-001) Šaltinyje „Žemaičiai“ siejama su šiuo kontekstu: Žemaičiai minimi kaip Traidenio klaususi kiltis, o vėliau kaip bendrija, nuolat kovojusi su vokiečių ordinu ir pripažinusi Gedimino valdžią. (t-002)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Žemaičiai
@@ -38,7 +38,7 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: kiltis
-Šaltinyje „Žemaičiai“ apibūdinama kaip kiltis; žemaičiai minimi kaip Traidenio klaususi kiltis, o vėliau kaip bendrija, nuolat kovojusi su vokiečių ordinu ir pripažinusi Gedimino valdžią. (t-001)
+kiltis; žemaičiai minimi kaip Traidenio klaususi kiltis, o vėliau kaip bendrija, nuolat kovojusi su vokiečių ordinu ir pripažinusi Gedimino valdžią. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Žemaičiai“ apibūdinama kaip kiltis; žemaičiai minimi kaip Traidenio klaususi kiltis, o vėliau kaip bendrija, nuolat kovojusi su vokiečių ordinu ir pripažinusi Gedimino valdžią. (t-001)
@@ -46,13 +46,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Žemaičiai“ apibūdinama kaip kiltis; žemaičiai minimi kaip Traidenio klaususi kiltis, o vėliau kaip bendrija, nuolat kovojusi su vokiečių ordinu ir pripažinusi Gedimino valdžią."
+  teiginys: "kiltis; žemaičiai minimi kaip Traidenio klaususi kiltis, o vėliau kaip bendrija, nuolat kovojusi su vokiečių ordinu ir pripažinusi Gedimino valdžią."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Žemaičiai“ siejama su šiuo kontekstu: Žemaičiai minimi kaip Traidenio klaususi kiltis, o vėliau kaip bendrija, nuolat kovojusi su vokiečių ordinu ir pripažinusi Gedimino valdžią."
+  teiginys: "Žemaičiai minimi kaip Traidenio klaususi kiltis, o vėliau kaip bendrija, nuolat kovojusi su vokiečių ordinu ir pripažinusi Gedimino valdžią."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

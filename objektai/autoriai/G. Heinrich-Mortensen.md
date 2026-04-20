@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # G. Heinrich-Mortensen
 
 ## Santrauka
-Šaltinyje G. Heinrich-Mortensen minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip veikalų apie tautines ir gyvenamąsias sąlygas Mažojoje Lietuvoje autorius.
+Minimas kaip veikalų apie tautines ir gyvenamąsias sąlygas Mažojoje Lietuvoje autorius.
 
 ## Darbai
 - Minimas kaip veikalų apie tautines ir gyvenamąsias sąlygas Mažojoje Lietuvoje autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje G. Heinrich-Mortensen autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip veikalų apie tautines ir gyvenamąsias sąlygas Mažojoje Lietuvoje autorius."
+  teiginys: "Minimas kaip veikalų apie tautines ir gyvenamąsias sąlygas Mažojoje Lietuvoje autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Nereguliarūs žygiai
 
 ## Santrauka
-Šaltinyje „Nereguliarūs žygiai“ vartojama taip: Epizodiniai, proginiai karo žygiai, organizuojami ne pagal įprastą ciklą. (t-001)
+Epizodiniai, proginiai karo žygiai, organizuojami ne pagal įprastą ciklą. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Nereguliarūs žygiai
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: karyba, ordino žygiai, viduram
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Nereguliarūs žygiai“ vartojama taip: Epizodiniai, proginiai karo žygiai, organizuojami ne pagal įprastą ciklą."
+  teiginys: "Epizodiniai, proginiai karo žygiai, organizuojami ne pagal įprastą ciklą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

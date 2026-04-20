@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Krėva
 
 ## Santrauka
-Šaltinyje vieta „Krėva“ siejama su šiuo kontekstu: Krėva minima kaip Kęstučio kalinimo ir mirties vieta. (t-001)
+Krėva minima kaip Kęstučio kalinimo ir mirties vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Krėva
@@ -46,7 +46,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Krėva“ siejama su šiuo kontekstu: Krėva minima kaip Kęstučio kalinimo ir mirties vieta."
+  teiginys: "Krėva minima kaip Kęstučio kalinimo ir mirties vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

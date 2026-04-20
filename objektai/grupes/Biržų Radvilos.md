@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Biržų Radvilos
 
 ## Santrauka
-Šaltinyje „Biržų Radvilos“ apibūdinama kaip didikų giminė; giminė įvardyta kaip M. Radvilos Rudojo sūnūs ir kaip didžiausias protestantizmo rėmėjas. (t-001)
+didikų giminė; giminė įvardyta kaip M. Radvilos Rudojo sūnūs ir kaip didžiausias protestantizmo rėmėjas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Biržų Radvilos
@@ -38,14 +38,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: didikų giminė
-Šaltinyje „Biržų Radvilos“ apibūdinama kaip didikų giminė; giminė įvardyta kaip M. Radvilos Rudojo sūnūs ir kaip didžiausias protestantizmo rėmėjas. (t-001)
+didikų giminė; giminė įvardyta kaip M. Radvilos Rudojo sūnūs ir kaip didžiausias protestantizmo rėmėjas. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Biržų Radvilos“ apibūdinama kaip didikų giminė; giminė įvardyta kaip M. Radvilos Rudojo sūnūs ir kaip didžiausias protestantizmo rėmėjas. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Biržų Radvilos“ apibūdinama kaip didikų giminė; giminė įvardyta kaip M. Radvilos Rudojo sūnūs ir kaip didžiausias protestantizmo rėmėjas."
+  teiginys: "didikų giminė; giminė įvardyta kaip M. Radvilos Rudojo sūnūs ir kaip didžiausias protestantizmo rėmėjas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

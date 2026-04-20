@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Daumantas
 
 ## Santrauka
-Šaltinyje Daumantas apibūdinamas taip: Nalšėnų kunigaikštis, vadovavęs Mindaugo kariuomenei prieš Briansko kunigaikštį.
+Nalšėnų kunigaikštis, vadovavęs Mindaugo kariuomenei prieš Briansko kunigaikštį.
 
 ## Variantai
 - Daumantą
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Daumantas apibūdinamas taip: Nalšėnų kunigaikštis, vadovavęs Mindaugo kariuomenei prieš Briansko kunigaikštį."
+  teiginys: "Nalšėnų kunigaikštis, vadovavęs Mindaugo kariuomenei prieš Briansko kunigaikštį."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

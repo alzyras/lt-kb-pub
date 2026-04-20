@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Sukilimo pasaka
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Sukilimo pasaka“; kontekstas: Lenkija teisina Želigovskio žygį pramanyta tariamo sukilimo istorija. Reikšmė: Propagandinis pasakojimas apie tariamą sukilimą, kuriuo bandoma pateisinti Vilniaus užėmimą. (t-001)
+Užfiksuota formuluotė „Sukilimo pasaka“; kontekstas: Lenkija teisina Želigovskio žygį pramanyta tariamo sukilimo istorija. Reikšmė: Propagandinis pasakojimas apie tariamą sukilimą, kuriuo bandoma pateisinti Vilniaus užėmimą. (t-001)
 
 ## Forma
 - pagrindinė forma: Sukilimo pasaka (t-001)
@@ -35,7 +35,7 @@ patikimumas: "vidutinis"
 - „sukilimo" pasaka
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Lenkija teisina Želigovskio žygį pramanyta tariamo sukilimo istorija. (t-001)
@@ -45,7 +45,7 @@ Propagandinis pasakojimas apie tariamą sukilimą, kuriuo bandoma pateisinti Vil
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Sukilimo pasaka“; kontekstas: Lenkija teisina Želigovskio žygį pramanyta tariamo sukilimo istorija."
+  teiginys: "Užfiksuota formuluotė „Sukilimo pasaka“; kontekstas: Lenkija teisina Želigovskio žygį pramanyta tariamo sukilimo istorija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

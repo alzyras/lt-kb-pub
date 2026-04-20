@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Montevidėjus
 
 ## Santrauka
-Šaltinyje vieta „Montevidėjus“ siejama su šiuo kontekstu: Minimas kaip Urugvajaus sostinė ir lietuvių tautiško darbo centras. (t-001)
+Minimas kaip Urugvajaus sostinė ir lietuvių tautiško darbo centras. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Montevidėjus
@@ -46,7 +46,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Montevidėjus“ siejama su šiuo kontekstu: Minimas kaip Urugvajaus sostinė ir lietuvių tautiško darbo centras."
+  teiginys: "Minimas kaip Urugvajaus sostinė ir lietuvių tautiško darbo centras."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

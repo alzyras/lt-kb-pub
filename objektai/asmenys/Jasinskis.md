@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Jasinskis
 
 ## Santrauka
-Šaltinyje Jasinskis apibūdinamas taip: Minimas kaip Lietuvos sukilimo karinę vadovybę perėmęs pulkininkas.
+Minimas kaip Lietuvos sukilimo karinę vadovybę perėmęs pulkininkas.
 
 ## Variantai
 - pulkininkas Jasinskis
@@ -42,7 +42,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Jasinskis apibūdinamas taip: Minimas kaip Lietuvos sukilimo karinę vadovybę perėmęs pulkininkas."
+  teiginys: "Minimas kaip Lietuvos sukilimo karinę vadovybę perėmęs pulkininkas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

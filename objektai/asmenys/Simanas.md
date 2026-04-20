@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Simanas
 
 ## Santrauka
-Šaltinyje Simanas apibūdinamas taip: Algirdo palikuonis, keltas kaip kandidatas į Lietuvos valdovus.
+Algirdo palikuonis, keltas kaip kandidatas į Lietuvos valdovus.
 
 ## Variantai
 - Kijevo kunigaikštis Simanas
@@ -52,7 +52,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Simanas apibūdinamas taip: Algirdo palikuonis, keltas kaip kandidatas į Lietuvos valdovus."
+  teiginys: "Algirdo palikuonis, keltas kaip kandidatas į Lietuvos valdovus."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

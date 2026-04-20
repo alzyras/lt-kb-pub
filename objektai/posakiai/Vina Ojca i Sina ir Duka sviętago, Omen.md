@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Vina Ojca i Sina ir Duka sviętago, Omen
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Vina Ojca i Sina ir Duka sviętago, Omen“; kontekstas: Kunigas Burba pateikia iškraipytą Tėve Mūsų pradžią kaip kalbų maišymosi pavyzdį. Reikšmė: Iškraipyta maldos pradžia, vartojama kaip žargono ir kalbinio maišymosi pavyzdys. (t-001)
+Užfiksuota formuluotė „Vina Ojca i Sina ir Duka sviętago, Omen“; kontekstas: Kunigas Burba pateikia iškraipytą Tėve Mūsų pradžią kaip kalbų maišymosi pavyzdį. Reikšmė: Iškraipyta maldos pradžia, vartojama kaip žargono ir kalbinio maišymosi pavyzdys. (t-001)
 
 ## Forma
 - pagrindinė forma: Vina Ojca i Sina ir Duka sviętago, Omen (t-001)
@@ -35,7 +35,7 @@ patikimumas: "vidutinis"
 - „Vina Ojca i Sina ir Duka sviętago, Omen...
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Kunigas Burba pateikia iškraipytą Tėve Mūsų pradžią kaip kalbų maišymosi pavyzdį. (t-001)
@@ -45,7 +45,7 @@ Iškraipyta maldos pradžia, vartojama kaip žargono ir kalbinio maišymosi pavy
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Vina Ojca i Sina ir Duka sviętago, Omen“; kontekstas: Kunigas Burba pateikia iškraipytą Tėve Mūsų pradžią kaip kalbų maišymosi pavyzdį."
+  teiginys: "Užfiksuota formuluotė „Vina Ojca i Sina ir Duka sviętago, Omen“; kontekstas: Kunigas Burba pateikia iškraipytą Tėve Mūsų pradžią kaip kalbų maišymosi pavyzdį."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

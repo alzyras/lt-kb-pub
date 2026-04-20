@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Gryva
 
 ## Santrauka
-Šaltinyje vieta „Gryva“ siejama su šiuo kontekstu: Minima kaip Daugpilio priemiestis, kuriame baigėsi kautynės su bolševikais. (t-001)
+Minima kaip Daugpilio priemiestis, kuriame baigėsi kautynės su bolševikais. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Gryva
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Gryva“ siejama su šiuo kontekstu: Minima kaip Daugpilio priemiestis, kuriame baigėsi kautynės su bolševikais."
+  teiginys: "Minima kaip Daugpilio priemiestis, kuriame baigėsi kautynės su bolševikais."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -23,11 +23,11 @@ patikimumas: "aukstas"
 # St. Šilingas
 
 ## Santrauka
-Šaltinyje St. Šilingas apibūdinamas taip: Minimas kaip Komiteto sekretorius.
+Minimas kaip Komiteto sekretorius.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje St. Šilingas apibūdinamas taip: Minimas kaip Komiteto sekretorius."
+  teiginys: "Minimas kaip Komiteto sekretorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Abraomas Juozapavičius
 
 ## Santrauka
-Šaltinyje Abraomas Juozapavičius apibūdinamas taip: Krikštytas žydas, tapęs Lietuvos iždininku.
+Krikštytas žydas, tapęs Lietuvos iždininku.
 
 ## Variantai
 - krikštytas žydas Abraomas Juozapavičius
@@ -41,7 +41,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Abraomas Juozapavičius apibūdinamas taip: Krikštytas žydas, tapęs Lietuvos iždininku."
+  teiginys: "Krikštytas žydas, tapęs Lietuvos iždininku."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

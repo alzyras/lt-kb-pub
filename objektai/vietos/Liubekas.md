@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Liubekas
 
 ## Santrauka
-Šaltinyje vieta „Liubekas“ siejama su šiuo kontekstu: Minimas kaip Hanzos miestų atstovų suvažiavimo vieta. (t-001)
+Minimas kaip Hanzos miestų atstovų suvažiavimo vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Liubekas
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Liubekas“ siejama su šiuo kontekstu: Minimas kaip Hanzos miestų atstovų suvažiavimo vieta."
+  teiginys: "Minimas kaip Hanzos miestų atstovų suvažiavimo vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

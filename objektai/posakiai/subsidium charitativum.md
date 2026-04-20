@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # subsidium charitativum
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „subsidium charitativum“; kontekstas: Aprašant dvasininkų mokesčius, autorius paaiškina, kad jie būdavo vadinami aukomis ir pateikia lotynišką formulę. Reikšmė: Lotyniška mokesčio formuluotė, susieta su „aukų“ pavadinimu; kandidatas ribinis tarp posakio ir terminologinės formulės. (t-001)
+Užfiksuota formuluotė „subsidium charitativum“; kontekstas: Aprašant dvasininkų mokesčius, autorius paaiškina, kad jie būdavo vadinami aukomis ir pateikia lotynišką formulę. Reikšmė: Lotyniška mokesčio formuluotė, susieta su „aukų“ pavadinimu; kandidatas ribinis tarp posakio ir terminologinės formulės. (t-001)
 
 ## Forma
 - pagrindinė forma: subsidium charitativum (t-001)
@@ -37,7 +37,7 @@ patikimumas: "vidutinis"
 - subsidium charitativum
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Aprašant dvasininkų mokesčius, autorius paaiškina, kad jie būdavo vadinami aukomis ir pateikia lotynišką formulę. (t-001)
@@ -47,7 +47,7 @@ Lotyniška mokesčio formuluotė, susieta su „aukų“ pavadinimu; kandidatas 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „subsidium charitativum“; kontekstas: Aprašant dvasininkų mokesčius, autorius paaiškina, kad jie būdavo vadinami aukomis ir pateikia lotynišką formulę."
+  teiginys: "Užfiksuota formuluotė „subsidium charitativum“; kontekstas: Aprašant dvasininkų mokesčius, autorius paaiškina, kad jie būdavo vadinami aukomis ir pateikia lotynišką formulę."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

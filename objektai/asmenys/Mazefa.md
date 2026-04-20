@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Mazefa
 
 ## Santrauka
-Šaltinyje Mazefa apibūdinamas taip: Minimas kaip caro valdomų kazokų hetmonas, pažadėjęs sąjungą Karoliui XII.
+Minimas kaip caro valdomų kazokų hetmonas, pažadėjęs sąjungą Karoliui XII.
 
 ## Variantai
 - Mazefos
@@ -33,7 +33,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Mazefa apibūdinamas taip: Minimas kaip caro valdomų kazokų hetmonas, pažadėjęs sąjungą Karoliui XII."
+  teiginys: "Minimas kaip caro valdomų kazokų hetmonas, pažadėjęs sąjungą Karoliui XII."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -37,7 +37,7 @@ patikimumas: "aukstas"
 # Unija
 
 ## Santrauka
-Šaltinyje „Unija“ vartojama taip: Valstybių sąjunga arba bendras valdymas vieno valdovo rankose. (t-001)
+Valstybių sąjunga arba bendras valdymas vieno valdovo rankose. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Unija
@@ -60,7 +60,7 @@ Terminas šaltinyje vartojamas šiame kontekste: politinė istorija, valstybini�
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Unija“ vartojama taip: Valstybių sąjunga arba bendras valdymas vieno valdovo rankose."
+  teiginys: "Valstybių sąjunga arba bendras valdymas vieno valdovo rankose."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

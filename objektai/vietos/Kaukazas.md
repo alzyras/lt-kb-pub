@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Kaukazas
 
 ## Santrauka
-Šaltinyje vieta „Kaukazas“ siejama su šiuo kontekstu: Minimas kaip lietuvių pabėgimo vieta prieš atsiduriant Persijoje. (t-001)
+Minimas kaip lietuvių pabėgimo vieta prieš atsiduriant Persijoje. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Kaukazas
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Kaukazas“ siejama su šiuo kontekstu: Minimas kaip lietuvių pabėgimo vieta prieš atsiduriant Persijoje."
+  teiginys: "Minimas kaip lietuvių pabėgimo vieta prieš atsiduriant Persijoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

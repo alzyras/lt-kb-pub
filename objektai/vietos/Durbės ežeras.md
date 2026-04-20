@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Durbės ežeras
 
 ## Santrauka
-Šaltinyje vieta „Durbės ežeras“ siejama su šiuo kontekstu: Minimas kaip vieta, prie kurios įvyko žemaičių laimėtas mūšis. (t-001)
+Minimas kaip vieta, prie kurios įvyko žemaičių laimėtas mūšis. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Durbės ežeras
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Durbės ežeras“ siejama su šiuo kontekstu: Minimas kaip vieta, prie kurios įvyko žemaičių laimėtas mūšis."
+  teiginys: "Minimas kaip vieta, prie kurios įvyko žemaičių laimėtas mūšis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

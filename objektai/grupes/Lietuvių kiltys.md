@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Lietuvių kiltys
 
 ## Santrauka
-Šaltinyje „Lietuvių kiltys“ apibūdinama kaip kiltis; šios aisčių kiltys aprašomos kaip tos, iš kurių susiformavo lietuvių tauta ir kurios gyveno į šiaurę bei į rytus nuo prūsų. (t-001)
+kiltis; šios aisčių kiltys aprašomos kaip tos, iš kurių susiformavo lietuvių tauta ir kurios gyveno į šiaurę bei į rytus nuo prūsų. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Lietuvių kiltys
@@ -38,14 +38,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: kiltis
-Šaltinyje „Lietuvių kiltys“ apibūdinama kaip kiltis; šios aisčių kiltys aprašomos kaip tos, iš kurių susiformavo lietuvių tauta ir kurios gyveno į šiaurę bei į rytus nuo prūsų. (t-001)
+kiltis; šios aisčių kiltys aprašomos kaip tos, iš kurių susiformavo lietuvių tauta ir kurios gyveno į šiaurę bei į rytus nuo prūsų. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Lietuvių kiltys“ apibūdinama kaip kiltis; šios aisčių kiltys aprašomos kaip tos, iš kurių susiformavo lietuvių tauta ir kurios gyveno į šiaurę bei į rytus nuo prūsų. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Lietuvių kiltys“ apibūdinama kaip kiltis; šios aisčių kiltys aprašomos kaip tos, iš kurių susiformavo lietuvių tauta ir kurios gyveno į šiaurę bei į rytus nuo prūsų."
+  teiginys: "kiltis; šios aisčių kiltys aprašomos kaip tos, iš kurių susiformavo lietuvių tauta ir kurios gyveno į šiaurę bei į rytus nuo prūsų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Utena
 
 ## Santrauka
-Šaltinyje vieta „Utena“ siejama su šiuo kontekstu: Miestas minimas kaip sėlių gyvenamų sričių orientyras. (t-001)
+Miestas minimas kaip sėlių gyvenamų sričių orientyras. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Utena
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Utena“ siejama su šiuo kontekstu: Miestas minimas kaip sėlių gyvenamų sričių orientyras."
+  teiginys: "Miestas minimas kaip sėlių gyvenamų sričių orientyras."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

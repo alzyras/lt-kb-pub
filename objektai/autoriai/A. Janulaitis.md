@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # A. Janulaitis
 
 ## Santrauka
-Šaltinyje A. Janulaitis minimas kaip autorius; šis vaidmuo siejamas su: Lietuvos visuomenės ir teisės istorija.
+Lietuvos visuomenės ir teisės istorija.
 
 ## Laikotarpis ir datos
 - 1916 m.
@@ -41,7 +41,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje A. Janulaitis minimas kaip autorius, siejamas su: Lietuvos visuomenės ir teisės istorija."
+  teiginys: "Lietuvos visuomenės ir teisės istorija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

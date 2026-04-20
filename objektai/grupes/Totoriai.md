@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Totoriai
 
 ## Santrauka
-Šaltinyje „Totoriai“ apibūdinama kaip tauta; totoriai šiame fragmente minimi kaip Jogailos sąjungininkai prieš Maskvą, o paskui kaip Kulikovo mūšyje sumušta kariuomenė. (t-001)
+tauta; totoriai šiame fragmente minimi kaip Jogailos sąjungininkai prieš Maskvą, o paskui kaip Kulikovo mūšyje sumušta kariuomenė. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Totoriai
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: tauta
-Šaltinyje „Totoriai“ apibūdinama kaip tauta; totoriai šiame fragmente minimi kaip Jogailos sąjungininkai prieš Maskvą, o paskui kaip Kulikovo mūšyje sumušta kariuomenė. (t-001)
+tauta; totoriai šiame fragmente minimi kaip Jogailos sąjungininkai prieš Maskvą, o paskui kaip Kulikovo mūšyje sumušta kariuomenė. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Totoriai“ apibūdinama kaip tauta; totoriai šiame fragmente minimi kaip Jogailos sąjungininkai prieš Maskvą, o paskui kaip Kulikovo mūšyje sumušta kariuomenė. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Totoriai“ apibūdinama kaip tauta; totoriai šiame fragmente minimi kaip Jogailos sąjungininkai prieš Maskvą, o paskui kaip Kulikovo mūšyje sumušta kariuomenė."
+  teiginys: "tauta; totoriai šiame fragmente minimi kaip Jogailos sąjungininkai prieš Maskvą, o paskui kaip Kulikovo mūšyje sumušta kariuomenė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

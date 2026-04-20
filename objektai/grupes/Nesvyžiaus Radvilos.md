@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Nesvyžiaus Radvilos
 
 ## Santrauka
-Šaltinyje „Nesvyžiaus Radvilos“ apibūdinama kaip didikų giminė; šaltinyje šia forma įvardijama giminė, kuriai po 1669 m. atiteko buvę protestantų Radvilų dvarai. (t-001)
+didikų giminė; šaltinyje šia forma įvardijama giminė, kuriai po 1669 m. atiteko buvę protestantų Radvilų dvarai. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Nesvyžiaus Radvilos
@@ -46,14 +46,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: didikų giminė
-Šaltinyje „Nesvyžiaus Radvilos“ apibūdinama kaip didikų giminė; šaltinyje šia forma įvardijama giminė, kuriai po 1669 m. atiteko buvę protestantų Radvilų dvarai. (t-001)
+didikų giminė; šaltinyje šia forma įvardijama giminė, kuriai po 1669 m. atiteko buvę protestantų Radvilų dvarai. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Nesvyžiaus Radvilos“ apibūdinama kaip didikų giminė; šaltinyje šia forma įvardijama giminė, kuriai po 1669 m. atiteko buvę protestantų Radvilų dvarai. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Nesvyžiaus Radvilos“ apibūdinama kaip didikų giminė; šaltinyje šia forma įvardijama giminė, kuriai po 1669 m. atiteko buvę protestantų Radvilų dvarai."
+  teiginys: "didikų giminė; šaltinyje šia forma įvardijama giminė, kuriai po 1669 m. atiteko buvę protestantų Radvilų dvarai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

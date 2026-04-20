@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Tautų Sąjunga
 
 ## Santrauka
-Šaltinyje „Tautų Sąjunga“ apibūdinama kaip sąjunga; tarptautinė sąjunga, šiame gabale veikianti kaip ginčo tarp Lietuvos ir Lenkijos tarpininkė ir plebiscito priežiūros institucija. (t-001)
+sąjunga; tarptautinė sąjunga, šiame gabale veikianti kaip ginčo tarp Lietuvos ir Lenkijos tarpininkė ir plebiscito priežiūros institucija. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Tautų Sąjunga
@@ -46,14 +46,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: sąjunga
-Šaltinyje „Tautų Sąjunga“ apibūdinama kaip sąjunga; tarptautinė sąjunga, šiame gabale veikianti kaip ginčo tarp Lietuvos ir Lenkijos tarpininkė ir plebiscito priežiūros institucija. (t-001)
+sąjunga; tarptautinė sąjunga, šiame gabale veikianti kaip ginčo tarp Lietuvos ir Lenkijos tarpininkė ir plebiscito priežiūros institucija. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Tautų Sąjunga“ apibūdinama kaip sąjunga; tarptautinė sąjunga, šiame gabale veikianti kaip ginčo tarp Lietuvos ir Lenkijos tarpininkė ir plebiscito priežiūros institucija. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Tautų Sąjunga“ apibūdinama kaip sąjunga; tarptautinė sąjunga, šiame gabale veikianti kaip ginčo tarp Lietuvos ir Lenkijos tarpininkė ir plebiscito priežiūros institucija."
+  teiginys: "sąjunga; tarptautinė sąjunga, šiame gabale veikianti kaip ginčo tarp Lietuvos ir Lenkijos tarpininkė ir plebiscito priežiūros institucija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

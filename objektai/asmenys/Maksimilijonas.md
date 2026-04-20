@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Maksimilijonas
 
 ## Santrauka
-Šaltinyje Maksimilijonas apibūdinamas taip: Imperatorius, kurio paramos Glinskis siekė Maskvos naudai.
+Imperatorius, kurio paramos Glinskis siekė Maskvos naudai.
 
 ## Variantai
 - Maksimilijono
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Maksimilijonas apibūdinamas taip: Imperatorius, kurio paramos Glinskis siekė Maskvos naudai."
+  teiginys: "Imperatorius, kurio paramos Glinskis siekė Maskvos naudai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Kalavijuočiai
 
 ## Santrauka
-Šaltinyje „Kalavijuočiai“ vartojama taip: Livonijos kalavijuočių ordino nariai. (t-001)
+Livonijos kalavijuočių ordino nariai. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Kalavijuočiai
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: Livonijos ir Pabaltijo ordino i
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kalavijuočiai“ vartojama taip: Livonijos kalavijuočių ordino nariai."
+  teiginys: "Livonijos kalavijuočių ordino nariai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Steigiamasis seimas
 
 ## Santrauka
-Šaltinyje „Steigiamasis seimas“ apibūdinama kaip seimas; seimas svarstė Klaipėdos krašto klausimą ir pasisakė už jo prijungimą prie Lietuvos kaip atskiro autonominio vieneto. (t-001)
+seimas; seimas svarstė Klaipėdos krašto klausimą ir pasisakė už jo prijungimą prie Lietuvos kaip atskiro autonominio vieneto. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Steigiamasis seimas
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: seimas
-Šaltinyje „Steigiamasis seimas“ apibūdinama kaip seimas; seimas svarstė Klaipėdos krašto klausimą ir pasisakė už jo prijungimą prie Lietuvos kaip atskiro autonominio vieneto. (t-001)
+seimas; seimas svarstė Klaipėdos krašto klausimą ir pasisakė už jo prijungimą prie Lietuvos kaip atskiro autonominio vieneto. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Steigiamasis seimas“ apibūdinama kaip seimas; seimas svarstė Klaipėdos krašto klausimą ir pasisakė už jo prijungimą prie Lietuvos kaip atskiro autonominio vieneto. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Steigiamasis seimas“ apibūdinama kaip seimas; seimas svarstė Klaipėdos krašto klausimą ir pasisakė už jo prijungimą prie Lietuvos kaip atskiro autonominio vieneto."
+  teiginys: "seimas; seimas svarstė Klaipėdos krašto klausimą ir pasisakė už jo prijungimą prie Lietuvos kaip atskiro autonominio vieneto."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

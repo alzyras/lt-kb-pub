@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Vidžemė
 
 ## Santrauka
-Šaltinyje vieta „Vidžemė“ siejama su šiuo kontekstu: Minima kaip viena iš Latvijos sričių, kur 1817 m. buvo panaikinta baudžiava. (t-001)
+Minima kaip viena iš Latvijos sričių, kur 1817 m. buvo panaikinta baudžiava. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Vidžemė
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Vidžemė“ siejama su šiuo kontekstu: Minima kaip viena iš Latvijos sričių, kur 1817 m. buvo panaikinta baudžiava."
+  teiginys: "Minima kaip viena iš Latvijos sričių, kur 1817 m. buvo panaikinta baudžiava."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Elžbieta
 
 ## Santrauka
-Šaltinyje Elžbieta apibūdinamas taip: Jadvygos motina ir Vengrijos karalienė, minima Krėvos akto aiškinime.
+Jadvygos motina ir Vengrijos karalienė, minima Krėvos akto aiškinime.
 
 ## Variantai
 - Elžbietai
@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Elžbieta apibūdinamas taip: Jadvygos motina ir Vengrijos karalienė, minima Krėvos akto aiškinime."
+  teiginys: "Jadvygos motina ir Vengrijos karalienė, minima Krėvos akto aiškinime."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

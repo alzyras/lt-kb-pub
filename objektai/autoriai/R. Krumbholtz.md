@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # R. Krumbholtz
 
 ## Santrauka
-Šaltinyje R. Krumbholtz minimas kaip autorius; šis vaidmuo siejamas su: Samaiten u. d. D. Orden bis zum Frieden am Melno-See.
+Samaiten u. d. D. Orden bis zum Frieden am Melno-See.
 
 ## Laikotarpis ir datos
 - 1880 m.
@@ -41,7 +41,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje R. Krumbholtz minimas kaip autorius, siejamas su: Samaiten u. d. D. Orden bis zum Frieden am Melno-See."
+  teiginys: "Samaiten u. d. D. Orden bis zum Frieden am Melno-See."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

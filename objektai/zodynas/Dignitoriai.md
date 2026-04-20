@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Dignitoriai
 
 ## Santrauka
-Šaltinyje „Dignitoriai“ vartojama taip: Aukštieji dvaro arba valstybės pareigūnai. (t-001)
+Aukštieji dvaro arba valstybės pareigūnai. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Dignitoriai
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: valstybės valdymas, dvaro hier
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Dignitoriai“ vartojama taip: Aukštieji dvaro arba valstybės pareigūnai."
+  teiginys: "Aukštieji dvaro arba valstybės pareigūnai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

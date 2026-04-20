@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Krašto magistras
 
 ## Santrauka
-Šaltinyje „Krašto magistras“ vartojama taip: Vietinis ordino valdžios pareigūnas, pavaldus didžiajam magistrui. (t-001)
+Vietinis ordino valdžios pareigūnas, pavaldus didžiajam magistrui. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Krašto magistras
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: ordino administracija, viduram�
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Krašto magistras“ vartojama taip: Vietinis ordino valdžios pareigūnas, pavaldus didžiajam magistrui."
+  teiginys: "Vietinis ordino valdžios pareigūnas, pavaldus didžiajam magistrui."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

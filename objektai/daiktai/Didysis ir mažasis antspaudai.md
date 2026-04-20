@@ -30,7 +30,7 @@ patikimumas: "vidutinis"
 # Didysis ir mažasis antspaudai
 
 ## Santrauka
-Šaltinyje „Didysis ir mažasis antspaudai“ šie antspaudai pateikiami kaip kanclerio ir vicekanclerio naudojami valstybės antspaudai, būtini oficialiems raštams.
+šie antspaudai pateikiami kaip kanclerio ir vicekanclerio naudojami valstybės antspaudai, būtini oficialiems raštams.
 
 ## Pavadinimai šaltiniuose
 - didįjį antspaudą
@@ -47,11 +47,10 @@ patikimumas: "vidutinis"
 - date_end:
 
 ## Kas tai
-Šaltinyje „Didysis ir mažasis antspaudai“ šie antspaudai pateikiami kaip kanclerio ir vicekanclerio naudojami valstybės antspaudai, būtini oficialiems raštams.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Didysis ir mažasis antspaudai“ šie antspaudai pateikiami kaip kanclerio ir vicekanclerio naudojami valstybės antspaudai, būtini oficialiems raštams."
+  teiginys: "šie antspaudai pateikiami kaip kanclerio ir vicekanclerio naudojami valstybės antspaudai, būtini oficialiems raštams."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

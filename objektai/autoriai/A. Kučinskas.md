@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # A. Kučinskas
 
 ## Santrauka
-Šaltinyje A. Kučinskas minimas kaip autorius; šis vaidmuo siejamas su: Gedimino d. kilmė.
+Gedimino d. kilmė.
 
 ## Laikotarpis ir datos
 - 1934 m.
@@ -41,7 +41,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje A. Kučinskas minimas kaip autorius, siejamas su: Gedimino d. kilmė."
+  teiginys: "Gedimino d. kilmė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

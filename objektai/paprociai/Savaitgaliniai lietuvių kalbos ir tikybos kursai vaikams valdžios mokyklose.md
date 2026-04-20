@@ -27,14 +27,13 @@ patikimumas: "aukstas"
 # Savaitgaliniai lietuvių kalbos ir tikybos kursai vaikams valdžios mokyklose
 
 ## Santrauka
-Šaltinyje minima praktika „Savaitgaliniai lietuvių kalbos ir tikybos kursai vaikams valdžios mokyklose“ siejama su formuluote: lietuvių kalbos ir tikybos kursai. Šaltinio kontekste nurodoma: kas atlieka: lietuviai vaikai, einantys į valdžios mokyklas; juos vedantys vienuoliai; kada atliekama: šeštadieniais ir sekmadieniais arba atostogų metu. (t-001)
+lietuvių kalbos ir tikybos kursai. Šaltinio kontekste nurodoma: kas atlieka: lietuviai vaikai, einantys į valdžios mokyklas; juos vedantys vienuoliai; kada atliekama: šeštadieniais ir sekmadieniais arba atostogų metu. (t-001)
 
 ## Pavadinimai šaltiniuose
 - lietuvių kalbos ir tikybos kursai
 
 ## Kas tai
-Šaltinyje minima praktika „Savaitgaliniai lietuvių kalbos ir tikybos kursai vaikams valdžios mokyklose“ siejama su formuluote: lietuvių kalbos ir tikybos kursai. Šaltinio kontekste nurodoma: kas atlieka: lietuviai vaikai, einantys į valdžios mokyklas; juos vedantys vienuoliai; kada atliekama: šeštadieniais ir sekmadieniais arba atostogų metu. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: lietuviai vaikai, einantys į valdžios mokyklas; juos vedantys vienuoliai (t-001)
 - kada atliekama: šeštadieniais ir sekmadieniais arba atostogų metu (t-001)
@@ -42,7 +41,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Savaitgaliniai lietuvių kalbos ir tikybos kursai vaikams valdžios mokyklose“ siejama su formuluote: lietuvių kalbos ir tikybos kursai. Šaltinio kontekste nurodoma: kas atlieka: lietuviai vaikai, einantys į valdžios mokyklas; juos vedantys vienuoliai; kada atliekama: šeštadieniais ir sekmadieniais arba atostogų metu."
+  teiginys: "lietuvių kalbos ir tikybos kursai. Šaltinio kontekste nurodoma: kas atlieka: lietuviai vaikai, einantys į valdžios mokyklas; juos vedantys vienuoliai; kada atliekama: šeštadieniais ir sekmadieniais arba atostogų metu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # B. Colliander
 
 ## Santrauka
-Šaltinyje B. Colliander minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip veikalų apie Lietuvos okupaciją 1915–1918 m. autorius.
+Minimas kaip veikalų apie Lietuvos okupaciją 1915–1918 m. autorius.
 
 ## Darbai
 - Minimas kaip veikalų apie Lietuvos okupaciją 1915–1918 m. autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje B. Colliander autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip veikalų apie Lietuvos okupaciją 1915–1918 m. autorius."
+  teiginys: "Minimas kaip veikalų apie Lietuvos okupaciją 1915–1918 m. autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Daugpilis
 
 ## Santrauka
-Šaltinyje vieta „Daugpilis“ siejama su šiuo kontekstu: Minimas kaip ordino pastatyta pilis Naujinio vietoje. (t-001)
+Minimas kaip ordino pastatyta pilis Naujinio vietoje. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Daugpilis
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Daugpilis“ siejama su šiuo kontekstu: Minimas kaip ordino pastatyta pilis Naujinio vietoje."
+  teiginys: "Minimas kaip ordino pastatyta pilis Naujinio vietoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

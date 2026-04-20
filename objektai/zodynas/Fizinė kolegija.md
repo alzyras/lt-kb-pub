@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Fizinė kolegija
 
 ## Santrauka
-Šaltinyje „Fizinė kolegija“ vartojama taip: Aukštesnės mokyklos kolegija, kurioje dėstomi gamtos mokslai, matematika ir medicina. (t-001)
+Aukštesnės mokyklos kolegija, kurioje dėstomi gamtos mokslai, matematika ir medicina. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Fizinė kolegija
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: švietimo istorija, universitet
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Fizinė kolegija“ vartojama taip: Aukštesnės mokyklos kolegija, kurioje dėstomi gamtos mokslai, matematika ir medicina."
+  teiginys: "Aukštesnės mokyklos kolegija, kurioje dėstomi gamtos mokslai, matematika ir medicina."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

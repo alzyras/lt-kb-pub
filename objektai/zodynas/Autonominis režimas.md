@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Autonominis režimas
 
 ## Santrauka
-Šaltinyje „Autonominis režimas“ vartojama taip: Krašto savivaldos ir administracinio valdymo modelis. (t-001)
+Krašto savivaldos ir administracinio valdymo modelis. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Autonominis režimas
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: teritorinis statusas, viešoji 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Autonominis režimas“ vartojama taip: Krašto savivaldos ir administracinio valdymo modelis."
+  teiginys: "Krašto savivaldos ir administracinio valdymo modelis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

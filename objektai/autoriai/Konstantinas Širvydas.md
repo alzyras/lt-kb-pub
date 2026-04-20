@@ -32,7 +32,7 @@ patikimumas: "vidutinis"
 # Konstantinas Širvydas
 
 ## Santrauka
-Šaltinyje Konstantinas Širvydas minimas kaip autorius; šis vaidmuo siejamas su: pamokslų rinkinys; lotyniškas lenkiškas lietuviškas žodynas; lietuvių kalbos gramatika.
+pamokslų rinkinys; lotyniškas lenkiškas lietuviškas žodynas; lietuvių kalbos gramatika.
 
 ## Laikotarpis ir datos
 - 1629 m.
@@ -45,7 +45,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Konstantinas Širvydas minimas kaip autorius, siejamas su: pamokslų rinkinys; lotyniškas lenkiškas lietuviškas žodynas; lietuvių kalbos gramatika."
+  teiginys: "pamokslų rinkinys; lotyniškas lenkiškas lietuviškas žodynas; lietuvių kalbos gramatika."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

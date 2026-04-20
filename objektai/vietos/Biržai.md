@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Biržai
 
 ## Santrauka
-Šaltinyje vieta „Biržai“ siejama su šiais kontekstais: Miestas minimas tarp provincijos muziejų vietų; Minimas kaip vieta, iš kurios švedai išvežė patranką. (t-001, t-002)
+Miestas minimas tarp provincijos muziejų vietų; Minimas kaip vieta, iš kurios švedai išvežė patranką. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Biržai
@@ -50,13 +50,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Biržai“ siejama su šiuo kontekstu: Miestas minimas tarp provincijos muziejų vietų."
+  teiginys: "Miestas minimas tarp provincijos muziejų vietų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Biržai“ siejama su šiuo kontekstu: Minimas kaip vieta, iš kurios švedai išvežė patranką."
+  teiginys: "Minimas kaip vieta, iš kurios švedai išvežė patranką."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

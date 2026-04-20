@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Montesquieu
 
 ## Santrauka
-Šaltinyje Montesquieu minimas autorystės, redagavimo arba tyrimo kontekste: Minimas tarp švietimo epochos autorių.
+Minimas tarp švietimo epochos autorių.
 
 ## Darbai
 - Minimas tarp švietimo epochos autorių. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Montesquieu autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas tarp švietimo epochos autorių."
+  teiginys: "Minimas tarp švietimo epochos autorių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

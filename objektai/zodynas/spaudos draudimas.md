@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Spaudos draudimas
 
 ## Santrauka
-Šaltinyje „Spaudos draudimas“ vartojama taip: Lietuviškos spaudos draudimas, ypač knygų lotyniškomis raidėmis draudimas. (t-001)
+Lietuviškos spaudos draudimas, ypač knygų lotyniškomis raidėmis draudimas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Spaudos draudimas
@@ -54,7 +54,7 @@ Terminas šaltinyje vartojamas šiame kontekste: spaudos istorija, kultūrinė p
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Spaudos draudimas“ vartojama taip: Lietuviškos spaudos draudimas, ypač knygų lotyniškomis raidėmis draudimas."
+  teiginys: "Lietuviškos spaudos draudimas, ypač knygų lotyniškomis raidėmis draudimas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

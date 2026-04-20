@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Adomas Dambrauskas Jakštas
 
 ## Santrauka
-Šaltinyje Adomas Dambrauskas Jakštas apibūdinamas taip: Minimas kaip pralotas, mokslininkas, literatūros kritikas, publicistas ir poetas.
+Minimas kaip pralotas, mokslininkas, literatūros kritikas, publicistas ir poetas.
 
 ## Variantai
 - A. Dambrauskas Jakštas
@@ -48,7 +48,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Adomas Dambrauskas Jakštas apibūdinamas taip: Minimas kaip pralotas, mokslininkas, literatūros kritikas, publicistas ir poetas."
+  teiginys: "Minimas kaip pralotas, mokslininkas, literatūros kritikas, publicistas ir poetas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

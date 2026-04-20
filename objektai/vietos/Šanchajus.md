@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Šanchajus
 
 ## Santrauka
-Šaltinyje vieta „Šanchajus“ siejama su šiuo kontekstu: Minimas kaip vieta, kurioje gyvena dauguma į Kiniją atvykusių lietuvių. (t-001)
+Minimas kaip vieta, kurioje gyvena dauguma į Kiniją atvykusių lietuvių. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Šanchajus
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Šanchajus“ siejama su šiuo kontekstu: Minimas kaip vieta, kurioje gyvena dauguma į Kiniją atvykusių lietuvių."
+  teiginys: "Minimas kaip vieta, kurioje gyvena dauguma į Kiniją atvykusių lietuvių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

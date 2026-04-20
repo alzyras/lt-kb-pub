@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Rusiškos raidės
 
 ## Santrauka
-Šaltinyje „Rusiškos raidės“ vartojama taip: Kirilicos raidynas, taikytas lietuviškiems tekstams spausdinti. (t-001)
+Kirilicos raidynas, taikytas lietuviškiems tekstams spausdinti. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Rusiškos raidės
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: raštija, spaudos politika. (t-
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Rusiškos raidės“ vartojama taip: Kirilicos raidynas, taikytas lietuviškiems tekstams spausdinti."
+  teiginys: "Kirilicos raidynas, taikytas lietuviškiems tekstams spausdinti."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Šniukšta
 
 ## Santrauka
-Šaltinyje Šniukšta minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip veikalo apie P. O. W. veikimą Lietuvoje autorius.
+Minimas kaip veikalo apie P. O. W. veikimą Lietuvoje autorius.
 
 ## Darbai
 - Minimas kaip veikalo apie P. O. W. veikimą Lietuvoje autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Šniukšta autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip veikalo apie P. O. W. veikimą Lietuvoje autorius."
+  teiginys: "Minimas kaip veikalo apie P. O. W. veikimą Lietuvoje autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

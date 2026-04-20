@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Seda
 
 ## Santrauka
-Šaltinyje vieta „Seda“ siejama su šiuo kontekstu: Minima kaip vieta, nuo kurios vokiečiai atmušė rusus. (t-001)
+Minima kaip vieta, nuo kurios vokiečiai atmušė rusus. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Seda
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Seda“ siejama su šiuo kontekstu: Minima kaip vieta, nuo kurios vokiečiai atmušė rusus."
+  teiginys: "Minima kaip vieta, nuo kurios vokiečiai atmušė rusus."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -33,7 +33,7 @@ patikimumas: "vidutinis"
 # D. Kleinas
 
 ## Santrauka
-Šaltinyje D. Kleinas minimas kaip autorius; šis vaidmuo siejamas su: pirmoji lietuvių kalbos gramatika; dvi giesmių knygos.
+pirmoji lietuvių kalbos gramatika; dvi giesmių knygos.
 
 ## Laikotarpis ir datos
 - 1653 m.
@@ -47,7 +47,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje D. Kleinas minimas kaip autorius, siejamas su: pirmoji lietuvių kalbos gramatika; dvi giesmių knygos."
+  teiginys: "pirmoji lietuvių kalbos gramatika; dvi giesmių knygos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

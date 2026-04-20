@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Er. Bujak
 
 ## Santrauka
-Šaltinyje Er. Bujak minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip baltų ir germanų genčių santykių autorius.
+Bibliografijoje nurodytas kaip baltų ir germanų genčių santykių autorius.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip baltų ir germanų genčių santykių autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Er. Bujak autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip baltų ir germanų genčių santykių autorius."
+  teiginys: "Bibliografijoje nurodytas kaip baltų ir germanų genčių santykių autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Zarasai
 
 ## Santrauka
-Šaltinyje vieta „Zarasai“ siejama su šiais kontekstais: Miestas minimas kaip sėlių gyvenamų sričių orientyras; Minimi kaip Lietuvos kariuomenės atvaduota vieta. (t-001, t-002)
+Miestas minimas kaip sėlių gyvenamų sričių orientyras; Minimi kaip Lietuvos kariuomenės atvaduota vieta. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Zarasai
@@ -50,13 +50,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Zarasai“ siejama su šiuo kontekstu: Miestas minimas kaip sėlių gyvenamų sričių orientyras."
+  teiginys: "Miestas minimas kaip sėlių gyvenamų sričių orientyras."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Zarasai“ siejama su šiuo kontekstu: Minimi kaip Lietuvos kariuomenės atvaduota vieta."
+  teiginys: "Minimi kaip Lietuvos kariuomenės atvaduota vieta."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

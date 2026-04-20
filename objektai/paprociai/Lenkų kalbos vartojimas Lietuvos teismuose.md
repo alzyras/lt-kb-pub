@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Lenkų kalbos vartojimas Lietuvos teismuose
 
 ## Santrauka
-Šaltinyje minima praktika „Lenkų kalbos vartojimas Lietuvos teismuose“ siejama su formuluote: visi Lietuvos teismų sprendimai turį būti rašomi nebe senąja kanceliarine gudų kalba, bet lenkų kalba. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos teismai; kada atliekama: po 1697 m. _coaequatio iurium_ įstatymo. (t-001)
+visi Lietuvos teismų sprendimai turį būti rašomi nebe senąja kanceliarine gudų kalba, bet lenkų kalba. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos teismai; kada atliekama: po 1697 m. _coaequatio iurium_ įstatymo. (t-001)
 
 ## Pavadinimai šaltiniuose
 - visi Lietuvos teismų sprendimai turį būti rašomi nebe senąja kanceliarine gudų kalba, bet lenkų kalba
@@ -40,8 +40,7 @@ patikimumas: "vidutinis"
 - date_start/date_end: 1697 / 1697 (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Lenkų kalbos vartojimas Lietuvos teismuose“ siejama su formuluote: visi Lietuvos teismų sprendimai turį būti rašomi nebe senąja kanceliarine gudų kalba, bet lenkų kalba. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos teismai; kada atliekama: po 1697 m. _coaequatio iurium_ įstatymo. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: Lietuvos teismai (t-001)
 - kada atliekama: po 1697 m. _coaequatio iurium_ įstatymo (t-001)
@@ -49,7 +48,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Lenkų kalbos vartojimas Lietuvos teismuose“ siejama su formuluote: visi Lietuvos teismų sprendimai turį būti rašomi nebe senąja kanceliarine gudų kalba, bet lenkų kalba. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos teismai; kada atliekama: po 1697 m. _coaequatio iurium_ įstatymo."
+  teiginys: "visi Lietuvos teismų sprendimai turį būti rašomi nebe senąja kanceliarine gudų kalba, bet lenkų kalba. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos teismai; kada atliekama: po 1697 m. _coaequatio iurium_ įstatymo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

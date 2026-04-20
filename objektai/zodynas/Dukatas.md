@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 # Dukatas
 
 ## Santrauka
-Šaltinyje „Dukatas“ vartojama taip: stambus auksinis pinigas. (t-001)
+stambus auksinis pinigas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Dukatas
@@ -56,7 +56,7 @@ Terminas šaltinyje vartojamas šiame kontekste: numizmatika, pinigų istorija. 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Dukatas“ vartojama taip: stambus auksinis pinigas."
+  teiginys: "stambus auksinis pinigas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # K. Chodynicki
 
 ## Santrauka
-Šaltinyje K. Chodynicki minimas kaip autorius; šis vaidmuo siejamas su: Geneza dynastji Gediminą.
+Geneza dynastji Gediminą.
 
 ## Laikotarpis ir datos
 - 1926 m.
@@ -41,7 +41,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje K. Chodynicki minimas kaip autorius, siejamas su: Geneza dynastji Gediminą."
+  teiginys: "Geneza dynastji Gediminą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

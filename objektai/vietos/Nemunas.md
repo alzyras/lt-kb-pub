@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Nemunas
 
 ## Santrauka
-Šaltinyje vieta „Nemunas“ siejama su šiais kontekstais: Upė minima kaip pagrindinė Lietuvos vandens vaga ir žemupio / aukštupio ašis; Minima kaip ordino žygių kryptis ir kaip Jurbarko pilies vietos žymuo. (t-001, t-002)
+Upė minima kaip pagrindinė Lietuvos vandens vaga ir žemupio / aukštupio ašis; Minima kaip ordino žygių kryptis ir kaip Jurbarko pilies vietos žymuo. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Nemunas
@@ -45,13 +45,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Nemunas“ siejama su šiuo kontekstu: Upė minima kaip pagrindinė Lietuvos vandens vaga ir žemupio / aukštupio ašis."
+  teiginys: "Upė minima kaip pagrindinė Lietuvos vandens vaga ir žemupio / aukštupio ašis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Nemunas“ siejama su šiuo kontekstu: Minima kaip ordino žygių kryptis ir kaip Jurbarko pilies vietos žymuo."
+  teiginys: "Minima kaip ordino žygių kryptis ir kaip Jurbarko pilies vietos žymuo."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

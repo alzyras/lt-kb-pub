@@ -30,7 +30,7 @@ patikimumas: "vidutinis"
 # S. Daukantas
 
 ## Santrauka
-Šaltinyje S. Daukantas įvardytas kaip Vilniaus universiteto auklėtinis, parašęs kelis Lietuvos istorijos veikalus; atskirame pasakojime išvardijami jo darbai ir jų datos.
+S. Daukantas įvardytas kaip Vilniaus universiteto auklėtinis, parašęs kelis Lietuvos istorijos veikalus; atskirame pasakojime išvardijami jo darbai ir jų datos.
 
 ## Darbai
 - Įvardytas kaip Vilniaus universiteto auklėtinis, parašęs kelis Lietuvos istorijos veikalus. (t-001)
@@ -42,13 +42,13 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje S. Daukantas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Įvardytas kaip Vilniaus universiteto auklėtinis, parašęs kelis Lietuvos istorijos veikalus."
+  teiginys: "Įvardytas kaip Vilniaus universiteto auklėtinis, parašęs kelis Lietuvos istorijos veikalus."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje nurodoma, kad Daukantas 1822 m. parašė „Darbus senovės lietuvių ir žemaičių“, vėliau parašė „Būdą senovės lietuvių“ ir dviejų tomų „Lietuvos istoriją“."
+  teiginys: "nurodoma, kad Daukantas 1822 m. parašė „Darbus senovės lietuvių ir žemaičių“, vėliau parašė „Būdą senovės lietuvių“ ir dviejų tomų „Lietuvos istoriją“."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

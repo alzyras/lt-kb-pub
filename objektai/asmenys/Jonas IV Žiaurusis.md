@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Jonas IV Žiaurusis
 
 ## Santrauka
-Šaltinyje Jonas IV Žiaurusis apibūdinamas taip: Maskvos kunigaikštis, kurio mirtis 1533 m. atvėrė kelią Jonui IV Žiauriajam.
+Maskvos kunigaikštis, kurio mirtis 1533 m. atvėrė kelią Jonui IV Žiauriajam.
 
 ## Variantai
 - Jonas IV
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Jonas IV Žiaurusis apibūdinamas taip: Maskvos kunigaikštis, kurio mirtis 1533 m. atvėrė kelią Jonui IV Žiauriajam."
+  teiginys: "Maskvos kunigaikštis, kurio mirtis 1533 m. atvėrė kelią Jonui IV Žiauriajam."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

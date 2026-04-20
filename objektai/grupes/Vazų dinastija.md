@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Vazų dinastija
 
 ## Santrauka
-Šaltinyje „Vazų dinastija“ apibūdinama kaip dinastija; vazų šeima čia rodoma kaip sava dinastija, prie kurios kraštas buvo prisirišęs ir dėl kurios kandidatų į sostą klausimas buvo sprendžiamas beveik savaime. (t-001)
+dinastija; vazų šeima čia rodoma kaip sava dinastija, prie kurios kraštas buvo prisirišęs ir dėl kurios kandidatų į sostą klausimas buvo sprendžiamas beveik savaime. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Vazų dinastija
@@ -46,14 +46,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: dinastija
-Šaltinyje „Vazų dinastija“ apibūdinama kaip dinastija; vazų šeima čia rodoma kaip sava dinastija, prie kurios kraštas buvo prisirišęs ir dėl kurios kandidatų į sostą klausimas buvo sprendžiamas beveik savaime. (t-001)
+dinastija; vazų šeima čia rodoma kaip sava dinastija, prie kurios kraštas buvo prisirišęs ir dėl kurios kandidatų į sostą klausimas buvo sprendžiamas beveik savaime. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Vazų dinastija“ apibūdinama kaip dinastija; vazų šeima čia rodoma kaip sava dinastija, prie kurios kraštas buvo prisirišęs ir dėl kurios kandidatų į sostą klausimas buvo sprendžiamas beveik savaime. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Vazų dinastija“ apibūdinama kaip dinastija; vazų šeima čia rodoma kaip sava dinastija, prie kurios kraštas buvo prisirišęs ir dėl kurios kandidatų į sostą klausimas buvo sprendžiamas beveik savaime."
+  teiginys: "dinastija; vazų šeima čia rodoma kaip sava dinastija, prie kurios kraštas buvo prisirišęs ir dėl kurios kandidatų į sostą klausimas buvo sprendžiamas beveik savaime."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Rusinimo politika
 
 ## Santrauka
-Šaltinyje „Rusinimo politika“ vartojama taip: Krašto rusinimo ir prievartinio priartinimo prie rusų kalbos bei valdžios politika. (t-001)
+Krašto rusinimo ir prievartinio priartinimo prie rusų kalbos bei valdžios politika. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Rusinimo politika
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: politinė istorija, rusinimo po
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Rusinimo politika“ vartojama taip: Krašto rusinimo ir prievartinio priartinimo prie rusų kalbos bei valdžios politika."
+  teiginys: "Krašto rusinimo ir prievartinio priartinimo prie rusų kalbos bei valdžios politika."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

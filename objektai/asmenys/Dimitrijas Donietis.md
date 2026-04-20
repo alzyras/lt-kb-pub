@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Dimitrijas Donietis
 
 ## Santrauka
-Šaltinyje Dimitrijas Donietis apibūdinamas taip: Maskvos valdovo įpėdinis, Dono mūšio laimėtojas.
+Maskvos valdovo įpėdinis, Dono mūšio laimėtojas.
 
 ## Variantai
 - Dimitrijas
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Dimitrijas Donietis apibūdinamas taip: Maskvos valdovo įpėdinis, Dono mūšio laimėtojas."
+  teiginys: "Maskvos valdovo įpėdinis, Dono mūšio laimėtojas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

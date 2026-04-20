@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Kas treji metai bajorijos rinkimasis į seimelius
 
 ## Santrauka
-Šaltinyje minima praktika „Kas treji metai bajorijos rinkimasis į seimelius“ siejama su formuluote: Kas treji metai bajorija galėjo rinktis į seimelius. Šaltinio kontekste nurodoma: kas atlieka: bajorija; kada atliekama: kas treji metai. (t-001)
+Kas treji metai bajorija galėjo rinktis į seimelius. Šaltinio kontekste nurodoma: kas atlieka: bajorija; kada atliekama: kas treji metai. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kas treji metai bajorija galėjo rinktis į seimelius
@@ -37,8 +37,7 @@ patikimumas: "vidutinis"
 - datos: Rusų valdžios laikotarpiu po II padalinimo (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Kas treji metai bajorijos rinkimasis į seimelius“ siejama su formuluote: Kas treji metai bajorija galėjo rinktis į seimelius. Šaltinio kontekste nurodoma: kas atlieka: bajorija; kada atliekama: kas treji metai. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: bajorija (t-001)
 - kada atliekama: kas treji metai (t-001)
@@ -46,7 +45,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Kas treji metai bajorijos rinkimasis į seimelius“ siejama su formuluote: Kas treji metai bajorija galėjo rinktis į seimelius. Šaltinio kontekste nurodoma: kas atlieka: bajorija; kada atliekama: kas treji metai."
+  teiginys: "Kas treji metai bajorija galėjo rinktis į seimelius. Šaltinio kontekste nurodoma: kas atlieka: bajorija; kada atliekama: kas treji metai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

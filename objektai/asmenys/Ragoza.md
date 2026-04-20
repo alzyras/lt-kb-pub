@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # Ragoza
 
 ## Santrauka
-Šaltinyje Ragoza apibūdinamas taip: Minimas kaip Kijevo metropolitas, siejamas su Maskvos patriarchu ir unijos klausimu.
+Minimas kaip Kijevo metropolitas, siejamas su Maskvos patriarchu ir unijos klausimu.
 
 ## Variantai
 - Ragozą
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Ragoza apibūdinamas taip: Minimas kaip Kijevo metropolitas, siejamas su Maskvos patriarchu ir unijos klausimu."
+  teiginys: "Minimas kaip Kijevo metropolitas, siejamas su Maskvos patriarchu ir unijos klausimu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

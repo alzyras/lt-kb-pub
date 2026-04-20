@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Fridrikas Mykolas Čartoriskis
 
 ## Santrauka
-Šaltinyje Fridrikas Mykolas Čartoriskis apibūdinamas taip: Pavaizduotas kaip „familijos“ galva su išvardytomis pareigomis.
+Pavaizduotas kaip „familijos“ galva su išvardytomis pareigomis.
 
 ## Variantai
 - Čartoriskio
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Fridrikas Mykolas Čartoriskis apibūdinamas taip: Pavaizduotas kaip „familijos“ galva su išvardytomis pareigomis."
+  teiginys: "Pavaizduotas kaip „familijos“ galva su išvardytomis pareigomis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

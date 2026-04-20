@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # V. Vasilievskij
 
 ## Santrauka
-Šaltinyje V. Vasilievskij minimas kaip autorius; šis vaidmuo siejamas su: Obraščenije Gediminą v katoličestvo.
+Obraščenije Gediminą v katoličestvo.
 
 ## Laikotarpis ir datos
 - 1871 m.
@@ -41,7 +41,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje V. Vasilievskij minimas kaip autorius, siejamas su: Obraščenije Gediminą v katoličestvo."
+  teiginys: "Obraščenije Gediminą v katoličestvo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

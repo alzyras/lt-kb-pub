@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Visuotinis bajorijos stojimas
 
 ## Santrauka
-Šaltinyje minima praktika „Visuotinis bajorijos stojimas“ siejama su formuluote: Kiekvienas toksai šaukimas buvo vadinamas visuotiniu bajorijos stojimu. Šaltinio kontekste nurodoma: kas atlieka: bajorija; kada atliekama: kai karalius šaukia bajoriją į karą seimui nutarus arba ištikus staigiam pavojui. (t-001)
+Kiekvienas toksai šaukimas buvo vadinamas visuotiniu bajorijos stojimu. Šaltinio kontekste nurodoma: kas atlieka: bajorija; kada atliekama: kai karalius šaukia bajoriją į karą seimui nutarus arba ištikus staigiam pavojui. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kiekvienas toksai šaukimas buvo vadinamas visuotiniu bajorijos stojimu
@@ -39,8 +39,7 @@ patikimumas: "vidutinis"
 - amziai: XVI (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Visuotinis bajorijos stojimas“ siejama su formuluote: Kiekvienas toksai šaukimas buvo vadinamas visuotiniu bajorijos stojimu. Šaltinio kontekste nurodoma: kas atlieka: bajorija; kada atliekama: kai karalius šaukia bajoriją į karą seimui nutarus arba ištikus staigiam pavojui. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: bajorija (t-001)
 - kada atliekama: kai karalius šaukia bajoriją į karą seimui nutarus arba ištikus staigiam pavojui (t-001)
@@ -48,7 +47,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Visuotinis bajorijos stojimas“ siejama su formuluote: Kiekvienas toksai šaukimas buvo vadinamas visuotiniu bajorijos stojimu. Šaltinio kontekste nurodoma: kas atlieka: bajorija; kada atliekama: kai karalius šaukia bajoriją į karą seimui nutarus arba ištikus staigiam pavojui."
+  teiginys: "Kiekvienas toksai šaukimas buvo vadinamas visuotiniu bajorijos stojimu. Šaltinio kontekste nurodoma: kas atlieka: bajorija; kada atliekama: kai karalius šaukia bajoriją į karą seimui nutarus arba ištikus staigiam pavojui."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

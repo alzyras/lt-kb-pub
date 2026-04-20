@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Ernestas
 
 ## Santrauka
-Šaltinyje Ernestas apibūdinamas taip: Prahos arkivyskupas, vadovavęs Lietuvos krikšto deryboms.
+Prahos arkivyskupas, vadovavęs Lietuvos krikšto deryboms.
 
 ## Variantai
 - Ernesto
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Ernestas apibūdinamas taip: Prahos arkivyskupas, vadovavęs Lietuvos krikšto deryboms."
+  teiginys: "Prahos arkivyskupas, vadovavęs Lietuvos krikšto deryboms."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

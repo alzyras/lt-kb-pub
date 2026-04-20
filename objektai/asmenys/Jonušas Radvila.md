@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Jonušas Radvila
 
 ## Santrauka
-Šaltinyje Jonušas Radvila apibūdinamas taip: Minimas kaip didysis ir lauko hetmonas, mėginęs su kitais Lietuvos ponais tartis su švedų kariuomene ir vėliau gynęs uniją su švedais.
+Minimas kaip didysis ir lauko hetmonas, mėginęs su kitais Lietuvos ponais tartis su švedų kariuomene ir vėliau gynęs uniją su švedais.
 
 ## Variantai
 - Jonušo Radvilos
@@ -46,7 +46,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Jonušas Radvila apibūdinamas taip: Minimas kaip didysis ir lauko hetmonas, mėginęs su kitais Lietuvos ponais tartis su švedų kariuomene ir vėliau gynęs uniją su švedais."
+  teiginys: "Minimas kaip didysis ir lauko hetmonas, mėginęs su kitais Lietuvos ponais tartis su švedų kariuomene ir vėliau gynęs uniją su švedais."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

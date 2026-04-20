@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Lenininkas
 
 ## Santrauka
-Šaltinyje „Lenininkas“ vartojama taip: Lenkijai pavaldus valdovas arba vasalas. (t-001)
+Lenkijai pavaldus valdovas arba vasalas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Lenininkas
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: viduramžių politinė terminij
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Lenininkas“ vartojama taip: Lenkijai pavaldus valdovas arba vasalas."
+  teiginys: "Lenkijai pavaldus valdovas arba vasalas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

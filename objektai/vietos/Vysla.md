@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Vysla
 
 ## Santrauka
-Šaltinyje vieta „Vysla“ siejama su šiais kontekstais: Upė minima kaip ledyno vandens baseinas ir vakarinių aisčių siena; Minima kaip riba, prie kurios gyveno prūsai ir kurią pasiekdavo žemaičių žygiai. (t-001, t-002)
+Upė minima kaip ledyno vandens baseinas ir vakarinių aisčių siena; Minima kaip riba, prie kurios gyveno prūsai ir kurią pasiekdavo žemaičių žygiai. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Vysla
@@ -45,13 +45,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Vysla“ siejama su šiuo kontekstu: Upė minima kaip ledyno vandens baseinas ir vakarinių aisčių siena."
+  teiginys: "Upė minima kaip ledyno vandens baseinas ir vakarinių aisčių siena."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Vysla“ siejama su šiuo kontekstu: Minima kaip riba, prie kurios gyveno prūsai ir kurią pasiekdavo žemaičių žygiai."
+  teiginys: "Minima kaip riba, prie kurios gyveno prūsai ir kurią pasiekdavo žemaičių žygiai."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

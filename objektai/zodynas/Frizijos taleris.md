@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Frizijos taleris
 
 ## Santrauka
-Šaltinyje „Frizijos taleris“ vartojama taip: talerio tipo sidabrinis pinigas. (t-001)
+talerio tipo sidabrinis pinigas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Frizijos taleris
@@ -47,7 +47,7 @@ Terminas šaltinyje vartojamas šiame kontekste: numizmatika, pinigų istorija. 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Frizijos taleris“ vartojama taip: talerio tipo sidabrinis pinigas."
+  teiginys: "talerio tipo sidabrinis pinigas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

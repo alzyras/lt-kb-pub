@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Trečiokas
 
 ## Santrauka
-Šaltinyje „Trečiokas“ vartojama taip: trijų skatikų vertės moneta. (t-001)
+trijų skatikų vertės moneta. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Trečiokas
@@ -50,7 +50,7 @@ Terminas šaltinyje vartojamas šiame kontekste: numizmatika, pinigų istorija. 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Trečiokas“ vartojama taip: trijų skatikų vertės moneta."
+  teiginys: "trijų skatikų vertės moneta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

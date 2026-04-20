@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Italija
 
 ## Santrauka
-Šaltinyje vieta „Italija“ siejama su šiais kontekstais: Šalis minima kaip vieta, į kurią buvo išvežta Lietuvos istorijos medžiagos; Minima kaip kryžiuočių ordino centro buvimo vieta. (t-001, t-002)
+Šalis minima kaip vieta, į kurią buvo išvežta Lietuvos istorijos medžiagos; Minima kaip kryžiuočių ordino centro buvimo vieta. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Italija
@@ -45,13 +45,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Italija“ siejama su šiuo kontekstu: Šalis minima kaip vieta, į kurią buvo išvežta Lietuvos istorijos medžiagos."
+  teiginys: "Šalis minima kaip vieta, į kurią buvo išvežta Lietuvos istorijos medžiagos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Italija“ siejama su šiuo kontekstu: Minima kaip kryžiuočių ordino centro buvimo vieta."
+  teiginys: "Minima kaip kryžiuočių ordino centro buvimo vieta."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

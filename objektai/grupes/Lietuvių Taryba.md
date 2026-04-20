@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Lietuvių Taryba
 
 ## Santrauka
-Šaltinyje „Lietuvių Taryba“ apibūdinama kaip taryba; rusijoje veikianti lietuvių taryba, kuri viešai reikalavo visiškos nepriklausomybės. (t-001)
+taryba; rusijoje veikianti lietuvių taryba, kuri viešai reikalavo visiškos nepriklausomybės. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Lietuvių Taryba
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: taryba
-Šaltinyje „Lietuvių Taryba“ apibūdinama kaip taryba; rusijoje veikianti lietuvių taryba, kuri viešai reikalavo visiškos nepriklausomybės. (t-001)
+taryba; rusijoje veikianti lietuvių taryba, kuri viešai reikalavo visiškos nepriklausomybės. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Lietuvių Taryba“ apibūdinama kaip taryba; rusijoje veikianti lietuvių taryba, kuri viešai reikalavo visiškos nepriklausomybės. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Lietuvių Taryba“ apibūdinama kaip taryba; rusijoje veikianti lietuvių taryba, kuri viešai reikalavo visiškos nepriklausomybės."
+  teiginys: "taryba; rusijoje veikianti lietuvių taryba, kuri viešai reikalavo visiškos nepriklausomybės."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Vaivadija
 
 ## Santrauka
-Šaltinyje „Vaivadija“ vartojama taip: Krašto administracinis vienetas, kuriam vadovavo vaivada. (t-001)
+Krašto administracinis vienetas, kuriam vadovavo vaivada. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Vaivadija
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: administracinė istorija, valst
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Vaivadija“ vartojama taip: Krašto administracinis vienetas, kuriam vadovavo vaivada."
+  teiginys: "Krašto administracinis vienetas, kuriam vadovavo vaivada."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Zvieravičius
 
 ## Santrauka
-Šaltinyje Zvieravičius apibūdinamas taip: Minimas kaip Vilniaus vyskupas, duodavęs tokius pat atsakymus kaip Franckevičius.
+Minimas kaip Vilniaus vyskupas, duodavęs tokius pat atsakymus kaip Franckevičius.
 
 ## Variantai
 - vysk. Zvieravičius
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Zvieravičius apibūdinamas taip: Minimas kaip Vilniaus vyskupas, duodavęs tokius pat atsakymus kaip Franckevičius."
+  teiginys: "Minimas kaip Vilniaus vyskupas, duodavęs tokius pat atsakymus kaip Franckevičius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

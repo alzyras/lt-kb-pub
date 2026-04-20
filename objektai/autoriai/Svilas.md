@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Svilas
 
 ## Santrauka
-Šaltinyje Svilas minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip Napoleono karo Lietuvoje istorijos autorius.
+Minimas kaip Napoleono karo Lietuvoje istorijos autorius.
 
 ## Darbai
 - Minimas kaip Napoleono karo Lietuvoje istorijos autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Svilas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip Napoleono karo Lietuvoje istorijos autorius."
+  teiginys: "Minimas kaip Napoleono karo Lietuvoje istorijos autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

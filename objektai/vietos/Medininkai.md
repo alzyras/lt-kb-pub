@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Medininkai
 
 ## Santrauka
-Šaltinyje vieta „Medininkai“ siejama su šiais kontekstais: minima tarp pirmųjų krašto parapijų vietų po krikšto; Minima kaip Žemaičių srityje vartotas kitas vyskupystės pavadinimas. (t-001, t-002)
+minima tarp pirmųjų krašto parapijų vietų po krikšto; Minima kaip Žemaičių srityje vartotas kitas vyskupystės pavadinimas. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Medininkai
@@ -52,13 +52,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Medininkai“ siejama su šiuo kontekstu: minima tarp pirmųjų krašto parapijų vietų po krikšto."
+  teiginys: "minima tarp pirmųjų krašto parapijų vietų po krikšto."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Medininkai“ siejama su šiuo kontekstu: Minima kaip Žemaičių srityje vartotas kitas vyskupystės pavadinimas."
+  teiginys: "Minima kaip Žemaičių srityje vartotas kitas vyskupystės pavadinimas."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

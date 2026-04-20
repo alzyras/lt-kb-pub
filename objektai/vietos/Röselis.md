@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Röselis
 
 ## Santrauka
-Šaltinyje vieta „Röselis“ siejama su šiuo kontekstu: Įvardytas kartu su Įsručiu kaip ordino pilis su įkūrimo data. (t-001)
+Įvardytas kartu su Įsručiu kaip ordino pilis su įkūrimo data. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Röselis
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Röselis“ siejama su šiuo kontekstu: Įvardytas kartu su Įsručiu kaip ordino pilis su įkūrimo data."
+  teiginys: "Įvardytas kartu su Įsručiu kaip ordino pilis su įkūrimo data."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

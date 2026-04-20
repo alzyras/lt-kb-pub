@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Jonas Zamoiskis
 
 ## Santrauka
-Šaltinyje Jonas Zamoiskis apibūdinamas taip: Minimas kaip Lenkijos kancleris ir hetmonas, puolamas elekcijos metu.
+Minimas kaip Lenkijos kancleris ir hetmonas, puolamas elekcijos metu.
 
 ## Variantai
 - Zamoiskio
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Jonas Zamoiskis apibūdinamas taip: Minimas kaip Lenkijos kancleris ir hetmonas, puolamas elekcijos metu."
+  teiginys: "Minimas kaip Lenkijos kancleris ir hetmonas, puolamas elekcijos metu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

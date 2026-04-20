@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Karolis VI
 
 ## Santrauka
-Šaltinyje Karolis VI apibūdinamas taip: Minimas kaip Austrijos imperatorius, į kurio palikimą Fridrikas Augustas atsisakė pretenduoti.
+Minimas kaip Austrijos imperatorius, į kurio palikimą Fridrikas Augustas atsisakė pretenduoti.
 
 ## Variantai
 - Karolio VI
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Karolis VI apibūdinamas taip: Minimas kaip Austrijos imperatorius, į kurio palikimą Fridrikas Augustas atsisakė pretenduoti."
+  teiginys: "Minimas kaip Austrijos imperatorius, į kurio palikimą Fridrikas Augustas atsisakė pretenduoti."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Osa
 
 ## Santrauka
-Šaltinyje vieta „Osa“ siejama su šiuo kontekstu: Minima kaip Vytauto teritorinių pretenzijų riba. (t-001)
+Minima kaip Vytauto teritorinių pretenzijų riba. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Osa
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Osa“ siejama su šiuo kontekstu: Minima kaip Vytauto teritorinių pretenzijų riba."
+  teiginys: "Minima kaip Vytauto teritorinių pretenzijų riba."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

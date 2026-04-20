@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Karaliaučius
 
 ## Santrauka
-Šaltinyje vieta „Karaliaučius“ siejama su šiais kontekstais: Miestas minimas kaip vienas svarbiausių archyvų centrų Lietuvos istorijos medžiagai; Minimas kaip Vytauto planuotas žygio tikslas ir kaip tėvonija. (t-001, t-002)
+Miestas minimas kaip vienas svarbiausių archyvų centrų Lietuvos istorijos medžiagai; Minimas kaip Vytauto planuotas žygio tikslas ir kaip tėvonija. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Karaliaučius
@@ -45,13 +45,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Karaliaučius“ siejama su šiuo kontekstu: Miestas minimas kaip vienas svarbiausių archyvų centrų Lietuvos istorijos medžiagai."
+  teiginys: "Miestas minimas kaip vienas svarbiausių archyvų centrų Lietuvos istorijos medžiagai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Karaliaučius“ siejama su šiuo kontekstu: Minimas kaip Vytauto planuotas žygio tikslas ir kaip tėvonija."
+  teiginys: "Minimas kaip Vytauto planuotas žygio tikslas ir kaip tėvonija."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Žemaičių padavimų ir senienų rinkimas
 
 ## Santrauka
-Šaltinyje minima praktika „Žemaičių padavimų ir senienų rinkimas“ siejama su formuluote: rinkti savo krašto padavimus ir įvairias senienas. Šaltinio kontekste nurodoma: kas atlieka: neturtingi Žemaičių bajorai, ypač D. Poška; kada atliekama: XIX a. pradžioje. (t-001)
+rinkti savo krašto padavimus ir įvairias senienas. Šaltinio kontekste nurodoma: kas atlieka: neturtingi Žemaičių bajorai, ypač D. Poška; kada atliekama: XIX a. pradžioje. (t-001)
 
 ## Pavadinimai šaltiniuose
 - rinkti savo krašto padavimus ir įvairias senienas
@@ -39,8 +39,7 @@ patikimumas: "vidutinis"
 - amziai: XIX (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Žemaičių padavimų ir senienų rinkimas“ siejama su formuluote: rinkti savo krašto padavimus ir įvairias senienas. Šaltinio kontekste nurodoma: kas atlieka: neturtingi Žemaičių bajorai, ypač D. Poška; kada atliekama: XIX a. pradžioje. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: neturtingi Žemaičių bajorai, ypač D. Poška (t-001)
 - kada atliekama: XIX a. pradžioje (t-001)
@@ -48,7 +47,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Žemaičių padavimų ir senienų rinkimas“ siejama su formuluote: rinkti savo krašto padavimus ir įvairias senienas. Šaltinio kontekste nurodoma: kas atlieka: neturtingi Žemaičių bajorai, ypač D. Poška; kada atliekama: XIX a. pradžioje."
+  teiginys: "rinkti savo krašto padavimus ir įvairias senienas. Šaltinio kontekste nurodoma: kas atlieka: neturtingi Žemaičių bajorai, ypač D. Poška; kada atliekama: XIX a. pradžioje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

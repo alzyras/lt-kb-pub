@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Žodiškiai
 
 ## Santrauka
-Šaltinyje vieta „Žodiškiai“ siejama su šiuo kontekstu: Minimi kaip Minkevičių fundacijos vieta. (t-001)
+Minimi kaip Minkevičių fundacijos vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Žodiškiai
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Žodiškiai“ siejama su šiuo kontekstu: Minimi kaip Minkevičių fundacijos vieta."
+  teiginys: "Minimi kaip Minkevičių fundacijos vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

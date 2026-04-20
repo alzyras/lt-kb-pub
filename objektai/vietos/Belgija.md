@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Belgija
 
 ## Santrauka
-Šaltinyje vieta „Belgija“ siejama su šiuo kontekstu: Minima kaip Vokietijos puolimo kryptis karo pradžioje. (t-001)
+Minima kaip Vokietijos puolimo kryptis karo pradžioje. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Belgija
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Belgija“ siejama su šiuo kontekstu: Minima kaip Vokietijos puolimo kryptis karo pradžioje."
+  teiginys: "Minima kaip Vokietijos puolimo kryptis karo pradžioje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

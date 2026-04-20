@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Karolis Pilypas
 
 ## Santrauka
-Šaltinyje Karolis Pilypas apibūdinamas taip: Minimas kaip Neuburgo princas, už kurio ištekėjo Radvilaitė.
+Minimas kaip Neuburgo princas, už kurio ištekėjo Radvilaitė.
 
 ## Variantai
 - Karolio Pilypo
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Karolis Pilypas apibūdinamas taip: Minimas kaip Neuburgo princas, už kurio ištekėjo Radvilaitė."
+  teiginys: "Minimas kaip Neuburgo princas, už kurio ištekėjo Radvilaitė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Leidžiama spausdinti, tik rusiškomis raidėmis
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Leidžiama spausdinti, tik rusiškomis raidėmis“; kontekstas: Cenzūra paprastai taip atsakydavo į lietuviškų leidinių spausdinimo prašymus. Reikšmė: Cenzūros atsakymo formulė, rodanti leidimo sąlygą spausdinti tik rusiškomis raidėmis. (t-001)
+Užfiksuota formuluotė „Leidžiama spausdinti, tik rusiškomis raidėmis“; kontekstas: Cenzūra paprastai taip atsakydavo į lietuviškų leidinių spausdinimo prašymus. Reikšmė: Cenzūros atsakymo formulė, rodanti leidimo sąlygą spausdinti tik rusiškomis raidėmis. (t-001)
 
 ## Forma
 - pagrindinė forma: Leidžiama spausdinti, tik rusiškomis raidėmis (t-001)
@@ -35,7 +35,7 @@ patikimumas: "vidutinis"
 - „Leidžiama spausdinti, tik rusiš-
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Cenzūra paprastai taip atsakydavo į lietuviškų leidinių spausdinimo prašymus. (t-001)
@@ -45,7 +45,7 @@ Cenzūros atsakymo formulė, rodanti leidimo sąlygą spausdinti tik rusiškomis
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Leidžiama spausdinti, tik rusiškomis raidėmis“; kontekstas: Cenzūra paprastai taip atsakydavo į lietuviškų leidinių spausdinimo prašymus."
+  teiginys: "Užfiksuota formuluotė „Leidžiama spausdinti, tik rusiškomis raidėmis“; kontekstas: Cenzūra paprastai taip atsakydavo į lietuviškų leidinių spausdinimo prašymus."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

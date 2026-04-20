@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Didžioji Lietuvos kunigaikštystė
 
 ## Santrauka
-Šaltinyje vieta „Didžioji Lietuvos kunigaikštystė“ siejama su šiuo kontekstu: Minima kaip valstybė, kuri XV amžiuje buvo pasiekusi didžiausią teritorinį išsiplėtimą. (t-001)
+Minima kaip valstybė, kuri XV amžiuje buvo pasiekusi didžiausią teritorinį išsiplėtimą. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Didžioji Lietuvos kunigaikštystė
@@ -50,7 +50,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Didžioji Lietuvos kunigaikštystė“ siejama su šiuo kontekstu: Minima kaip valstybė, kuri XV amžiuje buvo pasiekusi didžiausią teritorinį išsiplėtimą."
+  teiginys: "Minima kaip valstybė, kuri XV amžiuje buvo pasiekusi didžiausią teritorinį išsiplėtimą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

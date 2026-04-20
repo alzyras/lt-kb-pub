@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Kalvinai
 
 ## Santrauka
-Šaltinyje „Kalvinai“ vartojama taip: Kalvinizmo šalininkai, protestantų srovė. (t-001)
+Kalvinizmo šalininkai, protestantų srovė. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Kalvinai
@@ -50,7 +50,7 @@ Terminas šaltinyje vartojamas šiame kontekste: tikybos istorija, protestantizm
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kalvinai“ vartojama taip: Kalvinizmo šalininkai, protestantų srovė."
+  teiginys: "Kalvinizmo šalininkai, protestantų srovė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

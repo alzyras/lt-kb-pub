@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Mikalojus I
 
 ## Santrauka
-Šaltinyje Mikalojus I apibūdinamas taip: Minimas kaip caras, žengdamas į sostą pabrėžęs valstiečių pareigų tęsimą.
+Minimas kaip caras, žengdamas į sostą pabrėžęs valstiečių pareigų tęsimą.
 
 ## Variantai
 - caras Mikalojus I
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Mikalojus I apibūdinamas taip: Minimas kaip caras, žengdamas į sostą pabrėžęs valstiečių pareigų tęsimą."
+  teiginys: "Minimas kaip caras, žengdamas į sostą pabrėžęs valstiečių pareigų tęsimą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

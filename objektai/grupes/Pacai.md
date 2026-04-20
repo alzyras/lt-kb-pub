@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Pacai
 
 ## Santrauka
-Šaltinyje „Pacai“ apibūdinama kaip didikų giminė; pacai čia rodomi kaip Lietuvai vadovaujanti didikų giminė, kuri pasisakė už Višniaveckį. (t-001) Šaltinyje „Pacai“ siejama su šiuo kontekstu: Pacai čia rodomi kaip Lietuvai vadovaujanti didikų giminė, kuri pasisakė už Višniaveckį. (t-002)
+didikų giminė; pacai čia rodomi kaip Lietuvai vadovaujanti didikų giminė, kuri pasisakė už Višniaveckį. (t-001) Šaltinyje „Pacai“ siejama su šiuo kontekstu: Pacai čia rodomi kaip Lietuvai vadovaujanti didikų giminė, kuri pasisakė už Višniaveckį. (t-002)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Pacai
@@ -36,7 +36,7 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: didikų giminė
-Šaltinyje „Pacai“ apibūdinama kaip didikų giminė; pacai čia rodomi kaip Lietuvai vadovaujanti didikų giminė, kuri pasisakė už Višniaveckį. (t-001)
+didikų giminė; pacai čia rodomi kaip Lietuvai vadovaujanti didikų giminė, kuri pasisakė už Višniaveckį. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Pacai“ apibūdinama kaip didikų giminė; pacai čia rodomi kaip Lietuvai vadovaujanti didikų giminė, kuri pasisakė už Višniaveckį. (t-001)
@@ -44,13 +44,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Pacai“ apibūdinama kaip didikų giminė; pacai čia rodomi kaip Lietuvai vadovaujanti didikų giminė, kuri pasisakė už Višniaveckį."
+  teiginys: "didikų giminė; pacai čia rodomi kaip Lietuvai vadovaujanti didikų giminė, kuri pasisakė už Višniaveckį."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Pacai“ siejama su šiuo kontekstu: Pacai čia rodomi kaip Lietuvai vadovaujanti didikų giminė, kuri pasisakė už Višniaveckį."
+  teiginys: "Pacai čia rodomi kaip Lietuvai vadovaujanti didikų giminė, kuri pasisakė už Višniaveckį."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Viduriniosios Europos Sąjunga
 
 ## Santrauka
-Šaltinyje „Viduriniosios Europos Sąjunga“ apibūdinama kaip sąjunga; t. Masariko įkurta sąjunga, su kuria dėjosi Amerikos lietuvių vykdomasis komitetas. (t-001)
+sąjunga; t. Masariko įkurta sąjunga, su kuria dėjosi Amerikos lietuvių vykdomasis komitetas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Viduriniosios Europos Sąjunga
@@ -36,14 +36,14 @@ patikimumas: "vidutinis"
 
 ## Kas tai
 - tipas: sąjunga
-Šaltinyje „Viduriniosios Europos Sąjunga“ apibūdinama kaip sąjunga; t. Masariko įkurta sąjunga, su kuria dėjosi Amerikos lietuvių vykdomasis komitetas. (t-001)
+sąjunga; t. Masariko įkurta sąjunga, su kuria dėjosi Amerikos lietuvių vykdomasis komitetas. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Viduriniosios Europos Sąjunga“ apibūdinama kaip sąjunga; t. Masariko įkurta sąjunga, su kuria dėjosi Amerikos lietuvių vykdomasis komitetas. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Viduriniosios Europos Sąjunga“ apibūdinama kaip sąjunga; t. Masariko įkurta sąjunga, su kuria dėjosi Amerikos lietuvių vykdomasis komitetas."
+  teiginys: "sąjunga; t. Masariko įkurta sąjunga, su kuria dėjosi Amerikos lietuvių vykdomasis komitetas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

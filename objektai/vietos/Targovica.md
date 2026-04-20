@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Targovica
 
 ## Santrauka
-Šaltinyje vieta „Targovica“ siejama su šiuo kontekstu: Targovica minima konfederacijos pavadinime. (t-001)
+Targovica minima konfederacijos pavadinime. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Targovica
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Targovica“ siejama su šiuo kontekstu: Targovica minima konfederacijos pavadinime."
+  teiginys: "Targovica minima konfederacijos pavadinime."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

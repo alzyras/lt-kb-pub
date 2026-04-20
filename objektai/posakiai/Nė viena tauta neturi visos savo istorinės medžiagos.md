@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Nė viena tauta neturi visos savo istorinės medžiagos
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Nė viena tauta neturi visos savo istorinės medžiagos savam krašte“; kontekstas: Pastraipoje apie archyvus ir bibliotekas pateikiamas bendras apibendrinimas, kad istorinė medžiaga dažnai saugoma ne tik savame krašte. Reikšmė: Skamba kaip aforistinė istorijos šaltinių pasklidimo formuluotė. (t-001)
+Užfiksuota formuluotė „Nė viena tauta neturi visos savo istorinės medžiagos savam krašte“; kontekstas: Pastraipoje apie archyvus ir bibliotekas pateikiamas bendras apibendrinimas, kad istorinė medžiaga dažnai saugoma ne tik savame krašte. Reikšmė: Skamba kaip aforistinė istorijos šaltinių pasklidimo formuluotė. (t-001)
 
 ## Forma
 - pagrindinė forma: Nė viena tauta neturi visos savo istorinės medžiagos savam krašte (t-001)
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 - Nė viena tauta neturi visos savo istorinės medžiagos savam krašte.
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Pastraipoje apie archyvus ir bibliotekas pateikiamas bendras apibendrinimas, kad istorinė medžiaga dažnai saugoma ne tik savame krašte. (t-001)
@@ -48,7 +48,7 @@ Skamba kaip aforistinė istorijos šaltinių pasklidimo formuluotė. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Nė viena tauta neturi visos savo istorinės medžiagos savam krašte“; kontekstas: Pastraipoje apie archyvus ir bibliotekas pateikiamas bendras apibendrinimas, kad istorinė medžiaga dažnai saugoma ne tik savame krašte."
+  teiginys: "Užfiksuota formuluotė „Nė viena tauta neturi visos savo istorinės medžiagos savam krašte“; kontekstas: Pastraipoje apie archyvus ir bibliotekas pateikiamas bendras apibendrinimas, kad istorinė medžiaga dažnai saugoma ne tik savame krašte."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Tėviškės pilis
 
 ## Santrauka
-Šaltinyje „Tėviškės pilis“ vartojama taip: Gimtinės ar pagrindinė valdovo pilis, veikianti kaip vietinis valdžios centras. (t-001)
+Gimtinės ar pagrindinė valdovo pilis, veikianti kaip vietinis valdžios centras. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Tėviškės pilis
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: valdžios organizacija, pilies 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Tėviškės pilis“ vartojama taip: Gimtinės ar pagrindinė valdovo pilis, veikianti kaip vietinis valdžios centras."
+  teiginys: "Gimtinės ar pagrindinė valdovo pilis, veikianti kaip vietinis valdžios centras."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

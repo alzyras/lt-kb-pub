@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # Lengvenis Algirdaitis
 
 ## Santrauka
-Šaltinyje Lengvenis Algirdaitis apibūdinamas taip: Smolensko valdovo Jurgio tėvas, minimas sritinės kunigaikštystės kontekste.
+Smolensko valdovo Jurgio tėvas, minimas sritinės kunigaikštystės kontekste.
 
 ## Variantai
 - Lengvenio Algirdaičio
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Lengvenis Algirdaitis apibūdinamas taip: Smolensko valdovo Jurgio tėvas, minimas sritinės kunigaikštystės kontekste."
+  teiginys: "Smolensko valdovo Jurgio tėvas, minimas sritinės kunigaikštystės kontekste."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

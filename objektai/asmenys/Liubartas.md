@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Liubartas
 
 ## Santrauka
-Šaltinyje Liubartas apibūdinamas taip: Gedimino sūnus, valdęs dalį Voluinės ir minimas kaip vienas iš kovų dėl Voluinės veikėjų.
+Gedimino sūnus, valdęs dalį Voluinės ir minimas kaip vienas iš kovų dėl Voluinės veikėjų.
 
 ## Variantai
 - Liubarto
@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Liubartas apibūdinamas taip: Gedimino sūnus, valdęs dalį Voluinės ir minimas kaip vienas iš kovų dėl Voluinės veikėjų."
+  teiginys: "Gedimino sūnus, valdęs dalį Voluinės ir minimas kaip vienas iš kovų dėl Voluinės veikėjų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

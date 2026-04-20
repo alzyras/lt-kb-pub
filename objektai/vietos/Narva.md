@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Narva
 
 ## Santrauka
-Šaltinyje vieta „Narva“ siejama su šiuo kontekstu: Minimas kaip vieta, kur Petras I sunaikino caro kariuomenę. (t-001)
+Minimas kaip vieta, kur Petras I sunaikino caro kariuomenę. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Narva
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Narva“ siejama su šiuo kontekstu: Minimas kaip vieta, kur Petras I sunaikino caro kariuomenę."
+  teiginys: "Minimas kaip vieta, kur Petras I sunaikino caro kariuomenę."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

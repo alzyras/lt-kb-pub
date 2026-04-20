@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Karevičius
 
 ## Santrauka
-Šaltinyje Karevičius apibūdinamas taip: Minimas kaip Kauno vyskupas, pirmasis aiškiai pabrėžęs lietuvišką savo tapatybę.
+Minimas kaip Kauno vyskupas, pirmasis aiškiai pabrėžęs lietuvišką savo tapatybę.
 
 ## Variantai
 - vysk. Karevičius
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Karevičius apibūdinamas taip: Minimas kaip Kauno vyskupas, pirmasis aiškiai pabrėžęs lietuvišką savo tapatybę."
+  teiginys: "Minimas kaip Kauno vyskupas, pirmasis aiškiai pabrėžęs lietuvišką savo tapatybę."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

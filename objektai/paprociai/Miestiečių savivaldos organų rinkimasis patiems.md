@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Miestiečių savivaldos organų rinkimasis patiems
 
 ## Santrauka
-Šaltinyje minima praktika „Miestiečių savivaldos organų rinkimasis patiems“ siejama su formuluote: Miestiečiai savo magistratus ir teismus taip pat rinkdavosi patys. Šaltinio kontekste nurodoma: kas atlieka: miestiečiai; kada atliekama: Rusų valdžios laikotarpiu. (t-001)
+Miestiečiai savo magistratus ir teismus taip pat rinkdavosi patys. Šaltinio kontekste nurodoma: kas atlieka: miestiečiai; kada atliekama: Rusų valdžios laikotarpiu. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Miestiečiai savo magistratus ir teismus taip pat rinkdavosi patys
@@ -37,8 +37,7 @@ patikimumas: "vidutinis"
 - datos: po II padalinimo (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Miestiečių savivaldos organų rinkimasis patiems“ siejama su formuluote: Miestiečiai savo magistratus ir teismus taip pat rinkdavosi patys. Šaltinio kontekste nurodoma: kas atlieka: miestiečiai; kada atliekama: Rusų valdžios laikotarpiu. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: miestiečiai (t-001)
 - kada atliekama: Rusų valdžios laikotarpiu (t-001)
@@ -46,7 +45,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Miestiečių savivaldos organų rinkimasis patiems“ siejama su formuluote: Miestiečiai savo magistratus ir teismus taip pat rinkdavosi patys. Šaltinio kontekste nurodoma: kas atlieka: miestiečiai; kada atliekama: Rusų valdžios laikotarpiu."
+  teiginys: "Miestiečiai savo magistratus ir teismus taip pat rinkdavosi patys. Šaltinio kontekste nurodoma: kas atlieka: miestiečiai; kada atliekama: Rusų valdžios laikotarpiu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

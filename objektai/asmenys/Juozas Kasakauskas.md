@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Juozas Kasakauskas
 
 ## Santrauka
-Šaltinyje Juozas Kasakauskas apibūdinamas taip: Vilniuje suorganizuota reformoms priešinga konfederacija, kuri viešai prisidėjo prie Targovicos konfederacijos.
+Vilniuje suorganizuota reformoms priešinga konfederacija, kuri viešai prisidėjo prie Targovicos konfederacijos.
 
 ## Variantai
 - Kasakauskas
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Juozas Kasakauskas apibūdinamas taip: Vilniuje suorganizuota reformoms priešinga konfederacija, kuri viešai prisidėjo prie Targovicos konfederacijos."
+  teiginys: "Vilniuje suorganizuota reformoms priešinga konfederacija, kuri viešai prisidėjo prie Targovicos konfederacijos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

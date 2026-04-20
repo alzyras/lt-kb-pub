@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Pietų vokiečiai
 
 ## Santrauka
-Šaltinyje „Pietų vokiečiai“ apibūdinama kaip etninė kolonistų grupė; paminima apie 20.000 pietų vokiečių, kurie po maro ir kolonizacijos atvyko į Mažąją Lietuvą; tekste iškart išvardijami jų kilmės tipai. (t-001)
+etninė kolonistų grupė; paminima apie 20.000 pietų vokiečių, kurie po maro ir kolonizacijos atvyko į Mažąją Lietuvą; tekste iškart išvardijami jų kilmės tipai. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Pietų vokiečiai
@@ -48,14 +48,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: etninė kolonistų grupė
-Šaltinyje „Pietų vokiečiai“ apibūdinama kaip etninė kolonistų grupė; paminima apie 20.000 pietų vokiečių, kurie po maro ir kolonizacijos atvyko į Mažąją Lietuvą; tekste iškart išvardijami jų kilmės tipai. (t-001)
+etninė kolonistų grupė; paminima apie 20.000 pietų vokiečių, kurie po maro ir kolonizacijos atvyko į Mažąją Lietuvą; tekste iškart išvardijami jų kilmės tipai. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Pietų vokiečiai“ apibūdinama kaip etninė kolonistų grupė; paminima apie 20.000 pietų vokiečių, kurie po maro ir kolonizacijos atvyko į Mažąją Lietuvą; tekste iškart išvardijami jų kilmės tipai. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Pietų vokiečiai“ apibūdinama kaip etninė kolonistų grupė; paminima apie 20.000 pietų vokiečių, kurie po maro ir kolonizacijos atvyko į Mažąją Lietuvą; tekste iškart išvardijami jų kilmės tipai."
+  teiginys: "etninė kolonistų grupė; paminima apie 20.000 pietų vokiečių, kurie po maro ir kolonizacijos atvyko į Mažąją Lietuvą; tekste iškart išvardijami jų kilmės tipai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

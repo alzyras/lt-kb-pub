@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Medžiaginės kultūros paminklai
 
 ## Santrauka
-Šaltinyje „Medžiaginės kultūros paminklai“ vartojama taip: Materialinės kultūros liekanos, archeologiniai radiniai, senoviniai daiktai. (t-001)
+Materialinės kultūros liekanos, archeologiniai radiniai, senoviniai daiktai. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Medžiaginės kultūros paminklai
@@ -49,7 +49,7 @@ Terminas šaltinyje vartojamas šiame kontekste: archeologija, istorijos šaltin
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Medžiaginės kultūros paminklai“ vartojama taip: Materialinės kultūros liekanos, archeologiniai radiniai, senoviniai daiktai."
+  teiginys: "Materialinės kultūros liekanos, archeologiniai radiniai, senoviniai daiktai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

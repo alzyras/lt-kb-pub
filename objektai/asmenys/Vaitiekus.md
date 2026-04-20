@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Vaitiekus
 
 ## Santrauka
-Šaltinyje Vaitiekus apibūdinamas taip: Aprašomas kaip Prahos vyskupas ir pirmasis žinomas aisčių apaštalas.
+Aprašomas kaip Prahos vyskupas ir pirmasis žinomas aisčių apaštalas.
 
 ## Variantai
 - Adalbertas
@@ -43,7 +43,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Vaitiekus apibūdinamas taip: Aprašomas kaip Prahos vyskupas ir pirmasis žinomas aisčių apaštalas."
+  teiginys: "Aprašomas kaip Prahos vyskupas ir pirmasis žinomas aisčių apaštalas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

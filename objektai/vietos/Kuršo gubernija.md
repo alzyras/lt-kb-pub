@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Kuršo gubernija
 
 ## Santrauka
-Šaltinyje vieta „Kuršo gubernija“ siejama su šiuo kontekstu: Minima kaip buvusios Latvijos ir Lietuvos sienos orientyras bei teritorinė nuoroda derybose dėl sienos. (t-001)
+Minima kaip buvusios Latvijos ir Lietuvos sienos orientyras bei teritorinė nuoroda derybose dėl sienos. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Kuršo gubernija
@@ -49,7 +49,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Kuršo gubernija“ siejama su šiuo kontekstu: Minima kaip buvusios Latvijos ir Lietuvos sienos orientyras bei teritorinė nuoroda derybose dėl sienos."
+  teiginys: "Minima kaip buvusios Latvijos ir Lietuvos sienos orientyras bei teritorinė nuoroda derybose dėl sienos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

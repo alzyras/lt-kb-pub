@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Voltaire
 
 ## Santrauka
-Šaltinyje Voltaire minimas autorystės, redagavimo arba tyrimo kontekste: Minimas tarp švietimo epochos autorių ir kaip Volterą laikęs Fridrikas Didysis.
+Minimas tarp švietimo epochos autorių ir kaip Volterą laikęs Fridrikas Didysis.
 
 ## Darbai
 - Minimas tarp švietimo epochos autorių ir kaip Volterą laikęs Fridrikas Didysis. (t-001)
@@ -37,7 +37,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Voltaire autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas tarp švietimo epochos autorių ir kaip Volterą laikęs Fridrikas Didysis."
+  teiginys: "Minimas tarp švietimo epochos autorių ir kaip Volterą laikęs Fridrikas Didysis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

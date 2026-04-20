@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Baudžiava
 
 ## Santrauka
-Šaltinyje „Baudžiava“ vartojama taip: Baudžiavinis valstiečių pavaldumas. (t-001)
+Baudžiavinis valstiečių pavaldumas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Baudžiava
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: socialinė istorija, valstieči
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Baudžiava“ vartojama taip: Baudžiavinis valstiečių pavaldumas."
+  teiginys: "Baudžiavinis valstiečių pavaldumas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Varniai
 
 ## Santrauka
-Šaltinyje vieta „Varniai“ siejama su šiuo kontekstu: Minimi kaip Žemaičių vyskupystės centras. (t-001)
+Minimi kaip Žemaičių vyskupystės centras. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Varniai
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Varniai“ siejama su šiuo kontekstu: Minimi kaip Žemaičių vyskupystės centras."
+  teiginys: "Minimi kaip Žemaičių vyskupystės centras."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

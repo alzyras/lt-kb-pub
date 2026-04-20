@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Graikija
 
 ## Santrauka
-Šaltinyje vieta „Graikija“ siejama su šiais kontekstais: Šalis minima kartu su Roma kaip ankstyvos aisčių prekybos kryptis; Minima kaip vieta, kur gyveno Vaišvilkas po Mindaugo žūties. (t-001, t-002)
+Šalis minima kartu su Roma kaip ankstyvos aisčių prekybos kryptis; Minima kaip vieta, kur gyveno Vaišvilkas po Mindaugo žūties. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Graikija
@@ -45,13 +45,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Graikija“ siejama su šiuo kontekstu: Šalis minima kartu su Roma kaip ankstyvos aisčių prekybos kryptis."
+  teiginys: "Šalis minima kartu su Roma kaip ankstyvos aisčių prekybos kryptis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Graikija“ siejama su šiuo kontekstu: Minima kaip vieta, kur gyveno Vaišvilkas po Mindaugo žūties."
+  teiginys: "Minima kaip vieta, kur gyveno Vaišvilkas po Mindaugo žūties."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

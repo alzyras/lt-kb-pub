@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Max von Baden
 
 ## Santrauka
-Šaltinyje Max von Baden apibūdinamas taip: Minimas kaip paskutinysis senosios Vokietijos kancleris, leidęs sudaryti Lietuvos vyriausybę.
+Minimas kaip paskutinysis senosios Vokietijos kancleris, leidęs sudaryti Lietuvos vyriausybę.
 
 ## Variantai
 - (Max von Baden)
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Max von Baden apibūdinamas taip: Minimas kaip paskutinysis senosios Vokietijos kancleris, leidęs sudaryti Lietuvos vyriausybę."
+  teiginys: "Minimas kaip paskutinysis senosios Vokietijos kancleris, leidęs sudaryti Lietuvos vyriausybę."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

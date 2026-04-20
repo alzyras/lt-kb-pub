@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Prūsų karalystė
 
 ## Santrauka
-Šaltinyje vieta „Prūsų karalystė“ siejama su šiuo kontekstu: Minima kaip iš Brandenburgo ir ordino valstybės likučių sukurta valstybė. (t-001)
+Minima kaip iš Brandenburgo ir ordino valstybės likučių sukurta valstybė. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Prūsų karalystė
@@ -46,7 +46,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Prūsų karalystė“ siejama su šiuo kontekstu: Minima kaip iš Brandenburgo ir ordino valstybės likučių sukurta valstybė."
+  teiginys: "Minima kaip iš Brandenburgo ir ordino valstybės likučių sukurta valstybė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

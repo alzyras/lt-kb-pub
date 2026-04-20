@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # H. Chambon
 
 ## Santrauka
-Šaltinyje H. Chambon minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip veikalų apie Paryžiaus taikos konferenciją ir Lietuvos padėtį autorius.
+Minimas kaip veikalų apie Paryžiaus taikos konferenciją ir Lietuvos padėtį autorius.
 
 ## Darbai
 - Minimas kaip veikalų apie Paryžiaus taikos konferenciją ir Lietuvos padėtį autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje H. Chambon autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip veikalų apie Paryžiaus taikos konferenciją ir Lietuvos padėtį autorius."
+  teiginys: "Minimas kaip veikalų apie Paryžiaus taikos konferenciją ir Lietuvos padėtį autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

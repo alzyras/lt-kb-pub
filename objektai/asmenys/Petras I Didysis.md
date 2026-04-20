@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Petras I Didysis
 
 ## Santrauka
-Šaltinyje Petras I Didysis apibūdinamas taip: Minimas kaip Maskvos caras, siekęs prasiveržti į Baltijos jūrą ir pradėti karą prieš švedus. Šaltinyje Petras I Didysis apibūdinamas taip: Minimas kaip energingas caras, pakirtęs senąją santvarką ir priartinęs Rusiją prie Europos.
+Minimas kaip Maskvos caras, siekęs prasiveržti į Baltijos jūrą ir pradėti karą prieš švedus. Minimas kaip energingas caras, pakirtęs senąją santvarką ir priartinęs Rusiją prie Europos.
 
 ## Variantai
 - Petras I
@@ -43,13 +43,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Petras I Didysis apibūdinamas taip: Minimas kaip Maskvos caras, siekęs prasiveržti į Baltijos jūrą ir pradėti karą prieš švedus."
+  teiginys: "Minimas kaip Maskvos caras, siekęs prasiveržti į Baltijos jūrą ir pradėti karą prieš švedus."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje Petras I Didysis apibūdinamas taip: Minimas kaip energingas caras, pakirtęs senąją santvarką ir priartinęs Rusiją prie Europos."
+  teiginys: "Minimas kaip energingas caras, pakirtęs senąją santvarką ir priartinęs Rusiją prie Europos."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

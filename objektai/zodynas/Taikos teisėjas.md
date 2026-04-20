@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Taikos teisėjas
 
 ## Santrauka
-Šaltinyje „Taikos teisėjas“ vartojama taip: vietos teismo ar savivaldybių priežiūros pareigūnas. (t-001)
+vietos teismo ar savivaldybių priežiūros pareigūnas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Taikos teisėjas
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: teismai, vietos administracija.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Taikos teisėjas“ vartojama taip: vietos teismo ar savivaldybių priežiūros pareigūnas."
+  teiginys: "vietos teismo ar savivaldybių priežiūros pareigūnas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

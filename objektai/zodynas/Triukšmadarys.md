@@ -30,7 +30,7 @@ patikimumas: "vidutinis"
 # Triukšmadarys
 
 ## Santrauka
-Šaltinyje „Triukšmadarys“ vartojama taip: Triukšmą keliantis, konfliktus provokuojantis žmogus. (t-001)
+Triukšmą keliantis, konfliktus provokuojantis žmogus. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Triukšmadarys
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: poleminė kalba, bažnytiniai k
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Triukšmadarys“ vartojama taip: Triukšmą keliantis, konfliktus provokuojantis žmogus."
+  teiginys: "Triukšmą keliantis, konfliktus provokuojantis žmogus."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Žemaičių vyskupija
 
 ## Santrauka
-Šaltinyje vieta „Žemaičių vyskupija“ siejama su šiuo kontekstu: Minima kaip teritorija, iš kurios buvo ištremta kunigų ir kuri vėliau nukentėjo nuo rusinimo. (t-001)
+Minima kaip teritorija, iš kurios buvo ištremta kunigų ir kuri vėliau nukentėjo nuo rusinimo. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Žemaičių vyskupija
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Žemaičių vyskupija“ siejama su šiuo kontekstu: Minima kaip teritorija, iš kurios buvo ištremta kunigų ir kuri vėliau nukentėjo nuo rusinimo."
+  teiginys: "Minima kaip teritorija, iš kurios buvo ištremta kunigų ir kuri vėliau nukentėjo nuo rusinimo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

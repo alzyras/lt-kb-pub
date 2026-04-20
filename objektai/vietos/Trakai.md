@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Trakai
 
 ## Santrauka
-Šaltinyje vieta „Trakai“ siejama su šiuo kontekstu: Trakai minimi kaip 1379 m. paliaubų vieta ir vėlesnių kovų dėl valdžios erdvė. (t-001)
+Trakai minimi kaip 1379 m. paliaubų vieta ir vėlesnių kovų dėl valdžios erdvė. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Trakai
@@ -51,7 +51,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Trakai“ siejama su šiuo kontekstu: Trakai minimi kaip 1379 m. paliaubų vieta ir vėlesnių kovų dėl valdžios erdvė."
+  teiginys: "Trakai minimi kaip 1379 m. paliaubų vieta ir vėlesnių kovų dėl valdžios erdvė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

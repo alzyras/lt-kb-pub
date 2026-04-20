@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Vytauto antspaudo užrašas
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Vytauto antspaudo užrašas“; kontekstas: Paveikslo antraštėje pateikiamas Vytauto didžiojo antspaudo užrašas. Reikšmė: Oficiali lotyniška Vytauto titulatura ant antspaudo. (t-001)
+Užfiksuota formuluotė „Vytauto antspaudo užrašas“; kontekstas: Paveikslo antraštėje pateikiamas Vytauto didžiojo antspaudo užrašas. Reikšmė: Oficiali lotyniška Vytauto titulatura ant antspaudo. (t-001)
 
 ## Forma
 - pagrindinė forma: Vytauto antspaudo užrašas (t-001)
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 - Didysis (majestotinis) Vytauto antspaudas su užrašu: Sigillum Alexandri alias Witowdi Dei gra[tia] ducis Lithwaniae ... alie et cetera.
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Paveikslo antraštėje pateikiamas Vytauto didžiojo antspaudo užrašas. (t-001)
@@ -48,7 +48,7 @@ Oficiali lotyniška Vytauto titulatura ant antspaudo. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Vytauto antspaudo užrašas“; kontekstas: Paveikslo antraštėje pateikiamas Vytauto didžiojo antspaudo užrašas."
+  teiginys: "Užfiksuota formuluotė „Vytauto antspaudo užrašas“; kontekstas: Paveikslo antraštėje pateikiamas Vytauto didžiojo antspaudo užrašas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # W. Gaerte
 
 ## Santrauka
-Šaltinyje W. Gaerte minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip Rytų Prūsijos priešistorės autorius.
+Bibliografijoje nurodytas kaip Rytų Prūsijos priešistorės autorius.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip Rytų Prūsijos priešistorės autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje W. Gaerte autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip Rytų Prūsijos priešistorės autorius."
+  teiginys: "Bibliografijoje nurodytas kaip Rytų Prūsijos priešistorės autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

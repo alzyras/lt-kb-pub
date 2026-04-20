@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Konstantinas Širvydas
 
 ## Santrauka
-Šaltinyje Konstantinas Širvydas apibūdinamas taip: Minimas kaip jėzuitas, išleidęs pamokslų rinkinį ir kalbos pagalbines knygas.
+Minimas kaip jėzuitas, išleidęs pamokslų rinkinį ir kalbos pagalbines knygas.
 
 ## Variantai
 - Širvydas
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Konstantinas Širvydas apibūdinamas taip: Minimas kaip jėzuitas, išleidęs pamokslų rinkinį ir kalbos pagalbines knygas."
+  teiginys: "Minimas kaip jėzuitas, išleidęs pamokslų rinkinį ir kalbos pagalbines knygas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -30,7 +30,7 @@ patikimumas: "vidutinis"
 # Senatoriai rezidentai
 
 ## Santrauka
-Šaltinyje „Senatoriai rezidentai“ vartojama taip: Karaliaus taryboje nuolat rezidavę senatoriai. (t-001)
+Karaliaus taryboje nuolat rezidavę senatoriai. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Senatoriai rezidentai
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: politinė istorija, valdžios i
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Senatoriai rezidentai“ vartojama taip: Karaliaus taryboje nuolat rezidavę senatoriai."
+  teiginys: "Karaliaus taryboje nuolat rezidavę senatoriai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

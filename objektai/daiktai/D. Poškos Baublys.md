@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # D. Poškos Baublys
 
 ## Santrauka
-Šaltinyje „D. Poškos Baublys“ siejamas su šiuo kontekstu: Baublys aprašomas kaip Poškos įtaisyta senienų muziejaus vieta ir kaip iš tuščiavidurio ąžuolo padarytas trijų trobelių kompleksas Bijotuose.
+Baublys aprašomas kaip Poškos įtaisyta senienų muziejaus vieta ir kaip iš tuščiavidurio ąžuolo padarytas trijų trobelių kompleksas Bijotuose.
 
 ## Pavadinimai šaltiniuose
 - Baubly
@@ -46,11 +46,10 @@ patikimumas: "aukstas"
 - date_end: 1812
 
 ## Kas tai
-Šaltinyje „D. Poškos Baublys“ siejamas su šiuo kontekstu: Baublys aprašomas kaip Poškos įtaisyta senienų muziejaus vieta ir kaip iš tuščiavidurio ąžuolo padarytas trijų trobelių kompleksas Bijotuose.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „D. Poškos Baublys“ siejamas su šiuo kontekstu: Baublys aprašomas kaip Poškos įtaisyta senienų muziejaus vieta ir kaip iš tuščiavidurio ąžuolo padarytas trijų trobelių kompleksas Bijotuose."
+  teiginys: "Baublys aprašomas kaip Poškos įtaisyta senienų muziejaus vieta ir kaip iš tuščiavidurio ąžuolo padarytas trijų trobelių kompleksas Bijotuose."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

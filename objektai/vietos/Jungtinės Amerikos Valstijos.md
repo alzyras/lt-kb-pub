@@ -31,7 +31,7 @@ patikimumas: "aukstas"
 # Jungtinės Amerikos Valstijos
 
 ## Santrauka
-Šaltinyje vieta „Jungtinės Amerikos Valstijos“ siejama su šiuo kontekstu: Minimos kaip šalies prezidento Vilsono valstybė. (t-001)
+Minimos kaip šalies prezidento Vilsono valstybė. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Jungtinės Amerikos Valstijos
@@ -48,7 +48,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Jungtinės Amerikos Valstijos“ siejama su šiuo kontekstu: Minimos kaip šalies prezidento Vilsono valstybė."
+  teiginys: "Minimos kaip šalies prezidento Vilsono valstybė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

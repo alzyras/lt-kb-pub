@@ -23,11 +23,11 @@ patikimumas: "vidutinis"
 # M. Radvila
 
 ## Santrauka
-Šaltinyje M. Radvila apibūdinamas taip: Minimas kaip Varšuvos sukilėlių priešaky atsistojęs asmuo.
+Minimas kaip Varšuvos sukilėlių priešaky atsistojęs asmuo.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje M. Radvila apibūdinamas taip: Minimas kaip Varšuvos sukilėlių priešaky atsistojęs asmuo."
+  teiginys: "Minimas kaip Varšuvos sukilėlių priešaky atsistojęs asmuo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

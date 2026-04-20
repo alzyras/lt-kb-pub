@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Ratai
 
 ## Santrauka
-Šaltinyje „Ratai“ ratai minimi kartu su vežimais, kaip kunigaikščiui ar ponui reikalingi gaminiai, kuriuos dirbo specialūs amatininkai.
+ratai minimi kartu su vežimais, kaip kunigaikščiui ar ponui reikalingi gaminiai, kuriuos dirbo specialūs amatininkai.
 
 ## Pavadinimai šaltiniuose
 - ratus
@@ -42,11 +42,10 @@ patikimumas: "vidutinis"
 - date_end:
 
 ## Kas tai
-Šaltinyje „Ratai“ ratai minimi kartu su vežimais, kaip kunigaikščiui ar ponui reikalingi gaminiai, kuriuos dirbo specialūs amatininkai.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Ratai“ ratai minimi kartu su vežimais, kaip kunigaikščiui ar ponui reikalingi gaminiai, kuriuos dirbo specialūs amatininkai."
+  teiginys: "ratai minimi kartu su vežimais, kaip kunigaikščiui ar ponui reikalingi gaminiai, kuriuos dirbo specialūs amatininkai."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

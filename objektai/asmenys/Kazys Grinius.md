@@ -32,7 +32,7 @@ patikimumas: "aukstas"
 # Kazys Grinius
 
 ## Santrauka
-Šaltinyje Kazys Grinius apibūdinamas taip: Minimas kaip vienas iš trijų pasižymėjusių vyrų, sušaukusių suvažiavimą Voroneže. Šaltinyje Kazys Grinius apibūdinamas taip: Minimas kaip valstybės prezidentas, išrinktas po partijų valdymo krizės.
+Minimas kaip vienas iš trijų pasižymėjusių vyrų, sušaukusių suvažiavimą Voroneže. Minimas kaip valstybės prezidentas, išrinktas po partijų valdymo krizės.
 
 ## Variantai
 - Dr. Kazys Grinius
@@ -54,13 +54,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Kazys Grinius apibūdinamas taip: Minimas kaip vienas iš trijų pasižymėjusių vyrų, sušaukusių suvažiavimą Voroneže."
+  teiginys: "Minimas kaip vienas iš trijų pasižymėjusių vyrų, sušaukusių suvažiavimą Voroneže."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje Kazys Grinius apibūdinamas taip: Minimas kaip valstybės prezidentas, išrinktas po partijų valdymo krizės."
+  teiginys: "Minimas kaip valstybės prezidentas, išrinktas po partijų valdymo krizės."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

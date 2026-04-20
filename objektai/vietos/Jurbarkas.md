@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Jurbarkas
 
 ## Santrauka
-Šaltinyje vieta „Jurbarkas“ siejama su šiuo kontekstu: Minima kaip Nemuno pakrantėje pastatyta ordino pilis. (t-001)
+Minima kaip Nemuno pakrantėje pastatyta ordino pilis. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Jurbarkas
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Jurbarkas“ siejama su šiuo kontekstu: Minima kaip Nemuno pakrantėje pastatyta ordino pilis."
+  teiginys: "Minima kaip Nemuno pakrantėje pastatyta ordino pilis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

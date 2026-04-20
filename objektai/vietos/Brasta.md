@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Brasta
 
 ## Santrauka
-Šaltinyje vieta „Brasta“ siejama su šiuo kontekstu: Minima kaip Vytenio prijungta sritis prie Lietuvos. (t-001)
+Minima kaip Vytenio prijungta sritis prie Lietuvos. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Brasta
@@ -49,7 +49,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Brasta“ siejama su šiuo kontekstu: Minima kaip Vytenio prijungta sritis prie Lietuvos."
+  teiginys: "Minima kaip Vytenio prijungta sritis prie Lietuvos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Pranciškonės
 
 ## Santrauka
-Šaltinyje „Pranciškonės“ apibūdinama kaip vienuolija; vienuolės, kurios tekste įvardijamos kaip dirbančios mokytojų darbą. (t-001)
+vienuolija; vienuolės, kurios tekste įvardijamos kaip dirbančios mokytojų darbą. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Pranciškonės
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: vienuolija
-Šaltinyje „Pranciškonės“ apibūdinama kaip vienuolija; vienuolės, kurios tekste įvardijamos kaip dirbančios mokytojų darbą. (t-001)
+vienuolija; vienuolės, kurios tekste įvardijamos kaip dirbančios mokytojų darbą. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Pranciškonės“ apibūdinama kaip vienuolija; vienuolės, kurios tekste įvardijamos kaip dirbančios mokytojų darbą. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Pranciškonės“ apibūdinama kaip vienuolija; vienuolės, kurios tekste įvardijamos kaip dirbančios mokytojų darbą."
+  teiginys: "vienuolija; vienuolės, kurios tekste įvardijamos kaip dirbančios mokytojų darbą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Lelevelis
 
 ## Santrauka
-Šaltinyje Lelevelis minimas kaip istorikas, profesorius; šis vaidmuo siejamas su: Baužos lietuvių kildinimo iš gerulių vertinimas..
+Baužos lietuvių kildinimo iš gerulių vertinimas..
 
 ## Darbai
 - Baužos lietuvių kildinimo iš gerulių vertinimas.. (t-001)
@@ -37,7 +37,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Lelevelis minimas kaip istorikas, profesorius, siejamas su: Baužos lietuvių kildinimo iš gerulių vertinimas.."
+  teiginys: "Baužos lietuvių kildinimo iš gerulių vertinimas.."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

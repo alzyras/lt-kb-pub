@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Baltijos jūra
 
 ## Santrauka
-Šaltinyje vieta „Baltijos jūra“ siejama su šiuo kontekstu: Jūra minima kaip aisčių gyvenamųjų kraštų pakraščio orientyras. (t-001)
+Jūra minima kaip aisčių gyvenamųjų kraštų pakraščio orientyras. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Baltijos jūra
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Baltijos jūra“ siejama su šiuo kontekstu: Jūra minima kaip aisčių gyvenamųjų kraštų pakraščio orientyras."
+  teiginys: "Jūra minima kaip aisčių gyvenamųjų kraštų pakraščio orientyras."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Bermontininkai
 
 ## Santrauka
-Šaltinyje „Bermontininkai“ apibūdinama kaip kariuomenė; bermontininkų vardu išgarsėjusi jungtinė vokiečių ir rusų kariuomenė perėjo iš Latvijos į Lietuvos teritoriją. (t-001)
+kariuomenė; bermontininkų vardu išgarsėjusi jungtinė vokiečių ir rusų kariuomenė perėjo iš Latvijos į Lietuvos teritoriją. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Bermontininkai
@@ -46,14 +46,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: kariuomenė
-Šaltinyje „Bermontininkai“ apibūdinama kaip kariuomenė; bermontininkų vardu išgarsėjusi jungtinė vokiečių ir rusų kariuomenė perėjo iš Latvijos į Lietuvos teritoriją. (t-001)
+kariuomenė; bermontininkų vardu išgarsėjusi jungtinė vokiečių ir rusų kariuomenė perėjo iš Latvijos į Lietuvos teritoriją. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Bermontininkai“ apibūdinama kaip kariuomenė; bermontininkų vardu išgarsėjusi jungtinė vokiečių ir rusų kariuomenė perėjo iš Latvijos į Lietuvos teritoriją. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Bermontininkai“ apibūdinama kaip kariuomenė; bermontininkų vardu išgarsėjusi jungtinė vokiečių ir rusų kariuomenė perėjo iš Latvijos į Lietuvos teritoriją."
+  teiginys: "kariuomenė; bermontininkų vardu išgarsėjusi jungtinė vokiečių ir rusų kariuomenė perėjo iš Latvijos į Lietuvos teritoriją."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

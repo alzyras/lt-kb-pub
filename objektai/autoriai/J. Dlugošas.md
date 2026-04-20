@@ -34,7 +34,7 @@ patikimumas: "vidutinis"
 # J. Dlugošas
 
 ## Santrauka
-Šaltinyje J. Dlugošas minimas kaip istorikas; šis vaidmuo siejamas su rašymu apie Tanenbergo mūšį, o iliustracijos užrašas jį taip pat vadina Kazimiero vaikų auklėtoju.
+J. Dlugošas minimas kaip istorikas; šis vaidmuo siejamas su rašymu apie Tanenbergo mūšį, o iliustracijos užrašas jį taip pat vadina Kazimiero vaikų auklėtoju.
 
 ## Laikotarpis ir datos
 - XV amž. gale
@@ -49,7 +49,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje J. Dlugošas minimas kaip istorikas, siejamas su rašymu apie Tanenbergo mūšį."
+  teiginys: "J. Dlugošas minimas kaip istorikas, siejamas su rašymu apie Tanenbergo mūšį."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

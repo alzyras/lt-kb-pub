@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Betcheris
 
 ## Santrauka
-Šaltinyje Betcheris apibūdinamas taip: Betcheriui ir dviem seimelio nariams nuvykus į Berlyną tartis su Vokietijos vyriausybe, gubernatorius pirmą kartą atleido direktoriją be seimelio sutikimo.
+Betcheriui ir dviem seimelio nariams nuvykus į Berlyną tartis su Vokietijos vyriausybe, gubernatorius pirmą kartą atleido direktoriją be seimelio sutikimo.
 
 ## Variantai
 - Betcherio
@@ -42,7 +42,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Betcheris apibūdinamas taip: Betcheriui ir dviem seimelio nariams nuvykus į Berlyną tartis su Vokietijos vyriausybe, gubernatorius pirmą kartą atleido direktoriją be seimelio sutikimo."
+  teiginys: "Betcheriui ir dviem seimelio nariams nuvykus į Berlyną tartis su Vokietijos vyriausybe, gubernatorius pirmą kartą atleido direktoriją be seimelio sutikimo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

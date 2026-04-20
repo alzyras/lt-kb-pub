@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Detronizuotas
 
 ## Santrauka
-Šaltinyje „Detronizuotas“ vartojama taip: Nušalintas nuo sosto. (t-001)
+Nušalintas nuo sosto. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Detronizuotas
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: monarchijos istorija, valdovų 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Detronizuotas“ vartojama taip: Nušalintas nuo sosto."
+  teiginys: "Nušalintas nuo sosto."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Pijarų mokinių seimelio ir tribunolo vaidinimai
 
 ## Santrauka
-Šaltinyje minima praktika „Pijarų mokinių seimelio ir tribunolo vaidinimai“ siejama su formuluote: jų mokiniai vaidindavo seimelį, rinkdavo atstovus į tribunolą. Šaltinio kontekste nurodoma: kas atlieka: pijarų mokiniai; kada atliekama: mokyklose, mokymosi metu. (t-001)
+jų mokiniai vaidindavo seimelį, rinkdavo atstovus į tribunolą. Šaltinio kontekste nurodoma: kas atlieka: pijarų mokiniai; kada atliekama: mokyklose, mokymosi metu. (t-001)
 
 ## Pavadinimai šaltiniuose
 - jų mokiniai vaidindavo seimelį, rinkdavo atstovus į tribunolą
@@ -39,8 +39,7 @@ patikimumas: "vidutinis"
 - amziai: XVIII (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Pijarų mokinių seimelio ir tribunolo vaidinimai“ siejama su formuluote: jų mokiniai vaidindavo seimelį, rinkdavo atstovus į tribunolą. Šaltinio kontekste nurodoma: kas atlieka: pijarų mokiniai; kada atliekama: mokyklose, mokymosi metu. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: pijarų mokiniai (t-001)
 - kada atliekama: mokyklose, mokymosi metu (t-001)
@@ -48,7 +47,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Pijarų mokinių seimelio ir tribunolo vaidinimai“ siejama su formuluote: jų mokiniai vaidindavo seimelį, rinkdavo atstovus į tribunolą. Šaltinio kontekste nurodoma: kas atlieka: pijarų mokiniai; kada atliekama: mokyklose, mokymosi metu."
+  teiginys: "jų mokiniai vaidindavo seimelį, rinkdavo atstovus į tribunolą. Šaltinio kontekste nurodoma: kas atlieka: pijarų mokiniai; kada atliekama: mokyklose, mokymosi metu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

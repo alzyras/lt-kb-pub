@@ -33,7 +33,7 @@ patikimumas: "vidutinis"
 # Krikštijimas būriais
 
 ## Santrauka
-Šaltinyje minima praktika „Krikštijimas būriais“ siejama su formuluote: žmones krikštijo būriais; Vytautas su Jogaila patys atvyko į Žemaičius ir, keliose vietose sunaikinę pagoniškas šventoves, pakrikštydino pirmuosius būrius. Šaltinio kontekste nurodoma: kas atlieka: Vytautas su Jogaila; kada atliekama: krikšto metu. (t-001)
+žmones krikštijo būriais; Vytautas su Jogaila patys atvyko į Žemaičius ir, keliose vietose sunaikinę pagoniškas šventoves, pakrikštydino pirmuosius būrius. Šaltinio kontekste nurodoma: kas atlieka: Vytautas su Jogaila; kada atliekama: krikšto metu. (t-001)
 
 ## Pavadinimai šaltiniuose
 - žmones krikštijo būriais
@@ -46,8 +46,7 @@ patikimumas: "vidutinis"
 - date_start/date_end: 1387 / 1413 (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Krikštijimas būriais“ siejama su formuluote: žmones krikštijo būriais; Vytautas su Jogaila patys atvyko į Žemaičius ir, keliose vietose sunaikinę pagoniškas šventoves, pakrikštydino pirmuosius būrius. Šaltinio kontekste nurodoma: kas atlieka: Vytautas su Jogaila; kada atliekama: krikšto metu. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: Vytautas su Jogaila (t-001)
 - kada atliekama: krikšto metu (t-001)
@@ -55,7 +54,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Krikštijimas būriais“ siejama su formuluote: žmones krikštijo būriais; Vytautas su Jogaila patys atvyko į Žemaičius ir, keliose vietose sunaikinę pagoniškas šventoves, pakrikštydino pirmuosius būrius. Šaltinio kontekste nurodoma: kas atlieka: Vytautas su Jogaila; kada atliekama: krikšto metu."
+  teiginys: "žmones krikštijo būriais; Vytautas su Jogaila patys atvyko į Žemaičius ir, keliose vietose sunaikinę pagoniškas šventoves, pakrikštydino pirmuosius būrius. Šaltinio kontekste nurodoma: kas atlieka: Vytautas su Jogaila; kada atliekama: krikšto metu."
   pagrindžia:
     - c-001
     - c-002

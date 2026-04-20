@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Seimų atstovų siuntimo ir rinkimo praktika
 
 ## Santrauka
-Šaltinyje minima praktika „Seimų atstovų siuntimo ir rinkimo praktika“ siejama su formuluote: įėjo į paprotį, kad visų sričių urėdai atvykdami atsivežtų bent po keletą savo srities bajorijos atstovų. Šaltinio kontekste nurodoma: kas atlieka: visų sričių urėdai; susirinkusi bajorija; pavietų seimeliai; kada atliekama: atvykstant į seimą; XVI amž. vidury (1566 m.). (t-001)
+įėjo į paprotį, kad visų sričių urėdai atvykdami atsivežtų bent po keletą savo srities bajorijos atstovų. Šaltinio kontekste nurodoma: kas atlieka: visų sričių urėdai; susirinkusi bajorija; pavietų seimeliai; kada atliekama: atvykstant į seimą; XVI amž. vidury (1566 m.). (t-001)
 
 ## Pavadinimai šaltiniuose
 - įėjo į paprotį, kad visų sričių urėdai atvykdami atsivežtų bent po keletą savo srities bajorijos atstovų
@@ -40,8 +40,7 @@ patikimumas: "vidutinis"
 - date_start/date_end: 1566 / 1566 (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Seimų atstovų siuntimo ir rinkimo praktika“ siejama su formuluote: įėjo į paprotį, kad visų sričių urėdai atvykdami atsivežtų bent po keletą savo srities bajorijos atstovų. Šaltinio kontekste nurodoma: kas atlieka: visų sričių urėdai; susirinkusi bajorija; pavietų seimeliai; kada atliekama: atvykstant į seimą; XVI amž. vidury (1566 m.). (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: visų sričių urėdai; susirinkusi bajorija; pavietų seimeliai (t-001)
 - kada atliekama: atvykstant į seimą; XVI amž. vidury (1566 m.) (t-001)
@@ -49,7 +48,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Seimų atstovų siuntimo ir rinkimo praktika“ siejama su formuluote: įėjo į paprotį, kad visų sričių urėdai atvykdami atsivežtų bent po keletą savo srities bajorijos atstovų. Šaltinio kontekste nurodoma: kas atlieka: visų sričių urėdai; susirinkusi bajorija; pavietų seimeliai; kada atliekama: atvykstant į seimą; XVI amž. vidury (1566 m.)."
+  teiginys: "įėjo į paprotį, kad visų sričių urėdai atvykdami atsivežtų bent po keletą savo srities bajorijos atstovų. Šaltinio kontekste nurodoma: kas atlieka: visų sričių urėdai; susirinkusi bajorija; pavietų seimeliai; kada atliekama: atvykstant į seimą; XVI amž. vidury (1566 m.)."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

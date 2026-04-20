@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Meinhardas
 
 ## Santrauka
-Šaltinyje Meinhardas apibūdinamas taip: Įvardytas kaip pirmasis pagonių krikštu susirūpinęs misijonierius ir pirmasis Livonijos vyskupas.
+Įvardytas kaip pirmasis pagonių krikštu susirūpinęs misijonierius ir pirmasis Livonijos vyskupas.
 
 ## Laikotarpis ir datos
 - laikotarpis: apie 1180 m.
@@ -38,7 +38,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Meinhardas apibūdinamas taip: Įvardytas kaip pirmasis pagonių krikštu susirūpinęs misijonierius ir pirmasis Livonijos vyskupas."
+  teiginys: "Įvardytas kaip pirmasis pagonių krikštu susirūpinęs misijonierius ir pirmasis Livonijos vyskupas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

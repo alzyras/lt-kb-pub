@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Valstiečiai liaudininkai
 
 ## Santrauka
-Šaltinyje „Valstiečiai liaudininkai“ apibūdinama kaip politinė grupė; jie paminimi kaip gausiausia jėga, perėmusi iniciatyvą valdžiai sudaryti, ir kaip koalicijos branduolys. (t-001) Šaltinyje „Valstiečiai liaudininkai“ siejama su šiuo kontekstu: Jie paminimi kaip gausiausia jėga, perėmusi iniciatyvą valdžiai sudaryti, ir kaip koalicijos branduolys. (t-002)
+politinė grupė; jie paminimi kaip gausiausia jėga, perėmusi iniciatyvą valdžiai sudaryti, ir kaip koalicijos branduolys. (t-001) Šaltinyje „Valstiečiai liaudininkai“ siejama su šiuo kontekstu: Jie paminimi kaip gausiausia jėga, perėmusi iniciatyvą valdžiai sudaryti, ir kaip koalicijos branduolys. (t-002)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Valstiečiai liaudininkai
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: politinė grupė
-Šaltinyje „Valstiečiai liaudininkai“ apibūdinama kaip politinė grupė; jie paminimi kaip gausiausia jėga, perėmusi iniciatyvą valdžiai sudaryti, ir kaip koalicijos branduolys. (t-001)
+politinė grupė; jie paminimi kaip gausiausia jėga, perėmusi iniciatyvą valdžiai sudaryti, ir kaip koalicijos branduolys. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Valstiečiai liaudininkai“ apibūdinama kaip politinė grupė; jie paminimi kaip gausiausia jėga, perėmusi iniciatyvą valdžiai sudaryti, ir kaip koalicijos branduolys. (t-001)
@@ -52,13 +52,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Valstiečiai liaudininkai“ apibūdinama kaip politinė grupė; jie paminimi kaip gausiausia jėga, perėmusi iniciatyvą valdžiai sudaryti, ir kaip koalicijos branduolys."
+  teiginys: "politinė grupė; jie paminimi kaip gausiausia jėga, perėmusi iniciatyvą valdžiai sudaryti, ir kaip koalicijos branduolys."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Valstiečiai liaudininkai“ siejama su šiuo kontekstu: Jie paminimi kaip gausiausia jėga, perėmusi iniciatyvą valdžiai sudaryti, ir kaip koalicijos branduolys."
+  teiginys: "Jie paminimi kaip gausiausia jėga, perėmusi iniciatyvą valdžiai sudaryti, ir kaip koalicijos branduolys."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

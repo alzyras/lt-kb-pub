@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Haackas
 
 ## Santrauka
-Šaltinyje Haackas apibūdinamas taip: Minimas kaip Halės seminarijos reikalams dirbęs docentas, leidęs lietuvišką žodyną ir gramatiką.
+Minimas kaip Halės seminarijos reikalams dirbęs docentas, leidęs lietuvišką žodyną ir gramatiką.
 
 ## Variantai
 - Fr. Haacko
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Haackas apibūdinamas taip: Minimas kaip Halės seminarijos reikalams dirbęs docentas, leidęs lietuvišką žodyną ir gramatiką."
+  teiginys: "Minimas kaip Halės seminarijos reikalams dirbęs docentas, leidęs lietuvišką žodyną ir gramatiką."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

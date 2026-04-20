@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Windthorstas
 
 ## Santrauka
-Šaltinyje Windthorstas apibūdinamas taip: Windthorstas pristatomas kaip Vokietijos katalikų parlamentinės partijos, vadinamos centro partija, vadas ir lietuvių užtarėjas.
+Windthorstas pristatomas kaip Vokietijos katalikų parlamentinės partijos, vadinamos centro partija, vadas ir lietuvių užtarėjas.
 
 ## Laikotarpis ir datos
 - laikotarpis: † 1904 m.
@@ -38,7 +38,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Windthorstas apibūdinamas taip: Windthorstas pristatomas kaip Vokietijos katalikų parlamentinės partijos, vadinamos centro partija, vadas ir lietuvių užtarėjas."
+  teiginys: "Windthorstas pristatomas kaip Vokietijos katalikų parlamentinės partijos, vadinamos centro partija, vadas ir lietuvių užtarėjas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

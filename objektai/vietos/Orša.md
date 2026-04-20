@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Orša
 
 ## Santrauka
-Šaltinyje vieta „Orša“ siejama su šiais kontekstais: Miestas minimas kaip Maskvos kariuomenės užimta vieta; Orša minima kaip mūšio vieta paveikslo antraštėje. (t-001, t-002)
+Miestas minimas kaip Maskvos kariuomenės užimta vieta; Orša minima kaip mūšio vieta paveikslo antraštėje. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Orša
@@ -48,13 +48,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Orša“ siejama su šiuo kontekstu: Miestas minimas kaip Maskvos kariuomenės užimta vieta."
+  teiginys: "Miestas minimas kaip Maskvos kariuomenės užimta vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Orša“ siejama su šiuo kontekstu: Orša minima kaip mūšio vieta paveikslo antraštėje."
+  teiginys: "Orša minima kaip mūšio vieta paveikslo antraštėje."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

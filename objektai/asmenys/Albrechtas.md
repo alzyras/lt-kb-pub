@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Albrechtas
 
 ## Santrauka
-Šaltinyje Albrechtas apibūdinamas taip: Imperatorius, kurio mirtis minima kaip Vladislovo rinkimo aplinkybė.
+Imperatorius, kurio mirtis minima kaip Vladislovo rinkimo aplinkybė.
 
 ## Variantai
 - Albrechto
@@ -35,7 +35,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Albrechtas apibūdinamas taip: Imperatorius, kurio mirtis minima kaip Vladislovo rinkimo aplinkybė."
+  teiginys: "Imperatorius, kurio mirtis minima kaip Vladislovo rinkimo aplinkybė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

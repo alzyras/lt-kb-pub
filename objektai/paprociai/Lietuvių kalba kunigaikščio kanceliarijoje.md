@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Lietuvių kalba kunigaikščio kanceliarijoje
 
 ## Santrauka
-Šaltinyje minima praktika „Lietuvių kalba kunigaikščio kanceliarijoje“ siejama su formuluote: valdžia ėmė vartoti lietuvių kalbą ir savo kanceliarijoje. Šaltinio kontekste nurodoma: kas atlieka: Prūsijos valdžia ir lietuviškai mokantys raštininkai; kada atliekama: XVII amžiuje. (t-001)
+valdžia ėmė vartoti lietuvių kalbą ir savo kanceliarijoje. Šaltinio kontekste nurodoma: kas atlieka: Prūsijos valdžia ir lietuviškai mokantys raštininkai; kada atliekama: XVII amžiuje. (t-001)
 
 ## Pavadinimai šaltiniuose
 - valdžia ėmė vartoti lietuvių kalbą ir savo kanceliarijoje
@@ -40,8 +40,7 @@ patikimumas: "aukstas"
 - amziai: XVII; XVI (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Lietuvių kalba kunigaikščio kanceliarijoje“ siejama su formuluote: valdžia ėmė vartoti lietuvių kalbą ir savo kanceliarijoje. Šaltinio kontekste nurodoma: kas atlieka: Prūsijos valdžia ir lietuviškai mokantys raštininkai; kada atliekama: XVII amžiuje. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: Prūsijos valdžia ir lietuviškai mokantys raštininkai (t-001)
 - kada atliekama: XVII amžiuje (t-001)
@@ -49,7 +48,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Lietuvių kalba kunigaikščio kanceliarijoje“ siejama su formuluote: valdžia ėmė vartoti lietuvių kalbą ir savo kanceliarijoje. Šaltinio kontekste nurodoma: kas atlieka: Prūsijos valdžia ir lietuviškai mokantys raštininkai; kada atliekama: XVII amžiuje."
+  teiginys: "valdžia ėmė vartoti lietuvių kalbą ir savo kanceliarijoje. Šaltinio kontekste nurodoma: kas atlieka: Prūsijos valdžia ir lietuviškai mokantys raštininkai; kada atliekama: XVII amžiuje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -31,7 +31,7 @@ patikimumas: "vidutinis"
 # Unijos panaikinimo medalis
 
 ## Santrauka
-Šaltinyje „Unijos panaikinimo medalis“ tai memorialinis medalis, susietas su unijos panaikinimo paminėjimu.
+tai memorialinis medalis, susietas su unijos panaikinimo paminėjimu.
 
 ## Pavadinimai šaltiniuose
 - Medalis
@@ -47,11 +47,10 @@ patikimumas: "vidutinis"
 - date_end: 1839
 
 ## Kas tai
-Šaltinyje „Unijos panaikinimo medalis“ tai memorialinis medalis, susietas su unijos panaikinimo paminėjimu.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Unijos panaikinimo medalis“ tai memorialinis medalis, susietas su unijos panaikinimo paminėjimu."
+  teiginys: "tai memorialinis medalis, susietas su unijos panaikinimo paminėjimu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

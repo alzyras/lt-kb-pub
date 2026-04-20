@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Paryžius
 
 ## Santrauka
-Šaltinyje vieta „Paryžius“ siejama su šiuo kontekstu: Minimas kaip miestas, į kurį Napoleonas parskubėjo po atsitraukimo. (t-001)
+Minimas kaip miestas, į kurį Napoleonas parskubėjo po atsitraukimo. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Paryžius
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Paryžius“ siejama su šiuo kontekstu: Minimas kaip miestas, į kurį Napoleonas parskubėjo po atsitraukimo."
+  teiginys: "Minimas kaip miestas, į kurį Napoleonas parskubėjo po atsitraukimo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

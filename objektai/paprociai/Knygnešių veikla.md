@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Knygnešių veikla
 
 ## Santrauka
-Šaltinyje minima praktika „Knygnešių veikla“ siejama su formuluote: slapta knygos buvo gabenamos ir skleidžiamos po visą Lietuvą. Šaltinio kontekste nurodoma: kas atlieka: vysk. Valančius, jo artimieji padėjėjai, kunigai, bažnyčios tarnai, šiaipjau žmonės ir pasauliniai inteligentai; kada atliekama: po spaudos uždraudimo; ypač nuo 1865 m.. (t-001)
+slapta knygos buvo gabenamos ir skleidžiamos po visą Lietuvą. Šaltinio kontekste nurodoma: kas atlieka: vysk. Valančius, jo artimieji padėjėjai, kunigai, bažnyčios tarnai, šiaipjau žmonės ir pasauliniai inteligentai; kada atliekama: po spaudos uždraudimo; ypač nuo 1865 m.. (t-001)
 
 ## Pavadinimai šaltiniuose
 - slapta knygos buvo gabenamos ir skleidžiamos po visą Lietuvą
@@ -40,8 +40,7 @@ patikimumas: "vidutinis"
 - date_start/date_end: 1865 / 1883 (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Knygnešių veikla“ siejama su formuluote: slapta knygos buvo gabenamos ir skleidžiamos po visą Lietuvą. Šaltinio kontekste nurodoma: kas atlieka: vysk. Valančius, jo artimieji padėjėjai, kunigai, bažnyčios tarnai, šiaipjau žmonės ir pasauliniai inteligentai; kada atliekama: po spaudos uždraudimo; ypač nuo 1865 m.. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: vysk. Valančius, jo artimieji padėjėjai, kunigai, bažnyčios tarnai, šiaipjau žmonės ir pasauliniai inteligentai (t-001)
 - kada atliekama: po spaudos uždraudimo; ypač nuo 1865 m. (t-001)
@@ -49,7 +48,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Knygnešių veikla“ siejama su formuluote: slapta knygos buvo gabenamos ir skleidžiamos po visą Lietuvą. Šaltinio kontekste nurodoma: kas atlieka: vysk. Valančius, jo artimieji padėjėjai, kunigai, bažnyčios tarnai, šiaipjau žmonės ir pasauliniai inteligentai; kada atliekama: po spaudos uždraudimo; ypač nuo 1865 m.."
+  teiginys: "slapta knygos buvo gabenamos ir skleidžiamos po visą Lietuvą. Šaltinio kontekste nurodoma: kas atlieka: vysk. Valančius, jo artimieji padėjėjai, kunigai, bažnyčios tarnai, šiaipjau žmonės ir pasauliniai inteligentai; kada atliekama: po spaudos uždraudimo; ypač nuo 1865 m.."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

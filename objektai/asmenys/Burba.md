@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Burba
 
 ## Santrauka
-Šaltinyje Burba apibūdinamas taip: Minimas kaip kunigas, dėl lietuviškos veiklos turėjęs išvažiuoti į Ameriką.
+Minimas kaip kunigas, dėl lietuviškos veiklos turėjęs išvažiuoti į Ameriką.
 
 ## Variantai
 - kunigas Burba
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Burba apibūdinamas taip: Minimas kaip kunigas, dėl lietuviškos veiklos turėjęs išvažiuoti į Ameriką."
+  teiginys: "Minimas kaip kunigas, dėl lietuviškos veiklos turėjęs išvažiuoti į Ameriką."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # M. Šalčius
 
 ## Santrauka
-Šaltinyje M. Šalčius minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip veikalo apie lenkų sąmokslą Lietuvoje autorius.
+Minimas kaip veikalo apie lenkų sąmokslą Lietuvoje autorius.
 
 ## Darbai
 - Minimas kaip veikalo apie lenkų sąmokslą Lietuvoje autorius. (t-001)
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje M. Šalčius autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip veikalo apie lenkų sąmokslą Lietuvoje autorius."
+  teiginys: "Minimas kaip veikalo apie lenkų sąmokslą Lietuvoje autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

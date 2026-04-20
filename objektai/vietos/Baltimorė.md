@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Baltimorė
 
 ## Santrauka
-Šaltinyje vieta „Baltimorė“ siejama su šiuo kontekstu: Minima kaip Šv. Jurgio Kareivių draugijos vieta. (t-001)
+Minima kaip Šv. Jurgio Kareivių draugijos vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Baltimorė
@@ -42,7 +42,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Baltimorė“ siejama su šiuo kontekstu: Minima kaip Šv. Jurgio Kareivių draugijos vieta."
+  teiginys: "Minima kaip Šv. Jurgio Kareivių draugijos vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

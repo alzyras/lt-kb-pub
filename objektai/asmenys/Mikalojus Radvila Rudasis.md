@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Mikalojus Radvila Rudasis
 
 ## Santrauka
-Šaltinyje Mikalojus Radvila Rudasis apibūdinamas taip: Hetmonas, Juodojo pusbrolis, ties Ula sumušęs caro kariuomenę.
+Hetmonas, Juodojo pusbrolis, ties Ula sumušęs caro kariuomenę.
 
 ## Variantai
 - Mikalojaus Radvilos Rudojo
@@ -48,7 +48,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Mikalojus Radvila Rudasis apibūdinamas taip: Hetmonas, Juodojo pusbrolis, ties Ula sumušęs caro kariuomenę."
+  teiginys: "Hetmonas, Juodojo pusbrolis, ties Ula sumušęs caro kariuomenę."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Pr. Zadeikis
 
 ## Santrauka
-Šaltinyje Pr. Zadeikis minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip Apuolės kasinėjimų autorius.
+Bibliografijoje nurodytas kaip Apuolės kasinėjimų autorius.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip Apuolės kasinėjimų autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Pr. Zadeikis autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip Apuolės kasinėjimų autorius."
+  teiginys: "Bibliografijoje nurodytas kaip Apuolės kasinėjimų autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

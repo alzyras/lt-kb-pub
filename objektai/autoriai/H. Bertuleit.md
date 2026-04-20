@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # H. Bertuleit
 
 ## Santrauka
-Šaltinyje H. Bertuleit minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip senosios prūsų religijos tyrėjas.
+Bibliografijoje nurodytas kaip senosios prūsų religijos tyrėjas.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip senosios prūsų religijos tyrėjas. (t-001)
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje H. Bertuleit autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip senosios prūsų religijos tyrėjas."
+  teiginys: "Bibliografijoje nurodytas kaip senosios prūsų religijos tyrėjas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

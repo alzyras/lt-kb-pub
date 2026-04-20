@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Užsienio ir Lietuvos lietuvių susirašinėjimas
 
 ## Santrauka
-Šaltinyje minima praktika „Užsienio ir Lietuvos lietuvių susirašinėjimas“ siejama su formuluote: skatina susirašinėjimą tarp atskirų užsienio ir Lietuvos lietuvių. Šaltinio kontekste nurodoma: kas atlieka: užsienio ir Lietuvos lietuviai, ypač užsienio lietuviai moksleiviai; praktiką skatina DULR; kada atliekama: nuo 1932 m. ir vėliau. (t-001)
+skatina susirašinėjimą tarp atskirų užsienio ir Lietuvos lietuvių. Šaltinio kontekste nurodoma: kas atlieka: užsienio ir Lietuvos lietuviai, ypač užsienio lietuviai moksleiviai; praktiką skatina DULR; kada atliekama: nuo 1932 m. ir vėliau. (t-001)
 
 ## Pavadinimai šaltiniuose
 - skatina susirašinėjimą tarp atskirų užsienio ir Lietuvos lietuvių
@@ -40,8 +40,7 @@ patikimumas: "aukstas"
 - date_start/date_end: 1932 / 1932 (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Užsienio ir Lietuvos lietuvių susirašinėjimas“ siejama su formuluote: skatina susirašinėjimą tarp atskirų užsienio ir Lietuvos lietuvių. Šaltinio kontekste nurodoma: kas atlieka: užsienio ir Lietuvos lietuviai, ypač užsienio lietuviai moksleiviai; praktiką skatina DULR; kada atliekama: nuo 1932 m. ir vėliau. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: užsienio ir Lietuvos lietuviai, ypač užsienio lietuviai moksleiviai; praktiką skatina DULR (t-001)
 - kada atliekama: nuo 1932 m. ir vėliau (t-001)
@@ -49,7 +48,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Užsienio ir Lietuvos lietuvių susirašinėjimas“ siejama su formuluote: skatina susirašinėjimą tarp atskirų užsienio ir Lietuvos lietuvių. Šaltinio kontekste nurodoma: kas atlieka: užsienio ir Lietuvos lietuviai, ypač užsienio lietuviai moksleiviai; praktiką skatina DULR; kada atliekama: nuo 1932 m. ir vėliau."
+  teiginys: "skatina susirašinėjimą tarp atskirų užsienio ir Lietuvos lietuvių. Šaltinio kontekste nurodoma: kas atlieka: užsienio ir Lietuvos lietuviai, ypač užsienio lietuviai moksleiviai; praktiką skatina DULR; kada atliekama: nuo 1932 m. ir vėliau."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

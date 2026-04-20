@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # S. M. Solovjev
 
 ## Santrauka
-Šaltinyje S. M. Solovjev minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip Rusijos istorijos autorius.
+Bibliografijoje nurodytas kaip Rusijos istorijos autorius.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip Rusijos istorijos autorius. (t-001)
@@ -36,7 +36,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje S. M. Solovjev autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip Rusijos istorijos autorius."
+  teiginys: "Bibliografijoje nurodytas kaip Rusijos istorijos autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

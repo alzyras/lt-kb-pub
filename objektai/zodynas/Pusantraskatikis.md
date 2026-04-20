@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Pusantraskatikis
 
 ## Santrauka
-Šaltinyje „Pusantraskatikis“ vartojama taip: pusantro skatikio vertės pinigas. (t-001)
+pusantro skatikio vertės pinigas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Pusantraskatikis
@@ -50,7 +50,7 @@ Terminas šaltinyje vartojamas šiame kontekste: numizmatika, pinigų istorija. 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Pusantraskatikis“ vartojama taip: pusantro skatikio vertės pinigas."
+  teiginys: "pusantro skatikio vertės pinigas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

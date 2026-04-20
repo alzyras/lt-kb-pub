@@ -29,7 +29,7 @@ patikimumas: "vidutinis"
 # Natūralijos
 
 ## Santrauka
-Šaltinyje „Natūralijos“ vartojama taip: Pajamos arba duoklės natūra, mokamos žemės ūkio produktais. (t-001)
+Pajamos arba duoklės natūra, mokamos žemės ūkio produktais. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Natūralijos
@@ -52,7 +52,7 @@ Terminas šaltinyje vartojamas šiame kontekste: žemės ūkio ekonomika, prievo
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Natūralijos“ vartojama taip: Pajamos arba duoklės natūra, mokamos žemės ūkio produktais."
+  teiginys: "Pajamos arba duoklės natūra, mokamos žemės ūkio produktais."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

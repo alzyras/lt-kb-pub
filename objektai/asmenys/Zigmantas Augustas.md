@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Zigmantas Augustas
 
 ## Santrauka
-Šaltinyje Zigmantas Augustas apibūdinamas taip: Įvardytas kaip didysis Lietuvos kunigaikštis.
+Įvardytas kaip didysis Lietuvos kunigaikštis.
 
 ## Variantai
 - Zigmanto Augusto
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Zigmantas Augustas apibūdinamas taip: Įvardytas kaip didysis Lietuvos kunigaikštis."
+  teiginys: "Įvardytas kaip didysis Lietuvos kunigaikštis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

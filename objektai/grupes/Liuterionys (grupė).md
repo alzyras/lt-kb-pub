@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Liuterionys (grupė)
 
 ## Santrauka
-Šaltinyje „Liuterionys“ apibūdinama kaip religinė bendruomenė; vilniuje liuterionys minimi kaip protestantiška religinė bendruomenė, turėjusi savo bažnyčią greta kalvinų. (t-001)
+religinė bendruomenė; vilniuje liuterionys minimi kaip protestantiška religinė bendruomenė, turėjusi savo bažnyčią greta kalvinų. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Liuterionys (grupė)
@@ -46,14 +46,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: religinė bendruomenė
-Šaltinyje „Liuterionys“ apibūdinama kaip religinė bendruomenė; vilniuje liuterionys minimi kaip protestantiška religinė bendruomenė, turėjusi savo bažnyčią greta kalvinų. (t-001)
+religinė bendruomenė; vilniuje liuterionys minimi kaip protestantiška religinė bendruomenė, turėjusi savo bažnyčią greta kalvinų. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Liuterionys“ apibūdinama kaip religinė bendruomenė; vilniuje liuterionys minimi kaip protestantiška religinė bendruomenė, turėjusi savo bažnyčią greta kalvinų. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Liuterionys“ apibūdinama kaip religinė bendruomenė; vilniuje liuterionys minimi kaip protestantiška religinė bendruomenė, turėjusi savo bažnyčią greta kalvinų."
+  teiginys: "religinė bendruomenė; vilniuje liuterionys minimi kaip protestantiška religinė bendruomenė, turėjusi savo bažnyčią greta kalvinų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

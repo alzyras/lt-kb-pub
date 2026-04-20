@@ -30,7 +30,7 @@ patikimumas: "vidutinis"
 # coaequatio iurium
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „coaequatio iurium“; kontekstas: Sapiegų priešininkai šią formulę naudojo Lietuvos ir Lenkijos ministerių teisių suvienodinimo kampanijoje. Reikšmė: Lotyniška politinė formulė, kuri tekste aiškiai pristatoma kaip Lietuvos ir Lenkijos teisių sulyginimo šūkis. (t-001)
+Užfiksuota formuluotė „coaequatio iurium“; kontekstas: Sapiegų priešininkai šią formulę naudojo Lietuvos ir Lenkijos ministerių teisių suvienodinimo kampanijoje. Reikšmė: Lotyniška politinė formulė, kuri tekste aiškiai pristatoma kaip Lietuvos ir Lenkijos teisių sulyginimo šūkis. (t-001)
 
 ## Forma
 - pagrindinė forma: coaequatio iurium (t-001)
@@ -53,7 +53,7 @@ Lotyniška politinė formulė, kuri tekste aiškiai pristatoma kaip Lietuvos ir 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „coaequatio iurium“; kontekstas: Sapiegų priešininkai šią formulę naudojo Lietuvos ir Lenkijos ministerių teisių suvienodinimo kampanijoje."
+  teiginys: "Užfiksuota formuluotė „coaequatio iurium“; kontekstas: Sapiegų priešininkai šią formulę naudojo Lietuvos ir Lenkijos ministerių teisių suvienodinimo kampanijoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

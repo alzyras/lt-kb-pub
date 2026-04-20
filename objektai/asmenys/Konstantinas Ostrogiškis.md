@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Konstantinas Ostrogiškis
 
 ## Santrauka
-Šaltinyje Konstantinas Ostrogiškis apibūdinamas taip: Lietuvos hetmonas ir kunigaikštis, ties Orša sumušęs Maskvos kariuomenę.
+Lietuvos hetmonas ir kunigaikštis, ties Orša sumušęs Maskvos kariuomenę.
 
 ## Variantai
 - K. Ostrogiškis
@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Konstantinas Ostrogiškis apibūdinamas taip: Lietuvos hetmonas ir kunigaikštis, ties Orša sumušęs Maskvos kariuomenę."
+  teiginys: "Lietuvos hetmonas ir kunigaikštis, ties Orša sumušęs Maskvos kariuomenę."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

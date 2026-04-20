@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Danilłowicz
 
 ## Santrauka
-Šaltinyje Danilłowicz minimas kaip sudarytojas; šis vaidmuo siejamas su: Skarbiec, II Nr. 1659.
+Skarbiec, II Nr. 1659.
 
 ## Darbai
 - Skarbiec, II Nr. 1659. (t-001)
@@ -37,7 +37,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Danilłowicz minimas kaip sudarytojas, siejamas su: Skarbiec, II Nr. 1659."
+  teiginys: "Skarbiec, II Nr. 1659."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

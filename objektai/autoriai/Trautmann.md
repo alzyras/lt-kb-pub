@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Trautmann
 
 ## Santrauka
-Šaltinyje Trautmann minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip senųjų prūsų asmenvardžių tyrėjas.
+Minimas kaip senųjų prūsų asmenvardžių tyrėjas.
 
 ## Darbai
 - Minimas kaip senųjų prūsų asmenvardžių tyrėjas. (t-001)
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Trautmann autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip senųjų prūsų asmenvardžių tyrėjas."
+  teiginys: "Minimas kaip senųjų prūsų asmenvardžių tyrėjas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

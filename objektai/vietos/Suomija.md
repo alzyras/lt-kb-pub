@@ -23,7 +23,7 @@ patikimumas: "aukstas"
 # Suomija
 
 ## Santrauka
-Šaltinyje vieta „Suomija“ siejama su šiuo kontekstu: Minima kaip viena iš Švedijos karaliaus valdytų teritorijų. (t-001)
+Minima kaip viena iš Švedijos karaliaus valdytų teritorijų. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Suomija
@@ -39,7 +39,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Suomija“ siejama su šiuo kontekstu: Minima kaip viena iš Švedijos karaliaus valdytų teritorijų."
+  teiginys: "Minima kaip viena iš Švedijos karaliaus valdytų teritorijų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Vykdomasis Komitetas
 
 ## Santrauka
-Šaltinyje „Vykdomasis Komitetas“ apibūdinama kaip komitetas; bendras lietuvių politinis komitetas, sukurtas Amerikos lietuvių srovėms veikti kartu. (t-001)
+komitetas; bendras lietuvių politinis komitetas, sukurtas Amerikos lietuvių srovėms veikti kartu. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Vykdomasis Komitetas
@@ -44,14 +44,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: komitetas
-Šaltinyje „Vykdomasis Komitetas“ apibūdinama kaip komitetas; bendras lietuvių politinis komitetas, sukurtas Amerikos lietuvių srovėms veikti kartu. (t-001)
+komitetas; bendras lietuvių politinis komitetas, sukurtas Amerikos lietuvių srovėms veikti kartu. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Vykdomasis Komitetas“ apibūdinama kaip komitetas; bendras lietuvių politinis komitetas, sukurtas Amerikos lietuvių srovėms veikti kartu. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Vykdomasis Komitetas“ apibūdinama kaip komitetas; bendras lietuvių politinis komitetas, sukurtas Amerikos lietuvių srovėms veikti kartu."
+  teiginys: "komitetas; bendras lietuvių politinis komitetas, sukurtas Amerikos lietuvių srovėms veikti kartu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

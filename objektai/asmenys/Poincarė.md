@@ -25,7 +25,7 @@ patikimumas: "vidutinis"
 # Poincarė
 
 ## Santrauka
-Šaltinyje Poincarė apibūdinamas taip: Minimas kaip Prancūzų ministeris pirmininkas ir užsienių reikalų ministeris, pasirašęs Klaipėdos konvenciją.
+Minimas kaip Prancūzų ministeris pirmininkas ir užsienių reikalų ministeris, pasirašęs Klaipėdos konvenciją.
 
 ## Laikotarpis ir datos
 - laikotarpis: 1924 m. gegužės 8 d.
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Poincarė apibūdinamas taip: Minimas kaip Prancūzų ministeris pirmininkas ir užsienių reikalų ministeris, pasirašęs Klaipėdos konvenciją."
+  teiginys: "Minimas kaip Prancūzų ministeris pirmininkas ir užsienių reikalų ministeris, pasirašęs Klaipėdos konvenciją."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Jezukevičius
 
 ## Santrauka
-Šaltinyje Jezukevičius apibūdinamas taip: Minimas kaip Komiteto narys.
+Minimas kaip Komiteto narys.
 
 ## Variantai
 - kun. Jezukevičius
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Jezukevičius apibūdinamas taip: Minimas kaip Komiteto narys."
+  teiginys: "Minimas kaip Komiteto narys."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

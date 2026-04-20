@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Sluckas
 
 ## Santrauka
-Šaltinyje vieta „Sluckas“ siejama su šiuo kontekstu: Minimas kaip jėzuitų fundacijos vieta. (t-001)
+Minimas kaip jėzuitų fundacijos vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Sluckas
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Sluckas“ siejama su šiuo kontekstu: Minimas kaip jėzuitų fundacijos vieta."
+  teiginys: "Minimas kaip jėzuitų fundacijos vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

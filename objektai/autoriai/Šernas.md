@@ -29,7 +29,7 @@ patikimumas: "vidutinis"
 # Šernas
 
 ## Santrauka
-Šaltinyje Šernas minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip redaktorius ir „Aušros“ straipsnių bendradarbis.
+Minimas kaip redaktorius ir „Aušros“ straipsnių bendradarbis.
 
 ## Darbai
 - Minimas kaip redaktorius ir „Aušros“ straipsnių bendradarbis. (t-001)
@@ -39,7 +39,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Šernas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip redaktorius ir „Aušros“ straipsnių bendradarbis."
+  teiginys: "Minimas kaip redaktorius ir „Aušros“ straipsnių bendradarbis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

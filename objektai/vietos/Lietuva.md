@@ -34,7 +34,7 @@ patikimumas: "aukstas"
 # Lietuva
 
 ## Santrauka
-Šaltinyje vieta „Lietuva“ siejama su šiais kontekstais: Minima kaip susivienijusi valstybė, į kurią įsiveržė kalavijuočiai, ir kaip Mindaugo valdoma šalis; Lietuva minima kaip atskira valstybė greta Lenkijos, turinti savą kariuomenę ir savas pajamas. (t-001, t-002)
+Minima kaip susivienijusi valstybė, į kurią įsiveržė kalavijuočiai, ir kaip Mindaugo valdoma šalis; Lietuva minima kaip atskira valstybė greta Lenkijos, turinti savą kariuomenę ir savas pajamas. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Lietuva
@@ -55,13 +55,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Lietuva“ siejama su šiuo kontekstu: Minima kaip susivienijusi valstybė, į kurią įsiveržė kalavijuočiai, ir kaip Mindaugo valdoma šalis."
+  teiginys: "Minima kaip susivienijusi valstybė, į kurią įsiveržė kalavijuočiai, ir kaip Mindaugo valdoma šalis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Lietuva“ siejama su šiuo kontekstu: Lietuva minima kaip atskira valstybė greta Lenkijos, turinti savą kariuomenę ir savas pajamas."
+  teiginys: "Lietuva minima kaip atskira valstybė greta Lenkijos, turinti savą kariuomenę ir savas pajamas."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

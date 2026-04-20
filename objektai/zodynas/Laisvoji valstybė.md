@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Laisvoji valstybė
 
 ## Santrauka
-Šaltinyje „Laisvoji valstybė“ vartojama taip: Atskirai organizuojamas, nuo Lietuvos atskirtas laisvas politinis vienetas. (t-001)
+Atskirai organizuojamas, nuo Lietuvos atskirtas laisvas politinis vienetas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Laisvoji valstybė
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: Klaipėdos krašto statuso term
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Laisvoji valstybė“ vartojama taip: Atskirai organizuojamas, nuo Lietuvos atskirtas laisvas politinis vienetas."
+  teiginys: "Atskirai organizuojamas, nuo Lietuvos atskirtas laisvas politinis vienetas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

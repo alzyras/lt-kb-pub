@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Ignas Masalskis
 
 ## Santrauka
-Šaltinyje Ignas Masalskis apibūdinamas taip: Minimas kaip Vilniaus vyskupas ir pirmasis Edukacinės Komisijos pirmininkas; vėliau šiame gabale apibūdinamas kaip labai mokslintas, didžios išminties, bet menkos moralės vyras.
+Minimas kaip Vilniaus vyskupas ir pirmasis Edukacinės Komisijos pirmininkas; vėliau šiame gabale apibūdinamas kaip labai mokslintas, didžios išminties, bet menkos moralės vyras.
 
 ## Variantai
 - Masalskis
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Ignas Masalskis apibūdinamas taip: Minimas kaip Vilniaus vyskupas ir pirmasis Edukacinės Komisijos pirmininkas; vėliau šiame gabale apibūdinamas kaip labai mokslintas, didžios išminties, bet menkos moralės vyras."
+  teiginys: "Minimas kaip Vilniaus vyskupas ir pirmasis Edukacinės Komisijos pirmininkas; vėliau šiame gabale apibūdinamas kaip labai mokslintas, didžios išminties, bet menkos moralės vyras."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

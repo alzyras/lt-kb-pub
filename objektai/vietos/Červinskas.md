@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Červinskas
 
 ## Santrauka
-Šaltinyje vieta „Červinskas“ siejama su šiais kontekstais: Lietuvos ir Jogailos kariuomenės sujungimo vieta prie Vyslos; Minimas kaip kariuomenių susijungimo vieta Lenkijoje prieš Tanenbergo mūšį. (t-001, t-002)
+Lietuvos ir Jogailos kariuomenės sujungimo vieta prie Vyslos; Minimas kaip kariuomenių susijungimo vieta Lenkijoje prieš Tanenbergo mūšį. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Červinskas
@@ -48,13 +48,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Červinskas“ siejama su šiuo kontekstu: Lietuvos ir Jogailos kariuomenės sujungimo vieta prie Vyslos."
+  teiginys: "Lietuvos ir Jogailos kariuomenės sujungimo vieta prie Vyslos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Červinskas“ siejama su šiuo kontekstu: Minimas kaip kariuomenių susijungimo vieta Lenkijoje prieš Tanenbergo mūšį."
+  teiginys: "Minimas kaip kariuomenių susijungimo vieta Lenkijoje prieš Tanenbergo mūšį."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

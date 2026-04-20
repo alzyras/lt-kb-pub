@@ -32,7 +32,7 @@ patikimumas: "aukstas"
 # Jonas Karolis Katkevičius
 
 ## Santrauka
-Šaltinyje Jonas Karolis Katkevičius apibūdinamas taip: Minimas kaip Žemaičių seniūnas, lauko hetmonas, didysis hetmonas ir Vilniaus vaivada.
+Minimas kaip Žemaičių seniūnas, lauko hetmonas, didysis hetmonas ir Vilniaus vaivada.
 
 ## Variantai
 - Jonas Karolis K.
@@ -52,13 +52,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Jonas Karolis Katkevičius apibūdinamas taip: Minimas kaip Žemaičių seniūnas, lauko hetmonas, didysis hetmonas ir Vilniaus vaivada."
+  teiginys: "Minimas kaip Žemaičių seniūnas, lauko hetmonas, didysis hetmonas ir Vilniaus vaivada."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje Jonas Karolis Katkevičius taip pat minimas trumpuoju vardu Jonas Karolis: Jonas Jeronimas Katkevičius savo sūnų Joną Karolį, būsimą Vilniaus vaivadą, hetmoną ir karo vadą, atidavė auklėti jėzuitams."
+  teiginys: "Jonas Jeronimas Katkevičius savo sūnų Joną Karolį, būsimą Vilniaus vaivadą, hetmoną ir karo vadą, atidavė auklėti jėzuitams."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

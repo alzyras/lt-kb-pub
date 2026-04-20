@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Moterystė
 
 ## Santrauka
-Šaltinyje „Moterystė“ vartojama taip: Santuoka, vedybinis ryšys. (t-001)
+Santuoka, vedybinis ryšys. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Moterystė
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: šeimos teisė, konstitucinė l
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Moterystė“ vartojama taip: Santuoka, vedybinis ryšys."
+  teiginys: "Santuoka, vedybinis ryšys."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

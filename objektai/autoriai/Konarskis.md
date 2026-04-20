@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Konarskis
 
 ## Santrauka
-Šaltinyje Konarskis minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip žymiausias piaras ir keturtomio veikalo apie seimavimą autorius, rašęs apie liberum veto panaikinimą.
+Minimas kaip žymiausias piaras ir keturtomio veikalo apie seimavimą autorius, rašęs apie liberum veto panaikinimą.
 
 ## Darbai
 - Minimas kaip žymiausias piaras ir keturtomio veikalo apie seimavimą autorius, rašęs apie liberum veto panaikinimą. (t-001)
@@ -37,7 +37,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Konarskis autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip žymiausias piaras ir keturtomio veikalo apie seimavimą autorius, rašęs apie liberum veto panaikinimą."
+  teiginys: "Minimas kaip žymiausias piaras ir keturtomio veikalo apie seimavimą autorius, rašęs apie liberum veto panaikinimą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

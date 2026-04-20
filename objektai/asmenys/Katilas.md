@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Katilas
 
 ## Santrauka
-Šaltinyje Katilas apibūdinamas taip: Minimas kaip Valkininkų konfederacijos maršalka ir vienas iš Sapiegų priešininkų.
+Minimas kaip Valkininkų konfederacijos maršalka ir vienas iš Sapiegų priešininkų.
 
 ## Variantai
 - Katilu
@@ -42,7 +42,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Katilas apibūdinamas taip: Minimas kaip Valkininkų konfederacijos maršalka ir vienas iš Sapiegų priešininkų."
+  teiginys: "Minimas kaip Valkininkų konfederacijos maršalka ir vienas iš Sapiegų priešininkų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

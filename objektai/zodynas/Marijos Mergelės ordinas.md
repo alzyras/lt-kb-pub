@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Marijos Mergelės ordinas
 
 ## Santrauka
-Šaltinyje „Marijos Mergelės ordinas“ vartojama taip: Vokiečių riterių ordino vardas, vartotas kaip oficialus ir kaip kitas pavadinimas. (t-001)
+Vokiečių riterių ordino vardas, vartotas kaip oficialus ir kaip kitas pavadinimas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Marijos Mergelės ordinas
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: kryžiaus žygiai, ordino istor
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Marijos Mergelės ordinas“ vartojama taip: Vokiečių riterių ordino vardas, vartotas kaip oficialus ir kaip kitas pavadinimas."
+  teiginys: "Vokiečių riterių ordino vardas, vartotas kaip oficialus ir kaip kitas pavadinimas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

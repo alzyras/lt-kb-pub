@@ -24,7 +24,7 @@ patikimumas: "vidutinis"
 # Vytauto grabas
 
 ## Santrauka
-Šaltinyje „Vytauto grabas“ siejamas su šiuo kontekstu: Vytauto grabas minimas kaip per rusų antplūdį paslėptas ir iki šiol nerandamas daiktas.
+Vytauto grabas minimas kaip per rusų antplūdį paslėptas ir iki šiol nerandamas daiktas.
 
 ## Pavadinimai šaltiniuose
 - Vytauto grabas
@@ -39,11 +39,10 @@ patikimumas: "vidutinis"
 - date_end:
 
 ## Kas tai
-Šaltinyje „Vytauto grabas“ siejamas su šiuo kontekstu: Vytauto grabas minimas kaip per rusų antplūdį paslėptas ir iki šiol nerandamas daiktas.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Vytauto grabas“ siejamas su šiuo kontekstu: Vytauto grabas minimas kaip per rusų antplūdį paslėptas ir iki šiol nerandamas daiktas."
+  teiginys: "Vytauto grabas minimas kaip per rusų antplūdį paslėptas ir iki šiol nerandamas daiktas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

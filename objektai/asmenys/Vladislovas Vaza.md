@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Vladislovas Vaza
 
 ## Santrauka
-Šaltinyje Vladislovas Vaza apibūdinamas taip: Paminėtas kaip valdovo laikotarpis ir asmens tema.
+Paminėtas kaip valdovo laikotarpis ir asmens tema.
 
 ## Variantai
 - Vladislovo
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Vladislovas Vaza apibūdinamas taip: Paminėtas kaip valdovo laikotarpis ir asmens tema."
+  teiginys: "Paminėtas kaip valdovo laikotarpis ir asmens tema."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

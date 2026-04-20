@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Juodoji jūra
 
 ## Santrauka
-Šaltinyje vieta „Juodoji jūra“ siejama su šiuo kontekstu: Minima kaip pakrantės erdvė, iš kurios totoriai puldinėjo kazokų gyvenamas vietas. (t-001)
+Minima kaip pakrantės erdvė, iš kurios totoriai puldinėjo kazokų gyvenamas vietas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Juodoji jūra
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Juodoji jūra“ siejama su šiuo kontekstu: Minima kaip pakrantės erdvė, iš kurios totoriai puldinėjo kazokų gyvenamas vietas."
+  teiginys: "Minima kaip pakrantės erdvė, iš kurios totoriai puldinėjo kazokų gyvenamas vietas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

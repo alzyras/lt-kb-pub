@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Sidnėjus
 
 ## Santrauka
-Šaltinyje vieta „Sidnėjus“ siejama su šiuo kontekstu: Minimas kaip vieta, kur veikia lietuvių draugija ir klubas Australijoje. (t-001)
+Minimas kaip vieta, kur veikia lietuvių draugija ir klubas Australijoje. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Sidnėjus
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Sidnėjus“ siejama su šiuo kontekstu: Minimas kaip vieta, kur veikia lietuvių draugija ir klubas Australijoje."
+  teiginys: "Minimas kaip vieta, kur veikia lietuvių draugija ir klubas Australijoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

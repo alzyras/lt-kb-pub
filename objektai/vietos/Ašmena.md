@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Ašmena
 
 ## Santrauka
-Šaltinyje vieta „Ašmena“ siejama su šiuo kontekstu: Ašmena minima kaip vienas iš kryžiuočių žygio taikinių į Lietuvą. (t-001)
+Ašmena minima kaip vienas iš kryžiuočių žygio taikinių į Lietuvą. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Ašmena
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Ašmena“ siejama su šiuo kontekstu: Ašmena minima kaip vienas iš kryžiuočių žygio taikinių į Lietuvą."
+  teiginys: "Ašmena minima kaip vienas iš kryžiuočių žygio taikinių į Lietuvą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

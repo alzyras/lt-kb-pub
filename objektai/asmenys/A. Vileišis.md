@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # A. Vileišis
 
 ## Santrauka
-Šaltinyje A. Vileišis apibūdinamas taip: Minimas kaip Komiteto narys.
+Minimas kaip Komiteto narys.
 
 ## Variantai
 - dr. A. Vileišis
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje A. Vileišis apibūdinamas taip: Minimas kaip Komiteto narys."
+  teiginys: "Minimas kaip Komiteto narys."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

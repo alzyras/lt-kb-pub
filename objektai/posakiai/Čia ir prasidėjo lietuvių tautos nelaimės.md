@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Čia ir prasidėjo lietuvių tautos nelaimės
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Čia ir prasidėjo lietuvių tautos nelaimės“; kontekstas: Pastraipoje apie šviesuomenės trūkumą autoriaus teiginys susieja išsilavinusių žmonių stoką su lietuvių tautos nelaimių pradžia. Reikšmė: Trumpa, įsimenanti formuluotė apie kultūrinį ir švietimo atsilikimą kaip nelaimių pradžią. (t-001)
+Užfiksuota formuluotė „Čia ir prasidėjo lietuvių tautos nelaimės“; kontekstas: Pastraipoje apie šviesuomenės trūkumą autoriaus teiginys susieja išsilavinusių žmonių stoką su lietuvių tautos nelaimių pradžia. Reikšmė: Trumpa, įsimenanti formuluotė apie kultūrinį ir švietimo atsilikimą kaip nelaimių pradžią. (t-001)
 
 ## Forma
 - pagrindinė forma: Čia ir prasidėjo lietuvių tautos nelaimės (t-001)
@@ -35,7 +35,7 @@ patikimumas: "vidutinis"
 - Čia ir prasidėjo lietuvių tautos nelaimės.
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Pastraipoje apie šviesuomenės trūkumą autoriaus teiginys susieja išsilavinusių žmonių stoką su lietuvių tautos nelaimių pradžia. (t-001)
@@ -45,7 +45,7 @@ Trumpa, įsimenanti formuluotė apie kultūrinį ir švietimo atsilikimą kaip n
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Čia ir prasidėjo lietuvių tautos nelaimės“; kontekstas: Pastraipoje apie šviesuomenės trūkumą autoriaus teiginys susieja išsilavinusių žmonių stoką su lietuvių tautos nelaimių pradžia."
+  teiginys: "Užfiksuota formuluotė „Čia ir prasidėjo lietuvių tautos nelaimės“; kontekstas: Pastraipoje apie šviesuomenės trūkumą autoriaus teiginys susieja išsilavinusių žmonių stoką su lietuvių tautos nelaimių pradžia."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

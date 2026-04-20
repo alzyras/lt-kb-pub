@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Švedijos seimas
 
 ## Santrauka
-Šaltinyje „Švedijos seimas“ apibūdinama kaip seimas; švedijos seimas šiame gabale pasirodo kaip Karolio šaukiamas politinis susirinkimas, kuris uždraudė katalikybę ir vėliau paskelbė Zigmantą detronizuotu. (t-001) Šaltinyje „Švedijos seimas“ siejama su šiuo kontekstu: Švedijos seimas šiame gabale pasirodo kaip Karolio šaukiamas politinis susirinkimas, kuris uždraudė katalikybę ir vėliau paskelbė Zigmantą detronizuotu. (t-002)
+seimas; švedijos seimas šiame gabale pasirodo kaip Karolio šaukiamas politinis susirinkimas, kuris uždraudė katalikybę ir vėliau paskelbė Zigmantą detronizuotu. (t-001) Šaltinyje „Švedijos seimas“ siejama su šiuo kontekstu: Švedijos seimas šiame gabale pasirodo kaip Karolio šaukiamas politinis susirinkimas, kuris uždraudė katalikybę ir vėliau paskelbė Zigmantą detronizuotu. (t-002)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Švedijos seimas
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: seimas
-Šaltinyje „Švedijos seimas“ apibūdinama kaip seimas; švedijos seimas šiame gabale pasirodo kaip Karolio šaukiamas politinis susirinkimas, kuris uždraudė katalikybę ir vėliau paskelbė Zigmantą detronizuotu. (t-001)
+seimas; švedijos seimas šiame gabale pasirodo kaip Karolio šaukiamas politinis susirinkimas, kuris uždraudė katalikybę ir vėliau paskelbė Zigmantą detronizuotu. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Švedijos seimas“ apibūdinama kaip seimas; švedijos seimas šiame gabale pasirodo kaip Karolio šaukiamas politinis susirinkimas, kuris uždraudė katalikybę ir vėliau paskelbė Zigmantą detronizuotu. (t-001)
@@ -55,13 +55,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Švedijos seimas“ apibūdinama kaip seimas; švedijos seimas šiame gabale pasirodo kaip Karolio šaukiamas politinis susirinkimas, kuris uždraudė katalikybę ir vėliau paskelbė Zigmantą detronizuotu."
+  teiginys: "seimas; švedijos seimas šiame gabale pasirodo kaip Karolio šaukiamas politinis susirinkimas, kuris uždraudė katalikybę ir vėliau paskelbė Zigmantą detronizuotu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Švedijos seimas“ siejama su šiuo kontekstu: Švedijos seimas šiame gabale pasirodo kaip Karolio šaukiamas politinis susirinkimas, kuris uždraudė katalikybę ir vėliau paskelbė Zigmantą detronizuotu."
+  teiginys: "Švedijos seimas šiame gabale pasirodo kaip Karolio šaukiamas politinis susirinkimas, kuris uždraudė katalikybę ir vėliau paskelbė Zigmantą detronizuotu."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

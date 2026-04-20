@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Ignas Potockis
 
 ## Santrauka
-Šaltinyje Ignas Potockis apibūdinamas taip: Minimas kaip Lietuvos kiemo ir krašto maršalka bei viena įtakingiausių reforminio seimo vadų.
+Minimas kaip Lietuvos kiemo ir krašto maršalka bei viena įtakingiausių reforminio seimo vadų.
 
 ## Variantai
 - Potockis
@@ -43,7 +43,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Ignas Potockis apibūdinamas taip: Minimas kaip Lietuvos kiemo ir krašto maršalka bei viena įtakingiausių reforminio seimo vadų."
+  teiginys: "Minimas kaip Lietuvos kiemo ir krašto maršalka bei viena įtakingiausių reforminio seimo vadų."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

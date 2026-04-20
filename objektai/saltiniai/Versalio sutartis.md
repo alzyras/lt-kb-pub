@@ -38,7 +38,7 @@ patikimumas: "aukstas"
 
 ## Turinys ir apimtis
 
-Šaltinyje „Versalio sutartis“ tai sutartis, kuria šiame fragmente remiamasi aiškinant Tautų Sąjungos susikūrimą ir Lietuvos kreipimąsi dėl priėmimo.
+tai sutartis, kuria šiame fragmente remiamasi aiškinant Tautų Sąjungos susikūrimą ir Lietuvos kreipimąsi dėl priėmimo.
 
 ## Ryšiai
 
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 ## Teiginiai
 
 - t-001
-  teiginys: "Šaltinyje „Versalio sutartis“ tai sutartis, kuria šiame fragmente remiamasi aiškinant Tautų Sąjungos susikūrimą ir Lietuvos kreipimąsi dėl priėmimo."
+  teiginys: "tai sutartis, kuria šiame fragmente remiamasi aiškinant Tautų Sąjungos susikūrimą ir Lietuvos kreipimąsi dėl priėmimo."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

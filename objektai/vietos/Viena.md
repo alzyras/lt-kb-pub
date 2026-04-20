@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Viena
 
 ## Santrauka
-Šaltinyje vieta „Viena“ siejama su šiuo kontekstu: Minima kaip turkų puolimo ir Sobieskio pagalbos vieta. (t-001)
+Minima kaip turkų puolimo ir Sobieskio pagalbos vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Viena
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Viena“ siejama su šiuo kontekstu: Minima kaip turkų puolimo ir Sobieskio pagalbos vieta."
+  teiginys: "Minima kaip turkų puolimo ir Sobieskio pagalbos vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

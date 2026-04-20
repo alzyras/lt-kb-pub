@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Ona Vytautienė
 
 ## Santrauka
-Šaltinyje Ona Vytautienė apibūdinamas taip: Minima kaip kunigaikštienė Ona, kurios vardu rašytas Astravos dokumentas.
+Minima kaip kunigaikštienė Ona, kurios vardu rašytas Astravos dokumentas.
 
 ## Variantai
 - Onos Vytautienės
@@ -46,7 +46,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Ona Vytautienė apibūdinamas taip: Minima kaip kunigaikštienė Ona, kurios vardu rašytas Astravos dokumentas."
+  teiginys: "Minima kaip kunigaikštienė Ona, kurios vardu rašytas Astravos dokumentas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

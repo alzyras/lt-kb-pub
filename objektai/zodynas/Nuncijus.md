@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Nuncijus
 
 ## Santrauka
-Šaltinyje „Nuncijus“ vartojama taip: Popiežiaus diplomatinis atstovas. (t-001)
+Popiežiaus diplomatinis atstovas. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Nuncijus
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: bažnytinė diplomatija. (t-001
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Nuncijus“ vartojama taip: Popiežiaus diplomatinis atstovas."
+  teiginys: "Popiežiaus diplomatinis atstovas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

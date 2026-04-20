@@ -30,7 +30,7 @@ patikimumas: "vidutinis"
 # Išvyti maskolius į Aziją
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Išvyti maskolius į Aziją ir palikti Lietuvą lietuviams, o Ukrainą ukrainiečiams“; kontekstas: Filadelfijos lietuvių ir ukrainiečių mitinge formuluotas politinis reikalavimas karo metu. Reikšmė: Politinis šūkis apie Rusijos pasitraukimą ir tautinių teritorijų palikimą vietos tautoms. (t-001)
+Užfiksuota formuluotė „Išvyti maskolius į Aziją ir palikti Lietuvą lietuviams, o Ukrainą ukrainiečiams“; kontekstas: Filadelfijos lietuvių ir ukrainiečių mitinge formuluotas politinis reikalavimas karo metu. Reikšmė: Politinis šūkis apie Rusijos pasitraukimą ir tautinių teritorijų palikimą vietos tautoms. (t-001)
 
 ## Forma
 - pagrindinė forma: Išvyti maskolius į Aziją ir palikti Lietuvą lietuviams, o Ukrainą ukrainiečiams (t-001)
@@ -53,7 +53,7 @@ Politinis šūkis apie Rusijos pasitraukimą ir tautinių teritorijų palikimą 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Išvyti maskolius į Aziją ir palikti Lietuvą lietuviams, o Ukrainą ukrainiečiams“; kontekstas: Filadelfijos lietuvių ir ukrainiečių mitinge formuluotas politinis reikalavimas karo metu."
+  teiginys: "Užfiksuota formuluotė „Išvyti maskolius į Aziją ir palikti Lietuvą lietuviams, o Ukrainą ukrainiečiams“; kontekstas: Filadelfijos lietuvių ir ukrainiečių mitinge formuluotas politinis reikalavimas karo metu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

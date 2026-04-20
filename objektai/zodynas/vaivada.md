@@ -30,7 +30,7 @@ patikimumas: "vidutinis"
 # Vaivada
 
 ## Santrauka
-Šaltinyje „Vaivada“ vartojama taip: Aukštas krašto administracijos pareigūnas, susietas su vaivadijos valdymu. (t-001)
+Aukštas krašto administracijos pareigūnas, susietas su vaivadijos valdymu. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Vaivada
@@ -53,7 +53,7 @@ Terminas šaltinyje vartojamas šiame kontekste: valstybės valdymas, pareigybė
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Vaivada“ vartojama taip: Aukštas krašto administracijos pareigūnas, susietas su vaivadijos valdymu."
+  teiginys: "Aukštas krašto administracijos pareigūnas, susietas su vaivadijos valdymu."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

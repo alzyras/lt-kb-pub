@@ -26,7 +26,7 @@ patikimumas: "vidutinis"
 # Geriau, girdi, vanduo su ugnimi susitaikins, negu Tu su Šliūpu
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Geriau, girdi, vanduo su ugnimi susitaikins, negu Tu su Šliūpu“; kontekstas: Burba atsisveikindamas pateikia vaizdingą palyginimą apie savo ir Šliūpo nesutaikomus pasaulėžiūros skirtumus. Reikšmė: Vaizdingas, beveik patarlinis palyginimas apie visišką nesuderinamumą. (t-001)
+Užfiksuota formuluotė „Geriau, girdi, vanduo su ugnimi susitaikins, negu Tu su Šliūpu“; kontekstas: Burba atsisveikindamas pateikia vaizdingą palyginimą apie savo ir Šliūpo nesutaikomus pasaulėžiūros skirtumus. Reikšmė: Vaizdingas, beveik patarlinis palyginimas apie visišką nesuderinamumą. (t-001)
 
 ## Forma
 - pagrindinė forma: Geriau, girdi, vanduo su ugnimi susitaikins, negu Tu su Šliūpu (t-001)
@@ -35,7 +35,7 @@ patikimumas: "vidutinis"
 - geriau, girdi, vanduo su ugnimi susitaikins, negu Tu su Šliūpu
 
 ## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
+- Aiškus vartojimo laikas nenurodytas.
 
 ## Kontekstas ir vartojimas
 Burba atsisveikindamas pateikia vaizdingą palyginimą apie savo ir Šliūpo nesutaikomus pasaulėžiūros skirtumus. (t-001)
@@ -45,7 +45,7 @@ Vaizdingas, beveik patarlinis palyginimas apie visišką nesuderinamumą. (t-001
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Geriau, girdi, vanduo su ugnimi susitaikins, negu Tu su Šliūpu“; kontekstas: Burba atsisveikindamas pateikia vaizdingą palyginimą apie savo ir Šliūpo nesutaikomus pasaulėžiūros skirtumus."
+  teiginys: "Užfiksuota formuluotė „Geriau, girdi, vanduo su ugnimi susitaikins, negu Tu su Šliūpu“; kontekstas: Burba atsisveikindamas pateikia vaizdingą palyginimą apie savo ir Šliūpo nesutaikomus pasaulėžiūros skirtumus."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

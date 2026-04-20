@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Bliados ežeras
 
 ## Santrauka
-Šaltinyje vieta „Bliados ežeras“ siejama su šiuo kontekstu: Minimas rytinės sienos apraše. (t-001)
+Minimas rytinės sienos apraše. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Bliados ežeras
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Bliados ežeras“ siejama su šiuo kontekstu: Minimas rytinės sienos apraše."
+  teiginys: "Minimas rytinės sienos apraše."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

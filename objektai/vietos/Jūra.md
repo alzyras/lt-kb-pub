@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Jūra
 
 ## Santrauka
-Šaltinyje vieta „Jūra“ siejama su šiuo kontekstu: Minima kaip upė, prie kurios stovėjo Gedimino pilis. (t-001)
+Minima kaip upė, prie kurios stovėjo Gedimino pilis. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Jūra
@@ -44,7 +44,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Jūra“ siejama su šiuo kontekstu: Minima kaip upė, prie kurios stovėjo Gedimino pilis."
+  teiginys: "Minima kaip upė, prie kurios stovėjo Gedimino pilis."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

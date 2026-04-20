@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Prancūziškoji partija
 
 ## Santrauka
-Šaltinyje „Prancūziškoji partija“ apibūdinama kaip politinė partija; prancūziškoji partija minima kaip Sobieskio priešininkų stovykla, susijusi su Prancūzijos kandidatais ir kovojusi su bajorų partija. (t-001) Šaltinyje „Prancūziškoji partija“ siejama su šiuo kontekstu: Prancūziškoji partija minima kaip Sobieskio priešininkų stovykla, susijusi su Prancūzijos kandidatais ir kovojusi su bajorų partija. (t-002)
+politinė partija; prancūziškoji partija minima kaip Sobieskio priešininkų stovykla, susijusi su Prancūzijos kandidatais ir kovojusi su bajorų partija. (t-001) Šaltinyje „Prancūziškoji partija“ siejama su šiuo kontekstu: Prancūziškoji partija minima kaip Sobieskio priešininkų stovykla, susijusi su Prancūzijos kandidatais ir kovojusi su bajorų partija. (t-002)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Prancūziškoji partija
@@ -36,7 +36,7 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: politinė partija
-Šaltinyje „Prancūziškoji partija“ apibūdinama kaip politinė partija; prancūziškoji partija minima kaip Sobieskio priešininkų stovykla, susijusi su Prancūzijos kandidatais ir kovojusi su bajorų partija. (t-001)
+politinė partija; prancūziškoji partija minima kaip Sobieskio priešininkų stovykla, susijusi su Prancūzijos kandidatais ir kovojusi su bajorų partija. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Prancūziškoji partija“ apibūdinama kaip politinė partija; prancūziškoji partija minima kaip Sobieskio priešininkų stovykla, susijusi su Prancūzijos kandidatais ir kovojusi su bajorų partija. (t-001)
@@ -44,13 +44,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Prancūziškoji partija“ apibūdinama kaip politinė partija; prancūziškoji partija minima kaip Sobieskio priešininkų stovykla, susijusi su Prancūzijos kandidatais ir kovojusi su bajorų partija."
+  teiginys: "politinė partija; prancūziškoji partija minima kaip Sobieskio priešininkų stovykla, susijusi su Prancūzijos kandidatais ir kovojusi su bajorų partija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Prancūziškoji partija“ siejama su šiuo kontekstu: Prancūziškoji partija minima kaip Sobieskio priešininkų stovykla, susijusi su Prancūzijos kandidatais ir kovojusi su bajorų partija."
+  teiginys: "Prancūziškoji partija minima kaip Sobieskio priešininkų stovykla, susijusi su Prancūzijos kandidatais ir kovojusi su bajorų partija."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

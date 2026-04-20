@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Boleslovas Narsusis
 
 ## Santrauka
-Šaltinyje Boleslovas Narsusis apibūdinamas taip: Minimas kaip lenkų kunigaikštis, suteikęs apsaugą Vaitiekui ir išpirkęs misijonierių lavonus.
+Minimas kaip lenkų kunigaikštis, suteikęs apsaugą Vaitiekui ir išpirkęs misijonierių lavonus.
 
 ## Variantai
 - Boleslovą Narsųjį
@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Boleslovas Narsusis apibūdinamas taip: Minimas kaip lenkų kunigaikštis, suteikęs apsaugą Vaitiekui ir išpirkęs misijonierių lavonus."
+  teiginys: "Minimas kaip lenkų kunigaikštis, suteikęs apsaugą Vaitiekui ir išpirkęs misijonierių lavonus."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

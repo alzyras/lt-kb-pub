@@ -24,14 +24,14 @@ patikimumas: "vidutinis"
 # Bžostauskas
 
 ## Santrauka
-Šaltinyje Bžostauskas apibūdinamas taip: Paminėtas kaip Vilniaus vyskupas, su kuriuo minimas Sapiegų konfliktas.
+Paminėtas kaip Vilniaus vyskupas, su kuriuo minimas Sapiegų konfliktas.
 
 ## Variantai
 - Bžostausku
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Bžostauskas apibūdinamas taip: Paminėtas kaip Vilniaus vyskupas, su kuriuo minimas Sapiegų konfliktas."
+  teiginys: "Paminėtas kaip Vilniaus vyskupas, su kuriuo minimas Sapiegų konfliktas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Henrikas
 
 ## Santrauka
-Šaltinyje Henrikas apibūdinamas taip: Kulmo vyskupas, įgaliotas karūnuoti Mindaugą ir dalyvauti naujos vyskupystės įkūrime.
+Kulmo vyskupas, įgaliotas karūnuoti Mindaugą ir dalyvauti naujos vyskupystės įkūrime.
 
 ## Variantai
 - Henriką
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Henrikas apibūdinamas taip: Kulmo vyskupas, įgaliotas karūnuoti Mindaugą ir dalyvauti naujos vyskupystės įkūrime."
+  teiginys: "Kulmo vyskupas, įgaliotas karūnuoti Mindaugą ir dalyvauti naujos vyskupystės įkūrime."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

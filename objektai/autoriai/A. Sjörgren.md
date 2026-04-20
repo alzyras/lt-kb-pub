@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # A. Sjörgren
 
 ## Santrauka
-Šaltinyje A. Sjörgren minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip jotvingių gyvenamųjų vietų tyrėjas.
+Bibliografijoje nurodytas kaip jotvingių gyvenamųjų vietų tyrėjas.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip jotvingių gyvenamųjų vietų tyrėjas. (t-001)
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje A. Sjörgren autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip jotvingių gyvenamųjų vietų tyrėjas."
+  teiginys: "Bibliografijoje nurodytas kaip jotvingių gyvenamųjų vietų tyrėjas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

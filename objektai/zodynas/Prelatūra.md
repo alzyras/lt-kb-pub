@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Prelatūra
 
 ## Santrauka
-Šaltinyje „Prelatūra“ vartojama taip: Bažnytinis teritorinis vienetas, paprastai žemesnis už vyskupiją. (t-001)
+Bažnytinis teritorinis vienetas, paprastai žemesnis už vyskupiją. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Prelatūra
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: bažnytinė administracija. (t-
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Prelatūra“ vartojama taip: Bažnytinis teritorinis vienetas, paprastai žemesnis už vyskupiją."
+  teiginys: "Bažnytinis teritorinis vienetas, paprastai žemesnis už vyskupiją."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

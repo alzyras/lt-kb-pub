@@ -26,7 +26,7 @@ patikimumas: "aukstas"
 # Fridrikas Vilhelmas III
 
 ## Santrauka
-Šaltinyje Fridrikas Vilhelmas III apibūdinamas taip: Prūsų karalius, kurį 1807 m. iš savo valstybės išvijo Napoleonas I.
+Prūsų karalius, kurį 1807 m. iš savo valstybės išvijo Napoleonas I.
 
 ## Variantai
 - Prūsų karalius Fridrikas Vilhelmas III
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Fridrikas Vilhelmas III apibūdinamas taip: Prūsų karalius, kurį 1807 m. iš savo valstybės išvijo Napoleonas I."
+  teiginys: "Prūsų karalius, kurį 1807 m. iš savo valstybės išvijo Napoleonas I."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

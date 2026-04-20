@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Aleksandras (Olelka)
 
 ## Santrauka
-Šaltinyje Aleksandras (Olelka) apibūdinamas taip: Vladimiro Algirdaičio sūnus, kurio sūnui Simanui buvo siekiama palikti Kijevą.
+Vladimiro Algirdaičio sūnus, kurio sūnui Simanui buvo siekiama palikti Kijevą.
 
 ## Variantai
 - Aleksandro
@@ -33,7 +33,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Aleksandras (Olelka) apibūdinamas taip: Vladimiro Algirdaičio sūnus, kurio sūnui Simanui buvo siekiama palikti Kijevą."
+  teiginys: "Vladimiro Algirdaičio sūnus, kurio sūnui Simanui buvo siekiama palikti Kijevą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

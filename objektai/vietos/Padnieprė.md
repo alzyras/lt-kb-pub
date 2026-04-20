@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Padnieprė
 
 ## Santrauka
-Šaltinyje vieta „Padnieprė“ siejama su šiuo kontekstu: Minima kaip kazokų vyriausios stovyklos Padnieprėje vieta. (t-001)
+Minima kaip kazokų vyriausios stovyklos Padnieprėje vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Padnieprė
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Padnieprė“ siejama su šiuo kontekstu: Minima kaip kazokų vyriausios stovyklos Padnieprėje vieta."
+  teiginys: "Minima kaip kazokų vyriausios stovyklos Padnieprėje vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

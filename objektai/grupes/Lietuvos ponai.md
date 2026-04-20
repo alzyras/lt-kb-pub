@@ -29,7 +29,7 @@ patikimumas: "aukstas"
 # Lietuvos ponai
 
 ## Santrauka
-Šaltinyje „Lietuvos ponai“ apibūdinama kaip ponai; lietuvos ponai šiame gabale pateikiami kaip sąmokslininkų grupė, kuri nužudo Zigmantą ir perima valstybės vairą. (t-001)
+ponai; lietuvos ponai šiame gabale pateikiami kaip sąmokslininkų grupė, kuri nužudo Zigmantą ir perima valstybės vairą. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Lietuvos ponai
@@ -46,14 +46,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: ponai
-Šaltinyje „Lietuvos ponai“ apibūdinama kaip ponai; lietuvos ponai šiame gabale pateikiami kaip sąmokslininkų grupė, kuri nužudo Zigmantą ir perima valstybės vairą. (t-001)
+ponai; lietuvos ponai šiame gabale pateikiami kaip sąmokslininkų grupė, kuri nužudo Zigmantą ir perima valstybės vairą. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Lietuvos ponai“ apibūdinama kaip ponai; lietuvos ponai šiame gabale pateikiami kaip sąmokslininkų grupė, kuri nužudo Zigmantą ir perima valstybės vairą. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Lietuvos ponai“ apibūdinama kaip ponai; lietuvos ponai šiame gabale pateikiami kaip sąmokslininkų grupė, kuri nužudo Zigmantą ir perima valstybės vairą."
+  teiginys: "ponai; lietuvos ponai šiame gabale pateikiami kaip sąmokslininkų grupė, kuri nužudo Zigmantą ir perima valstybės vairą."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

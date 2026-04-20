@@ -30,7 +30,7 @@ patikimumas: "aukstas"
 # Birkos
 
 ## Santrauka
-Šaltinyje „Birkos“ taip vadinamos skaičiams žymėti skirtos lazdelės, naudojamos kaip kvitas, vekselis ir atsiskaitymo priemonė.
+taip vadinamos skaičiams žymėti skirtos lazdelės, naudojamos kaip kvitas, vekselis ir atsiskaitymo priemonė.
 
 ## Pavadinimai šaltiniuose
 - lazdelės
@@ -47,11 +47,10 @@ patikimumas: "aukstas"
 - date_end:
 
 ## Kas tai
-Šaltinyje „Birkos“ taip vadinamos skaičiams žymėti skirtos lazdelės, naudojamos kaip kvitas, vekselis ir atsiskaitymo priemonė.
-
+Žr. santrauką.
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Birkos“ taip vadinamos skaičiams žymėti skirtos lazdelės, naudojamos kaip kvitas, vekselis ir atsiskaitymo priemonė."
+  teiginys: "taip vadinamos skaičiams žymėti skirtos lazdelės, naudojamos kaip kvitas, vekselis ir atsiskaitymo priemonė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

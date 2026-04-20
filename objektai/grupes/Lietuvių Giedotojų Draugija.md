@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Lietuvių Giedotojų Draugija
 
 ## Santrauka
-Šaltinyje „Lietuvių Giedotojų Draugija“ apibūdinama kaip kultūrinė draugija; draugija įvardijama kaip Birutės draugijos dešimtmečio proga įkurta organizacija, kuriai vadovavo Vydūnas (Storasta) ir kuri, pasak teksto, tebegyvuoja. (t-001)
+kultūrinė draugija; draugija įvardijama kaip Birutės draugijos dešimtmečio proga įkurta organizacija, kuriai vadovavo Vydūnas (Storasta) ir kuri, pasak teksto, tebegyvuoja. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Lietuvių Giedotojų Draugija
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: kultūrinė draugija
-Šaltinyje „Lietuvių Giedotojų Draugija“ apibūdinama kaip kultūrinė draugija; draugija įvardijama kaip Birutės draugijos dešimtmečio proga įkurta organizacija, kuriai vadovavo Vydūnas (Storasta) ir kuri, pasak teksto, tebegyvuoja. (t-001)
+kultūrinė draugija; draugija įvardijama kaip Birutės draugijos dešimtmečio proga įkurta organizacija, kuriai vadovavo Vydūnas (Storasta) ir kuri, pasak teksto, tebegyvuoja. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Lietuvių Giedotojų Draugija“ apibūdinama kaip kultūrinė draugija; draugija įvardijama kaip Birutės draugijos dešimtmečio proga įkurta organizacija, kuriai vadovavo Vydūnas (Storasta) ir kuri, pasak teksto, tebegyvuoja. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Lietuvių Giedotojų Draugija“ apibūdinama kaip kultūrinė draugija; draugija įvardijama kaip Birutės draugijos dešimtmečio proga įkurta organizacija, kuriai vadovavo Vydūnas (Storasta) ir kuri, pasak teksto, tebegyvuoja."
+  teiginys: "kultūrinė draugija; draugija įvardijama kaip Birutės draugijos dešimtmečio proga įkurta organizacija, kuriai vadovavo Vydūnas (Storasta) ir kuri, pasak teksto, tebegyvuoja."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

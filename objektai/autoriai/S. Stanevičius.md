@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # S. Stanevičius
 
 ## Santrauka
-Šaltinyje S. Stanevičius minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip lietuviškų dainų rinkinio autorius.
+Minimas kaip lietuviškų dainų rinkinio autorius.
 
 ## Darbai
 - Minimas kaip lietuviškų dainų rinkinio autorius. (t-001)
@@ -37,7 +37,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje S. Stanevičius autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip lietuviškų dainų rinkinio autorius."
+  teiginys: "Minimas kaip lietuviškų dainų rinkinio autorius."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

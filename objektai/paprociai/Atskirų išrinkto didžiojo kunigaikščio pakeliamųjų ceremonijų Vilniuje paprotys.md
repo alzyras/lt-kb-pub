@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # Atskirų išrinkto didžiojo kunigaikščio pakeliamųjų ceremonijų Vilniuje paprotys
 
 ## Santrauka
-Šaltinyje minima praktika „Atskirų išrinkto didžiojo kunigaikščio pakeliamųjų ceremonijų Vilniuje paprotys“ siejama su formuluote: atskiras išrinkto didžiojo kunigaikščio pakeliamąsias ceremonijas Vilniuje. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos delegacija; Lietuvos bajorija; kada atliekama: derantis dėl unijos ir valdovo rinkimo tvarkos. (t-001)
+atskiras išrinkto didžiojo kunigaikščio pakeliamąsias ceremonijas Vilniuje. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos delegacija; Lietuvos bajorija; kada atliekama: derantis dėl unijos ir valdovo rinkimo tvarkos. (t-001)
 
 ## Pavadinimai šaltiniuose
 - atskiras išrinkto didžiojo kunigaikščio pakeliamąsias ceremonijas Vilniuje
@@ -40,8 +40,7 @@ patikimumas: "vidutinis"
 - date_start/date_end: 1569 / 1569 (t-001)
 
 ## Kas tai
-Šaltinyje minima praktika „Atskirų išrinkto didžiojo kunigaikščio pakeliamųjų ceremonijų Vilniuje paprotys“ siejama su formuluote: atskiras išrinkto didžiojo kunigaikščio pakeliamąsias ceremonijas Vilniuje. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos delegacija; Lietuvos bajorija; kada atliekama: derantis dėl unijos ir valdovo rinkimo tvarkos. (t-001)
-
+Žr. santrauką.
 ## Atlikimas
 - kas atlieka: Lietuvos delegacija; Lietuvos bajorija (t-001)
 - kada atliekama: derantis dėl unijos ir valdovo rinkimo tvarkos (t-001)
@@ -49,7 +48,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje minima praktika „Atskirų išrinkto didžiojo kunigaikščio pakeliamųjų ceremonijų Vilniuje paprotys“ siejama su formuluote: atskiras išrinkto didžiojo kunigaikščio pakeliamąsias ceremonijas Vilniuje. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos delegacija; Lietuvos bajorija; kada atliekama: derantis dėl unijos ir valdovo rinkimo tvarkos."
+  teiginys: "atskiras išrinkto didžiojo kunigaikščio pakeliamąsias ceremonijas Vilniuje. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos delegacija; Lietuvos bajorija; kada atliekama: derantis dėl unijos ir valdovo rinkimo tvarkos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -35,7 +35,7 @@ patikimumas: "vidutinis"
 # Adomas Dambrauskas Jakštas
 
 ## Santrauka
-Šaltinyje Adomas Dambrauskas Jakštas minimas kaip „Draugijos“ leidėjas, mokslininkas, literatūros kritikas, publicistas ir poetas; šaltinis taip pat mini A. Jakšto lenkiškai parašytą brošiūrą „Lietuvių Balsas“.
+Adomas Dambrauskas Jakštas minimas kaip „Draugijos“ leidėjas, mokslininkas, literatūros kritikas, publicistas ir poetas; šaltinis taip pat mini A. Jakšto lenkiškai parašytą brošiūrą „Lietuvių Balsas“.
 
 ## Laikotarpis ir datos
 - 1860 m.
@@ -52,19 +52,19 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Adomas Dambrauskas Jakštas minimas kaip publicistas ir poetas, siejamas su: „Draugija“; „Lietuvių Balsas“."
+  teiginys: "„Draugija“; „Lietuvių Balsas“."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje Adomas Dambrauskas Jakštas apibūdintas kaip mokslininkas, literatūros kritikas, publicistas ir poetas."
+  teiginys: "Adomas Dambrauskas Jakštas apibūdintas kaip mokslininkas, literatūros kritikas, publicistas ir poetas."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-003
-  teiginys: "Šaltinyje nurodoma, kad buvo išleista A. Jakšto lenkiškai parašyta brošiūra „Lietuvių Balsas“."
+  teiginys: "nurodoma, kad buvo išleista A. Jakšto lenkiškai parašyta brošiūra „Lietuvių Balsas“."
   pagrindžia:
     - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

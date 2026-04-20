@@ -28,7 +28,7 @@ patikimumas: "vidutinis"
 # E. Caspar
 
 ## Santrauka
-Šaltinyje E. Caspar minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip H. Salzos tyrėjas.
+Bibliografijoje nurodytas kaip H. Salzos tyrėjas.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip H. Salzos tyrėjas. (t-001)
@@ -38,7 +38,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje E. Caspar autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip H. Salzos tyrėjas."
+  teiginys: "Bibliografijoje nurodytas kaip H. Salzos tyrėjas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

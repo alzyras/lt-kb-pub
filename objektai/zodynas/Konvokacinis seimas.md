@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Konvokacinis seimas
 
 ## Santrauka
-Šaltinyje „Konvokacinis seimas“ vartojama taip: Tarpuvaldžio arba ypatingai sušauktas seimas valstybės reikalams spręsti. (t-001)
+Tarpuvaldžio arba ypatingai sušauktas seimas valstybės reikalams spręsti. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Konvokacinis seimas
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: politinė istorija, seimų term
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Konvokacinis seimas“ vartojama taip: Tarpuvaldžio arba ypatingai sušauktas seimas valstybės reikalams spręsti."
+  teiginys: "Tarpuvaldžio arba ypatingai sušauktas seimas valstybės reikalams spręsti."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Čekija
 
 ## Santrauka
-Šaltinyje vieta „Čekija“ siejama su šiais kontekstais: Minima kaip vieta, kur prasidėjus suirutėms ir karams sunyko Prahos universitetas ir kolegijos; Čekija minima kaip valdovo pretenzijų sritis, kurią jis užleido Habsburgams. (t-001, t-002)
+Minima kaip vieta, kur prasidėjus suirutėms ir karams sunyko Prahos universitetas ir kolegijos; Čekija minima kaip valdovo pretenzijų sritis, kurią jis užleido Habsburgams. (t-001, t-002)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Čekija
@@ -45,13 +45,13 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Čekija“ siejama su šiuo kontekstu: Minima kaip vieta, kur prasidėjus suirutėms ir karams sunyko Prahos universitetas ir kolegijos."
+  teiginys: "Minima kaip vieta, kur prasidėjus suirutėms ir karams sunyko Prahos universitetas ir kolegijos."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Čekija“ siejama su šiuo kontekstu: Čekija minima kaip valdovo pretenzijų sritis, kurią jis užleido Habsburgams."
+  teiginys: "Čekija minima kaip valdovo pretenzijų sritis, kurią jis užleido Habsburgams."
   pagrindžia:
     - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

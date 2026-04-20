@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Petrapilis
 
 ## Santrauka
-Šaltinyje vieta „Petrapilis“ siejama su šiuo kontekstu: Minimas kaip būsimoji Rusijos sostinė, kurią Petras I pradėjo statyti Nevos paupyje. (t-001)
+Minimas kaip būsimoji Rusijos sostinė, kurią Petras I pradėjo statyti Nevos paupyje. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Petrapilis
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Petrapilis“ siejama su šiuo kontekstu: Minimas kaip būsimoji Rusijos sostinė, kurią Petras I pradėjo statyti Nevos paupyje."
+  teiginys: "Minimas kaip būsimoji Rusijos sostinė, kurią Petras I pradėjo statyti Nevos paupyje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

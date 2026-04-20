@@ -27,7 +27,7 @@ patikimumas: "aukstas"
 # Užnemunė
 
 ## Santrauka
-Šaltinyje vieta „Užnemunė“ siejama su šiuo kontekstu: Minima kaip lietuviškoji Užnemunė, patekusi į Varšuvos kunigaikštiją 1807 m. kontekste. (t-001)
+Minima kaip lietuviškoji Užnemunė, patekusi į Varšuvos kunigaikštiją 1807 m. kontekste. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Užnemunė
@@ -47,7 +47,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Užnemunė“ siejama su šiuo kontekstu: Minima kaip lietuviškoji Užnemunė, patekusi į Varšuvos kunigaikštiją 1807 m. kontekste."
+  teiginys: "Minima kaip lietuviškoji Užnemunė, patekusi į Varšuvos kunigaikštiją 1807 m. kontekste."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

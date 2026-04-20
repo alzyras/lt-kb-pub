@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # Činšininkas
 
 ## Santrauka
-Šaltinyje „Činšininkas“ vartojama taip: valstietis, kurio statusas priešpriešinamas baudžiauninkui. (t-001)
+valstietis, kurio statusas priešpriešinamas baudžiauninkui. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Činšininkas
@@ -50,7 +50,7 @@ Terminas šaltinyje vartojamas šiame kontekste: valstiečių socialinis statusa
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Činšininkas“ vartojama taip: valstietis, kurio statusas priešpriešinamas baudžiauninkui."
+  teiginys: "valstietis, kurio statusas priešpriešinamas baudžiauninkui."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

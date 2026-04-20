@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Krikščionys demokratai
 
 ## Santrauka
-Šaltinyje „Krikščionys demokratai“ apibūdinama kaip politinė grupė; iš veikėjų, susibūrusių apie „Tėvynės Sargą“, susidarė dar viena politinė grupė. (t-001)
+politinė grupė; iš veikėjų, susibūrusių apie „Tėvynės Sargą“, susidarė dar viena politinė grupė. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Krikščionys demokratai
@@ -45,14 +45,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: politinė grupė
-Šaltinyje „Krikščionys demokratai“ apibūdinama kaip politinė grupė; iš veikėjų, susibūrusių apie „Tėvynės Sargą“, susidarė dar viena politinė grupė. (t-001)
+politinė grupė; iš veikėjų, susibūrusių apie „Tėvynės Sargą“, susidarė dar viena politinė grupė. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Krikščionys demokratai“ apibūdinama kaip politinė grupė; iš veikėjų, susibūrusių apie „Tėvynės Sargą“, susidarė dar viena politinė grupė. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Krikščionys demokratai“ apibūdinama kaip politinė grupė; iš veikėjų, susibūrusių apie „Tėvynės Sargą“, susidarė dar viena politinė grupė."
+  teiginys: "politinė grupė; iš veikėjų, susibūrusių apie „Tėvynės Sargą“, susidarė dar viena politinė grupė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

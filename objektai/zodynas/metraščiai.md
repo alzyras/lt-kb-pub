@@ -29,7 +29,7 @@ patikimumas: "vidutinis"
 # Metraščiai
 
 ## Santrauka
-Šaltinyje „Metraščiai“ vartojama taip: Metiniai ar chronologiniai istoriniai raštai, užrašantys įvykius ir žinias. (t-001)
+Metiniai ar chronologiniai istoriniai raštai, užrašantys įvykius ir žinias. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Metraščiai
@@ -52,7 +52,7 @@ Terminas šaltinyje vartojamas šiame kontekste: istorijos raštija, rankrašči
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Metraščiai“ vartojama taip: Metiniai ar chronologiniai istoriniai raštai, užrašantys įvykius ir žinias."
+  teiginys: "Metiniai ar chronologiniai istoriniai raštai, užrašantys įvykius ir žinias."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Liublino seimas
 
 ## Santrauka
-Šaltinyje „Liublino seimas“ apibūdinama kaip seimas; liublino seimas šiame gabale minimas kaip seimas, kuris paskyrė Varšuvą seimų vieta. (t-001)
+seimas; liublino seimas šiame gabale minimas kaip seimas, kuris paskyrė Varšuvą seimų vieta. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Kanoninis pavadinimas: Liublino seimas
@@ -36,14 +36,14 @@ patikimumas: "aukstas"
 
 ## Kas tai
 - tipas: seimas
-Šaltinyje „Liublino seimas“ apibūdinama kaip seimas; liublino seimas šiame gabale minimas kaip seimas, kuris paskyrė Varšuvą seimų vieta. (t-001)
+seimas; liublino seimas šiame gabale minimas kaip seimas, kuris paskyrė Varšuvą seimų vieta. (t-001)
 
 ## Sudėtis ir vaidmuo
 - Šaltinyje „Liublino seimas“ apibūdinama kaip seimas; liublino seimas šiame gabale minimas kaip seimas, kuris paskyrė Varšuvą seimų vieta. (t-001)
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Liublino seimas“ apibūdinama kaip seimas; liublino seimas šiame gabale minimas kaip seimas, kuris paskyrė Varšuvą seimų vieta."
+  teiginys: "seimas; liublino seimas šiame gabale minimas kaip seimas, kuris paskyrė Varšuvą seimų vieta."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

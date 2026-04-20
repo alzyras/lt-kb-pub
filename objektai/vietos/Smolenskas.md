@@ -23,7 +23,7 @@ patikimumas: "aukstas"
 # Smolenskas
 
 ## Santrauka
-Šaltinyje vieta „Smolenskas“ siejama su šiuo kontekstu: Minimas kaip trumpam lietuvių valdytas rytinis miestas. (t-001)
+Minimas kaip trumpam lietuvių valdytas rytinis miestas. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Smolenskas
@@ -39,7 +39,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Smolenskas“ siejama su šiuo kontekstu: Minimas kaip trumpam lietuvių valdytas rytinis miestas."
+  teiginys: "Minimas kaip trumpam lietuvių valdytas rytinis miestas."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -25,7 +25,7 @@ patikimumas: "aukstas"
 # Harbinas
 
 ## Santrauka
-Šaltinyje vieta „Harbinas“ siejama su šiuo kontekstu: Minimas kaip Mandžuko valstybės sostinė. (t-001)
+Minimas kaip Mandžuko valstybės sostinė. (t-001)
 
 ## Pavadinimai šaltiniuose
 - Pagrindinė forma: Harbinas
@@ -42,7 +42,7 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Harbinas“ siejama su šiuo kontekstu: Minimas kaip Mandžuko valstybės sostinė."
+  teiginys: "Minimas kaip Mandžuko valstybės sostinė."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

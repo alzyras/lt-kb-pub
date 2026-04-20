@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Optacija
 
 ## Santrauka
-Šaltinyje „Optacija“ vartojama taip: Teisė pasirinkti valstybės ar pilietybės priklausomybę po teritorinių pokyčių. (t-001)
+Teisė pasirinkti valstybės ar pilietybės priklausomybę po teritorinių pokyčių. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Optacija
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: tarptautinė teisė, teritorini
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Optacija“ vartojama taip: Teisė pasirinkti valstybės ar pilietybės priklausomybę po teritorinių pokyčių."
+  teiginys: "Teisė pasirinkti valstybės ar pilietybės priklausomybę po teritorinių pokyčių."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -27,7 +27,7 @@ patikimumas: "vidutinis"
 # K. Alšauskas
 
 ## Santrauka
-Šaltinyje K. Alšauskas apibūdinamas taip: Minimas kaip „Saulės“ draugijos atstovas, rinkęs aukas Amerikoje.
+Minimas kaip „Saulės“ draugijos atstovas, rinkęs aukas Amerikoje.
 
 ## Variantai
 - K. Alšausko
@@ -44,7 +44,7 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje K. Alšauskas apibūdinamas taip: Minimas kaip „Saulės“ draugijos atstovas, rinkęs aukas Amerikoje."
+  teiginys: "Minimas kaip „Saulės“ draugijos atstovas, rinkęs aukas Amerikoje."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

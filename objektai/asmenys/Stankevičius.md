@@ -24,14 +24,14 @@ patikimumas: "aukstas"
 # Stankevičius
 
 ## Santrauka
-Šaltinyje Stankevičius apibūdinamas taip: Minimas kaip Vykdomojo Komiteto biuro narys ir vėliau Lietuvos Tarybos narys.
+Minimas kaip Vykdomojo Komiteto biuro narys ir vėliau Lietuvos Tarybos narys.
 
 ## Variantai
 - kun. Stankevičius
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Stankevičius apibūdinamas taip: Minimas kaip Vykdomojo Komiteto biuro narys ir vėliau Lietuvos Tarybos narys."
+  teiginys: "Minimas kaip Vykdomojo Komiteto biuro narys ir vėliau Lietuvos Tarybos narys."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

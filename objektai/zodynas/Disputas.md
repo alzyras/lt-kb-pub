@@ -28,7 +28,7 @@ patikimumas: "aukstas"
 # Disputas
 
 ## Santrauka
-Šaltinyje „Disputas“ vartojama taip: Teologinis ginčas, poleminė diskusija. (t-001)
+Teologinis ginčas, poleminė diskusija. (t-001)
 
 ## Žodis ir formos
 - Kanoninis pavadinimas: Disputas
@@ -51,7 +51,7 @@ Terminas šaltinyje vartojamas šiame kontekste: teologija, polemika, jėzuitų 
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Disputas“ vartojama taip: Teologinis ginčas, poleminė diskusija."
+  teiginys: "Teologinis ginčas, poleminė diskusija."
   pagrindžia:
     - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
