@@ -19,6 +19,11 @@ export interface D3Config {
   showTags: boolean
   focusOnHover?: boolean
   enableRadial?: boolean
+  labelMinZoom?: number
+  labelMaxVisible?: number
+  labelDegreeThreshold?: number
+  labelScaleMin?: number
+  labelScaleMax?: number
 }
 
 interface GraphOptions {
@@ -41,6 +46,11 @@ const defaultOptions: GraphOptions = {
     removeTags: [],
     focusOnHover: false,
     enableRadial: false,
+    labelMinZoom: 0.65,
+    labelMaxVisible: 18,
+    labelDegreeThreshold: 1,
+    labelScaleMin: 0.15,
+    labelScaleMax: 4,
   },
   globalGraph: {
     drag: true,
@@ -56,6 +66,11 @@ const defaultOptions: GraphOptions = {
     removeTags: [],
     focusOnHover: true,
     enableRadial: true,
+    labelMinZoom: 1.15,
+    labelMaxVisible: 90,
+    labelDegreeThreshold: 3,
+    labelScaleMin: 0.12,
+    labelScaleMax: 4,
   },
 }
 

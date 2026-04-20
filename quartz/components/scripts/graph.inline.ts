@@ -87,6 +87,11 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     showTags,
     focusOnHover,
     enableRadial,
+    labelMinZoom = 0.9,
+    labelMaxVisible = 60,
+    labelDegreeThreshold = 2,
+    labelScaleMin = 0.12,
+    labelScaleMax = 4,
   } = JSON.parse(graph.dataset["cfg"]!) as D3Config
 
   const data: Map<SimpleSlug, ContentDetails> = new Map(
@@ -212,6 +217,24 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     return 2 + Math.sqrt(numLinks)
   }
 
+  function clamp(value: number, min: number, max: number) {
+    return Math.min(Math.max(value, min), max)
+  }
+
+  const nodeDegree = new Map<SimpleSlug, number>()
+  for (const link of graphData.links) {
+    nodeDegree.set(link.source.id, (nodeDegree.get(link.source.id) ?? 0) + 1)
+    nodeDegree.set(link.target.id, (nodeDegree.get(link.target.id) ?? 0) + 1)
+  }
+
+  const nodeRank = new Map<SimpleSlug, number>()
+  ;[...graphData.nodes]
+    .sort((a, b) => {
+      const degreeDiff = (nodeDegree.get(b.id) ?? 0) - (nodeDegree.get(a.id) ?? 0)
+      return degreeDiff === 0 ? a.text.localeCompare(b.text) : degreeDiff
+    })
+    .forEach((node, index) => nodeRank.set(node.id, index))
+
   let hoveredNodeId: string | null = null
   let hoveredNeighbours: Set<string> = new Set()
   const linkRenderData: LinkRenderData[] = []
@@ -279,17 +302,18 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     tweens.get("label")?.stop()
     const tweenGroup = new TweenGroup()
 
-    const defaultScale = 1 / scale
-    const activeScale = defaultScale * 1.1
     for (const n of nodeRenderData) {
       const nodeId = n.simulationData.id
+      const isActive = hoveredNodeId === nodeId
+      const targetScale = labelScale(isActive)
+      const targetAlpha = labelAlpha(n)
 
-      if (hoveredNodeId === nodeId) {
+      if (isActive) {
         tweenGroup.add(
           new Tweened<Text>(n.label).to(
             {
-              alpha: 1,
-              scale: { x: activeScale, y: activeScale },
+              alpha: targetAlpha,
+              scale: { x: targetScale, y: targetScale },
             },
             100,
           ),
@@ -298,8 +322,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         tweenGroup.add(
           new Tweened<Text>(n.label).to(
             {
-              alpha: n.label.alpha,
-              scale: { x: defaultScale, y: defaultScale },
+              alpha: targetAlpha,
+              scale: { x: targetScale, y: targetScale },
             },
             100,
           ),
@@ -314,6 +338,52 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         tweenGroup.getAll().forEach((tw) => tw.stop())
       },
     })
+  }
+
+  function labelScale(active = false) {
+    const baseLabelScale = 1 / scale
+    const activeBoost = active ? 1.12 : 1
+    return clamp((baseLabelScale * activeBoost) / currentTransform.k, labelScaleMin, labelScaleMax)
+  }
+
+  function labelAlpha(node: NodeRenderData) {
+    if (hoveredNodeId !== null) {
+      return node.active ? 1 : 0.03
+    }
+
+    if (node.simulationData.id === slug) {
+      return 1
+    }
+
+    const zoomLevel = currentTransform.k * opacityScale
+    const degree = nodeDegree.get(node.simulationData.id) ?? 0
+    const rank = nodeRank.get(node.simulationData.id) ?? Number.POSITIVE_INFINITY
+    const graphIsDense = graphData.nodes.length > 100
+    const importantFloor = graphIsDense ? 10 : 6
+    const zoomProgress = clamp((zoomLevel - labelMinZoom) / (4 - labelMinZoom), 0, 1)
+    const visibleLimit = Math.min(
+      graphData.nodes.length,
+      Math.round(importantFloor + labelMaxVisible * zoomProgress),
+    )
+
+    if (degree >= labelDegreeThreshold && rank < visibleLimit) {
+      return 0.82
+    }
+
+    if (zoomProgress > 0.45 && rank < visibleLimit * 1.5) {
+      return 0.45
+    }
+
+    return 0
+  }
+
+  function syncLabelsToZoom() {
+    for (const node of nodeRenderData) {
+      const isActive = hoveredNodeId === node.simulationData.id
+      const targetScale = labelScale(isActive)
+      node.label.scale.set(targetScale, targetScale)
+      node.label.alpha = labelAlpha(node)
+    }
   }
 
   function renderNodes() {
@@ -450,6 +520,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   }
 
   let currentTransform = zoomIdentity
+  syncLabelsToZoom()
+
   if (enableDrag) {
     select<HTMLCanvasElement, NodeData | undefined>(app.canvas).call(
       drag<HTMLCanvasElement, NodeData | undefined>()
@@ -508,17 +580,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
           currentTransform = transform
           stage.scale.set(transform.k, transform.k)
           stage.position.set(transform.x, transform.y)
-
-          // zoom adjusts opacity of labels too
-          const scale = transform.k * opacityScale
-          let scaleOpacity = Math.max((scale - 1) / 3.75, 0)
-          const activeNodes = nodeRenderData.filter((n) => n.active).flatMap((n) => n.label)
-
-          for (const label of labelsContainer.children) {
-            if (!activeNodes.includes(label)) {
-              label.alpha = scaleOpacity
-            }
-          }
+          syncLabelsToZoom()
         }),
     )
   }
