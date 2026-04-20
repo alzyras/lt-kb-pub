@@ -24,7 +24,8 @@ date_start: ""
 date_end: ""
 vaidmenys: []
 dalyviai: []
-susije_irasai: []
+susije_irasai:
+  - "[[Kryžiuočių ordinas]]"
 patikimumas: "aukstas"
 ---
 # Kryžiuočiai
@@ -80,3 +81,4 @@ Terminas šaltinyje vartojamas šiame kontekste: ordino istorija, viduramžių k
 
 ## Ryšiai
 - Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- Grupė: [[Kryžiuočių ordinas]]

@@ -24,6 +24,8 @@ export interface D3Config {
   labelDegreeThreshold?: number
   labelScaleMin?: number
   labelScaleMax?: number
+  labelShowAllZoom?: number
+  labelMaxHoverVisible?: number
 }
 
 interface GraphOptions {
@@ -51,6 +53,8 @@ const defaultOptions: GraphOptions = {
     labelDegreeThreshold: 1,
     labelScaleMin: 0.15,
     labelScaleMax: 4,
+    labelShowAllZoom: 2,
+    labelMaxHoverVisible: 18,
   },
   globalGraph: {
     drag: true,
@@ -71,6 +75,8 @@ const defaultOptions: GraphOptions = {
     labelDegreeThreshold: 3,
     labelScaleMin: 0.12,
     labelScaleMax: 4,
+    labelShowAllZoom: 1.85,
+    labelMaxHoverVisible: 28,
   },
 }
 
