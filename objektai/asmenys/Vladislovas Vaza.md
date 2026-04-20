@@ -43,15 +43,15 @@ patikimumas: "aukstas"
 - date_end: 1648
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Vladislovas Vaza apibūdinamas taip: Paminėtas kaip valdovo laikotarpis ir asmens tema."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Paminėtas kaip valdovo laikotarpis ir asmens tema.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

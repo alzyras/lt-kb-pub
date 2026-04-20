@@ -43,15 +43,15 @@ patikimumas: "aukstas"
 - Sala minima kaip vieta, kur įkurtas Visbio miestas. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Gotlandas“ siejama su šiuo kontekstu: Sala minima kaip vieta, kur įkurtas Visbio miestas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Sala minima kaip vieta, kur įkurtas Visbio miestas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

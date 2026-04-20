@@ -41,15 +41,15 @@ patikimumas: "aukstas"
 - date_end: 1855
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Mikalojus I apibūdinamas taip: Minimas kaip caras, žengdamas į sostą pabrėžęs valstiečių pareigų tęsimą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip caras, žengdamas į sostą pabrėžęs valstiečių pareigų tęsimą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

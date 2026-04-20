@@ -44,16 +44,16 @@ Sudarytos komisijos tarpininkaujant Simpsonui išvedė Lietuvos ir Latvijos sien
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Sudarytos komisijos tarpininkaujant Simpsonui išvedė Lietuvos ir Latvijos sieną, priskirdamos abi puses tenkinančias teritorijas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Sudarytos komisijos tarpininkaujant Simpsonui išvedė Lietuvos ir Latvijos sieną, priskirdamos abi puses tenkinančias teritorijas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

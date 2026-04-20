@@ -32,18 +32,18 @@ patikimumas: "vidutinis"
 - Minimas tarp švietimo epochos autorių ir kaip enciklopedijos organizatorius. (t-001)
 
 ## Kontekstas
-- Tekstas tiesiogiai įvardija jį tarp autorių ir kaip enciklopedijos organizatorių. (q-001)
+- Tekstas tiesiogiai įvardija jį tarp autorių ir kaip enciklopedijos organizatorių. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Diderot autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas tarp švietimo epochos autorių ir kaip enciklopedijos organizatorius."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas tarp švietimo epochos autorių ir kaip enciklopedijos organizatorius.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

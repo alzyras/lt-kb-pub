@@ -63,21 +63,21 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: raštvedyba, kronikos, Lietuvos raštijos istorija, teismų sprendimų kalba. (t-001, t-002)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Gudų kanceliarinė kalba“ vartojama taip: Lietuvos raštų ir vidaus reikalų raštvedybos kalba, dar vadinama gudų kalba arba gudų rašto kalba."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "1697 m. _coaequatio iurium_ įstatyme buvo nurodyta Lietuvos teismų sprendimus rašyti nebe senąja kanceliarine gudų kalba, bet lenkų kalba."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Terminas vartojamas Lietuvos kronikų ir vidaus reikalų raštų kalbai įvardyti.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -98,7 +98,7 @@ Terminas šaltinyje vartojamas šiame kontekste: raštvedyba, kronikos, Lietuvos
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia termino vartoseną arba aiškinimą šaltinyje."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: 1697 m. nurodyta Lietuvos teismų sprendimus rašyti nebe senąja kanceliarine gudų kalba, bet lenkų kalba.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -47,21 +47,21 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Lietuviškas atsišaukimas“ siejamas su šiuo kontekstu: Šaltinyje tai pateikiama ir kaip sukilimo metu skleidžiamų atsišaukimų grupė, ir kaip atskiros iliustracijos antraštė."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Lietuviškas atsišaukimas“ siejamas su šiuo kontekstu: tekste šie atsišaukimai siejami su sukilimo metu skelbtais pažadais valstiečiams, o pats pavadinimas vartojamas ir kaip iliustracijos antraštė."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Šaltinyje tai pateikiama ir kaip sukilimo metu skleidžiamų atsišaukimų grupė, ir kaip atskiros iliustracijos antraštė.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -74,7 +74,7 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: tekste šie atsišaukimai siejami su sukilimo metu skelbtais pažadais valstiečiams, o pats pavadinimas vartojamas ir kaip iliustracijos antraštė.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

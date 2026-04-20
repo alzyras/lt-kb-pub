@@ -47,15 +47,15 @@ patikimumas: "aukstas"
 - date_end: 1444
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Vladislovas (Varnietis) apibūdinamas taip: Jogailos sūnus, Lenkų ir Vengrų karalius, žuvęs prie Varnos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Jogailos sūnus, Lenkų ir Vengrų karalius, žuvęs prie Varnos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -50,15 +50,15 @@ patikimumas: "vidutinis"
 Terminas šaltinyje vartojamas šiame kontekste: religinė pedagogika, bažnytinė leksika. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Ministrantūra“ vartojama taip: Bažnytinio patarnavimo arba ministrantų pareigų mokymas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Pradžios mokyklose minimas bažnytinis mokomasis dalykas greta katekizmo ir skaičiavimo.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

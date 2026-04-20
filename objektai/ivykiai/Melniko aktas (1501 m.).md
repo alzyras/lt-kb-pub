@@ -38,16 +38,16 @@ Petrakavoje ir Melnike patvirtintas naujas susitarimas turėjo sukurti tikrą va
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Petrakavoje ir Melnike patvirtintas naujas susitarimas turėjo sukurti tikrą valstybių uniją ir todėl vėliau vadintas Melniko aktu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Petrakavoje ir Melnike patvirtintas naujas susitarimas turėjo sukurti tikrą valstybių uniją ir todėl vėliau vadintas Melniko aktu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

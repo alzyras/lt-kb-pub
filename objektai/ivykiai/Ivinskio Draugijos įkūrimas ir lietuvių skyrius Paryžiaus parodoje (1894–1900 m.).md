@@ -37,16 +37,16 @@ Trijų lietuvių klierikų pastangomis įkurta Ivinskio Draugija rūpinosi lietu
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Trijų lietuvių klierikų pastangomis įkurta Ivinskio Draugija rūpinosi lietuvių skyriumi 1900 m. Paryžiaus pasaulinėje parodoje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Trijų lietuvių klierikų pastangomis įkurta Ivinskio Draugija rūpinosi lietuvių skyriumi 1900 m. Paryžiaus pasaulinėje parodoje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

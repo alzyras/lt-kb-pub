@@ -49,15 +49,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Mažosios Lietuvos lietuviai“ apibūdinama kaip regioninė etninė grupė; aiškiai įvardijama Mažosios Lietuvos lietuvių bendruomenė, jos nutautėjimas, susipratę inteligentai ir jų pastangos ginti kraštą bei lietuvių reikalus. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Mažosios Lietuvos lietuviai“ apibūdinama kaip regioninė etninė grupė; aiškiai įvardijama Mažosios Lietuvos lietuvių bendruomenė, jos nutautėjimas, susipratę inteligentai ir jų pastangos ginti kraštą bei lietuvių reikalus."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Aiškiai įvardijama Mažosios Lietuvos lietuvių bendruomenė, jos nutautėjimas, susipratę inteligentai ir jų pastangos ginti kraštą bei lietuvių reikalus.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -45,16 +45,16 @@ Mindaugas, sustiprėjęs po krikšto ir susitaikęs su ordinu, siekė atgauti Da
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Mindaugas, sustiprėjęs po krikšto ir susitaikęs su ordinu, siekė atgauti Danieliaus užgrobtas žemes; Danielius buvo sumuštas ir priverstas taikintis."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Mindaugas, sustiprėjęs po krikšto ir susitaikęs su ordinu, siekė atgauti Danieliaus užgrobtas žemes; Danielius buvo sumuštas ir priverstas taikintis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

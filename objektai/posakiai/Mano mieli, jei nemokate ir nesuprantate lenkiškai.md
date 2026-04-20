@@ -52,15 +52,15 @@ Vilniaus vyskupijos valdytojas atmeta Kalvių parapijos delegacijos prašymą d�
 Grasinanti replika, kuria atsisakoma lietuviškų pamaldų ir spaudžiama lenkiškai mokėti tikintiesiems. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje užfiksuota formuluotė „Mano mieli, jei nemokate ir nesuprantate lenkiškai — nedidelis daiktas“; kontekstas: Vilniaus vyskupijos valdytojas atmeta Kalvių parapijos delegacijos prašymą dėl lietuvio kunigo ir lietuviškų pamaldų."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

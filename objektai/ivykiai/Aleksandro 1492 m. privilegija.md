@@ -37,16 +37,16 @@ Aleksandras privilegijoje apribojo savo valdovo savivalę ir sustiprino Ponų ta
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Aleksandras privilegijoje apribojo savo valdovo savivalę ir sustiprino Ponų tarybos vaidmenį valstybės valdyme."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Aleksandras privilegijoje apribojo savo valdovo savivalę ir sustiprino Ponų tarybos vaidmenį valstybės valdyme.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

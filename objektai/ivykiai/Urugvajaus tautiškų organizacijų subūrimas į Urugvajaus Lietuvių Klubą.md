@@ -28,16 +28,16 @@ Montevidėjuje kun. T. Radžiaus rūpesčiu tautiškos organizacijos buvo sujung
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Montevidėjuje kun. T. Radžiaus rūpesčiu tautiškos organizacijos buvo sujungtos į vieną centrą, pavadintą Urugvajaus Lietuvių Klubu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Montevidėjuje kun. T. Radžiaus rūpesčiu tautiškos organizacijos buvo sujungtos į vieną centrą, pavadintą Urugvajaus Lietuvių Klubu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

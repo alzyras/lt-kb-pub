@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: luomų istorija, valstybės santvarka. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Šlėkta“ vartojama taip: Lenkų bajorija, luomas su politinėmis teisėmis."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Lenkijos bajorija įvardijama lenkišku terminu, o lietuvių bajorijai ji tampa sektinu pavyzdžiu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

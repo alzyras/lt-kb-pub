@@ -33,18 +33,18 @@ patikimumas: "vidutinis"
 - eilutė „Iš praeities Tavo sūnūs te stiprybę semia“.. (t-001)
 
 ## Kontekstas
-- tekste aiškiai pasakyta, kad jis įrašė šią eilutę į himną. (q-001)
+- tekste aiškiai pasakyta, kad jis įrašė šią eilutę į himną. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Kudirka minimas kaip autorius, siejamas su: eilutė „Iš praeities Tavo sūnūs te stiprybę semia“.."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje Kudirka minimas kaip autorius, siejamas su: eilutė „Iš praeities Tavo sūnūs te stiprybę semia“..
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

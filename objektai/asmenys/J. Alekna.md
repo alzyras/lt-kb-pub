@@ -30,15 +30,15 @@ patikimumas: "aukstas"
 - J. Alekną
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje J. Alekna apibūdinamas taip: Minimas tarp naujų Lietuvos Tarybos narių, kooptuotų po kairiųjų pasitraukimo."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas tarp naujų Lietuvos Tarybos narių, kooptuotų po kairiųjų pasitraukimo.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

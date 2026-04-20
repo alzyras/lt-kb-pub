@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: kaimo savivalda. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Šaltyšis“ vartojama taip: kaimo renkamas savivaldybės pareigūnas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: pirmojo savivaldybės laipsnio kaimai rinkosi savo pareigūnus.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

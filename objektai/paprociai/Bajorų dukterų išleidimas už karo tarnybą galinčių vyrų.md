@@ -40,15 +40,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: kunigaikštis rūpindavosi išleisti jas už tokių vyrų, kurie galėtų atlikti karo tarnybą (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Bajorų dukterų išleidimas už karo tarnybą galinčių vyrų“ siejama su formuluote: kunigaikštis rūpindavosi išleisti jas už tokių vyrų, kurie galėtų atlikti karo tarnybą. Šaltinio kontekste nurodoma: kas atlieka: kunigaikštis; kada atliekama: kai likdavo vienos tik dukterys."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Kunigaikštis ne tik kontroliuoja žemės perleidimą, bet ir pasirūpina, kad paveldėtojos būtų išleistos už vyrų, galinčių atlikti karo tarnybą. Tai rodo santuokų tvarkymą pagal feodalinę karo prievolės logiką.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

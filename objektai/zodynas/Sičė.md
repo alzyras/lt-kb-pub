@@ -53,15 +53,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: kazokų istorija, karo organizacija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Sičė“ vartojama taip: Kazokų centrinė stovykla arba įtvirtinta gyvenvietė."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Vartojama kaip kazokų vyriausioji stovykla Padnieprėje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

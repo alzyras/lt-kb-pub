@@ -50,28 +50,28 @@ Lucke sušauktas valdovų suvažiavimas rytų Europos politikos klausimams apsva
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Lucke sušauktas valdovų suvažiavimas rytų Europos politikos klausimams apsvarstyti, kuriame dalyvavo keli valdovai ir atstovai iš įvairių kraštų."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Po Lucko suvažiavimo lenkų ponai privertė Jogailą atšaukti sutikimą dėl Vytauto karūnacijos, o imperatoriui ir Vytautui tai buvo pranešta laišku."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-003
+- t-003
   teiginys: "Paaštrėjus ginčui dėl karūnacijos, Vytautas susitiko su Jogaila, tačiau nesulaukė ponų tarybos sprendimo ir mirė Trakuose."
   pagrindžia:
-    - q-003
+    - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Lucke sušauktas valdovų suvažiavimas rytų Europos politikos klausimams apsvarstyti, kuriame dalyvavo keli valdovai ir atstovai iš įvairių kraštų.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -108,7 +108,7 @@ Lucke sušauktas valdovų suvažiavimas rytų Europos politikos klausimams apsva
   pagrindžia:
     - t-001
 
-- id: q-002
+- c-002
   santrauka: Po Lucko suvažiavimo lenkų ponai privertė Jogailą atšaukti sutikimą dėl Vytauto karūnacijos, o imperatoriui ir Vytautui tai buvo pranešta laišku.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -144,7 +144,7 @@ Lucke sušauktas valdovų suvažiavimas rytų Europos politikos klausimams apsva
   pagrindžia:
     - t-002
 
-- id: q-003
+- c-003
   santrauka: Paaštrėjus ginčui dėl karūnacijos, Vytautas susitiko su Jogaila, tačiau nesulaukė ponų tarybos sprendimo ir mirė Trakuose.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

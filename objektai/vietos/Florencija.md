@@ -41,15 +41,15 @@ patikimumas: "aukstas"
 - Minima kaip vieta, kur galutinai susitarta dėl bažnytinės unijos. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Florencija“ siejama su šiuo kontekstu: Minima kaip vieta, kur galutinai susitarta dėl bažnytinės unijos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minima kaip vieta, kur galutinai susitarta dėl bažnytinės unijos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

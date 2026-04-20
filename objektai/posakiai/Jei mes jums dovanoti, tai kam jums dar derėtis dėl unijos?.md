@@ -48,15 +48,15 @@ Liublino seimo derybose Jonas Jeronimas Katkevičius ironiškai atsako į lenkų
 Trumpa retorinė replika, kuria ginama Lietuvos teisė derėtis dėl unijos iš naujo. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje užfiksuota formuluotė „Jei mes jums dovanoti, tai kam jums dar derėtis dėl unijos?“; kontekstas: Liublino seimo derybose Jonas Jeronimas Katkevičius ironiškai atsako į lenkų kaltinimą, esą Lietuva jau buvusi „padovanota“ Lenkijos karūnai."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

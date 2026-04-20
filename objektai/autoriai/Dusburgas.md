@@ -34,18 +34,18 @@ patikimumas: "vidutinis"
 - Autorystės vaidmuo šaltinyje įvardytas kaip kronikininkas. (t-001)
 
 ## Kontekstas
-- Tekste tiesiogiai įvardytas kaip Kryžiuočių ordino kronikininkas; jam priskiriamas lietuvių apibūdinimas. (q-001)
+- Tekste tiesiogiai įvardytas kaip Kryžiuočių ordino kronikininkas; jam priskiriamas lietuvių apibūdinimas. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Dusburgas minimas kaip kronikininkas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje Dusburgas minimas kaip kronikininkas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

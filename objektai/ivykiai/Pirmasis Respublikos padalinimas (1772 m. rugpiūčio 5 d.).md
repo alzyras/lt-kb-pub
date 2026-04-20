@@ -37,16 +37,16 @@ Rusijai, Prūsijai ir Austrijai susitarus dėl dalies Respublikos žemių, 1772 
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Rusijai, Prūsijai ir Austrijai susitarus dėl dalies Respublikos žemių, 1772 m. rugpiūčio 5 d. buvo pasirašytas trijų valstybių traktatas ir pradėtas pirmasis padalinimas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Rusijai, Prūsijai ir Austrijai susitarus dėl dalies Respublikos žemių, 1772 m. rugpiūčio 5 d. buvo pasirašytas trijų valstybių traktatas ir pradėtas pirmasis padalinimas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

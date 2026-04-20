@@ -46,15 +46,15 @@ patikimumas: "aukstas"
 - Minima kaip lietuvių gyvenama erdvė, apimanti Angliją ir Škotiją. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Didžioji Britanija“ siejama su šiuo kontekstu: Minima kaip lietuvių gyvenama erdvė, apimanti Angliją ir Škotiją."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minima kaip lietuvių gyvenama erdvė, apimanti Angliją ir Škotiją.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

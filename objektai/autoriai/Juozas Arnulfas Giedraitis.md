@@ -33,18 +33,18 @@ patikimumas: "vidutinis"
 - lietuviškasis Šv. Rašto vertimas.. (t-001)
 
 ## Kontekstas
-- Žemaičių tautiškojo ir kultūriškojo judėjimo centras siejamas su jo rezidencija Alsėdžiuose. (q-001)
+- Žemaičių tautiškojo ir kultūriškojo judėjimo centras siejamas su jo rezidencija Alsėdžiuose. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Juozas Arnulfas Giedraitis minimas kaip vertėjas, švietimo rėmėjas, siejamas su: lietuviškasis Šv. Rašto vertimas.."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje Juozas Arnulfas Giedraitis minimas kaip vertėjas, švietimo rėmėjas, siejamas su: lietuviškasis Šv. Rašto vertimas..
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

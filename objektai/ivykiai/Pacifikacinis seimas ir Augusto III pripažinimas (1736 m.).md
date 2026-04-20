@@ -42,16 +42,16 @@ Sušauktas pacifikacinis seimas galutinai pripažino Augustą III karalium ir li
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Sušauktas pacifikacinis seimas galutinai pripažino Augustą III karalium ir likvidavo ginčus dėl jo išrinkimo teisėtumo."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Sušauktas pacifikacinis seimas galutinai pripažino Augustą III karalium ir likvidavo ginčus dėl jo išrinkimo teisėtumo.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

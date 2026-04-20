@@ -47,15 +47,15 @@ patikimumas: "vidutinis"
 Šaltinyje „Vežimai“ vežimai minimi kaip daiktas, kurį bajorija turėjo parūpinti pravažiuojantiems kunigaikščio pasiuntiniams.
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Vežimai“ vežimai minimi kaip daiktas, kurį bajorija turėjo parūpinti pravažiuojantiems kunigaikščio pasiuntiniams."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: vežimai minimi kaip daiktas, kurį bajorija turėjo parūpinti pravažiuojantiems kunigaikščio pasiuntiniams.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

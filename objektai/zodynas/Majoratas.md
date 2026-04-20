@@ -56,15 +56,15 @@ patikimumas: "vidutinis"
 Terminas šaltinyje vartojamas šiame kontekste: žemės teisė, dvarų ir žemės reformos istorija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Majoratas“ vartojama taip: Paveldėjimo ir nuosavybės tvarka susaistyta dvarinė valda ar jos žemės."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Žodis vartojamas apie rusų valdžios nusavintas ir vėliau reformai perimtas žemes bei dvarus.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

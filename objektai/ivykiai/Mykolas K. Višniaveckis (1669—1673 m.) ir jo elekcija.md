@@ -38,17 +38,17 @@ Po ilgų ginčų elekcijoje buvo atmesti didikų kandidatai, o bajorija ir Pacų
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Po ilgų ginčų elekcijoje buvo atmesti didikų kandidatai, o bajorija ir Pacų vadovaujama Lietuva pasirinko Mykolą Kaributą Višniaveckį."
   pagrindžia:
-    - q-001
-    - q-002
+    - c-001
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Citata pagrindžia įvykio „Mykolas K. Višniaveckis (1669—1673 m.) ir jo elekcija“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -66,7 +66,7 @@ Po ilgų ginčų elekcijoje buvo atmesti didikų kandidatai, o bajorija ir Pacų
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia teiginį šaltinio tekste."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Citata pagrindžia įvykio „Mykolas K. Višniaveckis (1669—1673 m.) ir jo elekcija“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

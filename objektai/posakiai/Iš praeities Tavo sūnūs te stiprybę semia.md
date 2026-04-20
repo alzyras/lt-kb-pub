@@ -43,15 +43,15 @@ patikimumas: "aukstas"
 Tautiškai skambanti, plačiai atpažįstama formulė apie stiprybės semimąsi iš praeities. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje užfiksuota formuluotė „Iš praeities Tavo sūnūs te stiprybę semia“; kontekstas: Čia pateikiama kaip Kudirkos įrašyta eilutė į himną, siejama su tautos praeities stiprybe."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -51,16 +51,16 @@ Pasirašyta Klaipėdos konvencija perdavė Lietuvai suverenitetą krašte, o vė
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Pasirašyta Klaipėdos konvencija perdavė Lietuvai suverenitetą krašte, o vėliau ją ratifikavo Lietuvos seimas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Pasirašyta Klaipėdos konvencija perdavė Lietuvai suverenitetą krašte, o vėliau ją ratifikavo Lietuvos seimas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

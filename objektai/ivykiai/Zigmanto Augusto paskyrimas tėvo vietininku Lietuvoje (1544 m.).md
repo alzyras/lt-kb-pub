@@ -42,16 +42,16 @@ Lietuvos ponai norėjo turėti valdovą Vilniuje ir apriboti lenkų kišimąsi; 
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Lietuvos ponai norėjo turėti valdovą Vilniuje ir apriboti lenkų kišimąsi; todėl 1544 m. Zigmantas Augustas apsigyveno Vilniuje kaip didysis Lietuvos kunigaikštis ir gavo visą valdžią Lietuvoje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Lietuvos ponai norėjo turėti valdovą Vilniuje ir apriboti lenkų kišimąsi; todėl 1544 m. Zigmantas Augustas apsigyveno Vilniuje kaip didysis Lietuvos kunigaikštis ir gavo visą valdžią Lietuvoje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

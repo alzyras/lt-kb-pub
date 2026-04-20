@@ -52,15 +52,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: socialinė istorija, išeivijos organizacijų leksika. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Savišalpos draugijos“ vartojama taip: Lietuvių išeivių savišalpos ir paramos draugijos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Amerikos lietuvių savitarpio pagalbos draugijos, steigamos ten, kur gyvendavo didesnės lietuvių grupės.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

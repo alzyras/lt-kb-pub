@@ -26,15 +26,15 @@ patikimumas: "vidutinis"
 Šaltinyje Fotijas apibūdinamas taip: Graikas metropolitas, apsigyvenęs Maskvoje ir prieštaravęs Vytauto planams.
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Fotijas apibūdinamas taip: Graikas metropolitas, apsigyvenęs Maskvoje ir prieštaravęs Vytauto planams."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Graikas metropolitas, apsigyvenęs Maskvoje ir prieštaravęs Vytauto planams.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

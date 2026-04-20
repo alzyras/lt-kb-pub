@@ -26,15 +26,15 @@ patikimumas: "vidutinis"
 Šaltinyje Būga apibūdinamas taip: Paminėtas kaip vienas iš kalbininkų, vartojusių aisčių terminą.
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Būga apibūdinamas taip: Paminėtas kaip vienas iš kalbininkų, vartojusių aisčių terminą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Paminėtas kaip vienas iš kalbininkų, vartojusių aisčių terminą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

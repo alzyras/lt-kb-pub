@@ -42,15 +42,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Lietuvos dvasininkai“ apibūdinama kaip dvasininkija; lietuvos dvasininkai minimi kaip vietinė dvasininkija, kuri, nors politiniai santykiai su Lenkija buvo blogi, vis tiek nesulietuvėjo. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Lietuvos dvasininkai“ apibūdinama kaip dvasininkija; lietuvos dvasininkai minimi kaip vietinė dvasininkija, kuri, nors politiniai santykiai su Lenkija buvo blogi, vis tiek nesulietuvėjo."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Lietuvos dvasininkai minimi kaip vietinė dvasininkija, kuri, nors politiniai santykiai su Lenkija buvo blogi, vis tiek nesulietuvėjo.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

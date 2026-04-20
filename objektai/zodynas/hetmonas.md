@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: karo istorija, kariuomenės vadovybė. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Hetmonas“ vartojama taip: Kariuomenės vadas, vyriausias karinis pareigūnas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Terminas vartojamas karo vadui, kuris ties Ula sumušė caro kariuomenę, įvardyti.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

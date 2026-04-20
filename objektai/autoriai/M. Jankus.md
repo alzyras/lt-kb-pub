@@ -34,18 +34,18 @@ patikimumas: "vidutinis"
 - Minimas kaip vienas iš „Aušros“ tekstų rašytojų. (t-001)
 
 ## Kontekstas
-- Tekstas tiesiogiai mini pavardę su inicialu ir jo rašymo vaidmenį. (q-001)
+- Tekstas tiesiogiai mini pavardę su inicialu ir jo rašymo vaidmenį. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje M. Jankus autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip vienas iš „Aušros“ tekstų rašytojų."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip vienas iš „Aušros“ tekstų rašytojų.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

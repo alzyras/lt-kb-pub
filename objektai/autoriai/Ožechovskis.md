@@ -33,18 +33,18 @@ patikimumas: "vidutinis"
 - Autorystės vaidmuo šaltinyje įvardytas kaip publicistas. (t-001)
 
 ## Kontekstas
-- Tekstas jį tiesiogiai įvardija kaip vieną žymiausių lenkų publicistų, aptariant ginčus dėl unijos ir publicistiškus raštus. (q-001)
+- Tekstas jį tiesiogiai įvardija kaip vieną žymiausių lenkų publicistų, aptariant ginčus dėl unijos ir publicistiškus raštus. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Ožechovskis minimas kaip publicistas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje Ožechovskis minimas kaip publicistas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -37,16 +37,16 @@ Varmijos vyskupas Hozijas atkvietė jėzuitus į Lenkiją, o jie įsikūrė Brau
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Varmijos vyskupas Hozijas atkvietė jėzuitus į Lenkiją, o jie įsikūrė Braunsberge ir paplito po kraštą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Varmijos vyskupas Hozijas atkvietė jėzuitus į Lenkiją, o jie įsikūrė Braunsberge ir paplito po kraštą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

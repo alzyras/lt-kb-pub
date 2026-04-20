@@ -35,25 +35,25 @@ patikimumas: "vidutinis"
 - Bibliografijoje nurodytas kaip veikalo „Starożytna Litwa“ autorius. (t-002)
 
 ## Kontekstas
-- Bibliografinė eilutė tiesiogiai įvardija Brucknerį kaip veikalo autorių. (q-001)
-- Tas pats šaltinis kitame bibliografijos punkte pateikia rašybos variantą A. Brückner ir veikalą „Starożytna Litwa“. (q-002)
+- Bibliografinė eilutė tiesiogiai įvardija Brucknerį kaip veikalo autorių. (c-001)
+- Tas pats šaltinis kitame bibliografijos punkte pateikia rašybos variantą A. Brückner ir veikalą „Starożytna Litwa“. (c-002)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje A. Bruckner autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip lenkų kultūros istorijos autorius."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje A. Brückner nurodytas kaip veikalo „Starożytna Litwa“ autorius."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Bibliografijoje nurodytas kaip lenkų kultūros istorijos autorius.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -68,7 +68,7 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Bibliografinė eilutė tiesiogiai įvardija Brucknerį kaip veikalo autorių."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Bibliografijoje pateikiamas A. Brücknerio veikalas apie senąją Lietuvą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -46,16 +46,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Bažnytinė Brastos unija“ siejamas su šiuo kontekstu: Pociejus ir Terleckis Romoje gavo popiežiaus pritarimą, o Brastoje buvo paskelbta bažnytinė unija."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Pociejus ir Terleckis Romoje gavo popiežiaus pritarimą, o Brastoje buvo paskelbta bažnytinė unija.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

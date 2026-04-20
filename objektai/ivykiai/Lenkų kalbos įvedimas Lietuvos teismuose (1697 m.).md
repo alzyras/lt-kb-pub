@@ -37,17 +37,17 @@ Tame pačiame 1697 m. įstatyme buvo pakeista Lietuvos teismų raštvedybos kalb
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Tame pačiame 1697 m. įstatyme buvo pakeista Lietuvos teismų raštvedybos kalba: vietoje senosios kanceliarinės gudų kalbos įvesta lenkų kalba."
   pagrindžia:
-    - q-001
-    - q-002
+    - c-001
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Citata pagrindžia įvykio „Lenkų kalbos įvedimas Lietuvos teismuose (1697 m.)“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -62,7 +62,7 @@ Tame pačiame 1697 m. įstatyme buvo pakeista Lietuvos teismų raštvedybos kalb
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia teiginį šaltinio tekste."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Citata pagrindžia įvykio „Lenkų kalbos įvedimas Lietuvos teismuose (1697 m.)“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

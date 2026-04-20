@@ -55,16 +55,16 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: bažnytinė diplomatija, viduramžių raštija; bažnytinė istorija, kanoninė teisė. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Bulė“ vartojama taip: Popiežiaus oficialus raštas, susijęs su Gedimino krikšto klausimu; Popiežiaus oficialus raštas arba bulė."
   pagrindžia:
-    - q-001
-    - q-002
+    - c-001
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Popiežius siunčia Gediminui oficialų raštą po krikšto bylos pradžios.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -77,7 +77,7 @@ Terminas šaltinyje vartojamas šiame kontekste: bažnytinė diplomatija, vidura
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia termino vartoseną arba aiškinimą šaltinyje."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Popiežiaus dokumentas minimas kaip bažnytinės Lietuvos provincijos įkūrimo pagrindas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

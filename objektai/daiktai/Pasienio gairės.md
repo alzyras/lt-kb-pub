@@ -46,15 +46,15 @@ patikimumas: "vidutinis"
 Pasienio žymekliai, šaltinyje minimi Lietuvos ir Latvijos sienos pažymėjimo kontekste. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinis nurodo, kad visa Lietuvos ir Latvijos siena buvo nukaišiota gairėmis."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai mini gairėmis pažymėtą Lietuvos ir Latvijos sieną.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

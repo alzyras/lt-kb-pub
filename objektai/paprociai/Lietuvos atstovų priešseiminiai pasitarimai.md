@@ -53,16 +53,16 @@ patikimumas: "vidutinis"
 - kaip atliekama: Lietuvos atstovai pirmiausia susivažiavo atskirai pasitarti; tokie pat į seimą vykstančių atstovų ir senatorių suvažiavimai (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Lietuvos atstovų priešseiminiai pasitarimai“ siejama su formuluote: Lietuvos atstovai pirmiausia susivažiavo atskirai pasitarti; tokie pat į seimą vykstančių atstovų ir senatorių suvažiavimai. Šaltinio kontekste nurodoma: kas atlieka: Lietuvos atstovai; Lietuvos atstovai ir senatoriai; kada atliekama: šaukiant seimą; prieš vykstant į Liubliną; prieš kiekvieną bendrąjį seimą."
   pagrindžia:
-    - q-001
-    - q-002
+    - c-001
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekstas rodo, kad prieš Liublino seimą Lietuvos atstovai pirmiausia rinkosi atskirai derinti pozicijos ir tik po to vyko į derybas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -79,7 +79,7 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia šiame įraše nurodytą praktiką arba jos kontekstą."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Tekstas rodo pasikartojančią Lietuvos politinio derinimo prieš bendrą seimą praktiką, vykdavusią Volkoviske ir vėliau Slanime.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

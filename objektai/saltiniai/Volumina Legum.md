@@ -48,16 +48,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Volumina Legum“ siejamas su šiuo kontekstu: Šaltinyje tai pateikiama kaip specialus išspausdintų seimų konstitucijų rinkinys, kurio pirmoji apimtis nurodoma kaip 8 tomai, o 1889 m. dar pridėtas papildomas tomas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Šaltinyje tai pateikiama kaip specialus išspausdintų seimų konstitucijų rinkinys, kurio pirmoji apimtis nurodoma kaip 8 tomai, o 1889 m. dar pridėtas papildomas tomas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

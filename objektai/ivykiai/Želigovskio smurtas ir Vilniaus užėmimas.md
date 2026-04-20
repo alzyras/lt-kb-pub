@@ -37,16 +37,16 @@ Derybų metu gen. Želigovskio vedamos jėgos puolė Vilnių ir sulaužė ką ti
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Derybų metu gen. Želigovskio vedamos jėgos puolė Vilnių ir sulaužė ką tik pasirašytą Suvalkų sutartį."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Derybų metu gen. Želigovskio vedamos jėgos puolė Vilnių ir sulaužė ką tik pasirašytą Suvalkų sutartį.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Tautos Taryba (Amerikos lietuvių katalikų, 1916 m.)“ apibūdinama kaip taryba; katalikų srovės suorganizuota taryba, nuo kurios tautininkai atsiskyrė. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Tautos Taryba (Amerikos lietuvių katalikų, 1916 m.)“ apibūdinama kaip taryba; katalikų srovės suorganizuota taryba, nuo kurios tautininkai atsiskyrė."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Katalikų srovės suorganizuota taryba, nuo kurios tautininkai atsiskyrė.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

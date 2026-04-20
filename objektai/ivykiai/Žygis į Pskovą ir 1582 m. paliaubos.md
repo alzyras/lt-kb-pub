@@ -38,16 +38,16 @@ Trečiojo žygio metu Batoras apgulė Pskovą, Posevinui tarpininkaujant prasid�
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Trečiojo žygio metu Batoras apgulė Pskovą, Posevinui tarpininkaujant prasidėjo derybos, o 1582 m. buvo pasirašytos 10 metų paliaubos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Trečiojo žygio metu Batoras apgulė Pskovą, Posevinui tarpininkaujant prasidėjo derybos, o 1582 m. buvo pasirašytos 10 metų paliaubos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

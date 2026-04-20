@@ -49,15 +49,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: Laidojo daugiausia Š v. Roko vienuoliai eremitai (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Maro metu mirusiųjų laidojimas Šv. Roko vienuolių eremitų“ siejama su formuluote: Laidojo daugiausia Š v. Roko vienuoliai eremitai. Šaltinio kontekste nurodoma: kas atlieka: Šv. Roko vienuoliai eremitai; kada atliekama: 1708—1711 m. maro metu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinis aprašo maro ir bado metus Vilniuje, kai lavonų buvo tiek daug, kad jų nebebuvo spėjama laidoti; laidotuves daugiausia atliko Šv. Roko vienuoliai eremitai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

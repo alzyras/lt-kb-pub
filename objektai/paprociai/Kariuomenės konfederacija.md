@@ -40,15 +40,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: Toks jų susibūrimas vadinosi kariuomenės konfederacija (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Kariuomenės konfederacija“ siejama su formuluote: Toks jų susibūrimas vadinosi kariuomenės konfederacija. Šaltinio kontekste nurodoma: kas atlieka: kareiviai; kada atliekama: kai ilgai nemokama alga."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekstas aprašo karių kolektyvinį susiorganizavimą, kai jie, negavę algos, išsirinkdavo savus viršininkus ir tęsdavo plėšikavimą iki apmokėjimo.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

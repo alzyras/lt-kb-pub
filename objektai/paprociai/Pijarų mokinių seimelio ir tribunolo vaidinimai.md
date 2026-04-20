@@ -47,15 +47,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: jų mokiniai vaidindavo seimelį, rinkdavo atstovus į tribunolą (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Pijarų mokinių seimelio ir tribunolo vaidinimai“ siejama su formuluote: jų mokiniai vaidindavo seimelį, rinkdavo atstovus į tribunolą. Šaltinio kontekste nurodoma: kas atlieka: pijarų mokiniai; kada atliekama: mokyklose, mokymosi metu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tai mokyklinė socialinė pratyba, kur mokiniai imitavo seimelio ir tribunolo veiksmus, kad būtų ruošiami viešam gyvenimui.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

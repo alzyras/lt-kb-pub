@@ -49,16 +49,16 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Popiežiaus bulė dėl jėzuitų ordino panaikinimo (1773 m.)“ siejamas su šiuo kontekstu: Tekste ši popiežiaus bulė minima kaip dokumentas, kuriuo 1773 m. buvo uždarytas jėzuitų ordinas ir pradėta svarstyti jo turto bei mokyklų perėmimo tvarka."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tekste ši popiežiaus bulė minima kaip dokumentas, kuriuo 1773 m. buvo uždarytas jėzuitų ordinas ir pradėta svarstyti jo turto bei mokyklų perėmimo tvarka.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

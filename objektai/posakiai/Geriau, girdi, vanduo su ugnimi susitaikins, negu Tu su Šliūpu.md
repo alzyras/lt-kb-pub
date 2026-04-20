@@ -44,15 +44,15 @@ Burba atsisveikindamas pateikia vaizdingą palyginimą apie savo ir Šliūpo nes
 Vaizdingas, beveik patarlinis palyginimas apie visišką nesuderinamumą. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje užfiksuota formuluotė „Geriau, girdi, vanduo su ugnimi susitaikins, negu Tu su Šliūpu“; kontekstas: Burba atsisveikindamas pateikia vaizdingą palyginimą apie savo ir Šliūpo nesutaikomus pasaulėžiūros skirtumus."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -39,17 +39,17 @@ Muravjovo pradėtas rusinimo sumanymas peraugo į specialų Kaufmano įsakymą, 
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Muravjovo pradėtas rusinimo sumanymas peraugo į specialų Kaufmano įsakymą, kuriuo buvo uždrausta lietuviškas knygas lotyniškomis raidėmis spausdinti ir platinti."
   pagrindžia:
-    - q-001
-    - q-002
+    - c-001
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Citata pagrindžia įvykio „Lietuviškosios spaudos uždraudimas lotyniškomis raidėmis (1865 m. rugsėjo 6 d.)“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -70,7 +70,7 @@ Muravjovo pradėtas rusinimo sumanymas peraugo į specialų Kaufmano įsakymą, 
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia teiginį šaltinio tekste."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Citata pagrindžia įvykio „Lietuviškosios spaudos uždraudimas lotyniškomis raidėmis (1865 m. rugsėjo 6 d.)“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

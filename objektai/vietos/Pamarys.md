@@ -41,15 +41,15 @@ patikimumas: "aukstas"
 - ordino kariuomenės saugoma kryptis prieš mūšį prie Tanenbergo. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Pamarys“ siejama su šiuo kontekstu: ordino kariuomenės saugoma kryptis prieš mūšį prie Tanenbergo."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: ordino kariuomenės saugoma kryptis prieš mūšį prie Tanenbergo.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -43,15 +43,15 @@ patikimumas: "aukstas"
 - date_end: 1340
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Jonas Kalita apibūdinamas taip: Maskvos iškilimo pradžios valdovas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Maskvos iškilimo pradžios valdovas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -46,16 +46,16 @@ Maskva, pasibaigus Divilino paliauboms, puolė Smolenską, bet Vladislovas miest
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Maskva, pasibaigus Divilino paliauboms, puolė Smolenską, bet Vladislovas miestą išvadavo ir po derybų buvo sudaryta amžinoji taika."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Maskva, pasibaigus Divilino paliauboms, puolė Smolenską, bet Vladislovas miestą išvadavo ir po derybų buvo sudaryta amžinoji taika.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

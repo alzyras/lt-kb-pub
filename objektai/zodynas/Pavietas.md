@@ -52,15 +52,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: administracinė istorija, teritorinis valdymas. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Pavietas“ vartojama taip: Apskritis arba administracinis rajonas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Terminas vartojamas kaip krašto administracinis vienetas, iš kurio radosi seimelių rinkimai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

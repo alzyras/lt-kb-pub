@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: kultūros istorija, politinė retorika. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Europeizuoti“ vartojama taip: Pritaikyti ar priartinti prie Vakarų Europos kultūros ir santvarkos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Gediminas laiškuose apibūdina savo kultūrinį tikslą ir ryšį su Vakarų Europa.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -48,15 +48,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: dvarų ūkis, valstybės pajamos. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Karališkoji ekonomija“ vartojama taip: Valdovo žemės valda arba ūkis, skirtas karaliaus pragyvenimui."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Kita valstybės dvarų rūšis, palikta karaliui pragyventi.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

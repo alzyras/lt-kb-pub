@@ -46,16 +46,16 @@ Mindaugo priešininkai, padedami Voluinės kunigaikščio Danieliaus ir Livonijo
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Mindaugo priešininkai, padedami Voluinės kunigaikščio Danieliaus ir Livonijos ordino, susidarė sąjungą ir apsupo Mindaugą jo pilyje Vorutoje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Mindaugo priešininkai, padedami Voluinės kunigaikščio Danieliaus ir Livonijos ordino, susidarė sąjungą ir apsupo Mindaugą jo pilyje Vorutoje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

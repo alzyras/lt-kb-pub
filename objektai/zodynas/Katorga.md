@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: baudžiamoji teisė, carinės Rusijos bausmės. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Katorga“ vartojama taip: Sunkusis kalėjimo darbas arba bausmė sunkiu darbu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Žodis vartojamas teismo paskirtai sunkiai bausmei apibūdinti, kai daliai Kražių bylos nuteistųjų buvo skirta katorga.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

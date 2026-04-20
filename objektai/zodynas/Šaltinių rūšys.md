@@ -52,15 +52,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: istorijos metodika, šaltinių klasifikacija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Šaltinių rūšys“ vartojama taip: Istorinių šaltinių klasifikacija į rašytinius, materialinius ir dvasinius likučius."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Istorijos medžiaga skirstoma į kelias šaltinių rūšis ir atskirai saugoma.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

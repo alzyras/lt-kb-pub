@@ -48,27 +48,27 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Lietuvos Metrika“ taip vadinamos valdovo dovanojimų, teismų sprendimų ir seimų nutarimų nuorašų knygos, kurios sudarė Lietuvos Didžiosios Kunigaikštystės archyvą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje „Lietuvos Metrika“ siejamas su šiuo kontekstu: Pavadinimas vartojamas dvejopai: ir pačioms nuorašų knygoms, ir visam susiformavusiam archyvui. Dėl to kandidatas artimas ir daikto, ir šaltinio ribai, bet čia paliekamas kaip materialus teisinių raštų rinkinys."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-003
+- t-003
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Lietuvos Metrika“ siejamas su šiuo kontekstu: šaltinyje įvardytas Lietuvos Metrikos įrašų fragmentas, o viduje paaiškinta, kad tai Zigmanto II ponų tarybai rašytas laiškas dėl Lietuvos ir Livonijos sienos išvedimo."
   pagrindžia:
-    - q-003
+    - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tekste taip vadinamos valdovo dovanojimų, teismų sprendimų ir seimų nutarimų nuorašų knygos, kurios sudarė Lietuvos Didžiosios Kunigaikštystės archyvą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -84,7 +84,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Pavadinimas vartojamas dvejopai: ir pačioms nuorašų knygoms, ir visam susiformavusiam archyvui. Dėl to kandidatas artimas ir daikto, ir šaltinio ribai, bet čia paliekamas kaip materialus teisinių raštų rinkinys.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -99,7 +99,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
   pagrindžia:
     - t-002
-- id: q-003
+- c-003
   santrauka: šaltinyje įvardytas Lietuvos Metrikos įrašų fragmentas, o viduje paaiškinta, kad tai Zigmanto II ponų tarybai rašytas laiškas dėl Lietuvos ir Livonijos sienos išvedimo.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

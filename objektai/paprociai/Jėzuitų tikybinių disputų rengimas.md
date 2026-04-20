@@ -40,15 +40,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: Jie ruošdavo tikybinius disputus (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Jėzuitų tikybinių disputų rengimas“ siejama su formuluote: Jie ruošdavo tikybinius disputus. Šaltinio kontekste nurodoma: kas atlieka: jėzuitai; kada atliekama: kai protestantai pradėjo vengti disputų."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekstas rodo pasikartojantį jėzuitų viešų tikybinių ginčų rengimą su protestantais kaip kovos dėl tikėjimo būdą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

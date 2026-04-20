@@ -54,17 +54,17 @@ patikimumas: "vidutinis"
 - kaip atliekama: lavonų laidojamo būdo; laidodami lavonus, jie įdėdavo į kapą įvairių daiktų; iškilmingas Kęstučio palaidojimas ir jo sudeginimas ant laužo su daiktais, ginklais ir gyvuliais (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Laidojimas su įkapėmis ir kūno sudeginimu“ siejama su formuluote: lavonų laidojamo būdo; laidodami lavonus, jie įdėdavo į kapą įvairių daiktų; iškilmingas Kęstučio palaidojimas ir jo sudeginimas ant laužo su daiktais, ginklais ir gyvuliais. Šaltinio kontekste nurodoma: kas atlieka: aisčiai; kada atliekama: laidotuvių metu."
   pagrindžia:
-    - q-001
-    - q-002
-    - q-003
+    - c-001
+    - c-002
+    - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekstas aiškina, kad iš lavonų laidojimo būdo galima spręsti apie pomirtinį gyvenimą; tame pačiame gabale esantis iliustracijos užrašas rodo konkretų laidojimą mediniame grabe su maistu prie galvos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -80,7 +80,7 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia šiame įraše nurodytą praktiką arba jos kontekstą."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Aprašomas lavonų laidojimas su į kapą dedamais daiktais, taip pat skirtingas kūnų sudeginimas arba palaidojimas nesudeginant.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -98,7 +98,7 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia šiame įraše nurodytą praktiką arba jos kontekstą."
   pagrindžia:
     - t-001
-- id: q-003
+- c-003
   santrauka: Konkrečiame Kęstučio laidotuvių aprašyme matyti laidotuvių ritualas: lavonas atvežamas į Vilnių, palaidojamas iškilmingai, o kūnas sudeginamas ant laužo kartu su mėgtais daiktais, ginklais ir gyvuliais.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

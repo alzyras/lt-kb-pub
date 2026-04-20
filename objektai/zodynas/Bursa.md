@@ -53,15 +53,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: bažnytinė švietimo istorija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Bursa“ vartojama taip: Bendrabutis, skirtas klierikams arba kunigų rengimui."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Kunigų ar klierikų bendrabutis prie jėzuitų kolegijos ir seminarijos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

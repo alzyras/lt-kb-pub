@@ -50,15 +50,15 @@ patikimumas: "vidutinis"
 Terminas šaltinyje vartojamas šiame kontekste: valstybės valdymas, pareigybės. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Kaštelionas“ vartojama taip: Krašto administracijos arba pilies pareigūnas, įvestas lenkišku pavyzdžiu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Taip pat įvardijamas naujai įvestas urėdas, minimas drauge su vaivada.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

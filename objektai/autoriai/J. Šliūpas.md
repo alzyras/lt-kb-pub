@@ -40,31 +40,31 @@ patikimumas: "vidutinis"
 - Savo laikraštyje kėlė lietuvių susipratimą ir tą patį skelbė prakalbose. (t-003)
 
 ## Kontekstas
-- Tekstas tiesiogiai mini pavardę su inicialu ir redagavimo vaidmenį. (q-001)
-- Amerikos lietuvių spaudos kontekste Šliūpas tiesiogiai siejamas su laikraščio leidimu, rašymu ir viešu kalbėjimu. (q-002, q-003)
+- Tekstas tiesiogiai mini pavardę su inicialu ir redagavimo vaidmenį. (c-001)
+- Amerikos lietuvių spaudos kontekste Šliūpas tiesiogiai siejamas su laikraščio leidimu, rašymu ir viešu kalbėjimu. (c-002, c-003)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje J. Šliūpas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip vienas iš „Aušros“ redaktorių, vėliau išvykęs į Ameriką."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje nurodoma, kad 1885 m. J. Šliūpas pradėjo leisti „Lietuviškąjį Balsą“, kurį jam tekdavo beveik vienam prirašyti, išspausdinti ir išplatinti."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-003
+- t-003
   teiginys: "Šaltinyje nurodoma, kad J. Šliūpas savo laikraštyje kėlė lietuvių susipratimą ir tą patį skelbė prakalbose."
   pagrindžia:
-    - q-003
+    - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip vienas iš „Aušros“ redaktorių, vėliau išvykęs į Ameriką.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -84,7 +84,7 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Tekstas tiesiogiai mini pavardę su inicialu ir redagavimo vaidmenį."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Ištrauka sieja J. Šliūpą su „Lietuviškojo Balso“ leidimu, rašymu, spausdinimu ir platinimu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -106,7 +106,7 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Citata tiesiogiai nurodo J. Šliūpą ir jo leidybinį darbą."
   pagrindžia:
     - t-002
-- id: q-003
+- c-003
   santrauka: Ištrauka nurodo Šliūpo laikraščio programinį turinį ir prakalbas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

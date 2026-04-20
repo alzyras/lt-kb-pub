@@ -37,16 +37,16 @@ Livonijos ordinas pradėjo statyti pilį Klaipėdos vietoje, o žemaičiai ją p
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Livonijos ordinas pradėjo statyti pilį Klaipėdos vietoje, o žemaičiai ją puolė dar tebestatomą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Livonijos ordinas pradėjo statyti pilį Klaipėdos vietoje, o žemaičiai ją puolė dar tebestatomą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

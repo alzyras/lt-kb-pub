@@ -37,16 +37,16 @@ Lietuva mėgino dar kartą pradėti tiesiogines derybas ir, Lenkijai atsisakius 
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Lietuva mėgino dar kartą pradėti tiesiogines derybas ir, Lenkijai atsisakius įvykdyti Suvalkų sutartį, kreipėsi į Hagos Teismą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Lietuva mėgino dar kartą pradėti tiesiogines derybas ir, Lenkijai atsisakius įvykdyti Suvalkų sutartį, kreipėsi į Hagos Teismą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

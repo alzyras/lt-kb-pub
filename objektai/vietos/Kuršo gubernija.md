@@ -48,15 +48,15 @@ patikimumas: "aukstas"
 - Minima kaip buvusios Latvijos ir Lietuvos sienos orientyras bei teritorinė nuoroda derybose dėl sienos. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Kuršo gubernija“ siejama su šiuo kontekstu: Minima kaip buvusios Latvijos ir Lietuvos sienos orientyras bei teritorinė nuoroda derybose dėl sienos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minima kaip buvusios Latvijos ir Lietuvos sienos orientyras bei teritorinė nuoroda derybose dėl sienos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

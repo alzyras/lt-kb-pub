@@ -49,15 +49,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: numizmatika, pinigų istorija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Orta“ vartojama taip: piniginis nominalas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje aiškiai nusakoma kaip 18 skatikų vertės moneta.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

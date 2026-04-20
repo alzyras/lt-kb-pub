@@ -37,25 +37,25 @@ patikimumas: "vidutinis"
 - Minimi „Darbai senovės lietuvių ir žemaičių“, „Būdas senovės lietuvių“ ir dviejų tomų „Lietuvos istorija“. (t-002)
 
 ## Kontekstas
-- Tekstas pateikia pavardę ir aiškų autoriaus vaidmenį šiame istorijos apžvalgos kontekste. (q-001)
-- Vėlesnė ištrauka pateikia atskirų Daukanto istorinių veikalų parašymo arba išspausdinimo datas. (q-002)
+- Tekstas pateikia pavardę ir aiškų autoriaus vaidmenį šiame istorijos apžvalgos kontekste. (c-001)
+- Vėlesnė ištrauka pateikia atskirų Daukanto istorinių veikalų parašymo arba išspausdinimo datas. (c-002)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje S. Daukantas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Įvardytas kaip Vilniaus universiteto auklėtinis, parašęs kelis Lietuvos istorijos veikalus."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje nurodoma, kad Daukantas 1822 m. parašė „Darbus senovės lietuvių ir žemaičių“, vėliau parašė „Būdą senovės lietuvių“ ir dviejų tomų „Lietuvos istoriją“."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Įvardytas kaip Vilniaus universiteto auklėtinis, parašęs kelis Lietuvos istorijos veikalus.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -72,7 +72,7 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Tekstas pateikia pavardę ir aiškų autoriaus vaidmenį šiame istorijos apžvalgos kontekste."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Ištrauka išvardija Daukanto istorinius veikalus ir jų datas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

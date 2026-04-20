@@ -44,16 +44,16 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Tomo taika“ pateikiamas kaip bibliografinis arba turinio sąrašo paminėjimas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Bibliografiniai įrodymai
 
-- id: q-001
+- c-001
   santrauka: turinyje nurodytas skyrius apie karo pabaigą ir Tomo taiką.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

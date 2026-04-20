@@ -37,16 +37,16 @@ Pirmieji ordino atstovai atvyko į Prūsų pasienį, gavo žemių, pasistatė Fo
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Pirmieji ordino atstovai atvyko į Prūsų pasienį, gavo žemių, pasistatė Fogelzango pilį ir netrukus pradėjo nuolatinį karą su aisčių kiltimis."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Pirmieji ordino atstovai atvyko į Prūsų pasienį, gavo žemių, pasistatė Fogelzango pilį ir netrukus pradėjo nuolatinį karą su aisčių kiltimis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

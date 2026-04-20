@@ -47,15 +47,15 @@ Paveikslo antraštėje pateikiamas Vytauto didžiojo antspaudo užrašas. (t-001
 Oficiali lotyniška Vytauto titulatura ant antspaudo. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje užfiksuota formuluotė „Vytauto antspaudo užrašas“; kontekstas: Paveikslo antraštėje pateikiamas Vytauto didžiojo antspaudo užrašas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

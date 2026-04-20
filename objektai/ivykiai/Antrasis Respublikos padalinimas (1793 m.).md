@@ -37,17 +37,17 @@ Rusija, Prūsija ir Austrija 1793 m. susitarė dėl Respublikos žemių padalini
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Rusija, Prūsija ir Austrija 1793 m. susitarė dėl Respublikos žemių padalinimo, o Gardine sušauktas seimas buvo priverstas padalinimą patvirtinti."
   pagrindžia:
-    - q-001
-    - q-002
+    - c-001
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Citata pagrindžia įvykio „Antrasis Respublikos padalinimas (1793 m.)“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -68,7 +68,7 @@ Rusija, Prūsija ir Austrija 1793 m. susitarė dėl Respublikos žemių padalini
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia teiginį šaltinio tekste."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Citata pagrindžia įvykio „Antrasis Respublikos padalinimas (1793 m.)“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -46,16 +46,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Olivos taika“ siejamas su šiuo kontekstu: Po Švedų karo pabaigos 1660 m. Olivoje buvo sudaryta amžinosios taikos sutartis."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Po Švedų karo pabaigos 1660 m. Olivoje buvo sudaryta amžinosios taikos sutartis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -26,15 +26,15 @@ patikimumas: "aukstas"
 Šaltinyje K. Bizauskas apibūdinamas taip: Minimas kaip Lietuvos Tarybos narys.
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje K. Bizauskas apibūdinamas taip: Minimas kaip Lietuvos Tarybos narys."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip Lietuvos Tarybos narys.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

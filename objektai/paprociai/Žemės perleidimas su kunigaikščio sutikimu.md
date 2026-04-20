@@ -40,15 +40,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: perleisdami žemę kitiems, turėdavo gauti kunigaikščio sutikimą (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Žemės perleidimas su kunigaikščio sutikimu“ siejama su formuluote: perleisdami žemę kitiems, turėdavo gauti kunigaikščio sutikimą. Šaltinio kontekste nurodoma: kas atlieka: bajorai / žemės savininkai; kada atliekama: perleidžiant, parduodant, dovanojant ar perleidžiant vedybų keliu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekstas rodo, kad bajorų žemė negalėjo laisvai cirkuliuoti be valdovo leidimo, o tas leidimas buvo reikalingas net perduodant žemę per santuoką. Tai atrodo kaip nusistovėjusi feodalinė tvarka, kuri gali virsti atskiru papročių įrašu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

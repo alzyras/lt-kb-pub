@@ -49,15 +49,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: Kaip krikšto dovana, Jogailos vardu buvo dalinami balti vilnoniai marškiniai (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Krikšto dovanos baltais vilnoniais marškiniais“ siejama su formuluote: Kaip krikšto dovana, Jogailos vardu buvo dalinami balti vilnoniai marškiniai. Šaltinio kontekste nurodoma: kas atlieka: Jogailos vardu; kada atliekama: krikšto metu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Krikšto metu dovanų dalijimas matomas kaip atlygis ar paskata krikštytis; tekstas pabrėžia, kad marškiniai traukė žmones į krikštą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

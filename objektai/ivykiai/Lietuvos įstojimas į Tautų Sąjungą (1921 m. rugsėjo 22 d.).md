@@ -37,16 +37,16 @@ Tautų Sąjungos visuotinis susirinkimas galutinai priėmė Lietuvą, nors dėl 
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Tautų Sąjungos visuotinis susirinkimas galutinai priėmė Lietuvą, nors dėl to dar kilo politinių ginčų ir atidėliojimų."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tautų Sąjungos visuotinis susirinkimas galutinai priėmė Lietuvą, nors dėl to dar kilo politinių ginčų ir atidėliojimų.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

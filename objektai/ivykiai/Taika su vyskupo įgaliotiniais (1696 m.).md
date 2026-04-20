@@ -37,17 +37,17 @@ Tęsiantis Sapiegų konfliktui su Vilniaus vyskupu, 1696 m. gale buvo sudaryta t
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Tęsiantis Sapiegų konfliktui su Vilniaus vyskupu, 1696 m. gale buvo sudaryta taika, pagal kurią turėjo būti atšaukta ekskomunika ir išvesti daliniai iš bažnytinių dvarų."
   pagrindžia:
-    - q-001
-    - q-002
+    - c-001
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Citata pagrindžia įvykio „Taika su vyskupo įgaliotiniais (1696 m.)“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -64,7 +64,7 @@ Tęsiantis Sapiegų konfliktui su Vilniaus vyskupu, 1696 m. gale buvo sudaryta t
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia teiginį šaltinio tekste."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Citata pagrindžia įvykio „Taika su vyskupo įgaliotiniais (1696 m.)“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

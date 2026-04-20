@@ -37,16 +37,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Žydai vietoje pareigos išlaikyti 1.000 karių gavo metinį 1.000 auksinų mokestį."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Žydai vietoje pareigos išlaikyti 1.000 karių gavo metinį 1.000 auksinų mokestį.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

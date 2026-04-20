@@ -47,15 +47,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pamaldas; mokiniai ruošdavo religinio turinio vaidinimus ir disputus (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Jėzuitų kolegijų mokinių religinė praktika ir vaidinimai“ siejama su formuluote: mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pamaldas; mokiniai ruošdavo religinio turinio vaidinimus ir disputus. Šaltinio kontekste nurodoma: kas atlieka: jėzuitų kolegijų mokiniai; kada atliekama: kolegijose, ištisą dieną prižiūrint mokytojams."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinis rodo nuolatinę jėzuitų kolegijų mokinių drausmę, kur religinė praktika buvo derinama su religiniais vaidinimais ir disputais.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

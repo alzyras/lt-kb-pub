@@ -37,16 +37,16 @@ Naujasis Seimas tuojau panaikino karo būklę ir kitus suvaržymus, bet šis spr
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Naujasis Seimas tuojau panaikino karo būklę ir kitus suvaržymus, bet šis sprendimas sukėlė daugiau neramumų."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Naujasis Seimas tuojau panaikino karo būklę ir kitus suvaržymus, bet šis sprendimas sukėlė daugiau neramumų.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

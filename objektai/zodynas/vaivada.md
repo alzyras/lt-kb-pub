@@ -52,15 +52,15 @@ patikimumas: "vidutinis"
 Terminas šaltinyje vartojamas šiame kontekste: valstybės valdymas, pareigybės. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Vaivada“ vartojama taip: Aukštas krašto administracijos pareigūnas, susietas su vaivadijos valdymu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Horodlėje aptariamas naujai įvestas krašto urėdas, turintis teisių valdyme ir karo vadovavime.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

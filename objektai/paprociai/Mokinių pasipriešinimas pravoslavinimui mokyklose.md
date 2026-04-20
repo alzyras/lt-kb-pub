@@ -48,15 +48,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: mokiniai atsisakinėjo kalbėti rusiškai maldas, eiti į cerkves ir ėmė burtis į kuopeles (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Mokinių pasipriešinimas pravoslavinimui mokyklose“ siejama su formuluote: mokiniai atsisakinėjo kalbėti rusiškai maldas, eiti į cerkves ir ėmė burtis į kuopeles. Šaltinio kontekste nurodoma: kas atlieka: mokiniai; kada atliekama: po Kražių skerdynių; XIX a. pabaigoje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Po Kražių įvykių šaltinis rodo mokinių elgesį mokyklose kaip platesnį pasipriešinimo pravoslavinimui būdą: jie atsisakydavo rusiškų maldų, vengdavo cerkvių ir telkdavosi į kuopeles.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

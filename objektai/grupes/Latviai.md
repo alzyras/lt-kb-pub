@@ -42,15 +42,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Latviai“ apibūdinama kaip tauta; šaltinyje pasakyta, kad iš vokiečių ordino valdžion patekusių kilčių susiformavo latvių tauta. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Latviai“ apibūdinama kaip tauta; šaltinyje pasakyta, kad iš vokiečių ordino valdžion patekusių kilčių susiformavo latvių tauta."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje pasakyta, kad iš vokiečių ordino valdžion patekusių kilčių susiformavo latvių tauta.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

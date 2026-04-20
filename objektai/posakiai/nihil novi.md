@@ -51,15 +51,15 @@ Aprašoma 1505 m. Lenkijos privilegija, kuria karalius pasižadėjo neįvesti �
 Trumpa lotyniška teisės formulė, susieta su principu „nieko naujo“. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje užfiksuota formuluotė „nihil novi“; kontekstas: Aprašoma 1505 m. Lenkijos privilegija, kuria karalius pasižadėjo neįvesti „nieko naujo“ be senato ir bajorijos sutikimo."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

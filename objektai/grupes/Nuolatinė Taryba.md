@@ -51,21 +51,21 @@ patikimumas: "aukstas"
 - Šaltinyje „Nuolatinė Taryba“ siejama su šiuo kontekstu: po II Respublikos padalinimo atgaivinta centrinė taryba, veikianti kaip valstybės valdymo organas. (t-002)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Nuolatinė Taryba“ apibūdinama kaip taryba; po II Respublikos padalinimo atgaivinta centrinė taryba, veikianti kaip valstybės valdymo organas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje „Nuolatinė Taryba“ siejama su šiuo kontekstu: po II Respublikos padalinimo atgaivinta centrinė taryba, veikianti kaip valstybės valdymo organas."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: po II Respublikos padalinimo atgaivinta centrinė taryba, veikianti kaip valstybės valdymo organas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -78,7 +78,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: po II Respublikos padalinimo atgaivinta centrinė taryba, veikianti kaip valstybės valdymo organas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

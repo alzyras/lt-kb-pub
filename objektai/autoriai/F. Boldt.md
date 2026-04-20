@@ -37,18 +37,18 @@ patikimumas: "vidutinis"
 - Der D. Orden und Litauen 1370—1386. (t-001)
 
 ## Kontekstas
-- Greta Krumbholto nurodytas kaip atskiro veikalo apie ordiną ir Lietuvą autorius. (q-001)
+- Greta Krumbholto nurodytas kaip atskiro veikalo apie ordiną ir Lietuvą autorius. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje F. Boldt minimas kaip autorius, siejamas su: Der D. Orden und Litauen 1370—1386."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje F. Boldt minimas kaip autorius, siejamas su: Der D. Orden und Litauen 1370—1386.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

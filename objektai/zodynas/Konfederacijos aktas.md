@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: politinė istorija, konfederacijų dokumentai. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Konfederacijos aktas“ vartojama taip: Konfederacijos steigiamasis arba patvirtinamasis dokumentas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Radomo konfederatai buvo priversti pasirašyti aktą, kuriuo kvietė prisidėti prie konfederacijos ir pripažino lygias teises kitatikiams.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

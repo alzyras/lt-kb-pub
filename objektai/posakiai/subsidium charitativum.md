@@ -46,15 +46,15 @@ Aprašant dvasininkų mokesčius, autorius paaiškina, kad jie būdavo vadinami 
 Lotyniška mokesčio formuluotė, susieta su „aukų“ pavadinimu; kandidatas ribinis tarp posakio ir terminologinės formulės. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje užfiksuota formuluotė „subsidium charitativum“; kontekstas: Aprašant dvasininkų mokesčius, autorius paaiškina, kad jie būdavo vadinami aukomis ir pateikia lotynišką formulę."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

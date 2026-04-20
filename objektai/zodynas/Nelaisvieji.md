@@ -48,15 +48,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: socialinė istorija, priklausomųjų valstiečių sluoksniai. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Nelaisvieji“ vartojama taip: Prasiskolinę ūkininkai, neturėję laisvės įsikurti kur norėjo."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Taip vadinami prasiskolinę ūkininkai, gyvenę ant bajoro ar kunigaikščio žemės.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

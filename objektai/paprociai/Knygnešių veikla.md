@@ -48,15 +48,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: slapta knygos buvo gabenamos ir skleidžiamos po visą Lietuvą (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Knygnešių veikla“ siejama su formuluote: slapta knygos buvo gabenamos ir skleidžiamos po visą Lietuvą. Šaltinio kontekste nurodoma: kas atlieka: vysk. Valančius, jo artimieji padėjėjai, kunigai, bažnyčios tarnai, šiaipjau žmonės ir pasauliniai inteligentai; kada atliekama: po spaudos uždraudimo; ypač nuo 1865 m.."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekstas aprašo slaptą lietuviškų knygų gabenimą iš Tilžės, specialių platinimo draugijų kūrimą ir didelį padėjėjų tinklą; tai pasikartojanti kultūrinio pasipriešinimo praktika.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

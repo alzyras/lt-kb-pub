@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: visuomenės sandara, valdžios titulų istorija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Rikiai“ vartojama taip: Senovės aisčių apylinkių vadai, aukštesnysis visuomenės sluoksnis."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Senieji apylinkių vadai įvardijami kaip aukštesnysis visuomenės sluoksnis ir siejami su pilimis bei valdžia.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

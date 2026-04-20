@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: viduramžių politinė ir feodalinė santvarka. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Vasalas“ vartojama taip: Feodališkai priklausomas valdovas ar kilmingasis, pavaldus kitai valdžiai."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Žodis vartojamas feodalinės priklausomybės santykiui įvardyti, kai Vytautas turi pripažinti ordino valdžią.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

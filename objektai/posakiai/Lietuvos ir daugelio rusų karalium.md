@@ -47,15 +47,15 @@ Gediminas aptaria savo valdžios pretenziją, raštuose tituluodamasis Lietuvos 
 Oficiali valdovo titulatura, rodanti pretenziją į Lietuvos ir rusų žemes. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje užfiksuota formuluotė „Lietuvos ir daugelio rusų karalium“; kontekstas: Gediminas aptaria savo valdžios pretenziją, raštuose tituluodamasis Lietuvos ir daugelio rusų karaliumi."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

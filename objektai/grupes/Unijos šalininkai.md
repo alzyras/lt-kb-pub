@@ -46,15 +46,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Unijos šalininkai“ apibūdinama kaip šalininkai; unijos šalininkai minimi kaip bažnytinės unijos rėmėjai, kurie po Konstantinopolio žlugimo ir vėlesnių politinių veiksmų Lietuvoje nebeišlaiko įtakos. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Unijos šalininkai“ apibūdinama kaip šalininkai; unijos šalininkai minimi kaip bažnytinės unijos rėmėjai, kurie po Konstantinopolio žlugimo ir vėlesnių politinių veiksmų Lietuvoje nebeišlaiko įtakos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Unijos šalininkai minimi kaip bažnytinės unijos rėmėjai, kurie po Konstantinopolio žlugimo ir vėlesnių politinių veiksmų Lietuvoje nebeišlaiko įtakos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

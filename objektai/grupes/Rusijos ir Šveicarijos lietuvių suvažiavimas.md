@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Rusijos ir Šveicarijos lietuvių suvažiavimas“ apibūdinama kaip suvažiavimas; stokholme vykęs lietuvių suvažiavimas, skirtas Lietuvos klausimams populiarizuoti. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Rusijos ir Šveicarijos lietuvių suvažiavimas“ apibūdinama kaip suvažiavimas; stokholme vykęs lietuvių suvažiavimas, skirtas Lietuvos klausimams populiarizuoti."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Stokholme vykęs lietuvių suvažiavimas, skirtas Lietuvos klausimams populiarizuoti.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

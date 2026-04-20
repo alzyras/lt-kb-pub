@@ -37,16 +37,16 @@ Santykiai su Vatikanu tapo oficialūs tik po Lietuvos valstybės pripažinimo de
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Santykiai su Vatikanu tapo oficialūs tik po Lietuvos valstybės pripažinimo de jure."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Santykiai su Vatikanu tapo oficialūs tik po Lietuvos valstybės pripažinimo de jure.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -48,15 +48,15 @@ patikimumas: "aukstas"
 - Minimi kaip viena iš Užnemunės gimnazijų vietų. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Suvalkai“ siejama su šiuo kontekstu: Minimi kaip viena iš Užnemunės gimnazijų vietų."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimi kaip viena iš Užnemunės gimnazijų vietų.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

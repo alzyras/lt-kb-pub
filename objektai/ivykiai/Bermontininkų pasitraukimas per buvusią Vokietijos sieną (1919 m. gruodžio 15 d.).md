@@ -37,16 +37,16 @@ Nugalėti bermontininkai buvo lydimi per visą Žemaitiją ir galiausiai pasitra
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Nugalėti bermontininkai buvo lydimi per visą Žemaitiją ir galiausiai pasitraukė į Vokietiją."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Nugalėti bermontininkai buvo lydimi per visą Žemaitiją ir galiausiai pasitraukė į Vokietiją.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

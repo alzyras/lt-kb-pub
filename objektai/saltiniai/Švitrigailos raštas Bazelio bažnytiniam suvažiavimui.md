@@ -47,16 +47,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Švitrigailos raštas Bazelio bažnytiniam suvažiavimui“ siejamas su šiuo kontekstu: dokumentų pavyzdžiuose aprašomas Švitrigailos raštas, siųstas į Bazelio bažnytinį suvažiavimą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: dokumentų pavyzdžiuose aprašomas Švitrigailos raštas, siųstas į Bazelio bažnytinį suvažiavimą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -37,16 +37,16 @@ Direktorijos atleidimas virto principiniu ginču dėl gubernatoriaus įgaliojim�
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Direktorijos atleidimas virto principiniu ginču dėl gubernatoriaus įgaliojimų; byla iš Tautų Sąjungos persikėlė į Hagos Tribunolą ir baigėsi Lietuvos laimėjimu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Direktorijos atleidimas virto principiniu ginču dėl gubernatoriaus įgaliojimų; byla iš Tautų Sąjungos persikėlė į Hagos Tribunolą ir baigėsi Lietuvos laimėjimu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

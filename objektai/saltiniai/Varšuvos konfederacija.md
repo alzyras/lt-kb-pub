@@ -46,16 +46,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Varšuvos konfederacija“ siejamas su šiuo kontekstu: Tekste ši konfederacija minima kaip tikėjimo laisvę garantuojantis įsipareigojimas, kurio Zigmantas Vaza prisiekė laikytis."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tekste ši konfederacija minima kaip tikėjimo laisvę garantuojantis įsipareigojimas, kurio Zigmantas Vaza prisiekė laikytis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

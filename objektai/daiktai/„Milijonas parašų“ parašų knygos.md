@@ -53,15 +53,15 @@ patikimumas: "aukstas"
 Fizinės parašų knygos, šaltinyje susietos su Lietuvos valstybės pripažinimo siekiu. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinis nurodo, kad 1921 m. JAV prezidentui buvo įteiktos 138 parašų knygos, vadinamos „Milijonu parašų“."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai įvardija parašų knygas, jų skaičių ir įteikimą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

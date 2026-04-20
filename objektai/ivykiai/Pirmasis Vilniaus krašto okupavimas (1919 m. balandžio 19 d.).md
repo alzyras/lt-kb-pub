@@ -37,16 +37,16 @@ Pilsudskio vadovaujama Lenkijos kariuomenė užėmė pietinę ir rytinę Lietuvo
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Pilsudskio vadovaujama Lenkijos kariuomenė užėmė pietinę ir rytinę Lietuvos dalį nuo Gardino iki Vilniaus."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Pilsudskio vadovaujama Lenkijos kariuomenė užėmė pietinę ir rytinę Lietuvos dalį nuo Gardino iki Vilniaus.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

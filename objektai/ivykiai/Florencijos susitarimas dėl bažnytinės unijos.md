@@ -30,16 +30,16 @@ Galutinis dėl unijos susitarimas buvo pasiektas Florencijoje. (t-001)
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Galutinis dėl unijos susitarimas buvo pasiektas Florencijoje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Galutinis dėl unijos susitarimas buvo pasiektas Florencijoje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

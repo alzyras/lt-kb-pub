@@ -43,15 +43,15 @@ Apibendrinamas Kazimiero Didžiojo valdymas ir jo statybinė veikla, kurią lenk
 Vaizdinga, beveik patarlinė formuluotė apie Kazimiero paliktą mūrinę Lenkiją. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje užfiksuota formuluotė „Lenkiją Kazimieras radęs medinę, o palikęs mūrinę“; kontekstas: Apibendrinamas Kazimiero Didžiojo valdymas ir jo statybinė veikla, kurią lenkai nusakė lakoniška formule."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -32,15 +32,15 @@ patikimumas: "vidutinis"
 - Poseviną
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Posevinas apibūdinamas taip: Minimas kaip žinomas jėzuitas diplomatas, popiežiaus tarpininkas derybose dėl karo pabaigos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip žinomas jėzuitas diplomatas, popiežiaus tarpininkas derybose dėl karo pabaigos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

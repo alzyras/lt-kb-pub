@@ -32,15 +32,15 @@ patikimumas: "vidutinis"
 - Mozūrų kunigaikštis Boleslovas
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Boleslovas (Mozūrų kunigaikštis) apibūdinamas taip: Mozūrų kunigaikštis, kuriam lenkai grasino atiduoti sostą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Mozūrų kunigaikštis, kuriam lenkai grasino atiduoti sostą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

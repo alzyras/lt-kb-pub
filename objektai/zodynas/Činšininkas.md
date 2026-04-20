@@ -49,15 +49,15 @@ patikimumas: "vidutinis"
 Terminas šaltinyje vartojamas šiame kontekste: valstiečių socialinis statusas, žemės santykiai. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Činšininkas“ vartojama taip: valstietis, kurio statusas priešpriešinamas baudžiauninkui."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Žemaičių valstiečiai apibūdinami kaip činšininkai, o ne baudžiauninkai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

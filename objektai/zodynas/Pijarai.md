@@ -52,15 +52,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: švietimo istorija, vienuoliniai ordinai. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Pijarai“ vartojama taip: Pijorų ordino nariai, švietimu besirūpinę vienuoliai."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Katalikiškas mokymo ordinas, kūręs dievobaimingąsias mokyklas ir konkuruojantis su jėzuitais.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

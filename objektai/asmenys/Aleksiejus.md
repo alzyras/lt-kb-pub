@@ -41,15 +41,15 @@ patikimumas: "aukstas"
 - date_end: 1653
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Aleksiejus apibūdinamas taip: Minimas kaip Maskvos caras, priėmęs kazokus į globą ir paskyręs Chmelnickį jų hetmonu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip Maskvos caras, priėmęs kazokus į globą ir paskyręs Chmelnickį jų hetmonu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

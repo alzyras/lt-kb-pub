@@ -32,18 +32,18 @@ patikimumas: "vidutinis"
 - Minimas kaip veikalo apie Želigovskio Vilniaus užėmimą autorius. (t-001)
 
 ## Kontekstas
-- Bibliografinė eilutė tiesiogiai įvardija Waligórą kaip autoriaus vardą. (q-001)
+- Bibliografinė eilutė tiesiogiai įvardija Waligórą kaip autoriaus vardą. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Waligóra autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip veikalo apie Želigovskio Vilniaus užėmimą autorius."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip veikalo apie Želigovskio Vilniaus užėmimą autorius.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

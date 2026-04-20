@@ -52,15 +52,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: ordino administracija, viduramžių pareigybės. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Krašto magistras“ vartojama taip: Vietinis ordino valdžios pareigūnas, pavaldus didžiajam magistrui."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Po susijungimo su kryžiuočiais Livonijoje atsiranda žemesnio rango ordino vadovas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

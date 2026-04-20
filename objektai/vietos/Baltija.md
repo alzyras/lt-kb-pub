@@ -38,15 +38,15 @@ patikimumas: "aukstas"
 - Minima kaip jūros ir pajūrio santykio pavadinimas prie Klaipėdos pilies vietos. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Baltija“ siejama su šiuo kontekstu: Minima kaip jūros ir pajūrio santykio pavadinimas prie Klaipėdos pilies vietos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minima kaip jūros ir pajūrio santykio pavadinimas prie Klaipėdos pilies vietos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

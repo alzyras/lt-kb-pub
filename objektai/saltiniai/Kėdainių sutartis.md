@@ -48,16 +48,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Kėdainių sutartis“ siejamas su šiuo kontekstu: Kėdainiuose pasirašytas sąjungos su Švedija aktas nutraukė uniją su Lenkija."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Kėdainiuose pasirašytas sąjungos su Švedija aktas nutraukė uniją su Lenkija.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

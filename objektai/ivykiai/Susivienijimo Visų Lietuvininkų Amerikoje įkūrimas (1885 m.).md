@@ -37,16 +37,16 @@ Dr. Šliūpo rūpesčiu buvo įkurta pirmoji visus lietuvininkus Amerikoje vieni
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Dr. Šliūpo rūpesčiu buvo įkurta pirmoji visus lietuvininkus Amerikoje vienijanti organizacija."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Dr. Šliūpo rūpesčiu buvo įkurta pirmoji visus lietuvininkus Amerikoje vienijanti organizacija.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

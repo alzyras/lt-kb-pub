@@ -68,27 +68,27 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Pirmoji krašto privilegija“ siejamas su šiuo kontekstu: Tekstas kalba apie rašytinį privilegijos dokumentą, kuriuo po krikšto nustatytos Bažnyčios, dvasininkų ir apsikrikštijusių bajorų teisės."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Pirmoji krašto privilegija“ siejamas su šiuo kontekstu: po krikšto tekste įvardijama Jogailos duota pirmoji Lietuvos Bažnyčiai privilegija, aiškinama kaip raštas arba įstatymas, nusakantis Bažnyčios ir dvasininkų teises."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-003
+- t-003
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Pirmoji krašto privilegija“ siejamas su šiuo kontekstu: Tekste ši privilegija siejama su Ponų tarybos įgalinimu ir valdovo savivalės ribojimu."
   pagrindžia:
-    - q-003
+    - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tekstas kalba apie rašytinį privilegijos dokumentą, kuriuo po krikšto nustatytos Bažnyčios, dvasininkų ir apsikrikštijusių bajorų teisės.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -102,7 +102,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: po krikšto tekste įvardijama Jogailos duota pirmoji Lietuvos Bažnyčiai privilegija, aiškinama kaip raštas arba įstatymas, nusakantis Bažnyčios ir dvasininkų teises.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -118,7 +118,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai pateikia šaltinio pavadinimą, bibliografinį įrašą arba aprašomą kontekstą."
   pagrindžia:
     - t-002
-- id: q-003
+- c-003
   santrauka: Tekste ši privilegija siejama su Ponų tarybos įgalinimu ir valdovo savivalės ribojimu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

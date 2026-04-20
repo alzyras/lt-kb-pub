@@ -43,15 +43,15 @@ patikimumas: "aukstas"
 - Minima kaip lietuvių sklaidos regionas greta Šiaurės Amerikos. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Pietų Amerika“ siejama su šiuo kontekstu: Minima kaip lietuvių sklaidos regionas greta Šiaurės Amerikos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minima kaip lietuvių sklaidos regionas greta Šiaurės Amerikos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

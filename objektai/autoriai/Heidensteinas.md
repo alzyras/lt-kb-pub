@@ -35,18 +35,18 @@ patikimumas: "vidutinis"
 - Heidensteino kelionės aprašymas. (t-001)
 
 ## Kontekstas
-- Paveikslo antraštėje Heidensteinas tiesiogiai siejamas su kelionės aprašymu; tai pakanka autoriaus kandidatui, nors pats kūrinio pavadinimas čia neišskleistas. (q-001)
+- Paveikslo antraštėje Heidensteinas tiesiogiai siejamas su kelionės aprašymu; tai pakanka autoriaus kandidatui, nors pats kūrinio pavadinimas čia neišskleistas. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Heidensteinas minimas kaip autorius, siejamas su: Heidensteino kelionės aprašymas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje Heidensteinas minimas kaip autorius, siejamas su: Heidensteino kelionės aprašymas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

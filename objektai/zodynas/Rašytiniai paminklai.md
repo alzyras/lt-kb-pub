@@ -48,15 +48,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: istorijos šaltinių klasifikacija, archyvai. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Rašytiniai paminklai“ vartojama taip: Rašytiniai dokumentai, kronikos, nuorašai ir kiti istoriniai tekstai."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Istorijos šaltinių klasifikacijoje taip vadinami rašytiniai istorijos liudijimai, kurie saugomi atskirai nuo kitų rūšių medžiagos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

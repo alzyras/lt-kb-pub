@@ -26,15 +26,15 @@ patikimumas: "vidutinis"
 Šaltinyje T. Reitanas apibūdinamas taip: Paveikslo antraštėje nurodytas kaip Naugarduko atstovas, neleidžiantis atstovams išeiti iš salės.
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje T. Reitanas apibūdinamas taip: Paveikslo antraštėje nurodytas kaip Naugarduko atstovas, neleidžiantis atstovams išeiti iš salės."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Paveikslo antraštėje nurodytas kaip Naugarduko atstovas, neleidžiantis atstovams išeiti iš salės.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

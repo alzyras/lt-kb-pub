@@ -43,16 +43,16 @@ Po Vorutos apgulos Mindaugas sutiko krikštytis, 1250 m. pabaigoje buvo pakrikš
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Po Vorutos apgulos Mindaugas sutiko krikštytis, 1250 m. pabaigoje buvo pakrikštytas, o 1253 m. karūnuotas karaliumi."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Po Vorutos apgulos Mindaugas sutiko krikštytis, 1250 m. pabaigoje buvo pakrikštytas, o 1253 m. karūnuotas karaliumi.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

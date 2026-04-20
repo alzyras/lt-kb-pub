@@ -53,16 +53,16 @@ patikimumas: "aukstas"
 - kaip atliekama: lietuviškais vakarais (su vaidinimais, dainomis ir tautiškais žaidimais); darė susirinkimus, ruošė lietuviškus vaidinimus (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Lietuviški vakarai ir vaidinimai“ siejama su formuluote: lietuviškais vakarais (su vaidinimais, dainomis ir tautiškais žaidimais); darė susirinkimus, ruošė lietuviškus vaidinimus. Šaltinio kontekste nurodoma: kas atlieka: Latvijos lietuviai; kada atliekama: po 1905 m. revoliucijos; tautiškojo sąjūdžio stiprėjimo metu; XIX a. pabaigoje, kai Lietuvoje lietuviškas veikimas buvo persekiojamas."
   pagrindžia:
-    - q-001
-    - q-002
+    - c-001
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinis lietuviškus vakarus mini kaip vieną iš viešųjų ir slaptųjų draugijų bei savų mokyklų naudojamų būdų kelti kalbos ir tautos meilę.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -82,7 +82,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia šiame įraše nurodytą praktiką arba jos kontekstą."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Šaltinis rodo, kad Latvijos lietuviai viešai telkėsi į draugijas, rengė susirinkimus ir lietuviškus vaidinimus kaip lietuviško veikimo formą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

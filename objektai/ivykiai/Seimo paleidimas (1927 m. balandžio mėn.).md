@@ -37,16 +37,16 @@ Po konflikto su seimu krikščioniškosios grupės atšaukė savo atstovus iš k
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Po konflikto su seimu krikščioniškosios grupės atšaukė savo atstovus iš kabineto, ir seimas buvo paleistas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Po konflikto su seimu krikščioniškosios grupės atšaukė savo atstovus iš kabineto, ir seimas buvo paleistas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

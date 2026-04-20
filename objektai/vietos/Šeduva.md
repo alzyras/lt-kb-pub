@@ -41,15 +41,15 @@ patikimumas: "aukstas"
 - Minima tarp jėzuitų mažesnių mokyklų vietų. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Šeduva“ siejama su šiuo kontekstu: Minima tarp jėzuitų mažesnių mokyklų vietų."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minima tarp jėzuitų mažesnių mokyklų vietų.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

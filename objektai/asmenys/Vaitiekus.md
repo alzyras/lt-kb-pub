@@ -42,15 +42,15 @@ patikimumas: "aukstas"
 - date_end: 
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Vaitiekus apibūdinamas taip: Aprašomas kaip Prahos vyskupas ir pirmasis žinomas aisčių apaštalas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Aprašomas kaip Prahos vyskupas ir pirmasis žinomas aisčių apaštalas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

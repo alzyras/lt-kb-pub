@@ -26,15 +26,15 @@ patikimumas: "aukstas"
 Šaltinyje Liudvikas XV apibūdinamas taip: Minimas kaip asmuo, vedęs Leščinskio dukterį.
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Liudvikas XV apibūdinamas taip: Minimas kaip asmuo, vedęs Leščinskio dukterį."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip asmuo, vedęs Leščinskio dukterį.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -40,15 +40,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: pareigą nuolat kariauti su Kristaus vardo priešais (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Kryžiuočių ordino brolių viso gyvenimo įžadas“ siejama su formuluote: pareigą nuolat kariauti su Kristaus vardo priešais. Šaltinio kontekste nurodoma: kas atlieka: ordino broliai — riteriai; kada atliekama: visam gyvenimui."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekstas ordino vidinę pareigą pateikia kaip įžadą, kurį riteriai turėjo prisiimti visam gyvenimui; tai primena ritualizuotą narystės ir karo įsipareigojimą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

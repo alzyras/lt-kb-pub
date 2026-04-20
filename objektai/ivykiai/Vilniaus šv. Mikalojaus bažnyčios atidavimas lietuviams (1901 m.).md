@@ -37,16 +37,16 @@ Po ilgų prašymų lietuviams Vilniuje buvo atiduota šv. Mikalojaus bažnyčia,
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Po ilgų prašymų lietuviams Vilniuje buvo atiduota šv. Mikalojaus bažnyčia, tapusi svarbia lietuviškų pamaldų vieta."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Po ilgų prašymų lietuviams Vilniuje buvo atiduota šv. Mikalojaus bažnyčia, tapusi svarbia lietuviškų pamaldų vieta.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

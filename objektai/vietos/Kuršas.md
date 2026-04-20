@@ -41,15 +41,15 @@ patikimumas: "aukstas"
 - Minimas kaip žemaičių ir ordino kovų erdvė prie Durbės mūšio. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Kuršas“ siejama su šiuo kontekstu: Minimas kaip žemaičių ir ordino kovų erdvė prie Durbės mūšio."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip žemaičių ir ordino kovų erdvė prie Durbės mūšio.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

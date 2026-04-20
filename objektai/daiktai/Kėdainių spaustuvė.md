@@ -51,21 +51,21 @@ patikimumas: "aukstas"
 Šaltinyje „Kėdainių spaustuvė“ spaustuvė siejama su Kėdainiais ir Jonušu Radvila; ji buvo skirta lietuviškoms ir religinėms knygoms spausdinti.
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Kėdainių spaustuvė“ spaustuvė siejama su Kėdainiais ir Jonušu Radvila; ji buvo skirta lietuviškoms ir religinėms knygoms spausdinti."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje „Kėdainių spaustuvė“ siejamas su šiuo kontekstu: Šaltinis pačios spaustuvės oficialiai neįvardija, todėl kanoninis pavadinimas suformuotas iš Kėdainių konteksto."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekste spaustuvė siejama su Kėdainiais ir Jonušu Radvila; ji buvo skirta lietuviškoms ir religinėms knygoms spausdinti.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -79,7 +79,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo daiktą šaltinyje."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Šaltinis pačios spaustuvės oficialiai neįvardija, todėl kanoninis pavadinimas suformuotas iš Kėdainių konteksto.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

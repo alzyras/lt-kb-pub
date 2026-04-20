@@ -37,16 +37,16 @@ Betcheriui ir dviem seimelio nariams nuvykus į Berlyną tartis su Vokietijos vy
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Betcheriui ir dviem seimelio nariams nuvykus į Berlyną tartis su Vokietijos vyriausybe, gubernatorius pirmą kartą atleido direktoriją be seimelio sutikimo."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Betcheriui ir dviem seimelio nariams nuvykus į Berlyną tartis su Vokietijos vyriausybe, gubernatorius pirmą kartą atleido direktoriją be seimelio sutikimo.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

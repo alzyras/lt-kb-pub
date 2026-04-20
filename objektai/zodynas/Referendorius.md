@@ -53,15 +53,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: valstybės administracija, urėdai. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Referendorius“ vartojama taip: Valstybės pareigūnas arba urėdas, susijęs su teikimu ir sprendimų rengimu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekste tai Lietuvos urėdai, vėliau sulyginti su lenkiškais referendoriais.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

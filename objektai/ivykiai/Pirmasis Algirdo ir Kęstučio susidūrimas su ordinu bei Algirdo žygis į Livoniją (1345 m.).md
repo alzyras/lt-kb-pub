@@ -42,16 +42,16 @@ Po Jaunučio pašalinimo Algirdas ir Kęstutis pirmą kartą susiduria su ordinu
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Po Jaunučio pašalinimo Algirdas ir Kęstutis pirmą kartą susiduria su ordinu, o Algirdas tuo pat metu nusiaubia Livoniją ir apsupa Rygą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Po Jaunučio pašalinimo Algirdas ir Kęstutis pirmą kartą susiduria su ordinu, o Algirdas tuo pat metu nusiaubia Livoniją ir apsupa Rygą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

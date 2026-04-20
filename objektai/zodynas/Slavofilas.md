@@ -51,15 +51,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: ideologija, rusinimo politika. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Slavofilas“ vartojama taip: rusų srovės atstovas, pabrėžiantis Lietuvos žemių rusiškumą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: rusų ideologinė srovė teigė, kad Lietuvos valstybė buvusi rusiška.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

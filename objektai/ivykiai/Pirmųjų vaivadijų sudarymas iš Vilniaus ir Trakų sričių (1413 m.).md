@@ -37,16 +37,16 @@ Vytauto valdomos Vilniaus ir Trakų sritys padalijamos į dvi pirmąsias vaivadi
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Vytauto valdomos Vilniaus ir Trakų sritys padalijamos į dvi pirmąsias vaivadijas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Vytauto valdomos Vilniaus ir Trakų sritys padalijamos į dvi pirmąsias vaivadijas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

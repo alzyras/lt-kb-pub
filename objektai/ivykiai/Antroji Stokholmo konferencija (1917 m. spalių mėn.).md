@@ -38,16 +38,16 @@ Stokholmo konferencija pritarė Vilniaus konferencijos programai ir pripažino L
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Stokholmo konferencija pritarė Vilniaus konferencijos programai ir pripažino Lietuvos Tarybą visos tautos atstovybe."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Stokholmo konferencija pritarė Vilniaus konferencijos programai ir pripažino Lietuvos Tarybą visos tautos atstovybe.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

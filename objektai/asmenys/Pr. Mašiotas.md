@@ -30,15 +30,15 @@ patikimumas: "aukstas"
 - Pr. Mašioto
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Pr. Mašiotas apibūdinamas taip: Minimas kaip vienas iš trijų pasižymėjusių vyrų, sušaukusių suvažiavimą Voroneže."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip vienas iš trijų pasižymėjusių vyrų, sušaukusių suvažiavimą Voroneže.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

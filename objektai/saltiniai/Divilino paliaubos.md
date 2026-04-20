@@ -48,16 +48,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Divilino paliaubos“ siejamas su šiuo kontekstu: Vladislovas žygiavo į Maskvą, bet prie Maskvos buvo sudarytos Divilino paliaubos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Vladislovas žygiavo į Maskvą, bet prie Maskvos buvo sudarytos Divilino paliaubos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

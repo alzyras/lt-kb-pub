@@ -49,15 +49,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: numizmatika, pinigų istorija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Trečiokas“ vartojama taip: trijų skatikų vertės moneta."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Pinigo pavadinimas, aiškiai siejamas su trijų skatikų verte.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

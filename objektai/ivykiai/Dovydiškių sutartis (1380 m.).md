@@ -42,16 +42,16 @@ Jogaila slapta sudaro naują sutartį su ordinu, ji pasirašoma medžioklėje ir
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Jogaila slapta sudaro naują sutartį su ordinu, ji pasirašoma medžioklėje ir nuo pasirašymo vietos vadinama Dovydiškių sutartimi."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Jogaila slapta sudaro naują sutartį su ordinu, ji pasirašoma medžioklėje ir nuo pasirašymo vietos vadinama Dovydiškių sutartimi.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

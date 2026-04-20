@@ -32,18 +32,18 @@ patikimumas: "vidutinis"
 - Minimas kaip žmogus, išleidęs Donelaičio raštus ir dainų rinkinį. (t-001)
 
 ## Kontekstas
-- Tekstas tiesiogiai sieja Rėzą su Donelaičio raštų ir dainų rinkinio leidimu. (q-001)
+- Tekstas tiesiogiai sieja Rėzą su Donelaičio raštų ir dainų rinkinio leidimu. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Rėza autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip žmogus, išleidęs Donelaičio raštus ir dainų rinkinį."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip žmogus, išleidęs Donelaičio raštus ir dainų rinkinį.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

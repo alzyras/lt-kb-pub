@@ -29,16 +29,16 @@ Vytautas sušaukė savo valstybės pravoslavų atstovų suvažiavimą Naugarduke
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Vytautas sušaukė savo valstybės pravoslavų atstovų suvažiavimą Naugarduke; jame nutraukti ryšiai su Fotijumi ir Kijevo metropolitu išrinktas Cemblakas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Vytautas sušaukė savo valstybės pravoslavų atstovų suvažiavimą Naugarduke; jame nutraukti ryšiai su Fotijumi ir Kijevo metropolitu išrinktas Cemblakas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

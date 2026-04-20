@@ -46,15 +46,15 @@ patikimumas: "vidutinis"
 Bažnytinis daiktas, šaltinyje paminėtas Kęstaičių bažnyčios uždarymo smurto kontekste. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinis mini, kad uždarant Kęstaičių bažnyčią žandarai su kazokais išgriovė bažnyčios altorius."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata išvardija altorius tarp nuniokotų bažnytinių daiktų.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

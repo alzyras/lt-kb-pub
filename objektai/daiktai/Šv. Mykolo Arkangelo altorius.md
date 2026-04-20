@@ -49,15 +49,15 @@ patikimumas: "aukstas"
 Šaltinyje „Šv. Mykolo Arkangelo altorius“ siejamas su šiuo kontekstu: Altorius čia minimas kaip kapo vietos orientyras ir kaip per gaisrą žuvęs bažnytinis daiktas.
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Šv. Mykolo Arkangelo altorius“ siejamas su šiuo kontekstu: Altorius čia minimas kaip kapo vietos orientyras ir kaip per gaisrą žuvęs bažnytinis daiktas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Altorius čia minimas kaip kapo vietos orientyras ir kaip per gaisrą žuvęs bažnytinis daiktas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

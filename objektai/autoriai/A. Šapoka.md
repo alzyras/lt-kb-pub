@@ -36,25 +36,25 @@ patikimumas: "aukštas"
 - Prefacijoje nurodoma, kad jam teko tęsinys iki nepriklausomosios valstybės galo ir buvo patikėtas dalių suderinimas. (t-002)
 
 ## Kontekstas
-- Antraštinis įrašas tiesiogiai nurodo A. Šapoką kaip redaktorių. (q-001)
-- Prefacijos pirmuoju asmeniu parašyta ištrauka susieja A. Šapoką su konkrečia vadovėlio dalimi ir redakciniu suvienodinimu. (q-002)
+- Antraštinis įrašas tiesiogiai nurodo A. Šapoką kaip redaktorių. (c-001)
+- Prefacijos pirmuoju asmeniu parašyta ištrauka susieja A. Šapoką su konkrečia vadovėlio dalimi ir redakciniu suvienodinimu. (c-002)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje A. Šapoka autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Antraštėje nurodytas kaip leidinio redaktorius."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Prefacijoje A. Šapoka siejamas su veikalo tęsiniu iki nepriklausomosios valstybės galo ir su skirtingų dalių suderinimu bei surišimu."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Antraštėje nurodytas kaip leidinio redaktorius.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -72,7 +72,7 @@ patikimumas: "aukštas"
   patikimumo_pagrindimas: "Antraštinis įrašas tiesiogiai nurodo A. Šapoką kaip redaktorių."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Prefacijoje A. Šapoka nurodo savo rašytą veikalo dalį ir jam patikėtą redakcinį suvienodinimą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

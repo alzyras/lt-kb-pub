@@ -37,16 +37,16 @@ Vilniaus jėzuitai paprašė leisti įkurti akademiją, karalius davė privilegi
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Vilniaus jėzuitai paprašė leisti įkurti akademiją, karalius davė privilegijos raštą, o vėliau akademijos įkūrimą patvirtino popiežius."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Vilniaus jėzuitai paprašė leisti įkurti akademiją, karalius davė privilegijos raštą, o vėliau akademijos įkūrimą patvirtino popiežius.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

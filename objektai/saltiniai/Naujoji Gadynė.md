@@ -44,16 +44,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Naujoji Gadynė“ siejamas su šiuo kontekstu: Tekste šis leidinys minimas tarp 1906 m. pradėjusių eiti lietuviškų laikraščių."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tekste šis leidinys minimas tarp 1906 m. pradėjusių eiti lietuviškų laikraščių.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

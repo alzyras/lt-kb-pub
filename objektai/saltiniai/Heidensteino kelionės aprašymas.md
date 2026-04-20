@@ -44,16 +44,16 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Heidensteino kelionės aprašymas“ pateikiamas kaip bibliografinis arba turinio sąrašo paminėjimas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Bibliografiniai įrodymai
 
-- id: q-001
+- c-001
   santrauka: raižinio antraštėje minimas veikalas, prie kurio šis raižinys buvo pridėtas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

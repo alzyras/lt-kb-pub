@@ -55,16 +55,16 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: politinė istorija, viduramžių valstybės sandara; feodalinė sandara, politinė istorija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Sritinė kunigaikštystė“ vartojama taip: Valdymo sistema, paremta atskiromis kunigaikštystėmis ir jų valdovais; Vietinė paveldima kunigaikštystė valstybės viduje."
   pagrindžia:
-    - q-001
-    - q-002
+    - c-001
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Taip įvardijama valstybės valdymo tvarka, kai kraštas sudarytas iš daugelio kunigaikštysčių.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -77,7 +77,7 @@ Terminas šaltinyje vartojamas šiame kontekste: politinė istorija, viduramži�
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia termino vartoseną arba aiškinimą šaltinyje."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Terminas vartojamas kunigaikščių valdoms, kurias centralizuojanti valdžia naikino, įvardyti.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

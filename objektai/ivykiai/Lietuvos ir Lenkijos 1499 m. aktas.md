@@ -38,16 +38,16 @@ Lietuva ir Lenkija sudarė naują susitarimą, kuriuo patvirtino sąjungą ir su
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Lietuva ir Lenkija sudarė naują susitarimą, kuriuo patvirtino sąjungą ir suvaržė valdovo rinkimą be antrosios valstybės žinios."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Lietuva ir Lenkija sudarė naują susitarimą, kuriuo patvirtino sąjungą ir suvaržė valdovo rinkimą be antrosios valstybės žinios.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

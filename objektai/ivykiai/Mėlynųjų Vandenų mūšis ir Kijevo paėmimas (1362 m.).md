@@ -44,16 +44,16 @@ Algirdas surengia žygį į pietines rusų sritis, sumuša totorius ties Mėlyna
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Algirdas surengia žygį į pietines rusų sritis, sumuša totorius ties Mėlynaisiais Vandenimis ir paima Kijevą į savo valdžią."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Algirdas surengia žygį į pietines rusų sritis, sumuša totorius ties Mėlynaisiais Vandenimis ir paima Kijevą į savo valdžią.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

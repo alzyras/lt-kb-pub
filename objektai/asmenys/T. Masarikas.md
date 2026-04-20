@@ -30,15 +30,15 @@ patikimumas: "aukstas"
 - T. Masariko
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje T. Masarikas apibūdinamas taip: Minimas kaip pirmasis Čekoslovakų prezidentas, kurio įkurta sąjunga siejama su pavergtų tautų laisvės reikalavimu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip pirmasis Čekoslovakų prezidentas, kurio įkurta sąjunga siejama su pavergtų tautų laisvės reikalavimu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -44,15 +44,15 @@ Nusakoma, kad anapus Nemuno likusios aisčių giminės pateko į ilgametę paver
 Tai ryški, retoriškai sustiprinta pavergimo formuluotė. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje užfiksuota formuluotė „Amžinoje vokiečių vergovėje“; kontekstas: Nusakoma, kad anapus Nemuno likusios aisčių giminės pateko į ilgametę pavergtą padėtį."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

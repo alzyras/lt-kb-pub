@@ -47,15 +47,15 @@ patikimumas: "aukstas"
 Grabas, šaltinyje aprašytas kaip padirbdintas Vytauto kaulams sudėti ir saugomas Vilniaus Lietuvių Mokslo Draugijoje. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinis teigia, kad D. Malinauskas padirbdino puikų grabą Vytauto kaulams sudėti, bet lenkai jo nepriėmė į katedrą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata apibūdina grabo paskirtį, pagaminimą ir saugojimo vietą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

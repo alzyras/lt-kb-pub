@@ -46,15 +46,15 @@ patikimumas: "aukstas"
 - Minima kaip apskritis, kuriai priklausė Kalvių parapija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Trakų apskritis“ siejama su šiuo kontekstu: Minima kaip apskritis, kuriai priklausė Kalvių parapija."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minima kaip apskritis, kuriai priklausė Kalvių parapija.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -37,16 +37,16 @@ Sao Paule jau buvo suorganizuota lietuviškoji parapija ir pastatyta bažnyčia,
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Sao Paule jau buvo suorganizuota lietuviškoji parapija ir pastatyta bažnyčia, kuri buvo pašventinta 1936 m. vasario 16 d."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Sao Paule jau buvo suorganizuota lietuviškoji parapija ir pastatyta bažnyčia, kuri buvo pašventinta 1936 m. vasario 16 d.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

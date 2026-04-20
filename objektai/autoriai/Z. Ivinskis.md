@@ -32,18 +32,18 @@ patikimumas: "vidutinis"
 - Įvardytas kaip kito laikotarpio autorius. (t-001)
 
 ## Kontekstas
-- Tekste pateiktas jo vardas ir aiški paskirta temos dalis. (q-001)
+- Tekste pateiktas jo vardas ir aiški paskirta temos dalis. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Z. Ivinskis autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Įvardytas kaip kito laikotarpio autorius."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Įvardytas kaip kito laikotarpio autorius.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

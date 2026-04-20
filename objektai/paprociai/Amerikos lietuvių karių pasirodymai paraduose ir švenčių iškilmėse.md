@@ -40,15 +40,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: pasirodydavo įvairiuose paraduose ir švenčių iškilmėse (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Amerikos lietuvių karių pasirodymai paraduose ir švenčių iškilmėse“ siejama su formuluote: pasirodydavo įvairiuose paraduose ir švenčių iškilmėse. Šaltinio kontekste nurodoma: kas atlieka: Amerikos lietuviai, organizavę savo kariuomenę; kada atliekama: prieš keletą dešimčių metų."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinis aprašo organizuotos lietuvių kariuomenės viešus pasirodymus per paradus ir šventines iškilmes.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

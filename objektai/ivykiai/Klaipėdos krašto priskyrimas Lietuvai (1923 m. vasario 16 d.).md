@@ -37,16 +37,16 @@ Didžiosios valstybės nutarė priskirti Klaipėdos kraštą Lietuvai su autonom
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Didžiosios valstybės nutarė priskirti Klaipėdos kraštą Lietuvai su autonominiu režimu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Didžiosios valstybės nutarė priskirti Klaipėdos kraštą Lietuvai su autonominiu režimu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

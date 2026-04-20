@@ -37,16 +37,16 @@ Caras, atsakydamas į Augusto II bandymus susitarti su Austrija ir Anglija, pada
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Caras, atsakydamas į Augusto II bandymus susitarti su Austrija ir Anglija, padarė su Prūsija sutartį kartu prižiūrėti Respublikos vidaus reikalus."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Caras, atsakydamas į Augusto II bandymus susitarti su Austrija ir Anglija, padarė su Prūsija sutartį kartu prižiūrėti Respublikos vidaus reikalus.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

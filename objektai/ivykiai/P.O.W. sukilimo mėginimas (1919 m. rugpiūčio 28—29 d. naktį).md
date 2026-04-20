@@ -39,16 +39,16 @@ Lenkų karinė organizacija Lietuvoje ruošė sukilimą, bet jis buvo išaiškin
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Lenkų karinė organizacija Lietuvoje ruošė sukilimą, bet jis buvo išaiškintas ir neįvyko."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Lenkų karinė organizacija Lietuvoje ruošė sukilimą, bet jis buvo išaiškintas ir neįvyko.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

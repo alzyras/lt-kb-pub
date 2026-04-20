@@ -39,15 +39,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: Susivienijimas daro kongresus (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Susivienijimo kongresų rengimas“ siejama su formuluote: Susivienijimas daro kongresus. Šaltinio kontekste nurodoma: kas atlieka: Susivienijimas Lietuvių Rymo Katalikų Amerikoje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinis įvardija kongresų rengimą kaip vieną iš Susivienijimo veiklos formų.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

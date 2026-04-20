@@ -33,18 +33,18 @@ patikimumas: "vidutinis"
 - Minimas kaip lietuviškos gramatikos autorius, siūlęs ją išspausdinti. (t-001)
 
 ## Kontekstas
-- Tekstas tiesiogiai įvardija jį vardu ir pavarde, o veiksmą sieja su 1864 m. gramatikos pasiūlymu. (q-001)
+- Tekstas tiesiogiai įvardija jį vardu ir pavarde, o veiksmą sieja su 1864 m. gramatikos pasiūlymu. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Jonas Juškevičius autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip lietuviškos gramatikos autorius, siūlęs ją išspausdinti."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip lietuviškos gramatikos autorius, siūlęs ją išspausdinti.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

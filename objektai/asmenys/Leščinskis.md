@@ -32,21 +32,21 @@ patikimumas: "aukstas"
 - St. Leščinskio
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Leščinskis apibūdinamas taip: Paminėtas kaip karaliaus rinkimų tema."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje Leščinskis apibūdinamas taip: Minimas kaip ištremtas karalius, kurio kandidatūrą rėmė Prancūzija."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Paminėtas kaip karaliaus rinkimų tema.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -59,7 +59,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Minimas kaip ištremtas karalius, kurio kandidatūrą rėmė Prancūzija.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

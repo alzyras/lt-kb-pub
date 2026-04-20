@@ -37,16 +37,16 @@ Antrojoje Lozanos konferencijoje nutarta politinės propagandos centrą perkelti
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Antrojoje Lozanos konferencijoje nutarta politinės propagandos centrą perkelti į Šveicariją ir telkti lietuvių tarybą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Antrojoje Lozanos konferencijoje nutarta politinės propagandos centrą perkelti į Šveicariją ir telkti lietuvių tarybą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

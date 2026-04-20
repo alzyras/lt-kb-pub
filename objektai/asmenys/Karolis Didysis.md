@@ -30,15 +30,15 @@ patikimumas: "aukstas"
 - Karolio Didžiojo
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Karolis Didysis apibūdinamas taip: Įvardytas kaip valdovas, kurio žvalgas pirmasis paminėjo lietuvių vardą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Įvardytas kaip valdovas, kurio žvalgas pirmasis paminėjo lietuvių vardą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -43,15 +43,15 @@ patikimumas: "aukstas"
 - date_end: 1640
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Motiejus Kazimieras Sarbievskis apibūdinamas taip: Minimas kaip Vilniaus ir Kražių jėzuitų mokyklų profesorius bei žymus poetas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip Vilniaus ir Kražių jėzuitų mokyklų profesorius bei žymus poetas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -45,40 +45,40 @@ patikimumas: "vidutinis"
 - Kitame pasakojimo fragmente T. Norbutas siejamas su pirmąja didžiule 9 tomų Lietuvos istorija. (t-004)
 
 ## Kontekstas
-- Bibliografinė eilutė tiesiogiai įvardija Narbuttą kaip veikalo autorių. (q-001)
-- Pasakojimo tekste T. Norbutas apibūdintas kaip Lydos bajoras, išspausdinęs 9 tomų veikalą. (q-002)
-- Iliustracijos užrašas pateikia vardo formą ir gyvenimo datas. (q-003)
-- Atskirame XIX a. pradžios kultūros kontekste T. Norbutas dar kartą siejamas su didžiule Lietuvos istorija. (q-004)
+- Bibliografinė eilutė tiesiogiai įvardija Narbuttą kaip veikalo autorių. (c-001)
+- Pasakojimo tekste T. Norbutas apibūdintas kaip Lydos bajoras, išspausdinęs 9 tomų veikalą. (c-002)
+- Iliustracijos užrašas pateikia vardo formą ir gyvenimo datas. (c-003)
+- Atskirame XIX a. pradžios kultūros kontekste T. Norbutas dar kartą siejamas su didžiule Lietuvos istorija. (c-004)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje T. Narbutt autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip Lietuvos istorijos autorius."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje T. Norbutas siejamas su 1835-1841 m. išspausdintu 9 tomų veikalu „Lietuvių tautos istorija“."
   pagrindžia:
-    - q-002
-    - q-004
+    - c-002
+    - c-004
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-003
+- t-003
   teiginys: "Iliustracijos užrašas pateikia Teodoro Norbuto 1784—1864 m. datas."
   pagrindžia:
-    - q-003
+    - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-004
+- t-004
   teiginys: "Šaltinyje T. Norbutas apibūdintas kaip pirmosios didžiulės 9 tomų Lietuvos istorijos autorius."
   pagrindžia:
-    - q-004
+    - c-004
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Bibliografijoje nurodytas kaip Lietuvos istorijos autorius.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -93,7 +93,7 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Bibliografinė eilutė tiesiogiai įvardija Narbuttą kaip veikalo autorių."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Pasakojimo tekste T. Norbutas siejamas su 9 tomų Lietuvos istorijos veikalu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -111,7 +111,7 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Šaltinis tiesiogiai susieja T. Norbuto vardą su veikalo leidimu, bet kartu pabrėžia autoriaus istoriko statuso ribotumą."
   pagrindžia:
     - t-002
-- id: q-003
+- c-003
   santrauka: Iliustracijos užrašas pateikia Teodoro Norbuto datas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -126,7 +126,7 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Užrašas tiesiogiai pateikia vardo formą ir datas."
   pagrindžia:
     - t-003
-- id: q-004
+- c-004
   santrauka: Pasakojime T. Norbutas siejamas su pirmąja didžiule 9 tomų Lietuvos istorija.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

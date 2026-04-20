@@ -52,15 +52,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Laikinoji Tautos Vyriausybė“ apibūdinama kaip sukilėlių vyriausybė; raudonųjų centro komitetas, pabėgėlių verčiamas, pasivadino Laikinąja Tautos Vyriausybe ir paskelbė sukilimą. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Laikinoji Tautos Vyriausybė“ apibūdinama kaip sukilėlių vyriausybė; raudonųjų centro komitetas, pabėgėlių verčiamas, pasivadino Laikinąja Tautos Vyriausybe ir paskelbė sukilimą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Raudonųjų centro komitetas, pabėgėlių verčiamas, pasivadino Laikinąja Tautos Vyriausybe ir paskelbė sukilimą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

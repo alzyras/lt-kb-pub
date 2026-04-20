@@ -38,16 +38,16 @@ Amerikos lietuviai pradėjo rinkti parašus už Lietuvos valstybės pripažinim�
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Amerikos lietuviai pradėjo rinkti parašus už Lietuvos valstybės pripažinimą, o 1921 m. prezidentui buvo įteiktos 138 parašų knygos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Amerikos lietuviai pradėjo rinkti parašus už Lietuvos valstybės pripažinimą, o 1921 m. prezidentui buvo įteiktos 138 parašų knygos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

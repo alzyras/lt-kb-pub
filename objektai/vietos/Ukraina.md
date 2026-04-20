@@ -43,27 +43,27 @@ patikimumas: "aukstas"
 - Minima kaip Karolio XII ir Mazepos žygio kryptis. (t-003)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Ukraina“ siejama su šiuo kontekstu: Minima kaip teritorija, kurią siaubė totorių puolimai."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje vieta „Ukraina“ siejama su šiuo kontekstu: Ukraina minima kaip Lenkijos pakraštys, viliojęs lenkus įsikurti Lietuvoje."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-003
+- t-003
   teiginys: "Šaltinyje vieta „Ukraina“ siejama su šiuo kontekstu: Minima kaip Karolio XII ir Mazepos žygio kryptis."
   pagrindžia:
-    - q-003
+    - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minima kaip teritorija, kurią siaubė totorių puolimai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -79,7 +79,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Ukraina minima kaip Lenkijos pakraštys, viliojęs lenkus įsikurti Lietuvoje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -97,7 +97,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-002
-- id: q-003
+- c-003
   santrauka: Minima kaip Karolio XII ir Mazepos žygio kryptis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

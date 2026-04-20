@@ -46,15 +46,15 @@ patikimumas: "aukstas"
 Ginklas, kuriuo šaltinyje apibūdinami 1863 m. sukilėliai. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinis medžioklinius šautuvus mini kaip vieną iš pagrindinių 1863 m. sukilėlių ginklų."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata nurodo sukilėlių ginkluotę ir tiesiogiai mini medžioklinius šautuvus.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

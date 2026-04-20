@@ -39,19 +39,19 @@ patikimumas: "vidutinis"
 - Autorystės vaidmuo šaltinyje įvardytas kaip rašytoja. (t-001)
 
 ## Kontekstas
-- Minima kaip valdovė, kuri kvietė rašytojus ir pati rašė; tame pačiame skyriuje nurodytas jos valdymo laikotarpis 1762—1796 m. (q-001)
+- Minima kaip valdovė, kuri kvietė rašytojus ir pati rašė; tame pačiame skyriuje nurodytas jos valdymo laikotarpis 1762—1796 m. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Kotryna II minimas kaip rašytoja."
   pagrindžia:
-    - q-001
-    - q-002
+    - c-001
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje Kotryna II minimas kaip rašytoja.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -70,7 +70,7 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Šaltinio fragmentas tiesiogiai susieja kandidatą su autorystės, redagavimo, vertimo, kronikininko ar bibliografinio autoriaus kontekstu."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Ištrauka tiesiogiai nurodo, kad Kotryna II pati rašė.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

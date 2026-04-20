@@ -37,16 +37,16 @@ Prūsai du kartus sukilo prieš vokiečius, daug kryžiuočių žuvo, o dalis or
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Prūsai du kartus sukilo prieš vokiečius, daug kryžiuočių žuvo, o dalis ordino pilių buvo sunaikinta."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Prūsai du kartus sukilo prieš vokiečius, daug kryžiuočių žuvo, o dalis ordino pilių buvo sunaikinta.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

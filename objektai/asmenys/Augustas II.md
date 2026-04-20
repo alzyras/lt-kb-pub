@@ -42,27 +42,27 @@ patikimumas: "aukstas"
 - date_end: 1733
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Augustas II apibūdinamas taip: Paminėtas kaip elekcijos ir valdžios laikotarpio tema."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje Augustas II apibūdinamas taip: Apibūdinamas kaip nerūpestingas ir palaidūniškas valdovas, kurio laikais valstybė dar labiau pakriko."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-003
+- t-003
   teiginys: "Šaltinyje Augustas II apibūdinamas taip: Minimas kaip valdovas, kurio laikais kalykla Lietuvoje veikė trumpai."
   pagrindžia:
-    - q-003
+    - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Paminėtas kaip elekcijos ir valdžios laikotarpio tema.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -75,7 +75,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Apibūdinamas kaip nerūpestingas ir palaidūniškas valdovas, kurio laikais valstybė dar labiau pakriko.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -91,7 +91,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
   pagrindžia:
     - t-002
-- id: q-003
+- c-003
   santrauka: Minimas kaip valdovas, kurio laikais kalykla Lietuvoje veikė trumpai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

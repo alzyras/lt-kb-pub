@@ -49,15 +49,15 @@ Lietuvių delegacija Varšuvos seime gina garbingas vietas ir lygiavertę Lietuv
 Lakoniška lygybės formulė, pabrėžianti Vilniaus ir Trakų rangą derybose su lenkais. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje užfiksuota formuluotė „Vilnius yra lygus su Krokuva, o Trakai — su Poznane“; kontekstas: Lietuvių delegacija Varšuvos seime gina garbingas vietas ir lygiavertę Lietuvos padėtį su Lenkijos centrais."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

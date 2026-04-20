@@ -43,15 +43,15 @@ patikimumas: "aukstas"
 - Minima kaip viena iš Lietuvos sričių, likusių neužimtų rusų žygio metu. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Brastos sritis“ siejama su šiuo kontekstu: Minima kaip viena iš Lietuvos sričių, likusių neužimtų rusų žygio metu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minima kaip viena iš Lietuvos sričių, likusių neužimtų rusų žygio metu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

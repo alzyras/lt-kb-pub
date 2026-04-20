@@ -37,16 +37,16 @@ Taryba pasirinko von Urachą kaip galimą Lietuvos karalių, pavadinant jį Mind
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Taryba pasirinko von Urachą kaip galimą Lietuvos karalių, pavadinant jį Mindaugu II."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Taryba pasirinko von Urachą kaip galimą Lietuvos karalių, pavadinant jį Mindaugu II.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

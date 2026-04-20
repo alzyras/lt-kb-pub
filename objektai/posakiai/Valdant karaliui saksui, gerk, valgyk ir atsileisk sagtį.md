@@ -46,15 +46,15 @@ patikimumas: "vidutinis"
 Ragina gerti, valgyti ir nevaržomai linksmai leisti laiką; tekste vartojama kaip nusakanti Saksų laikų nuotaiką formulė. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje užfiksuota formuluotė „Valdant karaliui saksui, gerk, valgyk ir atsileisk sagtį“; kontekstas: šis žinomas priežodis tekste siejamas su Augusto III laikų bajorijos puotavimu ir valstybės pakrikimu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

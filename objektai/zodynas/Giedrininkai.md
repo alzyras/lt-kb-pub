@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: katalikiško jaunimo organizacijų leksika, spaudos istorija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Giedrininkai“ vartojama taip: „Giedros“ organo nariai arba šio katalikiško moksleivių susivienijimo nariai."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Taip vadinti Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimo nariai pagal jų organą „Giedra“.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

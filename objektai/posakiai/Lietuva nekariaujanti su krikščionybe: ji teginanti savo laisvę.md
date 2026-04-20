@@ -49,15 +49,15 @@ Gedimino laiške popiežiui aiškinama, kad Lietuva nekariauja su krikščionybe
 Skamba kaip lakoniška politinė tezė apie laisvės gynimą ir santykį su krikščionybe. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje užfiksuota formuluotė „Lietuva nekariaujanti su krikščionybe: ji teginanti savo laisvę“; kontekstas: Gedimino laiške popiežiui aiškinama, kad Lietuva nekariauja su krikščionybe, o gina savo laisvę."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

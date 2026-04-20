@@ -46,15 +46,15 @@ patikimumas: "aukstas"
 - date_end: 1817
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Tadas Kosciuška apibūdinamas taip: Minimas kaip Amerikos nepriklausomybės kovų generolas, Jurgio Vašingtono draugas ir 1794 m. sukilimo vadas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip Amerikos nepriklausomybės kovų generolas, Jurgio Vašingtono draugas ir 1794 m. sukilimo vadas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

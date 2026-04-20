@@ -37,17 +37,17 @@ Rusija, pasibaigus karui su turkais, suorganizavo reformoms priešingą konfeder
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Rusija, pasibaigus karui su turkais, suorganizavo reformoms priešingą konfederaciją Targovicoje; netrukus Vilniuje atsirado tokia pat Lietuvos konfederacija."
   pagrindžia:
-    - q-001
-    - q-002
+    - c-001
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Citata pagrindžia įvykio „Targovicos konfederacija (1792—1793 m.)“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -67,7 +67,7 @@ Rusija, pasibaigus karui su turkais, suorganizavo reformoms priešingą konfeder
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia teiginį šaltinio tekste."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Citata pagrindžia įvykio „Targovicos konfederacija (1792—1793 m.)“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

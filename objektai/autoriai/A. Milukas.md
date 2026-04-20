@@ -37,18 +37,18 @@ patikimumas: "vidutinis"
 - Amerikos liet. kronika. (t-001)
 
 ## Kontekstas
-- Emigracijos bibliografijoje tiesiogiai siejamas su Amerikos lietuvių kronika. (q-001)
+- Emigracijos bibliografijoje tiesiogiai siejamas su Amerikos lietuvių kronika. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje A. Milukas minimas kaip autorius, siejamas su: Amerikos liet. kronika."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje A. Milukas minimas kaip autorius, siejamas su: Amerikos liet. kronika.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

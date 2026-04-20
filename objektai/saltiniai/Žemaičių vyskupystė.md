@@ -44,16 +44,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Žemaičių vyskupystė“ siejamas su šiuo kontekstu: Šaltinyje Valančiaus veikalas minimas kaip valdžiai pavojingas ir dėl to uždraustas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Šaltinyje Valančiaus veikalas minimas kaip valdžiai pavojingas ir dėl to uždraustas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

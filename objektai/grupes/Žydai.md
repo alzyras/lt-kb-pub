@@ -52,21 +52,21 @@ patikimumas: "aukstas"
 - Šaltinyje „Žydai“ siejama su šiuo kontekstu: Žydai šiame gabale aprašomi kaip viduramžių Europos pinigų skolintojai ir vietinės prekybos dalyviai; kartu nurodoma, kad Vytauto laikais Lietuvoje buvo tik trys jų bendruomenės. (t-002)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Žydai“ apibūdinama kaip tauta; žydai šiame gabale aprašomi kaip viduramžių Europos pinigų skolintojai ir vietinės prekybos dalyviai; kartu nurodoma, kad Vytauto laikais Lietuvoje buvo tik trys jų bendruomenės."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje „Žydai“ siejama su šiuo kontekstu: Žydai šiame gabale aprašomi kaip viduramžių Europos pinigų skolintojai ir vietinės prekybos dalyviai; kartu nurodoma, kad Vytauto laikais Lietuvoje buvo tik trys jų bendruomenės."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Žydai šiame gabale aprašomi kaip viduramžių Europos pinigų skolintojai ir vietinės prekybos dalyviai; kartu nurodoma, kad Vytauto laikais Lietuvoje buvo tik trys jų bendruomenės.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -83,7 +83,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Žydai šiame gabale aprašomi kaip viduramžių Europos pinigų skolintojai ir vietinės prekybos dalyviai; kartu nurodoma, kad Vytauto laikais Lietuvoje buvo tik trys jų bendruomenės.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

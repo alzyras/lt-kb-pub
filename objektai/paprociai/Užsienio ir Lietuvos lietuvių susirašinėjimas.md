@@ -48,15 +48,15 @@ patikimumas: "aukstas"
 - kaip atliekama: skatina susirašinėjimą tarp atskirų užsienio ir Lietuvos lietuvių (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Užsienio ir Lietuvos lietuvių susirašinėjimas“ siejama su formuluote: skatina susirašinėjimą tarp atskirų užsienio ir Lietuvos lietuvių. Šaltinio kontekste nurodoma: kas atlieka: užsienio ir Lietuvos lietuviai, ypač užsienio lietuviai moksleiviai; praktiką skatina DULR; kada atliekama: nuo 1932 m. ir vėliau."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: DULR tekste aprašo nuolatinį ryšių palaikymą tarp išeivių ir Lietuvos lietuvių, ypač per susirašinėjimą su moksleiviais.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

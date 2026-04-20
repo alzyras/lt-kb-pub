@@ -45,15 +45,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: apipildavo jį dovanomis (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Dovanų teikimas valdovui“ siejama su formuluote: apipildavo jį dovanomis. Šaltinio kontekste nurodoma: kas atlieka: pirkliai; kada atliekama: Vytauto laikais."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Pirkliai valdovą laikė savo globėju ir jam nuolat rodė palankumą dovanomis. Tekstas šią elgseną sieja su Vytauto laikais, todėl ji atrodo kaip aprašoma socialinė patronažo praktika.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -49,15 +49,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: bažnytinė hierarchija, Rytų krikščionybė. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Patriarchas“ vartojama taip: Aukščiausias Rytų Bažnyčios vadovas arba patriarchas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tai aukštas Rytų Bažnyčios dvasininko titulas, pas kurį vyko Cemblakas dėl patvirtinimo.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

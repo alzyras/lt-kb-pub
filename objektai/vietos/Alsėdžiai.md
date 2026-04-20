@@ -38,15 +38,15 @@ patikimumas: "aukstas"
 - Minimi kaip vyskupo Juozo Arnulfo Giedraičio rezidencija ir Žemaičių sąjūdžio centras. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Alsėdžiai“ siejama su šiuo kontekstu: Minimi kaip vyskupo Juozo Arnulfo Giedraičio rezidencija ir Žemaičių sąjūdžio centras."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimi kaip vyskupo Juozo Arnulfo Giedraičio rezidencija ir Žemaičių sąjūdžio centras.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

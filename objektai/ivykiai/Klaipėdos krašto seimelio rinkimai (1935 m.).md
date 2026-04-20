@@ -43,16 +43,16 @@ Prieš 1935 m. rinkimus Vokietijos vadovybė atvirai grasino Lietuvai, o toks sp
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Prieš 1935 m. rinkimus Vokietijos vadovybė atvirai grasino Lietuvai, o toks spaudimas padėjo vokiškiesiems sąrašams išlaikyti persvarą seimelyje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Prieš 1935 m. rinkimus Vokietijos vadovybė atvirai grasino Lietuvai, o toks spaudimas padėjo vokiškiesiems sąrašams išlaikyti persvarą seimelyje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

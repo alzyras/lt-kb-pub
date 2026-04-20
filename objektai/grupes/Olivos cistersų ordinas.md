@@ -42,15 +42,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Olivos cistersų ordinas“ apibūdinama kaip ordinas; kristijonas įvardijamas kaip šio ordino vienuolis, todėl ordinas čia tampa jo religinės priklausomybės identifikatoriumi. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Olivos cistersų ordinas“ apibūdinama kaip ordinas; kristijonas įvardijamas kaip šio ordino vienuolis, todėl ordinas čia tampa jo religinės priklausomybės identifikatoriumi."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Kristijonas įvardijamas kaip šio ordino vienuolis, todėl ordinas čia tampa jo religinės priklausomybės identifikatoriumi.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

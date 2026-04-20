@@ -52,15 +52,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: bažnytinė organizacija, Lietuvos krikščionėjimas. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Vilniaus vyskupystė“ vartojama taip: Vilniaus katalikų vyskupija, bažnytinės administracijos vienetas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Įkuriama tuoj po Lietuvos krikšto kaip būtina katalikų Bažnyčios organizacijos dalis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

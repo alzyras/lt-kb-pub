@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Šv. Kazimiero Draugija“ apibūdinama kaip draugija; kaune įkurta draugija knygoms ir laikraščiams leisti. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Šv. Kazimiero Draugija“ apibūdinama kaip draugija; kaune įkurta draugija knygoms ir laikraščiams leisti."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Kaune įkurta draugija knygoms ir laikraščiams leisti.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

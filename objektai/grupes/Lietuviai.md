@@ -42,15 +42,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Lietuviai“ apibūdinama kaip tauta; lietuviai aprašomi kaip Vytautą palaikanti krašto bendrija, kuri jį matė tautiškųjų reikalų gynėju ir priešinosi Jogailos atsivestiems lenkams. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Lietuviai“ apibūdinama kaip tauta; lietuviai aprašomi kaip Vytautą palaikanti krašto bendrija, kuri jį matė tautiškųjų reikalų gynėju ir priešinosi Jogailos atsivestiems lenkams."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Lietuviai aprašomi kaip Vytautą palaikanti krašto bendrija, kuri jį matė tautiškųjų reikalų gynėju ir priešinosi Jogailos atsivestiems lenkams.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -42,16 +42,16 @@ Lietuvos bajorijai išsiderėjus daugiau teisių, Zigmantas II patvirtino pirmą
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Lietuvos bajorijai išsiderėjus daugiau teisių, Zigmantas II patvirtino pirmąjį Lietuvos statutą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Lietuvos bajorijai išsiderėjus daugiau teisių, Zigmantas II patvirtino pirmąjį Lietuvos statutą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

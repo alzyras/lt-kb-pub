@@ -45,16 +45,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „pacta conventa (sutartis)“ siejamas su šiuo kontekstu: Tekste _pacta conventa_ minimi kaip Zigmanto Vazos įsipareigojimai, kuriuos jam prikišo politiniai priešai."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tekste _pacta conventa_ minimi kaip Zigmanto Vazos įsipareigojimai, kuriuos jam prikišo politiniai priešai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

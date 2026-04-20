@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Lietuvių Dailės Draugija“ apibūdinama kaip draugija; vilniuje įsikūrusi draugija, minima kartu su kitomis to paties švietimo sąjūdžio draugijomis. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Lietuvių Dailės Draugija“ apibūdinama kaip draugija; vilniuje įsikūrusi draugija, minima kartu su kitomis to paties švietimo sąjūdžio draugijomis."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Vilniuje įsikūrusi draugija, minima kartu su kitomis to paties švietimo sąjūdžio draugijomis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -41,15 +41,15 @@ patikimumas: "aukstas"
 - date_end: 1673
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Mykolas K. Višniaveckis apibūdinamas taip: Paminėtas kaip karaliaus ir jo elekcijos tema."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Paminėtas kaip karaliaus ir jo elekcijos tema.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

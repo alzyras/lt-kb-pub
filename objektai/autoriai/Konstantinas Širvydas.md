@@ -41,18 +41,18 @@ patikimumas: "vidutinis"
 - pamokslų rinkinys; lotyniškas lenkiškas lietuviškas žodynas; lietuvių kalbos gramatika. (t-001)
 
 ## Kontekstas
-- Minimas kaip jėzuitas, išleidęs pamokslų rinkinį ir parašęs lietuvių kalbos pagalbines knygas. (q-001)
+- Minimas kaip jėzuitas, išleidęs pamokslų rinkinį ir parašęs lietuvių kalbos pagalbines knygas. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Konstantinas Širvydas minimas kaip autorius, siejamas su: pamokslų rinkinys; lotyniškas lenkiškas lietuviškas žodynas; lietuvių kalbos gramatika."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje Konstantinas Širvydas minimas kaip autorius, siejamas su: pamokslų rinkinys; lotyniškas lenkiškas lietuviškas žodynas; lietuvių kalbos gramatika.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

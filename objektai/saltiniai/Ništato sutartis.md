@@ -44,16 +44,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Ništato sutartis“ siejamas su šiuo kontekstu: Ši sutartis minima kaip karo su Švedija padarinys, kuriuo Rusija įsitvirtino Livonijoje ir Estijoje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Ši sutartis minima kaip karo su Švedija padarinys, kuriuo Rusija įsitvirtino Livonijoje ir Estijoje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

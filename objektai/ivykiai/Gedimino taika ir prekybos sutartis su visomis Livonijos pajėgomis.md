@@ -38,16 +38,16 @@ Krikšto bylos pradžioje Gediminas sudaro taiką ir prekybos sutartį su Ryga, 
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Krikšto bylos pradžioje Gediminas sudaro taiką ir prekybos sutartį su Ryga, arkivyskupu ir ordinu, o po to vėl prašo taikos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Krikšto bylos pradžioje Gediminas sudaro taiką ir prekybos sutartį su Ryga, arkivyskupu ir ordinu, o po to vėl prašo taikos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

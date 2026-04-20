@@ -33,18 +33,18 @@ patikimumas: "vidutinis"
 - Baužos lietuvių kildinimo iš gerulių vertinimas.. (t-001)
 
 ## Kontekstas
-- Vilniaus universiteto istorijos profesorius, kuris aiškiai įvardytas kaip mokslininkas. (q-001)
+- Vilniaus universiteto istorijos profesorius, kuris aiškiai įvardytas kaip mokslininkas. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Lelevelis minimas kaip istorikas, profesorius, siejamas su: Baužos lietuvių kildinimo iš gerulių vertinimas.."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje Lelevelis minimas kaip istorikas, profesorius, siejamas su: Baužos lietuvių kildinimo iš gerulių vertinimas..
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

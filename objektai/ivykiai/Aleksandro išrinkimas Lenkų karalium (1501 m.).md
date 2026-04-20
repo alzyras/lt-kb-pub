@@ -37,16 +37,16 @@ Mirus Jonui Albrechtui, lenkai išsirinko Aleksandrą karalium, o lietuviai tam 
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Mirus Jonui Albrechtui, lenkai išsirinko Aleksandrą karalium, o lietuviai tam pritardami rūpinosi ir savo delegatais rėmė jo kandidatūrą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Mirus Jonui Albrechtui, lenkai išsirinko Aleksandrą karalium, o lietuviai tam pritardami rūpinosi ir savo delegatais rėmė jo kandidatūrą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

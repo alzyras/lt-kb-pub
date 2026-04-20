@@ -47,15 +47,15 @@ patikimumas: "aukstas"
 - Minimos kaip šalies prezidento Vilsono valstybė. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Jungtinės Amerikos Valstijos“ siejama su šiuo kontekstu: Minimos kaip šalies prezidento Vilsono valstybė."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimos kaip šalies prezidento Vilsono valstybė.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

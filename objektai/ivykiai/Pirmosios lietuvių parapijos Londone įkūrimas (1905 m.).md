@@ -37,16 +37,16 @@ Anglijoje 1905 m. buvo įkurta pirmoji lietuvių parapija Londone, o vėliau kit
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Anglijoje 1905 m. buvo įkurta pirmoji lietuvių parapija Londone, o vėliau kita atsirado Mosende Škotijoje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Anglijoje 1905 m. buvo įkurta pirmoji lietuvių parapija Londone, o vėliau kita atsirado Mosende Škotijoje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

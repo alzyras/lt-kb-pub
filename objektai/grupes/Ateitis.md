@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Ateitis“ apibūdinama kaip moksleivių organizacija; pirmoji lietuvių moksleivių organizacija, įsteigta 1911 m. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Ateitis“ apibūdinama kaip moksleivių organizacija; pirmoji lietuvių moksleivių organizacija, įsteigta 1911 m."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Pirmoji lietuvių moksleivių organizacija, įsteigta 1911 m.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

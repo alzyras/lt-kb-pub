@@ -75,37 +75,37 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Tanenbergo mūšis įvyko 1410 m. liepos 15 d. ordino žemėje tarp Tanenbergo ir Griunvaldo."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
-- id: t-002
+- t-002
   teiginys: "Šaltinyje Jogaila laikomas visų viršininku, o Vytautas vadinamas tikruoju mūšio vadu; lenkų kariuomenę rikiavo Zindramas iš Maškovičių."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
-- id: t-003
+- t-003
   teiginys: "Mūšio eigoje lietuviai pasitraukė ir vėliau grįžę užėjo kryžiuočiams iš šono; mūšio vietoje krito ordino magistras Ulrichas von Jungingenas."
   pagrindžia:
-    - q-003
+    - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
-- id: t-004
+- t-004
   teiginys: "Šaltinis Tanenbergo mūšio reikšmę apibūdina kaip ordino jėgų sunaikinimą ir jo galios silpnėjimo pradžią."
   pagrindžia:
-    - q-004
+    - c-004
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Citata pagrindžia mūšio datą, kariuomenių sujungimą ir vietą tarp Tanenbergo ir Griunvaldo.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -127,7 +127,7 @@ patikimumas: "aukstas"
   pagrindžia:
     - t-001
 
-- id: q-002
+- c-002
   santrauka: Citata pagrindžia Jogailos, Vytauto ir Zindramo vaidmenis prieš mūšį.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -150,7 +150,7 @@ patikimumas: "aukstas"
   pagrindžia:
     - t-002
 
-- id: q-003
+- c-003
   santrauka: Citata pagrindžia mūšio eigą ir Ulricho von Jungingeno žūtį.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -194,7 +194,7 @@ patikimumas: "aukstas"
   pagrindžia:
     - t-003
 
-- id: q-004
+- c-004
   santrauka: Citata pagrindžia mūšio reikšmę ordino galiai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -222,7 +222,7 @@ patikimumas: "aukstas"
 
 ## Šaltiniai ir įrodymai
 
-- [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]: q-001, q-002, q-003, q-004
+- [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]: c-001, c-002, c-003, c-004
 
 ## Pastabos
 

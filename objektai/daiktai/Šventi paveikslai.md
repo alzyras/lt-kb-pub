@@ -52,16 +52,16 @@ patikimumas: "vidutinis"
 Religiniai paveikslai, šaltinyje minimi bažnyčios gynimo ir demonstracijos kontekstuose. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinis paveikslus mini kaip bažnytinius daiktus, nuniokotus Kęstaičių bažnyčioje, ir kaip šventus paveikslus demonstracijos kontekste."
   pagrindžia:
-    - q-001
-    - q-002
+    - c-001
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata išvardija paveikslus tarp nuniokotų Kęstaičių bažnyčios daiktų.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -77,7 +77,7 @@ Religiniai paveikslai, šaltinyje minimi bažnyčios gynimo ir demonstracijos ko
   patikimumo_pagrindimas: "Citata tiesiogiai mini paveikslus kaip nuniokotus daiktus."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Citata mini šventus paveikslus 1905 m. minios žygyje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

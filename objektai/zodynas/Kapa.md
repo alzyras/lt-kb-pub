@@ -52,15 +52,15 @@ patikimumas: "vidutinis"
 Terminas šaltinyje vartojamas šiame kontekste: pinigai, istorinis skaičiavimas. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Kapa“ vartojama taip: Istorinis pinigų arba sumos skaičiavimo vienetas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Taikos sąlygomis nurodoma didelė karo išlaidų suma.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

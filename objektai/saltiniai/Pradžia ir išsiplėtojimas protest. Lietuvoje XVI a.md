@@ -49,16 +49,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Pradžia ir išsiplėtojimas protest. Lietuvoje XVI a“ pateikiamas kaip bibliografinis arba turinio sąrašo paminėjimas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Bibliografiniai įrodymai
 
-- id: q-001
+- c-001
   santrauka: Šaltinis šioje bibliografinėje apžvalgoje minimas skyriaus „XVI. Švietimas ir tikybiniai santykiai XVI amž“ sąraše.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

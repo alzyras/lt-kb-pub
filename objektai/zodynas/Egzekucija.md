@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: teisės istorija, žemėvalda, valstybės politika. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Egzekucija“ vartojama taip: Įstatymų vykdymo ir valstybės dvarų susigrąžinimo politika."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Terminas vartojamas Lenkų valstybės politikai susigrąžinti bajorų pasisavintas žemes ir vykdyti nuosavybės dokumentų patikrą įvardyti.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

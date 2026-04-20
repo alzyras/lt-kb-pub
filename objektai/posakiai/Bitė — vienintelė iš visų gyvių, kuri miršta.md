@@ -47,15 +47,15 @@ Aiškinant bičių reikšmę pateikiama vaizdinga mintis apie bitės ir žmogaus
 Tai aforistiška formuluotė, jungianti bičių gyvavimo ypatybę su žmogaus likimu ir bendrumo įvaizdžiu. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje užfiksuota formuluotė „Bitė — vienintelė iš visų gyvių, kuri miršta, kaip ir žmogus“; kontekstas: Aiškinant bičių reikšmę pateikiama vaizdinga mintis apie bitės ir žmogaus panašumą, o toliau šią mintį pratęsia žodis „bičiulystė“."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

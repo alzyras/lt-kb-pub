@@ -32,18 +32,18 @@ patikimumas: "vidutinis"
 - Minimas kaip veikalo apie P. O. W. veikimą Lietuvoje autorius. (t-001)
 
 ## Kontekstas
-- Tekstas tiesiogiai pateikia pavardę bibliografinėje eilutėje ir susieja ją su konkrečiu veikalu. (q-001)
+- Tekstas tiesiogiai pateikia pavardę bibliografinėje eilutėje ir susieja ją su konkrečiu veikalu. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Šniukšta autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip veikalo apie P. O. W. veikimą Lietuvoje autorius."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip veikalo apie P. O. W. veikimą Lietuvoje autorius.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

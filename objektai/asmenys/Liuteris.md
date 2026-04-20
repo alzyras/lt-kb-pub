@@ -30,15 +30,15 @@ patikimumas: "vidutinis"
 - Liuterio
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Liuteris apibūdinamas taip: Pataria Albrechtui Hohencolernui atsisakyti vienuolio apdaro; jo mokslas minimas kaip plitęs ordino valstybėje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Pataria Albrechtui Hohencolernui atsisakyti vienuolio apdaro; jo mokslas minimas kaip plitęs ordino valstybėje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

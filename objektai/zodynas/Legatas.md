@@ -54,15 +54,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: bažnytinė diplomatija, viduramžių pasiuntinybė. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Legatas“ vartojama taip: Popiežiaus pasiuntinys, tarpininkas ar derybininkas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Popiežiaus pasiuntiniai atvyksta į Rygą ir Vilnių aiškintis dėl Gedimino krikšto.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

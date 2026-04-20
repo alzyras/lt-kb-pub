@@ -32,18 +32,18 @@ patikimumas: "vidutinis"
 - Minimas kaip vokiečių autoritetas, susižavėjęs lietuvių liaudies dainomis. (t-001)
 
 ## Kontekstas
-- Tekstas tiesiogiai jį įvardija vardu ir pateikia kaip vokiečių autoritetą. (q-001)
+- Tekstas tiesiogiai jį įvardija vardu ir pateikia kaip vokiečių autoritetą. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Lesingas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip vokiečių autoritetas, susižavėjęs lietuvių liaudies dainomis."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip vokiečių autoritetas, susižavėjęs lietuvių liaudies dainomis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

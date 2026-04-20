@@ -40,15 +40,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: valdovai vienas kitą vadindavo broliu (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Valdovų tarpusavio vadinimas broliu“ siejama su formuluote: valdovai vienas kitą vadindavo broliu. Šaltinio kontekste nurodoma: kas atlieka: valdovai; kada atliekama: valdovams bendraujant tarpusavyje; pavyzdyje minimas laiškas tarp valdovų."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekstas nurodo nusistovėjusį valdovų diplomatinį kreipinį „broliu“, kurį autorius pateikia kaip seną paprotį.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

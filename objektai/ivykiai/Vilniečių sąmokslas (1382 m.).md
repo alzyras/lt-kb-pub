@@ -42,16 +42,16 @@ Kęstučiui išvykus, Vilniuje kilo sąmokslas, kurio metu miestas buvo perduota
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Kęstučiui išvykus, Vilniuje kilo sąmokslas, kurio metu miestas buvo perduotas Jogailai."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Kęstučiui išvykus, Vilniuje kilo sąmokslas, kurio metu miestas buvo perduotas Jogailai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

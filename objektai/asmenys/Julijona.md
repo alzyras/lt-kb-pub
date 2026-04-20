@@ -30,15 +30,15 @@ patikimumas: "aukstas"
 - Julijoną
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Julijona apibūdinamas taip: Tverės kunigaikščio sesuo, kurią Algirdas vedė kaip sąjungininkę prieš Maskvą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tverės kunigaikščio sesuo, kurią Algirdas vedė kaip sąjungininkę prieš Maskvą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -46,15 +46,15 @@ patikimumas: "aukstas"
 - Minimas kaip paliaubų vieta Švedijos ir Lietuvos Lenkijos karo pasakojime. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Altmarkas“ siejama su šiuo kontekstu: Minimas kaip paliaubų vieta Švedijos ir Lietuvos Lenkijos karo pasakojime."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip paliaubų vieta Švedijos ir Lietuvos Lenkijos karo pasakojime.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

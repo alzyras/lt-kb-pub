@@ -40,15 +40,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: Tatai vadinosi liberum veto, t. y. laisvojo pasipriešinimo teisė (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Laisvojo pasipriešinimo teisė (liberum veto)“ siejama su formuluote: Tatai vadinosi liberum veto, t. y. laisvojo pasipriešinimo teisė. Šaltinio kontekste nurodoma: kas atlieka: vienas ar keli papirkti atstovai; kada atliekama: kai pareiškiamas protestas prieš viso seimo nutarimą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinis aprašo seimo sprendimų blokavimo praktiką, kai vieno ar kelių atstovų protestas galėdavo išardyti visą seimą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

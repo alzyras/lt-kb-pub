@@ -45,16 +45,16 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Aušrinė“ tai moksleivių žurnalas, su kuriuo siejama aušrininkų aplinka."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tai moksleivių žurnalas, su kuriuo siejama aušrininkų aplinka.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

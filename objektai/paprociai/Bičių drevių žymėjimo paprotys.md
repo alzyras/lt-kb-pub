@@ -40,15 +40,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: Bitės priklausydavo tam, kas jas atrasdavo. Radusysis drevę, tuojau įkirsdavo joje savo ženklą (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Bičių drevių žymėjimo paprotys“ siejama su formuluote: Bitės priklausydavo tam, kas jas atrasdavo. Radusysis drevę, tuojau įkirsdavo joje savo ženklą. Šaltinio kontekste nurodoma: kas atlieka: radusysis drevę; kada atliekama: radus drevę."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Aptariama nuosavybės teisė į bičių dreves: radęs žmogus pažymi drevę ženklu, o kitiems draudžiama liesti bites.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -42,15 +42,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Vokietijos kunigaikščiai“ apibūdinama kaip kunigaikščiai; vokietijos kunigaikščiai minimi kaip Kazimiero dukterų vyrai, o per vieną jų sūnų parodomas ir dinastinis ryšys su Prūsija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Vokietijos kunigaikščiai“ apibūdinama kaip kunigaikščiai; vokietijos kunigaikščiai minimi kaip Kazimiero dukterų vyrai, o per vieną jų sūnų parodomas ir dinastinis ryšys su Prūsija."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Vokietijos kunigaikščiai minimi kaip Kazimiero dukterų vyrai, o per vieną jų sūnų parodomas ir dinastinis ryšys su Prūsija.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -51,15 +51,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: žydų bendruomenių istorija, savivalda. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Kahalas“ vartojama taip: Žydų bendruomenės savivaldos organas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Žydų bendruomenės savivaldos organas, kuris tekste siejamas ir su ankstyvąja žydų bendruomenių istorija Lietuvoje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

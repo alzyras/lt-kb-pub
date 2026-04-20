@@ -52,27 +52,27 @@ patikimumas: "aukstas"
 - Minima kaip 30 metų karo erdvė. (t-003)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Vokietija“ siejama su šiuo kontekstu: Šalis minima kaip vieta, į kurią buvo išvežta Lietuvos istorijos medžiagos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje vieta „Vokietija“ siejama su šiuo kontekstu: Minima kaip kolonistų ir pagalbos šaltinis kryžiuočių ordinui."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-003
+- t-003
   teiginys: "Šaltinyje vieta „Vokietija“ siejama su šiuo kontekstu: Minima kaip 30 metų karo erdvė."
   pagrindžia:
-    - q-003
+    - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šalis minima kaip vieta, į kurią buvo išvežta Lietuvos istorijos medžiagos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -89,7 +89,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Minima kaip kolonistų ir pagalbos šaltinis kryžiuočių ordinui.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -106,7 +106,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-002
-- id: q-003
+- c-003
   santrauka: Minima kaip 30 metų karo erdvė.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

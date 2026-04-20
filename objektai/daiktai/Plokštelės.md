@@ -46,15 +46,15 @@ patikimumas: "vidutinis"
 Fizinė garso transliavimo priemonė, šaltinyje susieta su politinės kalbos kartojimu per radio. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinis plokšteles mini kaip priemonę, per kurią 1935 m. per radio kartota Hitlerio reichstage pasakyta kalba."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai mini plokšteles kaip radio transliavimo priemonę.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -47,15 +47,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: visi žymesnieji bajoraičiai vyko tenai mokytis (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Lietuvos bajoraičių mokymasis Varšuvos kadetų korpuse“ siejama su formuluote: visi žymesnieji bajoraičiai vyko tenai mokytis. Šaltinio kontekste nurodoma: kas atlieka: žymesnieji Lietuvos bajoraičiai; kada atliekama: Stanislovo Augusto laikais, kai įkurtas Varšuvos kadetų korpusas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinis rodo, kad Varšuvos kadetų korpusas tapo pavyzdiniu Lietuvos bajorų jaunimo mokymosi keliu, o ypač žymesnieji bajoraičiai ten vyko mokytis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -41,15 +41,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: Kiekvienas seimas prasidėdavo pamaldomis ir pamokslu (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Seimo pradžios pamaldos ir pamokslas“ siejama su formuluote: Kiekvienas seimas prasidėdavo pamaldomis ir pamokslu. Šaltinio kontekste nurodoma: kas atlieka: seimo dalyviai; kada atliekama: kiekvieno seimo pradžioje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tai aprašytas nuolatinis seimo darbo atidarymo ritualas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

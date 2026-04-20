@@ -47,18 +47,18 @@ Po Gardino seimo ir naujos santvarkos įsigalėjimo kilo ginkluotas sukilimas, k
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Po Gardino seimo ir naujos santvarkos įsigalėjimo kilo ginkluotas sukilimas, kuriame aktyviai dalyvavo ir Lietuva; Vilnius, Krokuva ir Varšuva buvo išvaduoti, o Vilniuje pakartas rusų pastatytas hetmonas."
   pagrindžia:
-    - q-001
-    - q-002
-    - q-003
+    - c-001
+    - c-002
+    - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Citata pagrindžia įvykio „Kosciuškos sukilimas (1794 m.) ir nepriklausomybės galas“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -80,7 +80,7 @@ Po Gardino seimo ir naujos santvarkos įsigalėjimo kilo ginkluotas sukilimas, k
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia teiginį šaltinio tekste."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Citata pagrindžia įvykio „Kosciuškos sukilimas (1794 m.) ir nepriklausomybės galas“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -100,7 +100,7 @@ Po Gardino seimo ir naujos santvarkos įsigalėjimo kilo ginkluotas sukilimas, k
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia teiginį šaltinio tekste."
   pagrindžia:
     - t-001
-- id: q-003
+- c-003
   santrauka: Citata pagrindžia įvykio „Kosciuškos sukilimas (1794 m.) ir nepriklausomybės galas“ aspektą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

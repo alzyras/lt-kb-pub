@@ -33,25 +33,25 @@ patikimumas: "vidutinis"
 - Minimas tarp autorių, rašiusių apie valstybę. (t-002)
 
 ## Kontekstas
-- Tekstas tiesiogiai įvardija jį tarp autorių. (q-001)
-- Antras fragmentas Rousseau nurodo tarp autorių, kurių valstybės tematikos raštais domėtasi Lietuvoje. (q-002)
+- Tekstas tiesiogiai įvardija jį tarp autorių. (c-001)
+- Antras fragmentas Rousseau nurodo tarp autorių, kurių valstybės tematikos raštais domėtasi Lietuvoje. (c-002)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Rousseau autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas tarp švietimo epochos autorių."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje Rousseau minimas tarp autorių, rašiusių apie valstybę."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas tarp švietimo epochos autorių.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -67,7 +67,7 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Tekstas tiesiogiai įvardija jį tarp autorių."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Ištrauka Rousseau pateikia tarp autorių, kurių valstybės tematikos raštais domėtasi.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

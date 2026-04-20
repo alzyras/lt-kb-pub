@@ -42,15 +42,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Šv. Jurgio Kareivių Draugija Baltimorėje“ apibūdinama kaip draugija; pateikiama kaip vienas iš savišalpos draugijų pavyzdžių. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Šv. Jurgio Kareivių Draugija Baltimorėje“ apibūdinama kaip draugija; pateikiama kaip vienas iš savišalpos draugijų pavyzdžių."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Pateikiama kaip vienas iš savišalpos draugijų pavyzdžių.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

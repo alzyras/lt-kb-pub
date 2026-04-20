@@ -51,16 +51,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Gedimino laiškai“ kalbama apie Gedimino diplomatinę korespondenciją dėl krikšto, taikos su krikščionimis ir kvietimo miestiečiams, pirkliams, žemdirbiams bei riteriams atvykti į Lietuvą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tekste kalbama apie Gedimino diplomatinę korespondenciją dėl krikšto, taikos su krikščionimis ir kvietimo miestiečiams, pirkliams, žemdirbiams bei riteriams atvykti į Lietuvą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

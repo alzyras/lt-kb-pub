@@ -38,16 +38,16 @@ Rygos arkivyskupas ir miestiečiai, kovodami su ordinu, pasikviečia Vytenį į 
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Rygos arkivyskupas ir miestiečiai, kovodami su ordinu, pasikviečia Vytenį į talką; sąjunga tęsiasi iki 1313 m."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Rygos arkivyskupas ir miestiečiai, kovodami su ordinu, pasikviečia Vytenį į talką; sąjunga tęsiasi iki 1313 m.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -48,15 +48,15 @@ patikimumas: "aukstas"
 - Minima kaip Dauguvos žiotis sauganti vieta, kurią pavyko apginti nuo švedų. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Daugavgryva“ siejama su šiuo kontekstu: Minima kaip Dauguvos žiotis sauganti vieta, kurią pavyko apginti nuo švedų."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minima kaip Dauguvos žiotis sauganti vieta, kurią pavyko apginti nuo švedų.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

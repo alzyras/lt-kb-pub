@@ -32,18 +32,18 @@ patikimumas: "vidutinis"
 - Įvardytas kaip pirmojo laikotarpio teksto autorius. (t-001)
 
 ## Kontekstas
-- Vardas susietas su konkrečia veikalo dalimi ir autoriaus funkcija. (q-001)
+- Vardas susietas su konkrečia veikalo dalimi ir autoriaus funkcija. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje J. Jakštas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Įvardytas kaip pirmojo laikotarpio teksto autorius."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Įvardytas kaip pirmojo laikotarpio teksto autorius.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

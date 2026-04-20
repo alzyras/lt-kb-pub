@@ -37,18 +37,18 @@ patikimumas: "vidutinis"
 - Monografii po ist. zapadnoj i jugozapadnoj Rossii. (t-001)
 
 ## Kontekstas
-- Gedimino laikų bibliografijoje nurodytas kaip studijos apie Vakarų ir Pietvakarių Rusiją autorius. (q-001)
+- Gedimino laikų bibliografijoje nurodytas kaip studijos apie Vakarų ir Pietvakarių Rusiją autorius. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje V. B. Antonovič minimas kaip autorius, siejamas su: Monografii po ist. zapadnoj i jugozapadnoj Rossii."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje V. B. Antonovič minimas kaip autorius, siejamas su: Monografii po ist. zapadnoj i jugozapadnoj Rossii.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

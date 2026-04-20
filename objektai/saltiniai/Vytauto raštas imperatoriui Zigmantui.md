@@ -43,16 +43,16 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Vytauto raštas imperatoriui Zigmantui“ tai Vytauto raštas imperatoriui Zigmantui, kuriame jis ginčija Vroclavo sprendimą ir tvirtina Žemaičių priklausymą Lietuvai."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tai Vytauto raštas imperatoriui Zigmantui, kuriame jis ginčija Vroclavo sprendimą ir tvirtina Žemaičių priklausymą Lietuvai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

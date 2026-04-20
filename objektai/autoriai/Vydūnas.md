@@ -44,25 +44,25 @@ patikimumas: "vidutinis"
 - Iliustracijos užrašas pateikia variantą „Vilius Storasta“. (t-002)
 
 ## Kontekstas
-- Tekstas jį tiesiogiai įvardija kaip rašytoją ir filosofą, gyvenantį Tilžėje, ir mini, kad jis vadovauja vietos lietuviams. (q-001)
-- Atskirame užraše pateikiamas Vydūno vardo variantas. (q-002)
+- Tekstas jį tiesiogiai įvardija kaip rašytoją ir filosofą, gyvenantį Tilžėje, ir mini, kad jis vadovauja vietos lietuviams. (c-001)
+- Atskirame užraše pateikiamas Vydūno vardo variantas. (c-002)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Vydūnas minimas kaip rašytojas ir filosofas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje prie Vydūno pateikiamas vardo variantas „Vilius Storasta“."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje Vydūnas minimas kaip rašytojas ir filosofas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -79,7 +79,7 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Šaltinio fragmentas tiesiogiai susieja kandidatą su autorystės, redagavimo, vertimo, kronikininko ar bibliografinio autoriaus kontekstu."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Iliustracijos užrašas pateikia Vydūno vardo variantą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

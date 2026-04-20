@@ -46,15 +46,15 @@ patikimumas: "aukstas"
 - Minima kaip po Kauno sugriovimo lietuvių pradėta statyti nauja pilis. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Naujasis Kaunas“ siejama su šiuo kontekstu: Minima kaip po Kauno sugriovimo lietuvių pradėta statyti nauja pilis."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minima kaip po Kauno sugriovimo lietuvių pradėta statyti nauja pilis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

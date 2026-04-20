@@ -46,16 +46,16 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Kazimiero testamentas“ pasakojama, kad Kazimieras esą testamentu padalijo Lietuvą ir Lenkiją, bet pats autorius pabrėžia, jog tokio dokumento istorikai nėra matę."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tekste pasakojama, kad Kazimieras esą testamentu padalijo Lietuvą ir Lenkiją, bet pats autorius pabrėžia, jog tokio dokumento istorikai nėra matę.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

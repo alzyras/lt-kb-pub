@@ -46,16 +46,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Urugvajaus Aidas“ tai Urugvajuje pradėtas leisti dvisavaitinis leidinys, vėliau sujungtas su Buenos Airės „Švyturiu\"."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tai Urugvajuje pradėtas leisti dvisavaitinis leidinys, vėliau sujungtas su Buenos Airės „Švyturiu".
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

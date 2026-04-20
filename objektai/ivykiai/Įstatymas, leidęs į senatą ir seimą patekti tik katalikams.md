@@ -34,16 +34,16 @@ Kitatikius varžančių įstatymų kontekste buvo išleistas įstatymas, apriboj
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Kitatikius varžančių įstatymų kontekste buvo išleistas įstatymas, apribojęs patekimą į senatą ir seimą tik katalikams."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Kitatikius varžančių įstatymų kontekste buvo išleistas įstatymas, apribojęs patekimą į senatą ir seimą tik katalikams.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

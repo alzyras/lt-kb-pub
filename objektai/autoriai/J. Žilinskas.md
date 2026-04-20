@@ -44,18 +44,18 @@ patikimumas: "vidutinis"
 - „Tėvynę“. (t-001)
 
 ## Kontekstas
-- Tekstas tiesiogiai sako, kad J. Žilinskas perėmė Susivienijimo vadovybę ir redagavo jo organą „Tėvynę“. (q-001)
+- Tekstas tiesiogiai sako, kad J. Žilinskas perėmė Susivienijimo vadovybę ir redagavo jo organą „Tėvynę“. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje J. Žilinskas minimas kaip redaktorius, siejamas su: „Tėvynę“."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje J. Žilinskas minimas kaip redaktorius, siejamas su: „Tėvynę“.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

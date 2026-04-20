@@ -46,15 +46,15 @@ patikimumas: "aukstas"
 - Minimas kaip Vladimiro vyskupo valdos miestas Brastos unijos pasakojime. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Vladimiras“ siejama su šiuo kontekstu: Minimas kaip Vladimiro vyskupo valdos miestas Brastos unijos pasakojime."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip Vladimiro vyskupo valdos miestas Brastos unijos pasakojime.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

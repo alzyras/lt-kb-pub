@@ -53,15 +53,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: karo istorija, sienų nustatymas. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Demarkacinė linija“ vartojama taip: Laikina politinė ar karo riba tarp užimtų teritorijų."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Terminas vartojamas apie laikiną ribą, kurią nustatė karo ir diplomatijos misijos tarp ginčijamų teritorijų.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

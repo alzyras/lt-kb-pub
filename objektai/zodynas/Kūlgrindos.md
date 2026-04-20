@@ -48,15 +48,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: gynyba, susisiekimas, senoji vietinė terminija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Kūlgrindos“ vartojama taip: Slaptas akmenimis grįstas kelias, skirtas susisiekimui ar pasitraukimui pavojaus metu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Taip vadinami žemaičių akmenimis grįsti slaptieji keliai per upes, ežerus ir pelkes.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

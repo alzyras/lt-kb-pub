@@ -42,16 +42,16 @@ Zigmantas, siekęs atgauti visišką Lietuvos nepriklausomybę, buvo nužudytas 
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Zigmantas, siekęs atgauti visišką Lietuvos nepriklausomybę, buvo nužudytas ponų sąmokslo metu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Zigmantas, siekęs atgauti visišką Lietuvos nepriklausomybę, buvo nužudytas ponų sąmokslo metu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

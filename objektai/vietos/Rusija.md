@@ -52,27 +52,27 @@ patikimumas: "aukstas"
 - Minima kaip valstybė, kuri užėmė dalį Lietuvos padalijimo metu. (t-003)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Rusija“ siejama su šiuo kontekstu: Šalis minima kaip Lietuvos istorijos medžiagos išvežimo ir archyvų saugojimo vieta."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-002
+- t-002
   teiginys: "Šaltinyje vieta „Rusija“ siejama su šiuo kontekstu: Minima kaip vieta, į kurią buvo vežami nuo karo ir bado bėgę žmonės, o vėliau kaip Rusijos valstybė Europos politikos kontekste."
   pagrindžia:
-    - q-002
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
-- id: t-003
+- t-003
   teiginys: "Šaltinyje vieta „Rusija“ siejama su šiuo kontekstu: Minima kaip valstybė, kuri užėmė dalį Lietuvos padalijimo metu."
   pagrindžia:
-    - q-003
+    - c-003
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šalis minima kaip Lietuvos istorijos medžiagos išvežimo ir archyvų saugojimo vieta.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -89,7 +89,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Minima kaip vieta, į kurią buvo vežami nuo karo ir bado bėgę žmonės, o vėliau kaip Rusijos valstybė Europos politikos kontekste.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -103,7 +103,7 @@ patikimumas: "aukstas"
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
   pagrindžia:
     - t-002
-- id: q-003
+- c-003
   santrauka: Minima kaip valstybė, kuri užėmė dalį Lietuvos padalijimo metu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -41,15 +41,15 @@ patikimumas: "vidutinis"
 - date_end: 1900
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje A. Kaupas apibūdinamas taip: 1894 m. įkurta draugija, siekusi lietuvių skyriaus Paryžiaus parodoje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: 1894 m. įkurta draugija, siekusi lietuvių skyriaus Paryžiaus parodoje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

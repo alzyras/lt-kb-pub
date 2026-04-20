@@ -38,15 +38,15 @@ patikimumas: "aukstas"
 - Gniezno minimas per arkivyskupo titulą, kuris tarpuvaldžiu šaukia konvokacinį seimą. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Gniezno“ siejama su šiuo kontekstu: Gniezno minimas per arkivyskupo titulą, kuris tarpuvaldžiu šaukia konvokacinį seimą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Gniezno minimas per arkivyskupo titulą, kuris tarpuvaldžiu šaukia konvokacinį seimą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

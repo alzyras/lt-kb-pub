@@ -42,16 +42,16 @@ Po valstybės okupacijos seimas turėjo formaliai patvirtinti padalinimą, peror
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Po valstybės okupacijos seimas turėjo formaliai patvirtinti padalinimą, perorganizuoti aparatą ir įteisinti naują santvarką."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Po valstybės okupacijos seimas turėjo formaliai patvirtinti padalinimą, perorganizuoti aparatą ir įteisinti naują santvarką.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

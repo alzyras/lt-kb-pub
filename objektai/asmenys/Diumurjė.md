@@ -30,15 +30,15 @@ patikimumas: "vidutinis"
 - Du Mouriez
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Diumurjė apibūdinamas taip: Minimas kaip Prancūzijos atsiųstas generolas, bandęs pertvarkyti partizaninį karą į reguliarų."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip Prancūzijos atsiųstas generolas, bandęs pertvarkyti partizaninį karą į reguliarų.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

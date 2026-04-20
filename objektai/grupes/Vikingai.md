@@ -43,15 +43,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Vikingai“ siejama su šiuo kontekstu: Vikingai aprašomi kaip ateiviai iš už jūros, užplūdę Europą ir įsikūrę aisčių pajūriuose. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Vikingai“ siejama su šiuo kontekstu: Vikingai aprašomi kaip ateiviai iš už jūros, užplūdę Europą ir įsikūrę aisčių pajūriuose."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Vikingai aprašomi kaip ateiviai iš už jūros, užplūdę Europą ir įsikūrę aisčių pajūriuose.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

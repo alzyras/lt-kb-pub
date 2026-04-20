@@ -42,15 +42,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Valstybės Taryba“ apibūdinama kaip taryba; lenkijai suteiktos autonomijos sąlygomis įsteigta taryba, sudaryta iš pačių lenkų. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Valstybės Taryba“ apibūdinama kaip taryba; lenkijai suteiktos autonomijos sąlygomis įsteigta taryba, sudaryta iš pačių lenkų."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Lenkijai suteiktos autonomijos sąlygomis įsteigta taryba, sudaryta iš pačių lenkų.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

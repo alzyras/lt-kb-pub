@@ -43,15 +43,15 @@ patikimumas: "aukstas"
 - Minimi kaip Konrado valdoma sritis ir kaip Kulmo žemės savininkai. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Mozūrai“ siejama su šiuo kontekstu: Minimi kaip Konrado valdoma sritis ir kaip Kulmo žemės savininkai."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimi kaip Konrado valdoma sritis ir kaip Kulmo žemės savininkai.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

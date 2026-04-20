@@ -37,16 +37,16 @@ Gediminas, ruošdamasis karui su ordinu, sudaro sąjungą su Lenkijos karalium V
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Gediminas, ruošdamasis karui su ordinu, sudaro sąjungą su Lenkijos karalium Vladislovu Lokietka ir ją sutvirtina Aldonos vedybomis."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Gediminas, ruošdamasis karui su ordinu, sudaro sąjungą su Lenkijos karalium Vladislovu Lokietka ir ją sutvirtina Aldonos vedybomis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

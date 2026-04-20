@@ -37,16 +37,16 @@ Hagos Teismas atmetė tezę, kad Lietuva privalo atidaryti susisiekimą Lentvara
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Hagos Teismas atmetė tezę, kad Lietuva privalo atidaryti susisiekimą Lentvaravo–Kaišiadorių ruože, ir patvirtino Lietuvos poziciją."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Hagos Teismas atmetė tezę, kad Lietuva privalo atidaryti susisiekimą Lentvaravo–Kaišiadorių ruože, ir patvirtino Lietuvos poziciją.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -42,16 +42,16 @@ Sustiprėjęs Vytautas verčia Jogailą tartis, o šis pasiūlo taikytis ir grą
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Sustiprėjęs Vytautas verčia Jogailą tartis, o šis pasiūlo taikytis ir grąžinti tėviškę."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Sustiprėjęs Vytautas verčia Jogailą tartis, o šis pasiūlo taikytis ir grąžinti tėviškę.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

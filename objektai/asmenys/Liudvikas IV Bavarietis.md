@@ -41,15 +41,15 @@ patikimumas: "aukstas"
 - date_end: 1337
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Liudvikas IV Bavarietis apibūdinamas taip: Imperatorius, kurio vardu pavadinta ordino magistrui dovanotos Lietuvos scena."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Imperatorius, kurio vardu pavadinta ordino magistrui dovanotos Lietuvos scena.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

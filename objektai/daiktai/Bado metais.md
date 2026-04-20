@@ -46,15 +46,15 @@ patikimumas: "vidutinis"
 Paveikslas, šaltinyje pateiktas kaip iliustracija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinis „Bado metais“ įvardija kaip A. Grotgero paveikslą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Iliustracijos antraštė nurodo paveikslo pavadinimą ir autorių.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

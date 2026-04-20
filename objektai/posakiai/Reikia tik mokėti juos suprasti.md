@@ -44,15 +44,15 @@ Aiškinant tautosakos, papročių ir prietarų reikšmę pabrėžiama, kad jų p
 Tai trumpa, aforistinė autoriaus formuluotė apie kultūrinių liudijimų aiškinimą. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje užfiksuota formuluotė „Reikia tik mokėti juos suprasti“; kontekstas: Aiškinant tautosakos, papročių ir prietarų reikšmę pabrėžiama, kad jų prasmę reikia mokėti perskaityti."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -48,15 +48,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: gudria politika ir daugybės savo sūnų bei dukterų vedybomis (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Dinastinių vedybų praktika“ siejama su formuluote: gudria politika ir daugybės savo sūnų bei dukterų vedybomis. Šaltinio kontekste nurodoma: kas atlieka: Gediminas ir jo šeima; kada atliekama: stiprinant valdžią ir sudarant politines sąjungas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekstas rodo, kad Gediminas savo vaikų santuokas naudojo kaip politinę priemonę teritorijoms ir įtakai gauti.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

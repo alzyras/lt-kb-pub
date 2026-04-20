@@ -60,16 +60,16 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: aukštasis mokslas, universitetų istorija; švietimo istorija, jėzuitų mokyklos. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Kolegija“ vartojama taip: Universiteto bendrabutis arba studentų namai; Aukštesnioji mokykla, ypač jėzuitų švietimo įstaiga."
   pagrindžia:
-    - q-001
-    - q-002
+    - c-001
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Terminas aiškinamas kaip studentų bendrabutis prie universiteto, kuriame buvo galima gyventi ir mokytis pas profesorius.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
@@ -85,7 +85,7 @@ Terminas šaltinyje vartojamas šiame kontekste: aukštasis mokslas, universitet
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia termino vartoseną arba aiškinimą šaltinyje."
   pagrindžia:
     - t-001
-- id: q-002
+- c-002
   santrauka: Jėzuitų aukštesnioji mokykla, kurią šaltinis gretina su akademijomis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

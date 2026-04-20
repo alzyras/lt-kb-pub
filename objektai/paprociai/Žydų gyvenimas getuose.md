@@ -47,15 +47,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: Miestuose žydai turėjo gyventi tam tikruose, jiems skirtuose kvartaluose, vadinamuose getomis (ghetto). Vakarais, po tam tikros valandos, jie nebegalėdavo net išeiti iš savo kvartalo. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Žydų gyvenimas getuose“ siejama su formuluote: Miestuose žydai turėjo gyventi tam tikruose, jiems skirtuose kvartaluose, vadinamuose getomis (ghetto). Vakarais, po tam tikros valandos, jie nebegalėdavo net išeiti iš savo kvartalo.. Šaltinio kontekste nurodoma: kas atlieka: žydai miestuose; kada atliekama: vakarais, po tam tikros valandos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekstas aprašo nuolatinę žydų miesto gyvenimo tvarką, kai jiems skiriami atskiri kvartalai ir vakare ribojamas išėjimas iš jų. Tai aiški socialinė segregacijos praktika.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

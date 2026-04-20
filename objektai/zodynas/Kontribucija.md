@@ -53,15 +53,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: karo finansai, istorinis mokestinis žodynas. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Kontribucija“ vartojama taip: Karo prievolė arba iš valstybės išreikalauta piniginė įmoka."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Vartojama kaip karo žygio metu išreikalauta pinigų suma.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

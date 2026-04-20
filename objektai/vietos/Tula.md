@@ -38,15 +38,15 @@ patikimumas: "aukstas"
 - Minima kaip vienas iš Vytauto žygio į rytus pasiektų taškų. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Tula“ siejama su šiuo kontekstu: Minima kaip vienas iš Vytauto žygio į rytus pasiektų taškų."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minima kaip vienas iš Vytauto žygio į rytus pasiektų taškų.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -42,16 +42,16 @@ Imperatorius Zigmantas Vroclave pripažino Žemaičius ordinui, nors Vytautas ir
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Imperatorius Zigmantas Vroclave pripažino Žemaičius ordinui, nors Vytautas ir Jogaila tikėjosi palankesnio sprendimo."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Imperatorius Zigmantas Vroclave pripažino Žemaičius ordinui, nors Vytautas ir Jogaila tikėjosi palankesnio sprendimo.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

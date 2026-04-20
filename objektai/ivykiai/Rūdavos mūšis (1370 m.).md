@@ -37,16 +37,16 @@ Algirdas ir Kęstutis, keršydami už Kauno praradimą, surengia žygį į Karal
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Algirdas ir Kęstutis, keršydami už Kauno praradimą, surengia žygį į Karaliaučių, o jo metu įvyksta Rūdavos mūšis."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Algirdas ir Kęstutis, keršydami už Kauno praradimą, surengia žygį į Karaliaučių, o jo metu įvyksta Rūdavos mūšis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

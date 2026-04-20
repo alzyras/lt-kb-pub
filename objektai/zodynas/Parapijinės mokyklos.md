@@ -48,15 +48,15 @@ patikimumas: "vidutinis"
 Terminas šaltinyje vartojamas šiame kontekste: švietimo istorija, išeivijos mokyklų leksika. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Parapijinės mokyklos“ vartojama taip: Parapijų finansuojamos ir išlaikomos mokyklos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Amerikos lietuvių parapijų išlaikomos mokyklos, minimos kaip svarbus katalikiškų organizacijų rūpestis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

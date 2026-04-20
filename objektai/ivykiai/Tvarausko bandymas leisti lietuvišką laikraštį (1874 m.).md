@@ -42,16 +42,16 @@ Lietuviškai pramokęs lenkas Tvarauskas sumanė leisti lietuvišką laikraštį
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Lietuviškai pramokęs lenkas Tvarauskas sumanė leisti lietuvišką laikraštį; pirmasis bandymas nepavyko, bet vėliau jis pradėjo leisti „Uniją“."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Lietuviškai pramokęs lenkas Tvarauskas sumanė leisti lietuvišką laikraštį; pirmasis bandymas nepavyko, bet vėliau jis pradėjo leisti „Uniją“.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

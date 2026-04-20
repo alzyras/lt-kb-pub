@@ -32,15 +32,15 @@ patikimumas: "aukstas"
 - generolo Niselio
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Niselis apibūdinamas taip: Minimas kaip santarvės komisijos ir misijos vadovas, įsikišęs į kovas su bermontininkais."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip santarvės komisijos ir misijos vadovas, įsikišęs į kovas su bermontininkais.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

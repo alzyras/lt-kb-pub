@@ -47,15 +47,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: jo raginami kunigai prie bažnyčių steigė mokyklas (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Kunigų mokyklų steigimas prie bažnyčių“ siejama su formuluote: jo raginami kunigai prie bažnyčių steigė mokyklas. Šaltinio kontekste nurodoma: kas atlieka: kunigai; kada atliekama: 1816 m. ir po jo, Žemaičių sąjūdžio metu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Prie Juozo Arnulfo Giedraičio veiklos aprašyta švietimo praktika, kai jo raginami kunigai steigė mokyklas prie bažnyčių.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -46,15 +46,15 @@ patikimumas: "aukstas"
 Šaltinyje „Bažnytinės vėliavos“ siejamas su šiuo kontekstu: Religinėms manifestacijoms draudžiamos bažnytinės vėliavos, todėl daiktas veikia kaip simbolinis požymis.
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Bažnytinės vėliavos“ siejamas su šiuo kontekstu: Religinėms manifestacijoms draudžiamos bažnytinės vėliavos, todėl daiktas veikia kaip simbolinis požymis."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Religinėms manifestacijoms draudžiamos bažnytinės vėliavos, todėl daiktas veikia kaip simbolinis požymis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -37,16 +37,16 @@ Popiežius be susitarimo su vyriausybe įkūrė savarankišką bažnytinę Lietu
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Popiežius be susitarimo su vyriausybe įkūrė savarankišką bažnytinę Lietuvos provinciją ir pertvarkė vyskupijas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Popiežius be susitarimo su vyriausybe įkūrė savarankišką bažnytinę Lietuvos provinciją ir pertvarkė vyskupijas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

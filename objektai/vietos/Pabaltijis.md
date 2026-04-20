@@ -43,15 +43,15 @@ patikimumas: "aukstas"
 - Minimas kaip ordino dėmesio kryptis po išvarymo iš Mažosios Azijos. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Pabaltijis“ siejama su šiuo kontekstu: Minimas kaip ordino dėmesio kryptis po išvarymo iš Mažosios Azijos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip ordino dėmesio kryptis po išvarymo iš Mažosios Azijos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -28,16 +28,16 @@ Vytautas, norėdamas atkeršyti Zigmantui už Vroclavo sprendimą, priėmė pasi
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Vytautas, norėdamas atkeršyti Zigmantui už Vroclavo sprendimą, priėmė pasiūlytą Čekų sostą ir pasiuntė ten savo vietininką."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Vytautas, norėdamas atkeršyti Zigmantui už Vroclavo sprendimą, priėmė pasiūlytą Čekų sostą ir pasiuntė ten savo vietininką.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

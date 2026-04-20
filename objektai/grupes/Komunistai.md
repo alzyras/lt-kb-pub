@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Komunistai“ apibūdinama kaip politinė grupė; komunistai paminimi kaip jėga, pasinaudojusi panaikinta karo būkle ir pradėjusi demonstracijas bei ekscesus. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Komunistai“ apibūdinama kaip politinė grupė; komunistai paminimi kaip jėga, pasinaudojusi panaikinta karo būkle ir pradėjusi demonstracijas bei ekscesus."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Komunistai paminimi kaip jėga, pasinaudojusi panaikinta karo būkle ir pradėjusi demonstracijas bei ekscesus.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

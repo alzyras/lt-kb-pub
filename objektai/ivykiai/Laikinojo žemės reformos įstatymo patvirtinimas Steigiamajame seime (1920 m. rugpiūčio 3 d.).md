@@ -38,16 +38,16 @@ Steigiamasis seimas beveik be pakeitimų patvirtino laikinąjį žemės reformos
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Steigiamasis seimas beveik be pakeitimų patvirtino laikinąjį žemės reformos įstatymą ir taip išplėtė galimybę žeme gauti ir bežemiams su mažažemiais."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Steigiamasis seimas beveik be pakeitimų patvirtino laikinąjį žemės reformos įstatymą ir taip išplėtė galimybę žeme gauti ir bežemiams su mažažemiais.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

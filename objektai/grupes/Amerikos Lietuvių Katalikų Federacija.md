@@ -42,15 +42,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Amerikos Lietuvių Katalikų Federacija“ apibūdinama kaip federacija; katalikų organizaciją apjungianti federacija, kuri rūpinosi švietimu, mokyklomis ir kitomis katalikiškomis organizacijomis. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Amerikos Lietuvių Katalikų Federacija“ apibūdinama kaip federacija; katalikų organizaciją apjungianti federacija, kuri rūpinosi švietimu, mokyklomis ir kitomis katalikiškomis organizacijomis."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Katalikų organizaciją apjungianti federacija, kuri rūpinosi švietimu, mokyklomis ir kitomis katalikiškomis organizacijomis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

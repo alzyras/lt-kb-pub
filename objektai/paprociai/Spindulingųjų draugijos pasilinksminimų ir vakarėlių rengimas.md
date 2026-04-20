@@ -47,15 +47,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: Tam tikslui ji rengė visokius pasilinksminimus, vakarėlius ir t.t. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Spindulingųjų draugijos pasilinksminimų ir vakarėlių rengimas“ siejama su formuluote: Tam tikslui ji rengė visokius pasilinksminimus, vakarėlius ir t.t.. Šaltinio kontekste nurodoma: kas atlieka: Spindulingųjų Draugija; kada atliekama: XIX a. pradžioje, slaptųjų jaunimo organizacijų veikimo metu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Draugija naudojo pasilinksminimus ir vakarėlius kaip būdą skleisti žmoniškumo ir patriotizmo idėjas tarp jaunuomenės.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

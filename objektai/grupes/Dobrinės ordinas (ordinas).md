@@ -52,15 +52,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Dobrinės ordinas“ apibūdinama kaip ordinas; kristijono ir Konrado sumanyta krikščionių gynybos organizacija šiame tekste tiesiogiai pavadinama Dobrinės ordinu. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Dobrinės ordinas“ apibūdinama kaip ordinas; kristijono ir Konrado sumanyta krikščionių gynybos organizacija šiame tekste tiesiogiai pavadinama Dobrinės ordinu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Kristijono ir Konrado sumanyta krikščionių gynybos organizacija šiame tekste tiesiogiai pavadinama Dobrinės ordinu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

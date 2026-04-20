@@ -32,18 +32,18 @@ patikimumas: "vidutinis"
 - Minimas kaip vienas iš lietuviškų protestantiškų knygų autorių Mažojoje Lietuvoje. (t-001)
 
 ## Kontekstas
-- Tekstas tiesiogiai įvardija Mažvydą kaip lietuviškų protestantiškų knygų rašytoją. (q-001)
+- Tekstas tiesiogiai įvardija Mažvydą kaip lietuviškų protestantiškų knygų rašytoją. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Mažvydas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip vienas iš lietuviškų protestantiškų knygų autorių Mažojoje Lietuvoje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip vienas iš lietuviškų protestantiškų knygų autorių Mažojoje Lietuvoje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

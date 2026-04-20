@@ -42,16 +42,16 @@ Po abipusių žygių įvyko mūšis prie Strėvos upės, kurį ordinas vėliau i
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Po abipusių žygių įvyko mūšis prie Strėvos upės, kurį ordinas vėliau išpūtė kaip didelę pergalę."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Po abipusių žygių įvyko mūšis prie Strėvos upės, kurį ordinas vėliau išpūtė kaip didelę pergalę.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

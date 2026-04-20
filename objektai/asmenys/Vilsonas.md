@@ -41,15 +41,15 @@ patikimumas: "aukstas"
 - date_end: 1916
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Vilsonas apibūdinamas taip: Minimas kaip Jungtinių Amerikos Valstybių prezidentas, į kurį buvo kreiptasi pagalbos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minimas kaip Jungtinių Amerikos Valstybių prezidentas, į kurį buvo kreiptasi pagalbos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

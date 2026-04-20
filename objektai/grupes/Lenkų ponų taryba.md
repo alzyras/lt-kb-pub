@@ -42,15 +42,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Lenkų ponų taryba“ apibūdinama kaip politinė taryba; lenkų ponų taryba priešinasi Vytauto karūnacijai ir kartu su Jogaila sprendžia, ar karūnavimas galėtų įvykti. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Lenkų ponų taryba“ apibūdinama kaip politinė taryba; lenkų ponų taryba priešinasi Vytauto karūnacijai ir kartu su Jogaila sprendžia, ar karūnavimas galėtų įvykti."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Lenkų ponų taryba priešinasi Vytauto karūnacijai ir kartu su Jogaila sprendžia, ar karūnavimas galėtų įvykti.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

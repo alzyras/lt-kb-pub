@@ -44,16 +44,16 @@ Astravos dvare Jogaila ir Vytautas susitaiko; Jogaila grąžina Vytautui tėvo �
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Astravos dvare Jogaila ir Vytautas susitaiko; Jogaila grąžina Vytautui tėvo žemes, Lucką ir Vilniaus valdymą, o Vytautas pripažįsta Jogailos viršenybę."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Astravos dvare Jogaila ir Vytautas susitaiko; Jogaila grąžina Vytautui tėvo žemes, Lucką ir Vilniaus valdymą, o Vytautas pripažįsta Jogailos viršenybę.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

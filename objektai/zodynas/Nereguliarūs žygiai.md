@@ -50,15 +50,15 @@ patikimumas: "vidutinis"
 Terminas šaltinyje vartojamas šiame kontekste: karyba, ordino žygiai, viduramžių karo praktika. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Nereguliarūs žygiai“ vartojama taip: Epizodiniai, proginiai karo žygiai, organizuojami ne pagal įprastą ciklą."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Ordino žygiai į Lietuvą skirstomi į reguliarius ir nereguliarius, o pastarieji rengiami atvykus svečiams iš Vakarų.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

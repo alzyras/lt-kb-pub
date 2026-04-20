@@ -44,16 +44,16 @@ Kęstutis, patikėjęs žinia apie Jogailos sutartį su ordinu, apsupa Vilnių, 
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Kęstutis, patikėjęs žinia apie Jogailos sutartį su ordinu, apsupa Vilnių, suima Jogailos šeimą ir trumpam pašalina Jogailą nuo sosto."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Kęstutis, patikėjęs žinia apie Jogailos sutartį su ordinu, apsupa Vilnių, suima Jogailos šeimą ir trumpam pašalina Jogailą nuo sosto.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -56,15 +56,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: valstybės valdymas, seimų istorija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Senatas“ vartojama taip: Valstybės senatas, aukštųjų pareigūnų taryba."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Terminas vartojamas kaip bendras abiejų valstybių aukštųjų urėdų ir vyskupų tarybos organas po Liublino unijos akto.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

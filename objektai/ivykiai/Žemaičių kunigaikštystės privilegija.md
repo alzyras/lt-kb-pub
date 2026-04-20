@@ -33,16 +33,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Žemaičiai, remdami Mykolą, buvo numalšinti, o Kazimieras jiems suteikė jų laisves laiduojančią privilegiją."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Žemaičiai, remdami Mykolą, buvo numalšinti, o Kazimieras jiems suteikė jų laisves laiduojančią privilegiją.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

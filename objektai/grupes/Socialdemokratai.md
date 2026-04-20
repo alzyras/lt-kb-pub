@@ -50,15 +50,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Socialdemokratai“ apibūdinama kaip politinė grupė; nurodomi kaip pirmoji nuo varpininkų atsiskyrusi politinė grupė, kai atsirado lietuvių politinės partijos. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Socialdemokratai“ apibūdinama kaip politinė grupė; nurodomi kaip pirmoji nuo varpininkų atsiskyrusi politinė grupė, kai atsirado lietuvių politinės partijos."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Nurodomi kaip pirmoji nuo varpininkų atsiskyrusi politinė grupė, kai atsirado lietuvių politinės partijos.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -41,15 +41,15 @@ patikimumas: "aukstas"
 - date_end: 1009
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje Brunonas apibūdinamas taip: Aprašomas kaip naujas vokietis misijonierius, dar vadinamas Bonifacu."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Aprašomas kaip naujas vokietis misijonierius, dar vadinamas Bonifacu.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

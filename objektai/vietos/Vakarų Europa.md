@@ -41,15 +41,15 @@ patikimumas: "aukstas"
 - Minima kaip regionas, kurio universitetus lietuviai po krikšto pradėjo lankyti. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje vieta „Vakarų Europa“ siejama su šiuo kontekstu: Minima kaip regionas, kurio universitetus lietuviai po krikšto pradėjo lankyti."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Minima kaip regionas, kurio universitetus lietuviai po krikšto pradėjo lankyti.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

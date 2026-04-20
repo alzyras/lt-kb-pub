@@ -48,15 +48,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: teisės istorija, paveldėjimo teisė. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Kaduko teisė“ vartojama taip: Beįpėdinio turto grįžimo valdovui teisė."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tai paveldėjimo teisė, kai be įpėdinių likęs turtas atitenka kunigaikščiui.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

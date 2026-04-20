@@ -44,15 +44,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Lietuvių kiltys“ apibūdinama kaip kiltis; šios aisčių kiltys aprašomos kaip tos, iš kurių susiformavo lietuvių tauta ir kurios gyveno į šiaurę bei į rytus nuo prūsų. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Lietuvių kiltys“ apibūdinama kaip kiltis; šios aisčių kiltys aprašomos kaip tos, iš kurių susiformavo lietuvių tauta ir kurios gyveno į šiaurę bei į rytus nuo prūsų."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šios aisčių kiltys aprašomos kaip tos, iš kurių susiformavo lietuvių tauta ir kurios gyveno į šiaurę bei į rytus nuo prūsų.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

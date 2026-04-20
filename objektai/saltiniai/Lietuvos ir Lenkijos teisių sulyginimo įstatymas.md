@@ -48,16 +48,16 @@ patikimumas: "aukstas"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Lietuvos ir Lenkijos teisių sulyginimo įstatymas“ siejamas su šiuo kontekstu: Tekste 1697 m. elekciniame seime priimtas įstatymas įvardijamas kaip `coaequatio iurium` ir aiškinamas kaip Lietuvos bei Lenkijos ministerių teisių suvienodinimo priemonė."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Tekste 1697 m. elekciniame seime priimtas įstatymas įvardijamas kaip `coaequatio iurium` ir aiškinamas kaip Lietuvos bei Lenkijos ministerių teisių suvienodinimo priemonė.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

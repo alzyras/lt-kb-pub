@@ -51,15 +51,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Blaivybės brolijos“ siejama su šiuo kontekstu: Tekste blaivybės brolijos aprašomos kaip kunigijos ir parapijonų organizuojamas blaivybės judėjimo tinklas, vėliau Muravjovo valdžios uždraustas kaip nepriklausoma organizacija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Blaivybės brolijos“ siejama su šiuo kontekstu: Tekste blaivybės brolijos aprašomos kaip kunigijos ir parapijonų organizuojamas blaivybės judėjimo tinklas, vėliau Muravjovo valdžios uždraustas kaip nepriklausoma organizacija."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Tekste blaivybės brolijos aprašomos kaip kunigijos ir parapijonų organizuojamas blaivybės judėjimo tinklas, vėliau Muravjovo valdžios uždraustas kaip nepriklausoma organizacija.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

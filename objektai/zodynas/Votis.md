@@ -50,15 +50,15 @@ patikimumas: "vidutinis"
 Terminas šaltinyje vartojamas šiame kontekste: archajiška medicininė leksika. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Votis“ vartojama taip: Pūlinys, guzys arba žaizda ant kūno."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Vartojama kaip viena iš nurodomų Vytauto mirties priežasčių.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

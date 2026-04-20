@@ -37,16 +37,16 @@ Kristijonas ir Konradas sumanė įkurti pastovią krikščionių gynybos organiz
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Kristijonas ir Konradas sumanė įkurti pastovią krikščionių gynybos organizaciją, iš kurios kilo Dobrinės ordinas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Kristijonas ir Konradas sumanė įkurti pastovią krikščionių gynybos organizaciją, iš kurios kilo Dobrinės ordinas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

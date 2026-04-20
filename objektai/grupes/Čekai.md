@@ -44,15 +44,15 @@ patikimumas: "aukstas"
 - Šaltinyje „Čekai“ apibūdinama kaip tauta; čekai minimi kartu su Vengrais kaip valdovų grupė, kurios sostuose Kazimieras įsitvirtino savo sūnų pagalba. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Čekai“ apibūdinama kaip tauta; čekai minimi kartu su Vengrais kaip valdovų grupė, kurios sostuose Kazimieras įsitvirtino savo sūnų pagalba."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Čekai minimi kartu su Vengrais kaip valdovų grupė, kurios sostuose Kazimieras įsitvirtino savo sūnų pagalba.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -42,15 +42,15 @@ patikimumas: "vidutinis"
 Šaltinyje „Jogailos antkapis Krokuvos Vavelio katedroje“ siejamas su šiuo kontekstu: Paveikslo antraštėje tiesiogiai įvardytas Jogailos antkapis Krokuvos Vavelio katedroje.
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Jogailos antkapis Krokuvos Vavelio katedroje“ siejamas su šiuo kontekstu: Paveikslo antraštėje tiesiogiai įvardytas Jogailos antkapis Krokuvos Vavelio katedroje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Paveikslo antraštėje tiesiogiai įvardytas Jogailos antkapis Krokuvos Vavelio katedroje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

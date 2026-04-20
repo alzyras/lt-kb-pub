@@ -37,16 +37,16 @@ Karo pradžioje Vilniaus lietuviai pateikė viešą deklaraciją, kuriai prigijo
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Karo pradžioje Vilniaus lietuviai pateikė viešą deklaraciją, kuriai prigijo „gintarinės“ vardas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Karo pradžioje Vilniaus lietuviai pateikė viešą deklaraciją, kuriai prigijo „gintarinės“ vardas.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

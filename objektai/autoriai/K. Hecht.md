@@ -37,18 +37,18 @@ patikimumas: "vidutinis"
 - Die Schlacht bei Rudau. (t-001)
 
 ## Kontekstas
-- Ordino kovų bibliografijoje tiesiogiai siejamas su Rudavos mūšio tyrimu. (q-001)
+- Ordino kovų bibliografijoje tiesiogiai siejamas su Rudavos mūšio tyrimu. (c-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje K. Hecht minimas kaip autorius, siejamas su: Die Schlacht bei Rudau."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinyje K. Hecht minimas kaip autorius, siejamas su: Die Schlacht bei Rudau.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

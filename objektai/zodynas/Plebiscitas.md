@@ -52,15 +52,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: tarptautinė teisė, Vilniaus konflikto diplomatija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Plebiscitas“ vartojama taip: Balsavimu ar gyventojų atsiklausimu grindžiamas ginčo sprendimas."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Terminas vartojamas kaip siūlomas ginčo sprendimo būdas, kai žmonių atsiklausimas turėjo vykti Tautų Sąjungos priežiūroje.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

@@ -49,15 +49,15 @@ patikimumas: "aukstas"
 Terminas šaltinyje vartojamas šiame kontekste: valstybės santvarka, unijos istorija. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Realinė unija“ vartojama taip: Glaudesnė valstybių sąjunga negu personalinė unija."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Galimas valstybinių ryšių sustiprinimas, kai personalinė unija virsta glaudesne sąjunga.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

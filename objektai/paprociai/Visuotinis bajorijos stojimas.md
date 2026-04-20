@@ -47,15 +47,15 @@ patikimumas: "vidutinis"
 - kaip atliekama: Kiekvienas toksai šaukimas buvo vadinamas visuotiniu bajorijos stojimu (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje minima praktika „Visuotinis bajorijos stojimas“ siejama su formuluote: Kiekvienas toksai šaukimas buvo vadinamas visuotiniu bajorijos stojimu. Šaltinio kontekste nurodoma: kas atlieka: bajorija; kada atliekama: kai karalius šaukia bajoriją į karą seimui nutarus arba ištikus staigiam pavojui."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Šaltinis aprašo bajorijos karinio šaukimo tvarką kaip visuotinį luominį įsipareigojimą.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

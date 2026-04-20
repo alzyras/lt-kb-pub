@@ -41,16 +41,16 @@ Sapiegų priešininkai per elekcijinį seimą prastūmė įstatymą, kuriuo buvo
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Sapiegų priešininkai per elekcijinį seimą prastūmė įstatymą, kuriuo buvo siekiama suvienodinti Lietuvos ir Lenkijos ministerių teises bei susiaurinti Sapiegų galias."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: Sapiegų priešininkai per elekcijinį seimą prastūmė įstatymą, kuriuo buvo siekiama suvienodinti Lietuvos ir Lenkijos ministerių teises bei susiaurinti Sapiegų galias.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

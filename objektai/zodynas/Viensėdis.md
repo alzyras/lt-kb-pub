@@ -50,15 +50,15 @@ patikimumas: "vidutinis"
 Terminas šaltinyje vartojamas šiame kontekste: agrarinė reforma, kaimo gyvenvietės. (t-001)
 
 ## Teiginiai
-- id: t-001
+- t-001
   teiginys: "Šaltinyje „Viensėdis“ vartojama taip: Pavienė sodyba arba atskiras ūkis kaimo skirstymo sistemoje."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- id: q-001
+- c-001
   santrauka: Terminas vartojamas žemės reformos aprašyme apie kaimų skirstymą pavienėmis sodybomis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |

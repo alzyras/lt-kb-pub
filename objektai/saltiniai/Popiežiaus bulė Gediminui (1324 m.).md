@@ -47,16 +47,16 @@ patikimumas: "vidutinis"
 
 ## Teiginiai
 
-- id: t-001
+- t-001
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Popiežiaus bulė Gediminui (1324 m.)“ siejamas su šiuo kontekstu: tekste minima popiežiaus 1324 m. bulė, atsiųsta Gediminui krikšto bylos kontekste."
   pagrindžia:
-    - q-001
+    - c-001
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- id: q-001
+- c-001
   santrauka: tekste minima popiežiaus 1324 m. bulė, atsiųsta Gediminui krikšto bylos kontekste.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
