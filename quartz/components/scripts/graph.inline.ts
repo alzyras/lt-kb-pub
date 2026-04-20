@@ -93,6 +93,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     labelScaleMin = 0.12,
     labelScaleMax = 4,
     labelShowAllZoom = 2,
+    labelMaxHoverVisible = 24,
   } = JSON.parse(graph.dataset["cfg"]!) as D3Config
 
   const data: Map<SimpleSlug, ContentDetails> = new Map(
@@ -349,7 +350,21 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
   function labelAlpha(node: NodeRenderData) {
     if (hoveredNodeId !== null) {
-      return node.active ? 1 : 0.03
+      const nodeId = node.simulationData.id
+      if (nodeId === hoveredNodeId) {
+        return 1
+      }
+
+      if (!node.active) {
+        return 0.03
+      }
+
+      if (hoveredNeighbours.size <= labelMaxHoverVisible + 1) {
+        return 1
+      }
+
+      const rank = nodeRank.get(nodeId) ?? Number.POSITIVE_INFINITY
+      return rank < labelMaxHoverVisible ? 0.9 : 0
     }
 
     if (node.simulationData.id === slug) {
