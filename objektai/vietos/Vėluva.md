@@ -10,15 +10,14 @@ aliases:
 saltiniai: 
   - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: []
-laikotarpis: "1348 m.; 1335 m."
-datos: 
-  - "1348 m."
+laikotarpis: "1335 m."
+datos:
   - "1335 m."
 periodas: ""
 periodo_grupes: []
 amziai: 
   - "XIV"
-date_start: "1348"
+date_start: "1335"
 date_end: "1335"
 vaidmenys: []
 dalyviai: []
@@ -35,10 +34,10 @@ patikimumas: "aukstas"
 - Šaltinyje fiksuotos formos: Vėluvoje
 
 ## Laikotarpis ir datos
-- laikotarpis: 1348 m.; 1335 m.
-- datos: 1348 m.; 1335 m.
+- laikotarpis: 1335 m.
+- datos: 1335 m.
 - amziai: XIV
-- date_start/date_end: 1348 / 1335
+- date_start/date_end: 1335 / 1335
 
 ## Kas tai
 - tipas: miestas; pilis

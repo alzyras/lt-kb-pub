@@ -23,8 +23,8 @@ periodo_grupes: []
 amziai: 
   - "XIX"
   - "XVII"
-date_start: "1809"
-date_end: "1683"
+date_start: "1683"
+date_end: "1809"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -43,7 +43,7 @@ patikimumas: "aukstas"
 - laikotarpis: 1809 m.; po 30 m. karo; 1683 m.
 - datos: 1809 m.; 1683 m.
 - amziai: XIX, XVII
-- date_start/date_end: 1809 / 1683
+- date_start/date_end: 1683 / 1809
 
 ## Kas tai
 - tipas: valstybė; šalis

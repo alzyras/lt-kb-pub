@@ -2,15 +2,25 @@
 tipas: autorius
 pavadinimas: "T. Narbutt"
 sukurta: "2026-04-18"
-variantai: []
+variantai:
+  - "T. Norbutas"
+  - "T. Norbutą"
+  - "T. Norbuto"
+  - "Teodoras Norbutas"
 aliases: 
   - "T. Narbutt"
+  - "T. Norbutas"
+  - "T. Norbutą"
+  - "T. Norbuto"
+  - "Teodoras Norbutas"
 saltiniai: 
   - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: 
   - "autorius"
-laikotarpis: ""
-datos: []
+laikotarpis: "1784—1864 m.; 1835—1841 m."
+datos:
+  - "1784—1864 m."
+  - "1835—1841 m."
 periodas: ""
 periodo_grupes: []
 amziai: []
@@ -26,19 +36,44 @@ patikimumas: "vidutinis"
 # T. Narbutt
 
 ## Santrauka
-Šaltinyje T. Narbutt minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip Lietuvos istorijos autorius.
+Šaltinyje T. Narbutt / T. Norbutas minimas autorystės kontekste: bibliografijoje nurodytas jo 1835-1841 m. veikalas, pasakojime jis siejamas su 9 tomų „Lietuvių tautos istorija“, o iliustracijos užrašas pateikia 1784—1864 m. datas.
 
 ## Darbai
 - Bibliografijoje nurodytas kaip Lietuvos istorijos autorius. (t-001)
+- 1835-1841 m. išspausdintas 9 tomų veikalas „Lietuvių tautos istorija“. (t-002)
+- Iliustracijos užrašas pateikia Teodoro Norbuto 1784—1864 m. datas. (t-003)
+- Kitame pasakojimo fragmente T. Norbutas siejamas su pirmąja didžiule 9 tomų Lietuvos istorija. (t-004)
 
 ## Kontekstas
 - Bibliografinė eilutė tiesiogiai įvardija Narbuttą kaip veikalo autorių. (q-001)
+- Pasakojimo tekste T. Norbutas apibūdintas kaip Lydos bajoras, išspausdinęs 9 tomų veikalą. (q-002)
+- Iliustracijos užrašas pateikia vardo formą ir gyvenimo datas. (q-003)
+- Atskirame XIX a. pradžios kultūros kontekste T. Norbutas dar kartą siejamas su didžiule Lietuvos istorija. (q-004)
 
 ## Teiginiai
 - id: t-001
   teiginys: "Šaltinyje T. Narbutt autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip Lietuvos istorijos autorius."
   pagrindžia:
     - q-001
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Šaltinyje T. Norbutas siejamas su 1835-1841 m. išspausdintu 9 tomų veikalu „Lietuvių tautos istorija“."
+  pagrindžia:
+    - q-002
+    - q-004
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-003
+  teiginys: "Iliustracijos užrašas pateikia Teodoro Norbuto 1784—1864 m. datas."
+  pagrindžia:
+    - q-003
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-004
+  teiginys: "Šaltinyje T. Norbutas apibūdintas kaip pirmosios didžiulės 9 tomų Lietuvos istorijos autorius."
+  pagrindžia:
+    - q-004
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
@@ -58,3 +93,53 @@ patikimumas: "vidutinis"
   patikimumo_pagrindimas: "Bibliografinė eilutė tiesiogiai įvardija Narbuttą kaip veikalo autorių."
   pagrindžia:
     - t-001
+- id: q-002
+  santrauka: Pasakojimo tekste T. Norbutas siejamas su 9 tomų Lietuvos istorijos veikalu.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Iš šito periodo Lietuvos
+    istorikų, rašiusių lenkiškai, reikia paminėti Lydos bajorą T. Nor-
+    butą, kuris nuo 1835 iki 1841 m. išspausdino didžiulį 9 tomų vei-
+    kalą, pavadintą „Lietuvių tautos istorija". Jis buvo inžinierius, o ne
+    istorikas, todėl jo veikalas nepasižymi moksliškumu.
+  citata_rodoma: |
+    Iš šito periodo Lietuvos istorikų, rašiusių lenkiškai, reikia paminėti Lydos bajorą T. Norbutą, kuris nuo 1835 iki 1841 m. išspausdino didžiulį 9 tomų veikalą, pavadintą „Lietuvių tautos istorija". Jis buvo inžinierius, o ne istorikas, todėl jo veikalas nepasižymi moksliškumu.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_variant
+  patikimumo_pagrindimas: "Šaltinis tiesiogiai susieja T. Norbuto vardą su veikalo leidimu, bet kartu pabrėžia autoriaus istoriko statuso ribotumą."
+  pagrindžia:
+    - t-002
+- id: q-003
+  santrauka: Iliustracijos užrašas pateikia Teodoro Norbuto datas.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Teodoras Norbutas
+    (1784—1864 m.).
+  citata_rodoma: |
+    Teodoras Norbutas (1784—1864 m.).
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_variant
+  patikimumo_pagrindimas: "Užrašas tiesiogiai pateikia vardo formą ir datas."
+  pagrindžia:
+    - t-003
+- id: q-004
+  santrauka: Pasakojime T. Norbutas siejamas su pirmąja didžiule 9 tomų Lietuvos istorija.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Taip pat universiteto įtakoje kiek vėliau Lydos bajoras
+    T. Norbutas parašė pirmąją didžiulę (9 tomų) Lietuvos isto-
+    riją.
+  citata_rodoma: |
+    Taip pat universiteto įtakoje kiek vėliau Lydos bajoras T. Norbutas parašė pirmąją didžiulę (9 tomų) Lietuvos istoriją.
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_variant
+  patikimumo_pagrindimas: "Citata tiesiogiai nurodo T. Norbutą ir jo parašytą 9 tomų Lietuvos istoriją."
+  pagrindžia:
+    - t-002
+    - t-004

@@ -11,13 +11,16 @@ saltiniai:
   - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
 zymos: 
   - "autorius"
-laikotarpis: ""
-datos: []
+laikotarpis: "1548-1582 m.; 1582 m."
+datos:
+  - "1548-1582 m."
+  - "1582 m."
 periodas: ""
 periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
+amziai:
+  - "XVI"
+date_start: "1548"
+date_end: "1582"
 vaidmenys: 
   - "autorius"
 dalyviai: 
@@ -28,19 +31,27 @@ patikimumas: "aukštas"
 # Motiejus Strikauskis
 
 ## Santrauka
-Šaltinyje Motiejus Strikauskis minimas autorystės, redagavimo arba tyrimo kontekste: Įvardytas kaip pirmosios spausdintos Lietuvos istorijos autorius.
+Šaltinyje Motiejus Strikauskis įvardytas kaip pirmosios spausdintos Lietuvos istorijos autorius; iliustracijos užrašas pateikia 1548-1582 m. datas ir sieja jį su 1582 m. „Kronikos“ leidimu.
 
 ## Darbai
 - Įvardytas kaip pirmosios spausdintos Lietuvos istorijos autorius. (t-001)
+- „Kronikos“ 1582 m. leidimas minimas prie jo portreto. (t-002)
 
 ## Kontekstas
 - Tekstas tiesiogiai sako, kad pirmoji spausdinta Lietuvos istorija buvo lenkiškai parašyta Strikauskio. (q-001)
+- Portreto užrašas pateikia vardą, datas ir ryšį su „Kronikos“ leidimu. (q-002)
 
 ## Teiginiai
 - id: t-001
   teiginys: "Šaltinyje Motiejus Strikauskis autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Įvardytas kaip pirmosios spausdintos Lietuvos istorijos autorius."
   pagrindžia:
     - q-001
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- id: t-002
+  teiginys: "Iliustracijos užrašas pateikia Motiejaus Strikauskio 1548-1582 m. datas ir sieja portretą su jo „Kronikos“ 1582 m. leidimu."
+  pagrindžia:
+    - q-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
@@ -62,3 +73,19 @@ patikimumas: "aukštas"
   patikimumo_pagrindimas: "Tekstas tiesiogiai sako, kad pirmoji spausdinta Lietuvos istorija buvo lenkiškai parašyta Strikauskio."
   pagrindžia:
     - t-001
+- id: q-002
+  santrauka: Portreto užrašas pateikia Strikauskio datas ir jo „Kronikos“ leidimo kontekstą.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Motiejus Strikauskis.
+    1548-1582 m.
+    (Raižinys, pridėtas prie jo „Kronikos"
+    1582 m. leidimo).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: "Iliustracijos užrašas tiesiogiai pateikia vardą, datas ir veikalo leidimo kontekstą."
+  pagrindžia:
+    - t-002

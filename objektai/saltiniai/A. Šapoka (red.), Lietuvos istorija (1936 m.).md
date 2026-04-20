@@ -37,6 +37,9 @@ patikimumas: ""
 - Leidinio numeris: Knygų Leidimo Komisijos leidinys Nr. 479. (t-001)
 - Spaustuvė: „Šviesos" spaustuvė Kaune. (t-001)
 - Tiražas: 17.050 egzempliorių. (t-001)
+- Variantai: Lietuvos istorija.
+- Data / laikotarpis: 1936 m.
+- Šaltinio rūšis / žymos: knyga; vadovėlis.
 
 ## Turinys ir apimtis
 
