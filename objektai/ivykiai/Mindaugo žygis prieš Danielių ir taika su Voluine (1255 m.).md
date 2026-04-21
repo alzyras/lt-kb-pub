@@ -58,8 +58,15 @@ Mindaugas, sustiprėjęs po krikšto ir susitaikęs su ordinu, siekė atgauti Da
   santrauka: Mindaugas, sustiprėjęs po krikšto ir susitaikęs su ordinu, siekė atgauti Danieliaus užgrobtas žemes; Danielius buvo sumuštas ir priverstas taikintis.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
-
-  citata_rodoma: ""
+    **Karai su Voluine.** Krikštijęsis ir susitaikinęs su ordinu,
+    Mindaugas ryžosi atgauti Voluinės kunigaikščio Danieliaus už-
+    grobtas žemes. Dabar karui vadovavo jau nebe svetimi kuni-
+    gaikščiai, bet Mindaugo sūnus Vaišvilkas. Danielius buvo
+    sumuštas ir priverstas taikintis (1255 m.). Sutartis buvo susti-
+    printa Mindaugo dukters ir Danieliaus sūnaus Švarno vedybo-
+    mis.
+  citata_rodoma: |
+    Krikštijęsis ir susitaikęs su ordinu, Mindaugas ryžosi atgauti Voluinės kunigaikščio Danieliaus užgrobtas žemes. Karui vadovavo Mindaugo sūnus Vaišvilkas, o Danielius buvo sumuštas ir priverstas taikintis 1255 m.
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai

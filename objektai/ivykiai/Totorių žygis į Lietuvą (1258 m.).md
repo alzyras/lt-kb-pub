@@ -50,8 +50,13 @@ Po Mindaugo ir Voluinės žygio prieš totorius pastarieji surengė atsakomąjį
   santrauka: Po Mindaugo ir Voluinės žygio prieš totorius pastarieji surengė atsakomąjį žygį į Lietuvą ir nusiaubė rytinę krašto dalį.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
-
-  citata_rodoma: ""
+    **Karai su totoriais.** Rūpindamasis sutvarkyti savo valstybę,
+    po taikos su Voluine Mindaugas dar susidūrė su totoriais, pa-
+    vergusiais tuo metu visą Rusiją. Mindaugas kartu su Voluine
+    puolė totorius. Už tai atsilygindami, totoriai (1258 m.) su-
+    ruošė didelį žygį į Lietuvą ir nusiaubė visą rytinę jos dalį.
+  citata_rodoma: |
+    Po taikos su Voluine Mindaugas susidūrė su totoriais ir kartu su Voluine juos puolė. Atsakydami totoriai 1258 m. surengė didelį žygį į Lietuvą ir nusiaubė rytinę jos dalį.
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai

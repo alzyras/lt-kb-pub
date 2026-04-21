@@ -57,8 +57,23 @@ Bonos rūpesčiu Zigmantas Augustas dar vaikystėje buvo pripažintas Lietuvos s
   santrauka: Bonos rūpesčiu Zigmantas Augustas dar vaikystėje buvo pripažintas Lietuvos sosto paveldėtoju.
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
-
-  citata_rodoma: ""
+    Išrinkimas.** Vienintelis Zigmanto II sūnus gimė 1520 m.
+    Motina Bona pradėjo rūpintis patikrinti jam sostą, kai dar jis
+    tebebuvo kūdikis. Pir-
+    miausia buvo rūpinama-
+    si Lietuvos sostu: mat,
+    išrinktąjį j Lietuvos sos-
+    tą, nenorėdami nutrauk-
+    ti ryšių su Lietuva, pa-
+    prastai ir Lenkai išrink-
+    davo savo karalium. To-
+    dėl Bonos rūpesčiu dar
+    1522 m. Zigmantas Au-
+    gustas buvo pripažintas
+    Lietuvos sosto paveldė-
+    toju.
+  citata_rodoma: |
+    Vienintelis Zigmanto II sūnus gimė 1520 m. Motina Bona pradėjo rūpintis jam užtikrinti sostą, kai jis dar buvo kūdikis. Bonos rūpesčiu 1522 m. Zigmantas Augustas buvo pripažintas Lietuvos sosto paveldėtoju.
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
