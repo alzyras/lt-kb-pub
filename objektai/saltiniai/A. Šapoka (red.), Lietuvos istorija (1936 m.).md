@@ -51,7 +51,7 @@ patikimumas: ""
 
 ## Turinys ir apimtis
 
-Šaltinis pristatomas kaip vadovėlis, kuriuo siekta pateikti platesnę lietuvių tautos gyvenimo kelio apžvalgą nuo seniausiųjų iki naujųjų laikų. Prefacijoje nurodyta, kad atskiras dalis rengė keli bendradarbiai, o A. Šapokai buvo patikėtas jų suderinimas, suvienodinimas ir sujungimas. Ten pat paminėta, kad apimtis papildyta įvedamąja dalimi, Mažosios Lietuvos lietuvių gyvenimu ir lietuvių emigracija, kad rankraščiai buvo redaguojami ir papildomi, o į vadovėlį sąmoningai įterpta žemėlapių, schemų ir iliustracijų. (t-002, t-003, t-004, t-006, t-007)
+Šaltinis pristatomas kaip vadovėlis, kuriuo siekta pateikti platesnę lietuvių tautos gyvenimo kelio apžvalgą nuo seniausiųjų iki naujųjų laikų. Prefacijoje nurodyta, kad atskiras dalis rengė keli bendradarbiai, o A. Šapokai buvo patikėtas jų suderinimas, suvienodinimas ir sujungimas. Ten pat paminėta, kad apimtis papildyta įvedamąja dalimi, Mažosios Lietuvos lietuvių gyvenimu ir lietuvių emigracija, kad rankraščiai buvo redaguojami ir papildomi, o į vadovėlį sąmoningai įterpta žemėlapių, schemų ir iliustracijų. Turinyje aiškiai išskirta įvadinė dalis su skyriais apie tautos istorijos mokymosi tikslą, šaltinius, jų rinkinius ir istorijos mokslą. (t-002, t-003, t-004, t-006, t-007, t-009)
 
 ## Ryšiai
 
@@ -108,6 +108,12 @@ patikimumas: ""
   teiginys: "Padėkoje nurodyta, kad J. Tonkūnas ir K. Masiliūnas rūpinosi bendradarbių telkimu bei parama darbui, L. Kuodžius taisė kalbą, o R. Pesis braižė žemėlapius ir schemas."
   pagrindžia:
     - c-008
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+- t-009
+  teiginys: "Turinyje aiškiai išskirta įvadinė dalis su skyriais apie tautos istorijos mokymosi tikslą, istorijos šaltinius, jų rinkinius ir Lietuvos istorijos mokslą."
+  pagrindžia:
+    - c-009
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
@@ -251,6 +257,24 @@ patikimumas: ""
   patikimumo_pagrindimas: "Padėkos pastraipoje tiesiogiai išvardyti leidinio rengimo ir parengimo dalyviai."
   pagrindžia:
     - t-008
+- c-009
+  santrauka: Turinio pradžioje aiškiai išskiriama įvadinė dalis ir jos temos.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    ĮVEDAMOJI DALIS
+    Psl.
+    1. Tautos istorija ir jos mokymosi tikslas ..... 1
+    2. Šaltiniai mūsų praeičiai pažinti ..... 1
+    3. Mūsų istorijos šaltinių rinkiniai ...... 4
+    4. Lietuvos istorijos mokslas ....... 7
+  citata_rodoma: |
+    ĮVEDAMOJI DALIS. 1. Tautos istorija ir jos mokymosi tikslas. 2. Šaltiniai mūsų praeičiai pažinti. 3. Mūsų istorijos šaltinių rinkiniai. 4. Lietuvos istorijos mokslas.
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Turinio įrašas tiesiogiai nurodo įvadinės dalies sandarą ir temas."
+  pagrindžia:
+    - t-009
 
 ## Bibliografiniai įrodymai
 

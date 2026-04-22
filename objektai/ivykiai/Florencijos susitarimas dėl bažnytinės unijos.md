@@ -28,6 +28,8 @@ Galutinis dėl unijos susitarimas buvo pasiektas Florencijoje. (t-001)
 
 ## Laikotarpis ir datos
 
+- datos: 1452 m.; 1453 m.
+
 ## Teiginiai
 
 - t-001

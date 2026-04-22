@@ -25,8 +25,11 @@ patikimumas: "aukstas"
 ## Santrauka
 
 Vytautas pabėga iš Krėvos, trumpai pasiekia savo svainį Jonušą ir tada vyksta prašyti pagalbos pas kryžiuočius. (t-001)
+Šaltinio dėstomajame tekste ši įvykių seka aiškiai išdėstyta atskiru pasakojimu apie Vytauto pabėgimą po Kęstučio žūties. (t-002)
 
 ## Laikotarpis ir datos
+
+- Šaltinio citatoje aiškios datos šiam pabėgimo epizodui nenurodytos.
 
 ## Teiginiai
 
@@ -34,6 +37,13 @@ Vytautas pabėga iš Krėvos, trumpai pasiekia savo svainį Jonušą ir tada vyk
   teiginys: "Vytautas pabėga iš Krėvos, trumpai pasiekia savo svainį Jonušą ir tada vyksta prašyti pagalbos pas kryžiuočius."
   pagrindžia:
     - c-001
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+
+- t-002
+  teiginys: "Po pabėgimo iš Krėvos Vytautas pirmiausia paspruko pas Mozūrų kunigaikštį Jonušą, o negavęs pagalbos nuvyko pas kryžiuočius."
+  pagrindžia:
+    - c-002
   šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
@@ -56,3 +66,22 @@ Vytautas pabėga iš Krėvos, trumpai pasiekia savo svainį Jonušą ir tada vyk
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia teiginį šaltinio tekste."
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: Vytautas pabėga iš Krėvos, pasiekia Jonušą ir vėliau vyksta prašyti pagalbos pas kryžiuočius.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Persirengęs tarnaitės drabu-
+    žiais, Vytautas, sargų nepažintas, išėjo su žmona iš pilies ir pa-
+    ruoštais arkliais paspruko pas savo sesers vyrą, Mozūrų kuni-
+    gaikštį Jonušą.
+    Svainis Vytautui nesuteikė jokios pagalbos: jis buvo per
+    silpnas kariauti su Jogaila. Todėl Vytautas nuvyko į kryžiuočius
+    prašyti pagalbos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Ši citata tiesiogiai aprašo pabėgimą pas Jonušą ir vėlesnį vykimą pas kryžiuočius."
+  pagrindžia:
+    - t-002
