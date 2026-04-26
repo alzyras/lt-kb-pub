@@ -1,0 +1,55 @@
+---
+tipas: tema
+pavadinimas: 'šventė'
+sukurta: '2026-04-26'
+tags: []
+---
+
+# šventė
+
+Objektų skaičius: 26. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+
+## Susiję objektai
+
+### Asmenys
+- [[objektai/asmenys/Juozapatas Kuncevičius]]
+- [[objektai/asmenys/Vaitiekus]]
+- [[objektai/asmenys/Šv. Kazimieras]]
+
+### Daiktai
+- [[objektai/daiktai/Gairės]]
+
+### Grupės
+- [[objektai/grupes/Kalvinai]]
+- [[objektai/grupes/Kuršiai]]
+- [[objektai/grupes/Vilniaus kapitula]]
+
+### Papročiai
+- [[objektai/paprociai/Aukso laisvės ideologija]]
+- [[objektai/paprociai/Pagoniškosios Lietuvos tikybinės apeigos]]
+
+### Vietos
+- [[objektai/vietos/Naumiestis]]
+- [[objektai/vietos/Pabaiskas]]
+- [[objektai/vietos/Seirijai]]
+- [[objektai/vietos/Simnas]]
+- [[objektai/vietos/Turmanto stotis]]
+- [[objektai/vietos/Ukmergė]]
+- [[objektai/vietos/Vilniaus kraštas]]
+- [[objektai/vietos/Šventežeris]]
+- [[objektai/vietos/Šventoji]]
+- [[objektai/vietos/Šventosios uostas]]
+
+### Įvykiai
+- [[objektai/ivykiai/Brunono Bonifaco misija į aisčių kraštą ir žūtis]]
+- [[objektai/ivykiai/Lietuvos ir Latvijos sienos nustatymas (1921 m.)]]
+- [[objektai/ivykiai/Vilniaus kalvinų bažnyčios nugriovimas ir naujos bažnyčios pastatymas (1639–1640 m.)]]
+
+### Žodynas
+- [[objektai/zodynas/Alkos ir romuvos]]
+- [[objektai/zodynas/alkos romuvos]]
+- [[objektai/zodynas/gabija]]
+
+## Nerodoma Graph'e
+
+- Dar 1 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.

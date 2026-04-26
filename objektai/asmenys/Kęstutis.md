@@ -1,0 +1,197 @@
+---
+tipas: asmuo
+pavadinimas: 'Kęstutis'
+sukurta: '2026-04-24'
+variantai:
+  - 'Kęstučio'
+  - 'Kęstučiui'
+  - 'Kęstutį'
+  - 'Kiejstut'
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+laikotarpis: 'XIV a.; 1361 m.; 1382 m.'
+datos:
+  - '1361 m.'
+  - '1382 m.'
+periodas: ''
+periodo_grupes: []
+amziai:
+  - 'XIV a.'
+date_start: ''
+date_end: ''
+vaidmenys:
+  - 'vakarų pasienio valdovas'
+  - 'Lietuvos gynėjas'
+dalyviai: []
+susije_irasai: []
+patikimumas: 'aukštas'
+tags:
+  - asmuo
+---
+# Kęstutis
+
+## Santrauka
+
+Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis Lietuvos gynėjas nuo kryžiuočių. Jis siejamas su Trakų pilimi, kovomis su ordinu, pabėgimu iš Marijenburgo ir nužudymu Krėvoje.
+
+## Vaidmenys
+- vakarų pasienio valdovas
+- Lietuvos gynėjas
+
+## Teiginiai
+- t-001
+  teiginys: 'Kęstutis valdė Trakus, Palenkę, Gardiną, Brastą ir jo žinioje buvo Žemaičiai.'
+  pagrindžia:
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Kęstutis buvo pagrindinis Lietuvos vakarų pasienio gynėjas nuo kryžiuočių puolimų.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Kęstutis pastatė mūro pilį Trakų ežero saloje.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Kęstutis apibūdinamas kaip sąžiningas, taurus ir net ordino riterių gerbiamas Lietuvos gynėjas.'
+  pagrindžia:
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: '1361 m. Kęstutis pateko į kryžiuočių nelaisvę, bet padedamas Alpio pabėgo iš Marijenburgo.'
+  pagrindžia:
+    - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Kęstutis kartu su sūnumi Vytautu pradėjo partizanišką karą prieš kryžiuočius.'
+  pagrindžia:
+    - c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'Po penkių dienų kalinimo Krėvoje Kęstutis buvo nužudytas.'
+  pagrindžia:
+    - c-007
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: Kęstutis valdė vakarų pasienį ir Žemaičius.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kęstutis buvo gavęs ilgą vakarų
+    pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą. Jo žinioje
+    buvo ir (tada dar pusiau savarankiški) Žemaičiai. Tad jo bu-
+    vo valdoma visas kryžiuočių ir didelė dalis Lenkijos pasienio.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: Kęstutis buvo svarbiausias pasienio gynybos veikėjas.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Greta Algirdo, svarbiausią vaidmenį vaidino Kęstutis, nes
+    jis valdė pavojingiausią ir priešo dažniausiai puolamą sritį. Jo
+    viso gyvenimo tikslas buvo atlaikyti kryžiuočių puolimus. Al-
+    girdas čia jam visada padėdavo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: Kęstutis pastatė mūro pilį Trakų ežero saloje.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Jo sūnus Kęstutis vėliau pastatė kitą didingą mūro pilį to paties
+    ežero saloje.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: Kęstutis vertinamas kaip taurus ir gerbiamas karys.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo būdu Kęstutis buvo Lietuvos gynėjas nuo vo-
+    kiečių; jis nuolat kovojo. Jis buvo labai sąžiningas, taurus,
+    griežtai laikėsi duotojo žodžio ir buvo įgijęs pagarbos net ordino
+    riterių tarpe.
+  citata_rodoma: ""
+  teiginio_tipas: vertinimas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: Kęstutis pateko į nelaisvę, bet padedamas Alpio pabėgo.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vienam mūšy jis buvo nu-
+    trauktas nuo žirgo ir pakliuvo kryžiuočiams į nelaisvę (1361 m.).
+    Ordinas tuo be galo apsidžiaugė. Tačiau Kęstutis neilgai tebuvo
+    nelaisvėje. Marijenburgo pily kalinamam Kęstučiui buvo duotas
+    patarnauti kryžiuočių išauklėtas lietuvis Alpis, jaunystėje pate-
+    kęs jiems į nelaisvę. Šis ir padėjo Kęstučiui pabėgti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: Kęstutis ir Vytautas pradėjo partizanišką karą.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: Kęstutis buvo nužudytas Krėvoje.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Krėvoje iška-
+    lėjęs 5 dienas, Kęstutis buvo nužudytas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-007
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]

@@ -1,0 +1,45 @@
+---
+tipas: asmuo
+pavadinimas: 'Lengvenis'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
+---
+# Lengvenis
+
+## Santrauka
+
+Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir Vytautas.
+
+## Teiginiai
+- t-001
+  teiginys: 'Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir Vytautas.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir Vytautas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tą aktą patvirtino pats Jogaila, jo
+      broliai Skirgaila, Lengvenis, Kaributas ir Vytautas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/aktas]]
+
+### Susiję objektai
+- [[objektai/asmenys/Kaributas]]

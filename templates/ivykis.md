@@ -5,7 +5,7 @@ sukurta: "{{date:YYYY-MM-DD}}"
 variantai: []
 aliases: []
 saltiniai: []
-zymos: []
+tags: []
 bukle: juodrastis
 laikotarpis: ""
 datos: []

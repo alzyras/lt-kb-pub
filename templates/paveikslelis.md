@@ -9,7 +9,7 @@ variantai:
   - iliustracija
 aliases: []
 saltiniai: []
-zymos: []
+tags: []
 bukle: juodrastis
 laikotarpis: ""
 datos: []
