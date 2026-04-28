@@ -7,12 +7,9 @@ tags: []
 
 # XIII amžius
 
-Objektų skaičius: 5. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 4. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
-
-### Asmenys
-- [[objektai/asmenys/Mindaugas]]
 
 ### Grupės
 - [[objektai/grupes/Kalavijuočių ordinas]]

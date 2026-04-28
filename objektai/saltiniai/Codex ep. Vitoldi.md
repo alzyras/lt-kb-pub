@@ -2,10 +2,17 @@
 tipas: saltinis
 pavadinimas: 'Codex ep. Vitoldi'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - 'Codex epistolaris Vitoldi, magni ducis Lithuaniae'
+  - 'CeV'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+laikotarpis: '1376-1430; 1882 m.'
+datos:
+  - '1376-1430'
+  - '1882 m.'
 patikimumas: 'vidutinis'
 tags:
   - dokumentas
@@ -15,26 +22,45 @@ tags:
 
 ## Santrauka
 
-Semkowicz, Akta unji NNr. 29—31; be to, žiūr.: Codex ep. Vitoldi, 30, 959 psl. ir Cod. ep. saec.
+Šis leidinys minimas kaip Vytauto Didžiojo laiškų rinkinys. Santrumpų sąrašas pateikia pilną leidinio pavadinimą ir leidėją, o kita vieta rodo vartojimą kaip citavimo nuorodą Vytauto ir Jogailos santykių kontekste.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Semkowicz, Akta unji NNr. 29—31; be to, žiūr.: Codex ep. Vitoldi, 30, 959 psl. ir Cod. ep. saec.'
+- t-002
+  teiginys: '„Codex epistolaris Vitoldi, magni ducis Lithuaniae“ yra 1376-1430 m. Vytauto Didžiojo laiškų rinkinys, kurį paskelbė A. Prochaska.'
   pagrindžia:
-    - c-001
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'CeV šiame veikale vartojama kaip citavimo nuoroda Vytauto ir Jogailos santykių pasakojime.'
+  pagrindžia:
+    - c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Semkowicz, Akta unji NNr. 29—31; be to, žiūr.: Codex ep. Vitoldi, 30, 959 psl. ir Cod. ep. saec.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+## Bibliografiniai įrodymai
+- c-002
+  santrauka: Citata pagrindžia pilną leidinio pavadinimą, apimtį ir leidėją.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Visi išlikę dokumentai yra
-    atspausdinti: _St. Kutrzeba_ i _Wl. Semkowicz,_ Akta unji NNr. 29—31; be to,
-    žiūr.: _Codex ep. Vitoldi,_ 30, 959 psl. ir _Cod. ep. saec. XV,_ 16 psl.).
+    CeV = Codex epistolaris Vitoldi, magni ducis Lithuaniae (1376-
+    1430), išl. A. Prochaska (rink. MoMP, t. 6) 1882.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: Citata pagrindžia, kad CeV vartojama kaip dokumentų rinkinio nuoroda Vytauto ir Jogailos santykių kontekste.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    (^10) **CEV, 18 (nr. 53).**
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: 'Pilnas leidinio pavadinimas šioje vietoje neišskleistas, bet santrumpa sutampa su anksčiau pateikta bibliografine forma.'
   pagrindžia:
-    - t-001
+    - t-003

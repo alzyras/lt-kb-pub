@@ -7,7 +7,7 @@ tags: []
 
 # krikštas
 
-Objektų skaičius: 25. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 23. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -17,9 +17,7 @@ Objektų skaičius: 25. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/asmenys/Brunonas]]
 - [[objektai/asmenys/Ernestas (Prahos arkivyskupas)]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Karolis IV]]
-- [[objektai/asmenys/Kristijonas]]
 - [[objektai/asmenys/Meinhardas]]
 - [[objektai/asmenys/Patrikas]]
 

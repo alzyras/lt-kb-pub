@@ -7,7 +7,7 @@ tags: []
 
 # popiežius
 
-Objektų skaičius: 41. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 40. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -16,7 +16,6 @@ Objektų skaičius: 41. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/asmenys/Benediktas XV]]
 - [[objektai/asmenys/Grigalius XIII]]
 - [[objektai/asmenys/Karolis IV]]
-- [[objektai/asmenys/Kazimieras Didysis]]
 - [[objektai/asmenys/Pijus IX]]
 - [[objektai/asmenys/Posevinas]]
 - [[objektai/asmenys/Protasevičius]]
@@ -47,7 +46,8 @@ Objektų skaičius: 41. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/vietos/Seinai]]
 - [[objektai/vietos/Seinų vyskupija]]
 - [[objektai/vietos/Tverė]]
+- [[objektai/vietos/Utena]]
 
 ## Nerodoma Graph'e
 
-- Dar 16 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.
+- Dar 15 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.

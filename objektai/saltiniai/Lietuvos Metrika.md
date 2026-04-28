@@ -8,6 +8,7 @@ variantai:
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 laikotarpis: Algirdo laikai; XV a. vidurys; iki nepriklausomybės galo
 datos: []
 periodas: ''
@@ -26,57 +27,27 @@ tags:
 
 ## Santrauka
 
-Lietuvos Metrika apibūdinama kaip archyvo nuorašų knygų visuma, kurioje surašyti valdovo dovanojimai, teismų sprendimai, seimų nutarimai ir kiti valdžios aktai. Nurodoma, kad ši archyvinė medžiaga buvo kaupiama iki pat nepriklausomybės galo, o rusams užėmus Lietuvą išvežta į Rusiją ir atsidūrė Maskvoje.
-
-## Turinys ir pobūdis
-
-- Šaltinio pobūdis: archyvo nuorašų knygų rinkinys.
-- Autorius ar sudarytojas: nenurodytas.
-- Laikotarpio nuoroda: Algirdo laikai; XV a. vidurys; iki nepriklausomybės galo.
+Zenono Ivinskio veikale Lietuvos Metrika minima bibliografinėje nuorodoje, kurioje išvardijami 20, 27, 30 ir 33 tomai ir pateikiama nuoroda į autoriaus straipsnį „Lietuvos Metrika“ LE 16, 135-137 p.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Lietuvos Metrika vadinamas archyvas, sudarytas iš nuorašų knygų su valdovo dovanojimais, teismų sprendimais, seimų nutarimais ir kitais valdžios aktais.'
+- t-003
+  teiginys: 'Zenono Ivinskio veikale Lietuvos Metrika siejama su 20, 27, 30 ir 33 tomais bei enciklopediniu straipsniu „Lietuvos Metrika“ LE 16, 135-137 p.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Medžiaga į Lietuvos Metriką buvo kraunama iki pat nepriklausomybės galo, o rusams užėmus Lietuvą archyvas buvo išvežtas į Rusiją ir atsidūrė Maskvoje.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+    - c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Bibliografiniai įrodymai
-- c-001
-  santrauka: Citata apibrėžia, kas vadinama Lietuvos Metrika ir kokio pobūdžio aktai joje buvo surašomi.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-003
+  santrauka: Zenono Ivinskio bibliografinėje nuorodoje išvardijami konkretūs Lietuvos Metrikos tomai ir autoriaus straipsnis apie ją.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Iš pradžių čia buvo saugomi tik valdovo dovanojimų raštai,
-    o vėliau tam tikrose knygose buvo surašomi ne tik dova-
-    nojimai, bet ir teismų sprendimai, seimų nutarimai ir kiti valdžios
-    aktai. Šitos nuorašų knygos buvo vadinamos Metrika. Tuo
-    būdu visas susidaręs archyvas vadinamas Lietuvos Met-
-    rika.
+    (^133) **Lietuvos Metrika yra šiuose tomuose : 20 t., 1903 ; 27 t., 1910 ; 30 t.,
+    1914 ; 33 t., 1915; žr. Z. Ivinskis :** **_Lietuvos Metrika,_** **LE 16, 135-137 p.**
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: Citata nurodo archyvo kaupimo trukmę ir jo išvežimą į Rusiją.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Į tą archyvą buvo kraunama medžiaga iki pat nepriklau-
-    somybės galo. Lietuvą užėmus rusams, jis buvo išvežtas į Ru-
-    siją ir dabar yra Maskvoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
+    - t-003

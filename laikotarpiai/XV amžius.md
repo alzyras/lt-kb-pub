@@ -7,13 +7,9 @@ tags: []
 
 # XV amžius
 
-Objektų skaičius: 19. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 17. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
-
-### Asmenys
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Vytautas]]
 
 ### Grupės
 - [[objektai/grupes/Kryžiuočių ordinas]]

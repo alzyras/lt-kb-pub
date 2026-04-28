@@ -10,6 +10,7 @@ variantai:
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 laikotarpis: 'XIV a.; 1382 m.; 1384 m.; 1385 m.; 1386 m.; 1387 m.; 1401 m.'
 datos:
   - '1382 m.'
@@ -84,6 +85,36 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   pagrindžia:
     - c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: '1428 m. Jogaila pirmą kartą pamatė Palangą, jau būdamas žilas senelis.'
+  pagrindžia:
+    - c-008
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: 'Jogaila įsipareigojo visus lietuvių tautos gyventojus net jėga priversti paklusti Romos Bažnyčiai.'
+  pagrindžia:
+    - c-009
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: '1398 m. Jogaila formaliai pripažino Vytautą vyriausiuoju Lietuvos kunigaikščiu.'
+  pagrindžia:
+    - c-010
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-011
+  teiginys: '1409 m. Vytautas ir Jogaila sutarė bendrą karinį planą prieš ordiną.'
+  pagrindžia:
+    - c-011
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-012
+  teiginys: 'Jogaila iš pradžių pritarė Vytauto vainikavimuisi, bet vėliau jam kliudė.'
+  pagrindžia:
+    - c-012
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -207,14 +238,84 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-007
+- c-008
+  santrauka: Jogaila 1428 m. pirmą kartą pamatė Palangą.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    labai siaurą priėjimą prie Baltijos (Palangos), kurią čia pirmą
+    kartą pamatė Jogaila, jau būdamas žilas senelis (1428)^3.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: Jogaila įsipareigojo jėga priversti lietuvius paklusti Romos Bažnyčiai.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Savo dokumente Jogaila pareiškė, jog, jo broliams ir visiems
+    Lietuvos didikams sutinkant, jis įsipareigojo visus lietuvių tautos
+    gyventojus, kokioje jie bebūtų sektoje, «patraukti, pašaukti, net
+    jėga priversti » paklusti Romos Bažnyčiai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: Jogaila 1398 m. formaliai pripažino Vytautą vyriausiuoju Lietuvos kunigaikščiu.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vytauto veikimą totorių stepėse palaikė ir Jogaila. 1398 galo
+    jis formaliai pripažino pusbroliui ir daugiau teisių, pavadindamas
+    jį « vyriausiuoju Lietuvos kunigaikščiu » — « supremus dux Litua­
+    niae »^24.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: Vytautas ir Jogaila 1409 m. sutarė bendrą karinį planą.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vytautas ir Jogaila 1409 m.
+    gruodžio mėn. sutarė _bendrą_ karinį planą, kuris už pusmečio buvo
+    įvykdytas. Susijungusios Červinske prie Vyslos lietuvių ir lenkų
+    jėgos turėjo žygiuoti į Marienburgą^5.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: Jogaila iš pradžių pritarė Vytauto vainikavimuisi, bet vėliau stojo skersai kelio.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vytautui užgaunanti pasirodė Jogailos laikysena,
+    kuris, pradžioje pritaręs Vytauto vainikavimuisi^11 , paskui atsistojo
+    skersai kelio.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-012
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/krikštas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Vytautas]]

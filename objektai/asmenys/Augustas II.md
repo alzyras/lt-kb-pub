@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -51,6 +52,12 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   teiginys: 'Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką, atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį (1706 m.).'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Petro Didžiojo epocha, sutapusi su saksų laikų pradžia, atvėrė naują laikotarpį ir Augusto II valdymo kontekste.'
+  pagrindžia:
+    - c-009
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -163,6 +170,21 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: Augustas II minimas kaip saksų laikų pradžios valdovas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ir Rusijai ir lietuvių-lenkų respublikai Petro Didžiojo epocha,
+    kuri sutapo su pradžia «saksų laikų» (Augustas II), atvėrė
+    naują laikotarpį.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_variant
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Teminiai klasteriai

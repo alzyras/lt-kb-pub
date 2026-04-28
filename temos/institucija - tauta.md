@@ -7,7 +7,7 @@ tags: []
 
 # institucija - tauta
 
-Objektų skaičius: 33. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 32. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -18,7 +18,6 @@ Objektų skaičius: 33. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/asmenys/J. Jablonskis]]
 - [[objektai/asmenys/M. Yčas]]
 - [[objektai/asmenys/Norman Davis]]
-- [[objektai/asmenys/Pilsudskis]]
 - [[objektai/asmenys/Pr. Mašiotas]]
 - [[objektai/asmenys/Vilsonas]]
 
@@ -45,7 +44,8 @@ Objektų skaičius: 33. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/ivykiai/1917 m. lietuvių seimas Petrapilyje]]
 - [[objektai/ivykiai/Amerikos lietuvių fondų ir komitetų kūrimas Lietuvos reikalams (1905–1913 m.)]]
 - [[objektai/ivykiai/Karo metų Amerikos lietuvių politinis ir organizacinis aktyvumas (1914–1918 m.)]]
+- [[objektai/ivykiai/Kosciuškos sukilimas (1794 m.)]]
 
 ## Nerodoma Graph'e
 
-- Dar 8 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.
+- Dar 7 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.

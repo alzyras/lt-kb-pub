@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -33,6 +34,12 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   teiginys: 'Augustui III mirus, kandidatų į sostą atsirado nemaža.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Sustiprėjusi Rusijos įtaka Respublikoje aiškiai atsivėrė per Augusto III 1733 m. elekciją.'
+  pagrindžia:
+    - c-005
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -91,7 +98,19 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/bajorija - karalius]]
+- c-005
+  santrauka: Augusto III 1733 m. elekcija siejama su sustiprėjusia Rusijos įtaka.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Respublikos suverenumas vis labiau visokiais budais būdavo
+    pažeidžiamas. Tipiškai atsivėrė sustiprėjusi Rusijos įtaka per Au­
+    gusto III-jo (1733 m.) ir ypač per Stanislovo Augusto Poniatovskio
+    (1764) elekciją.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_variant
+  pagrindžia:
+    - t-005

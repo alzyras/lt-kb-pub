@@ -23,6 +23,7 @@ Objektų skaičius: 28. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/posakiai/nihil novi]]
 
 ### Įvykiai
+- [[objektai/ivykiai/1507–1508 m. karas su Maskva ir Mykolo Glinskio maištas]]
 - [[objektai/ivykiai/1509 m. amžinoji taika su Maskva]]
 - [[objektai/ivykiai/1522 m. paliaubos su Maskva]]
 - [[objektai/ivykiai/1571 m. paliaubos su Maskva]]
@@ -36,7 +37,6 @@ Objektų skaičius: 28. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/ivykiai/Liublino unijos akto priėmimas ir patvirtinimas (1569 m.)]]
 - [[objektai/ivykiai/Livonijos prijungimas prie Lietuvos valstybės (1561–1566 m.)]]
 - [[objektai/ivykiai/Nesvyžiaus jėzuitų kolegijos įkūrimas (1582 m.)]]
-- [[objektai/ivykiai/Oršos mūšis (1508 m.)]]
 - [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
 - [[objektai/ivykiai/Stepono Batoro mirtis (1586 m. gruodžio 12 d.)]]
 - [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]

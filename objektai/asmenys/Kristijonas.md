@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -34,6 +35,18 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   teiginys: 'Netrukus vyskupas Kristijonas pateko prūsams į nelaisvę, iš kurios ordinas nesirūpino jo išvaduoti net 5 metus.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Mindaugo diecezijos vyskupas Kristijonas 1259 m. galutinai pasitraukė į Vokietiją, o jo įpėdiniai į lietuvių žemę nebegrįžo.'
+  pagrindžia:
+    - c-005
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Nuo 1216 m. Kristijonas, gavęs „Prūsų vyskupo“ titulą, kaip cistersų vienuolis taikiu būdu bandė krikštyti prūsus.'
+  pagrindžia:
+    - c-006
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -92,7 +105,35 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/krikštas]]
+- c-005
+  santrauka: Kristijonas 1259 m. pasitraukė į Vokietiją, o jo įpėdiniai į lietuvių žemę nebegrįžo.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Pirmiausia reikia išaiškinti, kodėl taip ne­
+    patvari buvo mindauginė vyskupija, kurioje nebuvo spėta suorga­
+    nizuoti parapijų. « Lietuvos diecezijai » buvo lemta greitai žlugti,
+    ypač, kai jos vyskupas Kristijonas jau 1259 m. turėjo galutinai
+    pasitraukti Vokietijon^7 , iš kurios ir jo įpėdiniai kojos lietuvių žemėn
+    nebeįkėlė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: Kristijonas, gavęs Prūsų vyskupo titulą, taikiu būdu bandė krikštyti prūsus.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ten nuo 1216 metų, gavęs «Prūsų vyskupo» titulą ir Romos palaikomas, veikė cistersų vienuolis Kris­
+    tijonas^73. Jis paskutinis taikiu būdu bandė krikštyti prūsus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-006

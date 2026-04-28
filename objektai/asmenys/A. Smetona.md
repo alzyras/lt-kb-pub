@@ -8,6 +8,7 @@ variantai:
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 laikotarpis: '1896 m.; 1907 m.'
 datos:
   - '1896 m.'
@@ -80,6 +81,12 @@ A. Smetona rodomas kaip tautinio judėjimo ir nepriklausomybės laikotarpio poli
   pagrindžia:
     - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'Po 1940 m. komunistinės okupacijos spaudoje prasidėjo prezidento Smetonos ir jo sistemos niekinimas.'
+  pagrindžia:
+    - c-007
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -183,11 +190,24 @@ A. Smetona rodomas kaip tautinio judėjimo ir nepriklausomybės laikotarpio poli
   priskyrimo_pagrindas: explicit_variant
   pagrindžia:
     - t-006
+- c-007
+  santrauka: Po 1940 m. okupacijos spaudoje pradėtas niekinimas prezidento Smetonos ir jo sistemos.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tos tradicinės periodizacijos tačiau buvo atsisakyta, kai tik
+    Lietuva buvo komunistų okupuota (1940). Buvo charakteringa,
+    kad spaudoje tuoj prasidėjo niekinimas ne tik prezidento Smetonos
+    ir jo sistemos, bet ir didžiųjų Lietuvos kunigaikščių, labiausiai
+    kritikuojant Vytautą Didįjį^13.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_variant
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/J. Tūbelis]]

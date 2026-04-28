@@ -10,6 +10,7 @@ variantai:
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 laikotarpis: 'XIV a.; 1361 m.; 1382 m.'
 datos:
   - '1361 m.'
@@ -33,7 +34,7 @@ tags:
 
 ## Santrauka
 
-Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis Lietuvos gynėjas nuo kryžiuočių. Jis siejamas su Trakų pilimi, kovomis su ordinu, pabėgimu iš Marijenburgo ir nužudymu Krėvoje.
+Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis Lietuvos gynėjas nuo kryžiuočių. Jis siejamas su Trakų pilimi, kovomis su ordinu, derybomis dėl krikšto, herojiškais pagoniškojo patriotizmo laikais, Jogailos pergale prieš jį ir nužudymu Krėvoje.
 
 ## Vaidmenys
 - vakarų pasienio valdovas
@@ -81,6 +82,42 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   pagrindžia:
     - c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: 'Kęstutis šiame šaltinyje įvardijamas vienu iš paskutinių pagoniškų Lietuvos valdovų.'
+  pagrindžia:
+    - c-008
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: '1381 m. Kęstutis, išvaręs Jogailą, tapo vyriausiuoju Lietuvos valdovu ir atsisėdo Vilniaus pilyje.'
+  pagrindžia:
+    - c-009
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: 'Darydamas taiką su Liudviku Anjou, Kęstutis žadėjo priimti krikštą, steigti vyskupijas ir vienuolynus, bet naktį pabėgo.'
+  pagrindžia:
+    - c-010
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-011
+  teiginys: 'Kęstutis gyvenimą baigė kalėjime, o ne kautynių lauke.'
+  pagrindžia:
+    - c-011
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-012
+  teiginys: 'Kęstučio laikai šaltinyje siejami su herojišku pagonišku patriotizmu ir didžiausiu kryžiuočių spaudimu.'
+  pagrindžia:
+    - c-012
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-013
+  teiginys: 'Jogaila, remiamas kryžiuočių, nugalėjo Kęstutį.'
+  pagrindžia:
+    - c-013
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -191,7 +228,119 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-007
+- c-008
+  santrauka: Kęstutis įvardijamas vienu iš paskutinių pagoniškų Lietuvos valdovų.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Matomai Lietuvos valdo­
+    vai, kurie iki 1385 m. dar buvo pagonys, ar buvo pagoniškais pa­
+    pročiais palaidojami (paskutinieji jų, Algirdas 1377 m. ir Kęstutis
+    1382 m.), ir savo valdomą lietuvių tautą patys tebelaikė dar pago­
+    niška.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 1381 m. Kęstutis tapo vyriausiuoju Lietuvos valdovu.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kęstutis vy­
+    riausiuoju Lietuvos valdovu tetapo 1381, kai pats, išvaręs Jogailą,
+    atsisėdo Vilniaus pilyje.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: Kęstutis žadėjo priimti krikštą, bet iš derybų pasitraukė.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Darydamas taiką su Vengrijos karaliumi Liudviku Anjou,
+    Kęstutis žadėjo jam pagalbą ir sutiko pats su savo broliais ir
+    valdiniais priimti krikštą. Už tai Liudvikas jam turėjo iš popie­
+    žiaus išrūpinti karaliaus karūną. Be to, Vengrija su Lenkija turėjo
+    priversti ordiną grąžinti Lietuvai atimtas jos žemes ir ją ginti nuo
+    kryžiuočių ir totorių. Abi pusi tą susitarimą patvirtino priesaiko-
+    mis; pats Kęstutis, kaip kunigas, ten atliko pagoniškas jaučio
+    aukojimo apeigas, kurios smulkiai yra užrašytos Dubno kronikoje^7.
+    Pasižadėjęs įkurti Lietuvoje vyskupijų ir vienuolynų, Kęstutis dėl
+    neišaiškinamų priežasčių tačiau nakties tamsoje pabėgo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: Kęstučio gyvenimo pabaiga apibūdinama kaip kalėjimo tragedija.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Didysis kovotojas savo gyvenimą baigė ne kautynių lauke, o
+    kalėjime sūnėno, kurio tėvui visą amžių buvo ištikimai talkinęs.
+    Tas bendradarbiavimas buvo užtikrinęs valstybei reikalingą stipry-
+    bę paties didžiojo ordino spaudimo metu. Bet Kęstučiui, ypač į
+    gyvenimo galą, reikėjo pakelti ir eilę asmeniškų smūgių.
+  citata_rodoma: ""
+  teiginio_tipas: vertinimas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: Kęstučio laikai susiejami su didžiausiu kryžiuočių spaudimu.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Herojiškais Gedimino ir Kęstučio pagoniškojo patriotizmo laikais vyko pats didžiausias kryžiuočių spaudimas, kuris teikė
+    lietuviams ir skaudžių nuostolių (1336 m. Pilėnai, 1348 m. Strėva,
+    1362 m. Kauno išgriovimas, 1370 m. Rudava, 1391 m. Vilniaus
+    apgulimas).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: Kęstučio pralaimėjimas susiejamas su Jogailos pažadu ordinui.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jogaila turėjo pažadėti Žemaičius kryžiuočiams, kai jų remia­
+    mas nugalėjo Kęstutį.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-013
+
+## Šaltiniai ir įrodymai
+
+## Pastabos
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
+### Susiję objektai
+- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Alpis]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/vietos/Krėva]]
+- [[objektai/vietos/Marijenburgas]]
+- [[objektai/ivykiai/Paskutinės Kęstučio kovos ir mirtis]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/asmenys/Vytautas]]

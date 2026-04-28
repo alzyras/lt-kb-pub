@@ -9,6 +9,7 @@ variantai:
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 laikotarpis: 'XIV a.; 1345 m.; 1362 m.; 1377 m.'
 datos:
   - '1345 m.'
@@ -79,6 +80,24 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   pagrindžia:
     - c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: 'Algirdas šiame šaltinyje įvardijamas vienu iš paskutinių pagoniškų Lietuvos valdovų.'
+  pagrindžia:
+    - c-008
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: 'Lietuvai įsiviešpataujant rytų erdvėje iki Okos aukštupių, Maskva Algirdui dar nepajėgė aktyviai atsispirti.'
+  pagrindžia:
+    - c-009
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: 'Paliuosuodamas Rusios žemes iš totorių jungo ir palikdamas ankstesnę tvarką, Algirdas labiausiai išplėtė savo valdžią į rytus ir pietus.'
+  pagrindžia:
+    - c-010
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -190,12 +209,58 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-007
+- c-008
+  santrauka: Algirdas įvardijamas vienu iš paskutinių pagoniškų Lietuvos valdovų.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Matomai Lietuvos valdo­
+    vai, kurie iki 1385 m. dar buvo pagonys, ar buvo pagoniškais pa­
+    pročiais palaidojami (paskutinieji jų, Algirdas 1377 m. ir Kęstutis
+    1382 m.), ir savo valdomą lietuvių tautą patys tebelaikė dar pago­
+    niška.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: Maskva Algirdui dar nepajėgė aktyviai atsispirti.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Atskirą didelę epochą sudarė Lietuvos istorijoje, kai lietuviai
+    įsiviešpatavo anoje rytų erdvėje iki Okos aukštupių (anapus Dniep­
+    ro). Lietuva tada buvo ofenzyvoje. Tad rivalizuojanti Maskva
+    Algirdui dar nepajėgė aktyviai atsispirti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: Algirdas labiausiai išplėtė savo valdžią į rytus ir pietus.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Paliuosuodamas Rusios žemes iš totorių jungo ir « po senovei»
+    _(po staremu)_ palikdamas iš anksčiau susidėsčiusią tvarką, Algirdas
+    savo valdžią labiausiai išplėtė į rytus ir į pietus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Jaunutis]]
 - [[objektai/ivykiai/Jaunučio pašalinimas ir Algirdo bei Kęstučio valdžios perėmimas]]
 - [[objektai/vietos/Tverė]]
+- [[objektai/asmenys/Kęstutis]]

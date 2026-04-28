@@ -13,6 +13,7 @@ variantai:
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 laikotarpis: 'XIII a.; 1251 m.; 1262 m.; 1263 m.'
 datos:
   - '1251 m.'
@@ -36,7 +37,7 @@ tags:
 
 ## Santrauka
 
-Mindaugas šiame šaltinyje rodomas kaip XIII a. Lietuvos valdovas, sutelkęs kitus kunigaikščius ir pradėjęs kurti valstybę. Jis siejamas su krikštu, pasiuntinybe į Romą, santykiais su ordinu, šeimos konfliktais ir sąmokslu prieš jį.
+Mindaugas šiame šaltinyje rodomas kaip pirmasis Lietuvos karalius ir ankstyvasis valstybės telkėjas. Jis siejamas su įsigalėjimu apie 1240 m., didelėmis karinėmis akcijomis, krikštu, karūnavimu, taika su ordinu, valdžios plėtimu į rytus, Žemaičių užrašais ordinui ir orientacija į Vakarų Europos kultūrą bei lotyniškąją krikščionybę.
 
 ## Vaidmenys
 - Lietuvos valdovas
@@ -95,6 +96,60 @@ Mindaugas šiame šaltinyje rodomas kaip XIII a. Lietuvos valdovas, sutelkęs ki
   pagrindžia:
     - c-009
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: 'Mindaugas šaltinyje įvardijamas pirmuoju Lietuvos karaliumi.'
+  pagrindžia:
+    - c-010
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-011
+  teiginys: 'Apie 1240 m. Mindaugas tapo vieninteliu tikrosios Lietuvos ir rytinės dalies Žemaičių valdytoju bei tų žemių vyriausiuoju kunigu.'
+  pagrindžia:
+    - c-011
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-012
+  teiginys: 'Mindaugas valdžią stiprino gudrumu, klasta ir jėga šalindamas ar palenkdamas kitus Aukštaičių kunigus.'
+  pagrindžia:
+    - c-012
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-013
+  teiginys: '1244 m. žygyje į Kuršą prie Ambotės Mindaugas atvedė didelę kariuomenę.'
+  pagrindžia:
+    - c-013
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-014
+  teiginys: 'Mindaugui pasidavusi didelė daugybė pagonių priėmė krikštą.'
+  pagrindžia:
+    - c-014
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-015
+  teiginys: '1251-1261 m. Mindaugas oficialiai taikavosi su ordinu ir taip apsisaugojo nuo netikėtų Livonijos ordino invazijų.'
+  pagrindžia:
+    - c-015
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-016
+  teiginys: 'Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke ir užėmė naujų žemių prie Dniepro - Černigovo ir Briansko kunigaikštijose.'
+  pagrindžia:
+    - c-016
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-017
+  teiginys: 'Krikštu ir karūna Mindaugas pirmasis nurodė Lietuvai kelią į Vakarų Europos kultūrą ir lotyniškąją krikščionybę.'
+  pagrindžia:
+    - c-017
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-018
+  teiginys: 'Karūnavimo metais Mindaugas Žemaičiuose užrašė dalį žemių ordinui ir vyskupui Kristijonui.'
+  pagrindžia:
+    - c-018
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -238,7 +293,154 @@ Mindaugas šiame šaltinyje rodomas kaip XIII a. Lietuvos valdovas, sutelkęs ki
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-009
+- c-010
+  santrauka: Mindaugas įvardijamas pirmuoju Lietuvos karaliumi.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Suprantama, tiedu vyrai tai Mindaugas ir Vytautas. Apie žymųjį Kęstu­
+    taitį yra tikrai bent keliasdešimt kartų daugiau medžiagos negu apie
+    pirmąjį Lietuvos karalių, apie kurį šį kartą tekalbėsime. Bet ir apie
+    jį daug rašyta!
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: Mindaugo įsigalėjimas apie 1240 m. siejamas su vienvaldyste tikrojoje Lietuvoje ir rytinėje Žemaičių dalyje.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Apie 1240 m. Mindaugas, įveikęs savo priešus, tapo vieninteliu
+    tikrosios Lietuvos ir rytinės dalies Žemaičiu valdytoju, tų žemių
+    vyriausiuoju kunigu. Kalbant rytų kaimynų kronikų terminu, jis
+    tapo _didžiuoju_ Lietuvos kunigaikščiu,
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: Pabrėžiama, kad Mindaugas valdžią stiprino jėga ir klasta.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Mindaugas savo įsigalėjimui yra panaudojęs merovinginius metodus.
+    Savo gudrumu, klasta ir jėga jam pasisekė pašalinti, išvaryti, nužu­
+    dyti ar priversti savo valdžiai paklusti kitus vyresniuosius ir smulkes­
+    nius Aukštaičių kunigus.
+  citata_rodoma: ""
+  teiginio_tipas: interpretacija
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 1244 m. Kuršo žygis išryškinamas kaip Mindaugo karinės jėgos demonstracija.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Akivaizdžia Mindaugo karinės jėgos demonstracija yra laikoma tai,
+    kad jis 1244 m. savo žygyje į Kuršą prie Ambotės buvo atvedęs
+    didelę kariuomenę^58. Poezijos rimams suderinti vis didelius skaičius
+    vartodamas, Eiliuotinės kronikos autorius rašė, kad Mindaugas ten
+    atvedęs 30.000 karių^59.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: Mindaugo krikštas siejamas ir su didele daugybe jam pasidavusių pagonių.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    1250 m. gale ar 1251 pradžioje Mindaugas priėmė krikštą. Jis
+    krikštijosi ne tik su sūnumis ir žmona, kuri gavo Mortos vardą, bet ir su būriu
+    jam priklausančių žemių gyventojų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: Mindaugo taika su ordinu apibrėžiama kaip dešimtmetis oficialios ramybės.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Krikštu ir žemių užrašais Lietuvos karalius apsisaugojo nuo
+    netikėtų Livonijos ordino invazijų ir sau užsitikrino ramybę, su
+    kryžiuočiais visą dešimtmetį (1251-1261) būdamas oficialiai taikoje.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-015
+- c-016
+  santrauka: Mindaugui priskiriamas valdžios atgavimas Polocke ir plėtra prie Dniepro.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-016
+- c-017
+  santrauka: Mindaugas laikomas pirmuoju Lietuvos vedliu į Vakarų kultūrą ir lotyniškąją krikščionybę.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Laimėjęs Livonijos kryžiuočių palankumą, Mindaugas pajėgė iš
+    tos jo valstybei pavojingos bičiulystės ištraukti jai naudos. Savo
+    vakarykščio priešo apkrikštytas ir įgijęs karališką karūną. Mindaugas
+    _pirmasis_ Lietuvai nurodė kelią į Vakarų Europos kultūrą ir į loty­
+    niškąją krikščionybę.
+  citata_rodoma: ""
+  teiginio_tipas: vertinimas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-017
+- c-018
+  santrauka: Karūnavimo metų žemių užrašai siejami su atlygiu ordinui ir vyskupui Kristijonui.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Už karūnos išrūpinimą 1251 m. Mindaugas užrašė Livonijos ordinui žemių
+    Žemaičiuose. Kryžiuočių rankose atsirado (su 1257 ir 1259 datomis)
+    dokumentai, kuriais esą Mindaugas ordinui užrašęs visą Žemaitiją^2.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-018
+
+## Šaltiniai ir įrodymai
+
+## Pastabos
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
+### Susiję objektai
+- [[objektai/asmenys/Daumantas]]
+- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
+- [[objektai/asmenys/Vaišvilkas]]
+- [[objektai/vietos/Voruta]]

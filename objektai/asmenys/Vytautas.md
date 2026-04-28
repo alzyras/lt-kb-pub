@@ -13,6 +13,7 @@ variantai:
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 laikotarpis: 'XIV a. pabaiga; XV a. pradžia; 1384 m.; 1392 m.; 1401 m.; 1410 m.; 1413 m.; 1430 m.'
 datos:
   - '1384 m.'
@@ -42,7 +43,7 @@ tags:
 
 ## Santrauka
 
-Vytautas šiame šaltinyje rodomas kaip savarankišku tapęs Lietuvos valdovas, derinęs kovą, diplomatiją ir valstybės stiprinimą. Jis siejamas su pabėgimu iš Krėvos, Astravo susitarimu, Vorsklos pralaimėjimu, Tanenbergo vadovybe, Žemaičių krikštu, Lucko suvažiavimu ir 1430 m. mirtimi.
+Vytautas šiame šaltinyje rodomas kaip savarankišku tapęs Lietuvos valdovas, derinęs kovą, diplomatiją ir valstybės stiprinimą. Jis siejamas su pabėgimu iš Krėvos, Astravo susitarimu, Vorsklos pralaimėjimu, Tanenbergo vadovybe, Žemaičių krikštu, Trakų salos pilimi, Žemaičių klausimo politika, Salyno suvažiavimu ir 1430 m. mirtimi.
 
 ## Vaidmenys
 - Lietuvos valdovas
@@ -103,6 +104,96 @@ Vytautas šiame šaltinyje rodomas kaip savarankišku tapęs Lietuvos valdovas, 
   pagrindžia:
     - c-010
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: 'Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santykių atsiradimu stepėje.'
+  pagrindžia:
+    - c-011
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-011
+  teiginys: 'Vytauto „arklių girdymas“ Juodojoje jūroje ilgai išliko žmonių atmintyje.'
+  pagrindžia:
+    - c-012
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-012
+  teiginys: 'Žemaičiai į Lietuvos valstybę labiau buvo įjungti Vytauto laikais.'
+  pagrindžia:
+    - c-013
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-013
+  teiginys: 'Sugrįžęs iš ordino, Vytautas 1384–1389 m. tarnavo Jogailai ir rėmė jo politinius bei kultūrinius žygius.'
+  pagrindžia:
+    - c-014
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-014
+  teiginys: 'Vytautas aktyviai rūpinosi krikščionybės plėtra ir, šaltinio vertinimu, kaip Lietuvos krikščionintojas turėjo žymių nuopelnų greta Jogailos.'
+  pagrindžia:
+    - c-015
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-015
+  teiginys: 'Vytautas įsteigė ir aprūpino Medininkų vyskupiją bei organizavo eilę parapinių bažnyčių Lietuvoje.'
+  pagrindžia:
+    - c-016
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-016
+  teiginys: 'Vytautas gynė visos Lietuvos reikalus ir jos nepriklausomybę, nepakęsdamas Didžiosios Lietuvos Kunigaikštystės žeminimo.'
+  pagrindžia:
+    - c-017
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-017
+  teiginys: 'Trakų Galvės ežero salos pilis šaltinyje vadinama Vytauto Didžiojo pasididžiavimu.'
+  pagrindžia:
+    - c-018
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-018
+  teiginys: '1392 m. gavęs Vilnių Vytautas įgijo didžiojo Lietuvos kunigaikščio titulą.'
+  pagrindžia:
+    - c-019
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-019
+  teiginys: 'Algirdo pasiektas Okos šaltinių valdas papildomai teužvaldė Vytautas, paimdamas Okos aukštupių kunigaikštijas.'
+  pagrindžia:
+    - c-020
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-020
+  teiginys: 'Per 1384-1404 m. Vytautas keturis kartus raštu pažadėjo ordinui Žemaičius ir tiek pat kartų juos vėl susigrąžino.'
+  pagrindžia:
+    - c-021
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-021
+  teiginys: 'Salyno suvažiavimo puotoje Vytautas buvo paskelbtas Lietuvos karaliumi.'
+  pagrindžia:
+    - c-022
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-022
+  teiginys: '1404 m. prie Lampėdžių Vytautas pažadėjo per dešimtį metų nepriiminėti iš ordino žemių činšininkų.'
+  pagrindžia:
+    - c-023
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-023
+  teiginys: 'Kautynių metu Vytautas tvarkė pulkus, davinėjo įsakymus ir atstatinėjo pralaužtas vietas.'
+  pagrindžia:
+    - c-024
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-024
+  teiginys: 'Vytautui priskiriamas didelis švaistymasis materialinėmis gėrybėmis, ypač norint pasirodyti užsieniečiams.'
+  pagrindžia:
+    - c-025
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -217,47 +308,44 @@ Vytautas šiame šaltinyje rodomas kaip savarankišku tapęs Lietuvos valdovas, 
   pagrindžia:
     - t-007
 - c-008
-  santrauka: Lucko suvažiavimo šeimininkas buvo Vytautas.
+  santrauka: Lucko suvažiavime kilo Vytauto karūnavimo klausimas.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jis buvo sušauktas Vytauto pily, Lucke.
-    Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės,
-    Riazanės kunigaikščiai; atvyko daugybė Vytauto priklausomų
-    rusų kunigaikščių; pagaliau atvyko pats imperatorius Zigman-
-    tas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaik-
-    ščių atstovų. Suvažiavimo šeimininkas, Vytautas, turėjo progos
-    parodyti savo vaišingumą.
+    Jo šeimininku buvo Vytautas. Čia buvo suvažiavusi visa Vidu-
+    rio ir rytų Europa. Ten buvo atvykęs ir imperatorius Zigman-
+    tas. Vienų iškilmių metu jo žmonos garbei vienas čigonas turėjo
+    tai, ką visi galvojo, bet niekas nedrįso pasakyti: „Tavo vyras gali
+    būti Romos imperatorium, o Vytautas Lietuvoj — karalium".
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-008
 - c-009
-  santrauka: Lucke iškeltas Vytauto karūnavimo Lietuvos karaliumi sumanymas.
+  santrauka: Lucko suvažiavime buvo sumanyta Vytautą vainikuoti Lietuvos karaliumi.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiau-
-    siųjų buvo sumanymas karūnuoti Vytautą Lietuvos karalium.
-    Sumanymą iškėlė imperatorius Zigmantas.
+    Žinoma, čia niekas ir ne-
+    galvojo atskirti Lietuvą nuo Lenkijos. Tačiau iškelti Lietuvą, pa-
+    daryti ją karalyste jau atrodė galima. Tuo būdu Lucke ir buvo
+    iškeltas sumanymas vainikuoti Vytautą Lietuvos karalium.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  teiginio_tipas: interpretacija
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-008
 - c-010
-  santrauka: Vytautas mirė 1430 m. spalio 27 d.
+  santrauka: Vytauto mirties data ir amžius.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vytautas ponų susitarimo jau nebesulaukė: jis mirė 1430 m.
-    spalių m ė n. 27 d.; mirė jau senelis, turėdamas 80 metų
-    su viršum. Mirties priežastį vieni šaltiniai nurodo votį ant pe-
-    ties, kiti susitrenkimą.
+    1430 m. spalių 27 d. Vytautas mirė. Tuomet jam buvo dau-
+    giau kaip 80 metų amžiaus.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -266,12 +354,251 @@ Vytautas šiame šaltinyje rodomas kaip savarankišku tapęs Lietuvos valdovas, 
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-009
+- c-011
+  santrauka: Vytauto pasirodymas Dniepro žemupyje siejamas su pastovesnių santykių atsiradimu stepėje.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vytauto pasirodymas Dniepro žemupio plotuose, užvaldymas
+    anos klajoklių bei nomadų tautų (vengrų, pečeniegų, chazarų, po­
+    lovcų-kumanų, pagaliau mongolų-totorių), viena po kitos šimtmečių
+    bėgyje teriotos ar laikinai apgyventos stepės, turėjo atnešti čia
+    pastovesnius santykius.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-010
+- c-012
+  santrauka: Vytauto „arklių girdymas“ Juodojoje jūroje ilgai išliko žmonių atmintyje.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vytauto «arklių girdymas» Juodojoje
+    jūroje ilgai pasiliko žmonių atminime.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-011
+- c-013
+  santrauka: Žemaičių integracija į valstybę siejama su Vytauto laikais.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Žemaičiai į Lietuvos valstybę labiau buvo įjungti
+    Vytauto laikais, nors savo skirtingas privilegijas išlaikė iki pat
+    XVI amž.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-012
+- c-014
+  santrauka: Sugrįžęs iš ordino Vytautas rėmė Jogailos žygius.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Sugrįžęs iš ordino, Vytautas penkerius metus (1384-89) tarnavo
+    Jogailai ir rėmė visus jo politinius bei kultūrinius žygius, Lietuvos
+    ir Lenkijos ateičiai palikusius savo pėdsakų iki pat šių dienų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-013
+- c-015
+  santrauka: Vytauto nuopelnai krikščioninant Lietuvą iškeliami greta Jogailos.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Supratęs krikščionybės naudą, Vytautas aktyviai rūpinosi ją plėsti, ir kaip Lietuvos krikščionintojas, šalia Jogailos, turi jis žymių, o gal ir žymesnių nuopelnų.
+  citata_rodoma: ""
+  teiginio_tipas: vertinimas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-014
+- c-016
+  santrauka: Vytautas siejamas su Medininkų vyskupija ir parapijų tinklu.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Supratęs krikščionybės naudą, Vytautas aktyviai rūpinosi ją plėsti, ir kaip Lietuvos krikščionintojas, šalia Jogailos, turi jis žymių, o gal ir žymesnių nuopelnų. Nusipelnė jis ne tik įsteigdamas ir aprūpindamas Medininkų vyskupiją, bet taip pat organizuodamas eilę parapinių bažnyčių Lietuvoje.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-015
+- c-017
+  santrauka: Vytautas pabrėžiamas kaip Lietuvos nepriklausomybės gynėjas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Gausus ir platus laiškai^9 rodo, jog Vytautas prieš lenkų
+    nusistatymą gynė visos Lietuvos reikalus ir jos nepriklausomybę,
+    nepakęsdamas D. L. kunigaikštijos žeminimo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-016
+- c-018
+  santrauka: Trakų salos pilis įvardijama Vytauto pasididžiavimu.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Šitame
+    laikotarpyje buvo pastatyta ir eilė mūro pilių, jų tarpe Trakų
+    (Galvės) ežero salos didelė pilis, tapusi Vytauto Didžiojo pasidi­
+    džiavimu.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-017
+- c-019
+  santrauka: 1392 m. Vilniaus gavimas susiejamas su didžiojo kunigaikščio titulu.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ir Vytautas įgijo didžiojo Lietuvos kuni­
+    gaikščio titulą, kai 1392 m. gavo vyriausią Lietuvos miestą Vilnių ;
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-018
+- c-020
+  santrauka: Vytautas susiejamas su Okos aukštupių kunigaikštijų užvaldymu.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Algirdo valdos jau pasiekė Okos šaltinius, bet pačias Okos aukštu-
+    pių kunigaikštijas (Kozielską, Karačevą, Novosilį ir kt.) teužvaldė
+    Vytautas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-019
+- c-021
+  santrauka: Išskiriami Vytauto pažadai dėl Žemaičių ir jų susigrąžinimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Per dvi-
+    dešimt metų (1384-1404) jis keturis kartus (1384, 1390, 1398, 1404)
+    ordinui raštu pažadėjo Žemaičius ir tiek pat kartų juos vėl greitai
+    susigrąžino.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-020
+- c-022
+  santrauka: Salyno suvažiavimo puotoje Vytautas paskelbiamas Lietuvos karaliumi.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Pasižadėdamas ordinui padėti užimti Žemaičius, Vytautas
+    sutiko ten jam pastatyti dvi naujas pilis. Jos turėjo reikšti atlygi­
+    nimą už Vytauto sunaikintąsias ordino pilis prie Nemuno per 1392
+    m. atsimetimą. Ordino ir Vytauto santykiams buvo reikšminga,
+    kai abi pusi pasižadėjo iš kito krašto nepriiminėti činšą mokančių
+    ir nelaisvu valstiečių. Į iškilmingą ir visą savaitę trukusį Salyno
+    suvažiavimą kartu su Vytautu buvo atvykę kunigaikščių, žymių
+    jo didikų ir bajorų, kurie per Prūsų ir Livonijos magistrų surengtą
+    puotą Vytautą paskelbė Lietuvos karaliumi.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-021
+- c-023
+  santrauka: Lampėdžių susitikime Vytautas davė dešimties metų pažadą dėl činšininkų.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Grįžęs iš laimingai baig­
+    tos Smolensko operacijos, 1404 rugpiūčio viduryje Vytautas su
+    didžiuoju magistru susivažiavo prie Lampėdžių (arti Kauno) Ritters­
+    werderio saloje^33. Jis rodė ordinui didelį palankumą. Akivaizdoje
+    savo žymiųjų didikų, kurie patvirtino susitarimus su Konradu
+    Jungingenu, Vytautas pažadėjo per dešimtį metų nepriiminėti iš
+    ordino žemių (Žemaičių) činšininkų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-022
+- c-024
+  santrauka: Kautynių metu Vytautas apibūdinamas kaip aktyvus pulkų tvarkytojas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip
+    Zbignievo Olesnickio. Pagal kronikininką, karalius formaliai skai­
+    tėsi vyriausiuoju vadu. Jis šventino riterius, priėmė ordino pasiun­
+    tinius, o pačių kautynių metu 60-ties raitelių buvo saugojamas
+    «tarp vežimų ir palapinių »^17. Esą, karalius iš tolo, šaukdamas
+    iki užkimimo, karius skatinęs kovai^18. Tuo metu Vytautas tvarkė
+    pulkus, davinėjo įsakymus, keisdamas žirgus visur jodinėjo, kau­
+    tynių metu atstatinėjo pralaužtas vietas ar keitė naujais daliniais^19.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-023
+- c-025
+  santrauka: Vytautui priskiriamas išlaidumas ir noras pasirodyti užsieniečiams.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Šalia taupumo, Vytautui buvo charakteringas didelis švaistymasis materialinėmis gėrybėmis, ypač kai reikėdavo pasirodyti užsieniečiams.
+  citata_rodoma: ""
+  teiginio_tipas: vertinimas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-024
+
+## Pastabos
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Astravos dvaras]]
 - [[objektai/asmenys/Jogaila]]
+- [[objektai/vietos/Juodoji jūra]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/ivykiai/Vorsklos mūšis]]
+- [[objektai/ivykiai/Vytauto mirtis (1430 m. spalio 27 d.)]]

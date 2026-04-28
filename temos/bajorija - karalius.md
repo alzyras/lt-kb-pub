@@ -7,14 +7,13 @@ tags: []
 
 # bajorija - karalius
 
-Objektų skaičius: 45. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 44. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
 ### Asmenys
 - [[objektai/asmenys/A. Gansiauskas]]
 - [[objektai/asmenys/Aibr. St. Radvila]]
-- [[objektai/asmenys/Augustas III]]
 - [[objektai/asmenys/Beinartas]]
 - [[objektai/asmenys/Bžostauskas]]
 - [[objektai/asmenys/Flemingas]]
@@ -46,6 +45,9 @@ Objektų skaičius: 45. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto]]
 - [[objektai/posakiai/nihil novi]]
 
+### Vietos
+- [[objektai/vietos/Bobruiskas]]
+
 ## Nerodoma Graph'e
 
-- Dar 20 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.
+- Dar 19 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.

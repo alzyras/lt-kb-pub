@@ -7,21 +7,18 @@ tags: []
 
 # XX amžius
 
-Objektų skaičius: 65. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 62. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
 ### Asmenys
-- [[objektai/asmenys/A. Smetona]]
 - [[objektai/asmenys/J. Tonkūnas]]
 - [[objektai/asmenys/K. Masiliūnas]]
 
 ### Autoriai
 - [[objektai/autoriai/A. Šapoka]]
 - [[objektai/autoriai/Adomas Dambrauskas Jakštas]]
-- [[objektai/autoriai/J. Jakštas]]
 - [[objektai/autoriai/Jonas Basanavičius]]
-- [[objektai/autoriai/K. Būga]]
 - [[objektai/autoriai/P. Klimas]]
 - [[objektai/autoriai/P. Šležas]]
 - [[objektai/autoriai/Vincas Kudirka]]
@@ -45,7 +42,10 @@ Objektų skaičius: 65. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/ivykiai/Berno konferencija (1916 m. kovo 1–5 d.)]]
 - [[objektai/ivykiai/Blaivybės Draugijos įkūrimas (1908 m.)]]
 - [[objektai/ivykiai/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti įkūrimas Vilniuje (1915 m. lapkritis)]]
+- [[objektai/ivykiai/Didžiųjų santarvės valstybių Lietuvos de jure pripažinimas (1922 m. gruodžio 20 d.)]]
+- [[objektai/ivykiai/Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.)]]
+- [[objektai/ivykiai/Karo metų Amerikos lietuvių politinis ir organizacinis aktyvumas (1914–1918 m.)]]
 
 ## Nerodoma Graph'e
 
-- Dar 40 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.
+- Dar 37 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.

@@ -7,16 +7,9 @@ tags: []
 
 # XIV amžius
 
-Objektų skaičius: 17. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 12. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
-
-### Asmenys
-- [[objektai/asmenys/Algirdas]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Kęstutis]]
-- [[objektai/asmenys/Vytautas]]
 
 ### Daiktai
 - [[objektai/daiktai/Lietuvos pinigai]]

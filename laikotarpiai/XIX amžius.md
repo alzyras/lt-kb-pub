@@ -7,12 +7,9 @@ tags: []
 
 # XIX amžius
 
-Objektų skaičius: 38. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 37. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
-
-### Asmenys
-- [[objektai/asmenys/A. Smetona]]
 
 ### Autoriai
 - [[objektai/autoriai/Adomas Dambrauskas Jakštas]]
@@ -43,7 +40,8 @@ Objektų skaičius: 38. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/ivykiai/Lietuviškosios spaudos suklestėjimas Amerikoje (1892–1896 m.)]]
 - [[objektai/ivykiai/Lietuvių peticijų dėl kalbos teisių mokyklose kampanija (1879–1897 m.)]]
 - [[objektai/ivykiai/Lietuvos skriaudų viešinimo akcijos Amerikoje (1894–1900 m.)]]
+- [[objektai/ivykiai/Napoleono kariuomenės žygis į Lietuvą (1812 m.)]]
 
 ## Nerodoma Graph'e
 
-- Dar 13 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.
+- Dar 12 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.

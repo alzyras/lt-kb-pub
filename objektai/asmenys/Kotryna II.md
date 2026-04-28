@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -50,6 +51,18 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   teiginys: 'Užėmusi Lietuvą, Kotryna II buvo įvedusi joje ir rusų teisę (įstatymus).'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Kotryna II įvykdė Respublikos padalijimus, kurių metu jos trečdalį turėjo užleisti Prūsijai ir Austrijai.'
+  pagrindžia:
+    - c-009
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: 'Stanislovas Augustas Poniatovskis buvo Kotrynos II nurodytas kandidatas į Respublikos sostą ir jos statytinis.'
+  pagrindžia:
+    - c-010
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -160,11 +173,41 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: Kotryna II siejama su Respublikos padalijimais.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Nuo «nebylių
+    seimo » (1717) į tolimą perspektyvą užmestos Petro politikos vaisius
+    ir buvo carienės Kotrynos II-sios pravesti padalinimai respublikos,
+    kurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_variant
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: Stanislovas Augustas Poniatovskis įvardijamas Kotrynos II statytiniu.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Paskutinis respublikos karalius Stanislovas Augustas Ponia­
+    tovskis bebuvo perdėm carės Kotrynos II-sios nurodytas kandida­
+    tas, jos statytinis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_variant
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/reforma]]
-- [[temos/karalius - seimas]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Konstantinas]]

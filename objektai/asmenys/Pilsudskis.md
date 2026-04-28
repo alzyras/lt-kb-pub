@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -25,6 +26,12 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
   teiginys: 'Tų metų balandžio mėnesį Pilsudskio vadovaujama Lenkijos kariuomenė, pasinaudodama mūsų kariuomenės silpnumu ir josios kovomis su rusais bolševikais, užėmė pietinę ir rytinę Letuvos dalį nuo Gardino iki Vilniaus (balandžio 19 d.).'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir kitų buvusios Respublikos tautų federaciją.'
+  pagrindžia:
+    - c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -59,7 +66,17 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/institucija - tauta]]
+- c-003
+  santrauka: Pilsudskio legionierių idėja aiškinama kaip federacinis projektas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir
+    kitų buvusių Žečpospolitos (respublikos) tautų federaciją.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_variant
+  pagrindžia:
+    - t-003

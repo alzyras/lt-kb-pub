@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -34,6 +35,18 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   teiginys: 'Energingasis Petras I Didysis (1682—1725 m.) griežtomis priemonėmis pakirto jos rytietiškos santvarkos šaknis ir išvedė ją į europėjamąjį kelią.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Petro Didžiojo epocha, valdant iš Peterburgo, įvedė Rusijos imperiją į Europos areną ir reiškė Respublikos patekimą Rusijos įtakon.'
+  pagrindžia:
+    - c-005
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: '1721 m. Petras I Didysis paskelbė Rusiją imperija.'
+  pagrindžia:
+    - c-006
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -96,6 +109,37 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: Petro Didžiojo epocha reiškė Lietuvos-Lenkijos patekimą Rusijos įtakon.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tačiau epocha caro Petro Didžiojo, kuris iš naujos sostinės (Petersburgo)
+    tvirtu žingsniu įvedė savo imperiją į Europos areną, reiškė bajorų
+    respublikai patekimą Rusijos įtakon. Iš šios sferos Lietuva-Lenkija
+    nebepajėgė išsilaisvinti iki pat padalinimų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_variant
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: Petras I Didysis 1721 m. paskelbė Rusiją imperija.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Dar labiau tas pavojus Lietuvai ir Lenkijai išaugo XVIII amž.
+    pradžioje Petro I-jo Didžiojo asmenyje, kuris 1721 Rusiją paskelbė
+    imperija.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_variant
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

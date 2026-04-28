@@ -57,5 +57,5 @@ Bet tuo tarpu atvykęs Lietuvos hetmonas kunigaikštis Konstantinas Ostrogiškis
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/ivykiai/1507–1508 m. karas su Maskva ir Mykolo Glinskio maištas]]
 - [[objektai/asmenys/Konstantinas Ostrogiškis]]
-- [[objektai/ivykiai/Oršos mūšis (1508 m.)]]

@@ -58,6 +58,6 @@ Ostrogiškis smarkiai sumušė Maskvos kariuomenę ties Orša. Bet tuo tarpu atv
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/ivykiai/1507–1508 m. karas su Maskva ir Mykolo Glinskio maištas]]
 - [[objektai/vietos/Orša]]
-- [[objektai/ivykiai/Oršos mūšis (1508 m.)]]
 - [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
