@@ -7,7 +7,7 @@ tags: []
 
 # popiežius
 
-Objektų skaičius: 40. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 39. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -50,4 +50,4 @@ Objektų skaičius: 40. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 
 ## Nerodoma Graph'e
 
-- Dar 15 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.
+- Dar 14 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.

@@ -7,7 +7,7 @@ tags: []
 
 # ritualas
 
-Objektų skaičius: 10. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 9. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -25,7 +25,6 @@ Objektų skaičius: 10. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/paprociai/Žemaičių krikšto apeigos 1413 m]]
 
 ### Įvykiai
-- [[objektai/ivykiai/Lietuvos krikštas]]
 - [[objektai/ivykiai/Pirmoji visam kraštui privilegija]]
 
 ### Žodynas

@@ -7,7 +7,7 @@ tags: []
 
 # XV amžius
 
-Objektų skaičius: 17. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 14. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -23,12 +23,9 @@ Objektų skaičius: 17. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/ivykiai/1466 m. Torno taika]]
 - [[objektai/ivykiai/Karas su Maskva (1499–1503 m.)]]
 - [[objektai/ivykiai/Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)]]
-- [[objektai/ivykiai/Lucko suvažiavimas (1429 m.)]]
 - [[objektai/ivykiai/Racionžo taika (1404 m.)]]
 - [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
 - [[objektai/ivykiai/Torno taika (1411 m.)]]
-- [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)]]
-- [[objektai/ivykiai/Vytauto mirtis (1430 m. spalio 27 d.)]]
 
 ### Žodynas
 - [[objektai/zodynas/Baudžiava]]

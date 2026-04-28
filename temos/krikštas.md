@@ -7,7 +7,7 @@ tags: []
 
 # krikštas
 
-Objektų skaičius: 23. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 22. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -35,9 +35,8 @@ Objektų skaičius: 23. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/ivykiai/Brunono misija į aisčių kraštą ir žūtis (1009 m.)]]
 - [[objektai/ivykiai/Gedimino krikšto, laiškų ir taikos kampanija]]
 - [[objektai/ivykiai/Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos]]
-- [[objektai/ivykiai/Lietuvos krikštas]]
+- [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]
 - [[objektai/ivykiai/Pirmieji bandymai krikštyti aisčių gimines]]
-- [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas]]
 - [[objektai/ivykiai/Vilniaus įkūrimas ir sostinės perkėlimas]]
 - [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]
 

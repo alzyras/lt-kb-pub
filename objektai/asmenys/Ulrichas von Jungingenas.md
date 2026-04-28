@@ -2,10 +2,13 @@
 tipas: asmuo
 pavadinimas: 'Ulrichas von Jungingenas'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - 'Ulricbas von Jungingenas'
+  - 'Jungingenas'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -16,7 +19,7 @@ tags:
 
 ## Santrauka
 
-Štai kieno yra buvusios tos vėliavos: 1) magistro Ulricho v. Mūšio vietoje krito lietuvio ietim pervertas patsai magistras Ulrichas von Jungingenas ir daugybė riterių.
+Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras, 1410 m. skubėjęs pastoti kelią Jogailos ir Vytauto pajėgoms. Jis minimas ir kaip nuogo kalavijo siuntėjas prieš Tanenbergo mūšį.
 
 ## Teiginiai
 - t-001
@@ -27,6 +30,18 @@ tags:
   teiginys: 'Mūšio vietoje krito lietuvio ietim pervertas patsai magistras Ulrichas von Jungingenas ir daugybė riterių.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Ulrichas von Jungingenas buvo ordino didysis magistras.'
+  pagrindžia:
+    - c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Nesulaukdamas priešo atakos, Jungingenas atsiuntė Jogailai ir Vytautui po nuogą kalaviją.'
+  pagrindžia:
+    - c-004
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -63,6 +78,35 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: Ulrichas von Jungingenas įvardijamas ordino didžiuoju magistru
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis
+    magistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: Jungingenas provokavo mūšį atsiųsdamas Jogailai ir Vytautui nuogus kalavijus
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Nesulaukdamas tačiau priešo atakos, Jungingenas atsiuntė Jogailai ir Vy-
+    tautui po nuogą kalaviją, siūlydamas « nesislapstyti krūmuose » ir
+    tuoj pradėti muši »^22.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -2,10 +2,13 @@
 tipas: asmuo
 pavadinimas: 'Švitrigaila'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - 'Boleslovas'
+  - 'Algirdaitis'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -15,7 +18,7 @@ tags:
 
 ## Santrauka
 
-Švitrigailos raštas Bazelio bažnytiniam suvažiavimui (rašytas Vitebske, 1433 m. kovo 22 d.). Ilgiausiai nenusileido Švitrigaila; čia susitaikindamas, čia vėl pabėgdamas, jis visą laiką kovojo su Vytautu, kol pagaliau Vytautui mirus gavo valdyti visą Lietuvą. Pirmiausia Vytautas suvaldė nepaklusnų jauniausiąjį Jogailos brolį Švitrigailą, kuris po motinos mirties savavališkai buvo užėmęs jos valdytąją Vitebską.
+Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausias Jogailos brolis ir Julijonos sūnus, įsišeimininkavęs Vitebske, vėliau grįžęs pas Vytautą ir vėl įsivėlęs į sąmokslus su ordinu. Jis siejamas su Boleslovo krikšto vardu, Briansko bei Severijos valdymu ir įkalinimu Kremenetse.
 
 ## Teiginiai
 - t-001
@@ -46,6 +49,30 @@ tags:
   teiginys: 'Tada ordinas nusprendė paremti iš Lietuvos pabėgusį ir vis dar nenurimstantį Švitrigailą.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Švitrigaila buvo Jogailos brolis ir Julijonos sūnus.'
+  pagrindžia:
+    - c-008
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: 'Po Julijonos Algirdienės mirties Švitrigaila, per krikštą gavęs Boleslovo vardą, buvo įsišeimininkavęs Vitebske.'
+  pagrindžia:
+    - c-009
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: 'Po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir gavo valdyti Briansko bei Severijos kunigaikštijas.'
+  pagrindžia:
+    - c-010
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-011
+  teiginys: 'Dėl naujo sąmokslo su ordinu Švitrigaila buvo uždarytas į Kremenetso kalėjimą ir tik 1418 m. pabėgo pas kryžiuočius.'
+  pagrindžia:
+    - c-011
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -141,6 +168,71 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: Švitrigaila įvardijamas tarp Jogailos brolių ir Julijonos sūnų
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Visose trijose Jogailos ir
+    Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi
+    kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas,
+    Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs
+    bei svarbiu patarėju tapęs Hanulis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: Švitrigaila siejamas su Boleslovo vardu ir savavališku įsitvirtinimu Vitebske
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Po Julijonos Algirdienės mirties jauniausias karaliaus brolis, būtent
+    Švitrigaila, kuris per krikštą buvo gavęs Boleslovo vardą, prieš
+    Jogailos valią buvo įsišeimininkavęs Vitebske.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: Švitrigailos grįžimas pas Vytautą susiejamas su Briansko ir Severijos valdymu
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Bet po Raciąžo taikos Švitrigaila
+    grįžo pas Vytautą ir tuoj gavo valdyti Briansko ir Severijos (Nau-
+    gardo Seversko ir Černigovo) kunigaikštijas, nes ten buvo ką tik
+    miręs (1404) Kaributas (Dimitras) Algirdaitis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: Švitrigailos sąmokslas baigėsi įkalinimu Kremenetse ir pabėgimu 1418 m.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Net Švitrigaila, kuris iš Maskvos Vosyliaus buvo gavęs eilę žemių^59 ,
+    grįžo atgal. Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys
+    jau Maskvos žygio metu įtartinai laikėsi, Švitrigaila buvo uždary-
+    tas į Kremenetso (Volinijoje) kalėjimą, iš kur jam tepasisekė
+    pabėgti — vėl pas kryžiuočius — tik 1418 m.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -7,7 +7,7 @@ tags: []
 
 # aktas
 
-Objektų skaičius: 21. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 20. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -38,7 +38,6 @@ Objektų skaičius: 21. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/vietos/Krėvos pilis]]
 
 ### Įvykiai
-- [[objektai/ivykiai/Krėvos akto patvirtinimas]]
 - [[objektai/ivykiai/Lietuvos ir Lenkijos unijos derybos Varšuvoje ir Liubline bei Liublino unijos akto priėmimas (1563–1569 m.)]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės pripažinimo aktas (1918 m. kovo 23 d.)]]
 - [[objektai/ivykiai/Liublino unijos akto priėmimas ir patvirtinimas (1569 m.)]]

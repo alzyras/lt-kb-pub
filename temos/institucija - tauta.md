@@ -7,7 +7,7 @@ tags: []
 
 # institucija - tauta
 
-Objektų skaičius: 32. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 31. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -48,4 +48,4 @@ Objektų skaičius: 32. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 
 ## Nerodoma Graph'e
 
-- Dar 7 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.
+- Dar 6 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.

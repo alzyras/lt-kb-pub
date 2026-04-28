@@ -7,7 +7,7 @@ tags: []
 
 # transportas
 
-Objektų skaičius: 6. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 5. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -20,9 +20,6 @@ Objektų skaičius: 6. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas 
 
 ### Vietos
 - [[objektai/vietos/Trakai]]
-
-### Įvykiai
-- [[objektai/ivykiai/Vytauto mirtis (1430 m. spalio 27 d.)]]
 
 ### Žodynas
 - [[objektai/zodynas/ratininkas]]
