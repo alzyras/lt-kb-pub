@@ -144,10 +144,12 @@ Ivinskis sukilimo pradžią sieja su pasienio uždarymu, prekybos draudimais, Sk
   santrauka: 'Sukilimui išplitus, ordino vietininkas sudegino Dubysos pilį ir pasitraukė į Prūsus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Kai sukilimas apėmė visą Žemaičių kraštą, kuriame jau nuo 1408 galo buvo atsiradę iš Vytauto Lietuvos « pašaliečių », ordinui išsilaikyti nebebuvo vilties.
-    Krito jo statytos pilys, kurių įgulos buvo gabenamos toli į rytus.
-    Tik Klaipėda atlaikė žemaičių puolimus.
-    Ordino vietininkas su savo įgula pasitraukė į Prūsus, savo sostinę — Dubysos pilį pats sudegindamas.
+    Kai sukilimas apėmė visą Žemaičių kraštą, kuriame jau nuo
+    1408 galo buvo atsiradę iš Vytauto Lietuvos « pašaliečių », ordinui
+    išsilaikyti nebebuvo vilties. Krito jo statytos pilys, kurių įgulos
+    buvo gabenamos toli į rytus^68. Tik Klaipėda atlaikė žemaičių
+    puolimus^69. Ordino vietininkas su savo įgula pasitraukė į Prūsus,
+    savo sostinę — Dubysos pilį pats sudegindamas^70.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

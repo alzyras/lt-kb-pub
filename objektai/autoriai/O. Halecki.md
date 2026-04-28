@@ -182,7 +182,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^3) **O. Halecki : HaU, I, 95-97 p. — L. Kolankowski : KolLJ, I, 1930,
-31 p.**
+    31 p.**
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

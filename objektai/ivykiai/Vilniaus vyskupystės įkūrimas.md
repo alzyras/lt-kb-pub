@@ -61,14 +61,14 @@ Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedr
   santrauka: 'Naujos Vilniaus vyskupijos pradžia siejama su 1387 m. vasario 17 d. ir centrine jos vieta Lietuvos bažnytiniame gyvenime.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Su Mindaugo žuvimu pradingus « Lietuvos vyskupijai », Jogailos
-    senelio įkurtoje sostinėje 1387.II.17 d. buvo duota pradžia nau-
+    Su Mindaugo žuvimu pradingus « Lietuvos vyskupijai », Jogai­
+    los senelio įkurtoje sostinėje 1387.II.17 d. buvo duota pradžia nau­
     jai vyskupijai. Atlikdamas per vėlesnius šimtmečius savotišką
     lenkinimo rolę kalbiniu atžvilgiu mišriose srityse, nuo pat pradžių
     Vilniaus vyskupas pasidarė centrinis asmuo Lietuvos bažnytiniame
     gyvenime. Abu pirmieji Vilniaus vyskupai buvo pranciškonai
-    (Andrius Vosila, Jokūbas Plichta), jau nuo anksčiau gyvenę Lie-
-    tuvoje ir mokėję lietuviškai^17.
+    (Andrius Vosila, Jokūbas Plichta), jau nuo anksčiau gyvenę Lie­
+    tuvoje ir mokėję lietuviškai^16.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

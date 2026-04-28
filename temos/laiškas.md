@@ -7,7 +7,7 @@ tags: []
 
 # laiškas
 
-Objektų skaičius: 5. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 6. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -24,4 +24,5 @@ Objektų skaičius: 5. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas 
 - [[objektai/posakiai/Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais]]
 
 ### Įvykiai
+- [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
 - [[objektai/ivykiai/Vilniaus įkūrimas ir sostinės perkėlimas]]

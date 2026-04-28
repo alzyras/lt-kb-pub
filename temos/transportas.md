@@ -7,13 +7,12 @@ tags: []
 
 # transportas
 
-Objektų skaičius: 5. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 4. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
 ### Daiktai
 - [[objektai/daiktai/Kūlgrindos]]
-- [[objektai/daiktai/Vežimai]]
 
 ### Papročiai
 - [[objektai/paprociai/Seimelių mobilizavimas per puotas, plikbajorius ir instrukcijas]]

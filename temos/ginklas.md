@@ -7,7 +7,7 @@ tags: []
 
 # ginklas
 
-Objektų skaičius: 19. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 25. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -19,9 +19,15 @@ Objektų skaičius: 19. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 
 ### Daiktai
 - [[objektai/daiktai/Baltas apsiaustas su raudonu kalaviju]]
+- [[objektai/daiktai/Bombardos]]
 - [[objektai/daiktai/Dalgiai]]
+- [[objektai/daiktai/Du pliki kardai]]
+- [[objektai/daiktai/Geležiniai ginklai ir įrankiai]]
+- [[objektai/daiktai/Karinė ginkluotė]]
+- [[objektai/daiktai/Kryžius ant kardo galo]]
 - [[objektai/daiktai/Lietuvos žalvario (bronzos) amžiaus dirbiniai]]
 - [[objektai/daiktai/Patrankos]]
+- [[objektai/daiktai/Sienodaužiai]]
 - [[objektai/daiktai/Šautuvai]]
 
 ### Grupės

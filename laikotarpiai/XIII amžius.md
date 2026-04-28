@@ -7,7 +7,7 @@ tags: []
 
 # XIII amžius
 
-Objektų skaičius: 4. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 5. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -20,3 +20,4 @@ Objektų skaičius: 4. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas 
 ### Įvykiai
 - [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
 - [[objektai/ivykiai/Kryžiuočių ordino karo pradžia su Lietuvos valstybe (1283 m.)]]
+- [[objektai/ivykiai/Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)]]

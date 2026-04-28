@@ -1,90 +1,78 @@
 ---
 tipas: daiktas
-pavadinimas: Vežimai
-sukurta: 2026-04-24
-variantai:
-  - vežimų
-  - vežimus
+pavadinimas: 'Vežimai'
+sukurta: '2026-04-28'
+variantai: []
 aliases: []
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: aukstas
-tags: []
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+patikimumas: 'aukštas'
+periodas: viduramziai
+tags:
+  - daiktas
 ---
 # Vežimai
 
 ## Santrauka
-Vežimai šaltinyje minimi kaip kunigaikščio pasiuntinių kelionei parūpinama transporto priemonė ir kaip specializuotų amatininkų gaminys. Jie rodo tiek bajorijos prievoles, tiek ratininkų amatą.
 
-## Kas tai
-Vežimai buvo sausumos transporto priemonės.
-
-## Naudojimas
-Jie buvo parūpinami kunigaikščio pasiuntiniams ir gaminami specialių amatininkų.
+Kautynių metu karalius buvo saugomas tarp vežimų. Vytautas į Trakus buvo nuvežtas jo žmonos vežime.
 
 ## Teiginiai
 - t-001
-  teiginys: Bajorija turėjo parūpinti kunigaikščio pasiuntiniams vežimų.
+  teiginys: 'Kautynių metu karalius buvo saugomas tarp vežimų.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: Kunigaikščiui ar ponui reikalingus vežimus dirbo specialūs amatininkai.
+  teiginys: 'Vytautas į Trakus buvo nuvežtas jo žmonos vežime.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: Vežimų gamintojai šaltinyje įvardijami ratininkais.
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Parodo vežimų ryšį su bajorijos prievole aptarnauti kunigaikščio pasiuntinius.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: Kautynių metu karalius buvo saugomas tarp vežimų.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Be to, bajorija dar turėjo išlaikyti pravažiuojančius kunigaikščio pasiuntinius, parūpinti jiems
-    arklių, vežimų.
-  citata_rodoma: ''
+    Pagal kronikininką, karalius formaliai skai-
+    tėsi vyriausiuoju vadu. Jis šventino riterius, priėmė ordino pasiun-
+    tinius, o pačių kautynių metu 60-ties raitelių buvo saugojamas
+    «tarp vežimų ir palapinių »^17. Esą, karalius iš tolo, šaukdamas
+    iki užkimimo, karius skatinęs kovai^18.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Parodo, kad vežimų gamyba buvo specializuotas amatas.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: Vytautas į Trakus buvo nuvežtas jo žmonos vežime.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Be to, buvo spe-
-    ciali rūšis amatininkų, kurie dirbo kunigaikščiui ar ponui reika-
-    lingus vežimus ir ratus (tai vadinamieji r a t i n i n k a i) ir t. t.
-  citata_rodoma: ''
+    Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa­
+    kelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo
+    žmonos vežime. Iš patalo daugiau nebepakilo. Pagal Dlugošo idi­
+    lišką aprašymą, Vytautas prieš mirtį (X.27) Lietuvą pavedęs Jo­
+    gailai ir liepęs jam nuo iždo ir pilių atiduoti raktus. Lenkų isto­
+    rikas J. Puzlnas (Puzyna), kuris nuošalus nuo oficialiosios nacio­
+    nalinės lenkų istoriografijos krypties, 1914 m. savo disertacijoje apie
+    Švitrigailą bandė įrodyti, jog Vytautas miręs nenatūralia mirtimi,
+    t. y. lenkų (Jogailos?) nunuodytas^17. Tačiau trūksta duomenų ir
+    šaltinių, kad būtų galima šią prielaidą, kurią J. Puzinas taip ak­
+    tyviai gynė, išvystyti į dėmesio vertą tezę.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-    - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/transportas]]
-
 ### Susiję objektai
+- [[objektai/daiktai/Iždo ir pilių raktai]]
+- [[objektai/daiktai/Palapinės]]
 - [[objektai/zodynas/ratininkas]]

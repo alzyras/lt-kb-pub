@@ -7,7 +7,7 @@ tags: []
 
 # XV amžius
 
-Objektų skaičius: 14. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 15. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -26,6 +26,7 @@ Objektų skaičius: 14. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/ivykiai/Racionžo taika (1404 m.)]]
 - [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
 - [[objektai/ivykiai/Torno taika (1411 m.)]]
+- [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]
 
 ### Žodynas
 - [[objektai/zodynas/Baudžiava]]

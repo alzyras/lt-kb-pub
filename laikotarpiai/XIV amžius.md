@@ -7,7 +7,7 @@ tags: []
 
 # XIV amžius
 
-Objektų skaičius: 12. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 18. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -25,8 +25,14 @@ Objektų skaičius: 12. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 ### Įvykiai
 - [[objektai/ivykiai/1379 m. Trakų 10 metų paliaubos su ordinu]]
 - [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu]]
+- [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]
+- [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
+- [[objektai/ivykiai/Gedimino taikos sutartis su Livonija (1322 m.)]]
 - [[objektai/ivykiai/Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)]]
 - [[objektai/ivykiai/Kryžiuočių ordino sostinės perkėlimas į Marijenburgą (1309 m.)]]
+- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
 - [[objektai/ivykiai/Pilėnų pilies gynimas (1336 m.)]]
+- [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]
 - [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
 - [[objektai/ivykiai/Vytauto pabėgimas pas kryžiuočius ir 1383 m. žygis į Lietuvą]]
+- [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]
