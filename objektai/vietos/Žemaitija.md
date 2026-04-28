@@ -1,79 +1,80 @@
 ---
 tipas: vieta
-pavadinimas: "Žemaitija"
-sukurta: "2026-04-18"
-variantai: 
-  - "Žemaičių"
-  - "žemaičių kraštą"
-  - "Žemaičiuose"
-  - "Žemaitiją"
-aliases: 
-  - "Žemaitija"
-  - "Žemaičių"
-  - "žemaičių kraštą"
-  - "Žemaičiuose"
-  - "Žemaitiją"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1413 m."
-datos: 
-  - "1413 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XV"
-date_start: "1413"
-date_end: "1413"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: Žemaitija
+variantai:
+  - Žemaičiai
+  - Samogitija
+aliases: []
+susije_irasai:
+  - '[[Lietuva]]'
+  - '[[Klaipėda]]'
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+tags:
+  - vieta
 ---
 # Žemaitija
 
 ## Santrauka
-Šaltinyje vieta „Žemaitija“ siejama su šiuo kontekstu: Minima kaip ordino puolamas ir vėliau žemaičių kovų su ordinu laukas. (t-001)
+Žemaitija šiame šaltinyje vaizduojama kaip pagrindinis Lietuvos ginčo su Ordinu kraštas, kurio dėl Ordino pretenzijų vyko nuolatinės kovos, o vietos gyventojai ne kartą sukilo.
 
 ## Pavadinimai šaltiniuose
-- Pagrindinė forma: Žemaitija
-- Šaltinyje fiksuotos formos: Žemaičių; žemaičių kraštą; Žemaičiuose; Žemaitiją
-
-## Laikotarpis ir datos
-- laikotarpis: 1413 m.
-- datos: 1413 m.
-- amziai: XV
-- date_start/date_end: 1413 / 1413
+- Žemaitija
+- Žemaičiai
+- Samogitija
 
 ## Kas tai
-- tipas: regionas; istorinis kraštas
+Žemaitija čia yra Lietuvos regionas ir politinio ginčo erdvė, susijusi su kryžiuočių ekspansija, pilių statyba ir vietos gyventojų pasipriešinimu.
 
 ## Geografinis ir istorinis kontekstas
-- Minima kaip ordino puolamas ir vėliau žemaičių kovų su ordinu laukas. (t-001)
+Šaltinyje Žemaitija pasirodo tiek Mindaugo laikų vyskupijos ir Livonijos ordino santykių, tiek Vytauto kovų su Ordinu ir 1409 m. sukilimo kontekste.
 
 ## Teiginiai
-- t-001
-  teiginys: "Šaltinyje vieta „Žemaitija“ siejama su šiuo kontekstu: Minima kaip ordino puolamas ir vėliau žemaičių kovų su ordinu laukas."
-  pagrindžia:
-    - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- [t-001] Pirmą kartą Žemaitija Ordinui buvo atiduota 1382 m. iki Dubysos, o vėliau ją dar buvo žadėjęs ir Vytautas, tačiau Ordinas vis nepajėgė jos galutinai užimti.
+  - pagrindžia: [c-001]
+- [t-002] Po Salyno sutarties žemaičiai nepasidavė geruoju ir buvo jėga pavergti.
+  - pagrindžia: [c-001]
+- [t-003] 1409 m., Vytauto pasiųstiems bajorams veikiant kartu su žemaičiais, buvo sudegintos visos kryžiuočių pilys ir Ordinas išvytas iš Žemaičių.
+  - pagrindžia: [c-002]
+- [t-004] Gediminas tepajėgė tik apginti Žemaičius, o Ordinas Žemaitijos pasienyje turėjo pasistatęs tvirtovių eilę.
+  - pagrindžia: [c-003]
+- [t-005] Žemaičių krašte įsikūręs vyskupas Kristijonas nuo 1259 m. iš ten visiškai išsikraustė.
+  - pagrindžia: [c-004]
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: Minima kaip ordino puolamas ir vėliau žemaičių kovų su ordinu laukas.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata_originali: |
-    ordinas bandė plėsti karo
-    žygius ir į žemaičių bei aukštaičių kraštą, bet čia buvo skaudžiai
-    sumuštas (Šiaulių mūšyje 1236 m.).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
-  pagrindžia:
-    - t-001
+- [c-001]
+  - citata_originali: |
+      Pirmą kartą Žemaičiai bu-
+      vo atiduoti ordinui Jogailos dar 1382 m. (iki Dubysos). Pabėg-
+      damas į ordiną, Vytautas irgi atiduodavo jam Žemaičius (1384 ir
+      1390 m.). Tačiau ordinas vis nepajėgdavo jų užimti. Po Salyno
+      sutarties žemaičiai taip pat nepasidavė geruoju: juos teko jėga
+      pavergti.
+  - paaiskinimas: Citata apima ir ankstyvus Žemaitijos atidavimus Ordinui, ir pasipriešinimą po Salyno sutarties.
+  - saltinis: 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+- [c-002]
+  - citata_originali: |
+      Vytautas pats dar laikėsi nuošaliai,
+      bet jo pasiųsti bajorai veikė kartu su žemaičiais, ir 1409 m., pra-
+      dėjus nuo Skirsnemunės, buvo sudegintos visos kryžiuočių pilys,
+      o jie patys buvo išvyti iš Žemaičių.
+  - paaiskinimas: Citata tiesiogiai pagrindžia 1409 m. žemaičių sukilimo rezultatą.
+  - saltinis: 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+- [c-003]
+  - citata_originali: |
+      Jis tepajėgė tik apginti Žemaičius.
+      Žemaitijos pasieny kryžiuočiai turėjo pasistatę eilę
+      tvirtovių ir ruošėsi slinkti tolyn.
+  - paaiskinimas: Citata rodo Žemaitijos pasienio militarizaciją ir Gedimino ribotas galimybes.
+  - saltinis: 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+- [c-004]
+  - citata_originali: |
+      Žemaičių krašte įsikūręs vyskupas Kristijonas,
+      nieko negalėdamas veikti, nuo 1259 m. iš čia visiškai išsikraustė.
+  - paaiskinimas: Citata pagrindžia ankstyvą nesėkmingą bažnytinę organizaciją Žemaitijoje.
+  - saltinis: 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/vietos/Klaipėda]]
+- [[objektai/vietos/Lietuva]]

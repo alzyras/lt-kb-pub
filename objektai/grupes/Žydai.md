@@ -1,101 +1,50 @@
 ---
 tipas: grupe
-pavadinimas: "Žydai"
-sukurta: "2026-04-18"
-variantai: 
-  - "žydų"
-  - "žydų bendruomenės"
-aliases: 
-  - "Žydai"
-  - "žydų"
-  - "žydų bendruomenės"
+pavadinimas: 'Žydai'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "Vytauto laikai"
-datos: 
-  - "Vytauto laikai"
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'žemas'
+tags:
+  - grupe
+  - privilegija
 ---
 # Žydai
 
 ## Santrauka
-Šaltinyje „Žydai“ apibūdinama kaip tauta; žydai šiame gabale aprašomi kaip viduramžių Europos pinigų skolintojai ir vietinės prekybos dalyviai; kartu nurodoma, kad Vytauto laikais Lietuvoje buvo tik trys jų bendruomenės. (t-001) Šaltinyje „Žydai“ siejama su šiuo kontekstu: Žydai šiame gabale aprašomi kaip viduramžių Europos pinigų skolintojai ir vietinės prekybos dalyviai; kartu nurodoma, kad Vytauto laikais Lietuvoje buvo tik trys jų bendruomenės. (t-002)
 
-## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: Žydai
-- Šaltinyje fiksuotos formos: žydų; žydų bendruomenės
-
-## Laikotarpis ir datos
-- laikotarpis: Vytauto laikai
-- datos: Vytauto laikai
-- periodas: 
-- periodo_grupes: 
-- amziai: 
-- date_start: 
-- date_end: 
-
-## Kas tai
-- tipas: tauta
-Šaltinyje „Žydai“ apibūdinama kaip tauta; žydai šiame gabale aprašomi kaip viduramžių Europos pinigų skolintojai ir vietinės prekybos dalyviai; kartu nurodoma, kad Vytauto laikais Lietuvoje buvo tik trys jų bendruomenės. (t-001)
-
-## Sudėtis ir vaidmuo
-- Šaltinyje „Žydai“ apibūdinama kaip tauta; žydai šiame gabale aprašomi kaip viduramžių Europos pinigų skolintojai ir vietinės prekybos dalyviai; kartu nurodoma, kad Vytauto laikais Lietuvoje buvo tik trys jų bendruomenės. (t-001)
-- Šaltinyje „Žydai“ siejama su šiuo kontekstu: Žydai šiame gabale aprašomi kaip viduramžių Europos pinigų skolintojai ir vietinės prekybos dalyviai; kartu nurodoma, kad Vytauto laikais Lietuvoje buvo tik trys jų bendruomenės. (t-002)
+Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo atimamas. Bet Vytautas suprato, kad ekonomiškam Lietuvos kilimui reikalingi ir piniguočiai, kurie reikale teiktų kredito. Todėl atvykusių žydų jis ne tik nespaudė, bet dar jiems davė.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Žydai“ apibūdinama kaip tauta; žydai šiame gabale aprašomi kaip viduramžių Europos pinigų skolintojai ir vietinės prekybos dalyviai; kartu nurodoma, kad Vytauto laikais Lietuvoje buvo tik trys jų bendruomenės."
+  teiginys: 'Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo atimamas. Bet Vytautas suprato, kad ekonomiškam Lietuvos kilimui reikalingi ir piniguočiai, kurie reikale teiktų kredito. Todėl atvykusių žydų jis ne tik nespaudė, bet dar jiems davė.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
-- t-002
-  teiginys: "Šaltinyje „Žydai“ siejama su šiuo kontekstu: Žydai šiame gabale aprašomi kaip viduramžių Europos pinigų skolintojai ir vietinės prekybos dalyviai; kartu nurodoma, kad Vytauto laikais Lietuvoje buvo tik trys jų bendruomenės."
-  pagrindžia:
-    - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Žydai šiame gabale aprašomi kaip viduramžių Europos pinigų skolintojai ir vietinės prekybos dalyviai; kartu nurodoma, kad Vytauto laikais Lietuvoje buvo tik trys jų bendruomenės.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo atimamas. Bet Vytautas suprato, kad ekonomiškam Lietuvos kilimui reikalingi ir piniguočiai, kurie reikale teiktų kredito. Todėl atvykusių žydų jis ne tik nespaudė, bet dar jiems davė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    **Žydai** visur vaduramžių Europoje buvo pinigų skolintojai,
-    nelyginant mūsų laikų bankininkai. Be to, jie vertėsi vietine pre-
-    kyba, ypač prekiaudami brangenybėmis: mat, beskolindami pini-
-    gus, gaudavo laidų brangenybių, ir tuo būdu įprato jomis pre-
-    kiauti.
-  citata_rodoma: |
-    Žydai visur vaduramžių Europoje buvo pinigų skolintojai, nelyginant mūsų laikų bankininkai. Be to, jie vertėsi vietine prekyba, ypač prekiaudami brangenybėmis: mat, beskolindami pinigus, gaudavo laidų brangenybių, ir tuo būdu įprato jomis prekiauti.
+    Daug kur Europoje jie buvo smarkiai persekiojami, iš-
+    varomi, jų turtas būdavo atimamas. Bet Vytautas suprato, kad
+    ekonomiškam Lietuvos kilimui reikalingi ir piniguočiai, kurie
+    reikale teiktų kredito. Todėl atvykusių žydų jis ne tik nespaudė,
+    bet dar jiems davė privilegijų, suteikė jiems savivaldybę, leido
+    laisvai išpažinti savo tikėjimą, apdraudė jų gyvybę ir turtą (už
+    žydo nužudymą buvo paskirtos tokios pat bausmės, kaip ir už
+    bajoro nužudymą).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: žemas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-002
-  santrauka: Žydai šiame gabale aprašomi kaip viduramžių Europos pinigų skolintojai ir vietinės prekybos dalyviai; kartu nurodoma, kad Vytauto laikais Lietuvoje buvo tik trys jų bendruomenės.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata_originali: |
-    Vytauto laikais buvo tik trys žydų bendruomenės, — Brastoje,
-    Gardine ir Trakuose, — vėliau jų atsirado visame krašte.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/privilegija]]
+- [[temos/tikėjimas]]

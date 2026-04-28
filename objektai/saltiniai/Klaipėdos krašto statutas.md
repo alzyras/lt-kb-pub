@@ -1,73 +1,58 @@
 ---
 tipas: saltinis
-pavadinimas: "Klaipėdos krašto statutas"
-sukurta: "2026-04-18"
-variantai:
-  - "Klaipėdos krašto statutui"
-  - "autonominį statutą"
-  - "statuto"
-aliases:
-  - "Klaipėdos krašto statutas"
-  - "Klaipėdos krašto statutui"
-  - "autonominį statutą"
-  - "statuto"
+pavadinimas: 'Klaipėdos krašto statutas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - "dokumentas"
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - saltinis
 ---
 # Klaipėdos krašto statutas
 
-## Bibliografiniai duomenys
+## Santrauka
 
-- Pavadinimas: Klaipėdos krašto statutas.
-- Formos šaltinyje: Klaipėdos krašto statutui; autonominį statutą; statuto.
-- Šaltinio rūšis / žymos: dokumentas.
-
-## Turinys ir apimtis
-
-Šaltinyje „Klaipėdos krašto statutas“ šis statutas siejamas su 1922 m. sudaryta komisija ir vėliau konvencijoje aprašytu autonominiu režimu Klaipėdos kraštui.
-
-## Ryšiai
-
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+1922 metų rudenį, Hymanso projektui žuvus, didžiosios valstybės sudarė komisiją būsimam Klaipėdos krašto statutui svarstyti. Gegužės 7 d. Lietuvos vyriausybė pati paskelbė autonominį Klaipėdos statutą, prisitaikydama prie punktų, kuriais buvo pasiekta susitarimo su Ambasadorių Konferencija.
 
 ## Teiginiai
-
 - t-001
-  teiginys: "Šaltinyje „Klaipėdos krašto statutas“ šis statutas siejamas su 1922 m. sudaryta komisija ir vėliau konvencijoje aprašytu autonominiu režimu Klaipėdos kraštui."
+  teiginys: '1922 metų rudenį, Hymanso projektui žuvus, didžiosios valstybės sudarė komisiją būsimam Klaipėdos krašto statutui svarstyti.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Gegužės 7 d. Lietuvos vyriausybė pati paskelbė autonominį Klaipėdos statutą, prisitaikydama prie punktų, kuriais buvo pasiekta susitarimo su Ambasadorių Konferencija.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: Tekste šis statutas siejamas su 1922 m. sudaryta komisija ir vėliau konvencijoje aprašytu autonominiu režimu Klaipėdos kraštui.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: '1922 metų rudenį, Hymanso projektui žuvus, didžiosios valstybės sudarė komisiją būsimam Klaipėdos krašto statutui svarstyti.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1922 metų
     rudenį, Hymanso projektui žuvus, didžiosios valstybės sudarė
-    komisiją būsimam Klaipėdos krašto statutui svarstyti. Paruo-
-    šiamieji darbai Paryžiuje parodė, kad tos komisijos sumany-
-    muose buvo ir „laisvojo krašto" idėja.
-  citata_rodoma: |
-    1922 metų rudenį, Hymanso projektui žuvus, didžiosios valstybės sudarė komisiją būsimam Klaipėdos krašto statutui svarstyti. Paruošiamieji darbai Paryžiuje parodė, kad tos komisijos sumanymuose buvo ir „laisvojo krašto" idėja.
+    komisiją būsimam Klaipėdos krašto statutui svarstyti.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Gegužės 7 d. Lietuvos vyriausybė pati paskelbė autonominį Klaipėdos statutą, prisitaikydama prie punktų, kuriais buvo pasiekta susitarimo su Ambasadorių Konferencija.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Gegužės 7 d. Lie-
+    tuvos vyriausybė pati paskelbė autonominį Klaipėdos statutą,
+    prisitaikydama prie punktų, kuriais buvo pasiekta susitarimo
+    su Ambasadorių Konferencija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

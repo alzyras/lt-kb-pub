@@ -102,7 +102,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
               type="range"
               min="0"
               max="2000"
-              step="25"
+              step="50"
               value="0"
               aria-label="Nuo metų"
               data-period-input="start"
@@ -111,20 +111,20 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
               type="range"
               min="0"
               max="2000"
-              step="25"
+              step="50"
               value="2000"
               aria-label="Iki metų"
               data-period-input="end"
             />
           </div>
           <div class="period-filter-footer">
+            <span class="period-filter-summary" data-period-summary="">
+              Rodoma 0 iš 0
+            </span>
             <label class="period-filter-unknown">
               <input type="checkbox" checked={true} data-period-input="unknown" />
               Rodyti be aiškaus laikotarpio
             </label>
-            <span class="period-filter-summary" data-period-summary="">
-              Rodoma 0 iš 0
-            </span>
           </div>
         </div>
       )}
@@ -218,8 +218,16 @@ PageList.css = `
 .period-filter-footer {
   display: flex;
   align-items: center;
+  gap: 0.9rem;
+}
+
+.period-filter-header {
   justify-content: space-between;
-  gap: 1rem;
+}
+
+.period-filter-footer {
+  justify-content: flex-start;
+  flex-wrap: wrap;
 }
 
 .period-filter-label {
@@ -237,9 +245,11 @@ PageList.css = `
 }
 
 .period-filter-slider {
+  --period-track-height: 0.5rem;
+  --period-thumb-size: 1.15rem;
   position: relative;
-  height: 3.2rem;
-  margin: 0.65rem 0 0.35rem;
+  height: 2.5rem;
+  margin: 0.55rem 0 0.3rem;
 }
 
 .period-filter-track,
@@ -247,75 +257,92 @@ PageList.css = `
   position: absolute;
   left: 0;
   right: 0;
-  top: 1.42rem;
-  height: 0.55rem;
+  top: calc((2.5rem - var(--period-track-height)) / 2);
+  height: var(--period-track-height);
   border-radius: 999rem;
 }
 
 .period-filter-track {
-  background: color-mix(in srgb, var(--lightgray) 72%, var(--dark) 16%);
+  background: color-mix(in srgb, var(--lightgray) 82%, var(--dark) 12%);
 }
 
 .period-filter-range {
-  background: linear-gradient(90deg, var(--secondary), var(--tertiary));
-  box-shadow: 0 0 0.9rem color-mix(in srgb, var(--secondary) 38%, transparent);
+  background: var(--secondary);
+  box-shadow: 0 0 0.55rem color-mix(in srgb, var(--secondary) 24%, transparent);
 }
 
 .period-filter-slider input[type="range"] {
   position: absolute;
   inset: 0;
   width: 100%;
-  height: 3.2rem;
+  height: 2.5rem;
   margin: 0;
+  -webkit-appearance: none;
   appearance: none;
   pointer-events: none;
   background: transparent;
 }
 
+.period-filter-slider input[data-period-input="start"] {
+  z-index: 2;
+}
+
+.period-filter-slider input[data-period-input="end"] {
+  z-index: 3;
+}
+
 .period-filter-slider input[type="range"]::-webkit-slider-runnable-track {
-  height: 0.55rem;
+  height: var(--period-track-height);
   background: transparent;
 }
 
 .period-filter-slider input[type="range"]::-moz-range-track {
-  height: 0.55rem;
+  height: var(--period-track-height);
+  background: transparent;
+  border: 0;
+}
+
+.period-filter-slider input[type="range"]::-moz-range-progress {
   background: transparent;
 }
 
 .period-filter-slider input[type="range"]::-webkit-slider-thumb {
-  width: 1.45rem;
-  height: 1.45rem;
-  margin-top: -0.45rem;
+  width: var(--period-thumb-size);
+  height: var(--period-thumb-size);
+  margin-top: calc((var(--period-track-height) - var(--period-thumb-size)) / 2);
+  -webkit-appearance: none;
   appearance: none;
   pointer-events: auto;
-  cursor: grab;
-  border: 0.18rem solid var(--light);
+  cursor: ew-resize;
+  border: 2px solid var(--light);
   border-radius: 999rem;
   background: var(--secondary);
   box-shadow:
-    0 0.18rem 0.55rem color-mix(in srgb, var(--dark) 26%, transparent),
-    0 0 0 0.18rem color-mix(in srgb, var(--secondary) 28%, transparent);
+    0 0.1rem 0.45rem color-mix(in srgb, var(--dark) 20%, transparent),
+    0 0 0 0.12rem color-mix(in srgb, var(--secondary) 24%, transparent);
 }
 
 .period-filter-slider input[type="range"]::-moz-range-thumb {
-  width: 1.45rem;
-  height: 1.45rem;
+  width: var(--period-thumb-size);
+  height: var(--period-thumb-size);
+  margin-top: calc((var(--period-track-height) - var(--period-thumb-size)) / 2);
   pointer-events: auto;
-  cursor: grab;
-  border: 0.18rem solid var(--light);
+  cursor: ew-resize;
+  border: 2px solid var(--light);
   border-radius: 999rem;
   background: var(--secondary);
   box-shadow:
-    0 0.18rem 0.55rem color-mix(in srgb, var(--dark) 26%, transparent),
-    0 0 0 0.18rem color-mix(in srgb, var(--secondary) 28%, transparent);
+    0 0.1rem 0.45rem color-mix(in srgb, var(--dark) 20%, transparent),
+    0 0 0 0.12rem color-mix(in srgb, var(--secondary) 24%, transparent);
 }
 
 .period-filter-unknown {
   display: inline-flex;
   align-items: center;
-  gap: 0.45rem;
+  gap: 0.4rem;
   color: var(--darkgray);
   font-size: 0.82rem;
+  white-space: nowrap;
 }
 
 .period-filter-unknown input {
@@ -337,9 +364,7 @@ PageList.css = `
   }
 
   .period-filter-footer {
-    align-items: flex-start;
-    flex-direction: column;
-    gap: 0.55rem;
+    gap: 0.6rem 0.9rem;
   }
 }
 `

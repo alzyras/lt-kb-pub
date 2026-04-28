@@ -1,69 +1,53 @@
 ---
 tipas: asmuo
-pavadinimas: "Franckevičius"
-sukurta: "2026-04-18"
-variantai: 
-  - "pralotas Franckevičius"
-aliases: 
-  - "Franckevičius"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1897 m."
-datos: 
-  - "1897 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XIX"
-date_start: "1897"
-date_end: "1897"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Franckevičius'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
+  - kunigas
+  - vyskupas
 ---
 # Franckevičius
 
 ## Santrauka
-Šaltinyje Franckevičius apibūdinamas taip: Minimas kaip Vilniaus vyskupijos valdytojas, atsakęs Kalvių parapijos delegacijai.
 
-## Variantai
-- pralotas Franckevičius
-
-## Laikotarpis ir datos
-- laikotarpis: 1897 m.
-- datos: 1897 m.
-- periodas:
-- periodo_grupes:
-- amziai: XIX
-- date_start: 1897
-- date_end: 1897
+1897 m. Kalvių parapijos (Trakų apskr.) delegacijai, prašančiai lietuvio kunigo ir lietuviškų pamaldų, Vilniaus vyskupijos valdytojas pralotas Franckevičius atsakė: „Mano mieli, jei nemokate ir nesuprantate lenkiškai — nedidelis daiktas: nevaikščiokite į.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Franckevičius apibūdinamas taip: Minimas kaip Vilniaus vyskupijos valdytojas, atsakęs Kalvių parapijos delegacijai."
+  teiginys: '1897 m. Kalvių parapijos (Trakų apskr.) delegacijai, prašančiai lietuvio kunigo ir lietuviškų pamaldų, Vilniaus vyskupijos valdytojas pralotas Franckevičius atsakė: „Mano mieli, jei nemokate ir nesuprantate lenkiškai — nedidelis daiktas: nevaikščiokite į.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip Vilniaus vyskupijos valdytojas, atsakęs Kalvių parapijos delegacijai.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: '1897 m. Kalvių parapijos (Trakų apskr.) delegacijai, prašančiai lietuvio kunigo ir lietuviškų pamaldų, Vilniaus vyskupijos valdytojas pralotas Franckevičius atsakė: „Mano mieli, jei nemokate ir nesuprantate lenkiškai — nedidelis daiktas: nevaikščiokite į.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1897 m. Kalvių parapijos (Trakų apskr.) delegacijai, prašančiai
-    lietuvio kunigo ir lietuviškų pamaldų, Vilniaus vyskupijos valdytojas
-    pralotas Franckevičius atsakė: „Mano mieli, jei nemokate ir nesu-
-  citata_rodoma: ""
+      lietuvio kunigo ir lietuviškų pamaldų, Vilniaus vyskupijos valdytojas
+      pralotas Franckevičius atsakė: „Mano mieli, jei nemokate ir nesu-
+      prantate lenkiškai — nedidelis daiktas: nevaikščiokite į bažnyčią ir
+      išpažinties. Aš uždarysiu bažnyčią, o parapiją priskirsiu prie kitos
+      parapijos". O tuo pat metu ten buvusiam lietuviui kun. Šaparui jis
+      pasakė: „Jei tu dar drįsi su žmonėmis dėl to kalbėtis, tai aš iš tavęs
+      atimsiu kunigystę".
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/kunigas]]
+
+### Susiję objektai
+- [[objektai/asmenys/Šaparas]]

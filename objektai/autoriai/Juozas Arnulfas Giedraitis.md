@@ -1,63 +1,48 @@
 ---
 tipas: autorius
-pavadinimas: "Juozas Arnulfas Giedraitis"
-sukurta: "2026-04-20"
-variantai:
-  - "Juozas Arnulfas Giedraitis"
-aliases:
-  - "Juozas Arnulfas Giedraitis"
+pavadinimas: 'Juozas Arnulfas Giedraitis'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - "autorius"
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "vertėjas, švietimo rėmėjas"
-dalyviai:
-  - "Juozas Arnulfas Giedraitis"
-susije_irasai: []
-patikimumas: "vidutinis"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - autorius
+  - kunigas
+  - vyskupas
 ---
 # Juozas Arnulfas Giedraitis
 
 ## Santrauka
-Šaltinyje Juozas Arnulfas Giedraitis minimas kaip vertėjas, švietimo rėmėjas; šis vaidmuo siejamas su: lietuviškasis Šv. Rašto vertimas..
 
-## Darbai
-- lietuviškasis Šv. Rašto vertimas.. (t-001)
-
-## Kontekstas
-- Žemaičių tautiškojo ir kultūriškojo judėjimo centras siejamas su jo rezidencija Alsėdžiuose. (c-001)
+Žemaičių tautiškojo ir kultūriškojo judėjimo centras buvo vyskupo Juozo Arnulfo Giedraičio rezidencija — Alsėdžiai; pats vykupas buvo karštas žemaičių patriotas ir uolus švietimo rėmėjas.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Juozas Arnulfas Giedraitis minimas kaip vertėjas, švietimo rėmėjas, siejamas su: lietuviškasis Šv. Rašto vertimas.."
+  teiginys: 'Žemaičių tautiškojo ir kultūriškojo judėjimo centras buvo vyskupo Juozo Arnulfo Giedraičio rezidencija — Alsėdžiai; pats vykupas buvo karštas žemaičių patriotas ir uolus švietimo rėmėjas.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Šaltinyje Juozas Arnulfas Giedraitis minimas kaip vertėjas, švietimo rėmėjas, siejamas su: lietuviškasis Šv. Rašto vertimas..
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Žemaičių tautiškojo ir kultūriškojo judėjimo centras buvo vyskupo Juozo Arnulfo Giedraičio rezidencija — Alsėdžiai; pats vykupas buvo karštas žemaičių patriotas ir uolus švietimo rėmėjas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jis išleido savo lietuviškąjį Šv. Rašto
+    Žemaičių tautiškojo ir kultūriškojo judėjimo centras buvo
+    vyskupo Juozo Arnulfo Giedraičio rezidencija — Alsė-
+    džiai; pats vykupas buvo karštas žemaičių patriotas ir
+    uolus švietimo rėmėjas. Jis išleido savo lietuviškąjį Šv. Rašto
     vertimą (1816 m.), jo raginami kunigai prie bažnyčių steigė
     mokyklas.
-  citata_rodoma: |
-    Jis išleido savo lietuviškąjį Šv. Rašto vertimą (1816 m.), jo raginami kunigai prie bažnyčių steigė mokyklas.
-
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Šaltinio fragmentas tiesiogiai susieja kandidatą su autorystės, redagavimo, vertimo, kronikininko ar bibliografinio autoriaus kontekstu."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/kunigas]]

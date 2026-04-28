@@ -1,69 +1,57 @@
 ---
 tipas: saltinis
-pavadinimas: "Tautų Sąjungos paktas"
-sukurta: "2026-04-18"
-variantai:
-  - "Tautų S-gos paktas"
-aliases:
-  - "Tautų Sąjungos paktas"
-  - "Tautų S-gos paktas"
+pavadinimas: 'Tautų Sąjungos paktas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - "dokumentas"
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - saltinis
 ---
 # Tautų Sąjungos paktas
 
-## Bibliografiniai duomenys
+## Santrauka
 
-- Pavadinimas: Tautų Sąjungos paktas.
-- Formos šaltinyje: Tautų S-gos paktas.
-- Šaltinio rūšis / žymos: dokumentas.
-
-## Turinys ir apimtis
-
-Šaltinyje „Tautų Sąjungos paktas“ siejamas su šiuo kontekstu: Šis paktas minimas kaip sąlygų rinkinys, kurį Lietuva turėjo įvykdyti, kad būtų priimta į Tautų Sąjungą.
-
-## Ryšiai
-
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+Tautų Sąjunga tą projektą tada paskelbė, kaip galutinę savo rekomendaciją (pagal pakto str. Ambasadorių Konferencija apkaltino Lietuvą Tautų Sąjungai, kad ji savo elgesiu Klaipėdoje gresianti suardyti taiką ir gerus internaciolinius santykius ir pareikalavo pritaikyti pakto 11 str.
 
 ## Teiginiai
-
 - t-001
-  teiginys: "Šaltinyje „Tautų Sąjungos paktas“ siejamas su šiuo kontekstu: Šis paktas minimas kaip sąlygų rinkinys, kurį Lietuva turėjo įvykdyti, kad būtų priimta į Tautų Sąjungą."
+  teiginys: 'Tautų Sąjunga tą projektą tada paskelbė, kaip galutinę savo rekomendaciją (pagal pakto str.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Ambasadorių Konferencija apkaltino Lietuvą Tautų Sąjungai, kad ji savo elgesiu Klaipėdoje gresianti suardyti taiką ir gerus internaciolinius santykius ir pareikalavo pritaikyti pakto 11 str.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: Šis paktas minimas kaip sąlygų rinkinys, kurį Lietuva turėjo įvykdyti, kad būtų priimta į Tautų Sąjungą.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Tautų Sąjunga tą projektą tada paskelbė, kaip galutinę savo rekomendaciją (pagal pakto str.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tačiau daugumas delegatų
-    balsavo už priėmimą, rasdami, kad Lietuva įvykdė visas sąly-
-    gas, kurių reikalauja Tautų S-gos paktas (už atidėjimą komisijoj
-    balsavo Lenkai, Rumunai ir Jugoslavai, o prieš priėmimą —
-    Lenkai ir Rumunai).
-  citata_rodoma: |
-    Tačiau daugumas delegatų balsavo už priėmimą, rasdami, kad Lietuva įvykdė visas sąlygas, kurių reikalauja Tautų S-gos paktas (už atidėjimą komisijoj balsavo Lenkai, Rumunai ir Jugoslavai, o prieš priėmimą — Lenkai ir Rumunai).
+    Tautų Sąjunga tą projektą tada
+    paskelbė, kaip galutinę savo rekomendaciją (pagal pakto str. 15
+    p. 4), geriausiai tinkančią esamam konfliktui išspręsti.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Ambasadorių Konferencija apkaltino Lietuvą Tautų Sąjungai, kad ji savo elgesiu Klaipėdoje gresianti suardyti taiką ir gerus internaciolinius santykius ir pareikalavo pritaikyti pakto 11 str.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Ambasadorių Konferencija apkaltino Lietuvą Tautų Sąjungai, kad ji savo
+    elgesiu Klaipėdoje gresianti suardyti taiką ir gerus internacio-
+    linius santykius ir pareikalavo pritaikyti pakto 11 str.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

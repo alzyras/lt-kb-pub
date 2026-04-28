@@ -1,85 +1,39 @@
 ---
 tipas: grupe
-pavadinimas: "Prancūziškoji partija"
-sukurta: "2026-04-18"
-variantai: 
-  - "prancūziškosios partijos"
-aliases: 
-  - "Prancūziškoji partija"
-  - "prancūziškosios partijos"
+pavadinimas: 'Prancūziškoji partija'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - grupe
 ---
 # Prancūziškoji partija
 
 ## Santrauka
-Šaltinyje „Prancūziškoji partija“ apibūdinama kaip politinė partija; prancūziškoji partija minima kaip Sobieskio priešininkų stovykla, susijusi su Prancūzijos kandidatais ir kovojusi su bajorų partija. (t-001) Šaltinyje „Prancūziškoji partija“ siejama su šiuo kontekstu: Prancūziškoji partija minima kaip Sobieskio priešininkų stovykla, susijusi su Prancūzijos kandidatais ir kovojusi su bajorų partija. (t-002)
 
-## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: Prancūziškoji partija
-- Šaltinyje fiksuotos formos: prancūziškosios partijos
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: politinė partija
-Šaltinyje „Prancūziškoji partija“ apibūdinama kaip politinė partija; prancūziškoji partija minima kaip Sobieskio priešininkų stovykla, susijusi su Prancūzijos kandidatais ir kovojusi su bajorų partija. (t-001)
-
-## Sudėtis ir vaidmuo
-- Šaltinyje „Prancūziškoji partija“ apibūdinama kaip politinė partija; prancūziškoji partija minima kaip Sobieskio priešininkų stovykla, susijusi su Prancūzijos kandidatais ir kovojusi su bajorų partija. (t-001)
-- Šaltinyje „Prancūziškoji partija“ siejama su šiuo kontekstu: Prancūziškoji partija minima kaip Sobieskio priešininkų stovykla, susijusi su Prancūzijos kandidatais ir kovojusi su bajorų partija. (t-002)
+Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, nes mirė jos kandidatas (1672 m.); ji dabar tik galvojo, kaip sunaikinti bajorų partiją, kuri keletą prancūziškosios partijos žmonių, kaltindama išdavimu, buvo patraukusi į seimo teismą. Todėl stipriausia atrodė Prancūzų partija. Prancūziškoji partija tačiau atskirai paskelbė išrinktu princą Kontį.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Prancūziškoji partija“ apibūdinama kaip politinė partija; prancūziškoji partija minima kaip Sobieskio priešininkų stovykla, susijusi su Prancūzijos kandidatais ir kovojusi su bajorų partija."
+  teiginys: 'Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, nes mirė jos kandidatas (1672 m.); ji dabar tik galvojo, kaip sunaikinti bajorų partiją, kuri keletą prancūziškosios partijos žmonių, kaltindama išdavimu, buvo patraukusi į seimo teismą.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Prancūziškoji partija“ siejama su šiuo kontekstu: Prancūziškoji partija minima kaip Sobieskio priešininkų stovykla, susijusi su Prancūzijos kandidatais ir kovojusi su bajorų partija."
+  teiginys: 'Todėl stipriausia atrodė Prancūzų partija.'
   pagrindžia:
     - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Prancūziškoji partija tačiau atskirai paskelbė išrinktu princą Kontį.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Prancūziškoji partija minima kaip Sobieskio priešininkų stovykla, susijusi su Prancūzijos kandidatais ir kovojusi su bajorų partija.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata_originali: |
-    Lietuvai vado-
-    vaujantieji Pacai stovėjo
-    karaliaus pusėje ir labai
-    nesugyveno su abiem
-    prancūziškosios partijos
-    vadais — primų ir Len-
-    kijos hetmonu Sobies-
-    kiu.
-  citata_rodoma: |
-    Lietuvai vadovaujantieji Pacai stovėjo karaliaus pusėje ir labai nesugyveno su abiem prancūziškosios partijos vadais — primų ir Lenkijos hetmonu Sobieskiu.
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Prancūziškoji partija minima kaip Sobieskio priešininkų stovykla, susijusi su Prancūzijos kandidatais ir kovojusi su bajorų partija.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, nes mirė jos kandidatas (1672 m.); ji dabar tik galvojo, kaip sunaikinti bajorų partiją, kuri keletą prancūziškosios partijos žmonių, kaltindama išdavimu, buvo patraukusi į seimo teismą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Prancūziškoji partija pa-
     galiau apie karaliaus pašalinimą jau nebegalvojo, nes mirė jos
@@ -87,14 +41,43 @@ patikimumas: "aukstas"
     jorų partiją, kuri keletą prancūziškosios partijos žmonių, kaltin-
     dama išdavimu, buvo patraukusi į seimo teismą ir pasmerkusi
     ištremti.
-  citata_rodoma: |
-    Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, nes mirė jos kandidatas (1672 m.); ji dabar tik galvojo, kaip sunaikinti bajorų partiją, kuri keletą prancūziškosios partijos žmonių, kaltindama išdavimu, buvo patraukusi į seimo teismą ir pasmerkusi ištremti.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Todėl stipriausia atrodė Prancūzų partija.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Todėl stipriausia
+    atrodė Prancūzų partija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Prancūziškoji partija tačiau atskirai paskelbė išrinktu princą Kontį.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Prancūziškoji par-
+    tija tačiau atskirai paskelbė išrinktu princą Kontį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/karalius - seimas]]
+
+### Susiję objektai
+- [[objektai/grupes/Lenkijos bajorų partija]]

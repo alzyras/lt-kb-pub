@@ -1,69 +1,60 @@
 ---
 tipas: asmuo
-pavadinimas: "Fridrikas I"
-sukurta: "2026-04-18"
-variantai: 
-  - "elektorius Fridrikas I"
-aliases: 
-  - "Fridrikas I"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1701 m."
-datos: 
-  - "1701 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XVIII"
-date_start: "1701"
-date_end: "1701"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Fridrikas I'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Fridrikas I
 
 ## Santrauka
-Šaltinyje Fridrikas I apibūdinamas taip: antrojo švedų karo pradžioje elektorius Fridrikas I pasiskelbė Prūsijos karaliumi, o vėlesnis tekstas šį veiksmą sieja su Prūsijos karalystės susidarymu.
 
-## Variantai
-- elektorius Fridrikas I
-
-## Laikotarpis ir datos
-- laikotarpis: 1701 m.
-- datos: 1701 m.
-- periodas:
-- periodo_grupes:
-- amziai: XVIII
-- date_start: 1701
-- date_end: 1701
+Todėl Fridrikas I, kuris nuo 1701 m. jau buvo karūnavęsis Prūsų karalium, paskleidė atsišaukimų į Vokietijos gyventojus, kviesdamas juos gyventi į savo valstybę, žadėdamas jiems paramos ir visokių lengvatų. Antrojo švedu karo pradžioje elektorius Fridrikas I (1701 m.) pasiskelbė Prūsijos karalium.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Fridrikas I apibūdinamas taip: antrojo švedų karo pradžioje elektorius Fridrikas I pasiskelbė Prūsijos karaliumi, o vėlesnis tekstas šį veiksmą sieja su Prūsijos karalystės susidarymu."
+  teiginys: 'Todėl Fridrikas I, kuris nuo 1701 m. jau buvo karūnavęsis Prūsų karalium, paskleidė atsišaukimų į Vokietijos gyventojus, kviesdamas juos gyventi į savo valstybę, žadėdamas jiems paramos ir visokių lengvatų.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Antrojo švedu karo pradžioje elektorius Fridrikas I (1701 m.) pasiskelbė Prūsijos karalium.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: antrojo švedų karo pradžioje elektorius Fridrikas I pasiskelbė Prūsijos karaliumi, o vėlesnis tekstas šį veiksmą sieja su Prūsijos karalystės susidarymu.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Todėl Fridrikas I, kuris nuo 1701 m. jau buvo karūnavęsis Prūsų karalium, paskleidė atsišaukimų į Vokietijos gyventojus, kviesdamas juos gyventi į savo valstybę, žadėdamas jiems paramos ir visokių lengvatų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Antrojo
-    švedu karo pradžioje elektorius Fridrikas I (1701 m.) pasiskelbė
-    Prūsijos karalium.
-  citata_rodoma: ""
+    Dabar nors daugumas ir grįžo į savo sodybas arba kūrėsi iš-
+      mirusių vietose, tačiau ūkiui negalėjo pakakti darbininkų. To-
+      dėl Fridrikas I, kuris nuo 1701 m. jau buvo karūnavęsis Prūsų
+      karalium, paskleidė atsišaukimų į Vokietijos gyventojus, kvies-
+      damas juos gyventi į savo valstybę, žadėdamas jiems pa-
+      ramos ir visokių lengvatų.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-002
+  santrauka: 'Antrojo švedu karo pradžioje elektorius Fridrikas I (1701 m.) pasiskelbė Prūsijos karalium.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Antrojo
+      švedu karo pradžioje elektorius Fridrikas I (1701 m.) pasiskelbė
+      Prūsijos karalium.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

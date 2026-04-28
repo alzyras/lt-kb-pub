@@ -1,69 +1,84 @@
 ---
 tipas: vieta
-pavadinimas: "Skirsnemunė"
-sukurta: "2026-04-18"
-variantai: 
-  - "Skirsnemunės"
-aliases: 
-  - "Skirsnemunė"
-  - "Skirsnemunės"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Skirsnemunė'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - pilis
+  - sutartis
+  - vieta
 ---
 # Skirsnemunė
 
 ## Santrauka
-Šaltinyje vieta „Skirsnemunė“ siejama su šiuo kontekstu: Minima kaip ordino pilis prie Nemuno. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Skirsnemunė
-- Šaltinyje fiksuotos formos: Skirsnemunės
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: pilis
-
-## Geografinis ir istorinis kontekstas
-- Minima kaip ordino pilis prie Nemuno. (t-001)
+Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o kiek vėliau ir Skirsnemunės pilis. Vytautas pats dar laikėsi nuošaliai, bet jo pasiųsti bajorai veikė kartu su žemaičiais, ir 1409 m., pradėjus nuo Skirsnemunės, buvo sudegintos visos kryžiuočių pilys, o jie patys buvo išvyti iš Žemaičių. Skirsnemunėje buvo padaryta su ordinu sąjunga, kuri ordinui buvo ypatingai maloni, nes čia jam šmėkštelėjo viltis reviduoti Melno taikos sąlygas.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Skirsnemunė“ siejama su šiuo kontekstu: Minima kaip ordino pilis prie Nemuno."
+  teiginys: 'Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o kiek vėliau ir Skirsnemunės pilis.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Vytautas pats dar laikėsi nuošaliai, bet jo pasiųsti bajorai veikė kartu su žemaičiais, ir 1409 m., pradėjus nuo Skirsnemunės, buvo sudegintos visos kryžiuočių pilys, o jie patys buvo išvyti iš Žemaičių.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Skirsnemunėje buvo padaryta su ordinu sąjunga, kuri ordinui buvo ypatingai maloni, nes čia jam šmėkštelėjo viltis reviduoti Melno taikos sąlygas.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minima kaip ordino pilis prie Nemuno.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o kiek vėliau ir Skirsnemunės pilis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kryžiuočiai, atslinkę prie Nemuno, tuojau
     pasistatė Ragainės, Jurbarko, o kiek vėliau ir Skirsnemunės
-    pilis (šią pastarąją netrukus turėjo vėl sugriauti, nes sunku buvo
-    ją atlaikyti).
-  citata_rodoma: ""
+    pilis
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Vytautas pats dar laikėsi nuošaliai, bet jo pasiųsti bajorai veikė kartu su žemaičiais, ir 1409 m., pradėjus nuo Skirsnemunės, buvo sudegintos visos kryžiuočių pilys, o jie patys buvo išvyti iš Žemaičių.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vytautas pats dar laikėsi nuošaliai,
+    bet jo pasiųsti bajorai veikė kartu su žemaičiais, ir 1409 m., pra-
+    dėjus nuo Skirsnemunės, buvo sudegintos visos kryžiuočių pilys,
+    o jie patys buvo išvyti iš Žemaičių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Skirsnemunėje buvo padaryta su ordinu sąjunga, kuri ordinui buvo ypatingai maloni, nes čia jam šmėkštelėjo viltis reviduoti Melno taikos sąlygas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Skirsnemunėje buvo padaryta su ordinu sąjunga, kuri or-
+    dinui buvo ypatingai maloni, nes čia jam šmėkštelėjo viltis revi-
+    duoti Melno taikos sąlygas. Šia sutartim Švitrigaila sutiko ati-
+    duoti kryžiuočiams Palangą ir trejetą mylių pajūrio ruožo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/vietos/Palanga]]
+- [[objektai/vietos/Ragainė]]

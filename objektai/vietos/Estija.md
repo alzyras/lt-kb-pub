@@ -1,95 +1,99 @@
 ---
 tipas: vieta
-pavadinimas: "Estija"
-sukurta: "2026-04-18"
-variantai: 
-  - "Estijos"
-  - "estų"
-  - "Estiją"
-aliases: 
-  - "Estija"
-  - "Estijos"
-  - "estų"
-  - "Estiją"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Estija'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
 ---
 # Estija
 
 ## Santrauka
-Šaltinyje vieta „Estija“ siejama su šiais kontekstais: Šalis minima kaip Baltijos regiono riba; Minima kaip lietuvių žygių siekiama teritorija ir kaip lybių bei estų žemė. (t-001, t-002)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Estija
-- Šaltinyje fiksuotos formos: Estijos; estų; Estiją
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: valstybė / regionas; valstybė / kraštas
-
-## Geografinis ir istorinis kontekstas
-- Šalis minima kaip Baltijos regiono riba. (t-001)
-- Minima kaip lietuvių žygių siekiama teritorija ir kaip lybių bei estų žemė. (t-002)
+Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją. Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją. Zigmantas buvo pasižadėjęs Švedų valdomą Estiją prijungti prie Lietuvos ir Lenkijos bendrai valdomosios Livonijos.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Estija“ siejama su šiuo kontekstu: Šalis minima kaip Baltijos regiono riba."
+  teiginys: 'Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Estija“ siejama su šiuo kontekstu: Minima kaip lietuvių žygių siekiama teritorija ir kaip lybių bei estų žemė."
+  teiginys: 'Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.'
   pagrindžia:
     - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Zigmantas buvo pasižadėjęs Švedų valdomą Estiją prijungti prie Lietuvos ir Lenkijos bendrai valdomosios Livonijos.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Karalius vis tiek įsakė Livonijoje stovinčios kariuomenės (jos ten buvo labai maža) vadams pulti švedus Estijoje.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Šalis minima kaip Baltijos regiono riba.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Bet prasidedant istoriniams
-    laikams, jie jau gyveno Baltijos pakrantėse, tarp Vyslos ir Dau-
-    guvos upių ir dar už Dauguvos, maždaug iki dabartinės Estijos
-    sienos.
-  citata_rodoma: |
-    Bet prasidedant istoriniams laikams, jie jau gyveno Baltijos pakrantėse, tarp Vyslos ir Dauguvos upių ir dar už Dauguvos, maždaug iki dabartinės Estijos sienos.
+    Prūsuose jie pasiekdavo net Vyslą, siaubdavo
+    Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Minima kaip lietuvių žygių siekiama teritorija ir kaip lybių bei estų žemė.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Treniota su žemaičiais žygiavo
-    tolimus žygius: Prūsuose jie pasiekdavo net Vyslą, siaubdavo
     Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Zigmantas buvo pasižadėjęs Švedų valdomą Estiją prijungti prie Lietuvos ir Lenkijos bendrai valdomosios Livonijos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Zigmantas buvo pasižadėjęs Švedų valdomą Estiją prijungti prie
+    Lietuvos ir Lenkijos bendrai valdomosios Livonijos. Tačiau ligi
+    šiol jis to nebuvo padaręs. Todėl, kai dabar reikėjo kariauti dėl jo
+    sosto Švedijoje, seimas buvo nusistatęs prieš karą. Zigmantas,
+    norėdamas gauti seimo paramos, tam tikru diplomu (1600 m.),
+    kaip Švedų karalius, Estiją prijungė prie Lietuvos ir Lenkijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Karalius vis tiek įsakė Livonijoje stovinčios kariuomenės (jos ten buvo labai maža) vadams pulti švedus Estijoje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Karalius vis tiek įsakė Livonijoje stovinčios kariuomenės (jos
+    ten buvo labai maža) vadams pulti švedus Estijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/karalius - seimas]]
+
+### Susiję objektai
+- [[objektai/vietos/Dauguva]]

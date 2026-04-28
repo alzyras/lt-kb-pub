@@ -1,62 +1,89 @@
 ---
 tipas: asmuo
-pavadinimas: "Danielius"
-sukurta: "2026-04-18"
-variantai: 
-  - "Danieliaus"
-  - "Danielių"
-aliases: 
-  - "Danielius"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Danielius'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Danielius
 
 ## Santrauka
-Šaltinyje Danielius apibūdinamas taip: Voluinės kunigaikštis, pas kurį pabėgo Mindaugo brolėnai Tautvilas ir Erdvilas.
 
-## Variantai
-- Danieliaus
-- Danielių
+Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Voluinės kunigaikštį Danielių (jis buvo vedęs Tautvilo ir Erdvilo seserį). Danielius tuojau pasiuntė Vykintą į Livonijos ordiną, siūlydamas jam sąjungą.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Danielius apibūdinamas taip: Voluinės kunigaikštis, pas kurį pabėgo Mindaugo brolėnai Tautvilas ir Erdvilas."
+  teiginys: 'Danielius ryžosi padėti pabėgėliams.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Tada jie pabėgo pas savo giminaitį Voluinės kunigaikštį Danielių (jis buvo vedęs Tautvilo ir Erdvilo seserį).'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Danielius tuojau pasiuntė Vykintą į Livonijos ordiną, siūlydamas jam sąjungą.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Danielius buvo sumuštas ir priverstas taikintis (1255 m.).'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Voluinės kunigaikštis, pas kurį pabėgo Mindaugo brolėnai Tautvilas ir Erdvilas.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Danielius ryžosi padėti pabėgėliams.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tada jie pabėgo pas savo giminaitį Voluinės kunigaikštį
-    Danielių (jis buvo vedęs Tautvilo ir Erdvilo seserį). Danielius
-    ryžosi padėti pabėgėliams. Jam rūpėjo ne tik paremti giminaičius,
-    bet ir sutramdyti Mindaugo galybę ir atgauti neseniai nustotas
-    sritis.
-  citata_rodoma: ""
+    Danielius ryžosi padėti pabėgėliams. Jam rūpėjo ne tik paremti giminaičius,
+      bet ir sutramdyti Mindaugo galybę ir atgauti neseniai nustotas
+      sritis.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-002
+  santrauka: 'Tada jie pabėgo pas savo giminaitį Voluinės kunigaikštį Danielių (jis buvo vedęs Tautvilo ir Erdvilo seserį).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tada jie pabėgo pas savo giminaitį Voluinės kunigaikštį
+      Danielių (jis buvo vedęs Tautvilo ir Erdvilo seserį).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Danielius tuojau pasiuntė Vykintą į Livonijos ordiną, siūlydamas jam sąjungą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Danielius tuojau pasiuntė Vykintą į Livonijos ordiną,
+      siūlydamas jam sąjungą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Danielius buvo sumuštas ir priverstas taikintis (1255 m.).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Danielius buvo sumuštas ir priverstas taikintis (1255 m.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

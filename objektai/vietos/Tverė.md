@@ -1,72 +1,165 @@
 ---
 tipas: vieta
-pavadinimas: "Tverė"
-sukurta: "2026-04-18"
-variantai: 
-  - "Tverės"
-aliases: 
-  - "Tverė"
-  - "Tverės"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Tverė'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
 ---
 # Tverė
 
 ## Santrauka
-Šaltinyje vieta „Tverė“ siejama su šiuo kontekstu: Minima kaip galingiausia rusų kunigaikštystė prie Maskvos. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Tverė
-- Šaltinyje fiksuotos formos: Tverės
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: kunigaikštystė / miestas
-
-## Geografinis ir istorinis kontekstas
-- Minima kaip galingiausia rusų kunigaikštystė prie Maskvos. (t-001)
+Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kunigaikščio savo dukterį. Norėdamas turėti sąjungininką prieš Maskvą, jis vedė Tverės kunigaikščio seserį Julijoną. Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaikščiai; atvyko daugybė Vytauto priklausomų rusų kunigaikščių; pagaliau atvyko pats imperatorius Zigmantas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaikščių atstovų.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Tverė“ siejama su šiuo kontekstu: Minima kaip galingiausia rusų kunigaikštystė prie Maskvos."
+  teiginys: 'Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kunigaikščio savo dukterį.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Norėdamas turėti sąjungininką prieš Maskvą, jis vedė Tverės kunigaikščio seserį Julijoną.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaikščiai; atvyko daugybė Vytauto priklausomų rusų kunigaikščių; pagaliau atvyko pats imperatorius Zigmantas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaikščių atstovų.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Švitrigaila ne tik kad nenutraukė ryšių su savo sąjungininku ordinu, bet dar padarė naują sąjungą su Maskva ir Tvere.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Dėl šio kunigaikščio titulo varžėsi Vladimiro, Tverės ir Maskvos kunigaikščiai.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Naugardu, o Lietuvos įtakoje — Tverė.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę ir vėliau Možaiską.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minima kaip galingiausia rusų kunigaikštystė prie Maskvos.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kunigaikščio savo dukterį.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jungdamas savo valdžioje rusų žemes, Gediminas, žinoma,
-    turėjo susidurti su galingesniaisiais rusų kunigaikščiais, kurie tą
-    pat svajojo patys padaryti. Tuo metu, greta Maskvos, visų ga-
-    lingiausia buvo Tverės kunigaikštystė. Kad ji nekliudytų, Gedi-
+    Kad ji nekliudytų, Gedi-
     minas su ja susigiminiavo, išleisdamas už Tverės kunigaikščio
     savo dukterį.
-  citata_rodoma: |
-    Jungdamas savo valdžioje rusų žemes, Gediminas, žinoma, turėjo susidurti su galingesniaisiais rusų kunigaikščiais, kurie tą pat svajojo patys padaryti. Tuo metu, greta Maskvos, visų galingiausia buvo Tverės kunigaikštystė. Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kunigaikščio savo dukterį.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Norėdamas turėti sąjungininką prieš Maskvą, jis vedė Tverės kunigaikščio seserį Julijoną.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Norėdamas turėti sąjungininką prieš Maskvą,
+    jis vedė Tverės kunigaikščio seserį Julijoną.
+    Kadangi tuo
+    metu Tverė varžėsi su Maskva dėl įtakos, tai Algirdui teko net
+    kelis kartus padėti savo svainiui prieš Maskvą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaikščiai; atvyko daugybė Vytauto priklausomų rusų kunigaikščių; pagaliau atvyko pats imperatorius Zigmantas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaikščių atstovų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės,
+    Riazanės kunigaikščiai; atvyko daugybė Vytauto priklausomų
+    rusų kunigaikščių; pagaliau atvyko pats imperatorius Zigman-
+    tas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaikš-
+    čių atstovų. Suvažiavimo šeimininkas, Vytautas, turėjo progos
+    parodyti savo vaišingumą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Švitrigaila ne tik kad nenutraukė ryšių su savo sąjungininku ordinu, bet dar padarė naują sąjungą su Maskva ir Tvere.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Švitrigaila ne tik
+    kad nenutraukė ryšių su savo
+    sąjungininku ordinu, bet dar pa-
+    darė naują sąjungą su Maskva ir
+    Tvere.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Dėl šio kunigaikščio titulo varžėsi Vladimiro, Tverės ir Maskvos kunigaikščiai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Dėl šio kunigaikščio titulo
+    varžėsi Vladimiro, Tverės ir Maskvos kunigaikščiai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Naugardu, o Lietuvos įtakoje — Tverė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Maskvos įtakoje buvo palikti Pskovas su D. Naugardu, o Lie-
+    tuvos įtakoje — Tverė. Riazanei buvo palikta teisė pačiai
+    pasirinkti sau globą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę ir vėliau Možaiską.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pirmiausia ji privertė savo valdžiai pasi-
+    duoti Lietuvos sąjungininkus Tverę ir vėliau Možaiską. Psko-
+    vas jai buvo palankus; o D. Naugardą Jonas III po antrojo žygio
+    (pirmasis buvo 1471 m., antrasis — 1479 m.) prijungė prie
+    Maskvos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/popiežius]]
+
+### Susiję objektai
+- [[objektai/asmenys/Algirdas]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Možaiskas]]
+- [[objektai/vietos/Pskovas]]

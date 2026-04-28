@@ -1,60 +1,77 @@
 ---
 tipas: asmuo
-pavadinimas: "Branickis"
-sukurta: "2026-04-18"
-variantai: 
-  - "Branickio"
-  - "Branickį"
-aliases: 
-  - "Branickis"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
+pavadinimas: 'Branickis'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Branickis
 
 ## Santrauka
-Šaltinyje Branickis apibūdinamas taip: Minimas kaip hetmonas, kovojęs prieš Čartoriskius ir perėjęs į Potockių pusę.
 
-## Variantai
-- Branickio
-- Branickį
+Lenkijoje prieš juos kovojo Potockiai ir hetmonas Branickis, kuris buvo Čartoriskių giminė, bet perėjo Potockių pusėn tik dėl to, kad ten buvo laikomas partijos vadas,. Bet taip pat daug šalininkų turėjo išvien su Potockiais ir Radvilomis einąs Lenkų hetmonas Branickis. Branickis netrukus susitaikino su savo giminėmis (jo žmona buvo St.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Branickis apibūdinamas taip: Minimas kaip hetmonas, kovojęs prieš Čartoriskius ir perėjęs į Potockių pusę."
+  teiginys: 'Lenkijoje prieš juos kovojo Potockiai ir hetmonas Branickis, kuris buvo Čartoriskių giminė, bet perėjo Potockių pusėn tik dėl to, kad ten buvo laikomas partijos vadas,.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Bet taip pat daug šalininkų turėjo išvien su Potockiais ir Radvilomis einąs Lenkų hetmonas Branickis.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Branickis netrukus susitaikino su savo giminėmis (jo žmona buvo St.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip hetmonas, kovojęs prieš Čartoriskius ir perėjęs į Potockių pusę.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Lenkijoje prieš juos kovojo Potockiai ir hetmonas Branickis, kuris buvo Čartoriskių giminė, bet perėjo Potockių pusėn tik dėl to, kad ten buvo laikomas partijos vadas,.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    ir hetmonas Branickis, kuris buvo Čartoriskių giminė, bet perėjo
-    Potockių pusėn tik dėl to, kad ten buvo laikomas partijos vadas,
-    tuo tarpu savo giminėje jam būtų tekęs tik antraeilis vaidmuo.
-  citata_rodoma: ""
+    Lenkijoje prieš juos kovojo Potockiai
+      ir hetmonas Branickis, kuris buvo Čartoriskių giminė, bet perėjo
+      Potockių pusėn tik dėl to, kad ten buvo laikomas partijos vadas,
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-002
+  santrauka: 'Bet taip pat daug šalininkų turėjo išvien su Potockiais ir Radvilomis einąs Lenkų hetmonas Branickis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet taip
+      pat daug šalininkų tu-
+      rėjo išvien su Potoc-
+      kiais ir Radvilomis ei-
+      nąs Lenkų hetmonas
+      Branickis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Branickis netrukus susitaikino su savo giminėmis (jo žmona buvo St.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Branickis netrukus susitaikino su savo giminėmis (jo žmona
+      buvo St. Augusto sesuo) ir sugrįžo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

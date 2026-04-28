@@ -1,60 +1,59 @@
 ---
 tipas: asmuo
-pavadinimas: "Tautvilas"
-sukurta: "2026-04-18"
-variantai: 
-  - "Tautvilo"
-aliases: 
-  - "Tautvilas"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Tautvilas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Tautvilas
 
 ## Santrauka
-Šaltinyje Tautvilas apibūdinamas taip: Mindaugo brolėnas, pabėgęs pas Danielių ir įtrauktas į sąjungą prieš Mindaugą.
 
-## Variantai
-- Tautvilo
+Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaugo buvo išsiųsti į rusų sritis. Tautvilas buvo nužudytas, ir valdžią paėmė Treniota.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Tautvilas apibūdinamas taip: Mindaugo brolėnas, pabėgęs pas Danielių ir įtrauktas į sąjungą prieš Mindaugą."
+  teiginys: 'Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaugo buvo išsiųsti į rusų sritis.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Tautvilas buvo nužudytas, ir valdžią paėmė Treniota.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Mindaugo brolėnas, pabėgęs pas Danielių ir įtrauktas į sąjungą prieš Mindaugą.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaugo buvo išsiųsti į rusų sritis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Mindaugo brolėnai,
     Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas,
-    Mindaugo buvo išsiųsti į rusų sritis. Netrukus jie buvo pašalinti
-    ir iš ten. Tada jie pabėgo pas savo giminaitį Voluinės kunigaikštį
-    Danielių (jis buvo vedęs Tautvilo ir Erdvilo seserį).
-  citata_rodoma: ""
+      Mindaugo buvo išsiųsti į rusų sritis.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Tautvilas buvo nužudytas, ir valdžią paėmė Treniota.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tautvilas buvo nužudytas, ir valdžią paėmė
+      Treniota.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/asmenys/Erdvilas]]

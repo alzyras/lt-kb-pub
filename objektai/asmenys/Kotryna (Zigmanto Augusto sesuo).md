@@ -1,62 +1,62 @@
 ---
 tipas: asmuo
-pavadinimas: "Kotryna (Zigmanto Augusto sesuo)"
-sukurta: "2026-04-18"
-variantai: 
-  - "Kotrynos"
-  - "Zigmanto Augusto sesers"
-aliases: 
-  - "Kotryna (Zigmanto Augusto sesuo)"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
+pavadinimas: 'Kotryna (Zigmanto Augusto sesuo)'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Kotryna (Zigmanto Augusto sesuo)
 
 ## Santrauka
-Šaltinyje Kotryna (Zigmanto Augusto sesuo) apibūdinamas taip: Minimas kaip Švedų karalius, statęs kandidatūrą į sostą per tarpuvaldį.
 
-## Variantai
-- Kotrynos
-- Zigmanto Augusto sesers
+Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Švedų karalius Jonas, tačiau labiausiai rūpinosi gauti sostą Prancūzų karaliaus Karolio IX brolis Henrikas Valua (Valois). Jis buvo Švedų karaliaus Jono III ir Zigmanto Augusto sesers Kotrynos vienintelis sūnus.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Kotryna (Zigmanto Augusto sesuo) apibūdinamas taip: Minimas kaip Švedų karalius, statęs kandidatūrą į sostą per tarpuvaldį."
+  teiginys: 'Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Švedų karalius Jonas, tačiau labiausiai rūpinosi gauti sostą Prancūzų karaliaus Karolio IX brolis Henrikas Valua (Valois).'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Jis buvo Švedų karaliaus Jono III ir Zigmanto Augusto sesers Kotrynos vienintelis sūnus.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip Švedų karalius, statęs kandidatūrą į sostą per tarpuvaldį.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Švedų karalius Jonas, tačiau labiausiai rūpinosi gauti sostą Prancūzų karaliaus Karolio IX brolis Henrikas Valua (Valois).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Savo kandidatūrą statė ir Zigmanto Augusto
-    sesers, Kotrynos, vyras — Švedų karalius Jonas, tačiau labiau-
-    siai rūpinosi gauti sostą Prancūzų karaliaus Karolio IX brolis
-    Henrikas Valua _(Valois)._ Laimėjo šis pastarasis, nes jo
-  citata_rodoma: |
-    Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Švedų karalius Jonas, tačiau labiausiai rūpinosi gauti sostą Prancūzų karaliaus Karolio IX brolis Henrikas Valua (Valois). Laimėjo šis pastarasis, nes jo
+    Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Švedų karalius Jonas, tačiau labiau-
+      siai rūpinosi gauti sostą Prancūzų karaliaus Karolio IX brolis
+      Henrikas Valua _(Valois)._ Laimėjo šis pastarasis, nes jo
+      reikalavimai buvo mažiausi ir jis sutiko su visomis sąlygomis.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Jis buvo Švedų karaliaus Jono III ir Zigmanto Augusto sesers Kotrynos vienintelis sūnus.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Jis
+      buvo Švedų karaliaus Jono III ir Zigmanto Augusto sesers
+      Kotrynos vienintelis sūnus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/asmenys/Jonas III Vaza]]

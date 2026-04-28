@@ -1,90 +1,116 @@
 ---
 tipas: asmuo
-pavadinimas: "Augustas III"
-sukurta: "2026-04-18"
-variantai: 
-  - "Augusto III"
-  - "Fridrikas Augustas"
-aliases: 
-  - "Augustas III"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1733—1763 m."
-datos: 
-  - "1733—1763 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XVIII"
-date_start: "1733"
-date_end: "1763"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Augustas III'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Augustas III
 
 ## Santrauka
-Šaltinyje Augustas III apibūdinamas taip: Paminėtas kaip svetimųjų pastatytasis karalius. Šaltinyje Augustas III apibūdinamas taip: Minimas kaip Augusto II sūnus, gavęs sostą ir nurodytas kaip Lietuvos kunigaikštis, Lenkų karalius ir Saksų elektorius.
 
-## Variantai
-- Augusto III
-- Fridrikas Augustas
-
-## Laikotarpis ir datos
-- laikotarpis: 1733—1763 m.
-- datos: 1733—1763 m.
-- periodas:
-- periodo_grupes:
-- amziai: XVIII
-- date_start: 1733
-- date_end: 1763
+Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas bajorijos panoro grąžinti ištremtąjį karalių Leščinskį, kurio kandidatūrą rėmė Prancūzija. Augustas III, 1733—1763 m. d. Lietuvos kunigaikštis, Lenkų karalius ir Saksų elektorius.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Augustas III apibūdinamas taip: Paminėtas kaip svetimųjų pastatytasis karalius."
+  teiginys: 'Augustas III — svetimųjų pastatytasis karalius.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje Augustas III apibūdinamas taip: Minimas kaip Augusto II sūnus, gavęs sostą ir nurodytas kaip Lietuvos kunigaikštis, Lenkų karalius ir Saksų elektorius."
+  teiginys: 'Augustui II mirus, daugumas bajorijos panoro grąžinti ištremtąjį karalių Leščinskį, kurio kandidatūrą rėmė Prancūzija.'
   pagrindžia:
     - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- t-003
+  teiginys: 'Augustas III, 1733—1763 m. d. Lietuvos kunigaikštis, Lenkų karalius ir Saksų elektorius.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Augustui III mirus, kandidatų į sostą atsirado nemaža.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Sustiprėjusi Rusijos įtaka Respublikoje aiškiai atsivėrė per Augusto III 1733 m. elekciją.'
+  pagrindžia:
+    - c-005
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Paminėtas kaip svetimųjų pastatytasis karalius.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Augustas III — svetimųjų pastatytasis karalius.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Augustas III — svetimųjų pastatytasis karalius
-  citata_rodoma: ""
+    - 22. Augustas III — svetimųjų pastatytasis karalius
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Minimas kaip Augusto II sūnus, gavęs sostą ir nurodytas kaip Lietuvos kunigaikštis, Lenkų karalius ir Saksų elektorius.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Augustui II mirus, daugumas bajorijos panoro grąžinti ištremtąjį karalių Leščinskį, kurio kandidatūrą rėmė Prancūzija.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Augustui **II** mirus, daugumas bajorijos panoro grąžinti iš-
+      tremtąjį karalių Leščinskį, kurio kandidatūrą rėmė Prancūzija.
+      Tačiau svarbiausias tuo reikalu balsas priklausė kaimynėms
+      valstybėms — Rusijai, Austrijai ir Prūsijai. O jos specialia su-
+      tartimi buvo įsižadėjusios neleisti į sostą nei Augusto **II** sūnaus,
+      Fridriko Augusto, nei Leščinskio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Augustas III, 1733—1763 m. d. Lietuvos kunigaikštis, Lenkų karalius ir Saksų elektorius.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Augustas III,
-    1733—1763 m. d. Lietuvos kunigaikštis,
-    Lenkų karalius ir Saksų elektorius.
+      1733—1763 m. d. Lietuvos kunigaikštis,
+      Lenkų karalius ir Saksų elektorius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Augustui III mirus, kandidatų į sostą atsirado nemaža.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Augustui **III** mirus, kandidatų į sostą atsirado
+      nemaža.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: Augusto III 1733 m. elekcija siejama su sustiprėjusia Rusijos įtaka.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Respublikos suverenumas vis labiau visokiais budais būdavo
+    pažeidžiamas. Tipiškai atsivėrė sustiprėjusi Rusijos įtaka per Au­
+    gusto III-jo (1733 m.) ir ypač per Stanislovo Augusto Poniatovskio
+    (1764) elekciją.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_variant
   pagrindžia:
-    - t-002
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    - t-005

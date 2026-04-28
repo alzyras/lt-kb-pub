@@ -1,61 +1,213 @@
 ---
 tipas: asmuo
-pavadinimas: "A. Smetona"
-sukurta: "2026-04-18"
-variantai: 
-  - "Smetona"
-aliases: 
-  - "A. Smetona"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
+pavadinimas: 'A. Smetona'
+sukurta: '2026-04-24'
+variantai:
+  - 'dabartinis prezidentas A. Smetona'
+  - 'A. Smetonos'
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+laikotarpis: '1896 m.; 1907 m.'
+datos:
+  - '1896 m.'
+  - '1907 m.'
+periodas: ''
 periodo_grupes: []
 amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
+date_start: ''
+date_end: ''
+vaidmenys:
+  - 'prezidentas'
+  - 'Komiteto vicepirmininkas'
+  - 'Komiteto pirmininkas Vilniuje'
+  - 'Vykdomojo Komiteto biuro narys'
+  - 'Lietuvos Tarybos pirmininkas'
+  - 'publicistas'
 dalyviai: []
 susije_irasai: []
-patikimumas: "aukstas"
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # A. Smetona
 
 ## Santrauka
-Šaltinyje A. Smetona apibūdinamas taip: Minimas kaip dabartinis prezidentas, išvarytas iš gimnazijos už pasipriešinimą rusinimui.
 
-## Variantai
-- Smetona
+A. Smetona rodomas kaip tautinio judėjimo ir nepriklausomybės laikotarpio politinis veikėjas: iš gimnazijos pašalintas mokinys, „Vilties“ redaktorius, Komiteto vadovybės narys ir Lietuvos Tarybos pirmininkas.
+
+## Vaidmenys
+- prezidentas
+- Komiteto vicepirmininkas
+- Komiteto pirmininkas Vilniuje
+- Vykdomojo Komiteto biuro narys
+- Lietuvos Tarybos pirmininkas
+- publicistas
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje A. Smetona apibūdinamas taip: Minimas kaip dabartinis prezidentas, išvarytas iš gimnazijos už pasipriešinimą rusinimui."
+  teiginys: 'A. Smetona buvo išvarytas iš gimnazijos.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: '1907 m. A. Smetona redagavo „Viltį“.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'A. Smetona buvo Komiteto vicepirmininkas.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'A. Smetona buvo Vilniuje pasilikusio Komiteto pirmininkas.'
+  pagrindžia:
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 'A. Smetona buvo Vykdomojo Komiteto biuro narys.'
+  pagrindžia:
+    - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'A. Smetona buvo Lietuvos Tarybos narys ir jos pirmininkas.'
+  pagrindžia:
+    - c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'Po 1940 m. komunistinės okupacijos spaudoje prasidėjo prezidento Smetonos ir jo sistemos niekinimas.'
+  pagrindžia:
+    - c-007
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip dabartinis prezidentas, išvarytas iš gimnazijos už pasipriešinimą rusinimui.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: A. Smetona buvo išvarytas iš gimnazijos
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vis dėlto, kapelionų skatinami, mokiniai priešindavosi pravo-
-    slavinimui, atsisakydavo net mokyklą lankyti. Daugelis jų nuken-
+    Daugelis jų nuken-
     tėjo — buvo išvaryti iš gimnazijų; jų tarpe buvo išvaryti dabar-
     tinis prezidentas A. Smetona, ministeris pirmininkas J. Tūbelis ir
     daugybė kitų.
-  citata_rodoma: |
-    Vis dėlto, kapelionų skatinami, mokiniai priešindavosi pravoslavinimui, atsisakydavo net mokyklą lankyti. Daugelis jų nukentėjo — buvo išvaryti iš gimnazijų; jų tarpe buvo išvaryti dabartinis prezidentas A. Smetona, ministeris pirmininkas J. Tūbelis ir daugybė kitų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_variant
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: A. Smetona 1907 m. redagavo „Viltį“
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kai „Vilniaus Žinių" leidėjų nuomonės ėmė skirtis, 1907 m.
+    pradėjo eiti gabiausio mūsų publicisto, A. Smetonos, reda-
+    guojamoji „Viltis". Tai buvo stipriausias lietuviškas laikraš-
+    tis, kuris, nepaisydamas partinių nesantaikų, kvietė visus lietu-
+    vius į vienybę, gynė opiuosius tautos reikalus, kovojo su Rusų
+    priespauda ir lenkų pastangomis nutautinti lietuvius, išvaryti lie-
+    tuvių kalbą iš bažnyčių ir t. t.
+  citata_rodoma: ""
+  teiginio_tipas: vertinimas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_variant
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: A. Smetona buvo Komiteto vicepirmininkas
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas,
+    vicepirmininkas A. Smetona, sekretorius St. Šilingas, iždininkas J.
+    Kymantas; jo nariai buvo E. Vileišienė, kun. Olšauskas, kun. Kukta,
+    kun. Dogelis, dr. A. Vileišis, P. Leonas, dr. J. Basanavičius, kun.
+    Jezukevičius, D. Malinauskas, J. Balčikonis, A. Žmuidzinavičius, J.
+    Mašiotas, A. Janulaitis ir M. Sleževičius.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_variant
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: A. Smetona buvo Vilniuje pasilikusio Komiteto pirmininkas
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vilniuje pasilikusio Komiteto pirmininku buvo A. Smetona, o
+    Rusijoje ir toliau pirmininkavo M. Yčas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_variant
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: A. Smetona buvo Vykdomojo Komiteto biuro narys
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vykdomasis Komiteto biuras (A. Smetona, J. Šaulys, kun. Stankevičius, M. Biržiška ir
+    P. Klimas) po to išsirūpino leidimą sušaukti platesnei konferen-
+    cijai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_variant
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: A. Smetona buvo Lietuvos Tarybos narys ir jos pirmininkas
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lietuvos Tarybos nariai buvo šie: J. Basanavičius, (†), S. Ba-
+    naitis (†), M. Biržiška, K. Bizauskas, P. Dovydaitis, S. Kairys, P.
+    Klimas, D. Malinauskas, P. Mironas, S. Narutavičius (†), A. Pet-
+    rulis (†), A. Smetona, J. Smilgevičius, J. Staugaitis, A. Stulginskis,
+    J. Šaulys, K. Šaulys, J. Šernas (†), J. Vailokaitis, J. Vileišis. Savo
+    pirmininku Taryba išsirinko A. Smetoną.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_variant
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: Po 1940 m. okupacijos spaudoje pradėtas niekinimas prezidento Smetonos ir jo sistemos.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tos tradicinės periodizacijos tačiau buvo atsisakyta, kai tik
+    Lietuva buvo komunistų okupuota (1940). Buvo charakteringa,
+    kad spaudoje tuoj prasidėjo niekinimas ne tik prezidento Smetonos
+    ir jo sistemos, bet ir didžiųjų Lietuvos kunigaikščių, labiausiai
+    kritikuojant Vytautą Didįjį^13.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_variant
   pagrindžia:
-    - t-001
+    - t-007
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/asmenys/J. Tūbelis]]

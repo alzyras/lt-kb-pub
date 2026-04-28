@@ -1,55 +1,43 @@
 ---
 tipas: autorius
-pavadinimas: "Šernas"
-sukurta: "2026-04-18"
-variantai: 
-  - "redaktorius Šernas"
-aliases: 
-  - "Šernas"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: 
-  - "autorius"
-  - "redaktorius"
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: 
-  - "autorius"
-  - "redaktorius"
-dalyviai: 
-  - "Šernas"
-susije_irasai: []
-patikimumas: "vidutinis"
+pavadinimas: 'Šernas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - autorius
 ---
 # Šernas
 
 ## Santrauka
-Šaltinyje Šernas minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip redaktorius ir „Aušros“ straipsnių bendradarbis.
 
-## Darbai
-- Minimas kaip redaktorius ir „Aušros“ straipsnių bendradarbis. (t-001)
-
-## Kontekstas
-- Tekstas tiesiogiai mini pavardę ir jo redaktoriaus vaidmenį. (c-001)
+Tik vienas Šernas savo „Lietuviškoje Ceitungoje" buvo pradėjęs spausdinti patriotiškus straipsnius - apie garbingą lietuvių praeitį ir apie sunkų dabartinį svetimųjų jungą. 1878 m. Šerno redaguojamoji „Lietuviška Ceitunga" net ėmė skelbti bendrumą su Didžiosios Lietuvos lietuviais (mat, joje buvo pradėję rašyti ir vėlesnieji „Aušros" bendradarbiai).
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Šernas autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip redaktorius ir „Aušros“ straipsnių bendradarbis."
+  teiginys: 'Tik vienas Šernas savo „Lietuviškoje Ceitungoje" buvo pradėjęs spausdinti patriotiškus straipsnius - apie garbingą lietuvių praeitį ir apie sunkų dabartinį svetimųjų jungą.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: '1878 m. Šerno redaguojamoji „Lietuviška Ceitunga" net ėmė skelbti bendrumą su Didžiosios Lietuvos lietuviais (mat, joje buvo pradėję rašyti ir vėlesnieji „Aušros" bendradarbiai).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip redaktorius ir „Aušros“ straipsnių bendradarbis.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Tik vienas Šernas savo „Lietuviškoje Ceitungoje" buvo pradėjęs spausdinti patriotiškus straipsnius - apie garbingą lietuvių praeitį ir apie sunkų dabartinį svetimųjų jungą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Tik vienas Šernas savo „Lie-
+    tuviškoje Ceitun-
+    goje" buvo pradėjęs
+    spausdinti patriotiškus
+    straipsnius - apie garbin-
+    gą lietuvių praeitį ir apie
+    sunkų dabartinį sveti-
     mųjų jungą. Juos rašė
     ne tik Didžiosios Lietu-
     vos lietuviai inteligentai,
@@ -61,13 +49,32 @@ patikimumas: "vidutinis"
     tis S. Zauerveinas
     (autorius giesmės „Lie-
     tuviai esame mes gi-
-    mę"). Greit betgi pa-
-  citata_rodoma: |
-    mųjų jungą. Juos rašė ne tik Didžiosios Lietuvos lietuviai inteligentai, — ypač Dr. J. Basanavičius, — bet ir patsai redaktorius Šernas, M. Jankus ir lietuvių draugas vokietis S. Zauerveinas (autorius giesmės „Lietuviai esame mes gimę"). Greit betgi pa-
+    mę").
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Tekstas tiesiogiai mini pavardę ir jo redaktoriaus vaidmenį."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '1878 m. Šerno redaguojamoji „Lietuviška Ceitunga" net ėmė skelbti bendrumą su Didžiosios Lietuvos lietuviais (mat, joje buvo pradėję rašyti ir vėlesnieji „Aušros" bendradarbiai).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    1878 m. Šerno redaguojamoji „Lietuviška Ceitunga"
+    net ėmė skelbti bendrumą su Didžiosios Lietuvos lietuviais (mat,
+    joje buvo pradėję rašyti ir vėlesnieji „Aušros" bendradar-
+    biai). Bet prieš radikalųjį jos tautiškumą kilo nepasitenkinimas,
+    ir redaktorius vėl pavertė ją paprastu informaciniu laikraščiu be
+    jokios ideologijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/redaktorius]]

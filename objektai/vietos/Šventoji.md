@@ -1,75 +1,47 @@
 ---
 tipas: vieta
-pavadinimas: "Šventoji"
-sukurta: "2026-04-18"
-variantai: 
-  - "Šventosios"
-  - "Šventosios uostas"
-aliases: 
-  - "Šventoji"
-  - "Šventosios"
-  - "Šventosios uostas"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Šventoji'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'žemas'
+tags:
+  - vieta
 ---
 # Šventoji
 
 ## Santrauka
-Šaltinyje vieta „Šventoji“ siejama su šiuo kontekstu: Upė minima kaip geografinė riba tarp žemaičių ir kuršių gyvenamų sričių. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Šventoji
-- Šaltinyje fiksuotos formos: Šventosios; Šventosios uostas
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: upė; uostas / vietovė
-
-## Geografinis ir istorinis kontekstas
-- Upė minima kaip geografinė riba tarp žemaičių ir kuršių gyvenamų sričių. (t-001)
+Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią Zigmanto sūnaus Mykolo vedama lietuvių ir į pagalbą atėjusių lenkų kariuomenė.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Šventoji“ siejama su šiuo kontekstu: Upė minima kaip geografinė riba tarp žemaičių ir kuršių gyvenamų sričių."
+  teiginys: 'Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią Zigmanto sūnaus Mykolo vedama lietuvių ir į pagalbą atėjusių lenkų kariuomenė.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Upė minima kaip geografinė riba tarp žemaičių ir kuršių gyvenamų sričių.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią Zigmanto sūnaus Mykolo vedama lietuvių ir į pagalbą atėjusių lenkų kariuomenė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    **Latviai.** Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo
-    Šventosios upės ir žemaičių, gyveno kuršiai, kairiajame Dau-
-    guvos žemupio krante — žiemgaliai, kairiajame Dauguvos
-    vidurupio krante, siekdami dabartines Utenos ir Zarasų apskri-
-    tis, gyveno sėliai, o į šiaurę nuo jų, t. y. dešiniajam Dauguvos
-    vidurupio krante gyveno latgãliai (taip šitų sričių gyven-
-    tojus vadina senieji raštai).
-  citata_rodoma: |
-    Latviai. Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir žemaičių, gyveno kuršiai, kairiajame Dauguvos žemupio krante — žiemgaliai, kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apskritis, gyveno sėliai, o į šiaurę nuo jų, t. y. dešiniajam Dauguvos vidurupio krante gyveno latgãliai (taip šitų sričių gyventojus vadina senieji raštai).
+    Bet, pasiekus Šventąją, netoli Ukmergės (ties Pa-
+    baisku), jam pastojo kelią Zigmanto sūnaus Mykolo vedama
+    lietuvių ir į pagalbą atėjusių lenkų kariuomenė.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: žemas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/šventė]]
+
+### Susiję objektai
+- [[objektai/vietos/Pabaiskas]]
+- [[objektai/vietos/Ukmergė]]

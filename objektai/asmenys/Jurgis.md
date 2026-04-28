@@ -1,59 +1,47 @@
 ---
 tipas: asmuo
-pavadinimas: "Jurgis"
-sukurta: "2026-04-18"
-variantai: 
-  - "Jurgio"
-aliases: 
-  - "Jurgis"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Jurgis'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
+  - mūšis
 ---
 # Jurgis
 
 ## Santrauka
-Šaltinyje Jurgis apibūdinamas taip: Andriaus sąjungininkas, Smolensko kunigaikštis.
 
-## Variantai
-- Jurgio
+Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio sūnus Jurgis buvo priverstas padaryti su Lietuva sąjungą.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Jurgis apibūdinamas taip: Andriaus sąjungininkas, Smolensko kunigaikštis."
+  teiginys: 'Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio sūnus Jurgis buvo priverstas padaryti su Lietuva sąjungą.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Andriaus sąjungininkas, Smolensko kunigaikštis.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio sūnus Jurgis buvo priverstas padaryti su Lietuva sąjungą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jo sąjungininkas, Smolensko kunigaikštis Sviatosla-
-    vas, žuvo mūšyje, o šio sūnus Jurgis buvo priverstas padaryti
-    su Lietuva sąjungą.
-  citata_rodoma: |
-    Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio sūnus Jurgis buvo priverstas padaryti su Lietuva sąjungą.
+      vas, žuvo mūšyje, o šio sūnus Jurgis buvo priverstas padaryti
+      su Lietuva sąjungą.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/mūšis]]
+
+### Susiję objektai
+- [[objektai/asmenys/Sviatoslavas]]

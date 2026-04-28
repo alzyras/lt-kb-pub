@@ -1,68 +1,56 @@
 ---
 tipas: vieta
-pavadinimas: "Ašmena"
-sukurta: "2026-04-18"
-variantai: 
-  - "Ašmeną"
-aliases: 
-  - "Ašmena"
-  - "Ašmeną"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Ašmena'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
 ---
 # Ašmena
 
 ## Santrauka
-Šaltinyje vieta „Ašmena“ siejama su šiuo kontekstu: Ašmena minima kaip vienas iš kryžiuočių žygio taikinių į Lietuvą. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Ašmena
-- Šaltinyje fiksuotos formos: Ašmeną
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: miestas
-
-## Geografinis ir istorinis kontekstas
-- Ašmena minima kaip vienas iš kryžiuočių žygio taikinių į Lietuvą. (t-001)
+Vieno žygio metu kryžiuočiai buvo pasiekę net Vilnių ir Ašmeną, o kiek vėliau livoniškė ordino šaka su pasidavusiu jai Polocko kunigaikščiu Andrium padarė kitą žygį. Švitrigaila buvo sąmokslininkų užpultas tuo metu, kai, vykdamas į derybas su Jogaila, nakvojo sustojęs Ašmenoje.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Ašmena“ siejama su šiuo kontekstu: Ašmena minima kaip vienas iš kryžiuočių žygio taikinių į Lietuvą."
+  teiginys: 'Vieno žygio metu kryžiuočiai buvo pasiekę net Vilnių ir Ašmeną, o kiek vėliau livoniškė ordino šaka su pasidavusiu jai Polocko kunigaikščiu Andrium padarė kitą žygį.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Švitrigaila buvo sąmokslininkų užpultas tuo metu, kai, vykdamas į derybas su Jogaila, nakvojo sustojęs Ašmenoje.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Ašmena minima kaip vienas iš kryžiuočių žygio taikinių į Lietuvą.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Vieno žygio metu kryžiuočiai buvo pasiekę net Vilnių ir Ašmeną, o kiek vėliau livoniškė ordino šaka su pasidavusiu jai Polocko kunigaikščiu Andrium padarė kitą žygį.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vieno žygio metu kryžiuočiai buvo pasiekę net Vilnių ir Ašmeną,
     o kiek vėliau livoniškė ordino šaka su pasidavusiu jai Polocko
     kunigaikščiu Andrium padarė kitą žygį.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-002
+  santrauka: 'Švitrigaila buvo sąmokslininkų užpultas tuo metu, kai, vykdamas į derybas su Jogaila, nakvojo sustojęs Ašmenoje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Švitrigaila buvo sąmokslininkų užpultas tuo metu, kai, vyk-
+    damas į derybas su Jogaila, nakvojo sustojęs Ašmenoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

@@ -1,76 +1,66 @@
 ---
 tipas: asmuo
-pavadinimas: "Kristupas Pacas"
-sukurta: "2026-04-18"
-variantai: 
-  - "Kristupo Paco"
-  - "Pacas"
-  - "kancleris Kristupas Pacas"
-aliases: 
-  - "Kristupas Pacas"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1656—1658 m. vicekancleris; 1658—1684 m. kancleris"
-datos: 
-  - "1656—1658 m. vicekancleris; 1658—1684 m. kancleris"
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XVII"
-date_start: "1656"
-date_end: "1684"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Kristupas Pacas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
+  - vyskupas
 ---
 # Kristupas Pacas
 
 ## Santrauka
-Šaltinyje Kristupas Pacas apibūdinamas taip: Minimas kaip Pacų šeimos kancleris ir Pažaislio vienuolyno statytojas.
 
-## Variantai
-- Kristupo Paco
-- Pacas
-- kancleris Kristupas Pacas
-
-## Laikotarpis ir datos
-- laikotarpis: 1656—1658 m. vicekancleris; 1658—1684 m. kancleris
-- datos: 1656—1658 m. vicekancleris; 1658—1684 m. kancleris
-- periodas:
-- periodo_grupes:
-- amziai: XVII
-- date_start: 1656
-- date_end: 1684
+Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris Kristupas Pacas, — tas pats, kuris pastatė gražųjį Pažaislio vienuolyną paliai Kauną (jo brolis hetmonas Mykolas pastatė taip pat gražiausią Vilniuje barokinę šv. Vienas iš jų, Mykolas, buvo hetmonas ir Vilniaus vaivada, kitas, Kristupas, — kancleris, trečias, Steponas, — Vilniaus vyskupas, ketvirtas, Kazimieras, — Žemaičių vyskupas, o penktas, Petras, — Žemaičių seniūnas.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Kristupas Pacas apibūdinamas taip: Minimas kaip Pacų šeimos kancleris ir Pažaislio vienuolyno statytojas."
+  teiginys: 'Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris Kristupas Pacas, — tas pats, kuris pastatė gražųjį Pažaislio vienuolyną paliai Kauną (jo brolis hetmonas Mykolas pastatė taip pat gražiausią Vilniuje barokinę šv.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Vienas iš jų, Mykolas, buvo hetmonas ir Vilniaus vaivada, kitas, Kristupas, — kancleris, trečias, Steponas, — Vilniaus vyskupas, ketvirtas, Kazimieras, — Žemaičių vyskupas, o penktas, Petras, — Žemaičių seniūnas.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip Pacų šeimos kancleris ir Pažaislio vienuolyno statytojas.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris Kristupas Pacas, — tas pats, kuris pastatė gražųjį Pažaislio vienuolyną paliai Kauną (jo brolis hetmonas Mykolas pastatė taip pat gražiausią Vilniuje barokinę šv.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu,
-    buvo kancleris Kristupas Pacas, — tas pats, kuris pastatė gra-
-    žųjį Pažaislio vienuolyną paliai Kauną (jo brolis hetmonas My-
-    kolas pastatė taip pat gražiausią Vilniuje barokinę šv. Petro
-    ir Povilo -bažnyčią Antakalny).
-  citata_rodoma: |
-    Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris Kristupas Pacas, — tas pats, kuris pastatė gražųjį Pažaislio vienuolyną paliai Kauną (jo brolis hetmonas Mykolas pastatė taip pat gražiausią Vilniuje barokinę šv. Petro ir Povilo -bažnyčią Antakalny).
+      buvo kancleris Kristupas Pacas, — tas pats, kuris pastatė gra-
+      žųjį Pažaislio vienuolyną paliai Kauną (jo brolis hetmonas My-
+      kolas pastatė taip pat gražiausią Vilniuje barokinę šv. Petro
+      ir Povilo -bažnyčią Antakalny).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Vienas iš jų, Mykolas, buvo hetmonas ir Vilniaus vaivada, kitas, Kristupas, — kancleris, trečias, Steponas, — Vilniaus vyskupas, ketvirtas, Kazimieras, — Žemaičių vyskupas, o penktas, Petras, — Žemaičių seniūnas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vienas iš jų, Mykolas, buvo hetmonas ir Vil-
+      niaus vaivada, kitas, Kristupas, — kancleris, trečias, Steponas, —
+      Vilniaus vyskupas, ketvirtas, Kazimieras, — Žemaičių vyskupas,
+      o penktas, Petras, — Žemaičių seniūnas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/vietos/Antakalnis]]
+- [[objektai/vietos/Pažaislis]]

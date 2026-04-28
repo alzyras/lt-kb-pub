@@ -1,76 +1,67 @@
 ---
 tipas: vieta
-pavadinimas: "Augustavas"
-sukurta: "2026-04-18"
-variantai: 
-  - "Augustavo"
-aliases: 
-  - "Augustavas"
-  - "Augustavo"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1919 m. birželio 18 d."
-datos: 
-  - "1919 m. birželio 18 d."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XX"
-date_start: "1919"
-date_end: "1919"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Augustavas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - sutartis
+  - vieta
 ---
 # Augustavas
 
 ## Santrauka
-Šaltinyje vieta „Augustavas“ siejama su šiuo kontekstu: Minimas kaip demarkacijos linijos pradžios taškas ir lenkų pusėje esantis miestas. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Augustavas
-- Šaltinyje fiksuotos formos: Augustavo
-
-## Laikotarpis ir datos
-- laikotarpis: 1919 m. birželio 18 d.
-- datos: 1919 m. birželio 18 d.
-- amziai: XX
-- date_start/date_end: 1919 / 1919
-
-## Kas tai
-- tipas: miestas
-
-## Geografinis ir istorinis kontekstas
-- Minimas kaip demarkacijos linijos pradžios taškas ir lenkų pusėje esantis miestas. (t-001)
+Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva paliko sieną nustatyti Lietuvos tiesioginiam susitarimu su Lenkija, mūsų vyriausybė čia pasiūlė laikinę demarkacijos liniją, kuri eitų per Grabovą — Augustavą — Stabiną. 8 d. tą Augustavo —Suvalkų—Punsko—Seinų sritį atidavė Lenkijos valdymui, ligi bus galutinai čia nustatytos sienos (lordo Kerzono linija).
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Augustavas“ siejama su šiuo kontekstu: Minimas kaip demarkacijos linijos pradžios taškas ir lenkų pusėje esantis miestas."
+  teiginys: 'Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva paliko sieną nustatyti Lietuvos tiesioginiam susitarimu su Lenkija, mūsų vyriausybė čia pasiūlė laikinę demarkacijos liniją, kuri eitų per Grabovą — Augustavą — Stabiną.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: '8 d. tą Augustavo —Suvalkų—Punsko—Seinų sritį atidavė Lenkijos valdymui, ligi bus galutinai čia nustatytos sienos (lordo Kerzono linija).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip demarkacijos linijos pradžios taškas ir lenkų pusėje esantis miestas.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva paliko sieną nustatyti Lietuvos tiesioginiam susitarimu su Lenkija, mūsų vyriausybė čia pasiūlė laikinę demarkacijos liniją, kuri eitų per Grabovą — Augustavą — Stabiną.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Speciali Prancūzų karo. misija Lie-
-    tuvoje tą liniją nustatė birželio mėn. 18 d., vesdama ją tiesiog nuo
-    Lykos (Elko) ligi Augustavo (šis miestas lenkų pusėje), pro Rat-
-    nyčią, Varėną ir Vilnių, paliai geležinkelį (5 klm. į vakarus), Vilnių
-    palikdama lenkų pusėj.
-  citata_rodoma: |
-    Speciali Prancūzų karo. misija Lietuvoje tą liniją nustatė birželio mėn. 18 d., vesdama ją tiesiog nuo Lykos (Elko) ligi Augustavo (šis miestas lenkų pusėje), pro Ratnyčią, Varėną ir Vilnių, paliai geležinkelį (5 klm. į vakarus), Vilnių palikdama lenkų pusėj.
+    Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis
+    su Maskva paliko sieną nustatyti Lietuvos tiesioginiam susita-
+    rimu su Lenkija, mūsų vyriausybė čia pasiūlė laikinę demar-
+    kacijos liniją, kuri eitų per Grabovą — Augustavą — Stabiną.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '8 d. tą Augustavo —Suvalkų—Punsko—Seinų sritį atidavė Lenkijos valdymui, ligi bus galutinai čia nustatytos sienos (lordo Kerzono linija).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tą savo
+    reikalavimą Lenkija rėmė dar Aukščiausiosios Sąjungininkių Ta-
+    rybos nutarimu, kurs 1919 metų gruodžio mėn. 8 d. tą Augustavo
+    —Suvalkų—Punsko—Seinų sritį atidavė Lenkijos valdymui, ligi
+    bus galutinai čia nustatytos sienos (lordo Kerzono linija).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/vietos/Grabova]]
+- [[objektai/asmenys/Kerzonas]]
+- [[objektai/vietos/Stabina]]

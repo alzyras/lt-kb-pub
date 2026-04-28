@@ -1,69 +1,58 @@
 ---
 tipas: saltinis
-pavadinimas: "Būdas senovės lietuvių"
-sukurta: "2026-04-20"
-variantai: 
-  - "„Būdą senovės lietuvių\""
-aliases: 
-  - "Būdas senovės lietuvių"
-  - "„Būdą senovės lietuvių\""
+pavadinimas: Būdas senovės lietuvių
+sukurta: '2026-04-24'
+variantai:
+  - '„Būdą senovės lietuvių"'
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: 
-  - "knyga"
-laikotarpis: ""
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+laikotarpis: ''
 datos: []
-periodas: ""
+periodas: ''
 periodo_grupes: []
 amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: 
-  - "autorius"
-dalyviai: 
-  - "S. Daukantas"
+date_start: ''
+date_end: ''
+vaidmenys: []
+dalyviai: []
 susije_irasai: []
-patikimumas: "aukstas"
+patikimumas: ''
+tags: []
 ---
 # Būdas senovės lietuvių
 
-## Bibliografiniai duomenys
+## Santrauka
 
-- Pavadinimas: Būdas senovės lietuvių.
-- Formos šaltinyje: „Būdą senovės lietuvių".
-- Autorius / redaktorius: S. Daukantas.
-- Šaltinio rūšis: knyga.
+„Būdas senovės lietuvių“ minimas tarp kelių S. Daukanto parašytų Lietuvos istorijos veikalų. Veikalas pateikiamas tame pačiame Daukanto darbų sąraše kaip ir „Darbai senovės lietuvių ir žemaičių“ bei dvitomė „Lietuvos istorija“.
 
-## Turinys ir apimtis
+## Turinys ir pobūdis
 
-Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Būdas senovės lietuvių“ siejamas su šiuo kontekstu: šaltinyje išvardijami keli S. Daukanto istoriniai veikalai.
-
-## Ryšiai
-
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- Šaltinio pobūdis: istorijos veikalas.
+- Autorius: S. Daukantas.
+- Data: aiškiai nenurodyta.
 
 ## Teiginiai
-
 - t-001
-  teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Būdas senovės lietuvių“ siejamas su šiuo kontekstu: šaltinyje išvardijami keli S. Daukanto istoriniai veikalai."
+  teiginys: 'S. Daukantas parašė veikalą „Būdas senovės lietuvių“.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
-## Reikšmingi paminėjimai
-
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: šaltinyje išvardijami keli S. Daukanto istoriniai veikalai.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: Citata tiesiogiai priskiria veikalą S. Daukantui.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-      auklėtinio S. Daukanto, kuris parašė net kelis Lietuvos isto-
-      rijos veikalus („Darbus senovės lietuvių ir žemaičių", „Būdą senovės
-      lietuvių", „Lietuvos istoriją" — 2 t.).
-  citata_rodoma: ""
+    Tai buvo darbai Vilniaus universiteto
+    auklėtinio S. Daukanto, kuris parašė net kelis Lietuvos isto-
+    rijos veikalus („Darbus senovės lietuvių ir žemaičių", „Būdą senovės
+    lietuvių", „Lietuvos istoriją" — 2 t.).
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pateikia šaltinio pavadinimą, bibliografinį įrašą arba aprašomą kontekstą."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001

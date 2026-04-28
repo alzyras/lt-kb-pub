@@ -1,78 +1,46 @@
 ---
 tipas: grupe
-pavadinimas: "Amerikos Lietuvių Darbininkų Susivienijimas"
-sukurta: "2026-04-18"
-variantai: 
-  - "Amerikos Lietuvių Darbininkų Susivienijimą"
-aliases: 
-  - "Amerikos Lietuvių Darbininkų Susivienijimas"
-  - "Amerikos Lietuvių Darbininkų Susivienijimą"
+pavadinimas: 'Amerikos Lietuvių Darbininkų Susivienijimas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1930 m."
-datos: 
-  - "1930 m."
-periodas: "siuolaikine_istorija"
-periodo_grupes: []
-amziai: 
-  - "XX"
-date_start: "1930"
-date_end: "1930"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - grupe
 ---
 # Amerikos Lietuvių Darbininkų Susivienijimas
 
 ## Santrauka
-Šaltinyje „Amerikos Lietuvių Darbininkų Susivienijimas“ apibūdinama kaip susivienijimas; trečiasis amerikiečių lietuvių susivienijimas, atsiradęs po triukšmingo Čikagos seimo. (t-001)
 
-## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: Amerikos Lietuvių Darbininkų Susivienijimas
-- Šaltinyje fiksuotos formos: Amerikos Lietuvių Darbininkų Susivienijimą
-
-## Laikotarpis ir datos
-- laikotarpis: 1930 m.
-- datos: 1930 m.
-- periodas: siuolaikine_istorija
-- periodo_grupes: 
-- amziai: XX
-- date_start: 1930
-- date_end: 1930
-
-## Kas tai
-- tipas: susivienijimas
-Šaltinyje „Amerikos Lietuvių Darbininkų Susivienijimas“ apibūdinama kaip susivienijimas; trečiasis amerikiečių lietuvių susivienijimas, atsiradęs po triukšmingo Čikagos seimo. (t-001)
-
-## Sudėtis ir vaidmuo
-- Šaltinyje „Amerikos Lietuvių Darbininkų Susivienijimas“ apibūdinama kaip susivienijimas; trečiasis amerikiečių lietuvių susivienijimas, atsiradęs po triukšmingo Čikagos seimo. (t-001)
+Susivienijimo Lietuvių Amerikoje neramiausias elementas buvo komunistai.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Amerikos Lietuvių Darbininkų Susivienijimas“ apibūdinama kaip susivienijimas; trečiasis amerikiečių lietuvių susivienijimas, atsiradęs po triukšmingo Čikagos seimo."
+  teiginys: 'Susivienijimo Lietuvių Amerikoje neramiausias elementas buvo komunistai.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Trečiasis amerikiečių lietuvių susivienijimas, atsiradęs po triukšmingo Čikagos seimo.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Susivienijimo Lietuvių Amerikoje neramiausias elementas buvo komunistai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Susivienijimo Lietuvių Amerikoje neramiausias elementas
+    buvo komunistai. Jie kelis kartus mėgino paimti į savo rankas
+    Susivienijimo vadovybę, tačiau jiems tatai nepavyko. Pagaliau
     po triukšmingo 1930 m. Čikagoje įvykusio Susivienijimo seimo
     jie įsikūrė atskirą organizaciją — Amerikos Lietuvių
     Darbininkų Susivienijimą. Tuo būdu Amerikoje
-    atsirado trečias lietuvių Susivienijimas.
-  citata_rodoma: ""
+    atsirado trečias lietuvių Susivienijimas. Kaip ir anie du, taip
+    ir šis rūpinasi pašalpomis nedarbo metu, parama ligoje ir gy-
+    vybės draudimu, o kultūrinėje ir ypač politinėje veikloje laikosi
+    bendros komunistų linijos.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

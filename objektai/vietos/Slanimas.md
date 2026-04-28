@@ -1,71 +1,80 @@
 ---
 tipas: vieta
-pavadinimas: "Slanimas"
-sukurta: "2026-04-18"
-variantai: 
-  - "Slanimą"
-  - "Slanimo"
-aliases: 
-  - "Slanimas"
-  - "Slanimą"
-  - "Slanimo"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Slanimas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
 ---
 # Slanimas
 
 ## Santrauka
-Šaltinyje vieta „Slanimas“ siejama su šiuo kontekstu: Minimas kaip Vaišvilkui atiduotas miestas po taikos su Voluine. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Slanimas
-- Šaltinyje fiksuotos formos: Slanimą; Slanimo
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: miestas / sritis
-
-## Geografinis ir istorinis kontekstas
-- Minimas kaip Vaišvilkui atiduotas miestas po taikos su Voluine. (t-001)
+38 psl.) lietuviškąsias Gardino, Naugarduko, Slanimo ir Volkovisko sritis. Iš pradžių jie įvykdavo Volkoviske, o vėliau Slanime. Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve, Alūkstoje, Daugpily, Jelgavoj ir kitur.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Slanimas“ siejama su šiuo kontekstu: Minimas kaip Vaišvilkui atiduotas miestas po taikos su Voluine."
+  teiginys: '38 psl.) lietuviškąsias Gardino, Naugarduko, Slanimo ir Volkovisko sritis.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Iš pradžių jie įvykdavo Volkoviske, o vėliau Slanime.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve, Alūkstoje, Daugpily, Jelgavoj ir kitur.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip Vaišvilkui atiduotas miestas po taikos su Voluine.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: '38 psl.) lietuviškąsias Gardino, Naugarduko, Slanimo ir Volkovisko sritis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Danieliaus sūnui Romanui Mindaugas davė valdyti Nau-
-    garduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų
-    sričių miestus.
-  citata_rodoma: |
-    Danieliaus sūnui Romanui Mindaugas davė valdyti Naugarduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus.
+    ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau-
+    garduko, Slanimo ir Volkovisko sritis.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Iš pradžių jie įvykdavo Volkoviske, o vėliau Slanime.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Ir Lietuvoje prieš kiekvieną bendrąjį
+    seimą taip pat buvo pradėti daryti tokie pat į seimą vyks-
+    tančių atstovų ir senatorių suvažiavimai. Iš pradžių jie įvyk-
+    davo Volkoviske, o vėliau Slanime.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve, Alūkstoje, Daugpily, Jelgavoj ir kitur.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
+    Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
+    Alūkstoje, Daugpily, Jelgavoj ir kitur.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/vietos/Naugardukas]]
+- [[objektai/vietos/Volkoviskas]]

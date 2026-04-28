@@ -1,125 +1,125 @@
 ---
 tipas: vieta
-pavadinimas: "Vokietija"
-sukurta: "2026-04-18"
-variantai: 
-  - "Vokietiją"
-  - "Vokietijos"
-  - "Vokietijoje"
-aliases: 
-  - "Vokietija"
-  - "Vokietiją"
-  - "Vokietijos"
-  - "Vokietijoje"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1635 m."
-datos: 
-  - "1635 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XVII"
-date_start: "1635"
-date_end: "1635"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Vokietija'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - ginklas
+  - vieta
 ---
 # Vokietija
 
 ## Santrauka
-Šaltinyje vieta „Vokietija“ siejama su šiais kontekstais: Šalis minima kaip vieta, į kurią buvo išvežta Lietuvos istorijos medžiagos; Minima kaip kolonistų ir pagalbos šaltinis kryžiuočių ordinui. (t-001, t-002)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Vokietija
-- Šaltinyje fiksuotos formos: Vokietiją; Vokietijos; Vokietijoje
-
-## Laikotarpis ir datos
-- laikotarpis: 1635 m.
-- datos: 1635 m.
-- amziai: XVII
-- date_start/date_end: 1635 / 1635
-
-## Kas tai
-- tipas: valstybė / šalis; valstybė; valstybė / kraštas
-
-## Geografinis ir istorinis kontekstas
-- Šalis minima kaip vieta, į kurią buvo išvežta Lietuvos istorijos medžiagos. (t-001)
-- Minima kaip kolonistų ir pagalbos šaltinis kryžiuočių ordinui. (t-002)
-- Minima kaip 30 metų karo erdvė. (t-003)
+Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją. Be to, daug didikų vaikų, išvažiavę mokytis į Vokietijos universitetus, užsikrėsdavo protestantų mokslu, kurį parsiveždavo kartu ir į Lietuvą; čia,. Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Vokietija“ siejama su šiuo kontekstu: Šalis minima kaip vieta, į kurią buvo išvežta Lietuvos istorijos medžiagos."
+  teiginys: 'Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Vokietija“ siejama su šiuo kontekstu: Minima kaip kolonistų ir pagalbos šaltinis kryžiuočių ordinui."
+  teiginys: 'Be to, daug didikų vaikų, išvažiavę mokytis į Vokietijos universitetus, užsikrėsdavo protestantų mokslu, kurį parsiveždavo kartu ir į Lietuvą; čia,.'
   pagrindžia:
     - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 - t-003
-  teiginys: "Šaltinyje vieta „Vokietija“ siejama su šiuo kontekstu: Minima kaip 30 metų karo erdvė."
+  teiginys: 'Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),.'
   pagrindžia:
     - c-003
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-004
+  teiginys: 'Daugelis vyko į Vokietiją; bet kadangi ten universitetai buvo protestantiški, tai dažnai jie iš ten grįždavo protestantai.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Tais laikais būdavo labai paprastas reiškinys, kad jaunystėje buvę protestantai, patekę į jėzuitų mokyklas, pasidarydavo katalikais, išvykę į Vokietijos universitetus, vėl atvirsdavo į protestantizmą, o grįžę namo po kiek laiko vėl pereidavo į katalikybę.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Šalis minima kaip vieta, į kurią buvo išvežta Lietuvos istorijos medžiagos.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pav., dalis jos per karus buvo išvežta į Švediją; Rusija
-    daug jos išvežė, užėmusi Lietuvą; unijos laikais nemaža jos pa-
-    teko į Lenkiją, o vėlesniais laikais daug medžiagos ten išvežė
-    sulenkėję mūsų dvarininkai. Pagaliau tų pačių dvarininkų ne-
-    maža jos išvežta į Prancūziją, Italiją ir Vokietiją.
-  citata_rodoma: |
-    Pav., dalis jos per karus buvo išvežta į Švediją; Rusija daug jos išvežė, užėmusi Lietuvą; unijos laikais nemaža jos pateko į Lenkiją, o vėlesniais laikais daug medžiagos ten išvežė sulenkėję mūsų dvarininkai. Pagaliau tų pačių dvarininkų nemaža jos išvežta į Prancūziją, Italiją ir Vokietiją.
+    aukštojo mokslo, turėdavo vykti į užsienį. Tie, kurie ruošėsi dvasi-
+    ninkais, paprastai vykdavo mokytis į Krokuvos universitetą, o
+    visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją,
+    Italiją ir Prancūziją. Kadangi į tolimuosius kraštus tegalėjo
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Minima kaip kolonistų ir pagalbos šaltinis kryžiuočių ordinui.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Be to, daug didikų vaikų, išvažiavę mokytis į Vokietijos universitetus, užsikrėsdavo protestantų mokslu, kurį parsiveždavo kartu ir į Lietuvą; čia,.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Apie pilis buvo
-    kurdinami iš Vokietijos atkviesti kolonistai. Jie buvo pirmieji
-    vokietybės daigai šiose aisčių žemėse. Kartu su nukariavimu
-    žengė ir krikščionystė: buvo statomos bažnyčios ir vienuo-
-    lynai, o prūsai buvo varu krikštijami.
-  citata_rodoma: |
-    Apie pilis buvo kurdinami iš Vokietijos atkviesti kolonistai. Jie buvo pirmieji vokietybės daigai šiose aisčių žemėse. Kartu su nukariavimu žengė ir krikščionystė: buvo statomos bažnyčios ir vienuolynai, o prūsai buvo varu krikštijami.
+    **Protestantizmo plitimas.** Protestantizmas labai greitai pa-
+    siekė Lietuvą. 1525 m. Lietuvos pašonėje priėmė protestantizmą
+    kryžiuočių ordino magistras ir daugumas brolių. Be to, daug didi-
+    kų vaikų, išvažiavę mokytis į Vokietijos universitetus, užsikrėsda-
+    vo protestantų mokslu, kurį parsiveždavo kartu ir į Lietuvą; čia,
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
 - c-003
-  santrauka: Minima kaip 30 metų karo erdvė.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tuo metu Vokietijoje tebe-
-    ėjo vadinamasis 30 metų karas.
-  citata_rodoma: |
-    Tuo metu Vokietijoje tebeėjo vadinamasis 30 metų karas.
+    Tuo būdu surinkus pinigų, prisi-
+    samdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisi-
+    gaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Daugelis vyko į Vokietiją; bet kadangi ten universitetai buvo protestantiški, tai dažnai jie iš ten grįždavo protestantai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Daugelis vyko į Vokietiją; bet kadangi ten universitetai
+    buvo protestantiški, tai dažnai jie iš ten grįždavo protestantai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Tais laikais būdavo labai paprastas reiškinys, kad jaunystėje buvę protestantai, patekę į jėzuitų mokyklas, pasidarydavo katalikais, išvykę į Vokietijos universitetus, vėl atvirsdavo į protestantizmą, o grįžę namo po kiek laiko vėl pereidavo į katalikybę.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tais laikais būdavo labai paprastas reiškinys, kad jaunystėje
+    buvę protestantai, patekę į jėzuitų mokyklas, pasidarydavo ka-
+    talikais, išvykę į Vokietijos universitetus, vėl atvirsdavo į pro-
+    testantizmą, o grįžę namo po kiek laiko vėl pereidavo į kata-
+    likybę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/ginklas]]
+
+### Susiję objektai
+- [[objektai/vietos/Italija]]
+- [[objektai/vietos/Prancūzija]]
+- [[objektai/vietos/Vengrija]]

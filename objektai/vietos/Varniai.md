@@ -1,74 +1,64 @@
 ---
 tipas: vieta
-pavadinimas: "Varniai"
-sukurta: "2026-04-18"
+pavadinimas: 'Varniai'
+sukurta: '2026-04-25'
 variantai: []
-aliases: 
-  - "Varniai"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1417—1421 m."
-datos: 
-  - "1417—1421 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XV"
-date_start: "1417"
-date_end: "1421"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
+  - vyskupas
 ---
 # Varniai
 
 ## Santrauka
-Šaltinyje vieta „Varniai“ siejama su šiuo kontekstu: Minimi kaip Žemaičių vyskupystės centras. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Varniai
-
-## Laikotarpis ir datos
-- laikotarpis: 1417—1421 m.
-- datos: 1417—1421 m.
-- amziai: XV
-- date_start/date_end: 1417 / 1421
-
-## Kas tai
-- tipas: miestas / vyskupystės centras
-
-## Geografinis ir istorinis kontekstas
-- Minimi kaip Žemaičių vyskupystės centras. (t-001)
+Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve, Alūkstoje, Daugpily, Jelgavoj ir kitur.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Varniai“ siejama su šiuo kontekstu: Minimi kaip Žemaičių vyskupystės centras."
+  teiginys: 'Vyskupystės centru buvo padaryti Varniai.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve, Alūkstoje, Daugpily, Jelgavoj ir kitur.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimi kaip Žemaičių vyskupystės centras.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Vyskupystės centru buvo padaryti Varniai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vyskupystės centru buvo padaryti Varniai. Vys-
+    Tie pasiuntiniai tris mė-
+    nesius dirbo Žemaičiuose ir įšventino pirmąjį Žemaičių vyskupą
+    Motiejų. Vyskupystės centru buvo padaryti Varniai.
+    Vys-
     kupystė buvo vadinama Žemaičių, arba Medininkų, nes Varniai
     buvo Medininkais vadinamoje Žemaičių srityje. Vytautas ten
     pastatė katedrą, o visam krašte — 8 parapijines bažnyčias (Vi-
     duklėje, Luokėje, Kaltinėnuose, Kelmėje, Raseiniuose, Arioga-
     loje, Kražiuose ir Veliuonoje).
-  citata_rodoma: |
-    Vyskupystės centru buvo padaryti Varniai. Vyskupystė buvo vadinama Žemaičių, arba Medininkų, nes Varniai buvo Medininkais vadinamoje Žemaičių srityje. Vytautas ten pastatė katedrą, o visam krašte — 8 parapijines bažnyčias (Viduklėje, Luokėje, Kaltinėnuose, Kelmėje, Raseiniuose, Ariogaloje, Kražiuose ir Veliuonoje).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-002
+  santrauka: 'Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve, Alūkstoje, Daugpily, Jelgavoj ir kitur.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
+    Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
+    Alūkstoje, Daugpily, Jelgavoj ir kitur.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

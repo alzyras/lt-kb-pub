@@ -1,71 +1,39 @@
 ---
 tipas: vieta
-pavadinimas: "Žiemgala"
-sukurta: "2026-04-18"
-variantai: 
-  - "Žiemgalą"
-aliases: 
-  - "Žiemgala"
-  - "Žiemgalą"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Žiemgala'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
 ---
 # Žiemgala
 
 ## Santrauka
-Šaltinyje vieta „Žiemgala“ siejama su šiuo kontekstu: Minima kaip Gedimino ir ordino ginčijama sritis. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Žiemgala
-- Šaltinyje fiksuotos formos: Žiemgalą
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: istorinis kraštas
-
-## Geografinis ir istorinis kontekstas
-- Minima kaip Gedimino ir ordino ginčijama sritis. (t-001)
+Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam nepasisekė visiškai nugalėti ordino.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Žiemgala“ siejama su šiuo kontekstu: Minima kaip Gedimino ir ordino ginčijama sritis."
+  teiginys: 'Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam nepasisekė visiškai nugalėti ordino.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minima kaip Gedimino ir ordino ginčijama sritis.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam nepasisekė visiškai nugalėti ordino.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą.
-    Po Durbės mūšio žiemgaliai buvo atsimetę nuo ordino ir prisidėję
-    prie Lietuvos. Ir Vytenio laikais dar nebuvo aišku, kam galu-
-    tinai atiteks Žiemgala. Bet Gedimino laikais ordinas ten jau ga-
-    lutinai įsitvirtino.
-  citata_rodoma: |
-    Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės mūšio žiemgaliai buvo atsimetę nuo ordino ir prisidėję prie Lietuvos. Ir Vytenio laikais dar nebuvo aišku, kam galutinai atiteks Žiemgala. Bet Gedimino laikais ordinas ten jau galutinai įsitvirtino.
+    Jam buvo pa-
+    sisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne-
+    pasisekė visiškai nugalėti ordino.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

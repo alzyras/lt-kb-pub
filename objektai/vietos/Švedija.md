@@ -1,97 +1,106 @@
 ---
 tipas: vieta
-pavadinimas: "Švedija"
-sukurta: "2026-04-18"
-variantai: 
-  - "Švediją"
-aliases: 
-  - "Švedija"
-  - "Švediją"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1575 m."
-datos: 
-  - "1575 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XVI"
-date_start: "1575"
-date_end: "1575"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Švedija'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - upė
+  - vieta
 ---
 # Švedija
 
 ## Santrauka
-Šaltinyje vieta „Švedija“ siejama su šiais kontekstais: Šalis minima kaip vieta, į kurią per karus išvežta Lietuvos istorijos medžiagos; Švedija minima kaip viena iš valstybių, turėjusių dalį Livonijos. (t-001, t-002)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Švedija
-- Šaltinyje fiksuotos formos: Švediją
-
-## Laikotarpis ir datos
-- laikotarpis: 1575 m.
-- datos: 1575 m.
-- amziai: XVI
-- date_start/date_end: 1575 / 1575
-
-## Kas tai
-- tipas: valstybė / šalis
-
-## Geografinis ir istorinis kontekstas
-- Šalis minima kaip vieta, į kurią per karus išvežta Lietuvos istorijos medžiagos. (t-001)
-- Švedija minima kaip viena iš valstybių, turėjusių dalį Livonijos. (t-002)
+Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuva su Lenkija, kitą — Švedija, trečią — Danija, o ketvirtą buvo užgrobęs caras. Livonija nuo Maskvos buvo apginta, bet netrukus dėl jos prasidėjo net 60 metų trukę karai su Švedija. Tėvui mirus, 1593 m. jis nuvyko į Švediją ir karūnavosi jos karalium. Išgyvenęs ten metus, jis grįžo į Krokuvą, o savo valdžią Švedijoj paliko dėdei, Sudermanlandijos kunigaikščiui Karoliui.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Švedija“ siejama su šiuo kontekstu: Šalis minima kaip vieta, į kurią per karus išvežta Lietuvos istorijos medžiagos."
+  teiginys: 'Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuva su Lenkija, kitą — Švedija, trečią — Danija, o ketvirtą buvo užgrobęs caras.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Švedija“ siejama su šiuo kontekstu: Švedija minima kaip viena iš valstybių, turėjusių dalį Livonijos."
+  teiginys: 'Livonija nuo Maskvos buvo apginta, bet netrukus dėl jos prasidėjo net 60 metų trukę karai su Švedija.'
   pagrindžia:
     - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Tėvui mirus, 1593 m. jis nuvyko į Švediją ir karūnavosi jos karalium. Išgyvenęs ten metus, jis grįžo į Krokuvą, o savo valdžią Švedijoj paliko dėdei, Sudermanlandijos kunigaikščiui Karoliui.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Zigmanto Vazos laikais, šiam pradėjus karą dėl Švedijos sosto, Livonija buvo prarasta: ji net iki Dauguvos upės atiteko Švedijai (žiūr.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Šalis minima kaip vieta, į kurią per karus išvežta Lietuvos istorijos medžiagos.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata_originali: |
-    Pav., dalis jos per karus buvo išvežta į Švediją; Rusija
-    daug jos išvežė, užėmusi Lietuvą; unijos laikais nemaža jos pa-
-    teko į Lenkiją, o vėlesniais laikais daug medžiagos ten išvežė
-    sulenkėję mūsų dvarininkai. Pagaliau tų pačių dvarininkų ne-
-    maža jos išvežta į Prancūziją, Italiją ir Vokietiją.
-  citata_rodoma: |
-    Pav., dalis jos per karus buvo išvežta į Švediją; Rusija daug jos išvežė, užėmusi Lietuvą; unijos laikais nemaža jos pateko į Lenkiją, o vėlesniais laikais daug medžiagos ten išvežė sulenkėję mūsų dvarininkai. Pagaliau tų pačių dvarininkų nemaža jos išvežta į Prancūziją, Italiją ir Vokietiją.
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Švedija minima kaip viena iš valstybių, turėjusių dalį Livonijos.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuva su Lenkija, kitą — Švedija, trečią — Danija, o ketvirtą buvo užgrobęs caras.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį
     valdė Lietuva su Lenkija, kitą — Švedija, trečią — Danija, o
     ketvirtą buvo užgrobęs caras.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Livonija nuo Maskvos buvo apginta, bet netrukus dėl jos prasidėjo net 60 metų trukę karai su Švedija.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Šitomis paliaubomis pasibaigė
+    ilgai traukęsi karai su Maskva dėl Livonijos. Livonija nuo
+    Maskvos buvo apginta, bet netrukus dėl jos prasidėjo net 60
+    metų trukę karai su Švedija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Tėvui mirus, 1593 m. jis nuvyko į Švediją ir karūnavosi jos karalium. Išgyvenęs ten metus, jis grįžo į Krokuvą, o savo valdžią Švedijoj paliko dėdei, Sudermanlandijos kunigaikščiui Karoliui.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tėvui mirus, 1593 m. jis
+    nuvyko į Švediją ir karūnavosi jos karalium. Išgyvenęs ten
+    metus, jis grįžo į Krokuvą, o savo valdžią Švedijoj paliko dėdei,
+    Sudermanlandijos kunigaikščiui Karoliui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Zigmanto Vazos laikais, šiam pradėjus karą dėl Švedijos sosto, Livonija buvo prarasta: ji net iki Dauguvos upės atiteko Švedijai (žiūr.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Zigmanto Vazos laikais, šiam pradėjus karą dėl Švedijos sosto, Livonija
+    buvo prarasta: ji net iki Dauguvos upės atiteko Švedijai (žiūr.
+    304, 328 psl.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/upė]]
+
+### Susiję objektai
+- [[objektai/ivykiai/1582 m. sausio 15 d. 10 metų karo paliaubos su Maskva]]
+- [[objektai/vietos/Danija]]
+- [[objektai/vietos/Dauguva]]
+- [[objektai/asmenys/Zigmantas Vaza]]

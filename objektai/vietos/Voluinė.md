@@ -1,96 +1,143 @@
 ---
 tipas: vieta
-pavadinimas: "Voluinė"
-sukurta: "2026-04-18"
-variantai: 
-  - "Voluinės"
-  - "Voluinės kunigaikštystė"
-  - "Voluine"
-aliases: 
-  - "Voluinė"
-  - "Voluinės"
-  - "Voluinės kunigaikštystė"
-  - "Voluine"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "Kazimiero laikai"
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Voluinė'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - privilegija
+  - vieta
 ---
 # Voluinė
 
 ## Santrauka
-Šaltinyje vieta „Voluinė“ siejama su šiais kontekstais: Minima kaip viena iš pagrindinių Mindaugo laikotarpio kaimyninių politinių teritorijų; Voluinė minima kaip teritorija, dėl kurios Lietuva konfliktavo su Lenkija. (t-001, t-002)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Voluinė
-- Šaltinyje fiksuotos formos: Voluinės; Voluinės kunigaikštystė; Voluine
-
-## Laikotarpis ir datos
-- laikotarpis: Kazimiero laikai
-
-## Kas tai
-- tipas: istorinis kraštas / regionas; kunigaikštystė / kraštas
-
-## Geografinis ir istorinis kontekstas
-- Minima kaip viena iš pagrindinių Mindaugo laikotarpio kaimyninių politinių teritorijų. (t-001)
-- Voluinė minima kaip teritorija, dėl kurios Lietuva konfliktavo su Lenkija. (t-002)
+Kadangi tuo metu tarp Lietuvos ir Lenkijos dar tebeėjo ginčas dėl Podolės ir Voluinės, tai lietuviai į šitą privilegiją įrašė punktą, kuriuo Kazimieras pasižadėjo išlaikyti Lietuvą tose pačiose ribose, kokias ji turėjo Vytauto laikais. Visą tą laiką ginčijamoji Voluinė buvo valdoma Švitrigailos, o Podolė buvo valdoma Lenkų. Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Voluinė“ siejama su šiuo kontekstu: Minima kaip viena iš pagrindinių Mindaugo laikotarpio kaimyninių politinių teritorijų."
+  teiginys: 'Kadangi tuo metu tarp Lietuvos ir Lenkijos dar tebeėjo ginčas dėl Podolės ir Voluinės, tai lietuviai į šitą privilegiją įrašė punktą, kuriuo Kazimieras pasižadėjo išlaikyti Lietuvą tose pačiose ribose, kokias ji turėjo Vytauto laikais.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Voluinė“ siejama su šiuo kontekstu: Voluinė minima kaip teritorija, dėl kurios Lietuva konfliktavo su Lenkija."
+  teiginys: 'Visą tą laiką ginčijamoji Voluinė buvo valdoma Švitrigailos, o Podolė buvo valdoma Lenkų.'
   pagrindžia:
     - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Bet šitas jų žingsnis nepasibaigė geruoju: jiems išvažiavus, lenkai išreikalavo iš karaliaus raštų, kuriais Palenkė, Voluinė, Braclavo ir Kijevo žemės buvo prijungiamos prie Lenkijos.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Netrukus Zigmantui pasidavė Polockas, Smolenskas, Vitebskas ir Naugardas Sieverskas; Švitrigailai liko tik pietinės sritys — Kijevas ir Voluinė su Lucku.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minima kaip viena iš pagrindinių Mindaugo laikotarpio kaimyninių politinių teritorijų.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Kadangi tuo metu tarp Lietuvos ir Lenkijos dar tebeėjo ginčas dėl Podolės ir Voluinės, tai lietuviai į šitą privilegiją įrašė punktą, kuriuo Kazimieras pasižadėjo išlaikyti Lietuvą tose pačiose ribose, kokias ji turėjo Vytauto laikais.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kuriantis valstybei, iš
-    kaimynų lietuviams pavojingiausi buvo Voluinės kunigaikštystė
-    ir kalavijuočių ordinas.
-  citata_rodoma: ""
+    1447 m. privilegija. Kadangi tuo metu tarp Lietuvos ir Len-
+    kijos dar tebeėjo ginčas dėl Podolės ir Voluinės, tai lietuviai
+    į šitą privilegiją įrašė punktą, kuriuo Kazimieras pasižadėjo iš-
+    laikyti Lietuvą tose pačiose ribose, kokias ji turėjo Vytauto lai-
+    kais. Tai reiškė, kad Podolė su Voluine turi likti Lietuvai.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Voluinė minima kaip teritorija, dėl kurios Lietuva konfliktavo su Lenkija.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Visą tą laiką ginčijamoji Voluinė buvo valdoma Švitrigailos, o Podolė buvo valdoma Lenkų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kazimierui persikėlus
-    į Lenkiją ir pradėjus vesti savarankišką politiką, jis perėjo į opo-
-    ziciją ir vadovavo Lietuvai kovojant su Lenkija dėl Voluinės
-    ir Podolės (žiūr. 181 psl.). Goštautų šeimos reikšmė nesuma-
-    žėjo nė po Jono Goštauto mirties. Tačiau Zigmanto II laikais
-  citata_rodoma: |
-    Kazimierui persikėlus į Lenkiją ir pradėjus vesti savarankišką politiką, jis perėjo į opoziciją ir vadovavo Lietuvai kovojant su Lenkija dėl Voluinės ir Podolės (žiūr. 181 psl.). Goštautų šeimos reikšmė nesumažėjo nė po Jono Goštauto mirties. Tačiau Zigmanto II laikais
+    Visą tą laiką ginčijamoji Voluinė buvo valdoma Švitrigailos,
+    o Podolė buvo valdoma Lenkų. Švitrigaila mirdamas (1452 m.)
+    testamentu Voluinę paliko Lietuvai, tačiau lenkai ne tik neketino
+    atiduoti Lietuvai Podolės, bet dar ruošėsi ginklu užgrobti ir Vo-
+    luinę.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    **Lietuvos valstybės teritorija**
+    po unijos buvo labai sumažė-
+    jusi, nes didžiuliai Palenkės, Vo-
+    luinės, Braclavo ir Kijevo žemių
+    plotai atiteko Lenkijai. Lietuviai
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Radvilų šeimos buvo dvi šakos. Vienos centras buvo Biržai
+    ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Bet šitas jų žingsnis nepasibaigė geruoju: jiems išvažiavus, lenkai išreikalavo iš karaliaus raštų, kuriais Palenkė, Voluinė, Braclavo ir Kijevo žemės buvo prijungiamos prie Lenkijos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet šitas jų žingsnis nepasibaigė geruoju: jiems išvažiavus, lenkai išreikalavo iš karaliaus raštų, kuriais Palenkė, Voluinė, Braclavo ir Kijevo žemės buvo prijungiamos prie Lenkijos
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Netrukus Zigmantui pasidavė Polockas, Smolenskas, Vitebskas ir Naugardas Sieverskas; Švitrigailai liko tik pietinės sritys — Kijevas ir Voluinė su Lucku.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Netrukus Zigmantui pasidavė Polockas, Smolenskas, Vitebskas ir
+    Naugardas Sieverskas; Švitrigailai liko tik pietinės sritys — Ki-
+    jevas ir Voluinė su Lucku.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/privilegija]]
+
+### Susiję objektai
+- [[objektai/vietos/Braclavas]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Luckas]]
+- [[objektai/vietos/Podolė]]

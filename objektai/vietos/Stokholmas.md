@@ -1,97 +1,45 @@
 ---
 tipas: vieta
-pavadinimas: "Stokholmas"
-sukurta: "2026-04-18"
-variantai: 
-  - "Stokholmo"
-  - "Stokholme"
-aliases: 
-  - "Stokholmas"
-  - "Stokholmo"
-  - "Stokholme"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1932 m."
-datos: 
-  - "1932 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XX"
-date_start: "1932"
-date_end: "1932"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Stokholmas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
 ---
 # Stokholmas
 
 ## Santrauka
-Šaltinyje vieta „Stokholmas“ siejama su šiais kontekstais: Miestas minimas kaip geografinis orientyras prie Birkos; Minimas kaip parodos vieta, kur rodytos Švedijos karo relikvijos. (t-001, t-002)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Stokholmas
-- Šaltinyje fiksuotos formos: Stokholmo; Stokholme
-
-## Laikotarpis ir datos
-- laikotarpis: 1932 m.
-- datos: 1932 m.
-- amziai: XX
-- date_start/date_end: 1932 / 1932
-
-## Kas tai
-- tipas: miestas
-
-## Geografinis ir istorinis kontekstas
-- Miestas minimas kaip geografinis orientyras prie Birkos. (t-001)
-- Minimas kaip parodos vieta, kur rodytos Švedijos karo relikvijos. (t-002)
+Rusai iš Vilniaus į Maskvą išvežė net brangius ponų rūmų baldus, o švedai vežėsi į Stokholmą net akademijos biblioteką ir daugybę kitų kultūros turtų.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Stokholmas“ siejama su šiuo kontekstu: Miestas minimas kaip geografinis orientyras prie Birkos."
+  teiginys: 'Rusai iš Vilniaus į Maskvą išvežė net brangius ponų rūmų baldus, o švedai vežėsi į Stokholmą net akademijos biblioteką ir daugybę kitų kultūros turtų.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
-- t-002
-  teiginys: "Šaltinyje vieta „Stokholmas“ siejama su šiuo kontekstu: Minimas kaip parodos vieta, kur rodytos Švedijos karo relikvijos."
-  pagrindžia:
-    - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Miestas minimas kaip geografinis orientyras prie Birkos.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Rusai iš Vilniaus į Maskvą išvežė net brangius ponų rūmų baldus, o švedai vežėsi į Stokholmą net akademijos biblioteką ir daugybę kitų kultūros turtų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Netoli Stokholmo esąs Birkos mies-
-    tas tada buvo didžiausias prekybos centras, su kuriuo prekiavo
-    visos aisčių giminės.
-  citata_rodoma: |
-    Netoli Stokholmo esąs Birkos miestas tada buvo didžiausias prekybos centras, su kuriuo prekiavo visos aisčių giminės.
+    Rusai iš Vilniaus į
+    Maskvą išvežė net brangius ponų rūmų baldus, o švedai vežėsi
+    į Stokholmą net akademijos biblioteką ir daugybę kitų kultū-
+    ros turtų.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-002
-  santrauka: Minimas kaip parodos vieta, kur rodytos Švedijos karo relikvijos.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata_originali: |
-    Gustavo Adolfo parodoje Stokholme 1932 m. Pirmoji (gražiausioji) yra
-    nulieta Nesvyžiaus Radvilų liejykloje 1602 m. Ant jos yra Radvilų herbas
-    ir atitinkamas užrašas. Švedai išvežė ją iš Biržų 1625 m.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/daiktai/Akademijos biblioteka]]
+- [[objektai/daiktai/Ponų rūmų baldai]]

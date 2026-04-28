@@ -1,71 +1,65 @@
 ---
 tipas: posakis
-pavadinimas: "Visa Rusija turi priklausyti Lietuvai"
-sukurta: "2026-04-18"
-variantai: 
-  - "Visa Rusija turi priklausyti Lietuvai"
-aliases: 
-  - "Visa Rusija turi priklausyti Lietuvai"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: 
-  - "formulė"
-laikotarpis: ""
+pavadinimas: 'Visa Rusija turi priklausyti Lietuvai'
+sukurta: '2026-04-24'
+variantai:
+  - '„daugelio rusų" valdovu'
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+laikotarpis: ''
 datos: []
-periodas: ""
+periodas: ''
 periodo_grupes: []
 amziai: []
-date_start: ""
-date_end: ""
+date_start: ''
+date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: 'aukštas'
+tags:
+  - posakis
+  - valdovas
 ---
 # Visa Rusija turi priklausyti Lietuvai
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Visa Rusija turi priklausyti Lietuvai“; kontekstas: Algirdo pasakyta lakoniška politinė formuluotė apie Lietuvos valdžios siekį rusų žemėse; toje pačioje pastraipoje minimas ir Gedimino titulavimasis „daugelio rusų" valdovu. Reikšmė: Politinė tezė apie Lietuvos pretenziją į Rusijos žemes. (t-001)
+
+Ši formuluotė pateikiama kaip Algirdo politinė pretenzijos formulė.
 
 ## Forma
-- pagrindinė forma: Visa Rusija turi priklausyti Lietuvai (t-001)
+
+- Pagrindinė forma: Visa Rusija turi priklausyti Lietuvai
 
 ## Variantai
-- Visa Rusija turi priklausyti Lietuvai
 
-## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
-
-## Kontekstas ir vartojimas
-Algirdo pasakyta lakoniška politinė formuluotė apie Lietuvos valdžios siekį rusų žemėse; toje pačioje pastraipoje minimas ir Gedimino titulavimasis „daugelio rusų" valdovu. (t-001)
-
-## Reikšmė
-Politinė tezė apie Lietuvos pretenziją į Rusijos žemes. (t-001)
+- „daugelio rusų" valdovu
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Visa Rusija turi priklausyti Lietuvai“; kontekstas: Algirdo pasakyta lakoniška politinė formuluotė apie Lietuvos valdžios siekį rusų žemėse; toje pačioje pastraipoje minimas ir Gedimino titulavimasis „daugelio rusų\" valdovu."
+  teiginys: 'Formuluotė šiame pasakojime pateikiama kaip Algirdo politinė pretenzijos formulė.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: Algirdo politinė pretenzijos formulė
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Gediminas laikė save „daugelio rusų" valdovu, o Algirdas
     pareiškė: „Visa Rusija turi priklausyti Lietu-
-    vai". Algirdas, kurio valdomosios sritys buvo Lietuvos rytuose,
-  citata_rodoma: |
-    Gediminas laikė save „daugelio rusų" valdovu, o Algirdas pareiškė: „Visa Rusija turi priklausyti Lietuvai". Algirdas, kurio valdomosios sritys buvo Lietuvos rytuose,
+    vai".
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia formuluotės buvimą ir jos vartojimo kontekstą šaltinyje."
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/valdovas]]

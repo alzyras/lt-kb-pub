@@ -1,72 +1,53 @@
 ---
 tipas: asmuo
-pavadinimas: "Liudvikas"
-sukurta: "2026-04-18"
-variantai: 
-  - "Liudviko"
-  - "Liudvikui"
-aliases: 
-  - "Liudvikas"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1382 m."
-datos: 
-  - "1382 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XIV"
-date_start: "1382"
-date_end: "1382"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Liudvikas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Liudvikas
 
 ## Santrauka
-Šaltinyje Liudvikas apibūdinamas taip: Vengrijos karalius, kuriam po Kazimiero mirties atiteko Lenkijos sostas.
 
-## Variantai
-- Liudviko
-- Liudvikui
-
-## Laikotarpis ir datos
-- laikotarpis: 1382 m.
-- datos: 1382 m.
-- periodas:
-- periodo_grupes:
-- amziai: XIV
-- date_start: 1382
-- date_end: 1382
+Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos karaliui Liudvikui (iš d'Anjou giminės). Liudvikas mirė (1382 m.), taip pat nepalikęs sūnų.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Liudvikas apibūdinamas taip: Vengrijos karalius, kuriam po Kazimiero mirties atiteko Lenkijos sostas."
+  teiginys: 'Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos karaliui Liudvikui (iš d''Anjou giminės).'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Liudvikas mirė (1382 m.), taip pat nepalikęs sūnų.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Vengrijos karalius, kuriam po Kazimiero mirties atiteko Lenkijos sostas.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos karaliui Liudvikui (iš d''Anjou giminės).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kazimieras
-    mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos
-    karaliui Liudvikui (iš _d'Anjou_ giminės).
-  citata_rodoma: |
-    Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos karaliui Liudvikui (iš d'Anjou giminės).
+    Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos karaliui Liudvikui (iš _d'Anjou_ giminės).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-002
+  santrauka: 'Liudvikas mirė (1382 m.), taip pat nepalikęs sūnų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Liudvikas mirė (1382 m.), taip pat nepalikęs sūnų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

@@ -1,68 +1,37 @@
 ---
 tipas: saltinis
-pavadinimas: "Werdegang des Litauischen Staates"
-sukurta: "2026-04-20"
-variantai: 
-  - "pirminė bibliografinė forma"
-aliases: 
-  - "Werdegang des Litauischen Staates"
-  - "pirminė bibliografinė forma"
+pavadinimas: 'Werdegang des Litauischen Staates'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: 
-  - "knyga"
-laikotarpis: "1918; yra ir prancūzų kalba"
-datos: 
-  - "1918; yra ir prancūzų kalba"
-periodas: "naujieji_laikai"
-periodo_grupes: []
-amziai: 
-  - "XX"
-date_start: "1918"
-date_end: "1918"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - saltinis
 ---
 # Werdegang des Litauischen Staates
 
-## Bibliografiniai duomenys
+## Santrauka
 
-- Pavadinimas: Werdegang des Litauischen Staates.
-- Formos šaltinyje: pirminė bibliografinė forma.
-- Data / laikotarpis: 1918; yra ir prancūzų kalba.
-- Šaltinio rūšis: mokslinis veikalas.
-
-## Turinys ir apimtis
-
-Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Werdegang des Litauischen Staates“ pateikiamas kaip bibliografinis arba turinio sąrašo paminėjimas.
-
-## Ryšiai
-
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+Werdegang des Litauischen Staates (1918; yra ir prancūzų kalba);.
 
 ## Teiginiai
-
 - t-001
-  teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Werdegang des Litauischen Staates“ pateikiamas kaip bibliografinis arba turinio sąrašo paminėjimas."
+  teiginys: 'Werdegang des Litauischen Staates (1918; yra ir prancūzų kalba);.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
-## Bibliografiniai įrodymai
-
+## Reikšmingi paminėjimai
 - c-001
-  santrauka: Šaltinis šioje bibliografinėje apžvalgoje minimas skyriaus „XXX. Vokiečių okupacija ir valstybės atstatymas“ sąraše.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Werdegang des Litauischen Staates (1918; yra ir prancūzų kalba);.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-      — Werdegang des Litauischen
-    Staates (1918; yra ir prancūzų kalba)
-  citata_rodoma: ""
+    — Werdegang des Litauischen Staates (1918; yra ir prancūzų kalba);
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pateikia šaltinio pavadinimą, bibliografinį įrašą arba aprašomą kontekstą."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001

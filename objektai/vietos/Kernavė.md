@@ -1,76 +1,41 @@
 ---
 tipas: vieta
-pavadinimas: "Kernavė"
-sukurta: "2026-04-18"
-variantai: 
-  - "Kernavės"
-aliases: 
-  - "Kernavė"
-  - "Kernavės"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Kernavė'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'žemas'
+tags:
+  - vieta
 ---
 # Kernavė
 
 ## Santrauka
-Šaltinyje vieta „Kernavė“ siejama su šiuo kontekstu: Minima kaip Traidenio valdžios centras. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Kernavė
-- Šaltinyje fiksuotos formos: Kernavės
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: kunigaikštystės centras / piliakalnis
-
-## Geografinis ir istorinis kontekstas
-- Minima kaip Traidenio valdžios centras. (t-001)
+kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Kernavė“ siejama su šiuo kontekstu: Minima kaip Traidenio valdžios centras."
+  teiginys: 'kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minima kaip Traidenio valdžios centras.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    **Švarnas** Lietuvą valdė labai neilgai: vos vienerius metus
-    pavaldęs, jis mirė (1269 m.). Lietuva liko be dinastijos, ir nauja
-    dinastija turėjo iškilti iš savų kunigaikščių tarpo. Pirmasis iškilo
-    Kernavės kunigaikštis Traidenis.
-    
-    **10. Traidenis** (1270-1282 m.)
-    
-    Ar turėjo Traidenis kokių giminystės ryšių su anksčiau
-    veikusiais kunigaikščiais ir su Mindaugu, nėr žinios. Žinome
-    tik, kad Lietuvą jis valdė iš Kernavės.
-  citata_rodoma: |
-    Švarnas Lietuvą valdė labai neilgai: vos vienerius metus pavaldęs, jis mirė (1269 m.). Lietuva liko be dinastijos, ir nauja dinastija turėjo iškilti iš savų kunigaikščių tarpo. Pirmasis iškilo Kernavės kunigaikštis Traidenis. 10. Traidenis (1270-1282 m.) Ar turėjo Traidenis kokių giminystės ryšių su anksčiau veikusiais kunigaikščiais ir su Mindaugu, nėr žinios. Žinome tik, kad Lietuvą jis valdė iš Kernavės.
+    kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: žemas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/vietos/Aukštaitija]]

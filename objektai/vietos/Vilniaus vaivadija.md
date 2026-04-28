@@ -1,76 +1,47 @@
 ---
 tipas: vieta
-pavadinimas: "Vilniaus vaivadija"
-sukurta: "2026-04-18"
-variantai: 
-  - "Vilniaus vaivadijos"
-  - "Vilniaus vaivadijų"
-aliases: 
-  - "Vilniaus vaivadija"
-  - "Vilniaus vaivadijos"
-  - "Vilniaus vaivadijų"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1793 m."
-datos: 
-  - "1793 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XVIII"
-date_start: "1793"
-date_end: "1793"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Vilniaus vaivadija'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - pilis
+  - vieta
 ---
 # Vilniaus vaivadija
 
 ## Santrauka
-Šaltinyje vieta „Vilniaus vaivadija“ siejama su šiuo kontekstu: Minima kaip viena iš Rusijai 1793 m. turėjusių atitekti didžiosios Lietuvos kunigaikštijos vaivadijų. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Vilniaus vaivadija
-- Šaltinyje fiksuotos formos: Vilniaus vaivadijos; Vilniaus vaivadijų
-
-## Laikotarpis ir datos
-- laikotarpis: 1793 m.
-- datos: 1793 m.
-- amziai: XVIII
-- date_start/date_end: 1793 / 1793
-
-## Kas tai
-- tipas: vaivadija / teritorija
-
-## Geografinis ir istorinis kontekstas
-- Minima kaip viena iš Rusijai 1793 m. turėjusių atitekti didžiosios Lietuvos kunigaikštijos vaivadijų. (t-001)
+Krašto padalinimas į pavietus ir vaivadijas.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Vilniaus vaivadija“ siejama su šiuo kontekstu: Minima kaip viena iš Rusijai 1793 m. turėjusių atitekti didžiosios Lietuvos kunigaikštijos vaivadijų."
+  teiginys: 'Krašto padalinimas į pavietus ir vaivadijas.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minima kaip viena iš Rusijai 1793 m. turėjusių atitekti didžiosios Lietuvos kunigaikštijos vaivadijų.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Krašto padalinimas į pavietus ir vaivadijas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Rusijai pagal sutartį turėjo atitekti Lenkijos Ukraina, o didžiosios Lie-
-    tuvos kunigaikštijos visa Minsko vaivadija ir dalis Vilniaus,
-    Naugarduko ir Brastos vaivadijų.
-  citata_rodoma: |
-    Rusijai pagal sutartį turėjo atitekti Lenkijos Ukraina, o didžiosios Lietuvos kunigaikštijos visa Minsko vaivadija ir dalis Vilniaus, Naugarduko ir Brastos vaivadijų.
+    Krašto padalinimas į pavietus ir vaivadijas. Visas kraš-
+    tas jau anksčiau buvo padalintas į vaivadijas, ir didelių sričių,
+    buvusiųjų kunigaikštysčių, vietininkai jau buvo gavę vaivadų
+    vardą dar XVI amž. pradžioje. Įvedant naujuosius teismus,
+    buvo sudaryti teisminiai pavietai. Kai kurie iš jų sutapo su
+    vaivadijomis, bet iš kai kurių didelių vaivadijų buvo išskirti
+    net keli pavietai; pav., iš Vilniaus vaivadijos buvo išskirta
+    Ašmenos, Lydos, Ukmergės ir Breslaujos, o iš Trakų vaiva-
+    dijos — Gardino, Kauno ir Upytės pavietai. Pilies teismai
+    pavietuose priklausė seniūnams, o vaivadijose — vaivadoms.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

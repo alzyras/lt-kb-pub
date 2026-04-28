@@ -1,68 +1,50 @@
 ---
 tipas: asmuo
-pavadinimas: "Ditrichas von Altenburgas"
-sukurta: "2026-04-18"
-variantai: 
-  - "Ditrichui von Altenburgui"
-aliases: 
-  - "Ditrichas von Altenburgas"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1337 m."
-datos: 
-  - "1337 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XIV"
-date_start: "1337"
-date_end: "1337"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Ditrichas von Altenburgas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
+  - dokumentas
 ---
 # Ditrichas von Altenburgas
 
 ## Santrauka
-Šaltinyje Ditrichas von Altenburgas apibūdinamas taip: Imperatorius, kurio vardu pavadinta ordino magistrui dovanotos Lietuvos scena.
 
-## Variantai
-- Ditrichui von Altenburgui
-
-## Laikotarpis ir datos
-- laikotarpis: 1337 m.
-- datos: 1337 m.
-- periodas:
-- periodo_grupes:
-- amziai: XIV
-- date_start: 1337
-- date_end: 1337
+Imperatorius Liudvikas IV Bavarietis 1337 m. dovanoja ordino magistrui Ditrichui von Altenburgui Lietuvą.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Ditrichas von Altenburgas apibūdinamas taip: Imperatorius, kurio vardu pavadinta ordino magistrui dovanotos Lietuvos scena."
+  teiginys: 'Imperatorius Liudvikas IV Bavarietis 1337 m. dovanoja ordino magistrui Ditrichui von Altenburgui Lietuvą.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Imperatorius, kurio vardu pavadinta ordino magistrui dovanotos Lietuvos scena.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Imperatorius Liudvikas IV Bavarietis 1337 m. dovanoja ordino magistrui Ditrichui von Altenburgui Lietuvą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Imperatorius Liudvikas IV Bavarietis 1337 m. dovanoja ordino magistrui
-    Ditrichui von Altenburgui Lietuvą.
-  citata_rodoma: ""
+    **Imperatorius Liudvikas IV Bavarietis 1337 m. dovanoja ordino magistrui
+      Ditrichui von Altenburgui Lietuvą.**
+      Šitaip yra papuošta pirmoji dovanojamojo dokumento raidė _L_. Čia stovįs
+      imperatorius ir klūpąs magistras sudaro raidę _L_ ; toliau čia pat dar matyti:
+      _udo[vicus]._
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/dokumentas]]
+- [[temos/papuošalas]]
+
+### Susiję objektai
+- [[objektai/asmenys/Liudvikas IV Bavarietis]]

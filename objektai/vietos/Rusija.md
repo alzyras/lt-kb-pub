@@ -1,125 +1,105 @@
 ---
 tipas: vieta
-pavadinimas: "Rusija"
-sukurta: "2026-04-18"
-variantai: 
-  - "Rusijos"
-  - "Rusiją"
-  - "Rusijai"
-aliases: 
-  - "Rusija"
-  - "Rusijos"
-  - "Rusiją"
-  - "Rusijai"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1772 m."
-datos: 
-  - "1772 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XVIII"
-date_start: "1772"
-date_end: "1772"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Rusija'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - miestas
+  - sutartis
+  - vieta
 ---
 # Rusija
 
 ## Santrauka
-Šaltinyje vieta „Rusija“ siejama su šiais kontekstais: Šalis minima kaip Lietuvos istorijos medžiagos išvežimo ir archyvų saugojimo vieta; Minima kaip vieta, į kurią buvo vežami nuo karo ir bado bėgę žmonės, o vėliau kaip Rusijos valstybė Europos politikos kontekste. (t-001, t-002)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Rusija
-- Šaltinyje fiksuotos formos: Rusijos; Rusiją; Rusijai
-
-## Laikotarpis ir datos
-- laikotarpis: 1772 m.
-- datos: 1772 m.
-- amziai: XVIII
-- date_start/date_end: 1772 / 1772
-
-## Kas tai
-- tipas: valstybė / šalis; valstybė / kraštas
-
-## Geografinis ir istorinis kontekstas
-- Šalis minima kaip Lietuvos istorijos medžiagos išvežimo ir archyvų saugojimo vieta. (t-001)
-- Minima kaip vieta, į kurią buvo vežami nuo karo ir bado bėgę žmonės, o vėliau kaip Rusijos valstybė Europos politikos kontekste. (t-002)
-- Minima kaip valstybė, kuri užėmė dalį Lietuvos padalijimo metu. (t-003)
+Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija taip pat įžengė į pirmaeilių Europos galybių tarpą. Kotryna II taip pat kvietė į Rusiją išgarsėjusius rašytojus ir pati rašė. Tarp Rusijos ir Prūsijos buvo atnaujinta jau daug kartų daryta sutartis, kuria abi valstybės pasižadėjo remti Poniatausko kandidatūrą ir žiūrėti, kad Respublikoje nebūtų padaryta jokių reformų.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Rusija“ siejama su šiuo kontekstu: Šalis minima kaip Lietuvos istorijos medžiagos išvežimo ir archyvų saugojimo vieta."
+  teiginys: 'Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija taip pat įžengė į pirmaeilių Europos galybių tarpą.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Rusija“ siejama su šiuo kontekstu: Minima kaip vieta, į kurią buvo vežami nuo karo ir bado bėgę žmonės, o vėliau kaip Rusijos valstybė Europos politikos kontekste."
+  teiginys: 'Kotryna II taip pat kvietė į Rusiją išgarsėjusius rašytojus ir pati rašė.'
   pagrindžia:
     - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 - t-003
-  teiginys: "Šaltinyje vieta „Rusija“ siejama su šiuo kontekstu: Minima kaip valstybė, kuri užėmė dalį Lietuvos padalijimo metu."
+  teiginys: 'Tarp Rusijos ir Prūsijos buvo atnaujinta jau daug kartų daryta sutartis, kuria abi valstybės pasižadėjo remti Poniatausko kandidatūrą ir žiūrėti, kad Respublikoje nebūtų padaryta jokių reformų.'
   pagrindžia:
     - c-003
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-004
+  teiginys: 'Rusija užėmė rytinę didžiosios Lietuvos kunigaikštijos dalį iki Dauguvos ir Dniepro.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Šalis minima kaip Lietuvos istorijos medžiagos išvežimo ir archyvų saugojimo vieta.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija taip pat įžengė į pirmaeilių Europos galybių tarpą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pav., dalis jos per karus buvo išvežta į Švediją; Rusija
-    daug jos išvežė, užėmusi Lietuvą; unijos laikais nemaža jos pa-
-    teko į Lenkiją, o vėlesniais laikais daug medžiagos ten išvežė
-    sulenkėję mūsų dvarininkai. Pagaliau tų pačių dvarininkų ne-
-    maža jos išvežta į Prancūziją, Italiją ir Vokietiją.
-  citata_rodoma: |
-    Pav., dalis jos per karus buvo išvežta į Švediją; Rusija daug jos išvežė, užėmusi Lietuvą; unijos laikais nemaža jos pateko į Lenkiją, o vėlesniais laikais daug medžiagos ten išvežė sulenkėję mūsų dvarininkai. Pagaliau tų pačių dvarininkų nemaža jos išvežta į Prancūziją, Italiją ir Vokietiją.
+    Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija
+    taip pat įžengė į pirmaeilių Europos galybių tarpą. Nuo Petro laikų su
+    ja jau buvo skaitomasi, jos jau nebeaplenkė, sprendžiant
+    kokį svarbesnį Europos politikos klausimą.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Minima kaip vieta, į kurią buvo vežami nuo karo ir bado bėgę žmonės, o vėliau kaip Rusijos valstybė Europos politikos kontekste.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Kotryna II taip pat kvietė į Rusiją išgarsėjusius rašytojus ir pati rašė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    išvežti net į Rusiją ar pakliuvo kur nors į kariuomenę. Kaimai
-    ir dvarai buvo sudeginti, ir daug kur po karo sodybų vietose
-    tebuvo tik krūmai.
-  citata_rodoma: ""
+    Kotryna II taip pat kvietė į Rusiją išgarsėjusius rašytojus ir pati
+    rašė. Prie jų dar prisidėjo Austrijos Juozapas II.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
 - c-003
-  santrauka: Minima kaip valstybė, kuri užėmė dalį Lietuvos padalijimo metu.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Tarp Rusijos ir Prūsijos buvo atnaujinta jau daug kartų daryta sutartis, kuria abi valstybės pasižadėjo remti Poniatausko kandidatūrą ir žiūrėti, kad Respublikoje nebūtų padaryta jokių reformų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tarp Ru-
+    sijos ir Prūsijos buvo atnaujinta jau daug kartų daryta sutartis,
+    kuria abi valstybės pasižadėjo remti Poniatausko kandidatūrą
+    ir žiūrėti, kad Respublikoje nebūtų padaryta jokių reformų. Taip
+    pat jos įsipareigojo priversti seimą, kad kitatikių, t. y. pravosla-
+    vų ir protestantų teisės būtų sulygintos su katalikų teisėmis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Rusija užėmė rytinę didžiosios Lietuvos kunigaikštijos dalį iki Dauguvos ir Dniepro.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Rusija užėmė rytinę didžiosios Lietuvos kunigaikštijos dalį
     iki Dauguvos ir Dniepro. Tuo būdu Rusijai teko Lat-
     gala, šiaurinė dalis Polocko vaivadijos su pačiu miestu, beveik
     visos Vitebsko ir Mstislaulio vaivadijos ir dalis Minsko vaivadi-
     jos.
-  citata_rodoma: |
-    Rusija užėmė rytinę didžiosios Lietuvos kunigaikštijos dalį iki Dauguvos ir Dniepro. Tuo būdu Rusijai teko Latgala, šiaurinė dalis Polocko vaivadijos su pačiu miestu, beveik visos Vitebsko ir Mstislaulio vaivadijos ir dalis Minsko vaivadijos.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
+    - t-004
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/ivykiai/Rusijos ir Prūsijos sutartis remti Poniatausko kandidatūrą (1764 m.)]]

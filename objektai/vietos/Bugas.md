@@ -1,81 +1,50 @@
 ---
 tipas: vieta
-pavadinimas: "Bugas"
-sukurta: "2026-04-18"
-variantai: 
-  - "Bugą"
-aliases: 
-  - "Bugas"
-  - "Bugą"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Bugas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'žemas'
+tags:
+  - miestas
+  - sutartis
+  - vieta
 ---
 # Bugas
 
 ## Santrauka
-Šaltinyje vieta „Bugas“ siejama su šiuo kontekstu: Upė minima kaip vandens nutekėjimo kelias tarp Nemuno ir Vyslos baseinų. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Bugas
-- Šaltinyje fiksuotos formos: Bugą
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: upė
-
-## Geografinis ir istorinis kontekstas
-- Upė minima kaip vandens nutekėjimo kelias tarp Nemuno ir Vyslos baseinų. (t-001)
+Bet vis dėlto XIII ir XIV amžiuje Lietuvai pats svarbusis prekybos punktas buvo Rygos miestas. Nemuno žiotys buvo apgultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos prekybą. Priėjimas prie Rygos Dauguvos upe taip pat buvo gana sunkus, — čia irgi.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Bugas“ siejama su šiuo kontekstu: Upė minima kaip vandens nutekėjimo kelias tarp Nemuno ir Vyslos baseinų."
+  teiginys: 'Bet vis dėlto XIII ir XIV amžiuje Lietuvai pats svarbusis prekybos punktas buvo Rygos miestas. Nemuno žiotys buvo apgultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos prekybą. Priėjimas prie Rygos Dauguvos upe taip pat buvo gana sunkus, — čia irgi.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Upė minima kaip vandens nutekėjimo kelias tarp Nemuno ir Vyslos baseinų.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Bet vis dėlto XIII ir XIV amžiuje Lietuvai pats svarbusis prekybos punktas buvo Rygos miestas. Nemuno žiotys buvo apgultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos prekybą. Priėjimas prie Rygos Dauguvos upe taip pat buvo gana sunkus, — čia irgi.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Ledyno
-    vanduo tuo tarpu tekėjo į Vyslos ir Dniepro baseinus. Nemuno
-    žemupys tebebuvo po ledais: žemutinė jo vaga susidarė vėliau. Bet
-    ir jai susidarius, rytų Lietuvos vandens dar ilgai tekėjo senosio-
-    mis vagomis. Kai ledynas dar tebebuvo apklojęs Žemaičius, jo
-    pakraštyje, apie Kauną, buvo daugybė susitelkusių vandenų. Iš
-    čia, dabartine Nemuno vidurupio vaga, vanduo tekėjo priešingai
-    šiandieninei Nemuno tėkmei — į pietus. Kita srovė tekėjo da-
-    bartine Neries vaga, irgi priešingai šiandieninei jos tėkmei, taigi—
-    į rytus. Ten šis vanduo susiliedavo su dabartiniu Merkiu, kuris
-    tada buvo didžiausia vandens nutekamoji vaga. Į jį taip pat pa-
-    tekdavo ir ta srovė, kuri tekėjo į pietus dabartine Nemuno vidur-
-    upio vaga. Visas tas vanduo patekdavo į Bugą, o juo — į Vyslą.
-    Ledams pasitraukus toliau į šiaurę, atsirado dabartinė žemutinio
-    Nemuno vaga.
-  citata_rodoma: |
-    Ledyno vanduo tuo tarpu tekėjo į Vyslos ir Dniepro baseinus. Nemuno žemupys tebebuvo po ledais: žemutinė jo vaga susidarė vėliau. Bet ir jai susidarius, rytų Lietuvos vandens dar ilgai tekėjo senosiomis vagomis. Kai ledynas dar tebebuvo apklojęs Žemaičius, jo pakraštyje, apie Kauną, buvo daugybė susitelkusių vandenų. Iš čia, dabartine Nemuno vidurupio vaga, vanduo tekėjo priešingai šiandieninei Nemuno tėkmei — į pietus. Kita srovė tekėjo dabartine Neries vaga, irgi priešingai šiandieninei jos tėkmei, taigi— į rytus. Ten šis vanduo susiliedavo su dabartiniu Merkiu, kuris tada buvo didžiausia vandens nutekamoji vaga. Į jį taip pat patekdavo ir ta srovė, kuri tekėjo į pietus dabartine Nemuno vidurupio vaga. Visas tas vanduo patekdavo į Bugą, o juo — į Vyslą. Ledams pasitraukus toliau į šiaurę, atsirado dabartinė žemutinio Nemuno vaga.
+    Bet vis dėlto XIII ir XIV amžiuje Lietuvai pats svarbusis pre-
+    kybos punktas buvo Rygos miestas. Nemuno žiotys buvo ap-
+    gultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos pre-
+    kybą. Priėjimas prie Rygos Dauguvos upe taip pat buvo ga-
+    na sunkus, — čia irgi trukdė tie patys kryžiuočiai, — vis dėlto čia
+    buvo kiek lengviau: mat, Ryga buvo laisvas miestas, kuris, no-
+    rėdamas pasipelnyti, buvo sukalbamesnis. Be to, čia kryžiuo-
+    čiams buvo priešingas Rygos arkivyskupas, kuris, kovodamas
+    su ordinu drauge su rygiečiais, ne kartą eidavo išvien su Lie-
+    tuva (Vytenio ir Gedimino laikais, — žiūr. 65, 68 psl.). Arkivys-
+    kupo ir rygiečių dėka dažnai būdavo sudaromos Lietuvos pre-
+    kybos sutartys net su ordinu.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: žemas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

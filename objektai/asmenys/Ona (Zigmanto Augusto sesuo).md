@@ -1,73 +1,77 @@
 ---
 tipas: asmuo
-pavadinimas: "Ona (Zigmanto Augusto sesuo)"
-sukurta: "2026-04-18"
-variantai: 
-  - "Ona"
-  - "Oną"
-  - "Zigmanto Augusto sesuo Ona"
-aliases: 
-  - "Ona (Zigmanto Augusto sesuo)"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "† 1596 m."
-datos: 
-  - "† 1596 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XVI"
-date_start: "1596"
-date_end: "1596"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
+pavadinimas: 'Ona (Zigmanto Augusto sesuo)'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Ona (Zigmanto Augusto sesuo)
 
 ## Santrauka
-Šaltinyje Ona (Zigmanto Augusto sesuo) apibūdinamas taip: Minima kaip Zigmanto Augusto sesuo biusto antraštėje Krokuvos katedroje.
 
-## Variantai
-- Ona
-- Oną
-- Zigmanto Augusto sesuo Ona
-
-## Laikotarpis ir datos
-- laikotarpis: † 1596 m.
-- datos: † 1596 m.
-- periodas:
-- periodo_grupes:
-- amziai: XVI
-- date_start: 1596
-- date_end: 1596
+Zigmanto Augusto seseriai Onai paliktų privatinių dvarų. Zigmanto Augusto sesuo Ona (ta pati, kuri buvo numatyta žmona karaliui Henrikui ir kurią vedė Stp. Batoras). jis pasižadėjo vesti Zigmanto Augusto seserį Oną, nors jam tebebuvo tik 23 m., o jai 55 m.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Ona (Zigmanto Augusto sesuo) apibūdinamas taip: Minima kaip Zigmanto Augusto sesuo biusto antraštėje Krokuvos katedroje."
+  teiginys: 'Zigmanto Augusto seseriai Onai paliktų privatinių dvarų.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Zigmanto Augusto sesuo Ona (ta pati, kuri buvo numatyta žmona karaliui Henrikui ir kurią vedė Stp. Batoras).'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'jis pasižadėjo vesti Zigmanto Augusto seserį Oną, nors jam tebebuvo tik 23 m., o jai 55 m.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minima kaip Zigmanto Augusto sesuo biusto antraštėje Krokuvos katedroje.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Zigmanto Augusto seseriai Onai paliktų privatinių dvarų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Zigmanto Augusto sesuo Ona,
-    † 1596 m. (biustas iš antkapio,
-    esančio Krokuvos katedroje).
-  citata_rodoma: ""
+    Zigmanto Augusto seseriai Onai paliktų privatinių dvarų.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Zigmanto Augusto sesuo Ona (ta pati, kuri buvo numatyta žmona karaliui Henrikui ir kurią vedė Stp. Batoras).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Zigmanto Augusto sesuo Ona (ta pati, kuri buvo numatyta
+      žmona karaliui Henrikui ir kurią vedė Stp. Batoras).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'jis pasižadėjo vesti Zigmanto Augusto seserį Oną, nors jam tebebuvo tik 23 m., o jai 55 m.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    jis pasižadėjo vesti Zig-
+      manto Augusto seserį
+      Oną, nors jam tebebuvo
+      tik 23 m., o jai 55 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/asmenys/Henrikas Valua]]

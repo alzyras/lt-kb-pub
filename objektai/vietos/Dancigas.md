@@ -1,101 +1,84 @@
 ---
 tipas: vieta
-pavadinimas: "Dancigas"
-sukurta: "2026-04-18"
-variantai: 
-  - "Dancigo"
-  - "Dancigą"
-aliases: 
-  - "Dancigas"
-  - "Dancigo"
-  - "Dancigą"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: Dancigas
+variantai:
+  - Gdanskas
+  - Danzig
+aliases: []
+susije_irasai:
+  - '[[Lietuva]]'
+  - '[[Karaliaučius]]'
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+tags:
+  - vieta
 ---
 # Dancigas
 
 ## Santrauka
-Šaltinyje vieta „Dancigas“ siejama su šiais kontekstais: Miestas minimas tarp svarbiausių archyvų centrų Lietuvos istorijos medžiagai; Minimas kaip vieta, į kurią atplaukė princas Kontis ir kur jo šalininkai sudarė konfederaciją. (t-001, t-002)
+Dancigas šiame šaltinyje minimas kaip vienas svarbiausių Lietuvos prekybos krypčių Baltijos erdvėje: su juo siejami Ordino prekybos ryšiai, eksporto keliai ir vėlesni politiniai pokyčiai po Torno taikos.
 
 ## Pavadinimai šaltiniuose
-- Pagrindinė forma: Dancigas
-- Šaltinyje fiksuotos formos: Dancigo; Dancigą
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
+- Dancigas
+- Gdanskas
+- Danzig
 
 ## Kas tai
-- tipas: miestas
+Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį ėjo dalis Lietuvos prekių ir su kuriuo buvo susiję Ordino prekybos centrai.
 
 ## Geografinis ir istorinis kontekstas
-- Miestas minimas tarp svarbiausių archyvų centrų Lietuvos istorijos medžiagai. (t-001)
-- Minimas kaip vieta, į kurią atplaukė princas Kontis ir kur jo šalininkai sudarė konfederaciją. (t-002)
+Šaltinyje Dancigas pasirodo Nemuno prekybos, Lietuvos eksporto ir Lenkijos bei Ordino santykių kontekste. Miestas siejamas tiek su Lietuvos ūkiniu gyvenimu, tiek su vėlyvesniais teritoriniais pokyčiais po 1466 m. taikos.
 
 ## Teiginiai
-- t-001
-  teiginys: "Šaltinyje vieta „Dancigas“ siejama su šiuo kontekstu: Miestas minimas tarp svarbiausių archyvų centrų Lietuvos istorijos medžiagai."
-  pagrindžia:
-    - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
-- t-002
-  teiginys: "Šaltinyje vieta „Dancigas“ siejama su šiuo kontekstu: Minimas kaip vieta, į kurią atplaukė princas Kontis ir kur jo šalininkai sudarė konfederaciją."
-  pagrindžia:
-    - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- [t-001] Vytauto laikais Dancigas buvo vienas iš Ordino prekybos centrų, su kuriais Lietuva palaikė gyvus prekybos ryšius.
+  - pagrindžia: [c-001]
+- [t-002] Lietuvos vaškas buvo garsus Dancigo rinkoje.
+  - pagrindžia: [c-002]
+- [t-003] Dalis Lietuvos prekių per Bugą ir Vyslą eidavo į Dancigą.
+  - pagrindžia: [c-003]
+- [t-004] Po 1466 m. Torno taikos Dancigas atiteko Lenkijai.
+  - pagrindžia: [c-004]
+- [t-005] Lietuvos miško produkcija buvo plukdoma ir į Dancigą.
+  - pagrindžia: [c-005]
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: Miestas minimas tarp svarbiausių archyvų centrų Lietuvos istorijos medžiagai.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata_originali: |
-    Nuo seniausių laikų Lietuva labai daug turėjo
-    įvairių santykių ir su vokiečių ordinais, o vėliau—su vad. Prūsais,
-    todėl labai daug medžiagos yra ypač Karaliaučiaus, Dan-
-    cigo ir Berlyno archyvuose. Taip pat nuo senų laikų Lietuvos
-    valstybė turėjo daug reikalų su popiežium, todėl nemaža medžia-
-    gos yra ir Vatikano archyve (iš tų laikų, kai buvo rūpi-
-    namasi Lietuvos krikštu, o vėliau — Lietuvos Bažnyčios orga-
-    nizavimu). Bet daugiausia medžiagos yra Lenkijoje, Varšu-
-    vos ir Krokuvos archyvuose; ypač jos gausu iš tų amžių,
-    kai Lietuva gyveno susirišusi, o vėliau unijoje su Lenkija.
-  citata_rodoma: |
-    Nuo seniausių laikų Lietuva labai daug turėjo įvairių santykių ir su vokiečių ordinais, o vėliau—su vad. Prūsais, todėl labai daug medžiagos yra ypač Karaliaučiaus, Dancigo ir Berlyno archyvuose. Taip pat nuo senų laikų Lietuvos valstybė turėjo daug reikalų su popiežium, todėl nemaža medžiagos yra ir Vatikano archyve (iš tų laikų, kai buvo rūpinamasi Lietuvos krikštu, o vėliau — Lietuvos Bažnyčios organizavimu). Bet daugiausia medžiagos yra Lenkijoje, Varšuvos ir Krokuvos archyvuose; ypač jos gausu iš tų amžių, kai Lietuva gyveno susirišusi, o vėliau unijoje su Lenkija.
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Minimas kaip vieta, į kurią atplaukė princas Kontis ir kur jo šalininkai sudarė konfederaciją.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata_originali: |
-    Bet Augus-
-    tas jau su paruošta kariuomene atskubėjo į Krokuvą ir čia ka-
-    rūnavosi. Kontys irgi atplaukė į Dancigą. Jo šalininkai sudarė
-    konfederaciją jam paremti.
-  citata_rodoma: |
-    Bet Augustas jau su paruošta kariuomene atskubėjo į Krokuvą ir čia karūnavosi. Kontys irgi atplaukė į Dancigą. Jo šalininkai sudarė konfederaciją jam paremti.
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
-  pagrindžia:
-    - t-002
+- [c-001]
+  - citata_originali: |
+      Vytauto laikais, aprimus karams su kryžiuočiais, atgijo pre-
+      kyba Nemunu. Užsimezgė gyvi ryšiai su ordino prekybos cent-
+      rais—Karaliaučium ir Dancigu.
+  - paaiskinimas: Citata tiesiogiai sieja Dancigą su Ordino prekybos tinklu ir Lietuvos prekybos atsigavimu Vytauto laikais.
+  - saltinis: 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+- [c-002]
+  - citata_originali: |
+      Seniausioji Lietu-
+      vos eksporto prekė buvo vaškas, garsus Rygos, Ka-
+      raliaučiaus ir Dancigo rinkose.
+  - paaiskinimas: Citata parodo, kad Dancigas buvo viena svarbiausių Lietuvos vaško eksporto rinkų.
+  - saltinis: 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+- [c-003]
+  - citata_originali: |
+      Bugu Lietuvos prekės eidavo į
+      Vyslą, o šia — į Dancigą.
+  - paaiskinimas: Citata nurodo konkretų prekybinį kelią, kuriuo Lietuvos prekės pasiekdavo Dancigą.
+  - saltinis: 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+- [c-004]
+  - citata_originali: |
+      1466 m. Torne buvo pasirašyta taika, kuria ordinas
+      pasidarė Lenkijos vasalu ir perleido jai daug žemių. Lenkija
+      atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte —
+      Elbingą, Marijenburgą ir visą Varmijos vyskupystę.
+  - paaiskinimas: Citata pagrindžia Dancigo priklausomybės pasikeitimą po Torno taikos.
+  - saltinis: 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+- [c-005]
+  - citata_originali: |
+      Daugiausia mišk-
+      ko išveždavo į užsienį valstybės iždas. Miškas buvo plukdomas į
+      Karaliaučių arba į Dancigą. Daugiausia buvo išvežama šulų bo-
+  - paaiskinimas: Citata rodo, kad Dancigas buvo viena iš pagrindinių Lietuvos miško eksporto krypčių.
+  - saltinis: 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/vietos/Karaliaučius]]
+- [[objektai/vietos/Lietuva]]

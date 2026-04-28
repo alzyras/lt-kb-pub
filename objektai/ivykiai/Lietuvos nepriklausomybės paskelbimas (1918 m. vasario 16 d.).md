@@ -1,63 +1,62 @@
 ---
 tipas: ivykis
-pavadinimas: "Lietuvos nepriklausomybės paskelbimas (1918 m. vasario 16 d.)"
-sukurta: "2026-04-18"
+pavadinimas: 'Lietuvos nepriklausomybės paskelbimas (1918 m. vasario 16 d.)'
+sukurta: '2026-04-25'
 variantai: []
 aliases: []
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: 
-  - "politinis-sprendimas"
-laikotarpis: "1918 m. vasario 16 d."
-datos: 
-  - "1918 m. vasario 16 d."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XX"
-date_start: "1918"
-date_end: "1918"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - ivykis
 ---
 # Lietuvos nepriklausomybės paskelbimas (1918 m. vasario 16 d.)
 
 ## Santrauka
 
-Taryba priėmė savarankišką pareiškimą, kuris tapo Lietuvos nepriklausomybės paskelbimu. (t-001)
-
-## Laikotarpis ir datos
-
-- laikotarpis: 1918 m. vasario 16 d. (t-001)
-- datos: 1918 m. vasario 16 d. (t-001)
-- amziai: XX (t-001)
-- date_start/date_end: 1918 / 1918 (t-001)
+Taryba ryžosi atgaivinti savo vienybę nauju, visai savarankišku pareiškimu, kurs patapo Lietuvos nepriklausomybės paskelbimu (1918 m. vasario 16 d.). Šito paskelbimo okupacinė valdžia neleido iškelti į viešumą.
 
 ## Teiginiai
-
 - t-001
-  teiginys: "Taryba priėmė savarankišką pareiškimą, kuris tapo Lietuvos nepriklausomybės paskelbimu."
+  teiginys: 'Taryba ryžosi atgaivinti savo vienybę nauju, visai savarankišku pareiškimu, kurs patapo Lietuvos nepriklausomybės paskelbimu (1918 m. vasario 16 d.).'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Šito paskelbimo okupacinė valdžia neleido iškelti į viešumą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: Taryba priėmė savarankišką pareiškimą, kuris tapo Lietuvos nepriklausomybės paskelbimu.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Taryba ryžosi atgaivinti savo vienybę nauju, visai savarankišku pareiškimu, kurs patapo Lietuvos nepriklausomybės paskelbimu (1918 m. vasario 16 d.).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taryba ryžosi atgaivinti savo vienybę nau-
     ju, visai savarankišku pareiškimu, kurs patapo
     Lietuvos nepriklausomybės paskelbimu (1918 m. vasario 16 d.).
-  citata_rodoma: |
-    Taryba ryžosi atgaivinti savo vienybę nauju, visai savarankišku pareiškimu, kurs patapo Lietuvos nepriklausomybės paskelbimu (1918 m. vasario 16 d.).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia teiginį šaltinio tekste."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Šito paskelbimo okupacinė valdžia neleido iškelti į viešumą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Šito paskelbimo okupacinė valdžia neleido iškelti į vie-
+    šumą. Berlyno vyriausybė atsisakė pripažinti pagal tą paskelbi-
+    mą Lietuvos valstybę ir reikalavo grįžti prie gruodžio 11 d. for-
+    mulės, kuri numatė artimus santykius su Vokietija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]

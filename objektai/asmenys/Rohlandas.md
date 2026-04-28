@@ -1,54 +1,39 @@
 ---
 tipas: asmuo
-pavadinimas: "Rohlandas"
-sukurta: "2026-04-18"
+pavadinimas: 'Rohlandas'
+sukurta: '2026-04-25'
 variantai: []
-aliases: 
-  - "Rohlandas"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Rohlandas
 
 ## Santrauka
-Šaltinyje Rohlandas apibūdinamas taip: Minimas generolų pasitarime dėl sukilėlių pajėgų padalijimo.
+
+Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turėjo eiti į Kauną, Dembinskis į Kuršo pasienį, o Rohlandas į Palangą.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Rohlandas apibūdinamas taip: Minimas generolų pasitarime dėl sukilėlių pajėgų padalijimo."
+  teiginys: 'Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turėjo eiti į Kauną, Dembinskis į Kuršo pasienį, o Rohlandas į Palangą.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas generolų pasitarime dėl sukilėlių pajėgų padalijimo.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turėjo eiti į Kauną, Dembinskis į Kuršo pasienį, o Rohlandas į Palangą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pagaliau generolai
-    sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turėjo eiti
-    į Kauną, Dembinskis į Kuršo pasienį, o Rohlandas į Palangą.
-  citata_rodoma: ""
+    Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir
+      Gelgaudas turėjo eiti į Kauną, Dembinskis į Kuršo pasienį, o
+      Rohlandas į Palangą.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

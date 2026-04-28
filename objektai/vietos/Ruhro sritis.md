@@ -1,75 +1,46 @@
 ---
 tipas: vieta
-pavadinimas: "Ruhro sritis"
-sukurta: "2026-04-18"
-variantai: 
-  - "Ruhro srities"
-aliases: 
-  - "Ruhro sritis"
-  - "Ruhro srities"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1923 m."
-datos: 
-  - "1923 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XX"
-date_start: "1923"
-date_end: "1923"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Ruhro sritis'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - sukilimas
+  - vieta
 ---
 # Ruhro sritis
 
 ## Santrauka
-Šaltinyje vieta „Ruhro sritis“ siejama su šiuo kontekstu: Minima kaip vakarinės Vokietijos dalis, kurios okupacija tuo metu atitraukė didžiųjų valstybių dėmesį nuo Klaipėdos įvykių. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Ruhro sritis
-- Šaltinyje fiksuotos formos: Ruhro srities
-
-## Laikotarpis ir datos
-- laikotarpis: 1923 m.
-- datos: 1923 m.
-- amziai: XX
-- date_start/date_end: 1923 / 1923
-
-## Kas tai
-- tipas: sritis
-
-## Geografinis ir istorinis kontekstas
-- Minima kaip vakarinės Vokietijos dalis, kurios okupacija tuo metu atitraukė didžiųjų valstybių dėmesį nuo Klaipėdos įvykių. (t-001)
+Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietijos dalies (Ruhro srities) okupacija, sujaudintos tų įvykių Klaipėdoje, įtarė Lietuvos vyriausybę dalyvavus paties sukilimo ruošime ir pasiuntė nepaprastą komisiją tvarkai grąžinti.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Ruhro sritis“ siejama su šiuo kontekstu: Minima kaip vakarinės Vokietijos dalis, kurios okupacija tuo metu atitraukė didžiųjų valstybių dėmesį nuo Klaipėdos įvykių."
+  teiginys: 'Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietijos dalies (Ruhro srities) okupacija, sujaudintos tų įvykių Klaipėdoje, įtarė Lietuvos vyriausybę dalyvavus paties sukilimo ruošime ir pasiuntė nepaprastą komisiją tvarkai grąžinti.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minima kaip vakarinės Vokietijos dalis, kurios okupacija tuo metu atitraukė didžiųjų valstybių dėmesį nuo Klaipėdos įvykių.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietijos dalies (Ruhro srities) okupacija, sujaudintos tų įvykių Klaipėdoje, įtarė Lietuvos vyriausybę dalyvavus paties sukilimo ruošime ir pasiuntė nepaprastą komisiją tvarkai grąžinti.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Didžiosios valstybės, kurios tuo metu buvo susidomėjusios
     vakarinės Vokietijos dalies **_(Ruhro_** srities) okupacija, sujaudin-
     tos tų įvykių Klaipėdoje, įtarė Lietuvos vyriausybę dalyvavus
     paties sukilimo ruošime ir pasiuntė nepaprastą komisiją tvarkai
-  citata_rodoma: |
-    Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietijos dalies (Ruhro srities) okupacija, sujaudintos tų įvykių Klaipėdoje, įtarė Lietuvos vyriausybę dalyvavus paties sukilimo ruošime ir pasiuntė nepaprastą komisiją tvarkai
+    grąžinti.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/sukilimas]]

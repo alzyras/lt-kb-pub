@@ -1,65 +1,58 @@
 ---
 tipas: asmuo
-pavadinimas: "Niselis"
-sukurta: "2026-04-18"
-variantai: 
-  - "Niselio"
-  - "generolo Niselio"
-aliases: 
-  - "Niselis"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Niselis'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Niselis
 
 ## Santrauka
-Šaltinyje Niselis apibūdinamas taip: Minimas kaip santarvės komisijos ir misijos vadovas, įsikišęs į kovas su bermontininkais.
 
-## Variantai
-- Niselio
-- generolo Niselio
+Bet po šitų laimėjimų bermontininkai dar nebuvo visiškai sunaikinti, nes įsikišo generolo Niselio vadovaujama santarvės misija. Kaip bermontininkai plėšė gyventojus, galima suprasti iš santarvės valstybių vėliau atsiųstos, prancūzų generolo Niselio vadovaujamos, komisijos pranešimo.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Niselis apibūdinamas taip: Minimas kaip santarvės komisijos ir misijos vadovas, įsikišęs į kovas su bermontininkais."
+  teiginys: 'Bet po šitų laimėjimų bermontininkai dar nebuvo visiškai sunaikinti, nes įsikišo generolo Niselio vadovaujama santarvės misija.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Kaip bermontininkai plėšė gyventojus, galima suprasti iš santarvės valstybių vėliau atsiųstos, prancūzų generolo Niselio vadovaujamos, komisijos pranešimo.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip santarvės komisijos ir misijos vadovas, įsikišęs į kovas su bermontininkais.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Bet po šitų laimėjimų bermontininkai dar nebuvo visiškai sunaikinti, nes įsikišo generolo Niselio vadovaujama santarvės misija.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet po šitų laimėjimų bermontininkai dar nebuvo visiškai
-    sunaikinti, nes įsikišo generolo Niselio vadovaujama san-
-    tarvės misija. Ji pareikalavo sustabdyti kautynes ir leisti
-    vokiečiams ramiai išsikraustyti į Vokietiją. Santarvė bijojo,
-    kad, dar nepasitraukusios, savo kariuomenės puolimą Vokie-
-    tija palaikysianti karo paskelbimu ir išsiusianti į Lietuvą
-    keletą savo kariuomenės korpusų.
-  citata_rodoma: |
-    Bet po šitų laimėjimų bermontininkai dar nebuvo visiškai sunaikinti, nes įsikišo generolo Niselio vadovaujama santarvės misija. Ji pareikalavo sustabdyti kautynes ir leisti vokiečiams ramiai išsikraustyti į Vokietiją. Santarvė bijojo, kad, dar nepasitraukusios, savo kariuomenės puolimą Vokietija palaikysianti karo paskelbimu ir išsiusianti į Lietuvą keletą savo kariuomenės korpusų.
+      sunaikinti, nes įsikišo generolo Niselio vadovaujama san-
+      tarvės misija. Ji pareikalavo sustabdyti kautynes ir leisti
+      vokiečiams ramiai išsikraustyti į Vokietiją.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-002
+  santrauka: 'Kaip bermontininkai plėšė gyventojus, galima suprasti iš santarvės valstybių vėliau atsiųstos, prancūzų generolo Niselio vadovaujamos, komisijos pranešimo.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kaip bermontininkai plėšė gyventojus, galima suprasti iš
+      santarvės valstybių vėliau atsiųstos, prancūzų generolo Ni-
+      selio vadovaujamos, komisijos pranešimo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

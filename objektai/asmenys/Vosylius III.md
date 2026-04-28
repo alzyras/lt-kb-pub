@@ -1,70 +1,74 @@
 ---
 tipas: asmuo
-pavadinimas: "Vosylius III"
-sukurta: "2026-04-18"
-variantai: 
-  - "Vosyliaus III"
-  - "Vosyliui III"
-aliases: 
-  - "Vosylius III"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1533 m."
-datos: 
-  - "1533 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XVI"
-date_start: "1533"
-date_end: "1533"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Vosylius III'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
+  - miestas
 ---
 # Vosylius III
 
 ## Santrauka
-Šaltinyje Vosylius III apibūdinamas taip: Maskvos kunigaikštis, kurio mirtis 1533 m. atvėrė kelią Jonui IV Žiauriajam.
 
-## Variantai
-- Vosyliaus III
-- Vosyliui III
-
-## Laikotarpis ir datos
-- laikotarpis: 1533 m.
-- datos: 1533 m.
-- periodas:
-- periodo_grupes:
-- amziai: XVI
-- date_start: 1533
-- date_end: 1533
+betgi pradėjo karą su Lietuva Glinskio pasikviestas Vosylius III, kuris skelbėsi einąs vaduoti spaudžiamųjų pravoslavų. Tuo pat metu betgi pradėjo karą su Lietuva Glinskio pasikviestas Vosylius III, kuris skelbėsi einąs vaduoti spaudžiamųjų pravoslavų. Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Vosylius III apibūdinamas taip: Maskvos kunigaikštis, kurio mirtis 1533 m. atvėrė kelią Jonui IV Žiauriajam."
+  teiginys: 'betgi pradėjo karą su Lietuva Glinskio pasikviestas Vosylius III, kuris skelbėsi einąs vaduoti spaudžiamųjų pravoslavų.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Tuo pat metu betgi pradėjo karą su Lietuva Glinskio pasikviestas Vosylius III, kuris skelbėsi einąs vaduoti spaudžiamųjų pravoslavų.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Maskvos kunigaikštis, kurio mirtis 1533 m. atvėrė kelią Jonui IV Žiauriajam.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'betgi pradėjo karą su Lietuva Glinskio pasikviestas Vosylius III, kuris skelbėsi einąs vaduoti spaudžiamųjų pravoslavų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kai 1533 m. mirė Vosylius III, Maskvos
-    kunigaikščiu tapo Jonas IV Žiaurusis.
-  citata_rodoma: ""
+    betgi pradėjo karą su Lietuva Glinskio pasikviestas Vosylius
+      III, kuris skelbėsi einąs vaduoti spaudžiamųjų pravoslavų. Kar-
+      tu su Glinskiu jis apgulė daugelį Lietuvos miestų ir artinosi prie
+      svarbiausiojo strateginio punkto, saugančio Dniepro aukštupį,
+      — prie Smolensko.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-002
+  santrauka: 'Tuo pat metu betgi pradėjo karą su Lietuva Glinskio pasikviestas Vosylius III, kuris skelbėsi einąs vaduoti spaudžiamųjų pravoslavų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo pat metu betgi pradėjo karą su Lietuva Glinskio pasikviestas Vosylius III, kuris skelbėsi einąs vaduoti spaudžiamųjų pravoslavų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

@@ -1,72 +1,55 @@
 ---
 tipas: asmuo
-pavadinimas: "Daumantas"
-sukurta: "2026-04-18"
-variantai: 
-  - "Daumantą"
-aliases: 
-  - "Daumantas"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1263 m."
-datos: 
-  - "1263 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XIII"
-date_start: "1263"
-date_end: "1263"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Daumantas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Daumantas
 
 ## Santrauka
-Šaltinyje Daumantas apibūdinamas taip: Nalšėnų kunigaikštis, vadovavęs Mindaugo kariuomenei prieš Briansko kunigaikštį.
 
-## Variantai
-- Daumantą
-
-## Laikotarpis ir datos
-- laikotarpis: 1263 m.
-- datos: 1263 m.
-- periodas:
-- periodo_grupes:
-- amziai: XIII
-- date_start: 1263
-- date_end: 1263
+Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas. karo vadu dažniausiai skirdavo Gardino srities kunigaikštį Dovydą (spėjama, kad jis buvęs Mindaugo nužudyme dalyvavusio, o vėliau Pskovą valdžiusio, Daumanto sūnus).
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Daumantas apibūdinamas taip: Nalšėnų kunigaikštis, vadovavęs Mindaugo kariuomenei prieš Briansko kunigaikštį."
+  teiginys: 'Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'karo vadu dažniausiai skirdavo Gardino srities kunigaikštį Dovydą (spėjama, kad jis buvęs Mindaugo nužudyme dalyvavusio, o vėliau Pskovą valdžiusio, Daumanto sūnus).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Nalšėnų kunigaikštis, vadovavęs Mindaugo kariuomenei prieš Briansko kunigaikštį.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    1263
-    m. jis išsiuntė savo kariuomenę prieš Briansko kunigaikštį.
-    Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas. Bet
-    šitas Mindaugo žygis Lietuvoje buvo palaikytas tautinių rei-
-    kalų apleidimu.
-  citata_rodoma: |
-    1263 m. jis išsiuntė savo kariuomenę prieš Briansko kunigaikštį. Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas. Bet šitas Mindaugo žygis Lietuvoje buvo palaikytas tautinių reikalų apleidimu.
+    Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-002
+  santrauka: 'karo vadu dažniausiai skirdavo Gardino srities kunigaikštį Dovydą (spėjama, kad jis buvęs Mindaugo nužudyme dalyvavusio, o vėliau Pskovą valdžiusio, Daumanto sūnus).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    karo vadu dažniausiai skirdavo Gardino srities kunigaikštį
+      Dovydą (spėjama, kad jis buvęs Mindaugo nužudyme dalyvavu-
+      sio, o vėliau Pskovą valdžiusio, Daumanto sūnus).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

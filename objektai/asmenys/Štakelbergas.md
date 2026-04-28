@@ -1,53 +1,74 @@
 ---
 tipas: asmuo
-pavadinimas: "Štakelbergas"
-sukurta: "2026-04-18"
+pavadinimas: 'Štakelbergas'
+sukurta: '2026-04-25'
 variantai: []
-aliases: 
-  - "Štakelbergas"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Štakelbergas
 
 ## Santrauka
-Šaltinyje Štakelbergas apibūdinamas taip: Minimas kaip naujas Kotrynos II atstovas, vadovavęs seimo darbams.
+
+Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba nieko negalėjo padaryti. Dar kelerius metus Štakelbergo žinioje Lietuvoje ir Lenkijoje buvo laikoma rusų kariuomenė. Visiems darbams vadovavo naujas Kotrynos II atstovas Štakelbergas.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Štakelbergas apibūdinamas taip: Minimas kaip naujas Kotrynos II atstovas, vadovavęs seimo darbams."
+  teiginys: 'Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba nieko negalėjo padaryti.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Dar kelerius metus Štakelbergo žinioje Lietuvoje ir Lenkijoje buvo laikoma rusų kariuomenė.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Visiems darbams vadovavo naujas Kotrynos II atstovas Štakelbergas.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip naujas Kotrynos II atstovas, vadovavęs seimo darbams.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba nieko negalėjo padaryti.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Visiems darbams vadovavo naujas Kotrynos II
-    atstovas Štakelbergas.
-  citata_rodoma: ""
+    Daugiausia ta teise
+      ėmė naudotis Rusija. Be jos ambasadoriaus Štakelbergo
+      sutikimo, nei karalius nei Nuolatinė Taryba nieko negalėjo pa-
+      daryti.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-002
+  santrauka: 'Dar kelerius metus Štakelbergo žinioje Lietuvoje ir Lenkijoje buvo laikoma rusų kariuomenė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Dar kelerius metus Štakelbergo žinioje Lietuvoje ir Len-
+      kijoje buvo laikoma rusų kariuomenė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Visiems darbams vadovavo naujas Kotrynos II atstovas Štakelbergas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Visiems darbams vadovavo naujas Kotrynos II
+      atstovas Štakelbergas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

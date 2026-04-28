@@ -1,104 +1,94 @@
 ---
 tipas: vieta
-pavadinimas: "Karaliaučius"
-sukurta: "2026-04-18"
-variantai: 
-  - "Karaliaučiaus"
-  - "Karaliaučių"
-aliases: 
-  - "Karaliaučius"
-  - "Karaliaučiaus"
-  - "Karaliaučių"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: Karaliaučius
+variantai:
+  - Kionigsbergas
+  - Königsberg
+aliases: []
+susije_irasai:
+  - '[[Lietuva]]'
+  - '[[Dancigas]]'
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+tags:
+  - vieta
 ---
 # Karaliaučius
 
 ## Santrauka
-Šaltinyje vieta „Karaliaučius“ siejama su šiais kontekstais: Miestas minimas kaip vienas svarbiausių archyvų centrų Lietuvos istorijos medžiagai; Minimas kaip Vytauto planuotas žygio tikslas ir kaip tėvonija. (t-001, t-002)
+Karaliaučius šiame šaltinyje minimas kaip viena svarbiausių Ordino pilių, prekybos centrų ir vėlesnė Ordino bei Prūsų kunigaikštijos sostinė.
 
 ## Pavadinimai šaltiniuose
-- Pagrindinė forma: Karaliaučius
-- Šaltinyje fiksuotos formos: Karaliaučiaus; Karaliaučių
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
+- Karaliaučius
+- Kionigsbergas
+- Königsberg
 
 ## Kas tai
-- tipas: miestas
+Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir politinis centras, susijęs su Lietuvos eksportu bei karo meto judėjimu į Prūsiją.
 
 ## Geografinis ir istorinis kontekstas
-- Miestas minimas kaip vienas svarbiausių archyvų centrų Lietuvos istorijos medžiagai. (t-001)
-- Minimas kaip Vytauto planuotas žygio tikslas ir kaip tėvonija. (t-002)
+Šaltinyje Karaliaučius pasirodo tiek kryžiuočių karo ir pilių sistemos, tiek Lietuvos prekybos ir politinės geografijos kontekste. Miestas siejamas su Ordino sostinės perkėlimu, eksportu ir pirklių trauka karo metu.
 
 ## Teiginiai
-- t-001
-  teiginys: "Šaltinyje vieta „Karaliaučius“ siejama su šiuo kontekstu: Miestas minimas kaip vienas svarbiausių archyvų centrų Lietuvos istorijos medžiagai."
-  pagrindžia:
-    - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
-- t-002
-  teiginys: "Šaltinyje vieta „Karaliaučius“ siejama su šiuo kontekstu: Minimas kaip Vytauto planuotas žygio tikslas ir kaip tėvonija."
-  pagrindžia:
-    - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- [t-001] Karaliaučius buvo viena iš pačių tvirčiausių Ordino pilių.
+  - pagrindžia: [c-001]
+- [t-002] Vytauto laikais Karaliaučius buvo vienas iš Ordino prekybos centrų, su kuriais Lietuva palaikė gyvus ryšius.
+  - pagrindžia: [c-002]
+- [t-003] Karaliaučiaus rinka buvo svarbi Lietuvos vaško eksportui.
+  - pagrindžia: [c-003]
+- [t-004] Po 1466 m. Torno taikos Ordino sostinė buvo perkelta į Karaliaučių, ir jis liko sostine įsikūrus Prūsų kunigaikštijai.
+  - pagrindžia: [c-004]
+- [t-005] Lietuvos miško produkcija buvo plukdoma ir į Karaliaučių.
+  - pagrindžia: [c-005]
+- [t-006] Karo metu iš Lietuvos miestų pasitraukę vokiečių pirkliai ypač traukdavo į Karaliaučių.
+  - pagrindžia: [c-006]
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: Miestas minimas kaip vienas svarbiausių archyvų centrų Lietuvos istorijos medžiagai.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata_originali: |
-    Nuo seniausių laikų Lietuva labai daug turėjo
-    įvairių santykių ir su vokiečių ordinais, o vėliau—su vad. Prūsais,
-    todėl labai daug medžiagos yra ypač Karaliaučiaus, Dan-
-    cigo ir Berlyno archyvuose. Taip pat nuo senų laikų Lietuvos
-    valstybė turėjo daug reikalų su popiežium, todėl nemaža medžia-
-    gos yra ir Vatikano archyve (iš tų laikų, kai buvo rūpi-
-    namasi Lietuvos krikštu, o vėliau — Lietuvos Bažnyčios orga-
-    nizavimu). Bet daugiausia medžiagos yra Lenkijoje, Varšu-
-    vos ir Krokuvos archyvuose; ypač jos gausu iš tų amžių,
-    kai Lietuva gyveno susirišusi, o vėliau unijoje su Lenkija.
-  citata_rodoma: |
-    Nuo seniausių laikų Lietuva labai daug turėjo įvairių santykių ir su vokiečių ordinais, o vėliau—su vad. Prūsais, todėl labai daug medžiagos yra ypač Karaliaučiaus, Dancigo ir Berlyno archyvuose. Taip pat nuo senų laikų Lietuvos valstybė turėjo daug reikalų su popiežium, todėl nemaža medžiagos yra ir Vatikano archyve (iš tų laikų, kai buvo rūpinamasi Lietuvos krikštu, o vėliau — Lietuvos Bažnyčios organizavimu). Bet daugiausia medžiagos yra Lenkijoje, Varšuvos ir Krokuvos archyvuose; ypač jos gausu iš tų amžių, kai Lietuva gyveno susirišusi, o vėliau unijoje su Lenkija.
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Minimas kaip Vytauto planuotas žygio tikslas ir kaip tėvonija.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata_originali: |
-    vaizdoje (bajoras) Nigaila garsiai pranešė susirinkusiems pilyje ka-
-    riams, kad jų valdovas, kunigaikštis Vytautas, tas pilis pastatęs prieš
-    vokiečius, su kuriais jis dar turįs daug reikalų. Dabar jis
-    trauksiąs į Ragainę, o paskui į Karaliaučių, nes
-    tos žemės kitados priklausiusios Lietuvai". O
-    Vytauto bajorai tam agentui pareiškę: „Mūsų kunigaikštis turi
-    atsiimti Karaliaučių, nes tai yra jo tėvonija".
-  citata_rodoma: |
-    vaizdoje (bajoras) Nigaila garsiai pranešė susirinkusiems pilyje kariams, kad jų valdovas, kunigaikštis Vytautas, tas pilis pastatęs prieš vokiečius, su kuriais jis dar turįs daug reikalų. Dabar jis trauksiąs į Ragainę, o paskui į Karaliaučių, nes tos žemės kitados priklausiusios Lietuvai". O Vytauto bajorai tam agentui pareiškę: „Mūsų kunigaikštis turi atsiimti Karaliaučių, nes tai yra jo tėvonija".
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
-  pagrindžia:
-    - t-002
+- [c-001]
+  - citata_originali: |
+      Nesugriautos liko tik Karaliau-
+      čiaus, Baigos, Elbingo ir Kulmo, t. y. pačios tvirtosios pilys.
+  - paaiskinimas: Citata tiesiogiai įvardija Karaliaučių kaip vieną iš pačių tvirčiausių Ordino pilių.
+  - saltinis: 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+- [c-002]
+  - citata_originali: |
+      Vytauto laikais, aprimus karams su kryžiuočiais, atgijo pre-
+      kyba Nemunu. Užsimezgė gyvi ryšiai su ordino prekybos cent-
+      rais—Karaliaučium ir Dancigu.
+  - paaiskinimas: Citata pagrindžia Karaliaučiaus vaidmenį Ordino prekybos tinkle, susijusiame su Lietuva.
+  - saltinis: 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+- [c-003]
+  - citata_originali: |
+      Seniausioji Lietu-
+      vos eksporto prekė buvo vaškas, garsus Rygos, Ka-
+      raliaučiaus ir Dancigo rinkose.
+  - paaiskinimas: Citata rodo, kad Karaliaučius buvo viena iš svarbių Lietuvos vaško rinkų.
+  - saltinis: 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+- [c-004]
+  - citata_originali: |
+      Smarkiai
+      apkarpytas, likęs Lenkijos vasalu, ordinas savo sostinę per-
+      kėlė į Karaliaučių. Nuo to laiko Karaliaučius buvo sostinė ne
+      tik iki panaikinant ordiną, bet ir įsikūrus vadinamajai Prūsų
+      kunigaikštijai.
+  - paaiskinimas: Citata tiesiogiai apibrėžia Karaliaučiaus politinį vaidmenį po Torno taikos.
+  - saltinis: 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+- [c-005]
+  - citata_originali: |
+      Daugiausia mišk-
+      ko išveždavo į užsienį valstybės iždas. Miškas buvo plukdomas į
+      Karaliaučių arba į Dancigą. Daugiausia buvo išvežama šulų bo-
+  - paaiskinimas: Citata pagrindžia Karaliaučiaus vietą Lietuvos miško eksporto maršrutuose.
+  - saltinis: 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+- [c-006]
+  - citata_originali: |
+      To meto Lietuvos miestuose beveik visi
+      pirkliai buvo vokiečiai, kurie, priešams užplūdus, daugumas iš-
+      bėgo į Prūsiją, ypač į Karaliaučių.
+  - paaiskinimas: Citata rodo, kad Karaliaučius buvo svarbus prieglobsčio ir persikėlimo taškas karo metu.
+  - saltinis: 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/vietos/Dancigas]]
+- [[objektai/vietos/Lietuva]]

@@ -1,74 +1,54 @@
 ---
 tipas: asmuo
-pavadinimas: "Švarnas"
-sukurta: "2026-04-18"
-variantai: 
-  - "Švarno"
-aliases: 
-  - "Švarnas"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1255 m."
-datos: 
-  - "1255 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XIII"
-date_start: "1255"
-date_end: "1255"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Švarnas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Švarnas
 
 ## Santrauka
-Šaltinyje Švarnas apibūdinamas taip: Danieliaus sūnus, kurio vedybomis buvo sutvirtinta taika su Voluine.
 
-## Variantai
-- Švarno
-
-## Laikotarpis ir datos
-- laikotarpis: 1255 m.
-- datos: 1255 m.
-- periodas:
-- periodo_grupes:
-- amziai: XIII
-- date_start: 1255
-- date_end: 1255
+Švarnas Lietuvą valdė labai neilgai: vos vienerius metus pavaldęs, jis mirė (1269 m.). Lietuvą paliko savo sesers vyrui Švarnui.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Švarnas apibūdinamas taip: Danieliaus sūnus, kurio vedybomis buvo sutvirtinta taika su Voluine."
+  teiginys: 'Švarnas Lietuvą valdė labai neilgai: vos vienerius metus pavaldęs, jis mirė (1269 m.).'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Lietuvą paliko savo sesers vyrui Švarnui.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Danieliaus sūnus, kurio vedybomis buvo sutvirtinta taika su Voluine.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Švarnas Lietuvą valdė labai neilgai: vos vienerius metus pavaldęs, jis mirė (1269 m.).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Mindaugas ryžosi atgauti Voluinės kunigaikščio Danieliaus už-
-    grobtas žemes. Dabar karui vadovavo jau nebe svetimi kuni-
-    gaikščiai, bet Mindaugo sūnus Vaišvilkas. Danielius buvo
-    sumuštas ir priverstas taikintis (1255 m.). Sutartis buvo susti-
-    printa Mindaugo dukters ir Danieliaus sūnaus Švarno vedybo-
-    mis. Danieliaus sūnui Romanui Mindaugas davė valdyti Nau-
-    garduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų
-  citata_rodoma: |
-    Mindaugas ryžosi atgauti Voluinės kunigaikščio Danieliaus užgrobtas žemes. Dabar karui vadovavo jau nebe svetimi kunigaikščiai, bet Mindaugo sūnus Vaišvilkas. Danielius buvo sumuštas ir priverstas taikintis (1255 m.). Sutartis buvo sustiprinta Mindaugo dukters ir Danieliaus sūnaus Švarno vedybomis. Danieliaus sūnui Romanui Mindaugas davė valdyti Naugarduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų
+    **Švarnas** Lietuvą valdė labai neilgai: vos vienerius metus
+      pavaldęs, jis mirė (1269 m.).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-002
+  santrauka: 'Lietuvą paliko savo sesers vyrui Švarnui.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lietuvą paliko savo sesers vyrui Švarnui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

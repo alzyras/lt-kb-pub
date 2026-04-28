@@ -1,73 +1,80 @@
 ---
 tipas: vieta
-pavadinimas: "Salynas"
-sukurta: "2026-04-18"
-variantai: 
-  - "Salyne"
-  - "Salynu"
-aliases: 
-  - "Salynas"
-  - "Salyne"
-  - "Salynu"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1413 m. sausio mėn."
-datos: 
-  - "1413 m. sausio mėn."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XV"
-date_start: "1413"
-date_end: "1413"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Salynas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - mūšis
+  - sutartis
+  - vieta
 ---
 # Salynas
 
 ## Santrauka
-Šaltinyje vieta „Salynas“ siejama su šiuo kontekstu: taikos susitikimo sala Nemune netoli dabartinės Kulautuvos. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Salynas
-- Šaltinyje fiksuotos formos: Salyne; Salynu
-
-## Laikotarpis ir datos
-- laikotarpis: 1413 m. sausio mėn.
-- datos: 1413 m. sausio mėn.
-- amziai: XV
-- date_start/date_end: 1413 / 1413
-
-## Kas tai
-- tipas: sala
-
-## Geografinis ir istorinis kontekstas
-- taikos susitikimo sala Nemune netoli dabartinės Kulautuvos. (t-001)
+Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pasirašymo vietos ir sutartis vadinama Salyno sutartim. Nemuno saloje, vadinamoje Salynu, Vytautas susitiko su ordino maršalka derėtis dėl išpirkimo ordino belaisvių, paimtų Tanenbergo mūšyje.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Salynas“ siejama su šiuo kontekstu: taikos susitikimo sala Nemune netoli dabartinės Kulautuvos."
+  teiginys: 'Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą).'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Nuo pasirašymo vietos ir sutartis vadinama Salyno sutartim.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Nemuno saloje, vadinamoje Salynu, Vytautas susitiko su ordino maršalka derėtis dėl išpirkimo ordino belaisvių, paimtų Tanenbergo mūšyje.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: taikos susitikimo sala Nemune netoli dabartinės Kulautuvos.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą).
-  citata_rodoma: ""
+    1398 m. buvo padarytas laikinis susitarimas, o kiek vėliau
+    įvyko iškilmingas Vytauto ir magistro susitikimas, kurio metu
+    buvo pasirašyta taikos sutartis. Susitikimas buvo Salyne (sala
+    Nemune, buvusi apie dabartinę Kulautuvą).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Nuo pasirašymo vietos ir sutartis vadinama Salyno sutartim.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Nuo pasirašymo vie-
+    tos ir sutartis vadinama Salyno sutartim.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Nemuno saloje, vadinamoje Salynu, Vytautas susitiko su ordino maršalka derėtis dėl išpirkimo ordino belaisvių, paimtų Tanenbergo mūšyje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    1413 m. sausio mėn. Nemuno saloje, vadinamoje Salynu, Vytautas susitiko su ordino maršalka derėtis dėl
+    išpirkimo ordino belaisvių, paimtų Tanenbergo mūšyje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/mūšis]]

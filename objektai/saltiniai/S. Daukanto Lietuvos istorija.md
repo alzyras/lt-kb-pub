@@ -1,73 +1,67 @@
 ---
 tipas: saltinis
-pavadinimas: "S. Daukanto Lietuvos istorija"
-sukurta: "2026-04-20"
-variantai: 
-  - "„Lietuvos istoriją\""
-  - "„Lietuvos istorija\" (2 t.)"
-aliases: 
-  - "S. Daukanto Lietuvos istorija"
-  - "„Lietuvos istoriją\""
-  - "„Lietuvos istorija\" (2 t.)"
+pavadinimas: S. Daukanto Lietuvos istorija
+sukurta: '2026-04-24'
+variantai:
+  - '„Lietuvos istoriją"'
+  - Daukanto Lietuvos istorija
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: 
-  - "knyga"
-laikotarpis: "2 t."
-datos: 
-  - "2 t."
-periodas: ""
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+laikotarpis: ''
+datos: []
+periodas: ''
 periodo_grupes: []
 amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: 
-  - "autorius"
-dalyviai: 
-  - "S. Daukantas"
+date_start: ''
+date_end: ''
+vaidmenys: []
+dalyviai: []
 susije_irasai: []
-patikimumas: "aukstas"
+patikimumas: ''
+tags: []
 ---
 # S. Daukanto Lietuvos istorija
 
-## Bibliografiniai duomenys
+## Santrauka
 
-- Pavadinimas: S. Daukanto Lietuvos istorija.
-- Formos šaltinyje: „Lietuvos istoriją"; „Lietuvos istorija" (2 t.).
-- Autorius / redaktorius: S. Daukantas.
-- Data / laikotarpis: 2 t..
-- Šaltinio rūšis: knyga.
+S. Daukanto „Lietuvos istorija“ minima tarp kelių jo parašytų istorijos veikalų. Toje pačioje citatoje nurodoma, kad šis darbas buvo dviejų tomų.
 
-## Turinys ir apimtis
+## Turinys ir pobūdis
 
-Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „S. Daukanto Lietuvos istorija“ siejamas su šiuo kontekstu: šaltinyje išvardijama ir Daukanto dviejų tomų Lietuvos istorija.
-
-## Ryšiai
-
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- Šaltinio pobūdis: istorijos veikalas.
+- Autorius: S. Daukantas.
+- Apimtis: 2 tomai.
+- Data: aiškiai nenurodyta.
 
 ## Teiginiai
-
 - t-001
-  teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „S. Daukanto Lietuvos istorija“ siejamas su šiuo kontekstu: šaltinyje išvardijama ir Daukanto dviejų tomų Lietuvos istorija."
+  teiginys: 'S. Daukantas parašė „Lietuvos istoriją“.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'S. Daukanto „Lietuvos istorija“ nurodoma kaip dviejų tomų veikalas.'
+  pagrindžia:
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
-## Reikšmingi paminėjimai
-
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: šaltinyje išvardijama ir Daukanto dviejų tomų Lietuvos istorija.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: Citata vienoje vietoje pateikia Daukanto darbų sąrašą ir pažymi, kad „Lietuvos istorija“ buvo dviejų tomų.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-      auklėtinio S. Daukanto, kuris parašė net kelis Lietuvos isto-
-      rijos veikalus („Darbus senovės lietuvių ir žemaičių", „Būdą senovės
-      lietuvių", „Lietuvos istoriją" — 2 t.).
-  citata_rodoma: ""
+    Tai buvo darbai Vilniaus universiteto
+    auklėtinio S. Daukanto, kuris parašė net kelis Lietuvos isto-
+    rijos veikalus („Darbus senovės lietuvių ir žemaičių", „Būdą senovės
+    lietuvių", „Lietuvos istoriją" — 2 t.).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pateikia šaltinio pavadinimą, bibliografinį įrašą arba aprašomą kontekstą."
+  patikimumo_pagrindimas: 'Pavadinimas bendrinis, tačiau citatoje jis aiškiai priskirtas S. Daukantui.'
   pagrindžia:
     - t-001
+    - t-002

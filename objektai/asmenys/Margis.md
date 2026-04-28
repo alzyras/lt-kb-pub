@@ -1,70 +1,42 @@
 ---
 tipas: asmuo
-pavadinimas: "Margis"
-sukurta: "2026-04-18"
-variantai: 
-  - "Margio"
-aliases: 
-  - "Margis"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1336 m."
-datos: 
-  - "1336 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XIV"
-date_start: "1336"
-date_end: "1336"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
+pavadinimas: 'Margis'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Margis
 
 ## Santrauka
-Šaltinyje Margis apibūdinamas taip: lietuviai, vadovaujami Margio, gindamiesi nuo vokiečių pasirenka žūtį ugnyje.
 
-## Variantai
-- Margio
-
-## Laikotarpis ir datos
-- laikotarpis: 1336 m.
-- datos: 1336 m.
-- periodas:
-- periodo_grupes:
-- amziai: XIV
-- date_start: 1336
-- date_end: 1336
+Kunigaikščio Margio vadovaujami lietuviai, kai matėsi nebeapsiginsią, bemeilijo žūti ugny, negu pasiduoti vokiečiams (1336 m.).
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Margis apibūdinamas taip: lietuviai, vadovaujami Margio, gindamiesi nuo vokiečių pasirenka žūtį ugnyje."
+  teiginys: 'Kunigaikščio Margio vadovaujami lietuviai, kai matėsi nebeapsiginsią, bemeilijo žūti ugny, negu pasiduoti vokiečiams (1336 m.).'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: lietuviai, vadovaujami Margio, gindamiesi nuo vokiečių pasirenka žūtį ugnyje.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Kunigaikščio Margio vadovaujami lietuviai, kai matėsi nebeapsiginsią, bemeilijo žūti ugny, negu pasiduoti vokiečiams (1336 m.).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Iš šito laikotarpio yra žinomas ir Pilėnų pilies gynimas.
     Kunigaikščio Margio vadovaujami lietuviai, kai matėsi nebeapsi-
-    ginsią, bemeilijo žūti ugny, negu pasiduoti vokiečiams (1336 m.).
-  citata_rodoma: |
-    Iš šito laikotarpio yra žinomas ir Pilėnų pilies gynimas. Kunigaikščio Margio vadovaujami lietuviai, kai matėsi nebeapsiginsią, bemeilijo žūti ugny, negu pasiduoti vokiečiams (1336 m.).
+      ginsią, bemeilijo žūti ugny, negu pasiduoti vokiečiams (1336 m.).
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/posakiai/Bemeilijo žūti ugny, negu pasiduoti vokiečiams]]

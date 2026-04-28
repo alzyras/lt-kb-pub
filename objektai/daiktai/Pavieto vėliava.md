@@ -1,75 +1,62 @@
 ---
 tipas: daiktas
-pavadinimas: "Pavieto vėliava"
-sukurta: "2026-04-18"
-variantai: 
-  - "pavieto vėliava"
-aliases: 
-  - "Pavieto vėliava"
-  - "pavieto vėliava"
+pavadinimas: 'Pavieto vėliava'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: 
-  - "simbolis"
-laikotarpis: "XVI amžius"
-datos: 
-  - "XVI amžius"
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XVI"
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - daiktas
+  - pilis
 ---
 # Pavieto vėliava
 
 ## Santrauka
-Šaltinyje „Pavieto vėliava“ pavieto vėliava veikia kaip mobilizacijos ir pavieto bajorijos sutelkimo ženklas.
 
-## Pavadinimai šaltiniuose
-- pavieto vėliava
-
-## Laikotarpis ir datos
-- laikotarpis: XVI amžius
-- datos: XVI amžius
-- periodas:
-- periodo_grupes:
-- amziai: XVI
-- date_start:
-- date_end:
-
-## Kas tai
-Šaltinyje „Pavieto vėliava“ pavieto vėliava veikia kaip mobilizacijos ir pavieto bajorijos sutelkimo ženklas.
+Po jo ėjo pakamorė, sprendęs žemės ribų bylas, ir vėliavininkas, kurs, bajorijai einant į karą, nešdavo pavieto vėliavą. Pašauktas į karą, kiekvienas bajoras turėdavo stoti po savo pavieto vėliava, kurią nešdavo pavieto vėliavininkas.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Pavieto vėliava“ pavieto vėliava veikia kaip mobilizacijos ir pavieto bajorijos sutelkimo ženklas."
+  teiginys: 'Po jo ėjo pakamorė, sprendęs žemės ribų bylas, ir vėliavininkas, kurs, bajorijai einant į karą, nešdavo pavieto vėliavą.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Pašauktas į karą, kiekvienas bajoras turėdavo stoti po savo pavieto vėliava, kurią nešdavo pavieto vėliavininkas.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Tekste pavieto vėliava veikia kaip mobilizacijos ir pavieto bajorijos sutelkimo ženklas.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Po jo ėjo pakamorė, sprendęs žemės ribų bylas, ir vėliavininkas, kurs, bajorijai einant į karą, nešdavo pavieto vėliavą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pašauktas į karą, kiekvienas bajoras turėdavo stoti po savo
-    pavieto vėliava, kurią nešdavo pavieto vėliavininkas. Jis
-    nuvesdavo pavieto bajoriją pas vaivadą, o šis ją pavesdavo het-
-    mono žiniai.
-  citata_rodoma: |
-    Pašauktas į karą, kiekvienas bajoras turėdavo stoti po savo pavieto vėliava, kurią nešdavo pavieto vėliavininkas. Jis nuvesdavo pavieto bajoriją pas vaivadą, o šis ją pavesdavo hetmono žiniai.
+    Dažna vaivadija buvo dar suskaldyta į pavietus (žiūr. 233
+      psl.). Juose vyriausiuoju urėdu buvo seniūnas, kuris, val-
+      dydamas tam tikrus valstybės dvarus, buvo ir pavietinio pilies
+      teismo pirmininkas. Po jo ėjo pakamorė, sprendęs žemės
+      ribų bylas, ir vėliavininkas, kurs, bajorijai einant į karą,
+      nešdavo pavieto vėliavą.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo daiktą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-002
+  santrauka: 'Pašauktas į karą, kiekvienas bajoras turėdavo stoti po savo pavieto vėliava, kurią nešdavo pavieto vėliavininkas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pašauktas į karą, kiekvienas bajoras turėdavo stoti po savo
+      pavieto vėliava, kurią nešdavo pavieto vėliavininkas. Jis
+      nuvesdavo pavieto bajoriją pas vaivadą, o šis ją pavesdavo het-
+      mono žiniai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

@@ -1,60 +1,42 @@
 ---
 tipas: autorius
-pavadinimas: "M. Liubavski"
-sukurta: "2026-04-18"
+pavadinimas: 'M. Liubavski'
+sukurta: '2026-04-25'
 variantai: []
-aliases: 
-  - "M. Liubavski"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: 
-  - "autorius"
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: 
-  - "autorius"
-dalyviai: 
-  - "M. Liubavski"
-susije_irasai: []
-patikimumas: "vidutinis"
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - autorius
 ---
 # M. Liubavski
 
 ## Santrauka
-Šaltinyje M. Liubavski minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip bendros Lietuvos istorijos veikalo autorius.
 
-## Darbai
-- Bibliografijoje nurodytas kaip bendros Lietuvos istorijos veikalo autorius. (t-001)
-
-## Kontekstas
-- Bibliografinė eilutė tiesiogiai įvardija Liubavskį kaip veikalo autorių. (c-001)
+Liubavski, Očerk istorii litovsko-russkago gosudarstva do liublinskoj unii vkliučitelno (1910; dalį to veikalo į liet.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje M. Liubavski autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip bendros Lietuvos istorijos veikalo autorius."
+  teiginys: 'Liubavski, Očerk istorii litovsko-russkago gosudarstva do liublinskoj unii vkliučitelno (1910; dalį to veikalo į liet.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Bibliografijoje nurodytas kaip bendros Lietuvos istorijos veikalo autorius.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Liubavski, Očerk istorii litovsko-russkago gosudarstva do liublinskoj unii vkliučitelno (1910; dalį to veikalo į liet.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _M. Liubavski,_ Očerk istorii litovsko-russkago gosudarstva do liublinskoj unii
     vkliučitelno (1910; dalį to veikalo į liet. kalbą yra išvertęs _Sondeckis);
-  citata_rodoma: |
-    M. Liubavski, Očerk istorii litovsko-russkago gosudarstva do liublinskoj unii vkliučitelno (1910; dalį to veikalo į liet. kalbą yra išvertęs Sondeckis);
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Bibliografinė eilutė tiesiogiai įvardija Liubavskį kaip veikalo autorių."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Sondeckis]]

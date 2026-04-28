@@ -1,60 +1,40 @@
 ---
 tipas: asmuo
-pavadinimas: "Adomas Čartoriskis"
-sukurta: "2026-04-18"
-variantai: 
-  - "Ad. Čartoriskis"
-aliases: 
-  - "Adomas Čartoriskis"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Adomas Čartoriskis'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Adomas Čartoriskis
 
 ## Santrauka
-Šaltinyje Adomas Čartoriskis apibūdinamas taip: Minimas kaip vienas pagrindinių kandidatų į sostą ir Rusų vaivados Augusto sūnus.
 
-## Variantai
-- Ad. Čartoriskis
+Atrodė, jog daugiausia šansų turi Adomas Čartoriskis (Rusų vaivados Augusto sūnus).
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Adomas Čartoriskis apibūdinamas taip: Minimas kaip vienas pagrindinių kandidatų į sostą ir Rusų vaivados Augusto sūnus."
+  teiginys: 'Atrodė, jog daugiausia šansų turi Adomas Čartoriskis (Rusų vaivados Augusto sūnus).'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip vienas pagrindinių kandidatų į sostą ir Rusų vaivados Augusto sūnus.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Atrodė, jog daugiausia šansų turi Adomas Čartoriskis (Rusų vaivados Augusto sūnus).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Atrodė, jog daugiausia
-    šansų turi Adomas Čar-
-    toriskis (Rusų vaivados
-    Augusto sūnus).
-  citata_rodoma: |
-    Atrodė, jog daugiausia šansų turi Adomas Čartoriskis (Rusų vaivados Augusto sūnus).
+      šansų turi Adomas Čar-
+      toriskis (Rusų vaivados
+      Augusto sūnus).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: stable_title
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

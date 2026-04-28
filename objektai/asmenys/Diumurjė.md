@@ -1,63 +1,53 @@
 ---
 tipas: asmuo
-pavadinimas: "Diumurjė"
-sukurta: "2026-04-18"
-variantai: 
-  - "Du Mouriez"
-aliases: 
-  - "Diumurjė"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
+pavadinimas: 'Diumurjė'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
+  - pinigai
 ---
 # Diumurjė
 
 ## Santrauka
-Šaltinyje Diumurjė apibūdinamas taip: Minimas kaip Prancūzijos atsiųstas generolas, bandęs pertvarkyti partizaninį karą į reguliarų.
 
-## Variantai
-- Du Mouriez
+Prancūzija net davė pinigų ir atsiuntė karui vadovauti karininkų; jų vyriausiasis buvo vėliau Prancūzų revoliucijos metu labai pasižymėjęs generolas Diumurjė (Du - mouriez).
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Diumurjė apibūdinamas taip: Minimas kaip Prancūzijos atsiųstas generolas, bandęs pertvarkyti partizaninį karą į reguliarų."
+  teiginys: 'Prancūzija net davė pinigų ir atsiuntė karui vadovauti karininkų; jų vyriausiasis buvo vėliau Prancūzų revoliucijos metu labai pasižymėjęs generolas Diumurjė (Du - mouriez).'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip Prancūzijos atsiųstas generolas, bandęs pertvarkyti partizaninį karą į reguliarų.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Prancūzija net davė pinigų ir atsiuntė karui vadovauti karininkų; jų vyriausiasis buvo vėliau Prancūzų revoliucijos metu labai pasižymėjęs generolas Diumurjė (Du - mouriez).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Prancūzija net
-    davė pinigų ir atsiuntė karui va-
-    dovauti karininkų; jų vyriau-
-    siasis buvo vėliau Prancūzų re-
-    voliucijos metu labai pasižymė-
-    jęs generolas Diumurjė _(Du_ -
-    _mouriez)._
-  citata_rodoma: |
-    Prancūzija net davė pinigų ir atsiuntė karui vadovauti karininkų; jų vyriausiasis buvo vėliau Prancūzų revoliucijos metu labai pasižymėjęs generolas Diumurjė (Du - mouriez).
+      davė pinigų ir atsiuntė karui va-
+      dovauti karininkų; jų vyriau-
+      siasis buvo vėliau Prancūzų re-
+      voliucijos metu labai pasižymė-
+      jęs generolas Diumurjė _(Du_ -
+      _mouriez)._ Netvarkingas partiza-
+      niškas kovas jis bandė perorga-
+      nizuoti į reguliarų karą, bet jam
+      nepasisekė, nes patys konfedera-
+      tų vadai tarp savęs nesutiko, jie
+      visi norėjo būti pirmaisiais ir
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/pinigai]]

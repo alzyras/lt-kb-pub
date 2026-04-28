@@ -1,80 +1,49 @@
 ---
 tipas: grupe
-pavadinimas: "Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimas"
-sukurta: "2026-04-18"
-variantai: 
-  - "Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimą"
-aliases: 
-  - "Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimas"
-  - "Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimą"
+pavadinimas: 'Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1912 m."
-datos: 
-  - "1912 m."
-periodas: "naujieji_laikai"
-periodo_grupes: []
-amziai: 
-  - "XX"
-date_start: "1912"
-date_end: "1912"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - grupe
 ---
 # Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimas
 
 ## Santrauka
-Šaltinyje „Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimas“ apibūdinama kaip susivienijimas; 1912 m. Čikagoje įkurtas katalikiškų moksleivių susivienijimas. (t-001)
 
-## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimas
-- Šaltinyje fiksuotos formos: Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimą
-
-## Laikotarpis ir datos
-- laikotarpis: 1912 m.
-- datos: 1912 m.
-- periodas: naujieji_laikai
-- periodo_grupes: 
-- amziai: XX
-- date_start: 1912
-- date_end: 1912
-
-## Kas tai
-- tipas: susivienijimas
-Šaltinyje „Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimas“ apibūdinama kaip susivienijimas; 1912 m. Čikagoje įkurtas katalikiškų moksleivių susivienijimas. (t-001)
-
-## Sudėtis ir vaidmuo
-- Šaltinyje „Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimas“ apibūdinama kaip susivienijimas; 1912 m. Čikagoje įkurtas katalikiškų moksleivių susivienijimas. (t-001)
+1912 m. F-ja sušaukė Čikagoje pirmąjį lietuvių moksleivių suvažiavimą ir įkūrė Amerikos Lietuvių R.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimas“ apibūdinama kaip susivienijimas; 1912 m. Čikagoje įkurtas katalikiškų moksleivių susivienijimas."
+  teiginys: '1912 m. F-ja sušaukė Čikagoje pirmąjį lietuvių moksleivių suvažiavimą ir įkūrė Amerikos Lietuvių R.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 1912 m. Čikagoje įkurtas katalikiškų moksleivių susivienijimas.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: '1912 m. F-ja sušaukė Čikagoje pirmąjį lietuvių moksleivių suvažiavimą ir įkūrė Amerikos Lietuvių R.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1912 m. F-ja sušaukė Čikagoje pirmąjį
     lietuvių moksleivių suvažiavimą ir įkūrė Amerikos Lietu-
     vių R. Katalikų Moksleivių Susivienijimą (to
     Susivienijimo nariai, nuo savo organo „Giedros", buvo vadi-
-    nami giedrininkais).
-  citata_rodoma: |
-    1912 m. F-ja sušaukė Čikagoje pirmąjį lietuvių moksleivių suvažiavimą ir įkūrė Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimą (to Susivienijimo nariai, nuo savo organo „Giedros", buvo vadinami giedrininkais).
+    nami giedrininkais). Karo metu ta organizacija pakriko; jos sky-
+    riai atskirose vietose dar tebeveikia, bet pats centras išnyko. Ne-
+    maža katalikų jaunimo Federacija suorganizavo ir Lietuvos Vy-
+    čių Sąjungoje (tai maždaug, kaip Lietuvoje pavasarinin-
+    kai); ji turi apie 100 kuopų ir leidžia savo laikraštį „Vytį".
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/grupes/Lietuvos Vyčių Sąjunga]]

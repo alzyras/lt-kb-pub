@@ -1,60 +1,65 @@
 ---
 tipas: asmuo
-pavadinimas: "Zaviša"
-sukurta: "2026-04-18"
-variantai: 
-  - "Zavišą"
-aliases: 
-  - "Zaviša"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Zaviša'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
+  - valdovas
 ---
 # Zaviša
 
 ## Santrauka
-Šaltinyje Zaviša apibūdinamas taip: Jadvygos pasiųstas ištikimas bajoras, tikrinęs Jogailos išvaizdą.
 
-## Variantai
-- Zavišą
+Zaviša grįžęs ją nuramino, pranešęs, kad Jogaila nesąs joks baidyklė, o vyras kaip reikiant: gražus, linksmas, vidutinio ūgio, pailgo, taisyklingų bruožų veido ir tikrai didelio valdovo išvaizdos. Jadvyga pasiuntė savo ištikimą bajorą Zavišą apžiūrėti, kaip jis atrodo.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Zaviša apibūdinamas taip: Jadvygos pasiųstas ištikimas bajoras, tikrinęs Jogailos išvaizdą."
+  teiginys: 'Zaviša grįžęs ją nuramino, pranešęs, kad Jogaila nesąs joks baidyklė, o vyras kaip reikiant: gražus, linksmas, vidutinio ūgio, pailgo, taisyklingų bruožų veido ir tikrai didelio valdovo išvaizdos.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Jadvyga pasiuntė savo ištikimą bajorą Zavišą apžiūrėti, kaip jis atrodo.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Jadvygos pasiųstas ištikimas bajoras, tikrinęs Jogailos išvaizdą.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Zaviša grįžęs ją nuramino, pranešęs, kad Jogaila nesąs joks baidyklė, o vyras kaip reikiant: gražus, linksmas, vidutinio ūgio, pailgo, taisyklingų bruožų veido ir tikrai didelio valdovo išvaizdos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jadvyga pasiuntė savo ištikimą bajorą Zavišą apžiūrėti, kaip jis
-    atrodo. Zaviša grįžęs ją nuramino, pranešęs, kad Jogaila nesąs
-    joks baidyklė, o vyras kaip reikiant: gražus, linksmas, vidutinio
-    ūgio, pailgo, taisyklingų bruožų veido ir tikrai didelio valdovo
-    išvaizdos.
-  citata_rodoma: ""
+    Zaviša grįžęs ją nuramino, pranešęs, kad Jogaila nesąs
+      joks baidyklė, o vyras kaip reikiant: gražus, linksmas, vidutinio
+      ūgio, pailgo, taisyklingų bruožų veido ir tikrai didelio valdovo
+      išvaizdos.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Jadvyga pasiuntė savo ištikimą bajorą Zavišą apžiūrėti, kaip jis atrodo.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Jadvyga pasiuntė savo ištikimą bajorą Zavišą apžiūrėti, kaip jis
+      atrodo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/valdovas]]
+
+### Susiję objektai
+- [[objektai/posakiai/vyras kaip reikiant]]

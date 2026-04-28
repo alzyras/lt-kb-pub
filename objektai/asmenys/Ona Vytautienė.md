@@ -1,74 +1,65 @@
 ---
 tipas: asmuo
-pavadinimas: "Ona Vytautienė"
-sukurta: "2026-04-18"
-variantai: 
-  - "Onos Vytautienės"
-  - "kunig. Ona"
-  - "kunigaikštienė Ona"
-aliases: 
-  - "Ona Vytautienė"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1392 m. rugpiūčio 5 d."
-datos: 
-  - "1392 m. rugpiūčio 5 d."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XIV"
-date_start: "1392"
-date_end: "1392"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Ona Vytautienė'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
+  - dokumentas
 ---
 # Ona Vytautienė
 
 ## Santrauka
-Šaltinyje Ona Vytautienė apibūdinamas taip: Minima kaip kunigaikštienė Ona, kurios vardu rašytas Astravos dokumentas.
 
-## Variantai
-- Onos Vytautienės
-- kunig. Ona
-- kunigaikštienė Ona
-
-## Laikotarpis ir datos
-- laikotarpis: 1392 m. rugpiūčio 5 d.
-- datos: 1392 m. rugpiūčio 5 d.
-- periodas:
-- periodo_grupes:
-- amziai: XIV
-- date_start: 1392
-- date_end: 1392
+Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpiūčio 5 d.). Ona Vytautienė ir sugalvojo būdą pabėgti.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Ona Vytautienė apibūdinamas taip: Minima kaip kunigaikštienė Ona, kurios vardu rašytas Astravos dokumentas."
+  teiginys: 'Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpiūčio 5 d.).'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Ona Vytautienė ir sugalvojo būdą pabėgti.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minima kaip kunigaikštienė Ona, kurios vardu rašytas Astravos dokumentas.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpiūčio 5 d.).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **III. Onos Vytautienės raštas Jadvygai Jogailienei** (rašytas Astravoje
-    1392 m. rugpiūčio 5 d.). Tai yra dokumentas, kuriuo kunigaikštienė Ona
-    laidavo Jadvygai, kad Vytautas nesulaužys Astravoje priimtų taikos sąlygų.
-  citata_rodoma: |
-    III. Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpiūčio 5 d.). Tai yra dokumentas, kuriuo kunigaikštienė Ona laidavo Jadvygai, kad Vytautas nesulaužys Astravoje priimtų taikos sąlygų.
+      1392 m. rugpiūčio 5 d.). Tai yra dokumentas, kuriuo kunigaikštienė Ona
+      laidavo Jadvygai, kad Vytautas nesulaužys Astravoje priimtų taikos sąlygų.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Ona Vytautienė ir sugalvojo būdą pabėgti.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Jį čia galėjo lankyti žmona Ona, su kuria jis ir sugalvojo
+      būdą pabėgti. Tam tikslui pasiaukojo jų tarnaitė, kuri atvyk-
+      davo drauge su Ona pas Vytautą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/dokumentas]]
+
+### Susiję objektai
+- [[objektai/asmenys/Jadvyga Jogailienė]]

@@ -1,74 +1,57 @@
 ---
 tipas: vieta
-pavadinimas: "Praha"
-sukurta: "2026-04-18"
-variantai: 
-  - "Prahos"
-aliases: 
-  - "Praha"
-  - "Prahos"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1358 m."
-datos: 
-  - "1358 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XIV"
-date_start: "1358"
-date_end: "1358"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Praha'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
+  - vyskupas
 ---
 # Praha
 
 ## Santrauka
-Šaltinyje vieta „Praha“ siejama su šiuo kontekstu: Minima kaip arkivyskupo Ernesto vadovaujamos delegacijos kilmės vieta. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Praha
-- Šaltinyje fiksuotos formos: Prahos
-
-## Laikotarpis ir datos
-- laikotarpis: 1358 m.
-- datos: 1358 m.
-- amziai: XIV
-- date_start/date_end: 1358 / 1358
-
-## Kas tai
-- tipas: miestas
-
-## Geografinis ir istorinis kontekstas
-- Minima kaip arkivyskupo Ernesto vadovaujamos delegacijos kilmės vieta. (t-001)
+Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatorius išsiuntė į Lietuvą savo delegaciją, Prahos arkivyskupo Ernesto vadovaujamą.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Praha“ siejama su šiuo kontekstu: Minima kaip arkivyskupo Ernesto vadovaujamos delegacijos kilmės vieta."
+  teiginys: 'Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Tada imperatorius išsiuntė į Lietuvą savo delegaciją, Prahos arkivyskupo Ernesto vadovaujamą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minima kaip arkivyskupo Ernesto vadovaujamos delegacijos kilmės vieta.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv.
+    _Vaitiekus,_ arba _Adalbertas._ Jis buvo aukštos kilmės čekas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Tada imperatorius išsiuntė į Lietuvą savo delegaciją, Prahos arkivyskupo Ernesto vadovaujamą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tada imperatorius išsiuntė
     į Lietuvą savo delegaciją, Prahos arkivyskupo Ernesto vado-
-    vaujamą. Ji turėjo baigti derybas dėl krikšto.
-  citata_rodoma: |
-    Tada imperatorius išsiuntė į Lietuvą savo delegaciją, Prahos arkivyskupo Ernesto vadovaujamą. Ji turėjo baigti derybas dėl krikšto.
+    vaujamą.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+    - t-002

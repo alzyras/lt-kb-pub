@@ -1,62 +1,43 @@
 ---
 tipas: ivykis
-pavadinimas: "Pirmasis naujokų šaukimas į Lietuvos kariuomenę (1919 m. kovo 5 d.)"
-sukurta: "2026-04-18"
+pavadinimas: 'Pirmasis naujokų šaukimas į Lietuvos kariuomenę (1919 m. kovo 5 d.)'
+sukurta: '2026-04-25'
 variantai: []
 aliases: []
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: 
-  - "politinis-sprendimas"
-laikotarpis: "1919 m. kovo mėn. 5 d."
-datos: 
-  - "1919 m. kovo mėn. 5 d."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XX"
-date_start: "1919"
-date_end: "1919"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - ivykis
 ---
 # Pirmasis naujokų šaukimas į Lietuvos kariuomenę (1919 m. kovo 5 d.)
 
 ## Santrauka
 
-Paskelbtas pirmasis naujokų šaukimas į nepriklausomos Lietuvos kariuomenę. (t-001)
-
-## Laikotarpis ir datos
-
-- laikotarpis: 1919 m. kovo mėn. 5 d. (t-001)
-- datos: 1919 m. kovo mėn. 5 d. (t-001)
-- amziai: XX (t-001)
-- date_start/date_end: 1919 / 1919 (t-001)
+Pirmasis naujokų šaukimas į nepriklausomosios Lietuvos kariuomenę buvo paskelbtas tik 1919 m. kovo mėn.
 
 ## Teiginiai
-
 - t-001
-  teiginys: "Paskelbtas pirmasis naujokų šaukimas į nepriklausomos Lietuvos kariuomenę."
+  teiginys: 'Pirmasis naujokų šaukimas į nepriklausomosios Lietuvos kariuomenę buvo paskelbtas tik 1919 m. kovo mėn.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: Paskelbtas pirmasis naujokų šaukimas į nepriklausomos Lietuvos kariuomenę.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Pirmasis naujokų šaukimas į nepriklausomosios Lietuvos kariuomenę buvo paskelbtas tik 1919 m. kovo mėn.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmasis naujokų šaukimas į nepriklausomosios
     Lietuvos kariuomenę buvo paskelbtas tik 1919 m. kovo mėn.
     5 d. Visos pirmosios kariuomenės dalys buvo savanorių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia teiginį šaltinio tekste."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]

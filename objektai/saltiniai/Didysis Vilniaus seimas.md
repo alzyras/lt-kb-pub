@@ -1,71 +1,37 @@
 ---
 tipas: saltinis
-pavadinimas: "Didysis Vilniaus seimas"
-sukurta: "2026-04-20"
-variantai: 
-  - "pirminė bibliografinė forma"
-aliases: 
-  - "Didysis Vilniaus seimas"
-  - "pirminė bibliografinė forma"
+pavadinimas: 'Didysis Vilniaus seimas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: 
-  - "knyga"
-laikotarpis: "Žid. 1931, N.N. 1, 2, 4"
-datos: 
-  - "Žid. 1931, N.N. 1, 2, 4"
-periodas: "siuolaikine_istorija"
-periodo_grupes: []
-amziai: 
-  - "XX"
-date_start: "1931"
-date_end: "1931"
-vaidmenys: 
-  - "autorius"
-dalyviai: 
-  - "Pr. _Klimaitis"
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - saltinis
 ---
 # Didysis Vilniaus seimas
 
-## Bibliografiniai duomenys
+## Santrauka
 
-- Pavadinimas: Didysis Vilniaus seimas.
-- Formos šaltinyje: pirminė bibliografinė forma.
-- Autorius / redaktorius: Pr. _Klimaitis.
-- Data / laikotarpis: Žid. 1931, N.N. 1, 2, 4.
-- Šaltinio rūšis: mokslinis veikalas.
-
-## Turinys ir apimtis
-
-Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Didysis Vilniaus seimas“ pateikiamas kaip bibliografinis arba turinio sąrašo paminėjimas.
-
-## Ryšiai
-
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+Klimaitis, Didysis Vilniaus seimas (Žid. 1931, N.N.
 
 ## Teiginiai
-
 - t-001
-  teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Didysis Vilniaus seimas“ pateikiamas kaip bibliografinis arba turinio sąrašo paminėjimas."
+  teiginys: 'Klimaitis, Didysis Vilniaus seimas (Žid. 1931, N.N.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
-## Bibliografiniai įrodymai
-
+## Reikšmingi paminėjimai
 - c-001
-  santrauka: Šaltinis šioje bibliografinėje apžvalgoje minimas skyriaus „XXIX. Rusifikacija ir atgimimas“ sąraše.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Klimaitis, Didysis Vilniaus seimas (Žid. 1931, N.N.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-      Pr. _Klimaitis,_ Didysis
-    Vilniaus seimas (Žid. 1931, N.N. 1, 2, 4)
-  citata_rodoma: ""
+    Pr. _Klimaitis,_ Didysis Vilniaus seimas (Žid. 1931, N.N. 1, 2, 4);
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pateikia šaltinio pavadinimą, bibliografinį įrašą arba aprašomą kontekstą."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001

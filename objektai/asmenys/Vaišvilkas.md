@@ -1,57 +1,113 @@
 ---
 tipas: asmuo
-pavadinimas: "Vaišvilkas"
-sukurta: "2026-04-18"
+pavadinimas: 'Vaišvilkas'
+sukurta: '2026-04-25'
 variantai: []
-aliases: 
-  - "Vaišvilkas"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Vaišvilkas
 
 ## Santrauka
-Šaltinyje Vaišvilkas apibūdinamas taip: Mindaugo sūnus, kuriam perleistas karo vadovavimas ir kuris vėliau išvyko į Graikiją.
+
+Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į svečius ir nužudė. Bet Vaišvilkas neilgai tevaldė. Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsigyveno Pinske.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Vaišvilkas apibūdinamas taip: Mindaugo sūnus, kuriam perleistas karo vadovavimas ir kuris vėliau išvyko į Graikiją."
+  teiginys: 'Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į svečius ir nužudė.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Bet Vaišvilkas neilgai tevaldė.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsigyveno Pinske.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Pagaliau po taikos su Voluine Vaišvilkas išvyko į Graikiją ir įstojo į vienuolyną.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Vaišvilkas atsisakė nuo sosto ir vėl sugrįžo į vienuolyną.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Mindaugo sūnus, kuriam perleistas karo vadovavimas ir kuris vėliau išvyko į Graikiją.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į svečius ir nužudė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jis turėjo tris sūnus, kurių du jaunesnieji,
-    Ruklys ir Rupeikis, buvo pakrikštyti katalikais kartu
-    su Mindaugu, o vyresnysis sūnus Vaišvilkas; santykiaudamas
-    su Voluinės kunigaikščiais, krikštijosi rytų Bažnyčios apeigomis.
-    Pagaliau po taikos su Voluine Vaišvilkas išvyko į Graikiją
-    ir įstojo į vienuolyną. Iki tėvo mirties jis nebegrįžo į Lietuvą.
-  citata_rodoma: ""
+    Lietuvą paliko savo sesers
+      vyrui Švarnui. Tuo tarpu buvo svajojęs gauti Lietuvą val-
+      dyti Vladimiro (Voluinėje) kunigaikštis Levas. Supykęs ant
+      Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į sve-
+      čius ir nužudė.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Bet Vaišvilkas neilgai tevaldė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet Vaišvilkas neilgai tevaldė. Po trejų metų jis atsisakė
+      nuo sosto ir vėl sugrįžo į vienuolyną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsigyveno Pinske.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Mindaugui žuvus, Vaišvilkas
+      buvo Graikijoj, bet veikiai po to grįžo ir apsigyveno Pinske.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Pagaliau po taikos su Voluine Vaišvilkas išvyko į Graikiją ir įstojo į vienuolyną.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pagaliau po taikos su Voluine Vaišvilkas išvyko į Graikiją
+      ir įstojo į vienuolyną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Vaišvilkas atsisakė nuo sosto ir vėl sugrįžo į vienuolyną.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Po trejų metų jis atsisakė
+      nuo sosto ir vėl sugrįžo į vienuolyną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/vietos/Pinskas]]

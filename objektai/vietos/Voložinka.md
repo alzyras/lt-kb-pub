@@ -1,78 +1,47 @@
 ---
 tipas: vieta
-pavadinimas: "Voložinka"
-sukurta: "2026-04-18"
-variantai: 
-  - "Voložinkos"
-aliases: 
-  - "Voložinka"
-  - "Voložinkos"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1920 m. liepos 12 d."
-datos: 
-  - "1920 m. liepos 12 d."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XX"
-date_start: "1920"
-date_end: "1920"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Voložinka'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'žemas'
+tags:
+  - miestas
+  - upė
+  - vieta
 ---
 # Voložinka
 
 ## Santrauka
-Šaltinyje vieta „Voložinka“ siejama su šiuo kontekstu: Minima rytinės sienos linijos apraše. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Voložinka
-- Šaltinyje fiksuotos formos: Voložinkos
-
-## Laikotarpis ir datos
-- laikotarpis: 1920 m. liepos 12 d.
-- datos: 1920 m. liepos 12 d.
-- amziai: XX
-- date_start/date_end: 1920 / 1920
-
-## Kas tai
-- tipas: upė
-
-## Geografinis ir istorinis kontekstas
-- Minima rytinės sienos linijos apraše. (t-001)
+miestą, Voložinkos, Isločės ir Beržūnės upėmis, paskum Nemunu,.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Voložinka“ siejama su šiuo kontekstu: Minima rytinės sienos linijos apraše."
+  teiginys: 'miestą, Voložinkos, Isločės ir Beržūnės upėmis, paskum Nemunu,.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minima rytinės sienos linijos apraše.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'miestą, Voložinkos, Isločės ir Beržūnės upėmis, paskum Nemunu,.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Dauguvos upe, ji ėjo ties Šafranovo dvaru, toliau Drujos upe, per
-    Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe ir per to pat vardo
-    ežerą, per Miastros ežerą, Bliados ežero rytų šonu, Naračios upe,
-    toliau Ušos ir Buchovkos upėmis, per Modolečną, pro Voložino
     miestą, Voložinkos, Isločės ir Beržūnės upėmis, paskum Nemunu,
-    Svisločės intaku, Lašos upe, pro Induros miestelį, Induros upe, toliau
-    pro Sidros miestelį, Kamenos upe ir pagaliau Gorodniankos upe ligi
-    Bobro upės.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: žemas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/upė]]
+
+### Susiję objektai
+- [[objektai/vietos/Beržūnė]]
+- [[objektai/vietos/Isločė]]

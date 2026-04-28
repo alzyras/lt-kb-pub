@@ -1,109 +1,41 @@
 ---
 tipas: vieta
-pavadinimas: "Tanenbergas"
-sukurta: "2026-04-18"
-variantai: 
-  - "Tanenbergo"
-aliases: 
-  - "Tanenbergas"
-  - "Tanenbergo"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1410 m.; 1410 m. liepos 15 d."
-datos: 
-  - "1410 m."
-  - "1410 m. liepos 15 d."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XV"
-date_start: "1410"
-date_end: "1410"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Tanenbergas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
 ---
 # Tanenbergas
 
 ## Santrauka
-Šaltinyje vieta „Tanenbergas“ siejama su šiais kontekstais: mūšio vieta ordino žemėje; Minimas kaip pagrindinė Tanenbergo mūšio vieta. (t-001, t-002)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Tanenbergas
-- Šaltinyje fiksuotos formos: Tanenbergo
-
-## Laikotarpis ir datos
-- laikotarpis: 1410 m.; 1410 m. liepos 15 d.
-- datos: 1410 m.; 1410 m. liepos 15 d.
-- amziai: XV
-- date_start/date_end: 1410 / 1410
-
-## Kas tai
-- tipas: mūšio vieta
-
-## Geografinis ir istorinis kontekstas
-- mūšio vieta ordino žemėje. (t-001)
-- Minimas kaip pagrindinė Tanenbergo mūšio vieta. (t-002)
+Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (žiūr.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Tanenbergas“ siejama su šiuo kontekstu: mūšio vieta ordino žemėje."
+  teiginys: 'Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (žiūr.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
-- t-002
-  teiginys: "Šaltinyje vieta „Tanenbergas“ siejama su šiuo kontekstu: Minimas kaip pagrindinė Tanenbergo mūšio vieta."
-  pagrindžia:
-    - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: mūšio vieta ordino žemėje.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (žiūr.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Surinkę savo jė-
-    gas ir prisisamdę Vakaruose daug karių, ypač čekų, Jogaila su
-    Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Čer-
-    vinsku (prie Vyslos). Viskas buvo daroma taip slaptai, kad
-    ordinas nieko nesuuodė ir laukė užpuolimų skyrium iš Lietuvos
-    ir iš Lenkijos. Todėl vienas dideles savo jėgas jis paliko sau-
-    goti pilių nuo Lietuvos, o kitas paliko Pamary saugoti nuo Len-
-    kų. Bet sąjungininkų planas buvo kitoks. Mūšis įvyko ordino
-    žemėje, tarp Tanenbergo ir Griunvaldo.
-  citata_rodoma: |
-    Surinkę savo jėgas ir prisisamdę Vakaruose daug karių, ypač čekų, Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (prie Vyslos). Viskas buvo daroma taip slaptai, kad ordinas nieko nesuuodė ir laukė užpuolimų skyrium iš Lietuvos ir iš Lenkijos. Todėl vienas dideles savo jėgas jis paliko saugoti pilių nuo Lietuvos, o kitas paliko Pamary saugoti nuo Lenkų. Bet sąjungininkų planas buvo kitoks. Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
+    Ordino siena su Lietuva nusistojo tik po Tanenbergo mū-
+    šio ir Torno taikos (žiūr. 129 psl.). Tada jau išnyko ir nuola-
+    tiniai savitarpio puolimai; tiesa, po to dar buvo keletas karų,
+    bet jau kitokio pobūdžio: tai buvo paprasti dviejų valstybių
+    karai, o ne krašto teriojimas.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-002
-  santrauka: Minimas kaip pagrindinė Tanenbergo mūšio vieta.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata_originali: |
-    **Tanenbergo mūšis 1410 m. liepos 15 d.** Surinkę savo jė-
-    gas ir prisisamdę Vakaruose daug karių, ypač čekų, Jogaila su
-    Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Čer-
-    vinsku (prie Vyslos). Viskas buvo daroma taip slaptai, kad
-    ordinas nieko nesuuodė ir laukė užpuolimų skyrium iš Lietuvos
-    ir iš Lenkijos. Todėl vienas dideles savo jėgas jis paliko sau-
-    goti pilių nuo Lietuvos, o kitas paliko Pamary saugoti nuo Len-
-    kų. Bet sąjungininkų planas buvo kitoks. Mūšis įvyko ordino
-    žemėje, tarp Tanenbergo ir Griunvaldo.
-  citata_rodoma: |
-    Tanenbergo mūšis 1410 m. liepos 15 d. Surinkę savo jėgas ir prisisamdę Vakaruose daug karių, ypač čekų, Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (prie Vyslos). Viskas buvo daroma taip slaptai, kad ordinas nieko nesuuodė ir laukė užpuolimų skyrium iš Lietuvos ir iš Lenkijos. Todėl vienas dideles savo jėgas jis paliko saugoti pilių nuo Lietuvos, o kitas paliko Pamary saugoti nuo Lenkų. Bet sąjungininkų planas buvo kitoks. Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
-  pagrindžia:
-    - t-002
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

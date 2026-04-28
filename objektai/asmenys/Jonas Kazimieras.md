@@ -1,89 +1,171 @@
 ---
 tipas: asmuo
-pavadinimas: "Jonas Kazimieras"
-sukurta: "2026-04-18"
-variantai: 
-  - "Jono Kazimiero"
-aliases: 
-  - "Jonas Kazimieras"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1648–1668 m."
-datos: 
-  - "1648–1668 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XVII"
-date_start: "1648"
-date_end: "1668"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Jonas Kazimieras'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
+  - pinigai
 ---
 # Jonas Kazimieras
 
 ## Santrauka
-Šaltinyje Jonas Kazimieras apibūdinamas taip: Paminėtas kaip valdovo laikotarpio tema. Šaltinyje Jonas Kazimieras apibūdinamas taip: Minimas pinigų skyriaus antraštėje kaip valdovas, kurio laikais kaldinti pinigai.
 
-## Variantai
-- Jono Kazimiero
-
-## Laikotarpis ir datos
-- laikotarpis: 1648–1668 m.
-- datos: 1648–1668 m.
-- periodas:
-- periodo_grupes:
-- amziai: XVII
-- date_start: 1648
-- date_end: 1668
+Jono Kazimiero valdymo pabaiga ir abdikacija. Czermak, Jan Kazimierz, próba charakterystyki (Kwart, hist., 1889); — Z czasów Jana Kazimierza (1893); E. Zigmantas Augustas pradėjo kalti ir auksinius, o Jono Kazimiero laikais buvo pradėti kalti ir variniai pinigai.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Jonas Kazimieras apibūdinamas taip: Paminėtas kaip valdovo laikotarpio tema."
+  teiginys: 'Jono Kazimiero valdymo pabaiga ir abdikacija.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje Jonas Kazimieras apibūdinamas taip: Minimas pinigų skyriaus antraštėje kaip valdovas, kurio laikais kaldinti pinigai."
+  teiginys: 'Czermak, Jan Kazimierz, próba charakterystyki (Kwart, hist., 1889); — Z czasów Jana Kazimierza (1893); E.'
   pagrindžia:
     - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Zigmantas Augustas pradėjo kalti ir auksinius, o Jono Kazimiero laikais buvo pradėti kalti ir variniai pinigai.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Plebański, Jan Kazimierz Waza i Marja Gonzaga (1862); W.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Lietuvos pinigai: Zigmanto Vazos (30—34), Jono Kazimiero (35—40), Jono Sobieskio (41), Augusto II (42-43).'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Jonas Kazimieras atsisakė nuo sosto, norėdamas jį užleisti Prancūzų kandidatui princui Kondei (Condė).'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Jonui Kazimierui atsisakant nuo sosto, Lietuvoje vadovavo jau Pacai.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Taip antai, Jono Kazimiero laikais iširo net 4 seimai.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Paminėtas kaip valdovo laikotarpio tema.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Jono Kazimiero valdymo pabaiga ir abdikacija.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jono Kazimiero laikai (1648—1668 m.)
-  citata_rodoma: ""
+    - 18. Jono Kazimiero valdymo pabaiga ir abdikacija
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Minimas pinigų skyriaus antraštėje kaip valdovas, kurio laikais kaldinti pinigai.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Czermak, Jan Kazimierz, próba charakterystyki (Kwart, hist., 1889); — Z czasów Jana Kazimierza (1893); E.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    **Jono Kazimiero** pinigai: 35 — _šilingas;_ 36 — _trečiokas;_ 37 — _šeštokas;_
-    38 — _orta_ (=18 skatikų); 39 — _pusdukatis_ (auksinis); 40 — _dukatas._ Jono
-    Kazimiero laikais lietuviškų pinigų buvo kalama apsčiai.
-  citata_rodoma: |
-    Jono Kazimiero pinigai: 35 — šilingas; 36 — trečiokas; 37 — šeštokas; 38 — orta (=18 skatikų); 39 — pusdukatis (auksinis); 40 — dukatas. Jono Kazimiero laikais lietuviškų pinigų buvo kalama apsčiai.
+    _W. Czermak,_ Jan Kazimierz, próba charakterystyki (Kwart,
+      hist., 1889); — Z czasów Jana Kazimierza (1893); _E. Kotlubaj,_ Życie Janusza
+      Radzwiłła (1859) ; P. _Gronskis,_ Instrumentum Lituanicae deditionis 1655 (T.
+      ir Ž., II); _W. Konopczyński i K. Lepszy,_ Akta ugody kiejdańskiej 1655 r.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Zigmantas Augustas pradėjo kalti ir auksinius, o Jono Kazimiero laikais buvo pradėti kalti ir variniai pinigai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Iki Zigmanto Augusto laikų buvo kalami tik sidabriniai pinigai. Zigmantas
+      Augustas pradėjo kalti ir auksinius, o Jono Kazimiero laikais buvo pra-
+      dėti kalti ir variniai pinigai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Plebański, Jan Kazimierz Waza i Marja Gonzaga (1862); W.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    _J. K. Plebański,_ Jan Kazimierz Waza i Marja Gonzaga (1862);
+      _W. Czermak,_ Próba naprawy Rzeczypospolitej za Jana Kazimierza (1891).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Lietuvos pinigai: Zigmanto Vazos (30—34), Jono Kazimiero (35—40), Jono Sobieskio (41), Augusto II (42-43).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    **II. Lietuvos pinigai:
+      Zigmanto Vazos (30—34), Jono Kazimiero (35—40), Jono Sobieskio (41),
+      Augusto II (42-43).**
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Jonas Kazimieras atsisakė nuo sosto, norėdamas jį užleisti Prancūzų kandidatui princui Kondei (Condė).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Jonas Kazimieras atsisakė nuo sosto, norėdamas
+      jį užleisti Prancūzų kandidatui princui Kondei _(Condė)._
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Jonui Kazimierui atsisakant nuo sosto, Lietuvoje vadovavo jau Pacai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Jonui Kazimierui atsisakant nuo sosto, Lietuvoje va-
+      dovavo jau Pacai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Taip antai, Jono Kazimiero laikais iširo net 4 seimai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Taip antai, Jono Kazimiero laikais iširo net
+      4 seimai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/pinigai]]
+
+### Susiję objektai
+- [[objektai/asmenys/Jonas Sobieskis]]
+- [[objektai/asmenys/Marija Gonzaga]]
+- [[objektai/asmenys/Princas Kondė]]
+- [[objektai/asmenys/Zigmantas Augustas]]

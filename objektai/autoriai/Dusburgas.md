@@ -1,64 +1,65 @@
 ---
 tipas: autorius
-pavadinimas: "Dusburgas"
-sukurta: "2026-04-20"
-variantai:
-  - "Dusburgas"
-aliases:
-  - "Dusburgas"
+pavadinimas: 'Dusburgas'
+sukurta: '2026-04-24'
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - "autorius"
-  - "metraštininkas"
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 vaidmenys:
-  - "kronikininkas"
-dalyviai:
-  - "Dusburgas"
-susije_irasai: []
-patikimumas: "vidutinis"
+  - 'Kryžiuočių ordino kronikininkas'
+patikimumas: 'aukštas'
+tags:
+  - autorius
 ---
 # Dusburgas
 
 ## Santrauka
-Šaltinyje Dusburgas minimas kaip kronikininkas.
+
+Dusburgas šiame šaltinyje minimas kaip Kryžiuočių ordino kronikininkas; jam priskiriami darbai šiame fragmente konkretus kūrinio pavadinimas nenurodomas, minimos kronikos apie lietuvius.
 
 ## Darbai
-- Autorystės vaidmuo šaltinyje įvardytas kaip kronikininkas. (t-001)
-
-## Kontekstas
-- Tekste tiesiogiai įvardytas kaip Kryžiuočių ordino kronikininkas; jam priskiriamas lietuvių apibūdinimas. (c-001)
+- šiame fragmente konkretus kūrinio pavadinimas nenurodomas
+- minimos kronikos apie lietuvius
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Dusburgas minimas kaip kronikininkas."
+  teiginys: 'Dusburgas yra Kryžiuočių ordino kronikininkas.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Dusburgas savo kronikoje lietuvius apibūdina kaip kietasprandžius, nenugalimus, prityrusius karius.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Šaltinyje Dusburgas minimas kaip kronikininkas.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: Dusburgas yra Kryžiuočių ordino kronikininkas
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kryžiuočių ordino kronikininkas
+    XIII amžiuje kaimynių tautų kronikos rašo apie
+    juos, kaip apie narsius karius. Kryžiuočių ordino kronikininkas
     Dusburgas vadina juos kietasprandžiais, nenugalimais, prity-
     rusiais kariais.
-  citata_rodoma: |
-    Kryžiuočių ordino kronikininkas Dusburgas vadina juos kietasprandžiais, nenugalimais, prityrusiais kariais.
-
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Šaltinio fragmentas tiesiogiai susieja kandidatą su autorystės, redagavimo, vertimo, kronikininko ar bibliografinio autoriaus kontekstu."
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: Dusburgas savo kronikoje lietuvius apibūdina kaip kietasprandžius, nenugalimus, prityrusius karius
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Dusburgas vadina juos kietasprandžiais, nenugalimais, prity-
+    rusiais kariais.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002

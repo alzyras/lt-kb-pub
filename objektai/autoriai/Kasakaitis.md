@@ -1,66 +1,42 @@
 ---
 tipas: autorius
-pavadinimas: "Kasakaitis"
-sukurta: "2026-04-20"
-variantai:
-  - "Kasakaičio"
-aliases:
-  - "Kasakaitis"
-  - "Kasakaičio"
+pavadinimas: 'Kasakaitis'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - "autorius"
-laikotarpis: "1925 m."
-datos:
-  - "1925 m."
-periodas: ""
-periodo_grupes: []
-amziai:
-  - "XX"
-date_start: "1925"
-date_end: "1925"
-vaidmenys:
-  - "vertėjas"
-dalyviai:
-  - "Kasakaitis"
-susije_irasai: []
-patikimumas: "vidutinis"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'žemas'
+tags:
+  - autorius
 ---
 # Kasakaitis
 
 ## Santrauka
-Šaltinio bibliografijoje Kasakaitis minimas kaip V. Smoleńskio „Lenkų t. ist.“ 1925 m. vertėjas.
 
-## Laikotarpis ir datos
-- 1925 m.
-
-## Darbai
-- V. Smoleńskio „Lenkų t. ist.“ vertimas. (t-001)
-
-## Kontekstas
-- Bibliografinėje eilutėje pavardė pateikta kilmininku „Kasakaičio“, tiesiogiai nurodant vertėjo vaidmenį. (c-001)
+V. Smoleński, Lenkų t. ist. (1925; Kasakaičio vert.);.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinio bibliografijoje Kasakaitis nurodytas kaip V. Smoleńskio „Lenkų t. ist.“ 1925 m. vertėjas."
+  teiginys: 'V. Smoleński, Lenkų t. ist. (1925; Kasakaičio vert.);.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Bibliografijoje Kasakaičio pavardė pateikta prie V. Smoleńskio veikalo vertimo.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'V. Smoleński, Lenkų t. ist. (1925; Kasakaičio vert.);.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    _V. Smoleński,_ Lenkų t. ist. (1925; _Kasakaičio_ vert.); T. _Korzon,_ Dzieje
-  citata_rodoma: |
-    V. Smoleński, Lenkų t. ist. (1925; Kasakaičio vert.); T. Korzon, Dzieje
+    _V. Smoleński,_ Lenkų t. ist. (1925; _Kasakaičio_ vert.);
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: žemas
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Bibliografinė eilutė tiesiogiai nurodo Kasakaičio vertėjo vaidmenį; nominatyvas iš kilmininko normalizuotas mechaniškai."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/V. Smoleński]]
+- [[objektai/autoriai/W. Smoleński]]

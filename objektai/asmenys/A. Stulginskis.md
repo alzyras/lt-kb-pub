@@ -1,55 +1,42 @@
 ---
 tipas: asmuo
-pavadinimas: "A. Stulginskis"
-sukurta: "2026-04-18"
+pavadinimas: 'A. Stulginskis'
+sukurta: '2026-04-25'
 variantai: []
-aliases: 
-  - "A. Stulginskis"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # A. Stulginskis
 
 ## Santrauka
-Šaltinyje A. Stulginskis apibūdinamas taip: Minimas kaip Lietuvos Tarybos narys.
+
+Stulginskis, J.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje A. Stulginskis apibūdinamas taip: Minimas kaip Lietuvos Tarybos narys."
+  teiginys: 'Stulginskis, J.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip Lietuvos Tarybos narys.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Stulginskis, J.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    P.
-    Klimas, D. Malinauskas, P. Mironas, S. Narutavičius (†), A. Pet-
-    rulis (†), A. Smetona, J. Smilgevičius, J. Staugaitis, A. Stulginskis,
-  citata_rodoma: |
-    P. Klimas, D. Malinauskas, P. Mironas, S. Narutavičius (†), A. Petrulis (†), A. Smetona, J. Smilgevičius, J. Staugaitis, A. Stulginskis,
+    Lietuvos Tarybos nariai buvo šie: J. Basanavičius, (†), S. Ba-
+      naitis (†), M. Biržiška, K. Bizauskas, P. Dovydaitis, S. Kairys, P.
+      Klimas, D. Malinauskas, P. Mironas, S. Narutavičius (†), A. Pet-
+      rulis (†), A. Smetona, J. Smilgevičius, J. Staugaitis, A. Stulginskis,
+      J. Šaulys, K. Šaulys, J. Šernas (†), J. Vailokaitis, J. Vileišis. Savo
+      pirmininku Taryba išsirinko A. Smetoną.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

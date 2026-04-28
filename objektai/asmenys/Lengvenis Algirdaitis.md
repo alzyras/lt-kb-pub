@@ -1,60 +1,37 @@
 ---
 tipas: asmuo
-pavadinimas: "Lengvenis Algirdaitis"
-sukurta: "2026-04-18"
-variantai: 
-  - "Lengvenio Algirdaičio"
-aliases: 
-  - "Lengvenis Algirdaitis"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
+pavadinimas: 'Lengvenis Algirdaitis'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Lengvenis Algirdaitis
 
 ## Santrauka
-Šaltinyje Lengvenis Algirdaitis apibūdinamas taip: Smolensko valdovo Jurgio tėvas, minimas sritinės kunigaikštystės kontekste.
 
-## Variantai
-- Lengvenio Algirdaičio
+Smolenske buvo įsigalėjęs Lengvenio Algirdaičio sūnus Jurgis.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Lengvenis Algirdaitis apibūdinamas taip: Smolensko valdovo Jurgio tėvas, minimas sritinės kunigaikštystės kontekste."
+  teiginys: 'Smolenske buvo įsigalėjęs Lengvenio Algirdaičio sūnus Jurgis.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Smolensko valdovo Jurgio tėvas, minimas sritinės kunigaikštystės kontekste.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Smolenske buvo įsigalėjęs Lengvenio Algirdaičio sūnus Jurgis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Smolenske buvo įsigalėjęs Lengvenio
-    Algirdaičio sūnus Jurgis. Nors jis ir buvo jėga pašalintas, ta-
-    čiau Smolenskui teko duoti privilegiją, garantuojančią jam dalį
-    savarankiškumo.
-  citata_rodoma: |
-    Smolenske buvo įsigalėjęs Lengvenio Algirdaičio sūnus Jurgis. Nors jis ir buvo jėga pašalintas, tačiau Smolenskui teko duoti privilegiją, garantuojančią jam dalį savarankiškumo.
+    Smolenske buvo įsigalėjęs Lengvenio Algirdaičio sūnus Jurgis.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: adjacent_named_context
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

@@ -1,78 +1,80 @@
 ---
 tipas: vieta
-pavadinimas: "Užnemunė"
-sukurta: "2026-04-18"
-variantai: 
-  - "Užnemunėj"
-aliases: 
-  - "Užnemunė"
-  - "Užnemunėj"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1807 m."
-datos: 
-  - "1807 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XIX"
-date_start: "1807"
-date_end: "1807"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Užnemunė'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
 ---
 # Užnemunė
 
 ## Santrauka
-Šaltinyje vieta „Užnemunė“ siejama su šiuo kontekstu: Minima kaip lietuviškoji Užnemunė, patekusi į Varšuvos kunigaikštiją 1807 m. kontekste. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Užnemunė
-- Šaltinyje fiksuotos formos: Užnemunėj
-
-## Laikotarpis ir datos
-- laikotarpis: 1807 m.
-- datos: 1807 m.
-- amziai: XIX
-- date_start/date_end: 1807 / 1807
-
-## Kas tai
-- tipas: kraštas / regionas
-
-## Geografinis ir istorinis kontekstas
-- Minima kaip lietuviškoji Užnemunė, patekusi į Varšuvos kunigaikštiją 1807 m. kontekste. (t-001)
+Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenkų karalystėje. Žuvus Napoleono galybei, Užnemunė taip pat pasiliko Lenkų karalystėje, kur veikė Napoleono įstatymai; jie čia išliko ir panaikinus Lenkų karalystę.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Užnemunė“ siejama su šiuo kontekstu: Minima kaip lietuviškoji Užnemunė, patekusi į Varšuvos kunigaikštiją 1807 m. kontekste."
+  teiginys: 'Užnemunė Prūsų karalystėje.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Užnemunė Varšuvos kunigaikštystėje ir Lenkų karalystėje.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Žuvus Napoleono galybei, Užnemunė taip pat pasiliko Lenkų karalystėje, kur veikė Napoleono įstatymai; jie čia išliko ir panaikinus Lenkų karalystę.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minima kaip lietuviškoji Užnemunė, patekusi į Varšuvos kunigaikštiją 1807 m. kontekste.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Užnemunė Prūsų karalystėje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Taip antai, ji matė, kad
-    baudžiava naikinama Mažojoje Lietuvoje (1807 m.), kad ji
-    buvo panaikinta Napoleono sukurtoje Varšuvos kunigaikštijoje,
-    į kurią buvo patekusi ir lietuviškoji Užnemunė. Baudžiavos
-    panaikinimą siūlė ir Oginskis savo būsimosios didžiosios Lie-
-    tuvos kunigaikštijos projekte; apie valstiečių būklės palengvi-
-    nimą daug buvo kalbėta ypač Napoleono žygio į Rusiją metu.
-  citata_rodoma: |
-    Taip antai, ji matė, kad baudžiava naikinama Mažojoje Lietuvoje (1807 m.), kad ji buvo panaikinta Napoleono sukurtoje Varšuvos kunigaikštijoje, į kurią buvo patekusi ir lietuviškoji Užnemunė. Baudžiavos panaikinimą siūlė ir Oginskis savo būsimosios didžiosios Lietuvos kunigaikštijos projekte; apie valstiečių būklės palengvinimą daug buvo kalbėta ypač Napoleono žygio į Rusiją metu.
+    **Užnemunė Prūsų karalystėje.** Prūsija per trečiąjį padalinimą
+    gautąsias žemes pavadino Naujaisiais Rytprūsiais.
+    Jos visos buvo padalintos į Plocko ir Balstogės departamentus.
+    Lietuviškoji Užnemunė priklausė Balstogės departamentui.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-002
+  santrauka: 'Užnemunė Varšuvos kunigaikštystėje ir Lenkų karalystėje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Užnemunė Varšuvos kunigaikštystėje ir Lenkų karalystėje.
+    1807 m. Prūsija buvo Napoleono užimta. Tais pačiais metais
+    Užnemunė buvo priskirta prie Varšuvos kunigaikštystės. Kaip
+    visoje kunigaikštystėje, taip ir Užnemunėje buvo įvestas Na-
+    poleono kodeksas, kuriuo valstiečiai buvo atleisti nuo baudžia-
+    vos, tik be žemės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Žuvus Napoleono galybei, Užnemunė taip pat pasiliko Lenkų karalystėje, kur veikė Napoleono įstatymai; jie čia išliko ir panaikinus Lenkų karalystę.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Žuvus Napoleono galybei, Užnemunė taip pat pasiliko
+    Lenkų karalystėje, kur veikė Napoleono įstatymai; jie čia išliko
+    ir panaikinus Lenkų karalystę. Užnemunėje Napoleono kodek-
+    sas, — žinoma, labai papildytas, — tebeveikia dar ir dabar.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

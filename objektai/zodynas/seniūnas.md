@@ -1,85 +1,54 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: "Seniūnas"
-sukurta: "2026-04-18"
-variantai: 
-  - "seniūno vardu"
-  - "seniūnas"
-  - "seniūnais"
-aliases: 
-  - "Seniūnas"
-  - "seniūno vardu"
-  - "seniūnas"
-  - "seniūnais"
+pavadinimas: 'seniūnas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - "teisinis-terminas"
-laikotarpis: "1411 m."
-datos: 
-  - "1411 m."
-periodas: "viduramziai"
-periodo_grupes: []
-amziai: 
-  - "XV"
-date_start: "1411"
-date_end: "1411"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - pilis
+  - sąvoka
 ---
-# Seniūnas
+# seniūnas
 
 ## Santrauka
-Šaltinyje „Seniūnas“ vartojama taip: Vietos arba krašto administracinis pareigūnas, artimas vietininkui. (t-001)
 
-## Žodis ir formos
-- Kanoninis pavadinimas: Seniūnas
-- Formos šaltinyje: seniūno vardu; seniūnas; seniūnais
-
-## Laikotarpis ir datos
-- laikotarpis: 1411 m.
-- datos: 1411 m.
-- periodas: viduramziai
-- periodo_grupes: 
-- amziai: XV
-- date_start: 1411
-- date_end: 1411
-
-## Reikšmė iš konteksto
-- Vietos arba krašto administracinis pareigūnas, artimas vietininkui. (t-001)
-
-## Vartojimas
-Terminas šaltinyje vartojamas šiame kontekste: administracija, pareigybės. (t-001)
+Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete. Čia nuo Vytauto laikų buvo krašto viršininkas, vadinamas seniūnu.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Seniūnas“ vartojama taip: Vietos arba krašto administracinis pareigūnas, artimas vietininkui."
+  teiginys: 'Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Čia nuo Vytauto laikų buvo krašto viršininkas, vadinamas seniūnu.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Žemaičių vietininkas vadinamas seniūnu, o vėliau šis vardas taikomas ir kitiems vietininkams.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tik iš ordino atgautuose Žemaičiuose jau nuo 1411
-    metų buvo Vytauto skirtas vietininkas, vadinamas lenkiškuoju
-    seniūno vardu. Bet iš tikro nei vaivados nei Žemaičių seniūnas
-    nuo didesniųjų sričių vietininkų niekuo nesiskyrė, ir vėliau visi
-    sričių vietininkai įgavo tą pat lenikiškąjį vaivadų vardą (buvo
-    dar vietininkų didžiojo kunigaikščio dvaruose; jie vėliau buvo
-    vadinami seniūnais).
-  citata_rodoma: ""
+    Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia termino vartoseną arba aiškinimą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-002
+  santrauka: 'Čia nuo Vytauto laikų buvo krašto viršininkas, vadinamas seniūnu.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vietininko neturėjo ir Žemaitija. Čia nuo Vytauto laikų buvo krašto viršininkas, vadinamas seniūnu. Jis buvo lygus su vaivadomis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

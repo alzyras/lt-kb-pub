@@ -1,72 +1,59 @@
 ---
 tipas: saltinis
-pavadinimas: "Onos Vytautienės raštas Jadvygai Jogailienei"
-sukurta: "2026-04-20"
-variantai: 
-  - "III. Onos Vytautienės raštas Jadvygai Jogailienei"
-aliases: 
-  - "Onos Vytautienės raštas Jadvygai Jogailienei"
-  - "III. Onos Vytautienės raštas Jadvygai Jogailienei"
+pavadinimas: 'Onos Vytautienės raštas Jadvygai Jogailienei'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: 
-  - "dokumentas"
-laikotarpis: "1392 m. rugpiūčio 5 d."
-datos: 
-  - "1392 m. rugpiūčio 5 d."
-periodas: "viduramziai"
-periodo_grupes: []
-amziai: 
-  - "XIV"
-date_start: "1392"
-date_end: "1392"
-vaidmenys: 
-  - "autorius"
-dalyviai: 
-  - "Ona Vytautienė"
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - dokumentas
+  - saltinis
 ---
 # Onos Vytautienės raštas Jadvygai Jogailienei
 
-## Bibliografiniai duomenys
+## Santrauka
 
-- Pavadinimas: Onos Vytautienės raštas Jadvygai Jogailienei.
-- Formos šaltinyje: III. Onos Vytautienės raštas Jadvygai Jogailienei.
-- Autorius / redaktorius: Ona Vytautienė.
-- Data / laikotarpis: 1392 m. rugpiūčio 5 d..
-- Šaltinio rūšis: raštas.
-
-## Turinys ir apimtis
-
-Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Onos Vytautienės raštas Jadvygai Jogailienei“ siejamas su šiuo kontekstu: dokumentų pavyzdžiuose įvardytas Onos raštas, kuriuo ji laidavo Jadvygai Astravos taikos sąlygas.
-
-## Ryšiai
-
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpiūčio 5 d.). Kitu tos pačios dienos raštu kunig.
 
 ## Teiginiai
-
 - t-001
-  teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Onos Vytautienės raštas Jadvygai Jogailienei“ siejamas su šiuo kontekstu: dokumentų pavyzdžiuose įvardytas Onos raštas, kuriuo ji laidavo Jadvygai Astravos taikos sąlygas."
+  teiginys: 'Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpiūčio 5 d.).'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Kitu tos pačios dienos raštu kunig.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: dokumentų pavyzdžiuose įvardytas Onos raštas, kuriuo ji laidavo Jadvygai Astravos taikos sąlygas.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpiūčio 5 d.).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-      **III. Onos Vytautienės raštas Jadvygai Jogailienei** (rašytas Astravoje
-      1392 m. rugpiūčio 5 d.). Tai yra dokumentas, kuriuo kunigaikštienė Ona
-      laidavo Jadvygai, kad Vytautas nesulaužys Astravoje priimtų taikos sąlygų.
-  citata_rodoma: ""
+    **III. Onos Vytautienės raštas Jadvygai Jogailienei** (rašytas Astravoje
+    1392 m. rugpiūčio 5 d.). Tai yra dokumentas, kuriuo kunigaikštienė Ona
+    laidavo Jadvygai, kad Vytautas nesulaužys Astravoje priimtų taikos sąlygų.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pateikia šaltinio pavadinimą, bibliografinį įrašą arba aprašomą kontekstą."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Kitu tos pačios dienos raštu kunig.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kitu tos pačios dienos raštu kunig. Ona tą pat laidavo Jogailai. Yra likęs
+    ir Vytauto pasižadėjimo dokumentas Jadvygai. Tuo pat metu Vytauto Jo-
+    gailai duotas dokumentas yra žuvęs. Lygia dalimi nėra jokių žinių apie Jo-
+    gailos dokumentą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

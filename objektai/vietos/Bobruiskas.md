@@ -1,73 +1,53 @@
 ---
 tipas: vieta
-pavadinimas: "Bobruiskas"
-sukurta: "2026-04-18"
-variantai: 
-  - "Bobruiske"
-aliases: 
-  - "Bobruiskas"
-  - "Bobruiske"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Bobruiskas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
+  - vyskupas
 ---
 # Bobruiskas
 
 ## Santrauka
-Šaltinyje vieta „Bobruiskas“ siejama su šiuo kontekstu: Minimas kaip jėzuitų kolegijos fundacijos vieta. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Bobruiskas
-- Šaltinyje fiksuotos formos: Bobruiske
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: miestas
-
-## Geografinis ir istorinis kontekstas
-- Minimas kaip jėzuitų kolegijos fundacijos vieta. (t-001)
+Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fundacija), Pinske (kanclerio Aibr.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Bobruiskas“ siejama su šiuo kontekstu: Minimas kaip jėzuitų kolegijos fundacijos vieta."
+  teiginys: 'Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fundacija), Pinske (kanclerio Aibr.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip jėzuitų kolegijos fundacijos vieta.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fundacija), Pinske (kanclerio Aibr.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
+    Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
     Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko
     vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig-
     manto fundacija), Smolenske (klebono Lempickio ir kt. fun-
     dacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske
     (kanclerio Martyno Oginskio ir K. Bžostausko fundacija), Nau-
     garduke (sudėtinė fundacija), Bobruiske (Triznos fun-
-  citata_rodoma: |
-    būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zigmanto fundacija), Smolenske (klebono Lempickio ir kt. fundacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske (kanclerio Martyno Oginskio ir K. Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fun-
+    dacija), Pinske (kanclerio Aibr. St. Radvilos fundacija), Pa-
+    šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja),
+    Vitebske (Smolensko vaivados A. Gansiausko f-ja), Žodiš-
+    kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
+    piegos f-ja).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/bajorija - karalius]]

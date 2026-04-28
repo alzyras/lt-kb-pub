@@ -1,71 +1,45 @@
 ---
 tipas: vieta
-pavadinimas: "Antakalnis"
-sukurta: "2026-04-18"
-variantai: 
-  - "Antakalny"
-aliases: 
-  - "Antakalnis"
-  - "Antakalny"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Antakalnis'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
 ---
 # Antakalnis
 
 ## Santrauka
-Šaltinyje vieta „Antakalnis“ siejama su šiuo kontekstu: Minimas kaip Vilniuje pastatytos barokinės šv. Petro ir Povilo bažnyčios vieta. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Antakalnis
-- Šaltinyje fiksuotos formos: Antakalny
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: Vilniaus miesto dalis / priemiestis
-
-## Geografinis ir istorinis kontekstas
-- Minimas kaip Vilniuje pastatytos barokinės šv. Petro ir Povilo bažnyčios vieta. (t-001)
+Petro ir Povilo -bažnyčią Antakalny).
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Antakalnis“ siejama su šiuo kontekstu: Minimas kaip Vilniuje pastatytos barokinės šv. Petro ir Povilo bažnyčios vieta."
+  teiginys: 'Petro ir Povilo -bažnyčią Antakalny).'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip Vilniuje pastatytos barokinės šv. Petro ir Povilo bažnyčios vieta.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Petro ir Povilo -bažnyčią Antakalny).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu,
-    buvo kancleris Kristupas Pacas, — tas pats, kuris pastatė gra-
+    Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris Kristupas Pacas, — tas pats, kuris pastatė gra-
     žųjį Pažaislio vienuolyną paliai Kauną (jo brolis hetmonas My-
     kolas pastatė taip pat gražiausią Vilniuje barokinę šv. Petro
     ir Povilo -bažnyčią Antakalny).
-  citata_rodoma: |
-    Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris Kristupas Pacas, — tas pats, kuris pastatė gražųjį Pažaislio vienuolyną paliai Kauną (jo brolis hetmonas Mykolas pastatė taip pat gražiausią Vilniuje barokinę šv. Petro ir Povilo -bažnyčią Antakalny).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/asmenys/Kristupas Pacas]]
+- [[objektai/vietos/Pažaislis]]

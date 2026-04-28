@@ -1,68 +1,40 @@
 ---
 tipas: grupe
-pavadinimas: "Valstybės Taryba"
-sukurta: "2026-04-18"
-variantai: 
-  - "iš pačių lenkų sudaryta Valstybės Taryba"
-aliases: 
-  - "Valstybės Taryba"
-  - "iš pačių lenkų sudaryta Valstybės Taryba"
+pavadinimas: 'Valstybės Taryba'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - grupe
 ---
 # Valstybės Taryba
 
 ## Santrauka
-Šaltinyje „Valstybės Taryba“ apibūdinama kaip taryba; lenkijai suteiktos autonomijos sąlygomis įsteigta taryba, sudaryta iš pačių lenkų. (t-001)
 
-## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: Valstybės Taryba
-- Šaltinyje fiksuotos formos: iš pačių lenkų sudaryta Valstybės Taryba
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: taryba
-Šaltinyje „Valstybės Taryba“ apibūdinama kaip taryba; lenkijai suteiktos autonomijos sąlygomis įsteigta taryba, sudaryta iš pačių lenkų. (t-001)
-
-## Sudėtis ir vaidmuo
-- Šaltinyje „Valstybės Taryba“ apibūdinama kaip taryba; lenkijai suteiktos autonomijos sąlygomis įsteigta taryba, sudaryta iš pačių lenkų. (t-001)
+Klaipėdos krašto lietuvių atstovai paskelbė norą prisijungti prie Didžiosios Lietuvos tam tikros vietinės autonomijos sąlygomis; kooptuoti, jie dalyvavo ir Valstybės Tarybos darbuose.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Valstybės Taryba“ apibūdinama kaip taryba; lenkijai suteiktos autonomijos sąlygomis įsteigta taryba, sudaryta iš pačių lenkų."
+  teiginys: 'Klaipėdos krašto lietuvių atstovai paskelbė norą prisijungti prie Didžiosios Lietuvos tam tikros vietinės autonomijos sąlygomis; kooptuoti, jie dalyvavo ir Valstybės Tarybos darbuose.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Lenkijai suteiktos autonomijos sąlygomis įsteigta taryba, sudaryta iš pačių lenkų.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Klaipėdos krašto lietuvių atstovai paskelbė norą prisijungti prie Didžiosios Lietuvos tam tikros vietinės autonomijos sąlygomis; kooptuoti, jie dalyvavo ir Valstybės Tarybos darbuose.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    jai buvo duota net autonomija, jos reikalams tvarkyti buvo
-    įsteigta iš pačių lenkų sudaryta Valstybės Taryba.
-  citata_rodoma: ""
+    Klaipėdos krašto lietuvių atstovai
+    paskelbė norą prisijungti prie Didžiosios Lietuvos tam tikros
+    vietinės autonomijos sąlygomis; kooptuoti, jie dalyvavo ir Vals-
+    tybės Tarybos darbuose.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

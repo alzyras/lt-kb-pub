@@ -1,123 +1,118 @@
 ---
 tipas: autorius
-pavadinimas: "Adomas Dambrauskas Jakštas"
-sukurta: "2026-04-20"
+pavadinimas: 'Adomas Dambrauskas Jakštas'
+sukurta: '2026-04-24'
 variantai:
-  - "Adomas Dambrauskas Jakštas"
-  - "Pralotas Adomas Dambrauskas Jakštas"
-  - "A. Dambrauskas Jakštas"
-  - "A. Jakštas"
-aliases:
-  - "Adomas Dambrauskas Jakštas"
-  - "Pralotas Adomas Dambrauskas Jakštas"
-  - "A. Dambrauskas Jakštas"
-  - "A. Jakštas"
+  - 'Pralotas Adomas Dambrauskas Jakštas'
+  - 'A. Dambrauskas Jakštas'
+  - 'A. Jakštas'
+  - 'Jakštas'
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - "autorius"
-laikotarpis: "1860 m.; 1902 m."
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+laikotarpis: 'gimė 1860 m.; 1902 m.'
 datos:
-  - "1860 m."
-  - "1902 m."
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
+  - 'gimė 1860 m.'
+  - '1902 m.'
 vaidmenys:
-  - "publicistas ir poetas"
-dalyviai:
-  - "Adomas Dambrauskas Jakštas"
-susije_irasai: []
-patikimumas: "vidutinis"
+  - 'mokslininkas'
+  - 'literatūros kritikas'
+  - 'publicistas'
+  - 'poetas'
+  - 'leidėjas'
+patikimumas: 'aukštas'
+tags:
+  - autorius
 ---
 # Adomas Dambrauskas Jakštas
 
 ## Santrauka
-Šaltinyje Adomas Dambrauskas Jakštas minimas kaip „Draugijos“ leidėjas, mokslininkas, literatūros kritikas, publicistas ir poetas; šaltinis taip pat mini A. Jakšto lenkiškai parašytą brošiūrą „Lietuvių Balsas“.
 
-## Laikotarpis ir datos
-- 1860 m.
-- 1902 m.
+Adomas Dambrauskas Jakštas šiame šaltinyje minimas kaip mokslininkas, literatūros kritikas; jam priskiriami darbai „Draugija“, „Lietuvių Balsas“.
 
 ## Darbai
-- „Draugija“; „Lietuvių Balsas“. (t-001)
-- Apibūdintas kaip mokslininkas, literatūros kritikas, publicistas ir poetas. (t-002)
-- A. Jakšto lenkiškai parašyta brošiūra „Lietuvių Balsas“ minima 1902 m. kontekste. (t-003)
-
-## Kontekstas
-- Tekstas jį tiesiogiai apibūdina kaip mokslininką, literatūros kritiką, publicistą ir poetą, o taip pat sieja su Kaune leistu mokslo žurnalu „Draugija“ ir brošiūra „Lietuvių Balsas“. (c-001)
-- Atskiri fragmentai pagrindžia jo vaidmenų apibūdinimą ir „Lietuvių Balsą“. (c-002, c-003)
+- „Draugija“
+- „Lietuvių Balsas“
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Adomas Dambrauskas Jakštas minimas kaip publicistas ir poetas, siejamas su: „Draugija“; „Lietuvių Balsas“."
+  teiginys: 'Adomas Dambrauskas Jakštas buvo žinomas mokslininkas, literatūros kritikas, publicistas ir poetas.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje Adomas Dambrauskas Jakštas apibūdintas kaip mokslininkas, literatūros kritikas, publicistas ir poetas."
+  teiginys: 'Adomas Dambrauskas Jakštas leido pirmąjį lietuvišką mokslo žurnalą „Draugija“.'
   pagrindžia:
     - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: "Šaltinyje nurodoma, kad buvo išleista A. Jakšto lenkiškai parašyta brošiūra „Lietuvių Balsas“."
+  teiginys: 'Adomas Dambrauskas Jakštas yra tiesiogiai susietas su 1902 m. brošiūra „Lietuvių Balsas“.'
   pagrindžia:
     - c-003
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Šaltinyje Adomas Dambrauskas Jakštas minimas kaip publicistas ir poetas, siejamas su: „Draugija“; „Lietuvių Balsas“.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata_originali: |
-    Taip pat Kaune išėjo pirmasis lietuviškas
-    mokslo žurnalas „Draugija", kurį leido pralotas A. Dam-
-    brauskas Jakštas.
-  citata_rodoma: |
-    Taip pat Kaune išėjo pirmasis lietuviškas mokslo žurnalas „Draugija", kurį leido pralotas A. Dambrauskas Jakštas.
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Šaltinio fragmentas tiesiogiai susieja kandidatą su autorystės, redagavimo, vertimo, kronikininko ar bibliografinio autoriaus kontekstu."
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Ištrauka pateikia Adomo Dambrausko Jakšto vaidmenų apibūdinimą ir gimimo metus.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: Adomas Dambrauskas Jakštas buvo žinomas mokslininkas, literatūros kritikas, publicistas ir poetas
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pralotas Adomas Dambrauskas Jakštas,
     žinomas mokslininkas, literatūros kritikas,
     publicistas ir poetas (gimė 1860 m.).
-  citata_rodoma: |
-    Pralotas Adomas Dambrauskas Jakštas, žinomas mokslininkas, literatūros kritikas, publicistas ir poetas (gimė 1860 m.).
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija Adomą Dambrauską Jakštą ir jo vaidmenis."
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: Adomas Dambrauskas Jakštas leido pirmąjį lietuvišką mokslo žurnalą „Draugija“
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Taip pat Kaune išėjo pirmasis lietuviškas
+    mokslo žurnalas „Draugija", kurį leido pralotas A. Dam-
+    brauskas Jakštas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: Ištrauka mini A. Jakšto lenkiškai parašytą brošiūrą „Lietuvių Balsas“.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: Adomas Dambrauskas Jakštas yra tiesiogiai susietas su 1902 m. brošiūra „Lietuvių Balsas“
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tam tikslui buvo išleista net atskira A. Jakšto lenkiškai
+    parašyta brošiūra — „Lietuvių Balsas" (1902 m.),
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+
+- c-004
+  santrauka: Pilnesnė to paties bibliografinio paminėjimo citata parodo, kad brošiūra „Lietuvių Balsas“ buvo skirta kviesti jaunąją bajoriją į Lietuvos atgaivinimo darbą.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tam tikslui buvo išleista net atskira A. Jakšto lenkiškai
     parašyta brošiūra — „Lietuvių Balsas" (1902 m.), kur
     jaunoji bajorų karta buvo kviečiama j bendrą Lietuvos atgaivi-
     nimo darbą.
-  citata_rodoma: |
-    Tam tikslui buvo išleista net atskira A. Jakšto lenkiškai parašyta brošiūra — „Lietuvių Balsas" (1902 m.), kur jaunoji bajorų karta buvo kviečiama j bendrą Lietuvos atgaivinimo darbą.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Citata tiesiogiai nurodo A. Jakšto brošiūrą ir jos datą."
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIX amžius]]
+- [[laikotarpiai/XX amžius]]

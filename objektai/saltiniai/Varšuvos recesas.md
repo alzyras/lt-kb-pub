@@ -1,78 +1,43 @@
 ---
 tipas: saltinis
-pavadinimas: "Varšuvos recesas"
-sukurta: "2026-04-18"
-variantai:
-  - "recesu"
-  - "Varšuvos recesu"
-  - "receso nuostatais"
-  - "receso aktų"
-aliases:
-  - "Varšuvos recesas"
-  - "recesu"
-  - "Varšuvos recesu"
-  - "receso nuostatais"
-  - "receso aktų"
+pavadinimas: 'Varšuvos recesas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - "dokumentas"
-  - "aktas"
-laikotarpis: "1564 m."
-datos:
-  - "1564 m."
-periodas: "ankstyvieji_naujieji_laikai"
-periodo_grupes: []
-amziai:
-  - "XVI"
-date_start: "1564"
-date_end: "1564"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - saltinis
 ---
 # Varšuvos recesas
 
-## Bibliografiniai duomenys
+## Santrauka
 
-- Pavadinimas: Varšuvos recesas.
-- Formos šaltinyje: recesu; Varšuvos recesu; receso nuostatais; receso aktų.
-- Data / laikotarpis: 1564 m.
-- Šaltinio rūšis / žymos: dokumentas.
-
-## Turinys ir apimtis
-
-Šaltinyje „Varšuvos recesas“ siejamas su šiuo kontekstu: Tekstas aiškina, kad Varšuvos seime nebaigtų klausimų perkėlimas į kitą seimą buvo vadinamas recesu. Šis konkretus dokumentinis sprendimas įvardijamas kaip Varšuvos recesas.
-
-## Ryšiai
-
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+Šitas nebaigto spręsti klausimo nukėlimas į kitą seimą, anų laikų įpročiu, buvo vadinamas recesu (nuo lotyniškojo žodžio recedere).
 
 ## Teiginiai
-
 - t-001
-  teiginys: "Šaltinyje „Varšuvos recesas“ siejamas su šiuo kontekstu: Tekstas aiškina, kad Varšuvos seime nebaigtų klausimų perkėlimas į kitą seimą buvo vadinamas recesu. Šis konkretus dokumentinis sprendimas įvardijamas kaip Varšuvos recesas."
+  teiginys: 'Šitas nebaigto spręsti klausimo nukėlimas į kitą seimą, anų laikų įpročiu, buvo vadinamas recesu (nuo lotyniškojo žodžio recedere).'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: Tekstas aiškina, kad Varšuvos seime nebaigtų klausimų perkėlimas į kitą seimą buvo vadinamas recesu. Šis konkretus dokumentinis sprendimas įvardijamas kaip Varšuvos recesas.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Šitas nebaigto spręsti klausimo nukėlimas į kitą seimą, anų laikų įpročiu, buvo vadinamas recesu (nuo lotyniškojo žodžio recedere).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Šitas nebaigto spręsti klausimo nukėlimas į kitą seimą,
+    Tuo
+    metu buvo surašytas specialus aktas, į kurį buvo įtraukti visi iš-
+    spręstieji klausimai, o neišspręstieji turėjo būtį sprendžiami specia-
+    liam seime. Šitas nebaigto spręsti klausimo nukėlimas į kitą seimą,
     anų laikų įpročiu, buvo vadinamas recesu (nuo lotyniškojo žodžio
     _recedere)._ O kadangi šis aktas buvo sudarytas Varšuvoj, tai jis
     vadinamas Varšuvos recesu.
-  citata_rodoma: |
-    Šitas nebaigto spręsti klausimo nukėlimas į kitą seimą, anų laikų įpročiu, buvo vadinamas recesu (nuo lotyniškojo žodžio recedere). O kadangi šis aktas buvo sudarytas Varšuvoj, tai jis vadinamas Varšuvos recesu.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001

@@ -1,73 +1,39 @@
 ---
 tipas: vieta
-pavadinimas: "Haga"
-sukurta: "2026-04-18"
-variantai: 
-  - "Hagos"
-aliases: 
-  - "Haga"
-  - "Hagos"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1922 m. vasario 22 d."
-datos: 
-  - "1922 m. vasario 22 d."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XX"
-date_start: "1922"
-date_end: "1922"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Haga'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'žemas'
+tags:
+  - vieta
 ---
 # Haga
 
 ## Santrauka
-Šaltinyje vieta „Haga“ siejama su šiuo kontekstu: Minima kaip vieta, į kurios teismą Lietuvos vyriausybė pakvietė Lenkiją stoti. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Haga
-- Šaltinyje fiksuotos formos: Hagos
-
-## Laikotarpis ir datos
-- laikotarpis: 1922 m. vasario 22 d.
-- datos: 1922 m. vasario 22 d.
-- amziai: XX
-- date_start/date_end: 1922 / 1922
-
-## Kas tai
-- tipas: miestas
-
-## Geografinis ir istorinis kontekstas
-- Minima kaip vieta, į kurios teismą Lietuvos vyriausybė pakvietė Lenkiją stoti. (t-001)
+Lietuvos vyriausybė atsakė, kad ji negalinti to ultimatumo laikyti sutinkančiu su pirmiau paskelbtomis (vasario 16 d.) sąlygomis ir pasiūlė tą ginčą pateikti Hagos Teismui.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Haga“ siejama su šiuo kontekstu: Minima kaip vieta, į kurios teismą Lietuvos vyriausybė pakvietė Lenkiją stoti."
+  teiginys: 'Lietuvos vyriausybė atsakė, kad ji negalinti to ultimatumo laikyti sutinkančiu su pirmiau paskelbtomis (vasario 16 d.) sąlygomis ir pasiūlė tą ginčą pateikti Hagos Teismui.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minima kaip vieta, į kurios teismą Lietuvos vyriausybė pakvietė Lenkiją stoti.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Lietuvos vyriausybė atsakė, kad ji negalinti to ultimatumo laikyti sutinkančiu su pirmiau paskelbtomis (vasario 16 d.) sąlygomis ir pasiūlė tą ginčą pateikti Hagos Teismui.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kai Lenkija atsisakė vykdyti tą sąlygą, Lietuvos vyriausybė pa-
-    kvietė ją (1922 m. vasario 22 d.) stoti prieš Hagos Teismą.
-  citata_rodoma: |
-    Kai Lenkija atsisakė vykdyti tą sąlygą, Lietuvos vyriausybė pakvietė ją (1922 m. vasario 22 d.) stoti prieš Hagos Teismą.
+    Lietuvos vyriausybė atsakė, kad ji negalinti to ultimatumo
+    laikyti sutinkančiu su pirmiau paskelbtomis (vasario 16 d.) sąly-
+    gomis ir pasiūlė tą ginčą pateikti Hagos Teismui.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: žemas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

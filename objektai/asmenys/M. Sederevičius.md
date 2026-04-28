@@ -1,72 +1,44 @@
 ---
 tipas: asmuo
-pavadinimas: "M. Sederevičius"
-sukurta: "2026-04-18"
-variantai: 
-  - "Sederevičius"
-aliases: 
-  - "M. Sederevičius"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1829—1907 m."
-datos: 
-  - "1829—1907 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XIX"
-  - "XX"
-date_start: "1829"
-date_end: "1907"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
+pavadinimas: 'M. Sederevičius'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # M. Sederevičius
 
 ## Santrauka
-Šaltinyje M. Sederevičius apibūdinamas taip: Minimas kaip Sudargo klebonas, aktyviai prisidėjęs prie knygų gabenimo.
 
-## Variantai
-- Sederevičius
-
-## Laikotarpis ir datos
-- laikotarpis: 1829—1907 m.
-- datos: 1829—1907 m.
-- periodas:
-- periodo_grupes:
-- amziai: XIX, XX
-- date_start: 1829
-- date_end: 1907
+Sederevičių.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje M. Sederevičius apibūdinamas taip: Minimas kaip Sudargo klebonas, aktyviai prisidėjęs prie knygų gabenimo."
+  teiginys: 'Sederevičių.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip Sudargo klebonas, aktyviai prisidėjęs prie knygų gabenimo.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Sederevičių.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jo pradėtą darbą uoliai varė toliau daugelis kunigų,
-    ypač Sudargo klebonas kun. M. Sederevičius (1829—
-    1907 m.). Kunigija iš pradžių daugiausia rūpinosi religinio
-    turinio knygomis ir elementoriais, kurie buvo reikalingi vaikams
-    mokyti.
-  citata_rodoma: ""
+    Pirmieji knygų gabenimu iš Tilžės ėmė rūpintis
+      vysk. Valančiaus bendradarbiai, o kai jų organizacija valdžios
+      buvo išardyta, daugumas knygų ėjo per Sudargo (Šakių apskr.)
+      kleboną M. Sederevičių.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/knyga]]

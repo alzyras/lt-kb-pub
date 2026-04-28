@@ -1,73 +1,39 @@
 ---
 tipas: vieta
-pavadinimas: "Jurbarkas"
-sukurta: "2026-04-18"
-variantai: 
-  - "Jurbarko"
-aliases: 
-  - "Jurbarkas"
-  - "Jurbarko"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1259 m."
-datos: 
-  - "1259 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XIII"
-date_start: "1259"
-date_end: "1259"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Jurbarkas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - pilis
+  - vieta
 ---
 # Jurbarkas
 
 ## Santrauka
-Šaltinyje vieta „Jurbarkas“ siejama su šiuo kontekstu: Minima kaip Nemuno pakrantėje pastatyta ordino pilis. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Jurbarkas
-- Šaltinyje fiksuotos formos: Jurbarko
-
-## Laikotarpis ir datos
-- laikotarpis: 1259 m.
-- datos: 1259 m.
-- amziai: XIII
-- date_start/date_end: 1259 / 1259
-
-## Kas tai
-- tipas: pilis / vietovė
-
-## Geografinis ir istorinis kontekstas
-- Minima kaip Nemuno pakrantėje pastatyta ordino pilis. (t-001)
+Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurios žemaičiai taip pat neįstengė išgriauti.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Jurbarkas“ siejama su šiuo kontekstu: Minima kaip Nemuno pakrantėje pastatyta ordino pilis."
+  teiginys: 'Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurios žemaičiai taip pat neįstengė išgriauti.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minima kaip Nemuno pakrantėje pastatyta ordino pilis.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurios žemaičiai taip pat neįstengė išgriauti.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Po ilgų
-    kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259
+    Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259
     m.), kurios žemaičiai taip pat neįstengė išgriauti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

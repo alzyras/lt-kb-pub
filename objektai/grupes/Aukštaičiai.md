@@ -1,98 +1,82 @@
 ---
 tipas: grupe
-pavadinimas: "Aukštaičiai"
-sukurta: "2026-04-18"
-variantai: 
-  - "Aukštaičių"
-  - "aukštaičiai"
-aliases: 
-  - "Aukštaičiai"
-  - "Aukštaičių"
-  - "aukštaičiai"
+pavadinimas: 'Aukštaičiai'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - grupe
 ---
 # Aukštaičiai
 
 ## Santrauka
-Šaltinyje „Aukštaičiai“ apibūdinama kaip kiltis; aukštaičiai įvardijami kaip tiesiogiai Gedimino valdoma kiltis ir kaip Lietuvos valstybės branduolys. (t-001) Šaltinyje „Aukštaičiai“ siejama su šiuo kontekstu: Aukštaičiai įvardijami kaip tiesiogiai Gedimino valdoma kiltis ir kaip Lietuvos valstybės branduolys. (t-002)
 
-## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: Aukštaičiai
-- Šaltinyje fiksuotos formos: Aukštaičių; aukštaičiai
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: kiltis
-Šaltinyje „Aukštaičiai“ apibūdinama kaip kiltis; aukštaičiai įvardijami kaip tiesiogiai Gedimino valdoma kiltis ir kaip Lietuvos valstybės branduolys. (t-001)
-
-## Sudėtis ir vaidmuo
-- Šaltinyje „Aukštaičiai“ apibūdinama kaip kiltis; aukštaičiai įvardijami kaip tiesiogiai Gedimino valdoma kiltis ir kaip Lietuvos valstybės branduolys. (t-001)
-- Šaltinyje „Aukštaičiai“ siejama su šiuo kontekstu: Aukštaičiai įvardijami kaip tiesiogiai Gedimino valdoma kiltis ir kaip Lietuvos valstybės branduolys. (t-002)
+Į pietus nuo žemaičių ir į rytus nuo jotvingų gyveno aukštaičiai, kurie sudarė vėlesnės Lietuvos valstybės branduolį. Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, daugiausia puolė Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus apylinkes. Senosios kronikos mini daug ordino puolimų į Žemaičius ir Aukštaičius, taip pat daug mini lietuvių žygių, tačiau nė viena kronika aiškiai nepasako, kas tuo metu valdė Lietuvą.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Aukštaičiai“ apibūdinama kaip kiltis; aukštaičiai įvardijami kaip tiesiogiai Gedimino valdoma kiltis ir kaip Lietuvos valstybės branduolys."
+  teiginys: 'Į pietus nuo žemaičių ir į rytus nuo jotvingų gyveno aukštaičiai, kurie sudarė vėlesnės Lietuvos valstybės branduolį.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Aukštaičiai“ siejama su šiuo kontekstu: Aukštaičiai įvardijami kaip tiesiogiai Gedimino valdoma kiltis ir kaip Lietuvos valstybės branduolys."
+  teiginys: 'Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, daugiausia puolė Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus apylinkes.'
   pagrindžia:
     - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Senosios kronikos mini daug ordino puolimų į Žemaičius ir Aukštaičius, taip pat daug mini lietuvių žygių, tačiau nė viena kronika aiškiai nepasako, kas tuo metu valdė Lietuvą.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Aukštaičiai įvardijami kaip tiesiogiai Gedimino valdoma kiltis ir kaip Lietuvos valstybės branduolys.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Į pietus nuo žemaičių ir į rytus nuo jotvingų gyveno aukštaičiai, kurie sudarė vėlesnės Lietuvos valstybės branduolį.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tiesiogiai Gediminui priklausė tik Aukštaičiai, visos pieti-
-    nės jotvingų žemės (vadinamoji Juodoji Rusija) ir artimos gudų
-    sritys — Minskas, Vitebskas, Polockas. Vilniuje sėdėjo pats
-    Gediminas, Polocke — jo brolis Vainys, o kitose kunigaikštys-
-    tėse — jo sūnūs. Žemaičiai turėjo keletą savo kunigaikščių. Ka-
-    dangi jie nuolat kovojo su vokiečių ordinu, tai mielai pripažino
-    galingojo Gedimino valdžią ir naudojosi jo parama.
-  citata_rodoma: |
-    Tiesiogiai Gediminui priklausė tik Aukštaičiai, visos pietinės jotvingų žemės (vadinamoji Juodoji Rusija) ir artimos gudų sritys — Minskas, Vitebskas, Polockas. Vilniuje sėdėjo pats Gediminas, Polocke — jo brolis Vainys, o kitose kunigaikštystėse — jo sūnūs. Žemaičiai turėjo keletą savo kunigaikščių. Kadangi jie nuolat kovojo su vokiečių ordinu, tai mielai pripažino galingojo Gedimino valdžią ir naudojosi jo parama.
+    Į pie-
+    tus nuo žemaičių ir į rytus nuo jotvingų gyveno aukštai-
+    čiai, kurie sudarė vėlesnės Lietuvos valstybės branduolį.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Aukštaičiai įvardijami kaip tiesiogiai Gedimino valdoma kiltis ir kaip Lietuvos valstybės branduolys.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, daugiausia puolė Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus apylinkes.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Lietuvos valstybės bran-
-    duolys buvo Aukštaičiai; iš čia Lietuvos valstybė sparčiai
-    ėmė plėstis į rytus.
-  citata_rodoma: |
-    Lietuvos valstybės branduolys buvo Aukštaičiai; iš čia Lietuvos valstybė sparčiai ėmė plėstis į rytus.
+    Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, daugiausia puolė
+    Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus
+    apylinkes.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Senosios kronikos mini daug ordino puolimų į Žemaičius ir Aukštaičius, taip pat daug mini lietuvių žygių, tačiau nė viena kronika aiškiai nepasako, kas tuo metu valdė Lietuvą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Senosios kronikos mini daug ordino puolimų į Žemaičius ir Aukštaičius,
+    taip pat daug mini lietuvių žygių, tačiau nė viena kronika aiš-
+    kiai nepasako, kas tuo metu valdė Lietuvą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/kronika]]
+
+### Susiję objektai
+- [[objektai/vietos/Ukmergė]]

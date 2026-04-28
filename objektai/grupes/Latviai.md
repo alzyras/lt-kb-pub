@@ -1,70 +1,38 @@
 ---
 tipas: grupe
-pavadinimas: "Latviai"
-sukurta: "2026-04-18"
-variantai: 
-  - "latvių tauta"
-aliases: 
-  - "Latviai"
-  - "latvių tauta"
+pavadinimas: 'Latviai'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - grupe
 ---
 # Latviai
 
 ## Santrauka
-Šaltinyje „Latviai“ apibūdinama kaip tauta; šaltinyje pasakyta, kad iš vokiečių ordino valdžion patekusių kilčių susiformavo latvių tauta. (t-001)
 
-## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: Latviai
-- Šaltinyje fiksuotos formos: latvių tauta
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: tauta
-Šaltinyje „Latviai“ apibūdinama kaip tauta; šaltinyje pasakyta, kad iš vokiečių ordino valdžion patekusių kilčių susiformavo latvių tauta. (t-001)
-
-## Sudėtis ir vaidmuo
-- Šaltinyje „Latviai“ apibūdinama kaip tauta; šaltinyje pasakyta, kad iš vokiečių ordino valdžion patekusių kilčių susiformavo latvių tauta. (t-001)
+Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, tai iš jų visų susiformavo latvių tauta.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Latviai“ apibūdinama kaip tauta; šaltinyje pasakyta, kad iš vokiečių ordino valdžion patekusių kilčių susiformavo latvių tauta."
+  teiginys: 'Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, tai iš jų visų susiformavo latvių tauta.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Šaltinyje pasakyta, kad iš vokiečių ordino valdžion patekusių kilčių susiformavo latvių tauta.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, tai iš jų visų susiformavo latvių tauta.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kai XIII amž. daugumas šitų kil-
-    čių pateko į vokiečių ordino valdžią, tai iš jų visų susiformavo
+    Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, tai iš jų visų susiformavo
     latvių tauta.
-  citata_rodoma: |
-    Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, tai iš jų visų susiformavo latvių tauta.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

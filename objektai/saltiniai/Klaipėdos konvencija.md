@@ -1,59 +1,35 @@
 ---
 tipas: saltinis
-pavadinimas: "Klaipėdos konvencija"
-sukurta: "2026-04-18"
+pavadinimas: 'Klaipėdos konvencija'
+sukurta: '2026-04-25'
 variantai: []
-aliases:
-  - "Klaipėdos konvencija"
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - "dokumentas"
-laikotarpis: "1924 m. gegužės 8 d."
-datos:
-  - "1924 m. gegužės 8 d."
-periodas: ""
-periodo_grupes: []
-amziai:
-  - "XX"
-date_start: "1924"
-date_end: "1924"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - saltinis
 ---
 # Klaipėdos konvencija
 
-## Bibliografiniai duomenys
+## Santrauka
 
-- Pavadinimas: Klaipėdos konvencija.
-- Formos šaltinyje: Klaipėdos konvencija.
-- Data / laikotarpis: 1924 m. gegužės 8 d.
-- Šaltinio rūšis / žymos: dokumentas.
-
-## Turinys ir apimtis
-
-Šaltinyje „Klaipėdos konvencija“ tai 1924 m. pasirašyta Klaipėdos krašto konvencija, kurios antroji dalis aprašo autonominį statutą.
-
-## Ryšiai
-
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Prancūzų ministeris pirmininkas ir užsienių reikalų ministeris Poincarė, italų ambasadorius Avenzzana, japonų ambasadorius Ishii, anglų markizas de Crewe ir Lietuvos ministeris pirmininkas ir. Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
 
 ## Teiginiai
-
 - t-001
-  teiginys: "Šaltinyje „Klaipėdos konvencija“ tai 1924 m. pasirašyta Klaipėdos krašto konvencija, kurios antroji dalis aprašo autonominį statutą."
+  teiginys: 'Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Prancūzų ministeris pirmininkas ir užsienių reikalų ministeris Poincarė, italų ambasadorius Avenzzana, japonų ambasadorius Ishii, anglų markizas de Crewe ir Lietuvos ministeris pirmininkas ir.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: Tai 1924 m. pasirašyta Klaipėdos krašto konvencija, kurios antroji dalis aprašo autonominį statutą.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Prancūzų ministeris pirmininkas ir užsienių reikalų ministeris Poincarė, italų ambasadorius Avenzzana, japonų ambasadorius Ishii, anglų markizas de Crewe ir Lietuvos ministeris pirmininkas ir.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **_Klaipėdos konvencija,_** kurią 1924 m. gegužės 8 d. pasirašė Pary-
     žiuje Prancūzų ministeris pirmininkas ir užsienių reikalų ministeris
@@ -70,12 +46,29 @@ patikimumas: "aukstas"
     tonominį statutą, būtent apibrėžia vietinių organų kompetenciją,
     nustato seimelio ir direktorijos sudarymą, gubernatoriaus funkcijas,
     santykius tarp teismo organų, dviejų kalbų oficialumą, finansinius
-    atsiskaitymus ir paties statuto keitimo procedūrą.
-  citata_rodoma: |
-    Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Prancūzų ministeris pirmininkas ir užsienių reikalų ministeris Poincarė, italų ambasadorius Avenzzana, japonų ambasadorius Ishii, anglų markizas de Crewe ir Lietuvos ministeris pirmininkas ir užsienių reikalų ministeris Galvanauskas, — susideda iš penkių dalių. Pirmoji — pagrindinė konvencija perduoda Lietuvai suverenitetą Klaipėdos krašte, uždeda pareigą atlyginti okupacijos išlaidas ir dalį reparacijų, nustato optacijos sąlygas, atleidžia klaipėdiečius ligi 1930 metų nuo karo prievolės ir duoda teisę Tautų S-gos tarybos nariams atkreipti dėmesį į konvencijos laužymus; o jei dėl to nebūtų sutikimo su signatarais, šiems paliekama laisvė pateikti ginčą Hagos Teismui. Antroji dalis yra priedėlis, kuris išdėsto autonominį statutą, būtent apibrėžia vietinių organų kompetenciją, nustato seimelio ir direktorijos sudarymą, gubernatoriaus funkcijas, santykius tarp teismo organų, dviejų kalbų oficialumą, finansinius atsiskaitymus ir paties statuto keitimo procedūrą.
+    atsiskaitymus ir paties statuto keitimo procedūrą. Trečiojoj
+    daly nustatomas Klaipėdos uosto valdymas; tarp kito ko, suda-
+    roma uosto direktorija iš Lietuvos vyriausybės, Klaipėdos direktori-
+    jos ir Tautų Sąjungos atstovų ir nustatoma laisvoji uosto zona. Ket-
+    virtoji dalis liečia tranzitą upe ir geležinkeliais. Pagaliau
+    penktoje dalyje signatarai apsiima pripažinti po ratifikacijos
+    teisėtais Lietuvos vyriausybės aktus, kuriais ji palaikė tvarką šalyje.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

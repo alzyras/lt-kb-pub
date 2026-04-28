@@ -1,74 +1,99 @@
 ---
 tipas: asmuo
-pavadinimas: "Hymansas"
-sukurta: "2026-04-18"
-variantai: 
-  - "Hymanso"
-  - "Hymansui"
-aliases: 
-  - "Hymansas"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: 
-  - "1921 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XX"
-date_start: "1921"
-date_end: "1921"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
+pavadinimas: 'Hymansas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Hymansas
 
 ## Santrauka
-Šaltinyje Hymansas apibūdinamas taip: Minimas kaip Belgų atstovas, kuriam pavesta pirmininkauti Lietuvos ir Lenkijos deryboms dėl Vilniaus klausimo.
 
-## Variantai
-- Hymanso
-- Hymansui
-
-## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 1921 m.
-- periodas:
-- periodo_grupes:
-- amziai: XX
-- date_start: 1921
-- date_end: 1921
+Iš lietuvių ir lenkų delegacijų padarytų griežtai priešingų pareiškimų pirmininkas Hymansas norėjo sudaryti tokį kompromisą, kuriuo Lietuvai atiduodamas Vilnius ir jo sritis surištų Lietuvą tam tikrais politiniais, kariniais ir ekonominiais ryšiais su Lenkija. Tada Hymansas dar kartą pakvietė delegacijas į Ženevą ir, skyrium su jomis pasitaręs, rugsėjo mėn. 3 d. pasiūlė Lietuvai ir Lenkijai tą klausimą spręsti tiesioginėmis derybomis, kurioms pirmininkautų Belgų atstovas Hymansas.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Hymansas apibūdinamas taip: Minimas kaip Belgų atstovas, kuriam pavesta pirmininkauti Lietuvos ir Lenkijos deryboms dėl Vilniaus klausimo."
+  teiginys: 'Iš lietuvių ir lenkų delegacijų padarytų griežtai priešingų pareiškimų pirmininkas Hymansas norėjo sudaryti tokį kompromisą, kuriuo Lietuvai atiduodamas Vilnius ir jo sritis surištų Lietuvą tam tikrais politiniais, kariniais ir ekonominiais ryšiais su Lenkija.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Tada Hymansas dar kartą pakvietė delegacijas į Ženevą ir, skyrium su jomis pasitaręs, rugsėjo mėn.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: '3 d. pasiūlė Lietuvai ir Lenkijai tą klausimą spręsti tiesioginėmis derybomis, kurioms pirmininkautų Belgų atstovas Hymansas.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Hymansas dėl tos priežasties turėjo nutraukti derybas ir visą klausimą vėl perkelti į Tautų S-gos Tarybą.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip Belgų atstovas, kuriam pavesta pirmininkauti Lietuvos ir Lenkijos deryboms dėl Vilniaus klausimo.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Iš lietuvių ir lenkų delegacijų padarytų griežtai priešingų pareiškimų pirmininkas Hymansas norėjo sudaryti tokį kompromisą, kuriuo Lietuvai atiduodamas Vilnius ir jo sritis surištų Lietuvą tam tikrais politiniais, kariniais ir ekonominiais ryšiais su Lenkija.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tautų
-    Sąjungos Taryba, negalėdama sutikti su tokia plebiscito ko-
-    medija, 1921 m. kovo mėn. 3 d. pasiūlė Lietuvai ir Lenkijai tą
-    klausimą spręsti tiesioginėmis derybomis, kurioms pirmininkau-
-    tų Belgų atstovas Hymansas.
-  citata_rodoma: |
-    Tautų Sąjungos Taryba, negalėdama sutikti su tokia plebiscito komedija, 1921 m. kovo mėn. 3 d. pasiūlė Lietuvai ir Lenkijai tą klausimą spręsti tiesioginėmis derybomis, kurioms pirmininkautų Belgų atstovas Hymansas.
+    Iš lietuvių ir lenkų delegacijų padarytų griežtai priešingų pa-
+      reiškimų pirmininkas Hymansas norėjo sudaryti tokį kompro-
+      misą, kuriuo Lietuvai atiduodamas Vilnius ir jo sritis surištų
+      Lietuvą tam tikrais politiniais, kariniais ir ekonominiais ryšiais
+      su Lenkija.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Tada Hymansas dar kartą pakvietė delegacijas į Ženevą ir, skyrium su jomis pasitaręs, rugsėjo mėn.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tada Hymansas dar kartą pakvietė
+      delegacijas į Ženevą ir, skyrium su jomis pasitaręs, rugsėjo mėn.
+      3 d. pateikė jau nebe diskusijų bazę, bet patį susitarimo projektą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: '3 d. pasiūlė Lietuvai ir Lenkijai tą klausimą spręsti tiesioginėmis derybomis, kurioms pirmininkautų Belgų atstovas Hymansas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    1921 m. kovo mėn. 3 d. pasiūlė Lietuvai ir Lenkijai tą
+      klausimą spręsti tiesioginėmis derybomis, kurioms pirmininkau-
+      tų Belgų atstovas Hymansas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Hymansas dėl tos priežasties turėjo nutraukti derybas ir visą klausimą vėl perkelti į Tautų S-gos Tarybą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Hymansas dėl tos priežasties turėjo nu-
+      traukti derybas ir visą klausimą vėl perkelti į Tautų S-gos
+      Tarybą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/institucija - tauta]]

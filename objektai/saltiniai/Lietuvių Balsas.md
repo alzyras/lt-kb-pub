@@ -1,79 +1,59 @@
 ---
 tipas: saltinis
-pavadinimas: "Lietuvių Balsas"
-sukurta: "2026-04-18"
-variantai:
-  - "„Lietuvių Balsas\""
-  - "brošiūra"
-  - "„Lietuvių Balsas\""
-  - "„Glos Litwinöw\""
-  - "A. Jakšto lenkiškai parašyta brošiūra"
-aliases:
-  - "Lietuvių Balsas"
-  - "„Lietuvių Balsas\""
-  - "brošiūra"
-  - "„Lietuvių Balsas\""
-  - "„Glos Litwinöw\""
-  - "A. Jakšto lenkiškai parašyta brošiūra"
+pavadinimas: 'Lietuvių Balsas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - "dokumentas"
-laikotarpis: "1902 m."
-datos:
-  - "1902 m."
-periodas: "naujieji_laikai"
-periodo_grupes: []
-amziai:
-  - "XX"
-date_start: "1902"
-date_end: "1902"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - saltinis
 ---
 # Lietuvių Balsas
 
-## Bibliografiniai duomenys
+## Santrauka
 
-- Pavadinimas: Lietuvių Balsas.
-- Formos šaltinyje: „Lietuvių Balsas"; brošiūra.
-- Data / laikotarpis: 1902 m.
-- Šaltinio rūšis / žymos: dokumentas.
-
-## Turinys ir apimtis
-
-Šaltinyje „Lietuvių Balsas“ tai A. Jakšto brošiūra, skirta kvietimui jaunoji bajorija prisidėti prie Lietuvos atgaivinimo darbo.
-
-## Ryšiai
-
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+Jakšto lenkiškai parašyta brošiūra — „Lietuvių Balsas" (1902 m.), kur jaunoji bajorų karta buvo kviečiama j bendrą Lietuvos atgaivinimo darbą. „Lietuvių Balse" („Glos Litwinöw") buvo išdėstyta, kokiomis sąlygomis būtų galimas bendradarbiavimas.
 
 ## Teiginiai
-
 - t-001
-  teiginys: "Šaltinyje „Lietuvių Balsas“ tai A. Jakšto brošiūra, skirta kvietimui jaunoji bajorija prisidėti prie Lietuvos atgaivinimo darbo."
+  teiginys: 'Jakšto lenkiškai parašyta brošiūra — „Lietuvių Balsas" (1902 m.), kur jaunoji bajorų karta buvo kviečiama j bendrą Lietuvos atgaivinimo darbą.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: '„Lietuvių Balse" („Glos Litwinöw") buvo išdėstyta, kokiomis sąlygomis būtų galimas bendradarbiavimas.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: Tai A. Jakšto brošiūra, skirta kvietimui jaunoji bajorija prisidėti prie Lietuvos atgaivinimo darbo.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Jakšto lenkiškai parašyta brošiūra — „Lietuvių Balsas" (1902 m.), kur jaunoji bajorų karta buvo kviečiama j bendrą Lietuvos atgaivinimo darbą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tam tikslui buvo išleista net atskira A. Jakšto lenkiškai
     parašyta brošiūra — „Lietuvių Balsas" (1902 m.), kur
     jaunoji bajorų karta buvo kviečiama j bendrą Lietuvos atgaivi-
     nimo darbą.
-  citata_rodoma: |
-    Tam tikslui buvo išleista net atskira A. Jakšto lenkiškai parašyta brošiūra — „Lietuvių Balsas" (1902 m.), kur jaunoji bajorų karta buvo kviečiama j bendrą Lietuvos atgaivinimo darbą.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '„Lietuvių Balse" („Glos Litwinöw") buvo išdėstyta, kokiomis sąlygomis būtų galimas bendradarbiavimas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    **„Lietuvių Balse"** **_(„Glos Litwinöw")_** buvo išdėstyta, kokiomis
+    sąlygomis būtų galimas bendradarbiavimas. Pirmiausia čia pa-
+    sakoma, kad lietuvių tautiškojo sąjūdžio idealas esąs savos kultū-
+    ros kėlimas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

@@ -1,69 +1,41 @@
 ---
 tipas: vieta
-pavadinimas: "Deimena"
-sukurta: "2026-04-18"
-variantai: 
-  - "Deimenos"
-aliases: 
-  - "Deimena"
-  - "Deimenos"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Deimena'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
 ---
 # Deimena
 
 ## Santrauka
-Šaltinyje vieta „Deimena“ siejama su šiuo kontekstu: Upė minima kaip prūsų ir lietuvių susisiekimo vieta. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Deimena
-- Šaltinyje fiksuotos formos: Deimenos
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: upė
-
-## Geografinis ir istorinis kontekstas
-- Upė minima kaip prūsų ir lietuvių susisiekimo vieta. (t-001)
+Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pasiekus Kuršmares, toliau būdavo plaukiama Deimena pro Labguvą į Prieglių, juo — pro Karaliaučių į Aistmares, iš čia — Nogatu į Vyslą, pagaliau į Dancigą.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Deimena“ siejama su šiuo kontekstu: Upė minima kaip prūsų ir lietuvių susisiekimo vieta."
+  teiginys: 'Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pasiekus Kuršmares, toliau būdavo plaukiama Deimena pro Labguvą į Prieglių, juo — pro Karaliaučių į Aistmares, iš čia — Nogatu į Vyslą, pagaliau į Dancigą.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Upė minima kaip prūsų ir lietuvių susisiekimo vieta.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pasiekus Kuršmares, toliau būdavo plaukiama Deimena pro Labguvą į Prieglių, juo — pro Karaliaučių į Aistmares, iš čia — Nogatu į Vyslą, pagaliau į Dancigą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Prūsų, t. y. vakarinių aisčių siena vakaruose buvo Vyslos
-    upė, o pietuose jų siena ėjo pagal lenkų mozūrų sodybas. Su
-    lietuviais jie susisiekė maždaug toje vietoje, kur teka Deimenos
-    ir Alnos upės.
-  citata_rodoma: ""
+    Lietuva kad ir neturėjo savo uosto, tačiau ir ji stengėsi ekspor-
+    tuoti savo javus. Ji veždavo savo prekes Nemunu; iš Nemuno
+    kelias ėjo per jo šaką Giliją; pasiekus Kuršmares, toliau būdavo
+    plaukiama Deimena pro Labguvą į Prieglių, juo — pro Kara-
+    liaučių į Aistmares, iš čia — Nogatu į Vyslą, pagaliau į Dancigą.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

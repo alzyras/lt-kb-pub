@@ -1,62 +1,65 @@
 ---
 tipas: autorius
-pavadinimas: "Strazdelis"
-sukurta: "2026-04-18"
-variantai: 
-  - "kun. Strazdelis"
-aliases: 
-  - "Strazdelis"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: 
-  - "autorius"
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: 
-  - "autorius"
-dalyviai: 
-  - "Strazdelis"
-susije_irasai: []
-patikimumas: "vidutinis"
+pavadinimas: 'Strazdelis'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - autorius
 ---
 # Strazdelis
 
 ## Santrauka
-Šaltinyje Strazdelis minimas autorystės, redagavimo arba tyrimo kontekste: Minimas tarp dainelių autorių, kurių kūriniai tebedainuojami.
 
-## Darbai
-- Minimas tarp dainelių autorių, kurių kūriniai tebedainuojami. (t-001)
-
-## Kontekstas
-- Tekstas tiesiogiai mini pavardę ir jo dainelių reikšmę. (c-001)
+Nepaprastą reikšmę turėjo Šiaulėniškio Senelio slapyvardžiu daug knygučių išleidęs Valančiaus bendradarbis kun. Juozas Dovydaitis (1825—1882 m.), kun. Strazdelis (1763—1833 m.), vysk. Tuo būdu, kai Lietuvoje buvo draudžiama spauda, Amerikoje buvo išleista daugumas žymesniųjų lietuvių autorių (Duonelaičio, Strazdelio, Daukanto, Valančiaus, Ivinskio, Kudirkos ir t.t.) raštų.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Strazdelis autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas tarp dainelių autorių, kurių kūriniai tebedainuojami."
+  teiginys: 'Nepaprastą reikšmę turėjo Šiaulėniškio Senelio slapyvardžiu daug knygučių išleidęs Valančiaus bendradarbis kun. Juozas Dovydaitis (1825—1882 m.), kun. Strazdelis (1763—1833 m.), vysk.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Tuo būdu, kai Lietuvoje buvo draudžiama spauda, Amerikoje buvo išleista daugumas žymesniųjų lietuvių autorių (Duonelaičio, Strazdelio, Daukanto, Valančiaus, Ivinskio, Kudirkos ir t.t.) raštų.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas tarp dainelių autorių, kurių kūriniai tebedainuojami.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Nepaprastą reikšmę turėjo Šiaulėniškio Senelio slapyvardžiu daug knygučių išleidęs Valančiaus bendradarbis kun. Juozas Dovydaitis (1825—1882 m.), kun. Strazdelis (1763—1833 m.), vysk.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Nepaprastą reikšmę turėjo Šiaulėniškio Senelio slapyvardžiu daug knygučių
+    išleidęs Valančiaus bendradarbis kun. Juozas Dovydaitis
     (1825—1882 m.), kun. Strazdelis (1763—1833 m.), vysk.
     Baranauskas (1835—1902 m.) ir kun. Vienažindys
     (1841—1892 m.), kurių dainelės dar ir dabar tebedainuojamos
-    po visą Lietuvą. Tiek jų lyrika, tiek klasiškoji Baranausko po-
-  citata_rodoma: ""
+    po visą Lietuvą.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: stable_title
-  patikimumo_pagrindimas: "Tekstas tiesiogiai mini pavardę ir jo dainelių reikšmę."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Tuo būdu, kai Lietuvoje buvo draudžiama spauda, Amerikoje buvo išleista daugumas žymesniųjų lietuvių autorių (Duonelaičio, Strazdelio, Daukanto, Valančiaus, Ivinskio, Kudirkos ir t.t.) raštų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo būdu, kai Lietuvoje buvo draudžiama spauda, Amerikoje buvo
+    išleista daugumas žymesniųjų lietuvių autorių (Duonelaičio,
+    Strazdelio, Daukanto, Valančiaus, Ivinskio, Kudirkos ir t.t.)
+    raštų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/knyga]]

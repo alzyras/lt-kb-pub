@@ -1,73 +1,75 @@
 ---
 tipas: vieta
-pavadinimas: "Palenkė"
-sukurta: "2026-04-18"
-variantai: 
-  - "Palenkės"
-  - "Palenkę"
-aliases: 
-  - "Palenkė"
-  - "Palenkės"
-  - "Palenkę"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Palenkė'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - sutartis
+  - vieta
 ---
 # Palenkė
 
 ## Santrauka
-Šaltinyje vieta „Palenkė“ siejama su šiuo kontekstu: Minima kaip Vytenio užimta sritis, kurią Gediminas sujungė su savo valstybe. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Palenkė
-- Šaltinyje fiksuotos formos: Palenkės; Palenkę
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: kraštas / regionas
-
-## Geografinis ir istorinis kontekstas
-- Minima kaip Vytenio užimta sritis, kurią Gediminas sujungė su savo valstybe. (t-001)
+Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva turėjo nepulti ordino žemių, esančių Palenkės pasieny. Pirmiausia tokie kaimai su trilaukiais buvo įvesti Lenkijos kaimynijoje — Palenkėje. Bet šitas jų žingsnis nepasibaigė geruoju: jiems išvažiavus, lenkai išreikalavo iš karaliaus raštų, kuriais Palenkė, Voluinė, Braclavo ir Kijevo žemės buvo prijungiamos prie Lenkijos.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Palenkė“ siejama su šiuo kontekstu: Minima kaip Vytenio užimta sritis, kurią Gediminas sujungė su savo valstybe."
+  teiginys: 'Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva turėjo nepulti ordino žemių, esančių Palenkės pasieny.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Pirmiausia tokie kaimai su trilaukiais buvo įvesti Lenkijos kaimynijoje — Palenkėje.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Bet šitas jų žingsnis nepasibaigė geruoju: jiems išvažiavus, lenkai išreikalavo iš karaliaus raštų, kuriais Palenkė, Voluinė, Braclavo ir Kijevo žemės buvo prijungiamos prie Lenkijos.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minima kaip Vytenio užimta sritis, kurią Gediminas sujungė su savo valstybe.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva turėjo nepulti ordino žemių, esančių Palenkės pasieny.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Gediminas čia glau-
-    džiai sujungė su savo valstybe jau Vytenio užimtą Palenkę, Pa-
-    girį ir gretimąsias sritis, o be to, dar užėmė didelę dalį Voluinės,
-    prijungė po Mindaugo išsivaduvusį Vitebską su gretimaisiais
-    miestais ir paėmė į savo įtaką tolimąjį Kijevą.
-  citata_rodoma: |
-    Gediminas čia glaudžiai sujungė su savo valstybe jau Vytenio užimtą Palenkę, Pagirį ir gretimąsias sritis, o be to, dar užėmė didelę dalį Voluinės, prijungė po Mindaugo išsivaduvusį Vitebską su gretimaisiais miestais ir paėmė į savo įtaką tolimąjį Kijevą.
+    Sutartyje ordinas pasižadėjo ne-
+    pulti Palenkės (pradedant Gardinu), o Lietuva turėjo nepulti or-
+    dino žemių, esančių Palenkės pasieny.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-002
+  santrauka: 'Pirmiausia tokie kaimai su trilaukiais buvo įvesti Lenkijos kaimynijoje — Palenkėje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Toksai ūkis turėjo įtakos ir Lietuvai. Pirmiausia tokie
+    kaimai su trilaukiais buvo įvesti Lenkijos kaimynijoje — Pa-
+    lenkėje. Tuo tarpu visose kitose Lietuvos srityse vyravo kito-
+    niškas ūkis. Čia valstiečiai gyveno po vieną ar po kelis; prasi-
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Bet šitas jų žingsnis nepasibaigė geruoju: jiems išvažiavus, lenkai išreikalavo iš karaliaus raštų, kuriais Palenkė, Voluinė, Braclavo ir Kijevo žemės buvo prijungiamos prie Lenkijos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet šitas jų žingsnis nepasibaigė geruoju: jiems išvažiavus, lenkai išreikalavo iš karaliaus raštų, kuriais Palenkė, Voluinė, Braclavo ir Kijevo žemės buvo prijungiamos prie Lenkijos
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

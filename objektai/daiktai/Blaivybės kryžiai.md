@@ -1,75 +1,71 @@
 ---
 tipas: daiktas
-pavadinimas: "Blaivybės kryžiai"
-sukurta: "2026-04-20"
-variantai:
-  - "kryžius"
-  - "kryžiai"
-aliases:
-  - "Blaivybės kryžiai"
-  - "kryžius"
-  - "kryžiai"
+pavadinimas: 'Blaivybės kryžiai'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - "simbolis"
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - daiktas
+  - kunigas
 ---
 # Blaivybės kryžiai
 
 ## Santrauka
-Šaltinis mini kryžius ir paminklus, kuriuos parapijonys statė blaivybei paminėti. (t-001)
 
-## Pavadinimai šaltiniuose
-- kryžius
-- kryžiai
-
-## Laikotarpis ir datos
-- laikotarpis:
-- datos:
-- periodas:
-- periodo_grupes:
-- amziai:
-- date_start:
-- date_end:
-
-## Kas tai
-Atminimo ir religiniai ženklai, šaltinyje susieti su blaivybės judėjimu. (t-001)
+Užkliuvo Muravjovui ir Lietuvos kaimuose bei pakelėse stovį kryžiai. Patys parapijonys daug kur ėmė bausti apylinkės girtuoklius, o blaivybei paminėti statė kryžius ir paminklus.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinis mini kryžius ir paminklus, kuriuos parapijonys statė blaivybei paminėti."
+  teiginys: 'Užkliuvo Muravjovui ir Lietuvos kaimuose bei pakelėse stovį kryžiai.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Patys parapijonys daug kur ėmė bausti apylinkės girtuoklius, o blaivybei paminėti statė kryžius ir paminklus.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata tiesiogiai nurodo kryžių statymą blaivybei paminėti.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Užkliuvo Muravjovui ir Lietuvos kaimuose bei pakelėse stovį kryžiai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Patys parapijonys daug kur ėmė
-    bausti apylinkės girtuoklius, o blaivybei paminėti statė
-    kryžius ir paminklus.
-  citata_rodoma: |
-    Patys parapijonys daug kur ėmė bausti apylinkės girtuoklius, o blaivybei paminėti statė kryžius ir paminklus.
+    Užkliuvo Muravjovui ir Lietuvos kaimuose bei pakelėse stovį
+      kryžiai. Esą, kunigai tyčia jų daugybę pristatą, norėdami
+      įrodyti krašto katalikiškumą ir skirtingumą nuo Rusijos. Todėl
+      ir jie buvo uždrausti statyti be leidimo; buvo leidžiami statyti
+      tik tokie kryžiai, kurie, esą, aiškiai skirti religiniams reikalams,
+      o ne „lenkiškajai propagandai".
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija kryžius, bet kalba apie bendrą praktiką."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Patys parapijonys daug kur ėmė bausti apylinkės girtuoklius, o blaivybei paminėti statė kryžius ir paminklus.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Patys
+      parapijonys daug kur ėmė
+      bausti apylinkės girtuoklius,
+      o blaivybei paminėti statė
+      kryžius ir paminklus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/kunigas]]
+
+### Susiję objektai
+- [[objektai/ivykiai/Bažnyčios ir religinio gyvenimo suvaržymas Muravjovo laikais]]
+- [[objektai/daiktai/Blaivybės paminklai]]

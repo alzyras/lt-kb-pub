@@ -1,68 +1,64 @@
 ---
 tipas: vieta
-pavadinimas: "Konstantinopolis"
-sukurta: "2026-04-18"
-variantai: 
-  - "Konstantinopolio"
-aliases: 
-  - "Konstantinopolis"
-  - "Konstantinopolio"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Konstantinopolis'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
 ---
 # Konstantinopolis
 
 ## Santrauka
-Šaltinyje vieta „Konstantinopolis“ siejama su šiuo kontekstu: Minimas kaip patriarchato centras, iš kurio paskirtas Lietuvai atskiras metropolitas. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Konstantinopolis
-- Šaltinyje fiksuotos formos: Konstantinopolio
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: miestas / patriarchato centras
-
-## Geografinis ir istorinis kontekstas
-- Minimas kaip patriarchato centras, iš kurio paskirtas Lietuvai atskiras metropolitas. (t-001)
+Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko jam įvykdyti: po pusės metų (1453 m.) Konstantinopolį užėmė turkai, imperija žlugo, o su ja žlugo ir unija. Konstantinopolis, nes Maskvoje sėdįs imperijos įpėdinis.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Konstantinopolis“ siejama su šiuo kontekstu: Minimas kaip patriarchato centras, iš kurio paskirtas Lietuvai atskiras metropolitas."
+  teiginys: 'Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko jam įvykdyti: po pusės metų (1453 m.) Konstantinopolį užėmė turkai, imperija žlugo, o su ja žlugo ir unija.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Konstantinopolis, nes Maskvoje sėdįs imperijos įpėdinis.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip patriarchato centras, iš kurio paskirtas Lietuvai atskiras metropolitas.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko jam įvykdyti: po pusės metų (1453 m.) Konstantinopolį užėmė turkai, imperija žlugo, o su ja žlugo ir unija.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Algirdas vis dėlto laimėjo: Konstantinopolio patriarchas pa-
-    skyrė Lietuvai atskirą metropolitą, kuris apsigyveno Kijeve.
-  citata_rodoma: |
-    Algirdas vis dėlto laimėjo: Konstantinopolio patriarchas paskyrė Lietuvai atskirą metropolitą, kuris apsigyveno Kijeve.
+    Tačiau galutinai dėl unijos buvo susitarta kiek vė-
+    liau Florencijoje. Tas susitarimas buvo paskelbtas Konstantino-
+    poly 1452 m., tik jau nebebuvo laiko jam įvykdyti: po pusės
+    metų (1453 m.) Konstantinopolį užėmė turkai, imperija žlugo, o
+    su ja žlugo ir unija.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Konstantinopolis, nes Maskvoje sėdįs imperijos įpėdinis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Konstantinopolis, nes Maskvoje sėdįs imperijos įpėdinis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/unija]]
+
+### Susiję objektai
+- [[objektai/vietos/Florencija]]

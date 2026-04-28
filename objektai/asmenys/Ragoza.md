@@ -1,62 +1,54 @@
 ---
 tipas: asmuo
-pavadinimas: "Ragoza"
-sukurta: "2026-04-18"
-variantai: 
-  - "Ragozą"
-aliases: 
-  - "Ragoza"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
+pavadinimas: 'Ragoza'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Ragoza
 
 ## Santrauka
-Šaltinyje Ragoza apibūdinamas taip: Minimas kaip Kijevo metropolitas, siejamas su Maskvos patriarchu ir unijos klausimu.
 
-## Variantai
-- Ragozą
+Jis rūpinosi, kad šiam naujajam patriarchui priklausytų Kijevo metropolitas, kuriuo tuomet buvo Ragoza. Ragoza galėjo atsisakyti klausęs Jeremijo ir pasiduoti Maskvos patriarchui.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Ragoza apibūdinamas taip: Minimas kaip Kijevo metropolitas, siejamas su Maskvos patriarchu ir unijos klausimu."
+  teiginys: 'Jis rūpinosi, kad šiam naujajam patriarchui priklausytų Kijevo metropolitas, kuriuo tuomet buvo Ragoza.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Ragoza galėjo atsisakyti klausęs Jeremijo ir pasiduoti Maskvos patriarchui.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip Kijevo metropolitas, siejamas su Maskvos patriarchu ir unijos klausimu.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Jis rūpinosi, kad šiam naujajam patriarchui priklausytų Kijevo metropolitas, kuriuo tuomet buvo Ragoza.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jis rūpinosi, kad šiam naujajam patriarchui priklausytų Kijevo
-    metropolitas, kuriuo tuomet buvo Ragoza. Šis buvo susi-
-    pykęs su Konstantinopolio patriarchu Jeremiju: mat, Jeremijas
-    reikalavo iš jo per didelio mokesčio už įšventimą. Todėl
-    Ragoza galėjo atsisakyti klausęs Jeremijo ir pasiduoti Maskvos
-    patriarchui.
-  citata_rodoma: |
-    Jis rūpinosi, kad šiam naujajam patriarchui priklausytų Kijevo metropolitas, kuriuo tuomet buvo Ragoza. Šis buvo susipykęs su Konstantinopolio patriarchu Jeremiju: mat, Jeremijas reikalavo iš jo per didelio mokesčio už įšventimą. Todėl Ragoza galėjo atsisakyti klausęs Jeremijo ir pasiduoti Maskvos patriarchui.
+      metropolitas, kuriuo tuomet buvo Ragoza.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-002
+  santrauka: 'Ragoza galėjo atsisakyti klausęs Jeremijo ir pasiduoti Maskvos patriarchui.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Ragoza galėjo atsisakyti klausęs Jeremijo ir pasiduoti Maskvos patriarchui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

@@ -1,60 +1,53 @@
 ---
 tipas: autorius
-pavadinimas: "T. Korzon"
-sukurta: "2026-04-18"
+pavadinimas: 'T. Korzon'
+sukurta: '2026-04-25'
 variantai: []
-aliases: 
-  - "T. Korzon"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: 
-  - "autorius"
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: 
-  - "autorius"
-dalyviai: 
-  - "T. Korzon"
-susije_irasai: []
-patikimumas: "vidutinis"
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - autorius
 ---
 # T. Korzon
 
 ## Santrauka
-Šaltinyje T. Korzon minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip karo ir karo istorijos autorius.
 
-## Darbai
-- Bibliografijoje nurodytas kaip karo ir karo istorijos autorius. (t-001)
-
-## Kontekstas
-- Bibliografinė eilutė tiesiogiai įvardija Korzoną kaip veikalo autorių. (c-001)
+Korzon, Dzieje wojen i wojskowości w Polsce, I—III (1923);. Korzon, Dola i niedola Jana Sobieskiego I—III;.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje T. Korzon autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip karo ir karo istorijos autorius."
+  teiginys: 'Korzon, Dzieje wojen i wojskowości w Polsce, I—III (1923);.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Korzon, Dola i niedola Jana Sobieskiego I—III;.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Bibliografijoje nurodytas kaip karo ir karo istorijos autorius.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Korzon, Dzieje wojen i wojskowości w Polsce, I—III (1923);.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    _V. Smoleński,_ Lenkų t. ist. (1925; _Kasakaičio_ vert.); T. _Korzon,_ Dzieje
-    wojen i wojskowości w Polsce, I—III (1923); _A. Bruckner,_ Dzieje kultury
-  citata_rodoma: |
-    V. Smoleński, Lenkų t. ist. (1925; Kasakaičio vert.); T. Korzon, Dzieje wojen i wojskowości w Polsce, I—III (1923); A. Bruckner, Dzieje kultury
+    T. _Korzon,_ Dzieje wojen i wojskowości w Polsce, I—III (1923);
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Bibliografinė eilutė tiesiogiai įvardija Korzoną kaip veikalo autorių."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Korzon, Dola i niedola Jana Sobieskiego I—III;.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    _T. Korzon,_ Dola i niedola Jana Sobieskiego I—III;
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

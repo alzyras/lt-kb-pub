@@ -1,71 +1,90 @@
 ---
 tipas: ivykis
-pavadinimas: "Vilniaus akademijos įkūrimas (1579 m.)"
-sukurta: "2026-04-20"
+pavadinimas: 'Vilniaus akademijos įkūrimas (1579 m.)'
+sukurta: '2026-04-25'
 variantai: []
 aliases: []
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: 
-  - "politinis-sprendimas"
-laikotarpis: "1579 m."
-datos: 
-  - "1579 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XVI"
-date_start: "1579"
-date_end: "1579"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - didikas
+  - ivykis
 ---
 # Vilniaus akademijos įkūrimas (1579 m.)
 
 ## Santrauka
 
-Vilniaus jėzuitai paprašė leisti įkurti akademiją, karalius davė privilegijos raštą, o vėliau akademijos įkūrimą patvirtino popiežius. (t-001)
-
-## Laikotarpis ir datos
-
-- laikotarpis: 1579 m. (t-001)
-- datos: 1579 m. (t-001)
-- amziai: XVI (t-001)
-- date_start/date_end: 1579 / 1579 (t-001)
+Kliūčių akademijai kurti atsirado pačioje Lietuvoje. Pirmuoju akademijos rektorium buvo paskirtas mozūras, ir tada jau žinomas, o vėliau dar labiau pragarsėjęs teologas, rašytojas ir pamokslininkas Petras Skarga. Todėl kai 1578 m. Vilniaus jėzuitai per vysk.
 
 ## Teiginiai
-
 - t-001
-  teiginys: "Vilniaus jėzuitai paprašė leisti įkurti akademiją, karalius davė privilegijos raštą, o vėliau akademijos įkūrimą patvirtino popiežius."
+  teiginys: 'Kliūčių akademijai kurti atsirado pačioje Lietuvoje.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Pirmuoju akademijos rektorium buvo paskirtas mozūras, ir tada jau žinomas, o vėliau dar labiau pragarsėjęs teologas, rašytojas ir pamokslininkas Petras Skarga.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Todėl kai 1578 m. Vilniaus jėzuitai per vysk.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: Vilniaus jėzuitai paprašė leisti įkurti akademiją, karalius davė privilegijos raštą, o vėliau akademijos įkūrimą patvirtino popiežius.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Kliūčių akademijai kurti atsirado pačioje Lietuvoje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Juos rėmė ir daug kitų atverstų didikų, o ypač dievobaimingoji
-    Zigmanto Augusto sesuo Ona (ta pati, kuri buvo numatyta
-    žmona karaliui Henrikui ir kurią vedė Stp. Batoras). Jėzuitams
-    rodė palankumą ir patsai karalius Stp. Batoras; jis tikėjosi, kad
-    apsukrūs, gerai organizuoti, per mokyklas, bažnyčias ir kitokiais
-    būdais veikią jėzuitai galės būti gera jo valdžiai parama ir padės
-    suvaldyti padriką bajorų visuomenę. Todėl kai 1578 m. Vilniaus
-    jėzuitai per vysk. Protasevičių ir J. Radvilą paprašė jį leisti
+    **Kliūčių** akademijai kurti atsirado pačioje Lietuvoje. Jos įkū-
+    rimui karštai priešinosi Lietuvos didikai protestantai. Abudu
+    kancleriai — Radvila ir Valavičius — net buvo atsisakę prispausti
+    privilegijoje valstybinį antspaudą. Galingasis Radvila nenusileido.
+    Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vice-
+    kanclerio urėdas, nusileido ir prispaudė antspaudą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Pirmuoju akademijos rektorium buvo paskirtas mozūras, ir tada jau žinomas, o vėliau dar labiau pragarsėjęs teologas, rašytojas ir pamokslininkas Petras Skarga.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pirmuoju akademijos rektorium buvo paskirtas mozūras,
+    ir tada jau žinomas, o vėliau dar labiau pragarsėjęs teologas,
+    rašytojas ir pamokslininkas Petras Skarga. Akademija
+    greit iškilo ir ilgą laiką buvo centralinė Lietuvos švietimo įstaiga.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Todėl kai 1578 m. Vilniaus jėzuitai per vysk.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Todėl kai 1578 m. Vilniaus jėzuitai per vysk. Protasevičių ir J. Radvilą paprašė jį leisti
     įkurti Vilniuje akademiją, Stp. Batoras labai mielai sutiko ir
     davė privilegijos raštą, kurį jis antrą kartą iškilmingai patvirtino
     atvykęs į Lietuvą (1579 m.). Netrukus akademijos įkūrimą pa-
     tvirtino ir popiežius.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia teiginį šaltinio tekste."
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-003
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/didikas]]
+- [[temos/popiežius]]
+
+### Laikotarpiai
+- [[laikotarpiai/XVI amžius]]

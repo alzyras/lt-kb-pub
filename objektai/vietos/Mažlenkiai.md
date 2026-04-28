@@ -1,72 +1,49 @@
 ---
 tipas: vieta
-pavadinimas: "Mažlenkiai"
-sukurta: "2026-04-18"
-variantai: 
-  - "Mažlenkių"
-aliases: 
-  - "Mažlenkiai"
-  - "Mažlenkių"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1772 m."
-datos: 
-  - "1772 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XVIII"
-date_start: "1772"
-date_end: "1772"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
+pavadinimas: 'Mažlenkiai'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
 ---
 # Mažlenkiai
 
 ## Santrauka
-Šaltinyje vieta „Mažlenkiai“ siejama su šiuo kontekstu: Minimi kaip Austrijos užimta Respublikos dalis pirmojo padalinimo metu. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Mažlenkiai
-- Šaltinyje fiksuotos formos: Mažlenkių
-
-## Laikotarpis ir datos
-- laikotarpis: 1772 m.
-- datos: 1772 m.
-- amziai: XVIII
-- date_start/date_end: 1772 / 1772
-
-## Kas tai
-- tipas: kraštas / regionas
-
-## Geografinis ir istorinis kontekstas
-- Minimi kaip Austrijos užimta Respublikos dalis pirmojo padalinimo metu. (t-001)
+Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Mažlenkiai“ siejama su šiuo kontekstu: Minimi kaip Austrijos užimta Respublikos dalis pirmojo padalinimo metu."
+  teiginys: 'Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimi kaip Austrijos užimta Respublikos dalis pirmojo padalinimo metu.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Austrija užėmė dalį Mažlenkių ir Galicijos, o Prūsija
-    — Lenkijos Pavyslį ir Varmijos vyskupystę.
-  citata_rodoma: ""
+    Sudarant Liublino
+    uniją, Lenkijoje, be sei-
+    melių, dar būdavo daro-
+    mi dviejų jos provincijų
+    — Didlenkių ir Mažlen-
+    kių — atskiri astovų su-
+    važiavimai, vadinami
+    generaliniais sei-
+    meliais.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/unija]]

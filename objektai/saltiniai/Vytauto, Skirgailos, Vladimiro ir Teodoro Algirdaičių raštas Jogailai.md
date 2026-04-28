@@ -1,74 +1,61 @@
 ---
 tipas: saltinis
-pavadinimas: "Vytauto, Skirgailos, Vladimiro ir Teodoro Algirdaičių raštas Jogailai"
-sukurta: "2026-04-18"
-variantai:
-  - "IV. Vytauto, Skirgailos, Vladimiro ir Teodoro Algirdaičių raštas Jogailai"
-aliases:
-  - "Vytauto, Skirgailos, Vladimiro ir Teodoro Algirdaičių raštas Jogailai"
-  - "IV. Vytauto, Skirgailos, Vladimiro ir Teodoro Algirdaičių raštas Jogailai"
+pavadinimas: 'Vytauto, Skirgailos, Vladimiro ir Teodoro Algirdaičių raštas Jogailai'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - "dokumentas"
-laikotarpis: "1394 m. vasario 18 d."
-datos:
-  - "1394 m. vasario 18 d."
-periodas: "viduramziai"
-periodo_grupes: []
-amziai:
-  - "XIV"
-date_start: "1394"
-date_end: "1394"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - saltinis
 ---
 # Vytauto, Skirgailos, Vladimiro ir Teodoro Algirdaičių raštas Jogailai
 
-## Bibliografiniai duomenys
+## Santrauka
 
-- Pavadinimas: Vytauto, Skirgailos, Vladimiro ir Teodoro Algirdaičių raštas Jogailai.
-- Formos šaltinyje: Vytauto, Skirgailos, Vladimiro ir Teodoro Algirdaičių raštas Jogailai.
-- Data / laikotarpis: 1394 m. vasario 18 d.
-- Šaltinio rūšis / žymos: dokumentas.
-
-## Turinys ir apimtis
-
-Šaltinyje „Vytauto, Skirgailos, Vladimiro ir Teodoro Algirdaičių raštas Jogailai“ tai Krokuvoje rašytas laiduojamasis raštas, susijęs su Andriaus paleidimu iš nelaisvės.
-
-## Ryšiai
-
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+Vytauto, Skirgailos, Vladimiro ir Teodoro Algirdaičių raštas Jogailai (rašytas Krokuvoje 1394 m. vasario 18 d.). Ten jis belaisviu išbuvo iki 1394 m. Tik tada, Vytautui, Skirgailai, Kijevo kunig.
 
 ## Teiginiai
-
 - t-001
-  teiginys: "Šaltinyje „Vytauto, Skirgailos, Vladimiro ir Teodoro Algirdaičių raštas Jogailai“ tai Krokuvoje rašytas laiduojamasis raštas, susijęs su Andriaus paleidimu iš nelaisvės."
+  teiginys: 'Vytauto, Skirgailos, Vladimiro ir Teodoro Algirdaičių raštas Jogailai (rašytas Krokuvoje 1394 m. vasario 18 d.).'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Ten jis belaisviu išbuvo iki 1394 m. Tik tada, Vytautui, Skirgailai, Kijevo kunig.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: Tai Krokuvoje rašytas laiduojamasis raštas, susijęs su Andriaus paleidimu iš nelaisvės.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Vytauto, Skirgailos, Vladimiro ir Teodoro Algirdaičių raštas Jogailai (rašytas Krokuvoje 1394 m. vasario 18 d.).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **IV. Vytauto, Skirgailos, Vladimiro ir Teodoro Algirdaičių raštas Jogailai**
     (rašytas Krokuvoje 1394 m. vasario 18 d.). Vyriausiasis Jogailos brolis,
     Andrius, kuris ilgai kovojo su Jogaila, norėdamas atimti iš jo didžiojo
     kunigaikščio sostą, — 1387 m. buvo nugalėtas (žiūr. 109 psl.) ir, kaip
-    belaisvis, išvežtas į Krokuvą. Ten jis belaisviu išbuvo iki 1394 m. Tik tada,
-    Vytautui, Skirgailai, Kijevo kunig. Vladimirui ir Ratnos kunigaikščiui Teodorui
-    laidavus, Andrius buvo paleistas.
-  citata_rodoma: |
-    IV. Vytauto, Skirgailos, Vladimiro ir Teodoro Algirdaičių raštas Jogailai (rašytas Krokuvoje 1394 m. vasario 18 d.). Vyriausiasis Jogailos brolis, Andrius, kuris ilgai kovojo su Jogaila, norėdamas atimti iš jo didžiojo kunigaikščio sostą, — 1387 m. buvo nugalėtas (žiūr. 109 psl.) ir, kaip belaisvis, išvežtas į Krokuvą. Ten jis belaisviu išbuvo iki 1394 m. Tik tada, Vytautui, Skirgailai, Kijevo kunig. Vladimirui ir Ratnos kunigaikščiui Teodorui laidavus, Andrius buvo paleistas.
+    belaisvis, išvežtas į Krokuvą.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Ten jis belaisviu išbuvo iki 1394 m. Tik tada, Vytautui, Skirgailai, Kijevo kunig.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Ten jis belaisviu išbuvo iki 1394 m. Tik tada,
+    Vytautui, Skirgailai, Kijevo kunig. Vladimirui ir Ratnos kunigaikščiui Teodorui
+    laidavus, Andrius buvo paleistas. Tai kaip tik ir yra tas laiduojamasis doku-
+    mentas. Iš keturių prie jo prisegtų antspaudų, kaip matome, yra likęs tik
+    vienas, — Skirgailos antspaudas, o kiti jau nutrupėję.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

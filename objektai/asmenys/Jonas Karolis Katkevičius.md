@@ -1,108 +1,99 @@
 ---
 tipas: asmuo
-pavadinimas: "Jonas Karolis Katkevičius"
-sukurta: "2026-04-18"
-variantai: 
-  - "Jonas Karolis K."
-  - "Jono Karolio Katkevičiaus"
-  - "Katkevičius"
-  - "Jonas Karolis"
-  - "Joną Karolį"
-aliases: 
-  - "Jonas Karolis Katkevičius"
-  - "Jonas Karolis"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1599—1616 m.; 1600—1605 m.; 1605—1621 m.; 1616—1621 m."
-datos: 
-  - "1599—1616 m.; 1600—1605 m.; 1605—1621 m.; 1616—1621 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XVI"
-  - "XVII"
-date_start: "1579"
-date_end: "1621"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Jonas Karolis Katkevičius'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
+  - vyskupas
 ---
 # Jonas Karolis Katkevičius
 
 ## Santrauka
-Šaltinyje Jonas Karolis Katkevičius apibūdinamas taip: Minimas kaip Žemaičių seniūnas, lauko hetmonas, didysis hetmonas ir Vilniaus vaivada.
 
-## Variantai
-- Jonas Karolis K.
-- Jono Karolio Katkevičiaus
-- Katkevičius
-- Jonas Karolis
-- Joną Karolį
-
-## Laikotarpis ir datos
-- laikotarpis: 1599—1616 m.; 1600—1605 m.; 1605—1621 m.; 1616—1621 m.
-- datos: 1599—1616 m.; 1600—1605 m.; 1605—1621 m.; 1616—1621 m.
-- periodas:
-- periodo_grupes:
-- amziai: XVI, XVII
-- date_start: 1579
-- date_end: 1621
+Jos nebeišgelbėjo nė karaliaus atsiųstas Katkevičius. Katkevičius (Mūsų Žin. († 1579 m.) mirus, jo vietą užėmė sūnus Jonas Karolis.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Jonas Karolis Katkevičius apibūdinamas taip: Minimas kaip Žemaičių seniūnas, lauko hetmonas, didysis hetmonas ir Vilniaus vaivada."
+  teiginys: 'Jos nebeišgelbėjo nė karaliaus atsiųstas Katkevičius.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje Jonas Karolis Katkevičius taip pat minimas trumpuoju vardu Jonas Karolis: Jonas Jeronimas Katkevičius savo sūnų Joną Karolį, būsimą Vilniaus vaivadą, hetmoną ir karo vadą, atidavė auklėti jėzuitams."
+  teiginys: 'Katkevičius (Mūsų Žin.'
   pagrindžia:
     - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-003
+  teiginys: '(† 1579 m.) mirus, jo vietą užėmė sūnus Jonas Karolis.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko vyskupo Isaikovskio ir kt.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip Žemaičių seniūnas, lauko hetmonas, didysis hetmonas ir Vilniaus vaivada.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Jos nebeišgelbėjo nė karaliaus atsiųstas Katkevičius.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jonas Karolis Katkevičius,
-    Jono Jeronimo K. († 1579 m.) sū-
-    nus,— 1599—1616 m. Žemaičių se-
-    niūnas, 1600—1605 m. lauko hetmo-
-    nas, 1605—1621 m. did. hetmonas,
-    1616—1621 m. Vilniaus vaivada.
-  citata_rodoma: |
-    Jonas Karolis Katkevičius, Jono Jeronimo K. († 1579 m.) sūnus,— 1599—1616 m. Žemaičių seniūnas, 1600—1605 m. lauko hetmonas, 1605—1621 m. did. hetmonas, 1616—1621 m. Vilniaus vaivada.
+    Jos nebeišgelbėjo nė karaliaus atsiųstas Katkevičius.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Jonas Jeronimas Katkevičius savo sūnų Joną Karolį, būsimą Vilniaus vaivadą, hetmoną ir karo vadą, atidavė auklėti jėzuitams.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Katkevičius (Mūsų Žin.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pats
-    apsukrusis ir įtakingasis to meto Lietuvos politikos veikėjas,
-    Žemaičių seniūnas ir Livonijos valdytojas Jonas Jeronimas Kat-
-    kevičius, ne tik patsai metė kalvinizmą, bet taip pat ir savo
-    sūnų Joną Karolį, — būsimąjį Vilniaus vaivadą, hetmoną, ge-
-    nialųjį karo vadą, — atidavė auklėti jėzuitams.
-  citata_rodoma: |
-    Apsukrusis ir įtakingasis Lietuvos politikos veikėjas, Žemaičių seniūnas ir Livonijos valdytojas Jonas Jeronimas Katkevičius, ne tik pats metė kalvinizmą, bet ir savo sūnų Joną Karolį, būsimąjį Vilniaus vaivadą, hetmoną ir genialų karo vadą, atidavė auklėti jėzuitams.
+    _A. Śliwiński,_ J. K. Chod-
+      kiewicz (1929) ; _Balčiūnas,_ Pirmasis švedų karas ir Kirchholmo kova (Karo
+      Arch. I); _V. Biržiška,_ D. Lietuvos hetmonas J. K. Katkevičius (Mūsų Žin.
+      1921, Nr. 3); — XV—XVIII a. Lietuvos kariuomenės vadai (ten pat, 1922,
+      NN 6—7); _A. Hyrschberg,_ Dymitr Samozwaniec (1898) ; _I. I. Lappo,_ Ban-
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Citatoje trumpasis vardas susietas su Jono Jeronimo Katkevičiaus sūnumi ir būsimu Vilniaus vaivada, hetmonu bei karo vadu."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: '(† 1579 m.) mirus, jo vietą užėmė sūnus Jonas Karolis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Jonui Jeronimui K. († 1579
+      m.) mirus, jo vietą užėmė sūnus Jonas Karolis. Iš pradžių
+      jis gavo Žemaičių seniūniją ir lauko hetmono buožę, o vėliau (1605
+      m.) — didžiojo hetmono buožę ir Vilniaus vaivadiją (1616 m.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko vyskupo Isaikovskio ir kt.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
+      Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko
+      vyskupo Isaikovskio ir kt. fundacija).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/asmenys/Isaikovskis]]

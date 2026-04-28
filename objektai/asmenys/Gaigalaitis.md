@@ -1,72 +1,63 @@
 ---
 tipas: asmuo
-pavadinimas: "Gaigalaitis"
-sukurta: "2026-04-18"
-variantai: 
-  - "Gaigalaitį"
-aliases: 
-  - "Gaigalaitis"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1903 m.; 1908 m.; 1913 m."
-datos: 
-  - "1903 m.; 1908 m.; 1913 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XX"
-date_start: "1903"
-date_end: "1913"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Gaigalaitis'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
+  - kunigas
 ---
 # Gaigalaitis
 
 ## Santrauka
-Šaltinyje Gaigalaitis apibūdinamas taip: Minimas kaip kunigas dr., 1903 m. išrinktas į karalystės parlamentą.
 
-## Variantai
-- Gaigalaitį
-
-## Laikotarpis ir datos
-- laikotarpis: 1903 m.; 1908 m.; 1913 m.
-- datos: 1903 m.; 1908 m.; 1913 m.
-- periodas:
-- periodo_grupes:
-- amziai: XX
-- date_start: 1903
-- date_end: 1913
+1903 m. Klaipėdos apygardoje vėl lietuviams pasisekė išrinkti savo kandidatą į karalystės parlamentą — kunigą dr. Gaigalaitį. Gaigalaitis buvo išrinktas antrą ir trečią kartą ir išbuvo atstovu iki pat didžiojo karo pabaigos.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Gaigalaitis apibūdinamas taip: Minimas kaip kunigas dr., 1903 m. išrinktas į karalystės parlamentą."
+  teiginys: '1903 m. Klaipėdos apygardoje vėl lietuviams pasisekė išrinkti savo kandidatą į karalystės parlamentą — kunigą dr. Gaigalaitį.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Gaigalaitis buvo išrinktas antrą ir trečią kartą ir išbuvo atstovu iki pat didžiojo karo pabaigos.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip kunigas dr., 1903 m. išrinktas į karalystės parlamentą.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: '1903 m. Klaipėdos apygardoje vėl lietuviams pasisekė išrinkti savo kandidatą į karalystės parlamentą — kunigą dr. Gaigalaitį.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    1903
-    m. Klaipėdos apygardoje vėl lietuviams pasisekė išrinkti savo
-    kandidatą į karalystės parlamentą — kunigą dr. Gaigalaitį.
-    1908 m. ir 1913 m. jis buvo išrinktas antrą ir trečią kartą ir iš-
-    buvo atstovu iki pat didžiojo karo pabaigos.
-  citata_rodoma: |
-    1903 m. Klaipėdos apygardoje vėl lietuviams pasisekė išrinkti savo kandidatą į karalystės parlamentą — kunigą dr. Gaigalaitį. 1908 m. ir 1913 m. jis buvo išrinktas antrą ir trečią kartą ir išbuvo atstovu iki pat didžiojo karo pabaigos.
+    1903 m. Klaipėdos apygardoje vėl lietuviams pasisekė išrinkti savo
+      kandidatą į karalystės parlamentą — kunigą dr. Gaigalaitį.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Gaigalaitis buvo išrinktas antrą ir trečią kartą ir išbuvo atstovu iki pat didžiojo karo pabaigos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    1908 m. ir 1913 m. jis buvo išrinktas antrą ir trečią kartą ir iš-
+      buvo atstovu iki pat didžiojo karo pabaigos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/kunigas]]
+
+### Susiję objektai
+- [[objektai/ivykiai/Kunigo dr. Gaigalaičio išrinkimas ir perrinkimai Klaipėdos apygardoje (1903, 1908, 1913 m.)]]

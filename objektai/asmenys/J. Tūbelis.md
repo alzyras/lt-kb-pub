@@ -1,61 +1,62 @@
 ---
 tipas: asmuo
-pavadinimas: "J. Tūbelis"
-sukurta: "2026-04-18"
-variantai: 
-  - "Tūbelis"
-aliases: 
-  - "J. Tūbelis"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'J. Tūbelis'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # J. Tūbelis
 
 ## Santrauka
-Šaltinyje J. Tūbelis apibūdinamas taip: Minimas kaip dabartinis prezidentas, išvarytas iš gimnazijos už pasipriešinimą rusinimui.
 
-## Variantai
-- Tūbelis
+Tūbelis ir daugybė kitų. Juozas Tūbelis, dabartinis Ministeris Pirmininkas (nuo 1929 m.).
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje J. Tūbelis apibūdinamas taip: Minimas kaip dabartinis prezidentas, išvarytas iš gimnazijos už pasipriešinimą rusinimui."
+  teiginys: 'Tūbelis ir daugybė kitų.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Juozas Tūbelis, dabartinis Ministeris Pirmininkas (nuo 1929 m.).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip dabartinis prezidentas, išvarytas iš gimnazijos už pasipriešinimą rusinimui.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Tūbelis ir daugybė kitų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vis dėlto, kapelionų skatinami, mokiniai priešindavosi pravo-
-    slavinimui, atsisakydavo net mokyklą lankyti. Daugelis jų nuken-
-    tėjo — buvo išvaryti iš gimnazijų; jų tarpe buvo išvaryti dabar-
-    tinis prezidentas A. Smetona, ministeris pirmininkas J. Tūbelis ir
-    daugybė kitų.
-  citata_rodoma: |
-    Vis dėlto, kapelionų skatinami, mokiniai priešindavosi pravoslavinimui, atsisakydavo net mokyklą lankyti. Daugelis jų nukentėjo — buvo išvaryti iš gimnazijų; jų tarpe buvo išvaryti dabartinis prezidentas A. Smetona, ministeris pirmininkas J. Tūbelis ir daugybė kitų.
+    Daugelis jų nuken-
+      tėjo — buvo išvaryti iš gimnazijų; jų tarpe buvo išvaryti dabar-
+      tinis prezidentas A. Smetona, ministeris pirmininkas J. Tūbelis ir
+      daugybė kitų.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Juozas Tūbelis, dabartinis Ministeris Pirmininkas (nuo 1929 m.).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Juozas Tūbelis,
+      dabartinis Ministeris Pirmininkas
+      (nuo 1929 m.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]

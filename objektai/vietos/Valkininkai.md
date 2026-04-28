@@ -1,96 +1,82 @@
 ---
 tipas: vieta
-pavadinimas: "Valkininkai"
-sukurta: "2026-04-18"
-variantai: 
-  - "Valkininkų"
-  - "Valkininkuose"
-aliases: 
-  - "Valkininkai"
-  - "Valkininkų"
-  - "Valkininkuose"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1700 m."
-datos: 
-  - "1700 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XVII"
-date_start: "1700"
-date_end: "1700"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Valkininkai'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
 ---
 # Valkininkai
 
 ## Santrauka
-Šaltinyje vieta „Valkininkai“ siejama su šiais kontekstais: Valkininkai minimi konfederacijos pavadinime; Minimas kaip galutinė vieta, prie kurios priėjo Sapiegas puolę būriai ir kur vyko konfederacijos įvykiai. (t-001, t-002)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Valkininkai
-- Šaltinyje fiksuotos formos: Valkininkų; Valkininkuose
-
-## Laikotarpis ir datos
-- laikotarpis: 1700 m.
-- datos: 1700 m.
-- amziai: XVII
-- date_start/date_end: 1700 / 1700
-
-## Kas tai
-- tipas: miestelis
-
-## Geografinis ir istorinis kontekstas
-- Valkininkai minimi konfederacijos pavadinime. (t-001)
-- Minimas kaip galutinė vieta, prie kurios priėjo Sapiegas puolę būriai ir kur vyko konfederacijos įvykiai. (t-002)
+Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugybė jų dvarus plėšiančių būrių, kurie pagaliau susispietė Lydos ir Ašmenos apylinkėse, o iš ten atėjo prie Valkininkų. Višniaveckis jį nusivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepaisydama Višniaveckio pasipriešinimo, jį kardais sukapojo. Jis datuotas Valkininkuose 1700 m. lapkričio 24 d., t.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Valkininkai“ siejama su šiuo kontekstu: Valkininkai minimi konfederacijos pavadinime."
+  teiginys: 'Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugybė jų dvarus plėšiančių būrių, kurie pagaliau susispietė Lydos ir Ašmenos apylinkėse, o iš ten atėjo prie Valkininkų.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Valkininkai“ siejama su šiuo kontekstu: Minimas kaip galutinė vieta, prie kurios priėjo Sapiegas puolę būriai ir kur vyko konfederacijos įvykiai."
+  teiginys: 'Višniaveckis jį nusivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepaisydama Višniaveckio pasipriešinimo, jį kardais sukapojo.'
   pagrindžia:
     - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Jis datuotas Valkininkuose 1700 m. lapkričio 24 d., t.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Valkininkai minimi konfederacijos pavadinime.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata_originali: |
-    - 1700 m. Valkininkų konfederacija 14. Tolimesnės Lietuvos bajorijos kovos su Sapiegomis ir
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Minimas kaip galutinė vieta, prie kurios priėjo Sapiegas puolę būriai ir kur vyko konfederacijos įvykiai.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugybė jų dvarus plėšiančių būrių, kurie pagaliau susispietė Lydos ir Ašmenos apylinkėse, o iš ten atėjo prie Valkininkų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte
     atsirado daugybė jų dvarus plėšiančių būrių, kurie pagaliau susi-
     spietė Lydos ir Ašmenos apylinkėse, o iš ten atėjo prie Val-
     kininkų.
-  citata_rodoma: |
-    Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugybė jų dvarus plėšiančių būrių, kurie pagaliau susispietė Lydos ir Ašmenos apylinkėse, o iš ten atėjo prie Valkininkų.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Višniaveckis jį nusivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepaisydama Višniaveckio pasipriešinimo, jį kardais sukapojo.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Višniaveckis jį nu-
+    sivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepai-
+    sydama Višniaveckio pasipriešinimo, jį kardais sukapojo
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Jis datuotas Valkininkuose 1700 m. lapkričio 24 d., t.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tas raštas pasirašytas visų žymesniųjų Sapiegų priešų, bajorijos
+    vadų (Višniaveckio, Oginskio, Katilo, Radvilos, Pociejaus ir kt.). Jis
+    datuotas Valkininkuose 1700 m. lapkričio 24 d., t. y. tą pačią dieną,
+    kai buvo padarytas nutarimas, skelbiąs Sapiegas išdavikais; bet iš
+    tikro jis buvo surašytas vėliau, ir parašai surinkti atskirai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/grupes/Valkininkų konfederacija]]

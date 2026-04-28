@@ -1,68 +1,99 @@
 ---
 tipas: grupe
-pavadinimas: "Liublino seimas"
-sukurta: "2026-04-18"
-variantai: 
-  - "nėra aiškių kitų formų"
-aliases: 
-  - "Liublino seimas"
-  - "nėra aiškių kitų formų"
+pavadinimas: 'Liublino seimas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - grupe
 ---
 # Liublino seimas
 
 ## Santrauka
-Šaltinyje „Liublino seimas“ apibūdinama kaip seimas; liublino seimas šiame gabale minimas kaip seimas, kuris paskyrė Varšuvą seimų vieta. (t-001)
 
-## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: Liublino seimas
-- Šaltinyje fiksuotos formos: nėra aiškių kitų formų
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: seimas
-Šaltinyje „Liublino seimas“ apibūdinama kaip seimas; liublino seimas šiame gabale minimas kaip seimas, kuris paskyrė Varšuvą seimų vieta. (t-001)
-
-## Sudėtis ir vaidmuo
-- Šaltinyje „Liublino seimas“ apibūdinama kaip seimas; liublino seimas šiame gabale minimas kaip seimas, kuris paskyrė Varšuvą seimų vieta. (t-001)
+Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų valstybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami, kad abidvi valstybės pasiliktų savarankiškos. Grįžę į seimą, lietuviai dar ilgai kovojo, stengdamiesi išsiderėti sau palankesnes sąlygas, ir reikalavo grąžinti atplėštąsias žemes, tačiau, karaliui palaikant lenkus, buvo priversti nusileisti. Toliau dar nustatoma, kad abi jungtinės valstybės turėsiančios bendrus seimus (. 8), kurie visada rinksiąsi Lenkijoje (. 16; sudarius uniją, tas pats Liublino seimas nutarė, kad seimai turės rinktis Varšuvoje).
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Liublino seimas“ apibūdinama kaip seimas; liublino seimas šiame gabale minimas kaip seimas, kuris paskyrė Varšuvą seimų vieta."
+  teiginys: 'Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų valstybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami, kad abidvi valstybės pasiliktų savarankiškos.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Grįžę į seimą, lietuviai dar ilgai kovojo, stengdamiesi išsiderėti sau palankesnes sąlygas, ir reikalavo grąžinti atplėštąsias žemes, tačiau, karaliui palaikant lenkus, buvo priversti nusileisti.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Toliau dar nustatoma, kad abi jungtinės valstybės turėsiančios bendrus seimus (. 8), kurie visada rinksiąsi Lenkijoje (. 16; sudarius uniją, tas pats Liublino seimas nutarė, kad seimai turės rinktis Varšuvoje).'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Liublino seimas šiame gabale minimas kaip seimas, kuris paskyrė Varšuvą seimų vieta.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų valstybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami, kad abidvi valstybės pasiliktų savarankiškos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Liublino seimas seimų vieta paskyrė Varšuvą
-    arba kurį nors kitą Lenkijos miestą.
-  citata_rodoma: ""
+    Kaip Varšuvos seime
+    (1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų vals-
+    tybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami,
+    kad abidvi valstybės pasiliktų savarankiškos. Po ilgokų derybų,
+    per kurias vienų kitiems buvo pasakyta daug karčių žodžių,
+    lietuviai staiga nutraukė derybas ir išvažiavo iš Liublino (kovo
+    1 d.).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Grįžę į seimą, lietuviai dar ilgai kovojo, stengdamiesi išsiderėti sau palankesnes sąlygas, ir reikalavo grąžinti atplėštąsias žemes, tačiau, karaliui palaikant lenkus, buvo priversti nusileisti.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Grįžę į seimą, lietuviai dar ilgai kovojo, stengdamiesi iš-
+    siderėti sau palankesnes sąlygas, ir reikalavo grąžinti atplėštąsias
+    žemes, tačiau, karaliui palaikant lenkus, buvo priversti nusileisti.
+    Tuo būdu jie sutiko, kad karalius būtų bendrai renkamas, ir
+    atsisakė nuo reikalavimo, kad jis dar atskirai būtų Vilniuje pa-
+    keliamas didžiuoju Lietuvos kunigaikščiu: Krokuvoje karūnuo-
+    damasis, karalius tuo pačiu turėjo pasidaryti ir didžiuoju Lie-
+    tuvos kunigaikščiu. Lietuviai atsisakė ir nuo atskirų savo sei-
+    mų: buvo palikti tik bendrieji seimai ir bendras abiejų valstybių
+    senatas. Jie sutiko ir su bendrais pinigais. Tačiau visa
+    kita pasiliko, kaip buvo: liko atskiri visi Lietuvos ministeriai,
+    atskiras valdžios aparatas, atskiras iždas, atskira kariuomenė
+    ir t.t. Visa tai liepos 1 d. buvo patvirtinta trimis unijos aktais
+    — dviem abiejų valstybių luomų ir vienu karaliaus aktu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Toliau dar nustatoma, kad abi jungtinės valstybės turėsiančios bendrus seimus (. 8), kurie visada rinksiąsi Lenkijoje (. 16; sudarius uniją, tas pats Liublino seimas nutarė, kad seimai turės rinktis Varšuvoje).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Toliau dar nustatoma, kad abi jungtinės valstybės turėsiančios
+    bendrus seimus (§ 8), kurie visada rinksiąsi Lenkijoje (§ 16;
+    sudarius uniją, tas pats Liublino seimas nutarė, kad seimai
+    turės rinktis Varšuvoje).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/unija]]
+- [[temos/karalius - seimas]]
+
+### Susiję objektai
+- [[objektai/grupes/Lenkų karalystė]]

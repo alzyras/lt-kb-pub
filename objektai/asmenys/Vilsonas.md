@@ -1,69 +1,64 @@
 ---
 tipas: asmuo
-pavadinimas: "Vilsonas"
-sukurta: "2026-04-18"
-variantai: 
-  - "Vilsoną"
-aliases: 
-  - "Vilsonas"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: 
-  - "1916 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XX"
-date_start: "1916"
-date_end: "1916"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Vilsonas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Vilsonas
 
 ## Santrauka
-Šaltinyje Vilsonas apibūdinamas taip: Minimas kaip Jungtinių Amerikos Valstybių prezidentas, į kurį buvo kreiptasi pagalbos.
 
-## Variantai
-- Vilsoną
-
-## Laikotarpis ir datos
-- laikotarpis: 
-- datos: 1916 m.
-- periodas:
-- periodo_grupes:
-- amziai: XX
-- date_start: 1916
-- date_end: 1916
+Seimas išrinko iš katalikiškosios Tautos Tarybos ir iš tautininkų Amerikos Lietuvių Tautos Tarybos atstovų vykdomąjį komitetą ir gegužės 3 d. nusiuntė pas prezidentą Vilsoną abiejų Tarybų delegaciją. Lietuvos delegacija taikos konferencijoj Paryžiuje protestavo prieš tokį Vilsono paskelbtų taikos principų sulaužymą, nes lenkai įsiveržė į teritoriją, kuri niekados nėra buvusi lenkiška ir nėra lenkų gyvenama.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Vilsonas apibūdinamas taip: Minimas kaip Jungtinių Amerikos Valstybių prezidentas, į kurį buvo kreiptasi pagalbos."
+  teiginys: 'Seimas išrinko iš katalikiškosios Tautos Tarybos ir iš tautininkų Amerikos Lietuvių Tautos Tarybos atstovų vykdomąjį komitetą ir gegužės 3 d. nusiuntė pas prezidentą Vilsoną abiejų Tarybų delegaciją.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Lietuvos delegacija taikos konferencijoj Paryžiuje protestavo prieš tokį Vilsono paskelbtų taikos principų sulaužymą, nes lenkai įsiveržė į teritoriją, kuri niekados nėra buvusi lenkiška ir nėra lenkų gyvenama.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip Jungtinių Amerikos Valstybių prezidentas, į kurį buvo kreiptasi pagalbos.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Seimas išrinko iš katalikiškosios Tautos Tarybos ir iš tautininkų Amerikos Lietuvių Tautos Tarybos atstovų vykdomąjį komitetą ir gegužės 3 d. nusiuntė pas prezidentą Vilsoną abiejų Tarybų delegaciją.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pirmoji proga viešai prabilti pasitaikė 1916 m. gegužės mėnesį,
-    Rusijos pavergtoms tautoms kreipiantis į Jungtinių Amerikos
-    Valstybių prezidentą Vilsoną.
-  citata_rodoma: ""
+    Seimas išrinko iš katalikiškosios Tautos Tarybos ir iš tautinin-
+      kų Amerikos Lietuvių Tautos Tarybos atstovų vykdomąjį ko-
+      mitetą ir gegužės 3 d. nusiuntė pas prezidentą Vilsoną abiejų
+      Tarybų delegaciją. Prezidentas delegacijai pažadėjo paremti Lie-
+      tuvos nepriklausomybę.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Lietuvos delegacija taikos konferencijoj Paryžiuje protestavo prieš tokį Vilsono paskelbtų taikos principų sulaužymą, nes lenkai įsiveržė į teritoriją, kuri niekados nėra buvusi lenkiška ir nėra lenkų gyvenama.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lietuvos delegacija taikos kon-
+      ferencijoj Paryžiuje protestavo prieš tokį Vilsono paskelbtų
+      taikos principų sulaužymą, nes lenkai įsiveržė į teritoriją, kuri
+      niekados nėra buvusi lenkiška ir nėra lenkų gyvenama.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/institucija - tauta]]

@@ -1,64 +1,38 @@
 ---
 tipas: asmuo
-pavadinimas: "Narimantas"
-sukurta: "2026-04-18"
-variantai: 
-  - "Narimantą"
-aliases: 
-  - "Narimantas"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
+pavadinimas: 'Narimantas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Narimantas
 
 ## Santrauka
-Šaltinyje Narimantas apibūdinamas taip: Buvęs Gardino kunigaikštis, Gedimino karo vadas ir Pskovo valdovas.
 
-## Variantai
-- Narimantą
+Narimantas — Turovą ir Pinską,.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Narimantas apibūdinamas taip: Buvęs Gardino kunigaikštis, Gedimino karo vadas ir Pskovo valdovas."
+  teiginys: 'Narimantas — Turovą ir Pinską,.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Buvęs Gardino kunigaikštis, Gedimino karo vadas ir Pskovo valdovas.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Narimantas — Turovą ir Pinską,.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Gediminas čia glau-
-    džiai sujungė su savo valstybe jau Vytenio užimtą Palenkę, Pa-
-    girį ir gretimąsias sritis, o be to, dar užėmė didelę dalį Voluinės,
-    prijungė po Mindaugo išsivaduvusį Vitebską su gretimaisiais
-    miestais ir paėmė į savo įtaką tolimąjį Kijevą. Kurį laiką Lietu-
-    vos įtakai buvo pasidavęs net Pskovas su D. Naugardu (Pskovą
-    valdė buvęs Gardino kunigaikštis Dovydas, o D. Naugardą —
-    Gedimino sūnus Narimantas).
-  citata_rodoma: |
-    Gediminas čia glaudžiai sujungė su savo valstybe jau Vytenio užimtą Palenkę, Pagirį ir gretimąsias sritis, o be to, dar užėmė didelę dalį Voluinės, prijungė po Mindaugo išsivaduvusį Vitebską su gretimaisiais miestais ir paėmė į savo įtaką tolimąjį Kijevą. Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Naugardą — Gedimino sūnus Narimantas).
+    Narimantas — Turovą
+      ir Pinską,
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

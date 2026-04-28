@@ -1,0 +1,40 @@
+---
+tipas: asmuo
+pavadinimas: 'Olšovskis'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
+---
+# Olšovskis
+
+## Santrauka
+
+To sumanymo priešaky stovėjo Lenkijos vicekancleris Olšovskis.
+
+## Teiginiai
+- t-001
+  teiginys: 'To sumanymo priešaky stovėjo Lenkijos vicekancleris Olšovskis.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'To sumanymo priešaky stovėjo Lenkijos vicekancleris Olšovskis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    To sumanymo prie-
+      šaky stovėjo Lenkijos vicekancleris Olšovskis. Jam metus šūkį,
+      visai netikėtai karalium buvo paskelbtas Mykolas Kaributas Viš-
+      niaveckis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001

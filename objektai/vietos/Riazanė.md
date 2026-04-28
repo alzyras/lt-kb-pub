@@ -1,73 +1,86 @@
 ---
 tipas: vieta
-pavadinimas: "Riazanė"
-sukurta: "2026-04-18"
+pavadinimas: 'Riazanė'
+sukurta: '2026-04-25'
 variantai: []
-aliases: 
-  - "Riazanė"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - miestas
+  - vieta
 ---
 # Riazanė
 
 ## Santrauka
-Šaltinyje vieta „Riazanė“ siejama su šiuo kontekstu: Minima kartu su Tula ir Kaluga kaip Vytauto žygio pasiekta vieta. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Riazanė
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: šaltinyje aiškiai nenurodytas
-
-## Geografinis ir istorinis kontekstas
-- Minima kartu su Tula ir Kaluga kaip Vytauto žygio pasiekta vieta. (t-001)
+Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė. Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaikščiai; atvyko daugybė Vytauto priklausomų rusų kunigaikščių; pagaliau atvyko pats imperatorius Zigmantas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaikščių atstovų. Riazanei buvo palikta teisė pačiai pasirinkti sau globą.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Riazanė“ siejama su šiuo kontekstu: Minima kartu su Tula ir Kaluga kaip Vytauto žygio pasiekta vieta."
+  teiginys: 'Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaikščiai; atvyko daugybė Vytauto priklausomų rusų kunigaikščių; pagaliau atvyko pats imperatorius Zigmantas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaikščių atstovų.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Riazanei buvo palikta teisė pačiai pasirinkti sau globą.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minima kartu su Tula ir Kaluga kaip Vytauto žygio pasiekta vieta.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kitais metais
-    atėjo žinia, kad mirė jo žentas, Maskvos kunigaikštis Vosylius,
-    su kuriuo jam taip pat ne kartą buvo tekę susidurti. Vytautas
-    tuojau išžygiavo į Maskvą, bet jaunučio Maskvos kunigaikš-
-    čio Vosyliaus II motina, Vytauto duktė Sofija, atvykusi jo pa-
-    sitikti į Smolenską, permaldavo Vytautą, ir jis tuo metu tepri-
-    jungė prie Lietuvos tik keletą kunigaikštysčių, kurios anksčiau
-    svyravo tarp Maskvos ir Lietuvos. Be to, jis pats pasidarė
-    savo vaikaičio, Maskvos kunigaikščio, globėju. Šito žygio metu
+    Šito žygio metu
     buvo pasiekta net Tula, Kaluga ir Riazanė.
-  citata_rodoma: |
-    Kitais metais atėjo žinia, kad mirė jo žentas, Maskvos kunigaikštis Vosylius, su kuriuo jam taip pat ne kartą buvo tekę susidurti. Vytautas tuojau išžygiavo į Maskvą, bet jaunučio Maskvos kunigaikščio Vosyliaus II motina, Vytauto duktė Sofija, atvykusi jo pasitikti į Smolenską, permaldavo Vytautą, ir jis tuo metu teprijungė prie Lietuvos tik keletą kunigaikštysčių, kurios anksčiau svyravo tarp Maskvos ir Lietuvos. Be to, jis pats pasidarė savo vaikaičio, Maskvos kunigaikščio, globėju. Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaikščiai; atvyko daugybė Vytauto priklausomų rusų kunigaikščių; pagaliau atvyko pats imperatorius Zigmantas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaikščių atstovų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės,
+    Riazanės kunigaikščiai; atvyko daugybė Vytauto priklausomų
+    rusų kunigaikščių; pagaliau atvyko pats imperatorius Zigman-
+    tas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaikš-
+    čių atstovų. Suvažiavimo šeimininkas, Vytautas, turėjo progos
+    parodyti savo vaišingumą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Riazanei buvo palikta teisė pačiai pasirinkti sau globą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Maskvos įtakoje buvo palikti Pskovas su D. Naugardu, o Lie-
+    tuvos įtakoje — Tverė. Riazanei buvo palikta teisė pačiai
+    pasirinkti sau globą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/popiežius]]
+
+### Susiję objektai
+- [[objektai/vietos/Kaluga]]
+- [[objektai/vietos/Tula]]

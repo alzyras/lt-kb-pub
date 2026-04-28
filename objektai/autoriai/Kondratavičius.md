@@ -1,60 +1,49 @@
 ---
 tipas: autorius
-pavadinimas: "Kondratavičius"
-sukurta: "2026-04-18"
+pavadinimas: 'Kondratavičius'
+sukurta: '2026-04-25'
 variantai: []
-aliases: 
-  - "Kondratavičius"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: 
-  - "autorius"
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: 
-  - "autorius"
-dalyviai: 
-  - "Kondratavičius"
-susije_irasai: []
-patikimumas: "vidutinis"
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - autorius
 ---
 # Kondratavičius
 
 ## Santrauka
-Šaltinyje Kondratavičius minimas autorystės, redagavimo arba tyrimo kontekste: Minimas tarp universiteto auklėtinių, kurių raštai idealizavo Lietuvos senovę.
 
-## Darbai
-- Minimas tarp universiteto auklėtinių, kurių raštai idealizavo Lietuvos senovę. (t-001)
-
-## Kontekstas
-- Tekstas tiesiogiai mini Kondratavičių tarp universiteto auklėtinių ir raštų autorių. (c-001)
+Čia ypač pasižymėjo universiteto auklėtiniai Mickevičius, Kraševskis, Kondratavičius ir daugelis kitų.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Kondratavičius autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas tarp universiteto auklėtinių, kurių raštai idealizavo Lietuvos senovę."
+  teiginys: 'Čia ypač pasižymėjo universiteto auklėtiniai Mickevičius, Kraševskis, Kondratavičius ir daugelis kitų.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas tarp universiteto auklėtinių, kurių raštai idealizavo Lietuvos senovę.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Čia ypač pasižymėjo universiteto auklėtiniai Mickevičius, Kraševskis, Kondratavičius ir daugelis kitų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Čia ypač pasižymėjo universiteto
+    Universitetui sukėlus susidomėjimą Lietuvos senove, iš-
+    kilo gausi lenkų romantiškoji literatūra, kuri beveik visas temas
+    ėmė iš Lietuvos istorijos. Čia ypač pasižymėjo universiteto
     auklėtiniai Mickevičius, Kraševskis, Kondratavičius ir daugelis
-    kitų.
-  citata_rodoma: ""
+    kitų. Jų tad raštai, išidealizavę Lietuvos senovę, išauklėjo Lie-
+    tuvos bajoriją, kuri, ir lenkiškai kalbėdama, gerbė ir mylėjo
+    savo tėvynę Lietuvą, o save laikė tik lenkiškos kultūros lietu-
+    viais. Iš antros pusės, tie patys raštai kiek vėliau labai paveikė
+    iš liaudies tarpo kilusią lietuviškąją inteligentiją.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: adjacent_named_context
-  patikimumo_pagrindimas: "Tekstas tiesiogiai mini Kondratavičių tarp universiteto auklėtinių ir raštų autorių."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Kraševskis]]

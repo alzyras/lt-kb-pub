@@ -1,65 +1,62 @@
 ---
 tipas: saltinis
-pavadinimas: "Zigmanto Kęstutaičio 1434 m. privilegija"
-sukurta: "2026-04-20"
+pavadinimas: 'Zigmanto Kęstutaičio 1434 m. privilegija'
+sukurta: '2026-04-25'
 variantai: []
-aliases: 
-  - "Zigmanto Kęstutaičio 1434 m. privilegija"
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: 
-  - "privilegija"
-laikotarpis: "1434 m."
-datos: 
-  - "1434 m."
-periodas: "viduramziai"
-periodo_grupes: []
-amziai: 
-  - "XV"
-date_start: "1434"
-date_end: "1434"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - privilegija
+  - saltinis
 ---
 # Zigmanto Kęstutaičio 1434 m. privilegija
 
-## Bibliografiniai duomenys
+## Santrauka
 
-- Pavadinimas: Zigmanto Kęstutaičio 1434 m. privilegija.
-- Data / laikotarpis: 1434 m..
-- Šaltinio rūšis: privilegija.
-
-## Turinys ir apimtis
-
-Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Zigmanto Kęstutaičio 1434 m. privilegija“ siejamas su šiuo kontekstu: Tekste ši privilegija minima kartu su kitais ankstesniais teisės dokumentais, naudotais ruošiant Statutą.
-
-## Ryšiai
-
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta Horodlėje (žiūr. Zigmanto Kęstutaičio privilegija sulygino civilines pravoslavų teises su katalikų teisėmis, tačiau valstybinių vietų jie vis tiek negalėjo gauti.
 
 ## Teiginiai
-
 - t-001
-  teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Zigmanto Kęstutaičio 1434 m. privilegija“ siejamas su šiuo kontekstu: Tekste ši privilegija minima kartu su kitais ankstesniais teisės dokumentais, naudotais ruošiant Statutą."
+  teiginys: 'Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta Horodlėje (žiūr.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Zigmanto Kęstutaičio privilegija sulygino civilines pravoslavų teises su katalikų teisėmis, tačiau valstybinių vietų jie vis tiek negalėjo gauti.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: Tekste ši privilegija minima kartu su kitais ankstesniais teisės dokumentais, naudotais ruošiant Statutą.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta Horodlėje (žiūr.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-      ir Zigmanto Kęstutaičio 1434 m. privilegija (žiūr. 170
-      psl.).
-  citata_rodoma: ""
+    Naujų teisinių normų
+    davė 1413 m. Jogailos ir Vytauto privilegija, suteikta Horodlėje (žiūr.
+    131 psl.), ir Zigmanto Kęstutaičio 1434 m. privilegija (žiūr. 170
+    psl.). Dar daugiau padarė teisinių atmainų 1447 m. didžioji
+    Kazimiero privilegija (žiūr. 180 psl.). Pirmasis bandymas įstaty-
+    mus kodifikuoti buvo padarytas 1468 m., išleidus vadinamąjį Ka-
+    zimiero Teisyną.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pateikia šaltinio pavadinimą, bibliografinį įrašą arba aprašomą kontekstą."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Zigmanto Kęstutaičio privilegija sulygino civilines pravoslavų teises su katalikų teisėmis, tačiau valstybinių vietų jie vis tiek negalėjo gauti.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Zigmanto Kęstutaičio privilegija suly-
+    gino civilines pravoslavų teises su katalikų teisėmis, tačiau valstybinių
+    vietų jie vis tiek negalėjo gauti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

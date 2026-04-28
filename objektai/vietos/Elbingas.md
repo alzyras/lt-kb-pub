@@ -1,63 +1,58 @@
 ---
 tipas: vieta
-pavadinimas: "Elbingas"
-sukurta: "2026-04-18"
+pavadinimas: 'Elbingas'
+sukurta: '2026-04-25'
 variantai: []
-aliases: 
-  - "Elbingas"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
+  - vyskupas
 ---
 # Elbingas
 
 ## Santrauka
-Šaltinyje vieta „Elbingas“ siejama su šiuo kontekstu: Minimas tarp pačių stipriausių ordino pilių. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Elbingas
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: pilis / miestas
-
-## Geografinis ir istorinis kontekstas
-- Minimas tarp pačių stipriausių ordino pilių. (t-001)
+Nesugriautos liko tik Karaliaučiaus, Baigos, Elbingo ir Kulmo, t. Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Elbingas“ siejama su šiuo kontekstu: Minimas tarp pačių stipriausių ordino pilių."
+  teiginys: 'Nesugriautos liko tik Karaliaučiaus, Baigos, Elbingo ir Kulmo, t.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas tarp pačių stipriausių ordino pilių.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Nesugriautos liko tik Karaliaučiaus, Baigos, Elbingo ir Kulmo, t.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    jam buvo likusios tik pačios stipriosios pilys (Karaliaučius, Baiga, Elbingas, Dancigas, Kulmas ir Tornas).
-  citata_rodoma: ""
+    Nesugriautos liko tik Karaliau-
+    čiaus, Baigos, Elbingo ir Kulmo, t. y. pačios tvirtosios pilys.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-002
+  santrauka: 'Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    1466 m. Torne buvo pasirašyta taika, kuria ordinas
+    pasidarė Lenkijos vasalu ir perleido jai daug žemių. Lenkija
+    atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte —
+    Elbingą, Marijenburgą ir visą Varmijos vyskupystę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

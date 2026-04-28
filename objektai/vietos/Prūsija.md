@@ -1,137 +1,84 @@
 ---
 tipas: vieta
-pavadinimas: "Prūsija"
-sukurta: "2026-04-18"
-variantai: 
-  - "Prūsus"
-  - "Prūsijos"
-  - "Prūsų"
-  - "Prūsiją"
-  - "Prūsijoje"
-  - "Prūsijoj"
-aliases: 
-  - "Prūsija"
-  - "Prūsus"
-  - "Prūsijos"
-  - "Prūsų"
-  - "Prūsiją"
-  - "Prūsijoje"
-  - "Prūsijoj"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1525 m.; 1627 m.; 1629 m.; 1635 m.; 1772 m."
-datos: 
-  - "1525 m."
-  - "1627 m."
-  - "1629 m."
-  - "1635 m."
-  - "1772 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XVI"
-  - "XVII"
-  - "XVIII"
-date_start: "1525"
-date_end: "1772"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Prūsija'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - miestas
+  - vieta
 ---
 # Prūsija
 
 ## Santrauka
-Šaltinyje vieta „Prūsija“ siejama su šiais kontekstais: Prūsija minima kaip ordino valstybės virsmo ir vėlesnės Prūsų karalystės erdvė; Minima kaip švedų užimta ir deryboms svarbi teritorija. (t-001, t-002)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Prūsija
-- Šaltinyje fiksuotos formos: Prūsus; Prūsijos; Prūsų; Prūsiją; Prūsijoje; Prūsijoj
-
-## Laikotarpis ir datos
-- laikotarpis: 1525 m.; 1627 m.; 1629 m.; 1635 m.; 1772 m.
-- datos: 1525 m.; 1627 m.; 1629 m.; 1635 m.; 1772 m.
-- amziai: XVI, XVII, XVIII
-- date_start/date_end: 1525 / 1772
-
-## Kas tai
-- tipas: istorinis kraštas / regionas; istorinis kraštas / valstybė; kraštas / valstybė; valstybė / karalystė
-
-## Geografinis ir istorinis kontekstas
-- Prūsija minima kaip ordino valstybės virsmo ir vėlesnės Prūsų karalystės erdvė. (t-001)
-- Minima kaip švedų užimta ir deryboms svarbi teritorija. (t-002)
-- Minima kaip padalinimo dalytoja, užėmusi Lenkijos Pavyslį ir Varmiją. (t-003)
+Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklausomą Prūsiją. Prūsijoje (ji, kaip Lenkijos lenas, buvo valdoma Brandenburgo elektoriaus) 6 metams buvo palikti švedams kai kurie uostai, jų tarpe ir Klaipėda. To meto Lietuvos miestuose beveik visi pirkliai buvo vokiečiai, kurie, priešams užplūdus, daugumas išbėgo į Prūsiją, ypač į Karaliaučių.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Prūsija“ siejama su šiuo kontekstu: Prūsija minima kaip ordino valstybės virsmo ir vėlesnės Prūsų karalystės erdvė."
+  teiginys: 'Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklausomą Prūsiją.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Prūsija“ siejama su šiuo kontekstu: Minima kaip švedų užimta ir deryboms svarbi teritorija."
+  teiginys: 'Prūsijoje (ji, kaip Lenkijos lenas, buvo valdoma Brandenburgo elektoriaus) 6 metams buvo palikti švedams kai kurie uostai, jų tarpe ir Klaipėda.'
   pagrindžia:
     - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 - t-003
-  teiginys: "Šaltinyje vieta „Prūsija“ siejama su šiuo kontekstu: Minima kaip padalinimo dalytoja, užėmusi Lenkijos Pavyslį ir Varmiją."
+  teiginys: 'To meto Lietuvos miestuose beveik visi pirkliai buvo vokiečiai, kurie, priešams užplūdus, daugumas išbėgo į Prūsiją, ypač į Karaliaučių.'
   pagrindžia:
     - c-003
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Prūsija minima kaip ordino valstybės virsmo ir vėlesnės Prūsų karalystės erdvė.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata_originali: |
-    Vėliau iš tų dviejų jungtinių kunigaikštysčių išaugo galinga Prūsų
-    karalystė (nuo 1701 m.), kuri pagaliau atsistojo visos Vokietijos
-    priešaky.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Minima kaip švedų užimta ir deryboms svarbi teritorija.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklausomą Prūsiją.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė
     jos priklausomą Prūsiją. Kai Zigmantas nesutiko taikintis nė tada,
     tai Lietuvos ponai patys padarė paliaubas su švedais (1627 m.).
-    Karalius ir lenkai už tai labai pyko ant jų ir kaltino išdavikiš-
-    kumu. Todėl 4 mėnesių paliaubų laikui pasibaigus, karas
-    vėl prasidėjo, tačiau didelių mūšių jau nebebuvo. Nors di-
-    džiausios švedų jėgos tada buvo Prūsijoje, bet Lietuvos ištek-
-    liai buvo išsekę, ir ji, negalėdama surinkti didesnės kariuome-
-    nės, nieko negalėjo atsiimti iš švedų.
-  citata_rodoma: |
-    Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklausomą Prūsiją. Kai Zigmantas nesutiko taikintis nė tada, tai Lietuvos ponai patys padarė paliaubas su švedais (1627 m.). Karalius ir lenkai už tai labai pyko ant jų ir kaltino išdavikiškumu. Todėl 4 mėnesių paliaubų laikui pasibaigus, karas vėl prasidėjo, tačiau didelių mūšių jau nebebuvo. Nors didžiausios švedų jėgos tada buvo Prūsijoje, bet Lietuvos ištekliai buvo išsekę, ir ji, negalėdama surinkti didesnės kariuomenės, nieko negalėjo atsiimti iš švedų.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Prūsijoje (ji, kaip Lenkijos lenas, buvo valdoma Brandenburgo elektoriaus) 6 metams buvo palikti švedams kai kurie uostai, jų tarpe ir Klaipėda.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pagaliau įsimaišė Pran-
+    cūziją, kuri norėjo Gustavą Adolfą įtraukti į einantį Vokie-
+    tijoje 30 metų karą, ir 1629 m. Altmarke buvo padarytos
+    6 metams paliaubos. Visa Livonija, anapus Dauguvos, su Ryga
+    buvo palikta švedams. Prūsijoje (ji, kaip Lenkijos lenas, buvo
+    valdoma Brandenburgo elektoriaus) 6 metams buvo palikti šve-
+    dams kai kurie uostai, jų tarpe ir Klaipėda.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
 - c-003
-  santrauka: Minima kaip padalinimo dalytoja, užėmusi Lenkijos Pavyslį ir Varmiją.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'To meto Lietuvos miestuose beveik visi pirkliai buvo vokiečiai, kurie, priešams užplūdus, daugumas išbėgo į Prūsiją, ypač į Karaliaučių.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Austrija užėmė dalį Mažlenkių ir Galicijos, o Prūsija
-    — Lenkijos Pavyslį ir Varmijos vyskupystę.
-  citata_rodoma: ""
+    To meto Lietuvos miestuose beveik visi
+    pirkliai buvo vokiečiai, kurie, priešams užplūdus, daugumas iš-
+    bėgo į Prūsiją, ypač į Karaliaučių.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/paliaubos]]

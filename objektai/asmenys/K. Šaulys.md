@@ -1,56 +1,62 @@
 ---
 tipas: asmuo
-pavadinimas: "K. Šaulys"
-sukurta: "2026-04-18"
+pavadinimas: 'K. Šaulys'
+sukurta: '2026-04-25'
 variantai: []
-aliases: 
-  - "K. Šaulys"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # K. Šaulys
 
 ## Santrauka
-Šaltinyje K. Šaulys apibūdinamas taip: Minimas kaip Lietuvos Tarybos narys.
+
+Šaulys, K. Šaulys, kun. J.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje K. Šaulys apibūdinamas taip: Minimas kaip Lietuvos Tarybos narys."
+  teiginys: 'Šaulys, K.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Šaulys, kun. J.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip Lietuvos Tarybos narys.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Šaulys, K.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    P.
-    Klimas, D. Malinauskas, P. Mironas, S. Narutavičius (†), A. Pet-
-    rulis (†), A. Smetona, J. Smilgevičius, J. Staugaitis, A. Stulginskis,
-    J. Šaulys, K. Šaulys, J. Šernas (†), J. Vailokaitis, J. Vileišis. Savo
-  citata_rodoma: |
-    P. Klimas, D. Malinauskas, P. Mironas, S. Narutavičius (†), A. Petrulis (†), A. Smetona, J. Smilgevičius, J. Staugaitis, A. Stulginskis, J. Šaulys, K. Šaulys, J. Šernas (†), J. Vailokaitis, J. Vileišis. Savo
+    Lietuvos Tarybos nariai buvo šie: J. Basanavičius, (†), S. Ba-
+      naitis (†), M. Biržiška, K. Bizauskas, P. Dovydaitis, S. Kairys, P.
+      Klimas, D. Malinauskas, P. Mironas, S. Narutavičius (†), A. Pet-
+      rulis (†), A. Smetona, J. Smilgevičius, J. Staugaitis, A. Stulginskis,
+      J. Šaulys, K. Šaulys, J. Šernas (†), J. Vailokaitis, J. Vileišis. Savo
+      pirmininku Taryba išsirinko A. Smetoną.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-002
+  santrauka: 'Šaulys, kun. J.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Iš kairės į dešinę sėdi: J. Vileišis, dr. J. Šaulys, kun. J. Staugaitis, St. Na-
+      rutavičius, dr. J. Basanavičius, A. Smetona, kan. K. Šaulys, Stp. Kairys ir
+      J. Smilgevičius; stovi: K. Bizauskas, J. Vailokaitis, D. Malinauskas, kun.
+      VI. Mironas, M. Biržiška, kun. A. Petrulis, S. Banaitis, P. Klimas,
+      A. Stulginskis, J. Šernas ir Pr. Dovydaitis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

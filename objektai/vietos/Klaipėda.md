@@ -1,100 +1,87 @@
 ---
 tipas: vieta
-pavadinimas: "Klaipėda"
-sukurta: "2026-04-18"
-variantai: 
-  - "Klaipėdoj"
-  - "Memel"
-aliases: 
-  - "Klaipėda"
-  - "Klaipėdoj"
-  - "Memel"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1252 m."
-datos: 
-  - "1252 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XIII"
-date_start: "1252"
-date_end: "1252"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: Klaipėda
+variantai:
+  - Memelis
+  - Memel
+aliases: []
+susije_irasai:
+  - '[[Žemaitija]]'
+  - '[[Nemunas]]'
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+tags:
+  - vieta
 ---
 # Klaipėda
 
 ## Santrauka
-Šaltinyje vieta „Klaipėda“ siejama su šiais kontekstais: Miestas minimas tarp provincijos muziejų vietų; Minima kaip sena sodyba, kurią ordinas pervadino Memeliu. (t-001, t-002)
+Klaipėda šiame šaltinyje minima kaip sena vietos sodyba, kurioje 1252 m. Ordinas pastatė pilį ir pavadino ją Memeliu, o vėliau miestas tapo svarbiu ginčų dėl Žemaitijos ir pajūrio punktu.
 
 ## Pavadinimai šaltiniuose
-- Pagrindinė forma: Klaipėda
-- Šaltinyje fiksuotos formos: Klaipėdoj; Memel
-
-## Laikotarpis ir datos
-- laikotarpis: 1252 m.
-- datos: 1252 m.
-- amziai: XIII
-- date_start/date_end: 1252 / 1252
+- Klaipėda
+- Memelis
+- Memel
 
 ## Kas tai
-- tipas: miestas; miestas / pilis
+Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaurio, susijęs su Ordino ekspansija, Žemaičių kovomis ir vėlesniu Prūsijos pakrantės valdymu.
 
 ## Geografinis ir istorinis kontekstas
-- Miestas minimas tarp provincijos muziejų vietų. (t-001)
-- Minima kaip sena sodyba, kurią ordinas pervadino Memeliu. (t-002)
+Šaltinyje Klaipėda pasirodo kryžiuočių ir Livonijos ordino santykių, Žemaičių kovų ir XVII a. Prūsijos pakrantės politinės kontrolės kontekste.
 
 ## Teiginiai
-- t-001
-  teiginys: "Šaltinyje vieta „Klaipėda“ siejama su šiuo kontekstu: Miestas minimas tarp provincijos muziejų vietų."
-  pagrindžia:
-    - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
-- t-002
-  teiginys: "Šaltinyje vieta „Klaipėda“ siejama su šiuo kontekstu: Minima kaip sena sodyba, kurią ordinas pervadino Memeliu."
-  pagrindžia:
-    - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- [t-001] 1252 m. Livonijos ordinas senosios Klaipėdos sodybos vietoje pradėjo statyti pilį ir pavadino ją Memeliu.
+  - pagrindžia: [c-001]
+- [t-002] Livonijos ordinas vėliau nebeturėjo ryšio su Klaipėdos pilimi ir 1328 m. perleido ją Prūsų kryžiuočiams.
+  - pagrindžia: [c-002]
+- [t-003] Žemaičiai, remiami Vytauto, buvo sugriovę Klaipėdą ir veržėsi už Nemuno į Ordino žemes.
+  - pagrindžia: [c-003]
+- [t-004] Makros sprendime buvo teigiama, kad Klaipėdos pilis pastatyta Žemaičių žemėje.
+  - pagrindžia: [c-004]
+- [t-005] 1629–1635 m. Klaipėda priklausė toms Prūsijos pakrantės vietoms, kurias valdė švedai.
+  - pagrindžia: [c-005]
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: Miestas minimas tarp provincijos muziejų vietų.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata_originali: |
-    Muziejus Kaune. Nemaža muziejų yra ir provincijoj (Klai-
-    pėdoj, Šiauliuose, Panevėžy, Telšiuose, Kėdainiuose, Biržuose
-    ir kitur).
-  citata_rodoma: |
-    Muziejus Kaune. Nemaža muziejų yra ir provincijoj (Klaipėdoj, Šiauliuose, Panevėžy, Telšiuose, Kėdainiuose, Biržuose ir kitur).
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Minima kaip sena sodyba, kurią ordinas pervadino Memeliu.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata_originali: |
-    Tam tikslui 1252 m. Livo-
-    nijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės
-    jungiasi su Baltija. Senoji tos vietos sodyba buvo vadinama
-    Klaipėda; ordinas ją pavadino vokišku Nemuno vardu —
-    Memel.
-  citata_rodoma: |
-    Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės jungiasi su Baltija. Senoji tos vietos sodyba buvo vadinama Klaipėda; ordinas ją pavadino vokišku Nemuno vardu — Memel.
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
-  pagrindžia:
-    - t-002
+- [c-001]
+  - citata_originali: |
+      Tam tikslui 1252 m. Livo-
+      nijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės
+      jungiasi su Baltija. Senoji tos vietos sodyba buvo vadinama
+      Klaipėda; ordinas ją pavadino vokišku Nemuno vardu — Memel.
+  - paaiskinimas: Citata tiesiogiai nusako Klaipėdos pilies statybos pradžią ir Memelio vardo kilmę.
+  - saltinis: 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+- [c-002]
+  - citata_originali: |
+      Jo pastatyta Jurbarko pilis buvo sugriauta; su Klaipėdos
+      pilim jis jau nebeturėjo ryšio.
+      jis vėliau Klaipėdą perleido Prūsų kryžiuo-
+      čiams (1328 m.).
+  - paaiskinimas: Citata pagrindžia Klaipėdos pilies perdavimą Prūsų kryžiuočiams.
+  - saltinis: 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+- [c-003]
+  - citata_originali: |
+      Pagaliau santykiai tarp ordino ir
+      Vytauto tiek paaštrėjo, kad jis parėmė žemaičius, ir tie visus
+      kryžiuočius išvarė iš savo krašto. Jie sugriovė net Klaipėdą ir
+      įsiveržė į ordino žemes už Nemuno.
+  - paaiskinimas: Citata rodo Klaipėdos sugriovimą Žemaičių sukilimo metu.
+  - saltinis: 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+- [c-004]
+  - citata_originali: |
+      Štai Makros sprendimo žodžiai dėl Klaipėdos: „Kartu mes ran-
+      dame, kad Klaipėdos pilis yra pastatyta Žemaičių žemėje. Nei ma-
+      gistras nei ordinas nieko priešingo negalėjo įrodyti"...
+  - paaiskinimas: Citata tiesiogiai liudija ginčą dėl Klaipėdos priklausomybės Žemaičių žemei.
+  - saltinis: 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+- [c-005]
+  - citata_originali: |
+      Čia prekyba buvo
+      daugiau suvaržyta tik 1629—1635 m., kai Prūsų pakrantės
+      miestus, o jų tarpe ir Klaipėdą, valdė švedai.
+  - paaiskinimas: Citata pagrindžia švedų valdžios laikotarpį Klaipėdoje.
+  - saltinis: 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Žemaitija]]

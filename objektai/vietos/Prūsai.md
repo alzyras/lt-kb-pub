@@ -1,75 +1,39 @@
 ---
 tipas: vieta
-pavadinimas: "Prūsai"
-sukurta: "2026-04-18"
-variantai: 
-  - "Prūsuose"
-  - "Prūsus"
-  - "Prūsų"
-aliases: 
-  - "Prūsai"
-  - "Prūsuose"
-  - "Prūsus"
-  - "Prūsų"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Prūsai'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'žemas'
+tags:
+  - vieta
 ---
 # Prūsai
 
 ## Santrauka
-Šaltinyje vieta „Prūsai“ siejama su šiuo kontekstu: Prūsai minimi kaip kraštas, į kurį atsikrausto kryžiuočių ordinas ir kuriame vyksta jo nukariavimai. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Prūsai
-- Šaltinyje fiksuotos formos: Prūsuose; Prūsus; Prūsų
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: istorinis kraštas
-
-## Geografinis ir istorinis kontekstas
-- Prūsai minimi kaip kraštas, į kurį atsikrausto kryžiuočių ordinas ir kuriame vyksta jo nukariavimai. (t-001)
+prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau puldavo lenkus, o vėliau pirmosios buvo ordino pavergtos.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Prūsai“ siejama su šiuo kontekstu: Prūsai minimi kaip kraštas, į kurį atsikrausto kryžiuočių ordinas ir kuriame vyksta jo nukariavimai."
+  teiginys: 'prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau puldavo lenkus, o vėliau pirmosios buvo ordino pavergtos.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Prūsai minimi kaip kraštas, į kurį atsikrausto kryžiuočių ordinas ir kuriame vyksta jo nukariavimai.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau puldavo lenkus, o vėliau pirmosios buvo ordino pavergtos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    1230 m. pirmieji ordino atstovai jau buvo Prūsų pasieny.
-    Čia jie gavo iš Konrado
-    žemių su Niešavos pi-
-    laite, o patys pasista-
-    tė Fogelzango pilį.
-  citata_rodoma: |
-    1230 m. pirmieji ordino atstovai jau buvo Prūsų pasieny. Čia jie gavo iš Konrado žemių su Niešavos pilaite, o patys pasistatė Fogelzango pilį.
+    prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios
+    anksčiau puldavo lenkus, o vėliau pirmosios buvo ordino paverg-
+    tos.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: žemas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

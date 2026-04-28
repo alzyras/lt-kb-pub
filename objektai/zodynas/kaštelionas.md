@@ -1,79 +1,54 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: "Kaštelionas"
-sukurta: "2026-04-18"
-variantai: 
-  - "kaštelionai"
-aliases: 
-  - "Kaštelionas"
-  - "kaštelionai"
+pavadinimas: 'kaštelionas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - "teisinis-terminas"
-laikotarpis: "1413 m."
-datos: 
-  - "1413 m."
-periodas: "viduramziai"
-periodo_grupes: []
-amziai: 
-  - "XV"
-date_start: "1413"
-date_end: "1413"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - sąvoka
 ---
-# Kaštelionas
+# kaštelionas
 
 ## Santrauka
-Šaltinyje „Kaštelionas“ vartojama taip: Krašto administracijos arba pilies pareigūnas, įvestas lenkišku pavyzdžiu. (t-001)
 
-## Žodis ir formos
-- Kanoninis pavadinimas: Kaštelionas
-- Formos šaltinyje: kaštelionai
-
-## Laikotarpis ir datos
-- laikotarpis: 1413 m.
-- datos: 1413 m.
-- periodas: viduramziai
-- periodo_grupes: 
-- amziai: XV
-- date_start: 1413
-- date_end: 1413
-
-## Reikšmė iš konteksto
-- Krašto administracijos arba pilies pareigūnas, įvestas lenkišku pavyzdžiu. (t-001)
-
-## Vartojimas
-Terminas šaltinyje vartojamas šiame kontekste: valstybės valdymas, pareigybės. (t-001)
+Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau Žemaitijai buvo paskirtas ir kaštelionas (1566 m.).
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Kaštelionas“ vartojama taip: Krašto administracijos arba pilies pareigūnas, įvestas lenkišku pavyzdžiu."
+  teiginys: 'Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Vėliau Žemaitijai buvo paskirtas ir kaštelionas (1566 m.).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Taip pat įvardijamas naujai įvestas urėdas, minimas drauge su vaivada.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    O tokie, lenkų pavyzdžiu naujai įvesti,
-    urėdai turėjo būti vaivados ir kaštelionai; jie tu-
-    rėjo gauti tam tikrų teisių krašto valdyme ir karo atveju turėjo
-    vadovauti savo vaivadijos bajorams.
-  citata_rodoma: |
-    O tokie, lenkų pavyzdžiu naujai įvesti, urėdai turėjo būti vaivados ir kaštelionai; jie turėjo gauti tam tikrų teisių krašto valdyme ir karo atveju turėjo vadovauti savo vaivadijos bajorams.
+    Jiems karo reikaluose ir teismuose
+    tarsi padėjėjai buvo kaštelionai.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia termino vartoseną arba aiškinimą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-002
+  santrauka: 'Vėliau Žemaitijai buvo paskirtas ir kaštelionas (1566 m.).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vėliau Žemaitijai buvo paskirtas ir kaštelionas (1566 m.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

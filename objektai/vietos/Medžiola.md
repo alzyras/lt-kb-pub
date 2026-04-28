@@ -1,78 +1,43 @@
 ---
 tipas: vieta
-pavadinimas: "Medžiola"
-sukurta: "2026-04-18"
-variantai: 
-  - "Medžiolos"
-aliases: 
-  - "Medžiola"
-  - "Medžiolos"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1920 m. liepos 12 d."
-datos: 
-  - "1920 m. liepos 12 d."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XX"
-date_start: "1920"
-date_end: "1920"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Medžiola'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'žemas'
+tags:
+  - ežeras
+  - vieta
 ---
 # Medžiola
 
 ## Santrauka
-Šaltinyje vieta „Medžiola“ siejama su šiuo kontekstu: Minima ir kaip upė, ir kaip to paties vardo ežeras rytinės sienos apraše. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Medžiola
-- Šaltinyje fiksuotos formos: Medžiolos
-
-## Laikotarpis ir datos
-- laikotarpis: 1920 m. liepos 12 d.
-- datos: 1920 m. liepos 12 d.
-- amziai: XX
-- date_start/date_end: 1920 / 1920
-
-## Kas tai
-- tipas: upė ir ežeras
-
-## Geografinis ir istorinis kontekstas
-- Minima ir kaip upė, ir kaip to paties vardo ežeras rytinės sienos apraše. (t-001)
+toliau Drujos upe, per Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe ir per to pat vardo ežerą, per Miastros ežerą, Bliados ežero rytų šonu, Naračios upe,.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Medžiola“ siejama su šiuo kontekstu: Minima ir kaip upė, ir kaip to paties vardo ežeras rytinės sienos apraše."
+  teiginys: 'toliau Drujos upe, per Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe ir per to pat vardo ežerą, per Miastros ežerą, Bliados ežero rytų šonu, Naračios upe,.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minima ir kaip upė, ir kaip to paties vardo ežeras rytinės sienos apraše.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'toliau Drujos upe, per Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe ir per to pat vardo ežerą, per Miastros ežerą, Bliados ežero rytų šonu, Naračios upe,.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Dauguvos upe, ji ėjo ties Šafranovo dvaru, toliau Drujos upe, per
-    Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe ir per to pat vardo
+    toliau Drujos upe, per Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe ir per to pat vardo
     ežerą, per Miastros ežerą, Bliados ežero rytų šonu, Naračios upe,
-    toliau Ušos ir Buchovkos upėmis, per Modolečną, pro Voložino
-    miestą, Voložinkos, Isločės ir Beržūnės upėmis, paskum Nemunu,
-    Svisločės intaku, Lašos upe, pro Induros miestelį, Induros upe, toliau
-    pro Sidros miestelį, Kamenos upe ir pagaliau Gorodniankos upe ligi
-    Bobro upės.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: žemas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/ežeras]]

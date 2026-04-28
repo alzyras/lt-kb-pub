@@ -1,63 +1,56 @@
 ---
 tipas: asmuo
-pavadinimas: "Kristupas II Radvila"
-sukurta: "2026-04-18"
-variantai: 
-  - "Kristupo Perkūno sūnus"
-  - "Kristupą II Radvilą"
-aliases: 
-  - "Kristupas II Radvila"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Kristupas II Radvila'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Kristupas II Radvila
 
 ## Santrauka
-Šaltinyje Kristupas II Radvila apibūdinamas taip: Minimas kaip Lietuvos lauko hetmonas, kuris rūpinosi Livonijos gynimu.
 
-## Variantai
-- Kristupo Perkūno sūnus
-- Kristupą II Radvilą
+Jo sūnus, taip pat Kristupas II († 1640 m.), buvo iš karto lauko, o vėliau didysis hetmonas; kitas sūnus, Jonušas († 1620 m.), yra žinomas rokošininkas. Mirus Katkevičiui, į hetmono ir Vilniaus vaivados urėdus veržte veržėsi Kristupas II Radvila.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Kristupas II Radvila apibūdinamas taip: Minimas kaip Lietuvos lauko hetmonas, kuris rūpinosi Livonijos gynimu."
+  teiginys: 'Jo sūnus, taip pat Kristupas II († 1640 m.), buvo iš karto lauko, o vėliau didysis hetmonas; kitas sūnus, Jonušas († 1620 m.), yra žinomas rokošininkas.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Mirus Katkevičiui, į hetmono ir Vilniaus vaivados urėdus veržte veržėsi Kristupas II Radvila.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip Lietuvos lauko hetmonas, kuris rūpinosi Livonijos gynimu.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Jo sūnus, taip pat Kristupas II († 1640 m.), buvo iš karto lauko, o vėliau didysis hetmonas; kitas sūnus, Jonušas († 1620 m.), yra žinomas rokošininkas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    dar vėliau kilo lenkų karas su turkais, kur Katkevičius irgi da-
-    lyvavo. Tad Livonijos reikalais jis tegalėjo rūpintis tik protar-
-
-    piais; jos. gynimu tuomet daugiausia rūpinosi Lietuvos lauko
-    hetmonas Kristupas II Radvila (Kristupo Perkūno sūnus).
-  citata_rodoma: |
-    dar vėliau kilo lenkų karas su turkais, kur Katkevičius irgi dalyvavo. Tad Livonijos reikalais jis tegalėjo rūpintis tik protarpiais; jos. gynimu tuomet daugiausia rūpinosi Lietuvos lauko hetmonas Kristupas II Radvila (Kristupo Perkūno sūnus).
+    Jo sūnus, taip pat Kristupas II († 1640 m.), buvo
+      iš karto lauko, o vėliau didysis hetmonas; kitas sūnus, Jonušas
+      († 1620 m.), yra žinomas rokošininkas.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-002
+  santrauka: 'Mirus Katkevičiui, į hetmono ir Vilniaus vaivados urėdus veržte veržėsi Kristupas II Radvila.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Mirus Katkevičiui, į hetmono ir Vilniaus vaivados urėdus
+      veržte veržėsi Kristupas II Radvila.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

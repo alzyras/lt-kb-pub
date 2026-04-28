@@ -1,58 +1,54 @@
 ---
 tipas: asmuo
-pavadinimas: "Marija Liudvika"
-sukurta: "2026-04-18"
-variantai: 
-  - "Marijos Liudvikos"
-aliases: 
-  - "Marija Liudvika"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Marija Liudvika'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Marija Liudvika
 
 ## Santrauka
-Šaltinyje Marija Liudvika apibūdinamas taip: Minima kaip Jono Kazimiero žmona ir karališkųjų rūmų įtakinga veikėja.
 
-## Variantai
-- Marijos Liudvikos
+Marija Liudvika daugiau reiškė, negu pats karalius. Jo žmona buvo velionies karaliaus Vladislovo našlė, prancūzė Marija Liudvika.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Marija Liudvika apibūdinamas taip: Minima kaip Jono Kazimiero žmona ir karališkųjų rūmų įtakinga veikėja."
+  teiginys: 'Marija Liudvika daugiau reiškė, negu pats karalius.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Jo žmona buvo velionies karaliaus Vladislovo našlė, prancūzė Marija Liudvika.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minima kaip Jono Kazimiero žmona ir karališkųjų rūmų įtakinga veikėja.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Marija Liudvika daugiau reiškė, negu pats karalius.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jo žmona buvo velionies karaliaus Vladislovo
-    našlė, prancūzė Marija Liudvika. Energinga intrigantė,
-    karališkuosiuose rūmuose ji daugiau reiškė, negu pats karalius.
-  citata_rodoma: ""
+    Energinga intrigantė,
+      karališkuosiuose rūmuose ji daugiau reiškė, negu pats karalius.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-002
+  santrauka: 'Jo žmona buvo velionies karaliaus Vladislovo našlė, prancūzė Marija Liudvika.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Jo žmona buvo velionies karaliaus Vladislovo našlė, prancūzė Marija Liudvika.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

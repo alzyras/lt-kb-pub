@@ -1,73 +1,60 @@
 ---
 tipas: autorius
-pavadinimas: "Mikalojus Daukša"
-sukurta: "2026-04-20"
-variantai:
-  - "Mikalojus Daukša"
-  - "Daukša"
-  - "Daukšos"
-aliases:
-  - "Mikalojus Daukša"
-  - "Daukša"
-  - "Daukšos"
+pavadinimas: 'Mikalojus Daukša'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - "autorius"
-laikotarpis: "1595 m.; 1599 m."
-datos:
-  - "1595 m."
-  - "1599 m."
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "vertėjas"
-dalyviai:
-  - "Mikalojus Daukša"
-susije_irasai: []
-patikimumas: "vidutinis"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - autorius
+  - vyskupas
 ---
 # Mikalojus Daukša
 
 ## Santrauka
-Šaltinyje Mikalojus Daukša minimas kaip vertėjas; šis vaidmuo siejamas su: katekizmo vertimas; postilės vertimas.
 
-## Laikotarpis ir datos
-- 1595 m.
-- 1599 m.
-
-## Darbai
-- katekizmo vertimas; postilės vertimas. (t-001)
-
-## Kontekstas
-- Minimas kaip kanoninkas, vyskupo raginamas išleidęs lietuviškų katalikiškų tekstų vertimus. (c-001)
+Vyskupo raginamas, kanauninkas Mikalojus Daukša 1595 m. jo lėšomis išleido katekizmo vertimą, o 1599 m. — postilės vertimą. Religinėje literatūroje jie sekė katalikais; taip antai, pasirodžius Daukšos katekizmui, po 3 metų ir jie išleido savo protestantiškąjį katekizmą (1598 m.); 1599 m. pasirodžius Daukšos postilei, protestantai 1600 m. išleido savąją.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Mikalojus Daukša minimas kaip vertėjas, siejamas su: katekizmo vertimas; postilės vertimas."
+  teiginys: 'Vyskupo raginamas, kanauninkas Mikalojus Daukša 1595 m. jo lėšomis išleido katekizmo vertimą, o 1599 m. — postilės vertimą.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Religinėje literatūroje jie sekė katalikais; taip antai, pasirodžius Daukšos katekizmui, po 3 metų ir jie išleido savo protestantiškąjį katekizmą (1598 m.); 1599 m. pasirodžius Daukšos postilei, protestantai 1600 m. išleido savąją.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Šaltinyje Mikalojus Daukša minimas kaip vertėjas, siejamas su: katekizmo vertimas; postilės vertimas.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Vyskupo raginamas, kanauninkas Mikalojus Daukša 1595 m. jo lėšomis išleido katekizmo vertimą, o 1599 m. — postilės vertimą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vyskupo raginamas, kanau-
     ninkas Mikalojus Daukša 1595 m. jo lėšomis išleido ka-
     tekizmo vertimą, o 1599 m. — postilės vertimą.
-  citata_rodoma: |
-    Vyskupo raginamas, kanauninkas Mikalojus Daukša 1595 m. jo lėšomis išleido katekizmo vertimą, o 1599 m. — postilės vertimą.
-
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Šaltinio fragmentas tiesiogiai susieja kandidatą su autorystės, redagavimo, vertimo, kronikininko ar bibliografinio autoriaus kontekstu."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Religinėje literatūroje jie sekė katalikais; taip antai, pasirodžius Daukšos katekizmui, po 3 metų ir jie išleido savo protestantiškąjį katekizmą (1598 m.); 1599 m. pasirodžius Daukšos postilei, protestantai 1600 m. išleido savąją.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Religinėje literatūroje jie sekė katalikais; taip antai, pasiro-
+    džius Daukšos katekizmui, po 3 metų ir jie išleido savo pro-
+    
+    testantiškąjį katekizmą (1598 m.); 1599 m. pasirodžius Daukšos
+    postilei, protestantai 1600 m. išleido savąją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

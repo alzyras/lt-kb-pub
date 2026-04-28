@@ -1,71 +1,45 @@
 ---
 tipas: vieta
-pavadinimas: "Bajerburgas"
-sukurta: "2026-04-18"
-variantai: 
-  - "Bajerburgo"
-aliases: 
-  - "Bajerburgas"
-  - "Bajerburgo"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Bajerburgas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
 ---
 # Bajerburgas
 
 ## Santrauka
-Šaltinyje vieta „Bajerburgas“ siejama su šiuo kontekstu: Minima kaip viena iš ordino naujų pilių prie Nemuno. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Bajerburgas
-- Šaltinyje fiksuotos formos: Bajerburgo
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: pilis
-
-## Geografinis ir istorinis kontekstas
-- Minima kaip viena iš ordino naujų pilių prie Nemuno. (t-001)
+Čia buvo šios ordino pilys: Klaipėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajerburgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie Kauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir kitos (žiūr.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Bajerburgas“ siejama su šiuo kontekstu: Minima kaip viena iš ordino naujų pilių prie Nemuno."
+  teiginys: 'Čia buvo šios ordino pilys: Klaipėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajerburgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie Kauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir kitos (žiūr.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minima kaip viena iš ordino naujų pilių prie Nemuno.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Čia buvo šios ordino pilys: Klaipėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajerburgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie Kauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir kitos (žiūr.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Nepajėgė Gediminas pašalinti kryžiuočių ir nuo Nemuno.
-    Priešingai, čia ordinas paslinko net kiek arčiau ir pasistatė
-    net dvi naujas pilis — Marijenburgą ir Bajerburgą. Tuo bū-
-    du Nemuno pakrantę jie buvo jau užėmę iki pat Dubysos žio-
-    čių.
-  citata_rodoma: |
-    Nepajėgė Gediminas pašalinti kryžiuočių ir nuo Nemuno. Priešingai, čia ordinas paslinko net kiek arčiau ir pasistatė net dvi naujas pilis — Marijenburgą ir Bajerburgą. Tuo būdu Nemuno pakrantę jie buvo jau užėmę iki pat Dubysos žiočių.
+    Čia buvo šios ordino pilys: Klai-
+    pėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajer-
+    burgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie
+    Kauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir
+    kitos (žiūr. 85 psl.).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/vietos/Gotesverderis]]

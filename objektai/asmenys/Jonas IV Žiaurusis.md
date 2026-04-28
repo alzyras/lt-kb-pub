@@ -1,70 +1,67 @@
 ---
 tipas: asmuo
-pavadinimas: "Jonas IV Žiaurusis"
-sukurta: "2026-04-18"
-variantai: 
-  - "Jonas IV"
-  - "Jono IV Žiauriojo"
-aliases: 
-  - "Jonas IV Žiaurusis"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1533 m."
-datos: 
-  - "1533 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XVI"
-date_start: "1533"
-date_end: "1533"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Jonas IV Žiaurusis'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
+  - valdovas
 ---
 # Jonas IV Žiaurusis
 
 ## Santrauka
-Šaltinyje Jonas IV Žiaurusis apibūdinamas taip: Maskvos kunigaikštis, kurio mirtis 1533 m. atvėrė kelią Jonui IV Žiauriajam.
 
-## Variantai
-- Jonas IV
-- Jono IV Žiauriojo
-
-## Laikotarpis ir datos
-- laikotarpis: 1533 m.
-- datos: 1533 m.
-- periodas:
-- periodo_grupes:
-- amziai: XVI
-- date_start: 1533
-- date_end: 1533
+Jonas IV Žiaurusis nenorėjo tuo būdu jai įsipykti; priešingai, Zigmantui Augustui mirus, grasindamas karu galėjo reikalauti sosto sau arba sūnui. Jonas IV Žiaurusis mirė.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Jonas IV Žiaurusis apibūdinamas taip: Maskvos kunigaikštis, kurio mirtis 1533 m. atvėrė kelią Jonui IV Žiauriajam."
+  teiginys: 'Jonas IV Žiaurusis nenorėjo tuo būdu jai įsipykti; priešingai, Zigmantui Augustui mirus, grasindamas karu galėjo reikalauti sosto sau arba sūnui.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Jonas IV Žiaurusis mirė.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Maskvos kunigaikštis, kurio mirtis 1533 m. atvėrė kelią Jonui IV Žiauriajam.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Jonas IV Žiaurusis nenorėjo tuo būdu jai įsipykti; priešingai, Zigmantui Augustui mirus, grasindamas karu galėjo reikalauti sosto sau arba sūnui.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kai 1533 m. mirė Vosylius III, Maskvos
-    kunigaikščiu tapo Jonas IV Žiaurusis.
-  citata_rodoma: ""
+    Visi laukė anksti pasenusio Zigmanto Au-
+      gusto mirties. Visi kaimynai valdovai ruošėsi po jo mirties
+      įžengti į Lietuvos ir Lenkijos sostus, o ypač tuo rūpinosi Aus-
+      trų Habsburgai ir caras Jonas IV. Kaip tik dėl to caras ir
+      nebekariavo su Lietuva: jis nenorėjo tuo būdu jai įsipykti; prie-
+      šingai, Zigmantui Augustui mirus, grasindamas karu galėjo rei-
+      kalauti sosto sau arba sūnui.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Jonas IV Žiaurusis mirė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Caras Jonas IV, gal būt, dary-
+      damas šias paliaubas, ir galvojo vėl kada nors pradėti karą su Lietuva, tačiau jam jau nebeteko kariauti, nes netrukus
+      (1584 m.) jis mirė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/paliaubos]]
+- [[temos/valdovas]]

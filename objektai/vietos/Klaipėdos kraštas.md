@@ -1,78 +1,84 @@
 ---
 tipas: vieta
-pavadinimas: "Klaipėdos kraštas"
-sukurta: "2026-04-18"
-variantai: 
-  - "Klaipėdos krašto"
-  - "Klaipėdos krašte"
-aliases: 
-  - "Klaipėdos kraštas"
-  - "Klaipėdos krašto"
-  - "Klaipėdos krašte"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1921 m., 1923 m., 1924 m."
-datos: 
-  - "1921 m., 1923 m., 1924 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XX"
-date_start: "1921"
-date_end: "1924"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Klaipėdos kraštas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
 ---
 # Klaipėdos kraštas
 
 ## Santrauka
-Šaltinyje vieta „Klaipėdos kraštas“ siejama su šiuo kontekstu: Minimas kaip nuo Vokietijos atskirtas ir vėliau prie Lietuvos prijungtas autonominis kraštas. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Klaipėdos kraštas
-- Šaltinyje fiksuotos formos: Klaipėdos krašto; Klaipėdos krašte
-
-## Laikotarpis ir datos
-- laikotarpis: 1921 m., 1923 m., 1924 m.
-- datos: 1921 m., 1923 m., 1924 m.
-- amziai: XX
-- date_start/date_end: 1921 / 1924
-
-## Kas tai
-- tipas: kraštas / regionas; kraštas
-
-## Geografinis ir istorinis kontekstas
-- Minimas kaip nuo Vokietijos atskirtas ir vėliau prie Lietuvos prijungtas autonominis kraštas. (t-001)
+Bet kadangi tada Lietuvos likimas formaliai dar nebuvo išspręstas, tai tas atskirtas kraštas, gavęs Klaipėdos krašto vardą, nebuvo prijungtas prie Lietuvos, o buvo laikinai paliktas didžiųjų valstybių žinioje. Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkintos jų komisijos ir Lietuvos komisaro bendradarbiavimu visų įvykių likvidavime ir 1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui. Nuo to laiko Klaipėdos kraštas yra neginčijama Lietuvos valstybės dalis.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Klaipėdos kraštas“ siejama su šiuo kontekstu: Minimas kaip nuo Vokietijos atskirtas ir vėliau prie Lietuvos prijungtas autonominis kraštas."
+  teiginys: 'Bet kadangi tada Lietuvos likimas formaliai dar nebuvo išspręstas, tai tas atskirtas kraštas, gavęs Klaipėdos krašto vardą, nebuvo prijungtas prie Lietuvos, o buvo laikinai paliktas didžiųjų valstybių žinioje.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkintos jų komisijos ir Lietuvos komisaro bendradarbiavimu visų įvykių likvidavime ir 1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Nuo to laiko Klaipėdos kraštas yra neginčijama Lietuvos valstybės dalis.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip nuo Vokietijos atskirtas ir vėliau prie Lietuvos prijungtas autonominis kraštas.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Bet kadangi tada Lietuvos likimas formaliai dar nebuvo išspręstas, tai tas atskirtas kraštas, gavęs Klaipėdos krašto vardą, nebuvo prijungtas prie Lietuvos, o buvo laikinai paliktas didžiųjų valstybių žinioje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Bet kadangi tada Lietuvos liki-
+    ji atskyrė nuo Vokietijos tik mažą dalį žemių, kuriose nuo
+    senų senovės gyveno lietuviai. Bet kadangi tada Lietuvos liki-
     mas formaliai dar nebuvo išspręstas, tai tas atskirtas kraštas,
     gavęs Klaipėdos krašto vardą, nebuvo prijungtas prie Lietuvos,
-    o buvo laikinai paliktas didžiųjų valstybių žinioje. Prancūzų
-    vyriausybė buvo įgaliota laikinai administruoti tą kraštą.
-  citata_rodoma: |
-    Bet kadangi tada Lietuvos likimas formaliai dar nebuvo išspręstas, tai tas atskirtas kraštas, gavęs Klaipėdos krašto vardą, nebuvo prijungtas prie Lietuvos, o buvo laikinai paliktas didžiųjų valstybių žinioje. Prancūzų vyriausybė buvo įgaliota laikinai administruoti tą kraštą.
+    o buvo laikinai paliktas didžiųjų valstybių žinioje.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkintos jų komisijos ir Lietuvos komisaro bendradarbiavimu visų įvykių likvidavime ir 1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo
+    patenkintos jų komisijos ir Lietuvos komisaro bendradarbiavimu
+    visų įvykių likvidavime ir 1923 metų vasario 16 d. nutarė Klai-
+    pėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui
+    suteikiant autonominį režimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Nuo to laiko Klaipėdos kraštas yra neginčijama Lietuvos valstybės dalis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Nuo to laiko Klaipėdos kraštas yra negin-
+    čijama Lietuvos valstybės dalis. Jis turi savo autonominę valdžią,
+    o respublikos vyriausybei ten atstovauja prezidento skiriamas gu-
+    bernatorius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/paprociai/Klaipėdos krašto autonominis režimas]]

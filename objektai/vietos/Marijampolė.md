@@ -1,77 +1,52 @@
 ---
 tipas: vieta
-pavadinimas: "Marijampolė"
-sukurta: "2026-04-18"
-variantai: 
-  - "Marijampolę"
-aliases: 
-  - "Marijampolė"
-  - "Marijampolę"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1812—1813 m."
-datos: 
-  - "1812—1813 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XIX"
-date_start: "1812"
-date_end: "1813"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Marijampolė'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - mūšis
+  - vieta
 ---
 # Marijampolė
 
 ## Santrauka
-Šaltinyje vieta „Marijampolė“ siejama su šiuo kontekstu: Minima kaip Napoleono kariuomenės atsitraukimo maršruto miestas. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Marijampolė
-- Šaltinyje fiksuotos formos: Marijampolę
-
-## Laikotarpis ir datos
-- laikotarpis: 1812—1813 m.
-- datos: 1812—1813 m.
-- amziai: XIX
-- date_start/date_end: 1812 / 1813
-
-## Kas tai
-- tipas: miestas
-
-## Geografinis ir istorinis kontekstas
-- Minima kaip Napoleono kariuomenės atsitraukimo maršruto miestas. (t-001)
+Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui, — per Vilnių, Kauną, Marijampolę ir Varšuvą jis parskubėjo į Paryžių rinkti naujų jėgų.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Marijampolė“ siejama su šiuo kontekstu: Minima kaip Napoleono kariuomenės atsitraukimo maršruto miestas."
+  teiginys: 'Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui, — per Vilnių, Kauną, Marijampolę ir Varšuvą jis parskubėjo į Paryžių rinkti naujų jėgų.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minima kaip Napoleono kariuomenės atsitraukimo maršruto miestas.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui, — per Vilnių, Kauną, Marijampolę ir Varšuvą jis parskubėjo į Paryžių rinkti naujų jėgų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tuojau po unijos atnaujinimo iškilmių jis išžygiavo iš Vilniaus į
+    Be to, netrukus žuvo ir visa Napoleono galybė. Tuojau
+    po unijos atnaujinimo iškilmių jis išžygiavo iš Vilniaus į
     Maskvą. Tačiau jis nerado taikos nė tenai. Bado ir didelių
     šalčių vejamas, grįžo atgal. Po žiauraus mūšio prie Bere-
     zinos pavedęs kariuomenę savo maršalui Miuratui, — per Vil-
     nių, Kauną, Marijampolę ir Varšuvą jis parskubėjo į Paryžių
     rinkti naujų jėgų.
-  citata_rodoma: |
-    Tuojau po unijos atnaujinimo iškilmių jis išžygiavo iš Vilniaus į Maskvą. Tačiau jis nerado taikos nė tenai. Bado ir didelių šalčių vejamas, grįžo atgal. Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui, — per Vilnių, Kauną, Marijampolę ir Varšuvą jis parskubėjo į Paryžių rinkti naujų jėgų.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/mūšis]]
+- [[temos/unija]]
+
+### Susiję objektai
+- [[objektai/vietos/Berezina]]

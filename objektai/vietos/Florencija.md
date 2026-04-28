@@ -1,68 +1,48 @@
 ---
 tipas: vieta
-pavadinimas: "Florencija"
-sukurta: "2026-04-18"
-variantai: 
-  - "Florencijoje"
-aliases: 
-  - "Florencija"
-  - "Florencijoje"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Florencija'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
 ---
 # Florencija
 
 ## Santrauka
-Šaltinyje vieta „Florencija“ siejama su šiuo kontekstu: Minima kaip vieta, kur galutinai susitarta dėl bažnytinės unijos. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Florencija
-- Šaltinyje fiksuotos formos: Florencijoje
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: šaltinyje aiškiai nenurodytas
-
-## Geografinis ir istorinis kontekstas
-- Minima kaip vieta, kur galutinai susitarta dėl bažnytinės unijos. (t-001)
+Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Florencija“ siejama su šiuo kontekstu: Minima kaip vieta, kur galutinai susitarta dėl bažnytinės unijos."
+  teiginys: 'Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minima kaip vieta, kur galutinai susitarta dėl bažnytinės unijos.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau galutinai dėl unijos buvo susitarta kiek vė-
-    liau Florencijoje.
-  citata_rodoma: |
-    Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
+    liau Florencijoje. Tas susitarimas buvo paskelbtas Konstantino-
+    poly 1452 m., tik jau nebebuvo laiko jam įvykdyti: po pusės
+    metų (1453 m.) Konstantinopolį užėmė turkai, imperija žlugo, o
+    su ja žlugo ir unija.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/unija]]
+
+### Susiję objektai
+- [[objektai/vietos/Konstantinopolis]]

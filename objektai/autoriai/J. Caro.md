@@ -1,60 +1,37 @@
 ---
 tipas: autorius
-pavadinimas: "J. Caro"
-sukurta: "2026-04-18"
+pavadinimas: 'J. Caro'
+sukurta: '2026-04-25'
 variantai: []
-aliases: 
-  - "J. Caro"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: 
-  - "autorius"
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: 
-  - "autorius"
-dalyviai: 
-  - "J. Caro"
-susije_irasai: []
-patikimumas: "vidutinis"
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - autorius
 ---
 # J. Caro
 
 ## Santrauka
-Šaltinyje J. Caro minimas autorystės, redagavimo arba tyrimo kontekste: Bibliografijoje nurodytas kaip Lenkijos istorijos autorius.
 
-## Darbai
-- Bibliografijoje nurodytas kaip Lenkijos istorijos autorius. (t-001)
-
-## Kontekstas
-- Bibliografinė eilutė tiesiogiai įvardija Caro kaip veikalo autorių. (c-001)
+J. Caro, Geschichte Polens, II—VI (1840—1869);.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje J. Caro autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Bibliografijoje nurodytas kaip Lenkijos istorijos autorius."
+  teiginys: 'J. Caro, Geschichte Polens, II—VI (1840—1869);.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Bibliografijoje nurodytas kaip Lenkijos istorijos autorius.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'J. Caro, Geschichte Polens, II—VI (1840—1869);.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    (1894, II laida); _J. Caro,_ Geschichte Polens, II—VI (1840—1869); _Historya
-    polityczna Polsk,_ I, II (1920, 1923, Encykloped. Polska, t. V, dział VI);
-  citata_rodoma: |
-    (1894, II laida); J. Caro, Geschichte Polens, II—VI (1840—1869); Historya polityczna Polsk, I, II (1920, 1923, Encykloped. Polska, t. V, dział VI);
+    _J. Caro,_ Geschichte Polens, II—VI (1840—1869);
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Bibliografinė eilutė tiesiogiai įvardija Caro kaip veikalo autorių."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001

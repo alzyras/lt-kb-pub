@@ -1,76 +1,85 @@
 ---
 tipas: autorius
-pavadinimas: "D. Poška"
-sukurta: "2026-04-20"
-variantai:
-  - "D. Poška"
-aliases:
-  - "D. Poška"
+pavadinimas: 'D. Poška'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - "autorius"
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "rašytojas, istorijos mėgėjas"
-dalyviai:
-  - "D. Poška"
-susije_irasai: []
-patikimumas: "vidutinis"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - autorius
 ---
 # D. Poška
 
 ## Santrauka
-Šaltinyje D. Poška minimas kaip rašytojas, istorijos mėgėjas; šis vaidmuo siejamas su: žemaitiškas žodynas; Lietuvos istorija; senienų muziejus Baublyje..
 
-## Darbai
-- žemaitiškas žodynas; Lietuvos istorija; senienų muziejus Baublyje.. (t-001)
-
-## Kontekstas
-- žemaičių kalbos ir senienų rinkimo veikėjas, rašęs žemaitiškai. (c-001)
+Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs žemaitiškai. Poška net ėmė rašyti žemaitišką žodyną ir tam tikslui rinko senas knygas. Poška savo Baubly įtaisė net senienų muziejų.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje D. Poška minimas kaip rašytojas, istorijos mėgėjas, siejamas su: žemaitiškas žodynas; Lietuvos istorija; senienų muziejus Baublyje.."
+  teiginys: 'Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs žemaitiškai.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Poška net ėmė rašyti žemaitišką žodyną ir tam tikslui rinko senas knygas.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Poška savo Baubly įtaisė net senienų muziejų.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Šaltinyje D. Poška minimas kaip rašytojas, istorijos mėgėjas, siejamas su: žemaitiškas žodynas; Lietuvos istorija; senienų muziejus Baublyje..
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs žemaitiškai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Baužos mintys sukėlė didelį atgarsį mokslininkų ir lietuvių
+    veikėjų tarpe. Ypač juo buvo susižavėjęs D. Poška, pats
+    globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
+    žemaitiškai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Poška net ėmė rašyti žemaitišką žodyną ir tam tikslui rinko senas knygas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     D. Poška net ėmė rašyti žemaitišką žodyną ir tam tikslui
-    rinko senas knygas. K. Za-
-    bitis Nezabitauskas
-    išleido lietuviškųjų knygų bi-
-    bliografiją, S. Stanevi-
-    čius — lietuviškų dainų rin-
-    kinį. Kad nebūtų darkoma
-    žemaičių kalba, bajorai ir ku-
-    nigai pradėjo spausdinti nau-
-    jų maldaknygių, giesmynų ir
-    elementorių.
-
+    rinko senas knygas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Poška savo Baubly įtaisė net senienų muziejų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
     Be to, buvo renkamos se-
     nienos ir seni istoriniai doku-
     mentai, o D. Poška savo
     Baubly įtaisė net senienų mu-
     ziejų. Jis taip pat bandė rašyti
     ir Lietuvos istoriją.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Šaltinio fragmentas tiesiogiai susieja kandidatą su autorystės, redagavimo, vertimo, kronikininko ar bibliografinio autoriaus kontekstu."
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-003
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/knyga]]
+
+### Susiję objektai
+- [[objektai/daiktai/D. Poškos Baublys]]

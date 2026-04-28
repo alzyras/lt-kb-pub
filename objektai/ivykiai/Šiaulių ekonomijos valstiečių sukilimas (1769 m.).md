@@ -1,67 +1,67 @@
 ---
 tipas: ivykis
-pavadinimas: "Šiaulių ekonomijos valstiečių sukilimas (1769 m.)"
-sukurta: "2026-04-18"
+pavadinimas: 'Šiaulių ekonomijos valstiečių sukilimas (1769 m.)'
+sukurta: '2026-04-25'
 variantai: []
 aliases: []
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: 
-  - "sukilimas"
-laikotarpis: "1769 m."
-datos: 
-  - "1769 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XVIII"
-date_start: "1769"
-date_end: "1769"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - ivykis
+  - sukilimas
 ---
 # Šiaulių ekonomijos valstiečių sukilimas (1769 m.)
 
 ## Santrauka
 
-Šiaulių ekonomijos valstiečių sukilimas vyko Baro konfederacijos pradžios neramumų metu ir buvo žiauriai numalšintas kariuomenės. (t-001)
-
-## Laikotarpis ir datos
-
-- laikotarpis: 1769 m. (t-001)
-- datos: 1769 m. (t-001)
-- amziai: XVIII (t-001)
-- date_start/date_end: 1769 / 1769 (t-001)
+Būdavo taip pat atsitikimų, kad valstiečiai kai kur net sukildavo. Tuo pat metu buvo sukilę Ukrainos valstiečiai ir išpiovę daugybę bajorijos ir jų tarnų.
 
 ## Teiginiai
-
 - t-001
-  teiginys: "Šiaulių ekonomijos valstiečių sukilimas vyko Baro konfederacijos pradžios neramumų metu ir buvo žiauriai numalšintas kariuomenės."
+  teiginys: 'Būdavo taip pat atsitikimų, kad valstiečiai kai kur net sukildavo.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Tuo pat metu buvo sukilę Ukrainos valstiečiai ir išpiovę daugybę bajorijos ir jų tarnų.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: Šiaulių ekonomijos valstiečių sukilimas vyko Baro konfederacijos pradžios neramumų metu ir buvo žiauriai numalšintas kariuomenės.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Būdavo taip pat atsitikimų, kad valstiečiai kai kur net sukildavo.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Būdavo taip pat atsitikimų, kad valstiečiai kai kur net su-
     kildavo. Ypač garsus buvo 1769 m. Šiaulių ekonomijos vals-
     tiečių sukilimas. Tai buvo neramūs tik ką prasidėjusios Baro
-    konfederacijos laikai. Tuo pat metu buvo sukilę Ukrainos
+    konfederacijos laikai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Tuo pat metu buvo sukilę Ukrainos valstiečiai ir išpiovę daugybę bajorijos ir jų tarnų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo pat metu buvo sukilę Ukrainos
     valstiečiai ir išpiovę daugybę bajorijos ir jų tarnų. Šiauliškiai
     buvo norėję net susidėti su jais ir bendrai kovoti, bet atvykusi
     kariuomenė labai žiauriai numalšino jų sukilimą.
-  citata_rodoma: |
-    Būdavo taip pat atsitikimų, kad valstiečiai kai kur net sukildavo. Ypač garsus buvo 1769 m. Šiaulių ekonomijos valstiečių sukilimas. Tai buvo neramūs tik ką prasidėjusios Baro konfederacijos laikai. Tuo pat metu buvo sukilę Ukrainos valstiečiai ir išpiovę daugybę bajorijos ir jų tarnų. Šiauliškiai buvo norėję net susidėti su jais ir bendrai kovoti, bet atvykusi kariuomenė labai žiauriai numalšino jų sukilimą.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia teiginį šaltinio tekste."
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/sukilimas]]
+
+### Laikotarpiai
+- [[laikotarpiai/XVIII amžius]]

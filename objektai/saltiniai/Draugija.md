@@ -1,74 +1,63 @@
 ---
 tipas: saltinis
-pavadinimas: "Draugija"
-sukurta: "2026-04-18"
-variantai:
-  - "„Draugija\""
-  - "pirmasis lietuviškas mokslo žurnalas"
-  - "„Draugija\""
-aliases:
-  - "Draugija"
-  - "„Draugija\""
-  - "pirmasis lietuviškas mokslo žurnalas"
-  - "„Draugija\""
+pavadinimas: 'Draugija'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - "dokumentas"
-laikotarpis: "1905 m."
-datos:
-  - "1905 m."
-periodas: "naujieji_laikai"
-periodo_grupes: []
-amziai:
-  - "XX"
-date_start: "1905"
-date_end: "1905"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - saltinis
 ---
 # Draugija
 
-## Bibliografiniai duomenys
+## Santrauka
 
-- Pavadinimas: Draugija.
-- Formos šaltinyje: „Draugija"; pirmasis lietuviškas mokslo žurnalas.
-- Data / laikotarpis: 1905 m.
-- Šaltinio rūšis / žymos: dokumentas.
-
-## Turinys ir apimtis
-
-Šaltinyje „Draugija“ tai pirmasis lietuviškas mokslo žurnalas, susietas su Kauno spaudos gyvenimu.
-
-## Ryšiai
-
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+Kazimiero Draugija knygoms ir laikraščiams leisti (ji leido „Ned. Skaitymą", iš kurio vėliau atsirado „Vienybė" ir „Draugija"). Taip pat Kaune išėjo pirmasis lietuviškas mokslo žurnalas „Draugija", kurį leido pralotas A.
 
 ## Teiginiai
-
 - t-001
-  teiginys: "Šaltinyje „Draugija“ tai pirmasis lietuviškas mokslo žurnalas, susietas su Kauno spaudos gyvenimu."
+  teiginys: 'Kazimiero Draugija knygoms ir laikraščiams leisti (ji leido „Ned. Skaitymą", iš kurio vėliau atsirado „Vienybė" ir „Draugija").'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Taip pat Kaune išėjo pirmasis lietuviškas mokslo žurnalas „Draugija", kurį leido pralotas A.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: Tai pirmasis lietuviškas mokslo žurnalas, susietas su Kauno spaudos gyvenimu.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Kazimiero Draugija knygoms ir laikraščiams leisti (ji leido „Ned. Skaitymą", iš kurio vėliau atsirado „Vienybė" ir „Draugija").'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Taip pat Kaune išėjo pirmasis lietuviškas
-    mokslo žurnalas „Draugija", kurį leido pralotas A. Dam-
-    brauskas Jakštas.
-  citata_rodoma: |
-    Taip pat Kaune išėjo pirmasis lietuviškas mokslo žurnalas „Draugija", kurį leido pralotas A. Dambrauskas Jakštas.
+    įkurta Šv. Kazimiero Draugija knygoms ir laikraš-
+    čiams leisti (ji leido „Ned. Skaitymą", iš kurio vėliau atsirado
+    „Vienybė" ir „Draugija"). Vilniuje 1907 m. buvo
+    įkurta Lietuvių Mokslo Draugija, kuri pasiryžo tirti
+    lietuvių tautą, jos kultūrą ir kelti lietuviškąjį mokslą (ji ir dabar
+    tebėra gyva ir tebeleidžia savo žurnalą Lietuvių Tautą).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Taip pat Kaune išėjo pirmasis lietuviškas mokslo žurnalas „Draugija", kurį leido pralotas A.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tų pačių metų pabaigoje Vilniuje pradėjo eiti „Lietuvos Ūki-
+    ninkas", o kitais metais ten pat pradėjo eiti „Naujoji Ga-
+    dynė", Seinuose „Šaltinis", o Kaune „Nedėldienio
+    Skaitymas". Taip pat Kaune išėjo pirmasis lietuviškas
+    mokslo žurnalas „Draugija", kurį leido pralotas A. Dam-
+    brauskas Jakštas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

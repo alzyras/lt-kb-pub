@@ -1,76 +1,61 @@
 ---
 tipas: vieta
-pavadinimas: "Vatikanas"
-sukurta: "2026-04-18"
-variantai: 
-  - "Vatikano"
-aliases: 
-  - "Vatikanas"
-  - "Vatikano"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Vatikanas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
+  - vyskupas
 ---
 # Vatikanas
 
 ## Santrauka
-Šaltinyje vieta „Vatikanas“ siejama su šiuo kontekstu: Vatikanas minimas kaip archyvų vieta, susijusi su Lietuvos krikštu ir Bažnyčios organizavimu. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Vatikanas
-- Šaltinyje fiksuotos formos: Vatikano
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: miestas-valstybė / archyvo vieta
-
-## Geografinis ir istorinis kontekstas
-- Vatikanas minimas kaip archyvų vieta, susijusi su Lietuvos krikštu ir Bažnyčios organizavimu. (t-001)
+Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelgdamas į Lietuvos teises nepabaigtame ginče su Lenkija. Pirmieji atgimstančios Lietuvos santykiai su Vatikanu buvo užmegzti dar Tarybos, Vilniuje, kai buvo susirūpinta Vilniaus vyskupo paskyrimu.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Vatikanas“ siejama su šiuo kontekstu: Vatikanas minimas kaip archyvų vieta, susijusi su Lietuvos krikštu ir Bažnyčios organizavimu."
+  teiginys: 'Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelgdamas į Lietuvos teises nepabaigtame ginče su Lenkija.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Pirmieji atgimstančios Lietuvos santykiai su Vatikanu buvo užmegzti dar Tarybos, Vilniuje, kai buvo susirūpinta Vilniaus vyskupo paskyrimu.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Vatikanas minimas kaip archyvų vieta, susijusi su Lietuvos krikštu ir Bažnyčios organizavimu.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelgdamas į Lietuvos teises nepabaigtame ginče su Lenkija.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Nuo seniausių laikų Lietuva labai daug turėjo
-    įvairių santykių ir su vokiečių ordinais, o vėliau—su vad. Prūsais,
-    todėl labai daug medžiagos yra ypač Karaliaučiaus, Dan-
-    cigo ir Berlyno archyvuose. Taip pat nuo senų laikų Lietuvos
-    valstybė turėjo daug reikalų su popiežium, todėl nemaža medžia-
-    gos yra ir Vatikano archyve (iš tų laikų, kai buvo rūpi-
-    namasi Lietuvos krikštu, o vėliau — Lietuvos Bažnyčios orga-
-    nizavimu). Bet daugiausia medžiagos yra Lenkijoje, Varšu-
-    vos ir Krokuvos archyvuose; ypač jos gausu iš tų amžių,
-    kai Lietuva gyveno susirišusi, o vėliau unijoje su Lenkija.
-  citata_rodoma: |
-    Nuo seniausių laikų Lietuva labai daug turėjo įvairių santykių ir su vokiečių ordinais, o vėliau—su vad. Prūsais, todėl labai daug medžiagos yra ypač Karaliaučiaus, Dancigo ir Berlyno archyvuose. Taip pat nuo senų laikų Lietuvos valstybė turėjo daug reikalų su popiežium, todėl nemaža medžiagos yra ir Vatikano archyve (iš tų laikų, kai buvo rūpinamasi Lietuvos krikštu, o vėliau — Lietuvos Bažnyčios organizavimu). Bet daugiausia medžiagos yra Lenkijoje, Varšuvos ir Krokuvos archyvuose; ypač jos gausu iš tų amžių, kai Lietuva gyveno susirišusi, o vėliau unijoje su Lenkija.
+    Tačiau Vatikanas 1925 metais sudarė
+    konkordatą su Lenkija, visai neatsižvelgdamas į Lietuvos teises
+    nepabaigtame ginče su Lenkija.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-002
+  santrauka: 'Pirmieji atgimstančios Lietuvos santykiai su Vatikanu buvo užmegzti dar Tarybos, Vilniuje, kai buvo susirūpinta Vilniaus vyskupo paskyrimu.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pirmieji atgimstančios Lietuvos santykiai su Vatikanu buvo
+    užmegzti dar Tarybos, Vilniuje, kai buvo susirūpinta Vilniaus
+    vyskupo paskyrimu. Vėliau Lietuva turėjo savo atstovą Vati-
+    kane, o Vatikanas Lietuvoj. Tačiau tie santykiai pasidarė visai
+    oficialūs tik tada, kai Šv. Sostas pripažino Lietuvos valstybę de
+    jure (1922. XI. 10).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

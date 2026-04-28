@@ -1,72 +1,41 @@
 ---
 tipas: vieta
-pavadinimas: "Vilniaus gubernija"
-sukurta: "2026-04-18"
-variantai: 
-  - "Vilniaus gubernijas"
-aliases: 
-  - "Vilniaus gubernija"
-  - "Vilniaus gubernijas"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "po trečiojo padalinimo"
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Vilniaus gubernija'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
 ---
 # Vilniaus gubernija
 
 ## Santrauka
-Šaltinyje vieta „Vilniaus gubernija“ siejama su šiuo kontekstu: Minima kaip viena iš trijų gubernijų, į kurias po sujungimo vėl buvo padalintos Rusijai tekusios žemės. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Vilniaus gubernija
-- Šaltinyje fiksuotos formos: Vilniaus gubernijas
-
-## Laikotarpis ir datos
-- laikotarpis: po trečiojo padalinimo
-
-## Kas tai
-- tipas: gubernija / administracinis vienetas
-
-## Geografinis ir istorinis kontekstas
-- Minima kaip viena iš trijų gubernijų, į kurias po sujungimo vėl buvo padalintos Rusijai tekusios žemės. (t-001)
+1859 m. iždas buvo apskaičiavęs iš Kauno gubernijos gauti nuo degtinės 948.056 rublius, o tegavo vos 53.146 rublius.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Vilniaus gubernija“ siejama su šiuo kontekstu: Minima kaip viena iš trijų gubernijų, į kurias po sujungimo vėl buvo padalintos Rusijai tekusios žemės."
+  teiginys: '1859 m. iždas buvo apskaičiavęs iš Kauno gubernijos gauti nuo degtinės 948.056 rublius, o tegavo vos 53.146 rublius.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minima kaip viena iš trijų gubernijų, į kurias po sujungimo vėl buvo padalintos Rusijai tekusios žemės.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: '1859 m. iždas buvo apskaičiavęs iš Kauno gubernijos gauti nuo degtinės 948.056 rublius, o tegavo vos 53.146 rublius.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Visos po trečiojo padalinimo Rusijai teku-
-    sios žemės iš pradžių buvo padalintos į dvi gubernijas —
-    Vilniaus ir Slanimo. Po kiek laiko jos buvo sujungtos
-    į vieną Lietuvos guberniją, bet netrukus vėl buvo pa-
-    dalintos net į 3 — Vilniaus, Kauno ir Gardino — gu-
-    bernijas.
-  citata_rodoma: |
-    Visos po trečiojo padalinimo Rusijai tekusios žemės iš pradžių buvo padalintos į dvi gubernijas — Vilniaus ir Slanimo. Po kiek laiko jos buvo sujungtos į vieną Lietuvos guberniją, bet netrukus vėl buvo padalintos net į 3 — Vilniaus, Kauno ir Gardino — gubernijas.
+    1859 m. iždas
+    buvo apskaičiavęs iš Kauno gubernijos gauti nuo degtinės
+    948.056 rublius, o tegavo vos 53.146 rublius. Vilniaus guberni-
+    joje degtinės pajamos kad ir sumažėjo, bet ne taip labai: ten
+    buvo tikėtasi 929.305 rublių, o gauta 336.781 rublis.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

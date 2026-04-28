@@ -1,93 +1,74 @@
 ---
 tipas: vieta
-pavadinimas: "Kėdainiai"
-sukurta: "2026-04-18"
-variantai: 
-  - "Kėdainių"
-aliases: 
-  - "Kėdainiai"
-  - "Kėdainių"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1655 m."
-datos: 
-  - "1655 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XVII"
-date_start: "1655"
-date_end: "1655"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Kėdainiai'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
 ---
 # Kėdainiai
 
 ## Santrauka
-Šaltinyje vieta „Kėdainiai“ siejama su šiais kontekstais: Kėdainiai minimi sutarties pavadinime; Minimas Kėdainių sutarties pavadinime, siejamoje su Jonušu Radvila ir švedais. (t-001, t-002)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Kėdainiai
-- Šaltinyje fiksuotos formos: Kėdainių
-
-## Laikotarpis ir datos
-- laikotarpis: 1655 m.
-- datos: 1655 m.
-- amziai: XVII
-- date_start/date_end: 1655 / 1655
-
-## Kas tai
-- tipas: miestas
-
-## Geografinis ir istorinis kontekstas
-- Kėdainiai minimi sutarties pavadinime. (t-001)
-- Minimas Kėdainių sutarties pavadinime, siejamoje su Jonušu Radvila ir švedais. (t-002)
+Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje). Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pradžios mokyklų buvo beveik kiekvienoj jų parapijoj. Ypač garsėjo Kėdainių mokykla: mat, Radvilų pastangomis Kėdainiai buvo daromi protestantų kultūros centru.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Kėdainiai“ siejama su šiuo kontekstu: Kėdainiai minimi sutarties pavadinime."
+  teiginys: 'Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Kėdainiai“ siejama su šiuo kontekstu: Minimas Kėdainių sutarties pavadinime, siejamoje su Jonušu Radvila ir švedais."
+  teiginys: 'Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pradžios mokyklų buvo beveik kiekvienoj jų parapijoj.'
   pagrindžia:
     - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Ypač garsėjo Kėdainių mokykla: mat, Radvilų pastangomis Kėdainiai buvo daromi protestantų kultūros centru.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Kėdainiai minimi sutarties pavadinime.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    - 16. Karas su Švedais ir Kėdainių sutartis
-  citata_rodoma: ""
+    Radvilų šeimos buvo dvi šakos. Vienos centras buvo Biržai
+    ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Minimas Kėdainių sutarties pavadinime, siejamoje su Jonušu Radvila ir švedais.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pradžios mokyklų buvo beveik kiekvienoj jų parapijoj.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Po ne-
-    nusisekusios Kėdainių sutarties su Švedais, hetmonas Jonušas Rad-
-    vila mirė (1655 m.), palikęs vienturtę dukterį, kuri ištekėjo už tėvo
-  citata_rodoma: |
-    Po nenusisekusios Kėdainių sutarties su Švedais, hetmonas Jonušas Radvila mirė (1655 m.), palikęs vienturtę dukterį, kuri ištekėjo už tėvo
+    Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvy-
+    žiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pra-
+    džios mokyklų buvo beveik kiekvienoj jų parapijoj.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-003
+  santrauka: 'Ypač garsėjo Kėdainių mokykla: mat, Radvilų pastangomis Kėdainiai buvo daromi protestantų kultūros centru.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Ypač garsėjo Kėdainių mokykla: mat,
+    Radvilų pastangomis Kėdainiai buvo daromi protestantų kultūros
+    centru.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

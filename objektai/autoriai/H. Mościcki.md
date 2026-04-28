@@ -1,66 +1,54 @@
 ---
 tipas: autorius
-pavadinimas: "H. Mościcki"
-sukurta: "2026-04-20"
-variantai:
-  - "H. Mościcki"
-aliases:
-  - "H. Mościcki"
+pavadinimas: 'H. Mościcki'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - "autorius"
-laikotarpis: "1923 m."
-datos:
-  - "1923 m."
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys:
-  - "autorius"
-dalyviai:
-  - "H. Mościcki"
-susije_irasai: []
-patikimumas: "vidutinis"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - autorius
 ---
 # H. Mościcki
 
 ## Santrauka
-Šaltinyje H. Mościcki minimas kaip autorius; šis vaidmuo siejamas su: Pod znakiem orła i pogoni.
 
-## Laikotarpis ir datos
-- 1923 m.
-
-## Darbai
-- Pod znakiem orła i pogoni. (t-001)
-
-## Kontekstas
-- XIX a. pradžios Lietuvos istorijos bibliografijoje nurodytas kaip dviejų veikalų autorius. (c-001)
+Mościcki, Pod znakiem orła i pogoni (1923);. Mościcki, Powstanie 1831 r.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje H. Mościcki minimas kaip autorius, siejamas su: Pod znakiem orła i pogoni."
+  teiginys: 'Mościcki, Pod znakiem orła i pogoni (1923);.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Mościcki, Powstanie 1831 r.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Šaltinyje H. Mościcki minimas kaip autorius, siejamas su: Pod znakiem orła i pogoni.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Mościcki, Pod znakiem orła i pogoni (1923);.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _H. Mościcki,_ Pod znakiem orła i po-
-    goni (1923); — Pod berłem carów (1924); _J. Iwaszkiewicz,_ Litwa w r. 1812
-  citata_rodoma: |
-    H. Mościcki, Pod znakiem orła i pogoni (1923); — Pod berłem carów (1924); J. Iwaszkiewicz, Litwa w r. 1812
-
+    goni (1923);
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Šaltinio fragmentas tiesiogiai susieja kandidatą su autorystės, redagavimo, vertimo, kronikininko ar bibliografinio autoriaus kontekstu."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Mościcki, Powstanie 1831 r.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    _H. Mościcki,_ Powstanie 1831 r. na Litwie (1931);
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

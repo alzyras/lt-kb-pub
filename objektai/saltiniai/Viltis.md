@@ -1,69 +1,31 @@
 ---
 tipas: saltinis
-pavadinimas: "Viltis"
-sukurta: "2026-04-18"
-variantai:
-  - "„Viltis\""
-  - "redaguojamoji „Viltis\""
-  - "stipriausias lietuviškas laikraštis"
-  - "„Viltis\""
-  - "redaguojamoji „Viltis\""
-aliases:
-  - "Viltis"
-  - "„Viltis\""
-  - "redaguojamoji „Viltis\""
-  - "stipriausias lietuviškas laikraštis"
-  - "„Viltis\""
-  - "redaguojamoji „Viltis\""
+pavadinimas: 'Viltis'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - "dokumentas"
-laikotarpis: "1907 m."
-datos:
-  - "1907 m."
-periodas: "naujieji_laikai"
-periodo_grupes: []
-amziai:
-  - "XX"
-date_start: "1907"
-date_end: "1907"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - saltinis
 ---
 # Viltis
 
-## Bibliografiniai duomenys
+## Santrauka
 
-- Pavadinimas: Viltis.
-- Formos šaltinyje: „Viltis"; redaguojamoji „Viltis"; stipriausias lietuviškas laikraštis.
-- Data / laikotarpis: 1907 m.
-- Šaltinio rūšis / žymos: dokumentas.
-
-## Turinys ir apimtis
-
-Šaltinyje „Viltis“ tai politiškai aktyvus lietuviškas laikraštis, apibūdintas kaip stipriausias savo meto leidinys.
-
-## Ryšiai
-
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+Smetonos, redaguojamoji „Viltis".
 
 ## Teiginiai
-
 - t-001
-  teiginys: "Šaltinyje „Viltis“ tai politiškai aktyvus lietuviškas laikraštis, apibūdintas kaip stipriausias savo meto leidinys."
+  teiginys: 'Smetonos, redaguojamoji „Viltis".'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: Tai politiškai aktyvus lietuviškas laikraštis, apibūdintas kaip stipriausias savo meto leidinys.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Smetonos, redaguojamoji „Viltis".'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai „Vilniaus Žinių" leidėjų nuomonės ėmė skirtis, 1907 m.
     pradėjo eiti gabiausio mūsų publicisto, A. Smetonos, reda-
@@ -72,11 +34,10 @@ patikimumas: "aukstas"
     vius į vienybę, gynė opiuosius tautos reikalus, kovojo su Rusų
     priespauda ir lenkų pastangomis nutautinti lietuvius, išvaryti lie-
     tuvių kalbą iš bažnyčių ir t. t.
-  citata_rodoma: |
-    Kai „Vilniaus Žinių" leidėjų nuomonės ėmė skirtis, 1907 m. pradėjo eiti gabiausio mūsų publicisto, A. Smetonos, redaguojamoji „Viltis". Tai buvo stipriausias lietuviškas laikraštis, kuris, nepaisydamas partinių nesantaikų, kvietė visus lietuvius į vienybę, gynė opiuosius tautos reikalus, kovojo su Rusų priespauda ir lenkų pastangomis nutautinti lietuvius, išvaryti lietuvių kalbą iš bažnyčių ir t. t.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001

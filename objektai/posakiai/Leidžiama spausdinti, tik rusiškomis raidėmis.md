@@ -1,71 +1,60 @@
 ---
 tipas: posakis
-pavadinimas: "Leidžiama spausdinti, tik rusiškomis raidėmis"
-sukurta: "2026-04-18"
-variantai: 
-  - "„Leidžiama spausdinti, tik rusiš-"
-aliases: 
-  - "Leidžiama spausdinti, tik rusiškomis raidėmis"
-  - "„Leidžiama spausdinti, tik rusiš-"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: 
-  - "formulė"
-laikotarpis: ""
+pavadinimas: 'Leidžiama spausdinti, tik rusiškomis raidėmis'
+sukurta: '2026-04-24'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+laikotarpis: ''
 datos: []
-periodas: ""
+periodas: ''
 periodo_grupes: []
 amziai: []
-date_start: ""
-date_end: ""
+date_start: ''
+date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "vidutinis"
+patikimumas: 'aukštas'
+tags:
+  - posakis
 ---
 # Leidžiama spausdinti, tik rusiškomis raidėmis
 
 ## Santrauka
-Šaltinyje užfiksuota formuluotė „Leidžiama spausdinti, tik rusiškomis raidėmis“; kontekstas: Cenzūra paprastai taip atsakydavo į lietuviškų leidinių spausdinimo prašymus. Reikšmė: Cenzūros atsakymo formulė, rodanti leidimo sąlygą spausdinti tik rusiškomis raidėmis. (t-001)
+
+Ši formuluotė pateikiama kaip cenzūros atsakymo formulė.
 
 ## Forma
-- pagrindinė forma: Leidžiama spausdinti, tik rusiškomis raidėmis (t-001)
 
-## Variantai
-- „Leidžiama spausdinti, tik rusiš-
-
-## Laikotarpis ir datos
-- Šaltinyje aiškus vartojimo laikas nenurodytas.
-
-## Kontekstas ir vartojimas
-Cenzūra paprastai taip atsakydavo į lietuviškų leidinių spausdinimo prašymus. (t-001)
-
-## Reikšmė
-Cenzūros atsakymo formulė, rodanti leidimo sąlygą spausdinti tik rusiškomis raidėmis. (t-001)
+- Pagrindinė forma: Leidžiama spausdinti, tik rusiškomis raidėmis
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje užfiksuota formuluotė „Leidžiama spausdinti, tik rusiškomis raidėmis“; kontekstas: Cenzūra paprastai taip atsakydavo į lietuviškų leidinių spausdinimo prašymus."
+  teiginys: 'Formuluotė šiame pasakojime pateikiama kaip cenzūros atsakymo formulė.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata tiesiogiai užfiksuoja posakio formą ir jo šaltinio kontekstą.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: cenzūros atsakymo formulė
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Bet vėliau jam
     cenzūra paprastai atsakydavo: „Leidžiama spausdinti, tik rusiš-
-    komis raidėmis".
-  citata_rodoma: |
-    cenzūra paprastai atsakydavo: „Leidžiama spausdinti, tik rusiškomis raidėmis".
+    komis raidėmis". Vieną kitą knygutę ar kokį atsišaukimą pa-
+    sisekdavo išspausdinti, tik cenzūrą apgavus arba apėjus.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia formuluotės buvimą ir jos vartojimo kontekstą šaltinyje."
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/knyga]]

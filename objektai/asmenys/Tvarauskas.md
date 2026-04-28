@@ -1,66 +1,45 @@
 ---
 tipas: asmuo
-pavadinimas: "Tvarauskas"
-sukurta: "2026-04-18"
+pavadinimas: 'Tvarauskas'
+sukurta: '2026-04-25'
 variantai: []
-aliases: 
-  - "Tvarauskas"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1874 m."
-datos: 
-  - "1874 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XIX"
-date_start: "1874"
-date_end: "1874"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Tvarauskas
 
 ## Santrauka
-Šaltinyje Tvarauskas apibūdinamas taip: Minimas kaip lietuviškai pramokęs lenkas, pradėjęs lietuviškos spaudos bandymus Amerikoje.
 
-## Laikotarpis ir datos
-- laikotarpis: 1874 m.
-- datos: 1874 m.
-- periodas:
-- periodo_grupes:
-- amziai: XIX
-- date_start: 1874
-- date_end: 1874
+Bet jau 1874 m. atsirado vienas lietuviškai pramokęs lenkas Tvarauskas, kuris sumanė leisti lietuvišką laikraštį.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Tvarauskas apibūdinamas taip: Minimas kaip lietuviškai pramokęs lenkas, pradėjęs lietuviškos spaudos bandymus Amerikoje."
+  teiginys: 'Bet jau 1874 m. atsirado vienas lietuviškai pramokęs lenkas Tvarauskas, kuris sumanė leisti lietuvišką laikraštį.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip lietuviškai pramokęs lenkas, pradėjęs lietuviškos spaudos bandymus Amerikoje.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Bet jau 1874 m. atsirado vienas lietuviškai pramokęs lenkas Tvarauskas, kuris sumanė leisti lietuvišką laikraštį.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet jau 1874 m. atsirado vienas lietuviškai
-    pramokęs lenkas Tvarauskas, kuris sumanė leisti lietuvišką laik-
-    raštį.
-  citata_rodoma: |
-    Bet jau 1874 m. atsirado vienas lietuviškai pramokęs lenkas Tvarauskas, kuris sumanė leisti lietuvišką laikraštį.
+      pramokęs lenkas Tvarauskas, kuris sumanė leisti lietuvišką laik-
+      raštį. Pirmas jo bandymas nepavyko — „Lietuviška Ga-
+      zieta" ėjo labai trumpai, bet vėliau jis pradėjo leisti savait-
+      raštį „Uniją".
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/unija]]

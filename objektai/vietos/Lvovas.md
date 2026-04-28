@@ -1,73 +1,45 @@
 ---
 tipas: vieta
-pavadinimas: "Lvovas"
-sukurta: "2026-04-18"
-variantai: 
-  - "Lvovo"
-  - "Lwowie"
-aliases: 
-  - "Lvovas"
-  - "Lvovo"
-  - "Lwowie"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Lvovas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
 ---
 # Lvovas
 
 ## Santrauka
-Šaltinyje vieta „Lvovas“ siejama su šiuo kontekstu: Minimas kaip vieno iš pasiuntinių vyskupų atstovavimo miestas. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Lvovas
-- Šaltinyje fiksuotos formos: Lvovo; Lwowie
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: miestas
-
-## Geografinis ir istorinis kontekstas
-- Minimas kaip vieno iš pasiuntinių vyskupų atstovavimo miestas. (t-001)
+Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir veržėsi į Lvovo apylinkes.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Lvovas“ siejama su šiuo kontekstu: Minimas kaip vieno iš pasiuntinių vyskupų atstovavimo miestas."
+  teiginys: 'Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir veržėsi į Lvovo apylinkes.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip vieno iš pasiuntinių vyskupų atstovavimo miestas.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir veržėsi į Lvovo apylinkes.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tuo pat metu suvažiavimas pavedė Vilniaus vyskupui
-    Petrui ir Lvovo vyskupui Jonui nuvykti į Žemaičius, ištirti jų
-    būklės ir suorganizuoti ten vyskupystę. Tie pasiuntiniai tris mė-
-    nesius dirbo Žemaičiuose ir įšventino pirmąjį Žemaičių vyskupą
-    Motiejų.
-  citata_rodoma: |
-    Tuo pat metu suvažiavimas pavedė Vilniaus vyskupui Petrui ir Lvovo vyskupui Jonui nuvykti į Žemaičius, ištirti jų būklės ir suorganizuoti ten vyskupystę. Tie pasiuntiniai tris mėnesius dirbo Žemaičiuose ir įšventino pirmąjį Žemaičių vyskupą Motiejų.
+    Kartu su jo viešpatavimu Lenkijoje prasidėjo sunkus ka-
+    ras su Turkais, kuriems pasidavė ir kazokų hetmonas Doro-
+    šenko. Lenkams, netvarkingai kariaujantiems, karas labai ne-
+    sisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir
+    veržėsi į Lvovo apylinkes.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/vietos/Kamenecas]]

@@ -1,59 +1,53 @@
 ---
 tipas: asmuo
-pavadinimas: "Martynas Oginskis"
-sukurta: "2026-04-18"
-variantai: 
-  - "Martyno Oginskio"
-  - "Oginskis"
-aliases: 
-  - "Martynas Oginskis"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Martynas Oginskis'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
+  - vyskupas
 ---
 # Martynas Oginskis
 
 ## Santrauka
-Šaltinyje Martynas Oginskis apibūdinamas taip: Minimas kaip vienas iš jėzuitų kolegijos Minske fundatorių.
 
-## Variantai
-- Martyno Oginskio
-- Oginskis
+fundacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske (kanclerio Martyno Oginskio ir K.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Martynas Oginskis apibūdinamas taip: Minimas kaip vienas iš jėzuitų kolegijos Minske fundatorių."
+  teiginys: 'fundacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske (kanclerio Martyno Oginskio ir K.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip vienas iš jėzuitų kolegijos Minske fundatorių.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'fundacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske (kanclerio Martyno Oginskio ir K.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Minske
-    (kanclerio Martyno Oginskio ir K. Bžostausko fundacija), Nau-
-  citata_rodoma: ""
+    Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
+      Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko
+      vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig-
+      manto fundacija), Smolenske (klebono Lempickio ir kt. fun-
+      dacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske
+      (kanclerio Martyno Oginskio ir K. Bžostausko fundacija), Nau-
+      garduke (sudėtinė fundacija), Bobruiske (Triznos fun-
+      dacija), Pinske (kanclerio Aibr. St. Radvilos fundacija), Pa-
+      šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja),
+      Vitebske (Smolensko vaivados A. Gansiausko f-ja), Žodiš-
+      kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
+      piegos f-ja).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/bajorija - karalius]]

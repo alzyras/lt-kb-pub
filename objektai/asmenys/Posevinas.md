@@ -1,66 +1,74 @@
 ---
 tipas: asmuo
-pavadinimas: "Posevinas"
-sukurta: "2026-04-18"
-variantai: 
-  - "Posevinui"
-  - "Poseviną"
-aliases: 
-  - "Posevinas"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
+pavadinimas: 'Posevinas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
+  - diplomatas
+  - valdovas
 ---
 # Posevinas
 
 ## Santrauka
-Šaltinyje Posevinas apibūdinamas taip: Minimas kaip žinomas jėzuitas diplomatas, popiežiaus tarpininkas derybose dėl karo pabaigos.
 
-## Variantai
-- Posevinui
-- Poseviną
+Posevinas tikėjosi, kad Batoras bus priverstas nutraukti kovą: mat, kaip tik tuo metu popiežius, kuriam už karo sulaikymą caras buvo pasižadėjęs priimti katalikybę, atsiuntė savo tarpininką — žinomą diplomatą jėzuitą Poseviną ir ragino Batorą baigti karą. popiežius, kuriam už karo sulaikymą caras buvo pasižadėjęs priimti katalikybę, atsiuntė savo tarpininką — žinomą diplomatą jėzuitą Poseviną ir ragino Batorą baigti karą.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Posevinas apibūdinamas taip: Minimas kaip žinomas jėzuitas diplomatas, popiežiaus tarpininkas derybose dėl karo pabaigos."
+  teiginys: 'Posevinas tikėjosi, kad Batoras bus priverstas nutraukti kovą: mat, kaip tik tuo metu popiežius, kuriam už karo sulaikymą caras buvo pasižadėjęs priimti katalikybę, atsiuntė savo tarpininką — žinomą diplomatą jėzuitą Poseviną ir ragino Batorą baigti karą.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'popiežius, kuriam už karo sulaikymą caras buvo pasižadėjęs priimti katalikybę, atsiuntė savo tarpininką — žinomą diplomatą jėzuitą Poseviną ir ragino Batorą baigti karą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip žinomas jėzuitas diplomatas, popiežiaus tarpininkas derybose dėl karo pabaigos.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Posevinas tikėjosi, kad Batoras bus priverstas nutraukti kovą: mat, kaip tik tuo metu popiežius, kuriam už karo sulaikymą caras buvo pasižadėjęs priimti katalikybę, atsiuntė savo tarpininką — žinomą diplomatą jėzuitą Poseviną ir ragino Batorą baigti karą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    jis tikėjosi, kad
-    Batoras bus priverstas nutraukti kovą: mat, kaip tik tuo
-    metu popiežius, kuriam už karo sulaikymą caras buvo pasiža-
-    dėjęs priimti katalikybę, atsiuntė savo tarpininką — žinomą
-    diplomatą jėzuitą Poseviną ir ragino Batorą baigti ka-
-    rą. Kai Stp. Batoras su svarbiausiomis jėgomis apgulė Psko-
-    vą, o mažesni jo kariuomenės būriai naikino tolimąsias ru-
-    sų žemes, Posevinui tarpininkaujant, prasidėjo derybos.
-  citata_rodoma: |
-    jis tikėjosi, kad Batoras bus priverstas nutraukti kovą: mat, kaip tik tuo metu popiežius, kuriam už karo sulaikymą caras buvo pasižadėjęs priimti katalikybę, atsiuntė savo tarpininką — žinomą diplomatą jėzuitą Poseviną ir ragino Batorą baigti karą. Kai Stp. Batoras su svarbiausiomis jėgomis apgulė Pskovą, o mažesni jo kariuomenės būriai naikino tolimąsias rusų žemes, Posevinui tarpininkaujant, prasidėjo derybos.
+    Tuo tarpu caras dar tikėjosi atsigauti ir pradėjo ieškoti
+      paramos svetur, vildamasis, kad įsikiš užsienio valdovai ir
+      sulaikys Stp. Batorą. Kai 1581 m., išgavęs iš seimo naujų kre-
+      ditų, Stp. Batoras išvyko į trečiąjį žygį, caras staiga atšaukė
+      visus savo anksčiau padarytus nusileidimus ir savo laiškuose
+      vėl ėmė visaip niekinti ir plūsti Stp. Batorą; jis tikėjosi, kad
+      Batoras bus priverstas nutraukti kovą: mat, kaip tik tuo
+      metu popiežius, kuriam už karo sulaikymą caras buvo pasiža-
+      dėjęs priimti katalikybę, atsiuntė savo tarpininką — žinomą
+      diplomatą jėzuitą Poseviną ir ragino Batorą baigti ka-
+      rą.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'popiežius, kuriam už karo sulaikymą caras buvo pasižadėjęs priimti katalikybę, atsiuntė savo tarpininką — žinomą diplomatą jėzuitą Poseviną ir ragino Batorą baigti karą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    popiežius, kuriam už karo sulaikymą caras buvo pasiža-
+      dėjęs priimti katalikybę, atsiuntė savo tarpininką — žinomą
+      diplomatą jėzuitą Poseviną ir ragino Batorą baigti ka-
+      rą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/diplomatas]]
+- [[temos/popiežius]]
+- [[temos/valdovas]]

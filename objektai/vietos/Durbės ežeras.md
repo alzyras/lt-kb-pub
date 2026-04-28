@@ -1,73 +1,43 @@
 ---
 tipas: vieta
-pavadinimas: "Durbės ežeras"
-sukurta: "2026-04-18"
-variantai: 
-  - "Durbės ežero"
-aliases: 
-  - "Durbės ežeras"
-  - "Durbės ežero"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1260 m."
-datos: 
-  - "1260 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XIII"
-date_start: "1260"
-date_end: "1260"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Durbės ežeras'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - ežeras
+  - vieta
 ---
 # Durbės ežeras
 
 ## Santrauka
-Šaltinyje vieta „Durbės ežeras“ siejama su šiuo kontekstu: Minimas kaip vieta, prie kurios įvyko žemaičių laimėtas mūšis. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Durbės ežeras
-- Šaltinyje fiksuotos formos: Durbės ežero
-
-## Laikotarpis ir datos
-- laikotarpis: 1260 m.
-- datos: 1260 m.
-- amziai: XIII
-- date_start/date_end: 1260 / 1260
-
-## Kas tai
-- tipas: ežeras / mūšio vieta
-
-## Geografinis ir istorinis kontekstas
-- Minimas kaip vieta, prie kurios įvyko žemaičių laimėtas mūšis. (t-001)
+Abiem kariuomenėm susitikus prie Durbės ežero, kovą laimėjo žemaičiai.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Durbės ežeras“ siejama su šiuo kontekstu: Minimas kaip vieta, prie kurios įvyko žemaičių laimėtas mūšis."
+  teiginys: 'Abiem kariuomenėm susitikus prie Durbės ežero, kovą laimėjo žemaičiai.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip vieta, prie kurios įvyko žemaičių laimėtas mūšis.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Abiem kariuomenėm susitikus prie Durbės ežero, kovą laimėjo žemaičiai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Abiem kariuomenėm susitikus prie Durbės ežero, kovą lai-
     mėjo žemaičiai.
-  citata_rodoma: |
-    Abiem kariuomenėm susitikus prie Durbės ežero, kovą laimėjo žemaičiai.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/ežeras]]

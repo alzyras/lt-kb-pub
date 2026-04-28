@@ -1,72 +1,58 @@
 ---
 tipas: vieta
-pavadinimas: "Marijenburgas"
-sukurta: "2026-04-18"
+pavadinimas: 'Marijenburgas'
+sukurta: '2026-04-25'
 variantai: []
-aliases: 
-  - "Marijenburgas"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1309 m."
-datos: 
-  - "1309 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XIV"
-date_start: "1309"
-date_end: "1309"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
+  - vyskupas
 ---
 # Marijenburgas
 
 ## Santrauka
-Šaltinyje vieta „Marijenburgas“ siejama su šiuo kontekstu: Minimas kaip ordino centro vardas po didžiojo magistro persikėlimo į Prūsus. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Marijenburgas
-
-## Laikotarpis ir datos
-- laikotarpis: 1309 m.
-- datos: 1309 m.
-- amziai: XIV
-- date_start/date_end: 1309 / 1309
-
-## Kas tai
-- tipas: ordino centras / pilis
-
-## Geografinis ir istorinis kontekstas
-- Minimas kaip ordino centro vardas po didžiojo magistro persikėlimo į Prūsus. (t-001)
+Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Marijenburgas“ siejama su šiuo kontekstu: Minimas kaip ordino centro vardas po didžiojo magistro persikėlimo į Prūsus."
+  teiginys: 'Tuo būdu ordino centras pasidarė Marijenburgas.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip ordino centro vardas po didžiojo magistro persikėlimo į Prūsus.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Tuo būdu ordino centras pasidarė Marijenburgas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Todėl 1309
-    m. ir didysis magistras
-    persikėlė į Prūsus. Tuo būdu ordino centras pasidarė Ma-
+    Tuo būdu ordino centras pasidarė Ma-
     rijenburgas.
-  citata_rodoma: |
-    Todėl 1309 m. ir didysis magistras persikėlė į Prūsus. Tuo būdu ordino centras pasidarė Marijenburgas.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-002
+  santrauka: 'Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    1466 m. Torne buvo pasirašyta taika, kuria ordinas
+    pasidarė Lenkijos vasalu ir perleido jai daug žemių. Lenkija
+    atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte —
+    Elbingą, Marijenburgą ir visą Varmijos vyskupystę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

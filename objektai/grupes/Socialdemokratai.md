@@ -1,78 +1,43 @@
 ---
 tipas: grupe
-pavadinimas: "Socialdemokratai"
-sukurta: "2026-04-18"
-variantai: 
-  - "socialdemokratai"
-aliases: 
-  - "Socialdemokratai"
-  - "socialdemokratai"
+pavadinimas: 'Socialdemokratai'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "po 1905 m. revoliucijos"
-datos: 
-  - "po 1905 m. revoliucijos"
-periodas: "naujieji_laikai"
-periodo_grupes: []
-amziai: 
-  - "XX"
-date_start: "1905"
-date_end: "1905"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - grupe
 ---
 # Socialdemokratai
 
 ## Santrauka
-Šaltinyje „Socialdemokratai“ apibūdinama kaip politinė grupė; nurodomi kaip pirmoji nuo varpininkų atsiskyrusi politinė grupė, kai atsirado lietuvių politinės partijos. (t-001)
 
-## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: Socialdemokratai
-- Šaltinyje fiksuotos formos: socialdemokratai
-
-## Laikotarpis ir datos
-- laikotarpis: po 1905 m. revoliucijos
-- datos: po 1905 m. revoliucijos
-- periodas: naujieji_laikai
-- periodo_grupes: 
-- amziai: XX
-- date_start: 1905
-- date_end: 1905
-
-## Kas tai
-- tipas: politinė grupė
-Šaltinyje „Socialdemokratai“ apibūdinama kaip politinė grupė; nurodomi kaip pirmoji nuo varpininkų atsiskyrusi politinė grupė, kai atsirado lietuvių politinės partijos. (t-001)
-
-## Sudėtis ir vaidmuo
-- Šaltinyje „Socialdemokratai“ apibūdinama kaip politinė grupė; nurodomi kaip pirmoji nuo varpininkų atsiskyrusi politinė grupė, kai atsirado lietuvių politinės partijos. (t-001)
+Tada jau buvo net kelios politinės grupės, būtent kairieji — socialdemokratai ir lietuvių valstiečių sąjunga, dešinieji — lietuvių krikščionių demokratų partija ir apie „Viltį" susispietę tautininkai, — tačiau jos visos tebebuvo dar „generolai be armijų".
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Socialdemokratai“ apibūdinama kaip politinė grupė; nurodomi kaip pirmoji nuo varpininkų atsiskyrusi politinė grupė, kai atsirado lietuvių politinės partijos."
+  teiginys: 'Tada jau buvo net kelios politinės grupės, būtent kairieji — socialdemokratai ir lietuvių valstiečių sąjunga, dešinieji — lietuvių krikščionių demokratų partija ir apie „Viltį" susispietę tautininkai, — tačiau jos visos tebebuvo dar „generolai be armijų".'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Nurodomi kaip pirmoji nuo varpininkų atsiskyrusi politinė grupė, kai atsirado lietuvių politinės partijos.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Tada jau buvo net kelios politinės grupės, būtent kairieji — socialdemokratai ir lietuvių valstiečių sąjunga, dešinieji — lietuvių krikščionių demokratų partija ir apie „Viltį" susispietę tautininkai, — tačiau jos visos tebebuvo dar „generolai be armijų".'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    varpininkai suskilo. Pirmiausia nuo jų atskilo socialde-
-    mokratai, vėliau pasitraukė ir nuosaikieji tauti-
-    ninkai
-  citata_rodoma: |
-    varpininkai suskilo. Pirmiausia nuo jų atskilo socialdemokratai, vėliau pasitraukė ir nuosaikieji tautininkai
+    Lietuvos visuomenė dar nebuvo politiškai susipratusi. Tada
+    jau buvo net kelios politinės grupės, būtent kairieji — socialde-
+    mokratai ir lietuvių valstiečių sąjunga, dešinieji — lietuvių krikš-
+    čionių demokratų partija ir apie „Viltį" susispietę tautininkai,
+    — tačiau jos visos tebebuvo dar „generolai be armijų". Jos ne-
+    turėjo nei suorganizuotų skyrių krašte nei priemonių skleisti sa-
+    vo idėjoms ir siekimams.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

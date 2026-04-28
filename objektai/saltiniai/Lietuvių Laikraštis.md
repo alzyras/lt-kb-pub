@@ -1,72 +1,38 @@
 ---
 tipas: saltinis
-pavadinimas: "Lietuvių Laikraštis"
-sukurta: "2026-04-18"
-variantai:
-  - "„Lietuvių Laikraštis\""
-  - "pats pirmasis lietuviškas laikraštis spaudą atgavus"
-  - "„Lietuvių Laikraštis\""
-aliases:
-  - "Lietuvių Laikraštis"
-  - "„Lietuvių Laikraštis\""
-  - "pats pirmasis lietuviškas laikraštis spaudą atgavus"
-  - "„Lietuvių Laikraštis\""
+pavadinimas: 'Lietuvių Laikraštis'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - "dokumentas"
-laikotarpis: "1905 m."
-datos:
-  - "1905 m."
-periodas: "naujieji_laikai"
-periodo_grupes: []
-amziai:
-  - "XX"
-date_start: "1905"
-date_end: "1905"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - saltinis
 ---
 # Lietuvių Laikraštis
 
-## Bibliografiniai duomenys
+## Santrauka
 
-- Pavadinimas: Lietuvių Laikraštis.
-- Formos šaltinyje: „Lietuvių Laikraštis"; pats pirmasis lietuviškas laikraštis spaudą atgavus.
-- Data / laikotarpis: 1905 m.
-- Šaltinio rūšis / žymos: dokumentas.
-
-## Turinys ir apimtis
-
-Šaltinyje „Lietuvių Laikraštis“ tai pirmuoju po spaudos atgavimo pavadintas lietuviškas laikraštis.
-
-## Ryšiai
-
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+„Lietuvių Laikraštis", — pats pirmasis lietuviškas laikraštis spaudą atgavus.
 
 ## Teiginiai
-
 - t-001
-  teiginys: "Šaltinyje „Lietuvių Laikraštis“ tai pirmuoju po spaudos atgavimo pavadintas lietuviškas laikraštis."
+  teiginys: '„Lietuvių Laikraštis", — pats pirmasis lietuviškas laikraštis spaudą atgavus.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: Tai pirmuoju po spaudos atgavimo pavadintas lietuviškas laikraštis.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: '„Lietuvių Laikraštis", — pats pirmasis lietuviškas laikraštis spaudą atgavus.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     „Lietuvių Laikraštis",
     — pats pirmasis lietuviškas laikraštis spaudą atgavus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001

@@ -1,60 +1,45 @@
 ---
 tipas: autorius
-pavadinimas: "Wl. Semkowicz"
-sukurta: "2026-04-18"
+pavadinimas: 'Wl. Semkowicz'
+sukurta: '2026-04-25'
 variantai: []
-aliases: 
-  - "Wl. Semkowicz"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: 
-  - "autorius"
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: 
-  - "autorius"
-dalyviai: 
-  - "Wl. Semkowicz"
-susije_irasai: []
-patikimumas: "vidutinis"
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - autorius
+  - dokumentas
 ---
 # Wl. Semkowicz
 
 ## Santrauka
-Šaltinyje Wl. Semkowicz minimas autorystės, redagavimo arba tyrimo kontekste: Minimas kaip vienas iš atspausdintų dokumentų ir leidinių rengėjų.
 
-## Darbai
-- Minimas kaip vienas iš atspausdintų dokumentų ir leidinių rengėjų. (t-001)
-
-## Kontekstas
-- Bibliografinė pastaba tiesiogiai nurodo Semkowiczių kaip leidinio rengėją ar autorių. (c-001)
+Semkowicz, Akta unji NNr. 29—31; be to,.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Wl. Semkowicz autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas kaip vienas iš atspausdintų dokumentų ir leidinių rengėjų."
+  teiginys: 'Semkowicz, Akta unji NNr. 29—31; be to,.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip vienas iš atspausdintų dokumentų ir leidinių rengėjų.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Semkowicz, Akta unji NNr. 29—31; be to,.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    atspausdinti: _St. Kutrzeba_ i _Wl. Semkowicz,_ Akta unji NNr. 29—31; be to,
-    žiūr.: _Codex ep. Vitoldi,_ 30, 959 psl. ir _Cod. ep. saec. XV,_ 16 psl.).
-  citata_rodoma: |
-    atspausdinti: St. Kutrzeba i Wl. Semkowicz, Akta unji NNr. 29—31; be to, žiūr.: Codex ep. Vitoldi, 30, 959 psl. ir Cod. ep. saec. XV, 16 psl.).
+    Visi išlikę dokumentai yra atspausdinti: _St. Kutrzeba_ i _Wl. Semkowicz,_ Akta unji NNr. 29—31; be to,
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Bibliografinė pastaba tiesiogiai nurodo Semkowiczių kaip leidinio rengėją ar autorių."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/dokumentas]]
+
+### Susiję objektai
+- [[objektai/autoriai/St. Kutrzeba]]

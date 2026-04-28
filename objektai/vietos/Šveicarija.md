@@ -1,92 +1,73 @@
 ---
 tipas: vieta
-pavadinimas: "Šveicarija"
-sukurta: "2026-04-18"
-variantai: 
-  - "Šveicarijoje"
-  - "Šveicarijoj"
-aliases: 
-  - "Šveicarija"
-  - "Šveicarijoje"
-  - "Šveicarijoj"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Šveicarija'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
 ---
 # Šveicarija
 
 ## Santrauka
-Šaltinyje vieta „Šveicarija“ siejama su šiais kontekstais: Šalis nurodoma skliausteliuose prie Bazelio kaip suvažiavimo vietos aplinka; Minima kaip vieta, kur vyko pavergtų tautų kongresas Lozanoje. (t-001, t-002)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Šveicarija
-- Šaltinyje fiksuotos formos: Šveicarijoje; Šveicarijoj
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: valstybė; valstybė / kraštas
-
-## Geografinis ir istorinis kontekstas
-- Šalis nurodoma skliausteliuose prie Bazelio kaip suvažiavimo vietos aplinka. (t-001)
-- Minima kaip vieta, kur vyko pavergtų tautų kongresas Lozanoje. (t-002)
+Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Šveicarijoje. Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar. Šveicarijos komitetai darbavosi ligi karo pabaigos.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Šveicarija“ siejama su šiuo kontekstu: Šalis nurodoma skliausteliuose prie Bazelio kaip suvažiavimo vietos aplinka."
+  teiginys: 'Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Šveicarijoje.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje vieta „Šveicarija“ siejama su šiuo kontekstu: Minima kaip vieta, kur vyko pavergtų tautų kongresas Lozanoje."
+  teiginys: 'Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar.'
   pagrindžia:
     - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Šveicarijos komitetai darbavosi ligi karo pabaigos.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Šalis nurodoma skliausteliuose prie Bazelio kaip suvažiavimo vietos aplinka.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Šveicarijoje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj)
-    vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas.
-  citata_rodoma: ""
+    Kitas labai negausus, bet aktyvus lietuvių būrys susidarė
+    neutralinėje Šveicarijoje. Ypačiai Amerikos lietuvių
+    organizacijų teikiamomis lėšomis tas būrys šelpė lietuvius be-
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Minima kaip vieta, kur vyko pavergtų tautų kongresas Lozanoje.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kiek vėliau trys Komiteto dele-
-    gatai išvyko į Lozaną _(Lausanne,_ Šveicarijoje), kur tų pavergtų
-    tautų kongresas pareikalavo visai nepriklausomos Lietuvos
-    atstatymo.
-  citata_rodoma: |
-    Kiek vėliau trys Komiteto delegatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kongresas pareikalavo visai nepriklausomos Lietuvos atstatymo.
+    Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje
+    ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar-
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-003
+  santrauka: 'Šveicarijos komitetai darbavosi ligi karo pabaigos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Šveicarijos ko-
+    mitetai darbavosi ligi karo pabaigos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

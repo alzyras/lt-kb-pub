@@ -1,74 +1,58 @@
 ---
 tipas: asmuo
-pavadinimas: "Fridrikas Mykolas Čartoriskis"
-sukurta: "2026-04-18"
-variantai: 
-  - "Čartoriskio"
-  - "Čartoriskis"
-aliases: 
-  - "Fridrikas Mykolas Čartoriskis"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1720—1722 m.; 1722—1724 m.; 1724—1752 m.; 1752—1775 m."
-datos: 
-  - "1720—1722 m.; 1722—1724 m.; 1724—1752 m.; 1752—1775 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XVIII"
-date_start: "1720"
-date_end: "1775"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Fridrikas Mykolas Čartoriskis'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Fridrikas Mykolas Čartoriskis
 
 ## Santrauka
-Šaltinyje Fridrikas Mykolas Čartoriskis apibūdinamas taip: Pavaizduotas kaip „familijos“ galva su išvardytomis pareigomis.
 
-## Variantai
-- Čartoriskio
-- Čartoriskis
-
-## Laikotarpis ir datos
-- laikotarpis: 1720—1722 m.; 1722—1724 m.; 1724—1752 m.; 1752—1775 m.
-- datos: 1720—1722 m.; 1722—1724 m.; 1724—1752 m.; 1752—1775 m.
-- periodas:
-- periodo_grupes:
-- amziai: XVIII
-- date_start: 1720
-- date_end: 1775
+Fridrikas Mykolas Čartoriskis, „familijos" galva; 1720—1722 m. Lietuvos pastalininkis, 1722—1724 m. Vilniaus kaštelionas, 1724—1752 m. Lietuvos vicekancleris,. Tuo metu Čartoriskiai pasiuntė į Petrapilį savo sesers sūnų Stanislovą Augustą Poniatauską.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Fridrikas Mykolas Čartoriskis apibūdinamas taip: Pavaizduotas kaip „familijos“ galva su išvardytomis pareigomis."
+  teiginys: 'Fridrikas Mykolas Čartoriskis, „familijos" galva; 1720—1722 m. Lietuvos pastalininkis, 1722—1724 m. Vilniaus kaštelionas, 1724—1752 m. Lietuvos vicekancleris,.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Tuo metu Čartoriskiai pasiuntė į Petrapilį savo sesers sūnų Stanislovą Augustą Poniatauską.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Pavaizduotas kaip „familijos“ galva su išvardytomis pareigomis.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Fridrikas Mykolas Čartoriskis, „familijos" galva; 1720—1722 m. Lietuvos pastalininkis, 1722—1724 m. Vilniaus kaštelionas, 1724—1752 m. Lietuvos vicekancleris,.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Fridrikas Mykolas Čartoriskis,
-    „familijos" galva; 1720—1722 m. Lietuvos
-    pastalininkis, 1722—1724 m. Vilniaus kašte-
-    lionas, 1724—1752 m. Lietuvos vicekancleris,
-    1752-1775 m. kancleris.
-  citata_rodoma: |
-    Fridrikas Mykolas Čartoriskis, „familijos" galva; 1720—1722 m. Lietuvos pastalininkis, 1722—1724 m. Vilniaus kaštelionas, 1724—1752 m. Lietuvos vicekancleris, 1752-1775 m. kancleris.
+      „familijos" galva; 1720—1722 m. Lietuvos
+      pastalininkis, 1722—1724 m. Vilniaus kašte-
+      lionas, 1724—1752 m. Lietuvos vicekancleris,
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-002
+  santrauka: 'Tuo metu Čartoriskiai pasiuntė į Petrapilį savo sesers sūnų Stanislovą Augustą Poniatauską.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo metu Čartoriskiai pasiun-
+      tė į Petrapilį savo sesers sūnų Stanislovą Augustą Po-
+      niatauską.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

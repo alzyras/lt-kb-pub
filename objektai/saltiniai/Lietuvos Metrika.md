@@ -1,116 +1,53 @@
 ---
 tipas: saltinis
-pavadinimas: "Lietuvos Metrika"
-sukurta: "2026-04-18"
+pavadinimas: Lietuvos Metrika
+sukurta: '2026-04-24'
 variantai:
-  - "Metrika"
-  - "Metrikos archyvo"
-  - "Metrikos archyvas"
-  - "Lietuvos Metrikos įrašų fragmentas"
-aliases:
-  - "Lietuvos Metrika"
-  - "Metrika"
-  - "Metrikos archyvo"
-  - "Metrikos archyvas"
-  - "Lietuvos Metrikos įrašų fragmentas"
+  - Metrika
+  - šitos nuorašų knygos
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - "dokumentas"
-laikotarpis: "Algirdo laikai; Kazimiero laikai; iki pat nepriklausomybės galo"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+laikotarpis: Algirdo laikai; XV a. vidurys; iki nepriklausomybės galo
 datos: []
-periodas: ""
+periodas: ''
 periodo_grupes: []
 amziai: []
-date_start: ""
-date_end: ""
+date_start: ''
+date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: "aukstas"
+patikimumas: ''
+tags:
+  - dokumentas
 ---
 # Lietuvos Metrika
 
-## Bibliografiniai duomenys
+## Santrauka
 
-- Pavadinimas: Lietuvos Metrika.
-- Formos šaltinyje: Metrika; Metrikos archyvo.
-- Data / laikotarpis: Algirdo laikai; Kazimiero laikai; iki pat nepriklausomybės galo.
-- Šaltinio rūšis / žymos: dokumentas.
-
-## Turinys ir apimtis
-
-Šaltinyje „Lietuvos Metrika“ taip vadinamos valdovo dovanojimų, teismų sprendimų ir seimų nutarimų nuorašų knygos, kurios sudarė Lietuvos Didžiosios Kunigaikštystės archyvą.
-
-## Ryšiai
-
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+Zenono Ivinskio veikale Lietuvos Metrika minima bibliografinėje nuorodoje, kurioje išvardijami 20, 27, 30 ir 33 tomai ir pateikiama nuoroda į autoriaus straipsnį „Lietuvos Metrika“ LE 16, 135-137 p.
 
 ## Teiginiai
-
-- t-001
-  teiginys: "Šaltinyje „Lietuvos Metrika“ taip vadinamos valdovo dovanojimų, teismų sprendimų ir seimų nutarimų nuorašų knygos, kurios sudarė Lietuvos Didžiosios Kunigaikštystės archyvą."
-  pagrindžia:
-    - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
-- t-002
-  teiginys: "Šaltinyje „Lietuvos Metrika“ siejamas su šiuo kontekstu: Pavadinimas vartojamas dvejopai: ir pačioms nuorašų knygoms, ir visam susiformavusiam archyvui. Dėl to kandidatas artimas ir daikto, ir šaltinio ribai, bet čia paliekamas kaip materialus teisinių raštų rinkinys."
-  pagrindžia:
-    - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 - t-003
-  teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Lietuvos Metrika“ siejamas su šiuo kontekstu: šaltinyje įvardytas Lietuvos Metrikos įrašų fragmentas, o viduje paaiškinta, kad tai Zigmanto II ponų tarybai rašytas laiškas dėl Lietuvos ir Livonijos sienos išvedimo."
+  teiginys: 'Zenono Ivinskio veikale Lietuvos Metrika siejama su 20, 27, 30 ir 33 tomais bei enciklopediniu straipsniu „Lietuvos Metrika“ LE 16, 135-137 p.'
   pagrindžia:
     - c-003
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: Tekste taip vadinamos valdovo dovanojimų, teismų sprendimų ir seimų nutarimų nuorašų knygos, kurios sudarė Lietuvos Didžiosios Kunigaikštystės archyvą.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata_originali: |
-    Iš pradžių čia buvo saugomi tik valdovo dovanojimų raštai,
-    o vėliau tam tikrose knygose buvo surašomi ne tik dova-
-    nojimai, bet ir teismų sprendimai, seimų nutarimai ir kiti valdžios
-    aktai. Šitos nuorašų knygos buvo vadinamos Metrika.
-  citata_rodoma: |
-    Iš pradžių čia buvo saugomi tik valdovo dovanojimų raštai, o vėliau tam tikrose knygose buvo surašomi ne tik dovanojimai, bet ir teismų sprendimai, seimų nutarimai ir kiti valdžios aktai. Šitos nuorašų knygos buvo vadinamos Metrika.
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Pavadinimas vartojamas dvejopai: ir pačioms nuorašų knygoms, ir visam susiformavusiam archyvui. Dėl to kandidatas artimas ir daikto, ir šaltinio ribai, bet čia paliekamas kaip materialus teisinių raštų rinkinys.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  citata_originali: |
-    Tuo
-    būdu visas susidaręs archyvas vadinamas Lietuvos Met-
-    rika.
-  citata_rodoma: |
-    Tuo būdu visas susidaręs archyvas vadinamas Lietuvos Metrika.
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
-  pagrindžia:
-    - t-002
+## Bibliografiniai įrodymai
 - c-003
-  santrauka: šaltinyje įvardytas Lietuvos Metrikos įrašų fragmentas, o viduje paaiškinta, kad tai Zigmanto II ponų tarybai rašytas laiškas dėl Lietuvos ir Livonijos sienos išvedimo.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: Zenono Ivinskio bibliografinėje nuorodoje išvardijami konkretūs Lietuvos Metrikos tomai ir autoriaus straipsnis apie ją.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-      **VII. Lietuvos Metrikos įrašų fragmentas.** Tai yra Zigmanto II 1540 m.
-      sausio 13 d. ponų tarybai rašytas laiškas, kuriame jis duoda instrukcijų,
-      kaip skirtieji komisarai (Žemaičių vyskupas ir seniūnas) turi ištirti ir kartu
-      su Livonijos magistro atstovais išvesti Lietuvos Livonijos sieną.
-  citata_rodoma: ""
+    (^133) **Lietuvos Metrika yra šiuose tomuose : 20 t., 1903 ; 27 t., 1910 ; 30 t.,
+    1914 ; 33 t., 1915; žr. Z. Ivinskis :** **_Lietuvos Metrika,_** **LE 16, 135-137 p.**
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pateikia šaltinio pavadinimą, bibliografinį įrašą arba aprašomą kontekstą."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003

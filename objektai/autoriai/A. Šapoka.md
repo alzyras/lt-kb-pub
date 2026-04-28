@@ -1,97 +1,185 @@
 ---
 tipas: autorius
-pavadinimas: "A. Šapoka"
-sukurta: "2026-04-18"
-variantai: 
-  - "A. Š A P О K А"
-aliases: 
-  - "A. Šapoka"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: 
-  - "autorius"
-  - "redaktorius"
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: 
-  - "autorius"
-  - "redaktorius"
-dalyviai: 
-  - "A. Šapoka"
-susije_irasai: []
-patikimumas: "aukštas"
+pavadinimas: 'A. Šapoka'
+sukurta: '2026-04-24'
+variantai:
+  - 'A. Š A P О K А'
+  - 'A. Šapoka (red.)'
+  - 'Šapoka'
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+laikotarpis: '1936 m.; 1931 m.; 1932 m.; 1935 m.'
+datos:
+  - '1936 m.'
+  - '1931 m.'
+  - '1932 m.'
+  - '1935 m.'
+vaidmenys:
+  - 'redaktorius'
+  - 'teksto suderintojas'
+  - 'autorius'
+patikimumas: 'aukštas'
+tags:
+  - autorius
 ---
 # A. Šapoka
 
 ## Santrauka
-Šaltinyje A. Šapoka nurodytas kaip leidinio redaktorius; prefacijoje jis taip pat siejamas su veikalo tęsinio iki nepriklausomosios valstybės galo rašymu ir penkių bendradarbių dalių suderinimu.
+
+A. Šapoka šiame šaltinyje minimas kaip redaktorius, teksto suderintojas; jam priskiriami darbai Lietuvos istorija, *Lietuvos istorija (1936 m.)* ir kiti darbai.
 
 ## Darbai
-- Antraštėje nurodytas kaip leidinio redaktorius. (t-001)
-- Prefacijoje nurodoma, kad jam teko tęsinys iki nepriklausomosios valstybės galo ir buvo patikėtas dalių suderinimas. (t-002)
-
-## Kontekstas
-- Antraštinis įrašas tiesiogiai nurodo A. Šapoką kaip redaktorių. (c-001)
-- Prefacijos pirmuoju asmeniu parašyta ištrauka susieja A. Šapoką su konkrečia vadovėlio dalimi ir redakciniu suvienodinimu. (c-002)
+- Lietuvos istorija
+- *Lietuvos istorija (1936 m.)*
+- _Vokiečių r. ordinas iki atsikraustymo į Prūsus_
+- _Kur senovės liet. mokslo ieškojo_, _Lietuvių lenkų santykiai po Vytauto iki 1569 m._, _Senosios Lietuvos valstybės santvarkos bruožai_, _Pirmasis bandymas pataisyti 1569 m. uniją_
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje A. Šapoka autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Antraštėje nurodytas kaip leidinio redaktorius."
+  teiginys: 'A. Šapoka įvardytas kaip redaktorius.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: "Prefacijoje A. Šapoka siejamas su veikalo tęsiniu iki nepriklausomosios valstybės galo ir su skirtingų dalių suderinimu bei surišimu."
+  teiginys: 'A. Šapokai patikėta suderinti ir surišti bendradarbių parašytas dalis.'
   pagrindžia:
     - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'A. Šapoka parašė minėtą veikalą apie Vokiečių ordiną.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'A. Šapoka parašė straipsnį _Kur senovės liet. mokslo ieškojo_.'
+  pagrindžia:
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 'A. Šapoka parašė _Lietuvių lenkų santykiai po Vytauto iki 1569 m._.'
+  pagrindžia:
+    - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'A. Šapoka parašė _Senosios Lietuvos valstybės santvarkos bruožai_.'
+  pagrindžia:
+    - c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'A. Šapoka parašė _Pirmasis bandymas pataisyti 1569 m. uniją_.'
+  pagrindžia:
+    - c-007
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Antraštėje nurodytas kaip leidinio redaktorius.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: A. Šapoka įvardytas kaip redaktorius
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    # LIETUVOS
-    
-    # ISTORIJA
-    
     R E D. A. Š A P О K А
   citata_rodoma: |
-    LIETUVOS ISTORIJA R E D. A. Š A P О K А
+    R E D. A. Š A P О K А
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Antraštinis įrašas tiesiogiai nurodo A. Šapoką kaip redaktorių."
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Prefacijoje A. Šapoka nurodo savo rašytą veikalo dalį ir jam patikėtą redakcinį suvienodinimą.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: A. Šapokai patikėta suderinti ir surišti bendradarbių parašytas dalis
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tuo būdu p. J. Jakštas parašė apie pirmąjį mūsų
-    tautos valstybinio gyvenimo laikotarpį, iki krikščioniškųjų lai-
-    kų pradžios, dr. Z. Ivinskis — apie sekantį laikotarpį, iki Gedi-
-    minaičių dinastijos galo; man teko tęsinys — iki nepriklausomo-
-    sios valstybės galo; p. P. Šležas parašė apie rusų valdymo lai-
-    kus, o p. P. Klimas — apie nepriklausomosios valstybės atsta-
-    tymą ir nepriklausomojo gyvenimo laikotarpį. Suprantama, kad
-    penkių žmonių atskirai rašytos dalys negalėjo sudaryti vieningo
-    ir darnaus veikalo. Todėl reikėjo jas visas suderinti, suvieno-
-    dinti ir surišti. Tas darbas buvo man patikėtas.
+    Suprantama, kad penkių žmonių atskirai rašytos dalys negalėjo sudaryti vieningo
+    ir darnaus veikalo. Todėl reikėjo jas visas suderinti, suvienodinti ir surišti. Tas darbas buvo man patikėtas.
   citata_rodoma: |
-    Tuo būdu p. J. Jakštas parašė apie pirmąjį mūsų tautos valstybinio gyvenimo laikotarpį, iki krikščioniškųjų laikų pradžios, dr. Z. Ivinskis — apie sekantį laikotarpį, iki Gediminaičių dinastijos galo; man teko tęsinys — iki nepriklausomosios valstybės galo; p. P. Šležas parašė apie rusų valdymo laikus, o p. P. Klimas — apie nepriklausomosios valstybės atstatymą ir nepriklausomojo gyvenimo laikotarpį. Suprantama, kad penkių žmonių atskirai rašytos dalys negalėjo sudaryti vieningo ir darnaus veikalo. Todėl reikėjo jas visas suderinti, suvienodinti ir surišti. Tas darbas buvo man patikėtas.
+    Suprantama, kad penkių žmonių atskirai rašytos dalys negalėjo sudaryti vieningo ir darnaus veikalo. Todėl reikėjo jas visas suderinti, suvienodinti ir surišti. Tas darbas buvo man patikėtas.
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: adjacent_named_context
-  patikimumo_pagrindimas: "Citata yra iš A. Šapokos prefacijos; pirmasis asmuo remiasi tame pačiame viešame šaltinyje nurodytu redaktoriumi."
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: A. Šapoka parašė minėtą veikalą apie Vokiečių ordiną
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    _A. Šapoka,_ Vokiečių r. ordinas iki
+    atsikraustymo į Prūsus (Židinys 1931); — Čekų k. Pšemislo II žygiai į
+  citata_rodoma: |
+    A. Šapoka, Vokiečių r. ordinas iki atsikraustymo į Prūsus (Židinys 1931);
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: A. Šapoka parašė straipsnį _Kur senovės liet. mokslo ieškojo_
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    A. Šapoka, Kur senovės liet. mokslo ieškojo (Židinys, 1935, Nr. 10,
+    11);
+  citata_rodoma: |
+    A. Šapoka, Kur senovės liet. mokslo ieškojo (Židinys, 1935, Nr. 10, 11);
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: A. Šapoka parašė _Lietuvių lenkų santykiai po Vytauto iki 1569 m._
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    _A. Šapoka,_ Lietuvių lenkų santykiai po Vytauto
+    iki 1569 m. (Nauj. Rom., 1931, Nr. 38);
+  citata_rodoma: |
+    A. Šapoka, Lietuvių lenkų santykiai po Vytauto iki 1569 m. (Nauj. Rom., 1931, Nr. 38);
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: A. Šapoka parašė _Senosios Lietuvos valstybės santvarkos bruožai_
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    _A. Šapoka,_ Senosios Lietuvos valstybės santvarkos bruožai (atsp. iš Židinio, 1935, Nr.
+    1—2);
+  citata_rodoma: |
+    A. Šapoka, Senosios Lietuvos valstybės santvarkos bruožai (atsp. iš Židinio, 1935, Nr. 1—2);
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: A. Šapoka parašė _Pirmasis bandymas pataisyti 1569 m. uniją_
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    _A. Šapoka,_ Pirmasis bandymas pataisyti 1569
+    m. uniją (N. Rom., 1932, Nr. 12);
+  citata_rodoma: |
+    A. Šapoka, Pirmasis bandymas pataisyti 1569 m. uniją (N. Rom., 1932, Nr. 12);
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/redaktorius]]
+
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]

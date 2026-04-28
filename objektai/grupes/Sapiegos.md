@@ -1,94 +1,73 @@
 ---
 tipas: grupe
-pavadinimas: "Sapiegos"
-sukurta: "2026-04-18"
-variantai: 
-  - "Sapiegų"
-  - "Sapiegas"
-aliases: 
-  - "Sapiegos"
-  - "Sapiegų"
-  - "Sapiegas"
+pavadinimas: 'Sapiegos'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - grupe
 ---
 # Sapiegos
 
 ## Santrauka
-Šaltinyje „Sapiegos“ apibūdinama kaip didikų giminė; sapiegos šiame gabale iškyla kaip įtakinga Lietuvos didikų giminė, gavusi svarbiausius urėdus ir valdžiusi kariuomenę bei krašto pajamas. (t-001) Šaltinyje „Sapiegos“ siejama su šiuo kontekstu: Sapiegos šiame gabale iškyla kaip įtakinga Lietuvos didikų giminė, gavusi svarbiausius urėdus ir valdžiusi kariuomenę bei krašto pajamas. (t-002)
 
-## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: Sapiegos
-- Šaltinyje fiksuotos formos: Sapiegų; Sapiegas
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: didikų giminė
-Šaltinyje „Sapiegos“ apibūdinama kaip didikų giminė; sapiegos šiame gabale iškyla kaip įtakinga Lietuvos didikų giminė, gavusi svarbiausius urėdus ir valdžiusi kariuomenę bei krašto pajamas. (t-001)
-
-## Sudėtis ir vaidmuo
-- Šaltinyje „Sapiegos“ apibūdinama kaip didikų giminė; sapiegos šiame gabale iškyla kaip įtakinga Lietuvos didikų giminė, gavusi svarbiausius urėdus ir valdžiusi kariuomenę bei krašto pajamas. (t-001)
-- Šaltinyje „Sapiegos“ siejama su šiuo kontekstu: Sapiegos šiame gabale iškyla kaip įtakinga Lietuvos didikų giminė, gavusi svarbiausius urėdus ir valdžiusi kariuomenę bei krašto pajamas. (t-002)
+Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapiegos palaikė Prancūzijos kandidatą; jų priešai palaikė Augustą. Tada Sapiegos vėl pradėjo drąsiai šeimininkauti Lietuvoje, su niekuo nebesiskaitydami; jų priešų kurstoma bajorija ir vėl ėmė bruzdėti.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Sapiegos“ apibūdinama kaip didikų giminė; sapiegos šiame gabale iškyla kaip įtakinga Lietuvos didikų giminė, gavusi svarbiausius urėdus ir valdžiusi kariuomenę bei krašto pajamas."
+  teiginys: 'Po trejų metų Sapiegos buvo visiškai nugalėti.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Sapiegos“ siejama su šiuo kontekstu: Sapiegos šiame gabale iškyla kaip įtakinga Lietuvos didikų giminė, gavusi svarbiausius urėdus ir valdžiusi kariuomenę bei krašto pajamas."
+  teiginys: 'Gavę 100.000 talerių, Sapiegos palaikė Prancūzijos kandidatą; jų priešai palaikė Augustą.'
   pagrindžia:
     - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Tada Sapiegos vėl pradėjo drąsiai šeimininkauti Lietuvoje, su niekuo nebesiskaitydami; jų priešų kurstoma bajorija ir vėl ėmė bruzdėti.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Sapiegos šiame gabale iškyla kaip įtakinga Lietuvos didikų giminė, gavusi svarbiausius urėdus ir valdžiusi kariuomenę bei krašto pajamas.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Po trejų metų Sapiegos buvo visiškai nugalėti.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tuo būdu, jam padedant, čia pagaliau iškilo Sa-
-    piegos. Vienas iš jų, Benediktas, gavo Lietuvos iždininko,
-    o jo brolis J. Kazimieras didžiojo hetmono urėdą.
-  citata_rodoma: |
-    Tuo būdu, jam padedant, čia pagaliau iškilo Sapiegos. Vienas iš jų, Benediktas, gavo Lietuvos iždininko, o jo brolis J. Kazimieras didžiojo hetmono urėdą.
+    Po trejų metų Sapiegos buvo visiškai nugalėti.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Sapiegos šiame gabale iškyla kaip įtakinga Lietuvos didikų giminė, gavusi svarbiausius urėdus ir valdžiusi kariuomenę bei krašto pajamas.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Gavę 100.000 talerių, Sapiegos palaikė Prancūzijos kandidatą; jų priešai palaikė Augustą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Sapiegos įsigalėję šeimininkavo Lietuvoje, su niekuo ne-
-    siskaitydami. Jie buvo visagaliai: hetmonas savo rankose turėjo
-    kariuomenę, o jo brolis iždininkas valdė visas krašto pajamas.
-  citata_rodoma: |
-    Sapiegos įsigalėję šeimininkavo Lietuvoje, su niekuo nesiskaitydami. Jie buvo visagaliai: hetmonas savo rankose turėjo kariuomenę, o jo brolis iždininkas valdė visas krašto pajamas.
+    Gavę 100.000
+    talerių, Sapiegos palaikė Prancūzijos kandidatą; jų priešai pa-
+    laikė Augustą.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-003
+  santrauka: 'Tada Sapiegos vėl pradėjo drąsiai šeimininkauti Lietuvoje, su niekuo nebesiskaitydami; jų priešų kurstoma bajorija ir vėl ėmė bruzdėti.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tada Sapiegos vėl
+    pradėjo drąsiai šeimininkauti Lietuvoje, su niekuo nebesiskai-
+    tydami; jų priešų kurstoma bajorija ir vėl ėmė bruzdėti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

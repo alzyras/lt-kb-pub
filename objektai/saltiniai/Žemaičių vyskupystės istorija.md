@@ -1,70 +1,57 @@
 ---
 tipas: saltinis
-pavadinimas: "Žemaičių vyskupystės istorija"
-sukurta: "2026-04-20"
-variantai: 
-  - "Žemaičių vyskupystės istoriją"
-aliases: 
-  - "Žemaičių vyskupystės istorija"
-  - "Žemaičių vyskupystės istoriją"
+pavadinimas: Žemaičių vyskupystės istorija
+sukurta: '2026-04-24'
+variantai:
+  - Žemaičių vyskupystės istoriją
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: 
-  - "knyga"
-laikotarpis: "2 t."
-datos: 
-  - "2 t."
-periodas: ""
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+laikotarpis: ''
+datos: []
+periodas: ''
 periodo_grupes: []
 amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: 
-  - "autorius"
-dalyviai: 
-  - "vysk. Valančius"
+date_start: ''
+date_end: ''
+vaidmenys: []
+dalyviai: []
 susije_irasai: []
-patikimumas: "aukstas"
+patikimumas: ''
+tags: []
 ---
 # Žemaičių vyskupystės istorija
 
-## Bibliografiniai duomenys
+## Santrauka
 
-- Pavadinimas: Žemaičių vyskupystės istorija.
-- Formos šaltinyje: Žemaičių vyskupystės istoriją.
-- Autorius / redaktorius: vysk. Valančius.
-- Data / laikotarpis: 2 t..
-- Šaltinio rūšis: knyga.
+„Žemaičių vyskupystės istorija“ minima kaip vyskupo Valančiaus parašytas dviejų tomų veikalas. Šaltinio kontekste ji pateikiama tarp pirmųjų lietuviškai parašytų istorinių darbų.
 
-## Turinys ir apimtis
+## Turinys ir pobūdis
 
-Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Žemaičių vyskupystės istorija“ siejamas su šiuo kontekstu: šaltinyje vysk. Valančius minimas kaip Žemaičių vyskupystės istorijos autorius.
-
-## Ryšiai
-
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- Šaltinio pobūdis: istorijos veikalas.
+- Autorius: vyskupas Valančius.
+- Apimtis: 2 tomai.
+- Data: aiškiai nenurodyta.
 
 ## Teiginiai
-
 - t-001
-  teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ šaltinis „Žemaičių vyskupystės istorija“ siejamas su šiuo kontekstu: šaltinyje vysk. Valančius minimas kaip Žemaičių vyskupystės istorijos autorius."
+  teiginys: 'Vyskupas Valančius parašė dviejų tomų „Žemaičių vyskupystės istoriją“.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
-## Reikšmingi paminėjimai
-
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: šaltinyje vysk. Valančius minimas kaip Žemaičių vyskupystės istorijos autorius.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: Citata tiesiogiai nurodo autorių, veikalą ir jo apimtį.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-      O vysk. Valančius pa-
-      rašo Žemaičių vyskupystės istoriją (2 t.).
-  citata_rodoma: ""
+    O vysk. Valančius pa-
+    rašo Žemaičių vyskupystės istoriją (2 t.).
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pateikia šaltinio pavadinimą, bibliografinį įrašą arba aprašomą kontekstą."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001

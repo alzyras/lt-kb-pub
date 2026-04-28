@@ -1,65 +1,45 @@
 ---
 tipas: vieta
-pavadinimas: "Suomija"
-sukurta: "2026-04-18"
+pavadinimas: 'Suomija'
+sukurta: '2026-04-25'
 variantai: []
-aliases: 
-  - "Suomija"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
 ---
 # Suomija
 
 ## Santrauka
-Šaltinyje vieta „Suomija“ siejama su šiuo kontekstu: Minima kaip viena iš Švedijos karaliaus valdytų teritorijų. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Suomija
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: kraštas / valstybė
-
-## Geografinis ir istorinis kontekstas
-- Minima kaip viena iš Švedijos karaliaus valdytų teritorijų. (t-001)
+Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir Estijos) arba tarp jų, Suomijos ir Lenkijos pasiliko be vaisių, kol pagaliau Lietuvos vyriausybei pavyko surasti bendradarbiavimo formą, kuri buvo ir Latvių ir Estų priimta; pati.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Suomija“ siejama su šiuo kontekstu: Minima kaip viena iš Švedijos karaliaus valdytų teritorijų."
+  teiginys: 'Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir Estijos) arba tarp jų, Suomijos ir Lenkijos pasiliko be vaisių, kol pagaliau Lietuvos vyriausybei pavyko surasti bendradarbiavimo formą, kuri buvo ir Latvių ir Estų priimta; pati.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minima kaip viena iš Švedijos karaliaus valdytų teritorijų.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir Estijos) arba tarp jų, Suomijos ir Lenkijos pasiliko be vaisių, kol pagaliau Lietuvos vyriausybei pavyko surasti bendradarbiavimo formą, kuri buvo ir Latvių ir Estų priimta; pati.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Visa Švedija buvo
-    Karolio valdžioje. Zigmantui liko tiktai Suomija ir Estija. Bet
-    netrukus Karolis užėmė ir jas.
-  citata_rodoma: ""
+    Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvi-
+    jos ir Estijos) arba tarp jų, Suomijos ir Lenkijos pasiliko be vai-
+    sių, kol pagaliau Lietuvos vyriausybei pavyko surasti bendra-
+    darbiavimo formą, kuri buvo ir Latvių ir Estų priimta; pati su-
+    tartis buvo pasirašyta Ženevoje 1934 metų rugsėjo mėn. 12 d.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/vietos/Ženeva]]

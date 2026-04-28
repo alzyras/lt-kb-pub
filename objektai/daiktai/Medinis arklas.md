@@ -1,71 +1,40 @@
 ---
 tipas: daiktas
-pavadinimas: "Medinis arklas"
-sukurta: "2026-04-18"
-variantai: 
-  - "mediniu arklu"
-aliases: 
-  - "Medinis arklas"
-  - "mediniu arklu"
+pavadinimas: 'Medinis arklas'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: 
-  - "įrankis"
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - daiktas
 ---
 # Medinis arklas
 
 ## Santrauka
-Šaltinyje „Medinis arklas“ aprašomas senasis žemdirbystės būdas, kai žemė daugiausia buvo ariama mediniu arklu be geležinio norago.
 
-## Pavadinimai šaltiniuose
-- mediniu arklu
-
-## Laikotarpis ir datos
-- laikotarpis:
-- datos:
-- periodas:
-- periodo_grupes:
-- amziai:
-- date_start:
-- date_end:
-
-## Kas tai
-Šaltinyje „Medinis arklas“ aprašomas senasis žemdirbystės būdas, kai žemė daugiausia buvo ariama mediniu arklu be geležinio norago.
+Ir patys žemdirbystės pabūklai buvo dar menki: žemė dažniausiai būdavo ariama mediniu arklu (be geležinio norago) ir akėjama šakotu medžio kamienu (tačiau nereikia manyti, kad taip buvo dirbama tik Lietuvoje; taip pat dar ilgai dirbo net Vakaruose).
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Medinis arklas“ aprašomas senasis žemdirbystės būdas, kai žemė daugiausia buvo ariama mediniu arklu be geležinio norago."
+  teiginys: 'Ir patys žemdirbystės pabūklai buvo dar menki: žemė dažniausiai būdavo ariama mediniu arklu (be geležinio norago) ir akėjama šakotu medžio kamienu (tačiau nereikia manyti, kad taip buvo dirbama tik Lietuvoje; taip pat dar ilgai dirbo net Vakaruose).'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: aprašomas senasis žemdirbystės būdas, kai žemė daugiausia buvo ariama mediniu arklu be geležinio norago.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Ir patys žemdirbystės pabūklai buvo dar menki: žemė dažniausiai būdavo ariama mediniu arklu (be geležinio norago) ir akėjama šakotu medžio kamienu (tačiau nereikia manyti, kad taip buvo dirbama tik Lietuvoje; taip pat dar ilgai dirbo net Vakaruose).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    žemė dažniausiai būdavo ariama mediniu arklu (be gele-
-    žinio norago) ir akėjama šakotu medžio kamienu
-  citata_rodoma: |
-    žemė dažniausiai būdavo ariama mediniu arklu (be geležinio norago) ir akėjama šakotu medžio kamienu
+    Ir patys žemdirbystės pabūklai buvo dar menki: žemė dažniausiai būdavo ariama mediniu arklu (be gele-
+      žinio norago) ir akėjama šakotu medžio kamienu (tačiau nereikia
+      manyti, kad taip buvo dirbama tik Lietuvoje; taip pat dar ilgai
+      dirbo net Vakaruose).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo daiktą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]

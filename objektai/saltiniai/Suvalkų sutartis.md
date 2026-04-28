@@ -1,69 +1,36 @@
 ---
 tipas: saltinis
-pavadinimas: "Suvalkų sutartis"
-sukurta: "2026-04-18"
-variantai:
-  - "sutarties"
-  - "sutartį"
-aliases:
-  - "Suvalkų sutartis"
-  - "sutarties"
-  - "sutartį"
+pavadinimas: 'Suvalkų sutartis'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos:
-  - "dokumentas"
-laikotarpis: "1920 m. spalių mėn. 7 d."
-datos:
-  - "1920 m. spalių mėn. 7 d."
-periodas: ""
-periodo_grupes: []
-amziai:
-  - "XX"
-date_start: "1920"
-date_end: "1920"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - saltinis
+  - sutartis
 ---
 # Suvalkų sutartis
 
-## Bibliografiniai duomenys
+## Santrauka
 
-- Pavadinimas: Suvalkų sutartis.
-- Formos šaltinyje: sutarties; sutartį.
-- Data / laikotarpis: 1920 m. spalių mėn. 7 d.
-- Šaltinio rūšis / žymos: dokumentas.
-
-## Turinys ir apimtis
-
-Šaltinyje „Suvalkų sutartis“ tai 1920 m. spalio 7 d. pasirašyta Suvalkų sutartis, kuria buvo nustatyta demarkacijos linija ir sustabdytos kovos tarp Lietuvos ir Lenkijos kariuomenių.
-
-## Ryšiai
-
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+Suvalkų derybos pasibaigė susitarimu, kurį abi šalys pasirašė 1920 metų spalių mėn. 27 d.), reikalaudama, kad pasitikėjimo atmosferai sukurti Lenkija turinti pirma įvykdyti Suvalkų sutartį.
 
 ## Teiginiai
-
 - t-001
-  teiginys: "Šaltinyje „Suvalkų sutartis“ tai 1920 m. spalio 7 d. pasirašyta Suvalkų sutartis, kuria buvo nustatyta demarkacijos linija ir sustabdytos kovos tarp Lietuvos ir Lenkijos kariuomenių."
+  teiginys: 'Suvalkų derybos pasibaigė susitarimu, kurį abi šalys pasirašė 1920 metų spalių mėn.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Suvalkų sutartis“ siejamas su šiuo kontekstu: Kandidato citata iš sujungto kandidatų failo."
+  teiginys: '27 d.), reikalaudama, kad pasitikėjimo atmosferai sukurti Lenkija turinti pirma įvykdyti Suvalkų sutartį.'
   pagrindžia:
     - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: Tai 1920 m. spalio 7 d. pasirašyta Suvalkų sutartis, kuria buvo nustatyta demarkacijos linija ir sustabdytos kovos tarp Lietuvos ir Lenkijos kariuomenių.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Suvalkų derybos pasibaigė susitarimu, kurį abi šalys pasirašė 1920 metų spalių mėn.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Suvalkų derybos pasibaigė susitarimu, kurį abi ša-
     lys pasirašė 1920 metų spalių mėn. 7 d. Ta sutartis, nespręs-
@@ -71,36 +38,27 @@ patikimumas: "aukstas"
     te, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiau-
     sioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno
     — visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų
-
+    
     (prie Lydos—Vilniaus geležinkelio) sutartis paliko Lenkų pu-
-    sėje. Linija už Bastūnų buvo palikta nustatyti vėliau, kai rusai
-    pasitrauks iš tos srities. Kartu buvo sutarta sustabdyti visas
-    kovas tarp Lietuvos ir Lenkijos kariuomenių ir pasikeisti be-
-    laisviais. Varėnos stotyje lenkai apsiėmė praleisti lietuvių trau-
-    kinius į Vilnių, tik be kariuomenės ir be karo medžiagos trans-
-    portų. Sutarties vykdymo priežiūra buvo atiduota tada į Suval-
-    kus atvykusiai Tautų Sąjungos kontrolės komisijai. Pati sutartis
-    turėjo galioti, ligi visi ginčo klausimai tarp Lietuvos ir Lenkijos
-    bus galutinai išspręsti.
-  citata_rodoma: |
-    Suvalkų derybos pasibaigė susitarimu, kurį abi šalys pasirašė 1920 metų spalių mėn. 7 d. Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų (prie Lydos—Vilniaus geležinkelio) sutartis paliko Lenkų pusėje. Linija už Bastūnų buvo palikta nustatyti vėliau, kai rusai pasitrauks iš tos srities. Kartu buvo sutarta sustabdyti visas kovas tarp Lietuvos ir Lenkijos kariuomenių ir pasikeisti belaisviais. Varėnos stotyje lenkai apsiėmė praleisti lietuvių traukinius į Vilnių, tik be kariuomenės ir be karo medžiagos transportų. Sutarties vykdymo priežiūra buvo atiduota tada į Suvalkus atvykusiai Tautų Sąjungos kontrolės komisijai. Pati sutartis turėjo galioti, ligi visi ginčo klausimai tarp Lietuvos ir Lenkijos bus galutinai išspręsti.
+    sėje.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Kandidato citata iš sujungto kandidatų failo.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: '27 d.), reikalaudama, kad pasitikėjimo atmosferai sukurti Lenkija turinti pirma įvykdyti Suvalkų sutartį.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Toksai akiplėšiškas prieš dvi dienas pasirašytos sutarties
-    sulaužymas, žinoma, turėjo įžeisti santarvės valstybes, kurių
-    atstovai dalyvavo ir derybose.
-  citata_rodoma: ""
+    Lietuvos vyriausybė tada pasiūlė Lenkijai tiesiogines dery-
+    bas (1922 m. sausio mėn. 27 d.), reikalaudama, kad pasitikėjimo
+    atmosferai sukurti Lenkija turinti pirma įvykdyti Suvalkų sutartį.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo šaltinį."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002

@@ -1,71 +1,66 @@
 ---
 tipas: grupe
-pavadinimas: "Lenkų ponų taryba"
-sukurta: "2026-04-18"
-variantai: 
-  - "ponų taryba"
-aliases: 
-  - "Lenkų ponų taryba"
-  - "ponų taryba"
+pavadinimas: 'Lenkų ponų taryba'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - grupe
+  - sutartis
 ---
 # Lenkų ponų taryba
 
 ## Santrauka
-Šaltinyje „Lenkų ponų taryba“ apibūdinama kaip politinė taryba; lenkų ponų taryba priešinasi Vytauto karūnacijai ir kartu su Jogaila sprendžia, ar karūnavimas galėtų įvykti. (t-001)
 
-## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: Lenkų ponų taryba
-- Šaltinyje fiksuotos formos: ponų taryba
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: politinė taryba
-Šaltinyje „Lenkų ponų taryba“ apibūdinama kaip politinė taryba; lenkų ponų taryba priešinasi Vytauto karūnacijai ir kartu su Jogaila sprendžia, ar karūnavimas galėtų įvykti. (t-001)
-
-## Sudėtis ir vaidmuo
-- Šaltinyje „Lenkų ponų taryba“ apibūdinama kaip politinė taryba; lenkų ponų taryba priešinasi Vytauto karūnacijai ir kartu su Jogaila sprendžia, ar karūnavimas galėtų įvykti. (t-001)
+Jogaila tam pritarė, bet griežčiausiai pasipriešino Lenkų ponų taryba, kuriai vadovavo Lietuvos savarankiškumo priešas, vysk. Karūnacijos byla 1430 m. Lenkų ponai prispyrė grįžusį į Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karūnacijos.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Lenkų ponų taryba“ apibūdinama kaip politinė taryba; lenkų ponų taryba priešinasi Vytauto karūnacijai ir kartu su Jogaila sprendžia, ar karūnavimas galėtų įvykti."
+  teiginys: 'Jogaila tam pritarė, bet griežčiausiai pasipriešino Lenkų ponų taryba, kuriai vadovavo Lietuvos savarankiškumo priešas, vysk.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Karūnacijos byla 1430 m. Lenkų ponai prispyrė grįžusį į Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karūnacijos.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Lenkų ponų taryba priešinasi Vytauto karūnacijai ir kartu su Jogaila sprendžia, ar karūnavimas galėtų įvykti.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Jogaila tam pritarė, bet griežčiausiai pasipriešino Lenkų ponų taryba, kuriai vadovavo Lietuvos savarankiškumo priešas, vysk.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jogaila tam pritarė,
+    Sumanymą iškėlė imperatorius Zigmantas. Jogaila tam pritarė,
     bet griežčiausiai pasipriešino Lenkų ponų taryba, kuriai vado-
     vavo Lietuvos savarankiškumo priešas, vysk. Zbignevas
-    Olesnickis.
-  citata_rodoma: |
-    Jogaila tam pritarė, bet griežčiausiai pasipriešino Lenkų ponų taryba, kuriai vadovavo Lietuvos savarankiškumo priešas, vysk. Zbignevas Olesnickis.
+    Olesnickis. Lenkų ponai įrodinėjo, kad Vytauto karūnavi-
+    mas būtų priešingas Lietuvos ir Lenkijos sutartims, nes tada Lie-
+    tuva, esą, galėtų po Vytauto išsirinkti sau kitą karalių, o ne tą,
+    kurį išsirinktų po Jogailos mirties lenkai.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Karūnacijos byla 1430 m. Lenkų ponai prispyrė grįžusį į Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karūnacijos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Karūnacijos byla 1430 m. Lenkų ponai prispyrė grįžusį į
+    Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karū-
+    nacijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/vietos/Krokuva]]

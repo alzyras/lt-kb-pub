@@ -1,58 +1,47 @@
 ---
 tipas: asmuo
-pavadinimas: "F. Bugailiškis"
-sukurta: "2026-04-18"
-variantai: 
-  - "F. Bugailiškiu"
-aliases: 
-  - "F. Bugailiškis"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'F. Bugailiškis'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # F. Bugailiškis
 
 ## Santrauka
-Šaltinyje F. Bugailiškis apibūdinamas taip: Minimas kaip kairiųjų srovių papildytas Vilniaus Komiteto narys.
 
-## Variantai
-- F. Bugailiškiu
+Bugailiškiu.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje F. Bugailiškis apibūdinamas taip: Minimas kaip kairiųjų srovių papildytas Vilniaus Komiteto narys."
+  teiginys: 'Bugailiškiu.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip kairiųjų srovių papildytas Vilniaus Komiteto narys.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Bugailiškiu.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    jais nariais iš kairiųjų srovių — St. Kairiu, A. Janulaičiu, M. Bir-
-    žiška ir F. Bugailiškiu.
-  citata_rodoma: |
-    jais nariais iš kairiųjų srovių — St. Kairiu, A. Janulaičiu, M. Biržiška ir F. Bugailiškiu.
+    Vilniuje pasilikusio Komiteto pirmininku buvo A. Smetona, o
+      Rusijoje ir toliau pirmininkavo M. Yčas. Į Rusiją, be M. Yčo, iš-
+      vyko šie Komiteto nariai: St. Šilingas, P. Leonas, J. Balčikonis ir
+      kun. Olšauskas. Vilniaus Komitetas netrukus buvo papildytas nau-
+      jais nariais iš kairiųjų srovių — St. Kairiu, A. Janulaičiu, M. Bir-
+      žiška ir F. Bugailiškiu.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/asmenys/M. Yčas]]
+- [[objektai/asmenys/S. Kairys]]

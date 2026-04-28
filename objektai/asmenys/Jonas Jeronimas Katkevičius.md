@@ -1,74 +1,84 @@
 ---
 tipas: asmuo
-pavadinimas: "Jonas Jeronimas Katkevičius"
-sukurta: "2026-04-18"
-variantai: 
-  - "Jonas Jeronimas Katke-vičius"
-  - "Katkevičiaus"
-aliases: 
-  - "Jonas Jeronimas Katkevičius"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1566 m."
-datos: 
-  - "1566 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XVI"
-date_start: "1561"
-date_end: "1566"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Jonas Jeronimas Katkevičius'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Jonas Jeronimas Katkevičius
 
 ## Santrauka
-Šaltinyje Jonas Jeronimas Katkevičius apibūdinamas taip: 1566 m. paskirtas Livonijos valdytoju ir prikalbėjęs livoniečius visiškai susijungti su Lietuva.
 
-## Variantai
-- Jonas Jeronimas Katke-vičius
-- Katkevičiaus
-
-## Laikotarpis ir datos
-- laikotarpis: 1566 m.
-- datos: 1566 m.
-- periodas:
-- periodo_grupes:
-- amziai: XVI
-- date_start: 1561
-- date_end: 1566
+Pats apsukrusis ir įtakingasis to meto Lietuvos politikos veikėjas, Žemaičių seniūnas ir Livonijos valdytojas Jonas Jeronimas Katkevičius, ne tik patsai metė kalvinizmą, bet taip pat ir savo sūnų Joną Karolį, — būsimąjį Vilniaus vaivadą, hetmoną, genialųjį. Katkevičiaus ir M. Katkevičius teturėjo vos apie 4.600 karių (jų tarpe lenkų tebuvo vos 300), todėl negalėjo spirtis.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Jonas Jeronimas Katkevičius apibūdinamas taip: 1566 m. paskirtas Livonijos valdytoju ir prikalbėjęs livoniečius visiškai susijungti su Lietuva."
+  teiginys: 'Pats apsukrusis ir įtakingasis to meto Lietuvos politikos veikėjas, Žemaičių seniūnas ir Livonijos valdytojas Jonas Jeronimas Katkevičius, ne tik patsai metė kalvinizmą, bet taip pat ir savo sūnų Joną Karolį, — būsimąjį Vilniaus vaivadą, hetmoną, genialųjį.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Katkevičiaus ir M.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Katkevičius teturėjo vos apie 4.600 karių (jų tarpe lenkų tebuvo vos 300), todėl negalėjo spirtis.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 1566 m. paskirtas Livonijos valdytoju ir prikalbėjęs livoniečius visiškai susijungti su Lietuva.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Pats apsukrusis ir įtakingasis to meto Lietuvos politikos veikėjas, Žemaičių seniūnas ir Livonijos valdytojas Jonas Jeronimas Katkevičius, ne tik patsai metė kalvinizmą, bet taip pat ir savo sūnų Joną Karolį, — būsimąjį Vilniaus vaivadą, hetmoną, genialųjį.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Livonijos administratorium 1561 m. buvo paskirtas Kuršo
-    kunigaikštis Ketleris. Tačiau jis negalėjo suvaldyti krašto, ir 1566
-    m. valdytoju buvo paskirtas Jonas Jeronimas Katke-
-    vičius. Jam pasisekė prikalbėti livoniečius visai susijungti su
-    Lietuva.
-  citata_rodoma: |
-    Livonijos administratorium 1561 m. buvo paskirtas Kuršo kunigaikštis Ketleris. Tačiau jis negalėjo suvaldyti krašto, ir 1566 m. valdytoju buvo paskirtas Jonas Jeronimas Katkevičius. Jam pasisekė prikalbėti livoniečius visai susijungti su Lietuva.
+    Pats apsukrusis ir įtakingasis to meto Lietuvos politikos veikėjas,
+      Žemaičių seniūnas ir Livonijos valdytojas Jonas Jeronimas Kat-
+      kevičius, ne tik patsai metė kalvinizmą, bet taip pat ir savo
+      sūnų Joną Karolį, — būsimąjį Vilniaus vaivadą, hetmoną, ge-
+      nialųjį karo vadą, — atidavė auklėti jėzuitams.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: stable_title
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Katkevičiaus ir M.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lietuva, vadovaujama J. J. Katkevičiaus ir M. Radvilos,
+      laikėsi nuošaliai. Ji dabar buvo susirūpinusi pataisyti Liublino
+      unijos aktą, išreikalauti iš Lenkų grąžinti Liublino seime nuo
+      Lietuvos atplėštąsias žemes ir gauti iš jų paramos prieš Maskvą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Katkevičius teturėjo vos apie 4.600 karių (jų tarpe lenkų tebuvo vos 300), todėl negalėjo spirtis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    o Lietuvos kariuomenės vadas Jonas J.
+      Katkevičius teturėjo vos apie 4.600 karių (jų tarpe lenkų te-
+      buvo vos 300), todėl negalėjo spirtis. Neprisišaukdamas pa-
+      galbos, jis net atsisakė nuo savo pareigų
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/aktas]]
+- [[temos/unija]]

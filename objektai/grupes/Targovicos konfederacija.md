@@ -1,104 +1,83 @@
 ---
 tipas: grupe
-pavadinimas: "Targovicos konfederacija"
-sukurta: "2026-04-18"
-variantai: 
-  - "Targovicos konfederacijos"
-aliases: 
-  - "Targovicos konfederacija"
-  - "Targovicos konfederacijos"
+pavadinimas: 'Targovicos konfederacija'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1792—1793 m."
-datos: 
-  - "1792—1793 m."
-periodas: "ankstyvieji_naujieji_laikai"
-periodo_grupes: []
-amziai: 
-  - "XVIII"
-date_start: "1792"
-date_end: "1793"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - grupe
+  - reforma
 ---
 # Targovicos konfederacija
 
 ## Santrauka
-Šaltinyje „Targovicos konfederacija“ apibūdinama kaip konfederacija; lenkijos reformoms priešingų opozicionierių suorganizuota konfederacija, iš kurios vėliau kilo ir Lietuvos konfederacijos prisidėjimas. (t-001) Šaltinyje „Targovicos konfederacija“ siejama su šiuo kontekstu: Lenkijos reformoms priešingų opozicionierių suorganizuota konfederacija, iš kurios vėliau kilo ir Lietuvos konfederacijos prisidėjimas. (t-002)
 
-## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: Targovicos konfederacija
-- Šaltinyje fiksuotos formos: Targovicos konfederacijos
-
-## Laikotarpis ir datos
-- laikotarpis: 1792—1793 m.
-- datos: 1792—1793 m.
-- periodas: ankstyvieji_naujieji_laikai
-- periodo_grupes: 
-- amziai: XVIII
-- date_start: 1792
-- date_end: 1793
-
-## Kas tai
-- tipas: konfederacija
-Šaltinyje „Targovicos konfederacija“ apibūdinama kaip konfederacija; lenkijos reformoms priešingų opozicionierių suorganizuota konfederacija, iš kurios vėliau kilo ir Lietuvos konfederacijos prisidėjimas. (t-001)
-
-## Sudėtis ir vaidmuo
-- Šaltinyje „Targovicos konfederacija“ apibūdinama kaip konfederacija; lenkijos reformoms priešingų opozicionierių suorganizuota konfederacija, iš kurios vėliau kilo ir Lietuvos konfederacijos prisidėjimas. (t-001)
-- Šaltinyje „Targovicos konfederacija“ siejama su šiuo kontekstu: Lenkijos reformoms priešingų opozicionierių suorganizuota konfederacija, iš kurios vėliau kilo ir Lietuvos konfederacijos prisidėjimas. (t-002)
+Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfederacija. Targovicos konfederacija, kuri ėjo prieš visas reformas — už senąją santvarką, sugrąžino ir senąjį Lietuvos Lenkijos valstybių atskirumą. Targovicos konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edukacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros Lietuvos ir Lenkijos komisijos.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Targovicos konfederacija“ apibūdinama kaip konfederacija; lenkijos reformoms priešingų opozicionierių suorganizuota konfederacija, iš kurios vėliau kilo ir Lietuvos konfederacijos prisidėjimas."
+  teiginys: 'Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfederacija.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje „Targovicos konfederacija“ siejama su šiuo kontekstu: Lenkijos reformoms priešingų opozicionierių suorganizuota konfederacija, iš kurios vėliau kilo ir Lietuvos konfederacijos prisidėjimas."
+  teiginys: 'Targovicos konfederacija, kuri ėjo prieš visas reformas — už senąją santvarką, sugrąžino ir senąjį Lietuvos Lenkijos valstybių atskirumą.'
   pagrindžia:
     - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Targovicos konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edukacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros Lietuvos ir Lenkijos komisijos.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Lenkijos reformoms priešingų opozicionierių suorganizuota konfederacija, iš kurios vėliau kilo ir Lietuvos konfederacijos prisidėjimas.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfederacija.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Opozicionieriai, atvykę į Targovicos
-    miestelį (Ukrainoje, prie Sieniuchos), paskelbė konfederacijos
-    aktą.
-  citata_rodoma: ""
+    Ta konfederacija dėl jos akto pa-
+    skelbimo vietos yra vadinama Targovicos konfederacija.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Lenkijos reformoms priešingų opozicionierių suorganizuota konfederacija, iš kurios vėliau kilo ir Lietuvos konfederacijos prisidėjimas.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Targovicos konfederacija, kuri ėjo prieš visas reformas — už senąją santvarką, sugrąžino ir senąjį Lietuvos Lenkijos valstybių atskirumą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Ši konfederacija lie-
-    tė tiktai Lenkiją. Bet
-    tuojau po to Vilniuje
-    buvo suorganizuota to-
-    kia pat Lietuvos konfe-
-    deracija, kuri pasiskelbė
-    prisidedanti prie Tar-
-    govicos konfederacijos.
-  citata_rodoma: |
-    Ši konfederacija lietė tiktai Lenkiją. Bet tuojau po to Vilniuje buvo suorganizuota tokia pat Lietuvos konfederacija, kuri pasiskelbė prisidedanti prie Targovicos konfederacijos.
+    Targovicos konfederacija, kuri ėjo prieš visas reformas — už
+    senąją santvarką, sugrąžino ir senąjį Lietuvos Lenkijos valstybių
+    atskirumą.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Targovicos konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edukacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros Lietuvos ir Lenkijos komisijos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Targovicos konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edu-
+    kacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros
+    Lietuvos ir Lenkijos komisijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/aktas]]
+- [[temos/reforma]]
+
+### Susiję objektai
+- [[objektai/grupes/Edukacinė Komisija]]

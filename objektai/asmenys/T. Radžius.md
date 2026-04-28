@@ -1,88 +1,64 @@
 ---
 tipas: asmuo
-pavadinimas: "T. Radžius"
-sukurta: "2026-04-18"
-variantai: 
-  - "T. Radžiaus"
-  - "kun. Radžius"
-  - "kun. T. Radžiaus"
-  - "kun. T. Radžius"
-aliases: 
-  - "T. Radžius"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
+pavadinimas: 'T. Radžius'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # T. Radžius
 
 ## Santrauka
-Šaltinyje T. Radžius apibūdinamas taip: Minimas kaip kunigas, Montevidėjuje subūręs katalikiškas tautiškas organizacijas ir jų centrą Urugvajaus Lietuvių Klubą. Šaltinyje T. Radžius apibūdinamas taip: Montevidėjuje kun. T. Radžiaus rūpesčiu tautiškos organizacijos buvo sujungtos į vieną centrą, pavadintą Urugvajaus Lietuvių Klubu.
 
-## Variantai
-- T. Radžiaus
-- kun. Radžius
-- kun. T. Radžiaus
-- kun. T. Radžius
+Visos tautiškos organizacijos to paties kun. Radžiaus buvo suburtos į vieną centrą, pavadintą Urugvajaus Lietuvių Klubu. Radžiaus suorganizuotos katalikiškos tautiškos organizacijos.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje T. Radžius apibūdinamas taip: Minimas kaip kunigas, Montevidėjuje subūręs katalikiškas tautiškas organizacijas ir jų centrą Urugvajaus Lietuvių Klubą."
+  teiginys: 'Visos tautiškos organizacijos to paties kun. Radžiaus buvo suburtos į vieną centrą, pavadintą Urugvajaus Lietuvių Klubu.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 - t-002
-  teiginys: "Šaltinyje T. Radžius apibūdinamas taip: Montevidėjuje kun. T. Radžiaus rūpesčiu tautiškos organizacijos buvo sujungtos į vieną centrą, pavadintą Urugvajaus Lietuvių Klubu."
+  teiginys: 'Radžiaus suorganizuotos katalikiškos tautiškos organizacijos.'
   pagrindžia:
     - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas kaip kunigas, Montevidėjuje subūręs katalikiškas tautiškas organizacijas ir jų centrą Urugvajaus Lietuvių Klubą.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Visos tautiškos organizacijos to paties kun. Radžiaus buvo suburtos į vieną centrą, pavadintą Urugvajaus Lietuvių Klubu.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Nors čia taip pat veikė ko-
-    munistai ir iš Lietuvos pabėgę plečkaitininkai, vis dėlto čia
-    vyrauja kun. T. Radžiaus suorganizuotos katalikiškos tautiškos
-    organizacijos.
-  citata_rodoma: |
-    Nors čia taip pat veikė komunistai ir iš Lietuvos pabėgę plečkaitininkai, vis dėlto čia vyrauja kun. T. Radžiaus suorganizuotos katalikiškos tautiškos organizacijos.
+    Jo rūpesčiu buvo įkurta lietuvių katalikų bend-
+      ruomenė, nemaža kitų organizacijų ir lietuviškoji 3 skyrių mo-
+      kykla (joje yra apie 100 mokinių). Visos tautiškos organiza-
+      cijos to paties kun. Radžiaus buvo suburtos į vieną centrą,
+      pavadintą Urugvajaus Lietuvių Klubu.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Montevidėjuje kun. T. Radžiaus rūpesčiu tautiškos organizacijos buvo sujungtos į vieną centrą, pavadintą Urugvajaus Lietuvių Klubu.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Radžiaus suorganizuotos katalikiškos tautiškos organizacijos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Visos tautiškos organiza-
-    cijos to paties kun. Radžiaus buvo suburtos į vieną centrą,
-    pavadintą Urugvajaus Lietuvių Klubu.
-  citata_rodoma: |
-    Visos tautiškos organizacijos to paties kun. Radžiaus buvo suburtos į vieną centrą, pavadintą Urugvajaus Lietuvių Klubu.
+    Nors čia taip pat veikė ko-
+      munistai ir iš Lietuvos pabėgę plečkaitininkai, vis dėlto čia
+      vyrauja kun. T. Radžiaus suorganizuotos katalikiškos tautiškos
+      organizacijos.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: adjacent_named_context
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Susiję objektai
+- [[objektai/ivykiai/Lietuviškos spaudos ir organizacijų kūrimasis Pietų Amerikoje (1927–1936 m.)]]

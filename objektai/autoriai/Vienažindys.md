@@ -1,62 +1,68 @@
 ---
 tipas: autorius
-pavadinimas: "Vienažindys"
-sukurta: "2026-04-18"
-variantai: 
-  - "kun. Vienažindys"
-aliases: 
-  - "Vienažindys"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: 
-  - "autorius"
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: 
-  - "autorius"
-dalyviai: 
-  - "Vienažindys"
-susije_irasai: []
-patikimumas: "vidutinis"
+pavadinimas: 'Vienažindys'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - autorius
 ---
 # Vienažindys
 
 ## Santrauka
-Šaltinyje Vienažindys minimas autorystės, redagavimo arba tyrimo kontekste: Minimas tarp dainelių autorių, kurių kūriniai tebedainuojami.
 
-## Darbai
-- Minimas tarp dainelių autorių, kurių kūriniai tebedainuojami. (t-001)
-
-## Kontekstas
-- Tekstas tiesiogiai mini pavardę ir jo dainelių reikšmę. (c-001)
+Jaunius; jo mokinys buvo ir poetas Vienažindys. Baranauskas (1835—1902 m.) ir kun. Vienažindys (1841—1892 m.), kurių dainelės dar ir dabar tebedainuojamos po visą Lietuvą.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Vienažindys autorystės, redagavimo arba tyrimo kontekste apibūdinamas taip: Minimas tarp dainelių autorių, kurių kūriniai tebedainuojami."
+  teiginys: 'Jaunius; jo mokinys buvo ir poetas Vienažindys.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Baranauskas (1835—1902 m.) ir kun. Vienažindys (1841—1892 m.), kurių dainelės dar ir dabar tebedainuojamos po visą Lietuvą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minimas tarp dainelių autorių, kurių kūriniai tebedainuojami.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Jaunius; jo mokinys buvo ir poetas Vienažindys.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    (1825—1882 m.), kun. Strazdelis (1763—1833 m.), vysk.
-    Baranauskas (1835—1902 m.) ir kun. Vienažindys
-    (1841—1892 m.), kurių dainelės dar ir dabar tebedainuojamos
-    po visą Lietuvą. Tiek jų lyrika, tiek klasiškoji Baranausko po-
-  citata_rodoma: ""
+    Iš jo tad mokinių išėjo
+    didysis mūsų kalbininkas kun. K. Jaunius; jo mokinys buvo ir
+    poetas Vienažindys. Vėliau čia mokėsi visa eilė didžių veikėjų,
+    kaip antai: Maironis, Jakštas, Tumas ir kt.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: stable_title
-  patikimumo_pagrindimas: "Tekstas tiesiogiai mini pavardę ir jo dainelių reikšmę."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Baranauskas (1835—1902 m.) ir kun. Vienažindys (1841—1892 m.), kurių dainelės dar ir dabar tebedainuojamos po visą Lietuvą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Nepaprastą reikšmę turėjo Šiaulėniškio Senelio slapyvardžiu daug knygučių
+    išleidęs Valančiaus bendradarbis kun. Juozas Dovydaitis
+    (1825—1882 m.), kun. Strazdelis (1763—1833 m.), vysk.
+    Baranauskas (1835—1902 m.) ir kun. Vienažindys
+    (1841—1892 m.), kurių dainelės dar ir dabar tebedainuojamos
+    po visą Lietuvą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/knyga]]
+
+### Susiję objektai
+- [[objektai/autoriai/K. Jaunius]]

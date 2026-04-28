@@ -1,57 +1,56 @@
 ---
 tipas: asmuo
-pavadinimas: "Treniota"
-sukurta: "2026-04-18"
+pavadinimas: 'Treniota'
+sukurta: '2026-04-25'
 variantai: []
-aliases: 
-  - "Treniota"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
 ---
 # Treniota
 
 ## Santrauka
-Šaltinyje Treniota apibūdinamas taip: Žemaičių kovų su ordinu vadovas ir Mindaugo seserėnas.
+
+Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserėnas Treniota. Treniota ir iš žygio grįžęs Daumantas susimokę jį nužudė.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje Treniota apibūdinamas taip: Žemaičių kovų su ordinu vadovas ir Mindaugo seserėnas."
+  teiginys: 'Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserėnas Treniota.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Treniota ir iš žygio grįžęs Daumantas susimokę jį nužudė.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Žemaičių kovų su ordinu vadovas ir Mindaugo seserėnas.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserėnas Treniota.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Mindaugo prisidėjimas prie žemaičių kovų. Visoms žemai-
-    čių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo se-
-    serėnas Treniota. Po Durbės mūšio jisai, atvykęs pas
-    Mindaugą, ėmė jį įkalbinėti nutraukti ryšius su ordinu ir bend-
-    romis visų aisčių jėgomis išvyti vokiečius.
-  citata_rodoma: |
-    Mindaugo prisidėjimas prie žemaičių kovų. Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserėnas Treniota. Po Durbės mūšio jisai, atvykęs pas Mindaugą, ėmė jį įkalbinėti nutraukti ryšius su ordinu ir bendromis visų aisčių jėgomis išvyti vokiečius.
+    Visoms žemai-
+      čių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo se-
+      serėnas Treniota.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-002
+  santrauka: 'Treniota ir iš žygio grįžęs Daumantas susimokę jį nužudė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Treniota ir iš žygio grįžęs
+      Daumantas susimokę jį nužudė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

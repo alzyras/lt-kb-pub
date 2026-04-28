@@ -1,69 +1,64 @@
 ---
 tipas: asmuo
-pavadinimas: "J. Gabrys"
-sukurta: "2026-04-18"
-variantai: 
-  - "J. Gabrio"
-aliases: 
-  - "J. Gabrys"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: "1913 m."
-datos: 
-  - "1913 m."
-periodas: ""
-periodo_grupes: []
-amziai: 
-  - "XX"
-date_start: "1913"
-date_end: "1913"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
+pavadinimas: 'J. Gabrys'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
+  - pinigai
 ---
 # J. Gabrys
 
 ## Santrauka
-Šaltinyje J. Gabrys apibūdinamas taip: Paryžiuje įsteigtas lietuvių informacijos biuras, išlaikomas amerikiečių pinigais.
 
-## Variantai
-- J. Gabrio
-
-## Laikotarpis ir datos
-- laikotarpis: 1913 m.
-- datos: 1913 m.
-- periodas:
-- periodo_grupes:
-- amziai: XX
-- date_start: 1913
-- date_end: 1913
+Gabrys, kurio Informacijų Biurui Paryžiuje (1915 m. jis buvo perkeltas į Šveicariją) buvo pavesta informuoti apie lietuvių reikalus Europos spaudą; o Amerikos spaudai informuoti buvo įkurtas to biūro skyrius Vašingtone. Gabrys Paryžiuje įsteigė Lietuvių Informacijų Biūrą, kuris taip pat buvo išlaikomas amerikiečių pinigais.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje J. Gabrys apibūdinamas taip: Paryžiuje įsteigtas lietuvių informacijos biuras, išlaikomas amerikiečių pinigais."
+  teiginys: 'Gabrys, kurio Informacijų Biurui Paryžiuje (1915 m. jis buvo perkeltas į Šveicariją) buvo pavesta informuoti apie lietuvių reikalus Europos spaudą; o Amerikos spaudai informuoti buvo įkurtas to biūro skyrius Vašingtone.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Gabrys Paryžiuje įsteigė Lietuvių Informacijų Biūrą, kuris taip pat buvo išlaikomas amerikiečių pinigais.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Paryžiuje įsteigtas lietuvių informacijos biuras, išlaikomas amerikiečių pinigais.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Gabrys, kurio Informacijų Biurui Paryžiuje (1915 m. jis buvo perkeltas į Šveicariją) buvo pavesta informuoti apie lietuvių reikalus Europos spaudą; o Amerikos spaudai informuoti buvo įkurtas to biūro skyrius Vašingtone.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tais pačiais metais J. Gabrys Paryžiuje įsteigė Lietuvių
-    Informacijų Biūrą, kuris taip pat buvo išlaikomas amerikiečių
-    pinigais.
-  citata_rodoma: ""
+    Buvo išrinktas net delegatas į tą kongresą — J. Gabrys, kurio Infor-
+      macijų Biurui Paryžiuje (1915 m. jis buvo perkeltas į Šveica-
+      riją) buvo pavesta informuoti apie lietuvių reikalus Europos
+      spaudą; o Amerikos spaudai informuoti buvo įkurtas to biūro
+      skyrius Vašingtone.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: "Citatoje arba tiesioginiame gretimame kontekste yra asmens vardas, variantas arba stabilus titulas."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Gabrys Paryžiuje įsteigė Lietuvių Informacijų Biūrą, kuris taip pat buvo išlaikomas amerikiečių pinigais.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tais pačiais metais J. Gabrys Paryžiuje įsteigė Lietuvių
+      Informacijų Biūrą, kuris taip pat buvo išlaikomas amerikiečių
+      pinigais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/pinigai]]

@@ -1,70 +1,68 @@
 ---
 tipas: vieta
-pavadinimas: "Europa"
-sukurta: "2026-04-18"
-variantai: 
-  - "Europos"
-aliases: 
-  - "Europa"
-  - "Europos"
-saltiniai: 
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+pavadinimas: 'Europa'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - valdovas
+  - vieta
 ---
 # Europa
 
 ## Santrauka
-Šaltinyje vieta „Europa“ siejama su šiuo kontekstu: Minima kaip karių ir samdinių kilmės erdvė. (t-001)
 
-## Pavadinimai šaltiniuose
-- Pagrindinė forma: Europa
-- Šaltinyje fiksuotos formos: Europos
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: žemynas
-
-## Geografinis ir istorinis kontekstas
-- Minima kaip karių ir samdinių kilmės erdvė. (t-001)
+Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija taip pat įžengė į pirmaeilių Europos galybių tarpą. Iš Prancūzijos ta pati srovė paplito po visą Europą.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje vieta „Europa“ siejama su šiuo kontekstu: Minima kaip karių ir samdinių kilmės erdvė."
+  teiginys: 'Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija taip pat įžengė į pirmaeilių Europos galybių tarpą.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Iš Prancūzijos ta pati srovė paplito po visą Europą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Minima kaip karių ir samdinių kilmės erdvė.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija taip pat įžengė į pirmaeilių Europos galybių tarpą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Ordinas prisikvietė daugybę svečių ir samdytos kariuome-
-    nės iš vakarų Europos. Iš viso jis atsivedė prie Tanenbergo
-    apie 12.000 karių. Lietuvių ir lenkų kariuomenėje galėjo būti
-    apie 15—20.000 karių, bet jie buvo menkiau apginkluoti.
-  citata_rodoma: |
-    Ordinas prisikvietė daugybę svečių ir samdytos kariuomenės iš vakarų Europos. Iš viso jis atsivedė prie Tanenbergo apie 12.000 karių. Lietuvių ir lenkų kariuomenėje galėjo būti apie 15—20.000 karių, bet jie buvo menkiau apginkluoti.
+    Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija
+    taip pat įžengė į pirmaeilių Europos galybių tarpą. Nuo Petro laikų su
+    ja jau buvo skaitomasi, jos jau nebeaplenkė, sprendžiant
+    kokį svarbesnį Europos politikos klausimą.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia vietos paminėjimą ir jos kontekstą šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Iš Prancūzijos ta pati srovė paplito po visą Europą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Iš Prancūzijos ta pati srovė paplito po visą Europą. Ja užsi-
+    krėtė Europos valdovai. Jie palaikė ryšius su išgarsėjusiais litera-
+    tais ir mokslininkais, patys užsiėmė literatūra ir mokslu, savo sosti-
+    nėse kūrė mokslų akademijas (Berlyne, Petrapily, Drezdene, Stok-
+    holme ir kt.) ir naujus universitetus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+### Teminiai klasteriai
+- [[temos/valdovas]]
+
+### Susiję objektai
+- [[objektai/vietos/Rusija]]

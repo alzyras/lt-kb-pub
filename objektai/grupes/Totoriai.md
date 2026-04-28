@@ -1,70 +1,55 @@
 ---
 tipas: grupe
-pavadinimas: "Totoriai"
-sukurta: "2026-04-18"
-variantai: 
-  - "totoriais"
-aliases: 
-  - "Totoriai"
-  - "totoriais"
+pavadinimas: 'Totoriai'
+sukurta: '2026-04-25'
+variantai: []
+aliases: []
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
-zymos: []
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - grupe
 ---
 # Totoriai
 
 ## Santrauka
-Šaltinyje „Totoriai“ apibūdinama kaip tauta; totoriai šiame fragmente minimi kaip Jogailos sąjungininkai prieš Maskvą, o paskui kaip Kulikovo mūšyje sumušta kariuomenė. (t-001)
 
-## Pavadinimai šaltiniuose
-- Kanoninis pavadinimas: Totoriai
-- Šaltinyje fiksuotos formos: totoriais
-
-## Laikotarpis ir datos
-- Šaltinio citatose aiškus laikotarpis ar data nenustatyti.
-
-## Kas tai
-- tipas: tauta
-Šaltinyje „Totoriai“ apibūdinama kaip tauta; totoriai šiame fragmente minimi kaip Jogailos sąjungininkai prieš Maskvą, o paskui kaip Kulikovo mūšyje sumušta kariuomenė. (t-001)
-
-## Sudėtis ir vaidmuo
-- Šaltinyje „Totoriai“ apibūdinama kaip tauta; totoriai šiame fragmente minimi kaip Jogailos sąjungininkai prieš Maskvą, o paskui kaip Kulikovo mūšyje sumušta kariuomenė. (t-001)
+Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus totoriams, prekyba su pietiniais kraštais visai nutrūko. Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštysčių, todėl nesunku buvo jas paimti į savo valdžią.
 
 ## Teiginiai
 - t-001
-  teiginys: "Šaltinyje „Totoriai“ apibūdinama kaip tauta; totoriai šiame fragmente minimi kaip Jogailos sąjungininkai prieš Maskvą, o paskui kaip Kulikovo mūšyje sumušta kariuomenė."
+  teiginys: 'Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus totoriams, prekyba su pietiniais kraštais visai nutrūko.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštysčių, todėl nesunku buvo jas paimti į savo valdžią.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Totoriai šiame fragmente minimi kaip Jogailos sąjungininkai prieš Maskvą, o paskui kaip Kulikovo mūšyje sumušta kariuomenė.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  santrauka: 'Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus totoriams, prekyba su pietiniais kraštais visai nutrūko.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tada Jogaila susidėjo su totoriais prieš Maskvą. Tačiau Maskvos ku-
-    nigaikštis Dimitrijas, dar prieš atvykstant Jogailai, sumušė toto-
-    rius (Kulikovos mūšyje 1380 m.).
-  citata_rodoma: |
-    Tada Jogaila susidėjo su totoriais prieš Maskvą. Tačiau Maskvos kunigaikštis Dimitrijas, dar prieš atvykstant Jogailai, sumušė totorius (Kulikovos mūšyje 1380 m.).
+    Per ją ėjo vienin-
+    telis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus totoriams, prekyba su pietiniais kraštais visai nutrūko.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai įvardija arba aprašo grupę šaltinyje."
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- c-002
+  santrauka: 'Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštysčių, todėl nesunku buvo jas paimti į savo valdžią.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštys-
+    čių, todėl nesunku buvo jas paimti į savo valdžią.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
