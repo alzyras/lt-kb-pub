@@ -120,7 +120,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-014
-  teiginys: 'Šaltinis Gediminą apibūdina ne tik kariu, bet ir valstybininku, veikusiu diplomatija.'
+  teiginys: 'Gediminas apibūdinamas ne tik kariu, bet ir valstybininku, veikusiu diplomatija.'
   pagrindžia:
     - c-013
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -291,9 +291,9 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   santrauka: Gediminas iki gyvenimo galo liko pagonis ir palaikė atskirą arkivyskupiją Naugarduke.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Nuo didžiojo Lietuvos valstybės atnaujintojo Gedimino laikų
-    varžybinis sąlytis su rytų slavais, kurių žemių žymi dalis pateko
-    į Lietuvos sudėtį, darėsi vis reikšmingesnis.
+    Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne
+    tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke
+    Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -375,7 +375,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   pagrindžia:
     - t-016
 - c-016
-  santrauka: Šaltinyje pabrėžiamas Gedimino religinis pakantrumas.
+  santrauka: Gedimino religinis pakantrumas pabrėžiamas kaip neįprastas aniems laikams.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Aniems laikams Gedimino religinis pakantrumas buvo nuostabus.

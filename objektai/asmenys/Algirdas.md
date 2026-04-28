@@ -262,5 +262,5 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 ### Susiję objektai
 - [[objektai/asmenys/Jaunutis]]
 - [[objektai/ivykiai/Jaunučio pašalinimas ir Algirdo bei Kęstučio valdžios perėmimas]]
-- [[objektai/vietos/Tverė]]
 - [[objektai/asmenys/Kęstutis]]
+- [[objektai/vietos/Tverė]]

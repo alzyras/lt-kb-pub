@@ -327,7 +327,7 @@ Mindaugas šiame šaltinyje rodomas kaip pirmasis Lietuvos karalius ir ankstyvas
   pagrindžia:
     - t-011
 - c-012
-  santrauka: Šaltinyje pabrėžiama, kad Mindaugas valdžią stiprino jėga ir klasta.
+  santrauka: Mindaugas valdžią stiprino jėga ir klasta.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Mindaugas savo įsigalėjimui yra panaudojęs merovinginius metodus.
@@ -403,7 +403,7 @@ Mindaugas šiame šaltinyje rodomas kaip pirmasis Lietuvos karalius ir ankstyvas
   pagrindžia:
     - t-016
 - c-017
-  santrauka: Šaltinis Mindaugą laiko pirmuoju Lietuvos vedliu į Vakarų kultūrą ir lotyniškąją krikščionybę.
+  santrauka: Mindaugas laikomas pirmuoju Lietuvos vedliu į Vakarų kultūrą ir lotyniškąją krikščionybę.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Laimėjęs Livonijos kryžiuočių palankumą, Mindaugas pajėgė iš
