@@ -41,6 +41,8 @@ const config: QuartzConfig = {
       "README.md",
       "private",
       "templates",
+      "tyrimai/auditai",
+      "tyrimai/auditai/**",
     ],
     defaultDateType: "modified",
     theme: {
