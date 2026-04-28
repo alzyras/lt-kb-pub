@@ -270,12 +270,3 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-013
-
-## Pastabos
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Andrius]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Kęstutis]]
-- [[objektai/asmenys/Vytautas]]
