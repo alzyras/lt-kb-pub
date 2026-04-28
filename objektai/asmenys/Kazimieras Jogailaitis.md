@@ -107,7 +107,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   citata_originali: |
     **XIV. Kazimiero — Zigmanto Augusto laikai.** _Fr. Papće,_ Polska i Litwa
       na przełomie średnich wieków (1904); — Studya i szkice z czasów Kazi-
-      mierza Jagiellończyka (1907); _[[F. Koneczny|F. Koneczny]],_ Litwa a Moskwa w latach 1449—
+      mierza Jagiellończyka (1907); _F. Koneczny,_ Litwa a Moskwa w latach 1449—
       1492 (1929); _W. Bialowiejśka,_ Stosunki Litwy z Moskwą 1492—1499 (At.
   citata_rodoma: ''
   teiginio_tipas: faktas

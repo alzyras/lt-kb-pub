@@ -120,7 +120,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-014
-  teiginys: 'Gediminas apibūdinamas ne tik kariu, bet ir valstybininku, veikusiu diplomatija.'
+  teiginys: 'Šaltinis Gediminą apibūdina ne tik kariu, bet ir valstybininku, veikusiu diplomatija.'
   pagrindžia:
     - c-013
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -291,11 +291,9 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   santrauka: Gediminas iki gyvenimo galo liko pagonis ir palaikė atskirą arkivyskupiją Naugarduke.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne
-    tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke
-    Lietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330
-    m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas
-    naujas įpėdinis.
+    Nuo didžiojo Lietuvos valstybės atnaujintojo Gedimino laikų
+    varžybinis sąlytis su rytų slavais, kurių žemių žymi dalis pateko
+    į Lietuvos sudėtį, darėsi vis reikšmingesnis.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -377,7 +375,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   pagrindžia:
     - t-016
 - c-016
-  santrauka: Pabrėžiamas Gedimino religinis pakantrumas.
+  santrauka: Šaltinyje pabrėžiamas Gedimino religinis pakantrumas.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Aniems laikams Gedimino religinis pakantrumas buvo nuostabus.
@@ -390,22 +388,11 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   pagrindžia:
     - t-017
 
-## Šaltiniai ir įrodymai
-
-## Pastabos
-
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/diplomatas]]
 - [[temos/ginklas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Dovydas]]
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
 - [[objektai/asmenys/Kęstutis]]
-- [[objektai/vietos/Polockas]]
-- [[objektai/vietos/Pskovas]]
-- [[objektai/asmenys/Vainys]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Vladislovas I Lokietka]]
-- [[objektai/asmenys/Vytenis]]

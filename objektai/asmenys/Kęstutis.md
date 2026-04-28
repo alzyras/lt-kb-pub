@@ -266,14 +266,9 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   citata_originali: |
     Darydamas taiką su Vengrijos karaliumi Liudviku Anjou,
     Kęstutis žadėjo jam pagalbą ir sutiko pats su savo broliais ir
-    valdiniais priimti krikštą. Už tai Liudvikas jam turėjo iš popie­
-    žiaus išrūpinti karaliaus karūną. Be to, Vengrija su Lenkija turėjo
-    priversti ordiną grąžinti Lietuvai atimtas jos žemes ir ją ginti nuo
-    kryžiuočių ir totorių. Abi pusi tą susitarimą patvirtino priesaiko-
-    mis; pats Kęstutis, kaip kunigas, ten atliko pagoniškas jaučio
-    aukojimo apeigas, kurios smulkiai yra užrašytos Dubno kronikoje^7.
-    Pasižadėjęs įkurti Lietuvoje vyskupijų ir vienuolynų, Kęstutis dėl
-    neišaiškinamų priežasčių tačiau nakties tamsoje pabėgo.
+    valdiniais priimti krikštą. Pasižadėjęs įkurti Lietuvoje vyskupijų ir
+    vienuolynų, Kęstutis dėl neišaiškinamų priežasčių tačiau nakties
+    tamsoje pabėgo.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -283,17 +278,18 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   pagrindžia:
     - t-010
 - c-011
-  santrauka: Kęstučio gyvenimo pabaiga apibūdinama kaip kalėjimo tragedija.
+  santrauka: Kęstutis gyvenimą baigė kalėjime.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Didysis kovotojas savo gyvenimą baigė ne kautynių lauke, o
-    kalėjime sūnėno, kurio tėvui visą amžių buvo ištikimai talkinęs.
-    Tas bendradarbiavimas buvo užtikrinęs valstybei reikalingą stipry-
-    bę paties didžiojo ordino spaudimo metu. Bet Kęstučiui, ypač į
-    gyvenimo galą, reikėjo pakelti ir eilę asmeniškų smūgių.
+    Darydamas taiką su Vengrijos karaliumi Liudviku Anjou,
+    Kęstutis žadėjo jam pagalbą ir sutiko pats su savo broliais ir
+    valdiniais priimti krikštą. Už tai Liudvikas jam turėjo iš popie­
+    žiaus išrūpinti karaliaus karūną. Be to, Vengrija su Lenkija turėjo
+    priversti ordiną grąžinti Lietuvai atimtas jos žemes ir ją ginti nuo
+    kryžiuočių ir totorių.
   citata_rodoma: ""
-  teiginio_tipas: vertinimas
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   priskyrimo_pagrindas: explicit_name
@@ -329,18 +325,25 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-013
-
-## Šaltiniai ir įrodymai
-
-## Pastabos
+- c-014
+  santrauka: Papildomai patvirtinama, kad Kęstutis gyvenimą baigė kalėjime.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Didysis kovotojas savo gyvenimą baigė ne kautynių lauke, o
+    kalėjime sūnėno, kurio tėvui visą amžių buvo ištikimai talkinęs.
+    Tas bendradarbiavimas buvo užtikrinęs valstybei reikalingą stipry-
+    bę paties didžiojo ordino spaudimo metu. Bet Kęstučiui, ypač į
+    gyvenimo galą, reikėjo pakelti ir eilę asmeniškų smūgių.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas]]
-- [[objektai/asmenys/Alpis]]
 - [[objektai/asmenys/Gediminas]]
-- [[objektai/vietos/Krėva]]
-- [[objektai/vietos/Marijenburgas]]
-- [[objektai/ivykiai/Paskutinės Kęstučio kovos ir mirtis]]
-- [[objektai/vietos/Trakai]]
-- [[objektai/asmenys/Vytautas]]

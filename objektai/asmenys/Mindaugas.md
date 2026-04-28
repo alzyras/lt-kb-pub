@@ -104,7 +104,7 @@ Mindaugas šiame šaltinyje rodomas kaip pirmasis Lietuvos karalius ir ankstyvas
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-011
-  teiginys: 'Apie 1240 m. Mindaugas tapo vieninteliu tikrosios Lietuvos ir rytinės dalies Žemaičių valdytoju bei tų žemių vyriausiuoju kunigu.'
+  teiginys: 'Apie 1240 m. Mindaugas tapo vieninteliu tikrosios Lietuvos ir rytinės dalies Žemaičių valdytoju bei didžiuoju Lietuvos kunigaikščiu.'
   pagrindžia:
     - c-011
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -122,7 +122,7 @@ Mindaugas šiame šaltinyje rodomas kaip pirmasis Lietuvos karalius ir ankstyvas
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-014
-  teiginys: 'Mindaugui pasidavusi didelė daugybė pagonių priėmė krikštą.'
+  teiginys: '1250 m. gale ar 1251 m. pradžioje Mindaugas krikštijosi ne tik su šeima, bet ir su būriu jam priklausančių žemių gyventojų.'
   pagrindžia:
     - c-014
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -146,7 +146,7 @@ Mindaugas šiame šaltinyje rodomas kaip pirmasis Lietuvos karalius ir ankstyvas
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-018
-  teiginys: 'Karūnavimo metais Mindaugas Žemaičiuose užrašė dalį žemių ordinui ir vyskupui Kristijonui.'
+  teiginys: '1251 m. už karūnos išrūpinimą Mindaugas užrašė Livonijos ordinui žemių Žemaičiuose.'
   pagrindžia:
     - c-018
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -310,13 +310,14 @@ Mindaugas šiame šaltinyje rodomas kaip pirmasis Lietuvos karalius ir ankstyvas
   pagrindžia:
     - t-010
 - c-011
-  santrauka: Mindaugo įsigalėjimas apie 1240 m. siejamas su vienvaldyste tikrojoje Lietuvoje ir rytinėje Žemaičių dalyje.
+  santrauka: Mindaugo įsigalėjimas apie 1240 m. susiejamas su didžiojo kunigaikščio statusu.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Apie 1240 m. Mindaugas, įveikęs savo priešus, tapo vieninteliu
     tikrosios Lietuvos ir rytinės dalies Žemaičiu valdytoju, tų žemių
     vyriausiuoju kunigu. Kalbant rytų kaimynų kronikų terminu, jis
-    tapo _didžiuoju_ Lietuvos kunigaikščiu,
+    tapo _didžiuoju_ Lietuvos kunigaikščiu, kaip jį yra pavadinusios Nau­
+    gardo ir M. Stryjkovskio kronikos56 57 58.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -326,7 +327,7 @@ Mindaugas šiame šaltinyje rodomas kaip pirmasis Lietuvos karalius ir ankstyvas
   pagrindžia:
     - t-011
 - c-012
-  santrauka: Pabrėžiama, kad Mindaugas valdžią stiprino jėga ir klasta.
+  santrauka: Šaltinyje pabrėžiama, kad Mindaugas valdžią stiprino jėga ir klasta.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Mindaugas savo įsigalėjimui yra panaudojęs merovinginius metodus.
@@ -359,7 +360,7 @@ Mindaugas šiame šaltinyje rodomas kaip pirmasis Lietuvos karalius ir ankstyvas
   pagrindžia:
     - t-013
 - c-014
-  santrauka: Mindaugo krikštas siejamas ir su didele daugybe jam pasidavusių pagonių.
+  santrauka: Krikštas siejamas ne tik su Mindaugo šeima, bet ir su dalimi jo pavaldinių.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1250 m. gale ar 1251 pradžioje Mindaugas priėmė krikštą. Jis
@@ -402,7 +403,7 @@ Mindaugas šiame šaltinyje rodomas kaip pirmasis Lietuvos karalius ir ankstyvas
   pagrindžia:
     - t-016
 - c-017
-  santrauka: Mindaugas laikomas pirmuoju Lietuvos vedliu į Vakarų kultūrą ir lotyniškąją krikščionybę.
+  santrauka: Šaltinis Mindaugą laiko pirmuoju Lietuvos vedliu į Vakarų kultūrą ir lotyniškąją krikščionybę.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Laimėjęs Livonijos kryžiuočių palankumą, Mindaugas pajėgė iš
@@ -419,7 +420,7 @@ Mindaugas šiame šaltinyje rodomas kaip pirmasis Lietuvos karalius ir ankstyvas
   pagrindžia:
     - t-017
 - c-018
-  santrauka: Karūnavimo metų žemių užrašai siejami su atlygiu ordinui ir vyskupui Kristijonui.
+  santrauka: Mindaugui priskiriami Žemaičių žemių užrašai Livonijos ordinui.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Už karūnos išrūpinimą 1251 m. Mindaugas užrašė Livonijos ordinui žemių
@@ -433,14 +434,3 @@ Mindaugas šiame šaltinyje rodomas kaip pirmasis Lietuvos karalius ir ankstyvas
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-018
-
-## Šaltiniai ir įrodymai
-
-## Pastabos
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Daumantas]]
-- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
-- [[objektai/asmenys/Vaišvilkas]]
-- [[objektai/vietos/Voruta]]
