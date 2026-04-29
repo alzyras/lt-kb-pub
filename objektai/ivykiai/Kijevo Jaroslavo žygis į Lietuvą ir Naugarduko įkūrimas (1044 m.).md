@@ -75,3 +75,6 @@ tags: []
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XI amžius]]
+
+### Susiję objektai
+- [[objektai/grupes/Kijevo Rusia]]

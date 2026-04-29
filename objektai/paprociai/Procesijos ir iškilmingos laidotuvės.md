@@ -82,7 +82,6 @@ Dažniausiai muštynių atsitikdavo švenčių metu, per procesijas, kada ypatin
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
-- [[temos/laidotuvės]]
 
 ### Susiję objektai
 - [[objektai/ivykiai/Protestanto nubaudimas per Dievo Kūno procesiją Vilniuje (1611 m.)]]

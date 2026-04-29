@@ -7,7 +7,7 @@ tags: []
 
 # XIV amžius
 
-Objektų skaičius: 18. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 25. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -19,6 +19,10 @@ Objektų skaičius: 18. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Livonijos ordinas]]
 
+### Papročiai
+- [[objektai/paprociai/Gedimino religinio pakantumo norma]]
+- [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas]]
+
 ### Posakiai
 - [[objektai/posakiai/Bemeilijo žūti ugny, negu pasiduoti vokiečiams]]
 
@@ -27,6 +31,7 @@ Objektų skaičius: 18. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu]]
 - [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]
 - [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
+- [[objektai/ivykiai/Gedimino prekybinė sutartis su Livonija (1338 m.)]]
 - [[objektai/ivykiai/Gedimino taikos sutartis su Livonija (1322 m.)]]
 - [[objektai/ivykiai/Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)]]
 - [[objektai/ivykiai/Kryžiuočių ordino sostinės perkėlimas į Marijenburgą (1309 m.)]]
@@ -34,5 +39,11 @@ Objektų skaičius: 18. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/ivykiai/Pilėnų pilies gynimas (1336 m.)]]
 - [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]
 - [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
+- [[objektai/ivykiai/Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)]]
+- [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]
 - [[objektai/ivykiai/Vytauto pabėgimas pas kryžiuočius ir 1383 m. žygis į Lietuvą]]
 - [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]
+
+### Žodynas
+- [[objektai/zodynas/inkorporacija]]
+- [[objektai/zodynas/lotyniškasis krikštas]]

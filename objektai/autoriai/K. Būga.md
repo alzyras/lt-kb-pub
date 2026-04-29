@@ -182,3 +182,7 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]

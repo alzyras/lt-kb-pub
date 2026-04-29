@@ -163,3 +163,6 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/upė]]
+
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]

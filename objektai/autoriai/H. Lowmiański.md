@@ -152,3 +152,7 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]

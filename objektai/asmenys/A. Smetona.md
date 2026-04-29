@@ -209,5 +209,9 @@ A. Smetona rodomas kaip tautinio judėjimo ir nepriklausomybės laikotarpio poli
     - t-007
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIX amžius]]
+- [[laikotarpiai/XX amžius]]
+
 ### Susiję objektai
 - [[objektai/asmenys/J. Tūbelis]]

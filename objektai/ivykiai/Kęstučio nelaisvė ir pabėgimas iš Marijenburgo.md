@@ -65,4 +65,5 @@ Vienam mūšy jis buvo nutrauktas nuo žirgo ir pakliuvo kryžiuočiams į nelai
 
 ## Ryšiai
 ### Teminiai klasteriai
+- [[temos/drabužis]]
 - [[temos/mūšis]]

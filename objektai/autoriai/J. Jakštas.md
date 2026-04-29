@@ -181,3 +181,10 @@ J. Jakštas minimas kaip istorikas ir autorius; šiame tome jis siejamas su Voki
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/autoriai/Z. Ivinskis]]

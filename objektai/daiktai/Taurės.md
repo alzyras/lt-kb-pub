@@ -46,6 +46,5 @@ Iškilo girtuokliavimo kultas: didikai ir bajorija savo šeimos brangenybių tar
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/bajorija - didikas]]
 - [[temos/bajorija - karalius]]
 - [[temos/didikas]]

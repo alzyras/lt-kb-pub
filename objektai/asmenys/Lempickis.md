@@ -51,3 +51,4 @@ Oršoje (karaliaus Zigmanto fundacija), Smolenske (klebono Lempickio ir kt.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bajorija - karalius]]
+- [[temos/bajorija - vyskupas]]

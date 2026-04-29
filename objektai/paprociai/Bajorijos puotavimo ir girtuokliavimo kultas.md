@@ -49,6 +49,5 @@ Dar patvirkusio girtuoklio karaliaus Augusto II laikais didikai, o nuo jų ir ba
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/bajorija - didikas]]
 - [[temos/bajorija - karalius]]
 - [[temos/didikas]]

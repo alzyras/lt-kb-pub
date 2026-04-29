@@ -80,5 +80,8 @@ Tokie žygiai tuomet būdavo tarsi pramoginė medžioklė. Kryžiuočiai su Liet
     - t-003
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/karas - kraštas]]
+
 ### Susiję objektai
 - [[objektai/zodynas/karo etika]]

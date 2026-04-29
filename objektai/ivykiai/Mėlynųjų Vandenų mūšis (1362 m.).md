@@ -93,3 +93,4 @@ tags:
 
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas]]
+- [[objektai/vietos/Dniepras]]

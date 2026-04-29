@@ -79,8 +79,5 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/karalius - seimas]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Atskiri Lietuvos seimai karo ir tarpuvaldžio metu]]

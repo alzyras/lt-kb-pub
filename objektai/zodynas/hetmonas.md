@@ -42,3 +42,7 @@ Didžiojo kunigaikščio kanceliarijos reikalams vesti buvo kancleriai ir jų pa
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/karas - kraštas]]

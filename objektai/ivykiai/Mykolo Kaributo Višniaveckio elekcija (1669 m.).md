@@ -64,7 +64,6 @@ Didikai bandė šitą elekciją sutrukdyti, tačiau bajorija dėjo galvą už sa
 ### Teminiai klasteriai
 - [[temos/didikas]]
 - [[temos/elekcija]]
-- [[temos/bajorija - didikas]]
 - [[temos/bajorija - karalius]]
 
 ### Laikotarpiai

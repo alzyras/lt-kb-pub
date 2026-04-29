@@ -43,6 +43,3 @@ Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kuri�
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
-
-### Susiję objektai
-- [[objektai/paprociai/Valstiečių duoklės ir prievolės]]

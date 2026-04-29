@@ -121,3 +121,7 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]

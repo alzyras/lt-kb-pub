@@ -48,5 +48,4 @@ Seimas buvo priverstas įvykdyti visus jo reikalavimus.
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/karalius - seimas]]
 - [[temos/reforma]]

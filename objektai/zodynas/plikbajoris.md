@@ -81,7 +81,6 @@ tags:
 ### Teminiai klasteriai
 - [[temos/didikas]]
 - [[temos/pinigai]]
-- [[temos/bajorija - didikas]]
 
 ### Susiję objektai
 - [[objektai/daiktai/Kardas]]

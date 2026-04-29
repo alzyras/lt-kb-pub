@@ -7,7 +7,7 @@ tags: []
 
 # upė
 
-Objektų skaičius: 26. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 25. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -49,7 +49,3 @@ Objektų skaičius: 26. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 ### Įvykiai
 - [[objektai/ivykiai/Lietuvos ir Latvijos sienos nustatymas (1921 m.)]]
 - [[objektai/ivykiai/Strėvos mūšis]]
-
-## Nerodoma Graph'e
-
-- Dar 1 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.

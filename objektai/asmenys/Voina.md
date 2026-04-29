@@ -57,5 +57,8 @@ Tuojau po to žiauraus darbo ta pati bajorija užkapojo kardais bandžiusį pab�
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/bajorija - vyskupas]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Kuravičius]]

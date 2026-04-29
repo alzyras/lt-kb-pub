@@ -7,7 +7,7 @@ tags: []
 
 # paliaubos
 
-Objektų skaičius: 22. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 23. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -18,6 +18,9 @@ Objektų skaičius: 22. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 
 ### Grupės
 - [[objektai/grupes/Aukščiausioji Santarvininkių Taryba]]
+
+### Papročiai
+- [[objektai/paprociai/Taikos patvirtinimas sudaužiant delnus]]
 
 ### Vietos
 - [[objektai/vietos/Daugpilis]]

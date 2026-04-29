@@ -38,7 +38,3 @@ Bendram seime jie reikalavo sau irgi garbingų vietų, „nes Vilnius yra lygus 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karalius - seimas]]

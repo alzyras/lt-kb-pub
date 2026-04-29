@@ -9,13 +9,14 @@ susije_irasai:
   - '[[Lietuva]]'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 tags:
   - vieta
 ---
 # Vilnius
 
 ## Santrauka
-Vilnius šiame šaltinyje aprašomas kaip nuolatinė Lietuvos sostinė nuo Gedimino laikų, svarbi politinių dokumentų, valdžios urėdų, miesto augimo ir savivaldos raidos vieta.
+Vilnius šiame šaltinyje aprašomas kaip nuolatinė Lietuvos sostinė nuo Gedimino laikų, svarbi politinių dokumentų, valdžios urėdų, miesto augimo ir savivaldos raidos vieta. Šiame šaltinyje Vilnius taip pat siejamas su sostinės įkūrimo legenda, vėliausiai 1322 m. įvykusiu sostinės perkėlimu ir ankstyvu Lietuvos bei Maskvos dinastiniu antagonizmu.
 
 ## Pavadinimai šaltiniuose
 - Vilnius
@@ -43,6 +44,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   - pagrindžia: [c-006]
 - [t-007] Švitrigaila savo kovose buvo pasiekęs ir Vilnių.
   - pagrindžia: [c-007]
+
+- [t-008] Vilniaus valstybės sostinės įkūrimas šaltinyje perteikiamas Gedimino medžioklės ir Lizdeikos išaiškinto sapno legenda.
+  - pagrindžia: [c-008]
+- [t-009] Vėliausiai 1322 m. Gediminas jau buvo perkėlęs savo sostinę į Vilnių.
+  - pagrindžia: [c-009]
+- [t-010] Nuo XIV amžiaus pirmos pusės Vilnius ir Kremlius pateikiami kaip Lietuvos ir Maskvos dinastinio antagonizmo ašys.
+  - pagrindžia: [c-010]
+- [t-011] 1392 m. Vytautas turėjo gauti ir Vilnių.
+  - pagrindžia: [c-011]
 
 ## Reikšmingi paminėjimai
 - [c-001]
@@ -100,6 +110,66 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   - paaiskinimas: Citata pagrindžia, kad Švitrigaila buvo pasiekęs Vilnių.
   - saltinis: 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 
+- [c-008]
+  santrauka: Vilniaus įkūrimo pasakojimas siejamas su Gedimino medžiokle ir Lizdeikos išaiškintu sapnu.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Gražia legenda yra apipintas Vilniuje valstybės sostinės
+    įkūrimas^14. Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­
+    takoje), Gediminas nukovęs taurą, o paskni Šventaragio slėnyje
+    (kur vėliau pastatyta katedra) susapnavęs įdomų sapną, kurį tepa­
+    jėgęs tik vyriausias žynys Lizdeika išaiškinti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
+- [c-009]
+  santrauka: Citata patvirtina, kad Gediminas sostinę į Vilnių buvo perkėlęs ne vėliau kaip 1322 m.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Istoriškai yra tikra, kad vėliausiai 1322 m. Gediminas Vilniun
+    jau buvo perkėlęs savo sostinę^15.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+- [c-010]
+  santrauka: Vilnius pateikiamas kaip viena iš Lietuvos ir Maskvos dinastinio antagonizmo ašių.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Galima sakyti jau nuo XIV amžiaus pirmos pusės į Gedimino
+    sostinės Vilniaus ir į Jono Kalitos tvirtovės Kremliaus pamatus
+    buvo įmūrytas tų dviejų valstybių ir jas valdančiųjų dinastijų
+    (Gediminaičių-Riurikaičių) _antagonizmas_ (H. Paszkiewicz), pasto­
+    viai lydėjęs jas per tolimesnius šimtmečius.
+  citata_rodoma: ""
+  teiginio_tipas: interpretacija
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
+- [c-011]
+  santrauka: Citata rodo, kad 1392 m. Vytautas turėjo gauti ir Vilnių.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Nors 1392 m. dokumentuose nie­
+    kur nepaminėta, bet Vytautas tada turėjo gauti ir Vilnių^24.
+  citata_rodoma: ""
+  teiginio_tipas: interpretacija
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-011
+
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Kremlius]]

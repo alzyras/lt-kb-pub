@@ -95,3 +95,4 @@ Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros ju
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/valdovas]]
+- [[temos/bajorija - vyskupas]]

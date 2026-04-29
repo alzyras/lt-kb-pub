@@ -7,7 +7,7 @@ tags: []
 
 # XVI amžius
 
-Objektų skaičius: 28. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 30. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -18,6 +18,10 @@ Objektų skaičius: 28. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/grupes/Gardino seimas (1566 m.)]]
 - [[objektai/grupes/Lietuvos seimas (XVI a.)]]
 - [[objektai/grupes/Livonijos ordinas]]
+
+### Papročiai
+- [[objektai/paprociai/Lydimoji žemdirbystė]]
+- [[objektai/paprociai/Nuotakos išpirkimas ir Krienos mokestis]]
 
 ### Posakiai
 - [[objektai/posakiai/nihil novi]]
@@ -41,9 +45,7 @@ Objektų skaičius: 28. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/ivykiai/Stepono Batoro mirtis (1586 m. gruodžio 12 d.)]]
 - [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]
 - [[objektai/ivykiai/Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.)]]
-- [[objektai/ivykiai/Zigmanto Augusto ir Barboros Radvilaitės vedybos bei Barboros karūnavimas (1547–1550 m.)]]
-- [[objektai/ivykiai/Zigmanto Augusto valdžios perėmimas Lietuvoje (1544–1548 m.)]]
 
 ## Nerodoma Graph'e
 
-- Dar 3 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.
+- Dar 5 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.

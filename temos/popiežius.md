@@ -7,7 +7,7 @@ tags: []
 
 # popiežius
 
-Objektų skaičius: 39. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 38. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -39,7 +39,6 @@ Objektų skaičius: 39. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/posakiai/Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais]]
 
 ### Vietos
-- [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Obeliai]]
 - [[objektai/vietos/Prienai]]
 - [[objektai/vietos/Riazanė]]
@@ -47,7 +46,8 @@ Objektų skaičius: 39. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/vietos/Seinų vyskupija]]
 - [[objektai/vietos/Tverė]]
 - [[objektai/vietos/Utena]]
+- [[objektai/vietos/Varšuvos arkivyskupija]]
 
 ## Nerodoma Graph'e
 
-- Dar 14 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.
+- Dar 13 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.

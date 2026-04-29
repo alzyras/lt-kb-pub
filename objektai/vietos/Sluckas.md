@@ -124,3 +124,4 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bajorija - karalius]]
+- [[temos/bajorija - vyskupas]]

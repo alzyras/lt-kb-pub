@@ -58,8 +58,5 @@ Ir štai Gardino seimo pradžioje, karaliui įeinant į salę, hetmonas Sapiega,
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/karalius - seimas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Benediktas Sapiega]]

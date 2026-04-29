@@ -111,6 +111,10 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
     - t-004
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/karo-reikmuo]]
+- [[temos/simbolis]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Dlugošas]]

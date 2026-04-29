@@ -38,3 +38,8 @@ Tik didieji mūsų kalbininkai Jaunius su Būga visas tas gimines vadino aisčia
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Būga]]
+- [[objektai/autoriai/K. Jaunius]]

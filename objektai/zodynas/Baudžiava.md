@@ -159,6 +159,9 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
 ## Pastabos
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/teisinis-terminas]]
+
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XV amžius]]

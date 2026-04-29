@@ -229,3 +229,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]

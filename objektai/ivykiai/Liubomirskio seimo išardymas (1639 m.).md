@@ -59,5 +59,8 @@ Ir štai 1639 m. Liubomirskis, o 1652 m. Čičinskas pasisakė nesutinką pratę
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/socialinė-praktika]]
+
 ### Laikotarpiai
 - [[laikotarpiai/XVII amžius]]

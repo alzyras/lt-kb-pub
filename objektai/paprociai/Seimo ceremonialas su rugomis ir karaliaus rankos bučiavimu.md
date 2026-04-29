@@ -60,8 +60,5 @@ Pradžioje visi eidavo pabučiuoti soste sėdinčiajam karaliui rankos, o po to 
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/karalius - seimas]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Sostas]]

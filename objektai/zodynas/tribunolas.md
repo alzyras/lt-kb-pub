@@ -105,6 +105,7 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/kunigas]]
+- [[temos/bajorija - vyskupas]]
 
 ### Susiję objektai
 - [[objektai/ivykiai/Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.)]]

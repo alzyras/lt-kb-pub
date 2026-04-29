@@ -84,5 +84,8 @@ tags:
     - t-003
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]

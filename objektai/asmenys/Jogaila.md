@@ -319,3 +319,4 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Vytautas]]
+- [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas]]

@@ -10,8 +10,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 patikimumas: 'vidutinis'
-tags:
-  - ivykis
+tags: []
 ---
 # Lietuvos krikštas
 
@@ -37,7 +36,7 @@ Ivinskio periodizacijoje 1385–1387 m. Kriavo aktas ir Lietuvos krikštas iške
 - t-004
   teiginys: '1385–1387 m. Kriavo aktas ir Lietuvos krikštas šiame veikale įvardijami kaip viena iš svarbiųjų Lietuvos istorijos datų.'
   pagrindžia:
-    - c-005
+    - c-004
 - t-005
   teiginys: '1387 m. lietuvių krikštas Aukštaičių žemėje šiame veikale aptariamas kaip papildomas krikšto aktas Lietuvos krikštijimo istorijoje.'
   pagrindžia:
@@ -132,5 +131,8 @@ Ivinskio periodizacijoje 1385–1387 m. Kriavo aktas ir Lietuvos krikštas iške
     - t-005
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/krikštas]]
+
 ### Susiję objektai
 - [[objektai/paprociai/Lietuvos krikšto apeigos]]

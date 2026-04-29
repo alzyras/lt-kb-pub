@@ -80,3 +80,7 @@ Lazdelė būdavo įpjaunama ir perskeliama pusiau, kad abi pusės sutaptų ir n�
     - t-001
     - t-002
     - t-003
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/įrankis]]

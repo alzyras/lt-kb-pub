@@ -7,9 +7,11 @@ variantai:
   - 'Livonijos ordinas'
   - 'Kristaus Karių Brolija'
   - 'Fratres Militiae Christi'
+  - 'Schwertbrueder'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 laikotarpis: 'XIII amž.; 1202 m.; 1204 m.; 1236 m.; 1237 m.; 1237 m'
 datos:
   - 'XIII amž'
@@ -26,7 +28,7 @@ tags:
 # Kalavijuočių ordinas
 
 ## Santrauka
-Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino vardas ir paprastasis pavadinimas pagal raudoną kalaviją.
+Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino vardas ir paprastasis pavadinimas pagal raudoną kalaviją. Šiame šaltinyje ordinas papildomai siejamas su stiprėjimu prie Dauguvos, steigimu pagal templininkų statutą ir nuolatiniu prieauglių didinimu iš Vokietijos kryžininkų.
 
 ## Teiginiai
 - t-001
@@ -58,6 +60,24 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   pagrindžia:
     - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Nuo XII amžiaus pabaigos prie Dauguvos krantų ėmė stiprėti kalavijuočių ordinas.'
+  pagrindžia:
+    - c-006
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: '1202–1203 m. žiemą kalavijuočių ordinas buvo įkurtas pagal templininkų statutą, o jo nariai vadinti Schwertbrueder.'
+  pagrindžia:
+    - c-007
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: 'Iš Vokietijos atvykstantys kryžininkai didino naujojo ordino prieauglius.'
+  pagrindžia:
+    - c-008
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -128,13 +148,57 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+- c-006
+  santrauka: Kalavijuočių ordinas prie Dauguvos pradėjo stiprėti dar iki oficialaus įkūrimo.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Pirmiausia prie Dauguvos krantų ėmė stiprintis kalavijuočių
+    ordinas^69. Visby salos ir Liubeko pirkliams ėmus lankyti Dauguvos
+    sritį, nuo 1180 m. Padauguviu pradėjo domėtis ir misininkai, ir 1186 m.
+    Bremeno arkivyskupas Hartvigas II Ikšlolės (Uexkuel) vyskupu
+    įšventino vienuolį Meinhardą, kurio įpėdinis Bertoldas 1198 m. žuvo
+    kovoje su lybiais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: Kalavijuočių ordinas aiškiai sietas su templininkų statutu ir pavadinimu Schwertbrueder.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Pagal Palestinoje
+    su turkais kovojančių templininkų statutą, vyskupo priklausomybėje
+    1202-1203 m. žiemą buvo įkurtas kalavijuočių ordinas ( _Fratres Militiae
+    Christi_ ). Jojo nariai ( _Schwertbrueder_ ) ant savo balto apsiausto, be
+    raudono kryžiaus, nešiojo dar išsiuvinėtą kalaviją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: Popiežiaus privilegijos skatino kryžininkų antplūdį į naująjį ordiną.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Popiežiaus privi-
+    legijų skatinami, iš Vokietijos atvykstantieji kryžininkai didino naujo
+    ordino prieauglių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: 'Citata trumpa ir kiek OCR iškraipyta, bet reikšmė aiški.'
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ginklas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
 
 ### Susiję objektai
 - [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]

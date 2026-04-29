@@ -44,6 +44,7 @@ Tačiau caras apsivylė, nes tarpuvaldis buvo labai ramus ir trumpas (Maskvos pu
 
 ## Ryšiai
 ### Teminiai klasteriai
+- [[temos/karas - kraštas]]
 - [[temos/paliaubos]]
 
 ### Laikotarpiai

@@ -78,4 +78,3 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Desna]]
-- [[objektai/vietos/Dniepras]]

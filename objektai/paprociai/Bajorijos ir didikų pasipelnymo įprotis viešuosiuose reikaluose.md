@@ -41,5 +41,4 @@ Bet to meto bajorija ir didikai buvo įpratę visur, kur tik prikišdavo savo pi
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/bajorija - didikas]]
 - [[temos/didikas]]

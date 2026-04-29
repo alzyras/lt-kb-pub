@@ -43,7 +43,6 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/bajorija - didikas]]
 - [[temos/didikas]]
 
 ### Susiję objektai

@@ -9,9 +9,11 @@ variantai:
   - 'Hanzos pirklių sąjunga'
   - 'Hanzos pirkliai'
   - 'Hanzos pirklių prekybos centras'
+  - 'Hanzos miestams'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 laikotarpis: 'XIII amž.; XIII amžius; XIII ir XIV amžiai; Vytauto laikai'
 datos:
   - 'XIII amž'
@@ -25,7 +27,7 @@ tags:
 # Hanza
 
 ## Santrauka
-Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos kontekste minimos vokiečių prekyvietės Baltijos pajūryje.
+Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos kontekste minimos vokiečių prekyvietės Baltijos pajūryje. Šiame šaltinyje ji papildomai rodoma kaip jūros keliu atvykusių piligrimų tinklas ir kaip vienas Gedimino laiškų adresatų.
 
 ## Teiginiai
 - t-001
@@ -44,6 +46,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   teiginys: 'Hanzos miestai yra Gedimino diplomatinių laiškų adresatas'
   pagrindžia:
     - c-003
+    - c-009
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-004
@@ -69,6 +72,12 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   pagrindžia:
     - c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: '1260 m. Durbės kautynių aplinkoje iš Hanzos miestų laivais buvo atvykę piligrimų.'
+  pagrindžia:
+    - c-008
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -157,3 +166,36 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+- c-008
+  santrauka: Hanza minima kaip jūros keliu atvykusių piligrimų tinklas Durbės kautynių kontekste.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Dalyvavo iš Talino danai, estai, kur-
+    šiai ; iš Hanzos miestų laivais buvo atvykę pilgrimų. Tai kelių tuk-
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: 'Citata fragmentiška, bet aiškiai įvardija Hanzos miestus ir piligrimų atvykimą.'
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: Zenono Ivinskio tekste Hanzos miestai taip pat nurodomi tarp Gedimino laiškų adresatų.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    O trys laiškai
+    (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir dominin-
+    konams ir Hanzos miestams (Liubekui, Rostokui, Stralsundui,
+    Greifswaldni, Stettinui ir Gotlando salai).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Domininkonų ordinas]]
+- [[objektai/grupes/Pranciškonų ordinas]]

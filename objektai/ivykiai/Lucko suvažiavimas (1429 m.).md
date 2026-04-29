@@ -86,3 +86,9 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/valdovas]]
+
+### Laikotarpiai
+- [[laikotarpiai/XV amžius]]
+
+### Susiję objektai
+- [[objektai/vietos/Luckas]]

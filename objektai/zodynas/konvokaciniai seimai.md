@@ -67,4 +67,3 @@ Seimų rūšys. Po konvokacinio seimo, jo nustatytu laiku, taip pat primas šauk
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bajorija - karalius]]
-- [[temos/karalius - seimas]]

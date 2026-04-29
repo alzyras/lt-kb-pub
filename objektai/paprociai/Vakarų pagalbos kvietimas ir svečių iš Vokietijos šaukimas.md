@@ -5,6 +5,7 @@ sukurta: '2026-04-24'
 variantai: []
 aliases: []
 saltiniai:
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 laikotarpis: 'XIII a. pradžia; po pirmųjų misijų ir kryžiaus žygių'
 datos:
@@ -25,7 +26,7 @@ tags: []
 
 ## Santrauka
 
-Livonijos ordino aplinkoje buvo įprasta kviesti svečius iš Vokietijos ir skelbti specialius kryžiaus žygius. Ordinui prašant popiežius Vakaruose skelbdavo kryžiaus karus, kad į pagalbą plauktų minios karių.
+Livonijos ordino ir kryžiuočių aplinkoje vakarietiškos pagalbos šaukimasis buvo nuolatinė politinė praktika. Ji reiškė svečių iš Vokietijos kvietimą, specialių kryžiaus žygių skelbimą ir popiežiaus privilegijomis skatinamą kryžininkų telkimą.
 
 ## Kas tai
 - kategorija: politinė praktika
@@ -48,6 +49,13 @@ Livonijos ordino aplinkoje buvo įprasta kviesti svečius iš Vokietijos ir skel
   pagrindžia:
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+
+- t-004
+  teiginys: 'Kalavijuočių ordiną stiprino Popiežiaus privilegijų skatinami iš Vokietijos atvykstantys kryžininkai.'
+  pagrindžia:
+    - c-004
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -96,6 +104,21 @@ Livonijos ordino aplinkoje buvo įprasta kviesti svečius iš Vokietijos ir skel
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+- c-004
+  santrauka: Popiežiaus privilegijų skatinami, iš Vokietijos atvykstantieji kryžininkai didino naujo ordino prieauglių.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Popiežiaus privi­
+    legijų skatinami, iš Vokietijos atvykstantieji kryžininkai didino naujo
+    ordino prieauglių.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

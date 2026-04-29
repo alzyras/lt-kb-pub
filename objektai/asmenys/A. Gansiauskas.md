@@ -51,3 +51,4 @@ Gansiausko f-ja), Žodiškiuose (Minkevičių f-ja), Brastoje (vicekanclerio L.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bajorija - karalius]]
+- [[temos/bajorija - vyskupas]]

@@ -7,7 +7,7 @@ tags: []
 
 # XVIII amžius
 
-Objektų skaičius: 25. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 26. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -15,6 +15,7 @@ Objektų skaičius: 25. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/asmenys/Radvila (XVIII a. didikas)]]
 
 ### Autoriai
+- [[objektai/autoriai/Augustas Ludvikas Schlözeris]]
 - [[objektai/autoriai/K. Duonelaitis]]
 
 ### Daiktai
@@ -45,5 +46,6 @@ Objektų skaičius: 25. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/ivykiai/Varšuvos konfederacinis seimas (1768 m.)]]
 - [[objektai/ivykiai/Šiaulių ekonomijos valstiečių sukilimas (1769 m.)]]
 
-### Žodynas
-- [[objektai/zodynas/Liberum veto]]
+## Nerodoma Graph'e
+
+- Dar 1 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.

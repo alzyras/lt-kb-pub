@@ -37,7 +37,7 @@ tags:
 
 ## Santrauka
 
-Mindaugas šiame šaltinyje rodomas kaip pirmasis Lietuvos karalius ir ankstyvasis valstybės telkėjas. Jis siejamas su įsigalėjimu apie 1240 m., didelėmis karinėmis akcijomis, krikštu, karūnavimu, taika su ordinu, valdžios plėtimu į rytus, Žemaičių užrašais ordinui ir orientacija į Vakarų Europos kultūrą bei lotyniškąją krikščionybę.
+Mindaugas vaizduojamas kaip pirmasis Lietuvos karalius ir ankstyvasis valstybės telkėjas. Su juo siejami įsigalėjimas apie 1240 m., didelės karinės akcijos, krikštas, karūnavimas, taika su ordinu, valdžios plėtimas į rytus, Žemaičių užrašai ordinui ir orientacija į Vakarų Europos kultūrą bei lotyniškąją krikščionybę.
 
 ## Vaidmenys
 - Lietuvos valdovas
@@ -316,8 +316,7 @@ Mindaugas šiame šaltinyje rodomas kaip pirmasis Lietuvos karalius ir ankstyvas
     Apie 1240 m. Mindaugas, įveikęs savo priešus, tapo vieninteliu
     tikrosios Lietuvos ir rytinės dalies Žemaičiu valdytoju, tų žemių
     vyriausiuoju kunigu. Kalbant rytų kaimynų kronikų terminu, jis
-    tapo _didžiuoju_ Lietuvos kunigaikščiu, kaip jį yra pavadinusios Nau­
-    gardo ir M. Stryjkovskio kronikos56 57 58.
+    tapo _didžiuoju_ Lietuvos kunigaikščiu,
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

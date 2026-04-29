@@ -51,3 +51,4 @@ fundacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske (kanclerio 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bajorija - karalius]]
+- [[temos/bajorija - vyskupas]]

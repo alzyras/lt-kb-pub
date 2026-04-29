@@ -61,7 +61,6 @@ Jo parama buvo tik Pacų vadovaujamoji Lietuva ir Lenkijos bajorų partija. Pran
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bajorija - karalius]]
-- [[temos/karalius - seimas]]
 
 ### Susiję objektai
 - [[objektai/grupes/Prancūziškoji partija]]

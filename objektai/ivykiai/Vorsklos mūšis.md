@@ -11,10 +11,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 patikimumas: 'vidutinis'
 tags:
-  - ivykis
   - mūšis
-  - upė
-  - valdovas
 ---
 # Vorsklos mūšis
 
@@ -32,11 +29,11 @@ Ivinskis pažymi rugpjūčio 12 d. mūšio disproporciją, didžiulius nuostoliu
 - t-002
   teiginys: '1399 m. rugpjūčio 12 d. prie Vorsklos totorių kariuomenės į kautynes stojo žymiai gausesnės už Vytauto jėgas.'
   pagrindžia:
-    - c-003
+    - c-002
 - t-003
   teiginys: 'Vorsklos kautynės reiškė galą Vytauto didiesiems planams, o didelė jo kariuomenės dalis buvo išžudyta.'
   pagrindžia:
-    - c-004
+    - c-003
 - t-004
   teiginys: 'Vytautui po mūšio nakties tamsoje pavyko pabėgti kartu su Žygimantu ir Švitrigaila.'
   pagrindžia:
@@ -116,5 +113,3 @@ Ivinskis pažymi rugpjūčio 12 d. mūšio disproporciją, didžiulius nuostoliu
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/mūšis]]
-- [[temos/upė]]
-- [[temos/valdovas]]

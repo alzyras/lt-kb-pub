@@ -80,7 +80,6 @@ Todėl buvo nemaža atsitikimų, kad, neatsižvelgdamas į unijos akto nuostatus
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/unija]]
-- [[temos/karalius - seimas]]
 
 ### Susiję objektai
 - [[objektai/grupes/Atskiri Lietuvos seimai]]

@@ -381,7 +381,6 @@ Pinigai naudoti atsiskaitymui, o jų formos ir ženklai atspindėjo valdovo laik
 
 ### Susiję objektai
 - [[objektai/daiktai/Aleksandro pinigai]]
-- [[objektai/asmenys/Augustas II]]
 - [[objektai/daiktai/Augusto II pinigai]]
 - [[objektai/daiktai/Jono Kazimiero pinigai]]
 - [[objektai/daiktai/Jono Sobieskio pinigas]]

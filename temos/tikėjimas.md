@@ -7,7 +7,7 @@ tags: []
 
 # tikėjimas
 
-Objektų skaičius: 11. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 12. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -20,6 +20,7 @@ Objektų skaičius: 11. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/grupes/Žydai]]
 
 ### Papročiai
+- [[objektai/paprociai/Aisčių dievų motinos garbinimas ir šernų amuletai]]
 - [[objektai/paprociai/Baudžiauninkų tikėjimo priklausomybė nuo pono paskirto kunigo]]
 
 ### Posakiai

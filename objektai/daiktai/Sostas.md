@@ -64,8 +64,5 @@ Kandidatų į sostą buvo nemaža. Pradžioje visi eidavo pabučiuoti soste sėd
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/karalius - seimas]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Seimo ceremonialas su rugomis ir karaliaus rankos bučiavimu]]

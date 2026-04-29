@@ -7,7 +7,7 @@ tags: []
 
 # dokumentas
 
-Objektų skaičius: 24. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 23. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -40,7 +40,6 @@ Objektų skaičius: 24. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 
 ### Įvykiai
 - [[objektai/ivykiai/Astravos sutartis]]
-- [[objektai/ivykiai/Krėvos akto patvirtinimas]]
 - [[objektai/ivykiai/Lenkų sąmokslas Lietuvoje (P.O.W.) (1919 m. rugpiūčio 28–29 d. naktis)]]
 - [[objektai/ivykiai/Vilniaus-Radomo susitarimas]]
 

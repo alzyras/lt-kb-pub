@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 patikimumas: 'vidutinis'
 tags:
   - miestas
@@ -14,8 +15,7 @@ tags:
 # Trakai
 
 ## Santrauka
-
-Pirmieji tokie vaivadų ir kaštelionų urėdai buvo įsteigti Vilniuje ir Trakuose. Nuvykęs į Trakus, atsigulė ir daugiau nebekėlė. Švitrigaila daug kartų puolė Zigmantą ir kartą net pasiekė Vilnių ir Trakus, tačiau vis nieko nelaimėdavo.
+Trakai šiame šaltinyje minimi kaip valdžios centras, Gedimino statyta pilis, Kęstučio valdų dalis ir vieta, kur Vytautas kūrė savo kunigaikštystės branduolį. Šiame šaltinyje Trakai dar siejami su totorių ir karaimų apgyvendinimu bei paskutine Vytauto kelione prieš mirtį.
 
 ## Teiginiai
 - t-001
@@ -38,6 +38,24 @@ Pirmieji tokie vaivadų ir kaštelionų urėdai buvo įsteigti Vilniuje ir Traku
   teiginys: 'Tribunolo posėdžiaujamomis vietomis buvo paskirti šie miestai: Vilnius, Trakai, Naugardukas ir Minskas.'
   pagrindžia:
     - c-005
+
+- t-006
+  teiginys: 'Trakų pilies įkūrimas šiame šaltinyje siejamas su Gedimino statybomis penkių mylių atstumu nuo Kernavės.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Kęstučio valdose buvo ir Trakai, buvę nesaugioje kaimynystėje su kryžiuočių valstybe.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Vytautas įkurdino totorius Trakų kunigaikštijoje, o karaimus apgyvendino Naujuosiuose Trakuose.'
+  pagrindžia:
+    - c-008
+    - c-009
+- t-009
+  teiginys: '1430 m. spalio 17 d. Vytautas su Jogaila išjojo iš Vilniaus į Trakus, o pakeliui nukritęs nuo arklio buvo atvežtas į Trakus žmonos vežime.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -109,10 +127,84 @@ Pirmieji tokie vaivadų ir kaštelionų urėdai buvo įsteigti Vilniuje ir Traku
   pagrindžia:
     - t-005
 
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/transportas]]
+- c-006
+  santrauka: Trakų pilies pradžia siejama su Gedimino statybomis ir legendine medžioklės vieta.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Gediminas stiprino Lietuvą, statydamas joje naujų pilių, tapu­
+    sių administracijos centrais. XVI amž. plačioji Lietuvos metraščio
+    redakcija mini įkūrimą išgarsėjusios Trakų pilies, 5 mylios atstu nuo
+    Kernavės, toje girios vietoje, kur Gediminas primedžiojęs daug
+    žvėrienos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: Citata tiesiogiai mini Trakus tarp Kęstučio valdų.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    O ir paties Kęstučio visos
+    valdos (dalis tikrosios Lietuvos su Trakais, Gardino žemė ir Pa­
+    lenkė), būdamos artimoje kaimynystėje su kryžiuočių valstybe,
+    niekada nebuvo saugios.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: Citata rodo, kad Vytautas įkurdino totorius Trakų kunigaikštijoje.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Atsigabenęs iš žygio daug
+    totorių belaisvių ir pabėgėlių, kurių pusę atidavė Jogailai, juos
+    Vytautas įkurdino Trakų kunigaikštijoje.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: Citata patikslina, kad karaimai buvo apgyvendinti Naujuosiuose Trakuose.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Berods, to žygio metu paim­
+    tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
+  citata_rodoma: ""
+  teiginio_tipas: interpretacija
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
+- c-010
+  santrauka: Trakai įvardijami kaip paskutinės Vytauto kelionės tikslas prieš mirtį.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa-
+    kelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo
+    žmonos vežime.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
 
+### Susiję įvykiai
+- [[Vytauto mirtis (1430 m. spalio 27 d.)]]
+
+## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Minskas]]
 - [[objektai/vietos/Naugardukas]]
+- [[objektai/ivykiai/Vytauto mirtis (1430 m. spalio 27 d.)]]

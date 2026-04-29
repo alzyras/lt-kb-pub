@@ -18,10 +18,10 @@ Objektų skaičius: 9. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas 
 - [[objektai/daiktai/Apeiginės statulos ir stulpai]]
 
 ### Papročiai
-- [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos]]
-- [[objektai/paprociai/Jogailos privilegija apsikrikštijusiems bajorams]]
+- [[objektai/paprociai/Aisčių dievų motinos garbinimas ir šernų amuletai]]
 - [[objektai/paprociai/Lietuvos krikšto apeigos]]
 - [[objektai/paprociai/Pagoniškosios Lietuvos tikybinės apeigos]]
+- [[objektai/paprociai/Taikos patvirtinimas sudaužiant delnus]]
 - [[objektai/paprociai/Žemaičių krikšto apeigos 1413 m]]
 
 ### Įvykiai

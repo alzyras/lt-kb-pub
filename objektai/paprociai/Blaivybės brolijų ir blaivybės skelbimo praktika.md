@@ -100,6 +100,7 @@ Vyskupo raginama, kunigija tapo uoliausia blaivybės platintoja; ji surašinėjo
 ### Teminiai klasteriai
 - [[temos/popiežius]]
 - [[temos/sukilimas]]
+- [[temos/bajorija - vyskupas]]
 
 ### Susiję objektai
 - [[objektai/grupes/Blaivybės Draugija]]

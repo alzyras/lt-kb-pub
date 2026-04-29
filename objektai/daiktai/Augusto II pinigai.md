@@ -43,5 +43,4 @@ Augusto II pinigai: 42 — trečiokas; 43 — šeštokas.
 - [[temos/pinigai]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Augustas II]]
 - [[objektai/daiktai/Lietuvos pinigai]]

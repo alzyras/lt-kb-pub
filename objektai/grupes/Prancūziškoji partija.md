@@ -76,8 +76,5 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/karalius - seimas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lenkijos bajorų partija]]

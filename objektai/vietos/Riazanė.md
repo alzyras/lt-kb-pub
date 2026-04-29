@@ -84,3 +84,5 @@ tags:
 ### Susiję objektai
 - [[objektai/vietos/Kaluga]]
 - [[objektai/vietos/Tula]]
+- [[objektai/vietos/Tverė]]
+- [[objektai/zodynas/legatas]]

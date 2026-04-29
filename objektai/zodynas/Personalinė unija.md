@@ -156,6 +156,9 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
 ## Pastabos
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/istorinė-sąvoka]]
+
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XVI amžius]]

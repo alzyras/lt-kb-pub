@@ -39,5 +39,4 @@ po pusę Raseinių, Ariogalos, Betygalos, Laukuvos ir kt.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Ariogala]]
 - [[objektai/vietos/Betygala]]

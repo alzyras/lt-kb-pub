@@ -66,7 +66,6 @@ tags:
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/karalius - seimas]]
 - [[temos/elekcija]]
 
 ### Susiję objektai

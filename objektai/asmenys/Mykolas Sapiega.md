@@ -78,7 +78,6 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
-- [[temos/bajorija - didikas]]
 
 ### Susiję objektai
 - [[objektai/daiktai/Kardas]]

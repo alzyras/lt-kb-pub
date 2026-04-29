@@ -118,8 +118,10 @@ Voluinę Liubartas vis dėlto atlaikė. Lietuvos interesus čia gynė Liubartas.
   santrauka: Liubartas buvo vienas iš Gedimino sūnų, priėmusių stačiatikių tikėjimą.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Keli Gedimino sūnūs (Narimantas, Karijotas ir Liubartas tikrai), gaudami savo dalis stačiatikių srityse, priėmė jų tikėjimą.
-  citata_rodoma: ""
+    Keli Gedimino sūnūs (Na­
+    rimantas, Karijotas ir Liubartas tikrai), gaudami savo dalis sta­
+    čiatikių srityse, priėmė jų tikėjimą.
+  citata_rodoma: "Keli Gedimino sūnūs (Narimantas, Karijotas ir Liubartas tikrai), gaudami savo dalis stačiatikių srityse, priėmė jų tikėjimą."
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
@@ -131,8 +133,10 @@ Voluinę Liubartas vis dėlto atlaikė. Lietuvos interesus čia gynė Liubartas.
   santrauka: Liubartas Gediminaitis per vedybas įgijo svarbias paveldėjimo teises į Voliniją.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Kai Liubartas Gediminaitis dar prieš 1322 m. vedė paskutinio Vladimiro kunigaikščio Andriaus (Jurgio sūnaus) dukterį Bučą, jis įsigijo į Voliniją svarbias paveldėjimo teises.
-  citata_rodoma: ""
+    Kai Liubartas Gediminaitis dar prieš 1322 m. vedė paskutinio
+    Vladimiro kunigaikščio Andriaus (Jurgio sūnaus) dukterį Bučą, jis
+    įsigijo į Voliniją svarbias paveldėjimo teises.
+  citata_rodoma: "Kai Liubartas Gediminaitis dar prieš 1322 m. vedė paskutinio Vladimiro kunigaikščio Andriaus (Jurgio sūnaus) dukterį Bučą, jis įsigijo į Voliniją svarbias paveldėjimo teises."
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
@@ -144,8 +148,10 @@ Voluinę Liubartas vis dėlto atlaikė. Lietuvos interesus čia gynė Liubartas.
   santrauka: Liubartas iki pat mirties kovojo su Lenkija dėl Volinijos palikimo.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Remdamasis stipriomis giminystės — paveldėjimo teisėmis, Liubartas tačiau įsitvirtino Volinijoje, beveik iki pat savo mirties (1385) su Lenkija kovodamas ir dėl kitos palikimo dalies.
-  citata_rodoma: ""
+    Remdamasis stipriomis giminystės — paveldėjimo teisėmis, Liu­
+    bartas tačiau įsitvirtino Volinijoje, beveik iki pat savo mirties
+    (1385) su Lenkija kovodamas ir dėl kitos palikimo dalies.
+  citata_rodoma: "Remdamasis stipriomis giminystės — paveldėjimo teisėmis, Liubartas tačiau įsitvirtino Volinijoje, beveik iki pat savo mirties (1385) su Lenkija kovodamas ir dėl kitos palikimo dalies."
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
@@ -157,18 +163,12 @@ Voluinę Liubartas vis dėlto atlaikė. Lietuvos interesus čia gynė Liubartas.
   santrauka: 1373 m. Liubartas buvo įtrauktas į Grigaliaus XI kreipimąsi dėl krikšto.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Kai Liubartas Gediminaitis dar prieš 1322 m. vedė paskutinio
-    Vladimiro kunigaikščio Andriaus (Jurgio sūnaus) dukterį Bučą, jis
-    
-    (^1) **Podlasę vadinant « Pagiriu », kartais maišoma su Polesie (Pripetės
-    srityje).**
-    (^2) **PSRL, 17, 71 p.**
-    
-    
-    240 II skyrius: valstybės iškilimas
-    
-    įsigijo į Voliniją svarbias paveldėjimo teises.
-  citata_rodoma: ""
+    Iš Algirdo laikų paskutinis krikšto bandymas yra žinomas
+    1373 m., kai Grigalius XI kreipėsi į Algirdą, Kęstutį ir jųdviejų
+    brolį Liubartą^12 , įtikinėdamas, jog pasikrikštijus baigtųsi baisus
+    karai tarp lietuvių ir ordino. Popiežius žadėjo atsiųsti ir Kristaus
+    mokslo skelbėjų.
+  citata_rodoma: "Iš Algirdo laikų paskutinis krikšto bandymas yra žinomas 1373 m., kai Grigalius XI kreipėsi į Algirdą, Kęstutį ir jųdviejų brolį Liubartą, įtikinėdamas, jog pasikrikštijus baigtųsi baisus karai tarp lietuvių ir ordino. Popiežius žadėjo atsiųsti ir Kristaus mokslo skelbėjų."
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai

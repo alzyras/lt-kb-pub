@@ -180,6 +180,3 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
-
-### Susiję objektai
-- [[objektai/daiktai/Karūna]]

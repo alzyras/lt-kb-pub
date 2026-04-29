@@ -41,7 +41,6 @@ Akte yra sakoma: Kad būtų viena tauta, viena visuomenė, viena brolija (frater
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/karalius - seimas]]
 - [[temos/elekcija]]
 
 ### Susiję objektai

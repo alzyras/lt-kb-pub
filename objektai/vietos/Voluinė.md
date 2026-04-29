@@ -139,5 +139,4 @@ Kadangi tuo metu tarp Lietuvos ir Lenkijos dar tebeėjo ginčas dėl Podolės ir
 ### Susiję objektai
 - [[objektai/vietos/Braclavas]]
 - [[objektai/vietos/Kijevas]]
-- [[objektai/vietos/Luckas]]
 - [[objektai/vietos/Podolė]]

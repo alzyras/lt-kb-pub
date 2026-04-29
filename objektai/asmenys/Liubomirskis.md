@@ -94,4 +94,3 @@ Pasmerktas už kariuomenės kurstymą prieš karalių, Liubomirskis pakėlė mai
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ginklas]]
-- [[temos/karalius - seimas]]

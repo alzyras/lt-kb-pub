@@ -39,3 +39,7 @@ Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (ži
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/karas - kraštas]]

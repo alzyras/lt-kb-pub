@@ -7,7 +7,7 @@ tags: []
 
 # transportas
 
-Objektų skaičius: 4. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 3. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -16,9 +16,6 @@ Objektų skaičius: 4. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas 
 
 ### Papročiai
 - [[objektai/paprociai/Seimelių mobilizavimas per puotas, plikbajorius ir instrukcijas]]
-
-### Vietos
-- [[objektai/vietos/Trakai]]
 
 ### Žodynas
 - [[objektai/zodynas/ratininkas]]

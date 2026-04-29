@@ -122,11 +122,11 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bajorija - karalius]]
+- [[temos/bajorija - vyskupas]]
 
 ### Susiję objektai
 - [[objektai/vietos/Kleckas]]
 - [[objektai/vietos/Lyda]]
 - [[objektai/vietos/Minskas]]
 - [[objektai/vietos/Slanimas]]
-- [[objektai/vietos/Trakai]]
 - [[objektai/vietos/Volkoviskas]]

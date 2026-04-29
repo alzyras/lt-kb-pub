@@ -249,6 +249,9 @@ A. Janulaitis minimas kaip istorikas, teisės istorikas ir leidėjas; šiame tom
 ### Teminiai klasteriai
 - [[temos/sukilimas]]
 
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+
 ### Susiję objektai
 - [[objektai/autoriai/St. Kutrzeba]]
 - [[objektai/autoriai/Št. Kutrzeba]]

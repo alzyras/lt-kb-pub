@@ -43,7 +43,7 @@ tags:
 
 ## Santrauka
 
-Vytautas šiame šaltinyje rodomas kaip savarankišku tapęs Lietuvos valdovas, derinęs kovą, diplomatiją ir valstybės stiprinimą. Jis siejamas su pabėgimu iš Krėvos, Astravo susitarimu, Vorsklos pralaimėjimu, Tanenbergo vadovybe, Žemaičių krikštu, Trakų salos pilimi, Žemaičių klausimo politika, Salyno suvažiavimu ir 1430 m. mirtimi.
+Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kovą, diplomatiją ir valstybės stiprinimą. Su juo siejami pabėgimas iš Krėvos, Astravo susitarimas, Vorsklos pralaimėjimas, Tanenbergo vadovybė, Žemaičių krikštas, Trakų salos pilis, Žemaičių klausimo politika, Salyno suvažiavimas ir 1430 m. mirtis.
 
 ## Vaidmenys
 - Lietuvos valdovas

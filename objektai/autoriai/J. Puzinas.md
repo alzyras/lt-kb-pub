@@ -142,3 +142,7 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]

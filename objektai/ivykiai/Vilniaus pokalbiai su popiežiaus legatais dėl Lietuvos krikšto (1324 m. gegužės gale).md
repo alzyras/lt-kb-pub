@@ -93,5 +93,8 @@ tags: []
 ### Teminiai klasteriai
 - [[temos/krikštas]]
 
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]

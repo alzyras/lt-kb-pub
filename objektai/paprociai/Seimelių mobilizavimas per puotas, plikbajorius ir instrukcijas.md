@@ -79,4 +79,3 @@ Politinis gyvenimas ėjo seimeliuose. Seimelio vaizdai, aprašyti daugelio ano m
 ### Teminiai klasteriai
 - [[temos/didikas]]
 - [[temos/transportas]]
-- [[temos/bajorija - didikas]]

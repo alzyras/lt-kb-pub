@@ -56,7 +56,3 @@ Roko vienuoliai eremitai, kurių daugumas irgi buvo išbėgioję. Yra likę žin
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/laidotuvės]]

@@ -114,4 +114,3 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Naugardukas]]
-- [[objektai/vietos/Trakai]]

@@ -96,7 +96,3 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bajorija - karalius]]
-- [[temos/karalius - seimas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Augustas II]]

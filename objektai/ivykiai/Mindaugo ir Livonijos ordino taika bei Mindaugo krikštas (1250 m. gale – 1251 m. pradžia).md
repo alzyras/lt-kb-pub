@@ -93,3 +93,6 @@ Mindaugas, naudodamasis savo priešų nesantaika, susitaikė su Livonijos ordino
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/krikštas]]
+
+### Laikotarpiai
+- [[laikotarpiai/XIII amžius]]

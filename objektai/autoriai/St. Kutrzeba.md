@@ -59,6 +59,5 @@ Kutrzebos Historja ustroju Polski w zarysie, II — Litwa). Kutrzeba i Wl.
 - [[temos/dokumentas]]
 
 ### Susiję objektai
-- [[objektai/autoriai/A. Janulaitis]]
 - [[objektai/autoriai/Wl. Semkowicz]]
 - [[objektai/autoriai/Št. Kutrzeba]]

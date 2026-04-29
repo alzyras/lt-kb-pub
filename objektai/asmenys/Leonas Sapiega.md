@@ -146,6 +146,7 @@ Sapiegos f-ja). Šapoka, Leonas Sapiega kaip Liet. Paskutiniai Zigmanto Vazos la
 ### Teminiai klasteriai
 - [[temos/diplomatas]]
 - [[temos/bajorija - karalius]]
+- [[temos/bajorija - vyskupas]]
 
 ### Susiję objektai
 - [[objektai/grupes/Katkevičiai]]

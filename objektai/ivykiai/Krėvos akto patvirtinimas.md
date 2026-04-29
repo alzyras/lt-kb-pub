@@ -11,10 +11,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 patikimumas: 'vidutinis'
-tags:
-  - dokumentas
-  - ivykis
-  - pilis
+tags: []
 ---
 # Krėvos akto patvirtinimas
 
@@ -32,7 +29,7 @@ Ivinskis pabrėžia, kad 1385.VIII.14 Kriavo pilyje surašytas aktas dar nebuvo 
 - t-002
   teiginys: '1385.VIII.14 Kriavo pilyje buvo surašytas aktas, vėliau atgabentas į Krokuvą.'
   pagrindžia:
-    - c-003
+    - c-002
 - t-003
   teiginys: 'Kriavo aktas buvo vienintelis susitarimų šaltinis ir pateikė penkis pagrindinius Skirgailos Krokuvoje sutartus punktus.'
   pagrindžia:
@@ -96,7 +93,3 @@ Ivinskis pabrėžia, kad 1385.VIII.14 Kriavo pilyje surašytas aktas dar nebuvo 
   pagrindžia:
     - t-003
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]

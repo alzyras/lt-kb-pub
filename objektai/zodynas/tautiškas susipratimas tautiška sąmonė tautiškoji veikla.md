@@ -74,3 +74,7 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/karas - kraštas]]

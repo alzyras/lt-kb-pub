@@ -111,6 +111,7 @@ Bet pagaliau, kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/kunigas]]
+- [[temos/bajorija - vyskupas]]
 
 ### Susiję objektai
 - [[objektai/paprociai/Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose]]

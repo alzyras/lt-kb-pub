@@ -60,4 +60,6 @@ Tik didieji mūsų kalbininkai Jaunius su Būga visas tas gimines vadino aisčia
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Būga]]
+- [[objektai/asmenys/Jaunius]]
 - [[objektai/autoriai/Vienažindys]]

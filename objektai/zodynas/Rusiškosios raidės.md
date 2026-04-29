@@ -116,6 +116,9 @@ Terminas vartojamas kalbant apie administracinį bandymą įvesti lietuviškai s
 ## Pastabos
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/istorinė-sąvoka]]
+
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
 

@@ -93,7 +93,6 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/unija]]
-- [[temos/karalius - seimas]]
 
 ### Susiję objektai
 - [[objektai/grupes/Lenkų karalystė]]

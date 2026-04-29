@@ -43,7 +43,6 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/bajorija - didikas]]
 - [[temos/didikas]]
 
 ### Susiję objektai

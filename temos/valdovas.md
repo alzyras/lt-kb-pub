@@ -7,7 +7,7 @@ tags: []
 
 # valdovas
 
-Objektų skaičius: 53. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 52. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -15,6 +15,7 @@ Objektų skaičius: 53. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/asmenys/Albertas]]
 - [[objektai/asmenys/Augustas II]]
 - [[objektai/asmenys/Barbora]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Jaunutis]]
 - [[objektai/asmenys/Jonas IV Žiaurusis]]
 - [[objektai/asmenys/Kazimieras Jogailaitis]]
@@ -42,8 +43,7 @@ Objektų skaičius: 53. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/paprociai/Bendras Lietuvos ir Lenkijos valdovo rinkimas]]
 - [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai]]
 - [[objektai/paprociai/Dvasininkų skyrimo paprotys kaip atlygio sistema]]
-- [[objektai/paprociai/Lietuvos krikšto apeigos]]
 
 ## Nerodoma Graph'e
 
-- Dar 28 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.
+- Dar 27 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.

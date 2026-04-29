@@ -22,7 +22,6 @@ Objektų skaičius: 24. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/asmenys/Patrikas]]
 
 ### Papročiai
-- [[objektai/paprociai/Lietuvos krikšto apeigos]]
 - [[objektai/paprociai/Žemaičių krikšto apeigos 1413 m]]
 
 ### Vietos
@@ -35,6 +34,7 @@ Objektų skaičius: 24. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/ivykiai/Brunono misija į aisčių kraštą ir žūtis (1009 m.)]]
 - [[objektai/ivykiai/Gedimino krikšto, laiškų ir taikos kampanija]]
 - [[objektai/ivykiai/Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos]]
+- [[objektai/ivykiai/Lietuvos krikštas]]
 - [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]
 - [[objektai/ivykiai/Pirmieji bandymai krikštyti aisčių gimines]]
 - [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]

@@ -179,6 +179,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bajorija - karalius]]
+- [[temos/bajorija - vyskupas]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Juozapatas Kuncevičius]]

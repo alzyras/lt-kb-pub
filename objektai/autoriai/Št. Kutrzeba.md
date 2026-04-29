@@ -39,5 +39,4 @@ Kutrzebos Historja ustroju Polski w zarysie, II — Litwa).
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/autoriai/A. Janulaitis]]
 - [[objektai/autoriai/St. Kutrzeba]]

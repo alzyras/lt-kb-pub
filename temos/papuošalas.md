@@ -7,7 +7,7 @@ tags: []
 
 # papuošalas
 
-Objektų skaičius: 7. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 10. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -16,9 +16,12 @@ Objektų skaičius: 7. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas 
 - [[objektai/asmenys/Liudvikas IV Bavarietis]]
 
 ### Daiktai
+- [[objektai/daiktai/Daujėnų apgalvis]]
+- [[objektai/daiktai/Emaliuotos juostos]]
 - [[objektai/daiktai/Gintaro ir stiklo karoliai]]
 - [[objektai/daiktai/Juostos]]
 - [[objektai/daiktai/Papuošalai]]
+- [[objektai/daiktai/Pasaginės segės]]
 - [[objektai/daiktai/Šernų amuletai]]
 
 ### Žodynas

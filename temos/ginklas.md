@@ -13,7 +13,6 @@ Objektų skaičius: 25. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 
 ### Asmenys
 - [[objektai/asmenys/A. Mackevičius]]
-- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Karolis Pilypas]]
 - [[objektai/asmenys/Liubomirskis]]
 
@@ -24,6 +23,7 @@ Objektų skaičius: 25. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/daiktai/Du pliki kardai]]
 - [[objektai/daiktai/Geležiniai ginklai ir įrankiai]]
 - [[objektai/daiktai/Karinė ginkluotė]]
+- [[objektai/daiktai/Kovos kirviai]]
 - [[objektai/daiktai/Kryžius ant kardo galo]]
 - [[objektai/daiktai/Lietuvos žalvario (bronzos) amžiaus dirbiniai]]
 - [[objektai/daiktai/Patrankos]]

@@ -111,3 +111,8 @@ Jo vyriausias brolis Andrius, kuris tuojau po tėvo mirties buvo pradėjęs orga
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Teodoras Algirdaitis]]
+- [[objektai/asmenys/Vladimiras Algirdaitis]]

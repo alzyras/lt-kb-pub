@@ -130,4 +130,3 @@ Bet Vytautas iš pat pradžių parodė tvirtą valdovo ranką, ir visi nepaklusn
 ### Teminiai klasteriai
 - [[temos/didikas]]
 - [[temos/valdovas]]
-- [[temos/bajorija - didikas]]

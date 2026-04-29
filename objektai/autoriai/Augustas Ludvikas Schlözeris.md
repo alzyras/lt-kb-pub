@@ -98,3 +98,7 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XVIII amžius]]

@@ -86,5 +86,8 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
     - t-003
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/drabužis]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila]]

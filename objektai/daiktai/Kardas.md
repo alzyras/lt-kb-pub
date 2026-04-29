@@ -103,7 +103,6 @@ Višniaveckis jį nusivežė į Valkininkus, kur kitą rytą įsiutusi bajorų m
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
-- [[temos/bajorija - didikas]]
 
 ### Susiję objektai
 - [[objektai/daiktai/Karieta]]

@@ -131,4 +131,3 @@ Jie svajojo net panaikinti liberum veto, bet kadangi tam pasipriešino Rusų ir 
 ### Teminiai klasteriai
 - [[temos/elekcija]]
 - [[temos/bajorija - karalius]]
-- [[temos/karalius - seimas]]
