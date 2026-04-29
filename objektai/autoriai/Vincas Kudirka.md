@@ -1,5 +1,5 @@
 ---
-tipas: autorius
+tipas: 'autorius'
 pavadinimas: 'Vincas Kudirka'
 sukurta: '2026-04-24'
 variantai:
@@ -108,6 +108,3 @@ Vincas Kudirka šiame šaltinyje minimas kaip autorius, redaktorius; jam priskir
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/Dr. Vincas Kudirka]]

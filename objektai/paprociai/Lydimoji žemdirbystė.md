@@ -118,4 +118,5 @@ Lydimoji žemdirbystė rėmėsi išskinto ir nudeginto miško sklypo pavertimu d
 
 ## Ryšiai
 ### Laikotarpiai
+- [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XVI amžius]]

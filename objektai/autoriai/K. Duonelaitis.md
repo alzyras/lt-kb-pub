@@ -1,5 +1,5 @@
 ---
-tipas: autorius
+tipas: 'autorius'
 pavadinimas: 'K. Duonelaitis'
 sukurta: '2026-04-24'
 variantai:

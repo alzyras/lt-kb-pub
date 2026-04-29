@@ -83,8 +83,5 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/karas - kraštas]]
-
 ### Susiję objektai
 - [[objektai/vietos/Valkininkai]]

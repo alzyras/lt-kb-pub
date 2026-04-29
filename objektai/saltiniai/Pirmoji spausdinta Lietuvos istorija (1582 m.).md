@@ -1,27 +1,29 @@
 ---
-tipas: saltinis
-pavadinimas: Pirmoji spausdinta Lietuvos istorija (1582 m.)
+tipas: 'saltinis'
+pavadinimas: 'Pirmoji spausdinta Lietuvos istorija (1582 m.)'
 sukurta: '2026-04-24'
 variantai:
-  - pirmoji spausdinta Lietuvos istorija
-  - Strikauskio veikalas
+  - 'pirmoji spausdinta Lietuvos istorija'
+  - 'Strikauskio veikalas'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-laikotarpis: XVI amž. gale (1582 m.)
+laikotarpis: 'XVI amž. gale (1582 m.)'
 datos:
   - '1582 m.'
-periodas: ankstyvieji_naujieji_laikai
+periodas: 'ankstyvieji_naujieji_laikai'
 periodo_grupes: []
 amziai:
-  - XVI
+  - 'XVI'
 date_start: '1582'
 date_end: '1582'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: ''
-tags: []
+patikimumas: ""
+tags:
+  - saltinis
+  - vyskupas
 ---
 # Pirmoji spausdinta Lietuvos istorija (1582 m.)
 

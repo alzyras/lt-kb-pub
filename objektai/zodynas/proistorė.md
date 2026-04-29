@@ -12,8 +12,7 @@ laikotarpis: 'iki XII a. pabaigos'
 datos: []
 periodas: ''
 periodo_grupes: []
-amziai:
-  - 'iki XII a. pabaigos'
+amziai: []
 date_start: ''
 date_end: ''
 vaidmenys: []
@@ -136,3 +135,6 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
+
+### Laikotarpiai
+- [[laikotarpiai/XII amžius]]

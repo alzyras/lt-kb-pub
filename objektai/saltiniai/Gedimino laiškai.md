@@ -50,12 +50,6 @@ tags: []
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Kiti Gedimino laiškai pasiekė Vakarų Europą ir kvietė į Lietuvą įvairių luomų žmones.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-004
   teiginys: '1323 m. Gediminas parašė laiškų popiežiui ir Europos miestams.'
   pagrindžia:
@@ -104,25 +98,6 @@ tags: []
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-003
-  santrauka: Citata pagrindžia: Kiti Gedimino laiškai pasiekė Vakarų Europą ir kvietė į Lietuvą įvairių luomų žmones.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Laiškas buvo išsiųstas per Rygą. Miestas ir arkivyskupas
-    remte rėmė šitą Gedimino žygį, nes tikėjosi tuo būdu pakenksią
-    ordinui. Tuo tarpu ordinas kaip įmanydamas stengėsi jam
-    kliudyti. Bet vis dėlto jam nepasisekė, ir laiškas pasiekė po-
-    piežių. Pasiekė vakarų Europą ir kiti Gedimino laiškai, kuriais
-    jis reiškė norą susitaikinti su krikščionybe, prašė padėti pas po-
-    piežių vykstantiems jo pasiuntiniams ir kvietė miestiečius, rite-
-    rius ir vienuolius atvykti ir apsigyventi Lietuvoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 - c-004
   santrauka: Citata pagrindžia: 1323 m. Gediminas parašė laiškų popiežiui ir Europos miestams.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

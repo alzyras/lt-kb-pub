@@ -7,7 +7,7 @@ tags: []
 
 # XVIII amžius
 
-Objektų skaičius: 26. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 27. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -48,4 +48,4 @@ Objektų skaičius: 26. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 
 ## Nerodoma Graph'e
 
-- Dar 1 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.
+- Dar 2 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.

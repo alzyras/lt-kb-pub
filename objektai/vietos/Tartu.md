@@ -62,4 +62,3 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/mūšis]]
-- [[temos/karas - kraštas]]

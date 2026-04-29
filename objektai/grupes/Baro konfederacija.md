@@ -70,3 +70,4 @@ Radomo konfederacijos ir 1768 m. seimo metu Repninas jau perdaug aiškiai išėj
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bajorija - karalius]]
+- [[temos/karalius - valstybė]]

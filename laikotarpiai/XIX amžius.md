@@ -7,7 +7,7 @@ tags: []
 
 # XIX amžius
 
-Objektų skaičius: 40. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 43. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -28,6 +28,9 @@ Objektų skaičius: 40. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 ### Daiktai
 - [[objektai/daiktai/D. Poškos Baublys]]
 
+### Papročiai
+- [[objektai/paprociai/Lydimoji žemdirbystė]]
+
 ### Posakiai
 - [[objektai/posakiai/Žmonės nusidavimų (istorijos) nepažįstantieji vis yra vaikai]]
 
@@ -44,8 +47,7 @@ Objektų skaičius: 40. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/ivykiai/Lietuviškosios spaudos draudimas ir rusiškų raidžių įvedimas (1864—1865 m.)]]
 - [[objektai/ivykiai/Lietuviškosios spaudos pradžia Amerikoje (1874–1885 m.)]]
 - [[objektai/ivykiai/Lietuviškosios spaudos suklestėjimas Amerikoje (1892–1896 m.)]]
-- [[objektai/ivykiai/Lietuvių peticijų dėl kalbos teisių mokyklose kampanija (1879–1897 m.)]]
 
 ## Nerodoma Graph'e
 
-- Dar 15 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.
+- Dar 18 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.

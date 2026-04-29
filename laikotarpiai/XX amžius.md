@@ -7,7 +7,7 @@ tags: []
 
 # XX amžius
 
-Objektų skaičius: 72. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 73. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -33,6 +33,7 @@ Objektų skaičius: 72. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/autoriai/P. Klimas]]
 - [[objektai/autoriai/P. Šležas]]
 - [[objektai/autoriai/Vincas Kudirka]]
+- [[objektai/autoriai/Z. Ivinskis|Zenonas Ivinskis]]
 
 ### Grupės
 - [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti]]
@@ -44,8 +45,7 @@ Objektų skaičius: 72. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 ### Įvykiai
 - [[objektai/ivykiai/1917 m. lietuvių seimas Petrapilyje]]
 - [[objektai/ivykiai/Amerikos lietuvių fondų ir komitetų kūrimas Lietuvos reikalams (1905–1913 m.)]]
-- [[objektai/ivykiai/Amerikos lietuvių seimas Niujorke (1918 m. kovo 13–14 d.)]]
 
 ## Nerodoma Graph'e
 
-- Dar 47 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.
+- Dar 48 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.

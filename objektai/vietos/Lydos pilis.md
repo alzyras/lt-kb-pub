@@ -78,6 +78,9 @@ Tai pilis, minima tarp ankstyvųjų Vytauto mūro statybų.
 ## Pastabos
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XV amžius]]
+
 ### Susiję objektai
 - [[objektai/vietos/Lyda]]
 - [[objektai/vietos/Medininkų pilis]]

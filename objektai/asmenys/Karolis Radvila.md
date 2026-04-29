@@ -58,7 +58,3 @@ Didžiausią pasipriešinimą parodė tik Lenkų hetmonas Branickis ir Vilniaus 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karas - kraštas]]

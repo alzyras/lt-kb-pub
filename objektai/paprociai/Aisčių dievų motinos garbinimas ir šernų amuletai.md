@@ -59,3 +59,6 @@ Tacito aprašyti aisčiai garbino dievų motiną ir nešiojo šernų amuletus. �
 ### Teminiai klasteriai
 - [[temos/ritualas]]
 - [[temos/tikėjimas]]
+
+### Laikotarpiai
+- [[laikotarpiai/I amžius]]

@@ -254,4 +254,3 @@ A. Janulaitis minimas kaip istorikas, teisės istorikas ir leidėjas; šiame tom
 
 ### Susiję objektai
 - [[objektai/autoriai/St. Kutrzeba]]
-- [[objektai/autoriai/Št. Kutrzeba]]

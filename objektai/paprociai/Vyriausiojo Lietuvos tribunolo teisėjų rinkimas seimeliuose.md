@@ -114,7 +114,6 @@ Todėl bajorija seimuose ir seimeliuose nuolat reikalavo, kad vyriausiasis teism
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/kunigas]]
-- [[temos/bajorija - vyskupas]]
 
 ### Susiję objektai
 - [[objektai/grupes/Vyriausiasis Lietuvos tribunolas]]

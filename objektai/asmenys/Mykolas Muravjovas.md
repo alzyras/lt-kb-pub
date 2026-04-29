@@ -102,4 +102,3 @@ Muravjovas, pagerindamas valstiečių būklę ir pertvarkydamas savivaldybes, ti
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/sukilimas]]
-- [[temos/karas - kraštas]]

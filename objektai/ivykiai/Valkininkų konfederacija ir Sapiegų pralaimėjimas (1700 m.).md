@@ -82,9 +82,5 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/bajorija - vyskupas]]
-- [[temos/karas - kraštas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XVII amžius]]

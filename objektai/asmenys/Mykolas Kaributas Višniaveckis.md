@@ -155,7 +155,6 @@ Mykolas K. Mykolo Višniaveckio valdymas ir mirtis. Pacų vadovaujamoji Lietuva 
 ### Teminiai klasteriai
 - [[temos/didikas]]
 - [[temos/bajorija - karalius]]
-- [[temos/bajorija - vyskupas]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Bžostauskas]]

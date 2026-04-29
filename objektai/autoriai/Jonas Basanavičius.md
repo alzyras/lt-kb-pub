@@ -1,10 +1,11 @@
 ---
-tipas: autorius
+tipas: 'autorius'
 pavadinimas: 'Jonas Basanavičius'
 sukurta: '2026-04-24'
 variantai:
   - 'Dr. J. Basanavičius'
   - 'Basanavičius'
+  - 'Dr. Jonas Basanavičius'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 laikotarpis: '1851—1927 m.; 1882—1883 m.; 1913 m.'
@@ -229,6 +230,7 @@ Jonas Basanavičius rodomas kaip vienas svarbiausių lietuvių tautinio sąjūd�
 
 ### Susiję objektai
 - [[objektai/ivykiai/Amerikos lietuvių fondų ir komitetų kūrimas Lietuvos reikalams (1905–1913 m.)]]
-- [[objektai/autoriai/Dr. Jonas Basanavičius]]
+- [[objektai/autoriai/M. Jankus]]
 - [[objektai/asmenys/M. Yčas]]
+- [[objektai/autoriai/S. Zauerveinas]]
 - [[objektai/asmenys/V. Bruožis]]

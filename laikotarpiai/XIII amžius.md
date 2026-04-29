@@ -7,9 +7,16 @@ tags: []
 
 # XIII amžius
 
-Objektų skaičius: 9. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 15. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
+
+### Asmenys
+- [[objektai/asmenys/Mindaugas]]
+
+### Grupės
+- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 
 ### Papročiai
 - [[objektai/paprociai/Nuotakos išpirkimas ir Krienos mokestis]]
@@ -26,4 +33,7 @@ Objektų skaičius: 9. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas 
 - [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]
 
 ### Žodynas
+- [[objektai/zodynas/apostazija]]
 - [[objektai/zodynas/kryžiaus karas]]
+- [[objektai/zodynas/metropolija]]
+- [[objektai/zodynas/metropolitas]]

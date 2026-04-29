@@ -45,3 +45,4 @@ Karalius Sobieskis, norėdamas, kad bajorija įprastų jo sūnų Jokūbą laikyt
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bajorija - karalius]]
+- [[temos/karalius - valstybė]]

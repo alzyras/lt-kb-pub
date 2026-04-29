@@ -1,8 +1,9 @@
 ---
-tipas: autorius
+tipas: 'autorius'
 pavadinimas: 'St. Kutrzeba'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - 'Št. Kutrzeba'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
@@ -60,4 +61,3 @@ Kutrzebos Historja ustroju Polski w zarysie, II — Litwa). Kutrzeba i Wl.
 
 ### Susiję objektai
 - [[objektai/autoriai/Wl. Semkowicz]]
-- [[objektai/autoriai/Št. Kutrzeba]]

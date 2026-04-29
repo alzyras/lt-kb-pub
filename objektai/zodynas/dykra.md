@@ -155,3 +155,6 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
 - [[temos/karinis-terminas]]
+
+### Laikotarpiai
+- [[laikotarpiai/XV amžius]]

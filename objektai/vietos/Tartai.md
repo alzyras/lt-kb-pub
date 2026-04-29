@@ -44,6 +44,9 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/miestas - pilis]]
+
 ### Susiję objektai
 - [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Talinas]]

@@ -47,4 +47,5 @@ Išsižadame visų savo beverčių lenkiškų didžiosios Lietuvos kunigaikštij
 
 ## Ryšiai
 ### Teminiai klasteriai
+- [[temos/karalius - valstybė]]
 - [[temos/elekcija]]

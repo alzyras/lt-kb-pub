@@ -45,7 +45,3 @@ Vakaruose miestai turėjo tam tikras teises ir valdėsi patys.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karas - kraštas]]

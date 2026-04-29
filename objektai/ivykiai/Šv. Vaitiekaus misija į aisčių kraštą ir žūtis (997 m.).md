@@ -16,8 +16,8 @@ periodas: viduramziai
 periodo_grupes: []
 amziai:
   - X
-date_start: '0997-04-23'
-date_end: '0997-04-23'
+date_start: '0997'
+date_end: '0997'
 vaidmenys: []
 dalyviai:
   - vyskupas Vaitiekus
@@ -139,6 +139,10 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/krikštas]]
+
+### Laikotarpiai
+- [[laikotarpiai/I amžius]]
+- [[laikotarpiai/X amžius]]
 
 ### Susiję objektai
 - [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis]]

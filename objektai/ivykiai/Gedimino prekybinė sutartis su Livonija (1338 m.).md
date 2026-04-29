@@ -16,8 +16,8 @@ datos:
 periodas: ''
 periodo_grupes: []
 amziai: []
-date_start: '1338-11-01'
-date_end: '1338-11-01'
+date_start: '1338'
+date_end: '1338'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -58,6 +58,7 @@ tags:
 
 ## Ryšiai
 ### Laikotarpiai
+- [[laikotarpiai/I amžius]]
 - [[laikotarpiai/XIV amžius]]
 
 ### Susiję objektai

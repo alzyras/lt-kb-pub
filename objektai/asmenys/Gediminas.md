@@ -18,7 +18,7 @@ datos:
 periodas: ''
 periodo_grupes: []
 amziai:
-  - 'XIV a.'
+  - 'XIV'
 date_start: ''
 date_end: ''
 vaidmenys:
@@ -395,6 +395,9 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
 ### Teminiai klasteriai
 - [[temos/diplomatas]]
 - [[temos/valdovas]]
+
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
 
 ### Susiję objektai
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]

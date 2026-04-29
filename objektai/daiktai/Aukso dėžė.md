@@ -40,3 +40,7 @@ Kiek jis buvo tik savimi susirūpinęs, matome ir iš to, kad švedų antplūdž
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/karalius - valstybė]]

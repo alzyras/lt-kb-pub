@@ -54,7 +54,3 @@ Kadangi kunigaikštis karo reikalui privalė arklių, tai krašte buvo daug žir
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karas - kraštas]]

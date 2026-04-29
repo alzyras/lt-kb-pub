@@ -47,5 +47,5 @@ Objektų skaičius: 25. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/vietos/Švedija]]
 
 ### Įvykiai
-- [[objektai/ivykiai/Lietuvos ir Latvijos sienos nustatymas (1921 m.)]]
-- [[objektai/ivykiai/Strėvos mūšis]]
+- [[objektai/ivykiai/Lietuvos ir Latvijos sienos išvedimas (1921 m.)]]
+- [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]

@@ -20,8 +20,7 @@ datos:
   - '1389 m. ir 1415 m.'
 periodas: ''
 periodo_grupes: []
-amziai:
-  - 'XIV a. pradžia; 1300 m. ir po to; 1354 m.'
+amziai: []
 date_start: ''
 date_end: ''
 vaidmenys: []
@@ -224,6 +223,11 @@ Nenurodyta.
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
 - [[temos/religinis-terminas]]
+
+### Laikotarpiai
+- [[laikotarpiai/XIII amžius]]
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
 
 ### Susiję objektai
 - [[objektai/zodynas/metropolija]]

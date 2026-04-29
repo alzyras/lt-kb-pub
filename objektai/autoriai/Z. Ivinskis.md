@@ -212,5 +212,9 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
     - t-008
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/I amžius]]
+- [[laikotarpiai/XX amžius]]
+
 ### Susiję objektai
 - [[objektai/autoriai/J. Jakštas]]

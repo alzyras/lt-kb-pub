@@ -135,4 +135,3 @@ Lietuviškosios spaudos centru pasidarė Tilžė. Jis pats parašė daugybę kny
 
 ### Susiję objektai
 - [[objektai/autoriai/Motiejus Valančius]]
-- [[objektai/autoriai/Vysk. Motiejus Valančius]]

@@ -168,6 +168,7 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/reforma]]
+- [[temos/karalius - valstybė]]
 
 ### Susiję objektai
 - [[objektai/vietos/Petrapilis]]

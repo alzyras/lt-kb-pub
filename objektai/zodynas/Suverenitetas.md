@@ -205,5 +205,9 @@ Suverenitetas pateikiamas kaip teisinė valstybės teisė valdyti teritoriją ir
 - registras turi artimą viešą įrašą `Suverenitetas`; čia pateikiama šaltinio vartosena ir variantas `suverenumas`; šaltinis terminą vartoja istoriškai, o ne teoriškai, todėl aiškinant reikės saugoti kontekstą.
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/I amžius]]
+- [[laikotarpiai/XX amžius]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Augustas III]]

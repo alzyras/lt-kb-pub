@@ -161,7 +161,6 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/valdovas]]
-- [[temos/bajorija - vyskupas]]
 
 ### Susiję objektai
 - [[objektai/zodynas/pereinamasis laikotarpis]]

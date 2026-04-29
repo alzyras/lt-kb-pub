@@ -58,7 +58,3 @@ Karaliui užsispyrus ir Maciejevskiui būtinai veržiantis į Vilnių, Lietuvos 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/bajorija - vyskupas]]

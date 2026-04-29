@@ -7,7 +7,7 @@ tags: []
 
 # redaktorius
 
-Objektų skaičius: 12. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 11. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -17,7 +17,6 @@ Objektų skaičius: 12. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 ### Autoriai
 - [[objektai/autoriai/A. Šapoka]]
 - [[objektai/autoriai/Dr. J. Šliūpas]]
-- [[objektai/autoriai/Dr. Jonas Basanavičius]]
 - [[objektai/autoriai/Jonas Basanavičius]]
 - [[objektai/autoriai/Jonas Šliūpas]]
 - [[objektai/autoriai/Kuršaitis]]

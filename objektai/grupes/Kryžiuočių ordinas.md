@@ -236,6 +236,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 
 ## Ryšiai
 ### Laikotarpiai
+- [[laikotarpiai/XII amžius]]
+- [[laikotarpiai/XIII amžius]]
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
 
