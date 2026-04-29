@@ -23,8 +23,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
-tags:
-  - unija
+tags: []
 ---
 # Personalinė unija
 
@@ -45,17 +44,10 @@ Sąvoka apibūdina tokią politinę jungtį, kurioje valstybės išlieka atskiro
 Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko susitarimo interpretacijos iki Liublino unijos pobūdžio.
 
 ## Teiginiai
-- t-001
-  teiginys: Personalinė unija reiškia atskiras valstybes, valdomas vieno valdovo.
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-002
   teiginys: Melniko susitarimu buvo siekta vienos jungtinės valstybės, tačiau praktiškai liko tik personalinė unija.
   pagrindžia:
     - c-002
-    - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-003
@@ -73,20 +65,6 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: Pateikiamas tiesioginis personalinės unijos apibrėžimas.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu šis susita-
-    rimas pasiliko tik popieriuje: Lietuva ir Lenkija, kaip ir anksčiau, liko atskiros valstybės, tik vieno valdovo valdomos (personalinė unija).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-    - t-002
 - c-002
   santrauka: Primenamas vienos jungtinės valstybės sumanymas, su kuriuo lyginama personalinė unija.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -122,7 +100,8 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
   santrauka: Aptariama riba tarp personalinės ir realinės unijos.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Abidvi pusės sutiko turėti bendrą valdovą; jos skyrėsi tik dėl forma-
+    Abidvi
+    pusės sutiko turėti bendrą valdovą; jos skyrėsi tik dėl forma-
     lumų, iš kurių turėjo išeiti, ar jos liks tik personalinėje unijoje
     ar pereis į realinę.
   citata_rodoma: ""
@@ -154,7 +133,6 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
-- [[temos/unija]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]

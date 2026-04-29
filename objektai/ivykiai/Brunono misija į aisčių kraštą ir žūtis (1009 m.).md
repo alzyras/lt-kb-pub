@@ -59,6 +59,8 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
 - t-002
   teiginys: 1009 m. vasario 14 d. Brunonas buvo suimtas ir nužudytas su visais palydovais.
   pagrindžia:
+    - c-005
+    - c-004
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -99,6 +101,38 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: Brunono misija į aisčių kraštą ir žūtis (1009 m.) papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tikra yra, kad Lietuvos vardą («Litua») pirmieji paminėjo
+    Annales Quedlinburgenses, pažymėdami, kad 1009 m. prie Lietuvos
+    ir Rusijos sienos («in confinio Rusciae et Lituae ») buvo nužudytas
+    misininkas šv. Bruno su savo aštuoniolika palydovų. Pažymėjimas,
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
+- c-005
+  santrauka: Brunono misija į aisčių kraštą ir žūtis (1009 m.) papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    kad nužudymas įvykęs Lietuvos — Rusijos pasienyje (greičiausiai
+    prie Gardino — Nemuno, jotvingių žemėje), leidžia daryti išvadą,
+    jog jau XI amž. pradžioje ir Vakaruose buvo žinoma, kur prasi­
+    deda Lietuvos ribos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
+    - t-002
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

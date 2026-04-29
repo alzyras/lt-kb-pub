@@ -47,19 +47,8 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 - t-002
   teiginys: 'P. Klimas parašė _Liet. senobės bruožai_.'
   pagrindžia:
+    - c-007
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'P. Klimas parašė _Lietuvos valstybės kūrimas, 1915—1918_.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'P. Klimas parašė _Lietuvos žemės valdymo istorija_.'
-  pagrindžia:
-    - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-005
@@ -71,6 +60,7 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 - t-006
   teiginys: 'P. Klimas buvo Lietuvos Tarybos narys.'
   pagrindžia:
+    - c-008
     - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -109,37 +99,12 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: P. Klimas parašė _Lietuvos valstybės kūrimas, 1915—1918_
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    P. _Klimas,_ Lietuvos valstybės kūrimas, 1915—1918 (1918);
-  citata_rodoma: |
-    P. Klimas, Lietuvos valstybės kūrimas, 1915—1918 (1918);
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: P. Klimas parašė _Lietuvos žemės valdymo istorija_
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    _P. Klimas,_ Lietuvos žemės valdymo istorija (1919, 1920) ;
-  citata_rodoma: |
-    P. Klimas, Lietuvos žemės valdymo istorija (1919, 1920);
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
 - c-005
   santrauka: P. Klimas buvo Vykdomojo Komiteto biuro narys
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vykdomasis Komiteto biuras (A. Smetona, J. Šaulys, kun. Stankevičius, M. Biržiška ir
+    Vykdomasis Komiteto
+    biuras (A. Smetona, J. Šaulys, kun. Stankevičius, M. Biržiška ir
     P. Klimas) po to išsirūpino leidimą sušaukti platesnei konferen-
     cijai.
   citata_rodoma: |
@@ -169,6 +134,40 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
   patikimumo_pagrindimas: ""
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
+    - t-006
+- c-007
+  santrauka: P. Klimas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Klimas, P.: _Lietuvių senobės
+    bruožai,_ Vilnius 1919 (gausi medžiaga, ir išvados dar gera dalimi nėra pa­
+    senusios). — Klimas, P. keliuose egz. mašinraštyje 1939 m. paruošė savo
+    numatytos daugiatomės Lietuvių tautos istorijos I tomą (iki 1200 m.),
+    kurio, deja, neteko panaudoti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
+- c-008
+  santrauka: P. Klimas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Klimas, P. : _Lietuva,
+    jos gyventojai ir sienos,_ Kaunas 1917. — (”) _Lietuvos sienos rytuose.
+    Memorialas Lietuvos taikos derybose su rusais 1920. V. 21.,_ Švietimo
+    Darbas, nr. 1-2, 3-4, 7-8, 1921. — (”) _Mūsų kovos del Vilniaus,_ I, Vil­
+    nius 1923.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-006
+    - t-002
     - t-006
 
 ## Ryšiai

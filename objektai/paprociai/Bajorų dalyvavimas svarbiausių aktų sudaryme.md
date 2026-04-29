@@ -11,6 +11,7 @@ patikimumas: 'vidutinis'
 tags:
   - paprotys
   - valdovas
+  - sutartis
 ---
 # Bajorų dalyvavimas svarbiausių aktų sudaryme
 

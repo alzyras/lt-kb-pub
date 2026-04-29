@@ -49,12 +49,6 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Livonijos ordinas įvardijamas kaip Nemuną pasiekusi ir iš Žemaitijos išvesta ordino šaka'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-003
   teiginys: 'Livonijos ordinas įvardijamas kaip savita ordino šaka, susijusi su Lietuvos pasienio konfliktais'
   pagrindžia:
@@ -71,12 +65,6 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   teiginys: 'Livonijos ordino šaka yra paliaubų sutarties partnerė ir kaip Tanenbergo mūšyje nedalyvavusi jėga'
   pagrindžia:
     - c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Livonijos ordinas įvardijamas kaip Lietuvos sąjungininkas kare su Maskva'
-  pagrindžia:
-    - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-007
@@ -106,18 +94,6 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-- c-002
-  santrauka: Livonijos ordinas įvardijamas kaip Nemuną pasiekusi ir iš Žemaitijos išvesta ordino šaka
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Anksčiau Nemuną buvo pasiekęs iš Kuršo ir Livonijos ordinas.
-    Bet dabar, po Durbės pralaimėjimo, jis buvo išvytas iš visos Žemai-
-    tijos.
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 - c-003
   santrauka: Livonijos ordinas įvardijamas kaip savita ordino šaka, susijusi su Lietuvos pasienio konfliktais
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -134,7 +110,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   santrauka: Livonijos ordino šakos magistras rodomas kaip Andriaus suverenas, o Andrius kaip jo vasalas
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jo vyriausias brolis Andrius, kuris tuojau po tėvo mirties buvo pra-
+    Jo
+    vyriausias brolis Andrius, kuris tuojau po tėvo mirties buvo pra-
     dėjęs organizuoti sąjungą prieš Jogailą, jau buvo grįžęs į savo
     valdomąjį Polocką, tačiau visai neketino klausyti Jogailos. Jis
     buvo pasidavęs Livonijos ordino šakos magistrui ir valdė Po-
@@ -156,17 +133,6 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
-- c-006
-  santrauka: Livonijos ordinas įvardijamas kaip Lietuvos sąjungininkas kare su Maskva
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvos sąjungininkai buvo tik Livonijos ordino magistras Valteris Pletenbergas ir Užvolgio
-    totorių chanas Šach-Achmetas.
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
 - c-007
   santrauka: Livonijos ordinas įvardijamas kaip atskira kryžiuočių ordino šaka, turinti savarankišką politiką
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -200,7 +166,6 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XVI amžius]]
 
 ### Susiję objektai
 - [[objektai/grupes/Užvolgio orda]]

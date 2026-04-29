@@ -42,12 +42,16 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - t-003
   teiginys: 'Lietuviai yra aktyviai puolantys kryžiuočius ir griaunantys jų pilis'
   pagrindžia:
+    - c-010
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-004
   teiginys: 'Lietuviai yra naudojantys pasalas ir atsakomąsias atakas prieš kryžiuočius'
   pagrindžia:
+    - c-015
+    - c-014
+    - c-009
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -60,6 +64,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - t-006
   teiginys: 'Lietuviai pateikia savą unijos projektą ir reikalauja atskiro valdovo pakėlimo Vilniuje'
   pagrindžia:
+    - c-013
     - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -183,7 +188,91 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+- c-009
+  santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Pagonys lietuviai tačiau kovojo prieš
+    totorius savo ruožtu be jokių raginimų ir be jokios pagalbos iš šono,
+    net tuo metu, kai iš vakarų prieš juos buvo organizuojami kryžiaus
+    karo žygiai^148. Lietuviai ne tik apgynė savo sodybines sritis, išmė­
+    tytas tarp didžiųjų miškų masyvų, bet dar išvystė aktyvią ekspan­
+    siją į rytus, atnešdami savo valstybingumą į eilę rytų slavų žemių,
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-004
+- c-010
+  santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tuoj po Durbės pergalės, naudodamiesi kryžiuočių silpna padė­
+    timi, lietuviai tęsė savo žygius Livonijon. Bendradarbiaudami su
+    kuršiais, šiems jie padėjo užimti pilis į vakarus nuo Ventos, kur atsi­
+    laikė tik Kuldirga ir Klaipėda.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-003
+    - t-004
+    - t-003
+- c-013
+  santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ne vien tik Romanaičiai pajuto energingo Lietuvos valdovo
+    ranką. Lietuviai vėl stipriai pradėjo pulti Livonijos kryžiuočius ir
+    ėmė ruošti, kaip niekada iki tol, į _Lenkiją_ intensyvius karo žygius.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-006
+- c-014
+  santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Šitas «bėgimas»
+    tačiau galėjo reikšti iš totorių paimtą taktiką — apsimesti bėgti,
+    kad būtų galima patraukti priešą ir suardyti jo eiles.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-004
+- c-015
+  santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vytauto vadovaujami
+    Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,
+    sugrįžo į kovos lauką.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-004
+    - t-006
+    - t-004
+    - t-004
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+
 ### Susiję objektai
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/egzekucija]]

@@ -23,6 +23,8 @@ tags:
 - t-001
   teiginys: '„Didžioji Lietuvos kunigaikštystė ir Lenkų karalystė yra vienas nedalomas ir vienalytis kūnas, o taip pat ne skirtinga, bet viena bendra valstybė, kuri iš dviejų valstybių ir dviejų tautų suėjo ir susijungė į vieną visuomenę".'
   pagrindžia:
+    - c-005
+    - c-003
     - c-001
 - t-002
   teiginys: 'Lietuviams reikalaujant, Lietuvai buvo paliktas nepaliestas visas valdžios aparatas (.. 10 ir 17).'
@@ -51,6 +53,8 @@ tags:
   citata_originali: |
     Tokie buvo unijos akto nuostatai, įtraukti į jį, lenkams
     reikalaujant. Lietuviams reikalaujant, Lietuvai buvo paliktas
+
+
     nepaliestas visas valdžios aparatas (§§ 10 ir 17). Tuo būdu jai
     liko atskiri savi ministeriai, savi valstybiniai kanclerių saugo-
     mieji antspaudai, be kurių valdovas negalėjo išleisti jokio Lie-
@@ -65,6 +69,36 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: Didžioji Lietuvos kunigaikštystė papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vesdamas didžiosios Lietuvos kunigaikštijos interesų apspręs­
+    tą bažnytinę politiką, Algirdas, nors pats ir būdamas pagonis,
+    rūpinosi ir budėjo, kad jo pavaldiniai ortodoksai nebūtų _priklau­
+    somi_ nuo priešo žemėje sėdinčio metropolito.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+    - t-001
+- c-005
+  santrauka: Didžioji Lietuvos kunigaikštystė papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Didžioji Lietuvos kunigaikštija ilgiau nebegalėjo būti
+    pagonio valdoma.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

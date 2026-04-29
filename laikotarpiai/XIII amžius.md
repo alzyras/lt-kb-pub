@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 13.
+Objektų skaičius: 15.
 
 ## Kaip naudoti
 
@@ -21,9 +21,13 @@ Objektų skaičius: 13.
 ### Asmenys
 - [[objektai/asmenys/Mindaugas]]
 
+### Grupės
+- [[objektai/grupes/Kalavijuočių ordinas]]
+
 ### Papročiai
 - [[objektai/paprociai/Nuotakos išpirkimas ir Krienos mokestis]]
 - [[objektai/paprociai/Taikos patvirtinimas sudaužiant delnus]]
+- [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]
 
 ### Posakiai
 - [[objektai/posakiai/din vater was ein kunie grôz]]

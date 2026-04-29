@@ -239,3 +239,7 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/valdovas]]
+
+### Susiję objektai
+- [[objektai/asmenys/Kaributas]]
+- [[objektai/asmenys/Lengvenis]]

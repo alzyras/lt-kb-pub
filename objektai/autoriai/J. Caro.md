@@ -20,6 +20,7 @@ J. Caro, Geschichte Polens, II—VI (1840—1869);.
 - t-001
   teiginys: 'J. Caro, Geschichte Polens, II—VI (1840—1869);.'
   pagrindžia:
+    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
@@ -34,4 +35,17 @@ J. Caro, Geschichte Polens, II—VI (1840—1869);.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
+    - t-001
+- c-002
+  santrauka: J. Caro papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    J.** Caro **:** **_Geschichte Polens,_** **III, 1869, 211** p.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
     - t-001

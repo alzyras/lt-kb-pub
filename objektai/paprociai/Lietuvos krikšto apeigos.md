@@ -10,6 +10,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ritualas
+  - krikštas
 ---
 # Lietuvos krikšto apeigos
 
@@ -30,6 +31,7 @@ Lietuvos krikštas buvo vykdomas kaip aiškiai suorganizuota apeiginė ir politi
 - t-003
   teiginys: 'Gedimino sostinėje pirmiausia buvo krikštijami bajorai.'
   pagrindžia:
+    - c-008
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
@@ -168,11 +170,32 @@ Lietuvos krikštas buvo vykdomas kaip aiškiai suorganizuota apeiginė ir politi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
+- c-008
+  santrauka: Lietuvos krikšto apeigos papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Pavaldiniams pradžioje labiau reiškė ne tiek pats Naujojo
+    mokslo turinys, kiek didžiojo kunigaikščio autoritetas, įsakąs mesti
+    senus tikėjimus ir prietarus. Savo valdovui paklusę bajorai turėjo
+    prisiimti tokį pat tikėjimą, kurį jis naujai pradėjo išpažinti. Šito­
+    kioje dvasioje reikia suprasti Jogailos atliktą katekizminių tiesų
+    aiškinimą. Po 25 metų panašiai jiedu su Vytautu elgėsi Žemaičiuo­
+    se. Norį gyventi vienybėje su savo valdovu, turėjo klausyti jo
+    žodžio.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-003
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/religinė-praktika]]
 - [[temos/ritualas]]
+- [[temos/krikštas]]
 
 ### Susiję objektai
 - [[objektai/ivykiai/Lietuvos krikštas]]

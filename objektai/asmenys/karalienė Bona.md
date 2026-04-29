@@ -21,6 +21,7 @@ Tada Zigmanto Augusto motina, karalienė Bona, altoriaus vietoje buvo pastačius
 - t-001
   teiginys: 'Tada Zigmanto Augusto motina, karalienė Bona, altoriaus vietoje buvo pastačiusi marmurinį paminklą;.'
   pagrindžia:
+    - c-003
     - c-001
 - t-002
   teiginys: 'tai marmurinė lenta su atkartotu karalienės Bonos užrašu ir nauju prierašu.'
@@ -33,7 +34,7 @@ Tada Zigmanto Augusto motina, karalienė Bona, altoriaus vietoje buvo pastačius
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tada Zigmanto Augusto motina, ka-
-      ralienė Bona, altoriaus vietoje buvo pastačiusi marmurinį paminklą;
+    ralienė Bona, altoriaus vietoje buvo pastačiusi marmurinį paminklą;
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -45,8 +46,9 @@ Tada Zigmanto Augusto motina, karalienė Bona, altoriaus vietoje buvo pastačius
   santrauka: 'tai marmurinė lenta su atkartotu karalienės Bonos užrašu ir nauju prierašu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    tai marmurinė lenta su atkartotu karalienės Bonos užrašu ir nauju prie-
-      rašu.
+    tai
+    marmurinė lenta su atkartotu karalienės Bonos užrašu ir nauju prie-
+    rašu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -54,3 +56,17 @@ Tada Zigmanto Augusto motina, karalienė Bona, altoriaus vietoje buvo pastačius
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: Karalienė Bona papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Karalienė Bona Vilniaus katedros bažnyčioje buvo pastačiusi
+    marmurinį Vytautui paminklą, kurį dar XVII a. matė jėzuitų isto­
+    rikas V. A. Kojalavičius.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001

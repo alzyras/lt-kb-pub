@@ -61,6 +61,9 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
 - t-004
   teiginys: '1323 m. Gediminas aiškino popiežiui, kad Lietuva būtų krikštijusis, jei ne ordino grobuoniška politika.'
   pagrindžia:
+    - c-020
+    - c-018
+    - c-017
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -79,6 +82,7 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
 - t-007
   teiginys: 'Gediminas mirė apie 1341 m. ir paliko septynis sūnus.'
   pagrindžia:
+    - c-019
     - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -392,6 +396,64 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-017
+- c-017
+  santrauka: Gediminas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Laiškų pagrindinė
+    mintis buvo ta, jog Gediminas, pripažindamas popiežiaus autori­
+    tetą, žadėjo krikštytis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-004
+- c-018
+  santrauka: Gediminas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Gedimino palaikomi ryšiai su Ryga ir arkivyskupu galėjo Lie­
+    tuvai būti posūkiu, priimant krikštą iš Rygos, juo labiau, kad
+    plėsdami su Lietuva naudingus prekybinius santykius, rygiečiai
+    butų nusiplovę priekaištą, kad jie turi bendrų reikalų su nekrikš­
+    tais.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-004
+- c-019
+  santrauka: Gediminas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Gediminas ir jo sūnus Algirdas rytuose daugiausia turėjo
+    pasisekimo. Tvirtindamasis vis tolyn plotuose į rytus nuo Aukš­
+    taičiu, Gediminas užėmė sritis apie Drucką ir Minsko kunigaikš­
+    tiją.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-007
+- c-020
+  santrauka: Gediminas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jau 1317 m. Gediminas iš popiežiaus Jono XXII buvo gavęs
+    raginimą krikštytis10 11.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai

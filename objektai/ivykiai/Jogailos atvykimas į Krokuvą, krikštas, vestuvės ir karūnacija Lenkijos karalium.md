@@ -13,6 +13,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karūnacija
+  - krikštas
 ---
 # Jogailos atvykimas į Krokuvą, krikštas, vestuvės ir karūnacija Lenkijos karalium
 
@@ -101,3 +103,8 @@ Ivinskis tiksliai nurodo krikšto, santuokos ir vainikavimo datas, taip pat paž
   pagrindžia:
     - t-003
     - t-004
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/karūnacija]]
+- [[temos/krikštas]]

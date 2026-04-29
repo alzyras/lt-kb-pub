@@ -21,6 +21,7 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
 - t-001
   teiginys: 'Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (1613 m.).'
   pagrindžia:
+    - c-003
     - c-001
 - t-002
   teiginys: '(iš tikrųjų Romanovų vyriškoji linija išmirė jau XVIII amžiuje, tačiau carai tebesivadino Romanovais iki pat galo).'
@@ -57,6 +58,24 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: Romanovų dinastija papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei
+    garsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per
+    Dimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,—
+    pagaliau nei Romanovų dinastijos pradžia (1613) nebeturėjo reikš­
+    mingesnių atliepimų pamažu savo tarptautinio svorio netenkančioje
+    «abiejų tautų » respublikoje.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

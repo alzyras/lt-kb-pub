@@ -47,6 +47,8 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
 - t-001
   teiginys: '1382 m. Jogaila sudarė sutartį su kryžiuočiais, atidavė jiems Žemaičius iki Dubysos ir pasižadėjo krikštytis.'
   pagrindžia:
+    - c-021
+    - c-013
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -65,12 +67,16 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
 - t-004
   teiginys: '1386 m. Jogaila atvyko į Krokuvą ir ten buvo pakrikštytas.'
   pagrindžia:
+    - c-020
+    - c-014
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-005
   teiginys: 'Po krikšto Jogaila gavo Vladislovo vardą, vedė Jadvygą ir buvo karūnuotas Lenkijos karaliumi.'
   pagrindžia:
+    - c-019
+    - c-015
     - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -107,12 +113,15 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
 - t-011
   teiginys: '1409 m. Vytautas ir Jogaila sutarė bendrą karinį planą prieš ordiną.'
   pagrindžia:
+    - c-016
     - c-011
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-012
   teiginys: 'Jogaila iš pradžių pritarė Vytauto vainikavimuisi, bet vėliau jam kliudė.'
   pagrindžia:
+    - c-018
+    - c-017
     - c-012
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
@@ -315,6 +324,154 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-012
+- c-013
+  santrauka: Jogaila papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Suvažiavus gausiam
+    kryžiuočių aukštų pareigūnų būriui, kuriam vadovavo Prūsų ordino
+    maršalas Konradas von Wallenrod ir Livonijos magistras Vilhel­
+    mas von Vrimersheim, Dubysos žiočių saloje 1382.X.31 d., po šešių
+    dienų derybų buvo surašytos trys sutartys^19. Viena jų Jogaila su
+    Skirgaila pasižadėjo ketverių metų būvyje pasikrikštyti su visu
+    kraštu.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+- c-014
+  santrauka: Jogaila papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    1386.II.14 d. nuvykęs Krokuvon, rytojaus dieną Jogaila Gniez­
+    no arkivyskupo Bodzantos buvo pakrikštytas Vladislovo vardu ir
+    į lenkų istoriją įėjo kaip Władysław II Jagiełło. Krokuvos vysku­
+    pas Jonas Radlica pakrikštijo būsimąjį karalių atlydėjusius brolius
+    (^9) **Plg. G. Rhode : RhOP, I, 298-304 p.**
+
+
+    ```
+    KRIAVO AKTAS IR LIETUVOS KRIKŠTAS 287
+    ```
+    (Skirgailą, Lengvenį), bajorus
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-004
+- c-015
+  santrauka: Jogaila papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Pirmasis Italijon vykstąs Jogailos pasiuntinys (Trąba) Habs­
+    burgų žemėse buvo įmestas kalėjiman. Kai Poznanės Dobrogostas
+    pasiekė Romą ir pranešė (1388), kas Lietuvoje buvo atlikta, pra­
+    džioje jis gavo atsargius įgaliojimus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-005
+- c-016
+  santrauka: Jogaila papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Pagaliau ir Vilnių iki pat mirties karalius užleido Vytau­
+    tui. Jis prašė Romą, kaip matyti iš Bonifaco IX bulės, paremti
+    žygį prieš « bedieviškas gaujas totorių, pagonių, turkų ir kitu bar­
+    barų bei tautų»^25.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-011
+- c-017
+  santrauka: Jogaila papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jogaila, kuris atnaujino Kališo taiką (iš 1343) ir atsisakė Pamario,
+    Kulmo, Miclialovos ir kitu su ordinu ginčijamų pasienio sričių,
+    patvirtino Vytauto įgaliotinių sutartį. Vėliau ją patvirtino ir Vy­
+    tautas^30.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-012
+- c-018
+  santrauka: Jogaila papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vytautui užgaunanti pasirodė Jogailos laikysena,
+    kuris, pradžioje pritaręs Vytauto vainikavimuisi^11 , paskui atsistojo
+    skersai kelio
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-012
+- c-019
+  santrauka: Jogaila papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jogailos politikos nauja kryptis, t. y. jo savarankiška laikysena
+    ir užsispyrimas nevykti į Skirsnemunę, gali būti tuo paaiškintas,
+    kad jis jau 1383 m. pavasarį bus žinojęs apie projektus kviesti jį
+    Lenkijos karaliumi ir sutuokti su Jadvyga.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-005
+- c-020
+  santrauka: Jogaila papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Išėjęs iš politinės krizės, Jogaila tuojau ėmė vykdyti vieną
+    reikšmingą Kriavo pažadų punktą — 1386 m. gale jis vyko Lietuvos
+    krikštyti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-004
+- c-021
+  santrauka: Jogaila papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kai Skirgailai paveldimai buvo atiduoti Kęstutaičio Trakai, šis
+    Volinijai (Luckui) valdyti iš karaliaus negavo jokio rašto. Tai buvo
+    paskutinis lašas į sklidiną Vytauto nepasitenkinimo taurę. Jo paties
+    garsiajame skunde prieš Jogailą ir Skirgailą yra pasakyta, kad jis
+    buvęs laikomas belaisviu «vergo » padėtyje^11. Dalis jo šalininkų
+    buvo sumesti į kalėjimą. Iš Vytauto brolio Tautvilos buvo atimtas
+    Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai.
+    Šis nuo 1382 m. rodė ištikimybę savo švogeriui Vytautui (juodu
+    buvo vedę kunigaikštytes seseris Sudimantaites).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai

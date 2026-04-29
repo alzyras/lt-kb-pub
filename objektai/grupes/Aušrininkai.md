@@ -35,9 +35,9 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tokį nusistatymą jau su kaupu buvo vykdęs mūsų pirmasis
-    ir po savo mirties išpopuliarėjęs Lietuvos istorikas Simonas Dau-
+    ir po savo mirties išpopuliarėjęs Lietuvos istorikas Simonas Dau­
     kantas. Per eilę dešimtmečių iki pat nepriklausomybės metų tuo
-    šūkiu pasekė Lietuvoje ir mūsų romantiškai nusiteikusieji aušrinin-
+    šūkiu pasekė Lietuvoje ir mūsų romantiškai nusiteikusieji aušrinin­
     kai ir jų tautinio palikimo tęsėjai.
   citata_rodoma: ''
   teiginio_tipas: vertinimas
@@ -46,4 +46,6 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002
+    - t-002
     - t-002

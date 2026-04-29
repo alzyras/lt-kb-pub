@@ -164,3 +164,10 @@ Ivinskis išskiria ir imperatoriaus parengtus vainikus, ir pasienyje sulaikytą 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/karūnacija]]
+
+### Laikotarpiai
+- [[laikotarpiai/XV amžius]]

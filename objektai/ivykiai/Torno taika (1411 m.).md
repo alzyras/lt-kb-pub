@@ -15,6 +15,7 @@ tags:
   - ivykis
   - karas
   - ordinas
+  - sutartis
 ---
 # Torno taika (1411 m.)
 
@@ -98,3 +99,7 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XV amžius]]

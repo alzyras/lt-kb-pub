@@ -30,11 +30,11 @@ Prūsų kryžiuočiai padovanojo daug drabužių Žemaičių galingiesiems.
   santrauka: Prūsų kryžiuočiai padovanojo daug drabužių Žemaičių galingiesiems.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    ... slaptai sužinojome ..., kad broliai Prū-
+    ... slaptai sužinojome ..., kad broliai Prū­
     sijos kryžiuočiai padovanojo daug drabužių ir gėrybių Žemaičių
     galingiesiems su ta sąlyga, kad jie sukiltų prieš karalių, sakydami,
-    jei jis priims tikėjimą, jie išnaikinsią jį, jo sūnus ir visus jo šali-
-    ninkus ir išvysią drauge su teutonų ordino broliais iš savo kara-
+    jei jis priims tikėjimą, jie išnaikinsią jį, jo sūnus ir visus jo šali­
+    ninkus ir išvysią drauge su teutonų ordino broliais iš savo kara­
     lystės ir iš savo pašaknų visus išrausią.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -42,4 +42,6 @@ Prūsų kryžiuočiai padovanojo daug drabužių Žemaičių galingiesiems.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+    - t-001
+    - t-001
     - t-001

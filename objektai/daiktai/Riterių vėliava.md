@@ -37,7 +37,8 @@ Aizkrauklės mūšyje pagonims atiteko riterių vėliava. Vėliavos netekimas la
   santrauka: Aizkrauklės mūšyje pagonims atiteko riterių vėliava.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Iš to, ką kronistas pasakė, matyti, jog tos kautynės Livonijoje buvo pergy-
+    Iš to, ką
+    kronistas pasakė, matyti, jog tos kautynės Livonijoje buvo pergy­
     ventos, kaip «didelis smūgis krikščionybei», ypač kai «krito » ir
     pagonims atiteko riterių vėliava 240 *.
   citata_rodoma: ""
@@ -61,6 +62,7 @@ Aizkrauklės mūšyje pagonims atiteko riterių vėliava. Vėliavos netekimas la
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

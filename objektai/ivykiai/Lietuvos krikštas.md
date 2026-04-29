@@ -12,6 +12,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - krikštas
+  - unija
 ---
 # Lietuvos krikštas
 
@@ -136,6 +137,7 @@ Ivinskio periodizacijoje 1385–1387 m. Kriavo aktas ir Lietuvos krikštas iške
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/krikštas]]
+- [[temos/unija]]
 
 ### Susiję objektai
 - [[objektai/paprociai/Lietuvos krikšto apeigos]]

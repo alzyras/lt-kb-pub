@@ -14,6 +14,7 @@ tags:
   - ivykis
   - pilis
   - valdovas
+  - sukilimas
 ---
 # Žemaičių sukilimas 1409 m
 
@@ -179,3 +180,4 @@ Ivinskis sukilimo pradžią sieja su pasienio uždarymu, prekybos draudimais, Sk
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/valdovas]]
+- [[temos/sukilimas]]

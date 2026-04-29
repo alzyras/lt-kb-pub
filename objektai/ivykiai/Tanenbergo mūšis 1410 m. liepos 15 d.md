@@ -52,6 +52,7 @@ Mūšis įvyko 1410 m. liepos 15 d. ordino žemėje tarp Tannenbergo ir Grunwald
 - t-005
   teiginys: 'Žalgirio kautynės baigėsi visišku ordino kariuomenės sutriuškinimu ir didžiojo magistro žūtimi.'
   pagrindžia:
+    - c-006
     - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
@@ -154,10 +155,28 @@ Mūšis įvyko 1410 m. liepos 15 d. ordino žemėje tarp Tannenbergo ir Grunwald
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: Žalgirio mūšis papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    R. J a s a s : _Didysis prūsų sukilimas 1260-1274 m._ (1959), M. J u-
+    čas: _Žalgirio mūšis_ (1959)^106 , R. Varakauskas: _Pilėnų_
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-005
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/mūšis]]
+- [[temos/sukilimas]]
+
+### Laikotarpiai
+- [[laikotarpiai/XV amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Vytautas]]

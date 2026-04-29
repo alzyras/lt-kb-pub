@@ -11,6 +11,7 @@ patikimumas: 'vidutinis'
 tags:
   - ivykis
   - valdovas
+  - seimas
 ---
 # Lucko suvažiavimas (1429 m.)
 
@@ -86,6 +87,9 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/valdovas]]
+
+### Laikotarpiai
+- [[laikotarpiai/XV amžius]]
 
 ### Susiję objektai
 - [[objektai/vietos/Luckas]]

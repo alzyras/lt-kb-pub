@@ -35,7 +35,12 @@ Krymo chanatas šiame šaltinyje rodomas kaip Maskvos sąjungininkas prieš Liet
   santrauka: Krymo chanatas pateikiamas kaip Maskvos sąjungininkas ir Turkijos vasalas.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Gal būtų dar ir Kazimierui Jogailaičiui pasisekę pastoviau išlaikyti energingojo dėdės laimėjimus prie Juodosios jūros, jeigu didysis Maskvos kunigaikštis (Jonas III) nebūtų sudaręs prieš Lietuvą sąjungos su Krymo chanato piktais totoriais, kurie nuo 1478 m. dar pasidarė ir Turkijos vasalais.
+    Gal būtų dar ir Kazimierui
+    Jogailaičiui pasisekę pastoviau išlaikyti energingojo dėdės laimėji­
+    mus prie Juodosios jūros, jeigu didysis Maskvos kunigaikštis (Jonas
+    III) nebūtų sudaręs prieš Lietuvą sąjungos su Krymo chanato
+    piktais totoriais, kurie nuo 1478 m. dar pasidarė ir Turkijos va­
+    salais.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -43,4 +48,6 @@ Krymo chanatas šiame šaltinyje rodomas kaip Maskvos sąjungininkas prieš Liet
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002
+    - t-002
     - t-002

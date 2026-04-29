@@ -104,3 +104,7 @@ Ivinskis mirtį susieja su 1430 m. spalio 17 d. kelione iš Vilniaus į Trakus, 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XV amžius]]

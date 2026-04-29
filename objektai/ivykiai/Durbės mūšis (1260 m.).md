@@ -78,7 +78,8 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
   santrauka: Parodo ordino pasirengimą žygiui ir žemaičių veiksmą Kurše prieš pat mūšį.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Ordinas ketino suruošti į Žemaičius didelį žygį ir išgriauti Karšuvą.
+    Ordinas
+    ketino suruošti į Žemaičius didelį žygį ir išgriauti Karšuvą.
     Livonijos ordinui atėjo į pagalbą Prūsų ordinas ir daug svečių
     iš Europos. Bet visai priešo kariuomenei traukiant į Karšuvą,
     žemaičiai nėjo jos ginti, o įsibrovė naikinti ordino valdomojo

@@ -26,6 +26,7 @@ Dlugošas ir karalaičiai. Iki mūsų laikų yra likę tik XV amž. gale daryti 
 - t-002
   teiginys: 'Iki mūsų laikų yra likę tik XV amž. gale daryti jų piešiniai, kuriuos parūpino lenkų istorikas Dlugošas, rašydamas apie Tanenbergo mūšį.'
   pagrindžia:
+    - c-003
     - c-002
 
 ## Reikšmingi paminėjimai
@@ -53,6 +54,22 @@ Dlugošas ir karalaičiai. Iki mūsų laikų yra likę tik XV amž. gale daryti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: J. Dlugošas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Nors kronikininkas J. Dlugošas, ilgametis kanceliarijos viršinin­
+    kas, mus gana tendencingai informuoja apie to laiko Vytauto ir
+    Lenkijos santykius, tačiau nėra abejonės, jog Lenkijoje labai buvo
+    susirūpinta iškilusia Vytauto galybe ir ieškota progos užakcentuoti
+    Didž. Lietuvos kunigaikštijos priklausomybę nuo Karūnos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
 

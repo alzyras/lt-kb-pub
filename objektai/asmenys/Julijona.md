@@ -31,6 +31,7 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
 - t-003
   teiginys: 'Julijona buvo Tverės kunigaikščio Aleksandro duktė ir Algirdo žmona.'
   pagrindžia:
+    - c-006
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
@@ -124,3 +125,18 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-005
+- c-006
+  santrauka: Julijona papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tada Vytautas dar liepęs notarui pridėti kitą šimtą, ir kol žmona
+    nesiliovusi pastabas dariusi, buvę išmokėta 800 markių. Tad Juli­
+    jona pamačiusi, kad ji tik savo tylėjimu tegalėsianti užkirsti kelią
+    Vytauto išlaidumui ir švaistymuisi^2.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-003

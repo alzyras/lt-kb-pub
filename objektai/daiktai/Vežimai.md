@@ -36,8 +36,8 @@ Kautynių metu karalius buvo saugomas tarp vežimų. Vytautas į Trakus buvo nuv
   santrauka: Kautynių metu karalius buvo saugomas tarp vežimų.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Pagal kronikininką, karalius formaliai skai-
-    tėsi vyriausiuoju vadu. Jis šventino riterius, priėmė ordino pasiun-
+    Pagal kronikininką, karalius formaliai skai­
+    tėsi vyriausiuoju vadu. Jis šventino riterius, priėmė ordino pasiun­
     tinius, o pačių kautynių metu 60-ties raitelių buvo saugojamas
     «tarp vežimų ir palapinių »^17. Esą, karalius iš tolo, šaukdamas
     iki užkimimo, karius skatinęs kovai^18.
@@ -70,6 +70,7 @@ Kautynių metu karalius buvo saugomas tarp vežimų. Vytautas į Trakus buvo nuv
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

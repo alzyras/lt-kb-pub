@@ -67,13 +67,6 @@ Terminas vartojamas tiek aiškinamajame pasakojime, tiek cituojamame politiniame
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: Ketverių metų seimo reformose liberum veto buvo panaikintas.
-  pagrindžia:
-    - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Pateikiamas sąvokos paaiškinimas ir jos padarinių aprašymas.
@@ -81,6 +74,8 @@ Terminas vartojamas tiek aiškinamajame pasakojime, tiek cituojamame politiniame
   citata_originali: |
     Tatai vadinosi _liberum veto,_ t. y. laisvojo
     pasipriešinimo teisė. Dėl jos daugybė seimų turėjo išsiskirstyti,
+
+
     nieko nenuveikę.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -126,23 +121,6 @@ Terminas vartojamas tiek aiškinamajame pasakojime, tiek cituojamame politiniame
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-- c-004
-  santrauka: Reformų metu aiškiai konstatuojamas liberum veto panaikinimas.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pirmiausia buvo
-    panaikintas liberum ve-
-    to. Nustatyta, kad viskas sei-
-    muose ir seimeliuose turi būti
-    sprendžiama balsų dauguma.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-
 ## Šaltiniai ir įrodymai
 
 ## Pastabos
