@@ -24,7 +24,6 @@ datos:
 patikimumas: 'aukštas'
 tags:
   - grupe
-  - sukilimas
 ---
 # Žemaičiai
 
@@ -72,12 +71,6 @@ tags:
   teiginys: 'Žemaičiai aiškiai siejami su visuotiniu sukilimu prieš ordino spaudimą'
   pagrindžia:
     - c-007
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Žemaičiai prisijungė prie tribunolo ir gavo 3 deputatus'
-  pagrindžia:
-    - c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-009
@@ -197,11 +190,12 @@ tags:
   santrauka: Žemaičiai yra apmokestinta ir prie darbų varoma bendruomenė, kuri raštais skundžiasi dėl priespaudos
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Ordino valdžia buvo labai žiauri. Lig šiol laisvi buvusieji žemaičiai
-    buvo varomi prie darbų ir buvo apdėti dideliais mokesčiais; keliai
-    į Aukštaičius buvo budriai saugomi. Dėl viso to žemaičiai tuojau
-    pradėjo nerimauti. Jau 1407 m. jie išsiuntinėjo raštus Europos
-    valdovams, skųsdamiesi dėl ordino žiaurumų ir priespaudos.
+    Ordino valdžia buvo labai žiauri.
+    Lig šiol laisvi buvusieji žemaičiai buvo varomi prie darbų ir buvo
+    apdėti dideliais mokesčiais; keliai į Aukštaičius buvo budriai
+    saugomi. Dėl viso to žemaičiai tuojau pradėjo nerimauti. Jau
+    1407 m. jie išsiuntinėjo raštus Europos valdovams, skųsdamiesi
+    dėl ordino žiaurumų ir priespaudos.
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
@@ -211,30 +205,18 @@ tags:
   santrauka: Žemaičiai aiškiai siejami su visuotiniu sukilimu prieš ordino spaudimą
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kitais metais krašte jau buvo pilna Vytauto atsiųstų žmonių, ir
-    bruzdėjimas ėjo atviryn. Tada ordinas ėmė reikalauti, kad Vytautas
-    atsiimtų tuos savo 250 žmonių, kuriuos turėjo gauti pagal Racionžo
-    sutartį. Bet Vytautas nesiskubino ir vis tęsė derybas. Bijodamas
-    sukilimo, ordinas pareikalavo iš žemaičių naujų įkaitų; vietoj įkaitų
-    jis sulaukė visuotinio sukilimo.
+    Kitais metais krašte jau
+    buvo pilna Vytauto atsiųstų žmonių, ir bruzdėjimas ėjo atviryn.
+    Tada ordinas ėmė reikalauti, kad Vytautas atsiimtų tuos savo
+    250 žmonių, kuriuos turėjo gauti pagal Racionžo sutartį. Bet
+    Vytautas nesiskubino ir vis tęsė derybas. Bijodamas sukilimo,
+    ordinas pareikalavo iš žemaičių naujų įkaitų; vietoj įkaitų jis
+    sulaukė visuotinio sukilimo.
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
-- c-008
-  santrauka: Žemaičiai prisijungė prie tribunolo ir gavo 3 deputatus
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iš pradžių buvo numatyta įkurti atskirą tribunolą ir Žemaičiams,
-    bet 1588 m. Žemaičiai prisijungė prie to paties tribunolo ir
-    rinkdavo į jį 3 savo deputatus. Taigi nuo to laiko jau buvo 49
-    tribunolo nariai.
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
 - c-009
   santrauka: Žemaičių karo žygiai prieš vokiečius siejami su Alemano vadovavimu.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -252,8 +234,8 @@ tags:
   santrauka: Žemaičių taikos patvirtinimo paprotys siejamas su delnų sudaužymu.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Eiliuotinė kronika įdomiai pažymi, kaip Žemaičių krašto atstovai,
-    pagal savo paprotį, taiką patvirtino su ordino magistru sudauž-
+    Eiliuotinė kronika įdomiai pažymi, kaip Žemaičių krašto atsto­
+    vai, pagal savo paprotį, taiką patvirtino su ordino magistru sudauž­
     dami delnus^157. Jeigu kas jų esąs sutartį tokiu būdu patvirtinęs,
     jos mirtinai laikosi^158. Iš tiesų, žemaičiai laikėsi savo žodžio.
   citata_rodoma: ''
@@ -269,7 +251,26 @@ tags:
   citata_originali: |
     1257 m. taiką padarius, Rygos miesto pirkliai Žemaičių
     plotą įtraukė į savo prekybinius interesus. Be pavojaus žemaičiai ir
-    rygiečiai esą galėję vieni pas kitus keliauti ir prekiauti^159.
+
+    (^152) **LReirn 4085-4158.**
+    (^153) **LReim 4086, 4101, 4107. Šitas vardas (Aliminas, Alminas) Žemaičiuose
+    ir dabar sutinkamas. Du Kaziai Alminai yra, pvz., profesoriai (vienas — vete­
+    rinarijos — nuo Platelių, kitas — kalbininkas — nuo Švėkšnos).**
+    (^154) **LReim 4505-4515. Kryžininku žygyje esą buvę 500 (LReirn 4501).**
+    (^155) **LUB I, 402.**
+    (^156) **LReim 4545-4570.**
+    (^157) **LReim 4614-4615.**
+    (^158) **« des landės site stêt also :
+    wer dem anderen tût die hant,
+    wer er über daz dritte lant,
+    der hette getrûwelichen vride
+    bie dem halse und der wide » (LReim 4616-4620).**
+
+
+    ```
+    KARALIUS MINDAUGAS IR JO PALIKIMAS 185
+    ```
+    rygiečiai esą galėję vieni pas kitus keliauti ir prekiauti^159
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -281,7 +282,8 @@ tags:
   santrauka: Žemaičiai siuntė pasiuntinius pas Mindaugą ir per Treniotą ragino grįžti pagonybėn.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Pagal Eiliuotinę Livonijos kroniką, Žemaičiai po šito laimėjimo esą siuntę savo pasiuntinius pas Mindaugą ir esą prašę žymųjį karo
+    Pagal Eiliuotinę Livonijos kroniką, Žemaičiai po šito laimėjimo
+    esą siuntę savo pasiuntinius pas Mindaugą ir esą prašę žymųjį karo
     vadą, kunigą Treniotą, kad tas jų vardu įtikintų Mindaugą vėl grįžti
     pagonybėn.^178.
   citata_rodoma: ''
@@ -295,7 +297,8 @@ tags:
   santrauka: Santykiuose su didžiuoju kunigaikščiu Žemaičiai išlaikė savarankiškumą.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Žemaičiai ir toliau išlaikė, santykiaudami su didžiuoju Lietuvos kunigaikščiu, savo savarankiškumą.
+    Žemaičiai ir toliau išlaikė, santykiaudami su didžiuoju Lie­
+    tuvos kunigaikščiu, savo savarankiškumą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -307,7 +310,9 @@ tags:
   santrauka: Kęstutis nuolat gelbėjo Žemaičius jų karuose su kryžiuočiais.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Žemaičiams jis nuolatos gelbėjo jų iš kartos į kartą einančiuose karuose, dėl kurių visa vakarinė Lietuva buvo tapusi kasmet įvairiose vietose atsiveriančia žaizda.
+    Žemaičiams jis nuolatos gelbėjo jų iš kartos į kartą einan­
+    čiuose karuose, dėl kurių visa vakarinė Lietuva buvo tapusi kasmet
+    įvairiose vietose atsiveriančia žaizda.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -319,7 +324,10 @@ tags:
   santrauka: Po Žalgirio karo derybų centre liko Žemaičių ir Sūduvos klausimas.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Bet Torno taika abiem valstybėm nedavė to, ko jos po Žalgirio galėjo tikėtis. Dar reikėjo dėti pastangų ištisus 12 metų, kol buvo sutvarkyti ginčijamų sienų ir žemių klausimai. Jų centre stovėjo Žemaičiai ir pasidalinimas didžiosios Sūduvos girios.
+    Bet Torno taika abiem valstybėm nedavė to, ko jos po Žalgirio
+    galėjo tikėtis. Dar reikėjo dėti pastangų ištisus 12 metų, kol buvo
+    sutvarkyti ginčijamų sienų ir žemių klausimai. Jų centre stovėjo
+    Žemaičiai ir pasidalinimas didžiosios Sūduvos girios.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -331,7 +339,8 @@ tags:
   santrauka: Žemaičiai didžiajai Lietuvos kunigaikštijai buvo pripažinti tik iki pusbrolių gyvos galvos.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    O Žemaičiai didžiajai Lietuvos kunigaikštijai tebuvo pripažinti iki pusbrolių gyvos galvos.
+    O Žemaičiai didžiajai Lietuvos kuni­
+    gaikštijai tebuvo pripažinti iki pusbrolių gyvos galvos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -341,11 +350,5 @@ tags:
     - t-016
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/sukilimas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Taikos patvirtinimas sudaužiant delnus]]

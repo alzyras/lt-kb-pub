@@ -37,7 +37,7 @@ Kęstutis tuojau patikėjo žinia, nes jau ir pats įtarė Jogailą. Tačiau, Vy
     Jogailą. Vytautas, kartu augęs ir draugavęs su Jogaila, nenorėjo
     tuo tikėti. Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas
     išvyko į Drohičiną. Jogaila tuo metu buvo išsiuntęs kariuomenę
-    
+
     į Polocką; čia buvo ir Skirgaila, paskirtas, po sukilusio Andriaus,
     Polocko kunigaikščiu. Todėl, Kęstučio apsiausta, Vilniaus pi-
     lis labai greit pasidavė. Kęstutis tuojau suėmė visą Jogailos šei-

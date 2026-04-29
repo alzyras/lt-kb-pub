@@ -30,7 +30,7 @@ keletą dešimčių metų Amerikos lietuviai buvo pradėję organizuoti ir savo 
     keletą dešimčių metų Amerikos lietuviai buvo pradėję organi-
       zuoti ir savo kariuomenę, kurią ketino reikalui esant perkelti
       į Lietuvą. Jos buvo organizuojamos net kelios divizijos; ka-
-    
+
       reiviai buvo mokomi, turėjo savo uniformą ir pasirodydavo
       įvairiuose paraduose ir švenčių iškilmėse. Bet dabar jau nieko
       to nebėr.

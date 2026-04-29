@@ -53,8 +53,8 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šita Jogailos sutartis, nukreipta prieš dėdę, buvo sudaryta
-      ne tiek Jogailos, kiek giminių — brolių ir motinos Julijonos —
-      pastangomis.
+    ne tiek Jogailos, kiek giminių — brolių ir motinos Julijonos —
+    pastangomis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -67,7 +67,7 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Norėdamas turėti sąjungininką prieš Maskvą,
-      jis vedė Tverės kunigaikščio seserį Julijoną.
+    jis vedė Tverės kunigaikščio seserį Julijoną.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

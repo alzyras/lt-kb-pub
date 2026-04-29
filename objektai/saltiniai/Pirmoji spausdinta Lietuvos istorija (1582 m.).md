@@ -51,7 +51,8 @@ tags:
   santrauka: Citata vienoje vietoje pateikia datą, veikalo pobūdį, kalbą, autorių ir globėją.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    XVI amž. gale (1582 m.) pasirodo pirmoji spausdinta Lietuvos istorija, len-
+    XVI
+    amž. gale (1582 m.) pasirodo pirmoji spausdinta Lietuvos istorija, len-
     kiškai parašyta (Žemaičių vyskupo Merkelio Giedraičio globojamojo)
     lenko Strikauskio.
   citata_rodoma: ''

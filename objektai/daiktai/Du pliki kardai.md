@@ -37,8 +37,9 @@ Du pliki kardai minimi kaip priešmūšinis iššūkis. Viename šaltinyje ordin
   santrauka: 'Magistras nusiuntė Vytautui ir Jogailai du plikus kardus, ragindamas nesislapstyti krūmuose.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Magistras nusiuntė Vytautui ir Jogailai du plikus kardus,
-      ragindamas nesislapstyti krūmuose. bet greičiau pradėti mūšį.
+    Magistras nusiuntė Vytautui ir
+    Jogailai du plikus kardus, ragindamas nesislapstyti krūmuose.
+    bet greičiau pradėti mūšį.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -50,7 +51,8 @@ Du pliki kardai minimi kaip priešmūšinis iššūkis. Viename šaltinyje ordin
   santrauka: Jungingenas pasiuntė po nuogą kalaviją ir siūlė pradėti mūšį.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Nesulaukdamas tačiau priešo atakos, Jungingenas atsiuntė Jogailai ir Vy-
+    Nesulauk­
+    damas tačiau priešo atakos, Jungingenas atsiuntė Jogailai ir Vy­
     tautui po nuogą kalaviją, siūlydamas « nesislapstyti krūmuose » ir
     tuoj pradėti muši »^22.
   citata_rodoma: ""

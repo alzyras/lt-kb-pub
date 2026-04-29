@@ -84,7 +84,7 @@ Jėzuitai mokydami pirmučiausia stengėsi išauklėti gerus katalikus ir paklus
   citata_originali: |
     Ypatingai buvo žiūrima, kad
     mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pa-
-    
+
     maldas. Jėzuitų kolegijose mokiniai ruošdavo religinio turinio
     vaidinimus ir disputus. Kolegijose visur buvo religinių mo-
     kinių brolijų.

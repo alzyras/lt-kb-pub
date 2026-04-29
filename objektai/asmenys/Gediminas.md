@@ -264,7 +264,8 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   santrauka: Gediminas 1324 m. Vilniuje derėjosi su totoriais.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Yra žinoma, kad Gediminas turėjo su Volgos totorių chanu Uzbeku rimtai skaitytis.
+    Yra
+    žinoma, kad Gediminas turėjo su Volgos totorių chanu Uzbeku rimtai skaitytis.
     1324 m. jis derėjosi su totoriais savo naujoje sostinėje Vilniuje.
   citata_rodoma: "Yra žinoma, kad Gediminas turėjo su Volgos totorių chanu Uzbeku rimtai skaitytis. 1324 m. jis derėjosi su totoriais savo naujoje sostinėje Vilniuje."
   teiginio_tipas: faktas
@@ -324,7 +325,8 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   santrauka: Kryžiuočių vartosenoje Gediminas vadinamas Aukštaičių karaliumi.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Kry­žiuočiai Gediminą yra pavadinę Aukštaičių karaliumi («rex de
+    Kry­
+    žiuočiai Gediminą yra pavadinę Aukštaičių karaliumi («rex de
     Owsteiten »)^17.
   citata_rodoma: "Kryžiuočiai Gediminą yra pavadinę Aukštaičių karaliumi («rex de Owsteiten »)."
   teiginio_tipas: faktas
@@ -402,3 +404,4 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
 ### Susiję objektai
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
 - [[objektai/asmenys/Kęstutis]]
+- [[objektai/vietos/Vilnius]]

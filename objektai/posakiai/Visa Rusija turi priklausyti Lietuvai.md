@@ -80,8 +80,8 @@ tags:
   santrauka: Ivinskio pasakojime formulė tiesiogiai pateikiama kaip Algirdo pareiškimas.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Bet to paties siekė ir Algirdas, kuris nedvejodamas pas-
-    kelbė, jog «savaime visa Rusia (Russia) turėtų priklausyti lietu-
+    Bet to paties siekė ir Algirdas, kuris nedvejodamas pas­
+    kelbė, jog «savaime visa Rusia (Russia) turėtų priklausyti lietu­
     viams »^14.
   citata_rodoma: ""
   teiginio_tipas: faktas

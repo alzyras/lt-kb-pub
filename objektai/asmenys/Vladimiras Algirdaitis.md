@@ -62,6 +62,4 @@ Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaik
 - [[temos/pinigai]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Andrius]]
 - [[objektai/asmenys/Kaributas]]
-- [[objektai/asmenys/Teodoras Algirdaitis]]

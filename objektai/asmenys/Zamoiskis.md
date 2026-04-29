@@ -36,7 +36,7 @@ Po I padalinimo buvo ketinta paruošti visų Respublikos įstatymų kodeksą; da
     Po I pada-
       linimo buvo ketinta paruošti visų Respublikos įstatymų ko-
       deksą; darbas buvo pavestas vienam mokslintam Lenkijos
-    
+
       ponui — Zamoiskiui. Jis dirbo kelerius metus, pasitardamas
       su visais mokytesniais žmonėmis.
   citata_rodoma: ''

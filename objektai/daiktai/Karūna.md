@@ -76,10 +76,10 @@ Karūna šiame šaltinyje siejama su Mindaugo, Kęstučio ir Vytauto valdžios l
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Graudinga buvo 1668 m. seimo scena, kai karalius įteikė atsisa-
-      kymo aktą ir pasakė paskutinę kalbą. Verkė ir jis pats ir visas
-      seimas. Savo kalboje jis sakėsi esąs senatvės prislėgtas, karų ir
-      vidaus netvarkos nuvargintas. Todėl jis grąžinąs karūną, kad ji
-      būtų atiduota daugiau jėgų turinčiam naujajam karaliui.
+    kymo aktą ir pasakė paskutinę kalbą. Verkė ir jis pats ir visas
+    seimas. Savo kalboje jis sakėsi esąs senatvės prislėgtas, karų ir
+    vidaus netvarkos nuvargintas. Todėl jis grąžinąs karūną, kad ji
+    būtų atiduota daugiau jėgų turinčiam naujajam karaliui.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -92,8 +92,8 @@ Karūna šiame šaltinyje siejama su Mindaugo, Kęstučio ir Vytauto valdžios l
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Buvo paruoštos betgi ir Vytauto jėgos. Jis jau paskyrė karūnaci-
-      jos terminą (rugsėjo 8 d.), susikvietė svečių ir laukė imperatoriaus
-      atsiunčiamos žadėtosios karūnos su karūnacijos dokumentais.
+    jos terminą (rugsėjo 8 d.), susikvietė svečių ir laukė imperatoriaus
+    atsiunčiamos žadėtosios karūnos su karūnacijos dokumentais.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -106,8 +106,8 @@ Karūna šiame šaltinyje siejama su Mindaugo, Kęstučio ir Vytauto valdžios l
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lenkai dar visaip bandė sutrukdyti Vytauto sumanymą,
-      prašė Vytautą nors nesiskubinti ir buvo pasiūlę jam įteikti net
-      Lenkų karūną (tuo būdu Jogailai būtų tekę atsisakyti nuo sosto).
+    prašė Vytautą nors nesiskubinti ir buvo pasiūlę jam įteikti net
+    Lenkų karūną (tuo būdu Jogailai būtų tekę atsisakyti nuo sosto).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -120,8 +120,8 @@ Karūna šiame šaltinyje siejama su Mindaugo, Kęstučio ir Vytauto valdžios l
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tik tada, kai jis panoro
-      Lietuvos savarankiškumą apdrausti karališkąja karūna, lenkai
-      pakėlė didžiausią triukšmą.
+    Lietuvos savarankiškumą apdrausti karališkąja karūna, lenkai
+    pakėlė didžiausią triukšmą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -146,7 +146,8 @@ Karūna šiame šaltinyje siejama su Mindaugo, Kęstučio ir Vytauto valdžios l
   santrauka: Livonijos ordino pagalba išrūpinta karūna Mindaugui uždėta 1253 m.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Livonijos ordino pagalba išrūpintąją karūną užsidėti Mindaugui sekėsi šiek tiek lengviau, bet ir tai užtruko dvejus metus (1253).
+    Livonijos ordino pagalba išrūpintąją karūną užsidėti Mindaugui
+    sekėsi šiek tiek lengviau, bet ir tai užtruko dvejus metus (1253).
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -158,7 +159,9 @@ Karūna šiame šaltinyje siejama su Mindaugo, Kęstučio ir Vytauto valdžios l
   santrauka: Mindaugo karūną uždėjo Livonijos magistras Andrius.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Jo patepimo apeigas atliko Kulmo vyskupas H. Heidenreichas, o Livonijos magistras Andrius uždėjo karūną, kurią jis buvo pažadėjęs iš popiežiaus išrūpinti.
+    Jo patepimo apeigas atliko Kulmo vyskupas H. Heiden­
+    reichas, o Livonijos magistras Andrius uždėjo karūną, kurią jis buvo
+    pažadėjęs iš popiežiaus išrūpinti
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -183,7 +186,7 @@ Karūna šiame šaltinyje siejama su Mindaugo, Kęstučio ir Vytauto valdžios l
   santrauka: Kęstučiui buvo žadėtas karališkas titulas ir karaliaus ženklai.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Kęstučiui ir jo įpėdiniams po krikšto popiežius žadėjo suteikti ka-
+    Kęstučiui ir jo įpėdiniams po krikšto popiežius žadėjo suteikti ka­
     rališką titulą ir « papuošti karaliaus ženklais »^5.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -197,7 +200,7 @@ Karūna šiame šaltinyje siejama su Mindaugo, Kęstučio ir Vytauto valdžios l
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kęstutis žadėjo jam pagalbą ir sutiko pats su savo broliais ir
-    valdiniais priimti krikštą. Už tai Liudvikas jam turėjo iš popie-
+    valdiniais priimti krikštą. Už tai Liudvikas jam turėjo iš popie­
     žiaus išrūpinti karaliaus karūną.
   citata_rodoma: ""
   teiginio_tipas: faktas

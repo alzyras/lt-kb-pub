@@ -31,7 +31,7 @@ Motiejus Kazimieras Sarbievskis (Sarbievius), Vilniaus ir Kražių jėzuitų mok
     (Sarbievius),
     Vilniaus ir Kražių jėzuitų mokyklų
     profesorius, žymus poetas († 1640 m.)-
-    
+
     tas.
   citata_rodoma: ''
   teiginio_tipas: faktas

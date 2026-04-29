@@ -81,8 +81,8 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     tuo susirūpino). Lapkričio mėnesį Vilniuje buvo įkurtas Cen-
-    
-    
+
+
     Centralinis Komitetas Draugijos Nukentėjusiems Dėl Karo Šelpti
     (Vilniuje 1915 m.).
     tralinis Komitetas Nukentėjusiems Dėl Karo
@@ -159,8 +159,8 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
     miteto įgaliotiniai, nusiųsti į Šiaurės Ameriką, paskatino ten lie-
     tuvius rinkti aukas (Amerikos prezidentas Vilsonas net paskyrė
     specialią dieną rinkliavai). Komiteto atstovai išsirūpino ir iš
-    
-    
+
+
     popiežiaus Benedikto XV tokią pat dieną rinkliavai visose
     pasaulio bažnyčiose.
   teiginio_tipas: faktas
@@ -174,7 +174,7 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   citata_originali: |
     Šalia šelpiamųjų savo uždavinių, Komite-
     tas susirūpino ir šviesuomenės būrimu bendram Lietuvos ateities
-    
+
     Centralinis Lietuvių Komitetas vokiečių okupacijos metu (Vilniuje).
     kuriamajam darbui. Pirmiausia buvo imtasi lietuviškosios mo-
     kyklos organizavimo, jai vadovėlių ruošimo, mokytojų kursų

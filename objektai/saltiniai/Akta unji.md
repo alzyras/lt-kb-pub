@@ -45,7 +45,7 @@ tags:
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     AUPL = Akta unii Polski z Litwą 1385-1791, išl. St. Kutrzeba ir
-    Wł. Semkowicz, Krokuva 1932.
+    Wl. Semkowicz, Krokuva 1932.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

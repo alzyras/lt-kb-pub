@@ -85,7 +85,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     tuva buvusi jų kultūros įtakoje,
     kad ji sudariusi su Lenkija vie-
     ną valstybę ir kad jos visuo-
-    
+
     Teodoras Norbutas
     (1784—1864 m.).
     menė buvusi lenkiška.
@@ -180,5 +180,5 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-008
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
+### Susiję objektai
+- [[objektai/daiktai/Karūna]]

@@ -34,11 +34,6 @@ Trakai šiame šaltinyje minimi kaip valdžios centras, Gedimino statyta pilis, 
   teiginys: 'Mykolas, nusilenkęs Kazimierui, žadėjo būti jam paklusnus; jis tik prašė, kad jam būtų palikti Trakai ir kad būtų nubausti tėvo užmušėjai.'
   pagrindžia:
     - c-004
-- t-005
-  teiginys: 'Tribunolo posėdžiaujamomis vietomis buvo paskirti šie miestai: Vilnius, Trakai, Naugardukas ir Minskas.'
-  pagrindžia:
-    - c-005
-
 - t-006
   teiginys: 'Trakų pilies įkūrimas šiame šaltinyje siejamas su Gedimino statybomis penkių mylių atstumu nuo Kernavės.'
   pagrindžia:
@@ -62,7 +57,8 @@ Trakai šiame šaltinyje minimi kaip valdžios centras, Gedimino statyta pilis, 
   santrauka: 'Pirmieji tokie vaivadų ir kaštelionų urėdai buvo įsteigti Vilniuje ir Trakuose.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pirmieji tokie vaivadų ir kaštelionų urėdai buvo įsteigti Vilniuje ir Trakuose.
+    Pirmieji tokie vaivadų ir
+    kaštelionų urėdai buvo įsteigti Vilniuje ir Trakuose.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -111,22 +107,6 @@ Trakai šiame šaltinyje minimi kaip valdžios centras, Gedimino statyta pilis, 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Tribunolo posėdžiaujamomis vietomis buvo paskirti šie miestai: Vilnius, Trakai, Naugardukas ir Minskas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tribunolo posėdžiaujamomis vietomis buvo paskirti šie miestai:
-    Vilnius, Trakai, Naugardukas ir Minskas. Bet Trakuose jis
-    netrukus nustojo rinktis. Tikrosios Lietuvos bylas spręsdavo
-    Vilniuje, o gudiškųjų sričių — Naugarduke ir Minske.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-
 - c-006
   santrauka: Trakų pilies pradžia siejama su Gedimino statybomis ir legendine medžioklės vieta.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -189,7 +169,7 @@ Trakai šiame šaltinyje minimi kaip valdžios centras, Gedimino statyta pilis, 
   santrauka: Trakai įvardijami kaip paskutinės Vytauto kelionės tikslas prieš mirtį.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa-
+    Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa­
     kelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo
     žmonos vežime.
   citata_rodoma: ""
@@ -208,3 +188,5 @@ Trakai šiame šaltinyje minimi kaip valdžios centras, Gedimino statyta pilis, 
 - [[objektai/vietos/Minskas]]
 - [[objektai/vietos/Naugardukas]]
 - [[objektai/ivykiai/Vytauto mirtis (1430 m. spalio 27 d.)]]
+- [[objektai/vietos/Luckas]]
+- [[objektai/vietos/Vilnius]]

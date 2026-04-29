@@ -46,7 +46,8 @@ Kutrzebos Historja ustroju Polski w zarysie, II — Litwa). Kutrzeba i Wl.
   santrauka: 'Kutrzeba i Wl.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Visi išlikę dokumentai yra atspausdinti: _St. Kutrzeba_ i _Wl. Semkowicz,_ Akta unji NNr. 29—31; be to,
+    Visi išlikę dokumentai yra
+    atspausdinti: _St. Kutrzeba_ i _Wl. Semkowicz,_ Akta unji NNr. 29—31; be to,
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -60,4 +61,5 @@ Kutrzebos Historja ustroju Polski w zarysie, II — Litwa). Kutrzeba i Wl.
 - [[temos/dokumentas]]
 
 ### Susiję objektai
+- [[objektai/autoriai/A. Janulaitis]]
 - [[objektai/autoriai/Wl. Semkowicz]]

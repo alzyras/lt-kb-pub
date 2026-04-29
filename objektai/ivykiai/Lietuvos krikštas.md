@@ -12,7 +12,6 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - krikštas
-  - unija
 ---
 # Lietuvos krikštas
 
@@ -81,6 +80,8 @@ Ivinskio periodizacijoje 1385–1387 m. Kriavo aktas ir Lietuvos krikštas iške
   citata_originali: |
     Krikštui sušaukdavo
     apylinkės žmones į vieną vietą; kad greičiau eitų krikštas, žmones
+
+
     krikštijo būriais. Vienas būrys buvo krikštijamas vienu, kitas
     kitu vardu ir t. t. Kaip krikšto dovana, Jogailos vardu buvo
     dalinami balti vilnoniai marškiniai, simbolizuoją nekaltąją sielą.
@@ -117,9 +118,9 @@ Ivinskio periodizacijoje 1385–1387 m. Kriavo aktas ir Lietuvos krikštas iške
   santrauka: '1387 m. Aukštaičių krikštas ir Vilniaus vyskupijos kūrimas čia vadinami papildomais krikšto aktais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Iš to sektu nuosekli išvada, kad Dlugošo kronikoje smulkiai apra-
+    Iš to sektu nuosekli išvada, kad Dlugošo kronikoje smulkiai apra­
     šytas lietuvių krikštas Aukštaičių žemėje (1387), lygiai kaip ir tuo
-    pat metu Lenkijos karaliaus ir didžiojo Lietuvos kunigaikščio Jogai-
+    pat metu Lenkijos karaliaus ir didžiojo Lietuvos kunigaikščio Jogai­
     los pastoviai sostinėje įsteigtoji vyskupija ir parapijų kūrimas,
     nebebūtų galėję turėti lemiamo vaidmens Lietuvos krikštijimo
     istorijoje. Tai bebuvę lenku pagalba įvykdytieji papildomi krikšto
@@ -135,7 +136,6 @@ Ivinskio periodizacijoje 1385–1387 m. Kriavo aktas ir Lietuvos krikštas iške
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/krikštas]]
-- [[temos/unija]]
 
 ### Susiję objektai
 - [[objektai/paprociai/Lietuvos krikšto apeigos]]

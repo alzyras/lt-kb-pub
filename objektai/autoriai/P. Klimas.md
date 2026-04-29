@@ -174,7 +174,3 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/J. Šaulys]]
-- [[objektai/asmenys/kun. Stankevičius]]

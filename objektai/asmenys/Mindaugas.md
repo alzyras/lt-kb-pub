@@ -297,7 +297,8 @@ Mindaugas vaizduojamas kaip pirmasis Lietuvos karalius ir ankstyvasis valstybės
   santrauka: Mindaugas įvardijamas pirmuoju Lietuvos karaliumi.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Suprantama, tiedu vyrai tai Mindaugas ir Vytautas. Apie žymųjį Kęstu­
+    Supran­
+    tama, tiedu vyrai tai Mindaugas ir Vytautas. Apie žymųjį Kęstu­
     taitį yra tikrai bent keliasdešimt kartų daugiau medžiagos negu apie
     pirmąjį Lietuvos karalių, apie kurį šį kartą tekalbėsime. Bet ir apie
     jį daug rašyta!
@@ -363,8 +364,46 @@ Mindaugas vaizduojamas kaip pirmasis Lietuvos karalius ir ankstyvasis valstybės
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1250 m. gale ar 1251 pradžioje Mindaugas priėmė krikštą. Jis
-    krikštijosi ne tik su sūnumis ir žmona, kuri gavo Mortos vardą, bet ir su būriu
-    jam priklausančių žemių gyventojų.
+    nebuvo pirmasis lietuvių kunigas, kuris jieškojo Livonijos ordino
+    pagalbos ir krikštijosi. Kai uolus Mindaugo šalininkas ir jo sesers
+    vyras (ar sūnus) Lengvenis smarkiai persekiojo tris brolius kunigus^88 ,
+    šie gelbėjosi iš savo sunkios būklės, pabėgdami Rygon. Ordino glo­
+    boje pasikrikštiję, kaip jo vasalai jie gavo teoretišką teisę valdyti
+    savo žemes ir žmones^89. Panašiai elgėsi po Mindaugo mirties Nal-
+
+    (^81) **PSRL II, 816.**
+    (^82) **PSRL II, 858.**
+    (^83) **M. Taube,** **_Russische,_** **o.c. 406, 462.**
+    (^84) **LUB III, 1226 nr.**
+    (^85) **Plačiau Z. Ivinskis,** **_Jogailos santykiai su Kęstučiu ir Vytautu,_** **rink.**
+    **_Jogaila_** **, -red. A. Šapoka, Kaunas 1935, 45-79.**
+    (^86) **Tam reikalui esą Mindaugas pasiuntęs daug aukso ir sidabro, sidabrinių
+    ir gražių auksinių indų ir daug arklių : « poslal... zlata mnoho srebra i sosud
+    serebrenyi i zlatyi i krasnyi i kone mnohy » (PSRL II, 816-817).**
+    (^87) **LReim 3451-3576 (plačiai ir įdomiai išdėstyta, kokiu būdu Mindaugas
+    su Livonijos ordino magistru užmezgė kontaktą ir susitaikė). Livonijos magi­
+    stras, atvykęs 5 Lietuvą, pažadėjęs Mindaugui, jeigu tik tas pasikrikštys,
+    išrūpinti karališką vainiką (LReim 3493-3496).**
+    (^88) **Plačiau žiūr. Z. Ivinskis,** **_Lengvenis_** **, LE XIV, 1958, 386.**
+    (^89) **Plg. K. Avižonis,** **_Die Entstehung_** **, o.c. 28.**
+
+
+    ```
+    KARALIUS MINDAUGAS IR JO PALIKIMAS 171
+    ```
+    šėnų _Suxe,_ pasiūlydamas savo turtą Rygos arkivyskupni^90. Ir Prūsų
+    ordinas mielai priglausdavo tokius perbėgėlius, juos pakrikštydamas.
+    Jų žemes ordinas priiminėjo vasaliniais feodais, vis rūpestingai
+    aktuose pažymėdamas, jog buvę savininkai gaus savo žemes valdyti,
+    kai Lietuva bus nukariauta^91.
+    Apie tokį svarbų dalyką, kaip Mindaugo krikštas, smulkesnių
+    žinių nerandama, nes Eiliuotinės kronikos, Ipatijaus metraščio ir
+    popiežiaus Inocento IV bulių užuominos yra per bendros. Ar Min­
+    daugą krikštui ruošė tas pats Livonijos ordino kunigas Kristijonas,
+    kuris už poros metu tapo paskirtas Lietuvos vyskupu, yra neaišku,
+    nes krikšto laikotarpyje jis buvo Vokietijoje. Mindaugas krikštijosi
+    ne tik su sūnumis ir žmona, kuri gavo Mortos vardą, bet ir su būriu
+    jam priklausančių žemių gyventojų
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -392,7 +431,9 @@ Mindaugas vaizduojamas kaip pirmasis Lietuvos karalius ir ankstyvasis valstybės
   santrauka: Mindaugui priskiriamas valdžios atgavimas Polocke ir plėtra prie Dniepro.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose.
+    Apie
+    1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių
+    prie Dniepro — Černigovo ir Briansko kunigaikštijose.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -422,9 +463,17 @@ Mindaugas vaizduojamas kaip pirmasis Lietuvos karalius ir ankstyvasis valstybės
   santrauka: Mindaugui priskiriami Žemaičių žemių užrašai Livonijos ordinui.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Už karūnos išrūpinimą 1251 m. Mindaugas užrašė Livonijos ordinui žemių
+    Už karūnos
+    išrūpinimą 1251 m. Mindaugas užrašė Livonijos ordinui žemių
+
+    (^1) **Šio str. dalį išsp. Aidai, 1960, nr. 7, 278-281 p.**
+
+
+    ```
+    ŽEMAIČIŲ KLAUSIMAS IR KRYŽIUOČIAI^325
+    ```
     Žemaičiuose. Kryžiuočių rankose atsirado (su 1257 ir 1259 datomis)
-    dokumentai, kuriais esą Mindaugas ordinui užrašęs visą Žemaitiją^2.
+    dokumentai, kuriais esą Mindaugas ordinui užrašęs visą Žemaitiją^2
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

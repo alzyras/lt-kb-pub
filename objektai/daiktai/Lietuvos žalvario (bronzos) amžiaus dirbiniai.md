@@ -43,8 +43,8 @@ Lietuvos žalvario amžiaus dirbinių aprašyme minimi kirviai, durklai, iečių
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Lietuvos žalvario (bronzos) amžiaus dirbiniai:**
-      1 — 10 kirviai, 11 — 13 kalavijai, 14, 19—21 iečių galai, 15—21 papuošalai,
-      statulėlė, 22, 24—31 kirviai.
+    1 — 10 kirviai, 11 — 13 kalavijai, 14, 19—21 iečių galai, 15—21 papuošalai,
+    statulėlė, 22, 24—31 kirviai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -71,8 +71,9 @@ Lietuvos žalvario amžiaus dirbinių aprašyme minimi kirviai, durklai, iečių
   santrauka: Iš žalvario dirbti ginklai, įrankiai ir papuošalai.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Ir Lietuvos plote iš žalvario buvo dirbami gražus kirviai, durklai, iečių galai, piautuvai, skustuvai ir
-    skoningi papuošalai (smeigtukai, įvijinės apyrankės, galvos papuo-
+    Ir Lietuvos plote iš žalvario buvo
+    dirbami gražus kirviai, durklai, iečių galai, piautuvai, skustuvai ir
+    skoningi papuošalai (smeigtukai, įvijinės apyrankės, galvos papuo­
     šalai ir kt.).
   citata_rodoma: ""
   teiginio_tipas: faktas

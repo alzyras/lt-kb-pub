@@ -13,8 +13,6 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
-  - karūnacija
-  - krikštas
 ---
 # Jogailos atvykimas į Krokuvą, krikštas, vestuvės ir karūnacija Lenkijos karalium
 
@@ -80,14 +78,21 @@ Ivinskis tiksliai nurodo krikšto, santuokos ir vainikavimo datas, taip pat paž
   santrauka: 'Ivinskis vienoje pastraipoje sutelkia Jogailos krikštą, santuoką, vainikavimą ir Vytauto prisijungimą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    1386.II.14 d. nuvykęs Krokuvon, rytojaus dieną Jogaila Gniezno arkivyskupo Bodzantos buvo pakrikštytas Vladislovo vardu ir
-    į lenkų istoriją įėjo kaip Władysław II Jagiełło. Krokuvos vysku-
+    1386.II.14 d. nuvykęs Krokuvon, rytojaus dieną Jogaila Gniez­
+    no arkivyskupo Bodzantos buvo pakrikštytas Vladislovo vardu ir
+    į lenkų istoriją įėjo kaip Władysław II Jagiełło. Krokuvos vysku­
     pas Jonas Radlica pakrikštijo būsimąjį karalių atlydėjusius brolius
+    (^9) **Plg. G. Rhode : RhOP, I, 298-304 p.**
+
+
+    ```
+    KRIAVO AKTAS IR LIETUVOS KRIKŠTAS 287
+    ```
     (Skirgailą, Lengvenį), bajorus. Gaudamas Aleksandro vardą, viešai
-    prie lotyniškai krikštytųjų vėl prisijungė ir Vytautas, 1383 m. kry-
+    prie lotyniškai krikštytųjų vėl prisijungė ir Vytautas, 1383 m. kry­
     žiuočių jau kartą krikštytas. Vasario 18 d. Jogaila pilies katedroje
-    iškilmingai buvo sutuoktas su Jadvyga ir ten kovo 4 d. vainikuo-
-    tas Lenkijos karaliumi.
+    iškilmingai buvo sutuoktas su Jadvyga ir ten kovo 4 d. vainikuo­
+    tas Lenkijos karaliumi
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -96,8 +101,3 @@ Ivinskis tiksliai nurodo krikšto, santuokos ir vainikavimo datas, taip pat paž
   pagrindžia:
     - t-003
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karūnacija]]
-- [[temos/krikštas]]

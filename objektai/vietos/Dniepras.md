@@ -44,7 +44,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   santrauka: 'Čia jis užėmė visas Dniepro ir Desnos upyno kunigaikštystes — Brianską, Trubčevską, Naugardą Sieverską, ir kt.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Čia jis užėmė visas Dniepro ir Desnos upyno kunigaikštystes — Brianską, Trubčevską, Nau-
+    Čia jis užėmė visas Dniepro ir Desnos
+    upyno kunigaikštystes — Brianską, Trubčevską, Nau-
     gardą Sieverską, ir kt.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -72,7 +73,9 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   santrauka: Dniepras minimas ir klasikinėje geografinėje vardų tradicijoje.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Jis du kartu paminėjo ir « neurus, pas kuriuos Dniepras (Borysthenes) prasideda ».
+    Jis
+    du kartu paminėjo ir « neurus, pas kuriuos Dniepras (Borysthenes)
+    prasideda ».
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

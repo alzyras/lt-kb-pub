@@ -32,7 +32,7 @@ Iškilo girtuokliavimo kultas: didikai ir bajorija savo šeimos brangenybių tar
   citata_originali: |
     Dar patvirkusio girtuoklio karaliaus Augusto II laikais didikai,
       o nuo jų ir bajorija, išmoko tik puotauti ir girtauti. Iškilo girtuoklia-
-    
+
       vimo kultas: didikai ir bajorija savo šeimos brangenybių tarpe turėjo
       su įvairiomis iškilmėmis susijusių taurių; jei iš jų kada nors buvo
       gėręs koks karalius, tai taurės buvo laikomos, kaip ypatingos švente-

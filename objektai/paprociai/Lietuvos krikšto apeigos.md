@@ -10,7 +10,6 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ritualas
-  - krikštas
 ---
 # Lietuvos krikšto apeigos
 
@@ -94,7 +93,12 @@ Lietuvos krikštas buvo vykdomas kaip aiškiai suorganizuota apeiginė ir politi
   santrauka: Krikšto apeigos Gedimino sostinėje pirmiausia buvo taikomos bajorams.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Kaip prieš metus Krokuvoje buvo įvykdytas Lietuvos kunigaikščių krikštas, taip Gedimino sostinėje pirmiausia turėjo būti krikštijami bajorai. Tas krikštas simbolizavo visos Lietuvos prisijungimą prie Romos tikėjimo, kurio liepsnelė jau vienur kitur ruseno nuo Mindaugo bandytos įvesti krikščionybės.
+    Kaip prieš metus Krokuvoje buvo įvykdy­
+    tas Lietuvos kunigaikščių krikštas, taip Gedimino sostinėje pir­
+    miausia turėjo būti krikštijami bajorai. Tas krikštas simbolizavo
+    visos Lietuvos prisijungimą prie Romos tikėjimo, kurio liepsnelė
+    jau vienur kitur ruseno nuo Mindaugo bandytos įvesti krikščiony­
+    bės.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -106,7 +110,12 @@ Lietuvos krikštas buvo vykdomas kaip aiškiai suorganizuota apeiginė ir politi
   santrauka: Krikštą lydėjo pagoniškų kulto ženklų naikinimas.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Paties Jogailos įsakymu Vilniaus pilies papėdėje esančioje alkvietėje ir kitur aplink buvo sunaikinti aukų židiniai. Buvo liepta iškirsti šventais laikomus medžius ir giraites, išmušti namuose gerbiamus žalčius. Nesant užtenkamai kunigų, mokančių lietuviškai, esą pats Jogaila išvertęs lietuvių kalbon «Tėve mūsų» ir « Tikiu į Dievą Tėvą ».
+    Paties Jogailos įsakymu Vilniaus pilies papėdėje esančioje
+    alkvietėje ir kitur aplink buvo sunaikinti aukų židiniai. Buvo
+    liepta iškirsti šventais laikomus medžius ir giraites, išmušti namuose
+    gerbiamus žalčius. Nesant užtenkamai kunigų, mokančių lietuviš­
+    kai, esą pats Jogaila išvertęs lietuvių kalbon «Tėve mūsų» ir
+    « Tikiu į Dievą Tėvą ».
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -118,7 +127,11 @@ Lietuvos krikštas buvo vykdomas kaip aiškiai suorganizuota apeiginė ir politi
   santrauka: Pagrindinio krikštijimo metu gyventojai buvo suskirstyti į atskirus būrius ir gavo naujus vardus.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Pagal Dlugošą, Vilniuje per pagrindinį gyventojų krikštijimą kelias dienas buvo mokoma tikėjimo tiesų. Vyrai ir moterys buvo suskirstomi į atskirus būrius. Kiekvienam jų buvo duodamas atskiras vardas, užtenkamai (« sufficienter ») žmones pašlaksčius vandeniu.
+    Pagal Dlugošą, Vilniuje per pagrindinį gyventojų krikštijimą
+    kelias dienas buvo mokoma tikėjimo tiesų. Vyrai ir moterys buvo
+    suskirstomi į atskirus būrius. Kiekvienam jų buvo duodamas atski­
+    ras vardas, užtenkamai (« sufficienter ») žmones pašlaksčius vande­
+    niu
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -130,7 +143,8 @@ Lietuvos krikštas buvo vykdomas kaip aiškiai suorganizuota apeiginė ir politi
   santrauka: Pakrikštytieji gaudavo baltą rūbą.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Atgautos nekaltybės ženklan kiekvienas pakrikštytasis gaudavo baltą rūbą.
+    Atgautos nekaltybės ženklan kiekvienas pakrikštytasis gau­
+    davo baltą rūbą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -142,7 +156,11 @@ Lietuvos krikštas buvo vykdomas kaip aiškiai suorganizuota apeiginė ir politi
   santrauka: Krikšto teikimas 1387 m. buvo tęsiamas ir už Vilniaus ribų.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Vėlesnėmis žiniomis 1387 m. buvę pakrikštyta apie 30.000, nes krikšto teikimas neapsiribojo vien Vilniumi. Jogaila važinėjo ir kitur, įsakydamas mesti pagonybę. Tada buvo įkurtos ir pirmosios septynios parapijos : Ukmergėje, Maišiagaloje, Nemenčinėje, Melnikuose, Kriave, Ainoje, Obolcuose^15.
+    Vėlesnėmis žiniomis 1387 m. buvę pakrikštyta apie 30.000, nes
+    krikšto teikimas neapsiribojo vien Vilniumi. Jogaila važinėjo ir
+    kitur, įsakydamas mesti pagonybę. Tada buvo įkurtos ir pirmosios
+    septynios parapijos : Ukmergėje, Maišiagaloje, Nemenčinėje, Melni­
+    kuose, Kriave, Ainoje, Obolcuose^15.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -155,7 +173,6 @@ Lietuvos krikštas buvo vykdomas kaip aiškiai suorganizuota apeiginė ir politi
 ### Teminiai klasteriai
 - [[temos/religinė-praktika]]
 - [[temos/ritualas]]
-- [[temos/krikštas]]
 
 ### Susiję objektai
 - [[objektai/ivykiai/Lietuvos krikštas]]

@@ -31,7 +31,7 @@ Ir didikų švietimas taip pat buvo labai žemas.
   citata_originali: |
     Ir didikų švietimas taip pat buvo labai žemas. Kiekvienas di-
     diko sūnus paprastai vykdavo į užsienius, kur retai kada studijuo-
-    
+
     davo, o vien tik trindavosi po vakarų Europos kunigaikščių ir aristo-
     kratijos salionus. Toksai ponaitis grįždavo, nieko neišmokęs, pilnas
     didybės, paniekos visam tam, kas sava. Žodžiu, didikų jaunuomenė

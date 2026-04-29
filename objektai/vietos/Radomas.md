@@ -45,3 +45,6 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dokumentas]]
+
+### Susiję objektai
+- [[objektai/vietos/Vilnius]]

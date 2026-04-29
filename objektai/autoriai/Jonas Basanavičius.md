@@ -143,6 +143,8 @@ Jonas Basanavičius rodomas kaip vienas svarbiausių lietuvių tautinio sąjūd�
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo tarpu jau grįžo
+
+
     į Lietuvą daugumas ištremtų veikėjų, jų tarpe ir 25 metus už-
     sieny išgyvenęs dr. Basanavičius, kurs tame suvažiavime pirmi-
     ninkavo ir daugiausia jame pasidarbavo.

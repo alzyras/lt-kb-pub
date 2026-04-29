@@ -19,8 +19,7 @@ date_end: '1387'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
-tags:
-  - krikštas
+tags: []
 ---
 # Lotyniško krikšto privalomumas ir mišrių moterystių draudimas
 
@@ -89,9 +88,6 @@ tags:
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/krikštas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
 

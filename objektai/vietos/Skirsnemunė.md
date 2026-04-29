@@ -83,3 +83,4 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
 ### Susiję objektai
 - [[objektai/vietos/Palanga]]
 - [[objektai/vietos/Ragainė]]
+- [[objektai/vietos/Žemaitija]]

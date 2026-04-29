@@ -68,3 +68,6 @@ Nesutikimai, kilę po Zigmanto mirties, teturėjo tam tikrų padarinių tik Žem
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
+
+### Susiję objektai
+- [[objektai/paprociai/Žemaičių savivalda ir seniūno rinkimasis]]

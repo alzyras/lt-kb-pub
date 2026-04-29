@@ -79,8 +79,9 @@ Terminais žymimos senosios kulto vietos ir šventovės. Kartu pabrėžiama, kad
   santrauka: Romuva ir alkos aiškinamos kaip skirtingi šventovių pavadinimai, atmetant vienos vyriausiosios Romuvos istoriškumą.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Taigi pasakojimas, kad buvęs kažkoks vienas vyriausiasis kunigas
-    ir viena vyriausioji šventovė — Romuva, — yra prasimanymas viduramžio rašytojų, kurie, ne-
+    Taigi pasakojimas, kad buvęs
+    kažkoks vienas vyriausiasis kunigas ir viena vyriausioji šventovė
+    — Romuva, — yra prasimanymas viduramžio rašytojų, kurie, ne-
     daug težinodami apie tikrąją aisčių religiją, prasimanė šitą dalyką,
     nusižiūrėję į katalikų Bažnyčią. Šventovės vienur buvo vadi-
     namos romuvomis, kitur alkomis, — gal būt, dėl skirtingo savo

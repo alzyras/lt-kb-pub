@@ -159,8 +159,5 @@ Mūšis įvyko 1410 m. liepos 15 d. ordino žemėje tarp Tannenbergo ir Grunwald
 ### Teminiai klasteriai
 - [[temos/mūšis]]
 
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Vytautas]]

@@ -47,7 +47,3 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/popiežius]]
-
-### Susiję objektai
-- [[objektai/vietos/Riazanė]]
-- [[objektai/vietos/Tverė]]

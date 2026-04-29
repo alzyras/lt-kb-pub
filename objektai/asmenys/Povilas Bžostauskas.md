@@ -35,7 +35,7 @@ Lietuvos referendorius kanauninkas Povilas Bžostauskas visus savo kurių savo d
     Lietuvos refe-
       rendorius kanauninkas Povilas
       Bžostauskas visus savo
-    
+
       kurių savo dvarų valstiečius ir Vilniaus vyskupas Masalskis.
   citata_rodoma: ''
   teiginio_tipas: faktas

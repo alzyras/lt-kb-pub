@@ -48,8 +48,10 @@ Laivai šiame šaltinyje minimi kaip karo transporto ir puolimo priemonė. Kryž
   santrauka: 'Taigi jie bus turėję ir laivų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Aisčiai jau tuomet turėjo savo valstybėlių, kurių vadai dažnai užpuldavo ne tik čia pajūryje įkurtas skandinavų kolo-
-      nijas, bet padarydavo karo žygių net į skandinavų kraštus. Taigi jie bus turėję ir laivų.
+    Aisčiai jau tuomet turėjo savo valstybėlių, kurių vadai
+    dažnai užpuldavo ne tik čia pajūryje įkurtas skandinavų kolo-
+    nijas, bet padarydavo karo žygių net į skandinavų kraštus. Taigi
+    jie bus turėję ir laivų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,7 +63,7 @@ Laivai šiame šaltinyje minimi kaip karo transporto ir puolimo priemonė. Kryž
   santrauka: Kryžiuočiai atplaukė su karo laivu, o Vytenis pasiuntė 100 laivų.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Kai 1313 m. kry-
+    Kai 1313 m. kry­
     žiuočiai, pasistatę «karo laivą su sienomis ir daug kitų laivų »
     atplaukė pulti Junigėdos, «išgirdęs apie to laivo sukeltą garsą,
     lietuvių karalius » Vytenis atsiuntė narsų kilmingąjį Surminą su

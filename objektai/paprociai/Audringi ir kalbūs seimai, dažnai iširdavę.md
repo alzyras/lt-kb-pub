@@ -30,7 +30,7 @@ Nors šiaipjau visi seimai būdavo labai audringi, atstovai juose mėgdavo daug 
   citata_originali: |
     Nors šiaipjau visi seimai būdavo labai
     audringi, atstovai juose mėgdavo daug kalbėti, ir po ilgų kalbų
-    
+
     seimas dažniausiai iširdavo (iš Augusto II iki tol šauktų seimų
     buvo iširę net 7), bet dabar niekas nedrįso kalbėti.
   citata_rodoma: ''

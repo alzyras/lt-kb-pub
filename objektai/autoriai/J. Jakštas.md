@@ -107,7 +107,7 @@ J. Jakštas minimas kaip istorikas ir autorius; šiame tome jis siejamas su Voki
   santrauka: Santrumpų sąrašas susieja J. Jakštą su darbu apie ordiną ir Lietuvą Vytenio bei Gedimino metu
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    JakG = Jakštas, J. : Vokiečių Ordinas ir Lietuva Vytenio ir Gedi-
+    JakG = Jakštas, J. : Vokiečių Ordinas ir Lietuva Vytenio ir Gedi­
     mino metu, Senovė 1, p. 124-155 ; Senovė 2, p. 3-59.
   citata_rodoma: ""
   teiginio_tipas: faktas

@@ -44,12 +44,6 @@ tags: []
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Gedimino laiškuose aiškinama, kad Lietuvoje jau esama krikščionių, vienuolių ir bažnyčių.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-004
   teiginys: '1323 m. Gediminas parašė laiškų popiežiui ir Europos miestams.'
   pagrindžia:
@@ -81,23 +75,6 @@ tags: []
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-002
-  santrauka: Citata pagrindžia: Gedimino laiškuose aiškinama, kad Lietuvoje jau esama krikščionių, vienuolių ir bažnyčių.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių
-    pranciškonų ir domininkonų; jie turį savo bažnyčių ir laisvai
-    skelbią krikščionybę. Jis pats esąs pasiruošęs pasiduoti popie-
-    žiaus globai ir gyventi taikoje su krikščionimis, jei tik pasiliautų
-    ordino puolimai. Pagaliau jis prašo atsiųsti pas jį Rygos arki-
-    vyskupą su legatais, ir jis padarysiąs su krikščionimis taiką.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-004
   santrauka: Citata pagrindžia: 1323 m. Gediminas parašė laiškų popiežiui ir Europos miestams.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -121,7 +98,8 @@ tags: []
   santrauka: Citata pagrindžia: Gedimino laiškai Vakarų Europoje buvo sutinkami kaip politinis žingsnis prieš ordiną.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Ordinas tuo tarpu Vakaruose skelbė, kad visi Gedimino laiškai esąs me-
+    Ordinas
+    tuo tarpu Vakaruose skelbė, kad visi Gedimino laiškai esąs me-
     las ir kad jais jis tik norįs sutrukdyti ordinui iš Vakarų plau-
     kiančią pagalbą. Bet ne visur ordinui sekėsi agitacija. Hanzos
     miestų atstovų suvažiavimas Liubeke Gedimino laiškus sutiko la-

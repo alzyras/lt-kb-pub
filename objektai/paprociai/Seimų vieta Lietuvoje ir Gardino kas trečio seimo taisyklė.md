@@ -128,4 +128,5 @@ Liublino seimas seimų vieta paskyrė Varšuvą arba kurį nors kitą Lenkijos m
 - [[temos/aktas - unija]]
 
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
 - [[objektai/ivykiai/Seimų vietos įstatymo pakeitimas (1673 m.)]]

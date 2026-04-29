@@ -51,7 +51,7 @@ Kadangi tatai nepavyko, tai Ambasadorių Konferencija jau po Klaipėdos konvenci
   citata_originali: |
     Kitais metais (1925 m.) Lenkija pasiūlė Lietuvai derybas dėl
     Nemuno atidarymo Kopenhagoje. Kadangi Klaipėdos konvenci-
-    
+
     joje Lietuva sutiko, nepaisydama savo ginčo su Lenkija, atidaryti
     Nemuną miško plukdymui, todėl pasiūlymą priėmė. Kopen-
     hagos derybos vėliau dar buvo tęsiamos Luganoj (Šveica-

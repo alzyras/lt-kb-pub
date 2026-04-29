@@ -76,7 +76,7 @@ Tuo būdu į dvasininkus įsibraudavo daug žmonių, kurie nieko bendro neturėd
   citata_originali: |
     Be to, dar reikia priminti blogą dvasininkų skyrimo paprotį, buvusį tuomet visoje
     Europoje, būtent klebonus skirdavo tas, kas pastatydavo ir
-    
+
     aprūpindavo bažnyčią, o vyskupus ir kanauninkus — didysis
     kunigaikštis. Vyskupų paskyrimą tvirtindavo popiežius, o ku-
     nigų — vyskupas.

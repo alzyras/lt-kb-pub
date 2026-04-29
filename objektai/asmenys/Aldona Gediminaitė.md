@@ -54,11 +54,11 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Gediminas
-      išleido už Vladislovo
-      sūnaus, būsimojo Len-
-      kijos karaliaus Kazi-
-      miero Didžiojo, savo
-      dukterį Aldoną.
+    išleido už Vladislovo
+    sūnaus, būsimojo Len-
+    kijos karaliaus Kazi-
+    miero Didžiojo, savo
+    dukterį Aldoną.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -71,8 +71,8 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Aldona Gediminaitė.
-      (Taip ji atvaizduota vieno seno Krokuvos
-      pastato skliaute).
+    (Taip ji atvaizduota vieno seno Krokuvos
+    pastato skliaute).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -84,7 +84,8 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   santrauka: Aldona įvardijama variantu Aldona-Ona ir siejama su 1325 m. vedybomis su Kazimieru
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    1325 m. Aldona-Ona — už Kazimiero.
+    1325 m. Aldona-Ona — už Kazi­
+    miero
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -97,7 +98,8 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   santrauka: Aldonos giminystė su Gediminu įvardijama tiesiogiai
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    vedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters Aldonos
+    vedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters
+    Aldonos
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -110,7 +112,8 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   santrauka: Aldona tiesiogiai pavadinama Lenkijos karaliene
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    1339 m. mirė Lenkijos karalienė Aldona Gediminaitė
+    1339 m. mirė Lenkijos karalienė Aldona Gedimi­
+    naitė
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

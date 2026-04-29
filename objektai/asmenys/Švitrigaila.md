@@ -80,9 +80,9 @@ tags:
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **VI. Švitrigailos raštas Bazelio bažnytiniam suvažiavimui** (rašytas Vi-
-      tebske, 1433 m. kovo 22 d.). Norėdamas patraukti savo pusėn Bažnyčios
-      suvažiavimą, dėdamasis su ordinu prie bendros akcijos prieš Lenkiją ir
-      žadėdamas paremti Bažnyčių uniją (žiūr. 172 psl.), Švitrigaila 1433 m.
+    tebske, 1433 m. kovo 22 d.). Norėdamas patraukti savo pusėn Bažnyčios
+    suvažiavimą, dėdamasis su ordinu prie bendros akcijos prieš Lenkiją ir
+    žadėdamas paremti Bažnyčių uniją (žiūr. 172 psl.), Švitrigaila 1433 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -94,8 +94,9 @@ tags:
   santrauka: 'Ilgiausiai nenusileido Švitrigaila; čia susitaikindamas, čia vėl pabėgdamas, jis visą laiką kovojo su Vytautu, kol pagaliau Vytautui mirus gavo valdyti visą Lietuvą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Ilgiausiai nenusileido Švitrigaila; čia susitaikindamas, čia vėl pabėgdamas, jis visą laiką kovojo su Vytautu, kol paga-
-      liau Vytautui mirus gavo valdyti visą Lietuvą.
+    Ilgiausiai nenusileido Švitrigaila; čia susitaikindamas,
+    čia vėl pabėgdamas, jis visą laiką kovojo su Vytautu, kol paga-
+    liau Vytautui mirus gavo valdyti visą Lietuvą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -108,8 +109,8 @@ tags:
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmiausia Vytautas suvaldė nepaklusnų jauniausiąjį Jogai-
-      los brolį Švitrigailą, kuris po motinos mirties savavališkai
-      buvo užėmęs jos valdytąją Vitebską.
+    los brolį Švitrigailą, kuris po motinos mirties savavališkai
+    buvo užėmęs jos valdytąją Vitebską.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -122,7 +123,7 @@ tags:
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai šis apsiėmė laikytis Salyno sutarties, ordinas pradėjo karą,
-      norėdamas pašalinti Vytautą ir jo vietoje pastatyti Švitrigailą.
+    norėdamas pašalinti Vytautą ir jo vietoje pastatyti Švitrigailą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -134,7 +135,8 @@ tags:
   santrauka: 'Vytautui mirus, Lietuvos bajorija savo didžiuoju kunigaikščiu paskelbė jauniausiąjį Jogailos brolį, Švitrigailą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vytautui mirus, Lietuvos bajorija savo didžiuoju kunigaikščiu paskelbė jauniausiąjį Jogailos brolį, Švitrigailą.
+    Vytautui mirus, Lietuvos bajorija savo didžiuoju
+    kunigaikščiu paskelbė jauniausiąjį Jogailos brolį, Švitrigailą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -147,7 +149,7 @@ tags:
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvos bajorai tuojau po jo mirties, nieko nesi-
-      klausę, paskelbė savo valdovu Švitrigailą.
+    klausę, paskelbė savo valdovu Švitrigailą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -160,7 +162,7 @@ tags:
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tada ordinas nusprendė pa-
-      remti iš Lietuvos pabėgusį ir vis dar nenurimstantį Švitrigailą.
+    remti iš Lietuvos pabėgusį ir vis dar nenurimstantį Švitrigailą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -222,7 +224,7 @@ tags:
   citata_originali: |
     Net Švitrigaila, kuris iš Maskvos Vosyliaus buvo gavęs eilę žemių^59 ,
     grįžo atgal. Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys
-    jau Maskvos žygio metu įtartinai laikėsi, Švitrigaila buvo uždary-
+    jau Maskvos žygio metu įtartinai laikėsi, Švitrigaila buvo uždary­
     tas į Kremenetso (Volinijoje) kalėjimą, iš kur jam tepasisekė
     pabėgti — vėl pas kryžiuočius — tik 1418 m.
   citata_rodoma: ""

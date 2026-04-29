@@ -66,7 +66,13 @@ Jogailos privilegija apsikrikštijusiems bajorams buvo viena iš svarbiausių 13
   santrauka: 1387 m. privilegija apsikrikštijusiems bajorams suteikė paveldėjimo ir šeimos teises bei susiaurino jų prievoles.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Trijų vasario mėn. (1387) dokumentų grandinėje Vilniuje reikšmingiausia buvo Pelenų dienos (20.11.) privilegija. Krikštą priėmę bajorai įgijo teisę laisvai ir paveldimai valdyti savo žemes. Jie gavo pilną laisvę savo šeimos reikaluose, pvz., teisę laisvai už vyro išleisti savo dukteris. Naujakrikštai bajorai buvo paliuosuoti nuo visų kitų patarnavimų didžiajam kunigaikščiui, išskyrus karo tarnybą, naujų pilių statymą ir senųjų taisymą.
+    Trijų vasario mėn. (1387) dokumentų grandinėje Vilniuje reikš­
+    mingiausia buvo Pelenų dienos (20.11.) privilegija^19. Krikštą priė­
+    mę bajorai įgijo teisę laisvai ir paveldimai valdyti savo žemes.
+    Jie gavo pilną laisvę savo šeimos reikaluose, pvz., teisę laisvai už
+    vyro išleisti savo dukteris. Naujakrikštai bajorai buvo paliuosuoti
+    nuo visų kitų patarnavimų didžiajam kunigaikščiui, išskyrus karo
+    tarnybą, naujų pilių statymą ir senųjų taisymą
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

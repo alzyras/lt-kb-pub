@@ -80,7 +80,7 @@ Ivinskis mirtį susieja su 1430 m. spalio 17 d. kelione iš Vilniaus į Trakus, 
   santrauka: 'Kelionė iš Vilniaus į Trakus ir kritimas nuo arklio čia įvardijami kaip paskutinės Vytauto dienos eiga.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa-
+    Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa­
     kelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo
     žmonos vežime. Iš patalo daugiau nebepakilo.
   citata_rodoma: ''
@@ -94,7 +94,8 @@ Ivinskis mirtį susieja su 1430 m. spalio 17 d. kelione iš Vilniaus į Trakus, 
   santrauka: 'Priešmirtinis Lietuvos pavedimas Jogailai čia priskiriamas Dlugošo liudijimui.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Pagal Dlugošo idilišką aprašymą, Vytautas prieš mirtį (X.27) Lietuvą pavedęs Jo-
+    Pagal Dlugošo idi­
+    lišką aprašymą, Vytautas prieš mirtį (X.27) Lietuvą pavedęs Jo­
     gailai ir liepęs jam nuo iždo ir pilių atiduoti raktus.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -103,7 +104,3 @@ Ivinskis mirtį susieja su 1430 m. spalio 17 d. kelione iš Vilniaus į Trakus, 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]

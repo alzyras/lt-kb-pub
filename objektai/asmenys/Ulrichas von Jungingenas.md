@@ -49,13 +49,13 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tanenbergo mūšy lietuviams ir lenkams teko 51 kryžiuočių kariuome-
-      nės vėliava. Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį. Prie
-      to rinkinio vėliau dar buvo pridėtos kitos 5 vėliavos, paimtos kituose mū-
-      šiuose. Dabar jos jau yra žuvusios. Iki mūsų laikų yra likę tik XV amž.
-      gale daryti jų piešiniai, kuriuos parūpino lenkų istorikas Dlugošas, rašy-
-      damas apie Tanenbergo mūšį. Štai kieno yra buvusios tos vėliavos:
-      1) magistro Ulricho v. Jungingeno — didžioji vėliava, 2) magistro
-      Ulricho v. Jungingeno — mažoji vėl., 3) maršalkos Fridriko Valenrodo,
+    nės vėliava. Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį. Prie
+    to rinkinio vėliau dar buvo pridėtos kitos 5 vėliavos, paimtos kituose mū-
+    šiuose. Dabar jos jau yra žuvusios. Iki mūsų laikų yra likę tik XV amž.
+    gale daryti jų piešiniai, kuriuos parūpino lenkų istorikas Dlugošas, rašy-
+    damas apie Tanenbergo mūšį. Štai kieno yra buvusios tos vėliavos:
+    1) magistro Ulricho v. Jungingeno — didžioji vėliava, 2) magistro
+    Ulricho v. Jungingeno — mažoji vėl., 3) maršalkos Fridriko Valenrodo,
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -68,9 +68,11 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Mūšio vietoje
-      krito lietuvio ietim per-
-      vertas patsai magistras Ulrichas von Jun-
-      gingenas ir daugybė riterių.
+    krito lietuvio ietim per-
+    vertas patsai magistras
+    Ulrichas von Jun-
+    gingenas ir daugybė
+    riterių.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -96,7 +98,8 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
   santrauka: Jungingenas provokavo mūšį atsiųsdamas Jogailai ir Vytautui nuogus kalavijus
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Nesulaukdamas tačiau priešo atakos, Jungingenas atsiuntė Jogailai ir Vy-
+    Nesulauk­
+    damas tačiau priešo atakos, Jungingenas atsiuntė Jogailai ir Vy­
     tautui po nuogą kalaviją, siūlydamas « nesislapstyti krūmuose » ir
     tuoj pradėti muši »^22.
   citata_rodoma: ""

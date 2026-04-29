@@ -48,7 +48,7 @@ net pasiskubino išleisti už jo savo dukterį Mariną. netrukus kilo maištas, 
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     netrukus kilo maištas, apsimetėlis (samozvancas) Dimitrijas
-    
+
       žuvo, o Marina su tėvu ir daugybė lenkų buvo suimti.
   citata_rodoma: ''
   teiginio_tipas: faktas

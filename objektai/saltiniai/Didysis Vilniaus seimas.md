@@ -32,7 +32,8 @@ Klimaitis, Didysis Vilniaus seimas (Žid. 1931, N.N.
   santrauka: 'Klimaitis, Didysis Vilniaus seimas (Žid. 1931, N.N.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pr. _Klimaitis,_ Didysis Vilniaus seimas (Žid. 1931, N.N. 1, 2, 4);
+    Pr. _Klimaitis,_ Didysis
+    Vilniaus seimas (Žid. 1931, N.N. 1, 2, 4);
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -44,7 +45,8 @@ Klimaitis, Didysis Vilniaus seimas (Žid. 1931, N.N.
   santrauka: 'Did. Vilniaus Seimas (1930);.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    — Did. Vilniaus Seimas (1930);
+    — Did.
+    Vilniaus Seimas (1930);
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

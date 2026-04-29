@@ -89,7 +89,8 @@ Vincas Kudirka šiame šaltinyje minimas kaip autorius, redaktorius; jam priskir
   santrauka: Kudirka minimas tarp autorių, kurių raštai Amerikoje buvo išleisti
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tuo būdu, kai Lietuvoje buvo draudžiama spauda, Amerikoje buvo
+    Tuo
+    būdu, kai Lietuvoje buvo draudžiama spauda, Amerikoje buvo
     išleista daugumas žymesniųjų lietuvių autorių (Duonelaičio,
     Strazdelio, Daukanto, Valančiaus, Ivinskio, Kudirkos ir t.t.)
     raštų.

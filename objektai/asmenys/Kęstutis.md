@@ -157,8 +157,9 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   santrauka: Kęstutis pastatė mūro pilį Trakų ežero saloje.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jo sūnus Kęstutis vėliau pastatė kitą didingą mūro pilį to paties
-    ežero saloje.
+    ės
+    ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą
+    laiką buv
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -266,9 +267,21 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   citata_originali: |
     Darydamas taiką su Vengrijos karaliumi Liudviku Anjou,
     Kęstutis žadėjo jam pagalbą ir sutiko pats su savo broliais ir
-    valdiniais priimti krikštą. Pasižadėjęs įkurti Lietuvoje vyskupijų ir
-    vienuolynų, Kęstutis dėl neišaiškinamų priežasčių tačiau nakties
-    tamsoje pabėgo.
+    valdiniais priimti krikštą. Už tai Liudvikas jam turėjo iš popie­
+    žiaus išrūpinti karaliaus karūną. Be to, Vengrija su Lenkija turėjo
+    priversti ordiną grąžinti Lietuvai atimtas jos žemes ir ją ginti nuo
+    kryžiuočių ir totorių. Abi pusi tą susitarimą patvirtino priesaiko-
+
+    (^5) **VMPL, I, nr. 693.**
+    (^6) **VMPL, I, nr. 692. Plg. Kučinskas:** **_Kęstutis_** **, 124-125 p.**
+
+
+    260 ii skyrius: valstybės iškilimas
+
+    mis; pats Kęstutis, kaip kunigas, ten atliko pagoniškas jaučio
+    aukojimo apeigas, kurios smulkiai yra užrašytos Dubno kronikoje^7.
+    Pasižadėjęs įkurti Lietuvoje vyskupijų ir vienuolynų, Kęstutis dėl
+    neišaiškinamų priežasčių tačiau nakties tamsoje pabėgo
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -299,7 +312,8 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   santrauka: Kęstučio laikai susiejami su didžiausiu kryžiuočių spaudimu.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Herojiškais Gedimino ir Kęstučio pagoniškojo patriotizmo laikais vyko pats didžiausias kryžiuočių spaudimas, kuris teikė
+    Herojiškais Gedimino ir Kęstučio pagoniškojo patriotizmo
+    laikais vyko pats didžiausias kryžiuočių spaudimas, kuris teikė
     lietuviams ir skaudžių nuostolių (1336 m. Pilėnai, 1348 m. Strėva,
     1362 m. Kauno išgriovimas, 1370 m. Rudava, 1391 m. Vilniaus
     apgulimas).
@@ -331,7 +345,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   citata_originali: |
     Didysis kovotojas savo gyvenimą baigė ne kautynių lauke, o
     kalėjime sūnėno, kurio tėvui visą amžių buvo ištikimai talkinęs.
-    Tas bendradarbiavimas buvo užtikrinęs valstybei reikalingą stipry-
+    Tas bendradarbiavimas buvo užtikrinęs valstybei reikalingą stipry­
     bę paties didžiojo ordino spaudimo metu. Bet Kęstučiui, ypač į
     gyvenimo galą, reikėjo pakelti ir eilę asmeniškų smūgių.
   citata_rodoma: ""

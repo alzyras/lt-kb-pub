@@ -40,7 +40,9 @@ Gediminas valstybę stiprino ne tik karu ir diplomatija, bet ir dinastinėmis va
   santrauka: 'Tačiau ir čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo sūnų bei dukterų vedybomis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tačiau ir čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo sūnų bei dukterų vedybomis.
+    Tačiau ir
+    čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo
+    sūnų bei dukterų vedybomis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -55,7 +57,7 @@ Gediminas valstybę stiprino ne tik karu ir diplomatija, bet ir dinastinėmis va
   citata_originali: |
     Keli jo paties sūnūs
     (Narimantas-Hlebas, Jaunutis-Jonas, Karijotas-Mykolas, Liubartas-
-    Dimitras) priėmė stačiatikių tikėjimą arba vedė rusų kunigaikšty-
+    Dimitras) priėmė stačiatikių tikėjimą arba vedė rusų kunigaikšty­
     tes.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -68,10 +70,11 @@ Gediminas valstybę stiprino ne tik karu ir diplomatija, bet ir dinastinėmis va
   santrauka: Gediminaičių palikuonių giminės siejamos su rusų papročių perėmimu ir santuokomis.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Vesdami stačiatikes žmonas ir prisiimdami rusų papročius, jie, jų anūkai ar
-    proanūkai davė pradžią vėliau žinomiems kunigaikščiams Trubeckoj (iš Dimitro),
-    Čartoriskiams (iš Konstantino), Bielskiams ir Sluckiams (iš Vladimiro),
-    Sanguškoms ir Kobrinskiams (iš Teodoro).
+    Vesdami stačiatikes žmonas ir prisiimdami
+    rusų papročius, jie, jų anūkai ar proanūkai davė pradžią vėliau
+    žinomiems kunigaikščiams Trubeckoj (iš Dimitro), Čartoriskiams
+    (iš Konstantino), Bielskiams ir Sluckiams (iš Vladimiro), Sanguš­
+    koms ir Kobrinskiams (iš Teodoro).
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

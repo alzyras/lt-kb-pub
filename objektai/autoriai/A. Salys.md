@@ -125,7 +125,8 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   santrauka: Bibliografinė nuoroda susieja A. Salį su straipsniu Baltic Languages
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Salys, A. : _Baltic Languages,_ Encyclopedia Britannica, t. 3, 1955.
+    Salys, A. : _Baltic Languages,_
+    Encyclopedia Britannica, t. 3, 1955.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -137,7 +138,8 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   santrauka: A. Salys cituojamas kaip baltų santykių su slavų ir germanų kalbomis tyrimo autorius
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    — (”) _Die Beziehungen des Baltischen zum Slavischen und Germanischen,_
+    —
+    (”) _Die Beziehungen des Baltischen zum Slavischen und Germanischen,_
     Zeitschr. für vergleichende Sprachforschung, t. 70, 1954.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -150,8 +152,8 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   santrauka: A. Salio veikalas dar kartą nurodomas Žemaičių tarmių kontekste
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    SRP, I, 146-147 p. — Plg. A. Salys : _Die žemaitischen Mundarten,_
-    I, Tauta ir Žodis, VI, 1930, 196, 242 p.; ZStŽ, 31-40 p.
+    SRP, I, 146-147 p. — Plg. A. Salys :** **_Die žemaitischen Mundarten,_**
+    **I, Tauta ir Žodis, VI, 1930, 196, 242 p.; ZStŽ, 31-40 p.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

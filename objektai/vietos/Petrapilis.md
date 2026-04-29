@@ -78,4 +78,5 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Petras I Didysis]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatauskas]]

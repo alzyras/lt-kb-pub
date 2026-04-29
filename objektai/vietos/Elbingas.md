@@ -58,3 +58,7 @@ Nesugriautos liko tik Karaliaučiaus, Baigos, Elbingo ir Kulmo, t. Lenkija atgav
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Karaliaučius]]

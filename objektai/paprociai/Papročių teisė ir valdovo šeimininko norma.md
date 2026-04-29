@@ -30,7 +30,7 @@ Gyvenimas buvo tvarkomas papročių teise, kurios laikėsi tiek valdovai, tiek g
   citata_originali: |
     **Pirmieji Lietuvos įstatymai** buvo nerašyti. Gyvenimas bu-
     vo tvarkomas papročių teise, kurios laikėsi tiek valdo-
-    
+
     vai, tiek gyventojai.
   citata_rodoma: ''
   teiginio_tipas: faktas
