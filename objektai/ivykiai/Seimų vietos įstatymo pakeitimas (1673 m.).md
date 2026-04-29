@@ -64,4 +64,5 @@ Keletą kartų jie vis dėlto pasiekė tai, kad seimas prieš įstatymus buvo su
 - [[laikotarpiai/XVII amžius]]
 
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
 - [[objektai/paprociai/Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė]]
