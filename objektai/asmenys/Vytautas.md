@@ -25,8 +25,8 @@ datos:
 periodas: ''
 periodo_grupes: []
 amziai:
-  - 'XIV a.'
-  - 'XV a.'
+  - 'XIV'
+  - 'XV'
 date_start: ''
 date_end: ''
 vaidmenys:
@@ -595,6 +595,10 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-024
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+
 ### Susiję objektai
 - [[objektai/vietos/Astravos dvaras]]
 - [[objektai/asmenys/Jogaila]]

@@ -18,7 +18,7 @@ datos:
 periodas: ''
 periodo_grupes: []
 amziai:
-  - 'XIV a.'
+  - 'XIV'
 date_start: ''
 date_end: ''
 vaidmenys:
@@ -259,6 +259,9 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-010
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Jaunutis]]
 - [[objektai/ivykiai/Jaunučio pašalinimas ir Algirdo bei Kęstučio valdžios perėmimas]]

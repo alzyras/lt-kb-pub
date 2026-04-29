@@ -7,17 +7,21 @@ tags: []
 
 # XVI amžius
 
-Objektų skaičius: 30. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 34. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
 ### Autoriai
 - [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
 
+### Daiktai
+- [[objektai/daiktai/Lietuvos pinigai]]
+
 ### Grupės
 - [[objektai/grupes/Gardino seimas (1566 m.)]]
 - [[objektai/grupes/Lietuvos seimas (XVI a.)]]
 - [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/grupes/Žemaičiai]]
 
 ### Papročiai
 - [[objektai/paprociai/Lydimoji žemdirbystė]]
@@ -43,9 +47,7 @@ Objektų skaičius: 30. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/ivykiai/Nesvyžiaus jėzuitų kolegijos įkūrimas (1582 m.)]]
 - [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
 - [[objektai/ivykiai/Stepono Batoro mirtis (1586 m. gruodžio 12 d.)]]
-- [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]
-- [[objektai/ivykiai/Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.)]]
 
 ## Nerodoma Graph'e
 
-- Dar 5 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.
+- Dar 9 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.

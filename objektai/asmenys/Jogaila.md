@@ -22,7 +22,7 @@ datos:
 periodas: ''
 periodo_grupes: []
 amziai:
-  - 'XIV a.'
+  - 'XIV'
 date_start: ''
 date_end: ''
 vaidmenys:
@@ -317,6 +317,10 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
     - t-012
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Vytautas]]
 - [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas]]

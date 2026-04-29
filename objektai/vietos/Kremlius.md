@@ -82,6 +82,9 @@ Kremlius čia aprašomas kaip tvirtovė, susieta su Maskvos valdžios centru.
 ## Pastabos
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+
 ### Susiję objektai
 - [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Vilnius]]

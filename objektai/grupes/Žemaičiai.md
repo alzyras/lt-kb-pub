@@ -340,5 +340,9 @@ tags:
     - t-016
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XVI amžius]]
+
 ### Susiję objektai
 - [[objektai/paprociai/Taikos patvirtinimas sudaužiant delnus]]

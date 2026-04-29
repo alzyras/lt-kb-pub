@@ -12,8 +12,7 @@ laikotarpis: 'iki XII a. pabaigos'
 datos: []
 periodas: ''
 periodo_grupes: []
-amziai:
-  - 'iki XII a. pabaigos'
+amziai: []
 date_start: ''
 date_end: ''
 vaidmenys: []

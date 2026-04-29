@@ -17,8 +17,8 @@ datos:
 periodas: ''
 periodo_grupes: []
 amziai: []
-date_start: '1323-10-02'
-date_end: '1323-10-02'
+date_start: '1323'
+date_end: '1323'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -85,6 +85,7 @@ tags:
 
 ## Ryšiai
 ### Laikotarpiai
+- [[laikotarpiai/I amžius]]
 - [[laikotarpiai/XIV amžius]]
 
 ### Susiję objektai

@@ -22,7 +22,7 @@ datos:
 periodas: ''
 periodo_grupes: []
 amziai:
-  - 'XIII a.'
+  - 'XIII'
 date_start: ''
 date_end: ''
 vaidmenys:
@@ -433,3 +433,7 @@ Mindaugas vaizduojamas kaip pirmasis Lietuvos karalius ir ankstyvasis valstybės
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-018
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIII amžius]]

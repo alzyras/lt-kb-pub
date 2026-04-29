@@ -7,12 +7,15 @@ tags: []
 
 # XVII amžius
 
-Objektų skaičius: 30. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 31. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
 ### Asmenys
 - [[objektai/asmenys/Kristupas († 1640 m.)]]
+
+### Daiktai
+- [[objektai/daiktai/Lietuvos pinigai]]
 
 ### Papročiai
 - [[objektai/paprociai/Nuotakos išpirkimas ir Krienos mokestis]]
@@ -40,8 +43,7 @@ Objektų skaičius: 30. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/ivykiai/Valkininkų konfederacijos nutarimas (1700 m.)]]
 - [[objektai/ivykiai/Vienos išvadavimas (1683 m.)]]
 - [[objektai/ivykiai/Vilniaus kalvinų bažnyčios nugriovimas ir naujos bažnyčios pastatymas (1639–1640 m.)]]
-- [[objektai/ivykiai/Vilniaus užėmimas rusų ir 17 dienų gaisras (1655 m.)]]
 
 ## Nerodoma Graph'e
 
-- Dar 5 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.
+- Dar 6 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.

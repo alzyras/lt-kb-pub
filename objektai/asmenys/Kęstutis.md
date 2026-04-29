@@ -18,7 +18,7 @@ datos:
 periodas: ''
 periodo_grupes: []
 amziai:
-  - 'XIV a.'
+  - 'XIV'
 date_start: ''
 date_end: ''
 vaidmenys:
@@ -344,6 +344,9 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - t-011
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas]]
 - [[objektai/asmenys/Gediminas]]

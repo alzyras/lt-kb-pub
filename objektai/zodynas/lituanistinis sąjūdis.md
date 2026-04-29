@@ -12,7 +12,7 @@ datos: []
 periodas: ''
 periodo_grupes: []
 amziai:
-  - 'XIX a.'
+  - 'XIX'
 date_start: ''
 date_end: ''
 vaidmenys: []
@@ -90,3 +90,6 @@ Terminas vartojamas kaip pradžia, nuo kurios Vilniaus universitete kilo lietuvi
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
+
+### Laikotarpiai
+- [[laikotarpiai/XIX amžius]]

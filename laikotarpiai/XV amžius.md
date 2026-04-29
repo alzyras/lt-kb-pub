@@ -7,17 +7,24 @@ tags: []
 
 # XV amžius
 
-Objektų skaičius: 22. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 35. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
+### Asmenys
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Vytautas]]
+
 ### Daiktai
+- [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
+- [[objektai/daiktai/Lietuvos pinigai]]
 - [[objektai/daiktai/Statinės]]
 
 ### Grupės
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/grupes/Žemaičiai]]
 
 ### Posakiai
 - [[objektai/posakiai/Mūsų kraštą pavergti]]
@@ -26,6 +33,9 @@ Objektų skaičius: 22. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 
 ### Vietos
 - [[objektai/vietos/Galvės ežero salos pilis]]
+- [[objektai/vietos/Lydos pilis]]
+- [[objektai/vietos/Medininkų pilis]]
+- [[objektai/vietos/Senieji Trakai]]
 
 ### Įvykiai
 - [[objektai/ivykiai/1432 m. perversmas ir Zigmanto Kęstutaičio iškėlimas]]
@@ -37,10 +47,7 @@ Objektų skaičius: 22. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/ivykiai/Racionžo taika (1404 m.)]]
 - [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
 - [[objektai/ivykiai/Torno taika (1411 m.)]]
-- [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]
-- [[objektai/ivykiai/Vytauto mirtis (1430 m. spalio 27 d.)]]
 
-### Žodynas
-- [[objektai/zodynas/Baudžiava]]
-- [[objektai/zodynas/inkorporacija]]
-- [[objektai/zodynas/Personalinė unija]]
+## Nerodoma Graph'e
+
+- Dar 10 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.

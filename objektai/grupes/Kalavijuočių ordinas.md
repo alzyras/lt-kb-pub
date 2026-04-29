@@ -200,5 +200,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 ### Teminiai klasteriai
 - [[temos/ginklas]]
 
+### Laikotarpiai
+- [[laikotarpiai/XIII amžius]]
+
 ### Susiję objektai
 - [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]
