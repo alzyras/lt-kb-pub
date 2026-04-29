@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - tauta
 ---
 # Berno konferencija (1916 m. kovo 1–5 d.)
 

@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - paprotys
+  - ritualas
 ---
 # Pagoniškosios Lietuvos tikybinės apeigos
 

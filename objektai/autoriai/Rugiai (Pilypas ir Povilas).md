@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - autorius
+  - mokslininkas
 ---
 # Rugiai (Pilypas ir Povilas)
 

@@ -14,14 +14,16 @@ datos:
   - '1044 m.'
 periodas: ''
 periodo_grupes: []
-amziai: []
+amziai:
+  - 'XI'
 date_start: '1044'
 date_end: '1044'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukstas'
-tags: []
+tags:
+  - karas
 ---
 # Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)
 

@@ -8,6 +8,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - karalius
+  - unija
+  - valstybė
   - vieta
 ---
 # Kijevas
@@ -132,7 +135,6 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/unija]]
-- [[temos/karalius - valstybė]]
 
 ### Susiję objektai
 - [[objektai/vietos/Braclavas]]

@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - paprotys
+  - seimas
 ---
 # Generaliniai seimeliai ir provincijų sesijos
 

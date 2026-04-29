@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - posakis
+  - tauta
+  - valstybė
 ---
 # abiejų tautų Respublika
 

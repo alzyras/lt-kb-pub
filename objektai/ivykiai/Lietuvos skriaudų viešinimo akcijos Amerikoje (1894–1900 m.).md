@@ -11,6 +11,7 @@ tags:
   - ivykis
   - kunigas
   - pinigai
+  - tauta
 ---
 # Lietuvos skriaudų viešinimo akcijos Amerikoje (1894–1900 m.)
 

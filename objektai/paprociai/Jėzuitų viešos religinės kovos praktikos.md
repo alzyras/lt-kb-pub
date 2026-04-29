@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - kunigas
+  - mokslininkas
   - paprotys
   - vyskupas
 ---

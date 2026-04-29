@@ -9,7 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
-  - sutartis
+  - bajorija
+  - karalius
+  - karas
 ---
 # Vasylius Šuiskis
 
@@ -57,8 +59,5 @@ O kadangi caras Šuiskis buvo padaręs sutartį su Švedais, tai karalius Zigman
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/bajorija - karalius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Karas su Maskva (1609–1613 m.)]]

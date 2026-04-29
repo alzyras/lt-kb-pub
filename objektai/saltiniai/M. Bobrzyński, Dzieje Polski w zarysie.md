@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - saltinis
+  - tauta
 ---
 # M. Bobrzyński, Dzieje Polski w zarysie
 

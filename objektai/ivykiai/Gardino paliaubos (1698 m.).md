@@ -8,7 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'žemas'
 tags:
+  - bajorija
   - ivykis
+  - karalius
+  - paliaubos
 ---
 # Gardino paliaubos (1698 m.)
 
@@ -43,7 +46,6 @@ Jo priešai tuo tarpu įsigalėjo Lietuvoje, apnaikino Sapiegų dvarus ir, sutel
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/bajorija - karalius]]
 - [[temos/paliaubos]]
 
 ### Laikotarpiai

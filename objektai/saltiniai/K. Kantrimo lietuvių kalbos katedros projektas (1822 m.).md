@@ -8,6 +8,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - mokslininkas
   - saltinis
 ---
 # K. Kantrimo lietuvių kalbos katedros projektas (1822 m.)

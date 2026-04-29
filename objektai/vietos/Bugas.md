@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'žemas'
 tags:
   - miestas
+  - ordinas
   - sutartis
   - vieta
 ---

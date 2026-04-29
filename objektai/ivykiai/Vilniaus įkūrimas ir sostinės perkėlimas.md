@@ -9,6 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - krikštas
+  - ordinas
+  - popiežius
 ---
 # Vilniaus įkūrimas ir sostinės perkėlimas
 

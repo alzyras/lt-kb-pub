@@ -20,6 +20,7 @@ susije_irasai: []
 patikimumas: 'aukštas'
 tags:
   - posakis
+  - unija
 ---
 # Jei mes jums dovanoti, tai kam jums dar derėtis dėl unijos?
 

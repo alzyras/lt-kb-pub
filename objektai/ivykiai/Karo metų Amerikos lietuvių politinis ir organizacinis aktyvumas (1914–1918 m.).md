@@ -9,6 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karas
+  - seimas
+  - tauta
 ---
 # Karo metų Amerikos lietuvių politinis ir organizacinis aktyvumas (1914–1918 m.)
 
@@ -125,8 +128,5 @@ Jau 1914 m. Filadelfijoje įvyko bendras lietuvių ir ukrainiečių mitingas, ku
     - t-005
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/institucija - tauta]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]

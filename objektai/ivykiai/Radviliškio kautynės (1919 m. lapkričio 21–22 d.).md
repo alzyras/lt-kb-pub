@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karas
 ---
 # Radviliškio kautynės (1919 m. lapkričio 21–22 d.)
 

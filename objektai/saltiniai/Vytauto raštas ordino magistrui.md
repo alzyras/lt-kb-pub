@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - dokumentas
+  - ordinas
   - saltinis
 ---
 # Vytauto raštas ordino magistrui

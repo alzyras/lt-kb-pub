@@ -9,6 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - kraštas
+  - tauta
+  - valstybė
 ---
 # Ambasadorių Konferencija
 
@@ -98,8 +101,5 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/institucija - tauta]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Klaipėdos krašto autonominis režimas]]

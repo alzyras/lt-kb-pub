@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karas
 ---
 # Kazimiero išrinkimas Lenkų karalium
 

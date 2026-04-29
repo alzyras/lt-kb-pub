@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - saltinis
   - sutartis
+  - valstybė
 ---
 # Laikinosios konstitucijos pamatiniai dėsniai
 

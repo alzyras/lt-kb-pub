@@ -18,6 +18,8 @@ dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
 tags:
+  - bajorija
+  - kunigaikštis
   - posakis
 ---
 # Mūsų brolis yra laisvas

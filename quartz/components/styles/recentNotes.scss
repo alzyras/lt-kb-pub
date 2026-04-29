@@ -16,9 +16,37 @@
       }
 
       .section > .meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.25rem;
         margin: 0 0 0.5rem 0;
-        opacity: 0.6;
       }
     }
   }
+}
+
+.recent-notes .period-chip {
+  display: inline-flex;
+  align-items: center;
+  min-height: 1.25rem;
+  padding: 0.1rem 0.42rem;
+  border: 1px solid color-mix(in srgb, var(--secondary) 28%, var(--lightgray));
+  border-radius: 999rem;
+  background: color-mix(in srgb, var(--secondary) 8%, transparent);
+  color: var(--darkgray);
+  font-size: 0.7rem;
+  font-weight: 750;
+  line-height: 1.2;
+  text-decoration: none;
+}
+
+.recent-notes a.period-chip {
+  color: var(--secondary);
+}
+
+.recent-notes .period-chip-date {
+  border-color: color-mix(in srgb, var(--darkgray) 22%, var(--lightgray));
+  background: color-mix(in srgb, var(--lightgray) 30%, transparent);
+  color: var(--darkgray);
+  font-variant-numeric: tabular-nums;
 }

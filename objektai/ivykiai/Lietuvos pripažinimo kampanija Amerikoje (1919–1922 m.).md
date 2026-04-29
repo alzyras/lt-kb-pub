@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - diplomatas
   - ivykis
+  - valstybė
 ---
 # Lietuvos pripažinimo kampanija Amerikoje (1919–1922 m.)
 

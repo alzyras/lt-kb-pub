@@ -11,7 +11,7 @@ tags:
   - asmuo
   - dokumentas
   - miestas
-  - pilis
+  - ordinas
 ---
 # Mykolas Kuchmeisteris
 
@@ -62,7 +62,6 @@ Plaueno ar Mykolo Kuchmeisterio (paimta ties Koronovu), 48) Tomo miesto, 49) Dan
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dokumentas]]
-- [[temos/miestas - pilis]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Henrikas von Plauenas]]

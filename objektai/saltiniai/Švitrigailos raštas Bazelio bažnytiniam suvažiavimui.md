@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'žemas'
 tags:
   - dokumentas
+  - ordinas
   - saltinis
 ---
 # Švitrigailos raštas Bazelio bažnytiniam suvažiavimui

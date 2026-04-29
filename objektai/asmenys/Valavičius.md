@@ -9,7 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - karalius
   - privilegija
+  - unija
 ---
 # Valavičius
 
@@ -81,7 +83,6 @@ Abudu kancleriai — Radvila ir Valavičius — net buvo atsisakę prispausti pr
 ### Teminiai klasteriai
 - [[temos/privilegija]]
 - [[temos/unija]]
-- [[temos/karalius - valstybė]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Radvila (Liublino unijos derybininkas)]]

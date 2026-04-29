@@ -8,9 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
+  - karalius
   - miestas
   - vieta
-  - vyskupas
 ---
 # Naugardukas
 
@@ -120,9 +121,6 @@ tags:
     - t-005
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/bajorija - karalius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Kleckas]]
 - [[objektai/vietos/Lyda]]

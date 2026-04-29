@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - kraštas
+  - valstybė
 ---
 # Valstybės Taryba
 

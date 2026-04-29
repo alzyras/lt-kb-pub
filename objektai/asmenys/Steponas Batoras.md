@@ -9,6 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - elekcija
+  - karas
+  - popiežius
 ---
 # Steponas Batoras
 

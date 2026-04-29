@@ -9,6 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - daiktas
+  - karalius
+  - karas
+  - seimas
 ---
 # Sostas
 

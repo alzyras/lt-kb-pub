@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - asmuo
   - kunigas
+  - mokslininkas
   - vyskupas
 ---
 # Ignas Masalskis

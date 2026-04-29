@@ -8,6 +8,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - kraštas
   - upė
   - vieta
 ---
@@ -41,6 +42,7 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
 
 ## Ryšiai
 ### Teminiai klasteriai
+- [[temos/upė - šventė]]
 - [[temos/upė]]
 - [[temos/šventė]]
 

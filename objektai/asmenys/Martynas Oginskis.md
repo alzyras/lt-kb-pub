@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - bajorija
+  - karalius
   - vyskupas
 ---
 # Martynas Oginskis
@@ -47,7 +49,3 @@ fundacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske (kanclerio 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/bajorija - karalius]]

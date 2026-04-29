@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - valstybė
 ---
 # Nepriklausomosios Latvių valstybės įkūrimas (1918 m. lapkričio 18 d.)
 

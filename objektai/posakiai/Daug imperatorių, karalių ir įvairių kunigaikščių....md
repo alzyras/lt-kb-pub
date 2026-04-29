@@ -18,6 +18,8 @@ dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
 tags:
+  - karalius
+  - kunigaikštis
   - posakis
 ---
 # Daug imperatorių, karalių ir įvairių kunigaikščių...

@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - bajorija
+  - karalius
 ---
 # Flemingas
 
@@ -37,7 +39,3 @@ Jo generolas Flemingas pasidarė tarpininku tarp bajorijos ir Sapiegų.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/bajorija - karalius]]

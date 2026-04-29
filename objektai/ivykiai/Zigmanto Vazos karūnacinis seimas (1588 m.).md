@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'žemas'
 tags:
   - ivykis
+  - seimas
 ---
 # Zigmanto Vazos karūnacinis seimas (1588 m.)
 

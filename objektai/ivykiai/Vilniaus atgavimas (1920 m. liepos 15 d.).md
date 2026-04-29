@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karas
 ---
 # Vilniaus atgavimas (1920 m. liepos 15 d.)
 

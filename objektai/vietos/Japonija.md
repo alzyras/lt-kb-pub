@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - sutartis
+  - valstybė
   - vieta
 ---
 # Japonija

@@ -8,7 +8,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
   - saltinis
+  - seimas
 ---
 # Gyventojų išlaidų normuojamasis įstatymas (lex sumptuaria, 1776 m.)
 

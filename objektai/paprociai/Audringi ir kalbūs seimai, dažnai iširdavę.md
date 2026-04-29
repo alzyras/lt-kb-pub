@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - paprotys
+  - seimas
 ---
 # Audringi ir kalbūs seimai, dažnai iširdavę
 

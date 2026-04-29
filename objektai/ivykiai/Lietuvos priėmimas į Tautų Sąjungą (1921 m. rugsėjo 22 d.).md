@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - tauta
+  - valstybė
 ---
 # Lietuvos priėmimas į Tautų Sąjungą (1921 m. rugsėjo 22 d.)
 
@@ -50,8 +52,5 @@ Kitame visuotiniame Tautų Sąjungos susirinkime (1921 m.) visų trijų Pabaltij
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/institucija - tauta]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]

@@ -9,8 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - kunigaikštis
+  - mokslininkas
   - valdovas
-  - vyskupas
 ---
 # Zigmantas II (Senasis)
 

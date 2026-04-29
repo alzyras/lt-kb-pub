@@ -16,7 +16,8 @@ datos:
   - '1323–1325 m.'
 periodas: ''
 periodo_grupes: []
-amziai: []
+amziai:
+  - 'XIV'
 date_start: '1323'
 date_end: '1325'
 vaidmenys: []

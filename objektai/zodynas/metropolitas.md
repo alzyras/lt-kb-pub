@@ -45,12 +45,8 @@ Vartojamos formos: metropolito Teognosto, ortodoksų metropolito, arkivyskupo-me
   - XIV a. pradžia; 1300 m. ir po to; 1354 m.
   - 1375 m.
   - 1389 m. ir 1415 m.
-- periodas:
-- periodo_grupes:
 - amziai:
   - XIV a. pradžia; 1300 m. ir po to; 1354 m.
-- date_start:
-- date_end:
 
 ## Reikšmė iš konteksto
 

@@ -10,6 +10,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karas
+  - kraštas
   - upė
 ---
 # Lietuvos ir Latvijos sienos išvedimas (1921 m.)
@@ -116,3 +118,4 @@ Vedant Lietuvos Latvijos sieną, prie Latvijos buvo prijungti kai kurie lietuvi�
 ### Teminiai klasteriai
 - [[temos/upė]]
 - [[temos/šventė]]
+- [[temos/upė - šventė]]

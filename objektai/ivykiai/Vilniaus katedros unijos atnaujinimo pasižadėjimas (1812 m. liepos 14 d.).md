@@ -8,7 +8,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
   - ivykis
+  - unija
 ---
 # Vilniaus katedros unijos atnaujinimo pasižadėjimas (1812 m. liepos 14 d.)
 

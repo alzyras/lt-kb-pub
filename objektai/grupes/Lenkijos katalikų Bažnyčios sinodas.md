@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - tikėjimas
 ---
 # Lenkijos katalikų Bažnyčios sinodas
 

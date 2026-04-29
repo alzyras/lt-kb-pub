@@ -8,8 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
+  - karalius
+  - kunigaikštis
   - vieta
-  - vyskupas
 ---
 # Pinskas
 
@@ -84,8 +86,5 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/bajorija - karalius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Vaišvilkas]]

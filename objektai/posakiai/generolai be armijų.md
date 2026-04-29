@@ -8,7 +8,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'žemas'
 tags:
+  - kraštas
   - posakis
+  - tauta
 ---
 # generolai be armijų
 

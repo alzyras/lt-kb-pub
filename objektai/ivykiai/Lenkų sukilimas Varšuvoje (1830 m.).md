@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karalius
   - sukilimas
 ---
 # Lenkų sukilimas Varšuvoje (1830 m.)

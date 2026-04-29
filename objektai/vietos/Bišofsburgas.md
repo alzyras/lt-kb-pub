@@ -42,7 +42,3 @@ vidury, Bišofsburgas— 1395 m., Lyka — 1398 m. (miestelis prie jos pradėtas
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/miestas - pilis]]

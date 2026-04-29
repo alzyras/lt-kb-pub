@@ -12,7 +12,8 @@ datos:
   - 'kryžiaus žygių epocha'
 periodas: 'viduramziai'
 periodo_grupes: []
-amziai: []
+amziai:
+  - 'XI'
 date_start: '1099'
 date_end: '1099'
 vaidmenys: []

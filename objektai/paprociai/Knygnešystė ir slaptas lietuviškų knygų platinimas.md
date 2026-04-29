@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - kunigas
   - paprotys
+  - tauta
 ---
 # Knygnešystė ir slaptas lietuviškų knygų platinimas
 

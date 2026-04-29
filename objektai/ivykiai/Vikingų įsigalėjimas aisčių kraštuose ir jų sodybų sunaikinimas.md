@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - kraštas
 ---
 # Vikingų įsigalėjimas aisčių kraštuose ir jų sodybų sunaikinimas
 

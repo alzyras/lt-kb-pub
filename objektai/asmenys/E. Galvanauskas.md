@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - tauta
 ---
 # E. Galvanauskas
 
@@ -78,7 +79,3 @@ Tautų Sąjungos Taryba, išklausiusi Lietuvos delegato (Galvanausko) protestą 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/institucija - tauta]]

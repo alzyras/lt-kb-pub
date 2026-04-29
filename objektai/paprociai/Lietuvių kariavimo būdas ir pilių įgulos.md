@@ -8,9 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - kraštas
+  - ordinas
   - paprotys
   - pilis
-  - upė
 ---
 # Lietuvių kariavimo būdas ir pilių įgulos
 

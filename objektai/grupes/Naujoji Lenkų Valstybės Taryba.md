@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - valstybė
 ---
 # Naujoji Lenkų Valstybės Taryba
 

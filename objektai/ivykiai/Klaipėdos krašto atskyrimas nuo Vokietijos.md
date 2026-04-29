@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - kraštas
+  - valstybė
 ---
 # Klaipėdos krašto atskyrimas nuo Vokietijos
 

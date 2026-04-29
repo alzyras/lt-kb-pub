@@ -20,6 +20,7 @@ dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
 tags:
+  - kunigaikštis
   - posakis
 ---
 # Bemeilijo žūti ugny, negu pasiduoti vokiečiams

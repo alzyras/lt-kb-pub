@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'žemas'
 tags:
   - paprotys
+  - seimas
 ---
 # Seimo vienbalsiškumo ir liberum veto norma
 

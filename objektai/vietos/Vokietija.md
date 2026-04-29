@@ -9,7 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ginklas
-  - vieta
+  - kraštas
+  - mokslininkas
+  - ordinas
 ---
 # Vokietija
 

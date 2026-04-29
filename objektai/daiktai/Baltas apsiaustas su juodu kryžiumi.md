@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - daiktas
+  - kraštas
 ---
 # Baltas apsiaustas su juodu kryžiumi
 

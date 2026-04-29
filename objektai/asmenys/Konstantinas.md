@@ -9,7 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - karalius
   - reforma
+  - seimas
 ---
 # Konstantinas
 

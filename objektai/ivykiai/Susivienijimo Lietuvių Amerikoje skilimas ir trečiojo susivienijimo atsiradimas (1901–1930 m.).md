@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - seimas
 ---
 # Susivienijimo Lietuvių Amerikoje skilimas ir trečiojo susivienijimo atsiradimas (1901–1930 m.)
 

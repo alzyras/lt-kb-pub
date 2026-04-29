@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - reforma
   - sąvoka
+  - valstybė
 ---
 # jozefinizmas
 

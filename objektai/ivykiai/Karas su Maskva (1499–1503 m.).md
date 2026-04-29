@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'žemas'
 tags:
   - ivykis
+  - karas
 ---
 # Karas su Maskva (1499–1503 m.)
 

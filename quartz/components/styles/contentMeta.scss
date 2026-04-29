@@ -12,3 +12,51 @@
     }
   }
 }
+
+.period-meta {
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.period-meta-label {
+  color: var(--gray);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.period-chips {
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+}
+
+.period-chip {
+  display: inline-flex;
+  align-items: center;
+  min-height: 1.35rem;
+  padding: 0.12rem 0.48rem;
+  border: 1px solid color-mix(in srgb, var(--secondary) 30%, var(--lightgray));
+  border-radius: 999rem;
+  background: color-mix(in srgb, var(--secondary) 9%, transparent);
+  color: var(--darkgray);
+  font-size: 0.76rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+a.period-chip {
+  color: var(--secondary);
+  text-decoration: none;
+}
+
+.period-chip-date {
+  border-color: color-mix(in srgb, var(--darkgray) 22%, var(--lightgray));
+  background: color-mix(in srgb, var(--lightgray) 32%, transparent);
+  color: var(--darkgray);
+  font-variant-numeric: tabular-nums;
+}

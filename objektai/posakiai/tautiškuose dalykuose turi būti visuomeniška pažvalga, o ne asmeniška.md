@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - posakis
+  - tauta
+  - tikėjimas
 ---
 # tautiškuose dalykuose turi būti visuomeniška pažvalga, o ne asmeniška
 

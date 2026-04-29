@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - autorius
+  - karalius
+  - valstybė
 ---
 # Zigmantas Kęstutaitis
 
@@ -44,5 +46,4 @@ Jis tuojau susiartino su Lenkų priešu imperatorium Albrechtu (Zigmanto įpėdi
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/karalius - valstybė]]
 - [[temos/laiškas]]

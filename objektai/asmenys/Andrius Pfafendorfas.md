@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - asmuo
   - dokumentas
+  - ordinas
 ---
 # Andrius Pfafendorfas
 

@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - daiktas
+  - ordinas
   - pinigai
 ---
 # Sidabro lazdelės ir Prahos skatikai

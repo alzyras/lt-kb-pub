@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - ivykis
   - miestas
+  - seimas
 ---
 # Liublino seimo sprendimas dėl seimų vietos
 

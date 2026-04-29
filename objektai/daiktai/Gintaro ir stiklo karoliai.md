@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 periodas: priesistore
 tags:
   - daiktas
+  - papuošalas
 ---
 # Gintaro ir stiklo karoliai
 

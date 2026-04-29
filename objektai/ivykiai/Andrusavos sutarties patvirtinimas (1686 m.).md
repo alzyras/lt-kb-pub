@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karas
   - sutartis
 ---
 # Andrusavos sutarties patvirtinimas (1686 m.)

@@ -18,7 +18,9 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: aukstas
-tags: []
+tags:
+  - prekyba
+  - įrankis
 ---
 # Birka
 

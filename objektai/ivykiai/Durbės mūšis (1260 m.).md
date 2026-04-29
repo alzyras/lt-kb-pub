@@ -28,6 +28,7 @@ dalyviai:
 susije_irasai: []
 patikimumas: aukstas
 tags:
+  - karas
   - mūšis
 ---
 # Durbės mūšis (1260 m.)

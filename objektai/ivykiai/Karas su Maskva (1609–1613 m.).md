@@ -8,8 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
   - ivykis
-  - sutartis
+  - karalius
+  - karas
 ---
 # Karas su Maskva (1609–1613 m.)
 
@@ -76,9 +78,6 @@ O kadangi caras Šuiskis buvo padaręs sutartį su Švedais, tai karalius Zigman
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/bajorija - karalius]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XVII amžius]]
 

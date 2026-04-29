@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - dokumentas
+  - ordinas
   - sąvoka
 ---
 # prūsų teisės

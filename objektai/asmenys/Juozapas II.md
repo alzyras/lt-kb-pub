@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - asmuo
   - reforma
+  - valstybė
 ---
 # Juozapas II
 

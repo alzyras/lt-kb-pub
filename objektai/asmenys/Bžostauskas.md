@@ -9,7 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
-  - vyskupas
+  - bajorija
+  - karalius
+  - karas
 ---
 # Bžostauskas
 
@@ -77,8 +79,5 @@ Vilniaus vyskupui Bžostauskui tarpininkaujant, dar buvo mėginta tartis, tačia
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/bajorija - karalius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Mykolas Kaributas Višniaveckis]]

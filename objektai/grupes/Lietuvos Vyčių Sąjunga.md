@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - karas
+  - mokslininkas
 ---
 # Lietuvos Vyčių Sąjunga
 

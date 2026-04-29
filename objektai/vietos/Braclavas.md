@@ -8,6 +8,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - karalius
+  - unija
+  - valstybė
   - vieta
 ---
 # Braclavas
@@ -59,7 +62,6 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/unija]]
-- [[temos/karalius - valstybė]]
 
 ### Susiję objektai
 - [[objektai/vietos/Kijevas]]

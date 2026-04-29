@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - sąvoka
+  - tauta
   - vyskupas
 ---
 # tautinės bažnyčios

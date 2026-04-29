@@ -9,6 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - kraštas
+  - tauta
+  - valstybė
 ---
 # Jotvingai
 

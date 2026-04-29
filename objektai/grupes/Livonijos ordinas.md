@@ -34,6 +34,7 @@ datos:
 patikimumas: 'aukštas'
 tags:
   - grupe
+  - ordinas
   - pilis
 ---
 # Livonijos ordinas

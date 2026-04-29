@@ -38,11 +38,6 @@ Vartojamos formos: apostazijos, apostaziją, atsimetė, atkritęs.
 - laikotarpis: 1260–1268 m.` kontekstas; 1261 m.; 1268 m.; 1324 m.
 - datos:
   - 1260–1268 m.` kontekstas; 1261 m.; 1268 m.; 1324 m.
-- periodas:
-- periodo_grupes:
-- amziai:
-- date_start:
-- date_end:
 
 ## Reikšmė iš konteksto
 

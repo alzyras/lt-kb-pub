@@ -34,12 +34,8 @@ Kremlius šiame šaltinyje minimas kaip Jono Kalitos tvirtovė ir kaip viena iš
 
 ## Laikotarpis ir datos
 - laikotarpis: XIV amžiaus pirmoji pusė
-- datos:
 - periodas: viduramziai
-- periodo_grupes:
 - amziai: XIV
-- date_start:
-- date_end:
 
 ## Kas tai
 Kremlius čia aprašomas kaip tvirtovė, susieta su Maskvos valdžios centru.

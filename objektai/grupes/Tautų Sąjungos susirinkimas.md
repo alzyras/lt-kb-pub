@@ -10,6 +10,8 @@ patikimumas: 'vidutinis'
 tags:
   - grupe
   - sutartis
+  - tauta
+  - valstybė
 ---
 # Tautų Sąjungos susirinkimas
 

@@ -205,11 +205,22 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const isCurrent = d.id === slug
     if (isCurrent) {
       return computedStyleMap["--secondary"]
+    } else if (d.id.startsWith("laikotarpiai/")) {
+      return computedStyleMap["--secondary"]
+    } else if (d.id.startsWith("temos/")) {
+      return computedStyleMap["--tertiary"]
     } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
       return computedStyleMap["--tertiary"]
     } else {
       return computedStyleMap["--gray"]
     }
+  }
+
+  function nodeKind(id: SimpleSlug): "tag" | "topic" | "period" | "object" {
+    if (id.startsWith("tags/")) return "tag"
+    if (id.startsWith("temos/")) return "topic"
+    if (id.startsWith("laikotarpiai/")) return "period"
+    return "object"
   }
 
   function nodeRadius(d: NodeData) {
@@ -480,7 +491,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     label.scale.set(1 / scale)
 
     let oldLabelOpacity = 0
-    const isTagNode = nodeId.startsWith("tags/")
+    const kind = nodeKind(nodeId)
     const gfx = new Graphics({
       interactive: true,
       label: nodeId,
@@ -489,7 +500,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       cursor: "pointer",
     })
       .circle(0, 0, nodeRadius(n))
-      .fill({ color: isTagNode ? computedStyleMap["--light"] : color(n) })
+      .fill({ color: kind === "tag" ? computedStyleMap["--light"] : color(n) })
       .on("pointerover", (e) => {
         updateHoverInfo(e.target.label)
         oldLabelOpacity = label.alpha
@@ -505,8 +516,12 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         }
       })
 
-    if (isTagNode) {
+    if (kind === "tag") {
       gfx.stroke({ width: 2, color: computedStyleMap["--tertiary"] })
+    } else if (kind === "topic") {
+      gfx.stroke({ width: 2, color: computedStyleMap["--darkgray"] })
+    } else if (kind === "period") {
+      gfx.stroke({ width: 2, color: computedStyleMap["--light"] })
     }
 
     nodesContainer.addChild(gfx)

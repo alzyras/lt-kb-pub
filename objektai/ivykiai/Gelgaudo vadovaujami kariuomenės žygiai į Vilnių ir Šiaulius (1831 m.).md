@@ -8,7 +8,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
   - ivykis
+  - kraštas
 ---
 # Gelgaudo vadovaujami kariuomenės žygiai į Vilnių ir Šiaulius (1831 m.)
 

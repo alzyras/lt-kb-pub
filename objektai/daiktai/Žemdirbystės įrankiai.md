@@ -10,6 +10,7 @@ patikimumas: 'aukštas'
 periodas: priesistore
 tags:
   - daiktas
+  - įrankis
 ---
 # Žemdirbystės įrankiai
 

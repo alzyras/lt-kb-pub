@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - popiežius
   - vyskupas
 ---
 # Blaivybės brolijų kūrimas ir plitimas Žemaičių vyskupystėje (1858—1859 m.)

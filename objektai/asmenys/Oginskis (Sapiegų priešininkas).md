@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - bajorija
+  - karalius
 ---
 # Oginskis (Sapiegų priešininkas)
 
@@ -92,9 +94,6 @@ O kai 1696 m. mirė karalius Sobieskis, tai Žemaičiuose ir Lietuvos rytuose (P
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/bajorija - karalius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Katilas]]
 - [[objektai/asmenys/Pociejus]]

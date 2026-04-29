@@ -9,7 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - mokslininkas
   - pinigai
+  - valstybė
 ---
 # Bona Sforza
 

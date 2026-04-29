@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'žemas'
 tags:
   - daiktas
+  - kraštas
   - upė
 ---
 # Gairės
@@ -42,5 +43,6 @@ Lietuvos Latvijos siena susidarė 487 klm. ilgumo. Ji visa, nuo Šventosios upė
 
 ## Ryšiai
 ### Teminiai klasteriai
+- [[temos/upė - šventė]]
 - [[temos/upė]]
 - [[temos/šventė]]

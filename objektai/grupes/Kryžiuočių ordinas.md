@@ -63,6 +63,7 @@ datos:
 patikimumas: 'aukštas'
 tags:
   - grupe
+  - ordinas
 ---
 # Kryžiuočių ordinas
 

@@ -9,7 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - karas
   - kunigas
+  - mokslininkas
 ---
 # Susivienijimas Lietuvių Rymo Katalikų Amerikoje
 

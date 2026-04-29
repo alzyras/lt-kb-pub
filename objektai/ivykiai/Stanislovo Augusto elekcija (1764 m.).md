@@ -8,7 +8,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'žemas'
 tags:
+  - elekcija
   - ivykis
+  - kraštas
 ---
 # Stanislovo Augusto elekcija (1764 m.)
 

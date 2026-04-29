@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - ivykis
   - reforma
+  - seimas
   - sutartis
 ---
 # Rusijos ir Prūsijos sutartis remti Poniatausko kandidatūrą (1764 m.)

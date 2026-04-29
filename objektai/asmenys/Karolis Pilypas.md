@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - asmuo
   - ginklas
+  - karalius
 ---
 # Karolis Pilypas
 

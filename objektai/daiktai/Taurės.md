@@ -8,8 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
   - daiktas
   - didikas
+  - karalius
 ---
 # Taurės
 
@@ -46,5 +48,4 @@ Iškilo girtuokliavimo kultas: didikai ir bajorija savo šeimos brangenybių tar
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/bajorija - karalius]]
 - [[temos/didikas]]

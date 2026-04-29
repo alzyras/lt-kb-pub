@@ -8,8 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
   - ivykis
   - reforma
+  - tikėjimas
 ---
 # Baudžiavos panaikinimas Rusijos imperijoje (1861 m.)
 

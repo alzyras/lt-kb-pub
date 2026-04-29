@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 periodas: viduramziai
 tags:
   - daiktas
+  - simbolis
 ---
 # Riterių vėliava
 

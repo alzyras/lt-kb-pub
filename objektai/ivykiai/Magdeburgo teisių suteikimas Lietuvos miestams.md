@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karas
+  - kraštas
   - miestas
 ---
 # Magdeburgo teisių suteikimas Lietuvos miestams

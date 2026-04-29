@@ -48,11 +48,6 @@ Vartojamos formos: Lietuvos valstybingumo idealą, valstybingumo idėją, valsty
   - nuo 1572 m.
   - 1795 m.
   - 1918 m.
-- periodas:
-- periodo_grupes:
-- amziai:
-- date_start:
-- date_end:
 
 ## Reikšmė iš konteksto
 

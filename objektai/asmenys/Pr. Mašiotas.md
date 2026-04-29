@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - tauta
 ---
 # Pr. Mašiotas
 
@@ -42,9 +43,6 @@ Mašioto, J.
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/institucija - tauta]]
-
 ### Susiję objektai
 - [[objektai/asmenys/J. Jablonskis]]
 - [[objektai/asmenys/dr. K. Grinius]]

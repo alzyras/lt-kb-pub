@@ -8,6 +8,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'žemas'
 tags:
+  - bajorija
   - sąvoka
 ---
 # modus vivendi

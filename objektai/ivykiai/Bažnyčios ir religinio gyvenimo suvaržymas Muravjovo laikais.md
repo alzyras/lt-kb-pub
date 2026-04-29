@@ -9,8 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - kraštas
   - kunigas
-  - sukilimas
+  - mokslininkas
 ---
 # Bažnyčios ir religinio gyvenimo suvaržymas Muravjovo laikais
 

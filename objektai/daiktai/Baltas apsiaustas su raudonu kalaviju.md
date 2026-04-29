@@ -10,6 +10,8 @@ patikimumas: 'vidutinis'
 tags:
   - daiktas
   - ginklas
+  - ordinas
+  - popiežius
 ---
 # Baltas apsiaustas su raudonu kalaviju
 

@@ -9,8 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karas
+  - paliaubos
   - sukilimas
-  - sutartis
 ---
 # Želigovskio smurtas (1920 m. spalio 8–9 d.)
 

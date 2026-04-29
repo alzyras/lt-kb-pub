@@ -9,7 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - kunigaikštis
   - miestas
+  - ordinas
 ---
 # Tomas Moerheimas
 

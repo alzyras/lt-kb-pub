@@ -8,8 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - krikštas
+  - mokslininkas
   - paprotys
-  - valdovas
+  - ritualas
 ---
 # Žemaičių krikšto apeigos 1413 m
 

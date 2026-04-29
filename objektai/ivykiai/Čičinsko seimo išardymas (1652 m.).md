@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - seimas
+  - unija
 ---
 # Čičinsko seimo išardymas (1652 m.)
 

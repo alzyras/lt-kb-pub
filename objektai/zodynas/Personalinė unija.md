@@ -36,11 +36,6 @@ Personalinė unija šiame veikale aiškinama kaip dviejų atskirų valstybių ry
   - 1499 m.
   - 1501 m.
   - 1569 m.
-- periodas:
-- periodo_grupes:
-- amziai:
-- date_start:
-- date_end:
 
 ## Reikšmė iš konteksto
 Sąvoka apibūdina tokią politinę jungtį, kurioje valstybės išlieka atskiros, nors jas valdo tas pats valdovas. Ji priešpriešinama realinei unijai ir vienos jungtinės valstybės modeliui.

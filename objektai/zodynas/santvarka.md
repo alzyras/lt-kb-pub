@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - sąvoka
+  - unija
+  - valstybė
 ---
 # santvarka
 

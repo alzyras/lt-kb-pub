@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karalius
+  - seimas
   - sutartis
 ---
 # Antrasis Respublikos padalinimas (1793 m.)
@@ -65,8 +67,5 @@ Tuo būdu prieš pirmąjį Respublikos padalinimą buvusi perskirta Prūsų Bran
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/karalius - valstybė]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XVIII amžius]]

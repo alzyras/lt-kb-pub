@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - tauta
 ---
 # Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)
 
@@ -57,8 +58,5 @@ tags:
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/institucija - tauta]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]

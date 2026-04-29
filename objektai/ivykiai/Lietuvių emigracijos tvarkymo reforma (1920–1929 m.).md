@@ -9,7 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - kraštas
   - reforma
+  - tauta
 ---
 # Lietuvių emigracijos tvarkymo reforma (1920–1929 m.)
 
@@ -84,7 +86,6 @@ Pirmasis emigracijos įstatymas buvo išleistas dar 1920 m., bet pasirodė, kad 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/reforma]]
-- [[temos/institucija - tauta]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]

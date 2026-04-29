@@ -9,7 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - bajorija
   - dokumentas
+  - kunigaikštis
 ---
 # Aleksandras (didysis kunigaikštis)
 

@@ -11,6 +11,7 @@ periodas: priesistore
 tags:
   - daiktas
   - ginklas
+  - įrankis
 ---
 # Geležiniai ginklai ir įrankiai
 

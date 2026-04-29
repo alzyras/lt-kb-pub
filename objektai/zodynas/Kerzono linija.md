@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ežeras
+  - kraštas
+  - paliaubos
   - sąvoka
 ---
 # Kerzono linija

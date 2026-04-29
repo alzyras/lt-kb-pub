@@ -8,7 +8,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
   - posakis
+  - seimas
 ---
 # Mužikus nori padaryti bajorais, o mus — mužikais
 

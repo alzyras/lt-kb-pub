@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - unija
 ---
 # Lietuviškosios spaudos pradžia Amerikoje (1874–1885 m.)
 

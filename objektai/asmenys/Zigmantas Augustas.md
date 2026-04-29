@@ -9,7 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
-  - valdovas
+  - bajorija
+  - kunigaikštis
+  - popiežius
 ---
 # Zigmantas Augustas
 
@@ -181,6 +183,7 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
 ### Teminiai klasteriai
 - [[temos/popiežius]]
 - [[temos/valdovas]]
+- [[temos/popiežius - valdovas]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Bona]]

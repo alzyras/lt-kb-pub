@@ -8,7 +8,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'žemas'
 tags:
+  - karas
   - sąvoka
+  - valstybė
 ---
 # kvarta
 

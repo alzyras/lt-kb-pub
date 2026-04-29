@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - ivykis
   - miestas
+  - tauta
 ---
 # Lietuviškos spaudos ir organizacijų kūrimasis Pietų Amerikoje (1927–1936 m.)
 

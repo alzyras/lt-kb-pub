@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - sąvoka
+  - unija
 ---
 # statuto dėsniai
 
@@ -60,3 +61,4 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
 ### Teminiai klasteriai
 - [[temos/aktas]]
 - [[temos/unija]]
+- [[temos/aktas - unija]]

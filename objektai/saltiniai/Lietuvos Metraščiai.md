@@ -12,7 +12,8 @@ datos:
   - '1968 m.'
 periodas: ''
 periodo_grupes: []
-amziai: []
+amziai:
+  - 'XX'
 date_start: '1968'
 date_end: '1968'
 vaidmenys: []

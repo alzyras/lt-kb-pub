@@ -9,6 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karalius
+  - unija
+  - valstybė
 ---
 # Lietuvos ir Lenkijos unijos derybos Varšuvoje ir Liubline bei Liublino unijos akto priėmimas (1563–1569 m.)
 
@@ -39,7 +42,7 @@ Visa tai liepos 1 d. buvo patvirtinta trimis unijos aktais — dviem abiejų val
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/karalius - valstybė]]
+- [[temos/aktas - unija]]
 - [[temos/aktas]]
 - [[temos/unija]]
 

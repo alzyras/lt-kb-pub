@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - ordinas
+  - paliaubos
 ---
 # imperatorius Vaclovas
 

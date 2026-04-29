@@ -38,11 +38,6 @@ Vartojamos formos: dykroje, dykros, dykrą, dykra, dykras.
 - laikotarpis: 1422 m. ir Melno taikos kontekstas
 - datos:
   - 1422 m. ir Melno taikos kontekstas
-- periodas:
-- periodo_grupes:
-- amziai:
-- date_start:
-- date_end:
 
 ## Reikšmė iš konteksto
 

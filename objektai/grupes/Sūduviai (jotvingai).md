@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'žemas'
 tags:
   - grupe
+  - kraštas
 ---
 # Sūduviai (jotvingai)
 

@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - daiktas
+  - karalius
   - pinigai
 ---
 # Zigmanto Vazos pinigai

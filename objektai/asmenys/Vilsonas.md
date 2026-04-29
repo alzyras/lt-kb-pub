@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - seimas
+  - tauta
 ---
 # Vilsonas
 
@@ -58,7 +60,3 @@ Seimas išrinko iš katalikiškosios Tautos Tarybos ir iš tautininkų Amerikos 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/institucija - tauta]]

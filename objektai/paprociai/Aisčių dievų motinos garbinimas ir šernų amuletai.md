@@ -18,7 +18,9 @@ date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
-tags: []
+tags:
+  - ritualas
+  - tikėjimas
 ---
 # Aisčių dievų motinos garbinimas ir šernų amuletai
 

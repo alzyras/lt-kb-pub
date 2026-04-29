@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - kraštas
 ---
 # Valkininkų konfederacijos nutarimas (1700 m.)
 

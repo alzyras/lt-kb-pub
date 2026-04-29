@@ -35,11 +35,6 @@ Baudžiava šiame veikale nusako valstiečių priklausomybę ponui ir jų prival
 - datos:
   - 1447 m.
   - 1861 m. vasario 19 d.
-- periodas:
-- periodo_grupes:
-- amziai:
-- date_start:
-- date_end:
 
 ## Reikšmė iš konteksto
 Sąvoka apima ir teisinę valstiečių priklausomybę nuo pono, ir konkretų lažo režimą, kai nuo valako reikėjo eiti nustatytas darbo dienas dvarui.

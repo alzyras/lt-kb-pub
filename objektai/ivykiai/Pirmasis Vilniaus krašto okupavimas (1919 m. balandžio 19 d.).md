@@ -10,6 +10,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - kraštas
 ---
 # Pirmasis Vilniaus krašto okupavimas (1919 m. balandžio 19 d.)
 

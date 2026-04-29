@@ -14,6 +14,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - kraštas
+  - ordinas
   - sutartis
 ---
 # Salyno sutartis

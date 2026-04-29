@@ -10,6 +10,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - saltinis
+  - seimas
 ---
 # Didysis Vilniaus seimas
 

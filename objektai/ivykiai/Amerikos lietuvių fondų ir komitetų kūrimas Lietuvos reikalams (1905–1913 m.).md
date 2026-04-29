@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - ivykis
   - pinigai
+  - tauta
 ---
 # Amerikos lietuvių fondų ir komitetų kūrimas Lietuvos reikalams (1905–1913 m.)
 
@@ -99,7 +100,6 @@ Tumas, atvykę į Ameriką, surinko 19.000 dolerių. Kilus 1905 m. revoliucijai 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
-- [[temos/institucija - tauta]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]

@@ -8,8 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - karas
   - mūšis
   - sąvoka
+  - tauta
 ---
 # karo taryba
 
@@ -43,5 +45,4 @@ Vytautas buvo sudarytosios karo tarybos pirmininkas, todėl jisai buvo ir tikras
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/institucija - tauta]]
 - [[temos/mūšis]]

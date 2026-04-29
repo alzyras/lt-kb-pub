@@ -9,7 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - karalius
   - reforma
+  - seimas
 ---
 # Varšuvos konfederacinis seimas
 

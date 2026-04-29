@@ -9,6 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - kunigaikštis
+  - tauta
+  - tikėjimas
 ---
 # Algirdo mirtis ir Jogailos paskyrimas įpėdiniu
 

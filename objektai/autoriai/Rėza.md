@@ -17,6 +17,7 @@ vaidmenys:
 patikimumas: 'vidutinis'
 tags:
   - autorius
+  - mokslininkas
 ---
 # Rėza
 

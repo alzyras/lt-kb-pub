@@ -9,8 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - krikštas
   - miestas
-  - vyskupas
+  - ordinas
 ---
 # Gedimino krikšto, laiškų ir taikos kampanija
 

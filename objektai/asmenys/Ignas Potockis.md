@@ -9,7 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - kraštas
   - reforma
+  - seimas
 ---
 # Ignas Potockis
 

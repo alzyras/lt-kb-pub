@@ -8,7 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
+  - karalius
   - sąvoka
+  - unija
 ---
 # egzekucija
 
@@ -60,8 +63,6 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/unija]]
-- [[temos/bajorija - karalius]]
-- [[temos/karalius - valstybė]]
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]

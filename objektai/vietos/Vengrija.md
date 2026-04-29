@@ -9,7 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ginklas
-  - vieta
+  - karalius
+  - ordinas
+  - valstybė
 ---
 # Vengrija
 
@@ -80,7 +82,6 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ginklas]]
-- [[temos/karalius - valstybė]]
 
 ### Susiję objektai
 - [[objektai/vietos/Vokietija]]

@@ -8,7 +8,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - karalius
   - posakis
+  - seimas
 ---
 # nes Vilnius yra lygus su Krokuva, o Trakai — su Poznane
 

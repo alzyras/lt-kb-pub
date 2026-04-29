@@ -10,6 +10,8 @@ patikimumas: 'vidutinis'
 tags:
   - asmuo
   - dokumentas
+  - ordinas
+  - papuošalas
 ---
 # Ditrichas von Altenburgas
 

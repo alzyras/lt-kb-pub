@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - tauta
 ---
 # Tautų Sąjungos Taryba
 
@@ -56,7 +57,3 @@ Taryba, susirinkusi spalių mėn. Tautų Sąjungos Taryba, negalėdama sutikti s
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/institucija - tauta]]

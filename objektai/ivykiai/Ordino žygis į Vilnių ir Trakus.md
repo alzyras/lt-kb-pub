@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - ordinas
 ---
 # Ordino žygis į Vilnių ir Trakus
 

@@ -33,13 +33,8 @@ Vartojamos formos: proistorė, proistorinius duomenis, proistorei.
 
 ## Laikotarpis ir datos
 - laikotarpis: iki XII a. pabaigos
-- datos:
-- periodas:
-- periodo_grupes:
 - amziai:
   - iki XII a. pabaigos
-- date_start:
-- date_end:
 
 ## Reikšmė iš konteksto
 

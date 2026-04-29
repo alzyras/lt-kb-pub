@@ -11,6 +11,7 @@ periodas: viduramziai
 tags:
   - daiktas
   - ginklas
+  - simbolis
 ---
 # Kryžius ant kardo galo
 

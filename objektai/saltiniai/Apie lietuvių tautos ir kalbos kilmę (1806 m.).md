@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - kunigas
   - saltinis
+  - tauta
 ---
 # Apie lietuvių tautos ir kalbos kilmę (1806 m.)
 

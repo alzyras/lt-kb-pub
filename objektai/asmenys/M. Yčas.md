@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - tauta
 ---
 # M. Yčas
 
@@ -98,9 +99,6 @@ Komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vicepirmininkas A. S
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/institucija - tauta]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Amerikos lietuvių fondų ir komitetų kūrimas Lietuvos reikalams (1905–1913 m.)]]
 - [[objektai/asmenys/F. Bugailiškis]]

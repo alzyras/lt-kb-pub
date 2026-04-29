@@ -31,6 +31,8 @@ susije_irasai: []
 patikimumas: 'aukstas'
 tags:
   - ivykis
+  - kraštas
+  - krikštas
 ---
 # Brunono misija į aisčių kraštą ir žūtis (1009 m.)
 

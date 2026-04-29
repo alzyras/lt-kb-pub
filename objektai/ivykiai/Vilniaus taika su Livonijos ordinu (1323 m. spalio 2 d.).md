@@ -16,7 +16,8 @@ datos:
   - '1323 m. spalio 2 d.'
 periodas: ''
 periodo_grupes: []
-amziai: []
+amziai:
+  - 'XIV'
 date_start: '1323'
 date_end: '1323'
 vaidmenys: []

@@ -10,6 +10,8 @@ patikimumas: 'vidutinis'
 tags:
   - ivykis
   - miestas
+  - seimas
+  - tauta
 ---
 # Kosciuškos sukilimas (1794 m.)
 
@@ -108,9 +110,6 @@ Po keleto mėnesių įvyko sukilimas, vadovaujamas Kosciuškos, kuris pastatė s
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/institucija - tauta]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XVIII amžius]]
 

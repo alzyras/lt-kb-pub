@@ -4,7 +4,8 @@ import { classNames } from "../util/lang"
 import { i18n } from "../i18n"
 import { JSX } from "preact"
 import style from "./styles/contentMeta.scss"
-import { visibleHistoricalPeriod } from "../util/historicalPeriod"
+import { FullSlug, resolveRelative } from "../util/path"
+import { PeriodChip, visiblePeriodDisplay } from "../util/periodRange"
 
 interface ContentMetaOptions {
   /**
@@ -19,6 +20,29 @@ const defaultOptions: ContentMetaOptions = {
   showComma: true,
 }
 
+function PeriodChips({ chips, currentSlug }: { chips: PeriodChip[]; currentSlug: FullSlug }) {
+  if (chips.length === 0) {
+    return null
+  }
+
+  return (
+    <span class="period-chips" aria-label="Laikotarpis">
+      {chips.map((chip) =>
+        chip.slug ? (
+          <a
+            class={`period-chip period-chip-${chip.kind}`}
+            href={resolveRelative(currentSlug, chip.slug as FullSlug)}
+          >
+            {chip.label}
+          </a>
+        ) : (
+          <span class={`period-chip period-chip-${chip.kind}`}>{chip.label}</span>
+        ),
+      )}
+    </span>
+  )
+}
+
 export default ((opts?: Partial<ContentMetaOptions>) => {
   // Merge options with defaults
   const options: ContentMetaOptions = { ...defaultOptions, ...opts }
@@ -28,10 +52,15 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
     if (text) {
       const segments: (string | JSX.Element)[] = []
-      const historicalPeriod = visibleHistoricalPeriod(fileData.frontmatter?.laikotarpis)
+      const periodDisplay = visiblePeriodDisplay(fileData.frontmatter)
 
-      if (historicalPeriod) {
-        segments.push(<span>{historicalPeriod}</span>)
+      if (periodDisplay && fileData.slug) {
+        segments.push(
+          <span class="period-meta" title={periodDisplay.label}>
+            <span class="period-meta-label">Laikotarpis</span>
+            <PeriodChips chips={periodDisplay.chips} currentSlug={fileData.slug} />
+          </span>,
+        )
       }
 
       // Display reading time if enabled

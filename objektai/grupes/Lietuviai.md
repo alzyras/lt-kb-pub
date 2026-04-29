@@ -19,6 +19,7 @@ datos:
 patikimumas: 'aukštas'
 tags:
   - grupe
+  - tauta
 ---
 # Lietuviai
 

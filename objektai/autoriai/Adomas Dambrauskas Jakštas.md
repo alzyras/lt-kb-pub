@@ -22,6 +22,7 @@ vaidmenys:
 patikimumas: 'aukštas'
 tags:
   - autorius
+  - mokslininkas
 ---
 # Adomas Dambrauskas Jakštas
 

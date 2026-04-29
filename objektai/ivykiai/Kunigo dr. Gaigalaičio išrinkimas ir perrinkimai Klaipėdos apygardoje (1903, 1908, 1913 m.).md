@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karalius
   - kunigas
 ---
 # Kunigo dr. Gaigalaičio išrinkimas ir perrinkimai Klaipėdos apygardoje (1903, 1908, 1913 m.)

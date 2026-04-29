@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - ivykis
   - mūšis
+  - ordinas
   - sukilimas
 ---
 # Sukilimas Livonijoje ir Prūsuose po Durbės mūšio

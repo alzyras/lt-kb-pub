@@ -8,6 +8,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - mokslininkas
   - paprotys
 ---
 # Mokymas lotyniškai, iš dalies lenkiškai, Vyriausiojoje Lietuvos Mokykloje

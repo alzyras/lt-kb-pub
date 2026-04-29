@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'žemas'
 tags:
   - sąvoka
+  - valstybė
 ---
 # de facto
 

@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - krikštas
+  - popiežius
 ---
 # Karolis IV
 

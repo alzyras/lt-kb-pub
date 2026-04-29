@@ -8,7 +8,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - mokslininkas
   - posakis
+  - tauta
 ---
 # Surinkti ir išsaugoti mokslui visus kalbos, istorijos, tautosakos ir panašius duomenis, liečiančius Lietuvą ir lietuvius
 

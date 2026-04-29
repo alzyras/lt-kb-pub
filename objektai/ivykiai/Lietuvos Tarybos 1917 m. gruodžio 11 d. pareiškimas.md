@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karas
 ---
 # Lietuvos Tarybos 1917 m. gruodžio 11 d. pareiškimas
 

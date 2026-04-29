@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - asmuo
   - didikas
+  - tauta
 ---
 # Spytkas iš Melštyno
 

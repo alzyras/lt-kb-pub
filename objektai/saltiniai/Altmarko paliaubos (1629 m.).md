@@ -8,6 +8,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - paliaubos
   - saltinis
 ---
 # Altmarko paliaubos (1629 m.)

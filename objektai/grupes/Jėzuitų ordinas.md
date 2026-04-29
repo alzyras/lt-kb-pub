@@ -10,8 +10,8 @@ patikimumas: 'vidutinis'
 tags:
   - grupe
   - kunigas
+  - ordinas
   - privilegija
-  - vyskupas
 ---
 # Jėzuitų ordinas
 

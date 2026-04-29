@@ -8,7 +8,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - elekcija
   - ivykis
+  - kunigaikštis
   - valdovas
 ---
 # Zigmanto Augusto valdžios perėmimas Lietuvoje (1544–1548 m.)

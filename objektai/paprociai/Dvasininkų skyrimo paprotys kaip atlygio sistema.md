@@ -8,9 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - kunigaikštis
   - paprotys
+  - popiežius
   - valdovas
-  - vyskupas
 ---
 # Dvasininkų skyrimo paprotys kaip atlygio sistema
 
@@ -91,3 +92,4 @@ Tuo būdu į dvasininkus įsibraudavo daug žmonių, kurie nieko bendro neturėd
 ### Teminiai klasteriai
 - [[temos/popiežius]]
 - [[temos/valdovas]]
+- [[temos/popiežius - valdovas]]

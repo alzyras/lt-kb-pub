@@ -13,6 +13,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - ordinas
   - sutartis
 ---
 # Dovydiškių sutarties sudarymas

@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - saltinis
+  - tauta
 ---
 # Reden an die deutsche Nation (1808 m.)
 

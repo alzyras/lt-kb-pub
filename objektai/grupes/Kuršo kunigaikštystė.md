@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - grupe
   - sutartis
+  - valstybė
 ---
 # Kuršo kunigaikštystė
 

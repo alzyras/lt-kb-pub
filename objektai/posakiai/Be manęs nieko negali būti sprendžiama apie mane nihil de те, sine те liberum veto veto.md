@@ -8,6 +8,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
+  - elekcija
+  - karalius
   - posakis
 ---
 # Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto
@@ -130,4 +133,3 @@ Jie svajojo net panaikinti liberum veto, bet kadangi tam pasipriešino Rusų ir 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/elekcija]]
-- [[temos/bajorija - karalius]]

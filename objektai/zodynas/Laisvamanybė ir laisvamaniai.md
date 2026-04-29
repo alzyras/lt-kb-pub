@@ -24,6 +24,7 @@ susije_irasai:
 patikimumas: 'aukštas'
 tags:
   - sąvoka
+  - tauta
 ---
 # Laisvamanybė ir laisvamaniai
 
@@ -32,12 +33,6 @@ tags:
 
 ## Laikotarpis ir datos
 - laikotarpis: XIX a. pabaiga–XX a. pradžia
-- datos:
-- periodas:
-- periodo_grupes:
-- amziai:
-- date_start:
-- date_end:
 
 ## Reikšmė iš konteksto
 Laisvamanybė čia nusako idėjinę ir visuomeninę laikyseną, dėl kurios buvo kovojama greta tautinių teisių, o laisvamaniais vadinami tokios laikysenos šalininkai.

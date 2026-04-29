@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - seimas
   - sutartis
 ---
 # Gardino seimas (1566 m.)

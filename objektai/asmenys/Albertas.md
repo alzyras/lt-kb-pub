@@ -9,8 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - ordinas
+  - popiežius
   - valdovas
-  - vyskupas
 ---
 # Albertas
 
@@ -78,3 +79,4 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 ### Teminiai klasteriai
 - [[temos/popiežius]]
 - [[temos/valdovas]]
+- [[temos/popiežius - valdovas]]

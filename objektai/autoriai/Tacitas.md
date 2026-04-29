@@ -13,6 +13,7 @@ vaidmenys:
 patikimumas: 'aukštas'
 tags:
   - autorius
+  - mokslininkas
 ---
 # Tacitas
 

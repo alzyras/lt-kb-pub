@@ -8,9 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
   - dokumentas
+  - karalius
   - sąvoka
-  - valdovas
 ---
 # savarankiškumas
 
@@ -88,4 +89,3 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
 ### Teminiai klasteriai
 - [[temos/dokumentas]]
 - [[temos/valdovas]]
-- [[temos/bajorija - karalius]]

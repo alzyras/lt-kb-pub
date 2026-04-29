@@ -33,13 +33,8 @@ Vartojamos formos: lituanistiniu sąjūdžiu.
 
 ## Laikotarpis ir datos
 - laikotarpis: XIX a.
-- datos:
-- periodas:
-- periodo_grupes:
 - amziai:
   - XIX a.
-- date_start:
-- date_end:
 
 ## Reikšmė iš konteksto
 

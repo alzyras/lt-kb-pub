@@ -8,8 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
   - privilegija
   - saltinis
+  - valstybė
 ---
 # Pirmoji Lietuvos Bažnyčiai privilegija (1387 m.)
 

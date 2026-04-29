@@ -11,6 +11,7 @@ tags:
   - diplomatas
   - ivykis
   - sutartis
+  - valstybė
 ---
 # Didžiųjų santarvės valstybių Lietuvos de jure pripažinimas (1922 m. gruodžio 20 d.)
 

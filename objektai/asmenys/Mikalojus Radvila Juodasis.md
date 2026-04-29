@@ -11,6 +11,7 @@ tags:
   - asmuo
   - didikas
   - miestas
+  - mokslininkas
 ---
 # Mikalojus Radvila Juodasis
 

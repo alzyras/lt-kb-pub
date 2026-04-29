@@ -8,6 +8,8 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - karalius
+  - valstybė
   - vieta
 ---
 # Varšuvos kunigaikštija
@@ -41,7 +43,3 @@ Napoleonas I, nugalėjęs Prūsiją, 1807 m. įkūrė nepriklausomą Varšuvos l
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karalius - valstybė]]

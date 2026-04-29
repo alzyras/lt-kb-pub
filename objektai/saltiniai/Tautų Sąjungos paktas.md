@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - saltinis
+  - tauta
 ---
 # Tautų Sąjungos paktas
 

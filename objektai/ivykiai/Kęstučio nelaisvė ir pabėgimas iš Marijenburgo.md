@@ -9,7 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - kunigaikštis
   - mūšis
+  - ordinas
 ---
 # Kęstučio nelaisvė ir pabėgimas iš Marijenburgo
 

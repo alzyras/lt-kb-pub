@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - tauta
 ---
 # Norman Davis
 
@@ -43,7 +44,3 @@ Tą komisiją sudarė pirmininkas — Šiaurės Amerikos pilietis Devis (Norman 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/institucija - tauta]]

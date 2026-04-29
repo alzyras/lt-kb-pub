@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karalius
+  - karas
   - mūšis
 ---
 # Lietuvos ir Lenkijos karas su ordinu 1410 m

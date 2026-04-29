@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - paprotys
+  - popiežius
 ---
 # Pasaulinė bažnytinė rinkliava nukentėjusios Lietuvos naudai
 

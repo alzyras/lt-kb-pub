@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - kraštas
+  - ordinas
   - sukilimas
 ---
 # Prūsų sukilimai prieš kryžiuočius

@@ -10,6 +10,8 @@ patikimumas: 'vidutinis'
 tags:
   - didikas
   - ivykis
+  - kraštas
+  - valstybė
 ---
 # Padalinamasis seimas (1773–1775 m.)
 

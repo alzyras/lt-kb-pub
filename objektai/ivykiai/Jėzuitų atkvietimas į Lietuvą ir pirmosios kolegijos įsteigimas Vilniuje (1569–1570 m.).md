@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - kraštas
 ---
 # Jėzuitų atkvietimas į Lietuvą ir pirmosios kolegijos įsteigimas Vilniuje (1569–1570 m.)
 

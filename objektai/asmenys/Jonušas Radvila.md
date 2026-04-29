@@ -9,8 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - karalius
   - sutartis
-  - vyskupas
+  - tikėjimas
 ---
 # Jonušas Radvila
 

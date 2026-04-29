@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - asmuo
   - diplomatas
+  - karas
   - sutartis
 ---
 # Želigovskis
