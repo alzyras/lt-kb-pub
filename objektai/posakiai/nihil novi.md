@@ -20,6 +20,8 @@ dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
 tags:
+  - bajorija
+  - karalius
   - posakis
   - privilegija
 ---
@@ -61,7 +63,6 @@ tags:
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/bajorija - karalius]]
 - [[temos/privilegija]]
 
 ### Laikotarpiai

@@ -7,7 +7,14 @@ tags: []
 
 # X amžius
 
-Objektų skaičius: 1. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Šis laikotarpio hub'as jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus. Graph'e rodomas ribotas objektų skaičius, kad navigacija liktų skaitoma.
+
+Objektų skaičius: 1. Viešame sąraše rodoma iki 25 objektų; likę paliekami DB projekcijoje, kad Graph netaptų per tankus.
+
+## Kaip naudoti
+
+- Eik per šį hub'ą, kai nori naršyti susijusius objektus pagal bendrą temą arba laiką.
+- Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
 
 ## Susiję objektai
 

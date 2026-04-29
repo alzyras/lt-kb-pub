@@ -18,7 +18,8 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: aukstas
-tags: []
+tags:
+  - simbolis
 ---
 # Aukuras
 

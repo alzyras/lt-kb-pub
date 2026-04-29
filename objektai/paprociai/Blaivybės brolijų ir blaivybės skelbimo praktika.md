@@ -8,9 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
   - paprotys
+  - popiežius
   - sukilimas
-  - vyskupas
 ---
 # Blaivybės brolijų ir blaivybės skelbimo praktika
 

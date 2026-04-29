@@ -8,7 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - elekcija
+  - karas
   - saltinis
+  - seimas
 ---
 # Steigiamojo seimo rinkimų įstatymas
 

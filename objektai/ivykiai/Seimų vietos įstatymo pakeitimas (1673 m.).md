@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - seimas
 ---
 # Seimų vietos įstatymo pakeitimas (1673 m.)
 

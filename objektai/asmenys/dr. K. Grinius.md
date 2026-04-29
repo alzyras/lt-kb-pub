@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - tauta
+  - valstybė
 ---
 # dr. K. Grinius
 
@@ -77,9 +79,6 @@ Griniaus (nedalyvavo tik socialdemokratai). Kazys Grinius, o ministerių pirmini
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/institucija - tauta]]
-
 ### Susiję objektai
 - [[objektai/asmenys/J. Jablonskis]]
 - [[objektai/asmenys/Pr. Mašiotas]]

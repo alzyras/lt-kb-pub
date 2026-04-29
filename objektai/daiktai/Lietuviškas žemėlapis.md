@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - daiktas
+  - žemėlapis
 ---
 # Lietuviškas žemėlapis
 

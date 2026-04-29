@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - mokslininkas
+  - tauta
 ---
 # Lietuvių Mokslo Draugija
 

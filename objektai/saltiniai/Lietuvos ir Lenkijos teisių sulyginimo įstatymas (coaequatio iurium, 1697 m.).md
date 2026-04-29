@@ -8,7 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
+  - elekcija
   - saltinis
+  - seimas
 ---
 # Lietuvos ir Lenkijos teisių sulyginimo įstatymas (coaequatio iurium, 1697 m.)
 

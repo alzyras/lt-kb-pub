@@ -23,6 +23,7 @@ susije_irasai: []
 patikimumas: 'aukštas'
 tags:
   - asmuo
+  - tauta
 ---
 # K. Masiliūnas
 

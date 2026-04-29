@@ -23,7 +23,8 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukstas'
-tags: []
+tags:
+  - krikštas
 ---
 # Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)
 

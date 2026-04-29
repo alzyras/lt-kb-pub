@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karalius
+  - seimas
   - sutartis
 ---
 # Ketverių metų seimas (1788–1792 m.)
@@ -82,9 +84,6 @@ Nepaisydamas karaliaus pastangų, seimas atmetė pasiūlymą sudaryti karinę s�
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/karalius - valstybė]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XVIII amžius]]
 

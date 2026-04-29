@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - kraštas
+  - kunigaikštis
   - pilis
 ---
 # Voluinės kunigaikščių žygiai prieš jotvingus ir Gardino užėmimas

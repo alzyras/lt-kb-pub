@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - sukilimas
+  - valstybė
   - vieta
 ---
 # Ruhro sritis

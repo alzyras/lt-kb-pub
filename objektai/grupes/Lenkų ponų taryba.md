@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - karalius
   - sutartis
 ---
 # Lenkų ponų taryba

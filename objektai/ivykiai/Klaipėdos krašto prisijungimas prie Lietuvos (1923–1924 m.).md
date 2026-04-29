@@ -10,6 +10,8 @@ patikimumas: 'vidutinis'
 tags:
   - ginklas
   - ivykis
+  - kraštas
+  - valstybė
 ---
 # Klaipėdos krašto prisijungimas prie Lietuvos (1923–1924 m.)
 

@@ -11,7 +11,8 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 patikimumas: 'vidutinis'
-tags: []
+tags:
+  - karūnacija
 ---
 # Vytauto karūnacijos byla (1429–1430 m.)
 

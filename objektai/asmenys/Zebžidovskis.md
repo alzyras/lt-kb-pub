@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - bajorija
+  - karalius
 ---
 # Zebžidovskis
 
@@ -55,7 +57,3 @@ silpnesnių karalių laikais kai kurie ponai, subūrę savo šalininkus, kėlė 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/bajorija - karalius]]

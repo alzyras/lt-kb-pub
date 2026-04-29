@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - kraštas
 ---
 # Lozanos konferencija (1916 m. birželio pradžia)
 

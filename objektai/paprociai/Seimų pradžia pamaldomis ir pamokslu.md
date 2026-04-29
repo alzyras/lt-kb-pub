@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - paprotys
+  - seimas
 ---
 # Seimų pradžia pamaldomis ir pamokslu
 

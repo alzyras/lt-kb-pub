@@ -8,9 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
   - miestas
+  - ordinas
   - valdovas
-  - vieta
 ---
 # Lenkija
 

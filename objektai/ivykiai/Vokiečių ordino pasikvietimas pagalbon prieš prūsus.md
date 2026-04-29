@@ -9,6 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - kraštas
+  - kunigaikštis
+  - ordinas
 ---
 # Vokiečių ordino pasikvietimas pagalbon prieš prūsus
 

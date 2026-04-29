@@ -8,6 +8,8 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - kraštas
+  - valstybė
   - vieta
 ---
 # Klaipėdos kraštas

@@ -11,7 +11,7 @@ tags:
   - didikas
   - ivykis
   - pilis
-  - valdovas
+  - tauta
 ---
 # Kazimiero paskelbimas didžiuoju Lietuvos kunigaikščiu
 

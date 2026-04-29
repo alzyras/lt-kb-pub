@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karas
+  - kraštas
   - mūšis
 ---
 # Mūšis ties Šiauliais ir kalavijuočių susiliejimas su kryžiuočiais

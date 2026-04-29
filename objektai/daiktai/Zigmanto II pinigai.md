@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - daiktas
+  - karalius
+  - kunigaikštis
   - pinigai
 ---
 # Zigmanto II pinigai

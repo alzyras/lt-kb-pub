@@ -19,6 +19,7 @@ vaidmenys:
 patikimumas: 'vidutinis'
 tags:
   - autorius
+  - mokslininkas
 ---
 # T. Norbutas
 

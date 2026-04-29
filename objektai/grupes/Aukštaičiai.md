@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - ordinas
+  - valstybė
 ---
 # Aukštaičiai
 

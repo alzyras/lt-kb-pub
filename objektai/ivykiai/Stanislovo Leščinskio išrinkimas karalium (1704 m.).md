@@ -8,7 +8,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - elekcija
   - ivykis
+  - seimas
 ---
 # Stanislovo Leščinskio išrinkimas karalium (1704 m.)
 

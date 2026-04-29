@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - asmuo
   - miestas
+  - ordinas
   - pilis
 ---
 # Henrikas von Plauenas
@@ -60,8 +61,5 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/miestas - pilis]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Mykolas Kuchmeisteris]]

@@ -9,7 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ežeras
-  - saltinis
+  - karas
+  - kraštas
+  - ordinas
 ---
 # Melno taika (1422 m.)
 

@@ -8,7 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
-  - vieta
+  - karas
+  - kraštas
+  - ordinas
+  - valstybė
 ---
 # Tanenbergas
 

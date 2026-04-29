@@ -9,7 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - kraštas
   - kunigas
+  - tauta
 ---
 # Draugija Užsienio Lietuviams Remti (DULR)
 

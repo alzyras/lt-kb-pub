@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - miestas
+  - ordinas
+  - valstybė
   - vieta
 ---
 # D. Naugardas

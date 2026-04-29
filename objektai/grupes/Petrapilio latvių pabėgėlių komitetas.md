@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - tauta
 ---
 # Petrapilio latvių pabėgėlių komitetas
 
@@ -39,8 +40,5 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/institucija - tauta]]
-
 ### Susiję objektai
 - [[objektai/grupes/Latvių Tautos Taryba]]

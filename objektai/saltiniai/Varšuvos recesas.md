@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - saltinis
+  - seimas
 ---
 # Varšuvos recesas
 

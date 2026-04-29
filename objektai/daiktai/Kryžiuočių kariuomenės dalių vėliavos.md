@@ -22,7 +22,8 @@ dalyviai:
 susije_irasai:
   - [[Jogaila]]
 patikimumas: aukstas
-tags: []
+tags:
+  - simbolis
 ---
 # Kryžiuočių kariuomenės dalių vėliavos
 

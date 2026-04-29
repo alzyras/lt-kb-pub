@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - paliaubos
 ---
 # Divilino paliaubos (1618 m.)
 

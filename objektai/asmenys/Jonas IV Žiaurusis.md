@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - karas
+  - paliaubos
   - valdovas
 ---
 # Jonas IV Žiaurusis

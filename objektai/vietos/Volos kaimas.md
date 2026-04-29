@@ -8,6 +8,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
+  - elekcija
+  - karalius
   - vieta
 ---
 # Volos kaimas
@@ -42,7 +45,6 @@ Taip pat visiems laikams buvo nustatyta karaliaus elekcijos tvarka: buvo nutarta
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/bajorija - karalius]]
 - [[temos/elekcija]]
 
 ### Susiję objektai

@@ -9,7 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
-  - sutartis
+  - karalius
+  - karas
+  - kunigaikštis
 ---
 # Karolis XII
 

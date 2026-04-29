@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - mokslininkas
 ---
 # Katalikiško moksleivių judėjimo plėtra Amerikoje (1899–1912 m.)
 

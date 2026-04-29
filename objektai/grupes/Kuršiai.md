@@ -40,5 +40,6 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 
 ## Ryšiai
 ### Teminiai klasteriai
+- [[temos/upė - šventė]]
 - [[temos/upė]]
 - [[temos/šventė]]

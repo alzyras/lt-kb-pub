@@ -9,8 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - bajorija
   - didikas
-  - vyskupas
+  - karalius
 ---
 # Mykolas Kaributas Višniaveckis
 
@@ -154,7 +155,6 @@ Mykolas K. Mykolo Višniaveckio valdymas ir mirtis. Pacų vadovaujamoji Lietuva 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
-- [[temos/bajorija - karalius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Bžostauskas]]

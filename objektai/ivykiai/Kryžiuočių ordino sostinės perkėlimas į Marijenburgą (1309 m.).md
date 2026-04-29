@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - kraštas
+  - ordinas
 ---
 # Kryžiuočių ordino sostinės perkėlimas į Marijenburgą (1309 m.)
 

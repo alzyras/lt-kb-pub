@@ -8,7 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
+  - kunigaikštis
   - sąvoka
+  - valstybė
 ---
 # sritinė kunigaikštystė
 

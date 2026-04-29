@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - valstybė
 ---
 # Lietuvių rubrikos įvedimas JAV gyventojų surašyme (prieš 1910 m.)
 

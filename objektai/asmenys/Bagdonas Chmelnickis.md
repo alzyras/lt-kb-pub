@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - asmuo
   - sukilimas
+  - valstybė
 ---
 # Bagdonas Chmelnickis
 

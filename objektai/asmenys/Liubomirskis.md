@@ -10,6 +10,8 @@ patikimumas: 'vidutinis'
 tags:
   - asmuo
   - ginklas
+  - karalius
+  - seimas
 ---
 # Liubomirskis
 

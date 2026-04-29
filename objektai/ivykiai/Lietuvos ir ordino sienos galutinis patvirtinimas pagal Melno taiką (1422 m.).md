@@ -13,6 +13,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karas
+  - kraštas
+  - ordinas
 ---
 # Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)
 

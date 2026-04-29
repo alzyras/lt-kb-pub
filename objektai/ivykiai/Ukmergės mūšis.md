@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karas
+  - kunigaikštis
   - mūšis
 ---
 # Ukmergės mūšis

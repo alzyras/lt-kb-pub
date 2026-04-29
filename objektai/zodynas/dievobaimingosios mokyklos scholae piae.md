@@ -8,6 +8,8 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - mokslininkas
+  - ordinas
   - sąvoka
 ---
 # dievobaimingosios mokyklos scholae piae

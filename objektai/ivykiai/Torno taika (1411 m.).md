@@ -13,6 +13,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karas
+  - ordinas
 ---
 # Torno taika (1411 m.)
 

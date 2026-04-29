@@ -9,6 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - bajorija
+  - karalius
+  - kraštas
 ---
 # Napoleonas I
 
@@ -110,9 +113,6 @@ tags:
     - t-005
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/bajorija - karalius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/grupes/Napoleono kariuomenė]]

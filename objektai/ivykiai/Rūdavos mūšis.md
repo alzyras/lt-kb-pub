@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - ivykis
   - mūšis
+  - ordinas
   - pilis
 ---
 # Rūdavos mūšis

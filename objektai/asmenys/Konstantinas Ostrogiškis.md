@@ -9,6 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - bajorija
+  - karas
+  - kunigaikštis
 ---
 # Konstantinas Ostrogiškis
 

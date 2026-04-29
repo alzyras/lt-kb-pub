@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - mokslininkas
 ---
 # Lietuvių Mokslo Draugija (Amerikoje)
 

@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karalius
 ---
 # Radomo konfederacija (1767 m.)
 

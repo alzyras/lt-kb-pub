@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - paprotys
   - sutartis
+  - valstybė
 ---
 # Rašto vartojimas valstybės ir Bažnyčios reikaluose
 

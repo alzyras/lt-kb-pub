@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - tauta
 ---
 # J. Jablonskis
 
@@ -42,9 +43,6 @@ Jablonskio ir dr. K.
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/institucija - tauta]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Pr. Mašiotas]]
 - [[objektai/asmenys/dr. K. Grinius]]

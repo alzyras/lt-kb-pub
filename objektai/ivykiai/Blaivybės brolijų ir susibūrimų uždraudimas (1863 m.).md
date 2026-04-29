@@ -11,7 +11,7 @@ tags:
   - ivykis
   - kunigas
   - sukilimas
-  - vyskupas
+  - tauta
 ---
 # Blaivybės brolijų ir susibūrimų uždraudimas (1863 m.)
 

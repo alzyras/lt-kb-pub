@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - kraštas
   - sukilimas
 ---
 # Sukilimas Lietuvoje (1831 m.)

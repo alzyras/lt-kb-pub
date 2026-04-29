@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - autorius
+  - mokslininkas
 ---
 # K. Kantrimas
 

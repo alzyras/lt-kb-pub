@@ -25,7 +25,8 @@ dalyviai:
   - vietiniai gyventojai
 susije_irasai: []
 patikimumas: aukstas
-tags: []
+tags:
+  - krikštas
 ---
 # Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)
 

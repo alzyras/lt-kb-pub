@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - kraštas
+  - kunigaikštis
   - privilegija
 ---
 # Žemaičių kunigaikštystės privilegija

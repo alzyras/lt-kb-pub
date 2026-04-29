@@ -16,6 +16,8 @@ datos:
 patikimumas: 'aukštas'
 tags:
   - grupe
+  - tauta
+  - valstybė
 ---
 # Lenkai
 

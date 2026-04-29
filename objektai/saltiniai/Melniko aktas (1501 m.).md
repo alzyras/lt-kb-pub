@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - saltinis
+  - seimas
+  - unija
   - valdovas
 ---
 # Melniko aktas (1501 m.)

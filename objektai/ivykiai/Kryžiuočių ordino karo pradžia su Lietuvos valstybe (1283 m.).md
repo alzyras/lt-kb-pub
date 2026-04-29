@@ -9,6 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karas
+  - ordinas
+  - valstybė
 ---
 # Kryžiuočių ordino karo pradžia su Lietuvos valstybe (1283 m.)
 

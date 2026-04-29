@@ -18,6 +18,7 @@ dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
 tags:
+  - bajorija
   - posakis
   - privilegija
 ---

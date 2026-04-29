@@ -19,7 +19,9 @@ date_end: '1259'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
-tags: []
+tags:
+  - paliaubos
+  - ritualas
 ---
 # Taikos patvirtinimas sudaužiant delnus
 

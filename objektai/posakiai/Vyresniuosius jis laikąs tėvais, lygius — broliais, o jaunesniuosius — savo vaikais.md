@@ -18,6 +18,7 @@ dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
 tags:
+  - popiežius
   - posakis
 ---
 # Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais

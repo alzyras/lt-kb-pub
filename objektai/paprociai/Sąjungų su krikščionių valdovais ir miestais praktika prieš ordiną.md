@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - miestas
+  - ordinas
   - paprotys
   - valdovas
 ---

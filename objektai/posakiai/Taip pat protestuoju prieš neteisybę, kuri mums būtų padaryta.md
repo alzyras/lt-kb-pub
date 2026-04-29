@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - posakis
   - valdovas
+  - valstybė
 ---
 # Taip pat protestuoju prieš neteisybę, kuri mums būtų padaryta
 

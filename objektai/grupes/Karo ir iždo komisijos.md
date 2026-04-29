@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - karas
 ---
 # Karo ir iždo komisijos
 

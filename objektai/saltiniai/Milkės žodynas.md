@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - saltinis
+  - valstybė
 ---
 # Milkės žodynas
 

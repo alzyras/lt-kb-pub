@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - bajorija
+  - karalius
   - vyskupas
 ---
 # A. Gansiauskas
@@ -47,7 +49,3 @@ Gansiausko f-ja), Žodiškiuose (Minkevičių f-ja), Brastoje (vicekanclerio L.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/bajorija - karalius]]

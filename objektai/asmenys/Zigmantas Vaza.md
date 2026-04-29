@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - karalius
+  - karas
   - upė
 ---
 # Zigmantas Vaza
@@ -160,7 +162,6 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/upė]]
-- [[temos/karalius - valstybė]]
 
 ### Susiję objektai
 - [[objektai/vietos/Dauguva]]

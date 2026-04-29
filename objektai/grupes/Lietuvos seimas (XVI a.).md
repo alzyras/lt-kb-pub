@@ -9,6 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - kraštas
+  - seimas
+  - unija
 ---
 # Lietuvos seimas (XVI a.)
 

@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - paprotys
+  - seimas
 ---
 # Konfederaciniai seimai kaip balsų daugumos tvarka
 

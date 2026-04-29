@@ -8,7 +8,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - elekcija
   - ivykis
+  - seimas
 ---
 # coaequatio iurium įstatymo priėmimas (1697 m.)
 

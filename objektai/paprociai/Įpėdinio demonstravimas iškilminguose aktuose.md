@@ -8,7 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
+  - karalius
   - paprotys
+  - seimas
 ---
 # Įpėdinio demonstravimas iškilminguose aktuose
 
@@ -41,8 +44,3 @@ Karalius Sobieskis, norėdamas, kad bajorija įprastų jo sūnų Jokūbą laikyt
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/bajorija - karalius]]
-- [[temos/karalius - valstybė]]

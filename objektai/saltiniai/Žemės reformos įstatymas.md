@@ -10,6 +10,8 @@ patikimumas: 'vidutinis'
 tags:
   - reforma
   - saltinis
+  - seimas
+  - valstybė
 ---
 # Žemės reformos įstatymas
 

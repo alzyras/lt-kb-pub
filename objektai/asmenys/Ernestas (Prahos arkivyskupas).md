@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - krikštas
 ---
 # Ernestas (Prahos arkivyskupas)
 

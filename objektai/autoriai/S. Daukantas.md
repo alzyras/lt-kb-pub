@@ -14,6 +14,7 @@ vaidmenys:
 patikimumas: 'aukštas'
 tags:
   - autorius
+  - mokslininkas
 ---
 # S. Daukantas
 

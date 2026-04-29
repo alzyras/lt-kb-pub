@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - valstybė
 ---
 # Lietuvos nepriklausomybės paskelbimas (1918 m. vasario 16 d.)
 

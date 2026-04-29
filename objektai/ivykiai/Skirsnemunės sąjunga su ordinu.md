@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - ordinas
   - sutartis
 ---
 # Skirsnemunės sąjunga su ordinu

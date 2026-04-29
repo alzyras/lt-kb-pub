@@ -23,7 +23,8 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukstas'
-tags: []
+tags:
+  - krikštas
 ---
 # Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)
 

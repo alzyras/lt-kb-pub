@@ -8,7 +8,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
   - ivykis
+  - karas
   - mūšis
 ---
 # Napoleono kariuomenės žygis į Lietuvą (1812 m.)

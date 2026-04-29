@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karas
+  - ordinas
 ---
 # Andriaus ir koalicijos sutriuškinimas
 

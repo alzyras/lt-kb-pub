@@ -10,6 +10,8 @@ patikimumas: 'vidutinis'
 tags:
   - asmuo
   - didikas
+  - elekcija
+  - kunigaikštis
 ---
 # Jokūbas Sobieskis
 

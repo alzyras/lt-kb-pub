@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - tauta
 ---
 # Dionizy Paszkiewicz
 

@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - valstybė
 ---
 # Pareinės valstybių sąjunga
 

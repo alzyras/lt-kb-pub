@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - posakis
+  - seimas
 ---
 # kardinalinės teisės
 

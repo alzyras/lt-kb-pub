@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - kunigaikštis
   - kunigas
   - vyskupas
 ---

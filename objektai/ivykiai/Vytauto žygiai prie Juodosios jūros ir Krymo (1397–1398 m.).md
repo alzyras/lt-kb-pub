@@ -23,7 +23,8 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukstas'
-tags: []
+tags:
+  - karas
 ---
 # Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)
 

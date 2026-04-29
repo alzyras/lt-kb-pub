@@ -8,8 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
+  - karalius
+  - kunigaikštis
   - vieta
-  - vyskupas
 ---
 # Sluckas
 
@@ -120,7 +122,3 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/bajorija - karalius]]

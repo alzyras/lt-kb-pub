@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - ordinas
   - sutartis
 ---
 # Jogailos pašalinimas iš Vilniaus

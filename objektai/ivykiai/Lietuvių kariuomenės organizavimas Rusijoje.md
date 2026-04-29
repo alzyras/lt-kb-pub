@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karas
+  - tauta
 ---
 # Lietuvių kariuomenės organizavimas Rusijoje
 

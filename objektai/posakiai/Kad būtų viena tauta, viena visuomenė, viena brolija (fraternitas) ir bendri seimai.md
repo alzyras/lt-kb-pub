@@ -21,7 +21,10 @@ dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
 tags:
+  - elekcija
+  - karalius
   - posakis
+  - seimas
 ---
 # Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai
 

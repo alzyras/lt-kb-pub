@@ -9,7 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - didikas
+  - mokslininkas
   - saltinis
+  - valstybė
 ---
 # Lenko pasikalbėjimu su lietuviu
 

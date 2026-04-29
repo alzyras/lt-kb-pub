@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - saltinis
+  - seimas
 ---
 # Kodeksas (statutas) (1780 m.)
 

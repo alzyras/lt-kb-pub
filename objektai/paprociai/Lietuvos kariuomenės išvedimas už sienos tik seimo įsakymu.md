@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - paprotys
+  - seimas
+  - valstybė
 ---
 # Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu
 

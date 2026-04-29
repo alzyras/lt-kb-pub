@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - grupe
   - sukilimas
+  - tauta
 ---
 # Laikinė Tautos Vyriausybė
 
@@ -40,5 +41,4 @@ Tada raudonųjų centro komitetas, pabėgėlių verčiamas, pasivadino Laikine T
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/institucija - tauta]]
 - [[temos/sukilimas]]

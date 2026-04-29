@@ -8,7 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - karalius
+  - karas
   - paprotys
+  - seimas
 ---
 # Atskiri Lietuvos seimai karo ir tarpuvaldžio metu
 

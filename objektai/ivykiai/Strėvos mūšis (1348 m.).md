@@ -29,8 +29,9 @@ susije_irasai: []
 patikimumas: 'aukstas'
 tags:
   - ivykis
+  - karas
+  - kraštas
   - mūšis
-  - upė
 ---
 # Strėvos mūšis (1348 m.)
 

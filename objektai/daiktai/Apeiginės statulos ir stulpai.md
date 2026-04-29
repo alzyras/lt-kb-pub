@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - daiktas
+  - ritualas
 ---
 # Apeiginės statulos ir stulpai
 

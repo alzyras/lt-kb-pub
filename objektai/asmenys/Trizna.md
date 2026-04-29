@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - bajorija
+  - karalius
   - vyskupas
 ---
 # Trizna
@@ -47,7 +49,3 @@ Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/bajorija - karalius]]

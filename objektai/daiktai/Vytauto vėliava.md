@@ -10,6 +10,7 @@ patikimumas: 'aukštas'
 periodas: viduramziai
 tags:
   - daiktas
+  - simbolis
 ---
 # Vytauto vėliava
 

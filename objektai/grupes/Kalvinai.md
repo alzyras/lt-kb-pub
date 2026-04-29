@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - grupe
   - miestas
+  - seimas
 ---
 # Kalvinai
 

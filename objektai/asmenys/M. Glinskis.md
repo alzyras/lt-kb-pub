@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - elekcija
+  - kunigaikštis
 ---
 # M. Glinskis
 

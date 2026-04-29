@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - krikštas
   - sutartis
 ---
 # Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos

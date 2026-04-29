@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - ordinas
 ---
 # Vinrichas von Kniprodė
 

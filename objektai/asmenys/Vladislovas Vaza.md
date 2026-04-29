@@ -9,6 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - elekcija
+  - karalius
+  - seimas
 ---
 # Vladislovas Vaza
 

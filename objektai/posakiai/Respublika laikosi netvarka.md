@@ -19,6 +19,7 @@ dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
 tags:
+  - bajorija
   - posakis
 ---
 # Respublika laikosi netvarka

@@ -10,6 +10,8 @@ patikimumas: 'vidutinis'
 tags:
   - ivykis
   - mūšis
+  - ordinas
+  - valstybė
 ---
 # Vytenio sąjunga su Rygos arkivyskupu ir rygiečiais
 

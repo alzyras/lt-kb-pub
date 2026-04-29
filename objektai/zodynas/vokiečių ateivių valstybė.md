@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - sąvoka
+  - valstybė
 ---
 # vokiečių ateivių valstybė
 

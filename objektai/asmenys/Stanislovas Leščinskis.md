@@ -9,6 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - bajorija
+  - karalius
+  - karas
 ---
 # Stanislovas Leščinskis
 
@@ -92,7 +95,3 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/bajorija - karalius]]

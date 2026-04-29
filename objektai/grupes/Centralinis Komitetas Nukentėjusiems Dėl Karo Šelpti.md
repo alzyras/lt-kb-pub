@@ -18,6 +18,7 @@ datos:
 patikimumas: 'aukštas'
 tags:
   - grupe
+  - karas
 ---
 # Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti
 

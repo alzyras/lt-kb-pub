@@ -17,6 +17,7 @@ patikimumas: 'vidutinis'
 tags:
   - ivykis
   - mūšis
+  - ordinas
   - pilis
 ---
 # Tanenbergo mūšis 1410 m. liepos 15 d

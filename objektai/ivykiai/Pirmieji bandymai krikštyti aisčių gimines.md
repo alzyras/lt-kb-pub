@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'žemas'
 tags:
   - ivykis
+  - krikštas
 ---
 # Pirmieji bandymai krikštyti aisčių gimines
 

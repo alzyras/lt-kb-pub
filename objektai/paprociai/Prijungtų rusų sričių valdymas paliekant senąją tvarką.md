@@ -8,6 +8,8 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - kraštas
+  - kunigaikštis
   - paprotys
 ---
 # Prijungtų rusų sričių valdymas paliekant senąją tvarką

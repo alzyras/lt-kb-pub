@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - seimas
 ---
 # Liubomirskio seimo išardymas (1639 m.)
 

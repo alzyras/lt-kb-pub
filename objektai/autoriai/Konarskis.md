@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - autorius
+  - seimas
 ---
 # Konarskis
 

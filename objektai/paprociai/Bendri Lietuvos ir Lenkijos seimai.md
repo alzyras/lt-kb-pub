@@ -8,7 +8,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - karalius
   - paprotys
+  - tauta
   - valdovas
 ---
 # Bendri Lietuvos ir Lenkijos seimai
@@ -107,7 +109,6 @@ Buvo sušaukta nemaža bendrų seimų, tačiau jie, nieko neišsprendę, pasibai
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/valdovas]]
-- [[temos/karalius - valstybė]]
 
 ### Susiję objektai
 - [[objektai/zodynas/Personalinė unija]]

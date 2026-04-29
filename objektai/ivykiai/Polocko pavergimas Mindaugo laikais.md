@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - kraštas
 ---
 # Polocko pavergimas Mindaugo laikais
 

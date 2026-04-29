@@ -8,7 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
+  - elekcija
   - ivykis
+  - karas
 ---
 # Jono Sobieskio elekcija (1674 m.)
 

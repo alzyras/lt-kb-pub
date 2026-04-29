@@ -9,7 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - kunigaikštis
   - sutartis
+  - valstybė
 ---
 # Livonijos prijungimas prie Lietuvos valstybės (1561–1566 m.)
 

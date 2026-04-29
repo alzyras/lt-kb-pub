@@ -8,8 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
+  - elekcija
   - paprotys
-  - valdovas
+  - seimas
 ---
 # Bendras Lietuvos ir Lenkijos valdovo rinkimas
 

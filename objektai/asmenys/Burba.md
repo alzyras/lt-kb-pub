@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - asmuo
   - kunigas
+  - tauta
   - vyskupas
 ---
 # Burba

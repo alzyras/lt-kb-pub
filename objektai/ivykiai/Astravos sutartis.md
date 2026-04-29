@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - dokumentas
   - ivykis
+  - ordinas
   - sutartis
 ---
 # Astravos sutartis

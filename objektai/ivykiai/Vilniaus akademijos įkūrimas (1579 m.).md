@@ -10,6 +10,8 @@ patikimumas: 'vidutinis'
 tags:
   - didikas
   - ivykis
+  - karalius
+  - popiežius
 ---
 # Vilniaus akademijos įkūrimas (1579 m.)
 
@@ -85,7 +87,6 @@ Kliūčių akademijai kurti atsirado pačioje Lietuvoje. Pirmuoju akademijos rek
 ### Teminiai klasteriai
 - [[temos/didikas]]
 - [[temos/popiežius]]
-- [[temos/karalius - valstybė]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]

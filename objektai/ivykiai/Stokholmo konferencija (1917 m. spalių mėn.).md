@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - tauta
 ---
 # Stokholmo konferencija (1917 m. spalių mėn.)
 

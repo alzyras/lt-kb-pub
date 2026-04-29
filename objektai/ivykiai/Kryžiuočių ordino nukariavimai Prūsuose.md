@@ -9,8 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - ordinas
+  - popiežius
   - valdovas
-  - vyskupas
 ---
 # Kryžiuočių ordino nukariavimai Prūsuose
 
@@ -129,3 +130,4 @@ Tokį įžadą ordino broliai — riteriai — turėjo padaryti visam gyvenimui.
 ### Teminiai klasteriai
 - [[temos/popiežius]]
 - [[temos/valdovas]]
+- [[temos/popiežius - valdovas]]

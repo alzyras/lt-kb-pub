@@ -8,7 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - karas
+  - kraštas
   - sąvoka
+  - tauta
 ---
 # tautiškas susipratimas tautiška sąmonė tautiškoji veikla
 

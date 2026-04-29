@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - seimas
 ---
 # Varšuvos konfederacinis seimas (1768 m.)
 

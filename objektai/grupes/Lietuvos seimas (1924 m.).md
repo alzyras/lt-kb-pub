@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - seimas
 ---
 # Lietuvos seimas (1924 m.)
 

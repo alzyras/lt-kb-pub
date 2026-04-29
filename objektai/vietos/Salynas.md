@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - mūšis
+  - ordinas
   - sutartis
   - vieta
 ---

@@ -9,7 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - autorius
+  - bajorija
   - kunigas
+  - tauta
 ---
 # Ks. Bauža
 

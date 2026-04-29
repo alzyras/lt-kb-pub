@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - paliaubos
   - sutartis
 ---
 # Aukščiausioji Santarvininkių Taryba

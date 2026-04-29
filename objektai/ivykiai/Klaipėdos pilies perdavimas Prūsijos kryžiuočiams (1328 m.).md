@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - ordinas
   - pilis
 ---
 # Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)

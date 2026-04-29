@@ -8,7 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
   - grupe
+  - karalius
+  - seimas
 ---
 # Lenkijos bajorų partija
 
@@ -59,8 +62,5 @@ Jo parama buvo tik Pacų vadovaujamoji Lietuva ir Lenkijos bajorų partija. Pran
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/bajorija - karalius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Prancūziškoji partija]]

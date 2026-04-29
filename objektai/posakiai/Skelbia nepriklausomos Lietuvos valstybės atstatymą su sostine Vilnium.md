@@ -19,7 +19,10 @@ dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
 tags:
+  - kraštas
   - posakis
+  - tauta
+  - valstybė
 ---
 # Skelbia nepriklausomos Lietuvos valstybės atstatymą su sostine Vilnium
 
@@ -82,8 +85,5 @@ tags:
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/institucija - tauta]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]

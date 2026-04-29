@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - daiktas
+  - kraštas
   - kunigas
 ---
 # Blaivybės kryžiai

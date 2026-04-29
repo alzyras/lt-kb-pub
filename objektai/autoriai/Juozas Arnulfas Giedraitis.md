@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - autorius
   - kunigas
+  - tauta
   - vyskupas
 ---
 # Juozas Arnulfas Giedraitis

@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - seimas
 ---
 # Gyventojų išlaidų normuojamojo įstatymo priėmimas (1776 m.)
 

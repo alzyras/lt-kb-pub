@@ -8,6 +8,8 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
+  - karalius
   - vieta
   - vyskupas
 ---
@@ -47,7 +49,3 @@ Gansiausko f-ja), Žodiškiuose (Minkevičių f-ja), Brastoje (vicekanclerio L.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/bajorija - karalius]]

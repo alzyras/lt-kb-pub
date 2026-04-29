@@ -9,6 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karas
+  - seimas
+  - valstybė
 ---
 # Amerikos lietuvių seimas Niujorke (1918 m. kovo 13–14 d.)
 

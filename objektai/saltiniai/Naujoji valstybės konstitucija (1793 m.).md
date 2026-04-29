@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - saltinis
+  - valstybė
 ---
 # Naujoji valstybės konstitucija (1793 m.)
 

@@ -8,7 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
+  - elekcija
   - paprotys
+  - seimas
 ---
 # Bajorijos seimelių rinkimosi ir atstovų rinkimo praktika
 

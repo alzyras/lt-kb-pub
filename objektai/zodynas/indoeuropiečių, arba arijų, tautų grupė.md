@@ -8,7 +8,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - mokslininkas
   - sąvoka
+  - tauta
 ---
 # indoeuropiečių, arba arijų, tautų grupė
 

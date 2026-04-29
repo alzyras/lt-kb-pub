@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - seimas
 ---
 # Amerikos Lietuvių Darbininkų Susivienijimas
 

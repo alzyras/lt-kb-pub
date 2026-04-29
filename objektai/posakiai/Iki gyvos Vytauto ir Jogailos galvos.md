@@ -20,6 +20,7 @@ dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
 tags:
+  - karas
   - posakis
 ---
 # Iki gyvos Vytauto ir Jogailos galvos

@@ -10,6 +10,7 @@ patikimumas: 'žemas'
 tags:
   - karvedys
   - sąvoka
+  - valstybė
 ---
 # romėniškoji kilmė
 

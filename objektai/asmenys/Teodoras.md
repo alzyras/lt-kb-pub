@@ -9,6 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - dinastija
+  - karas
+  - paliaubos
 ---
 # Teodoras
 

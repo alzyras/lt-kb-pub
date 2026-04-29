@@ -9,8 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - bajorija
   - diplomatas
-  - vyskupas
+  - karalius
 ---
 # Leonas Sapiega
 
@@ -145,7 +146,6 @@ Sapiegos f-ja). Šapoka, Leonas Sapiega kaip Liet. Paskutiniai Zigmanto Vazos la
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/diplomatas]]
-- [[temos/bajorija - karalius]]
 
 ### Susiję objektai
 - [[objektai/grupes/Katkevičiai]]

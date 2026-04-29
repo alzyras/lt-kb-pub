@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - grupe
   - kunigas
+  - tauta
 ---
 # Susivienijimas Lietuvių Amerikoje
 

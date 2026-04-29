@@ -8,7 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - elekcija
   - ivykis
+  - karas
+  - seimas
 ---
 # Zigmanto Vazos elekcija (1587 m.)
 

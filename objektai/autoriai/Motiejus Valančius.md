@@ -24,6 +24,7 @@ vaidmenys:
 patikimumas: 'aukštas'
 tags:
   - autorius
+  - mokslininkas
 ---
 # Motiejus Valančius
 

@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - ivykis
   - miestas
+  - seimas
 ---
 # Vilniaus kalvinų bažnyčios nugriovimas ir naujos bažnyčios pastatymas (1639–1640 m.)
 

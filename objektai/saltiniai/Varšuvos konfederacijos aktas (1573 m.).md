@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - saltinis
+  - tikėjimas
 ---
 # Varšuvos konfederacijos aktas (1573 m.)
 

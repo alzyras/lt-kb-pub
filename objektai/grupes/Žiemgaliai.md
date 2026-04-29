@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - grupe
   - mūšis
+  - ordinas
 ---
 # Žiemgaliai
 

@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - sąvoka
+  - tauta
 ---
 # savišalpos organizacijos savišalpos draugijos
 

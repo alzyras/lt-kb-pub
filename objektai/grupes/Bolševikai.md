@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - tauta
 ---
 # Bolševikai
 
@@ -59,9 +60,6 @@ Bolševikai, Brastoje darydami taiką su vokiečiais, visą Pabaltijį paliko vo
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/institucija - tauta]]
-
 ### Susiję objektai
 - [[objektai/grupes/Latvių Tautos Taryba]]
 - [[objektai/ivykiai/Nepriklausomosios Latvių valstybės įkūrimas (1918 m. lapkričio 18 d.)]]

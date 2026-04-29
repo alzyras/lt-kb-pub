@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - posakis
+  - tauta
 ---
 # Lietuviai esame mes gimę
 

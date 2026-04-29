@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - mokslininkas
 ---
 # Mokslo mėgėjų draugija Krokuvoje
 

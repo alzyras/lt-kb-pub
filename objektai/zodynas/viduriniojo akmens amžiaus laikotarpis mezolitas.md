@@ -8,6 +8,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - kraštas
   - sąvoka
 ---
 # viduriniojo akmens amžiaus laikotarpis mezolitas

@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - elekcija
   - pinigai
 ---
 # Jonas Sobieskis

@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - karalius
 ---
 # Brandenburgo elektoriai
 

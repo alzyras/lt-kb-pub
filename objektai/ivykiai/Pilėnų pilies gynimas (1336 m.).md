@@ -24,7 +24,8 @@ dalyviai:
   - vokiečiai
 susije_irasai: []
 patikimumas: aukstas
-tags: []
+tags:
+  - karas
 ---
 # Pilėnų pilies gynimas (1336 m.)
 

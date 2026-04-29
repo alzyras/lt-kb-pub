@@ -10,7 +10,8 @@ patikimumas: 'vidutinis'
 tags:
   - ginklas
   - ivykis
-  - vyskupas
+  - ordinas
+  - popiežius
 ---
 # Kalavijuočių ordino įkūrimas
 

@@ -23,7 +23,8 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukstas'
-tags: []
+tags:
+  - karas
 ---
 # Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)
 

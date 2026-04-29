@@ -9,7 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - ordinas
   - pilis
+  - tauta
 ---
 # Jogailos ir Vytauto susitaikinimas
 

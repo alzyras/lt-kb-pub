@@ -9,6 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - kraštas
+  - tauta
+  - valstybė
 ---
 # Lietuvos Taryba
 
@@ -106,7 +109,3 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/institucija - tauta]]

@@ -8,7 +8,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
   - didikas
+  - elekcija
   - ivykis
 ---
 # Mykolo Kaributo Višniaveckio elekcija (1669 m.)
@@ -64,7 +66,6 @@ Didikai bandė šitą elekciją sutrukdyti, tačiau bajorija dėjo galvą už sa
 ### Teminiai klasteriai
 - [[temos/didikas]]
 - [[temos/elekcija]]
-- [[temos/bajorija - karalius]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XVII amžius]]

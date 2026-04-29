@@ -8,6 +8,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
   - saltinis
 ---
 # Maskvos bajorų raštas dėl Vladislovo išrinkimo caru (1610 m.)

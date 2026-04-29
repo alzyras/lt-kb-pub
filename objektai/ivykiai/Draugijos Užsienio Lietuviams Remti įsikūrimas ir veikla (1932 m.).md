@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - kraštas
 ---
 # Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.)
 

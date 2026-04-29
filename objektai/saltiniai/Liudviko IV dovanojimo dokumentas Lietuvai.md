@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - dokumentas
+  - ordinas
+  - papuošalas
   - saltinis
 ---
 # Liudviko IV dovanojimo dokumentas Lietuvai

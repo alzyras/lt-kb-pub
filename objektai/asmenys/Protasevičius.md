@@ -11,7 +11,7 @@ tags:
   - asmuo
   - didikas
   - kunigas
-  - vyskupas
+  - popiežius
 ---
 # Protasevičius
 

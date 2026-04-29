@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karas
 ---
 # Antrasis karas su Maskva (1512–1522 m.)
 

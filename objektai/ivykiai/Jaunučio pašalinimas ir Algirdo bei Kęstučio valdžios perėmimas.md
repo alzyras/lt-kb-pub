@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - ordinas
   - valdovas
 ---
 # Jaunučio pašalinimas ir Algirdo bei Kęstučio valdžios perėmimas

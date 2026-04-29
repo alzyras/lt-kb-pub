@@ -6,6 +6,36 @@
     margin: 0;
   }
 
+  & > .graph-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin: 0.45rem 0 0.2rem;
+  }
+
+  .graph-legend-item {
+    border: 1px solid var(--lightgray);
+    border-radius: 999px;
+    color: var(--darkgray);
+    font-size: 0.72rem;
+    line-height: 1;
+    padding: 0.2rem 0.45rem;
+  }
+
+  .graph-legend-topic {
+    border-color: color-mix(in srgb, var(--tertiary) 45%, var(--lightgray));
+    background: color-mix(in srgb, var(--tertiary) 14%, transparent);
+  }
+
+  .graph-legend-period {
+    border-color: color-mix(in srgb, var(--secondary) 36%, var(--lightgray));
+    background: color-mix(in srgb, var(--secondary) 11%, transparent);
+  }
+
+  .graph-legend-tag {
+    background: color-mix(in srgb, var(--lightgray) 45%, transparent);
+  }
+
   & > .graph-outer {
     border-radius: 5px;
     border: 1px solid var(--lightgray);

@@ -22,6 +22,7 @@ dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
 tags:
+  - seimas
   - sąvoka
 ---
 # Liberum veto

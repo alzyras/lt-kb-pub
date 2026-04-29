@@ -8,7 +8,8 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
-tags: []
+tags:
+  - ritualas
 ---
 # Lietuvos krikšto apeigos
 

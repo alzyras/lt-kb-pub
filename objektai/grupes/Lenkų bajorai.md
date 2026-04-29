@@ -8,9 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
   - grupe
+  - karalius
   - privilegija
-  - valdovas
 ---
 # Lenkų bajorai
 
@@ -64,4 +65,3 @@ Iš savo pusės Lenkų bajorai pasižadėjo, kad mirus Jogailai nerinksią naujo
 ### Teminiai klasteriai
 - [[temos/privilegija]]
 - [[temos/valdovas]]
-- [[temos/bajorija - karalius]]

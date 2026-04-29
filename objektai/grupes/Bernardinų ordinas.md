@@ -10,6 +10,8 @@ patikimumas: 'vidutinis'
 tags:
   - grupe
   - kunigas
+  - mokslininkas
+  - ordinas
 ---
 # Bernardinų ordinas
 

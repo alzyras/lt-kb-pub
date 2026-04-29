@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - daiktas
+  - karalius
+  - kraštas
   - pinigai
 ---
 # Stepono Batoro pinigai

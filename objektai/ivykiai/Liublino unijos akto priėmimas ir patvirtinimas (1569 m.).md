@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karalius
+  - unija
 ---
 # Liublino unijos akto priėmimas ir patvirtinimas (1569 m.)
 
@@ -38,6 +40,7 @@ Karalius ir lenkai ramino, kad jie norį tik gero ir kad unija išeisianti tik �
 
 ## Ryšiai
 ### Teminiai klasteriai
+- [[temos/aktas - unija]]
 - [[temos/aktas]]
 - [[temos/unija]]
 

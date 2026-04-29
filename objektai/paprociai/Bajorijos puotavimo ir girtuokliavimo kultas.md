@@ -8,7 +8,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
   - didikas
+  - karalius
   - paprotys
 ---
 # Bajorijos puotavimo ir girtuokliavimo kultas
@@ -49,5 +51,4 @@ Dar patvirkusio girtuoklio karaliaus Augusto II laikais didikai, o nuo jų ir ba
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/bajorija - karalius]]
 - [[temos/didikas]]

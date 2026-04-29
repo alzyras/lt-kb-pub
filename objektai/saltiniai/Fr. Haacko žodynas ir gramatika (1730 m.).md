@@ -8,6 +8,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - mokslininkas
   - saltinis
 ---
 # Fr. Haacko žodynas ir gramatika (1730 m.)

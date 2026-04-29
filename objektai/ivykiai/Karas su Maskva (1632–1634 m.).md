@@ -9,6 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karalius
+  - karas
+  - kraštas
 ---
 # Karas su Maskva (1632–1634 m.)
 

@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - karalius
+  - kunigaikštis
   - kunigas
 ---
 # Albrechtas Hohencolernas

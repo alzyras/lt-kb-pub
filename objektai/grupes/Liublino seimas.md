@@ -9,6 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - karalius
+  - seimas
+  - unija
 ---
 # Liublino seimas
 
@@ -93,7 +96,6 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/unija]]
-- [[temos/karalius - valstybė]]
 
 ### Susiję objektai
 - [[objektai/grupes/Lenkų karalystė]]

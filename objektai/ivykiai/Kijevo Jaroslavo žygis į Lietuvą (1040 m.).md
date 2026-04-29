@@ -22,7 +22,8 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukstas'
-tags: []
+tags:
+  - karas
 ---
 # Kijevo Jaroslavo žygis į Lietuvą (1040 m.)
 

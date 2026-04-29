@@ -9,6 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - autorius
+  - kraštas
+  - ordinas
+  - tauta
 ---
 # Henrikas
 

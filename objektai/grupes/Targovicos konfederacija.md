@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - grupe
   - reforma
+  - valstybė
 ---
 # Targovicos konfederacija
 

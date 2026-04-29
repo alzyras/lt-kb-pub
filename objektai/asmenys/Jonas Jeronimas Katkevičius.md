@@ -9,6 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - karas
+  - seimas
+  - unija
 ---
 # Jonas Jeronimas Katkevičius
 
@@ -82,3 +85,4 @@ Pats apsukrusis ir įtakingasis to meto Lietuvos politikos veikėjas, Žemaiči�
 ### Teminiai klasteriai
 - [[temos/aktas]]
 - [[temos/unija]]
+- [[temos/aktas - unija]]

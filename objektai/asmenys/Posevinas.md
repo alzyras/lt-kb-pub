@@ -10,7 +10,8 @@ patikimumas: 'vidutinis'
 tags:
   - asmuo
   - diplomatas
-  - valdovas
+  - karas
+  - popiežius
 ---
 # Posevinas
 
@@ -72,3 +73,4 @@ Posevinas tikėjosi, kad Batoras bus priverstas nutraukti kovą: mat, kaip tik t
 - [[temos/diplomatas]]
 - [[temos/popiežius]]
 - [[temos/valdovas]]
+- [[temos/popiežius - valdovas]]

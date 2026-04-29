@@ -24,6 +24,7 @@ dalyviai: []
 susije_irasai: []
 patikimumas: 'aukstas'
 tags:
+  - prekyba
   - sutartis
 ---
 # Gedimino prekybinė sutartis su Livonija (1338 m.)

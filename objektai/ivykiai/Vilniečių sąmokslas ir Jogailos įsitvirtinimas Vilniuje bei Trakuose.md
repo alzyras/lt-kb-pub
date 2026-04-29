@@ -10,6 +10,8 @@ patikimumas: 'vidutinis'
 tags:
   - ivykis
   - miestas
+  - mokslininkas
+  - ordinas
 ---
 # Vilniečių sąmokslas ir Jogailos įsitvirtinimas Vilniuje bei Trakuose
 

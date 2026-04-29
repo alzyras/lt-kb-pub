@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - privilegija
   - saltinis
+  - valstybė
 ---
 # Zigmanto Kęstutaičio 1434 m. privilegija
 

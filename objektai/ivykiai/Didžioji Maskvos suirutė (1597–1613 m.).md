@@ -8,7 +8,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - dinastija
   - ivykis
+  - kraštas
 ---
 # Didžioji Maskvos suirutė (1597–1613 m.)
 

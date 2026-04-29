@@ -22,6 +22,7 @@ vaidmenys:
 patikimumas: 'aukštas'
 tags:
   - autorius
+  - mokslininkas
 ---
 # Jonas Basanavičius
 

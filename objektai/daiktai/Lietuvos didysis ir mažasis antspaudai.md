@@ -9,8 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - daiktas
+  - karalius
+  - popiežius
   - valdovas
-  - vyskupas
 ---
 # Lietuvos didysis ir mažasis antspaudai
 
@@ -149,6 +150,7 @@ Lietuviams reikalaujant, Lietuvai buvo paliktas nepaliestas visas valdžios apar
 ### Teminiai klasteriai
 - [[temos/popiežius]]
 - [[temos/valdovas]]
+- [[temos/popiežius - valdovas]]
 
 ### Susiję objektai
 - [[objektai/zodynas/metrika]]

@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - autorius
+  - kraštas
+  - mokslininkas
   - vyskupas
 ---
 # Liuteris

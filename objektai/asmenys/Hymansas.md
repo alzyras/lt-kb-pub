@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - asmuo
+  - tauta
 ---
 # Hymansas
 
@@ -93,7 +94,3 @@ Iš lietuvių ir lenkų delegacijų padarytų griežtai priešingų pareiškimų
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/institucija - tauta]]

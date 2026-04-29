@@ -9,7 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karas
   - sutartis
+  - tauta
 ---
 # Suvalkų derybos ir sutartis (1920 m. rugsėjo 20 d. – spalio 7 d.)
 
@@ -102,8 +104,5 @@ Suvalkų derybos. Suvalkų derybos pasibaigė susitarimu, kurį abi šalys pasir
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/institucija - tauta]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]

@@ -8,7 +8,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - karalius
   - privilegija
+  - valstybė
   - vieta
 ---
 # Voluinė
@@ -135,7 +137,6 @@ Kadangi tuo metu tarp Lietuvos ir Lenkijos dar tebeėjo ginčas dėl Podolės ir
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
-- [[temos/karalius - valstybė]]
 
 ### Susiję objektai
 - [[objektai/vietos/Braclavas]]

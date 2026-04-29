@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - mokslininkas
 ---
 # Vilniaus Lietuvių Mokslo Draugija
 

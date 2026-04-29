@@ -8,9 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - bajorija
+  - kunigaikštis
   - kunigas
   - paprotys
-  - vyskupas
 ---
 # Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose
 

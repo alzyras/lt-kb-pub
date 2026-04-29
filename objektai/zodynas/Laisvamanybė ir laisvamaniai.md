@@ -24,6 +24,7 @@ susije_irasai:
 patikimumas: 'aukštas'
 tags:
   - sąvoka
+  - tauta
 ---
 # Laisvamanybė ir laisvamaniai
 

@@ -11,6 +11,7 @@ tags:
   - ivykis
   - miestas
   - pilis
+  - valstybė
 ---
 # Rygos pilies pastatymas
 
@@ -40,7 +41,3 @@ Kad būtų lengviau gintis, jis pastatė Rygos pilį (1201 m.), kuri vėliau vir
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/miestas - pilis]]

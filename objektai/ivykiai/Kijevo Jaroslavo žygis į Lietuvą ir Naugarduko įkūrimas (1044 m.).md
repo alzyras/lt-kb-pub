@@ -22,7 +22,8 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukstas'
-tags: []
+tags:
+  - karas
 ---
 # Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)
 

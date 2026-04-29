@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - asmuo
   - pinigai
+  - seimas
 ---
 # Jonas Kazimieras
 

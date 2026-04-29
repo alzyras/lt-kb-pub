@@ -8,6 +8,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - elekcija
+  - karalius
+  - kunigaikštis
   - posakis
 ---
 # Išsižadame visų savo beverčių lenkiškų didžiosios Lietuvos kunigaikštijos
@@ -47,5 +50,4 @@ Išsižadame visų savo beverčių lenkiškų didžiosios Lietuvos kunigaikštij
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/karalius - valstybė]]
 - [[temos/elekcija]]

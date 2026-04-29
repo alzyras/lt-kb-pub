@@ -11,6 +11,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - daiktas
+  - papuošalas
 ---
 # Daujėnų apgalvis
 

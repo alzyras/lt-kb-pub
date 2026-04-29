@@ -8,6 +8,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - kunigaikštis
   - saltinis
 ---
 # Vytauto, Skirgailos, Vladimiro ir Teodoro Algirdaičių raštas Jogailai

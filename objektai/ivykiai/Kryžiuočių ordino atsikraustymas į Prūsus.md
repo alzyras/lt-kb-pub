@@ -9,7 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
-  - vyskupas
+  - karalius
+  - kunigaikštis
+  - ordinas
 ---
 # Kryžiuočių ordino atsikraustymas į Prūsus
 

@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - paprotys
+  - seimas
 ---
 # Seimo darbų statutas ir instrukcijų saikdinimo draudimas
 

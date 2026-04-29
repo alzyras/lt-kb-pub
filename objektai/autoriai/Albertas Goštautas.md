@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - autorius
   - privilegija
+  - tauta
 ---
 # Albertas Goštautas
 
@@ -41,5 +42,4 @@ Statutas, paruoštas vadovaujant kancleriui Albertui Goštautui, buvo taisomas k
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/institucija - tauta]]
 - [[temos/privilegija]]

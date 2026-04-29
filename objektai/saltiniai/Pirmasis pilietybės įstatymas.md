@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - pinigai
   - saltinis
+  - valstybė
 ---
 # Pirmasis pilietybės įstatymas
 

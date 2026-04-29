@@ -9,6 +9,9 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - grupe
+  - ordinas
+  - seimas
+  - valstybė
 ---
 # Edukacinė Komisija
 

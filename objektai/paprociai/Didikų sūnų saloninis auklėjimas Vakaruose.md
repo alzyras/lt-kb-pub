@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - didikas
+  - kunigaikštis
   - paprotys
 ---
 # Didikų sūnų saloninis auklėjimas Vakaruose

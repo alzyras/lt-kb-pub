@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ežeras
+  - kraštas
   - sutartis
   - vieta
 ---

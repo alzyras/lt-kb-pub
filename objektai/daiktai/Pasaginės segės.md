@@ -10,6 +10,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - daiktas
+  - papuošalas
 ---
 # Pasaginės segės
 

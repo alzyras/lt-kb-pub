@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karalius
+  - paliaubos
 ---
 # Štumdorfo paliaubos (1635 m.)
 

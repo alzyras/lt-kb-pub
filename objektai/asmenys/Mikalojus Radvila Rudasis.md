@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - asmuo
   - didikas
+  - karalius
   - sutartis
 ---
 # Mikalojus Radvila Rudasis

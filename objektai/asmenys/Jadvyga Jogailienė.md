@@ -10,6 +10,8 @@ patikimumas: 'vidutinis'
 tags:
   - asmuo
   - dokumentas
+  - karalius
+  - krikštas
 ---
 # Jadvyga Jogailienė
 

@@ -8,7 +8,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - karalius
   - posakis
+  - tauta
+  - valstybė
 ---
 # Didžioji Lietuvos kunigaikštystė ir Lenkų karalystė yra vienas nedalomas ir vienalytis kūnas
 
@@ -38,7 +41,3 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karalius - valstybė]]

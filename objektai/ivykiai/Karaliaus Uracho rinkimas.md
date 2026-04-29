@@ -9,6 +9,8 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - karalius
+  - kunigaikštis
 ---
 # Karaliaus Uracho rinkimas
 
