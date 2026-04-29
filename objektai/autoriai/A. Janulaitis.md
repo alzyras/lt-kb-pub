@@ -165,7 +165,7 @@ A. Janulaitis minimas kaip istorikas, teisės istorikas ir leidėjas; šiame tom
   santrauka: Aug. Janulaitis pateikiamas kaip veikalo Ignas Danilavičius autorius
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    (^37) **Plačiai apie ji parašė Aug. Janulaitis :** **_Ignas Danilavičius,_** **Kaunas  
+    (^37) **Plačiai apie ji parašė Aug. Janulaitis :** **_Ignas Danilavičius,_** **Kaunas
     1932.**
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -178,11 +178,11 @@ A. Janulaitis minimas kaip istorikas, teisės istorikas ir leidėjas; šiame tom
   santrauka: Daukanto laiškai bibliografiškai priskirti A. Janulaičiui kaip leidėjui
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    (^54) **A. Janulaitis (leidėjas):** **_Daukanto laiškai,_** **Mūsų Senovė, red. J. Tu-  
-    mas, 1922, 4-5 nr., Tilžė (Švietimo Minister, leid.), 690-795 p.; Z. Ivinskis :**  
-    **_S. Daukantas,_** **NaR, 1936, 11-12 nr.; Vcl. Biržiška, J. Girnius ir V. Ma-  
-    ciūnas :** **_Daukantas S.,_** **LB, t. 4, 363-367 p.; S. Sužiedėlis :** **_Daukantas,  
-    S.,_** **EnL, II, 34-36 p. — Plg. I. Jonynas:** **_Istoriografija Litvy,_** **žr.** **_Očerki,_** **It.,**
+    (^54) **A. Janulaitis (leidėjas):** **_Daukanto laiškai,_** **Mūsų Senovė, red. J. Tu­
+    mas, 1922, 4-5 nr., Tilžė (Švietimo Minister, leid.), 690-795 p.; Z. Ivinskis :**
+    **_S. Daukantas,_** **NaR, 1936, 11-12 nr.; Vcl. Biržiška, J. Girnius ir V. Ma­
+    ciūnas :** **_Daukantas S.,_** **LB, t. 4, 363-367 p.; S. Sužiedėlis :** **_Daukantas, S.,_**
+    **EnL, II, 34-36 p. — Plg. I. Jonynas:** **_Istoriografija Litvy,_** **žr.** **_Očerki,_** **It.,
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -232,11 +232,18 @@ A. Janulaitis minimas kaip istorikas, teisės istorikas ir leidėjas; šiame tom
   santrauka: Bibliografinis įrašas susieja A. Janulaitį su darbu apie Žemaičius ir Konstancos seimą
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Janulaitis, A. : _Žemaičiai ir bažnytinis seimas Konstancijoje_ , Praeitis, II, 1933,
-    291-349 p. —Kaupas, VI. : Die Presse Litauens, I (Diss. München), Klai-
+    Janulai­
+    tis, A. : _Žemaičiai ir bažnytinis seimas Konstancijoje_ , Praeitis, II, 1933,
+
+    (^41) **CeXV, II, 108 p.**
+    (^42) **A. M. Ammann :** **_Stovia dełla Chiesa Russa,_** **Torino 1948, 126 p.**
+
+
+    ```
+    291-349 p. —Kaupas, VI. : Die Presse Litauens, I (Diss. München), Klai­
     pėda 1932 (plačiai apžvelgia propagandinius raštus Vytauto laikais). —
     Kliausis, lg. : Die Kircheupolitik in Litauen unter Jogaila und Vytautas
-    ( 1377-1421 ), Diss. Graz 1929, mašinr. VII + 117 p.).
+    ( 1377-1421 ), Diss. Graz 1929, mašinr. VII + 117 p
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

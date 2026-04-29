@@ -42,7 +42,7 @@ Lietuviams vadovavo Katkevičius su Valavičium, nes senelis M. Tada Katkevičiu
       rėmė lenkų reikalavimus. Pagaliau atėjo lemiamoji birželio 27 d.
       Katkevičius pasakė karštą ir graudingą kalbą, maldaudamas karalių
       neskriausti Lietuvos. Ją baigdamas, didysis Livonijos gynėjas net
-    
+
       apsiašarojo, o visi Lietuvos atstovai suklaupė.
   citata_rodoma: ''
   teiginio_tipas: faktas

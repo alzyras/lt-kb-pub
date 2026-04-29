@@ -243,3 +243,4 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/vietos/Kremlius]]
 - [[objektai/vietos/Radomas]]
+- [[objektai/vietos/Trakai]]

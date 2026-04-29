@@ -44,3 +44,6 @@ Tada Kazimieras ėmė rūpintis, kad Lietuvai pasiūlytų krikštytis patsai pop
 ### Teminiai klasteriai
 - [[temos/krikštas]]
 - [[temos/popiežius]]
+
+### Susiję objektai
+- [[objektai/asmenys/Kazimieras Didysis]]

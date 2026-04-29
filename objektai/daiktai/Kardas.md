@@ -44,7 +44,7 @@ Višniaveckis jį nusivežė į Valkininkus, kur kitą rytą įsiutusi bajorų m
   citata_originali: |
     Visą dieną užtrukusios kautynės pasibaigė Sapiegų pralaimėjimu.
       Jų kariuomenei vadovavęs hetmono sūnus Mykolas (visi kiti
-    
+
       Sapiegos, vos prasidėjus kautynėms, pabėgo į Vilnių) va-
       karop buvo apsuptas ir turėjo pasiduoti. Višniaveckis jį nu-
       sivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepai-

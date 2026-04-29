@@ -105,10 +105,11 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   santrauka: 'Kazimiero — Zigmanto Augusto laikai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    **XIV. Kazimiero — Zigmanto Augusto laikai.** _Fr. Papće,_ Polska i Litwa
-      na przełomie średnich wieków (1904); — Studya i szkice z czasów Kazi-
-      mierza Jagiellończyka (1907); _F. Koneczny,_ Litwa a Moskwa w latach 1449—
-      1492 (1929); _W. Bialowiejśka,_ Stosunki Litwy z Moskwą 1492—1499 (At.
+    . (At. Wil., 1928); _M. Kopystiański,_ Michał Zygmun-
+    towicz (Kw. hist. XX); Pr. _Penkauskas,_ Bazelio susirinkimas ir Lietuvos
+    sosto reikalas Vytautui mirus (atsp. iš Tiesos K., 1926) ; _A. Lewicki,_ Przy-
+    mierze Zygmunta W. ks. Lit. z kr. Albrechtem II (1898).
+    **XIV. Kazimiero — Zigmant
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -121,9 +122,11 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet kadangi, pradedant
-      Kazimieru, Lietuvos valdovais visada būdavo išrenkami Jogai-
-      los palikuonys, tai Kazimiero šeima jautėsi turinti sosto pavel-
-      dėjamųjų teisių.
+
+
+    Kazimieru, Lietuvos valdovais visada būdavo išrenkami Jogai-
+    los palikuonys, tai Kazimiero šeima jautėsi turinti sosto pavel-
+    dėjamųjų teisių.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -136,8 +139,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Palengva kilo nepasitenkinimas ordino valdžia net pačioje jo
-      valstybėje, ir 1454 m. sukilę miestai, bajorija ir vyskupai pasidavė
-      Lenkų karaliui Kazimierui.
+    valstybėje, ir 1454 m. sukilę miestai, bajorija ir vyskupai pasidavė
+    Lenkų karaliui Kazimierui.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -149,7 +152,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   santrauka: 'Kazimieras Jogailaitis turėjo 6 sūnus ir 5 dukteris.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Iš viso jis turėjo 6 sūnus ir 5 dukteris. Jis buvo kelis kartus vedęs, bet visų jo vaikų motina buvo austrė Elžbieta Habsburgaitė.
+    Iš viso jis turėjo 6 sūnus ir 5 dukteris. Jis buvo kelis kartus vedęs,
+    bet visų jo vaikų motina buvo austrė Elžbieta Habsburgaitė.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

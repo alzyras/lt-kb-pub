@@ -56,11 +56,11 @@ Voldemarą ir M. Ministerių pirmininkas Voldemaras, manydamas, kad taikingos ir
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Dėl tos priežasties keturi kairiųjų
-      pažiūrų nariai (M. Biržiška, S. Kairys, S. Narutavičius ir J.
-      Vileišis) atsiskyrė nuo kitų Tarybos narių, kurie jų vieton koop-
-      tavo šešis naujus narius (dr. J. Alekną, E. Draugelį, J. Purickį,
-      A. Voldemarą ir M. Yčą, — kurie tuomet buvo sugrįžę iš Ru-
-      sijos).
+    pažiūrų nariai (M. Biržiška, S. Kairys, S. Narutavičius ir J.
+    Vileišis) atsiskyrė nuo kitų Tarybos narių, kurie jų vieton koop-
+    tavo šešis naujus narius (dr. J. Alekną, E. Draugelį, J. Purickį,
+    A. Voldemarą ir M. Yčą, — kurie tuomet buvo sugrįžę iš Ru-
+    sijos).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -73,8 +73,8 @@ Voldemarą ir M. Ministerių pirmininkas Voldemaras, manydamas, kad taikingos ir
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ministerių pirmininkas Voldemaras, manydamas, kad tai-
-      kingos ir demokratiškos Lietuvos niekas negalėsiąs pulti, pats
-      tuojau išvyko į užsienius išvystyti diplomatinės akcijos.
+    kingos ir demokratiškos Lietuvos niekas negalėsiąs pulti, pats
+    tuojau išvyko į užsienius išvystyti diplomatinės akcijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -87,8 +87,8 @@ Voldemarą ir M. Ministerių pirmininkas Voldemaras, manydamas, kad taikingos ir
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1918 metų lapkričio mėn. 5 d. Taryba pavedė A. Voldemarui
-      sudaryti pirmą nepriklausomosios Lietuvos kabinetą, kurs pradėjo
-      veikti lapkričio 11 d.
+    sudaryti pirmą nepriklausomosios Lietuvos kabinetą, kurs pradėjo
+    veikti lapkričio 11 d.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -102,13 +102,21 @@ Voldemarą ir M. Ministerių pirmininkas Voldemaras, manydamas, kad taikingos ir
   citata_originali: |
     Vad. « puskarininkių perversmas » (Dr. J. Pajaujo iniciatyva),
     Tauragės pučas (1927.IX.), plečkaitininkų veikla, pulk. J. Petruičio
+
+    (^20) **K. A. Matulaitis :** **_Sukilimas Sūduvoje 1905-1906 m.,_** **Tautos Praeitis,**
+    n, **3-4, 1967, 257-270 p.**
+
+
+    ```
+    LIETUVOS ISTORIJOS PERIODIZACIJA^41
+    ```
     žygis (1928 m.), moksleivių ateitininkų organizacijos uždarymas
     (1930), Teologijos-Filosofijos fakulteto apkarpymas, savaip supras­
     tas Konkordato aiškinimas ir ryšium su tuo Apaštalų Sosto nun­
     cijaus R. Bartoloni išsiuntimas iš Lietuvos (1931.VI.5), taip pat
     bandymas grąžinti valdžion A. Voldemarą (1934.VI.6-7 d.), Klai­
     pėdoje imtas leisti opozicijos laikraštis «Bendras Žygis » (1938-
-    1939 m.), buvo tik dalis anam laikotarpiui charakteringų apraiškų.
+    1939 m.), buvo tik dalis anam laikotarpiui charakteringų apraiškų
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -126,9 +134,9 @@ Voldemarą ir M. Ministerių pirmininkas Voldemaras, manydamas, kad taikingos ir
     negalima praleisti A. Voldemaro. Petrapilio universitete
     1909 m. jis baigė klasikinę filologiją ir istoriją ir I pasaulinio karo
     metu iki bolševikų revoliucijos buvo Permės universiteto profeso­
-    rjumi. Kaune jis profesoriavo Aukštuosiuose Kursuose (1920-22)
+    riumi. Kaune jis profesoriavo Aukštuosiuose Kursuose (1920-22)
     ir toliau Humanitarinių mokslų fakultete iki 1926 m., kur dėstė
-    antikinę istoriją.
+    antikinę istoriją
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

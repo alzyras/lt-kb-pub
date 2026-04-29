@@ -74,10 +74,19 @@ tags:
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tenka pastebėti, jog Žemaičiai iš dalies vedė savitą
+
+    (^1) **« ... contra gentem illam potentem et durissime cervicis exercitatam-
+    que in bello » (SRP, I, 146).**
+    (^2) **SRP, I, 147 p.**
+
+
+    ```
+    212 n skyrius: valstybės iškilimas
+    ```
     politinį gyvenimą. Ir socialiniu atžvilgiu jie skyrėsi nuo kitų lie­
     tuvių žemių. Žemaičiai į Lietuvos valstybę labiau buvo įjungti
     Vytauto laikais, nors savo skirtingas privilegijas išlaikė iki pat
-    XVI amž.
+    XVI amž
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

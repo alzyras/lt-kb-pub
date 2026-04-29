@@ -91,7 +91,7 @@ Antanas Tizenhauzas, jo darbai ir nepasisekimai. Antanas Tizenhauzas sumanė pas
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     #### 5. Antanas Tizenhauzas, jo darbai ir nepasisekimai
-    
+
       Tizenhauzas buvo gana turtingas ponas, Lietuvos kiemo
       iždininkas ir artimas karaliaus bičiulis.
   citata_rodoma: ''

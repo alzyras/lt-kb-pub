@@ -185,8 +185,5 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-008
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/egzekucija]]

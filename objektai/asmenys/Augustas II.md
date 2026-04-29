@@ -101,11 +101,11 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Norėdami tuo reikalu laimėti, žymesnieji bajorijos vadai net
-      buvo pasirašę Augusto reikalaujamą raštą, kuriuo jie visos
-      Lietuvos vardu atsižadėjo savo teisių rink-
-      tis valdovus ir paskelbė jį absoliutiškai val-
-      dančiu didžiuoju Lietuvos kunigaikščiu su
-      paveldėjamąja teise.
+    buvo pasirašę Augusto reikalaujamą raštą, kuriuo jie visos
+    Lietuvos vardu atsižadėjo savo teisių rink-
+    tis valdovus ir paskelbė jį absoliutiškai val-
+    dančiu didžiuoju Lietuvos kunigaikščiu su
+    paveldėjamąja teise.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -118,10 +118,10 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai Augustas II su Petru I padarė sutartį
-      atimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo
-      jaunutis Karolis XII; jam tebuvo vos 18 metų amžiaus. Augus-
-      tas II su Petru I, be to, įtraukė į sąjungą Daniją ir Brandenbur-
-      go kunigaikštį.
+    atimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo
+    jaunutis Karolis XII; jam tebuvo vos 18 metų amžiaus. Augus-
+    tas II su Petru I, be to, įtraukė į sąjungą Daniją ir Brandenbur-
+    go kunigaikštį.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -134,8 +134,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _W. Konopczyński,_ Polska a Szwecja (1924); P.
-      _Haake,_ August der Starke (1902); 5. _Askenazy,_ Dwa stulecia I, II (1903);
-      _W. Konopczyński,_ Polska w dobie wojny siedmioletniej, I, II (1909, 1911);
+    _Haake,_ August der Starke (1902); 5. _Askenazy,_ Dwa stulecia I, II (1903);
+    _W. Konopczyński,_ Polska w dobie wojny siedmioletniej, I, II (1909, 1911);
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -148,7 +148,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Augusto II** pinigai: 42 — _trečiokas;_ 43 — _šeštokas._ Jo laikais kalykla
-      Lietuvoje veikė labai trumpai (1706—1707 m.), ir ne Vilniuje, bet Gardine.
+    Lietuvoje veikė labai trumpai (1706—1707 m.), ir ne Vilniuje, bet Gardine.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -161,8 +161,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką,
-      atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį
-      (1706 m.).
+    atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį
+    (1706 m.).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -395,7 +395,7 @@ tags: []
     su kaimynais............................................... 106
     5. Naujasis geležies amžius (800-1200 m.) Lietuvoje ir Wulfstano
     pranešimas apie vakarinius baltus........................... 109**
-    
+
     ```
     II. Lietuviai iki Lietuvos valstybės pradžios............................... 114
     ```
@@ -405,17 +405,17 @@ tags: []
     3. Senosios lietuvių kultūros pradai................................. 128
     4. Socialiniai ir ekonominiai santykiai.............................. 132
     5. Pagoniškasis lietuvių tikėjimas................................... 140**
-    
-    
+
+
     VI TURINYS
-    
+
     ```
     ANTRAS SKYRIUS
     VALSTYBĖS IŠKILIMAS IR JOS SUSTIPRĖJIMAS
     Trumpa epochos charakteristika................................... 149
     ```
     **I. Karalius Mindaugas ir jo palikimas.................................. 152**
-    
+
     **1. Šešios galutinai neištirtos Mindaugo laikų problemos.............. 152
     2. Lietuvių karo žygiai į kaimynus ir valstybės pradžia............... 157
     3. Sąjunga prieš Mindaugą. Jo krikštas ir karūnacija.................. 169
@@ -423,9 +423,9 @@ tags: []
     charakteristika............................................. 181
     5. Du dešimtmečiai Mindaugui žuvus : septynmetis vidaus nera­**
         **mumų (1263-1270) ir Traidenis (1270-1282).................... 196**
-    
+
     **II. Lietuvos valstybingumo išsivystymas (1283-1387)..................... 211**
-    
+
     **1. Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir**
         **naujos dinastijos kilmė..................................... 211
     2. Vytenio kovos su ordinu ir jo sąjunga su Ryga..................... 217
@@ -441,21 +441,21 @@ tags: []
     žiuočių ordinu iki 1384.................................... 270
     9. Politinės išeities ieškojimas, Kriavo aktas ir Lietuvos krikštas 280
     10. Kultūrinis ir socialinis lygis pagoniškoje Lietuvoje............... 293**
-    
+
     ```
     TREČIAS SKYRIUS
     VALSTYBĖS SUKLESTĖJIMAS
     ```
     **Vytautas Didysis ir jo darbai.......................................... 301**
-    
+
     **1. Vytauto Didžiojo sąjunga su kryžiuočiais ir jo laimėjimai prieš**
         **Algirdaičius Lietuvoje antrojo vidaus karo metu............. 301
     2. Lietuvos valstybingumo išplėtimas slavų erdvėje................. 310**
         **a. Ankstyvieji Vytauto žygiai Rytuose...................... 310
     b. Vytauto santykiai su totoriais ir Vorsklos nelaimė......... 314
     c. Vytauto karas ir taika su Maskva......................... 319**
-    
-    
+
+
     ```
     TURINIS VII
     ```
@@ -489,7 +489,7 @@ tags: []
         **a. Vytauto nuopelnai religinėje srityje........................ 375**
         **b. Vytauto darbai materialinėje ir socialinėje srityje............ 376
     10. Vytauto Didžiojo politikos ir asmens charakterizavimas............ 379**
-    
+
     ```
     Vardynas.......................................................... 383
     ```

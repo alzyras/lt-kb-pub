@@ -59,11 +59,11 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Augustui **II** mirus, daugumas bajorijos panoro grąžinti iš-
-      tremtąjį karalių Leščinskį, kurio kandidatūrą rėmė Prancūzija.
-      Tačiau svarbiausias tuo reikalu balsas priklausė kaimynėms
-      valstybėms — Rusijai, Austrijai ir Prūsijai. O jos specialia su-
-      tartimi buvo įsižadėjusios neleisti į sostą nei Augusto **II** sūnaus,
-      Fridriko Augusto, nei Leščinskio.
+    tremtąjį karalių Leščinskį, kurio kandidatūrą rėmė Prancūzija.
+    Tačiau svarbiausias tuo reikalu balsas priklausė kaimynėms
+    valstybėms — Rusijai, Austrijai ir Prūsijai. O jos specialia su-
+    tartimi buvo įsižadėjusios neleisti į sostą nei Augusto **II** sūnaus,
+    Fridriko Augusto, nei Leščinskio.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -76,8 +76,8 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Augustas III,
-      1733—1763 m. d. Lietuvos kunigaikštis,
-      Lenkų karalius ir Saksų elektorius.
+    1733—1763 m. d. Lietuvos kunigaikštis,
+    Lenkų karalius ir Saksų elektorius.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -90,7 +90,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Augustui **III** mirus, kandidatų į sostą atsirado
-      nemaža.
+    nemaža.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -105,7 +105,12 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
     Respublikos suverenumas vis labiau visokiais budais būdavo
     pažeidžiamas. Tipiškai atsivėrė sustiprėjusi Rusijos įtaka per Au­
     gusto III-jo (1733 m.) ir ypač per Stanislovo Augusto Poniatovskio
-    (1764) elekciją.
+
+
+    ```
+    40 ĮVADAS
+    ```
+    (1764) elekciją
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

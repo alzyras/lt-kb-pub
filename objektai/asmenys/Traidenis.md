@@ -70,15 +70,15 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tada daugelis jų ėmė bėgti nuo
-      vokiečių į Lietuvą, ir Traidenis juos mielai priimdavo. Jis juos
-      Įkurdino Voluinės pasieny. Tuo būdu jis norėjo ten sudaryti
-      tvirtesnę atsparą prieš Voluinės kunigaikštystę, su kuria Trai-
-      denis bloguoju gyveno (jis užėmė net jos valdytą Drohičiną).
-      Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
-      Tačiau su lenkais jam tekdavo nemažai kariauti; jis pasiekdavo
-      ne tik Mozūrus, bet ir tolimąją Krokuvą. Mozūrų kunigaikštis
-      (Boleslovas II), norėdamas apsisaugoti nuo Traidenio puolimų,
-      vedė net jo dukterį.
+    vokiečių į Lietuvą, ir Traidenis juos mielai priimdavo. Jis juos
+    Įkurdino Voluinės pasieny. Tuo būdu jis norėjo ten sudaryti
+    tvirtesnę atsparą prieš Voluinės kunigaikštystę, su kuria Trai-
+    denis bloguoju gyveno (jis užėmė net jos valdytą Drohičiną).
+    Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
+    Tačiau su lenkais jam tekdavo nemažai kariauti; jis pasiekdavo
+    ne tik Mozūrus, bet ir tolimąją Krokuvą. Mozūrų kunigaikštis
+    (Boleslovas II), norėdamas apsisaugoti nuo Traidenio puolimų,
+    vedė net jo dukterį.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -91,14 +91,14 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ar turėjo Traidenis kokių giminystės ryšių su anksčiau
-      veikusiais kunigaikščiais ir su Mindaugu, nėr žinios. Žinome
-      tik, kad Lietuvą jis valdė iš Kernavės. Jis, tur būt, norėjo
-      eiti Treniotos keliais, ne Mindaugo. Apskritai, jis buvo grynai
-      tautiškosios ir pagoniškosios Lietuvos val-
-      dovas, t. y. pirmiausia jam rūpėjo valdyti ir ginti visas lietu-
-      viškąsias žemes, o apie nukariavimus jis mažai tesirūpino. Jis
-      nesidėjo nė su vienu kaimynu. Būdamas geras karys, jis pats
-      vienas kariavo su visais priešais.
+    veikusiais kunigaikščiais ir su Mindaugu, nėr žinios. Žinome
+    tik, kad Lietuvą jis valdė iš Kernavės. Jis, tur būt, norėjo
+    eiti Treniotos keliais, ne Mindaugo. Apskritai, jis buvo grynai
+    tautiškosios ir pagoniškosios Lietuvos val-
+    dovas, t. y. pirmiausia jam rūpėjo valdyti ir ginti visas lietu-
+    viškąsias žemes, o apie nukariavimus jis mažai tesirūpino. Jis
+    nesidėjo nė su vienu kaimynu. Būdamas geras karys, jis pats
+    vienas kariavo su visais priešais.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -111,10 +111,10 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po Durbės mūšio sukilusias kiltis ordinas jau buvo
-      nugalėjęs. Traidenis net kelis kartus skaudžiai sumušė Livonijos
-      ordino kariuomenę ir ne kartą su savo kariuomene skersai ir
-      išilgai išvaikščiojo ordino žemes, tačiau nepajėgė sugriauti jo
-      galingų pilių.
+    nugalėjęs. Traidenis net kelis kartus skaudžiai sumušė Livonijos
+    ordino kariuomenę ir ne kartą su savo kariuomene skersai ir
+    išilgai išvaikščiojo ordino žemes, tačiau nepajėgė sugriauti jo
+    galingų pilių.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -127,7 +127,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmasis iškilo
-      Kernavės kunigaikštis Traidenis.
+    Kernavės kunigaikštis Traidenis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -156,7 +156,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   santrauka: Traidenio santuoka susiejama su Konrado I dukterimi Liudmila
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Traidenis buvo vedęs Mozurijos ir Kujavijos kunigaikščio Konrado I
+    Trai­
+    denis buvo vedęs Mozurijos ir Kujavijos kunigaikščio Konrado I
     dukterį Liudmilą^230.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -170,8 +171,10 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   santrauka: Traidenio duktė Gaudimantė susiejama su Boleslovo II vedybomis ir Sofijos vardu
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Tad vienas iš Mozūrų kunigaikščių, būtent, Płocko Boleslovas II,
-    norėdamas dar labiau apsisaugoti nuo lietuvių puolimų, 1279 m. vedė Traidenio dukrą Gaudimantę (Gaudemundą), kuri per krikštą gavo Sofijos vardą.
+    Tad vienas iš Mozūrų kunigaikš­
+    čių, būtent, Płocko Boleslovas II, norėdamas dar labiau apsisaugoti
+    nuo lietuvių puolimų, 1279 m. vedė Traidenio dukrą Gaudimantę
+    (Gaudemundą), kuri per krikštą gavo Sofijos vardą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -184,8 +187,10 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   santrauka: Traidenio mirtis išskiriama kaip pirmasis natūralios valdovo mirties atvejis XIII a. Lietuvoje
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Po mirties Traidenio, kuris pirmasis iš Lietuvos XIII amž. valdovų mirė savo mirtimi,
-    neberandama pėdsakų apie sukrėtimus, ar maištus, kurie buvo lydėję Mindaugo nužudymą.
+    Po mirties Trai­
+    denio, kuris pirmasis iš Lietuvos XIII amž. valdovų mirė savo
+    mirtimi, neberandama pėdsakų apie sukrėtimus, ar maištus, kurie
+    buvo lydėję Mindaugo nužudymą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

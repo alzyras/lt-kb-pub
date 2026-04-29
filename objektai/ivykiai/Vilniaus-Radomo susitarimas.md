@@ -56,11 +56,12 @@ Ivinskis šį susitarimą tiesiogiai sieja su Vorsklos pralaimėjimo sukelta nau
   santrauka: 'Vilniaus ir Radomo aktai pateikiami kaip Vorsklos padarinių dalis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Vorsklos pralaimėjimas tačiau Vytautui nešė nuostolius kituose frontuose.
+    Vorsklos pralaimėjimas tačiau Vytautui nešė nuostolius kituose
+    frontuose. Jis nebegalėjo daugiau atsipalaiduoti nuo Lenkijos.
     Nelaimingosios Vytautui kautynės Karūnos interesams tačiau buvo
     laimingos. Lenkija vėl daugiau įgijo įtakos Lietuvoje^43. O su
     bebandančiu atsipalaiduoti Vytautu atskirais aktais (Vilniaus ir
-    Radomo suvažiavimuose 1401) buvo aiškiau nustatyti santykiai^44.
+    Radomo suvažiavimuose 1401) buvo aiškiau nustatyti santykiai^44
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

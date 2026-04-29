@@ -49,7 +49,7 @@ Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonist
   citata_originali: |
     **Karalius ir lietuviai.** Vokietėjimas ir vokietinimas nebuvo
     visą laiką vienodas ir XIX amž., — būtent pirmoje to amžiaus
-    
+
     pusėje karštai rūpinosi vokietinimu tik patys Mažosios Lietuvos
     vokiečiai, o antrojoje pusėje to ėmėsi ir pati centro valdžia.
   citata_rodoma: ''

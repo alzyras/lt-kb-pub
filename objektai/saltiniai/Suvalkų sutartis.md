@@ -38,7 +38,7 @@ Suvalkų derybos pasibaigė susitarimu, kurį abi šalys pasirašė 1920 metų s
     te, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiau-
     sioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno
     — visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų
-    
+
     (prie Lydos—Vilniaus geležinkelio) sutartis paliko Lenkų pu-
     sėje.
   citata_rodoma: ''

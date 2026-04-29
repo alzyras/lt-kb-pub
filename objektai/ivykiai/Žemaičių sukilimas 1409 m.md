@@ -14,7 +14,6 @@ tags:
   - ivykis
   - pilis
   - valdovas
-  - sukilimas
 ---
 # Žemaičių sukilimas 1409 m
 
@@ -119,9 +118,9 @@ Ivinskis sukilimo pradžią sieja su pasienio uždarymu, prekybos draudimais, Sk
   santrauka: '1409 m. pradžioje ordinas uždarė Žemaitijos sieną ir įvedė prekybos draudimus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    1409 m. pradžioje ordinas aklinai uždarė Žemaičių sieną Lie-
-    tuvon. Jis uždraudė ten pardavinėti arklius, galvijus ir medų.
-    Vytautas ėmė skųstis tokiu kaimyno griežtumu.
+    1409 m. pradžioje ordinas aklinai uždarė Žemaičių sieną Lie­
+    tuvon. Jis uždraudė ten pardavinėti arklius, galvijus ir medų 54 55.
+    Vytautas ėmė skųstis tokiu kaimyno griežtumu
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -133,7 +132,10 @@ Ivinskis sukilimo pradžią sieja su pasienio uždarymu, prekybos draudimais, Sk
   santrauka: 'Žemaičių sukilimas prasidėjo 1409 m. gegužę, sudeginus Skirsnemunę ir puolus pilis bei Klaipėdą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Žemaičiai, kuriems buvo atneštos žinios, kad «javams nunokus» prasidėsiąs karas, sukilo dar gegužės mėn. (1409). Jie sudegino ordino vietininkui reikalingą Skirsnemunę, be to, puolė Žemaičiuose kitas dvi naujas pilis ir Klaipėdą.
+    Žemaičiai, kuriems buvo atneštos žinios, kad «javams
+    nunokus» prasidėsiąs karas^58 , sukilo dar gegužės mėn. (1409). Jie
+    sudegino ordino vietininkui reikalingą Skirsnemunę^59 , be to, puolė
+    Žemaičiuose kitas dvi naujas pilis ir Klaipėdą
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -162,7 +164,10 @@ Ivinskis sukilimo pradžią sieja su pasienio uždarymu, prekybos draudimais, Sk
   santrauka: 'Žemaitijos netektis tiesiogiai lydėjo ordino karo paskelbimas Lenkijai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Tuo pat laiku, kai kryžiuočiams galutinai išslydo Žemaičiai, jie buvo priversti skelbti karą Lenkijai (1409.VIII.6), nes ordinui nepasisekė Jogailos atskirti nuo ketvirtą kartą atsimetusio Vytauto.
+    Tuo pat laiku,
+    kai kryžiuočiams galutinai išslydo Žemaičiai, jie buvo priversti
+    skelbti karą Lenkijai (1409.VIII.6), nes ordinui nepasisekė Jogailos
+    atskirti nuo ketvirtą kartą atsimetusio Vytauto.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -174,4 +179,3 @@ Ivinskis sukilimo pradžią sieja su pasienio uždarymu, prekybos draudimais, Sk
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/valdovas]]
-- [[temos/sukilimas]]

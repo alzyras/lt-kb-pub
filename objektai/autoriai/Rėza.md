@@ -60,7 +60,7 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
     kumu, kurį paskatino Vilniaus universitetas, ir XIX amž. pra-
     džioje pasirodęs visuotinis susidomėjimas lietuvių kalba ir lie-
     tuviškosios rašliavos pagyvėjimas Mažojoje Lietuvoje (kaip tik
-    
+
     tuo metu — 1818 m. — Rėza išleido Duonelaičio raštus, o netru-
     kus — 1825 m. — ir išgarsėjusį savo dainų rinkinį).
   citata_rodoma: ""

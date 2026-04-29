@@ -54,7 +54,7 @@ Kunigas Burba, kuris už lietuviškąją veiklą turėjo išvažiuoti j Ameriką
       Ameriką, yra užrašęs šitokią iškraipytą Tėve Mūsų maldą: „Vina
       Ojca i Sina ir Duka sviętago, Omen. Jėzau Kristau! Ojče nas, kuri
       jest niebik, senei imin Toje, boc volik stoja, ajee niebik, tak ir žeme,
-    
+
       kleba našiaga paušedniaga daj nam dzisa i odpušč naša vinia, jak i
       mi adpuščaem svoim inavaicam, alia nas zbab oda všago žlago, Omen".
   citata_rodoma: ''

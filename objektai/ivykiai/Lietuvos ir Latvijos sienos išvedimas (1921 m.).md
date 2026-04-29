@@ -99,6 +99,7 @@ Vedant Lietuvos Latvijos sieną, prie Latvijos buvo prijungti kai kurie lietuvi�
   citata_originali: |
     Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lie-
     tuvos siena buvo laikoma buvusios Kuršo gubernijos siena. Bet
+
     kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje
     čia pasitaikydavo nesusipratimų. Visiems neaiškumams likvi-
     duoti 1921 m. buvo sudarytos specialios abiejų pusių komisijos

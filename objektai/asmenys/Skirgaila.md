@@ -89,10 +89,10 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Už tai Vai-
-      dila buvo pasidaręs klastingu Kęstučio priešu ir kartu su Jogailos
-      jaunesniaisiais broliais, ypač su Skirgaila, įtikinėjo Jogailą, kad
-      Kęstutis trokštąs jį pažeminti, — kitaip sakant, atimti iš jo Vil-
-      nių.
+    dila buvo pasidaręs klastingu Kęstučio priešu ir kartu su Jogailos
+    jaunesniaisiais broliais, ypač su Skirgaila, įtikinėjo Jogailą, kad
+    Kęstutis trokštąs jį pažeminti, — kitaip sakant, atimti iš jo Vil-
+    nių.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -105,9 +105,9 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jogaila tuo metu buvo išsiuntęs kariuomenę
-    
-      į Polocką; čia buvo ir Skirgaila, paskirtas, po sukilusio Andriaus,
-      Polocko kunigaikščiu.
+
+    į Polocką; čia buvo ir Skirgaila, paskirtas, po sukilusio Andriaus,
+    Polocko kunigaikščiu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -120,7 +120,7 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš keturių prie jo prisegtų antspaudų, kaip matome, yra likęs tik
-      vienas, — Skirgailos antspaudas, o kiti jau nutrupėję.
+    vienas, — Skirgailos antspaudas, o kiti jau nutrupėję.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -133,7 +133,7 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vytautui, Skirgailai, Kijevo kunig. Vladimirui ir Ratnos kunigaikščiui Teodorui
-      laidavus, Andrius buvo paleistas.
+    laidavus, Andrius buvo paleistas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -146,7 +146,7 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuomet Jogaila išsiuntė į Lenkiją savo delegaciją, kuriai
-      vadovavo Skirgaila.
+    vadovavo Skirgaila.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -159,7 +159,7 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     į Lietuvą, Jogaila savo vietininku Lietuvoje paskyrė brolį Skir-
-      gailą.
+    gailą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -172,7 +172,7 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Trakai buvo atiduoti
-      valdyti Skirgailai.
+    valdyti Skirgailai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -215,7 +215,7 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kai Skirgaila brolio vardu paprašė Lenkijos karalienės rankos,
-    kiti delegacijos nariai išskubėjo Vengrijon pas Liudviko našlę Elz-
+    kiti delegacijos nariai išskubėjo Vengrijon pas Liudviko našlę Elz­
     bietą.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -259,7 +259,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   santrauka: Skirgailos gyvenimo pabaiga susiejama su nunuodijimu Kijeve.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Bet senosios Rusios sostinėje Vytautas galėjo greitai pasodinti vietininku savo svainį, ištikimą Alšėnų
+    Bet senosios Rusios sostinėje Vytautas
+    galėjo greitai pasodinti vietininku savo svainį, ištikimą Alšėnų
     kunigaikštį Joną Algimantaitį, nes Skirgaila 1397 m. ten buvo vie­
     tinių nunuodytas.
   citata_rodoma: ""

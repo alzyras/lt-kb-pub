@@ -48,7 +48,7 @@ Vyskupo raginamas, kanauninkas Mikalojus Daukša 1595 m. jo lėšomis išleido k
   citata_originali: |
     Religinėje literatūroje jie sekė katalikais; taip antai, pasiro-
     džius Daukšos katekizmui, po 3 metų ir jie išleido savo pro-
-    
+
     testantiškąjį katekizmą (1598 m.); 1599 m. pasirodžius Daukšos
     postilei, protestantai 1600 m. išleido savąją.
   citata_rodoma: ''

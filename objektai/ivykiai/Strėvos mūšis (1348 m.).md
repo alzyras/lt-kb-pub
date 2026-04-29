@@ -95,8 +95,7 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
     ordinas ėmė skelbti, kad jų laimėjimas buvęs nepaprastai didelis,
     kad lietuvių žuvę net 10.000, o mūšyje dalyvavę 40.000! Laimė-
     jimui atminti ordinas pastatė net du vienuolynus (Karaliaučiuje
-    ir Vėluvoje). Bet iš tikro laimėjimas buvo tik išpūstas:
-    40.000
+    ir Vėluvoje). Bet iš tikro laimėjimas buvo tik išpūstas: 40.000
     kariuomenės anais laikais neturėjo ne tik Lietuva, bet nė viena
     Europos valstybė.
   citata_rodoma: ''

@@ -39,4 +39,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Dniepras]]
 - [[objektai/vietos/Naugardas Sieverskas]]

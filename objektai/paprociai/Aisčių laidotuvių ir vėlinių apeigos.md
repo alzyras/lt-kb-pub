@@ -124,12 +124,17 @@ Aisčių laidojimo ir vėlių minėjimo praktikos apėmė įkapių dėjimą, ski
     laidota. Pvz., pokristiniais laikais iki pat vidurinio geležies amžiaus
     galo daugiausia plokštiniuose vakarų, vidurio ir šiaurės Lietuvos
     kapinynuose randami griautiniai (griaučių) kapai, kai tuo pat laiku
+
+
+    ```
+    110 I SKYRIUS: LIETUVOS PROISTORE
+    ```
     rytų Lietuvos pilkapiai rodo perdėm lavonų deginimą. Nuo IX
     amž. tačiau lavonų deginimo paprotys iš rytų Lietuvos palaipsniui
     ėmė plėstis vidurio Lietuvoje, pasiekdamas ir vakarinę dalį. Šalia
     su įkapėmis sudegintų žmonių lavonų žirgai visada laidojami nede­
     ginti. Toks žirgo užkasimas drauge su savo šeimininku yra davęs
-    pagrindo atsirasti terminui « žirgų kapai».
+    pagrindo atsirasti terminui « žirgų kapai
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

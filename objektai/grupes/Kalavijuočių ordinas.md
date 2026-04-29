@@ -185,7 +185,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   santrauka: Popiežiaus privilegijos skatino kryžininkų antplūdį į naująjį ordiną.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Popiežiaus privi-
+    Popiežiaus privi­
     legijų skatinami, iš Vokietijos atvykstantieji kryžininkai didino naujo
     ordino prieauglių.
   citata_rodoma: ''
@@ -199,9 +199,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ginklas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
 
 ### Susiję objektai
 - [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]

@@ -91,7 +91,8 @@ Ivinskis išskiria ir imperatoriaus parengtus vainikus, ir pasienyje sulaikytą 
     vas, kaip ir mes, ir mes jo nelaikome kitokiu, kaip tik mūsų
     broliu. Taip pat ir Lietuvos kunigaikščius bei bajorus laikome
     laisvais, kaip ir mūsų (t. y. Lenkijos) ponus, ir lygiais su jais" ...
-    
+
+
     Tačiau tas nieko nepadėjo. Vytautas, susitaręs su imperatorium,
     ruošėsi karūnuotis. Jo pasiuntiniai pareiškė Jogailai ir lenkams,
     kad Vytautas, esą, vis tiek karūnuosis, nes tik karūnavęsis tega-
@@ -118,7 +119,7 @@ Ivinskis išskiria ir imperatoriaus parengtus vainikus, ir pasienyje sulaikytą 
   santrauka: 'Karūnacijos byla čia tiesiogiai siejama su imperatoriaus vainikais ir popiežiaus įsikišimu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Visos aplinkybės taip susidėjo, kad Vytautui jėga reikėjo vai-
+    Visos aplinkybės taip susidėjo, kad Vytautui jėga reikėjo vai­
     niką išsikovoti. Kai imperatorius (Romos karalius) pranešė, jog
     esąs parengęs du vainikus (Vytautui ir jo žmonai), lenkams pavyko
     įtikinti popiežių Martyną V, kad jis sulaikytų Vytauto vainikavimą.
@@ -152,7 +153,7 @@ Ivinskis išskiria ir imperatoriaus parengtus vainikus, ir pasienyje sulaikytą 
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tuo metu susirinkę Vilniuje daug kunigaikščių ir kitų svečių
-    laukė IX.8 d. iškilmės ir Vytauto triumfo. Lenkai dar labiau su-
+    laukė IX.8 d. iškilmės ir Vytauto triumfo. Lenkai dar labiau su­
     stiprino sargybas, kad nepravažiuotų delegacija, kuri vežė vainikus.
     Išgirdę apie pasienio trukdymus, tie pasiuntiniai su vainikais grįžo
     Vokietijon. Vainikavimas susitrukdė.
@@ -163,10 +164,3 @@ Ivinskis išskiria ir imperatoriaus parengtus vainikus, ir pasienyje sulaikytą 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karūnacija]]
-
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]

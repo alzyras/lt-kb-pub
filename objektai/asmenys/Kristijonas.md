@@ -54,9 +54,9 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pats
-      ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui
-      Kristijonui, kuriam turėjo ir priklausyti. Tačiau jis veikiai išsi-
-      vadavo iš vyskupo priklausomybės.
+    ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui
+    Kristijonui, kuriam turėjo ir priklausyti. Tačiau jis veikiai išsi-
+    vadavo iš vyskupo priklausomybės.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -69,8 +69,8 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kristijonui pasi-
-      sekė pakrikštyti arčiausia prie Vyslos gyvenančius prūsus, ir 1215
-      m. jis jau nusivežė į Romą krikštyti du prūsų kunigaikščius.
+    sekė pakrikštyti arčiausia prie Vyslos gyvenančius prūsus, ir 1215
+    m. jis jau nusivežė į Romą krikštyti du prūsų kunigaikščius.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -83,8 +83,8 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmasis misijonierius, kuriam Prūsuose ėmė sektis, buvo iš
-      gretimosios Pamarės, Olivos cistersų ordino vienuolis Kristi-
-      jonas.
+    gretimosios Pamarės, Olivos cistersų ordino vienuolis Kristi-
+    jonas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -97,7 +97,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Netrukus vyskupas Kristijonas pateko prūsams į nelaisvę,
-      iš kurios ordinas nesirūpino jo išvaduoti net 5 metus.
+    iš kurios ordinas nesirūpino jo išvaduoti net 5 metus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -127,7 +127,8 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   santrauka: Kristijonas, gavęs Prūsų vyskupo titulą, taikiu būdu bandė krikštyti prūsus.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Ten nuo 1216 metų, gavęs «Prūsų vyskupo» titulą ir Romos palaikomas, veikė cistersų vienuolis Kris­
+    Ten nuo 1216 metų, gavęs «Prūsų
+    vyskupo» titulą ir Romos palaikomas, veikė cistersų vienuolis Kris­
     tijonas^73. Jis paskutinis taikiu būdu bandė krikštyti prūsus.
   citata_rodoma: ""
   teiginio_tipas: faktas

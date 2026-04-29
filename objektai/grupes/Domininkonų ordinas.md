@@ -19,10 +19,6 @@ tags:
 Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pranciškonų ir domininkonų; jie turį savo bažnyčių ir laisvai skelbią krikščionybę. Šiame šaltinyje domininkonai papildomai rodomi kaip kryžiaus karo telkėjai, Gedimino laiškų adresatai ir Rygoje veikusios evangelizacinės aplinkos dalis.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pranciškonų ir domininkonų; jie turį savo bažnyčių ir laisvai skelbią krikščionybę.'
-  pagrindžia:
-    - c-001
 - t-002
   teiginys: 'Domininkonai skelbė kryžiaus karą įvairiuose kraštuose ir turėjo atvesti naujus piligrimų būrius.'
   pagrindžia:
@@ -49,25 +45,13 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pranciškonų ir domininkonų; jie turį savo bažnyčių ir laisvai skelbią krikščionybę.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių
-    pranciškonų ir domininkonų; jie turį savo bažnyčių ir laisvai
-    skelbią krikščionybę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
 - c-002
   santrauka: Domininkonai skelbdami kryžiaus karą turėjo sutelkti naujus piligrimus.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Iš naujo skelbdami kryžiaus karą Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje, Gotlande, domininkonai turėjo atvesti naujus pilgrimų būrius.
+    Iš naujo skelbdami kryžiaus
+    karą Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje, Gotlande,
+    domininkonai turėjo atvesti naujus pilgrimų būrius.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -80,7 +64,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     O trys laiškai
-    (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir dominin-
+    (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir dominin­
     konams ir Hanzos miestams (Liubekui, Rostokui, Stralsundui,
     Greifswaldni, Stettinui ir Gotlando salai).
   citata_rodoma: ''
@@ -96,7 +80,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   citata_originali: |
     Rašydamas Saksų pranciškonams
     ir domininkonams, Gediminas prašė atsiųsti į Lietuvą vienuolių,
-    pažymėdamas, jog Vilniuje ir Naugarduke esančios jo paties sta-
+    pažymėdamas, jog Vilniuje ir Naugarduke esančios jo paties sta­
     tytos katalikų bažnyčios.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -109,7 +93,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   santrauka: Domininkonai veikė Rygoje, iš kurios buvo siunčiami dvasininkai į Lietuvą.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Iš Rygos Lietuvon buvo siunti-
+    Iš Rygos Lietuvon buvo siunti­
     nėjami dvasininkai skelbti evangelijos^8. Ten veikė pranciškonai
     ir domininkonai.
   citata_rodoma: ''

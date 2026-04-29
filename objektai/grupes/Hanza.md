@@ -109,7 +109,8 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Per rygiečius jis kreipėsi į Hanzos mies-
-    tus, tikindamas, kad norįs gyventi taikoje su krikščionimis, ir kvietė amatininkus, pirklius, žemdirbius ir riterius vykti į Lie-
+    tus, tikindamas, kad norįs gyventi taikoje su krikščionimis, ir
+    kvietė amatininkus, pirklius, žemdirbius ir riterius vykti į Lie-
     tuvą; visiems žadėjo savo globos ir paramos įsikurti.
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -120,7 +121,8 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   santrauka: Hanzos miestų atstovai palankiai sutiko Gedimino laiškus
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Hanzos miestų atstovų suvažiavimas Liubeke Gedimino laiškus sutiko la-
+    Hanzos
+    miestų atstovų suvažiavimas Liubeke Gedimino laiškus sutiko la-
     bai palankiai.
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -170,7 +172,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   santrauka: Hanza minima kaip jūros keliu atvykusių piligrimų tinklas Durbės kautynių kontekste.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Dalyvavo iš Talino danai, estai, kur-
+    Dalyvavo iš Talino danai, estai, kur­
     šiai ; iš Hanzos miestų laivais buvo atvykę pilgrimų. Tai kelių tuk-
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -184,7 +186,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     O trys laiškai
-    (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir dominin-
+    (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir dominin­
     konams ir Hanzos miestams (Liubekui, Rostokui, Stralsundui,
     Greifswaldni, Stettinui ir Gotlando salai).
   citata_rodoma: ''

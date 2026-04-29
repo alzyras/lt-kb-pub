@@ -82,9 +82,9 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Poniatauskui grįžus namo, ne-
-      trukus mirė carienė Elžbieta, caras Petras III buvo pašalintas
-      nuo sosto ir nužudytas, ir visą valdžią paėmė Kotryna II (ji
-      buvo ne rusė, bet Anhalt-Cerbsto kunigaikštytė vokietaitė).
+    trukus mirė carienė Elžbieta, caras Petras III buvo pašalintas
+    nuo sosto ir nužudytas, ir visą valdžią paėmė Kotryna II (ji
+    buvo ne rusė, bet Anhalt-Cerbsto kunigaikštytė vokietaitė).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -97,8 +97,8 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kotrynos II (1762—1796 m.) laikais Rusija jau pradėjo vado-
-      vauti ne tik rytų Europos politikai, bet ėmė kištis net į centro ir va-
-      karų Europos konfliktus, ir jos žodis ten nusverdavo.
+    vauti ne tik rytų Europos politikai, bet ėmė kištis net į centro ir va-
+    karų Europos konfliktus, ir jos žodis ten nusverdavo.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -111,8 +111,8 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1787 m. Kotryna Dniepru keliavo aplankyt Rusijos neseniai
-      užkariauto Krimo. Pakeliui (Kaneve) ji susitiko su buvusiu prieš
-      25 m. savo mylimuoju Stanislovu Augustu.
+    užkariauto Krimo. Pakeliui (Kaneve) ji susitiko su buvusiu prieš
+    25 m. savo mylimuoju Stanislovu Augustu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -125,8 +125,8 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tada karalius kreipėsi į Kotryną,
-      siūlydamasis užleisti jos vaikaičiui Konstantinui sostą, kad tik
-      ji paliktų seimo padarytąsias reformas.
+    siūlydamasis užleisti jos vaikaičiui Konstantinui sostą, kad tik
+    ji paliktų seimo padarytąsias reformas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -139,7 +139,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     prie Štakelbergo ar prie pačios Kotrynos II**.** Jie jautėsi skriau-
-      džiami ir visada buvo pasiruošę kovoti prieš Rusų įtaką.
+    džiami ir visada buvo pasiruošę kovoti prieš Rusų įtaką.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -152,7 +152,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kotryna II taip pat kvietė į Rusiją išgarsėjusius rašytojus ir pati
-      rašė.
+    rašė.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -165,7 +165,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Užėmusi Lietuvą, Kotryna II
-      buvo įvedusi joje ir rusų teisę (įstatymus).
+    buvo įvedusi joje ir rusų teisę (įstatymus).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

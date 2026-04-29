@@ -132,9 +132,15 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Puzinas, J. :
-    _Die Flügelfibeln
-    in Litauen und ihre Bedeutung für die Handelsgeschichte_ , Festschrift Wah-
-    le, 1950, 189-199 p.
+    _Aisčiai istorinių šaltinių šviesoje,_ Aidai, nr. 12, 1948, 97-103 p. — (”)
+
+
+    (^106) I SKYRIUS: LIETUVOS PROISTORĖ
+    _Ankstyvojo geležies amžiaus kapas, surastas Kurmaičiuose, Kretingos vls.,_
+    Vytauto D. Kultūros Muziejaus Metraštis, I, 1941, 19-27 p. -— (”) _Dvi­
+    gubas IV a. kapas Veršvuose,_ (ten pat, 28-42 p.). — (”) _Die Flügelfibeln
+    in Litauen und ihre Bedeutung für die Handelsgeschichte_ , Festschrift Wah­
+    le, 1950, 189-199 p
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

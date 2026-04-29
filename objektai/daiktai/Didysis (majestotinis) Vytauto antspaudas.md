@@ -29,7 +29,7 @@ Didysis (majestotinis) Vytauto antspaudas su užrašu: Sigillum Alexandri alias 
   citata_originali: |
     **Didysis (majestotinis) Vytauto antspaudas
       su užrašu:** **_Sigillum Alexandri alias Witowdi Dei gra[tia] ducis Lithwaniae_**
-    
+
       **_... alie et cetera._**
   citata_rodoma: ''
   teiginio_tipas: faktas

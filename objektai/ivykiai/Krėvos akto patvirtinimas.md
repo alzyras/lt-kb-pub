@@ -11,8 +11,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 patikimumas: 'vidutinis'
-tags:
-  - unija
+tags: []
 ---
 # Krėvos akto patvirtinimas
 
@@ -63,11 +62,19 @@ Ivinskis pabrėžia, kad 1385.VIII.14 Kriavo pilyje surašytas aktas dar nebuvo 
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Netrukus Vilhelmas su nuotykiais prievarta iš Krokuvos pilies
+    (^6) **MoMP, IV, 63 p. («post nuptiarum dominae reginae consummatio-
+    nem »).**
+    (^7) **_Script, rer. Austr._** **, I, 1148; pig. ibid. I, 249, 428, 1162.**
+
+
+    ```
+    KRIAVO AKTAS IR LIETUVOS KRIKŠTAS^285
+    ```
     buvo išvytas. O budriai saugojama Jadvyga buvo įtikinėjama apie
     didelę jos vedybinę misiją. Šitokioje padėtyje Krokuvon buvo
     atgabentas aktas, surašytas 1385.VIII.14 d. Kriavo pilyje, kur
     lygiai prieš trejus metus galutinai neišaiškintomis aplinkybėmis
-    buvo žuvęs Jogailos dėdė Kęstutis.
+    buvo žuvęs Jogailos dėdė Kęstutis
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -79,13 +86,21 @@ Ivinskis pabrėžia, kad 1385.VIII.14 Kriavo pilyje surašytas aktas dar nebuvo 
   santrauka: 'Kriavo akto pobūdis šiame veikale aiškinamas kaip pažadų patvirtinimas, o ne unija.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Pats Kriavo aktas yra svarbus dokumentas, nes tai yra vie-
+    Pats Kriavo aktas yra svarbus dokumentas, nes tai yra vie­
     nintelis susitarimų šaltinis. Jis nupasakoja visą derybų eigą. Be
-    to, pateikia penkis pagrindinius Skirgailos Krokuvoje sutartus
+    to, pateikia penkius pagrindinius Skirgailos Krokuvoje sutartus
     punktus.
-    
+    Krikštydamasis su visais lietuvių kunigaikščiais, bajorais ir
+    tauta, Jogaila ten pažadėjo grąžinti visus iš Lenkijos per karus
+    išvestus belaisvius. Jis turėjo sumokėti vedybinės sutarties su
+    Vilhelmu Habsburgu netesėjimo baudą — 200.000 florinų.
+    Abiejų valstybių ateičiai pats reikšmingiausias buvo 4-sis
+    punktas, kuriuo visa didžioji Lietuvos kunigaikštija turėjo būti
+    amžinai «prišlieta» prie Lenkijos. Pagaliau Jogaila žadėjo savo
+    lėšomis atgauti ir visas žemes, kurios lenkams paskutiniu laiku
+    buvo atplėštos.
     Kriavo aktas dar nebuvo jokia unija. Jis tereiškė Jogailos
-    atliktą patvirtinimą Skirgailos duotų pažadų.
+    atliktą patvirtinimą Skirgailos duotų pažadų
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -94,7 +109,3 @@ Ivinskis pabrėžia, kad 1385.VIII.14 Kriavo pilyje surašytas aktas dar nebuvo 
   pagrindžia:
     - t-003
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/unija]]

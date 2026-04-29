@@ -60,11 +60,11 @@ Lietuvos akmens amžiaus dirbinių aprašyme minimi kauliniai dirbiniai, titnagi
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Lietuvos akmens amžiaus dirbiniai:**
-      1—4 kauliniai harpūnai, 5—6 kauliniai durklai, 7—8 kauliniai kirvukai,
-      9 apskaldyto titnago įrankis, 10—12 akmens kirvukai, 13—15 titnaginiai iečių
-      galai, 16—17 gintariniai amuletai, 18—22 gintariniai papuošalai, 23 puodas,
-      24 akmuo, ant kurio su kitu akmeniu trindavo pabertus grūdus, — savotiškos
-      girnos.
+    1—4 kauliniai harpūnai, 5—6 kauliniai durklai, 7—8 kauliniai kirvukai,
+    9 apskaldyto titnago įrankis, 10—12 akmens kirvukai, 13—15 titnaginiai iečių
+    galai, 16—17 gintariniai amuletai, 18—22 gintariniai papuošalai, 23 puodas,
+    24 akmuo, ant kurio su kitu akmeniu trindavo pabertus grūdus, — savotiškos
+    girnos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -76,7 +76,7 @@ Lietuvos akmens amžiaus dirbinių aprašyme minimi kauliniai dirbiniai, titnagi
   santrauka: Paleolito kultūrai priskirti kauliniai dirbiniai ir kauliniai ietgaliai.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Palei Lietuvos sieną Ryt-
+    Palei Lietuvos sieną Ryt­
     prūsiuose rasti kauliniai dirbiniai (elnio ragai, kauliniai ietgaliai)
     yra priskiriami baltų plote iki šiol beveik visai neaptiktai ir todėl
     čia, galima sakyti, nežinomai paleolito kultūrai.
@@ -92,12 +92,12 @@ Lietuvos akmens amžiaus dirbinių aprašyme minimi kauliniai dirbiniai, titnagi
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Mezolito žmogaus stovyklavietėse Lietuvoje buvo rasta daug
-    titnaginių ir kalninių įrankių (strėlių, ylų, peiliukų, kailiams gram-
-    dyti gremžtukų, rėžtukų, durklų, ietgalių, žeberklų, kirvių). Lie-
-    tuvoje tos medžiotojų — žvejų kultūros, kuri visada vadinama svi-
+    titnaginių ir kalninių įrankių (strėlių, ylų, peiliukų, kailiams gram­
+    dyti gremžtukų, rėžtukų, durklų, ietgalių, žeberklų, kirvių). Lie­
+    tuvoje tos medžiotojų — žvejų kultūros, kuri visada vadinama svi­
     drinės kultūros vardu (Swidry — prie Vyslos Lenkijoje), židinių
     yra ne maža^2. Mezolito įrankių gausiai aptikta palei upes Nemuną,
-    Nerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne-
+    Nerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne­
     munės durpynuose.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -111,13 +111,13 @@ Lietuvos akmens amžiaus dirbinių aprašyme minimi kauliniai dirbiniai, titnagi
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Į mezolito laikotarpio galą jau buvo pažįstamas ir pirmas
-    prijaukintas gyvulys, būtent šuo, kuris tada vartotas ir mėsai (gy-
+    prijaukintas gyvulys, būtent šuo, kuris tada vartotas ir mėsai (gy­
     vos mėsos « konservavimas »)^3. Ar raginiai kirviai (« kapliai ») jau
     gali čia paliudyti kad ir primityvaus žemės ūkio užuomazgą, reikia
     labai abejoti. Neaišku, ar mezolito laikotarpio gale buvo pradėtos
     sėti sėklos. Rodos, jau buvo bandoma lipdyti molinius puodus.
     Apie 4000 m. pr. Kr. pietvakarių Pabaltijyje (Rytprūsiuose) jau
-    buvo pažįstama keramika^4. Apie etninius santykius mezolito lai-
+    buvo pažįstama keramika^4. Apie etninius santykius mezolito lai­
     kais dar negalima kalbėti, kadangi, būdami klajokliais, žmonės
     vis dar gyveno neorganizuotais būriais, to žmogaus kilmė ir jo
     rasinė priklausomybė neaiški (kažin ar kada nors bus aiški). Jo
@@ -137,7 +137,7 @@ Lietuvos akmens amžiaus dirbinių aprašyme minimi kauliniai dirbiniai, titnagi
     gyvulius (kiaules, avis, ožkas), bet jie išvystė žemės darbą. Savo
     sklypams dar nenaudodami gyvulių traukiamosios jėgos, jie dirvą
     pureno lysvėmis, kaip daržų kultūrose, savo « rankos tąsa », būtent,
-    akmeniniais kapliais, ir sėjo kviečius, miežius, sorą ; o malė akme-
+    akmeniniais kapliais, ir sėjo kviečius, miežius, sorą ; o malė akme­
     ninėmis girnomis. Iš avių vilnos jie mokėjo išsiausti ir drabužį.
   citata_rodoma: ""
   teiginio_tipas: faktas

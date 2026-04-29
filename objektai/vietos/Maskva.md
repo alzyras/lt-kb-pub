@@ -138,7 +138,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   santrauka: 'Tačiau netrukus jis bandė suruošti prieš Kazimierą sąmokslą, kuriam nepavykus, pabėgo į Maskvą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tačiau netrukus jis bandė suruošti prieš Kazimierą sąmokslą, kuriam nepavykus, pa-
+    Tačiau netrukus jis
+    bandė suruošti prieš Kazimierą sąmokslą, kuriam nepavykus, pa-
     bėgo į Maskvą. Ten jis ir mirė nunuodytas (1452 m.).
   citata_rodoma: ''
   teiginio_tipas: faktas

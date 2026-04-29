@@ -72,8 +72,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     karo vadu dažniausiai skirdavo Gardino srities kunigaikštį
-      Dovydą (spėjama, kad jis buvęs Mindaugo nužudyme dalyvavu-
-      sio, o vėliau Pskovą valdžiusio, Daumanto sūnus).
+    Dovydą (spėjama, kad jis buvęs Mindaugo nužudyme dalyvavu-
+    sio, o vėliau Pskovą valdžiusio, Daumanto sūnus).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -100,7 +100,9 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   santrauka: Daumantas pristatomas kaip Mindaugo svogeris ir Treniotos sąjungininkas
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Savo tikslui Treniota rado sąjungininką Nalšėnų kunigaikštį Daumantą, Mindaugo švogerį, norėjusį atkeršyti asmenišką skriaudą.
+    Savo tikslui Treniota rado sąjun­
+    gininką Nalšėnų kunigaikštį Daumantą, Mindaugo švogerį, norėjusį
+    atkeršyti asmenišką skriaudą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -114,9 +116,20 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Per krikštą priėmęs Timofėjaus vardą, Daumantas, kaip veiklus
+
+    (^212) **PSRL II, 860.**
+    (^213) **PSRL n, 860-861.**
+    (^214) **PSRL n, 861.**
+    (^215) **PSRL n, 863.**
+    (^216) **Plg. Z. Ivinskis,** **_Deltuvos kunigaikščiai_** **, LE IV, 1954, 431.**
+    (^217) **PaRL 442, 446-447 nr. Plg. Z. Ivinskis, LE IV, 1954, 371-373.**
+
+
+    198 n^ skyrius: valstybės^ iškilimas
+
     karo žmogus, Pskovui pasirodė labai naudingas. Jis buvo išrinktas
     Pskovo kunigaikščiu ir, vesdamas Aleksandro Nevskio sūnaus Dimi­
-    tro dukterį, susigiminiavo su Riurikaičiais.
+    tro dukterį, susigiminiavo su Riurikaičiais
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

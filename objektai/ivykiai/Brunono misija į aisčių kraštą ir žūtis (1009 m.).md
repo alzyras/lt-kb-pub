@@ -56,12 +56,6 @@ Brunonas atvyko pas lenkų kunigaikštį Boleslovą, gavo jo paramą ir 1008 m. 
 Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas buvo paskelbtas šventuoju kankiniu.
 
 ## Teiginiai
-- t-001
-  teiginys: Boleslovas pažadėjo paramą Brunono misijai, o Brunonas 1008 m. gale išvyko iš Lenkijos į aisčių kraštą su 18 palydovų.
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-002
   teiginys: 1009 m. vasario 14 d. Brunonas buvo suimtas ir nužudytas su visais palydovais.
   pagrindžia:
@@ -76,31 +70,6 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: Nurodo Boleslovo paramą ir Brunono išvykimą iš Lenkijos su 18 palydovų.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pagaliau pas tą patį lenkų
-    kunigaikštį Boleslovą atvyko naujas
-    misijonierius vo-
-    kietis _Brunonas,_
-    kurs, būdamas vie-
-    nuolis, turėjo _Bo-
-    nifaco_ vardą. Bo-
-    leslovas jo misi-
-    joms pažadėjo pa-
-    ramos. Pagaliau
-    1008 m. gale jis iš-
-    vyko iš Lenkijos
-    aisčių krikštyti net
-    su 18 palydovų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
 - c-002
   santrauka: Tiesiogiai nurodo Brunono suėmimą ir nužudymą 1009 m. vasario 14 d.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

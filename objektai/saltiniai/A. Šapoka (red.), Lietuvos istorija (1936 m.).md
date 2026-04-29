@@ -237,13 +237,13 @@ tags: []
 
     # ISTORIJA
 
-    R E D. A. Š A P О K А
+    R E D. [[A. Šapoka|A. Š A P О K А]]
 
     **ŠVIETIMO MINISTERIJOS KNYGŲ**
 
     **LEIDIMO KOMISIJOS LEIDINYS**
 
-    **KAUNAS 1936 M.**
+    **KA
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

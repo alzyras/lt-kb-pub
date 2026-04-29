@@ -34,7 +34,8 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
   santrauka: 'Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą
+    Netoli Vilniaus, sunkiai prieinamame Galvės
+    ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą
     laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -49,8 +50,17 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     kurių žymiausias jo garbės ir pasididžiavimo statinys buvo Galvės
-    ežero salos pilis^6 , kurioje 1414 apsilankė Burgundijos riteris Ghil-
-    lebert de Lannoy.
+    (^1) **Žr.** **_Bažnytinė unija,_** **LE, t. 2, 309-313 p.**
+    (^2) **Žr. V. Trumpa :** **_Magdeburgo teisė,_** **LE, t. 17, 63-64 p.**
+    (^3) **Z. Ivinskis :** **_Lietuva ir žydai istorijos šviesoje,_** **Aidai, nr. 10, 1971,
+    438-446 p.; nr. 1, 1972, 24-30 p.**
+    (^4) **Žr. Karys, J. K. : Pinigėliai, LE, t. 23, 19 p.; (”) Senovės lietuvių**
+    **_pinigai,_** **Putnam 1959.**
+    (^5) **Žr.** **_Artilerija, Lietuvos art. istorija_** **, LE, t. 1, 299-300 p.**
+
+
+    ežero salos pilis^6 , kurioje 1414 apsilankė Burgundijos riteris Ghil­
+    lebert de Lannoy
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

@@ -37,8 +37,3 @@ Vladimirui ir Ratnos kunigaikščiui Teodorui laidavus, Andrius buvo paleistas.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Andrius]]
-- [[objektai/asmenys/Vladimiras Algirdaitis]]

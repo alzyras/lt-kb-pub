@@ -29,11 +29,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginys: 'Jis buvo sušauktas Vytauto pily, Lucke.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Netrukus Zigmantui pasidavė Polockas, Smolenskas, Vitebskas ir Naugardas Sieverskas; Švitrigailai liko tik pietinės sritys — Kijevas ir Voluinė su Lucku.'
-  pagrindžia:
-    - c-004
-
 - t-005
   teiginys: '1429 m. Vytautas sukvietė Lucko suvažiavimą.'
   pagrindžia:
@@ -87,28 +82,13 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Netrukus Zigmantui pasidavė Polockas, Smolenskas, Vitebskas ir Naugardas Sieverskas; Švitrigailai liko tik pietinės sritys — Kijevas ir Voluinė su Lucku.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Netrukus Zigmantui pasidavė Polockas, Smolenskas, Vitebskas ir
-    Naugardas Sieverskas; Švitrigailai liko tik pietinės sritys — Ki-
-    jevas ir Voluinė su Lucku.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-
 - c-005
   santrauka: Luckas įvardijamas kaip Vytauto sušaukto 1429 m. suvažiavimo vieta.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Susi-
+    Susi­
     tvenkęs skaudulys tarp abiejų valstybių turėjo pratrukti Vytauto
-    vainikavimą vykdant (1429), kai Vytautas sukvietė Lucko suvažia-
+    vainikavimą vykdant (1429), kai Vytautas sukvietė Lucko suvažia­
     vimą^8.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -121,7 +101,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   santrauka: Citata rodo, kad Luckas buvo įtrauktas į Vytauto ir Onos titulą.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Vy-
+    Vy­
     tauto ir jo žmonos Onos Astrave (Ostrowe) Jogailai ir Jadvygai
     duoti dokumentai (1392.VIII.5) rodo, kad jis su Ona jau titulavosi
     Trakų ir Lucko kunigaikščiais2S.
@@ -136,7 +116,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   santrauka: Luckas minimas kaip viena iš karaimų apgyvendinimo vietų.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Berods, to žygio metu paim-
+    Berods, to žygio metu paim­
     tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
   citata_rodoma: ""
   teiginio_tipas: interpretacija
@@ -153,3 +133,4 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 ### Susiję objektai
 - [[objektai/ivykiai/Lucko suvažiavimas (1429 m.)]]
 - [[objektai/vietos/Voluinė]]
+- [[objektai/vietos/Trakai]]

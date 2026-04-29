@@ -11,7 +11,6 @@ patikimumas: 'vidutinis'
 tags:
   - ivykis
   - valdovas
-  - seimas
 ---
 # Lucko suvažiavimas (1429 m.)
 
@@ -72,9 +71,9 @@ tags:
   santrauka: 'Lucko suvažiavimas pristatomas kaip Vytauto sušauktas vainikavimo krizės momentu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Susi-
+    Susi­
     tvenkęs skaudulys tarp abiejų valstybių turėjo pratrukti Vytauto
-    vainikavimą vykdant (1429), kai Vytautas sukvietė Lucko suvažia-
+    vainikavimą vykdant (1429), kai Vytautas sukvietė Lucko suvažia­
     vimą^8.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -87,9 +86,6 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/valdovas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
 
 ### Susiję objektai
 - [[objektai/vietos/Luckas]]

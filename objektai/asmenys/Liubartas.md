@@ -77,9 +77,9 @@ Voluinę Liubartas vis dėlto atlaikė. Lietuvos interesus čia gynė Liubartas.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvos interesus čia gynė Liubartas. Bet kadangi tai bu-
-      vo visos valstybės interesai ir kadangi Lenkija taip pat grėsė
-      Kęstučio valdomajai Palenkei, tai Liubartui į pagalbą ateidavo
-      ir broliai.
+    vo visos valstybės interesai ir kadangi Lenkija taip pat grėsė
+    Kęstučio valdomajai Palenkei, tai Liubartui į pagalbą ateidavo
+    ir broliai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -92,8 +92,8 @@ Voluinę Liubartas vis dėlto atlaikė. Lietuvos interesus čia gynė Liubartas.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kuni-
-      gaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo
-      vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.
+    gaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo
+    vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -106,7 +106,7 @@ Voluinę Liubartas vis dėlto atlaikė. Lietuvos interesus čia gynė Liubartas.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Likusiąją Lenkijos pasienio dalį, Voluinę su Lucku, valdė Liu-
-      bartas.
+    bartas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -135,7 +135,15 @@ Voluinę Liubartas vis dėlto atlaikė. Lietuvos interesus čia gynė Liubartas.
   citata_originali: |
     Kai Liubartas Gediminaitis dar prieš 1322 m. vedė paskutinio
     Vladimiro kunigaikščio Andriaus (Jurgio sūnaus) dukterį Bučą, jis
-    įsigijo į Voliniją svarbias paveldėjimo teises.
+
+    (^1) **Podlasę vadinant « Pagiriu », kartais maišoma su Polesie (Pripetės
+    srityje).**
+    (^2) **PSRL, 17, 71 p.**
+
+
+    240 II skyrius: valstybės iškilimas
+
+    įsigijo į Voliniją svarbias paveldėjimo teises
   citata_rodoma: "Kai Liubartas Gediminaitis dar prieš 1322 m. vedė paskutinio Vladimiro kunigaikščio Andriaus (Jurgio sūnaus) dukterį Bučą, jis įsigijo į Voliniją svarbias paveldėjimo teises."
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

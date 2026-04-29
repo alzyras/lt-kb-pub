@@ -60,8 +60,8 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
   santrauka: Schlözeris pristatomas kaip 1785 m. Lietuvos istorijos veikalo autorius
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Dar toliau kritiškumo keliu žengė vokiečių istorikas Augustas  
-    Ludvikas Schlözeris, 1785 m. išleisdamas Didžiosios Lietuvos  
+    Dar toliau kritiškumo keliu žengė vokiečių istorikas Augustas
+    Ludvikas Schlözeris, 1785 m. išleisdamas Didžiosios Lietuvos
     Kunigaikštystės istoriją iki 1569 metų^32.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -74,8 +74,8 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
   santrauka: Autorius pats įvardijamas kaip Kojalavičiaus teksto perdirbėjas
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Autorius nuoširdžiai prisi-  
-    pažino, kad jis davęs ne originalų veikalą, o tik perdirbęs ir su-  
+    Autorius nuoširdžiai prisi-
+    pažino, kad jis davęs ne originalų veikalą, o tik perdirbęs ir su-
     trumpinęs Kojalavičių, kurio vertę, kaip istoriko, aukštai kėlė.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -88,8 +88,8 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
   santrauka: Išnašoje pateiktas pilnas Schlözerio veikalo bibliografinis pavadinimas
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    (^32) **_Geschichte von Litauen als einem eigenen Grossfürstentume,_** **serijoje :**  
-    **_Aug. Ludw. Scllözer und Ludw. Albr. Gebhard_** **, Fortsetzung der Allgemeinen  
+    (^32) **_Geschichte von Litauen als einem eigenen Grossfürstentume,_** **serijoje :**
+    **_Aug. Ludw. Scllözer und Ludw. Albr. Gebhard_** **, Fortsetzung der Allgemeinen
     Welthistorie, Teil 50. Žr. J. Matusas :** **_Schlözer A. L_** **., LE, t. 27, 91-92 p.**
   citata_rodoma: ""
   teiginio_tipas: faktas

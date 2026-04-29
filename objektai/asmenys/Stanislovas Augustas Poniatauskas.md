@@ -172,4 +172,5 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
 - [[temos/reforma]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Kotryna II]]
 - [[objektai/vietos/Petrapilis]]

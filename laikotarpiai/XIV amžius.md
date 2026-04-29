@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 36.
+Objektų skaičius: 34.
 
 ## Kaip naudoti
 
@@ -30,7 +30,6 @@ Objektų skaičius: 36.
 
 ### Grupės
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Livonijos ordinas]]
 
 ### Papročiai
@@ -56,7 +55,7 @@ Objektų skaičius: 36.
 - [[objektai/ivykiai/Pilėnų pilies gynimas (1336 m.)]]
 - [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]
 - [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
-- [Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)](../objektai/ivykiai/Vilniaus%20pokalbiai%20su%20popie%C5%BEiaus%20legatais%20d%C4%97l%20Lietuvos%20krik%C5%A1to%20%281324%20m.%20gegu%C5%BE%C4%97s%20gale%29)
+- [[objektai/ivykiai/Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)]]
 - [Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)](../objektai/ivykiai/Vilniaus%20taika%20su%20Livonijos%20ordinu%20%281323%20m.%20spalio%202%20d.%29)
 - [Vytauto pabėgimas pas kryžiuočius ir 1383 m. žygis į Lietuvą](../objektai/ivykiai/Vytauto%20pab%C4%97gimas%20pas%20kry%C5%BEiuo%C4%8Dius%20ir%201383%20m.%20%C5%BEygis%20%C4%AF%20Lietuv%C4%85)
 - [Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)](../objektai/ivykiai/Vytauto%20%C5%BEygiai%20prie%20Juodosios%20j%C5%ABros%20ir%20Krymo%20%281397%E2%80%931398%20m.%29)
@@ -68,4 +67,3 @@ Objektų skaičius: 36.
 - [metropolija](../objektai/zodynas/metropolija)
 - [metropolitas](../objektai/zodynas/metropolitas)
 - [valstybingumo idėja](../objektai/zodynas/valstybingumo%20id%C4%97ja)
-- [činšas](../objektai/zodynas/%C4%8Din%C5%A1as)

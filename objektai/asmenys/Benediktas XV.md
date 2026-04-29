@@ -29,7 +29,7 @@ Komiteto atstovai išsirūpino ir iš popiežiaus Benedikto XV tokią pat dieną
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Komiteto atstovai išsirūpino ir iš
-    
+
       popiežiaus Benedikto XV tokią pat dieną rinkliavai visose
       pasaulio bažnyčiose.
   citata_rodoma: ''

@@ -131,8 +131,8 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   santrauka: Pakartotinė bibliografinė nuoroda sustiprina Dzieje unii jagiellońskiej priskyrimą O. Haleckiui
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-        Halecki, O. : _Dzieje unii jagiellońskiej_ , I-II, Kraków
-        1919, 1920.
+    Halecki, O. : _Dzieje unii jagiellońskiej_ , I-II, Kraków
+    1919, 1920.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -194,9 +194,9 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   santrauka: O. Halecki bibliografiškai susiejamas su Cambridge History of Poland skyriumi apie Jadvygą
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-        — (”) _From, the Union with Hungary to the Union with
-        Lithuania : Jadwiga, 1374-99,_ Tlie Cambridge History of Poland (to
-        1696), Cambridge 1950, 188-209 p.
+    — (”) _From, the Union with Hungary to the Union with
+    Lithuania : Jadwiga, 1374-99,_ Tlie Cambridge History of Poland (to
+    1696), Cambridge 1950, 188-209 p.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -208,7 +208,8 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   santrauka: Bibliografinė nuoroda susieja O. Haleckį su darbu Witold
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Halecki, O. : _Witold, PamZH, II, 1930, 153-168 p._
+    Halecki,
+    O.: Witold, PamZH, II, 1930, 153-168 p
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

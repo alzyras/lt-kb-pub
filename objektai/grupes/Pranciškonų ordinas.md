@@ -20,10 +20,6 @@ tags:
 Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pranciškonų ir domininkonų; jie turį savo bažnyčių ir laisvai skelbią krikščionybę. Šiame šaltinyje pranciškonai papildomai rodomi kaip kryžiaus karo telkėjai, Gedimino laiškų adresatai, jo dvaro aplinkoje veikę vienuoliai ir vėlesnių Vilniaus legendų objektas.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pranciškonų ir domininkonų; jie turį savo bažnyčių ir laisvai skelbią krikščionybę.'
-  pagrindžia:
-    - c-001
 - t-002
   teiginys: 'Pranciškonai turėjo organizuoti kryžiaus karą prieš jotvingius ir lietuvius.'
   pagrindžia:
@@ -68,25 +64,12 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pranciškonų ir domininkonų; jie turį savo bažnyčių ir laisvai skelbią krikščionybę.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių
-    pranciškonų ir domininkonų; jie turį savo bažnyčių ir laisvai
-    skelbią krikščionybę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
 - c-002
   santrauka: Pranciškonams priskiriama kryžiaus karo telkimo funkcija.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Tada pranciškonai turėjo organizuoti kryžiaus karą prieš jotvingius ir lietuvius^206.
+    Tada pranciškonai
+    turėjo organizuoti kryžiaus karą prieš jotvingius ir lietuvius^206.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -99,7 +82,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     O trys laiškai
-    (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir dominin-
+    (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir dominin­
     konams ir Hanzos miestams (Liubekui, Rostokui, Stralsundui,
     Greifswaldni, Stettinui ir Gotlando salai).
   citata_rodoma: ''
@@ -115,7 +98,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   citata_originali: |
     Rašydamas Saksų pranciškonams
     ir domininkonams, Gediminas prašė atsiųsti į Lietuvą vienuolių,
-    pažymėdamas, jog Vilniuje ir Naugarduke esančios jo paties sta-
+    pažymėdamas, jog Vilniuje ir Naugarduke esančios jo paties sta­
     tytos katalikų bažnyčios.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -141,7 +124,9 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   santrauka: Po Strėvos mūšio kryžiuočiai pastatė du pranciškonų vienuolynus.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Kryžiuočiai šitam retam laimėjimui atžymėti pastatė du pranciškonų vienuolynus (Karaliaučiuje ir Vėluvoje).
+    Kryžiuočiai šitam retam
+    laimėjimui atžymėti pastatė du pranciškonų vienuolynus (Kara­
+    liaučiuje ir Vėluvoje).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -153,7 +138,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   santrauka: Pranciškonai ir toliau laikė savo vienuolyną sostinėje.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    O vienuoliai (pranciškonai) veikė ir toliau, sostinėje laikydami savo vienuolyną.
+    O vienuoliai (pranciškonai) veikė ir toliau, sostinėje laikydami savo
+    vienuolyną.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -165,7 +151,10 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   santrauka: Vėlesni šaltiniai sukūrė legendą apie 36 Vilniuje nukankintus pranciškonus.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Tik iš Gedimino laikais nubaustų dviejų pranciškonų fakto rusų ir lenkų šaltiniuose XVI amž. buvo sukurtos nieko bendra su tikrove neturinčios legendos, būk, Algirdui valdant, Vilniuje buvę nukankinti 36 pranciškonai.
+    Tik iš Gedimino laikais nubaustų dviejų pranciškonų
+    fakto rusų ir lenkų šaltiniuose XVI amž. buvo sukurtos nieko
+    bendra su tikrove neturinčios legendos, būk, Algirdui valdant,
+    Vilniuje buvę nukankinti 36 pranciškonai.
   citata_rodoma: ''
   teiginio_tipas: interpretacija
   patikimumo_lygis: vidutinis

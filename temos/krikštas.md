@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 28.
+Objektų skaičius: 25.
 
 ## Kaip naudoti
 
@@ -29,8 +29,6 @@ Objektų skaičius: 28.
 - [[objektai/asmenys/Patrikas]]
 
 ### Papročiai
-- [[objektai/paprociai/Lietuvos krikšto apeigos]]
-- [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas]]
 - [[objektai/paprociai/Žemaičių krikšto apeigos 1413 m]]
 
 ### Vietos
@@ -42,7 +40,6 @@ Objektų skaičius: 28.
 ### Įvykiai
 - [[objektai/ivykiai/Brunono misija į aisčių kraštą ir žūtis (1009 m.)]]
 - [[objektai/ivykiai/Gedimino krikšto, laiškų ir taikos kampanija]]
-- [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, vestuvės ir karūnacija Lenkijos karalium]]
 - [[objektai/ivykiai/Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos]]
 - [[objektai/ivykiai/Lietuvos krikštas]]
 - [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]
@@ -50,8 +47,8 @@ Objektų skaičius: 28.
 - [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]
 - [[objektai/ivykiai/Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)]]
 - [[objektai/ivykiai/Vilniaus įkūrimas ir sostinės perkėlimas]]
-- [Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)](../objektai/ivykiai/%C5%A0v.%20Vaitiekaus%20misija%20%C4%AF%20ais%C4%8Di%C5%B3%20kra%C5%A1t%C4%85%20ir%20%C5%BE%C5%ABtis%20%28997%20m.%29)
+- [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]
 
 ### Žodynas
-- [lotyniškasis krikštas](../objektai/zodynas/lotyni%C5%A1kasis%20krik%C5%A1tas)
-- [vyskupystė](../objektai/zodynas/vyskupyst%C4%97)
+- [[objektai/zodynas/lotyniškasis krikštas]]
+- [[objektai/zodynas/vyskupystė]]

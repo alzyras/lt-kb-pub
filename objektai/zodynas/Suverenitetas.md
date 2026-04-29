@@ -151,7 +151,12 @@ Suverenitetas pateikiamas kaip teisinė valstybės teisė valdyti teritoriją ir
     Respublikos suverenumas vis labiau visokiais budais būdavo
     pažeidžiamas. Tipiškai atsivėrė sustiprėjusi Rusijos įtaka per Au­
     gusto III-jo (1733 m.) ir ypač per Stanislovo Augusto Poniatovskio
-    (1764) elekciją.
+
+
+    ```
+    40 ĮVADAS
+    ```
+    (1764) elekciją
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -180,9 +185,9 @@ Suverenitetas pateikiamas kaip teisinė valstybės teisė valdyti teritoriją ir
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kitu aktu buvo daroma savotiška karinė sąjunga. Jogaila
-    ordinui žadėjo padėti prieš jo priešus. Į Lietuvą siunčiama pagal-
+    ordinui žadėjo padėti prieš jo priešus. Į Lietuvą siunčiama pagal­
     binė kariuomenė, iki Vilniaus atvykusi su savo maistu, toliau turėjo
-    būti viskuo Jogailos aprūpinta. Bet šio suverenumas buvo siauri-
+    būti viskuo Jogailos aprūpinta. Bet šio suverenumas buvo siauri­
     namas, kai jis įsipareigojo ordinui padėti prieš jo priešus ir be jo
     žinios, patarimo ir valios nepradėti karo.
   citata_rodoma: ""

@@ -54,10 +54,10 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo tarpu caras Petras I sėkmingai kariavo su
-      švedais Estijoje, — užėmė Narvą, Tartus ir Nevos paupy pradėjo
-      statyti būsimąją Rusijos sostinę — Petrapilį (dabartinį Le-
-      ningradą). Iš čia, susitaręs su Augustu, jis atvyko į Lietuvą ir už-
-      ėmė Vilnių.
+    švedais Estijoje, — užėmė Narvą, Tartus ir Nevos paupy pradėjo
+    statyti būsimąją Rusijos sostinę — Petrapilį (dabartinį Le-
+    ningradą). Iš čia, susitaręs su Augustu, jis atvyko į Lietuvą ir už-
+    ėmė Vilnių.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -70,10 +70,10 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai Augustas II su Petru I padarė sutartį
-      atimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo
-      jaunutis Karolis XII; jam tebuvo vos 18 metų amžiaus. Augus-
-      tas II su Petru I, be to, įtraukė į sąjungą Daniją ir Brandenbur-
-      go kunigaikštį.
+    atimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo
+    jaunutis Karolis XII; jam tebuvo vos 18 metų amžiaus. Augus-
+    tas II su Petru I, be to, įtraukė į sąjungą Daniją ir Brandenbur-
+    go kunigaikštį.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -86,8 +86,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo pat metu Maskvos caras Petras I Didysis ruošėsi pra-
-      siveržti į Baltijos jūrą. Tam tikslui reikėjo išvyti švedus, val-
-      dančius visą pajūrį nuo Rygos iki Estijos.
+    siveržti į Baltijos jūrą. Tam tikslui reikėjo išvyti švedus, val-
+    dančius visą pajūrį nuo Rygos iki Estijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -100,8 +100,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Energingasis Petras I Didysis
-      (1682—1725 m.) griežtomis priemonėmis pakirto jos rytietiškos san-
-      tvarkos šaknis ir išvedė ją į europėjamąjį kelią.
+    (1682—1725 m.) griežtomis priemonėmis pakirto jos rytietiškos san-
+    tvarkos šaknis ir išvedė ją į europėjamąjį kelią.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -113,10 +113,11 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   santrauka: Petro Didžiojo epocha reiškė Lietuvos-Lenkijos patekimą Rusijos įtakon.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Tačiau epocha caro Petro Didžiojo, kuris iš naujos sostinės (Petersburgo)
-    tvirtu žingsniu įvedė savo imperiją į Europos areną, reiškė bajorų
-    respublikai patekimą Rusijos įtakon. Iš šios sferos Lietuva-Lenkija
-    nebepajėgė išsilaisvinti iki pat padalinimų.
+    Tačiau epocha caro Petro Didžiojo,
+    kuris iš naujos sostinės (Petersburgo) tvirtu žingsniu įvedė savo
+    imperiją į Europos areną, reiškė bajorų respublikai patekimą Ru­
+    sijos įtakon. Iš šios sferos Lietuva-Lenkija nebepajėgė išsilaisvinti
+    iki pat padalinimų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

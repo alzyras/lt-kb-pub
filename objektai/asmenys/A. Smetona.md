@@ -161,7 +161,8 @@ A. Smetona rodomas kaip tautinio judėjimo ir nepriklausomybės laikotarpio poli
   santrauka: A. Smetona buvo Vykdomojo Komiteto biuro narys
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vykdomasis Komiteto biuras (A. Smetona, J. Šaulys, kun. Stankevičius, M. Biržiška ir
+    Vykdomasis Komiteto
+    biuras (A. Smetona, J. Šaulys, kun. Stankevičius, M. Biržiška ir
     P. Klimas) po to išsirūpino leidimą sušaukti platesnei konferen-
     cijai.
   citata_rodoma: ""

@@ -126,8 +126,7 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   santrauka: Bibliografinė nuoroda Z. Ivinskį tiesiogiai sieja su darbu „Jogaila“.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Žr. Z. Ivinskis :
-    _Jogaila,_ LE, t. 9, 427 p.
+    Žr. Z. Ivinskis :** **_Jogaila,_** **LE, t. 9, 427 p.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -156,7 +155,7 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Z. Ivinskis:** **_Die baltische Frage im 17_****. Jahrhundert, leidiny:** **_Der
-    Ostseeraum im Blickfeld der deutschen Geschichte,_ Köln-Wien 1970, 119-140 p.
+    Ostseeraum im Blickfeld der deutschen Geschichte,_** **Köln-Wien 1970, 119-140 p.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

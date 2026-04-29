@@ -97,7 +97,8 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
   santrauka: Bibliografinė nuoroda susieja A. Brückner su Dzieje kultury polskiej
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Brückner, A. : _Dzieje kultury polskiej_ , I, Kraków 1931.
+    Brückner, A. : _Dzieje
+    kultury polskiej_ , I, Kraków 1931.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -109,11 +110,11 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
   santrauka: Al. Brückner pristatomas kaip kritiškai vertinęs pagonių lietuvių kultūrą
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-        Bet perdėm kritiški kultūros istorikai (pvz., Al. Brückner)
-        nuėjo į kitą kraštutinumą. Nerasdami pas pagonis lietuvius vaka-
-        rietiško blizgesio ir pasigaudami atsitiktinių šaltinių nuotrupų, jie
-        laikė pagonių lietuvių kultūrą gana žema. Pati tauta tada buvusi
-        gana neturtinga^3.
+    Bet perdėm kritiški kultūros istorikai (pvz., Al. Brückner)
+    nuėjo į kitą kraštutinumą. Nerasdami pas pagonis lietuvius vaka­
+    rietiško blizgesio ir pasigaudami atsitiktinių šaltinių nuotrupų, jie
+    laikė pagonių lietuvių kultūrą gana žema. Pati tauta tada buvusi
+    gana neturtinga^3.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -125,8 +126,8 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
   santrauka: Nurodoma, kad Dzieje kultury polskiej cituojamas lietuvių senovinės kultūros skyrius
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-        (^3) **Pvz., Al. Brückner :** **_Dzieje kultury polskiej_** **, I (skyrius apie lietuvių
-        senovinę kultūrą).**
+    (^3) **Pvz., Al. Brückner :** **_Dzieje kultury polskiej_** **, I (skyrius apie lietuvių
+    senovinę kultūrą).**
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

@@ -79,8 +79,8 @@ Livonijos ordino ir kryžiuočių aplinkoje vakarietiškos pagalbos šaukimasis 
   santrauka: Ordinui prašant popiežius Vakaruose skelbdavo kryžiaus karus, kad į pagalbą plauktų minios karių.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Be to, ordino prašomas popiežius skelbdavo Vakaruose kryžiaus karus,
-    ir ordinui į talką plaukdavo minios karių. Iš Palestinos or-
+    Be to, ordino prašomas popiežius skelbdavo Vakaruose kryžiaus
+    karus, ir ordinui į talką plaukdavo minios karių. Iš Palestinos or-
     dinas atsinešė į aisčių kraštą ir kariavimo būdą.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -121,8 +121,5 @@ Livonijos ordino ir kryžiuočių aplinkoje vakarietiškos pagalbos šaukimasis 
     - t-004
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Kalavijuočių ordinas]]

@@ -52,7 +52,10 @@ Gediminas taip pat buvo pirmasis, kuris prieš kryžiuočius sudarė sąjungą s
   santrauka: 'Gediminas taip pat buvo pirmasis, kuris prieš kryžiuočius sudarė sąjungą su Lenkija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Gediminas taip pat buvo pirmasis, kuris prieš kryžiuočius sudarė sąjungą su Lenkija. Jis prijungė prie Lietuvos didžiulius rusų ir ukrainiečių žemių plotus. Tačiau ir čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo
+    Gediminas taip pat buvo pirmasis, kuris
+    prieš kryžiuočius sudarė sąjungą su Lenkija. Jis prijungė prie
+    Lietuvos didžiulius rusų ir ukrainiečių žemių plotus. Tačiau ir
+    čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo
     sūnų bei dukterų vedybomis.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -65,10 +68,14 @@ Gediminas taip pat buvo pirmasis, kuris prieš kryžiuočius sudarė sąjungą s
   santrauka: 'Sutartis buvo sudaryta 1325 m.; kad ji būtų tvirtesnė, Gediminas išleido už Vladislovo sūnaus, būsimojo Lenkijos karaliaus Kazimiero Didžiojo, savo dukterį Aldoną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Sutartis buvo sudaryta 1325 m.; kad ji būtų tvirtesnė, Gediminas
-    išleido už Vladislovo sūnaus, būsimojo Len-
+    Sutartis buvo sudaryta
+    1325 m.; kad ji būtų
+    tvirtesnė, Gediminas
+    išleido už Vladislovo
+    sūnaus, būsimojo Len-
     kijos karaliaus Kazi-
-    miero Didžiojo, savo dukterį Aldoną.
+    miero Didžiojo, savo
+    dukterį Aldoną.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

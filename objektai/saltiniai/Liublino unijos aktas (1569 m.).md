@@ -176,7 +176,7 @@ tags: []
   citata_originali: |
     Seimai buvo bendri, bet
     juose kiekviena valstybė svarstė savo reikalus ir leido sau rei-
-    
+
     kalingus įstatymus.
   citata_rodoma: ''
   teiginio_tipas: faktas
