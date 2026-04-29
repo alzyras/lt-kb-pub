@@ -1,8 +1,9 @@
 ---
-tipas: zodyno_irasas
+tipas: 'zodyno_irasas'
 pavadinimas: 'Magdeburgo teisės'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - 'magdeburginės teisės'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
@@ -10,6 +11,7 @@ patikimumas: 'vidutinis'
 tags:
   - miestas
   - sąvoka
+  - valdovas
 ---
 # Magdeburgo teisės
 
@@ -26,7 +28,10 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   teiginys: 'Pirmas Magdeburgo teises gavo Vilnius (1387 m.), vėliau Brasta (1390 m.), Gardinas (1391 m.), o dar vėliau Kaunas ir kt.'
   pagrindžia:
     - c-002
-
+- t-003
+  teiginys: 'Jei jie priklausydavo karališkojo dvaro, tai jų teisėju ir valdovu būdavo seniūnas, o jei priklausydavo privatinio dvaro, tai jų teisėju ir valdovu būdavo jo savininkas (savivaldybės, arba vadinamosios magdeburginės, teisės buvo paliktos tiktai Vilniui.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės).'
@@ -55,3 +60,27 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Jei jie priklausydavo karališkojo dvaro, tai jų teisėju ir valdovu būdavo seniūnas, o jei priklausydavo privatinio dvaro, tai jų teisėju ir valdovu būdavo jo savininkas (savivaldybės, arba vadinamosios magdeburginės, teisės buvo paliktos tiktai Vilniui.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Jie tik tuo tesiskyrė nuo vals-
+    tiečių, kad nėjo baudžiavos, o mokėjo mokesčius. Šiaip, kaip
+    ir valstiečiai, jie priklausė pono. Jei jie priklausydavo karališ-
+    kojo dvaro, tai jų teisėju ir valdovu būdavo seniūnas, o jei
+    priklausydavo privatinio dvaro, tai jų teisėju ir valdovu būdavo
+    jo savininkas (savivaldybės, arba vadinamosios magdeburginės,
+    teisės buvo paliktos tiktai Vilniui, Trakams, Kaunui, Lydai,
+    Naugardukui, Volkoviskui, Pinskui, Minskui, Mozyriui, Brastai
+    ir Gardinui).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/valdovas]]

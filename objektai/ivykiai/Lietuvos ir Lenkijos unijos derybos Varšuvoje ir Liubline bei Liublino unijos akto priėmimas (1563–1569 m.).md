@@ -39,6 +39,7 @@ Visa tai liepos 1 d. buvo patvirtinta trimis unijos aktais — dviem abiejų val
 
 ## Ryšiai
 ### Teminiai klasteriai
+- [[temos/karalius - valstybė]]
 - [[temos/aktas]]
 - [[temos/unija]]
 

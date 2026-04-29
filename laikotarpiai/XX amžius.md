@@ -7,7 +7,7 @@ tags: []
 
 # XX amžius
 
-Objektų skaičius: 77. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 73. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -48,4 +48,4 @@ Objektų skaičius: 77. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 
 ## Nerodoma Graph'e
 
-- Dar 52 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.
+- Dar 48 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.

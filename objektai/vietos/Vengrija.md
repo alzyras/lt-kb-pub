@@ -80,6 +80,7 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ginklas]]
+- [[temos/karalius - valstybė]]
 
 ### Susiję objektai
 - [[objektai/vietos/Vokietija]]

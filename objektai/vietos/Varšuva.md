@@ -138,6 +138,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bajorija - karalius]]
+- [[temos/karalius - valstybė]]
 
 ### Susiję objektai
 - [[objektai/vietos/Lenkija]]

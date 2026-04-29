@@ -1,32 +1,36 @@
 ---
-tipas: ivykis
-pavadinimas: Strėvos mūšis (1348 m.)
-sukurta: 2026-04-24
+tipas: 'ivykis'
+pavadinimas: 'Strėvos mūšis (1348 m.)'
+sukurta: '2026-04-24'
 variantai:
-  - Strėvos kautynės
-  - 1348 m. Strėvos mūšis
+  - 'Strėvos kautynės'
+  - '1348 m. Strėvos mūšis'
+  - 'Strėvos mūšis'
 aliases: []
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
-laikotarpis: 1348 m.
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+laikotarpis: '1348 m.'
 datos:
-  - 1348 m.
-periodas: viduramziai
+  - '1348 m.'
+periodas: 'viduramziai'
 periodo_grupes: []
 amziai:
-  - XIV
+  - 'XIV'
 date_start: '1348'
 date_end: '1348'
 vaidmenys: []
 dalyviai:
   - '[[Algirdas]]'
   - '[[Kęstutis]]'
-  - ordinas
-  - kryžiuočiai
+  - 'ordinas'
+  - 'kryžiuočiai'
 susije_irasai: []
-patikimumas: aukstas
+patikimumas: 'aukstas'
 tags:
+  - ivykis
   - mūšis
+  - upė
 ---
 # Strėvos mūšis (1348 m.)
 
@@ -105,6 +109,7 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/mūšis]]
+- [[temos/upė]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
@@ -112,4 +117,3 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas]]
 - [[objektai/asmenys/Kęstutis]]
-- [[objektai/ivykiai/Strėvos mūšis]]

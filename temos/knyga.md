@@ -33,12 +33,12 @@ Objektų skaičius: 46. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/autoriai/Ks. Bauža]]
 - [[objektai/autoriai/Kun. Vienažindys]]
 - [[objektai/autoriai/M. Gruševski]]
+- [[objektai/autoriai/Motiejus Valančius]]
 - [[objektai/autoriai/Mykolas Akelaitis]]
 - [[objektai/autoriai/P. Ruseckas]]
 - [[objektai/autoriai/S. M. Solovjev]]
 - [[objektai/autoriai/S. Stanevičius]]
 - [[objektai/autoriai/Stanislovas Rapagelionis]]
-- [[objektai/autoriai/Strazdelis]]
 
 ## Nerodoma Graph'e
 

@@ -79,7 +79,6 @@ Vilniaus vyskupui Bžostauskui tarpininkaujant, dar buvo mėginta tartis, tačia
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bajorija - karalius]]
-- [[temos/bajorija - vyskupas]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Mykolas Kaributas Višniaveckis]]

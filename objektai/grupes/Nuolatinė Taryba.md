@@ -136,5 +136,8 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
     - t-006
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/karalius - valstybė]]
+
 ### Susiję objektai
 - [[objektai/grupes/Įstatymų Sargyba]]

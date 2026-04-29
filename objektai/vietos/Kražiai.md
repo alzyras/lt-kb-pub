@@ -51,4 +51,3 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bajorija - karalius]]
-- [[temos/bajorija - vyskupas]]

@@ -1,5 +1,5 @@
 ---
-tipas: autorius
+tipas: 'autorius'
 pavadinimas: 'Motiejus Valančius'
 sukurta: '2026-04-24'
 variantai:
@@ -241,10 +241,12 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     - t-007
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/knyga]]
+
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
 
 ### Susiję objektai
 - [[objektai/paprociai/Knygnešystė ir slaptas lietuviškų knygų platinimas]]
 - [[objektai/autoriai/S. Daukantas]]
-- [[objektai/autoriai/Vysk. Motiejus Valančius]]

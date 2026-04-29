@@ -1,14 +1,16 @@
 ---
-tipas: zodyno_irasas
-pavadinimas: Laisvamanybė ir laisvamaniai
-sukurta: 2026-04-24
+tipas: 'zodyno_irasas'
+pavadinimas: 'Laisvamanybė ir laisvamaniai'
+sukurta: '2026-04-24'
 variantai:
-  - laisvamanybės
-  - laisvamaniai
+  - 'laisvamanybės'
+  - 'laisvamaniai'
+  - 'laisvamanybė laisvamaniai'
 aliases: []
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
-laikotarpis: XIX a. pabaiga–XX a. pradžia
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+laikotarpis: 'XIX a. pabaiga–XX a. pradžia'
 datos: []
 periodas: ""
 periodo_grupes: []
@@ -19,7 +21,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai:
   - '[[Jonas Šliūpas]]'
-patikimumas: aukštas
+patikimumas: 'aukštas'
 tags:
   - sąvoka
 ---
@@ -91,9 +93,5 @@ Terminas siejamas su J. Šliūpo veikla ir aplink jį susibūrusia tautininkų b
 ## Pastabos
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-
 ### Susiję objektai
 - [[objektai/autoriai/Jonas Šliūpas]]
-- [[objektai/zodynas/laisvamanybė laisvamaniai]]

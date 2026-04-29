@@ -7,7 +7,7 @@ tags: []
 
 # mūšis
 
-Objektų skaičius: 53. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 52. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -48,4 +48,4 @@ Objektų skaičius: 53. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 
 ## Nerodoma Graph'e
 
-- Dar 28 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.
+- Dar 27 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.

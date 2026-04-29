@@ -7,7 +7,7 @@ tags: []
 
 # šventė
 
-Objektų skaičius: 26. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
+Objektų skaičius: 25. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas sąrašas lieka DB.
 
 ## Susiję objektai
 
@@ -41,15 +41,11 @@ Objektų skaičius: 26. Graph ryšiams rodomi tik stipriausi 25 objektai; pilnas
 - [[objektai/vietos/Šventosios uostas]]
 
 ### Įvykiai
-- [[objektai/ivykiai/Brunono Bonifaco misija į aisčių kraštą ir žūtis]]
-- [[objektai/ivykiai/Lietuvos ir Latvijos sienos nustatymas (1921 m.)]]
+- [[objektai/ivykiai/Brunono misija į aisčių kraštą ir žūtis (1009 m.)]]
+- [[objektai/ivykiai/Lietuvos ir Latvijos sienos išvedimas (1921 m.)]]
 - [[objektai/ivykiai/Vilniaus kalvinų bažnyčios nugriovimas ir naujos bažnyčios pastatymas (1639–1640 m.)]]
 
 ### Žodynas
 - [[objektai/zodynas/Alkos ir romuvos]]
-- [[objektai/zodynas/alkos romuvos]]
 - [[objektai/zodynas/gabija]]
-
-## Nerodoma Graph'e
-
-- Dar 1 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.
+- [[objektai/zodynas/vaidilos kriviai žyniai]]

@@ -59,6 +59,9 @@ tags:
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/karalius - valstybė]]
+
 ### Susiję objektai
 - [[objektai/grupes/Didžioji Lietuvos kunigaikštystė]]
 - [[objektai/grupes/Liublino seimas]]

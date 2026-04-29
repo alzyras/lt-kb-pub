@@ -163,6 +163,7 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
 - [[temos/teisinis-terminas]]
 
 ### Laikotarpiai
+- [[laikotarpiai/I amžius]]
 - [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XV amžius]]
 

@@ -107,6 +107,7 @@ Buvo sušaukta nemaža bendrų seimų, tačiau jie, nieko neišsprendę, pasibai
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/valdovas]]
+- [[temos/karalius - valstybė]]
 
 ### Susiję objektai
 - [[objektai/zodynas/Personalinė unija]]

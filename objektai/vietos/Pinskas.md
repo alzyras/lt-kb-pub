@@ -86,7 +86,6 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bajorija - karalius]]
-- [[temos/bajorija - vyskupas]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Vaišvilkas]]

@@ -67,6 +67,7 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/valdovas]]
+- [[temos/karalius - valstybė]]
 
 ### Susiję objektai
 - [[objektai/grupes/Lenkų karalystė]]

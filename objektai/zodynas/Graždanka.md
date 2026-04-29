@@ -82,6 +82,7 @@ Graždanka minima kaip konkreti rusų raidžių vartojimo lietuviškoje spaudoje
 
 ## Ryšiai
 ### Laikotarpiai
+- [[laikotarpiai/I amžius]]
 - [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai

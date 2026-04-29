@@ -377,7 +377,9 @@ Pinigai naudoti atsiskaitymui, o jų formos ir ženklai atspindėjo valdovo laik
 
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XVIII amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XVII amžius]]
 
 ### Susiję objektai
 - [[objektai/daiktai/Aleksandro pinigai]]

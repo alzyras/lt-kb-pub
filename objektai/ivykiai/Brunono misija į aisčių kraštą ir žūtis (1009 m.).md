@@ -1,33 +1,36 @@
 ---
-tipas: ivykis
-pavadinimas: Brunono misija į aisčių kraštą ir žūtis (1009 m.)
-sukurta: 2026-04-24
+tipas: 'ivykis'
+pavadinimas: 'Brunono misija į aisčių kraštą ir žūtis (1009 m.)'
+sukurta: '2026-04-24'
 variantai:
-  - Brunono / Bonifaco misija į aisčių kraštą ir žūtis
-  - Bonifaco misija į aisčių kraštą ir žūtis
-  - šventojo Bonifaco misija
+  - 'Brunono / Bonifaco misija į aisčių kraštą ir žūtis'
+  - 'Bonifaco misija į aisčių kraštą ir žūtis'
+  - 'šventojo Bonifaco misija'
+  - 'Brunono Bonifaco misija į aisčių kraštą ir žūtis'
 aliases: []
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
-laikotarpis: 1008 m. galas – 1009 m. vasario 14 d.
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+laikotarpis: '1008 m. galas – 1009 m. vasario 14 d.'
 datos:
-  - 1008 m. galas
-  - 1009 m. vasario 14 d.
-periodas: viduramziai
+  - '1008 m. galas'
+  - '1009 m. vasario 14 d.'
+periodas: 'viduramziai'
 periodo_grupes: []
 amziai:
-  - XI
+  - 'XI'
 date_start: '1008'
-date_end: '1009-02-14'
+date_end: '1009'
 vaidmenys: []
 dalyviai:
-  - Brunonas
-  - Bonifacas
-  - lenkų kunigaikštis Boleslovas
-  - 18 palydovų
+  - 'Brunonas'
+  - 'Bonifacas'
+  - 'lenkų kunigaikštis Boleslovas'
+  - '18 palydovų'
 susije_irasai: []
-patikimumas: aukstas
-tags: []
+patikimumas: 'aukstas'
+tags:
+  - ivykis
 ---
 # Brunono misija į aisčių kraštą ir žūtis (1009 m.)
 
@@ -129,10 +132,11 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/krikštas]]
+- [[temos/šventė]]
 
 ### Laikotarpiai
+- [[laikotarpiai/I amžius]]
 - [[laikotarpiai/XI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Brunonas]]
-- [[objektai/ivykiai/Brunono Bonifaco misija į aisčių kraštą ir žūtis]]

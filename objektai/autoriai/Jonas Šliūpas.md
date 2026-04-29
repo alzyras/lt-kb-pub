@@ -307,10 +307,10 @@ Jonas Šliūpas rodomas kaip vienas ryškiausių Amerikos lietuvių tautinio jud
 - [[temos/redaktorius]]
 
 ### Laikotarpiai
+- [[laikotarpiai/I amžius]]
 - [[laikotarpiai/XIX amžius]]
 
 ### Susiję objektai
 - [[objektai/autoriai/Dr. J. Šliūpas]]
 - [[objektai/zodynas/Laisvamanybė ir laisvamaniai]]
 - [[objektai/autoriai/Mikšas]]
-- [[objektai/zodynas/laisvamanybė laisvamaniai]]

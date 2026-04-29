@@ -61,6 +61,7 @@ tags:
 ### Teminiai klasteriai
 - [[temos/unija]]
 - [[temos/bajorija - karalius]]
+- [[temos/karalius - valstybė]]
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]

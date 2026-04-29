@@ -122,7 +122,6 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bajorija - karalius]]
-- [[temos/bajorija - vyskupas]]
 
 ### Susiję objektai
 - [[objektai/vietos/Kleckas]]

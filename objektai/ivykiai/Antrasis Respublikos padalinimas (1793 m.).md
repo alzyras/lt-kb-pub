@@ -65,5 +65,8 @@ Tuo būdu prieš pirmąjį Respublikos padalinimą buvusi perskirta Prūsų Bran
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/karalius - valstybė]]
+
 ### Laikotarpiai
 - [[laikotarpiai/XVIII amžius]]

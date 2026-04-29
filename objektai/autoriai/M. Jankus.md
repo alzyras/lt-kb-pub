@@ -50,3 +50,7 @@ Jankus ir lietuvių draugas vokietis S.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/redaktorius]]
+
+### Susiję objektai
+- [[objektai/autoriai/Jonas Basanavičius]]
+- [[objektai/autoriai/S. Zauerveinas]]

@@ -1,13 +1,15 @@
 ---
-tipas: zodyno_irasas
-pavadinimas: Vaisba ir vaisbūnas
-sukurta: 2026-04-24
+tipas: 'zodyno_irasas'
+pavadinimas: 'Vaisba ir vaisbūnas'
+sukurta: '2026-04-24'
 variantai:
-  - vaisba
-  - vaisbūnas
+  - 'vaisba'
+  - 'vaisbūnas'
+  - 'vaisba vaisbūnas'
 aliases: []
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 laikotarpis: ""
 datos: []
 periodas: ""
@@ -18,7 +20,7 @@ date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: aukštas
+patikimumas: 'aukštas'
 tags:
   - sąvoka
 ---
@@ -77,7 +79,3 @@ Abi formos pateikiamos kaip senasis prekybos žodynas, susietas su pirklių veik
 ## Šaltiniai ir įrodymai
 
 ## Pastabos
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/vaisba vaisbūnas]]

@@ -1,8 +1,9 @@
 ---
-tipas: ivykis
+tipas: 'ivykis'
 pavadinimas: 'Pirmasis Vilniaus krašto okupavimas (1919 m. balandžio 19 d.)'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - 'Pirmasis Vilniaus krašto okupavimas (1919 m. balandžio mėn.)'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
@@ -37,10 +38,3 @@ Pirmasis Vilniaus krašto okupavimas.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/ivykiai/Pirmasis Vilniaus krašto okupavimas (1919 m. balandžio mėn.)]]

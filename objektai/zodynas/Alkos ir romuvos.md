@@ -1,14 +1,16 @@
 ---
-tipas: zodyno_irasas
-pavadinimas: Alkos ir romuvos
-sukurta: 2026-04-24
+tipas: 'zodyno_irasas'
+pavadinimas: 'Alkos ir romuvos'
+sukurta: '2026-04-24'
 variantai:
-  - alkų vardais
-  - romuvomis
-  - alkomis
+  - 'alkų vardais'
+  - 'romuvomis'
+  - 'alkomis'
+  - 'alkos romuvos'
 aliases: []
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 laikotarpis: ""
 datos: []
 periodas: ""
@@ -19,8 +21,9 @@ date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: aukštas
+patikimumas: 'aukštas'
 tags:
+  - kunigas
   - sąvoka
 ---
 # Alkos ir romuvos
@@ -103,7 +106,5 @@ Terminais žymimos senosios kulto vietos ir šventovės. Kartu pabrėžiama, kad
 
 ## Ryšiai
 ### Teminiai klasteriai
+- [[temos/kunigas]]
 - [[temos/šventė]]
-
-### Susiję objektai
-- [[objektai/zodynas/alkos romuvos]]

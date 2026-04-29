@@ -1,10 +1,11 @@
 ---
-tipas: saltinis
+tipas: 'saltinis'
 pavadinimas: 'Codex epistolaris Vitoldi, magni ducis Lithuaniae'
 sukurta: '2026-04-25'
 variantai:
   - 'Codex ep. Vitoldi'
   - 'CeV'
+  - 'Codex epistolaris Vitoldi, magni ducis Lithuaniae'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'

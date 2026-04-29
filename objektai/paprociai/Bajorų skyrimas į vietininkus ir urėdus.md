@@ -58,7 +58,3 @@ Tačiau šiuo kartu jau buvo nuspręsta įkurti Lietuvoje tokį pat krašto vald
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karas - kraštas]]

@@ -41,3 +41,7 @@ Napoleonas I, nugalėjęs Prūsiją, 1807 m. įkūrė nepriklausomą Varšuvos l
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/karalius - valstybė]]
