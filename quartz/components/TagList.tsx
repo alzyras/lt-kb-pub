@@ -2,7 +2,7 @@ import { FullSlug, resolveRelative } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 
-const typeTags = new Set([
+export const typeTags = new Set([
   "asmuo",
   "autorius",
   "vieta",
@@ -19,7 +19,7 @@ const typeTags = new Set([
   "zodyno_irasas",
 ])
 
-function tagKind(tag: string): "type" | "period" | "topic" {
+export function tagKind(tag: string): "type" | "period" | "topic" {
   const norm = tag.trim().toLowerCase()
   if (typeTags.has(norm)) return "type"
   if (/^(x|v|i)+$/i.test(tag) || norm.includes("amžius") || norm.includes("viduramž")) {

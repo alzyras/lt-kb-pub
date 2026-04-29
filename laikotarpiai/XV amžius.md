@@ -7,9 +7,9 @@ tags: []
 
 # XV amžius
 
-Šis laikotarpio hub'as jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus. Graph'e rodomas ribotas objektų skaičius, kad navigacija liktų skaitoma.
+Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 35. Viešame sąraše rodoma iki 25 objektų; likę paliekami DB projekcijoje, kad Graph netaptų per tankus.
+Objektų skaičius: 35.
 
 ## Kaip naudoti
 
@@ -54,7 +54,15 @@ Objektų skaičius: 35. Viešame sąraše rodoma iki 25 objektų; likę paliekam
 - [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
 - [[objektai/ivykiai/Torno taika (1411 m.)]]
 - [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]
+- [Vytauto karūnacijos byla (1429–1430 m.)](../objektai/ivykiai/Vytauto%20kar%C5%ABnacijos%20byla%20%281429%E2%80%931430%20m.%29)
+- [Vytauto mirtis (1430 m. spalio 27 d.)](../objektai/ivykiai/Vytauto%20mirtis%20%281430%20m.%20spalio%2027%20d.%29)
 
-## Nerodoma Graph'e
-
-- Dar 10 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.
+### Žodynas
+- [Baudžiava](../objektai/zodynas/Baud%C5%BEiava)
+- [dykra](../objektai/zodynas/dykra)
+- [inkorporacija](../objektai/zodynas/inkorporacija)
+- [metropolija](../objektai/zodynas/metropolija)
+- [metropolitas](../objektai/zodynas/metropolitas)
+- [Personalinė unija](../objektai/zodynas/Personalin%C4%97%20unija)
+- [valstybingumo idėja](../objektai/zodynas/valstybingumo%20id%C4%97ja)
+- [činšas](../objektai/zodynas/%C4%8Din%C5%A1as)

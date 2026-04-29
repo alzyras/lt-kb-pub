@@ -17,6 +17,7 @@ periodas: viduramziai
 tags:
   - ivykis
   - krikštas
+  - sutartis
 ---
 # Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)
 

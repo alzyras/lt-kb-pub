@@ -91,3 +91,7 @@ Ją išsirūpindama, bajorija nepamiršo nė savęs. Jau Zigmantas bajorų valst
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/privilegija]]

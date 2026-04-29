@@ -22,7 +22,8 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
-tags: []
+tags:
+  - krikštas
 ---
 # lotyniškasis krikštas
 
@@ -101,6 +102,7 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/religinis-terminas]]
+- [[temos/krikštas]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]

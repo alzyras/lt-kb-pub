@@ -10,6 +10,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ritualas
+  - krikštas
 ---
 # Lietuvos krikšto apeigos
 
@@ -154,6 +155,7 @@ Lietuvos krikštas buvo vykdomas kaip aiškiai suorganizuota apeiginė ir politi
 ### Teminiai klasteriai
 - [[temos/religinė-praktika]]
 - [[temos/ritualas]]
+- [[temos/krikštas]]
 
 ### Susiję objektai
 - [[objektai/ivykiai/Lietuvos krikštas]]

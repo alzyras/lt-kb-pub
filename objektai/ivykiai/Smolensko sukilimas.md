@@ -69,3 +69,4 @@ Pirmučiausia nuo Vytauto atsimetė Smolenskas (jo vietininkas buvo užmuštas, 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/mūšis]]
+- [[temos/sukilimas]]

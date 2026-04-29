@@ -110,6 +110,9 @@ Po keleto mėnesių įvyko sukilimas, vadovaujamas Kosciuškos, kuris pastatė s
     - t-004
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/sukilimas]]
+
 ### Laikotarpiai
 - [[laikotarpiai/XVIII amžius]]
 

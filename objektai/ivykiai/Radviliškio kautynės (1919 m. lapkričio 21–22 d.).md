@@ -10,6 +10,7 @@ patikimumas: 'vidutinis'
 tags:
   - ivykis
   - karas
+  - mūšis
 ---
 # Radviliškio kautynės (1919 m. lapkričio 21–22 d.)
 
@@ -63,5 +64,8 @@ Radvilišky ir Šiauliuose mūsų kariuomenė rado visko prigrūstus sandėlius.
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/mūšis]]
+
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]

@@ -8,6 +8,7 @@ import {
   parseFrontmatterPeriodRange,
   visiblePeriodDisplay,
 } from "../util/periodRange"
+import { tagKind } from "./TagList"
 // @ts-ignore
 import periodFilterScript from "./scripts/period-filter.inline"
 
@@ -64,6 +65,50 @@ type Props = {
   sort?: SortFn
 } & QuartzComponentProps
 
+type PreparedPage = {
+  page: QuartzPluginData
+  isTargetType: boolean
+  range?: ReturnType<typeof parseFrontmatterPeriodRange>
+  periodDisplay: ReturnType<typeof visiblePeriodDisplay>
+}
+
+const typeLabels: Record<string, string> = {
+  asmuo: "Asmenys",
+  autorius: "Autoriai",
+  daiktas: "Daiktai",
+  grupe: "Grupės",
+  ivykis: "Įvykiai",
+  paprotys: "Papročiai",
+  posakis: "Posakiai",
+  saltinis: "Šaltiniai",
+  vieta: "Vietos",
+  zodyno_irasas: "Sąvokos",
+}
+
+const typeOrder = [
+  "ivykis",
+  "asmuo",
+  "grupe",
+  "vieta",
+  "daiktas",
+  "paprotys",
+  "posakis",
+  "zodyno_irasas",
+  "saltinis",
+  "autorius",
+  "kita",
+]
+
+function normalizedType(value: unknown): string {
+  const raw = String(value ?? "").trim()
+  return raw || "kita"
+}
+
+function shouldGroupByType(slug: string | undefined): boolean {
+  const current = slug ?? ""
+  return current.startsWith("tags/") || current.startsWith("temos/") || current.startsWith("laikotarpiai/")
+}
+
 export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort }: Props) => {
   const sorter = sort ?? byDateAndAlphabeticalFolderFirst(cfg)
   let list = allFiles.sort(sorter)
@@ -85,6 +130,82 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
   })
 
   const showPeriodFilter = prepared.some(({ isTargetType }) => isTargetType)
+  const groupedByType = shouldGroupByType(fileData.slug)
+  const groups = groupedByType
+    ? [...prepared.reduce((acc, item) => {
+        const key = normalizedType(item.page.frontmatter?.tipas)
+        const group = acc.get(key) ?? []
+        group.push(item)
+        acc.set(key, group)
+        return acc
+      }, new Map<string, PreparedPage[]>()).entries()].sort(([a], [b]) => {
+        const rankA = typeOrder.indexOf(a)
+        const rankB = typeOrder.indexOf(b)
+        const safeA = rankA === -1 ? typeOrder.length : rankA
+        const safeB = rankB === -1 ? typeOrder.length : rankB
+        return safeA === safeB ? a.localeCompare(b, "lt") : safeA - safeB
+      })
+    : [["", prepared] as [string, PreparedPage[]]]
+
+  const renderItem = ({ page, isTargetType, range, periodDisplay }: PreparedPage) => {
+    const title = page.frontmatter?.title
+    const tags = page.frontmatter?.tags ?? []
+    const tipas = normalizedType(page.frontmatter?.tipas)
+
+    return (
+      <li
+        class="section-li"
+        data-period-filterable={isTargetType ? "true" : "false"}
+        data-period-start={range ? `${range.start}` : undefined}
+        data-period-end={range ? `${range.end}` : undefined}
+      >
+        <div class="section">
+          <div class="meta-box" title={periodDisplay?.label}>
+            {periodDisplay?.chips.map((chip) =>
+              chip.slug ? (
+                <a
+                  class={`period-chip period-chip-${chip.kind}`}
+                  href={resolveRelative(fileData.slug!, chip.slug as FullSlug)}
+                >
+                  {chip.label}
+                </a>
+              ) : (
+                <span class={`period-chip period-chip-${chip.kind}`}>{chip.label}</span>
+              ),
+            )}
+          </div>
+          <div class="desc">
+            <h3 class="title-row">
+              <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
+                {title}
+              </a>
+              <span class="type-chip">{typeLabels[tipas] ?? tipas}</span>
+            </h3>
+            {tags.length > 0 && (
+              <ul class="tags inline-tags">
+                {[...tags]
+                  .sort((a, b) => {
+                    const rank = { topic: 0, period: 1, type: 2 }
+                    const kindDiff = rank[tagKind(a)] - rank[tagKind(b)]
+                    return kindDiff === 0 ? a.localeCompare(b, "lt") : kindDiff
+                  })
+                  .map((tag) => (
+                    <li>
+                      <a
+                        class={`internal tag-link tag-link-${tagKind(tag)}`}
+                        href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
+                      >
+                        {tag}
+                      </a>
+                    </li>
+                  ))}
+              </ul>
+            )}
+          </div>
+        </div>
+      </li>
+    )
+  }
 
   return (
     <>
@@ -131,63 +252,23 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
           </div>
         </div>
       )}
-      <ul
-        class="section-ul"
-        data-period-filter-list={showPeriodFilter ? "true" : undefined}
-        data-period-filter-enabled={showPeriodFilter ? "true" : undefined}
-      >
-        {prepared.map(({ page, isTargetType, range, periodDisplay }) => {
-          const title = page.frontmatter?.title
-          const tags = page.frontmatter?.tags ?? []
-
-          return (
-            <li
-              class="section-li"
-              data-period-filterable={isTargetType ? "true" : "false"}
-              data-period-start={range ? `${range.start}` : undefined}
-              data-period-end={range ? `${range.end}` : undefined}
-            >
-              <div class="section">
-                <div class="meta-box" title={periodDisplay?.label}>
-                  {periodDisplay?.chips.map((chip) =>
-                    chip.slug ? (
-                      <a
-                        class={`period-chip period-chip-${chip.kind}`}
-                        href={resolveRelative(fileData.slug!, chip.slug as FullSlug)}
-                      >
-                        {chip.label}
-                      </a>
-                    ) : (
-                      <span class={`period-chip period-chip-${chip.kind}`}>{chip.label}</span>
-                    ),
-                  )}
-                </div>
-                <div class="desc">
-                  <h3 class="title-row">
-                    <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
-                      {title}
-                    </a>
-                  </h3>
-                  {tags.length > 0 && (
-                    <ul class="tags inline-tags">
-                      {tags.map((tag) => (
-                        <li>
-                          <a
-                            class="internal tag-link"
-                            href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
-                          >
-                            {tag}
-                          </a>
-                        </li>
-                      ))}
-                    </ul>
-                  )}
-                </div>
-              </div>
-            </li>
-          )
-        })}
-      </ul>
+      {groups.map(([groupType, items]) => (
+        <section class={groupedByType ? "page-list-type-group" : undefined}>
+          {groupedByType && (
+            <h2 class="page-list-type-heading">
+              <span>{typeLabels[groupType] ?? groupType}</span>
+              <small>{items.length}</small>
+            </h2>
+          )}
+          <ul
+            class="section-ul"
+            data-period-filter-list={showPeriodFilter ? "true" : undefined}
+            data-period-filter-enabled={showPeriodFilter ? "true" : undefined}
+          >
+            {items.map(renderItem)}
+          </ul>
+        </section>
+      ))}
     </>
   )
 }
@@ -200,7 +281,23 @@ PageList.css = `
 }
 
 .section .title-row {
-  display: block;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.section .type-chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.08rem 0.42rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 999rem;
+  color: var(--darkgray);
+  background: color-mix(in srgb, var(--lightgray) 36%, transparent);
+  font-size: 0.66rem;
+  font-weight: 750;
+  line-height: 1.2;
 }
 
 .section .inline-tags {
@@ -216,6 +313,35 @@ PageList.css = `
   font-size: 0.72rem;
   line-height: 1.2;
   opacity: 0.9;
+}
+
+.page-list-type-group {
+  margin: 1.1rem 0 1.45rem;
+}
+
+.page-list-type-heading {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  margin: 1rem 0 0.45rem;
+  color: var(--dark);
+  font-size: 1rem;
+  letter-spacing: 0.01em;
+}
+
+.page-list-type-heading small {
+  display: inline-flex;
+  min-width: 1.45rem;
+  min-height: 1.45rem;
+  align-items: center;
+  justify-content: center;
+  padding: 0 0.35rem;
+  border-radius: 999rem;
+  background: color-mix(in srgb, var(--secondary) 12%, transparent);
+  color: var(--secondary);
+  font-size: 0.72rem;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
 }
 
 .section .meta-box {

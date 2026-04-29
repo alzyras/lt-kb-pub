@@ -7,9 +7,9 @@ tags: []
 
 # popiežius
 
-Šis teminis hub'as jungia objektus pagal patvirtintas, įrodymais paremtas žymas. Per platūs ar tik objektų tipą žymintys tagai į graph hub'us neįtraukiami.
+Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 38. Viešame sąraše rodoma iki 25 objektų; likę paliekami DB projekcijoje, kad Graph netaptų per tankus.
+Objektų skaičius: 38.
 
 ## Kaip naudoti
 
@@ -54,7 +54,20 @@ Objektų skaičius: 38. Viešame sąraše rodoma iki 25 objektų; likę paliekam
 - [[objektai/vietos/Tverė]]
 - [[objektai/vietos/Utena]]
 - [[objektai/vietos/Varšuvos arkivyskupija]]
+- [Vigrai](../objektai/vietos/Vigrai)
+- [Vigrių vyskupija](../objektai/vietos/Vigri%C5%B3%20vyskupija)
+- [Vilniaus vyskupystė](../objektai/vietos/Vilniaus%20vyskupyst%C4%97)
+- [Žemaičių vyskupystė](../objektai/vietos/%C5%BDemai%C4%8Di%C5%B3%20vyskupyst%C4%97)
 
-## Nerodoma Graph'e
+### Įvykiai
+- [Blaivybės brolijų kūrimas ir plitimas Žemaičių vyskupystėje (1858—1859 m.)](../objektai/ivykiai/Blaivyb%C4%97s%20brolij%C5%B3%20k%C5%ABrimas%20ir%20plitimas%20%C5%BDemai%C4%8Di%C5%B3%20vyskupyst%C4%97je%20%281858%E2%80%941859%20m.%29)
+- [Kalavijuočių ordino įkūrimas](../objektai/ivykiai/Kalavijuo%C4%8Di%C5%B3%20ordino%20%C4%AFk%C5%ABrimas)
+- [Kryžiuočių ordino nukariavimai Prūsuose](../objektai/ivykiai/Kry%C5%BEiuo%C4%8Di%C5%B3%20ordino%20nukariavimai%20Pr%C5%ABsuose)
+- [Vilniaus akademijos įkūrimas (1579 m.)](../objektai/ivykiai/Vilniaus%20akademijos%20%C4%AFk%C5%ABrimas%20%281579%20m.%29)
+- [Vilniaus įkūrimas ir sostinės perkėlimas](../objektai/ivykiai/Vilniaus%20%C4%AFk%C5%ABrimas%20ir%20sostin%C4%97s%20perk%C4%97limas)
 
-- Dar 13 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.
+### Žodynas
+- [bulė](../objektai/zodynas/bul%C4%97)
+- [kitatikiai](../objektai/zodynas/kitatikiai)
+- [legatas](../objektai/zodynas/legatas)
+- [nuncijas](../objektai/zodynas/nuncijas)

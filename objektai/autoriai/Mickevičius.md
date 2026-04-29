@@ -2,7 +2,8 @@
 tipas: autorius
 pavadinimas: 'Mickevičius'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - 'Ad. Mickevičius'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
@@ -59,7 +60,3 @@ Jų tarpe buvo ir didysis poetas Mickevičius, kurio raštai jau tada susirenkan
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Ad. Mickevičius]]

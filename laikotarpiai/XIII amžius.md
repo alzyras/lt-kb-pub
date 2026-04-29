@@ -7,9 +7,9 @@ tags: []
 
 # XIII amžius
 
-Šis laikotarpio hub'as jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus. Graph'e rodomas ribotas objektų skaičius, kad navigacija liktų skaitoma.
+Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 15. Viešame sąraše rodoma iki 25 objektų; likę paliekami DB projekcijoje, kad Graph netaptų per tankus.
+Objektų skaičius: 15.
 
 ## Kaip naudoti
 
@@ -23,7 +23,6 @@ Objektų skaičius: 15. Viešame sąraše rodoma iki 25 objektų; likę paliekam
 
 ### Grupės
 - [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 
 ### Papročiai
 - [[objektai/paprociai/Nuotakos išpirkimas ir Krienos mokestis]]
@@ -38,6 +37,7 @@ Objektų skaičius: 15. Viešame sąraše rodoma iki 25 objektų; likę paliekam
 - [[objektai/ivykiai/Kryžiuočių ordino karo pradžia su Lietuvos valstybe (1283 m.)]]
 - [[objektai/ivykiai/Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)]]
 - [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]
+- [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
 
 ### Žodynas
 - [[objektai/zodynas/apostazija]]

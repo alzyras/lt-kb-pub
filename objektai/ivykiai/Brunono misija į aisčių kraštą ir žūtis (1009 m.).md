@@ -137,7 +137,6 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
 - [[temos/šventė]]
 
 ### Laikotarpiai
-- [[laikotarpiai/I amžius]]
 - [[laikotarpiai/XI amžius]]
 
 ### Susiję objektai

@@ -11,7 +11,8 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 patikimumas: 'vidutinis'
-tags: []
+tags:
+  - unija
 ---
 # Krėvos akto patvirtinimas
 
@@ -93,3 +94,7 @@ Ivinskis pabrėžia, kad 1385.VIII.14 Kriavo pilyje surašytas aktas dar nebuvo 
   pagrindžia:
     - t-003
     - t-004
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/unija]]

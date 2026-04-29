@@ -134,7 +134,8 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
   santrauka: K. Būga minimas aiškinant aisčių vardo taikymą baltams
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Lietuviai prieš I pasaulinį karą visai baltų tautų grupei buvo davę aisčių vardą (K. Būga).
+    Lietuviai prieš I pasaulinį karą visai
+    baltų tautų grupei buvo davę aisčių vardą (K. Būga).
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -146,7 +147,7 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
   santrauka: Perteikiama K. Būgos nuomonė apie gotiškos kilmės žodžių kelią į baltų kalbas
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Dauguma gotiškosios kilmės žodžių (asilas, katilas, istu-
+    Dauguma gotiškosios kilmės žodžių (asilas, katilas, istu­
     ba, stiklas, šalmas, lūkas, piela, muitas, tuinas) K. Būgos nuomone
     esą patekę į baltų kalbas ne tiesioginiu keliu, bet per slavus.
   citata_rodoma: ""
@@ -160,7 +161,7 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
   santrauka: Bibliografinė nuoroda susieja K. Būgą su Lietuvių kalbos žodynu
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Būga, K. : _Lietuvių kalbos žodynas_ , I-II, Kaunas 1924 (svarbus įva-
+    Būga, K. : _Lietuvių kalbos žodynas_ , I-II, Kaunas 1924 (svarbus įva­
     das).
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -173,8 +174,9 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
   santrauka: K. Būga bibliografiškai susiejamas su veikalų apie aisčių genčių priešistorę
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Būga, K. : _Die Vorgeschichte der aistischen (ibaltischen) Stämme im Lichte
-    der Ortsnamenforschung,_ Streitberg-Festgabe, Leipzig 1924, 22-35 p.
+    Būga, K. : _Die Vorgeschichte der aistischen
+    (ibaltischen) Stämme im Lichte der Ortsnamenforschung,_ Streitberg-Fest­
+    gabe, Leipzig 1924, 22-35 p.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -186,3 +188,6 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/autoriai/K. Jaunius]]

@@ -86,7 +86,6 @@ tags:
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/I amžius]]
 - [[laikotarpiai/XIV amžius]]
 
 ### Susiję objektai

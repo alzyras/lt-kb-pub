@@ -1,6 +1,6 @@
 type PeriodFilterRefs = {
   control: HTMLElement
-  list: HTMLUListElement
+  lists: HTMLUListElement[]
   minInput: HTMLInputElement
   maxInput: HTMLInputElement
   unknownInput: HTMLInputElement
@@ -17,9 +17,11 @@ function clampValue(value: number, min: number, max: number) {
 }
 
 function getRefs(control: HTMLElement): PeriodFilterRefs | undefined {
-  const list = control.parentElement?.querySelector<HTMLUListElement>(
-    'ul.section-ul[data-period-filter-enabled="true"]',
-  )
+  const lists = [
+    ...(control.parentElement?.querySelectorAll<HTMLUListElement>(
+      'ul.section-ul[data-period-filter-enabled="true"]',
+    ) ?? []),
+  ]
   const minInput = control.querySelector<HTMLInputElement>('input[data-period-input="start"]')
   const maxInput = control.querySelector<HTMLInputElement>('input[data-period-input="end"]')
   const unknownInput = control.querySelector<HTMLInputElement>('input[data-period-input="unknown"]')
@@ -29,7 +31,7 @@ function getRefs(control: HTMLElement): PeriodFilterRefs | undefined {
   const summary = control.querySelector<HTMLElement>("[data-period-summary]")
 
   if (
-    !list ||
+    lists.length === 0 ||
     !minInput ||
     !maxInput ||
     !unknownInput ||
@@ -43,7 +45,7 @@ function getRefs(control: HTMLElement): PeriodFilterRefs | undefined {
 
   return {
     control,
-    list,
+    lists,
     minInput,
     maxInput,
     unknownInput,
@@ -79,7 +81,7 @@ function updateFilter(refs: PeriodFilterRefs, changed: "start" | "end") {
   refs.rangeFill.style.left = `${left}%`
   refs.rangeFill.style.right = `${right}%`
 
-  const entries = refs.list.querySelectorAll<HTMLLIElement>("li.section-li")
+  const entries = refs.lists.flatMap((list) => [...list.querySelectorAll<HTMLLIElement>("li.section-li")])
   let visible = 0
   entries.forEach((entry) => {
     const isFilterable = entry.dataset.periodFilterable === "true"

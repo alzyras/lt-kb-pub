@@ -2,7 +2,8 @@
 tipas: autorius
 pavadinimas: 'Kun. Pakalniškis'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - "Pakalniškis"
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
@@ -36,7 +37,3 @@ Ją redagavo garsusis Dėdė Atanazas — kun. Pakalniškis († 1933 m.).
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Pakalniškis]]

@@ -7,9 +7,9 @@ tags: []
 
 # didikas
 
-Šis teminis hub'as jungia objektus pagal patvirtintas, įrodymais paremtas žymas. Per platūs ar tik objektų tipą žymintys tagai į graph hub'us neįtraukiami.
+Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 30. Viešame sąraše rodoma iki 25 objektų; likę paliekami DB projekcijoje, kad Graph netaptų per tankus.
+Objektų skaičius: 30.
 
 ## Kaip naudoti
 
@@ -54,7 +54,10 @@ Objektų skaičius: 30. Viešame sąraše rodoma iki 25 objektų; likę paliekam
 ### Įvykiai
 - [[objektai/ivykiai/Kazimiero paskelbimas didžiuoju Lietuvos kunigaikščiu]]
 - [[objektai/ivykiai/Mykolo Kaributo Višniaveckio elekcija (1669 m.)]]
+- [Padalinamasis seimas (1773–1775 m.)](../objektai/ivykiai/Padalinamasis%20seimas%20%281773%E2%80%931775%20m.%29)
+- [Vilniaus akademijos įkūrimas (1579 m.)](../objektai/ivykiai/Vilniaus%20akademijos%20%C4%AFk%C5%ABrimas%20%281579%20m.%29)
+- [Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas](../objektai/ivykiai/Vytauto%20sri%C4%8Di%C5%B3%20kunigaik%C5%A1%C4%8Di%C5%B3%20suvaldymas%20ir%20valstyb%C4%97s%20sutelkimas)
 
-## Nerodoma Graph'e
-
-- Dar 5 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.
+### Žodynas
+- [lenas](../objektai/zodynas/lenas)
+- [plikbajoris](../objektai/zodynas/plikbajoris)

@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'aukštas'
 periodas: viduramziai
 tags:
+  - pinigai
   - daiktas
 ---
 # Monetos
@@ -44,6 +45,9 @@ Nuo Vytauto laikų Lietuvoje buvo kalamos monetos.
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/pinigai]]
+
 ### Susiję objektai
 - [[objektai/daiktai/Patrankos]]
 - [[objektai/daiktai/Varpai]]

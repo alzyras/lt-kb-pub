@@ -2,7 +2,8 @@
 tipas: autorius
 pavadinimas: 'K. Zabitis Nezabitauskas'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - "Zabitis-Nezabitauskas"
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'

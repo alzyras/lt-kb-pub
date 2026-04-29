@@ -2,7 +2,8 @@
 tipas: autorius
 pavadinimas: 'J. Dlugošas'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - 'Dlugošas'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
@@ -58,6 +59,3 @@ Dlugošas ir karalaičiai. Iki mūsų laikų yra likę tik XV amž. gale daryti 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/mūšis]]
-
-### Susiję objektai
-- [[objektai/asmenys/Dlugošas]]

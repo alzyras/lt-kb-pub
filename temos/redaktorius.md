@@ -7,9 +7,9 @@ tags: []
 
 # redaktorius
 
-Šis teminis hub'as jungia objektus pagal patvirtintas, įrodymais paremtas žymas. Per platūs ar tik objektų tipą žymintys tagai į graph hub'us neįtraukiami.
+Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 11. Viešame sąraše rodoma iki 25 objektų; likę paliekami DB projekcijoje, kad Graph netaptų per tankus.
+Objektų skaičius: 10.
 
 ## Kaip naudoti
 
@@ -17,9 +17,6 @@ Objektų skaičius: 11. Viešame sąraše rodoma iki 25 objektų; likę paliekam
 - Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
 
 ## Susiję objektai
-
-### Asmenys
-- [[objektai/asmenys/Pakalniškis]]
 
 ### Autoriai
 - [[objektai/autoriai/A. Šapoka]]

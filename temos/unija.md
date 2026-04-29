@@ -7,9 +7,9 @@ tags: []
 
 # unija
 
-Šis teminis hub'as jungia objektus pagal patvirtintas, įrodymais paremtas žymas. Per platūs ar tik objektų tipą žymintys tagai į graph hub'us neįtraukiami.
+Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 36. Viešame sąraše rodoma iki 25 objektų; likę paliekami DB projekcijoje, kad Graph netaptų per tankus.
+Objektų skaičius: 39.
 
 ## Kaip naudoti
 
@@ -56,7 +56,19 @@ Objektų skaičius: 36. Viešame sąraše rodoma iki 25 objektų; likę paliekam
 
 ### Įvykiai
 - [[objektai/ivykiai/Herasimo sąmokslas ir sudeginimas ant laužo]]
+- [Krėvos akto patvirtinimas](../objektai/ivykiai/Kr%C4%97vos%20akto%20patvirtinimas)
+- [Lietuviškosios spaudos pradžia Amerikoje (1874–1885 m.)](../objektai/ivykiai/Lietuvi%C5%A1kosios%20spaudos%20prad%C5%BEia%20Amerikoje%20%281874%E2%80%931885%20m.%29)
+- [Lietuvos ir Lenkijos unijos derybos Varšuvoje ir Liubline bei Liublino unijos akto priėmimas (1563–1569 m.)](../objektai/ivykiai/Lietuvos%20ir%20Lenkijos%20unijos%20derybos%20Var%C5%A1uvoje%20ir%20Liubline%20bei%20Liublino%20unijos%20akto%20pri%C4%97mimas%20%281563%E2%80%931569%20m.%29)
+- [Lietuvos krikštas](../objektai/ivykiai/Lietuvos%20krik%C5%A1tas)
+- [Liublino unijos akto priėmimas ir patvirtinimas (1569 m.)](../objektai/ivykiai/Liublino%20unijos%20akto%20pri%C4%97mimas%20ir%20patvirtinimas%20%281569%20m.%29)
+- [Vilniaus katedros unijos atnaujinimo pasižadėjimas (1812 m. liepos 14 d.)](../objektai/ivykiai/Vilniaus%20katedros%20unijos%20atnaujinimo%20pasi%C5%BEad%C4%97jimas%20%281812%20m.%20liepos%2014%20d.%29)
+- [Čičinsko seimo išardymas (1652 m.)](../objektai/ivykiai/%C4%8Ci%C4%8Dinsko%20seimo%20i%C5%A1ardymas%20%281652%20m.%29)
 
-## Nerodoma Graph'e
-
-- Dar 11 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.
+### Žodynas
+- [bažnytinė unija](../objektai/zodynas/ba%C5%BEnytin%C4%97%20unija)
+- [egzekucija](../objektai/zodynas/egzekucija)
+- [gudų rašto kalba](../objektai/zodynas/gud%C5%B3%20ra%C5%A1to%20kalba)
+- [Personalinė unija](../objektai/zodynas/Personalin%C4%97%20unija)
+- [santvarka](../objektai/zodynas/santvarka)
+- [statuto dėsniai](../objektai/zodynas/statuto%20d%C4%97sniai)
+- [unija](../objektai/zodynas/unija)

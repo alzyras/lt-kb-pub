@@ -23,7 +23,8 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
-tags: []
+tags:
+  - unija
 ---
 # Personalinė unija
 
@@ -153,6 +154,7 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
+- [[temos/unija]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]

@@ -15,6 +15,7 @@ tags:
   - ivykis
   - karas
   - ordinas
+  - sutartis
 ---
 # Torno taika (1411 m.)
 
