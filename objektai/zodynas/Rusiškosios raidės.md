@@ -35,11 +35,6 @@ Terminas žymi rusišką raidyną, kuriuo buvo mėginama pakeisti lietuvišką s
 - datos:
   - 1864 m.
   - 1865 m.
-- periodas:
-- periodo_grupes:
-- amziai:
-- date_start:
-- date_end:
 
 ## Reikšmė iš konteksto
 Rusiškosios raidės pateikiamos kaip rusinimo priemonė: jomis norėta perrašyti lietuviškus tekstus, mokyklose platinti lietuviškas knygas rusišku raidynu ir taip atitraukti lietuvius nuo lenkų.

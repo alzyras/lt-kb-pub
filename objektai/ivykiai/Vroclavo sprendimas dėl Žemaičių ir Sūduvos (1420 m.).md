@@ -15,7 +15,8 @@ datos:
   - '1420 m.'
 periodas: ''
 periodo_grupes: []
-amziai: []
+amziai:
+  - 'XV'
 date_start: '1420'
 date_end: '1420'
 vaidmenys: []

@@ -29,12 +29,6 @@ Rašliava šiame veikale vartojama kaip istorinės raštijos ir publicistinio ra
 
 ## Laikotarpis ir datos
 - laikotarpis: aiškus vartojimo laikas nenurodytas
-- datos:
-- periodas:
-- periodo_grupes:
-- amziai:
-- date_start:
-- date_end:
 
 ## Reikšmė iš konteksto
 Terminas žymi istorinę raštiją, kronikinį ir publicistinį rašymą apie Lietuvos praeitį ir jos teises.

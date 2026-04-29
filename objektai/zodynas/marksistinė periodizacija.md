@@ -44,11 +44,6 @@ Vartojamos formos: Marksistinė Lietuvos istorijos periodizacija, periodizacija,
   - 1861 m.
   - 1917 m.
   - 1940 m.
-- periodas:
-- periodo_grupes:
-- amziai:
-- date_start:
-- date_end:
 
 ## Reikšmė iš konteksto
 

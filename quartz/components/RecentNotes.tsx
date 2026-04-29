@@ -6,7 +6,7 @@ import style from "./styles/recentNotes.scss"
 import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
 import { classNames } from "../util/lang"
-import { visibleHistoricalPeriod } from "../util/historicalPeriod"
+import { visiblePeriodDisplay } from "../util/periodRange"
 
 interface Options {
   title?: string
@@ -42,7 +42,7 @@ export default ((userOpts?: Partial<Options>) => {
           {pages.slice(0, opts.limit).map((page) => {
             const title = page.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title
             const tags = page.frontmatter?.tags ?? []
-            const historicalPeriod = visibleHistoricalPeriod(page.frontmatter?.laikotarpis)
+            const periodDisplay = visiblePeriodDisplay(page.frontmatter)
 
             return (
               <li class="recent-li">
@@ -54,7 +54,22 @@ export default ((userOpts?: Partial<Options>) => {
                       </a>
                     </h3>
                   </div>
-                  {historicalPeriod && <p class="meta">{historicalPeriod}</p>}
+                  {periodDisplay && (
+                    <p class="meta" title={periodDisplay.label}>
+                      {periodDisplay.chips.map((chip) =>
+                        chip.slug ? (
+                          <a
+                            class={`period-chip period-chip-${chip.kind}`}
+                            href={resolveRelative(fileData.slug!, chip.slug as FullSlug)}
+                          >
+                            {chip.label}
+                          </a>
+                        ) : (
+                          <span class={`period-chip period-chip-${chip.kind}`}>{chip.label}</span>
+                        ),
+                      )}
+                    </p>
+                  )}
                   {opts.showTags && (
                     <ul class="tags">
                       {tags.map((tag) => (

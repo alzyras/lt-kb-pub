@@ -34,7 +34,6 @@ Galvės ežero salos pilis šiame šaltinyje aprašoma kaip žymiausias Vytauto 
 - laikotarpis: Vytauto laikai
 - datos: 1414 m.
 - periodas: viduramziai
-- periodo_grupes:
 - amziai: XV
 - date_start: 1414
 - date_end: 1414

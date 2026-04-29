@@ -31,12 +31,8 @@ Medininkų pilis šiame šaltinyje minima kaip mūrais sustiprinta Vytauto laika
 
 ## Laikotarpis ir datos
 - laikotarpis: Vytauto laikai
-- datos:
 - periodas: viduramziai
-- periodo_grupes:
 - amziai: XV
-- date_start:
-- date_end:
 
 ## Kas tai
 Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų.

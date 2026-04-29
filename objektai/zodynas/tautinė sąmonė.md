@@ -35,13 +35,9 @@ Tautinė sąmonė čia vartojama lietuvių tautos savivokai nusakyti ir siejama 
 
 ## Laikotarpis ir datos
 - laikotarpis: XIX a.
-- datos:
 - periodas: "naujieji_laikai"
-- periodo_grupes:
 - amziai:
   - XIX
-- date_start: ""
-- date_end: ""
 
 ## Reikšmė iš konteksto
 Sąvoka nusako tautos savęs suvokimą kaip atskiros bendruomenės ir šiame šaltinyje vartojama tiek apibūdinant jos nebuvimą ankstesniais laikais, tiek jos stiprėjimą XIX amžiuje.

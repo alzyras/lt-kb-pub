@@ -15,7 +15,8 @@ datos:
   - '1397–1398 m.'
 periodas: ''
 periodo_grupes: []
-amziai: []
+amziai:
+  - 'XIV'
 date_start: '1397'
 date_end: '1398'
 vaidmenys: []

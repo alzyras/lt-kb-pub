@@ -14,7 +14,8 @@ datos:
   - '1044 m.'
 periodas: ''
 periodo_grupes: []
-amziai: []
+amziai:
+  - 'XI'
 date_start: '1044'
 date_end: '1044'
 vaidmenys: []

@@ -38,11 +38,6 @@ Regestas čia vartojamas dokumento santraukos ar trumpo išrašo prasme, kai iš
 - laikotarpis: Aiškus vartojimo laikas nenurodytas.
 - datos:
   - 1384 m.
-- periodas:
-- periodo_grupes:
-- amziai:
-- date_start:
-- date_end:
 
 ## Reikšmė iš konteksto
 Sąvoka nusako trumpą dokumento santrauką ar išrašą, svarbų istorinių aktų kritikai ir neišlikusių dokumentų turinio atkūrimui.

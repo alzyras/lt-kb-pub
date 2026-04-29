@@ -42,11 +42,6 @@ Vartojamos formos: tautinio atgimimo, tautinio atgimimo stiprėjimas, tautinio s
   - 1861 m.
   - 1883 m.
   - 1905 m.; nenurodyta
-- periodas:
-- periodo_grupes:
-- amziai:
-- date_start:
-- date_end:
 
 ## Reikšmė iš konteksto
 

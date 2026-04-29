@@ -34,12 +34,8 @@ Senieji Trakai šiame šaltinyje minimi kaip vieta, kur Vytautas įkurdino bened
 
 ## Laikotarpis ir datos
 - laikotarpis: Vytauto laikai
-- datos:
 - periodas: viduramziai
-- periodo_grupes:
 - amziai: XV
-- date_start:
-- date_end:
 
 ## Kas tai
 Senieji Trakai čia aprašomi kaip vienuolių įkurdinimo vieta.

@@ -3,8 +3,11 @@ import { QuartzPluginData } from "../plugins/vfile"
 import { getDate } from "./Date"
 import { QuartzComponent, QuartzComponentProps } from "./types"
 import { GlobalConfiguration } from "../cfg"
-import { isPeriodFilterTargetType, parseFrontmatterPeriodRange } from "../util/periodRange"
-import { visibleHistoricalPeriod } from "../util/historicalPeriod"
+import {
+  isPeriodFilterTargetType,
+  parseFrontmatterPeriodRange,
+  visiblePeriodDisplay,
+} from "../util/periodRange"
 // @ts-ignore
 import periodFilterScript from "./scripts/period-filter.inline"
 
@@ -77,7 +80,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
       page,
       isTargetType,
       range,
-      periodLabel: visibleHistoricalPeriod(page.frontmatter?.laikotarpis),
+      periodDisplay: visiblePeriodDisplay(page.frontmatter),
     }
   })
 
@@ -133,7 +136,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
         data-period-filter-list={showPeriodFilter ? "true" : undefined}
         data-period-filter-enabled={showPeriodFilter ? "true" : undefined}
       >
-        {prepared.map(({ page, isTargetType, range, periodLabel }) => {
+        {prepared.map(({ page, isTargetType, range, periodDisplay }) => {
           const title = page.frontmatter?.title
           const tags = page.frontmatter?.tags ?? []
 
@@ -145,7 +148,20 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
               data-period-end={range ? `${range.end}` : undefined}
             >
               <div class="section">
-                <div class="meta-box">{periodLabel && <span>{periodLabel}</span>}</div>
+                <div class="meta-box" title={periodDisplay?.label}>
+                  {periodDisplay?.chips.map((chip) =>
+                    chip.slug ? (
+                      <a
+                        class={`period-chip period-chip-${chip.kind}`}
+                        href={resolveRelative(fileData.slug!, chip.slug as FullSlug)}
+                      >
+                        {chip.label}
+                      </a>
+                    ) : (
+                      <span class={`period-chip period-chip-${chip.kind}`}>{chip.label}</span>
+                    ),
+                  )}
+                </div>
                 <div class="desc">
                   <h3 class="title-row">
                     <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
@@ -200,6 +216,40 @@ PageList.css = `
   font-size: 0.72rem;
   line-height: 1.2;
   opacity: 0.9;
+}
+
+.section .meta-box {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  min-width: 5.5rem;
+}
+
+.section .period-chip {
+  display: inline-flex;
+  align-items: center;
+  min-height: 1.25rem;
+  padding: 0.1rem 0.42rem;
+  border: 1px solid color-mix(in srgb, var(--secondary) 28%, var(--lightgray));
+  border-radius: 999rem;
+  background: color-mix(in srgb, var(--secondary) 8%, transparent);
+  color: var(--darkgray);
+  font-size: 0.7rem;
+  font-weight: 750;
+  line-height: 1.2;
+  text-decoration: none;
+}
+
+.section a.period-chip {
+  color: var(--secondary);
+}
+
+.section .period-chip-date {
+  border-color: color-mix(in srgb, var(--darkgray) 22%, var(--lightgray));
+  background: color-mix(in srgb, var(--lightgray) 30%, transparent);
+  color: var(--darkgray);
+  font-variant-numeric: tabular-nums;
 }
 
 .period-filter-controls {

@@ -32,11 +32,6 @@ Graždanka šiame veikale yra rusiškų raidžių pavadinimas.
 - laikotarpis: spaudos draudimo laikotarpis
 - datos:
   - 1904 m. gegužės 7 d.
-- periodas:
-- periodo_grupes:
-- amziai:
-- date_start:
-- date_end:
 
 ## Reikšmė iš konteksto
 Terminas nusako rusišką raidyną, kuriuo buvo mėginama spausdinti lietuviškas knygas, tačiau lietuviai jo nepriėmė.

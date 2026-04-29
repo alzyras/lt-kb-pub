@@ -14,7 +14,8 @@ datos:
   - '1219 m.'
 periodas: ''
 periodo_grupes: []
-amziai: []
+amziai:
+  - 'XIII'
 date_start: '1219'
 date_end: '1219'
 vaidmenys: []

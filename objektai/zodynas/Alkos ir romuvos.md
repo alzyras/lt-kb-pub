@@ -33,12 +33,6 @@ tags:
 
 ## Laikotarpis ir datos
 - laikotarpis: aiškus vartojimo laikas nenurodytas
-- datos:
-- periodas:
-- periodo_grupes:
-- amziai:
-- date_start:
-- date_end:
 
 ## Reikšmė iš konteksto
 Terminais žymimos senosios kulto vietos ir šventovės. Kartu pabrėžiama, kad vienos vyriausiosios Romuvos pasakojimas laikomas vėlyvu prasimanymu.

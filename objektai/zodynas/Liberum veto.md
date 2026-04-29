@@ -34,11 +34,6 @@ Liberum veto šiame veikale aiškinamas kaip laisvojo pasipriešinimo teisė sei
 - datos:
   - 1700 m.
   - 1788—1792 m.
-- periodas:
-- periodo_grupes:
-- amziai:
-- date_start:
-- date_end:
 
 ## Reikšmė iš konteksto
 Sąvoka reiškia seimo nario teisę prieštaravimu sužlugdyti sprendimų priėmimą. Ji rodoma kaip žalinga vienbalsiškumo praktika, kurią mėginta apeiti konfederaciniais seimais, o vėliau panaikinti reformomis.

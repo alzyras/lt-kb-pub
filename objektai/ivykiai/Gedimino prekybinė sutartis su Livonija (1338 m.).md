@@ -15,7 +15,8 @@ datos:
   - '1338 m. lapkričio 1 d.'
 periodas: ''
 periodo_grupes: []
-amziai: []
+amziai:
+  - 'XIV'
 date_start: '1338'
 date_end: '1338'
 vaidmenys: []

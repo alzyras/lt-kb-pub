@@ -42,11 +42,6 @@ tags:
   - 1920 m. liepos 12 d.
   - 1924 m.
   - 1934 m.
-- periodas:
-- periodo_grupes:
-- amziai:
-- date_start:
-- date_end:
 
 ## Reikšmė iš konteksto
 Terminas vartojamas tiek kalbant apie Lietuvos valdžią Klaipėdos krašte, tiek apie tarptautinių sutarčių įsipareigojimą gerbti valstybių suverenumą ir teritorinį vientisumą.
@@ -199,7 +194,6 @@ Suverenitetas pateikiamas kaip teisinė valstybės teisė valdyti teritoriją ir
     - t-007
 
 ## Šaltiniai ir įrodymai
-
 
 ## Pastabos
 - registras turi artimą viešą įrašą `Suverenitetas`; čia pateikiama šaltinio vartosena ir variantas `suverenumas`; šaltinis terminą vartoja istoriškai, o ne teoriškai, todėl aiškinant reikės saugoti kontekstą.

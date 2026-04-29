@@ -13,7 +13,8 @@ datos:
   - '1970 m.'
 periodas: ''
 periodo_grupes: []
-amziai: []
+amziai:
+  - 'XX'
 date_start: '1964'
 date_end: '1970'
 vaidmenys: []

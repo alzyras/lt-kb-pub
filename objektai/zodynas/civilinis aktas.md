@@ -35,12 +35,6 @@ Civilinis aktas čia reiškia pasaulietinį veiksmą, kuriam, autoriaus pateikia
 
 ## Laikotarpis ir datos
 - laikotarpis: Aiškus vartojimo laikas nenurodytas.
-- datos:
-- periodas:
-- periodo_grupes:
-- amziai:
-- date_start:
-- date_end:
 
 ## Reikšmė iš konteksto
 Sąvoka nusako veiksmą, priešinamą bažnytinei ceremonijai ir vartojamą aptariant karaliaus vainikavimo teisinį pobūdį.

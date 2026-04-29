@@ -39,7 +39,6 @@ Buržuazinė istoriografija šiame kontekste yra sovietinių istorikų atmesta a
   - 1957 m.
   - 1958 m.
 - periodas: "siuolaikine_istorija"
-- periodo_grupes:
 - amziai:
   - XX
 - date_start: "1957"

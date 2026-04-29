@@ -31,12 +31,8 @@ Lydos pilis šiame šaltinyje minima kaip mūrinė pilis, kuri turėjo būti pas
 
 ## Laikotarpis ir datos
 - laikotarpis: Vytauto valdymo pradžia
-- datos:
 - periodas: viduramziai
-- periodo_grupes:
 - amziai: XV
-- date_start:
-- date_end:
 
 ## Kas tai
 Tai pilis, minima tarp ankstyvųjų Vytauto mūro statybų.

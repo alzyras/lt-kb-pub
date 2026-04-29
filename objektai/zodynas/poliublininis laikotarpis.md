@@ -40,11 +40,6 @@ Vartojamos formos: pirmais poliublininiais dešimtmečiais, poliublininiame laik
 - laikotarpis: po `1569 m.
 - datos:
   - po `1569 m.
-- periodas:
-- periodo_grupes:
-- amziai:
-- date_start:
-- date_end:
 
 ## Reikšmė iš konteksto
 
