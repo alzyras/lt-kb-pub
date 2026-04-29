@@ -32,7 +32,8 @@ Kryžiuočiai savo žygiuose nešė kryžių ant kardo galo.
   santrauka: Kryžiuočiai savo žygiuose nešė kryžių ant kardo galo.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Tad Gediminui politinės aplinkybės krikštui tapo gana nepalankios, nes teisę krikštyti Lietuvą tik sau tepripažino kry-
+    Tad Gediminui politinės aplinkybės krikštui tapo gana
+    nepalankios, nes teisę krikštyti Lietuvą tik sau tepripažino kry­
     žiuočiai, kurie uoliai savo žygiuose nešė kryžių ant kardo galo.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -40,6 +41,8 @@ Kryžiuočiai savo žygiuose nešė kryžių ant kardo galo.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+    - t-001
+    - t-001
     - t-001
 
 ## Ryšiai

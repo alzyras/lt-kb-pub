@@ -76,6 +76,9 @@ tags:
 - t-005
   teiginys: 'Ivinskis Saulės mūšį lokalizuoja prie Saulės, Šiaulių srityje, ir datuoja 1236 m. rugsėjo 22 d.'
   pagrindžia:
+    - c-010
+    - c-007
+    - c-006
     - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
@@ -169,6 +172,58 @@ tags:
   pagrindžia:
     - t-005
     - t-006
+- c-006
+  santrauka: Saulės kautynės (1236.IX.22) papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vėl pasitelkę jungtinę vietinių tautų kariuomenę ir gavę
+    Vokietijos kryžininkų talkos, riteriai suruošė didelį žygį į šiaurinę
+    Lietuvą. Grįždami prie Saulės (« kein Soule sie karten wider »), t.y.
+    Šiaulių srityje, pelkėtoje vietoje, jie Žemaičių kunigaikščio Vykinto^75
+    vadovaujamų būrių buvo sumušti (šv. Mauricijaus dieną, 1236.IX.22).
+    Daugybės žuvusiųjų tarpe buvo pats Volkevinas ir 48 riteriai 7#,
+    o kitus bėglius pakelyje žudė žiemgaliai^77
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-005
+- c-007
+  santrauka: Saulės kautynės (1236.IX.22) papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Popiežius Grigalius IX savo bulėje (LUB I, 191) minėjo 50 kritusių
+    riterių. Tokius pat skaičius užrašė Chronicon Olivense ir Chronicon Hermanui
+    de Wartberge (SRP I, 681 ; II, 33 34). Tos kronikos pamini taip pat mirtį
+    « daugybės kryžininkų » (pilgrimų). Didž. Naugardo ir Tverės metraščiai pa­
+    mini, kad** **_užjūrio_** **vokiečiai su didele jėga buvo atvykę Rygon (« priidoša Nemce
+    v sile velice iz zamorija v Rigu »). Tie šaltiniai taip pat patvirtina Eiliuotinės
+    kronikos žinią, kad Saulės kautynėse dalyvavo ir** **_Ruzen_** **(LReim 1889-1890).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-005
+    - t-005
+    - t-005
+- c-010
+  santrauka: Saulės-Šiaulių kautynės papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Saulės-Šiaulių kautynės 1, 65, 66,
+    149, 158, 160, 168, 169, 181, 208,
+    210
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai

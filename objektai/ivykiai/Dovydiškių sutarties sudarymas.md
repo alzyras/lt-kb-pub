@@ -30,6 +30,7 @@ Dovydiškių sutartis buvo slapta Jogailos ir kryžiuočių sutartis, surašyta 
 - t-002
   teiginys: '1380 m. gegužės 31 d. Jogaila slapta sudarė Dovydiškių sutartį su kryžiuočiais medžioklės metu, turbūt arti Gardino.'
   pagrindžia:
+    - c-005
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
@@ -118,3 +119,19 @@ Dovydiškių sutartis buvo slapta Jogailos ir kryžiuočių sutartis, surašyta 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.) papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Svarbesnė buvo jo nauja taikos sutartis su kry­
+    žiuočiais — per 8 mėnesius iš eilės jau trečias dokumentas. Jis
+    buvo surašytas slapta, medžioklės metu Dovydiškėse, tur būt, arti
+    Gardino (1380.V.31).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
+    - t-002

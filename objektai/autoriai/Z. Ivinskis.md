@@ -61,6 +61,8 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 - t-004
   teiginys: 'Ivinskis, Z. (Bražėnas) nurodomas kaip tekstų „Lietuvių tautos istorijos periodizacijos metmens“ ir „Lietuvos ir kitų baltų praeitis sovietų aiškinime“ autorius.'
   pagrindžia:
+    - c-010
+    - c-009
     - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
@@ -209,6 +211,54 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: Ivinskis, Z. papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ivinskis, Z. : _Lietuvos vakarų sienos bei Klaipėdos
+    klausimas Vytauto laikais_ , NaR, nr. 120 ir 121, 1933, 371-373, 385-
+    386 p. — (”) _Konstancos susirinkimas_ , LE, t. 12, 372-375 p. — (”) _Že­
+    maičių (Medininkų) vyskupijos įkūrimas (1417) ir jos reikšmė lietuvių
+    tautai_ (1417-1967), LASD, t. 7, 55-132 p. (gausi bibliogr.).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-004
+- c-010
+  santrauka: Z. Ivinskis papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    85) **K. Žukas :** **_Prof. K. Jablonskio bibliografija_** **, Bibliotekininkystės ir
+    bibliografijos klausimai, IV t., 1965, 155-206 p. ; Z. Ivinskis :** **_Prof. K. Jab­
+    lonskio atminimui (1892-1960). Jo įnašas Lietuvos istorijos mokslui,_** **Aidai,
+    1961, 1 nr., 18-22 p
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-004
+    ### ZENONAS IVINSKIS
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
+    ### ZENONAS IVINSKIS
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

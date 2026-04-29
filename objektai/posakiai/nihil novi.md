@@ -41,7 +41,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Formuluotė šiame pasakojime pateikiama kaip konstitucinė privilegijos formulė.'
+  teiginys: "Ši formuluotė pateikiama kaip konstitucinė privilegijos formulė."
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -49,15 +49,18 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: konstitucinė privilegijos formulė
+  santrauka: Citata pateikia tiesioginį įrašo „nihil novi“ šaltinio pagrindą.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Lenkijoje nuo 1505 m. veikė privilegija, kuria karalius buvo pasižadėjęs neįvesti „nieko naujo" be senato ir bajorijos atstovų sutikimo (dėl to ta privilegija ir vadinama „ _nihil novi" —_ „nieko naujo").`
+    Lenkijoje nuo 1505 m. veikė privilegija, kuria karalius buvo
+    pasižadėjęs neįvesti „nieko naujo" be senato ir bajorijos
+    atstovų sutikimo (dėl to ta privilegija ir vadinama „ _nihil novi" —_
+    „nieko naujo").
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata rekonstruota iš verified canonical evidence."
   pagrindžia:
     - t-001
 

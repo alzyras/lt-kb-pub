@@ -22,6 +22,7 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
 - t-001
   teiginys: 'Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir Lenkijos sustabdyti karo veiksmus, nustatė demarkacijos liniją (Kerzono linija, 1919 gruodžio 8 d.) ir pasiuntė kontrolės komisiją, — lenkų kariuomenė peržengė tą liniją ir veržėsi į.'
   pagrindžia:
+    - c-003
     - c-001
 - t-002
   teiginys: 'Tautų Sąjunga norėjo, kad tas žmonių atsiklausimas būtų visai laisvas ir teisingas, todėl reikalavo, kad lenkų kariuomenė išsikraustytų iš okupuoto krašto ir kad ją pakeistų internacionaliniai, specialiai plebiscito reikalui sudaryti, pulkai.'
@@ -61,3 +62,20 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: Tautų Sąjunga papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Metai pirmosios komunistų, lygiai kaip ir beveik vėl pilni
+    treji metai antros vokiečių okupacijos, žinoma, buvo tiesioginė
+    išdava II-jo pasaulinio karo. Vos tik rytinio Pabaltijo erdvėje
+    pasikeitė politinių jėgų santykiai, galutinai žlugo Versalio taikos
+    (1919) ir tada pagimdytos Tautų Sąjungos sistema.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+    - t-001

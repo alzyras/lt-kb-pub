@@ -20,6 +20,7 @@ Moora, Die Vorzeit Estlands (1932).
 - t-001
   teiginys: 'Moora, Die Vorzeit Estlands (1932).'
   pagrindžia:
+    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
@@ -35,6 +36,21 @@ Moora, Die Vorzeit Estlands (1932).
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
+    - t-001
+- c-002
+  santrauka: H. Moora papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Moora, H.:
+    _Die Eisenzeit in Lettland,_ Sitzungsberichte der Gelehrten Estnischen
+    Gesellschaft, I, Tartu 1929 ; TI, 1938.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
     - t-001
 
 ## Ryšiai

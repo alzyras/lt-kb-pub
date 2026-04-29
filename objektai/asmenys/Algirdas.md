@@ -96,6 +96,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - t-010
   teiginys: 'Paliuosuodamas Rusios žemes iš totorių jungo ir palikdamas ankstesnę tvarką, Algirdas labiausiai išplėtė savo valdžią į rytus ir pietus.'
   pagrindžia:
+    - c-011
     - c-010
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
@@ -255,6 +256,19 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: Algirdas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vytauto senelis ir vėliau jo dėdė Algirdas iš senosios
+    Kijevo Rusios įsigijo plačias teritorijas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-010
 

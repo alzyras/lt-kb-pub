@@ -28,12 +28,14 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
 - t-001
   teiginys: 'Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiškai visuomenei'
   pagrindžia:
+    - c-010
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
   teiginys: 'Lenkai yra Traidenio karo priešininkai'
   pagrindžia:
+    - c-011
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -58,6 +60,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
 - t-006
   teiginys: 'Lenkai atmeta lietuvių projektą ir reikalauja remtis Melniko bei Varšuvos receso aktais'
   pagrindžia:
+    - c-009
     - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -178,7 +181,52 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+- c-009
+  santrauka: Lenkai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tad lenkai lietuvių žygių iš tolo bijodavę.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-006
+- c-010
+  santrauka: Lenkai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kariuomenės taip išsirikiavo, kad ordino dešinysis sparnas
+    buvo pastatytas prieš lenkų kairįjį sparną, kuris siekė Ludwigsdorfo
+    mišką.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+- c-011
+  santrauka: Lenkai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vyriausioji Lenkijos vėliava pateko į priešų rankas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
+    - t-006
+    - t-001
+    - t-002
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XV amžius]]
+
 ### Susiję objektai
 - [[objektai/daiktai/Karūna]]
+- [[objektai/daiktai/Vėliavos]]

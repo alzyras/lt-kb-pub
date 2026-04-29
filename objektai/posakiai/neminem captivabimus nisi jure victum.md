@@ -34,7 +34,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Formuluotė šiame pasakojime pateikiama kaip bajorų neliečiamybės privilegijos lotyniška formulė.'
+  teiginys: "Ši formuluotė pateikiama kaip bajorų neliečiamybės privilegijos lotyniška formulė."
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -42,15 +42,18 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: bajorų neliečiamybės privilegijos lotyniška formulė
+  santrauka: Citata pateikia tiesioginį įrašo „neminem captivabimus nisi jure victum“ šaltinio pagrindą.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    kuria ir Lietuvoje buvo įvesta teisė, neleidžianti nė vieno bajoro suimti be teismo sprendimo (tai vadinamoji „neminem captivabimus nisi jure victum“ privilegija).
+    kuria
+    ir Lietuvoje buvo įvesta teisė, neleidžianti nė vieno bajoro suimti
+    be teismo sprendimo (tai vadinamoji _„neminem captivabimus
+    nisi jure victum"_ privilegija).
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata rekonstruota iš verified canonical evidence."
   pagrindžia:
     - t-001
 

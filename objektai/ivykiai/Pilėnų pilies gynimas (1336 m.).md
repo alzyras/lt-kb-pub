@@ -50,13 +50,7 @@ Pilėnų gynėjai pasirinko žūtį ugnyje vietoj pasidavimo vokiečiams.
 
 ## Teiginiai
 - t-001
-  teiginys: 1336 m. Pilėnų pilį gynė kunigaikščio Margio vadovaujami lietuviai.
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: Pilėnų gynėjai, nebegalėdami apsiginti, pasirinko žūti ugnyje, o ne pasiduoti vokiečiams.
+  teiginys: "1336 m. kunigaikščio Margio vadovaujami lietuviai gynė Pilėnų pilį."
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -64,18 +58,19 @@ Pilėnų gynėjai pasirinko žūtį ugnyje vietoj pasidavimo vokiečiams.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Tiesiogiai aprašo Pilėnų gynimą, Margio vadovavimą ir gynėjų apsisprendimą žūti ugnyje.
+  santrauka: Citata pateikia tiesioginį įrašo „Pilėnų pilies gynimas (1336 m.)“ šaltinio pagrindą.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Iš šito laikotarpio yra žinomas ir Pilėnų pilies gynimas. Kunigaikščio Margio vadovaujami lietuviai, kai matėsi nebeapsiginsią, bemeilijo žūti ugny, negu pasiduoti vokiečiams (1336 m.).
-  citata_rodoma: ''
+    Iš šito laikotarpio yra žinomas ir Pilėnų pilies gynimas.
+    Kunigaikščio Margio vadovaujami lietuviai, kai matėsi nebeapsi-
+    ginsią, bemeilijo žūti ugny, negu pasiduoti vokiečiams (1336 m.).
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata rekonstruota iš verified canonical evidence."
   pagrindžia:
     - t-001
-    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

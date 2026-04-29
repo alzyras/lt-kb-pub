@@ -55,7 +55,8 @@ Vyriausioji Lenkijos vėliava pateko į priešų rankas. Lietuvos pulkai paskui 
   santrauka: Lietuvos pulkai paskui save buvo patraukę eilę priešo vėliavų.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,
+    Vytauto vadovaujami
+    Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,
     sugrįžo į kovos lauką.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -68,7 +69,7 @@ Vyriausioji Lenkijos vėliava pateko į priešų rankas. Lietuvos pulkai paskui 
   santrauka: 1410 m. rudenį Transilvanijos vaivada puolė Lenkiją su 10 vėliavų.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Pvz., Zig-
+    Pvz., Zig­
     manto skatinamas Transilvanijos vaivada 1410 m. rudenį puolė
     Lenkiją su 10 vėliavų^38.
   citata_rodoma: ""
@@ -78,7 +79,13 @@ Vyriausioji Lenkijos vėliava pateko į priešų rankas. Lietuvos pulkai paskui 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/simbolis]]
+
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]

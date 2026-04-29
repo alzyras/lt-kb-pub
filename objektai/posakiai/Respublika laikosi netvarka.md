@@ -41,7 +41,6 @@ tags:
   teiginys: 'Formuluotė šiame pasakojime pateikiama kaip senasis bajoriškos netvarkos pateisinimo posakis.'
   pagrindžia:
     - c-001
-    - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
@@ -50,24 +49,12 @@ tags:
   santrauka: senasis bajoriškos netvarkos pateisinimo posakis
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kiek vėliau įėjo į madą posakis: „Respublika laikosi netvarka"
+    Kiek vėliau įėjo
+    į madą posakis: „Respublika laikosi netvarka"
     (t. y. netvarkos dėka): esą, laisva bajorų Respublika esanti
     netvarkinga, užtat niekam ir nepavojinga, — todėl jos niekas
     nepulsiąs; taigi bajorija galinti džiaugtis savo laisve ir niekuo
     nesirūpinti.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: senasis bajoriškos netvarkos pateisinimo posakis
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    O visa tai pirštu prikišamai rodė bajorijai, jog senasis posakis, kad Respublika laikantisi netvarka,
-    yra neteisingas;
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

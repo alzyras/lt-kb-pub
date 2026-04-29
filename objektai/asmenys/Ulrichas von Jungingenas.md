@@ -117,3 +117,4 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
 
 ### Susiję objektai
 - [[objektai/daiktai/Du pliki kardai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

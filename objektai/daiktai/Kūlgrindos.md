@@ -61,8 +61,10 @@ Jos tarnavo slaptam susisiekimui tarp pilių ir apsaugai nuo priešo.
   santrauka: Apibrėžia kūlgrindas kaip slaptus akmenimis grįstus kelius ir nusako jų naudojimą.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tie keliai būdavo tokie vingrūs ir pilni klastingų posūkių, kad jais tegalėjo eiti tik pri-
-    tyrusio vadovo vedami žmonės; niekas svetimas negalėjo jais naudotis. Tokie akmenimis grįsti keliai žemaičių buvo vadinami
+    Tie keliai būdavo tokie
+    vingrūs ir pilni klastingų posūkių, kad jais tegalėjo eiti tik pri-
+    tyrusio vadovo vedami žmonės; niekas svetimas negalėjo jais
+    naudotis. Tokie akmenimis grįsti keliai žemaičių buvo vadinami
     kūlgrindomis (kūlis—akmuo). Ir dabar dar galima rasti
     Lietuvoje tokių kelių liekanų.
   citata_rodoma: ''

@@ -50,6 +50,7 @@ Salyno sutartis buvo 1398 m. Vytauto ir didžiojo magistro susitarimas, galutina
 - t-005
   teiginys: 'Salyno suvažiavimo puotoje Vytautas buvo paskelbtas Lietuvos karaliumi.'
   pagrindžia:
+    - c-006
     - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
@@ -150,3 +151,20 @@ Salyno sutartis buvo 1398 m. Vytauto ir didžiojo magistro susitarimas, galutina
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: Salyno suvažiavimas ir jo reikšmė papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    **b. Salyno suvažiavimas ir jo reikšmė........................ 326**
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-005
+    - t-005
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/paliaubos]]

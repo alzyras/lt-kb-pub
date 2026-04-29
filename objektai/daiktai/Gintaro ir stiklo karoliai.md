@@ -31,13 +31,16 @@ Buvo mėgiami gintaro ir stiklo karoliai.
   santrauka: Buvo mėgiami gintaro ir stiklo karoliai.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Kaip ir ankstyvesniais laikais, buvo mėgiami gintaro, stiklo karoliai.
+    Kaip ir ankstyvesniais laikais, buvo mėgiami gintaro, stiklo karo­
+    liai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+    - t-001
+    - t-001
     - t-001
 
 ## Ryšiai

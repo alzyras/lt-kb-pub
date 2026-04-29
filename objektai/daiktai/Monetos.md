@@ -31,10 +31,10 @@ Nuo Vytauto laikų Lietuvoje buvo kalamos monetos.
   santrauka: Nuo Vytauto laikų Lietuvoje buvo kalamos monetos.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Pagaliau pasibaigus karams su kryžiuo-
-    čiais (1422 m.—su Prūsų, 1435 m.—su Livonijos), prasidėjo vi-
+    Pagaliau pasibaigus karams su kryžiuo­
+    čiais (1422 m.—su Prūsų, 1435 m.—su Livonijos), prasidėjo vi­
     daus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais
-    (Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo-
+    (Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­
     netos, liejami pabūklai, varpai.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -42,6 +42,8 @@ Nuo Vytauto laikų Lietuvoje buvo kalamos monetos.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+    - t-001
+    - t-001
     - t-001
 
 ## Ryšiai

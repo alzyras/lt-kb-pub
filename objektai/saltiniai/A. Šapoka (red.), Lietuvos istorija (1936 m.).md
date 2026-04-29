@@ -48,12 +48,6 @@ tags: []
 - Į vadovėlį įterpta aiškinamosios medžiagos: žemėlapių, schemų ir iliustracijų.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Leidinys yra A. Šapokos redaguota „Lietuvos istorija“, išleista Kaune 1936 m.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-002
   teiginys: 'Leidinys pažymėtas kaip Knygų Leidimo Komisijos leidinys Nr. 479 ir išspausdintas „Šviesos“ spaustuvėje Kaune.'
   pagrindžia:
@@ -229,10 +223,6 @@ tags: []
     - t-011
 
 ## Bibliografiniai įrodymai
-- c-001
-  santrauka: Antraštinis lapas nurodo leidinio pavadinimą, redaktorių, leidėjinį pažymėjimą ir leidimo vietą bei metus.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
     # LIETUVOS
 
     # ISTORIJA

@@ -49,6 +49,7 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
 - t-002
   teiginys: 'B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais XV amžiuje.'
   pagrindžia:
+    - c-009
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
@@ -84,7 +85,8 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
   santrauka: B. Dundulis apibūdinamas kaip XV a. kovų su kryžiuočiais tyrinėtojas
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Lietuvių santykius ir kovas su kryžiuočiais XV-ame a. išsamiai tyrinėja
+    Lietuvių
+    santykius ir kovas su kryžiuočiais XV-ame a. išsamiai tyrinėja
     B. Dundulis 108.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -97,11 +99,12 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
   santrauka: Vienoje bibliografinėje ištraukoje pateikti du B. Dundulio darbai apie Žemaitijos sienas ir Konstancą
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    B. Dundulis : _Lietuvos konfliktas su ordinu dėl Žemaitijos sienų ir imperatoriaus atstovo
+    B. :
+    _Lietuvos konfliktas su ordinu dėl Žemaitijos sienų ir imperatoriaus atstovo
     B. Makros misija Lietuvoje 1413 m._ , IstV, t. 1, 1958, 127-152 p. — (”)
     _Lietuvos kova prieš kryžiuočius Konstanco bažnytiniame susirinkime (1414-
     1418),_ VU, 1st.-Filolog, mokslų serija, t. 4, 1958, 5-25 p. — Ehrlich,
-    L. : _Paweł Włodkowic i Stan. ze Skarbimierzą_ , Warszawa 1954.
+    L. : _Paweł Włodkowic i Stan. ze Skarbimierzą_ , Warszawa 1954
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -113,7 +116,8 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
   santrauka: Atskira nuoroda susieja B. Dundulį su darbu apie sąjungą su husitais
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Plg. B. Dundulis : _Lietuvos sąjunga su husitais_ VUMD, t. 13, 1957, 60 p.
+    Plg. B. Dundulis :** **_Lietuvos
+    sąjunga su husitais_** **VUMD, t. 13, 1957, 60 p.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -121,6 +125,25 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+    - t-003
+    - t-003
+    - t-004
+    - t-004
+- c-009
+  santrauka: Dundulis, B. papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Dundulis, B. : _Žemaičių sukilimai prieš teutoniškuosius pavergėjus
+    1401 ir 1409 m.,_ VUMD, t. 6, 1955, 118-147 p. (išsamiai tyrinėti šalti­
+    niai). — Goyski, W. : _Wzajemne stosunki Polski, Litwy i Zakonu w latach
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

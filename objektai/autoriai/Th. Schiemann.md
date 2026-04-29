@@ -20,6 +20,7 @@ Schiemann, Russland, Polen und Livland bis ins 17.
 - t-001
   teiginys: 'Schiemann, Russland, Polen und Livland bis ins 17.'
   pagrindžia:
+    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
@@ -34,5 +35,18 @@ Schiemann, Russland, Polen und Livland bis ins 17.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: Th. Schiemann papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    (^1) **Th.** Schiemann **:** **_Russland, Polen und Livland,_** **I, Berlin 1886, 244 p.
+    (« In ihm starb einer der grössten Staatsmänner des Mittelalters »).**
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001

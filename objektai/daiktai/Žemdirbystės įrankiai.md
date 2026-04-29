@@ -54,10 +54,10 @@ Lydimojoje žemdirbystėje laukas buvo purenamas žagre. Geležinis kirvis padė
     pabaigus, buvo išskinami medžiai ir paliekami vietoje džiūti iki
     kito pavasario. Skynime maždaug lygiai paskirsčius nukirstus
     medžius ir krūmus su virbais, išskintas plotas buvo nulydomas
-    (nudeginamas). Ugnies paliestą lauką nuvalius, nuodėgulius nurin-
+    (nudeginamas). Ugnies paliestą lauką nuvalius, nuodėgulius nurin­
     kus ir pelenus lygiai pasklaidžius, laukas buvo purenamas (žagre),
     kad pelenai patektų į žemę. Apie tikrą dirvos išplėšimą ir išarimą
-    priešistoriniais laikais dar nebuvo kalbos, nes žagrė galėjo pra-
+    priešistoriniais laikais dar nebuvo kalbos, nes žagrė galėjo pra­
     drėksti žemę tik tarp pasilikusių medžio kelmų ir šaknynų.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -70,7 +70,8 @@ Lydimojoje žemdirbystėje laukas buvo purenamas žagre. Geležinis kirvis padė
   santrauka: Geležinis kirvis padėjo apaugusius plotus paversti dirva.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Metalų amžiuje žemės darbas plėtėsi, juo labiau kad geležinis kirvis padėjo net apaugusius
+    Metalų amžiuje žemės dar­
+    bas plėtėsi, juo labiau kad geležinis kirvis padėjo net apaugusius
     plotus paversti dirva.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -87,7 +88,7 @@ Lydimojoje žemdirbystėje laukas buvo purenamas žagre. Geležinis kirvis padė
     naudoti gyvulio traukiamoji jėga, pirmoje eilėje jaučių jungas. Bet
     į arklą buvo kinkomas ir arklys, tuo būdu nuo traukiamo žemės
     darbo įrankio, šalia « žirgo » ir « ašvienio », gavęs trečią pavadinimą.
-    Į priešistorinių laikų galą buvo pradėta vartoti arklai ir su gele-
+    Į priešistorinių laikų galą buvo pradėta vartoti arklai ir su gele­
     žiniu noragu. XVI amž. žinios (Herberstein, Guagnini, Lasicius),
     jog Žemaičiuose tebuvę vartojami mediniai arklų noragai, nėra
     tikslios. Dar priešistorinių laikų epochoje ėmus vartoti ir kitus
@@ -117,6 +118,7 @@ Lydimojoje žemdirbystėje laukas buvo purenamas žagre. Geležinis kirvis padė
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -20,6 +20,7 @@ Gediminas valstybę stiprino ne tik karu ir diplomatija, bet ir dinastinėmis va
 - t-001
   teiginys: 'Tačiau ir čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo sūnų bei dukterų vedybomis.'
   pagrindžia:
+    - c-004
     - c-001
 
 - t-002
@@ -82,6 +83,21 @@ Gediminas valstybę stiprino ne tik karu ir diplomatija, bet ir dinastinėmis va
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: Gedimino dinastinė vedybų politika papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Veikdamas kardu, diplomatija (santykiai su Ryga ir Vladislovu
+    Łokietka) ir apdairiomis vaikų vedybomis, Gediminas išugdė vals­
+    tybę, kurios stiprybė nesibaigė jo mirtimi.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

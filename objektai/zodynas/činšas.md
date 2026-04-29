@@ -137,3 +137,4 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XIV amžius]]

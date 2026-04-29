@@ -87,7 +87,8 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
   santrauka: Papildo vėliavų rinkinio istoriją vėlesniu papildymu ir žūtimi.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Prie to rinkinio vėliau dar buvo pridėtos kitos 5 vėliavos, paimtos kituose mū-
+    Prie
+    to rinkinio vėliau dar buvo pridėtos kitos 5 vėliavos, paimtos kituose mū-
     šiuose. Dabar jos jau yra žuvusios.
   citata_rodoma: ''
   teiginio_tipas: faktas

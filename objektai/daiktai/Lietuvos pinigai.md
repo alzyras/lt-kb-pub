@@ -137,6 +137,7 @@ Pinigai naudoti atsiskaitymui, o jų formos ir ženklai atspindėjo valdovo laik
   citata_originali: |
     1—3 Seniausieji Lietuvos sidabro pinigai — kapos, lietos iš sidabro
     tam tikrose formose. Jų randama įvairių — ilgų ir perpus trumpesnių
+
     (kartais perkirstų per pusę), su įvairiais ženklais ir be jokių ženklų, su
     įkirtimais ir be įkirtimų, sunkesnių ir lengvesnių.
   citata_rodoma: ''

@@ -74,8 +74,8 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
   santrauka: Autorius pats įvardijamas kaip Kojalavičiaus teksto perdirbėjas
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Autorius nuoširdžiai prisi-
-    pažino, kad jis davęs ne originalų veikalą, o tik perdirbęs ir su-
+    Autorius nuoširdžiai prisi­
+    pažino, kad jis davęs ne originalų veikalą, o tik perdirbęs ir su­
     trumpinęs Kojalavičių, kurio vertę, kaip istoriko, aukštai kėlė.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -98,6 +98,8 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+    - t-002
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

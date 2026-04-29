@@ -134,3 +134,4 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 - [[objektai/ivykiai/Lucko suvažiavimas (1429 m.)]]
 - [[objektai/vietos/Voluinė]]
 - [[objektai/vietos/Trakai]]
+- [[objektai/asmenys/Vytautas]]

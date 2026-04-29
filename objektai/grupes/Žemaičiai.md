@@ -24,6 +24,7 @@ datos:
 patikimumas: 'aukštas'
 tags:
   - grupe
+  - sukilimas
 ---
 # Žemaičiai
 
@@ -70,6 +71,7 @@ tags:
 - t-007
   teiginys: 'Žemaičiai aiškiai siejami su visuotiniu sukilimu prieš ordino spaudimą'
   pagrindžia:
+    - c-017
     - c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -94,6 +96,7 @@ tags:
 - t-012
   teiginys: 'Žemaičiai po savo laimėjimo siuntė pasiuntinius pas Mindaugą ir per Treniotą ragino jį grįžti pagonybėn.'
   pagrindžia:
+    - c-023
     - c-012
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
@@ -118,6 +121,8 @@ tags:
 - t-016
   teiginys: 'Žemaičiai didžiajai Lietuvos kunigaikštijai buvo pripažinti tik iki pusbrolių gyvos galvos.'
   pagrindžia:
+    - c-019
+    - c-018
     - c-016
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
@@ -348,7 +353,81 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
+- c-017
+  santrauka: Žemaičiai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Veiklusis rungtyniautojas prieš Kęstutį ordino vyriausias ma­
+    gistras Winrichas von Kniprodė (1352-1382), septyniom savaitėm
+    anksčiau prieš šį Gediminaitį įžengęs į grabą, per 30 metų dėjo
+    dideles pastangas ordinui laimėti bent Žemaičius.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-007
+- c-018
+  santrauka: Žemaičiai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tuo tarpu dažniau lankomoms vietovėms ginti Žemaičių
+    aukštumose ištisais dešimtimis kilometrų buvo padarytos suverstų
+    šakotų ir aštriais dygliais medžių užtvaros — « apkirtimai » (Ver­
+    baue), kuriuos pereiti buvo sunku.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-016
+- c-019
+  santrauka: Žemaičiai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Bet ir šis bandymas neturėjo pasisekimo. Lietuviai, akivaiz­
+    džiai įsitikinę, kaip ordino žemėse su krikštijimu buvo susijęs
+    pavergimas, norėjo apdrausti savo saugumą ir reikalavo garantijų.
+    Besitęsiantys kruvini karai, kurių metu ordinas nė karto (iki 1382)
+    nesiderėjo dėl Lietuvos kunigaikščių krikšto, sunkino apsispren­
+    dimą O valdantieji kunigaikščiai atsižvelgė ir į nusistatymus
+    Aukštaičių ir Žemaičių, kurie labiausiai nešė įtemptos kovos naštą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-016
+    - t-007
+    - t-016
+    - t-016
+- c-023
+  santrauka: Žemaičiai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kai Kęstutis su Vytautu, pasitelkę seną Liubartą, su
+    savo kariuomene VIII.3 d. atvyko prie Trakų, Jogailos pusėje jau
+    buvo pasirodę Livonijos kryžiuočiai, atvykę čia po Žemaičių terio-
+    jimo^18.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-012
+    - t-012
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/sukilimas]]
+
+### Laikotarpiai
+- [[laikotarpiai/XV amžius]]
+
 ### Susiję objektai
 - [[objektai/paprociai/Taikos patvirtinimas sudaužiant delnus]]
+- [[objektai/grupes/Rygiečiai]]

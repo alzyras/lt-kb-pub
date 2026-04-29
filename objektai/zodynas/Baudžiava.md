@@ -23,8 +23,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
-tags:
-  - privilegija
+tags: []
 ---
 # Baudžiava
 
@@ -60,12 +59,6 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
   teiginys: Baudžiava reiškė valstiečių beteisę priklausomybę, iš kurios nebuvo galima lengvai grąžinti atleistųjų.
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: Nuo valako baudžiava galėjo būti nustatyta kaip trys dienos per savaitę vyrui su arkliu ir viena diena moteriai.
-  pagrindžia:
-    - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-005
@@ -120,20 +113,6 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-- c-004
-  santrauka: Baudžiava nusakoma kaip tiksliai apskaičiuota lažo prievolė nuo valako.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Inventoriuose, pavyzdžiui, buvo nustatyta, kad nuo valako turi eiti dva-
-    rui baudžiavą 3 dienas savaitėje vyras su arkliu ir 1 dieną mo-
-    teris; už kitų dienų darbus turėjo būti atlyginama nustatyta taksa.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
 - c-005
   santrauka: Baudžiavos panaikinimas siejamas su 1861 m. manifestu ir išpirkos teise.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -157,7 +136,6 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/teisinis-terminas]]
-- [[temos/privilegija]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]

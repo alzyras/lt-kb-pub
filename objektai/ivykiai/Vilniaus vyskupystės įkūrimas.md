@@ -12,6 +12,7 @@ patikimumas: 'vidutinis'
 tags:
   - ivykis
   - vyskupas
+  - krikštas
 ---
 # Vilniaus vyskupystės įkūrimas
 
@@ -77,3 +78,7 @@ Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedr
   pagrindžia:
     - t-002
     - t-003
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/krikštas]]

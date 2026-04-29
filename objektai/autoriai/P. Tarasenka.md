@@ -21,6 +21,8 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
 - t-001
   teiginys: 'Tarasenka, Lietuvos archeologijos medžiaga (1929); B.'
   pagrindžia:
+    - c-004
+    - c-003
     - c-001
 - t-002
   teiginys: 'Tarasenka, Apeiginiai L.'
@@ -54,6 +56,33 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: P. Tarasenka papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tarasenka, P. : _Lietuvos archeologijos medžiaga,_ Kaunas 1929.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+- c-004
+  santrauka: P. Tarasenka papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    (”)
+    _Lietuvos piliakalniai,_ Vilnius 1956.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+    - t-001
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

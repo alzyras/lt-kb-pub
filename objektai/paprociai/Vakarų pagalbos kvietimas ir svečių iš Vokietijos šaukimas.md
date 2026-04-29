@@ -121,5 +121,8 @@ Livonijos ordino ir kryžiuočių aplinkoje vakarietiškos pagalbos šaukimasis 
     - t-004
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIII amžius]]
+
 ### Susiję objektai
 - [[objektai/grupes/Kalavijuočių ordinas]]

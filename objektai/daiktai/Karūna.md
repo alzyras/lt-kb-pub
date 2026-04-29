@@ -39,6 +39,7 @@ Karūna šiame šaltinyje siejama su Mindaugo, Kęstučio ir Vytauto valdžios l
 - t-005
   teiginys: 'Popiežius Mindaugui suteikė karaliaus vainiką, o Livonijos ordino pagalba išrūpinta karūna buvo uždėta 1253 m.'
   pagrindžia:
+    - c-013
     - c-005
     - c-006
     - c-007
@@ -246,6 +247,21 @@ Karūna šiame šaltinyje siejama su Mindaugo, Kęstučio ir Vytauto valdžios l
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-009
+- c-013
+  santrauka: Karūna papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tiesa,
+    popiežius palankiai sutiko Mindaugo žygį in suteikė jam karaliaus
+    vainiką. Bet siekdami savų tikslų, Livonijos ordinas ir Rygos arki­
+    vyskupas kliudė jam tapti nepriklausomu.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai

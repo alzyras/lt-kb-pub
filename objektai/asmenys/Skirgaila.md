@@ -25,6 +25,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
 - t-002
   teiginys: 'Jogaila tuo metu buvo išsiuntęs kariuomenę į Polocką; čia buvo ir Skirgaila, paskirtas, po sukilusio Andriaus, Polocko kunigaikščiu.'
   pagrindžia:
+    - c-015
+    - c-014
     - c-002
 - t-003
   teiginys: 'Iš keturių prie jo prisegtų antspaudų, kaip matome, yra likęs tik vienas, — Skirgailos antspaudas, o kiti jau nutrupėję.'
@@ -37,6 +39,7 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
 - t-005
   teiginys: 'Tuomet Jogaila išsiuntė į Lenkiją savo delegaciją, kuriai vadovavo Skirgaila.'
   pagrindžia:
+    - c-016
     - c-005
 - t-006
   teiginys: 'į Lietuvą, Jogaila savo vietininku Lietuvoje paskyrė brolį Skirgailą.'
@@ -271,3 +274,45 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-013
+- c-014
+  santrauka: Skirgaila papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Skirgailos politinis svoris, kurio valdžion pateko svarbios že­
+    mės, turėjo padidėti. Netiksliai jis tačiau pirma buvo laikomas
+    1387-92 pilnu karaliaus vietininku, ar didžiuoju kunigaikščiu Lie­
+    tuvoje^4.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
+- c-015
+  santrauka: Skirgaila papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Iš tikro, Skirgailai bebuvo palik­
+    tas Polockas ir pažadėta Kijevo kunigaikštija.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
+- c-016
+  santrauka: Skirgaila papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Bet visos valdžios valstybėje Skirgaila neturėjo. O Vilnių
+    Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
+    Klemensas Moskorzewskis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-005
