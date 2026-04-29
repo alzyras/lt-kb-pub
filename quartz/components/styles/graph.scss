@@ -32,10 +32,6 @@
     background: color-mix(in srgb, var(--secondary) 11%, transparent);
   }
 
-  .graph-legend-tag {
-    background: color-mix(in srgb, var(--lightgray) 45%, transparent);
-  }
-
   & > .graph-outer {
     border-radius: 5px;
     border: 1px solid var(--lightgray);

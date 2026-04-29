@@ -44,7 +44,7 @@ const defaultOptions: GraphOptions = {
     linkDistance: 30,
     fontSize: 0.6,
     opacityScale: 1,
-    showTags: true,
+    showTags: false,
     removeTags: [],
     focusOnHover: false,
     enableRadial: false,
@@ -66,7 +66,7 @@ const defaultOptions: GraphOptions = {
     linkDistance: 30,
     fontSize: 0.6,
     opacityScale: 1,
-    showTags: true,
+    showTags: false,
     removeTags: [],
     focusOnHover: true,
     enableRadial: true,
@@ -91,7 +91,6 @@ export default ((opts?: Partial<GraphOptions>) => {
           <span class="graph-legend-item graph-legend-object">Objektai</span>
           <span class="graph-legend-item graph-legend-topic">Temos</span>
           <span class="graph-legend-item graph-legend-period">Laikotarpiai</span>
-          <span class="graph-legend-item graph-legend-tag">Tagai</span>
         </div>
         <div class="graph-outer">
           <div class="graph-container" data-cfg={JSON.stringify(localGraph)}></div>
