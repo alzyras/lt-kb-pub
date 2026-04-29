@@ -602,3 +602,4 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 ### Susiję objektai
 - [[objektai/vietos/Astravos dvaras]]
 - [[objektai/asmenys/Jogaila]]
+- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
