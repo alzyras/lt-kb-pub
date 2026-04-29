@@ -7,9 +7,9 @@ tags: []
 
 # privilegija
 
-Šis teminis hub'as jungia objektus pagal patvirtintas, įrodymais paremtas žymas. Per platūs ar tik objektų tipą žymintys tagai į graph hub'us neįtraukiami.
+Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 16. Viešame sąraše rodoma iki 25 objektų; likę paliekami DB projekcijoje, kad Graph netaptų per tankus.
+Objektų skaičius: 19.
 
 ## Kaip naudoti
 
@@ -30,7 +30,9 @@ Objektų skaičius: 16. Viešame sąraše rodoma iki 25 objektų; likę paliekam
 - [[objektai/grupes/Žydai]]
 
 ### Papročiai
+- [[objektai/paprociai/Bajorų valstiečių baudžiavos įtvirtinimas]]
 - [[objektai/paprociai/Jogailos privilegija apsikrikštijusiems bajorams]]
+- [[objektai/paprociai/Lietuvos bajorijos seimai]]
 - [[objektai/paprociai/Žemaičių savivalda ir seniūno rinkimasis]]
 
 ### Posakiai
@@ -48,4 +50,5 @@ Objektų skaičius: 16. Viešame sąraše rodoma iki 25 objektų; likę paliekam
 - [[objektai/ivykiai/Žemaičių kunigaikštystės privilegija]]
 
 ### Žodynas
+- [[objektai/zodynas/Baudžiava]]
 - [[objektai/zodynas/privilegija lex privata]]

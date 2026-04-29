@@ -7,9 +7,9 @@ tags: []
 
 # XVII amžius
 
-Šis laikotarpio hub'as jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus. Graph'e rodomas ribotas objektų skaičius, kad navigacija liktų skaitoma.
+Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 31. Viešame sąraše rodoma iki 25 objektų; likę paliekami DB projekcijoje, kad Graph netaptų per tankus.
+Objektų skaičius: 31.
 
 ## Kaip naudoti
 
@@ -50,7 +50,11 @@ Objektų skaičius: 31. Viešame sąraše rodoma iki 25 objektų; likę paliekam
 - [[objektai/ivykiai/Valkininkų konfederacijos nutarimas (1700 m.)]]
 - [[objektai/ivykiai/Vienos išvadavimas (1683 m.)]]
 - [[objektai/ivykiai/Vilniaus kalvinų bažnyčios nugriovimas ir naujos bažnyčios pastatymas (1639–1640 m.)]]
+- [Vilniaus užėmimas rusų ir 17 dienų gaisras (1655 m.)](../objektai/ivykiai/Vilniaus%20u%C5%BE%C4%97mimas%20rus%C5%B3%20ir%2017%20dien%C5%B3%20gaisras%20%281655%20m.%29)
+- [Vladislovo Vazos elekcija (1632 m.)](../objektai/ivykiai/Vladislovo%20Vazos%20elekcija%20%281632%20m.%29)
+- [Vladislovo žygis į Maskvą (1617 m.)](../objektai/ivykiai/Vladislovo%20%C5%BEygis%20%C4%AF%20Maskv%C4%85%20%281617%20m.%29)
+- [Čičinsko seimo išardymas (1652 m.)](../objektai/ivykiai/%C4%8Ci%C4%8Dinsko%20seimo%20i%C5%A1ardymas%20%281652%20m.%29)
+- [Štumdorfo paliaubos (1635 m.)](../objektai/ivykiai/%C5%A0tumdorfo%20paliaubos%20%281635%20m.%29)
 
-## Nerodoma Graph'e
-
-- Dar 6 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.
+### Žodynas
+- [Liberum veto](../objektai/zodynas/Liberum%20veto)

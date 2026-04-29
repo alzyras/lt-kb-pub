@@ -8,6 +8,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - sutartis
   - ivykis
 ---
 # Taika su Sovietų Rusija (1920 m. liepos 12 d.)

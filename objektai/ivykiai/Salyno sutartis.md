@@ -150,3 +150,7 @@ Salyno sutartis buvo 1398 m. Vytauto ir didžiojo magistro susitarimas, galutina
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/paliaubos]]

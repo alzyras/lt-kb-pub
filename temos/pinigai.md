@@ -7,9 +7,9 @@ tags: []
 
 # pinigai
 
-Šis teminis hub'as jungia objektus pagal patvirtintas, įrodymais paremtas žymas. Per platūs ar tik objektų tipą žymintys tagai į graph hub'us neįtraukiami.
+Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 39. Viešame sąraše rodoma iki 25 objektų; likę paliekami DB projekcijoje, kad Graph netaptų per tankus.
+Objektų skaičius: 40.
 
 ## Kaip naudoti
 
@@ -40,13 +40,36 @@ Objektų skaičius: 39. Viešame sąraše rodoma iki 25 objektų; likę paliekam
 - [[objektai/daiktai/Jono Sobieskio pinigas]]
 - [[objektai/daiktai/Kapos]]
 - [[objektai/daiktai/Lietuvos pinigai]]
+- [[objektai/daiktai/Monetos]]
 - [[objektai/daiktai/Muštiniai]]
 - [[objektai/daiktai/Popieriniai pinigai]]
 - [[objektai/daiktai/Sidabro lazdelės ir Prahos skatikai]]
 - [[objektai/daiktai/Stepono Batoro pinigai]]
 - [[objektai/daiktai/Vytauto laikų pinigėliai]]
-- [[objektai/daiktai/Zigmanto Augusto pinigai]]
+- [Zigmanto Augusto pinigai](../objektai/daiktai/Zigmanto%20Augusto%20pinigai)
+- [Zigmanto II pinigai](../objektai/daiktai/Zigmanto%20II%20pinigai)
+- [Zigmanto Vazos pinigai](../objektai/daiktai/Zigmanto%20Vazos%20pinigai)
 
-## Nerodoma Graph'e
+### Grupės
+- [Dalomoji Komisija](../objektai/grupes/Dalomoji%20Komisija)
 
-- Dar 14 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.
+### Papročiai
+- [Valstiečių duoklės ir prievolės](../objektai/paprociai/Valstie%C4%8Di%C5%B3%20duokl%C4%97s%20ir%20prievol%C4%97s)
+
+### Posakiai
+- [Moneta magni ducatus Lithuaniae](../objektai/posakiai/Moneta%20magni%20ducatus%20Lithuaniae)
+
+### Vietos
+- [Drezdenas](../objektai/vietos/Drezdenas)
+- [Merkinės dvaras](../objektai/vietos/Merkin%C4%97s%20dvaras)
+- [Turgeliai](../objektai/vietos/Turgeliai)
+
+### Įvykiai
+- [Amerikos lietuvių fondų ir komitetų kūrimas Lietuvos reikalams (1905–1913 m.)](../objektai/ivykiai/Amerikos%20lietuvi%C5%B3%20fond%C5%B3%20ir%20komitet%C5%B3%20k%C5%ABrimas%20Lietuvos%20reikalams%20%281905%E2%80%931913%20m.%29)
+- [Lietuvos skriaudų viešinimo akcijos Amerikoje (1894–1900 m.)](../objektai/ivykiai/Lietuvos%20skriaud%C5%B3%20vie%C5%A1inimo%20akcijos%20Amerikoje%20%281894%E2%80%931900%20m.%29)
+
+### Žodynas
+- [natūralinis ūkis](../objektai/zodynas/nat%C5%ABralinis%20%C5%ABkis)
+- [pastočiai](../objektai/zodynas/pasto%C4%8Diai)
+- [plikbajoris](../objektai/zodynas/plikbajoris)
+- [sidabrinė duoklė](../objektai/zodynas/sidabrin%C4%97%20duokl%C4%97)

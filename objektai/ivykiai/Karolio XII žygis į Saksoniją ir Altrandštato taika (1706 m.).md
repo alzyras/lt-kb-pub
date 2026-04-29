@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - sutartis
 ---
 # Karolio XII žygis į Saksoniją ir Altrandštato taika (1706 m.)
 

@@ -11,6 +11,7 @@ patikimumas: 'vidutinis'
 tags:
   - ivykis
   - valdovas
+  - seimas
 ---
 # Lucko suvažiavimas (1429 m.)
 

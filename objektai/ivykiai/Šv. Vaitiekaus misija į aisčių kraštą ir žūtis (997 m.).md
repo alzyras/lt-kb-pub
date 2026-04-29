@@ -142,7 +142,6 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
 - [[temos/krikštas]]
 
 ### Laikotarpiai
-- [[laikotarpiai/I amžius]]
 - [[laikotarpiai/X amžius]]
 
 ### Susiję objektai

@@ -2,7 +2,8 @@
 tipas: autorius
 pavadinimas: 'J. Bretkūnas'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - 'Bretkūnas'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
@@ -43,7 +44,10 @@ Bretkūno postilė. Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir
   santrauka: 'Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi buvo skleidę protestantizmą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi buvo skleidę protestantizmą.
+    Jas
+    rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų
+    lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi
+    buvo skleidę protestantizmą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -51,7 +55,3 @@ Bretkūno postilė. Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Bretkūnas]]

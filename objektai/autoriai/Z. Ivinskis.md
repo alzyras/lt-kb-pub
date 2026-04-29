@@ -213,7 +213,6 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/I amžius]]
 - [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai

@@ -69,5 +69,4 @@ tags: []
 - [[temos/formulė]]
 
 ### Laikotarpiai
-- [[laikotarpiai/I amžius]]
 - [[laikotarpiai/XV amžius]]

@@ -24,6 +24,7 @@ datos:
 patikimumas: 'aukštas'
 tags:
   - grupe
+  - sukilimas
 ---
 # Žemaičiai
 
@@ -340,9 +341,11 @@ tags:
     - t-016
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/sukilimas]]
+
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XVI amžius]]
 
 ### Susiję objektai
 - [[objektai/paprociai/Taikos patvirtinimas sudaužiant delnus]]

@@ -121,4 +121,3 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
 
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Dlugošas]]

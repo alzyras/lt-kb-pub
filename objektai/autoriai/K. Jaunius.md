@@ -2,7 +2,8 @@
 tipas: autorius
 pavadinimas: 'K. Jaunius'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - "Jaunius"
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
@@ -60,6 +61,5 @@ Tik didieji mūsų kalbininkai Jaunius su Būga visas tas gimines vadino aisčia
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Būga]]
-- [[objektai/asmenys/Jaunius]]
+- [[objektai/autoriai/K. Būga]]
 - [[objektai/autoriai/Vienažindys]]

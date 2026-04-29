@@ -200,7 +200,6 @@ Suverenitetas pateikiamas kaip teisinė valstybės teisė valdyti teritoriją ir
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/I amžius]]
 - [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai

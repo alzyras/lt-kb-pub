@@ -7,9 +7,9 @@ tags: []
 
 # XVI amžius
 
-Šis laikotarpio hub'as jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus. Graph'e rodomas ribotas objektų skaičius, kad navigacija liktų skaitoma.
+Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 34. Viešame sąraše rodoma iki 25 objektų; likę paliekami DB projekcijoje, kad Graph netaptų per tankus.
+Objektų skaičius: 33.
 
 ## Kaip naudoti
 
@@ -28,7 +28,6 @@ Objektų skaičius: 34. Viešame sąraše rodoma iki 25 objektų; likę paliekam
 - [[objektai/grupes/Gardino seimas (1566 m.)]]
 - [[objektai/grupes/Lietuvos seimas (XVI a.)]]
 - [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/grupes/Žemaičiai]]
 
 ### Papročiai
 - [[objektai/paprociai/Lydimoji žemdirbystė]]
@@ -54,7 +53,14 @@ Objektų skaičius: 34. Viešame sąraše rodoma iki 25 objektų; likę paliekam
 - [[objektai/ivykiai/Nesvyžiaus jėzuitų kolegijos įkūrimas (1582 m.)]]
 - [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
 - [[objektai/ivykiai/Stepono Batoro mirtis (1586 m. gruodžio 12 d.)]]
+- [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]
+- [Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.)](../objektai/ivykiai/Vyriausiojo%20Lietuvos%20tribunolo%20%C4%AFk%C5%ABrimas%20%281581%20m.%29)
+- [Zigmanto Augusto ir Barboros Radvilaitės vedybos bei Barboros karūnavimas (1547–1550 m.)](../objektai/ivykiai/Zigmanto%20Augusto%20ir%20Barboros%20Radvilait%C4%97s%20vedybos%20bei%20Barboros%20kar%C5%ABnavimas%20%281547%E2%80%931550%20m.%29)
+- [Zigmanto Augusto valdžios perėmimas Lietuvoje (1544–1548 m.)](../objektai/ivykiai/Zigmanto%20Augusto%20vald%C5%BEios%20per%C4%97mimas%20Lietuvoje%20%281544%E2%80%931548%20m.%29)
+- [Zigmanto Vazos elekcija (1587 m.)](../objektai/ivykiai/Zigmanto%20Vazos%20elekcija%20%281587%20m.%29)
+- [Zigmanto Vazos karūnacinis seimas (1588 m.)](../objektai/ivykiai/Zigmanto%20Vazos%20kar%C5%ABnacinis%20seimas%20%281588%20m.%29)
 
-## Nerodoma Graph'e
-
-- Dar 9 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.
+### Žodynas
+- [Personalinė unija](../objektai/zodynas/Personalin%C4%97%20unija)
+- [poliublininis laikotarpis](../objektai/zodynas/poliublininis%20laikotarpis)
+- [valstybingumo idėja](../objektai/zodynas/valstybingumo%20id%C4%97ja)

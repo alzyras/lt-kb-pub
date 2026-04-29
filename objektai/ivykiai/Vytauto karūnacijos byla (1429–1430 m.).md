@@ -165,5 +165,8 @@ Ivinskis išskiria ir imperatoriaus parengtus vainikus, ir pasienyje sulaikytą 
     - t-005
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/karūnacija]]
+
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]

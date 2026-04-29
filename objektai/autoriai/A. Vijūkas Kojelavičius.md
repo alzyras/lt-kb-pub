@@ -1,14 +1,15 @@
 ---
-tipas: asmuo
+tipas: autorius
 pavadinimas: 'A. Vijūkas Kojelavičius'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - 'Vijūkas Kojelavičius'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
-  - asmuo
+  - autorius
 ---
 # A. Vijūkas Kojelavičius
 
@@ -28,8 +29,8 @@ Vijūkas Kojelavičius parašė lotyniškai Lietuvos istoriją — „Historia L
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Antroje XVI a. pusėje kaunietis jėzuitas A.
-      Vijūkas Kojelavičius parašė lotyniškai Lietuvos istoriją —
-      „Historia Lituana" (2 t.).
+    Vijūkas Kojelavičius parašė lotyniškai Lietuvos istoriją —
+    „Historia Lituana" (2 t.).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

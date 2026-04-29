@@ -7,9 +7,9 @@ tags: []
 
 # XVIII amžius
 
-Šis laikotarpio hub'as jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus. Graph'e rodomas ribotas objektų skaičius, kad navigacija liktų skaitoma.
+Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 27. Viešame sąraše rodoma iki 25 objektų; likę paliekami DB projekcijoje, kad Graph netaptų per tankus.
+Objektų skaičius: 27.
 
 ## Kaip naudoti
 
@@ -53,6 +53,6 @@ Objektų skaičius: 27. Viešame sąraše rodoma iki 25 objektų; likę paliekam
 - [[objektai/ivykiai/Varšuvos konfederacinis seimas (1768 m.)]]
 - [[objektai/ivykiai/Šiaulių ekonomijos valstiečių sukilimas (1769 m.)]]
 
-## Nerodoma Graph'e
-
-- Dar 2 objektai nerodomi kaip wikilinkai, kad Graph netaptų per tankus.
+### Žodynas
+- [Liberum veto](../objektai/zodynas/Liberum%20veto)
+- [valstybingumo idėja](../objektai/zodynas/valstybingumo%20id%C4%97ja)

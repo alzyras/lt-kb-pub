@@ -2,7 +2,8 @@
 tipas: autorius
 pavadinimas: 'D. Poška'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - 'Dionizy Paszkiewicz'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'

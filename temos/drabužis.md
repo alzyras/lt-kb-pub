@@ -7,9 +7,9 @@ tags: []
 
 # drabužis
 
-Šis teminis hub'as jungia objektus pagal patvirtintas, įrodymais paremtas žymas. Per platūs ar tik objektų tipą žymintys tagai į graph hub'us neįtraukiami.
+Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 3. Viešame sąraše rodoma iki 25 objektų; likę paliekami DB projekcijoje, kad Graph netaptų per tankus.
+Objektų skaičius: 3.
 
 ## Kaip naudoti
 

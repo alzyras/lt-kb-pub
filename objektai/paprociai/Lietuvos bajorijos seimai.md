@@ -135,3 +135,7 @@ Bajorijos nuomonė ir jos pritarimas dar būdavo svarbūs, sprendžiant klausim�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/privilegija]]

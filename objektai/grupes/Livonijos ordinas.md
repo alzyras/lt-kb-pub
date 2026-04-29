@@ -198,7 +198,6 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/I amžius]]
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XVI amžius]]

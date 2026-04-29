@@ -1,15 +1,15 @@
 ---
 tipas: tema
-pavadinimas: 'upė - šventė'
+pavadinimas: 'karūnacija'
 sukurta: '2026-04-26'
 tags: []
 ---
 
-# upė - šventė
+# karūnacija
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 5.
+Objektų skaičius: 3.
 
 ## Kaip naudoti
 
@@ -18,15 +18,9 @@ Objektų skaičius: 5.
 
 ## Susiję objektai
 
-### Daiktai
-- [[objektai/daiktai/Gairės]]
-
-### Grupės
-- [[objektai/grupes/Kuršiai]]
-
-### Vietos
-- [[objektai/vietos/Turmanto stotis]]
-- [[objektai/vietos/Vilniaus kraštas]]
-
 ### Įvykiai
-- [[objektai/ivykiai/Lietuvos ir Latvijos sienos išvedimas (1921 m.)]]
+- [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, vestuvės ir karūnacija Lenkijos karalium]]
+- [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)]]
+
+### Žodynas
+- [[objektai/zodynas/konvokaciniai seimai]]

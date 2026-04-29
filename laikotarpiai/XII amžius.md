@@ -7,9 +7,9 @@ tags: []
 
 # XII amžius
 
-Šis laikotarpio hub'as jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus. Graph'e rodomas ribotas objektų skaičius, kad navigacija liktų skaitoma.
+Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 2. Viešame sąraše rodoma iki 25 objektų; likę paliekami DB projekcijoje, kad Graph netaptų per tankus.
+Objektų skaičius: 1.
 
 ## Kaip naudoti
 
@@ -17,9 +17,6 @@ Objektų skaičius: 2. Viešame sąraše rodoma iki 25 objektų; likę paliekami
 - Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
 
 ## Susiję objektai
-
-### Grupės
-- [[objektai/grupes/Kryžiuočių ordinas]]
 
 ### Žodynas
 - [[objektai/zodynas/proistorė]]

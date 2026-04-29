@@ -7,9 +7,9 @@ tags: []
 
 # paliaubos
 
-Šis teminis hub'as jungia objektus pagal patvirtintas, įrodymais paremtas žymas. Per platūs ar tik objektų tipą žymintys tagai į graph hub'us neįtraukiami.
+Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 23. Viešame sąraše rodoma iki 25 objektų; likę paliekami DB projekcijoje, kad Graph netaptų per tankus.
+Objektų skaičius: 25.
 
 ## Kaip naudoti
 
@@ -46,6 +46,8 @@ Objektų skaičius: 23. Viešame sąraše rodoma iki 25 objektų; likę paliekam
 - [[objektai/ivykiai/Divilino paliaubos (1618 m.)]]
 - [[objektai/ivykiai/Gardino paliaubos (1698 m.)]]
 - [[objektai/ivykiai/Karas su Maskva (1632–1634 m.)]]
+- [[objektai/ivykiai/Lietuvos ir Lenkijos karas su ordinu 1410 m]]
+- [[objektai/ivykiai/Salyno sutartis]]
 - [[objektai/ivykiai/Štumdorfo paliaubos (1635 m.)]]
 - [[objektai/ivykiai/Želigovskio smurtas (1920 m. spalio 8–9 d.)]]
 
