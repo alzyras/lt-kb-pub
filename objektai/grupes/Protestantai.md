@@ -80,3 +80,5 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
+- [[temos/šeima]]
+- [[temos/didikas - šeima]]

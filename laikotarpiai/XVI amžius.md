@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 32.
+Objektų skaičius: 41.
 
 ## Kaip naudoti
 
@@ -27,6 +27,9 @@ Objektų skaičius: 32.
 ### Grupės
 - [[objektai/grupes/Gardino seimas (1566 m.)]]
 - [[objektai/grupes/Lietuvos seimas (XVI a.)]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Žemaičių medininkai]]
+- [[objektai/grupes/Žemlionys]]
 
 ### Papročiai
 - [[objektai/paprociai/Lydimoji žemdirbystė]]
@@ -34,6 +37,12 @@ Objektų skaičius: 32.
 
 ### Posakiai
 - [[objektai/posakiai/nihil novi]]
+
+### Vietos
+- [[objektai/vietos/Balstogė]]
+- [[objektai/vietos/Juodoji jūra]]
+- [[objektai/vietos/Luckas]]
+- [[objektai/vietos/Žemaičių jūra]]
 
 ### Įvykiai
 - [[objektai/ivykiai/1507–1508 m. karas su Maskva ir Mykolo Glinskio maištas]]
@@ -47,19 +56,21 @@ Objektų skaičius: 32.
 - [[objektai/ivykiai/Karas su Maskva (1499–1503 m.)]]
 - [[objektai/ivykiai/Komulejaus nurodymas dėl Vilniaus klierikų bursos finansavimo (1595–1597 m.)]]
 - [[objektai/ivykiai/Lietuvos ir Lenkijos unijos derybos Varšuvoje ir Liubline bei Liublino unijos akto priėmimas (1563–1569 m.)]]
-- [[objektai/ivykiai/Liublino unijos akto priėmimas ir patvirtinimas (1569 m.)]]
-- [[objektai/ivykiai/Livonijos prijungimas prie Lietuvos valstybės (1561–1566 m.)]]
-- [[objektai/ivykiai/Nesvyžiaus jėzuitų kolegijos įkūrimas (1582 m.)]]
-- [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
-- [[objektai/ivykiai/Stepono Batoro mirtis (1586 m. gruodžio 12 d.)]]
-- [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]
-- [[objektai/ivykiai/Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.)]]
+- [Liublino unijos akto priėmimas ir patvirtinimas (1569 m.)](../objektai/ivykiai/Liublino%20unijos%20akto%20pri%C4%97mimas%20ir%20patvirtinimas%20%281569%20m.%29)
+- [Livonijos prijungimas prie Lietuvos valstybės (1561–1566 m.)](../objektai/ivykiai/Livonijos%20prijungimas%20prie%20Lietuvos%20valstyb%C4%97s%20%281561%E2%80%931566%20m.%29)
+- [Nesvyžiaus jėzuitų kolegijos įkūrimas (1582 m.)](../objektai/ivykiai/Nesvy%C5%BEiaus%20j%C4%97zuit%C5%B3%20kolegijos%20%C4%AFk%C5%ABrimas%20%281582%20m.%29)
+- [Oršos mūšis (1514 m.)](../objektai/ivykiai/Or%C5%A1os%20m%C5%AB%C5%A1is%20%281514%20m.%29)
+- [Stepono Batoro mirtis (1586 m. gruodžio 12 d.)](../objektai/ivykiai/Stepono%20Batoro%20mirtis%20%281586%20m.%20gruod%C5%BEio%2012%20d.%29)
+- [Vilniaus akademijos įkūrimas (1579 m.)](../objektai/ivykiai/Vilniaus%20akademijos%20%C4%AFk%C5%ABrimas%20%281579%20m.%29)
+- [Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.)](../objektai/ivykiai/Vyriausiojo%20Lietuvos%20tribunolo%20%C4%AFk%C5%ABrimas%20%281581%20m.%29)
 - [Zigmanto Augusto ir Barboros Radvilaitės vedybos bei Barboros karūnavimas (1547–1550 m.)](../objektai/ivykiai/Zigmanto%20Augusto%20ir%20Barboros%20Radvilait%C4%97s%20vedybos%20bei%20Barboros%20kar%C5%ABnavimas%20%281547%E2%80%931550%20m.%29)
 - [Zigmanto Augusto valdžios perėmimas Lietuvoje (1544–1548 m.)](../objektai/ivykiai/Zigmanto%20Augusto%20vald%C5%BEios%20per%C4%97mimas%20Lietuvoje%20%281544%E2%80%931548%20m.%29)
 - [Zigmanto Vazos elekcija (1587 m.)](../objektai/ivykiai/Zigmanto%20Vazos%20elekcija%20%281587%20m.%29)
 - [Zigmanto Vazos karūnacinis seimas (1588 m.)](../objektai/ivykiai/Zigmanto%20Vazos%20kar%C5%ABnacinis%20seimas%20%281588%20m.%29)
 
 ### Žodynas
+- [lažas](../objektai/zodynas/La%C5%BEas)
 - [Personalinė unija](../objektai/zodynas/Personalin%C4%97%20unija)
 - [poliublininis laikotarpis](../objektai/zodynas/poliublininis%20laikotarpis)
 - [valstybingumo idėja](../objektai/zodynas/valstybingumo%20id%C4%97ja)
+- [vartavodamos](../objektai/zodynas/Vartavodamos)

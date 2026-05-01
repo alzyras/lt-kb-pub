@@ -45,6 +45,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
 - t-003
   teiginys: 'Karaliaučiaus rinka buvo svarbi Lietuvos vaško eksportui.'
   pagrindžia:
+    - c-007
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -133,6 +134,20 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: Karaliaučius papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    įkūrę sau tenai pilis Rygos, Ventspilio, Liepojos,
+    Klaipėdos, Karaliaučiaus, Elbingo, Dansko užimtuosiuose nuo žemaičių kraštuose.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-003
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

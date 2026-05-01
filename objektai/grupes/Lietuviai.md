@@ -11,6 +11,7 @@ variantai:
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
 laikotarpis: '1345–1377 m.; 1370 m.; 1377 m'
 datos:
   - '1345–1377 m'
@@ -24,7 +25,7 @@ tags:
 # Lietuviai
 
 ## Santrauka
-Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateikiamas kaip anksti istoriniuose šaltiniuose paminėtas.
+Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateikiamas kaip anksti istoriniuose šaltiniuose paminėtas. Daukanto pasakojime lietuviai dar rodomi kaip sena tauta, prieš Kristaus gimimą gyvenusi prie Juodųjų pamarių, save vadinusi ir kalnėnais, aukštėjais bei žemaičiais pagal gyvenamą vietą, o Perūną garbinusi ugnia.
 
 ## Teiginiai
 - t-001
@@ -42,16 +43,12 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - t-003
   teiginys: 'Lietuviai yra aktyviai puolantys kryžiuočius ir griaunantys jų pilis'
   pagrindžia:
-    - c-010
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-004
   teiginys: 'Lietuviai yra naudojantys pasalas ir atsakomąsias atakas prieš kryžiuočius'
   pagrindžia:
-    - c-015
-    - c-014
-    - c-009
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -64,7 +61,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - t-006
   teiginys: 'Lietuviai pateikia savą unijos projektą ir reikalauja atskiro valdovo pakėlimo Vilniuje'
   pagrindžia:
-    - c-013
     - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -79,6 +75,28 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+
+
+- t-009
+  teiginys: 'Lietuvių tauta čia pateikiama kaip jau prieš Kristaus gimimą gyvenusi Uksinių, arba Juodųjų, pamarių šiaurėje ir vadinta įvairiais vardais.'
+  pagrindžia:
+    - c-016
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-010
+  teiginys: 'Patys save lietuviai vadino lietuviais, kalnėnais, aukštėjais ir žemaičiais pagal tai, ar gyveno kalne, ar pakalnėje, jūros link.'
+  pagrindžia:
+    - c-020
+    - c-017
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-011
+  teiginys: 'Lietuviai, arba kailinuočiai, šiame tekste siejami su Perūno, vadinamo Papiu ir Tėčiu, garbinimu ugnia, o ne su pačios ugnies garbinimu.'
+  pagrindžia:
+    - c-018
+    - c-019
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -188,85 +206,79 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
-- c-009
-  santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-016
+  santrauka: Lietuvių tauta čia pateikiama kaip sena ir įvairiais vardais vadinta bendruomenė prie Juodųjų pamarių.
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Pagonys lietuviai tačiau kovojo prieš
-    totorius savo ruožtu be jokių raginimų ir be jokios pagalbos iš šono,
-    net tuo metu, kai iš vakarų prieš juos buvo organizuojami kryžiaus
-    karo žygiai^148. Lietuviai ne tik apgynė savo sodybines sritis, išmė­
-    tytas tarp didžiųjų miškų masyvų, bet dar išvystė aktyvią ekspan­
-    siją į rytus, atnešdami savo valstybingumą į eilę rytų slavų žemių,
+    Gilioje jau senovėj, kaip paskiau regėsim, pirm gimimo Kristaus lietuvių tauta yra jau randama
+    gyvenanti Uksiniuose, arba Juoduosiuose, pamariuose šiaurės linkan, noris ne lietuviais, bet kitais
+    vardais jau nuo jos būdo, jau nuo vietos, kurioje gyveno, vadinama, beje: indijonimis,
+    kiemarionimis, skitais ir getais, kartais eruliais, arba giruliais.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+- c-017
+  santrauka: Lietuviai save vadino skirtingais vardais pagal gyvenamą vietą.
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Lietuviai, Juodojoj girioj gyvenantys, juodgirėnais vadinos. Patys save vadino lietuviais, kalnėnais,
+    arba aukštėjais, ir žemaičiais, pagal tą, kaip, kalne ar pakalnėj, tai yra jūron linkui, gyveno.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
+- c-018
+  santrauka: Lietuviai, arba kailinuočiai, čia siejami su Perūno garbinimu ugnia, o ne su pačios ugnies garbinimu.
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Trečiasis raštininkas, dar paskiau gyvenąs, rašo, jog kailinuočiai, stirvelėdami^675 su
+    egipčionimis apie pirmumą kilties^676 savo tautos, būk stigavoję^677 , jog ugnis šį pasaulį paperėjusi,
+    ir tas taip pat ženklą už lyčių parašė, kad tuo tarpu regėjom viršiau, jog lietuviai, arba kailinuočiai,
+    ne ugnį, be patį Perūną, arba įkūrėją šio pasaulio, vadino ir ugnia jį garbino.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-011
+- c-019
+  santrauka: Kailinuočių dievo vardai Papiu ir Tėčiu siejami su Perūno vardais žemaičių ir kuržemininkų vartosenoje.
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    kaipogi Herodotas rašo, jog kailinuočiai (Scythae) savo dievą Papiu
+    ir Tėčiu vadinę ir ugnį garbinę, ir taip tais pačiais vardais tuo kartu jau vadinę dievą, kuriais
+    šiandien dar kuržemininkas ir žemaitis tebvadina savo Perūną dievą senu įpročiu Tičiu ir Papiu,
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-011
+- c-020
+  santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Nesgi senovės raštai skelbia, jog lietuvių, kalnėnų ir žemaičių, giminės yra buvusi
+    lopšiu Indų žemė; kaipogi mūsų amžiuje rasti tenai jos kunigų raštai rodo mus su indijonimis
+    brolių vaikais prasenovėj buvusius, nesgi tų raštų kalba nė su viena šios dienos žinomųjų kalbų
+    nėra taip didžiai sutinkanti, kaipo su kalnėnų ir žemaičių kalba
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: exact_source_offset
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
-    - t-004
-- c-010
-  santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tuoj po Durbės pergalės, naudodamiesi kryžiuočių silpna padė­
-    timi, lietuviai tęsė savo žygius Livonijon. Bendradarbiaudami su
-    kuršiais, šiems jie padėjo užimti pilis į vakarus nuo Ventos, kur atsi­
-    laikė tik Kuldirga ir Klaipėda.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-003
-    - t-004
-    - t-003
-- c-013
-  santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ne vien tik Romanaičiai pajuto energingo Lietuvos valdovo
-    ranką. Lietuviai vėl stipriai pradėjo pulti Livonijos kryžiuočius ir
-    ėmė ruošti, kaip niekada iki tol, į _Lenkiją_ intensyvius karo žygius.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-006
-- c-014
-  santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Šitas «bėgimas»
-    tačiau galėjo reikšti iš totorių paimtą taktiką — apsimesti bėgti,
-    kad būtų galima patraukti priešą ir suardyti jo eiles.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-004
-- c-015
-  santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vytauto vadovaujami
-    Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,
-    sugrįžo į kovos lauką.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-004
-    - t-006
-    - t-004
-    - t-004
+    - t-010
+    - t-010
 
 ## Ryšiai
 ### Laikotarpiai

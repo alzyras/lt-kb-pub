@@ -15,6 +15,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
 laikotarpis: '1407 m.; 1409 m.; 1411 m.; 1588 m'
 datos:
   - '1407 m'
@@ -29,7 +30,7 @@ tags:
 # Žemaičiai
 
 ## Santrauka
-Žemaičiai lokalizuojami Klaipėdos krašte ir Kuršių marių pakrantėse. Žemaičiai yra pagrindinis ordino karinis tikslas. Šiame šaltinyje jie papildomai rodomi kaip savarankiškumą išlaikanti bendruomenė, anksti pradėjusi intensyvius karo žygius prieš vokiečius, taiką tvirtinusi delnų sudaužymu ir palaikiusi prekybinius ryšius su rygiečiais.
+Žemaičiai lokalizuojami Klaipėdos krašte ir Kuršių marių pakrantėse. Žemaičiai yra pagrindinis ordino karinis tikslas. Kituose šaltiniuose jie rodomi kaip savarankiškumą išlaikanti bendruomenė, anksti pradėjusi intensyvius karo žygius prieš vokiečius, taiką tvirtinusi delnų sudaužymu ir palaikiusi prekybinius ryšius su rygiečiais. Daukanto tekste jie dar aiškinami kaip pajūrių arba žemai gyvenantys žmonės, Perūną vadinę Kūrėju, žinyčiose nestatę savo dievų paveikslų ir motinų išlaikyta sena kalba besididžiuojanti bendruomenė.
 
 ## Teiginiai
 - t-001
@@ -125,6 +126,32 @@ tags:
     - c-018
     - c-016
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+
+- t-017
+  teiginys: 'Žemaičiai šiame tekste aiškinami kaip žemai, arba pajūriais, gyvenantys žmonės.'
+  pagrindžia:
+    - c-024
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-018
+  teiginys: 'Žemaičiai šiame pasakojime siejami su Perūno, vadinamo Kūrėju, garbinimu, o ne su saulės garbinimu.'
+  pagrindžia:
+    - c-025
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-019
+  teiginys: 'Kalnėnų ir žemaičių motinos čia laikomos senosios kalbos išlaikytojomis.'
+  pagrindžia:
+    - c-026
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-020
+  teiginys: 'Žemaičiai kartu su lietuviais ir kalnėnais čia vaizduojami neturėję žinyčiose išstatytų savo dievų stabų ir paveikslų.'
+  pagrindžia:
+    - c-027
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -364,7 +391,7 @@ tags:
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-007
@@ -379,7 +406,7 @@ tags:
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-016
@@ -397,7 +424,7 @@ tags:
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-016
@@ -415,11 +442,73 @@ tags:
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-012
     - t-012
+
+
+- c-024
+  santrauka: Žemaičiai aiškinami kaip žemai, arba pajūriais, gyvenantys žmonės.
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Vadino dar ir paskiau tą kraštą vardu, iš dviejų žodžių sudėtu, iš žemaitiško ir
+    teutoniško, ir taip _Samland_ , iš žodžių žem ir _land_ , tai yra Žemasis kraštas, kaipo viršiau minavojau,
+    o gyventojus to krašto vadino _Samländer_ , tai yra žemaičiai, beje: žmonės, gyvenantys žemai,
+    arba pajūriais.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-017
+- c-025
+  santrauka: Žemaičiai čia siejami su Perūno, vadinamo Kūrėju, garbinimu.
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Antrasis raštininkas, paskiau rašąs, sako: „Žemaičių pajūriuose (Sarmatorum) yra žmonės
+    garbinantys savo dievą, vadinamą Kuros, beje, saulė, ant kurio garbės tuoįtimpos ugnį kūrinantys,
+    nuo ko ir patys kuriais vadinantys.“ Kad tuo tarpu regėjom viršiau, jog žemaičiai Perūną vadino
+    Kūrėju ir jį patį, ne saulę, garbino.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-018
+- c-026
+  santrauka: Kalnėnų ir žemaičių motinos čia laikomos senosios kalbos išlaikytojomis.
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    nes^58 mūsų išmintingos kalnėnų ir žemaičių motinos savo apkerpėjusiuose tarp girių nameliuose,
+    kurios šiandien dar, išleisdamos savo vaiką į svietą ir įduodamos jam laimės ženklą, sako: „Mirk,
+    vaikeli, ar doru žmogum būk ir namų savo neužmiršk“, – tos, sakau, užlaikė mūsų senovės kalbą,
+    kuria mes šiandien, jų vaikai, galim didžiuotis ir girtis, jog nė viena kalba šiame pasauly nėra taip
+    aiški, kaip mūsoji.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-019
+- c-027
+  santrauka: Žemaičiai kartu su lietuviais ir kalnėnais čia vaizduojami nestatę žinyčiose savo dievų paveikslų.
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Tas dar yra minėtinu, jog lietuviai, kalnėnai ir
+    žemaičiai, neturėjo nė kokių stabų ir paveikslų savo dievų, žinyčiose išstatinėtų, kaip kad kitos
+    tautos pas save kad darė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-020
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -429,5 +518,7 @@ tags:
 - [[laikotarpiai/XV amžius]]
 
 ### Susiję objektai
-- [[objektai/paprociai/Taikos patvirtinimas sudaužiant delnus]]
 - [[objektai/grupes/Rygiečiai]]
+- [[objektai/paprociai/Taikos patvirtinimas sudaužiant delnus]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/vietos/Žemaičių kraštas]]

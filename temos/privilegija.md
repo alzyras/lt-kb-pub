@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 18.
+Objektų skaičius: 17.
 
 ## Kaip naudoti
 
@@ -40,7 +40,6 @@ Objektų skaičius: 18.
 - [[objektai/posakiai/nihil novi]]
 
 ### Vietos
-- [[objektai/vietos/Podolė]]
 - [[objektai/vietos/Voluinė]]
 
 ### Įvykiai

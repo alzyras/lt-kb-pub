@@ -174,6 +174,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - t-008
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/šeima]]
+
 ### Susiję objektai
 - [[objektai/ivykiai/Livonijos prijungimas prie Lietuvos valstybės (1561–1566 m.)]]
 - [[objektai/vietos/Talinas]]

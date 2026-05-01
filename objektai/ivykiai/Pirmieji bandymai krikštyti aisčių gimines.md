@@ -41,3 +41,4 @@ Visų nenusisekusių X—XIII amž. misijų atgarsiai yra išlikę ir raštuose.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/krikštas]]
+- [[temos/šeima]]

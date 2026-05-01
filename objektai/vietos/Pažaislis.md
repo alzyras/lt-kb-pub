@@ -40,6 +40,9 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/šeima]]
+
 ### Susiję objektai
 - [[objektai/vietos/Antakalnis]]
 - [[objektai/asmenys/Kristupas Pacas]]

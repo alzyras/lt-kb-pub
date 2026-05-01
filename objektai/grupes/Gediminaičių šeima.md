@@ -63,3 +63,5 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/valdovas]]
+- [[temos/šeima]]
+- [[temos/valdovas - šeima]]

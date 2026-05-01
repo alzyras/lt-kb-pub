@@ -33,6 +33,9 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - t-001
   teiginys: '1323 m. Gediminas jau gyveno Vilniuje ir iš čia rašė savo laiškus; nuo tada Vilnius tapo nuolatine Lietuvos sostine.'
   pagrindžia:
+    - c-014
+    - c-013
+    - c-012
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -236,6 +239,48 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-011
+- c-012
+  santrauka: Vilnius papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Garsus raštininkas Rėza,
+    sulasęs jų kelias dešimtis, apskelbė svietui metuose 1825, taip pat Simonas Stanevičius metuose
+    1829 Vilniuje, kurių daugioje vietoje gal regėti gaidos aitrą, laibumą^562 ir švelnumą kalbos bei
+    gailingumą širdies.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+- c-013
+  santrauka: Vilnius papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Raštininkas, savom akim regėjęs, sako toliau, p. 68. Nullus in tota hac urbe (Vilniuje) lectorum usus. Imo,
+    moliter cubare, vitio datur, dar toliau sako, p. 67: multum est, si ditiores utantur scamno, ursina tantum pelle contec to [13].
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+- c-014
+  santrauka: Vilnius papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    ...ir pavargę suolą arba akmenį pasideda vietoje pagalvės, jie nežino, kas yra šiaudų paklotė... visame šiame mieste (Vilniuje)
+    niekas neturi lovų. Minkštai miegoti net yda laiko... Jau daug, jei turtingesnieji, gulėdami ant suolo, pasikloja lokio kailį ( _lot_ .).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

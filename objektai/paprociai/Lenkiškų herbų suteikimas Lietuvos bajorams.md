@@ -82,3 +82,4 @@ Vartojusieji vienodą herbą buvo laikomi giminėmis, nors tarp jų ir nebūdavo
 ### Teminiai klasteriai
 - [[temos/dokumentas]]
 - [[temos/ginklas]]
+- [[temos/šeima]]

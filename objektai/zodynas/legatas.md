@@ -47,3 +47,4 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/popiežius]]
+- [[temos/šeima]]

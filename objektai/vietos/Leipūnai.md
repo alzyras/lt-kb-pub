@@ -58,5 +58,8 @@ Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, 
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/šeima]]
+
 ### Susiję objektai
 - [[objektai/zodynas/regimentorius]]

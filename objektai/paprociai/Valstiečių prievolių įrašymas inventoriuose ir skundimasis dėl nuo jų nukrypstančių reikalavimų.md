@@ -40,3 +40,7 @@ Jei kartais koks seniūnas nenorėdavo to laikytis, reikalaudavo daugiau, tai va
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/šeima]]

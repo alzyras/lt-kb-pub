@@ -45,6 +45,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - t-004
   teiginys: 'Makros sprendime buvo teigiama, kad Klaipėdos pilis pastatyta Žemaičių žemėje.'
   pagrindžia:
+    - c-007
+    - c-006
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -115,6 +117,34 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: Klaipėda papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Vyriškieji taip pat strūnijo^568 sau visus trobesius, svetimo meistro
+    nereikalaudami, dailidavo ratus, važius, šlėdes, arba šlajas, ir roges. Vokiečiams užgulus jūrines jų
+    pilis, beje: Klaipėdos, Liepojos, Lielupio ir Daugavos, kad nebgalėjo patys su svečia šalia per jūrą
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-004
+- c-007
+  santrauka: Klaipėda papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    įkūrę sau tenai pilis Rygos, Ventspilio, Liepojos,
+    Klaipėdos, Karaliaučiaus, Elbingo, Dansko užimtuosiuose nuo žemaičių kraštuose.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-004
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

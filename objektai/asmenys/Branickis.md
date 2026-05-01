@@ -75,3 +75,7 @@ Lenkijoje prieš juos kovojo Potockiai ir hetmonas Branickis, kuris buvo Čartor
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/šeima]]

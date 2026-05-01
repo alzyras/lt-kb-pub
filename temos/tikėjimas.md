@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 12.
+Objektų skaičius: 11.
 
 ## Kaip naudoti
 
@@ -24,7 +24,6 @@ Objektų skaičius: 12.
 
 ### Grupės
 - [[objektai/grupes/Lenkijos katalikų Bažnyčios sinodas]]
-- [[objektai/grupes/Žydai]]
 
 ### Papročiai
 - [[objektai/paprociai/Aisčių dievų motinos garbinimas ir šernų amuletai]]

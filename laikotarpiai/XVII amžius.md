@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 31.
+Objektų skaičius: 34.
 
 ## Kaip naudoti
 
@@ -23,6 +23,11 @@ Objektų skaičius: 31.
 
 ### Daiktai
 - [[objektai/daiktai/Lietuvos pinigai]]
+
+### Grupės
+- [[objektai/grupes/Anglai]]
+- [[objektai/grupes/Valakai]]
+- [[objektai/grupes/Žuvėdai]]
 
 ### Papročiai
 - [[objektai/paprociai/Nuotakos išpirkimas ir Krienos mokestis]]
@@ -47,9 +52,9 @@ Objektų skaičius: 31.
 - [[objektai/ivykiai/Seimų vietos įstatymo pakeitimas (1673 m.)]]
 - [[objektai/ivykiai/Seimų vietos įstatymo priėmimas (1673 m.)]]
 - [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]
-- [[objektai/ivykiai/Valkininkų konfederacijos nutarimas (1700 m.)]]
-- [[objektai/ivykiai/Vienos išvadavimas (1683 m.)]]
-- [[objektai/ivykiai/Vilniaus kalvinų bažnyčios nugriovimas ir naujos bažnyčios pastatymas (1639–1640 m.)]]
+- [Valkininkų konfederacijos nutarimas (1700 m.)](../objektai/ivykiai/Valkinink%C5%B3%20konfederacijos%20nutarimas%20%281700%20m.%29)
+- [Vienos išvadavimas (1683 m.)](../objektai/ivykiai/Vienos%20i%C5%A1vadavimas%20%281683%20m.%29)
+- [Vilniaus kalvinų bažnyčios nugriovimas ir naujos bažnyčios pastatymas (1639–1640 m.)](../objektai/ivykiai/Vilniaus%20kalvin%C5%B3%20ba%C5%BEny%C4%8Dios%20nugriovimas%20ir%20naujos%20ba%C5%BEny%C4%8Dios%20pastatymas%20%281639%E2%80%931640%20m.%29)
 - [Vilniaus užėmimas rusų ir 17 dienų gaisras (1655 m.)](../objektai/ivykiai/Vilniaus%20u%C5%BE%C4%97mimas%20rus%C5%B3%20ir%2017%20dien%C5%B3%20gaisras%20%281655%20m.%29)
 - [Vladislovo Vazos elekcija (1632 m.)](../objektai/ivykiai/Vladislovo%20Vazos%20elekcija%20%281632%20m.%29)
 - [Vladislovo žygis į Maskvą (1617 m.)](../objektai/ivykiai/Vladislovo%20%C5%BEygis%20%C4%AF%20Maskv%C4%85%20%281617%20m.%29)

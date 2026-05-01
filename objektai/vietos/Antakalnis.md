@@ -40,6 +40,9 @@ Petro ir Povilo -bažnyčią Antakalny).
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/šeima]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Kristupas Pacas]]
 - [[objektai/vietos/Pažaislis]]

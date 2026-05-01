@@ -63,3 +63,5 @@ Nors lietuviai jau nuo Švitrigailos laikų rinkosi sau kunigaikščius, tačiau
 ### Teminiai klasteriai
 - [[temos/elekcija]]
 - [[temos/valdovas]]
+- [[temos/šeima]]
+- [[temos/valdovas - šeima]]

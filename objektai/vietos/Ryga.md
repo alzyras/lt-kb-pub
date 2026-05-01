@@ -1,22 +1,28 @@
 ---
-tipas: vieta
-pavadinimas: 'Ryga'
-sukurta: '2026-04-25'
-variantai: []
+tipas: "vieta"
+pavadinimas: "Ryga"
+sukurta: "2026-04-25"
+variantai:
+  - "Ryga"
+  - "Rygos"
 aliases: []
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-tags:
-  - miestas
-  - vieta
+  - "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  - "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean"
+datos:
+  - "1253 m."
+periodo_grupes: []
+amziai: []
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
+patikimumas: "vidutinis"
+tags: []
 ---
 # Ryga
 
 ## Santrauka
-
-Priėjimas prie Rygos Dauguvos upe taip pat buvo gana sunkus, — čia irgi trukdė tie patys kryžiuočiai, — vis dėlto čia buvo kiek lengviau: mat, Ryga buvo laisvas miestas, kuris, norėdamas pasipelnyti, buvo sukalbamesnis. Ryga buvo išgelbėta, Livonija atvaduota. Tik labai sumažėjo Lietuvos ir Lenkijos bendrai valdomoji Livonija: didžioji jos dalis su Ryga liko Švedijai; Štumdorfo taika (žiūr.
-
+Priėjimas prie Rygos Dauguvos upe taip pat buvo gana sunkus, — čia irgi trukdė tie patys kryžiuočiai, — vis dėlto čia buvo kiek lengviau: mat, Ryga buvo laisvas miestas, kuris, norėdamas pasipelnyti, buvo sukalbamesnis. Ryga buvo išgelbėta, Livonija atvaduota. Tik labai sumažėjo Lietuvos ir Lenkijos bendrai valdomoji Livonija: didžioji jos dalis su Ryga liko Švedijai; Štumdorfo taika (žiūr. 1275 m. mūšis vyko tarp Rygos ir Runo salos. 1200 m. iš Rygos atėję vokiečiai puolė Padaugavį ties Ašradės pilimi.
 ## Teiginiai
 - t-001
   teiginys: 'Priėjimas prie Rygos Dauguvos upe taip pat buvo gana sunkus, — čia irgi trukdė tie patys kryžiuočiai, — vis dėlto čia buvo kiek lengviau: mat, Ryga buvo laisvas miestas, kuris, norėdamas pasipelnyti, buvo sukalbamesnis.'
@@ -35,6 +41,24 @@ Priėjimas prie Rygos Dauguvos upe taip pat buvo gana sunkus, — čia irgi truk
   pagrindžia:
     - c-004
 
+- t-005
+  teiginys: "1275 m. mūšis vyko tarp Rygos ir Runo salos."
+  pagrindžia:
+    - c-005
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-006
+  teiginys: "1200 m. iš Rygos atėję vokiečiai puolė Padaugavį ties Ašradės pilimi."
+  pagrindžia:
+    - c-006
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-007
+  teiginys: "Ryga šiame fragmente yra vokiečių įtvirtinimų ir prekybos privilegijos vieta."
+  pagrindžia:
+    - c-007
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Priėjimas prie Rygos Dauguvos upe taip pat buvo gana sunkus, — čia irgi trukdė tie patys kryžiuočiai, — vis dėlto čia buvo kiek lengviau: mat, Ryga buvo laisvas miestas, kuris, norėdamas pasipelnyti, buvo sukalbamesnis.'
@@ -97,7 +121,71 @@ Priėjimas prie Rygos Dauguvos upe taip pat buvo gana sunkus, — čia irgi truk
   pagrindžia:
     - t-004
 
+- c-005
+  santrauka: "1275 m. mūšis vyko tarp Rygos ir Runo salos."
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    metuose 1275 pergalėjo vokiečių meldžionis ant jūros ledo tarp Rygos ir Runo salos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: "1200 m. iš Rygos atėję vokiečiai puolė Padaugavį ties Ašradės pilimi."
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    kaipogi tokiame abaze gulinčius žemaičius metuose 1200 antpuolę iš Rygos meldžionų vokiečiai
+    Padaugavy ties Ašradės pilia išpjovė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: "Ryga šiame fragmente yra vokiečių įtvirtinimų ir prekybos privilegijos vieta."
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    įkūrę sau tenai pilis Rygos, Ventspilio, Liepojos,
+    Klaipėdos, Karaliaučiaus, Elbingo, Dansko užimtuosiuose nuo žemaičių kraštuose.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: "Ryga šiame fragmente yra vokiečių įtvirtinimų ir prekybos privilegijos vieta."
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    metuose 1253 liecybą Rygos
+    vokiečiams po visą Lietuvą ir Žemaičius be muito prekioti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+## Pavadinimai šaltiniuose
+
+- Ryga
+- Rygos
+
+## Laikotarpis ir datos
+- datos: 1253 m.
+- tipas: miestas; miestas / pilis
+
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIII amžius]]
+
 ### Susiję objektai
+- [[objektai/vietos/Dancigas]]
 - [[objektai/vietos/Latgala]]
+- [[objektai/vietos/Padauguvis]]
 - [[objektai/vietos/Salaspilis]]

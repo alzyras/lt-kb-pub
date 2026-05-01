@@ -43,3 +43,4 @@ Tie vadai buvo vadinami rikiais ir kunigais.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/kunigas]]
+- [[temos/šeima]]

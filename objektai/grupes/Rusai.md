@@ -22,6 +22,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - t-001
   teiginys: 'Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.'
   pagrindžia:
+    - c-003
     - c-002
     - c-001
 
@@ -55,6 +56,21 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     Bet ir rusai, kurie Kroniką ar
     jos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą
     (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+- c-003
+  santrauka: Rusai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Kaipogi maskolių didieji kunigaikščiai Ugriją, plačią
+    valstybę, saulėteky esančią, metuose 1499 nuveikę, sunėrė su savo ūke ir savo urėdus^1455 tenai
+    perdėjo^1456. Lygia dalia paveikę metuose 1554 totorių chaną, jo buveinę Kazanę užėmė, metuose
+    1570 antrą chaną totorių pergalėję, jo buveinę Astrachanę užėmė ir tenai savo urėdus įdėjo.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

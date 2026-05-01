@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 52.
+Objektų skaičius: 51.
 
 ## Kaip naudoti
 
@@ -84,4 +84,3 @@ Objektų skaičius: 52.
 - [Magdeburgo teisės](../objektai/zodynas/Magdeburgo%20teis%C4%97s)
 - [pralotas](../objektai/zodynas/pralotas)
 - [savarankiškumas](../objektai/zodynas/savaranki%C5%A1kumas)
-- [vietininkas](../objektai/zodynas/vietininkas)

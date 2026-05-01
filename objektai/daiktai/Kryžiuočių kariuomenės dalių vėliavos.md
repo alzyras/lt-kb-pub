@@ -114,7 +114,6 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/karo-reikmuo]]
 - [[temos/simbolis]]
 
 ### Laikotarpiai

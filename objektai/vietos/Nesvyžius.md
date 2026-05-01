@@ -73,6 +73,9 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     - t-003
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/šeima]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Mikalojus Kristupas Radvila Našlaitėlis]]
 - [[objektai/ivykiai/Nesvyžiaus jėzuitų kolegijos įkūrimas (1582 m.)]]

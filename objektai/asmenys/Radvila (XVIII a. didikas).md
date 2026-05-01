@@ -41,7 +41,9 @@ Lietuvoje prieš Čartoriskius veikė, dėdamasis su Potockiais ir Branickiu, tu
 
 ## Ryšiai
 ### Teminiai klasteriai
+- [[temos/didikas - šeima]]
 - [[temos/didikas]]
+- [[temos/šeima]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XVIII amžius]]

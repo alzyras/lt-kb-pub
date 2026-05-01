@@ -64,6 +64,8 @@ Valstybės pajamos per 1773—1775 m. padalinamąjį seimą, kai krašte šeimin
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
+- [[temos/šeima]]
+- [[temos/didikas - šeima]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XVIII amžius]]
