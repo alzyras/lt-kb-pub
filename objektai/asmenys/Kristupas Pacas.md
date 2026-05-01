@@ -61,6 +61,9 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/šeima]]
+
 ### Susiję objektai
 - [[objektai/vietos/Antakalnis]]
 - [[objektai/vietos/Pažaislis]]

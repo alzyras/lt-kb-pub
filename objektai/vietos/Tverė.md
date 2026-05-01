@@ -160,6 +160,7 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/popiežius]]
+- [[temos/šeima]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas]]

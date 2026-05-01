@@ -155,6 +155,8 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
+- [[temos/šeima]]
+- [[temos/didikas - šeima]]
 
 ### Susiję objektai
 - [[objektai/grupes/Biržų Radvilos]]

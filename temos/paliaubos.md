@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 25.
+Objektų skaičius: 24.
 
 ## Kaip naudoti
 
@@ -32,7 +32,6 @@ Objektų skaičius: 25.
 ### Vietos
 - [[objektai/vietos/Daugpilis]]
 - [[objektai/vietos/Didieji Lukai]]
-- [[objektai/vietos/Prūsija]]
 - [[objektai/vietos/Spa]]
 - [[objektai/vietos/Veližas]]
 

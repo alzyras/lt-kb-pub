@@ -137,6 +137,7 @@ Kadangi tuo metu tarp Lietuvos ir Lenkijos dar tebeėjo ginčas dėl Podolės ir
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
+- [[temos/šeima]]
 
 ### Susiję objektai
 - [[objektai/vietos/Braclavas]]

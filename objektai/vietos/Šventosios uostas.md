@@ -20,6 +20,7 @@ Tada net buvo kilusi mintis įkurti Šventosios uostą.
 - t-001
   teiginys: 'Tada net buvo kilusi mintis įkurti Šventosios uostą.'
   pagrindžia:
+    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
@@ -35,6 +36,21 @@ Tada net buvo kilusi mintis įkurti Šventosios uostą.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
+    - t-001
+- c-002
+  santrauka: Šventosios uostas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Vienok Žemaičių
+    medininkai ir tose kruvinose dienose niekaip nenorėjo būtinai nuo pajūrio atstoti ir paskuoją savo
+    įtaką, arba uostą, upės Šventosios ties Palanga, kuri jiems buvo dar likusi, gyniojo ir, noris kaulais
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
     - t-001
 
 ## Ryšiai

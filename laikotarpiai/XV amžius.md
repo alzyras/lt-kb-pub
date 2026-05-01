@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 36.
+Objektų skaičius: 40.
 
 ## Kaip naudoti
 
@@ -31,6 +31,9 @@ Objektų skaičius: 36.
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/grupes/Mozūrai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Valakai]]
 - [[objektai/grupes/Žemaičiai]]
 
 ### Posakiai
@@ -40,6 +43,7 @@ Objektų skaičius: 36.
 
 ### Vietos
 - [[objektai/vietos/Galvės ežero salos pilis]]
+- [[objektai/vietos/Luckas]]
 - [[objektai/vietos/Lydos pilis]]
 - [[objektai/vietos/Medininkų pilis]]
 - [[objektai/vietos/Senieji Trakai]]
@@ -50,10 +54,10 @@ Objektų skaičius: 36.
 - [[objektai/ivykiai/1466 m. Torno taika]]
 - [[objektai/ivykiai/Karas su Maskva (1499–1503 m.)]]
 - [[objektai/ivykiai/Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)]]
-- [[objektai/ivykiai/Lucko suvažiavimas (1429 m.)]]
-- [[objektai/ivykiai/Racionžo taika (1404 m.)]]
-- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
-- [[objektai/ivykiai/Torno taika (1411 m.)]]
+- [Lucko suvažiavimas (1429 m.)](../objektai/ivykiai/Lucko%20suva%C5%BEiavimas%20%281429%20m.%29)
+- [Racionžo taika (1404 m.)](../objektai/ivykiai/Racion%C5%BEo%20taika%20%281404%20m.%29)
+- [Tanenbergo mūšis 1410 m. liepos 15 d](../objektai/ivykiai/Tanenbergo%20m%C5%AB%C5%A1is%201410%20m.%20liepos%2015%20d)
+- [Torno taika (1411 m.)](../objektai/ivykiai/Torno%20taika%20%281411%20m.%29)
 - [Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)](../objektai/ivykiai/Vroclavo%20sprendimas%20d%C4%97l%20%C5%BDemai%C4%8Di%C5%B3%20ir%20S%C5%ABduvos%20%281420%20m.%29)
 - [Vytauto karūnacijos byla (1429–1430 m.)](../objektai/ivykiai/Vytauto%20kar%C5%ABnacijos%20byla%20%281429%E2%80%931430%20m.%29)
 - [Vytauto mirtis (1430 m. spalio 27 d.)](../objektai/ivykiai/Vytauto%20mirtis%20%281430%20m.%20spalio%2027%20d.%29)

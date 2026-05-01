@@ -115,3 +115,7 @@ Antanas Tizenhauzas, jo darbai ir nepasisekimai. Antanas Tizenhauzas sumanė pas
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/šeima]]

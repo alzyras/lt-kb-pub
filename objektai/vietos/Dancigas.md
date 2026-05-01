@@ -1,28 +1,35 @@
 ---
-tipas: vieta
-pavadinimas: Dancigas
+tipas: "vieta"
+pavadinimas: "Dancigas"
 variantai:
-  - Gdanskas
-  - Danzig
+  - "Gdanskas"
+  - "Danzig"
+  - "Dancigas"
+  - "Dansko"
 aliases: []
-susije_irasai:
-  - '[[Lietuva]]'
-  - '[[Karaliaučius]]'
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-tags:
-  - vieta
+  - "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  - "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean"
+datos: []
+periodo_grupes: []
+amziai: []
+vaidmenys: []
+dalyviai: []
+susije_irasai:
+  - "[[Lietuva]]"
+  - "[[Karaliaučius]]"
+tags: []
 ---
 # Dancigas
 
 ## Santrauka
-Dancigas šiame šaltinyje minimas kaip vienas svarbiausių Lietuvos prekybos krypčių Baltijos erdvėje: su juo siejami Ordino prekybos ryšiai, eksporto keliai ir vėlesni politiniai pokyčiai po Torno taikos.
-
+Dancigas šiame šaltinyje minimas kaip vienas svarbiausių Lietuvos prekybos krypčių Baltijos erdvėje: su juo siejami Ordino prekybos ryšiai, eksporto keliai ir vėlesni politiniai pokyčiai po Torno taikos. Dancigas šiame fragmente yra viena iš pakrantės pilių. Dancigas šiame fragmente yra viena iš vokiečių įkurtų pilių.
 ## Pavadinimai šaltiniuose
 - Dancigas
 - Gdanskas
 - Danzig
 
+- Dansko
 ## Kas tai
 Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį ėjo dalis Lietuvos prekių ir su kuriuo buvo susiję Ordino prekybos centrai.
 
@@ -47,6 +54,18 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   pagrindžia:
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: "Dancigas šiame fragmente yra viena iš pakrantės pilių."
+  pagrindžia:
+    - c-005
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-006
+  teiginys: "Dancigas šiame fragmente yra viena iš vokiečių įkurtų pilių."
+  pagrindžia:
+    - c-006
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 ## Reikšmingi paminėjimai
 - c-001
@@ -93,7 +112,37 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   pagrindžia:
     - t-004
 
+- c-005
+  santrauka: "Dancigas šiame fragmente yra viena iš pakrantės pilių."
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    įkūrę sau tenai pilis Rygos, Ventspilio, Liepojos,
+    Klaipėdos, Karaliaučiaus, Elbingo, Dansko užimtuosiuose nuo žemaičių kraštuose.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: "Dancigas šiame fragmente yra viena iš vokiečių įkurtų pilių."
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Taip pat paskui, Kazimierui paėmus Lietuvos ūkės valdžią ir atėmus
+    vokiečiams pilis Dansko, Elbingo, Toninės, Lietuvos prekyba vis dar plėtės, kaipogi metuose 1470
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+## Laikotarpis ir datos
+- tipas: miestas / pilis
+
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Karaliaučius]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Ryga]]

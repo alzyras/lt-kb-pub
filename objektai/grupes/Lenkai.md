@@ -28,6 +28,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
 - t-001
   teiginys: 'Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiškai visuomenei'
   pagrindžia:
+    - c-012
     - c-010
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -222,6 +223,22 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-006
     - t-001
     - t-002
+- c-012
+  santrauka: Lenkai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Antrapus Pragaro į vakarus
+    pajūry bartėnai, nadraujai, į kalną varmijonys. Paisly, pajūriu gyveno pagezonys, arba
+    pamedžionys, pamežonys, juo į kalną galindžiai, kame bengės į vakarus Lietuvos tauta, o toliau
+    prasidėjo lenkų arba gudų tauta.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai

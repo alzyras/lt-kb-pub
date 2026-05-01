@@ -88,6 +88,7 @@ Nuotakos išpirkimas čia pateikiamas kaip senas vedybų paprotys, kai vyras nuo
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/socialinė-praktika]]
+- [[temos/šeima]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]

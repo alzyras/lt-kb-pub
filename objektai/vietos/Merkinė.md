@@ -21,6 +21,7 @@ tags:
 - t-001
   teiginys: '7 d. Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir.'
   pagrindžia:
+    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
@@ -34,6 +35,7 @@ tags:
     te, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiau-
     sioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno
     — visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų
+
     (prie Lydos—Vilniaus geležinkelio) sutartis paliko Lenkų pu-
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -42,7 +44,23 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: Merkinė papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    nesgi žinoma yra, jog pilys Vitesbės, Medininkų, Merkinės, Vilkmergės, Kauno ir
+    Raigardo pakelėmis buvo tų prekių, kurios ėjo iš Mugapilio į lenkus ir tolimesnes saulėlydžio tautas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Medininkų pilis]]
+- [[objektai/vietos/Ukmergė]]
 - [[objektai/vietos/Varėna]]

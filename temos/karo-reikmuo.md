@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 4.
+Objektų skaičius: 3.
 
 ## Kaip naudoti
 
@@ -19,7 +19,6 @@ Objektų skaičius: 4.
 ## Susiję objektai
 
 ### Daiktai
-- [[objektai/daiktai/Balnas]]
 - [[objektai/daiktai/Baltas apsiaustas su išsiuvinėtu kalaviju]]
 - [[objektai/daiktai/Karinė ginkluotė]]
 - [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]

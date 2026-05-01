@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 6.
+Objektų skaičius: 8.
 
 ## Kaip naudoti
 
@@ -23,5 +23,7 @@ Objektų skaičius: 6.
 - [[objektai/zodynas/civilinis aktas]]
 - [[objektai/zodynas/inkorporacija]]
 - [[objektai/zodynas/marksistinė periodizacija]]
+- [[objektai/zodynas/mezliava]]
 - [[objektai/zodynas/poliublininis laikotarpis]]
 - [[objektai/zodynas/valstybingumo idėja]]
+- [[objektai/zodynas/vietininkas]]

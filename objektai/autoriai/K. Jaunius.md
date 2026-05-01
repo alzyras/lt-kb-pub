@@ -60,6 +60,9 @@ Tik didieji mūsų kalbininkai Jaunius su Būga visas tas gimines vadino aisčia
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/šeima]]
+
 ### Susiję objektai
 - [[objektai/autoriai/K. Būga]]
 - [[objektai/autoriai/Vienažindys]]

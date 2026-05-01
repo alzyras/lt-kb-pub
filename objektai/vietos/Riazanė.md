@@ -82,6 +82,7 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/popiežius]]
+- [[temos/šeima]]
 
 ### Susiję objektai
 - [[objektai/vietos/Kaluga]]

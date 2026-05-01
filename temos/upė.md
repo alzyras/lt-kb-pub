@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 25.
+Objektų skaičius: 24.
 
 ## Kaip naudoti
 
@@ -42,7 +42,6 @@ Objektų skaičius: 25.
 - [[objektai/vietos/Dauguva]]
 - [[objektai/vietos/Gorodnianka]]
 - [[objektai/vietos/Isločė]]
-- [[objektai/vietos/Juodoji jūra]]
 - [[objektai/vietos/Modolečna]]
 - [[objektai/vietos/Turmanto stotis]]
 - [[objektai/vietos/Uša]]

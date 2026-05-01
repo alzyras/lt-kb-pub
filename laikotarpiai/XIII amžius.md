@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 15.
+Objektų skaičius: 19.
 
 ## Kaip naudoti
 
@@ -23,6 +23,9 @@ Objektų skaičius: 15.
 
 ### Grupės
 - [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/grupes/Lotoriai]]
+- [[objektai/grupes/Parusėnai]]
+- [[objektai/grupes/Žemaičių medininkai]]
 
 ### Papročiai
 - [[objektai/paprociai/Nuotakos išpirkimas ir Krienos mokestis]]
@@ -31,6 +34,9 @@ Objektų skaičius: 15.
 
 ### Posakiai
 - [[objektai/posakiai/din vater was ein kunie grôz]]
+
+### Vietos
+- [[objektai/vietos/Ryga]]
 
 ### Įvykiai
 - [[objektai/ivykiai/Durbės mūšis (1260 m.)]]

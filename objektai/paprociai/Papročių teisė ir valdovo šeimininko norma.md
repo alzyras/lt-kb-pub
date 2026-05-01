@@ -42,4 +42,6 @@ Gyvenimas buvo tvarkomas papročių teise, kurios laikėsi tiek valdovai, tiek g
 
 ## Ryšiai
 ### Teminiai klasteriai
+- [[temos/valdovas - šeima]]
 - [[temos/valdovas]]
+- [[temos/šeima]]

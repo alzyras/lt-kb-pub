@@ -47,4 +47,6 @@ Zigmantas Augustas liūdi mirusios Barboros.
 
 ## Ryšiai
 ### Teminiai klasteriai
+- [[temos/valdovas - šeima]]
 - [[temos/valdovas]]
+- [[temos/šeima]]

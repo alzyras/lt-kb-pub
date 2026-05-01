@@ -1,11 +1,18 @@
 ---
-tipas: grupe
+tipas: 'grupe'
 pavadinimas: 'Lybiai'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - 'lybiešiai'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
+datos: []
+amziai: []
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
 patikimumas: 'vidutinis'
 tags:
   - grupe
@@ -22,12 +29,18 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
 - t-001
   teiginys: 'Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai.'
   pagrindžia:
-    - c-003
     - c-001
 - t-002
   teiginys: 'Kai šituose kraštuose ėmė lankytis vokiečių pirkliai ir misijonieriai, tai pirmiausia jie susidūrė su lybiais.'
   pagrindžia:
     - c-002
+
+- t-003
+  teiginys: 'Lybiai minimi tarp tautų, kurios klausė to paties dievo ir teiravosi jo valios.'
+  pagrindžia:
+    - c-004
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -58,18 +71,17 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-003
-  santrauka: Lybiai papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-004
+  santrauka: Lybiai minimi tarp tautų, kurios klausė to paties dievo ir teiravosi jo valios.
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Toliau į vakarus gy­
-    veno suomių-ugrų kiltis lybiai, apimdami abiem pusėm Dauguvos
-    žemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos
-    kranto ruožą.
+    nesgi jo klausė ne vien visi lietuviai, beje: kalnėnai, žemaičiai,
+    žemgaliai, latuviai, arba kuržemiai, bet dar lybiešiai^876 ir krieviai, kurie nuo jo dievų valios jautojos
+    ir teiravos.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003

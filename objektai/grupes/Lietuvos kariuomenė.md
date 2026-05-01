@@ -98,5 +98,4 @@ Be to, Napoleono pavesta, ji pradėjo formuoti ir Lietuvos kariuomenę — 4 pė
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Vėliavos]]

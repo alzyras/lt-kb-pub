@@ -45,3 +45,7 @@ Norėdama Lietuvos valstybę išgelbėti iš tos būklės, Taryba nusprendė pav
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/šeima]]

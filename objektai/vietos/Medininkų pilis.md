@@ -48,6 +48,7 @@ Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų
 - t-001
   teiginys: "Vytauto laikais Medininkų pilis buvo dar mūrais sustiprinta."
   pagrindžia:
+    - c-002
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
@@ -68,6 +69,20 @@ Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: Medininkų pilis papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    nesgi žinoma yra, jog pilys Vitesbės, Medininkų, Merkinės, Vilkmergės, Kauno ir
+    Raigardo pakelėmis buvo tų prekių, kurios ėjo iš Mugapilio į lenkus ir tolimesnes saulėlydžio tautas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+    - t-001
 
 ## Šaltiniai ir įrodymai
 
@@ -80,3 +95,5 @@ Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų
 ### Susiję objektai
 - [[objektai/vietos/Lydos pilis]]
 - [[objektai/asmenys/Vytautas]]
+- [[objektai/vietos/Merkinė]]
+- [[objektai/vietos/Ukmergė]]

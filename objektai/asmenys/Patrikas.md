@@ -43,6 +43,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/krikštas]]
+- [[temos/šeima]]
 
 ### Susiję objektai
 - [[objektai/vietos/Niurnbergas]]

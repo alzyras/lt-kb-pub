@@ -82,5 +82,8 @@ Po nenusisekusios Kėdainių sutarties su Švedais, hetmonas Jonušas Radvila mi
     - t-003
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/šeima]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Fridrikas Vilhelmas]]

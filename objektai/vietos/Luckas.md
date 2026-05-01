@@ -1,21 +1,32 @@
 ---
-tipas: vieta
-pavadinimas: 'Luckas'
-sukurta: '2026-04-25'
-variantai: []
+tipas: "vieta"
+pavadinimas: "Luckas"
+sukurta: "2026-04-25"
+variantai:
+  - "Luckas"
+  - "Lucko"
+  - "Lucko pilį"
+  - "Lucko vaškinyčios"
 aliases: []
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-patikimumas: 'vidutinis'
-tags:
-  - vieta
+  - "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  - "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  - "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean"
+datos:
+  - "1470 m."
+  - "1506 m."
+periodo_grupes: []
+amziai: []
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
+patikimumas: "vidutinis"
+tags: []
 ---
 # Luckas
 
 ## Santrauka
-Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų suvažiavimo ir kunigaikštiško titulo vieta. Šiame šaltinyje Luckas taip pat siejamas su karaimų apgyvendinimu ir Lucko suvažiavimu 1429 m.
-
+Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų suvažiavimo ir kunigaikštiško titulo vieta. Šiame šaltinyje Luckas taip pat siejamas su karaimų apgyvendinimu ir Lucko suvažiavimu 1429 m. 1434 m. Jurša gynė Lucko pilį nuo lenkų. 1504 m. į Lucko pilį artinosi platburniai.
 ## Teiginiai
 - t-001
   teiginys: 'Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija.'
@@ -42,6 +53,24 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   pagrindžia:
     - c-007
 
+- t-008
+  teiginys: "1434 m. Jurša gynė Lucko pilį nuo lenkų."
+  pagrindžia:
+    - c-008
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-009
+  teiginys: "1504 m. į Lucko pilį artinosi platburniai."
+  pagrindžia:
+    - c-009
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-010
+  teiginys: "Luckas šiame fragmente yra vaško gamybos ir eksporto vieta."
+  pagrindžia:
+    - c-010
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija.'
@@ -129,9 +158,67 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 ### Susiję įvykiai
 - [[Lucko suvažiavimas (1429 m.)]]
 
+- c-008
+  santrauka: "1434 m. Jurša gynė Lucko pilį nuo lenkų."
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Lygia dalia metuose 1346 Vaidotas Kauno pilį
+    nuo meldžionų, o Jurša 1434 metuose Lucko pilį nuo lenkų gyniodamu, tūkstančius neprietelių
+    iškrėtusiu, velijos ugnies liepsnose užsirausti, nekaip neprieteliams pasiduoti [45]. Kad taip kantriai
+    kalnėnai ir žemaičiai mokėjo užsirakinę pily gintis, lygia dalia neguro nė į neprietelių pilis
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: "1504 m. į Lucko pilį artinosi platburniai."
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Nereikia taip pat užmiršti nė našlės kunigaikštienės Lucko
+    Anastazijos Alelkienės, kuri metuose 1504, išgirdusi platburnius Lucko pilin artinantis, kardą
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: "Luckas šiame fragmente yra vaško gamybos ir eksporto vieta."
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Taip pat paskui, Kazimierui paėmus Lietuvos ūkės valdžią ir atėmus
+    vokiečiams pilis Dansko, Elbingo, Toninės, Lietuvos prekyba vis dar plėtės, kaipogi metuose 1470
+    paties vaško pardavė į svečias žemes už 10 000 kapų Lietuvos grašių. Iš pačios Lucko vaškinyčios^1450
+    tą patį metą išleido per rubežių daugiau nei tūkstantį pundų^1451 vaško.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
+## Pavadinimai šaltiniuose
+
+- Luckas
+- Lucko
+- Lucko pilį
+- Lucko vaškinyčios
+
+## Laikotarpis ir datos
+- datos: 1470 m., 1506 m.
+- tipas: miestas / pilis; miestas
+
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XVI amžius]]
+
 ### Susiję objektai
 - [[objektai/ivykiai/Lucko suvažiavimas (1429 m.)]]
-- [[objektai/vietos/Voluinė]]
 - [[objektai/vietos/Trakai]]
+- [[objektai/vietos/Voluinė]]
 - [[objektai/asmenys/Vytautas]]

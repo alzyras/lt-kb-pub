@@ -135,6 +135,8 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
+- [[temos/šeima]]
+- [[temos/didikas - šeima]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Mikalojus Radvila Rudasis]]

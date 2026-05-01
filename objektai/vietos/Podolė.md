@@ -1,23 +1,31 @@
 ---
-tipas: vieta
-pavadinimas: 'Podolė'
-sukurta: '2026-04-25'
-variantai: []
+tipas: "vieta"
+pavadinimas: "Podolė"
+sukurta: "2026-04-25"
+variantai:
+  - "Podolija"
+  - "Podolė"
+  - "Podolija vadinamuose"
+  - "Podolijomis"
+  - "Podolijų"
 aliases: []
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-tags:
-  - pilis
-  - privilegija
-  - vieta
+  - "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  - "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean"
+datos:
+  - "1320 m."
+periodo_grupes: []
+amziai: []
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
+patikimumas: "vidutinis"
+tags: []
 ---
 # Podolė
 
 ## Santrauka
-
-Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladimiras, o iš Karijoto sūnaus, Teodoro, — Podolė. Iš visų čia suminėtų sričių ne visiškai perėjo į Vytauto valdžią tik viena Podolė: mat, ji iš seno buvo glaudžiai susijusi su Lenkija. Ir tikrai, tuojau kilo su ja konfliktas dėl Podolės žemių.
-
+Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladimiras, o iš Karijoto sūnaus, Teodoro, — Podolė. Iš visų čia suminėtų sričių ne visiškai perėjo į Vytauto valdžią tik viena Podolė: mat, ji iš seno buvo glaudžiai susijusi su Lenkija. Ir tikrai, tuojau kilo su ja konfliktas dėl Podolės žemių. Šiame pasakojime Podolija pateikiama kaip kraštas, kur anksčiau buvo jūra. Podolė šiame fragmente veikia kaip istorinė teritorija.
 ## Teiginiai
 - t-001
   teiginys: 'Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladimiras, o iš Karijoto sūnaus, Teodoro, — Podolė.'
@@ -40,6 +48,40 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   pagrindžia:
     - c-005
 
+- t-006
+  teiginys: "Šiame pasakojime Podolija pateikiama kaip kraštas, kur anksčiau buvo jūra."
+  pagrindžia:
+    - c-006
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-007
+  teiginys: "Podolė šiame fragmente veikia kaip istorinė teritorija."
+  pagrindžia:
+    - c-007
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-008
+  teiginys: "Podolė siejama su lietuvių atskyrimu nuo Uksinės jūros ir Dunojaus."
+  pagrindžia:
+    - c-008
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-009
+  teiginys: "Podolė šiame fragmente veikia kaip konkretus kraštas."
+  pagrindžia:
+    - c-006
+    - c-007
+    - c-008
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-010
+  teiginys: "Podolė siejama su Lietuvos tyrais ir pietine riba."
+  pagrindžia:
+    - c-006
+    - c-007
+    - c-008
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladimiras, o iš Karijoto sūnaus, Teodoro, — Podolė.'
@@ -96,6 +138,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     kijos dar tebeėjo ginčas dėl Podolės ir Voluinės, tai lietuviai
     į šitą privilegiją įrašė punktą, kuriuo Kazimieras pasižadėjo iš-
     laikyti Lietuvą tose pačiose ribose, kokias ji turėjo Vytauto lai-
+
     kais. Tai reiškė, kad Podolė su Voluine turi likti Lietuvai.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -120,9 +163,71 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   pagrindžia:
     - t-005
 
+- c-006
+  santrauka: "Šiame pasakojime Podolija pateikiama kaip kraštas, kur anksčiau buvo jūra."
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    rašyta, jog ir Žemaičių visas pašalys, šiandien Kuršu, Žemaičiais ir Parusiais vadinamas,
+    ne vien lig Kauno ir Žaliosios girios, bet lig pat Karpatų kalnų buvęs kana kados^20 jūra aptekęs,
+    kuri jūra buvusi susikišusi su Uksine, arba Juodąja, jūra Lietuvos tyruose, šiandien Podolija
+    vadinamuose.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+    - t-009
+    - t-010
+- c-007
+  santrauka: "Podolė šiame fragmente veikia kaip istorinė teritorija."
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    tame amžiuje antsigrūdo^1388 iš Azijos tauta, jau gudais, jau lenkais
+    vadinama, kuri pirma užgulė Lietuvos tyrus, šiandien Podolijomis vadinamus, ir taip būtinai
+    atskiedė^1389 lietuvius nuo Uksinės, arba Juodosios, jūros ir nuo upės Dunojaus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
+    - t-009
+    - t-010
+- c-008
+  santrauka: "Podolė siejama su lietuvių atskyrimu nuo Uksinės jūros ir Dunojaus."
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Užvis Gediminui valdant Lietuvos ūkę, kad jis, metuose 1320 užėmęs
+    gudų buveinę Kijevą, išvarė totorius iš vienų ir antrų Podolijų, arba Lietuvos tyrų, apgalėjo Krymą,
+    arba senovės Kimeriją, Mažąją Gudiją ir, visus tuos kraštus sunėręs su Lietuvos ūke, išplėtė jos
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
+    - t-009
+    - t-010
+## Pavadinimai šaltiniuose
+
+- Podolė
+- Podolija
+- Podolija vadinamuose
+- Podolijomis
+- Podolijų
+
+## Laikotarpis ir datos
+- datos: 1320 m.
+- tipas: kraštas / regionas; istorinis kraštas / regionas
+
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
 
 ### Susiję objektai
+- [[objektai/vietos/Juodoji jūra]]
 - [[objektai/vietos/Voluinė]]

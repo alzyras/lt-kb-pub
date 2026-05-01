@@ -39,7 +39,3 @@ Kalavijuočių ordino nariai ant balto apsiausto nešiojo išsiuvinėtą kalavij
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karo-reikmuo]]

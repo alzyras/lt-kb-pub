@@ -58,3 +58,7 @@ Tuo būdu jie pasiekė ir aisčių gyvenamus kraštus ir čia pajūriuose priste
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/šeima]]

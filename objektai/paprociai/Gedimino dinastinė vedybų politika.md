@@ -102,3 +102,4 @@ Gediminas valstybę stiprino ne tik karu ir diplomatija, bet ir dinastinėmis va
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/socialinė-praktika]]
+- [[temos/šeima]]
