@@ -10,8 +10,7 @@ variantai:
   - 'Tannenbergo kautynės'
   - 'Grunwaldo mūšis'
   - 'Griunvaldo mūšis'
-aliases:
-  - '[]'
+aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'

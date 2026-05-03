@@ -8,8 +8,7 @@ variantai:
   - 'VORSKLOS MŪŠIS'
   - 'mūšis prie Vorsklos'
   - 'Vorsklos mūšis (1399 m. rugpjūčio 12 d.)'
-aliases:
-  - '[]'
+aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
