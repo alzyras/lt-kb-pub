@@ -7,6 +7,7 @@ import Darkmode from "./Darkmode"
 import ReaderMode from "./ReaderMode"
 import AdvancedEvidenceToggle from "./AdvancedEvidenceToggle"
 import OptionsPanel from "./OptionsPanel"
+import HomeRandomTeiginiai from "./HomeRandomTeiginiai"
 import Head from "./Head"
 import PageTitle from "./PageTitle"
 import ContentMeta from "./ContentMeta"
@@ -35,6 +36,7 @@ export {
   ReaderMode,
   AdvancedEvidenceToggle,
   OptionsPanel,
+  HomeRandomTeiginiai,
   Head,
   PageTitle,
   ContentMeta,

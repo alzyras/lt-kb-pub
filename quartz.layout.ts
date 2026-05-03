@@ -23,6 +23,14 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta({ showReadingTime: false }),
+    Component.ConditionalRender({
+      component: Component.HomeRandomTeiginiai({
+        title: "Atsitiktiniai teiginiai",
+        limit: 5,
+        minEvidence: 10,
+      }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
     Component.TagList(),
   ],
   left: [
