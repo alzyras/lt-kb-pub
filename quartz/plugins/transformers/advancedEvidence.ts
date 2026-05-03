@@ -291,6 +291,7 @@ function renderClaimsSection(sectionLines: string[]): string[] | null {
     `<p class="options-filter-empty" data-claims-empty-state hidden>Nėra teiginių pagal pasirinktus filtrus.</p>`,
     `</div>`,
     "",
+    "",
   )
   return out
 }
@@ -371,6 +372,7 @@ function renderMentionsSection(sectionLines: string[]): string[] | null {
   out.push(
     `<p class="options-filter-empty" data-citation-empty-state hidden>Nėra citatų pagal pasirinktus filtrus.</p>`,
     `</div>`,
+    "",
   )
   return out
 }
