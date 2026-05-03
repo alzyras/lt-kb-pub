@@ -42,8 +42,5 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/mūšis]]
-
 ### Susiję objektai
 - [[objektai/vietos/Byčina]]

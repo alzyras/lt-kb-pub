@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 4.
+Objektų skaičius: 3.
 
 ## Kaip naudoti
 
@@ -17,9 +17,6 @@ Objektų skaičius: 4.
 - Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
 
 ## Susiję objektai
-
-### Autoriai
-- [[objektai/autoriai/Henrikas]]
 
 ### Grupės
 - [[objektai/grupes/Aukštaičiai]]

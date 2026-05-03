@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 25.
+Objektų skaičius: 27.
 
 ## Kaip naudoti
 
@@ -28,6 +28,7 @@ Objektų skaičius: 25.
 - [[objektai/daiktai/Bombardos]]
 - [[objektai/daiktai/Dalgiai]]
 - [[objektai/daiktai/Du pliki kardai]]
+- [[objektai/daiktai/Dviašmenis kalavijas]]
 - [[objektai/daiktai/Geležiniai ginklai ir įrankiai]]
 - [[objektai/daiktai/Karinė ginkluotė]]
 - [[objektai/daiktai/Kovos kirviai]]
@@ -35,6 +36,7 @@ Objektų skaičius: 25.
 - [[objektai/daiktai/Lietuvos žalvario (bronzos) amžiaus dirbiniai]]
 - [[objektai/daiktai/Patrankos]]
 - [[objektai/daiktai/Sienodaužiai]]
+- [[objektai/daiktai/Stepono Batoro paradinis kalavijas]]
 - [[objektai/daiktai/Šautuvai]]
 
 ### Grupės
@@ -52,5 +54,5 @@ Objektų skaičius: 25.
 ### Įvykiai
 - [[objektai/ivykiai/Kalavijuočių ordino įkūrimas]]
 - [[objektai/ivykiai/Klaipėdos krašto prisijungimas prie Lietuvos (1923–1924 m.)]]
-- [[objektai/ivykiai/Paskutinės Kęstučio kovos ir mirtis]]
-- [[objektai/ivykiai/Sukilimo numalšinimas Lietuvoje (1831 m. rudenį)]]
+- [Paskutinės Kęstučio kovos ir mirtis](../objektai/ivykiai/Paskutin%C4%97s%20K%C4%99stu%C4%8Dio%20kovos%20ir%20mirtis)
+- [Sukilimo numalšinimas Lietuvoje (1831 m. rudenį)](../objektai/ivykiai/Sukilimo%20numal%C5%A1inimas%20Lietuvoje%20%281831%20m.%20ruden%C4%AF%29)

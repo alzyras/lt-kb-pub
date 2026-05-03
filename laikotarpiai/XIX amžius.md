@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 43.
+Objektų skaičius: 44.
 
 ## Kaip naudoti
 
@@ -45,6 +45,7 @@ Objektų skaičius: 43.
 - [[objektai/ivykiai/1863 m. sukilimo malšinimas Lietuvoje (1863—1864 m.)]]
 - [[objektai/ivykiai/1863 m. sukilimo paskelbimas Lenkijoje ir Lietuvoje (1863 m. pradžioje)]]
 - [[objektai/ivykiai/Baudžiavos panaikinimas Rusijos imperijoje (1861 m.)]]
+- [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.)]]
 - [[objektai/ivykiai/Blaivybės brolijų ir susibūrimų uždraudimas (1863 m.)]]
 - [[objektai/ivykiai/Blaivybės brolijų kūrimas ir plitimas Žemaičių vyskupystėje (1858—1859 m.)]]
 - [[objektai/ivykiai/Gelgaudo vadovaujami kariuomenės žygiai į Vilnių ir Šiaulius (1831 m.)]]
@@ -53,7 +54,7 @@ Objektų skaičius: 43.
 - [[objektai/ivykiai/Lenkų sukilimas Varšuvoje (1830 m.)]]
 - [[objektai/ivykiai/Lietuviškosios spaudos draudimas ir rusiškų raidžių įvedimas (1864—1865 m.)]]
 - [[objektai/ivykiai/Lietuviškosios spaudos pradžia Amerikoje (1874–1885 m.)]]
-- [[objektai/ivykiai/Lietuviškosios spaudos suklestėjimas Amerikoje (1892–1896 m.)]]
+- [Lietuviškosios spaudos suklestėjimas Amerikoje (1892–1896 m.)](../objektai/ivykiai/Lietuvi%C5%A1kosios%20spaudos%20suklest%C4%97jimas%20Amerikoje%20%281892%E2%80%931896%20m.%29)
 - [Lietuvių peticijų dėl kalbos teisių mokyklose kampanija (1879–1897 m.)](../objektai/ivykiai/Lietuvi%C5%B3%20peticij%C5%B3%20d%C4%97l%20kalbos%20teisi%C5%B3%20mokyklose%20kampanija%20%281879%E2%80%931897%20m.%29)
 - [Lietuvos skriaudų viešinimo akcijos Amerikoje (1894–1900 m.)](../objektai/ivykiai/Lietuvos%20skriaud%C5%B3%20vie%C5%A1inimo%20akcijos%20Amerikoje%20%281894%E2%80%931900%20m.%29)
 - [Napoleono kariuomenės žygis į Lietuvą (1812 m.)](../objektai/ivykiai/Napoleono%20kariuomen%C4%97s%20%C5%BEygis%20%C4%AF%20Lietuv%C4%85%20%281812%20m.%29)

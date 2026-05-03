@@ -175,7 +175,3 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-008
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/mūšis]]

@@ -56,8 +56,5 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/mūšis]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Sąjungų su krikščionių valdovais ir miestais praktika prieš ordiną]]

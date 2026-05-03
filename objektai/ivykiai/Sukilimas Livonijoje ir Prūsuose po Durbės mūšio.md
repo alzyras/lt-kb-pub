@@ -44,5 +44,4 @@ Po mūšio, Livonijoj ir Prūsuose tuojau sukilo pavergtosios kiltys.
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/mūšis]]
 - [[temos/sukilimas]]

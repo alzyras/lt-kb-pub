@@ -99,7 +99,6 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklausomybės kovose generolas, Ju
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/mūšis]]
 - [[temos/pinigai]]
 - [[temos/sukilimas]]
 

@@ -1,5 +1,5 @@
 ---
-tipas: ivykis
+tipas: 'ivykis'
 pavadinimas: 'Tanenbergo mūšis 1410 m. liepos 15 d'
 sukurta: '2026-04-25'
 variantai:
@@ -9,11 +9,32 @@ variantai:
   - 'Tannenberg'
   - 'Tannenbergo kautynės'
   - 'Grunwaldo mūšis'
-aliases: []
+  - 'Griunvaldo mūšis'
+aliases:
+  - '[]'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 patikimumas: 'vidutinis'
+datos:
+  - '1410 m. liepos 15 d.'
+vaidmenys: []
+dalyviai:
+  - 'Vytautas'
+  - 'Jogaila'
+  - 'Ulrichas fon Jungingenas'
+  - 'lietuviai'
+  - 'lenkai'
+  - 'kryžiuočiai'
+susije_irasai: []
+periodo_grupes: []
+amziai:
+  - 'XV'
+laikotarpis: '1410 m. liepos 15 d.'
+date_start: '1410'
+date_end: '1410'
+periodas: 'viduramziai'
 tags:
   - ivykis
   - mūšis
@@ -55,6 +76,25 @@ Mūšis įvyko 1410 m. liepos 15 d. ordino žemėje tarp Tannenbergo ir Grunwald
     - c-006
     - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+- t-006
+  teiginys: 'Žalgirio mūšyje kryžiuočių pajėgos buvo apsuptos ir sunaikintos, o sąjungininkai užėmė priešo stovyklą.'
+  pagrindžia:
+    - c-007
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'Po Žalgirio mūšio žuvo Ulrichas fon Jungingenas, Ordinas patyrė stiprų smūgį, o 1411 m. prireikė karo veiksmų ir Torunės taikos.'
+  pagrindžia:
+    - c-008
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: 'Žalgirio mūšis buvo laikomas vienu didžiausių viduramžių Europos mūšių ir pakeitė jėgų balansą regione.'
+  pagrindžia:
+    - c-009
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -164,17 +204,112 @@ Mūšis įvyko 1410 m. liepos 15 d. ordino žemėje tarp Tannenbergo ir Grunwald
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-005
     - t-005
 
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/mūšis]]
-- [[temos/sukilimas]]
+- c-007
+  santrauka: Žalgirio mūšyje kryžiuočių pajėgos buvo apsuptos ir sunaikintos, o sąjungininkai užėmė priešo stovyklą.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Kryžiuočiai mėgino apeiti lenkų
 
+    64 ŽALGIRIO (GRIUNVALDO) MŪŠIS 1410 m. liepos 15 d.
+
+    kariuomenę iš lenkų dešinės ir juos ap-
+    supti. Lenkai patyrė didelį spaudimą tiek
+    centre, tiek dešinėje, neatlaikiusi spau-
+    dimo net krito didžioji Krokuvos vėliava.
+    Kryžiuočiai, pamanę, jog mūšis laimė-
+    tas, užtraukė pergalės giesmę „Kristus
+    prisikėlė“. Tuo momentu buvo aktyvuo-
+    tas lenkų rezervas, kuris pradėjo apeiti
+    kryžiuočius kairėje iš jų dešiniojo flango.
+    Netrukus kryžiuočių kairįjį flangą už-
+    griuvo netikėtai į mūšį sugrįžusios lietuvių
+    ## Puslapis 67
+
+    pajėgos. Kryžiuočių pajėgos buvo spau-
+    džiamos iš abiejų pusių, jos nebeturėjo
+    galimybės tvarkingai atsitraukti iš mūšio
+    lauko. Kryžiuočiai bandė trauktis, tačiau
+    beveik visi buvo apsupti ir sunaikinti, tik
+    nedidelė dalis teutonų spėjo pabėgti ir
+    įsitvirtinti stovykloje. Mūšio baigtis buvo
+    nulemta. Netrukus sąjungininkai užėmė
+    priešo stovyklą ir užvaldė didelį karo
+    grobį. Dauguma Ordino karių ir jų svečių,
+    samdinių žuvo, tik menka dalis paspruko
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-008
+  santrauka: Po Žalgirio mūšio žuvo Ulrichas fon Jungingenas, Ordinas patyrė stiprų smūgį, o 1411 m. prireikė karo veiksmų ir Torunės taikos.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Manoma, kad lietuvių nuostoliai buvo
+
+    labai dideli — tik kas antras Lietuvos karys
+    grįžo namo. Tačiau Vytautas ir Jogaila
+
+    pasiekė savo strateginį tikslą — vokie-
+
+    čių karinė mašina buvo sutriuškinta.
+    Žuvo pats didysis magistras Ulrichas fon
+    Jungingenas, beveik visa likusi Ordino va-
+    dovybė, apie 200 Ordino riterių (trečioji
+    dalis prūsiškųjų kryžiuočių) ir tūkstan-
+    čiai eilinių kryžeivių bei samdinių. Nors
+    Kryžiuočių ordinas nenustojo gyvuoti,
+    bet jam buvo suduotas stiprus smūgis.
+    Sąjungininkai užtruko pergalės vietoje ir
+    nepasinaudojo proga greitai užimti Or-
+    dino sostinę Marienburgą. Pavėluota šios
+    Ordino tvirtovės apsiaustis nedavė re-
+    zultatų. Naujasis magistras Henrikas fon
+    Plauenas spėjo pasirengti ir apsigynė.
+    1411 m. prireikė pakartoti karo veiksmus,
+
+    1410 m
+
+    tik po to buvo sudaryta Torunės (Torno)
+    taika. Tik 1422 m. kryžiuočiai galutinai
+    atsisakė teisių pretenduoti į Žemaitijos
+    teritoriją
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-009
+  santrauka: Žalgirio mūšis buvo laikomas vienu didžiausių viduramžių Europos mūšių ir pakeitė jėgų balansą regione.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Po Žalgirio mūšio kryžiuočiai
+    jau niekada nebekėlė grėsmės Lietuvos
+    valstybingumui. Ilgainiui Ordinas nustojo
+    egzistuoti. Vokiečių Prūsija tapo Lenkijos
+    karūnos vasale. Taip baigėsi vienas di-
+    džiausių viduramžių Europos mūšių, am-
+    žininkų vadintas „didžiuoju“, pakeitęs jėgų
+    balansą visame regione.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+
+## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
 

@@ -66,7 +66,6 @@ Du pliki kardai minimi kaip priešmūšinis iššūkis. Viename šaltinyje ordin
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ginklas]]
-- [[temos/mūšis]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Ulrichas von Jungingenas]]

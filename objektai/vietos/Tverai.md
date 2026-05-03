@@ -41,8 +41,5 @@ Kunigaikštis Vykintas netrukus ties Tverais buvo nugalėtas; jis pats žuvo mū
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/mūšis]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Vykintas]]

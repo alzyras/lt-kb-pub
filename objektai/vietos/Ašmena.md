@@ -5,10 +5,13 @@ sukurta: '2026-04-25'
 variantai:
   - 'Ašmenos'
   - 'Ašmeną'
+  - 'Ašmenos dvare'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+susije_irasai: []
 patikimumas: 'vidutinis'
 tags:
   - vieta
@@ -34,6 +37,13 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   pagrindžia:
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+- t-004
+  teiginys: '1655 m. liepą rusai ir jų sąjungininkai kazokai, sumušę lietuvius prie Ašmenos, priartėjo prie Vilniaus.'
+  pagrindžia:
+    - c-006
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -100,3 +110,36 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+- c-005
+  santrauka: Citata papildomai patikslina Švitrigailos užpuolimo vietą Ašmenos dvare.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Sąmokslininkai 1432 m. rugpjūčio
+    31 d. naktį užpuolė Švitrigailą Ašmenos
+    dvare, kai jis vyko į derybas su lenkais
+    Lietuvos Brastoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+- c-006
+  santrauka: Citata rodo Ašmeną kaip 1655 m. karo veiksmų vietą.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Nors
+    Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų ver-
+    žimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą
+    lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai
+    priartėjo prie Vilniaus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

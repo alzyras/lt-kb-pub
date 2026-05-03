@@ -1,11 +1,23 @@
 ---
-tipas: saltinis
+tipas: 'saltinis'
 pavadinimas: 'Lietuvos bajorijos raštas (1700 m.)'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - 'Valkininkų nutarimas'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+laikotarpis: ''
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
 patikimumas: 'vidutinis'
 tags:
   - bajorija
@@ -32,6 +44,18 @@ Norėdami tuo reikalu laimėti, žymesnieji bajorijos vadai net buvo pasirašę 
   teiginys: 'Išsižadame visų savo beverčių lenkiškų didžiosios Lietuvos kunigaikštijos, Lenkų karalių ir didžiųjų Lietuvos kunigaikščių mūsų protėviams duotų laisvių.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: '1700 m. lapkričio 19-24 d. Valkininkuose vyko respublikonų bajorijos.'
+  pagrindžia:
+    - c-004
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 'vykdant Valkininkų nutarimą, buvo iš esmės suformuota nauja LDK kariuomenė - 7500 etatinių vienetų. Išsireikalavusi iš Vilniaus miesto kontribuciją, respublikonų kariuomenė iš sostinės pasitraukė į naujas dislokavimo vietas.'
+  pagrindžia:
+    - c-005
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -81,6 +105,7 @@ Norėdami tuo reikalu laimėti, žymesnieji bajorijos vadai net buvo pasirašę 
     poziciją taip pat pavedame ir įteikiame mūsų absoliutiškajam ir
     aukščiausiajam viešpačiui, šviesiausiajam Lietuvos kunigaikščiui, kaip
     kadaise ją turėjo paveldėjamieji Lietuvos kunigaikščiai. Gediminai,
+
     Algirdai, Jogailos viešpatavo absoliutiškai.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -89,3 +114,34 @@ Norėdami tuo reikalu laimėti, žymesnieji bajorijos vadai net buvo pasirašę 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: '1700 m. lapkričio 19-24 d. Valkininkuose vyko respublikonų bajorijos.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1700 m. lapkričio 19-24 d. Valki-
+    ninkuose vyko respublikonų bajorijos
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  pagrindžia:
+    - t-004
+
+- c-005
+  santrauka: 'vykdant Valkininkų nutarimą, buvo iš esmės suformuota nauja LDK kariuomenė - 7500 etatinių vienetų. Išsireikalavusi iš Vilniaus miesto kontribuciją, respublikonų kariuomenė iš sostinės pasitraukė į naujas dislokavimo vietas.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    vykdant Valkininkų nutarimą, buvo iš
+    esmės suformuota nauja LDK kariuomenė -
+    7500 etatinių vienetų. Išsireikalavusi iš
+    Vilniaus miesto kontribuciją, respublikonų
+    kariuomenė iš sostinės pasitraukė į naujas
+    dislokavimo vietas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  pagrindžia:
+    - t-005

@@ -178,7 +178,3 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
     - t-002
     - t-002
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/mūšis]]

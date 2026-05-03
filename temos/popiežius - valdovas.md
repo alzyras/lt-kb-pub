@@ -19,7 +19,7 @@ Objektų skaičius: 6.
 ## Susiję objektai
 
 ### Asmenys
-- [[objektai/asmenys/Albertas]]
+- [[objektai/asmenys/Albertas (Rygos vyskupas)]]
 - [[objektai/asmenys/Posevinas]]
 - [[objektai/asmenys/Zigmantas Augustas]]
 

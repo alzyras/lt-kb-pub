@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 16.
+Objektų skaičius: 18.
 
 ## Kaip naudoti
 
@@ -20,9 +20,11 @@ Objektų skaičius: 16.
 
 ### Žodynas
 - [[objektai/zodynas/apostazija]]
+- [[objektai/zodynas/baskakas]]
 - [[objektai/zodynas/buržuazinė istoriografija]]
 - [[objektai/zodynas/dykra]]
 - [[objektai/zodynas/inkorporacija]]
+- [[objektai/zodynas/komputas]]
 - [[objektai/zodynas/lituanistinis sąjūdis]]
 - [[objektai/zodynas/marksistinė periodizacija]]
 - [[objektai/zodynas/metropolija]]

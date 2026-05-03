@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 1.
+Objektų skaičius: 2.
 
 ## Kaip naudoti
 
@@ -17,6 +17,9 @@ Objektų skaičius: 1.
 - Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
 
 ## Susiję objektai
+
+### Daiktai
+- [[objektai/daiktai/Sidabruotos geležinės balnakilpės]]
 
 ### Žodynas
 - [[objektai/zodynas/proistorė]]

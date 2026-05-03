@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 60.
+Objektų skaičius: 59.
 
 ## Kaip naudoti
 
@@ -65,7 +65,6 @@ Objektų skaičius: 60.
 ### Vietos
 - [Antakalnis](../objektai/vietos/Antakalnis)
 - [Biržai](../objektai/vietos/Bir%C5%BEai)
-- [Kėdainiai](../objektai/vietos/K%C4%97dainiai)
 - [Leipūnai](../objektai/vietos/Leip%C5%ABnai)
 - [Livonija](../objektai/vietos/Livonija)
 - [Nesvyžius](../objektai/vietos/Nesvy%C5%BEius)

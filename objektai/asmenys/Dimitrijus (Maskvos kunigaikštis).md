@@ -75,7 +75,3 @@ Jį uoliai rėmė Maskvos kunigaikštis Dimitrijas, kuriam rūpėjo užimti Liet
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/mūšis]]

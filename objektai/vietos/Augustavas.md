@@ -1,11 +1,15 @@
 ---
-tipas: vieta
+tipas: 'vieta'
 pavadinimas: 'Augustavas'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - 'Augustavo'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+susije_irasai:
+  - '[[Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]'
 patikimumas: 'vidutinis'
 tags:
   - sutartis
@@ -27,6 +31,13 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
   pagrindžia:
     - c-002
 
+- t-003
+  teiginys: '1920 m. rugpjūčio 8 d. Augustavas buvo atsiimtas.'
+  pagrindžia:
+    - c-003
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva paliko sieną nustatyti Lietuvos tiesioginiam susitarimu su Lenkija, mūsų vyriausybė čia pasiūlė laikinę demarkacijos liniją, kuri eitų per Grabovą — Augustavą — Stabiną.'
@@ -35,6 +46,7 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
     Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis
     su Maskva paliko sieną nustatyti Lietuvos tiesioginiam susita-
     rimu su Lenkija, mūsų vyriausybė čia pasiūlė laikinę demar-
+
     kacijos liniją, kuri eitų per Grabovą — Augustavą — Stabiną.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -60,8 +72,24 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
   pagrindžia:
     - t-002
 
+- c-003
+  santrauka: Citata fiksuoja Augustavą tarp atsiimtų vietų.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    [7] Rugpjūčio 8 d. Augustavas
+    © Rugpjūčio 9 d. Švenčionėliai, |
+    Švenčionys, Adutiškis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]
 - [[objektai/vietos/Grabova]]
 - [[objektai/asmenys/Kerzonas]]
 - [[objektai/vietos/Stabina]]

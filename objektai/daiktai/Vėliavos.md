@@ -8,6 +8,7 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: ''
 datos: []
 periodas: viduramziai
@@ -27,7 +28,7 @@ tags:
 
 ## Santrauka
 
-Vyriausioji Lenkijos vėliava pateko į priešų rankas. Lietuvos pulkai paskui save buvo patraukę eilę priešo vėliavų. Kareiviams būdavo paduodama raudona vėliava kaip karo ženklas ir laiminimo dalis. Prie karūžojo buvo laikoma karės vėliava tos apykartos.
+Vyriausioji Lenkijos vėliava pateko į priešų rankas. Lietuvos pulkai paskui save buvo patraukę eilę priešo vėliavų. Kareiviams būdavo paduodama raudona vėliava kaip karo ženklas ir laiminimo dalis. Prie karūžojo buvo laikoma karės vėliava tos apykartos. Šiame šaltinyje papildomai matyti, kad Algirdas prie Maskvos pasirodė išskleidęs vėliavas, o Žalgirio mūšyje Smolensko vėliavos dengė lenkų kraštines pozicijas ir krito didžioji Krokuvos vėliava.
 
 ## Teiginiai
 - t-001
@@ -65,6 +66,24 @@ Vyriausioji Lenkijos vėliava pateko į priešų rankas. Lietuvos pulkai paskui 
   pagrindžia:
     - c-006
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-007
+  teiginys: Algirdas prie Maskvos pasirodė su savo pajėgomis, išskleidęs vėliavas.
+  pagrindžia:
+    - c-007
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: Žalgirio mūšyje lietuviai, pridengę lenkų kraštines pozicijas trimis Smolensko vėliavomis, pradėjo atsitraukimo manevrą.
+  pagrindžia:
+    - c-008
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: Žalgirio mūšyje neatlaikiusi spaudimo krito didžioji Krokuvos vėliava.
+  pagrindžia:
+    - c-009
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 
@@ -159,6 +178,54 @@ Vyriausioji Lenkijos vėliava pateko į priešų rankas. Lietuvos pulkai paskui 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+- c-007
+  santrauka: Prie Maskvos Algirdas pasirodo išskleidęs savo vėliavas.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Kai ryte po pamaldų „Maskvos kuni-
+    gaikštis su bajorais ir su kunigaikščiais
+    išeina iš cerkvės, Algirdas su visomis savo
+    pajėgomis, išskleidęs savo vėliavas, pasi-
+    rodė ant Pasveikinimo kalno (Paklonaja
+    gara)“ prie Maskvos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: Žalgirio mūšyje lietuviai trimis Smolensko vėliavomis pridengė lenkų kraštines pozicijas.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Po valandos pagaliau į mūšį įsitraukė
+    lenkų kavalerija. Pridengę jų kraštines
+
+    pozicijas trimis Smolensko vėliavomis,
+    lietuviai pradėjo manevrą atsitraukdami.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: Žalgirio mūšio lūžio metu krito didžioji Krokuvos vėliava.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    kariuomenę iš lenkų dešinės ir juos ap-
+    supti. Lenkai patyrė didelį spaudimą tiek
+    centre, tiek dešinėje, neatlaikiusi spau-
+    dimo net krito didžioji Krokuvos vėliava.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: ''
 datos: []
 periodas: viduramziai
@@ -26,7 +27,7 @@ tags:
 
 ## Santrauka
 
-Iš lietuvių žygio grobio buvo arklių su balnais, skydų ir šalmų. Pilies gynėjai naudojo ietis, kalavijus ir kitokius ginklus. Senovės kariai nešiojo šikšninį diržą su vario grandimis arba sagtimis ir įvairią ginkluotę. Pėstieji daugiau kariavo rendėtais brūkliais.
+Iš lietuvių žygio grobio buvo arklių su balnais, skydų ir šalmų. Pilies gynėjai naudojo ietis, kalavijus ir kitokius ginklus. Senovės kariai nešiojo šikšninį diržą su vario grandimis arba sagtimis ir įvairią ginkluotę. Pėstieji daugiau kariavo rendėtais brūkliais. Šiame šaltinyje papildomai aprašoma XIII-XIV a. pėstininkų ir raitininkų apsauga bei puolamieji ginklai, šarvų ir ginklų branginimas bei valstybinio jų paskirstymo praktika.
 
 ## Teiginiai
 - t-001
@@ -64,6 +65,30 @@ Iš lietuvių žygio grobio buvo arklių su balnais, skydų ir šalmų. Pilies g
   pagrindžia:
     - c-006
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-007
+  teiginys: XIII a. Vakarų Europos pėstininkai dažniau naudodavo storos medžiagos pošarvį negu žieduočio šarvus, dėvėdavo atvirus šalmus arba žiedučio gobtuvus ir dažniausiai nenaudodavo skydo.
+  pagrindžia:
+    - c-007
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: Raitininkas dėvi žieduočio šarvus, žieduočio kelnes, tuniką su valdovo heraldine simbolika, krūtinšarvį ar protobrigantiną, pečių apsaugas ir rankoje laiko Desiukiškių tipo kalaviją.
+  pagrindžia:
+    - c-008
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: Ginklai ir ypač šarvai buvo branginami, sugadinti perkalami, o didesnė dalis ginkluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš operacijas.
+  pagrindžia:
+    - c-009
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: XIV a. Europoje plito lakštiniai šarvai, tačiau dėl brangumo toliau plačiai naudoti žieduočio šarvai, o pošarvis buvo svarbi bet kokių šarvų dalis.
+  pagrindžia:
+    - c-010
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 
@@ -159,6 +184,83 @@ Iš lietuvių žygio grobio buvo arklių su balnais, skydų ir šalmų. Pilies g
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+- c-007
+  santrauka: XIII a. pėstininkų ginkluotės ir apsaugos aprašas pabrėžia pošarvį, atvirus šalmus ir skydo nebuvimą.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    XIII a. Vakarų Europos pėstininko rekonstrukcija.
+    Pėstininkai galėdavo būti apsaugoti žieduočio šarvų,
+    tačiau dažniau apsaugai naudodavo tiesiog storos
+    medžiagos pošarvį. Jie dėvėdavo atvirus šalmus arba
+    žiedučio gobtuvus. Dažniausiai nenaudodavo skydo,
+    neretai jų kojos ir rankos būdavo neapsaugotos. Pa-
+    prastai pėstininkai naudodavo dvirankius artimosios
+    kovos ginklus (kovos kirvius, ietis) ar šaunamuosius
+    (lankus, arbaletus)
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: Raitininko ginkluotės aprašas apima žieduočio šarvus, krūtinšarvį, pečių apsaugas ir Desiukiškių tipo kalaviją.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Raitininkas dėvi savo metui būdingus žieduočio
+    šarvus ilgomis rankovėmis. Raitelio kojas taip pat
+    saugo žieduočio kelnės, sustiprintos kelių apsau-
+    gomis. Karys vilki tunika su Lietuvos valdovų heral-
+    dine simbolika. Po tunika - /amelaro krūtinšarvis ar
+    protobrigantina (kitokio tipo tam metui būdingas
+
+    iš metalinių segmentų sudarytas krūtinšarvis).
+
+    Prie krūtinšarvio pritvirtintos lapo formos pečių
+    apsaugos. Rankoje raitininkas laiko pusantros rankos
+    XIII-XIV a. Lietuvai būdingą Desiukiškių tipo kalaviją
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: Pabrėžiama šarvų vertė ir valstybinio ginkluotės išdavimo praktika.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    vo intensyviuose kovos veiksmuose. Todėl ginklai ir ypač šarvai
+    buvo labai branginami, sugadinti perkalami. Didesnė dalis gin-
+    kluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš
+    operacijas, po to, žinoma, viską reikėdavo grąžinti. Panaši prakti-
+    ka sutinkama to meto Kryžiuočių ordine.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: XIV a. šarvų technologijos aprašas pabrėžia lakštinių ir žieduočio šarvų santykį bei pošarvio reikšmę.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    xiv a. Europoje įvyko proveržis ginkluotės, o ypač šarvų technolo-
+    ginėje raidoje. Ėmė masiškai plisti lakštiniai šarvai (monolitiškais
+    plieno lakštais uždengiantys visą kūną. Tokie šarvai tapo vis pato-
+    gesni ir vis labiau prieinami. Vis dėlto jie buvo labai brangūs, todėl
+    ir toliau plačiai buvo naudojami žieduočio (grandijų ar grandini-
+    niai) šarvai. Svarbi bet kokių šarvų dalis buvo storos ir minkštos
+    medžiagos pošarvis, kuris sugerdavo dalį priešininko smūgio jėgos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Teminiai klasteriai

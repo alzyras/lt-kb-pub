@@ -1,15 +1,17 @@
 ---
-tipas: vieta
-pavadinimas: Nemunas
+tipas: 'vieta'
+pavadinimas: 'Nemunas'
 variantai:
-  - Nemuno upė
+  - 'Nemuno upė'
+  - 'Nemuno'
 aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 susije_irasai:
   - '[[Lietuva]]'
   - '[[Kaunas]]'
   - '[[Klaipėda]]'
-saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 tags:
   - vieta
 ---
@@ -46,6 +48,27 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindžia:
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+
+- t-006
+  teiginys: '2-ajai divizijai skirta gynybos linija ėjo iki Nemuno.'
+  pagrindžia:
+    - c-005
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+
+- t-007
+  teiginys: '1920 m. rugsėjo 23 d. lenkų divizijos per tiltą per Nemuną Druskininkuose persikėlė Marcinkonių link.'
+  pagrindžia:
+    - c-006
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+
+- t-008
+  teiginys: '1920 m. spalio 7 d. demarkacinė linija buvo nustatyta iki Juodosios Ančios ir Nemuno santakos.'
+  pagrindžia:
+    - c-007
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -88,6 +111,50 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+
+- c-005
+  santrauka: Citata rodo Nemuną kaip gynybinės linijos ribą.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    2-ajai divizijai: Dimitravo ež.-Meros upė-
+    Augustavo kanalas-Nemunas. Buvo
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+- c-006
+  santrauka: Citata tiesiogiai mini persikėlimą per Nemuną Druskininkuose.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Rugsėjo 23 d. lenkų divizijos perėjo tiltą
+    per Nemuną Druskininkuose ir žygiavo
+    Marcinkonių link.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+
+- c-007
+  santrauka: Citata rodo Nemuno santaką kaip demarkacinės linijos orientyrą.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Galiausiai spalio 7 d. buvo nusta-
+    tyta demarkacinė linija nuo Vokietijos sienos
+    iki Juodosios Ančios ir Nemuno santakos,
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai

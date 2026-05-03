@@ -39,7 +39,3 @@ Vietoje rezervų švedams apgauti pamiškėje buvo pastatytos kareivių iškamš
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/mūšis]]

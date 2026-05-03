@@ -1,11 +1,23 @@
 ---
-tipas: saltinis
+tipas: 'saltinis'
 pavadinimas: 'Suvalkų sutartis'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - 'Suvalkų taikos sutartį'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+laikotarpis: ''
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
 patikimumas: 'vidutinis'
 tags:
   - saltinis
@@ -26,6 +38,18 @@ Suvalkų derybos pasibaigė susitarimu, kurį abi šalys pasirašė 1920 metų s
   teiginys: '27 d.), reikalaudama, kad pasitikėjimo atmosferai sukurti Lenkija turinti pirma įvykdyti Suvalkų sutartį.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Tebevykstant Lietuvos ir Lenkijos deryboms Suvalkuose, lenkai slapta rengėsi užimti Vilnių. Šiam tikslui turėjo būti panaudotos „sukilusios“ Lenkijos kariuomenės dalys, sudarytos ne tik iš lenkų, bet ir Lenkijos kariuomenėje tarnavusių lenkakalbių lietuvių ir gudų, „nepaklūstančių“ Lenkijos vadovybei. Lenkija negalėjo atvirai vykdyti agresijos prieš Lietuvą, puolimo išvakarėse jau buvo pasirašyta Suvalkų sutartis.'
+  pagrindžia:
+    - c-003
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Asmeniniam Lenkijos prezidento Juzefo Pilsudskio draugui L. Želigovskiui buvo pavesta slapta užduotis. Inscenizavus Lenkijos kariuomenės 1-osios lietuviųbaltarusių divizijos (jai vadovauti jis buvo paskirtas 1920 m. spalio pradžioje) maištą, pažeidžiant Suvalkų taikos sutartį įsiveržti į Lietuvą.'
+  pagrindžia:
+    - c-004
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -62,3 +86,43 @@ Suvalkų derybos pasibaigė susitarimu, kurį abi šalys pasirašė 1920 metų s
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Tebevykstant Lietuvos ir Lenkijos deryboms Suvalkuose, lenkai slapta rengėsi užimti Vilnių. Šiam tikslui turėjo būti panaudotos „sukilusios“ Lenkijos kariuomenės dalys, sudarytos ne tik iš lenkų, bet ir Lenkijos kariuomenėje tarnavusių lenkakalbių lietuvių ir gudų, „nepaklūstančių“ Lenkijos vadovybei. Lenkija negalėjo atvirai vykdyti agresijos prieš Lietuvą, puolimo išvakarėse jau buvo pasirašyta Suvalkų sutartis.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tebevykstant Lietuvos ir Lenkijos de-
+    ryboms Suvalkuose, lenkai slapta ren-
+    gėsi užimti Vilnių. Šiam tikslui turėjo
+    būti panaudotos „sukilusios“ Lenkijos
+    kariuomenės dalys, sudarytos ne tik iš
+    lenkų, bet ir Lenkijos kariuomenėje tar-
+    navusių lenkakalbių lietuvių ir gudų,
+    „nepaklūstančių“ Lenkijos vadovybei.
+    Lenkija negalėjo atvirai vykdyti agre-
+    sijos prieš Lietuvą, puolimo išvakarėse
+    jau buvo pasirašyta Suvalkų sutartis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  pagrindžia:
+    - t-003
+
+- c-004
+  santrauka: 'Asmeniniam Lenkijos prezidento Juzefo Pilsudskio draugui L. Želigovskiui buvo pavesta slapta užduotis. Inscenizavus Lenkijos kariuomenės 1-osios lietuviųbaltarusių divizijos (jai vadovauti jis buvo paskirtas 1920 m. spalio pradžioje) maištą, pažeidžiant Suvalkų taikos sutartį įsiveržti į Lietuvą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Asmeniniam Lenkijos prezidento Juzefo Pilsudskio
+    draugui L. Želigovskiui buvo pavesta slapta užduotis.
+    Inscenizavus Lenkijos kariuomenės 1-osios lietuvių-
+    baltarusių divizijos (jai vadovauti jis buvo paskirtas
+    1920 m. spalio pradžioje) maištą, pažeidžiant Suvalkų
+    taikos sutartį įsiveržti į Lietuvą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  pagrindžia:
+    - t-004

@@ -134,12 +134,10 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/mūšis]]
 - [[temos/šventė]]
 
 ### Susiję objektai
 - [[objektai/grupes/Aukštaičiai]]
 - [[objektai/vietos/Medininkų pilis]]
-- [[objektai/vietos/Merkinė]]
 - [[objektai/vietos/Pabaiskas]]
 - [[objektai/vietos/Šventoji]]

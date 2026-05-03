@@ -1,11 +1,14 @@
 ---
-tipas: zodyno_irasas
+tipas: 'zodyno_irasas'
 pavadinimas: 'vaivada'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - vaivados
+  - Krokuvos vaivada
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 patikimumas: 'vidutinis'
 tags:
   - bajorija
@@ -16,13 +19,25 @@ tags:
 
 ## Santrauka
 
-Tik Vilniaus ir Trakų sritys nuo 1413 m. turėjo savo viršininkus, vadinamus ne vietininkais, bet vaivadomis.
+Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame šaltinyje vaivados apibrėžti kaip Vilniaus ir Trakų sričių lenkiškojo tipo urėdai, o šiame šaltinyje terminas vartojamas ir bendram Lietuvos, Rusios, lenkų bei vokiečių vaivadų sluoksniui, ir konkrečiam Krokuvos vaivadai įvardyti.
 
 ## Teiginiai
 - t-001
   teiginys: 'Tik Vilniaus ir Trakų sritys nuo 1413 m. turėjo savo viršininkus, vadinamus ne vietininkais, bet vaivadomis.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Vaivados minimi kaip bendras Lietuvos, Rusios, lenkų ir vokiečių karo vadų sluoksnis.'
+  pagrindžia:
+    - c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Spytekas iš Melštyno šiame šaltinyje įvardijamas Krokuvos vaivada ir Podolės valdytoju.'
+  pagrindžia:
+    - c-003
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -42,3 +57,41 @@ Tik Vilniaus ir Trakų sritys nuo 1413 m. turėjo savo viršininkus, vadinamus n
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: Vaivados sugretinti su kunigaikščiais, didžiaisiais bajorais ir kitais kariais.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Mūšyje žuvo keliasdešimt (kartais nu-
+    rodoma net 74) žymių Lietuvos kuni-
+    gaikščių: Andrius Algirdaitis Polockietis,
+    Dmitrijus Algirdaitis Brenskietis, Dimit-
+    rijus (Voluinietis Karijotaitis), (LDK karo
+    vadai, vadovavę ir 1380 m. Kulikovo mū-
+    šyje sumušant Aukso ordos pajėgas),
+    dar du Karijotaičiai, kiti Gediminaičiai,
+    Kijevo, Smolensko kunigaikščiai, Joman-
+    tas - Smolensko vietininkas ir kiti Lietu-
+    vos, Rusios, lenkų, vokiečių vaivados,
+    didieji bajorai, žymūs kariai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: Krokuvos vaivados titulas šiame šaltinyje priskiriamas konkrečiam karo dalyviui.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tochtamišo totoriai (keli tūkstančiai), 400
+    pavienių lenkų riterių, tokių kaip Spytekas
+    iš Melštyno, Krokuvos vaivada ir Podolės
+    valdytojas bei kiti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

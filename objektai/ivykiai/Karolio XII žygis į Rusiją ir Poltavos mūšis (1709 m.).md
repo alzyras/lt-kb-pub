@@ -60,8 +60,5 @@ Sužeistas Karolis XII išsigelbėjo pabėgęs į Turkus, o jo kariuomenės vien
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/mūšis]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XVIII amžius]]

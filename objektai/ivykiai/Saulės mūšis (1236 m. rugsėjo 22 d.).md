@@ -1,5 +1,5 @@
 ---
-tipas: ivykis
+tipas: 'ivykis'
 pavadinimas: 'Saulės mūšis (1236 m. rugsėjo 22 d.)'
 sukurta: '2026-04-25'
 variantai:
@@ -10,6 +10,7 @@ variantai:
   - 'Šiaulių mūšis'
   - 'Mūšis ties Šiauliais'
   - 'Mūšis ties Šiauliais ir kalavijuočių susiliejimas su kryžiuočiais'
+  - 'Saulės (Šiaulių) mūšis'
 aliases:
   - 'Saulės mūšis'
   - 'Saulės kautynės'
@@ -17,6 +18,7 @@ aliases:
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: '1236 m. rugsėjo 22 d.'
 datos:
   - '1236 m. rugsėjo 22 d.'
@@ -27,7 +29,8 @@ amziai:
   - 'XIII'
 date_start: '1236'
 date_end: '1236'
-vaidmenys: []
+vaidmenys:
+  - '[]'
 dalyviai:
   - 'Kalavijuočių ordinas'
   - 'Vykintas'
@@ -87,6 +90,31 @@ tags:
   pagrindžia:
     - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+- t-007
+  teiginys: '1236 m. rugsėjį į Lietuvą įžengė didžiulės Kalavijuočių ordino ir Europos kryžininkų pajėgos.'
+  pagrindžia:
+    - c-011
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: 'Saulės žemėje lietuviai užmušė 50 ordino brolių ir daugybę tikratikių.'
+  pagrindžia:
+    - c-012
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: 'Saulės mūšis išstūmė vokiečių ekspansiją iki Dauguvos ir paskatino žiemgalių, kuršių bei saremiečių sukilimus.'
+  pagrindžia:
+    - c-013
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: '1236 m. pergalė Šiaulių žemėje buvo laikoma itin reikšminga Lietuvos ir viso regiono raidai.'
+  pagrindžia:
+    - c-014
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -186,7 +214,7 @@ tags:
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-005
@@ -204,7 +232,7 @@ tags:
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-005
@@ -220,15 +248,83 @@ tags:
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-005
 
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/mūšis]]
+- c-011
+  santrauka: 1236 m. rugsėjį į Lietuvą įžengė didžiulės Kalavijuočių ordino ir Europos kryžininkų pajėgos.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1236 m. rugsėjį į Lietuvą įžengusios
+    didžiulės tarptautinės kryžeivių pajėgos,
+    sudarytos iš Kalavijuočių ordino bro-
+    lių ir kryžininkų iš įvairių Europos šalių,
+    „pasidalino į būrius“ ir ėmė plėšti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-012
+  santrauka: Saulės žemėje lietuviai užmušė 50 ordino brolių ir daugybę tikratikių.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    ten Saulės žemėje (terram Sauleorum) šv. Maurikijaus ir jo draugų kankinių dieną patys
+    lietuviai užmušė 50 ordino brolių ir daugybę tikratikių (multitudine fidelium).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-013
+  santrauka: Saulės mūšis išstūmė vokiečių ekspansiją iki Dauguvos ir paskatino žiemgalių, kuršių bei saremiečių sukilimus.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Ordino sutriuškinimas buvo toks stiprus,
+    kad iš vokiečių jungo išsivadavo Rytinė
+    Žiemgala, paskui sukilo kuršiai, saremie-
+    čiai estai. Vokiečių ekspansija buvo nu-
+    blokšta iki Dauguvos, į XIII a. pradžios
+    ribas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-014
+  santrauka: 1236 m. pergalė Šiaulių žemėje buvo laikoma itin reikšminga Lietuvos ir viso regiono raidai.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Ties Šiauliais suduotas smūgis ne tik
+    Kalavijuočių ordinui, bet ir popiežiaus
+    kurijos organizuotam Vokietijos, Lenkijos,
+    Švedijos, Rusios kunigaikščių, vokiečių
+    Ordinų bendram puolimui.
 
+    Atrėmusi galingą priešą, Lietuva kuriam
+    laikui įgijo ramybę šiaurėje bei galimybę
+    stiprinti savo valstybingumą viduje ir tarp-
+    tautinėje arenoje. 1236 m. pergalė Šiaulių
+    žemėje yra itin reikšminga Lietuvos, Bal-
+    tijos regiono bei Rytų Europos istorinei
+    raidai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+
+## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
 

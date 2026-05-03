@@ -1,33 +1,42 @@
 ---
-tipas: ivykis
-pavadinimas: Durbės mūšis (1260 m.)
-sukurta: 2026-04-24
+tipas: 'ivykis'
+pavadinimas: 'Durbės mūšis (1260 m.)'
+sukurta: '2026-04-24'
 variantai:
-  - mūšis prie Durbės ežero
-  - Durbės mūšio pralaimėjimas Livonijos ordinui
-aliases: []
+  - 'mūšis prie Durbės ežero'
+  - 'Durbės mūšio pralaimėjimas Livonijos ordinui'
+  - 'Durbės mūšis'
+  - 'Durbės mūšis (1260 m. liepos 13 d.)'
+aliases:
+  - '[]'
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
-laikotarpis: 1260 m.
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+laikotarpis: '1260 m.'
 datos:
-  - 1260 m.
-periodas: viduramziai
-periodo_grupes: []
+  - '1260 m.'
+  - '1260 m. liepos 13 d.'
+periodas: 'viduramziai'
+periodo_grupes:
+  - '[]'
 amziai:
-  - XIII
+  - 'XIII'
 date_start: '1260'
 date_end: '1260'
-vaidmenys: []
+vaidmenys:
+  - '[]'
 dalyviai:
-  - žemaičiai
-  - Livonijos ordinas
-  - Prūsų ordinas
-  - kuršiai
-  - lybiai
-  - latgaliai
-susije_irasai: []
-patikimumas: aukstas
+  - 'žemaičiai'
+  - 'Livonijos ordinas'
+  - 'Prūsų ordinas'
+  - 'kuršiai'
+  - 'lybiai'
+  - 'latgaliai'
+susije_irasai:
+  - '[]'
+patikimumas: 'aukstas'
 tags:
+  - ivykis
   - karas
   - mūšis
 ---
@@ -73,6 +82,25 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
+- t-004
+  teiginys: 'Durbės mūšis kilo po didelio Ordino puolimo ir pajėgų telkimo Klaipėdoje.'
+  pagrindžia:
+    - c-003
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 'Durbės mūšio priešistorėje Ordinas veržėsi gilyn į Lietuvą Nemunu ir pastatė Georgenburgo-Jurgio pilį.'
+  pagrindžia:
+    - c-004
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Po Durbės mūšio Mindaugas atsimetė nuo krikščionybės ir susigrąžino atiduotas teritorijas.'
+  pagrindžia:
+    - c-005
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Parodo ordino pasirengimą žygiui ir žemaičių veiksmą Kurše prieš pat mūšį.
@@ -109,9 +137,58 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
     - t-002
     - t-003
 
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/mūšis]]
+- c-003
+  santrauka: Durbės mūšis kilo po didelio Ordino puolimo ir pajėgų telkimo Klaipėdoje.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Iš Dobės (šiaurėje),
+    Klaipėdos (vakaruose) ir Georgenburgo
+    (pietuose) Ordinas bandė spausti vakari-
+    nes lietuvių žemes. Vokiečiai siekė išsau-
+    goti lietuvių blokuojamą Georgenburgą
+    (Jurbarką), būrė dideles pajėgas Klaipė-
+    doje, rengdamiesi dideliam puolimui, kuris
+    galiausiai baigėsi mūšiu prie Durbės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-004
+  santrauka: Durbės mūšio priešistorėje Ordinas veržėsi gilyn į Lietuvą Nemunu ir pastatė Georgenburgo-Jurgio pilį.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Šia situacija pasinaudojo Livonijos ir
+    Prūsijos ordinai. Jie ėmė veržtis gilyn į
+    Lietuvą Nemunu. 1259 m. Karšuvos že-
+    mėje kryžiuočiai pastatė Georgenbur-
+    go-Jurgio pilį (greičiausiai ji įkurta
+    Nemuno dešiniajame krante, Jurbarko
+    Bišpiliukų piliavietėje).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-005
+  santrauka: Po Durbės mūšio Mindaugas atsimetė nuo krikščionybės ir susigrąžino atiduotas teritorijas.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1259 m. atidavė visą Žemaitijos @ (beveik iki pat Šventosios upės) ir(3 Dainavos teritoriją. Po Durbės mūšio 1261 m.
 
+    atsimetė nuo krikščionybės ir susigrąžino atiduotas teritorijas bei atnaujino kovos veiksmus prieš vokiečius
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]

@@ -19,7 +19,7 @@ Objektų skaičius: 51.
 ## Susiję objektai
 
 ### Asmenys
-- [[objektai/asmenys/Albertas]]
+- [[objektai/asmenys/Albertas (Rygos vyskupas)]]
 - [[objektai/asmenys/Augustas II]]
 - [[objektai/asmenys/Barbora]]
 - [[objektai/asmenys/Gediminas]]

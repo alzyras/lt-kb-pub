@@ -10,11 +10,17 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: 'XIV a.; 1345 m.; 1362 m.; 1377 m.'
 datos:
   - '1345 m.'
   - '1362 m.'
   - '1377 m.'
+  - '1358 m.'
+  - '1360 m.'
+  - '1368 m.'
+  - '1370 m.'
+  - '1372 m.'
 periodas: ''
 periodo_grupes: []
 amziai:
@@ -99,6 +105,25 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - c-011
     - c-010
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+- t-011
+  teiginys: 'Algirdas vedė gerai organizuotą Lietuvos kariuomenę, kuri prie Mėlynųjų Vandenų sutriuškino su lietuviais konkuravusius mongolus.'
+  pagrindžia:
+    - c-012
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-012
+  teiginys: '1358 m. derybose su Šv. Romos imperatoriumi Karoliu IV Algirdas reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais.'
+  pagrindžia:
+    - c-013
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-013
+  teiginys: 'Tose pačiose derybose Algirdas reikalavo sugrąžinti Lietuvai baltų žemes vakaruose iki Alnos, Priegliaus ir Dauguvos.'
+  pagrindžia:
+    - c-013
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -267,10 +292,44 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-010
+- c-012
+  santrauka: Algirdas šaltinyje rodomas kaip Mėlynųjų Vandenų pergalės karvedys.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Gerai organizuota Lietuvos kariuomenė, vedama Lietuvos val-
+    dovo Algirdo, rusų žemėse sutriuškino su lietuviais konkuravusius
+    mongolus prie Mėlynųjų vandenų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-011
+- c-013
+  santrauka: Algirdas derybose su Karoliu IV formuluoja plačią antimongolišką ir teritorinę programą.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Pasiekęs neregėtą galybę rytuose, Algirdas 1358 m. derybose su
+    Šv. Romos imperatoriumi Karoliu IV išdidžiai reikalavo iškelti
+    kryžiuočius į rytų stepes kovoti su mongolais ir sugrąžinti Lietu-
+    vai baltų žemes vakaruose iki Alnos ir Priegliaus bei Dauguvos.
+    Kryžiuočiai į tai atsakė 1360 m. prasidėjusiomis intensyviomis
+    puolamosiomis operacijomis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-012
+    - t-013
 
 ## Ryšiai
 ### Laikotarpiai
@@ -281,3 +340,4 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - [[objektai/ivykiai/Jaunučio pašalinimas ir Algirdo bei Kęstučio valdžios perėmimas]]
 - [[objektai/asmenys/Kęstutis]]
 - [[objektai/vietos/Tverė]]
+- [[objektai/grupes/Lietuvos kariuomenė]]

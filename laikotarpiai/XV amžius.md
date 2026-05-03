@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 40.
+Objektų skaičius: 42.
 
 ## Kaip naudoti
 
@@ -20,6 +20,7 @@ Objektų skaičius: 40.
 
 ### Asmenys
 - [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Ulrichas von Jungingenas]]
 - [[objektai/asmenys/Vytautas]]
 
 ### Daiktai
@@ -53,8 +54,9 @@ Objektų skaičius: 40.
 - [[objektai/ivykiai/1447 m. privilegijos išsiderėjimas]]
 - [[objektai/ivykiai/1466 m. Torno taika]]
 - [[objektai/ivykiai/Karas su Maskva (1499–1503 m.)]]
-- [[objektai/ivykiai/Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)]]
+- [Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)](../objektai/ivykiai/Lietuvos%20ir%20ordino%20sienos%20galutinis%20patvirtinimas%20pagal%20Melno%20taik%C4%85%20%281422%20m.%29)
 - [Lucko suvažiavimas (1429 m.)](../objektai/ivykiai/Lucko%20suva%C5%BEiavimas%20%281429%20m.%29)
+- [Pabaisko mūšis (1435 m. rugsėjo 1 d.)](../objektai/ivykiai/Pabaisko%20m%C5%AB%C5%A1is%20%281435%20m.%20rugs%C4%97jo%201%20d.%29)
 - [Racionžo taika (1404 m.)](../objektai/ivykiai/Racion%C5%BEo%20taika%20%281404%20m.%29)
 - [Tanenbergo mūšis 1410 m. liepos 15 d](../objektai/ivykiai/Tanenbergo%20m%C5%AB%C5%A1is%201410%20m.%20liepos%2015%20d)
 - [Torno taika (1411 m.)](../objektai/ivykiai/Torno%20taika%20%281411%20m.%29)
