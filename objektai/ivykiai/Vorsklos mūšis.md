@@ -385,9 +385,5 @@ Nenurodyta
   pagrindžia:
     - t-012
 
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-
 ### Susiję objektai
 - [[objektai/autoriai/J. Dlugošas]]
