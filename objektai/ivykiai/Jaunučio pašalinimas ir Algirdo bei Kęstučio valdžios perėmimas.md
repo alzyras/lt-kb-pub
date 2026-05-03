@@ -55,5 +55,5 @@ Nenurodyta
 - [[temos/valdovas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas (Lietuvos valdovas, 1345 m.)]]
 - [[objektai/asmenys/Jaunutis]]

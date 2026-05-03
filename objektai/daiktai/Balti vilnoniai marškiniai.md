@@ -18,7 +18,7 @@ vaidmenys: []
 dalyviai:
   - Jogaila
 susije_irasai:
-  - [[Jogaila]]
+  - [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)|Jogaila]]
 patikimumas: aukstas
 tags: []
 ---
@@ -40,7 +40,7 @@ Tai krikšto proga dalijamas drabužis.
 Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
 
 ## Kontekstas
-- Susijęs asmuo: [[Jogaila]]
+- Susijęs asmuo: [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)|Jogaila]]
 
 ## Teiginiai
 - t-001
@@ -96,4 +96,4 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
 - [[temos/drabužis]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)]]

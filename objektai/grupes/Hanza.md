@@ -46,7 +46,6 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   teiginys: 'Hanzos miestai yra Gedimino diplomatinių laiškų adresatas'
   pagrindžia:
     - c-003
-    - c-009
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-004

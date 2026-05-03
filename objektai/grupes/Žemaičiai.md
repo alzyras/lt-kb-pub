@@ -72,7 +72,6 @@ tags:
 - t-007
   teiginys: 'Žemaičiai aiškiai siejami su visuotiniu sukilimu prieš ordino spaudimą'
   pagrindžia:
-    - c-017
     - c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta

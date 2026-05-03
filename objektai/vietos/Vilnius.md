@@ -33,9 +33,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - t-001
   teiginys: '1323 m. Gediminas jau gyveno Vilniuje ir iš čia rašė savo laiškus; nuo tada Vilnius tapo nuolatine Lietuvos sostine.'
   pagrindžia:
-    - c-014
-    - c-013
-    - c-012
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -285,7 +282,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas (Lietuvos valdovas, 1323 m.)]]
 - [[objektai/vietos/Kremlius]]
 - [[objektai/vietos/Radomas]]
 - [[objektai/vietos/Trakai]]

@@ -59,8 +59,6 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
 - t-002
   teiginys: 1009 m. vasario 14 d. Brunonas buvo suimtas ir nužudytas su visais palydovais.
   pagrindžia:
-    - c-005
-    - c-004
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta

@@ -63,5 +63,5 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
 - [[temos/valdovas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas (Lietuvos valdovas, 1345 m.)]]
 - [[objektai/ivykiai/Jaunučio pašalinimas ir Algirdo bei Kęstučio valdžios perėmimas]]

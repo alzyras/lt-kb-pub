@@ -1,13 +1,15 @@
 ---
 tipas: asmuo
-pavadinimas: 'Jogaila'
+pavadinimas: 'Jogaila (Lenkijos karalius, 1382 m.)'
 sukurta: '2026-04-24'
 variantai:
   - 'Jogailos'
   - 'Jogailai'
   - 'Jogailą'
   - 'Jagiełło'
-aliases: []
+  - 'Jogaila'
+aliases:
+  - 'Jogaila'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -40,7 +42,7 @@ tags:
   - asmuo
   - sutartis
 ---
-# Jogaila
+# Jogaila (Lenkijos karalius, 1382 m.)
 
 ## Santrauka
 
@@ -53,7 +55,7 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
 - t-001
   teiginys: '1382 m. Jogaila sudarė sutartį su kryžiuočiais, atidavė jiems Žemaičius iki Dubysos ir pasižadėjo krikštytis.'
   pagrindžia:
-    - c-022
+    - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
@@ -71,16 +73,12 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
 - t-004
   teiginys: '1386 m. Jogaila atvyko į Krokuvą ir ten buvo pakrikštytas.'
   pagrindžia:
-    - c-020
-    - c-014
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-005
   teiginys: 'Po krikšto Jogaila gavo Vladislovo vardą, vedė Jadvygą ir buvo karūnuotas Lenkijos karaliumi.'
   pagrindžia:
-    - c-019
-    - c-015
     - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -599,4 +597,4 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
 
 ### Susiję objektai
 - [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)]]

@@ -28,15 +28,12 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
 - t-001
   teiginys: 'Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiškai visuomenei'
   pagrindžia:
-    - c-012
-    - c-010
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
   teiginys: 'Lenkai yra Traidenio karo priešininkai'
   pagrindžia:
-    - c-011
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -61,7 +58,6 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
 - t-006
   teiginys: 'Lenkai atmeta lietuvių projektą ir reikalauja remtis Melniko bei Varšuvos receso aktais'
   pagrindžia:
-    - c-009
     - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta

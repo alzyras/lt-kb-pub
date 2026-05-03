@@ -27,6 +27,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-002
   teiginys: 'Jo valdymo metu Lietuva jau tiek sutvirtėjo, jog apie jos priklausomybę Lenkijai nebegalėjo būti nė kalbos, ir Lietuvos bajorai tuojau po jo mirties, nieko nesiklausę, paskelbė savo valdovu Švitrigailą.'
   pagrindžia:
+    - c-006
     - c-002
 - t-003
   teiginys: 'Lietuvos bajorija pasistengė šituo momentu pasinaudoti.'
@@ -117,6 +118,22 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: Lietuvos bajorija papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    atskirais dokumentais jį patvirtino Vytautas, Jo-
+    gaila, Lietuvos ir Lenkų bajorai. Vytauto ir Lietuvos bajorų
+    dokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žu-
+    vęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-
+    rašė Radome.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -124,5 +141,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 
 ### Susiję objektai
 - [[objektai/grupes/Laikinė Lietuvos vyriausybė]]
+- [[objektai/grupes/Lenkų bajorai]]
 - [[objektai/asmenys/Napoleonas I]]
 - [[objektai/grupes/Napoleono kariuomenė]]

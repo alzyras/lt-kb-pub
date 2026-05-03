@@ -45,8 +45,6 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - t-004
   teiginys: 'Makros sprendime buvo teigiama, kad Klaipėdos pilis pastatyta Žemaičių žemėje.'
   pagrindžia:
-    - c-007
-    - c-006
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta

@@ -23,6 +23,7 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
 - t-001
   teiginys: 'Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžiojo kunigaikščio, arba ponų taryba atsirado ir Lietuvoje.'
   pagrindžia:
+    - c-006
     - c-001
 - t-002
   teiginys: 'Tai ir buvo vadinamoji didžiojo kunigaikščio taryba.'
@@ -46,7 +47,8 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
   santrauka: 'Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžiojo kunigaikščio, arba ponų taryba atsirado ir Lietuvoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžiojo kunigaikš-
+    Lenkijoje prie karaliaus buvo ponų
+    taryba, vadinama senatu, — panaši didžiojo kunigaikš-
     čio, arba ponų taryba atsirado ir Lietuvoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -90,7 +92,8 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
   santrauka: 'Taryboje buvo suteikta laisvė kiekvienam visiškai laisvai kalbėti; didysis kunigaikštis pasižadėjo nebausti net tų, kurių patarimas būtų ir nemalonus jam.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Taryboje buvo suteikta laisvė kiekvienam visiškai laisvai kal-
+    Taryboje
+    buvo suteikta laisvė kiekvienam visiškai laisvai kal-
     bėti; didysis kunigaikštis pasižadėjo nebausti net tų, kurių
     patarimas būtų ir nemalonus jam.
   citata_rodoma: ''
@@ -104,7 +107,8 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
   santrauka: 'Visa tai jis galėjo daryti laisvai; tačiau valstybės politikoje jį varžė įsigalėjusi ponų taryba ir seimai (žiūr.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Visa tai jis galėjo daryti laisvai; tačiau valstybės politikoje jį varžė įsigalėjusi ponų taryba ir
+    Visa tai jis galėjo daryti laisvai; tačiau
+    valstybės politikoje jį varžė įsigalėjusi ponų taryba ir
     seimai (žiūr. 198—201 psl.).
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -113,3 +117,17 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: Ponų taryba papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    reikalaudami sau vietos senate, Lietuvos ponų taryboje buvusieji
+    kunigaikščiai. Bet kadangi Lietuvos ponai buvo jiems prie-
+    šingi, tai jie vis dėlto nepateko į senatą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001

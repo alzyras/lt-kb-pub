@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'Tacitas'
+pavadinimas: 'Tacitas (romėnų rašytojas, I amžiaus gale)'
 sukurta: '2026-04-24'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
@@ -11,11 +11,15 @@ vaidmenys:
   - 'romėnų rašytojas'
   - 'istorikas'
 patikimumas: 'aukštas'
+variantai:
+  - 'Tacitas'
+aliases:
+  - 'Tacitas'
 tags:
   - autorius
   - mokslininkas
 ---
-# Tacitas
+# Tacitas (romėnų rašytojas, I amžiaus gale)
 
 ## Santrauka
 

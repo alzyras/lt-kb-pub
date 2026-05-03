@@ -1,10 +1,12 @@
 ---
 tipas: 'grupe'
-pavadinimas: 'Mozūrai'
+pavadinimas: 'Mozūrai (XV amžius)'
 sukurta: '2026-04-30'
 variantai:
   - 'mozūrais'
-aliases: []
+  - 'Mozūrai'
+aliases:
+  - 'Mozūrai'
 saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
 bukle: 'juodrastis'
@@ -23,7 +25,7 @@ patikimumas: 'aukštas'
 tags:
   - grupe
 ---
-# Mozūrai
+# Mozūrai (XV amžius)
 
 ## Santrauka
 Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.

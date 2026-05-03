@@ -263,5 +263,5 @@ Nenurodyta
 - [[laikotarpiai/XIV amžius]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas (Lietuvos valdovas, 1345 m.)]]
 - [[objektai/vietos/Dniepras]]

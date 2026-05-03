@@ -19,12 +19,12 @@ Objektų skaičius: 46.
 ## Susiję objektai
 
 ### Asmenys
-- [[objektai/asmenys/Algirdas]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Algirdas (Lietuvos valdovas, 1345 m.)]]
+- [[objektai/asmenys/Gediminas (Lietuvos valdovas, 1323 m.)]]
+- [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)]]
 - [[objektai/asmenys/Karolis IV]]
-- [[objektai/asmenys/Kęstutis]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Kęstutis (vakarų pasienio valdovas, 1361 m.)]]
+- [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)]]
 
 ### Daiktai
 - [[objektai/daiktai/Lietuvos pinigai]]

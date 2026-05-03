@@ -1,12 +1,14 @@
 ---
 tipas: asmuo
-pavadinimas: 'Algirdas'
+pavadinimas: 'Algirdas (Lietuvos valdovas, 1345 m.)'
 sukurta: '2026-04-24'
 variantai:
   - 'Algirdo'
   - 'Algirdui'
   - 'Olgierd'
-aliases: []
+  - 'Algirdas'
+aliases:
+  - 'Algirdas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -35,7 +37,7 @@ patikimumas: 'aukštas'
 tags:
   - asmuo
 ---
-# Algirdas
+# Algirdas (Lietuvos valdovas, 1345 m.)
 
 ## Santrauka
 
@@ -338,6 +340,6 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 ### Susiję objektai
 - [[objektai/asmenys/Jaunutis]]
 - [[objektai/ivykiai/Jaunučio pašalinimas ir Algirdo bei Kęstučio valdžios perėmimas]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Kęstutis (vakarų pasienio valdovas, 1361 m.)]]
 - [[objektai/vietos/Tverė]]
 - [[objektai/grupes/Lietuvos kariuomenė]]

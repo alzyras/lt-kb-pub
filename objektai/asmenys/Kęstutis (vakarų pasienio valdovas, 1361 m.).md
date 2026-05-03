@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Kęstutis'
+pavadinimas: 'Kęstutis (vakarų pasienio valdovas, 1361 m.)'
 sukurta: '2026-04-24'
 variantai:
   - 'Kęstučio'
@@ -8,7 +8,9 @@ variantai:
   - 'Kęstutį'
   - 'Kiejstut'
   - 'LDK Kęstutis'
-aliases: []
+  - 'Kęstutis'
+aliases:
+  - 'Kęstutis'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -33,7 +35,7 @@ patikimumas: 'aukštas'
 tags:
   - asmuo
 ---
-# Kęstutis
+# Kęstutis (vakarų pasienio valdovas, 1361 m.)
 
 ## Santrauka
 
@@ -385,5 +387,5 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - [[laikotarpiai/XIV amžius]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Algirdas (Lietuvos valdovas, 1345 m.)]]
+- [[objektai/asmenys/Gediminas (Lietuvos valdovas, 1323 m.)]]

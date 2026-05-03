@@ -1,9 +1,10 @@
 ---
 tipas: autorius
-pavadinimas: 'Rėza'
+pavadinimas: 'Rėza (leidėjas, 1818 m.)'
 sukurta: '2026-04-24'
 variantai:
   - 'Rėzos'
+  - 'Rėza'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 laikotarpis: '1818 m.; 1825 m.'
@@ -15,11 +16,13 @@ vaidmenys:
   - 'rašytojas'
   - 'profesorius'
 patikimumas: 'vidutinis'
+aliases:
+  - 'Rėza'
 tags:
   - autorius
   - mokslininkas
 ---
-# Rėza
+# Rėza (leidėjas, 1818 m.)
 
 ## Santrauka
 
@@ -61,6 +64,7 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
     džioje pasirodęs visuotinis susidomėjimas lietuvių kalba ir lie-
     tuviškosios rašliavos pagyvėjimas Mažojoje Lietuvoje (kaip tik
 
+
     tuo metu — 1818 m. — Rėza išleido Duonelaičio raštus, o netru-
     kus — 1825 m. — ir išgarsėjusį savo dainų rinkinį).
   citata_rodoma: ""
@@ -90,7 +94,8 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   santrauka: Rėza šiame fragmente įvardytas kaip vienas iš karštų lietuvių kalbos gynėjų
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Bet tuojau atsirado ir karštų lietuvių kalbos gynėjų (prof. Rėza, kunigas Ostermejeris, mokytojas Gizevijas);
+    Bet tuojau atsirado ir karštų lietuvių kalbos
+    gynėjų (prof. Rėza, kunigas Ostermejeris, mokytojas Gizevijas);
     laikraščiuose prasidėjo karštas ginčas, ir lietuvių kalba šį kartą
     buvo apginta.
   citata_rodoma: ""

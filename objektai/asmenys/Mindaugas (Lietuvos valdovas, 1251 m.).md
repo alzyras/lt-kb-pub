@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Mindaugas'
+pavadinimas: 'Mindaugas (Lietuvos valdovas, 1251 m.)'
 sukurta: '2026-04-24'
 variantai:
   - 'Mindaugo'
@@ -12,7 +12,9 @@ variantai:
   - 'Mendovga'
   - 'karaliui Mindaugui'
   - 'karalius Mindaugas'
-aliases: []
+  - 'Mindaugas'
+aliases:
+  - 'Mindaugas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -42,7 +44,7 @@ patikimumas: 'aukštas'
 tags:
   - asmuo
 ---
-# Mindaugas
+# Mindaugas (Lietuvos valdovas, 1251 m.)
 
 ## Santrauka
 

@@ -1,23 +1,26 @@
 ---
 tipas: autorius
-pavadinimas: 'Dusburgas'
+pavadinimas: 'Dusburgas (Kryžiuočių ordino kronikininkas)'
 sukurta: '2026-04-24'
 variantai:
   - 'Petras Dusburgietis'
   - 'P. Dusburgietis'
   - 'Dusburgietis'
   - 'Petro Dusburgiečio'
+  - 'Dusburgas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 vaidmenys:
   - 'Kryžiuočių ordino kronikininkas'
 patikimumas: 'aukštas'
+aliases:
+  - 'Dusburgas'
 tags:
   - autorius
   - mokslininkas
 ---
-# Dusburgas
+# Dusburgas (Kryžiuočių ordino kronikininkas)
 
 ## Santrauka
 
