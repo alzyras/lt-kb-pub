@@ -1,0 +1,32 @@
+.home-random-teiginiai {
+  margin: 1.25rem 0;
+  padding: 0.9rem 1rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 10px;
+  background: color-mix(in srgb, var(--light) 92%, var(--highlight));
+}
+
+.home-random-teiginiai-title {
+  margin: 0 0 0.6rem;
+  font-size: 1rem;
+}
+
+.home-random-teiginiai-list {
+  margin: 0;
+  padding-left: 1.2rem;
+  display: grid;
+  gap: 0.35rem;
+}
+
+.home-random-teiginiai-list li a {
+  text-decoration: none;
+}
+
+.home-random-teiginiai-list li a:hover {
+  text-decoration: underline;
+}
+
+.home-random-teiginiai-loading,
+.home-random-teiginiai-empty {
+  color: var(--gray);
+}

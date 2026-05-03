@@ -24,6 +24,8 @@ export type ContentDetails = {
   citationFilterable?: boolean
   quoteCount?: number
   citationSourceIds?: string[]
+  claimCount?: number
+  claims?: string[]
 }
 
 interface Options {
@@ -42,6 +44,34 @@ const defaultOptions: Options = {
   rssFullHtml: false,
   rssSlug: "index",
   includeEmptyFiles: true,
+}
+
+function extractClaims(markdown: string): string[] {
+  if (!markdown) {
+    return []
+  }
+
+  const matches = markdown.matchAll(/^\s*teiginys:\s*(.+)\s*$/gm)
+  const claims: string[] = []
+
+  for (const match of matches) {
+    const raw = String(match[1] ?? "").trim()
+    if (!raw) {
+      continue
+    }
+    let value = raw
+    if (
+      (value.startsWith("'") && value.endsWith("'")) ||
+      (value.startsWith('"') && value.endsWith('"'))
+    ) {
+      value = value.slice(1, -1).trim()
+    }
+    if (value) {
+      claims.push(value)
+    }
+  }
+
+  return claims
 }
 
 function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndexMap): string {
@@ -110,10 +140,12 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
         const relativePath = file.data.relativePath!
         const frontmatter = file.data.frontmatter
         const filePath = String(file.data.filePath ?? "")
+        const markdownSource = filePath ? fs.readFileSync(filePath, "utf8") : ""
         const citationMetadata =
           isObjectPage(relativePath) && filePath
-            ? collectCitationMetadata(fs.readFileSync(filePath, "utf8"))
+            ? collectCitationMetadata(markdownSource)
             : null
+        const claims = extractClaims(markdownSource)
         if (opts?.includeEmptyFiles || (file.data.text && file.data.text !== "")) {
           linkIndex.set(slug, {
             slug,
@@ -130,6 +162,8 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
             citationFilterable: Boolean(citationMetadata),
             quoteCount: citationMetadata?.quoteCount ?? 0,
             citationSourceIds: citationMetadata?.sourceIds ?? [],
+            claimCount: claims.length,
+            claims,
           })
         }
       }

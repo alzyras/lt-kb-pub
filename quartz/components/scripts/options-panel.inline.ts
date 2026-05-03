@@ -16,6 +16,10 @@ type OptionsWindow = Window &
     addCleanup?: (cleanup: () => void) => void
   }
 
+type OptionsRoot = HTMLElement & {
+  __optionsPanelBound?: boolean
+}
+
 type CitationSourceGlobal = typeof globalThis & {
   fetchCitationSources?: Promise<CitationSourceRegistryEntry[]>
 }
@@ -29,7 +33,6 @@ const DEFAULT_STATE: OptionsState = {
 
 const optionsWindow = window as OptionsWindow
 const citationSourceGlobal = globalThis as CitationSourceGlobal
-const panelInitialized = new WeakSet<HTMLElement>()
 let state = readState()
 let cachedSources: CitationSourceRegistryEntry[] = []
 
@@ -482,10 +485,11 @@ function setPanelOpen(root: HTMLElement, open: boolean) {
 }
 
 function initPanel(root: HTMLElement) {
-  if (panelInitialized.has(root)) {
+  const optionsRoot = root as OptionsRoot
+  if (optionsRoot.__optionsPanelBound) {
     return
   }
-  panelInitialized.add(root)
+  optionsRoot.__optionsPanelBound = true
 
   const toggle = root.querySelector<HTMLElement>("[data-options-toggle]")
   const close = root.querySelector<HTMLElement>("[data-options-close]")
@@ -545,6 +549,9 @@ function initPanel(root: HTMLElement) {
   optionsWindow.addCleanup?.(() => number?.removeEventListener("change", onNumberInput))
   optionsWindow.addCleanup?.(() => search?.removeEventListener("input", onSearchInput))
   optionsWindow.addCleanup?.(() => document.removeEventListener("click", onDocumentClick))
+  optionsWindow.addCleanup?.(() => {
+    optionsRoot.__optionsPanelBound = false
+  })
 
   syncPanelState()
   renderSourceList(root, cachedSources)
