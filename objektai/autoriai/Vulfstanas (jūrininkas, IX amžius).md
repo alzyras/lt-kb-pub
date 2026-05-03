@@ -1,9 +1,10 @@
 ---
 tipas: autorius
-pavadinimas: 'Vulfstanas'
+pavadinimas: 'Vulfstanas (jūrininkas, IX amžius)'
 sukurta: '2026-04-24'
 variantai:
   - 'Vulfstano'
+  - 'Vulfstanas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 laikotarpis: 'IX amžius'
@@ -13,10 +14,12 @@ vaidmenys:
   - 'jūrininkas'
   - 'pasakojimo autorius'
 patikimumas: 'aukštas'
+aliases:
+  - 'Vulfstanas'
 tags:
   - autorius
 ---
-# Vulfstanas
+# Vulfstanas (jūrininkas, IX amžius)
 
 ## Santrauka
 

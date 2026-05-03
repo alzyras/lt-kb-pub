@@ -121,6 +121,6 @@ Nenurodyta
 - [[laikotarpiai/XV amžius]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)]]
+- [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)]]
 - [[objektai/asmenys/imperatorius Zigmantas]]

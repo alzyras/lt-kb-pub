@@ -47,7 +47,6 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 - t-002
   teiginys: 'P. Klimas parašė _Liet. senobės bruožai_.'
   pagrindžia:
-    - c-007
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -60,7 +59,6 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 - t-006
   teiginys: 'P. Klimas buvo Lietuvos Tarybos narys.'
   pagrindžia:
-    - c-008
     - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta

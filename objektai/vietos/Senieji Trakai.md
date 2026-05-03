@@ -43,7 +43,7 @@ Senieji Trakai čia aprašomi kaip vienuolių įkurdinimo vieta.
 ## Geografinis ir istorinis kontekstas
 - tipas: vietovė
 - regionas: Trakų apylinkės
-- susiję žmonės: [[Vytautas]]
+- susiję žmonės: [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)|Vytautas]]
 - susiję įvykiai:
 - susijusios grupės:
 
@@ -81,4 +81,4 @@ Senieji Trakai čia aprašomi kaip vienuolių įkurdinimo vieta.
 ### Susiję objektai
 - [[objektai/vietos/Mažoji Lenkija]]
 - [[objektai/vietos/Trakai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)]]

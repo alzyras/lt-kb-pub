@@ -57,7 +57,7 @@ A. Šapoka šiame šaltinyje minimas kaip redaktorius, teksto suderintojas; jam 
   teiginys: 'A. Šapoka parašė _Senosios Lietuvos valstybės santvarkos bruožai_.'
   pagrindžia:
     - c-008
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 ## Reikšmingi paminėjimai
 - c-001

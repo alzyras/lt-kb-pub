@@ -1,13 +1,15 @@
 ---
 tipas: asmuo
-pavadinimas: 'Gediminas'
+pavadinimas: 'Gediminas (Lietuvos valdovas, 1323 m.)'
 sukurta: '2026-04-24'
 variantai:
   - 'Gedimino'
   - 'Gediminui'
   - 'Gedyminą'
   - 'Gedimins'
-aliases: []
+  - 'Gediminas'
+aliases:
+  - 'Gediminas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -32,7 +34,7 @@ tags:
   - diplomatas
   - valdovas
 ---
-# Gediminas
+# Gediminas (Lietuvos valdovas, 1323 m.)
 
 ## Santrauka
 
@@ -63,9 +65,6 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
 - t-004
   teiginys: '1323 m. Gediminas aiškino popiežiui, kad Lietuva būtų krikštijusis, jei ne ordino grobuoniška politika.'
   pagrindžia:
-    - c-020
-    - c-018
-    - c-017
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -84,7 +83,6 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
 - t-007
   teiginys: 'Gediminas mirė apie 1341 m. ir paliko septynis sūnus.'
   pagrindžia:
-    - c-019
     - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -539,5 +537,5 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
 
 ### Susiję objektai
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Kęstutis (vakarų pasienio valdovas, 1361 m.)]]
 - [[objektai/vietos/Vilnius]]

@@ -81,33 +81,21 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - t-002
   teiginys: 'Kryžiuočių ordinas susiejamas su Marijos Mergelės ordino vardu ir kryžiaus karų tradicija'
   pagrindžia:
-    - c-048
-    - c-045
-    - c-044
-    - c-043
-    - c-042
-    - c-039
-    - c-033
-    - c-018
-    - c-017
-    - c-010
-    - c-009
     - c-002
+    - c-043
+    - c-044
+    - c-045
+    - c-048
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-003
   teiginys: 'Ordinas pristatomas kaip nuo Vyslos iki Nemuno priėjusi vokiečių jėga, puolusi lietuvius ir statanti pilis prie Nemuno'
   pagrindžia:
-    - c-051
-    - c-050
-    - c-047
-    - c-046
-    - c-038
-    - c-035
-    - c-015
-    - c-013
-    - c-011
     - c-003
+    - c-046
+    - c-047
+    - c-050
+    - c-051
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-004
@@ -119,10 +107,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - t-005
   teiginys: 'Kryžiuočių ordinas atvirai įvardijamas kaip Jogailos planams priešinęsis vokiečių ordinas, puolęs Lietuvą'
   pagrindžia:
-    - c-040
-    - c-019
-    - c-014
-    - c-012
     - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -135,15 +119,10 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - t-007
   teiginys: 'Kryžiuočių ordinas aiškiai įvardijamas kaip lietuvius žeminusi jėga, pateisinusi savo žygius'
   pagrindžia:
-    - c-053
-    - c-052
-    - c-049
-    - c-037
-    - c-036
-    - c-034
-    - c-020
-    - c-016
     - c-007
+    - c-049
+    - c-052
+    - c-053
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-008

@@ -19,7 +19,7 @@ Objektų skaičius: 22.
 ## Susiję objektai
 
 ### Asmenys
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas (Lietuvos valdovas, 1251 m.)]]
 
 ### Daiktai
 - [[objektai/daiktai/Sidabruotos geležinės balnakilpės]]

@@ -75,7 +75,12 @@ Nenurodyta
   santrauka: '1397 m. Vytautas surengė didelį žygį prie Juodosios jūros ir į Krymą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Atrodo, pritariant Jogailai, kuris iš viso rūpestingai rėmė pusbrolio rytų planus, Vytautas (1397) suruošė didelį žygį prie Juodosios jūros ir Kryman 19 20, kuris tada totorių gyvenime vaidino svarbią rolę. Atsigabenęs iš žygio daug totorių belaisvių ir pabėgėlių, kurių pusę atidavė Jogailai, juos Vytautas įkurdino Trakų kunigaikštijoje.
+    Atrodo, pritariant Jogailai, kuris
+    iš viso rūpestingai rėmė pusbrolio rytų planus, Vytautas (1397)
+    suruošė didelį žygį prie Juodosios jūros ir Kryman 19 20, kuris tada
+    totorių gyvenime vaidino svarbią rolę. Atsigabenęs iš žygio daug
+    totorių belaisvių ir pabėgėlių, kurių pusę atidavė Jogailai, juos
+    Vytautas įkurdino Trakų kunigaikštijoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -105,5 +110,5 @@ Nenurodyta
 - [[laikotarpiai/XIV amžius]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)]]
+- [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)]]

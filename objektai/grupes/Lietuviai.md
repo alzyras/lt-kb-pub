@@ -43,6 +43,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - t-003
   teiginys: 'Lietuviai yra aktyviai puolantys kryžiuočius ir griaunantys jų pilis'
   pagrindžia:
+    - c-021
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -67,6 +68,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - t-007
   teiginys: 'Lietuviai išlaiko bendrą gynimą ir seimus, bet saugo atskirus seimus ir urėdus Lietuvoje'
   pagrindžia:
+    - c-022
     - c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -279,6 +281,38 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - t-010
     - t-010
+- c-021
+  santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lietuviai taip pat dažnai įsiverždavo giliai į
+    ordino kraštą, išgriaudavo ne tik Ragainės, bet ir tolimesnes
+    pilis, pasiekdavo net Karaliaučiaus apylinkes. Tokiais žygiais
+    būdavo tik sunaikinamos pilys ir apylinkės; nei ordinas nei lie-
+    tuviai, įsiveržę į vieni kitų krašto gilumą ir sudeginę pilis, nega-
+    lėdavo ilgiau laikytis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-003
+- c-022
+  santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tačiau
+    dar ilgai lietuviai savo didįjį kunigaikštį rinkdavosi atskirai nuo
+    lenkų. Taip pat, nepaisydami unijos akto nuostatų, jie dar ilgai
+    šaukdavo ir savo atskirus seimus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Laikotarpiai

@@ -40,7 +40,7 @@ Tai pilis, minima tarp ankstyvųjų Vytauto mūro statybų.
 ## Geografinis ir istorinis kontekstas
 - tipas: pilis
 - regionas:
-- susiję žmonės: [[Vytautas]]
+- susiję žmonės: [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)|Vytautas]]
 - susiję įvykiai:
 - susijusios grupės:
 
@@ -80,4 +80,4 @@ Tai pilis, minima tarp ankstyvųjų Vytauto mūro statybų.
 ### Susiję objektai
 - [[objektai/vietos/Lyda]]
 - [[objektai/vietos/Medininkų pilis]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)]]

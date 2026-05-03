@@ -62,7 +62,8 @@ Nenurodyta
   santrauka: '1219 m. grupė Lietuvos kunigų sudarė sutartį su Volinijos kunigaikščio Romano našle.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Vistik vien Lietuvos (Aukštaičių ir Žemaičiu) plote tada atsitiktinai yra užrašyta bent
+    Vistik vien Lietuvos
+    (Aukštaičių ir Žemaičiu) plote tada atsitiktinai yra užrašyta bent
     keliasdešimt kunigų vardu. Pvz., kai visa grupė Lietuvos kunigų
     1219 m. darė sutartį su Volinijos kunigaikščio Romano našle, Ipa­
     tijaus metraštyje buvo paminėtas 21 jų vardas (PSRL, II, 735).
@@ -94,4 +95,4 @@ Nenurodyta
 - [[laikotarpiai/XIII amžius]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas (Lietuvos valdovas, 1251 m.)]]

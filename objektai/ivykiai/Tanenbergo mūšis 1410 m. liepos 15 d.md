@@ -241,6 +241,7 @@ Nenurodyta
     kryžiuočius kairėje iš jų dešiniojo flango.
     Netrukus kryžiuočių kairįjį flangą už-
     griuvo netikėtai į mūšį sugrįžusios lietuvių
+
     ## Puslapis 67
 
     pajėgos. Kryžiuočių pajėgos buvo spau-
@@ -322,11 +323,8 @@ Nenurodyta
     - t-008
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/sukilimas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)]]

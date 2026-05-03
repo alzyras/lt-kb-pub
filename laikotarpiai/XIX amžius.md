@@ -26,9 +26,9 @@ Objektų skaičius: 45.
 - [[objektai/autoriai/Jonas Basanavičius]]
 - [[objektai/autoriai/Jonas Šliūpas]]
 - [[objektai/autoriai/K. Duonelaitis]]
-- [[objektai/autoriai/Kuršaitis]]
+- [[objektai/autoriai/Kuršaitis (redaktorius, 1849–1880 m.)]]
 - [[objektai/autoriai/Motiejus Valančius]]
-- [[objektai/autoriai/Rėza]]
+- [[objektai/autoriai/Rėza (leidėjas, 1818 m.)]]
 - [[objektai/autoriai/T. Norbutas]]
 - [[objektai/autoriai/Vincas Kudirka]]
 

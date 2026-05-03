@@ -23,7 +23,7 @@ Objektų skaičius: 10.
 - [[objektai/autoriai/Dr. J. Šliūpas]]
 - [[objektai/autoriai/Jonas Basanavičius]]
 - [[objektai/autoriai/Jonas Šliūpas]]
-- [[objektai/autoriai/Kuršaitis]]
+- [[objektai/autoriai/Kuršaitis (redaktorius, 1849–1880 m.)]]
 - [[objektai/autoriai/M. Jankus]]
 - [[objektai/autoriai/Mikšas]]
 - [[objektai/autoriai/S. Zauerveinas]]

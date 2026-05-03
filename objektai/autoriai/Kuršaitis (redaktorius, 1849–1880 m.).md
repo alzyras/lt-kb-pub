@@ -1,11 +1,12 @@
 ---
 tipas: autorius
-pavadinimas: 'Kuršaitis'
+pavadinimas: 'Kuršaitis (redaktorius, 1849–1880 m.)'
 sukurta: '2026-04-24'
 variantai:
   - 'profesorius Kuršaitis'
   - 'Kuršaičio'
   - 'prof. Kuršaičio'
+  - 'Kuršaitis'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 laikotarpis: '1849–1880 m.; † 1884 m.; 1849—1880 m.'
@@ -19,10 +20,12 @@ vaidmenys:
   - 'gramatikos ir žodyno autorius'
   - 'leidėjas'
 patikimumas: 'aukštas'
+aliases:
+  - 'Kuršaitis'
 tags:
   - autorius
 ---
-# Kuršaitis
+# Kuršaitis (redaktorius, 1849–1880 m.)
 
 ## Santrauka
 
@@ -97,7 +100,8 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
   santrauka: Kuršaitis 1849—1880 m. leido „Keleivį“
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Daugiau įtakos betgi visuomenei turėjo 1849—1880 m. su valdžios pa-
+    Daugiau
+    įtakos betgi visuomenei turėjo 1849—1880 m. su valdžios pa-
     rama prof. Kuršaičio leistasai „Keleivis". Jis buvo leidžiamas
     tam tikslui, kad užkirstų kelią tuo metu lietuvių tarpe plintan-
     čioms, Prūsų karalystėje įsigalėjusioms revoliucinėms idėjoms;

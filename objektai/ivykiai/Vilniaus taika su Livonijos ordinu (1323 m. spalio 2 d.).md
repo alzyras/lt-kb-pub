@@ -86,8 +86,10 @@ Nenurodyta
   santrauka: '1323 m. spalio 2 d. Vilniuje buvo sudaryta taika tarp Gedimino valdžios ir Livonijos ordino su vyskupais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Prūsų ordinas, nepripažindamas tos sutarties, skatino savo vyskupus ir jų kapitulas pareikšti Livo­
-    nijos dvasininkams protestą, reikalaujant anuliuoti su Gediminu pasirašytą sutartį^16.
+    Prūsų ordinas, nepripažindamas
+    tos sutarties, skatino savo vyskupus ir jų kapitulas pareikšti Livo­
+    nijos dvasininkams protestą, reikalaujant anuliuoti su Gediminu
+    pasirašytą sutartį^16.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -101,4 +103,4 @@ Nenurodyta
 - [[laikotarpiai/XIV amžius]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas (Lietuvos valdovas, 1323 m.)]]

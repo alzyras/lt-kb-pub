@@ -20,7 +20,7 @@ Objektų skaičius: 10.
 
 ### Asmenys
 - [[objektai/asmenys/A. Voldemaras]]
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas (Lietuvos valdovas, 1323 m.)]]
 - [[objektai/asmenys/Leonas Sapiega]]
 - [[objektai/asmenys/Posevinas]]
 - [[objektai/asmenys/Želigovskis]]

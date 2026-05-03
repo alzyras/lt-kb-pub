@@ -19,9 +19,9 @@ Objektų skaičius: 42.
 ## Susiję objektai
 
 ### Asmenys
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)]]
 - [[objektai/asmenys/Ulrichas von Jungingenas]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)]]
 
 ### Daiktai
 - [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
@@ -32,7 +32,7 @@ Objektų skaičius: 42.
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/grupes/Mozūrai]]
+- [[objektai/grupes/Mozūrai (XV amžius)]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Valakai]]
 - [[objektai/grupes/Žemaičiai]]

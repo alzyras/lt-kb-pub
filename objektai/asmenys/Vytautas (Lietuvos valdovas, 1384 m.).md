@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Vytautas'
+pavadinimas: 'Vytautas (Lietuvos valdovas, 1384 m.)'
 sukurta: '2026-04-24'
 variantai:
   - 'Vytauto'
@@ -12,7 +12,9 @@ variantai:
   - 'Vyt.'
   - 'Vytautas Didysis Kęstutaitis'
   - 'didysis kunigaikštis Vytautas'
-aliases: []
+  - 'Vytautas'
+aliases:
+  - 'Vytautas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -45,7 +47,7 @@ tags:
   - asmuo
   - pilis
 ---
-# Vytautas
+# Vytautas (Lietuvos valdovas, 1384 m.)
 
 ## Santrauka
 
@@ -735,6 +737,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 
 ### Susiję objektai
 - [[objektai/vietos/Astravos dvaras]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)]]
 - [[objektai/vietos/Luckas]]
 - [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
