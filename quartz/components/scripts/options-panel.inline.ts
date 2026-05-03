@@ -6,6 +6,7 @@ type CitationSourceRegistryEntry = {
 
 type OptionsState = {
   minQuoteCount: number
+  sourceSelectionMode: "all" | "custom"
   selectedSourceIds: string[]
 }
 
@@ -22,6 +23,7 @@ type CitationSourceGlobal = typeof globalThis & {
 const OPTIONS_STORAGE_KEY = "ltkb-options-v1"
 const DEFAULT_STATE: OptionsState = {
   minQuoteCount: 0,
+  sourceSelectionMode: "all",
   selectedSourceIds: [],
 }
 
@@ -153,10 +155,11 @@ function readState(): OptionsState {
   try {
     const parsed = JSON.parse(stored) as Partial<OptionsState>
     const minQuoteCount = Number.isFinite(parsed.minQuoteCount) ? Math.max(0, Number(parsed.minQuoteCount)) : 0
+    const sourceSelectionMode = parsed.sourceSelectionMode === "custom" ? "custom" : "all"
     const selectedSourceIds = Array.isArray(parsed.selectedSourceIds)
       ? parsed.selectedSourceIds.filter((value): value is string => typeof value === "string")
       : []
-    return { minQuoteCount, selectedSourceIds }
+    return { minQuoteCount, sourceSelectionMode, selectedSourceIds }
   } catch {
     return { ...DEFAULT_STATE }
   }
@@ -169,12 +172,20 @@ function persistState() {
 function normalizeState() {
   state = {
     minQuoteCount: Math.max(0, Number(state.minQuoteCount) || 0),
+    sourceSelectionMode: state.sourceSelectionMode === "custom" ? "custom" : "all",
     selectedSourceIds: [...new Set(state.selectedSourceIds.filter(Boolean))],
   }
 }
 
 function selectedSourceSet(): Set<string> {
   return new Set(state.selectedSourceIds)
+}
+
+function isSourceSelected(sourceId: string): boolean {
+  if (state.sourceSelectionMode === "all") {
+    return true
+  }
+  return selectedSourceSet().has(sourceId)
 }
 
 function parseSourceIds(value: string | undefined): string[] {
@@ -185,8 +196,11 @@ function parseSourceIds(value: string | undefined): string[] {
 }
 
 function matchesSourceSelection(itemSourceIds: string[]): boolean {
-  if (state.selectedSourceIds.length === 0) {
+  if (state.sourceSelectionMode === "all") {
     return true
+  }
+  if (state.selectedSourceIds.length === 0) {
+    return false
   }
   const selected = selectedSourceSet()
   return itemSourceIds.some((id) => selected.has(id))
@@ -323,7 +337,7 @@ function applyCitationFilters() {
 
   const claimRows = document.querySelectorAll<HTMLElement>('[data-claim-row="true"]')
   claimRows.forEach((row) => {
-    if (state.selectedSourceIds.length === 0) {
+    if (state.sourceSelectionMode === "all") {
       row.hidden = false
       return
     }
@@ -381,11 +395,13 @@ function syncPanelState() {
       number.value = `${state.minQuoteCount}`
     }
     if (selectedSummary) {
-      selectedSummary.textContent = `Pasirinkta: ${state.selectedSourceIds.length}`
+      const selectedCount =
+        state.sourceSelectionMode === "all" ? cachedSources.length : state.selectedSourceIds.length
+      selectedSummary.textContent = `Pasirinkta: ${selectedCount}`
     }
 
     root.querySelectorAll<HTMLInputElement>("[data-options-source-checkbox]").forEach((checkbox) => {
-      checkbox.checked = state.selectedSourceIds.includes(checkbox.value)
+      checkbox.checked = isSourceSelected(checkbox.value)
     })
   })
 }
@@ -407,10 +423,9 @@ function renderSourceList(root: HTMLElement, sources: CitationSourceRegistryEntr
     return
   }
 
-  const selected = selectedSourceSet()
   list.innerHTML = visibleSources
     .map((source) => {
-      const checked = selected.has(source.id) ? 'checked="checked"' : ""
+      const checked = isSourceSelected(source.id) ? 'checked="checked"' : ""
       return `
         <div class="options-panel-source-row">
           <label>
@@ -425,10 +440,22 @@ function renderSourceList(root: HTMLElement, sources: CitationSourceRegistryEntr
 
   list.querySelectorAll<HTMLInputElement>("[data-options-source-checkbox]").forEach((checkbox) => {
     const onChange = () => {
+      const currentSelection =
+        state.sourceSelectionMode === "all"
+          ? cachedSources.map((source) => source.id)
+          : [...state.selectedSourceIds]
       if (checkbox.checked) {
-        state.selectedSourceIds = [...new Set([...state.selectedSourceIds, checkbox.value])]
+        const nextSelection = [...new Set([...currentSelection, checkbox.value])]
+        if (cachedSources.length > 0 && nextSelection.length >= cachedSources.length) {
+          state.sourceSelectionMode = "all"
+          state.selectedSourceIds = []
+        } else {
+          state.sourceSelectionMode = "custom"
+          state.selectedSourceIds = nextSelection
+        }
       } else {
-        state.selectedSourceIds = state.selectedSourceIds.filter((value) => value !== checkbox.value)
+        state.sourceSelectionMode = "custom"
+        state.selectedSourceIds = currentSelection.filter((value) => value !== checkbox.value)
       }
       applyFilters()
     }
@@ -441,6 +468,7 @@ function rerenderSourceLists() {
   document.querySelectorAll<HTMLElement>("[data-options-root]").forEach((root) => {
     renderSourceList(root, cachedSources)
   })
+  applyFilters()
 }
 
 function setPanelOpen(root: HTMLElement, open: boolean) {
@@ -502,7 +530,9 @@ function initPanel(root: HTMLElement) {
   close?.addEventListener("click", onClose)
   reset?.addEventListener("click", onReset)
   range?.addEventListener("input", onRangeInput)
+  range?.addEventListener("change", onRangeInput)
   number?.addEventListener("input", onNumberInput)
+  number?.addEventListener("change", onNumberInput)
   search?.addEventListener("input", onSearchInput)
   document.addEventListener("click", onDocumentClick)
 
@@ -510,7 +540,9 @@ function initPanel(root: HTMLElement) {
   optionsWindow.addCleanup?.(() => close?.removeEventListener("click", onClose))
   optionsWindow.addCleanup?.(() => reset?.removeEventListener("click", onReset))
   optionsWindow.addCleanup?.(() => range?.removeEventListener("input", onRangeInput))
+  optionsWindow.addCleanup?.(() => range?.removeEventListener("change", onRangeInput))
   optionsWindow.addCleanup?.(() => number?.removeEventListener("input", onNumberInput))
+  optionsWindow.addCleanup?.(() => number?.removeEventListener("change", onNumberInput))
   optionsWindow.addCleanup?.(() => search?.removeEventListener("input", onSearchInput))
   optionsWindow.addCleanup?.(() => document.removeEventListener("click", onDocumentClick))
 
