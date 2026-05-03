@@ -6,6 +6,7 @@ import ArticleTitle from "./ArticleTitle"
 import Darkmode from "./Darkmode"
 import ReaderMode from "./ReaderMode"
 import AdvancedEvidenceToggle from "./AdvancedEvidenceToggle"
+import OptionsPanel from "./OptionsPanel"
 import Head from "./Head"
 import PageTitle from "./PageTitle"
 import ContentMeta from "./ContentMeta"
@@ -33,6 +34,7 @@ export {
   Darkmode,
   ReaderMode,
   AdvancedEvidenceToggle,
+  OptionsPanel,
   Head,
   PageTitle,
   ContentMeta,

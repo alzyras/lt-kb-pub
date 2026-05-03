@@ -28,7 +28,9 @@ export function pageResources(
   staticResources: StaticResources,
 ): StaticResources {
   const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
+  const citationSourcesPath = joinSegments(baseDir, "static/citationSources.json")
   const contentIndexScript = `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`
+  const citationSourcesScript = `globalThis.fetchCitationSources = fetch("${citationSourcesPath}").then(data => data.json()).catch(() => [])`
 
   const resources: StaticResources = {
     css: [
@@ -48,6 +50,12 @@ export function pageResources(
         contentType: "inline",
         spaPreserve: true,
         script: contentIndexScript,
+      },
+      {
+        loadTime: "beforeDOMReady",
+        contentType: "inline",
+        spaPreserve: true,
+        script: citationSourcesScript,
       },
       ...staticResources.js,
     ],

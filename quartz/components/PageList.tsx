@@ -1,3 +1,4 @@
+import fs from "node:fs"
 import { FullSlug, isFolderPath, resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
 import { getDate } from "./Date"
@@ -8,6 +9,7 @@ import {
   parseFrontmatterPeriodRange,
   visiblePeriodDisplay,
 } from "../util/periodRange"
+import { CitationMetadata, collectCitationMetadata } from "../util/citationFilter"
 import { tagKind } from "./TagList"
 // @ts-ignore
 import periodFilterScript from "./scripts/period-filter.inline"
@@ -109,6 +111,32 @@ function shouldGroupByType(slug: string | undefined): boolean {
   return current.startsWith("tags/") || current.startsWith("temos/") || current.startsWith("laikotarpiai/")
 }
 
+const emptyCitationMetadata: CitationMetadata = {
+  quoteCount: 0,
+  sourceTitles: [],
+  sourceIds: [],
+  sources: [],
+}
+
+const citationMetadataCache = new Map<string, CitationMetadata>()
+
+function citationMetadataForPage(page: QuartzPluginData): CitationMetadata {
+  const filePath = String(page.filePath ?? "")
+  if (!filePath || !page.frontmatter?.tipas || !page.slug?.startsWith("objektai/")) {
+    return emptyCitationMetadata
+  }
+
+  const cached = citationMetadataCache.get(filePath)
+  if (cached) {
+    return cached
+  }
+
+  const markdown = fs.readFileSync(filePath, "utf8")
+  const metadata = collectCitationMetadata(markdown)
+  citationMetadataCache.set(filePath, metadata)
+  return metadata
+}
+
 export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort }: Props) => {
   const sorter = sort ?? byDateAndAlphabeticalFolderFirst(cfg)
   let list = allFiles.sort(sorter)
@@ -151,6 +179,10 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
     const title = page.frontmatter?.title
     const tags = page.frontmatter?.tags ?? []
     const tipas = normalizedType(page.frontmatter?.tipas)
+    const isObjectPage = Boolean(page.frontmatter?.tipas) && Boolean(page.slug?.startsWith("objektai/"))
+    const citationMetadata = isObjectPage ? citationMetadataForPage(page) : emptyCitationMetadata
+    const quoteCount = citationMetadata.quoteCount
+    const citationSourceIds = citationMetadata.sourceIds
 
     return (
       <li
@@ -158,6 +190,10 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
         data-period-filterable={isTargetType ? "true" : "false"}
         data-period-start={range ? `${range.start}` : undefined}
         data-period-end={range ? `${range.end}` : undefined}
+        data-period-match="true"
+        data-citation-filterable={isObjectPage ? "true" : "false"}
+        data-quote-count={isObjectPage ? `${quoteCount}` : undefined}
+        data-citation-sources={isObjectPage ? citationSourceIds.join("|") : undefined}
       >
         <div class="section">
           <div class="meta-box" title={periodDisplay?.label}>
