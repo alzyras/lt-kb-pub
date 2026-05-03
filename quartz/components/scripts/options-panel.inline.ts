@@ -234,6 +234,46 @@ function applyListFilters() {
   updatePeriodSummaries()
 }
 
+function applyExplorerFilters() {
+  const evaluateLeaf = (item: HTMLLIElement): boolean => {
+    const filterable = item.dataset.citationFilterable === "true"
+    let optionsOk = true
+    if (filterable) {
+      const quoteCount = Number(item.dataset.quoteCount ?? "0")
+      const sourceIds = parseSourceIds(item.dataset.citationSources)
+      optionsOk = quoteCount >= state.minQuoteCount && matchesSourceSelection(sourceIds)
+    }
+    item.dataset.optionsMatch = optionsOk ? "true" : "false"
+    item.hidden = !optionsOk
+    return optionsOk
+  }
+
+  const evaluateFolder = (item: HTMLLIElement): boolean => {
+    const children = [
+      ...(item.querySelectorAll(":scope > .folder-outer > ul.content > li") as NodeListOf<HTMLLIElement>),
+    ]
+    const hasVisibleChildren = children.some((child) => evaluateNode(child))
+    item.dataset.optionsMatch = hasVisibleChildren ? "true" : "false"
+    item.hidden = !hasVisibleChildren
+    return hasVisibleChildren
+  }
+
+  const evaluateNode = (item: HTMLLIElement): boolean => {
+    const nodeType = item.dataset.explorerNode
+    if (nodeType === "folder") {
+      return evaluateFolder(item)
+    }
+    return evaluateLeaf(item)
+  }
+
+  document.querySelectorAll<HTMLElement>(".explorer .explorer-ul").forEach((explorerList) => {
+    const items = [...explorerList.children].filter(
+      (child): child is HTMLLIElement => child instanceof HTMLLIElement,
+    )
+    items.forEach((item) => evaluateNode(item))
+  })
+}
+
 function syncEmptyState(
   wrapper: HTMLElement | null,
   {
@@ -321,6 +361,7 @@ function applyFilters() {
   normalizeState()
   persistState()
   applyListFilters()
+  applyExplorerFilters()
   applyCitationFilters()
   syncPanelState()
 }
@@ -396,6 +437,12 @@ function renderSourceList(root: HTMLElement, sources: CitationSourceRegistryEntr
   })
 }
 
+function rerenderSourceLists() {
+  document.querySelectorAll<HTMLElement>("[data-options-root]").forEach((root) => {
+    renderSourceList(root, cachedSources)
+  })
+}
+
 function setPanelOpen(root: HTMLElement, open: boolean) {
   const popover = root.querySelector<HTMLElement>("[data-options-popover]")
   const toggle = root.querySelector<HTMLElement>("[data-options-toggle]")
@@ -441,6 +488,15 @@ function initPanel(root: HTMLElement) {
     applyFilters()
   }
   const onSearchInput = () => renderSourceList(root, cachedSources)
+  const onDocumentClick = (event: MouseEvent) => {
+    const target = event.target
+    if (!(target instanceof Node)) {
+      return
+    }
+    if (!root.contains(target)) {
+      setPanelOpen(root, false)
+    }
+  }
 
   toggle?.addEventListener("click", onToggle)
   close?.addEventListener("click", onClose)
@@ -448,6 +504,7 @@ function initPanel(root: HTMLElement) {
   range?.addEventListener("input", onRangeInput)
   number?.addEventListener("input", onNumberInput)
   search?.addEventListener("input", onSearchInput)
+  document.addEventListener("click", onDocumentClick)
 
   optionsWindow.addCleanup?.(() => toggle?.removeEventListener("click", onToggle))
   optionsWindow.addCleanup?.(() => close?.removeEventListener("click", onClose))
@@ -455,6 +512,7 @@ function initPanel(root: HTMLElement) {
   optionsWindow.addCleanup?.(() => range?.removeEventListener("input", onRangeInput))
   optionsWindow.addCleanup?.(() => number?.removeEventListener("input", onNumberInput))
   optionsWindow.addCleanup?.(() => search?.removeEventListener("input", onSearchInput))
+  optionsWindow.addCleanup?.(() => document.removeEventListener("click", onDocumentClick))
 
   syncPanelState()
   renderSourceList(root, cachedSources)
@@ -466,14 +524,16 @@ function initOptionsPanels() {
   applyFilters()
 }
 
+initOptionsPanels()
+
 loadCitationSources()
   .then((sources) => {
     cachedSources = sources
-    initOptionsPanels()
+    rerenderSourceLists()
   })
   .catch(() => {
     cachedSources = deriveSourcesFromDom()
-    initOptionsPanels()
+    rerenderSourceLists()
   })
 
 optionsWindow.applyQuartzOptionFilters = applyFilters

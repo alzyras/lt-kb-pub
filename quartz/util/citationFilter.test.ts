@@ -6,7 +6,7 @@ import path from "node:path"
 import { collectCitationMetadata, normalizeCitationSourceId } from "./citationFilter"
 import { buildCitationSourceRegistry } from "../plugins/emitters/citationSources"
 import { defaultProcessedContent } from "../plugins/vfile"
-import type { FullSlug } from "./path"
+import type { FilePath, FullSlug } from "./path"
 
 const markdown = `---
 title: Test Object
@@ -71,13 +71,13 @@ describe("citationFilter metadata", () => {
 
     const first = defaultProcessedContent({
       slug: "objektai/asmenys/Testas" as FullSlug,
-      relativePath: "objektai/asmenys/Testas.md",
-      filePath: firstPath,
+      relativePath: "objektai/asmenys/Testas.md" as FilePath,
+      filePath: firstPath as FilePath,
     })
     const second = defaultProcessedContent({
       slug: "objektai/daiktai/Kitas" as FullSlug,
-      relativePath: "objektai/daiktai/Kitas.md",
-      filePath: secondPath,
+      relativePath: "objektai/daiktai/Kitas.md" as FilePath,
+      filePath: secondPath as FilePath,
     })
 
     const registry = buildCitationSourceRegistry([first, second])

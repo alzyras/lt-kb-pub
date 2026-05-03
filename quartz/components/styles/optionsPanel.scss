@@ -2,6 +2,7 @@
   position: relative;
   display: flex;
   align-items: center;
+  width: fit-content;
 }
 
 .options-panel-toggle,
@@ -16,38 +17,37 @@
 }
 
 .options-panel-toggle {
-  cursor: pointer;
-  padding: 0;
-  position: relative;
-  background: none;
-  border: none;
-  width: 20px;
-  height: 32px;
-  margin: 0;
-  text-align: inherit;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.35rem 0.55rem;
+  min-height: 2rem;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 0.45rem;
+  text-align: left;
   flex-shrink: 0;
+  line-height: 1;
+  user-select: none;
 }
 
 .options-panel-toggle .options-panel-icon {
-  position: absolute;
-  width: 20px;
-  height: 20px;
-  top: calc(50% - 10px);
+  position: static;
+  width: 18px;
+  height: 18px;
   fill: var(--darkgray);
   stroke: var(--darkgray);
   transition: opacity 0.1s ease;
+  flex-shrink: 0;
 }
 
-.sr-only {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  padding: 0;
-  border: 0;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  white-space: nowrap;
+.options-panel-toggle-label {
+  display: inline-block;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--darkgray);
+  text-transform: uppercase;
 }
 
 .options-panel-popover {
@@ -63,6 +63,12 @@
   border-radius: 0.7rem;
   background: var(--light);
   box-shadow: 0 14px 30px rgba(0, 0, 0, 0.16);
+}
+
+.options-panel-toggle:hover,
+.options-panel-toggle[aria-expanded="true"] {
+  border-color: color-mix(in srgb, var(--secondary) 25%, var(--lightgray));
+  background: color-mix(in srgb, var(--secondary) 8%, var(--light));
 }
 
 .options-panel-header,
