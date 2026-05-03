@@ -18,6 +18,21 @@ tags:
 
 Zigmanto Augusto pinigai: 16 — obolis, arba pusdenaris (jo dydis yra lygus denaro dydžiui, bet sidabro kokybė perpus prastesnė); 17 — denaras; 18 — dvidenaris; 19 — pusskatikis; 20 — skatikas; 21 — trečiokas ( = 3 skatikai); 22 — ketvirtokas ( = 4 skatikai). Lenkijoje jo laikais nebuvo jokios kalyklos (kalykla buvo tik vad. karališkuosiuose Prūsuose); visuose jo piniguose yra parašas: „Moneta magni ducatus Lithuaniae". Kadangi Lietuvos pinigai buvo^1 /4 brangesni, negu tokie pat Lenkijos pinigai, tai Zigm. Augustas norėjo juos suvienodinti; apie 1565 m. jis Tikocine įkurtoje kalykloje pradėjo kalti lenkiškos vertės pinigus, bet, kilus nepasitenkinimui, turėjo tą darbą mesti.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Zigmanto Augusto pinigai: 16 — obolis, arba pusdenaris (jo dydis yra lygus denaro dydžiui, bet sidabro kokybė perpus prastesnė); 17 — denaras; 18 — dvidenaris; 19 — pusskatikis; 20 — skatikas; 21 — trečiokas ( = 3 skatikai); 22 — ketvirtokas ( = 4 skatikai).'

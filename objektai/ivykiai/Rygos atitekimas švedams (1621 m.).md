@@ -16,6 +16,18 @@ tags:
 
 Kai 1621 m. Ryga atiteko Švedams, laisvajai prekybai užsidarė ir šis kelias.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kai 1621 m. Ryga atiteko Švedams, laisvajai prekybai užsidarė ir šis kelias.'

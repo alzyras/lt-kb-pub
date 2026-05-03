@@ -20,6 +20,21 @@ tags:
 
 Du pliki kardai minimi kaip priešmūšinis iššūkis. Viename šaltinyje ordino magistras juos nusiunčia Vytautui ir Jogailai, kitame Ulrichas von Jungingenas pasiūlo tuoj pradėti mūšį.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Magistras nusiuntė Vytautui ir Jogailai du plikus kardus, ragindamas nesislapstyti krūmuose.'

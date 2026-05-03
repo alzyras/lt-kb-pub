@@ -38,6 +38,18 @@ tags:
 
 Klecko mūšyje Lietuvos kariuomenė puolė totorius, juos sutriuškino, paėmė grobį ir pasiekė reikšmingą pergalę. Po mūšio totorių likučiai buvo persekiojami, dalis jų buvo išgaudyta rugpjūčio 8 d., o Mykolas Glinskis triumfuodamas grįžo į Vilnių. 1506 m. rugpjūčio 6 d. Lietuvos kariuomenė prie Klecko perėjo upę, išvydo totorių pulkus ir pradėjo mūšį Kunigaikštis Mykolas su kairiuoju sparnu perskyrė totorių jėgas į dvi dalis; Lietuvos kariuomenė pradėjo lemiamą puolimą.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1506 m. rugpjūčio 6 d. Lietuvos kariuomenė prie Klecko perėjo upę, išvydo totorių pulkus ir pradėjo mūšį.'

@@ -25,8 +25,20 @@ tags: []
 
 Kalnėnai ir žemaičiai laiko kelias, gandrus, blezdingas, varnus, šarkas, triškius, zyles ir ežius šventais ir leidžia jiems gyventi savo namuose arba šalia jų. Kalnėnai ir žemaičiai tuos paukščius gerbia ne dėl kito priežasties, o dėl jų teikiamos linksmybės ir apsaugos.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: socialinė norma
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

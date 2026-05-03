@@ -17,6 +17,18 @@ tags:
 
 Tėvui žuvus, Vytautas iš Vilniaus pilies buvo irgi perkeltas į Krėvą. Bet jis nebuvo sunkiai kalinamas. Jį čia galėjo lankyti žmona Ona, su kuria jis ir sugalvojo būdą pabėgti. Tam tikslui pasiaukojo jų tarnaitė, kuri atvykdavo drauge su Ona pas Vytautą..
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tėvui žuvus, Vytautas iš Vilniaus pilies buvo irgi perkeltas į Krėvą. Bet jis nebuvo sunkiai kalinamas. Jį čia galėjo lankyti žmona Ona, su kuria jis ir sugalvojo būdą pabėgti. Tam tikslui pasiaukojo jų tarnaitė, kuri atvykdavo drauge su Ona pas Vytautą..'

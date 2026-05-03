@@ -25,8 +25,20 @@ tags: []
 
 Tokias vietas žmonės paprastai vadino milžinų kapais ir net vyresnybės nurodymu jas ardydami nerasdavo nieko, kas patvirtintų liaudies pasakas.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: komemoracinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

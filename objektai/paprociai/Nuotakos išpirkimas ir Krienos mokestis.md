@@ -30,8 +30,20 @@ tags: []
 
 Nuotakos išpirkimas čia pateikiamas kaip senas vedybų paprotys, kai vyras nuotaką atsiperka iš jos tėvų. Vėliau su juo siejamas ir „Krienos“ mokestis, kuris XVI amžiaus dokumentuose jau reiškė rinkliavą, mokamą ponams ištekančių dukterų atveju.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: socialinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

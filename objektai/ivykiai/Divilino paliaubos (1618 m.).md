@@ -17,6 +17,18 @@ tags:
 
 Maskva buvo pasiekta, tačiau jos paimti nepavyko, ir 1618 m. Divilino kaime (prie Maskvos) buvo padarytos 16 metų paliaubos.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Maskva buvo pasiekta, tačiau jos paimti nepavyko, ir 1618 m. Divilino kaime (prie Maskvos) buvo padarytos 16 metų paliaubos.'

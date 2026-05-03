@@ -25,8 +25,20 @@ tags: []
 
 Miesto atstovai išėję pasitikdavo valdovą ir atverdavo jam miesto vartus. Po pasidavimo miesto atstovai sutikdavo tarnauti valdovui, o šis iškilmingai įjodavo į miestą ir pilį.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: politinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

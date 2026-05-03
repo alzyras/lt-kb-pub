@@ -16,6 +16,21 @@ tags:
 
 Jie kvietėsi į Lietuvą lenkų protestantų pamokslininkų, ir visos pamaldos iš pradžių buvo atliekamos vien lenkiškai. Lietuvos protestantai suskato lietuviškai sakyti pamokslus ir spausdinti lietuviškuosius raštus tik tada, kai to griebėsi atsigavę katalikai.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Jie kvietėsi į Lietuvą lenkų protestantų pamokslininkų, ir visos pamaldos iš pradžių buvo atliekamos vien lenkiškai.'

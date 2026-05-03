@@ -44,6 +44,18 @@ tags:
 
 Šiame gabale gynyba aprašoma kaip nuoseklus AT rūmų, jų prieigų ir visuomenės pasipriešinimo organizavimas nuo sausio dienų iki rugpjūčio pučo. Tekste aiškiai siejami Sausio 13-osios nakties įvykiai, vėlesni fortifikavimo darbai ir rugpjūčio mėnesio įtampos eskalacija. Pirmosiomis sausio dienomis gynėjai buvo išdėstyti ginti rūmus, jų išorinį perimetrą ir atakuoti sovietų pajėgas iš nugaros Gynyba buvo grindžiama trimis principais, o politinė vadovybė laikėsi nuostatos nepasiduoti, bet ir neperžengti paskutinės ribos be būtinybės.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Pirmosiomis sausio dienomis gynėjai buvo išdėstyti ginti rūmus, jų išorinį perimetrą ir atakuoti sovietų pajėgas iš nugaros.'

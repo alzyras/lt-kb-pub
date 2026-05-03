@@ -18,6 +18,18 @@ tags:
 
 Norėdama Lietuvos valstybę išgelbėti iš tos būklės, Taryba nusprendė pavesti ją vienam iš valdančiųjų Vokietijos princų, būtent Viurtembergo karaliaus artimam giminaičiui katalikui, kunigaikščiui von Urachui, kurs, būdamas už Prūsijos karalių daug silpnesnis.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Norėdama Lietuvos valstybę išgelbėti iš tos būklės, Taryba nusprendė pavesti ją vienam iš valdančiųjų Vokietijos princų, būtent Viurtembergo karaliaus artimam giminaičiui katalikui, kunigaikščiui von Urachui, kurs, būdamas už Prūsijos karalių daug silpnesnis.'

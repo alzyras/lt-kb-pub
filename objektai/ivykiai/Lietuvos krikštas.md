@@ -21,6 +21,19 @@ tags:
 Jogaila, vesdamas Jadvygą ir tapdamas Lenkų karalium, pasižadėjo patsai krikštytis ir krikštyti Lietuvą. Krikšto apeigos pirmiausia buvo atliktos Vilniuje, o paskui Jogaila važinėdamas krikštijo visas kitas žymesnes Lietuvos vietas. Krikštui sušaukdavo apylinkės žmones į vieną vietą; kad greičiau eitų krikštas, žmones krikštijo būriais.
 
 Ivinskio periodizacijoje 1385–1387 m. Kriavo aktas ir Lietuvos krikštas iškeliami kaip viena kertinių Lietuvos istorijos datų, o 1387 m. Aukštaičių žemės krikštas aptariamas kaip papildomas krikšto aktas.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Jogaila, vesdamas Jadvygą ir tapdamas Lenkų karalium, pasižadėjo patsai krikštytis ir krikštyti Lietuvą.'
@@ -43,6 +56,7 @@ Ivinskio periodizacijoje 1385–1387 m. Kriavo aktas ir Lietuvos krikštas iške
   teiginys: '1387 m. lietuvių krikštas Aukštaičių žemėje šiame veikale aptariamas kaip papildomas krikšto aktas Lietuvos krikštijimo istorijoje.'
   pagrindžia:
     - c-005
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jogaila, vesdamas Jadvygą ir tapdamas Lenkų karalium, pasižadėjo patsai krikštytis ir krikštyti Lietuvą.'

@@ -19,6 +19,18 @@ tags:
 
 Jis pats tuo tarpu pradėjo rūpintis, kad iš buvusių didžiosios Lietuvos kunigaikštijos žemių būtų sudaryta autonomiška valstybė; tam tikslui 1811 m. įteikė carui memorialą — kunigaikštijos sudarymo projektą.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Jis pats tuo tarpu pradėjo rūpintis, kad iš buvusių didžiosios Lietuvos kunigaikštijos žemių būtų sudaryta autonomiška valstybė; tam tikslui 1811 m. įteikė carui memorialą — kunigaikštijos sudarymo projektą.'

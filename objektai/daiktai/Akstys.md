@@ -25,6 +25,21 @@ tags: []
 
 Akstys buvo duriamieji ginklai su aštriais akmenimis vietoje iečių. Tokios akstys dar buvo dėvimos 10 amžiuje ir siejamos su šv. Vaitiekaus pervėrimu.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Akstys buvo duriamieji ginklai su aštriais akmenimis vietoje iečių.'

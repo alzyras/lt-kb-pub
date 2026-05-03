@@ -25,6 +25,21 @@ tags: []
 
 Briedinis diržas su vario sagčiais buvo senovės Lietuvos vyro puošmena ir garbės ženklas.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Briedinis diržas su vario sagčiais buvo senovės Lietuvos vyro puošmena ir garbės ženklas.'

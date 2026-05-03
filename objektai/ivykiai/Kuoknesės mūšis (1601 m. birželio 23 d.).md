@@ -35,6 +35,18 @@ tags:
 
 švedai užėmė Kuoknesės miestą ir pradėjo pilies apgultį, bet birželio 23 d. prie Kuoknesės Lietuvos kariuomenė stojo prieš švedų pajėgas; po šio mūšio Livonijoje prie lietuvių prisijungė ir Lenkijos pajėgos. 1601 m. balandžio 1 d. švedai užėmė Kuoknesės miestą ir pradėjo pilies apgultį 1601 m. birželio 23 d. prie Kuoknesės pagrindinė Lietuvos kariuomenė stojo prieš švedų pajėgas.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1601 m. balandžio 1 d. švedai užėmė Kuoknesės miestą ir pradėjo pilies apgultį.'
@@ -54,6 +66,7 @@ tags:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 1601 m. balandžio 1 d. švedai užėmė Kuoknesės miestą ir pradėjo pilies apgultį.

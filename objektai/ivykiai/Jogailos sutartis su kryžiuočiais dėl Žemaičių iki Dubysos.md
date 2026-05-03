@@ -18,6 +18,18 @@ tags:
 
 Jogaila 1382 m. buvo sudaręs su kryžiuočiais sutartį, kuria jis atidavė kryžiuočiams Žemaičius iki Dubysos, pasižadėjo 4 metų būvyje krikštytis, o be to, pasižadėjo be kryžiuočių pritarimo su niekuo nekariauti ir nedaryti jokios taikos. Taigi Jogaila sutiko klausyti kryžiuočių nurodymų, t.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Jogaila 1382 m. buvo sudaręs su kryžiuočiais sutartį, kuria jis atidavė kryžiuočiams Žemaičius iki Dubysos, pasižadėjo 4 metų būvyje krikštytis, o be to, pasižadėjo be kryžiuočių pritarimo su niekuo nekariauti ir nedaryti jokios taikos.'

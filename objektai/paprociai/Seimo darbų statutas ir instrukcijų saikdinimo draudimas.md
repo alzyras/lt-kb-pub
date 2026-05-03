@@ -17,6 +17,21 @@ tags:
 
 Lig šiol seimo darbai eidavo be jokios tvarkos, ir jie dažniausiai iširdavo, atstovams nesusitariant išrinkti net maršalkos. Kadangi anksčiau daug seimų iširdavo dėl to, kad atstovai seimeliuose būdavo saikdinami griežtai laikytis instrukcijų, tai šitokios priesaikos dabar buvo uždraustos.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Lig šiol seimo darbai eidavo be jokios tvarkos, ir jie dažniausiai iširdavo, atstovams nesusitariant išrinkti net maršalkos.'

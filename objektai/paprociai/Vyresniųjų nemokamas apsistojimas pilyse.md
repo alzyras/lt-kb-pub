@@ -25,8 +25,20 @@ tags: []
 
 Atvažiavęs į pilį vyresnysis galėjo veltui gaspadytis geriausiose trobose ir už tai nemokėti nuomos. Norėdami nuo tokių svečių nusikratyti, kai kurie pilionys išsipirkdavo privilegijomis, o vargšesni statydavosi namus labai žemomis angomis.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: teisinė-administracinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-002

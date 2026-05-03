@@ -45,6 +45,18 @@ tags:
 
 1919 m. vasario 7 d. Kėdainius gynė savanorių būriai, o vasario 8 d. prie Taučiūnų įvyko žvalgybos susirėmimas, kuriame žuvo P. Lukšys. Kautynės tęsėsi iki vakaro, bolševikai pasitraukė į Šėtą, o vasario 10 d. lietuviai, remiami vokiečių, trimis grupėmis puolė Šėtoje įsitvirtinusius bolševikus. 1919 m. vasario 7-10 d. vyko Kėdainių-Šėtos kautynės; Kėdainių gynybai vadovavo J. Mikoliūnas ir K. Dragunevičius, surinkę apie 80 savanorių; bolševikai puolė Kėdainius, paleido apie 170 artilerijos sviedinių, bet gynėjai atlaikė puolimą Tą gynybą šaltinis įvardija kaip pirmąjį Kėdainių įgulos savanorių kovos krikštą.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1919 m. vasario 7-10 d. vyko Kėdainių-Šėtos kautynės; Kėdainių gynybai vadovavo J. Mikoliūnas ir K. Dragunevičius, surinkę apie 80 savanorių; bolševikai puolė Kėdainius, paleido apie 170 artilerijos sviedinių, bet gynėjai atlaikė puolimą.'
@@ -88,6 +100,7 @@ tags:
     - c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 1919 m. vasario 7-10 d. vyko Kėdainių-Šėtos kautynės; Kėdainių gynybai vadovavo J. Mikoliūnas ir K. Dragunevičius, surinkę apie 80 savanorių; bolševikai puolė Kėdainius, paleido apie 170 artilerijos sviedinių, bet gynėjai atlaikė puolimą.

@@ -19,6 +19,18 @@ tags:
 
 Nepaisydamas karaliaus pastangų, seimas atmetė pasiūlymą sudaryti karinę sąjungą su Rusija ir, Prūsijos palaikomas, ėmėsi reformų. Šitaip seimas veikė net ištisus 4 metus ir per tą laiką pakeitė visą valstybės santvarką. To susitikimo metu buvo sutarta, kad kitų metų seime karalius išgaus Respublikos sutikimą padėti Rusijai kariauti su Turkais, o Kotryna už tai ž adėjo leisti padidinti Respublikos kariuomenę ir bent kiek praplėsti karaliaus valdžią.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Nepaisydamas karaliaus pastangų, seimas atmetė pasiūlymą sudaryti karinę sąjungą su Rusija ir, Prūsijos palaikomas, ėmėsi reformų.'

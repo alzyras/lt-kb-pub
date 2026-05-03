@@ -17,6 +17,21 @@ tags:
 
 Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prieš tą blogybę būdavo nukreipti vadinamieji konfederaciniai seimai. Tuo būdu šitokiam seime veto teisė jau nebeveikė.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prieš tą blogybę būdavo nukreipti vadinamieji konfederaciniai seimai.'

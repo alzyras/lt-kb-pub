@@ -17,6 +17,21 @@ tags:
 
 Iš liepos lunkų žmonės gaminosi apavą ir vijosi virves. Iš tošių, žievių, šaknų ir vyčių buvo pyniami ir siuvami namų rakandai bei kiti buities dirbiniai.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Iš liepos lunkų žmonės gaminosi apavą ir vijosi virves.'

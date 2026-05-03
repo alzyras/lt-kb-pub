@@ -16,6 +16,18 @@ tags:
 
 Bet ypatingai pagyvėjo lietuviškoji spauda, kai 1896 m. buvo įsteigta Tėvynės Mylėtojų Draugystė, turėjusi tikslą leisti lietuviškus raštus. Kultūrinei veiklai pagyvėjus, atsirado dar keletas naujų laikraščių („Garsas" ir „Lietuva"), įkurtasis Susivienijimas Lietuvių Amerikoje ėmė leisti savo organą „Tėvynę".
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Bet ypatingai pagyvėjo lietuviškoji spauda, kai 1896 m. buvo įsteigta Tėvynės Mylėtojų Draugystė, turėjusi tikslą leisti lietuviškus raštus.'

@@ -19,6 +19,21 @@ tags:
 
 Lietuviams reikalaujant, Lietuvai buvo paliktas nepaliestas visas valdžios aparatas (.. 10 ir 17). Kanclerių kiekvienoje valstybėje buvo taip pat po du: buvo didysis, arba krašto, kancleris ir vicekancleris. Taip antai, Zigmantui Vazai paskyrus Vilniaus vyskupu lenką Maciejevskį, Lietuvos senatoriai ir bajorija tam griežčiausiai pasipriešino.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Lietuviams reikalaujant, Lietuvai buvo paliktas nepaliestas visas valdžios aparatas (.. 10 ir 17).'

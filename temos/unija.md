@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 38.
+Objektų skaičius: 39.
 
 ## Kaip naudoti
 
@@ -68,6 +68,7 @@ Objektų skaičius: 38.
 - [bažnytinė unija](../objektai/zodynas/ba%C5%BEnytin%C4%97%20unija)
 - [egzekucija](../objektai/zodynas/egzekucija)
 - [gudų rašto kalba](../objektai/zodynas/gud%C5%B3%20ra%C5%A1to%20kalba)
+- [Personalinė unija](../objektai/zodynas/Personalin%C4%97%20unija)
 - [santvarka](../objektai/zodynas/santvarka)
 - [statuto dėsniai](../objektai/zodynas/statuto%20d%C4%97sniai)
 - [unija](../objektai/zodynas/unija)

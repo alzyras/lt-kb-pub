@@ -6,7 +6,8 @@ variantai:
   - 'Strėvos kautynės'
   - '1348 m. Strėvos mūšis'
   - 'Strėvos mūšis'
-aliases: []
+aliases:
+  - '[]'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'

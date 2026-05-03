@@ -16,6 +16,18 @@ tags:
 
 Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną.'

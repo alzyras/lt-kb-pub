@@ -19,6 +19,21 @@ tags:
 
 Ši pirmoji Vytenio sąjunga su arkivyskupu turėjo didelę reikšmę Lietuvai. Gediminas taip pat buvo pirmasis, kuris prieš kryžiuočius sudarė sąjungą su Lenkija. Kaip Vytenis, taip ir jis palaikė sąjungą su Rygos miestu ir su jos arkivyskupu.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Ši pirmoji Vytenio sąjunga su arkivyskupu turėjo didelę reikšmę Lietuvai.'

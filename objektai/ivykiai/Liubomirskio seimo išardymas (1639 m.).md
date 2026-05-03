@@ -17,6 +17,18 @@ tags:
 
 Ir štai 1639 m. Liubomirskis, o 1652 m. Čičinskas pasisakė nesutinką pratęsti seimui laiko, ir seimai išsiskirstė. Antai vienas atstovas bandė sukliudyti viso seimo darbą dar 1596 m., o 1639 m. vienas Krokuvos atstovas, Liubomirskis, seimą ir išardė.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Ir štai 1639 m. Liubomirskis, o 1652 m. Čičinskas pasisakė nesutinką pratęsti seimui laiko, ir seimai išsiskirstė.'

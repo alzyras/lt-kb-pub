@@ -25,8 +25,20 @@ tags: []
 
 Senovės lietuviai trimitais skatino kareivius į kovą, pūtė aukas dievams ir lydėdavo mirusiuosius laidotuvėse.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: ritualas
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

@@ -19,6 +19,18 @@ tags:
 
 Visa tai liepos 1 d. buvo patvirtinta trimis unijos aktais — dviem abiejų valstybių luomų ir vienu karaliaus aktu.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Visa tai liepos 1 d. buvo patvirtinta trimis unijos aktais — dviem abiejų valstybių luomų ir vienu karaliaus aktu.'

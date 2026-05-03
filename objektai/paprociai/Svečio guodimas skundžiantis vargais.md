@@ -25,8 +25,20 @@ tags: []
 
 Kai šeimininkai neturi kuo pavaišinti svečio, jie verkia ir skundžiasi savo vargais, kad svečias jų nelaikytų blogais gaspadoriais.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: socialinė norma
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

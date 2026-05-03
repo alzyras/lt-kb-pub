@@ -25,8 +25,20 @@ tags: []
 
 Lietuvos Respublikos Konstitucijos 3 straipsnis suteikia tautai ir kiekvienam piliečiui teisę priešintis prievarta kėsinantis į valstybės nepriklausomybę. Ta pati norma saugo teritorijos vientisumą ir konstitucinę santvarką.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: socialinė norma
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

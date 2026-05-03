@@ -25,8 +25,20 @@ tags: []
 
 Vietos gyventojai žygiuojančią lietuvių kariuomenę pasitiko dainomis ir plojimais. Vieškelis buvo papuoštas kartelėmis, vainikais, gėlių puokštėmis ir vartais.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: socialinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

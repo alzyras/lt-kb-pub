@@ -30,6 +30,18 @@ Kanklės buvo lyginamos su cimbolais ir turėjo gelžines bei varines stygas, o 
 
 - `smuikai`
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kanklės buvo lyginamos su cimbolais ir turėjo gelžines bei varines stygas, o smuikai buvo naudojami savo prasma.'

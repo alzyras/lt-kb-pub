@@ -25,8 +25,20 @@ tags: []
 
 Podolės žemės paskirti atamanai duodavo duoklę atvykstantiems Ordos baskakams. Karijotaičiai su vietiniais atamanais ėmė ginti Podolės žemę ir nebeduoti duoklės baskakams.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: teisinė-administracinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

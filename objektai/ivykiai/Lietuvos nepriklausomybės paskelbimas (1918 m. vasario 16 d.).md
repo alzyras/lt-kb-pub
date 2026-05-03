@@ -17,6 +17,18 @@ tags:
 
 Taryba ryžosi atgaivinti savo vienybę nauju, visai savarankišku pareiškimu, kurs patapo Lietuvos nepriklausomybės paskelbimu (1918 m. vasario 16 d.). Šito paskelbimo okupacinė valdžia neleido iškelti į viešumą.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Taryba ryžosi atgaivinti savo vienybę nauju, visai savarankišku pareiškimu, kurs patapo Lietuvos nepriklausomybės paskelbimu (1918 m. vasario 16 d.).'

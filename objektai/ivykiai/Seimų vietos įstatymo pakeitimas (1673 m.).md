@@ -17,6 +17,18 @@ tags:
 
 Keletą kartų jie vis dėlto pasiekė tai, kad seimas prieš įstatymus buvo sušauktas Lietuvoje, o 1673 m. buvo pakeistas ir patsai seimų vietos įstatymas; naujasis įstatymas nustatė, kad kas trečias seimas, kurio maršalka esti lietuvis, rinktųsi Lietuvoje —. Be to, tas pats įstatymas pripažino pirmenybę Lietuvos ministeriams, kai seimas būdavo Lietuvoje.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Keletą kartų jie vis dėlto pasiekė tai, kad seimas prieš įstatymus buvo sušauktas Lietuvoje, o 1673 m. buvo pakeistas ir patsai seimų vietos įstatymas; naujasis įstatymas nustatė, kad kas trečias seimas, kurio maršalka esti lietuvis, rinktųsi Lietuvoje —.'

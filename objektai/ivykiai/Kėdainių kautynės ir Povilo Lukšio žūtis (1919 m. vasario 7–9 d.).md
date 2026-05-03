@@ -17,6 +17,18 @@ tags:
 
 Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie Kėdainių, kur žuvo pirmas fronto kareivis Povilas Lukšys (1919 m. vasario 7—9 d.).
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie Kėdainių, kur žuvo pirmas fronto kareivis Povilas Lukšys (1919 m. vasario 7—9 d.).'

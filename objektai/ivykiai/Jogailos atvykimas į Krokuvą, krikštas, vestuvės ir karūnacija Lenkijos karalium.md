@@ -23,6 +23,19 @@ tags:
 Lenkai, gavę Jogailos pasižadėjimų patvirtinamąjį raštą, atliko savo seime karaliaus rinkimo formalumus ir atsiuntė jam specialų diplomą. Jogaila prie krikšto gavo Vladislovo vardą.
 
 Ivinskis tiksliai nurodo krikšto, santuokos ir vainikavimo datas, taip pat pažymi viešą Vytauto prisijungimą prie lotyniškai krikštytųjų.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Lenkai, gavę Jogailos pasižadėjimų patvirtinamąjį raštą, atliko savo seime karaliaus rinkimo formalumus ir atsiuntė jam specialų diplomą.'
@@ -41,6 +54,7 @@ Ivinskis tiksliai nurodo krikšto, santuokos ir vainikavimo datas, taip pat paž
   teiginys: 'Gaudamas Aleksandro vardą, prie lotyniškai krikštytųjų viešai vėl prisijungė ir Vytautas.'
   pagrindžia:
     - c-003
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lenkai, gavę Jogailos pasižadėjimų patvirtinamąjį raštą, atliko savo seime karaliaus rinkimo formalumus ir atsiuntė jam specialų diplomą.'

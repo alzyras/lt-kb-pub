@@ -25,8 +25,20 @@ tags: []
 
 Sodybų šeimininkai aprūpindavo partizanus maistu ir kitomis būtinomis priemonėmis. Šeimininkai stebėdavo aplinką ir perspėdavo partizanus apie pavojų.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: socialinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

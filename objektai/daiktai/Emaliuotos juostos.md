@@ -18,6 +18,21 @@ tags:
 
 Emaliuotos juostos paminėtos tarp atskirai tyrinėtų archeologinių radinių.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Emaliuotos juostos paminėtos kaip atskiro tyrimo objektas.'

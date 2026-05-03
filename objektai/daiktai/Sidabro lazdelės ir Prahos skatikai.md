@@ -18,6 +18,21 @@ tags:
 
 Iš pradžių Lietuvoje savų pinigų nebuvo iš viso; buvo vartojami svetimieji: rusų muštiniai, sidabro lazdelės, vėliau ordino pinigai ir pagaliau Prahos skatikai.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Iš pradžių Lietuvoje savų pinigų nebuvo iš viso; buvo vartojami svetimieji: rusų muštiniai, sidabro lazdelės, vėliau ordino pinigai ir pagaliau Prahos skatikai.'

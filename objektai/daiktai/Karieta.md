@@ -16,6 +16,21 @@ tags:
 
 Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).'

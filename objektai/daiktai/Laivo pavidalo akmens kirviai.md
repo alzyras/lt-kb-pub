@@ -17,6 +17,21 @@ tags:
 
 Laivo pavidalo akmens kirviai su skyle kotui įstatyti išskiriami kaip būdingas neolito įrankis.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Laivo pavidalo akmens kirviai su skyle kotui įstatyti išskiriami kaip būdingas neolito įrankis.'

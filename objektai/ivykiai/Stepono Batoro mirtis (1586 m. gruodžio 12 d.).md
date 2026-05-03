@@ -17,6 +17,18 @@ tags:
 
 Savo paties atnaujintoje Gardino pilyje jis ir mirė 1586 m. gruodžio 12 d. Mirė sunkiai sirgdamas (to meto gydytojai jo ligos nesuprato, tad nė mes jos nežinome).
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Savo paties atnaujintoje Gardino pilyje jis ir mirė 1586 m. gruodžio 12 d. Mirė sunkiai sirgdamas (to meto gydytojai jo ligos nesuprato, tad nė mes jos nežinome).'

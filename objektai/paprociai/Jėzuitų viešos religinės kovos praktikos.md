@@ -19,6 +19,21 @@ tags:
 
 Be mokyklų, katalikiškai auklėjančių jaunąją kartą, jėzuitai dar kovojo su protestantais ir kitokiais būdais. Todėl Vilniaus vyskupas Protasevičius, norėdamas paruošti kunigų iš savo žmonių tarpo ir rūpindamasis kovoti su protestantais, atsikvietė į Vilnių jėzuitų; jie čia įkūrė pirmą aukštesniąją mokyklą Lietuvoje, vadinamą kolegija (žiūr. Jėzuitai, kurie labai nepalankiomis sąlygomis pradėjo savo darbą Lietuvoje, dabar jau buvo labai sustiprėję.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Be mokyklų, katalikiškai auklėjančių jaunąją kartą, jėzuitai dar kovojo su protestantais ir kitokiais būdais.'

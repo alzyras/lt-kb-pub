@@ -41,6 +41,18 @@ tags:
 
 Šiame gabale mūšis aprašomas keliais etapais: Medeikiuose, Biržų girioje, prie Šniurkiškių palivarko ir mūšio pasekmėse. 1863 m. gegužės 7 d. rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas Medeikiuose; sukilėliams mėginant apeiti rusus iš flangų, rusai buvo priversti atsitraukti 1863 m. gegužės 8 d. atvykusios gausesnės rusų pajėgos užpuolė stovyklavusius sukilėlius; Z. Sierakauskas buvo sužeistas; pasipriešinimas ėmė silpti.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1863 m. gegužės 7 d. rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas Medeikiuose; sukilėliams mėginant apeiti rusus iš flangų, rusai buvo priversti atsitraukti.'

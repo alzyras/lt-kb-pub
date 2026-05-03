@@ -16,6 +16,21 @@ tags:
 
 Šitas aktas tebėra išlikęs iki mūsų laikų, tik nutrupėję jo antspaudai, kurių čia buvo 5, t.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Šitas aktas tebėra išlikęs iki mūsų laikų, tik nutrupėję jo antspaudai, kurių čia buvo 5, t.'

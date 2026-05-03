@@ -32,6 +32,18 @@ tags:
 
 1397 m. Vytautas, pritariant Jogailai, surengė didelį žygį prie Juodosios jūros ir į Krymą. Iš žygio jis parsigabeno totorių belaisvių ir pabėgėlių, dalį jų atidavė Jogailai, o kitus apgyvendino Trakų kunigaikštijoje; 1398 m. antrajame žygyje Dniepro žiotyse pastatė Tavanės tvirtovę, o to žygio metu paimti karaimai buvo apgyvendinti Lucke ir Naujųjų Trakų apylinkėse.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1397 m. Vytautas surengė didelį žygį prie Juodosios jūros ir į Krymą.'

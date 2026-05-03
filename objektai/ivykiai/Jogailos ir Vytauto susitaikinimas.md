@@ -19,6 +19,18 @@ tags:
 
 Pirmojo Vytauto žygio metu jo pusėje jau buvo ne vien kryžiuočių kariuomenė, bet ir keletas tūkstančių žemaičių. Tik kai dėl visko buvo susitarta, Vytautas su susirinkusiais pas jį lietuviais išėjo iš savo pilies ir, dėdamasis einąs prieš Jogailą, staiga sudegino Jurbarką, savo rezidencijos pilį — N.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Pirmojo Vytauto žygio metu jo pusėje jau buvo ne vien kryžiuočių kariuomenė, bet ir keletas tūkstančių žemaičių.'

@@ -16,6 +16,21 @@ tags:
 
 Vietoj senųjų aristokratijos turnyrų, o kartais net vietoj medžioklių, salionuose buvo ruošiami pasikalbėjimai ir disputai.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Vietoj senųjų aristokratijos turnyrų, o kartais net vietoj medžioklių, salionuose buvo ruošiami pasikalbėjimai ir disputai.'

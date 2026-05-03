@@ -18,6 +18,18 @@ tags:
 
 Tumas, atvykę į Ameriką, surinko 19.000 dolerių. Kilus 1905 m. revoliucijai Rusijoje, Amerikos lietuviai tuojau įsteigė Lietuvos judėjimui remti komitetų. Susivienijimas Lietuvių Amerikoje 1902 m., o Susivienijimas Lietuvių R.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tumas, atvykę į Ameriką, surinko 19.000 dolerių.'

@@ -35,6 +35,18 @@ tags:
 
 Mūšis prasidėjo auštant liepos 23 d., kai prie lietuvių pozicijų priartėjo rusų kavalerijos priešakiniai kazokų daliniai. Lietuviai keletą kartų atrėmė atakas, o vėliau mūšio padariniai buvo įvertinti kaip sunkūs, bet ne vienareikšmiai pralaimėjimu. 1792 m. liepos 23 d. Lietuvos Brastos mūšis prasidėjo rusų kavalerijos ataka, kurią lietuvių kavalerija iš pradžių atmušė Lietuvos Brastos mūšis truko apie 8 valandas, o Lietuvos kariuomenė neteko apie 300 karių.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1792 m. liepos 23 d. Lietuvos Brastos mūšis prasidėjo rusų kavalerijos ataka, kurią lietuvių kavalerija iš pradžių atmušė.'

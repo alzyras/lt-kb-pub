@@ -25,8 +25,20 @@ tags: []
 
 Traukdami į karę lietuviai apvyniodavo žirgus plaušomis, kad šie nenuvargtų nuo darganų ir lietaus. Karo žygiai paprastai būdavo atliekami žiemą, o dalis įkainio būdavo vežama mažomis rogėmis, kinkytais dideliais šunimis briciais.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: politinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

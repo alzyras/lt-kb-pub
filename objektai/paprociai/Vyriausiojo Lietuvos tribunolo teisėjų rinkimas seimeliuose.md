@@ -19,6 +19,21 @@ tags:
 
 Todėl bajorija seimuose ir seimeliuose nuolat reikalavo, kad vyriausiasis teismas būtų kitaip sutvarkytas ir kad sparčiau veiktų. Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose Lietuvos seimuose, ir galutinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks pat išliko iki pat nepriklausomybės pabaigos. Kiekvienas seimelis rinko po 2 atstovus, vadinamus deputatais; tad iš viso tribunolo narių buvo 46.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Todėl bajorija seimuose ir seimeliuose nuolat reikalavo, kad vyriausiasis teismas būtų kitaip sutvarkytas ir kad sparčiau veiktų.'

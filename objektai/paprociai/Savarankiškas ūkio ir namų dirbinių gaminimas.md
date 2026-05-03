@@ -25,8 +25,20 @@ tags: []
 
 Patys kalė ir savo įrankius, laikydami gebėjimą pasidirbti daiktą savaime suprantamu dalyku. Senovės lietuviai stengėsi patys pasigaminti viską, ko reikėjo, kad nereiktų svetimo meistro.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: socialinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

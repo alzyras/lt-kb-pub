@@ -19,6 +19,18 @@ tags:
 
 Tokį įžadą ordino broliai — riteriai — turėjo padaryti visam gyvenimui. Be to, ordino prašomas popiežius skelbdavo Vakaruose kryžiaus karus, ir ordinui į talką plaukdavo minios karių. Kryžiuočių statomos pilys virsdavo naujos valstybės apygardų administraciniais centrais.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tokį įžadą ordino broliai — riteriai — turėjo padaryti visam gyvenimui.'

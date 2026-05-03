@@ -23,6 +23,19 @@ tags:
 Po Racionžo taikos Vytautas dėjosi norįs laikytis taikos sąlygų ir net pats padėjo ordinui pavergti nepasiduodančius Žemaičius. Lig šiol laisvi buvusieji žemaičiai buvo varomi prie darbų ir buvo apdėti dideliais mokesčiais; keliai į Aukštaičius buvo budriai saugomi. Tatai Vytauto santykius su ordinu visai nutraukė, ir jis, jau nebesislėpdamas, nusiuntė į Žemaičius savo bajorų ir paėmė juos į savo valdžią.
 
 Ivinskis sukilimo pradžią sieja su pasienio uždarymu, prekybos draudimais, Skirsnemunės sudeginimu ir ordino pasitraukimu iš Dubysos pilies.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Po Racionžo taikos Vytautas dėjosi norįs laikytis taikos sąlygų ir net pats padėjo ordinui pavergti nepasiduodančius Žemaičius.'
@@ -53,6 +66,7 @@ Ivinskis sukilimo pradžią sieja su pasienio uždarymu, prekybos draudimais, Sk
   teiginys: 'Tų pačių įvykių fone ordinas 1409.VIII.6 buvo priverstas skelbti karą Lenkijai.'
   pagrindžia:
     - c-007
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Po Racionžo taikos Vytautas dėjosi norįs laikytis taikos sąlygų ir net pats padėjo ordinui pavergti nepasiduodančius Žemaičius.'

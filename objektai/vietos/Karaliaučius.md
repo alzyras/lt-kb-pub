@@ -154,4 +154,5 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
 - [[objektai/vietos/Dancigas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Elbingas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Prūsija]]

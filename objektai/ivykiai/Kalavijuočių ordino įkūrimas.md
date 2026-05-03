@@ -19,6 +19,18 @@ tags:
 
 Ordinas buvo pavadintas Kristaus Karių Brolija (Fratres Militiae Christi), bet dėl išsiūto ant balto jų apsiausto raudono kalavijo paprastai vadinamas kalavijuočių ordinu.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Ordinas buvo pavadintas Kristaus Karių Brolija (Fratres Militiae Christi), bet dėl išsiūto ant balto jų apsiausto raudono kalavijo paprastai vadinamas kalavijuočių ordinu.'

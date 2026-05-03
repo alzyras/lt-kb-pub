@@ -31,6 +31,18 @@ tags:
 
 1040 m. Kijevo Jaroslavas surengė žygį į Lietuvą. Autorius pabrėžia, kad šaltinis neaprašo aiškios Jaroslavo pergalės ir šį žygį aiškina kaip ženklą, jog lietuviai nepripažino Kijevo viršenybės.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1040 m. Kijevo Jaroslavas surengė žygį į Lietuvą.'

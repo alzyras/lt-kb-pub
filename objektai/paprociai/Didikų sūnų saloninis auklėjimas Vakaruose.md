@@ -18,6 +18,21 @@ tags:
 
 Ir didikų švietimas taip pat buvo labai žemas.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Ir didikų švietimas taip pat buvo labai žemas.'

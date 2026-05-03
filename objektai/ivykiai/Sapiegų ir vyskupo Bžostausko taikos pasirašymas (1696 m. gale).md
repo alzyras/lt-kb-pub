@@ -17,6 +17,18 @@ tags:
 
 Pasirašytąja taika vyskupas turėjo atšaukti ekskomuniką, o hetmonas — išvesti iš bažnytinių dvarų kariuomenę.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Pasirašytąja taika vyskupas turėjo atšaukti ekskomuniką, o hetmonas — išvesti iš bažnytinių dvarų kariuomenę.'

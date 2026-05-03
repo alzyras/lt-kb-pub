@@ -32,6 +32,18 @@ tags:
 
 1324 m. gegužės gale Vilniuje vyko popiežiaus legatų pokalbiai su Gediminu dėl Lietuvos krikšto. Legatų pranešime fiksuojami kryžiuočių ir Gedimino vidaus priešininkų grasinimai, o išvykdami legatai įsakė ketverius metus su Gediminu nekariauti, tikėdamiesi jo krikšto.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1324 m. gegužės gale Vilniuje vyko popiežiaus legatų pokalbiai su Gediminu dėl Lietuvos krikšto.'

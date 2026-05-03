@@ -18,6 +18,21 @@ tags:
 
 Kautynių metu karalius buvo saugomas tarp vežimų. Vytautas į Trakus buvo nuvežtas jo žmonos vežime. Šiame šaltinyje papildomai aprašoma, kad kariuomenė stovyklose apsisupdavo vežimais, kuriais gabendavo amuniciją, proviantą ir kitus reikmenis.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kautynių metu karalius buvo saugomas tarp vežimų.'

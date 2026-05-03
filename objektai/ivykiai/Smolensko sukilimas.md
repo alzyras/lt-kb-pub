@@ -19,6 +19,18 @@ tags:
 
 Pirmučiausia nuo Vytauto atsimetė Smolenskas (jo vietininkas buvo užmuštas, ir grįžo senasis Smolensko kunigaikštis Jurgis). Bet šiuo tarpu karo buvo išvengta ir su Maskva ir su Pskovu, kuris dėl Smolensko taip pat buvo bepradedąs karą.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Pirmučiausia nuo Vytauto atsimetė Smolenskas (jo vietininkas buvo užmuštas, ir grįžo senasis Smolensko kunigaikštis Jurgis).'

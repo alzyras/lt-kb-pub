@@ -16,6 +16,21 @@ tags:
 
 Roko vienuoliai eremitai, kurių daugumas irgi buvo išbėgioję. Yra likę žinių apie vieną vienuolį, kuris kasdien palaidodavęs po keletą dešimčių lavonų.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Roko vienuoliai eremitai, kurių daugumas irgi buvo išbėgioję.'

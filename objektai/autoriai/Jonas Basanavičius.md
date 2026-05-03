@@ -233,6 +233,7 @@ Jonas Basanavičius rodomas kaip vienas svarbiausių lietuvių tautinio sąjūd�
 
 ### Susiję objektai
 - [[objektai/ivykiai/Amerikos lietuvių fondų ir komitetų kūrimas Lietuvos reikalams (1905–1913 m.)]]
+- [[objektai/grupes/Birutės draugija]]
 - [[objektai/autoriai/M. Jankus]]
 - [[objektai/asmenys/M. Yčas]]
 - [[objektai/autoriai/S. Zauerveinas]]

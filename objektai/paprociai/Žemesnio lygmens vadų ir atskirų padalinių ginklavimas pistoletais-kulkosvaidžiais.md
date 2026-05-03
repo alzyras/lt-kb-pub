@@ -25,8 +25,20 @@ tags: []
 
 Pistoletais-kulkosvaidžiais buvo ginkluojami žemesnio lygmens vadai ir atskiri padaliniai. Pistoletų-kulkosvaidžių efektyvumas ypač išryškėdavo artimoje kovoje mieste, miške ir valant tranšėjas.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: teisinė-administracinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

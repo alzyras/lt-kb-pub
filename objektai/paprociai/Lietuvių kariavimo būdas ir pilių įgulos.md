@@ -20,6 +20,21 @@ tags:
 
 Lietuvių kariavimo būdas rėmėsi ne tik raitais karo žygiais ir savita taktika, bet ir pilių tinklu, kurio įgulos saugojo kraštą nuo netikėto užpuolimo. Vėlesnis šaltinis pabrėžia, kad XIII a. pabaigoje - XV a. pradžioje šios pilys tapo ir administraciniais centrais, o Gedimino laikais išryškėjo nuolatinių karo tarnybininkų sluoksnis.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Į karo žygius lietuviai jodavo raiti ir dideliais būriais.'

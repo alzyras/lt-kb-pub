@@ -22,6 +22,7 @@ Pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „Birutės" draugija.
 - t-001
   teiginys: 'Pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „Birutės" draugija.'
   pagrindžia:
+    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
@@ -29,9 +30,11 @@ Pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „Birutės" draugija.
   santrauka: 'Pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „Birutės" draugija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „Birutės"
+    Pirmoji
+    tokia organizacija buvo 1885 m. Tilžėje įkurta „Birutės"
     draugija. Tuo tarpu, kai vokiečių Literatų Draugija turėjo tikslą
-    konservuoti lietuviškosios kultūros kūrinius mokslo reikalams, „Birutės" tikslas buvo stiprinti lietuviškumą ir kel-
+    konservuoti lietuviškosios kultūros kūrinius mokslo reikalams,
+    „Birutės" tikslas buvo stiprinti lietuviškumą ir kel-
     ti tautišką sąmonę.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -40,7 +43,24 @@ Pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „Birutės" draugija.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: Birutės draugija papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Jos sumanytojai buvo Basanavi-
+    čius, Šliūpas, Zauerveinas, M. Jankus, V. Bruožis, Mikšas ir
+    nemaža kitų M. Lietuvos veikėjų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/Jonas Basanavičius]]
+- [[objektai/asmenys/V. Bruožis]]
 - [[objektai/grupes/Vokiečių literatų draugija]]

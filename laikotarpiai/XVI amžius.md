@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 47.
+Objektų skaičius: 48.
 
 ## Kaip naudoti
 
@@ -31,6 +31,7 @@ Objektų skaičius: 47.
 ### Grupės
 - [[objektai/grupes/Gardino seimas (1566 m.)]]
 - [[objektai/grupes/Lietuvos seimas (XVI a.)]]
+- [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Žemaičių medininkai]]
 - [[objektai/grupes/Žemlionys]]
@@ -57,7 +58,7 @@ Objektų skaičius: 47.
 - [[objektai/ivykiai/Antrasis karas su Maskva (1512–1522 m.)]]
 - [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]
 - [[objektai/ivykiai/Jėzuitų atkvietimas į Lietuvą ir pirmosios kolegijos įsteigimas Vilniuje (1569–1570 m.)]]
-- [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis)]]
+- [K. Radvilos Perkūno reidas (1581 m. liepa-spalis)](../objektai/ivykiai/K.%20Radvilos%20Perk%C5%ABno%20reidas%20%281581%20m.%20liepa-spalis%29)
 - [Karas su Maskva (1499–1503 m.)](../objektai/ivykiai/Karas%20su%20Maskva%20%281499%E2%80%931503%20m.%29)
 - [Klecko mūšis (1506 m. rugpjūčio 6 d.)](../objektai/ivykiai/Klecko%20m%C5%AB%C5%A1is%20%281506%20m.%20rugpj%C5%AB%C4%8Dio%206%20d.%29)
 - [Komulejaus nurodymas dėl Vilniaus klierikų bursos finansavimo (1595–1597 m.)](../objektai/ivykiai/Komulejaus%20nurodymas%20d%C4%97l%20Vilniaus%20klierik%C5%B3%20bursos%20finansavimo%20%281595%E2%80%931597%20m.%29)

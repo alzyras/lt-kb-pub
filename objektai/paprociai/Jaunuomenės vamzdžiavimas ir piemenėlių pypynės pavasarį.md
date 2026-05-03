@@ -25,8 +25,20 @@ tags: []
 
 Jaunuomenė pavasariais vamzdžiais vamzdijo, o piemenėliai molio pypynėmis tancino ganydami ožaičius ir ėraičius.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: kultūrinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

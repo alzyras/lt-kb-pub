@@ -19,6 +19,18 @@ tags:
 
 Tačiau caras apsivylė, nes tarpuvaldis buvo labai ramus ir trumpas (Maskvos puolimas dar labiau vertė paskubinti elekciją), ir naujasis karalius veikiai galėjo išžygiuoti į karą.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tačiau caras apsivylė, nes tarpuvaldis buvo labai ramus ir trumpas (Maskvos puolimas dar labiau vertė paskubinti elekciją), ir naujasis karalius veikiai galėjo išžygiuoti į karą.'

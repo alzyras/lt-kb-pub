@@ -18,6 +18,21 @@ tags:
 
 Nuo Vytauto laikų Lietuvoje buvo kalamos monetos.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Nuo Vytauto laikų Lietuvoje buvo kalamos monetos.'

@@ -19,6 +19,21 @@ tags:
 
 1529 m. Bonai visokiomis intrygomis palenkus į savo pusę didikus, o tėvui sutikus patvirtinti pirmąjį Lietuvos statutą, dar labiau praplėtusį bajorijos teises, — Lietuvos seimas Zigmantą Augustą paskelbė didžiuoju kunigaikščiu, o netrukus jį karūnavo savo.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1529 m. Bonai visokiomis intrygomis palenkus į savo pusę didikus, o tėvui sutikus patvirtinti pirmąjį Lietuvos statutą, dar labiau praplėtusį bajorijos teises, — Lietuvos seimas Zigmantą Augustą paskelbė didžiuoju kunigaikščiu, o netrukus jį karūnavo savo.'

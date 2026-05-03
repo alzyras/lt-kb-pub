@@ -25,6 +25,21 @@ tags: []
 
 Parusnyje po dideliu ąžuolu buvo šėtra, prie kurios kunigai kūrė amžiną ugnį.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Parusnyje po dideliu ąžuolu buvo šėtra, prie kurios kunigai kūrė amžiną ugnį.'

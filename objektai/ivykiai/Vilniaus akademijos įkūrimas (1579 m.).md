@@ -19,6 +19,18 @@ tags:
 
 Kliūčių akademijai kurti atsirado pačioje Lietuvoje. Pirmuoju akademijos rektorium buvo paskirtas mozūras, ir tada jau žinomas, o vėliau dar labiau pragarsėjęs teologas, rašytojas ir pamokslininkas Petras Skarga. Todėl kai 1578 m. Vilniaus jėzuitai per vysk.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kliūčių akademijai kurti atsirado pačioje Lietuvoje.'

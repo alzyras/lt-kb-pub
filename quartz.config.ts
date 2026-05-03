@@ -89,6 +89,7 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
+      Plugin.CitationFilterMetadata(),
       Plugin.AdvancedEvidence(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "filesystem"],
@@ -118,6 +119,7 @@ const config: QuartzConfig = {
         enableSiteMap: true,
         enableRSS: true,
       }),
+      Plugin.CitationSourcesRegistry(),
       Plugin.RobotsTxt(),
       Plugin.Assets(),
       Plugin.Static(),

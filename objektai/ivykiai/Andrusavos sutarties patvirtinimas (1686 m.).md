@@ -18,6 +18,18 @@ tags:
 
 Buvo patvirtinta (1686 m.) Andrusavos sutartis su didelėmis nuolaidomis Maskvai, tačiau caras prie karo su Turkais neprisidėjo.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Buvo patvirtinta (1686 m.) Andrusavos sutartis su didelėmis nuolaidomis Maskvai, tačiau caras prie karo su Turkais neprisidėjo.'

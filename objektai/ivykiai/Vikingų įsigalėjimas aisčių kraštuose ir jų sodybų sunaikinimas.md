@@ -17,6 +17,18 @@ tags:
 
 Tuo būdu jie pasiekė ir aisčių gyvenamus kraštus ir čia pajūriuose pristeigė savo kolonijų. Tačiau šitas vikingų įsigalėjimas mūsų kraštuose buvo neilgas: X amžiuje visos jų sodybos buvo sugriautos.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tuo būdu jie pasiekė ir aisčių gyvenamus kraštus ir čia pajūriuose pristeigė savo kolonijų.'

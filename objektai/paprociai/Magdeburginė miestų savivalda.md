@@ -18,6 +18,21 @@ tags:
 
 Didesniųjų miestų gyventojai gavo teises savarankiškai tvarkytis.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Didesniųjų miestų gyventojai gavo teises savarankiškai tvarkytis.'

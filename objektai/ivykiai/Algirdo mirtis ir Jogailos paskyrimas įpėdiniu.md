@@ -19,6 +19,18 @@ tags:
 
 1377 m. mirdamas Algirdas savo įpėdiniu paskyrė sūnų Jogailą.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1377 m. mirdamas Algirdas savo įpėdiniu paskyrė sūnų Jogailą.'

@@ -17,6 +17,21 @@ tags:
 
 Vaškas buvo vienas svarbiausių Lietuvos ūkio produktų užsieniui.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Vaškas buvo vienas svarbiausių Lietuvos ūkio produktų užsieniui.'

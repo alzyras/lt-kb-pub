@@ -39,6 +39,18 @@ tags:
 
 Citata 1 (`new_claim`): galimas teiginys: 1270 m. vasario 16 d. abi kariuomenės ties Karuse (Virtsu) susitiko ant užšalusios jūros ledo. 1270 m. vasario 16 d. abi kariuomenės ties Karuse (Virtsu) susitiko ant užšalusios jūros ledo Karusės mūšyje žuvo Livonijos magistras Ottonas Luterbergas ir 52 Ordino broliai.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1270 m. vasario 16 d. abi kariuomenės ties Karuse (Virtsu) susitiko ant užšalusios jūros ledo.'

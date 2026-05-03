@@ -18,6 +18,18 @@ tags:
 
 Rusų valdžia dar prieš sukilimą gabesniuosius žmones buvo ištrėmusi, ir visam krašte neatsirado tinkamo vadovauti žmogaus.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Rusų valdžia dar prieš sukilimą gabesniuosius žmones buvo ištrėmusi, ir visam krašte neatsirado tinkamo vadovauti žmogaus.'

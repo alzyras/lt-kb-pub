@@ -19,6 +19,18 @@ tags:
 
 Nesutikimai, kilę po Zigmanto mirties, teturėjo tam tikrų padarinių tik Žemaičiams: konkurentų kovų metu jie išgavo iš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems laikams laidavo jiems savotišką vidaus tvarkymąsi. Ta privilegija patvirtino visas Vytauto laikais jų turėtąsias teises ir garantavo, kad savo krašto seniūną jie patys sau rinksis, o didysis kunigaikštis jį tik tvirtins.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Nesutikimai, kilę po Zigmanto mirties, teturėjo tam tikrų padarinių tik Žemaičiams: konkurentų kovų metu jie išgavo iš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems laikams laidavo jiems savotišką vidaus tvarkymąsi.'

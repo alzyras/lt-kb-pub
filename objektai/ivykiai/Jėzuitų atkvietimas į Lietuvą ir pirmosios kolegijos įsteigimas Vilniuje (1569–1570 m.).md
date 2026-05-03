@@ -17,6 +17,18 @@ tags:
 
 Kaip visur, taip ir Lietuvoje, pirmas jėzuitų darbas buvo steigti mokyklos.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kaip visur, taip ir Lietuvoje, pirmas jėzuitų darbas buvo steigti mokyklos.'

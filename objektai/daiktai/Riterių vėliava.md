@@ -18,6 +18,21 @@ tags:
 
 Aizkrauklės mūšyje pagonims atiteko riterių vėliava. Vėliavos netekimas laikytas didele nelaime.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Aizkrauklės mūšyje pagonims atiteko riterių vėliava.'

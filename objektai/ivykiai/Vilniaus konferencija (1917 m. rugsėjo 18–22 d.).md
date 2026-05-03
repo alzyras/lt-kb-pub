@@ -17,6 +17,18 @@ tags:
 
 1917 m. rugsėjo mėn. Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti tautinių mažumų atstovai.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1917 m. rugsėjo mėn.'

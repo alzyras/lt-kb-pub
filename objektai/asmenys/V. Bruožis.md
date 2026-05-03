@@ -40,4 +40,5 @@ Bruožis, Mikšas ir nemaža kitų M.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Birutės draugija]]
 - [[objektai/autoriai/Jonas Basanavičius]]

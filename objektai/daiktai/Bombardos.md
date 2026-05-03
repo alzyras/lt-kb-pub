@@ -18,6 +18,21 @@ tags:
 
 1384 m. rudenį abu pusbroliai su bombardomis apgulė Kauno Marienwerderį.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1384 m. rudenį abu pusbroliai su bombardomis apgulė Kauno Marienwerderį.'

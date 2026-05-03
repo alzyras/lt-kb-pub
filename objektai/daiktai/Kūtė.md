@@ -25,6 +25,21 @@ tags: []
 
 Namo kūtėje laikydavo karves, jaučius, avis ir arklius. Už arklių kūtės dar buvo kiaulių kūtelė, o bandos tvarte laikydavo žąsis ir pyles.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Namo kūtėje laikydavo karves, jaučius, avis ir arklius.'

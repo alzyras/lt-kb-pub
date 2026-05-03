@@ -18,6 +18,18 @@ tags:
 
 1919 m., abiejų Tarybų vykdomojo komiteto sumanymu, buvo pradėti rinkti parašai už Lietuvos valstybės pripažinimą.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1919 m., abiejų Tarybų vykdomojo komiteto sumanymu, buvo pradėti rinkti parašai už Lietuvos valstybės pripažinimą.'

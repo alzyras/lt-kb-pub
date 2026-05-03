@@ -16,6 +16,21 @@ tags:
 
 Didysis (majestotinis) Vytauto antspaudas su užrašu: Sigillum Alexandri alias Witowdi Dei gra[tia] ducis Lithwaniae ...
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Didysis (majestotinis) Vytauto antspaudas su užrašu: Sigillum Alexandri alias Witowdi Dei gra[tia] ducis Lithwaniae ...'

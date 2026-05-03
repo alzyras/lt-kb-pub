@@ -153,5 +153,10 @@ declare module "vfile" {
         socialImage: string
         comments: boolean | string
       }>
+      & Partial<{
+        citatu_skaicius: number
+        citatu_saltiniai: string[]
+        citatu_saltiniu_id: string[]
+      }>
   }
 }

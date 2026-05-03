@@ -17,6 +17,21 @@ tags:
 
 Taip pat Šveicarijoje susidarė komitetas tvarkyti popiežiaus paskelbtai pasaulinei bažnytinei rinkliavai nukentėjusios Lietuvos naudai (1917 m. pradžioj). Komiteto atstovai išsirūpino ir iš popiežiaus Benedikto XV tokią pat dieną rinkliavai visose pasaulio bažnyčiose.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Taip pat Šveicarijoje susidarė komitetas tvarkyti popiežiaus paskelbtai pasaulinei bažnytinei rinkliavai nukentėjusios Lietuvos naudai (1917 m. pradžioj).'

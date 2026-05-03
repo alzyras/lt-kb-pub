@@ -30,6 +30,18 @@ Kareiviui į kapą dėjo seidoką arba svilksnį kaip vieną iš įkapių.
 
 - `svilksnis`
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kareiviui į kapą dėjo seidoką arba svilksnį kaip vieną iš įkapių.'

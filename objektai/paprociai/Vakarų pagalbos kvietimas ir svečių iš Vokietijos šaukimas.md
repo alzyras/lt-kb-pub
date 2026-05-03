@@ -28,8 +28,20 @@ tags: []
 
 Livonijos ordino ir kryžiuočių aplinkoje vakarietiškos pagalbos šaukimasis buvo nuolatinė politinė praktika. Ji reiškė svečių iš Vokietijos kvietimą, specialių kryžiaus žygių skelbimą ir popiežiaus privilegijomis skatinamą kryžininkų telkimą.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: politinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

@@ -32,6 +32,18 @@ Trimitai buvo ilgi, iš trijų skilų sudėti mediniai pučiamieji instrumentai,
 - `trūbai`
 - `vario trūbeliai`
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Trimitai buvo ilgi, iš trijų skilų sudėti mediniai pučiamieji instrumentai, naudoti kovai, aukoms ir laidotuvėms.'

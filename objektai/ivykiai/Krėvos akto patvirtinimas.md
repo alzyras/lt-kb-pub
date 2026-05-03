@@ -22,6 +22,19 @@ tags:
 Jogaila su savo broliais ją priėmė Krėvos pilyje.
 
 Ivinskis pabrėžia, kad 1385.VIII.14 Kriavo pilyje surašytas aktas dar nebuvo unija, o Jogailos atliktas Skirgailos pažadų patvirtinimas.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Jogaila su savo broliais ją priėmė Krėvos pilyje.'
@@ -40,6 +53,7 @@ Ivinskis pabrėžia, kad 1385.VIII.14 Kriavo pilyje surašytas aktas dar nebuvo 
   teiginys: 'Kriavo aktas dar nebuvo unija, o reiškė Jogailos atliktą Skirgailos duotų pažadų patvirtinimą.'
   pagrindžia:
     - c-003
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jogaila su savo broliais ją priėmė Krėvos pilyje.'

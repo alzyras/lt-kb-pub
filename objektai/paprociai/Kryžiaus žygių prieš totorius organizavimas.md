@@ -25,8 +25,20 @@ tags: []
 
 Pirmieji krikščioniški Lietuvos valdovai patys organizavo kryžiaus žygius prieš totorius. Vytautas organizavo analogišką Nikopoliui kryžiaus žygį.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: politinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

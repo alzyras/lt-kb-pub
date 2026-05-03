@@ -19,6 +19,18 @@ tags:
 
 Vakaruose miestai turėjo tam tikras teises ir valdėsi patys.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Vakaruose miestai turėjo tam tikras teises ir valdėsi patys.'

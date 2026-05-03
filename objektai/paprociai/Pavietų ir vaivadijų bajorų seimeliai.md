@@ -19,6 +19,21 @@ tags:
 
 Seimeliai. Vėliau seimeliai buvo šaukiami vienam kuriam reikalui, ir kiekvienas iš jų turėjo atskirus vardus: priešseiminiuose seimeliuose būdavo renkami atstovai į seimą; reliaciniuose atstovai, grįžę iš seimo, padarydavo pranešimus apie seimo darbus; elekciniuose.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Seimeliai.'

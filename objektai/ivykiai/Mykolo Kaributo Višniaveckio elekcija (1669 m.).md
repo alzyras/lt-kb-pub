@@ -19,6 +19,18 @@ tags:
 
 Didikai bandė šitą elekciją sutrukdyti, tačiau bajorija dėjo galvą už savo išrinktąjį karalių. Jam metus šūkį, visai netikėtai karalium buvo paskelbtas Mykolas Kaributas Višniaveckis.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Didikai bandė šitą elekciją sutrukdyti, tačiau bajorija dėjo galvą už savo išrinktąjį karalių.'

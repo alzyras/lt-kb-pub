@@ -25,6 +25,21 @@ tags: []
 
 Kalvėje patys sau kalė padarynę ir ginklą.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kalvėje patys sau kalė padarynę ir ginklą.'

@@ -25,8 +25,20 @@ tags: []
 
 Lietuviai per nacionalines šventes mini tris Lietuvos valstybingumo datas. Minimos Liepos 6-osios, Vasario 16-osios ir Kovo 11-osios Lietuva.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: kultūrinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

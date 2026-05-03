@@ -19,6 +19,18 @@ tags:
 
 Vienam mūšy jis buvo nutrauktas nuo žirgo ir pakliuvo kryžiuočiams į nelaisvę (1361 m.). Šis ir padėjo Kęstučiui pabėgti.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Vienam mūšy jis buvo nutrauktas nuo žirgo ir pakliuvo kryžiuočiams į nelaisvę (1361 m.).'

@@ -25,8 +25,20 @@ tags: []
 
 Karolis Chodkevičius įsakė frontui imituoti atsitraukimą. Švedų kariuomenės vadovybė sureagavo puldama besitraukiančius lietuvius.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: socialinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

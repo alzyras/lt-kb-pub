@@ -17,6 +17,21 @@ tags:
 
 Lenkų pavyzdžiu einanti bajorija kaskart vis daugiau reikalavo sau teisių ir nuolat mažino sau pareigas.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Lenkų pavyzdžiu einanti bajorija kaskart vis daugiau reikalavo sau teisių ir nuolat mažino sau pareigas.'

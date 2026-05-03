@@ -17,6 +17,21 @@ tags:
 
 Miestuose žydai turėjo gyventi tam tikruose, jiems skirtuose kvartaluose, vadinamuose getomis (ghetto). Vakarais, po tam tikros valandos, jie nebegalėdavo net išeiti iš savo kvartalo. Taip tada buvo visoje Europoje.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Miestuose žydai turėjo gyventi tam tikruose, jiems skirtuose kvartaluose, vadinamuose getomis (ghetto). Vakarais, po tam tikros valandos, jie nebegalėdavo net išeiti iš savo kvartalo. Taip tada buvo visoje Europoje.'

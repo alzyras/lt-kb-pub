@@ -18,6 +18,21 @@ tags:
 
 1383 m. prie dokumentų turėjo būti pridėti antspaudai. Kriavo akto dokumentą savo antspaudais tvirtino trys Jogailos broliai, o antspaudą pridėjo ir Vytautas.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1383 m. prie dokumentų turėjo būti pridėti antspaudai.'

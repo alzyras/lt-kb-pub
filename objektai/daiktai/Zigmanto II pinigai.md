@@ -19,6 +19,21 @@ tags:
 
 Zigmanto II pinigai: 14 — pusskatikis; 15 — skatikas.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Zigmanto II pinigai: 14 — pusskatikis; 15 — skatikas.'

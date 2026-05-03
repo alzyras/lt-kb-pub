@@ -18,6 +18,21 @@ tags:
 
 Ano laiko papuošalų ornamentai giminingi lietuvių kaimo audinių ir juostų raštams. Iš to meto yra išlikusių juostų gabalų.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Ano laiko papuošalų ornamentai giminingi lietuvių kaimo audinių ir juostų raštams.'

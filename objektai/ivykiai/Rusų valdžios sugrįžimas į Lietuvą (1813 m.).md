@@ -16,6 +16,18 @@ tags:
 
 Paskui Napoleoną atslinko į Lietuvą ir jo kariuomenės likučiai. Pasitraukus Napoleono kariuomenei, tuojau buvo sugrąžinta senoji Rusų valdžia.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Paskui Napoleoną atslinko į Lietuvą ir jo kariuomenės likučiai.'

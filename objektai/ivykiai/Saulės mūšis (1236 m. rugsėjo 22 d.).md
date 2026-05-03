@@ -51,6 +51,18 @@ tags:
 
 1236 m. kalavijuočių ir jų talkininkų žygis į šiaurinę Lietuvą baigėsi Saulės mūšiu prie Šiaulių srities. Lietuvių, Ivinskio interpretacijoje Vykinto vadovaujamų žemaičių būrių, pergalė smarkiai susilpnino kalavijuočius ir paskatino jų susijungimą su kryžiuočiais.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1236 m. kalavijuočiai su svečiais įsiveržė į Lietuvą ir žiauriai nusiaubė kraštą.'

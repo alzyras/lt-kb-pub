@@ -17,6 +17,18 @@ tags:
 
 Sužeistas Karolis XII išsigelbėjo pabėgęs į Turkus, o jo kariuomenės viena dalis žuvo, kita pateko į nelaisvę (1709 m.). Tuo tarpu 1707 m. pradžioje grįžo iš Saksonijos Karolis XII, ir rusai pradėjo trauktis.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Sužeistas Karolis XII išsigelbėjo pabėgęs į Turkus, o jo kariuomenės viena dalis žuvo, kita pateko į nelaisvę (1709 m.).'

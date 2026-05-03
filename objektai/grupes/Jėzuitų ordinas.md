@@ -31,16 +31,12 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
 - t-003
   teiginys: 'Vilniaus vyskupas Protasevičius, norėdamas paruošti kunigų iš savo žmonių tarpo ir rūpindamasis kovoti su protestantais, atsikvietė į Vilnių jėzuitų; jie čia įkūrė pirmą aukštesniąją mokyklą Lietuvoje, vadinamą kolegija (žiūr.'
   pagrindžia:
+    - c-006
     - c-003
 - t-004
   teiginys: 'Jėzuitai, kurie labai nepalankiomis sąlygomis pradėjo savo darbą Lietuvoje, dabar jau buvo labai sustiprėję.'
   pagrindžia:
     - c-004
-- t-005
-  teiginys: 'Todėl kai 1578 m. Vilniaus jėzuitai per vysk.'
-  pagrindžia:
-    - c-005
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kovai su plintančiu protestantizmu.'
@@ -102,21 +98,28 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Todėl kai 1578 m. Vilniaus jėzuitai per vysk.'
+- c-006
+  santrauka: Jėzuitų ordinas papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Todėl kai 1578 m. Vilniaus jėzuitai per vysk. Protasevičių
-    ir J. Radvilą paprašė jį leisti įkurti Vilniuje akademiją, Stp. Ba-
-    toras labai mielai sutiko ir davė privilegijos raštą, kurį jis antrą
-    kartą iškilmingai patvirtino atvykęs į Lietuvą (1579 m.).
-  citata_rodoma: ''
+    1569
+    m. į Lietuvą jų parsi-
+    kvietė Vilniaus vys-
+    kupas Protasevi-
+    čius. Jie gavo Vilniuje
+    namus, šv. Jono bažny-
+    čią ir keletą dvarų. Čia
+    jie pradėjo savo darbą,
+    greit paplisdami po visą
+    Lietuvą.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
-    - t-005
+    - t-003
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

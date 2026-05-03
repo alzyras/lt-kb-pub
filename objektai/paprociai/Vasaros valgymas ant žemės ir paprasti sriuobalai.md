@@ -25,8 +25,20 @@ tags: []
 
 Vaišių ir šventinių valgių racionas turėjo konkrečius patiekalus bei ruošimo būdus. Vasarą visi valgė ant žemės, prisikloję dembliais ar meškenomis.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: kasdienybės praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

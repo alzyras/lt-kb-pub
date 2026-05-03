@@ -16,6 +16,18 @@ tags:
 
 Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. parašė kaizeriui peticiją ir surinko po ja net 16.400 parašų.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. parašė kaizeriui peticiją ir surinko po ja net 16.400 parašų.'

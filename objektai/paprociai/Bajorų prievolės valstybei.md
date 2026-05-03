@@ -19,6 +19,21 @@ tags:
 
 Karinė prievolė bajorijai nebuvo lengva: kasmet vieną ar keletą kartų tekdavo eiti į karą pačiam su savo ginklais, su savu arkliu ir su savo maistu. Be karo tarnybos, bajorai turėjo dar ir kitų pareigų; jie turėjo statyti naujas ir taisyti senas pilis; be to, jų pareiga buvo ir saugoti pilis. Lietuvos bajorijos pareigos valstybei priklausydavo nuo jų valdomosios žemės.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Karinė prievolė bajorijai nebuvo lengva: kasmet vieną ar keletą kartų tekdavo eiti į karą pačiam su savo ginklais, su savu arkliu ir su savo maistu.'

@@ -19,6 +19,21 @@ tags:
 
 Tokie žygiai tuomet būdavo tarsi pramoginė medžioklė. Kryžiuočiai su Lietuva jau skaitėsi, kaip su valstybe, ir karas jau nebebuvo vien skerdynės: jau buvo laikomasi tam tikros karo etikos, t. Žodžiu, to meto Europos riteriai buvo kviečiami, lyg į kokias pramogas, kariauti su lietuviais.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tokie žygiai tuomet būdavo tarsi pramoginė medžioklė.'

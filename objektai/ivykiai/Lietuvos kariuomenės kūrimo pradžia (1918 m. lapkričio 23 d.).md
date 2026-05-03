@@ -16,6 +16,18 @@ tags:
 
 Kariuomenės organizavimo pradžia laikoma 1918 m. lapkričio mėn.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kariuomenės organizavimo pradžia laikoma 1918 m. lapkričio mėn.'

@@ -25,6 +25,21 @@ tags: []
 
 Trimpos garbei buvo aukojama mira kaip viena iš materialių dovanų.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Trimpos garbei buvo aukojama mira kaip viena iš materialių dovanų.'

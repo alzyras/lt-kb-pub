@@ -19,6 +19,18 @@ tags:
 
 Jau 1914 m. Filadelfijoje įvyko bendras lietuvių ir ukrainiečių mitingas, kuris reikalavo „išvyti maskolius į Aziją ir palikti Lietuvą lietuviams, o Ukrainą ukrainiečiams". Į katalikų 1916 m. suorganizuotą Tautos Tarybą tautininkai nėjo: jie suorganizavo savo Amerikos Lietuvių Tautinę Tarybą. 1918 m. katalikai ir tautininkai sušaukė Naujorke trečiąjį lietuvių seimą, kuriame dalyvavo apie 1.200 lietuviškųjų organizacijų atstovų.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Jau 1914 m. Filadelfijoje įvyko bendras lietuvių ir ukrainiečių mitingas, kuris reikalavo „išvyti maskolius į Aziją ir palikti Lietuvą lietuviams, o Ukrainą ukrainiečiams".'

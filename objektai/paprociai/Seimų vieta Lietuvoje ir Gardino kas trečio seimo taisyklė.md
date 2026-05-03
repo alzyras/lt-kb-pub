@@ -19,6 +19,21 @@ tags:
 
 Liublino seimas seimų vieta paskyrė Varšuvą arba kurį nors kitą Lenkijos miestą. Keletą kartų jie vis dėlto pasiekė tai, kad seimas prieš įstatymus buvo sušauktas Lietuvoje, o 1673 m. buvo pakeistas ir patsai seimų vietos įstatymas; naujasis įstatymas nustatė, kad kas trečias seimas, kurio maršalka esti lietuvis, rinktųsi Lietuvoje —. Be to, tas pats įstatymas pripažino pirmenybę Lietuvos ministeriams, kai seimas būdavo Lietuvoje.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Liublino seimas seimų vieta paskyrė Varšuvą arba kurį nors kitą Lenkijos miestą.'

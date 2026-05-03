@@ -41,6 +41,18 @@ tags:
 
 Gabalas aprašo lenkų puolimą ties Seinais, Kapčiamiesčiu, Druskininkais, Lydos kryptimi ir Varėnos link. Tekste ši operacija įvardijama ir kaip Augustavo-Suvalkų operacija, ir kaip lenkų puolimas dešiniąjame Nemuno krante. 1920 m. rugsėjo 22 d. lenkai slapta pergrupavo pajėgas ir pradėjo puolimą ties Seinais bei Kapčiamiesčiu Rugsėjo 23 d. lenkų divizijos perėjo Nemuną Druskininkuose, rugsėjo 28 d. užėmė Lydą ir lietuviai traukėsi į šiaurę.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1920 m. rugsėjo 22 d. lenkai slapta pergrupavo pajėgas ir pradėjo puolimą ties Seinais bei Kapčiamiesčiu.'

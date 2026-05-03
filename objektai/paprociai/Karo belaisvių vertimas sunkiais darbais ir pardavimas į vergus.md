@@ -25,8 +25,20 @@ tags: []
 
 Paimtus neprietelius lietuviai versdavo sunkiai dirbti ir novijo iki mirties. Dalis karo belaisvių būdavo parduodama gudams ir totoriams į vergus.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: socialinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

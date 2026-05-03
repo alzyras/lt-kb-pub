@@ -17,6 +17,21 @@ tags:
 
 Daugumas dalykų tebebuvo dėstoma lotyniškai, tik kai kurie dalykai — lenkiškai (galutinai lenkų kalba čia buvo įvesta tik 1816 m., t. Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Daugumas dalykų tebebuvo dėstoma lotyniškai, tik kai kurie dalykai — lenkiškai (galutinai lenkų kalba čia buvo įvesta tik 1816 m., t.'

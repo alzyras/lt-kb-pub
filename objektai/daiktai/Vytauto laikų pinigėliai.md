@@ -18,6 +18,21 @@ tags:
 
 4—10 — Vytauto laikų pinigėliai (dokumentuose minimi jau 1387 m.; 10 pinigėlių = 1 skatikui; vėliau, XVI amž., jie buvo sulyginti su denarais); 5 — pusskatikis (= 5 pinigėliams) ; 6 ir 7 — dvidenariai (^2 /в skatiko) ; 8 — Kijevo kunig. Po Vytauto, iki Aleksandro laikų, Lietuvoje pinigai vėl nebebuvo kalami.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '4—10 — Vytauto laikų pinigėliai (dokumentuose minimi jau 1387 m.; 10 pinigėlių = 1 skatikui; vėliau, XVI amž., jie buvo sulyginti su denarais); 5 — pusskatikis (= 5 pinigėliams) ; 6 ir 7 — dvidenariai (^2 /в skatiko) ; 8 — Kijevo kunig.'

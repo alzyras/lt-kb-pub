@@ -18,6 +18,21 @@ tags:
 
 Užkliuvo Muravjovui ir Lietuvos kaimuose bei pakelėse stovį kryžiai. Patys parapijonys daug kur ėmė bausti apylinkės girtuoklius, o blaivybei paminėti statė kryžius ir paminklus.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Užkliuvo Muravjovui ir Lietuvos kaimuose bei pakelėse stovį kryžiai.'

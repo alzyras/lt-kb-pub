@@ -25,8 +25,20 @@ tags: []
 
 Žmones į Salas telkė bažnyčios varpų skambėjimas. Kunigas Mackevičius sakė pamokslą ir lenkiškai, ir lietuviškai, o kariuomenė bei žmonių pulkai jo klausėsi tyrame lauke.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: socialinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

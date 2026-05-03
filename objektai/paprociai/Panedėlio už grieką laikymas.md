@@ -25,8 +25,20 @@ tags: []
 
 Panedėly daug kas vengia leistis į tolimą kelionę arba dirbti sunkų darbą, nes tą dieną laiko grėsminga ir ją pridengia kaip karaliaus dienos šventimą.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: socialinė norma
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

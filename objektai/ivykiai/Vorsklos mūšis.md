@@ -8,7 +8,8 @@ variantai:
   - 'VORSKLOS MŪŠIS'
   - 'mūšis prie Vorsklos'
   - 'Vorsklos mūšis (1399 m. rugpjūčio 12 d.)'
-aliases: []
+aliases:
+  - '[]'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -48,6 +49,19 @@ tags:
 Vytautas susitiko su totoriais prie Vorsklos upės ir skaudžiai pralaimėjo mūšį: žuvo trys ketvirčiai jo kariuomenės ir daugybė kunigaikščių.
 
 Ivinskis pažymi rugpjūčio 12 d. mūšio disproporciją, didžiulius nuostolius ir Vytauto pabėgimą nakties tamsoje.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Vytautas susitiko su totoriais prie Vorsklos upės ir skaudžiai pralaimėjo mūšį: žuvo trys ketvirčiai jo kariuomenės ir daugybė kunigaikščių.'

@@ -18,6 +18,21 @@ tags:
 
 Po Vytauto vėliava Vorsklos kautynėse kovoję apie 50 kunigaikščių.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Po Vytauto vėliava Vorsklos kautynėse kovoję apie 50 kunigaikščių.'

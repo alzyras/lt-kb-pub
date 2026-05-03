@@ -17,6 +17,18 @@ tags:
 
 Tad, norėdamas sumažinti importą ir paremti savąją pramonę, 1776 m. seimas išleido gyventojų išlaidų normuojamąjį įstatymą (lex sumptuaria).
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tad, norėdamas sumažinti importą ir paremti savąją pramonę, 1776 m. seimas išleido gyventojų išlaidų normuojamąjį įstatymą (lex sumptuaria).'

@@ -18,6 +18,18 @@ tags:
 
 Elekcija po Jono Sobieskio buvo viena iš nešvariausių visoje Respublikos istorijoje: joje viską lėmė papirkimai.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Elekcija po Jono Sobieskio buvo viena iš nešvariausių visoje Respublikos istorijoje: joje viską lėmė papirkimai.'

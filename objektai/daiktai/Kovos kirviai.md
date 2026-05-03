@@ -18,6 +18,21 @@ tags:
 
 Kovos kirviai čia figūruoja kaip ankstyvojo feodalizmo laikotarpio tyrimų objektas.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kovos kirviai paminėti kaip ankstyvojo feodalizmo laikotarpio tyrimų objektas.'

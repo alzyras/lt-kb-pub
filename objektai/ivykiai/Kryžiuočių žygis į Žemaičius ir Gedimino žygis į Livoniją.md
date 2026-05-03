@@ -17,6 +17,18 @@ tags:
 
 Tik 1322 m., pasikvietę svečių iš Vokietijos, kryžiuočiai suruošė žygi į Žemaičius ir sugriovė vieną pilį.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tik 1322 m., pasikvietę svečių iš Vokietijos, kryžiuočiai suruošė žygi į Žemaičius ir sugriovė vieną pilį.'

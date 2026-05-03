@@ -16,6 +16,18 @@ tags:
 
 Tarp bolševikų vyriausybės ir Vokietijos prasidėjus separatinės taikos deryboms (derybos prasidėjo 1917 m. gale Brastoje, taika buvo pasirašyta 1918 m. kovo mėn.), visi lietuvių rūpesčiai buvo suvesti į vieną: kuo greičiausiai grįžti ir visus lietuvius.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tarp bolševikų vyriausybės ir Vokietijos prasidėjus separatinės taikos deryboms (derybos prasidėjo 1917 m. gale Brastoje, taika buvo pasirašyta 1918 m. kovo mėn.), visi lietuvių rūpesčiai buvo suvesti į vieną: kuo greičiausiai grįžti ir visus lietuvius.'

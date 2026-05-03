@@ -28,8 +28,20 @@ tags: []
 
 Didesniosios valstybės steigė specialias brolijas savo maldininkams globoti, kurios iš pradžių rūpinosi kelionės saugumu. Naujos karinės grėsmės sąlygomis globos brolijos virto kariaujančiais riterių ordinais.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: religinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

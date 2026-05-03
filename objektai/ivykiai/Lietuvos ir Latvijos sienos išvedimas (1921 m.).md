@@ -20,6 +20,18 @@ tags:
 
 Vedant Lietuvos Latvijos sieną, prie Latvijos buvo prijungti kai kurie lietuviški valsčiai (ypač Alūkstos apskr.), o kai kur vienas kitas latviškas valsčius ar jo dalis atiteko Lietuvai. 1921 m. siena tarp Lietuvos ir Latvijos buvo išvesta maždaug buvusios Kuršo gubernijos riba, bet buvo padaryta mažų pakeitimų vienur Lietuvos, kitur Latvijos naudai (Latvija iš buvusios Kauno gubernijos gavo 290 kv.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Vedant Lietuvos Latvijos sieną, prie Latvijos buvo prijungti kai kurie lietuviški valsčiai (ypač Alūkstos apskr.), o kai kur vienas kitas latviškas valsčius ar jo dalis atiteko Lietuvai.'
@@ -37,6 +49,7 @@ Vedant Lietuvos Latvijos sieną, prie Latvijos buvo prijungti kai kurie lietuvi�
   teiginys: 'Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo laikoma buvusios Kuršo gubernijos siena.'
   pagrindžia:
     - c-004
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vedant Lietuvos Latvijos sieną, prie Latvijos buvo prijungti kai kurie lietuviški valsčiai (ypač Alūkstos apskr.), o kai kur vienas kitas latviškas valsčius ar jo dalis atiteko Lietuvai.'
@@ -120,3 +133,6 @@ Vedant Lietuvos Latvijos sieną, prie Latvijos buvo prijungti kai kurie lietuvi�
 - [[temos/upė]]
 - [[temos/šventė]]
 - [[temos/upė - šventė]]
+
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]

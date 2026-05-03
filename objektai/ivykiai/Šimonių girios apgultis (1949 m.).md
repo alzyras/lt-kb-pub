@@ -40,6 +40,18 @@ tags:
 
 Šimonių girioje 1949 m. lapkritį MGB vidaus kariuomenė vykdė karinę-čekistinę operaciją. Prieš pagrindinį susirėmimą čekistams bunkerį išdavė suimti ir užverbuoti partizanai. 1949 m. lapkričio 1-2 d. Šimonių girioje MGB vidaus kariuomenė vykdė karines-čekistines operacijas 1949 m. spalį suimti Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis sutiko bendradarbiauti ir atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio; bunkeryje susisprogdino Antanas Slučka-Šarūnas, Joana Railaitė-Neringa ir Juozas Jovaiša-Lokis; Balys Žukauskas-Princas pasidavė gyvas ir nurodė dar 3 štabo bunkerius.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1949 m. lapkričio 1-2 d. Šimonių girioje MGB vidaus kariuomenė vykdė karines-čekistines operacijas.'

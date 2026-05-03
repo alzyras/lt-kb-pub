@@ -1,4 +1,5 @@
 import { QuartzTransformerPlugin } from "../types"
+import { normalizeCitationSourceId } from "../../util/citationFilter"
 
 const TARGET_SECTIONS = new Set([
   "Teiginiai",
@@ -272,16 +273,25 @@ function renderClaimsSection(sectionLines: string[]): string[] | null {
     return null
   }
 
-  const out = ["", "| Teiginys | Kontekstas | Pagrindžia |", "| --- | --- | --- |"]
+  const out = [
+    "",
+    `<div class="claims-section" data-claims-section="true">`,
+    `<table class="advanced-claims-table" data-claims-table="true"><thead><tr><th>Teiginys</th><th>Kontekstas</th><th>Pagrindžia</th></tr></thead><tbody>`,
+  ]
   for (const entry of entries) {
     const { claim, context } = splitClaimAndContext(entry)
     const refs = entry.lists.get("pagrindžia") ?? []
     const refsHtml = refs.length > 0 ? refs.map(pill).join(" ") : ""
     out.push(
-      `| ${pill(entry.id)} ${markdownCell(claim)} | ${markdownCell(context)} | ${refsHtml} |`,
+      `<tr data-claim-row="true" data-supporting-ids="${escapeHtml(refs.join("|"))}"><td>${pill(entry.id)} ${markdownCell(claim)}</td><td>${markdownCell(context)}</td><td>${refsHtml}</td></tr>`,
     )
   }
-  out.push("")
+  out.push(
+    `</tbody></table>`,
+    `<p class="options-filter-empty" data-claims-empty-state hidden>Nėra teiginių pagal pasirinktus filtrus.</p>`,
+    `</div>`,
+    "",
+  )
   return out
 }
 
@@ -323,16 +333,21 @@ function renderMentionsSection(sectionLines: string[]): string[] | null {
     return null
   }
 
-  const out: string[] = [""]
+  const out: string[] = ["", `<div class="citations-section" data-citation-section="true">`]
   for (const entry of entries) {
     const summary = entry.fields.get("santrauka") ?? ""
     const source = entry.fields.get("šaltinis") ?? entry.fields.get("saltinis") ?? ""
+    const sourceId = source ? normalizeCitationSourceId(source) : ""
     const displayQuote = entry.fields.get(QUOTE_DISPLAY_KEY)?.trim()
     const legacyDisplayQuote = entry.fields.get(QUOTE_LEGACY_DISPLAY_KEY)?.trim()
     const originalQuote = entry.fields.get(QUOTE_ORIGINAL_KEY)?.trim() ?? ""
     const quote = displayQuote || legacyDisplayQuote || originalQuote
 
-    out.push(`${pill(entry.id)}`, "")
+    out.push(
+      `<section class="citation-entry" data-citation-entry="true" data-citation-id="${escapeHtml(entry.id)}" data-citation-source-id="${escapeHtml(sourceId)}" data-citation-source-title="${escapeHtml(source)}">`,
+      `${pill(entry.id)}`,
+      "",
+    )
     if (summary) {
       out.push(`**Santrauka:** ${markdownText(summary)}`, "")
     }
@@ -351,8 +366,12 @@ function renderMentionsSection(sectionLines: string[]): string[] | null {
         `<table class="advanced-evidence-line advanced-evidence-table" data-adv-key="technical_fields"><tbody>${rows.join("")}</tbody></table>`,
       )
     }
-    out.push("")
+    out.push("", `</section>`, "")
   }
+  out.push(
+    `<p class="options-filter-empty" data-citation-empty-state hidden>Nėra citatų pagal pasirinktus filtrus.</p>`,
+    `</div>`,
+  )
   return out
 }
 

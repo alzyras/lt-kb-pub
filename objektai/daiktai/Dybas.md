@@ -25,6 +25,21 @@ tags: []
 
 Kaltininkus pririšdavo prie dybo ir plakdavo.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kaltininkus pririšdavo prie dybo ir plakdavo.'

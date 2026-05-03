@@ -18,6 +18,21 @@ tags:
 
 Sienodaužiai buvo naudojami Kauno pilies mūrams griauti. Lietuviai puldami Gotteswerderį naudojo 15 mašinų ir 5 sienodaužius.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Sienodaužiai buvo naudojami Kauno pilies mūrams griauti.'

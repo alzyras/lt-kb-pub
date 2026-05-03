@@ -1,0 +1,145 @@
+.options-panel-root {
+  position: relative;
+}
+
+.options-panel-toggle,
+.options-panel-close,
+.options-panel-reset {
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 0.4rem;
+  cursor: pointer;
+  font: inherit;
+}
+
+.options-panel-toggle {
+  padding: 0.35rem 0.65rem;
+  line-height: 1.2;
+}
+
+.options-panel-popover {
+  position: absolute;
+  top: calc(100% + 0.5rem);
+  left: 0;
+  z-index: 30;
+  width: min(24rem, calc(100vw - 2rem));
+  max-height: min(32rem, 75vh);
+  overflow: auto;
+  padding: 0.9rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 0.7rem;
+  background: var(--light);
+  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.16);
+}
+
+.options-panel-header,
+.options-panel-actions,
+.options-panel-range-row,
+.options-panel-source-row {
+  display: flex;
+  align-items: center;
+}
+
+.options-panel-header,
+.options-panel-actions {
+  justify-content: space-between;
+}
+
+.options-panel-section {
+  margin-top: 0.9rem;
+}
+
+.options-panel-label {
+  display: block;
+  margin-bottom: 0.4rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.options-panel-range-row {
+  gap: 0.75rem;
+}
+
+.options-panel-range-row input[type="range"] {
+  flex: 1 1 auto;
+}
+
+.options-panel-number,
+.options-panel-search {
+  border: 1px solid var(--lightgray);
+  border-radius: 0.4rem;
+  background: var(--light);
+  color: var(--dark);
+  font: inherit;
+}
+
+.options-panel-number {
+  width: 5.5rem;
+  padding: 0.35rem 0.45rem;
+}
+
+.options-panel-search {
+  width: 100%;
+  padding: 0.45rem 0.55rem;
+}
+
+.options-panel-selected {
+  margin-top: 0.45rem;
+  font-size: 0.88rem;
+  color: var(--gray);
+}
+
+.options-panel-source-list {
+  margin-top: 0.55rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 0.5rem;
+  padding: 0.35rem 0.45rem;
+  max-height: 14rem;
+  overflow: auto;
+}
+
+.options-panel-source-row {
+  gap: 0.55rem;
+  padding: 0.3rem 0;
+  justify-content: space-between;
+}
+
+.options-panel-source-row label {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  cursor: pointer;
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.options-panel-source-title {
+  display: block;
+  font-size: 0.92rem;
+  line-height: 1.35;
+}
+
+.options-panel-source-count {
+  color: var(--gray);
+  font-size: 0.82rem;
+  white-space: nowrap;
+}
+
+.options-panel-empty,
+.options-filter-empty {
+  color: var(--gray);
+  font-size: 0.9rem;
+}
+
+.options-filter-empty[hidden] {
+  display: none !important;
+}
+
+@media (max-width: 800px) {
+  .options-panel-popover {
+    left: auto;
+    right: 0;
+    width: min(22rem, calc(100vw - 1.5rem));
+  }
+}

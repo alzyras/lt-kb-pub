@@ -19,6 +19,18 @@ tags:
 
 Po keleto mėnesių įvyko sukilimas, vadovaujamas Kosciuškos, kuris pastatė savo valdžią; o netrukus po to buvo atliktas paskutinis Respublikos padalinimas. Sukilėliai visą valdžią atidavė generolui Kosciuškai (jis buvo kilęs iš Naugarduko vaivadijos ir laikė save lietuviu). Kosciuška, norėdamas sukelti valstiečius, išleido atsišaukimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę (tokių atsišaukimų buvo išleistų ir lietuviškų).
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Po keleto mėnesių įvyko sukilimas, vadovaujamas Kosciuškos, kuris pastatė savo valdžią; o netrukus po to buvo atliktas paskutinis Respublikos padalinimas.'

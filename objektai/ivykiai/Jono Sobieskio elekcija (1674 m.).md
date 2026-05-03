@@ -19,6 +19,18 @@ tags:
 
 Kai pasirodė, jog nebus galima išrinkti Kondės, prieš kurio kandidatūrą jau keliolika metų kovojo bajorija (Jono Kazimiero ir Mykolo laikais), tuomet prancūziškoji partija pastatė kandidatu savo vadą hetmoną Sobieskį. Lenkams išrinkus Sobieskį, lietuviai pareiškė protestą ir, sustoję kitoje Vyslos pusėje, į elekcijos lauką neėjo.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kai pasirodė, jog nebus galima išrinkti Kondės, prieš kurio kandidatūrą jau keliolika metų kovojo bajorija (Jono Kazimiero ir Mykolo laikais), tuomet prancūziškoji partija pastatė kandidatu savo vadą hetmoną Sobieskį.'

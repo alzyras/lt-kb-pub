@@ -25,6 +25,21 @@ tags: []
 
 Virš ugnavietės kabėjęs ąžuolo ramentas buvo vadinamas vąšu. Prie vąšo rišdavo druskos gabalą, kurį gaspadinė galėdavo įleisti į katilą.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Virš ugnavietės kabėjęs ąžuolo ramentas buvo vadinamas vąšu.'

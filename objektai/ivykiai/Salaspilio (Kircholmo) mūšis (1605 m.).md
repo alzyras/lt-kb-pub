@@ -50,6 +50,18 @@ tags:
 
 Šiame gabale aprašomas Salaspilio (Kirkcholmo) mūšio antrasis etapas: kariuomenių išsirikiavimas, apgaulingas Lietuvos kariuomenės atsitraukimas, švedų puolimas, rikiuotės suirimas ir galutinis bėgimas iš mūšio lauko. Tekste kartojami keli mūšio dalyviai ir akcentuojami atskiri taktiniai smūgiai bei žūtys. 1605 m. rugsėjo 27 d. ties Salaspiliu (Kirkholmu) Karolis IX išrikiavo savo kariuomenę, o J. K. Chodkevičius liepė Lietuvos kariuomenei pasiruošti mūšiui; prie didžiojo etmono prisijungė ir Kuršo kunigaikštis Fridrichas Ketleris Švedų ir Lietuvos kariuomenės nepajudėjusios išstovėjo iki vidudienio, nes švedai buvo išsirikiavę ant aukšto upelio kranto, o lietuviai mėgino juos išprovokuoti pulti pirmuosius.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1605 m. rugsėjo 27 d. ties Salaspiliu (Kirkholmu) Karolis IX išrikiavo savo kariuomenę, o J. K. Chodkevičius liepė Lietuvos kariuomenei pasiruošti mūšiui; prie didžiojo etmono prisijungė ir Kuršo kunigaikštis Fridrichas Ketleris.'

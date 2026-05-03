@@ -30,6 +30,18 @@ Troba buvo ketvirtasis trobesys, skirtas svečiams žiemą vaišinti. Troboje bu
 
 - `svetlyčia`
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Troba buvo ketvirtasis trobesys, skirtas svečiams žiemą vaišinti.'

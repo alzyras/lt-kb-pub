@@ -16,6 +16,18 @@ tags:
 
 Tuo metu Mikalojus Kristupas Radvila, vad. Našlaitėlis, įkūrė jėzuitų kolegiją buvusiam kalvinų centre — Nesvyžiuje (1582 m.).
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tuo metu Mikalojus Kristupas Radvila, vad. Našlaitėlis, įkūrė jėzuitų kolegiją buvusiam kalvinų centre — Nesvyžiuje (1582 m.).'

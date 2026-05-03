@@ -17,6 +17,21 @@ tags:
 
 Laisvės ideologai matė netvarką, tačiau veto teisę laikė šventa: esą, tai visų bajoriškųjų laisvių perlas, saugotinas, kaip akies lėlytė.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Laisvės ideologai matė netvarką, tačiau veto teisę laikė šventa: esą, tai visų bajoriškųjų laisvių perlas, saugotinas, kaip akies lėlytė.'

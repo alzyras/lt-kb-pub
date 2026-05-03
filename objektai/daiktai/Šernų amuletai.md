@@ -18,6 +18,21 @@ tags:
 
 Aestii, anot Tacito, nešiojo šernų amuletus.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Aestii, anot Tacito, nešiojo šernų amuletus.'

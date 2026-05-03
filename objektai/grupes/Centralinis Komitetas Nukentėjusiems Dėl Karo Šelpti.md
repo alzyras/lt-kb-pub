@@ -47,6 +47,7 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
 - t-004
   teiginys: 'Lietuvių Komitetas, persikėlęs į Petrapilį (dabartinį Leningradą), organizavo ne tik tremtinių šelpimą, bet ir visos jaunuomenės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).'
   pagrindžia:
+    - c-009
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -199,6 +200,23 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+- c-009
+  santrauka: Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Okupacinė valdžia, nepatenkinta tokiuo reikalavimu,
+    sumanė pati organizuoti vietinę lietuvių atstovybę, pavadintą
+    _Vertrauensrat,_ t. y. pasitikėjimo taryba, kuri tarnautų vokie-
+    čių administracijai. Tačiau nė vienas lietuvis nesutiko įeiti į to-
+    kią tarybą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-004
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

@@ -17,6 +17,21 @@ tags:
 
 Traidenis turėjo brolių ir sūnų, tad greičiausiai po jo Lietuvą valdė arba jo brolis arba sūnus.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Traidenis turėjo brolių ir sūnų, tad greičiausiai po jo Lietuvą valdė arba jo brolis arba sūnus.'

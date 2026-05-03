@@ -25,8 +25,20 @@ tags: []
 
 Vaikai nuo mažų dienų buvo pratinti prie darbo, žaidimų, įrankių ir karo. Gimdyvė trečią ar ketvirtą dieną po gimdymo dirbo sunkiausius darbus namie ir lauke.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: socialinė norma
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

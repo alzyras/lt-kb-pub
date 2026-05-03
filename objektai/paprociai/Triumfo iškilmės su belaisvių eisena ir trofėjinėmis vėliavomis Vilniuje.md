@@ -25,8 +25,20 @@ tags: []
 
 Po pergalės Vilniuje įvyko triumfo iškilmės. Eisenoje buvo vedami belaisviai Maskvos karvedžiai ir kariai, o Vilniaus katedroje pakabintos trofėjinės vėliavos.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: kultūrinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

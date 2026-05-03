@@ -25,6 +25,21 @@ tags: []
 
 Ritmuša buvo senovinis vaikų žaidimo ir karinės pratybos įrankis. Ritmuša buvo senovinis jaunimo karės įrankis, kurio mokėsi nuo mažų dienų.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Ritmuša buvo senovinis vaikų žaidimo ir karinės pratybos įrankis.'

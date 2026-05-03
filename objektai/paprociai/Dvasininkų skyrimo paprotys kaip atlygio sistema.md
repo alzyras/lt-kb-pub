@@ -19,6 +19,21 @@ tags:
 
 Tuo būdu į dvasininkus įsibraudavo daug žmonių, kurie nieko bendro neturėdavo su Bažnyčia, o tiktai norėdavo pasipelnyti. Be abejo, kad šitokiu būdu skiriami dvasininkai labai dažnai nepasižymėdavo savo vertybe, nes daugumas iš jų tapdavo dvasininkais tik dėl pelningumo. Be to, dar reikia priminti blogą dvasininkų skyrimo paprotį, buvusį tuomet visoje Europoje, būtent klebonus skirdavo tas, kas pastatydavo ir aprūpindavo bažnyčią, o vyskupus ir kanauninkus — didysis kunigaikštis.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tuo būdu į dvasininkus įsibraudavo daug žmonių, kurie nieko bendro neturėdavo su Bažnyčia, o tiktai norėdavo pasipelnyti.'

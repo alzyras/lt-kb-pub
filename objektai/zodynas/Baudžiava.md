@@ -23,7 +23,8 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
-tags: []
+tags:
+  - privilegija
 ---
 # Baudžiava
 
@@ -136,6 +137,7 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/teisinis-terminas]]
+- [[temos/privilegija]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]

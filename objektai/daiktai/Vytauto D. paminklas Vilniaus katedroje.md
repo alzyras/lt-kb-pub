@@ -16,6 +16,21 @@ tags:
 
 Mykolo altorius, pastatė naują paminklą; tai marmurinė lenta su atkartotu karalienės Bonos užrašu ir nauju prierašu. Viršum jo buvo pakabintas senas Vytauto portretas.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Mykolo altorius, pastatė naują paminklą; tai marmurinė lenta su atkartotu karalienės Bonos užrašu ir nauju prierašu.'

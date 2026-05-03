@@ -25,8 +25,20 @@ tags: []
 
 Dideli ir seni medžiai senovėje tarnavo kaip rubežių ženklai, o jų palietimas buvo baudžiamas labai griežtai.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: teisinė-administracinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

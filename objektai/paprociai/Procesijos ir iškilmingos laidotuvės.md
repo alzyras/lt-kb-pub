@@ -17,6 +17,21 @@ tags:
 
 Dažniausiai muštynių atsitikdavo švenčių metu, per procesijas, kada ypatingai vieni kitus gebėdavo įžeisti. Pavyzdžiui, 1611 m. per Dievo Kūno procesiją vienas protestantas, Ostijos garbinimą išvadinęs stabmeldyste, buvo minios apkultas, suimtas, o vėliau pasmerktas mirti ir nukankintas. Be to, jie stengėsi patraukti visuomenę į bažnyčią gražiomis iškilmingomis pamaldomis, visokiomis procesijomis ir iškilmėmis.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Dažniausiai muštynių atsitikdavo švenčių metu, per procesijas, kada ypatingai vieni kitus gebėdavo įžeisti.'

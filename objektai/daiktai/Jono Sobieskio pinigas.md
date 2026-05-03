@@ -17,6 +17,21 @@ tags:
 
 Jono Sobieskio yra žinomas tik vienintelis pinigas — šeštokas (41 nr.).
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Jono Sobieskio yra žinomas tik vienintelis pinigas — šeštokas (41 nr.).'

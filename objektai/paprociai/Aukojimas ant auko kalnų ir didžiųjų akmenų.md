@@ -25,8 +25,20 @@ tags: []
 
 Ant auko kalnų ir didelių akmenų žmonės meldėsi ir dievams aukavo, degindami įvairias aukas.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: ritualas
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

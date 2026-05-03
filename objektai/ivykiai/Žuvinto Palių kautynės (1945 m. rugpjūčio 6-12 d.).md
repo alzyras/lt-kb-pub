@@ -39,6 +39,18 @@ tags:
 
 NKVD apsupo Žuvinto ežerą ir Palias, partizanai slėpėsi salose ir pelkėse, o mūšis tęsėsi visą savaitę. Partizanai be paliovos apšaudė valtimis plaukiančius enkavėdistus, mūšis tęsėsi visą savaitę, o Dzūkų būriui įsakyta trauktis į Palių pakraštį Partizanai slapstėsi Žuvinto ežero salose, o Juozas Kasparavičius-Strausas apgaule privertė rusų valtis artintis.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Partizanai be paliovos apšaudė valtimis plaukiančius enkavėdistus, mūšis tęsėsi visą savaitę, o Dzūkų būriui įsakyta trauktis į Palių pakraštį.'

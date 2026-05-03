@@ -34,6 +34,18 @@ Moterys ir vyrai avėjo rezginėmis arba vyženomis, o vyrai kojas vyniodavo aut
 - `autai`
 - `žekės`
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Moterys ir vyrai avėjo rezginėmis arba vyženomis, o vyrai kojas vyniodavo autais, moterys su žekėmis.'

@@ -19,6 +19,18 @@ tags:
 
 Ordinas nesiskubino į Žemaičius, bet pirmučiausia puolė Lenkiją (1409 m.). Jie bandė patraukti į savo pusę Vengrų karalių, imperatoriaus Vaclovo brolį Zigmantą, bet tas, norėdamas išardyti abiejų pusbrolių vienybę, pasiūlė atvykusiam pas jį Vytautui karūnuotis Lietuvos karalium. Tada ne metas buvo pyktis su Lenkija dėl tuščio.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Ordinas nesiskubino į Žemaičius, bet pirmučiausia puolė Lenkiją (1409 m.).'

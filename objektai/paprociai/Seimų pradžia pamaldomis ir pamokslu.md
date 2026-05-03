@@ -17,6 +17,21 @@ tags:
 
 Kiekvienas seimas prasidėdavo pamaldomis ir pamokslu. Buvo nustatyta, kad seimai turi rinktis kas dveji metai.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kiekvienas seimas prasidėdavo pamaldomis ir pamokslu.'

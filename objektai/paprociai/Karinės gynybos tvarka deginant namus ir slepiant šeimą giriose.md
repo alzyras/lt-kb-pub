@@ -25,8 +25,20 @@ tags: []
 
 Artėjant stipriam priešui gyventojai išnešdavo turtą į girias, ten suvesdavo šeimas ir gyvulius, javus įkasdavo, o namus sudegindavo. Tokia tvarka palikdavo priešui be maisto ir pastogės, o jos veikimą autorius sieja ir su Algirdo bei Kęstučio karo pavyzdžiu.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: politinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

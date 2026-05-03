@@ -19,6 +19,18 @@ tags:
 
 Į elekcijos seimą 1587 m. Zamoiskis ir jo priešininkai suvažiavo su dideliais kariuomenės būriais.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Į elekcijos seimą 1587 m. Zamoiskis ir jo priešininkai suvažiavo su dideliais kariuomenės būriais.'

@@ -38,6 +38,18 @@ tags:
 
 Kalniškės miške partizanai užėmė kalno gynybines pozicijas, o NKVD 220-asis pulkas visą dieną veržė apsupties žiedą. NKVD 220-ojo Kutuzovo ordino pulko batalionas aptiko partizanų gaują, užėmusią žiedinę gynybą aukštumoje, ir bandė apsupti kalną Partizanai visą dieną laikėsi, vakare jiems ėmė stigti šaudmenų, todėl buvo priimtas sprendimas veržtis iš apsupties.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'NKVD 220-ojo Kutuzovo ordino pulko batalionas aptiko partizanų gaują, užėmusią žiedinę gynybą aukštumoje, ir bandė apsupti kalną.'

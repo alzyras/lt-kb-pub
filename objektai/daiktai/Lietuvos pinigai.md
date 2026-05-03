@@ -33,6 +33,9 @@ tags:
 ## Santrauka
 Šaltinio priedėlyje Lietuvos pinigai aprašomi nuo seniausių sidabrinių kapų iki Augusto II laikų monetų. Jame matyti monetų formų, nominalų, kalyklų, užrašų ir ženklų kaita, taip pat perėjimas nuo sidabrinių prie auksinių ir varinių pinigų.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
 ## Laikotarpis ir datos
 - Laikotarpis: XIV—XVIII a.
 - Datos: 1387 m.; 1706—1707 m.
@@ -43,6 +46,9 @@ Tai skirtingų laikotarpių Lietuvos monetų ir ankstyvųjų piniginių formų r
 
 ## Naudojimas
 Pinigai naudoti atsiskaitymui, o jų formos ir ženklai atspindėjo valdovo laikotarpį, kalyklą ir pinigų vertę.
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

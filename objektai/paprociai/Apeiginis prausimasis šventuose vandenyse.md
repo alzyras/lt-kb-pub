@@ -25,8 +25,20 @@ tags: []
 
 Eidami aukauti ir melstis žmonės šventuose vandenyse mazgojosi ir prausėsi.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: religinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

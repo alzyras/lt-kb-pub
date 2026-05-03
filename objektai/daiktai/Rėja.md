@@ -25,6 +25,21 @@ tags: []
 
 Rėjoje kūlė javus, o jos viduje buvo duoba javams džiovinti. Neturtingieji toje duoboje kartais ir pėrėsi.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Rėjoje kūlė javus, o jos viduje buvo duoba javams džiovinti.'

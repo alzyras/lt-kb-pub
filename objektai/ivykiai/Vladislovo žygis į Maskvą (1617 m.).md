@@ -17,6 +17,18 @@ tags:
 
 Tačiau karalaitis Vladislovas, turėdamas Maskvos bajorų pasirašytą jo išrinkimo raštą, titulavosi caru ir 1617 m. žygiavo užimti Maskvos; kariuomenei vadovavo Katkevičius.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tačiau karalaitis Vladislovas, turėdamas Maskvos bajorų pasirašytą jo išrinkimo raštą, titulavosi caru ir 1617 m. žygiavo užimti Maskvos; kariuomenei vadovavo Katkevičius.'

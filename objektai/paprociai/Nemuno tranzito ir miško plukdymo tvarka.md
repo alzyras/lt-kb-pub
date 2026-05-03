@@ -16,6 +16,21 @@ tags:
 
 Kadangi tatai nepavyko, tai Ambasadorių Konferencija jau po Klaipėdos konvencijos pasirašymo pareiškė norą, kad Lietuva užmegztų santykius su Lenkija ir netrukdytų prekybos nei tranzito (1924. Kitais metais (1925 m.) Lenkija pasiūlė Lietuvai derybas dėl Nemuno atidarymo Kopenhagoje.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kadangi tatai nepavyko, tai Ambasadorių Konferencija jau po Klaipėdos konvencijos pasirašymo pareiškė norą, kad Lietuva užmegztų santykius su Lenkija ir netrukdytų prekybos nei tranzito (1924.'

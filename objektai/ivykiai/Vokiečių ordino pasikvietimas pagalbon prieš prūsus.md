@@ -19,6 +19,18 @@ tags:
 
 XIII amž. į aisčių gyvenamuosius kraštus atsikraustė vokiečiai ir čia sukūrė savo valstybes. Po ilgų kovų, XIII amž. pradžioje prūsų kilčių kaimynai, mozūrų kunigaikščiai, atsikvietė sau į pagalbą vokiečių ordiną (kryžiuočius), kurs vėliau, nukariavęs didelius aisčių plotus, sukūrė ten savo valstybę.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'XIII amž. į aisčių gyvenamuosius kraštus atsikraustė vokiečiai ir čia sukūrė savo valstybes.'

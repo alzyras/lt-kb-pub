@@ -17,6 +17,21 @@ tags:
 
 Sidabro dirbiniai ir auksakalystė Lietuvoje iki XIII a. paminėti kaip atskira tyrimų sritis.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'L. Nakaitė rašė apie sidabro dirbinius ir auksakalystę Lietuvoje iki XIII a.'

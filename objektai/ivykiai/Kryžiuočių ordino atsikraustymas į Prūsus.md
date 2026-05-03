@@ -19,6 +19,18 @@ tags:
 
 Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir paimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą. Kai ordinas gavo kvietimą atvykti į Prūsus, tuo metu jis bylinėjosi su Vengrų karalium, norėdamas atgauti iš jo žemes. 1230 m. pirmieji ordino atstovai jau buvo Prūsų pasieny.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir paimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą.'

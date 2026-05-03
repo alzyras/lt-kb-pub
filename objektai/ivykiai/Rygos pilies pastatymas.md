@@ -19,6 +19,18 @@ tags:
 
 Kad būtų lengviau gintis, jis pastatė Rygos pilį (1201 m.), kuri vėliau virto visos valstybės centru ir didžiausiu Livonijos miestu. Apsaugai jis ėmė kviestis karių iš Vokietijos.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kad būtų lengviau gintis, jis pastatė Rygos pilį (1201 m.), kuri vėliau virto visos valstybės centru ir didžiausiu Livonijos miestu. Apsaugai jis ėmė kviestis karių iš Vokietijos.'

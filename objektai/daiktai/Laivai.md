@@ -18,6 +18,21 @@ tags:
 
 Laivai šiame šaltinyje minimi kaip karo transporto ir puolimo priemonė. Kryžiuočiai plaukė su karo laivu ir kitais laivais, Vytenis atsakė pasiųsdamas 100 laivų, o rygiečiai bei Livonijos kariuomenė taip pat judėjo laivais.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Taigi jie bus turėję ir laivų.'

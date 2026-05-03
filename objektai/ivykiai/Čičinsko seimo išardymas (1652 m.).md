@@ -18,6 +18,18 @@ tags:
 
 Tiesa, anksčiau seimai daugiausia iširdavo, protestuojant didesnei atstovų grupei, keletui dešimčių ar bent keliolikai seimo atstovų, o 1652 m. seimas iširo, protestuojant tiktai vienam Čičinskui.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tiesa, anksčiau seimai daugiausia iširdavo, protestuojant didesnei atstovų grupei, keletui dešimčių ar bent keliolikai seimo atstovų, o 1652 m. seimas iširo, protestuojant tiktai vienam Čičinskui.'

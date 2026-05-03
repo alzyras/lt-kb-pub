@@ -25,8 +25,20 @@ tags: []
 
 XII a. pabaigoje lietuviai ėmė reguliariai rengti grobiamuosius žygius į kaimynų baltų ir slavų žemes. 1183 m. užfiksuotas pirmasis žinomas lietuvių reidas į Pskovo žemes.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: socialinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

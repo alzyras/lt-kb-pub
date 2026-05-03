@@ -19,6 +19,18 @@ tags:
 
 Taigi buvo įkurtas (1228 m.) vyskupo priklausąs riterių ordinas, kurs pagal savo gyvenamąją vietą buvo vadinamas Dobrinės ordinu.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Taigi buvo įkurtas (1228 m.) vyskupo priklausąs riterių ordinas, kurs pagal savo gyvenamąją vietą buvo vadinamas Dobrinės ordinu.'

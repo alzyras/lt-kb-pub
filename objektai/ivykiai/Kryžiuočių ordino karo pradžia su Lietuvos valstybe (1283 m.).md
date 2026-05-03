@@ -19,6 +19,18 @@ tags:
 
 1283 m. kryžiuočiai jau buvo įsitvirtinę Nemuno pakrantėje ir pradėjo karą su Lietuvos valstybe.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1283 m. kryžiuočiai jau buvo įsitvirtinę Nemuno pakrantėje ir pradėjo karą su Lietuvos valstybe.'

@@ -25,8 +25,20 @@ tags: []
 
 Ginklai ir ypač šarvai buvo labai branginami, o sugadinti perkalami. Didesnė ginkluotės dalis galėjo būti saugoma valstybės ir išdalinama kariams prieš operacijas.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: teisinė-administracinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

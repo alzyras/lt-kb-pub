@@ -30,6 +30,18 @@ Skydai buvo naudojami kaip apsauga nuo priešo smūgių. Baltos vėliavos skyde 
 
 - `Skydai`
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Skydai buvo naudojami kaip apsauga nuo priešo smūgių.'

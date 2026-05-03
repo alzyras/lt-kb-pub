@@ -18,6 +18,18 @@ tags:
 
 Kitame visuotiniame Tautų Sąjungos susirinkime (1921 m.) visų trijų Pabaltijo valstybių priėmimo klausimas buvo teigiamai išspręstas, tačiau ne be sunkenybių Lietuvai.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kitame visuotiniame Tautų Sąjungos susirinkime (1921 m.) visų trijų Pabaltijo valstybių priėmimo klausimas buvo teigiamai išspręstas, tačiau ne be sunkenybių Lietuvai.'

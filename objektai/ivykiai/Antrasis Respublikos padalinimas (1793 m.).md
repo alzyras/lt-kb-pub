@@ -19,6 +19,18 @@ tags:
 
 Tuo būdu prieš pirmąjį Respublikos padalinimą buvusi perskirta Prūsų Brandenburgo valstybė dabar turėjo būti ne tik galutinai sujungta į vieną plotą, bet net išlygintos ir labai praplėstos jos sienos. Tuomet, kaip ir 1772 m., iš karaliaus ir seimo tereikėjo gauti tik padalinimo patvirtinimą; su apkarpyta Respublika reikėjo padaryti naują taikos sutartį.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tuo būdu prieš pirmąjį Respublikos padalinimą buvusi perskirta Prūsų Brandenburgo valstybė dabar turėjo būti ne tik galutinai sujungta į vieną plotą, bet net išlygintos ir labai praplėstos jos sienos.'

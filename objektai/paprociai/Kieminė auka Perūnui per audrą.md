@@ -25,8 +25,20 @@ tags: []
 
 Po audros gaspadorius linksmindamasis keldavo namiškiams puotą ar gėrynę. Kilus audrai arba grasinant krušai šeimininkas tris kartus apeidavo savo rugius ar varstą su lašinių paltimi ir melsdavo Perūną.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: ritualas
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

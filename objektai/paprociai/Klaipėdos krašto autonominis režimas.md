@@ -19,6 +19,21 @@ tags:
 
 Klaipėdos krašto lietuvių atstovai paskelbė norą prisijungti prie Didžiosios Lietuvos tam tikros vietinės autonomijos sąlygomis; kooptuoti, jie dalyvavo ir Valstybės Tarybos darbuose. Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkintos jų komisijos ir Lietuvos komisaro bendradarbiavimu visų įvykių likvidavime ir 1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui. Nuo to laiko Klaipėdos kraštas yra neginčijama Lietuvos valstybės dalis.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Klaipėdos krašto lietuvių atstovai paskelbė norą prisijungti prie Didžiosios Lietuvos tam tikros vietinės autonomijos sąlygomis; kooptuoti, jie dalyvavo ir Valstybės Tarybos darbuose.'

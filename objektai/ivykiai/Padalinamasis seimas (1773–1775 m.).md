@@ -19,6 +19,18 @@ tags:
 
 Valstybės pajamos per 1773—1775 m. padalinamąjį seimą, kai krašte šeimininkavo visoki rusų parsidavėliai, taip pat buvo visiškai sunaikintos: daugumas valstybės dvarų buvo jų išgrobstyta (seimas tą patvirtino), be to, jie išgrobstė ir visus ižde buvusius. Seimas priėmė eilę konstitucijų, kuriomis Rusams pasidarbavę didikai „už nuopelnus kraštui" buvo apdovanoti milžiniškomis sumomis pinigų.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Valstybės pajamos per 1773—1775 m. padalinamąjį seimą, kai krašte šeimininkavo visoki rusų parsidavėliai, taip pat buvo visiškai sunaikintos: daugumas valstybės dvarų buvo jų išgrobstyta (seimas tą patvirtino), be to, jie išgrobstė ir visus ižde buvusius.'

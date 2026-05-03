@@ -25,8 +25,20 @@ tags: []
 
 Vilniuje Algirdas buvo pasitiktas senovės papročiu. Pasitinkantieji plojo rankomis ir giedojo „Lado! Lado!“.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: paprotys
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

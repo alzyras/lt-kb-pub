@@ -16,6 +16,18 @@ tags:
 
 Nugalėti bermontininkai jau nebesipriešino ir, santarvininkių spiriami, ėmė kraustytis.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Nugalėti bermontininkai jau nebesipriešino ir, santarvininkių spiriami, ėmė kraustytis.'

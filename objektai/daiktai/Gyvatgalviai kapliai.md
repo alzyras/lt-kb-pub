@@ -18,6 +18,21 @@ tags:
 
 Tarp Vyslos ir Dauguvos vartoti akmeniniai kapliai išsiskiria gyvatės galvos formos pentimi.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tarp Vyslos ir Dauguvos vartoti akmeniniai kapliai išsiskiria gyvatės galvos formos pentimi.'

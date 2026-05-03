@@ -17,6 +17,18 @@ tags:
 
 Nors Lenkija ir Vladislovas su šituo lietuvių žygiu ir nesutiko, tačiau Lietuva be jokio ryšio su Lenkija išgyveno net 7 metus.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Nors Lenkija ir Vladislovas su šituo lietuvių žygiu ir nesutiko, tačiau Lietuva be jokio ryšio su Lenkija išgyveno net 7 metus.'

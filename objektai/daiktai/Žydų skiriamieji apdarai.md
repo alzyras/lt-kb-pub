@@ -16,6 +16,21 @@ tags:
 
 Be to, kaip visur, taip ir Lietuvoje, jie turėjo nešioti skirtingus apdarus ir geltonas kepuraites.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Be to, kaip visur, taip ir Lietuvoje, jie turėjo nešioti skirtingus apdarus ir geltonas kepuraites.'

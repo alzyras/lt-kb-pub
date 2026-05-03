@@ -25,8 +25,20 @@ tags: []
 
 Senieji lietuviai paprastai gėrė vandenį, midų, alų, sulą ir girą.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: kasdienybės praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

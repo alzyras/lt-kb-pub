@@ -16,6 +16,21 @@ tags:
 
 Be to, buvo padidinti ir valstiečių mokesčiai. Anksčiau buvo mokėta nuo valdomosios žemės ir nuo „dūmo", t. y. nuo sodybos, o rusai įvedė mokestį nuo žmogaus (nuo „dūšios"). Taip pat nepaprastai valstiečius vargino rekrūtų pareiga (vyrus paimdavo į kariuomenę.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Be to, buvo padidinti ir valstiečių mokesčiai. Anksčiau buvo mokėta nuo valdomosios žemės ir nuo „dūmo", t. y. nuo sodybos, o rusai įvedė mokestį nuo žmogaus (nuo „dūšios"). Taip pat nepaprastai valstiečius vargino rekrūtų pareiga (vyrus paimdavo į kariuomenę.'

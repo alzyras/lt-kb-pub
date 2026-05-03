@@ -25,6 +25,21 @@ tags: []
 
 Mirus senovės kariui, jis kartu su žirgu būdavo deginamas ant rogo.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Mirus senovės kariui, jis kartu su žirgu būdavo deginamas ant rogo.'

@@ -30,6 +30,18 @@ Stoginėje ar daržinėje krovė javus, šiaudus ir šieną. Jei stoginėse neti
 
 - `daržinė`
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Stoginėje ar daržinėje krovė javus, šiaudus ir šieną.'

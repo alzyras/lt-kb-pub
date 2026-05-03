@@ -25,8 +25,20 @@ tags: []
 
 Laidodami mirusįjį lietuviai giedodavo palydos giesmę apie laimingesnį antrą gyvenimą ir į kapus dėdavo daiktus kaip žemiškojo darbo ženklą.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: ritualas
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

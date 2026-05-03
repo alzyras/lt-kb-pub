@@ -19,6 +19,18 @@ tags:
 
 Jam nesant namie, kilo vilniečių sąmokslas (1382 m.). Grįžęs jis bandė atsiimti Vilnių, tačiau prie pat miesto Jogailos buvo sumuštas ir pasitraukė į Gardiną rinkti jėgų.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Jam nesant namie, kilo vilniečių sąmokslas (1382 m.).'

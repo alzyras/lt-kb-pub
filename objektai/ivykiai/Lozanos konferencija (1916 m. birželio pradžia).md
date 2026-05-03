@@ -17,6 +17,18 @@ tags:
 
 Tais pačiais metais birželio mėn.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tais pačiais metais birželio mėn.'

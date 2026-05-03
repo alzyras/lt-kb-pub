@@ -18,6 +18,18 @@ tags:
 
 Kęstutis tuojau patikėjo žinia, nes jau ir pats įtarė Jogailą. Tačiau, Vytautui užtarus Jogailą, Kęstutis ne tiktai jį paleido suimtą, bet dar jam davė valdyti Vitebską, kurį valdė jaunystėje jo tėvas Algirdas.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kęstutis tuojau patikėjo žinia, nes jau ir pats įtarė Jogailą.'

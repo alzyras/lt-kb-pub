@@ -25,6 +25,21 @@ tags: []
 
 Pirčioje buvo krosnis, plautai ir suolai, ant kurių pėrėsi su vantomis. Pirtis buvo laikoma naudingu ir reikalingu daiktu, į ją vesdavo ir svečius, ir siuntinius.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Pirčioje buvo krosnis, plautai ir suolai, ant kurių pėrėsi su vantomis.'

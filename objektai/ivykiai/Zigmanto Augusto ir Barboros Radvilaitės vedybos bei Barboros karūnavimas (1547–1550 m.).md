@@ -16,6 +16,18 @@ tags:
 
 Gavęs žinią apie tėvo mirtį, Zigmantas tuojau įsakė tarybos ponams atlydėti žmoną į Vilnių. Čia ji buvo iškilmingai sutikta ir pripažinta didžiąja kunigaikštiene.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Gavęs žinią apie tėvo mirtį, Zigmantas tuojau įsakė tarybos ponams atlydėti žmoną į Vilnių. Čia ji buvo iškilmingai sutikta ir pripažinta didžiąja kunigaikštiene.'

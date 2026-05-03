@@ -19,6 +19,18 @@ tags:
 
 Jo priešai tuo tarpu įsigalėjo Lietuvoje, apnaikino Sapiegų dvarus ir, sutelkę bajoriją, sutiko grįžtantį hetmoną paliai Gardiną (1698 m.). Livonijos link karaliaus siunčiama saksų kariuomenė tuo metu irgi pasiekė Gardiną. Jo generolas Flemingas pasidarė.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Jo priešai tuo tarpu įsigalėjo Lietuvoje, apnaikino Sapiegų dvarus ir, sutelkę bajoriją, sutiko grįžtantį hetmoną paliai Gardiną (1698 m.). Livonijos link karaliaus siunčiama saksų kariuomenė tuo metu irgi pasiekė Gardiną. Jo generolas Flemingas pasidarė.'

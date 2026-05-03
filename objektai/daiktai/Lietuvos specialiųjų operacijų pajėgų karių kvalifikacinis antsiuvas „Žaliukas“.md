@@ -35,9 +35,18 @@ tags:
 - `Lietuvos specialiųjų operacijų pajėgų karių kvalifikacinis antsiuvas`
 - `Žaliukas`
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 
 Karių kvalifikacinis antsiuvas, pateiktas kaip simbolinis ženklas.
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

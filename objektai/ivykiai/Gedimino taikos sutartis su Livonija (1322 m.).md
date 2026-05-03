@@ -31,6 +31,18 @@ tags:
 
 1322 m. Gedimino taikos sutartis su Livonija minima kaip vienas iš šaltinių, kuriuose užfiksuotas Aukštaičių vardas. Šiame kontekste „Eystoythen“ aiškinamas kaip geografinis žemės pavadinimas.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1322 m. Gediminas sudarė taikos sutartį su Livonija.'

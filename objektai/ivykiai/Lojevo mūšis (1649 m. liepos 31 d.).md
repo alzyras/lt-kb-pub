@@ -35,6 +35,18 @@ tags:
 
 Mūšis aprašomas nuo pasirengimo prie Lojevo iki lietuvių kontratakos, Kričevskio sužeidimo ir kazokų likučių išsisklaidymo. Čia pateikiamas ir platesnis J. Radvilos pergalės įvertinimas. J. Radvila 1649 m. liepos 21 d. atvedė kariuomenę prie Lojevo, o S. Podobaila sudegino miestą, kad priešininkas negalėtų įsitvirtinti Į Lojevo mūšį įsiterpusi lietuvių kavalerija atakavo kazokus iš užnugario ir nulėmė mūšio baigtį.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'J. Radvila 1649 m. liepos 21 d. atvedė kariuomenę prie Lojevo, o S. Podobaila sudegino miestą, kad priešininkas negalėtų įsitvirtinti.'

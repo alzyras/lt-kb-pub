@@ -25,8 +25,20 @@ tags: []
 
 Pirmaisiais Lietuvos kariuomenės mėnesiais įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiuvas ir geltonas lankelis ant kepurės. Lietuvos kariai prie gautų vokiečių kariuomenės sagčių tvirtindavo Vytį ir taip uždengdavo vokišką imperijos simboliką.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: socialinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

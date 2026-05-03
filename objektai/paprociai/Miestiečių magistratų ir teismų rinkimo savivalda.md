@@ -19,6 +19,21 @@ tags:
 
 Miestiečiai savo magistratus ir teismus taip pat rinkdavosi patys.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Miestiečiai savo magistratus ir teismus taip pat rinkdavosi patys.'

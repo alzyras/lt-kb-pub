@@ -17,6 +17,21 @@ tags:
 
 Lietuvos žmonės pradėjo šviestis, vyko mokytis į Europos universitetus. Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Lietuvos žmonės pradėjo šviestis, vyko mokytis į Europos universitetus.'

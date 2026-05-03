@@ -17,6 +17,21 @@ tags:
 
 Tuo tarpu Lietuvos istorikai ėmė teigti, kad lenkai herbus pasisavinę iš čekų, o šie savo rėžtu — iš romėnų; tuo būdu jie padarė išvadą, kad iš romėnų kilę lietuviai esą kilnesni už lenkus. Lenkai tada didžiuodamiesi pabrėždavo, kad jie atnešę Lietuvai vakarų Europos kultūrą, o bajorijai davę savo herbus.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tuo tarpu Lietuvos istorikai ėmė teigti, kad lenkai herbus pasisavinę iš čekų, o šie savo rėžtu — iš romėnų; tuo būdu jie padarė išvadą, kad iš romėnų kilę lietuviai esą kilnesni už lenkus.'

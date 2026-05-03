@@ -17,6 +17,18 @@ tags:
 
 Valančium, tapo lietuvių išgama, lietuviškosios spaudos budeliu. Įvedant rusiškas raides, buvo norima atitraukti lietuvius nuo lenkų ir priartinti prie rusų.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Valančium, tapo lietuvių išgama, lietuviškosios spaudos budeliu.'

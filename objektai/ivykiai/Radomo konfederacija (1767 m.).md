@@ -17,6 +17,18 @@ tags:
 
 Radomo konfederacija. Tačiau ir jis ir visi konfederatai labai apsivylė: Radome rusų kariuomenės apsupti, jie buvo priversti pasirašyti konfederacijos aktą, kuriuo kvietė prisidėti prie konfederacijos ir karalių, pripažino lygias teises kitatikiams, o Kotryną II prašė „priimti.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Radomo konfederacija.'

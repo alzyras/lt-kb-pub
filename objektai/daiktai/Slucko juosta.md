@@ -16,6 +16,21 @@ tags:
 
 Nešioti gražiąją Slucko juostą buvo garbė.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Nešioti gražiąją Slucko juostą buvo garbė.'

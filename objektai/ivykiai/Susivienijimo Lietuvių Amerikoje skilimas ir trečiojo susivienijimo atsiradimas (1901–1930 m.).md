@@ -17,6 +17,18 @@ tags:
 
 Susivienijimo Lietuvių Amerikoje neramiausias elementas buvo komunistai.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Susivienijimo Lietuvių Amerikoje neramiausias elementas buvo komunistai.'

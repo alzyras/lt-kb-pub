@@ -18,6 +18,18 @@ tags:
 
 Karalius ir lenkai ramino, kad jie norį tik gero ir kad unija išeisianti tik į naudą Lietuvai.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Karalius ir lenkai ramino, kad jie norį tik gero ir kad unija išeisianti tik į naudą Lietuvai.'

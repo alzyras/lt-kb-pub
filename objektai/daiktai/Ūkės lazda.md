@@ -25,6 +25,21 @@ tags: []
 
 Lazda buvo naudojama kaip vyresnybės įsakymų skelbimo ženklas. Lazda siejama su krive krivaičiu ir kreiva lazda.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Lazda buvo naudojama kaip vyresnybės įsakymų skelbimo ženklas.'

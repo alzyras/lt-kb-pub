@@ -19,6 +19,21 @@ tags:
 
 Višniaveckis jį nusivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepaisydama Višniaveckio pasipriešinimo, jį kardais sukapojo (kartu buvo sukapoti dar du belaisviai). Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių, nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo vartoti savo pono ar to, kuris gerai užmokėdavo. Tuojau po to žiauraus darbo ta pati bajorija užkapojo kardais bandžiusį pabėgti belaisvį Voiną ir jį gynusį Kuravičių.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Višniaveckis jį nusivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepaisydama Višniaveckio pasipriešinimo, jį kardais sukapojo (kartu buvo sukapoti dar du belaisviai).'

@@ -16,6 +16,21 @@ tags:
 
 Lietuvos geležies amžiaus dirbiniai: 1—8 fibulos (segtukai), 9 ir 15 apirankė, 12 kirvis, 13 ieties galas.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Lietuvos geležies amžiaus dirbiniai: 1—8 fibulos (segtukai), 9 ir 15 apirankė, 12 kirvis, 13 ieties galas.'

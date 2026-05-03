@@ -40,6 +40,18 @@ tags:
 
 Merkinės puolimas buvo sumanytas kaip atsakas į Marcinkonių bataliono vado ir jo kovos draugų žūtį, o ataka prasidėjo baltos raketos signalu. 1945 m. gruodžio 5 d. prie Mardasavo žuvo Marcinkonių bataliono vadas ir dar trys kovos draugai Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė pulti Merkinę keršijant už kovos draugų žūtį.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1945 m. gruodžio 5 d. prie Mardasavo žuvo Marcinkonių bataliono vadas ir dar trys kovos draugai.'

@@ -18,6 +18,18 @@ tags:
 
 Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta į 13 apskričių, kurių kiekvienoje dar buvo po 3—4 tos organizacijos komendantūras. Visą Lietuvą apipynusi sąmokslininkų tinklu, P.O.W. Mūsų saugumo organai susekė sąmokslininkus, tą pačią sukilimui skirtą naktį buvo padaryta krata P.O.W.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta į 13 apskričių, kurių kiekvienoje dar buvo po 3—4 tos organizacijos komendantūras.'

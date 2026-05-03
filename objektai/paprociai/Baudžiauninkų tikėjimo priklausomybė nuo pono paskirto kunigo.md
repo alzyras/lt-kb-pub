@@ -19,6 +19,21 @@ tags:
 
 Didikai beveik visi buvo kalvinai, o miestuose buvo įsigalėję liuterionys; tik didelė dalis smulkbajorių tuomet tebuvo katalikai, (liaudies nusistatymo niekas tada nepaisė: kokį kunigą savo bažnyčioj pastatydavo ponas, tokio tikėjimo turėdavo būti ir.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Didikai beveik visi buvo kalvinai, o miestuose buvo įsigalėję liuterionys; tik didelė dalis smulkbajorių tuomet tebuvo katalikai, (liaudies nusistatymo niekas tada nepaisė: kokį kunigą savo bažnyčioj pastatydavo ponas, tokio tikėjimo turėdavo būti ir.'

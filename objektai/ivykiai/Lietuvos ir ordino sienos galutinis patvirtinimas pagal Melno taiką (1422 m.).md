@@ -23,6 +23,18 @@ tags:
 
 1422 m. rugsėjo 27 d. prie Melno ežero buvo pasirašyta taika, kuri po ilgų ginčų patvirtino Lietuvos, Lenkijos ir ordino sienų kompromisą. Ivinskis pabrėžia, kad Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Melno sutarties nustatyta siena išsilaikė penkis šimtmečius.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (žiūr.'

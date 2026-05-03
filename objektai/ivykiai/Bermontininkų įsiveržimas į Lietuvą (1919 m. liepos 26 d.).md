@@ -16,6 +16,18 @@ tags:
 
 1919 m. liepos mėn. 1919 m. spalių mėnesį, kai šiaurinėje Lietuvos dalyje dar nebuvo mūsų kariuomenės, bermontininkai užėmė Šiaulius, Biržus, Linkuvą, Radviliškį ir pradėjo rodyti aiškų nepalankumą Lietuvai.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1919 m. liepos mėn.'

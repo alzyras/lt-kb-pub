@@ -19,6 +19,18 @@ tags:
 
 Po mūšio, Livonijoj ir Prūsuose tuojau sukilo pavergtosios kiltys.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Po mūšio, Livonijoj ir Prūsuose tuojau sukilo pavergtosios kiltys.'

@@ -18,6 +18,18 @@ tags:
 
 Kadangi Lenkų karalystėje tuo tarpu jau buvo išaugęs griežtas konfliktas tarp daugiau laisvės trokštančios lenkų visuomenės ir tas laisves dar labiau siaurinančios Rusų valdžios, tai tų pačių metų lapkričio mėnesį Varšuvoje įvyko sukilimas. O ji buvo lenkų mesta: 1830 m. jie sukilo, norėdami savo karalystę išvaduoti iš Rusų caro valdžios ir suvienyti visas iki pirmojo padalinimo turėtąsias žemes.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kadangi Lenkų karalystėje tuo tarpu jau buvo išaugęs griežtas konfliktas tarp daugiau laisvės trokštančios lenkų visuomenės ir tas laisves dar labiau siaurinančios Rusų valdžios, tai tų pačių metų lapkričio mėnesį Varšuvoje įvyko sukilimas.'

@@ -25,8 +25,20 @@ tags: []
 
 XVII a. antroji pusė ir visas XVIII a. buvo linijinės taktikos epocha karyboje. Batalionai buvo rikiuojami taip, kad kuo daugiau kareivių galėtų vienu metu šaudyti.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: socialinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

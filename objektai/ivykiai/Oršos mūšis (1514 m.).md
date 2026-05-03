@@ -7,7 +7,8 @@ variantai:
   - 'Oršos mūšis'
   - 'pergalė prie Oršos'
   - 'Oršos mūšis (1514 m. rugsėjo 8 d.)'
-aliases: []
+aliases:
+  - '[]'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
@@ -41,6 +42,18 @@ tags:
 ## Santrauka
 
 Netrukus po to atvykęs K. Ostrogiškis smarkiai sumušė Maskvos kariuomenę ties Orša. Turėdamas 30.000 kariuomenės, jis sumušė priešo 80.000 kariuomenės; iš jų 30.000 krito karo lauke, o pats vadas su 1.500 bajorų ir daugybe karių pateko į nelaisvę.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
 
 ## Teiginiai
 - t-001

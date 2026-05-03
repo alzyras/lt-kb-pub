@@ -32,6 +32,18 @@ tags: []
 
 1323–1325 m. Gedimino vardu į Vakarų Europą buvo išsiųsti šeši laiškai. Laiškuose buvo žadamas krikštas, prašoma popiežiaus tarpininkauti dėl taikos su ordinu, kviečiami amatininkai, pirkliai ir vienuoliai, o atvykėliams žadamos lengvatos bei privilegijos.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1323–1325 m. Gedimino vardu į Vakarų Europą buvo išsiųsti šeši laiškai.'

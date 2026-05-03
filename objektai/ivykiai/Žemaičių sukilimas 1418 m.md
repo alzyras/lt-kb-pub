@@ -17,6 +17,18 @@ tags:
 
 Naujoji Vytauto įvesta tvarka Žemaičių valstiečiams atrodė sunki, ir 1418 m. jie padarė sukilimą, norėdami atgauti senąsias laisves.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Naujoji Vytauto įvesta tvarka Žemaičių valstiečiams atrodė sunki, ir 1418 m. jie padarė sukilimą, norėdami atgauti senąsias laisves.'

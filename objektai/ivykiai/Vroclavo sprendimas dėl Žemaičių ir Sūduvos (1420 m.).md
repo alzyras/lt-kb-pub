@@ -31,6 +31,18 @@ tags: []
 
 1420 m. Vroclave imperatoriaus Zigmanto sprendimas dėl Žemaičių ir Sūduvos buvo palankesnis kryžiuočiams, negu jie patys buvo prašę. Šis sprendimas papiktino Vytautą ir Jogailą, paskatino protestus bei Jogailos apeliaciją popiežiui Martynui V, o vėliau Melno taika jo nutarimus anuliavo.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1420 m. Vroclave imperatoriaus Zigmanto sprendimas dėl Žemaičių ir Sūduvos kryžiuočiams pripažino daugiau, negu jie patys buvo prašę.'

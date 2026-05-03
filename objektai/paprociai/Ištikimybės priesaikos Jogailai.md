@@ -18,6 +18,21 @@ tags:
 
 Išvykdami jie buvo priversti duoti priesaika patvirtintus raštus, kad amžinai būsią ištikimi Lenkų karaliui Jogailai su karaliene Jadvyga ir kad pašaukti tuojau atvyksią į Lenkiją. Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir išlikusiems sričių kunigaikščiams leido reikšti ištikimybės priesaikas Jogailai, tačiau valdyti jis valdė pats vienas: Jogaila be jo nieko negalėjo padaryti Lietuvoje.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Išvykdami jie buvo priversti duoti priesaika patvirtintus raštus, kad amžinai būsią ištikimi Lenkų karaliui Jogailai su karaliene Jadvyga ir kad pašaukti tuojau atvyksią į Lenkiją.'

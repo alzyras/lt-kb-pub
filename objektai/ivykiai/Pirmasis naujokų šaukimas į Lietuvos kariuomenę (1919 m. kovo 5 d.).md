@@ -16,6 +16,18 @@ tags:
 
 Pirmasis naujokų šaukimas į nepriklausomosios Lietuvos kariuomenę buvo paskelbtas tik 1919 m. kovo mėn.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Pirmasis naujokų šaukimas į nepriklausomosios Lietuvos kariuomenę buvo paskelbtas tik 1919 m. kovo mėn.'

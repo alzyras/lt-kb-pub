@@ -25,6 +25,21 @@ tags: []
 
 Perūno atvaizde rankoje buvo vylyčios. Kareiviui į kapą dėjo vylyčias kartu su kitais ginklais ir įrankiais.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Perūno atvaizde rankoje buvo vylyčios.'

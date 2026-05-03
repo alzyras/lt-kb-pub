@@ -16,6 +16,18 @@ tags:
 
 Nugalėjus Napoleoną, naujas Europos pertvarkymas buvo sprendžiamas Vienos kongrese (1815 m.).
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Nugalėjus Napoleoną, naujas Europos pertvarkymas buvo sprendžiamas Vienos kongrese (1815 m.).'

@@ -23,6 +23,7 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
 - t-001
   teiginys: 'Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų bazi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių savo vienuolynų.'
   pagrindžia:
+    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
@@ -41,6 +42,20 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
+    - t-001
+- c-002
+  santrauka: Bazilijonų ordinas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Jų vienuolynų buvo net Žemaičiuose (Padu-
+    bysy), nors ten nei pravoslavų nei unitų nebuvo iš viso.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
     - t-001
 
 ## Ryšiai

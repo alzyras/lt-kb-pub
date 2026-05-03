@@ -18,6 +18,19 @@ tags:
 Susitikę abudu pusbroliai tuojau susitarė: Vytautas sutiko garantuoti, kad po jo mirties Lietuva neatiteks niekam kitam, kaip tik Jogailos sūnui, o Jogaila davė savo sutikimą dėl karūnacijos. Mirties priežastį vieni šaltiniai nurodo votį ant peties, kiti susitrenkimą.
 
 Ivinskis mirtį susieja su 1430 m. spalio 17 d. kelione iš Vilniaus į Trakus, kritimu nuo arklio ir paskutiniu Lietuvos pavedimu Jogailai.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Susitikę abudu pusbroliai tuojau susitarė: Vytautas sutiko garantuoti, kad po jo mirties Lietuva neatiteks niekam kitam, kaip tik Jogailos sūnui, o Jogaila davė savo sutikimą dėl karūnacijos.'
@@ -36,6 +49,7 @@ Ivinskis mirtį susieja su 1430 m. spalio 17 d. kelione iš Vilniaus į Trakus, 
   teiginys: 'Pagal Dlugošo pasakojimą, prieš mirtį Vytautas Lietuvą pavedė Jogailai ir liepė jam atiduoti raktus nuo iždo ir pilių.'
   pagrindžia:
     - c-004
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Susitikę abudu pusbroliai tuojau susitarė: Vytautas sutiko garantuoti, kad po jo mirties Lietuva neatiteks niekam kitam, kaip tik Jogailos sūnui, o Jogaila davė savo sutikimą dėl karūnacijos.'

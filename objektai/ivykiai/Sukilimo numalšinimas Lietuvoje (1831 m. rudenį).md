@@ -19,6 +19,18 @@ tags:
 
 Dembinskiui išvykus, Lietuvoje nebeliko jokios stipresnės pajėgos. Tokiomis žiauriomis priemonėmis 1831 m. rudenį buvo likviduotas sukilimas.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Dembinskiui išvykus, Lietuvoje nebeliko jokios stipresnės pajėgos.'

@@ -18,6 +18,18 @@ tags:
 
 Pagaliau 1704 m. Karolis privertė sušaukti elekcinį seimą, kuris, apstatytas švedų kariuomene, paskelbė karalium Poznanės vaivadą Stanislovą Leščinskį.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Pagaliau 1704 m. Karolis privertė sušaukti elekcinį seimą, kuris, apstatytas švedų kariuomene, paskelbė karalium Poznanės vaivadą Stanislovą Leščinskį.'

@@ -10,6 +10,13 @@ type PeriodFilterRefs = {
   summary: HTMLElement
 }
 
+type PeriodFilterWindow = Window &
+  typeof globalThis & {
+    applyQuartzOptionFilters?: () => void
+  }
+
+const periodFilterWindow = window as PeriodFilterWindow
+
 const initialized = new WeakSet<HTMLElement>()
 
 function clampValue(value: number, min: number, max: number) {
@@ -82,7 +89,6 @@ function updateFilter(refs: PeriodFilterRefs, changed: "start" | "end") {
   refs.rangeFill.style.right = `${right}%`
 
   const entries = refs.lists.flatMap((list) => [...list.querySelectorAll<HTMLLIElement>("li.section-li")])
-  let visible = 0
   entries.forEach((entry) => {
     const isFilterable = entry.dataset.periodFilterable === "true"
     const start = Number(entry.dataset.periodStart)
@@ -98,13 +104,18 @@ function updateFilter(refs: PeriodFilterRefs, changed: "start" | "end") {
       }
     }
 
-    entry.hidden = !keep
-    if (keep) {
-      visible += 1
-    }
+    entry.dataset.periodMatch = keep ? "true" : "false"
   })
 
-  refs.summary.textContent = `Rodoma ${visible} iš ${entries.length}`
+  if (typeof periodFilterWindow.applyQuartzOptionFilters === "function") {
+    periodFilterWindow.applyQuartzOptionFilters()
+  } else {
+    const visible = entries.filter((entry) => entry.dataset.periodMatch !== "false").length
+    entries.forEach((entry) => {
+      entry.hidden = entry.dataset.periodMatch === "false"
+    })
+    refs.summary.textContent = `Rodoma ${visible} iš ${entries.length}`
+  }
 }
 
 function initPeriodFilters() {

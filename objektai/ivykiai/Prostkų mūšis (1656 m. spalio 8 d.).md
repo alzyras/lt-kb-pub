@@ -36,6 +36,18 @@ tags:
 
 Mūšis aprašomas kaip lietuvių puolimas prieš besitraukiančias Švedijos ir Brandenburgo pajėgas ties Prostkais. Tekste išskiriamas apgaulingas lietuvių atsitraukimo manevras, priešo puolimo sužlugdymas ir Boguslavo Radvilos patekimą į nelaisvę. 1656 m. spalio 8 d. ties Prostkais Lietuvos pajėgos pasitiko besitraukiančias Švedijos ir Brandenburgo pajėgas Lietuviai apgaulingu atsitraukimo manevru išviliojo brandenburgiečius persikelti į kitą krantą, o priešo įsikišimas buvo sutrukdytas.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1656 m. spalio 8 d. ties Prostkais Lietuvos pajėgos pasitiko besitraukiančias Švedijos ir Brandenburgo pajėgas.'
