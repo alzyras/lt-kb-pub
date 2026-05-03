@@ -68,6 +68,7 @@ export const defaultListPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
+        { Component: Component.ReaderMode() },
         { Component: Component.AdvancedEvidenceToggle() },
         { Component: Component.OptionsPanel(), basis: "100%", order: 10, align: "start" },
       ],

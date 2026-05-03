@@ -2,6 +2,7 @@
   position: relative;
   display: flex;
   align-items: center;
+  z-index: 5;
 }
 
 .options-panel-toggle,
@@ -33,7 +34,6 @@
   width: 20px;
   height: 20px;
   top: calc(50% - 10px);
-  fill: var(--darkgray);
   stroke: var(--darkgray);
   transition: opacity 0.1s ease;
 }
@@ -54,7 +54,7 @@
   position: absolute;
   top: calc(100% + 0.5rem);
   left: 0;
-  z-index: 30;
+  z-index: 200;
   width: min(24rem, calc(100vw - 2rem));
   max-height: min(32rem, 75vh);
   overflow: auto;
@@ -63,6 +63,11 @@
   border-radius: 0.7rem;
   background: var(--light);
   box-shadow: 0 14px 30px rgba(0, 0, 0, 0.16);
+}
+
+.options-panel-toggle:hover .options-panel-icon,
+.options-panel-toggle[aria-expanded="true"] .options-panel-icon {
+  stroke: var(--secondary);
 }
 
 .options-panel-header,

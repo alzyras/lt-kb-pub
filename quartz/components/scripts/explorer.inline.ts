@@ -14,12 +14,18 @@ interface ParsedOptions {
   order: "sort" | "filter" | "map"[]
 }
 
+type ExplorerWindow = Window &
+  typeof globalThis & {
+    applyQuartzOptionFilters?: () => void
+  }
+
 type FolderState = {
   path: string
   collapsed: boolean
 }
 
 let currentExplorerState: Array<FolderState>
+const explorerWindow = window as ExplorerWindow
 function toggleExplorer(this: HTMLElement) {
   const nearestExplorer = this.closest(".explorer") as HTMLElement
   if (!nearestExplorer) return
@@ -84,9 +90,18 @@ function createFileNode(currentSlug: FullSlug, node: FileTrieNode): HTMLLIElemen
   const clone = template.content.cloneNode(true) as DocumentFragment
   const li = clone.querySelector("li") as HTMLLIElement
   const a = li.querySelector("a") as HTMLAnchorElement
+  const quoteCount = Number(node.data?.quoteCount ?? 0)
+  const citationSourceIds = Array.isArray(node.data?.citationSourceIds)
+    ? node.data.citationSourceIds.filter((value): value is string => typeof value === "string")
+    : []
   a.href = resolveRelative(currentSlug, node.slug)
   a.dataset.for = node.slug
   a.textContent = node.displayName
+  li.dataset.citationFilterable = node.data?.citationFilterable ? "true" : "false"
+  li.dataset.quoteCount = `${quoteCount}`
+  li.dataset.citationSources = citationSourceIds.join("|")
+  li.dataset.explorerNode = "file"
+  li.dataset.explorerSlug = node.slug
 
   if (currentSlug === node.slug) {
     a.classList.add("active")
@@ -110,6 +125,8 @@ function createFolderNode(
 
   const folderPath = node.slug
   folderContainer.dataset.folderpath = folderPath
+  li.dataset.explorerNode = "folder"
+  li.dataset.explorerSlug = folderPath
 
   if (currentSlug === folderPath) {
     folderContainer.classList.add("active")
@@ -260,6 +277,8 @@ async function setupExplorer(currentSlug: FullSlug) {
       window.addCleanup(() => icon.removeEventListener("click", toggleFolder))
     }
   }
+
+  explorerWindow.applyQuartzOptionFilters?.()
 }
 
 document.addEventListener("prenav", async () => {

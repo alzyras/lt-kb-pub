@@ -1,3 +1,4 @@
+import fs from "node:fs"
 import { Root } from "hast"
 import { GlobalConfiguration } from "../../cfg"
 import { getDate } from "../../components/Date"
@@ -7,6 +8,7 @@ import { QuartzEmitterPlugin } from "../types"
 import { toHtml } from "hast-util-to-html"
 import { write } from "./helpers"
 import { i18n } from "../../i18n"
+import { collectCitationMetadata, isObjectPage } from "../../util/citationFilter"
 
 export type ContentIndexMap = Map<FullSlug, ContentDetails>
 export type ContentDetails = {
@@ -19,6 +21,9 @@ export type ContentDetails = {
   richContent?: string
   date?: Date
   description?: string
+  citationFilterable?: boolean
+  quoteCount?: number
+  citationSourceIds?: string[]
 }
 
 interface Options {
@@ -102,19 +107,29 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
       for (const [tree, file] of content) {
         const slug = file.data.slug!
         const date = getDate(ctx.cfg.configuration, file.data) ?? new Date()
+        const relativePath = file.data.relativePath!
+        const frontmatter = file.data.frontmatter
+        const filePath = String(file.data.filePath ?? "")
+        const citationMetadata =
+          isObjectPage(relativePath) && filePath
+            ? collectCitationMetadata(fs.readFileSync(filePath, "utf8"))
+            : null
         if (opts?.includeEmptyFiles || (file.data.text && file.data.text !== "")) {
           linkIndex.set(slug, {
             slug,
-            filePath: file.data.relativePath!,
-            title: file.data.frontmatter?.title!,
+            filePath: relativePath,
+            title: frontmatter?.title!,
             links: file.data.links ?? [],
-            tags: file.data.frontmatter?.tags ?? [],
+            tags: frontmatter?.tags ?? [],
             content: file.data.text ?? "",
             richContent: opts?.rssFullHtml
               ? escapeHTML(toHtml(tree as Root, { allowDangerousHtml: true }))
               : undefined,
             date: date,
             description: file.data.description ?? "",
+            citationFilterable: Boolean(citationMetadata),
+            quoteCount: citationMetadata?.quoteCount ?? 0,
+            citationSourceIds: citationMetadata?.sourceIds ?? [],
           })
         }
       }
