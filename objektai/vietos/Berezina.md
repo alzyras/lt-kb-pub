@@ -46,7 +46,6 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/mūšis]]
 - [[temos/unija]]
 
 ### Susiję objektai

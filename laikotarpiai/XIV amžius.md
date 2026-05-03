@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 43.
+Objektų skaičius: 46.
 
 ## Kaip naudoti
 
@@ -22,6 +22,7 @@ Objektų skaičius: 43.
 - [[objektai/asmenys/Algirdas]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Karolis IV]]
 - [[objektai/asmenys/Kęstutis]]
 - [[objektai/asmenys/Vytautas]]
 
@@ -55,7 +56,7 @@ Objektų skaičius: 43.
 - [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu]]
 - [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]
 - [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
-- [[objektai/ivykiai/Gedimino prekybinė sutartis su Livonija (1338 m.)]]
+- [Gedimino prekybinė sutartis su Livonija (1338 m.)](../objektai/ivykiai/Gedimino%20prekybin%C4%97%20sutartis%20su%20Livonija%20%281338%20m.%29)
 - [Gedimino taikos sutartis su Livonija (1322 m.)](../objektai/ivykiai/Gedimino%20taikos%20sutartis%20su%20Livonija%20%281322%20m.%29)
 - [Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)](../objektai/ivykiai/Klaip%C4%97dos%20pilies%20perdavimas%20Pr%C5%ABsijos%20kry%C5%BEiuo%C4%8Diams%20%281328%20m.%29)
 - [Kryžiuočių ordino sostinės perkėlimas į Marijenburgą (1309 m.)](../objektai/ivykiai/Kry%C5%BEiuo%C4%8Di%C5%B3%20ordino%20sostin%C4%97s%20perk%C4%97limas%20%C4%AF%20Marijenburg%C4%85%20%281309%20m.%29)
@@ -65,11 +66,13 @@ Objektų skaičius: 43.
 - [Strėvos mūšis (1348 m.)](../objektai/ivykiai/Str%C4%97vos%20m%C5%AB%C5%A1is%20%281348%20m.%29)
 - [Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)](../objektai/ivykiai/Vilniaus%20pokalbiai%20su%20popie%C5%BEiaus%20legatais%20d%C4%97l%20Lietuvos%20krik%C5%A1to%20%281324%20m.%20gegu%C5%BE%C4%97s%20gale%29)
 - [Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)](../objektai/ivykiai/Vilniaus%20taika%20su%20Livonijos%20ordinu%20%281323%20m.%20spalio%202%20d.%29)
+- [Vorsklos mūšis](../objektai/ivykiai/Vorsklos%20m%C5%AB%C5%A1is)
 - [Vytauto pabėgimas pas kryžiuočius ir 1383 m. žygis į Lietuvą](../objektai/ivykiai/Vytauto%20pab%C4%97gimas%20pas%20kry%C5%BEiuo%C4%8Dius%20ir%201383%20m.%20%C5%BEygis%20%C4%AF%20Lietuv%C4%85)
 - [Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)](../objektai/ivykiai/Vytauto%20%C5%BEygiai%20prie%20Juodosios%20j%C5%ABros%20ir%20Krymo%20%281397%E2%80%931398%20m.%29)
 
 ### Žodynas
 - [apostazija](../objektai/zodynas/apostazija)
+- [baskakas](../objektai/zodynas/baskakas)
 - [inkorporacija](../objektai/zodynas/inkorporacija)
 - [lotyniškasis krikštas](../objektai/zodynas/lotyni%C5%A1kasis%20krik%C5%A1tas)
 - [metropolija](../objektai/zodynas/metropolija)

@@ -1,5 +1,5 @@
 ---
-tipas: saltinis
+tipas: 'saltinis'
 pavadinimas: 'Gedimino laiškai'
 sukurta: '2026-04-24'
 variantai:
@@ -7,16 +7,18 @@ variantai:
   - 'kiti Gedimino laiškai'
   - 'laiškas popiežiui'
   - 'laiškai popiežiui ir Europos miestams'
+  - 'Gedimino laiškas Vakarų Europos miestų piliečiams'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: '1323 m.'
 datos:
   - '1323 m.'
-periodas: viduramziai
+periodas: 'viduramziai'
 periodo_grupes: []
 amziai:
-  - XIV
+  - 'XIV'
 date_start: '1323'
 date_end: '1323'
 vaidmenys: []
@@ -55,6 +57,12 @@ tags: []
   pagrindžia:
     - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Cituojamos „Gedimino laiškai“ ištraukos.'
+  pagrindžia:
+    - c-006
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -112,3 +120,16 @@ tags: []
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Cituojamos „Gedimino laiškai“ ištraukos.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Pora ištraukų iš Gedimino susirašinė-
+    jimų, kuriose jis įvardijamas karaliumi.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  pagrindžia:
+    - t-006

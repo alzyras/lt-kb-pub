@@ -10,15 +10,23 @@ variantai:
   - 'Mindowes'
   - 'Mendoga'
   - 'Mendovga'
+  - 'karaliui Mindaugui'
+  - 'karalius Mindaugas'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: 'XIII a.; 1251 m.; 1262 m.; 1263 m.'
 datos:
   - '1251 m.'
   - '1262 m.'
   - '1263 m.'
+  - '1219 m.'
+  - '1236 m.'
+  - '1249 m.'
+  - '1254 m.'
+  - '1260 m.'
 periodas: ''
 periodo_grupes: []
 amziai:
@@ -27,6 +35,7 @@ date_start: ''
 date_end: ''
 vaidmenys:
   - 'Lietuvos valdovas'
+  - 'Lietuvos karalius'
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
@@ -150,6 +159,31 @@ Mindaugas vaizduojamas kaip pirmasis Lietuvos karalius ir ankstyvasis valstybės
   pagrindžia:
     - c-018
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+- t-019
+  teiginys: 'Mindaugas 1219 m. pirmą kartą paminėtas istoriniuose šaltiniuose, kai su kitais Lietuvos žemės kunigaikščiais sudarė taikos sutartį su Haliču-Voluine.'
+  pagrindžia:
+    - c-019
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-020
+  teiginys: '1236 m. Haličo-Voluinės didysis kunigaikštis su Mindaugu derėjosi jau kaip su visos Lietuvos valdovu.'
+  pagrindžia:
+    - c-019
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-021
+  teiginys: 'Stiprindamas centrinę valdžią, Mindaugas 1249 m. atėmė valdas iš Vykinto, Tautvilo ir Gedvydo, o 1254 m. galutinai nugalėjo savo oponentus.'
+  pagrindžia:
+    - c-019
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-022
+  teiginys: 'Per 1260 m. didįjį prūsų sukilimą, žuvus Mindaugui, Lietuvos pagalba prūsams nutrūko, o Vakarų Europos parama Ordinui sustiprėjo.'
+  pagrindžia:
+    - c-020
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -482,6 +516,42 @@ Mindaugas vaizduojamas kaip pirmasis Lietuvos karalius ir ankstyvasis valstybės
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-018
+- c-019
+  santrauka: Mindaugas pristatomas kaip visos Lietuvos valdovas, stiprinęs centrinę valdžią ir galutinai nugalėjęs savo oponentus.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Mindaugo valdoma Lietuva iki 1263 m. Mindaugas pirmą kartą istoriniuose šaltiniuose minimas 1219 m., tais
+    metais jis kartu su kitais Lietuvos žemės kunigaikščiais sudarė taikos sutartį su Haliču-Voluine. 1236 m. Haličo-
+    Voluinės didysis kunigaikštis su Mindaugu derasi jau kaip su visos Lietuvos valdovu. Stiprindamas centrinę valdžią
+    Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas. Šie,
+    remiami Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą. Daugelis lietuvių, žemaičių, nalšėnų, jotvingių
+    liko ištikimi Mindaugui ir jam pavyko 1254 m. galutinai nugalėti savo oponentus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-019
+    - t-020
+    - t-021
+- c-020
+  santrauka: Mindaugo žūtis nutraukė Lietuvos paramą prūsų sukilėliams ir sustiprino Ordino padėtį.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1260 m. kilus didžiajam prūsų sukilimui, Lietuva
+    siuntė prūsams savo kariuomenę į pagalbą, tačiau, žuvus Lietuvos
+    karaliui Mindaugui, pagalba nutrūko, o Vakarų Europos parama
+    Ordinui labai sustiprėjo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-022
 
 ## Ryšiai
 ### Laikotarpiai

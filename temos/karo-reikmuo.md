@@ -20,5 +20,5 @@ Objektų skaičius: 3.
 
 ### Daiktai
 - [[objektai/daiktai/Baltas apsiaustas su išsiuvinėtu kalaviju]]
-- [[objektai/daiktai/Karinė ginkluotė]]
 - [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
+- [[objektai/daiktai/Lietuvos specialiųjų operacijų pajėgų karių kvalifikacinis antsiuvas „Žaliukas“]]

@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 24.
+Objektų skaičius: 22.
 
 ## Kaip naudoti
 
@@ -32,9 +32,6 @@ Objektų skaičius: 24.
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Skandinavai]]
 
-### Papročiai
-- [[objektai/paprociai/Lietuvių kariavimo būdas ir pilių įgulos]]
-
 ### Vietos
 - [[objektai/vietos/Beržūnė]]
 - [[objektai/vietos/Bobras]]
@@ -54,4 +51,3 @@ Objektų skaičius: 24.
 
 ### Įvykiai
 - [[objektai/ivykiai/Lietuvos ir Latvijos sienos išvedimas (1921 m.)]]
-- [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]

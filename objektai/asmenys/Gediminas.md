@@ -11,10 +11,12 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: 'XIV a.; 1323 m.; apie 1341 m.'
 datos:
   - '1323 m.'
   - 'apie 1341 m.'
+  - '1316 m.'
 periodas: ''
 periodo_grupes: []
 amziai:
@@ -145,6 +147,37 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   pagrindžia:
     - c-016
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+- t-018
+  teiginys: '1316 m. pradėjęs valdyti Lietuvą Gediminas turėjo atlaikyti suintensyvėjusį kryžiuočių puolimą.'
+  pagrindžia:
+    - c-021
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-019
+  teiginys: 'Kovoje su kryžiuočiais Gediminas pasitelkė ne tik karines, bet ir informacines priemones, laiškais gerindamas Lietuvos įvaizdį ir mažindamas Vakarų Europos paramą kryžiuočiams.'
+  pagrindžia:
+    - c-021
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-020
+  teiginys: 'Gediminas pradėjo derinti karo veiksmus prieš kryžiuočius su Lenkija.'
+  pagrindžia:
+    - c-021
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-021
+  teiginys: 'Prie Juodosios Rusios ir Polocko Gediminas prijungė Haličo-Voluinės, Vitebsko ir Kijevo žemes.'
+  pagrindžia:
+    - c-022
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-022
+  teiginys: 'Gedimino laikais Lietuva tapo didvalstybe, joje išplėtotas mūrinių pilių tinklas ir susiformavo nuolatinių karo tarnybininkų sluoksnis.'
+  pagrindžia:
+    - c-022
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -406,7 +439,7 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-004
@@ -422,7 +455,7 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-004
@@ -437,7 +470,7 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-007
@@ -450,10 +483,51 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-004
+- c-021
+  santrauka: Gediminas apibūdinamas kaip valdovas, kovą su kryžiuočiais jungęs su informacine ir diplomatine veikla.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1316 m. pradėjęs Lietuvą valdyti Gediminas turėjo atlaikyti su-
+    intensyvėjusį kryžiuočių puolimą. Šiam tikslui jis pasitelkė ne
+    tik karines, bet ir informacines priemones, savo laiškais popie-
+    žiui ir vakarų visuomenei gerindamas Lietuvos įvaizdį ir taip
+    sumažindamas Vakarų Europos krikščionių teikiamą paramą
+    kryžiuočiams. Gediminas pradėjo derinti karo veiksmus prieš
+    kryžiuočius su Lenkija.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-018
+    - t-019
+    - t-020
+- c-022
+  santrauka: Gedimino plėtra ir valstybės stiprėjimas siejami su naujomis rytinėmis žemėmis bei karo tarnybos sluoksnio formavimusi.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Prie jau anksčiau lietuvių užvaldytų
+    Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas
+    pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.
+    Lietuva tapo didvalstybe - regiono lydere. Gedimino laikais Lie-
+    tuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuo-
+    latinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji
+    žmonės - kariai, galintys bet kada stoti į tarnybą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-021
+    - t-022
 
 ## Ryšiai
 ### Teminiai klasteriai

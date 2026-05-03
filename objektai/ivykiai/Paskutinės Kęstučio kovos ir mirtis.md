@@ -72,4 +72,3 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ginklas]]
-- [[temos/mūšis]]

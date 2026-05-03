@@ -47,7 +47,3 @@ Kauno sugriovimas 1362 m. buvo svarbus vokiečių ordino laimėjimas, kurį jis 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/mūšis]]

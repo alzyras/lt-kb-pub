@@ -54,7 +54,3 @@ Mūšis įvyko ties Rūdavos bažnytkaimiu.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/mūšis]]

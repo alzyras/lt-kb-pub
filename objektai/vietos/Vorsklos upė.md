@@ -43,5 +43,4 @@ Vytautas susitiko su totoriais prie Vorsklos upės ir skaudžiai pralaimėjo mū
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/mūšis]]
 - [[temos/upė]]

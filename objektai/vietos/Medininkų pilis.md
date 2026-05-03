@@ -95,5 +95,4 @@ Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų
 ### Susiję objektai
 - [[objektai/vietos/Lydos pilis]]
 - [[objektai/asmenys/Vytautas]]
-- [[objektai/vietos/Merkinė]]
 - [[objektai/vietos/Ukmergė]]

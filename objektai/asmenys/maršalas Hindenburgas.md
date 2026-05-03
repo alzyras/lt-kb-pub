@@ -40,7 +40,3 @@ Todėl kai maršalas Hindenburgas nelabai toli nuo tos vietos (Tanenbergo) didž
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/mūšis]]

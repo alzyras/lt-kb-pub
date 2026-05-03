@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 9.
+Objektų skaičius: 10.
 
 ## Kaip naudoti
 
@@ -24,6 +24,7 @@ Objektų skaičius: 9.
 - [[objektai/daiktai/Bizantijos imperatorių herbas]]
 - [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
 - [[objektai/daiktai/Kryžius ant kardo galo]]
+- [[objektai/daiktai/Lietuvos specialiųjų operacijų pajėgų karių kvalifikacinis antsiuvas „Žaliukas“]]
 - [[objektai/daiktai/Riterių vėliava]]
 - [[objektai/daiktai/Vytauto vėliava]]
 - [[objektai/daiktai/Vytauto ženklas]]

@@ -65,8 +65,5 @@ Iš visos Lietuvos rusai pasitraukė be mūšio. Napoleono kariuomenei užėmus 
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/mūšis]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]

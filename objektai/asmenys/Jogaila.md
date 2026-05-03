@@ -11,6 +11,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: 'XIV a.; 1382 m.; 1384 m.; 1385 m.; 1386 m.; 1387 m.; 1401 m.'
 datos:
   - '1382 m.'
@@ -19,6 +20,10 @@ datos:
   - '1386 m.'
   - '1387 m.'
   - '1401 m.'
+  - '1410 m.'
+  - '1430 m. lapkričio 7 d.'
+  - '1431 m. liepos viduryje'
+  - '1434 m. birželio 1 d.'
 periodas: ''
 periodo_grupes: []
 amziai:
@@ -27,6 +32,7 @@ date_start: ''
 date_end: ''
 vaidmenys:
   - 'Lenkijos karalius'
+  - 'Lietuvos valdovas'
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
@@ -47,9 +53,7 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
 - t-001
   teiginys: '1382 m. Jogaila sudarė sutartį su kryžiuočiais, atidavė jiems Žemaičius iki Dubysos ir pasižadėjo krikštytis.'
   pagrindžia:
-    - c-021
-    - c-013
-    - c-001
+    - c-022
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
@@ -124,6 +128,49 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
     - c-017
     - c-012
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+- t-013
+  teiginys: 'XIV a. antroje pusėje Jogaila tapo Lenkijos karaliumi.'
+  pagrindžia:
+    - c-022
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-014
+  teiginys: 'Lenkijai tarpininkaujant, Jogailos laikais Lietuva priėmė katalikybę.'
+  pagrindžia:
+    - c-022
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-015
+  teiginys: 'Jogailos tapimas Lenkijos karaliumi sunaikino ideologinį pamatą kryžiuočių karams prieš Lietuvą, bet karo neužbaigė.'
+  pagrindžia:
+    - c-022
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-016
+  teiginys: '1410 m. Jogailos vedama Lenkijos kariuomenė, veikdama kartu su Vytautu, Žalgirio mūšyje visiškai sutriuškino Kryžiuočių ordiną.'
+  pagrindžia:
+    - c-022
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-017
+  teiginys: '1430 m. lapkričio 7 d. tarp Jogailos ir jo brolio Švitrigailos sudarytose paliaubose Jogaila pažadėjo grąžinti užimtas Podolės pilis, bet lenkų ponai jų negrąžino.'
+  pagrindžia:
+    - c-023
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-018
+  teiginys: '1431 m. liepos viduryje Jogaila, siekdamas išlaikyti Lietuvą tampresniame pavaldume, reikalavo paklusnumo iš jaunesniojo brolio.'
+  pagrindžia:
+    - c-024
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-019
+  teiginys: '1434 m. birželio 1 d. Jogaila mirė prieš mirtį nesėkmingai mėginęs susitaikyti su Švitrigaila.'
+  pagrindžia:
+    - c-025
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -338,7 +385,7 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
@@ -360,7 +407,7 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-004
@@ -375,7 +422,7 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-005
@@ -390,7 +437,7 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-011
@@ -405,7 +452,7 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-012
@@ -419,7 +466,7 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-012
@@ -434,7 +481,7 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-005
@@ -448,7 +495,7 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-004
@@ -468,10 +515,82 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
+- c-022
+  santrauka: Jogaila apibūdinamas kaip Lenkijos karaliumi tapęs Lietuvos valdovas ir vienas Žalgirio pergalės veikėjų.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    XIV a. antroje pusėje Lietuvos valdovas Jogaila tapo Lenkijos
+    karaliumi, pastarajai tarpininkaujant Lietuva priėmė katalikybę.
+    Taip buvo sunaikintas ideologinis pamatas kryžiuočių karams
+    prieš Lietuvą. Tačiau karas nesiliovė. Tik 1410 m. Lietuvos val-
+    dovas Vytautas, suvienijęs jėgas su pusbrolio karaliaus Jogailos
+    vedama Lenkijos kariuomene, viename didžiausių viduramžių
+    Europos Žalgirio mūšyje visiškai sutriuškino Kryžiuočių ordiną..
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-013
+    - t-014
+    - t-015
+    - t-016
+- c-023
+  santrauka: Paliaubų sutartis sieja Jogailą su konfliktu dėl Podolės pilių ir Švitrigailos valdžios.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1430 m. lapkričio 7 d. buvo
+    sudarytos paliaubos tarp Lenkijos kara-
+    liaus Jogailos ir jo brolio, Lietuvos didžiojo
+    kunigaikščio Švitrigailos. Jogaila pažadėjo
+    grąžinti užimtas Podolės pilis, bet lenkų
+    ponai apgaulės būdu pilių negrąžino.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-017
+- c-024
+  santrauka: Jogaila siejamas su bandymu išlaikyti Lietuvą artimesnėje priklausomybėje.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1431 m. liepos viduryje Lenkijos karalius
+    Jogaila, siekdamas išlaikyti tampresniame
+    pavaldume tėvoninę Lietuvą, reikalavo pa-
+    klusnumo iš jaunesniojo brolio.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-018
+- c-025
+  santrauka: Jogailos mirtis ir nesėkmingi bandymai taikytis su Švitrigaila įvardijami kaip jo gyvenimo pabaigos faktas.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1434 m. birželio 1 d. mirė Jogaila,
+    prieš mirtį nesėkmingai bandęs
+    susitaikyti su Švitrigaila (tokių
+    bandymų būta ir anksčiau).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-019
 
 ## Ryšiai
 ### Laikotarpiai
@@ -479,5 +598,5 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
 - [[laikotarpiai/XV amžius]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas]]
 - [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas]]
+- [[objektai/asmenys/Vytautas]]

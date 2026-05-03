@@ -19,7 +19,7 @@ Objektų skaičius: 38.
 ## Susiję objektai
 
 ### Asmenys
-- [[objektai/asmenys/Albertas]]
+- [[objektai/asmenys/Albertas (Rygos vyskupas)]]
 - [[objektai/asmenys/Benediktas XV]]
 - [[objektai/asmenys/Grigalius XIII]]
 - [[objektai/asmenys/Karolis IV]]

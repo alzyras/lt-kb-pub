@@ -99,8 +99,5 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/mūšis]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Henrikas Valua]]

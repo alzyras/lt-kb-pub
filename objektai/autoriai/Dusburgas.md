@@ -2,8 +2,14 @@
 tipas: autorius
 pavadinimas: 'Dusburgas'
 sukurta: '2026-04-24'
+variantai:
+  - 'Petras Dusburgietis'
+  - 'P. Dusburgietis'
+  - 'Dusburgietis'
+  - 'Petro Dusburgiečio'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 vaidmenys:
   - 'Kryžiuočių ordino kronikininkas'
 patikimumas: 'aukštas'
@@ -15,31 +21,43 @@ tags:
 
 ## Santrauka
 
-Dusburgas šiame šaltinyje minimas kaip Kryžiuočių ordino kronikininkas; jam priskiriami darbai šiame fragmente konkretus kūrinio pavadinimas nenurodomas, minimos kronikos apie lietuvius.
+Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikininkas. Šiame leidinyje jis papildomai tiesiogiai siejamas su „Prūsijos žemės kronika“, kurios ištraukos naudojamos aprašant Durbės mūšį ir Vytenio žygį į Ordino žemes.
 
 ## Darbai
 - šiame fragmente konkretus kūrinio pavadinimas nenurodomas
 - minimos kronikos apie lietuvius
+- Prūsijos žemės kronika
 
 ## Teiginiai
 - t-001
   teiginys: 'Dusburgas yra Kryžiuočių ordino kronikininkas.'
   pagrindžia:
-    - c-003
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
   teiginys: 'Dusburgas savo kronikoje lietuvius apibūdina kaip kietasprandžius, nenugalimus, prityrusius karius.'
   pagrindžia:
-    - c-004
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Šiame leidinyje Dusburgas tiesiogiai siejamas su „Prūsijos žemės kronika“.'
+  pagrindžia:
+    - c-005
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Šiame leidinyje „Prūsijos žemės kronika“ naudojama kaip šaltinis apie Durbės mūšį ir Vytenio žygį į Ordino žemes.'
+  pagrindžia:
+    - c-006
+    - c-007
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Dusburgas yra Kryžiuočių ordino kronikininkas
+  santrauka: Dusburgas yra Kryžiuočių ordino kronikininkas.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     XIII amžiuje kaimynių tautų kronikos rašo apie
@@ -54,7 +72,7 @@ Dusburgas šiame šaltinyje minimas kaip Kryžiuočių ordino kronikininkas; jam
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Dusburgas savo kronikoje lietuvius apibūdina kaip kietasprandžius, nenugalimus, prityrusius karius
+  santrauka: Dusburgas savo kronikoje lietuvius apibūdina kaip kietasprandžius, nenugalimus, prityrusius karius.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Dusburgas vadina juos kietasprandžiais, nenugalimais, prity-
@@ -66,31 +84,50 @@ Dusburgas šiame šaltinyje minimas kaip Kryžiuočių ordino kronikininkas; jam
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: Dusburgas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-005
+  santrauka: Šiame leidinyje tiesiogiai įvardijama Petro Dusburgiečio „Prūsijos žemės kronika“.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Kronikininkas
-    Dusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus
-    sūnus »^1 , 1296 jau rašė, jog « rex Vithenus » darė žygį Livonijon 1 2.
-  citata_rodoma: ""
+    Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Durbės mūšį.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-- c-004
-  santrauka: Dusburgas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+    - t-003
+    - t-004
+- c-006
+  santrauka: Durbės mūšio aprašymui naudojama Petro Dusburgiečio kronikos ištrauka.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Dusburgo kronikoje pirmą kartą paminėta, Junigėda (nuo 1315
-    ten stovėjo Veliuona), bet, jos nepaėmus, netoliese buvo sunaikinta
-    pilis «Mederaba»^23.
-  citata_rodoma: ""
+    1260 m. Livonijos ir Prūsijos broliai suėjo į vieną vietą su stipriomis kariuomenėmis, ke-
+    tindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo prie šios pilies, atvyko
+    pasiuntinys, pranešdamas, kad keturi tūkstančiai lietuvių nuniokojo vieną Kuršo žemės
+    dalį, degindami, grobstydami ir liedami krikščionių kraują, o sugautas moteris bei vaikus
+    išsivarė su savimi, kartu gabendamiesi daug kitokio grobio. Šitai išgirdę, broliai ir visa ka-
+    riuomenė sukruto rengtis kovai
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-004
+- c-007
+  santrauka: Kita Petro Dusburgiečio kronikos ištrauka naudojama Vytenio žygio kontekste.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Vytenio įsiveržimą į
+    Ordino žemes:
+
+    „1311 viešpaties metais, per Užgavėnes, Vytenis, Lietuvos karalius, su didele kariuomene,
+    degindamas ir plėšdamas, nusiaubė Sembą ir Notangą, išžudė daug žmonių, o beveik
+    penkis šimtus išsivarė į nelaisvę drauge su dideliu grobiu...“
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

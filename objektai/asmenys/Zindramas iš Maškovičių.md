@@ -37,7 +37,3 @@ Lenkų kariuomenę mūšiui rikiavo Zindramas iš Maškovičių, o lietuvių kar
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/mūšis]]

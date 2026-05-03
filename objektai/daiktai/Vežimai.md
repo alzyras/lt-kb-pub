@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 patikimumas: 'aukštas'
 periodas: viduramziai
 tags:
@@ -15,7 +16,7 @@ tags:
 
 ## Santrauka
 
-Kautynių metu karalius buvo saugomas tarp vežimų. Vytautas į Trakus buvo nuvežtas jo žmonos vežime.
+Kautynių metu karalius buvo saugomas tarp vežimų. Vytautas į Trakus buvo nuvežtas jo žmonos vežime. Šiame šaltinyje papildomai aprašoma, kad kariuomenė stovyklose apsisupdavo vežimais, kuriais gabendavo amuniciją, proviantą ir kitus reikmenis.
 
 ## Teiginiai
 - t-001
@@ -29,6 +30,12 @@ Kautynių metu karalius buvo saugomas tarp vežimų. Vytautas į Trakus buvo nuv
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: Kariuomenė stovyklose apsisupdavo vežimais, kuriais gabenama amunicija, proviantas ir kiti dalykai.
+  pagrindžia:
+    - c-003
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -71,6 +78,23 @@ Kautynių metu karalius buvo saugomas tarp vežimų. Vytautas į Trakus buvo nuv
   pagrindžia:
     - t-002
     - t-001
+- c-003
+  santrauka: Aprašomas vežimais apjuostas kariuomenės stovyklos įsirengimo būdas.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    „Nenutylėsiu ir būdo, kuriuo ši kariuomenė paprastai įsikuria stovyklose, nes šis būdas
+    labai skiriasi nuo kitų ir dėl to pažymėtinas. Susibūrusi į vieną vietą, visa kariuomenė ap-
+    sisupa vežimais, kuriais gabenama amunicija, proviantas ir kiti dalykai: paliekami tik keli
+    praėjimai, prie kurių saugumo sumetimais statomi artilerijos pabūklai, kurių esama labai
+    daug, tik nelabai didelių; išorėje už vežimų iškasamas ilgas ir platus griovys. Tokiu būdu
+    kariai jaučiasi ne mažiau saugūs nei gerai įtvirtintame ir apsaugotame mieste.“
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

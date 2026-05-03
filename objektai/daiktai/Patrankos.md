@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 patikimumas: 'aukštas'
 periodas: viduramziai
 tags:
@@ -16,7 +17,7 @@ tags:
 
 ## Santrauka
 
-Nuo Vytauto laikų Lietuvoje buvo liejami pabūklai.
+Nuo Vytauto laikų Lietuvoje buvo liejami pabūklai. Šiame šaltinyje papildomai nurodoma, kad parakiniai pabūklai ankstyvuoju raidos etapu ypač tiko tvirtovių apguloms, 1382 m. lietuviai jau naudojo artileriją puldami kryžiuočių pilį, o 1397 m. Vytautas siuntė pabūklus Kijevui įtvirtinti.
 
 ## Teiginiai
 - t-001
@@ -24,6 +25,24 @@ Nuo Vytauto laikų Lietuvoje buvo liejami pabūklai.
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: Ankstyvuoju parakinių pabūklų raidos etapu jie geriau tiko tvirtovių apguloms negu atviriems mūšiams.
+  pagrindžia:
+    - c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 1382 m. lietuviai, puldami kryžiuočių pilį, panaudojo artileriją.
+  pagrindžia:
+    - c-003
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 1397 m. pradžioje Vytautas siuntė pabūklus Kijevui įtvirtinti.
+  pagrindžia:
+    - c-004
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -45,6 +64,50 @@ Nuo Vytauto laikų Lietuvoje buvo liejami pabūklai.
     - t-001
     - t-001
     - t-001
+- c-002
+  santrauka: Ankstyvieji parakiniai pabūklai ypač pasiteisino tvirtovių apgulose.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    kovojančioms pusėms sueinant į artimą kovą. Tačiau jų efektyvu-
+    mas atviruose mūšiuose xIV-xv a. dar buvo minimalus. Parakiniai
+    pabūklai savo ankstyvojoje vystymosi stadijoje kur kas geriau už-
+    sirekomendavo tvirtovių apgulose.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: Pateikiamas pirmasis lietuvių artilerijos panaudojimo prieš kryžiuočių pilį atvejis.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1382 m. žinomas pirmas atvejis, kai lietuviai, puldami kryžiuočių
+    pilį, panaudojo artileriją. Vokiečių pabūklai Baltijos regione pirmą
+    kartą minimi vos 20 metų ankščiau.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: Vytauto pasirengimas žygiui siejamas su pabūklų siuntimu Kijevui įtvirtinti.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tam ruošdamasis dar
+    1397 m. pradžioje Vytautas siuntė pabūklus
+    Kijevui įtvirtinti, rengė žvalgomuosius-pa-
+    rengiamuosius žygius.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai

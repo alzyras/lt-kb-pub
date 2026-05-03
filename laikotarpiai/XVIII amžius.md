@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 27.
+Objektų skaičius: 29.
 
 ## Kaip naudoti
 
@@ -37,6 +37,7 @@ Objektų skaičius: 27.
 - [[objektai/ivykiai/1766 m. seimo sprendimas dėl kitatikių teisių]]
 - [[objektai/ivykiai/1791 m. gegužės 3 d. konstitucijos priėmimas]]
 - [[objektai/ivykiai/Antrasis Respublikos padalinimas (1793 m.)]]
+- [[objektai/ivykiai/Bezdežo (Antopolio) mūšis (1771 m.)]]
 - [[objektai/ivykiai/Gyventojų išlaidų normuojamojo įstatymo priėmimas (1776 m.)]]
 - [[objektai/ivykiai/Karolio XII įžengimas į Lietuvą ir Žemaitijos, Kauno, Vilniaus užėmimas (1702 m.)]]
 - [[objektai/ivykiai/Karolio XII žygis į Rusiją ir Poltavos mūšis (1709 m.)]]
@@ -44,14 +45,15 @@ Objektų skaičius: 27.
 - [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.)]]
 - [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]
 - [[objektai/ivykiai/Kosciuškos sukilimas (1794 m.)]]
+- [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]
 - [[objektai/ivykiai/Padalinamasis seimas (1773–1775 m.)]]
 - [[objektai/ivykiai/Radomo konfederacija (1767 m.)]]
 - [[objektai/ivykiai/Rusijos ir Prūsijos sutartis remti Poniatausko kandidatūrą (1764 m.)]]
 - [[objektai/ivykiai/Stanislovo Augusto elekcija (1764 m.)]]
 - [[objektai/ivykiai/Stanislovo Leščinskio išrinkimas karalium (1704 m.)]]
 - [[objektai/ivykiai/Targovicos konfederacija (1792—1793 m.)]]
-- [[objektai/ivykiai/Varšuvos konfederacinis seimas (1768 m.)]]
-- [[objektai/ivykiai/Šiaulių ekonomijos valstiečių sukilimas (1769 m.)]]
+- [Varšuvos konfederacinis seimas (1768 m.)](../objektai/ivykiai/Var%C5%A1uvos%20konfederacinis%20seimas%20%281768%20m.%29)
+- [Šiaulių ekonomijos valstiečių sukilimas (1769 m.)](../objektai/ivykiai/%C5%A0iauli%C5%B3%20ekonomijos%20valstie%C4%8Di%C5%B3%20sukilimas%20%281769%20m.%29)
 
 ### Žodynas
 - [Liberum veto](../objektai/zodynas/Liberum%20veto)

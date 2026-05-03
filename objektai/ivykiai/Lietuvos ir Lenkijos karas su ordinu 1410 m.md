@@ -73,5 +73,4 @@ Ordinas nesiskubino į Žemaičius, bet pirmučiausia puolė Lenkiją (1409 m.).
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/mūšis]]
 - [[temos/paliaubos]]

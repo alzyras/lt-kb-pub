@@ -2,10 +2,16 @@
 tipas: asmuo
 pavadinimas: 'Steponas Batoras'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - 'Stepono Batoro'
+  - 'S. Batoras'
+  - 'St. Batoras'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1558-1582 m.'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -17,7 +23,7 @@ tags:
 
 ## Santrauka
 
-Tarpuvaldis ir Stepono Batoro (1576—1586 m.) elekcija 282. Stepono Batoro karai su Maskva 285. Stepono Batoro valdymo reikšmė ir jo mirtis.
+Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, siejamas su elekcija, karais su Maskva ir pergalingų Livonijos karo kampanijų atminimu. Vienas kūno fragmentas jį tiesiogiai susieja su paradiniu kalaviju, pagamintu šioms kampanijoms atminti.
 
 ## Teiginiai
 - t-001
@@ -36,10 +42,6 @@ Tarpuvaldis ir Stepono Batoro (1576—1586 m.) elekcija 282. Stepono Batoro kara
   teiginys: 'Steponas Batoras buvo sudaręs iš jų 500 raitelių vėliavą.'
   pagrindžia:
     - c-004
-- t-005
-  teiginys: 'Batoro laikai.'
-  pagrindžia:
-    - c-005
 - t-006
   teiginys: 'Batoro; žemiau kairėje — Vazų, o dešinėje — Poniatauskų; pačioje apačioje — vysk.'
   pagrindžia:
@@ -52,6 +54,19 @@ Tarpuvaldis ir Stepono Batoro (1576—1586 m.) elekcija 282. Stepono Batoro kara
   teiginys: '1576 m. Steponas Batoras turėjo 43 m. amžiaus.'
   pagrindžia:
     - c-008
+
+- t-009
+  teiginys: 'Steponas Batoras įvardijamas Lietuvos ir Lenkijos valdovu.'
+  pagrindžia:
+    - c-009
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: 'Stepono Batoro pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu buvo pagamintas paradinis kalavijas.'
+  pagrindžia:
+    - c-009
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -102,28 +117,13 @@ Tarpuvaldis ir Stepono Batoro (1576—1586 m.) elekcija 282. Stepono Batoro kara
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Batoro laikai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **XIX. Št. Batoro laikai. I. 1. Lappo, Velikoje kn. Lit. za vremia ot za-
-      kliučenija Liublinskoj unii do smerti Št. Batorija (1901); A. Traievskij, Pols-
-      koje bezkorolevije po prekraščeniju din. Jagellonov (1869); H. Übersberger,
-      Österreich u. Russland (1906); A. Šapoka, Pirmasis bandymas pataisyti 1569
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 - c-006
   santrauka: 'Batoro; žemiau kairėje — Vazų, o dešinėje — Poniatauskų; pačioje apačioje — vysk.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     viršuje — popiežiaus Grigaliaus XIII, jo kairėje — Zigmanto Augusto, deši-
-      nėje — St. Batoro; žemiau kairėje — Vazų, o dešinėje — Poniatauskų; pačioje
-      apačioje — vysk. Protasevičiaus, jo kairėje — Radvilų, o dešinėje — Sapiegų.
+    nėje — St. Batoro; žemiau kairėje — Vazų, o dešinėje — Poniatauskų; pačioje
+    apačioje — vysk. Protasevičiaus, jo kairėje — Radvilų, o dešinėje — Sapiegų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -136,9 +136,9 @@ Tarpuvaldis ir Stepono Batoro (1576—1586 m.) elekcija 282. Stepono Batoro kara
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nors Stepono Batoro tėvynėje, Veng-
-      rijoje, buvo paplitęs protestantizmas, tačiau jis pats buvo išauk-
-      lėtas katalikiškai. Kad ir užaugęs tikybinių kovų metu, jis vis
-      dėlto buvo ne fanatikas, bet didelis tolerantas.
+    rijoje, buvo paplitęs protestantizmas, tačiau jis pats buvo išauk-
+    lėtas katalikiškai. Kad ir užaugęs tikybinių kovų metu, jis vis
+    dėlto buvo ne fanatikas, bet didelis tolerantas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -151,9 +151,9 @@ Tarpuvaldis ir Stepono Batoro (1576—1586 m.) elekcija 282. Stepono Batoro kara
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1576 m. Steponas Batoras turėjo 43 m. amžiaus. Jis buvo
-      silpnokos sveikatos ir dažnai sirguliavo. Šiaipjau buvo žmo-
-      gus protingas, didelės energijos, mokąs valdyti ir turįs didelių
-      politinių sumanymų.
+    silpnokos sveikatos ir dažnai sirguliavo. Šiaipjau buvo žmo-
+    gus protingas, didelės energijos, mokąs valdyti ir turįs didelių
+    politinių sumanymų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -161,8 +161,32 @@ Tarpuvaldis ir Stepono Batoro (1576—1586 m.) elekcija 282. Stepono Batoro kara
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: Steponas Batoras tiesiogiai susiejamas su valdovo titulu ir Livonijos karo pergalių atminimu.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Lietuvos ir Lenkijos valdovo Stepono Batoro pa-
+    radinis kalavijas, pagamintas pergalingoms Lietuvių ir jų
+    sąjungininkų kampanijoms Maskvos žemėse Livonijos karo
+    metu (1558-1582) atminti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+    - t-010
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/elekcija]]
 - [[temos/popiežius]]
+
+### Laikotarpiai
+- [[laikotarpiai/XVI amžius]]
+
+### Susiję objektai
+- [[objektai/zodynas/elekcija]]
+- [[objektai/daiktai/Stepono Batoro paradinis kalavijas]]

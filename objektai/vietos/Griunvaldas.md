@@ -37,7 +37,3 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/mūšis]]

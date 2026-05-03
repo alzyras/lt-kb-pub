@@ -1,12 +1,17 @@
 ---
-tipas: vieta
+tipas: 'vieta'
 pavadinimas: 'Trakai'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - 'Trakų'
+  - 'Trakuose'
+  - 'Trakus'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+susije_irasai: []
 patikimumas: 'vidutinis'
 tags:
   - miestas
@@ -51,6 +56,34 @@ Trakai šiame šaltinyje minimi kaip valdžios centras, Gedimino statyta pilis, 
   teiginys: '1430 m. spalio 17 d. Vytautas su Jogaila išjojo iš Vilniaus į Trakus, o pakeliui nukritęs nuo arklio buvo atvežtas į Trakus žmonos vežime.'
   pagrindžia:
     - c-010
+
+- t-010
+  teiginys: '1432 m. rugsėjo 1 d. Žygimantas Kęstutaitis buvo pasodintas didžiojoje kunigaikštystėje Vilniuje ir Trakuose.'
+  pagrindžia:
+    - c-011
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+
+- t-011
+  teiginys: 'Žygimantas Kęstutaitis su kariuomene ėjo į Trakus.'
+  pagrindžia:
+    - c-012
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+
+- t-012
+  teiginys: '1655 m. rugpjūtį po Vilniaus užėmimo netrukus buvo užimti Trakai ir Kaunas.'
+  pagrindžia:
+    - c-013
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+
+- t-013
+  teiginys: 'Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį į Jiezną.'
+  pagrindžia:
+    - c-014
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -183,10 +216,75 @@ Trakai šiame šaltinyje minimi kaip valdžios centras, Gedimino statyta pilis, 
 ### Susiję įvykiai
 - [[Vytauto mirtis (1430 m. spalio 27 d.)]]
 
+- c-011
+  santrauka: Citata rodo Trakus kaip Žygimanto Kęstutaičio įtvirtinimo vietą.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Lietuvos metraščio liudijimu, „Lietuva
+    pasodino didįjį kunigaikštį Žygimantą
+    Kęstutaitį didžiojoje kunigaikštystėje
+    Vilniuje ir Trakuose rugsėjo 1 d.“
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+
+- c-012
+  santrauka: Citata tiesiogiai mini žygį į Trakus.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Lietuvos didysis kunigaikštis Žygi-
+    mantas Kęstutaitis, sukaupęs „kiek galėjo
+    didžiausias lietuvių jėgas“, gavęs prašytos
+    pagalbos iš Lenkijos karaliaus Vladislovo
+    Jogailaičio, ėjo į Trakus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+
+- c-013
+  santrauka: Citata Trakus mini tarp 1655 m. užimtų miestų.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Nors
+    Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų ver-
+    žimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą
+    lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai
+    priartėjo prie Vilniaus. Rugpjūčio 7 d. po aršių kautynių priešas
+    užėmė Lietuvos sostinę, netrukus buvo užimti Trakai ir Kaunas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+
+- c-014
+  santrauka: Citata rodo Trakus kaip priešo judėjimo kelią į Jiezną.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Pagrindinė priešo vora slinko iš Vilniaus pro Trakus, |
+    | Aukštadvarį ir pasiekė Jiezną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Luckas]]
 - [[objektai/vietos/Minskas]]
 - [[objektai/vietos/Naugardukas]]
-- [[objektai/ivykiai/Vytauto mirtis (1430 m. spalio 27 d.)]]
-- [[objektai/vietos/Luckas]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/ivykiai/Vytauto mirtis (1430 m. spalio 27 d.)]]

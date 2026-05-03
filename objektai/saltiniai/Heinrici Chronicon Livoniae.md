@@ -1,5 +1,5 @@
 ---
-tipas: saltinis
+tipas: 'saltinis'
 pavadinimas: 'Heinrici Chronicon Livoniae'
 sukurta: '2026-04-27'
 variantai:
@@ -7,17 +7,19 @@ variantai:
   - 'Henriko Latvio kronika'
   - 'Henriko kronika'
   - 'Latvijos Henriko kronika'
+  - 'Henriko Latvio „Livonijos kronikos“'
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: '1225-27 m.; 1955 m.'
 datos:
   - '1225-27 m.'
   - '1955 m.'
-periodas: viduramziai
+periodas: 'viduramziai'
 periodo_grupes: []
 amziai:
-  - XIII
+  - 'XIII'
 date_start: ''
 date_end: ''
 vaidmenys: []
@@ -51,6 +53,18 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Cituojama „Heinrici Chronicon Livoniae“ ištrauka apie lietuvių būdą kovoje, mūšyje su kalavijuočiais prie Dauguvos, Livonijoje 1207 m.'
+  pagrindžia:
+    - c-004
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 'Cituojama „Heinrici Chronicon Livoniae“ ištrauka apie Lietuvos valdžios siekį valdyti.'
+  pagrindžia:
+    - c-005
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -67,6 +81,32 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-004
+  santrauka: 'Cituojama „Heinrici Chronicon Livoniae“ ištrauka apie lietuvių būdą kovoje, mūšyje su kalavijuočiais prie Dauguvos, Livonijoje 1207 m.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Ištrauka iš žymiausio Kalavijuočių ideologo Henriko Latvio „Livonijos kronikos“
+    apie lietuvių būdą kovoje, mūšyje su kalavijuočiais prie Dauguvos, Livonijoje 1207 m.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  pagrindžia:
+    - t-004
+
+- c-005
+  santrauka: 'Cituojama „Heinrici Chronicon Livoniae“ ištrauka apie Lietuvos valdžios siekį valdyti.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Ištrauka iš Henriko Latvio „Livonijos kronikos“ apie Lietuvos valdžios siekį valdyti
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  pagrindžia:
+    - t-005
 
 ## Bibliografiniai įrodymai
 - c-002

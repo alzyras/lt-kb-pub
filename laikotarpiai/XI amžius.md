@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 4.
+Objektų skaičius: 6.
 
 ## Kaip naudoti
 
@@ -17,6 +17,10 @@ Objektų skaičius: 4.
 - Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
 
 ## Susiję objektai
+
+### Daiktai
+- [[objektai/daiktai/Dviašmenis kalavijas]]
+- [[objektai/daiktai/Sidabruotos geležinės balnakilpės]]
 
 ### Papročiai
 - [[objektai/paprociai/Specialių brolijų maldininkams globoti steigimas]]
