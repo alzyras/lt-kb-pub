@@ -19,6 +19,21 @@ tags:
 
 Karūna šiame šaltinyje siejama su Mindaugo, Kęstučio ir Vytauto valdžios legitimacija. Aptariami Mindaugo vainikavimo epizodai, Kęstučiui žadėta karaliaus karūna ir 1430 m. sustabdytų Vytautui vežtų vainikų istorija.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Todėl jis grąžinąs karūną, kad ji būtų atiduota daugiau jėgų turinčiam naujajam karaliui.'

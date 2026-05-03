@@ -25,8 +25,20 @@ tags: []
 
 Husarai buvo bajorai, kuriuos karalius ir etmonai pagerbdavo suteikdami draugo vardą. Daugelis husarų gaudavo rentas iš etmonų bei didelių senjorų.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: politinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

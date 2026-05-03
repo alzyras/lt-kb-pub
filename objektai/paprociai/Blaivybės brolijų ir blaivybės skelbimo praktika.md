@@ -19,6 +19,21 @@ tags:
 
 Vyskupo raginama, kunigija tapo uoliausia blaivybės platintoja; ji surašinėjo žmones į blaivybės brolijas. Administracijai spiriant, blaivybės brolijų narių surašinėjamosios knygos buvo nustotos vesti, tačiau blaivybė dėl to nė kiek nesusilpnėjo. Kova su girtybe buvo iš naujo pradėta tik 1908 m., įkūrus Blaivybės Draugiją, kuri ir dabar tebeveikia.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Vyskupo raginama, kunigija tapo uoliausia blaivybės platintoja; ji surašinėjo žmones į blaivybės brolijas.'

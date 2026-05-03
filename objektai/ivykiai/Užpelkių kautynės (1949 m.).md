@@ -42,6 +42,18 @@ tags:
 
 Radviliškio r. Užpelkių miške įvykusiose kautynėse buvo sunaikintas Prisikėlimo apygardos štabas. Partizanų atsiminimuose kautynės aprašomos kaip netikėtas apsupimas ir traukimasis į miško gilumą. 1949 m. rugpjūčio 13 d. Užpelkių miške sunaikintas Prisikėlimo apygardos štabas; žuvo LLKS tarybos prezidiumo nariai Petras Bartkus-Žadgaila, Bronius Liesis-Naktis, Vytautas Šniuolis-Svajūnas ir dar trys neatpažinti partizanai Partizanas Laurynas Mingilas-Džiugas kautynes aprašė kaip netikėtą apsupimą ir traukimąsi į miško gilumą kartu su kitais kovos draugais.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1949 m. rugpjūčio 13 d. Užpelkių miške sunaikintas Prisikėlimo apygardos štabas; žuvo LLKS tarybos prezidiumo nariai Petras Bartkus-Žadgaila, Bronius Liesis-Naktis, Vytautas Šniuolis-Svajūnas ir dar trys neatpažinti partizanai.'

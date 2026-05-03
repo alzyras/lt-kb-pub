@@ -81,6 +81,10 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - t-002
   teiginys: 'Kryžiuočių ordinas susiejamas su Marijos Mergelės ordino vardu ir kryžiaus karų tradicija'
   pagrindžia:
+    - c-048
+    - c-045
+    - c-044
+    - c-043
     - c-042
     - c-039
     - c-033
@@ -94,6 +98,10 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - t-003
   teiginys: 'Ordinas pristatomas kaip nuo Vyslos iki Nemuno priėjusi vokiečių jėga, puolusi lietuvius ir statanti pilis prie Nemuno'
   pagrindžia:
+    - c-051
+    - c-050
+    - c-047
+    - c-046
     - c-038
     - c-035
     - c-015
@@ -127,6 +135,9 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - t-007
   teiginys: 'Kryžiuočių ordinas aiškiai įvardijamas kaip lietuvius žeminusi jėga, pateisinusi savo žygius'
   pagrindžia:
+    - c-053
+    - c-052
+    - c-049
     - c-037
     - c-036
     - c-034
@@ -601,6 +612,193 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     - t-003
     - t-002
     - t-005
+- c-043
+  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    1525 m. Lietuvos pašonėje priėmė protestantizmą
+    kryžiuočių ordino magistras ir daugumas brolių.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
+- c-044
+  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    **IV. Kryžiuočių ordino įsikūrimas Pabaltijy.** _M. Oeler,_ Geschichte d.
+    Deutschen Ritter-Ordens (1908); _A. E. Ewald,_ Die Eroberung Preussens
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
+- c-045
+  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pastarojo
+    nariai (o taip pat ir templininkai) nešiojo baltus apsiaustus su išsiūtu
+    juodu kryžium, todėl mūsų krašte dažniausiai būdavo vadinami kry-
+    žiuočiais. Kitur juos paprastai vadino vokiečių, arba Marijos Mergelės,
+    ordinu. Ordinas buvo vokiečių imperatorių bei kunigaikščių remia-
+    mas ir labai greit pralobo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
+- c-046
+  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Todėl ordinas per 50 metų nukariavo
+    visas aisčių gimines tarp Vyslos ir Nemuno ir, priėjęs Nemuną,
+    susidūrė jau su vieninga Lietuvos valstybe, su kuria vėl pradėjo
+    ilgą karą. Tuo tarpu visos kiltys, buvusios anapus Nemuno,
+    liko amžinoje vokiečių vergovėje.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-003
+- c-047
+  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kryžiuočiai, atslinkę prie Nemuno, tuojau
+    pasistatė Ragainės, Jurbarko, o kiek vėliau ir Skirsnemunės
+
+
+    pilis (šią pastarąją netrukus turėjo vėl sugriauti, nes sunku buvo
+    ją atlaikyti).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-003
+- c-048
+  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Ordinas, remdamasis Salyno su-
+    tartim, reikalavo, kad pabėgėliai žemaičiai būtų jam grąžinami.
+    Bet sutarty buvo minimi tik nelaisvieji valstiečiai, ir Vytautas tei-
+    sinosi, kad laisvieji galį kilnotis kur tinkami. O nustatyti, kas
+    Žemaičiuose buvo laisvas, o kas ne, buvo labai sunku. Todėl jis
+    nepaisė ordino reikalavimo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
+- c-049
+  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tais pačiais 1409 m. Lietuvoje buvo nederlius. Jogaila, norė-
+    damas padėti Lietuvai, siuntė jai javų. Tačiau ordinas Ragainėje
+    juos sulaikė. Tatai Vytauto santykius su ordinu visai nutraukė,
+    ir jis, jau nebesislėpdamas, nusiuntė į Žemaičius savo bajorų ir
+    paėmė juos į savo valdžią.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-007
+- c-050
+  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Gedimino ir Algirdo laikais giliai Lie-
+    tuvoje Nemuno pakrantėmis kyšojusios vokiečių ordino pilys
+    buvo nušluotos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-003
+- c-051
+  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lietuvai buvo sunku prekiauti su Hanzos pirkliais, nes visą
+    pajūrį ir abiejų didžiųjų upių žiotis buvo užėmę kryžiuočiai.
+    Bet vis dėlto XIII ir XIV amžiuje Lietuvai pats svarbusis pre-
+    kybos punktas buvo Rygos miestas. Nemuno žiotys buvo ap-
+    gultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos pre-
+    kybą. Priėjimas prie Rygos Dauguvos upe taip pat buvo ga-
+    na sunkus, — čia irgi trukdė tie patys kryžiuočiai, — vis dėlto čia
+    buvo kiek lengviau: mat, Ryga buvo laisvas miestas, kuris, no-
+    rėdamas pasipelnyti, buvo sukalbamesnis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-003
+- c-052
+  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Smarkiai
+    apkarpytas, likęs Lenkijos vasalu, ordinas savo sostinę per-
+    kėlė į Karaliaučių. Nuo to laiko Karaliaučius buvo sostinė ne
+    tik iki panaikinant ordiną, bet ir įsikūrus vadinamajai Prūsų
+    kunigaikštijai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-007
+- c-053
+  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tokiais sumetimais ir bu-
+    vo išrinktas magistru (1511
+    m.) Ansbacho Hohenco-
+    lernų šeimos narys, kara-
+    liaus Zigmanto seserėnas
+    (Kazimiero dukters sūnus)
+    Albrechtas. Buvo tikimasi,
+    kad jis sugebės geriau su-
+    sitarti su Lenkija jau vien
+    dėl savo giminystės su ka-
+    ralium. Tačiau visi mėgini-
+    mai nenusisekė, ir ordinui
+    teko pradėti su Lenkais ka-
+    rą. Karas ordinui nesisekė, ir teko padaryti paliaubas, nieko ne-
+    laimėjus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-007
+    - t-002
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -612,6 +810,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 
 ### Susiję objektai
 - [[objektai/grupes/Joanitų ordinas]]
+- [[objektai/vietos/Karaliaučius]]
 - [[objektai/paprociai/Sezoniniai ordino žygiai į Lietuvą]]
 - [[objektai/grupes/Templininkų ordinas]]
 - [[objektai/asmenys/Ulrichas von Jungingenas]]

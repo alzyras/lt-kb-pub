@@ -32,6 +32,18 @@ tags:
 
 Šiame gabale pateikiama mūšio pradžia: pajėgų dydžiai, maršrutas į Oršą ir Kopysę bei Radvilos sprendimas laikyti priešo veiksmus prie Smolensko. Mūšio baigtis šiame gabale dar neatskleista, todėl kandidatas laikytinas preliminariu. Šklovo mūšio išvakarėse Jonušas Radvila vadovavo gerokai mažesnėms LDK pajėgoms Kunigaikštis Čerkaskis iš Smolensko žygiavo užimti Oršą ir Kopysę, o Šklovo mūšio dieną priešininkų pajėgos dar tik ruošėsi susidūrimui.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Šklovo mūšio išvakarėse Jonušas Radvila vadovavo gerokai mažesnėms LDK pajėgoms.'

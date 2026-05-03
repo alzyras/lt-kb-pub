@@ -18,6 +18,21 @@ tags:
 
 Žemaičiai ilgai išlaikė savitą vidaus tvarkymąsi ir socialinį savitumą. Didieji Lietuvos kunigaikščiai krašto vidaus reikaluose turėjo ribotą įtaką, bet pavojaus metu teikdavo pagalbą, o skirtingos žemaičių privilegijos išliko iki pat XVI amžiaus.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Nesutikimai, kilę po Zigmanto mirties, teturėjo tam tikrų padarinių tik Žemaičiams: konkurentų kovų metu jie išgavo iš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems laikams laidavo jiems savotišką vidaus tvarkymąsi.'

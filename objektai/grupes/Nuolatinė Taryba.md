@@ -140,4 +140,6 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Gardino seimas]]
+- [[objektai/grupes/Gardino seimas (1793 m.)]]
 - [[objektai/grupes/Įstatymų Sargyba]]

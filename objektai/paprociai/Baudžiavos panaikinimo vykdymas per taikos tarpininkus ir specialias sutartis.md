@@ -17,6 +17,21 @@ tags:
 
 Valstiečiai tuo tarpu pradėjo būkštauti, kad iš skelbiamosios laisvės nieko neišeis; bijodami, kad iš sutarčių su ponais gali sulaukti naujų prievolių, ėmė net bruzdėti ir atsisakinėjo daryti sutartis. Su valstiečiais turėjo būti sudarytos specialios sutartys.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Valstiečiai tuo tarpu pradėjo būkštauti, kad iš skelbiamosios laisvės nieko neišeis; bijodami, kad iš sutarčių su ponais gali sulaukti naujų prievolių, ėmė net bruzdėti ir atsisakinėjo daryti sutartis.'

@@ -18,6 +18,21 @@ tags:
 
 Kiek jis buvo tik savimi susirūpinęs, matome ir iš to, kad švedų antplūdžių metu, kai jam pačiam teko bėgti į užsienį, jis kartu vežiojosi savo aukso dėžę, nieko nepaaukodamas iš jos kariuomenės organizavimui.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kiek jis buvo tik savimi susirūpinęs, matome ir iš to, kad švedų antplūdžių metu, kai jam pačiam teko bėgti į užsienį, jis kartu vežiojosi savo aukso dėžę, nieko nepaaukodamas iš jos kariuomenės organizavimui.'

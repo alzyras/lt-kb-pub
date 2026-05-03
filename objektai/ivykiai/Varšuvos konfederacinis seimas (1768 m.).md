@@ -17,6 +17,18 @@ tags:
 
 Varšuvos konfederacinis seimas (1768 m.) turėjo patvirtinti viską, ko reikalavo Repninas.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Varšuvos konfederacinis seimas (1768 m.) turėjo patvirtinti viską, ko reikalavo Repninas.'

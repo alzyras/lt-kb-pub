@@ -28,8 +28,20 @@ tags: []
 
 Aisčių laidojimo ir vėlių minėjimo praktikos apėmė įkapių dėjimą, skirtingus laidosenos būdus, žirgų laidojimą, turtingesnių kapų formavimą ir vėlių garbinimo šventes. Wulfstano aprašyme aisčių laidotuvės dar siejamos su ilgai laikomu lavonu, puotomis iš mirusiojo turto ir likučio dalybomis per arklių lenktynes.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: ritualas
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

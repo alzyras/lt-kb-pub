@@ -18,6 +18,18 @@ tags:
 
 1903 m. Klaipėdos apygardoje vėl lietuviams pasisekė išrinkti savo kandidatą į karalystės parlamentą — kunigą dr. Gaigalaitį.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1903 m. Klaipėdos apygardoje vėl lietuviams pasisekė išrinkti savo kandidatą į karalystės parlamentą — kunigą dr. Gaigalaitį.'

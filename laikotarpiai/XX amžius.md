@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 83.
+Objektų skaičius: 85.
 
 ## Kaip naudoti
 
@@ -78,6 +78,7 @@ Objektų skaičius: 83.
 - [Lietuvių emigracijos tvarkymo reforma (1920–1929 m.)](../objektai/ivykiai/Lietuvi%C5%B3%20emigracijos%20tvarkymo%20reforma%20%281920%E2%80%931929%20m.%29)
 - [Lietuvių parapijų kūrimas Anglijoje ir Škotijoje (1905 m. ir vėliau)](../objektai/ivykiai/Lietuvi%C5%B3%20parapij%C5%B3%20k%C5%ABrimas%20Anglijoje%20ir%20%C5%A0kotijoje%20%281905%20m.%20ir%20v%C4%97liau%29)
 - [Lietuvių rubrikos įvedimas JAV gyventojų surašyme (prieš 1910 m.)](../objektai/ivykiai/Lietuvi%C5%B3%20rubrikos%20%C4%AFvedimas%20JAV%20gyventoj%C5%B3%20sura%C5%A1yme%20%28prie%C5%A1%201910%20m.%29)
+- [Lietuvos ir Latvijos sienos išvedimas (1921 m.)](../objektai/ivykiai/Lietuvos%20ir%20Latvijos%20sienos%20i%C5%A1vedimas%20%281921%20m.%29)
 - [Lietuvos kariuomenės kūrimo pradžia (1918 m. lapkričio 23 d.)](../objektai/ivykiai/Lietuvos%20kariuomen%C4%97s%20k%C5%ABrimo%20prad%C5%BEia%20%281918%20m.%20lapkri%C4%8Dio%2023%20d.%29)
 - [Lietuvos nepriklausomybės paskelbimas (1918 m. vasario 16 d.)](../objektai/ivykiai/Lietuvos%20nepriklausomyb%C4%97s%20paskelbimas%20%281918%20m.%20vasario%2016%20d.%29)
 - [Lietuvos nepriklausomybės pripažinimo aktas (1918 m. kovo 23 d.)](../objektai/ivykiai/Lietuvos%20nepriklausomyb%C4%97s%20pripa%C5%BEinimo%20aktas%20%281918%20m.%20kovo%2023%20d.%29)
@@ -90,6 +91,7 @@ Objektų skaičius: 83.
 - [Nepriklausomosios Latvių valstybės įkūrimas (1918 m. lapkričio 18 d.)](../objektai/ivykiai/Nepriklausomosios%20Latvi%C5%B3%20valstyb%C4%97s%20%C4%AFk%C5%ABrimas%20%281918%20m.%20lapkri%C4%8Dio%2018%20d.%29)
 - [Pirmasis naujokų šaukimas į Lietuvos kariuomenę (1919 m. kovo 5 d.)](../objektai/ivykiai/Pirmasis%20naujok%C5%B3%20%C5%A1aukimas%20%C4%AF%20Lietuvos%20kariuomen%C4%99%20%281919%20m.%20kovo%205%20d.%29)
 - [Pirmasis pasaulio lietuvių kongresas (1935 m.)](../objektai/ivykiai/Pirmasis%20pasaulio%20lietuvi%C5%B3%20kongresas%20%281935%20m.%29)
+- [Pirmasis Vilniaus krašto okupavimas (1919 m. balandžio 19 d.)](../objektai/ivykiai/Pirmasis%20Vilniaus%20kra%C5%A1to%20okupavimas%20%281919%20m.%20baland%C5%BEio%2019%20d.%29)
 - [Radviliškio kautynės (1919 m. lapkričio 21–22 d.)](../objektai/ivykiai/Radvili%C5%A1kio%20kautyn%C4%97s%20%281919%20m.%20lapkri%C4%8Dio%2021%E2%80%9322%20d.%29)
 - [Stokholmo konferencija (1917 m. spalių mėn.)](../objektai/ivykiai/Stokholmo%20konferencija%20%281917%20m.%20spali%C5%B3%20m%C4%97n.%29)
 - [Susivienijimo Lietuvių Amerikoje skilimas ir trečiojo susivienijimo atsiradimas (1901–1930 m.)](../objektai/ivykiai/Susivienijimo%20Lietuvi%C5%B3%20Amerikoje%20skilimas%20ir%20tre%C4%8Diojo%20susivienijimo%20atsiradimas%20%281901%E2%80%931930%20m.%29)

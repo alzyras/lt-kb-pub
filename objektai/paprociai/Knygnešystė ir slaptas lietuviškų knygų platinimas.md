@@ -18,6 +18,21 @@ tags:
 
 Lietuviškosios spaudos centru pasidarė Tilžė. Jis pats parašė daugybę knygučių ir joms išleisti nesigailėjo nei lėšų nei vargo. Kunigija iš pradžių daugiausia rūpinosi religinio turinio knygomis ir elementoriais, kurie buvo reikalingi vaikams mokyti.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Lietuviškosios spaudos centru pasidarė Tilžė.'

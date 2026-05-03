@@ -25,8 +25,20 @@ tags: []
 
 Kaltininkus sodindavo į viežą, plakdavo, kabindavo ir kitais būdais bausdavo; už mažesnius nusikaltimus sumokėti pinigai būdavo išgeriami per šventę.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: teisinė-administracinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

@@ -25,8 +25,20 @@ tags: []
 
 Vyresnybės įsakymai svietui buvo skelbiami specialia lazda, vadinama krivūle. Šios lazdos kaip valdžios ženklo atminimas Žemaitijoje išliko ir vėlesnėje kalboje.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: teisinė-administracinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

@@ -19,6 +19,21 @@ tags:
 
 Karalius Sobieskis, norėdamas, kad bajorija įprastų jo sūnų Jokūbą laikyti jo pavadutoju ir įpėdiniu, jam pavesdavo kariuomenės vadovybę, duodavo atlikti kitokių valstybinių darbų ir visuose iškilminguose aktuose laikydavo jį greta savęs.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Karalius Sobieskis, norėdamas, kad bajorija įprastų jo sūnų Jokūbą laikyti jo pavadutoju ir įpėdiniu, jam pavesdavo kariuomenės vadovybę, duodavo atlikti kitokių valstybinių darbų ir visuose iškilminguose aktuose laikydavo jį greta savęs.'

@@ -18,6 +18,18 @@ tags:
 
 Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žemaičių vyskupystėje (jis vyskupavo 1850—1875 m.; prieš jo vyskupavimą, 1849 m., Žemaičių vyskupystė buvo padidinta, — prie jos buvo pirskirtos 93 Vilniaus vyskupystės parapijos — Kauno. Pasisekimas buvo toks didelis, jog kai kuriose parapijose blaivybės brolijos nariais pasidarė net 97% visų gyventojų.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žemaičių vyskupystėje (jis vyskupavo 1850—1875 m.; prieš jo vyskupavimą, 1849 m., Žemaičių vyskupystė buvo padidinta, — prie jos buvo pirskirtos 93 Vilniaus vyskupystės parapijos — Kauno.'

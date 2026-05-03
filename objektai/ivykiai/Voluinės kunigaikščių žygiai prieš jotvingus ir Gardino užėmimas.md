@@ -19,6 +19,18 @@ tags:
 
 Voluinės kunigaikščiams geriau sekėsi kariauti su jotvingais, ir iki XIII amž. pradžios jie jau buvo paėmę net Gardiną. Tuo būdu XIII amž. pradžioje, kai Mindaugas pradėjo kurti Lietuvos valstybę, Voluinės kunigaikštijos siena ėjo aukščiau Gardino ir nyko kažkur miškuose.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Voluinės kunigaikščiams geriau sekėsi kariauti su jotvingais, ir iki XIII amž. pradžios jie jau buvo paėmę net Gardiną.'

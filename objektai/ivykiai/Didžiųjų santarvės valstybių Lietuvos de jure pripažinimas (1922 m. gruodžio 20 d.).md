@@ -19,6 +19,18 @@ tags:
 
 Anglija, Prancūzija, Italija ir Japonija pripažino tiktai 1922 metų gruodžio 20 dieną, pateikusios sąlygą, kad Lietuva pripažintų Versalio sutarties nuostatus, liečiančius Nemuno navigacijos režimą, t.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Anglija, Prancūzija, Italija ir Japonija pripažino tiktai 1922 metų gruodžio 20 dieną, pateikusios sąlygą, kad Lietuva pripažintų Versalio sutarties nuostatus, liečiančius Nemuno navigacijos režimą, t.'

@@ -19,6 +19,18 @@ tags:
 
 Atvykęs pas Lenkų kunigaikštį Boleslovą Narsųjį, gavo apsaugą ir išvyko į aisčių kraštą. Tačiau tas nieko nepadėjo: misijonieriams čia nesisekė platinti krikščionybės. Bet vieną rytą, kai visi trys misijonieriai atlaikė mišias, juos užpuolė vietiniai gyventojai ir nužudė vyskupą Vaitiekų.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Atvykęs pas Lenkų kunigaikštį Boleslovą Narsųjį, gavo apsaugą ir išvyko į aisčių kraštą.'

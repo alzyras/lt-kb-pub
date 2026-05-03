@@ -25,6 +25,21 @@ tags: []
 
 Tris dievų stabai buvo įstatyti ąžuolo uoksuose. Per metines viešas aukas prie aukuro ir stabo buvo meldžiamasi šėtroje.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tris dievų stabai buvo įstatyti ąžuolo uoksuose.'

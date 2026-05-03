@@ -17,6 +17,18 @@ tags:
 
 Šią kurį laiką (1884—5 m.) redagavo į Ameriką atvykęs dr. J.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Šią kurį laiką (1884—5 m.) redagavo į Ameriką atvykęs dr. J.'

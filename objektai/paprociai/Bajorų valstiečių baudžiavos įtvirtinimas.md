@@ -19,6 +19,21 @@ tags:
 
 Ją išsirūpindama, bajorija nepamiršo nė savęs. Jau Zigmantas bajorų valstiečius buvo atleidęs (1434 m.) nuo mokesčių javais; dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remontavimo, nuo pareigos piauti didžiojo kunigaikščio dvarų pievas ir pagaliau nuo piniginio mokesčio. Bajorija, trokšdama pelno, kaskart vis labiau spaudė savo valstiečius.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Ją išsirūpindama, bajorija nepamiršo nė savęs.'

@@ -18,6 +18,21 @@ tags:
 
 Zigmanto Vazos pinigai: 30 — šilingas; 31 ir 32 — skatikai; 33 — trečiokas; 34 — portugalas (=10 dukatų).
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Zigmanto Vazos pinigai: 30 — šilingas; 31 ir 32 — skatikai; 33 — trečiokas; 34 — portugalas (=10 dukatų).'

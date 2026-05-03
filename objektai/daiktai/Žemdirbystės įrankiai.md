@@ -18,6 +18,21 @@ tags:
 
 Lydimojoje žemdirbystėje laukas buvo purenamas žagre. Geležinis kirvis padėjo apaugusius plotus paversti dirva.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Lydimojoje žemdirbystėje laukas buvo purenamas žagre.'

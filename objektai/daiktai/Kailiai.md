@@ -17,6 +17,21 @@ tags:
 
 Kailiai buvo vienas svarbiausių Lietuvos ūkio produktų užsieniui. Kailiais buvo mokama duoklė.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kailiai buvo vienas svarbiausių Lietuvos ūkio produktų užsieniui.'

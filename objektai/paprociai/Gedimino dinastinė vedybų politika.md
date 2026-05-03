@@ -16,6 +16,21 @@ tags: []
 
 Gediminas valstybę stiprino ne tik karu ir diplomatija, bet ir dinastinėmis vaikų vedybomis. Ši politika tęsėsi jo sūnų ir palikuonių santuokomis su rusų kunigaikštytėmis bei rusų papročių perėmimu rytinėse valdose.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tačiau ir čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo sūnų bei dukterų vedybomis.'

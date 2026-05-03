@@ -17,6 +17,21 @@ tags:
 
 Nors šiaipjau visi seimai būdavo labai audringi, atstovai juose mėgdavo daug kalbėti, ir po ilgų kalbų seimas dažniausiai iširdavo (iš Augusto II iki tol šauktų seimų buvo iširę net 7), bet dabar niekas nedrįso kalbėti.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Nors šiaipjau visi seimai būdavo labai audringi, atstovai juose mėgdavo daug kalbėti, ir po ilgų kalbų seimas dažniausiai iširdavo (iš Augusto II iki tol šauktų seimų buvo iširę net 7), bet dabar niekas nedrįso kalbėti.'

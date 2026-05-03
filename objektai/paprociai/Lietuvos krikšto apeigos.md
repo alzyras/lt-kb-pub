@@ -18,6 +18,21 @@ tags:
 
 Lietuvos krikštas buvo vykdomas kaip aiškiai suorganizuota apeiginė ir politinė praktika: pirmiausia krikštyti bajorai, naikintos pagoniškos šventvietės, gyventojai skirstyti į būrius, duoti nauji vardai ir balti rūbai. Krikšto teikimas neapsiribojo Vilniumi, bet buvo tęsiamas ir kitose vietose, steigiamose parapijose.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Bet atlikus krikšto apeigas ir suorganizavus Bažnyčią, pasauliui jau buvo galima skelbti, kad Lietuva esanti krikščioniškas kraštas, kad ordinas, nesiliaudamas ją pulti, nusikalstąs.'

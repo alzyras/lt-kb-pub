@@ -25,6 +25,18 @@ tags:
 
 Mindaugas, naudodamasis savo priešų nesantaika, susitaikė su Livonijos ordino magistru Andriumi von Stirland ir po to 1250 m. gale ar 1251 m. pradžioje priėmė krikštą. Kartu su juo krikštijosi jo sūnūs, žmona Morta ir didelė daugybė jam pavaldžių pagonių.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Mindaugas susitaikė su Livonijos ordino magistru Andriumi von Stirland, kuris su juo padarė taiką ir skatino krikštytis.'

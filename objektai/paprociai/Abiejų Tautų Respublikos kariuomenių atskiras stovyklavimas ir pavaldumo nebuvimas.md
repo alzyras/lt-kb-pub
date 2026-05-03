@@ -25,8 +25,20 @@ tags: []
 
 Respublikoje veikė dvi atskiros kariuomenės, kurioms vadovavo skirtingi etmonai. Karūnos ir Lietuvos kariuomenės stovyklas įsirengdavo atskirai ir viena kitai neįsakinėdavo.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: politinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-002

@@ -31,6 +31,18 @@ tags:
 
 1219 m. grupė Lietuvos kunigų sudarė sutartį su Volinijos kunigaikščio Romano našle. Šaltinyje pabrėžiama, kad Ipatijaus metraštis mini 21 šios sutarties dalyvio vardą, tarp jų Živinbudą, Daujotą, Dausprungą ir Mindaugą.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1219 m. grupė Lietuvos kunigų sudarė sutartį su Volinijos kunigaikščio Romano našle.'

@@ -17,6 +17,21 @@ tags:
 
 Apsiginklavę daugiausia medžiokliniais šautuvais, dalgiais ir kitais menkais ginklais, sukilėliai rinkosi giriose.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Apsiginklavę daugiausia medžiokliniais šautuvais, dalgiais ir kitais menkais ginklais, sukilėliai rinkosi giriose.'

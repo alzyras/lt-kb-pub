@@ -18,6 +18,18 @@ tags:
 
 Pirmasis Vilniaus krašto okupavimas.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Pirmasis Vilniaus krašto okupavimas.'
@@ -39,3 +51,7 @@ Pirmasis Vilniaus krašto okupavimas.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]

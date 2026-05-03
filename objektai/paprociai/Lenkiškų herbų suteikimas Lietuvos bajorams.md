@@ -19,6 +19,21 @@ tags:
 
 Vartojusieji vienodą herbą buvo laikomi giminėmis, nors tarp jų ir nebūdavo kraujo giminystės. Tuo būdu lenkiškus herbus gavo 47 Vytauto parinktosios Lietuvos bajorų šeimos. Lietuvos ir Lenkijos bajorams suartinti, Horodlėje buvo nutarta Lietuvos bajorams suteikti lenkiškus herbus.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Vartojusieji vienodą herbą buvo laikomi giminėmis, nors tarp jų ir nebūdavo kraujo giminystės.'

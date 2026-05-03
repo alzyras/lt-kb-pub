@@ -18,6 +18,18 @@ tags:
 
 1639 m. tyčia ar netyčia iš kalvinų bažnyčios šventoriaus kažkas įšovė pro langą į pranciškonių vienuolyno bažnyčią. Paskui prasidėjo ilga byla, ir galų gale seimo sprendimu kalvinų bažnyčia Vilniuje buvo nugriauta.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1639 m. tyčia ar netyčia iš kalvinų bažnyčios šventoriaus kažkas įšovė pro langą į pranciškonių vienuolyno bažnyčią.'

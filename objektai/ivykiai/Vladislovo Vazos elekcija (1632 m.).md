@@ -17,6 +17,18 @@ tags:
 
 Pati elekcija užtruko vos^1 /2 valandos, nes Vladislovo priešų nebuvo.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Pati elekcija užtruko vos^1 /2 valandos, nes Vladislovo priešų nebuvo.'

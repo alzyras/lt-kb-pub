@@ -18,6 +18,18 @@ tags:
 
 Bet Herasimo sąmokslas buvo susektas, ir jis, Švitrigailos įsakymu, buvo sudegintas ant laužo, o Smolenskas liko, kaip buvęs, Švitrigailos valdžioje.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Bet Herasimo sąmokslas buvo susektas, ir jis, Švitrigailos įsakymu, buvo sudegintas ant laužo, o Smolenskas liko, kaip buvęs, Švitrigailos valdžioje.'

@@ -30,8 +30,20 @@ tags: []
 
 Lydimoji žemdirbystė rėmėsi išskinto ir nudeginto miško sklypo pavertimu dirbamu lauku. Lietuvoje ji buvo plačiai vartojama iki XVI amžiaus vidurio, po valakų reformos ėmė nykti, bet kai kur išsilaikė net XIX amžiuje.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: kasdienybės praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

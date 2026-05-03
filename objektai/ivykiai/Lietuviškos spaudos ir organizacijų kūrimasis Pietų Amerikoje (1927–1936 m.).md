@@ -18,6 +18,18 @@ tags:
 
 Lietuviškoji spauda, pirmasis laikraštis („Brazilijos Lietuvis"), čia atsirado 1927 m. Tiesa, jis ėjo neilgai, bet tuojau jo vietoj atsirado naujų lietuviškų laikraščių. Be to, Sao Paule jau suorganizuota lietuviškoji parapija ir pastatyta bažnyčia (pašventinta 1936 m. vasario 16 d.). Jo rūpesčiu buvo įkurta lietuvių katalikų bendruomenė, nemaža kitų organizacijų ir lietuviškoji 3 skyrių mokykla (joje yra apie 100 mokinių).
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Lietuviškoji spauda, pirmasis laikraštis („Brazilijos Lietuvis"), čia atsirado 1927 m. Tiesa, jis ėjo neilgai, bet tuojau jo vietoj atsirado naujų lietuviškų laikraščių.'

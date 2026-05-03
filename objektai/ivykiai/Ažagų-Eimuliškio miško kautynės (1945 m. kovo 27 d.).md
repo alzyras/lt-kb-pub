@@ -37,6 +37,18 @@ tags:
 
 NKVD divizija puolė partizanus Panevėžio apskrityje, partizanai pasitraukė į Ažagų-Eimuliškio miškus, o mūšis prasidėjo kovo 27 d. ryte. 1945 m. kovo pradžioje NKVD divizija pradėjo puolimą prieš Pušaloto, Pasvalio ir Žaliosios girios partizanus Puolimas buvo vykdomas iš vakarų į rytus, siekiant atkirsti partizanų trauktis kelius, o kovo 27 d. mūšis prasidėjo 7 val. ryto.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1945 m. kovo pradžioje NKVD divizija pradėjo puolimą prieš Pušaloto, Pasvalio ir Žaliosios girios partizanus.'

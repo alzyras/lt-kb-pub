@@ -16,6 +16,18 @@ tags:
 
 23 d. Tarybos delegacija pranešė Vokietijos kancleriui Hertlingui nepriklausomybės paskelbimą tokį, koks jis buvo padarytas vasario 16 d., tačiau pažymėjo, kad būsimieji santykiai su Vokietija bus svarstomi gruodžio 11 d. pagrindais.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '23 d. Tarybos delegacija pranešė Vokietijos kancleriui Hertlingui nepriklausomybės paskelbimą tokį, koks jis buvo padarytas vasario 16 d., tačiau pažymėjo, kad būsimieji santykiai su Vokietija bus svarstomi gruodžio 11 d. pagrindais.'

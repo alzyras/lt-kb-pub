@@ -25,8 +25,20 @@ tags: []
 
 Husarų vėliavų branduolį sudarė turtingi bajorai - draugai. Kiekvienas draugas atsivesdavo palydą ir tarnus, o palydą ginklais, šarvais ir žirgais aprūpindavo pats draugas.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: socialinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

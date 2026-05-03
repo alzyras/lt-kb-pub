@@ -19,6 +19,21 @@ tags:
 
 Lietuvos žalvario amžiaus dirbinių aprašyme minimi kirviai, durklai, iečių galai, piautuvai, skustuvai ir papuošalai. Šiame šaltinyje bronzos amžius Pabaltijyje tiesiogiai datuojamas 1600-500 m. pr. Kr.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Lietuvos žalvario (bronzos) amžiaus dirbiniai: 1 — 10 kirviai, 11 — 13 kalavijai, 14, 19—21 iečių galai, 15—21 papuošalai, statulėlė, 22, 24—31 kirviai.'

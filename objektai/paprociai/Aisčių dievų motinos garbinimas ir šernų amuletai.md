@@ -28,8 +28,20 @@ tags:
 
 Tacito aprašyti aisčiai garbino dievų motiną ir nešiojo šernų amuletus. Ši religinė praktika rodoma greta rūpestingo javų auginimo ir gintaro rinkimo Baltijos pakrantėje.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: religinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

@@ -17,6 +17,18 @@ tags:
 
 Voldemarui sudaryti pirmą nepriklausomosios Lietuvos kabinetą, kurs pradėjo veikti lapkričio 11 d., — tą pačią dieną, kai Vokiečiai, pralaimėję karą, turėjo pasirašyti preliminarines kapituliacijos sąlygas. Šio antrojo kabineto pirmininku buvo M.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Voldemarui sudaryti pirmą nepriklausomosios Lietuvos kabinetą, kurs pradėjo veikti lapkričio 11 d., — tą pačią dieną, kai Vokiečiai, pralaimėję karą, turėjo pasirašyti preliminarines kapituliacijos sąlygas.'

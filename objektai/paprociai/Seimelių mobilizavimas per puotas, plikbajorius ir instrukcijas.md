@@ -19,6 +19,21 @@ tags:
 
 Politinis gyvenimas ėjo seimeliuose. Seimelio vaizdai, aprašyti daugelio ano meto žmonių, tiesiog šiurpūs.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Politinis gyvenimas ėjo seimeliuose.'

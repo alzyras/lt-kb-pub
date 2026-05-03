@@ -17,6 +17,21 @@ tags:
 
 Jie turėjo tik įvairių apeiginių statulų bei stulpų, ant kurių dėjo aukas, bet tai nebuvo dievai.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Jie turėjo tik įvairių apeiginių statulų bei stulpų, ant kurių dėjo aukas, bet tai nebuvo dievai.'

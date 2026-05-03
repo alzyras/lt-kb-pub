@@ -26,6 +26,9 @@ tags:
 ## Santrauka
 Muštiniai buvo specialūs pailgi sidabro gabalai su pažymėtąja verte, naudoti kaip atsiskaitymo priemonė. Šaltinyje jie minimi tarp vėlesniųjų senovės aisčių vartotų piniginių pakaitalų.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
 ## Laikotarpis ir datos
 - Laikotarpis: senovės aisčių vėlesnieji laikai
 - Periodas: senovė
@@ -35,6 +38,9 @@ Muštiniai buvo pailgi sidabro gabalai, kuriems buvo suteikta pažymėta vertė.
 
 ## Naudojimas
 Jie vartoti vietoj savų pinigų, greta svetimųjų pinigų ir paprastų aukso ar sidabro gabalų.
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

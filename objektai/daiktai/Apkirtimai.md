@@ -17,6 +17,21 @@ tags:
 
 Žemaičių aukštumose buvo įrengtos suverstų šakotų ir aštriais dygliais medžių užtvaros, vadinamos apkirtimais. Tokios užtvaros dar vadintos indagines ir hegene.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Žemaičių aukštumose buvo įrengtos suverstų šakotų ir aštriais dygliais medžių užtvaros, vadinamos apkirtimais.'

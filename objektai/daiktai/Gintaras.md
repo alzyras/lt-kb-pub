@@ -25,6 +25,21 @@ tags: []
 
 Aukojant dievams degindavo gintarus kartu su kitomis aukojimo medžiagomis.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Aukojant dievams degindavo gintarus kartu su kitomis aukojimo medžiagomis.'

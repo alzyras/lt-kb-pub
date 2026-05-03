@@ -10,7 +10,8 @@ variantai:
   - 'Mėlynuosius Vandenis'
   - 'Mėlynaisiais Vandenimis'
   - 'Mėlynieji Vandenys'
-aliases: []
+aliases:
+  - '[]'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
@@ -49,6 +50,18 @@ tags:
 ## Santrauka
 
 1362 m. Algirdas prie Mėlynųjų Vandenų sumušė totorius. Šaltinyje šio mūšio padariniai siejami su Podolės, Dniepro žemupio ir Kijevo kunigaikštystės įjungimu į Lietuvos valstybės orbitą.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
 
 ## Teiginiai
 - t-001

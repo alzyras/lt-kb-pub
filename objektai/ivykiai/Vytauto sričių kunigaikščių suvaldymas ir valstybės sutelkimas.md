@@ -19,6 +19,18 @@ tags:
 
 Bet Vytautas iš pat pradžių parodė tvirtą valdovo ranką, ir visi nepaklusnūs kunigaikščiai buvo ne tik suvaldyti, bet net pašalinti iš savo vietų; jų vietose buvo pastatyti Vytauto vietininkai bajorai. Švitrigaila buvo apsuptas didelės Vytauto kariuomenės, suimtas ir išsiųstas Jogailai į Krokuvą. Tuo būdu tiesioginei Vytauto valdžiai atiteko ir ši, viena iš stambiausiųjų kunigaikštysčių.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Bet Vytautas iš pat pradžių parodė tvirtą valdovo ranką, ir visi nepaklusnūs kunigaikščiai buvo ne tik suvaldyti, bet net pašalinti iš savo vietų; jų vietose buvo pastatyti Vytauto vietininkai bajorai.'

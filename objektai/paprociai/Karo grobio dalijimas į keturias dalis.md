@@ -25,8 +25,20 @@ tags: []
 
 Karo grobis visada buvo dalijamas į keturias dalis, kurių kiekviena turėjo aiškų gavėją.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: socialinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

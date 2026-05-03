@@ -17,6 +17,21 @@ tags:
 
 Augusto II pinigai: 42 — trečiokas; 43 — šeštokas.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Augusto II pinigai: 42 — trečiokas; 43 — šeštokas.'

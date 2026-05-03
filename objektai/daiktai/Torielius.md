@@ -25,6 +25,21 @@ tags: []
 
 Viršaitis per apeigą duonos šmotelį padėjo ant torieliaus.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Viršaitis per apeigą duonos šmotelį padėjo ant torieliaus.'

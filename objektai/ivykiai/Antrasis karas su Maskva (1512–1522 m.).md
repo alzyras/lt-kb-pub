@@ -17,6 +17,18 @@ tags:
 
 Karas prasidėjo 1512 m. Visos Maskvos jėgos buvo nukreiptos į Smolenską.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Karas prasidėjo 1512 m. Visos Maskvos jėgos buvo nukreiptos į Smolenską.'

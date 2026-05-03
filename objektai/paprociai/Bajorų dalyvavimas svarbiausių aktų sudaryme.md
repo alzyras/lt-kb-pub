@@ -19,6 +19,21 @@ tags:
 
 Lietuvos bajorai svarbiausių valstybės aktų sudaryme dalyvaudavo ne tik kaip sutarties patvirtintojai, bet ir kaip liudininkai bei garantai. Vytauto politiniuose žygiuose ir sutartyse daugiausia veikė tikrosios Lietuvos kilmingieji ir pareigūnai.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Visa tai buvo sutarta bendrame Lietuvos ir Lenkijos valdovų ir bajorų suvažiavime Horodlėje.'

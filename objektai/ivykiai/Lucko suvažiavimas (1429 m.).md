@@ -20,6 +20,19 @@ tags:
 1429 m. turėjo įvykti valdovų suvažiavimas rytų Europos politikos klausimams apsvarstyti. Suvažiavimo šeimininkas, Vytautas, turėjo progos parodyti savo vaišingumą.
 
 Šaltinis šį suvažiavimą tiesiogiai susieja su artėjančiu Vytauto vainikavimo konfliktu.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1429 m. turėjo įvykti valdovų suvažiavimas rytų Europos politikos klausimams apsvarstyti.'
@@ -34,6 +47,7 @@ tags:
   teiginys: '1429 m. Vytautas sukvietė Lucko suvažiavimą, kai tarp Lietuvos ir Lenkijos turėjo pratrūkti įtampa dėl vainikavimo.'
   pagrindžia:
     - c-003
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1429 m. turėjo įvykti valdovų suvažiavimas rytų Europos politikos klausimams apsvarstyti.'

@@ -19,6 +19,21 @@ tags:
 
 Ir iš tikro 1817 metų seimeliai rinkosi baudžiavos panaikinimo šūkiais. Kas treji metai bajorija galėjo rinktis į seimelius Apskrities seimely ji svarstydavo savo reikalus ir išrinkdavo atstovus į apskrities įstaigas.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Ir iš tikro 1817 metų seimeliai rinkosi baudžiavos panaikinimo šūkiais.'

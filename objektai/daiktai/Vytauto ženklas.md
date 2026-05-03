@@ -18,6 +18,21 @@ tags:
 
 Vytautas reikalavo, kad chanas savo piniguose muštų Vytauto ženklą.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Vytautas reikalavo, kad chanas savo piniguose muštų Vytauto ženklą.'

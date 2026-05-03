@@ -17,6 +17,18 @@ tags:
 
 Be minėtų sumetimų, Jogailą vertė artintis su kryžiuočiais dar reikalas paramos prieš pavojų jo valdžiai.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Be minėtų sumetimų, Jogailą vertė artintis su kryžiuočiais dar reikalas paramos prieš pavojų jo valdžiai.'

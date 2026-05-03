@@ -17,6 +17,21 @@ tags:
 
 Brūkšniuotoji keramika čia figūruoja kaip Lietuvos archeologinių tyrimų objektas.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'E. Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje.'

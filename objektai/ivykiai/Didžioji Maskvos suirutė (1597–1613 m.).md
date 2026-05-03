@@ -18,6 +18,18 @@ tags:
 
 Lenkų ponų padedamas, jis 1605 m. užėmė Maskvą. Maskvoj nebuvo ramybės nė dabar. Su juo prasidėjo naujoji Maskvos, o vėliau „visos Rusijos" carų dinastija, kuri išgyvavo iki 1917 m. revoliucijos (iš tikrųjų Romanovų vyriškoji linija išmirė jau XVIII amžiuje, tačiau carai tebesivadino Romanovais iki pat galo).
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Lenkų ponų padedamas, jis 1605 m. užėmė Maskvą.'

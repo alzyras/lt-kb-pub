@@ -245,5 +245,6 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
 - [[laikotarpiai/XV amžius]]
 
 ### Susiję objektai
+- [[objektai/grupes/Jogailos palikuonys]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/daiktai/Vėliavos]]

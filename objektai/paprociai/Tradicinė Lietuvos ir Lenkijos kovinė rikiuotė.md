@@ -25,8 +25,20 @@ tags: []
 
 XV a. pabaigoje - XVI a. pradžioje Lietuvoje ir Lenkijoje susiformavo ilgam tradicine tapusi kovinė rikiuotė. Mūšio centre dviem ešelonais buvo rikiuojamos sunkiųjų raitelių vėliavos, o lengvoji raitija veikdavo sparnuose.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: socialinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

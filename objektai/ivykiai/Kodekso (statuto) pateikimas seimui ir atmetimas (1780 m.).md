@@ -19,6 +19,18 @@ tags:
 
 Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti. Kadangi projektas buvo iš anksto išspausdintas, tai bajorija šaukte šaukė ant jo dar seimeliuose, o atstovai, susirinkę į seimą, atmetė jį net nesvarstę. (Lietuvos bajorija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsižadėti savo statuto, t.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.'

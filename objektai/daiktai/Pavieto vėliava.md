@@ -19,6 +19,21 @@ tags:
 
 Po jo ėjo pakamorė, sprendęs žemės ribų bylas, ir vėliavininkas, kurs, bajorijai einant į karą, nešdavo pavieto vėliavą. Pašauktas į karą, kiekvienas bajoras turėdavo stoti po savo pavieto vėliava, kurią nešdavo pavieto vėliavininkas.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Po jo ėjo pakamorė, sprendęs žemės ribų bylas, ir vėliavininkas, kurs, bajorijai einant į karą, nešdavo pavieto vėliavą.'

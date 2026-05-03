@@ -16,6 +16,21 @@ tags:
 
 Jei kartais koks seniūnas nenorėdavo to laikytis, reikalaudavo daugiau, tai valstiečiai galėjo skųstis.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Jei kartais koks seniūnas nenorėdavo to laikytis, reikalaudavo daugiau, tai valstiečiai galėjo skųstis.'

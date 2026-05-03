@@ -19,6 +19,21 @@ tags:
 
 Dar patvirkusio girtuoklio karaliaus Augusto II laikais didikai, o nuo jų ir bajorija, išmoko tik puotauti ir girtauti.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Dar patvirkusio girtuoklio karaliaus Augusto II laikais didikai, o nuo jų ir bajorija, išmoko tik puotauti ir girtauti.'

@@ -17,6 +17,21 @@ tags:
 
 Jono Kazimiero pinigai: 35 — šilingas; 36 — trečiokas; 37 — šeštokas; 38 — orta (=18 skatikų); 39 — pusdukatis (auksinis); 40 — dukatas.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Jono Kazimiero pinigai: 35 — šilingas; 36 — trečiokas; 37 — šeštokas; 38 — orta (=18 skatikų); 39 — pusdukatis (auksinis); 40 — dukatas.'

@@ -17,6 +17,21 @@ tags:
 
 Tie generaliniai seimeliai neišnyko nė įvedus bendrą su lietuviais seimą. Tie posėdžiai būdavo vadinami „provincijų sesijomis" (sesijomis tada vadindavo ir kiekvienos dienos seimo posėdį; dabar sesijomis vadinamas visas parlamento veikimo metas tarp dviejų atostogų arba šiaip tarp dviejų pertraukų).
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tie generaliniai seimeliai neišnyko nė įvedus bendrą su lietuviais seimą.'

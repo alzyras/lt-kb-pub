@@ -19,6 +19,21 @@ tags:
 
 Buvo sušaukta nemaža bendrų seimų, tačiau jie, nieko neišsprendę, pasibaigdavo gana triukšmingai, ir abi pusės, nepatenkintos Kazimieru, grasino jį pašalinti. Kartais lietuviams Lenkijoje būdavo pavojinga net pasirodyti, ir į vieną seimą (Parčavoj) jie sutiko nuvažiuoti tik tada, kai Kazimieras pats atvyko nuo pat sienos jų palydėti (1451 m.). Šiuo susitarimu buvo norima įkurti viena jungtinė valstybė, kuri turėtų bendrą seimą, bendrai vienoje vietoje rinktąjį valdovą, bendrą apsaugą ir bendrus pinigus.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Buvo sušaukta nemaža bendrų seimų, tačiau jie, nieko neišsprendę, pasibaigdavo gana triukšmingai, ir abi pusės, nepatenkintos Kazimieru, grasino jį pašalinti.'

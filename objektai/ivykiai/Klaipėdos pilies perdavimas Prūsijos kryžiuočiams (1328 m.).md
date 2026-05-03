@@ -18,6 +18,18 @@ tags:
 
 Jo pastatytoji Klaipėdos pilis buvo atkirsta, ir su ja ordinas galėjo susisiekti tik jūra.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Jo pastatytoji Klaipėdos pilis buvo atkirsta, ir su ja ordinas galėjo susisiekti tik jūra.'

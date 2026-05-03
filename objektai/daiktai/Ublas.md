@@ -25,6 +25,21 @@ tags: []
 
 Ublas buvo smalos pečius, kuriame degino dervą, smalą ir degutą.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Ublas buvo smalos pečius, kuriame degino dervą, smalą ir degutą.'

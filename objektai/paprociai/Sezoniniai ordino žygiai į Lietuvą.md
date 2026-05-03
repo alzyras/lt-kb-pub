@@ -17,6 +17,21 @@ tags:
 
 Ordinas reguliariai rengdavo žygius į Lietuvą pagal nusistovėjusią sezoninę reysų sistemą. Žygiai būdavo planuojami žiemą ir vasaros viduryje, o XIV amžiaus antroje pusėje jų mastą rodo dešimtys kronikose suregistruotų puolimų iš Prūsijos ir Livonijos.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Ordinas gebėjo kasmet suruošti į Lietuvą ne mažiau, kaip du žygius: vienas paprastai būdavo sausio ar vasario mėnesį, o antras — vasaros gale, dažniausiai rugpiūčio mėnesį.'

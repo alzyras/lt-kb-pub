@@ -25,6 +25,21 @@ tags: []
 
 Kariai ant savo apdaro kartais užsimesdavo baltą trinytinį maišą su rankovėmis.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kariai ant savo apdaro kartais užsimesdavo baltą trinytinį maišą su rankovėmis.'

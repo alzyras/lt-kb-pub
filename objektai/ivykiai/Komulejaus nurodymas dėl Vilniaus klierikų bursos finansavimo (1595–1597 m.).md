@@ -18,6 +18,18 @@ tags:
 
 Todėl 1595—1597 m. Vilniaus vyskupiją vizitavęs nuncijo atsiųstas pralotas Komuliejus (Comuleus) įsakė kasmet iš vyskupijos pajamų pridėti klierikų bursai po 3.000, o seminarijai po 10.000 auksinų.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Todėl 1595—1597 m. Vilniaus vyskupiją vizitavęs nuncijo atsiųstas pralotas Komuliejus (Comuleus) įsakė kasmet iš vyskupijos pajamų pridėti klierikų bursai po 3.000, o seminarijai po 10.000 auksinų.'

@@ -17,6 +17,21 @@ tags:
 
 Po Vytauto, iki Aleksandro laikų, Lietuvoje pinigai vėl nebebuvo kalami. Alekandro pinigai: 11 — pinigėlis; 12 — pusskatikis; 13 — skatikas (skatikai, nevykusiai nukalti, nebuvo leidžiami į apyvartą).
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Po Vytauto, iki Aleksandro laikų, Lietuvoje pinigai vėl nebebuvo kalami.'

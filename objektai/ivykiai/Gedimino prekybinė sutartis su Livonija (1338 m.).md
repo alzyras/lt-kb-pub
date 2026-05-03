@@ -33,6 +33,18 @@ tags:
 
 1338 m. lapkričio 1 d. Gediminas su Livonija sudarė prekybinę sutartį. Šaltinis tai mini kaip faktą, paneigiantį klaidingą aiškinimą, esą Gediminas tais metais būtų žuvęs Veliuonos apguloje.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1338 m. lapkričio 1 d. Gediminas su Livonija sudarė prekybinę sutartį.'

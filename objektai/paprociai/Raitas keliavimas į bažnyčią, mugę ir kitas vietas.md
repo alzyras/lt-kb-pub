@@ -25,8 +25,20 @@ tags: []
 
 Raitas keliavimas lietuviams buvo laikomas garbingesniu už važiuotą, o jauni žemaičiai į bažnyčią ir mugę mieliau jodavo, negu važiuodavo. Žirgų turėjimas ir jų gražybė buvo jaunuomenės garbės dalykas.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: socialinė norma
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

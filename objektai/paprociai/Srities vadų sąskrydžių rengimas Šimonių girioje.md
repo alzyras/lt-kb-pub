@@ -25,8 +25,20 @@ tags: []
 
 Šimonių girioje bazavosi srities vadovybė. Šimonių girioje būdavo rengiami srities vadų sąskrydžiai.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: politinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

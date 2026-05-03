@@ -46,6 +46,12 @@ Dviašmenis kalavijas šaltinyje apibūdinamas kaip X-XI a. Vakarų Europoje pap
 
 Šaltasis ginklas, šiame šaltinyje aptariamas kaip vakarietiško tipo kalavijas ir kaip Lietuvos kapinynuose randamas radinys.
 
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: Dviašmenis kalavijas šaltinyje apibūdinamas kaip X-XI a. Vakarų Europoje paplitęs ginklas.

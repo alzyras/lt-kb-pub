@@ -10,7 +10,8 @@ variantai:
   - 'Tannenbergo kautynės'
   - 'Grunwaldo mūšis'
   - 'Griunvaldo mūšis'
-aliases: []
+aliases:
+  - '[]'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -45,6 +46,18 @@ tags:
 ## Santrauka
 
 Mūšis įvyko 1410 m. liepos 15 d. ordino žemėje tarp Tannenbergo ir Grunwaldo. Ivinskis jį aprašo kaip pusbrolių Vytauto ir Jogailos bendro karinio plano rezultatą, kuriame Vytautas kautynių metu aktyviai tvarkė pulkus, o ordino kariuomenė buvo visiškai sutriuškinta.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
 
 ## Teiginiai
 - t-001
@@ -309,6 +322,9 @@ Mūšis įvyko 1410 m. liepos 15 d. ordino žemėje tarp Tannenbergo ir Grunwald
     - t-008
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/sukilimas]]
+
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
 

@@ -19,6 +19,21 @@ tags:
 
 Tačiau šiuo kartu jau buvo nuspręsta įkurti Lietuvoje tokį pat krašto valdomąjį aparatą, koks buvo Lenkijoj; be to, buvo garantuota, kad visos steigiamos valstybės urėdų vietos bus duodamos tik bajorams katalikams. O tokie, lenkų pavyzdžiu naujai įvesti, urėdai turėjo būti vaivados ir kaštelionai; jie turėjo gauti tam tikrų teisių krašto valdyme ir karo atveju turėjo vadovauti savo vaivadijos bajorams.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tačiau šiuo kartu jau buvo nuspręsta įkurti Lietuvoje tokį pat krašto valdomąjį aparatą, koks buvo Lenkijoj; be to, buvo garantuota, kad visos steigiamos valstybės urėdų vietos bus duodamos tik bajorams katalikams.'

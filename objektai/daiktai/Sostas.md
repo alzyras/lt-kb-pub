@@ -19,6 +19,21 @@ tags:
 
 Kandidatų į sostą buvo nemaža. Pradžioje visi eidavo pabučiuoti soste sėdinčiajam karaliui rankos, o po to kancleris arba vicekancleris pareikšdavo karaliaus pasiūlymus, t.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kandidatų į sostą buvo nemaža.'

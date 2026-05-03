@@ -25,8 +25,20 @@ tags: []
 
 Svietas, į kuopas suėjęs, rinko dorus, išmintingus ir viso prityrusius vyrus ūkės lietai rėdyti. Odino mokslas įsakė svietui vaikščioti į kuopas ir sueimus, kad ten teirautųsi ūkės reikalų. Šaltinyje minimos ir kitos su šia praktika susijusios detalės.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: politinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

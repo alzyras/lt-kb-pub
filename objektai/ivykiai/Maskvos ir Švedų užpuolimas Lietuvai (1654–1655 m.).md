@@ -16,6 +16,18 @@ tags:
 
 Jie dar keletą kartų buvo sušaukti ir vėliau, kai Lietuvą užpuldavo koks priešas (pav., 1654—5 m., ją užpuolus Maskvai su Švedais), bet pagaliau jie visiškai išnyko.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Jie dar keletą kartų buvo sušaukti ir vėliau, kai Lietuvą užpuldavo koks priešas (pav., 1654—5 m., ją užpuolus Maskvai su Švedais), bet pagaliau jie visiškai išnyko.'

@@ -16,6 +16,18 @@ tags:
 
 Zigmanto nužudymas 1440 m. Zigmantas, ruošęsis atgauti visišką Lietuvos nepriklausomybę, staiga buvo nužudytas savo paties ponų.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Zigmanto nužudymas 1440 m. Zigmantas, ruošęsis atgauti visišką Lietuvos nepriklausomybę, staiga buvo nužudytas savo paties ponų.'

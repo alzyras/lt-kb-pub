@@ -27,6 +27,9 @@ tags:
 ## Santrauka
 Birka buvo skaičiams žymėti naudota lazdelė su įpjovomis, perskeliama pusiau taip, kad abi pusės išlaikytų tą pačią apskaitą. Šaltinyje ji apibūdinama kaip savotiškas kvitas ar vekselis.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
 ## Laikotarpis ir datos
 - Laikotarpis: senovės aisčių laikai
 - Periodas: senovė
@@ -36,6 +39,9 @@ Birka buvo skaičiuojamoji lazdelė, kuria buvo žymimas perduotų daiktų kieki
 
 ## Naudojimas
 Lazdelė būdavo įpjaunama ir perskeliama pusiau, kad abi pusės sutaptų ir nė vienas jos turėtojas negalėtų vienašališkai pakeisti įpjovimų skaičiaus.
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

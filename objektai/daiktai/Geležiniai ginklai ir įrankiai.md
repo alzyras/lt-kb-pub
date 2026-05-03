@@ -19,6 +19,21 @@ tags:
 
 Iš geležies buvo gaminami ginklai, tarp jų iečios ir kirviai, taip pat įvairūs darbo įrankiai. Šiame šaltinyje pabrėžiama ir tai, kad vėliau patobulėjo ginklų, įrankių bei papuošalų formos.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Iš geležies buvo gaminami ginklai, tarp jų iečios ir kirviai.'

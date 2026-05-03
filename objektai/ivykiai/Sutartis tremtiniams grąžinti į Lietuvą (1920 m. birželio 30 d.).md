@@ -17,6 +17,18 @@ tags:
 
 Kiek anksčiau (birželio 30 d.) buvo Maskvoj pasirašyta ir sutartis tremtiniams grąžinti į Lietuvą.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kiek anksčiau (birželio 30 d.) buvo Maskvoj pasirašyta ir sutartis tremtiniams grąžinti į Lietuvą.'

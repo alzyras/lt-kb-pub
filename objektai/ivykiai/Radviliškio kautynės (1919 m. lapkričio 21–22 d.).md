@@ -8,7 +8,8 @@ variantai:
   - 'Šiaulių-Radviliškio operacija'
   - 'Mūšis ties Radviliškiu'
   - 'Radviliškio mūšis'
-aliases: []
+aliases:
+  - '[]'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
@@ -42,6 +43,18 @@ tags:
 ## Santrauka
 
 Radvilišky ir Šiauliuose mūsų kariuomenė rado visko prigrūstus sandėlius. Sutraukta Lietuvos kariuomenė puolė Radviliškį ir Šiaulius.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
 
 ## Teiginiai
 - t-001

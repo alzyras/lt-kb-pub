@@ -30,6 +30,21 @@ tags:
 
 Vyriausioji Lenkijos vėliava pateko į priešų rankas. Lietuvos pulkai paskui save buvo patraukę eilę priešo vėliavų. Kareiviams būdavo paduodama raudona vėliava kaip karo ženklas ir laiminimo dalis. Prie karūžojo buvo laikoma karės vėliava tos apykartos. Šiame šaltinyje papildomai matyti, kad Algirdas prie Maskvos pasirodė išskleidęs vėliavas, o Žalgirio mūšyje Smolensko vėliavos dengė lenkų kraštines pozicijas ir krito didžioji Krokuvos vėliava.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Vyriausioji Lenkijos vėliava pateko į priešų rankas.'

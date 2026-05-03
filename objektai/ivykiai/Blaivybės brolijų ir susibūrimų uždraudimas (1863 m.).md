@@ -19,6 +19,18 @@ tags:
 
 Jau iš pat pradžių Vilniaus generalgubernatorius ir Kauno gubernatorius buvo pradėję kabintis prie vyskupo ir kunigų, drausdami blaivybės brolijas, nes tada buvo uždraustos visos draugijos. Šitaip buvo iki pat 1863 m. sukilimo, kada Muravjovas uždraudė visokius susibūrimus. Tuo būdu dingo didelis tautos blaivinimo darbas; o patsai brolijų panaikinimas sudavė skaudų smūgį tautos organizuotumui: po jų uždraudimo ilgą laiką Lietuvoje nebebuvo jokių organizacijų.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Jau iš pat pradžių Vilniaus generalgubernatorius ir Kauno gubernatorius buvo pradėję kabintis prie vyskupo ir kunigų, drausdami blaivybės brolijas, nes tada buvo uždraustos visos draugijos.'

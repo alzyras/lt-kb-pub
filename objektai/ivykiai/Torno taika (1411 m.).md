@@ -23,6 +23,18 @@ tags:
 
 1411 m. vasario 1 d. prie Torno pilies Jogaila ir Vytautas sudarė taiką su didžiuoju magistru. Ivinskis pabrėžia, kad Torno taika nedavė tiek, kiek buvo galima tikėtis po Žalgirio, o Žemaičiai Lietuvai buvo pripažinti tik iki Jogailos ir Vytauto gyvos galvos.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Dar kiek laiko karas tęsėsi tarp ordino ir Lenkų, bet 1411 m. pagaliau buvo pasirašyta taika.'

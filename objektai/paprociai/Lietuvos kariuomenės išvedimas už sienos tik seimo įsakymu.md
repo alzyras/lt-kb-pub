@@ -18,6 +18,21 @@ tags:
 
 Hetmonas Pacas atsisakinėjo eiti lenkams į pagalbą, teisindamasis, kad Lietuvos kariuomenė neturinti teisės peržengti Lenkijos sienos. Bet ne kartą hetmonas Pacas visiškai atsisakė vykti prieš turkus, paprastai remdamasis tuo, kad pagal įstatymus Lietuvos kariuomenė tegalinti išeiti už savo valstybės sienų, tik seimui įsakius.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Hetmonas Pacas atsisakinėjo eiti lenkams į pagalbą, teisindamasis, kad Lietuvos kariuomenė neturinti teisės peržengti Lenkijos sienos.'

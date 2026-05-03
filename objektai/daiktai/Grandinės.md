@@ -17,6 +17,21 @@ tags:
 
 Belaisviai buvo rakinami tomis pačiomis grandinėmis, kurios buvo rastos ordino stovykloje.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Belaisviai buvo rakinami tomis pačiomis grandinėmis, kurios buvo rastos ordino stovykloje.'

@@ -39,6 +39,18 @@ tags:
 
 Tekstas šį žygį pateikia kaip koordinuotą Lietuvos lauko etmono operaciją, kuri prasideda prie Šelomos upės ir tęsiasi iki Pskovo stovyklos. Pabaigoje pabrėžiami geografinis mastas, sunaikinti miestai ir kariuomenės nuostoliai. 1581 m. Kristupas Radvila Perkūnas prie Šelomos upės sumušė rusų dalinį ir pasuko į Rusijos gilumą Radvilos pajėgos nusiaubė Rževo, Toropeco ir Staricos apylinkes, o Ivanas IV buvo priverstas evakuoti savo šeimą ir dvarą.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1581 m. Kristupas Radvila Perkūnas prie Šelomos upės sumušė rusų dalinį ir pasuko į Rusijos gilumą.'
@@ -64,6 +76,7 @@ Tekstas šį žygį pateikia kaip koordinuotą Lietuvos lauko etmono operaciją,
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 1581 m. Kristupas Radvila Perkūnas prie Šelomos upės sumušė rusų dalinį ir pasuko į Rusijos gilumą.

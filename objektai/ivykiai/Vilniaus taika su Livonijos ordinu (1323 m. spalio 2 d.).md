@@ -33,6 +33,18 @@ tags:
 
 1323 m. spalio 2 d. Vilniuje Gedimino valdžia sudarė taiką su Livonijos ordinu ir vyskupais, sutvarkydama ir Rygai svarbius prekybos reikalus. Prūsų ordinas šios sutarties nepripažino ir skatino siekti jos anuliavimo.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1323 m. spalio 2 d. Vilniuje buvo sudaryta taika tarp Gedimino valdžios, Livonijos ordino ir Livonijos vyskupų.'

@@ -17,6 +17,21 @@ tags:
 
 Okupacinės valdžios leidžiamų popierinių pinigų vertė ėmė kriste kristi; tuo būdu dar labiau pasunkėjo mainai. Pagaliau jie ėmė patys spausdinti popierinius rublius ir markes, kurie vėliau neturėjo jokios vertės.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Okupacinės valdžios leidžiamų popierinių pinigų vertė ėmė kriste kristi; tuo būdu dar labiau pasunkėjo mainai.'

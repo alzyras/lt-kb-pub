@@ -25,8 +25,20 @@ tags: []
 
 Rengiantis gynybai AT rūsyje įrengtos ginklų remonto, šovinių ir sprogmenų gamybos dirbtuvės bei šaudykla. Benziną padegamiesiems mišiniams, maistą ir statybines medžiagas gynybai tiekė gyventojai, maitinimo įmonės ir statybinės organizacijos.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: socialinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

@@ -18,6 +18,21 @@ tags:
 
 Zigmanto II antkapis Krokuvos katedroje. Zigmantas II (Senasis), 1506—1548 m. d. Lietuvos kunigaikštis ir Lenkų karalius (taip jis atvaizduotas Krokuvos katedroje esančiam antkapy).
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Zigmanto II antkapis Krokuvos katedroje.'

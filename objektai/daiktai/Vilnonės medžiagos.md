@@ -17,6 +17,21 @@ tags:
 
 Vilnonės medžiagos buvo vienas iš būtiniausių dalykų, kuriuos Lietuva traukėsi sau iš Vakarų per Rygą.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Vilnonės medžiagos buvo vienas iš būtiniausių dalykų, kuriuos Lietuva traukėsi sau iš Vakarų per Rygą.'

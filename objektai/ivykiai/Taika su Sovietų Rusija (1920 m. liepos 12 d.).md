@@ -17,6 +17,18 @@ tags:
 
 Taika su Sovietų Rusija buvo pasirašyta 1920 metų liepos mėn.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Taika su Sovietų Rusija buvo pasirašyta 1920 metų liepos mėn.'

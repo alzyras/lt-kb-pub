@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 17.
+Objektų skaičius: 18.
 
 ## Kaip naudoti
 
@@ -49,4 +49,5 @@ Objektų skaičius: 17.
 - [[objektai/ivykiai/Žemaičių kunigaikštystės privilegija]]
 
 ### Žodynas
+- [[objektai/zodynas/Baudžiava]]
 - [[objektai/zodynas/privilegija lex privata]]

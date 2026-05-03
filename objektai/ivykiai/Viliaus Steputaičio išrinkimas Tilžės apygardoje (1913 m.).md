@@ -16,6 +16,18 @@ tags:
 
 Tuo pat metu 1913 m. iš Tilžės apygardos lietuviams pasisekė išrinkti savo kandidatą — dvarininką d r.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tuo pat metu 1913 m. iš Tilžės apygardos lietuviams pasisekė išrinkti savo kandidatą — dvarininką d r.'

@@ -19,6 +19,21 @@ tags:
 
 Valstiečių duoklės ir prievolės Lietuvoje ilgainiui kito nuo natūrinių duoklių ir statybos darbų prie valakų reforma sutvarkyto trilaukio ūkio ir sunkėjančių dvaro prievolių. 1557 metų valakų įstatymas pertvarkė žemės ūkio santykius ir sustiprino valstiečių darbo prievoles dvarui.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Vytauto laikais, daugumas valstiečių Lietuvoje dar buvo laisvieji ūkininkai.'

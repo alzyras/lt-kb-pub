@@ -19,6 +19,21 @@ tags:
 
 Rinkimai į steigiamąjį seimą buvo paskelbti jau 1920 metų pradžioje, o renkamosios dienos nustatytos balandžio mėn. Tautos atstovai, renkami kas treji metai visuotiniu, lygiu, tiesioginiu ir slaptu balsavimu, proporcingąja rinkimų sistema, turėjo sudaryti seimą, kurs turėjo leisti įstatymus, prižiūrėti vyriausybės darbus, tvirtinti biudžetą, sutartis, pradėti ar baigti.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Rinkimai į steigiamąjį seimą buvo paskelbti jau 1920 metų pradžioje, o renkamosios dienos nustatytos balandžio mėn.'

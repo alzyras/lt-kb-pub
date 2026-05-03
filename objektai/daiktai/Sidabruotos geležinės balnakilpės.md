@@ -49,6 +49,12 @@ Sidabruotos geležinės balnakilpės šaltinyje pateikiamos kaip karių kapuose 
 
 Raitelio aprangos ir jojimo įrangos dalis, šaltinyje minima kaip archeologinis radinys iš karių kapų.
 
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: Sidabruotos geležinės balnakilpės pristatomos kaip Lietuvoje karių kapuose rastas radinys.

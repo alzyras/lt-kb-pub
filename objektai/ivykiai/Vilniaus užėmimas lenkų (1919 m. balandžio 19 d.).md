@@ -16,6 +16,18 @@ tags:
 
 Balandžio mėnesį mūsiškiai nustūmė rusus į rytus ligi Vilniaus, tačiau Vilnių paėmė iš pietų prasiveržę lenkai (balandžio 19 d.).
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Balandžio mėnesį mūsiškiai nustūmė rusus į rytus ligi Vilniaus, tačiau Vilnių paėmė iš pietų prasiveržę lenkai (balandžio 19 d.).'

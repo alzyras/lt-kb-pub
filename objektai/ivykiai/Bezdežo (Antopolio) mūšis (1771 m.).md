@@ -35,6 +35,18 @@ tags:
 
 Mūšyje Oginskio pajėgos netikėtai apsupo Bezdežą ir pradėjo artilerinį apšaudymą bei šturmą. Po mūšio Oginskio pajėgos buvo sumuštos prie Stalovičių, o Baro konfederacija galutinai nepasiekė savo tikslų. M. K. Oginskio vadovaujamos pajėgos netikėtai apsupo Bezdežą, pradėjo artilerinį apšaudymą ir šturmą Po Bezdežo mūšio Oginskio pajėgos buvo sumuštos prie Stalovičių, o Baro konfederacija nepasiekė savo tikslų.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-002
   teiginys: 'Po Bezdežo mūšio Oginskio pajėgos buvo sumuštos prie Stalovičių, o Baro konfederacija nepasiekė savo tikslų.'

@@ -25,6 +25,21 @@ tags: []
 
 Pirmasis jų trobesys tose giriose vadinos nams, arba namas, namaitis. Senovėj tame name atlikdavo visus namų darbus ir laikydavo reikmenis.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Pirmasis jų trobesys tose giriose vadinos nams, arba namas, namaitis.'

@@ -17,6 +17,18 @@ tags:
 
 Naudodamiesi sunkia Lenkijos būkle, Lietuvos atstovai 1673 m. seime išreikalavo iš lenkų priimti įstatymą, kad kas trečias seimas, kurio maršalka esti lietuvis, būtų šaukiamas Lietuvoje (Gardine).
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Naudodamiesi sunkia Lenkijos būkle, Lietuvos atstovai 1673 m. seime išreikalavo iš lenkų priimti įstatymą, kad kas trečias seimas, kurio maršalka esti lietuvis, būtų šaukiamas Lietuvoje (Gardine).'

@@ -19,6 +19,18 @@ tags:
 
 O kadangi caras Šuiskis buvo padaręs sutartį su Švedais, tai karalius Zigmantas ir jį laikė savo priešu; todėl 1609 m. Zigmantas paskelbė Maskvai karą. Karas su Maskva. Tuo tarpu lenkų hetmono Zolkievskio sumuštą Šuiskį Maskvos bajorai pašalino nuo sosto ir caru pažadėjo išrinkti Zigmanto sūnų Vladislovą.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'O kadangi caras Šuiskis buvo padaręs sutartį su Švedais, tai karalius Zigmantas ir jį laikė savo priešu; todėl 1609 m. Zigmantas paskelbė Maskvai karą.'

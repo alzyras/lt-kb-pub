@@ -17,6 +17,18 @@ tags:
 
 derybų Polianovos kaime (tarp Viazmos ir Dorogobužo) buvo padaryta amžinoji taika.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'derybų Polianovos kaime (tarp Viazmos ir Dorogobužo) buvo padaryta amžinoji taika.'

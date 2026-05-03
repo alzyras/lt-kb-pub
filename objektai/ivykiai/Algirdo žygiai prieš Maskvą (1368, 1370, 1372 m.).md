@@ -7,7 +7,8 @@ variantai:
   - 'trys Algirdo žygiai į Maskvą'
   - 'Maskvos mūrų apgulimas'
   - 'Algirdo žygiai į Maskvą (1368, 1370, 1372 m.)'
-aliases: []
+aliases:
+  - '[]'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
@@ -38,6 +39,18 @@ tags:
 ## Santrauka
 
 1368, 1370 ir 1372 m. Algirdas tris kartus žygiavo prieš Maskvą, gindamas savo svainio Tverės kunigaikščio Mykolo teises ir kliudydamas Maskvos įsitvirtinimą Tverėje. Pirmojo žygio metu lietuviai pirmąkart pasiekė Maskvos vartus, o antrojo žygio metu Algirdas po dešimties dienų prie Maskvos sudarė paliaubas su Dimitru Doniečiu.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
 
 ## Teiginiai
 - t-001

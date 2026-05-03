@@ -22,6 +22,18 @@ tags:
 
 Dovydiškių sutartis buvo slapta Jogailos ir kryžiuočių sutartis, surašyta medžioklės metu Dovydiškėse, turbūt arti Gardino, 1380 m. gegužės 31 d. Ivinskis ją sieja su Jogailos bandymu lengvinti savo politinę padėtį ir su Kęstučio žemių išskyrimu iš susitarimo apsaugos.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kad šis nieko nesuprastų, ji buvo pasirašyta tyčia tam reikalui suruoštoje medžioklėje; nuo pasirašymo vietos ji vadinama Dovydiškių sutartimi.'

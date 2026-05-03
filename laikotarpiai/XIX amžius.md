@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 44.
+Objektų skaičius: 45.
 
 ## Kaip naudoti
 
@@ -70,6 +70,7 @@ Objektų skaičius: 44.
 
 ### Žodynas
 - [Baudžiava](../objektai/zodynas/Baud%C5%BEiava)
+- [Laisvamanybė ir laisvamaniai](../objektai/zodynas/Laisvamanyb%C4%97%20ir%20laisvamaniai)
 - [lituanistinis sąjūdis](../objektai/zodynas/lituanistinis%20s%C4%85j%C5%ABdis)
 - [marksistinė periodizacija](../objektai/zodynas/marksistin%C4%97%20periodizacija)
 - [Rusiškosios raidės](../objektai/zodynas/Rusi%C5%A1kosios%20raid%C4%97s)

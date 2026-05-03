@@ -25,6 +25,21 @@ tags: []
 
 Ubladėje buvo duonkepis kakalys, kuriame kepdavo duoną, pyragus, žuvis ir mėsas. Šalip ubladės buvo kamarėlė, kurioje laikydavo miltų ruošimo įrankius ir pačius miltus.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Ubladėje buvo duonkepis kakalys, kuriame kepdavo duoną, pyragus, žuvis ir mėsas.'

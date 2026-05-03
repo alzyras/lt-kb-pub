@@ -31,6 +31,18 @@ tags:
 
 1044 m. Kijevo Jaroslavas vėl žygiavo į Lietuvą ir pavasarį įkūrė Naugarduką. Šaltinyje kartu palikta abejonė, ar 1040 ir 1044 m. paminėjimai iš tikrųjų nežymi vienos platesnės karinės ekspedicijos.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1044 m. Kijevo Jaroslavas vėl žygiavo į Lietuvą ir pavasarį įkūrė Naugarduką.'

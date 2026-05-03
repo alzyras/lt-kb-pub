@@ -19,6 +19,18 @@ tags:
 
 Želigovskio smurtas. Tuo būdu Suvalkų sutartis, tik dvi dienos po pasirašymo, buvo sulaužyta, ir tas apgaulės ir smurto žygis sutrukdė visą tolesnį Lietuvių ir Lenkų santykių tvarkymą. Esą, atsiradęs jų kariuomenėje generolas maištininkas Želigovskis ir savavališkai užėmęs Vilnių.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Želigovskio smurtas.'

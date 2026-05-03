@@ -26,6 +26,9 @@ tags:
 ## Santrauka
 Kūlgrindos buvo slapti akmenimis grįsti keliai per vandeningas ar klampias vietas. Jais galėjo naudotis tik prityrusio vadovo vedami žmonės, o jų liekanų, pasak šaltinio, dar buvo galima rasti Lietuvoje.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
 ## Laikotarpis ir datos
 - Laikotarpis: senovės aisčių laikai
 - Periodas: senovė
@@ -35,6 +38,9 @@ Kūlgrindos buvo po vandeniu ar per klampynes išgrįsti slapti keliai.
 
 ## Naudojimas
 Jos tarnavo slaptam susisiekimui tarp pilių ir apsaugai nuo priešo.
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

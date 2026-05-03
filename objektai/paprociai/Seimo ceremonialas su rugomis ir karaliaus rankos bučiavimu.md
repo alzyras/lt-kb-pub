@@ -18,6 +18,21 @@ tags:
 
 Pradžioje visi eidavo pabučiuoti soste sėdinčiajam karaliui rankos, o po to kancleris arba vicekancleris pareikšdavo karaliaus pasiūlymus, t. Pagaliau seimas būdavo baigiamas atsisveikinimu su karalium, — ir vėl visi bučiuodavo jam ranką.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Pradžioje visi eidavo pabučiuoti soste sėdinčiajam karaliui rankos, o po to kancleris arba vicekancleris pareikšdavo karaliaus pasiūlymus, t.'

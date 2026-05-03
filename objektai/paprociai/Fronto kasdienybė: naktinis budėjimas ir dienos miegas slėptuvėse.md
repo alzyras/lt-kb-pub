@@ -25,8 +25,20 @@ tags: []
 
 Pirmose linijose įprastas gyvenimas buvo grindžiamas naktiniu budėjimu. Dieną kariai slėptuvėse miegodavo.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: kasdienybės praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

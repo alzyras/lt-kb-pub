@@ -28,6 +28,9 @@ tags:
 ## Santrauka
 D. Poškos Baublys šaltinyje pristatomas kaip senienų muziejui pritaikytas objektas. Papildomai nurodoma, kad 1812 m. iš tuščiavidurio ąžuolo buvo padarytos trys trobelės su muziejėliais, tebestovėjusios Bijotuose.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
 ## Laikotarpis ir datos
 - Laikotarpis: 1812 m.
 - Periodas: naujieji laikai
@@ -38,6 +41,9 @@ Baublys buvo D. Poškos muziejinei paskirčiai pritaikytas objektas iš tuščia
 
 ## Naudojimas
 Jame buvo įtaisytas senienų muziejus.
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

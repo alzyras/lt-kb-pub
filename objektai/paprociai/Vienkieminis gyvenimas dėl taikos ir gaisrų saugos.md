@@ -25,8 +25,20 @@ tags: []
 
 Autorius teigia, kad ši vienkieminio gyvenimo praktika jo laiku dar tebebuvo gyva kai kuriose vietose. Kalnėnai ir žemaičiai ilgainiui įsikūrė vienkiemiuose ir sąmoningai rinkosi atstumą nuo kaimynų.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: socialinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

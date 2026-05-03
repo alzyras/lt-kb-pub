@@ -22,6 +22,7 @@ Tam tikslui Gardine buvo sušauktas seimas. Taigi minėtame Gardino seime (1793 
 - t-001
   teiginys: 'Tam tikslui Gardine buvo sušauktas seimas.'
   pagrindžia:
+    - c-003
     - c-001
 - t-002
   teiginys: 'Taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai padaryti.'
@@ -55,6 +56,19 @@ Tam tikslui Gardine buvo sušauktas seimas. Taigi minėtame Gardino seime (1793 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: Gardino seimas (1793 m.) papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Buvo atgaivinta Nuolatinė Taryba ir
+    tada veikusios karo ir iždo komisijos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai
@@ -62,3 +76,4 @@ Tam tikslui Gardine buvo sušauktas seimas. Taigi minėtame Gardino seime (1793 
 
 ### Susiję objektai
 - [[objektai/grupes/Gardino seimas]]
+- [[objektai/grupes/Nuolatinė Taryba]]

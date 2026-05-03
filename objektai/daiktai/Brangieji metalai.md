@@ -17,6 +17,21 @@ tags:
 
 XIII amžiuje Lietuvos kunigaikščiai buvo sukaupę nemažus brangiųjų metalų kiekius.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'XIII amžiuje Lietuvos kunigaikščiai buvo sukaupę nemažus brangiųjų metalų kiekius.'

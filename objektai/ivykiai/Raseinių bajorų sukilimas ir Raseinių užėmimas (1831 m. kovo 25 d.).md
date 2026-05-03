@@ -18,6 +18,18 @@ tags:
 
 Pirmieji nutarė sukilti ir surašė sukilimo aktą Raseinių bajorai (1831 m. kovo 25 d.). Tą pačią dieną 50 raitelių, 100 pėsčiųjų šaulių ir 400 valstiečių užėmė Raseinius. Šitas raseiniškių pasisekimas sujudino visus kitus.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Pirmieji nutarė sukilti ir surašė sukilimo aktą Raseinių bajorai (1831 m. kovo 25 d.).'

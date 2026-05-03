@@ -18,6 +18,18 @@ tags:
 
 Klaipėdos krašto atskyrimas nuo Vokietijos.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Klaipėdos krašto atskyrimas nuo Vokietijos.'

@@ -17,6 +17,21 @@ tags:
 
 Kalavijuočių ordino nariai ant balto apsiausto nešiojo išsiuvinėtą kalaviją.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kalavijuočių ordino nariai ant balto apsiausto nešiojo išsiuvinėtą kalaviją.'

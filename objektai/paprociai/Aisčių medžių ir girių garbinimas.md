@@ -28,8 +28,20 @@ tags: []
 
 Aisčiai gerbė ir garbino atskirus medžius, girias bei miškus, ant šakų kabino aukas ir iš medžių ošimo burdavo likimą. Senieji kalnėnai ir žemaičiai girias laikė šventomis, į jas be girių kunigo žinios nebuvo galima įžengti, o ąžuolynai ir lieknai veikė kaip sakralios garbinimo vietos.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: religinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

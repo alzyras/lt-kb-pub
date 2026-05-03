@@ -35,6 +35,18 @@ tags:
 
 1632 m. rusų kariuomenė įsiveržė į Lietuvos teritoriją, apsiautė Smolenską, o miesto gynyba baigėsi 1634 m. kapituliacija ir taika prie Polianovkos. 1632 m. rusų kariuomenė įsiveržė į Lietuvos teritoriją ir lapkričio 14 d. apsiautė Smolenską Smolenską gynė apie 2 tūkst. Lietuvos karių, miestas buvo smarkiai apšaudytas ir šturmuojamas, bet nesėkmingai.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1632 m. rusų kariuomenė įsiveržė į Lietuvos teritoriją ir lapkričio 14 d. apsiautė Smolenską.'

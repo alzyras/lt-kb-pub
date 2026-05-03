@@ -18,6 +18,21 @@ tags:
 
 Jonas III pasisavino Bizantijos imperatorių herbą — dvigalvį erelį.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Jonas III pasisavino Bizantijos imperatorių herbą — dvigalvį erelį.'

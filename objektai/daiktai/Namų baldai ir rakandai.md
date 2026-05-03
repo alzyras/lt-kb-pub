@@ -34,6 +34,18 @@ Vyriškieji patys dailidavo namų baldus, rakandus ir įvairius būtos padargus.
 - `rakandai`
 - `būtos padargai`
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Vyriškieji patys dailidavo namų baldus, rakandus ir įvairius būtos padargus.'

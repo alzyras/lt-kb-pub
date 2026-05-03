@@ -16,6 +16,18 @@ tags:
 
 Kai, mandatui nepasibaigus, 1901 m jis mirė, iš Klaipėdos jo vietoje buvo išrinktas kitas lietuvis — Mačiulis.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kai, mandatui nepasibaigus, 1901 m jis mirė, iš Klaipėdos jo vietoje buvo išrinktas kitas lietuvis — Mačiulis.'

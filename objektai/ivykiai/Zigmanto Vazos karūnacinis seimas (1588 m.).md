@@ -17,6 +17,18 @@ tags:
 
 Tuomet delegacija visos Lietuvos vardu pareiškė, jog pripažįstanti Zigmantą savo didžiuoju kunigaikščiu, o jis prisiekė, jog saugosiąs visas Lietuvos teises.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tuomet delegacija visos Lietuvos vardu pareiškė, jog pripažįstanti Zigmantą savo didžiuoju kunigaikščiu, o jis prisiekė, jog saugosiąs visas Lietuvos teises.'

@@ -26,6 +26,9 @@ tags:
 ## Santrauka
 Aukuras šaltinyje aprašomas kaip pagrindinis aisčių šventovės įrenginys po atviru dangumi. Prie jo kūrenosi amžinoji ugnis, o pačiose šventovėse nebuvo statoma maldyklų.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
 ## Laikotarpis ir datos
 - Laikotarpis: senovės aisčių laikai
 - Periodas: senovė
@@ -35,6 +38,9 @@ Aukuras buvo šventovėje esantis apeiginis įrenginys.
 
 ## Naudojimas
 Prie aukuro kūrenosi amžinoji ugnis.
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

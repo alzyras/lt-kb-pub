@@ -19,6 +19,18 @@ tags:
 
 1894 m. visose lietuvių kolonijose dėl Kražių skerdynių įvyko protestai, gedulingi jų minėjimai, ir viso to atgarsis pasiekė ne tik Amerikos, bet ir Europos tautų spaudą. Be to, Amerikos lietuvių organizacijos kaip įmanydamos, dažniausiai pinigais, rėmė Lietuvoje veikiančius inteligentus ir jų organizacijas. Jau 1894 m. trijų lietuvių klierikų, vėliau žymių veikėjų kunigų,—A.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1894 m. visose lietuvių kolonijose dėl Kražių skerdynių įvyko protestai, gedulingi jų minėjimai, ir viso to atgarsis pasiekė ne tik Amerikos, bet ir Europos tautų spaudą.'

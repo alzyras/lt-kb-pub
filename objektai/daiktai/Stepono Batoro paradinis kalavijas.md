@@ -46,6 +46,12 @@ Stepono Batoro paradinis kalavijas šaltinyje pristatomas kaip reprezentacinis g
 
 Reprezentacinis kalavijas, siejamas su Stepono Batoro valdymu ir Livonijos karo atmintimi.
 
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: Stepono Batoro paradinis kalavijas buvo pagamintas pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu atminti.

@@ -22,6 +22,18 @@ tags:
 
 Gediminas taip pat buvo pirmasis, kuris prieš kryžiuočius sudarė sąjungą su Lenkija. Sutartis buvo sudaryta 1325 m.; Ivinskis pabrėžia, kad sąjungininkai ją sutvirtino Lokietkos sūnaus Kazimiero ir Gedimino dukters Aldonos vedybomis, o 1326 m. sąjunga virto karine pagalba prieš ordiną.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Gediminas taip pat buvo pirmasis, kuris prieš kryžiuočius sudarė sąjungą su Lenkija.'

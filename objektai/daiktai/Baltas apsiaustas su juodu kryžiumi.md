@@ -17,6 +17,21 @@ tags:
 
 Pastarojo nariai (o taip pat ir templininkai) nešiojo baltus apsiaustus su išsiūtu juodu kryžium, todėl mūsų krašte dažniausiai būdavo vadinami kryžiuočiais.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Pastarojo nariai (o taip pat ir templininkai) nešiojo baltus apsiaustus su išsiūtu juodu kryžium, todėl mūsų krašte dažniausiai būdavo vadinami kryžiuočiais.'

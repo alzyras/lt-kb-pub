@@ -18,6 +18,18 @@ tags:
 
 Rusų kariuomenei parėmus, karalium buvo išrinktas Stanislovas Augustas. Čartoriskių priešai buvo išvyti iš krašto.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Rusų kariuomenei parėmus, karalium buvo išrinktas Stanislovas Augustas. Čartoriskių priešai buvo išvyti iš krašto.'

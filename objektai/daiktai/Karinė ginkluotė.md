@@ -29,6 +29,21 @@ tags:
 
 Iš lietuvių žygio grobio buvo arklių su balnais, skydų ir šalmų. Pilies gynėjai naudojo ietis, kalavijus ir kitokius ginklus. Senovės kariai nešiojo šikšninį diržą su vario grandimis arba sagtimis ir įvairią ginkluotę. Pėstieji daugiau kariavo rendėtais brūkliais. Šiame šaltinyje papildomai aprašoma XIII-XIV a. pėstininkų ir raitininkų apsauga bei puolamieji ginklai, šarvų ir ginklų branginimas bei valstybinio jų paskirstymo praktika.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Iš lietuvių žygio grobio buvo arklių su balnais, skydų ir šalmų.'

@@ -25,8 +25,20 @@ tags: []
 
 Žiemos laiku gyventojai važinėdavo upeliais, šunis užkinkę.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: kasdienybės praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

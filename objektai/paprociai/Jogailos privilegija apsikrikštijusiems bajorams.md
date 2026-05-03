@@ -18,6 +18,21 @@ tags:
 
 Jogailos privilegija apsikrikštijusiems bajorams buvo viena iš svarbiausių 1387 metų krikščioninimo politikos dalių. Ji susiejo katalikybės įtvirtinimą su laisvu ir paveldimu žemės valdymu, didesne šeimos teisių laisve ir prievolių siaurinimu iki karo tarnybos bei pilių statybos.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kadangi tuo metu Lietuvoje teko rūpintis, kad katalikybė pirmautų ne tik prieš naikinamą pagonybę, bet ir prieš rytų apeigų Bažnyčią, todėl Jogailos duotoje privilegijoje visos teisės pripažįstamos tik katalikams, o rytų apeigų krikščionys net suvaržomi.'

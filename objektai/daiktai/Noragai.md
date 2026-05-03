@@ -32,6 +32,18 @@ Laukai buvo ariami medžio noragais, ne geležiniais, o kai kurie storastos band
 - `Medžio noragai`
 - `geležiniai noragai`
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Laukai buvo ariami medžio noragais, ne geležiniais, o kai kurie storastos bandė įsakyti arti gelžiniais noragais.'

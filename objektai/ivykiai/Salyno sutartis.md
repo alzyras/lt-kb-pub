@@ -24,6 +24,18 @@ tags:
 
 Salyno sutartis buvo 1398 m. Vytauto ir didžiojo magistro susitarimas, galutinai patvirtintas Nemuno saloje Salyne spalio 12 d. Ivinskis ją apibūdina kaip aktą, kuriuo Vytautas užleido ordinui visus Žemaičius, pirmą kartą apytikriai nužymėjo ordinui tenkančių žemių sienas ir kuriame Salyno „amžinoji“ taika būtų reiškusi Lietuvos nustūmimą nuo jūros.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1398 m. buvo padarytas laikinis susitarimas, o kiek vėliau įvyko iškilmingas Vytauto ir magistro susitikimas, kurio metu buvo pasirašyta taikos sutartis.'

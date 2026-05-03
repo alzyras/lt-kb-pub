@@ -25,8 +25,20 @@ tags: []
 
 Lenkijos ir Lietuvos kariuomenė stovyklose apsisupdavo vežimais. Prie kelių praėjimų būdavo statomi artilerijos pabūklai, o už vežimų iškasamas ilgas ir platus griovys.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: socialinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

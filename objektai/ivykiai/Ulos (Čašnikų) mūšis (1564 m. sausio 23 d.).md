@@ -44,6 +44,18 @@ tags:
 
 Šiame gabale Ulos mūšis išskleidžiamas nuo žvalgybinio susidūrimo iki triuškinimo ir pasekmių. Tekstas pabrėžia mūšio vietą, lietuvių puolimą prieš maskvėnų artileriją, didelius maskvėnų nuostolius ir P. Šuiskio palaidojimą Vilniuje. Petras Šuiskis pasirinko mūšio vietą prie Ulos upės netoli Čašnikų Lietuvių puolimas sutelkė smūgį prieš maskvėnų artileriją ir sukėlė jų gretose sumaištį.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Petras Šuiskis pasirinko mūšio vietą prie Ulos upės netoli Čašnikų.'

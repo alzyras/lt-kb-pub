@@ -19,6 +19,21 @@ tags:
 
 Todėl buvo nemaža atsitikimų, kad, neatsižvelgdamas į unijos akto nuostatus, net pats karalius sušaukdavo atskirus seimus. Bet dar dažniau atskirus Lietuvos seimus šaukdavo patys Lietuvos ponai tarpuvaldžiuose (karalių nebuvimo metu). Bet XVII amžiuje, kai, pradedant Vladislovu Vaza, lietuviai ėmė rinkti karalius bendrai su lenkais, tie atskiri Lietuvos seimai ėmė nykti.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Todėl buvo nemaža atsitikimų, kad, neatsižvelgdamas į unijos akto nuostatus, net pats karalius sušaukdavo atskirus seimus.'

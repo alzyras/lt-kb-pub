@@ -17,6 +17,21 @@ tags:
 
 Gyvenimas buvo tvarkomas papročių teise, kurios laikėsi tiek valdovai, tiek gyventojai.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Gyvenimas buvo tvarkomas papročių teise, kurios laikėsi tiek valdovai, tiek gyventojai.'

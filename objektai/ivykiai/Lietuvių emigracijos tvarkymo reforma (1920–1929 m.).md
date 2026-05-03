@@ -19,6 +19,18 @@ tags:
 
 Pirmasis emigracijos įstatymas buvo išleistas dar 1920 m., bet pasirodė, kad jame buvo nemaža spragų, o be to, jis ilgainiui atsiliko nuo gyvenimo reikalavimų. Emigracijos bendrovės, nesilaikančios to įstatymo, negali veikti Lietuvoje. O visai emigracijai prižiūrėti prie Vidaus Reikalų Ministerijos yra įsteigta speciali referentūra.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Pirmasis emigracijos įstatymas buvo išleistas dar 1920 m., bet pasirodė, kad jame buvo nemaža spragų, o be to, jis ilgainiui atsiliko nuo gyvenimo reikalavimų.'

@@ -17,6 +17,18 @@ tags:
 
 Tiek karo vadovybė, tiek vyriausybė ir reichstagas reikalavo, kad Lietuva įeitų į federaciją su Vokietija, susirišdama su ja militarinėmis ir ekonominėmis konvencijomis.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tiek karo vadovybė, tiek vyriausybė ir reichstagas reikalavo, kad Lietuva įeitų į federaciją su Vokietija, susirišdama su ja militarinėmis ir ekonominėmis konvencijomis.'

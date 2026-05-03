@@ -25,8 +25,20 @@ tags: []
 
 Taika su neprieteliais būdavo sutvirtinama baltą žirgą sudeginant ir sukeičiant ragotines. Karas susiedams būdavo skelbiamas svetimą ragotinę su degančiu pagaliu įmetant į priešo kraštą.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: ritualas
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

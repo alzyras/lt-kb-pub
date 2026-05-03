@@ -17,6 +17,18 @@ tags:
 
 Ypač plačiai išsiplėtė valstiečių sukilimas Gintiliškių ir Salantų parapijose (Telšių apskr.).
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Ypač plačiai išsiplėtė valstiečių sukilimas Gintiliškių ir Salantų parapijose (Telšių apskr.).'

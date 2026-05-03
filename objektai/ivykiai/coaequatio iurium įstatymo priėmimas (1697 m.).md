@@ -18,6 +18,18 @@ tags:
 
 Visa tai ėjo Lietuvos ir Lenkijos teisių sulyginimo (coaequatio iurium) šūkiu, nes tuo buvo norima suvienodinti Lietuvos ir Lenkijos ministerių teises. Kancleriui nesipriešinant, vieni Sapiegos nepajėgė apginti ministerių teisių, ir coaequatio iurium įstatymas buvo priimtas elekciniame seime (1697 m.).
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Visa tai ėjo Lietuvos ir Lenkijos teisių sulyginimo (coaequatio iurium) šūkiu, nes tuo buvo norima suvienodinti Lietuvos ir Lenkijos ministerių teises.'

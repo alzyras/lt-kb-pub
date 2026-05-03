@@ -44,6 +44,18 @@ tags:
 
 1435 m. rugsėjo 1 d. prie Šventosios upės, ties Pabaisku netoli Ukmergės, lietuvių ir lenkų kariuomenė sumušė Švitrigailos bei Livonijos ordino pajėgas. Mūšis užbaigė po Vytauto mirties kilusį pilietinį karą, susilpnino Livonijos ordiną ir buvo įamžintas Pabaisko parapinės bažnyčios pastatymu.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią Zigmanto sūnaus Mykolo vedama lietuvių ir į pagalbą atėjusių lenkų kariuomenė.'

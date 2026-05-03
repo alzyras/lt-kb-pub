@@ -19,6 +19,21 @@ tags:
 
 Po Torno taikos atgavę Žemaičius Vytautas su Jogaila tuojau ėmė galvoti ir apie jų krikštą. Tam tikslui 1413 m. Vytautas su Jogaila patys atvyko į Žemaičius ir, keliose vietose sunaikinę pagoniškas šventoves, pakrikštydino pirmuosius būrius. Pasirodė, kad ir tada dar nebuvo lietuviškai mokančių dvasininkų, todėl krikščionių mokslo tiesas turėjo aiškinti žemaičiams net patys valdovai.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Po Torno taikos atgavę Žemaičius Vytautas su Jogaila tuojau ėmė galvoti ir apie jų krikštą.'

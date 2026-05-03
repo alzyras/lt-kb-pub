@@ -21,6 +21,19 @@ tags:
 Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedrą ir dar 7 pirmąsias parapijines bažnyčias krašte (Ukmergėje, Maišiogaloje, Nemenčine, Medininkuose, Krėvoje, Obalčiuose ir Ainoje).
 
 1387 m. vasario 17 d. Vilniuje pradėta nauja vyskupija, o Vilniaus vyskupas nuo pat pradžių tapo centriniu Lietuvos bažnytinio gyvenimo asmeniu.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedrą ir dar 7 pirmąsias parapijines bažnyčias krašte (Ukmergėje, Maišiogaloje, Nemenčine, Medininkuose, Krėvoje, Obalčiuose ir Ainoje).'
@@ -35,6 +48,7 @@ Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedr
   teiginys: 'Nuo pat pradžių Vilniaus vyskupas tapo centriniu Lietuvos bažnytinio gyvenimo asmeniu.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedrą ir dar 7 pirmąsias parapijines bažnyčias krašte (Ukmergėje, Maišiogaloje, Nemenčine, Medininkuose, Krėvoje, Obalčiuose ir Ainoje).'

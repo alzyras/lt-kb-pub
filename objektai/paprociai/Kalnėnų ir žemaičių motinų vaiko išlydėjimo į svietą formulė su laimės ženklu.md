@@ -25,8 +25,20 @@ tags: []
 
 Kalnėnų ir žemaičių motinos, išleisdamos vaiką į svietą, įduoda jam laimės ženklą.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: ritualas
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

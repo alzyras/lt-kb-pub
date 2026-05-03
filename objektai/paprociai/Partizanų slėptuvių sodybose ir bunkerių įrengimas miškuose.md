@@ -25,8 +25,20 @@ tags: []
 
 Partizanai iš pradžių laikėsi miško stovyklose arba apsistodavo pas ūkininkus. Vėliau jie įsirengė gerai užmaskuotas slėptuves sodybose ir miške.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: socialinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

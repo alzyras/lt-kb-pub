@@ -18,6 +18,18 @@ tags:
 
 Po ilgų derybų Lenkijos ponai prieš karaliaus valią padarė 26 m. paliaubas.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Po ilgų derybų Lenkijos ponai prieš karaliaus valią padarė 26 m. paliaubas.'

@@ -30,6 +30,18 @@ Giliojoje senovėje pėsčiųjų ginklas buvo brūklys. Brūklių drūktieji gal
 
 - `Brūkliai`
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Giliojoje senovėje pėsčiųjų ginklas buvo brūklys.'

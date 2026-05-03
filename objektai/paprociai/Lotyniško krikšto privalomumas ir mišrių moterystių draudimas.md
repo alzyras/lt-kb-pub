@@ -28,8 +28,20 @@ tags:
 
 1387 metų krikščioninimo politikoje lotyniškasis krikštas tapo privaloma norma visiems naujai besikrikštijantiems. Ši norma buvo sustiprinta mišrių moterysčių draudimu ir galimybe nepaklūstančius versti net kūno bausmėmis.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: teisinė-administracinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

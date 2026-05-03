@@ -19,6 +19,21 @@ tags:
 
 Ankstyvesnieji karai pasibaigdavo Lietuvai nelaimingai ypač dėl to, kad bajorija nenorėjo kariauti ir nenorėjo mokėti karui reikalingų mokesčių. Kadangi bajorija nenorėjo eiti į karą, tai jos vietoje buvo įvesta samdytinė kariuomenė.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Ankstyvesnieji karai pasibaigdavo Lietuvai nelaimingai ypač dėl to, kad bajorija nenorėjo kariauti ir nenorėjo mokėti karui reikalingų mokesčių.'

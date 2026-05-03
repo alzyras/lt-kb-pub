@@ -19,6 +19,18 @@ tags:
 
 Pirmiausia buvo uždrausta statyti naujas ir remontuoti senas bažnyčias, uždrausta ruošti procesijas ir viešai sakyti pamokslus. Be to, Muravjovas ėmė tikrinti, kurios bažnyčios buvo įsivėlusios į sukilimą. Todėl ir jie buvo uždrausti statyti be leidimo; buvo leidžiami statyti tik tokie kryžiai, kurie, esą, aiškiai skirti religiniams reikalams, o ne „lenkiškajai propagandai".
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Pirmiausia buvo uždrausta statyti naujas ir remontuoti senas bažnyčias, uždrausta ruošti procesijas ir viešai sakyti pamokslus.'

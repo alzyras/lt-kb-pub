@@ -25,8 +25,20 @@ tags: []
 
 Degindami mirusiuosius į ugnį mėtydavo meškos ir lūšies nagus, o kai kurie prieš mirtį augino nagus, kad galėtų įsikibti kopdami į dangų.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: ritualas
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

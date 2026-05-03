@@ -25,8 +25,20 @@ tags: []
 
 Lenkai frontui pralaužti atsivežė specialias šturmovąsias grupes. Tokias grupes sudarė 50-70 gerai prancūzų taktikos apmokytų vyrų, kurie puolė kyliais vienas paskui kitą.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: politinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

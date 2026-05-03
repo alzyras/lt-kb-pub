@@ -17,6 +17,21 @@ tags:
 
 Vytautas liepė Jogailai nuo iždo ir pilių atiduoti raktus.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Vytautas liepė Jogailai nuo iždo ir pilių atiduoti raktus.'

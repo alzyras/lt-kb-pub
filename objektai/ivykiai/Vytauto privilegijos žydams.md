@@ -19,6 +19,18 @@ tags:
 
 Todėl atvykusių žydų jis ne tik nespaudė, bet dar jiems davė privilegijų, suteikė jiems savivaldybę, leido laisvai išpažinti savo tikėjimą, apdraudė jų gyvybę ir turtą (už žydo nužudymą buvo paskirtos tokios pat bausmės, kaip ir už bajoro nužudymą). Vytauto laikais buvo tik trys žydų bendruomenės, — Brastoje, Gardine ir Trakuose, — vėliau jų atsirado visame krašte.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Todėl atvykusių žydų jis ne tik nespaudė, bet dar jiems davė privilegijų, suteikė jiems savivaldybę, leido laisvai išpažinti savo tikėjimą, apdraudė jų gyvybę ir turtą (už žydo nužudymą buvo paskirtos tokios pat bausmės, kaip ir už bajoro nužudymą).'

@@ -19,6 +19,18 @@ tags:
 
 Vytautui mirus, Lietuvos bajorija savo didžiuoju kunigaikščiu paskelbė jauniausiąjį Jogailos brolį, Švitrigailą.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Vytautui mirus, Lietuvos bajorija savo didžiuoju kunigaikščiu paskelbė jauniausiąjį Jogailos brolį, Švitrigailą.'

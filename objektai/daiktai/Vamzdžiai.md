@@ -30,6 +30,18 @@ Jaunuomenė pavasariais gaminosi ir naudojo vamzdžius iš karklų ar blendies, 
 
 - `molio pypynės`
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Jaunuomenė pavasariais gaminosi ir naudojo vamzdžius iš karklų ar blendies, o piemenėliai turėjo molio pypynes.'

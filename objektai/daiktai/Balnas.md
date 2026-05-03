@@ -28,6 +28,21 @@ tags:
 
 Vytautas 1424.IV.25 d. prie Gardino husitų pasiuntinius priėmė sėsdamas į balną. Balnai buvo daromi iš vieno medžio, be šikšnų ir geležies, su medžio kilpomis.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Vytautas 1424.IV.25 d. prie Gardino husitų pasiuntinius priėmė sėsdamas į balną.'

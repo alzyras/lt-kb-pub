@@ -19,6 +19,18 @@ tags:
 
 Kauno sugriovimas 1362 m. buvo svarbus vokiečių ordino laimėjimas, kurį jis taip pat plačiai išgarsino Europoje, kaip ir Strėvos mūšį.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kauno sugriovimas 1362 m. buvo svarbus vokiečių ordino laimėjimas, kurį jis taip pat plačiai išgarsino Europoje, kaip ir Strėvos mūšį.'

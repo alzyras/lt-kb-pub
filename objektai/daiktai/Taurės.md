@@ -32,6 +32,21 @@ tags:
 
 Iškilo girtuokliavimo kultas: didikai ir bajorija savo šeimos brangenybių tarpe turėjo su įvairiomis iškilmėmis susijusių taurių; jei iš jų kada nors buvo gėręs koks karalius, tai taurės buvo laikomos, kaip ypatingos šventenybės, pagarbioje vietoje. Gėrimo indą, vadinamą stotkeliu, senovėje dar vadino taure arba taurage.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Iškilo girtuokliavimo kultas: didikai ir bajorija savo šeimos brangenybių tarpe turėjo su įvairiomis iškilmėmis susijusių taurių; jei iš jų kada nors buvo gėręs koks karalius, tai taurės buvo laikomos, kaip ypatingos šventenybės, pagarbioje vietoje.'

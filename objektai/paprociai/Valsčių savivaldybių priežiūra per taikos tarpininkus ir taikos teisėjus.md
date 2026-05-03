@@ -17,6 +17,21 @@ tags:
 
 1861 m. įkurtų valsčių viršaičiai (staršinos) ir raštininkai, kurių daugumas buvo dvarininkų pastatyti, buvo atstatyti. Viso valstiečių savivaldybių veikimo priežiūra buvo pavesta taikos tarpininkams su taikos teisėjais.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1861 m. įkurtų valsčių viršaičiai (staršinos) ir raštininkai, kurių daugumas buvo dvarininkų pastatyti, buvo atstatyti.'

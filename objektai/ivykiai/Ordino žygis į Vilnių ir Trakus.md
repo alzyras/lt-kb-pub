@@ -17,6 +17,18 @@ tags:
 
 Bet 1377 m., prieš pat Algirdo mirtį, jis buvo pasiekęs net Vilnių ir Trakus.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Bet 1377 m., prieš pat Algirdo mirtį, jis buvo pasiekęs net Vilnių ir Trakus.'

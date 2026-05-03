@@ -18,6 +18,21 @@ tags:
 
 Lietuvos akmens amžiaus dirbinių aprašyme minimi kauliniai dirbiniai, titnaginiai ir kalniniai mezolito įrankiai, moliniai puodai, keramika, akmeniniai kapliai ir girnos. Šiame šaltinyje taip pat išskiriamos gintarinės žmonių ir gyvulių figūrėlės, nešiotos magijos tikslais.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Lietuvos akmens amžiaus dirbiniai: 1—4 kauliniai harpūnai, 5—6 kauliniai durklai, 7—8 kauliniai kirvukai, 9 apskaldyto titnago įrankis, 10—12 akmens kirvukai, 13—15 titnaginiai iečių galai, 16—17 gintariniai amuletai, 18—22 gintariniai papuošalai, 23 puodas.'

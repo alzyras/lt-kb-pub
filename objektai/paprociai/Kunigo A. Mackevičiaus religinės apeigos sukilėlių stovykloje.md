@@ -25,8 +25,20 @@ tags: []
 
 Kunigas A. Mackevičius laimino sukilėlius ir šventino jų vėliavas. Sukilėlių stovykloje jis laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: religinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

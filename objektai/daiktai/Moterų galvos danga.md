@@ -17,6 +17,21 @@ tags:
 
 Moterų galvos danga čia figūruoja kaip atskirai tyrinėta archeologinė tema.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Moterų galvos danga paminėta kaip atskiro tyrimo objektas.'

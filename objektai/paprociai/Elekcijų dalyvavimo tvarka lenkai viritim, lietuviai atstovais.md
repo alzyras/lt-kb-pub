@@ -17,6 +17,21 @@ tags:
 
 Kaip paprastai, lenkai į elekciją susirinko visi (viritim), o lietuviai atsiuntė tik atstovus.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kaip paprastai, lenkai į elekciją susirinko visi (viritim), o lietuviai atsiuntė tik atstovus.'

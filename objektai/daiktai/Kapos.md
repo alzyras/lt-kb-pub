@@ -17,6 +17,21 @@ tags:
 
 1—3 Seniausieji Lietuvos sidabro pinigai — kapos, lietos iš sidabro tam tikrose formose.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1—3 Seniausieji Lietuvos sidabro pinigai — kapos, lietos iš sidabro tam tikrose formose.'

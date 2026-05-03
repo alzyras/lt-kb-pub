@@ -25,8 +25,20 @@ tags: []
 
 Mirštantis tėvas mažų vaikų globą pavedė artimiausiam genčiui arba didžiausiam prieteliui.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: socialinė praktika
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

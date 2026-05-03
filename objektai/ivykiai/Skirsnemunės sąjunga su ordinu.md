@@ -18,6 +18,18 @@ tags:
 
 Skirsnemunėje buvo padaryta su ordinu sąjunga, kuri ordinui buvo ypatingai maloni, nes čia jam šmėkštelėjo viltis reviduoti Melno taikos sąlygas.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Skirsnemunėje buvo padaryta su ordinu sąjunga, kuri ordinui buvo ypatingai maloni, nes čia jam šmėkštelėjo viltis reviduoti Melno taikos sąlygas.'

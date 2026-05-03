@@ -17,6 +17,18 @@ tags:
 
 Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Stengdamasi pakelti užsienio lietuvių švietimą, DULR rūpinasi lietuviškų mokyklų steigimu, parūpina išeivių mokykloms mokytojų, siunčia išeivių bibliotekoms knygų ir vadovėlių.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR).'

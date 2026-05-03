@@ -18,6 +18,18 @@ tags:
 
 Tuo tarpu rusai atsiėmė Ukmergę, Jonavą ir Šiaulius. Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (apie 3.500 karių).
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tuo tarpu rusai atsiėmė Ukmergę, Jonavą ir Šiaulius.'

@@ -19,6 +19,21 @@ tags:
 
 Bajorijos nuomonė ir jos pritarimas dar būdavo svarbūs, sprendžiant klausimą santykių su Lenkija: tuo tarpu, kai Lenkija remdavosi senaisiais dokumentais, Lietuva turėjo remtis savo visuomenės balsu. Į tokiuos seimus atvykdavo visa ponų taryba, visi aukštesnieji valstybės urėdai ir kas tik norįs iš bajorų. Juo toliau, juo seimas darėsi vis įtakingesnis.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Bajorijos nuomonė ir jos pritarimas dar būdavo svarbūs, sprendžiant klausimą santykių su Lenkija: tuo tarpu, kai Lenkija remdavosi senaisiais dokumentais, Lietuva turėjo remtis savo visuomenės balsu.'

@@ -16,6 +16,18 @@ tags:
 
 (Kongresas įvyko 1935 m. rugpiūčio 11—17 d. Kaune.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '(Kongresas įvyko 1935 m. rugpiūčio 11—17 d. Kaune.'

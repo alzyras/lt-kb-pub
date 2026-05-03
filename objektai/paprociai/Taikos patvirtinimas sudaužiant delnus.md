@@ -29,8 +29,20 @@ tags:
 
 Žemaičių krašto atstovai taiką su ordino magistru patvirtindavo sudauždami delnus. Tokiu būdu patvirtinta sutartis buvo laikoma įpareigojančia ir siejama su pareiga jos laikytis „mirtinai“.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: ritualas
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

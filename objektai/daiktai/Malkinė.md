@@ -25,6 +25,21 @@ tags: []
 
 Kūrėjų kūrėjas liepė sukrauti malkinę ir užsilipęs joje kalbėjo svietui. Ant tos pačios malkinės Brutenis liepė uždegti ugnį, o abu seneliai su ja sudegė.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kūrėjų kūrėjas liepė sukrauti malkinę ir užsilipęs joje kalbėjo svietui.'

@@ -19,6 +19,18 @@ tags:
 
 Susipratę vietos lietuviai, nenorėdami leisti tokiai krypčiai įsivyrauti, padedami savanorių būrio iš Lietuvos, sukilo su ginklu rankose prieš vietinę Klaipėdos krašto vyresnybę ir 1923 metų sausio mėn. Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkintos jų komisijos ir Lietuvos komisaro bendradarbiavimu visų įvykių likvidavime ir 1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Susipratę vietos lietuviai, nenorėdami leisti tokiai krypčiai įsivyrauti, padedami savanorių būrio iš Lietuvos, sukilo su ginklu rankose prieš vietinę Klaipėdos krašto vyresnybę ir 1923 metų sausio mėn.'

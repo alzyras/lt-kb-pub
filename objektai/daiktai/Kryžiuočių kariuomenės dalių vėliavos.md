@@ -30,6 +30,9 @@ tags:
 ## Santrauka
 Kryžiuočių kariuomenės dalių vėliavos po Tanenbergo mūšio pateko lietuviams ir lenkams, o [[Jogaila]] jas nugabeno į Krokuvą. Vėliau rinkinys buvo papildytas dar penkiomis vėliavomis, tačiau pats rinkinys žuvo ir iš jo liko tik XV a. pabaigos piešiniai.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
 ## Laikotarpis ir datos
 - Amžius: XV a.
 

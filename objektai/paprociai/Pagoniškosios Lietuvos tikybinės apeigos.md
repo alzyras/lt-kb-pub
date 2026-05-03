@@ -17,6 +17,21 @@ tags:
 
 Be to, susidurdami su lietuviais, jie čia pastebėdavo daug to, kas jiems būdavo nesuprantama ir nepaprasta: šventuosius miškus, amžinąsias ugnis, keistus dievų vardus, keistas tikybines apeigas.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Be to, susidurdami su lietuviais, jie čia pastebėdavo daug to, kas jiems būdavo nesuprantama ir nepaprasta: šventuosius miškus, amžinąsias ugnis, keistus dievų vardus, keistas tikybines apeigas.'

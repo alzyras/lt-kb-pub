@@ -16,6 +16,21 @@ tags:
 
 Po triukšmingų puotų jis išvyko iš Vilniaus, tik kai kuriuos ponus apdovanojęs Rusijos ordinais, o atsisveikindamas Oginskiui pareiškė, kad Lietuvos reikalų neleidusi sutvarkyti laiko stoka.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Po triukšmingų puotų jis išvyko iš Vilniaus, tik kai kuriuos ponus apdovanojęs Rusijos ordinais, o atsisveikindamas Oginskiui pareiškė, kad Lietuvos reikalų neleidusi sutvarkyti laiko stoka.'

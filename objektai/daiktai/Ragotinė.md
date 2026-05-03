@@ -25,6 +25,21 @@ tags: []
 
 Iš žvėrių ragų ant kesčių galų darydavo ragotines kaip sau skirtą ginklą. Žemaičiai, neturėdami geležies, gelžinius noragus sukalė į ragotines.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Iš žvėrių ragų ant kesčių galų darydavo ragotines kaip sau skirtą ginklą.'

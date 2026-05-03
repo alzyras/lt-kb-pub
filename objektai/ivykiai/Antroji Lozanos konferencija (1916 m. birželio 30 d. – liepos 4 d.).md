@@ -16,6 +16,18 @@ tags:
 
 Antroj Lozanos konferencijoj tų pačių metų birželio 30 — liepos 4 d. dalyvavo iš okupuotosios Lietuvos atvykę delegatai.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Antroj Lozanos konferencijoj tų pačių metų birželio 30 — liepos 4 d. dalyvavo iš okupuotosios Lietuvos atvykę delegatai.'

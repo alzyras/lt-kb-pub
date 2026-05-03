@@ -19,6 +19,21 @@ tags:
 
 Stepono Batoro pinigai: 26 — šilingas (solidus = 6 d-enarams,^1 Iз skatiko; jo vertė tačiau nebuvo pastovi); 27 — skatikas; 28 — trečiokas (3 skatikai); 29 — Lietuvoje kontrasignuotas Frizijos taleris.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Stepono Batoro pinigai: 26 — šilingas (solidus = 6 d-enarams,^1 Iз skatiko; jo vertė tačiau nebuvo pastovi); 27 — skatikas; 28 — trečiokas (3 skatikai); 29 — Lietuvoje kontrasignuotas Frizijos taleris.'

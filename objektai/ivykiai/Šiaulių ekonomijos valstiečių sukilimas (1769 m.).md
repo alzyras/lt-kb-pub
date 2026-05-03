@@ -18,6 +18,18 @@ tags:
 
 Būdavo taip pat atsitikimų, kad valstiečiai kai kur net sukildavo. Tuo pat metu buvo sukilę Ukrainos valstiečiai ir išpiovę daugybę bajorijos ir jų tarnų.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Būdavo taip pat atsitikimų, kad valstiečiai kai kur net sukildavo.'

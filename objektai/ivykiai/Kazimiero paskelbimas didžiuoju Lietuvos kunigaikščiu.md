@@ -19,6 +19,18 @@ tags:
 
 Lietuvių kviečiamam Kazimierui lenkai leido vykti į Lietuvą, bet tik kaip Vladislovo vietininkui. Zigmantui žuvus, natūraliu kandidatu į Lietuvos sostą tapo jo sūnus Mykolas; Mykolo šalininkai tuojau ir užėmė žemutinę Vilniaus pilį, Trakus ir Brastą.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Lietuvių kviečiamam Kazimierui lenkai leido vykti į Lietuvą, bet tik kaip Vladislovo vietininkui.'

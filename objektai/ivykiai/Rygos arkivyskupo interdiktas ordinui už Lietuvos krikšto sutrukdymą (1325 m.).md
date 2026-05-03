@@ -32,6 +32,18 @@ tags:
 
 1325 m. iš Avinjono sugrįžęs Rygos arkivyskupas ordinui paskelbė interdiktą už Lietuvos krikšto sutrukdymą. Tuo pat metu, atidėjus krikšto klausimą, Gediminui svarbiausia liko naujai sudarytos taikos išlaikymas.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1325 m. iš Avinjono sugrįžęs Rygos arkivyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą.'

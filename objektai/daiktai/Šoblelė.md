@@ -25,6 +25,21 @@ tags: []
 
 Šoblelė buvo dėvima ant šilkelio kaip senovinio vyriško apdaro dalis.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Šoblelė buvo dėvima ant šilkelio kaip senovinio vyriško apdaro dalis.'

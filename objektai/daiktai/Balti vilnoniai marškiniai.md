@@ -27,6 +27,12 @@ tags: []
 ## Santrauka
 Balti vilnoniai marškiniai buvo dalijami kaip krikšto dovana Jogailos vardu. Šaltinyje pabrėžiama jų simbolinė reikšmė ir praktinis poveikis krikšto eigai.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 Tai krikšto proga dalijamas drabužis.
 

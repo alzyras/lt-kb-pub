@@ -19,6 +19,18 @@ tags:
 
 Dar per karūnaciją caras įsakė atsiklausti dėl baudžiavos panaikinimo į iškilmes suvažiavusios bajorijos. Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo. Šitos komisijos sudarytas projektas buvo nusiųstas į Petrapilį, kur tokį pat darbą dirbo speciali komisija visai Rusijai.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Dar per karūnaciją caras įsakė atsiklausti dėl baudžiavos panaikinimo į iškilmes suvažiavusios bajorijos.'

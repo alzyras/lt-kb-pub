@@ -25,6 +25,21 @@ tags: []
 
 Po kremacijos numirėlio pelenai buvo supilami į molio indą prieš įdedant jį į kapus.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Po kremacijos numirėlio pelenai buvo supilami į molio indą prieš įdedant jį į kapus.'

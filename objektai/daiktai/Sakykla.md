@@ -16,6 +16,21 @@ tags:
 
 Pamokslai buvo sakomi per vertėjus: kunigas sakydavo vokiškai, o kaimo seniūnas ar kitas kuris valstietis iš greta stovinčios sakyklos jo kalbą atpasakodavo lietuviškai.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Pamokslai buvo sakomi per vertėjus: kunigas sakydavo vokiškai, o kaimo seniūnas ar kitas kuris valstietis iš greta stovinčios sakyklos jo kalbą atpasakodavo lietuviškai.'

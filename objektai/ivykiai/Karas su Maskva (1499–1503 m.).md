@@ -17,6 +17,18 @@ tags:
 
 Karas faktiškai prasidėjo 1499 m., nors buvo paskelbtas tik 1500 m. Jį Lietuva pralaimėjo, nes Aleksandras nesugebėjo laiku surinkti kariuomenės.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Karas faktiškai prasidėjo 1499 m., nors buvo paskelbtas tik 1500 m. Jį Lietuva pralaimėjo, nes Aleksandras nesugebėjo laiku surinkti kariuomenės.'

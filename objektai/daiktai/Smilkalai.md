@@ -25,6 +25,21 @@ tags: []
 
 Vyriausias kunigas į šventą ugnį mėtydavo smilkalus.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Vyriausias kunigas į šventą ugnį mėtydavo smilkalus.'

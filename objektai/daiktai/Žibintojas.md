@@ -25,6 +25,21 @@ tags: []
 
 Ant akmens, vadinamo žibintoju, sukurdavo ugnį vakarojant.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Ant akmens, vadinamo žibintoju, sukurdavo ugnį vakarojant.'

@@ -17,6 +17,18 @@ tags:
 
 Tik kai apie 1652 m. hetmonas Jonušas Radvila Kėdainiuose įkūrė specialią lietuviškoms knygoms spaustuvę, čia buvo išspausdinta maldaknygių, giesmių rinkinys, katekizmas ir nauja postilė. Netrukus Maskvos ir Švedų karai sunaikino visą kėdainiškių Radvilų galybę, ir nebebuvo kas įtaisytų spaustuvę.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tik kai apie 1652 m. hetmonas Jonušas Radvila Kėdainiuose įkūrė specialią lietuviškoms knygoms spaustuvę, čia buvo išspausdinta maldaknygių, giesmių rinkinys, katekizmas ir nauja postilė.'

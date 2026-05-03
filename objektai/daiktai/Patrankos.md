@@ -19,6 +19,21 @@ tags:
 
 Nuo Vytauto laikų Lietuvoje buvo liejami pabūklai. Šiame šaltinyje papildomai nurodoma, kad parakiniai pabūklai ankstyvuoju raidos etapu ypač tiko tvirtovių apguloms, 1382 m. lietuviai jau naudojo artileriją puldami kryžiuočių pilį, o 1397 m. Vytautas siuntė pabūklus Kijevui įtvirtinti.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Nuo Vytauto laikų Lietuvoje buvo liejami pabūklai.'

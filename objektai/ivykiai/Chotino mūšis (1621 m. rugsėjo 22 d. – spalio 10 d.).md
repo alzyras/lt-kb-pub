@@ -31,6 +31,18 @@ tags:
 
 Tekstas Chotino mūšį pristato kaip gynybinio mūšio pavyzdį ir paskutinę Jono Karolio Chodkevičiaus pergalę. Po mūšio minimos Turkijos paliaubos ir Dniestro linijoje atkurta siena. Chotino mūšis buvo gynybinio karo pavyzdys ir paskutinė Jono Karolio Chodkevičiaus pergalė Po Chotino mūšio Turkija pasirašė paliaubas, o 1623 m. taika atstatė sieną palei Dniestrą.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Chotino mūšis buvo gynybinio karo pavyzdys ir paskutinė Jono Karolio Chodkevičiaus pergalė.'

@@ -19,6 +19,18 @@ tags:
 
 Tais metais jau iš Vilniaus jis rašė savo garsiuosius laiškus popiežiui ir vakarų Europos miestams, iš Vilniaus jis derėjosi su Ryga ir su ordinu, pagaliau Vilniuje kitais metais jis turėjo pasikalbėjimą su popiežiaus legatų pasiuntiniais dėl krikšto.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Tais metais jau iš Vilniaus jis rašė savo garsiuosius laiškus popiežiui ir vakarų Europos miestams, iš Vilniaus jis derėjosi su Ryga ir su ordinu, pagaliau Vilniuje kitais metais jis turėjo pasikalbėjimą su popiežiaus legatų pasiuntiniais dėl krikšto.'

@@ -18,6 +18,21 @@ tags:
 
 Bet to meto bajorija ir didikai buvo įpratę visur, kur tik prikišdavo savo pirštus, pasipelnyti.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Bet to meto bajorija ir didikai buvo įpratę visur, kur tik prikišdavo savo pirštus, pasipelnyti.'

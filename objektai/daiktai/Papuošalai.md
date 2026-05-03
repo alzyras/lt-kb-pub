@@ -18,6 +18,21 @@ tags:
 
 Iš žalvario, aukso, sidabro, stiklo ir gintaro buvo dirbami papuošalai. Papuošalai buvo puošiami aukso, sidabro plokštelėmis, mėlyno stiklo akutėmis ir įvairiaspalviu emaliu.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Iš žalvario, aukso, sidabro, stiklo ir gintaro buvo dirbami papuošalai.'

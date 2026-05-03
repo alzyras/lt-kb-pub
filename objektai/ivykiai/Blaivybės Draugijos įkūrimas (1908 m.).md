@@ -16,6 +16,18 @@ tags:
 
 Kova su girtybe buvo iš naujo pradėta tik 1908 m., įkūrus Blaivybės Draugiją, kuri ir dabar tebeveikia.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kova su girtybe buvo iš naujo pradėta tik 1908 m., įkūrus Blaivybės Draugiją, kuri ir dabar tebeveikia.'

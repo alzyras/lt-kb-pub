@@ -17,6 +17,21 @@ tags:
 
 Jėzuitai mokydami pirmučiausia stengėsi išauklėti gerus katalikus ir paklusnius Bažnyčios sūnus. Ypatingai buvo žiūrima, kad mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pa. Jėzuitų kolegijose mokiniai ruošdavo religinio turinio vaidinimus ir disputus.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Jėzuitai mokydami pirmučiausia stengėsi išauklėti gerus katalikus ir paklusnius Bažnyčios sūnus.'

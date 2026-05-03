@@ -20,6 +20,21 @@ tags:
 
 Statinės minimos kaip kviečių ir medaus davinio talpa vyskupo išlaikymui.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '1417 m. vyskupo išlaikymui buvo paskirta po 10 statinių kviečių ir 10 statinių medaus.'

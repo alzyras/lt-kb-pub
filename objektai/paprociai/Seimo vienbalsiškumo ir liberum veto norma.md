@@ -17,6 +17,21 @@ tags:
 
 Visuose seimuose būdavo reikalaujama, kad viskas būtų sprendžiama vienu balsu. Atstovai buvo savo vaivadijos ar pavieto įgaliotiniai; tad, jei dėl kokių nors dalykų vaivadija nesutikdavo (ji instrukcijomis įpareigodavo savo atstovus to nusistatymo laikytis).
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Visuose seimuose būdavo reikalaujama, kad viskas būtų sprendžiama vienu balsu. Atstovai buvo savo vaivadijos ar pavieto įgaliotiniai; tad, jei dėl kokių nors dalykų vaivadija nesutikdavo (ji instrukcijomis įpareigodavo savo atstovus to nusistatymo laikytis).'

@@ -19,6 +19,18 @@ tags:
 
 13—14 d. Naujorke buvo sušauktas Amerikos lietuvių seimas, kuriame susirinko apie 1.200 delegatų; jie pareikalavo iš Amerikos (tada jau kare dalyvavusios) vyriausybės pripažinti nepriklausomą Lietuvos valstybę.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: '13—14 d. Naujorke buvo sušauktas Amerikos lietuvių seimas, kuriame susirinko apie 1.200 delegatų; jie pareikalavo iš Amerikos (tada jau kare dalyvavusios) vyriausybės pripažinti nepriklausomą Lietuvos valstybę.'

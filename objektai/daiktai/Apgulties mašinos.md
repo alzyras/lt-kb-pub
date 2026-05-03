@@ -17,6 +17,21 @@ tags:
 
 Lietuviai vietoje pasidarydavo pilims imti mašinas. Daugpilio apgultyje buvo panaudotos keturios akmenims svaidyti mašinos.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Lietuviai vietoje pasidarydavo pilims imti mašinas.'

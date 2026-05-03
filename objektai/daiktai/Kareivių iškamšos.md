@@ -17,6 +17,21 @@ tags:
 
 Vietoje rezervų švedams apgauti pamiškėje buvo pastatytos kareivių iškamšos, o už kelių kilometrų buvo nusiųsti keli būreliai, kurie turėjo pasirodyti mūšio metu, kad švedai juos palaikytų ateinančia parama.
 
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Vietoje rezervų švedams apgauti pamiškėje buvo pastatytos kareivių iškamšos, o už kelių kilometrų buvo nusiųsti keli būreliai, kurie turėjo pasirodyti mūšio metu, kad švedai juos palaikytų ateinančia parama.'

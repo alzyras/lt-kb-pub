@@ -18,6 +18,18 @@ tags:
 
 Lietuvių kariuomenės organizavimas Rusijoje. Iš tikrųjų lietuviams karininkams buvo pasisekę suorganizuoti net kelis tokiuos lietuviškus batalijonus (Vitebske, Smolenske, Rovnoje — Ukrainoje, — Sibire ir kt.).
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Lietuvių kariuomenės organizavimas Rusijoje.'

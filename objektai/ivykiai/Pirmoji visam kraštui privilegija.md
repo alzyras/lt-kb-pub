@@ -19,6 +19,18 @@ tags:
 
 Kadangi tuo metu Lietuvoje teko rūpintis, kad katalikybė pirmautų ne tik prieš naikinamą pagonybę, bet ir prieš rytų apeigų Bažnyčią, todėl Jogailos duotoje privilegijoje visos teisės pripažįstamos tik katalikams, o rytų apeigų krikščionys net suvaržomi.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Kadangi tuo metu Lietuvoje teko rūpintis, kad katalikybė pirmautų ne tik prieš naikinamą pagonybę, bet ir prieš rytų apeigų Bažnyčią, todėl Jogailos duotoje privilegijoje visos teisės pripažįstamos tik katalikams, o rytų apeigų krikščionys net suvaržomi.'

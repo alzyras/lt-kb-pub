@@ -27,8 +27,20 @@ tags: []
 
 Gediminas religinį sambūvį savo valstybėje apibūdino kaip skirtingų bendruomenių teisę garbinti Dievą pagal savas apeigas ir papročius. Autorius šią laikyseną aiškina kaip tolerantiško valdovo požiūrį daugiatautėje ir daugiareligėje valstybėje.
 
+## Laikotarpis ir datos
+Nenurodyta
+
 ## Kas tai
 - kategorija: socialinė norma
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
 
 ## Teiginiai
 - t-001

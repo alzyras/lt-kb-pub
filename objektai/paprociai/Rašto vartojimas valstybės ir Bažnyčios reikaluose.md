@@ -18,6 +18,21 @@ tags:
 
 Patys lietuviai tada apseidavo iš viso be jokio rašto. Ypač skirtingai ji ėmė plėtotis Lietuvoj, kai nuo XIV amžiaus pabaigos ji pasidarė valstybine rašto kalba, kai ja buvo rašoma daugumas raštų ne tik valstybės, bet ir Bažnyčios reikalams.
 
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
 ## Teiginiai
 - t-001
   teiginys: 'Patys lietuviai tada apseidavo iš viso be jokio rašto.'
