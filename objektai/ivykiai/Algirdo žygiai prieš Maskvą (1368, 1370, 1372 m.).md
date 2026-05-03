@@ -7,8 +7,7 @@ variantai:
   - 'trys Algirdo žygiai į Maskvą'
   - 'Maskvos mūrų apgulimas'
   - 'Algirdo žygiai į Maskvą (1368, 1370, 1372 m.)'
-aliases:
-  - '[]'
+aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'

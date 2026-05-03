@@ -7,8 +7,7 @@ variantai:
   - 'Durbės mūšio pralaimėjimas Livonijos ordinui'
   - 'Durbės mūšis'
   - 'Durbės mūšis (1260 m. liepos 13 d.)'
-aliases:
-  - '[]'
+aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
