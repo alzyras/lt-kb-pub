@@ -31,6 +31,111 @@ const panelInitialized = new WeakSet<HTMLElement>()
 let state = readState()
 let cachedSources: CitationSourceRegistryEntry[] = []
 
+function normalizeSources(sources: CitationSourceRegistryEntry[]): CitationSourceRegistryEntry[] {
+  return sources
+    .filter(
+      (source) =>
+        typeof source?.id === "string" &&
+        source.id.trim().length > 0 &&
+        typeof source?.title === "string" &&
+        source.title.trim().length > 0,
+    )
+    .map((source) => ({
+      id: source.id.trim(),
+      title: source.title.trim(),
+      count: Number.isFinite(source.count) ? Math.max(0, Number(source.count)) : 0,
+    }))
+    .sort((a, b) => {
+      if (b.count !== a.count) {
+        return b.count - a.count
+      }
+      return a.title.localeCompare(b.title, "lt", { sensitivity: "base" })
+    })
+}
+
+function deriveSourcesFromDom(): CitationSourceRegistryEntry[] {
+  const byId = new Map<string, CitationSourceRegistryEntry>()
+
+  document.querySelectorAll<HTMLElement>('[data-citation-entry="true"]').forEach((entry) => {
+    const id = String(entry.dataset.citationSourceId ?? "").trim()
+    const title = String(entry.dataset.citationSourceTitle ?? "").trim()
+    if (!id) {
+      return
+    }
+    const existing = byId.get(id)
+    if (existing) {
+      existing.count += 1
+      if (!existing.title && title) {
+        existing.title = title
+      }
+    } else {
+      byId.set(id, { id, title: title || id, count: 1 })
+    }
+  })
+
+  document.querySelectorAll<HTMLElement>('[data-citation-sources]').forEach((entry) => {
+    const ids = parseSourceIds(entry.dataset.citationSources)
+    ids.forEach((id) => {
+      const existing = byId.get(id)
+      if (existing) {
+        existing.count += 1
+      } else {
+        byId.set(id, { id, title: id, count: 1 })
+      }
+    })
+  })
+
+  return normalizeSources([...byId.values()])
+}
+
+async function fetchRegistryAt(url: string): Promise<CitationSourceRegistryEntry[] | null> {
+  try {
+    const response = await fetch(url, { cache: "no-store" })
+    if (!response.ok) {
+      return null
+    }
+    const data = await response.json()
+    if (!Array.isArray(data)) {
+      return null
+    }
+    return normalizeSources(data as CitationSourceRegistryEntry[])
+  } catch {
+    return null
+  }
+}
+
+async function loadCitationSources(): Promise<CitationSourceRegistryEntry[]> {
+  const fromGlobal = citationSourceGlobal.fetchCitationSources
+  if (fromGlobal) {
+    try {
+      const resolved = await fromGlobal
+      const normalized = normalizeSources(Array.isArray(resolved) ? resolved : [])
+      if (normalized.length > 0) {
+        return normalized
+      }
+    } catch {
+      // fallback below
+    }
+  }
+
+  const candidates = [
+    "./static/citationSources.json",
+    "../static/citationSources.json",
+    "../../static/citationSources.json",
+    "/lt-kb-pub/static/citationSources.json",
+    "/static/citationSources.json",
+  ]
+
+  for (const candidate of candidates) {
+    const resolved = await fetchRegistryAt(candidate)
+    if (resolved && resolved.length > 0) {
+      return resolved
+    }
+  }
+
+  return deriveSourcesFromDom()
+}
+
 function escapeHtml(text: string): string {
   return text
     .replaceAll("&", "&amp;")
@@ -361,13 +466,13 @@ function initOptionsPanels() {
   applyFilters()
 }
 
-Promise.resolve(citationSourceGlobal.fetchCitationSources ?? [])
+loadCitationSources()
   .then((sources) => {
-    cachedSources = Array.isArray(sources) ? sources : []
+    cachedSources = sources
     initOptionsPanels()
   })
   .catch(() => {
-    cachedSources = []
+    cachedSources = deriveSourcesFromDom()
     initOptionsPanels()
   })
 

@@ -29,6 +29,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
+      wrap: "wrap",
       components: [
         {
           Component: Component.Search(),
@@ -37,7 +38,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
         { Component: Component.ReaderMode() },
         { Component: Component.AdvancedEvidenceToggle() },
-        { Component: Component.OptionsPanel() },
+        { Component: Component.OptionsPanel(), basis: "100%", order: 10, align: "start" },
       ],
     }),
     Component.Explorer(),
@@ -60,6 +61,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
+      wrap: "wrap",
       components: [
         {
           Component: Component.Search(),
@@ -67,7 +69,7 @@ export const defaultListPageLayout: PageLayout = {
         },
         { Component: Component.Darkmode() },
         { Component: Component.AdvancedEvidenceToggle() },
-        { Component: Component.OptionsPanel() },
+        { Component: Component.OptionsPanel(), basis: "100%", order: 10, align: "start" },
       ],
     }),
     Component.Explorer(),

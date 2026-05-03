@@ -1,5 +1,7 @@
 .options-panel-root {
   position: relative;
+  display: flex;
+  align-items: center;
 }
 
 .options-panel-toggle,
@@ -14,8 +16,38 @@
 }
 
 .options-panel-toggle {
-  padding: 0.35rem 0.65rem;
-  line-height: 1.2;
+  cursor: pointer;
+  padding: 0;
+  position: relative;
+  background: none;
+  border: none;
+  width: 20px;
+  height: 32px;
+  margin: 0;
+  text-align: inherit;
+  flex-shrink: 0;
+}
+
+.options-panel-toggle .options-panel-icon {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: calc(50% - 10px);
+  fill: var(--darkgray);
+  stroke: var(--darkgray);
+  transition: opacity 0.1s ease;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
 }
 
 .options-panel-popover {
