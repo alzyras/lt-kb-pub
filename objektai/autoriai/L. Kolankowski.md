@@ -16,11 +16,11 @@ laikotarpis: '1930 m.; 1935 m.'
 datos:
   - '1930 m.'
   - '1935 m.'
-periodas: '
+periodas: ''
 periodo_grupes: []
 amziai: []
-date_start: '
-date_end: '
+date_start: ''
+date_end: ''
 vaidmenys:
   - 'istorikas'
   - 'autorius'
