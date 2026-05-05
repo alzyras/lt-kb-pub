@@ -104,9 +104,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - t-011
   teiginys: 'Gediminas iki gyvenimo galo liko pagonis, nieko dėl religinių priežasčių nepersekiojo ir Naugarduke palaikė atskirą Lietuvos stačiatikių arkivyskupiją.'
   pagrindžia:
-    - c-010
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+    - c-009
 - t-012
   teiginys: 'Gedimino laikai šaltinyje siejami su herojišku pagonišku patriotizmu ir didžiausiu kryžiuočių spaudimu.'
   pagrindžia:
@@ -120,7 +118,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-014
-  teiginys: 'Šaltinis Gediminą apibūdina ne tik kariu, bet ir valstybininku, veikusiu diplomatija.'
+  teiginys: 'Gediminas apibūdinamas ne tik kariu, bet ir valstybininku, veikusiu diplomatija.'
   pagrindžia:
     - c-013
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -290,20 +288,6 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-010
-- c-010
-  santrauka: Gediminas iki gyvenimo galo liko pagonis ir palaikė atskirą arkivyskupiją Naugarduke.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Nuo didžiojo Lietuvos valstybės atnaujintojo Gedimino laikų
-    varžybinis sąlytis su rytų slavais, kurių žemių žymi dalis pateko
-    į Lietuvos sudėtį, darėsi vis reikšmingesnis.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
-  pagrindžia:
     - t-011
 - c-011
   santrauka: Gedimino laikai susiejami su didžiausiu kryžiuočių spaudimu.
@@ -380,7 +364,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   pagrindžia:
     - t-016
 - c-016
-  santrauka: Šaltinyje pabrėžiamas Gedimino religinis pakantrumas.
+  santrauka: Pabrėžiamas Gedimino religinis pakantrumas.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Aniems laikams Gedimino religinis pakantrumas buvo nuosta­

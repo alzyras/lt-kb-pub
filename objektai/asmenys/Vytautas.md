@@ -177,7 +177,7 @@ Vytautas šiame šaltinyje rodomas kaip savarankišku tapęs Lietuvos valdovas, 
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-024
-  teiginys: 'Šaltinis Vytautui priskiria didelį švaistymąsi materialinėmis gėrybėmis, ypač norint pasirodyti užsieniečiams.'
+  teiginys: 'Vytautui priskiriamas didelis švaistymasis materialinėmis gėrybėmis, ypač norint pasirodyti užsieniečiams.'
   pagrindžia:
     - c-025
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -453,7 +453,7 @@ Vytautas šiame šaltinyje rodomas kaip savarankišku tapęs Lietuvos valdovas, 
   pagrindžia:
     - t-019
 - c-021
-  santrauka: Šaltinis išskiria Vytauto pažadus dėl Žemaičių ir jų susigrąžinimą.
+  santrauka: Išskiriami Vytauto pažadai dėl Žemaičių ir jų susigrąžinimas.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Per dvi­
