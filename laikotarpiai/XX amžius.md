@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 85.
+Objektų skaičius: 91.
 
 ## Kaip naudoti
 
@@ -27,6 +27,7 @@ Objektų skaičius: 85.
 - [[objektai/autoriai/A. Alekna]]
 - [[objektai/autoriai/A. Brückner]]
 - [[objektai/autoriai/A. Janulaitis]]
+- [[objektai/autoriai/A. Kučinskas]]
 - [[objektai/autoriai/A. Salys]]
 - [[objektai/autoriai/A. Šapoka]]
 - [[objektai/autoriai/Adomas Dambrauskas Jakštas]]
@@ -36,22 +37,27 @@ Objektų skaičius: 85.
 - [[objektai/autoriai/J. Puzinas]]
 - [[objektai/autoriai/Jonas Basanavičius]]
 - [[objektai/autoriai/K. Būga]]
+- [[objektai/autoriai/K. Lohmeyer]]
+- [[objektai/autoriai/L. Kolankowski]]
+- [[objektai/autoriai/M. Krasauskaitė]]
 - [[objektai/autoriai/O. Halecki]]
 - [[objektai/autoriai/P. Klimas]]
 - [[objektai/autoriai/P. Šležas]]
+- [[objektai/autoriai/S. Sužiedėlis]]
+- [[objektai/autoriai/V. Dėdinas]]
 - [[objektai/autoriai/Vincas Kudirka]]
-- [[objektai/autoriai/Z. Ivinskis|Zenonas Ivinskis]]
+- [Zenonas Ivinskis](../objektai/autoriai/Z.%20Ivinskis)
 
 ### Grupės
-- [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti]]
-- [[objektai/grupes/Lietuvos seimas (1924 m.)]]
+- [Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti](../objektai/grupes/Centralinis%20Komitetas%20Nukent%C4%97jusiems%20D%C4%97l%20Karo%20%C5%A0elpti)
+- [Lietuvos seimas (1924 m.)](../objektai/grupes/Lietuvos%20seimas%20%281924%20m.%29)
 
 ### Posakiai
-- [[objektai/posakiai/Skelbia nepriklausomos Lietuvos valstybės atstatymą su sostine Vilnium]]
+- [Skelbia nepriklausomos Lietuvos valstybės atstatymą su sostine Vilnium](../objektai/posakiai/Skelbia%20nepriklausomos%20Lietuvos%20valstyb%C4%97s%20atstatym%C4%85%20su%20sostine%20Vilnium)
 
 ### Įvykiai
-- [[objektai/ivykiai/1917 m. lietuvių seimas Petrapilyje]]
-- [[objektai/ivykiai/Amerikos lietuvių fondų ir komitetų kūrimas Lietuvos reikalams (1905–1913 m.)]]
+- [1917 m. lietuvių seimas Petrapilyje](../objektai/ivykiai/1917%20m.%20lietuvi%C5%B3%20seimas%20Petrapilyje)
+- [Amerikos lietuvių fondų ir komitetų kūrimas Lietuvos reikalams (1905–1913 m.)](../objektai/ivykiai/Amerikos%20lietuvi%C5%B3%20fond%C5%B3%20ir%20komitet%C5%B3%20k%C5%ABrimas%20Lietuvos%20reikalams%20%281905%E2%80%931913%20m.%29)
 - [Amerikos lietuvių seimas Niujorke (1918 m. kovo 13–14 d.)](../objektai/ivykiai/Amerikos%20lietuvi%C5%B3%20seimas%20Niujorke%20%281918%20m.%20kovo%2013%E2%80%9314%20d.%29)
 - [Antroji Lozanos konferencija (1916 m. birželio 30 d. – liepos 4 d.)](../objektai/ivykiai/Antroji%20Lozanos%20konferencija%20%281916%20m.%20bir%C5%BEelio%2030%20d.%20%E2%80%93%20liepos%204%20d.%29)
 - [Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)](../objektai/ivykiai/Augustavo-Suvalk%C5%B3%20operacija%20%281920%20m.%20rugs%C4%97jo%2022%20d.%20%E2%80%93%20rugs%C4%97jo%20pabaiga%29)

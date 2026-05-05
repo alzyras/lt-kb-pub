@@ -28,6 +28,7 @@ variantai:
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: 'XIII amž.; 1190 m.; 1230 m.; 1231 m.; 1309 m.; 1345–1377 m.; 1361 m.; 1362 m.; 1370 m.; 1377 m.; 1382 m.; 1385 m.; 1386 m.; 1387 m.; 1401 m.; 1404 m.; 1409 m.; 1410 m. liepos 15 d.; 1411 m.; 1430 m.; XV amžius; XIII–XV amžiai; 1431 m.; Ukmergės mūšis; 1454–1466 m.; 1466 m.; 1511 m.; 1525 m.; 1618 m.; 1809 m.; XVI a.; 1525 m.; tekste nenurodyta'
 datos:
   - 'XIII amž'
@@ -81,11 +82,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - t-002
   teiginys: 'Kryžiuočių ordinas susiejamas su Marijos Mergelės ordino vardu ir kryžiaus karų tradicija'
   pagrindžia:
-    - c-002
-    - c-043
-    - c-044
-    - c-045
-    - c-048
+    - c-066
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-003
@@ -107,7 +104,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - t-005
   teiginys: 'Kryžiuočių ordinas atvirai įvardijamas kaip Jogailos planams priešinęsis vokiečių ordinas, puolęs Lietuvą'
   pagrindžia:
-    - c-005
+    - c-071
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-006
@@ -132,6 +129,50 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
+- t-009
+  teiginys: 'Prūsuose sustiprėjęs ordinas kolonizavo žemes ir kasmet puldavo Lietuvą.'
+  pagrindžia:
+    - c-054
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: '1382 m. Jogaila užrašė kryžiuočiams beveik visą vakarinę Žemaičių dalį iki Dubysos ir pažadėjo be ordino žinios nepradėti karo.'
+  pagrindžia:
+    - c-055
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-011
+  teiginys: 'Vytautas ordinui pažadėjo Žemaitiją iki Nevėžio ir Kauną, o ordinas toliau rėmė jo kovą dėl tėviškės.'
+  pagrindžia:
+    - c-056
+    - c-057
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-012
+  teiginys: 'Ordinas plėtė karinę akciją Lietuvos pasienyje statydamas Naująjį Gardiną ir Metenburgą su kryžiuočių įgulomis.'
+  pagrindžia:
+    - c-058
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-013
+  teiginys: 'Prieš Vorsklos žygį ordinas siuntė savo kariuomenę Vytautui ir tebelaikė save kovotoju su netikinčiaisiais.'
+  pagrindžia:
+    - c-068
+    - c-067
+    - c-064
+    - c-059
+    - c-060
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-014
+  teiginys: 'Po Lietuvos krikšto ordinas Vakaruose skleidė gandus apie tariamą krikštą, o po Žalgirio jo pretenzija krikštyti Žemaitiją žlugo.'
+  pagrindžia:
+    - c-065
+    - c-063
+    - c-061
+    - c-062
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu
@@ -250,347 +291,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
-- c-009
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    ir galinga voloečių ordino valstybė per du šimtmečius labiausiai
-    svėrė Lietuvos gyvenime, darydama daug įtakos ir jos svarbiems poli­
-    tiniams apsisprendimams^68.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-002
-- c-010
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jeigu 1257 ir 1259 metų Mindaugo vardu surašytieji dokumentni
-    ir būtų sufabrikuoti vokiečių ordino kanceliarijoje, ten tačiau mi­
-    nimos sritys (pietvakarių Žemaičių dalyje, Sūduvoje), kurias Mindau­
-    gas esą užrašęs ordinui, berods, galėtų tarnauti argumentu, kad jas
-    Mindaugas yra savinęsis, arba jos jam tiesiog yra priklausiusios.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-002
-- c-011
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kadangi Prūsų kryžiuočiai porai dešimtmečių buvo užimti
-    krašto viduje (sukilimas galutinai buvo numalšintas 1274 m.), Trai­
-    denio ir jo įpėdinių valdžioje spėjusi sutvirtėti, vėliau per eilę gene­
-    racijų Lietuva pajėgė sėkmingai vesti įtemptas kovas prieš riterius.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-003
-- c-012
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    vokiečių ordinas per daug buvo užsisklendęs savo siauruose sieki­
-    muose. Tad Gediminui politinės aplinkybės krikštui tapo gana
-    nepalankios, nes teisę krikštyti Lietuvą tik sau tepripažino kry­
-    žiuočiai, kurie uoliai savo žygiuose nešė kryžių ant kardo galo.
-    Ryžtingai kovojančių pagonių jie iš viso neturėjo progos klaustis,
-    ar jie turi norą krikštytis.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-005
-- c-013
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kryžiuočių rankose atsirado (su 1257 ir 1259 datomis)
-    dokumentai, kuriais esą Mindaugas ordinui užrašęs visą Žemaitiją^2.
-    Jokiai kitai žemei laimėti kryžiuočiai nėra padėję tiek daug pa­
-    stangų, kaip šitam pleištui tarp Nemuno žemupio ir Kuršo-Žiemga­
-    los
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-003
-- c-014
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Už antrąjį Vytauto netikėtą atsimetimą kryžiuočiai keršijo ir
-    puldinėjo 1392 m. Jogailos jam pavestą valdyti Lietuvą. 1394 m.
-    vasarą pats vyriausias magistras Konradas von Jungingen su gau­
-    siais svečiais suruošė didelį žygį Lietuvon^3. Kryžiuočiai vėl atėjo
-    iki pat Vilniaus ir per kelias savaites bandė jį paimti
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-005
-- c-015
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tą patį rudenį (X.12),
-    susivažiavę arti Nevėžio žiočių Nemuno saloje — « Salyne », kiek
-    žemiau Kulautuvos^5 , Vytautas ir K. Jungingenas galutinai patvir­
-    tino sutartį^6. Pasilikdamas sau Nevėžio žiotis, Vytautas kryžiuo­
-    čiams užleido visus Žemaičius. Salyno akte pirmą kartą apytikriai
-    buvo nužymėtos ordinui tenkančių žemių sienos
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-003
-- c-016
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1401 m. sausio
-    mėnesį į patį Marienburgą nuvykęs Žemaičių bajorų būrys ne tik
-    ieškojo patvirtinimo savo turimoms luominėms teisėms, bet ir patys
-    krikštijosi. Jie prašė pakrikštyti ir įkaitais paimtus jų vaikus, kurie
-    Prūsuose turėjo sunkią dalį^13. Į pačius Žemaičius krikšto reikalu
-    ordinas siuntė kunigų ir vienuolių^14 , o žmonėms teisti ir valdyti —
-    « kamarninkų »^15. Kryžiuočiai skubėjo Žemaičiuose įsitvirtinti ir
-    įvesti savo tvarką
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-007
-- c-017
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vėl žadėdamas ordinui Žemaičius Salyno taikos sąlygomis,
-    Vytautas įsipareigojo per metus atiduoti kraštą. Be to, jis apsiė­
-    mė priversti, kad Žemaičiai pasiduotu ordino valdžiai ir užstatan
-    duotu žmonių.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-002
-- c-018
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ordino magistras, be kitko, skundė popiežiui Vytautą, kad jis
-    iš visų jėgų siekiąs užvaldyti Žemaičius tokiose ribose, kokiose jie
-    anksčiau nebuvę. Jeigu Vytautas gautų Klaipėdą — skundėsi ma­
-    gistras, — Prūsų ir Livonijos žemės liktų perskirtos, ir tai reikštų
-    « visišką ordino sunaikinimą » (« finalem ordini subversionem »)^22.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-002
-- c-019
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Priversti susivažiuoti Veliuonoje su Vytautu ir Jogailos atsto­
-    vais (1423.V.), didysis magistras ir Livonijos magistras ieškojo
-    formalių priekabių sutartį sugriauti.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-005
-- c-020
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kryžiuočiams laikantis savo, kunigaikštis suti­
-    ko «taikos labui » (« propter bonum pacis ») atsisakyti nuo Klai­
-    pėdos su trijų mylių ruožu nuo jūros^30.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-007
-    - t-002
-    - t-002
-    - t-003
-    - t-005
-    - t-003
-    - t-005
-    - t-003
-    - t-007
-    - t-002
-    - t-002
-    - t-005
-    - t-007
-- c-033
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kitados, ypač XIV amž., nuolatiniai ordino žygiai Lietuvon
-    vertė visą kraštą virsti lyg kokia nuolatinio karo stovykla. Ta­
-    čiau karams su kryžiuočiais pasibaigus, baigėsi pavojai iš vakarų
-    pusės.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-002
-- c-034
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ir Prūsų
-    ordinas mielai priglausdavo tokius perbėgėlius, juos pakrikštydamas.
-    Jų žemes ordinas priiminėjo vasaliniais feodais, vis rūpestingai
-    aktuose pažymėdamas, jog buvę savininkai gaus savo žemes valdyti,
-    kai Lietuva bus nukariauta^91.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-007
-- c-035
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Prūsų ordinas XIII amž. galo užvaldė Nemuno deltą.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-003
-- c-036
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į
-    jiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek
-    tegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-007
-- c-037
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ordinas teturėjo vieną tikslą : savo nepaliaujamais teriojimo
-    žygiais, kurie labiausiai kankino Žemaičius, paklupdyti pagonių
-    kraštą ir jį užvaldyti. Puolimai sekė puolimus. Pvz., 1316 m.
-    pradžioje kryžiuočiai plėšė Dubysos žemupį, paskui jie brovęs
-    krašto gilumon iki Varnių; balandžio mėn. jie sunaikino Biseną,
-    o vasarą vėl teriojo Varnių sritį, kurią trumpu laiku nuliežė kelis
-    kartus.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-007
-- c-038
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Talkininkaujami svečių iš Anglijos, Vokietijos ir
-    Italijos, ir padedami Livonijos magistro, Prūsų kryžiuočiai 1362
-    pavasarį atliko drąsų žygį, išgriaudami svarbią lietuvių Nemuno
-    ir Neries santakos pilį — Kauną.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-003
-- c-039
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų
-    kryžiuočių ir 30—iš Livonijos.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-002
-- c-040
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis
-    magistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-005
-    - t-002
-- c-042
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ar XIV amž. gale kryžiuočių ordino surašytuose Lie­
-    tuvos kelių aprašymuose (« die litauischen Wegeberichte ») įvairiose
-    Aukštaičių žemės vietose minimi didžiojo kunigaikščio dvarai (jų
-    iš viso sužymėta 18), gali tarnauti lietuvių plotui apibrėžti, palieka
-    atviras klausimas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-002
-    - t-007
-    - t-003
-    - t-007
-    - t-007
-    - t-003
-    - t-002
-    - t-005
 - c-043
   santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -600,7 +300,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
@@ -613,7 +313,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
@@ -630,7 +330,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
@@ -646,7 +346,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-003
@@ -663,7 +363,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-003
@@ -680,7 +380,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
@@ -696,7 +396,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-007
@@ -710,7 +410,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-003
@@ -730,7 +430,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-003
@@ -746,7 +446,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-007
@@ -772,12 +472,283 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-007
     - t-002
     - t-002
+
+- c-054
+  santrauka: Ordinas parodytas kaip Prūsuose sustiprėjusi ir Lietuvą nuolat puldanti jėga.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vokiečių Ordinas, bekariaudamas įsigijo Prūsuose didelius
+    žemės plotus ir juos kolonizuodamas, darėsi vis stipresnis, Lai­
+    mėjęs Vislos žiotis ir Pamarį (1309 metais) ir išplėtęs savo pre­
+    kybą su tolimais Vakarų Europos miestais, nors vis labiau tolo
+    nuo pirmykštės Ordino dvasios, bet turėdami pilną iždą pinigų,
+    daug stiprių pilių ir nuolat iš Vakarų Europos plaukiančių jėgų,
+    kryžiuočiai kasmet po kelis kartus puldavo Lietuvą, išniokoda­
+    mi plačias jos sritis, degindami gyvenamas vietas ir žmones iš­
+    sivesdami nelaisvėn.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+- c-055
+  santrauka: 1382 m. Jogaila suteikė ordinui dideles nuolaidas Žemaitijoje ir karo politikoje.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jogaila pasižada su abiem Ordinais ketverius metus laikytis
+    taikos, antrojoje žada 4-rių metų bėgy kartu su savo tautiečiais
+    apsikrikštyti, trečiąja sutartimi, kuri buvo vokiečių Ordinui pati
+    svarbiausioji, jis užrašė kryžiuočiams beveik visą Žemaičių
+    kraštą, t. y. vakarinę jo dalį iki pat Dubysos upės. Žadėdamas
+    Jogailai padėti karo jėgomis, Ordinas išgavo iš jo sutikimą, kad
+    jis be Ordino žinios ir pritarimo su niekuo nepradės karo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
+- c-056
+  santrauka: Vytautas už ordino paramą pažadėjo Žemaitiją iki Nevėžio ir Kauną.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Atiduodamas vokiečiams visą Žemaičių kraštą
+    iki pat Nevėžio upės, Vytautas dar pažadėjo Ordinui Kauną.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-011
+- c-057
+  santrauka: Geri santykiai su ordinu buvo laikomi garantija tolesnei paramai Vytautui.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Po šito susitarimo, žemaičių santykiai su Ordinu vis dau­
+    giau švelnėjo. Tai, žinoma, negalėjo atsitikti be Vytauto pa­
+    tarimo ir pritarimo, nes tėviškė dar nebuvo atgauta, t. y. jo pla­
+    nas dar nebuvo realizuotas, todėl gražus su kryžiuočiais sugy­
+    venimas buvo garantija, kad Ordinas neatsisakys ir toliau rem­
+    ti Vytauto jo kovoje dėl teisės į savo tėviškę.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-011
+- c-058
+  santrauka: Ordinas prie Lietuvos pasienio statė naujas pilis su įgulomis.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Matydamas Vytauto pastangas neinant veltui, Ordinas ma­
+    tė reikalą taip pat išplėsti Lietuvos pasienyje akciją. Dar
+    vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi
+    pilis: Naująjį Gardiną ir Metenburgą (Meteną), kame buvo pa­
+    talpintos kryžiuočių įgulos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-012
+- c-059
+  santrauka: Ordinas prie Vorsklos atsiuntė savo komtūrą su kariuomene.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ordinas atsiuntė savo komtūrą
+    Marquardą v. Salzbachą su keliais tūkstančiais kariuomenės;
+    prisijungė prie Vytauto su savo pulkais ir Tochtamyšas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-013
+- c-060
+  santrauka: Ordinas tebelaikė kovos su netikinčiaisiais garbę savo prestižo dalimi.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Dabar visa garbė ir
+    šlovė, kurią savinosi Prūsų Ordinas, kaip kovotojas su netikin­
+    čiais, turėjo atitekti Vytautui, galvojančiam nukariauti visus
+    totorius, tarpininkaujant Tochtamyšui, pretendentui į jų sostą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-013
+- c-061
+  santrauka: Ordinas Vakaruose skleidė gandus apie tariamą Lietuvos krikštą ir gynė savo reputaciją.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Prie­
+    šingai, kryžiuočiai paleido į Vak. Europos visuomenę gandų,
+    kad Lietuvos krikštas yra tariamas, atliktas paviršutiniškai,
+    be didesnio žmonių paruošimo ir net apsikrikštijusieji tai da­
+    rė dovanų pavilioti^2 ). Vytautas, jų vadas, esąs grasinąs sa­
+    vo arklius pagirdyti Reino upėje, vadinasi, katalikas būdamas,
+    norįs užimti ir sunaikinti katalikišką Vokietiją. Vak. Europos
+    visuomenė tikėjo Ordinui ir laikė tik jį tikėjimo gynėju Europos
+    Rytuose.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-014
+- c-062
+  santrauka: Po Žalgirio ordinas prarado pretenziją kardu krikštyti Žemaitiją.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Bet štai Vytautas Žalgirio mūšyje (1410) palaužė Ordino
+    galybę ir Žemaitijai grąžino laisvę. Torno taika (1411) įgijęs
+    Žemaičių kraštą iki gyvos galvos, Vytautas jau nebesiskaitė su
+    žemaičių prisirišimu prie savo tikėjimo ir pasiryžo juos ap­
+    krikštyti. Tuo būdu Ordinas, pralaimėjęs Žalgirio kovą, pra­
+    laimėjo ir čia, nes jo užsimojimas apkrikštyti visą Lietuvą ir
+    plačiai garsintas pasauliui rytuose apaštalavimas, kurį jis vedė
+    kardu, sudužo į Vytauto galybę. Vytautui, bet ne Ordinui,
+    teko garbė laimėti Žemaičius Kristaus Bažnyčiai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-014
+- c-063
+  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Iš savo pusės, sutikdami apsi­
+    krikštyti, jiedu pirmiausia reikalavo, kad Vokiečių Ordinas Lie­
+    tuvai grąžintų žemes iki Deimės ir Alės upių Prūsijoje ir Žiemga­
+    lius bei Kuršius Livonijoje. Kadangi Lietuvai apsikrikštijus
+    Ordino egzistencijai Lietuvos pasieniuose nebūtų buvę pagrindo,
+    tai jiedu siūlė Ordinui išsikelti į Rusijos pietus, ginti krikščionis
+    nuo totorių užpuldinėjimo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-014
+- c-064
+  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vy­
+    tautas stengėsi prieš save atkreiptą ir Maskvos vadovaujamą
+    koaliciją nuginkluoti rytų koalicijos planu, nukreiptu prieš kar­
+    dininkus ir kryžiuočius.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-013
+- c-065
+  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas, dukart iš Lietuvos pabėgęs, išbuvo apie ketve­
+    rius metus Prūsuose. Tenai, kryžiuočių tarpe, jis išėjo gerą ir
+    drausmingą gyvenimo mokyklą, kuri jam padėjo atsivaduoti
+    tėviškę. Ordino valstybė, gyvenusi keletą šimtų metų krikščio­
+    niškos Vakarų kultūros įtakoj, labai teigiamai galėjo atsiliepti
+    sumaniam Vytautui: jis čionai rado savo tikslams ne tik mate­
+    rialinės, bet ir dvasinės paramos. Tas kraštas jį ir politiškai iš­
+    lavino.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-014
+- c-066
+  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Išmoko čia ir tos suktos, bet realios Ordino politikos, ku­
+    rios vėliau pats griebdavos santykiaudamas su kaimynais.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
+- c-067
+  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Krėvės akte buvo pasirašęs ir jis, bet
+    tas jam nė kiek nekliudė 1398 met. sudaryti su Ordinu prieš
+    savo juridiškąjį suvereną sutartį ir pasirašyti ją titulu: „Dei gra­
+    tia supremus dux Lithuaniae et Russiae“.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-013
+- c-068
+  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Labai aukštai
+    savo ir visos Lietuvos vardą pakėlė sudarydamas kompaniją
+    prieš Ordiną, kuri galutinai savo tikslo pasiekė. Ordinas tapo
+    deskredituotas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-013
+    - t-014
+    - t-013
+- c-071
+  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    O kai Vokiečių Ordino ma­
+    gistras uždraudė į Lietuvą įvežti druskos, supykęs Vytautas įsa­
+    kė visiems vokiečių pirkliams iki Sekminių iš Lietuvos išsineš­
+    dinti^3 ).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-005
+    - t-014
+    - t-002
+    - t-013
+    - t-013
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -785,7 +756,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XIV amžius]]
 
 ### Susiję objektai
 - [[objektai/grupes/Joanitų ordinas]]

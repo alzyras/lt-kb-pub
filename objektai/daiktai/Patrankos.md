@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 patikimumas: 'aukštas'
 periodas: viduramziai
 tags:
@@ -58,6 +59,37 @@ Nenurodyta
   pagrindžia:
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+
+- t-005
+  teiginys: 'XV a. patrankos buvo griozdiškos, didelės, sunkiai pervežamos ir labiau tiko tvirtovėms griauti.'
+  pagrindžia:
+    - c-005
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Žalgirio mūšyje patrankos buvo vartotos tik pradžioje.'
+  pagrindžia:
+    - c-006
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'Prie Drevencos kryžiuočiai sustiprino upės krantus ir apstatė juos patrankomis.'
+  pagrindžia:
+    - c-007
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: 'Žalgirio mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet sąjungininkų sumišimo nesukėlė.'
+  pagrindžia:
+    - c-008
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: 'Skirgaila Trakų piliai ginti gavo iš maršalkos keletą didelių armotų.'
+  pagrindžia:
+    - c-009
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -123,6 +155,90 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+
+- c-005
+  santrauka: XV a. patrankos apibūdinamos kaip didelės ir nepatogios atviram mūšiui.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Artilerija XV šm. dar buvo labai netobula ir ne visuose ka­
+    ruose pritaikoma. Patrankos buvo griozdiškos, didelės, sun­
+    kiai pervežamos, todėl jos labiau tiko tvirtovėms griauti ir pi­
+    lims imti. Šoviniai patrankoms buvo daromi iš akmens arba
+    švino. Patrankos padarydavo daug triukšmo, bet maža nau­
+    dos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: Žalgirio mūšyje patrankos panaudotos tik pačioje pradžioje.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Nors Žalgirio mūšyje patrankų buvo, bet jas mažai, tik
+    pradžioje tevartojo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: Drevencos perėja buvo apstatyta kryžiuočių patrankomis.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­
+    niku. Čia pastebėjo, kad perėjimas per tą upę jau kryžiuočių
+    buvo saugojamas. Jie čia jau buvo atvykę iš Sviečės, sustipri­
+    nę upės krantus ir apstatę juos patrankomis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: Žalgirio pradžioje patrankų salvės sąjungininkų nesutrikdė.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pirmiausia kautynės prasidėjo ietimis, o paskui į darbą ėjo kir­
+    viai, kardai ir kiti ginklai. Tiesa, pačioje mūšio pradžioje kry­
+    žiuočiai iššovė porą kartų iš patrankų, bet jos sumišimo sąjun­
+    gininkų kariuomenėj nesukėlė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: Skirgaila Trakams gavo didelių armotų.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Patvirtinus tą aktą savo antspaudomis Baigos, Bran­
+    denburgo ir Ragainės komtūrams, maršalka atsitraukė nuo
+    Trakų. Iš šito fakto aiškiai matyti, kad Jogaila suėjo su Or­
+    dinu į dar artimesnius santykius. Norėdamas skubiai Trakus
+    paimti, praėjus porai savaičių (liepos mėn. 20 d.), Skirgaila
+    vėl pasišaukė pagalbon maršalką. Kada Vytauto paliktieji Tra­
+    kų pilies gynėjai nenorėjo nė kalbėti apie pasidavimą kryžiuo­
+    čiams, vokiečių kariuomenės maršalka, grasindamas sugriau­
+    siąs pilį, reikalavo, kad jie pasiduotų geruoju nors Jogailai. Kai
+    įgula pasidavė Jogailai, pilyje buvo pastatyti jo kareiviai. Skir­
+    gaila, Trakų piliai ginti gavo iš maršalkos dovanų keletą dide­
+    lių armotų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Teminiai klasteriai

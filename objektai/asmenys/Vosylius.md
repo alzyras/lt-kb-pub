@@ -22,10 +22,14 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
   teiginys: 'Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Vosylius jau buvo tapęs kunigaikščiu ir norėjo vesti savo sužadėtinę, Vytauto dukterį Sofiją.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -33,8 +37,8 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bėgdamas iš totorių nelaisvės, Mask-
-      vos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke,
-      susižadėjo su jo dukteria Sofija.
+    vos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke,
+    susižadėjo su jo dukteria Sofija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -47,7 +51,7 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vosylius jau buvo tapęs kunigaikščiu ir norėjo
-      vesti savo sužadėtinę, Vytauto dukterį Sofiją.
+    vesti savo sužadėtinę, Vytauto dukterį Sofiją.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -58,4 +62,4 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Sofija]]
+- [[objektai/asmenys/Sofija (Vytauto duktė)]]

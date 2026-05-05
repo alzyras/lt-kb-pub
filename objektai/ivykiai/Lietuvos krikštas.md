@@ -12,7 +12,6 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - krikštas
-  - unija
 ---
 # Lietuvos krikštas
 
@@ -42,6 +41,8 @@ Nenurodyta
 - t-002
   teiginys: 'Krikšto apeigos pirmiausia buvo atliktos Vilniuje, o paskui Jogaila važinėdamas krikštijo visas kitas žymesnes Lietuvos vietas.'
   pagrindžia:
+    - c-007
+    - c-006
     - c-002
 - t-003
   teiginys: 'Krikštui sušaukdavo apylinkės žmones į vieną vietą; kad greičiau eitų krikštas, žmones krikštijo būriais.'
@@ -147,11 +148,42 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: Lietuvos krikštas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Lietuviai krikštijosi
+    Vytauto D. ir Jogailos paraginti ir pasiduodami jų įsakymams,
+    nes buvo išleistas raštas, skelbiąs katalikybę Lietuvoje viešpa­
+    taujančiu tikėjimu ir įsakąs visiems jį priimti^1 ). Laisvi liko tik
+    stačiatikiai, kaipo krikščionys.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
+- c-007
+  santrauka: Lietuvos krikštas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Dar prieš vyskupijos įkūrimą Jogaila iš Vilniaus išvyko į
+    rytų Lietuvą. Čia jis aplankė didesnius Lietuvos miestelius,
+    kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k.,
+    kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­
+    kius juos tikėjimo tiesų, krikštijami.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/krikštas]]
-- [[temos/unija]]
 
 ### Susiję objektai
 - [[objektai/paprociai/Lietuvos krikšto apeigos]]

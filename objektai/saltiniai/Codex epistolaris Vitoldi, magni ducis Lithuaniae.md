@@ -6,18 +6,18 @@ variantai:
   - 'Codex ep. Vitoldi'
   - 'CeV'
   - 'Codex epistolaris Vitoldi, magni ducis Lithuaniae'
+  - 'C. ep. V.'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: '1376-1430; 1882 m.'
 datos:
   - '1376-1430'
   - '1882 m.'
 patikimumas: 'vidutinis'
-tags:
-  - dokumentas
-  - saltinis
+tags: []
 ---
 # Codex epistolaris Vitoldi, magni ducis Lithuaniae
 
@@ -39,6 +39,12 @@ tags:
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
+- t-004
+  teiginys: 'Šiame veikale bibliografijoje santrumpa C. ep. V. išskleidžiama kaip 1376-1430 m. Vytauto laiškų rinkinys, kurį parengė A. Prochaska ir išleido Krokuvoje 1882 m.'
+  pagrindžia:
+    - c-004
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
 ## Bibliografiniai įrodymai
 - c-002
   santrauka: Citata pagrindžia pilną leidinio pavadinimą, apimtį ir leidėją.
@@ -65,3 +71,19 @@ tags:
   patikimumo_pagrindimas: 'Pilnas leidinio pavadinimas šioje vietoje neišskleistas, bet santrumpa sutampa su anksčiau pateikta bibliografine forma.'
   pagrindžia:
     - t-003
+
+- c-004
+  santrauka: Citata pagrindžia bibliografinį C. ep. V. išskleidimą šioje knygoje.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    C. ep. V. = Codex epistolaris Vitoldi Magni Ducis Lithvan.
+    1376—1430 Collec. opera A. Prochaska. Cracoviae,
+    1882 (VI tom. iš „Monumentą medii aevi historica res
+    gestas Poloniae illustrantia
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

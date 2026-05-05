@@ -117,6 +117,9 @@ Nenurodyta
     - t-004
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/politinis-sprendimas]]
+
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
 

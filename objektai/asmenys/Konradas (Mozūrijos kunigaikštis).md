@@ -33,6 +33,7 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
 - t-003
   teiginys: 'Mozūrijos kunigaikštis Konradas pakvietė Ordiną ir padovanojo jam Kulmo žemę, po ko prasidėjo metodiški kryžiaus žygiai į Prūsiją.'
   pagrindžia:
+    - c-004
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
@@ -82,5 +83,21 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   patikimumo_saltinis: ai
   priskyrimo_pagrindas: explicit_variant
   patikimumo_pagrindimas: 'Asmuo įvardytas vardu ir Mozūrijos kunigaikščio titulu.'
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: Konradas (Mozūrijos kunigaikštis) papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    1230 met. Mozūrų kunigaikštis Konradas ir pirmasis prū­
+    sų vyskupas misionorius Kristijonas, negalėdami apsiginti nuo
+    prūsų puolimų, atsikviečia pagalbon darbo nebeturintį vokie­
+    čių „Mergelės Marijos” Ordiną, kuris dėl ant apsiaustų nešio­
+    jamų kryžių paprastai vadinamas kryžiuočių Ordinu.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-003

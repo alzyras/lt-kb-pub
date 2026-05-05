@@ -1,42 +1,50 @@
 ---
 tipas: asmuo
-pavadinimas: 'Julijona'
+pavadinimas: 'Julijona (Algirdo žmona)'
 sukurta: '2026-04-25'
 variantai:
+  - 'Julijona'
   - 'Julijonos'
+  - 'Julijoną'
+  - 'motinos Julijonos'
+  - 'kunigaikštienė Julijona'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
   - sutartis
 ---
-# Julijona
+# Julijona (Algirdo žmona)
 
 ## Santrauka
 
-Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algirdo žmona ir Jogailos motina. Ivinskio tekste ji vadinama kunigaikščio Aleksandro dukterimi, o ankstesniame šaltinyje minima kaip Tverės kunigaikščio sesuo; abiem atvejais pabrėžiama jos vieta Jogailos ankstyvojoje politikoje.
+Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebske minima kunigaikštienė. Skirtingi šaltiniai jos kilmę nusako nevienodai, tačiau sutaria dėl jos vietos Jogailos ankstyvojoje politikoje ir augusios įtakos po Algirdo mirties.
 
 ## Teiginiai
 - t-001
   teiginys: 'Šita Jogailos sutartis, nukreipta prieš dėdę, buvo sudaryta ne tiek Jogailos, kiek giminių — brolių ir motinos Julijonos — pastangomis.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Norėdamas turėti sąjungininką prieš Maskvą, jis vedė Tverės kunigaikščio seserį Julijoną.'
+  teiginys: 'Norėdamas turėti sąjungininką prieš Maskvą, Algirdas vedė Tverės kunigaikščio seserį Julijoną.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Julijona buvo Tverės kunigaikščio Aleksandro duktė ir Algirdo žmona.'
+  teiginys: 'Ivinskio veikale Julijona tiesiogiai pristatoma kaip Tverės kunigaikščio Aleksandro duktė ir Algirdo žmona.'
   pagrindžia:
-    - c-006
-    - c-003
+    - c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Julijona buvo Jogailos motina ir minima Žemaičių dovanojimo dokumento aplinkoje.'
+  teiginys: 'Julijona minima kaip Jogailos motina ir kaip figūra Žemaičių dovanojimo dokumento aplinkoje.'
   pagrindžia:
     - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -46,6 +54,12 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   pagrindžia:
     - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: '1930 m. veikale Julijona minima kaip Vitebske viešpatavusi Algirdo žmona; jai mirus 1392 m., Jogaila į jos vietą pasodino Feodorą Vesną.'
+  pagrindžia:
+    - c-007
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -77,7 +91,7 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   pagrindžia:
     - t-002
 - c-003
-  santrauka: Julijona tiesiogiai pristatoma kaip Tverės kunigaikščio Aleksandro duktė ir Algirdo žmona
+  santrauka: Julijona tiesiogiai pristatoma kaip Tverės kunigaikščio Aleksandro duktė ir Algirdo žmona.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tada jis jau buvo našlys, ir iš Maskvos kunigaikščio Simano ir
@@ -88,11 +102,10 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-003
 - c-004
-  santrauka: Julijona apibrėžiama per savo sūnus ir paminėjimą dokumento aplinkoje
+  santrauka: Julijona apibrėžiama per savo sūnus ir paminėjimą dokumento aplinkoje.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Visose trijose Jogailos ir
@@ -106,11 +119,10 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-004
 - c-005
-  santrauka: Julijonos įtaka pasitelkiama aiškinant Jogailos sprendimą nevykti pas magistrą
+  santrauka: Julijonos įtaka pasitelkiama aiškinant Jogailos sprendimą nevykti pas magistrą.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Remiantis Torno analų
@@ -122,17 +134,35 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-005
-- c-006
-  santrauka: Julijona papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-007
+  santrauka: 1930 m. veikale Julijona minima kaip Vitebske viešpatavusi Algirdo žmona, mirusi 1392 m.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Tada Vytautas dar liepęs notarui pridėti kitą šimtą, ir kol žmona
-    nesiliovusi pastabas dariusi, buvę išmokėta 800 markių. Tad Juli­
-    jona pamačiusi, kad ji tik savo tylėjimu tegalėsianti užkirsti kelią
-    Vytauto išlaidumui ir švaistymuisi^2.
+    Greit atėjo eilė ir Vitebskui. Ten viešpatavo kunigaikš­
+    tienė Julijona, Algirdo žmona. Pas ją buvo apsigyvenęs ir
+    Jogailos brolis Švitrigaila. Švitrigaila manė, kad mirus ku­
+    nigaikštienei, Jogaila jį paskirs Vitebsko valdytoju.
+    Bet taip neįvyko, nes 1392 m. mirus kunigaikštienei Julijonai,
+    Jogaila pasodino į jos vietą Feodorą Vesną.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: Julijona (Algirdo žmona) papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tad ir esančiam dabar didž. Lietuvos kunigaikš­
+    čiui Jogailai, Algirdo sūnui, kuris nebuvo priėmęs dar jokio
+    krikšto, tiesesnis kelias buvo į Rytus, į savo motinos, daugelio
+    brolių, dėdžių ir giminaičių tikėjimą. Jo motiną Julijoną rišo
+    prie Rytų Bažnyčios praeitis, tradicijos, tautybė ir net tai, kad
+    iš jos giminės buvo stačiatikių Bažnyčios šventųjų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

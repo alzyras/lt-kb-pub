@@ -1,19 +1,19 @@
 ---
-tipas: 'zodyno_irasas'
-pavadinimas: 'vaivada'
+tipas: zodyno_irasas
+pavadinimas: vaivada
 sukurta: '2026-04-25'
 variantai:
-  - vaivados
-  - Krokuvos vaivada
+- vaivados
+- Krokuvos vaivada
+- Vilniaus vaivada
+- palatinus
 aliases: []
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-patikimumas: 'vidutinis'
-tags:
-  - bajorija
-  - karas
-  - sąvoka
+- A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+- Vytautas Didysis 1350-1430 (1930 m.)
+patikimumas: vidutinis
+tags: []
 ---
 # vaivada
 
@@ -37,6 +37,18 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: Vaivada šiame tekste yra vienas iš įvedamų aukštų krašto urėdų.
+  pagrindžia:
+    - c-005
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 1413 m. Vilniuje ir Trakuose numatyti lenkiško modelio administraciniai postai.
+  pagrindžia:
+    - c-004
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -95,3 +107,34 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 1413 m. Vilniuje ir Trakuose numatyti lenkiško modelio administraciniai postai.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    „dignitates, sedes et officia, prout in regno Poloniae instituta
+    sunt, instituentur et locabantur in Vilna scilicet palatinus et cas­
+    tellanus vilnensis et demum in Trokky“...^2 ).
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-005
+- c-005
+  santrauka: Vaivada šiame tekste yra vienas iš įvedamų aukštų krašto urėdų.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    „dignitorijas, kėdes ir urėdus, kokie yra įsteigti
+    lenkų karalijoje, bus įsteigta ir įkurdinta Vilniuje, būtent Vilniaus vaivada
+    ir kaštelionas, taip pat ir Trakuose...”
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/istorinė-sąvoka]]
+
+### Susiję objektai
+- [[objektai/zodynas/kaštelionas]]

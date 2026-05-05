@@ -6,12 +6,10 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 patikimumas: 'vidutinis'
 tags:
-  - bajorija
-  - dokumentas
   - privilegija
-  - saltinis
 ---
 # Jogailos privilegijos (1387 m.)
 
@@ -29,6 +27,12 @@ Tam tikslui buvo nutarta dar kartą pakartoti jau 1387 m. Jogailos privilegijose
   pagrindžia:
     - c-002
 
+- t-003
+  teiginys: '1387 m. privilegija šiame veikale minima kaip vienas dokumentų, nesuteikusių stačiatikiams jokių privilegijų.'
+  pagrindžia:
+    - c-003
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tam tikslui buvo nutarta dar kartą pakartoti jau 1387 m. Jogailos privilegijose paskelbtuosius dėsnius, kurie visas teises Lietuvoje duoda tiktai katalikams.'
@@ -58,3 +62,20 @@ Tam tikslui buvo nutarta dar kartą pakartoti jau 1387 m. Jogailos privilegijose
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: Citata pagrindžia, kad 1387 m. privilegija minima stačiatikių teisių ribojimo kontekste.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kai kurie stačiatikiai, ypač jų di­
+    duomenė, buvo nepatenkinti ir tuo, kad nei 1387 m. privilegija
+    nei 1413 m. Horodlės unija nesuteikia jiems jokių privilegijų, kai
+    tuo tarpu bajorai katalikai buvo gavę plačių laisvių į nuosavybę
+    ir buvo atleisti nuo daugelio pareigų valstybei.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

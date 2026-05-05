@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 4.
+Objektų skaičius: 3.
 
 ## Kaip naudoti
 
@@ -19,7 +19,6 @@ Objektų skaičius: 4.
 ## Susiję objektai
 
 ### Papročiai
-- [[objektai/paprociai/Gedimino dinastinė vedybų politika]]
 - [[objektai/paprociai/Gedimino religinio pakantumo norma]]
 - [[objektai/paprociai/Nuotakos išpirkimas ir Krienos mokestis]]
 

@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 18.
+Objektų skaičius: 25.
 
 ## Kaip naudoti
 
@@ -23,17 +23,24 @@ Objektų skaičius: 18.
 - [[objektai/zodynas/baskakas]]
 - [[objektai/zodynas/buržuazinė istoriografija]]
 - [[objektai/zodynas/dykra]]
+- [[objektai/zodynas/genetinė istorija]]
 - [[objektai/zodynas/inkorporacija]]
+- [[objektai/zodynas/kaštelionas]]
 - [[objektai/zodynas/komputas]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/lituanistinis sąjūdis]]
 - [[objektai/zodynas/marksistinė periodizacija]]
-- [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/metropolitas]]
 - [[objektai/zodynas/Personalinė unija]]
 - [[objektai/zodynas/poliublininis laikotarpis]]
 - [[objektai/zodynas/proistorė]]
 - [[objektai/zodynas/regestas]]
 - [[objektai/zodynas/Rusiškosios raidės]]
+- [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/tautinis atgimimas]]
 - [[objektai/zodynas/tautinė sąmonė]]
+- [[objektai/zodynas/tėvūnas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/zodynas/urėdas]]
+- [[objektai/zodynas/vaivada]]
 - [[objektai/zodynas/valstybingumo idėja]]

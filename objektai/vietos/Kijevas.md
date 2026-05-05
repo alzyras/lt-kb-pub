@@ -138,4 +138,5 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 
 ### Susiję objektai
 - [[objektai/vietos/Braclavas]]
+- [[objektai/vietos/Palenkė]]
 - [[objektai/vietos/Voluinė]]

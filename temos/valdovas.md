@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 51.
+Objektų skaičius: 49.
 
 ## Kaip naudoti
 
@@ -57,7 +57,6 @@ Objektų skaičius: 51.
 
 ### Posakiai
 - [Europos žandaras](../objektai/posakiai/Europos%20%C5%BEandaras)
-- [Jūs abudu esate mūsų valdovai](../objektai/posakiai/J%C5%ABs%20abudu%20esate%20m%C5%ABs%C5%B3%20valdovai)
 - [Taip pat protestuoju prieš neteisybę, kuri mums būtų padaryta](../objektai/posakiai/Taip%20pat%20protestuoju%20prie%C5%A1%20neteisyb%C4%99%2C%20kuri%20mums%20b%C5%ABt%C5%B3%20padaryta)
 - [Visa Rusija turi priklausyti Lietuvai](../objektai/posakiai/Visa%20Rusija%20turi%20priklausyti%20Lietuvai)
 - [vyras kaip reikiant](../objektai/posakiai/vyras%20kaip%20reikiant)
@@ -81,6 +80,5 @@ Objektų skaičius: 51.
 ### Žodynas
 - [bajorija](../objektai/zodynas/bajorija)
 - [kunigaikščiai](../objektai/zodynas/kunigaik%C5%A1%C4%8Diai)
-- [Magdeburgo teisės](../objektai/zodynas/Magdeburgo%20teis%C4%97s)
 - [pralotas](../objektai/zodynas/pralotas)
 - [savarankiškumas](../objektai/zodynas/savaranki%C5%A1kumas)

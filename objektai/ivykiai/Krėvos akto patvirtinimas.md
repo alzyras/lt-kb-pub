@@ -11,9 +11,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 patikimumas: 'vidutinis'
-tags:
-  - krikštas
-  - unija
+tags: []
 ---
 # Krėvos akto patvirtinimas
 
@@ -128,5 +126,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/krikštas]]
-- [[temos/unija]]
+- [[temos/politinis-sprendimas]]

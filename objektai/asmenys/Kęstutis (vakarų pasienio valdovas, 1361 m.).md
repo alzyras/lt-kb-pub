@@ -389,3 +389,4 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas (Lietuvos valdovas, 1345 m.)]]
 - [[objektai/asmenys/Gediminas (Lietuvos valdovas, 1323 m.)]]
+- [[objektai/asmenys/Kęstutis]]

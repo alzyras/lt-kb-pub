@@ -20,7 +20,7 @@ Objektų skaičius: 5.
 
 ### Žodynas
 - [[objektai/zodynas/apostazija]]
+- [[objektai/zodynas/bažnytinė provincija]]
 - [[objektai/zodynas/kryžiaus karas]]
 - [[objektai/zodynas/lotyniškasis krikštas]]
-- [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/metropolitas]]

@@ -8,7 +8,8 @@ variantai:
   - 'Šiaulių-Radviliškio operacija'
   - 'Mūšis ties Radviliškiu'
   - 'Radviliškio mūšis'
-aliases: []
+aliases:
+  - '[]'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'

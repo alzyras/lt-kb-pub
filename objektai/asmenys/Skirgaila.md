@@ -1,12 +1,17 @@
 ---
-tipas: asmuo
+tipas: 'asmuo'
 pavadinimas: 'Skirgaila'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - 'tikrasis brolis Skirgaila'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos:
+  - '1380 m.'
+  - '1395 m.'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -15,7 +20,17 @@ tags:
 
 ## Santrauka
 
-Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendradarbis ir politinis partneris. Jis siejamas su derybomis dėl krikšto ir Lenkijos sosto, Polocko ir Trakų valdymu, konfliktais su Vytautu bei 1397 m. mirtimi Kijeve.
+Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendradarbis ir politinis partneris. Jis siejamas su derybomis dėl krikšto ir Lenkijos sosto, Polocko ir Trakų valdymu, konfliktais su Vytautu bei 1397 m. mirtimi Kijeve. Papildomai išryškėja jo slapta pasiuntinybė Vakaruose, Trakų ir Polocko valdų plėtra, nepopuliarumas Lietuvoje ir kitoks mirties datavimas: šiame veikale minima 1395 m., o ankstesniame įraše išlikęs ir 1397 m. datavimas.
+
+## Savybės
+- būdas / charakteris:
+  - santrauka: Apibūdinamas kaip smarkus, linkęs į girtavimą ir nepopuliarus valdovas.
+    šaltiniai:
+      - Vytautas Didysis 1350-1430 (1930 m.)
+- gebėjimai:
+  - santrauka: Kartu minimas kaip mokėjęs gydyti ar apraišioti sužeistuosius, nes laikytas geru chirurgu.
+    šaltiniai:
+      - Vytautas Didysis 1350-1430 (1930 m.)
 
 ## Teiginiai
 - t-001
@@ -85,6 +100,43 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - c-013
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-014
+  teiginys: 'Jogaila pasiuntė savo brolį Skirgailą su slaptais įgaliojimais į Vakarų Europą, kur jis Marienburge buvo draugiškai priimtas.'
+  pagrindžia:
+    - c-017
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-015
+  teiginys: 'Skirgaila valdė Trakus.'
+  pagrindžia:
+    - c-018
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-016
+  teiginys: 'Skirgaila šiame veikale vaizduojamas kaip didelis girtuoklis, smarkus žmogus ir geras chirurgas.'
+  pagrindžia:
+    - c-019
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-017
+  teiginys: 'Lietuvos visuomenė buvo nepatenkinta Skirgailos valdymu, nes jis buvo nepopuliarus ir nesugebėjo sutelkti valstybės jėgų.'
+  pagrindžia:
+    - c-020
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-018
+  teiginys: '1391 m. Jogailos išduotas dokumentas rodė, kad Skirgailos valdžia Vilniuje buvo griežtai apribota.'
+  pagrindžia:
+    - c-021
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-019
+  teiginys: 'Šiame veikale Skirgailos mirtis datuojama 1395 m., po kurios Kremenecas vėl susijungė su Volynija.'
+  pagrindžia:
+    - c-022
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -285,7 +337,7 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
@@ -298,7 +350,7 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
@@ -312,7 +364,109 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-005
+- c-017
+  santrauka: 'Skirgaila su slaptais įgaliojimais vyko į Vakarus ir buvo draugiškai priimtas Marienburge.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Naujų galimumų akivaizdoje Jogaila pasiuntė į Vakarų Eu­
+    ropą savo brolį Skirgailą su slaptais įgaliojimais į kažkokius
+    pasitarimus. Ordinas, matyti, apie Skirgailos pasiuntinystės
+    tikslus žinojo ar bent nujautė, nes jis Marienburge buvo draugiš­
+    kai ir vaišingai priimtas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-014
+- c-018
+  santrauka: 'Skirgaila valdė Trakus.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Trakuose viešpatavo Skirgaila, kurio išva­
+    rymas vėl galėjo sukelti naują karą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-015
+- c-019
+  santrauka: 'Skirgaila apibūdinamas kaip smarkus girtuoklis, bet geras chirurgas.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Lietuvos didikai negalėjo pakęsti dar ir to, kad jų aukš­
+    čiausias žmogus, Skirgaila, visiškai neimponavo dorovingumu:
+    buvo didelis girtuoklis, pasigėręs nustodavęs proto, mušdavosi,
+    kardu kapodavo apie save susirinkusius žmones, o atsipeikėjęs
+    pats sužeistuosius apraišiodavo, nes tais laikais buvęs geras
+    chirurgas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-016
+- c-020
+  santrauka: 'Skirgailos valdymas laikytas nepopuliariu ir silpnu.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Antra, Lietuvos visuomenė
+    labai buvo nepatenkinta Skirgailos valdymu, nes savo gyveni­
+    mu nebuvo jos tarpe populiarus ir nesugebėjo sujungti vienon
+    galybėn skylančių Lietuvos jėgų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-017
+- c-021
+  santrauka: '1391 m. dokumentas ribojo Skirgailos valdžią Vilniuje.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    1391 m.
+    liepos 22 d. Jogaila išdavė Skirgailai dokumentą, kad Vilniaus
+    ir kitų miestų be jo žinios niekam neatiduos, net ir tikram savo
+    broliui, ir kad Vilnių ir kitus miestus valdys tiesiog pats Jogaila
+    ir jo palikuonys. Iš to matyt, kad Skirgaila sužinojo aukščiau
+    minėtą projektą, kuriam jis skubinos užbėgti už akių.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-018
+- c-022
+  santrauka: 'Skirgailos mirtis šiame veikale datuojama 1395 m.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tai pasi­
+    sekė dar lengviau įvykdyti, kai mirė Skirgaila (1395 m.). Kre-
+    meniecas vėl susijungė su Volynija^4 ).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-019
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]

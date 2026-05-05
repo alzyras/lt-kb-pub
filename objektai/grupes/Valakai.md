@@ -33,6 +33,7 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
 - t-001
   teiginys: 'Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.'
   pagrindžia:
+    - c-003
     - c-001
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -65,6 +66,22 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+    - t-001
+- c-003
+  santrauka: Valakai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tuo
+    būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­
+    čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
+    kariuomenė buvo internacionalinė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
     - t-001
 
 ## Ryšiai

@@ -41,6 +41,7 @@ Nenurodyta
 - t-002
   teiginys: 'Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir išlikusiems sričių kunigaikščiams leido reikšti ištikimybės priesaikas Jogailai, tačiau valdyti jis valdė pats vienas: Jogaila be jo nieko negalėjo padaryti Lietuvoje.'
   pagrindžia:
+    - c-003
     - c-002
 
 ## Reikšmingi paminėjimai
@@ -74,6 +75,28 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
+    - t-002
+- c-003
+  santrauka: Ištikimybės priesaikos Jogailai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tos sąjungos tuojau
+    pabūgo lenkai ir jų, be abejo, pakurstytas Jogaila 1403 m. vėl
+    pareikalavo iš Vytauto naujo pasižadėjimo, kad jis nei su kry­
+    žiuočiais, nei su kardininkais nedarytų jokių sutarčių be kara-
+
+
+    ```
+    171
+    ```
+    liaus žinios ir valios^1
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
     - t-002
 
 ## Ryšiai

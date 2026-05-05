@@ -11,7 +11,6 @@ patikimumas: 'vidutinis'
 tags:
   - ivykis
   - valdovas
-  - seimas
 ---
 # Lucko suvažiavimas (1429 m.)
 
@@ -37,6 +36,7 @@ Nenurodyta
 - t-001
   teiginys: '1429 m. turėjo įvykti valdovų suvažiavimas rytų Europos politikos klausimams apsvarstyti.'
   pagrindžia:
+    - c-004
     - c-001
 - t-002
   teiginys: 'Suvažiavimo šeimininkas, Vytautas, turėjo progos parodyti savo vaišingumą.'
@@ -97,13 +97,27 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: Lucko suvažiavimas (1429 m.) papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Garsusis Lucko suvažiavimas buvo sušauktas tada Euro­
+    poj aktualiam husitų ir kitiems klausimams aptarti. Popie­
+    žius Martynas V jau kelis kartus stengėsi laiškais palenkti Jo­
+    gailą ir Vytautą^2 ), kad jie susitarę paskelbtų karą husitams,
+    ardantiems Europos ramybę, nes pats Zigmantas L. su savo
+    kariuomene neįstengė jų numalšinti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/valdovas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
 
 ### Susiję objektai
 - [[objektai/vietos/Luckas]]

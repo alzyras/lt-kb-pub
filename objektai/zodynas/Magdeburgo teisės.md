@@ -1,17 +1,17 @@
 ---
-tipas: 'zodyno_irasas'
-pavadinimas: 'Magdeburgo teisės'
+tipas: zodyno_irasas
+pavadinimas: Magdeburgo teisės
 sukurta: '2026-04-25'
 variantai:
-  - 'magdeburginės teisės'
+- magdeburginės teisės
+- magdeburgijos
+- Magdeburgo teises
 aliases: []
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-tags:
-  - miestas
-  - sąvoka
-  - valdovas
+- A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- Vytautas Didysis 1350-1430 (1930 m.)
+patikimumas: vidutinis
+tags: []
 ---
 # Magdeburgo teisės
 
@@ -21,7 +21,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės).'
+  teiginys: 'Kai kuriems jų buvo duotos savivaldybės (vadinamosos Magdeburgo teisės).'
   pagrindžia:
     - c-001
 - t-002
@@ -32,6 +32,19 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   teiginys: 'Jei jie priklausydavo karališkojo dvaro, tai jų teisėju ir valdovu būdavo seniūnas, o jei priklausydavo privatinio dvaro, tai jų teisėju ir valdovu būdavo jo savininkas (savivaldybės, arba vadinamosios magdeburginės, teisės buvo paliktos tiktai Vilniui.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: Miestų savivalda šiame tekste vadinama Magdeburgo teisėmis.
+  pagrindžia:
+    - c-004
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: Vytauto laikais šios teisės buvo suteikiamos keliems Lietuvos miestams.
+  pagrindžia:
+    - c-005
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės).'
@@ -80,7 +93,33 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: Miestų savivalda šiame tekste vadinama Magdeburgo teisėmis.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Miestelėnų luomo susikūrimui irgi Vytauto laikais buvo pa­
+    dėti pagrindai, kai miestams buvo suteiktos pirmos savivaldy­
+    bės arba taip vad. magdeburgijos. Pirmasis miestas gavęs Mag­
+    deburgo teises buvo Vilnius. Tas teises jis gavo 1387 met. iš
+    Jogailos^3 ).
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: Vytauto laikais šios teisės buvo suteikiamos keliems Lietuvos miestams.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    O Vytautas Magdeburgo teises suteikė Brastai ir
+    Kaunui 1408, Tykocinui 1426, Drachočynui 1429, Bielskui 1430
+    metais^4 ).
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/valdovas]]
+- [[temos/teisinis-terminas]]

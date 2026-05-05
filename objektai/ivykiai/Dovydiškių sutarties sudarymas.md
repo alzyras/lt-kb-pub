@@ -10,29 +10,40 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 patikimumas: 'vidutinis'
+laikotarpis: '1380 m. gegužės 31 d.'
+datos:
+  - '1380 m. gegužės 31 d.'
+periodas: 'viduramziai'
+periodo_grupes: []
+amziai:
+  - 'XIV'
+date_start: '1380'
+date_end: '1380'
 tags:
-  - ivykis
-  - ordinas
   - sutartis
 ---
 # Dovydiškių sutarties sudarymas
 
 ## Santrauka
 
-Dovydiškių sutartis buvo slapta Jogailos ir kryžiuočių sutartis, surašyta medžioklės metu Dovydiškėse, turbūt arti Gardino, 1380 m. gegužės 31 d. Ivinskis ją sieja su Jogailos bandymu lengvinti savo politinę padėtį ir su Kęstučio žemių išskyrimu iš susitarimo apsaugos.
+Dovydiškių sutartis buvo slapta Jogailos ir kryžiuočių sutartis, surašyta medžioklės metu Dovydiškėse, turbūt arti Gardino, 1380 m. gegužės 31 d. 1930 m. veikale papildomai pabrėžiama, kad Jogaila į tariamą medžioklę atvyko su Vaidotu, Algimanto sūnum Jonu ir Vytautu, o Vytauto dalyvavimas buvo panaudotas Kęstučio įtarimams nuslopinti.
 
 ## Laikotarpis ir datos
-Nenurodyta
+1380 m. gegužės 31 d.
 
 ## Dalyviai ir vaidmenys
-Nenurodyta
+- [[Jogaila]]: slaptos sutarties sudarytojas.
+- [[Vytautas]]: medžioklės dalyvis, panaudotas kaip priedanga.
+- Vaidotas: medžioklės dalyvis.
+- Algimanto sūnus Jonas: medžioklės dalyvis.
 
 ## Eiga
-Nenurodyta
+Jogaila surengė tariamą medžioklę Dovydiškėse, į kurią Ordino magistras atsiuntė savo pasiuntinius; po dviejų dienų buvo sudaryta slapta sutartis.
 
 ## Rezultatas
-Nenurodyta
+Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
 
 ## Teiginiai
 - t-001
@@ -42,7 +53,6 @@ Nenurodyta
 - t-002
   teiginys: '1380 m. gegužės 31 d. Jogaila slapta sudarė Dovydiškių sutartį su kryžiuočiais medžioklės metu, turbūt arti Gardino.'
   pagrindžia:
-    - c-005
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
@@ -57,6 +67,18 @@ Nenurodyta
   pagrindžia:
     - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 'Jogaila į Dovydiškių medžioklę atvyko su Vaidotu, Algimanto sūnum Jonu ir Vytautu, o trečią dieną su Ordino svečiais sudarė slaptą sutartį.'
+  pagrindžia:
+    - c-005
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Vytautas dalyvavo medžioklėje, bet slaptos sutarties sudarymo nepajuto; jo dalyvavimu Jogaila prisidengė nuo Kęstučio įtarimų.'
+  pagrindžia:
+    - c-006
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -132,18 +154,52 @@ Nenurodyta
   pagrindžia:
     - t-004
 - c-005
-  santrauka: Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.) papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  santrauka: '1930 m. veikale Dovydiškių sutarties sudarymas išskleidžiamas kaip tariamos medžioklės trečios dienos veiksmas.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Svarbesnė buvo jo nauja taikos sutartis su kry­
-    žiuočiais — per 8 mėnesius iš eilės jau trečias dokumentas. Jis
-    buvo surašytas slapta, medžioklės metu Dovydiškėse, tur būt, arti
-    Gardino (1380.V.31).
+    Norėdamas paslėpti nuo Kęstučio savo paskutinius suma­
+    nymus, Jogaila padarė Dovydiškiuose neva medžioklę^4 ). Į ši­
+    tą „medžioklę“ Vokiečių Ordino magistras atsiuntė savo pa­
+    siuntinius. Pats Jogaila atvyko su Vaidotu, Algimanto
+    sūnum Jonu ir Vytautu. Iškilminga medžioklė truko dvi
+    dienas; trečią dieną Jogaila su Ordino svečiais sudarė slaptą
+
+    (^1) ) Soch., III R., 10—11, 375 psl. (^2) ) Voigt., V t., 288—292 psl.
+    (^3) ) Scr. r. Prus., II, 606 psl. (^4) ) Scr. r. Prus. II t., 576, 604 psl.
+
+
+    ```
+    — 10 —
+    ```
+    sutartį. Seniai tiesdami savo rankas į Kęstučio ginamą Žemai­
+    čių kraštą, kryžiuočiai gana sumaniai suformulavo sutarties ak­
+    tą
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
-    - t-002
+    - t-005
+- c-006
+  santrauka: 'Vytauto dalyvavimas medžioklėje čia aiškinamas kaip Jogailos priedanga nuo Kęstučio įtarimų.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    tas ir dalyvavo medžioklėje, bet šitos slaptos sutarties suda­
+    rymo nepajuto. Jo dalyvavimu, be abejo, Jogaila norėjo prisi­
+    dengti nuo visų Kęstučio įtarimų.
+  citata_rodoma: ""
+  teiginio_tipas: interpretacija
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+
+### Susiję objektai
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Vytautas]]

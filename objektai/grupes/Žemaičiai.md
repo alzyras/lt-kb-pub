@@ -11,11 +11,15 @@ variantai:
   - 'žemaičiai'
   - 'Žemaičiams'
   - 'Žemaičių krašto atstovai'
+  - 'pagonys žemaičiai'
+  - 'Žemaičių krašto (Medininkų, Vangių ir kt.) gyventojai'
+  - 'Žemaičių kraštu'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: '1407 m.; 1409 m.; 1411 m.; 1588 m'
 datos:
   - '1407 m'
@@ -153,6 +157,48 @@ tags:
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
+- t-021
+  teiginys: '1382 m. pagonys žemaičiai dėl tikėjimo bendrumo davė Kęstučiui 9000 vyrų.'
+  pagrindžia:
+    - c-028
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-022
+  teiginys: '1384 m. pradžioje Medininkų, Vangių ir kitų Žemaičių krašto gyventojai pareiškė ordinui paklusnumą.'
+  pagrindžia:
+    - c-029
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-023
+  teiginys: '1390 m. trisdešimt žemaičių atstovų pasižadėjo laikytis savo karaliaus Vytauto ir su ordinu sudarė karo bei prekybos sutartį.'
+  pagrindžia:
+    - c-037
+    - c-030
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-024
+  teiginys: 'Vytautas buvo laikomas vieninteliu valdovu, turėjusiu dideles simpatijas Žemaičiuose ir galėjusiu įvesti krašte tvarką.'
+  pagrindžia:
+    - c-031
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-025
+  teiginys: 'Žemaičiai dėl ordino prievartos nekentė jo skelbtos katalikybės, o po krikšto dalis jų atkrisdavo į seną tikėjimą.'
+  pagrindžia:
+    - c-039
+    - c-038
+    - c-032
+    - c-033
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-026
+  teiginys: '1404 m. taikos politika laikinai apribojo Žemaičių prekybą, bet vėliau jie atgavo teises prekiauti su Aukštaičiais ir pardavinėjo prekes Dancigui.'
+  pagrindžia:
+    - c-034
+    - c-035
+    - c-036
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Žemaičiai lokalizuojami Klaipėdos krašte ir Kuršių marių pakrantėse
@@ -509,12 +555,204 @@ tags:
   pagrindžia:
     - t-020
 
+- c-028
+  santrauka: Pagonys žemaičiai suteikė Kęstučiui didelę karinę paramą.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pagonys žemaičiai iš pradžių
+    norėjo laikytis Jogailos ir nusiuntė jam pasiuntinius, klausdami,
+    ar jis laikysis jų tikybos. Jogaila jiems nieko neatsakė. Tikė­
+    jimo bendrumas palenkė jų simpatijas Kęstučiui ir jie davė jam
+    9000 vyrų^1 ).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-021
+- c-029
+  santrauka: 1384 m. dalis Žemaičių krašto gyventojų savarankiškai pareiškė paklusnumą ordinui.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    1384 metų vasa­
+    rio mėn. pradžioj Žemaičių krašto (Medininkų, Vangių ir
+    kt.) gyventojai pareiškė Ordinui savo paklusnumą. Iš tų gy­
+    ventojų pusės buvo tai pirmas savarankiškas mėginimas pasi­
+    duoti naujai jėgai^1 ).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-022
+- c-030
+  santrauka: 1390 m. žemaičių atstovai sudarė su ordinu karo ir prekybos sutartį, laikydamiesi Vytauto.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Apie Sekmines (1390 m.) iš
+    įvairių Žemaitijos vietų pas Vytautą į Karaliaučių atvy­
+    ko trisdešimt atstovų. Gegužės 26 d. jie pasižadėjo laiky­
+    tis savo „karaliaus Vytauto” ir su Ordino atstovais sudarė karo
+    bei prekybos sutartį, garantuodami kryžiuočiams savo krašte
+    visišką prekybos laisvę.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-023
+- c-031
+  santrauka: Vytautas apibūdintas kaip valdovas, turėjęs dideles simpatijas Žemaičiuose.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ir tik jis, būdamas Kęstučio sūnus ir turė­
+    damas dideles simpatijas Žemaičiuose ir Lietuvoj, galėjo įvesti
+    krašte tvarką ir ramybę, ko jau taip seniai buvo išsiilgę jo gy­
+    ventojai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-024
+- c-032
+  santrauka: Ordino prievarta lėmė žemaičių neapykantą jo skelbtam katalikų tikėjimui.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tiesa, Vok.
+    Ordinas mėgino skelbti Žemaitijoje Kristaus tikėjimo tiesas,
+    bet be vaisių, nes žemaičiai labai Ordino nekentė dėl daromos
+    jiems prievartos. Nekęsdami Ordino, nekentė kartu ir jo iš­
+    pažįstamo katalikų tikėjimo. Nesiskubino ir Vytautas jų kraš­
+    te skelbti krikščionybės, nors ir buvo jį iš Ordino du kartu
+    laikinai atėmęs (1401 ir 1409), nes, matyt, bijojo erzinti žemai­
+    čius, kurių pagalba tuo tarpu prieš Ordiną buvo jam labai rei­
+    kalinga.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-025
+- c-033
+  santrauka: Po krikšto dalis žemaičių atkrisdavo į seną tikėjimą, todėl reikėjo kartotinio krikšto.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kaip uolesni pagonys už kitus lietuvius, žemaičiai
+    ir priėmę krikštą atkrisdavo į savo seną tikėjimą, ir neklausy­
+    davo kunigų. Tada Vytautas ir Jogaila nuvyko į Žemaičius
+    antrą kartą (1416) ir pakrikštijo dar daugiau gyventojų. Da­
+    bar buvo pastatyta Varniuose katedra ir astuonios parapijinės
+    bažnyčios^2 ).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-025
+- c-034
+  santrauka: 1404 m. taikos sumetimais Žemaičiams laikinai apribota prekyba su jų kraštu.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Bet šį kartą nukentėjo Žemaičiai, nes Vytautas dėl
+    pageidaujamos su Ordinu patvaresnės taikos sąryšyje su Rytų
+    politika pasižadėjo metus neleisti savo pirkliams prekiauti su
+    Žemaičių kraštu ir įvežti druskos, javų, geležies, kad Žemaičiai
+    vėl nesukiltų prieš Ordiną.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-026
+- c-035
+  santrauka: Vėliau žemaičiai atgavo teisę prekiauti su Aukštaičiais.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Žemaičiai, kurie pirmaisiais metais neturėjo teisių pre­
+    kiauti su Aukštaičiais, jas dabar vėl atgavo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-026
+- c-036
+  santrauka: Žemaičių prekybinis aktyvumas parodytas ir pardavimu Dancigui.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Taip, žemaičiai vieną kartą pardavė Dancigui
+    50 laukinių stumbrų odų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-026
+- c-037
+  santrauka: Žemaičiai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tuo
+    būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­
+    čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
+    kariuomenė buvo internacionalinė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-023
+- c-038
+  santrauka: Žemaičiai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tiesa, Vok.
+    Ordinas mėgino skelbti Žemaitijoje Kristaus tikėjimo tiesas,
+    bet be vaisių, nes žemaičiai labai Ordino nekentė dėl daromos
+    jiems prievartos. Nekęsdami Ordino, nekentė kartu ir jo iš­
+    pažįstamo katalikų tikėjimo. Nesiskubino ir Vytautas jų kraš­
+    te skelbti krikščionybės, nors ir buvo jį iš Ordino du kartu
+    laikinai atėmęs (1401 ir 1409), nes, matyt, bijojo erzinti žemai­
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-025
+- c-039
+  santrauka: Žemaičiai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kaip uolesni pagonys už kitus lietuvius, žemaičiai
+    ir priėmę krikštą atkrisdavo į savo seną tikėjimą, ir neklausy­
+    davo kunigų. Tada Vytautas ir Jogaila nuvyko į Žemaičius
+    antrą kartą (1416) ir pakrikštijo dar daugiau gyventojų. Da­
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-025
+    - t-023
+    - t-025
+    - t-025
+
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/sukilimas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
 
 ### Susiję objektai
 - [[objektai/grupes/Rygiečiai]]

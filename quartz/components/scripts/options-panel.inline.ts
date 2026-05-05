@@ -141,7 +141,7 @@ async function loadCitationSources(): Promise<CitationSourceRegistryEntry[]> {
   return deriveSourcesFromDom()
 }
 
-function escapeHtml(text: string): string {
+function escapeOptionsHtml(text: string): string {
   return text
     .replaceAll("&", "&amp;")
     .replaceAll("<", "&lt;")
@@ -158,10 +158,19 @@ function readState(): OptionsState {
   try {
     const parsed = JSON.parse(stored) as Partial<OptionsState>
     const minQuoteCount = Number.isFinite(parsed.minQuoteCount) ? Math.max(0, Number(parsed.minQuoteCount)) : 0
-    const sourceSelectionMode = parsed.sourceSelectionMode === "custom" ? "custom" : "all"
     const selectedSourceIds = Array.isArray(parsed.selectedSourceIds)
       ? parsed.selectedSourceIds.filter((value): value is string => typeof value === "string")
       : []
+    // Migrate older saved states: if there was an explicit selection saved before
+    // sourceSelectionMode existed, preserve that custom subset instead of forcing "all".
+    const sourceSelectionMode =
+      parsed.sourceSelectionMode === "custom"
+        ? "custom"
+        : parsed.sourceSelectionMode === "all"
+          ? "all"
+          : selectedSourceIds.length > 0
+            ? "custom"
+            : "all"
     return { minQuoteCount, sourceSelectionMode, selectedSourceIds }
   } catch {
     return { ...DEFAULT_STATE }
@@ -398,9 +407,11 @@ function syncPanelState() {
       number.value = `${state.minQuoteCount}`
     }
     if (selectedSummary) {
-      const selectedCount =
-        state.sourceSelectionMode === "all" ? cachedSources.length : state.selectedSourceIds.length
-      selectedSummary.textContent = `Pasirinkta: ${selectedCount}`
+      const selectedCount = state.sourceSelectionMode === "all" ? cachedSources.length : state.selectedSourceIds.length
+      selectedSummary.textContent =
+        state.sourceSelectionMode === "all" && cachedSources.length > 0
+          ? `Pasirinkta: visos (${selectedCount})`
+          : `Pasirinkta: ${selectedCount}`
     }
 
     root.querySelectorAll<HTMLInputElement>("[data-options-source-checkbox]").forEach((checkbox) => {
@@ -433,7 +444,7 @@ function renderSourceList(root: HTMLElement, sources: CitationSourceRegistryEntr
         <div class="options-panel-source-row">
           <label>
             <input type="checkbox" value="${source.id}" data-options-source-checkbox="" ${checked} />
-            <span class="options-panel-source-title">${escapeHtml(source.title)}</span>
+            <span class="options-panel-source-title">${escapeOptionsHtml(source.title)}</span>
           </label>
           <span class="options-panel-source-count">${source.count}</span>
         </div>

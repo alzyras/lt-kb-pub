@@ -38,14 +38,17 @@ Nenurodyta
 - t-001
   teiginys: 'Lenkų ponai įrodinėjo, kad Vytauto karūnavimas būtų priešingas Lietuvos ir Lenkijos sutartims, nes tada Lietuva, esą, galėtų po Vytauto išsirinkti sau kitą karalių, o ne tą, kurį išsirinktų po Jogailos mirties lenkai.'
   pagrindžia:
+    - c-007
     - c-001
 - t-002
   teiginys: '1430 m. Lenkų ponai prispyrė grįžusį į Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karūnacijos.'
   pagrindžia:
+    - c-009
     - c-002
 - t-003
   teiginys: 'Lenkai dar visaip bandė sutrukdyti Vytauto sumanymą, prašė Vytautą nors nesiskubinti ir buvo pasiūlę jam įteikti net Lenkų karūną (tuo būdu Jogailai būtų tekę atsisakyti nuo sosto).'
   pagrindžia:
+    - c-008
     - c-003
 
 - t-004
@@ -178,10 +181,60 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-007
+  santrauka: Vytauto karūnacijos byla (1429–1430 m.) papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tad norisi manyti, kad tokiam Vytauto atšalimui reikia ieškoti
+    gilesnių priežasčių, kaip, pav., jo siekime karūnuotis Lenkijos
+    karalium, ką sukliudė Jogailos įpėdiniai, kurių jis net dvejeto
+    susilaukė. Ir jei dar tikėti tam, kad Vytautas pats tokius gan­
+    dus buvo paleidęs ne tik apie Jogailos ketvirtąją, bet ir apie
+    antrąją žmoną, jog ji turinti santykių su dvariškiais, aišku, kad
+    čia jis ėjo ne tik moralisto pareigas, bet dar turėjo ir kitokių
+    paslėptų tikslų. O kai pamatė, kad tos jo viltys yra žuvusios, tada
+    jis ir ėmė šalintis ir atšalti nuo Lenkijos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+- c-008
+  santrauka: Vytauto karūnacijos byla (1429–1430 m.) papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas, nežiūrint net gilios jo senatvės, dar smar­
+    kiai savo paskutiniais gyvenimo metais apgriovė unijos pa­
+    grindus, iš naujo iškeldamas Lietuvos nepriklausomybės vėlia­
+    vą; toji nepriklausomybė turėjo pasireikšti iš viršaus — apsi­
+    karūnavimu Lietuvos ir Rusijos žemių karaliaus karūna, impe­
+    ratoriaus Zigmanto atsiųsta. Tą planą suardė Lenkija, neįleis­
+    dama į Lietuvą karūnos. Šis faktas, t. y. sutikimas karūnuoti
+    Vytautą, su kuo vėliau sutiko ir lenkai, juridiškai, kaip mano
+    Kutrzeba, uniją paliko galioje, bet faktiškai ji buvo smarkiai iš
+    naujo suardyta^1 ), suduotas jai didelis smūgis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-003
+- c-009
+  santrauka: Vytauto karūnacijos byla (1429–1430 m.) papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    P. Šležas. Vytauto konfliktas su Lenkija dėl karūnacijos ............. 205
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karūnacija]]
-
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]

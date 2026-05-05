@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 41.
+Objektų skaičius: 40.
 
 ## Kaip naudoti
 
@@ -72,5 +72,4 @@ Objektų skaičius: 41.
 - [natūralinis ūkis](../objektai/zodynas/nat%C5%ABralinis%20%C5%ABkis)
 - [pastočiai](../objektai/zodynas/pasto%C4%8Diai)
 - [plikbajoris](../objektai/zodynas/plikbajoris)
-- [sidabrinė duoklė](../objektai/zodynas/sidabrin%C4%97%20duokl%C4%97)
 - [vyrgalvė](../objektai/zodynas/Vyrgalv%C4%97)

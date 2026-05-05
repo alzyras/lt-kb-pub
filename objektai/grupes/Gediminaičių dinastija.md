@@ -2,10 +2,14 @@
 tipas: grupe
 pavadinimas: 'Gediminaičių dinastija'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - 'Gediminaičiai'
+  - 'Gedimino dinastija'
+  - 'Gedimino giminės'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 patikimumas: 'vidutinis'
 tags:
   - dinastija
@@ -23,21 +27,37 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-001
   teiginys: 'Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos palikuonys, kurių teisės sostams buvo pripažįstamos iš tradicijos (nė vienoje valstybėje nebuvo paveldėjamojo įstatymo).'
   pagrindžia:
-    - c-019
-    - c-011
-    - c-010
-    - c-009
-    - c-008
-    - c-007
-    - c-006
-    - c-005
-    - c-003
+    - c-024
     - c-001
 - t-002
   teiginys: 'Tačiau, kai paskutinysis tos dinastijos valdovas, Zigmantas Augustas, baigė savo gyvenimą be jokio įpėdinio,.'
   pagrindžia:
     - c-002
 
+- t-003
+  teiginys: 'Su Krėvės unija sutiko ne visi Gediminaičiai.'
+  pagrindžia:
+    - c-020
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Vytauto laikais viena rytinių kunigaikštijų dalis buvo valdoma Gediminaičių greta Riurikaičių ir kitų lietuvių kilmės kunigaikščių.'
+  pagrindžia:
+    - c-021
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 'Dauguma Gediminaičių Vytautui valdymo pradžioje pasirodė nepaklusnūs.'
+  pagrindžia:
+    - c-022
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Vytautas panaikino didžiąsias Gediminaičių kunigaikštijas ir paliko jiems tik smulkesnius valdinius.'
+  pagrindžia:
+    - c-023
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos palikuonys, kurių teisės sostams buvo pripažįstamos iš tradicijos (nė vienoje valstybėje nebuvo paveldėjamojo įstatymo).'
@@ -67,140 +87,76 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-003
-  santrauka: Gediminaičių dinastija papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-020
+  santrauka: Krėvos unija parodyta kaip ne visų Gediminaičių priimtas sprendimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Per sostinę įgydamas didžiojo kunigaikščio titulą, t. y. vyres­
-    niškumą prieš kitus brolius, Jaunutis buvo paskirtas galva visai
-    valdančiajai giminei.
+    Su Krėvės unija ne visi Gediminaičiai sutiko: nepasirašę
+    Krėvės akto, matyt, turėjo laisvas rankas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-021
+  santrauka: Gediminaičiai įvardyti kaip viena iš pagrindinių rytinių kunigaikštijų valdančių dinastinių grupių.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vienos tų kunigaikštijų buvo valdomos rusų kilmės
+    kunigaikščių (Riurikaičių), kitos Gediminaičių ir pagaliau keletą
+    smulkių kunigaikštijėlių valdė įvairūs lietuvių kilmės kunigaikš­
+    čiai, kurių giminių pradžia nyksta amžių glūdumose.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-001
-- c-005
-  santrauka: Gediminaičių dinastija papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+    - t-004
+- c-022
+  santrauka: Vytauto valdymo pradžioje dauguma Gediminaičių pasirodė nepaklusnūs.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Nuo Gediminaičių dinastijos išmirimo (1572) « abiejų tautų »
-    (« obojga narodów ») politinė istorija vystėsi bendroje respublikoje
-    (« rzeczpospolita »).
+    Daugumas Gediminaičių dėl to pasirodė jam nepaklusnūs pa­
+    čioje valdymo pradžioje. Bet Vytautas su jais nedarė ilgų ce­
+    remonijų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-006
-  santrauka: Gediminaičių dinastija papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+    - t-005
+- c-023
+  santrauka: Vytautas smarkiai susiaurino Gediminaičių valdytų kunigaikštijų mastą.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio
-    valios.
+    Tuo būdu Vytautas panaikino stipriąsias Polocko, Vitebsko,
+    Smolensko, Sievero, Naugardėlio, Kijevo, Volynijos ir Podolijos
+    kunigaikštijas. Gediminaičiai beliko nepajudinti tik Mstislavly
+    ir Pinske.Visi gi kiti gavo valdyti palyginti smulkutes kunigaik­
+    štijas ir priklausė valsčių, o ne sričių kunigaikščių rūšiai^4 ).
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-007
-  santrauka: Gediminaičių dinastija papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+    - t-006
+- c-024
+  santrauka: Gedimino dinastija papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Gedimino valstybės išdalinimas savo sūnums buvo įdomus, nes
-    beveik kiekvienas jų turėjo savo specialų uždavinį santykiuose su
-    kaimynais bei Lietuvos priešais.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-001
-- c-008
-  santrauka: Gediminaičių dinastija papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pačios valdančiosios Gedimino šeimos nariai, gau­
-    dami savo dalis rytinėje valstybės dalyje, priimdavo vietinių gy­
-    ventojų graikišką krikštą. Taip darė ir visi penki vyresnieji Jogai­
-    los broliai, gimę dar Algirdui esant daliniu kunigaikščiu Vitebske.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-001
-- c-009
-  santrauka: Gediminaičių dinastija papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kai Gediminaičiai buvo išsi­
-    dalinę tarp pagonybės ir graikų krikšto, bereikėjo tik didžiojo
-    kunigaikščio žingsnio, kuriuo butų turėję pasekti lietuvių kilmin­
-    gieji ir visa tauta.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-001
-- c-010
-  santrauka: Gediminaičių dinastija papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Dalimis buvo aprūpinti ir visi kiti Gediminaičiai. Senojoje
-    Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo
-    brolio Narimanto sūnus. O Podolėje įsigyveno kito Gediminaičio
-    — Karijoto vaikai. Netoliese nuo ten, būtent, Zaslavlyje (tarp
-    Volinijos ir Podolės) valdė Jaunučio sūnus. Po kietų kovų su
-    Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-001
-- c-011
-  santrauka: Gediminaičių dinastija papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    tautos buvo kilusi ir valdančioji Gediminaičių šeima. Įvairiais var­
-    dais besivadinančios rytinių slavų kiltys, iš kurių susiformavo vėliau
-    gudų ir ukrainiečių tautos, buvo užimtos ir pajungtos Lietuvos
-    valstybei didžiųjų Vilniaus kunigaikščių (Gedimino, Algirdo).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-001
-    - t-001
-    - t-001
-    - t-001
-    - t-001
-    - t-001
-    - t-001
-    - t-001
-- c-019
-  santrauka: Gediminaičių dinastija papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Gediminaičiai 4, 5, 16, 23, 25, 29,
-    31, 38, 64, 69, 82, 84, 206, 217,
-    245, 246, 248, 265, 268, 292, 297,
-    298, 300, 305, 309, 311, 313, 317,
-    320, 325, 343, 379
+    Šį sumanymą, kaip sako
+    Prochaska, smarkiai rėmęs ir Vytautas; jis priėmė jauną Fridri­
+    ką savo dvare ir jį vaišino. Kuriuo tikslu buvo rodomas toks pa­
+    lankumas šiam naujam kandidatui į lenkų karalius ir į Lietuvos
+    siuzerenus, sunku pasakyti. Galima tik spėt: arba Vytautas
+    manė atsikratyti Lenkija su visa jos unija, ėmus valdyti kitai, ne
+    Gedimino dinastijai; arba dar labiau norėjo sustiprinti savo tei­
+    ses globoti Lenkiją?
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

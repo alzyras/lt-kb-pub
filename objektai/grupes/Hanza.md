@@ -33,6 +33,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
 - t-001
   teiginys: 'Hanza yra vokiečių miestų sąjunga ir prekybos valdovė'
   pagrindžia:
+    - c-010
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -195,6 +196,22 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-010
+  santrauka: Hanza papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Šiose derybose dalyvavo ir Hanzos
+    miestų atstovai (Liubeko ir Stralsundo), kaipo suinteresuoti
+    Vytauto ir Ordino nesantaika, trukdžiusia Hanzai susisiekti su
+    Lietuva Vokiečių Ordino žemėmis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

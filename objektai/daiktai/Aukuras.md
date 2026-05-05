@@ -7,6 +7,7 @@ variantai:
 aliases: []
 saltiniai:
   - A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: senovės aisčių laikai
 datos: []
 periodas: senove
@@ -50,6 +51,13 @@ Nenurodyta
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
+- t-002
+  teiginys: 'Birutės legendoje aukuras minimas kaip vieta, nuo kurios ji pasitraukė į šeimos židinį.'
+  pagrindžia:
+    - c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Citata pateikia tiesioginį įrašo „Aukuras“ šaltinio pagrindą.
@@ -62,10 +70,26 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata rekonstruota iš verified canonical evidence."
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: Aukuras čia pasirodo Birutės legendos ir šeimos židinio priešpriešoje.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ir ta lietuvė, kuri, anot legendos, turėjusi visą amžių
+    tarnauti dievams, pasitraukusi nuo jų aukuro į šeimos židinį,
+    išaugino Lietuvai nemažame savo vaikų būryje didelį vyrą —
+    Vytautą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata remiasi legenda, todėl ji čia vertinama kaip legendinis paminėjimas, o ne kaip tiesioginė istorinė rekonstrukcija."
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

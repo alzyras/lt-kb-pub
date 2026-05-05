@@ -2,11 +2,14 @@
 tipas: asmuo
 pavadinimas: 'Liubartas'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - Liubartui
+  - Gedimino sūnus Liubartas
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -15,7 +18,7 @@ tags:
 
 ## Santrauka
 
-Voluinę Liubartas vis dėlto atlaikė. Lietuvos interesus čia gynė Liubartas. Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kunigaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.
+Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos paveldėjimo teisių turėtojas, ilgai gynęs Lietuvos interesus prieš Lenkiją.
 
 ## Teiginiai
 - t-001
@@ -57,6 +60,20 @@ Voluinę Liubartas vis dėlto atlaikė. Lietuvos interesus čia gynė Liubartas.
   pagrindžia:
     - c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: Liubartas vedė vienturtę Volynijos kunigaikščio įpėdinę.
+  pagrindžia:
+    - c-011
+    - c-009
+    - c-010
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: 1340 m., mirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Kazimieras Didysis.
+  pagrindžia:
+    - c-010
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -184,6 +201,54 @@ Voluinę Liubartas vis dėlto atlaikė. Lietuvos interesus čia gynė Liubartas.
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-008
+- c-009
+  santrauka: Citata pagrindžia, kad Liubartui buvo surasta Volynijos įpėdinė kaip dinastinė santuoka.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Taip
+    pat kaip Algirdui dar „gerą partiją“ jis surado Liubartui, ku­
+    ris vedė vienturtę Volynijos kunigaikščio įpėdinę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: Citata pagrindžia Liubarto varžymąsi dėl Haličo ir Volynijos bei jo santuokinį ryšį su Volynijos valdovų gimine.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    1340 met.
+    pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo
+    ir Volynijos susivaržė Boleslovo giminaitis Kazimieras did. ir
+    Gedimino sūnus Liubartas, kuris su išmirusią Pomanaičiu gi­
+    mine buvo susigiminiavęs vesdamas paskutinio Volynijos ku­
+    nigaikščio vienturtę dukterį
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+    - t-010
+- c-011
+  santrauka: Liubartas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Apskritai reikia pasakyti, kad gausingų savo
+    sūnų ir dukterų vedybomis Gediminas laimėjo gana daug. Jo
+    politikos sistemoje tai buvo vienas pagrindinis ramstis. Taip
+    pat kaip Algirdui dar „gerą partiją“ jis surado Liubartui, ku­
+    ris vedė vienturtę Volynijos kunigaikščio įpėdinę.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai

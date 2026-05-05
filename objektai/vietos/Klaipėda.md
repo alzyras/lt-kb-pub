@@ -148,3 +148,5 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 ### Susiję objektai
 - [[objektai/vietos/Nemunas]]
 - [[objektai/vietos/Žemaitija]]
+- [[objektai/vietos/Dancigas]]
+- [[objektai/vietos/Ryga]]

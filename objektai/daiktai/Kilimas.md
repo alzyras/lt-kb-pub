@@ -54,7 +54,7 @@ Nenurodyta
 - t-002
   teiginys: '`Kilimas` buvo dėvimas ant pečių ir tinkamas apsisiausti nuo lietaus ar blogo oro.'
   pagrindžia:
-    - c-001
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
@@ -78,6 +78,24 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: `Kilimas` buvo dėvimas ant pečių ir tinkamas apsisiausti nuo lietaus ar blogo oro.
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Išeiginiu drabužiu motriškųjų
+    buvo taip vadinamas kilimas^338 , nuo žodžio keliauti, kurį drabužį iš namų eidamos kur toli
+    tesiėmė; vadino dar jį sage, arba sagše^339 , nuo žodžio segti, kurią dar tankiau vilnonę^340 vadino;
+    tai buvo didelis vilnonas baltas raištis^341 , pailguotinas, retai juodas ar pilkas; paskesniuose
+    laikuose išlepusios audė dryžus, kuriuos šiandien dar daugioj vietoj gal regėti Žemaičiuose ir
+    Žemgaliuose, arba Kurše; tokį kilimą ant pečių antsiautusios^342 , ant dešiniojo peties segele
+    susegė, nuo ko, kaip sakiau, sage, arba sagše vadino, kuria lynant ar dergiant galėjo apsisiausti;
+    žiemą vilnonus, vasarą marškonus dėvėjo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
     - t-002
 
 ## Pastabos

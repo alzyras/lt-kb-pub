@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: 'senovės aisčiai; priešistorė ir ankstyvieji istoriniai laikai'
 datos:
   - 'senovės aisčiai'
@@ -50,13 +51,6 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Aisčiai rengdavo vėlių garbinamąsias šventes, vadinamas vėlinėmis, per kurias aukodavo aukas, o vėlėms nuliedavo gėrimų ir numesdavo maisto.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
 - t-003
   teiginys: 'Mirusiųjų kapai darėsi turtingesni, o žirgai būdavo pakasami drauge su mirusiuoju.'
   pagrindžia:
@@ -74,6 +68,19 @@ Nenurodyta
   pagrindžia:
     - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+- t-006
+  teiginys: 'Senovės lietuvių pomirtinio gyvenimo samprata reiškė, kad mirus kilmingam žmogui kartu su lavonu sudegindavo ginklus, arklį, tarnus, moteris, brangius apdarus, kurtus, sakalus ir kitus karo žygio reikmenis.'
+  pagrindžia:
+    - c-006
+  šaltinis: 'Vytautas Didysis 1350-1430 (1930 m.)'
+  statusas: patvirtinta
+- t-007
+  teiginys: 'Vėlinių dienomis gyvieji, rūpindamiesi vėlių likimu, Žeminei nuliedavo gėrimų ir numesdavo valgio, o vėles laikė galinčiomis pereiti į gyvulius, medžius ir kitus gamtos kūnus.'
+  pagrindžia:
+    - c-007
+  šaltinis: 'Vytautas Didysis 1350-1430 (1930 m.)'
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -96,25 +103,6 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: Aisčiai rengdavo vėlių garbinamąsias šventes, vadinamas vėlinėmis, per kurias aukodavo aukas, o vėlėms nuliedavo gėrimų ir numesdavo maisto.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau aisčiai tikėjo, kad mirusiųjų vėlės nesiskiriančios nuo
-    šeimų ir gyventos aplinkos: jos apsigyvenančios gyvuliuose ar
-    medžiuose, augančiuose ant jų kapų, ir būnančios savo šeimų
-    globėjos. Todėl būdavo ruošiamos specialios vėlių garbinamo-
-    sios šventės, vadinamosios vėlinės; tuomet joms būdavo
-    aukojamos įvairios aukos. Vėlėms kiekvienos puotos metu že-
-    mėn būdavo nuliejama gėrimų ir numetama maisto.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: Mirusiųjų kapai darėsi turtingesni, o žirgai būdavo laidojami kartu su mirusiuoju.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -171,3 +159,39 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+
+- c-006
+  santrauka: Mirus kilmingam žmogui drauge su lavonu sudegindavo jo karo žygio reikmenis, žmones ir gyvūnus, o paprastam žmogui degindavo jo užsiėmimui priklausiusius daiktus.
+  šaltinis: 'Vytautas Didysis 1350-1430 (1930 m.)'
+  citata_originali: |
+    Dėl to buvo paprotys, kad mirus kilmingam žmo­
+    gui (edelin) ginklus ir arklį, tarnus (knechte), moteris (meide),
+    brangius apdarus, kurtus ir sakalus ir daug kitų padargų, rei­
+    kalingų karo žygyje buvo sudeginama kartu su lavonu. Taip
+    pat su paprasto žmogaus lavonu buvo deginama visa, kas
+    priklausė jo užsiėmimui. Mat, visi tokie daiktai kartu su jais,
+    pagal jų tikėjimą, turėjo prisikelti iš numirusių ir tarnauti
+    toliau, kaip anksčiau tarnavo”1 2).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: Vėlinių dienomis gyvieji nuliedavo gėrimų ir numesdavo maisto, manydami, kad vėlės gali pereiti į gyvulius, medžius ir kitus gamtos kūnus.
+  šaltinis: 'Vytautas Didysis 1350-1430 (1930 m.)'
+  citata_originali: |
+    Kur ir kaip vėlės aname pasauly laikėsi ir patiems tikin­
+    tiesiems nebuvo aišku. Būta kažkokios dausų sąvokos. Gy­
+    vieji, rūpindamiesi vėlių likimu, šaukdavosi į Žeminę, nuliedami
+    jai gėrimo ar numesdami valgio, ypač vėlinių dienomis. Ti­
+    kėta vėles pereinant į gyvulius, medžius ir kitus gamtos kūnus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007

@@ -38,6 +38,7 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
 - t-003
   teiginys: '1358 m. Algirdas derybose su Karoliu IV reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais ir sugrąžinti Lietuvai baltų žemes vakaruose.'
   pagrindžia:
+    - c-003
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
@@ -73,6 +74,26 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+    - t-003
+- c-003
+  santrauka: Karolis IV papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tiesa, 1358 met.
+    jie patys Niurnbergo imperijos seimui buvo pasisiūlę
+    apsikrikštyti, bet to nepadarė, o tik pasiuntė imperatoriui Ka­
+    roliui IV raštą, kuriame nurodo savo krikšto sąlygas: teati­
+    duoda Ordinas Lietuvai Prūsų kraštą iki Deines ir Alės upių,
+    o pats tegu persikelia į Rusijos pietus kovoti su totoriais, nes
+    Lietuvai apsikrikštijus, Ordinui Pabaltėje būti nebėr pras­
+    mės.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-003
     - t-003
 
 ## Ryšiai

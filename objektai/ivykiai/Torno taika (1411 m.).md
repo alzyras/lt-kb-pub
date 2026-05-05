@@ -15,7 +15,6 @@ tags:
   - ivykis
   - karas
   - ordinas
-  - sutartis
 ---
 # Torno taika (1411 m.)
 
@@ -49,6 +48,7 @@ Nenurodyta
 - t-003
   teiginys: 'Torno taika Žemaičius Lietuvai pripažino tik iki Vytauto ir Jogailos gyvos galvos, o ordinas turėjo sumokėti 100000 kapų čekų grašių.'
   pagrindžia:
+    - c-004
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
@@ -111,7 +111,19 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
+- c-004
+  santrauka: Torno taika (1411 m.) papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Lietuva ta sutartimi ga­
+    vo Žemaitiją, ir tai tik iki Vytauto ir Jogailos mirties, o paskui
+    vėl turėjo grįžti Ordinui. Lenkija gavo, ir tai už belaisvius,
+    100.000 kapų grašių ir nedidelės reikšmės Dobrynės sritį. Tai
+    ir visa.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-003

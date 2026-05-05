@@ -10,11 +10,13 @@ variantai:
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-laikotarpis: '1911 m.; 1922-1930 m.; 1923 m.; 1936 m.'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+laikotarpis: '1911 m.; 1922-1930 m.; 1923 m.; 1930 m.; 1936 m.'
 datos:
   - '1911 m.'
   - '1922-1930 m.'
   - '1923 m.'
+  - '1930 m.'
   - '1936 m.'
 periodas: ''
 periodo_grupes: []
@@ -26,6 +28,7 @@ vaidmenys:
   - 'autorius'
   - 'dėstytojas'
   - 'katedros vedėjas'
+  - 'tikrintojas'
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
@@ -36,7 +39,7 @@ tags:
 
 ## Santrauka
 
-A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios istorijos veikalų autorius bei pirmasis Lietuvos istorijos, jos šaltinių ir istorinės geografijos dėstytojas Teologijos-Filosofijos fakultete.
+A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios istorijos veikalų autorius bei pirmasis Lietuvos istorijos, jos šaltinių ir istorinės geografijos dėstytojas Teologijos-Filosofijos fakultete. Šiame šaltinyje jis papildomai rodomas kaip monografijos apie Vytautą Didįjį patarėjas, peržiūrėtojas ir bibliografiškai cituojamas Lietuvos istorijos autorius.
 
 ## Darbai
 
@@ -66,7 +69,7 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
 - t-004
   teiginys: 'A. Alekna 1911 m. išleido Lietuvos istoriją, o 1923 m. paskelbė platesnį jos leidimą.'
   pagrindžia:
-    - c-004
+    - c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-005
@@ -81,13 +84,25 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
     - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patarimais ir buvo numatytas įžangos žodžio autorius.'
+  pagrindžia:
+    - c-007
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: 'Prof. A. Alekna peržiūrėjo ir patikrino apie Vytautą Didįjį išleistą plačią monografiją.'
+  pagrindžia:
+    - c-009
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: A. Alekna įvardijamas nusipelniusiu istoriku
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Pagrindan dėdamas tų dviejų valstybių tarpusavio santy-
+    Pagrindan dėdamas tų dviejų valstybių tarpusavio santy­
     kius taip tebedarė nusipelnęs istorikas kan. A. Alekna (1923), iš
     dalies—St. Matulaitis (1923), nekalbant apie senesnius autorius.
   citata_rodoma: ""
@@ -167,6 +182,49 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+- c-007
+  santrauka: Įžangoje A. Alekna minimas kaip monografijos rengėjus patarimais rėmęs profesorius.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pagaliau nieku būdu negalime praeiti pro šalį nepareiškę
+    didelio dėkingumo gerb. prof. A. Aleknai mielai padėju­
+    siam naudingais patarimais šią monografiją rašant bei reda­
+    guojant, ir kartu apgailestaujam, kad gerb, profesorius dėl
+    ligos negalėjo parašyti šiai knygai įžangos žodžio.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: Šio šaltinio bibliografijoje dar kartą nurodoma A. Aleknos Lietuvos istorija.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Alekna, A., Lietuvos istorija. Antras leidimas. Tilžė, 1923.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-009
+  santrauka: A. Alekna nurodomas kaip jubiliejinės monografijos peržiūrėtojas ir tikrintojas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytauto Didžiojo 500 jubiliejaus metu proga „Sakalo“ B-vė išleido apie
+    Vytautą Didįjį plačią monografiją. Ją parašė istorikų būrelis, redagavo
+    S. Daukanto mok. Sem-jos istorijos mok. P. Šležas. Monografiją peržiū­
+    rėjo ir patikrino prof. A. Alekna.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Laikotarpiai

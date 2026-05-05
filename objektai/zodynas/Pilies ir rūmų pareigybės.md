@@ -1,29 +1,33 @@
 ---
-tipas: 'zodyno_irasas'
+tipas: zodyno_irasas
 pavadinimas: pilies ir rūmų pareigybės
 sukurta: 2026-04-30
 variantai:
-  - raktininkas
-  - parakčia
-  - angininkas
-  - karūžasis
-  - šimtininkas
-  - dešimtininkas
-  - tekūnas
-  - vizius
-  - vaišintojas
-  - riekėjas
-  - ragintojas
-  - medinčius
-  - žirgūnas
-  - lobenas
-  - žyminas
-  - paišoriai
-  - antveizas
-  - pristovas
+- raktininkas
+- parakčia
+- angininkas
+- karūžasis
+- šimtininkas
+- dešimtininkas
+- tekūnas
+- vizius
+- vaišintojas
+- riekėjas
+- ragintojas
+- medinčius
+- žirgūnas
+- lobenas
+- žyminas
+- paišoriai
+- antveizas
+- pristovas
+- rūmininku
+- vyno pilstytoju
 saltiniai:
-  - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+- Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+- Vytautas Didysis 1350-1430 (1930 m.)
 patikimumas: aukštas
+tags: []
 ---
 # pilies ir rūmų pareigybės
 
@@ -47,9 +51,25 @@ Vartojamos formos: `raktininkas`, `parakčia`, `angininkas`, `karūžasis`, `ši
   teiginys: 'Šios pareigybės siejamos su raktų, vėliavos, ūkės žymės ir rūmų tvarkos priežiūra.'
   pagrindžia:
     - c-001
-    - c-002
-    - c-003
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-003
+  teiginys: Rūmininkas čia reiškia didžiojo kunigaikščio dvaro pareigūną.
+  pagrindžia:
+    - c-004
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: Vyno pilstytojas čia reiškia antrą dvaro pareigybę, kurią Vaidyla gavo Julijonos malone.
+  pagrindžia:
+    - c-004
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: Tekstas rodo Vaidylos kilimą iš žemo tarnautojo į dvaro pareigūnų sluoksnį.
+  pagrindžia:
+    - c-004
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -139,6 +159,21 @@ Vartojamos formos: `raktininkas`, `parakčia`, `angininkas`, `karūžasis`, `ši
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-004
+  santrauka: Rūmininkas čia reiškia didžiojo kunigaikščio dvaro pareigūną.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Į šitą luomą jis pateko vesdamas Jogailos seserį
+    Mariją; iš dvaro duonkepio padėjėjo buvo pakeltas didžiojo
+    kunigaikščio rūmininku, o vėliau Julijonos malone— ir vyno
+    pilstytoju.
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+    - t-004
+    - t-005
 
 ## Pastabos
 

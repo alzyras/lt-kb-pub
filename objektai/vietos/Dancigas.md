@@ -146,3 +146,4 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
 - [[objektai/vietos/Karaliaučius]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Ryga]]
+- [[objektai/vietos/Klaipėda]]

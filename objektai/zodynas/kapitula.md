@@ -1,12 +1,14 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'kapitula'
+pavadinimas: kapitula
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+- kapitulai
 aliases: []
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
+- A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- Vytautas Didysis 1350-1430 (1930 m.)
+patikimumas: vidutinis
 tags:
   - sąvoka
 ---
@@ -21,6 +23,18 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
   teiginys: 'XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užėmė rusai.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: Ordino kapitula turi sutikti, kad Vytautui būtų pavesta valdyti Naują Marienburgo pilį.
+  pagrindžia:
+    - c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: kapitula čia vartojama kaip institucinis Ordino organas.
+  pagrindžia:
+    - c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -38,3 +52,17 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: Ordino kapitula turi sutikti, kad Vytautui būtų pavesta valdyti Naują Marienburgo pilį.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kryžiuočių viršininkas dabar jau labiau Vytautui pasitikė­
+    damas, Ordino kapitulai sutikus, pavedė jam valdyti prie Ne­
+    muno, žemiau Dubysos įtakos, Naują Marienburgo pilį. Nauja­
+    sis Marienburgas pasidarė Vytauto giminių bei šalininkų centras.
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+    - t-003

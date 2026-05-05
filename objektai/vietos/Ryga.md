@@ -189,3 +189,4 @@ Priėjimas prie Rygos Dauguvos upe taip pat buvo gana sunkus, — čia irgi truk
 - [[objektai/vietos/Latgala]]
 - [[objektai/vietos/Padauguvis]]
 - [[objektai/vietos/Salaspilis]]
+- [[objektai/vietos/Klaipėda]]

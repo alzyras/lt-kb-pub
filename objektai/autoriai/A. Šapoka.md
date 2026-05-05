@@ -6,14 +6,18 @@ variantai:
   - 'A. Š A P О K А'
   - 'A. Šapoka (red.)'
   - 'Šapoka'
+  - 'A.Šapoka'
+aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-laikotarpis: '1936 m.; 1931 m.; 1932 m.; 1935 m.'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+laikotarpis: '1936 m.; 1931 m.; 1932 m.; 1935 m.; 1930 m. (veikalo sudarymo kontekstas)'
 datos:
   - '1936 m.'
   - '1931 m.'
   - '1932 m.'
   - '1935 m.'
+  - '1930 m. (veikalo sudarymo kontekstas)'
 vaidmenys:
   - 'redaktorius'
   - 'teksto suderintojas'
@@ -26,11 +30,13 @@ tags:
 
 ## Santrauka
 
-A. Šapoka šiame šaltinyje minimas kaip redaktorius, teksto suderintojas; jam priskiriami darbai Lietuvos istorija, *Lietuvos istorija (1936 m.)* ir kiti darbai.
+A. Šapoka minimas kaip redaktorius, teksto suderintojas ir autorius; jam priskiriami darbai Lietuvos istorija, *Lietuvos istorija (1936 m.)*, Lietuva iki Vytauto, Vytauto vieta mūsų istorijoj ir kiti darbai.
 
 ## Darbai
 - Lietuvos istorija
 - *Lietuvos istorija (1936 m.)*
+- Lietuva iki Vytauto
+- Vytauto vieta mūsų istorijoj
 - _Vokiečių r. ordinas iki atsikraustymo į Prūsus_
 - _Kur senovės liet. mokslo ieškojo_, _Lietuvių lenkų santykiai po Vytauto iki 1569 m._, _Senosios Lietuvos valstybės santvarkos bruožai_, _Pirmasis bandymas pataisyti 1569 m. uniją_
 
@@ -53,12 +59,19 @@ A. Šapoka šiame šaltinyje minimas kaip redaktorius, teksto suderintojas; jam 
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-006
-  teiginys: 'A. Šapoka parašė _Senosios Lietuvos valstybės santvarkos bruožai_.'
+- t-009
+  teiginys: 'A. Šapoka šiame leidinyje įrašytas tarp knygos autorių.'
   pagrindžia:
-    - c-008
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+    - c-009
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-008
+  teiginys: 'Turinyje A. Šapokai priskiriami skyriai „Lietuva iki Vytauto“ ir „Vytauto vieta mūsų istorijoj“.'
+  pagrindžia:
+    - c-010
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: A. Šapoka įvardytas kaip redaktorius
@@ -70,7 +83,7 @@ A. Šapoka šiame šaltinyje minimas kaip redaktorius, teksto suderintojas; jam 
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-003
@@ -84,7 +97,7 @@ A. Šapoka šiame šaltinyje minimas kaip redaktorius, teksto suderintojas; jam 
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
 - c-004
@@ -98,27 +111,52 @@ A. Šapoka šiame šaltinyje minimas kaip redaktorius, teksto suderintojas; jam 
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-- c-008
-  santrauka: A. Šapoka papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-009
+  santrauka: Tituliniame puslapyje A. Šapoka įrašytas tarp leidinio autorių.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    A. Šapoka :** **_Lietuvos valstybės įsikūrimas ir Mindaugas,_** **Ateitis 1951,
-    3 nr., 102-103, 110 p. ; V. Liulevičius :** **_Lietuvių tautos valstybinio gyvenimo
-    pradžios beieškant_** **, Aidai 1970, 7 nr., 289-295 p.; VoKL
-  citata_rodoma: ""
+    Parašė:
+    ```
+    ##### A.Šapoka, Z. Ivinskis, V. Dėdinas, A. Kučinskas,
+
+    ##### S. Sužiedėlis, P. Šležas, Dr. M. Krasauskaitė.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-006
+    - t-009
+- c-010
+  santrauka: Turinyje A. Šapokai priskiriami du skyriai apie Vytautą.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    A. Šapoka. Lietuva iki Vytauto ..................................................... XV
+    Z. Ivinskis. Vytauto jaunystė ir jo veikimas iki 1392 m. 1
+    V. Dėdinas. Vytauto vidaus ir užsienio politika ligi Žal­
+    girio mūšio.....................................................................
+    A. Kučinskas. Žalgirio mūšis .......................................................... 69
+    S. Sužiedėlis. Vytauto vaidmuo Lietuvos kristianizacijoj 91
+    S. Sužiedėlis. Vytauto galybės laikai .............................................
+    P. Šležas. Vytauto santykiai su Lenkija ....................... 141
+    P. Šležas. Vytauto konfliktas su Lenkija dėl karūnacijos ............. 205
+    ```
+    S.Sužiedėlis. Vytauto ekonominė politika ..................................... 235
+
+    ```
+    Dr. Krasauskaitė. Vytauto charakteristika ................................... 253
+    A. Šapoka. Vytauto vieta mūsų istorijoj ....................................... 267
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/redaktorius]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]

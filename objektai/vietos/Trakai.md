@@ -11,6 +11,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 susije_irasai: []
 patikimumas: 'vidutinis'
 tags:
@@ -20,7 +21,7 @@ tags:
 # Trakai
 
 ## Santrauka
-Trakai šiame šaltinyje minimi kaip valdžios centras, Gedimino statyta pilis, Kęstučio valdų dalis ir vieta, kur Vytautas kūrė savo kunigaikštystės branduolį. Šiame šaltinyje Trakai dar siejami su totorių ir karaimų apgyvendinimu bei paskutine Vytauto kelione prieš mirtį.
+Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio valdų vieta ir viena iš tankiau apgyventų bei valdovo būstinei artimų žemių.
 
 ## Teiginiai
 - t-001
@@ -83,6 +84,25 @@ Trakai šiame šaltinyje minimi kaip valdžios centras, Gedimino statyta pilis, 
   pagrindžia:
     - c-014
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+
+- t-014
+  teiginys: '1379 m. rugsėjo 29 d. po trijų dienų derybų Trakuose buvo pasirašyta sutartis.'
+  pagrindžia:
+    - c-015
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-015
+  teiginys: 'Lietuvą kurį laiką valdė diarchija: Algirdas Vilniuje, o Kęstutis Trakuose.'
+  pagrindžia:
+    - c-016
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-016
+  teiginys: 'Trakų žemė priklausė tankiau apgyventoms sritims ir buvo arti didžiojo kunigaikščio būstinės.'
+  pagrindžia:
+    - c-017
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -280,6 +300,48 @@ Trakai šiame šaltinyje minimi kaip valdžios centras, Gedimino statyta pilis, 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+
+- c-015
+  santrauka: Citata tiesiogiai datuoja Trakus kaip 1379 m. sutarties pasirašymo vietą.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Po trijų dienų sunkių derybų Trakuose bu­
+    vo pasirašyta (1379—IX—29) sutartis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-014
+- c-016
+  santrauka: Citata tiesiogiai apibūdina Trakus kaip Kęstučio valdžios centrą diarchijos metu.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku­
+    nigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-015
+- c-017
+  santrauka: Citata rodo Trakus kaip tankiau apgyventą ir valdovo centrui artimą žemę.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    gausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­
+    maičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau
+    apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat
+    arčiau didž. Lietuvos kunigaikščio būstinės.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-016
 
 ## Ryšiai
 ### Susiję objektai

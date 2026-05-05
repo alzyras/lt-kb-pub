@@ -7,6 +7,7 @@ variantai:
 aliases: []
 saltiniai:
   - A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: ""
 datos: []
 periodas: ""
@@ -62,6 +63,13 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
+- t-004
+  teiginys: 'Balti vilnoniai rūbai prie krikšto buvo dalijami ir kaip liturginis nekaltybės simbolio reikalavimas.'
+  pagrindžia:
+    - c-003
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Nurodo marškinių dalijimą kaip krikšto dovanos praktiką ir jų simbolinę reikšmę.
@@ -91,9 +99,26 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
   pagrindžia:
     - t-003
 
+- c-003
+  santrauka: Balti vilnoniai rūbai čia aiškinami liturginiu reikalavimu ir nekaltybės simbolika.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jogaila besi­
+    krikštijantiems duodavo dar baltų vilnonių rūbų, bet ne tik kaipo
+    dovaną, o ir tam, kad būtų išpildytas liturgikos reikalavimas —
+    prie krikšto turėti baltą rūbą, nekaltybės simbolį.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/drabužis]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)]]
+- [[objektai/paprociai/Lietuvos krikšto apeigos]]

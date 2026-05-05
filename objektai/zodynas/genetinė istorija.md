@@ -27,19 +27,22 @@ tags: []
 
 ## Santrauka
 
-Genetinė istorija čia suprantama kaip priežastinį aiškinimą pabrėžiantis istorijos rašymo būdas, priešpriešinamas pragmatiškai-didaktiniam, moralizuojančiam ir pamokančiam pasakojimui. Su sąvoka siejamas reikalavimas pirmoje vietoje aiškinti visuomeninės reikšmės įvykių priežastingumą ir atsitraukti nuo vien pamokomųjų istorijos tikslų.
+Priežastinį istoriografijos metodą pabrėžianti istorija, priešpriešinama moralizuojančiam ir pamokančiam pasakojimui; istorijos rašymo būdas, orientuotas į praktinį ir pamokomą pasakojimą. Autorius aiškina, kad istorijos mokslas turėtų pereiti nuo praktinio-pamokomojo rašymo prie genetinio, priežastinio metodo; Daukanto istorijos rašymas vėl nusukamas į praktinį, pamokomą pasakojimą.
 
 ## Žodis ir formos
 
 Vartojamos formos: genetinei (priežastinei) istorijai, Pragmatiškai-didaktinis istorijos rašymo būdas, psichofizinį priežastingumą, pragmatiškai-didaktine kryptimi.
 
+## Laikotarpis ir datos
+- laikotarpis:
+
 ## Reikšmė iš konteksto
 
-Sąvoka nusako priežastinį istorijos aiškinimo metodą, kuris priešpriešinamas pragmatiškai-didaktiniam, moralizuojančiam istorijos rašymui.
+priežastinį istoriografijos metodą pabrėžianti istorija, priešpriešinama moralizuojančiam ir pamokančiam pasakojimui; istorijos rašymo būdas, orientuotas į praktinį ir pamokomą pasakojimą
 
 ## Vartojimas
 
-Terminas vartojamas aptariant istorijos mokslo pažangą, naujų tyrinėjimo metodų poreikį ir Daukanto istorijos rašymo kryptį.
+Autorius aiškina, kad istorijos mokslas turėtų pereiti nuo praktinio-pamokomojo rašymo prie genetinio, priežastinio metodo; Daukanto istorijos rašymas vėl nusukamas į praktinį, pamokomą pasakojimą.
 
 ## Teiginiai
 - t-001
@@ -72,12 +75,12 @@ Terminas vartojamas aptariant istorijos mokslo pažangą, naujų tyrinėjimo met
   santrauka: Pragmatiškai-didaktinis istorijos rašymo būdas turi trauktis prieš genetinę istoriją
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Romantiškas žvilgsnis į savo istoriją tebeturi stiprias tradici-
+    Romantiškas žvilgsnis į savo istoriją tebeturi stiprias tradici­
     jas lietuviuose. Bet ir istorijos mokslas _daro pažangą._ Žinoma,
     pačioje istorijoje, anoje prieš daug šimtų metų įvykusioje praeityje,
     nieko _nebegalima pakeisti._ Kas yra atsitikę, yra įvykę amžinai,
     ir niekada nebesiduoda koriguojama. Keistis gali tačiau vėlesnių
-    generacijų pažiūros į pačius faktus. Pvz., ir senos praeities įvy-
+    generacijų pažiūros į pačius faktus. Pvz., ir senos praeities įvy­
     kiams aiškinti gali būti surastos naujos priežastys, nauji atžvilgiai,
     ypač kai pavartojami _nauji_ tyrinėjimo metodai.
     Ir pas mus toji labiau _praktiško_ tikslo siekusi istorija, buvusi
@@ -85,7 +88,7 @@ Terminas vartojamas aptariant istorijos mokslo pažangą, naujų tyrinėjimo met
     pamokinančių ir patriotiškai nuteikiančių pavyzdžių, turi užleisti
     pirmaujančią vietą _genetinei_ (priežastinei) istorijai. Pragmatiškai-
     -didaktinis istorijos rašymo būdas turi trauktis ir labiau leisti
-    reikštis genetiniam metodui, kuris pirmoje vietoje stato visuome-
+    reikštis genetiniam metodui, kuris pirmoje vietoje stato visuome­
     ninės reikšmės turinčių įvykių psichofizinį _priežastingumą_ (Ernst
     Bernheim).
   citata_rodoma: ""
@@ -100,12 +103,12 @@ Terminas vartojamas aptariant istorijos mokslo pažangą, naujų tyrinėjimo met
   santrauka: Istorijos mokslas čia pristatomas kaip pažangos ir naujų priežastinių aiškinimų sritis
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Romantiškas žvilgsnis į savo istoriją tebeturi stiprias tradici-
+    Romantiškas žvilgsnis į savo istoriją tebeturi stiprias tradici­
     jas lietuviuose. Bet ir istorijos mokslas _daro pažangą._ Žinoma,
     pačioje istorijoje, anoje prieš daug šimtų metų įvykusioje praeityje,
     nieko _nebegalima pakeisti._ Kas yra atsitikę, yra įvykę amžinai,
     ir niekada nebesiduoda koriguojama. Keistis gali tačiau vėlesnių
-    generacijų pažiūros į pačius faktus. Pvz., ir senos praeities įvy-
+    generacijų pažiūros į pačius faktus. Pvz., ir senos praeities įvy­
     kiams aiškinti gali būti surastos naujos priežastys, nauji atžvilgiai,
     ypač kai pavartojami _nauji_ tyrinėjimo metodai.
   citata_rodoma: ""
@@ -137,3 +140,11 @@ Terminas vartojamas aptariant istorijos mokslo pažangą, naujų tyrinėjimo met
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+
+## Pastabos
+
+- sąvoka apibrėžiama tik iš autoriaus metodologinės priešpriešos, ne iš atskiro žodyno apibrėžimo; šaltinyje vartojama tik prieveiksmine forma, todėl kanoninė forma rekonstruojama iš konteksto.
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/istorinė-sąvoka]]

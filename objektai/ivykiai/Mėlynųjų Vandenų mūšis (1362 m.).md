@@ -10,7 +10,8 @@ variantai:
   - 'Mėlynuosius Vandenis'
   - 'Mėlynaisiais Vandenimis'
   - 'Mėlynieji Vandenys'
-aliases: []
+aliases:
+  - '[]'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'

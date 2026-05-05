@@ -7,12 +7,11 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 patikimumas: 'vidutinis'
 periodas: viduramziai
 tags:
-  - daiktas
   - ginklas
-  - mūšis
 ---
 # Du pliki kardai
 
@@ -47,6 +46,19 @@ Nenurodyta
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
+- t-003
+  teiginys: 'Pasiuntiniai, nešę du kardus, buvo du riteriai su Vengrijos ir Štetino kunigaikštystės ženklais.'
+  pagrindžia:
+    - c-003
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Ordino magistras prašė tuos du kardus priimti kaip pagalbą būsimam susirėmimui atvirame lauke.'
+  pagrindžia:
+    - c-004
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Magistras nusiuntė Vytautui ir Jogailai du plikus kardus, ragindamas nesislapstyti krūmuose.'
@@ -77,6 +89,37 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: Kardus atnešė du konkrečiais ženklais pažymėti riteriai.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Įėjo Vengrijos
+    ir Štetino kunigaikštijos ženklais pažymėti du riteriai dviem
+    nuogais kardais nešini. Pasiuntiniai pareiškė, kad šituos du
+    kardus atnešė kryžiuočių didžiojo magistro liepiami.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: Du kardai įvardijami kaip simbolinė pagalba būsimam mūšiui.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ordino
+    magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam
+    susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­
+    viram lauke, bet nesislapstyti giriose, kaip iki šiol.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai

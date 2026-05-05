@@ -11,10 +11,12 @@ variantai:
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-laikotarpis: '1936 m. (veikalo sudarymo kontekstas)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+laikotarpis: '1936 m. (veikalo sudarymo kontekstas); 1970 m. spalių mėn. 15 d.; 1930 m. (veikalo sudarymo kontekstas)'
 datos:
   - '1936 m. (veikalo sudarymo kontekstas)'
   - '1970 m. spalių mėn. 15 d.'
+  - '1930 m. (veikalo sudarymo kontekstas)'
 vaidmenys:
   - 'autorius'
   - 'istorikas'
@@ -26,7 +28,7 @@ tags:
 
 ## Santrauka
 
-Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam priskiriama veikalo dalis apie laikotarpį iki Gediminaičių dinastijos galo, o kitame jis pats pasirašo knygos pratarmę ir nurodomas kaip darbų apie Jogailą, Lietuvos istoriografiją, Gedimino laiškų aiškinimą, Lietuvos ir Rygos santykius XIV a. bei Vytauto jaunystę autorius.
+Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam priskiriama veikalo dalis apie laikotarpį iki Gediminaičių dinastijos galo, kitame jis pats pasirašo knygos pratarmę ir nurodomas kaip darbų apie Jogailą, Lietuvos istoriografiją, Gedimino laiškų aiškinimą, Lietuvos ir Rygos santykius XIV a. bei Vytauto jaunystę autorius, o 1930 m. kolektyvinės knygos įžangoje jis rodomas kaip jaunųjų istorikų telkėjas.
 
 ## Darbai
 - Lietuvos istorija
@@ -90,6 +92,18 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
     - c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-009
+  teiginys: 'Įžangoje nurodoma, kad jaunieji istorikai į pasitarimą dėl knygos buvo susirinkę Z. Ivinskio pakviesti.'
+  pagrindžia:
+    - c-011
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: 'Turinyje Z. Ivinskiui priskiriamas skyrius „Vytauto jaunystė ir jo veikimas iki 1392 m.“.'
+  pagrindžia:
+    - c-012
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -108,14 +122,14 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
   santrauka: Autorius savo vardu ir pavarde pasirašo veikalo pratarmę.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    **Zenonas Ivinskis**
+    Zenonas Ivinskis**
     Bonn, 1970 m. spalių mėn. 15 d.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -143,8 +157,7 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
     Ivinskis, Z. (Bražėnas) : _Lietuvių tautos istorijos periodizacijos met-
     mens,_ Tremtinių Mokykla, 1946 (Weilheim-Teck, Vokietija), nr. 3-4,
     55-65 p. — Ivinskis, Z. : _Lietuvos ir kitų baltų praeitis sovietų aiškinime,_
-    Į Laisvę, 1957, m. 12, 13-19 p. (žr. plačiau Europos Lietuvis, 1957,
-    nr. 14-16, 24-33).
+    Į Laisvę, 1957, m. 12, 13-19 p.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -157,7 +170,7 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Z. Ivinskis:** **_Die baltische Frage im 17_****. Jahrhundert, leidiny:** **_Der
-    Ostseeraum im Blickfeld der deutschen Geschichte,_** **Köln-Wien 1970, 119-140 p.
+    Ostseeraum im Blickfeld der deutschen Geschichte,_** **Köln-Wien 1970, 119-140 p
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -186,7 +199,7 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   citata_originali: |
     Ivinskis, Z. : _Die Handels­
     beziehungen Litauens mit Riga im 14. Jh.,_ Primus Congr. Histor. Balti-
-    eorum, Riga 1938, 276-285 p. — (”) _Gedimino pilis,_ LE, t. 7, 75-76 p.
+    eorum, Riga 1938, 276-285 p. — (”) _Gedimino pilis,_ LE, t. 7, 75-76 p
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -201,9 +214,7 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
     Ivinskis, Z. : _Vytauto jaunystė ir jo veikimas iki
     1392 m._ , rink. _Vytautas Didysis_ , red. P. Šležas, Kaunas 1930, 1-44 p.
     — (”) _Jogailos santykiai su Kęstučiu ir Vytautu iki 1392 m._ , rink. _Jogaila,_
-    red. A. Šapoka, Kaunas 1935, 47-79 p. — (”) _Jogaila_ , LE, t. 9, 419-
-    425 p. — (”) _Vaidotas_ , LE, t. 32, 446-447 p. — (”) _Vytautas Didysis ...
-    jo jaunystė_ , LE, t. 34, 373-376 p.
+    red. A. Šapoka, Kaunas 1935, 47-79 p
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -212,53 +223,59 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   pagrindžia:
     - t-008
 - c-009
-  santrauka: Ivinskis, Z. papildomas patvirtintas šaltinio paminėjimas.
+  santrauka: Z. Ivinskis papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ivinskis, Z. : _Lietuvos vakarų sienos bei Klaipėdos
     klausimas Vytauto laikais_ , NaR, nr. 120 ir 121, 1933, 371-373, 385-
-    386 p. — (”) _Konstancos susirinkimas_ , LE, t. 12, 372-375 p. — (”) _Že­
-    maičių (Medininkų) vyskupijos įkūrimas (1417) ir jos reikšmė lietuvių
-    tautai_ (1417-1967), LASD, t. 7, 55-132 p. (gausi bibliogr.).
-  citata_rodoma: ""
+    386 p. — (”) _Konstancos susirinkimas_ , LE, t. 12, 372-375 p
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: 'Citata automatiškai pririšta prie exact source offsetų.'
   pagrindžia:
     - t-004
 - c-010
   santrauka: Z. Ivinskis papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    85) **K. Žukas :** **_Prof. K. Jablonskio bibliografija_** **, Bibliotekininkystės ir
-    bibliografijos klausimai, IV t., 1965, 155-206 p. ; Z. Ivinskis :** **_Prof. K. Jab­
+    Z. Ivinskis :** **_Prof. K. Jab­
     lonskio atminimui (1892-1960). Jo įnašas Lietuvos istorijos mokslui,_** **Aidai,
     1961, 1 nr., 18-22 p
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: 'Citata automatiškai pririšta prie exact source offsetų.'
   pagrindžia:
     - t-004
-    ### ZENONAS IVINSKIS
-  citata_rodoma: ""
+- c-011
+  santrauka: Įžangoje Z. Ivinskis rodomas kaip pasitarimo dėl knygos iniciatorius.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Todėl jaunieji
+    istorikai, suprasdami tą didelį trūkumą ir tautos savigarbą, Z.
+    Ivinskio pakviesti susirinkome pasitarti.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
-    ### ZENONAS IVINSKIS
-  citata_rodoma: ""
+    - t-009
+- c-012
+  santrauka: Turinyje Z. Ivinskiui priskiriamas skyrius apie Vytauto jaunystę ir veikimą iki 1392 m.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Z. Ivinskis. Vytauto jaunystė ir jo veikimas iki 1392 m. 1
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
-    - t-004
+    - t-010
 
 ## Ryšiai
 ### Laikotarpiai

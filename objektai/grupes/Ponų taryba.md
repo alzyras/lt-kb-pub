@@ -23,6 +23,7 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
 - t-001
   teiginys: 'Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžiojo kunigaikščio, arba ponų taryba atsirado ir Lietuvoje.'
   pagrindžia:
+    - c-007
     - c-006
     - c-001
 - t-002
@@ -130,4 +131,22 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
   patikimumo_saltinis: exact_source_offset
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
+    - t-001
+- c-007
+  santrauka: Ponų taryba papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Lenkai stengėsi pastoti tam kelią. 1398 m.
+    pirmą kartą pasigirdo iš Lenkijos protesto balsas prieš tokią
+    Lietuvos su Lenkija santykių eigą. Tą balsą, kaip ir pirma dėl
+    Podolijos, pakėlė Jadvyga, kuri rūpinosi, kad jos padaryta au­
+    ka nenueitų niekais, ir ponų taryba, kuri sumanė visos unijos
+    reikalą^1 ).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
     - t-001

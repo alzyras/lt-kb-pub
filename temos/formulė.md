@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 6.
+Objektų skaičius: 8.
 
 ## Kaip naudoti
 
@@ -19,6 +19,8 @@ Objektų skaičius: 6.
 ## Susiję objektai
 
 ### Posakiai
+- [[objektai/posakiai/Aš, Viešpatie, Algirdo nebeatmenu...]]
+- [[objektai/posakiai/Didelėj garbėj ir šlovėj gyveno garsus valdytojas Vytautas]]
 - [[objektai/posakiai/Kol jis gyvas busiąs, o taip pat ir jo įpėdiniai, niekada nuo tų žemių neatsisakysią]]
 - [[objektai/posakiai/Ne bičiulystės, o teisybės]]
 - [[objektai/posakiai/Senos ir tikros Žemaičių sienos]]

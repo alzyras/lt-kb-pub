@@ -8,6 +8,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: ''
 datos: []
 periodas: viduramziai
@@ -106,6 +107,31 @@ Nenurodyta
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
+
+- t-011
+  teiginys: 'Mirus kilmingam žmogui su lavonu būdavo sudeginami ginklai, brangūs apdarai ir kiti karo žygiui reikalingi daiktai.'
+  pagrindžia:
+    - c-011
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-012
+  teiginys: '1249 m. prūsų ir kryžiuočių sutarties tekstas taip pat mini lavonų deginimą su ginklais, šarvais, apdarais ir arkliais.'
+  pagrindžia:
+    - c-012
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-013
+  teiginys: 'Vytautas nuo jaunystės mėgo ginklus, domėjosi karo išradimais ir sekė Vakarų Europos naujoves.'
+  pagrindžia:
+    - c-013
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-014
+  teiginys: 'Vytautas įsteigė armotų liejyklą.'
+  pagrindžia:
+    - c-014
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -277,6 +303,71 @@ Nenurodyta
   pagrindžia:
     - t-010
 
+- c-011
+  santrauka: Su kilmingojo lavonu buvo deginami ginklai ir karo žygio daiktai.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Dėl to buvo paprotys, kad mirus kilmingam žmo­
+    gui (edelin) ginklus ir arklį, tarnus (knechte), moteris (meide),
+    brangius apdarus, kurtus ir sakalus ir daug kitų padargų, rei­
+    kalingų karo žygyje buvo sudeginama kartu su lavonu. Taip
+    pat su paprasto žmogaus lavonu buvo deginama visa, kas
+    priklausė jo užsiėmimui.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: Kitas liudijimas pakartoja ginklų ir šarvų deginimą su mirusiaisiais.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Šis liudijimas visai sutinka
+    su 1249 metų prūsų — kryžiuočių sutarties tekstu, kur irgi
+    kalbama apie lavonų deginimą su ginklais, šarvais, brangiais
+    apdarais, arkliais ir net,, žmonėmis^2 ). Panašiai kalba daugu­
+    mas kitų šaltinių, nors dėl artimų žmonių deginimo galima
+    abejoti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Paskutinė sakinio dalis palieka abejonių dėl dalies papročio detalių, bet ginklų ir šarvų paminėjimas aiškus."
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: Vytautas apibūdinamas kaip ginklus ir karo naujoves mėgęs valdovas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Nuo pat jaunystės Vytautas mėgo karo dalykus, ginklus.
+    Šioje srityje nauji išradimai ypač jį domindavo. Visokių karo
+    dalykų mielai mokydavosi ir lengvai juos pasisavindavo. Ypač
+    jis sekdavo Vakarų Eurpos išradimus ir papročius.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: Vytautui rūpėjo kariuomenės technika ir armotų liejykla.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kaip puikus diplomatas jis buvo geras ir karo vadas. Vy­
+    tautas daug kariavo, — reti metai praeidavo be žygio. Jis pats
+    karuose vadovaudavo. Rūpindavosi kariuomenės sutvarkymu,
+    techniškais išradimais, įsteigė armotų liejyklą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-014
+
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ginklas]]
@@ -284,3 +375,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Druska]]
 - [[objektai/daiktai/Vilnonės medžiagos]]
+- [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)]]

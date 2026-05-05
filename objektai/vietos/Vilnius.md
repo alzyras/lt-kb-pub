@@ -4,19 +4,22 @@ pavadinimas: Vilnius
 variantai:
   - Vilnia
   - Vilniaus pilis
+  - 'Vilniun'
+  - 'Vilniuj'
 aliases: []
 susije_irasai:
   - '[[Lietuva]]'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 tags:
   - vieta
 ---
 # Vilnius
 
 ## Santrauka
-Vilnius šiame šaltinyje aprašomas kaip nuolatinė Lietuvos sostinė nuo Gedimino laikų, svarbi politinių dokumentų, valdžios urėdų, miesto augimo ir savivaldos raidos vieta. Šiame šaltinyje Vilnius taip pat siejamas su sostinės įkūrimo legenda, vėliausiai 1322 m. įvykusiu sostinės perkėlimu ir ankstyvu Lietuvos bei Maskvos dinastiniu antagonizmu.
+Vilnius šiame šaltinyje rodomas kaip valdžios ir pilies centras, dėl kurio 1382 m. vyko kova, kaip svarbi Vytauto bažnytinės veiklos vieta ir kaip vienas iš miestų, kuriuose buvo sprendžiamas Lietuvos valdžios likimas.
 
 ## Pavadinimai šaltiniuose
 - Vilnius
@@ -89,6 +92,31 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindžia:
     - c-011
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+- t-012
+  teiginys: '1377 m. Kryžiuočių Ordino žygis pasiekė Vilniaus apylinkes ir privertė Algirdą užsidaryti Vilniaus pilyje.'
+  pagrindžia:
+    - c-015
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-013
+  teiginys: '1382 m. birželio 12 d. Jogaila, atėjęs nuo Vitebsko, šalininkų padedamas užėmė Vilnių.'
+  pagrindžia:
+    - c-016
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-014
+  teiginys: 'Vytautas Vilniuje pastatė katedrą ir šv. Onos bažnyčią.'
+  pagrindžia:
+    - c-017
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-015
+  teiginys: '1428 m. Jogaila, būdamas Vilniuje, pats iškėlė Vytauto karūnacijos klausimą.'
+  pagrindžia:
+    - c-018
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -236,53 +264,72 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-011
-- c-012
-  santrauka: Vilnius papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+- c-015
+  santrauka: Citata rodo, kad kryžiuočių puolimas buvo pasiekęs Vilnių ir paveikė miesto gynybą.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Garsus raštininkas Rėza,
-    sulasęs jų kelias dešimtis, apskelbė svietui metuose 1825, taip pat Simonas Stanevičius metuose
-    1829 Vilniuje, kurių daugioje vietoje gal regėti gaidos aitrą, laibumą^562 ir švelnumą kalbos bei
-    gailingumą širdies.
+    Kada Kryžiuočių Ordino maršalka
+    Gotfrydas von Lindenas įsiveržė į Lietuvos gilumą ir, nueida­
+    mas net lig pat Vilniaus, degino kaimus, plėšė žmonių turtą ir
+    juos pačius ėmė nelaisvėn, tuo metu Algirdas, negalėdamas sku­
+    biai suorganizuoti apsigynimo, užsidaręs Vilniaus pilyje
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-013
-  santrauka: Vilnius papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+    - t-012
+- c-016
+  santrauka: Citata tiksliai datuoja Jogailos atėjimą į Vilnių ir miesto perėmimą.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Raštininkas, savom akim regėjęs, sako toliau, p. 68. Nullus in tota hac urbe (Vilniuje) lectorum usus. Imo,
-    moliter cubare, vitio datur, dar toliau sako, p. 67: multum est, si ditiores utantur scamno, ursina tantum pelle contec to [13].
+    Tą pačią dieną, kada Vilniuje miesčionys užėmė pilį ir iš­
+    mušė Kęstučio sargybas, t. y. 1382 m. birželio 12 d., Jogaila su
+    ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo
+    Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­
+    gos pirklys Hanulo įteikė jam pilies raktus^1 ).
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-014
-  santrauka: Vilnius papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+    - t-013
+- c-017
+  santrauka: Citata tiesiogiai mini dvi svarbias Vytauto fundacijas Vilniuje.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    ...ir pavargę suolą arba akmenį pasideda vietoje pagalvės, jie nežino, kas yra šiaudų paklotė... visame šiame mieste (Vilniuje)
-    niekas neturi lovų. Minkštai miegoti net yda laiko... Jau daug, jei turtingesnieji, gulėdami ant suolo, pasikloja lokio kailį ( _lot_ .).
+    Taip, pavyzdžiui, yra išlikusių ži­
+    nių, kad Vytautas pastatė apie 35 bažnyčias įvairiose Lietuvos
+    valstybės vietose: Vilniuje katedrą (1399) ir šv. Onos bažnyčią,
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-001
+    - t-014
+- c-018
+  santrauka: Citata sieja Vilnių su 1428 m. iškeltu Vytauto karūnacijos klausimu.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Dar prieš Lucko suvažiavimą, 1428 m., Vytauto karūnacijos klau­
+    simas buvo pakeltas paties Jogailos, kai jis buvo Vilniuj.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-015
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Gediminas (Lietuvos valdovas, 1323 m.)]]
 - [[objektai/vietos/Kremlius]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Radomas]]
 - [[objektai/vietos/Trakai]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/vietos/Vitebskas]]

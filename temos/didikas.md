@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 30.
+Objektų skaičius: 29.
 
 ## Kaip naudoti
 
@@ -59,5 +59,4 @@ Objektų skaičius: 30.
 - [Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas](../objektai/ivykiai/Vytauto%20sri%C4%8Di%C5%B3%20kunigaik%C5%A1%C4%8Di%C5%B3%20suvaldymas%20ir%20valstyb%C4%97s%20sutelkimas)
 
 ### Žodynas
-- [lenas](../objektai/zodynas/lenas)
 - [plikbajoris](../objektai/zodynas/plikbajoris)
