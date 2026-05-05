@@ -97,6 +97,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
 - t-008
   teiginys: 'O. Halecki parašė From Florence to Brest, kuriame išsamiai įvertintas Vytauto vaidmuo.'
   pagrindžia:
+    - c-010
     - c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
@@ -229,6 +230,21 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+    - t-008
+- c-010
+  santrauka: O. Halecki papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Len­
+    kai žinojo, kaip sako Haleckis, kad Kamienieco Padolija, atiduo­
+    ta iki Vytauto gyvos galvos, todėl ir taip kantriai laukta^2 ).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-008
     - t-008
 
 ## Ryšiai

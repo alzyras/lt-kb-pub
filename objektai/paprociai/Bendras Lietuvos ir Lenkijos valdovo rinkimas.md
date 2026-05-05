@@ -38,6 +38,7 @@ Nenurodyta
 - t-001
   teiginys: '1529 m. Bonai visokiomis intrygomis palenkus į savo pusę didikus, o tėvui sutikus patvirtinti pirmąjį Lietuvos statutą, dar labiau praplėtusį bajorijos teises, — Lietuvos seimas Zigmantą Augustą paskelbė didžiuoju kunigaikščiu, o netrukus jį karūnavo savo.'
   pagrindžia:
+    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
@@ -64,6 +65,23 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
+    - t-001
+- c-002
+  santrauka: Bendras Lietuvos ir Lenkijos valdovo rinkimas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    jei Jogaila numirtų nepalikęs įpėdinių, Lenkija nega­
+    li rinktis sau karaliaus be Vytauto ir jo bajorų žinios^2 ). Šis punk­
+    tas praplatino Lietuvos teises ir tartum paruošė dirvą tam, kad
+    Jogailai mirus anksčiau už Vytautą, Lenkijos sostas galėtų ati­
+    tekti Vytautui.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
     - t-001
 
 ## Ryšiai

@@ -99,6 +99,7 @@ A. Janulaitis minimas kaip istorikas, teisės istorikas ir leidėjas; šiame tom
 - t-008
   teiginys: 'A. Janulaitis parašė veikalus Žydai Lietuvoje, Vyriausias Lietuvos Tribunolas XVI-XVIII amž., Užnemunė po Prūsais 1795-1807, Napoleono teisynas ir Lietuvos bajorai ir jų seimeliai 1795-1863, taip pat monografiją apie Kęstutį.'
   pagrindžia:
+    - c-010
     - c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
@@ -251,6 +252,19 @@ A. Janulaitis minimas kaip istorikas, teisės istorikas ir leidėjas; šiame tom
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-009
+- c-010
+  santrauka: A. Janulaitis papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    (^3) ) Janul. „Žydai Lietuvoje“. Privilegija atspausta I priede 169—173.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-008
+    - t-008
 
 ## Ryšiai
 ### Teminiai klasteriai

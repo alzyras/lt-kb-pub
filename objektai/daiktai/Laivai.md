@@ -7,10 +7,11 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 patikimumas: 'vidutinis'
 periodas: viduramziai
 tags:
-  - daiktas
+  - transportas
 ---
 # Laivai
 
@@ -56,6 +57,19 @@ Nenurodyta
     - c-003
     - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+- t-005
+  teiginys: '1382 m. pavasarį Kęstutis, armotomis ginkluotas, nuplaukė laivais Nemunu į Ordino sritį ir sustojo ties Jurbarku.'
+  pagrindžia:
+    - c-005
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: '1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos.'
+  pagrindžia:
+    - c-006
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -117,3 +131,39 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+
+- c-005
+  santrauka: Kęstutis laivais Nemunu pasiekė Ordino sritį ties Jurbarku.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jis darė 1382 m. sausio mėn. žygius į jo
+    žemes, teriodamas Varmijos kraštą; tų metų pavasarį net ar­
+    motomis ginkluotas nuplaukė laivais Nemunu į Ordino sritį ir
+    sustojo ties Jurbarku.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: Ordino viršininkas laivu atvyko iki Christmemelio salos.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Gavęs Jogai­
+    los apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­
+    pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­
+    los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­
+    no seklumo esą nebegalima toliau plaukti. Jogaila tuo tarpu
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/transportas]]

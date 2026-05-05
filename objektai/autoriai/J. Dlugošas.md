@@ -32,6 +32,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 - t-003
   teiginys: 'Šiame leidinyje J. Dlugošas cituojamas kaip Vorsklos mūšio pasakojimo šaltinis.'
   pagrindžia:
+    - c-008
+    - c-007
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
@@ -118,6 +120,39 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-007
+  santrauka: Dlugošas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Dlugošas
+    net yra užrašęs žinią, kad Krokuvos ponai, nors bendrai imant,
+    ir norėję savo Jadvygą išleisti už Jogailos, didžiojo Lietuvos
+    kunigaikščio, bet jų tarpe radosi ir tokių, kurių akys buvo nu­
+    kreiptos į Vytautą, kaip į „gudresnį“.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-003
+- c-008
+  santrauka: Dlugošas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Skirgailos valdymo metu Lietuvoj buvo „Vilniaus ir Lietuvos se­
+    niūnas“, kaip jį vadina Dlugošas; juo buvo Mikalojus Masko­
+    ževskis, pasiųstas į Lietuvą 1389 m. ir savo pareigas ėjęs
+    vienus metus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-003
+    - t-003
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

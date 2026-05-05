@@ -10,6 +10,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 susije_irasai:
   - '[[Merkinės puolimas (1945 m. gruodžio 15 d.)]]'
 patikimumas: 'vidutinis'
@@ -20,8 +21,7 @@ tags:
 # Merkinė
 
 ## Santrauka
-
-7 d. Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir.
+Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir kaip žygio Nemunu į Kauną pradžios taškas.
 
 ## Teiginiai
 - t-001
@@ -42,6 +42,19 @@ tags:
   pagrindžia:
     - c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+
+- t-005
+  teiginys: 'Jogaila krikšto metu aplankė Merkinę ir čia buvo krikštijami vietiniai bei aplinkinių vietų žmonės.'
+  pagrindžia:
+    - c-007
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Kelionė Nemunu į Kauną prasidėjo iš Merkinės.'
+  pagrindžia:
+    - c-008
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -115,6 +128,36 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+- c-007
+  santrauka: Citata rodo Merkinę kaip vieną iš Jogailos lankytų krikšto kelionės vietų.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Čia jis aplankė didesnius Lietuvos miestelius,
+    kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k.,
+    kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­
+    kius juos tikėjimo tiesų, krikštijami.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+- c-008
+  santrauka: Citata rodo Merkinę kaip svarbų žygio Nemunu pradžios tašką.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
+    gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
+    ja iki Aukokalnio, buvusio ties dabartine Betygala.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

@@ -147,7 +147,3 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Gardinas]]

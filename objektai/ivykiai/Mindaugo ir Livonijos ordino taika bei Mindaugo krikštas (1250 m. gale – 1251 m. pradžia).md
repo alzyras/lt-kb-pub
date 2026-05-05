@@ -17,7 +17,6 @@ periodas: viduramziai
 tags:
   - ivykis
   - krikštas
-  - sutartis
 ---
 # Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)
 
@@ -45,6 +44,7 @@ Nenurodyta
 - t-002
   teiginys: '1250 m. gale ar 1251 m. pradžioje Mindaugas priėmė krikštą.'
   pagrindžia:
+    - c-008
     - c-007
     - c-006
     - c-002
@@ -149,6 +149,21 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-002
+    - t-002
+- c-008
+  santrauka: Mindaugo krikštas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ir 1250 met. Mindaugas
+    apsikrikštijo; apkrikštijo ir daug savo didikų. Ordinui jis do­
+    vanojo žymią dalį Žemaitijos, o tas ne tik jį parėmė, bet ir
+    išrūpino jam karališkąjį vainiką.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
     - t-002
 
 ## Ryšiai

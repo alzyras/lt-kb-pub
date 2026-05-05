@@ -5,9 +5,13 @@ sukurta: '2026-05-02'
 variantai:
   - 'Petro Dusburgiečio „Prūsijos žemės kronikos“'
   - 'P. Dusburgiečio kronika'
+  - 'Dusburgo kronika'
+  - 'P. Dusburgo kronika'
+  - 'kalbama Dusburgo kronika'
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: ''
 datos: []
 periodas: ''
@@ -18,7 +22,7 @@ date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: 'aukštas'
+patikimumas: 'aukstas'
 tags: []
 ---
 # Prūsijos žemės kronika
@@ -56,6 +60,18 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
+- t-004
+  teiginys: 'P. Dusburgas šiame veikale minimas kaip žinojęs vienoje Žemaitijoje net 70 „karaliukų“.'
+  pagrindžia:
+    - c-004
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 'Mikalojus iš Jarošino, versdamas Dusburgo kroniką iš lotynų į vokiečių kalbą, pridėjo papildymų ir paaiškinimų nuo savęs.'
+  pagrindžia:
+    - c-005
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį.'
@@ -99,3 +115,34 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
   pagrindžia:
     - t-003
+
+- c-004
+  santrauka: Citata pagrindžia, kad P. Dusburgas minimas kaip liudijęs apie Žemaitijos „karaliukus“.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kryžiuočių kronikininkas P. Dusburgas pav. vienoje Žemai­
+    tijoje žino tokių „karaliukų” net 70, o Volynijos kronika sako
+    1248 met. vienam mūšy žuvę net 40 jotvingių kunigų.^3 )
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: Citata pagrindžia, kad kalbamą Dusburgo kroniką iš lotynų į vokiečių kalbą vertęs Mikalojus iš Jarošino pridėjo papildymų.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tuo klausimu įdo­
+    mus yra pastebėjimas P. Dusburgo amžininko, Mikalojaus iš
+    Jarošino, kuris beversdamas kalbamą Dusburgo kroniką iš lo­
+    tynų į vokiečių kalbą, pridėjo nemaža papildymų ir paaiški­
+    nimų nuo savęs^1 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005

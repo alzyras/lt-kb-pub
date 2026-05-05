@@ -2,10 +2,14 @@
 tipas: vieta
 pavadinimas: 'Gardinas'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - 'Gardino'
+  - 'Gardine'
+  - 'Gardinan'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 patikimumas: 'vidutinis'
 tags:
   - karalius
@@ -16,8 +20,7 @@ tags:
 # Gardinas
 
 ## Santrauka
-
-38 psl.) lietuviškąsias Gardino, Naugarduko, Slanimo ir Volkovisko sritis. Kitais metais, į ordino pusę patrauktas, Vaclovas pripažino jam Žemaičius ir visą kairiąją Panemunę iki Gardino. Kol Batoras įsiviešpatavo, lenkai sušaukė net keletą seimų, tačiau lietuviai nė viename iš jų nedalyvavo; sušaukę savo atskirą seimą Gardine, jie siūlė lenkams panaikinti rinkimus, t.
+Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo religinių fundacijų ir 1429 m. politinių derybų centras.
 
 ## Teiginiai
 - t-001
@@ -44,10 +47,24 @@ tags:
   teiginys: 'Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko vyskupo Isaikovskio ir kt.'
   pagrindžia:
     - c-006
-- t-007
-  teiginys: 'Tik Vytauto laikais daugiau iškilo Vilnius, Trakai, Brasta, Gardinas, Kaunas.'
+- t-008
+  teiginys: '1376 m. Vytautas jau kaip Gardino kunigaikštis dalyvavo žygyje prieš lenkus.'
   pagrindžia:
-    - c-007
+    - c-008
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: 'Vytautas Gardine rėmė dominikonus ir pranciškonus, skirdamas jiems donacijas ir bažnyčias.'
+  pagrindžia:
+    - c-009
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: '1429 m. rugsėjo 29 d. Vytautas Gardine priėmė lenkų delegaciją savo dvare.'
+  pagrindžia:
+    - c-010
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -130,7 +147,8 @@ tags:
   santrauka: 'Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko vyskupo Isaikovskio ir kt.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
+    Tuo
+    būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
     Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko
     vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig-
     manto fundacija), Smolenske (klebono Lempickio ir kt. fun-
@@ -149,23 +167,47 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-- c-007
-  santrauka: 'Tik Vytauto laikais daugiau iškilo Vilnius, Trakai, Brasta, Gardinas, Kaunas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-008
+  santrauka: Citata tiesiogiai apibrėžia Vytautą kaip Gardino kunigaikštį 1376 m.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Tik Vytauto laikais daugiau iškilo Vilnius, Trakai, Brasta, Gardi-
-    nas, Kaunas. Kai kuriems jų buvo duotos savivaldybės (vadina-
-    mosios Magdeburgo teisės). Tačiau tai buvo tik pati miestų kili-
-    mo pradžia; jie įsigalėjo daug vėliau. Pirmas Magdeburgo teises
-    gavo Vilnius (1387 m.), vėliau Brasta (1390 m.), Gardinas (1391
-    m.), o dar vėliau Kaunas ir kt. miestai.
-  citata_rodoma: ''
+    1376 metais, jau kaip Gardino‘kunigaikštis, jis da­
+    lyvauja kartu žygyje prieš lenkus.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
+    - t-008
+- c-009
+  santrauka: Citata rodo Gardiną kaip vieną iš Vytauto religinės paramos centrų.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    juos taip pat gausiai apdovanojo Medininkuose (Viln.) ir Pane­
+    munėje; domininkonus parėmė donacijomis Lucke, Gardine ir
+    Naugardėlyje; pranciškonams pastatė jau minėtas bažnyčias
+    Kaune, Gardine, Pinske, Drahočyne.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: Citata tiksliai datuoja Gardiną kaip Vytauto dvaro ir derybų vietą.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tuos sve­
+    čius Vytautas priėmė savo dvare, Gardine (1429. IX. 29).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai

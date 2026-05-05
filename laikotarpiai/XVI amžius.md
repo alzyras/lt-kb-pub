@@ -26,12 +26,12 @@ Objektų skaičius: 48.
 
 ### Daiktai
 - [[objektai/daiktai/Lietuvos pinigai]]
+- [[objektai/daiktai/Pirmosios katedros didysis altoriaus kryžius]]
 - [[objektai/daiktai/Stepono Batoro paradinis kalavijas]]
 
 ### Grupės
 - [[objektai/grupes/Gardino seimas (1566 m.)]]
 - [[objektai/grupes/Lietuvos seimas (XVI a.)]]
-- [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Žemaičių medininkai]]
 - [[objektai/grupes/Žemlionys]]

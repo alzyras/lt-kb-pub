@@ -55,8 +55,6 @@ Nenurodyta
   teiginys: '`Kilimas` buvo dėvimas ant pečių ir tinkamas apsisiausti nuo lietaus ar blogo oro.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001

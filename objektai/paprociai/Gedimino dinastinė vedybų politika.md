@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 patikimumas: 'vidutinis'
 tags: []
 ---
@@ -35,7 +36,6 @@ Nenurodyta
 - t-001
   teiginys: 'Tačiau ir čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo sūnų bei dukterų vedybomis.'
   pagrindžia:
-    - c-004
     - c-001
 
 - t-002
@@ -49,6 +49,13 @@ Nenurodyta
   pagrindžia:
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+- t-004
+  teiginys: 'XIV amžiuje valdovams buvo paprotys vesti svetimų kraštų kunigaikštytes, nes galingiems valdovams buvo nepatogu susirišti giminystės ryšiais su savo pavaldiniais.'
+  pagrindžia:
+    - c-005
+  šaltinis: 'Vytautas Didysis 1350-1430 (1930 m.)'
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -108,13 +115,24 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
-    - t-001
 
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/socialinė-praktika]]
-- [[temos/šeima]]
+- c-005
+  santrauka: Galingų valdovų paprotys buvo ieškoti santuokų svetimuose kraštuose, vengiant giminystės su pavaldiniais.
+  šaltinis: 'Vytautas Didysis 1350-1430 (1930 m.)'
+  citata_originali: |
+    Anuo laiku, tiesa,
+    buvo paprotys vesti svetimų kraštų kunigaikštytes, mat, galin­
+    giems valdovams buvę nepatogu susirišti giminystės ryšiais su
+    savo pavaldiniais. O, be to, jie šitai darydavę ir kitokiais sume­
+    timais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

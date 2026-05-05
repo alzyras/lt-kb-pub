@@ -20,6 +20,8 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 - t-001
   teiginys: 'Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.'
   pagrindžia:
+    - c-007
+    - c-006
     - c-005
     - c-004
     - c-002
@@ -89,3 +91,40 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
     - t-001
     - t-001
     - t-001
+- c-006
+  santrauka: Maskvos kunigaikštystė papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kad ir po didelių pastangų, bet į gyvenimo galą
+    jam pasisekė paimti savo įtakon ir Pskovą su išdidžiuoju Nau­
+    gardu^3 ), nes Didž. Maskvos kunigaikštija, kurioje viešpatavo
+    nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos
+    sūnus Vosylius, atsparumo nerodė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+- c-007
+  santrauka: Maskvos kunigaikštystė papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Rusų kronikos aiškina, kad
+    su Tochtamyšu jis sutaręs šitaip: „Aš tave pasodinsiu saaro
+    Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikš­
+    tijoje ir valdysiu visą Rusiją^2 ). Galima manyti, kad tokio
+    samprotavimo priskyrimas būtų anachronizmas, bet esmėje jis
+    yra teisingas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Didžiojo Naugardo respublika]]

@@ -1,5 +1,5 @@
 ---
-tipas: asmuo
+tipas: 'asmuo'
 pavadinimas: 'Jogaila (Lenkijos karalius, 1382 m.)'
 sukurta: '2026-04-24'
 variantai:
@@ -8,12 +8,14 @@ variantai:
   - 'Jogailą'
   - 'Jagiełło'
   - 'Jogaila'
+  - 'karalius Vladislovas'
 aliases:
   - 'Jogaila'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: 'XIV a.; 1382 m.; 1384 m.; 1385 m.; 1386 m.; 1387 m.; 1401 m.'
 datos:
   - '1382 m.'
@@ -26,6 +28,8 @@ datos:
   - '1430 m. lapkričio 7 d.'
   - '1431 m. liepos viduryje'
   - '1434 m. birželio 1 d.'
+  - '1380 m.'
+  - '1392 m.'
 periodas: ''
 periodo_grupes: []
 amziai:
@@ -46,11 +50,11 @@ tags:
 
 ## Santrauka
 
-Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karaliumi ir nulėmęs naują Lietuvos santykių su Lenkija etapą. Jis siejamas su 1382 m. sutartimi su kryžiuočiais, Krėvos aktu, krikštu Krokuvoje, Vilniaus vyskupystės įkūrimu ir susitarimais dėl Vytauto valdžios.
+Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karaliumi ir nulėmęs naują Lietuvos santykių su Lenkija etapą. Jis siejamas su 1382 m. sutartimi su kryžiuočiais, Krėvos aktu, krikštu Krokuvoje, Vilniaus vyskupystės įkūrimu ir susitarimais dėl Vytauto valdžios. Papildomai pabrėžiami jo valdžios perėmimas po Algirdo mirties, 1380 m. paliaubos su Livonija, Ostrovo susitaikymas su Vytautu, vaidmuo 1387 m. krikšto pradžioje ir liudijimas apie jo neraštingumą.
 
 ## Vaidmenys
 - Lenkijos karalius
-
+- Lietuvos valdovas
 ## Teiginiai
 - t-001
   teiginys: '1382 m. Jogaila sudarė sutartį su kryžiuočiais, atidavė jiems Žemaičius iki Dubysos ir pasižadėjo krikštytis.'
@@ -170,6 +174,43 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
     - c-025
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-020
+  teiginys: 'Po Algirdo mirties Jogaila perėmė didžiojo kunigaikščio valdžią Vilniuje.'
+  pagrindžia:
+    - c-026
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-021
+  teiginys: '1380 m. vasarį Jogaila su Livonijos magistru Vilhelmu von Vrymersheimu sudarė penkių mėnesių paliaubas.'
+  pagrindžia:
+    - c-027
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-022
+  teiginys: '1392 m. rugpjūčio 5 d. Ostrove Jogaila iškilmingai susitaikė su Vytautu.'
+  pagrindžia:
+    - c-028
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-023
+  teiginys: '1387 m. pradžioje Jogaila atvyko į Vilnių pradėti lietuvių krikšto ir pilyje sušaukė didikų suvažiavimą.'
+  pagrindžia:
+    - c-029
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-024
+  teiginys: 'Jogailai priskiriamas lietuviškas maldų „Tėve mūsų“ ir „Tikiu Dievą“ vertimas.'
+  pagrindžia:
+    - c-030
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-025
+  teiginys: 'Atsakyme Vytautui Jogaila teisinosi, kad laiškas Zigmantui buvo parašytas be jo žinios ir kad jis nemokėjo skaityti.'
+  pagrindžia:
+    - c-031
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -589,6 +630,110 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-019
+- c-026
+  santrauka: 'Po Algirdo mirties Jogaila perėmė didžiojo kunigaikščio valdžią Vilniuje.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tuojau po 1377 metų Vytauto sėkmingo žygio baigė savo amžių
+    didysis Lietuvos kunigaikštis Algirdas. Didžiojo kunigaikščio
+    valdžią Vilniuje, kaip Kęstučio su Algirdu buvo sutarta, užėmė
+    jo vyriausias sūnus Jogaila, Vytauto amžininkas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-020
+- c-027
+  santrauka: 'Jogaila 1380 m. sudarė penkių mėnesių paliaubas su Livonijos magistru.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    1380 metų vasario mėn. jis jau vienas
+    pats padarė su Livonijos magistru Vilhelmu von Vrymersheimu
+    penkiems mėnesiams paliaubas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-021
+- c-028
+  santrauka: 'Ostrove Jogaila iškilmingai susitaikė su Vytautu.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Painformuotas apie galutinius Vytauto žygius, Jogaila
+    rugpiūčio mėn. 5 d. atvyko Ostrovan, netoli Lydos. Čia Jogai­
+    los dvariškių ir Vytauto bajorų akivaizdoj įvyko iškilmingas
+    jųdviejų susitaikinimas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-022
+- c-029
+  santrauka: 'Jogaila Vilniuje pradėjo krikšto darbą ir sušaukė didikų suvažiavimą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    1387 m. pradžioje Jogaila ir Vytautas D. atvyko į Vilnių
+    pradėti lietuvių tautos krikštijimo darbo. Kartu su jais atvyko
+    keli Jogailos broliai, Cereteno^1 ) vyskupas Andrius Vosylius,
+    didelis skaičius dvasininkų ir daug lietuvių bei lenkų didikų.
+    Lenkų kronikininkas Dlugošas rašo, kad buvo atvykusi ir Lenki­
+    jos karalienė Jadvyga, Jogailos žmona, bet tai nėra tikra, nes tuo
+    pat laiku ji buvo Juodoje Rusijoje. Dvasininkų tarpe buvo pra­
+    lotų, teologijos daktarų, vienuolių.
+    Vilniaus pilyje Jogaila sušaukė didesnį didikų suvažiavi­
+    mą, kuriame pareiškė, kad Lietuvoje įvedamas katalikų tikėji­
+    mas, visiems lietuviams privalomas
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-023
+- c-030
+  santrauka: 'Jogailai priskiriamas pagrindinių maldų vertimas į lietuvių kalbą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Todėl ir Vy­
+    tautui D. su Jogaila teko mokyti žmones pagrindinių kataliky­
+    bės tiesų ne vien todėl, kad karališko žodžio žmonės labiau
+    klausė, bet nebuvo kam lietuviškai aiškinti naujo tikėjimo. Jo­
+    gaila šituo ar kuriuo kitu laiku išvertęs lietuvių k. „Tėve mū­
+    sų“ ir „Tikiu Dievą“^2 ).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-024
+- c-031
+  santrauka: 'Jogaila teisinosi dėl laiško Zigmantui ir pripažino neraštingumą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tuo tarpu Vytautas gavo iš Jogailos atsakymą, kuriame jis
+    teisinasi, kad anas laiškas Zigmantui buvo parašytas be jo ži­
+    nios; jam nežinomas net ir jo turinys. Ir nenuostabu, nes jis
+    nemokėjo skaityti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-025
 
 ## Ryšiai
 ### Laikotarpiai
@@ -596,5 +741,6 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
 - [[laikotarpiai/XV amžius]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas]]
 - [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)]]

@@ -42,4 +42,3 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Moldavija]]
-- [[objektai/zodynas/vasalystė]]

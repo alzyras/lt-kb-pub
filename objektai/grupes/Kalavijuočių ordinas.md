@@ -8,10 +8,15 @@ variantai:
   - 'Kristaus Karių Brolija'
   - 'Fratres Militiae Christi'
   - 'Schwertbrueder'
+  - 'kardininkai'
+  - 'kardininkai iš šiaurės'
+  - 'kardininkais'
+  - 'kardininkus'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: 'XIII amž.; 1202 m.; 1204 m.; 1236 m.; 1237 m.; 1237 m'
 datos:
   - 'XIII amž'
@@ -80,6 +85,30 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
+- t-009
+  teiginys: 'Kardininkai šiame šaltinyje rodomi kaip viena iš dviejų pagrindinių Kęstučio priešų jėgų.'
+  pagrindžia:
+    - c-009
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: '1378 m. žiemą kardininkai nusiaubė Upytės apylinkes ir išsivarė 500 lietuvių belaisvių bei 723 arklius.'
+  pagrindžia:
+    - c-010
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-011
+  teiginys: 'Po Jogailos įsigalėjimo ryšys su kardininkais per Žemaitiją buvo laikomas strategiškai svarbiu.'
+  pagrindžia:
+    - c-011
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-012
+  teiginys: '1403 m. Jogaila reikalavo, kad Vytautas be karaliaus žinios nedarytų sutarčių su kardininkais.'
+  pagrindžia:
+    - c-012
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Kalavijuočiai yra atskira vokiečių karinė grupė
@@ -196,12 +225,80 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   pagrindžia:
     - t-008
 
+- c-009
+  santrauka: Kardininkai parodyti kaip nuolatinė šiaurinė Kęstučio priešų jėga.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    kada jo tėvas, gindamas Žemaitijos bei lietuvių laisvę, negalėjo
+    išleisti ginklo iš rankų, nes du galingi priešai, kardininkai iš
+    šiaurės ir kryžiuočiai iš žiemos vakarų pusės, tuo laiku ypač
+    smarkiai puldavo Lietuvą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 1378 m. žiemos žygyje kardininkai nusiaubė Upytės apylinkes ir nusivarė belaisvių bei arklių.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ypač 1378 metų žiemą
+    smarkiai buvo teriojama Lietuva: Vokiečių Ordino kariuomenė,
+    įsiveržusi iš Prūsijos, nuėjo į pietus ligi Bresto ir Pripe­
+    tės upės, o kardininkai apsilankė nuolat naikinamose Upy­
+    tės apylinkėse. Livonijos kronikininkas Hermanas iš Vartbur­
+    go baigia savo kroniką žinute, kad kardininkai iš to žygio parsi­
+    vedę 500 lietuvių belaisvių ir 723 arklius.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: Kardininkai įvardyti kaip strateginis sausumos ryšio partneris per Žemaitiją.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    atsirado nemažas pavojus. Būdamas galingas suvienytų vals­
+    tybių valdovas, Jogaila galėjo iš Ordino atsiimti ne tiktai iš
+    lenkų pagrobtą 1309 m. Pamarį, kuris būtų visiškai užkirtęs
+    kelią susisiekti sausuma su dažnai paramos teikiančiais Vaka­
+    rų Europos kraštais, bet nemažesnis pavojus grėsė netekti su­
+    sisiekimo ir su kardininkais per Žemaitiją.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: Jogaila draudė Vytautui be savo žinios tartis su kardininkais.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    pareikalavo iš Vytauto naujo pasižadėjimo, kad jis nei su kry­
+    žiuočiais, nei su kardininkais nedarytų jokių sutarčių be kara-
+
+
+    ```
+    171
+    ```
+    liaus žinios ir valios^1
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-012
+
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ginklas]]
 
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]
+- [[objektai/grupes/Lietuviai]]

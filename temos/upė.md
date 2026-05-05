@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 22.
+Objektų skaičius: 21.
 
 ## Kaip naudoti
 
@@ -20,9 +20,6 @@ Objektų skaičius: 22.
 
 ### Asmenys
 - [[objektai/asmenys/Zigmantas Vaza]]
-
-### Autoriai
-- [[objektai/autoriai/A. Salys]]
 
 ### Daiktai
 - [[objektai/daiktai/Gairės]]

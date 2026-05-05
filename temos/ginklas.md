@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 27.
+Objektų skaičius: 29.
 
 ## Kaip naudoti
 
@@ -20,6 +20,7 @@ Objektų skaičius: 27.
 
 ### Asmenys
 - [[objektai/asmenys/A. Mackevičius]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Karolis Pilypas]]
 - [[objektai/asmenys/Liubomirskis]]
 
@@ -30,6 +31,7 @@ Objektų skaičius: 27.
 - [[objektai/daiktai/Du pliki kardai]]
 - [[objektai/daiktai/Dviašmenis kalavijas]]
 - [[objektai/daiktai/Geležiniai ginklai ir įrankiai]]
+- [[objektai/daiktai/Halka]]
 - [[objektai/daiktai/Karinė ginkluotė]]
 - [[objektai/daiktai/Kovos kirviai]]
 - [[objektai/daiktai/Kryžius ant kardo galo]]
@@ -52,7 +54,7 @@ Objektų skaičius: 27.
 - [[objektai/vietos/Šiauliai]]
 
 ### Įvykiai
-- [[objektai/ivykiai/Kalavijuočių ordino įkūrimas]]
-- [[objektai/ivykiai/Klaipėdos krašto prisijungimas prie Lietuvos (1923–1924 m.)]]
+- [Kalavijuočių ordino įkūrimas](../objektai/ivykiai/Kalavijuo%C4%8Di%C5%B3%20ordino%20%C4%AFk%C5%ABrimas)
+- [Klaipėdos krašto prisijungimas prie Lietuvos (1923–1924 m.)](../objektai/ivykiai/Klaip%C4%97dos%20kra%C5%A1to%20prisijungimas%20prie%20Lietuvos%20%281923%E2%80%931924%20m.%29)
 - [Paskutinės Kęstučio kovos ir mirtis](../objektai/ivykiai/Paskutin%C4%97s%20K%C4%99stu%C4%8Dio%20kovos%20ir%20mirtis)
 - [Sukilimo numalšinimas Lietuvoje (1831 m. rudenį)](../objektai/ivykiai/Sukilimo%20numal%C5%A1inimas%20Lietuvoje%20%281831%20m.%20ruden%C4%AF%29)

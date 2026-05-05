@@ -23,6 +23,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - t-002
   teiginys: 'Pranciškonai turėjo organizuoti kryžiaus karą prieš jotvingius ir lietuvius.'
   pagrindžia:
+    - c-009
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
@@ -162,6 +163,22 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: Pranciškonų ordinas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jis, būdamas dar pranciškonų ku­
+    nigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­
+    niuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­
+    ralienės Elžbietos, Jadvygos motinos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

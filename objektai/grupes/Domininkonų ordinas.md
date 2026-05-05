@@ -34,6 +34,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - t-004
   teiginys: 'Gediminas prašė domininkonų atsiųsti į Lietuvą vienuolių.'
   pagrindžia:
+    - c-006
     - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
@@ -103,6 +104,23 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: Domininkonų ordinas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir
+    stačiatikių tarpe, patvirtindamas Vytauto įkurtąją Vladimiro
+    vyskupiją (Volynijoje) ir vyskupu paskirdamas domininkoną
+    Gregorijų; tik dėl to kilo su lenkais nesusipratimų, nes ir jie no­
+    rėjo tame krašte labiau įsigalėti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-004
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

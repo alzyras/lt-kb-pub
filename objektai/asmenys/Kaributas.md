@@ -26,6 +26,7 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
 - t-002
   teiginys: 'Kaip tik tuo metu, kada Kęstutis buvo apgulęs Jurbarką, atėjo žinia, kad prieš jį sukilo Jogailos brolis, Naugardo Sieversko kunigaikštis Kaributas.'
   pagrindžia:
+    - c-005
     - c-002
 - t-003
   teiginys: 'Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir Vytautas.'
@@ -93,6 +94,19 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-003
+- c-005
+  santrauka: Kaributas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jį saugojo kunigaikščio Kaributo
+    vėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -102,4 +116,5 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
 ### Susiję objektai
 - [[objektai/asmenys/Lengvenis]]
 - [[objektai/asmenys/Vladimiras Algirdaitis]]
+- [[objektai/daiktai/Vėliavos]]
 - [[objektai/asmenys/Švitrigaila]]

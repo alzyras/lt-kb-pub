@@ -7,6 +7,7 @@ variantai:
 aliases: []
 saltiniai:
   - A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: XIV—XVIII a.
 datos:
   - 1387 m.
@@ -102,7 +103,7 @@ Nenurodyta
 - t-009
   teiginys: Apie 1565 m. Zigmantas Augustas mėgino suvienodinti Lietuvos ir Lenkijos pinigų vertę, kaldindamas lenkiškos vertės monetas Tikocine.
   pagrindžia:
-    - c-009
+    - c-020
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-010
@@ -120,7 +121,7 @@ Nenurodyta
 - t-012
   teiginys: Jono Kazimiero laikais lietuviškų pinigų buvo kalama apsčiai, o variniai šilingai buvo pirmieji lietuviški vario pinigai.
   pagrindžia:
-    - c-012
+    - c-021
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-013
@@ -134,6 +135,37 @@ Nenurodyta
   pagrindžia:
     - c-014
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+
+- t-015
+  teiginys: 'Totoriai turėjo atmušti Vytauto atvaizdą savo piniguose.'
+  pagrindžia:
+    - c-015
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-016
+  teiginys: 'Vytautas Jogailai davė 20.000 kapų grašių kariuomenei užsieniuose samdyti.'
+  pagrindžia:
+    - c-016
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-017
+  teiginys: 'Vytauto laikais rūmuose kartais mokėta rubliais, o Lietuvoje kursavo ir buvo kalami čekų grašiai.'
+  pagrindžia:
+    - c-017
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-018
+  teiginys: 'Lietuviški denariukai atsirado 1387-1390 m., o jų pusėse buvo ieties galas, kryžius ir Gedimino stulpai.'
+  pagrindžia:
+    - c-018
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-019
+  teiginys: 'Vytauto įsakymu Kaune kalti K pinigėliai turėjo Gedimino stulpus ir raidę K, o mokesčiai turėjo būti mokami Lietuvoje kaltais sidabriniais pinigais.'
+  pagrindžia:
+    - c-019
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -377,6 +409,123 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-014
+
+- c-015
+  santrauka: Totorių pinigai turėjo nešti Vytauto atvaizdą.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Šis pareikalavo, kad totoriai pripažintų jį savo
+    tėvu, mokėtų jam duoklę ir atmuštų jo atvaizdą savo piniguo­
+    se.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-015
+- c-016
+  santrauka: Vytautas skyrė Jogailai didelę grašių sumą kariuomenei samdyti.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas dar davė
+    Jogailai 20.000 kapų grašių kariuomenei užsieniuose samdyti.
+    Už tuos pinigus Jogaila pasamdė čekų ir moravų, — vokiečiai
+    nėjo, nes palaikė Ordiną.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-016
+- c-017
+  santrauka: Rublių ir čekų grašių apyvarta aprašoma kaip Vytauto laikų pinigų sistemos dalis.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pinigai, kuriais buvo mokami mokesčiai Vytauto valdymo
+    laikais, taip pat buvo įvairūs. Jogailos ir Vytauto rūmuose bu­
+    vo kartais mokama rubliais, patekusiais iš slavų kraštų; bet tai
+    dar nebuvo monetos, o paprasti sukapoti sidabro gabalai^5 ). Taip
+    pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­
+    jos grašiai — tikros monetos, kurių 60 sudarydavo vieną rublį
+    (rublis —^1 / 2 svaro gryno sidabro). Vytauto laikais čekų gra­
+    šiai buvo kalami ir Lietuvoje.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-017
+- c-018
+  santrauka: Lietuviški denariukai apibūdinami pagal ženklus ir datuojami 1387-1390 m.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Šalia jų kursavo ir lietuviški denariukai, atsiradę 1387-1390
+    m. Jų vienoje pusėje yra ieties galas, o antroj vad. Gedimino
+    stulpai; arba vienoje pusėje su smaigaliu, nulenktu žemyn ir
+    greta ieties viršuje iš kairės pusės kryžius, o antroje tie patys
+    stulpai; arba vienoje pusėje tas pats ieties galas ir greta jo iš
+    kairės pusės kryžius, kurio vienas galas ilgesnis, o po kryžium
+    bukas trikampis, panašus tai į raidę V šonu pastatytą ir la­
+    bai išskėstą, tai į apverstą raidę L. Šios pastarosios rūšies pi­
+    nigai labai retai pasitaiko. Iš 27 variacijų, vos vienas egzem­
+    pliorius turi tariamą raidę.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-018
+- c-019
+  santrauka: Kaune kaldinti K pinigėliai ir mokesčių mokėjimas Lietuvoje kaltais pinigais.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kiti Vytauto pinigai, kurie
+    buvo kalami jo įsakymu Kaune, turėjo Gedimino stulpus ir raidę
+    K, kuri, kaip spėjama, reiškia Kauno inicialą. K pinigėliai buvo
+    du kartu didesni už aukščiau minėtus pinigėlius ir daugiausia jų
+    rasta Kaune (1844 m.). Viename Jogailos ir Vytauto dokumen­
+    te pabrėžta, kad mokesčiai būtų mokami kaltais Lietuvoj si­
+    dabriniais pinigais; matyt, grašiais arba denariukais.
+  citata_rodoma: ""
+  teiginio_tipas: interpretacija
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata aiški, bet Kauno inicialo aiškinimas pateikiamas spėjimo forma."
+  pagrindžia:
+    - t-019
+- c-020
+  santrauka: Lietuvos pinigai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Zigmantas, anks­
+    čiau Ordino už 40.000 auksinių papirktas, pareiškė, kad karui
+    ištikus jis laikysiąs Ordino pusę.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-009
+- c-021
+  santrauka: Lietuvos pinigai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytau­
+    tas, teikdamas per pirmus keturis metus Žemaičių vyskupys­
+    tei pašalpą, mokėjo jai lietuviškais grašiais (latorum gros-
+    sorum^1 ).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-012
 
 ## Ryšiai
 ### Teminiai klasteriai

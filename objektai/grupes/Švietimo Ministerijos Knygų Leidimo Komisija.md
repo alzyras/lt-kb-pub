@@ -28,7 +28,7 @@ tags:
 - t-003
   teiginys: 'ŠVIETIMO MINISTERIJOS KNYGŲ LEIDIMO KOMISIJOS LEIDINYS KAUNAS 1936 M.'
   pagrindžia:
-    - c-003
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -56,19 +56,18 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'ŠVIETIMO MINISTERIJOS KNYGŲ LEIDIMO KOMISIJOS LEIDINYS KAUNAS 1936 M.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-004
+  santrauka: Švietimo Ministerijos Knygų Leidimo Komisija papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    ŠVIETIMO MINISTERIJOS KNYGŲ
-    **LEIDIMO KOMISIJOS LEIDINYS**
-    **KAUNAS 1936 M.**
-  citata_rodoma: ''
+    1925. Švietimo Min. knygų leidimo komisijos leidinys.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
+    - t-003
     - t-003
 
 ## Ryšiai

@@ -38,11 +38,13 @@ Nenurodyta
 - t-001
   teiginys: 'Po ilgų derybų, 1401 m. buvo pasiektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais dokumentais: atskirais dokumentais jį patvirtino Vytautas, Jogaila, Lietuvos ir Lenkų bajorai.'
   pagrindžia:
+    - c-004
     - c-001
 
 - t-002
   teiginys: 'Po Vorsklos pralaimėjimo 1401 m. Vilniaus ir Radomo suvažiavimuose buvo aiškiau nustatyti Vytauto ir Karūnos santykiai.'
   pagrindžia:
+    - c-003
     - c-002
 
 ## Reikšmingi paminėjimai
@@ -83,6 +85,37 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: Vilniaus-Radomo susitarimas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Paskutinę uniją mes įpratę vadinti vilniške, kas ne visiškai
+    teisinga, nes dėl tos unijos buvo susitarta Vilniuj ir Radome.
+    Todėl ir tas aktas vadintinas Vilniaus-Radomo unija.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
+- c-004
+  santrauka: Vilniaus-Radomo susitarimas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Svarbiausi 1401 m. unijos punktai yra šie:
+    1) Lietuva ir Lenkija turi viena kitai teikti pagalbos arba
+    patarimų. Bet tai dar nėra unijai charakteringa: pagalba duo­
+    dama tik priešui užpuolus.
+    2) Vytautas, bendrai, prileidžiamas prie valdžios ir jis iš
+    Jogailos gauna d. kunigaikščio valdžią Lietuvoj
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

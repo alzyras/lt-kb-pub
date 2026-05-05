@@ -34,6 +34,7 @@ Nenurodyta
 - t-001
   teiginys: 'Todėl 1404 m. Racionže (Lenkijoje) buvo padaryta nauja taika su ordinu.'
   pagrindžia:
+    - c-002
     - c-001
 
 ## Reikšmingi paminėjimai
@@ -54,10 +55,27 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: Racionžo taika (1404 m.) papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tačiau ši sutartis pirk­
+    lius neilgai džiugino, nes 1401 metais, sukilus prieš Ordiną Že­
+    maičių kraštui, prekyba su juo suiro, ir ji buvo atgaivinta tik
+    1404 metais, pasirašant Racionžo taiką, kurioje jau ir Jogaila
+    dalyvavo. Bet šį kartą nukentėjo Žemaičiai, nes Vytautas dėl
+    pageidaujamos su Ordinu patvaresnės taikos sąryšyje su Rytų
+    politika pasižadėjo metus neleisti savo pirkliams prekiauti su
+    Žemaičių kraštu ir įvežti druskos, javų, geležies, kad Žemaičiai
+    vėl nesukiltų prieš Ordiną.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Racionžas]]

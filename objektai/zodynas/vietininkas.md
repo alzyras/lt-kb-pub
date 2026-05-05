@@ -1,18 +1,22 @@
 ---
-tipas: 'zodyno_irasas'
+tipas: zodyno_irasas
 pavadinimas: vietininkas
 sukurta: 2026-04-25
 variantai:
-  - vietininkas / viecinykas
-  - viecinyku
-  - vietininku
-  - viecinykas
+- vietininkas / viecinykas
+- viecinyku
+- vietininku
+- viecinykas
+- vietininkas
+- vietininkus
 aliases: []
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+- A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+- Vytautas Didysis 1350-1430 (1930 m.)
 laikotarpis: ''
 datos: []
+patikimumas: vidutinis
 periodas: ''
 periodo_grupes: []
 amziai: []
@@ -21,7 +25,6 @@ date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
-patikimumas: vidutinis
 tags: []
 ---
 # vietininkas
@@ -50,6 +53,19 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginys: 'Tačiau vietininkai nebuvo vien tik ūkių prievaizdai: jie valdė ne tik dvarus, bet jų žinioje buvo ir tose srityse esančios pilys, kurias jie turėjo taisyti ir laikyti paruoštas karui.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: Vytauto vietininkas Smolenske buvo išžudytas po Vorsklos smūgio.
+  pagrindžia:
+    - c-006
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: Vytautas vietininkus sodino vietoje panaikintų sričių kunigaikščių.
+  pagrindžia:
+    - c-007
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenorėjo gadinti santykių su Jogaila ir Lenkija.'
@@ -132,9 +148,32 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: Vytauto vietininkas Smolenske buvo išžudytas po Vorsklos smūgio.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vy­
+    tauto vietininkas ir bajorai, palaikę lietuviškąją partiją, buvo
+    išžudyti. Vytautas išsiskubino malšinti sukilėlių.
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: Vytautas vietininkus sodino vietoje panaikintų sričių kunigaikščių.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Šis darbas beveik
+    galutinai buvo baigtas Vytauto: jam pasisekė svarbesniąsias ir
+    didesniąsias sričių kunigaikštijas panaikinti ir savarankiškų kuni­
+    gaikščių vietoj pasodinti savo vietininkus, visiškai nuo d. kun.
+    priklausomus.
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-007
+
 ## Pastabos
 - Šalia esantis viecinykas yra senesnė ar tarmiška forma, bet reikšmė iš konteksto aiški.
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/teisinis-terminas]]

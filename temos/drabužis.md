@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 3.
+Objektų skaičius: 4.
 
 ## Kaip naudoti
 
@@ -20,6 +20,7 @@ Objektų skaičius: 3.
 
 ### Daiktai
 - [[objektai/daiktai/Balti vilnoniai marškiniai]]
+- [[objektai/daiktai/Drabužiai]]
 - [[objektai/daiktai/Moterų galvos danga]]
 
 ### Įvykiai

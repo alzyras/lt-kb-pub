@@ -342,4 +342,5 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - [[objektai/ivykiai/Jaunučio pašalinimas ir Algirdo bei Kęstučio valdžios perėmimas]]
 - [[objektai/asmenys/Kęstutis (vakarų pasienio valdovas, 1361 m.)]]
 - [[objektai/vietos/Tverė]]
+- [[objektai/asmenys/Algirdas]]
 - [[objektai/grupes/Lietuvos kariuomenė]]

@@ -10,7 +10,6 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - ritualas
-  - krikštas
 ---
 # Lietuvos krikšto apeigos
 
@@ -41,12 +40,12 @@ Nenurodyta
 - t-002
   teiginys: 'Krikšto apeigos pirmiausia buvo atliktos Vilniuje, o paskui Jogaila važinėdamas krikštijo visas kitas žymesnes Lietuvos vietas.'
   pagrindžia:
+    - c-009
     - c-002
 
 - t-003
   teiginys: 'Gedimino sostinėje pirmiausia buvo krikštijami bajorai.'
   pagrindžia:
-    - c-008
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
@@ -59,6 +58,7 @@ Nenurodyta
 - t-005
   teiginys: 'Per pagrindinį gyventojų krikštijimą Vilniuje vyrai ir moterys buvo suskirstomi į atskirus būrius, o pakrikštytiesiems duodami atskiri vardai.'
   pagrindžia:
+    - c-008
     - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
@@ -71,6 +71,7 @@ Nenurodyta
 - t-007
   teiginys: '1387 metais krikšto teikimas neapsiribojo vien Vilniumi, o buvo tęsiamas ir kitose Lietuvos vietose.'
   pagrindžia:
+    - c-010
     - c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
@@ -187,30 +188,56 @@ Nenurodyta
     - t-007
 - c-008
   santrauka: Lietuvos krikšto apeigos papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Pavaldiniams pradžioje labiau reiškė ne tiek pats Naujojo
-    mokslo turinys, kiek didžiojo kunigaikščio autoritetas, įsakąs mesti
-    senus tikėjimus ir prietarus. Savo valdovui paklusę bajorai turėjo
-    prisiimti tokį pat tikėjimą, kurį jis naujai pradėjo išpažinti. Šito­
-    kioje dvasioje reikia suprasti Jogailos atliktą katekizminių tiesų
-    aiškinimą. Po 25 metų panašiai jiedu su Vytautu elgėsi Žemaičiuo­
-    se. Norį gyventi vienybėje su savo valdovu, turėjo klausyti jo
-    žodžio.
+    Žmonės buvo krikštijami būriais, atskirai vyrai ir atskirai
+    moterys, kiekvienam būriui suteikiant vardą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: exact_source_offset
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
-    - t-003
-    - t-003
+    - t-005
+- c-009
+  santrauka: Lietuvos krikšto apeigos papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jogaila besi­
+    krikštijantiems duodavo dar baltų vilnonių rūbų, bet ne tik kaipo
+    dovaną, o ir tam, kad būtų išpildytas liturgikos reikalavimas —
+    prie krikšto turėti baltą rūbą, nekaltybės simbolį.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
+- c-010
+  santrauka: Lietuvos krikšto apeigos papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Taip pat
+    tuojau buvo pradėtos statyti bažnyčios ir provincijoje: Uk­
+    mergėje, Maišiogaloje, Medininkuose (Viln.), Nemenčine, o kiek
+    vėliau ir kitose rytinės Lietuvos vietose.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-007
+    - t-005
+    - t-002
+    - t-007
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/religinė-praktika]]
 - [[temos/ritualas]]
-- [[temos/krikštas]]
 
 ### Susiję objektai
 - [[objektai/ivykiai/Lietuvos krikštas]]
+- [[objektai/daiktai/Balti vilnoniai marškiniai]]

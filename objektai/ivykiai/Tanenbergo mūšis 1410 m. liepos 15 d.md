@@ -10,7 +10,8 @@ variantai:
   - 'Tannenbergo kautynės'
   - 'Grunwaldo mūšis'
   - 'Griunvaldo mūšis'
-aliases: []
+aliases:
+  - '[]'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -62,6 +63,8 @@ Nenurodyta
 - t-001
   teiginys: 'Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.'
   pagrindžia:
+    - c-012
+    - c-011
     - c-001
 - t-002
   teiginys: '1409 m. gruodį Vytautas ir Jogaila sutarė bendrą karinį planą, pagal kurį lietuvių ir lenkų jėgos turėjo susijungti Červinske ir žygiuoti į Marienburgą.'
@@ -84,6 +87,7 @@ Nenurodyta
 - t-005
   teiginys: 'Žalgirio kautynės baigėsi visišku ordino kariuomenės sutriuškinimu ir didžiojo magistro žūtimi.'
   pagrindžia:
+    - c-010
     - c-006
     - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -320,6 +324,82 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-010
+  santrauka: Tanenbergo mūšis 1410 m. liepos 15 d papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vieta, kur turėjo susitikti priešų kariuomenės, buvo nely­
+    gi, kalnuota. Sąjungininku kariuomenė sustojo arčiau Laub­
+    nero ežero. Ji užėmė kalnuotesnes vietas, kurios buvo Laub­
+    nero ežero žiemos vakaruose. Ant tų kalnelių buvo krūmų ir
+    giriu, kur galėjo pasislėpti dalis kariuomenės. Iš kairės ir deši­
+    nės sąjungininkų pusės buvo ežerai, kurie galėjo trukdyti prie­
+    šams, jei norėtu apsupti. Vasaros vakaruose buvo žemesnės
+    vietos ir sudarė nedidelį slėnį. Už to slėnio vėl ėjo pakilesnės
+    vietos iki Žalgirio, kur telkėsi kryžiuočiu kariuomenė. Žalgirio
+    ```
+
+    ```
+    — 81 —
+    ```
+    apylinkės taip pat buvusios girioms apaugusios. Taigi, priešų
+    kariuomenes skyrė slėnis. Tas slėnis nebuvo visiškai lygus.
+    Čia tad ėmė kariuomenės rikiuotis kautynėms. Dabar ir pa­
+    žiūrėkime, kokios jėgos susikoncentravo Žalgirio kovai, kokio
+    didumo kariuomenės stojo mūšin
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-005
+- c-011
+  santrauka: Tanenbergo mūšis 1410 m. liepos 15 d papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Įėjo Vengrijos
+    ir Štetino kunigaikštijos ženklais pažymėti du riteriai dviem
+    nuogais kardais nešini. Pasiuntiniai pareiškė, kad šituos du
+    kardus atnešė kryžiuočių didžiojo magistro liepiami. Ordino
+    magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam
+    susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­
+    viram lauke, bet nesislapstyti giriose, kaip iki šiol
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+- c-012
+  santrauka: Tanenbergo mūšis 1410 m. liepos 15 d papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    visai netikėtai, pa­
+    sirodė su savo sutvarkyta pabėgėlių kariuomene Vytautas ir už­
+    puolė iš užpakalio kryžiuočių kairį sparną, kuris buvo apsupęs
+
+
+    ```
+    — 86 —
+    ```
+    lenkų dešinį sparną. Kryžiuočiams šitas puolimas pasirodė vi­
+    sai netikėtas. Taip netikėtai išplėšė kryžiuočiams laimę ir per­
+    galę, kuria jie buvo įsitikinę. Įvyko žūtbūtinis mūšis. Lenkai,
+    pamatę sugrįžusius lietuvius, atgavo dvasią ir ėmė smarkiau
+    kautis. Kryžiuočių didysis magistras jau buvo sužeistas, bet
+    dar atkakliai kovojo — ryžosi gyvas nepasiduoti. Pagaliau,
+    lietuvio pėstininko ietis pervėrė jam kaklą — jis nukrito nuo
+    arklio ir mirė. Magistrui žuvus sąjungininkai visiškai mūšį lai­
+    mėjo. Kryžiuočiai sumišimo ir baimės apimti pasileido bėgti
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai
@@ -327,3 +407,4 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)]]
+- [[objektai/asmenys/Vytautas]]

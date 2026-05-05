@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 59.
+Objektų skaičius: 57.
 
 ## Kaip naudoti
 
@@ -53,7 +53,6 @@ Objektų skaičius: 59.
 
 ### Papročiai
 - [Bajorijos puotavimo ir girtuokliavimo kultas](../objektai/paprociai/Bajorijos%20puotavimo%20ir%20girtuokliavimo%20kultas)
-- [Gedimino dinastinė vedybų politika](../objektai/paprociai/Gedimino%20dinastin%C4%97%20vedyb%C5%B3%20politika)
 - [Lenkiškų herbų suteikimas Lietuvos bajorams](../objektai/paprociai/Lenki%C5%A1k%C5%B3%20herb%C5%B3%20suteikimas%20Lietuvos%20bajorams)
 - [Nuotakos išpirkimas ir Krienos mokestis](../objektai/paprociai/Nuotakos%20i%C5%A1pirkimas%20ir%20Krienos%20mokestis)
 - [Papročių teisė ir valdovo šeimininko norma](../objektai/paprociai/Papro%C4%8Di%C5%B3%20teis%C4%97%20ir%20valdovo%20%C5%A1eimininko%20norma)
@@ -75,7 +74,6 @@ Objektų skaičius: 59.
 - [Prūsai](../objektai/vietos/Pr%C5%ABsai)
 - [Riazanė](../objektai/vietos/Riazan%C4%97)
 - [Tverė](../objektai/vietos/Tver%C4%97)
-- [Voluinė](../objektai/vietos/Voluin%C4%97)
 
 ### Įvykiai
 - [Karaliaus Uracho rinkimas](../objektai/ivykiai/Karaliaus%20Uracho%20rinkimas)

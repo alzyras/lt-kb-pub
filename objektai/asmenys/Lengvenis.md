@@ -20,6 +20,7 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
 - t-001
   teiginys: 'Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir Vytautas.'
   pagrindžia:
+    - c-004
     - c-003
     - c-002
     - c-001
@@ -61,6 +62,22 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
     Vėl sustiprėjęs Jogaila į D. Naugardo kunigaikščius —
     « maitinimuisi » (« na kormlenije ») — nuskyrė savo brolį Lengvenį,
     kuris ir buvo ten pakviestas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+- c-004
+  santrauka: Lengvenis papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas
+    motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­
+    gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais
+    taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­
+    tyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

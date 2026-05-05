@@ -1,5 +1,5 @@
 ---
-tipas: asmuo
+tipas: 'asmuo'
 pavadinimas: 'Vytautas (Lietuvos valdovas, 1384 m.)'
 sukurta: '2026-04-24'
 variantai:
@@ -13,12 +13,15 @@ variantai:
   - 'Vytautas Didysis Kęstutaitis'
   - 'didysis kunigaikštis Vytautas'
   - 'Vytautas'
+  - 'Vigando'
+  - 'Aleksandras Vytautas'
 aliases:
   - 'Vytautas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: 'XIV a. pabaiga; XV a. pradžia; 1384 m.; 1392 m.; 1401 m.; 1410 m.; 1413 m.; 1430 m.'
 datos:
   - '1384 m.'
@@ -30,6 +33,10 @@ datos:
   - '1399 m.'
   - '1411 m.'
   - '1430 m. spalio 27 d.'
+  - '1350 m.'
+  - '1377 m.'
+  - '1379 m.'
+  - '1383 m.'
 periodas: ''
 periodo_grupes: []
 amziai:
@@ -40,6 +47,7 @@ date_end: ''
 vaidmenys:
   - 'Lietuvos valdovas'
   - 'karo tarybos pirmininkas'
+  - 'lietuvių kariuomenės vadas'
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
@@ -51,23 +59,31 @@ tags:
 
 ## Santrauka
 
-Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kovą, diplomatiją ir valstybės stiprinimą. Su juo siejami pabėgimas iš Krėvos, Astravo susitarimas, Vorsklos pralaimėjimas, Tanenbergo vadovybė, Žemaičių krikštas, Trakų salos pilis, Žemaičių klausimo politika, Salyno suvažiavimas ir 1430 m. mirtis.
+Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kovą, diplomatiją ir valstybės stiprinimą. Su juo siejami pabėgimas iš Krėvos, Astravo susitarimas, Vorsklos pralaimėjimas, Tanenbergo vadovybė, Žemaičių krikštas, Trakų salos pilis, Žemaičių klausimo politika, Salyno suvažiavimas ir 1430 m. mirtis. Papildomai akcentuojama jo kilmė, ankstyvieji karo žygiai, 1377 m. savarankiškas vadovavimas, 1383 m. Tapiau krikštas, 1392 m. lūžis ir išsamūs valdovo išvaizdos, būdo bei gebėjimų aprašymai.
 
 ## Vaidmenys
 - Lietuvos valdovas
 - karo tarybos pirmininkas
+- lietuvių kariuomenės vadas
+## Savybės
+- išvaizda:
+  - santrauka: Apibūdinamas kaip neaukšto ūgio, energingų veido bruožų, gyvų akių ir pasitikėjimo savimi kupinos laikysenos valdovas.
+    šaltiniai:
+      - Vytautas Didysis 1350-1430 (1930 m.)
+- būdas / charakteris:
+  - santrauka: Apibūdinamas kaip drąsus, darbštus, teisingas, saikingas ir savigarbos nestokojantis valdovas.
+    šaltiniai:
+      - Vytautas Didysis 1350-1430 (1930 m.)
+- gebėjimai:
+  - santrauka: Pabrėžiami jo karo dalykų pomėgiai, imlumas Vakarų Europos naujovėms ir kelių kalbų mokėjimas.
+    šaltiniai:
+      - Vytautas Didysis 1350-1430 (1930 m.)
 
 ## Teiginiai
 - t-001
   teiginys: 'Vytautas iš Krėvos pabėgo su žmona Ona ir paspruko pas Jonušą.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: '1384 m. Vytautas, ieškodamas ordino paramos, pasižadėjo būti jo vasalu ir buvo pakrikštytas Vygando vardu.'
-  pagrindžia:
-    - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-003
@@ -226,6 +242,67 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - c-034
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-030
+  teiginys: 'Vytautas šiame veikale pavadintas žymiausiu dinastijos atstovu.'
+  pagrindžia:
+    - c-035
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-031
+  teiginys: 'Vytautas laikomas Kęstučio ir Birutės sūnumi, gimusiu apie 1350 m.'
+  pagrindžia:
+    - c-036
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-032
+  teiginys: 'Vytautas augo susidurdamas ir su pagoniška pasaulėžiūra, ir su krikščionybės idėjomis.'
+  pagrindžia:
+    - c-037
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-033
+  teiginys: 'Vytautas labai anksti įsitraukė į karo žygius, o 1376 m. jau minimas kaip Gardino kunigaikštis.'
+  pagrindžia:
+    - c-038
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-034
+  teiginys: '1377 m. Vytautas surengė žygį į Ordino žemes ir pasirodė kaip savarankiškas lietuvių kariuomenės vadas.'
+  pagrindžia:
+    - c-039
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-035
+  teiginys: '1379 m. Vytautas dalyvavo pasirašant aktą kaip pilnateisis kunigaikštis, o prie dokumento buvo jo antspaudas.'
+  pagrindžia:
+    - c-040
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-036
+  teiginys: '1383 m. Tapiau Vytautas buvo pakrikštytas ir gavo Vigando vardą.'
+  pagrindžia:
+    - c-041
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-037
+  teiginys: '1392 m. Vytautas galutinai atsisakė sąjungos su Ordinu, susitaikė su Jogaila ir gavo valdyti visą Lietuvą.'
+  pagrindžia:
+    - c-042
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-039
+  teiginys: 'Vytautas apibūdinamas kaip darbštus, teisingas ir saikingas valdovas.'
+  pagrindžia:
+    - c-044
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-040
+  teiginys: 'Nuo jaunystės Vytautas mėgo karo dalykus ir sekė Vakarų Europos naujoves.'
+  pagrindžia:
+    - c-045
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -246,22 +323,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-001
-- c-002
-  santrauka: Vytautas ordino žemėje priėmė sunkius įsipareigojimus ir Vygando vardą.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pabėgėlis Vytautas už paramą turėjo priimti visas ordino
-    sąlygas. Pagaliau jis turėjo net pasižadėti atgautoje savo tėvo-
-    nijoje būti ordino vasalu (1384 m.). Ordinas pakrikštijo Vytautą
-    Vygando vardu ir išsiuntė su didele kariuomene į Lietuvą.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
-  pagrindžia:
-    - t-002
 - c-003
   santrauka: Astravo susitarimu Vytautas atgavo tėvo žemes ir Vilnių.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -729,6 +790,189 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-029
+- c-035
+  santrauka: 'Vytautas pavadintas žymiausiu dinastijos atstovu.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas, apie kurį mes čia kalbėsime, buvo žymiausias
+    šios dinastijos atstovas, kaip galingas ir labai didelis ąžuolas,
+    išaugęs kitų miško medžių tarpe.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-030
+- c-036
+  santrauka: 'Vytautas laikomas Kęstučio ir Birutės sūnumi, gimusiu apie 1350 m.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene
+    pirmagimis sūnus. Kuriais metais jis gimė, tiksliai sunku pasa­
+    kyti. Konradas Bitschinas savo kronikoje sako, kad Vytautas,
+    turėdamas dvidešimt metų, dalyvavęs 1370 metais Rudavos mū­
+    šyje^2 ), 1430 metais mirdamas jis turėjęs aštuoniasdešimt metų,
+    vadinasi turėjo gimti apie 1350 metus^3 ).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-031
+- c-037
+  santrauka: 'Vytauto aplinkoje greta pagoniškos tradicijos veikė ir krikščionybės idėjos.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautui teko gyventi ne vien pagoniško tikėjimo pa­
+    sauliožiūros rate. Kaip Trakuose, taip ir dėdės Algirdo šeimoj
+    Vilniuj tekdavo jam susidurti ir su krikščionybės idėjomis,
+    nes čia dažnai atvykdavo iš Vakarų ir Rytų Europos įvairūs
+    pasiuntiniai, riteriai, vienuoliai, kurie lankydavos ne tik naujo
+    tikėjimo skelbimo reikalais, bet ir apsigyvendavo kunigaikščių
+    dvaruose raštininkais, patarėjais.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-032
+- c-038
+  santrauka: 'Vytautas anksti pradėjo karo žygius ir 1376 m. minimas kaip Gardino kunigaikštis.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ir užtat nenuostabu, kad jis labai anksti (1368 m.) pradeda
+    dalyvauti įvairiuose karo žygiuose: 1368 ir 1372 metais į Mask­
+    vos žemes; 1376 metais, jau kaip Gardino‘kunigaikštis, jis da­
+    lyvauja kartu žygyje prieš lenkus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-033
+- c-039
+  santrauka: '1377 m. Vytautas pasirodė kaip savarankiškas kariuomenės vadas.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Po kiek laiko kronikos vėl mini 1377 metų Vytauto žygį.
+    Jis, tėvo pavedamas, surengė žygį, Algirdui dar gyvam tebe­
+    sant, į Ordino žemes. Tuokart jis pasirodė savarankiškas lie­
+    tuvių kariuomenės vadas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-034
+- c-040
+  santrauka: '1379 m. aktą Vytautas tvirtino kaip pilnateisis kunigaikštis su savo antspaudu.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Būdamas pilnateisis kunigaikštis, šitą aktą pasirašant da­
+    lyvavo ir Vytautas. Pačiame tekste yra pažymėta, kad be ma­
+    gistro ir Jogailos savo antspaudas prie dokumentų prikabino
+    „Kinstutte herczoge czu Tracken und Wytould unsir son“. Iš
+    ```
+    (^1) ) L. E. K. U., III t., 144 nr. (^2) ) Krum., 83 psl.
+
+
+    ```
+    — 9 —
+    ```
+    tikro prie šitos sutarties buvo Vytauto antspauda su jo ženklu
+    ir užrašu „S: DUCJS VITAUTE”, kas reiškia kunigaikščio
+    Vytauto antspaudą
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-035
+- c-041
+  santrauka: '1383 m. Tapiau Vytautas buvo pakrikštytas Vigando vardu.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Grįždamas iš šito žygio, Kryžiuočių Ordinas 1383 metų
+    spalių mėn. 21 d. Tapiau miestelyje Vytautą be jokių iškilmių
+    pakrikštijo. Tai įvyko tuo pačiu laiku, kai Trakuose palikusi
+    jų įgula be vilties kovojo su gausiu priešu. Krikšte Vytautui
+    buvo duotas Vigando vardas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-036
+- c-042
+  santrauka: '1392 m. šaltinis laiko Vytauto gyvenimo persilaužimo metais.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    1392 metai Vytauto gyvenime yra persilaužimo metai —
+    jis galutinai atsisakė nuo sąjungos su Ordinu, susitaikė su Jogai­
+    la ir lenkais ir gavo valdyti ne tik tėviškę, bet ir visą Lietuvą.
+    Jo santykiai su tauta pasikeitė. Jo asmeniški reikalai suside­
+    rino su tautos ir valstybės reikalais: tautos priešai yra ir jo
+    priešai, tautos draugai — jo draugai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-037
+- c-044
+  santrauka: 'Vytautas apibūdinamas kaip darbštus, teisingas ir saikingas valdovas.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Didelis ir darbininkas. Mokėjo laiką taip suvartoti, jog nė
+    minutė nenueidavo niekais. Pasižymėjo stropiu valdymu: savo
+    pareigų neužmiršdavo nei namuose nei kelionėje. Ar klausy­
+    damas žmonių skundų ir prašymų, ar duodamas atsakymus ir
+    patarimus — visur vadavosi teisybe. Ta savybe jis užsipelnė
+    didelės apgarbos tiek savųjų, tiek svetimųjų tarpe. Laisvesnį
+    laiką, jei jo kiek atlikdavo, praleisdavo medžioklėje arba eida­
+    mas šachmatais. Bet visur kur matėsi saikas. Vytautas ne­
+    protingu laikė tokį monarchą, kuris dėl medžioklės mesdavo į
+    šalį valstybės reikalus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-039
+- c-045
+  santrauka: 'Vytautas nuo jaunystės domėjosi karo dalykais ir vakarietiškomis naujovėmis.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Nuo pat jaunystės Vytautas mėgo karo dalykus, ginklus.
+    Šioje srityje nauji išradimai ypač jį domindavo. Visokių karo
+    dalykų mielai mokydavosi ir lengvai juos pasisavindavo. Ypač
+    jis sekdavo Vakarų Eurpos išradimus ir papročius.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-040
 
 ## Ryšiai
 ### Laikotarpiai
@@ -738,5 +982,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 ### Susiję objektai
 - [[objektai/vietos/Astravos dvaras]]
 - [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)]]
+- [[objektai/daiktai/Karinė ginkluotė]]
 - [[objektai/vietos/Luckas]]
 - [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
+- [[objektai/asmenys/Vytautas]]
+- [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)]]

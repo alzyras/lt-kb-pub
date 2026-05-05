@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 45.
+Objektų skaičius: 46.
 
 ## Kaip naudoti
 
@@ -25,6 +25,7 @@ Objektų skaičius: 45.
 - [[objektai/autoriai/Adomas Dambrauskas Jakštas]]
 - [[objektai/autoriai/Jonas Basanavičius]]
 - [[objektai/autoriai/Jonas Šliūpas]]
+- [[objektai/autoriai/Józef Wolff]]
 - [[objektai/autoriai/K. Duonelaitis]]
 - [[objektai/autoriai/Kuršaitis (redaktorius, 1849–1880 m.)]]
 - [[objektai/autoriai/Motiejus Valančius]]
@@ -53,7 +54,7 @@ Objektų skaičius: 45.
 - [[objektai/ivykiai/Katalikiško moksleivių judėjimo plėtra Amerikoje (1899–1912 m.)]]
 - [[objektai/ivykiai/Lenkų sukilimas Varšuvoje (1830 m.)]]
 - [[objektai/ivykiai/Lietuviškosios spaudos draudimas ir rusiškų raidžių įvedimas (1864—1865 m.)]]
-- [[objektai/ivykiai/Lietuviškosios spaudos pradžia Amerikoje (1874–1885 m.)]]
+- [Lietuviškosios spaudos pradžia Amerikoje (1874–1885 m.)](../objektai/ivykiai/Lietuvi%C5%A1kosios%20spaudos%20prad%C5%BEia%20Amerikoje%20%281874%E2%80%931885%20m.%29)
 - [Lietuviškosios spaudos suklestėjimas Amerikoje (1892–1896 m.)](../objektai/ivykiai/Lietuvi%C5%A1kosios%20spaudos%20suklest%C4%97jimas%20Amerikoje%20%281892%E2%80%931896%20m.%29)
 - [Lietuvių peticijų dėl kalbos teisių mokyklose kampanija (1879–1897 m.)](../objektai/ivykiai/Lietuvi%C5%B3%20peticij%C5%B3%20d%C4%97l%20kalbos%20teisi%C5%B3%20mokyklose%20kampanija%20%281879%E2%80%931897%20m.%29)
 - [Lietuvos skriaudų viešinimo akcijos Amerikoje (1894–1900 m.)](../objektai/ivykiai/Lietuvos%20skriaud%C5%B3%20vie%C5%A1inimo%20akcijos%20Amerikoje%20%281894%E2%80%931900%20m.%29)

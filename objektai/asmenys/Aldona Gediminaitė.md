@@ -32,6 +32,7 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
 - t-003
   teiginys: '1325 m. Aldona-Ona buvo ištekinta už Kazimiero.'
   pagrindžia:
+    - c-006
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
@@ -122,6 +123,22 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-005
+- c-006
+  santrauka: Aldona Gediminaitė papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    tarp jų 1325 buvo pa­
+    daryta sutartis, kurią sutvirtino Gedimino dukters Aldonos ir
+    Vladislovo sūnaus Kazimiero (busimojo Kazimiero didžiojo)
+    jungtuvės
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-003
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

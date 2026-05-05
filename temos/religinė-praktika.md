@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 5.
+Objektų skaičius: 4.
 
 ## Kaip naudoti
 
@@ -19,7 +19,6 @@ Objektų skaičius: 5.
 ## Susiję objektai
 
 ### Papročiai
-- [[objektai/paprociai/Aisčių ugnies kultas ir šventoji namų ugnelė]]
 - [[objektai/paprociai/Gedimino religinio pakantumo norma]]
 - [[objektai/paprociai/Lietuvos krikšto apeigos]]
 - [[objektai/paprociai/Specialių brolijų maldininkams globoti steigimas]]

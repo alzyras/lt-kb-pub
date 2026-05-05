@@ -53,7 +53,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/valdovas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Algirdas (Lietuvos valdovas, 1345 m.)]]
-- [[objektai/asmenys/Jaunutis]]

@@ -6,7 +6,8 @@ variantai:
   - 'Strėvos kautynės'
   - '1348 m. Strėvos mūšis'
   - 'Strėvos mūšis'
-aliases: []
+aliases:
+  - '[]'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
@@ -221,4 +222,5 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
 
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas (Lietuvos valdovas, 1345 m.)]]
+- [[objektai/asmenys/Kęstutis]]
 - [[objektai/asmenys/Kęstutis (vakarų pasienio valdovas, 1361 m.)]]

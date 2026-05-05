@@ -539,3 +539,4 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
 - [[objektai/asmenys/Kęstutis (vakarų pasienio valdovas, 1361 m.)]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Gediminas]]

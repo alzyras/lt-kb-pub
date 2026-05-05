@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 23.
+Objektų skaičius: 21.
 
 ## Kaip naudoti
 
@@ -22,7 +22,6 @@ Objektų skaičius: 23.
 - [[objektai/asmenys/Aleksandras (didysis kunigaikštis)]]
 - [[objektai/asmenys/Andrius Pfafendorfas]]
 - [[objektai/asmenys/Ditrichas von Altenburgas]]
-- [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/asmenys/Jonas Perlingas]]
 - [[objektai/asmenys/Liudvikas IV Bavarietis]]
 - [[objektai/asmenys/Mykolas Kuchmeisteris]]
@@ -46,7 +45,6 @@ Objektų skaičius: 23.
 - [[objektai/vietos/Radomas]]
 
 ### Įvykiai
-- [[objektai/ivykiai/Astravos sutartis]]
 - [[objektai/ivykiai/Lenkų sąmokslas Lietuvoje (P.O.W.) (1919 m. rugpiūčio 28–29 d. naktis)]]
 - [[objektai/ivykiai/Vilniaus-Radomo susitarimas]]
 

@@ -48,6 +48,7 @@ Nenurodyta
 - t-003
   teiginys: 'Apsikrikštijusiems bajorams suteikta pilna laisvė šeimos reikaluose, įskaitant dukterų išleidimą už vyro.'
   pagrindžia:
+    - c-003
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
@@ -97,6 +98,24 @@ Nenurodyta
     - t-002
     - t-003
     - t-004
+- c-003
+  santrauka: Jogailos privilegija apsikrikštijusiems bajorams papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Katalikų tikėjimą įvedant, gavo daugiau laisvės ir bajorai,
+    kurie jį priimdavo. Tokiems bajorams buvo duota teisė valdy­
+    ti iš protėvių įgytą nejudomą turtą (miestus, apskričius, so­
+    džius, namus, dvarus), jį parduoti, kitam perleisti. Buvo su­
+    teikta laisvė savo dukteris ir giminaites leisti už joms tinkamų
+    vyrų, tik kad jie nebūtų stačiatikiai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-003
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -22,6 +22,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - t-001
   teiginys: 'Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.'
   pagrindžia:
+    - c-005
+    - c-004
     - c-003
     - c-002
     - c-001
@@ -77,4 +79,35 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   patikimumo_saltinis: exact_source_offset
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
+    - t-001
+- c-004
+  santrauka: Rusai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Lietu­
+    vių ir rusų bajorai paskelbė Vytautą Lietuvos ir Rusijos kara­
+    lium
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+- c-005
+  santrauka: Rusai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tuo
+    būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­
+    čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
+    kariuomenė buvo internacionalinė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+    - t-001
     - t-001

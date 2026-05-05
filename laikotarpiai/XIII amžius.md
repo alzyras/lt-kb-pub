@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 22.
+Objektų skaičius: 21.
 
 ## Kaip naudoti
 
@@ -25,7 +25,6 @@ Objektų skaičius: 22.
 - [[objektai/daiktai/Sidabruotos geležinės balnakilpės]]
 
 ### Grupės
-- [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/grupes/Lotoriai]]
 - [[objektai/grupes/Parusėnai]]
 - [[objektai/grupes/Žemaičių medininkai]]

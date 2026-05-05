@@ -4,13 +4,17 @@ pavadinimas: 'P. Šležas'
 sukurta: '2026-04-24'
 variantai:
   - 'P. Šležo'
+  - 'P. Sležas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-laikotarpis: '1936 m. (veikalo sudarymo kontekstas)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+laikotarpis: '1936 m. (veikalo sudarymo kontekstas); 1930 m. (veikalo sudarymo kontekstas)'
 datos:
   - '1936 m. (veikalo sudarymo kontekstas)'
+  - '1930 m. (veikalo sudarymo kontekstas)'
 vaidmenys:
   - 'autorius'
+  - 'redaktorius'
 patikimumas: 'aukštas'
 tags:
   - autorius
@@ -19,10 +23,12 @@ tags:
 
 ## Santrauka
 
-P. Šležas šiame šaltinyje minimas kaip autorius; jam priskiriami darbai Lietuvos istorija.
+P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvos istorija, Vytauto santykiai su Lenkija ir Vytauto konfliktas su Lenkija dėl karūnacijos, o „Žodis į skaitytojus“ pasirašytas jo vardu.
 
 ## Darbai
 - Lietuvos istorija
+- Vytauto santykiai su Lenkija
+- Vytauto konfliktas su Lenkija dėl karūnacijos
 
 ## Teiginiai
 - t-001
@@ -30,6 +36,24 @@ P. Šležas šiame šaltinyje minimas kaip autorius; jam priskiriami darbai Liet
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'P. Šležas šiame leidinyje nurodytas kaip redaktorius.'
+  pagrindžia:
+    - c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Turinyje P. Šležui priskiriami skyriai „Vytauto santykiai su Lenkija“ ir „Vytauto konfliktas su Lenkija dėl karūnacijos“.'
+  pagrindžia:
+    - c-003
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: '„Žodis į skaitytojus“ pasirašytas P. Šležo vardu Kaune 1930 m. kovo mėn. 13 d.'
+  pagrindžia:
+    - c-004
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -49,9 +73,51 @@ P. Šležas šiame šaltinyje minimas kaip autorius; jam priskiriami darbai Liet
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: Tituliniame puslapyje P. Šležas nurodytas kaip redaktorius.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Redagavo P. Sležas
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: Turinyje P. Šležui priskiriami du skyriai apie Vytauto santykius su Lenkija.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    P. Šležas. Vytauto santykiai su Lenkija ....................... 141
+    P. Šležas. Vytauto konfliktas su Lenkija dėl karūnacijos ............. 205
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: Įžangos pabaigoje pateiktas P. Šležo parašas ir data.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kaunas,
+    1930 — Vytauto Didžiojo — metais
+    kovo mėn. 13 d.
+    ```
+    ```
+    P. Šležas
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

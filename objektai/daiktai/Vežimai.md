@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 patikimumas: 'aukštas'
 periodas: viduramziai
 tags:
@@ -51,6 +52,19 @@ Nenurodyta
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+
+- t-004
+  teiginys: 'Lenkijos riteriams buvo įsakyta pasiimti po vieną vežimą maisto šešioms savaitėms.'
+  pagrindžia:
+    - c-004
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 'Totoriai, užvaldę lietuvių stovyklą po Vorsklos mūšio, paėmė gurguoles ir turtus.'
+  pagrindžia:
+    - c-005
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -111,8 +125,37 @@ Nenurodyta
   pagrindžia:
     - t-003
 
+- c-004
+  santrauka: Vežimai buvo planuojami kaip šešių savaičių maisto transportas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jogaila nuvyko Krokuvon ir įsakė šaukti ka­
+    riuomenę. Lenkijos riteriams įsakė pasiimti po vieną tarną ir
+    po vieną vežimą maisto šešioms savaitėms.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: Gurguolės po Vorsklos mūšio tapo totorių grobiu.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Totoriai, užvaldę lietuvių stovyklą, paėmė visas jų gur­
+    guoles ir turtus ir tuojau metėsi krašto terioti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Iždo ir pilių raktai]]
 - [[objektai/daiktai/Palapinės]]
 - [[objektai/zodynas/ratininkas]]
+- [[objektai/grupes/Totoriai]]

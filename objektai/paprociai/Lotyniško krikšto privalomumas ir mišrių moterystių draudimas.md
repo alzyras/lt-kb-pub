@@ -108,4 +108,5 @@ Nenurodyta
 - [[laikotarpiai/XIV amžius]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)]]

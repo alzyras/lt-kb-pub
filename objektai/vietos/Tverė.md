@@ -163,6 +163,7 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 - [[temos/šeima]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Algirdas]]
 - [[objektai/asmenys/Algirdas (Lietuvos valdovas, 1345 m.)]]
 - [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Možaiskas]]

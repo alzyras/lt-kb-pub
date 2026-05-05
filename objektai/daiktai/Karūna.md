@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 patikimumas: 'vidutinis'
 periodas: viduramziai
 tags:
@@ -84,6 +85,61 @@ Nenurodyta
   pagrindžia:
     - c-012
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+- t-010
+  teiginys: 'Livonijos ordinas išrūpino Mindaugui karališkąjį vainiką.'
+  pagrindžia:
+    - c-014
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-011
+  teiginys: 'Haleckio aiškinimu Zigmantas norėjo suteikti Vytautui karaliaus karūną, kad suardytų Lietuvos ir Lenkijos santykius.'
+  pagrindžia:
+    - c-015
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-012
+  teiginys: 'Sandomire sklido gandai, kad Zigmantas netrukus išsiųs Vytautui karūną.'
+  pagrindžia:
+    - c-016
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-013
+  teiginys: 'Kėzmarke Zigmantas pasiūlė Vytautui karaliaus karūną, bet Vytautas tada jos atsisakė.'
+  pagrindžia:
+    - c-017
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-014
+  teiginys: 'Karaliaus karūna buvo tiesiogiai siejama su Lietuvos laisve ir Vytauto teise nebūti Lenkijos vasalu.'
+  pagrindžia:
+    - c-018
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-015
+  teiginys: 'Cigala ir Rothas ragino Vilniuje kaldinti karūnas, kad Vytautas jomis galėtų karūnuotis.'
+  pagrindžia:
+    - c-020
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-016
+  teiginys: 'Vytautui vežtos karūnos nepasiekė paskirties, nes pasiuntinių delegacijos buvo sulaikytos ar pasitraukė.'
+  pagrindžia:
+    - c-021
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-017
+  teiginys: 'Vytautas tikėjosi, kad po naujų derybų Zigmantas galės siųsti karūną tiesiog per Lenkiją.'
+  pagrindžia:
+    - c-022
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-018
+  teiginys: 'Pagal naująjį projektą Vytauto karūna po jo mirties turėjo atitekti vienam Jogailos sūnų.'
+  pagrindžia:
+    - c-023
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -273,10 +329,190 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-005
+
+- c-014
+  santrauka: Livonijos ordinas išrūpino Mindaugui karališkąjį vainiką.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ordinui jis do­
+    vanojo žymią dalį Žemaitijos, o tas ne tik jį parėmė, bet ir
+    išrūpino jam karališkąjį vainiką.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
+- c-015
+  santrauka: Haleckio interpretacijoje Zigmantas karūna mėgino ardyti Lietuvos ir Lenkijos santykius.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Haleckis šį lenkų „nusileidimą“ norė­
+    tų išaiškinti Zigmanto L. figūra, kuri norėjusi suteikti Vytautui
+    karaliaus karūną, kad tuo suardytų esamus tarp Lietuvos ir
+    Lenkijos santykius^1 ).
+  citata_rodoma: ""
+  teiginio_tipas: interpretacija
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citatoje aiškiai pateikiamas Haleckio aiškinimas."
+  pagrindžia:
+    - t-011
+- c-016
+  santrauka: Sklido gandai apie netrukus siunčiamą Vytauto karūną.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Čia turėjo būt išspręstas karūnacijos klausimas. Tuo laiku pa­
+    sklido gandai, būk Zigmantas jau greit turįs išsiųsti Vytautui
+    karūną.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-012
+- c-017
+  santrauka: Kėzmarke Zigmantas siūlė Vytautui karaliaus karūną, bet šis atsisakė.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytauto karūnacijos klausimas, iškeltas 1429 m. Lucko su­
+    važiavime, buvo nebe naujas. Žinom, kad jau 1398 m. Vytau­
+    tas su Jogaila tuo reikalu rūpinosi Romos kurijoj. Tų pačių
+    metų pabaigoj Salyne Vytautą jo bajorai paskelbė Lietuvos ir
+    Rusijos žemių karalium. Po dvylikos metų šis klausimas vėl iš­
+    kyla aikštėn ir, būtent tuo metu, kai Vytautas lankėsi Kėzmar­
+    ke, pas karalių Zigmantą. Pastarasis ta proga jam ir pasiū­
+    lė užsidėt karaliaus karūną. Bet Vytautas, turėdamas prieš
+    akis svarbius valstybės reikalus ir juos statydamas aukščiau
+    savo asmens interesų, atsisakė priimti tą nors ir labai svarbų
+    siūlymą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-013
+- c-018
+  santrauka: Karūna čia pateikta kaip Lietuvos laisvės ir nelaisvės riba.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tuo tarpu žymiai paaštrėjo santykiai su Lenkija, mat, da­
+    bar aiškiai imta statyti klausimas: ar Lietuva laisva, ar ne?
+    Jei laisva, tai Vytautas turi teisę užsidėt karaliaus karūną; jei
+    ne, tai jam ir toliau tenka pasilikti Lenkijos vasalu. Vytauto
+    karūnacija Lenkijai kėlė didelį pavojų^1 ), nes per ją Lietuva ga­
+    lėjo visiškai išsivaduoti iš Lenkijos, o Lenkija dėl to būtų nete­
+    kusi Europoj tos galybės ir reikšmės, kurią turėjo susijungusi
+    su Lietuva.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-014
+- c-019
+  santrauka: Vytautui buvo siūlyta net Jogailos karūna.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pasakęs tokį ilgą ir griaudingą pamokslą, Olesnickis pa­
+    siūlė Vytautui Jogailos karūną^2 ). Toks sumanymas, matyt, bu­
+    vo priimtas paskutiniame Sandomiriaus suvažiavime.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-020
+  santrauka: Cigala ir Rothas siūlė Vytautui Vilniuje kaldinti karūnas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Čia dar tebebuvo ir Cigala ir Rothas, kurie nesi­
+    liovė Vytautą įkalbinėt karūnuotis, patardami kaldinti Vilniuj
+    karūnas ir jomis karūnuotis. Tą ir pats Zigmantas esą patvirtintų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-015
+- c-021
+  santrauka: Karūnų delegacijos buvo sulaikytos ar pasitraukė, todėl karūnos nebuvo atgabentos.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tačiau veltui Vytautas ir jo svečiai laukė pasiuntinių, at­
+    gabenančių karūnas. Jas vežė iškilminga Zigmanto dele­
+    gacija. Pirma jos važiavo kaip ciesoriaus reprezentantai
+    Zig. Rothas ir jau mums pažįstamas dr. Cigala, kuriuos Zig­
+    mantas siuntė Vytautui supažindinti su įvairiais klausimais dėl
+    karūnacijos ir išsklaidyt jo abejones^3 ). Jie vežėsi su savim ir
+    Vytauto karūnacijos projekto dokumentą^4 ). Ši pirmoji delega­
+    cija, kaip mano kai kurie istorikai, ir buvo lenkų pasienio sargy­
+    bos sučiupta^5 ). Iš jos atėmė ir visus dokumentus. Bet pas ją
+    karūnų nerasta. Jas turėjo vežti iš paskos kita delegacija, kuri,
+    susižinojusi apie įvykį, pasitraukė atgal^6 ). Reikia manyti, kad
+    tą pirmąją delegaciją sudarė daugiau žmonių, o ne du. Ji ve­
+    žėsi su savim ir nemaža gėrybių. Kartu su ja važiavo ir Vytau­
+    to delegatai^7 ).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-016
+- c-022
+  santrauka: Vytautas rašė Zigmantui, kad karūną jau bus galima siųsti tiesiog per Lenkiją.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Bet ir tai nie­
+    ko nepadėjo. Tada dar kartą nutarta kreiptis į likusią Lenkijoj
+    karališką tarybą^3 ) ir, matyt, jau tikrai tikėtasi gauti iš jos su­
+    tikimą, nes tuo laiku Vytautas viename savo laiške Zigmantui
+    rašo, kad jis dabar galėsiąs jam siųsti karūną tiesiog per
+    Lenkiją^4 ).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-017
+- c-023
+  santrauka: Naujasis projektas karūną po Vytauto mirties skyrė vienam Jogailos sūnų.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pagal naująjį projektą Vytautas būna
+    Lietuvos karalium iki gyvos galvos ir išduodamas raštą pasiža­
+    da, kad po mirties jo karūna turi atitekti vienam Jogailos sūnų
+
+    (^1) ) C. ep. V. 1341 nr.
+    (^2) ) Kol., 159 p.
+    (^3) ) T. p., 152,
+
+
+    ```
+    230
+    ```
+    ```
+    — „jaunam karaliui“^1
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-018
 
 ## Ryšiai
 ### Teminiai klasteriai
