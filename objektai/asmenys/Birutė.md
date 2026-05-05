@@ -23,7 +23,6 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
 - t-001
   teiginys: 'Kai kurių vėlesniųjų šaltinių liudijimu, tada buvusi nužudyta ir senutė Vytauto motina, Birutė, kurią, išvykdamas kariauti su Jogaila, Kęstutis buvo palikęs Brastos pilyje.'
   pagrindžia:
-    - c-004
     - c-001
 - t-002
   teiginys: Birutė įvardijama kaip žinomo Žemaičių bajoro Vydimanto duktė ir Kęstučio žmona.
@@ -83,29 +82,3 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-- c-004
-  santrauka: Birutė papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautui teko gyventi ne vien pagoniško tikėjimo pa­
-    sauliožiūros rate. Kaip Trakuose, taip ir dėdės Algirdo šeimoj
-    Vilniuj tekdavo jam susidurti ir su krikščionybės idėjomis,
-    nes čia dažnai atvykdavo iš Vakarų ir Rytų Europos įvairūs
-    pasiuntiniai, riteriai, vienuoliai, kurie lankydavos ne tik naujo
-    tikėjimo skelbimo reikalais, bet ir apsigyvendavo kunigaikščių
-    dvaruose raštininkais, patarėjais. Vienas Vytauto mokytojas
-    buvo kryžiuotis, nes tėvo dvare vokiečių belaisvių nestigdavo;
-    todėl jis iš jų bus išmokęs skaityti ir rašyti. Vadinas, Vytautas
-    augo ir pagoniško ir krikščioniško tikėjimų įtakoje. Jo pirmoji
-    žmona Marija, Rusijos kunigaikštytė, berods, buvo stačiatikė.
-    Antroji jo žmona Ona pradžioj taip pat buvusi stačiatikė, tik
-    paskui pasidarė labai uoli katalikė. Istorikai nurodo, kad Vy­
-    tautas turėjo tris žmonas^1 ). Trečios žmonos vardas buvęs Ju­
-    lijona.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-001

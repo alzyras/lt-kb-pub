@@ -32,7 +32,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
 - t-003
   teiginys: 'Su pačia Jadvyga nebuvo ko kalbėti, nes ji tebuvo dar vos 14 metų mergaitė, buvo įsimylėjusi savo sužadėtinį Vilhelmą ir apie Jogailą nenorėjo nė klausyti.'
   pagrindžia:
-    - c-009
+    - c-003
 - t-004
   teiginys: 'Jadvyga buvo tikroji jungtis, jungusi Jogailą su Lenkų karalyste, nes tik jos vaikai tegalėjo tikėtis paveldėti sostą.'
   pagrindžia:
@@ -191,25 +191,11 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-008
-- c-009
-  santrauka: Jadvyga Jogailienė papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet jam pavyko dvi savo karalystes — Vengrų ir Len­
-    kijos — paskirti savo dviem dukterim: Jadvygai ir Marijai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-003
 - c-010
   santrauka: Jadvyga Jogailienė papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Ka­
-    ralienė Elžbieta bijodama nustoti Lenkijos, pasiuntė savo ketu­
+    pasiuntė savo ketu­
     riolikos metų dukterį Jadvygą, kuri 1384 m. spalių 13 d. iškilmin­
     gai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota „Lenki­
     jos karalium“.

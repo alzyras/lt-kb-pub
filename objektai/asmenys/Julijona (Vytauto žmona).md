@@ -53,7 +53,7 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   santrauka: 1930 m. veikale Julijona įvardijama trečiąja Vytauto žmona.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    paskui pasidarė labai uoli katalikė. Istorikai nurodo, kad Vy­
+    Istorikai nurodo, kad Vy­
     tautas turėjo tris žmonas^1 ). Trečios žmonos vardas buvęs Ju­
     lijona.
   citata_rodoma: ""

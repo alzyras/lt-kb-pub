@@ -305,7 +305,8 @@ tags:
   santrauka: 'Švitrigaila pasidavė Vytautui, bet netrukus pabėgo į Vengriją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Švitri­
+    Švitrigaila susilaukė pagalbos ir iš Smo­
+    lensko. Dėl to Vitebsko paėmimas kiek užtruko. Bet Švitri­
     gaila vis dėlto buvo priverstas iki žemės Vytautui nusilenkti ir
     pasiduoti. Po to jis buvo pasiųstas į Krokuvą Jogailai. Iš čia
     netrukus jis pabėgo į Vengriją.

@@ -704,7 +704,10 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   santrauka: 'Jogailai priskiriamas pagrindinių maldų vertimas į lietuvių kalbą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Jo­
+    Todėl ir Vy­
+    tautui D. su Jogaila teko mokyti žmones pagrindinių kataliky­
+    bės tiesų ne vien todėl, kad karališko žodžio žmonės labiau
+    klausė, bet nebuvo kam lietuviškai aiškinti naujo tikėjimo. Jo­
     gaila šituo ar kuriuo kitu laiku išvertęs lietuvių k. „Tėve mū­
     sų“ ir „Tikiu Dievą“^2 ).
   citata_rodoma: ""
@@ -738,6 +741,6 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
 - [[laikotarpiai/XV amžius]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas]]
 - [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)]]
-- [[objektai/asmenys/Jogaila]]
