@@ -80,6 +80,11 @@ Vytautas šiame šaltinyje rodomas kaip savarankišku tapęs Lietuvos valdovas, 
     - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Vytautas buvo karo tarybos pirmininkas ir tikrasis Tanenbergo mūšio vadas.'
+  pagrindžia:
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-007
   teiginys: '1413 m. Vytautas kartu su Jogaila atvyko į Žemaičius ir pakrikštydino pirmuosius būrius.'
   pagrindžia:
@@ -90,6 +95,11 @@ Vytautas šiame šaltinyje rodomas kaip savarankišku tapęs Lietuvos valdovas, 
   teiginys: 'Lucko suvažiavime Vytautas buvo šeimininkas, o ten iškeltas jo karūnavimo Lietuvos karaliumi sumanymas.'
   pagrindžia:
     - c-009
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: 'Vytautas mirė 1430 m. spalio 27 d., turėdamas daugiau kaip 80 metų.'
+  pagrindžia:
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-010
@@ -119,13 +129,11 @@ Vytautas šiame šaltinyje rodomas kaip savarankišku tapęs Lietuvos valdovas, 
 - t-014
   teiginys: 'Vytautas aktyviai rūpinosi krikščionybės plėtra ir, šaltinio vertinimu, kaip Lietuvos krikščionintojas turėjo žymių nuopelnų greta Jogailos.'
   pagrindžia:
-    - c-015
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-015
   teiginys: 'Vytautas įsteigė ir aprūpino Medininkų vyskupiją bei organizavo eilę parapinių bažnyčių Lietuvoje.'
   pagrindžia:
-    - c-016
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-016
@@ -149,13 +157,11 @@ Vytautas šiame šaltinyje rodomas kaip savarankišku tapęs Lietuvos valdovas, 
 - t-019
   teiginys: 'Algirdo pasiektas Okos šaltinių valdas papildomai teužvaldė Vytautas, paimdamas Okos aukštupių kunigaikštijas.'
   pagrindžia:
-    - c-020
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-020
   teiginys: 'Per 1384-1404 m. Vytautas keturis kartus raštu pažadėjo ordinui Žemaičius ir tiek pat kartų juos vėl susigrąžino.'
   pagrindžia:
-    - c-021
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-021
@@ -177,9 +183,8 @@ Vytautas šiame šaltinyje rodomas kaip savarankišku tapęs Lietuvos valdovas, 
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-024
-  teiginys: 'Vytautui priskiriamas didelis švaistymasis materialinėmis gėrybėmis, ypač norint pasirodyti užsieniečiams.'
+  teiginys: 'Šaltinis Vytautui priskiria didelį švaistymąsi materialinėmis gėrybėmis, ypač norint pasirodyti užsieniečiams.'
   pagrindžia:
-    - c-025
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
@@ -357,41 +362,6 @@ Vytautas šiame šaltinyje rodomas kaip savarankišku tapęs Lietuvos valdovas, 
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-013
-- c-015
-  santrauka: Vytautas aktyviai rūpinosi krikščionybės plėtra ir buvo reikšmingas Lietuvos krikščionintojas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Supratęs krikščionybės naudą, Vytautas aktyviai rūpinosi ją
-    plėsti, ir kaip Lietuvos krikščionintojas, šalia Jogailos, turi jis žy­
-    mių, o gal ir žymesnių nuopelnų.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
-  pagrindžia:
-    - t-014
-- c-016
-  santrauka: Vytautas įsteigė ir aprūpino Medininkų vyskupiją bei organizavo parapines bažnyčias.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Supratęs krikščionybės naudą, Vytautas aktyviai rūpinosi ją
-    plėsti, ir kaip Lietuvos krikščionintojas, šalia Jogailos, turi jis žy­
-    mių, o gal ir žymesnių nuopelnų. Nusipelnė jis ne tik įsteigdamas
-
-
-    (^376) III skyrius: valstybės suklestėjimas
-    ir aprūpindamas Medininkų vyskupiją, bet taip pat organizuodamas
-    eilę parapinių bažnyčių Lietuvoje
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
-  pagrindžia:
-    - t-015
 - c-017
   santrauka: Vytautas gynė Lietuvos nepriklausomybę ir nepakentė jos žeminimo.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -437,37 +407,6 @@ Vytautas šiame šaltinyje rodomas kaip savarankišku tapęs Lietuvos valdovas, 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-018
-- c-020
-  santrauka: Vytautas susiejamas su Okos aukštupių kunigaikštijų užvaldymu.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Algirdo valdos jau pasiekė Okos šaltinius, bet pačias Okos aukštu­
-    pių kunigaikštijas (Kozielską, Karačevą, Novosilį ir kt.) teužvaldė
-    Vytautas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-019
-- c-021
-  santrauka: Išskiriami Vytauto pažadai dėl Žemaičių ir jų susigrąžinimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Per dvi­
-    dešimt metų (1384-1404) jis keturis kartus (1384, 1390, 1398, 1404)
-    ordinui raštu pažadėjo Žemaičius ir tiek pat kartų juos vėl greitai
-    susigrąžino.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-020
 - c-022
   santrauka: Salyno suvažiavimo puotoje Vytautas paskelbiamas Lietuvos karaliumi.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -528,21 +467,6 @@ Vytautas šiame šaltinyje rodomas kaip savarankišku tapęs Lietuvos valdovas, 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-023
-- c-025
-  santrauka: Vytautui priskiriamas išlaidumas ir noras pasirodyti užsieniečiams.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Šalia taupumo, Vytautui buvo
-    charakteringas didelis švaistymasis materialinėmis gėrybėmis, ypač
-    kai reikėdavo pasirodyti užsieniečiams.
-  citata_rodoma: ""
-  teiginio_tipas: vertinimas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-024
 
 ## Ryšiai
 ### Laikotarpiai

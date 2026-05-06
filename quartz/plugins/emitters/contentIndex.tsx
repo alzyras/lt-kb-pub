@@ -3,7 +3,14 @@ import { Root } from "hast"
 import { GlobalConfiguration } from "../../cfg"
 import { getDate } from "../../components/Date"
 import { escapeHTML } from "../../util/escape"
-import { FilePath, FullSlug, SimpleSlug, joinSegments, simplifySlug } from "../../util/path"
+import {
+  FilePath,
+  FullSlug,
+  SimpleSlug,
+  joinSegments,
+  simplifySlug,
+  stripSlashes,
+} from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 import { toHtml } from "hast-util-to-html"
 import { write } from "./helpers"
@@ -20,6 +27,7 @@ export type ContentDetails = {
   content: string
   richContent?: string
   date?: Date
+  modifiedDate?: Date
   description?: string
   citationFilterable?: boolean
   quoteCount?: number
@@ -74,16 +82,33 @@ function extractClaims(markdown: string): string[] {
   return claims
 }
 
-function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndexMap): string {
+function canonicalUrl(baseUrl: string, slug: SimpleSlug): string {
+  const normalizedBase = /^https?:\/\//.test(baseUrl) ? baseUrl : `https://${baseUrl}`
+  const base = new URL(normalizedBase)
+  if (!base.pathname.endsWith("/")) {
+    base.pathname = `${base.pathname}/`
+  }
+
+  return new URL(slug === "/" ? "" : stripSlashes(encodeURI(slug)), base).toString()
+}
+
+export function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndexMap): string {
   const base = cfg.baseUrl ?? ""
-  const createURLEntry = (slug: SimpleSlug, content: ContentDetails): string => `<url>
-    <loc>https://${joinSegments(base, encodeURI(slug))}</loc>
-    ${content.date && `<lastmod>${content.date.toISOString()}</lastmod>`}
+  const createURLEntry = (slug: SimpleSlug, content: ContentDetails): string => {
+    const lastmodDate = content.modifiedDate ?? content.date
+    const lastmod = lastmodDate ? `\n    <lastmod>${lastmodDate.toISOString()}</lastmod>` : ""
+    return `  <url>
+    <loc>${escapeHTML(canonicalUrl(base, slug))}</loc>${lastmod}
   </url>`
+  }
   const urls = Array.from(idx)
     .map(([slug, content]) => createURLEntry(simplifySlug(slug), content))
-    .join("")
-  return `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">${urls}</urlset>`
+    .join("\n")
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${urls}
+</urlset>
+`
 }
 
 function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndexMap, limit?: number): string {
@@ -142,9 +167,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
         const filePath = String(file.data.filePath ?? "")
         const markdownSource = filePath ? fs.readFileSync(filePath, "utf8") : ""
         const citationMetadata =
-          isObjectPage(relativePath) && filePath
-            ? collectCitationMetadata(markdownSource)
-            : null
+          isObjectPage(relativePath) && filePath ? collectCitationMetadata(markdownSource) : null
         const claims = extractClaims(markdownSource)
         if (opts?.includeEmptyFiles || (file.data.text && file.data.text !== "")) {
           linkIndex.set(slug, {
@@ -158,6 +181,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
               ? escapeHTML(toHtml(tree as Root, { allowDangerousHtml: true }))
               : undefined,
             date: date,
+            modifiedDate: file.data.dates?.modified,
             description: file.data.description ?? "",
             citationFilterable: Boolean(citationMetadata),
             quoteCount: citationMetadata?.quoteCount ?? 0,
@@ -194,6 +218,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
           // for the RSS feed
           delete content.description
           delete content.date
+          delete content.modifiedDate
           return [slug, content]
         }),
       )
