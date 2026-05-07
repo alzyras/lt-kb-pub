@@ -40,7 +40,7 @@ Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų
 ## Geografinis ir istorinis kontekstas
 - tipas: pilis
 - regionas:
-- susiję žmonės: [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)|Vytautas]]
+- susiję žmonės: [[objektai/asmenys/Vytautas|Vytautas]]
 - susiję įvykiai:
 - susijusios grupės:
 
@@ -94,5 +94,4 @@ Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų
 
 ### Susiję objektai
 - [[objektai/vietos/Lydos pilis]]
-- [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)]]
 - [[objektai/vietos/Ukmergė]]

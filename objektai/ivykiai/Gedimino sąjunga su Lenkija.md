@@ -161,5 +161,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas (Lietuvos valdovas, 1323 m.)]]
 - [[objektai/asmenys/Gediminas]]

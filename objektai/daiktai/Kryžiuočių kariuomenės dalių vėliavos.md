@@ -20,7 +20,7 @@ vaidmenys: []
 dalyviai:
   - Jogaila
 susije_irasai:
-  - [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)|Jogaila]]
+  - [[objektai/asmenys/Jogaila|Jogaila]]
 patikimumas: aukstas
 tags:
   - simbolis
@@ -28,7 +28,7 @@ tags:
 # Kryžiuočių kariuomenės dalių vėliavos
 
 ## Santrauka
-Kryžiuočių kariuomenės dalių vėliavos po Tanenbergo mūšio pateko lietuviams ir lenkams, o [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)|Jogaila]] jas nugabeno į Krokuvą. Vėliau rinkinys buvo papildytas dar penkiomis vėliavomis, tačiau pats rinkinys žuvo ir iš jo liko tik XV a. pabaigos piešiniai.
+Kryžiuočių kariuomenės dalių vėliavos po Tanenbergo mūšio pateko lietuviams ir lenkams, o [[objektai/asmenys/Jogaila|Jogaila]] jas nugabeno į Krokuvą. Vėliau rinkinys buvo papildytas dar penkiomis vėliavomis, tačiau pats rinkinys žuvo ir iš jo liko tik XV a. pabaigos piešiniai.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -43,7 +43,7 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
 Šaltinyje vėliavos minimos kaip karo grobis ir vėlesnio istorinės atminties rinkinio objektas.
 
 ## Kontekstas
-- Susijęs asmuo: [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)|Jogaila]]
+- Susijęs asmuo: [[objektai/asmenys/Jogaila|Jogaila]]
 
 ## Teiginiai
 - t-001
@@ -121,6 +121,3 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
 
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)]]

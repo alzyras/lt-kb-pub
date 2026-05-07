@@ -406,5 +406,4 @@ Nenurodyta
 - [[laikotarpiai/XV amžius]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)]]
 - [[objektai/asmenys/Vytautas]]

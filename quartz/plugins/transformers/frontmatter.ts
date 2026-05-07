@@ -100,7 +100,7 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
 
             const socialImage = coalesceAliases(data, ["socialImage", "image", "cover"])
 
-            const created = coalesceAliases(data, ["created", "date"])
+            const created = coalesceAliases(data, ["created", "date", "sukurta"])
             if (created) {
               data.created = created
             }
@@ -110,9 +110,15 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
               "lastmod",
               "updated",
               "last-modified",
+              "atnaujinta",
             ])
             if (modified) data.modified = modified
-            data.modified ||= created // if modified is not set, use created
+
+            // Preserve Quartz's default `date` fallback, but don't let the Lithuanian
+            // creation timestamp hide the actual git/filesystem modified date.
+            if (!modified && created && data.sukurta === undefined) {
+              data.modified = created
+            }
 
             const published = coalesceAliases(data, ["published", "publishDate", "date"])
             if (published) data.published = published
@@ -152,8 +158,8 @@ declare module "vfile" {
         cssclasses: string[]
         socialImage: string
         comments: boolean | string
-      }>
-      & Partial<{
+      }> &
+      Partial<{
         citatu_skaicius: number
         citatu_saltiniai: string[]
         citatu_saltiniu_id: string[]

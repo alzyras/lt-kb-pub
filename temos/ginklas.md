@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 29.
+Objektų skaičius: 28.
 
 ## Kaip naudoti
 
@@ -20,7 +20,6 @@ Objektų skaičius: 29.
 
 ### Asmenys
 - [[objektai/asmenys/A. Mackevičius]]
-- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Karolis Pilypas]]
 - [[objektai/asmenys/Liubomirskis]]
 
@@ -54,7 +53,7 @@ Objektų skaičius: 29.
 - [[objektai/vietos/Šiauliai]]
 
 ### Įvykiai
-- [Kalavijuočių ordino įkūrimas](../objektai/ivykiai/Kalavijuo%C4%8Di%C5%B3%20ordino%20%C4%AFk%C5%ABrimas)
+- [[objektai/ivykiai/Kalavijuočių ordino įkūrimas]]
 - [Klaipėdos krašto prisijungimas prie Lietuvos (1923–1924 m.)](../objektai/ivykiai/Klaip%C4%97dos%20kra%C5%A1to%20prisijungimas%20prie%20Lietuvos%20%281923%E2%80%931924%20m.%29)
 - [Paskutinės Kęstučio kovos ir mirtis](../objektai/ivykiai/Paskutin%C4%97s%20K%C4%99stu%C4%8Dio%20kovos%20ir%20mirtis)
 - [Sukilimo numalšinimas Lietuvoje (1831 m. rudenį)](../objektai/ivykiai/Sukilimo%20numal%C5%A1inimas%20Lietuvoje%20%281831%20m.%20ruden%C4%AF%29)

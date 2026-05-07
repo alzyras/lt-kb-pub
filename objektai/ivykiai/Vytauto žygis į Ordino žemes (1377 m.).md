@@ -144,4 +144,3 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
 - [[objektai/asmenys/Algirdas]]
 - [[objektai/asmenys/Kęstutis]]
 - [[objektai/asmenys/Vytautas]]
-- [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)]]

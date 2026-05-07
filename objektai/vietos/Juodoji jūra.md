@@ -37,7 +37,6 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 - t-001
   teiginys: 'Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, tolimi vakarinės Azijos kraštai ir Viduržemio pajūris.'
   pagrindžia:
-    - c-008
     - c-001
 
 - t-002
@@ -177,6 +176,18 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
+- c-008
+  santrauka: Juodoji jūra papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    vėl pagrįžo lietuvių, kaip pirm 300 metų buvo
+    buvęs; todėl prekyba per Žemaičių jūrą pasididino: kaipogi leido tenai linus, javus, kanapes, kailius,
+    mėsą, sviestą, medų, vašką, gintarus, apynius, pelenus ir laivams medžiagą į Anglų ir Olanderių žemę,
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
 ## Pavadinimai šaltiniuose
 
 - Juodoji jūra
@@ -194,20 +205,6 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 ## Laikotarpis ir datos
 - datos: 1320 m., 1561 m.
 - tipas: jūra / marių baseinas; jūra
-- c-008
-  santrauka: Juodoji jūra papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    vėl pagrįžo lietuvių, kaip pirm 300 metų buvo
-    buvęs; todėl prekyba per Žemaičių jūrą pasididino: kaipogi leido tenai linus, javus, kanapes, kailius,
-    mėsą, sviestą, medų, vašką, gintarus, apynius, pelenus ir laivams medžiagą į Anglų ir Olanderių žemę,
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
 ### Laikotarpiai

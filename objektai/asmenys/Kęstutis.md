@@ -7,14 +7,19 @@ variantai:
   - 'Kęstučiui'
   - 'Kęstutį'
   - 'Kiejstut'
-aliases: []
+  - 'LDK Kęstutis'
+  - 'Kęstutis'
+aliases:
+  - 'Kęstutis (vakarų pasienio valdovas, 1361 m.)'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: 'XIV a.; 1361 m.; 1382 m.'
 datos:
   - '1361 m.'
   - '1382 m.'
+  - '1377 m.'
 periodas: ''
 periodo_grupes: []
 amziai:
@@ -31,7 +36,6 @@ tags:
   - asmuo
 ---
 # Kęstutis
-
 ## Santrauka
 
 Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis Lietuvos gynėjas nuo kryžiuočių. Jis siejamas su Trakų pilimi, kovomis su ordinu, derybomis dėl krikšto, herojiškais pagoniškojo patriotizmo laikais, Jogailos pergale prieš jį ir nužudymu Krėvoje.
@@ -118,6 +122,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   pagrindžia:
     - c-013
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+- t-014
+  teiginys: 'Manoma, kad Trakų pusiasalio pilį Kęstutis pastatė iki 1377 m.'
+  pagrindžia:
+    - c-015
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -356,6 +367,19 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-011
+- c-015
+  santrauka: Kęstučiui priskiriama Trakų pusiasalio pilies statyba.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Manoma, kad pilį pastatė LDK Kęstutis iki 1377 m.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-014
 
 ## Ryšiai
 ### Laikotarpiai
@@ -364,4 +388,3 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas]]
 - [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Kęstutis (vakarų pasienio valdovas, 1361 m.)]]

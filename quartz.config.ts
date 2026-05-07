@@ -44,7 +44,7 @@ const config: QuartzConfig = {
       "tyrimai/auditai",
       "tyrimai/auditai/**",
     ],
-    defaultDateType: "modified",
+    defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -92,7 +92,7 @@ const config: QuartzConfig = {
       Plugin.CitationFilterMetadata(),
       Plugin.AdvancedEvidence(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "filesystem"],
+        priority: ["frontmatter", "git", "filesystem"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {

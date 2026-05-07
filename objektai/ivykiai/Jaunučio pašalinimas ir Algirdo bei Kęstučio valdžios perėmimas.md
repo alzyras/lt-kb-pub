@@ -53,3 +53,7 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/valdovas]]
+
+### Susiję objektai
+- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Jaunutis]]

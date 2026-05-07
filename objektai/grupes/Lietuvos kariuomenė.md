@@ -307,4 +307,3 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 - [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/asmenys/Algirdas]]
-- [[objektai/asmenys/Algirdas (Lietuvos valdovas, 1345 m.)]]

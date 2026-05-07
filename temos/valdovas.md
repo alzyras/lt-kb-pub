@@ -22,7 +22,7 @@ Objektų skaičius: 49.
 - [[objektai/asmenys/Albertas (Rygos vyskupas)]]
 - [[objektai/asmenys/Augustas II]]
 - [[objektai/asmenys/Barbora]]
-- [[objektai/asmenys/Gediminas (Lietuvos valdovas, 1323 m.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Jaunutis]]
 - [[objektai/asmenys/Jonas IV Žiaurusis]]
 - [[objektai/asmenys/Kazimieras Jogailaitis]]

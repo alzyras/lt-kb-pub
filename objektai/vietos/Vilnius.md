@@ -326,7 +326,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas (Lietuvos valdovas, 1323 m.)]]
 - [[objektai/vietos/Kremlius]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Radomas]]
