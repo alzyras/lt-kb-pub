@@ -73,6 +73,3 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Gediminas (Lietuvos valdovas, 1323 m.)]]

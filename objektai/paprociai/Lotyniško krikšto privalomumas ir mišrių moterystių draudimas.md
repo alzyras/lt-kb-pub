@@ -109,4 +109,3 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)]]

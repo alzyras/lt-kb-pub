@@ -7,14 +7,18 @@ variantai:
   - 'Gediminui'
   - 'Gedyminą'
   - 'Gedimins'
-aliases: []
+  - 'Gediminas'
+aliases:
+  - 'Gediminas (Lietuvos valdovas, 1323 m.)'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: 'XIV a.; 1323 m.; apie 1341 m.'
 datos:
   - '1323 m.'
   - 'apie 1341 m.'
+  - '1316 m.'
 periodas: ''
 periodo_grupes: []
 amziai:
@@ -27,15 +31,13 @@ dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
 tags:
-  - asmuo
   - diplomatas
-  - ginklas
+  - valdovas
 ---
 # Gediminas
-
 ## Santrauka
 
-Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdovas, plėtęs valstybę į rytus ir palaikęs ryšius su Europa. Jis siejamas su laiškais popiežiui ir Europos miestams, Vilniaus įtvirtinimu sostine, Aukštaičių karaliaus vardu, rytinių rusų ir kitų baltų žemių jungimu bei religine pakanta.
+Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdovas, plėtęs valstybę į rytus ir palaikęs ryšius su Europa. Su juo siejami laiškai popiežiui ir Europos miestams, Vilniaus įtvirtinimas sostine, Aukštaičių karaliaus vardas, rytinių rusų ir kitų baltų žemių jungimas bei religinė pakanta.
 
 ## Vaidmenys
 - Lietuvos valdovas
@@ -92,11 +94,13 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - t-009
   teiginys: '1324 m. Gediminas Vilniuje derėjosi su Volgos totorių chanu Uzbeku.'
   pagrindžia:
+    - c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-010
   teiginys: 'Matydamas užtruksiančią kovą su kryžiuočiais, Gediminas susirado talkininką Lenkijos Vladislovo Lokietkos asmenyje.'
   pagrindžia:
+    - c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-011
@@ -108,15 +112,19 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - t-012
   teiginys: 'Gedimino laikai šaltinyje siejami su herojišku pagonišku patriotizmu ir didžiausiu kryžiuočių spaudimu.'
   pagrindžia:
+    - c-011
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-013
   teiginys: 'Kryžiuočiai Gediminą vadino Aukštaičių karaliumi.'
   pagrindžia:
+    - c-012
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-014
   teiginys: 'Šaltinis Gediminą apibūdina ne tik kariu, bet ir valstybininku, veikusiu diplomatija.'
+  ankstesnes_formuluotes:
+    - 'Gediminas apibūdinamas ne tik kariu, bet ir valstybininku, veikusiu diplomatija.'
   pagrindžia:
     - c-013
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -136,7 +144,39 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - t-017
   teiginys: 'Anų laikų akimis Gedimino religinis pakantrumas buvo nuostabus.'
   pagrindžia:
+    - c-016
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+- t-018
+  teiginys: '1316 m. pradėjęs valdyti Lietuvą Gediminas turėjo atlaikyti suintensyvėjusį kryžiuočių puolimą.'
+  pagrindžia:
+    - c-021
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-019
+  teiginys: 'Kovoje su kryžiuočiais Gediminas pasitelkė ne tik karines, bet ir informacines priemones, laiškais gerindamas Lietuvos įvaizdį ir mažindamas Vakarų Europos paramą kryžiuočiams.'
+  pagrindžia:
+    - c-021
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-020
+  teiginys: 'Gediminas pradėjo derinti karo veiksmus prieš kryžiuočius su Lenkija.'
+  pagrindžia:
+    - c-021
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-021
+  teiginys: 'Prie Juodosios Rusios ir Polocko Gediminas prijungė Haličo-Voluinės, Vitebsko ir Kijevo žemes.'
+  pagrindžia:
+    - c-022
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-022
+  teiginys: 'Gedimino laikais Lietuva tapo didvalstybe, joje išplėtotas mūrinių pilių tinklas ir susiformavo nuolatinių karo tarnybininkų sluoksnis.'
+  pagrindžia:
+    - c-022
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -248,7 +288,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     Nuo didžiojo Lietuvos valstybės atnaujintojo Gedimino laikų
     varžybinis sąlytis su rytų slavais, kurių žemių žymi dalis pateko
     į Lietuvos sudėtį, darėsi vis reikšmingesnis.
-  citata_rodoma: ""
+  citata_rodoma: "Nuo didžiojo Lietuvos valstybės atnaujintojo Gedimino laikų varžybinis sąlytis su rytų slavais, kurių žemių žymi dalis pateko į Lietuvos sudėtį, darėsi vis reikšmingesnis."
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
@@ -256,14 +296,43 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-008
+- c-008
+  santrauka: Gediminas 1324 m. Vilniuje derėjosi su totoriais.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Yra
+    žinoma, kad Gediminas turėjo su Volgos totorių chanu Uzbeku rimtai skaitytis.
+    1324 m. jis derėjosi su totoriais savo naujoje sostinėje Vilniuje.
+  citata_rodoma: "Yra žinoma, kad Gediminas turėjo su Volgos totorių chanu Uzbeku rimtai skaitytis. 1324 m. jis derėjosi su totoriais savo naujoje sostinėje Vilniuje."
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-009
+- c-009
+  santrauka: Gediminas susirado talkininką Lenkijos Vladislovo Lokietkos asmenyje.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Matydamas, kad kova su kryžiuočiais užtruks, Gediminas tuo
+    tarpu surado talkininką Lenkijos Vladislovo Lokietkos asmenyje.
+  citata_rodoma: "Matydamas, kad kova su kryžiuočiais užtruks, Gediminas tuo tarpu surado talkininką Lenkijos Vladislovo Lokietkos asmenyje."
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-010
 - c-010
   santrauka: Gediminas iki gyvenimo galo liko pagonis ir palaikė atskirą arkivyskupiją Naugarduke.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Nuo didžiojo Lietuvos valstybės atnaujintojo Gedimino laikų
-    varžybinis sąlytis su rytų slavais, kurių žemių žymi dalis pateko
-    į Lietuvos sudėtį, darėsi vis reikšmingesnis.
-  citata_rodoma: ""
+    Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne
+    tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke
+    Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.
+  citata_rodoma: "Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją."
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
@@ -271,13 +340,45 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-011
+- c-011
+  santrauka: Gedimino laikai susiejami su didžiausiu kryžiuočių spaudimu.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Herojiškais Gedimino ir Kęstučio pagoniškojo patriotizmo
+    laikais vyko pats didžiausias kryžiuočių spaudimas, kuris teikė
+    lietuviams ir skaudžių nuostolių (1336 m. Pilėnai, 1348 m. Strėva,
+    1362 m. Kauno išgriovimas, 1370 m. Rudava, 1391 m. Vilniaus
+    apgulimas).
+  citata_rodoma: "Herojiškais Gedimino ir Kęstučio pagoniškojo patriotizmo laikais vyko pats didžiausias kryžiuočių spaudimas, kuris teikė lietuviams ir skaudžių nuostolių (1336 m. Pilėnai, 1348 m. Strėva, 1362 m. Kauno išgriovimas, 1370 m. Rudava, 1391 m. Vilniaus apgulimas)."
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-012
+- c-012
+  santrauka: Kryžiuočių vartosenoje Gediminas vadinamas Aukštaičių karaliumi.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kry­
+    žiuočiai Gediminą yra pavadinę Aukštaičių karaliumi («rex de
+    Owsteiten »)^17.
+  citata_rodoma: "Kryžiuočiai Gediminą yra pavadinę Aukštaičių karaliumi («rex de Owsteiten »)."
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-013
 - c-013
   santrauka: Gediminas apibūdinamas ir kariu, ir diplomatišku valstybininku.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Gediminas buvo ne tik karys, bet ir valstybininkas. Šalia
     kardo jis veikė ir diplomatija.
-  citata_rodoma: ""
+  citata_rodoma: "Gediminas buvo ne tik karys, bet ir valstybininkas. Šalia kardo jis veikė ir diplomatija."
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
@@ -291,7 +392,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   citata_originali: |
     Gediminas išgarsėjo kaip sėkmingas rytinių rusų žemių jungė­
     jas prie Lietuvos.
-  citata_rodoma: ""
+  citata_rodoma: "Gediminas išgarsėjo kaip sėkmingas rytinių rusų žemių jungėjas prie Lietuvos."
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
@@ -305,7 +406,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   citata_originali: |
     Gediminas vėl, kaip ir Traidenis, jungė kitų baltų žemes į savo
     valstybę, paimdamas taip pat dalį Jotvingos.
-  citata_rodoma: ""
+  citata_rodoma: "Gediminas vėl, kaip ir Traidenis, jungė kitų baltų žemes į savo valstybę, paimdamas taip pat dalį Jotvingos."
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
@@ -313,11 +414,124 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-016
+- c-016
+  santrauka: Gedimino religinis pakantrumas pabrėžiamas kaip neįprastas aniems laikams.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Aniems laikams Gedimino religinis pakantrumas buvo nuosta­
+    bus.
+  citata_rodoma: "Aniems laikams Gedimino religinis pakantrumas buvo nuostabus."
+  teiginio_tipas: vertinimas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-017
+- c-017
+  santrauka: Gediminas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Laiškų pagrindinė
+    mintis buvo ta, jog Gediminas, pripažindamas popiežiaus autori­
+    tetą, žadėjo krikštytis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-004
+- c-018
+  santrauka: Gediminas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Gedimino palaikomi ryšiai su Ryga ir arkivyskupu galėjo Lie­
+    tuvai būti posūkiu, priimant krikštą iš Rygos, juo labiau, kad
+    plėsdami su Lietuva naudingus prekybinius santykius, rygiečiai
+    butų nusiplovę priekaištą, kad jie turi bendrų reikalų su nekrikš­
+    tais.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-004
+- c-019
+  santrauka: Gediminas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Gediminas ir jo sūnus Algirdas rytuose daugiausia turėjo
+    pasisekimo. Tvirtindamasis vis tolyn plotuose į rytus nuo Aukš­
+    taičiu, Gediminas užėmė sritis apie Drucką ir Minsko kunigaikš­
+    tiją.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-007
+- c-020
+  santrauka: Gediminas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jau 1317 m. Gediminas iš popiežiaus Jono XXII buvo gavęs
+    raginimą krikštytis10 11.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-004
+- c-021
+  santrauka: Gediminas apibūdinamas kaip valdovas, kovą su kryžiuočiais jungęs su informacine ir diplomatine veikla.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1316 m. pradėjęs Lietuvą valdyti Gediminas turėjo atlaikyti su-
+    intensyvėjusį kryžiuočių puolimą. Šiam tikslui jis pasitelkė ne
+    tik karines, bet ir informacines priemones, savo laiškais popie-
+    žiui ir vakarų visuomenei gerindamas Lietuvos įvaizdį ir taip
+    sumažindamas Vakarų Europos krikščionių teikiamą paramą
+    kryžiuočiams. Gediminas pradėjo derinti karo veiksmus prieš
+    kryžiuočius su Lenkija.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-018
+    - t-019
+    - t-020
+- c-022
+  santrauka: Gedimino plėtra ir valstybės stiprėjimas siejami su naujomis rytinėmis žemėmis bei karo tarnybos sluoksnio formavimusi.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Prie jau anksčiau lietuvių užvaldytų
+    Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas
+    pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.
+    Lietuva tapo didvalstybe - regiono lydere. Gedimino laikais Lie-
+    tuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuo-
+    latinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji
+    žmonės - kariai, galintys bet kada stoti į tarnybą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-021
+    - t-022
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/diplomatas]]
-- [[temos/ginklas]]
+- [[temos/valdovas]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
@@ -325,5 +539,4 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 ### Susiję objektai
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
 - [[objektai/asmenys/Kęstutis]]
-- [[objektai/asmenys/Gediminas (Lietuvos valdovas, 1323 m.)]]
 - [[objektai/vietos/Vilnius]]

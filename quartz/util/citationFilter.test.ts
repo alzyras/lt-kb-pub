@@ -3,7 +3,12 @@ import assert from "node:assert"
 import fs from "node:fs"
 import os from "node:os"
 import path from "node:path"
-import { collectCitationMetadata, normalizeCitationSourceId } from "./citationFilter"
+import {
+  CITATION_SECTION_TITLES,
+  collectCitationMetadata,
+  normalizeCitationSourceId,
+  parseEvidenceSections,
+} from "./citationFilter"
 import { buildCitationSourceRegistry } from "../plugins/emitters/citationSources"
 import { defaultProcessedContent } from "../plugins/vfile"
 import type { FilePath, FullSlug } from "./path"
@@ -33,6 +38,16 @@ title: Test Object
     Trečia citata.
 `
 
+function listMarkdownFiles(dir: string): string[] {
+  return fs.readdirSync(dir, { withFileTypes: true }).flatMap((entry) => {
+    const entryPath = path.join(dir, entry.name)
+    if (entry.isDirectory()) {
+      return listMarkdownFiles(entryPath)
+    }
+    return entry.isFile() && entry.name.endsWith(".md") ? [entryPath] : []
+  })
+}
+
 describe("citationFilter metadata", () => {
   test("collects citation counts and source ids from evidence sections", () => {
     const metadata = collectCitationMetadata(markdown)
@@ -43,7 +58,9 @@ describe("citationFilter metadata", () => {
     ])
     assert.deepEqual(metadata.sourceIds, [
       normalizeCitationSourceId("A. Šapoka (red.), Lietuvos istorija (1936 m.)"),
-      normalizeCitationSourceId("Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"),
+      normalizeCitationSourceId(
+        "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)",
+      ),
     ])
     assert.deepEqual(
       metadata.sources.map((source) => ({ id: source.id, count: source.count })),
@@ -53,7 +70,9 @@ describe("citationFilter metadata", () => {
           count: 2,
         },
         {
-          id: normalizeCitationSourceId("Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"),
+          id: normalizeCitationSourceId(
+            "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)",
+          ),
           count: 1,
         },
       ],
@@ -86,15 +105,112 @@ describe("citationFilter metadata", () => {
       "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)",
     )
 
-    assert.deepEqual(registry.find((entry) => entry.id === sapokaId), {
-      id: sapokaId,
-      title: "A. Šapoka (red.), Lietuvos istorija (1936 m.)",
-      count: 4,
-    })
-    assert.deepEqual(registry.find((entry) => entry.id === ivinskisId), {
-      id: ivinskisId,
-      title: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)",
-      count: 2,
-    })
+    assert.deepEqual(
+      registry.find((entry) => entry.id === sapokaId),
+      {
+        id: sapokaId,
+        title: "A. Šapoka (red.), Lietuvos istorija (1936 m.)",
+        count: 4,
+      },
+    )
+    assert.deepEqual(
+      registry.find((entry) => entry.id === ivinskisId),
+      {
+        id: ivinskisId,
+        title: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)",
+        count: 2,
+      },
+    )
+  })
+
+  test("keeps Vytautas citations and evidence links intact", () => {
+    const vytautasPath = path.resolve("objektai/asmenys/Vytautas.md")
+    const vytautasMarkdown = fs.readFileSync(vytautasPath, "utf8")
+    const sections = parseEvidenceSections(vytautasMarkdown)
+    const claims = sections.get("Teiginiai") ?? []
+    const citations = [...sections.entries()]
+      .filter(([title]) => CITATION_SECTION_TITLES.has(title))
+      .flatMap(([, entries]) => entries)
+      .filter((entry) => entry.id.startsWith("c-"))
+    const claimIds = new Set(claims.map((entry) => entry.id))
+    const citationIds = new Set(citations.map((entry) => entry.id))
+    const originalQuoteBlockCount = vytautasMarkdown.match(/^\s*citata_originali:/gm)?.length ?? 0
+
+    assert.ok(
+      citations.length >= 40,
+      `Expected at least 40 Vytautas citations, got ${citations.length}`,
+    )
+    assert.ok(
+      originalQuoteBlockCount >= 40,
+      `Expected at least 40 Vytautas original quote blocks, got ${originalQuoteBlockCount}`,
+    )
+
+    for (const claim of claims) {
+      const supports = claim.lists.get("pagrindžia") ?? []
+      if (claim.fields.get("statusas") === "patvirtinta") {
+        assert.notEqual(
+          supports.length,
+          0,
+          `Confirmed claim ${claim.id} has no supporting citations`,
+        )
+      }
+      for (const citationId of supports) {
+        assert.ok(
+          citationIds.has(citationId),
+          `Claim ${claim.id} points to missing citation ${citationId}`,
+        )
+      }
+    }
+
+    for (const citation of citations) {
+      for (const claimId of citation.lists.get("pagrindžia") ?? []) {
+        assert.ok(
+          claimIds.has(claimId),
+          `Citation ${citation.id} points to missing claim ${claimId}`,
+        )
+      }
+    }
+  })
+
+  test("keeps object evidence links internally consistent", () => {
+    const objectFiles = listMarkdownFiles(path.resolve("objektai"))
+
+    for (const filePath of objectFiles) {
+      const objectMarkdown = fs.readFileSync(filePath, "utf8")
+      const sections = parseEvidenceSections(objectMarkdown)
+      const claims = sections.get("Teiginiai") ?? []
+      const citations = [...sections.entries()]
+        .filter(([title]) => CITATION_SECTION_TITLES.has(title))
+        .flatMap(([, entries]) => entries)
+        .filter((entry) => entry.id.startsWith("c-"))
+      const claimIds = new Set(claims.map((entry) => entry.id))
+      const citationIds = new Set(citations.map((entry) => entry.id))
+
+      for (const claim of claims) {
+        const supports = claim.lists.get("pagrindžia") ?? []
+        if (claim.fields.get("statusas") === "patvirtinta") {
+          assert.notEqual(
+            supports.length,
+            0,
+            `${path.relative(process.cwd(), filePath)}: confirmed claim ${claim.id} has no supporting citations`,
+          )
+        }
+        for (const citationId of supports) {
+          assert.ok(
+            citationIds.has(citationId),
+            `${path.relative(process.cwd(), filePath)}: claim ${claim.id} points to missing citation ${citationId}`,
+          )
+        }
+      }
+
+      for (const citation of citations) {
+        for (const claimId of citation.lists.get("pagrindžia") ?? []) {
+          assert.ok(
+            claimIds.has(claimId),
+            `${path.relative(process.cwd(), filePath)}: citation ${citation.id} points to missing claim ${claimId}`,
+          )
+        }
+      }
+    }
   })
 })

@@ -108,7 +108,3 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)]]
-- [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)]]

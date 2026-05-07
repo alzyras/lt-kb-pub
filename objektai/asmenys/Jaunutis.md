@@ -93,3 +93,7 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/valdovas]]
+
+### Susiję objektai
+- [[objektai/asmenys/Algirdas]]
+- [[objektai/ivykiai/Jaunučio pašalinimas ir Algirdo bei Kęstučio valdžios perėmimas]]

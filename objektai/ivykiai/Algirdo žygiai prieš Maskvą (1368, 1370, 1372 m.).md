@@ -172,7 +172,3 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Algirdas (Lietuvos valdovas, 1345 m.)]]
-- [[objektai/asmenys/Kęstutis (vakarų pasienio valdovas, 1361 m.)]]

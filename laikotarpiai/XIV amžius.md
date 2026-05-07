@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 73.
+Objektų skaičius: 68.
 
 ## Kaip naudoti
 
@@ -20,18 +20,13 @@ Objektų skaičius: 73.
 
 ### Asmenys
 - [[objektai/asmenys/Algirdas]]
-- [[objektai/asmenys/Algirdas (Lietuvos valdovas, 1345 m.)]]
 - [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Gediminas (Lietuvos valdovas, 1323 m.)]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)]]
 - [[objektai/asmenys/Karolis IV]]
 - [[objektai/asmenys/Kęstutis]]
-- [[objektai/asmenys/Kęstutis (vakarų pasienio valdovas, 1361 m.)]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Vytautas]]
-- [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)]]
 - [[objektai/asmenys/Švitrigaila]]
 
 ### Daiktai
@@ -50,13 +45,13 @@ Objektų skaičius: 73.
 - [[objektai/paprociai/Gedimino religinio pakantumo norma]]
 - [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas]]
 - [[objektai/paprociai/Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais]]
-- [Įkaitų davimas kaip sutarties garantija](../objektai/paprociai/%C4%AEkait%C5%B3%20davimas%20kaip%20sutarties%20garantija)
-- [Žemaičių paklusnumas ir ištikimybės priesaikos Ordinui](../objektai/paprociai/%C5%BDemai%C4%8Di%C5%B3%20paklusnumas%20ir%20i%C5%A1tikimyb%C4%97s%20priesaikos%20Ordinui)
+- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija]]
+- [[objektai/paprociai/Žemaičių paklusnumas ir ištikimybės priesaikos Ordinui]]
 
 ### Posakiai
-- [Aš tave pasodinsiu Auksinėj Ordoj...](../objektai/posakiai/A%C5%A1%20tave%20pasodinsiu%20Auksin%C4%97j%20Ordoj...)
-- [Bemeilijo žūti ugny, negu pasiduoti vokiečiams](../objektai/posakiai/Bemeilijo%20%C5%BE%C5%ABti%20ugny%2C%20negu%20pasiduoti%20vokie%C4%8Diams)
-- [Saugokis manęs, kaip ir aš tavęs saugaus](../objektai/posakiai/Saugokis%20man%C4%99s%2C%20kaip%20ir%20a%C5%A1%20tav%C4%99s%20saugaus)
+- [[objektai/posakiai/Aš tave pasodinsiu Auksinėj Ordoj...]]
+- [[objektai/posakiai/Bemeilijo žūti ugny, negu pasiduoti vokiečiams]]
+- [[objektai/posakiai/Saugokis manęs, kaip ir aš tavęs saugaus]]
 - [savo užantyje maitinti gyvatę](../objektai/posakiai/savo%20u%C5%BEantyje%20maitinti%20gyvat%C4%99)
 
 ### Vietos

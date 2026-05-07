@@ -123,7 +123,7 @@ tags: []
 - kategorija: asmuo
 - kandidatas: Vytautas Didysis
 - potencialus_teiginys: Vytautas pristatomas kaip žymiausias dinastijos atstovas, Kęstučio ir Birutės sūnus, gimęs apie 1350 m.
-- public_note: objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.).md
+- public_note: objektai/asmenys/Vytautas.md
 - saltinis: Vytautas Didysis 1350-1430 (1930 m.)
 - vieta_saltinyje: chunk_0001; match: exact
 - santrauka: Tiesioginė tapatybės ir datavimo citata pagrindiniam leidinio veikėjui.
@@ -143,7 +143,7 @@ tags: []
 - kategorija: asmuo
 - kandidatas: Vytautas Didysis
 - potencialus_teiginys: Vytautas aprašomas kaip neaukšto ūgio, energingas, pasitikintis savimi ir labai darbštus valdovas.
-- public_note: objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.).md
+- public_note: objektai/asmenys/Vytautas.md
 - saltinis: Vytautas Didysis 1350-1430 (1930 m.)
 - vieta_saltinyje: chunk_0016; match: exact
 - santrauka: Aukšto signalo charakteristikos citata apie išvaizdą, laikyseną ir darbo būdą.

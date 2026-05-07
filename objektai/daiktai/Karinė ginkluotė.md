@@ -375,4 +375,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Druska]]
 - [[objektai/daiktai/Vilnonės medžiagos]]
-- [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)]]
+- [[objektai/asmenys/Vytautas]]
