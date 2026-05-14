@@ -34,7 +34,9 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
   santrauka: 'Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo valstybės nuosavybe, o ūkininkai – žemės naudotojais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priė-
     mė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo
+    valstybės nuosavybe, o ūkininkai – žemės naudotojais.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,7 +48,10 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
   santrauka: 'Kadangi okupantų paskirtas Liaudies seimas neturėjo lietuvių tautos ir visų šalies gyventojų įgaliojimų panaikinti Lietuvos valstybingumą ir prašytis į SSRS, jo nutarimai buvo neteisėti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kadangi okupantų paskirtas
     Liaudies seimas neturėjo lietuvių tautos ir visų šalies gyventojų įgaliojimų
+    panaikinti Lietuvos valstybingumą ir prašytis į SSRS, jo nutarimai buvo ne-
+    teisėti.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

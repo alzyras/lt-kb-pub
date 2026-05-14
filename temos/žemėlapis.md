@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 13.
+Objektų skaičius: 11.
 
 ## Kaip naudoti
 
@@ -28,10 +28,8 @@ Objektų skaičius: 13.
 - [[objektai/autoriai/Zenonas Butkus]]
 
 ### Daiktai
-- [[objektai/daiktai/Lenkijos ir Lietuvos Valstybės žemėlapis]]
 - [[objektai/daiktai/Lietuviškas žemėlapis]]
 - [[objektai/daiktai/Žemėlapio fragmentas su „Tėve mūsų“ eilutėmis]]
-- [[objektai/daiktai/Žemėlapis „Lituania Propria“]]
 
 ### Posakiai
 - [[objektai/posakiai/„Lithuania Propria“]]

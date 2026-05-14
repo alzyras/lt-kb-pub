@@ -80,7 +80,10 @@ Kremlius čia aprašomas kaip tvirtovė, susieta su Maskvos valdžios centru.
   santrauka: 'Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Rem-
+    damas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmeny-
     bę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą,
+    tačiau Kremliaus užimti nepajėgė.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -100,3 +103,4 @@ Kremlius čia aprašomas kaip tvirtovė, susieta su Maskvos valdžios centru.
 ### Susiję objektai
 - [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Tverė]]

@@ -53,6 +53,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
     Todėl, nenorėdamas skriausti savo artimiausiojo
     bendradarbio, Jogaila prašė Vytautą laikinai pasitenkinti pieti-
     nėmis Kęstučio srities žemėmis — Gardino ir Brastos sritimis —
+    ir pridedama Voluinės sritimi su Lucku.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -64,11 +65,17 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   santrauka: 'Radvila Juodasis įkūrė Brastoje spaustuvę, kur buvo spausdinamos lenkiškos protestantų knygos ir buvo lenkiškai išspausdinta Biblija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jie kvietėsi į Lietuvą lenkų protestantų pamoksli-
+    Visas jų gyvenimas buvo
+    susijęs su Lenkija, kur tuo pat metu irgi buvo labai paplitęs pro-
+    testantizmas; todėl, platindami naująjį mokslą, jie neužmezgė
+    jokių ryšių su Mažosios Lietuvos protestantais, bet ėjo išvien
+    su lenkais. Jie kvietėsi į Lietuvą lenkų protestantų pamoksli-
     ninkų, ir visos pamaldos iš pradžių buvo atliekamos vien len-
     kiškai. Patsai M. Radvila Juodasis įkūrė Brastoje spaustuvę,
     kur buvo spausdinamos lenkiškos protestantų knygos ir buvo
     lenkiškai išspausdinta Biblija. Lietuviškai protestantizmas tebuvo
+    skelbiamas žmonių, atėjusių iš Mažosios Lietuvos; bet tas judė-
+    jimas buvo labai silpnas ir trumpas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -95,6 +102,9 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius,
+    Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-
+    se LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje
+    (Melnikas, gal Brasta) ir net Voluinėje (Luckas).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -120,7 +130,10 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   santrauka: 'Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Radvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į Vilnių ir atidavė besikuriančiam jėzuitų universitetui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė
+    katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
     dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
+    Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

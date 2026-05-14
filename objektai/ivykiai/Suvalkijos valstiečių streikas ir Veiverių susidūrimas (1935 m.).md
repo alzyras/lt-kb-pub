@@ -39,7 +39,11 @@ Nenurodyta
   santrauka: 'Suvalkijos valstiečiai pa­skelbė streiką, draudė pristatyti pieną į Kauną ir keliuose pastatė postus, o juos ardant kilo riaušės, policija Veiveriuose nušovė tris valstiečius, šimtus areštavo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1935 m. „Pienocentras“, su-
+    pirkinėjęs iš vals­tiečių pieno produktus, triskart sumažino supirkimo
     kai­nas. Suvalkijos valstiečiai pa­skelbė streiką, draudė pristatyti pieną
+    į Kauną ir keliuose pastatė postus, o juos ardant kilo riaušės, policija
+    Veiveriuose nušovė tris valstiečius, šimtus areštavo.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -27,7 +27,10 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   santrauka: 'Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajorijos knyga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Bene svarbiausias lenkiškojo modelio pradžios taškas buvo
+    1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lie-
     tuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajo-
+    rijos knyga.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

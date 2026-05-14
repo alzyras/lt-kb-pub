@@ -38,7 +38,10 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
   santrauka: 'O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės 8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pralaimėjo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    O čia dar po kie-
     toko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės
+    8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-
+    laimėjo.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -50,7 +53,10 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
   santrauka: 'III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę demokratinę santvarką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Birželio 17 d. panaikinta karo padėtis, amnestuo-
+    ti politiniai kaliniai, tarp kurių būta nemažai pogrindinės LKP narių, pa-
     naikinti visi spaudos apribojimai, pirmą kartą šalies istorijoje leista laisvai
+    rengti susirinkimus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -62,7 +68,10 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
   santrauka: 'Pajaujo suėmimą, nepritarus vyriausybės deklaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas, o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Opozi-
+    cijai protestuojant prieš J. Pajaujo suėmimą, nepritarus vyriausybės de-
     klaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas,
+    o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

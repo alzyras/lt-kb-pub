@@ -80,10 +80,6 @@ Nenurodyta
   teiginys: 'Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šarvuočiai.'
   pagrindžia:
     - c-004
-- t-005
-  teiginys: 'Vilniaus televizijos bokšto šturmas – sovietų tankų vikšrai traiško taikius gynėjus.'
-  pagrindžia:
-    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -103,7 +99,10 @@ Nenurodyta
   santrauka: Tankai ir šarvuočiai dalyvavo televizijos bokšto ir LRT pastato apsuptyje.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Apie
     12 val. nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei
+    Lietuvos radijo ir televizijos komiteto pastatą, kurį tik savo kūnais gynė
+    daugiatūkstantinė taikių Lietuvos gyventojų minia.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -116,6 +115,9 @@ Nenurodyta
   santrauka: Iliustracijos antraštė tankų vikšrus sieja su taikių gynėjų traiškymu.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1991 m. sausio 13-ąją,
+    sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos lais-
+    vės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji
     pateko po tanko vikšrais ir mirė ligoninėje.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -128,7 +130,10 @@ Nenurodyta
   santrauka: 'Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šarvuočiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau 1991 m.
     sausio 10 d. M. Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir
+    pareikalavo, kad jis tučtuojau visiškai atkurtų SSRS konstitucijos galioji-
+    mą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -136,18 +141,6 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Vilniaus televizijos bokšto šturmas – sovietų tankų vikšrai traiško taikius gynėjus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilniaus televizijos bokšto šturmas – sovietų tankų
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 
 ## Šaltiniai ir įrodymai
 
@@ -159,5 +152,5 @@ Nenurodyta
 - [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai
+- [[objektai/vietos/Lietuvos radijo ir televizijos komiteto pastatas]]
 - [[objektai/asmenys/Michailas Gorbačiovas]]
-- [[objektai/vietos/Vilniaus televizijos bokštas]]

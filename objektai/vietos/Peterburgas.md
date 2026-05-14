@@ -58,7 +58,9 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   santrauka: 'Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius reformų priešininkus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau
     opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius
+    reformų priešininkus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -70,7 +72,9 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   santrauka: 'Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peter-
     burge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos
+    ir Lietuvos valstybės padalijimo.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -82,7 +86,9 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   santrauka: '1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peterburgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos valstybingumo likučius ir nubrėžė tikslias sienas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peter-
     burgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos
+    valstybingumo likučius ir nubrėžė tikslias sienas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -94,7 +100,9 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   santrauka: 'Po dešimt metų jų Vilniuje neliks – Dvasinė akademija bus perkelta į Sankt Peterburgą, o Medicinos-chirurgijos akademija uždaryta.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Po dešimt
     metų jų Vilniuje neliks – Dvasinė akademija bus perkelta į Sankt Peter-
+    burgą, o Medicinos-chirurgijos akademija uždaryta.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -106,7 +114,9 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   santrauka: 'Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių (Kenigsbergą), linija Liepoja–Romnai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis
     Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių
+    (Kenigsbergą), linija Liepoja–Romnai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -118,6 +128,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   santrauka: 'Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą, Odesą, bet masiškiausia ekonominė emigracija nuo 1868 m. vyko į JAV.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą,
     Odesą, bet masiškiausia ekonominė emigracija nuo 1868 m. vyko į JAV.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -143,7 +154,9 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   santrauka: 'Daliai lietuvių inteligentų pasitraukus į Peterburgą, likę Vilniuje ir Kaune suvokė, kad Vokietija planuoja aneksuoti okupuotas teritorijas, jas kolonizuoti ir germanizuoti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Daliai lietuvių inteligentų pasitraukus į Peterburgą, likę Vilniuje ir
     Kaune suvokė, kad Vokietija planuoja aneksuoti okupuotas teritorijas, jas
+    kolonizuoti ir germanizuoti.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

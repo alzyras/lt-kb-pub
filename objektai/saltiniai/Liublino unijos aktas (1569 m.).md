@@ -124,8 +124,13 @@ tags: []
   santrauka: 'ABIEJŲ TAUTŲ RESPUBLIKA 64 Liublino unija 64; LDK Baroko epochos Europoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Gotika 53;  Raštija 56;
+    Renesansas ir reformacija 60
+    II s k y r i u s
+    LENKIJOS IR LIETUVOS VALSTYBIŲ JUNGTUVĖS  63
     ABIEJŲ TAUTŲ RESPUBLIKA 64
     Liublino unija 64; LDK Baroko epochos Europoje. Bajoriškoji demokratija 67;
+    Valstybinė religija ar dešimt konfesijų?
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -138,6 +143,7 @@ tags: []
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Liublino unija. Susikuria jungtinė Lenkijos ir Lietuvos Valstybė –
+    Abiejų Tautų Respublika.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -149,7 +155,9 @@ tags: []
   santrauka: 'Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tai buvo ori-
     ginalus valstybių junginys, kuris šiandien kartais laikomas net Europos
+    Sąjungos pirmtaku.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -34,7 +34,11 @@ Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūs
   santrauka: 'Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūsijos hercogija, o dar vėliau – Prūsijos karalija) pradėta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietuva (visa kita Lietuva vėliau – atrodo, XIX a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau
+    pasivadinusioje Prūsijos hercogija, o dar vėliau – Prūsijos karalija) pradė-
+    ta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietu-
     va (visa kita Lietuva vėliau – atrodo, XIX a. – pradėta vadinti Didžiosios
+    Lietuvos vardu).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,7 +50,9 @@ Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūs
   santrauka: 'Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“ statuso (panašaus į Dancigo (dabar Gdanskas)).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Beje, ne visi klaipė-
     diškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“
+    statuso (panašaus į Dancigo (dabar Gdanskas)).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

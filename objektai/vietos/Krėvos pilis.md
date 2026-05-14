@@ -70,7 +70,9 @@ Jogaila su savo broliais ją priėmė Krėvos pilyje. Tenai Jogaila patvirtino v
   santrauka: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
     visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
+    Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -82,6 +84,7 @@ Jogaila su savo broliais ją priėmė Krėvos pilyje. Tenai Jogaila patvirtino v
   santrauka: '1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Jogaila su šio dokumento
     turiniu sutiko, jis buvo priimtas ir į istoriją įėjo Krėvos sutarties vardu.
   citata_rodoma: ''
   teiginio_tipas: faktas

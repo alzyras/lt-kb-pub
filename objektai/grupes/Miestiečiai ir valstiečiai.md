@@ -30,7 +30,10 @@ Miestiečių teises ir įformino Gegužės trečiosios konstitucija.
   santrauka: 'Miestiečių teises ir įformino Gegužės trečiosios konstitucija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Mies-
     tiečių teises ir įformino Gegužės trečiosios konstitucija. Joje pirmąkart
+    užsiminta ir apie tai, kad valstybė teikia globą valstiečiams jų santykiuose
+    su dvarininkais.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

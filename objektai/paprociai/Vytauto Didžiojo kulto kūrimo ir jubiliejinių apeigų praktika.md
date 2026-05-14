@@ -74,7 +74,11 @@ tags: []
   santrauka: Citata aprašo jubiliejines apeigas, keliaujantį paveikslą ir renginius.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vytauto Didžiojo mirties
     500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo
+    muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto pa-
+    veikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-
+    vos miestuose ir miesteliuose, jam pastatyti paminklai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -86,7 +90,10 @@ tags: []
   santrauka: Citata tiesiogiai įvardija Vytauto Didžiojo kulto formavimą ir jo politinę mintį.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Svar-
     biausia Vytauto jubiliejinių renginių mintis – tautos vienybė per sukeltą
+    platų patriotinį sąjūdį, esama atrama šlovingoje pagoniškosios LDK pra-
+    eityje, ir pasiųsta žinia, kad Lietuva yra sena istorinė valstybė.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

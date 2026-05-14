@@ -31,6 +31,7 @@ Kraševskis, 1841–1851 m. Vilniuje leidęs kultūrinio pobūdžio žurnalą �
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dar nesiekta visiškai uždrausti spausdinti knygas ir kitokius leidinius lenkų
+    kalba – 1835–1841 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

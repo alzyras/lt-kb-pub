@@ -30,7 +30,10 @@ m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijo
   santrauka: 'm. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Mindaugo vainikavimo
+    dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pir-
     mas ir vienintelis vainikuotas Lietuvos karalius. Mindaugo vainikavimas
+    Mindaugo karūnacija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

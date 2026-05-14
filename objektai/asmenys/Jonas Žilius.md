@@ -30,7 +30,11 @@ tags:
   santrauka: '1922 m. pradžioje Lietuvos atstovas Klaipėdoje Jonas Žilius pranešė vyriausybei, kad tėra viena galimybė pasiimti miestą – užimti jį karine jėga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ministras pirminin-
+    kas E. Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių
     konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot
+    A. Smetonos, be faktinės kontrolės nebus juridinės), J. Pilsudskio pavyz-
+    džiu pastatyti visus į fait accompli padėtį ir tada derėtis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

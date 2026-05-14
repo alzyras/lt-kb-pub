@@ -27,7 +27,12 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   santrauka: 'Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė pirmą vietą visoje SSRS, didžioji dalis Lietuvoje pagamintos produkcijos buvo išgabenama į kitus SSRS regionus (pagrindiniai išvežamų maisto produktų vartotojai – Maskva ir Leningradas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nors pagal mėsos ir pieno
+    pramonės gamybą vienam gyventojui Lietuva užėmė pirmą vietą visoje
     SSRS, didžioji dalis Lietuvoje pagamintos produkcijos buvo išgabenama į
+    kitus SSRS regionus (pagrindiniai išvežamų maisto produktų vartotojai –
+    Maskva ir Leningradas (dabar Sankt Peterburgas), o įmonių gaunamos
+    pajamos patekdavo į bendrą SSRS biudžetą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

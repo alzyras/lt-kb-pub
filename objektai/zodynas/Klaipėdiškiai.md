@@ -30,6 +30,9 @@ Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir 
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir
+    psichologinių priežasčių prarado lietuviškai kalbėjusius „klaipėdiškius“,
+    kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas parti-
+    jas (panašiai kaip elzasiečiai ar Silezijos lenkai).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

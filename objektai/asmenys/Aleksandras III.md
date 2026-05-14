@@ -28,7 +28,14 @@ N ors Rusijos imperijos vidaus politika nerusiškų imperijos regionų ir „pak
   santrauka: 'N ors Rusijos imperijos vidaus politika nerusiškų imperijos regionų ir „pakraščių“ atžvilgiu tuomet dar nebuvo beatodairiškai persmelkta rusų nacionalizmo (pastarasis principas taps vyraujančiu imperijos vidaus politikos principu Aleksandro III (1881–1894).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    LIAUDIS VIRSTA TAUTA
+    N
+    ors Rusijos imperijos vidaus politika nerusiškų im-
+    perijos regionų ir „pakraščių“ atžvilgiu tuomet dar
+    nebuvo beatodairiškai persmelkta rusų nacionalizmo (pastarasis princi-
     pas taps vyraujančiu imperijos vidaus politikos principu Aleksandro III
+    (1881–1894) laikais), abu sukilimai Rusijos aukštuosiuose sluoksniuose
+    sukėlė rusiško nacionalizmo ir polonofobijos bangą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

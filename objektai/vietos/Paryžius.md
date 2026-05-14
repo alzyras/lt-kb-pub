@@ -21,10 +21,6 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginys: 'Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo brolis Karolis IX stengėsi kai kuriuos punktus pakeisti, bet, delegacijoms nenusileidus, su viskuo sutiko ir prisiekė.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis iš Jono Žiliaus knygos „The Boundaries of Lithuania“ (Paryžius, 1920)).'
-  pagrindžia:
-    - c-002
 - t-003
   teiginys: 'Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferencijos ir veikė kuluaruose.'
   pagrindžia:
@@ -54,23 +50,15 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis iš Jono Žiliaus knygos „The Boundaries of Lithuania“ (Paryžius, 1920)).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    (žemėlapis iš Jono Žiliaus knygos „The Boundaries of Lithuania“
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
   santrauka: 'Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferencijos ir veikė kuluaruose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Versalio sistemoje
+    Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje
     prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
+    delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-
+    jos ir veikė kuluaruose.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -91,8 +79,3 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Žemėlapis „Lituania Propria“]]
-- [[objektai/posakiai/„Lithuania Propria“]]

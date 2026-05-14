@@ -87,7 +87,10 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   santrauka: 'Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo su buvusios LDK arba Abiejų Tautų Respublikos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas
     „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje
+    žydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo
+    su buvusios LDK arba Abiejų Tautų Respublikos rytine riba.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -99,7 +102,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   santrauka: 'O kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    O
     kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius
+    vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

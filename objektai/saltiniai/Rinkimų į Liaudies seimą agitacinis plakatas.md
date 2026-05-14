@@ -29,6 +29,7 @@ Rinkimų į Liaudies seimą agitacinis plakatas.
   santrauka: 'Rinkimų į Liaudies seimą agitacinis plakatas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Taip įforminta Lietuvos aneksija,
     Rinkimų į Liaudies seimą agitacinis plakatas.
   citata_rodoma: ''
   teiginio_tipas: faktas

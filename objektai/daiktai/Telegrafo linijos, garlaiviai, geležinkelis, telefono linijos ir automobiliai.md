@@ -42,7 +42,11 @@ Nenurodyta
   santrauka: 'viduryje pradėjusios veikti pirmosios telegrafo linijos, Nemune pradėta garlaivių navigacija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ekonominio augimo raidą skatino XIX a. viduryje
+    pradėjusios veikti pirmosios telegrafo linijos, Nemune pradėta garlaivių
     navigacija. Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis
+    Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių
+    (Kenigsbergą), linija Liepoja–Romnai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

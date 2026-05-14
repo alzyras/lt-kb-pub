@@ -47,7 +47,10 @@ Nenurodyta
   santrauka: 'Lietuvos gotikinės architektūros ypatumas – gynybinis pobūdis: net ir sakraliniai pastatai turėjo gynybinius bokštus ar šaunamąsias angas – Vytauto laikais daugiausia statyta būtent gynybinių statinių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Bene geriausiai išlikusi yra Vytauto bažny-
     čia Kaune. Lietuvos gotikinės architektūros ypatumas – gynybinis pobūdis:
+    net ir sakraliniai pastatai turėjo gynybinius bokštus ar šaunamąsias an-
+    gas – Vytauto laikais daugiausia statyta būtent gynybinių statinių.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -59,7 +62,9 @@ Nenurodyta
   santrauka: 'Vytautas perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vytautas
     perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine,
+    Naugarduke ir Lucke.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -36,10 +36,6 @@ tags:
   teiginys: 'Tačiau sutartis turėjo silpną vietą – prie jos 2 straipsnio sovietai įbruko slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su Lenkija metu nebus traktuojamas kaip sutarties pažeidimas ar „nedraugiškas aktas“ prieš Lietuvą.'
   pagrindžia:
     - c-004
-- t-005
-  teiginys: 'Maskvos sutartis turėjo ir alternatyvą.'
-  pagrindžia:
-    - c-005
 - t-006
   teiginys: 'Žinoma, Taikos sutartis, pasirašyta Maskvoje, būtų nieko verta, jei Lenkija nebūtų sumušusi Rusijos bolševikų, nes šie intensyviai ruošė sukilimą Lietuvoje 1920 m. rugpjūtį.'
   pagrindžia:
@@ -58,7 +54,12 @@ tags:
   santrauka: '1920 m. pradžioje Lietuva sutiko pradėti derybas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pir-
+    miausia pareikalavo pripažinti atkurtą Lietuvos valstybę, jos valstybingu-
     mo tęstinumą nuo LDK. Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf
+    Joffe), traktavo Lietuvą kaip naują politinį vienetą ir sutiko pripažinti Lie-
+    tuvą remdamiesi nacijų apsisprendimo teise – taigi silpnesniu pripažini-
+    mo dokumentu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -70,6 +71,7 @@ tags:
   santrauka: 'Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams
     atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -82,7 +84,10 @@ tags:
   santrauka: 'Semaško) argumentus, lietuviai patenkino dar vieną A.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Apskritai 1920 m. liepos 12 d.
+    pasirašyta Taikos sutartis su Sovietų Rusija buvo didelis Lietuvos diplo-
     matijos laimėjimas mezgant ne tik savo šalies santykius su Rusija, bet ir su
+    Lenkija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -94,7 +99,10 @@ tags:
   santrauka: 'Tačiau sutartis turėjo silpną vietą – prie jos 2 straipsnio sovietai įbruko slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su Lenkija metu nebus traktuojamas kaip sutarties pažeidimas ar „nedraugiškas aktas“ prieš Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau sutartis turėjo silpną vietą – prie jos 2 straipsnio sovietai įbruko
     slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su
+    Lenkija metu nebus traktuojamas kaip sutarties pažeidimas ar „nedrau-
+    giškas aktas“ prieš Lietuvą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -102,23 +110,13 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Maskvos sutartis turėjo ir alternatyvą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    lietuviams ir pirmi į jį įžengė Raudonosios armijos kavalerijos korpusai, o
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 - c-006
   santrauka: 'Žinoma, Taikos sutartis, pasirašyta Maskvoje, būtų nieko verta, jei Lenkija nebūtų sumušusi Rusijos bolševikų, nes šie intensyviai ruošė sukilimą Lietuvoje 1920 m. rugpjūtį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Žinoma, Taikos sutartis, pasirašyta Maskvoje, būtų nieko verta, jei Len-
     kija nebūtų sumušusi Rusijos bolševikų, nes šie intensyviai ruošė sukilimą
+    Lietuvoje 1920 m. rugpjūtį.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -130,7 +128,9 @@ tags:
   santrauka: 'Liko ir teisinių kolizijų – Lenkijos ir Sovietų Rusijos siena pagal 1921 m. Rygos sutartį ėjo į rytus nuo Lietuvos–Sovietų Rusijos sienos, nubrėžtos pagal 1920 m. Maskvos taikos sutartį tarp Lietuvos ir Sovietų Rusijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Maskvos taikos su-
     tartį tarp Lietuvos ir Sovietų Rusijos. Pagal abiejų tų sutarčių punktus dėl
+    Vilniaus turėjo susitarti Lietuva ir Lenkija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -143,6 +143,7 @@ tags:
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     tis su Lietuva tebelieka galioti, kad Lietuva turi suverenias teises į Vilnių,
+    kol neatsisakys savo suverenumo Lenkijos naudai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

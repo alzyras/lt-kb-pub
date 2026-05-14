@@ -27,7 +27,9 @@ Pagalba atėjo iš Islandijos – 1991 m. vasario 11 d. Islandijos Altingas pirm
   santrauka: 'Pagalba atėjo iš Islandijos – 1991 m. vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklausomybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Pagalba atėjo iš Islandijos – 1991 m.
     vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklau-
+    somybę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

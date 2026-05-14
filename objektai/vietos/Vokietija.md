@@ -28,10 +28,6 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   teiginys: 'Be to, daug didikų vaikų, išvažiavę mokytis į Vokietijos universitetus, užsikrėsdavo protestantų mokslu, kurį parsiveždavo kartu ir į Lietuvą; čia,.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),.'
-  pagrindžia:
-    - c-003
 - t-004
   teiginys: 'Daugelis vyko į Vokietiją; bet kadangi ten universitetai buvo protestantiški, tai dažnai jie iš ten grįždavo protestantai.'
   pagrindžia:
@@ -62,6 +58,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     ninkais, paprastai vykdavo mokytis į Krokuvos universitetą, o
     visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją,
     Italiją ir Prancūziją. Kadangi į tolimuosius kraštus tegalėjo
+    vykti mokytis tik turtingųjų bajorų vaikai, todėl mokytų žmo-
+    nių buvo nedaug.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -78,6 +76,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     kryžiuočių ordino magistras ir daugumas brolių. Be to, daug didi-
     kų vaikų, išvažiavę mokytis į Vokietijos universitetus, užsikrėsda-
     vo protestantų mokslu, kurį parsiveždavo kartu ir į Lietuvą; čia,
+    esant tokiai liūdnai Bažnyčios būklei, jam buvo labai patogi
+    dirva plisti.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -85,20 +85,6 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu surinkus pinigų, prisi-
-    samdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisi-
-    gaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 - c-004
   santrauka: 'Daugelis vyko į Vokietiją; bet kadangi ten universitetai buvo protestantiški, tai dažnai jie iš ten grįždavo protestantai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -133,6 +119,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina
+    tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į ry-
+    tus, o rusai į vakarus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -144,7 +132,9 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   santrauka: 'Tiesa, Versalio taikos konferencija (1919) nuo Vokietijos atskyrė tik dalį Mažosios Lietuvos – Klaipėdos kraštą, tačiau jo neatidavė Lietuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tiesa, Versalio
     taikos konferencija (1919) nuo Vokietijos atskyrė tik dalį Mažosios Lietu-
+    vos – Klaipėdos kraštą, tačiau jo neatidavė Lietuvai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -156,7 +146,9 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   santrauka: 'Daliai lietuvių inteligentų pasitraukus į Peterburgą, likę Vilniuje ir Kaune suvokė, kad Vokietija planuoja aneksuoti okupuotas teritorijas, jas kolonizuoti ir germanizuoti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Daliai lietuvių inteligentų pasitraukus į Peterburgą, likę Vilniuje ir
     Kaune suvokė, kad Vokietija planuoja aneksuoti okupuotas teritorijas, jas
+    kolonizuoti ir germanizuoti.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -171,4 +163,3 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - [[objektai/vietos/Klaipėdos kraštas]]
 - [[objektai/vietos/Peterburgas]]
 - [[objektai/vietos/Prancūzija]]
-- [[objektai/vietos/Vengrija]]

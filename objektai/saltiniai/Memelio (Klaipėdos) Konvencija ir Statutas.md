@@ -22,10 +22,6 @@ tags:
   teiginys: '1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas panaikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną autonomine Lietuvos dalimi.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Nors Lietuvos vyriausybė skyrė Klaipėdos kraštui nemažai lėšų – vien į uostą investuota 42 mln.'
-  pagrindžia:
-    - c-002
 - t-003
   teiginys: 'Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investicijoms arba turėti tiek kariuomenės divizijų, kiek Vokietija, deja...'
   pagrindžia:
@@ -36,7 +32,9 @@ tags:
   santrauka: '1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas panaikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną autonomine Lietuvos dalimi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas pa-
     naikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną
+    autonomine Lietuvos dalimi.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -44,23 +42,14 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Nors Lietuvos vyriausybė skyrė Klaipėdos kraštui nemažai lėšų – vien į uostą investuota 42 mln.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos vyriausybės įtaka krašte mažėjo: Statute užrašytas dviejų kalbų
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
   santrauka: 'Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investicijoms arba turėti tiek kariuomenės divizijų, kiek Vokietija, deja...'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1939 m.
     pradžioje Vokietijai jau ruošiantis žygiuoti į Klaipėdą, britai ir prancūzai
+    (Klaipėdos konvencijos signatarai) pranešė, jog jie negarantuoja Klaipė-
+    dai status quo, o be pagalbos išlaikyti Klaipėdą Lietuva nebegalėjo.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -41,7 +41,11 @@ Nenurodyta
   santrauka: 'Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą, ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus arkikatedrą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė
     lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę,
+    V. Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
+    ir Gediminaičių stulpus, panaikino ribojančius mitingus, gatvės eitynes ir
+    demonstracijas įsakus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

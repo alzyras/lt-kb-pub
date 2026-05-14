@@ -27,7 +27,9 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   santrauka: 'Jos rėmė lenkų pradines mokyklas ir Lietuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Panevėžyje ir Ukmergėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Jos rėmė lenkų pradines mokyklas ir Lie-
+    Švietimui padėjo lenkų kultūros organiza-
+    cijos Pochodnia („Deglas“), Oswiata („Apšvieta“), Jutrzenka („Aušrinė“),
+    gaudavusios pinigų iš Lenkijos. Jos rėmė lenkų pradines mokyklas ir Lie-
     tuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Pane-
     vėžyje ir Ukmergėje.
   citata_rodoma: ''

@@ -34,7 +34,10 @@ tags:
   santrauka: '2003 m. kovą pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį, 2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    2003 m. kovą
     pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties
+    protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį,
+    2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,7 +49,10 @@ tags:
   santrauka: 'Pagrindinis narystės NATO pranašumas pabrėžiamas Vašingtono sutarties 5-ajame straipsnyje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Juo garantuojama individualios ar kolektyvi-
+    nės savigynos teisė, įvykus ginkluotam vienos iš Aljanso narių užpuo-
     limui. Tai reiškia, kad šalys narės ginkluoto puolimo prieš bet kurią iš
+    jų atveju ateis viena kitai į pagalbą – ir kiekviena atskirai, ir visos kartu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

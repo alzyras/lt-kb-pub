@@ -27,7 +27,9 @@ Rusėnų / baltarusių spaustuvininkas Bazilijus Ciapinskis antrojoje XVI a.
   santrauka: 'Rusėnų / baltarusių spaustuvininkas Bazilijus Ciapinskis antrojoje XVI a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Rusėnų / baltarusių spaustuvininkas Bazilijus
     Ciapinskis antrojoje XVI a. pusėje netgi spausdino raštus dviem stulpeliais:
+    viename viena kalba, kitame – kita.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

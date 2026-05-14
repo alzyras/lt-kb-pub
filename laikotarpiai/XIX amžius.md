@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 54.
+Objektų skaičius: 52.
 
 ## Kaip naudoti
 
@@ -20,7 +20,6 @@ Objektų skaičius: 54.
 
 ### Asmenys
 - [[objektai/asmenys/A. Smetona]]
-- [[objektai/asmenys/Mikalojus Akelaitis]]
 
 ### Autoriai
 - [[objektai/autoriai/Adomas Dambrauskas Jakštas]]
@@ -44,7 +43,6 @@ Objektų skaičius: 54.
 - [[objektai/paprociai/Rusiškų mokyklų boikotas ir daraktorinės mokyklėlės]]
 
 ### Posakiai
-- [[objektai/posakiai/Tas, kuris nori žinoti, kaip kalbėjo mūsų proseneliai]]
 - [[objektai/posakiai/Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga|Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.]]
 - [[objektai/posakiai/Žmonės nusidavimų (istorijos) nepažįstantieji vis yra vaikai]]
 
@@ -54,8 +52,8 @@ Objektų skaičius: 54.
 - [[objektai/ivykiai/Baudžiavos panaikinimas Rusijos imperijoje (1861 m.)]]
 - [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.)]]
 - [[objektai/ivykiai/Blaivybės brolijų ir susibūrimų uždraudimas (1863 m.)]]
-- [Blaivybės brolijų kūrimas ir plitimas Žemaičių vyskupystėje (1858—1859 m.)](../objektai/ivykiai/Blaivyb%C4%97s%20brolij%C5%B3%20k%C5%ABrimas%20ir%20plitimas%20%C5%BDemai%C4%8Di%C5%B3%20vyskupyst%C4%97je%20%281858%E2%80%941859%20m.%29)
-- [Gelgaudo vadovaujami kariuomenės žygiai į Vilnių ir Šiaulius (1831 m.)](../objektai/ivykiai/Gelgaudo%20vadovaujami%20kariuomen%C4%97s%20%C5%BEygiai%20%C4%AF%20Vilni%C5%B3%20ir%20%C5%A0iaulius%20%281831%20m.%29)
+- [[objektai/ivykiai/Blaivybės brolijų kūrimas ir plitimas Žemaičių vyskupystėje (1858—1859 m.)]]
+- [[objektai/ivykiai/Gelgaudo vadovaujami kariuomenės žygiai į Vilnių ir Šiaulius (1831 m.)]]
 - [Jono Smalakio išrinkimas į imperijos parlamentą Klaipėdos apygardoje (1898 m.)](../objektai/ivykiai/Jono%20Smalakio%20i%C5%A1rinkimas%20%C4%AF%20imperijos%20parlament%C4%85%20Klaip%C4%97dos%20apygardoje%20%281898%20m.%29)
 - [Katalikiško moksleivių judėjimo plėtra Amerikoje (1899–1912 m.)](../objektai/ivykiai/Kataliki%C5%A1ko%20moksleivi%C5%B3%20jud%C4%97jimo%20pl%C4%97tra%20Amerikoje%20%281899%E2%80%931912%20m.%29)
 - [Lenkų sukilimas Varšuvoje (1830 m.)](../objektai/ivykiai/Lenk%C5%B3%20sukilimas%20Var%C5%A1uvoje%20%281830%20m.%29)

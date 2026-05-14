@@ -71,6 +71,7 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   santrauka: Julijona minima tarp labiausiai Vytautą dėl karūnacijos įkalbinėjusių žmonių.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Bet
     ir ligi to termino nieko nesulaukta. Vytautas, atsisveikinęs
     su svečiais, susirgo^4 ). Vis dėlto jis ir dabar dar nenustojo
     vilties karūnuotis. Nenusileisti jį ypač įkalbinėjo jo bajorai
@@ -86,6 +87,8 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   santrauka: Julijona aiškiai minima tarp Vytauto mirties apraudotojų.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Tris kartus per dieną—rytą, per pietus
+    ir vakare, buvo apraudojamas didelis mūsų tėvynės vyras, jos
     laisvės ir savarankiškumo gynėjas. Mirė tikrai mūsų tautos
     garbė.
     Gailiai jį apraudojo ir žmona, kun. Julijona, verkė jo visi ba­
@@ -142,7 +145,9 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   santrauka: 'Nors Niurnbergo auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai, Lucko suvažiavimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nors Niurnbergo
     auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai,
+    Lucko suvažiavimas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -49,7 +49,11 @@ Nenurodyta
   santrauka: 'Savo kelią į NATO Lietuva pradėjo 1991 m. gruodį – prisijungė prie Šiaurės Atlanto bendradarbiavimo tarybos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1994 m. sausį Lietuvos Res-
+    publikos prezidentas A. Brazauskas nusiuntė NATO generaliniam sekre-
+    toriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pagei-
     dauja tapti šios organizacijos nare. Tų pačių metų sausį Lietuva prisijungė
+    prie Partnerystės taikos labui iniciatyvos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,6 +65,8 @@ Nenurodyta
   santrauka: '1999 m. balandį NATO šalių vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą siekiant narystės, patvirtintas Narystės veiksmų planas pasirengti stojimui į NATO.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    2002 m. lapkritį Prahoje septynios NATO kandidatės – Bul-
+    garija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakvies-
     tos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -73,7 +79,10 @@ Nenurodyta
   santrauka: '2003 m. kovą pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį, 2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    2003 m. kovą
     pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties
+    protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį,
+    2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

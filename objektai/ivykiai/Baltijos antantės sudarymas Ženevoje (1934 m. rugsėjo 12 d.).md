@@ -41,7 +41,10 @@ Nenurodyta
   santrauka: 'Todėl tik 1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjunga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį, socialinį, teisinį ir administracinį bendradarbiavimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Todėl tik 1934 m. rugsėjo
+    12 d. Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjun-
     ga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį,
+    socialinį, teisinį ir administracinį bendradarbiavimą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -53,3 +56,6 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/diplomatas]]
+
+### Susiję objektai
+- [[objektai/vietos/Ženeva]]

@@ -28,7 +28,9 @@ Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų Europos tradicijų link: b
   santrauka: 'Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų Europos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų darbas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vilnius, 1993; Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų
     Europos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų
+    darbas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

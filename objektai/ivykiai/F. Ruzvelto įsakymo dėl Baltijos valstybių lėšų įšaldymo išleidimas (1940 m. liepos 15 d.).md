@@ -41,6 +41,8 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LDT gyvavimui didelę įtaką turėjo 1940 m. liepos 15 d. JAV prezidento
+    Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde)
+    renkasi dalijamus drabužius, 1948 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -55,3 +57,4 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/asmenys/F. Ruzveltas]]
+- [[objektai/vietos/Šeinfeldas]]

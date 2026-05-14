@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 19.
+Objektų skaičius: 18.
 
 ## Kaip naudoti
 
@@ -25,7 +25,6 @@ Objektų skaičius: 19.
 ### Autoriai
 - [[objektai/autoriai/Alfonsas Eidintas]]
 - [[objektai/autoriai/Dr. J. Šliūpas]]
-- [[objektai/autoriai/Gražina Indrišiūnienė]]
 - [[objektai/autoriai/Jonas Basanavičius]]
 - [[objektai/autoriai/Jonas Šliūpas]]
 - [[objektai/autoriai/Kuršaitis (redaktorius, 1849–1880 m.)]]

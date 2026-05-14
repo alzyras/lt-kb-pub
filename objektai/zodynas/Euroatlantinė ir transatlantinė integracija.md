@@ -18,10 +18,6 @@ tags:
 Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroatlantinės integracijos kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasielgė Latvija ir Estija). Glaudus trijų Baltijos valstybių bendradarbiavimas padėjo visoms sėkmingai integruotis į transatlantines organizacijas.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Santykiai su kaimynėmis ir transatlantinė integracija.'
-  pagrindžia:
-    - c-001
 - t-002
   teiginys: 'Lietuva pasirinko euroatlantinės integracijos kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasielgė Latvija ir Estija).'
   pagrindžia:
@@ -32,23 +28,14 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
     - c-003
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Santykiai su kaimynėmis ir transatlantinė integracija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Santykiai su kaimynėmis ir transatlantinė integracija
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
 - c-002
   santrauka: 'Lietuva pasirinko euroatlantinės integracijos kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasielgė Latvija ir Estija).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuva pasirinko euroatlantinės integracijos
     kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos
+    Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasi-
+    elgė Latvija ir Estija).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -29,7 +29,11 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
   santrauka: 'Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    L. Želigovskio akciją sveikino minios Vilniaus lenkų, Tautų
+    Sąjunga pasirodė bejėgė, o Lietuvai dabar jau reikėjo sustabdyti tolesnį
     želigovskininkų judėjimą į Lietuvos teritoriją. Persigrupavusi Lietuvos
+    kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie
+    Širvintų ir Giedraičių.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

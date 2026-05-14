@@ -84,17 +84,16 @@ Nenurodyta
   teiginys: 'Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot A.'
   pagrindžia:
     - c-001
-- t-008
-  teiginys: 'Lietuvai liko sukilimo inscenizacijos scenarijus.'
-  pagrindžia:
-    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Sprendimas siekti faktinės Klaipėdos kontrolės jėga.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1922 m. pradžioje
+    Lietuvos atstovas Klaipėdoje Jonas Žilius pranešė vyriausybei, kad tėra
     viena galimybė pasiimti miestą – užimti jį karine jėga. Kariškiai laikė tai
+    24 valandų reikalu.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -106,7 +105,9 @@ Nenurodyta
   santrauka: VMLGK sudarymas ir savanorių sienos peržengimas.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1923 m. sausio 6 d. Šilutėje sudarytas Vyriausias Mažosios Lietuvos
     gelbėjimo komitetas (VMLGK) po trijų dienų paprašė Lietuvos ateiti į
+    pagalbą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -118,7 +119,10 @@ Nenurodyta
   santrauka: Žygio pristatymas kaip vietinio sukilimo ir susišaudymų aukos.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį
+    pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai nepriešta-
     ravo. Prancūzams lietuviai aiškins, kad sukilimas įvyko prieš vokiečius,
+    o ne prieš Gabrielio Žano Petisnė (Gabriel Jean Petisne) administraciją.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -130,6 +134,8 @@ Nenurodyta
   santrauka: VMLGK sprendimas prisijungti autonominėmis teisėmis.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1923 m. sausio 17 d.
+    VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis
     teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -143,6 +149,8 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino
+    šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-
+    nias Klaipėdos teises Lietuvai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -154,6 +162,7 @@ Nenurodyta
   santrauka: 'Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vil-
     nių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -162,18 +171,6 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-- c-008
-  santrauka: 'Lietuvai liko sukilimo inscenizacijos scenarijus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    scenarijus. Abipusis psichologinis atotrūkis akivaizdus – E. Galvanauskas
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
 
 ## Ryšiai
 ### Laikotarpiai
@@ -181,9 +178,7 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Ambasadorių Konferencija]]
-- [[objektai/asmenys/Ernestas Galvanauskas]]
 - [[objektai/asmenys/Gabrielis Žanas Petisnė]]
-- [[objektai/asmenys/Jonas Budrys (Polovinskas)]]
 - [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas]]
 - [[objektai/zodynas/fait accompli]]
 - [[objektai/zodynas/laisvojo miesto statusas]]

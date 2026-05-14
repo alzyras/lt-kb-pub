@@ -42,7 +42,15 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
   santrauka: 'Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – užėmus radiją 1941 m. birželio 23 d. LAF atstovas Leo­nas Prapuolenis pranešė: „Susidariusi laikinoji vėl naujai atgimstančios Lietuvos Vyriausybė šiuo skelbia atstatanti laisvą ir.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Sukilėliai užimtame Kaune pastatė
+    vokiečius prieš įvykusį faktą – užėmus radiją 1941 m. birželio 23 d. LAF
+    atstovas Leo­nas Prapuolenis pranešė: „Susidariusi laikinoji vėl naujai at-
+    gimstančios Lietuvos Vyriausybė šiuo skelbia atstatanti laisvą ir nepri-
+    klausomą Lietuvos valstybę“, kad „jaunoji Lietuvos valstybė entuzias-
+    tingai pasižada prisidėti prie Europos organizavimo naujais pagrindais“,
     negailėta šiltų žodžių nacių Vokietijai, kuri „išgelbėjo Europos kultūrą ir
+    civilizaciją“ nuo raudonojo teroro, lietuviai pakviesti imtis ginklo ir padė-
+    ti vokiečių kariuomenei.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -54,7 +62,10 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
   santrauka: 'Škirpos, įkalinus jį „namų arešte“, birželio 23 dieną sudarytos Laikinosios vyriausybės (LV) vadovu tapo literatūros dėstytojas Juozas Ambrazevičius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Naciams iš Berlyno neišleidus LAF vado K. Škirpos, įkalinus jį „namų
+    arešte“, birželio 23 dieną sudarytos Laikinosios vyriausybės (LV) vadovu
     tapo literatūros dėstytojas Juozas Ambrazevičius. LV vyravo krikščionių
+    demokratų pakraipos asmenys.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -66,7 +77,9 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
   santrauka: 'Tačiau naciai vis tiek tos vyriausybės nepripažino, dėl to dauguma iš jos priimtų per 100 įstatymų ir nutarimų neveikė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Realiai LV situacijos nevaldė, nes negalė-
     jo palaikyti ryšių su visu kraštu – paštas, telegrafas, telefonas naudoti tik
+    vokiečių kariniams reikalams.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -79,6 +92,8 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Laikinosios vyriausybės uždraudimas rodo, kad ji pirmiausia žiūrėjo
+    lietuvių tautos interesų, buvo paskelbta prieš vokiečių vadovybės valią ir
+    nebuvo nacių politinių intrigų darinys.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

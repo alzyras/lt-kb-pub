@@ -28,10 +28,6 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginys: 'Tad Zigmantui nebeliko kito sąjungininko, kaip tik Lenkija, kuri jam padėjo net ruošiant sąmokslą.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Senieji aktai, kuriais ji buvo surišta su Lenkija, jau nebegaliojo.'
-  pagrindžia:
-    - c-003
 - t-004
   teiginys: 'Pirmiausia kurį nors Gediminaitį išsirinkdavo sau valdovu Lietuva, o paskui jį išsirinkdavo ir Lenkija.'
   pagrindžia:
@@ -44,18 +40,10 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginys: 'Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais.'
   pagrindžia:
     - c-006
-- t-007
-  teiginys: 'Liublino seimas seimų vieta paskyrė Varšuvą arba kurį nors kitą Lenkijos miestą.'
-  pagrindžia:
-    - c-007
 - t-008
   teiginys: 'Kitaip tuo tarpu buvo Lenkijoje.'
   pagrindžia:
     - c-008
-- t-009
-  teiginys: 'Lietuvoje, kaip ir Vidurio Europos šalyse (Lenkijoje, Čekijoje, Vengrijoje), skirtingai nei Rytų Europoje, nuo Viduramžių kūrėsi individualus valstiečių ūkis, o ne bendruomenė,.'
-  pagrindžia:
-    - c-009
 - t-010
   teiginys: 'Iš tikrųjų tai buvo lenkiška Lietuvos samprata: 1922 m. Lenkijos valia vykusiuose rinkimuose gen.'
   pagrindžia:
@@ -95,22 +83,6 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Senieji aktai, kuriais ji buvo surišta su Lenkija, jau nebegaliojo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuva buvo visiškai nepriklausoma valstybė. Senieji aktai,
-    kuriais ji buvo surišta su Lenkija, jau nebegaliojo. Tiesą sakant,
-    jų niekad nebuvo laikytasi. Tik intereso verčiamos, abi vals-
-    tybės nenorėjo visiškai nutraukti ryšio ir rinkdavosi sau bendrus
-    valdovus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 - c-004
   santrauka: 'Pirmiausia kurį nors Gediminaitį išsirinkdavo sau valdovu Lietuva, o paskui jį išsirinkdavo ir Lenkija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -162,19 +134,6 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-- c-007
-  santrauka: 'Liublino seimas seimų vieta paskyrė Varšuvą arba kurį nors kitą Lenkijos miestą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Liublino seimas seimų vieta paskyrė Varšuvą
-    arba kurį nors kitą Lenkijos miestą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
 - c-008
   santrauka: 'Kitaip tuo tarpu buvo Lenkijoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -188,22 +147,12 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-- c-009
-  santrauka: 'Lietuvoje, kaip ir Vidurio Europos šalyse (Lenkijoje, Čekijoje, Vengrijoje), skirtingai nei Rytų Europoje, nuo Viduramžių kūrėsi individualus valstiečių ūkis, o ne bendruomenė,.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    (Lenkijoje, Čekijoje, Vengrijoje), skirtingai nei Rytų Europoje, nuo Vidu-
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
 - c-010
   santrauka: 'Iš tikrųjų tai buvo lenkiška Lietuvos samprata: 1922 m. Lenkijos valia vykusiuose rinkimuose gen.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lenkijos valia vykusiuose rinkimuose gen. Liucijano
+    Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vi-
     durinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -216,7 +165,9 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   santrauka: 'Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija, o XV–XVI a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    XVI a. vidu-
     ryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė
+    valstybė – Abiejų Tautų Respublika.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -224,7 +175,3 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Varšuva]]

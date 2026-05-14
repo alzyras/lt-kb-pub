@@ -28,7 +28,11 @@ Tūkstančiai lietuvių slapstėsi arba bėgo iš sovietų kariuomenės, todėl 
   santrauka: 'Tūkstančiai lietuvių slapstėsi arba bėgo iš sovietų kariuomenės, todėl jie įtraukti į oficialiai ieškomų „dezertyrų“ kategoriją, tūkstančiai jų įsijungė į lietuvių partizanų, kovojusių prieš sovietus, gretas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Pradėjęs mobilizaciją į SSRS kariuomenę, sovietų režimas nustebo,
+    kad lietuviai vengia tarnybos Raudonojoje armijoje, mat Lietuvos gyven-
+    tojai laikė savo šalį okupuota, kurioje SSRS negalėjo vykdyti vyrų mobi-
     lizacijos į Raudonąją armiją ir pažeisti tarptautinę teisę (1907 m. priimtą
+    Hagos konvenciją).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

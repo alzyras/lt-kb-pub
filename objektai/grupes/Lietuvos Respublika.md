@@ -36,7 +36,9 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
   santrauka: 'Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams“, kuriems XIX–XX a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietu-
     viams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,
+    po poros dešimtmečių sukūrę Lietuvos Respubliką.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -48,7 +50,9 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
   santrauka: 'Remiantis tokia lenkiška Lietuvos samprata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių tarmė – lietuvių kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Remiantis tokia lenkiška Lietuvos sam-
     prata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių
+    tarmė – lietuvių kalba.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,6 +65,8 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva po 1795 m. prijungimo prie Rusijos nepriklausomybę atkūrė
+    1918–1919 m. ir sukūrė valstybę, besirėmusią naujais demokratiniais ir
+    nacionaliniais pagrindais – Lietuvos Respubliką.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

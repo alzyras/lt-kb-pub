@@ -28,7 +28,11 @@ Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
   santrauka: 'Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    vizitas į Lietuvą. Seimo pirmininkas  Vytautas Landsbergis
+    Planinės
+    ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus
+    į savo rankas gamybą, bus galima ją pasiskirstyti pagal savo poreikius
+    Pirmasis Prancūzijos prezidento Fransua Miterano
+    vizitas į Lietuvą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -36,8 +40,3 @@ Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Aušros vartai]]
-- [[objektai/asmenys/Vytautas Landsbergis]]

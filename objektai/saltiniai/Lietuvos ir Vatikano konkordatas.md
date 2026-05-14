@@ -28,6 +28,8 @@ Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordat
   santrauka: 'Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą, o liepos 12-ąją, spaudžiant V.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatika-
+    no konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų
     Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.
   citata_rodoma: ''
   teiginio_tipas: faktas

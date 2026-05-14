@@ -46,7 +46,12 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
   santrauka: 'Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų išvardijusi net konkrečias gubernijas, kuriose gali gyventi žydai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas
+    „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje
+    žydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo
     su buvusios LDK arba Abiejų Tautų Respublikos rytine riba. Ją nubrėžė
+    Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų išvardijusi
+    net konkrečias gubernijas, kuriose gali gyventi žydai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -58,7 +63,9 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
   santrauka: 'Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius reformų priešininkus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau
     opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius
+    reformų priešininkus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -70,7 +77,9 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
   santrauka: 'Karalius laikėsi pozicijos, kad Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos 21 dieną iš Jekaterinos II gautą notą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Karalius laikėsi pozicijos, kad
     Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos
+    21 dieną iš Jekaterinos II gautą notą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -82,7 +91,10 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
   santrauka: 'LLV sąjungininkę Prūsiją išgąsdino galimas valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    LLV sąjungininkę Prūsiją išgąsdino gali-
+    mas valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekateri-
     na II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos
+    sienas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -95,6 +107,9 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir
+    savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirin-
+    kimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba su-
+    bluomų, savivalda.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -44,6 +44,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žemėlapio fragmentas su pirmosiomis „Tėve mūsų“ eilutėmis visomis
+    Europos kalbomis ir lietuvių kalba (pažymėta raudona linija).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

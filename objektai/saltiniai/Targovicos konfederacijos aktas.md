@@ -62,7 +62,9 @@ Targovicos konfederacijos aktas apibūdinamas kaip Peterburge subrendęs ir sura
   santrauka: Citata pagrindžia akto surašymo kontekstą, paskelbimo datą ir politinę funkciją.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau
     opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius
+    reformų priešininkus.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

@@ -30,7 +30,10 @@ Naujoji valdžia, taupydama lėšas, mažino atlyginimus, planavo įvesti civili
   santrauka: 'Naujoji valdžia, taupydama lėšas, mažino atlyginimus, planavo įvesti civilinę metrikaciją (didelis finansinis smūgis katalikų kunigams, nes nuo 1927 m. pradžios dar ketinta nebemokėti algų dvasininkams), ėmė mažinti karininkų skaičių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Birželio 17 d. panaikinta karo padėtis, amnestuo-
+    ti politiniai kaliniai, tarp kurių būta nemažai pogrindinės LKP narių, pa-
     naikinti visi spaudos apribojimai, pirmą kartą šalies istorijoje leista laisvai
+    rengti susirinkimus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -32,6 +32,7 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mokyklose įvestas privalomas J. Stalino konstitucijos, rusų kalbos
+    dėstymas, uždrausta tikyba, sumažintas lietuvių kalbos pamokų skaičius.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -43,7 +44,10 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
   santrauka: 'Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžiagą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Mokytojai verčiami studijuoti
     V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų
+    partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-
+    gą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -27,6 +27,8 @@ Visų pirma Vytautas nustojo mokėti duoklę mongolams, panaikino senovinę dali
   santrauka: 'Visų pirma Vytautas nustojo mokėti duoklę mongolams, panaikino senovinę dalinių kunigaikštijų sistemą, į tas kunigaikštijas paskyrė vietininkus ir suėmė realią valdžią LDK į savo rankas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Luckas
+    perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
     tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
   citata_rodoma: ''
   teiginio_tipas: faktas

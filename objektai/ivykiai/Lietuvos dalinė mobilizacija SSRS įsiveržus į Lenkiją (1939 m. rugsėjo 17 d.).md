@@ -39,6 +39,7 @@ Nenurodyta
   santrauka: 'Rugsėjo 17 dieną, SSRS įsiveržus į Lenkiją, demonstruojant pasiryžimą ginti nepriklausomybę, Lietuvos prezidentas paskelbė dalinę mobilizaciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai
     kariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną).
   citata_rodoma: ''
   teiginio_tipas: faktas

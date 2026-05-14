@@ -34,10 +34,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginys: 'Stepono Batoro karai su Maskva 285.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Stepono Batoro valdymo reikšmė ir jo mirtis.'
-  pagrindžia:
-    - c-003
 - t-004
   teiginys: 'Steponas Batoras buvo sudaręs iš jų 500 raitelių vėliavą.'
   pagrindžia:
@@ -46,10 +42,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginys: 'Batoro; žemiau kairėje — Vazų, o dešinėje — Poniatauskų; pačioje apačioje — vysk.'
   pagrindžia:
     - c-006
-- t-007
-  teiginys: 'Nors Stepono Batoro tėvynėje, Vengrijoje, buvo paplitęs protestantizmas, tačiau jis pats buvo išauklėtas katalikiškai.'
-  pagrindžia:
-    - c-007
 - t-008
   teiginys: '1576 m. Steponas Batoras turėjo 43 m. amžiaus.'
   pagrindžia:
@@ -85,7 +77,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   santrauka: 'Tarpuvaldis ir Stepono Batoro (1576—1586 m.) elekcija 282.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    279
     3. Tarpuvaldis ir Stepono Batoro (1576—1586 m.) elekcija 282
+    4.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -97,7 +91,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   santrauka: 'Stepono Batoro karai su Maskva 285.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Stepono Batoro asmuo 284
     5. Stepono Batoro karai su Maskva 285
+    6.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -105,18 +101,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Stepono Batoro valdymo reikšmė ir jo mirtis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    8. Stepono Batoro valdymo reikšmė ir jo mirtis. 294
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 - c-004
   santrauka: 'Steponas Batoras buvo sudaręs iš jų 500 raitelių vėliavą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -133,6 +117,7 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   santrauka: 'Batoro; žemiau kairėje — Vazų, o dešinėje — Poniatauskų; pačioje apačioje — vysk.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Aplink Vytį—dar 8 kiti herbai:
     viršuje — popiežiaus Grigaliaus XIII, jo kairėje — Zigmanto Augusto, deši-
     nėje — St. Batoro; žemiau kairėje — Vazų, o dešinėje — Poniatauskų; pačioje
     apačioje — vysk. Protasevičiaus, jo kairėje — Radvilų, o dešinėje — Sapiegų.
@@ -143,21 +128,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-- c-007
-  santrauka: 'Nors Stepono Batoro tėvynėje, Vengrijoje, buvo paplitęs protestantizmas, tačiau jis pats buvo išauklėtas katalikiškai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Nors Stepono Batoro tėvynėje, Veng-
-    rijoje, buvo paplitęs protestantizmas, tačiau jis pats buvo išauk-
-    lėtas katalikiškai. Kad ir užaugęs tikybinių kovų metu, jis vis
-    dėlto buvo ne fanatikas, bet didelis tolerantas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
 - c-008
   santrauka: '1576 m. Steponas Batoras turėjo 43 m. amžiaus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -194,7 +164,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   santrauka: 'ijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui L I E T U V O S I S T O R I J A 66 Steponui Batorui (valdė 1576–1586 m.) pasiektos lemiamos pergalės Livonijos kare prieš Maskvą ir šios pavojus atitolintas daugiau nei pusamžiui (1609–1611 m..'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Steponui Batorui (valdė 1576–1586  m.) pasiektos lemiamos pergalės
     Livonijos kare prieš Maskvą ir šios pavojus atitolintas daugiau nei pusam-
+    žiui (1609–1611 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -206,7 +178,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   santrauka: 'Tačiau Steponas Batoras Livonijos karo metu rūpinosi mūzų prieglobsčio – Vilniaus universiteto – kūrimu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau Steponas
     Batoras Livonijos karo metu rūpinosi mūzų prieglobsčio – Vilniaus uni-
+    versiteto – kūrimu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -218,7 +192,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   santrauka: '1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1579  m. balandžio 1 d. karalius Steponas Batoras, paremda-
     mas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė
+    Vilniaus universiteto Didysis kiemas ir Šv.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -233,7 +209,5 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 
 ### Susiję objektai
 - [[objektai/zodynas/elekcija]]
-- [[objektai/asmenys/Protasevičius]]
 - [[objektai/daiktai/Stepono Batoro paradinis kalavijas]]
 - [[objektai/asmenys/Valerijonas Protasevičius]]
-- [[objektai/asmenys/Zigmantas Augustas]]

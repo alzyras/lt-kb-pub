@@ -46,7 +46,10 @@ Lietuvių kunigaikščių posakis apibūdina užimtų žemių tvarkos išlaikymo
   santrauka: Citata pateikia posakį ir paaiškina jo politinę taktiką.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    „senovės negriauname, naujovių neįvedame“
+    Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis:
+    „senovės negriauname, naujovių neįvedame“  – jie palikdavo senąsias
+    kunigaikštijų struktūras (tai vėliau išvirs į sritines privilegijas, šiuolaiki-
+    niais terminais – autonomijas).
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

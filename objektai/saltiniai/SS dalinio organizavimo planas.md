@@ -28,7 +28,9 @@ tags:
   santrauka: '1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadinamoji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio organizavimo planą, pasisakė už tautinę Lietuvos kariuomenę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadina-
     moji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio
+    organizavimo planą, pasisakė už tautinę Lietuvos kariuomenę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -34,7 +34,10 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
   santrauka: 'Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai kuriamų bendrų Lenkijai ir Lietuvai centrinių valdžios institucijų – iždo, karo, policijos komisijų – pirmininkai (ministrai).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tvarkyti valstybės reikalus valdovui turi pa-
     dėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai
+    kuriamų bendrų Lenkijai ir Lietuvai centrinių valdžios institucijų – iždo,
+    karo, policijos komisijų – pirmininkai (ministrai).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,7 +49,11 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
   santrauka: 'Remiantis šiuo įžadu, Gegužės trečiosios konstitucijos įtvirtintose pagrindinėse bendrose vykdomosios valdžios institucijose – Kariuomenės ir Iždo komisijose – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai turėjo būti paeiliui lenkai ir.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Remiantis šiuo
+    įžadu, Gegužės trečiosios konstitucijos įtvirtintose pagrindinėse bendro-
+    se vykdomosios valdžios institucijose – Kariuomenės ir Iždo komisijo-
     se – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai
+    turėjo būti paeiliui lenkai ir lietuviai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

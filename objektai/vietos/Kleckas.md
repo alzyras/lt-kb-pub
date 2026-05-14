@@ -27,7 +27,9 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
   santrauka: 'LDK politinės tautos prielaidas kūrė LDK karinės pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    LDK politinės tautos prielaidas kūrė LDK karinės
     pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne,
+    kuriose lietuviai kovojo petys į petį su rusėnais.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

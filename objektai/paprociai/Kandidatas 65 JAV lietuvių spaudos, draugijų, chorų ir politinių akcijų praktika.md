@@ -43,7 +43,11 @@ Nenurodyta
   santrauka: 'tančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą, Odesą, bet masiškiausia ekonominė emigracija nuo 1868 m. vyko į JAV.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    jas, atspindėjusias socialistines ir krikščionių demokratų idėjas (pirmasis
+    vietos lietuviškas laikraštis JAV išėjo 1879 m.), plėtojosi meno saviveikla,
     buvo kuriami chorai, JAV lietuviai finansiškai rėmė Lietuvos kultūrinį
+    gyvenimą, rengė politines akcijas, atkreipdami dėmesį į tautinius suvar-
+    žymus Rusijos imperijoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

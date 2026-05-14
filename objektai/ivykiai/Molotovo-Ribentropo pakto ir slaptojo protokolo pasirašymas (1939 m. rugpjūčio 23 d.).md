@@ -40,6 +40,9 @@ Nenurodyta
   santrauka: 'Neutralumo įstatymu besiginantį Kauną sukrėtė naujiena apie nacių ir sovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sferomis: Suomija, Estija ir Latvija atiteko.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Neutralumo įstatymu besiginantį Kauną sukrėtė naujiena apie nacių ir
+    sovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS
+    pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sfero-
     mis: Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -48,3 +51,7 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Suomija]]

@@ -31,7 +31,10 @@ Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Su
   santrauka: 'Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tai reikštų, kad
+    Vienas didingiausių ir puošniausių LDK baroko
     interjerų – Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios
+    interjeras (XVII a. antra p.).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -43,7 +46,9 @@ Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Su
   santrauka: 'Sukurti europinės reikšmės kūriniai: Vilniaus katedros Šv.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kazimie-
     ro koplyčia, Vilniaus Šv. Petro ir Povilo bažnyčia ar Pažaislio vienuolyno
+    ansamblis prie Kauno.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

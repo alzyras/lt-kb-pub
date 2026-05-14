@@ -33,7 +33,9 @@ tags:
   santrauka: '1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė – pusiau nepriklausoma, Napoleono globojama valstybė, sudaryta iš Prūsijos anksčiau prisijungtų Lenkijos žemių ir Lietuvos Užnemunės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Europos žemėlapyje atsirado Varšuvos kunigaikštystė – pu-
     siau nepriklausoma, Napoleono globojama valstybė, sudaryta iš Prūsijos
+    anksčiau prisijungtų Lenkijos žemių ir Lietuvos Užnemunės.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -45,7 +47,9 @@ tags:
   santrauka: 'Vilniaus katedroje, dalyvaujant Varšuvos kunigaikštystės delegacijai, deklaruotas noras iš naujo susivienyti su Lenkija, susigrąžinant LDK prarastas žemes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vilniaus katedroje, dalyvaujant Varšuvos
     kunigaikštystės delegacijai, deklaruotas noras iš naujo susivienyti su Len-
+    kija, susigrąžinant LDK prarastas žemes.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

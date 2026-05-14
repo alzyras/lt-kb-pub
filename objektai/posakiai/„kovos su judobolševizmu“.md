@@ -28,6 +28,9 @@ Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas leido j
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas
+    leido juos sutapatinti su sovietine valdžia, o nacių propagandos mašina
+    mestas „kovos su judobolševizmu“ šūkis susipynė su stipriomis lietuvių
+    antisovietinėmis nuotaikomis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

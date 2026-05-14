@@ -58,6 +58,9 @@ Nenurodyta
   santrauka: 'Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas dėl Lietuvos nepriklausomybės atkūrimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Karas po karo – ginkluota rezistencija
+    Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė
+    lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas
     dėl Lietuvos nepriklausomybės atkūrimo. Iš visų trijų Baltijos valstybių
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -70,6 +73,7 @@ Nenurodyta
   santrauka: 'Užimant Grupė Lietuvos partizanų 1947 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Užimant
     Grupė Lietuvos partizanų 1947 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -82,7 +86,10 @@ Nenurodyta
   santrauka: 'Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atėmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir informacijos skyriai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atė-
+    mus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir infor-
     macijos skyriai. Per visą partizaninio karo laikotarpį ilgiau ar trumpiau
+    buvo leidžiama 80 pavadinimų periodinių leidinių.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -94,7 +101,10 @@ Nenurodyta
   santrauka: 'Pereita prie įprasto partizaninio karo taktikos: pasalų organizavimo, sovietinių pareigūnų ir šnipų naikinimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Daugybė aukų, persekiojimai suar-
     dė būrių ir apygardų ryšius, silpnėjo būrių kontrolė. Pereita prie įprasto
+    partizaninio karo taktikos: pasalų organizavimo, sovietinių pareigūnų ir
+    šnipų naikinimo.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -106,7 +116,10 @@ Nenurodyta
   santrauka: 'Nors partizaninis karas, kovojant vienų vieniems, ir pralaimėtas, jo reikšmė didelė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Laisvės ko-
+    votojai savo drąsa, pasiaukojimu ir gyvybėmis įrodė, kad 1940 m. vasarą
     Lietuva į SSRS įjungta prieš tautos valią ir atpirko Lietuvos vyriausybės
+    ir kariuomenės neveiklumą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

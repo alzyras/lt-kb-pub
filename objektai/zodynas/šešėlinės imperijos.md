@@ -28,6 +28,9 @@ labiausiai primena šešėlines imperijas.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     XIV a. labiausiai primena šešėlines imperijas. Tokios imperijos susikuria
+    žlungančių imperijų pasienyje arba periferijoje, kai žlugusios imperijos
+    pavaldiniai, klientai arba sąjungininkai palydovai pajungia sau dalį jos
+    teritorijos (kartu ir buvusią metropolinę sritį).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

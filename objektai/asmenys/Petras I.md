@@ -28,7 +28,9 @@ Lenkijai ir Lietuvai grasino ne tik stiprėjanti Petro I Rusija, bet ir 1701 m. 
   santrauka: 'Lenkijai ir Lietuvai grasino ne tik stiprėjanti Petro I Rusija, bet ir 1701 m. karalyste tapusi Prūsija – šios centralizuotos valstybės ilgainiui nulems tolesnį ATR likimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lenkijai ir Lietuvai grasino ne tik stiprėjanti Petro I Rusija, bet ir
     1701 m. karalyste tapusi Prūsija – šios centralizuotos valstybės ilgainiui
+    nulems tolesnį ATR likimą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

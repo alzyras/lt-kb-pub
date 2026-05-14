@@ -72,7 +72,11 @@ Kijevo Rusia šiame šaltinyje minima kaip 988 m. Bizantijos krikštą priėmęs
   santrauka: 'Vis dėlto tai liko istorinis epizodas, nors pagoniška valstybė pamažu tapo regionine didvalstybe arba imperija, užvaldžiusia didžiules stačiatikiškų žemių (buvusios Kijevo Rusios) erdves.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vis dėlto tai liko istorinis epi-
+    zodas, nors pagoniška valstybė pamažu
+    tapo regionine didvalstybe arba imperija,
     užvaldžiusia didžiules stačiatikiškų žemių
+    (buvusios Kijevo Rusios) erdves.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -84,7 +88,10 @@ Kijevo Rusia šiame šaltinyje minima kaip 988 m. Bizantijos krikštą priėmęs
   santrauka: 'Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai XI a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Didžiausia tiki-
+    mybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai XI a. vidu-
     ryje (XII a. pradžioje lietuviai minimi tarp genčių, kurios moka Kijevo
+    Rusiai duoklę).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

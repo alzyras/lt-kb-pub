@@ -27,7 +27,9 @@ Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo L
   santrauka: 'Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vėliau – Raudonosios armijos 29-uoju šaulių korpusu).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Liepos 3 dieną priimtas Lietuvos
     kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vė-
+    liau – Raudonosios armijos 29-uoju šaulių korpusu).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

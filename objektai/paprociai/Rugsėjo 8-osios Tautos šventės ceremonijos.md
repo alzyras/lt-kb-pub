@@ -72,7 +72,11 @@ Nenurodyta
   santrauka: Tautos šventės ceremonijų kontekstas įvardija rugsėjo 8 d. šventimą nuo 1930 m.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Nuo 1930 m. rugsėjo 8 dieną švęsta ypatinga Tautos šventė
+    Nuo 1930 m. rugsėjo 8 dieną švęsta ypatinga Tautos šventė (neįvykusio
+    Vytauto karūnavimo ir Švenčiausiosios Mergelės Marijos gimimo diena):
+    valstybines įstaigas papuošdavo dideli Vytauto Didžiojo ir A.  Smetonos
+    portretai, vykdavo kariuomenės paradai, inscenizuotos eitynės miestų ga-
+    tvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -88,3 +92,6 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/daiktai/Vytauto Didžiojo ir A. Smetonos portretai Tautos šventės metu]]

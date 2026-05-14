@@ -31,6 +31,8 @@ Netgi Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį negu deši
   santrauka: 'Netgi Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį negu dešimties procentų nuosmukį, nes 22 proc.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Netgi Suomijos, laisvosios
+    rinkos šalies, ekonomika patyrė didesnį negu dešimties procentų nuos-
     mukį, nes 22 proc. savo produkcijos Suomija eksportavo į SSRS.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -43,7 +45,10 @@ Netgi Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį negu deši
   santrauka: 'Paaiškėjus, kad dauguma buvusių kolūkiečių nesugeba ar neturi galimybių vieni ūkininkauti, pradėtos steigti žemės ūkio bendrovės, tačiau dauguma jų irgi nemokėjo tvarkytis naujais laisvosios rinkos pagrindais ir per keletą metų bankrutavo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Paaiškėjus, kad dauguma buvusių ko-
     lūkiečių nesugeba ar neturi galimybių vieni ūkininkauti, pradėtos steigti
+    žemės ūkio bendrovės, tačiau dauguma jų irgi nemokėjo tvarkytis nau-
+    jais laisvosios rinkos pagrindais ir per keletą metų bankrutavo.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

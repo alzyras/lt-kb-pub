@@ -28,7 +28,11 @@ Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „
   santrauka: 'Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „landsbergininkus“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Per 1992 m. rinkimus į Sei-
+    mą A. Brazausko vadovaujama LDDP gavo daugumą, o po ketverių metų
     sėkmė lydėjo V. Landsbergio vadovaujamus konservatorius. Net buvo
+    sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „lands-
+    bergininkus“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

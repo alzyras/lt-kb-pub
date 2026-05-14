@@ -30,7 +30,10 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
   santrauka: 'Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai kuriamų bendrų Lenkijai ir Lietuvai centrinių valdžios institucijų – iždo, karo, policijos komisijų – pirmininkai (ministrai).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tvarkyti valstybės reikalus valdovui turi pa-
     dėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai
+    kuriamų bendrų Lenkijai ir Lietuvai centrinių valdžios institucijų – iždo,
+    karo, policijos komisijų – pirmininkai (ministrai).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

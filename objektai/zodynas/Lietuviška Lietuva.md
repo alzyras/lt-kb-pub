@@ -33,7 +33,11 @@ Per nepilnus du dešimtmečius Lietuva galutinai tapo lietuviška, jos nebegalė
   santrauka: 'Per nepilnus du dešimtmečius Lietuva galutinai tapo lietuviška, jos nebegalėjai supainioti nei su Lenkija, nei su Rusija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nepriklausomybės karta
+    Per nepilnus du dešimtmečius Lietuva galutinai tapo lietu-
     viška, jos nebegalėjai supainioti nei su Lenkija, nei su Rusija. A. Smetonos
+    valstybės modelio, jo režimo prioritetai – tautinės kultūros kūrimas ir lie-
+    tuviškai kalbanti Lietuva – iš esmės įgyvendintas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -45,7 +49,9 @@ Per nepilnus du dešimtmečius Lietuva galutinai tapo lietuviška, jos nebegalė
   santrauka: 'Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos – didžiausias tautos kūrėjų pasiekimas, be kurio šiandieninė Lietuva vargiai būtų tokia, kokia yra.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos – didžiausias
     tautos kūrėjų pasiekimas, be kurio šiandieninė Lietuva vargiai būtų tokia,
+    kokia yra.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

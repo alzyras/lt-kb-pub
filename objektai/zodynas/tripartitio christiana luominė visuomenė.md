@@ -34,7 +34,9 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
   santrauka: 'Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirbančius žmones) samprata galima tiesiogiai sieti ir Viduramžių luomų idėją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Su tripartitio christiana (visuomenės skirstymas į
     karius, dvasininkus ir dirbančius žmones) samprata galima tiesiogiai sieti
+    ir Viduramžių luomų idėją.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,7 +48,9 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
   santrauka: 'Lietuvos krikštas davė pradžią luominei visuomenei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    O juk Lietuvos krikšto metu Jogaila suteikė
     privilegijas ne tik Vilniaus vyskupui, bet ir bajorams, patvirtindamas jų
+    nuosavybę, ir Vilniaus miestiečiams, suteikdamas jiems savivaldą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -62,3 +66,4 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
 ### Susiję objektai
 - [[objektai/paprociai/Kandidatas 20 Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams]]
 - [[objektai/paprociai/Kandidatas Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams]]
+- [[objektai/zodynas/tripartitio christiana]]

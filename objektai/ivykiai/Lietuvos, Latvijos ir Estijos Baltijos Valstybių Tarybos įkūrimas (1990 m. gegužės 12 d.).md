@@ -41,7 +41,9 @@ Nenurodyta
   santrauka: '1990 m. gegužės 12 d. Lietuva, Latvija ir Estija atnaujino 1934 m. Baltijos valstybių santarvės ir bendradarbiavimo sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra užsienio politikos pozicija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Baltijos valstybių santarvės ir bendradarbiavimo
     sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra
+    užsienio politikos pozicija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

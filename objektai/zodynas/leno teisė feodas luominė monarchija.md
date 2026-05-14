@@ -31,6 +31,7 @@ Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje strukt�
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nepaisant kultūrinių praradimų (nesuspėta suformuoti lietuviakalbio
+    raštijos modelio), XVI a.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

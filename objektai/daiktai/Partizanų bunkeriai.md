@@ -76,7 +76,9 @@ Nenurodyta
   santrauka: Bunkeriai minimi kaip partizanų gyvenimo sąlygų dalis.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    miške ir bunkeriuose, todėl būriuose rengti kariniai mokymai.
+    Įstoję į partizanų gretas
+    jie turėjo išmokti kariavimo gudrybių ir prisitaikyti prie sudėtingų gyveni-
+    mo sąlygų miške ir bunkeriuose, todėl būriuose rengti kariniai mokymai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -88,7 +90,10 @@ Nenurodyta
   santrauka: Požeminiai bunkeriai aprašyti kaip slėptuvės per šukavimus.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Antrame etape (1946 m. birželį–1948 m. lapkritį), kovose netekę apie
+    10 tūkst. vyrų, partizanai sudarė mažus, mobilius būrius, sodybose ir
     prie jų kasė požeminius bunkerius, kuriuose slėpdavosi nuo priešų per
+    šukavimus.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

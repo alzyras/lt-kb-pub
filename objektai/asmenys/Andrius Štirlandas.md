@@ -34,7 +34,9 @@ Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diplomatija – p
   santrauka: 'Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diplomatija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diploma-
     tija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę
+    Livonijos ordino magistrą Andrių Štirlandą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -105,6 +105,8 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
     jusi, nes didžiuliai Palenkės, Vo-
     luinės, Braclavo ir Kijevo žemių
     plotai atiteko Lenkijai. Lietuviai
+    veltui reikalavo, kad lenkai tas
+    žemes jiems grąžintų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -131,7 +133,10 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   santrauka: 'Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijungtos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuva tapo
+    politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-
     tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
+    buvę Voluinė ir Haličas, Kijevas, Pskovas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -143,7 +148,9 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   santrauka: 'Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau
     linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso
+    ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -155,6 +162,8 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   santrauka: '1393 m. Luckas perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikštiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Luckas
+    perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
     tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
   citata_rodoma: ''
   teiginio_tipas: faktas

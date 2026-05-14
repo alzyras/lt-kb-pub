@@ -46,6 +46,8 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo
+    poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadi-
+    namąją Lietuvių konferenciją.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -57,7 +59,11 @@ Nenurodyta
   santrauka: 'Nors konferencijos dalyviai negailėjo aštrios kritikos okupacinei valdžiai, priimti sprendimai atspindėjo jos dalyvių ir dalies Lietuvos visuomenės orientaciją į Vokietiją: juos vykdant reikėjo kolaboruoti su Vokietija jos darbo ir karo tarnybų struktūrose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nors
+    konferencijos dalyviai negailėjo aštrios kritikos okupacinei valdžiai, pri-
+    imti sprendimai atspindėjo jos dalyvių ir dalies Lietuvos visuomenės
     orientaciją į Vokietiją: juos vykdant reikėjo kolaboruoti su Vokietija jos
+    darbo ir karo tarnybų struktūrose.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -38,6 +38,8 @@ tags:
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėju-
+    sios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios ki-
+    tas valstybes apie žmogaus teisių pažeidimus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -49,7 +51,11 @@ tags:
   santrauka: 'Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė, buvusi kalinė Ona Lukauskaitė-Poškienė, poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Grupei priklausė kun. Karolis Garuckas, fizi-
+    kas Eitanas Finkelšteinas, poetė, buvusi kalinė Ona Lukauskaitė-Poškienė,
     poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę
+    ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo tarptau-
+    tinėmis grupėmis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,7 +67,9 @@ tags:
   santrauka: 'Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos Helsinkio
     grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė
+    per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -77,6 +85,7 @@ tags:
 - [[temos/aktas - dokumentas]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Andrejus Sacharovas]]
 - [[objektai/ivykiai/Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo)]]
 - [[objektai/grupes/Maskvos Helsinkio grupė]]
 - [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda]]

@@ -58,6 +58,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   santrauka: 'Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis artino į aisčių kraštą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Šiaurėje, kur buvo susikūrusi galinga Polocko kunigaikštija,
     lietuvių ir latvių giminėms iš karto irgi nelabai sekėsi. Nors jie ir
     atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas
     vis artino į aisčių kraštą.
@@ -107,7 +108,9 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     Caras jo pasiuntinius priėmė labai
     nemandagiai, pyko, kam karalius nepripažįstąs jam Polocko,
     Smolensko ir Livonijos kunigaikščio titulų, o tuos titulus patsai
-    vartojąs, piktinosi, kad Stp. Batoras laiške jį vadinąs broliu
+    vartojąs, piktinosi, kad Stp. Batoras laiške jį vadinąs broliu (jau
+    nuo seno buvo toks paprotys, kad valdovai vienas kitą vadin-
+    davo broliu; tačiau caras, pykdamas ant Stp.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -133,7 +136,9 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   santrauka: 'Žinoma, kad 1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per kurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Žinoma, kad
     1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per
+    kurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -145,7 +150,10 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   santrauka: 'Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijungtos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuva tapo
+    politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-
     tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
+    buvę Voluinė ir Haličas, Kijevas, Pskovas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -157,6 +165,9 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   santrauka: 'Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino laikais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Voluinė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Mindaugo laikais
+    prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
+    kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
     nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -169,4 +180,3 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Pskovas]]
-- [[objektai/vietos/Smolenskas]]

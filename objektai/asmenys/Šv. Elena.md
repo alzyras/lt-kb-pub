@@ -27,6 +27,7 @@ Elenos skulptūros ant katedros frontono.
   santrauka: 'Elenos skulptūros ant katedros frontono.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kazimiero, Lenkijos
     globėjo šv. Stanislovo ir šv. Elenos skulptūros ant katedros frontono.
   citata_rodoma: ''
   teiginio_tipas: faktas

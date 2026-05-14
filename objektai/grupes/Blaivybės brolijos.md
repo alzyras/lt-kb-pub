@@ -29,7 +29,11 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
   santrauka: 'Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybės idėjomis, inicijavo blaivybės sąjūdį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    lietuviai metė gerti degtinę, kaipmat pakilo ūkių gerovė, sustiprėjo šei
+    Po poros metų šių blaivybės
+    brolijų nariais buvo per 80 proc. vyskupijos gyventojų katalikų – taigi
+    lietuviai metė gerti degtinę, kaipmat pakilo ūkių gerovė, sustiprėjo šei-
+    Motiejus Valančius iš J. K. Vilčinskio
+    „Vilniaus albumo“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -37,3 +41,8 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/paprociai/Kandidatas 57 Valančiaus blaivybės sąjūdis ir blaivybės brolijos]]
+- [[objektai/paprociai/Kandidatas Valančiaus blaivybės sąjūdis ir blaivybės brolijos]]

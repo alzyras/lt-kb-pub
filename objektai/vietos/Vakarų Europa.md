@@ -25,17 +25,14 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   teiginys: 'Vakarų Europos situaciją XVI a.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Įvairiais duomenimis, 1945 m. Vakarų Europoje lietuvių pabėgėlių ir tremtinių buvo daugiau kaip 72 tūkst.'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į rytus, o rusai į vakarus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina
+    tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į ry-
+    tus, o rusai į vakarus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -47,7 +44,9 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   santrauka: 'Vakarų Europos situaciją XVI a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vakarų
     Europos situaciją XVI a. apibūdina Baltramiejaus naktis Paryžiuje (1572),
+    tapusi religinio nepakantumo simboliu Europos istorijoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -55,15 +54,3 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Įvairiais duomenimis, 1945 m. Vakarų Europoje lietuvių pabėgėlių ir tremtinių buvo daugiau kaip 72 tūkst.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Europoje lietuvių pabėgėlių ir tremtinių buvo daugiau kaip 72 tūkst. (la-
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003

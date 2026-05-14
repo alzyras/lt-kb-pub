@@ -30,6 +30,7 @@ tags:
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1938 m. pabaigoje, po Miuncheno susitarimo, karo padėtis Klaipėdos
+    krašte buvo atšaukta ir Lietuva jau nebevaldė situacijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

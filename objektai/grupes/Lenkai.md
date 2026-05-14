@@ -448,7 +448,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   santrauka: Lenkai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Jo tarnyboje mes ga­
+    Totorius su vokiečiais jis kolonizavo ne iš meilės,
+    o tik dėl to, kad matė iš to kraštui naudos. Jo tarnyboje mes ga­
     lime užtikti įvairių svetimšalių, o labiausiai lenkų ir vokiečių.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -475,7 +476,10 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   santrauka: 'Tiesa, nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“ arba „senalietuviais“, tačiau dauguma jų vis labiau integravosi į lenkų tautą, o Lietuvą laikė Lenkijos dalimi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tiesa,
     nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“
+    arba „senalietuviais“, tačiau dauguma jų vis labiau integravosi į lenkų
+    tautą, o Lietuvą laikė Lenkijos dalimi.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -488,6 +492,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo
+    suformuota „Vidurinė Lietuva“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -499,6 +504,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   santrauka: '1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Jogaila su šio dokumento
     turiniu sutiko, jis buvo priimtas ir į istoriją įėjo Krėvos sutarties vardu.
   citata_rodoma: ''
   teiginio_tipas: faktas

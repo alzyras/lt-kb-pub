@@ -30,7 +30,10 @@ Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius.
   santrauka: 'Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vasario 16 Aktas, skelbė,
     kad Lietuva yra nepriklausoma valstybė, su „etnologinėmis sienomis“, tai
+    tikriausiai turėjo reikšti, kad kiek atsitraukta vien nuo etnografinių sienų
+    planų, turint viltį, kad teritorija padidės.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

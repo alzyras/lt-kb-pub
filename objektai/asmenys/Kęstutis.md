@@ -140,7 +140,10 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   santrauka: Kęstutis valdė vakarų pasienį ir Žemaičius.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kęstutis buvo gavęs ilgą vakarų
+    Vyriausias sūnus, Man-
+    v y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą
+    ir Pinską, Karijotas — Naugarduką ir Volkoviską, Algir-
+    das — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų
     pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą. Jo žinioje
     buvo ir (tada dar pusiau savarankiški) Žemaičiai. Tad jo bu-
     vo valdoma visas kryžiuočių ir didelė dalis Lenkijos pasienio.
@@ -172,9 +175,9 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   santrauka: Kęstutis pastatė mūro pilį Trakų ežero saloje.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    ės
+    Netoli Vilniaus, sunkiai prieinamame Galvės
     ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą
-    laiką buv
+    laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -221,6 +224,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   santrauka: Kęstutis ir Vytautas pradėjo partizanišką karą.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Tada
     Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -296,7 +300,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     mis; pats Kęstutis, kaip kunigas, ten atliko pagoniškas jaučio
     aukojimo apeigas, kurios smulkiai yra užrašytos Dubno kronikoje^7.
     Pasižadėjęs įkurti Lietuvoje vyskupijų ir vienuolynų, Kęstutis dėl
-    neišaiškinamų priežasčių tačiau nakties tamsoje pabėgo
+    neišaiškinamų priežasčių tačiau nakties tamsoje pabėgo.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -388,7 +392,9 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   santrauka: 'kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jogaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis (valdė 1392–1430).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jo-
     gaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis
+    (valdė 1392–1430).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -404,4 +410,6 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas]]
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/vietos/Galvės ežeras]]
 - [[objektai/asmenys/Jogaila]]
+- [[objektai/zodynas/partizaniškas karas]]

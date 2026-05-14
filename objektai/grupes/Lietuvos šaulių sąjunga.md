@@ -32,17 +32,15 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
   teiginys: 'Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vėliau – Raudonosios armijos 29-uoju šaulių korpusu).'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Sniečkus išleido įsakymą, leidžiantį suimti agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politinių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai.'
-  pagrindžia:
-    - c-004
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietuvos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų Trojos arklys.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplo-
+    matai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietu-
     vos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų
+    Trojos arklys.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -54,7 +52,9 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
   santrauka: 'O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vyriausybę jėga atsiimti Vilnių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai
     kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-
+    riausybę jėga atsiimti Vilnių.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -66,6 +66,7 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
   santrauka: 'Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vėliau – Raudonosios armijos 29-uoju šaulių korpusu).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Liepos 11 dieną su-
     stabdyta Lietuvos šaulių sąjungos veikla, ji nuginkluota.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -74,22 +75,8 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Sniečkus išleido įsakymą, leidžiantį suimti agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politinių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    departamento direktorius A. Sniečkus išleido įsakymą, leidžiantį suimti
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Jaunieji tautininkai]]
-- [[objektai/grupes/NKVD]]
-- [[objektai/ivykiai/Pirmieji masiniai areštai Lietuvoje (1940 m. liepos 10-17 d.)]]
 - [[objektai/grupes/Šaulių sąjunga]]

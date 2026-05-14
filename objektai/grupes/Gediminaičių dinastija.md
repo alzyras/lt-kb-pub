@@ -93,6 +93,9 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   citata_originali: |
     Tačiau, kai paskutinysis tos dinastijos valdovas,
     Zigmantas Augustas, baigė savo gyvenimą be jokio įpėdinio,
+    abi valstybės savo sumetimais galėjo išsirinkti sau atskirus val-
+    dovus, kurie galėjo būti vienas kitam net priešingi — iš skir-
+    tingų kraštų galėjo atsinešti ir skirtingus politinius siekimus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -181,7 +184,9 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   santrauka: 'Mat besigviešiantys sosto jau turės pagrįsti savo teises, giminystę arba priklausomybę valdovų dinastijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    paveldėjimo principas, o Viduramžiais tai buvo vienas iš svarbiausių
     valstybės stabilumo požymių. Mat besigviešiantys sosto jau turės pagrįsti
+    savo teises, giminystę arba priklausomybę valdovų dinastijai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -207,6 +212,9 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   santrauka: 'Gediminaičių dinastijos valdymas susijęs su Lietuvos istorijos laikotarpiu, istorinėje tautos sąmonėje laikomu šlovingiausiu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Mūsų kultūroje
+    ypač garbingą vietą užima žymiausių jos atstovų – Gedimino, Algirdo,
+    Kęstučio, Vytauto – vardai, o dinastijos ženklas – Gediminaičių stulpai –
     yra vienas iš svarbiausių lietuvių tautos ir Lietuvos valstybės simbolių.
   citata_rodoma: ''
   teiginio_tipas: faktas

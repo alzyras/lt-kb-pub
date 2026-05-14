@@ -38,12 +38,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 - t-002
   teiginys: 'M. Strijkovskis (XVI a. antrojoje pusėje) papildė, kad mūšyje vykstant atkakliai kovai, Gediminas su dalimi karių smogė rusams iš šono, jų rikiuotę pralaužė ir priešą sumušė, priešas buvo priverstas bėgti.'
   pagrindžia:
@@ -56,20 +50,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-003
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Jį mena xvi a. is-
-    torinė tradicija (Lietuvos metraščiai,
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'M. Strijkovskis (XVI a. antrojoje pusėje) papildė, kad mūšyje vykstant atkakliai kovai, Gediminas su dalimi karių smogė rusams iš šono, jų rikiuotę pralaužė ir priešą sumušė, priešas buvo priverstas bėgti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -91,7 +71,10 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   santrauka: 'Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajorijos knyga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Bene svarbiausias lenkiškojo modelio pradžios taškas buvo
+    1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lie-
     tuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajo-
+    rijos knyga.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

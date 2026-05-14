@@ -55,7 +55,11 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   santrauka: 'Jis kvietė į Lietuvą atvykti ir čia įsikurti vokiečių riterius, pirklius, amatininkus, valstiečius, žadėjo jiems tokias pačias veiklos sąlygas kaip Europoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Gediminas taip pat išsiuntė laiškus Vokietijos
+    miestams bei vienuolijoms, pranešdamas, kad laukia popiežiaus pasiun-
+    tinių tartis dėl krikšto. Jis kvietė į Lietuvą atvykti ir čia įsikurti vokiečių
     riterius, pirklius, amatininkus, valstiečius, žadėjo jiems tokias pačias vei-
+    klos sąlygas kaip Europoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -67,7 +71,9 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   santrauka: 'LDK įsikūrė vokiečių, žydų ir armėnų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    LDK įsikūrė vokie-
     čių, žydų ir armėnų. Beveik visos šios bendruomenės (išskyrus vokiečius)
+    tapo kunigaikščių kolektyviniais vasalais, turinčiais savo konfesiją ir raštą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

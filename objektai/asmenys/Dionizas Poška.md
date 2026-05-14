@@ -27,7 +27,9 @@ tags:
   santrauka: 'Ši mintis paskatino kai kuriuos inteligentus, gyvenusius Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas Poška, Silvestras Valiūnas).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ši mintis paskatino kai kuriuos inteligentus, gyvenusius
     Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas
+    Poška, Silvestras Valiūnas).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

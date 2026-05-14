@@ -60,18 +60,21 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
 - t-005
   teiginys: 'buvo sukurta originali, vadinamoji Vilniaus baroko mokykla, kurios pagrindinis architektas Jonas Kristupas Glaubicas (Johann Christoph Glaubitz) turėtų būti drąsiai įvesdintas į Europos baroko istoriją.'
   pagrindžia:
-    - c-004
+    - c-001
 - t-006
   teiginys: 'Glaubicas suformavo baroko architektūrinio stiliaus atmainą, neturinčią analogo – Vilniaus baroko mokyklą.'
   pagrindžia:
-    - c-005
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Glaubicas įvardijamas kaip Vilniaus baroko mokyklos pagrindinis architektas.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tik XVII a. vyravo „importinis“, ypač itališkas, barokas,
+    o XVIII a. buvo sukurta originali, vadinamoji Vilniaus baroko mokykla,
     kurios pagrindinis architektas Jonas Kristupas Glaubicas (Johann Chris-
+    toph Glaubitz) turėtų būti drąsiai įvesdintas į Europos baroko istoriją.
   citata_rodoma: ''
   teiginio_tipas: vertinimas
   patikimumo_lygis: aukstas
@@ -84,7 +87,15 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
   santrauka: Glaubicas aprašomas kaip Vilniaus mokyklos formuotojas ir kelių konfesinių bendruomenių architektas.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Pirmojoje XVIII a. pusėje susiformavo savita Vil-
+    niaus mokykla, kurios stilistikos formuotojas, produktyviausias XVIII a. ar-
+
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    83
+    chitektas ne tik Vilniuje, bet ir visoje LDK buvo iš vokiškų žemių atvykęs liu-
     teronas Jonas Kristupas Glaubicas (apie 1700–1767 m.). Jis puikiai pritapo
+    daugiakonfesiame Vilniuje, kūrė ne tik savo bendruomenei – liuteronams,
+    bet ir katalikams, graikams katalikams, stačiatikiams, žydams.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -99,6 +110,7 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai leidžia pakelti J. K. Glaubicą į pačių reikšmingiausių Lietuvos istorijos
+    asmenų rangą, nes prieš jo nuopelnus nublanksta epochos valdovų darbai.
   citata_rodoma: ''
   teiginio_tipas: vertinimas
   patikimumo_lygis: aukstas
@@ -107,29 +119,7 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
   priskyrimo_pagrindas: explicit_variant
   pagrindžia:
     - t-004
-- c-004
-  santrauka: 'buvo sukurta originali, vadinamoji Vilniaus baroko mokykla, kurios pagrindinis architektas Jonas Kristupas Glaubicas (Johann Christoph Glaubitz) turėtų būti drąsiai įvesdintas į Europos baroko istoriją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    toph Glaubitz) turėtų būti drąsiai įvesdintas į Europos baroko istoriją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
     - t-005
-- c-005
-  santrauka: 'Glaubicas suformavo baroko architektūrinio stiliaus atmainą, neturinčią analogo – Vilniaus baroko mokyklą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    daugiakonfesiame Vilniuje, kūrė ne tik savo bendruomenei – liuteronams,
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
     - t-006
 
 ## Ryšiai

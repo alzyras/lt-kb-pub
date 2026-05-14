@@ -39,6 +39,8 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
     jusi, nes didžiuliai Palenkės, Vo-
     luinės, Braclavo ir Kijevo žemių
     plotai atiteko Lenkijai. Lietuviai
+    veltui reikalavo, kad lenkai tas
+    žemes jiems grąžintų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

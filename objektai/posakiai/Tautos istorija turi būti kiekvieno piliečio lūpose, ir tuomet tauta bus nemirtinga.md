@@ -47,7 +47,12 @@ Frazė istorijos atmintį sieja su piliečių kalbėjimu ir tautos gyvybingumu; 
   santrauka: Citata pateikia frazės tekstą, datą, priskyrimą ir atminties argumentą.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi
+    1859 m. lietuvių švietėjo Mikalojaus Akelaičio žodžiuose lenkų literatui
+    Juzefui Ignacui Kraševskiui (Józef Ignacy Kraszewski): „Tautos istorija
     turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“
+    Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną
+    Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

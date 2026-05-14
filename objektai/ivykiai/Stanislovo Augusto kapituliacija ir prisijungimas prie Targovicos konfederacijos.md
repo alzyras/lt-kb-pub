@@ -41,7 +41,13 @@ Nenurodyta
   santrauka: 'Istorija pasmerkė susitaikėlišką Stanislovo Augusto poziciją – LLV priešinimosi galimybės 1792 m. gegužės–liepos kare su Rusija toli gražu nebuvo išsemtos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos atstovai
+    pasirodė net garbingiau nei Lenkijos – iš penkių balsų, pasisakiusių už
+    priešinimąsi, trys buvo iš Lietuvos: LDK didysis maršalas Ignotas Potoc-
+    kis, LDK rūmų maršalas Stanislovas Soltanas ir LLV Seimo lietuviškosios
     pusės maršalas K. N. Sapiega. Istorija pasmerkė susitaikėlišką Stanislovo
+    Augusto poziciją – LLV priešinimosi galimybės 1792 m. gegužės–liepos
+    kare su Rusija toli gražu nebuvo išsemtos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

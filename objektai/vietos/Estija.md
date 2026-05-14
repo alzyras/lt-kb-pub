@@ -27,7 +27,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - t-002
   teiginys: 'Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.'
   pagrindžia:
-    - c-002
+    - c-001
 - t-004
   teiginys: 'Karalius vis tiek įsakė Livonijoje stovinčios kariuomenės (jos ten buvo labai maža) vadams pulti švedus Estijoje.'
   pagrindžia:
@@ -50,7 +50,8 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   santrauka: 'Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Prūsuose jie pasiekdavo net Vyslą, siaubdavo
+    Tuo tarpu Treniota su žemaičiais žygiavo
+    tolimus žygius: Prūsuose jie pasiekdavo net Vyslą, siaubdavo
     Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -59,17 +60,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
     - t-002
 - c-004
   santrauka: 'Karalius vis tiek įsakė Livonijoje stovinčios kariuomenės (jos ten buvo labai maža) vadams pulti švedus Estijoje.'
@@ -89,6 +79,8 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lyginant su Latvija ir Estija, dvarininkų žemėvalda Lietuvoje
+    buvo perpus mažesnė, o dvarai mažesni 5–6 kartus, valstiečių ūkio ploto
+    vidurkis Lietuvoje – 15,2 ha (Latvijoje – 21,0, Estijoje 29,4 ha).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -100,7 +92,10 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   santrauka: 'Latvija ir Estija vengė kištis į Lenkijos ir Lietuvos konfliktą dėl Vilniaus, abi gravitavo į Varšuvą, o Lietuva dėl Vilniaus problemos iškrisdavo iš perspektyvaus regioninio darinio su Lenkija priešakyje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Latvija ir Es-
     tija vengė kištis į Lenkijos ir Lietuvos konfliktą dėl Vilniaus, abi gravitavo
+    į Varšuvą, o Lietuva dėl Vilniaus problemos iškrisdavo iš perspektyvaus
+    regioninio darinio su Lenkija priešakyje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

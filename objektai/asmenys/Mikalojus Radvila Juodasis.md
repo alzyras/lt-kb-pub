@@ -38,7 +38,11 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   santrauka: 'Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Juodasis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vėliau Radvila Juo-
+    dasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė
     konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
+    pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
+    jos pobūdį.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -50,7 +54,10 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   santrauka: 'Lietuvos reformacijos ryškiausia ir įtakingiausia protestantų figūra – LDK kancleris, Vilniaus vaivada Mikalojus Radvila Juodasis (1515–1565), 1563 m. išleidęs lenkiškai „Brastos Bibliją“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos reformacijos ryškiausia ir įtakin-
     giausia protestantų figūra – LDK kancleris, Vilniaus vaivada Mikalojus
+    Radvila Juodasis (1515–1565), 1563 m. išleidęs lenkiškai „Brastos Bibli-
+    ją“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -63,6 +70,8 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Reformacija tapo nauju lenkėjimo postūmiu. Radvila Juodasis
+    1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į kokią kitą) kal-
+    bą dėl to, kad „būtų liaudžiai suprantama“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

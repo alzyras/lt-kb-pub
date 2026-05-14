@@ -31,6 +31,7 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
   santrauka: 'Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Mokiniai buvo verčiami stoti į pionierių ir komjaunimo
     organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -44,6 +45,8 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose
+    steigiamos komjaunimo ir pionierių organizacijos, įrengiami Lenino kam-
+    peliai, leisti sienlaikraščiai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

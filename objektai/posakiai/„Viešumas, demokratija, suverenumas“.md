@@ -28,7 +28,12 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
   santrauka: 'Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Pradiniame etape Sąjūdis iš es-
+    mės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų eta-
     pais siejo tik laisvos Lietuvos siekis. M. Gorbačiovas, rungdamasis su senąja
+    SSKP vadovybe, buvo priverstas remtis reformas palaikančiomis jėgomis,
+    o LPS stengėsi remti Maskvoje pradėtas reformas ir siekė jas įgyvendinti
+    Lietuvoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

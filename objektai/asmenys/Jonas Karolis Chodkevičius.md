@@ -28,7 +28,9 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
   santrauka: 'Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje), turinti 3 tūkst.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1605 m. mūšyje prie Kirchholmo netoli Rygos J. K. Chodkevičiaus
     vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje),
+    turinti 3 tūkst. raitelių, nugali 12 tūkst. švedų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

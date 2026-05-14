@@ -28,7 +28,10 @@ Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos eigą – sumany
   santrauka: 'Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos eigą – sumanymas rengti egzekuciją kilo oficialiai sukilimo valdžiai oponavusiame jakobinų klube.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos
+    eigą – sumanymas rengti egzekuciją kilo oficialiai sukilimo valdžiai opo-
     navusiame jakobinų klube. Šis klubas rengė manifestacijas, privertusias
+    teismą paskelbti minėtus mirties nuosprendžius.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

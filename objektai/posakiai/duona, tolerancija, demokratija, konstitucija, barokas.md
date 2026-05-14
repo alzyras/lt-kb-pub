@@ -47,7 +47,9 @@ Formulė glaustai apibendrina Abiejų Tautų Respublikai priskiriamus XVII–XVI
   santrauka: Citata pateikia formulę ir išskleidžia jos elementus.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    duona, toleran-
+    Paprastai moksle laikoma, kad ši
+    valstybė Europos ir pasaulio civilizacijai XVII–XVIII a. davė labai reikš-
+    mingus fenomenus, kurių trumpa formulė būtų tokia – duona, toleran-
     cija, demokratija, konstitucija, barokas.
   citata_rodoma: ""
   teiginio_tipas: faktas

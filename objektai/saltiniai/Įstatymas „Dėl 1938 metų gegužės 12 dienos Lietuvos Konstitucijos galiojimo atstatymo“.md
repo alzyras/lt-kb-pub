@@ -29,7 +29,12 @@ Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta Atkuriamuoju Seim
   santrauka: 'Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta Atkuriamuoju Seimu, toliau – AT-AS) ėmė įgyvendinti nuostatą, kad šalies teritorijoje neveikia jokios kitos valstybės konstitucija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau šios konstitucijos veikimas visa apim-
+    timi nebuvo atnaujintas, o už pusvalandžio sustabdytas ir patvirtinta lai-
     kinoji valstybės konstitucija – Laikinasis Pagrindinis Įstatymas, atitikęs
+    susiklosčiusius visuomeninius santykius ir valstybės valdymo struktūrą,
+    bet panaikinęs visas buvusias Lietuvos ir jos piliečių prievoles, kurias ne-
+    teisėtai nustatė Lietuvoje galiojusi sovietų konstitucija ir įstatymai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

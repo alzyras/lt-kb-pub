@@ -28,6 +28,8 @@ Merkinės piliakalnis – vienas gražiausių Lietuvos piliakalnių, ant kurių 
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Merkinės piliakalnis – vienas gražiausių Lietuvos piliakalnių,
+    ant kurių stovėjusios medinės pilys buvo svarbiausi gynybiniai
+    statiniai XIII–XIV a.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

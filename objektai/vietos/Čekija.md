@@ -29,6 +29,7 @@ tags:
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Čekijai „atkritus“ nuo Jogailaičių dinastinės sistemos, joje, kaip ir
+    anksčiau, liko tik Lenkija ir Lietuva.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

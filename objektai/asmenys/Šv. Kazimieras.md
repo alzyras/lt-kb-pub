@@ -35,7 +35,9 @@ Pagaliau dar vienas Kazimiero sūnus, taip pat Kazimieras, pripažintas šventuo
   santrauka: 'Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, garbinimo tradicijos klostymasis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kazimiero (1458–1484),
     Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, garbinimo tradicijos
+    klostymasis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -47,7 +49,10 @@ Pagaliau dar vienas Kazimiero sūnus, taip pat Kazimieras, pripažintas šventuo
   santrauka: 'pradžioje karalaitis Kazimieras garbintas Vilniaus apylinkėse, o šv.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Karalaitis Kazimieras paskelbtas šventuoju, kai po mirties
     pradėjo garsėti kaip stebukladaris, nes tikėta, kad jis išgelbėjęs Lietuvą
+    karuose su Maskva – 1518 m. padėjęs Lietuvos kariuomenei įveikti prie-
+    šą prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -39,5 +39,4 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Gumbinė]]
 - [[objektai/vietos/Stalupėnai]]

@@ -58,7 +58,10 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   santrauka: 'Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Poniatovskis rašė Prancūzijos steigiamajam susirinkimui, kad, be Prancūzijos, „yra dar viena tauta Europoje“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ne veltui 1791 m. vasarą Lenkijos ir
     Lietuvos valdovas Stanislovas Augustas Poniatovskis rašė Prancūzijos
+    steigiamajam susirinkimui, kad, be Prancūzijos, „yra dar viena tauta Eu-
+    ropoje“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -70,7 +73,11 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   santrauka: 'Žlugus Saksų dinastijai, 1764 m. LLV valdovu buvo išrinktas Stanislovas Augustas Poniatovskis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    LLV valdovu buvo išrinktas Stanislo-
     vas Augustas Poniatovskis. Nors jis ne iš tų valdovų, kurie lemia istorijos
+    vyksmą, būtent jo valdymo laikas (1764–1795) tapo istorine epocha – tai
+    ir permainų ir reformų bandymų, ir baroko saulėlydžio bei valstybės ago-
+    nijos ir sunaikinimo epocha.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -82,7 +89,10 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   santrauka: 'Liepos pabaigoje gynyba jau telkėsi prie Brastos, bet kaip tik tuo metu – liepos 24 dieną atėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą prie Targovicos konfederacijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Liepos pabaigoje
+    gynyba jau telkėsi prie Brastos, bet kaip tik tuo metu – liepos 24 dieną at-
     ėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą
+    prie Targovicos konfederacijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -94,7 +104,9 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   santrauka: '1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Karalius laikėsi pozicijos, kad
     Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos
+    21 dieną iš Jekaterinos II gautą notą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -106,7 +118,9 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   santrauka: 'Istorija pasmerkė susitaikėlišką Stanislovo Augusto poziciją – LLV priešinimosi galimybės 1792 m. gegužės–liepos kare su Rusija toli gražu nebuvo išsemtos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Istorija pasmerkė susitaikėlišką Stanislovo
     Augusto poziciją – LLV priešinimosi galimybės 1792 m. gegužės–liepos
+    kare su Rusija toli gražu nebuvo išsemtos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -119,6 +133,8 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O prie Varšuvos viskas atsirėmė į Stanislovo Augusto poziciją, kuris
+    taip ir nepasirodė fronte ir neišnaudojo visuotinės mobilizacijos, nesufor-
+    mavo miestiečių milicijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -130,7 +146,11 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   santrauka: 'Taigi 1795-ieji yra visų pirma Stanislovo Augusto fiasko, o į tai nuosekliai vedė jo visa ankstesnė biografija ir asmens savybės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Dėl savo
+    ambicijų užsiėmė smulkiomis intrigėlėmis, susipyko su visa savo aplin-
+    ka, todėl lemtingais momentais stūksojo vienišas, o visuomenė, tiek daug
     sudėjusi vilčių į šį valdovą ir Gegužės trečiosios konstitucija atsisakiusi
+    valdovų elekcijos, buvo nuvilta ir išduota.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -142,6 +162,8 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   santrauka: 'Tuo metu Rusija privertė Stanislovą Augustą targovitėnų valdomame Gardine 1793 m. birželio 17 d. sušaukti Seimą, kuris turėjo pritarti naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tuo metu Rusija privertė Stanislovą Augustą targovitėnų valdo-
+    mame Gardine 1793 m. birželio 17 d. sušaukti Seimą, kuris turėjo pritarti
     naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.
   citata_rodoma: ''
   teiginio_tipas: faktas

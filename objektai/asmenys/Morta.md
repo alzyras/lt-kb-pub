@@ -29,7 +29,9 @@ Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir 
   santrauka: 'Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Per jį 1251 m. pavasarį (ar
     vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o
+    sau – karaliaus karūną.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

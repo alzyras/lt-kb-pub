@@ -27,7 +27,9 @@ Mackevičius, 1934 m. L I E T U V O S I S T O R I J A 52 ceremonija neįvyko –
   santrauka: 'Mackevičius, 1934 m. L I E T U V O S I S T O R I J A 52 ceremonija neįvyko – Lenkijos ponų taryba privertė Jogailą atšaukti duotą sutikimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nors Niurnbergo
     auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai,
+    Lucko suvažiavimas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

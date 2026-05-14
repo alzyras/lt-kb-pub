@@ -27,7 +27,9 @@ Taip liko neįgyvendintos Algirdo išsakytos pretenzijos, kad „savaime visa Ru
   santrauka: 'Taip liko neįgyvendintos Algirdo išsakytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o Vilnius nevirto „antruoju Kijevu“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Taip liko neįgyvendintos Algirdo išsa-
     kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o
+    Vilnius nevirto „antruoju Kijevu“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

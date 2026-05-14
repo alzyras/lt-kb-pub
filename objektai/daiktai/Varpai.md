@@ -96,7 +96,13 @@ Nenurodyta
   santrauka: '1958 m. „atšilimas“ baigėsi, pradėta kovoti su religija mokymo ir mokslo įstaigose, įmonėse steigti ateistų būreliai, drausta skambinti varpais, varžomi krikštijimai, katekizavimas, ribotas atlaidų lankymas Žemaičių Kalvarijoje ir Šiluvoje (miestelis netoli.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1958 m. „atšilimas“ baigėsi, pradėta kovoti su religija moky-
+    mo ir mokslo įstaigose, įmonėse steigti ateistų būreliai, drausta skambinti
+    varpais, varžomi krikštijimai, katekizavimas, ribotas atlaidų lankymas
     Žemaičių Kalvarijoje ir Šiluvoje (miestelis netoli Raseinių, kurį valdžia
+    blokuodavo atlaidų metu, paskelbdama neva „kiaulių marą“), tikintieji
+    pajuokiami, įžeidinėjami, uždrausta statyti kryžius, šiurkščiais metodais
+    sustabdyta naujos bažnyčios statyba Klaipėdoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -108,7 +114,9 @@ Nenurodyta
   santrauka: 'Laidojant sausio 13-osios aukas, solidarumo su Lietuva varpai skambėjo Latvijoje, Estijoje, Suomijoje, Švedijoje, Norvegijoje ir kitose Europos šalyse.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Laidojant sausio 13-osios aukas, solidarumo su Lietuva
     varpai skambėjo Latvijoje, Estijoje, Suomijoje, Švedijoje, Norvegijoje ir
+    kitose Europos šalyse.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

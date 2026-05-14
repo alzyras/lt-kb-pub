@@ -29,7 +29,13 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   santrauka: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vilniaus generalgubernatoriumi paskirtas Michailas Muravjo-
+    vas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgalioji-
+    mus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių. Jis gudriai
+    išmušė iš sukilimo vadovybės valstietišką kortą – pasiekė, kad valstiečių
     reforma Lietuvoje būtų pakoreguota jiems palankesne kryptimi ir imta
+    vykdyti be jokio derinimo su dvarininkais, kaip buvo numatyta 1861 m.
+    įstatymų aktuose.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

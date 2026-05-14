@@ -171,7 +171,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­
     jant Vorsklos nugalėtojui Edygai, 1414—1416 m. laikotarpyje
     dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriauda­
-    mi patį Kijevą ir Lucką
+    mi patį Kijevą ir Lucką.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -238,7 +238,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     mi patį Kijevą ir Lucką. Cemblakas iš savo sostinės turėjo per­
     sikelti į Vilnių, o Vytautas, užimtas tada karu su Vok. Ordinu
     (1414) ir krikšto reikalais Žemaitijoje (1416), negalėjo tinkamai
-    totorių sudrausti
+    totorių sudrausti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -250,7 +250,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   santrauka: Totoriai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Totoriai,
+    Ordino trukdė dar
+    taikų Vytauto darbą totoriai, Livonijos Ordinas ir k. Totoriai,
     vedami seno Vorsklos nugalėtojo Edygos, 1414—1416 m. smar­
     kiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes.
   citata_rodoma: ""
@@ -302,7 +303,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   santrauka: 'Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais, kurie tapo artimosios sargybos tautomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Antra vertus, kunigaikš-
     čiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais,
+    kurie tapo artimosios sargybos tautomis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -314,7 +317,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   santrauka: 'Žalgirio pergalė dar nepasiekta ideologiškai – Vakaruose sklido paskviliai apie „netikrą“ Jogailos ir Vytauto pergalę, nes jie nugalėjo pasitelkę pagonis, totorius musulmonus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Žalgirio pergalė dar nepasiekta ideologiškai – Va-
     karuose sklido paskviliai apie „netikrą“ Jogailos ir Vytauto pergalę, nes
+    jie nugalėjo pasitelkę pagonis, totorius musulmonus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -326,6 +331,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   santrauka: 'Taigi net jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje, pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruomenių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Taigi net
+    jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje,
+    pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-
     menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
   citata_rodoma: ''
   teiginio_tipas: faktas

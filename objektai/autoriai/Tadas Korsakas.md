@@ -71,7 +71,12 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
   santrauka: Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Remiantis šiuo
+    įžadu, Gegužės trečiosios konstitucijos įtvirtintose pagrindinėse bendro-
+    se vykdomosios valdžios institucijose – Kariuomenės ir Iždo komisijo-
+    se – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai
     turėjo būti paeiliui lenkai ir lietuviai. Nors ir įžade kalbama apie „bendrą
+    Tėvynę – Lenkijos Respubliką“, visur minima ir „abi tautos“ bei LDK.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -84,7 +89,9 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
   santrauka: Korsakas įvardijamas kaip konstitucijos pataisos autorius ir žuvęs ginant Varšuvą.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ginant Varšuvą žuvo Lietuvos suki-
     lėlių vadas J. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius
+    T. Korsakas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

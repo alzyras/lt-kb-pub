@@ -27,7 +27,10 @@ Visi tie veiksniai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas
   santrauka: 'Visi tie veiksniai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas reikalavimas stojant į ES uždaryti Ignalinos atominę elektrinę, kurią europiečiai manė esant nesaugią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Visi tie veiks-
+    niai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas reikalavimas
     stojant į ES uždaryti Ignalinos atominę elektrinę, kurią europiečiai manė
+    esant nesaugią.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -29,6 +29,7 @@ LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, a
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     K. Škirpa manė, kad nauja organizacija turi palaikyti ypač glaudžius
+    ryšius su nacių Vokietija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

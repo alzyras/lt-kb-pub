@@ -33,7 +33,10 @@ Derybų su Lenkija mediatoriumi tapo buvęs Belgijos užsienio reikalų ministra
   santrauka: 'Derybų su Lenkija mediatoriumi tapo buvęs Belgijos užsienio reikalų ministras Polis Himansas (Paul Hymans).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Derybų su Lenkija mediatoriumi tapo buvęs Belgijos užsienio
+    reikalų ministras Polis Himansas (Paul Hymans). Jis manė sudaryti fede-
     raciją, tarnaujančią Lietuvos ir Lenkijos interesams, kuri prisidėtų prie
+    taikos Europoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,6 +49,7 @@ Derybų su Lenkija mediatoriumi tapo buvęs Belgijos užsienio reikalų ministra
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva ir Lenkija turėjo koordinuoti užsienio politiką ir sudaryti karinę
+    ir ekonominę konvencijas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -24,12 +24,6 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
   teiginys: 'Kai kurių vėlesniųjų šaltinių liudijimu, tada buvusi nužudyta ir senutė Vytauto motina, Birutė, kurią, išvykdamas kariauti su Jogaila, Kęstutis buvo palikęs Brastos pilyje.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: Birutė įvardijama kaip žinomo Žemaičių bajoro Vydimanto duktė ir Kęstučio žmona.
-  pagrindžia:
-    - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 - t-003
   teiginys: Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   pagrindžia:
@@ -61,20 +55,6 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-002
-  santrauka: Citata pagrindžia, kad Birutė buvo Kęstučio žmona ir Vydimanto duktė.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jo tėvas Kęstutis, nuolatinis
-    Žemaičių krašto gynėjas, turėdamas per 40 metų vedė žinomo
-    Žemaičių bajoro Vydimanto dukterį Birutę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
   santrauka: Citata pagrindžia šaltinio teiginį apie Birutės vaikus.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -94,7 +74,13 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
   santrauka: 'Šiandien pripažįstama, kad epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraščiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi dar ir kitkuo –.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Šiandien pripažįstama, kad
+    epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraš-
+    čiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į
     Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi
+    dar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palai-
+    dota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei,
+    o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -114,7 +100,3 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas]]

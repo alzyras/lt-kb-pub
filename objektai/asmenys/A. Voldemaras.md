@@ -23,20 +23,10 @@ Voldemarą ir M. Ministerių pirmininkas Voldemaras, manydamas, kad taikingos ir
   teiginys: 'Voldemarą ir M.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Ministerių pirmininkas Voldemaras, manydamas, kad taikingos ir demokratiškos Lietuvos niekas negalėsiąs pulti, pats tuojau išvyko į užsienius išvystyti diplomatinės akcijos.'
-  pagrindžia:
-    - c-002
 - t-003
   teiginys: 'Voldemarui sudaryti pirmą nepriklausomosios Lietuvos kabinetą, kurs pradėjo veikti lapkričio 11 d.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: '1934 m. birželio 6–7 d. buvo mėginta grąžinti A. Voldemarą valdžion.'
-  pagrindžia:
-    - c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 - t-005
   teiginys: 'A. Voldemaras 1909 m. baigė Petrapilio universitetą, Pirmojo pasaulinio karo metu iki bolševikų revoliucijos buvo Permės universiteto profesoriumi, o Kaune dėstė 1920–1926 m.'
   pagrindžia:
@@ -46,7 +36,7 @@ Voldemarą ir M. Ministerių pirmininkas Voldemaras, manydamas, kad taikingos ir
 - t-006
   teiginys: '1909 m. Voldemaras paskelbė studiją apie XV–XVI amžių tautinę kovą Didžiojoje Lietuvos Kunigaikštijoje ir išryškėjo kaip svarbus Lietuvos istoriografijos veikėjas.'
   pagrindžia:
-    - c-006
+    - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-007
@@ -80,27 +70,15 @@ Voldemarą ir M. Ministerių pirmininkas Voldemaras, manydamas, kad taikingos ir
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Ministerių pirmininkas Voldemaras, manydamas, kad taikingos ir demokratiškos Lietuvos niekas negalėsiąs pulti, pats tuojau išvyko į užsienius išvystyti diplomatinės akcijos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ministerių pirmininkas Voldemaras, manydamas, kad tai-
-    kingos ir demokratiškos Lietuvos niekas negalėsiąs pulti, pats
-    tuojau išvyko į užsienius išvystyti diplomatinės akcijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
   santrauka: 'Voldemarui sudaryti pirmą nepriklausomosios Lietuvos kabinetą, kurs pradėjo veikti lapkričio 11 d.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Tada
     1918 metų lapkričio mėn. 5 d. Taryba pavedė A. Voldemarui
     sudaryti pirmą nepriklausomosios Lietuvos kabinetą, kurs pradėjo
-    veikti lapkričio 11 d.
+    veikti lapkričio 11 d., — tą pačią dieną, kai Vokiečiai, pralaimėję
+    karą, turėjo pasirašyti preliminarines kapituliacijos sąlygas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -108,57 +86,8 @@ Voldemarą ir M. Ministerių pirmininkas Voldemaras, manydamas, kad taikingos ir
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 1934 m. buvo mėginta grąžinti A. Voldemarą valdžion.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vad. « puskarininkių perversmas » (Dr. J. Pajaujo iniciatyva),
-    Tauragės pučas (1927.IX.), plečkaitininkų veikla, pulk. J. Petruičio
-
-    (^20) **K. A. Matulaitis :** **_Sukilimas Sūduvoje 1905-1906 m.,_** **Tautos Praeitis,**
-    n, **3-4, 1967, 257-270 p.**
-
-
-    ```
-    LIETUVOS ISTORIJOS PERIODIZACIJA^41
-    ```
-    žygis (1928 m.), moksleivių ateitininkų organizacijos uždarymas
-    (1930), Teologijos-Filosofijos fakulteto apkarpymas, savaip supras­
-    tas Konkordato aiškinimas ir ryšium su tuo Apaštalų Sosto nun­
-    cijaus R. Bartoloni išsiuntimas iš Lietuvos (1931.VI.5), taip pat
-    bandymas grąžinti valdžion A. Voldemarą (1934.VI.6-7 d.), Klai­
-    pėdoje imtas leisti opozicijos laikraštis «Bendras Žygis » (1938-
-    1939 m.), buvo tik dalis anam laikotarpiui charakteringų apraiškų
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_variant
-  pagrindžia:
-    - t-004
 - c-005
   santrauka: A. Voldemaras buvo Petrapilio universiteto auklėtinis ir profesorius Permėje bei Kaune.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Šitoje pirmojoje lietuvių tautinio atgimimo istorikų genera­
-    cijoje, kuri, žinoma, istorijos mokslus turėjo svetur studijuoti,
-    negalima praleisti A. Voldemaro. Petrapilio universitete
-    1909 m. jis baigė klasikinę filologiją ir istoriją ir I pasaulinio karo
-    metu iki bolševikų revoliucijos buvo Permės universiteto profeso­
-    riumi. Kaune jis profesoriavo Aukštuosiuose Kursuose (1920-22)
-    ir toliau Humanitarinių mokslų fakultete iki 1926 m., kur dėstė
-    antikinę istoriją
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_variant
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: Voldemaras 1909 m. paskelbė įsidėmėtiną studiją apie tautinę kovą ir išryškėjo Lietuvos istoriografijoje.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šitoje pirmojoje lietuvių tautinio atgimimo istorikų genera­
@@ -176,12 +105,17 @@ Voldemarą ir M. Ministerių pirmininkas Voldemaras, manydamas, kad taikingos ir
   patikimumo_pagrindimas: ""
   priskyrimo_pagrindas: explicit_variant
   pagrindžia:
+    - t-005
     - t-006
 - c-007
   santrauka: 'Voldemaras, A.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vilniaus problema, įtempti santykiai su Lenkija iš dalies lėmė ir Lietu-
+    vos demokratijos lygį – šalyje buvo karo padėtis, dėl to vykdyta spaudos
+    cenzūra, piliečių susirinkimai apriboti, valdantieji baudė opozicijos pu-
     blicistus; pasėdėjo kalėjime ir aršiausi kritikai tautininkai A. Voldemaras,
+    A. Smetona.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -193,7 +127,9 @@ Voldemarą ir M. Ministerių pirmininkas Voldemaras, manydamas, kad taikingos ir
   santrauka: 'Voldemarui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Spaudžiant perversmininkams prezidentas K. Grinius, gavęs valstiečių
     liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę
+    ir naują Ministrų kabinetą pavedė sudaryti tautininkui A. Voldemarui.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -205,7 +141,15 @@ Voldemarą ir M. Ministerių pirmininkas Voldemaras, manydamas, kad taikingos ir
   santrauka: 'Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino politinių partijų vaidmens, esą atstovavusių tik dalies, o ne visos tautos valiai, ir neketino sugrįžti į vadinamuosius „seimų laikus“, prilygintus netvarkai ir anarchijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    A. Smetona ir A. Voldemaras
+    atvirai pabrėždavo stiprių prezi-
+    dento galių būtinybę, nevertino
+    politinių partijų vaidmens, esą
+    atstovavusių tik dalies, o ne vi-
+    sos tautos valiai, ir neketino su-
+    grįžti į vadinamuosius „seimų
     laikus“, prilygintus netvarkai ir
+    anarchijai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

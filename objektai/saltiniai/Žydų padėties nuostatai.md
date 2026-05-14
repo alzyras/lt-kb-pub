@@ -27,7 +27,10 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
   santrauka: 'Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėties nuostatų sudarymas, konclagerio steigimas VII forte) siekė nuolaidų iš nacių Vokietijos ir plaukė jos politikos farvateryje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Pati
+    LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padė-
     ties nuostatų sudarymas, konclagerio steigimas VII forte) siekė nuolaidų
+    iš nacių Vokietijos ir plaukė jos politikos farvateryje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

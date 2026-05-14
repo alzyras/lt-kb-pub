@@ -46,7 +46,9 @@ viršuje — popiežiaus Grigaliaus XIII, jo kairėje — Zigmanto Augusto, deš
   santrauka: '1579 m. spalio 29 d. popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją universitetu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1579 m. spalio 29 d.
     popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją uni-
+    versitetu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

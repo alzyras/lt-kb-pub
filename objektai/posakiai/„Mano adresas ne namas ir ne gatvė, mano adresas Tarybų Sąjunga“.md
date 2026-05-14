@@ -28,7 +28,10 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
   santrauka: 'Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymių, kuris partijai įsakius dirbs bet kur pagal žinomos dainos žodžius „Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Galutiniu produktu turėjo tapti homo sovieticus – as-
+    muo be tautinių požymių, kuris partijai įsakius dirbs bet kur pagal žino-
     mos dainos žodžius „Mano adresas ne namas ir ne gatvė, mano adresas
+    Tarybų Sąjunga“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

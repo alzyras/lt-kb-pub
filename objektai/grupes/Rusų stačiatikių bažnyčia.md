@@ -46,7 +46,9 @@ tags:
   santrauka: 'Tuo norėta pademonstruoti, kad Šiaurės Vakarų krašto centras yra ne ką mažiau stačiatikiškas nei katalikiškas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tuo norėta pademonstruoti, kad Šiaurės Vakarų krašto
     centras yra ne ką mažiau stačiatikiškas nei katalikiškas. Rusų stačiatikių
+    bažnyčios katedra paversta Šv.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

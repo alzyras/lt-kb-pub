@@ -30,7 +30,12 @@ Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų k
   santrauka: 'Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų kolonijinių valstybių kūrimasis prie Baltijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų
     kolonijinių valstybių kūrimasis prie Baltijos. Lietuvos valstybė atsirado
+    pirmiausia kaip apsigynimo priemonė, tačiau ji turėjo remtis kokiu nors
+    visuomenės sluoksniu – tas sluoksnis buvo Mindaugo kariauna, o vieno
+    valdovo įsitvirtinimas yra ryškiausias išorinis valstybės atsiradimo požy-
+    mis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

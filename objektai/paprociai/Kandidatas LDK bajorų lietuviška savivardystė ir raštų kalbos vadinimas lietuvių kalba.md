@@ -44,7 +44,10 @@ Nenurodyta
   santrauka: 'Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti Lietuva, o šiandien ją vadiname istorine Lietuva.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    LDK ba-
     jorai, nesvarbu, kokios etninės kilmės, laikė save lietuviais. Net oficialioji
+    valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.), savo ištakomis
+    siekianti dabartinių ukrainiečių ir baltarusių protėvių kalbą, vadinta lie-
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

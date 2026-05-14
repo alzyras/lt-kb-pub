@@ -42,7 +42,10 @@ Nenurodyta
   santrauka: 'Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tai lėmė
     spartus raštijos poreikių didėjimas Vytauto laikais. Lietuvių kalba raštijos
+    tradicijų nebuvo sukūrusi, o stačiatikiai valdiniai jau turėjo kelių šimtmečių
+    bažnytinę rašto tradiciją nuo Kijevo Rusios laikų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

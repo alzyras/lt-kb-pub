@@ -52,12 +52,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-009
-  teiginys: 'Vytautas įkūrė Volynijoje Vladimiro vyskupiją.'
-  pagrindžia:
-    - c-009
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 - t-010
   teiginys: '1219 m. Voluinės ir Lietuvos kunigaikščių sutartyje (sudarytoje taip pat ir dėl plėšiamųjų žygių į Lenkiją) būsimasis Lietuvos valstybės kūrėjas Mindaugas paminėtas ketvirtuoju tarp penkių vyresniųjų kunigaikščių.'
   pagrindžia:
@@ -114,6 +108,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     jusi, nes didžiuliai Palenkės, Vo-
     luinės, Braclavo ir Kijevo žemių
     plotai atiteko Lenkijai. Lietuviai
+    veltui reikalavo, kad lenkai tas
+    žemes jiems grąžintų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -138,6 +134,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   santrauka: Citata rodo Volyniją kaip Jogailos siūlytą priedą prie Vytauto tėviškės.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Todėl dar 1384 metų pavasarį jis pradėjo siunti­
+    nėti Vytautui pasiuntinius, kad šis grįžtų į Lietuvą, žadėdamas
     jam sugrąžinti jo tėviškę ir siūlydamas dar pridėti Volyniją su
     Lucku.
   citata_rodoma: ""
@@ -161,33 +159,13 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
-- c-009
-  santrauka: Citata tiesiogiai sieja Voluinę su Vytauto įkurta Vladimiro vyskupija.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Visas šis bažnytinis gyvenimas buvo sukauptas keturiose
-    vyskupijose. Dvi iš jų Vytauto ir Jogailos buvo įkurtos pačio­
-    je Lietuvoje — tai Vilniaus ir Žemaičių arba Medininkų vysku­
-    pijos, kurios apėmė didelius Aukštaitijos, Žemaitijos ir Sūda-
-
-
-    ```
-    119
-    ```
-    vijos plotus; trečią Vytautas įkūrė Volynijoje (Vladimiro) ir
-    ketvirtą Podolijoje (Kamienco
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
 - c-010
   santrauka: '1219 m. Voluinės ir Lietuvos kunigaikščių sutartyje (sudarytoje taip pat ir dėl plėšiamųjų žygių į Lenkiją) būsimasis Lietuvos valstybės kūrėjas Mindaugas paminėtas ketvirtuoju tarp penkių vyresniųjų kunigaikščių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Voluinės ir Lietuvos kunigaikščių sutartyje (sudarytoje taip
     pat ir dėl plėšiamųjų žygių į Lenkiją) būsimasis Lietuvos valstybės kūrėjas
+    Mindaugas paminėtas ketvirtuoju tarp penkių vyresniųjų kunigaikščių.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -199,7 +177,9 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   santrauka: 'Opoziciją pirmiausia sudarė artimiausi giminaičiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną ir Voluinę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Opoziciją pirmiausia sudarė artimiausi giminai-
     čiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną
+    ir Voluinę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -211,7 +191,10 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   santrauka: 'Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijungtos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuva tapo
+    politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-
     tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
+    buvę Voluinė ir Haličas, Kijevas, Pskovas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

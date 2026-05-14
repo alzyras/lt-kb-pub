@@ -51,7 +51,9 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
   santrauka: 'Vyriausybei derantis su Vatikanu dėl diplomatinių santykių opozicija apkaltino krikščionis demokratus išsižadant Seinų ir Vilniaus vyskupijų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vyriausybei derantis su
     Vatikanu dėl diplomatinių santykių opozicija apkaltino krikščionis de-
+    mokratus išsižadant Seinų ir Vilniaus vyskupijų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -63,7 +65,10 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
   santrauka: 'Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios padėtį valstybėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tik A. Voldemarui pa-
+    vyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis
     pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios
+    padėtį valstybėje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

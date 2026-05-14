@@ -93,7 +93,10 @@ Politinė ir rezistencinė lietuvių emigrantų organizacija, veikusi Antrojo pa
   santrauka: Aprašoma LAF informacinė ir instrukcinė veikla bei karinės dalies ryšys su Abveru.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš
     Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis
+    dėmesys buvo kreipiamas į galimybes atkurti Lietuvos valstybingumą,
+    būsimo sukilimo detales.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -106,6 +109,7 @@ Politinė ir rezistencinė lietuvių emigrantų organizacija, veikusi Antrojo pa
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     K. Škirpa manė, kad nauja organizacija turi palaikyti ypač glaudžius
+    ryšius su nacių Vokietija.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -117,7 +121,10 @@ Politinė ir rezistencinė lietuvių emigrantų organizacija, veikusi Antrojo pa
   santrauka: Nurodoma, kad naciai 1941 m. rugsėjo 26 d. uždarė LAF.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Daugumai ministrų atsisakius tapti
+    tarėjais rugsėjo 26-ąją naciai uždarė LAF (gruodį ir iš voldemarininkų su-
     sidariusią Lietuvių nacionalistų partiją). Taip nacių okupuotoje Lietuvoje
+    baigėsi legalių lietuvių organizacijų veikla.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

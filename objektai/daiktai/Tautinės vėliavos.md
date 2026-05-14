@@ -44,6 +44,10 @@ Nenurodyta
   santrauka: 'Nuo septintojo dešimtmečio iki okupacijos pabaigos veikė apie 70 tokių grupių, jų nariai platino prieš sovietų santvarką nukreiptus atsišaukimus, keldavo tautines vėliavas, minėdavo tautines šventes, viešose vietose piešdavo tautinio valstybingumo simbolius –.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nuo septintojo dešimtmečio iki oku-
+    pacijos pabaigos veikė apie 70 tokių grupių, jų nariai platino prieš sovietų
+    santvarką nukreiptus atsišaukimus, keldavo tautines vėliavas, minėdavo
+    tautines šventes, viešose vietose piešdavo tautinio valstybingumo simbo-
     lius – sovietų valdžia visiškai nebekontroliavo Lietuvos visuomenės.
   citata_rodoma: ''
   teiginio_tipas: faktas

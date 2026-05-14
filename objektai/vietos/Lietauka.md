@@ -65,7 +65,10 @@ Lietauka siejama su Neries upe, Kernave ir Lietuvos žemės siaurąja prasme sam
   santrauka: Citata nurodo paplitusią Lietuvos vardo kilmės versiją ir Lietaukos lokalizaciją.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau lietuviškai kalbantys žmonės nebūtinai save vadino
     lietuviais, o savo žemę – Lietuva. Iki šiol labiausiai paplitusi versija buvo
+    Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį ne-
+    toli Kernavės, vardo.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -77,7 +80,9 @@ Lietauka siejama su Neries upe, Kernave ir Lietuvos žemės siaurąja prasme sam
   santrauka: Citata paaiškina Lietaukos santykį su Nerimi ir Lietuvos žemės vardu.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tradiciškai manoma, kad Lietuvos valstybės bran-
     duolys – Lietuvos žemė siaurąja prasme ankstyvaisiais istoriniais laikais
+    buvo tarp Nemuno ir Neries upių.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -89,7 +94,9 @@ Lietauka siejama su Neries upe, Kernave ir Lietuvos žemės siaurąja prasme sam
   santrauka: 'Iki šiol labiausiai paplitusi versija buvo Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį netoli Kernavės, vardo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Iki šiol labiausiai paplitusi versija buvo
     Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį ne-
+    toli Kernavės, vardo.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -101,7 +108,9 @@ Lietauka siejama su Neries upe, Kernave ir Lietuvos žemės siaurąja prasme sam
   santrauka: 'Taigi Lietaukos upelis, dešinysis Neries intakas, tekėjo Lietuvos žemės link, ir nebūtinai pačioje Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Taigi Lietaukos upelis, dešinysis Neries
     intakas, tekėjo Lietuvos žemės link, ir nebūtinai pačioje Lietuvoje. Tokiu
+    atveju upelis pavadinimą turėjo gauti nuo žemės vardo, o ne atvirkščiai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

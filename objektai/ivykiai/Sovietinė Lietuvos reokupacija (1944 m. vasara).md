@@ -40,7 +40,12 @@ Nenurodyta
   santrauka: '1944 m. vasarą sovietų karinės pajėgos išvadavo Lietuvą iš nacių Vokietijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nacių okupaciją keičia sovietinė
+    1944 m. vasarą sovietų karinės pajėgos išvadavo Lietuvą
     iš nacių Vokietijos. Tačiau bėda ta, kad lygia greta, kone tuo pat metu
+    Lietuva buvo reokupuota, t. y. sovietų kariuomenė antrą kartą okupavo
+    Lietuvą, Latviją ir Estiją – grąžintas stalininis režimas, imtos vykdyti re-
+    kvizicijos, vyrai gaudyti darbams.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

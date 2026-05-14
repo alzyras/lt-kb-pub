@@ -27,6 +27,7 @@ Amsterdamas, 1650 m.
   santrauka: 'Amsterdamas, 1650 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nuo XIV a. ryčiausias Europoje du amžius
     K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
   citata_rodoma: ''
   teiginio_tipas: faktas

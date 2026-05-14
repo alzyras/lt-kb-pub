@@ -70,7 +70,10 @@ Pranciškus Skorina vadinamas pirmuoju Lietuvos spaustuvininku; jis Prahoje pare
   santrauka: Skorinos tapatybė, spaustuvininko vaidmuo ir leidybiniai darbai.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-
     vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus
+    Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten me-
+    dicinos daktaro laipsnį, 1517–1519 m.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

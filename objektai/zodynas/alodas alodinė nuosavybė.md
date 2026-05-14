@@ -57,7 +57,11 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
   santrauka: Alodas siejamas su individualiu valstiečių ūkiu.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    alodas (individualus valstiečių
+    Pastarųjų erdvėje toliau į rytus
+    (Maskvos valstybėje, vėliau Rusijoje) ryškėjo bendruomeninė žemėvalda,
+    tačiau rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarie-
+    tiška ūkininkavimo ir nuosavybės forma – alodas (individualus valstiečių
+    ūkis).
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -68,7 +72,13 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
   santrauka: 'Atėję iš ryškią individualią alodinę nuosavybės struktūrą turinčios visuomenės lietuvių bajorai ir individualiai ūkininkaujantys valstiečiai skyrėsi nuo rytinių slavų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Atėję iš ryškią individualią alodinę nuosavybės struk-
+    tūrą turinčios visuomenės lietuvių bajorai ir individualiai ūkininkaujan-
     tys valstiečiai skyrėsi nuo rytinių slavų. Pastarųjų erdvėje toliau į rytus
+    (Maskvos valstybėje, vėliau Rusijoje) ryškėjo bendruomeninė žemėvalda,
+    tačiau rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarie-
+    tiška ūkininkavimo ir nuosavybės forma – alodas (individualus valstiečių
+    ūkis).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

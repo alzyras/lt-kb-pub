@@ -28,7 +28,11 @@ Neturėdamos jokio pasirinkimo, trys Baltijos valstybės paruošė neutralumo į
   santrauka: 'Neturėdamos jokio pasirinkimo, trys Baltijos valstybės paruošė neutralumo įstatymą – Lietuva jį ratifikavo 1939 m. sausio 10 d. Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus tarp Varšuvos, Maskvos ir Berlyno, stengdamasi neįsivelti į.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Neturėdamos jokio pasirinkimo, trys Baltijos valstybės
+    paruošė neutralumo įstatymą – Lietuva jį ratifikavo 1939 m. sausio 10 d.
     Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus
+    tarp Varšuvos, Maskvos ir Berlyno, stengdamasi neįsivelti į karinį konf-
+    liktą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

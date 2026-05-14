@@ -45,7 +45,9 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   santrauka: 'Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius T.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ginant Varšuvą žuvo Lietuvos suki-
     lėlių vadas J. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius
+    T. Korsakas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -155,7 +155,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Herbai]]
 - [[objektai/grupes/Laikinė Lietuvos vyriausybė]]
 - [[objektai/grupes/Lenkų bajorai]]
 - [[objektai/asmenys/Napoleonas I]]

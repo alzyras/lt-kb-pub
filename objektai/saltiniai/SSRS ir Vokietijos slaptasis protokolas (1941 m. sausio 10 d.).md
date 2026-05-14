@@ -27,7 +27,10 @@ Berlynas ir Maskva susitarė kol kas pietvakarinių lietuvių žemių klausimo n
   santrauka: 'Berlynas ir Maskva susitarė kol kas pietvakarinių lietuvių žemių klausimo neliesti (beje, 1941 m. sausio 10 d. SSRS pagal dar vieną slaptą protokolą jas nusipirks iš Vokietijos už 7,5 mln.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Berlynas ir Mas-
     kva susitarė kol kas pietvakarinių lietuvių žemių klausimo neliesti (beje,
+    1941 m. sausio 10 d. SSRS pagal dar vieną slaptą protokolą jas nusipirks iš
+    Vokietijos už 7,5 mln. aukso dolerių).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

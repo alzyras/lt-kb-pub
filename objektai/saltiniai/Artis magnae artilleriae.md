@@ -68,7 +68,12 @@ tags: []
   santrauka: Citata pagrindžia autoriaus vardą, pavadinimą, datą ir veikalo reikšmę.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė
+    solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu
+    darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“
     („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos
+    ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
+    orija.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -82,7 +87,11 @@ tags: []
   santrauka: 'Semenavičiaus veikalo „Artis magnae artilleriae“ frontispisas, 1650 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Iš šių
+    ir kitų Vakarų bei Vidurio Europos katalikiškųjų universitetų atvykę pro-
     Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
+    teorijos  kūrėjo K. Semenavičiaus veikalo
+    „Artis magnae artilleriae“  frontispisas, 1650 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

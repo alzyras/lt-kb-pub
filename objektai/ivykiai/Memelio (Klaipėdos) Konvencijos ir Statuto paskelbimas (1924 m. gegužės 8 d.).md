@@ -62,7 +62,9 @@ Nenurodyta
   santrauka: Konvencijos ir Statuto paskelbimo rezultatas.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas pa-
     naikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną
+    autonomine Lietuvos dalimi.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

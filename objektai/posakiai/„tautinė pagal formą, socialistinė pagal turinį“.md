@@ -28,7 +28,11 @@ Kultūra plėtota pagal sovietų principą „tautinė pagal formą, socialistin
   santrauka: 'Kultūra plėtota pagal sovietų principą „tautinė pagal formą, socialistinė pagal turinį“ – tautiniais drabužiais vilkintys choristai dainavo apie V.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kultūra plėtota pagal sovietų
+    principą „tautinė pagal formą, socialistinė pagal turinį“ – tautiniais dra-
     bužiais vilkintys choristai dainavo apie V. Leniną, tačiau ilgainiui, ypač
+    Dainų šventėse, tai liko apvalkalas privalomai (socialistinei) programai,
+    o kita dalis buvo skirta tik lietuviškai dainai ar šokiui.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

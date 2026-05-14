@@ -30,7 +30,10 @@ Miestiečių teises ir įformino Gegužės trečiosios konstitucija. Joje pirmą
   santrauka: 'Miestiečių teises ir įformino Gegužės trečiosios konstitucija. Joje pirmąkart užsiminta ir apie tai, kad valstybė teikia globą valstiečiams jų santykiuose su dvarininkais. Taigi konstitucijoje vartojamas terminas „tauta“ jau nereiškė tik „bajorų tautos“, o.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Mies-
     tiečių teises ir įformino Gegužės trečiosios konstitucija. Joje pirmąkart
+    užsiminta ir apie tai, kad valstybė teikia globą valstiečiams jų santykiuose
+    su dvarininkais.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

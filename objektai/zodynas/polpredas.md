@@ -27,7 +27,10 @@ Dekanozovui talkino ir sovietų pasiuntinybė su įgaliotuoju atstovu (polpredu)
   santrauka: 'Dekanozovui talkino ir sovietų pasiuntinybė su įgaliotuoju atstovu (polpredu) Nikolajumi Pozdniakovu priešakyje, ir iki tol pogrindyje veikusi maža Lietuvos komunistų partija (LKP).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    V. Dekanozovui talkino ir sovietų pasiuntinybė su įgaliotuoju
+    atstovu (polpredu) Nikolajumi Pozdniakovu priešakyje, ir iki tol pogrin-
     dyje veikusi maža Lietuvos komunistų partija (LKP). Šalyje dislokuota
+    daugiatūkstantinė SSRS kariuomenė nulėmė prasidėjusius įvykius.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

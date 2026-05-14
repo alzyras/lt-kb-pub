@@ -28,7 +28,9 @@ Lietuvos krikščionėjimo simboliu tapo šv.
   santrauka: 'Lietuvos krikščionėjimo simboliu tapo šv.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kazimiero (1458–1484),
     Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, garbinimo tradicijos
+    klostymasis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

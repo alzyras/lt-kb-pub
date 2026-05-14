@@ -53,7 +53,9 @@ Nenurodyta
   santrauka: 'Atrodė, jog trūksta tik karūnos, kad ir antrasis Vytauto politikos prioritetas – Lietuvos karalystė – būtų pasiektas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Atrodė,
     jog trūksta tik karūnos, kad ir antrasis Vytauto politikos prioritetas  –
+    Lietuvos karalystė – būtų pasiektas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -65,7 +67,10 @@ Nenurodyta
   santrauka: 'Lucko suvažiavimas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lucko suvažiavi-
     mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją
+    įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I
+    ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -77,7 +82,11 @@ Nenurodyta
   santrauka: 'Lucko suvažiavimas logiškai užbaigė sudėtingą Vytauto politinį kelią, numatytą XIV a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lucko suvažiavimas logiškai užbaigė sudėtingą Vytauto politinį kelią,
+    numatytą XIV a. pabaigoje ir atvedusį į galutinį tikslą: Lietuvos monar-
     chija turėjo įsitvirtinti Europos politinėje sistemoje. Nors Niurnbergo
+    auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai,
+    Lucko suvažiavimas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

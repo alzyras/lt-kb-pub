@@ -37,7 +37,10 @@ Vokiečiai Lietuvą laikė Rusijos okupuota teritorija, tad, 1915 m. frontui sta
   santrauka: 'Vokiečiai Lietuvą laikė Rusijos okupuota teritorija, tad, 1915 m. frontui stabilizavusis, sudarė karinę administraciją ir pavadino ją Oberostu (nuo Oberbefehlshaber Ost – Vyriausioji Rytų kariuomenės vadovybė).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vokiečiai Lietuvą laikė
     Rusijos okupuota teritorija, tad, 1915 m. frontui stabilizavusis, sudarė
+    karinę administraciją ir pavadino ją Oberostu (nuo Oberbefehlshaber
+    Ost – Vyriausioji Rytų kariuomenės vadovybė).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -49,6 +52,7 @@ Vokiečiai Lietuvą laikė Rusijos okupuota teritorija, tad, 1915 m. frontui sta
   santrauka: 'Nuostabiausia tai, kad žemėlapyje į pietus nutįsusi Oberosto teritorija forma kone sutapo su 1793–1795 m. LDK ribomis, kai, anot A.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nuostabiausia tai, kad žemėlapyje
     į pietus nutįsusi Oberosto teritorija forma kone sutapo su 1793–1795 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -61,7 +65,9 @@ Vokiečiai Lietuvą laikė Rusijos okupuota teritorija, tad, 1915 m. frontui sta
   santrauka: 'O Oberosto karinis kolonijinis režimas plėšė valstiečius, – nusavindavo maistą, apkrovė dideliais mokesčiais ir prievolėmis, pramonės įmones išvežė į Vokietiją, o mokyklose pradėjo germanizaciją (lietuviai įsteigė apie tūkstantį mokyklų ir mokytojų kursų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Judėjimas tarp apskričių buvo suvaržytas, pašto korespondencija lie-
     tuviškai uždrausta, lietuviškai leistas vienintelis cenzūruojamas laikraštis
+    „Dabartis“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

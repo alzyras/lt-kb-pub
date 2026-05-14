@@ -75,7 +75,9 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
   santrauka: Citata aprašo pradinio kapitalo šaltinius ir valstybinio turto privatizavimo rezultatą.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių
     tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų
+    pasaulio ekonomikos standartus.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -87,7 +89,10 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
   santrauka: Citata aprašo investicinių čekių naudojimo nelygumus ir privatizacijos vertinimą.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nemažai čekių supirkėjų, nusipirkę anksčiau buvu-
     sias valstybines įmones, stengėsi jas kuo pelningiau perparduoti. Daugelis
+    gyventojų čekius pardavė ir net nesugebėjo privatizuoti savo gyvenamojo
+    būsto.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

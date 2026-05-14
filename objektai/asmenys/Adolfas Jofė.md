@@ -29,7 +29,12 @@ Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf Joffe), traktavo Lietuvą kai
   santrauka: 'Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf Joffe), traktavo Lietuvą kaip naują politinį vienetą ir sutiko pripažinti Lietuvą remdamiesi nacijų apsisprendimo teise – taigi silpnesniu pripažinimo dokumentu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pir-
+    miausia pareikalavo pripažinti atkurtą Lietuvos valstybę, jos valstybingu-
     mo tęstinumą nuo LDK. Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf
+    Joffe), traktavo Lietuvą kaip naują politinį vienetą ir sutiko pripažinti Lie-
+    tuvą remdamiesi nacijų apsisprendimo teise – taigi silpnesniu pripažini-
+    mo dokumentu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

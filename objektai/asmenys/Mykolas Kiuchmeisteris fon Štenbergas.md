@@ -28,7 +28,8 @@ tags:
   santrauka: '1413 m. sausio 28 d. derybose Salyne (prie Kauno) su Vokiečių ordino pasiuntinybės vadovu maršalu Mykolu Kiuchmeisteriu fon Štenbergu įvyko įdomus pašnekesys.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1413 m. sausio 28 d. derybose Sa-
+    Šio
+    konflikto esmę paaiškina įdomi detalė: 1413 m. sausio 28 d. derybose Sa-
     lyne (prie Kauno) su Vokiečių ordino pasiuntinybės vadovu maršalu My-
     kolu Kiuchmeisteriu fon Štenbergu įvyko įdomus pašnekesys.
   citata_rodoma: ''

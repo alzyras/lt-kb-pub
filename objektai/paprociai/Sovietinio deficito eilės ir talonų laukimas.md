@@ -63,7 +63,12 @@ Sovietmečio kasdienybėje deficitas reiškė apytuštes parduotuves, maisto ir 
   santrauka: Citata aprašo deficito kasdienybę ir talonų laukimą eilėse.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau tai nereiškė
+    gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės buvo apytuštės, trū-
     ko mėsos, daržovių, sviesto, dažnai netgi duonos ir kitų maisto produktų,
+    ilgose eilėse žmonės laukdavo talonų (leidimo) įsigyti baldus, indus, tele-
+    vizorius, be to, katastrofiškai trūko butų, medicinos reikmenų, vaistų – fak-
+    tiškai viskas buvo deficitas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

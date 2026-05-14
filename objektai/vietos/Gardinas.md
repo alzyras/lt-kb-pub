@@ -148,6 +148,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
     kur atnaujino senąją pilį (iš dalies jis čia gyvendavo dėl to, kad
     nereikėtų gyventi kartu su savo sena žmona Ona). Savo paties
     atnaujintoje Gardino pilyje jis ir mirė 1586 m. gruodžio 12 d.
+    Mirė sunkiai sirgdamas (to meto gydytojai jo ligos nesuprato, tad
+    nė mes jos nežinome).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -183,7 +185,11 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   santrauka: Citata tiesiogiai apibrėžia Vytautą kaip Gardino kunigaikštį 1376 m.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    1376 metais, jau kaip Gardino‘kunigaikštis, jis da­
+    Tokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­
+    re Trakuose, todėl ir jo auklėjime turėjo vyrauti kariški dalykai,
+    ir užtat nenuostabu, kad jis labai anksti (1368 m.) pradeda
+    dalyvauti įvairiuose karo žygiuose: 1368 ir 1372 metais į Mask­
+    vos žemes; 1376 metais, jau kaip Gardino‘kunigaikštis, jis da­
     lyvauja kartu žygyje prieš lenkus.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -196,6 +202,9 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   santrauka: Citata rodo Gardiną kaip vieną iš Vytauto religinės paramos centrų.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Kaune ir
+    Ašmenoje, po nenusisekusio Vorsklos mūšio, įkūrė vienuolynus
+    pranciškonams; Breste įsteigė vienuolyną augustinijonams;
     juos taip pat gausiai apdovanojo Medininkuose (Viln.) ir Pane­
     munėje; domininkonus parėmė donacijomis Lucke, Gardine ir
     Naugardėlyje; pranciškonams pastatė jau minėtas bažnyčias
@@ -224,7 +233,9 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   santrauka: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
     visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
+    Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -236,7 +247,9 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   santrauka: 'Vytautas perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vytautas
     perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine,
+    Naugarduke ir Lucke.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -249,6 +262,9 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius,
+    Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-
+    se LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje
+    (Melnikas, gal Brasta) ir net Voluinėje (Luckas).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -260,3 +276,4 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Brasta]]
+- [[objektai/asmenys/Vytautas]]

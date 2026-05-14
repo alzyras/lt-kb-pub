@@ -58,7 +58,10 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   santrauka: 'Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliucijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir metė Raudonosios armijos divizijas paskui traukiančią namo vokiečių kariuomenę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliu-
     cijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir
+    metė Raudonosios armijos divizijas paskui traukiančią namo vokiečių
+    kariuomenę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -70,7 +73,9 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   santrauka: 'Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 dienos manifestu deklaravo Sovietų Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Rem-
     damiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio
+    16 dienos manifestu deklaravo Sovietų Lietuvą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -82,7 +87,9 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   santrauka: 'Tik Raudonajai armijai pralaimėjus prie Varšuvos, bolševikai „sukilimą“ atšaukė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Žinoma, Taikos sutartis, pasirašyta Maskvoje, būtų nieko verta, jei Len-
     kija nebūtų sumušusi Rusijos bolševikų, nes šie intensyviai ruošė sukilimą
+    Lietuvoje 1920 m. rugpjūtį.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -94,7 +101,11 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   santrauka: 'Tarptautinių įvykių poveikis ir lietuviams, ir tautinėms mažumoms po 1939 m. rudens buvo akivaizdus – Raudonosios armijos įgulos darė savo – lietuvių jaunimo dešinėje stiprėjo radikalus, nacionalistinis sparnas, kairėje – žydų ir lietuvių jaunimo dalis reiškė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tarptautinių įvykių poveikis ir lietuviams, ir tautinėms mažumoms
+    po 1939 m. rudens buvo akivaizdus – Raudonosios armijos įgulos darė
+    savo – lietuvių jaunimo dešinėje stiprėjo radikalus, nacionalistinis spar-
     nas, kairėje – žydų ir lietuvių jaunimo dalis reiškė aiškias simpatijas SSRS,
+    bolševizmui.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -119,7 +130,9 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   santrauka: 'Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vėliau – Raudonosios armijos 29-uoju šaulių korpusu).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Liepos 3 dieną priimtas Lietuvos
     kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vė-
+    liau – Raudonosios armijos 29-uoju šaulių korpusu).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -131,7 +144,12 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   santrauka: 'Leidus parašyti Lietuvos istorijos sovietinę interpretaciją nustota dėkoti Raudonajai armijai už „išvadavimą“ iš lietuvių buržuazijos jungo 1940 m., nes sukonstruota socialistinės revoliucijos teorija, neva buvęs savarankiškas lietuvių tautos sprendimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Leidus parašyti Lietuvos istorijos sovietinę interpretaciją nustota dė-
     koti Raudonajai armijai už „išvadavimą“ iš lietuvių buržuazijos jungo
+    1940 m., nes sukonstruota socialistinės revoliucijos teorija, neva buvęs
+    savarankiškas lietuvių tautos sprendimas įstoti į SSRS, nors LDK istorija,
+    Lietuvos nepriklausomybės 20-metis strigo visoje sovietinėje istoriogra-
+    fijoje kaip kaulas gerklėje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -143,7 +161,10 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   santrauka: 'Baigiantis Antrajam pasauliniam karui, bijodami artėjančios Raudonosios armijos sugrįžimo ir deportacijų, tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos diplomatinė tarnyba ir išeivija
+    Baigiantis Antrajam pasauliniam karui, bijodami artėjan-
     čios Raudonosios armijos sugrįžimo ir deportacijų, tūkstančiai Lietuvos
+    gyventojų pasitraukė į Vakarus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

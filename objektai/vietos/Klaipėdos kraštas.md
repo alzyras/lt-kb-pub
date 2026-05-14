@@ -76,7 +76,9 @@ Bet kadangi tada Lietuvos likimas formaliai dar nebuvo išspręstas, tai tas ats
   santrauka: 'Tiesa, Versalio taikos konferencija (1919) nuo Vokietijos atskyrė tik dalį Mažosios Lietuvos – Klaipėdos kraštą, tačiau jo neatidavė Lietuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tiesa, Versalio
     taikos konferencija (1919) nuo Vokietijos atskyrė tik dalį Mažosios Lietu-
+    vos – Klaipėdos kraštą, tačiau jo neatidavė Lietuvai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -88,7 +90,9 @@ Bet kadangi tada Lietuvos likimas formaliai dar nebuvo išspręstas, tai tas ats
   santrauka: 'Versalio sutarties 28 straipsnis iš tiesų atribojo Klaipėdos kraštą nuo Vokietijos ir perdavė laikinai sąjungininkų kontrolei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Versalio
     sutarties 28 straipsnis iš tiesų atribojo Klaipėdos kraštą nuo Vokietijos ir
+    perdavė laikinai sąjungininkų kontrolei.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -100,7 +104,9 @@ Bet kadangi tada Lietuvos likimas formaliai dar nebuvo išspręstas, tai tas ats
   santrauka: 'Administruoti Klaipėdos kraštą pavesta prancūzams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Šie momentai
     leis Lietuvai reikalauti tos teritorijos, kai tik Lietuva bus pripažinta kaip
+    valstybė.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

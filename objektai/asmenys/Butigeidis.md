@@ -27,7 +27,10 @@ pabaigoje minimi dar šie Lietuvos didieji kunigaikščiai: Butigeidis, po jo �
   santrauka: 'pabaigoje minimi dar šie Lietuvos didieji kunigaikščiai: Butigeidis, po jo – šio brolis Butvydas, dar vėliau – Butvydo sūnus Vytenis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Gediminaičių dinastijos iškilimas
+    XIII a. pabaigoje minimi dar šie Lietuvos didieji kunigaikš-
     čiai: Butigeidis, po jo – šio brolis Butvydas, dar vėliau – Butvydo sūnus
+    Vytenis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

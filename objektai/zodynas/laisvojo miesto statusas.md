@@ -28,6 +28,7 @@ Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vilnių turi gauti
   santrauka: 'Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vilnių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vil-
     nių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą.
   citata_rodoma: ''
   teiginio_tipas: faktas

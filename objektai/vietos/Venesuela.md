@@ -27,6 +27,7 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
   santrauka: 'Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuviai vyko daugiausia į
     Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų).
   citata_rodoma: ''
   teiginio_tipas: faktas

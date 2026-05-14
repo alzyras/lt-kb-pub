@@ -27,7 +27,9 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
   santrauka: 'giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – Chodkevičiai, Sapiegos, Valavičiai, Tiškevičiai, Oginskiai ir kt.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Iš įtakingiausių XVI a. giminių lietuviškos kilmės yra tik Goštautai ir
     Radvilos, o visos kitos – Chodkevičiai, Sapiegos, Valavičiai, Tiškevičiai,
+    Oginskiai ir kt.  – rusėnai, tačiau laikantys save LDK piliečiais.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

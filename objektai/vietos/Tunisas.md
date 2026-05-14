@@ -29,6 +29,8 @@ sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtu
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šiandien mokslas XVIII–XIX a. sandūros Vilnių priskiria pirmam
+    žydų pasaulinių kultūros centrų dešimtukui (šalia Amsterdamo, Londo-
+    no, Varšuvos, Lvovo, Salonikų, Stambulo, Tuniso ir Bagdado).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

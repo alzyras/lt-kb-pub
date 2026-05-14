@@ -42,7 +42,10 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
   santrauka: 'Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno, Suvalkų ir Gardino gubernijose, dalis Kuršo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos
+    valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo
     kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno,
+    Suvalkų ir Gardino gubernijose, dalis Kuršo.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -54,7 +57,10 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
   santrauka: 'Pirmoje rezoliucijos dalyje tautų apsisprendimo teisės pagrindu ir remiantis Vilniaus konferencijos nutarimais skelbiama, kad Lietuva yra nepriklausoma valstybė su sostine Vilniumi ir kad anuliuojami visi buvę valstybiniai ryšiai su kitomis valstybėmis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Pirmoje rezoliucijos dalyje tautų apsisprendimo teisės pagrin-
+    du ir remiantis Vilniaus konferencijos nutarimais skelbiama, kad Lietu-
     va yra nepriklausoma valstybė su sostine Vilniumi ir kad anuliuojami
+    visi buvę valstybiniai ryšiai su kitomis valstybėmis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -66,7 +72,14 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
   santrauka: 'Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė naują rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise, paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą Lietuvos valstybę su.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Parengus abiem pu-
+    sėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė nau-
+    ją rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise,
+    paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą
     Lietuvos valstybę su sostine Vilniumi ir tą valstybę atskirianti nuo visų
+    valstybinių ryšių, kurie yra buvę su kitomis tautomis, kad Lietuvos vals-
+    tybės pamatus ir jos santykius su kitomis valstybėmis galutinai nustatys
+    Steigiamasis Seimas, demokratiškai visų jos gyventojų išrinktas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -78,7 +91,11 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
   santrauka: 'Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai nepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į jūrą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Prancūzija Žoržo B. Klemanso
+    (Georges B. Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai
+    nepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada
     buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į
+    jūrą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

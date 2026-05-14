@@ -28,6 +28,7 @@ Bumblauskas A.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Bumblauskas A. Lietuvos Didžioji Kunigaikštija ir jos tradicija. Vilnius,
+    2010.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

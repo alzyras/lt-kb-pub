@@ -28,7 +28,9 @@ tyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū 
   santrauka: 'tyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 173 bažnyčią – tautos šventyklą, lietuvišku stiliumi ir lietuviškai ornamentuotą, atspindinčią lietuvių tautos religinę ir tautinę dvasią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    bažnyčią – tautos šventyklą, lietuvišku stiliumi ir lietuviškai ornamentuo-
     tą, atspindinčią lietuvių tautos religinę ir tautinę dvasią. Į bažnyčią žiūrėta
+    kaip į tautos vieningumo aktą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

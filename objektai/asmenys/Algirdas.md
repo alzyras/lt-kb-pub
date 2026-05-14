@@ -144,7 +144,9 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   santrauka: Algirdui priklausė Krėva ir Vitebskas.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Algir-
+    Vyriausias sūnus, Man-
+    v y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą
+    ir Pinską, Karijotas — Naugarduką ir Volkoviską, Algir-
     das — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų
     pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą.
   citata_rodoma: ""
@@ -347,7 +349,9 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   santrauka: 'Valdovai buvo deginami iki pat krikšto: šaltiniuose išliko Lietuvos didžiųjų kunigaikščių Algirdo ir Kęstučio palaikų deginimo aprašymai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Valdovai buvo deginami iki pat
     krikšto: šaltiniuose išliko Lietuvos didžiųjų kunigaikščių Algirdo ir Kęs-
+    tučio palaikų deginimo aprašymai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -359,7 +363,13 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   santrauka: 'Šiandien pripažįstama, kad epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraščiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi dar ir kitkuo –.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Šiandien pripažįstama, kad
+    epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraš-
+    čiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į
     Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi
+    dar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palai-
+    dota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei,
+    o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -371,7 +381,9 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   santrauka: 'Lietuva liks savarankiška civilizacinė monada, todėl tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš svetur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuva liks savarankiška civilizacinė monada, todėl
     tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš sve-
+    tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -390,4 +402,3 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - [[objektai/asmenys/Kęstutis]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/vietos/Tverė]]
-- [[objektai/asmenys/Birutė]]

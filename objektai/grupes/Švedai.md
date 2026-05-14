@@ -42,6 +42,7 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   santrauka: 'Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Baltici).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Dėl to įsilieps-
     nojo Švedijos ir Lietuvos ir Lenkijos bei Švedijos ir Rusijos karo veiksmai.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -55,6 +56,7 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiš-
+    kė pretenzijas į Švedijos sostą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -67,6 +69,8 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o
+    Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, ta-
+    čiau švedams įsitvirtinti Lietuvoje nepavyko.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -78,7 +82,9 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   santrauka: 'Kovos su švedais paliko gilų pėdsaką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kovos su švedais paliko gilų pėd-
     saką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai
+    apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -92,4 +98,5 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - [[temos/dinastija]]
 
 ### Susiję objektai
+- [[objektai/grupes/Vazų dinastija]]
 - [[objektai/vietos/Švedija]]

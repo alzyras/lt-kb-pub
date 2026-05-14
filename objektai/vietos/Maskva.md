@@ -37,10 +37,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginys: 'Tačiau netrukus jis bandė suruošti prieš Kazimierą sąmokslą, kuriam nepavykus, pabėgo į Maskvą.'
   pagrindžia:
     - c-005
-- t-006
-  teiginys: 'Maskvoje ir susidarė teorija, kuri skelbė, jog Maskva turinti būti toks pat pravoslaviškojo pasaulio centras, koks anksčiau buvo.'
-  pagrindžia:
-    - c-006
 - t-007
   teiginys: 'Konstantinopolis, nes Maskvoje sėdįs imperijos įpėdinis.'
   pagrindžia:
@@ -160,19 +156,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-- c-006
-  santrauka: 'Maskvoje ir susidarė teorija, kuri skelbė, jog Maskva turinti būti toks pat pravoslaviškojo pasaulio centras, koks anksčiau buvo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Maskvoje ir susidarė teorija, kuri skelbė, jog Maskva turinti būti
-    toks pat pravoslaviškojo pasaulio centras, koks anksčiau buvo
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
 - c-007
   santrauka: 'Konstantinopolis, nes Maskvoje sėdįs imperijos įpėdinis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -194,6 +177,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   citata_originali: |
     Rytuose ėję karai su Maskva reikalavo daug pinigų, todėl rei-
     kėjo rūpintis, kad būtų daugiau ką parduoti. Didžiausi žemės
+    plotai priklausė didžiajam kunigaikščiui, todėl jam pirmiausia
+    teko susirūpinti, kad būtų pertvarkytas ūkis ir kad jis duotų
+    daugiau pajamų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -238,7 +224,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   santrauka: Maskva minima kaip Vytauto siekiamos valdžios centras jo derybose su Tochtamišu.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Jis esą Tochtamišui sakęs : « Aš įkelsiu tave ordos sostan, o
+    Vytauto nusistaty­
+    mas rusų metraščiuose yra atžymėtas įvairiais vaizdingais posa­
+    kiais. Jis esą Tochtamišui sakęs : « Aš įkelsiu tave ordos sostan, o
     tu pasodinsi mane didžiojoje Maskvos kunigaikštijoje ir visos Ru­
     sijos valdžioje »^19.
   citata_rodoma: ""
@@ -265,7 +253,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   santrauka: 'Šiandien pripažįstama, kad epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraščiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į Maskvą bei Birutės ir Ldk Kęstučio meilės istorija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Šiandien pripažįstama, kad
+    epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraš-
     čiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į
+    Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi
+    dar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palai-
+    dota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei,
+    o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -277,7 +271,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   santrauka: 'Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Rem-
+    damas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmeny-
     bę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą,
+    tačiau Kremliaus užimti nepajėgė.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -289,7 +286,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   santrauka: '„Senovės nekeitimo“ tezė tėra istoriografinis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo savarankiškais keliais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    „Senovės nekeitimo“ tezė tėra istoriografi-
     nis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė
+    į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo sava-
+    rankiškais keliais.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

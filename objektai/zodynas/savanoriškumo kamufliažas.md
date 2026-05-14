@@ -28,7 +28,13 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
   santrauka: 'Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį: rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausiąja Taryba, kitą dieną formaliai aukščiausiąja.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamuflia-
+    žo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį:
+    rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukš-
+    čiausiąja Taryba, kitą dieną formaliai aukščiausiąja respublikos vykdomą-
     ja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė
+    Liaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-
+    siskyrė nuo 1936 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

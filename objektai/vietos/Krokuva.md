@@ -133,6 +133,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   santrauka: 'Zigmanto II antkapis Krokuvos katedroje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Jaunystę praleido
     Zigmanto II antkapis Krokuvos katedroje.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -145,7 +146,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   santrauka: '1550 m. Barbora buvo iškilmingai Krokuvoje karūnuota Lenkijos karaliene.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    1550 m. Barbora buvo iškilmingai Krokuvoje karūnuota
+    Tad po dvejų metų lenkai pagaliau nusi-
+    leido, ir 1550 m. Barbora buvo iškilmingai Krokuvoje karūnuota
     Lenkijos karaliene.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -164,6 +166,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     aukštojo mokslo, turėdavo vykti į užsienį. Tie, kurie ruošėsi dvasi-
     ninkais, paprastai vykdavo mokytis į Krokuvos universitetą, o
     visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją,
+    Italiją ir Prancūziją.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -179,6 +182,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     bendrą valdovą, kuris būsiąs bendrai renkamas Lietuvoje ir ka-
     rūnuojamas Krokuvoje (§ 4). Lietuvoje jau nebeturėsią būti
     atskirų didžiojo kunigaikščio pakeliamųjų apeigų (§ 5). Toks
+    naujai išrinktasai valdovas abiejų valstybių turimąsias teises
+    turėsiąs patvirtinti vienu bendru raštu, o ne skyrium (§ 7).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -248,6 +253,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   santrauka: 'Vakarinė LDK dalis – tarp Vilniaus ir Lucko – tai ne tik LDK vizitinė kortelė, kurioje dėl reprezentacijos bei artumo Krokuvai kurs rezidencijas didikai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vakarinė LDK dalis –
+    tarp Vilniaus ir Lucko – tai ne tik LDK vizitinė kortelė, kurioje dėl re-
     prezentacijos bei artumo Krokuvai kurs rezidencijas didikai.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -260,7 +267,10 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   santrauka: 'Pastatyta katedra, iškilmingai pašvęsta Krokuvos vyskupo šv.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Pastatyta katedra, iškilmingai pa-
     švęsta Krokuvos vyskupo šv. Stanislovo garbei („kad abi lygiateisės tautos
+    turėtų vieną globėją ir užtarėją“), o didysis jos altorius buvo toje vietoje,
+    kur anksčiau degė pagonių amžinoji ugnis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -272,7 +282,9 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   santrauka: 'Svarbų vaidmenį šiame procese suvaidino Lietuvos jaunimo studijos Krokuvos, o vėliau ir Vokietijos bei Italijos universitetuose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Svarbų vaidmenį šiame procese suvaidino
     Lietuvos jaunimo studijos Krokuvos, o vėliau ir Vokietijos bei Italijos uni-
+    versitetuose.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -287,5 +299,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - [[objektai/grupes/Lenkų ponų taryba]]
 - [[objektai/daiktai/Zigmanto II antkapis]]
 - [[objektai/vietos/Luckas]]
+- [[objektai/paprociai/Studijos Europos universitetuose]]
 - [[objektai/asmenys/Šv. Stanislovas]]
 - [[objektai/posakiai/„kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“]]

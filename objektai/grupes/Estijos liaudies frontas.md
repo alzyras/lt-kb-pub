@@ -28,7 +28,10 @@ tags:
   santrauka: '1988 m. balandžio 13 d. Estijoje įsteigus Estijos liaudies frontą, neformalų judėjimą reformoms vykdyti, pasirodė, kad sovietų valdžia vengia imtis represijų prieš veikliausius pertvarkos šalininkus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1988 m. balandžio
     13 d. Estijoje įsteigus Estijos liaudies frontą, neformalų judėjimą reformoms
+    vykdyti, pasirodė, kad sovietų valdžia vengia imtis represijų prieš veikliau-
+    sius pertvarkos šalininkus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

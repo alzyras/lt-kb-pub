@@ -27,7 +27,10 @@ Lietuva pasirinko euroatlantinės integracijos kelią, todėl 1992 m. birželio 
   santrauka: 'Lietuva pasirinko euroatlantinės integracijos kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasielgė Latvija ir Estija).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuva pasirinko euroatlantinės integracijos
     kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos
+    Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasi-
+    elgė Latvija ir Estija).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

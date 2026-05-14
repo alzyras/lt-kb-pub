@@ -115,7 +115,8 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
   santrauka: Pabrėžiama valstiečių beteisė baudžiauninkų padėtis.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    valstiečiai ir toliau liko
+    socialiniam gyvenime, bet vis dėlto bajorai buvo palikti vienin-
+    teliais pilnateisiais piliečiais, o valstiečiai ir toliau liko
     beteisiai baudžiauninkai. Buvo tik nustatyta, kad nebegalima
     bus grąžinti į baudžiavą tų, kurie atleisti pačių dvarininkų.
   citata_rodoma: ""
@@ -144,7 +145,10 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
   santrauka: 'Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1864 m. – sąlyginė skiriamoji riba, kai Rusijos caro valdžia nuslopi-
+    no paskutinį bajorijos vadovautą sukilimą, kuriuo siekta atkurti buvusią
     Lenkijos ir Lietuvos valstybę. Tuo metu carizmas pradėjo jau anksčiau
+    paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -156,7 +160,10 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
   santrauka: 'Todėl sukilėlių būriuose, kuriems vadovavo vietiniai smulkiosios bajorijos atstovai, buvo daug valstiečių, kai kuriuose net dauguma, tad atsišaukimuose lenkų ir lietuvių (žemaičių) kalbomis keltas ir reikalavimas paleisti valstiečius iš baudžiavos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Todėl sukilėlių būriuose, kuriems vadovavo vieti-
     niai smulkiosios bajorijos atstovai, buvo daug valstiečių, kai kuriuose net
+    dauguma, tad atsišaukimuose lenkų ir lietuvių (žemaičių) kalbomis keltas
+    ir reikalavimas paleisti valstiečius iš baudžiavos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -168,7 +175,11 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
   santrauka: 'Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksandrą II rengtis baudžiavos panaikinimui, sušvelninta tautinė politika.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Naujasis imperatorius 1861 m. pavasarį pasirašė manifestą, paleidu-
+    sį privačių dvarų valstiečius iš baudžiavinės priklausomybės, pasirašyti
+    teisės aktai, reglamentavę valstiečių tapsmo žemės savininkais tvarką, nu-
     matyta privaloma valstiečiams skiriamo žemės sklypo išpirka. Valstiečių
+    reformą numatyta pradėti po dvejų metų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

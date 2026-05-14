@@ -57,7 +57,11 @@ Nenurodyta
   santrauka: 'Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų
+    tautinio sąjūdžio jėgų telkimo priemone, į caro valdžią žiūrėjo iš opozicijos
+    pozicijų, kėlė reikalavimus, kad etniniams lietuviams būtų pripažintos bent
     jau tokios pačios kultūrinės galimybės ir švietimo sąlygos, kokias Rusijos
+    imperijoje turi latviai ir estai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -70,6 +74,13 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors po trejų metų „Aušra“ dėl
+    vidinių idėjinių nesutarimų ir fi-
+    nansinių sunkumų sustojo ėjusi,
+    lietuvių kaip savarankiškos tautos
+    ugdymo darbo tęsėjų gretas iš-
+    plėtė, jie ėmė rengti ir leisti nau-
+    jus periodinius leidinius lietuvių
+    kalba.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -81,7 +92,11 @@ Nenurodyta
   santrauka: '„Varpas“ laikėsi liberalios demokratijos pozicijų, kartais krypo į socialdemokratiją, svarstė politinės santvarkos klausimus, kritikavo caro režimą ir kultūros politiką, rūpinosi bendrinės literatūrinės lietuvių kalbos formavimu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    „Varpas“ laikėsi liberalios demokratijos pozicijų,
+    kartais krypo į socialdemokratiją, svarstė politinės santvarkos klausimus,
+    kritikavo caro režimą ir kultūros politiką, rūpinosi bendrinės literatūrinės
     lietuvių kalbos formavimu. Jame spausdinta gero lygio grožinė literatūra,
+    poezija, originali ir verstinė, populiarūs mokslo straipsniai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -93,7 +108,9 @@ Nenurodyta
   santrauka: 'Katalikiškos pakraipos spauda daugiausia dėmesio skyrė priešinimuisi rusinimo politikai, bet, laikydamasi bendrosios Bažnyčios doktrinos, užėmė lojalias pozicijas caro valdžios atžvilgiu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių
     tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų
+    partija, susikūrusi 1896 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

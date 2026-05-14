@@ -51,7 +51,10 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
   santrauka: 'O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispanijai?'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    O kas nutiko didžiųjų ge-
     ografinių atradimų pionierėms Portugalijai ir Ispanijai? Juk pastarajai ir
+    XVI a. geopolitiniu požiūriu Europoje neprilygo nė viena valstybė – Is-
+    panijos valdose nenusileisdavo saulė.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

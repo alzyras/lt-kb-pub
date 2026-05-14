@@ -50,12 +50,6 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: '„Lietuvos metraštis (Bychovco kronika)“ šiame veikale cituojamas chunk_0026: antrinės bibliografinės nuorodos į pabaisko mūšį, drąsią ataką ir grobio užgrobimą.'
-  pagrindžia:
-    - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 - t-004
   teiginys: '„Lietuvos metraštis (Bychovco kronika)“ šiame veikale nurodomas kaip bibliografinė nuoroda.'
   pagrindžia:
@@ -101,24 +95,14 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   pagrindžia:
     - t-002
 
-- c-003
-  santrauka: '„Lietuvos metraštis (Bychovco kronika)“ šiame veikale cituojamas chunk_0026: antrinės bibliografinės nuorodos į pabaisko mūšį, drąsią ataką ir grobio užgrobimą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „Lietuvos metraštis“ ypač vaizdžiai aprašo Maskvos didžiojo kunigaikščio Dmitrijaus
-    reakciją 1368 m. išvydus Algirdą su jo kariuomene prie Maskvos:
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
-  pagrindžia:
-    - t-003
 - c-005
   santrauka: 'Perimant Vakarų kultūros idėjas, visuomenėje susipažinta su kronikų rašymo tradicija, atsirado poreikis pažinti savo istoriją, perimtas ir Renesanso laikais Europoje paplitęs mitas apie valdovų kildinimą iš kito krašto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Perimant Vakarų kultūros idėjas, visuomenėje susipažinta su kroni-
+    kų rašymo tradicija, atsirado poreikis pažinti savo istoriją, perimtas ir
     Renesanso laikais Europoje paplitęs mitas apie valdovų kildinimą iš kito
+    krašto.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

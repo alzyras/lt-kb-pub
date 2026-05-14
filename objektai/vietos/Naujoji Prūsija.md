@@ -28,6 +28,8 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsijai
+    ji priklausė iki 1806  m., kai Napoleonas įkūrė Varšuvos kunigaikštiją;
+    1815 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

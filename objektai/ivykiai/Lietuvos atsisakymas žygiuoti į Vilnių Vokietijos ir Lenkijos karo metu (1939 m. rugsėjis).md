@@ -46,7 +46,10 @@ Nenurodyta
   santrauka: 'O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vyriausybę jėga atsiimti Vilnių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai
+    kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-
     riausybę jėga atsiimti Vilnių. Užpuolusi Lenkiją Vokietija spaudė Lietuvą
+    žygiuoti į Vilnių, žadėdama paramą aviacija, tankais ir artilerija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -58,6 +61,7 @@ Nenurodyta
   santrauka: 'Tačiau Lietuvos vyriausybė, lenkams pralaimint mūšius ir be vokiečių galėdama užimti Vilnių, suvokė žygį į Vilnių ne kaip karinę, o kaip politinę problemą ir tikino lenkus, kad nė vienas Lietuvos kareivis neperžengs administracinės linijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kitaip Lietuva būtų tapusi agresore ir sugadin-
     tų santykius su anglais ir prancūzais. Nepatarė imti Vilniaus ir sovietai.
   citata_rodoma: ''
   teiginio_tipas: faktas

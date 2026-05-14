@@ -29,7 +29,9 @@ Urbšį pasirašyti savitarpio pagalbos sutartį, sutartį dėl Vilniaus ir Viln
   santrauka: 'Urbšį pasirašyti savitarpio pagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Urbšį pasirašyti savitarpio
     pagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį
+    dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

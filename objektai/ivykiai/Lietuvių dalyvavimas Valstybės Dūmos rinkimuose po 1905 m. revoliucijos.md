@@ -42,6 +42,8 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš
+    dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, dau-
+    giausia socialdemokratus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -41,7 +41,9 @@ Nenurodyta
   santrauka: 'Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame telkėsi reformų priešininkai) konfederacijos aktas, paskelbtas 1792 m. gegužės 14 d.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau
     opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius
+    reformų priešininkus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -28,7 +28,12 @@ Amžiaus pabaigoje sorbų kilmės vokiečių politikas, mokslininkas, poliglotas
   santrauka: 'Amžiaus pabaigoje sorbų kilmės vokiečių politikas, mokslininkas, poliglotas Georgas (liet.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už
+    lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną, kuriame
+    buvo eilutės: „Lietuviais esame mes gimę / Lietuviais norime ir būt/ Tą
+    garbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat išpopulia-
     rėjo ir Didžiojoje Lietuvoje, tad lietuviai abipus Nemuno giedojo jį jau
+    tvirtai tikėdami, kad tikrai nebepražus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

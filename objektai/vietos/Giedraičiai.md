@@ -23,17 +23,16 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
   teiginys: 'Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Lietuvių artilerija prieš lenkų dalinius 1920 m. kovose prie Giedraičių.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    L. Želigovskio akciją sveikino minios Vilniaus lenkų, Tautų
+    Sąjunga pasirodė bejėgė, o Lietuvai dabar jau reikėjo sustabdyti tolesnį
     želigovskininkų judėjimą į Lietuvos teritoriją. Persigrupavusi Lietuvos
+    kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie
+    Širvintų ir Giedraičių.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -41,20 +40,7 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Lietuvių artilerija prieš lenkų dalinius 1920 m. kovose prie Giedraičių.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvių artilerija prieš lenkų dalinius
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
 - [[objektai/vietos/Širvintos]]

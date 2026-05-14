@@ -30,7 +30,10 @@ Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdym
   santrauka: 'Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdymą pagal demokratinį Vakarų pasaulio modelį. 1992 m. spalio 25 d. piliečių referendume priimta Lietuvos Respublikos Konstitucija. Konstitucijos preambulėje glaustai įtvirtinti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Preambulėje nustatytas tam tikrų teisių tradicijų, valstybingumo ir
     jo įtvirtinimo teisėje tęstinumas – lietuvių tauta Lietuvos valstybės teisės
+    pamatus grindė LDK laikotarpiu priimtais Lietuvos Statutais ir Lietuvos
+    Respublikos konstitucijomis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

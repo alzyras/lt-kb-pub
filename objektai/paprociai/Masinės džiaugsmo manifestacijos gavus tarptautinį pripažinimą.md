@@ -69,7 +69,10 @@ tags: []
   santrauka: Citata aprašo manifestacijos laiką, vietą, dalyvius ir šventimo gestus.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos ma-
+    sinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad
     Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių
+    susirinko prie laikinosios sostinės Kauno rotušės.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

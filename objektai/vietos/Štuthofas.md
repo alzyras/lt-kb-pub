@@ -36,6 +36,8 @@ tags:
   santrauka: '– į Štuthofą, Dachau, Osvencimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Karui baigiantis, 1943 m., naciai naikino miestų getus, iškasė
+    ir degino nužudytųjų kūnus, 11 000 Lietuvos žydų buvo išvežti į Estijoje
     ir Latvijoje buvusius konclagerius, apie 3,5 tūkst. – į stovyklas Lenkijoje,
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -48,7 +50,9 @@ tags:
   santrauka: 'Keturi tarėjai, atsisakę vykdyti vokiečių nurodymus, 1943 m. suimti ir išvežti į Štuthofo koncentracijos stovyklą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Keturi tarėjai, atsisakę vykdyti
     vokiečių nurodymus, 1943 m. suimti ir išvežti į Štuthofo koncentracijos
+    stovyklą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -60,7 +64,11 @@ tags:
   santrauka: 'Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė
+    46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovy-
     klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
+    suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
+    grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

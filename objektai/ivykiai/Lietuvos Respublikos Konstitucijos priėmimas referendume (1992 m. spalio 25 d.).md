@@ -46,6 +46,7 @@ Nenurodyta
   santrauka: 'Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdymą pagal demokratinį Vakarų pasaulio modelį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1992 m. spa-
     lio 25 d. piliečių referendume priimta Lietuvos Respublikos Konstitucija.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -58,7 +59,12 @@ Nenurodyta
   santrauka: 'Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respublika, Lietuvos valstybę kuria tauta, suverenitetas priklauso tautai, aukščiausią suverenią galią tauta vykdo tiesiogiai ar per demokratiškai išrinktus savo atstovus, valstybės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Pagrindinės Konstitucijos nuostatos skelbė,
+    kad Lietuva yra demokratinė respublika, Lietuvos valstybę kuria tauta,
+    suverenitetas priklauso tautai, aukščiausią suverenią galią tauta vykdo
+    tiesiogiai ar per demokratiškai išrinktus savo atstovus, valstybės valdžią
     Lietuvoje vykdo Seimas, Respublikos prezidentas ir vyriausybė, teismas,
+    valdžios galias riboja konstitucija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

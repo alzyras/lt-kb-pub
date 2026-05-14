@@ -27,7 +27,8 @@ Ukraina: Lietuvos epocha, 1320–1569.
   santrauka: 'Ukraina: Lietuvos epocha, 1320–1569.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Ukraina: Lietuvos epocha, 1320–1569. Vilnius, 2010
+    Vilnius, 1995; Ukraina: Lietuvos epocha, 1320–1569. Vilnius, 2010; Vilniaus
+    fotografija, 1858–1915.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

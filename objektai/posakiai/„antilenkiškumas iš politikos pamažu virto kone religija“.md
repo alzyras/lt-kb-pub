@@ -29,7 +29,11 @@ Tebetvyranti įjungimo į Lenkiją grėsmė Lietuvos valstybei sukūrė apsuptie
   santrauka: 'Tebetvyranti įjungimo į Lenkiją grėsmė Lietuvos valstybei sukūrė apsupties mentalitetą, sustiprino lietuvių nacionalizmą, o jų politinėje sąmonėje antilenkiškumas iš politikos pamažu virto kone religija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lenkijos įvykdytas Vilniaus užėmimas galutinai nulėmė Lietuvos pasi-
+    rinkimą tarp nacionalinio-etninio ir tradicinio, istorinio savo valstybin-
     gumo. Tebetvyranti įjungimo į Lenkiją grėsmė Lietuvos valstybei sukūrė
+    apsupties mentalitetą, sustiprino lietuvių nacionalizmą, o jų politinėje
+    sąmonėje antilenkiškumas iš politikos pamažu virto kone religija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

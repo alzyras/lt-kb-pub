@@ -46,7 +46,9 @@ Nenurodyta
   santrauka: '1219 m. Lietuvoje vyriausiojo kunigaikščio dar nėra, bet 1245–1246 m. vokiečių kronikininkas Mindaugą pavadina „aukščiausiuoju karaliumi“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Gal tai rodytų, kad Mindaugas jau yra pajun-
     gęs savo valdžiai kitus kunigaikščius? Tačiau jei yra Mindaugo Lietuva, tai
+    gal būta ir, tarkim, „Živinbudo“ ar „Dausprungo“ Lietuvos?
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -58,7 +60,12 @@ Nenurodyta
   santrauka: 'Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų kolonijinių valstybių kūrimasis prie Baltijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų
     kolonijinių valstybių kūrimasis prie Baltijos. Lietuvos valstybė atsirado
+    pirmiausia kaip apsigynimo priemonė, tačiau ji turėjo remtis kokiu nors
+    visuomenės sluoksniu – tas sluoksnis buvo Mindaugo kariauna, o vieno
+    valdovo įsitvirtinimas yra ryškiausias išorinis valstybės atsiradimo požy-
+    mis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

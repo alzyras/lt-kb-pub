@@ -28,7 +28,9 @@ Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vil
   santrauka: 'Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais lenkų Armija Krajova daliniais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į
     Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais
+    lenkų Armija Krajova daliniais.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

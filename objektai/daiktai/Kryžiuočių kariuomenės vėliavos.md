@@ -45,6 +45,9 @@ Nenurodyta
   santrauka: 'Žalgirio mūšis įėjo į istoriją kaip vienas didžiausių mūšių Viduramžiais, lenkai ir lietuviai pasidalijo grobį – belaisvius, Ordino komtūrų barzdas, vėliavas, taip pat Ordino teritoriją – taigi Lietuva – lygiavertė su Lenkija Žalgirio mūšio laimėtoja.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Žalgirio mūšis įėjo į isto-
+    riją kaip vienas didžiausių mūšių Viduramžiais, lenkai ir lietuviai pasida-
+    lijo grobį – belaisvius, Ordino komtūrų barzdas, vėliavas, taip pat Ordino
     teritoriją – taigi Lietuva – lygiavertė su Lenkija Žalgirio mūšio laimėtoja.
   citata_rodoma: ''
   teiginio_tipas: faktas

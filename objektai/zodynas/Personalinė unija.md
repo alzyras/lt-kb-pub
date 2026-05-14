@@ -141,7 +141,9 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
   santrauka: 'Lietuvių pareigūnus įtraukus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nulemta valstybių sąveika naikino Lietuvos valstybingumą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvių pareigūnus įtraukus į Lenkijos
     valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nu-
+    lemta valstybių sąveika naikino Lietuvos valstybingumą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -153,7 +155,9 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
   santrauka: 'Su nedidelėmis išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir Lenkija, nors valstybės buvo atskiros.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Su nedidelėmis
     išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir
+    Lenkija, nors valstybės buvo atskiros.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

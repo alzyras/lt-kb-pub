@@ -38,7 +38,10 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   santrauka: 'Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų žodynas“ (1620).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Taigi lietuvių kalbą, nesuspėjant kurti naujadarų
+    pagal gyvenimo poreikius, pradžioje lenkė rusėnų kalba, o vėliau lenkų,
     tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų
+    žemėse priemone.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -50,7 +53,10 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   santrauka: 'Benneto veikalo „Viešpaties dešinės galybė“, 1674) 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 75 kų kalbos vaidmenį Lietuvos kultūroje apibendrino vienas iš Radvilų savo laiške, rašytame 1615 m.: „Nors lietuviu esu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Seime jai suteikiamas oficialios raštinių kalbos
     statusas vietoje anksčiau vartotos rusėnų raštų kalbos. Taigi lenkų kalba
+    buvo įteisinta pačių Lietuvos bajorų reikalavimu, tai buvo Lietuvos visuo-
+    menės pasirinkimas, o ne polonizacija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -62,7 +68,10 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   santrauka: '„Bolševizaciją“ papildė kaltinimai polonizacija, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti 70 lenkiškų mokyklų, o tai, esant įtemptiems Lietuvos ir Lenkijos santykiams, įvertinta kaip pavojus visai tautai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    „Bolševizaciją“ papildė kaltinimai polonizaci-
     ja, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti
+    70 lenkiškų mokyklų, o tai, esant įtemptiems Lietuvos ir Lenkijos santy-
+    kiams, įvertinta kaip pavojus visai tautai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -29,7 +29,12 @@ Daukantas persikėlė į Sankt Peterburgą, įsidarbino Rusijos valstybės Senat
   santrauka: 'Daukantas persikėlė į Sankt Peterburgą, įsidarbino Rusijos valstybės Senato archyve, kad galėtų prieiti prie ten saugomų Lietuvos istorijos dokumentų, parašė lietuvių kalba dar dvi dideles Lietuvos istorijos knygas, išleido plačią beletrizuotą etninių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vėliau S. Daukantas persikėlė į Sankt Peterburgą, įsidar-
     bino Rusijos valstybės Senato archyve, kad galėtų prieiti prie ten saugomų
+    Lietuvos istorijos dokumentų, parašė lietuvių kalba dar dvi dideles Lietu-
+    vos istorijos knygas, išleido plačią beletrizuotą etninių lietuvių kultūros
+    studiją „Būdas senovės lietuvių, žemaičių ir kalnėnų“, seriją švietėjiškų,
+    Simonas Daukantas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

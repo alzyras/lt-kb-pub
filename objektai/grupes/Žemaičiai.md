@@ -91,12 +91,6 @@ tags:
     - c-010
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-011
-  teiginys: 'Po 1257 m. taikos žemaičiai ir rygiečiai galėjo vieni pas kitus keliauti ir prekiauti.'
-  pagrindžia:
-    - c-011
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 - t-012
   teiginys: 'Žemaičiai po savo laimėjimo siuntė pasiuntinius pas Mindaugą ir per Treniotą ragino jį grįžti pagonybėn.'
   pagrindžia:
@@ -160,8 +154,8 @@ tags:
 - t-025
   teiginys: 'Žemaičiai dėl ordino prievartos nekentė jo skelbtos katalikybės, o po krikšto dalis jų atkrisdavo į seną tikėjimą.'
   pagrindžia:
-    - c-039
-    - c-038
+    - c-033
+    - c-032
     - c-032
     - c-033
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -310,39 +304,6 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
-- c-011
-  santrauka: Žemaičiai po taikos palaikė prekybinius ryšius su rygiečiais.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1257 m. taiką padarius, Rygos miesto pirkliai Žemaičių
-    plotą įtraukė į savo prekybinius interesus. Be pavojaus žemaičiai ir
-
-    (^152) **LReirn 4085-4158.**
-    (^153) **LReim 4086, 4101, 4107. Šitas vardas (Aliminas, Alminas) Žemaičiuose
-    ir dabar sutinkamas. Du Kaziai Alminai yra, pvz., profesoriai (vienas — vete­
-    rinarijos — nuo Platelių, kitas — kalbininkas — nuo Švėkšnos).**
-    (^154) **LReim 4505-4515. Kryžininku žygyje esą buvę 500 (LReirn 4501).**
-    (^155) **LUB I, 402.**
-    (^156) **LReim 4545-4570.**
-    (^157) **LReim 4614-4615.**
-    (^158) **« des landės site stêt also :
-    wer dem anderen tût die hant,
-    wer er über daz dritte lant,
-    der hette getrûwelichen vride
-    bie dem halse und der wide » (LReim 4616-4620).**
-
-
-    ```
-    KARALIUS MINDAUGAS IR JO PALIKIMAS 185
-    ```
-    rygiečiai esą galėję vieni pas kitus keliauti ir prekiauti^159
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-011
 - c-012
   santrauka: Žemaičiai siuntė pasiuntinius pas Mindaugą ir per Treniotą ragino grįžti pagonybėn.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -502,7 +463,7 @@ tags:
   santrauka: 1384 m. dalis Žemaičių krašto gyventojų savarankiškai pareiškė paklusnumą ordinui.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    1384 metų vasa­
+    Taip 1384 metų vasa­
     rio mėn. pradžioj Žemaičių krašto (Medininkų, Vangių ir
     kt.) gyventojai pareiškė Ordinui savo paklusnumą. Iš tų gy­
     ventojų pusės buvo tai pirmas savarankiškas mėginimas pasi­
@@ -640,38 +601,7 @@ tags:
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-023
-- c-038
-  santrauka: Žemaičiai papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tiesa, Vok.
-    Ordinas mėgino skelbti Žemaitijoje Kristaus tikėjimo tiesas,
-    bet be vaisių, nes žemaičiai labai Ordino nekentė dėl daromos
-    jiems prievartos. Nekęsdami Ordino, nekentė kartu ir jo iš­
-    pažįstamo katalikų tikėjimo. Nesiskubino ir Vytautas jų kraš­
-    te skelbti krikščionybės, nors ir buvo jį iš Ordino du kartu
-    laikinai atėmęs (1401 ir 1409), nes, matyt, bijojo erzinti žemai­
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
     - t-025
-- c-039
-  santrauka: Žemaičiai papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kaip uolesni pagonys už kitus lietuvius, žemaičiai
-    ir priėmę krikštą atkrisdavo į savo seną tikėjimą, ir neklausy­
-    davo kunigų. Tada Vytautas ir Jogaila nuvyko į Žemaičius
-    antrą kartą (1416) ir pakrikštijo dar daugiau gyventojų. Da­
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
     - t-025
     - t-023
     - t-025
@@ -680,7 +610,11 @@ tags:
   santrauka: 'Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Grindžiama
+    mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
+    valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat
     žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš
+    Lietuvos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -692,7 +626,10 @@ tags:
   santrauka: 'Tačiau dalis etninės Lietuvos yra už šiandieninės Lietuvos ribų, antra vertus, Lietuvos vardu vadinamos į vakarus nuo etninių žemių esančios senųjų žemaičių, dalies jotvingių, sėlių, žiemgalių ir prūsų teritorijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau dalis etninės Lietuvos yra už šian-
     dieninės Lietuvos ribų, antra vertus, Lietuvos vardu vadinamos į vakarus
+    nuo etninių žemių esančios senųjų žemaičių, dalies jotvingių, sėlių, žiem-
+    galių ir prūsų teritorijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -705,6 +642,7 @@ tags:
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     atlaikė, replės Lietuvą jau spaudė – 1237 m. Kalavijuočių ordinas tapo
+    Kryžiuočių ordino vasalu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -39,6 +39,7 @@ Nenurodyta
   santrauka: '1941–1944 nacių Vokietijos okupacija ir žydų Holokaustas Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1941–1944
     nacių Vokietijos okupacija ir žydų Holokaustas Lietuvoje.
   citata_rodoma: ''
   teiginio_tipas: faktas

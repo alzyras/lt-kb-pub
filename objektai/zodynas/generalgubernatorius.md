@@ -51,7 +51,9 @@ Jį valdė Vilniaus generalgubernatorius.
   santrauka: 'Imperijos sostinių ir pakraščių regionuose tarp centro valdžios ir gubernijų dar veikė tarpinė grandis – generalgubernatoriaus institucija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Caro skiriamas gene-
     ralgubernatorius kontroliavo kelių gubernijų administraciją. Jam pavaldi
+    buvo ir šiose gubernijose dislokuota kariuomenė.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -63,7 +65,9 @@ Jį valdė Vilniaus generalgubernatorius.
   santrauka: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Anglijai ir Prancūzijai apsiribojus tik diplomatinėmis notomis, ragi-
     nančiomis Rusiją vengti didesnio kraujo praliejimo, jos vyriausybė veikė
+    ryžtingai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

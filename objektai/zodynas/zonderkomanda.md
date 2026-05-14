@@ -34,7 +34,10 @@ Viena jo kuopa padaryta zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojam
   santrauka: 'Viena jo kuopa padaryta zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojama dalyvavo masinėse 3 000 žydų (dabar jau tik dėl tautybės išskirtų iš visų suimtųjų, įtariamų buvus sovietų aktyvistais) žudynėse Kauno VII forte.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ginkluoti partizanai
+    nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąją sukilėlių būriai
     paleisti, o iš savanorių suformuotas Tautinės darbo apsaugos (TDA)
+    batalionas prie Kauno karo komendantūros.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,7 +49,12 @@ Viena jo kuopa padaryta zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojam
   santrauka: 'Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypatingasis SD būrys Vilniuje (Paneriuose) ir Heinricho Hamano (Heinrich Hamann) „skrajojantis būrys“, kelis kartus per savaitę vykdavęs į provincijos vietoves ir ten šaudęs (jo pagrindą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Daugiausia šaudė
     iš lietuvių sudarytos dvi specialios zonderkomandos – Ypatingasis SD
+    būrys Vilniuje (Paneriuose) ir Heinricho Hamano (Heinrich Hamann)
+    „skrajojantis būrys“, kelis kartus per savaitę vykdavęs į provincijos vieto-
+    ves ir ten šaudęs (jo pagrindą ir sudarė 3-ioji TDA Kauno bataliono kuo-
+    pa).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

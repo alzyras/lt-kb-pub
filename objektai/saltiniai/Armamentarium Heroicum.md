@@ -28,6 +28,7 @@ Mikalojus Radvila Juodasis iš Jacobo Schrencko „Armamentarium Heroicum“.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mikalojus Radvila Juodasis iš Jacobo Schrencko
+    „Armamentarium Heroicum“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -38,6 +38,7 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus
+    vyskupas Ignotas Masalskis) įkūrimas 1773 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -49,7 +50,10 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
   santrauka: 'Masalskis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Targovicos konfederacijai 1792  m. birželio 25 d. pritarė Vilniaus (t.  y.
+    Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas
     Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis
+    ir Vilniaus vyskupas I. Masalskis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,7 +65,10 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
   santrauka: 'Masalskis ir Livonijos vyskupas J.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos
     konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos
+    vyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-
+    lio 28 dieną.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

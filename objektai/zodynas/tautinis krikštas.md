@@ -30,7 +30,12 @@ Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lie
   santrauka: 'Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietuviškai kalbančio kaimo masių tautiniam krikštui, t.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tautinę savi-
+    monę žadino V. Kudirkos poezija ir satyriniai, caro valdininkus taikliai
+    pašiepiantys apsakymai, iš smulkiųjų bajorų kilusios rašytojos Julijos
     Žymantienės-Žemaitės sodri realistinė sociali proza. Nelegalioje lietuvių
+    spaudoje spausdinta kitų tautų, pirmiausia kaimynų grožinė kūryba, ypač
+    XIX a. pirmosios pusės lenkiškai rašiusių Lietuvos patriotų kūriniai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

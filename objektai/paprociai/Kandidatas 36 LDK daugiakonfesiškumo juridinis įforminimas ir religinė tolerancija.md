@@ -50,6 +50,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkijoje nebuvo ir sentikių, atsiskyrusių nuo stačiatikių dėl liturgijos ir
+    persekiojamų Rusijoje – antrojoje XVII a. pusėje jie kėlėsi į LDK.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,7 +62,9 @@ Nenurodyta
   santrauka: 'LDK išsiskiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavimo ar juridinio įforminimo sparta.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vėliau tiek
     Lenkijoje, tiek Lietuvoje tolerancijos ribos vis siaurėjo, bet pokyčiai vyko
+    lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki pat XX a.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

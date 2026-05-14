@@ -34,7 +34,11 @@ tags:
   santrauka: 'Čartoriskis, susiaurintos Vilniaus švietimo apygardos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją policiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Išvaryti ir politiš-
     kai nepatikimi profesoriai, tarp jų J. Lelevelis, priverstinai atsistatydino
+    iš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-
+    dos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją
+    policiją.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -47,6 +51,7 @@ tags:
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Karalystės Seimas paskelbė pašalinąs Nikolajų I iš Lenkijos karaliaus
+    sosto ir perduodąs suverenitetą tautai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

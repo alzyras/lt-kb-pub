@@ -34,7 +34,13 @@ Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintoja
   santrauka: 'Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintojas ir vienas jos sumanytojų Vilniaus generalgubernatorius M.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Programą sudarė kompleksas specialių
+    ekonominės ir kultūrinės politikos priemonių, turėjusių susilpninti vietos
     dvarininkijos ekonomines pozicijas ir užtikrinti, kad Rusijos aneksuotose
+    LLV žemėse, dabar oficialiai traktuojamose „nuo seno rusiškomis žemė-
+    mis“, viešajame gyvenime vietoje lenkų įsivyrautų rusų kalba, dominuo-
+    jančias pozicijas įgytų Rusų stačiatikių bažnyčia, o valstiečių vaikai įsilie-
+    tų į rusų aukštąją kultūrą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,7 +52,9 @@ Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintoja
   santrauka: 'Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusijos imperijos valdžia laikėsi 40 metų ir „pasiekė“ ne tokių rezultatų, kokių tikėjosi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tuo norėta pademonstruoti, kad Šiaurės Vakarų krašto
     centras yra ne ką mažiau stačiatikiškas nei katalikiškas. Rusų stačiatikių
+    bažnyčios katedra paversta Šv.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

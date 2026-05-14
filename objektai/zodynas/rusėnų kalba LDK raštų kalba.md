@@ -41,7 +41,11 @@ tags:
   santrauka: 'Šiose žemėse lietuviai atrado tai, ko neturėjo: bažnytinę sistemą ir raštiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Abi
+    šios aplinkybės lėmė svarbų stačiatikiškos kultūros vaidmenį ankstyvojo-
     je Lietuvos istorijoje: tapę vietininkais senrusių žemėse sritiniai lietuvių
+    kunigaikščiai priimdavo stačiatikybę, o besiformuojanti rusėnų raštija
+    virto oficialia LDK raštų kalba.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -53,7 +57,11 @@ tags:
   santrauka: 'Vienuolynuose rašoma bulgarų kilmės slavų bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vienuolynuose rašoma bulgarų kilmės slavų
     bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba. Šia
+    kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos
+    tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lie-
+    tuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -65,7 +73,10 @@ tags:
   santrauka: 'Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tai lėmė
     spartus raštijos poreikių didėjimas Vytauto laikais. Lietuvių kalba raštijos
+    tradicijų nebuvo sukūrusi, o stačiatikiai valdiniai jau turėjo kelių šimtmečių
+    bažnytinę rašto tradiciją nuo Kijevo Rusios laikų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -77,7 +88,10 @@ tags:
   santrauka: 'Ji kartais vadinama „vakarų rusų“, kartais „senąja ukrainiečių“, kartais – „senąja baltarusių“, o Lietuvoje – „LDK slavų kanceliarine“ kalba (nors ji išėjo ir už kanceliarijos, ir už LDK ribų – į Lenkiją bei Vengriją, ir, svarbiausia, skyrėsi nuo kitų LDK.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Šiandien ši Lietuvos Metrikos kalba pavadinama
     net „senalietuvių“. Tai istorinis požiūris. Filologų manymu, LDK raštinėse
+    vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba, o rusėnais – LDK ir
+    Lenkijos valstybėse gyvenusius rytų slavus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

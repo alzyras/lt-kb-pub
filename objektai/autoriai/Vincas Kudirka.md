@@ -117,7 +117,15 @@ Vincas Kudirka šiame šaltinyje minimas kaip autorius, redaktorius; jam priskir
   santrauka: 'Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į rankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    „Aušros“ idėjas toliau plėto-
+    jo 1889 m. pradėtas leisti žurnalas
+    „Varpas“, įsteigtas Varšuvos lie-
+    tuvių studentų draugijos „Lietu-
+    va“. Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka
+    (1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į
     rankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“. V. Kudirka
+    rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam melodiją – šis kūri-
+    nys taps Lietuvos himnu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -129,7 +137,10 @@ Vincas Kudirka šiame šaltinyje minimas kaip autorius, redaktorius; jam priskir
   santrauka: 'Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakymai, iš smulkiųjų bajorų kilusios rašytojos Julijos Žymantienės-Žemaitės sodri realistinė sociali proza.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tautinę savi-
     monę žadino V. Kudirkos poezija ir satyriniai, caro valdininkus taikliai
+    pašiepiantys apsakymai, iš smulkiųjų bajorų kilusios rašytojos Julijos
+    Žymantienės-Žemaitės sodri realistinė sociali proza.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -141,7 +152,14 @@ Vincas Kudirka šiame šaltinyje minimas kaip autorius, redaktorius; jam priskir
   santrauka: 'Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos, tautinio pobūdžio literatūra.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kultūros suvienodinimas
+    J. Stalino valdymo metais vyko tiesmukas lietuvių kultūros
+    griovimas, siekiant su šaknimis išrauti bet kokį tautiškumą, nes visas kul-
+    tūros sritis kontroliavo ir griežtai administravo, kiekvieną eilutę cenzūravo
+    komunistų partija: primesta marksistinė-lenininė filosofija, skiepijama ko-
     munistinė ideologija, kurią turėjo skleisti visos kultūros įstaigos. Šlovinant
+    komunistinės ideologijos autoritetus, susidorojama su nepriklausomos
+    Lietuvos kultūros palikimu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

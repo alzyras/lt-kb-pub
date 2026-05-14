@@ -33,7 +33,9 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
   santrauka: 'Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusijos imperijos valdžia laikėsi 40 metų ir „pasiekė“ ne tokių rezultatų, kokių tikėjosi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV
     žemėse Rusijos imperijos valdžia laikėsi 40 metų ir „pasiekė“ ne tokių
+    rezultatų, kokių tikėjosi.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -45,7 +47,9 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
   santrauka: '1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė demokratinė revoliucija netruko pasiekti ir Lietuvos miestus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė de-
     mokratinė revoliucija netruko pasiekti ir Lietuvos miestus. Vyko streikai,
+    demonstracijos, mitingai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

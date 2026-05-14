@@ -42,7 +42,10 @@ Nenurodyta
   santrauka: 'Dėl to Gegužės trečiosios konstitucija buvo suvokiama kaip Lietuvos atgaivinimo aktas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Neatsitiktinai tuo metu konsti-
     tucija išverčiama ir į lietuvių kalbą, o tai yra per mažai įvertinta Lietuvos
+    kultūros istorijoje, nes iki tol lietuviškai teturėjome religinės ir grožinės
+    literatūros tekstų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

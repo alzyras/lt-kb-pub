@@ -29,7 +29,9 @@ sukilėlių neturėjo jokių galimybių laimėti, viltys, dėtos į valstiečių
   santrauka: 'sukilėlių neturėjo jokių galimybių laimėti, viltys, dėtos į valstiečių sukilimą Rusijoje, tebuvo iliuzija, Vakarai irgi nesiruošė lieti kraujo dėl „Lenkijos reikalų“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kariniu požiūriu 60 tūkst. sukilėlių neturėjo jokių galimybių laimė-
     ti, viltys, dėtos į valstiečių sukilimą Rusijoje, tebuvo iliuzija, Vakarai irgi
+    nesiruošė lieti kraujo dėl „Lenkijos reikalų“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

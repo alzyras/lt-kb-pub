@@ -27,7 +27,8 @@ Olszewski.
   santrauka: 'Olszewski.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    H. Olszewski. O skutecznym rad
+    M. Šapoka, Vilnius, 2009; H. Olszewski. O skutecznym rad
+    sposobie.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

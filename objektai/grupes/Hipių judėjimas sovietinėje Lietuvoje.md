@@ -36,6 +36,7 @@ Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris s
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos
+    pavasaris suaktyvino kitaminčius.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -47,7 +48,9 @@ Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris s
   santrauka: 'Sovietinėje sistemoje egzistavę hipių ar pankų judėjimai protestavo prieš pačią tą sistemą, o ne prieš vartotojišką visuomenę kaip hipiai Vakaruose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Sovietinėje sistemoje egzistavę hipių ar
     pankų judėjimai protestavo prieš pačią tą sistemą, o ne prieš vartotojišką
+    visuomenę kaip hipiai Vakaruose.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -59,7 +62,9 @@ Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris s
   santrauka: 'Hipių judėjimo pakilimo laikotarpis siejamas su aštuntojo dešimt­ mečio pradžios įvykiais Vilniuje ir Kaune.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1971 m. viename iš Vilniaus
     restoranų įvyko nelegalus roko festivalis, dar vadinamas Baltijos šalių ar
+    net 300 SSRS hipių suvažiavimu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -27,7 +27,16 @@ Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvi
   santrauka: 'Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodyno“ pratarmės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai
+    gebanti atstovauti pirmykštei arijų civilizacijai ir kultūrai“
+    Immanuel Kant (1724–1804)
     Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir
+     vokiečių–lietuvių kalbų žodyno“ pratarmės
+    Š
+    iuo laikotarpiu Lietuva (darant išlygą dėl Užnemunės)
+    priklausė autokratinei Rusijos imperijai (išskyrus pus-
+    mečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „inter-
+    liudą“).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -35,3 +44,8 @@ Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/autokratinė monarchinė imperija]]
+- [[objektai/zodynas/interliudas]]

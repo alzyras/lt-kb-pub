@@ -27,7 +27,10 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.
   santrauka: 'Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Per 20 metų iš
+    šalies emigravo apie 100 000 gyventojų, iš jų apie 30 proc. sudarė žydai,
     vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV. Lietuviai vyko daugiausia į
+    Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

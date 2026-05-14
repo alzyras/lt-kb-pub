@@ -37,17 +37,15 @@ Nenurodyta
   teiginys: 'Iš daugiau kaip 3 000 aktyvių protestų dalyvių buvo suimta per 400 žmonių (iš jų 50 asmenų patraukti baudžiamojon atsakomybėn, aštuoni nuteisti kalėti nuo vienerių iki trejų metų).'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Protesto eisena Kauno Laisvės alėjoje Kaune 1972 m. gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius.'
-  pagrindžia:
-    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Sovietiniai saugumiečiai paskubėjo R. Kalantą slapta palaidoti
     anksčiau paskelbto laiko. Susirinkę į laidotuves žmonės pasipiktino valdžios
+    savivale.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -59,7 +57,9 @@ Nenurodyta
   santrauka: 'Iš daugiau kaip 3 000 aktyvių protestų dalyvių buvo suimta per 400 žmonių (iš jų 50 asmenų patraukti baudžiamojon atsakomybėn, aštuoni nuteisti kalėti nuo vienerių iki trejų metų).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Siekdama
     sumenkinti šį įvykį, sovietų valdžia paskelbė, kad R. Kalantos susideginimo
+    priežastis – sunki psichikos liga šizofrenija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -67,23 +67,10 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Protesto eisena Kauno Laisvės alėjoje Kaune 1972 m. gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Protesto eisena Kauno Laisvės alėjoje Kaune  1972 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laidotuvės]]
 
 ### Susiję objektai
-- [[objektai/vietos/Kauno Laisvės alėja]]
 - [[objektai/asmenys/Romas Kalanta]]

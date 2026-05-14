@@ -34,7 +34,12 @@ Vertikalios gotikinių bažnyčių linijos ir kylantys į dangų bokštai simbol
   santrauka: 'Vertikalios gotikinių bažnyčių linijos ir kylantys į dangų bokštai simbolizavo žmogaus veržimąsi Dievo link.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    XIV a.
+    pabaigoje, kai gotika tik pradėjo rastis Lietuvoje, Europoje šis meno sti-
+    lius turėjo jau pusantro šimto metų tradiciją, perėjo į brandųjį etapą ir pa-
     veikė visas žmogaus kūrybinės veiklos sritis. Susiklostė atskirų Europos
+    regionų gotikinio meno ypatumai, bene ryškiausiai matomi sakralinių
+    pastatų architektūroje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -47,6 +52,8 @@ Vertikalios gotikinių bažnyčių linijos ir kylantys į dangų bokštai simbol
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gotikinės architektūros plitimą pirmiausia paskatino valstybės krikštas
+    ir po jo pradėta įgyvendinti Vytauto mūrinių bažnyčių statybos programa
+    (Vilniuje katedra, Šv.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

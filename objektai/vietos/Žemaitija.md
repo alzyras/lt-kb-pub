@@ -30,18 +30,6 @@ tags:
 Šaltinyje Žemaitija pasirodo tiek Mindaugo laikų vyskupijos ir Livonijos ordino santykių, tiek Vytauto kovų su Ordinu ir 1409 m. sukilimo kontekste.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Pirmą kartą Žemaitija Ordinui buvo atiduota 1382 m. iki Dubysos, o vėliau ją dar buvo žadėjęs ir Vytautas, tačiau Ordinas vis nepajėgė jos galutinai užimti.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Po Salyno sutarties žemaičiai nepasidavė geruoju ir buvo jėga pavergti.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-003
   teiginys: '1409 m., Vytauto pasiųstiems bajorams veikiant kartu su žemaičiais, buvo sudegintos visos kryžiuočių pilys ir Ordinas išvytas iš Žemaičių.'
   pagrindžia:
@@ -68,24 +56,6 @@ tags:
     - c-007
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: Citata apima ir ankstyvus Žemaitijos atidavimus Ordinui, ir pasipriešinimą po Salyno sutarties.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pirmą kartą Žemaičiai bu-
-    vo atiduoti ordinui Jogailos dar 1382 m. (iki Dubysos). Pabėg-
-    damas į ordiną, Vytautas irgi atiduodavo jam Žemaičius (1384 ir
-    1390 m.). Tačiau ordinas vis nepajėgdavo jų užimti. Po Salyno
-    sutarties žemaičiai taip pat nepasidavė geruoju: juos teko jėga
-    pavergti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-    - t-002
 - c-002
   santrauka: Citata tiesiogiai pagrindžia 1409 m. žemaičių sukilimo rezultatą.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -119,6 +89,9 @@ tags:
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva krikštijosi katalikišku krikštu, o jos
+    dalis Žemaitija tapo paskutiniu Europoje
+    apsikrikštijimo regionu – šiais įvykiais bai-
+    gė formuotis krikščioniškoji Europa.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -143,7 +116,9 @@ tags:
   santrauka: 'Mindaugo krikštas nepašalino ordinų pavojaus, be to, buvo prarasta etninės Lietuvos dalis – Žemaitija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su
     krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti
+    krikščionio valdovo statusą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

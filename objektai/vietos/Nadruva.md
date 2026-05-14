@@ -31,6 +31,7 @@ tags:
   santrauka: 'Šio proceso ankstyvąja apraiška reikėtų laikyti šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Šio proceso ankstyvąja apraiška reikėtų laikyti
     šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -44,6 +45,8 @@ tags:
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties
+    (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių
+    sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

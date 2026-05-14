@@ -27,7 +27,9 @@ sandūroje pradėjo oponuoti „jaunalietuviai“, po poros dešimtmečių sukū
   santrauka: 'sandūroje pradėjo oponuoti „jaunalietuviai“, po poros dešimtmečių sukūrę Lietuvos Respubliką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietu-
     viams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,
+    po poros dešimtmečių sukūrę Lietuvos Respubliką.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

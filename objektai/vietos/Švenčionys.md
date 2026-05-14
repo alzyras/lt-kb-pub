@@ -28,6 +28,8 @@ Lietuviai atkakliai siekė išvengti karinių bazių, išsaugoti savo etnines ž
   santrauka: 'Lietuviai atkakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuviai at-
+    kakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti
     kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus).
   citata_rodoma: ''
   teiginio_tipas: faktas

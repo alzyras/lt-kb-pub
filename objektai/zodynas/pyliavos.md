@@ -33,7 +33,13 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
   santrauka: 'Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 211 miestelius naikintos vietos įgulos, valsčiaus dokumentai, mobilizacijos sąrašai, pyliavų žiniaraščiai, išlaisvinami suimtieji, nušaunami uolūs okupacinės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    miestelius naikintos vietos įgulos, valsčiaus dokumentai, mobilizacijos
+    sąrašai, pyliavų žiniaraščiai, išlaisvinami suimtieji, nušaunami uolūs oku-
     pacinės valdžios statytiniai, kiti įspėjami netarnauti priešui. Partizanai
+    trukdė okupacinės valdžios rinkimus, apšaudydavo balsavimo būstines,
+    stabdė miško kirtimo ir išvežimo darbus, kovojo su prievartiniu kolūkių
+    kūrimu, partizanų karo lauko teismai teisė ir baudė mirties bausme trė-
+    mimų vykdytojus, sovietinius pareigūnus ir šnipus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

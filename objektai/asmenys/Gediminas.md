@@ -126,7 +126,7 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
 - t-025
   teiginys: 'Aiškindamas Gedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir išpranašaus Vilniaus įkūrimą ir šlovę.'
   pagrindžia:
-    - c-025
+    - c-024
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -333,6 +333,7 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   santrauka: '1316–1341 Gediminaičių dinastijai vardą davusio Gedimino valdymas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1316–1341
     Gediminaičių dinastijai vardą davusio Gedimino valdymas.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -345,7 +346,13 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   santrauka: 'Su pagonišku veidu Lietuva dar gyvens 400 metų ir po Netimero – minėtus dievus matome ir Mindaugo laikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir iki Ldk Gedimino, kuris bylos gal ne tiek apie pagonišką monoteizmą, kiek apie.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Su pagonišku veidu Lietuva dar
+    gyvens 400 metų ir po Netimero – minėtus dievus matome ir Mindaugo
     laikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir
+    iki Ldk Gedimino, kuris bylos gal ne tiek apie pagonišką monoteizmą,
+    kiek apie vyriausiąjį Dievą – „ir mes turime vieną Dievą…“ Aiškindamas
+    Gedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir
+    išpranašaus Vilniaus įkūrimą ir šlovę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -353,17 +360,6 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-024
-- c-025
-  santrauka: 'Aiškindamas Gedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir išpranašaus Vilniaus įkūrimą ir šlovę.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
     - t-025
 
 ## Ryšiai
@@ -377,4 +373,3 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
 - [[objektai/asmenys/Kęstutis]]
 - [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Lizdeika]]

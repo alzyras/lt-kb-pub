@@ -28,7 +28,10 @@ Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą pr
   santrauka: 'Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą programą ir naują statutą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Taip atsirado nacionalinė eurokomunistinio tipo partija,
     turinti reformuotą programą ir naują statutą. Savarankiška LKP, vėliau
+    pasivadinusi Lietuvos demokratine darbo partija (LDDP), pasirinko so-
+    cialdemokratinę orientaciją.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

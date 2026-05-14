@@ -47,6 +47,8 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
     Kitas labai negausus, bet aktyvus lietuvių būrys susidarė
     neutralinėje Šveicarijoje. Ypačiai Amerikos lietuvių
     organizacijų teikiamomis lėšomis tas būrys šelpė lietuvius be-
+    laisvius Vokietijoje ir skleidė žinias apie lietuvių tautą ir jos
+    reikalaujamąsias teises savarankiškai tvarkytis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -60,6 +62,7 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
   citata_originali: |
     Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje
     ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar-
+    bo pagrindu buvo paimtas nepriklausomybės reikalavimas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

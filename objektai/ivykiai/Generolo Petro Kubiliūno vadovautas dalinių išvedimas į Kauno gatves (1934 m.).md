@@ -40,7 +40,9 @@ Nenurodyta
   santrauka: 'Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pavojingiausias.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Autoritarinis ramaus publicisto ir kalbėtojo A. Smetonos režimas ne-
     tenkino dešiniojo sparno tautininkų, kuriems imponavo Italijos fašizmas
+    ir energingesnis lyderis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -24,11 +24,6 @@ Ostrogiškis smarkiai sumušė Maskvos kariuomenę ties Orša. Bet tuo tarpu atv
   teiginys: 'Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Lietuvos ir Lenkijos kariuomenė, vadovaujama Konstantino Ostrogiškio, 1514 m. rugsėjo 8 d. sutriuškina Maskvos kariuomenę prie Oršos.'
-  pagrindžia:
-    - c-004
-
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.'
@@ -44,19 +39,3 @@ Ostrogiškis smarkiai sumušė Maskvos kariuomenę ties Orša. Bet tuo tarpu atv
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Lietuvos ir Lenkijos kariuomenė, vadovaujama Konstantino Ostrogiškio, 1514 m. rugsėjo 8 d. sutriuškina Maskvos kariuomenę prie Oršos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ostrogiškio, 1514 m. rugsėjo 8 d. sutriuškina Maskvos kariuomenę
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos kariuomenė]]

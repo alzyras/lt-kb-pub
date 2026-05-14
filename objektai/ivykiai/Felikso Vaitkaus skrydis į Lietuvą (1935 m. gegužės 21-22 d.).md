@@ -39,6 +39,7 @@ Nenurodyta
   santrauka: '1935 m. gegužės 21–22 d. kitas JAV lietuvis, Feliksas Vaitkus, sėkmingai atliko S.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1935 m. gegužės 21–22 d. kitas JAV lietuvis, Fe-
     liksas Vaitkus, sėkmingai atliko S. Dariaus ir S. Girėno sumanytą skrydį.
   citata_rodoma: ''
   teiginio_tipas: faktas

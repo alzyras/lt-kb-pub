@@ -28,7 +28,12 @@ Lietuvių kalba geriausiai iš visų gyvųjų indoeuropiečių kalbų išlaikė 
   santrauka: 'Lietuvių kalba geriausiai iš visų gyvųjų indoeuropiečių kalbų išlaikė senąjį garsyną ir daugelį morfologinių ypatybių, kurias turėjo seniai išnykusios arba dabar nebevartojamos kalbos – hetitų, senovės graikų, sanskrito.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Žymus prancūzų kalbininkas
+    Antuanas Mejė (Antoine Meillet, 1866–1936) yra sakęs: „Tas, kuris nori ži-
+    noti, kaip kalbėjo mūsų proseneliai, turi atvažiuoti pasiklausyti, kaip kalba
     lietuvis valstietis.“ Kadangi lietuviai krikščionybę priėmė palyginti vėlai,
+    mūsų liaudies kultūroje ir tradicijose yra gausu archajiškų, iš pagonybės
+    laikų išlikusių elementų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -42,7 +42,9 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   santrauka: 'Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Valstybė buvo padalyta į Lenkijos ir Lietuvos
     švietimo provincijas, o šios – į apygardas. Lietuvos provincijos švietimą
+    tvarkė reformuotas Vilniaus universitetas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -54,7 +56,9 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   santrauka: 'Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos
     Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių
+    žemės.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -66,7 +70,13 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   santrauka: 'Už Lietuvos ribų Lietuvos bajorai laikyti tiesiog lenkais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų
+    luomo, dauguma jų – mažažemiai ir bežemiai bajorai, kalbėję daugiausia
+    lenkų kalba ir puoselėję buvusio valstybingumo atminimą ir tradicijas.
+    Jie turėjo dvilypį tautinį mentalitetą – vadino save sykiu ir lietuviais, ir
+    lenkais (LDK bajorija nesutiko visiškai integruotis į senąją Lenkijos Kara-
     lystę, nors ir nelinko nuo jos atsiskirti). Už Lietuvos ribų Lietuvos bajorai
+    laikyti tiesiog lenkais.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -78,7 +88,11 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   santrauka: '1840 m. panaikintas Lietuvos Statutas, o teismų sistema surusinta.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1840 m. panaikintas
     Lietuvos Statutas, o teismų sistema surusinta. Lietuvos vardas pašalintas
+    iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos
+    traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės
+    Vakarų kraštu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

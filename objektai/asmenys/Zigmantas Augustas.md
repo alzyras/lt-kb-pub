@@ -184,4 +184,3 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
 - [[objektai/asmenys/Bona]]
 - [[objektai/asmenys/Jonas Kazimieras]]
 - [[objektai/asmenys/Protasevičius]]
-- [[objektai/asmenys/Steponas Batoras]]

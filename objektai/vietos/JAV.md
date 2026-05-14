@@ -34,10 +34,6 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   teiginys: 'Prasidėjus Šaltajam karui tarp JAV ir SSRS, amerikiečiai ėmė keisti savo požiūrį į dipukus.'
   pagrindžia:
     - c-004
-- t-005
-  teiginys: 'Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie 30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją.'
-  pagrindžia:
-    - c-005
 - t-006
   teiginys: 'Ji siekė išlaikyti Lietuvos valstybės tarptautinį pripažinimą tose šalyse, kurios nepripažino Lietuvos prievartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.), Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje.'
   pagrindžia:
@@ -52,6 +48,7 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   santrauka: 'Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV lietuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m. Rygoje tapo Europos čempionais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV lie-
     tuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -64,7 +61,9 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   santrauka: 'Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Neprasigy-
     venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į
+    Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -76,6 +75,8 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   santrauka: 'Su stipriausiais finansiškai ir organizacijų atžvilgiu JAV lietuviais daugiausia bendrauta per giminingas politines organizacijas, profesiškai ar tiesiog asmeniškai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Su stipriausiais finansiškai ir
+    organizacijų atžvilgiu JAV lietuviais daugiausia bendrauta per giminin-
     gas politines organizacijas, profesiškai ar tiesiog asmeniškai.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -89,6 +90,7 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prasidėjus Šaltajam karui tarp JAV ir SSRS, amerikiečiai ėmė keisti
+    savo požiūrį į dipukus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -96,23 +98,18 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie 30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 - c-006
   santrauka: 'Ji siekė išlaikyti Lietuvos valstybės tarptautinį pripažinimą tose šalyse, kurios nepripažino Lietuvos prievartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.), Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tad
+    lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rūpinosi
+    Lietuvos diplomatinė tarnyba (LDT), Lietuvos valstybingumo simbolis, gy-
+    vavusi per visą sovietų okupacijos laikotarpį. Ji siekė išlaikyti Lietuvos vals-
+    tybės tarptautinį pripažinimą tose šalyse, kurios nepripažino Lietuvos prie-
+    vartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.),
     Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje,
+    Šveicarijoje, Vatikane.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -125,6 +122,9 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios
+    organizacijos – Amerikos lietuvių taryba (ALT, įsteigta 1940 m.), Pasau-
+    lio lietuvių bendruomenė (PLB) (1951 m.) ir iš Europos persikėlęs Vy-
+    riausiasis Lietuvos išlaisvinimo komitetas (VLIK).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

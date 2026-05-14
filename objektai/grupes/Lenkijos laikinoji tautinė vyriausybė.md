@@ -33,7 +33,9 @@ Pogrindyje susikūrusi Lenkijos laikinoji tautinė vyriausybė sausio 22 dieną 
   santrauka: 'Pogrindyje susikūrusi Lenkijos laikinoji tautinė vyriausybė sausio 22 dieną paskelbė sukilimo pradžią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Baimindamasi Lietuvos „raudonųjų“ radika-
     lumo Lenkijos sukilėlių vadovybė sukilimui Lietuvoje vadovauti pavedė
+    „baltiesiems“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -45,7 +47,10 @@ Pogrindyje susikūrusi Lenkijos laikinoji tautinė vyriausybė sausio 22 dieną 
   santrauka: 'Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „raudonuosius“ (vadovu paskirtas karštas Lietuvos patriotas ir baltarusių tautinio atgimimo šalininkas Konstantinas Kalinauskas), sukilimas ėmė blėsti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lenkijos sukilėlių vyriausybė į Lietu-
     vos sukilimo vadovybę grąžino „raudonuosius“ (vadovu paskirtas karštas
+    Lietuvos patriotas ir baltarusių tautinio atgimimo šalininkas Konstan-
+    tinas Kalinauskas), sukilimas ėmė blėsti.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

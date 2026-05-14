@@ -58,7 +58,11 @@ Mikalojaus Husoviano poema „Giesmė apie stumbro išvaizdą, žiaurumą ir med
   santrauka: Husoviano poemos data, pavadinimas ir istorinės sąmonės funkcija.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Šias idėjas randame ir
     Mykolo Lietuvio svarstymuose apie valstybės tvarką („Apie totorių, lietuvių
+    ir maskvėnų papročius“, apie 1550), kurioje Vytauto laikų papročių rigoriz-
+    mas ir asketizmas yra priešpriešinamas savo meto visuomenės išglebimui,
+    girtuoklystei ir netvarkai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

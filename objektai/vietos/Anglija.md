@@ -58,7 +58,9 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   santrauka: 'Ispanijos galybės saulėlydį ženklino Nenugalimosios armados nesėkmė 1588 m. Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra, žygio Ispanija nekartojo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ispanijos galybės saulėlydį ženklino Nenugalimosios armados ne-
     sėkmė 1588 m. Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra,
+    žygio Ispanija nekartojo.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -70,7 +72,12 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   santrauka: 'Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui, Martyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vilniaus universite-
     to profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui,
+    Martyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir
+    Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m.
+    buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose
+    vietoje įprasto Horacijaus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -83,6 +90,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė
+    matininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

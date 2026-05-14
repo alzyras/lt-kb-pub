@@ -100,10 +100,6 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-012
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-012
-  teiginys: 'Nors Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos miestas), ji dažnai laikoma Rytų Europos dalimi.'
-  pagrindžia:
-    - c-013
 - t-013
   teiginys: 'O turima galvoje: žemės ūkio pažanga, lėktuvų projektavimas ir gamyba Kaune ir krepšininkų vyrų dukart – 1937 ir 1939 m. – iškovoti Europos čempionų titulai.'
   pagrindžia:
@@ -206,7 +202,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   santrauka: Citata tiesiogiai aprašo Kauno puolimo planą iš kelių krypčių.
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    7-asis pul-
+    © ::iosios brigados 7-asis pul-
     kas puola Prienų kryptimi su
     tikslu apeiti ir užpulti Kauną
     iš pietų. 5-asis pulkas puola
@@ -260,6 +256,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   santrauka: Citata nurodo 1362 m. Kauno pilies sugriovimą ir jo vietą ankstyvame Ordino veržimesi į Lietuvą.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Kiek tos kovos Kęstučio valdymo laiku padidėjo,
+    rodo ir ta aplinkybė, kad vokiečiai tiek jau buvo įsidrąsinę, kad
     1362 m. išgriovė Kauno pilį ir pradėjo brautis vis gilyn į Lietu­
     vą, pasiekdami net Vilniaus ir Neries sritis, kurių dar niekad
     priešai nebuvo pasiekę.
@@ -291,6 +289,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     Kaune parapinę bažnyčią ir pranciškoną (dabar Vytauto), Nau­
     juose Trakuose (kur yra išlikęs Vytauto numylėtas Šv. Pane­
     lės paveikslas, žmonių laikomas stebuklingu), Sen. Trakuose,
+    Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­
+    bingiuose, Utenoje, Eišiškiuose, Gardine, Liet.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -298,23 +298,14 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-011
-- c-013
-  santrauka: 'Nors Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos miestas), ji dažnai laikoma Rytų Europos dalimi.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos miestas),
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-012
 - c-014
   santrauka: 'O turima galvoje: žemės ūkio pažanga, lėktuvų projektavimas ir gamyba Kaune ir krepšininkų vyrų dukart – 1937 ir 1939 m. – iškovoti Europos čempionų titulai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    O turima
     galvoje: žemės ūkio pažanga, lėktuvų projektavimas ir gamyba Kaune ir
+    krepšininkų vyrų dukart – 1937 ir 1939 m. – iškovoti Europos čempionų
+    titulai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -326,7 +317,9 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   santrauka: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
     visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
+    Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -341,5 +334,3 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Nemunas]]
 - [[objektai/daiktai/ANBO lėktuvai]]
-- [[objektai/grupes/Hanza]]
-- [[objektai/vietos/Rytų Europa]]

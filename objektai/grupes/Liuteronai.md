@@ -29,6 +29,8 @@ Liuteronybė, prasidėjusi 1539 m., – ankstyviausia reformacijos kryptis Lietu
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Liuteronybė, prasidėjusi 1539 m., – ankstyviausia reformacijos kryptis
+    Lietuvoje, vėliau ji vis labiau sutapo su vokiečiais, todėl liuteronų ben-
+    druomenės buvo pradėtos vadinti „vokiečių bendruomenėmis“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

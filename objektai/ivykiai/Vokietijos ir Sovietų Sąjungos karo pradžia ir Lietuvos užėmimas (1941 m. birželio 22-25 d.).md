@@ -41,6 +41,8 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1941 m. birželio 22 d. prasidėjus Vokietijos ir Sovietų Sąjungos karui,
+    Lietuvą vokiečiai užėmė per tris dienas, todėl sovietai tik kai kuriuos po-
+    litinius kalinius paskubomis išgabeno iš Lietuvos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

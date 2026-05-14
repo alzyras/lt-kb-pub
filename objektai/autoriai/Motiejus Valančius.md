@@ -64,13 +64,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Vysk. Motiejus Valančius išspausdino 1867—1869 m. knygutes spaudos kovai.'
-  pagrindžia:
-    - c-003
-    - c-008
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-004
   teiginys: 'Vysk. Motiejus Valančius parašė ir kitas žinomas knygas bei knygeles.'
   pagrindžia:
@@ -93,12 +86,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   teiginys: 'Valančius vyskupavo 1850—1875 m., o jo raginama kunigija platino blaivybės brolijas.'
   pagrindžia:
     - c-007
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Valančiaus 1867—1869 m. knygutės buvo politinės brošiūros, kuriose pirmą kartą išdėstyta prieš rusų valdžią nukreipta lietuvių politinė programa.'
-  pagrindžia:
-    - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-009
@@ -151,43 +138,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: Valančiaus 1867—1869 m. knygutės turėjo lemiamą reikšmę spaudos kovai ir buvo suprastos kaip politinės brošiūros
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Didžiausią reikšmę kovai dėl spaudos
-    laisvės turėjo šios 1867—1869 m. išspausdintos Valančiaus kny-
-    gutės: „Broliai katalikai", „Grometa apskrita", „Iš tamsybės veda
-    kelias teisybės", „Perspėjimas", „Šnekesys kataliko su nekata-
-    liku" ir „Katalikų Bažnyčios vargai". Nors jos lietė tikybos
-    klausimus, bet iš tikrųjų buvo politinės brošiūros. Jose pirmą
-    kartą buvo surašyta lietuvių politinė programa — priešintis ru-
-    sams, — kurios buvo laikomasi iki pat naujo pasaulinių inteli-
-    gentų sukelto judėjimo, prasidėjusio su „Aušra" (1883 m.).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-    - t-008
-- c-008
-  santrauka: Valančiaus 1867—1869 m. knygutės turėjo didžiausią reikšmę kovai dėl spaudos laisvės
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Didžiausią reikšmę kovai dėl spaudos
-    laisvės turėjo šios 1867—1869 m. išspausdintos Valančiaus kny-
-    gutės: „Broliai katalikai", „Grometa apskrita", „Iš tamsybės veda
-    kelias teisybės", „Perspėjimas", „Šnekesys kataliko su nekata-
-    liku" ir „Katalikų Bažnyčios vargai".
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
 - c-004
   santrauka: Vysk. Motiejus Valančius parašė ir kitas žinomas knygas bei knygeles
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -274,7 +224,10 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   santrauka: 'Daukantas įkalbino savo kraštietį Motiejų Valančių (1801– 1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus Katalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos istoriją lietuviškai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Romantikas S. Daukantas savo
     veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
+    praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
+    europietiškos katalikiškos civilizacijos šalininkas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -286,6 +239,9 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   santrauka: 'Valančius pasirūpino, kad kunigai turėtų pagarbų požiūrį į lietuviškai kalbančią liaudį, gerai išmoktų lietuviškai ir sakytų pamokslus lietuviškai, davė nurodymą kunigams prie bažnyčių steigti lietuviškas mokyklas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    M.  Valančius,
+    remdamasis kituose katalikiškuo-
+    se kraštuose platinamomis blai-
     vybės idėjomis, inicijavo blaivybės sąjūdį.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -298,7 +254,9 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   santrauka: 'Valančius XIX a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tad nebūdamas
     politiku vyskupas M. Valančius XIX a. politiniams procesams Lietuvoje
+    padarė bene didesnę įtaką, nei kas nors kitas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

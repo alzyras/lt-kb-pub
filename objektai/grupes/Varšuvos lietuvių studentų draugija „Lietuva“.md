@@ -27,7 +27,11 @@ tags:
   santrauka: '„Aušros“ idėjas toliau plėtojo 1889 m. pradėtas leisti žurnalas „Varpas“, įsteigtas Varšuvos lietuvių studentų draugijos „Lietuva“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    „Aušros“ idėjas toliau plėto-
     jo 1889 m. pradėtas leisti žurnalas
+    „Varpas“, įsteigtas Varšuvos lie-
+    tuvių studentų draugijos „Lietu-
+    va“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

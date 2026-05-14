@@ -48,7 +48,9 @@ Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.
   santrauka: 'Salaspilis), Chotyne, kuriose lietuviai kovojo petys į petį su rusėnais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    LDK politinės tautos prielaidas kūrė LDK karinės
     pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne,
+    kuriose lietuviai kovojo petys į petį su rusėnais.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -60,7 +62,9 @@ Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.
   santrauka: '1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus
     Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė
+    Rygą ir užvaldė Baltijos pakrantes.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

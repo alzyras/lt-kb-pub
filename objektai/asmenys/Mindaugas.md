@@ -24,10 +24,6 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   teiginys: 'Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'viduryje, jos pirmasis valdovas Mindaugas net.'
-  pagrindžia:
-    - c-002
 - t-003
   teiginys: '1253 VII 6 susikūrusios Lietuvos valstybės valdovas Mindaugas vainikuojasi karaliumi.'
   pagrindžia:
@@ -59,6 +55,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šie argumentai nuginčija paplitusią versiją, bet nepaaiškina, iš kur kilęs
+    Lietuvos vardas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -66,24 +63,13 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'viduryje, jos pirmasis valdovas Mindaugas net.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Valstybė – Lietuvos Didžioji Kunigaikš-
-    tija – buvo sukurta XIII a. viduryje, jos pirmasis valdovas Mindaugas net
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
   santrauka: '1253 VII 6 susikūrusios Lietuvos valstybės valdovas Mindaugas vainikuojasi karaliumi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1253 VII 6 
     susikūrusios Lietuvos valstybės valdovas Mindaugas vainikuojasi
+    karaliumi.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -95,7 +81,13 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   santrauka: 'Su pagonišku veidu Lietuva dar gyvens 400 metų ir po Netimero – minėtus dievus matome ir Mindaugo laikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir iki Ldk Gedimino, kuris bylos gal ne tiek apie pagonišką monoteizmą, kiek apie.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Su pagonišku veidu Lietuva dar
+    gyvens 400 metų ir po Netimero – minėtus dievus matome ir Mindaugo
     laikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir
+    iki Ldk Gedimino, kuris bylos gal ne tiek apie pagonišką monoteizmą,
+    kiek apie vyriausiąjį Dievą – „ir mes turime vieną Dievą…“ Aiškindamas
+    Gedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir
+    išpranašaus Vilniaus įkūrimą ir šlovę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -107,7 +99,9 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   santrauka: '1219 m. Voluinės ir Lietuvos kunigaikščių sutartyje (sudarytoje taip pat ir dėl plėšiamųjų žygių į Lenkiją) būsimasis Lietuvos valstybės kūrėjas Mindaugas paminėtas ketvirtuoju tarp penkių vyresniųjų kunigaikščių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Voluinės ir Lietuvos kunigaikščių sutartyje (sudarytoje taip
     pat ir dėl plėšiamųjų žygių į Lenkiją) būsimasis Lietuvos valstybės kūrėjas
+    Mindaugas paminėtas ketvirtuoju tarp penkių vyresniųjų kunigaikščių.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -119,7 +113,9 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   santrauka: '1219 m. Lietuvoje vyriausiojo kunigaikščio dar nėra, bet 1245–1246 m. vokiečių kronikininkas Mindaugą pavadina „aukščiausiuoju karaliumi“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Gal tai rodytų, kad Mindaugas jau yra pajun-
     gęs savo valdžiai kitus kunigaikščius? Tačiau jei yra Mindaugo Lietuva, tai
+    gal būta ir, tarkim, „Živinbudo“ ar „Dausprungo“ Lietuvos?
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -131,7 +127,9 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   santrauka: 'Tačiau Mindaugui dar reikėjo įtvirtinti valdžią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diploma-
     tija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę
+    Livonijos ordino magistrą Andrių Štirlandą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -143,7 +141,10 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   santrauka: '1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Mindaugo vainikavimo
+    dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pir-
     mas ir vienintelis vainikuotas Lietuvos karalius. Mindaugo vainikavimas
+    Mindaugo karūnacija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

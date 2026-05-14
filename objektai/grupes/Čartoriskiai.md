@@ -100,7 +100,9 @@ Tiesa, pirmosios Čartoriskių reformos buvo tuojau apgriautos. Šitokioje būkl
   santrauka: 'Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vėliau
     iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų
+    LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

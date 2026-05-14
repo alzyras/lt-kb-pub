@@ -44,7 +44,9 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   santrauka: 'Iki šiol labiausiai paplitusi versija buvo Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį netoli Kernavės, vardo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Iki šiol labiausiai paplitusi versija buvo
     Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį ne-
+    toli Kernavės, vardo.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -27,6 +27,7 @@ Lenkų įtaka ribota, nes valdžia siekė juos lituanizuoti, laikydama esant nut
   santrauka: 'Lenkų įtaka ribota, nes valdžia siekė juos lituanizuoti, laikydama esant nutautėjusiais lietuviais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Prezidentas A. Smetona manė, kad
     jeigu lietuvis kažkada virto lenku, tai kodėl jis negali vėl atvirsti lietuviu?
   citata_rodoma: ''
   teiginio_tipas: faktas

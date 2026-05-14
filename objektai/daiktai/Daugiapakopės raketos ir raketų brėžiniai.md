@@ -47,7 +47,11 @@ Nenurodyta
   santrauka: 'Žymiausio LDK karo inžinieriaus, daugiapakopių raketų teorijos kūrėjo K.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Iš šių
+    ir kitų Vakarų bei Vidurio Europos katalikiškųjų universitetų atvykę pro-
     Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
+    teorijos  kūrėjo K. Semenavičiaus veikalo
+    „Artis magnae artilleriae“  frontispisas, 1650 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -59,6 +63,7 @@ Nenurodyta
   santrauka: 'Semenavičiaus raketų brėžiniai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nuo XIV a. ryčiausias Europoje du amžius
     K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
   citata_rodoma: ''
   teiginio_tipas: faktas

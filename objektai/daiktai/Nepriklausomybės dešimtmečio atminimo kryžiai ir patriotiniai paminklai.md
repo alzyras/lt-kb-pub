@@ -42,7 +42,9 @@ Nenurodyta
   santrauka: 'Minint pirmąjį nepriklausomybės dešimtmetį pastatyta atminimo kryžių, patriotinių paminklų, primenančių nepriklausomybės kovas, imta rūpintis žuvusių už Lietuvos laisvę karių kapais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Minint pirmąjį nepriklausomybės dešimtmetį pastatyta atmi-
     nimo kryžių, patriotinių paminklų, primenančių nepriklausomybės kovas,
+    imta rūpintis žuvusių už Lietuvos laisvę karių kapais.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

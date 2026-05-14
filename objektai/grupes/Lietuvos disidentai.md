@@ -40,7 +40,11 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
   santrauka: 'Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruoti visuotinai pripažintų žmogaus teisių ir laisvių, laikytis JT Generalinės Asamblėjos 1948 m. patvirtintos Visuotinės žmogaus teisių deklaracijos, nes SSRS faktiškai jos nepaisė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Disidentinis judėjimas sten-
+    gėsi priversti okupacinę valdžią bent neignoruoti visuotinai pripažintų
+    žmogaus teisių ir laisvių, laikytis JT Generalinės Asamblėjos 1948 m.
     patvirtintos Visuotinės žmogaus teisių deklaracijos, nes SSRS faktiškai
+    jos nepaisė.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -52,6 +56,7 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
   santrauka: 'Lietuvos disidentų siekis buvo tautos savasties išsaugojimas, priešiškų jėgų veiklos dalinis neutralizavimas, žmogaus teisių gynimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos disidentų siekis buvo tautos savasties išsaugojimas,
     priešiškų jėgų veiklos dalinis neutralizavimas, žmogaus teisių gynimas.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -64,7 +69,10 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
   santrauka: 'Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuviai disidentai Aleksandras Štromas, Tomas Venclova, Pranas Morkus užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti žurnalą „Sintaksis“, teikė informaciją iš.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji
+    lietuviai disidentai Aleksandras Štromas, Tomas Venclova, Pranas Morkus
     užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti
+    žurnalą „Sintaksis“, teikė informaciją iš Lietuvos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -76,6 +84,7 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
   santrauka: 'Skirtingai nei katalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Skirtingai nei
     katalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus.
   citata_rodoma: ''
   teiginio_tipas: faktas

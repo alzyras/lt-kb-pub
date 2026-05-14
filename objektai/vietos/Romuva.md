@@ -31,6 +31,7 @@ tags:
   santrauka: 'Šio proceso ankstyvąja apraiška reikėtų laikyti šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Šio proceso ankstyvąja apraiška reikėtų laikyti
     šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
   citata_rodoma: ''
   teiginio_tipas: faktas

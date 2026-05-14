@@ -27,7 +27,10 @@ Kovo 20 dieną Vokietijai ultimatyviai pareikalavus perduoti jai Klaipėdos.
   santrauka: 'Kovo 20 dieną Vokietijai ultimatyviai pareikalavus perduoti jai Klaipėdos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1939 m.
     pradžioje Vokietijai jau ruošiantis žygiuoti į Klaipėdą, britai ir prancūzai
+    (Klaipėdos konvencijos signatarai) pranešė, jog jie negarantuoja Klaipė-
+    dai status quo, o be pagalbos išlaikyti Klaipėdą Lietuva nebegalėjo.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

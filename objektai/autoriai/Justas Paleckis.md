@@ -33,7 +33,13 @@ Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis l
   santrauka: 'Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis liaudininkas žurnalistas Justas Paleckis, o jo pavaduotoju ir užsienio reikalų ministru – rašytojas Vincas Krėvė-Mickevičius, finansų ministru liko Ernestas Galvanauskas, krašto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Taip birželio 17-ąją at-
+    sirado gudriai sumanyta savotiška pereinamojo laikotarpio marionetinė
+    „Liaudies vyriausybė“, į kurią įėjo žinomi, kritikavę A. Smetonos valdymą
+    inteligentai: ministru pirmininku paskirtas komunistuojantis liaudinin-
+    kas žurnalistas Justas Paleckis, o jo pavaduotoju ir užsienio reikalų minis-
     tru – rašytojas Vincas Krėvė-Mickevičius, finansų ministru liko Ernestas
+    Galvanauskas, krašto apsaugos – gen. Vincas Vitkauskas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

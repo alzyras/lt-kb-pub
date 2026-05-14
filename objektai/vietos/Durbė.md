@@ -29,7 +29,10 @@ tags:
   santrauka: 'Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai, iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų
+    kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai,
     iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su
+    Livonija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

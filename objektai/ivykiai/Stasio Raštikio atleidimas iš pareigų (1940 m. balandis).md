@@ -40,7 +40,11 @@ Nenurodyta
   santrauka: 'Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje įgavo tokį didelį populiarumą, jog prezidentas po ilgoko ambicijų konflikto 1940 m. balandį atleido jį iš pareigų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Krikščionių demokratų pakraipos opozicija atvirai pretendavo daly-
+    vauti valstybės valdyme, jų remiamas ambicingas kariuomenės vadas gen.
     Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje
+    įgavo tokį didelį populiarumą, jog prezidentas po ilgoko ambicijų konf-
+    likto 1940 m. balandį atleido jį iš pareigų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -80,7 +80,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   santrauka: 'Jis buvo sušauktas Vytauto pily, Lucke.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jis buvo sušauktas Vytauto pily, Lucke.
+    1429 m.
+    turėjo įvykti valdovų suvažiavimas rytų Europos politikos klau-
+    simams apsvarstyti. Jis buvo sušauktas Vytauto pily, Lucke.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -139,6 +141,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   santrauka: 'Vakarinė LDK dalis – tarp Vilniaus ir Lucko – tai ne tik LDK vizitinė kortelė, kurioje dėl reprezentacijos bei artumo Krokuvai kurs rezidencijas didikai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vakarinė LDK dalis –
+    tarp Vilniaus ir Lucko – tai ne tik LDK vizitinė kortelė, kurioje dėl re-
     prezentacijos bei artumo Krokuvai kurs rezidencijas didikai.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -151,6 +155,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   santrauka: 'Lucko suvažiavime 1429 m. Lietuva buvo paskelbta suverenia valstybe, ir tik atsitiktinumas sutrukdė jai pasidaryti karalyste.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuva buvo paskelbta suverenia
     valstybe, ir tik atsitiktinumas sutrukdė jai pasidaryti karalyste.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -163,6 +168,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   santrauka: '1393 m. Luckas perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikštiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Luckas
+    perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
     tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
   citata_rodoma: ''
   teiginio_tipas: faktas

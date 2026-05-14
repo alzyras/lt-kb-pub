@@ -34,6 +34,7 @@ tags:
   santrauka: '1219 m. Lietuvoje vyriausiojo kunigaikščio dar nėra, bet 1245–1246 m. vokiečių kronikininkas Mindaugą pavadina „aukščiausiuoju karaliumi“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvoje vyriausiojo kunigaikščio dar nėra, bet 1245–1246 m.
     vokiečių kronikininkas Mindaugą pavadina „aukščiausiuoju karaliumi“.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -46,7 +47,9 @@ tags:
   santrauka: 'Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laiškuose Vakarams rex; Algirdas laiškuose Bizantijos imperijai – bazileus).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Taip juos vadino
     Vokiečių ordinų šaltiniai, skirtingai nei kitų genčių, neturinčių valstybių,
+    vadus ar net rusų žemių kunigaikščius.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

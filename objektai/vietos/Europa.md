@@ -54,7 +54,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   santrauka: 'Siekdama savo švietimo sistemą integruoti į Europą, Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama sukurti bendrą Europos aukštojo mokslo erdvę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Siekdama savo švietimo sistemą integruoti į Europą,
     Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama su-
+    kurti bendrą Europos aukštojo mokslo erdvę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -66,7 +68,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   santrauka: 'Dabartinė Lietuva yra visavertė demokratinė Europos valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios Europos valstybių likimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Dabartinė Lietuva yra visavertė demokratinė Europos
     valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios
+    Europos valstybių likimas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

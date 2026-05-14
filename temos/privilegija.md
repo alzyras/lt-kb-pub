@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 30.
+Objektų skaičius: 29.
 
 ## Kaip naudoti
 
@@ -41,7 +41,6 @@ Objektų skaičius: 30.
 - [[objektai/posakiai/neminem captivabimus nisi jure victum]]
 - [[objektai/posakiai/nihil novi]]
 - [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“]]
-- [[objektai/posakiai/„valstybė valstybėje“]]
 
 ### Vietos
 - [[objektai/vietos/Voluinė]]
@@ -58,7 +57,7 @@ Objektų skaičius: 30.
 ### Žodynas
 - [[objektai/zodynas/daugiakonfesiškumas]]
 - [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas]]
-- [kultūrinė autonomija](../objektai/zodynas/kult%C5%ABrin%C4%97%20autonomija)
+- [[objektai/zodynas/kultūrinė autonomija]]
 - [privilegija lex privata](../objektai/zodynas/privilegija%20lex%20privata)
 - [Tautinės mažumos](../objektai/zodynas/Tautin%C4%97s%20ma%C5%BEumos)
 - [tripartitio christiana luominė visuomenė](../objektai/zodynas/tripartitio%20christiana%20luomin%C4%97%20visuomen%C4%97)

@@ -29,7 +29,10 @@ LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratim
   santrauka: 'LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos nepriklausomybę taikiomis priemonėmis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL),
     kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir
+    politinės sąmonės ugdymas, Lietuvos laisvės klausimo kėlimas tarptauti-
+    niuose forumuose.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -55,6 +55,9 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva krikštijosi katalikišku krikštu, o jos
+    dalis Žemaitija tapo paskutiniu Europoje
+    apsikrikštijimo regionu – šiais įvykiais bai-
+    gė formuotis krikščioniškoji Europa.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -66,7 +69,9 @@ Nenurodyta
   santrauka: '1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kilmingieji bajorai
     krikštytis kviesti į Vilnių su šeimomis ir kiekvienas atskirai pašlakstytas
+    vandeniu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -78,7 +83,10 @@ Nenurodyta
   santrauka: 'Ši privilegija yra svarbiausias krikščionybės įvedimo Lietuvoje aktas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vasario 22-ąją Jogai-
+    la išleido raštą, kuriuo visus lietuvius prisiekė patraukti į savo pusę ar net
     jėga priversti priimti katalikybę. Jogaila, pavertęs Lietuvą krikščioniška
+    šalimi, panaikino pagrindinę politinės izoliacijos priežastį.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -90,7 +98,9 @@ Nenurodyta
   santrauka: 'Ryškiausios permainos po krikšto buvo išorinės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Per
     šias institucijas į Lietuvą sklido naujos idėjos. Pasikeitė mirties samprata
+    ir laidojimo apeigos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

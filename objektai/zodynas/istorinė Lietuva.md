@@ -66,7 +66,9 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
   santrauka: Vartojama istorinės Lietuvos sąvoka.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    šiandien ją vadiname istorine Lietuva.
+    Būtent visa šios valstybės terito-
+    rija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti
+    Lietuva, o šiandien ją vadiname istorine Lietuva.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -77,7 +79,10 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
   santrauka: 'Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyvenama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešingai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į rytus ir apėmė plačias rytų slavų žemes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyve-
+    nama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešin-
     gai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į
+    rytus ir apėmė plačias rytų slavų žemes.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -89,7 +94,10 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
   santrauka: 'LDK bajorai, nesvarbu, kokios etninės kilmės, laikė save lietuviais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    LDK ba-
     jorai, nesvarbu, kokios etninės kilmės, laikė save lietuviais. Net oficialioji
+    valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.), savo ištakomis
+    siekianti dabartinių ukrainiečių ir baltarusių protėvių kalbą, vadinta lie-
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -101,6 +109,8 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
   santrauka: 'Lietuvos vardas įgijo naujų prasmių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Šia samprata rėmėsi naujosios Lietuvos valstybės – Lie-
+    tuvos Respublikos kūrėjai, siekę prie Lietuvos prijungti Mažąją Lietuvą,
     bet atsisakę pretenzijų į nelietuviškai kalbančias istorinės Lietuvos žemes.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -119,6 +129,7 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
 - [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai
+- [[objektai/vietos/Baltarusija]]
 - [[objektai/paprociai/Kandidatas 3 LDK bajorų lietuviška savivardystė ir raštų kalbos vadinimas lietuvių kalba]]
 - [[objektai/paprociai/Kandidatas LDK bajorų lietuviška savivardystė ir raštų kalbos vadinimas lietuvių kalba]]
 - [[objektai/vietos/Mažoji Lietuva]]

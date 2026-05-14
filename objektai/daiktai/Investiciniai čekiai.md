@@ -90,7 +90,10 @@ Nenurodyta
   santrauka: Investiciniai čekiai minimi kaip privataus turto įsigijimo priemonė.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tam reikėjo
+    pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas, pirk-
     tas už investicinius čekius, banko paskolos ar iš užsienio pritrauktos lė-
+    šos.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -102,7 +105,9 @@ Nenurodyta
   santrauka: Čekiai siejami su galimybe įsigyti privatizuojamo valstybės turto.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsi-
     gyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo
+    pasinaudojo ne visi.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -114,7 +119,10 @@ Nenurodyta
   santrauka: Čekius patikėjusiems asmenims trūko teisinių garantijų.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Privatizuojamam turtui įsigyti
+    kūrėsi žemės ūkio akcinės ir investicinės bendrovės, tačiau nenumatyta
     savininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo,
+    nepalikta garantijų investicinius čekius patikėjusiems asmenims.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -126,7 +134,10 @@ Nenurodyta
   santrauka: 'Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsigyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo pasinaudojo ne visi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nemažai čekių supirkėjų, nusipirkę anksčiau buvu-
     sias valstybines įmones, stengėsi jas kuo pelningiau perparduoti. Daugelis
+    gyventojų čekius pardavė ir net nesugebėjo privatizuoti savo gyvenamojo
+    būsto.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -138,7 +149,12 @@ Nenurodyta
   santrauka: 'Privatizuojamam turtui įsigyti kūrėsi žemės ūkio akcinės ir investicinės bendrovės, tačiau nenumatyta savininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo, nepalikta garantijų investicinius čekius patikėjusiems asmenims.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos privatizavimo įstatymuose liko galybė spragų, kurios leido
+    privatizavimą vykdyti nesilaikant viešojo konkurso procedūrų, pusvelčiui
     į privačias rankas perleisti valstybės turtą. Privatizuojamam turtui įsigyti
+    kūrėsi žemės ūkio akcinės ir investicinės bendrovės, tačiau nenumatyta
+    savininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo,
+    nepalikta garantijų investicinius čekius patikėjusiems asmenims.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

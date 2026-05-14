@@ -174,4 +174,5 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Antrasis karas su Maskva (1512–1522 m.)]]
-- [[objektai/vietos/Polockas]]
+- [[objektai/vietos/Minskas]]
+- [[objektai/vietos/Černigovas]]

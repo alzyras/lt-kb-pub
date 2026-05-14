@@ -29,7 +29,9 @@ Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „
   santrauka: 'Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „landsbergininkus“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Padėtis ėmė keistis 1998 m., kai prezidentą A. Brazauską
     vadovo poste pakeitė iš JAV grįžęs gyventi į Lietuvą Valdas Adamkus, ir
+    po 2000 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

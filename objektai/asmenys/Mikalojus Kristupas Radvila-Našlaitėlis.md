@@ -49,7 +49,10 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
   santrauka: Radvila-Našlaitėlis siejamas su kontrreformacijos knygų spausdinimu ir Brastos spaustuvės perkėlimu.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė
+    katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
     dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
+    Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

@@ -32,7 +32,9 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
   santrauka: 'Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų pasaulio ekonomikos standartus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių
     tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų
+    pasaulio ekonomikos standartus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

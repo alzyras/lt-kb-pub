@@ -28,6 +28,10 @@ Smetonos nuostatos – kadangi leidžiame tautinėms mažumoms gimtosios kalbos 
   santrauka: 'Smetonos nuostatos – kadangi leidžiame tautinėms mažumoms gimtosios kalbos teisę, kultūros reikalais bendrauti su savaisiais, tai mažumos „už tai privalo būti mūsų žemės teritoriniai patriotai, mylėti Lietuvą ir gerbti lietuvių tautą“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1923 m. panaikintas žydų ministro be
+    portfelio postas, vėliau laikytasi prezidento A. Smetonos nuostatos – ka-
+    dangi leidžiame tautinėms mažumoms gimtosios kalbos teisę, kultūros
+    reikalais bendrauti su savaisiais, tai mažumos „už tai privalo būti mūsų
     žemės teritoriniai patriotai, mylėti Lietuvą ir gerbti lietuvių tautą“.
   citata_rodoma: ''
   teiginio_tipas: faktas

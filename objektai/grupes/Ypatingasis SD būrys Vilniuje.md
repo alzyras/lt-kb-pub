@@ -27,7 +27,12 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   santrauka: 'Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypatingasis SD būrys Vilniuje (Paneriuose) ir Heinricho Hamano (Heinrich Hamann) „skrajojantis būrys“, kelis kartus per savaitę vykdavęs į provincijos vietoves ir ten šaudęs (jo pagrindą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Daugiausia šaudė
     iš lietuvių sudarytos dvi specialios zonderkomandos – Ypatingasis SD
+    būrys Vilniuje (Paneriuose) ir Heinricho Hamano (Heinrich Hamann)
+    „skrajojantis būrys“, kelis kartus per savaitę vykdavęs į provincijos vieto-
+    ves ir ten šaudęs (jo pagrindą ir sudarė 3-ioji TDA Kauno bataliono kuo-
+    pa).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

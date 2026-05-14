@@ -76,7 +76,10 @@ Vieta siejama su Lietuvos ir Lenkijos konfliktu dėl Vilniaus po Pirmojo pasauli
   santrauka: Citata tiesiogiai sieja Vidurinės Lietuvos suformavimą su Vilniaus kraštu ir 1920 m. konfliktu.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tiesa,
     nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“
+    arba „senalietuviais“, tačiau dauguma jų vis labiau integravosi į lenkų
+    tautą, o Lietuvą laikė Lenkijos dalimi.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -88,7 +91,10 @@ Vieta siejama su Lietuvos ir Lenkijos konfliktu dėl Vilniaus po Pirmojo pasauli
   santrauka: Citata aprašo 1922 m. rinkimus Želigovskio užimtoje Vidurinėje Lietuvoje.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ši trijų dalių Lietuvos sampra-
+    ta, pasitelkiama neva siekiant atkurti LDK tradiciją, buvo tik deklaracija,
     nebeatitinkanti istorinės tikrovės. Iš tikrųjų tai buvo lenkiška Lietuvos
+    samprata: 1922 m.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -100,7 +106,12 @@ Vieta siejama su Lietuvos ir Lenkijos konfliktu dėl Vilniaus po Pirmojo pasauli
   santrauka: Citata datuoja Želigovskio veiksmą ir Vidurinės Lietuvos paskelbimą.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nors 1920 m.
+    spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį
+    susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietu-
+    vos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-
     ligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos
+    (Litwa środkowa) sudarymą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -113,6 +124,7 @@ Vieta siejama su Lietuvos ir Lenkijos konfliktu dėl Vilniaus po Pirmojo pasauli
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo
+    suformuota „Vidurinė Lietuva“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -124,6 +136,8 @@ Vieta siejama su Lietuvos ir Lenkijos konfliktu dėl Vilniaus po Pirmojo pasauli
   santrauka: 'Iš tikrųjų tai buvo lenkiška Lietuvos samprata: 1922 m. Lenkijos valia vykusiuose rinkimuose gen.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lenkijos valia vykusiuose rinkimuose gen. Liucijano
+    Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vi-
     durinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.
   citata_rodoma: ''
   teiginio_tipas: faktas

@@ -33,7 +33,10 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
   santrauka: 'Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „raudonuosius“ (vadovu paskirtas karštas Lietuvos patriotas ir baltarusių tautinio atgimimo šalininkas Konstantinas Kalinauskas), sukilimas ėmė blėsti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lenkijos sukilėlių vyriausybė į Lietu-
     vos sukilimo vadovybę grąžino „raudonuosius“ (vadovu paskirtas karštas
+    Lietuvos patriotas ir baltarusių tautinio atgimimo šalininkas Konstan-
+    tinas Kalinauskas), sukilimas ėmė blėsti.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -45,7 +48,9 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
   santrauka: 'Kalinauskas, abu netrukus buvo viešai pakarti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1863 m. pabaigoje į sukilimo
     slopintojų rankas pakliuvo A. Mackevičius, vėliau K. Kalinauskas, abu
+    netrukus buvo viešai pakarti.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -33,7 +33,10 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
   santrauka: 'Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ekonomikos susovietinimas
+    Unifikuodami visų sovietinių respublikų gyvenimą, sovie-
     tai atkakliai naikino privatinę nuosavybę visose ekonomikos šakose, tad
+    žemės ūkyje turėjo būti steigiami kolektyviniai ūkiai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -45,7 +48,11 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
   santrauka: 'Kolektyvizacija reiškė ir vienkiemių mirtį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Per likusį
+    sovietmetį masiškai naikintos valstiečių vienkiemių sodybos, o jų savi-
+    ninkai versti persikraustyti į kaimo vietovėje kuriamas kolektyvines gy-
     venvietes (jose aplinkiniai vieni apie kitus viską žinojo ir buvo valdžios
+    kontroliuojami) arba keltis į miestelius ir miestus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -41,7 +41,9 @@ Nenurodyta
   santrauka: 'Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (išžudyta apie 230 asmenų) ir prie Rainių (76 asmenys, prieš tai ypač žiauriai nukankinus), mažesnio masto – keliose kitose apskrityse, o iš viso nužudyta apie 700 asmenų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Daug suimtųjų išvaduoti iš kalėjimų
     prasidėjus lietuvių 1941 m. Birželio sukilimui, pačioje Vokietijos ir SSRS
+    karo pradžioje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

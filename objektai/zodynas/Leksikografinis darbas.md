@@ -27,7 +27,10 @@ Pasaulyje unikaliausias leksikografinis darbas užbaigtas tik 2001 m.).
   santrauka: 'Pasaulyje unikaliausias leksikografinis darbas užbaigtas tik 2001 m.).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kazi-
     miero Būgos pradėtas lietuvių kalbos žodyno sudarymas (pirmieji tomai
+    atspausdinti nacių okupacijos metais, tolesni rengti sovietų laikais, nors ir
+    trukdant politrukams.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

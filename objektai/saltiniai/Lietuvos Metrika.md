@@ -56,6 +56,10 @@ Zenono Ivinskio veikale Lietuvos Metrika minima bibliografinėje nuorodoje, kuri
   citata_originali: |
     (^133) **Lietuvos Metrika yra šiuose tomuose : 20 t., 1903 ; 27 t., 1910 ; 30 t.,
     1914 ; 33 t., 1915; žr. Z. Ivinskis :** **_Lietuvos Metrika,_** **LE 16, 135-137 p.**
+    (^134) **V. Y. Antonovič :** **_Monografii po istorii Zapadnoj i Jugo-Zapadnoj
+    Rossii_** **, Kijevas 1885; iš čia liet. vertimas:** **_Vytenis ir Gediminas,_** **1921;
+    žr. LE t. 1, 209 p.**
+    (^135) **V. T. Pašuto :** **_Obrazovanie litovskogo gosudarstva_** **(išl.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -69,7 +73,11 @@ Zenono Ivinskio veikale Lietuvos Metrika minima bibliografinėje nuorodoje, kuri
   santrauka: 'Šia kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Šia
+    kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos
+    tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lie-
     tuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai. Taigi politinis
+    lietuvių elitas – stačiatikiškos kultūros užsakovai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -81,7 +89,13 @@ Zenono Ivinskio veikale Lietuvos Metrika minima bibliografinėje nuorodoje, kuri
   santrauka: 'Kitą lietuvių vaidmens rusėnų visuomenėje aspektą slepia socialinė ekonominė sritis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Atėję iš ryškią individualią alodinę nuosavybės struk-
+    tūrą turinčios visuomenės lietuvių bajorai ir individualiai ūkininkaujan-
     tys valstiečiai skyrėsi nuo rytinių slavų. Pastarųjų erdvėje toliau į rytus
+    (Maskvos valstybėje, vėliau Rusijoje) ryškėjo bendruomeninė žemėvalda,
+    tačiau rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarie-
+    tiška ūkininkavimo ir nuosavybės forma – alodas (individualus valstiečių
+    ūkis).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -93,6 +107,8 @@ Zenono Ivinskio veikale Lietuvos Metrika minima bibliografinėje nuorodoje, kuri
   santrauka: 'Šios knygos įėjo į istoriją Lietuvos Metrikos vardu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    XV–XVI a., intensyvė-
+    jant valstybės vidaus gyvenimui, didėjant administraciniam šalies apara-
     tui, plėtėsi ir didžiojo kunigaikščio raštinė bei jos personalas. Raštininkai
   citata_rodoma: ''
   teiginio_tipas: faktas

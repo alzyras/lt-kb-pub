@@ -24,10 +24,6 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   teiginys: 'Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m. birželio 18 d. „Maršalo Fošo“ liniją, o Antantė vengė pripažinti naujas valstybes, laikydamasi Rusijos nedalomumo principo.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Tačiau lenkų kariškiai neskubėjo perduoti Vilniaus lietuviams ir pirmi į jį įžengė Raudonosios armijos kavalerijos korpusai, o Lietuvos kariuomenė – tik liepos 15-ąją jau padėjus parašus po sutartimi Maskvoje...'
-  pagrindžia:
-    - c-002
 - t-003
   teiginys: 'Pilsudskio sumanymą miestą užėmė ne Lenkijos kariuomenė, o neva nepaklususio Lenkijos valdžiai „maištininko“ L.'
   pagrindžia:
@@ -42,7 +38,10 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   santrauka: 'Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m. birželio 18 d. „Maršalo Fošo“ liniją, o Antantė vengė pripažinti naujas valstybes, laikydamasi Rusijos nedalomumo principo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvai paprašius Antantės demarkuoti lini-
     ją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m. birželio
+    18 d. „Maršalo Fošo“ liniją, o Antantė vengė pripažinti naujas valstybes,
+    laikydamasi Rusijos nedalomumo principo.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -50,23 +49,14 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Tačiau lenkų kariškiai neskubėjo perduoti Vilniaus lietuviams ir pirmi į jį įžengė Raudonosios armijos kavalerijos korpusai, o Lietuvos kariuomenė – tik liepos 15-ąją jau padėjus parašus po sutartimi Maskvoje...'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    lietuviams ir pirmi į jį įžengė Raudonosios armijos kavalerijos korpusai, o
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
   santrauka: 'Pilsudskio sumanymą miestą užėmė ne Lenkijos kariuomenė, o neva nepaklususio Lenkijos valdžiai „maištininko“ L.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Pagal klastingą J. Pilsudskio sumanymą
+    miestą užėmė ne Lenkijos kariuomenė, o neva nepaklususio Lenkijos val-
     džiai „maištininko“ L. Želigovskio vietinių Vilnijos „lietuvių ir baltaru-
+    sių“ daliniai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -78,7 +68,9 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   santrauka: 'Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Persigrupavusi Lietuvos
     kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie
+    Širvintų ir Giedraičių.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

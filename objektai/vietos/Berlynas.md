@@ -35,6 +35,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   santrauka: 'Tokią politiką kritikuojančius atsišaukimų autorius vokiečiai areštuodavo, mokytojus deportuodavo, dėl to lietuviai skundėsi Berlynui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tokią politiką kritikuojančius atsišaukimų autorius vokiečiai
     areštuodavo, mokytojus deportuodavo, dėl to lietuviai skundėsi Berlynui.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -47,7 +48,12 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   santrauka: 'Kovo 23 dieną Berlyne A.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kovo 23 dieną Berlyne A. Smetonos vadovau-
     jama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui
+    Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos
+    kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomy-
+    bę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai…
+    gruodžio 11-osios rezoliucijos pagrindu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -60,6 +66,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1918 m. gruo­džio 21 d. A. Smetona skubiai išvyko į Berlyną,
+    kur pasirašė 100 mln. markių paskolą ginklams įsigyti.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -55,10 +55,6 @@ Abiejų Tautų tarpusavio įžadas buvo 1791 m. spalio 20 d. Lietuvos delegacijo
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'ANKSČIAUSIA KONSTITUCIJA EUROPOJE IR JOS PANAIKINIMAS 85 Apšvieta ateina į LDK 85; Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas 91; Lietuvos Didžiosios Kunigaikštijos sunaikinimas 94.'
-  pagrindžia:
-    - c-002
 - t-005
   teiginys: '1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsireikalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio įžadu.'
   pagrindžia:
@@ -78,15 +74,3 @@ Abiejų Tautų tarpusavio įžadas buvo 1791 m. spalio 20 d. Lietuvos delegacijo
     - t-001
     - t-002
     - t-003
-- c-002
-  santrauka: 'ANKSČIAUSIA KONSTITUCIJA EUROPOJE IR JOS PANAIKINIMAS 85 Apšvieta ateina į LDK 85; Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas 91; Lietuvos Didžiosios Kunigaikštijos sunaikinimas 94.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    tarpusavio įžadas  91;  Lietuvos Didžiosios Kunigaikštijos sunaikinimas  94
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004

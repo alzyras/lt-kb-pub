@@ -58,7 +58,8 @@ Vartojama politinės teisės ir valdovo statuso kontekste.
   santrauka: Abdikacija aiškinama kaip sosto atsisakymas.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-
+    Prie konvencijos buvo
+    pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-
     mo) aktas.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -70,7 +71,11 @@ Vartojama politinės teisės ir valdovo statuso kontekste.
   santrauka: 'Prie konvencijos buvo pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisakymo) aktas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peter-
+    burgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos
     valstybingumo likučius ir nubrėžė tikslias sienas. Prie konvencijos buvo
+    pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-
+    mo) aktas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

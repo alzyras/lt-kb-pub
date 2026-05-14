@@ -29,6 +29,8 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėju-
+    sios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios ki-
+    tas valstybes apie žmogaus teisių pažeidimus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -42,4 +44,5 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
 - [[temos/aktas]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Andrejus Sacharovas]]
 - [[objektai/grupes/Lietuvos Helsinkio grupė]]

@@ -27,7 +27,8 @@ Kopczewski, M.
   santrauka: 'Kopczewski, M.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Grunwald: 550 lat chwały. Oprac. J. S. Kopczewski,
+    Vilnius, 2009; Grunwald: 550 lat chwały. Oprac. J. S. Kopczewski,
+    M.  Siuchniński.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

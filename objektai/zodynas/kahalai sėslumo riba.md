@@ -33,7 +33,9 @@ tags:
   santrauka: 'Žydų bendruomenės (kahalai) taip pat buvo savivaldūs iki 1840 m., kai žydai buvo įtraukti į bendrąjį miestų valdymą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Žydams uždrausta verstis žemės ūkiu, įvesta sėslumo riba, neleidžiama
     keltis į abi Rusijos sostines, bet ši riba netaikyta kvalifikuotas profesijas
+    turintiems ir išsilavinusiems šios tautos atstovams.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -45,7 +47,10 @@ tags:
   santrauka: '1920 m. nacionalinėje demokratiškai išrinktų žydų kahalų (bendruomenių) atstovų konferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo spręsti visus socialinius ir kultūrinius žydų reikalus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1920 m. nacionali-
+    nėje demokratiškai išrinktų žydų kahalų (bendruomenių) atstovų kon-
     ferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo
+    spręsti visus socialinius ir kultūrinius žydų reikalus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

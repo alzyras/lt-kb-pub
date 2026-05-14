@@ -95,6 +95,7 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   santrauka: 'Naugardu, o Lietuvos įtakoje — Tverė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Maža to, Kazimieras net pasidalino su Maskva įtakos sritimis:
     Maskvos įtakoje buvo palikti Pskovas su D. Naugardu, o Lie-
     tuvos įtakoje — Tverė. Riazanei buvo palikta teisė pačiai
     pasirinkti sau globą.
@@ -125,7 +126,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   santrauka: 'Grįžimas namo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas – pajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Grįžimas
     namo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas –
+    pajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -137,7 +140,14 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   santrauka: 'Suvažiavime taip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikščiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Danijos karaliaus ir Bizantijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su
+    Šventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-
+    gmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo
+    skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d. Suvažiavime
     taip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio
+    pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš-
+    čiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-
+    nijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -148,6 +158,5 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Lucko suvažiavimas]]
 - [[objektai/vietos/Pskovas]]
-- [[objektai/posakiai/„niekieno neatsiklausdamas“]]
+- [[objektai/vietos/Tverė]]

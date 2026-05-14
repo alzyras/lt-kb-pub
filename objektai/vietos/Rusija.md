@@ -97,6 +97,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina
+    tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į ry-
+    tus, o rusai į vakarus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -108,6 +110,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   santrauka: 'Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukilimo numalšinimo oficialiai nebebuvo vartojamas – jį pakeitė „Šiaurės Vakarų kraštas“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Rusijai sunaikinus senąją
+    Lietuvos valstybę, Lietuvos vardas po 1831 m. sukilimo numalšinimo ofi-
     cialiai nebebuvo vartojamas – jį pakeitė „Šiaurės Vakarų kraštas“.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -120,7 +124,10 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   santrauka: 'Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo su buvusios LDK arba Abiejų Tautų Respublikos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas
     „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje
+    žydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo
+    su buvusios LDK arba Abiejų Tautų Respublikos rytine riba.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

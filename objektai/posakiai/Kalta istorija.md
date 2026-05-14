@@ -32,7 +32,11 @@ Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atv
   santrauka: 'Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atverianti per daug aštrių prieštaravimų, gal net per daug kritiška kaimynams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tūlas gal pasakys, kad mūsų
+    naratyvas, papasakota istorija, jam pasirodė atverianti per daug aštrių
     prieštaravimų, gal net per daug kritiška kaimynams. Tačiau toks įspūdis
+    gali darytis tik dėl to, kad būta valstybių, kurios (kartais) labai norėjo
+    „priglobti“ Lietuvą kuo ilgesniam laikui arba tiesiog joje dominuoti.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -45,6 +49,7 @@ Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atv
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nes dėl Lietuvos istorijos komplikuotumo tikrai kalti ne Lietuvos
+    istorikai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

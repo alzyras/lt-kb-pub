@@ -27,7 +27,8 @@ Vilnius Jono Kazimiero Vilčinskio leidiniuose: paroda 1999 01 01–1999 04 19.
   santrauka: 'Vilnius Jono Kazimiero Vilčinskio leidiniuose: paroda 1999 01 01–1999 04 19.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    leidiniuose: paroda 1999 01 01–1999 04 19. Vilnius, 2000
+    Vilnius, 2000; Vilnius Jono Kazimiero Vilčinskio
+    leidiniuose: paroda 1999 01 01–1999 04 19. Vilnius, 2000; Žemaičių muziejus Alka.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

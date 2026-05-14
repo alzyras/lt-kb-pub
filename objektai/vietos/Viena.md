@@ -62,6 +62,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
   santrauka: 'Manoma, kad studijų lygis senajame universitete nebuvo menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Manoma, kad studijų lygis senajame universitete nebuvo
     menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose.
   citata_rodoma: ''
   teiginio_tipas: faktas

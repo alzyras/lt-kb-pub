@@ -36,7 +36,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   teiginys: 'Targovicos konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edukacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros Lietuvos ir Lenkijos komisijos.'
   pagrindžia:
     - c-006
-    - c-004
 - t-005
   teiginys: 'Tai buvo vadinamoji Edukacinė Komisija, kuri perėmė kaip tik tuo metu panaikinto jėzuitų ordino mokyklas ir ėmė rūpintis visu švietimu.'
   pagrindžia:
@@ -93,21 +92,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Targovicos konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edukacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros Lietuvos ir Lenkijos komisijos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Targovicos
-    konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edu-
-    kacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros
-    Lietuvos ir Lenkijos komisijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 - c-005
   santrauka: 'Tai buvo vadinamoji Edukacinė Komisija, kuri perėmė kaip tik tuo metu panaikinto jėzuitų ordino mokyklas ir ėmė rūpintis visu švietimu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -159,6 +143,7 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus
+    vyskupas Ignotas Masalskis) įkūrimas 1773 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -170,7 +155,10 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   santrauka: 'Edukacinė komisija sumodernino ir supasaulietino mokymo programą (įvedė privalomą rašymą ir skaičiavimą, bendrojo lavinimo elementus ėmė jungti su praktinių žemės ūkio, amatų įgūdžių ugdymu), įvedė gamtos ir tiksliųjų mokslų disciplinas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Edukacinė komisija sumoder-
+    nino ir supasaulietino mokymo programą (įvedė privalomą rašymą ir skai-
     čiavimą, bendrojo lavinimo elementus ėmė jungti su praktinių žemės ūkio,
+    amatų įgūdžių ugdymu), įvedė gamtos ir tiksliųjų mokslų disciplinas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

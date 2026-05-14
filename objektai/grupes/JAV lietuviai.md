@@ -42,7 +42,12 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   santrauka: 'Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukūrusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas į karą prieš Vokietiją 1917 m. balandį, o.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilva-
+    nijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukū-
+    rusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas
     į karą prieš Vokietiją 1917 m. balandį, o ypač prezidento Vudrau Vilsono
+    (Woodrow Wilson) paskelbti „14 punktų“, davę progą kelti ir Lietuvos
+    klausimą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -54,7 +59,9 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   santrauka: 'Amerikos lietuviai siuntė paramą karo aukoms, paprašė prezidentą V.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Amerikos lietuviai siuntė paramą karo aukoms, paprašė prezi-
     dentą V. Vilsoną 1916 m. lapkričio 1-ąją paskelbti specialia diena Lietuvos
+    karo aukoms, jos metu surinkta 200 tūkst. dolerių.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -67,6 +74,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     lausomybės metais tūkstančiai emigrantų grįžo į Lietuvą, pirko žemę,
+    pradėjo verslus, atidarė pramonės įmones, bankus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -78,7 +86,10 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   santrauka: 'JAV lietuvių siunčiami pinigai sudarė 1/10 Lietuvos valstybės biudžeto, išeivijos politinės srovės finansavo Lietuvos politines partijas, rinko aukas valstybės kūrimo darbams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    JAV lietuvių siun-
+    čiami pinigai sudarė 1/10 Lietuvos valstybės biudžeto, išeivijos politinės
     srovės finansavo Lietuvos politines partijas, rinko aukas valstybės kūrimo
+    darbams.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 159.
+Objektų skaičius: 155.
 
 ## Kaip naudoti
 
@@ -63,7 +63,6 @@ Objektų skaičius: 159.
 - [Javų sėklos, veisliniai gyvuliai ir trąšos](../objektai/daiktai/Jav%C5%B3%20s%C4%97klos%2C%20veisliniai%20gyvuliai%20ir%20tr%C4%85%C5%A1os)
 - [Lagaminai rūkytų dešrų ir kumpių](../objektai/daiktai/Lagaminai%20r%C5%ABkyt%C5%B3%20de%C5%A1r%C5%B3%20ir%20kumpi%C5%B3)
 - [Lenino kampeliai ir sienlaikraščiai](../objektai/daiktai/Lenino%20kampeliai%20ir%20sienlaikra%C5%A1%C4%8Diai)
-- [Lenino paminklas Vilniuje](../objektai/daiktai/Lenino%20paminklas%20Vilniuje)
 - [Lietuvos auksas](../objektai/daiktai/Lietuvos%20auksas)
 - [Lietuvos trispalvė](../objektai/daiktai/Lietuvos%20trispalv%C4%97)
 - [Olimpiniai medaliai](../objektai/daiktai/Olimpiniai%20medaliai)
@@ -102,14 +101,11 @@ Objektų skaičius: 159.
 - [Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika](../objektai/paprociai/Vytauto%20Did%C5%BEiojo%20kulto%20k%C5%ABrimo%20ir%20jubiliejini%C5%B3%20apeig%C5%B3%20praktika)
 - [Žuvusių partizanų kūnų viešas išniekinimas ir slapti užkasimai](../objektai/paprociai/%C5%BDuvusi%C5%B3%20partizan%C5%B3%20k%C5%ABn%C5%B3%20vie%C5%A1as%20i%C5%A1niekinimas%20ir%20slapti%20u%C5%BEkasimai)
 - [Žydų gelbėjimas ir slėpimas rizikuojant gyvybe](../objektai/paprociai/%C5%BDyd%C5%B3%20gelb%C4%97jimas%20ir%20sl%C4%97pimas%20rizikuojant%20gyvybe)
-- [Žydų kultūrinė autonomija, kahalų atstovavimas ir jidiš vartojimas Lietuvos Seime](../objektai/paprociai/%C5%BDyd%C5%B3%20kult%C5%ABrin%C4%97%20autonomija%2C%20kahal%C5%B3%20atstovavimas%20ir%20jidi%C5%A1%20vartojimas%20Lietuvos%20Seime)
 
 ### Posakiai
 - [Daina mums padėjo, padėjo šimtmečiais](../objektai/posakiai/Daina%20mums%20pad%C4%97jo%2C%20pad%C4%97jo%20%C5%A1imtme%C4%8Diais)
 - [Laisvę Lietuvai!](../objektai/posakiai/Laisv%C4%99%20Lietuvai%21)
-- [Lietuva be suvereniteto – Lietuva be ateities.](../objektai/posakiai/Lietuva%20be%20suvereniteto%20%E2%80%93%20Lietuva%20be%20ateities)
 - [Skelbia nepriklausomos Lietuvos valstybės atstatymą su sostine Vilnium](../objektai/posakiai/Skelbia%20nepriklausomos%20Lietuvos%20valstyb%C4%97s%20atstatym%C4%85%20su%20sostine%20Vilnium)
-- [Tas, kuris nori žinoti, kaip kalbėjo mūsų proseneliai](../objektai/posakiai/Tas%2C%20kuris%20nori%20%C5%BEinoti%2C%20kaip%20kalb%C4%97jo%20m%C5%ABs%C5%B3%20proseneliai)
 - [Viešumas, demokratija, suverenumas](../objektai/posakiai/Vie%C5%A1umas%2C%20demokratija%2C%20suverenumas)
 - [Šalin rankas nuo Lietuvos](../objektai/posakiai/%C5%A0alin%20rankas%20nuo%20Lietuvos)
 

@@ -37,7 +37,9 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   santrauka: 'Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritarė lietuvių katalikų seimas Čikagoje (JAV).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Idėja skynėsi kelią ne tik Europo-
     je – rugsėjį Lietuvos autonomijai pritarė lietuvių katalikų seimas Čikagoje
+    (JAV).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -49,7 +51,12 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   santrauka: 'Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukūrusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas į karą prieš Vokietiją 1917 m. balandį, o.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilva-
+    nijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukū-
+    rusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas
     į karą prieš Vokietiją 1917 m. balandį, o ypač prezidento Vudrau Vilsono
+    (Woodrow Wilson) paskelbti „14 punktų“, davę progą kelti ir Lietuvos
+    klausimą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -62,6 +69,10 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria
+    ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Rober-
+    tas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje),
+    o juose vaidina seras John Gielgud (Džonas Gilgudas) ir Charles Bronson
+    (Karolis Bučinskis).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

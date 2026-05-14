@@ -56,6 +56,8 @@ tags:
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos
+    Gardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pra-
+    dėjusiai veikti generalgubernatoriaus institucijai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -67,7 +69,9 @@ tags:
   santrauka: '1819 m. nuo Vilniaus gubernijos atskirtas ir Kuršo (Kurliandijos) gubernijai perduotas siauras Lietuvos pajūrio ruožas – Palangos ir Šventosios apylinkės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1819 m. nuo Vilniaus
     gubernijos atskirtas ir Kuršo (Kurliandijos) gubernijai perduotas siauras
+    Lietuvos pajūrio ruožas – Palangos ir Šventosios apylinkės.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -80,6 +84,8 @@ tags:
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Bemaž visa Vilniaus gubernijos teritorija, suskirstyta į 11 apskričių,
+    istoriniu etnografiniu požiūriu buvo lietuviška, taip pat ir Gardino gu-
+    bernijos šiaurinis pakraštys.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

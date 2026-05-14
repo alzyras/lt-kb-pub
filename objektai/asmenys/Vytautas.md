@@ -292,12 +292,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - c-039
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-035
-  teiginys: '1379 m. Vytautas dalyvavo pasirašant aktą kaip pilnateisis kunigaikštis, o prie dokumento buvo jo antspaudas.'
-  pagrindžia:
-    - c-040
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 - t-036
   teiginys: '1383 m. Tapiau Vytautas buvo pakrikštytas ir gavo Vigando vardą.'
   pagrindžia:
@@ -374,6 +368,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   santrauka: Astravo susitarimu Vytautas atgavo tėvo žemes ir Vilnių.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Astravos**
+        **sutartis (1392 m.)**
     Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila As-
     travos dvare, paliai Lydą. Čia buvo sudaryta sutartis, kuria Jo-
     gaila grąžino Vytautui visas jo tėvo žemes, paliko jam po pirmo-
@@ -525,6 +521,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     Žemaičiai į Lietuvos valstybę labiau buvo įjungti
     Vytauto laikais, nors savo skirtingas privilegijas išlaikė iki pat
     XVI amž.
+    Žemaičius įveikti kryžiuočiams buvo sunku.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -574,7 +571,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 
     (^376) III skyrius: valstybės suklestėjimas
     ir aprūpindamas Medininkų vyskupiją, bet taip pat organizuodamas
-    eilę parapinių bažnyčių Lietuvoje
+    eilę parapinių bažnyčių Lietuvoje.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -620,6 +617,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   citata_originali: |
     Ir Vytautas įgijo didžiojo Lietuvos kuni­
     gaikščio titulą, kai 1392 m. gavo vyriausią Lietuvos miestą Vilnių ;
+    taip ėjo ir toliau.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -913,7 +911,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   santrauka: 'Vytauto aplinkoje greta pagoniškos tradicijos veikė ir krikščionybės idėjos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Vytautui teko gyventi ne vien pagoniško tikėjimo pa­
+    Bet iš ki­
+    tos pusės, Vytautui teko gyventi ne vien pagoniško tikėjimo pa­
     sauliožiūros rate. Kaip Trakuose, taip ir dėdės Algirdo šeimoj
     Vilniuj tekdavo jam susidurti ir su krikščionybės idėjomis,
     nes čia dažnai atvykdavo iš Vakarų ir Rytų Europos įvairūs
@@ -932,6 +931,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   santrauka: 'Vytautas anksti pradėjo karo žygius ir 1376 m. minimas kaip Gardino kunigaikštis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Tokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­
+    re Trakuose, todėl ir jo auklėjime turėjo vyrauti kariški dalykai,
     ir užtat nenuostabu, kad jis labai anksti (1368 m.) pradeda
     dalyvauti įvairiuose karo žygiuose: 1368 ir 1372 metais į Mask­
     vos žemes; 1376 metais, jau kaip Gardino‘kunigaikštis, jis da­
@@ -960,32 +961,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-034
-- c-040
-  santrauka: '1379 m. aktą Vytautas tvirtino kaip pilnateisis kunigaikštis su savo antspaudu.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Būdamas pilnateisis kunigaikštis, šitą aktą pasirašant da­
-    lyvavo ir Vytautas. Pačiame tekste yra pažymėta, kad be ma­
-    gistro ir Jogailos savo antspaudas prie dokumentų prikabino
-    „Kinstutte herczoge czu Tracken und Wytould unsir son“. Iš
-    ```
-    (^1) ) L. E. K. U., III t., 144 nr. (^2) ) Krum., 83 psl.
-
-
-    ```
-    — 9 —
-    ```
-    tikro prie šitos sutarties buvo Vytauto antspauda su jo ženklu
-    ir užrašu „S: DUCJS VITAUTE”, kas reiškia kunigaikščio
-    Vytauto antspaudą
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
-  pagrindžia:
-    - t-035
 - c-041
   santrauka: '1383 m. Tapiau Vytautas buvo pakrikštytas Vigando vardu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1063,7 +1038,11 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   santrauka: 'mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Grindžiama
+    mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
+    valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat
     žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš
+    Lietuvos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1075,6 +1054,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   santrauka: '1392–1430 žymiausio Lietuvos valdovo Vytauto valdymo metai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1392–1430
     žymiausio Lietuvos valdovo Vytauto valdymo metai.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -1087,7 +1067,10 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   santrauka: 'Tik Vytautas taps mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuva liks savarankiška civilizacinė monada, todėl
+    tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš sve-
     tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps
+    mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1108,6 +1091,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[objektai/vietos/Luckas]]
 - [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
 - [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)]]
+- [[objektai/vietos/Gardinas]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/ivykiai/Vytauto mirtis (1430 m. spalio 27 d.)]]

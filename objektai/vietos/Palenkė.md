@@ -60,6 +60,7 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     kaimai su trilaukiais buvo įvesti Lenkijos kaimynijoje — Pa-
     lenkėje. Tuo tarpu visose kitose Lietuvos srityse vyravo kito-
     niškas ūkis. Čia valstiečiai gyveno po vieną ar po kelis; prasi-
+    dirbdavo žemės kur giriose ir sėdavo, kaip įmanydavo.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -72,6 +73,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius,
+    Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-
+    se LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje
+    (Melnikas, gal Brasta) ir net Voluinėje (Luckas).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

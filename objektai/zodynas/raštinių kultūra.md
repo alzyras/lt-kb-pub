@@ -30,7 +30,9 @@ Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštinink
   santrauka: 'Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Šio visuomenės raidos etapo rašto poreikius Vakarų Europoje
     tenkino vienuolijos, tačiau Lietuvoje jų trūko, o rašto poreikis sparčiai
+    didėjo.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

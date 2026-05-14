@@ -38,6 +38,8 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tuo laikotarpiu okupacinė valdžia kovai su partizanais
+    vis dažniau naudojo agentų smogikų (mišrius iš užverbuotų buvusių par-
+    tizanų ir MGB kadrinių karininkų) būrius.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -49,7 +51,10 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
   santrauka: 'MGB-KGB agentai smogikai naudojo rezistencijos atributiką ir uniformas terorui, rezistentams naikinti, kankindavo ginkluoto pasipriešinimo dalyvius, tarp jų moteris, senelius, vaikus, sušaudydavo partizanų ryšininkus, rėmėjus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    MGB-KGB agentai smogikai nau-
     dojo rezistencijos atributiką ir uniformas terorui, rezistentams naikinti,
+    kankindavo ginkluoto pasipriešinimo dalyvius, tarp jų moteris, senelius,
+    vaikus, sušaudydavo partizanų ryšininkus, rėmėjus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,7 +66,12 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
   santrauka: 'Šiame kare, kaip ir kiekviename, neišvengta ir didelių civilių gyventojų aukų; daug tokių aukų būta vietovėse, kur veikė sovietų smogikai, partizanų būriai piktnaudžiavo alkoholiu arba tarp jų pasitaikė žydų žudynėse dalyvavusių asmenų – nors ir nedaug, būta.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Šiame kare, kaip ir kiekviename, neišvengta ir didelių civilių
+    gyventojų aukų; daug tokių aukų būta vietovėse, kur veikė sovietų smogi-
     kai, partizanų būriai piktnaudžiavo alkoholiu arba tarp jų pasitaikė žydų
+    žudynėse dalyvavusių asmenų – nors ir nedaug, būta ir tokių, nes būrių ir
+    apygardų vadai neturėjo galimybių patikrinti savo kovotojų dosjė, be to,
+    neigiamą įtaką darė ir ilgas gyvenimas po žeme, bunkeriuose.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

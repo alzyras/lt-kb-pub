@@ -28,6 +28,7 @@ Stiprėjo Lietuvos žaliųjų judėjimas.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Juozaitis, Vytautas Radžvilas ir kiti sąjūdininkai. Stiprėjo Lietuvos žaliųjų
+    judėjimas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

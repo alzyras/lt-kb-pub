@@ -33,6 +33,8 @@ tags:
   santrauka: '1410 m. liepos 15 d. jungtinė Lenkijos (50 vėliavų) bei Lietuvos (40 vėliavų) ir Vokiečių ordino kariuomenės (51 vėliava) sustojo viena priešais kitą laukuose šalia Žalgirio (Griunfeldo, dar Griunvaldas) kaimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1410 m. liepos 15 d. jungtinė Lenkijos (50 vėliavų) bei Lietuvos (40
+    vėliavų) ir Vokiečių ordino kariuomenės (51 vėliava) sustojo viena prie-
     šais kitą laukuose šalia Žalgirio (Griunfeldo, dar Griunvaldas) kaimo.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -45,7 +47,9 @@ tags:
   santrauka: 'LDK politinės tautos prielaidas kūrė LDK karinės pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    LDK politinės tautos prielaidas kūrė LDK karinės
     pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne,
+    kuriose lietuviai kovojo petys į petį su rusėnais.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -44,7 +44,11 @@ Nenurodyta
   santrauka: 'Lucko suvažiavimas logiškai užbaigė sudėtingą Vytauto politinį kelią, numatytą XIV a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lucko suvažiavimas logiškai užbaigė sudėtingą Vytauto politinį kelią,
+    numatytą XIV a. pabaigoje ir atvedusį į galutinį tikslą: Lietuvos monar-
     chija turėjo įsitvirtinti Europos politinėje sistemoje. Nors Niurnbergo
+    auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai,
+    Lucko suvažiavimas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -56,7 +60,10 @@ Nenurodyta
   santrauka: 'Nors maksimalus planas nebuvo įgyvendintas, svarbiausią tikslą Vytauto politika pasiekė: atsilikusi ir izoliuota Lietuvos valstybė pašalino didžiuosius pavojus, įteisino savo egzistenciją, įžengė į Europą, pritapo prie jos ir joje išsilaikė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nors maksimalus planas nebuvo įgyvendintas, svarbiausią
     tikslą Vytauto politika pasiekė: atsilikusi ir izoliuota Lietuvos valstybė
+    pašalino didžiuosius pavojus, įteisino savo egzistenciją, įžengė į Europą,
+    pritapo prie jos ir joje išsilaikė.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -159,6 +159,8 @@ Tautinis politinis judėjimas, kurį šaltinis apibūdina kaip tautos frontą ir
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nepaisant LLL nuolatinės kovos už Lietuvos laisvę, atgimimo laikotarpiu
+    susikūręs Lietuvos Persitvarkymo Sąjūdis, o ne LLL tapo pagrindine jėga,
+    atkūrusia Lietuvos nepriklausomybę.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -170,7 +172,11 @@ Tautinis politinis judėjimas, kurį šaltinis apibūdina kaip tautos frontą ir
   santrauka: Sąjūdis apibūdinamas kaip tautos frontas ir plačių visuomenės sluoksnių jungėjas.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoks-
     nius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietu-
+    vos visuomenę, kurios priekyje stovėjo mokslo ir kultūros inteligentija,
+    kėlusi tautą visuotiniais, universaliais, pavergtai tautai ypač brangiais lais-
+    vės, demokratijos, nepriklausomybės idealais.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -182,7 +188,9 @@ Tautinis politinis judėjimas, kurį šaltinis apibūdina kaip tautos frontą ir
   santrauka: Nurodoma LPS iniciatyvinės grupės įsteigimo data, vieta ir sudėtis.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvių inteligentų būrys 1988 m. birželio 3 d.
     Vilniuje Lietuvos mokslų akademijos salėje įsteigė Lietuvos Persitvarkymo
+    Sąjūdžio (LPS) iniciatyvinę grupę.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -194,7 +202,12 @@ Tautinis politinis judėjimas, kurį šaltinis apibūdina kaip tautos frontą ir
   santrauka: Apibūdinamas pradinis Sąjūdžio pobūdis, šūkis ir teminiai prioritetai.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Pradiniame etape Sąjūdis iš es-
+    mės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų eta-
     pais siejo tik laisvos Lietuvos siekis. M. Gorbačiovas, rungdamasis su senąja
+    SSKP vadovybe, buvo priverstas remtis reformas palaikančiomis jėgomis,
+    o LPS stengėsi remti Maskvoje pradėtas reformas ir siekė jas įgyvendinti
+    Lietuvoje.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -206,7 +219,10 @@ Tautinis politinis judėjimas, kurį šaltinis apibūdina kaip tautos frontą ir
   santrauka: Paaiškinama LPS iniciatyvinės grupės vadovavimo tvarka.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Steigiant LPS apdairiai sutarta ne-
     rinkti iniciatyvinės grupės vadovo –
+    posėdžiams pirmininkavo kiekvienas
+    narys iš eilės.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -218,7 +234,9 @@ Tautinis politinis judėjimas, kurį šaltinis apibūdina kaip tautos frontą ir
   santrauka: Aprašoma LPS plėtra Kaune ir Klaipėdoje bei masiniai mitingai.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Birželio 10
     dieną LPS iniciatyvinė grupė įsteigta Kaune, liepos 6 – Klaipėdoje. Pirmieji
+    tūkstantiniai mitingai pasisekė: birželio 24 dieną Gedimino (dab.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -230,7 +248,10 @@ Tautinis politinis judėjimas, kurį šaltinis apibūdina kaip tautos frontą ir
   santrauka: Nurodomas 1988 m. spalio pabaigos LPS grupių ir narių skaičius.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1988 m. spalio pabaigoje
+    1 200 Lietuvoje įregistruotų LPS grupių vienijo 300 000 narių, nes Sąjūdis
     buvo atviras visiems Lietuvos žmonėms, o jo akcijose galėjo dalyvauti visi
+    Lietuvos gyventojai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -270,7 +291,12 @@ Tautinis politinis judėjimas, kurį šaltinis apibūdina kaip tautos frontą ir
   santrauka: Aprašoma LPS kandidatų rinkimų sėkmė ir LKP monopolio panaikinimo padariniai.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Jau tų
+    metų kovą vykusius rinkimus į SSRS Aukščiausiąją Tarybą triuškinamai
+    laimėjo LPS kandidatai, o gruodžio 7 dienos konstitucijos pataisomis pa-
+    naikintas LKP valdžios monopolis valstybėje ir visuomenėje ir sudarytos
     sąlygos kurti įvairias politines partijas LPS atvėrė kelią legaliai dalyvauti
+    šalies politiniame gyvenime.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -282,7 +308,14 @@ Tautinis politinis judėjimas, kurį šaltinis apibūdina kaip tautos frontą ir
   santrauka: LPS apibūdinamas kaip 1990 m. rinkimų kampanijos jėga ir parlamentinio nepriklausomybės atkūrimo plano šalininkas.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1990 m. sausį–vasarį per rinkimų į Lietuvos SSR Aukščiausiąją Tarybą
+    kampaniją susidūrė dvi pagrindinės jėgos: Lietuvos Persitvarkymo Sąjū-
+    dis – tautinis judėjimas, ryžtingai ir atvirai skleidžiantis nepriklausomos
+    Lietuvos valstybės atkūrimo idėją, ir savarankiška LKP, paskelbusi popu-
+    liarų, tačiau miglotą ir neapibrėžtą šūkį: „Lietuva be suvereniteto – Lietu-
     va be ateities.“ Iš pirmo žvilgsnio konfrontacijos tarp abiejų politinių jėgų
+    nebuvo – LPS rengėsi Lietuvos nepriklausomybę atkurti parlamentiniu
+    būdu, o savarankiška LKP šiam planui nesipriešino.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -294,6 +327,7 @@ Tautinis politinis judėjimas, kurį šaltinis apibūdina kaip tautos frontą ir
   santrauka: '1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1988 VI 3
     įkuriamas Lietuvos Persitvarkymo Sąjūdis.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -320,7 +354,9 @@ Tautinis politinis judėjimas, kurį šaltinis apibūdina kaip tautos frontą ir
   santrauka: 'Tokie jaunimo muzikos koncertų žygiai per Lietuvą vyko 1987, 1988 ir 1989 m. vasarą – jie buvo skirti LPS idėjoms skleisti ir išlaisvinti režimo įbaugintus žmones.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tokie jaunimo muzikos koncertų žygiai per Lietuvą
     vyko 1987, 1988 ir 1989 m. vasarą – jie buvo skirti LPS idėjoms skleisti ir
+    išlaisvinti režimo įbaugintus žmones.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

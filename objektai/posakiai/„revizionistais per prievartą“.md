@@ -28,7 +28,10 @@ tags:
   santrauka: 'Žinoma, kad lietuviai tapo „revizionistais per prievartą“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ta-
+    čiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti
     Vilnių vedė ją į revizionistinių valstybių draugiją, nors revizijos siekis
+    netgi grėsė nepriklausomybės praradimu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

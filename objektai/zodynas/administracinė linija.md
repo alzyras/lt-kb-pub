@@ -38,6 +38,7 @@ Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     išeities, paprasčiausiai pasakė, jog karo padėties tarp Lietuvos ir Lenkijos
+    nėra.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -50,6 +51,7 @@ Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Keliai tarp Lietuvos ir Lenkijos keliolika metų buvo uždaryti. Giminės
+    iš abiejų pusių susitinka prie administracinės linijos (apie 1937 m.)
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,7 +63,9 @@ Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų
   santrauka: 'Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inicidentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė perėjusį liniją lenkų kareivį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inici-
     dentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė
+    perėjusį liniją lenkų kareivį.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

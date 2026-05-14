@@ -27,7 +27,9 @@ tai neatrodė bloga išeitis – Roma, Madridas ar Lisabona tebespinduliavo kata
   santrauka: 'tai neatrodė bloga išeitis – Roma, Madridas ar Lisabona tebespinduliavo katalikybę ir barokinės architektūros bei dailės šviesą iki pat Meksikos, Paragvajaus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    XVI–XVII a. tai neatrodė bloga išeitis – Roma, Madridas ar Li-
     sabona tebespinduliavo katalikybę ir barokinės architektūros bei dailės
+    šviesą iki pat Meksikos, Paragvajaus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

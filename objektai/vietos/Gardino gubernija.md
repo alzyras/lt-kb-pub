@@ -37,6 +37,8 @@ tags:
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos
+    Gardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pra-
+    dėjusiai veikti generalgubernatoriaus institucijai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -49,6 +51,8 @@ tags:
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Bemaž visa Vilniaus gubernijos teritorija, suskirstyta į 11 apskričių,
+    istoriniu etnografiniu požiūriu buvo lietuviška, taip pat ir Gardino gu-
+    bernijos šiaurinis pakraštys.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -60,7 +64,10 @@ tags:
   santrauka: 'Lietuvos vardas pašalintas iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos vardas pašalintas
+    iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos
     traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės
+    Vakarų kraštu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

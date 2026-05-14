@@ -289,6 +289,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   santrauka: Kryžiuočiai tiesiogiai yra pasienio jėga, siejama su Lietuvos pakraščiu
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Nors teritorijos atžvilgiu ru-
+    siškosios žemės bent 10 kartų buvo didesnės už tikrąją Lietuvą,
     tačiau gyventojų ten buvo vis dėlto ne daugiau, kaip kad tikro-
     joje Lietuvoje. O ir čia jų buvo ne kažin kiek, nes ir Lietuva dau-
     gely vietų buvo apaugusi didžiulėmis, mažai tegyvenamomis gi-
@@ -310,19 +312,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   citata_originali: |
     1525 m. Lietuvos pašonėje priėmė protestantizmą
     kryžiuočių ordino magistras ir daugumas brolių.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-002
-- c-044
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **IV. Kryžiuočių ordino įsikūrimas Pabaltijy.** _M. Oeler,_ Geschichte d.
-    Deutschen Ritter-Ordens (1908); _A. E. Ewald,_ Die Eroberung Preussens
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -516,6 +505,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   santrauka: 1382 m. Jogaila suteikė ordinui dideles nuolaidas Žemaitijoje ir karo politikoje.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Pirmoje sutarty
     Jogaila pasižada su abiem Ordinais ketverius metus laikytis
     taikos, antrojoje žada 4-rių metų bėgy kartu su savo tautiečiais
     apsikrikštyti, trečiąja sutartimi, kuri buvo vokiečių Ordinui pati
@@ -667,7 +657,9 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Vy­
+    Naugardiečiai atsakė,
+    kad jie ir su Maskva, ir su Lietuva, pagaliau, ir su Vokiečiais
+    yra padarę atskiras taikos sutartis, čia nieko nelaimėjęs, Vy­
     tautas stengėsi prieš save atkreiptą ir Maskvos vadovaujamą
     koaliciją nuginkluoti rytų koalicijos planu, nukreiptu prieš kar­
     dininkus ir kryžiuočius.
@@ -701,6 +693,9 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Žodžiu, jis Prūsuose mito Vakarų kultūros vai­
+    siais, ypač materialine kultūra, kurią paskui kėlė savo krašte,
+    statydamas bažnyčias, pilis ir t. t.
     Išmoko čia ir tos suktos, bet realios Ordino politikos, ku­
     rios vėliau pats griebdavos santykiaudamas su kaimynais.
   citata_rodoma: ""
@@ -766,7 +761,10 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   santrauka: 'Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija, o XV–XVI a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos Didžioji Kunigaikštija dėl Vo-
+    kiečių ordino pavojaus pamažu stiprino
     ryšius su Lenkija, o XV–XVI a. perėmė
+    krikščionišką Vakarų kultūrą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -779,6 +777,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žalgirio (Griunvaldo) mūšis. Lenkijos ir Lietuvos jungtinė kariuomenė
+    sutriuškina Vokiečių ordiną, kėlusį grėsmę abiejų valstybių egzis-
+    tencijai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -790,7 +790,10 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   santrauka: 'Tačiau susidarė tik lietuvių ir latvių tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir vėliau įkūrė Prūsijos valstybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    II tūkstantmečio pradžioje pradėjo formuotis prū-
     sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių
+    tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir
+    vėliau įkūrė Prūsijos valstybę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -809,5 +812,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - [[objektai/paprociai/Sezoniniai ordino žygiai į Lietuvą]]
 - [[objektai/grupes/Templininkų ordinas]]
 - [[objektai/asmenys/Ulrichas von Jungingenas]]
+- [[objektai/grupes/Didžiojo Naugardo respublika]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]

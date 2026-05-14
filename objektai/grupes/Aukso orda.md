@@ -27,7 +27,11 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
   santrauka: 'Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mon-
     golų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę. Nors
+    Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algir-
+    das už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk
+    Vytautas nustojo mokėti mongolams duoklę).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

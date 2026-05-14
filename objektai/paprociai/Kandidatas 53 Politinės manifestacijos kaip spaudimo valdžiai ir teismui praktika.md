@@ -49,7 +49,12 @@ Nenurodyta
   santrauka: 'Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos eigą – sumanymas rengti egzekuciją kilo oficialiai sukilimo valdžiai oponavusiame jakobinų klube.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos
+    konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos
+    vyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-
     lio 28 dieną. Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos
+    eigą – sumanymas rengti egzekuciją kilo oficialiai sukilimo valdžiai opo-
+    navusiame jakobinų klube.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,7 +66,9 @@ Nenurodyta
   santrauka: 'Netrukus Varšuvoje ir Vilniuje kilo patriotinių manifestacijų banga, nuslūgusi tik po to, kai vasaros pabaigoje caro valdžia įvedė karo padėtį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Netrukus Varšuvoje ir Vilniuje
     kilo patriotinių manifestacijų banga, nuslūgusi tik po to, kai vasaros pa-
+    baigoje caro valdžia įvedė karo padėtį.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

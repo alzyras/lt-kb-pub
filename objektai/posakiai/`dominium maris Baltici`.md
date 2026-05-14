@@ -28,7 +28,11 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   santrauka: 'Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Baltici).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Apšvieta ateina į LDK
+    Nuolatiniai karai su turkais, ypač Maskvos didžiąja kuni-
+    gaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos
     jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.
+    kariškai sustiprėjusios Švedijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

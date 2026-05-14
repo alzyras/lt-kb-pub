@@ -29,7 +29,9 @@ tags:
   santrauka: '– baltarusiai, rusai ir ukrainiečiai kartu sudėjus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1897 m. surašymo duomenimis, gyventojų skaičius maždaug da-
     bartinės Lietuvos ribose (be Klaipėdos krašto) siekė apie 2,7 mln. Apie
+    1,6 mln.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

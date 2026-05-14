@@ -32,7 +32,11 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
   santrauka: 'Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais paskyrė generalinius tarėjus, o ministerijas 5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 203 pervadino vadybomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Taigi lietuvių administracija prižiūrėta per lie-
+    tuvių generalinius tarėjus, pavaldžius generaliniam tarėjui – juo tapo
     voldemarininkas gen. Petras Kubiliūnas. Keturi tarėjai, atsisakę vykdyti
+    vokiečių nurodymus, 1943 m. suimti ir išvežti į Štuthofo koncentracijos
+    stovyklą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -44,7 +48,9 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
   santrauka: '1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadinamoji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio organizavimo planą, pasisakė už tautinę Lietuvos kariuomenę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadina-
     moji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio
+    organizavimo planą, pasisakė už tautinę Lietuvos kariuomenę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

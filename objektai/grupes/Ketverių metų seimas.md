@@ -88,7 +88,11 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
   santrauka: 'Jos įstatus 1791 m. patvirtino Ketverių metų seimas, parodydamas savo prielankumą tokiam „eksperimentui“, kuriuo buvo bandoma diegti respublikonišką gyvenseną.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ryškiausiu iš jų
+    laikytina P. K. Bžostovskio įkurta Paulavos respublika. Jos įstatus 1791 m.
     patvirtino Ketverių metų seimas, parodydamas savo prielankumą tokiam
+    „eksperimentui“, kuriuo buvo bandoma diegti respublikonišką gyvense-
+    ną.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -100,7 +104,12 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
   santrauka: 'Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Gegužės trečiosios konstitucija ir
+    Abiejų Tautų tarpusavio įžadas
+    Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų
     seimas priėmė Gegužės trečiosios konstituciją. Prieš tai Seimas ėmėsi la-
+    bai svarbių socialinių reformų – pirmą kartą bandyta miestiečių luomui
+    suteikti beveik lygias teises su bajorais ar bent pradėti šį procesą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -112,3 +121,5 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.)]]
+- [[objektai/vietos/Paulava]]
+- [[objektai/asmenys/Povilas Ksaveras Bžostovskis]]

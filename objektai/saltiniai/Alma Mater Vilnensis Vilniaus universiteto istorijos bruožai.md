@@ -27,7 +27,9 @@ Alma Mater Vilnensis: Vilniaus universiteto istorijos bruožai: kolektyvinė mon
   santrauka: 'Alma Mater Vilnensis: Vilniaus universiteto istorijos bruožai: kolektyvinė monografija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vilnius, 2005; Alma Mater
     Vilnensis: Vilniaus universiteto istorijos bruožai: kolektyvinė monografija. Vilnius,
+    2009; Čiurlionis Vilniuje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

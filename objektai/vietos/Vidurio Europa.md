@@ -42,7 +42,11 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
   santrauka: 'Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraščiams – Vidurio Europai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pa-
     kraščiams – Vidurio Europai. Lietuvoje, kaip ir Vidurio Europos šalyse
+    (Lenkijoje, Čekijoje, Vengrijoje), skirtingai nei Rytų Europoje, nuo Vidu-
+    ramžių kūrėsi individualus valstiečių ūkis, o ne bendruomenė, formavo-
+    si bajorų pilietinė visuomenė, o ne rytietiškas centralizmas ar despotija,
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -54,7 +58,10 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
   santrauka: 'Ši, silpnesnių miestų ir silpnesnio raštingumo poreikio (palyginti su protestantizmu) katalikiškoji Vidurio Europa šliejosi prie katalikybę išpažinusios pietinės Vakarų Europos (Italija, Ispanija, Portugalija).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ši, silpnesnių miestų ir silpnesnio raštingumo poreikio
     (palyginti su protestantizmu) katalikiškoji Vidurio Europa šliejosi prie
+    katalikybę išpažinusios pietinės Vakarų Europos (Italija, Ispanija, Portu-
+    galija).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -66,7 +73,9 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
   santrauka: 'Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Eu-
     ropoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus
+    universitetai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -78,7 +87,9 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
   santrauka: 'Reiškinys neturėjo precedento Vidurio Europoje, tai buvo viena iš radikaliausių antrosios XVIII a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Reiškinys neturėjo precedento Vidurio Europoje, tai buvo
     viena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos
+    ir Lietuvos Valstybėje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

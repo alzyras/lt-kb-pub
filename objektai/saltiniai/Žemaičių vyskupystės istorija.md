@@ -65,7 +65,13 @@ tags: []
   santrauka: 'Daukantas įkalbino savo kraštietį Motiejų Valančių (1801– 1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus Katalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos istoriją lietuviškai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Būtent S. Daukantas įkalbino savo kraštietį Motiejų Valančių (1801–
+    1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus
+    Katalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos isto-
     riją lietuviškai. 1848 m. Vilniuje ši knyga, kurios autorius tais pat metais
+    buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu (Vatikano patvir-
+    tintas po metų), išėjo lietuviškai-žemaitiškai nustebindama visus, kad
+    parašyta ne lenkiškai, kaip buvo įprasta.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

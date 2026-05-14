@@ -27,7 +27,9 @@ Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis Peterbur
   santrauka: 'Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių (Kenigsbergą), linija Liepoja–Romnai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis
     Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių
+    (Kenigsbergą), linija Liepoja–Romnai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

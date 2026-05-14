@@ -37,7 +37,10 @@ Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kan
   santrauka: 'Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kanados ir 33 Europos valstybių (tarp jų ir Sovietų Sąjungos) pasirašytas Baigiamasis aktas – jį pasirašiusios valstybės įsipareigojo gerbti žmogaus teises savo viduje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje
+    JAV, Kanados ir 33 Europos valstybių (tarp jų ir Sovietų Sąjungos) pasi-
     rašytas Baigiamasis aktas – jį pasirašiusios valstybės įsipareigojo gerbti
+    žmogaus teises savo viduje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -49,6 +52,7 @@ Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kan
   santrauka: 'Tam padėjo 1975 m. Helsinkio Baigiamasis aktas, kuriuo dalyvės įsipareigojo gerbti žmogaus teises.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Hel-
     sinkio Baigiamasis aktas, kuriuo dalyvės įsipareigojo gerbti žmogaus teises.
   citata_rodoma: ''
   teiginio_tipas: faktas

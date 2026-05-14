@@ -29,7 +29,9 @@ Bizantijos šaltiniai apie jokį lietuvių taikumą neužsimena – atvirkščia
   santrauka: 'Bizantijos šaltiniai apie jokį lietuvių taikumą neužsimena – atvirkščiai, kalba apie „narsią ir karingą tautą“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Bizantijos šaltiniai apie jokį lietuvių taikumą ne-
     užsimena – atvirkščiai, kalba apie „narsią ir karingą tautą“. Net dinastinės
+    vedybos vykdavo tiesioginiu kariniu spaudimu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

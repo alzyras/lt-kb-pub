@@ -29,7 +29,10 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   santrauka: 'Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Poniatovskis rašė Prancūzijos steigiamajam susirinkimui, kad, be Prancūzijos, „yra dar viena tauta Europoje“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ne veltui 1791 m. vasarą Lenkijos ir
     Lietuvos valdovas Stanislovas Augustas Poniatovskis rašė Prancūzijos
+    steigiamajam susirinkimui, kad, be Prancūzijos, „yra dar viena tauta Eu-
+    ropoje“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

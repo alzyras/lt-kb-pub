@@ -34,10 +34,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Jogaila, vesdamas Jadvygą ir tapdamas Lenkų karalium, pasižadėjo patsai krikštytis ir krikštyti Lietuvą.'
-  pagrindžia:
-    - c-001
 - t-002
   teiginys: 'Krikšto apeigos pirmiausia buvo atliktos Vilniuje, o paskui Jogaila važinėdamas krikštijo visas kitas žymesnes Lietuvos vietas.'
   pagrindžia:
@@ -71,23 +67,6 @@ Nenurodyta
     - c-010
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Jogaila, vesdamas Jadvygą ir tapdamas Lenkų karalium, pasižadėjo patsai krikštytis ir krikštyti Lietuvą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jogaila, vesdamas Jadvygą ir tapdamas Lenkų
-    karalium, pasižadėjo patsai krikštytis ir krikštyti Lietuvą. Jis ir
-    kunigaikščiai, jį lydėję į Krokuvą, krikštijosi dar prieš karūna-
-    ciją. Po karūnacijos Jogaila apvažinėjo Lenkiją ir nuvyko į Lie-
-    tuvą, kur turėjo sutvarkyti krašto valdymo reikalus ir krikštyti
-    šalį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
 - c-002
   santrauka: 'Krikšto apeigos pirmiausia buvo atliktos Vilniuje, o paskui Jogaila važinėdamas krikštijo visas kitas žymesnes Lietuvos vietas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -130,6 +109,8 @@ Nenurodyta
   santrauka: '1385–1387 m. Kriavo aktas ir Lietuvos krikštas įvardijami kaip kertinė Lietuvos istorijos data.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Gana ilgai, iki pat nepriklausomybės dešimtmečių Lietuvoją
+    ir jos kaimynuose, paprastai buvo laikomasi šių kertinių politiškai
     Svarbių Lietuvos istorijos datų : 1) 1219-1236 (lietuvių gyvenamų
     plotų susivienijimas į valstybę), 2) 1385-1387 m. (Kriavo aktas,
     Lietuvos krikštas), 3) 1569-1572 m. (Liublino unija, Gediminaičių
@@ -196,7 +177,9 @@ Nenurodyta
   santrauka: '1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kilmingieji bajorai
     krikštytis kviesti į Vilnių su šeimomis ir kiekvienas atskirai pašlakstytas
+    vandeniu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -208,7 +191,10 @@ Nenurodyta
   santrauka: 'Ši privilegija yra svarbiausias krikščionybės įvedimo Lietuvoje aktas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vasario 22-ąją Jogai-
+    la išleido raštą, kuriuo visus lietuvius prisiekė patraukti į savo pusę ar net
     jėga priversti priimti katalikybę. Jogaila, pavertęs Lietuvą krikščioniška
+    šalimi, panaikino pagrindinę politinės izoliacijos priežastį.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -220,7 +206,9 @@ Nenurodyta
   santrauka: 'Ryškiausios permainos po krikšto buvo išorinės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Per
     šias institucijas į Lietuvą sklido naujos idėjos. Pasikeitė mirties samprata
+    ir laidojimo apeigos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

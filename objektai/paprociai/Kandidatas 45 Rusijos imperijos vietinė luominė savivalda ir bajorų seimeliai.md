@@ -49,7 +49,10 @@ Nenurodyta
   santrauka: 'Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirinkimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba subluomų, savivalda.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tai nesavarankiškos vietinės valdžios šakos, prižiūrimos
     vietos administracijos, atlikusios iš esmės pagalbines funkcijas. Apskrities
+    bajorų susirinkimas rinko kai kuriuos už viešąją tvarką atsakingus parei-
+    gūnus, žemutinės teismų grandies teisėjus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,7 +64,12 @@ Nenurodyta
   santrauka: 'Bajorai turėjo savivaldą gubernijos ir apskrities lygmeniu, vadinamuosius seimelius, kurie vykdė pagalbines valdžios aparato funkcijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Liko ga-
     lioti Lietuvos Statutas, lenkų kalba
+    leista savivaldos institucijose, aps-
+    1794 m. sukilėlis, paskutinio
+    LDK atkūrimo projekto autorius
+    Mykolas Kleopas Oginskis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

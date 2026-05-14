@@ -39,7 +39,10 @@ Nenurodyta
   santrauka: '1990 m. gruodžio 14 d. Baltijos šalių vyriausybių vadovai pirmą kartą kreipėsi į tuometinę Europos ekonominę bendriją (EEB), prašydami Baltijos šalims politinę, ekonominę ir kultūrinę paramą teikti ne per Sovietų Sąjungą, o tiesiogiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1990 m. gruodžio 14 d. Baltijos
+    šalių vyriausybių vadovai pirmą kartą kreipėsi į tuometinę Europos eko-
     nominę bendriją (EEB), prašydami Baltijos šalims politinę, ekonominę
+    ir kultūrinę paramą teikti ne per Sovietų Sąjungą, o tiesiogiai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -27,7 +27,9 @@ Varšuvos nacionalinis muziejus 1999 gruodis – 2000 m. sausis, Lietuvos dailė
   santrauka: 'Varšuvos nacionalinis muziejus 1999 gruodis – 2000 m. sausis, Lietuvos dailės muziejus 2000 m. kovas – rugsėjis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vilnius, 2001; Vilniaus klasicizmas: parodos
     katalogas. Varšuvos nacionalinis muziejus 1999 gruodis – 2000 m. sausis, Lietuvos dailės
+    muziejus 2000 m. kovas – rugsėjis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

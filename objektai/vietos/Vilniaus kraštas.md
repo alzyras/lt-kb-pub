@@ -45,7 +45,8 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
   santrauka: 'Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (netoli Turmanto stoties), buvo nukaišiota gairėmis; tokia pat ji tebėra ir iki šiol.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Ji visa, nuo Šventosios upės (pajūry) iki Lenkų oku-
+    Lietuvos Latvijos siena susidarė 487 klm.
+    ilgumo. Ji visa, nuo Šventosios upės (pajūry) iki Lenkų oku-
     puoto Vilniaus krašto (netoli Turmanto stoties), buvo nukai-
     šiota gairėmis; tokia pat ji tebėra ir iki šiol.
   citata_rodoma: ''
@@ -75,6 +76,7 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo
+    suformuota „Vidurinė Lietuva“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -86,7 +88,9 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
   santrauka: 'Reformos vyko nedidelėje, monoetninėje šalyje – 1923 m. rugsėjo 17 d. pirmojo Lietuvos gyventojų surašymo duomenimis, jų buvo 2 028 971 (be Vilniaus ir Klaipėdos kraštų).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Reformos vyko nedidelėje, monoetninėje šalyje – 1923 m. rugsė-
     jo 17  d. pirmojo Lietuvos gyventojų surašymo duomenimis, jų buvo
+    2 028 971 (be Vilniaus ir Klaipėdos kraštų).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -113,5 +117,5 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
 - [[temos/upė]]
 
 ### Susiję objektai
-- [[objektai/vietos/Turmanto stotis]]
+- [[objektai/daiktai/Gairės]]
 - [[objektai/zodynas/bažnytinė provincija]]

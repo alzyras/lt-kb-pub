@@ -27,7 +27,8 @@ tags:
   santrauka: 'Čiurlionis Vilniuje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Čiurlionis Vilniuje. Sud. S. Urbonas. Vilnius, 2010
+    Vilnius,
+    2009; Čiurlionis Vilniuje. Sud. S. Urbonas. Vilnius, 2010; J. Galkus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

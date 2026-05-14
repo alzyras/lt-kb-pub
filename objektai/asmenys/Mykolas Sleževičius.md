@@ -20,10 +20,6 @@ tags:
 Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,. Sleževičius paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo dvarus, visi, kas sveiki, turi griebtis ginklo“. Sleževičius pabrėžė, kad lietuviai yra arba valstiečiai, arba jų vaikai, kad bus dalijama lenkų dvarininkų, kurių vaikai nuėjo į Lenkijos kariuomenę, žemė, kad jos gaus bežemiai ir mažažemiai – dėl to dauguma gyventojų parėmė vyriausybę.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.'
-  pagrindžia:
-    - c-001
 - t-002
   teiginys: 'Sleževičius paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo dvarus, visi, kas sveiki, turi griebtis ginklo“.'
   pagrindžia:
@@ -46,24 +42,15 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
     - c-006
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nau-
-    joji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
 - c-002
   santrauka: 'Sleževičius paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo dvarus, visi, kas sveiki, turi griebtis ginklo“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kovos su lenkais įgavo ne tik teritorinį, bet ir so-
+    cialinį atspalvį – 1920 m. rugsėjį ministras pirmininkas M. Sleževičius
+    paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų
     legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo
+    dvarus, visi, kas sveiki, turi griebtis ginklo“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -75,7 +62,11 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
   santrauka: 'Sleževičius pabrėžė, kad lietuviai yra arba valstiečiai, arba jų vaikai, kad bus dalijama lenkų dvarininkų, kurių vaikai nuėjo į Lenkijos kariuomenę, žemė, kad jos gaus bežemiai ir mažažemiai – dėl to dauguma gyventojų parėmė vyriausybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuviai atmetė
     bolševikų klasinės diferenciacijos schemą – M. Sleževičius pabrėžė, kad
+    lietuviai yra arba valstiečiai, arba jų vaikai, kad bus dalijama lenkų dva-
+    rininkų, kurių vaikai nuėjo į Lenkijos kariuomenę, žemė, kad jos gaus
+    bežemiai ir mažažemiai – dėl to dauguma gyventojų parėmė vyriausybę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -100,7 +91,9 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
   santrauka: 'Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautininkui A.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Spaudžiant perversmininkams prezidentas K. Grinius, gavęs valstiečių
     liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę
+    ir naują Ministrų kabinetą pavedė sudaryti tautininkui A. Voldemarui.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -112,7 +105,11 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
   santrauka: 'Sleževičiaus šūkio „Kova eina, ji eis iki Seimas bus sušauktas“, artimieji įkalbėjo A.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau opozicijai reikalaujant neatidėliojant sudaryti tautos pasi-
     tikėjimą turinčią vyriausybę, atkurti Seimą, kairei laikantis liaudininko
+    M. Sleževičiaus šūkio „Kova eina, ji eis iki Seimas bus sušauktas“, ar-
+    timieji įkalbėjo A. Smetoną dalį nepasitenkinimo perleisti pavaldžiam
+    Seimui, iškirsti politinę „orlaidę“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

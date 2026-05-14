@@ -34,7 +34,14 @@ Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad re
   santrauka: 'Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad regione reikia veikti jėga, neieškant konsensuso su vietos visuomene.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    LIAUDIS VIRSTA TAUTA
+    N
+    ors Rusijos imperijos vidaus politika nerusiškų im-
+    perijos regionų ir „pakraščių“ atžvilgiu tuomet dar
+    nebuvo beatodairiškai persmelkta rusų nacionalizmo (pastarasis princi-
     pas taps vyraujančiu imperijos vidaus politikos principu Aleksandro III
+    (1881–1894) laikais), abu sukilimai Rusijos aukštuosiuose sluoksniuose
+    sukėlė rusiško nacionalizmo ir polonofobijos bangą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,7 +53,11 @@ Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad re
   santrauka: '„Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nuga-
+    lėjo tie, kurie „pradų“ diegimo praktikos nepatikėjo vietos gyventojams,
     tad lietuvių kalba į švietimo įstaigas neįleista. Diegti „rusų pradus“ turėjo
+    rusai mokytojai, paprastai atvykę iš Rusijos gilumos, pradžioje daugumą
+    jų sudarė rusų stačiatikių dvasinių seminarijų auklėtiniai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -45,6 +45,8 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva po 1795 m. prijungimo prie Rusijos nepriklausomybę atkūrė
+    1918–1919 m. ir sukūrė valstybę, besirėmusią naujais demokratiniais ir
+    nacionaliniais pagrindais – Lietuvos Respubliką.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -56,6 +58,8 @@ Nenurodyta
   santrauka: 'Basanavičiaus vadovaujama Lietuvos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1918 II 16
+    Vokietijos okupacijos sąlygomis J. Basanavičiaus vadovaujama Lietu-
     vos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą.
   citata_rodoma: ''
   teiginio_tipas: faktas

@@ -44,7 +44,10 @@ Nenurodyta
   santrauka: '1931 m. gegužės 2 d. savivaldybės tapo apskričių viršininkų organais – viršininkai pirminin­kaudavo apskričių tarybose, kurios rinkdavo „ypatingus tautos atstovus”, o šie – prezidentą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1931 m. gegužės 2 d. savival-
     dybės tapo apskričių viršininkų organais – viršininkai pirminin­kaudavo
+    apskričių tarybose, kurios rinkdavo „ypatingus tautos atstovus”, o šie –
+    prezidentą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -56,7 +59,13 @@ Nenurodyta
   santrauka: 'Smetona sudarė sau sąlygas vėl būti perrenkamas – ypatingieji tautos atstovai 1931 m. gruodžio 11 d. vienbalsiai išrinko jį Lietuvos prezidentu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Taigi A. Smetona sudarė sau
+    sąlygas vėl būti perrenkamas – ypatingieji tautos atstovai 1931 m. gruo-
     džio 11 d. vienbalsiai išrinko jį Lietuvos prezidentu. Panašiai A. Smetona
+    išrinktas prezidentu ir 1938 m. lapkričio 14 d. Kai Vokietijoje 1933 m.
+    į valdžią atėjo A. Hitleris, o 1934 m. po perversmų įsitvirtino autorita-
+    riniai režimai Estijoje ir Latvijoje, regione A. Smetonos režimas atrodė
+    visai liberalus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

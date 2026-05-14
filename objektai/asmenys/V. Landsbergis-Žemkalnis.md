@@ -43,6 +43,8 @@ Landsbergis-Žemkalnis, 1938. Landsbergis-Žemkalnis.
   santrauka: 'Landsbergis-Žemkalnis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1933 m.
+    liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu
     „Pienocentro“ pastatas Kaune (apie 1938).
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -55,4 +57,3 @@ Landsbergis-Žemkalnis, 1938. Landsbergis-Žemkalnis.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Pramonės ir prekybos rūmai Kaune]]
-- [[objektai/daiktai/„Pienocentro“ pastatas Kaune]]

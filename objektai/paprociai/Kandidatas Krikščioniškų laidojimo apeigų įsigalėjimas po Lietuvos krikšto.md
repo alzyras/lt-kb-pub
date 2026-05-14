@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Ryškiausios permainos po krikšto buvo išorinės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vadinasi, pavaldiniui nurodoma, kokį
     tikėjimą jis turi išpažinti. Taigi feodaliniai santykiai įgijo idėjinį pagrindą,
   citata_rodoma: ''
   teiginio_tipas: faktas

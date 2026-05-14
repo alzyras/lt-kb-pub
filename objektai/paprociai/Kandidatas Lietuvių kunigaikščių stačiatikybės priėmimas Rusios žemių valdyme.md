@@ -53,7 +53,11 @@ Nenurodyta
   santrauka: 'Po Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus Lietuvoje nužudyti dar trys dėl valdžios kovoję kunigaikščiai, vienas išvytas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Taip pradėtas lietuvių kunigaikščių kūrima-
+    sis Rusios žemėse: lietuvių kunigaikštis priima stačiatikių tikėjimą, o žemės
+    (šiuo atveju Naugardukas, kuriame Vaišelgą įkurdino tėvas) jungiamos prie
     Lietuvos valstybės. Antra vertus, Vaišelga vienintelis kunigaikštis, atsisakęs
+    kunigaikštijos ir tapęs vienuoliu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -65,7 +69,10 @@ Nenurodyta
   santrauka: 'Kryžiaus karai prieš Lietuvą iš dalies paaiškina Lietuvos ekspansiją į mongolų nuteriotas Kijevo Rusios žemes ir jų pajungimą – taip buvo kaupiami ištekliai kovai Vakaruose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Jose pa-
+    mažu formavosi atskira nuo Maskvos rusų LDK slavų – rusėnų tauta, iš
     kurios vėliau ir atsiras šiuolaikinės baltarusių ir ukrainiečių tautos. Šiose
+    žemėse lietuviai atrado tai, ko neturėjo: bažnytinę sistemą ir raštiją.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -77,7 +84,11 @@ Nenurodyta
   santrauka: 'Lietuva stačiatikiškos Rusios erdvėse Lietuvos valstybei užėmus senrusių žemes, tų žemių vietininkais tapę lietuvių kunigaikščiai neretai priimdavo stačiatikybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuva stačiatikiškos Rusios erdvėse
+    Lietuvos valstybei užėmus senrusių žemes, tų žemių vieti-
     ninkais tapę lietuvių kunigaikščiai neretai priimdavo stačiatikybę. Vėliau
+    iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų
+    LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

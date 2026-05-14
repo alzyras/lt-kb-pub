@@ -32,6 +32,9 @@ tags:
   santrauka: '1831 m. birželį į Lietuvą strateginiais sumetimais buvo pasiųsta reguliarioji Lenkijos karalystės kariuomenė, apie 12,6 tūkst.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1831 m. birželį į Lietuvą strateginiais sumetimais buvo pasiųsta re-
+    guliarioji Lenkijos karalystės kariuomenė, apie 12,6 tūkst. karių, kuriai
+    vadovavo generolas Antanas Gelgaudas. Ji lengvai užėmė Kauną, bet Vil-
     niaus pulti neskubėjo, nes kūrė Laikinąją Lenkijos vyriausybę Lietuvoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -44,7 +47,9 @@ tags:
   santrauka: 'Vilniaus prieigose lenkų kariuomenė ir sukilėlių daliniai patyrė pralaimėjimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kai kuriems lenkų daliniams pavy-
     ko prasiveržti atgal į Karalystės teritoriją, kitų dalinių likučiai perėjo sieną
+    su Prūsija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

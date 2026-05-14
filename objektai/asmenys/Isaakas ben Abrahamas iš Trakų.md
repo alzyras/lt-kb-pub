@@ -46,6 +46,7 @@ Isaakas ben Abrahamas iš Trakų pristatomas kaip iš LDK karaimų bendruomenės
   santrauka: Isaakas ben Abrahamas iš Trakų siejamas su LDK karaimų bendruomene ir tolerancijos tyrimų lauku.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos
     tyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586).
   citata_rodoma: ''
   teiginio_tipas: faktas

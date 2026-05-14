@@ -43,6 +43,8 @@ Nenurodyta
   santrauka: 'Gediminas stato Vilniaus pilį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Gediminaičių dinastijai pri-
+    klausė žymiausi, labai svarbų istorinį vaidmenį suvaidinę Lietuvos didieji
     Gediminas stato Vilniaus pilį.
   citata_rodoma: ''
   teiginio_tipas: faktas

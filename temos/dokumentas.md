@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 52.
+Objektų skaičius: 51.
 
 ## Kaip naudoti
 
@@ -69,7 +69,6 @@ Objektų skaičius: 52.
 - [LDK pavietų seimelių priesaika Gegužės trečiosios konstitucijai](../objektai/ivykiai/LDK%20paviet%C5%B3%20seimeli%C5%B3%20priesaika%20Gegu%C5%BE%C4%97s%20tre%C4%8Diosios%20konstitucijai)
 - [Lenkų sąmokslas Lietuvoje (P.O.W.) (1919 m. rugpiūčio 28–29 d. naktis)](../objektai/ivykiai/Lenk%C5%B3%20s%C4%85mokslas%20Lietuvoje%20%28P.O.W.%29%20%281919%20m.%20rugpi%C5%AB%C4%8Dio%2028%E2%80%9329%20d.%20naktis%29)
 - [Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo)](../objektai/ivykiai/Lietuvos%20Helsinkio%20grup%C4%97s%20%C4%AFk%C5%ABrimas%20Vilniuje%20%281976%20m.%20ruduo%29)
-- [LLL kreipimasis į JT ir 45 pabaltijiečių memorandumas (1979 m. rugpjūčio 23 d.)](../objektai/ivykiai/LLL%20kreipimasis%20%C4%AF%20JT%20ir%2045%20pabaltijie%C4%8Di%C5%B3%20memorandumas%20%281979%20m.%20rugpj%C5%AB%C4%8Dio%2023%20d.%29)
 - [Partizanų dokumentų nugabenimas į laisvąjį pasaulį (1947 m. pabaiga)](../objektai/ivykiai/Partizan%C5%B3%20dokument%C5%B3%20nugabenimas%20%C4%AF%20laisv%C4%85j%C4%AF%20pasaul%C4%AF%20%281947%20m.%20pabaiga%29)
 - [Steigiamojo Seimo nepriklausomybės proklamavimo dokumento priėmimas](../objektai/ivykiai/Steigiamojo%20Seimo%20nepriklausomyb%C4%97s%20proklamavimo%20dokumento%20pri%C4%97mimas)
 - [Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)](../objektai/ivykiai/Tikin%C4%8Di%C5%B3j%C5%B3%20teisi%C5%B3%20gynimo%20komiteto%20%C4%AFk%C5%ABrimas%20ir%20paskelbimas%20%281978%20m.%20lapkri%C4%8Dio%2013%E2%80%9322%20d.%29)

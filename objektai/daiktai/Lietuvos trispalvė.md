@@ -66,10 +66,6 @@ Nenurodyta
   teiginys: 'Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos masinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių susirinko prie laikinosios sostinės Kauno.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovybė per šį mitingą paskelbė reikalavimus legalizuoti tautinius simbolius: trispalvę ir „Tautišką giesmę“) – apie 100 tūkst.'
-  pagrindžia:
-    - c-003
 - t-004
   teiginys: 'LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsilankymas Lietuvoje rugpjūčio 11–12 dienomis.'
   pagrindžia:
@@ -80,7 +76,10 @@ Nenurodyta
   santrauka: Lietuvos trispalvė naudota masinėje manifestacijoje Kaune.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Laikraščiai rašė, kad to-
+    kių minių Kaunas neregėjo penkis šimtmečius, danguje skraidė lėktuvai,
     tempdami Lietuvos trispalvę, žmonės džiūgavo, prezidentas A. Smetona
+    iš balkono sveikino minias.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -92,7 +91,10 @@ Nenurodyta
   santrauka: 'Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos masinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių susirinko prie laikinosios sostinės Kauno.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos ma-
+    sinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad
     Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių
+    susirinko prie laikinosios sostinės Kauno rotušės.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -100,23 +102,16 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovybė per šį mitingą paskelbė reikalavimus legalizuoti tautinius simbolius: trispalvę ir „Tautišką giesmę“) – apie 100 tūkst.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    tūkstantiniai mitingai pasisekė: birželio 24 dieną Gedimino (dab. Katedros)
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 - c-004
   santrauka: 'LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsilankymas Lietuvoje rugpjūčio 11–12 dienomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    LKP vadovybei Aleksan-
     dras Jakovlevas pabrėžė, kad „inteligentija – liaudies savimonės išraiška“, –
+    partija nebedraudė komunistams dalyvauti LPS rėmimo grupėse, ofici-
+    aliai pripažino trispalvę ir „Tautišką giesmę“, pirmą kartą viešai Vingio
+    parke leido paminėti Molotovo–Ribentropo paktą, pažadėjo LPS teisę
+    leisti laikraštį ir nuolatinę televizijos laidą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

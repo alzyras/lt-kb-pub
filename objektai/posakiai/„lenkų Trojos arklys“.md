@@ -28,6 +28,9 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
   santrauka: 'Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietuvos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų Trojos arklys.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplo-
+    matai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietu-
+    vos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų
     Trojos arklys. Jį atmesti ragino Vokietijos ir Rusijos diplomatai.
   citata_rodoma: ''
   teiginio_tipas: faktas

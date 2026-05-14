@@ -34,7 +34,9 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
   santrauka: 'Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonominio rajono statusą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Rugsėjį Himansas dar pataisė planą lietuvių
     naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonomi-
+    nio rajono statusą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,7 +48,9 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
   santrauka: '1922 m. sausį jie surengė rinkimus Vilniaus krašte – Vidurinėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei karo, nei taikos“ situacijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1922 m. sausį jie surengė rinkimus Vilniaus krašte – Viduri-
     nėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei
+    karo, nei taikos“ situacijoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -73,6 +73,8 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kovos ėjo prie Alytaus, ir kovo mėnesį iš
+    rusų buvo atimtas Jėznas, Butrimonys ir toliau, šiaurėj, Kreke-
+    nava.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -100,6 +102,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   santrauka: Citata rodo Alytų kaip vieną iš bolševikų planuoto persikėlimo per Nemuną taškų.
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Prieš mūšį
     Įgyvendindamos Kauno užėmimo planą
     bolševikų pajėgos ketino veržtis iki
     Nemuno, persikelti per jį Prienuose ir
@@ -163,7 +166,10 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   santrauka: 'Decentralizuotai plėtojant pramonę, geriau panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose nuo 50 iki 70 proc.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Decentralizuotai plėtojant pramonę, geriau
     panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose
+    nuo 50 iki 70 proc. darbininkų buvo to paties miesto ar rajono gyventojai
+    ir tik 3–5 proc.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

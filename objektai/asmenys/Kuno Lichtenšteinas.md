@@ -29,7 +29,9 @@ Prasidėjus mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdi
   santrauka: 'Prasidėjus mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdinių, pleišto, vedamo didžiojo komtūro Kuno Lichtenšteino, sunkiosios raitijos lavina.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Prasidėjus
     mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdinių, pleišto,
+    vedamo didžiojo komtūro Kuno Lichtenšteino, sunkiosios raitijos lavina.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

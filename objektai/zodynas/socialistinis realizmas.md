@@ -27,7 +27,13 @@ Naujomis sąlygomis menininkai vis dažniau atsiribodavo nuo socialistinio reali
   santrauka: 'Naujomis sąlygomis menininkai vis dažniau atsiribodavo nuo socialistinio realizmo, pagal galimybę stengėsi nederinti politikos ir propagandos su menu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kūrybai pasitarnavo vadinamo-
+    ji „brežnevinė epocha“: kuo žmogus buvo žinomesnis, tuo sunkiau jam
+    buvo iškelti baudžiamąją bylą (stalinizmo epochoje buvo „visi lygūs“ –
+    saugumo pareigūnai vienodai galėjo suimti ir profesorių, ir ministrą, ir
     eilinį žmogų). Naujomis sąlygomis menininkai vis dažniau atsiribodavo
+    nuo socialistinio realizmo, pagal galimybę stengėsi nederinti politikos ir
+    propagandos su menu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

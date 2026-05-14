@@ -37,11 +37,6 @@ Priėjimas prie Rygos Dauguvos upe taip pat buvo gana sunkus, — čia irgi truk
   pagrindžia:
     - c-004
 
-- t-008
-  teiginys: 'Gyvasis Baltijos kelias – rankomis susikibusių žmonių grandinė Vilnius–Ryga–Talinas.1989 m. rugpjūčio 23 d. A.'
-  pagrindžia:
-    - c-009
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Ryga buvo išgelbėta, Livonija atvaduota.'
@@ -86,19 +81,6 @@ Priėjimas prie Rygos Dauguvos upe taip pat buvo gana sunkus, — čia irgi truk
   pagrindžia:
     - t-004
 
-- c-009
-  santrauka: 'Gyvasis Baltijos kelias – rankomis susikibusių žmonių grandinė Vilnius–Ryga–Talinas.1989 m. rugpjūčio 23 d. A.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gyvasis Baltijos kelias – rankomis susikibusių žmonių
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
-
 ## Pavadinimai šaltiniuose
 
 - Ryga
@@ -117,5 +99,3 @@ Priėjimas prie Rygos Dauguvos upe taip pat buvo gana sunkus, — čia irgi truk
 - [[objektai/vietos/Latgala]]
 - [[objektai/vietos/Padauguvis]]
 - [[objektai/vietos/Salaspilis]]
-- [[objektai/ivykiai/Baltijos kelias ir Molotovo–Ribentropo pakto padarinių pasmerkimas (1989 m.)]]
-- [[objektai/vietos/Talinas]]

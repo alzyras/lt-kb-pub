@@ -33,7 +33,9 @@ Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kultūro
   santrauka: 'Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kultūros, liuteronai, o ne katalikai, politiškai liko ištikimi Vokietijai, todėl patys sukilti nesiruošė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tik Rytprūsių lietuvių aktyvistai pasisakė už susijun-
     gimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui, tikėdamiesi
+    gauti gerus postus administracijoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -45,7 +47,11 @@ Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kultūro
   santrauka: '1925 m. Klaipėdos krašto gyventojų surašymo duomenys parodė, kad krašte gyvena 141 000 gyventojų, iš jų 64 000 vokiečių, 37 000 lietuvių ir 34 000 „klaipėdiečių“, kurie namuose kalbėjo lietuviškai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Klaipėdos krašto gyventojų surašy-
+    mo duomenys parodė, kad krašte gyvena 141 000 gyventojų, iš jų 64 000
+    vokiečių, 37 000 lietuvių ir 34 000 „klaipėdiečių“, kurie namuose kalbėjo
     lietuviškai. Kadangi Lietuva be vidinių skrupulų laikė „klaipėdiečius“ lie-
+    tuviais, skaičiavo krašte esant 50,8 proc. lietuvių.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

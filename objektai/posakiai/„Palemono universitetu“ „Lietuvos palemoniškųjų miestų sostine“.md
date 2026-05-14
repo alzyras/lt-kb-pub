@@ -28,7 +28,10 @@ Kilmės iš romėnų teorija, susipynusi su lotynų – „romėnų“ kalbos va
   santrauka: 'Kilmės iš romėnų teorija, susipynusi su lotynų – „romėnų“ kalbos vartojimu per visą XVII–XVIII a., buvo tam tikras atsvaros savaiminiam lenkėjimui Pirmoji lietuviška knyga – Martyno Mažvydo „Katekizmas“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kilmės iš
     romėnų teorija, susipynusi su lotynų – „romėnų“ kalbos vartojimu per
+    visą XVII–XVIII a., buvo tam tikras atsvaros savaiminiam lenkėjimui
+    Pirmoji lietuviška knyga – Martyno Mažvydo „Katekizmas“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

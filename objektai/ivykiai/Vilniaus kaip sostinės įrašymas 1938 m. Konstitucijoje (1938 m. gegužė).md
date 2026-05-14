@@ -40,7 +40,10 @@ Nenurodyta
   santrauka: 'Lietuva tai laikė taktiniu atsitraukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad Vilnius yra Lietuvos sostinė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir
     Lietuvos bendradarbiavimas nesusiklostė. Lietuva tai laikė taktiniu atsi-
+    traukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad
+    Vilnius yra Lietuvos sostinė.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -62,6 +62,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   santrauka: 'Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Atsilygindamas už tai,
     Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -121,7 +122,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   santrauka: 'Batorui ateinant į sostą, tarp Lietuvos ir Maskvos tebebuvo neišspręstas ginčas dėl Livonijos (žiūr.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Batorui ateinant į sostą,
+    Stepono Batoro karai su Maskva
+    Santykiai su Maskva iki 1579 m.** Batorui ateinant į sostą,
     tarp Lietuvos ir Maskvos tebebuvo neišspręstas ginčas dėl Li-
     vonijos (žiūr. 217 psl.). 1571 m. tarp jų buvo pasirašytos 3 me-
     tų paliaubos, ir abi pusės žinojo, kad toliau neišvengs karo,
@@ -153,7 +155,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   santrauka: 'Vėliau lietuvių žygiai padažnėjo – kasmet vyko po vieną–du žygius ir ne tik į rusų pusę, bet ir į Lenkiją bei Livoniją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vėliau lietuvių žygiai
     padažnėjo – kasmet vyko po vieną–du žygius ir ne tik į rusų pusę, bet ir
+    į Lenkiją bei Livoniją.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -165,7 +169,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   santrauka: 'Opoziciją pirmiausia sudarė artimiausi giminaičiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną ir Voluinę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Opoziciją pirmiausia sudarė artimiausi giminai-
     čiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną
+    ir Voluinę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -177,7 +183,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   santrauka: 'Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti krikščionio valdovo statusą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su
     krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti
+    krikščionio valdovo statusą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

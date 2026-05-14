@@ -38,6 +38,7 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
   santrauka: 'Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK žemėse caro valdžia griebėsi politikos, kurią pavadino „lenkų pradų naikinimo“ politika.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Todėl naikintos institucijos, kurios skyrė šį kraštą nuo
     likusios Rusijos, vietos administracijoje neleidžiama vartoti lenkų kalbos.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -50,7 +51,10 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
   santrauka: 'Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė, nebuvo tos tautos nariai, tad rusintojai manė laimėti „lenkų pradų naikinimo“ politiką papildę „rusų pradų atkūrimo“ politika.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Juk separatizmas tarpo pirmiausia vietos bajoriškoje
     visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė,
+    nebuvo tos tautos nariai, tad rusintojai manė laimėti „lenkų pradų naiki-
+    nimo“ politiką papildę „rusų pradų atkūrimo“ politika.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -62,7 +66,11 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
   santrauka: '„Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nuga-
+    lėjo tie, kurie „pradų“ diegimo praktikos nepatikėjo vietos gyventojams,
     tad lietuvių kalba į švietimo įstaigas neįleista. Diegti „rusų pradus“ turėjo
+    rusai mokytojai, paprastai atvykę iš Rusijos gilumos, pradžioje daugumą
+    jų sudarė rusų stačiatikių dvasinių seminarijų auklėtiniai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

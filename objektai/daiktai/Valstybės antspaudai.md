@@ -45,7 +45,11 @@ Nenurodyta
   santrauka: 'Šis pareigūnas saugojo valstybės antspaudus, prižiūrėjo, kad didžiojo kunigaikščio kanceliarijoje nebūtų parengtas joks raštas, prieštaraująs valstybės įstatymams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Plečiantis centrinės valdžios funkcijoms, pirmojoje XV  a. pusėje
+    įsteigtos LDK kanclerio (kanceliarijos viršininko) pareigos, jam pavesta
     prižiūrėti Lietuvos Metriką. Šis pareigūnas saugojo valstybės antspaudus,
+    prižiūrėjo, kad didžiojo kunigaikščio kanceliarijoje nebūtų parengtas joks
+    raštas, prieštaraująs valstybės įstatymams.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

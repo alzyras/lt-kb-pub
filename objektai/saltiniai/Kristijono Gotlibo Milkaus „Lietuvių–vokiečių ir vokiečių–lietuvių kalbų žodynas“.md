@@ -28,7 +28,14 @@ tags:
   santrauka: '„Iš tikrųjų jokia kita pasaulio kalba nėra gavusi tiek aukščiausių pagyrimų kaip lietuvių kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    III s k y r i u s
+    Rusijos imperijos
+    valdoma Lietuva
+    (1795–1915)
+    „Iš tikrųjų jokia kita pasaulio kalba nėra gavusi tiek aukščiausių
     pagyrimų kaip lietuvių kalba. Lietuvių tautai priskirta didelė garbė
+    už tai, kad ji sukūrė, išdailino detales ir vartojimą aukščiausiai
+    išvystytos žmonių kalbos su savita gražia ir aiškia fonologija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

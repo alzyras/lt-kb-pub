@@ -24,10 +24,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   teiginys: 'Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuva su Lenkija, kitą — Švedija, trečią — Danija, o ketvirtą buvo užgrobęs caras.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Livonija nuo Maskvos buvo apginta, bet netrukus dėl jos prasidėjo net 60 metų trukę karai su Švedija.'
-  pagrindžia:
-    - c-002
 - t-003
   teiginys: 'Tėvui mirus, 1593 m. jis nuvyko į Švediją ir karūnavosi jos karalium. Išgyvenęs ten metus, jis grįžo į Krokuvą, o savo valdžią Švedijoj paliko dėdei, Sudermanlandijos kunigaikščiui Karoliui.'
   pagrindžia:
@@ -60,21 +56,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Livonija nuo Maskvos buvo apginta, bet netrukus dėl jos prasidėjo net 60 metų trukę karai su Švedija.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Šitomis paliaubomis pasibaigė
-    ilgai traukęsi karai su Maskva dėl Livonijos. Livonija nuo
-    Maskvos buvo apginta, bet netrukus dėl jos prasidėjo net 60
-    metų trukę karai su Švedija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
   santrauka: 'Tėvui mirus, 1593 m. jis nuvyko į Švediją ir karūnavosi jos karalium. Išgyvenęs ten metus, jis grįžo į Krokuvą, o savo valdžią Švedijoj paliko dėdei, Sudermanlandijos kunigaikščiui Karoliui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -94,7 +75,11 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   santrauka: 'Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ truk-
     dė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai
+    (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos in-
+    vazija (1654–1667), o valdant Saksų dinastijai (1697–1763) Lietuva tapo
+    Šiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -106,6 +91,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   santrauka: 'Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Baltici).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Dėl to įsilieps-
     nojo Švedijos ir Lietuvos ir Lenkijos bei Švedijos ir Rusijos karo veiksmai.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -119,6 +105,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiš-
+    kė pretenzijas į Švedijos sostą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -132,6 +119,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - [[temos/upė]]
 
 ### Susiję objektai
-- [[objektai/ivykiai/1582 m. sausio 15 d. 10 metų karo paliaubos su Maskva]]
 - [[objektai/vietos/Danija]]
+- [[objektai/grupes/Vazų dinastija]]
 - [[objektai/grupes/Švedai]]

@@ -43,7 +43,9 @@ Antanas Smetona ir jo aplinka. Eidinto knygos „Antanas Smetona ir jo aplinka�
   santrauka: 'Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    A. Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012)
+    Vilnius: Spaudos
+    departamentas, 1991; A. Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012)
+    ir A. Eidinto, A. Bumblausko asmeninių archyvų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

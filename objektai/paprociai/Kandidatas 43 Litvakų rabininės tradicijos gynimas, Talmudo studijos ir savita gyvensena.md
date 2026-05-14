@@ -49,7 +49,11 @@ Nenurodyta
   santrauka: 'Nors chasidizmas buvo liberalesnė ir demokratiškesnė judaizmo atšaka, atsisakydamas griežtų religijos, dorovės ir apskritai gyvensenos normų, kėlė pavojų pačiam žydiškumui išlaikyti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vil-
+    niaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidus
+    esant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo
     plitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį
+    jo reformavimą skelbiančio chasidizmo ėjo būtent per LDK teritoriją.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,7 +65,10 @@ Nenurodyta
   santrauka: 'Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas
+    ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studi-
     jos jidiš kalba. Jis sukūrė beveik visų to meto žydų mokslo sričių veikalų:
+    nuo Šventojo Rašto komentarų iki hebrajų kalbos gramatikos ir biblinės
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

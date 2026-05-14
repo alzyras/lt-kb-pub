@@ -30,6 +30,7 @@ Savo dalies kariuomenės modernizacijai reikalavo kariškiai – 1935 m. Valstyb
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą –
+    apie 20 proc. biudžeto teko skirti krašto gynybos reikalams.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

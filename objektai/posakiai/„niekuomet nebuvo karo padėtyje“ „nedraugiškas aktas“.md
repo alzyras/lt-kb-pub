@@ -34,7 +34,13 @@ Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebu
   santrauka: 'Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo karo padėtyje“ (tai skambėjo paradoksaliai, nes sutartis vadinosi „Taikos sutartimi“).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Toliau kaudamiesi dėl didesnės teritorijos Rytuose, moty-
+    vuodami jos dydį katalikų tikėjimo paplitimu, etnografiniais ir istoriniais
+    duomenimis, pasitelkę savo delegacijos narių žydų (S. Rozenbaumo) ir
+    baltarusių (D. Semaško) argumentus, lietuviai patenkino dar vieną A.
+    Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo
     karo padėtyje“ (tai skambėjo paradoksaliai, nes sutartis vadinosi „Taikos
+    sutartimi“).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,7 +52,10 @@ Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebu
   santrauka: 'Tačiau sutartis turėjo silpną vietą – prie jos 2 straipsnio sovietai įbruko slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su Lenkija metu nebus traktuojamas kaip sutarties pažeidimas ar „nedraugiškas aktas“ prieš Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau sutartis turėjo silpną vietą – prie jos 2 straipsnio sovietai įbruko
     slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su
+    Lenkija metu nebus traktuojamas kaip sutarties pažeidimas ar „nedrau-
+    giškas aktas“ prieš Lietuvą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

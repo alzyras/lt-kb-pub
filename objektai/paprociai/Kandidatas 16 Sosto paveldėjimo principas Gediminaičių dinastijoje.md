@@ -49,7 +49,11 @@ Nenurodyta
   santrauka: 'Gediminaičių dinastijos iškilimas XIII a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Gediminaičių dinastijos iškilimas
+    XIII a. pabaigoje minimi dar šie Lietuvos didieji kunigaikš-
+    čiai: Butigeidis, po jo – šio brolis Butvydas, dar vėliau – Butvydo sūnus
     Vytenis. Tai buvo naujas reiškinys Lietuvos istorijoje – sostą paveldi tos
+    pačios giminės žmonės  – broliai arba sūnūs.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,7 +65,9 @@ Nenurodyta
   santrauka: 'Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gediminas (valdęs 1316–1341 m.).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tai leido Lietuvai tapti didelių
     politinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe. Jos
+    politika darėsi plataus regiono ar net Europos masto politika.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

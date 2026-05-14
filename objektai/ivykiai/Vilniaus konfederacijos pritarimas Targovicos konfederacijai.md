@@ -41,7 +41,10 @@ Nenurodyta
   santrauka: 'Targovicos konfederacijai 1792 m. birželio 25 d. pritarė Vilniaus (t.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Targovicos konfederacijai 1792  m. birželio 25 d. pritarė Vilniaus (t.  y.
+    Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas
     Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis
+    ir Vilniaus vyskupas I. Masalskis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

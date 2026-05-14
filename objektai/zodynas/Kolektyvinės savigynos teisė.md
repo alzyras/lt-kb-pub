@@ -28,7 +28,10 @@ Juo garantuojama individualios ar kolektyvinės savigynos teisė, įvykus ginklu
   santrauka: 'Juo garantuojama individualios ar kolektyvinės savigynos teisė, įvykus ginkluotam vienos iš Aljanso narių užpuolimui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Juo garantuojama individualios ar kolektyvi-
+    nės savigynos teisė, įvykus ginkluotam vienos iš Aljanso narių užpuo-
     limui. Tai reiškia, kad šalys narės ginkluoto puolimo prieš bet kurią iš
+    jų atveju ateis viena kitai į pagalbą – ir kiekviena atskirai, ir visos kartu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

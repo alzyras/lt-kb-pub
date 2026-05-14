@@ -27,7 +27,9 @@ Kraševskis, 1841–1851 m. Vilniuje leidęs kultūrinio pobūdžio žurnalą �
   santrauka: 'Kraševskis, 1841–1851 m. Vilniuje leidęs kultūrinio pobūdžio žurnalą „Atheneum“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Čia rašė produktyvusis lenkų rašyto-
     jas, Lietuvos (LDK) patriotas J. I. Kraševskis, 1841–1851 m. Vilniuje leidęs
+    kultūrinio pobūdžio žurnalą „Atheneum“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

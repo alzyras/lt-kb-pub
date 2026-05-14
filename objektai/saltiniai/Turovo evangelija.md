@@ -28,7 +28,11 @@ surašytas Ostromiro ir Turovo evangelijas.
   santrauka: 'surašytas Ostromiro ir Turovo evangelijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Savaip rašyti Lietuva nemokėjo, lotyniškas raštas pasiekė vė-
+    liau ir buvo daug brangesnis, o valdiniai turėjo jau XI a. surašytas Ostro-
     miro ir Turovo evangelijas. Todėl su krikščionybe susijusios sąvokos, kaip
+    antai „kreščenije“ (krikštas) ar „božnica“ (bažnyčia), atėjo į lietuvių kalbą
+    ne iš Vakarų, o iš Rusios.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

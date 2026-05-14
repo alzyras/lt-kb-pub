@@ -43,7 +43,9 @@ Nenurodyta
   santrauka: 'Vyko streikai, demonstracijos, mitingai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė de-
     mokratinė revoliucija netruko pasiekti ir Lietuvos miestus. Vyko streikai,
+    demonstracijos, mitingai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

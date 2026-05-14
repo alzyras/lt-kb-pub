@@ -42,7 +42,10 @@ Nenurodyta
   santrauka: '1927 m. rugsėjo 8–9 d. ginkluotos socialdemokratų grupės surengė pučus keliose apskrityse.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1927 m. rugsėjo 8–9 d. ginkluotos socialdemokratų grupės surengė
     pučus keliose apskrityse. Sukilimas kuriam laikui pavyko tik Tauragėje,
+    buvo perimtas vadovavimas miestui, tačiau valdžia jį nuslopino, daugu-
+    mą jo dalyvių suėmė ir nuteisė.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

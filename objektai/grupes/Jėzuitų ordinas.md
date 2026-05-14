@@ -83,7 +83,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   santrauka: 'Vilniaus vyskupas Protasevičius, norėdamas paruošti kunigų iš savo žmonių tarpo ir rūpindamasis kovoti su protestantais, atsikvietė į Vilnių jėzuitų; jie čia įkūrė pirmą aukštesniąją mokyklą Lietuvoje, vadinamą kolegija (žiūr.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vilniaus vyskupas
+    Todėl Vilniaus vyskupas
     Protasevičius, norėdamas paruošti kunigų iš savo žmonių tarpo
     ir rūpindamasis kovoti su protestantais, atsikvietė į Vilnių jė-
     zuitų; jie čia įkūrė pirmą aukštesniąją mokyklą Lietuvoje, vadi-
@@ -137,7 +137,10 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   santrauka: 'Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Radvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į Vilnių ir atidavė besikuriančiam jėzuitų universitetui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė
+    katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
     dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
+    Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -150,6 +153,9 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
+    pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
+    klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
+    tas 1579 m.).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -161,7 +167,9 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   santrauka: 'Epochos pradžią galima sieti ne tik su Liublino unija, bet ir su jėzuitais, kurie atvykę į Lietuvą 1579 m. įkūrė Vilniaus universitetą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kazimiero bažny-
     čia. Baroko menas, jėzuitai ir Vilniaus universitetas – svarbiausi epochos
+    kultūros dėmenys.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -178,3 +186,4 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
 - [[objektai/vietos/Brasta]]
 - [[objektai/paprociai/Jėzuitų viešos religinės kovos praktikos]]
 - [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis]]
+- [[objektai/asmenys/Protasevičius]]

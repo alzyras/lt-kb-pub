@@ -31,6 +31,8 @@ menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
   santrauka: 'menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    **Lietuvių Komitetas,** persikėlęs į Petrapilį (dabartinį Lenin-
+    gradą), organizavo ne tik tremtinių šelpimą, bet ir visos jaunuo-
     menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimna-
     zijose).
   citata_rodoma: ''
@@ -44,7 +46,10 @@ menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
   santrauka: 'Maždaug 300 000 karo pabėgėlių ir darbo migrantų lietuvių buvo išsisklaidę didelėje Rusijos teritorijoje, tačiau Peterburge ir Voroneže susiformavo lietuvių centrai, kuriuose buvo lietuviškų laikraščių redakcijos, gimnazijos, jaunimas ruoštas sugrįžimui į.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Maždaug 300 000 karo pabėgėlių ir darbo migrantų lietuvių buvo išsi-
+    sklaidę didelėje Rusijos teritorijoje, tačiau Peterburge ir Voroneže susi-
     formavo lietuvių centrai, kuriuose buvo lietuviškų laikraščių redakcijos,
+    gimnazijos, jaunimas ruoštas sugrįžimui į Lietuvą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

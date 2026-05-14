@@ -45,7 +45,9 @@ Vien tik vokiečių štabas spausdino lietuvišką laikraštpalaikį „Dabartį
   santrauka: 'Judėjimas tarp apskričių buvo suvaržytas, pašto korespondencija lietuviškai uždrausta, lietuviškai leistas vienintelis cenzūruojamas laikraštis „Dabartis“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Judėjimas tarp apskričių buvo suvaržytas, pašto korespondencija lie-
     tuviškai uždrausta, lietuviškai leistas vienintelis cenzūruojamas laikraštis
+    „Dabartis“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

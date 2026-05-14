@@ -27,7 +27,8 @@ Butrimas ir kiti.
   santrauka: 'Butrimas ir kiti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1009–2009. Sud. A. Butrimas ir kiti. Vilnius, 2009;
+    Chicago, 2010; Lietuva
+    1009–2009. Sud. A. Butrimas ir kiti. Vilnius, 2009; Lietuva žemėlapiuose.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

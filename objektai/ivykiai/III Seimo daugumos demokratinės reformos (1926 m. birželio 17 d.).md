@@ -69,7 +69,10 @@ Nenurodyta
   santrauka: III Seimo daugumos demokratinių reformų turinys.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Birželio 17 d. panaikinta karo padėtis, amnestuo-
+    ti politiniai kaliniai, tarp kurių būta nemažai pogrindinės LKP narių, pa-
     naikinti visi spaudos apribojimai, pirmą kartą šalies istorijoje leista laisvai
+    rengti susirinkimus.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

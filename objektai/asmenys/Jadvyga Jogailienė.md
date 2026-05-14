@@ -47,12 +47,6 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-007
-  teiginys: 'Jadvyga nepalankiai vertino Vytauto rytų politiką ir jo elgesį su Volynija bei Podolija.'
-  pagrindžia:
-    - c-007
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 - t-008
   teiginys: 'Jadvyga mirė likus porai savaičių iki Vorsklos mūšio.'
   pagrindžia:
@@ -130,7 +124,8 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po krikšto įvyko jo jung-
-    tuvės su Jadvyga ir karūnacija Lenkijos karalium
+    tuvės su Jadvyga ir karūnacija Lenkijos karalium (krikštas buvo
+    1386 m. vasario 15, jungtuvės — 18 d., o karūnacija — kovo 4 d.).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -155,40 +150,11 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-006
-- c-007
-  santrauka: 'Jadvyga nepalankiai žiūrėjo į Vytauto rytų politiką.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jadvyga nepalankiai žiūrėjo į Vytauto politiką rytuose ir
-    jo elgesį su Volynija ir Podolija: Jogaila gi prijautė Vytautui,
-
-    (^1) ) Hal., 146, 147.
-    (^2) ) C. ep. V. 31 nr.
-    (^3) ) C. ep. V. 127 nr. „Iž zapisujem i zapisały jesmo kniaziu Fedoru
-    Danyloviču Ostróg kak otec jeho deržal i z sėly i zo vsim što ktomu pryslu-
-    šajet, kak pry otei jeho bylo. Takže što prydaly jesmo kniaziu Fedoru
-    Brodov, a takže Radoselki, Radohošče, Meziryčie, Dyakov, takže Sviščov
-    iz pryšelki Ozierany, Horodnica, Dvastavky“.
-    (^4) ) Hal., 147. (^5) ) T. p., 150.
-
-
-    ```
-    158
-    ```
-    gal iš apsivylimo Lenkija, kur jam teko antraeilis vaidmuo, arba
-    tikėjosi, — kad ateity galinga Lietuva ir jam bus reikalinga
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
-  pagrindžia:
-    - t-007
 - c-008
   santrauka: 'Jadvygos mirtis šiame veikale siejama su laikotarpiu prieš Vorsklos mūšį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Pastarąjį susiartinimą pagreitino labai netikėta
     Jadvygos mirtis, ištikusi pora savaičių prieš Vorsklos mūšį.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -202,7 +168,8 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   santrauka: Jadvyga Jogailienė papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    pasiuntė savo ketu­
+    Ka­
+    ralienė Elžbieta bijodama nustoti Lenkijos, pasiuntė savo ketu­
     riolikos metų dukterį Jadvygą, kuri 1384 m. spalių 13 d. iškilmin­
     gai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota „Lenki­
     jos karalium“.
@@ -217,7 +184,10 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   santrauka: 'Sutarties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų belaisvius ir „prišlieti“ Lietuvą prie Lenkijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Su-
+    tarties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti
     Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų
+    belaisvius ir „prišlieti“ Lietuvą prie Lenkijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -229,7 +199,10 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   santrauka: '1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    ABIEJŲ TAUTŲ RESPUBLIKA
+    Liublino unija
     1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos
+    ir Lenkijos suartėjimas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

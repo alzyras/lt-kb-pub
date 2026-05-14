@@ -45,7 +45,12 @@ Nenurodyta
   santrauka: 'Senosios Rusios žemės savaime prie LDK kaip švelnesnio okupanto nelinko, lietuvių ekspansijoje būta visko: ir tiesioginio nukariavimo, ir įtakos skleidimo kitais būdais, nes istorija nežino „savanoriškų“ pasijungimų prie didvalstybių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuviai veikiausiai buvo tokie pat imperialistai kaip ir kiti, tik, užgro-
+    bę svetimą kraštą, „nespausdavo“, t. y. iš pradžių nekeisdavo susiklosčiu-
     sios tvarkos. Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis:
+    „senovės negriauname, naujovių neįvedame“  – jie palikdavo senąsias
+    kunigaikštijų struktūras (tai vėliau išvirs į sritines privilegijas, šiuolaiki-
+    niais terminais – autonomijas).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

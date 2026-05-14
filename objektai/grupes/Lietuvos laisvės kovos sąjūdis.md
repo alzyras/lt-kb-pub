@@ -107,7 +107,11 @@ Centralizuota ginkluoto ir politinio antisovietinio pasipriešinimo organizacija
   santrauka: Nurodoma LLKS pavadinimo patvirtinimo aplinkybė, funkcija ir vadovybė.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    LLKS Tarybos prezidiumo pirmininku iš-
     rinktas kadrinis kariškis Jonas Žemaitis-Vytautas (1929 m. baigė Kauno
+    karo mokyklą, gavo leitenanto laipsnį, kurį laiką tarnavo 2-ajame artile-
+    rijos pulke, 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje),
+    jam suteiktas aukščiausias – partizanų generolo laipsnis.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -121,7 +125,12 @@ Centralizuota ginkluoto ir politinio antisovietinio pasipriešinimo organizacija
   santrauka: Aprašomi LLKS Vasario 16-osios deklaracijoje numatyti valstybės atkūrimo ir valdžios principai.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Bunkeryje pri-
+    imtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės
+    atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika,
+    suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais,
     demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
+    sudarytą vyriausybę.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

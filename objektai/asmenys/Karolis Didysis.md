@@ -28,7 +28,9 @@ Kurdamas savo imperiją, Karolis norėjo žinoti, kokios tautos gyvena Europos r
   santrauka: 'Turima galvoje Karolio Didžiojo imperija, arba ant Romos imperijos griuvėsių sukurta Europa, siekusi Elbę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Turima galvo-
     je Karolio Didžiojo imperija, arba ant Romos imperijos griuvėsių sukurta
+    Europa, siekusi Elbę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

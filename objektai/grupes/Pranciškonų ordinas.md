@@ -116,7 +116,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   santrauka: Pranciškonai veikė Gedimino dvare ir tvarkė kanceliariją.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Jo paties dvare sukinėjosi ir turėjo įtakos
+    O pats Lietuvos valdovas nebuvo joks
+    krikščionybės priešas. Jo paties dvare sukinėjosi ir turėjo įtakos
     pranciškonai, kurie tvarkė kanceliariją.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -171,7 +172,10 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   santrauka: Pranciškonų ordinas papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Jis, būdamas dar pranciškonų ku­
+    Vilniaus vyskupu paskirtas vysk. Andrius Vosylius Jas­
+    trzębiecas, kuris nuo pirmos Lietuvos krikšto dienos vadova­
+    vo apaštalavimo darbui, nes mokėjo lietuviškai ir lietuviams
+    nebuvo svetimas žmogus. Jis, būdamas dar pranciškonų ku­
     nigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­
     niuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­
     ralienės Elžbietos, Jadvygos motinos.
@@ -187,7 +191,12 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   santrauka: 'Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingoji pranciškonų kankinių istorija, davusi pradžią vienai ilgaamžiškiausių Vilniaus legendų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingo-
+    ji pranciškonų kankinių istorija, davusi pradžią vienai ilgaamžiškiausių
     Vilniaus legendų. Nuo XIV a. žinoma istorija apie dviejų pranciškonų
+    nužudymą Vilniuje Gedimino valdymo pabaigoje, o XVI a. pradžioje jų
+    palaidojimo vietoje statoma koplyčia (prie kurios vėliau įsikurs Bonifra-
+    trų vienuolynas).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

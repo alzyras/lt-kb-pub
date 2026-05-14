@@ -27,7 +27,11 @@ Lietuvos Metrikos rusėnų kalbą pateko ir buvo vartojamos net Ukrainoje lietuv
   santrauka: 'Lietuvos Metrikos rusėnų kalbą pateko ir buvo vartojamos net Ukrainoje lietuviškos tokios to meto ūkio sąvokos: dalgio tipas „litovka“, dailidė („doilida“) ar jauja („jevje“), svirnas („sviren“), kluonas („klunia“), aruodas („orud“), priemenė („primen“).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Dėl šio pažangesnio ūkininkavimo ir nuosavybės santykių būdo
     neatsitiktinai į XV–XVI a. Lietuvos Metrikos rusėnų kalbą pateko ir buvo
+    vartojamos net Ukrainoje lietuviškos tokios to meto ūkio sąvokos: dal-
+    gio tipas „litovka“, dailidė („doilida“) ar jauja („jevje“), svirnas („sviren“),
+    kluonas („klunia“), aruodas („orud“), priemenė („primen“).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

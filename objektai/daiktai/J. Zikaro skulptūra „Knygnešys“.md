@@ -42,7 +42,8 @@ Nenurodyta
   santrauka: 'Knygnešys.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Knygnešys. J. Zikaro skulptūra (1939 m.)
+    Nors valdžia ir žandarai knygnešius gaudė ir baudė dar
+    Knygnešys.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -29,7 +29,9 @@ Lenkijoje tai įvyko tik po Liublino unijos – būtent 1573 m. vadinamojoje Var
   santrauka: 'Lenkijoje tai įvyko tik po Liublino unijos – būtent 1573 m. vadinamojoje Varšuvos konfederacijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Žygimanto Augusto privilegija, sulyginusi visų
     krikščioniškų konfesijų teises, tai tapo ir Antrojo bei Trečiojo Lietuvos
+    Statutų teisine norma.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

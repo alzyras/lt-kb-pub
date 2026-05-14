@@ -27,7 +27,8 @@ Lietuvos bažnyčių menas = The Art of Lithuanian Churches.
   santrauka: 'Lietuvos bažnyčių menas = The Art of Lithuanian Churches.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lietuvos bažnyčių menas = The Art of
+    Vilnius, 1999; Lietuvos bažnyčių menas = The Art of
+    Lithuanian Churches.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -68,7 +68,8 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   santrauka: Tyzenhauzo reformos pateikiamos tarp Apšvietos pradžios reiškinių.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    XVIII a. pabaigoje. Antano Tyzenhauzo reformos (1767 m.), Povilo Ksa-
+    Baroką pamažu keitė klasicizmas, tačiau šis stilius suklestės tik pačioje
+    XVIII a. pabaigoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -81,7 +82,9 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   santrauka: Tyzenhauzo reformų turinys siejamas su žemės ūkiu, mokyklomis ir manufaktūromis.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais suta-
     po Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos
+    ūkį, pradžia.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -95,7 +98,10 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   santrauka: 'Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Antano Tyzenhauzo reformos (1767 m.), Povilo Ksa-
+    vero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino
     panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai
+    kartais laikomi Apšvietos epochos pradžia.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -107,7 +113,13 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   santrauka: 'Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais sutapo Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos ūkį, pradžia.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais suta-
+    po Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos
     ūkį, pradžia. Karališkosiose ekonomijose jis ėmėsi radikalių reformų:
+    steigė palivarkus, vietoje činšo reikalavo dviejų dienų lažo per savaitę,
+    buvo pradėta naujai rūšiuoti žemę, įvertinant jos kokybę, pradėti me-
+    lioruoti laukai, tiesiami keliai, auginamos naujos (olandų) gyvulių veis-
+    lės.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -120,6 +132,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė
+    matininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

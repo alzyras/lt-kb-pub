@@ -27,7 +27,10 @@ Tų metų lapkritį visoje Lietuvoje vykusiuose susirinkimuose, mitinguose reika
   santrauka: 'Tų metų lapkritį visoje Lietuvoje vykusiuose susirinkimuose, mitinguose reikalauta nepritarti SSRS konstitucijos pataisoms, kurios numatė ne plėsti respublikų suverenumą, o stiprinti centralizaciją, prieš tai surinkta 1,8 mln.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tų metų lapkritį visoje Lietuvoje vykusiuose susirin-
     kimuose, mitinguose reikalauta nepritarti SSRS konstitucijos pataisoms,
+    kurios numatė ne plėsti respublikų suverenumą, o stiprinti centralizaci-
+    ją, prieš tai surinkta 1,8 mln. parašų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

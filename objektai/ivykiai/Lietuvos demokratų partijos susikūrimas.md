@@ -41,7 +41,9 @@ Nenurodyta
   santrauka: 'Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi 1902 m. „Varpą“ leidusios organizacijos pagrindu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių
     tautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi
+    1902 m. „Varpą“ leidusios organizacijos pagrindu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

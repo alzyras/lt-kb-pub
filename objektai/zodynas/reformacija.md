@@ -18,10 +18,6 @@ tags:
 schichte der Rerformation in Polen (1911); K. Völker, Der Protestantismus in Polen (1910); A. Dambrauskas, Pradžia ir išsiplėtojimas protest. Lietu.
 
 ## Teiginiai
-- t-001
-  teiginys: 'schichte der Rerformation in Polen (1911); K. Völker, Der Protestantismus in Polen (1910); A. Dambrauskas, Pradžia ir išsiplėtojimas protest. Lietu.'
-  pagrindžia:
-    - c-001
 - t-002
   teiginys: '1517 m. Martyno Liuterio (Martin Luther) pradėta reformacija laikoma viena iš reikšmingiausių Naujųjų amžių apraiškų.'
   pagrindžia:
@@ -36,24 +32,12 @@ schichte der Rerformation in Polen (1911); K. Völker, Der Protestantismus in Po
     - c-004
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'schichte der Rerformation in Polen (1911); K. Völker, Der Protestantismus in Polen (1910); A. Dambrauskas, Pradžia ir išsiplėtojimas protest. Lietu.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    schichte der Rerformation in Polen (1911); K. Völker, Der Protestantismus
-    in Polen (1910); A. Dambrauskas, Pradžia ir išsiplėtojimas protest. Lietu-
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: zemas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
 - c-002
   santrauka: '1517 m. Martyno Liuterio (Martin Luther) pradėta reformacija laikoma viena iš reikšmingiausių Naujųjų amžių apraiškų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     tį – protestantizmą. Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų
+    Europos šalys, o reformacija vėlavo tik 22 metais: 1539 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -65,7 +49,11 @@ schichte der Rerformation in Polen (1911); K. Völker, Der Protestantismus in Po
   santrauka: 'Kulvietis, pasinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės interesų lygį ir taip.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    A. Kulvietis, pa-
+    sinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant
     su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo
+    padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės in-
+    teresų lygį ir taip išugdyti lietuvių inteligentiją.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -78,6 +66,9 @@ schichte der Rerformation in Polen (1911); K. Völker, Der Protestantismus in Po
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą
+    protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti
+    Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pa-
+    čios Katalikų bažnyčios įtaką.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

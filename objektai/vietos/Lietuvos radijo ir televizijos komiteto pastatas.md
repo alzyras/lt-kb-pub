@@ -27,7 +27,10 @@ nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietu
   santrauka: 'nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietuvos radijo ir televizijos komiteto pastatą, kurį tik savo kūnais gynė daugiatūkstantinė taikių Lietuvos gyventojų minia.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Apie
+    12 val. nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei
     Lietuvos radijo ir televizijos komiteto pastatą, kurį tik savo kūnais gynė
+    daugiatūkstantinė taikių Lietuvos gyventojų minia.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -35,3 +38,7 @@ nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Sovietų tankai ir šarvuočiai]]

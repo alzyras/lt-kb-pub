@@ -37,7 +37,9 @@ Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m
   santrauka: 'Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m. buvo tik 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 71 trys stačiatikių vyskupijos, o LDK – šešios, ir visos jos buvo pavaldžios tai pačiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    trys stačiatikių vyskupijos, o LDK – šešios, ir visos jos buvo pavaldžios tai
     pačiai metropolijai Kijeve, o metropolitas reziduodavo ne tik Kijeve, bet ir
+    Naugarduke bei Vilniuje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -49,7 +51,11 @@ Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m
   santrauka: 'Lietuvos katalikai – ir pats Vilniaus vyskupas Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketinimui įkurti kolegiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Aišku, aukštosios mokyklos poreikis brendo visuo-
+    menėje, tokios mokyklos kūrimąsi labai paskatino reformacijos ir kontr-
     reformacijos konkurencija. Lietuvos katalikai – ir pats Vilniaus vyskupas
+    Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketini-
+    mui įkurti kolegiją.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,6 +67,8 @@ Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m
   santrauka: 'Bažnyčios su dviem grakščiais, skirtingai dekoruotų tarpsnių bokštais tapo neatskiriamu katalikiškojo peizažo bruožu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Bažnyčios su dviem grakščiais, skirtingai
+    dekoruotų tarpsnių bokštais tapo neatskiriamu katalikiškojo peizažo bruo-
     žu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą.
   citata_rodoma: ''
   teiginio_tipas: faktas

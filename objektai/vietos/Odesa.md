@@ -27,6 +27,7 @@ Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą, Odesą, bet
   santrauka: 'Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą, Odesą, bet masiškiausia ekonominė emigracija nuo 1868 m. vyko į JAV.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą,
     Odesą, bet masiškiausia ekonominė emigracija nuo 1868 m. vyko į JAV.
   citata_rodoma: ''
   teiginio_tipas: faktas

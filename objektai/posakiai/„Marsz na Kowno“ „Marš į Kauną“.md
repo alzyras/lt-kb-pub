@@ -28,7 +28,10 @@ Nors tūkstančiai karštakošių Lenkijos miestų gatvėse ugningai skandavo �
   santrauka: 'Nors tūkstančiai karštakošių Lenkijos miestų gatvėse ugningai skandavo „Marsz na Kowno“ („Marš į Kauną“), oficialiąją Varšuvą rezultatai tenkino.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kadangi Vilniaus pripažinimo Lenkijai ultimatumas nelietė, kovo 19 die-
     ną Lietuva ultimatumą priėmė. Nors tūkstančiai karštakošių Lenkijos
+    miestų gatvėse ugningai skandavo „Marsz na Kowno“ („Marš į Kauną“),
+    oficialiąją Varšuvą rezultatai tenkino.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

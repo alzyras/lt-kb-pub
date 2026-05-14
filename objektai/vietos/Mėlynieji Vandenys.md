@@ -27,7 +27,9 @@ Algirdas 1362 m. suruošė į tas sritis žygį, sumušė totorius ties Mėlynai
   santrauka: 'Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau
     linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso
+    ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

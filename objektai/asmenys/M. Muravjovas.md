@@ -42,7 +42,13 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   santrauka: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vilniaus generalgubernatoriumi paskirtas Michailas Muravjo-
+    vas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgalioji-
+    mus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių. Jis gudriai
+    išmušė iš sukilimo vadovybės valstietišką kortą – pasiekė, kad valstiečių
     reforma Lietuvoje būtų pakoreguota jiems palankesne kryptimi ir imta
+    vykdyti be jokio derinimo su dvarininkais, kaip buvo numatyta 1861 m.
+    įstatymų aktuose.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -54,7 +60,11 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   santrauka: 'Muravjovas, pasikvietęs į pagalbą seną savo pažįstamą Ivaną Kornilovą, kuris buvo paskirtas Vilniaus švietimo apygardos globėju.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Rusinimo politika 1864–1904 metais
+    Šios politikos ėmėsi sukilimo slopintojas ir vienas jos su-
     manytojų Vilniaus generalgubernatorius M. Muravjovas, pasikvietęs į
+    pagalbą seną savo pažįstamą Ivaną Kornilovą, kuris buvo paskirtas Vil-
+    niaus švietimo apygardos globėju.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -66,7 +76,10 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   santrauka: 'Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, šis draudimas išplėstas į visą Rusijos imperijos teritoriją ir galiojo ligi 1904 m. pavasario.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    M. Muravjovo
+    nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, šis drau-
     dimas išplėstas į visą Rusijos imperijos teritoriją ir galiojo ligi 1904 m.
+    pavasario.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -78,7 +91,9 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   santrauka: 'Muravjovo Koriko laikais XIX a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Paradoksalu, tačiau stalinizmo
     metais kunigų Lietuvoje nukentėjo du kartus daugiau nei M. Muravjovo
+    Koriko laikais XIX a.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

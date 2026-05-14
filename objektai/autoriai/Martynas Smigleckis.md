@@ -61,7 +61,9 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
   santrauka: Smigleckio „Logika“ minima kaip Europą pasiekęs Vilniaus universiteto profesorių veikalas.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Jėzuitiškojo Vilniaus universi-
     teto reiškiniai darė poveikį visai Europai – tai pasakytina apie teologijos,
+    filosofijos, logikos, retorikos ir poetikos mokyklas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -75,7 +77,12 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
   santrauka: 'Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui, Martyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vilniaus universite-
     to profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui,
+    Martyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir
+    Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m.
+    buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose
+    vietoje įprasto Horacijaus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

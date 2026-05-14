@@ -46,7 +46,9 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   santrauka: 'Lietuvos Taryba, krašto ir užsienių lietuvių pripažinta, kaip vienintelė įgaliota lietuvių tautos atstovybė, pasiremdama pripažintąja tautų apsisprendimo teise ir 1917 metų rugsėjo m. 17-23 d. lietuvių konferencijos Vilniuje nutarimu, skelbia nepriklausomos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    I. Lietuvos Taryba, krašto ir užsienių lietuvių pripa-
+    Tokį pareiškimą Taryba padarė 1917 m. gruodžio 11 d., po sun-
+    kių derybų Kaune su kanclerio atstovu ir karo vadovybe. Jo tekstas
+    buvo šioks: „I. Lietuvos Taryba, krašto ir užsienių lietuvių pripa-
     žinta, kaip vienintelė įgaliota lietuvių tautos atstovybė, pasiremdama
     pripažintąja tautų apsisprendimo teise ir 1917 metų rugsėjo m.
     17-23 d. lietuvių konferencijos Vilniuje nutarimu, skelbia nepriklau-
@@ -79,6 +81,8 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   santrauka: 'Basanavičiaus vadovaujama Lietuvos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1918 II 16
+    Vokietijos okupacijos sąlygomis J. Basanavičiaus vadovaujama Lietu-
     vos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -91,7 +95,10 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   santrauka: 'Tačiau kitoje dalyje Taryba, vykdydama Vokietijos reikalavimą, pasisakė „už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“, kuri būtų įgyvendinta keturiomis konvencijomis (karinė, transporto, finansų, muitų).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau kitoje dalyje
+    Taryba, vykdydama Vokietijos reikalavimą, pasisakė „už amžiną, tvirtą
     Lietuvos valstybės sąjungą su Vokietijos valstybe“, kuri būtų įgyvendinta
+    keturiomis konvencijomis (karinė, transporto, finansų, muitų).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -103,7 +110,14 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   santrauka: 'Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė naują rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise, paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą Lietuvos valstybę su.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Parengus abiem pu-
+    sėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė nau-
+    ją rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise,
+    paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą
     Lietuvos valstybę su sostine Vilniumi ir tą valstybę atskirianti nuo visų
+    valstybinių ryšių, kurie yra buvę su kitomis tautomis, kad Lietuvos vals-
+    tybės pamatus ir jos santykius su kitomis valstybėmis galutinai nustatys
+    Steigiamasis Seimas, demokratiškai visų jos gyventojų išrinktas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -116,5 +130,6 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
 ### Susiję objektai
 - [[objektai/asmenys/J. Basanavičius]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1918-1919 m.)]]
+- [[objektai/posakiai/Skelbia nepriklausomos Lietuvos valstybės atstatymą su sostine Vilnium]]
 - [[objektai/zodynas/tautų apsisprendimo teisė tautų apsisprendimo principas]]
 - [[objektai/posakiai/„atkuria“ „atkūrimu“ „atstatymu“]]

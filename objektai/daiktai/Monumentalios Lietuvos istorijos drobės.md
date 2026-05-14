@@ -43,7 +43,12 @@ Nenurodyta
   santrauka: 'Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio reikalų ministerija (ministras Stasys Lozoraitis) inicijavo ir, Magdalenai Avietėnaitei vadovaujant, parengė specialų Lietuvos skyrių, atskleidusį meno, tautodailės, ekonomikos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respubli-
     kos užsienio reikalų ministerija (ministras Stasys Lozoraitis) inicijavo
+    ir, Magdalenai Avietėnaitei vadovaujant, parengė specialų Lietuvos sky-
+    rių, atskleidusį meno, tautodailės, ekonomikos pasiekimus ir parodžiusį
+    svarbiausius Lietuvos istorijos įvykius monumentaliose žymiausių mūsų
+    dailininkų drobėse.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

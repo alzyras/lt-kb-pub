@@ -28,14 +28,6 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   teiginys: 'Jis turėjo būti bendrai renkamas Volos kaimo lauke, netoli Varšuvos, dalyvaujant visiems abiejų valstybių bajorams.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Liublino seimas seimų vieta paskyrė Varšuvą arba kurį nors kitą Lenkijos miestą.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Taip pat visiems laikams buvo nustatyta karaliaus elekcijos tvarka: buvo nutarta, kad elekcija turinti įvykti lauke tarp Varšuvos ir Volos kaimo; o elekcijoj dalyvauti ir balsuoti galįs kiekvienas bajoras (taigi buvo sakoma, kad į elekciją bajorai vykstą.'
-  pagrindžia:
-    - c-004
 - t-005
   teiginys: 'Todėl karalius tuojau grįžo į Vilnių ir sušaukė tuo reikalu Varšuvoje seimą.'
   pagrindžia:
@@ -80,6 +72,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     karaliui. Jis turėjo būti bendrai renkamas Volos kaimo
     lauke, netoli Varšuvos, dalyvaujant visiems abiejų valstybių
     bajorams. Bet į elekciją, žinoma, susirinkdavo ne visi, o tik arti-
+    mųjų sričių ir, be to, tik turtingesnieji bajorai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -87,35 +80,6 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Liublino seimas seimų vieta paskyrė Varšuvą arba kurį nors kitą Lenkijos miestą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Liublino seimas seimų vieta paskyrė Varšuvą
-    arba kurį nors kitą Lenkijos miestą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Taip pat visiems laikams buvo nustatyta karaliaus elekcijos tvarka: buvo nutarta, kad elekcija turinti įvykti lauke tarp Varšuvos ir Volos kaimo; o elekcijoj dalyvauti ir balsuoti galįs kiekvienas bajoras (taigi buvo sakoma, kad į elekciją bajorai vykstą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Taip pat visiems laikams buvo nustatyta karaliaus elekcijos tvar-
-    ka: buvo nutarta, kad elekcija turinti įvykti lauke tarp
-    Varšuvos ir Volos kaimo; o elekcijoj dalyvauti ir
-    balsuoti galįs kiekvienas bajoras (taigi buvo sakoma, kad į elek-
-    ciją bajorai vykstą _viritim)._
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 - c-005
   santrauka: 'Todėl karalius tuojau grįžo į Vilnių ir sušaukė tuo reikalu Varšuvoje seimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -152,6 +116,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   santrauka: 'Lenkijoje tai įvyko tik po Liublino unijos – būtent 1573 m. vadinamojoje Varšuvos konfederacijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lenkijoje tai įvyko tik po Liublino
     unijos – būtent 1573 m. vadinamojoje Varšuvos konfederacijoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -164,7 +129,9 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   santrauka: 'Jėgos buvo nelygios, todėl numatyta, kad besipriešinanti kariuomenė turi trauktis Varšuvos link.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Jėgos buvo
     nelygios, todėl numatyta, kad besipriešinanti kariuomenė turi trauktis
+    Varšuvos link.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -177,6 +144,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas
+    Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Len-
+    kijos ir Lietuvos) dignitorių – ministrų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -184,9 +153,3 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Volos kaimas]]
-- [[objektai/vietos/Volos kaimo laukas]]

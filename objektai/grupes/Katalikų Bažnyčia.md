@@ -53,7 +53,10 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   santrauka: 'Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino brolį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais, ypač imperatoriumi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino bro-
     lį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios
+    organizaciją ir popiežiaus santykius su Europos valdovais, ypač impera-
+    toriumi.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -65,7 +68,9 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   santrauka: 'Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su Katalikų bažnyčia.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci-
     ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su
+    Katalikų bažnyčia.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -78,6 +83,9 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą
+    protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti
+    Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pa-
+    čios Katalikų bažnyčios įtaką.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

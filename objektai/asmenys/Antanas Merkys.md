@@ -27,10 +27,6 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
   teiginys: 'Merkį.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti.'
-  pagrindžia:
-    - c-003
 - t-004
   teiginys: 'Merkys palūžo psichologiškai.'
   pagrindžia:
@@ -45,7 +41,10 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
   santrauka: 'LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko deleguoti po du savo atstovus į naują, 1939 m. lapkritį sudarytą taip pat tautininko Antano Merkio vyriausybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    LVLS ir LKDP neparei-
     kalavo leisti atkurti savo partinių organizacijų ir sutiko deleguoti po du
+    savo atstovus į naują, 1939 m. lapkritį sudarytą taip pat tautininko Anta-
+    no Merkio vyriausybę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -57,7 +56,9 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
   santrauka: 'Merkį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Grėsmės akivaizdoje prezidentas
     A. Smetona leido jam pasirašyti bet kokias sutartis, kad tik jos nepažeistų
+    1939 m. spalio 10 d. sutarties.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -65,23 +66,13 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    sukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 - c-004
   santrauka: 'Merkys palūžo psichologiškai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Birželio 10 dieną Kaune
     sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
+    į Maskvą ministrą J. Urbšį.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -93,7 +84,9 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
   santrauka: 'Merkio paskirti artimą krikščionims demokratams gen.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Krikščionys demokratai ir liaudininkai, prieš tai su-
     sitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą
+    krikščionims demokratams gen. S. Raštikį.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

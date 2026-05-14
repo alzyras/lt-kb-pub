@@ -28,7 +28,9 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   santrauka: 'Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Gediminaičių ir Jogailaičių
     dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
+    monarchijoms ir nuo to mes jaučiamės smagiau.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -29,7 +29,9 @@ Suvorovo vadovaujamai Rusijos kariuomenei imtis veiksmų.
   santrauka: 'Suvorovo vadovaujamai Rusijos kariuomenei imtis veiksmų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Visa tai atšaldė dalį LLV
     bajorijos nuo sukilimo ir tapo pretekstu A. Suvorovo vadovaujamai Ru-
+    sijos kariuomenei imtis veiksmų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

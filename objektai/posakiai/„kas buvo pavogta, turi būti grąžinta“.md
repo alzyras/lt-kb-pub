@@ -27,7 +27,11 @@ Landsbergis atkakliai ir tvirtai paisė tik moralios politikos principų – „
   santrauka: 'Landsbergis atkakliai ir tvirtai paisė tik moralios politikos principų – „kas buvo pavogta, turi būti grąžinta“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Belaukiant tarptautinio
+    Lietuvos pripažinimo
+    Apie Lietuvos nepriklausomybę nieko nenorėjo girdėti
     SSRS vadovybė su M. Gorbačiovu priešakyje ir primygtinai reikalavo
+    atšaukti Kovo 11 Aktą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

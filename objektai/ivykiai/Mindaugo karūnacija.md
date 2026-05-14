@@ -42,7 +42,10 @@ Nenurodyta
   santrauka: 'Mindaugo vainikavimo dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pirmas ir vienintelis vainikuotas Lietuvos karalius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Svarbiausias tikslas, kurio siekta krikštijantis, – ka-
     rūna. Tikslas buvo pasiektas 1253 m. liepos 6-ąją. Mindaugo vainikavimo
+    dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pir-
+    mas ir vienintelis vainikuotas Lietuvos karalius.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

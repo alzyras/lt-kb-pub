@@ -29,6 +29,8 @@ tags:
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o
+    Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, ta-
+    čiau švedams įsitvirtinti Lietuvoje nepavyko.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

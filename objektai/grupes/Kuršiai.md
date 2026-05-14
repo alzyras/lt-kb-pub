@@ -32,8 +32,16 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   santrauka: 'Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir žemaičių, gyveno kuršiai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Ry-
+    tinės jų sienos nėra aiškios; jie užėmė visą Neries aukštupį,
+    artėjo prie Bererinos aukštupio ir prie Dysnos
     **Latviai.** Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo
-    Šventosios upės ir žemaičių, gyveno kuršiai
+    Šventosios upės ir žemaičių, gyveno kuršiai, kairiajame Dau-
+    guvos žemupio krante — žiemgaliai, kairiajame Dauguvos
+    vidurupio krante, siekdami dabartines Utenos ir Zarasų apskri-
+    tis, gyveno sėliai, o į šiaurę nuo jų, t. y. dešiniajam Dauguvos
+    vidurupio krante gyveno latgãliai (taip šitų sričių gyven-
+    tojus vadina senieji raštai).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -45,7 +53,9 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   santrauka: 'Ankstyvaisiais Viduramžiais Vakarų metraštininkai pradeda minėti prūsus, kuršius, žiemgalius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Anks-
     tyvaisiais Viduramžiais Vakarų metraštininkai pradeda minėti prūsus,
+    kuršius, žiemgalius.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

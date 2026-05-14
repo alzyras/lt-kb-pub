@@ -27,7 +27,8 @@ Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantmečio veidas.
   santrauka: 'Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantmečio veidas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantmečio
+    Sejny, 2008; Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantmečio
+    veidas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

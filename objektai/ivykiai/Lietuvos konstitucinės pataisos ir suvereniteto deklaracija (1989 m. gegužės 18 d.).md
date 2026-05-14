@@ -41,7 +41,10 @@ Nenurodyta
   santrauka: 'Tų metų lapkritį visoje Lietuvoje vykusiuose susirinkimuose, mitinguose reikalauta nepritarti SSRS konstitucijos pataisoms, kurios numatė ne plėsti respublikų suverenumą, o stiprinti centralizaciją, prieš tai surinkta 1,8 mln.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    LPS reika-
+    laujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbian-
     čios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija
+    dėl Lietuvos SSR valstybinio suvereniteto.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

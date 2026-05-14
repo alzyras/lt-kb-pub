@@ -37,12 +37,6 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
 Šaltinyje Dancigas pasirodo Nemuno prekybos, Lietuvos eksporto ir Lenkijos bei Ordino santykių kontekste. Miestas siejamas tiek su Lietuvos ūkiniu gyvenimu, tiek su vėlyvesniais teritoriniais pokyčiais po 1466 m. taikos.
 
 ## Teiginiai
-- t-002
-  teiginys: 'Lietuvos vaškas buvo garsus Dancigo rinkoje.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-004
   teiginys: 'Po 1466 m. Torno taikos Dancigas atiteko Lenkijai.'
   pagrindžia:
@@ -55,20 +49,6 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     - c-007
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: Citata parodo, kad Dancigas buvo viena svarbiausių Lietuvos vaško eksporto rinkų.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Seniausioji Lietu-
-    vos eksporto prekė buvo vaškas, garsus Rygos, Ka-
-    raliaučiaus ir Dancigo rinkose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-004
   santrauka: Citata pagrindžia Dancigo priklausomybės pasikeitimą po Torno taikos.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -89,7 +69,9 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   santrauka: 'Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“ statuso (panašaus į Dancigo (dabar Gdanskas)).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Beje, ne visi klaipė-
     diškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“
+    statuso (panašaus į Dancigo (dabar Gdanskas)).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -65,6 +65,9 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
     Tuo pat metu protestantizmas labai uoliai buvo platinamas
     ir Mažojoje Lietuvoje. Ten buvo pradėta rūpintis liaudim, ku-
     riai buvo spausdinamos lietuviškos protestantiškos knygos. Jas
+    rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų
+    lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi
+    buvo skleidę protestantizmą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -80,6 +83,8 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
     skelbiamas žmonių, atėjusių iš Mažosios Lietuvos; bet tas judė-
     jimas buvo labai silpnas ir trumpas. Jį labai greit nustelbė
     lenkiškoji protestantų akcija. Lietuvos protestantai suskato
+    lietuviškai sakyti pamokslus ir spausdinti lietuviškuosius raštus
+    tik tada, kai to griebėsi atsigavę katalikai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -91,7 +96,11 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   santrauka: 'Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūsijos hercogija, o dar vėliau – Prūsijos karalija) pradėta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietuva (visa kita Lietuva vėliau – atrodo, XIX a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau
+    pasivadinusioje Prūsijos hercogija, o dar vėliau – Prūsijos karalija) pradė-
+    ta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietu-
     va (visa kita Lietuva vėliau – atrodo, XIX a. – pradėta vadinti Didžiosios
+    Lietuvos vardu).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -103,7 +112,9 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   santrauka: 'Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Donelaičio poema „Metai“ (apie 1750).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Mažojoje Lietuvoje iškilo ir pirmasis
     reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done-
+    laičio poema „Metai“ (apie 1750).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -115,6 +126,8 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   santrauka: 'Šia samprata rėmėsi naujosios Lietuvos valstybės – Lietuvos Respublikos kūrėjai, siekę prie Lietuvos prijungti Mažąją Lietuvą, bet atsisakę pretenzijų į nelietuviškai kalbančias istorinės Lietuvos žemes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Šia samprata rėmėsi naujosios Lietuvos valstybės – Lie-
+    tuvos Respublikos kūrėjai, siekę prie Lietuvos prijungti Mažąją Lietuvą,
     bet atsisakę pretenzijų į nelietuviškai kalbančias istorinės Lietuvos žemes.
   citata_rodoma: ''
   teiginio_tipas: faktas

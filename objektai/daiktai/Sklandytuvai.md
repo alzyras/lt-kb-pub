@@ -43,7 +43,10 @@ Nenurodyta
   santrauka: 'Kūrybingai panaudodami vokiečių motorus ir prancūzų fiuzelažus, lietuviai Kaune konstravo ir statė savo karo ir sporto lėktuvus, tarp jų ir lengvuosius bombonešius, gamino sklandytuvus sporto reikalams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kūrybingai panaudodami vokiečių motorus ir prancūzų
     fiuzelažus, lietuviai Kaune konstravo ir statė savo karo ir sporto lėktu-
+    vus, tarp jų ir lengvuosius bombonešius, gamino sklandytuvus sporto
+    reikalams.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

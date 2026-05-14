@@ -17,11 +17,6 @@ tags:
 Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos karaliumi vieta, ir kaip 1569 m. erdvė, kur galutinai nustatyti abiejų tautų valstybiniai santykiai. Šiame šaltinyje Liublino unija taip pat žymi naujo Lietuvos istorijos laikotarpio pradžią.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų valstybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami, kad abidvi valstybės pasiliktų savarankiškos.'
-  pagrindžia:
-    - c-001
-
 - t-002
   teiginys: '1386 m. Jogaila nuvyko į Liubliną ir ten buvo išrinktas Lenkijos karaliumi.'
   pagrindžia:
@@ -40,21 +35,6 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     - c-004
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų valstybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami, kad abidvi valstybės pasiliktų savarankiškos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kaip Varšuvos seime
-    (1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų vals-
-    tybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami,
-    kad abidvi valstybės pasiliktų savarankiškos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
 - c-002
   santrauka: Liublinas minimas kaip Jogailos išrinkimo Lenkijos karaliumi vieta.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -90,7 +70,9 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   santrauka: '1569 m. lietuvių ir lenkų delegacijos nuo vasario derėjosi Liubline susirinkusio Lenkijos seimo akivaizdoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1569 m. lietuvių ir lenkų delegacijos nuo
     vasario derėjosi Liubline susirinkusio Lenkijos seimo akivaizdoje. Lietuviai
+    pateikė savo – dviejų lygiateisių valstybių sąjungos – projektą, o lenkai siekė
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

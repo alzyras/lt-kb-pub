@@ -40,7 +40,12 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
   santrauka: 'Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio reikalų ministerija (ministras Stasys Lozoraitis) inicijavo ir, Magdalenai Avietėnaitei vadovaujant, parengė specialų Lietuvos skyrių, atskleidusį meno, tautodailės, ekonomikos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respubli-
     kos užsienio reikalų ministerija (ministras Stasys Lozoraitis) inicijavo
+    ir, Magdalenai Avietėnaitei vadovaujant, parengė specialų Lietuvos sky-
+    rių, atskleidusį meno, tautodailės, ekonomikos pasiekimus ir parodžiusį
+    svarbiausius Lietuvos istorijos įvykius monumentaliose žymiausių mūsų
+    dailininkų drobėse.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -52,6 +57,9 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
   santrauka: 'Keturiasdešimtmečiai užsienio reikalų ministras Stasys Lozoraitis ir kariuomenės vadas gen.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Keturiasdešimtmečiai užsienio reikalų ministras
+    Stasys Lozoraitis ir kariuomenės vadas gen. Stasys Raštikis ėmėsi moder-
+    nizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo
     strategiją. S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -64,7 +72,10 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
   santrauka: 'Lozoraitį, kurio linija pralaimėjo, nors Lietuvos valdžia stengėsi parodyti, kad iš esmės nieko neįvyko.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-
+    netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
     Mironas. Jis atleido S. Lozoraitį, kurio linija pralaimėjo, nors Lietuvos
+    valdžia stengėsi parodyti, kad iš esmės nieko neįvyko.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -76,7 +87,10 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
   santrauka: 'LDT aukščiausia valdžia priklausė diplomatijos šefui, tas pareigas ėjo diplomatai Stasys Lozoraitis (1940–1983 m.) ir Stasys Antanas Bačkis (1983–1991 m.).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    LDT aukščiausia valdžia priklausė di-
     plomatijos šefui, tas pareigas ėjo diplomatai
+    Stasys Lozoraitis (1940–1983 m.) ir Stasys
+    Antanas Bačkis (1983–1991 m.).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

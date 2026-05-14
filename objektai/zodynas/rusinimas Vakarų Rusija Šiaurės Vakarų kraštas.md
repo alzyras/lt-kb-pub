@@ -45,7 +45,11 @@ Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenkijos ir Lietuv
   santrauka: 'Lietuvos vardas pašalintas iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1840 m. panaikintas
     Lietuvos Statutas, o teismų sistema surusinta. Lietuvos vardas pašalintas
+    iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos
+    traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės
+    Vakarų kraštu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

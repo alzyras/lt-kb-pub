@@ -58,7 +58,12 @@ Nenurodyta
   santrauka: 'Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva sugebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasipriešinimą SSRS ištisą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau pergyvenusi
     didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos
+    vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva su-
+    gebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-
+    nimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),
+    o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -70,6 +75,7 @@ Nenurodyta
   santrauka: '1941–1944 nacių Vokietijos okupacija ir žydų Holokaustas Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1941–1944
     nacių Vokietijos okupacija ir žydų Holokaustas Lietuvoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -82,7 +88,10 @@ Nenurodyta
   santrauka: 'Taip diena po dienos 1941 m. vasarą ir rudenį tikrose skerdynėse sunaikinta dauguma – apie 150 000 – Lietuvos žydų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Apie 50 tūkst. žydų
+    laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose, jie išnau-
     doti kaip pigi darbo jėga. Tačiau ir didžiųjų getų žydai žudyti vadinamųjų
+    akcijų metu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -94,6 +103,8 @@ Nenurodyta
   santrauka: 'Karui baigiantis, 1943 m., naciai naikino miestų getus, iškasė ir degino nužudytųjų kūnus, 11 000 Lietuvos žydų buvo išvežti į Estijoje ir Latvijoje buvusius konclagerius, apie 3,5 tūkst.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Karui baigiantis, 1943 m., naciai naikino miestų getus, iškasė
+    ir degino nužudytųjų kūnus, 11 000 Lietuvos žydų buvo išvežti į Estijoje
     ir Latvijoje buvusius konclagerius, apie 3,5 tūkst. – į stovyklas Lenkijoje,
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -106,7 +117,11 @@ Nenurodyta
   santrauka: 'Dėl nacių rasinės genocidinės politikos Lietuva liko be šimtmečiais gyvenusios spalvingiausios savo etninės dalies – žydų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Dėl nacių rasinės genocidinės politikos Lietuva liko be šimtmečiais gy-
     venusios spalvingiausios savo etninės dalies – žydų. Niekuo nekaltų žydų
+    sunaikinimas tik dėl to, kad jie buvo žydai – kruviniausias Lietuvos is-
+    torijos XX a. puslapis, daugybės talentingų žmonių praradimas, didžiulė
+    žydų tautos ir visos Lietuvos netektis ir tragedija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

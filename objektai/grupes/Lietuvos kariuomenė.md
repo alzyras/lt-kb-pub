@@ -85,10 +85,6 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   teiginys: 'Karalaitis Kazimieras paskelbtas šventuoju, kai po mirties pradėjo garsėti kaip stebukladaris, nes tikėta, kad jis išgelbėjęs Lietuvą karuose su Maskva – 1518 m. padėjęs Lietuvos kariuomenei įveikti priešą prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos.'
   pagrindžia:
     - c-017
-- t-012
-  teiginys: 'Lietuvos ir Lenkijos kariuomenė, vadovaujama Konstantino Ostrogiškio, 1514 m. rugsėjo 8 d. sutriuškina Maskvos kariuomenę prie Oršos.'
-  pagrindžia:
-    - c-018
 - t-013
   teiginys: '1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.'
   pagrindžia:
@@ -167,7 +163,7 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     menės silpnąsias savybes (santykinai nedi-
     delę kovinę patirtį, ne visada patenkinamą
     discipliną) bandyta kompensuoti samdi-
-    niais - kariais profesionalais
+    niais - kariais profesionalais.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -228,7 +224,7 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   santrauka: Prie Klecko Lietuvos kariuomenė priartėjo nuo Pinsko pusės ir nuo aukštumos stebėjo totorių pajėgas.
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Lietuvos kariuomenė priartėjo nuo Pinsko
+    @ Lietuvos kariuomenė priartėjo nuo Pinsko
     pusės ir išėjo ant aukštumos, nuo kurios
     galėjo stebėti totorių pajėgas.
   citata_rodoma: ""
@@ -257,7 +253,7 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   santrauka: 1601 m. birželio 23 d. prie Kuoknesės pagrindinė Lietuvos kariuomenė stojo prieš švedų pajėgas.
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    birželio
+    Pagaliau birželio
     23 d. prie Kuoknesės pagrindinė Lietuvos
     kariuomenė stojo prieš švedų pajėgas.
   citata_rodoma: ""
@@ -313,7 +309,10 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   santrauka: 'Karalaitis Kazimieras paskelbtas šventuoju, kai po mirties pradėjo garsėti kaip stebukladaris, nes tikėta, kad jis išgelbėjęs Lietuvą karuose su Maskva – 1518 m. padėjęs Lietuvos kariuomenei įveikti priešą prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Karalaitis Kazimieras paskelbtas šventuoju, kai po mirties
     pradėjo garsėti kaip stebukladaris, nes tikėta, kad jis išgelbėjęs Lietuvą
+    karuose su Maskva – 1518 m. padėjęs Lietuvos kariuomenei įveikti prie-
+    šą prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -321,23 +320,13 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
-- c-018
-  santrauka: 'Lietuvos ir Lenkijos kariuomenė, vadovaujama Konstantino Ostrogiškio, 1514 m. rugsėjo 8 d. sutriuškina Maskvos kariuomenę prie Oršos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ostrogiškio, 1514 m. rugsėjo 8 d. sutriuškina Maskvos kariuomenę
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-012
 - c-019
   santrauka: '1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus
     Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė
+    Rygą ir užvaldė Baltijos pakrantes.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -355,4 +344,3 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 - [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/asmenys/Algirdas]]
-- [[objektai/asmenys/Konstantinas Ostrogiškis]]

@@ -28,7 +28,9 @@ Aštuntajame dešimtmetyje kai kurie kunigai ėmė priešintis brutaliai valdži
   santrauka: 'Aštuntajame dešimtmetyje kai kurie kunigai ėmė priešintis brutaliai valdžios politikai, reikalauti tikintiesiems ir bažnyčiai konstitucinių teisių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Pirmasis jos redaktorius buvo tuomet
     Simne dirbęs kun. Sigitas Tamkevičius. Leidinys aprašė sovietų antireliginę
+    veiklą ir propagandą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

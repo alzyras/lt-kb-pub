@@ -30,7 +30,10 @@ Vytautas, atremdamas Ordino pretenzijas į Žemaitiją, pasitelkė istoriL I E T
   santrauka: 'Vytautas, atremdamas Ordino pretenzijas į Žemaitiją, pasitelkė istoriL I E T U V O S I S T O R I J A 50 nius ir etninius argumentus – jo manymu, ankstesni Žemaičių užrašymų dokumentai, Lietuvai tapus krikščioniška šalimi, prarado juridinę galią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Čia Vytautas pakartoja ankstesnių Lie-
     tuvos valdovų nuostatą plėsti valstybę visoje baltų erdvėje. Tačiau vėliau
+    jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei
+    Užnemunę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

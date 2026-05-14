@@ -39,6 +39,10 @@ Smetonos, redaguojamoji „Viltis".
     vius į vienybę, gynė opiuosius tautos reikalus, kovojo su Rusų
     priespauda ir lenkų pastangomis nutautinti lietuvius, išvaryti lie-
     tuvių kalbą iš bažnyčių ir t. t.
+    Tuo metu tautiškoji veikla taip pagyvėjo, kad, praslinkus
+    10 m. nuo spaudos atgavimo, Rusijos ribose jau ėjo net 25 lie-
+    tuviški laikraščiai (10 Kaune, 8 Vilniuje, 3 Seinuose, 3 Rygoje,
+    1 Žem.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -50,7 +54,10 @@ Smetonos, redaguojamoji „Viltis".
   santrauka: 'Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Antano Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kartu su
+    būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Anta-
     no Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos
+    bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

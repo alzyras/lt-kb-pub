@@ -60,7 +60,8 @@ Vartojamas Lietuvos vardo kilmės, etnonimų ir istorinės kalbotyros kontekste.
   santrauka: Pateikiama leičio vardo forma.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    vadinami „leičiais“
+    Šie žmonės aplinkinių buvo vadinami „leičiais“ (latviai iki šiol
+    vadina lietuvius „leišiais“), o gal ir „liečiais“.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -71,7 +72,10 @@ Vartojamas Lietuvos vardo kilmės, etnonimų ir istorinės kalbotyros kontekste.
   santrauka: 'Šie žmonės aplinkinių buvo vadinami „leičiais“ (latviai iki šiol vadina lietuvius „leišiais“), o gal ir „liečiais“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Šie žmonės aplinkinių buvo vadinami „leičiais“ (latviai iki šiol
     vadina lietuvius „leišiais“), o gal ir „liečiais“. Taigi, Lietuvos vardas turėjo
+    atsirasti nuo etnonimo (susijusio su specifinėmis karinėmis funkcijomis)
+    „liečiai“ ar „leičiai“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

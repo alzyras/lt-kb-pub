@@ -44,7 +44,10 @@ Nenurodyta
   santrauka: 'Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, garbinimo tradicijos klostymasis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kazimiero (1458–1484),
+    Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, garbinimo tradicijos
     klostymasis. Jau XVI a. pradžioje karalaitis Kazimieras garbintas Vilniaus
+    apylinkėse, o šv.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

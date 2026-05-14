@@ -28,6 +28,8 @@ Todėl nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto Lie
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Todėl nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto
+    Lietuvių literatūros katedros darbuotojų, kai kurių kultūros veikėjų ide-
+    ologinis puolimas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -125,7 +125,7 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
 - t-012
   teiginys: 'Jogaila iš pradžių pritarė Vytauto vainikavimuisi, bet vėliau jam kliudė.'
   pagrindžia:
-    - c-018
+    - c-012
     - c-017
     - c-012
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -227,6 +227,7 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   santrauka: Jogaila 1382 m. susaistė save sutartimi su kryžiuočiais.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    O
     Jogaila 1382 m. buvo sudaręs su kryžiuočiais sutartį, kuria jis
     atidavė kryžiuočiams Žemaičius iki Dubysos, pasižadėjo 4 metų
     būvyje krikštytis, o be to, pasižadėjo be kryžiuočių pritarimo su
@@ -312,6 +313,7 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   santrauka: Jogaila pradėjo bažnytinę Lietuvos organizaciją.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Todėl tuojau
     po krikšto Jogaila įkūrė Vil-
     niaus vyskupystę, pastatė ka-
     tedrą ir dar 7 pirmąsias para-
@@ -377,6 +379,7 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   santrauka: Jogaila 1398 m. formaliai pripažino Vytautą vyriausiuoju Lietuvos kunigaikščiu.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    (^316) III skyrius: valstybės suklestėjimas
     Vytauto veikimą totorių stepėse palaikė ir Jogaila. 1398 galo
     jis formaliai pripažino pusbroliui ir daugiau teisių, pavadindamas
     jį « vyriausiuoju Lietuvos kunigaikščiu » — « supremus dux Litua­
@@ -438,28 +441,6 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
-- c-014
-  santrauka: Jogaila papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1386.II.14 d. nuvykęs Krokuvon, rytojaus dieną Jogaila Gniez­
-    no arkivyskupo Bodzantos buvo pakrikštytas Vladislovo vardu ir
-    į lenkų istoriją įėjo kaip Władysław II Jagiełło. Krokuvos vysku­
-    pas Jonas Radlica pakrikštijo būsimąjį karalių atlydėjusius brolius
-    (^9) **Plg. G. Rhode : RhOP, I, 298-304 p.**
-
-
-    ```
-    KRIAVO AKTAS IR LIETUVOS KRIKŠTAS 287
-    ```
-    (Skirgailą, Lengvenį), bajorus
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-004
 - c-015
   santrauka: Jogaila papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -505,19 +486,6 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-012
-- c-018
-  santrauka: Jogaila papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vytautui užgaunanti pasirodė Jogailos laikysena,
-    kuris, pradžioje pritaręs Vytauto vainikavimuisi^11 , paskui atsistojo
-    skersai kelio
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
     - t-012
 - c-019
   santrauka: Jogaila papildomas patvirtintas šaltinio paminėjimas.
@@ -701,7 +669,7 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
     lotų, teologijos daktarų, vienuolių.
     Vilniaus pilyje Jogaila sušaukė didesnį didikų suvažiavi­
     mą, kuriame pareiškė, kad Lietuvoje įvedamas katalikų tikėji­
-    mas, visiems lietuviams privalomas
+    mas, visiems lietuviams privalomas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -749,6 +717,7 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Krėvos sutartis. Lietuvos didysis kunigaikštis Jogaila tampa Lenkijos
+    karaliumi.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -760,7 +729,9 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   santrauka: 'kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jogaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis (valdė 1392–1430).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jo-
     gaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis
+    (valdė 1392–1430).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -772,7 +743,9 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   santrauka: 'Išeitis buvo 1385 m. sudaryta Krėvos sutartis su Lenkija, pagal kurią Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Išeitis buvo 1385 m. sudaryta Krėvos
     sutartis su Lenkija, pagal kurią Lietuvos didysis kunigaikštis Jogaila tapo
+    Lenkijos karaliumi.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -792,3 +765,4 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
 - [[objektai/ivykiai/Krėvos sutarties priėmimas]]
 - [[objektai/ivykiai/Krėvos sutartis (1385 m.)]]
 - [[objektai/asmenys/Kęstutis]]
+- [[objektai/zodynas/vyskupystė]]

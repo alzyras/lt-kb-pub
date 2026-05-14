@@ -28,7 +28,11 @@ Napoleonas leido Vilniuje įkurti savo pareigūnų prižiūrimą Laikinąją LDK
   santrauka: 'Napoleonas leido Vilniuje įkurti savo pareigūnų prižiūrimą Laikinąją LDK vyriausybę, kuri palaikė viešąją tvarką krašte ir įsipareigojo organizuoti karinius dalinius, prisidėsiančius prie Napoleono kariuomenės (trečdalį jos sudarė Varšuvos kunigaikštystės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Napoleonas leido Vilniuje
     įkurti savo pareigūnų prižiūrimą Laikinąją LDK vyriausybę, kuri palaikė
+    viešąją tvarką krašte ir įsipareigojo organizuoti karinius dalinius, prisidė-
+    siančius prie Napoleono kariuomenės (trečdalį jos sudarė Varšuvos kuni-
+    gaikštystės pulkai).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

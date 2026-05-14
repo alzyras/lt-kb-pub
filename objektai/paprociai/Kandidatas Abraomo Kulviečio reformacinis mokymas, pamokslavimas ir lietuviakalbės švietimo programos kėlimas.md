@@ -44,6 +44,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1517 m. Martyno Liuterio (Martin Luther) pradėta reformacija laikoma
+    viena iš reikšmingiausių Naujųjų amžių apraiškų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

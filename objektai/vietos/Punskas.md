@@ -31,7 +31,11 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
   santrauka: 'Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą gyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviški Seinai ir Punskas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Paskutinė federacijos su Lenkija galimybė
+    Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo
     apjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą
+    gyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviš-
+    ki Seinai ir Punskas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -43,7 +47,9 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
   santrauka: 'Savo ruožtu Lietuva nustojo teisės reikšti savo teritorines pretenzijas į Seinus, Punską, nors sena istorija, tautinių mažumų klausimas kartais dar kelia karštas diskusijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Savo ruožtu Lietuva nustojo teisės
     reikšti savo teritorines pretenzijas į Seinus, Punską, nors sena istorija, tau-
+    tinių mažumų klausimas kartais dar kelia karštas diskusijas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

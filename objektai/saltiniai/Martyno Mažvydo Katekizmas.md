@@ -35,7 +35,10 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
   santrauka: 'Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvių kalba – tai garsusis Martyno Mažvydo „Katekizmas“: išspausdintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai kny-
+    gai lietuvių kalba – tai garsusis Martyno Mažvydo „Katekizmas“: išspaus-
     dintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai. LDK
+    visuomenė tuo metu nebuvo pribrendusi lietuviakalbei knygai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -47,6 +50,9 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
   santrauka: 'Pirmoji lietuviška knyga – Martyno Mažvydo „Katekizmas“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kilmės iš
+    romėnų teorija, susipynusi su lotynų – „romėnų“ kalbos vartojimu per
+    visą XVII–XVIII a., buvo tam tikras atsvaros savaiminiam lenkėjimui
     Pirmoji lietuviška knyga – Martyno Mažvydo „Katekizmas“.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -59,7 +65,15 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
   santrauka: 'Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pirmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Katekizmą“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Šią programą A. Kulvietis
+    bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pir-
+    maisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų
+    programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Ka-
     tekizmą“. A. Kulvietis gerai suvokė probleminę kultūros situaciją: Lietuvos
+    diduomenė, neišplėtojusi lietuviškų raštijos tradicijų, o kartu atsisakydama
+    rusėnų rašto kalbos, rinkosi lenkų kalbą ne tik raštijai, bet ir bendrauti:
+    lietuviakalbės raštijos sureikšminimui ir oficialaus statuso suteikimo pro-
+    jektui Lietuvos visuomenė nebuvo pasirengusi.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

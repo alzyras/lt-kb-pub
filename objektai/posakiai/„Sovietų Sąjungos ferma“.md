@@ -28,6 +28,7 @@ Gavusi Maskvos palaiminimą Lietuvos valdžia, matydama, kad sąjunginio pavaldu
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Neatsitiktinai Lietuva vadinta Sovietų Sąjungos ferma, nes daug investicijų
+    nukreipta į žemės ūkio ir maisto pramonės sektorius.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -46,7 +46,9 @@ Nenurodyta
   santrauka: 'Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo atšaukusi karo padėties su Lenkija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų
     Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo at-
+    šaukusi karo padėties su Lenkija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -59,6 +61,8 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp
+    abiejų valstybių pavadino jau ne „demarkacijos linija“, o „administraci-
+    ne linija“, bet ne „siena“, kaip norėjo lietuviai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

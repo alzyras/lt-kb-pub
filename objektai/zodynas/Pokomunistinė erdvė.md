@@ -33,6 +33,7 @@ Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės. Prezi
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atsikūrusiai Lietuvai pirmuosius keturiolika gyvenimo metų reikėjo
+    vytis Vakarus – įsisavinti daugybę naujovių, išmokti jas pritaikyti.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -45,6 +46,8 @@ Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės. Prezi
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia
+    susigrąžinti įtaką vadinamojoje pokomunistinėje erdvėje, pirmiausia su-
+    griuvusios SSRS teritorijoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

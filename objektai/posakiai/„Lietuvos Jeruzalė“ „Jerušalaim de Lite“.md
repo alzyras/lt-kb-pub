@@ -28,7 +28,9 @@ bent jau Vilnius prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos J
   santrauka: 'bent jau Vilnius prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja) tokius žydų kultūros centrus kaip Krokuva, Liublinas ar Lvovas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau XVII–XVIII a. bent jau Vilnius
     prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja)
+    tokius žydų kultūros centrus kaip Krokuva, Liublinas ar Lvovas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

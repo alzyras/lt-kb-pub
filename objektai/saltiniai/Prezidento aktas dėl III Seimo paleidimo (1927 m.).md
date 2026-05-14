@@ -29,7 +29,10 @@ Pajaujo suėmimą, nepritarus vyriausybės deklaracijai, 1927 m. balandžio 12 d
   santrauka: 'Pajaujo suėmimą, nepritarus vyriausybės deklaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas, o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Opozi-
+    cijai protestuojant prieš J. Pajaujo suėmimą, nepritarus vyriausybės de-
     klaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas,
+    o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

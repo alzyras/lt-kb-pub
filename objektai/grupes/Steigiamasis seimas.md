@@ -56,7 +56,10 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   santrauka: 'Dėl nepriklausomybės kovų rinkimai į Stegiamąjį Seimą surengti tik 1920 m. balandžio viduryje, rinkimų teisę gavo 21 metų sulaukę Lietuvos piliečiai, neatsižvelgiant į jų tikėjimą, tautybę ar lytį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Dėl nepriklausomybės kovų rinki-
+    mai į Stegiamąjį Seimą surengti tik 1920 m. balandžio viduryje, rinkimų
     teisę gavo 21 metų sulaukę Lietuvos piliečiai, neatsižvelgiant į jų tikėjimą,
+    tautybę ar lytį.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -68,7 +71,10 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   santrauka: 'Dešimt vietų Steigiamajame Seime gavo tautinės mažumos (6 žydai, 3 lenkai ir 1 vokietis).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Katalikiškame krašte tai nebuvo sensacija, nes tikinčios moterys balsa-
     vo už kunigų partiją, be to, Katalikų bažnyčia, dvasininkai ėjo su aiškiais
+    antilenkiškais šūkiais ir, kas dar svarbiau, žadėjo nacionalizuoti arba ap-
+    karpyti dvarus ir išdalyti žemę valstiečiams.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -80,7 +86,10 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   santrauka: 'Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vasario 16 Aktas, skelbė,
     kad Lietuva yra nepriklausoma valstybė, su „etnologinėmis sienomis“, tai
+    tikriausiai turėjo reikšti, kad kiek atsitraukta vien nuo etnografinių sienų
+    planų, turint viltį, kad teritorija padidės.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

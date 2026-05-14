@@ -27,7 +27,12 @@ Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdy
   santrauka: 'Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdytu prieš savo valią“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nepatenkinti LV egzistavimu naciai liepos 23-iosios naktį voldemari-
+    ninkų nacionalistų, paklususių gestapui, rankomis įvykdė pučą, pašalinę
+    LAF paskirtus asmenis, paėmė batalionų ir policijos vadovybę į savo ran-
     kas. Dabar naciai jau be kliūčių tiesiai davė įsakymus savivaldybėms ir
+    policijai bei pagalbinės policijos daliniams, mielai perėmė sovietų nacio-
+    nalizuotą turtą, o rugpjūčio 5 dieną uždraudė LV veiklą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

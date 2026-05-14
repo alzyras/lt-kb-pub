@@ -38,6 +38,8 @@ Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukil
   santrauka: 'Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukilimo numalšinimo oficialiai nebebuvo vartojamas – jį pakeitė „Šiaurės Vakarų kraštas“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Rusijai sunaikinus senąją
+    Lietuvos valstybę, Lietuvos vardas po 1831 m. sukilimo numalšinimo ofi-
     cialiai nebebuvo vartojamas – jį pakeitė „Šiaurės Vakarų kraštas“.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -50,7 +52,10 @@ Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukil
   santrauka: 'Lietuvos vardas pašalintas iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos vardas pašalintas
+    iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos
     traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės
+    Vakarų kraštu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -62,7 +67,10 @@ Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukil
   santrauka: 'Tuo norėta pademonstruoti, kad Šiaurės Vakarų krašto centras yra ne ką mažiau stačiatikiškas nei katalikiškas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vil-
+    niuje pastatyta ir „atstatyta“ (tose vietose, kur jos buvo iki XVII a.) apie
     dešimt cerkvių. Tuo norėta pademonstruoti, kad Šiaurės Vakarų krašto
+    centras yra ne ką mažiau stačiatikiškas nei katalikiškas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

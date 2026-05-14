@@ -142,6 +142,9 @@ Nenurodyta
   santrauka: Herbus gavusi bajorija įgijo luomo savygarbos.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Jų vietą
+    užima nauja sociališka jėga, kuriai lemta buvo iškilti jau XV
+    amž. ir ypatingai įsigalėti XVI—XVIII amž.
     Pagaliau dar pastebėtina, kad Vytauto laikais Lietuvos ba­
     jorija ne tik išėjo į viešąjį gyvenimą, kaip nauja socialė jėga, ji
     dar įgijo naujų savybių. Ji gavo europeiško nobiliteto pažymius
@@ -190,6 +193,10 @@ Nenurodyta
   santrauka: 'LDK herbas Vytis iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau ir tomis su-
+    dėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, kurios didieji
+    atstovai buvo Adomas Mickevičius ir Julius Slovackis (Juliusz Slowacki),
+    o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų
     LDK herbas Vytis iš herbyno
     „Stemmata Polonica“ (saugomo
     Paryžiuje), XVI a. vid.
@@ -204,7 +211,9 @@ Nenurodyta
   santrauka: 'Gedimino stulpai ir Jogailos kryžius iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Gedimino stulpai ir Jogailos kryžius iš herbyno
     „Stemmata Polonica“ (saugomo Paryžiuje), XVI a. vid.
+    pirmajame šimtuke.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -216,6 +225,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/simbolis]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuvos bajorija]]

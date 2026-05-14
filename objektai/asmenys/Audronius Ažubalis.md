@@ -28,7 +28,13 @@ Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų minist
   santrauka: 'Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus universiteto Tarptautinių santykių ir politikos mokslų instituto mokslininkus, ne pirmus metus tiriančius istorijos politikos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio
     reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus
+    universiteto Tarptautinių santykių ir politikos mokslų instituto moks-
+    lininkus, ne pirmus metus tiriančius istorijos politikos problemas (pro-
+    fesorius Raimundą Lopatą, Alvydą Jokubaitį, Vytautą Radžvilą ir kitus),
+    prašydama parengti glaustą, lengvai skaitomą, tiesos ir atvirumo kriteri-
+    jais grįstą Lietuvos istorijos veikalą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

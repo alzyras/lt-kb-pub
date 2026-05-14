@@ -46,7 +46,9 @@ Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant istorinę Li
   santrauka: 'Ambasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną su Rusija pagal 1921 m. Rygos taikos sutartį ir naują demarkacijos liniją tarp Lietuvos ir Lenkijos (Vilnius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ambasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva
     pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną
+    su Rusija pagal 1921 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

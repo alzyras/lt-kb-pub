@@ -34,7 +34,9 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklausomybės kovose generolas, Ju
   santrauka: 'Kosciuškos sukilimo metu tapęs Vilniaus gvardijos vadu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ginti Gegužės trečiosios kons-
     titucijos stos ir pats L. Gucevičius, T. Kosciuškos sukilimo metu tapęs
+    Vilniaus gvardijos vadu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,7 +48,9 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklausomybės kovose generolas, Ju
   santrauka: '1794 m. kovą Lenkijoje prasidėjo sukilimas, kuriam vadovavo iš LDK kilęs ir kovose dėl JAV nepriklausomybės pasižymėjęs generolas Tadas Kosciuška.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1794 m. kovą Lenkijoje prasidėjo sukilimas, kuriam vadovavo iš LDK
     kilęs ir kovose dėl JAV nepriklausomybės pasižymėjęs generolas Tadas
+    Kosciuška.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

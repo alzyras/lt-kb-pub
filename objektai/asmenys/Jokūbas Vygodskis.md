@@ -28,7 +28,10 @@ tags:
   santrauka: '1918 m. gruodį žydų sionistai Jokūbas Vygodskis ir S.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Netu-
+    rinčią savo stiprios vadovaujančios vidurinės klasės, nedidelę lietuvių
     inteligentijos grupę domino žydų parama, ypač jeigu Lietuva atsikurtų
+    su sostine Vilniumi.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

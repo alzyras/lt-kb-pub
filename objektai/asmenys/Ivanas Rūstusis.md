@@ -27,7 +27,10 @@ tags:
   santrauka: 'Šios politikos ideologiniu pagrindu tapo nuo Ivano Rūsčiojo laikų žinoma nuostata pretenduoti į LDK žemes, kaip Rusijai neva „istorinio pirmumo“ principu turintį priklausyti paveldą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Šios politikos ideologiniu pagrindu
     tapo nuo Ivano Rūsčiojo laikų žinoma nuostata pretenduoti į LDK žemes,
+    kaip Rusijai neva „istorinio pirmumo“ principu turintį priklausyti pavel-
+    dą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

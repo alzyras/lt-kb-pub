@@ -27,7 +27,11 @@ pirmame trečdalyje, kai buvo pastatyti reikšmingiausi paminklai Kaune ir ypač
   santrauka: 'pirmame trečdalyje, kai buvo pastatyti reikšmingiausi paminklai Kaune ir ypač Vilniuje, gotika pradėjo plisti gyvenamųjų namų statyboje, pasiekė provinciją (Kėdainiai, Zapyškis), įsivyravo net stačiatikių sakralinių pastatų architektūroje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tikra gotikos revoliucija įvyko, atrodo, XV a. pabaigoje–XVI a. pir-
+    mame trečdalyje, kai buvo pastatyti reikšmingiausi paminklai Kaune ir
+    ypač Vilniuje, gotika pradėjo plisti gyvenamųjų namų statyboje, pasie-
     kė provinciją (Kėdainiai, Zapyškis), įsivyravo net stačiatikių sakralinių
+    pastatų architektūroje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

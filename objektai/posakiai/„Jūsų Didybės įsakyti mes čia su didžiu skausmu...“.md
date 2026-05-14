@@ -30,7 +30,9 @@ Kreipdamasis į Žygimantą Augustą jis teigė: „Jūsų Didybės įsakyti mes
   santrauka: 'Kreipdamasis į Žygimantą Augustą jis teigė: „Jūsų Didybės įsakyti mes čia su didžiu skausmu ir širdgėla buvome priversti nusileisti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kreipda-
     masis į Žygimantą Augustą jis teigė: „Jūsų Didybės įsakyti mes čia su didžiu
+    skausmu ir širdgėla buvome priversti nusileisti.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

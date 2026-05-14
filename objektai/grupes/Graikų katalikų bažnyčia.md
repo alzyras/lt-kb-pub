@@ -27,7 +27,9 @@ Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropolit
   santrauka: 'Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropolitai, tik jau nuolat reziduojantys Vilniuje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropo-
     litai, tik jau nuolat reziduojantys Vilniuje. Taigi tiek stačiatikiai, tiek graikai
+    katalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -33,7 +33,10 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   santrauka: 'Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių ordino riterius (kryžiuočius).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kovodamas
     prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis
+    Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių
+    ordino riterius (kryžiuočius).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,6 +49,8 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos
+    intako Osos, už kurios piečiau jau buvo tik Kulmo žemė, mozūrų ku-
+    nigaikščių dovanota vokiečiams.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

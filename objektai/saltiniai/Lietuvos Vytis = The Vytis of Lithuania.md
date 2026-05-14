@@ -27,7 +27,8 @@ Lietuvos Vytis = The Vytis of Lithuania.
   santrauka: 'Lietuvos Vytis = The Vytis of Lithuania.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Vytis of Lithuania. Vilnius, 2009
+    Lietuvos Vytis = The
+    Vytis of Lithuania. Vilnius, 2009; Grunwald: 550 lat chwały. Oprac.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

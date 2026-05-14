@@ -33,7 +33,10 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
   santrauka: 'Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kurių lyderis visų lenkų žemių mastu Romanas Dmovskis (Roman Dmowski) vadovavosi lenkų organinio nacionalizmo doktrina.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    La-
     biausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kurių
+    lyderis visų lenkų žemių mastu Romanas Dmovskis (Roman Dmowski)
+    vadovavosi lenkų organinio nacionalizmo doktrina.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -45,7 +48,11 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
   santrauka: 'Dmovskio ir J.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Gausūs R. Dmovskio ir
     J. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą savo sudėtyje, todėl
+    1919 m. kovo 24 d. Lietuvos delegacijos notoje tvirtinta, kad Lenkija visą
+    laiką išnaudojo Lietuvą, politinė unija XVI a. su ja privedė Lietuvą prie
+    vidinio chaoso.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

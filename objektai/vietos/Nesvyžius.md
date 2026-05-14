@@ -88,6 +88,9 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje
+    (Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Euro-
+    pos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvo-
+    je, tai yra europinės reikšmės riba.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -99,7 +102,11 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   santrauka: 'Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką jos pobūdį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vėliau Radvila Juo-
+    dasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė
     konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
+    pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
+    jos pobūdį.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -111,7 +118,9 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   santrauka: 'Barokinė Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o barokinės architektūros manifestu paprastai laikoma Vilniaus Šv.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Barokinė
     Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o barokinės
+    architektūros manifestu paprastai laikoma Vilniaus Šv.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

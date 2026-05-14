@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: '2004 m. gegužės 1 d. Lietuva įstojo į ES ir įgijo teisę kurti savo ir žemyno ateitį kartu su kitomis demokratinėmis valstybėmis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    2004 m. gegužės 1 d. Lietuva įstojo į ES ir įgijo teisę
     kurti savo ir žemyno ateitį kartu su kitomis demokratinėmis valstybėmis.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -62,7 +63,10 @@ Nenurodyta
   santrauka: 'Po įstojimo į ES padidėjo Lietuvos prekybos ir eksportuojamų prekių gamybos apimtys.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tai padidino Lietuvos eksportą į kitas šalis, skatino už-
     sienio kapitalo investicijas į Lietuvos ekonomiką, paaštrino konkurenciją,
+    leido racionaliau naudoti ir paskirstyti ekonominius veiksnius (darbo ir
+    kapitalo).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -74,7 +78,12 @@ Nenurodyta
   santrauka: 'Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gyventojų atžvilgiu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kiek­
+    vienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių na-
     rių teritorijoje teisę; teisę balsuoti ir kandidatuoti vietiniuose ir Europos
+    rinkimuose toje šalyje, kurioje gyvena; teisę būti ginamas diplomatinių ir
+    konsulinių kiekvienos šalies narės įstaigų; peticijos (kolektyvinio prašy-
+    mo) Europos parlamentui teisę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

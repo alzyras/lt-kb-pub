@@ -28,7 +28,11 @@ pagaliau iš Voluinės, iš Ostroho buvo nepaprastai reikšmingą vaidmenį suva
   santrauka: 'pagaliau iš Voluinės, iš Ostroho buvo nepaprastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiškos“ kilmės kunigaikščiai Ostrogiškiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    pagaliau iš Voluinės, iš Ostroho buvo nepa-
+    Vėliau Voluinė apskritai tapo šalutinių Gedimi-
+    naičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę San-
+    guškos (Kovelis, vėliau Slavuta), Čartoriskiai (Klevanė), Vyšnioveckiai
+    (Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai Radvilos (Olyka)
+    ir Chodkevičiai (Mlynivas), pagaliau iš Voluinės, iš Ostroho buvo nepa-
     prastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiš-
     kos“ kilmės kunigaikščiai Ostrogiškiai.
   citata_rodoma: ''

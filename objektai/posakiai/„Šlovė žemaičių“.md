@@ -30,7 +30,9 @@ Parašytas ir išleistas tiems laikams novatoriškas elementorius lietuvių kalb
   santrauka: 'Parašytas ir išleistas tiems laikams novatoriškas elementorius lietuvių kalba (žemaičių tarme), poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis manifestas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m.
     parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų
+    plito nuorašais.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

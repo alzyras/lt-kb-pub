@@ -83,7 +83,9 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   santrauka: 'O Mindaugas, karūnavęsis per Vokietijos vasalą – Livonijos ordiną, tapo ne imperatoriaus, o popiežiaus vasalu ir iš karto gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    O Mindaugas, karūnavęsis per Vokietijos vasalą –
     Livonijos ordiną, tapo ne imperatoriaus, o popiežiaus vasalu ir iš karto
+    gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -96,6 +98,7 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Naujosios Europos tautoms buvo leidžiama krikštytis ir tapti imperatoriaus
+    vasalėmis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -107,7 +110,9 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   santrauka: 'Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietuva valstybingumo neprarado, tik tapo Lenkijos vasale.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    O tiksliau –
     Jogaila, Lietuvos didysis kunigaikštis, tapo Jogailos, Lenkijos karaliaus,
+    vasalu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

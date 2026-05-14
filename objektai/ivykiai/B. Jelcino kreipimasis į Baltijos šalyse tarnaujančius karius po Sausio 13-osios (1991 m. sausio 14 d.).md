@@ -40,7 +40,11 @@ Nenurodyta
   santrauka: 'Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadovas Borisas Jelcinas kreipėsi į Lietuvos, Latvijos ir Estijos teritorijoje tarnaujančius karius kviesdamas nepasiduoti reakcijos jėgoms ir, prieš šturmuojant civilinius pastatus Baltijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių
+    Vilniuje Rusijos vadovas Borisas Jelcinas kreipėsi į Lietuvos, Latvijos ir
+    Estijos teritorijoje tarnaujančius karius kviesdamas nepasiduoti reakcijos
     jėgoms ir, prieš šturmuojant civilinius pastatus Baltijos šalyse, susimąstyti
+    apie Rusijos ir jos tautų ateitį.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

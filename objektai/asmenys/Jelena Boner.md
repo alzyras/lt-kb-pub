@@ -27,7 +27,10 @@ Sacharovo žmona ir bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, 
   santrauka: 'Sacharovo žmona ir bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, jog iš lietuvių mokosi Rusijos ir kitų respublikų demokratai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Po 1991 m. sau-
+    sio 13-osios įvykių į Vilnių atvykusi akademiko A. Sacharovo žmona ir
     bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, jog iš lietuvių
+    mokosi Rusijos ir kitų respublikų demokratai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

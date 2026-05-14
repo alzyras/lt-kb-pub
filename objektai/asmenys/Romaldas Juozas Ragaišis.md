@@ -27,7 +27,10 @@ Organizacijai priklausė būrys prieš sovietų santvarką kovojusių asmenų, k
   santrauka: 'Organizacijai priklausė būrys prieš sovietų santvarką kovojusių asmenų, kai kurie jų – Romaldas Juozas Ragaišis ir A.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Organizacijai priklausė būrys
+    prieš sovietų santvarką kovojusių asmenų, kai kurie jų – Romaldas Juozas
     Ragaišis ir A. Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė,
+    Petras Cidzikas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

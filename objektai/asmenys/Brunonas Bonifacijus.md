@@ -37,7 +37,10 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
   santrauka: 'Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vystėsi iš visų baltų genčių, todėl 1009 m. Vakarų misionierius, būsimasis šventasis Brunonas Bonifacijus iš prūsų specialiai vyko į Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vakarų misionierius, būsima-
     sis šventasis Brunonas Bonifacijus iš prūsų specialiai vyko į Lietuvą. Čia
+    apkrikštijo lietuvių vadą Netimerą, tačiau šiek tiek vėliau žuvo nuo šio
+    brolio rankos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -49,7 +52,9 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
   santrauka: 'Brunono Bonifacijaus misija ir Lietuvos atradimas liko istorijos fragmentas, nes po to beveik 200 metų Lietuva neminima.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Deja, 1009  m.
     šv. Brunono Bonifacijaus misija ir Lietuvos atradimas liko istorijos fra-
+    gmentas, nes po to beveik 200 metų Lietuva neminima.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,7 +66,9 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
   santrauka: 'Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą, kuris įtikėjo ir krikštijosi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1009-ieji Lietuvai praneša ne tik apie kriminalą, bet ir kur kas dau-
     giau – šv. Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą,
+    kuris įtikėjo ir krikštijosi.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

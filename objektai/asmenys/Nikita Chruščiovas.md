@@ -32,7 +32,10 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Chruščiov
   santrauka: 'Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Padėtis ėmė keistis 1953 m. mirus J. Stalinui, o ypač po trejų metų Ni-
+    kitai Chruščiovui pasmerkus J. Stalino kultą – susilpnėjo rusinimas, val-
     džia pradėjo labiau pasitikėti vietiniais lietuviais. Visoje SSRS kalinius ir
+    tremtinius pradėta leisti į laisvę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -45,6 +48,9 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Chruščiov
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     J. Stalino laikais okupacinė valdžia dvasininkiją stengėsi sunaikinti fiziš-
+    kai, ištremti, bažnyčias paversti sandėliais, o N. Chruščiovo laikais bažny-
+    čią imta diskredituoti, spausti morališkai, nors iš trėmimų vietų sugrįžo
+    130 kunigų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

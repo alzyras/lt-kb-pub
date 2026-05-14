@@ -27,7 +27,10 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   santrauka: 'Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliucijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir metė Raudonosios armijos divizijas paskui traukiančią namo vokiečių kariuomenę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliu-
     cijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir
+    metė Raudonosios armijos divizijas paskui traukiančią namo vokiečių
+    kariuomenę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

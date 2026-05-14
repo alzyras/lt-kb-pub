@@ -46,7 +46,10 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   santrauka: 'Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo nacijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena, davė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant, kur Taryba veda Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo na-
+    cijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena,
     davė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant,
+    kur Taryba veda Lietuvą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -58,6 +61,7 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   santrauka: 'Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams
     atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -70,7 +74,12 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   santrauka: 'Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Pradiniame etape Sąjūdis iš es-
+    mės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų eta-
     pais siejo tik laisvos Lietuvos siekis. M. Gorbačiovas, rungdamasis su senąja
+    SSKP vadovybe, buvo priverstas remtis reformas palaikančiomis jėgomis,
+    o LPS stengėsi remti Maskvoje pradėtas reformas ir siekė jas įgyvendinti
+    Lietuvoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -83,6 +92,8 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     „Suverenumo“ sąvoka pamažu keitėsi, kol kas nekalbėta apie politinės sis-
+    temos keitimą, o tautiniu klausimu
+    pasisakyta atsargiai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -94,7 +105,10 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   santrauka: 'LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbiančios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija dėl Lietuvos SSR valstybinio suvereniteto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    LPS reika-
+    laujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbian-
     čios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija
+    dėl Lietuvos SSR valstybinio suvereniteto.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

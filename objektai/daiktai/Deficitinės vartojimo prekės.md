@@ -73,7 +73,12 @@ Nenurodyta
   santrauka: Baldai, indai, televizoriai, medicinos reikmenys ir vaistai įvardyti kaip deficitinės prekės.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau tai nereiškė
+    gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės buvo apytuštės, trū-
     ko mėsos, daržovių, sviesto, dažnai netgi duonos ir kitų maisto produktų,
+    ilgose eilėse žmonės laukdavo talonų (leidimo) įsigyti baldus, indus, tele-
+    vizorius, be to, katastrofiškai trūko butų, medicinos reikmenų, vaistų – fak-
+    tiškai viskas buvo deficitas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

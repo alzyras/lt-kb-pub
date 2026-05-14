@@ -28,7 +28,11 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   santrauka: 'sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą (Bona Sforza).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Renesansas ir reformacija
+    Humanistinio išsilavinimo žmonių būta jau XV–XVI a.
     sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko
+    Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą
+    (Bona Sforza).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

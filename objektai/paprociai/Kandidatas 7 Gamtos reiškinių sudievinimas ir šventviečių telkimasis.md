@@ -42,7 +42,9 @@ Nenurodyta
   santrauka: 'Toks gamtos reiškinių, ypač žemės, sudievinimas trukdė plėstis žemės dirbimui, todėl šventumas pamažu koncentravosi šventvietėse.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Senieji lietuviai
     visur – dangaus skliaute su Saule, Mėnuliu ir žvaigždėmis, žemėje, ugnyje
+    ir vandenyje – matę šventybės raišką.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

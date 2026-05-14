@@ -43,6 +43,7 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
   santrauka: 'Vilniaus universiteto Didysis kiemas ir Šv.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Jonų bažnyčia
     iš J. K. Vilčinskio „Vilniaus albumo“. Dail.  Ph. Benoist, A. Bayot, 1850 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -79,7 +80,9 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
   santrauka: 'Senųjų laikų reminiscencija – Vilniaus Verkių rūmų interjeras iš J.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nors Lietuvos „raudonieji“ buvo už lygiateisį federacinį ryšį su Lenkija,
     Senųjų laikų reminiscencija – Vilniaus Verkių rūmų interjeras
+    iš J. K. Vilčinskio „Vilniaus albumo“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -91,7 +94,11 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
   santrauka: 'Vilčinskio „Vilniaus albumo“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    „Vilniaus albumo“. Dail. A. Lafosse, 1857 m.
+    Po poros metų šių blaivybės
+    brolijų nariais buvo per 80 proc. vyskupijos gyventojų katalikų – taigi
+    lietuviai metė gerti degtinę, kaipmat pakilo ūkių gerovė, sustiprėjo šei-
+    Motiejus Valančius iš J. K. Vilčinskio
+    „Vilniaus albumo“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -45,7 +45,9 @@ Nenurodyta
   santrauka: 'Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir vilties šaltinio, prasmė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Taip Kryžių kalnas (jį 1993 m.
     aplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška
+    Golgota.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

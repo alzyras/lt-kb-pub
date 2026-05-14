@@ -42,7 +42,9 @@ Nenurodyta
   santrauka: 'pradžioje pagrindinėmis varžovėmis dėl jarlyko (chanų duodama privilegija rinkti duoklę Aukso ordai iš kitų rusų kunigaikščių) tapo Tverė ir Maskva, kovą laimėjo pastaroji, įsitvirtinusi ir Vladimire.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Taip liko neįgyvendintos Algirdo išsa-
     kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o
+    Vilnius nevirto „antruoju Kijevu“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

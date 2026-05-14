@@ -58,7 +58,9 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   santrauka: 'Maskvoje spalio 3-iąją Josifas Stalinas spaudė J.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Urbšį pasirašyti savitarpio
     pagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį
+    dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -70,7 +72,10 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   santrauka: 'Stalinui ir V.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija
     jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J. Stalinui ir
+    V. Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir
+    SSRS ir Lietuvos savitarpio pagalbos sutartis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -82,7 +87,10 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   santrauka: 'Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Padėtis ėmė keistis 1953 m. mirus J. Stalinui, o ypač po trejų metų Ni-
+    kitai Chruščiovui pasmerkus J. Stalino kultą – susilpnėjo rusinimas, val-
     džia pradėjo labiau pasitikėti vietiniais lietuviais. Visoje SSRS kalinius ir
+    tremtinius pradėta leisti į laisvę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -95,6 +103,9 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     pasipriešinimas Lietuvoje buvo stipriausias – čia dar naiviai tikėta Vakarais,
+    kad komunistų valdymas ilgai netruks, o JAV ir Didžioji Britanija ilgainiui
+    įvykdys Atlanto chartijos pažadus sugrąžinti nepriklausomybę dėl karo jos
+    netekusioms šalims, kad Vakarai pakils į žygį prieš J. Stalino SSRS.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -106,7 +117,12 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   santrauka: 'Stalino valdymo metais vyko tiesmukas lietuvių kultūros griovimas, siekiant su šaknimis išrauti bet kokį tautiškumą, nes visas kultūros sritis kontroliavo ir griežtai administravo, kiekvieną eilutę cenzūravo komunistų partija: primesta marksistinė-lenininė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kultūros suvienodinimas
+    J. Stalino valdymo metais vyko tiesmukas lietuvių kultūros
+    griovimas, siekiant su šaknimis išrauti bet kokį tautiškumą, nes visas kul-
     tūros sritis kontroliavo ir griežtai administravo, kiekvieną eilutę cenzūravo
+    komunistų partija: primesta marksistinė-lenininė filosofija, skiepijama ko-
+    munistinė ideologija, kurią turėjo skleisti visos kultūros įstaigos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -118,7 +134,10 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   santrauka: 'Stalino statulų, prikabinėta komunistinių šūkių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietu-
     vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
+    pristatyta sovietinio kario nugalėtojo, V. Lenino, J. Stalino statulų, pri-
+    kabinėta komunistinių šūkių.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -130,7 +149,10 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   santrauka: 'Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžiagą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Mokytojai verčiami studijuoti
     V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų
+    partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-
+    gą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -143,6 +165,9 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     J. Stalino laikais okupacinė valdžia dvasininkiją stengėsi sunaikinti fiziš-
+    kai, ištremti, bažnyčias paversti sandėliais, o N. Chruščiovo laikais bažny-
+    čią imta diskredituoti, spausti morališkai, nors iš trėmimų vietų sugrįžo
+    130 kunigų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -96,11 +96,6 @@ A. Smetona rodomas kaip tautinio judėjimo ir nepriklausomybės laikotarpio poli
   teiginys: 'Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyderius.'
   pagrindžia:
     - c-009
-- t-010
-  teiginys: 'Smetona, tikintis, Lietuvių konferencijos Vilniuje prezidiumas (1917 m. rugsėjis).'
-  pagrindžia:
-    - c-010
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: A. Smetona buvo išvarytas iš gimnazijos
@@ -129,6 +124,10 @@ A. Smetona rodomas kaip tautinio judėjimo ir nepriklausomybės laikotarpio poli
     vius į vienybę, gynė opiuosius tautos reikalus, kovojo su Rusų
     priespauda ir lenkų pastangomis nutautinti lietuvius, išvaryti lie-
     tuvių kalbą iš bažnyčių ir t. t.
+    Tuo metu tautiškoji veikla taip pagyvėjo, kad, praslinkus
+    10 m. nuo spaudos atgavimo, Rusijos ribose jau ėjo net 25 lie-
+    tuviški laikraščiai (10 Kaune, 8 Vilniuje, 3 Seinuose, 3 Rygoje,
+    1 Žem.
   citata_rodoma: ""
   teiginio_tipas: vertinimas
   patikimumo_lygis: vidutinis
@@ -224,7 +223,11 @@ A. Smetona rodomas kaip tautinio judėjimo ir nepriklausomybės laikotarpio poli
   santrauka: 'Smetonos, „ji liovėsi būti valstybe“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Padalijus kraštą į apskritis, kurių ribos buvo
+    dažnai kaitaliojamos, 1916 m. birželį Lietuvos apskritis (su centru Kau-
+    ne) suvienyta su Vilniaus apskritimi, o 1918 m. įsteigta Lietuvos karinė
     valdyba (Militaerverwaltung Litauen). Nuostabiausia tai, kad žemėlapyje
+    į pietus nutįsusi Oberosto teritorija forma kone sutapo su 1793–1795 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -237,6 +240,8 @@ A. Smetona rodomas kaip tautinio judėjimo ir nepriklausomybės laikotarpio poli
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Per karą daugeliui gyventojų likus be namų ir lėšų, atsiradus minioms
+    padegėlių ir benamių, susikūrė draugija nuo karo nukentėjusiesiems šelp-
+    ti.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -244,18 +249,6 @@ A. Smetona rodomas kaip tautinio judėjimo ir nepriklausomybės laikotarpio poli
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
-- c-010
-  santrauka: 'Smetona, tikintis, Lietuvių konferencijos Vilniuje prezidiumas (1917 m. rugsėjis).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    ninku – teisininkas, lietuviškų laikraščių redaktorius A. Smetona, tikintis,
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
 
 ## Ryšiai
 ### Laikotarpiai

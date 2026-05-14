@@ -89,7 +89,11 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   santrauka: 'Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūsijos hercogija, o dar vėliau – Prūsijos karalija) pradėta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietuva (visa kita Lietuva vėliau – atrodo, XIX a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau
+    pasivadinusioje Prūsijos hercogija, o dar vėliau – Prūsijos karalija) pradė-
+    ta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietu-
     va (visa kita Lietuva vėliau – atrodo, XIX a. – pradėta vadinti Didžiosios
+    Lietuvos vardu).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -101,7 +105,12 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   santrauka: 'Prūsijoje buvo net oficialiai vartojamas Lietuvos vardas – įsteigtas Lietuvos departamentas, kurio centras Gumbinė, – ilgainiui dėl germanizacijos ir savaiminio lietuvių vokietėjimo lietuvių kalbos vartojimas Prūsijoje siaurėjo, o po Antrojo pasaulinio karo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Prūsijoje buvo net oficia-
     liai vartojamas Lietuvos vardas – įsteigtas Lietuvos departamentas, kurio
+    centras Gumbinė, – ilgainiui dėl germanizacijos ir savaiminio lietuvių
+    vokietėjimo lietuvių kalbos vartojimas Prūsijoje siaurėjo, o po Antrojo
+    pasaulinio karo, iš Prūsijos pasitraukus seniesiems gyventojams, lietuviš-
+    kai kalbančiųjų nebeliko.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -113,7 +122,10 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   santrauka: 'Visų pirma – tai Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa, pateikusi pirmą lietuvišką knygą, o ir pradėjusi lietuviakalbės raštijos tradiciją, tačiau ji buvo kuriama emigracijoje – Prūsijoje, ir jos neprireikė LDK elitui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Visų pirma – tai
+    Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa, pateikusi
     pirmą lietuvišką knygą, o ir pradėjusi lietuviakalbės raštijos tradiciją, tačiau
+    ji buvo kuriama emigracijoje – Prūsijoje, ir jos neprireikė LDK elitui.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

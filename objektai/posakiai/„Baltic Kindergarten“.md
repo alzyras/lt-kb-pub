@@ -29,7 +29,14 @@ Pakviesti į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo
   santrauka: 'Pakviesti į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo daug ambicijų, gerų sumanymų ir energijos, o dėl savo jaunumo ir trykštančio entuziazmo, netradicinių žingsnių greitai užsitarnavo vyresnio amžiaus Vakarų diplomatų epitetą „Baltic.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Jauni įvai-
+    rių sričių specialistai paplūdo į atkurtą Lietuvos Respublikos užsienio rei-
     kalų ministeriją, daugelis šalių kvietė juos mokytis diplomatijos. Pakviesti
+    į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo daug
+    ambicijų, gerų sumanymų ir energijos, o dėl savo jaunumo ir trykštančio
+    entuziazmo, netradicinių žingsnių greitai užsitarnavo vyresnio amžiaus
+    Vakarų diplomatų epitetą „Baltic Kindergarten“…
+    Vilniuje pašalinamas Lenino paminklas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

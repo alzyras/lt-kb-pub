@@ -28,7 +28,10 @@ rties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti
   santrauka: 'rties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų belaisvius ir „prišlieti“ Lietuvą prie Lenkijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Su-
+    tarties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti
     Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų
+    belaisvius ir „prišlieti“ Lietuvą prie Lenkijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

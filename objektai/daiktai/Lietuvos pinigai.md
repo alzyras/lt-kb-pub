@@ -82,12 +82,6 @@ Nenurodyta
     - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-006
-  teiginys: Zigmanto II laikais kalykla buvo Vilniuje, o jo piniguose buvo vartojama tik didžiojo Lietuvos kunigaikščio titulatura.
-  pagrindžia:
-    - c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-007
   teiginys: Zigmanto Augusto laikais Lietuvoje buvo nukalta labai daug ir įvairių pinigų, nuo obolio iki dukato.
   pagrindžia:
@@ -185,6 +179,7 @@ Nenurodyta
   santrauka: Aprašo kapas kaip seniausius Lietuvos sidabro pinigus ir jų formų įvairovę.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    II Lietuvos pinigai
     1—3 Seniausieji Lietuvos sidabro pinigai — kapos, lietos iš sidabro
     tam tikrose formose. Jų randama įvairių — ilgų ir perpus trumpesnių
 
@@ -219,6 +214,7 @@ Nenurodyta
   santrauka: Aprašo Vytauto laikų pinigėlių nominalus ir ankstyvą jų minėjimą dokumentuose.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Lentelėse duodamieji pavyzdžiai:
     4—10 — Vytauto laikų _pinigėliai_ (dokumentuose minimi jau 1387 m.;
     10 pinigėlių = 1 skatikui; vėliau, XVI amž., jie buvo sulyginti su _denarais);_
     5 — _pusskatikis_ (= 5 pinigėliams) ; 6 ir 7 — _dvidenariai_ (^2 /в skatiko) ; 8 —
@@ -258,26 +254,12 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-- c-006
-  santrauka: Apibrėžia Zigmanto II pinigų kaldinimo vietą ir titulų vartoseną.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Zigmanto II** pinigai: 14 — _pusskatikis;_ 15 — _skatikas._ Zigmanto II
-    laikais kalykla buvo Vilniuje, ir kai kuriuose piniguose po Vytimi yra raidė
-    „V". Lietuvos piniguose Zigmantas II savo Lenkų karaliaus titulo nemini,
-    — tik didžiojo Liet. kunigaikščio. Kalyklai vadovavo žinomo kardinolo,
-    Hozijo, tėvas Ulrichas, bet piniguose jo vardo nėra,
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
 - c-007
   santrauka: Parodo Zigmanto Augusto laikų monetų įvairovę ir jų nominalus.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Kalyklai vadovavo žinomo kardinolo,
+    Hozijo, tėvas Ulrichas, bet piniguose jo vardo nėra,
     **Zigmanto Augusto** pinigai: 16 — _obolis,_ arba _pusdenaris_ (jo dydis
     yra lygus denaro dydžiui, bet sidabro kokybė perpus prastesnė); 17 — _de-
     naras;_ 18 — _dvidenaris;_ 19 — _pusskatikis;_ 20 — skatikas; 21 — _trečiokas_
@@ -376,26 +358,6 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
-- c-012
-  santrauka: Nurodo Jono Kazimiero laikų monetų gausą, kalyklas ir pirmuosius varinius pinigus.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Jono Kazimiero** pinigai: 35 — _šilingas;_ 36 — _trečiokas;_ 37 — _šeštokas;_
-    38 — _orta_ (=18 skatikų); 39 — _pusdukatis_ (auksinis); 40 — _dukatas._ Jono
-    Kazimiero laikais lietuviškų pinigų buvo kalama apsčiai. Be Vilniaus ka-
-    lyklos, jo laikais dar veikė kalyklos Brastoje ir Kaune, o be to, kurį metą
-    lietuviški pinigai buvo kalami ir Lenkijoje — Ujazdove ir Olivoje. Visos
-    kalyklos ir jų vedėjai piniguose dėjo savo ženklus, dėl to jie yra labai
-    įvairūs. Įvairūs jie buvo ir pagal vertę. Be matomų lentelėje (35—40 nr.),
-    dar buvo kalami _variniai šilingai_ (tai buvo iš viso pirmieji lietuviški vario
-    pinigai), _skatikai, pusantraskatikiai_ ir _auksinai._
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-012
 - c-013
   santrauka: Tiesiogiai nurodo vienintelį žinomą Jono Sobieskio pinigą.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -542,7 +504,9 @@ Nenurodyta
   santrauka: 'Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksinais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Sunkmečiu labai nukritęs vokiškų pinigų kursas neigiamai veikė Lie-
     tuvos ekonomiką, katastrofiški infliacijos padariniai vertė Lietuvos valdžią
+    ieškoti sprendimo.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -554,7 +518,9 @@ Nenurodyta
   santrauka: 'Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-
     niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
+    auksu paremtas litas, kurį sudaro 100 centų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -566,7 +532,10 @@ Nenurodyta
   santrauka: 'Per visą nepriklausomos Lietuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose užsienio valstybėse.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Per visą nepriklausomos Lie-
     tuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais
+    popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose už-
+    sienio valstybėse.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -29,7 +29,9 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
   santrauka: 'Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai – pradėti laikyti ypač iškiliais žydais, besiskiriančiais nuo kitų griežtu religinės tradicijos laikymusi, intelektualiu racionalumu ir pagarba išsimokslinimui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Be to, Talmudas buvo studijuojamas
     jidiš kalbos tarme, susiformavusia Lietuvoje ir vadinama litviš. Maža to,
+    ilgainiui būtent litviš tarmė tapo norminės jidiš kalbos pagrindu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

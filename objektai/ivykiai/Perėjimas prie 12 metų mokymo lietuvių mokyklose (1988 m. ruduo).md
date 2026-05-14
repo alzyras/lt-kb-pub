@@ -39,7 +39,11 @@ Nenurodyta
   santrauka: 'pedagogų) okupuota Lietuva tapo bendros SSRS švietimo sistemos dalimi, nors Lietuvoje, motyvuojant reikalu mokytis lietuvių kalbos, išliko 11 klasių vidurinis mokymas, o visoje SSRS įvesta unifikuota 10 metų vidurinio mokymo sistema.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Pokariu (1945–1948 m. ištremta dar apie 1,2 tūkst. pedagogų) oku-
+    puota Lietuva tapo bendros SSRS švietimo sistemos dalimi, nors Lietuvo-
     je, motyvuojant reikalu mokytis lietuvių kalbos, išliko 11 klasių vidurinis
+    mokymas, o visoje SSRS įvesta unifikuota 10 metų vidurinio mokymo sis-
+    tema.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

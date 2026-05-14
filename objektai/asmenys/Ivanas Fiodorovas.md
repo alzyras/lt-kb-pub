@@ -45,14 +45,18 @@ Ivanas Fiodorovas pristatomas kaip pirmasis Maskvos spaustuvininkas, kurį Chodk
 - t-003
   teiginys: '1569 m. su Radvilomis ėmė konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką jos pobūdį.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Fiodorovas siejamas su Zabluduvo spaustuve ir jos stačiatikišku pobūdžiu.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vėliau Radvila Juo-
+    dasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė
+    konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
     pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
+    jos pobūdį.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -62,17 +66,6 @@ Ivanas Fiodorovas pristatomas kaip pirmasis Maskvos spaustuvininkas, kurį Chodk
   pagrindžia:
     - t-001
     - t-002
-- c-002
-  santrauka: '1569 m. su Radvilomis ėmė konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką jos pobūdį.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
     - t-003
 
 ## Ryšiai

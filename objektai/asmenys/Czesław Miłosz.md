@@ -32,6 +32,8 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
   santrauka: 'lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu save laikė Nobelio premijos laureatas Česlovas Milošas (Czesław Miłosz).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Istorinės Lietuvos dainiumi tapo žymusis XIX a. lenkų poe-
+    tas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu
     save laikė Nobelio premijos laureatas Česlovas Milošas (Czesław Miłosz).
   citata_rodoma: ''
   teiginio_tipas: faktas

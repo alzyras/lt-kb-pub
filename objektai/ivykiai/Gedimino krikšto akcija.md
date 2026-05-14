@@ -42,7 +42,10 @@ Nenurodyta
   santrauka: 'Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Gediminas kūrė stačiatikių metro-
     poliją, ryžosi krikštytis pats ir įkurti katalikų arkivyskupiją. Šia bažnytine
+    politika jis sugebėjo sudominti popiežių Joną XXII, kuris jau tais laikais
+    kėlė bažnytinės unijos idėją.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -49,8 +49,9 @@ Vartojamas kalbant apie Tverės ir Maskvos varžybas XIV a. pradžioje.
   santrauka: Jarlykas paaiškinamas kaip chanų suteikiama privilegija.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    jarlyko (chanų duoda-
-    ma privilegija rinkti duoklę Aukso ordai iš kitų rusų kunigaikščių)
+    XIV a. pradžioje pagrindinėmis varžovėmis dėl jarlyko (chanų duoda-
+    ma privilegija rinkti duoklę Aukso ordai iš kitų rusų kunigaikščių) tapo
+    Tverė ir Maskva, kovą laimėjo pastaroji, įsitvirtinusi ir Vladimire.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

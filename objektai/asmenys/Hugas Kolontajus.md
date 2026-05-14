@@ -28,7 +28,9 @@ Kolontajus nebūtų parėmęs valdovo pozicijos.
   santrauka: 'Kolontajus nebūtų parėmęs valdovo pozicijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kiekybiškai tai – nepaprastai maža persvara, ir
     tokios nebūtų buvę, jei netikėtai vadinamosios Patriotų partijos vienas iš
+    vadų H. Kolontajus nebūtų parėmęs valdovo pozicijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -32,7 +32,11 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
   santrauka: 'Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadovas Borisas Jelcinas kreipėsi į Lietuvos, Latvijos ir Estijos teritorijoje tarnaujančius karius kviesdamas nepasiduoti reakcijos jėgoms ir, prieš šturmuojant civilinius pastatus Baltijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių
+    Vilniuje Rusijos vadovas Borisas Jelcinas kreipėsi į Lietuvos, Latvijos ir
+    Estijos teritorijoje tarnaujančius karius kviesdamas nepasiduoti reakcijos
     jėgoms ir, prieš šturmuojant civilinius pastatus Baltijos šalyse, susimąstyti
+    apie Rusijos ir jos tautų ateitį.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -45,6 +49,7 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Abiejų šalių parlamentų pirmininkai – V. Landsbergis ir B. Jelcinas – ją
+    pasirašė 1991 m. liepos 29 d. (įsigaliojo po metų).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

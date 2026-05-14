@@ -67,7 +67,10 @@ Brastos Biblija minima kaip 1563 m. Mikalojaus Radvilos Juodojo lenkiškai išle
   santrauka: Citata pagrindžia leidinio datą, kalbą ir ryšį su Mikalojumi Radvila Juoduoju.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    XVI a. šeštajame–septintajame dešimtmetyje beveik visi didikai buvo
+    perėję į reformaciją ir sekuliarizavę savo pačių funduotas bažnyčias – tai
     sudarė pusę visų bažnyčių. Kalvinizmas vėliau pradėjo nykti, tačiau išliko
+    iki šių dienų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -80,7 +83,11 @@ Brastos Biblija minima kaip 1563 m. Mikalojaus Radvilos Juodojo lenkiškai išle
   santrauka: 'Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Juodasis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vėliau Radvila Juo-
+    dasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė
     konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
+    pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
+    jos pobūdį.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -92,7 +99,10 @@ Brastos Biblija minima kaip 1563 m. Mikalojaus Radvilos Juodojo lenkiškai išle
   santrauka: 'Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į kokią kitą) kalbą dėl to, kad „būtų liaudžiai suprantama“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nors radosi ir lietuviakalbė
+    raštijos tradicija, LDK visuomenės politinis elitas lietuviakalbės kultūri-
     nės programos nesulaukė ir rinkosi lenkakalbę. Lietuvių kalbą išlaikė tik
+    smulkioji bajorija, o tvirčiausiai – valstiečiai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

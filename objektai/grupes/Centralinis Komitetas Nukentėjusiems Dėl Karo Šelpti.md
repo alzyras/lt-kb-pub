@@ -26,12 +26,6 @@ tags:
 Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti, kurs greitai išplėtė pagalbos ir pašalpos teikiamąjį darbą, tam tikslui gaudamas iš Rusijos vyriausybės lėšų ir rinkdamas aukas. Komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vicepirmininkas A. Smetona, sekretorius St. Šilingas, iždininkas J. Kymantas; jo nariai buvo E. Vileišienė, kun. Olšauskas, kun. Kukta, kun. Dogelis, dr. A. Vilei.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti, kurs greitai išplėtė pagalbos ir pašalpos teikiamąjį darbą, tam tikslui gaudamas iš Rusijos vyriausybės lėšų ir rinkdamas aukas'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-002
   teiginys: 'Komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vicepirmininkas A. Smetona, sekretorius St. Šilingas, iždininkas J. Kymantas; jo nariai buvo E. Vileišienė, kun. Olšauskas, kun. Kukta, kun. Dogelis, dr. A. Vilei'
   pagrindžia:
@@ -81,24 +75,6 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
     - c-010
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti, kurs greitai išplėtė pagalbos ir pašalpos teikiamąjį darbą, tam tikslui gaudamas iš Rusijos vyriausybės lėšų ir rinkdamas aukas
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    tuo susirūpino). Lapkričio mėnesį Vilniuje buvo įkurtas Cen-
-
-
-    Centralinis Komitetas Draugijos Nukentėjusiems Dėl Karo Šelpti
-    (Vilniuje 1915 m.).
-    tralinis Komitetas Nukentėjusiems Dėl Karo
-    Šelpti, kurs greitai išplėtė pagalbos ir pašalpos teikiamąjį
-    darbą, tam tikslui gaudamas iš Rusijos vyriausybės lėšų ir rink-
-    damas aukas.
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 - c-002
   santrauka: Komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vicepirmininkas A. Smetona, sekretorius St. Šilingas, iždininkas J. Kymantas; jo nariai buvo E. Vileišienė, kun. Olšauskas, kun. Kukta, kun. Dogelis, dr. A. Vilei
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -160,6 +136,7 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   santrauka: Komiteto įgaliotiniai, nusiųsti į Šiaurės Ameriką, paskatino ten lietuvius rinkti aukas (Amerikos prezidentas Vilsonas net paskyrė specialią dieną rinkliavai).
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Komitetas rūpinosi per savo atstovus Skan-
     dinavijoje ir Šveicarijoje ir lietuvių belaisviais Vokietijoje. Ko-
     miteto įgaliotiniai, nusiųsti į Šiaurės Ameriką, paskatino ten lie-
     tuvius rinkti aukas (Amerikos prezidentas Vilsonas net paskyrė
@@ -226,6 +203,8 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Per karą daugeliui gyventojų likus be namų ir lėšų, atsiradus minioms
+    padegėlių ir benamių, susikūrė draugija nuo karo nukentėjusiesiems šelp-
+    ti.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

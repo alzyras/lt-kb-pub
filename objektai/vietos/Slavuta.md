@@ -29,7 +29,11 @@ Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo
   citata_originali: |
     Vėliau Voluinė apskritai tapo šalutinių Gedimi-
     naičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę San-
-    guškos (Kovelis, vėliau Slavuta),
+    guškos (Kovelis, vėliau Slavuta), Čartoriskiai (Klevanė), Vyšnioveckiai
+    (Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai Radvilos (Olyka)
+    ir Chodkevičiai (Mlynivas), pagaliau iš Voluinės, iš Ostroho buvo nepa-
+    prastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiš-
+    kos“ kilmės kunigaikščiai Ostrogiškiai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -37,7 +41,3 @@ Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kovelis]]

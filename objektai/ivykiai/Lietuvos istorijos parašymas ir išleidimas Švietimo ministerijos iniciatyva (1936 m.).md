@@ -41,7 +41,10 @@ Nenurodyta
   santrauka: '1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos Respublikos švietimo ministerijos (viceministro Ka-
+    zimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para-
     šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas
+    Šapoka.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

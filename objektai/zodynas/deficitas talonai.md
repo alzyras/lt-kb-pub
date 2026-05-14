@@ -21,17 +21,17 @@ Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės b
   teiginys: 'Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės buvo apytuštės, trūko mėsos, daržovių, sviesto, dažnai netgi duonos ir kitų maisto produktų, ilgose eilėse žmonės laukdavo talonų (leidimo) įsigyti baldus, indus, televizorius, be to.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Šaipantis iš komandinės, planinės ekonomikos neefektyvumo niūriai juokauta, kad jeigu Sacharos dykumoje būtų įvestas socializmas, netrukus ten atsirastų smėlio deficitas...'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės buvo apytuštės, trūko mėsos, daržovių, sviesto, dažnai netgi duonos ir kitų maisto produktų, ilgose eilėse žmonės laukdavo talonų (leidimo) įsigyti baldus, indus, televizorius, be to.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau tai nereiškė
+    gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės buvo apytuštės, trū-
     ko mėsos, daržovių, sviesto, dažnai netgi duonos ir kitų maisto produktų,
+    ilgose eilėse žmonės laukdavo talonų (leidimo) įsigyti baldus, indus, tele-
+    vizorius, be to, katastrofiškai trūko butų, medicinos reikmenų, vaistų – fak-
+    tiškai viskas buvo deficitas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -39,18 +39,6 @@ Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės b
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Šaipantis iš komandinės, planinės ekonomikos neefektyvumo niūriai juokauta, kad jeigu Sacharos dykumoje būtų įvestas socializmas, netrukus ten atsirastų smėlio deficitas...'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    neefektyvumo niūriai juokauta, kad jeigu Sacharos dykumoje būtų įvestas
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

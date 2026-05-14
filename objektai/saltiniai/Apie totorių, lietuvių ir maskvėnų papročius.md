@@ -30,7 +30,11 @@ Kitas Lietuvos bajoriškosios visuomenės istorinės sąmonės siužetas formavo
   santrauka: 'Kitas Lietuvos bajoriškosios visuomenės istorinės sąmonės siužetas formavosi iškeliant Vytautą ir jo laikus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau viską nulė-
+    mė dar viena aplinkybė – didžiausią įtaką Lietuvos kultūrai darė lenkiškoji
     civilizacija. Jos poveikis reiškėsi įvairiais pavidalais: bažnytinės sistemos
+    organizavimu, studijomis Krokuvos universitete, administracinės sistemos
+    perėmimu, ūkio reforma.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

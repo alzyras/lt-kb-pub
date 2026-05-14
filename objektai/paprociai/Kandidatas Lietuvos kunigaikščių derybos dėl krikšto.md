@@ -45,7 +45,10 @@ Nenurodyta
   santrauka: 'Nors nebus nė vieno kunigaikščio, kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebeleisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą nuo krikščionybės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nors nebus nė vieno kunigaikščio,
+    kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebe-
     leisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą
+    nuo krikščionybės.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

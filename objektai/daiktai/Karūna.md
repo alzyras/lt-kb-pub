@@ -58,13 +58,6 @@ Nenurodyta
     - c-013
     - c-005
     - c-006
-    - c-007
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Mindaugas savo dokumente karūną įvardijo kaip karalystės diademą.'
-  pagrindžia:
-    - c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-007
@@ -133,12 +126,6 @@ Nenurodyta
   teiginys: 'Vytautas tikėjosi, kad po naujų derybų Zigmantas galės siųsti karūną tiesiog per Lenkiją.'
   pagrindžia:
     - c-022
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-018
-  teiginys: 'Pagal naująjį projektą Vytauto karūna po jo mirties turėjo atitekti vienam Jogailos sūnų.'
-  pagrindžia:
-    - c-023
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-019
@@ -217,6 +204,7 @@ Nenurodyta
   santrauka: Popiežius Mindaugui suteikė karaliaus vainiką.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Tiesa,
     popiežius palankiai sutiko Mindaugo žygį in suteikė jam karaliaus
     vainiką.
   citata_rodoma: ""
@@ -239,33 +227,6 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
-- c-007
-  santrauka: Mindaugo karūną uždėjo Livonijos magistras Andrius.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jo patepimo apeigas atliko Kulmo vyskupas H. Heiden­
-    reichas, o Livonijos magistras Andrius uždėjo karūną, kurią jis buvo
-    pažadėjęs iš popiežiaus išrūpinti
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-- c-008
-  santrauka: Mindaugo dokumente karūna įvardyta kaip karalystės diadema.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    « In regem Lettowie oleo sacrato peruncti, regni suscepimus diadema-
-    tem » (LUB I, 243).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006
 - c-009
   santrauka: Kęstučiui buvo žadėtas karališkas titulas ir karaliaus ženklai.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -283,6 +244,7 @@ Nenurodyta
   santrauka: Kęstučiui turėjo būti išrūpinta karaliaus karūna.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Darydamas taiką su Vengrijos karaliumi Liudviku Anjou,
     Kęstutis žadėjo jam pagalbą ir sutiko pats su savo broliais ir
     valdiniais priimti krikštą. Už tai Liudvikas jam turėjo iš popie­
     žiaus išrūpinti karaliaus karūną.
@@ -318,6 +280,8 @@ Nenurodyta
   santrauka: Vytautas buvo priėmęs husitų čekų siūlomą karaliaus karūną.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Vytautas buvo taip pat pirmasis Lietuvos valdovas, kuris
+    susirišo labiau su universalinėmis jėgomis. Jis turėjo daug santy­
     kių, kaip rodo ir gausi korespondencija, su imperatoriumi ir popie­
     žiumi. Norėdamas « atmokėti» imp. Zigmantui už Breslavo spren­
     dimą^7 , už Žemaičių priskyrimą ordinui, Vytautas buvo net priė­
@@ -500,36 +464,14 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-017
-- c-023
-  santrauka: Naujasis projektas karūną po Vytauto mirties skyrė vienam Jogailos sūnų.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pagal naująjį projektą Vytautas būna
-    Lietuvos karalium iki gyvos galvos ir išduodamas raštą pasiža­
-    da, kad po mirties jo karūna turi atitekti vienam Jogailos sūnų
-
-    (^1) ) C. ep. V. 1341 nr.
-    (^2) ) Kol., 159 p.
-    (^3) ) T. p., 152,
-
-
-    ```
-    230
-    ```
-    ```
-    — „jaunam karaliui“^1
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-018
 - c-024
   santrauka: 'Lietuva liks savarankiška civilizacinė monada, todėl tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš svetur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuva liks savarankiška civilizacinė monada, todėl
+    tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš sve-
     tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps
+    mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -541,7 +483,9 @@ Nenurodyta
   santrauka: 'Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diploma-
     tija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę
+    Livonijos ordino magistrą Andrių Štirlandą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -553,7 +497,10 @@ Nenurodyta
   santrauka: 'Svarbiausias tikslas, kurio siekta krikštijantis, – karūna.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Svarbiausias tikslas, kurio siekta krikštijantis, – ka-
     rūna. Tikslas buvo pasiektas 1253 m. liepos 6-ąją. Mindaugo vainikavimo
+    dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pir-
+    mas ir vienintelis vainikuotas Lietuvos karalius.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -46,12 +46,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Karaliaučiaus rinka buvo svarbi Lietuvos vaško eksportui.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-004
   teiginys: 'Po 1466 m. Torno taikos Ordino sostinė buvo perkelta į Karaliaučių, ir jis liko sostine įsikūrus Prūsų kunigaikštijai.'
   pagrindžia:
@@ -118,20 +112,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-003
-  santrauka: Citata rodo, kad Karaliaučius buvo viena iš svarbių Lietuvos vaško rinkų.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Seniausioji Lietu-
-    vos eksporto prekė buvo vaškas, garsus Rygos, Ka-
-    raliaučiaus ir Dancigo rinkose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 - c-004
   santrauka: Citata tiesiogiai apibrėžia Karaliaučiaus politinį vaidmenį po Torno taikos.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -195,7 +175,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     kailių ir odų, medaus ir vaško). Medžius, paprastai, plukdy­
     davo Nemunu ir jo intakais: Šešupe, Nerimi, Nevėžiu. Jų dau­
     giausia parduodavo Vokiečių Ordinui ir Dancigo miestui, o kai­
-    lius Karaliaučiaus, Dancigo ir Breslavo pirkliams
+    lius Karaliaučiaus, Dancigo ir Breslavo pirkliams.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -221,7 +201,11 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   santrauka: 'Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pirmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Katekizmą“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Šią programą A. Kulvietis
+    bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pir-
     maisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų
+    programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Ka-
+    tekizmą“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -233,7 +217,9 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   santrauka: 'Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių (Kenigsbergą), linija Liepoja–Romnai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis
     Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių
+    (Kenigsbergą), linija Liepoja–Romnai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

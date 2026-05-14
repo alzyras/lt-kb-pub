@@ -42,7 +42,10 @@ Nenurodyta
   santrauka: 'žinoma istorija apie dviejų pranciškonų nužudymą Vilniuje Gedimino valdymo pabaigoje, o XVI a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nuo XIV a. žinoma istorija apie dviejų pranciškonų
     nužudymą Vilniuje Gedimino valdymo pabaigoje, o XVI a. pradžioje jų
+    palaidojimo vietoje statoma koplyčia (prie kurios vėliau įsikurs Bonifra-
+    trų vienuolynas).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -30,7 +30,9 @@ Kiekybiškai tai – nepaprastai maža persvara, ir tokios nebūtų buvę, jei n
   santrauka: 'Kiekybiškai tai – nepaprastai maža persvara, ir tokios nebūtų buvę, jei netikėtai vadinamosios Patriotų partijos vienas iš vadų H.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Karalius laikėsi pozicijos, kad
     Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos
+    21 dieną iš Jekaterinos II gautą notą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

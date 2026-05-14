@@ -27,7 +27,7 @@ Gasiūnas.
   santrauka: 'Gasiūnas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Senoji Lietuvos grafika XVI–XIX a. Sud.
+    Vilnius, 2004; Senoji Lietuvos grafika XVI–XIX a. Sud.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

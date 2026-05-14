@@ -216,6 +216,7 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   santrauka: 'į Lietuvą, Jogaila savo vietininku Lietuvoje paskyrė brolį Skirgailą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Todėl, 1387 m. atvykęs
     į Lietuvą, Jogaila savo vietininku Lietuvoje paskyrė brolį Skir-
     gailą.
   citata_rodoma: ''
@@ -392,7 +393,7 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   santrauka: 'Skirgaila valdė Trakus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Trakuose viešpatavo Skirgaila, kurio išva­
+    Tuo tarpu Trakuose viešpatavo Skirgaila, kurio išva­
     rymas vėl galėjo sukelti naują karą.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -473,7 +474,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   santrauka: '1394 m. jis panaikino Kijevo kunigaikštiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1394 m. jis panaikino Kijevo kunigaikš-
+    Luckas
+    perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
     tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
   citata_rodoma: ''
   teiginio_tipas: faktas

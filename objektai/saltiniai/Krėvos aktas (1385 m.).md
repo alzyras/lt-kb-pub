@@ -46,12 +46,6 @@ Zenono Ivinskio tekste Kriavo aktas apibūdinamas kaip vienintelis susitarimų �
     - c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-008
-  teiginys: 'Šiame veikale Kriavo aktas įvardijamas kaip ryškiausias aptariamo politinio posūkio pavyzdys.'
-  pagrindžia:
-    - c-008
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 - t-009
   teiginys: '1385 Krėvos sutartis.'
   pagrindžia:
@@ -81,23 +75,12 @@ Zenono Ivinskio tekste Kriavo aktas apibūdinamas kaip vienintelis susitarimų �
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
-- c-008
-  santrauka: Autorius šį dokumentą išskiria kaip ryškiausią aptariamo politinio posūkio pavyzdį.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^68) **Ryškiausias pavyzdys čia yra Kriavo aktas.**
-  citata_rodoma: ''
-  teiginio_tipas: vertinimas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tai yra autoriaus akcentas apie dokumento reikšmingumą, o ne neutralus bibliografinis aprašas.'
-  pagrindžia:
-    - t-008
 - c-009
   santrauka: '1385 Krėvos sutartis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Krėvos sutartis. Lietuvos didysis kunigaikštis Jogaila tampa Lenkijos
+    karaliumi.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -109,7 +92,9 @@ Zenono Ivinskio tekste Kriavo aktas apibūdinamas kaip vienintelis susitarimų �
   santrauka: 'Išeitis buvo 1385 m. sudaryta Krėvos sutartis su Lenkija, pagal kurią Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Išeitis buvo 1385 m. sudaryta Krėvos
     sutartis su Lenkija, pagal kurią Lietuvos didysis kunigaikštis Jogaila tapo
+    Lenkijos karaliumi.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -121,7 +106,10 @@ Zenono Ivinskio tekste Kriavo aktas apibūdinamas kaip vienintelis susitarimų �
   santrauka: '1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Su-
+    tarties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti
     Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų
+    belaisvius ir „prišlieti“ Lietuvą prie Lenkijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

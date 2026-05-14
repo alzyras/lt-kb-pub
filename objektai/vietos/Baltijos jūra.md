@@ -75,7 +75,15 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   santrauka: 'M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, gyvenusių arba gyvenančių Baltijos jūros rytų pakraštyje ir kalbėjusių arba kalbančių giminiškomis kalbomis,.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    I s k y r i u s
+    SENOJI LIETUVA
+    SENOVĖS BALTAI IR
+    LIETUVOS VALSTYBĖS ATSIRADIMAS
+    M
+    oksle baltais paprastai vadinama grupė indoeuro-
+    piečių genčių ir tautų, gyvenusių arba gyvenančių
     Baltijos jūros rytų pakraštyje ir kalbėjusių arba kalbančių giminiškomis
+    kalbomis, kurios sudaro atskirą indoeuropiečių kalbų šeimos šaką.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -101,7 +109,11 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   santrauka: 'Nuolatiniai karai su turkais, ypač Maskvos didžiąja kunigaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Apšvieta ateina į LDK
+    Nuolatiniai karai su turkais, ypač Maskvos didžiąja kuni-
+    gaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos
     jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.
+    kariškai sustiprėjusios Švedijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

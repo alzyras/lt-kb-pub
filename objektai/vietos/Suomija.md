@@ -32,7 +32,10 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
   santrauka: 'Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai.
+    Neutralumo įstatymu besiginantį Kauną sukrėtė naujiena apie nacių ir
+    sovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS
+    pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sfero-
+    mis: Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -44,7 +47,9 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
   santrauka: 'Sovietams kariaujant su Suomija Baltijos valstybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos kaip agresorė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Sovietams kariaujant su Suomija Baltijos vals-
     tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
+    kaip agresorė.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -55,4 +60,5 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/ivykiai/Molotovo-Ribentropo pakto ir slaptojo protokolo pasirašymas (1939 m. rugpjūčio 23 d.)]]
 - [[objektai/vietos/SSRS]]

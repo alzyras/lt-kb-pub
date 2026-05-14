@@ -46,7 +46,17 @@ Nenurodyta
   santrauka: 'Kovo 11 Aktas savo dvasia artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16 Aktui, tačiau nebesirėmė visuotinai pripažinta tautų apsisprendimo teise (politiniu požiūriu tautų apsisprendimo teisės deklaravimas buvo pavojingas dėl Maskvos užmačių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kovo 11 Aktas savo dvasia arti-
+    mas Lietuvos Tarybos 1918 m. pa-
+    skelbtam Vasario 16 Aktui, tačiau
+    nebesirėmė visuotinai pripažinta
+    tautų apsisprendimo teise (politiniu požiūriu tautų apsisprendimo tei-
+    sės deklaravimas buvo pavojingas dėl Maskvos užmačių pritaikyti Lie-
+    tuvai išstojimo iš SSRS mechanizmus, visaliaudinius „apsisprendimo“
+    referendumus, primesti dalį SSRS valstybės skolų bei tarptautinių įsipa-
     reigojimų). Kovo 11 Aktu Lietuvos valstybė atkurta savo teritorijoje, su
+    savo gyventojais ir realizavo suverenitetą, o ne administravo okupuotą
+    teritoriją.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -58,7 +68,12 @@ Nenurodyta
   santrauka: 'Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta Atkuriamuoju Seimu, toliau – AT-AS) ėmė įgyvendinti nuostatą, kad šalies teritorijoje neveikia jokios kitos valstybės konstitucija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau šios konstitucijos veikimas visa apim-
+    timi nebuvo atnaujintas, o už pusvalandžio sustabdytas ir patvirtinta lai-
     kinoji valstybės konstitucija – Laikinasis Pagrindinis Įstatymas, atitikęs
+    susiklosčiusius visuomeninius santykius ir valstybės valdymo struktūrą,
+    bet panaikinęs visas buvusias Lietuvos ir jos piliečių prievoles, kurias ne-
+    teisėtai nustatė Lietuvoje galiojusi sovietų konstitucija ir įstatymai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

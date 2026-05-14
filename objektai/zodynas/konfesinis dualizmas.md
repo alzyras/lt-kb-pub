@@ -28,7 +28,11 @@ Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai negalėjo 
   santrauka: 'Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai negalėjo pretenduoti) problemą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Politinės lietuvių įtakos ir stačiatikių kultūrinio
+    pranašumo pusiausvyra neteko savo svertų – politinis elitas pradėjo įgyti
+    ir kultūrinio elito statusą, nes stačiatikiai neteko savo civilizacinio pra-
     našumo. Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai
+    negalėjo pretenduoti) problemą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

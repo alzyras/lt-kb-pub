@@ -36,11 +36,6 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
   teiginys: '0 m. spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietuvos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen.'
   pagrindžia:
     - c-004
-- t-005
-  teiginys: 'Tai sukūrė nenusakomą įtampą pagal Lietuvos ir Lenkijos demarkacinę liniją, uždarė per ją bet kokį traukinių ar net pašto judėjimą keliolikai metų, o automobilių kelyje išaugo storoki berželiai...'
-  pagrindžia:
-    - c-005
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '7 d. Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir.'
@@ -82,7 +77,12 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
   santrauka: '0 m. spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietuvos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nors 1920 m.
+    spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį
+    susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietu-
+    vos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-
     ligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos
+    (Litwa środkowa) sudarymą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -90,21 +90,9 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Tai sukūrė nenusakomą įtampą pagal Lietuvos ir Lenkijos demarkacinę liniją, uždarė per ją bet kokį traukinių ar net pašto judėjimą keliolikai metų, o automobilių kelyje išaugo storoki berželiai...'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    nenusakomą įtampą pagal Lietuvos ir Lenkijos demarkacinę liniją, uždarė
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/zodynas/paliaubos]]
-- [[objektai/zodynas/administracinė linija demarkacijos linija]]
+- [[objektai/vietos/Nemunas]]

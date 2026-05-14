@@ -65,7 +65,10 @@ Sovietmečiu religinės manifestacijos veikė kaip masinė draudimų nepaisymo p
   santrauka: Citata aprašo masines religines manifestacijas ir draustos literatūros įsigijimą.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nepaisydami valdžios draudimų į religines manifestacijas suva-
+    žiuodavo dešimtys tūkstančių maldininkų. Jie ne tik meldėsi, bendrau-
     davo, bet ir įsigydavo draustų religinių relikvijų, nelegaliai išspausdintos
+    literatūros: maldaknygių, katekizmų ar Šventojo Rašto.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

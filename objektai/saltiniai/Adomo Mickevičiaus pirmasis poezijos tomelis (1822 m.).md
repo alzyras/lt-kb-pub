@@ -28,6 +28,7 @@ tags:
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     vą. 1822 m. Vilniuje išėjo pirmasis jo poezijos tomelis, vėliau savo poezija
+    A. Mickevičius pagarsėjo visoje Europoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

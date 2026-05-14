@@ -27,7 +27,9 @@ Netrukus atsirado ir modernių jaunos nacijos didvyrių. 1933 m. liepos 15–17 
   santrauka: 'Netrukus atsirado ir modernių jaunos nacijos didvyrių. 1933 m. liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu „Pienocentro“ pastatas Kaune (apie 1938). Architektas V. Landsbergis-Žemkalnis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1933 m.
     liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu
+    „Pienocentro“ pastatas Kaune (apie 1938).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

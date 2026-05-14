@@ -27,7 +27,9 @@ tags:
   santrauka: '1923 m. sausio 6 d. Šilutėje sudarytas Vyriausias Mažosios Lietuvos gelbėjimo komitetas (VMLGK) po trijų dienų paprašė Lietuvos ateiti į pagalbą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1923 m. sausio 6 d. Šilutėje sudarytas Vyriausias Mažosios Lietuvos
     gelbėjimo komitetas (VMLGK) po trijų dienų paprašė Lietuvos ateiti į
+    pagalbą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

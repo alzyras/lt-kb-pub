@@ -45,6 +45,7 @@ tags:
   citata_originali: |
     1919 m. liepos mėn. 26 d. ties Kuršė-
     nais iš Latvijos perėjo į Lietuvos teritoriją stipri jungtinė vo-
+    kiečių rusų kariuomenė, išgarsėjusi bermontininkų vardu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -58,6 +59,8 @@ tags:
   citata_originali: |
     Iš 8-tos ir 10-tos vokiečių armijų
     likučių Latvijoje buvo sudaryta tam reikalui speciali ka-
+    riuomenė, kuri turėjo eiti kariauti su bolševikais po rusų
+    vėliava.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -70,6 +73,8 @@ tags:
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lyginant su Latvija ir Estija, dvarininkų žemėvalda Lietuvoje
+    buvo perpus mažesnė, o dvarai mažesni 5–6 kartus, valstiečių ūkio ploto
+    vidurkis Lietuvoje – 15,2 ha (Latvijoje – 21,0, Estijoje 29,4 ha).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -81,6 +86,9 @@ tags:
   santrauka: 'Nepaisant geografinio artumo, istorijos bendrumo, etninės giminystės (tarp latvių ir lietuvių) ryšiai su Latvija ir Estija nesiplėtojo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kairės demokratija ir
+    1926 metų gruodžio perversmas
+    Nepaisant geografinio artumo, istorijos bendrumo, etninės
     giminystės (tarp latvių ir lietuvių) ryšiai su Latvija ir Estija nesiplėtojo.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -93,7 +101,9 @@ tags:
   santrauka: 'Tiesa, Latvija 1921 m. vasario 16 d. pripažino Lietuvą de jure – Lietuvos tarptautinės izoliacijos metu tai buvo didelė parama.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tiesa, Latvija 1921 m. vasario 16 d. pripaži-
     no Lietuvą de jure – Lietuvos tarptautinės izoliacijos metu tai buvo didelė
+    parama.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

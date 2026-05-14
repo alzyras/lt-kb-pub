@@ -75,7 +75,9 @@ Nenurodyta
   santrauka: Piniginio vieneto įstatymo priėmimo aplinkybės ir lito apibrėžimas.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Sunkmečiu labai nukritęs vokiškų pinigų kursas neigiamai veikė Lie-
     tuvos ekonomiką, katastrofiški infliacijos padariniai vertė Lietuvos valdžią
+    ieškoti sprendimo.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -88,7 +90,9 @@ Nenurodyta
   santrauka: Lito įvedimo data ir aukso turinys.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1922 m. spalio 1 d. Lietuvoje
     įvestas litas. Jo aukso turinys buvo lygus 0,150462 g gryno aukso, t. y. litas
+    buvo prilygintas JAV doleriui santykiu 10:1.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

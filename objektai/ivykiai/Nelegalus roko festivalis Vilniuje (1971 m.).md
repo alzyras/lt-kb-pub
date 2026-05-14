@@ -39,7 +39,9 @@ Nenurodyta
   santrauka: 'Hipių judėjimo pakilimo laikotarpis siejamas su aštuntojo dešimt­ mečio pradžios įvykiais Vilniuje ir Kaune.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1971 m. viename iš Vilniaus
     restoranų įvyko nelegalus roko festivalis, dar vadinamas Baltijos šalių ar
+    net 300 SSRS hipių suvažiavimu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -34,6 +34,8 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
   santrauka: 'Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vidurinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lenkijos valia vykusiuose rinkimuose gen. Liucijano
+    Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vi-
     durinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -46,7 +48,12 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
   santrauka: 'Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos (Litwa środkowa) sudarymą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nors 1920 m.
+    spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį
+    susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietu-
+    vos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-
     ligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos
+    (Litwa środkowa) sudarymą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

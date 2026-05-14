@@ -32,7 +32,9 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
   santrauka: 'Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai pritaikytos uždarytos bažnyčios: Šv.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno
     Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –
+    M. K. Čiurlionio muziejaus senojo meno ekspozicija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -44,7 +46,10 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
   santrauka: 'Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą, ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus arkikatedrą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Spalio 21 dieną LKP CK pirmuoju sekre-
     toriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą,
+    ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus
+    arkikatedrą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -66,10 +66,6 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Gynybinės barikados prie parlamento 1991 m. sausio 14 d. E.'
-  pagrindžia:
-    - c-002
 - t-003
   teiginys: 'Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto.'
   pagrindžia:
@@ -80,7 +76,9 @@ Nenurodyta
   santrauka: Barikados aprašomos kaip betoninės sienos ir spygliuotų vielų užtvaros prie AT-AS pastato.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare mi-
     nios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie
+    parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -88,18 +86,6 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Gynybinės barikados prie parlamento 1991 m. sausio 14 d. E.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gynybinės barikados prie parlamento 1991 m. sausio 14 d.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Šaltiniai ir įrodymai
 

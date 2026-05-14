@@ -34,7 +34,12 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
   santrauka: 'Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės negriauname, naujovių neįvedame“ – jie palikdavo senąsias kunigaikštijų struktūras (tai vėliau išvirs į sritines privilegijas, šiuolaikiniais terminais – autonomijas).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuviai veikiausiai buvo tokie pat imperialistai kaip ir kiti, tik, užgro-
+    bę svetimą kraštą, „nespausdavo“, t. y. iš pradžių nekeisdavo susiklosčiu-
     sios tvarkos. Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis:
+    „senovės negriauname, naujovių neįvedame“  – jie palikdavo senąsias
+    kunigaikštijų struktūras (tai vėliau išvirs į sritines privilegijas, šiuolaiki-
+    niais terminais – autonomijas).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,7 +51,9 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
   santrauka: '„Senovės nekeitimo“ tezė tėra istoriografinis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo savarankiškais keliais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    LDK būtent Vytauto
     laikais pradėjo artėti prie imperijos, Vytauto reformos buvo radikalios,
+    matuojant net tų laikų mastu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

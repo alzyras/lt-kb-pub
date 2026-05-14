@@ -27,7 +27,8 @@ Gudynas.
   santrauka: 'Gudynas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lietuvos tapyba. Sud. P. Gudynas. Vilnius, 1976;
+    Vilnius, 2009; Lietuvos tapyba. Sud. P. Gudynas. Vilnius, 1976; Millennium of Lithuania:
+    Millennium Lithuaniae.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

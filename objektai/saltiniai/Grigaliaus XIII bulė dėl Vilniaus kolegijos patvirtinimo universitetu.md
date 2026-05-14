@@ -30,6 +30,7 @@ Paversti kolegiją aukštąja mokykla reikėjo nemažų lėšų ir pakankamai kv
   santrauka: 'Paversti kolegiją aukštąja mokykla reikėjo nemažų lėšų ir pakankamai kvalifikuotų dėstytojų, būtinai – popiežiaus pritarimo (1577 m. Grigaliaus XIII pritarimas buvo gautas).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Naujoji mokykla vadinosi Academia et Universitas Vilnensis
     Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.
   citata_rodoma: ''
   teiginio_tipas: faktas

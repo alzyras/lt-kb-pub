@@ -46,6 +46,7 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
   santrauka: 'Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Gedimino krikšto akcija
     nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -71,7 +72,10 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
   santrauka: 'Camblako stačiatikių delegaciją, turėjusią pagrįsti siekį gyventi unijoje su Katalikų bažnyčia.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vy-
     tautas su Jogaila pradeda krikštyti žemaičius. 1418 m. Vytautas siunčia į
+    Konstancą jau minėtą G. Camblako stačiatikių delegaciją, turėjusią pa-
+    grįsti siekį gyventi unijoje su Katalikų bažnyčia.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -97,7 +101,9 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
   santrauka: 'Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m. buvo tik 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 71 trys stačiatikių vyskupijos, o LDK – šešios, ir visos jos buvo pavaldžios tai pačiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    trys stačiatikių vyskupijos, o LDK – šešios, ir visos jos buvo pavaldžios tai
     pačiai metropolijai Kijeve, o metropolitas reziduodavo ne tik Kijeve, bet ir
+    Naugarduke bei Vilniuje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

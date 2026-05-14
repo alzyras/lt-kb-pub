@@ -28,6 +28,7 @@ Visi iki vieno iškelti 79 kandidatai (per skubėjimą neapsižiūrėta, kad vie
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pusė jų – atrinkti komunistų partijos nariai, kiti komunistų simpatikai
+    („nepartiniai komunistai“).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -40,7 +40,9 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   santrauka: 'Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti Lietuva, o šiandien ją vadiname istorine Lietuva.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Būtent visa šios valstybės terito-
     rija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti
+    Lietuva, o šiandien ją vadiname istorine Lietuva.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -65,6 +67,9 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   santrauka: 'Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino laikais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Voluinė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Mindaugo laikais
+    prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
+    kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
     nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -91,3 +96,4 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras Lukašenka]]
+- [[objektai/zodynas/istorinė Lietuva]]

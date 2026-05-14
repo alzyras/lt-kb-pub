@@ -32,6 +32,7 @@ karai prieš turkus Palestinoje ir vyravo nuomonė, kad su netikėliais pagonimi
   santrauka: 'karai prieš turkus Palestinoje ir vyravo nuomonė, kad su netikėliais pagonimis reikią kariauti, todėl savanorių karių atsirasdavo nemaža.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Kadangi tuo metu Europoje buvo skelbiami kryžiaus
     karai prieš turkus Palestinoje ir vyravo nuomonė, kad su neti-
     kėliais pagonimis reikią kariauti, todėl savanorių karių atsiras-
     davo nemaža.
@@ -46,7 +47,9 @@ karai prieš turkus Palestinoje ir vyravo nuomonė, kad su netikėliais pagonimi
   santrauka: 'Apskritai žydai gyveno atskirą bendruomeninį gyvenimą ir menkai integravosi į lietuvių visuomenę, o sionistinis judėjimas kėlė Lietuvos žydus gyventi į Palestiną.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Apskritai žydai gyveno atskirą bendruo-
     meninį gyvenimą ir menkai integravosi į lietuvių visuomenę, o sionistinis
+    judėjimas kėlė Lietuvos žydus gyventi į Palestiną.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

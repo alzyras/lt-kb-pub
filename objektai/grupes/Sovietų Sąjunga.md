@@ -50,6 +50,7 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga,
+    1940 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,7 +62,12 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
   santrauka: 'Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva sugebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasipriešinimą SSRS ištisą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau pergyvenusi
     didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos
+    vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva su-
+    gebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-
+    nimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),
+    o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -73,7 +79,9 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
   santrauka: '1940 VI 15 realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuoja ir aneksuoja Lietuvos Respubliką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1940 VI 15
     realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuo-
+    ja ir aneksuoja Lietuvos Respubliką.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -85,7 +93,11 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
   santrauka: 'Sovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso pasaulio dėmesys buvo skirtas vokiečių įsiveržimui į Paryžių, 1940 m. vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi tariamai demokratinį valdymą (oficialiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Sovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso
+    pasaulio dėmesys buvo skirtas vokiečių įsiveržimui į Paryžių, 1940 m.
     vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi
+    tariamai demokratinį valdymą (oficialiai vadinamą „liaudies demokrati-
+    ja“), per keletą savaičių šias valstybes įjungė į SSRS sudėtį.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -97,7 +109,11 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
   santrauka: 'Reali aukščiausioji valdžia atiteko ne šalyje likusiems ministrams, o birželio 15 dienos pavakare į Lietuvą iš Maskvos atvykusiam sovietų vyriausybės emisarui Vladimirui Dekanozovui (kartu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Reali aukščiausioji valdžia atiteko ne šalyje li-
+    kusiems ministrams, o birželio 15 dienos pavakare į Lietuvą iš Maskvos
+    atvykusiam sovietų vyriausybės emisarui Vladimirui Dekanozovui (kar-
     tu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis
+    pavaduotojas Vsevolodas Merkulovas, vadinęsis „drg.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -109,7 +125,12 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
   santrauka: '1944 m. vasarą sovietų karinės pajėgos išvadavo Lietuvą iš nacių Vokietijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nacių okupaciją keičia sovietinė
+    1944 m. vasarą sovietų karinės pajėgos išvadavo Lietuvą
     iš nacių Vokietijos. Tačiau bėda ta, kad lygia greta, kone tuo pat metu
+    Lietuva buvo reokupuota, t. y. sovietų kariuomenė antrą kartą okupavo
+    Lietuvą, Latviją ir Estiją – grąžintas stalininis režimas, imtos vykdyti re-
+    kvizicijos, vyrai gaudyti darbams.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -32,7 +32,19 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   santrauka: 'Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemai-
     tijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar
+    vienas kitas), kurie susitarė kryp-
+    tingai plėtoti aukštosios kultūros
+    kūrimo lietuvių (žemaičių) kalba
+    darbą, o sykiu rūpintis lietuvių
+    ir žemaičių liaudies švietimu jų
+    gimtąja kalba (nors žemaičius
+    kai kas tuomet laikė atskiru,
+    etniniams lietuviams giminingu
+    etnosu, bet jie patys save laikė
+    vieno dvilypio lietuvių-žemaičių
+    etnoso dalimi).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -44,7 +56,13 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   santrauka: 'poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis manifestas, teigęs, kad žemaičių (lietuvių), kaip tautos, palaidoti nepavyks.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Parašytas ir išleistas tiems lai-
+    kams novatoriškas elementorius
+    lietuvių kalba (žemaičių tarme),
+    poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje
     buvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis
+    manifestas, teigęs, kad žemaičių (lietuvių), kaip tautos, palaidoti nepa-
+    vyks.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

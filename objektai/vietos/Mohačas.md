@@ -28,7 +28,10 @@ Lietuva, Lenkijos padedama, atsilaikė prieš stačiatikišką Maskvą mūšio p
   santrauka: 'Lietuva, Lenkijos padedama, atsilaikė prieš stačiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m. patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuva, Lenkijos padedama, atsilaikė prieš sta-
     čiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m.
+    patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemė-
+    lapio.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

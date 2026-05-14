@@ -40,7 +40,9 @@ Nenurodyta
   santrauka: 'sudaužė Kijevo Rusią, o Lietuva pasinaudojo pergale ir pajungė kai kurias rusų žemes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Valdant Gediminui ir
     Algirdui išsiplėtė ne tik valstybės teritorija – Lietuva pasidarė reikšminga
+    Vidurio ir Rytų Europos jėga.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

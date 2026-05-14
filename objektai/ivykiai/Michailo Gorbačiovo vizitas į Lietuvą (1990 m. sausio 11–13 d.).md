@@ -44,6 +44,7 @@ Nenurodyta
   santrauka: 'Michailo Gorbačiovo nesėkmingas vizitas Vilniuje (1990 m. sausio 11– 13 d.).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Michailo Gorbačiovo nesėkmingas vizitas Vilniuje (1990 m. sausio 11–
     13 d.). Lietuvos gyventojai susitikimuose reikalavo nepriklausomybės.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -56,6 +57,7 @@ Nenurodyta
   santrauka: 'Sąjūdininkai buvo pasiryžę skelbti Lietuvos valstybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nors M. Gorbačiovas aiškino, kad vienintelė Lietuva iš socializmo išsun-
     kė viską, kas geriausia, Lietuvai stigo esminio tikslo – nepriklausomybės.
   citata_rodoma: ''
   teiginio_tipas: faktas

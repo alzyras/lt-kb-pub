@@ -27,6 +27,10 @@ Nuo 1993 m. vidurio infliacijos lygis pradėjo mažėti, iš esmės dėl naciona
   santrauka: 'Nuo 1993 m. vidurio infliacijos lygis pradėjo mažėti, iš esmės dėl nacionalinės valiutos – lito įvedimo laikotarpiu Lietuvos banko vykdytos sugriežtintos pinigų politikos ir 1994 m. kovo 1 d. pradėto taikyti valiutų valdybos modelio (pagal jį litas susietas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nuo 1993 m.
+    vidurio infliacijos lygis pradėjo mažėti, iš esmės dėl nacionalinės valiu-
+    tos – lito įvedimo laikotarpiu Lietuvos banko vykdytos sugriežtintos pi-
+    nigų politikos ir 1994 m. kovo 1 d. pradėto taikyti valiutų valdybos mo-
     delio (pagal jį litas susietas su JAV doleriu santykiu 4 litai – 1 doleris).
   citata_rodoma: ''
   teiginio_tipas: faktas

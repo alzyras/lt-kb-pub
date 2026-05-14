@@ -28,7 +28,9 @@ Mackevičius, vėliau K.
   santrauka: 'Mackevičius, vėliau K.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1863 m. pabaigoje į sukilimo
     slopintojų rankas pakliuvo A. Mackevičius, vėliau K. Kalinauskas, abu
+    netrukus buvo viešai pakarti.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

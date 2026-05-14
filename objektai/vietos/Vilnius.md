@@ -63,12 +63,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-007
-  teiginys: 'Švitrigaila savo kovose buvo pasiekęs ir Vilnių.'
-  pagrindžia:
-    - c-007
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-008
   teiginys: 'Vilniaus valstybės sostinės įkūrimas šaltinyje perteikiamas Gedimino medžioklės ir Lizdeikos išaiškinto sapno legenda.'
   pagrindžia:
@@ -153,7 +147,9 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   santrauka: Citata sieja Gediminą su bažnyčių statyba Vilniuje.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    jis pats
+    Kad nelai-
+    kytų jo užsispyrėliu pagonim, jis, be to, pranešė, kad jo valstybėje
+    jau esą krikščionių, vienuolių, turinčių ir savo bažnyčių; jis pats
     pastatydinęs porą bažnyčių Vilniuje ir vieną Naugarduke.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -204,20 +200,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-- c-007
-  santrauka: Citata pagrindžia, kad Švitrigaila buvo pasiekęs Vilnių.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Švitrigaila daug kartų puolė
-    Zigmantą ir kartą net pasiekė Vilnių ir Trakus, tačiau vis
-    nieko nelaimėdavo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
 - c-008
   santrauka: Vilniaus įkūrimo pasakojimas siejamas su Gedimino medžiokle ir Lizdeikos išaiškintu sapnu.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -284,7 +266,10 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Gotfrydas von Lindenas įsiveržė į Lietuvos gilumą ir, nueida­
     mas net lig pat Vilniaus, degino kaimus, plėšė žmonių turtą ir
     juos pačius ėmė nelaisvėn, tuo metu Algirdas, negalėdamas sku­
-    biai suorganizuoti apsigynimo, užsidaręs Vilniaus pilyje
+    biai suorganizuoti apsigynimo, užsidaręs Vilniaus pilyje, pasi­
+    kvietęs maršalką ir išmetinėjęs jam neriterišką elgesį; o Kęstutis,
+    keršydamas už krašto teriojimą, pasiuntė Vytautą į Užnemunę
+    sunaikinti vokiečių maisto atsargą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -326,7 +311,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   santrauka: Citata sieja Vilnių su 1428 m. iškeltu Vytauto karūnacijos klausimu.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Dar prieš Lucko suvažiavimą, 1428 m., Vytauto karūnacijos klau­
+    (^1) ) Dar prieš Lucko suvažiavimą, 1428 m., Vytauto karūnacijos klau­
     simas buvo pakeltas paties Jogailos, kai jis buvo Vilniuj.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -339,7 +324,10 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   santrauka: 'Visai neseniai Prancūzijos nacionalinis geografijos institutas atliko naujus skaičiavimus, pagal kuriuos iš 180 km aukščio geografiškai išvestas centro statmuo yra 25 km į šiaurę nuo Lietuvos sostinės Vilniaus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Visai neseniai Pran-
+    cūzijos nacionalinis geografijos institutas atliko naujus skaičiavimus, pa-
     gal kuriuos iš 180 km aukščio geografiškai išvestas centro statmuo yra
+    25 km į šiaurę nuo Lietuvos sostinės Vilniaus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -352,6 +340,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Savo ruožtu lietuviai buvo apsisprendę kurti Lietuvos valstybę etniniais
+    pagrindais, nebepretendavo į „Minsko Lietuvą“, tačiau neįsivaizdavo savo
+    valstybės be istorinės sostinės Vilniaus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -363,7 +353,21 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   santrauka: 'Vilnius XVI–XVIII a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Vilnius XVI–XVIII a. tapo vienintele stovinčia ant dviejų pasaulių
+    Taigi Abiejų Tautų Respublika:
+    •	 aprūpino Vakarus (per Gdanską į Amsterdamą) javais,
+    •	 sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir
+    bajoriškosios demokratijos tradiciją,
+    •	 Vilnius XVI–XVIII a. tapo vienintele stovinčia ant dviejų pasaulių
+    ribos Europos sostine, kurioje sugyveno dešimt konfesijų, o žydų pa-
+    sauliui tai buvo Vilniaus Gaono miestas ir „Šiaurės Jeruzalė“,
+    •	 iškėlė plačiausios poveikio erdvės ir vieną seniausių Vidurio Euro-
+    poje Vilniaus universitetą, turintį savitas misionierių, kankinių ir
+    šventųjų, poetų, retorikų ir logikų tradicijas,
+    •	 išpuoselėjo europiniu mastu reikšmingą Vilniaus baroko architek-
+    tūros mokyklą,
+    • sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje
+    teisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija –
+    konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -31,7 +31,10 @@ tags:
   santrauka: 'Į žudynių parengimą, aukų konvojavimą ir šaudymą įtrauktos lietuvių savisaugos policijos grupės (policijos batalionai (vadinami TDA) – Zarasų, Kupiškio, Jonavos ir kt.), pagalbinės policijos ir policijos nuovadų policininkai, jau davę priesaiką A.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Į žudynių parengimą, aukų konvojavimą ir šaudymą įtrauk-
+    tos lietuvių savisaugos policijos grupės (policijos batalionai (vadinami
     TDA) – Zarasų, Kupiškio, Jonavos ir kt.), pagalbinės policijos ir policijos
+    nuovadų policininkai, jau davę priesaiką A. Hitleriui.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -43,7 +46,9 @@ tags:
   santrauka: 'Dalis lietuvių policijos savisaugos batalionų panaudoti akcijose prieš civilius Baltarusijoje, Lenkijoje, Ukrainoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Dalis
     lietuvių policijos savisaugos batalionų panaudoti akcijose prieš civilius
+    Baltarusijoje, Lenkijoje, Ukrainoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -27,6 +27,8 @@ Ketvirtajame dešimtmetyje gana agresyviai žydų prekybininkus ėmė puldinėti
   santrauka: 'Ketvirtajame dešimtmetyje gana agresyviai žydų prekybininkus ėmė puldinėti verslininkai laikraštyje „Verslas“ – atvirai kėlė šūkį „Lietuva lietuviams“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ketvir-
+    tajame dešimtmetyje gana agresyviai žydų prekybininkus ėmė puldinėti
     verslininkai laikraštyje „Verslas“ – atvirai kėlė šūkį „Lietuva lietuviams“.
   citata_rodoma: ''
   teiginio_tipas: faktas

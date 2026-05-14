@@ -29,7 +29,11 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
   santrauka: 'Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame telkėsi reformų priešininkai) konfederacijos aktas, paskelbtas 1792 m. gegužės 14 d.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Peterburge subrendo ir buvo surašytas Targovicos
     (miestelis Ukrainoje, kuriame telkėsi reformų priešininkai) konfederaci-
+    jos aktas, paskelbtas 1792 m. gegužės 14 d. Netrukus į pagalbą konfe-
+    deratams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie
+    Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -41,3 +45,6 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
+
+### Susiję objektai
+- [[objektai/grupes/Rusijos kariuomenė]]

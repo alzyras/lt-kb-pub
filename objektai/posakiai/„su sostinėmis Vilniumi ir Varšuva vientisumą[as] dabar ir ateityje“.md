@@ -30,7 +30,9 @@ Dokumento preambulėje, be kitų nuostatų, buvo priminti ankstesni Lenkijos ir 
   santrauka: 'Dokumento preambulėje, be kitų nuostatų, buvo priminti ankstesni Lenkijos ir Lietuvos nesutarimai dėl teritorijų, pasmerktas smurto naudojimas abiejų tautų tarpusavio santykiuose ir abiejų šalių iškilmingai patvirtintas dabartinių teritorijų „su sostinėmis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ra-
     tifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė
+    bet kokių pretenzijų į Vilniaus kraštą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

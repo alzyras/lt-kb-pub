@@ -42,7 +42,9 @@ Nenurodyta
   santrauka: 'ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m. Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiškė pretenzijas į Švedijos sostą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus
     Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė
+    Rygą ir užvaldė Baltijos pakrantes.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

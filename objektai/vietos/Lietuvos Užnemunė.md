@@ -24,10 +24,6 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   teiginys: 'Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai reikėjo iš vadovėlių, parašytų kirilika).'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Praėjus 20 metų nuo 1863 m. sukilimo etninių lietuvių tautinis sąjūdis prasidėjo iš naujo.'
-  pagrindžia:
-    - c-002
 - t-003
   teiginys: 'Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiusią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.'
   pagrindžia:
@@ -52,22 +48,12 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Praėjus 20 metų nuo 1863 m. sukilimo etninių lietuvių tautinis sąjūdis prasidėjo iš naujo.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    tautinis sąjūdis prasidėjo iš naujo. Jį atnaujino pobaudžiavinė inteligentų
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
   santrauka: 'Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiusią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Teritorija, kurioje ši autonomija veiktų, apibrėžta
+    kaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiu-
     sią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -80,7 +66,11 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   santrauka: 'Svarstant Valstybės Dūmoje Lenkijos politinės autonomijos klausimą lietuvių veikėjai išsakė mintį, kad tokiu atveju nuo karalystės reikėtų atskirti jos lietuviškąją dalį, t.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Svarstant
+    Valstybės Dūmoje Lenkijos politinės autonomijos klausimą lietuvių veikė-
+    jai išsakė mintį, kad tokiu atveju nuo karalystės reikėtų atskirti jos lietuviš-
     kąją dalį, t. y. Lietuvos Užnemunę, kuri dabar dažniausiai buvo vadinama
+    Suvalkija (mat didžioji jos dalis priklausė Suvalkų gubernijai).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -92,4 +82,3 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Lenkijos karalystė]]
-- [[objektai/zodynas/unijinės pažiūros]]

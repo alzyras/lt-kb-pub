@@ -45,7 +45,10 @@ Nenurodyta
   santrauka: 'Tačiau tarptautinio pripažinimo dar keletą mėnesių teko palaukti – Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau tarptautinio pripažinimo dar keletą mėnesių teko palaukti –
+    Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gor-
     bačiovo reformoms, o jį patį nuvers „vanagai“. Pasirinkimas Gorbis ar
+    Lietuva Vakarams buvo nelengvas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -57,7 +60,11 @@ Nenurodyta
   santrauka: 'Rugpjūtį, žlugus Maskvos pučui, kurio metu komunistai mėgino susigrąžinti valdžią Sovietų Sąjungoje, kelias į nepriklausomybės pripažinimą tapo laisvas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Rugpjūtį, žlugus Maskvos pučui, kurio metu komunistai mėgino
+    susigrąžinti valdžią Sovietų Sąjungoje, kelias į nepriklausomybės pripa-
     žinimą tapo laisvas. Per keletą dienų Lietuvą pripažino visos didžiausios
+    Sausio agresijos aukų laidotuvės – visos Lietuvos
+    protestas prieš SSRS politiką
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -68,7 +68,10 @@ Nenurodyta
   santrauka: Sienos sutarties pasirašymas ir Klaipėdos teritorijos statusas.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių
     dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių,
+    svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų
+    ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

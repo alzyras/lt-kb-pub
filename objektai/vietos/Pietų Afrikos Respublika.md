@@ -27,7 +27,11 @@ O juk reikėtų prisiminti, kad pirmąją pasaulyje žmogaus širdies persodinim
   santrauka: 'O juk reikėtų prisiminti, kad pirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m. atliko litvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afrikos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas buvo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    O juk reikėtų prisiminti, kad
+    pirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m. atliko
+    litvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afri-
     kos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas
+    buvo tikrai iš litvakų kilęs Louis Washkansky (Luisas Vaškanskis)).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

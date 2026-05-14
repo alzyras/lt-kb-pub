@@ -39,6 +39,7 @@ rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; d
   santrauka: 'rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi buvo skleidę protestantizmą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Jas
     rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų
     lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi
     buvo skleidę protestantizmą. Bet vis dėlto svarbiausi protestan-
@@ -53,6 +54,8 @@ rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; d
   santrauka: 'Lietuvių spaudos draudimo laikotarpiu Rytprūsiuose išleista daugiau kaip 1 800 pavadinimų lietuviškų knygų, skirtų platinti Didžiojoje Lietuvoje bendru 6 mln.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvių spaudos draudimo laikotarpiu Rytprūsiuose
+    išleista daugiau kaip 1 800 pavadinimų lietuviškų knygų, skirtų platin-
     ti Didžiojoje Lietuvoje bendru 6 mln. egzempliorių tiražu.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -66,6 +69,8 @@ rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; d
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai
+    Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėn-
+    raštį „Aušra“ („Auszra“).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -77,7 +82,12 @@ rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; d
   santrauka: 'Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną, kuriame buvo eilutės: „Lietuviais esame mes gimę / Lietuviais norime ir būt/ Tą garbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už
+    lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną, kuriame
+    buvo eilutės: „Lietuviais esame mes gimę / Lietuviais norime ir būt/ Tą
+    garbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat išpopulia-
     rėjo ir Didžiojoje Lietuvoje, tad lietuviai abipus Nemuno giedojo jį jau
+    tvirtai tikėdami, kad tikrai nebepražus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -29,7 +29,10 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
   santrauka: 'Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“), o didysis jos altorius buvo toje vietoje, kur anksčiau degė pagonių amžinoji ugnis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Pastatyta katedra, iškilmingai pa-
     švęsta Krokuvos vyskupo šv. Stanislovo garbei („kad abi lygiateisės tautos
+    turėtų vieną globėją ir užtarėją“), o didysis jos altorius buvo toje vietoje,
+    kur anksčiau degė pagonių amžinoji ugnis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

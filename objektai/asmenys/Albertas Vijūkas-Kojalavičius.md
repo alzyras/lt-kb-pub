@@ -27,7 +27,11 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   santrauka: 'Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Lietuvos ir daugiatautės bei daugiakonfesės LDK.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    fesoriai atnešė susiformavusius, katalikiškosios reformos paveiktus mo-
+    kymo principus ir didelius reikalavimus, intensyvaus mokymo sistemą, o
+    vilniečiai skleidė įtaką ne tik Lietuvoje (visų pirma lituanistiniai K. Sirvy-
     do ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Lietuvos
+    ir daugiatautės bei daugiakonfesės LDK.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

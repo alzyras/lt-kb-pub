@@ -38,7 +38,10 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
   santrauka: 'Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat scenarijus taikytas Latvijoje ir Estijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus –
     toks pat scenarijus taikytas Latvijoje ir Estijoje. Į vieną vietą leista iškelti
+    vieną kandidatą, o kandidatus galėjo kelti tik komunistų partija, kom-
+    jaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -50,7 +53,10 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
   santrauka: 'Taip įforminta Lietuvos aneksija, Rinkimų į Liaudies seimą agitacinis plakatas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Seime išrinkta 20 asmenų delegaci-
+    ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
     prašė neva savanoriškai įeiti į SSRS sudėtį. Taip įforminta Lietuvos aneksija,
+    Rinkimų į Liaudies seimą agitacinis plakatas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -62,7 +68,9 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
   santrauka: 'Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas jų turtas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus
     prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas
+    jų turtas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

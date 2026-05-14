@@ -109,6 +109,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   santrauka: 'Maskvos įtakoje buvo palikti Pskovas su D.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Maža to, Kazimieras net pasidalino su Maskva įtakos sritimis:
     Maskvos įtakoje buvo palikti Pskovas su D. Naugardu, o Lie-
     tuvos įtakoje — Tverė. Riazanei buvo palikta teisė pačiai
     pasirinkti sau globą.
@@ -169,7 +170,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   santrauka: 'Žinoma, kad 1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per kurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Žinoma, kad
     1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per
+    kurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -181,7 +184,10 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   santrauka: 'Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijungtos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuva tapo
+    politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-
     tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
+    buvę Voluinė ir Haličas, Kijevas, Pskovas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -193,7 +199,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   santrauka: 'Grįžimas namo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas – pajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Grįžimas
     namo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas –
+    pajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

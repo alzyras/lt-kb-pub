@@ -27,7 +27,10 @@ Daugumai ministrų atsisakius tapti tarėjais rugsėjo 26-ąją naciai uždarė 
   santrauka: 'Daugumai ministrų atsisakius tapti tarėjais rugsėjo 26-ąją naciai uždarė LAF (gruodį ir iš voldemarininkų susidariusią Lietuvių nacionalistų partiją).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Daugumai ministrų atsisakius tapti
+    tarėjais rugsėjo 26-ąją naciai uždarė LAF (gruodį ir iš voldemarininkų su-
     sidariusią Lietuvių nacionalistų partiją). Taip nacių okupuotoje Lietuvoje
+    baigėsi legalių lietuvių organizacijų veikla.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

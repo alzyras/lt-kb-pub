@@ -45,6 +45,7 @@ Nenurodyta
   santrauka: 'Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK žemėse caro valdžia griebėsi politikos, kurią pavadino „lenkų pradų naikinimo“ politika.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Todėl naikintos institucijos, kurios skyrė šį kraštą nuo
     likusios Rusijos, vietos administracijoje neleidžiama vartoti lenkų kalbos.
   citata_rodoma: ''
   teiginio_tipas: faktas

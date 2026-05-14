@@ -28,7 +28,11 @@ Kreiptasi į valstiečius (tai pirmas atsišaukimas lietuvių kalba) – raginta
   santrauka: 'Kreiptasi į valstiečius (tai pirmas atsišaukimas lietuvių kalba) – raginta pradėti partizaninį karą prieš Rusijos kariuomenę, žadėta suteikti jiems asmens laisvę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Su-
+    kilėliai veikė ryžtingai – pakorė LDK didįjį etmoną S. Kosakovskį, suėmė
     žymesnius targovitėnus. Kreiptasi į valstiečius (tai pirmas atsišaukimas
+    lietuvių kalba) – raginta pradėti partizaninį karą prieš Rusijos kariuome-
+    nę, žadėta suteikti jiems asmens laisvę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

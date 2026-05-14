@@ -51,14 +51,17 @@ tags: []
 - t-003
   teiginys: 'Vytis iš I Lietuvos Statuto Lauryno nuorašo (1531 m.) antraštinio lapo.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Bibliografiniai įrodymai
 - c-001
   santrauka: Iliustracijos antraštė pagrindžia nuorašo pavadinimą, datą ir antraštinio lapo ryšį su Vyčiu.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vytis iš I Lietuvos Statuto Lauryno nuorašo (1531 m.)
+    antraštinio lapo
     tačiau jau Mindaugas jungė prie „Lietuvos žemės“ kitas lietuvių žemes,
+    taip pat plėtė savo įtaką į giminingų genčių teritorijas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -69,15 +72,4 @@ tags: []
     - t-002
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Vytis iš I Lietuvos Statuto Lauryno nuorašo (1531 m.) antraštinio lapo.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vytis iš I Lietuvos Statuto Lauryno nuorašo (1531 m.)
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
     - t-003

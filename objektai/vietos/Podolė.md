@@ -62,6 +62,9 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     čių ne visiškai perėjo į Vytauto valdžią tik viena Podolė: mat, ji
     iš seno buvo glaudžiai susijusi su Lenkija. Pašalinus Karijotaitį,
     ji buvo padalinta į 3 dalis: vakarinė dalis buvo priskirta prie Len-
+    kijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vy-
+    tauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vy-
+    tauto tiesioginei valdžiai atiteko tik rytinė jos dalis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -124,6 +127,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   santrauka: '1393 m. Luckas perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikštiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Luckas
+    perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
     tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -167,3 +172,4 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 ### Susiję objektai
 - [[objektai/vietos/Juodoji jūra]]
 - [[objektai/vietos/Voluinė]]
+- [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]

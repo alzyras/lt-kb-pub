@@ -54,6 +54,9 @@ tags:
   santrauka: '1990 m. kovo 11 d. atkūrusi nepriklausomybę, 2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, 2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Sąjungai – laisvų ir demokratinių Europos valstybių susivienijimui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1990 m. kovo 11 d. atkūrusi nepriklausomybę,
+    2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare,
+    2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Są-
     jungai – laisvų ir demokratinių Europos valstybių susivienijimui.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -67,6 +70,7 @@ tags:
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     klos ėmė dalyvauti Europos Sąjungos finansuojamose mokslo ir studijų
+    programose.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -78,7 +82,12 @@ tags:
   santrauka: '1991 m. rugsėjo 17 d. Lietuva priimta į Jungtinių Tautų (JT) organizaciją, 1991 m. pabaigoje – į JT specializuotas įstaigas (UNESCO (Švietimo, mokslo ir kultūros organizacija), TDO (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1991 m. rugsėjo 17 d. Lietuva priimta
+    į Jungtinių Tautų (JT) organizaciją, 1991 m. pabaigoje – į JT specializuo-
+    tas įstaigas (UNESCO (Švietimo, mokslo ir kultūros organizacija), TDO
     (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą
+    (ET), o 2004 m. – ir į svarbiausias organizacijas – karinę Šiaurės Atlanto
+    sutarties organizaciją ir ekonominę organizaciją – Europos Sąjungą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -90,7 +99,11 @@ tags:
   santrauka: 'Integracija į Europos Sąjungą – antras svarbiausias strateginis atsikūrusios Lietuvos užsienio politikos tikslas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Integracija į Europos Sąjungą – antras svarbiausias strateginis atsikū-
     rusios Lietuvos užsienio politikos tikslas. 1990 m. gruodžio 14 d. Baltijos
+    šalių vyriausybių vadovai pirmą kartą kreipėsi į tuometinę Europos eko-
+    nominę bendriją (EEB), prašydami Baltijos šalims politinę, ekonominę
+    ir kultūrinę paramą teikti ne per Sovietų Sąjungą, o tiesiogiai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -102,7 +115,9 @@ tags:
   santrauka: 'Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos (asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą tapti ES narėmis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos
     (asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą
+    tapti ES narėmis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -31,7 +31,11 @@ tags:
   santrauka: 'Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazimiera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti Lietuvos kovos dėl ekonominio savarankiškumo klausimus, pasisakė už įmonių savarankiškumą ir rinkos laisvę, kad respublika neturi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazi-
     miera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti
+    Lietuvos kovos dėl ekonominio savarankiškumo klausimus, pasisakė už
+    įmonių savarankiškumą ir rinkos laisvę, kad respublika neturi būti mecha-
+    ninė įmonių suma, kaip SSRS neturėtų būti mechaninė respublikų suma.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -43,7 +47,11 @@ tags:
   santrauka: 'Promaskviniai būriai turėjo įsiveržti į AT-AS, išvaikyti parlamentą, o sovietų kariuomenė ir specialios paskirties būriai („Alfa“) įsikišti į „pilietinį konfliktą“ (pasinaudota premjerės Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas) ir.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Promaskviniai būriai turėjo įsiveržti
+    į AT-AS, išvaikyti parlamentą, o sovietų kariuomenė ir specialios paskir-
     ties būriai („Alfa“) įsikišti į „pilietinį konfliktą“ (pasinaudota premjerės
+    Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas)
+    ir nuversti teisėtą Lietuvos valdžią.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

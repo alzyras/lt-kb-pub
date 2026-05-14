@@ -210,6 +210,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Vytautas brendo audringu Lietuvos valstybės laikotarpiu,
     kada jo tėvas, gindamas Žemaitijos bei lietuvių laisvę, negalėjo
     išleisti ginklo iš rankų, nes du galingi priešai, kardininkai iš
     šiaurės ir kryžiuočiai iš žiemos vakarų pusės, tuo laiku ypač
@@ -304,7 +305,12 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   santrauka: 'Lietuvos vardas pirmąkart paminėtas 1009 m., tačiau atsirado jis anksčiau: lietuvių gentis iš rytų baltų turėjo išsiskirti prieš keliolika amžių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos vardo kilmė ir
+    sampratos likimas
+    Lietuvos vardas pirmąkart paminėtas 1009 m., tačiau atsi-
+    rado jis anksčiau: lietuvių gentis iš rytų baltų turėjo išsiskirti prieš kelioli-
     ka amžių. Kalbininkai yra nustatę, kad lietuvių kalba atsiskyrė nuo latvių
+    apie VII a.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -316,7 +322,12 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   santrauka: 'Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Grindžiama
+    mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
+    valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat
+    žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš
     Lietuvos. Šie žmonės aplinkinių buvo vadinami „leičiais“ (latviai iki šiol
+    vadina lietuvius „leišiais“), o gal ir „liečiais“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -328,7 +339,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   santrauka: 'Mindaugas sukūrė didžiausią ankstyvosios Lietuvos istorijos kūrinį – valstybę, suteikusią galimybę išlikti lietuvių tautai ir vėliau perimti Vakarų civilizaciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Mindaugas sukūrė didžiausią ankstyvo-
     sios Lietuvos istorijos kūrinį – valstybę, suteikusią galimybę išlikti lietuvių
+    tautai ir vėliau perimti Vakarų civilizaciją.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

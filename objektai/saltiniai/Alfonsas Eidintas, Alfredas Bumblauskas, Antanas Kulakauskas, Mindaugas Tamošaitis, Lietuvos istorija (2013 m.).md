@@ -51,28 +51,10 @@ Tai keturių autorių Lietuvos istorijos sintezė, išleista Lietuvos Respubliko
 - Skyrių autorystė siejama su Alfredu Bumblausku, Antanu Kulakausku, Alfonsu Eidintu ir Mindaugu Tamošaičiu.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Leidinio tituliniame puslapyje ir autorių teisių eilutėse nurodyti Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas ir Mindaugas Tamošaitis.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Leidinys pažymėtas kaip antras leidimas.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 - t-003
   teiginys: 'Bibliografinėje eilutėje leidinys nurodytas kaip 2012 m. Vilniaus universiteto leidyklos 280 puslapių knyga.'
   pagrindžia:
     - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Leidinys išleistas Lietuvos Respublikos užsienio reikalų ministerijos užsakymu.'
-  pagrindžia:
-    - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-005
@@ -95,47 +77,12 @@ Tai keturių autorių Lietuvos istorijos sintezė, išleista Lietuvos Respubliko
   statusas: patvirtinta
 
 ## Bibliografiniai įrodymai
-- c-001
-  santrauka: Tituliniame puslapyje nurodyti autoriai, leidykla, metai, užsakovas, antras leidimas ir autorių teisės.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Alfonsas Eidintas, Alfredas Bumblauskas,
-    Antanas Kulakauskas, Mindaugas Tamošaitis
-    Vilniaus
-    universiteto
-    leidykla
-    2013
-    LIETUVOS
-    I S T O R I J A
-
-    Redakcinė kolegija:
-    Prof. dr. Raimundas Lopata – pirmininkas
-    Prof. dr. Alvydas Jokubaitis
-    Prof. dr. Vytautas Radžvilas
-    Dr. Inga Vinogradnaitė
-    Išleista Lietuvos Respublikos
-    užsienio reikalų ministerijos užsakymu
-    Antras leidimas
-    © Alfonsas Eidintas, 2013
-    © Alfredas Bumblauskas, 2013
-    © Antanas Kulakauskas, 2013
-    © Mindaugas Tamošaitis, 2013
-    © Lietuvos Respublikos užsienio reikalų ministerija, 2013
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-004
 - c-003
   santrauka: Bibliografinėje eilutėje nurodyti leidimo metai, leidykla ir apimtis.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos istorija. – Vilnius: Vilniaus universitetas, Vilniaus universiteto
-    leidykla, 2012. – 280 p.
+    leidykla, 2012.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

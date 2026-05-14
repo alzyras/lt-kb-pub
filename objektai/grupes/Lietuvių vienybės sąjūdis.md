@@ -29,6 +29,9 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė
+    į Lietuvių frontą (LF) ir Lietuvių vienybės sąjūdį, o liberaliai nusistatę
+    tautininkai – į Lietuvos laisvės kovotojų sąjungą (LLKS), abi kryptys lei-
+    do pogrindinius leidinius.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -33,6 +33,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   santrauka: 'Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiusią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Teritorija, kurioje ši autonomija veiktų, apibrėžta
+    kaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiu-
     sią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -45,7 +47,11 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   santrauka: 'Svarstant Valstybės Dūmoje Lenkijos politinės autonomijos klausimą lietuvių veikėjai išsakė mintį, kad tokiu atveju nuo karalystės reikėtų atskirti jos lietuviškąją dalį, t.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Svarstant
+    Valstybės Dūmoje Lenkijos politinės autonomijos klausimą lietuvių veikė-
+    jai išsakė mintį, kad tokiu atveju nuo karalystės reikėtų atskirti jos lietuviš-
     kąją dalį, t. y. Lietuvos Užnemunę, kuri dabar dažniausiai buvo vadinama
+    Suvalkija (mat didžioji jos dalis priklausė Suvalkų gubernijai).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

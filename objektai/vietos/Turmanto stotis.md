@@ -43,6 +43,3 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/upė]]
-
-### Susiję objektai
-- [[objektai/vietos/Vilniaus kraštas]]

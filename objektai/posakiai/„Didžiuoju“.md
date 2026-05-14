@@ -27,6 +27,7 @@ Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureik�
   santrauka: 'Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureikšminimai nulėmė, kad Vytautas pradėtas vadinti Didžiuoju.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vytauto laikų permainos
     Vytauto permainų reikšmę suvokė jau amžininkai, jų kom-
     plimentai ar sureikšminimai nulėmė, kad Vytautas pradėtas vadinti Di-
     džiuoju.

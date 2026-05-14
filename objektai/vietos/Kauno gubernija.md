@@ -54,7 +54,12 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   santrauka: '1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos dalies apskričių buvo sudaryta Kauno gubernija, o prie Vilniaus gubernijos priskirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms, todėl caro valdžia etnografiškai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos dalies
+    apskričių buvo sudaryta Kauno gubernija, o prie Vilniaus gubernijos pri-
+    skirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino guberni-
+    joms, todėl caro valdžia etnografiškai lietuviška ėmė laikyti tik Kauno gu-
     berniją, o Vilniaus guberniją priskyrė prie baltarusiškų, nors vakarinėje
+    Vilniaus gubernijos dalyje tebevyravo lietuviškai kalbantieji.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -66,7 +71,9 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   santrauka: 'Beje, ekspertus apstulbino tai, kad Kauno gubernijoje (skaičiuojant visus gyventojus) moterų raštingumas buvo didesnis nei vyrų: atitinkamai 55 proc.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Beje, ekspertus apstulbino tai, kad Kauno guber-
     nijoje (skaičiuojant visus gyventojus) moterų raštingumas buvo didesnis
+    nei vyrų: atitinkamai 55 proc. ir 52 proc.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -78,7 +85,14 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   santrauka: 'Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis), be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti ir Liepojos uosto (vokiškoji Klaipėda.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Europos ir JAV lietuvių atstovų Berno konferencijoje 1917 m. lapkričio
+    2–10 d., kurioje dalyvavo ir visas Lietuvos Tarybos prezidiumas (A. Sme-
+    tona, Steponas Kairys, J. Šaulys) bei užsienio lietuvių atstovai, pasisakyta
+    už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose:
+    Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko
     apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
+    be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti
+    ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

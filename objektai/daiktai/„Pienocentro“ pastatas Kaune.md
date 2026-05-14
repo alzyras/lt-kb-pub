@@ -42,6 +42,8 @@ Nenurodyta
   santrauka: '„Pienocentro“ pastatas Kaune (apie 1938).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1933 m.
+    liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu
     „Pienocentro“ pastatas Kaune (apie 1938).
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -50,7 +52,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/V. Landsbergis-Žemkalnis]]

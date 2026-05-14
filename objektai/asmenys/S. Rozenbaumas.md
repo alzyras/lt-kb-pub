@@ -28,7 +28,10 @@ Rozenbaumas tapo Lietuvos vyriausybės nariais atitinkamai kaip ministras be por
   santrauka: 'Rozenbaumas tapo Lietuvos vyriausybės nariais atitinkamai kaip ministras be portfelio žydų reikalams ir užsienio reikalų viceministras.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Netu-
+    rinčią savo stiprios vadovaujančios vidurinės klasės, nedidelę lietuvių
     inteligentijos grupę domino žydų parama, ypač jeigu Lietuva atsikurtų
+    su sostine Vilniumi.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
