@@ -52,6 +52,18 @@ Vincas Kudirka šiame šaltinyje minimas kaip autorius, redaktorius; jam priskir
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į rankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakymai, iš smulkiųjų bajorų kilusios rašytojos Julijos Žymantienės-Žemaitės sodri realistinė sociali proza.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos, tautinio pobūdžio literatūra.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -101,6 +113,42 @@ Vincas Kudirka šiame šaltinyje minimas kaip autorius, redaktorius; jam priskir
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į rankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    rankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“. V. Kudirka
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakymai, iš smulkiųjų bajorų kilusios rašytojos Julijos Žymantienės-Žemaitės sodri realistinė sociali proza.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    monę žadino V. Kudirkos poezija ir satyriniai, caro valdininkus taikliai
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos, tautinio pobūdžio literatūra.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    munistinė ideologija, kurią turėjo skleisti visos kultūros įstaigos. Šlovinant
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -109,3 +157,7 @@ Vincas Kudirka šiame šaltinyje minimas kaip autorius, redaktorius; jam priskir
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/autoriai/Maironis]]
+- [[objektai/ivykiai/„Varpo“ leidimo pradžia]]

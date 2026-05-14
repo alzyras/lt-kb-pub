@@ -62,6 +62,10 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Perimant Vakarų kultūros idėjas, visuomenėje susipažinta su kronikų rašymo tradicija, atsirado poreikis pažinti savo istoriją, perimtas ir Renesanso laikais Europoje paplitęs mitas apie valdovų kildinimą iš kito krašto.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -110,6 +114,18 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
   pagrindžia:
     - t-003
+- c-005
+  santrauka: 'Perimant Vakarų kultūros idėjas, visuomenėje susipažinta su kronikų rašymo tradicija, atsirado poreikis pažinti savo istoriją, perimtas ir Renesanso laikais Europoje paplitęs mitas apie valdovų kildinimą iš kito krašto.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Renesanso laikais Europoje paplitęs mitas apie valdovų kildinimą iš kito
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Bibliografiniai įrodymai
 - c-004

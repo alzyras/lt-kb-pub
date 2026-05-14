@@ -37,7 +37,3 @@ Nebuvo aplenkti nė vienuolynai: juos paskelbė „lotyniškos lenkiškos propag
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/sukilimas]]

@@ -36,7 +36,3 @@ Bet (1324 m.) popiežius vis dėlto atsiuntė Gediminui malonią bulę, o netruk
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/popiežius]]

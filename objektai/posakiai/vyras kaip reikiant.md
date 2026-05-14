@@ -41,8 +41,5 @@ Zaviša grįžęs ją nuramino, pranešęs, kad Jogaila nesąs joks baidyklė, o
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/valdovas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Zaviša]]

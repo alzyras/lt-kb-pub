@@ -80,8 +80,5 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/knyga]]
-
 ### Susiję objektai
 - [[objektai/daiktai/D. Poškos Baublys]]

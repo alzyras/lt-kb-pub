@@ -43,7 +43,3 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/valdovas]]

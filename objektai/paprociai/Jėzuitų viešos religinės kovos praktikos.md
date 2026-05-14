@@ -103,8 +103,5 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/kunigas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Jėzuitų ordinas]]

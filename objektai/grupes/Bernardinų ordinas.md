@@ -20,31 +20,23 @@ tags:
 Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: domininkonai, karmelitai, bernardinai, pranciškonai, augustinijonai ir kt.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: domininkonai, karmelitai, bernardinai, pranciškonai, augustinijonai ir kt.'
+- t-002
+  teiginys: 'Lietuvos gotikinė architektūra perėmė pagrindinius šio stiliaus bruožus – aukštas erdves (Vilniaus Bernardinų bažnyčios centrinė nava) ir grakštumą (Vilniaus Šv.'
   pagrindžia:
-    - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: domininkonai, karmelitai, bernardinai, pranciškonai, augustinijonai ir kt.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-002
+  santrauka: 'Lietuvos gotikinė architektūra perėmė pagrindinius šio stiliaus bruožus – aukštas erdves (Vilniaus Bernardinų bažnyčios centrinė nava) ir grakštumą (Vilniaus Šv.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: domininkonai, karmelitai, ber-
-    nardinai, pranciškonai, augustinijonai ir kt. Jų vienuolynų Lie-
-    tuvoje buvo jau gana daug.
+    Lietuvos gotikinė architektūra perėmė pagrindi-
+    nius šio stiliaus bruožus – aukštas erdves (Vilniaus Bernardinų bažny-
+    čios centrinė nava) ir grakštumą (Vilniaus Šv. Onos bažnyčia).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/kunigas]]
-
-### Susiję objektai
-- [[objektai/grupes/Augustinijonų ordinas]]
-- [[objektai/grupes/Karmelitų ordinas]]
+    - t-002

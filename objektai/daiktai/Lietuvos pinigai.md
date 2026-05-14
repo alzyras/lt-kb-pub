@@ -167,6 +167,18 @@ Nenurodyta
     - c-019
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-020
+  teiginys: 'Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksinais.'
+  pagrindžia:
+    - c-022
+- t-021
+  teiginys: 'Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.'
+  pagrindžia:
+    - c-023
+- t-022
+  teiginys: 'Per visą nepriklausomos Lietuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose užsienio valstybėse.'
+  pagrindžia:
+    - c-024
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -507,7 +519,7 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-009
@@ -522,10 +534,46 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-012
+- c-022
+  santrauka: 'Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksinais.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    tuvos ekonomiką, katastrofiški infliacijos padariniai vertė Lietuvos valdžią
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-023
+  santrauka: 'Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-024
+  santrauka: 'Per visą nepriklausomos Lietuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose užsienio valstybėse.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    tuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -549,3 +597,4 @@ Nenurodyta
 - [[objektai/daiktai/Zigmanto Augusto pinigai]]
 - [[objektai/daiktai/Zigmanto II pinigai]]
 - [[objektai/daiktai/Zigmanto Vazos pinigai]]
+- [[objektai/ivykiai/Piniginio vieneto įstatymo priėmimas ir lito įvedimas (1922 m.)]]

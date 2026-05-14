@@ -41,4 +41,3 @@ Staniškis ir J.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/J. Jasiulaitis]]
-- [[objektai/asmenys/Petras Kriaučiūnas]]

@@ -187,9 +187,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - t-009
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/valdovas]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Augusto II pinigai]]
 - [[objektai/daiktai/Lietuvos pinigai]]

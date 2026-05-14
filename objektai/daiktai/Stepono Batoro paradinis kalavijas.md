@@ -82,9 +82,6 @@ Nenurodyta
 - Šiame šaltinyje kalavijas aprašomas kaip atminties ir reprezentacijos objektas.
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/ginklas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]
 

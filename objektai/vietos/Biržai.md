@@ -29,10 +29,10 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   teiginys: 'Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pradžios mokyklų buvo beveik kiekvienoj jų parapijoj.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Tokios pat mokyklėlės liko Biržuose ir Slucke.'
+- t-005
+  teiginys: 'Apie Biržus gyvenantys evangelikai reformatai yra tiesioginiai kalvinistinės reformacijos, kuriai po Radvilos Juodojo mirties vadovavo jo pusbrolis Mikalojus Radvila Rudasis, palikuonys.'
   pagrindžia:
-    - c-004
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -74,20 +74,15 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Tokios pat mokyklėlės liko Biržuose ir Slucke.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-005
+  santrauka: 'Apie Biržus gyvenantys evangelikai reformatai yra tiesioginiai kalvinistinės reformacijos, kuriai po Radvilos Juodojo mirties vadovavo jo pusbrolis Mikalojus Radvila Rudasis, palikuonys.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Kėdainiuose teliko tik magistrato išlaikoma silpna mokyklėlė.
-    Tokios pat mokyklėlės liko Biržuose ir Slucke.
+    iki šių dienų. Apie Biržus gyvenantys evangelikai reformatai yra tiesiogi-
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/šeima]]
+    - t-005

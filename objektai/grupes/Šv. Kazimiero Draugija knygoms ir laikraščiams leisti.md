@@ -39,7 +39,3 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/knyga]]

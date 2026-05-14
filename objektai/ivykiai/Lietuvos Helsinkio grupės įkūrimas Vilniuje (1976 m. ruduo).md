@@ -1,0 +1,77 @@
+---
+tipas: ivykis
+pavadinimas: 'Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo)'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - dokumentas
+  - ivykis
+  - valstybė
+---
+# Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo)
+
+## Santrauka
+
+Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios kitas valstybes apie žmogaus teisių pažeidimus. Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: 'Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios kitas valstybes apie žmogaus teisių pažeidimus.'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje.'
+  pagrindžia:
+    - c-002
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios kitas valstybes apie žmogaus teisių pažeidimus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/aktas]]
+- [[temos/dokumentas]]
+- [[temos/aktas - dokumentas]]
+
+### Susiję objektai
+- [[objektai/grupes/Lietuvos Helsinkio grupė]]
+- [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda]]

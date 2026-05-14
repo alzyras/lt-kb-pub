@@ -17,27 +17,21 @@ tags:
 Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet pagaliau ties Klecku juos sumušė mylimasis.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet pagaliau ties Klecku juos sumušė mylimasis.'
+- t-002
+  teiginys: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
   pagrindžia:
-    - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet pagaliau ties Klecku juos sumušė mylimasis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-002
+  santrauka: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką
-    ir Lydą; bet pagaliau ties Klecku juos sumušė mylimasis
+    visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: žemas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kleckas]]
-- [[objektai/vietos/Naugardukas]]
+    - t-002

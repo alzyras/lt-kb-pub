@@ -60,5 +60,3 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
-- [[temos/unija]]
-- [[temos/aktas - unija]]

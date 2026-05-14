@@ -22,6 +22,10 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
   teiginys: 'Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų Rusijai paliaubas, o Lenkus privertė pasirašyti Spa miestely (Belgijoje) protokolą, kuriuo Lenkija apsiėmė atsitraukti už vadinamosios Kerzono (Curzono) linijos (ją nustatė toji.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Kai lenkų daliniai, spaudžiami bolševikų, ėmė trauktis, konferencijoje Spa 1920 m. liepos 5–16 d. didžiosios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai ir Varšuva sutiko.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -42,6 +46,18 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Kai lenkų daliniai, spaudžiami bolševikų, ėmė trauktis, konferencijoje Spa 1920 m. liepos 5–16 d. didžiosios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai ir Varšuva sutiko.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    sios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai ir Varšuva sutiko.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

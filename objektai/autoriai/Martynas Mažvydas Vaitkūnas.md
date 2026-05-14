@@ -104,4 +104,5 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
 
 ### Susiję objektai
 - [[objektai/autoriai/Abraomas Kulvietis]]
+- [[objektai/autoriai/J. Bretkūnas]]
 - [[objektai/autoriai/Stanislovas Rapagelionis]]

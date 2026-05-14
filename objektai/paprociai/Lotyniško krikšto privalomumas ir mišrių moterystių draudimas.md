@@ -101,9 +101,6 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/krikštas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
 

@@ -79,9 +79,6 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/kunigas]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Bažnyčios ir religinio gyvenimo suvaržymas Muravjovo laikais]]
 - [[objektai/daiktai/Blaivybės paminklai]]

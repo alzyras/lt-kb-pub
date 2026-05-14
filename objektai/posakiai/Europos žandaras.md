@@ -40,7 +40,3 @@ Rusijos valdžia buvo uoliausia absoliutiškosios Europos tvarkos saugotoja, ir 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/valdovas]]

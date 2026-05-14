@@ -38,8 +38,5 @@ Gruševski, Istorija Ukraini Rusi, I-IX (1907—1930); S.
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/knyga]]
-
 ### Susiję objektai
 - [[objektai/autoriai/S. M. Solovjev]]

@@ -1,0 +1,63 @@
+---
+tipas: asmuo
+pavadinimas: 'Adomas Jurgis Čartoriskis'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
+  - didikas
+  - valstybė
+---
+# Adomas Jurgis Čartoriskis
+
+## Santrauka
+
+Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgis Čartoriskis (Adam Jerzy Czartoryski, 1770–1861) – asmeninis caro Aleksandro I draugas, kurį laiką ėjęs Rusijos užsienio reikalų ministro pareigas. Čartoriskis, susiaurintos Vilniaus švietimo apygardos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją policiją.
+
+## Teiginiai
+- t-001
+  teiginys: 'Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgis Čartoriskis (Adam Jerzy Czartoryski, 1770–1861) – asmeninis caro Aleksandro I draugas, kurį laiką ėjęs Rusijos užsienio reikalų ministro pareigas.'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'Čartoriskis, susiaurintos Vilniaus švietimo apygardos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją policiją.'
+  pagrindžia:
+    - c-002
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgis Čartoriskis (Adam Jerzy Czartoryski, 1770–1861) – asmeninis caro Aleksandro I draugas, kurį laiką ėjęs Rusijos užsienio reikalų ministro pareigas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    kiui jo globojama apygarda buvo plano atkurti Lenkijos (ar Lenkijos ir
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Čartoriskis, susiaurintos Vilniaus švietimo apygardos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją policiją.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    kai nepatikimi profesoriai, tarp jų J. Lelevelis, priverstinai atsistatydino
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/didikas]]
+
+### Susiję objektai
+- [[objektai/asmenys/Joachimas Lelevelis]]
+- [[objektai/asmenys/Nikolajus I]]

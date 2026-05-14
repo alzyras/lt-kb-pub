@@ -39,7 +39,3 @@ Tai vadinamoji šventoji namų ugnelė, arba gabija.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/šventė]]

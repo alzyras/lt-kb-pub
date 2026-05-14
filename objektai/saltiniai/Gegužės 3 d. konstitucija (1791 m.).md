@@ -47,6 +47,18 @@ tags: []
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'ANKSČIAUSIA KONSTITUCIJA EUROPOJE IR JOS PANAIKINIMAS 85 Apšvieta ateina į LDK 85; Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas 91; Lietuvos Didžiosios Kunigaikštijos sunaikinimas 94.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Šių bandymų viršūne tapo 1791 m. gegužės 3 d. Lenkijos ir Lietuvos Seimo priimta konstitucija, kurioje naikinamas valdovų elekcijos principas ir skelbiamas sosto paveldimumas, tačiau monarchas yra tiktai tautos valios reiškėjas.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -78,3 +90,39 @@ tags: []
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'ANKSČIAUSIA KONSTITUCIJA EUROPOJE IR JOS PANAIKINIMAS 85 Apšvieta ateina į LDK 85; Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas 91; Lietuvos Didžiosios Kunigaikštijos sunaikinimas 94.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    tarpusavio įžadas  91;  Lietuvos Didžiosios Kunigaikštijos sunaikinimas  94
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Šių bandymų viršūne tapo 1791 m. gegužės 3 d. Lenkijos ir Lietuvos Seimo priimta konstitucija, kurioje naikinamas valdovų elekcijos principas ir skelbiamas sosto paveldimumas, tačiau monarchas yra tiktai tautos valios reiškėjas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    skelbiamas sosto paveldimumas, tačiau monarchas yra tiktai tautos valios
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    klaraciją. Taigi Lenkijos ir Lietuvos reformatoriai akivaizdžiai orientavosi
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005

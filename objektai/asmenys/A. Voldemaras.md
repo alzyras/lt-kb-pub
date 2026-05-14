@@ -49,6 +49,18 @@ Voldemarą ir M. Ministerių pirmininkas Voldemaras, manydamas, kad taikingos ir
     - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'Voldemaras, A.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Voldemarui.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino politinių partijų vaidmens, esą atstovavusių tik dalies, o ne visos tautos valiai, ir neketino sugrįžti į vadinamuosius „seimų laikus“, prilygintus netvarkai ir anarchijai.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -165,7 +177,47 @@ Voldemarą ir M. Ministerių pirmininkas Voldemaras, manydamas, kad taikingos ir
   priskyrimo_pagrindas: explicit_variant
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Voldemaras, A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    blicistus; pasėdėjo kalėjime ir aršiausi kritikai tautininkai A. Voldemaras,
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Voldemarui.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino politinių partijų vaidmens, esą atstovavusių tik dalies, o ne visos tautos valiai, ir neketino sugrįžti į vadinamuosius „seimų laikus“, prilygintus netvarkai ir anarchijai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    laikus“, prilygintus netvarkai ir
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/diplomatas]]
+
+### Susiję objektai
+- [[objektai/asmenys/Augustinas Voldemaras]]
+- [[objektai/posakiai/„seimų laikus“]]

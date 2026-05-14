@@ -53,7 +53,3 @@ Biržiška, Iš mūsų kultūros ir literatūros istorijos (1931);. Biržiška, 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/sukilimas]]

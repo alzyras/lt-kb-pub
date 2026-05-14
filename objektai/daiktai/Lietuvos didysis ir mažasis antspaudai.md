@@ -162,11 +162,6 @@ Nenurodyta
     - t-006
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/popiežius]]
-- [[temos/valdovas]]
-- [[temos/popiežius - valdovas]]
-
 ### Susiję objektai
 - [[objektai/zodynas/metrika]]
 - [[objektai/zodynas/urėdas]]

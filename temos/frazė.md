@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 10.
+Objektų skaičius: 12.
 
 ## Kaip naudoti
 
@@ -29,3 +29,5 @@ Objektų skaičius: 10.
 - [[objektai/posakiai/Ne mano tikėjimo jie trokšta, kaip jie nuduoda, bet siekia žemių]]
 - [[objektai/posakiai/Respublika laikosi netvarka]]
 - [[objektai/posakiai/Žmonės nusidavimų (istorijos) nepažįstantieji vis yra vaikai]]
+- [[objektai/posakiai/„mylintis savo tėvynę... rusas yra internacionalistas...“]]
+- [[objektai/posakiai/„valstybėje yra trys respublikos Lenkijos, Lietuvos ir Paulavos“]]

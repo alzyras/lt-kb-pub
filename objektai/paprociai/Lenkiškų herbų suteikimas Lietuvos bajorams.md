@@ -96,5 +96,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dokumentas]]
-- [[temos/ginklas]]
-- [[temos/šeima]]

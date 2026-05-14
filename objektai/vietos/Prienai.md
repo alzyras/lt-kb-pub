@@ -45,9 +45,6 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/popiežius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Seinai]]
 - [[objektai/vietos/Vigrai]]

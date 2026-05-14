@@ -241,9 +241,6 @@ Nenurodyta
     - t-009
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/ginklas]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Monetos]]
 - [[objektai/daiktai/Varpai]]

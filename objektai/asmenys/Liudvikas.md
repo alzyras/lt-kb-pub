@@ -69,7 +69,3 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
   pagrindžia:
     - t-002
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/šeima]]

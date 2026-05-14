@@ -1,0 +1,39 @@
+---
+tipas: saltinis
+pavadinimas: 'Liaudies seimo rinkimų įstatymas'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - elekcija
+  - saltinis
+  - seimas
+---
+# Liaudies seimo rinkimų įstatymas
+
+## Santrauka
+
+Pagal rinkimų įstatymą išrinktais atstovais laikomi tie kandidatai, kurie gavo balsų daugumą.
+
+## Teiginiai
+- t-001
+  teiginys: 'Pagal rinkimų įstatymą išrinktais atstovais laikomi tie kandidatai, kurie gavo balsų daugumą.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Pagal rinkimų įstatymą išrinktais atstovais laikomi tie kandidatai, kurie gavo balsų daugumą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Pagal rinkimų įstatymą išrinktais atstovais laikomi tie kandidatai, kurie
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001

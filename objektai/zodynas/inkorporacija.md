@@ -100,6 +100,7 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
 - [[temos/teisinis-terminas]]
+- [[temos/istorinė-sąvoka - teisinis-terminas]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]

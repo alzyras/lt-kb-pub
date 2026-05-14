@@ -38,8 +38,5 @@ Solovjev, Ist.
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/knyga]]
-
 ### Susiję objektai
 - [[objektai/autoriai/M. Gruševski]]

@@ -1,0 +1,44 @@
+---
+tipas: grupe
+pavadinimas: 'Antano Smetonos lituanistikos institutas'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - grupe
+  - mokslininkas
+  - tauta
+---
+# Antano Smetonos lituanistikos institutas
+
+## Santrauka
+
+1938 m. lapkričio 1 d. įkurtas Antano Smetonos lituanistikos institutas – mokslo įstaiga, kuri turėjo tirti lietuvių kalbą, tautosaką ir Lietuvos praeitį, tvarkyti tų sričių mokslinę medžiagą ir šaltinius, atstovauti lituanistikos mokslams Lietuvoje ir.
+
+## Teiginiai
+- t-001
+  teiginys: '1938 m. lapkričio 1 d. įkurtas Antano Smetonos lituanistikos institutas – mokslo įstaiga, kuri turėjo tirti lietuvių kalbą, tautosaką ir Lietuvos praeitį, tvarkyti tų sričių mokslinę medžiagą ir šaltinius, atstovauti lituanistikos mokslams Lietuvoje ir.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: '1938 m. lapkričio 1 d. įkurtas Antano Smetonos lituanistikos institutas – mokslo įstaiga, kuri turėjo tirti lietuvių kalbą, tautosaką ir Lietuvos praeitį, tvarkyti tų sričių mokslinę medžiagą ir šaltinius, atstovauti lituanistikos mokslams Lietuvoje ir.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    šaltinius, atstovauti lituanistikos mokslams Lietuvoje ir užsienyje, nustatyti
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Antano Smetonos lituanistikos instituto įkūrimas (1938 m. lapkričio 1 d.)]]
+- [[objektai/zodynas/Lituanistika]]

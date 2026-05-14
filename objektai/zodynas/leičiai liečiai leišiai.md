@@ -13,7 +13,7 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: juodrastis
 laikotarpis: "Vytauto, Gedimino ir galbūt Mindaugo valstybės pakraščių kontekstas"
-datos:[]
+datos: []
 periodas: "viduramziai"
 periodo_grupes:
   - "LDK"
@@ -50,6 +50,11 @@ Terminas aiškinamas kaip aplinkinių vartotas įvardijimas ištikimiems žmonė
 Vartojamas Lietuvos vardo kilmės, etnonimų ir istorinės kalbotyros kontekste.
 
 ## Teiginiai
+- t-001
+  teiginys: 'Šie žmonės aplinkinių buvo vadinami „leičiais“ (latviai iki šiol vadina lietuvius „leišiais“), o gal ir „liečiais“.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Pateikiama leičio vardo forma.
@@ -62,8 +67,23 @@ Vartojamas Lietuvos vardo kilmės, etnonimų ir istorinės kalbotyros kontekste.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Exact citata pridėta po public_notes_have_evidence validacijos klaidos."
   pagrindžia: []
+- c-002
+  santrauka: 'Šie žmonės aplinkinių buvo vadinami „leičiais“ (latviai iki šiol vadina lietuvius „leišiais“), o gal ir „liečiais“.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    vadina lietuvius „leišiais“), o gal ir „liečiais“. Taigi, Lietuvos vardas turėjo
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/istorinė-sąvoka]]
+
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
 - [[laikotarpiai/XIV amžius]]

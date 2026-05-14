@@ -92,7 +92,3 @@ Pasmerktas už kariuomenės kurstymą prieš karalių, Liubomirskis pakėlė mai
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ginklas]]

@@ -42,9 +42,6 @@ pradžioje įkurta Vigrių vyskupija priklausė tiesiog popiežiaus, o vėliau j
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/popiežius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Seinų vyskupija]]
 - [[objektai/vietos/Vigrių vyskupija]]

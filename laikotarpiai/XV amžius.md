@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 52.
+Objektų skaičius: 54.
 
 ## Kaip naudoti
 
@@ -23,6 +23,10 @@ Objektų skaičius: 52.
 - [[objektai/asmenys/Ulrichas von Jungingenas]]
 - [[objektai/asmenys/Vytautas]]
 - [[objektai/asmenys/Švitrigaila]]
+
+### Autoriai
+- [[objektai/autoriai/Grigorijus Camblakas]]
+- [[objektai/autoriai/Pranciškus Skorina]]
 
 ### Daiktai
 - [[objektai/daiktai/Halka]]
@@ -52,8 +56,8 @@ Objektų skaičius: 52.
 - [[objektai/posakiai/Taikos labui]]
 
 ### Vietos
-- [[objektai/vietos/Galvės ežero salos pilis]]
-- [[objektai/vietos/Luckas]]
+- [Galvės ežero salos pilis](../objektai/vietos/Galv%C4%97s%20e%C5%BEero%20salos%20pilis)
+- [Luckas](../objektai/vietos/Luckas)
 - [Lydos pilis](../objektai/vietos/Lydos%20pilis)
 - [Medininkų pilis](../objektai/vietos/Medinink%C5%B3%20pilis)
 - [Senieji Trakai](../objektai/vietos/Senieji%20Trakai)

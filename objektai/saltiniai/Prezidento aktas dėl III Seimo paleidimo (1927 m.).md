@@ -1,0 +1,39 @@
+---
+tipas: saltinis
+pavadinimas: 'Prezidento aktas dėl III Seimo paleidimo (1927 m.)'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - elekcija
+  - saltinis
+  - seimas
+---
+# Prezidento aktas dėl III Seimo paleidimo (1927 m.)
+
+## Santrauka
+
+Pajaujo suėmimą, nepritarus vyriausybės deklaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas, o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu.
+
+## Teiginiai
+- t-001
+  teiginys: 'Pajaujo suėmimą, nepritarus vyriausybės deklaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas, o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Pajaujo suėmimą, nepritarus vyriausybės deklaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas, o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    klaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas,
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001

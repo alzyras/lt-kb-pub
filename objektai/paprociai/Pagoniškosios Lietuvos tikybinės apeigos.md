@@ -57,4 +57,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ritualas]]
-- [[temos/šventė]]

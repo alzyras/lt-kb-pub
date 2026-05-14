@@ -112,9 +112,5 @@ Nenurodyta
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/kunigas]]
-- [[temos/šeima]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]

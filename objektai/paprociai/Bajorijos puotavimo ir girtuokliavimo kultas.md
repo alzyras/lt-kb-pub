@@ -66,6 +66,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/didikas - šeima]]
 - [[temos/didikas]]
-- [[temos/šeima]]

@@ -71,6 +71,3 @@ Posevinas tikėjosi, kad Batoras bus priverstas nutraukti kovą: mat, kaip tik t
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/diplomatas]]
-- [[temos/popiežius]]
-- [[temos/valdovas]]
-- [[temos/popiežius - valdovas]]

@@ -63,9 +63,5 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/kunigas]]
-- [[temos/popiežius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Bazilijonų ordinas]]

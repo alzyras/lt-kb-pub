@@ -124,5 +124,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ambasadorių Konferencija]]
 - [[objektai/vietos/Klaipėdos kraštas]]

@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 4.
+Objektų skaičius: 6.
 
 ## Kaip naudoti
 
@@ -21,5 +21,7 @@ Objektų skaičius: 4.
 ### Daiktai
 - [[objektai/daiktai/Birka]]
 - [[objektai/daiktai/Geležiniai ginklai ir įrankiai]]
+- [[objektai/daiktai/Gitara „Zemaitis“]]
 - [[objektai/daiktai/Gyvatgalviai kapliai]]
+- [[objektai/daiktai/Pieno perdirbimo įranga ir šaldytuvai]]
 - [[objektai/daiktai/Žemdirbystės įrankiai]]

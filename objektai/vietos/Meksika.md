@@ -22,6 +22,10 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
   teiginys: 'De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argentinos, Meksikos ir Latvijos bei Estijos (šias pastarąsias tada jau buvo pripažinusi de jure 21 valstybė).'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Tokio reiškinio analogijos – angliškosios kultūros laida Airijoje (ką jau kalbėti apie JAV ir Australiją), daniškosios – Norvegijoje, prancūziškosios – Kanados Kvebeke, ispaniškosios kultūros laidos Meksikoje ar Argentinoje.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -39,6 +43,18 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Tokio reiškinio analogijos – angliškosios kultūros laida Airijoje (ką jau kalbėti apie JAV ir Australiją), daniškosios – Norvegijoje, prancūziškosios – Kanados Kvebeke, ispaniškosios kultūros laidos Meksikoje ar Argentinoje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    rijoje (ką jau kalbėti apie JAV ir Australiją), daniškosios – Norvegijoje,
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

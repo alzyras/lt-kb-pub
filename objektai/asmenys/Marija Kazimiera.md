@@ -55,7 +55,3 @@ per partiją ir per savo žmoną prancūzę Mariją Kazimierą (kuri, tapusi kar
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/šeima]]

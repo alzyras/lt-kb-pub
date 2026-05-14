@@ -154,9 +154,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/valdovas]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Herbai]]
 - [[objektai/grupes/Laikinė Lietuvos vyriausybė]]

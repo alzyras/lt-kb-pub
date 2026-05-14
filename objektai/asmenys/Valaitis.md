@@ -38,7 +38,3 @@ Jau nuo 1928 m. Sao Paule parapijos organizavimu rūpinosi kunigas Valaitis, bet
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/kunigas]]

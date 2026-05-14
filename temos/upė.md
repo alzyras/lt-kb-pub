@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 21.
+Objektų skaičius: 29.
 
 ## Kaip naudoti
 
@@ -19,6 +19,8 @@ Objektų skaičius: 21.
 ## Susiję objektai
 
 ### Asmenys
+- [[objektai/asmenys/Jurgis Šaulys]]
+- [[objektai/asmenys/Steponas Kairys]]
 - [[objektai/asmenys/Zigmantas Vaza]]
 
 ### Daiktai
@@ -29,22 +31,32 @@ Objektų skaičius: 21.
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Skandinavai]]
 
+### Posakiai
+- [[objektai/posakiai/„Lithuania Propria“]]
+
 ### Vietos
+- [[objektai/vietos/Alūkšta]]
 - [[objektai/vietos/Beržūnė]]
 - [[objektai/vietos/Bobras]]
 - [[objektai/vietos/Buchovka]]
 - [[objektai/vietos/Dauguva]]
 - [[objektai/vietos/Gorodnianka]]
 - [[objektai/vietos/Isločė]]
+- [[objektai/vietos/Liepoja]]
 - [[objektai/vietos/Modolečna]]
+- [[objektai/vietos/Neris]]
 - [[objektai/vietos/Turmanto stotis]]
 - [[objektai/vietos/Uša]]
+- [[objektai/vietos/Valkaviskas]]
 - [[objektai/vietos/Viduržemio jūra]]
 - [[objektai/vietos/Vilniaus kraštas]]
 - [[objektai/vietos/Voložinas]]
 - [[objektai/vietos/Voložinka]]
-- [[objektai/vietos/Vorsklos upė]]
-- [[objektai/vietos/Švedija]]
+- [Vorsklos upė](../objektai/vietos/Vorsklos%20up%C4%97)
+- [Švedija](../objektai/vietos/%C5%A0vedija)
 
 ### Įvykiai
-- [[objektai/ivykiai/Lietuvos ir Latvijos sienos išvedimas (1921 m.)]]
+- [Lietuvos ir Latvijos sienos išvedimas (1921 m.)](../objektai/ivykiai/Lietuvos%20ir%20Latvijos%20sienos%20i%C5%A1vedimas%20%281921%20m.%29)
+
+### Žodynas
+- [etnografinės ribos etnografinis principas](../objektai/zodynas/etnografin%C4%97s%20ribos%20etnografinis%20principas)

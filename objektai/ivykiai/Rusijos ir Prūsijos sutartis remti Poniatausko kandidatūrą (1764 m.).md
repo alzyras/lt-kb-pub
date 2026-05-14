@@ -57,9 +57,6 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/reforma]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XVIII amžius]]
 

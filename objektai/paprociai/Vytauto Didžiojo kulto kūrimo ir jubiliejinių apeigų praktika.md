@@ -1,0 +1,108 @@
+---
+tipas: paprotys
+pavadinimas: "Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika"
+sukurta: "2026-05-14"
+variantai: []
+aliases: []
+saltiniai:
+  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+bukle: juodrastis
+laikotarpis: "1930 m."
+datos:
+  - "1930 m."
+periodas: naujieji_laikai
+periodo_grupes:
+  - tarpukaris
+amziai:
+  - XX
+date_start: 1930
+date_end: 1930
+vaidmenys: []
+dalyviai:
+  - "Vytauto Didžiojo mirties 500-ųjų metinių komitetas"
+susije_irasai: []
+patikimumas: aukštas
+tags: []
+---
+# Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika
+
+## Santrauka
+1930 m. Vytauto Didžiojo jubiliejus tapo valstybės remiama kulto ir apeigų praktika: keliaujantis paveikslas, renginiai miestuose ir miesteliuose bei tautos vienybės idėja siejo istorinę atmintį su A. Smetonos režimu.
+
+## Laikotarpis ir datos
+- laikotarpis: 1930 m.
+- datos:
+  - 1930 m.
+- periodas: naujieji_laikai
+- periodo_grupes:
+  - tarpukaris
+- amziai:
+  - XX
+- date_start: 1930
+- date_end: 1930
+
+## Kas tai
+- kategorija: komemoracinė kultūrinė praktika
+
+## Atlikimas
+- kas atlieka: Vytauto Didžiojo mirties 500-ųjų metinių komitetas, valstybės institucijos ir renginių dalyviai
+- kada atliekama: 1930 m. Vytauto Didžiojo mirties 500 metų jubiliejaus metu
+- kaip atliekama: po Lietuvą nešiotas Vytauto paveikslas, rengti renginiai ir statyti paminklai
+
+## Paskirtis
+- Formuoti istorinį didvyrio kultą ir tautos vienybės vaizdinį.
+
+## Kontekstas
+- Praktika siejama su tarpukario valstybine atminties politika ir A. Smetonos režimo ideologija.
+
+## Teiginiai
+- t-001
+  teiginys: "Vytauto Didžiojo 500-ųjų metinių komitetas inicijavo atminimo panteono idėją, keliaujantį paveikslą, renginius ir paminklus."
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: "Vytauto Didžiojo kultas siejo senovės didvyrio praeitį su A. Smetonos valdoma Lietuvos valstybe ir tautos vienybės idėja."
+  pagrindžia:
+    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: Citata aprašo jubiliejines apeigas, keliaujantį paveikslą ir renginius.
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata patikrinta kaip pažodinis darbinio šaltinio fragmentas."
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: Citata tiesiogiai įvardija Vytauto Didžiojo kulto formavimą ir jo politinę mintį.
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    biausia Vytauto jubiliejinių renginių mintis – tautos vienybė per sukeltą
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata patikrinta kaip pažodinis darbinio šaltinio fragmentas."
+  pagrindžia:
+    - t-002
+
+## Šaltiniai ir įrodymai
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/socialinė-praktika]]
+
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/ivykiai/Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.)]]

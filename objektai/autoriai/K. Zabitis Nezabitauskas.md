@@ -44,8 +44,5 @@ Zabitis Nezabitauskas išleido lietuviškųjų knygų bibliografiją, S.
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/knyga]]
-
 ### Susiję objektai
 - [[objektai/autoriai/S. Stanevičius]]

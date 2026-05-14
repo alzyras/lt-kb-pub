@@ -56,6 +56,3 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]
-
-### Susiję objektai
-- [[objektai/vietos/Livonija]]

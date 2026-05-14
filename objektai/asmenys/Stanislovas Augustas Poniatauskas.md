@@ -168,9 +168,6 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
     - t-008
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/reforma]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Kotryna II]]
 - [[objektai/vietos/Petrapilis]]

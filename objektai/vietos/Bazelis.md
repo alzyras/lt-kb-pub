@@ -58,8 +58,5 @@ tags:
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/unija]]
-
 ### Susiję objektai
 - [[objektai/zodynas/konsiliumas]]

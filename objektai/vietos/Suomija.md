@@ -18,29 +18,41 @@ tags:
 Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir Estijos) arba tarp jų, Suomijos ir Lenkijos pasiliko be vaisių, kol pagaliau Lietuvos vyriausybei pavyko surasti bendradarbiavimo formą, kuri buvo ir Latvių ir Estų priimta; pati.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir Estijos) arba tarp jų, Suomijos ir Lenkijos pasiliko be vaisių, kol pagaliau Lietuvos vyriausybei pavyko surasti bendradarbiavimo formą, kuri buvo ir Latvių ir Estų priimta; pati.'
+- t-002
+  teiginys: 'Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai.'
   pagrindžia:
-    - c-001
+    - c-002
+- t-003
+  teiginys: 'Sovietams kariaujant su Suomija Baltijos valstybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos kaip agresorė.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir Estijos) arba tarp jų, Suomijos ir Lenkijos pasiliko be vaisių, kol pagaliau Lietuvos vyriausybei pavyko surasti bendradarbiavimo formą, kuri buvo ir Latvių ir Estų priimta; pati.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-002
+  santrauka: 'Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvi-
-    jos ir Estijos) arba tarp jų, Suomijos ir Lenkijos pasiliko be vai-
-    sių, kol pagaliau Lietuvos vyriausybei pavyko surasti bendra-
-    darbiavimo formą, kuri buvo ir Latvių ir Estų priimta; pati su-
-    tartis buvo pasirašyta Ženevoje 1934 metų rugsėjo mėn. 12 d.
+    Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002
+- c-003
+  santrauka: 'Sovietams kariaujant su Suomija Baltijos valstybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos kaip agresorė.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Ženeva]]
+- [[objektai/vietos/SSRS]]

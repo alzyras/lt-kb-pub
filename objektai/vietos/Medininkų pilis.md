@@ -48,10 +48,13 @@ Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų
 - t-001
   teiginys: "Vytauto laikais Medininkų pilis buvo dar mūrais sustiprinta."
   pagrindžia:
-    - c-002
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -69,20 +72,18 @@ Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: Medininkų pilis papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+- c-003
+  santrauka: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    nesgi žinoma yra, jog pilys Vitesbės, Medininkų, Merkinės, Vilkmergės, Kauno ir
-    Raigardo pakelėmis buvo tų prekių, kurios ėjo iš Mugapilio į lenkus ir tolimesnes saulėlydžio tautas.
-  citata_rodoma: ""
+    visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-    - t-001
+    - t-002
 
 ## Šaltiniai ir įrodymai
 
@@ -94,4 +95,4 @@ Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų
 
 ### Susiję objektai
 - [[objektai/vietos/Lydos pilis]]
-- [[objektai/vietos/Ukmergė]]
+- [[objektai/asmenys/Vytautas]]

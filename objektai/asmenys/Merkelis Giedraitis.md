@@ -78,8 +78,5 @@ Merkelis Giedraitis. amž. gale (1582 m.) pasirodo pirmoji spausdinta Lietuvos i
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/knyga]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Motiejus Strikauskis]]

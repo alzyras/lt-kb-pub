@@ -82,7 +82,6 @@ Karo metu jis gyveno pas savo giminaitį Brandenburgo ir Prūsų kunigaikštį; 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
-- [[temos/šeima]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Boguslovas Radvila]]

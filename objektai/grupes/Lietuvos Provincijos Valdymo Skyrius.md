@@ -39,7 +39,3 @@ Prasidėjus sukilimui Lenkijoje, po poros mėnesių ir Lietuvoje susidarė revol
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/sukilimas]]

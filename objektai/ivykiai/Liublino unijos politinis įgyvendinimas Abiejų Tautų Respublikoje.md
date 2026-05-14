@@ -1,0 +1,52 @@
+---
+tipas: ivykis
+pavadinimas: 'Liublino unijos politinis įgyvendinimas Abiejų Tautų Respublikoje'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - ivykis
+  - karalius
+  - tauta
+  - valdovas
+---
+# Liublino unijos politinis įgyvendinimas Abiejų Tautų Respublikoje
+
+## Santrauka
+
+Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos sąjunga, sukurta Liublino unijos.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: 'Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos sąjunga, sukurta Liublino unijos.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos sąjunga, sukurta Liublino unijos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    mas, susidėjęs iš Senato ir Atstovų rūmų ir rinkęs karalių. Seime Lietuva
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001

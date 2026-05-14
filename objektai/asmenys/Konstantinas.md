@@ -42,8 +42,5 @@ Tada karalius kreipėsi į Kotryną, siūlydamasis užleisti jos vaikaičiui Kon
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/reforma]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Kotryna II]]

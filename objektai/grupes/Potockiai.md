@@ -52,8 +52,5 @@ tags:
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/reforma]]
-
 ### Susiję objektai
 - [[objektai/grupes/Čartoriskiai]]

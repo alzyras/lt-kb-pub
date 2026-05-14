@@ -83,8 +83,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kuršas]]
-- [[objektai/vietos/Prūsija]]

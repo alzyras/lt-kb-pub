@@ -30,69 +30,26 @@ tags:
 Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo atimamas. Bet Vytautas suprato, kad ekonomiškam Lietuvos kilimui reikalingi ir piniguočiai, kurie reikale teiktų kredito. Todėl atvykusių žydų jis ne tik nespaudė, bet dar jiems davė.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo atimamas. Bet Vytautas suprato, kad ekonomiškam Lietuvos kilimui reikalingi ir piniguočiai, kurie reikale teiktų kredito. Todėl atvykusių žydų jis ne tik nespaudė, bet dar jiems davė.'
-  pagrindžia:
-    - c-001
-
 - t-002
   teiginys: 'Žydai šiame fragmente rodomi kaip Vilniaus prekybinio gyvenimo dalis, tačiau apribota.'
   pagrindžia:
     - c-004
-    - c-002
-    - c-003
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
+- t-003
+  teiginys: 'Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“.'
+  pagrindžia:
+    - c-005
+- t-004
+  teiginys: 'Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo su buvusios LDK arba Abiejų Tautų Respublikos.'
+  pagrindžia:
+    - c-006
+- t-005
+  teiginys: 'O kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo atimamas. Bet Vytautas suprato, kad ekonomiškam Lietuvos kilimui reikalingi ir piniguočiai, kurie reikale teiktų kredito. Todėl atvykusių žydų jis ne tik nespaudė, bet dar jiems davė.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Daug kur Europoje jie buvo smarkiai persekiojami, iš-
-    varomi, jų turtas būdavo atimamas. Bet Vytautas suprato, kad
-    ekonomiškam Lietuvos kilimui reikalingi ir piniguočiai, kurie
-    reikale teiktų kredito. Todėl atvykusių žydų jis ne tik nespaudė,
-    bet dar jiems davė privilegijų, suteikė jiems savivaldybę, leido
-    laisvai išpažinti savo tikėjimą, apdraudė jų gyvybę ir turtą (už
-    žydo nužudymą buvo paskirtos tokios pat bausmės, kaip ir už
-    bajoro nužudymą).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: zemas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: Žydai šiame fragmente rodomi kaip Vilniaus prekybinio gyvenimo dalis, tačiau apribota.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Žinoma yra taip pat, jog jau metuose 1300, Vyteniui Lietuvos ūkę valdant, patys gudai Vilniuje dvejas
-    klėtkas^1435 turėjo, o trečiąsias metuose 1320 įkūrė tenai parvestieji žydai iš Lenkų į nevalę.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: Žydai šiame fragmente rodomi kaip Vilniaus prekybinio gyvenimo dalis, tačiau apribota.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Nesgi žydai, iš Lenkų atėję į Lietuvą, noris plėtės
-    tenai ir jau nuomojo jos muitus, vienok smulkmėmis vis dar krikščionys vertės, o žydams nevalna
-    buvo pirkinėti už pilių įvežamas į pilį prekes, kaipogi ir pačioje pily pirm krikščionų, jau lig didžiosios
-    pusrytės^1481 , jau lig pietų, žydai pirkti negalėjo.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
 - c-004
   santrauka: Žydai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -108,11 +65,48 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
     - t-002
+- c-005
+  santrauka: 'Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos vardas tapo ir žydų savastimi. Visą istorinės Lietuvos laiko-
+    tarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-006
+  santrauka: 'Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo su buvusios LDK arba Abiejų Tautų Respublikos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-007
+  santrauka: 'O kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -122,5 +116,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - [[laikotarpiai/XIV amžius]]
 
 ### Susiję objektai
-- [[objektai/zodynas/Pusrytės]]
-- [[objektai/paprociai/Žydų prekybos ribojimas pilyse iki pusrytės]]
+- [[objektai/zodynas/Lite litvakai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/zodynas/litvakai Lite litviš]]

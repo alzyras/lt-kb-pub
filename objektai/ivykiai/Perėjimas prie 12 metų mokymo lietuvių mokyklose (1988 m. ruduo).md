@@ -1,0 +1,49 @@
+---
+tipas: ivykis
+pavadinimas: 'Perėjimas prie 12 metų mokymo lietuvių mokyklose (1988 m. ruduo)'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - ivykis
+---
+# Perėjimas prie 12 metų mokymo lietuvių mokyklose (1988 m. ruduo)
+
+## Santrauka
+
+pedagogų) okupuota Lietuva tapo bendros SSRS švietimo sistemos dalimi, nors Lietuvoje, motyvuojant reikalu mokytis lietuvių kalbos, išliko 11 klasių vidurinis mokymas, o visoje SSRS įvesta unifikuota 10 metų vidurinio mokymo sistema.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: 'pedagogų) okupuota Lietuva tapo bendros SSRS švietimo sistemos dalimi, nors Lietuvoje, motyvuojant reikalu mokytis lietuvių kalbos, išliko 11 klasių vidurinis mokymas, o visoje SSRS įvesta unifikuota 10 metų vidurinio mokymo sistema.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'pedagogų) okupuota Lietuva tapo bendros SSRS švietimo sistemos dalimi, nors Lietuvoje, motyvuojant reikalu mokytis lietuvių kalbos, išliko 11 klasių vidurinis mokymas, o visoje SSRS įvesta unifikuota 10 metų vidurinio mokymo sistema.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    je, motyvuojant reikalu mokytis lietuvių kalbos, išliko 11 klasių vidurinis
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001

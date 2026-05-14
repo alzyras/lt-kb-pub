@@ -75,6 +75,10 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
     - c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-009
+  teiginys: 'Per karą daugeliui gyventojų likus be namų ir lėšų, atsiradus minioms padegėlių ir benamių, susikūrė draugija nuo karo nukentėjusiesiems šelpti.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -212,12 +216,28 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-004
     - t-004
+- c-010
+  santrauka: 'Per karą daugeliui gyventojų likus be namų ir lėšų, atsiradus minioms padegėlių ir benamių, susikūrė draugija nuo karo nukentėjusiesiems šelpti.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Per karą daugeliui gyventojų likus be namų ir lėšų, atsiradus minioms
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/asmenys/Antanas Smetona]]

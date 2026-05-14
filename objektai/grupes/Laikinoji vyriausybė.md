@@ -1,0 +1,94 @@
+---
+tipas: grupe
+pavadinimas: 'Laikinoji vyriausybė'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - ginklas
+  - grupe
+  - kraštas
+  - tauta
+---
+# Laikinoji vyriausybė
+
+## Santrauka
+
+Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – užėmus radiją 1941 m. birželio 23 d. LAF atstovas Leo­nas Prapuolenis pranešė: „Susidariusi laikinoji vėl naujai atgimstančios Lietuvos Vyriausybė šiuo skelbia atstatanti laisvą ir. Škirpos, įkalinus jį „namų arešte“, birželio 23 dieną sudarytos Laikinosios vyriausybės (LV) vadovu tapo literatūros dėstytojas Juozas Ambrazevičius. Tačiau naciai vis tiek tos vyriausybės nepripažino, dėl to dauguma iš jos priimtų per 100 įstatymų ir nutarimų neveikė.
+
+## Teiginiai
+- t-001
+  teiginys: 'Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – užėmus radiją 1941 m. birželio 23 d. LAF atstovas Leo­nas Prapuolenis pranešė: „Susidariusi laikinoji vėl naujai atgimstančios Lietuvos Vyriausybė šiuo skelbia atstatanti laisvą ir.'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'Škirpos, įkalinus jį „namų arešte“, birželio 23 dieną sudarytos Laikinosios vyriausybės (LV) vadovu tapo literatūros dėstytojas Juozas Ambrazevičius.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Tačiau naciai vis tiek tos vyriausybės nepripažino, dėl to dauguma iš jos priimtų per 100 įstatymų ir nutarimų neveikė.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Laikinosios vyriausybės uždraudimas rodo, kad ji pirmiausia žiūrėjo lietuvių tautos interesų, buvo paskelbta prieš vokiečių vadovybės valią ir nebuvo nacių politinių intrigų darinys.'
+  pagrindžia:
+    - c-004
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – užėmus radiją 1941 m. birželio 23 d. LAF atstovas Leo­nas Prapuolenis pranešė: „Susidariusi laikinoji vėl naujai atgimstančios Lietuvos Vyriausybė šiuo skelbia atstatanti laisvą ir.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    negailėta šiltų žodžių nacių Vokietijai, kuri „išgelbėjo Europos kultūrą ir
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Škirpos, įkalinus jį „namų arešte“, birželio 23 dieną sudarytos Laikinosios vyriausybės (LV) vadovu tapo literatūros dėstytojas Juozas Ambrazevičius.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    tapo literatūros dėstytojas Juozas Ambrazevičius. LV vyravo krikščionių
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Tačiau naciai vis tiek tos vyriausybės nepripažino, dėl to dauguma iš jos priimtų per 100 įstatymų ir nutarimų neveikė.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    jo palaikyti ryšių su visu kraštu – paštas, telegrafas, telefonas naudoti tik
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Laikinosios vyriausybės uždraudimas rodo, kad ji pirmiausia žiūrėjo lietuvių tautos interesų, buvo paskelbta prieš vokiečių vadovybės valią ir nebuvo nacių politinių intrigų darinys.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Laikinosios vyriausybės uždraudimas rodo, kad ji pirmiausia žiūrėjo
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/1941 m. Birželio sukilimas]]
+- [[objektai/ivykiai/Laikinosios vyriausybės sudarymas (1941 m. birželio 23 d.)]]
+- [[objektai/posakiai/„Susidariusi laikinoji... atstatanti laisvą ir nepriklausomą Lietuvos valstybę“]]

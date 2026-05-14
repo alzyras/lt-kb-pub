@@ -23,7 +23,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 - t-001
   teiginys: 'Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D.'
   pagrindžia:
-    - c-008
     - c-001
 - t-002
   teiginys: 'Algirdo įtaka šiaurėje siekė net Pskovo ir D.Naugardo miestų respublikas.'
@@ -49,6 +48,18 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginys: 'Kai Stp. Batoras su svarbiausiomis jėgomis apgulė Pskovą, o mažesni jo kariuomenės būriai naikino tolimąsias rusų žemes, Posevinui tarpininkaujant, prasidėjo derybos.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Žinoma, kad 1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per kurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką.'
+  pagrindžia:
+    - c-009
+- t-009
+  teiginys: 'Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijungtos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas.'
+  pagrindžia:
+    - c-010
+- t-010
+  teiginys: 'Grįžimas namo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas – pajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.).'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -154,23 +165,46 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
-- c-008
-  santrauka: Pskovas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+- c-009
+  santrauka: 'Žinoma, kad 1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per kurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Ilgainiui Vytautas, tapęs Lietuvos ūkės valdymieru, užėmė garsią pilį Mugapilio ir Pleskavo ir
-    sunėrė su Lietuvos ūke, ir per tą didžiau praplatino Lietuvos rubežius taip, jog tame amžiuje Lietuvos
-  citata_rodoma: ""
+    1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-    - t-001
+    - t-008
+- c-010
+  santrauka: 'Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijungtos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-011
+  santrauka: 'Grįžimas namo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas – pajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    namo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas –
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Didysis Naugardas]]
 - [[objektai/vietos/Možaiskas]]
+- [[objektai/vietos/Polockas]]
 - [[objektai/vietos/Tverė]]

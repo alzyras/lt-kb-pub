@@ -206,9 +206,6 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     - t-010
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/reforma]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Konstantinas]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatauskas]]

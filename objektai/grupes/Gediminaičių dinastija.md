@@ -58,6 +58,19 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-023
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'Mat besigviešiantys sosto jau turės pagrįsti savo teises, giminystę arba priklausomybę valdovų dinastijai.'
+  pagrindžia:
+    - c-025
+- t-008
+  teiginys: 'Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gediminas (valdęs 1316–1341 m.).'
+  pagrindžia:
+    - c-026
+- t-009
+  teiginys: 'Gediminaičių dinastijos valdymas susijęs su Lietuvos istorijos laikotarpiu, istorinėje tautos sąmonėje laikomu šlovingiausiu.'
+  pagrindžia:
+    - c-027
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos palikuonys, kurių teisės sostams buvo pripažįstamos iš tradicijos (nė vienoje valstybėje nebuvo paveldėjamojo įstatymo).'
@@ -160,12 +173,52 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
+- c-025
+  santrauka: 'Mat besigviešiantys sosto jau turės pagrįsti savo teises, giminystę arba priklausomybę valdovų dinastijai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    valstybės stabilumo požymių. Mat besigviešiantys sosto jau turės pagrįsti
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-026
+  santrauka: 'Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gediminas (valdęs 1316–1341 m.).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gedimi-
+    nas (valdęs 1316–1341 m.). Gediminas nebuvo pirmas šios dinastijos atsto-
+    vas, tačiau būtent jis istoriniu vaidmeniu užgožė savo pirmtakus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-027
+  santrauka: 'Gediminaičių dinastijos valdymas susijęs su Lietuvos istorijos laikotarpiu, istorinėje tautos sąmonėje laikomu šlovingiausiu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    yra vienas iš svarbiausių lietuvių tautos ir Lietuvos valstybės simbolių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
-- [[temos/valdovas]]
+
+### Susiję objektai
+- [[objektai/daiktai/Gediminaičių stulpai]]

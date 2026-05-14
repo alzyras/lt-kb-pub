@@ -77,8 +77,5 @@ Visuomeniniai santykiai ir valstybės santvarka XVI a. Valstybinė santvarka po 
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/unija]]
-
 ### Susiję objektai
 - [[objektai/zodynas/unija]]

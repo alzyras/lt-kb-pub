@@ -63,6 +63,10 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-009
+  teiginys: 'Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingoji pranciškonų kankinių istorija, davusi pradžią vienai ilgaamžiškiausių Vilniaus legendų.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -174,11 +178,23 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
     - t-002
+- c-010
+  santrauka: 'Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingoji pranciškonų kankinių istorija, davusi pradžią vienai ilgaamžiškiausių Vilniaus legendų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vilniaus legendų. Nuo XIV a. žinoma istorija apie dviejų pranciškonų
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai

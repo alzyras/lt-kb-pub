@@ -1,0 +1,81 @@
+---
+tipas: autorius
+pavadinimas: "Ksaveras Bogušas"
+sukurta: "2026-05-14"
+variantai:
+  - "Ksavero Bogušo"
+aliases: []
+saltiniai:
+  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+bukle: juodrastis
+laikotarpis: "1808 m."
+datos:
+  - "1808 m."
+periodas: "naujieji_laikai"
+periodo_grupes:
+  - "Lietuva"
+amziai:
+  - "XIX"
+date_start: "1808"
+date_end: "1808"
+vaidmenys:
+  - "kunigas"
+  - "teologas"
+  - "knygelės autorius"
+dalyviai: []
+susije_irasai: []
+patikimumas: "aukštas"
+tags:
+  - autorius
+  - dvasininkas
+  - mokslininkas
+---
+# Ksaveras Bogušas
+
+## Santrauka
+
+Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kurio knygelėje „Apie lietuvių tautos ir kalbos kilmę“ pirmą kartą nuskambėjo mintis apie lietuvių kalbos tinkamumą atskirai aukštajai kultūrai.
+
+## Darbai
+
+- Apie lietuvių tautos ir kalbos kilmę
+
+## Teiginiai
+- t-001
+  teiginys: "Ksaveras Bogušas apibūdintas kaip iš Lietuvos kilęs kunigas ir teologas."
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: "Bogušo knygelė „Apie lietuvių tautos ir kalbos kilmę“ siejama su mintimi apie lietuvių kalbos tinkamumą atskirai aukštajai kultūrai."
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: Bogušo knygelė ir joje iškelta lietuvių kalbos aukštosios kultūros idėja.
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    gija išleido iš Lietuvos kilusio kunigo ir teologo Ksavero Bogušo knygelę
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+    - t-002
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/dvasininkas]]
+
+### Laikotarpiai
+- [[laikotarpiai/XIX amžius]]
+
+### Susiję objektai
+- [[objektai/grupes/Mokslo bičiulių draugija]]

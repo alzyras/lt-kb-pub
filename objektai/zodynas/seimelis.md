@@ -101,8 +101,5 @@ tags:
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Pavietų ir vaivadijų bajorų seimeliai]]

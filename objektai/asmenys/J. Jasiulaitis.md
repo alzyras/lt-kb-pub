@@ -40,5 +40,4 @@ Jasiulaitis).
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Petras Kriaučiūnas]]
 - [[objektai/asmenys/V. Staniškis]]

@@ -39,7 +39,3 @@ Prie jų dar prisidėjo Austrijos Juozapas II.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/reforma]]

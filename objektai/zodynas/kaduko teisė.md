@@ -39,7 +39,3 @@ Jei išmirdavo kuri nors bajorų šeima be įpėdinių, tai jų turtai ir dvarai
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/šeima]]

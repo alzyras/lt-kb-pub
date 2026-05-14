@@ -97,9 +97,6 @@ Pirmoji elekcija ir Henrikas Valua (1573—1574 m.). Savo kandidatūrą statė i
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Karolis IX]]
 - [[objektai/asmenys/Ona (Zigmanto Augusto sesuo)]]

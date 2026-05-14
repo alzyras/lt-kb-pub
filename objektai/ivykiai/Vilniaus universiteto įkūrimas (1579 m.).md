@@ -1,0 +1,120 @@
+---
+tipas: ivykis
+pavadinimas: 'Vilniaus universiteto įkūrimas (1579 m.)'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - ivykis
+  - karalius
+  - popiežius
+  - valdovas
+---
+# Vilniaus universiteto įkūrimas (1579 m.)
+
+## Santrauka
+
+Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų mokyklų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkurtas 1579 m.). Epochos pradžią galima sieti ne tik su Liublino unija, bet ir su jėzuitais, kurie atvykę į Lietuvą 1579 m. įkūrė Vilniaus universitetą. Tačiau Steponas Batoras Livonijos karo metu rūpinosi mūzų prieglobsčio – Vilniaus universiteto – kūrimu.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: 'Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų mokyklų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkurtas 1579 m.).'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'Epochos pradžią galima sieti ne tik su Liublino unija, bet ir su jėzuitais, kurie atvykę į Lietuvą 1579 m. įkūrė Vilniaus universitetą.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Tačiau Steponas Batoras Livonijos karo metu rūpinosi mūzų prieglobsčio – Vilniaus universiteto – kūrimu.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: '1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Yra ir kitas senojo Vilniaus universiteto istorinės reikšmės aspektas.'
+  pagrindžia:
+    - c-005
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų mokyklų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkurtas 1579 m.).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Epochos pradžią galima sieti ne tik su Liublino unija, bet ir su jėzuitais, kurie atvykę į Lietuvą 1579 m. įkūrė Vilniaus universitetą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    bajorų santvarka ir Valakų reformos suformuotu lažiniu palivarkiniu ūkiu,
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Tačiau Steponas Batoras Livonijos karo metu rūpinosi mūzų prieglobsčio – Vilniaus universiteto – kūrimu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    reformacijos konkurencija. Lietuvos katalikai – ir pats Vilniaus vyskupas
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: '1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Yra ir kitas senojo Vilniaus universiteto istorinės reikšmės aspektas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    universitetai. Tačiau Vilniuje universitetas įkurtas praėjus vos dviem
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]

@@ -55,9 +55,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]
-- [[temos/valdovas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]

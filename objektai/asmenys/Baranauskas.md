@@ -100,8 +100,5 @@ Baranauskas (1835—1902 m.) ir kun. Vienažindys (1841—1892 m.), kurių daine
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/knyga]]
-
 ### Susiję objektai
 - [[objektai/autoriai/Antanas Baranauskas]]

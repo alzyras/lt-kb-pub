@@ -68,6 +68,10 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Galvanausko miegamojo palangės sprogo padėta bomba – daugelyje vietų sužeistas E.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -83,12 +87,24 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
+- c-002
+  santrauka: 'Galvanausko miegamojo palangės sprogo padėta bomba – daugelyje vietų sužeistas E.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Trojos arklys. Jį atmesti ragino Vokietijos ir Rusijos diplomatai. Lapkričio
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Šaltiniai ir įrodymai
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/ginklas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/asmenys/Ernestas Galvanauskas]]

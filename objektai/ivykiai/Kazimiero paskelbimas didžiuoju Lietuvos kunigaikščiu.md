@@ -112,4 +112,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
-- [[temos/valdovas]]

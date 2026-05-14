@@ -67,6 +67,15 @@ Terminas vartojamas tiek aiškinamajame pasakojime, tiek cituojamame politiniame
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'LLV seimuose ilgainiui įsigalėjo liberum veto teisė (sprendimai turėjo būti priimami vienbalsiai), todėl bendras Seimas niekaip negalėjo primesti Lietuvai savo valios.'
+  pagrindžia:
+    - c-004
+- t-006
+  teiginys: 'Deja, šioje santvarkoje būta daugiau anarchijos nei tvarkos – amžininkai net sakydavo: „Valstybė netvarka remiasi.“ Mat LLV seimuose susiformavo liberum veto teisė ir kiekvienas Seimo narys galėjo vetuoti jo sprendimus, paralyžiuoti veiklą.'
+  pagrindžia:
+    - c-005
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Pateikiamas sąvokos paaiškinimas ir jos padarinių aprašymas.
@@ -121,6 +130,31 @@ Terminas vartojamas tiek aiškinamajame pasakojime, tiek cituojamame politiniame
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-004
+  santrauka: 'LLV seimuose ilgainiui įsigalėjo liberum veto teisė (sprendimai turėjo būti priimami vienbalsiai), todėl bendras Seimas niekaip negalėjo primesti Lietuvai savo valios.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-005
+  santrauka: 'Deja, šioje santvarkoje būta daugiau anarchijos nei tvarkos – amžininkai net sakydavo: „Valstybė netvarka remiasi.“ Mat LLV seimuose susiformavo liberum veto teisė ir kiekvienas Seimo narys galėjo vetuoti jo sprendimus, paralyžiuoti veiklą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    blika (juo labiau kad oficialiai valstybė taip ir vadinosi). Tai reikštų, kad
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
 ## Šaltiniai ir įrodymai
 
 ## Pastabos
@@ -129,3 +163,7 @@ Terminas vartojamas tiek aiškinamajame pasakojime, tiek cituojamame politiniame
 ### Laikotarpiai
 - [[laikotarpiai/XVII amžius]]
 - [[laikotarpiai/XVIII amžius]]
+
+### Susiję objektai
+- [[objektai/zodynas/Bajorų respublika liberum veto]]
+- [[objektai/zodynas/bajoriškoji demokratija luominė monarchija]]

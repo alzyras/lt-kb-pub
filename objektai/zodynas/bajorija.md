@@ -41,7 +41,3 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/valdovas]]

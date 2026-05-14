@@ -100,7 +100,6 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/socialinė-praktika]]
-- [[temos/šeima]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]

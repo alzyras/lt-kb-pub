@@ -21,6 +21,18 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   teiginys: 'Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: '1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos dalies apskričių buvo sudaryta Kauno gubernija, o prie Vilniaus gubernijos priskirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms, todėl caro valdžia etnografiškai.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Beje, ekspertus apstulbino tai, kad Kauno gubernijoje (skaičiuojant visus gyventojus) moterų raštingumas buvo didesnis nei vyrų: atitinkamai 55 proc.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis), be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti ir Liepojos uosto (vokiškoji Klaipėda.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -38,3 +50,39 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos dalies apskričių buvo sudaryta Kauno gubernija, o prie Vilniaus gubernijos priskirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms, todėl caro valdžia etnografiškai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    berniją, o Vilniaus guberniją priskyrė prie baltarusiškų, nors vakarinėje
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Beje, ekspertus apstulbino tai, kad Kauno gubernijoje (skaičiuojant visus gyventojus) moterų raštingumas buvo didesnis nei vyrų: atitinkamai 55 proc.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    nijoje (skaičiuojant visus gyventojus) moterų raštingumas buvo didesnis
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis), be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti ir Liepojos uosto (vokiškoji Klaipėda.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

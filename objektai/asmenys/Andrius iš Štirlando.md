@@ -70,7 +70,3 @@ Andrius iš Štirlando su būriu palydovų atvyko į Lietuvą. Andrius buvo iš 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/krikštas]]

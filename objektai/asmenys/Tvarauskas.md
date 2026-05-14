@@ -40,7 +40,3 @@ Bet jau 1874 m. atsirado vienas lietuviškai pramokęs lenkas Tvarauskas, kuris 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/unija]]

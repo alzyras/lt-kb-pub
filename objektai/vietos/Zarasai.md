@@ -22,6 +22,10 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
   teiginys: 'Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės, o Pažaislio vienuolyne apsigyveno pravoslavų vyskupas — archieriejus.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Voldemaras šį kartą nubaustas ypač rimtai – iš Lietuvos provincijos miestelio Zarasų ištremtas į Paryžių...'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -40,6 +44,18 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Voldemaras šį kartą nubaustas ypač rimtai – iš Lietuvos provincijos miestelio Zarasų ištremtas į Paryžių...'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos provincijos miestelio Zarasų ištremtas į Paryžių...
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

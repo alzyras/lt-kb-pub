@@ -38,7 +38,3 @@ Pociejus su Terleckiu, 1595 m. nuvykę į Romą ir gavę popiežiaus Klemenso VI
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/unija]]

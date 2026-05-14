@@ -52,8 +52,5 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/kunigas]]
-
 ### Susiję objektai
 - [[objektai/vietos/Vilniaus vyskupija]]

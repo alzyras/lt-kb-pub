@@ -83,8 +83,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]
-- [[temos/valdovas]]

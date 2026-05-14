@@ -36,7 +36,3 @@ Purėnas, 1831 m. sukilimas Lietuvoje (1931).
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/sukilimas]]

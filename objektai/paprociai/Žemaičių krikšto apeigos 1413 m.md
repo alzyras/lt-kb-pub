@@ -93,6 +93,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/krikštas]]
 - [[temos/ritualas]]
-- [[temos/valdovas]]

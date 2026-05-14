@@ -84,5 +84,3 @@ Pats apsukrusis ir įtakingasis to meto Lietuvos politikos veikėjas, Žemaiči�
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
-- [[temos/unija]]
-- [[temos/aktas - unija]]

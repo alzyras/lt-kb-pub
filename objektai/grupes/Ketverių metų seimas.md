@@ -32,6 +32,14 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
   teiginys: 'Bet reformuojamasis seimas dar nespėjo baigti savo darbo, kai Rusija suorganizavo reformų priešų konfederaciją ir, davusi jai savo kariuomenės, viską sugriovė.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Jos įstatus 1791 m. patvirtino Ketverių metų seimas, parodydamas savo prielankumą tokiam „eksperimentui“, kuriuo buvo bandoma diegti respublikonišką gyvenseną.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -76,10 +84,31 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Jos įstatus 1791 m. patvirtino Ketverių metų seimas, parodydamas savo prielankumą tokiam „eksperimentui“, kuriuo buvo bandoma diegti respublikonišką gyvenseną.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    patvirtino Ketverių metų seimas, parodydamas savo prielankumą tokiam
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    seimas priėmė Gegužės trečiosios konstituciją. Prieš tai Seimas ėmėsi la-
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/reforma]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.)]]

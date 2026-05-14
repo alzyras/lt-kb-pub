@@ -1,0 +1,57 @@
+---
+tipas: asmuo
+pavadinimas: 'Kazimiera Prunskienė'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
+---
+# Kazimiera Prunskienė
+
+## Santrauka
+
+Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazimiera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti Lietuvos kovos dėl ekonominio savarankiškumo klausimus, pasisakė už įmonių savarankiškumą ir rinkos laisvę, kad respublika neturi. Promaskviniai būriai turėjo įsiveržti į AT-AS, išvaikyti parlamentą, o sovietų kariuomenė ir specialios paskirties būriai („Alfa“) įsikišti į „pilietinį konfliktą“ (pasinaudota premjerės Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas) ir.
+
+## Teiginiai
+- t-001
+  teiginys: 'Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazimiera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti Lietuvos kovos dėl ekonominio savarankiškumo klausimus, pasisakė už įmonių savarankiškumą ir rinkos laisvę, kad respublika neturi.'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'Promaskviniai būriai turėjo įsiveržti į AT-AS, išvaikyti parlamentą, o sovietų kariuomenė ir specialios paskirties būriai („Alfa“) įsikišti į „pilietinį konfliktą“ (pasinaudota premjerės Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas) ir.'
+  pagrindžia:
+    - c-002
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazimiera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti Lietuvos kovos dėl ekonominio savarankiškumo klausimus, pasisakė už įmonių savarankiškumą ir rinkos laisvę, kad respublika neturi.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    miera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Promaskviniai būriai turėjo įsiveržti į AT-AS, išvaikyti parlamentą, o sovietų kariuomenė ir specialios paskirties būriai („Alfa“) įsikišti į „pilietinį konfliktą“ (pasinaudota premjerės Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas) ir.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    ties būriai („Alfa“) įsikišti į „pilietinį konfliktą“ (pasinaudota premjerės
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/M. Gorbačiovo ultimatumas ir sovietų kariuomenės veiksmai Lietuvoje (1991 m. sausio 10–11 d.)]]

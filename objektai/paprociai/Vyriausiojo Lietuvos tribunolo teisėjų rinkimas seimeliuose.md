@@ -128,8 +128,5 @@ Nenurodyta
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/kunigas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Vyriausiasis Lietuvos tribunolas]]

@@ -20,10 +20,6 @@ tags:
 Į Vengriją ordinas buvo pakviestas kariauti su ją puolančiais pagonimis kumanais. Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),. Nors Stepono Batoro tėvynėje, Vengrijoje, buvo paplitęs protestantizmas, tačiau jis pats buvo išauklėtas katalikiškai.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Į Vengriją ordinas buvo pakviestas kariauti su ją puolančiais pagonimis kumanais.'
-  pagrindžia:
-    - c-001
 - t-002
   teiginys: 'Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),.'
   pagrindžia:
@@ -32,24 +28,12 @@ tags:
   teiginys: 'Nors Stepono Batoro tėvynėje, Vengrijoje, buvo paplitęs protestantizmas, tačiau jis pats buvo išauklėtas katalikiškai.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Lietuva, Lenkijos padedama, atsilaikė prieš stačiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m. patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Į Vengriją ordinas buvo pakviestas kariauti su ją puolančiais pagonimis kumanais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Į Vengriją ordinas buvo pakviestas kariauti su ją puo-
-    lančiais pagonimis kumanais.
-    Bet Vengrijos karalius, pamatęs, kad or-
-    dinas čia ne jam tarnauja, bet ruošiasi sukurti savo valstybę, jį išvijo
-    (1224 m.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
 - c-002
   santrauka: 'Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -78,10 +62,20 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Lietuva, Lenkijos padedama, atsilaikė prieš stačiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m. patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    čiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/ginklas]]
-
 ### Susiję objektai
+- [[objektai/vietos/Mohačas]]
 - [[objektai/vietos/Vokietija]]

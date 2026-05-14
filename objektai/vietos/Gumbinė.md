@@ -21,6 +21,10 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   teiginys: 'kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gumbinės, Stalupėnų.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Prūsijoje buvo net oficialiai vartojamas Lietuvos vardas – įsteigtas Lietuvos departamentas, kurio centras Gumbinė, – ilgainiui dėl germanizacijos ir savaiminio lietuvių vokietėjimo lietuvių kalbos vartojimas Prūsijoje siaurėjo,.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -31,13 +35,26 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
     ties, Gumbinės, Stalupėnų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: žemas
+  patikimumo_lygis: zemas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Prūsijoje buvo net oficialiai vartojamas Lietuvos vardas – įsteigtas Lietuvos departamentas, kurio centras Gumbinė, – ilgainiui dėl germanizacijos ir savaiminio lietuvių vokietėjimo lietuvių kalbos vartojimas Prūsijoje siaurėjo,.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    liai vartojamas Lietuvos vardas – įsteigtas Lietuvos departamentas, kurio
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Prūsija]]
 - [[objektai/vietos/Stalupėnai]]
 - [[objektai/vietos/Įsrutis]]

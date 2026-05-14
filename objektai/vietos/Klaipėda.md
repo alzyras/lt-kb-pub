@@ -54,6 +54,18 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
     - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Tačiau vėliau jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei Užnemunę.'
+  pagrindžia:
+    - c-008
+- t-007
+  teiginys: 'Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis), be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti ir Liepojos uosto (vokiškoji Klaipėda.'
+  pagrindžia:
+    - c-009
+- t-008
+  teiginys: 'Delegacija buvo instruktuota diskusijose dėl sienų remtis etnografiniu principu darant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipėdą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad Lietuva būtų priimta į Tautų.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -115,38 +127,45 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-- c-006
-  santrauka: Klaipėda papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+- c-008
+  santrauka: 'Tačiau vėliau jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei Užnemunę.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Vyriškieji taip pat strūnijo^568 sau visus trobesius, svetimo meistro
-    nereikalaudami, dailidavo ratus, važius, šlėdes, arba šlajas, ir roges. Vokiečiams užgulus jūrines jų
-    pilis, beje: Klaipėdos, Liepojos, Lielupio ir Daugavos, kad nebgalėjo patys su svečia šalia per jūrą
-  citata_rodoma: ""
+    jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-004
-- c-007
-  santrauka: Klaipėda papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+    - t-006
+- c-009
+  santrauka: 'Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis), be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti ir Liepojos uosto (vokiškoji Klaipėda.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    įkūrę sau tenai pilis Rygos, Ventspilio, Liepojos,
-    Klaipėdos, Karaliaučiaus, Elbingo, Dansko užimtuosiuose nuo žemaičių kraštuose.
-  citata_rodoma: ""
+    apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-004
-    - t-004
+    - t-007
+- c-010
+  santrauka: 'Delegacija buvo instruktuota diskusijose dėl sienų remtis etnografiniu principu darant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipėdą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad Lietuva būtų priimta į Tautų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    dą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Nemunas]]
 - [[objektai/vietos/Žemaitija]]
-- [[objektai/vietos/Dancigas]]
-- [[objektai/vietos/Ryga]]
+- [[objektai/vietos/Užnemunė]]

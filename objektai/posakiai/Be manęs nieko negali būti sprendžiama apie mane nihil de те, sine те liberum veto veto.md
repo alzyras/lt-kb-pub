@@ -129,7 +129,3 @@ Jie svajojo net panaikinti liberum veto, bet kadangi tam pasipriešino Rusų ir 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]

@@ -38,7 +38,3 @@ Lietuviai tų knygpalaikių neėmė nė į rankas, o slaptųjų knygų skaičius
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/knyga]]

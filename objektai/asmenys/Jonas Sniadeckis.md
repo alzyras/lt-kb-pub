@@ -18,22 +18,21 @@ tags:
 Buvo pašalintas net universiteto rektorius, garsus mokslininkas Jonas Sniadeckis.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Buvo pašalintas net universiteto rektorius, garsus mokslininkas Jonas Sniadeckis.'
+- t-002
+  teiginys: 'Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Lelewel, 1786–1861), filosofas Jonas Sniadeckis (Jan Śniadecki, 1756–1830), chemikas ir biologas Andrius Sniadeckis (Andrzej Śniadecki), biologai Liudvigas Heinrichas Bojanus.'
   pagrindžia:
-    - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Buvo pašalintas net universiteto rektorius, garsus mokslininkas Jonas Sniadeckis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-002
+  santrauka: 'Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Lelewel, 1786–1861), filosofas Jonas Sniadeckis (Jan Śniadecki, 1756–1830), chemikas ir biologas Andrius Sniadeckis (Andrzej Śniadecki), biologai Liudvigas Heinrichas Bojanus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Buvo pašalintas net universiteto rektorius, garsus mokslininkas
-      Jonas Sniadeckis.
+    tete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Le-
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002

@@ -60,7 +60,3 @@ Jie buvo gavę iš Karolio Neuburgiečio 60.000 talerių ir pažadą, kad visi t
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ginklas]]

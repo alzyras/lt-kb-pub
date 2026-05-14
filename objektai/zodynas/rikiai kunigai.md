@@ -39,8 +39,3 @@ Tie vadai buvo vadinami rikiais ir kunigais.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/kunigas]]
-- [[temos/šeima]]

@@ -87,8 +87,5 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/valdovas]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Vytenio sąjunga su Rygos arkivyskupu ir rygiečiais]]

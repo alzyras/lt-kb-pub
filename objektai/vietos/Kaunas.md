@@ -100,6 +100,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-012
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-012
+  teiginys: 'Nors Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos miestas), ji dažnai laikoma Rytų Europos dalimi.'
+  pagrindžia:
+    - c-013
+- t-013
+  teiginys: 'O turima galvoje: žemės ūkio pažanga, lėktuvų projektavimas ir gamyba Kaune ir krepšininkų vyrų dukart – 1937 ir 1939 m. – iškovoti Europos čempionų titulai.'
+  pagrindžia:
+    - c-014
+- t-014
+  teiginys: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
+  pagrindžia:
+    - c-015
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Citata tiesiogiai apibūdina Kauną kaip stipriausią lietuvių pilį.
@@ -285,9 +298,48 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-011
+- c-013
+  santrauka: 'Nors Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos miestas), ji dažnai laikoma Rytų Europos dalimi.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos miestas),
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-014
+  santrauka: 'O turima galvoje: žemės ūkio pažanga, lėktuvų projektavimas ir gamyba Kaune ir krepšininkų vyrų dukart – 1937 ir 1939 m. – iškovoti Europos čempionų titulai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    galvoje: žemės ūkio pažanga, lėktuvų projektavimas ir gamyba Kaune ir
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-015
+  santrauka: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Alytus]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Nemunas]]
+- [[objektai/daiktai/ANBO lėktuvai]]
+- [[objektai/grupes/Hanza]]
+- [[objektai/vietos/Rytų Europa]]

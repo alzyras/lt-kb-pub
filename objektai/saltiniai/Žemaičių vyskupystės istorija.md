@@ -40,6 +40,10 @@ tags: []
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Daukantas įkalbino savo kraštietį Motiejų Valančių (1801– 1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus Katalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos istoriją lietuviškai.'
+  pagrindžia:
+    - c-002
 
 ## Bibliografiniai įrodymai
 - c-001
@@ -55,3 +59,17 @@ tags: []
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Daukantas įkalbino savo kraštietį Motiejų Valančių (1801– 1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus Katalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos istoriją lietuviškai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    riją lietuviškai. 1848 m. Vilniuje ši knyga, kurios autorius tais pat metais
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

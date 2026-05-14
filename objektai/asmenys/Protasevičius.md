@@ -159,5 +159,7 @@ Lietuvoje pirmas tuo susirūpino Vilniaus vyskupas Protasevičius. Todėl Vilnia
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
-- [[temos/kunigas]]
-- [[temos/popiežius]]
+
+### Susiję objektai
+- [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/asmenys/Zigmantas Augustas]]

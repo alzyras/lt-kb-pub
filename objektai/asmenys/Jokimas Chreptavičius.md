@@ -117,7 +117,3 @@ Su tokiais laisvaisiais valstiečiais jie darė sutartis, pagal kurias valstieč
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/knyga]]

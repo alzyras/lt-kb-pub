@@ -40,6 +40,10 @@ tags: []
     - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -89,8 +93,24 @@ tags: []
   pagrindžia:
     - t-002
     - t-003
+- c-004
+  santrauka: 'Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
+
+### Susiję objektai
+- [[objektai/zodynas/ankstyvasis feodalizmas kiemai]]
+- [[objektai/zodynas/ankstyvoji monarchija karinė monarchija]]

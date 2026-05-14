@@ -52,7 +52,3 @@ kitas jo sūnus, Jonas Albrechtas, buvo tėvo įpėdinis — Lenkų karalius. Jo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras (didysis kunigaikštis)]]

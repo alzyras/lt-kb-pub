@@ -52,6 +52,18 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginys: 'Kitaip tuo tarpu buvo Lenkijoje.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Lietuvoje, kaip ir Vidurio Europos šalyse (Lenkijoje, Čekijoje, Vengrijoje), skirtingai nei Rytų Europoje, nuo Viduramžių kūrėsi individualus valstiečių ūkis, o ne bendruomenė,.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Iš tikrųjų tai buvo lenkiška Lietuvos samprata: 1922 m. Lenkijos valia vykusiuose rinkimuose gen.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija, o XV–XVI a.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -176,10 +188,43 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Lietuvoje, kaip ir Vidurio Europos šalyse (Lenkijoje, Čekijoje, Vengrijoje), skirtingai nei Rytų Europoje, nuo Viduramžių kūrėsi individualus valstiečių ūkis, o ne bendruomenė,.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    (Lenkijoje, Čekijoje, Vengrijoje), skirtingai nei Rytų Europoje, nuo Vidu-
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Iš tikrųjų tai buvo lenkiška Lietuvos samprata: 1922 m. Lenkijos valia vykusiuose rinkimuose gen.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    durinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija, o XV–XVI a.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    ryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/valdovas]]
-
 ### Susiję objektai
 - [[objektai/vietos/Varšuva]]

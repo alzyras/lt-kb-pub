@@ -81,7 +81,6 @@ Iš savo pusės Lenkų bajorai pasižadėjo, kad mirus Jogailai nerinksią naujo
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
-- [[temos/valdovas]]
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos bajorija]]

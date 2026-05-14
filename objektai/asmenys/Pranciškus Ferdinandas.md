@@ -1,0 +1,39 @@
+---
+tipas: asmuo
+pavadinimas: 'Pranciškus Ferdinandas'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
+  - karas
+  - tauta
+---
+# Pranciškus Ferdinandas
+
+## Santrauka
+
+N aują impulsą savo veiklai Europos šalių tautiniai sąjūdžiai gavo 1914 m. birželio 28 d. Sarajeve nugriaudėjus šūviams į Austrijos-Vengrijos erchercogą Pranciškų Ferdinandą (Franz Ferdinand), kai dvi didelės koalicijos perėjo į karo padėtį – Vokietijos ir.
+
+## Teiginiai
+- t-001
+  teiginys: 'N aują impulsą savo veiklai Europos šalių tautiniai sąjūdžiai gavo 1914 m. birželio 28 d. Sarajeve nugriaudėjus šūviams į Austrijos-Vengrijos erchercogą Pranciškų Ferdinandą (Franz Ferdinand), kai dvi didelės koalicijos perėjo į karo padėtį – Vokietijos ir.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'N aują impulsą savo veiklai Europos šalių tautiniai sąjūdžiai gavo 1914 m. birželio 28 d. Sarajeve nugriaudėjus šūviams į Austrijos-Vengrijos erchercogą Pranciškų Ferdinandą (Franz Ferdinand), kai dvi didelės koalicijos perėjo į karo padėtį – Vokietijos ir.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    dėjus šūviams į Austrijos-Vengrijos erchercogą Pranciškų Ferdinandą
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001

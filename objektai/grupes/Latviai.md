@@ -19,22 +19,21 @@ tags:
 Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, tai iš jų visų susiformavo latvių tauta.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, tai iš jų visų susiformavo latvių tauta.'
+- t-002
+  teiginys: 'II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių ir latvių tautos.'
   pagrindžia:
-    - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, tai iš jų visų susiformavo latvių tauta.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-002
+  santrauka: 'II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių ir latvių tautos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, tai iš jų visų susiformavo
-    latvių tauta.
+    sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002

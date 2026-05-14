@@ -20,10 +20,6 @@ tags:
 Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkintos jų komisijos ir Lietuvos komisaro bendradarbiavimu visų įvykių likvidavime ir 1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui. Salia punktų, dėl kurių buvo susitarta, Ambasadorių Konferencija norėjo Klaipėdos konvencijos nuostatais pralaužti Lietuvos nusistatymą Lenkijos atžvilgiu ir patenkinti šiosios reikalavimus turėti laisvą tranzitą. Ambasadorių Konferencija pagaliau įteikė ultimatumą (rugpiūčio 8 d.), kuriuo pareikalavo per mėnesį laiko pasirašyti be jokių pataisų ir rezervų konferencijos paruoštą projektą.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkintos jų komisijos ir Lietuvos komisaro bendradarbiavimu visų įvykių likvidavime ir 1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui.'
-  pagrindžia:
-    - c-001
 - t-002
   teiginys: 'Salia punktų, dėl kurių buvo susitarta, Ambasadorių Konferencija norėjo Klaipėdos konvencijos nuostatais pralaužti Lietuvos nusistatymą Lenkijos atžvilgiu ir patenkinti šiosios reikalavimus turėti laisvą tranzitą.'
   pagrindžia:
@@ -32,30 +28,20 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
   teiginys: 'Ambasadorių Konferencija pagaliau įteikė ultimatumą (rugpiūčio 8 d.), kuriuo pareikalavo per mėnesį laiko pasirašyti be jokių pataisų ir rezervų konferencijos paruoštą projektą.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Ambasadorių Konferencija apkaltino Lietuvą Tautų Sąjungai, kad ji savo elgesiu Klaipėdoje gresianti suardyti taiką ir gerus internaciolinius santykius ir pareikalavo pritaikyti pakto 11 str.'
+- t-005
+  teiginys: 'Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant istorinę Lietuvos sostinę Vilnių Lenkijai, savotiškai lėmė, praleidęs progą patylėti… E.'
   pagrindžia:
-    - c-004
+    - c-005
+- t-006
+  teiginys: 'Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot A.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkintos jų komisijos ir Lietuvos komisaro bendradarbiavimu visų įvykių likvidavime ir 1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo
-    patenkintos jų komisijos ir Lietuvos komisaro bendradarbiavimu
-    visų įvykių likvidavime ir 1923 metų vasario 16 d. nutarė Klai-
-    pėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui
-    suteikiant autonominį režimą. Be to, turėjo būti duotas laisvas
-    tranzitas Nemunu iš lietuvių ir lenkų gyvenamų sričių ir grą-
-    žintos santarvininkių administracijos ir okupacijos išlaidos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
 - c-002
   santrauka: 'Salia punktų, dėl kurių buvo susitarta, Ambasadorių Konferencija norėjo Klaipėdos konvencijos nuostatais pralaužti Lietuvos nusistatymą Lenkijos atžvilgiu ir patenkinti šiosios reikalavimus turėti laisvą tranzitą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -85,21 +71,47 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Ambasadorių Konferencija apkaltino Lietuvą Tautų Sąjungai, kad ji savo elgesiu Klaipėdoje gresianti suardyti taiką ir gerus internaciolinius santykius ir pareikalavo pritaikyti pakto 11 str.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-005
+  santrauka: 'Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant istorinę Lietuvos sostinę Vilnių Lenkijai, savotiškai lėmė, praleidęs progą patylėti… E.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Ambasadorių Konferencija apkaltino Lietuvą Tautų Sąjungai, kad ji savo
-    elgesiu Klaipėdoje gresianti suardyti taiką ir gerus internacio-
-    linius santykius ir pareikalavo pritaikyti pakto 11 str.
+    pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-004
+    - t-005
+- c-006
+  santrauka: 'Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/paprociai/Klaipėdos krašto autonominis režimas]]
+- [[objektai/asmenys/Ernestas Galvanauskas]]
+- [[objektai/asmenys/Jonas Žilius]]
+- [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
+- [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas]]
+- [[objektai/zodynas/administracinė linija demarkacijos linija]]

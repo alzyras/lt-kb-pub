@@ -29,6 +29,18 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   teiginys: 'Žuvus Napoleono galybei, Užnemunė taip pat pasiliko Lenkų karalystėje, kur veikė Napoleono įstatymai; jie čia išliko ir panaikinus Lenkų karalystę.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Jie apsigyveno ne tik Lietuvos pusėje esančioje dykroje, bet ir anapus sienos (1422 m. tarp Lietuvos ir Vokiečių ordino nustačius sieną, Lietuvai atiteko tik dalis senųjų jotvingių teritorijos – Užnemunė).'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Tačiau vėliau jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei Užnemunę.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsijai ji priklausė iki 1806 m., kai Napoleonas įkūrė Varšuvos kunigaikštiją; 1815 m. Užnemunė atiteko Rusijai).'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -78,3 +90,45 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Jie apsigyveno ne tik Lietuvos pusėje esančioje dykroje, bet ir anapus sienos (1422 m. tarp Lietuvos ir Vokiečių ordino nustačius sieną, Lietuvai atiteko tik dalis senųjų jotvingių teritorijos – Užnemunė).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    esančioje dykroje, bet ir anapus sienos (1422 m. tarp Lietuvos ir Vokiečių
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Tačiau vėliau jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei Užnemunę.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsijai ji priklausė iki 1806 m., kai Napoleonas įkūrė Varšuvos kunigaikštiją; 1815 m. Užnemunė atiteko Rusijai).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsijai
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Klaipėda]]
+- [[objektai/asmenys/Napoleonas Bonapartas]]
+- [[objektai/vietos/Naujoji Prūsija]]

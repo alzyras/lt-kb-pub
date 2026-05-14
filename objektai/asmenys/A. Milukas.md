@@ -41,9 +41,6 @@ Miluko ir J.
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/kunigas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/A. Kaupas]]
 - [[objektai/ivykiai/Lietuvos skriaudų viešinimo akcijos Amerikoje (1894–1900 m.)]]

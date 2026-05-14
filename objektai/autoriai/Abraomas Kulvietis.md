@@ -21,10 +21,14 @@ Abraomas Kulvietis dar išleido keletą kitų reikalingų tikybinių knygučių.
   teiginys: 'Abraomas Kulvietis dar išleido keletą kitų reikalingų tikybinių knygučių.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi buvo skleidę protestantizmą.'
+- t-003
+  teiginys: 'Abraomas Kulvietis apėmė visą Europą, suskaldė Katalikų bažnyčią ir subrandino naują krikščionybės kryp-'
   pagrindžia:
-    - c-002
+    - c-003
+- t-004
+  teiginys: 'Kulvietis įkūrė mokyklą kilmingai jaunuomenei, kurioje mokėsi 60 mokinių, sakė pamokslus, kritikuojančius Katalikų bažnyčią, ir patraukė į savo pusę daug žmonių, o 1542 m. turėjo emigruoti į protestantiškąją (nuo 1525 m.) Prūsiją, kur jį priglobė kunigaikštis.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -42,23 +46,32 @@ Abraomas Kulvietis dar išleido keletą kitų reikalingų tikybinių knygučių.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi buvo skleidę protestantizmą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-003
+  santrauka: 'Abraomas Kulvietis apėmė visą Europą, suskaldė Katalikų bažnyčią ir subrandino naują krikščionybės kryp-'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi buvo skleidę protestantizmą.
+    1517 m. Martyno Liuterio (Martin Luther) pradėta reformacija laikoma
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-003
+- c-004
+  santrauka: 'Kulvietis įkūrė mokyklą kilmingai jaunuomenei, kurioje mokėsi 60 mokinių, sakė pamokslus, kritikuojančius Katalikų bažnyčią, ir patraukė į savo pusę daug žmonių, o 1542 m. turėjo emigruoti į protestantiškąją (nuo 1525 m.) Prūsiją, kur jį priglobė kunigaikštis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    teresų lygį ir taip išugdyti lietuvių inteligentiją. Šią programą A. Kulvietis
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/knyga]]
-
 ### Susiję objektai
 - [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
 - [[objektai/autoriai/Stanislovas Rapagelionis]]

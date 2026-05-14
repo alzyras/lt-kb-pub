@@ -18,39 +18,21 @@ tags:
 Senasis kunigaikštis buvo pašalintas, o į jo vietą pasodintas Algirdo sūnus Vladimiras. Netrukus neteko savo srities ir Kijevo kunigaikštis, Jogailos brolis Vladimiras.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Senasis kunigaikštis buvo pašalintas, o į jo vietą pasodintas Algirdo sūnus Vladimiras.'
+- t-003
+  teiginys: 'Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo Rusios valdovo Vladimiro krikštas (988), kankinyste pasibaigusi šv.'
   pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Netrukus neteko savo srities ir Kijevo kunigaikštis, Jogailos brolis Vladimiras.'
-  pagrindžia:
-    - c-002
+    - c-003
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Senasis kunigaikštis buvo pašalintas, o į jo vietą pasodintas Algirdo sūnus Vladimiras.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-003
+  santrauka: 'Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo Rusios valdovo Vladimiro krikštas (988), kankinyste pasibaigusi šv.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Senasis kunigaikštis buvo pašalintas, o į jo vietą pasodintas
-      Algirdo sūnus Vladimiras.
+    jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Netrukus neteko savo srities ir Kijevo kunigaikštis, Jogailos brolis Vladimiras.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Netrukus neteko savo srities ir Kijevo kunigaikštis, Jo-
-      gailos brolis Vladimiras.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
+    - t-003

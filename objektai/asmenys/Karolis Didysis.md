@@ -18,39 +18,21 @@ tags:
 Kurdamas savo imperiją, Karolis norėjo žinoti, kokios tautos gyvena Europos rytuose ir kokios jų jėgos. Pirmasis lietuvių vardą yra paminėjęs vienas Karolio Didžiojo žvalgas.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Kurdamas savo imperiją, Karolis norėjo žinoti, kokios tautos gyvena Europos rytuose ir kokios jų jėgos.'
+- t-003
+  teiginys: 'Turima galvoje Karolio Didžiojo imperija, arba ant Romos imperijos griuvėsių sukurta Europa, siekusi Elbę.'
   pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Pirmasis lietuvių vardą yra paminėjęs vienas Karolio Didžiojo žvalgas.'
-  pagrindžia:
-    - c-002
+    - c-003
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Kurdamas savo imperiją, Karolis norėjo žinoti, kokios tautos gyvena Europos rytuose ir kokios jų jėgos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-003
+  santrauka: 'Turima galvoje Karolio Didžiojo imperija, arba ant Romos imperijos griuvėsių sukurta Europa, siekusi Elbę.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Kurdamas savo imperiją, Karolis norėjo žinoti, kokios tautos gyvena Europos
-      rytuose ir kokios jų jėgos.
+    je Karolio Didžiojo imperija, arba ant Romos imperijos griuvėsių sukurta
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Pirmasis lietuvių vardą yra paminėjęs vienas Karolio Didžiojo žvalgas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pirmasis lietuvių vardą yra
-      paminėjęs vienas Karolio Didžiojo žvalgas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
+    - t-003

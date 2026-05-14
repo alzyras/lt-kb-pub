@@ -267,9 +267,6 @@ A. Janulaitis minimas kaip istorikas, teisės istorikas ir leidėjas; šiame tom
     - t-008
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/sukilimas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
 

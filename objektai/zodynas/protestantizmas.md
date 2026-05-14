@@ -82,7 +82,3 @@ Protestantizmas labai greitai pasiekė Lietuvą. XVI amžiuje užplūdusi protes
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/šeima]]

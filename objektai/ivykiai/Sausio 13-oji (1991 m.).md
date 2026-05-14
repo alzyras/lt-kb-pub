@@ -1,0 +1,122 @@
+---
+tipas: ivykis
+pavadinimas: 'Sausio 13-oji (1991 m.)'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - ivykis
+  - karalius
+  - tauta
+  - valstybė
+---
+# Sausio 13-oji (1991 m.)
+
+## Santrauka
+
+Vis dėlto šiandien į tokį vaidmenį pretenduoja ir 1988–1990 m. Lietuvos Sąjūdžio, Baltijos kelio ir Lietuvos Nepriklausomybės kūrėjai, taip pat Sausio 13-osios (1991) herojai, kurie sugebėjo įveikti pusamžį trukusią Vienas žymiausių M. Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto. 1991 m. sausio 13-ąją, sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos laisvės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji pateko po tanko vikšrais ir mirė ligoninėje.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: 'Vis dėlto šiandien į tokį vaidmenį pretenduoja ir 1988–1990 m. Lietuvos Sąjūdžio, Baltijos kelio ir Lietuvos Nepriklausomybės kūrėjai, taip pat Sausio 13-osios (1991) herojai, kurie sugebėjo įveikti pusamžį trukusią Vienas žymiausių M.'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: '1991 m. sausio 13-ąją, sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos laisvės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji pateko po tanko vikšrais ir mirė ligoninėje.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Sausio 13-ąją Lietuvos AT-AS kreipėsi į visus SSRS žmones primindamas, kad Lietuvos įvykiai yra ir jų tragedija, raginta daryti viską, kad ši sovietų kariuomenės agresija būtų sustabdyta.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Laidojant sausio 13-osios aukas, solidarumo su Lietuva varpai skambėjo Latvijoje, Estijoje, Suomijoje, Švedijoje, Norvegijoje ir kitose Europos šalyse.'
+  pagrindžia:
+    - c-005
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Vis dėlto šiandien į tokį vaidmenį pretenduoja ir 1988–1990 m. Lietuvos Sąjūdžio, Baltijos kelio ir Lietuvos Nepriklausomybės kūrėjai, taip pat Sausio 13-osios (1991) herojai, kurie sugebėjo įveikti pusamžį trukusią Vienas žymiausių M.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    vos Sąjūdžio, Baltijos kelio ir Lietuvos Nepriklausomybės kūrėjai, taip pat
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    nios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: '1991 m. sausio 13-ąją, sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos laisvės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji pateko po tanko vikšrais ir mirė ligoninėje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    vės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Sausio 13-ąją Lietuvos AT-AS kreipėsi į visus SSRS žmones primindamas, kad Lietuvos įvykiai yra ir jų tragedija, raginta daryti viską, kad ši sovietų kariuomenės agresija būtų sustabdyta.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    damas, kad Lietuvos įvykiai yra ir jų tragedija, raginta daryti viską, kad
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Laidojant sausio 13-osios aukas, solidarumo su Lietuva varpai skambėjo Latvijoje, Estijoje, Suomijoje, Švedijoje, Norvegijoje ir kitose Europos šalyse.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    varpai skambėjo Latvijoje, Estijoje, Suomijoje, Švedijoje, Norvegijoje ir
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio įkūrimas (1988 VI 3)]]
+- [[objektai/ivykiai/Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)]]
+- [[objektai/daiktai/Sausio 13-osios gynybinės barikados]]

@@ -1,0 +1,51 @@
+---
+tipas: ivykis
+pavadinimas: 'Lietuvių kalbos ir Lietuvos simbolių legalizavimas (1988 m. spalio 6 d.)'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - ivykis
+  - tauta
+  - valstybė
+---
+# Lietuvių kalbos ir Lietuvos simbolių legalizavimas (1988 m. spalio 6 d.)
+
+## Santrauka
+
+Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą, ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus arkikatedrą.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: 'Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą, ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus arkikatedrą.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą, ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus arkikatedrą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę,
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001

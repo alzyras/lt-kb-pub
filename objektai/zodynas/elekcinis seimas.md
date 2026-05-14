@@ -46,8 +46,5 @@ Pagaliau 1704 m. Karolis privertė sušaukti elekcinį seimą, kuris, apstatytas
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Stanislovo Leščinskio išrinkimas karalium (1704 m.)]]

@@ -113,10 +113,6 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/popiežius]]
-- [[temos/sukilimas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Blaivybės Draugija]]
 - [[objektai/ivykiai/Blaivybės Draugijos įkūrimas (1908 m.)]]

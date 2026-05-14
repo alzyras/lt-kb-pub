@@ -52,8 +52,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XVIII amžius]]

@@ -1,0 +1,50 @@
+---
+tipas: ivykis
+pavadinimas: 'Jekaterinos II sėslumo ribos nustatymas (1791 m.)'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - ivykis
+  - tauta
+---
+# Jekaterinos II sėslumo ribos nustatymas (1791 m.)
+
+## Santrauka
+
+Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo su buvusios LDK arba Abiejų Tautų Respublikos.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: 'Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo su buvusios LDK arba Abiejų Tautų Respublikos.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo su buvusios LDK arba Abiejų Tautų Respublikos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    net konkrečias gubernijas, kuriose gali gyventi žydai. Visa tai buvo ne kas
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001

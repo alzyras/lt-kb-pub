@@ -28,10 +28,14 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginys: 'Pirmiausia tokie kaimai su trilaukiais buvo įvesti Lenkijos kaimynijoje — Palenkėje.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Bet šitas jų žingsnis nepasibaigė geruoju: jiems išvažiavus, lenkai išreikalavo iš karaliaus raštų, kuriais Palenkė, Voluinė, Braclavo ir Kijevo žemės buvo prijungiamos prie Lenkijos.'
+- t-004
+  teiginys: 'Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniškose LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje (Melnikas, gal Brasta) ir net Voluinėje.'
   pagrindžia:
-    - c-003
+    - c-004
+- t-005
+  teiginys: 'Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Voluinės, Kijevo ir Podolės (Braclavo) vaivadijas).'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -63,20 +67,30 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Bet šitas jų žingsnis nepasibaigė geruoju: jiems išvažiavus, lenkai išreikalavo iš karaliaus raštų, kuriais Palenkė, Voluinė, Braclavo ir Kijevo žemės buvo prijungiamos prie Lenkijos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-004
+  santrauka: 'Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniškose LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje (Melnikas, gal Brasta) ir net Voluinėje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Bet šitas jų žingsnis nepasibaigė geruoju: jiems išvažiavus, lenkai išreikalavo iš karaliaus raštų, kuriais Palenkė, Voluinė, Braclavo ir Kijevo žemės buvo prijungiamos prie Lenkijos
+    Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius,
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Braclavas]]
-- [[objektai/vietos/Kijevas]]
+    - t-004
+- c-005
+  santrauka: 'Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Voluinės, Kijevo ir Podolės (Braclavo) vaivadijas).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-
+    mantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė be-
+    veik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Volui-
+    nės, Kijevo ir Podolės (Braclavo) vaivadijas).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005

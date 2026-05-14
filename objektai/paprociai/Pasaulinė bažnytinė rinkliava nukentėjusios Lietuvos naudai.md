@@ -74,8 +74,5 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/popiežius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Benediktas XV]]

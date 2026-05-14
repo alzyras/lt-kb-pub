@@ -24,14 +24,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginys: 'Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros jungtinės valstybės: 4 vyskupystės, ordinas ir Rygos miestas.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Po ilgų derybų buvo sudaryta sutartis (1561 m.), kuria Livonija pasidavė Zigmantui Augustui, kaip didžiajam Lietuvos kunigaikščiui; nustatyti ryšį su Lenkija buvo palikta vėlesniam laikui.'
-  pagrindžia:
-    - c-003
 - t-004
   teiginys: 'Visai Livonijai buvo pripažinta tikėjimo laisvė (mat, ji buvo protestantiška) ir plati savivaldybė, o iš Kuršo ir Žiemgalos buvo sudaryta kunigaikštystė su sostine Jelgavoje (Mintaujoje), kuri buvo pavesta vasalo teisėmis valdyti Ketleriui, ligi pasibaigs jo.'
   pagrindžia:
@@ -52,6 +44,18 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginys: 'Caras tuo tarpu sugalvojo lengvesnį būdą Livonijai įgyti.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Vėliau lietuvių žygiai padažnėjo – kasmet vyko po vieną–du žygius ir ne tik į rusų pusę, bet ir į Lenkiją bei Livoniją.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Opoziciją pirmiausia sudarė artimiausi giminaičiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną ir Voluinę.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti krikščionio valdovo statusą.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -66,33 +70,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros jungtinės valstybės: 4 vyskupystės, ordinas ir Rygos miestas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros jungtinės valsty-
-    bės: 4 vyskupystės, ordinas ir Rygos miestas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Po ilgų derybų buvo sudaryta sutartis (1561 m.), kuria Livonija pasidavė Zigmantui Augustui, kaip didžiajam Lietuvos kunigaikščiui; nustatyti ryšį su Lenkija buvo palikta vėlesniam laikui.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Po ilgų derybų buvo sudaryta sutartis (1561 m.), kuria Livonija pasidavė Zigmantui
-    Augustui, kaip didžiajam Lietuvos kunigaikščiui; nustatyti ryšį
-    su Lenkija buvo palikta vėlesniam laikui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 - c-004
   santrauka: 'Visai Livonijai buvo pripažinta tikėjimo laisvė (mat, ji buvo protestantiška) ir plati savivaldybė, o iš Kuršo ir Žiemgalos buvo sudaryta kunigaikštystė su sostine Jelgavoje (Mintaujoje), kuri buvo pavesta vasalo teisėmis valdyti Ketleriui, ligi pasibaigs jo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -172,12 +149,45 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Vėliau lietuvių žygiai padažnėjo – kasmet vyko po vieną–du žygius ir ne tik į rusų pusę, bet ir į Lenkiją bei Livoniją.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    padažnėjo – kasmet vyko po vieną–du žygius ir ne tik į rusų pusę, bet ir
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Opoziciją pirmiausia sudarė artimiausi giminaičiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną ir Voluinę.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    čiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti krikščionio valdovo statusą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/šeima]]
-
 ### Susiję objektai
-- [[objektai/ivykiai/Livonijos prijungimas prie Lietuvos valstybės (1561–1566 m.)]]
 - [[objektai/vietos/Talinas]]
 - [[objektai/vietos/Tartai]]
+- [[objektai/vietos/Voluinė]]

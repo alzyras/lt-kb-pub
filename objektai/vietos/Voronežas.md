@@ -21,6 +21,10 @@ menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
   teiginys: 'menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Maždaug 300 000 karo pabėgėlių ir darbo migrantų lietuvių buvo išsisklaidę didelėje Rusijos teritorijoje, tačiau Peterburge ir Voroneže susiformavo lietuvių centrai, kuriuose buvo lietuviškų laikraščių redakcijos, gimnazijos, jaunimas ruoštas sugrįžimui į.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -31,8 +35,20 @@ menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
     zijose).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: žemas
+  patikimumo_lygis: zemas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Maždaug 300 000 karo pabėgėlių ir darbo migrantų lietuvių buvo išsisklaidę didelėje Rusijos teritorijoje, tačiau Peterburge ir Voroneže susiformavo lietuvių centrai, kuriuose buvo lietuviškų laikraščių redakcijos, gimnazijos, jaunimas ruoštas sugrįžimui į.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    formavo lietuvių centrai, kuriuose buvo lietuviškų laikraščių redakcijos,
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

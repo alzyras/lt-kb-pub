@@ -66,4 +66,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Pusrytės]]
-- [[objektai/grupes/Žydai]]

@@ -46,7 +46,3 @@ Užsitęsusio karo metu mirė vyskupas ir daugy bė pralotų; drauge su jais žu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/valdovas]]

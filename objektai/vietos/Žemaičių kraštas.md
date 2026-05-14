@@ -120,4 +120,3 @@ Tai platus pajūrio kraštas tarp Išlos ir Daugavos, kuriam raštininkai priski
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Teutonai]]
-- [[objektai/grupes/Žemaičiai]]

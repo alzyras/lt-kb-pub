@@ -74,6 +74,19 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     - c-011
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-012
+  teiginys: 'Vakarinė LDK dalis – tarp Vilniaus ir Lucko – tai ne tik LDK vizitinė kortelė, kurioje dėl reprezentacijos bei artumo Krokuvai kurs rezidencijas didikai.'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: 'Pastatyta katedra, iškilmingai pašvęsta Krokuvos vyskupo šv.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Svarbų vaidmenį šiame procese suvaidino Lietuvos jaunimo studijos Krokuvos, o vėliau ir Vokietijos bei Italijos universitetuose.'
+  pagrindžia:
+    - c-014
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Karūnacijos byla 1430 m. Lenkų ponai prispyrė grįžusį į Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karūnacijos.'
@@ -231,12 +244,48 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-011
+- c-012
+  santrauka: 'Vakarinė LDK dalis – tarp Vilniaus ir Lucko – tai ne tik LDK vizitinė kortelė, kurioje dėl reprezentacijos bei artumo Krokuvai kurs rezidencijas didikai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    prezentacijos bei artumo Krokuvai kurs rezidencijas didikai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 'Pastatyta katedra, iškilmingai pašvęsta Krokuvos vyskupo šv.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    švęsta Krokuvos vyskupo šv. Stanislovo garbei („kad abi lygiateisės tautos
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Svarbų vaidmenį šiame procese suvaidino Lietuvos jaunimo studijos Krokuvos, o vėliau ir Vokietijos bei Italijos universitetuose.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos jaunimo studijos Krokuvos, o vėliau ir Vokietijos bei Italijos uni-
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/valdovas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Karūnacinis seimas]]
 - [[objektai/grupes/Lenkų ponų taryba]]
 - [[objektai/daiktai/Zigmanto II antkapis]]
+- [[objektai/vietos/Luckas]]
+- [[objektai/asmenys/Šv. Stanislovas]]
+- [[objektai/posakiai/„kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“]]

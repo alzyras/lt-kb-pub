@@ -41,7 +41,3 @@ Lenkija, nebegalėdama niekuo pateisinti tokio savo elgesio, pramanė „sukilim
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/sukilimas]]

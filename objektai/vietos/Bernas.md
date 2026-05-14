@@ -25,6 +25,10 @@ tags:
   teiginys: 'Kai Vilniaus konferencija išrinko Lietuvos Tarybą, Berne vėl buvo sušaukta naujoji konferencija (1917 m. lapkričio.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Europos ir JAV lietuvių atstovų Berno konferencijoje 1917 m. lapkričio 2–10 d., kurioje dalyvavo ir visas Lietuvos Tarybos prezidiumas (A.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -53,3 +57,15 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Europos ir JAV lietuvių atstovų Berno konferencijoje 1917 m. lapkričio 2–10 d., kurioje dalyvavo ir visas Lietuvos Tarybos prezidiumas (A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

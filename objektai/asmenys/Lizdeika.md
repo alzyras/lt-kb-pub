@@ -19,27 +19,25 @@ tags:
 Kunigas Lizdeika šiaip išaiškinęs sapną: esą, Gediminas toje vietoje, kur stovėjęs vilkas, turįs pastatyti pilį, kurios garsas pasklisiąs po pasaulį.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Kunigas Lizdeika šiaip išaiškinęs sapną: esą, Gediminas toje vietoje, kur stovėjęs vilkas, turįs pastatyti pilį, kurios garsas pasklisiąs po pasaulį.'
+- t-002
+  teiginys: 'Aiškindamas Gedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir išpranašaus Vilniaus įkūrimą ir šlovę.'
   pagrindžia:
-    - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Kunigas Lizdeika šiaip išaiškinęs sapną: esą, Gediminas toje vietoje, kur stovėjęs vilkas, turįs pastatyti pilį, kurios garsas pasklisiąs po pasaulį.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-002
+  santrauka: 'Aiškindamas Gedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir išpranašaus Vilniaus įkūrimą ir šlovę.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    sapnavęs staugiantį geležinį vilką. Kunigas Lizdeika šiaip iš-
-      aiškinęs sapną: esą, Gediminas toje vietoje, kur stovėjęs vilkas,
-      turįs pastatyti pilį, kurios garsas pasklisiąs po pasaulį.
+    Gedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/kunigas]]
+### Susiję objektai
+- [[objektai/asmenys/Gediminas]]

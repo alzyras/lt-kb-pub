@@ -90,4 +90,5 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
 - [[laikotarpiai/XVII amžius]]
 
 ### Susiję objektai
+- [[objektai/grupes/Mozūrai (XV amžius)]]
 - [[objektai/grupes/Žuvėdai]]

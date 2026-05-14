@@ -96,9 +96,6 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/unija]]
-
 ### Susiję objektai
 - [[objektai/grupes/Atskiri Lietuvos seimai]]
 - [[objektai/asmenys/Vladislovas Vaza]]

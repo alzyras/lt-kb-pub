@@ -63,7 +63,3 @@ Lappo, Lietuva ir Lenkija po 1569 m. L.
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/unija]]

@@ -1,0 +1,39 @@
+---
+tipas: vieta
+pavadinimas: 'Gudija'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - kraštas
+  - valstybė
+  - vieta
+---
+# Gudija
+
+## Santrauka
+
+Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto (Ostlando) reicho komisariatas.
+
+## Teiginiai
+- t-001
+  teiginys: 'Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto (Ostlando) reicho komisariatas.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto (Ostlando) reicho komisariatas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001

@@ -55,3 +55,8 @@ Epigrafinė frazė pabrėžia lietuvių kalbos giminingumą sanskritui ir priski
   pagrindžia:
     - t-001
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Robert Gordon Latham]]
+- [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]

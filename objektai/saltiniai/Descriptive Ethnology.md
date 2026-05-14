@@ -45,20 +45,16 @@ tags: []
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'VIDURIO EUROPOS DALIS „Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“ Iš britų mokslininko Robert Gordon Latham „Descriptive Ethnology“ („Aprašomoji etnologija“).'
+  pagrindžia:
+    - c-001
 ## Bibliografiniai įrodymai
 - c-001
   santrauka: Epigrafo nuoroda pagrindžia autorių, anglišką pavadinimą ir lietuvišką pavadinimo formą.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Į v a d a s
-    LIETUVA –
-    VIDURIO EUROPOS DALIS
     „Be abejonės, sanskrito giminingumas su lietuvių kalba yra
-    didesnis, negu su bet kuria kita kalba šioje žemėje“
-    Iš britų mokslininko Robert Gordon Latham
-    „Descriptive Ethnology“ („Aprašomoji etnologija“)
-    Geografinis Europos centras?
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -67,3 +63,5 @@ tags: []
   pagrindžia:
     - t-001
     - t-002
+
+## Reikšmingi paminėjimai

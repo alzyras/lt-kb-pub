@@ -21,6 +21,18 @@ rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; d
   teiginys: 'rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi buvo skleidę protestantizmą.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Lietuvių spaudos draudimo laikotarpiu Rytprūsiuose išleista daugiau kaip 1 800 pavadinimų lietuviškų knygų, skirtų platinti Didžiojoje Lietuvoje bendru 6 mln.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną, kuriame buvo eilutės: „Lietuviais esame mes gimę / Lietuviais norime ir būt/ Tą garbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -32,8 +44,48 @@ rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; d
     buvo skleidę protestantizmą. Bet vis dėlto svarbiausi protestan-
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: žemas
+  patikimumo_lygis: zemas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Lietuvių spaudos draudimo laikotarpiu Rytprūsiuose išleista daugiau kaip 1 800 pavadinimų lietuviškų knygų, skirtų platinti Didžiojoje Lietuvoje bendru 6 mln.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    ti Didžiojoje Lietuvoje bendru 6 mln. egzempliorių tiražu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną, kuriame buvo eilutės: „Lietuviais esame mes gimę / Lietuviais norime ir būt/ Tą garbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    rėjo ir Didžiojoje Lietuvoje, tad lietuviai abipus Nemuno giedojo jį jau
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Jonas Basanavičius]]

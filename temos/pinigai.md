@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 40.
+Objektų skaičius: 49.
 
 ## Kaip naudoti
 
@@ -36,22 +36,29 @@ Objektų skaičius: 40.
 ### Daiktai
 - [[objektai/daiktai/Aleksandro pinigai]]
 - [[objektai/daiktai/Augusto II pinigai]]
+- [[objektai/daiktai/Investiciniai čekiai]]
 - [[objektai/daiktai/Jono Kazimiero pinigai]]
 - [[objektai/daiktai/Jono Sobieskio pinigas]]
 - [[objektai/daiktai/Kapos]]
+- [[objektai/daiktai/Lietuvos auksas]]
 - [[objektai/daiktai/Lietuvos pinigai]]
+- [[objektai/daiktai/Lietuvos pinigai litas]]
 - [[objektai/daiktai/Monetos]]
 - [[objektai/daiktai/Muštiniai]]
 - [[objektai/daiktai/Popieriniai pinigai]]
-- [[objektai/daiktai/Sidabro lazdelės ir Prahos skatikai]]
-- [[objektai/daiktai/Stepono Batoro pinigai]]
-- [[objektai/daiktai/Vytauto laikų pinigėliai]]
+- [Sidabro lazdelės ir Prahos skatikai](../objektai/daiktai/Sidabro%20lazdel%C4%97s%20ir%20Prahos%20skatikai)
+- [Stepono Batoro pinigai](../objektai/daiktai/Stepono%20Batoro%20pinigai)
+- [Vytauto laikų pinigėliai](../objektai/daiktai/Vytauto%20laik%C5%B3%20pinig%C4%97liai)
 - [Zigmanto Augusto pinigai](../objektai/daiktai/Zigmanto%20Augusto%20pinigai)
 - [Zigmanto II pinigai](../objektai/daiktai/Zigmanto%20II%20pinigai)
 - [Zigmanto Vazos pinigai](../objektai/daiktai/Zigmanto%20Vazos%20pinigai)
 
 ### Grupės
 - [Dalomoji Komisija](../objektai/grupes/Dalomoji%20Komisija)
+- [JAV lietuviai](../objektai/grupes/JAV%20lietuviai)
+- [Jutrzenka](../objektai/grupes/Jutrzenka)
+- [Oswiata](../objektai/grupes/Oswiata)
+- [Pochodnia](../objektai/grupes/Pochodnia)
 
 ### Papročiai
 - [Valstiečių duoklės ir prievolės](../objektai/paprociai/Valstie%C4%8Di%C5%B3%20duokl%C4%97s%20ir%20prievol%C4%97s)
@@ -69,7 +76,9 @@ Objektų skaičius: 40.
 - [Lietuvos skriaudų viešinimo akcijos Amerikoje (1894–1900 m.)](../objektai/ivykiai/Lietuvos%20skriaud%C5%B3%20vie%C5%A1inimo%20akcijos%20Amerikoje%20%281894%E2%80%931900%20m.%29)
 
 ### Žodynas
+- [litas](../objektai/zodynas/litas)
 - [natūralinis ūkis](../objektai/zodynas/nat%C5%ABralinis%20%C5%ABkis)
+- [ostmarkės auksinai](../objektai/zodynas/ostmark%C4%97s%20auksinai)
 - [pastočiai](../objektai/zodynas/pasto%C4%8Diai)
 - [plikbajoris](../objektai/zodynas/plikbajoris)
 - [vyrgalvė](../objektai/zodynas/Vyrgalv%C4%97)

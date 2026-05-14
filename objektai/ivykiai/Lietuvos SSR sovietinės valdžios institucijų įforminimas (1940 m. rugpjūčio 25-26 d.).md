@@ -1,0 +1,66 @@
+---
+tipas: ivykis
+pavadinimas: 'Lietuvos SSR sovietinės valdžios institucijų įforminimas (1940 m. rugpjūčio 25-26 d.)'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - ivykis
+  - seimas
+---
+# Lietuvos SSR sovietinės valdžios institucijų įforminimas (1940 m. rugpjūčio 25-26 d.)
+
+## Santrauka
+
+Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį: rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausiąja Taryba, kitą dieną formaliai aukščiausiąja. Visos Lietuvos įstaigos, ypač NKVD, prisipildė atvykusių iš SSRS „specialistų“, kurie įvedė sovietinę tvarką, nors vidinė siena tarp Lietuvos ir likusios SSRS dalies dar buvo.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: 'Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį: rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausiąja Taryba, kitą dieną formaliai aukščiausiąja.'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'Visos Lietuvos įstaigos, ypač NKVD, prisipildė atvykusių iš SSRS „specialistų“, kurie įvedė sovietinę tvarką, nors vidinė siena tarp Lietuvos ir likusios SSRS dalies dar buvo.'
+  pagrindžia:
+    - c-002
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį: rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausiąja Taryba, kitą dieną formaliai aukščiausiąja.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    ja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Visos Lietuvos įstaigos, ypač NKVD, prisipildė atvykusių iš SSRS „specialistų“, kurie įvedė sovietinę tvarką, nors vidinė siena tarp Lietuvos ir likusios SSRS dalies dar buvo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    iš SSRS „specialistų“, kurie įvedė sovietinę tvarką, nors vidinė siena tarp
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

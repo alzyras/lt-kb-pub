@@ -66,4 +66,3 @@ Jonas IV Žiaurusis nenorėjo tuo būdu jai įsipykti; priešingai, Zigmantui Au
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/paliaubos]]
-- [[temos/valdovas]]

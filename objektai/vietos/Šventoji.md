@@ -39,9 +39,6 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/šventė]]
-
 ### Susiję objektai
 - [[objektai/vietos/Pabaiskas]]
 - [[objektai/vietos/Ukmergė]]

@@ -45,8 +45,5 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/unija]]
-
 ### Susiję objektai
 - [[objektai/vietos/Berezina]]

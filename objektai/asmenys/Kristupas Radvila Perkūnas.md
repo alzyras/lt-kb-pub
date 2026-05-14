@@ -126,10 +126,3 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/šeima]]
-
-### Susiję objektai
-- [[objektai/asmenys/Mikalojus Radvila Rudasis]]

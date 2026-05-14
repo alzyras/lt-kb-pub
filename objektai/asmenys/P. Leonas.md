@@ -97,8 +97,5 @@ Leonas, dr. J. Leonas, J. Leonas bandė kelti Lietuvos žemės reformos klausim�
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/reforma]]
-
 ### Susiję objektai
 - [[objektai/asmenys/M. Yčas]]

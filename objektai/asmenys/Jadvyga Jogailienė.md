@@ -59,7 +59,14 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     - c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-
+- t-009
+  teiginys: 'Sutarties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų belaisvius ir „prišlieti“ Lietuvą prie Lenkijos.'
+  pagrindžia:
+    - c-011
+- t-010
+  teiginys: '1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
+  pagrindžia:
+    - c-012
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -202,10 +209,34 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
+- c-011
+  santrauka: 'Sutarties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų belaisvius ir „prišlieti“ Lietuvą prie Lenkijos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-012
+  santrauka: '1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Laikotarpiai
@@ -213,3 +244,4 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
 
 ### Susiję objektai
 - [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/asmenys/Jadvyga]]

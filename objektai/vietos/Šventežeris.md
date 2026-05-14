@@ -36,7 +36,3 @@ Vėliau tas pat atsitiko Naumiesty, Šventežery.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/šventė]]

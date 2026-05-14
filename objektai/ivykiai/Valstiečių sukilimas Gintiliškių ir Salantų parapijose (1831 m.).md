@@ -53,8 +53,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/sukilimas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]

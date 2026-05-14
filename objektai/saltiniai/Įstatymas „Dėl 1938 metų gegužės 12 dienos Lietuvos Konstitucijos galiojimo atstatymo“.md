@@ -1,0 +1,39 @@
+---
+tipas: saltinis
+pavadinimas: 'Įstatymas „Dėl 1938 metų gegužės 12 dienos Lietuvos Konstitucijos galiojimo atstatymo“'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - saltinis
+  - seimas
+  - valstybė
+---
+# Įstatymas „Dėl 1938 metų gegužės 12 dienos Lietuvos Konstitucijos galiojimo atstatymo“
+
+## Santrauka
+
+Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta Atkuriamuoju Seimu, toliau – AT-AS) ėmė įgyvendinti nuostatą, kad šalies teritorijoje neveikia jokios kitos valstybės konstitucija.
+
+## Teiginiai
+- t-001
+  teiginys: 'Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta Atkuriamuoju Seimu, toliau – AT-AS) ėmė įgyvendinti nuostatą, kad šalies teritorijoje neveikia jokios kitos valstybės konstitucija.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta Atkuriamuoju Seimu, toliau – AT-AS) ėmė įgyvendinti nuostatą, kad šalies teritorijoje neveikia jokios kitos valstybės konstitucija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    kinoji valstybės konstitucija – Laikinasis Pagrindinis Įstatymas, atitikęs
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001

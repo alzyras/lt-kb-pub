@@ -47,6 +47,10 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
     - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Nors Niurnbergo auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai, Lucko suvažiavimas.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -117,7 +121,7 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
@@ -130,11 +134,25 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-003
+- c-007
+  santrauka: 'Nors Niurnbergo auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai, Lucko suvažiavimas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai,
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Vytautas]]
+- [[objektai/grupes/Lenkijos ponų taryba]]
+- [[objektai/vietos/Niurnbergas]]

@@ -322,7 +322,18 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - c-045
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-
+- t-041
+  teiginys: 'mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
+  pagrindžia:
+    - c-046
+- t-042
+  teiginys: '1392–1430 žymiausio Lietuvos valdovo Vytauto valdymo metai.'
+  pagrindžia:
+    - c-047
+- t-043
+  teiginys: 'Tik Vytautas taps mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.'
+  pagrindžia:
+    - c-048
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -1048,6 +1059,42 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-040
+- c-046
+  santrauka: 'mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-041
+- c-047
+  santrauka: '1392–1430 žymiausio Lietuvos valdovo Vytauto valdymo metai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    žymiausio Lietuvos valdovo Vytauto valdymo metai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-042
+- c-048
+  santrauka: 'Tik Vytautas taps mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-043
 
 ## Ryšiai
 ### Laikotarpiai
@@ -1061,5 +1108,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[objektai/vietos/Luckas]]
 - [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
 - [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Rusėnai]]
 - [[objektai/ivykiai/Vytauto mirtis (1430 m. spalio 27 d.)]]
 - [[objektai/zodynas/karo taryba]]
+- [[objektai/grupes/Žemaičiai]]

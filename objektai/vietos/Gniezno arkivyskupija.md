@@ -43,8 +43,5 @@ Senosios Lietuvos valstybės laikais, nuo pat krikšto, visa etnografinė Lietuv
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/krikštas]]
-
 ### Susiję objektai
 - [[objektai/vietos/Mogilevo arkivyskupija]]

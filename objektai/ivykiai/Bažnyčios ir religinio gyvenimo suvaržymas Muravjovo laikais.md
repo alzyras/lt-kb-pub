@@ -125,9 +125,5 @@ Nenurodyta
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/kunigas]]
-- [[temos/sukilimas]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Blaivybės kryžiai]]

@@ -92,7 +92,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/krikštas]]

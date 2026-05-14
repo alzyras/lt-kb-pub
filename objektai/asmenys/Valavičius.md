@@ -82,7 +82,6 @@ Abudu kancleriai — Radvila ir Valavičius — net buvo atsisakę prispausti pr
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
-- [[temos/unija]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Radvila (Liublino unijos derybininkas)]]

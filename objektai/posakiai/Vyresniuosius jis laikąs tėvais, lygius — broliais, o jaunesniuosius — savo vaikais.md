@@ -59,4 +59,3 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
-- [[temos/popiežius]]

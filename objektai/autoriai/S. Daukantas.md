@@ -48,6 +48,10 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -100,7 +104,20 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Motiejus Valančius]]
+- [[objektai/asmenys/Simonas Daukantas]]

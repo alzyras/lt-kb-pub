@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 5.
+Objektų skaičius: 7.
 
 ## Kaip naudoti
 
@@ -19,8 +19,10 @@ Objektų skaičius: 5.
 ## Susiję objektai
 
 ### Žodynas
+- [[objektai/zodynas/amfiktionija]]
 - [[objektai/zodynas/apostazija]]
 - [[objektai/zodynas/bažnytinė provincija]]
+- [[objektai/zodynas/ješiva]]
 - [[objektai/zodynas/kryžiaus karas]]
 - [[objektai/zodynas/lotyniškasis krikštas]]
 - [[objektai/zodynas/metropolitas]]

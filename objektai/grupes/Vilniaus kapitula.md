@@ -66,7 +66,3 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
   pagrindžia:
     - t-001
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/šventė]]

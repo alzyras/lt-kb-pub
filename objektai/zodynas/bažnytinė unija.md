@@ -44,4 +44,3 @@ Jo nevykusiai padaryta bažnytinė unija sukiršino rytų apeigų tikinčiuosius
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ritualas]]
-- [[temos/unija]]

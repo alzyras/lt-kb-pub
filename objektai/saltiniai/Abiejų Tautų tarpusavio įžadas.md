@@ -1,7 +1,7 @@
 ---
 tipas: saltinis
 pavadinimas: "Abiejų Tautų tarpusavio įžadas"
-sukurta: "2026-05-13"
+sukurta: "2026-05-14"
 variantai:
   - "Spalio 20-osios pataisa"
   - "konstitucijos pataisa"
@@ -11,7 +11,7 @@ saltiniai:
 laikotarpis: "1791 m. spalio 20 d."
 datos:
   - "1791 m. spalio 20 d."
-periodas: "ankstyvieji_naujieji_laikai"
+periodas: ""
 periodo_grupes: []
 amziai:
   - "XVIII"
@@ -27,49 +27,45 @@ tags: []
 
 ## Santrauka
 
-Abiejų Tautų tarpusavio įžadas buvo 1791 m. spalio 20 d. Lietuvos delegacijos išsireikalauta Gegužės trečiosios konstitucijos pataisa. Pataisa siejosi su Lenkijos ir LDK lygiavertiškumu bendrose Kariuomenės ir Iždo komisijose ir į konstitucinę tvarką grąžino valstybės dualizmo, arba federacijos, principą.
+Abiejų Tautų tarpusavio įžadas buvo 1791 m. spalio 20 d. Lietuvos delegacijos išsireikalauta Gegužės trečiosios konstitucijos pataisa. Dokumentas siejamas su Lenkijos ir LDK lygybe bendrose vykdomosios valdžios institucijose ir valstybės dualizmo principo sugrąžinimu.
 
 ## Bibliografiniai duomenys
 
-- Šaltinio pobūdis: konstitucijos pataisa.
+- Šaltinio pobūdis: konstitucijos pataisa / įžadas.
 - Data: 1791 m. spalio 20 d.
 - Pristatė: Kazimieras Nestoras Sapiega.
 - Galimas autorius: Tadas Korsakas.
 
-## Turinys ir apimtis
-
-- Įžadas nustatė Lenkijos ir LDK lygybę bendrose Kariuomenės ir Iždo komisijose.
-- Pataisa tekste aiškinama kaip valstybės dualizmo principo sugrąžinimas.
-
 ## Teiginiai
 - t-001
-  teiginys: "Abiejų Tautų tarpusavio įžadas buvo 1791 m. spalio 20 d. Lietuvos delegacijos išsireikalauta Gegužės trečiosios konstitucijos pataisa."
+  teiginys: "1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsireikalavo pataisą, pavadintą Abiejų Tautų tarpusavio įžadu."
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: "Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Tadas Korsakas."
+  teiginys: "Įžadas nustatė Lenkijos ir LDK narių lygybę Kariuomenės ir Iždo komisijose."
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: "Pagal įžadą Kariuomenės ir Iždo komisijose Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai turėjo būti paeiliui lenkai ir lietuviai."
+  teiginys: "Įžadas sugrąžino į konstituciją valstybės dualizmo principą."
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: "Įžadas į konstituciją sugrąžino valstybės dualizmo principą, vadinamą federacija."
+  teiginys: 'ANKSČIAUSIA KONSTITUCIJA EUROPOJE IR JOS PANAIKINIMAS 85 Apšvieta ateina į LDK 85; Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas 91; Lietuvos Didžiosios Kunigaikštijos sunaikinimas 94.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-
+- t-005
+  teiginys: '1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsireikalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio įžadu.'
+  pagrindžia:
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata pagrindžia įžado datą, pavadinimą, pristatytoją ir galimą autorių.
+  santrauka: Citata pagrindžia dokumento datą, pristatymą, turinį ir dualizmo principą.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi į konstituciją sugrąžintas valstybės dualizmo principas – federacija.
@@ -81,23 +77,16 @@ Abiejų Tautų tarpusavio įžadas buvo 1791 m. spalio 20 d. Lietuvos delegacijo
   pagrindžia:
     - t-001
     - t-002
+    - t-003
 - c-002
-  santrauka: Citata pagrindžia įžado turinį ir jo reikšmę valstybės dualizmui.
+  santrauka: 'ANKSČIAUSIA KONSTITUCIJA EUROPOJE IR JOS PANAIKINIMAS 85 Apšvieta ateina į LDK 85; Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas 91; Lietuvos Didžiosios Kunigaikštijos sunaikinimas 94.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius
-    veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas. Remiantis šiuo
-    įžadu, Gegužės trečiosios konstitucijos įtvirtintose pagrindinėse bendro-
-    se vykdomosios valdžios institucijose – Kariuomenės ir Iždo komisijo-
-    se – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai
-    turėjo būti paeiliui lenkai ir lietuviai. Nors ir įžade kalbama apie „bendrą
-    Tėvynę – Lenkijos Respubliką“, visur minima ir „abi tautos“ bei LDK.
-    Taigi į konstituciją sugrąžintas valstybės dualizmo principas – federacija.
-  citata_rodoma: ""
+    tarpusavio įžadas  91;  Lietuvos Didžiosios Kunigaikštijos sunaikinimas  94
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
     - t-004

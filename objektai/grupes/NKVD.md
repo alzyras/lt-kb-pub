@@ -96,6 +96,14 @@ Sovietinė saugumo, vidaus reikalų ir represinė institucija bei kariuomenės s
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'NKVD Vidaus reikalų liaudies komisariatas (SSRS).'
+  pagrindžia:
+    - c-004
+- t-007
+  teiginys: 'Tai pražūtingai atsiliepė žydams – daugybė jų, besitraukiančių į Rytus, grąžinti atgal lietuvių sukilėlių arba sugrįžo patys, nes kelyje į Maskvą juos aplenkė vermachtas, o iš kitos pusės, sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -103,15 +111,7 @@ Sovietinė saugumo, vidaus reikalų ir represinė institucija bei kariuomenės s
   santrauka: NKVD kariuomenės daliniai siejami su numatytų suimti asmenų pabėgimo į Vokietiją blokavimu.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1940 m. liepos 6 d. Valstybės saugumo
     departamento direktorius A. Sniečkus išleido įsakymą, leidžiantį suimti
-    agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politi-
-    nių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti
-    numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai
-
-    L I E T U V O S  I S T O R I J A
-    194
-    turėjo neleisti tokiems pabėgti į Vokietiją.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -123,14 +123,7 @@ Sovietinė saugumo, vidaus reikalų ir represinė institucija bei kariuomenės s
   santrauka: Aprašoma NKVD kariuomenės dislokacija, NKVD ir NKGB skyrių veikla bei naikintojų batalionų kūrimas.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė:
-    1945 m. vasarą joje buvo iki 20 tūkst., 1946 m. – apie 14 tūkst. karių. NKVD
-    ir NKGB skyriai, įsikūrę visose apskrityse, koordinavo baudžiamąsias ope-
-    racijas, vadovavo joms ir žmonių gaudynėms, tardė suimtuosius, verbavo
     agentus. Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė
-    „naikintojų batalionus“, lietuvių vadintus stribais (santrumpa nuo rus. pa-
-    vadinimo istrebitelnyje bataliony), į kuriuos agitavo stoti vietinius gyvento-
-    jus.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -140,9 +133,39 @@ Sovietinė saugumo, vidaus reikalų ir represinė institucija bei kariuomenės s
     - t-003
     - t-004
     - t-005
+- c-004
+  santrauka: 'NKVD Vidaus reikalų liaudies komisariatas (SSRS).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vidaus reikalų liaudies komisariatas (SSRS)
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-005
+  santrauka: 'Tai pražūtingai atsiliepė žydams – daugybė jų, besitraukiančių į Rytus, grąžinti atgal lietuvių sukilėlių arba sugrįžo patys, nes kelyje į Maskvą juos aplenkė vermachtas, o iš kitos pusės, sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    grąžinti atgal lietuvių sukilėlių arba sugrįžo patys, nes kelyje į Maskvą
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Šaltiniai ir įrodymai
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/grupes/Lietuvos šaulių sąjunga]]
+- [[objektai/ivykiai/Pirmieji masiniai areštai Lietuvoje (1940 m. liepos 10-17 d.)]]
+- [[objektai/ivykiai/Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)]]
+- [[objektai/zodynas/stribai naikintojų batalionai liaudies gynėjai]]

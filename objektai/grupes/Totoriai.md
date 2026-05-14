@@ -42,13 +42,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   pagrindžia:
     - c-002
 
-- t-003
-  teiginys: 'Totoriai po sandarų su lietuviais minimi tarp prekybos augimą skatinusių partnerių.'
-  pagrindžia:
-    - c-003
-    - c-004
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
 - t-004
   teiginys: 'Vytautui plečiantis į rusų žemes, artėjimas prie totorių sienų vedė prie karo su jais.'
   pagrindžia:
@@ -85,6 +78,19 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-010
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-009
+  teiginys: 'Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais, kurie tapo artimosios sargybos tautomis.'
+  pagrindžia:
+    - c-016
+- t-010
+  teiginys: 'Žalgirio pergalė dar nepasiekta ideologiškai – Vakaruose sklido paskviliai apie „netikrą“ Jogailos ir Vytauto pergalę, nes jie nugalėjo pasitelkę pagonis, totorius musulmonus.'
+  pagrindžia:
+    - c-017
+- t-011
+  teiginys: 'Taigi net jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje, pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruomenių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.'
+  pagrindžia:
+    - c-018
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus totoriams, prekyba su pietiniais kraštais visai nutrūko.'
@@ -113,36 +119,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-- c-003
-  santrauka: Totoriai po sandarų su lietuviais minimi tarp prekybos augimą skatinusių partnerių.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Noris pradžioj 15 amžiaus namų ermyderiai ir svetimos karės trukino lietuvius ir žemaičius nuo
-    prekybos, vienok Zigmantui Kęstutaičiui paėmus ūkę valdyti ir patvirtinus sandaras su mozūrais,
-    valakais, totoriais ir vokiečiais, po nedidžios perglytos prekė kas kartą didinos.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: Totoriai po sandarų su lietuviais minimi tarp prekybos augimą skatinusių partnerių.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Bet tas neilgai tepatvėrė, nesgi, paveikus vokiečių karės brostvininkus, kryžeiviais vadinamus, kaip
-    viršiau regėjom, vakaruose, o platburnius, arba totorius, rytuose, lietuviai tarės nė kokių neprietelių
-    daugiau sviete nebturintys, kaipogi tuo buvo parodę visam pasauliui, jog lietuviams niekas negali per
-    lūpas braukyti, ir, tuo pasikliovę, ne vien į karę nebesipratino, bet būtinai užmiršo ginklą dėvėti.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
 
 - c-005
   santrauka: Priartėjimas prie totorių sienų pateiktas kaip karo priežastis.
@@ -248,7 +224,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-006
@@ -266,7 +242,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-007
@@ -280,7 +256,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-007
@@ -295,7 +271,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-006
@@ -313,7 +289,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-008
@@ -322,6 +298,42 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-007
     - t-006
     - t-008
+- c-016
+  santrauka: 'Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais, kurie tapo artimosios sargybos tautomis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    čiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais,
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-017
+  santrauka: 'Žalgirio pergalė dar nepasiekta ideologiškai – Vakaruose sklido paskviliai apie „netikrą“ Jogailos ir Vytauto pergalę, nes jie nugalėjo pasitelkę pagonis, totorius musulmonus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    karuose sklido paskviliai apie „netikrą“ Jogailos ir Vytauto pergalę, nes
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-018
+  santrauka: 'Taigi net jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje, pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruomenių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
 ### Laikotarpiai
@@ -329,4 +341,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - [[laikotarpiai/XVI amžius]]
 
 ### Susiję objektai
+- [[objektai/grupes/Karaimai]]
 - [[objektai/daiktai/Vežimai]]
+- [[objektai/grupes/Vokiečių ordinas]]
+- [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas]]

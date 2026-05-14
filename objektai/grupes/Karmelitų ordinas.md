@@ -42,9 +42,5 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/kunigas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Augustinijonų ordinas]]
-- [[objektai/grupes/Bernardinų ordinas]]

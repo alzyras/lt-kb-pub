@@ -58,8 +58,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/ginklas]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Moterų galvos danga]]

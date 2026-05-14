@@ -77,8 +77,5 @@ Kaip ir ankstyvesnioje elekcijoje, taip ir šį kartą buvo du stipriausi kandid
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Jonas Kazimieras]]

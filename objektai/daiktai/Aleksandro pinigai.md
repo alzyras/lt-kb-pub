@@ -76,3 +76,4 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/daiktai/Lietuvos pinigai]]
+- [[objektai/daiktai/Vytauto laikų pinigėliai]]

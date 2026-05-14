@@ -81,9 +81,6 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/popiežius]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
 

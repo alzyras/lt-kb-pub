@@ -52,7 +52,3 @@ Tada net buvo kilusi mintis įkurti Šventosios uostą.
   pagrindžia:
     - t-001
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/šventė]]

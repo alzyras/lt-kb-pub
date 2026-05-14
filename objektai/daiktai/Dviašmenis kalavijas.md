@@ -100,9 +100,6 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/ginklas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/X amžius]]
 - [[laikotarpiai/XI amžius]]

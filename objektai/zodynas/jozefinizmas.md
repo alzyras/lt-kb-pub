@@ -42,8 +42,5 @@ Susižavėjęs šviečiamąja literatūra, jis darė reformas, viską, net Bažn
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/reforma]]
-
 ### Susiję objektai
 - [[objektai/vietos/Austrija]]

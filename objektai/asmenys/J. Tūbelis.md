@@ -17,46 +17,42 @@ tags:
 Tūbelis ir daugybė kitų. Juozas Tūbelis, dabartinis Ministeris Pirmininkas (nuo 1929 m.).
 
 ## Teiginiai
-- t-001
-  teiginys: 'Tūbelis ir daugybė kitų.'
+- t-003
+  teiginys: 'Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.'
   pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Juozas Tūbelis, dabartinis Ministeris Pirmininkas (nuo 1929 m.).'
+    - c-003
+- t-004
+  teiginys: 'Tūbelio ministrų kabinetas, premjerą pakeitė kitas A.'
   pagrindžia:
-    - c-002
+    - c-004
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Tūbelis ir daugybė kitų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-003
+  santrauka: 'Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Daugelis jų nuken-
-      tėjo — buvo išvaryti iš gimnazijų; jų tarpe buvo išvaryti dabar-
-      tinis prezidentas A. Smetona, ministeris pirmininkas J. Tūbelis ir
-      daugybė kitų.
+    bes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Juozas Tūbelis, dabartinis Ministeris Pirmininkas (nuo 1929 m.).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+    - t-003
+- c-004
+  santrauka: 'Tūbelio ministrų kabinetas, premjerą pakeitė kitas A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Juozas Tūbelis,
-      dabartinis Ministeris Pirmininkas
-      (nuo 1929 m.).
+    netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]
+- [[objektai/asmenys/Juozas Tūbelis]]
+- [[objektai/asmenys/Stasys Raštikis]]

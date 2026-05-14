@@ -177,6 +177,7 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 - [[temos/istorinė-sąvoka]]
 - [[temos/karinis-terminas]]
 - [[temos/teisinis-terminas]]
+- [[temos/istorinė-sąvoka - teisinis-terminas]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]

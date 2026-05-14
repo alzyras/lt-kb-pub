@@ -45,9 +45,6 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/popiežius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Prienai]]
 - [[objektai/vietos/Seinai]]

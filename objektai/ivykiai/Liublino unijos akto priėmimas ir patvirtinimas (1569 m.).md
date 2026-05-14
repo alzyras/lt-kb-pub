@@ -52,9 +52,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/aktas - unija]]
 - [[temos/aktas]]
-- [[temos/unija]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]

@@ -40,7 +40,3 @@ Hugonas Kolontajus, 1787—1791 m. Lietuvos referendorius, 1791 — 1793 m. Lenk
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/reforma]]

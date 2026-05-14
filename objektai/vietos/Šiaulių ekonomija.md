@@ -38,7 +38,3 @@ Ypač garsus buvo 1769 m. Šiaulių ekonomijos valstiečių sukilimas.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/sukilimas]]

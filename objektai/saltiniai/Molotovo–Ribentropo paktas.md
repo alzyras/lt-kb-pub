@@ -78,21 +78,28 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
 - t-007
   teiginys: "1989 m. rugpjūčio 23 d. Baltijos kelias paminėjo pakto pasirašymo 50-ąsias sukaktuves gyva žmonių grandine nuo Vilniaus iki Talino."
   pagrindžia:
-    - c-006
+    - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-008
+  teiginys: 'Lietuva ir Lenkija: santykiai be santykių 177; Pirmasis Europoje procesas prieš nacius ir Klaipėdos praradimas 179; Neutralumo politika ir Molotovo– Ribentropo paktas 183; SSRS 1940 metų ultimatumas ir sovietų okupacija 186.'
+  pagrindžia:
+    - c-007
+- t-009
+  teiginys: 'LLL nariai ypač daug dėmesio skyrė 1939 m. rugpjūčio 23 d. Vokietijos ir Sovietų Sąjungos pasirašytam ir Molotovo–Ribentropo paktui.'
+  pagrindžia:
+    - c-008
+- t-010
+  teiginys: 'LLL apie save ypač drąsiai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Ribentropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Citata pagrindžia pakto datą, šalis, slaptąjį protokolą ir įtakos sferų padalijimą.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1989 m. rugpjūčio 23 d. 19 val. trijų Baltijos valstybių gyventojai pami-
-    nėjo 50-ąsias Molotovo–Ribentropo pakto pasirašymo sukaktuves – per
     protesto akciją, pavadintą Baltijos keliu, apie du milijonai lietuvių, latvių
-    ir estų susikibo rankomis sudarydami gyvą, daugiau kaip 650 km ilgio
-    žmonių grandinę nuo Gedimino bokšto Vilniuje iki Hermano bokšto
-    Taline.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -105,11 +112,7 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
   santrauka: Svarbiausių datų sąrašas susieja pakto realizavimą su Lietuvos okupacija ir aneksija.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1940 VI 15
-    realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuo-
     ja ir aneksuoja Lietuvos Respubliką. Sudarius marionetinę vyriausybę
-    netrukus paskelbiama, kad sukuriama Lietuvos Tarybų Socialistinė Res-
-    publika. Sovietinio teroro ir trėmimų pradžia.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -121,14 +124,7 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
   santrauka: Citata pagrindžia 1987 m. LLL protesto mitingą pakto metinių proga.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Kaip tik tuo metu iš įkalinimo vietų buvo pa-
-    leisti jos aktyvieji nariai, organizacija tapo legali. LLL apie save ypač drą-
-    siai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Riben-
-    tropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus
     paminklo Vilniuje surengtas protesto mitingas. Nepalūžę dvasininkai ir
-    disidentai skatino Lietuvos visuomenę kovoti už tikėjimo ir žmogaus lais-
-    ves, nepaklusti sovietų primestai santvarkai, o atėjus metui – kovoti ir dėl
-    savo nepriklausomybės.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -140,9 +136,6 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
   santrauka: Citata pagrindžia pakto ir slaptųjų protokolų padarinių viešą pasmerkimą.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    tautų apsisprendimo principams, Lietuvos SSR Aukščiausiosios Tary-
-    bos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Moloto-
-    vo–Ribentropo pakto ir slaptųjų protokolų padarinius – 1940 m. vasarą
     sovietų valstybės įvykdytą Lietuvos okupaciją ir neteisėtą prijungimą.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -151,24 +144,39 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
-- c-006
-  santrauka: Citata pagrindžia Baltijos kelio datą, tikslą ir mastą.
+- c-007
+  santrauka: 'Lietuva ir Lenkija: santykiai be santykių 177; Pirmasis Europoje procesas prieš nacius ir Klaipėdos praradimas 179; Neutralumo politika ir Molotovo– Ribentropo paktas 183; SSRS 1940 metų ultimatumas ir sovietų okupacija 186.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1989 m. rugpjūčio 23 d. 19 val. trijų Baltijos valstybių gyventojai pami-
-    nėjo 50-ąsias Molotovo–Ribentropo pakto pasirašymo sukaktuves – per
-    protesto akciją, pavadintą Baltijos keliu, apie du milijonai lietuvių, latvių
-    ir estų susikibo rankomis sudarydami gyvą, daugiau kaip 650 km ilgio
-    žmonių grandinę nuo Gedimino bokšto Vilniuje iki Hermano bokšto
-    Taline. Visame kelyje plevėsavo juodi gedulo kaspinai, degė žvakutės, ku-
-    rios priminė aukas ir didelių netekčių skausmą. Pagaliau 1989 m. gruodį,
-    veikiant visų Baltijos tautų atstovams, slaptųjų protokolų padarinius pa-
-    smerkė SSRS liaudies deputatų II suvažiavimas, nors tiesiogiai tų padari-
-    nių su Baltijos valstybių okupacija nesusiejo.
-  citata_rodoma: ""
+    prieš nacius ir Klaipėdos praradimas  179; Neutralumo politika ir Molotovo–
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-007
+    - t-008
+- c-008
+  santrauka: 'LLL nariai ypač daug dėmesio skyrė 1939 m. rugpjūčio 23 d. Vokietijos ir Sovietų Sąjungos pasirašytam ir Molotovo–Ribentropo paktui.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    rezonansą, prašant SSRS vyriausybę paskelbti visus Molotovo–Ribentropo
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-009
+  santrauka: 'LLL apie save ypač drąsiai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Ribentropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    tropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
