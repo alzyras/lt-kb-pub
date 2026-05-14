@@ -60,8 +60,5 @@ Brunonas 1009 metais vasario 14 d. buvo suimtas ir su visais palydovais nužudyt
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/krikštas]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Brunono misija į aisčių kraštą ir žūtis (1009 m.)]]

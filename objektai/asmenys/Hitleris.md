@@ -42,7 +42,3 @@ o 1935 m. seimelio rinkimų išvakarėse labai atvirai Lietuvai pagrasino net pa
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]

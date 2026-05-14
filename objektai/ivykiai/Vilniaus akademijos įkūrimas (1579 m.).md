@@ -98,7 +98,6 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
-- [[temos/popiežius]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]

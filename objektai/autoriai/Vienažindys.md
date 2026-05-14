@@ -61,8 +61,5 @@ Jaunius; jo mokinys buvo ir poetas Vienažindys. Baranauskas (1835—1902 m.) ir
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/knyga]]
-
 ### Susiję objektai
 - [[objektai/autoriai/K. Jaunius]]

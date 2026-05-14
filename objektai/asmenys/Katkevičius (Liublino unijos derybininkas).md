@@ -70,8 +70,5 @@ Lietuviams vadovavo Katkevičius su Valavičium, nes senelis M. Tada Katkevičiu
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/unija]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Radvila (Liublino unijos derybininkas)]]

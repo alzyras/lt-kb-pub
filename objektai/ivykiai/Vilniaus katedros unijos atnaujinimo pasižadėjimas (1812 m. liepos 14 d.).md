@@ -57,8 +57,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/unija]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]

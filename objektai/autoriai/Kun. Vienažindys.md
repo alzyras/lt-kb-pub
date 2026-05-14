@@ -40,7 +40,3 @@ Baranauskas (1835—1902 m.) ir kun. Vienažindys (1841—1892 m.), kurių daine
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/knyga]]

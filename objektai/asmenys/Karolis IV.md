@@ -97,10 +97,6 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/krikštas]]
-- [[temos/popiežius]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
 

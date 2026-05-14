@@ -46,8 +46,5 @@ O tuo pat metu ten buvusiam lietuviui kun. Šaparui jis pasakė: „Jei tu dar d
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/kunigas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Franckevičius]]

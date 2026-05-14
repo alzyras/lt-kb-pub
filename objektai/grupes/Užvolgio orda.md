@@ -37,7 +37,3 @@ Lietuvos sąjungininkai buvo tik Livonijos ordino magistras Valteris Pletenberga
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Livonijos ordinas]]

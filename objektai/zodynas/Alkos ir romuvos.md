@@ -98,8 +98,3 @@ Terminais žymimos senosios kulto vietos ir šventovės. Kartu pabrėžiama, kad
 ## Šaltiniai ir įrodymai
 
 ## Pastabos
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/kunigas]]
-- [[temos/šventė]]

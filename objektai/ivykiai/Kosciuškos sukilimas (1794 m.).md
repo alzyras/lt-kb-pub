@@ -122,11 +122,5 @@ Nenurodyta
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/sukilimas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XVIII amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Tadas Kosciuška]]

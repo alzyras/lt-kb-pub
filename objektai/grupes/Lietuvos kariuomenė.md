@@ -81,6 +81,18 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - c-016
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-011
+  teiginys: 'Karalaitis Kazimieras paskelbtas šventuoju, kai po mirties pradėjo garsėti kaip stebukladaris, nes tikėta, kad jis išgelbėjęs Lietuvą karuose su Maskva – 1518 m. padėjęs Lietuvos kariuomenei įveikti priešą prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos.'
+  pagrindžia:
+    - c-017
+- t-012
+  teiginys: 'Lietuvos ir Lenkijos kariuomenė, vadovaujama Konstantino Ostrogiškio, 1514 m. rugsėjo 8 d. sutriuškina Maskvos kariuomenę prie Oršos.'
+  pagrindžia:
+    - c-018
+- t-013
+  teiginys: '1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.'
+  pagrindžia:
+    - c-019
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -297,6 +309,42 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-010
+- c-017
+  santrauka: 'Karalaitis Kazimieras paskelbtas šventuoju, kai po mirties pradėjo garsėti kaip stebukladaris, nes tikėta, kad jis išgelbėjęs Lietuvą karuose su Maskva – 1518 m. padėjęs Lietuvos kariuomenei įveikti priešą prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    pradėjo garsėti kaip stebukladaris, nes tikėta, kad jis išgelbėjęs Lietuvą
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-018
+  santrauka: 'Lietuvos ir Lenkijos kariuomenė, vadovaujama Konstantino Ostrogiškio, 1514 m. rugsėjo 8 d. sutriuškina Maskvos kariuomenę prie Oršos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ostrogiškio, 1514 m. rugsėjo 8 d. sutriuškina Maskvos kariuomenę
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-019
+  santrauka: '1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
 
 ## Ryšiai
 ### Susiję objektai
@@ -307,3 +355,4 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 - [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Konstantinas Ostrogiškis]]

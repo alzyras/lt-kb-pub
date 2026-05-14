@@ -1,0 +1,95 @@
+---
+tipas: paprotys
+pavadinimas: "Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos"
+sukurta: "2026-05-14"
+variantai: []
+aliases: []
+saltiniai:
+  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+bukle: juodrastis
+laikotarpis: "1927 m. vasara ir ruduo"
+datos:
+  - "1927 m."
+periodas: naujieji_laikai
+periodo_grupes:
+  - tarpukaris
+amziai:
+  - XX
+date_start: 1927
+date_end: 1927
+vaidmenys: []
+dalyviai:
+  - "A. Smetona"
+  - "lietuvių organizacijos"
+  - "vietos žydų bendruomenės"
+susije_irasai: []
+patikimumas: aukštas
+tags:
+  - ritualas
+---
+# Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos
+
+## Santrauka
+1927 m. A. Smetonos kelionės po miestelius buvo lydimos oficialios palydos, sutikimo vartų ir apsilankymų skirtingų konfesijų maldos vietose.
+
+## Laikotarpis ir datos
+- laikotarpis: 1927 m. vasara ir ruduo
+- datos:
+  - 1927 m.
+- periodas: naujieji_laikai
+- periodo_grupes:
+  - tarpukaris
+- amziai:
+  - XX
+- date_start: 1927
+- date_end: 1927
+
+## Kas tai
+- kategorija: ritualas
+
+## Atlikimas
+- kas atlieka: A. Smetona, jį lydėjusi palyda, lietuvių organizacijos, moksleiviai ir vietos žydų bendruomenės
+- kada atliekama: 1927 m. vasarą ir rudenį
+- kaip atliekama: prezidentas keliavo iš miestelio į miestelį ir buvo sutinkamas prie puoštų vartų
+
+## Paskirtis
+- Kurti prezidentinio režimo viešo pasirodymo ir gyventojų nuraminimo ritualą.
+
+## Kontekstas
+- Kelionės jungė politinį aiškinimą, vietos ceremonijas ir skirtingų religinių bendruomenių aplankymą.
+
+## Teiginiai
+- t-001
+  teiginys: "1927 m. A. Smetona keliavo po miestelius su oficialia palyda, o vietose buvo sutinkamas prie gėlėmis ir vainikais puoštų vartų."
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: Citata aprašo kelionių formą, palydą ir sutikimo vartų ceremonijas.
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    lio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų,
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata patikrinta kaip pažodinis darbinio šaltinio fragmentas."
+  pagrindžia:
+    - t-001
+
+## Šaltiniai ir įrodymai
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/ritualas]]
+- [[temos/socialinė-praktika]]
+
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/daiktai/Kino kronikos kameros]]
+- [[objektai/daiktai/Sutikimo vartai]]

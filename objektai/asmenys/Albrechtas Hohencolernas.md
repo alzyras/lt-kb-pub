@@ -135,8 +135,5 @@ tags:
     - t-005
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/kunigas]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Vienuolio apdarai]]

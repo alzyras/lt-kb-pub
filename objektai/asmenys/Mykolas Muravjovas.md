@@ -100,7 +100,3 @@ Muravjovas, pagerindamas valstiečių būklę ir pertvarkydamas savivaldybes, ti
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/sukilimas]]

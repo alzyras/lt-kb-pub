@@ -42,8 +42,5 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/unija]]
-
 ### Susiję objektai
 - [[objektai/vietos/Konstantinopolis]]

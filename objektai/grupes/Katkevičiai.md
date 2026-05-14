@@ -36,7 +36,3 @@ Be Radvilų ir Katkevičių, šitam laikotarpy iškilo dar vienas žmogus iš vi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Leonas Sapiega]]

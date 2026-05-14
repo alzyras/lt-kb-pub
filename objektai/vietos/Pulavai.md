@@ -41,5 +41,4 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Balstogė]]
 - [[objektai/vietos/Tulčinas]]

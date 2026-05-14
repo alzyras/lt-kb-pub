@@ -96,9 +96,6 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/reforma]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
 

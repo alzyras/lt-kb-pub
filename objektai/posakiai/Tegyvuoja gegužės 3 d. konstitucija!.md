@@ -41,7 +41,3 @@ Vienas Vilniaus gimnazijos mokinys ant lentos užrašė: „Tegyvuoja gegužės 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/reforma]]

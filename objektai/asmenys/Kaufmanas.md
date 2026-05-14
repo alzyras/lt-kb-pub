@@ -38,7 +38,3 @@ Tik jo įpėdinis Kaufmanas 1865 m. rugsėjo mėn.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/knyga]]

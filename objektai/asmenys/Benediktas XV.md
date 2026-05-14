@@ -41,8 +41,5 @@ Komiteto atstovai išsirūpino ir iš popiežiaus Benedikto XV tokią pat dieną
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/popiežius]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Pasaulinė bažnytinė rinkliava nukentėjusios Lietuvos naudai]]

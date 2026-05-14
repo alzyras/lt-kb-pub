@@ -41,9 +41,6 @@ Kaupo, A.
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/kunigas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/A. Milukas]]
 - [[objektai/ivykiai/Lietuvos skriaudų viešinimo akcijos Amerikoje (1894–1900 m.)]]

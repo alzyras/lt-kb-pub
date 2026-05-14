@@ -1,0 +1,75 @@
+---
+tipas: daiktas
+pavadinimas: 'Klaipėdos nacių organizacijų ginklai ir teismo įrodymai'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - daiktas
+  - ginklas
+---
+# Klaipėdos nacių organizacijų ginklai ir teismo įrodymai
+
+## Santrauka
+
+Lietuvos valdžia kruopščiai rinko kaltinamąją medžiagą, atliko kratas, per kurias išaiškėjo, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus, kurstomosios literatūros. Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išrikiuota 300 dėžių su įrodymais: svastikomis, vėliavomis, smogikų uniformomis, instrukcijomis, lapeliais, ginklais.
+
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: 'Lietuvos valdžia kruopščiai rinko kaltinamąją medžiagą, atliko kratas, per kurias išaiškėjo, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus, kurstomosios literatūros.'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išrikiuota 300 dėžių su įrodymais: svastikomis, vėliavomis, smogikų uniformomis, instrukcijomis, lapeliais, ginklais.'
+  pagrindžia:
+    - c-002
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Lietuvos valdžia kruopščiai rinko kaltinamąją medžiagą, atliko kratas, per kurias išaiškėjo, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus, kurstomosios literatūros.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    jo, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus,
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išrikiuota 300 dėžių su įrodymais: svastikomis, vėliavomis, smogikų uniformomis, instrukcijomis, lapeliais, ginklais.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išri-
+    kiuota 300 dėžių su įrodymais: svastikomis, vėliavomis, smogikų unifor-
+    momis, instrukcijomis, lapeliais, ginklais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)]]

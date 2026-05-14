@@ -76,8 +76,6 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
-- [[temos/šeima]]
-- [[temos/didikas - šeima]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XVIII amžius]]

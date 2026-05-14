@@ -20,47 +20,43 @@ tags:
 Ostrogiškis smarkiai sumušė Maskvos kariuomenę ties Orša. Bet tuo tarpu atvykęs Lietuvos hetmonas kunigaikštis Konstantinas Ostrogiškis ties Orša sumušė priešą ir privertė jį trauktis.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Ostrogiškis smarkiai sumušė Maskvos kariuomenę ties Orša.'
+- t-003
+  teiginys: 'Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.'
   pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Bet tuo tarpu atvykęs Lietuvos hetmonas kunigaikštis Konstantinas Ostrogiškis ties Orša sumušė priešą ir privertė jį trauktis.'
+    - c-003
+- t-004
+  teiginys: 'Lietuvos ir Lenkijos kariuomenė, vadovaujama Konstantino Ostrogiškio, 1514 m. rugsėjo 8 d. sutriuškina Maskvos kariuomenę prie Oršos.'
   pagrindžia:
-    - c-002
+    - c-004
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Ostrogiškis smarkiai sumušė Maskvos kariuomenę ties Orša.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-003
+  santrauka: 'Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Netrukus po to atvykęs K. Ostrogiškis smarkiai sumušė Mas-
-      kvos kariuomenę ties Orša. Turėdamas 30.000 kariuomenės,
-      jis sumušė priešo 80.000 kariuomenės; iš jų 30.000 krito karo
-      lauke, o pats vadas su 1.500 bajorų ir daugybe karių pateko
-      į nelaisvę.
+    Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Kons-
+    tantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinė-
+    je.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Bet tuo tarpu atvykęs Lietuvos hetmonas kunigaikštis Konstantinas Ostrogiškis ties Orša sumušė priešą ir privertė jį trauktis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+    - t-003
+- c-004
+  santrauka: 'Lietuvos ir Lenkijos kariuomenė, vadovaujama Konstantino Ostrogiškio, 1514 m. rugsėjo 8 d. sutriuškina Maskvos kariuomenę prie Oršos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Bet tuo tarpu atvykęs Lietuvos hetmonas kunigaikštis Konstantinas Ostrogiškis ties Orša sumušė priešą ir privertė jį trauktis.
+    Ostrogiškio, 1514 m. rugsėjo 8 d. sutriuškina Maskvos kariuomenę
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/1507–1508 m. karas su Maskva ir Mykolo Glinskio maištas]]
-- [[objektai/vietos/Orša]]
-- [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
+- [[objektai/grupes/Lietuvos kariuomenė]]

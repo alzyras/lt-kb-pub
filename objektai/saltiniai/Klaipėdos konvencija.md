@@ -28,6 +28,10 @@ Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Pranc
   teiginys: 'Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investicijoms arba turėti tiek kariuomenės divizijų, kiek Vokietija, deja...'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -75,3 +79,15 @@ Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Pranc
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investicijoms arba turėti tiek kariuomenės divizijų, kiek Vokietija, deja...'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    pradžioje Vokietijai jau ruošiantis žygiuoti į Klaipėdą, britai ir prancūzai
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

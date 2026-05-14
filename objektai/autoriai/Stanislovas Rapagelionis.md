@@ -60,9 +60,7 @@ Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir kai kurias giesm
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/knyga]]
-
 ### Susiję objektai
 - [[objektai/autoriai/Abraomas Kulvietis]]
+- [[objektai/autoriai/J. Bretkūnas]]
 - [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]

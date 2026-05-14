@@ -1,0 +1,39 @@
+---
+tipas: posakis
+pavadinimas: '„antilenkiškumas iš politikos pamažu virto kone religija“'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - elekcija
+  - posakis
+  - valstybė
+---
+# „antilenkiškumas iš politikos pamažu virto kone religija“
+
+## Santrauka
+
+Tebetvyranti įjungimo į Lenkiją grėsmė Lietuvos valstybei sukūrė apsupties mentalitetą, sustiprino lietuvių nacionalizmą, o jų politinėje sąmonėje antilenkiškumas iš politikos pamažu virto kone religija.
+
+## Teiginiai
+- t-001
+  teiginys: 'Tebetvyranti įjungimo į Lenkiją grėsmė Lietuvos valstybei sukūrė apsupties mentalitetą, sustiprino lietuvių nacionalizmą, o jų politinėje sąmonėje antilenkiškumas iš politikos pamažu virto kone religija.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Tebetvyranti įjungimo į Lenkiją grėsmė Lietuvos valstybei sukūrė apsupties mentalitetą, sustiprino lietuvių nacionalizmą, o jų politinėje sąmonėje antilenkiškumas iš politikos pamažu virto kone religija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    gumo. Tebetvyranti įjungimo į Lenkiją grėsmė Lietuvos valstybei sukūrė
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001

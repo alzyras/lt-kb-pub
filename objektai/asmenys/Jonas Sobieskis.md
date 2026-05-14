@@ -143,7 +143,6 @@ Jono Sobieskio (1674—1696 m.) elekcija. Jono Sobieskio politiniai planai ir jo
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/elekcija]]
 - [[temos/pinigai]]
 
 ### Susiję objektai

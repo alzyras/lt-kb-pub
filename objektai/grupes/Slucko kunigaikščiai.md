@@ -36,10 +36,3 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/šeima]]
-
-### Susiję objektai
-- [[objektai/grupes/Radvilos]]

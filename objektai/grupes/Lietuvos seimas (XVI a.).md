@@ -47,8 +47,5 @@ Prieš bendrąjį seimą buvo sušauktas dar atskiras Lietuvos seimas, tačiau j
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/unija]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]

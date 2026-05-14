@@ -28,6 +28,10 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
   teiginys: '2) Lietuvos siena eina Kerzono linija (Suvalkų krašto ruože ta linija buvo nustatyta Suvalkų sutartyje, kaip demarkacijos linija) ligi Nemuno, paskui — Nemunu ligi Druskininkų, nuo čia — per Ežeronis ligi Volios, toliau vėl Nemunu ligi Beržūnės, o nuo čia.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Lietuviai atkakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus).'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -62,6 +66,18 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Lietuviai atkakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -70,3 +86,4 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
 ### Susiję objektai
 - [[objektai/vietos/Ežeronis]]
 - [[objektai/vietos/Volia]]
+- [[objektai/vietos/Švenčionys]]

@@ -147,6 +147,7 @@ Autorius aprašo sovietinių istorikų taikytą schemą ir ją kritikuoja kaip s
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
 - [[temos/teisinis-terminas]]
+- [[temos/istorinė-sąvoka - teisinis-terminas]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]

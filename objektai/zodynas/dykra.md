@@ -51,10 +51,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 - t-001
   teiginys: 'Dykra šiame fragmente reiškia pasienio neapgyventą teritoriją.'
   pagrindžia:
-    - c-001
-    - c-002
     - c-003
-    - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-002
@@ -63,40 +60,12 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
     - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Melno dokumente ribos ėjo per dykras ir miškus be gyvenviečių.'
+- t-004
+  teiginys: 'Į dykra paverstas jotvingių, skalvių, nadruvių žemes iš Lietuvos XV a.'
   pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+    - c-006
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: Dykra šiame fragmente reiškia pasienio neapgyventą teritoriją
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ordinui priskirtoje dykroje buvę žemaičių pilių. Tai teberodą « kalniu-
-    kai » (mūsiškai « piliakalniai »).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-    - t-003
-- c-002
-  santrauka: Dykra šiame fragmente reiškia pasienio neapgyventą teritoriją
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
 - c-003
   santrauka: Dykra šiame fragmente reiškia pasienio neapgyventą teritoriją
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -127,20 +96,18 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-005
-  santrauka: Dykra šiame fragmente reiškia pasienio neapgyventą teritoriją
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-006
+  santrauka: 'Į dykra paverstas jotvingių, skalvių, nadruvių žemes iš Lietuvos XV a.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Iš čia ji tęsėsi vėl per dykrą tiesiai į Preivosto (Prawdzisken)
-    šilus, o iš ten tiesia linija į Merūniškius ir Vystyčio ežerą, kuris
-    liko ordino pusėje.
-  citata_rodoma: ""
+    Būta ir kito Lietuvos vardo plitimo kelio. Į dykra paverstas jotvingių,
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-004
 
 ## Pastabos
 

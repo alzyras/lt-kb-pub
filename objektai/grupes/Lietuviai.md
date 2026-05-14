@@ -28,12 +28,6 @@ tags:
 Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateikiamas kaip anksti istoriniuose šaltiniuose paminėtas. Daukanto pasakojime lietuviai dar rodomi kaip sena tauta, prieš Kristaus gimimą gyvenusi prie Juodųjų pamarių, save vadinusi ir kalnėnais, aukštėjais bei žemaičiais pagal gyvenamą vietą, o Perūną garbinusi ugnia.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Lietuviai yra iš aisčių kilčių susiformavusi tauta'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-002
   teiginys: 'Lietuvių vardas pateikiamas kaip anksti istoriniuose šaltiniuose paminėtas'
   pagrindžia:
@@ -76,49 +70,27 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-008
-  teiginys: 'Lietuviai reikalauja garantijos, kad Lietuvoje nebus vykdoma egzekucija'
-  pagrindžia:
-    - c-008
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
-
-- t-009
-  teiginys: 'Lietuvių tauta čia pateikiama kaip jau prieš Kristaus gimimą gyvenusi Uksinių, arba Juodųjų, pamarių šiaurėje ir vadinta įvairiais vardais.'
-  pagrindžia:
-    - c-016
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
 - t-010
   teiginys: 'Patys save lietuviai vadino lietuviais, kalnėnais, aukštėjais ir žemaičiais pagal tai, ar gyveno kalne, ar pakalnėje, jūros link.'
   pagrindžia:
     - c-028
     - c-027
-    - c-020
-    - c-017
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-011
-  teiginys: 'Lietuviai, arba kailinuočiai, šiame tekste siejami su Perūno, vadinamo Papiu ir Tėčiu, garbinimu ugnia, o ne su pačios ugnies garbinimu.'
+- t-012
+  teiginys: 'Lietuvos vardas pirmąkart paminėtas 1009 m., tačiau atsirado jis anksčiau: lietuvių gentis iš rytų baltų turėjo išsiskirti prieš keliolika amžių.'
   pagrindžia:
-    - c-018
-    - c-019
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
+    - c-029
+- t-013
+  teiginys: 'Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
+  pagrindžia:
+    - c-030
+- t-014
+  teiginys: 'Mindaugas sukūrė didžiausią ankstyvosios Lietuvos istorijos kūrinį – valstybę, suteikusią galimybę išlikti lietuvių tautai ir vėliau perimti Vakarų civilizaciją.'
+  pagrindžia:
+    - c-031
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: Lietuviai yra iš aisčių kilčių susiformavusi tauta
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    tos aisčių kiltys, iš kurių yra susiformavusi lietuvių tauta, o dar
-    toliau gyveno tos kiltys, iš kurių yra susidarę dabartiniai latviai.
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 - c-002
   santrauka: Lietuvių vardas pateikiamas kaip anksti istoriniuose šaltiniuose paminėtas
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -202,91 +174,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
-- c-008
-  santrauka: Lietuviai reikalauja garantijos, kad Lietuvoje nebus vykdoma egzekucija
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tad ir šitam unijos projekte ir vėlesniuose ginčuose su lenkais
-    lietuviai reikalavo, kad karalius duotų garantiją, jog Lietuvoje nebū-
-    sianti vykdoma vadinamoji egzekucija.
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-- c-016
-  santrauka: Lietuvių tauta čia pateikiama kaip sena ir įvairiais vardais vadinta bendruomenė prie Juodųjų pamarių.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Gilioje jau senovėj, kaip paskiau regėsim, pirm gimimo Kristaus lietuvių tauta yra jau randama
-    gyvenanti Uksiniuose, arba Juoduosiuose, pamariuose šiaurės linkan, noris ne lietuviais, bet kitais
-    vardais jau nuo jos būdo, jau nuo vietos, kurioje gyveno, vadinama, beje: indijonimis,
-    kiemarionimis, skitais ir getais, kartais eruliais, arba giruliais.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
-- c-017
-  santrauka: Lietuviai save vadino skirtingais vardais pagal gyvenamą vietą.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Lietuviai, Juodojoj girioj gyvenantys, juodgirėnais vadinos. Patys save vadino lietuviais, kalnėnais,
-    arba aukštėjais, ir žemaičiais, pagal tą, kaip, kalne ar pakalnėj, tai yra jūron linkui, gyveno.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-010
-- c-018
-  santrauka: Lietuviai, arba kailinuočiai, čia siejami su Perūno garbinimu ugnia, o ne su pačios ugnies garbinimu.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Trečiasis raštininkas, dar paskiau gyvenąs, rašo, jog kailinuočiai, stirvelėdami^675 su
-    egipčionimis apie pirmumą kilties^676 savo tautos, būk stigavoję^677 , jog ugnis šį pasaulį paperėjusi,
-    ir tas taip pat ženklą už lyčių parašė, kad tuo tarpu regėjom viršiau, jog lietuviai, arba kailinuočiai,
-    ne ugnį, be patį Perūną, arba įkūrėją šio pasaulio, vadino ir ugnia jį garbino.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-011
-- c-019
-  santrauka: Kailinuočių dievo vardai Papiu ir Tėčiu siejami su Perūno vardais žemaičių ir kuržemininkų vartosenoje.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    kaipogi Herodotas rašo, jog kailinuočiai (Scythae) savo dievą Papiu
-    ir Tėčiu vadinę ir ugnį garbinę, ir taip tais pačiais vardais tuo kartu jau vadinę dievą, kuriais
-    šiandien dar kuržemininkas ir žemaitis tebvadina savo Perūną dievą senu įpročiu Tičiu ir Papiu,
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-011
-- c-020
-  santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Nesgi senovės raštai skelbia, jog lietuvių, kalnėnų ir žemaičių, giminės yra buvusi
-    lopšiu Indų žemė; kaipogi mūsų amžiuje rasti tenai jos kunigų raštai rodo mus su indijonimis
-    brolių vaikais prasenovėj buvusius, nesgi tų raštų kalba nė su viena šios dienos žinomųjų kalbų
-    nėra taip didžiai sutinkanti, kaipo su kalnėnų ir žemaičių kalba
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-010
-    - t-010
 - c-021
   santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -300,7 +187,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-003
@@ -315,7 +202,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-007
@@ -330,7 +217,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-004
@@ -346,7 +233,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-004
@@ -360,7 +247,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-006
@@ -375,7 +262,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-004
@@ -390,7 +277,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-010
@@ -403,7 +290,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-010
@@ -413,6 +300,42 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-004
     - t-010
     - t-010
+- c-029
+  santrauka: 'Lietuvos vardas pirmąkart paminėtas 1009 m., tačiau atsirado jis anksčiau: lietuvių gentis iš rytų baltų turėjo išsiskirti prieš keliolika amžių.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    ka amžių. Kalbininkai yra nustatę, kad lietuvių kalba atsiskyrė nuo latvių
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-030
+  santrauka: 'Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos. Šie žmonės aplinkinių buvo vadinami „leičiais“ (latviai iki šiol
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-031
+  santrauka: 'Mindaugas sukūrė didžiausią ankstyvosios Lietuvos istorijos kūrinį – valstybę, suteikusią galimybę išlikti lietuvių tautai ir vėliau perimti Vakarų civilizaciją.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    sios Lietuvos istorijos kūrinį – valstybę, suteikusią galimybę išlikti lietuvių
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
 
 ## Ryšiai
 ### Susiję objektai
@@ -420,3 +343,4 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/egzekucija]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/posakiai/„didžiausią ankstyvosios Lietuvos istorijos kūrinį – valstybę“]]

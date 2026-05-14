@@ -58,5 +58,4 @@ Papildomos aiškios formos neišskirtos.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Žydai]]
 - [[objektai/paprociai/Žydų prekybos ribojimas pilyse iki pusrytės]]

@@ -44,5 +44,4 @@ Vyskupas Petkevičius ir jo įpėdinis Merkelis Giedraitis paaukojo pinigų ir p
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/kunigas]]
 - [[temos/pinigai]]

@@ -137,9 +137,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/popiežius]]
-- [[temos/valdovas]]
-- [[temos/popiežius - valdovas]]

@@ -78,6 +78,14 @@ Nenurodyta
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'O turima galvoje: žemės ūkio pažanga, lėktuvų projektavimas ir gamyba Kaune ir krepšininkų vyrų dukart – 1937 ir 1939 m. – iškovoti Europos čempionų titulai.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėktuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių pirmųjų raidžių).'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -117,6 +125,30 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'O turima galvoje: žemės ūkio pažanga, lėktuvų projektavimas ir gamyba Kaune ir krepšininkų vyrų dukart – 1937 ir 1939 m. – iškovoti Europos čempionų titulai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    galvoje: žemės ūkio pažanga, lėktuvų projektavimas ir gamyba Kaune ir
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėktuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių pirmųjų raidžių).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    tu. Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis,
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Šaltiniai ir įrodymai
 
@@ -126,3 +158,8 @@ Nenurodyta
 
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/asmenys/Antanas Gustaitis]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Kauno karo aviacijos dirbtuvės]]

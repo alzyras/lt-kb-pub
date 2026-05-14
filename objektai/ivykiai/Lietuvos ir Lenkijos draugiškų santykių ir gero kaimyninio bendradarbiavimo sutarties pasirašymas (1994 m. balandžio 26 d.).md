@@ -1,0 +1,72 @@
+---
+tipas: ivykis
+pavadinimas: 'Lietuvos ir Lenkijos draugiškų santykių ir gero kaimyninio bendradarbiavimo sutarties pasirašymas (1994 m. balandžio 26 d.)'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - ivykis
+  - kraštas
+  - tauta
+  - valstybė
+---
+# Lietuvos ir Lenkijos draugiškų santykių ir gero kaimyninio bendradarbiavimo sutarties pasirašymas (1994 m. balandžio 26 d.)
+
+## Santrauka
+
+1994 m. balandžio 26 d. santykius vaisingai vainikavo po ilgų derybų Lietuvos ir Lenkijos pasirašyta draugiškų santykių ir gero kaimyninio bendradarbiavimo sutartis. Abi valstybės įsipareigojo grįsti savo santykius tarpusavio pagarba, pasitikėjimu, lygiateisiškumu, gera kaimynyste ir remti viena kitos integraciją į Vakarų valstybių šeimą.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: '1994 m. balandžio 26 d. santykius vaisingai vainikavo po ilgų derybų Lietuvos ir Lenkijos pasirašyta draugiškų santykių ir gero kaimyninio bendradarbiavimo sutartis.'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'Abi valstybės įsipareigojo grįsti savo santykius tarpusavio pagarba, pasitikėjimu, lygiateisiškumu, gera kaimynyste ir remti viena kitos integraciją į Vakarų valstybių šeimą.'
+  pagrindžia:
+    - c-002
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: '1994 m. balandžio 26 d. santykius vaisingai vainikavo po ilgų derybų Lietuvos ir Lenkijos pasirašyta draugiškų santykių ir gero kaimyninio bendradarbiavimo sutartis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    iškilmingai patvirtintas dabartinių teritorijų „su sostinėmis Vilniumi ir
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Abi valstybės įsipareigojo grįsti savo santykius tarpusavio pagarba, pasitikėjimu, lygiateisiškumu, gera kaimynyste ir remti viena kitos integraciją į Vakarų valstybių šeimą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    tifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/posakiai/„su sostinėmis Vilniumi ir Varšuva vientisumą[as] dabar ir ateityje“]]

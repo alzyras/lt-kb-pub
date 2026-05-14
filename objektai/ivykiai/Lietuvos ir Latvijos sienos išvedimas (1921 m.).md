@@ -131,8 +131,6 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/upė]]
-- [[temos/šventė]]
-- [[temos/upė - šventė]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]

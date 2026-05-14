@@ -61,8 +61,5 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/šventė]]
-
 ### Susiję objektai
 - [[objektai/grupes/Liuterionys]]

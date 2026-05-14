@@ -61,3 +61,6 @@ tags: []
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/asmenys/Michailas Gorbačiovas]]

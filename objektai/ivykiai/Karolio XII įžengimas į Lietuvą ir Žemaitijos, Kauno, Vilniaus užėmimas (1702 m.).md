@@ -55,6 +55,3 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVIII amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Karolis XII]]

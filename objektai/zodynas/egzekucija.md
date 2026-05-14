@@ -59,10 +59,3 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/unija]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

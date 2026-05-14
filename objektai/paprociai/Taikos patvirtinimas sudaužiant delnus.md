@@ -98,6 +98,3 @@ Nenurodyta
 
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
-
-### Susiję objektai
-- [[objektai/grupes/Žemaičiai]]

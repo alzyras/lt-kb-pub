@@ -76,6 +76,14 @@ Nenurodyta
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šarvuočiai.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Vilniaus televizijos bokšto šturmas – sovietų tankų vikšrai traiško taikius gynėjus.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -116,6 +124,30 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šarvuočiai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    sausio 10 d. M. Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Vilniaus televizijos bokšto šturmas – sovietų tankų vikšrai traiško taikius gynėjus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vilniaus televizijos bokšto šturmas – sovietų tankų
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Šaltiniai ir įrodymai
 
@@ -125,3 +157,7 @@ Nenurodyta
 
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/asmenys/Michailas Gorbačiovas]]
+- [[objektai/vietos/Vilniaus televizijos bokštas]]

@@ -85,4 +85,3 @@ Didieji Lenkijos ponai su pačiu hetmonu Sobieskiu palaikė Prancūzų kandidat�
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
-- [[temos/elekcija]]

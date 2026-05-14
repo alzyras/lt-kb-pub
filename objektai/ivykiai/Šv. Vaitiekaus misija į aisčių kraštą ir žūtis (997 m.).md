@@ -138,9 +138,6 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/krikštas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/X amžius]]
 

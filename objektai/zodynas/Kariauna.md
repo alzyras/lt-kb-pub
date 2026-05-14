@@ -23,37 +23,24 @@ Pagrindinė forma: `kariauna`.
 Vartojamos formos: `vaisku`, `gauja`, `kareiviai`.
 
 ## Teiginiai
-- t-001
-  teiginys: '`Kariauna` šiame tekste reiškia kariuomenę kaip kareivių gaują.'
+- t-003
+  teiginys: 'Lietuvos valstybė atsirado pirmiausia kaip apsigynimo priemonė, tačiau ji turėjo remtis kokiu nors visuomenės sluoksniu – tas sluoksnis buvo Mindaugo kariauna, o vieno valdovo įsitvirtinimas yra ryškiausias išorinis valstybės atsiradimo požymis.'
   pagrindžia:
-    - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-002
-  teiginys: '`Vaisku` vartojamas kaip kariaunos sinonimas.'
-  pagrindžia:
-    - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
+    - c-002
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: `Kariauna` šiame tekste reiškia kariuomenę kaip kareivių gaują
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+- c-002
+  santrauka: 'Lietuvos valstybė atsirado pirmiausia kaip apsigynimo priemonė, tačiau ji turėjo remtis kokiu nors visuomenės sluoksniu – tas sluoksnis buvo Mindaugo kariauna, o vieno valdovo įsitvirtinimas yra ryškiausias išorinis valstybės atsiradimo požymis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Kad patys atmonai nuo kitų kareivių tiktai narsumu, kantrybe ir buklumu tesižymino, tad ir
-    kareiviai tais pačiais privalumais^1310 tenkinos ir buvo vyrai ne į kelnes kišami, nesgi pradžioj it taip
-    kariavo su neprieteliais, kaip jei namie po girias su žvėrimis. Kiekvieno įgimtas protas ir buklumas bei
-    guvumas rėdė jo spėką. Nes ilgainiui, taip kariaudami ir didžius ojus^1311 pritirdami, įsitaisė į stiprius
-    kareivius, kurių gauja vadinos kariauna^1312 , arba vaisku, noris lig į vieną vietą nesusirinkusi
-  citata_rodoma: ""
+    visuomenės sluoksniu – tas sluoksnis buvo Mindaugo kariauna, o vieno
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
 
 ## Pastabos
 

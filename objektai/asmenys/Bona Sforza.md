@@ -65,4 +65,3 @@ Kai Zigmantas jau buvo palaužtas sunkios valdymo naštos, valstybėje didžiaus
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
-- [[temos/šeima]]

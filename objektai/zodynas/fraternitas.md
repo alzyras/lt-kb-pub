@@ -43,8 +43,5 @@ Akte yra sakoma: Kad būtų viena tauta, viena visuomenė, viena brolija (frater
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]
-
 ### Susiję objektai
 - [[objektai/posakiai/Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai]]

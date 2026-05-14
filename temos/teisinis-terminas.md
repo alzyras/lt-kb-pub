@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 11.
+Objektų skaičius: 13.
 
 ## Kaip naudoti
 
@@ -19,6 +19,8 @@ Objektų skaičius: 11.
 ## Susiję objektai
 
 ### Žodynas
+- [[objektai/zodynas/abdikacija]]
+- [[objektai/zodynas/alodas alodinė nuosavybė|alodas / alodinė nuosavybė]]
 - [[objektai/zodynas/Baudžiava]]
 - [[objektai/zodynas/civilinis aktas]]
 - [[objektai/zodynas/inkorporacija]]

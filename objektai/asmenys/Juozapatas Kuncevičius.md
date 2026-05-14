@@ -41,8 +41,5 @@ Tų kovų metu sukilę Vitebsko miestiečiai pravoslavai (1623 m.) nužudė net 
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/šventė]]
-
 ### Susiję objektai
 - [[objektai/vietos/Vitebskas]]

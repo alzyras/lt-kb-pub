@@ -20,87 +20,41 @@ tags:
 Tadas Kosciuška, pasižymėjęs Amerikos nepriklausomybės kovose generolas, Jurgio Vašingtono draugas, 1794 m. sukilimo vadas, 1794—1796 m. Rusų belaisvis († 1817 m.). Kosciuška, norėdamas sukelti valstiečius, išleido atsišaukimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę (tokių atsišaukimų buvo išleistų ir lietuviškų). Po vieno mūšio sužeistas Kosciuška pateko į nelaisvę.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Tadas Kosciuška, pasižymėjęs Amerikos nepriklausomybės kovose generolas, Jurgio Vašingtono draugas, 1794 m. sukilimo vadas, 1794—1796 m. Rusų belaisvis († 1817 m.).'
+- t-005
+  teiginys: 'Kosciuškos sukilimo metu tapęs Vilniaus gvardijos vadu.'
   pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Kosciuška, norėdamas sukelti valstiečius, išleido atsišaukimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę (tokių atsišaukimų buvo išleistų ir lietuviškų).'
+    - c-005
+- t-006
+  teiginys: '1794 m. kovą Lenkijoje prasidėjo sukilimas, kuriam vadovavo iš LDK kilęs ir kovose dėl JAV nepriklausomybės pasižymėjęs generolas Tadas Kosciuška.'
   pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Po vieno mūšio sužeistas Kosciuška pateko į nelaisvę.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Pirmieji popieriniai pinigai buvo išleisti tik Kosciuškos sukilimo metu.'
-  pagrindžia:
-    - c-004
+    - c-006
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Tadas Kosciuška, pasižymėjęs Amerikos nepriklausomybės kovose generolas, Jurgio Vašingtono draugas, 1794 m. sukilimo vadas, 1794—1796 m. Rusų belaisvis († 1817 m.).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-005
+  santrauka: 'Kosciuškos sukilimo metu tapęs Vilniaus gvardijos vadu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Tadas Kosciuška,
-      pasižymėjęs Amerikos nepriklauso-
-      mybės kovose generolas, Jurgio
-      Vašingtono draugas, 1794 m. suki-
-      limo vadas, 1794—1796 m. Rusų
-      belaisvis († 1817 m.).
+    titucijos stos ir pats L. Gucevičius, T. Kosciuškos sukilimo metu tapęs
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Kosciuška, norėdamas sukelti valstiečius, išleido atsišaukimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę (tokių atsišaukimų buvo išleistų ir lietuviškų).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+    - t-005
+- c-006
+  santrauka: '1794 m. kovą Lenkijoje prasidėjo sukilimas, kuriam vadovavo iš LDK kilęs ir kovose dėl JAV nepriklausomybės pasižymėjęs generolas Tadas Kosciuška.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Kosciuška, norėdamas sukelti valstiečius, išleido atsišau-
-      kimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę
-      (tokių atsišaukimų buvo išleistų ir lietuviškų).
+    kilęs ir kovose dėl JAV nepriklausomybės pasižymėjęs generolas Tadas
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Po vieno mūšio sužeistas Kosciuška pateko į nelaisvę.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Po vieno mūšio sužeistas Kosciuška
-      pateko į nelaisvę. Netrukus po to buvo likviduotas ir visas
-      sukilimas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Pirmieji popieriniai pinigai buvo išleisti tik Kosciuškos sukilimo metu.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pirmieji popieriniai pinigai buvo išleisti tik
-      Kosciuškos sukilimo metu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
-- [[temos/sukilimas]]
-
-### Susiję objektai
-- [[objektai/ivykiai/Kosciuškos sukilimas (1794 m.)]]

@@ -62,5 +62,4 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
-- [[temos/kunigas]]
 - [[temos/tikėjimas]]

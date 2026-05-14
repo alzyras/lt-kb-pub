@@ -40,7 +40,3 @@ Kai kurie apsukrūs žydai įgavo net didžiojo kunigaikščio pasitikėjimą; t
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/krikštas]]

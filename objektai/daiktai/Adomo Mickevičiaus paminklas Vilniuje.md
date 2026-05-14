@@ -1,0 +1,97 @@
+---
+tipas: "daiktas"
+pavadinimas: "Adomo Mickevičiaus paminklas Vilniuje"
+sukurta: "2026-05-14"
+variantai:
+  - "Adomo Mickevičiaus paminklas Vilniuje"
+aliases: []
+saltiniai:
+  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+bukle: "juodrastis"
+laikotarpis: "1987 m. rugpjūčio 23 d. protesto mitingo kontekstas"
+datos:
+  - "1987 m. rugpjūčio 23 d."
+periodas: "siuolaikine_istorija"
+periodo_grupes:
+  - "sovietmetis"
+amziai:
+  - "XX"
+date_start: "1987"
+date_end: "1987"
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
+patikimumas: "vidutinis"
+tags:
+  - simbolis
+---
+# Adomo Mickevičiaus paminklas Vilniuje
+
+## Santrauka
+
+Adomo Mickevičiaus paminklas Vilniuje minimas kaip konkreti protesto mitingo vieta ir materialus orientyras, prie kurio LLL iniciatyva 1987 m. rugpjūčio 23 d. surengtas mitingas.
+
+## Pavadinimai šaltiniuose
+- Adomo Mickevičiaus paminklas Vilniuje
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+
+Paminklas Vilniuje.
+
+## Naudojimas
+
+Naudotas kaip protesto mitingo susibūrimo vietos orientyras.
+
+## Kontekstas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: "1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas."
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'LLL apie save ypač drąsiai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Ribentropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.'
+  pagrindžia:
+    - c-002
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: Paminklas siejamas su 1987 m. rugpjūčio 23 d. protesto mitingu.
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    tropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'LLL apie save ypač drąsiai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Ribentropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    paminklo Vilniuje surengtas protesto mitingas. Nepalūžę dvasininkai ir
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/simbolis]]
+
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/ivykiai/LLL mitingas prie Adomo Mickevičiaus paminklo Vilniuje (1987 m. rugpjūčio 23 d.)]]

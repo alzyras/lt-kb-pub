@@ -40,7 +40,3 @@ Bet čia įvyko skilimas: didžiausias pravoslavų ponas Ostrogo kunigaikštis K
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/unija]]

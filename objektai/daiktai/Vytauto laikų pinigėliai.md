@@ -81,4 +81,5 @@ Nenurodyta
 - [[temos/pinigai]]
 
 ### Susiję objektai
+- [[objektai/daiktai/Aleksandro pinigai]]
 - [[objektai/daiktai/Lietuvos pinigai]]

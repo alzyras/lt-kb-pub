@@ -38,7 +38,3 @@ Tada raudonųjų centro komitetas, pabėgėlių verčiamas, pasivadino Laikine T
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/sukilimas]]

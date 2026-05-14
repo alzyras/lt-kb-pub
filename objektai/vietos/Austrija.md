@@ -28,6 +28,18 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
   teiginys: 'Čartoriskius, darančius reformas, Rusija rėmė: ji nenorėjo, kad per didele netvarka naudotųsi kiti kaimynai (Prūsija ir Austrija), ir tikėjosi, kad susitvarkęs kraštas liks jos vienos įtakoje, nes visą laiką bus reikalingas jos paramos.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Lenkijos ir LDK dalybose dalyvavo ir Austrija: pietvakarinis LDK kampas buvo prijungtas prie Austrijos, kuris 1815 m., kaip ir Užnemunė, atiteko Rusijai.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Iki 1809 m. ši valstybė pati atsikariaus iš Austrijos didžiumą lenkų žemių.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -61,11 +73,48 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    burge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Lenkijos ir LDK dalybose dalyvavo ir Austrija: pietvakarinis LDK kampas buvo prijungtas prie Austrijos, kuris 1815 m., kaip ir Užnemunė, atiteko Rusijai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Austrija: pietvakarinis LDK kampas buvo prijungtas prie Austrijos, kuris
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Iki 1809 m. ši valstybė pati atsikariaus iš Austrijos didžiumą lenkų žemių.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    ši valstybė pati atsikariaus iš Austrijos didžiumą lenkų žemių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/reforma]]
 - [[temos/tikėjimas]]
 
 ### Susiję objektai
+- [[objektai/vietos/Peterburgas]]
+- [[objektai/ivykiai/Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas]]
 - [[objektai/zodynas/jozefinizmas]]

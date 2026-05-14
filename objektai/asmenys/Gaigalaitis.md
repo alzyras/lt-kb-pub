@@ -58,8 +58,5 @@ tags:
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/kunigas]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Kunigo dr. Gaigalaičio išrinkimas ir perrinkimai Klaipėdos apygardoje (1903, 1908, 1913 m.)]]

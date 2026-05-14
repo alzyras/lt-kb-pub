@@ -80,16 +80,21 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'KOVA DĖL NEPRIKLAUSOMYBĖS 130 Lietuvos planai: nuo autonomijos iki nepriklausomybės 130; 1918 metų Vasario 16 Aktas 135; Versalio sistemoje 138;.'
+  pagrindžia:
+    - c-003
+- t-008
+  teiginys: 'Kovo 11 Aktas savo dvasia artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16 Aktui, tačiau nebesirėmė visuotinai pripažinta tautų apsisprendimo teise (politiniu požiūriu tautų apsisprendimo teisės deklaravimas buvo pavojingas dėl Maskvos užmačių.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Citata pagrindžia Akto priėmimo datą, priėmėją ir pagrindinį turinį.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo na-
-    cijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena,
     davė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant,
-    kur Taryba veda Lietuvą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -104,15 +109,7 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   santrauka: Citata pagrindžia Akto simbolinę reikšmę ir deklaracijos pristatymą Vokietijos kancleriui.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo na-
-    cijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena,
-    davė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant,
-    kur Taryba veda Lietuvą. Kovo 23 dieną Berlyne A. Smetonos vadovau-
     jama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui
-    Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos
-    kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomy-
-    bę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai…
-    gruodžio 11-osios rezoliucijos pagrindu.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -121,3 +118,27 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   pagrindžia:
     - t-005
     - t-006
+- c-003
+  santrauka: 'KOVA DĖL NEPRIKLAUSOMYBĖS 130 Lietuvos planai: nuo autonomijos iki nepriklausomybės 130; 1918 metų Vasario 16 Aktas 135; Versalio sistemoje 138;.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos planai: nuo autonomijos iki nepriklausomybės 130;
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-004
+  santrauka: 'Kovo 11 Aktas savo dvasia artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16 Aktui, tačiau nebesirėmė visuotinai pripažinta tautų apsisprendimo teise (politiniu požiūriu tautų apsisprendimo teisės deklaravimas buvo pavojingas dėl Maskvos užmačių.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    reigojimų). Kovo 11 Aktu Lietuvos valstybė atkurta savo teritorijoje, su
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008

@@ -88,4 +88,3 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dokumentas]]
-- [[temos/valdovas]]

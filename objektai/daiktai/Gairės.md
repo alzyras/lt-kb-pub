@@ -58,6 +58,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/upė - šventė]]
 - [[temos/upė]]
-- [[temos/šventė]]

@@ -1,0 +1,101 @@
+---
+tipas: saltinis
+pavadinimas: 'Vilniaus albumas'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - saltinis
+---
+# Vilniaus albumas
+
+## Santrauka
+
+Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų kariuomenės traukimasis per Vilniaus rotušės aikštę.
+
+## Teiginiai
+- t-001
+  teiginys: 'Vilniaus universiteto Didysis kiemas ir Šv.'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'Vilniaus katedra iš J.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Prancūzų kariuomenės traukimasis per Vilniaus rotušės aikštę.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Senųjų laikų reminiscencija – Vilniaus Verkių rūmų interjeras iš J.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Vilčinskio „Vilniaus albumo“.'
+  pagrindžia:
+    - c-005
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Vilniaus universiteto Didysis kiemas ir Šv.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    iš J. K. Vilčinskio „Vilniaus albumo“. Dail.  Ph. Benoist, A. Bayot, 1850 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Vilniaus katedra iš J.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vilniaus katedra iš J. K. Vilčinskio  „Vilniaus albumo“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Prancūzų kariuomenės traukimasis per Vilniaus rotušės aikštę.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Prancūzų kariuomenės traukimasis per Vilniaus rotušės aikštę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Senųjų laikų reminiscencija – Vilniaus Verkių rūmų interjeras iš J.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Senųjų laikų reminiscencija – Vilniaus Verkių rūmų interjeras
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Vilčinskio „Vilniaus albumo“.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    „Vilniaus albumo“. Dail. A. Lafosse, 1857 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005

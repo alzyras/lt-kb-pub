@@ -57,7 +57,6 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/diplomatas]]
-- [[temos/knyga]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]

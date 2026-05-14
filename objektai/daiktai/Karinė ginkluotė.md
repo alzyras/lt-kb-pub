@@ -369,9 +369,6 @@ Nenurodyta
     - t-014
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/ginklas]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Druska]]
 - [[objektai/daiktai/Vilnonės medžiagos]]

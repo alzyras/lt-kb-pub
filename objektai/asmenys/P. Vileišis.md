@@ -60,7 +60,3 @@ Vileišiui pasisekė išspausdinti Petrapily keletą lietuviškų moksliškų kn
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/knyga]]

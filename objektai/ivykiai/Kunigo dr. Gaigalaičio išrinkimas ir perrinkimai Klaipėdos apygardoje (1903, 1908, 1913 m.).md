@@ -51,9 +51,6 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/kunigas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
 

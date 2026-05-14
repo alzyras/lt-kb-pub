@@ -108,6 +108,18 @@ tags: []
     - c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-012
+  teiginys: '1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka.'
+  pagrindžia:
+    - c-008
+- t-013
+  teiginys: 'Neramiu laikotarpiu parašyto veikalo tikslas buvo ieškoti įkvėpimo lietuvių tautai tūkstantmetėje senovės Lietuvos istorijoje, plačiose senovės karžygių užkariautose erdvėse, autentiškoje baltų kultūroje, Europos L I E T U V O S I S T O R I J A 10.'
+  pagrindžia:
+    - c-009
+- t-014
+  teiginys: 'Lietuvos istorija.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -221,6 +233,42 @@ tags: []
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+- c-008
+  santrauka: '1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-009
+  santrauka: 'Neramiu laikotarpiu parašyto veikalo tikslas buvo ieškoti įkvėpimo lietuvių tautai tūkstantmetėje senovės Lietuvos istorijoje, plačiose senovės karžygių užkariautose erdvėse, autentiškoje baltų kultūroje, Europos L I E T U V O S I S T O R I J A 10.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    tuvių tautai tūkstantmetėje senovės Lietuvos istorijoje, plačiose senovės
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-010
+  santrauka: 'Lietuvos istorija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1936 (fotografuotinis leidimas: Vilnius, 1989)
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
 
 ## Bibliografiniai įrodymai
     # LIETUVOS

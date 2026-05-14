@@ -77,9 +77,6 @@ Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių teturėjo vos 70
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/kunigas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Amerikos Lietuvių Katalikų Federacija]]
 - [[objektai/grupes/Motinėlė]]

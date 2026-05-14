@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 8.
+Objektų skaičius: 9.
 
 ## Kaip naudoti
 
@@ -27,3 +27,4 @@ Objektų skaičius: 8.
 - [[objektai/posakiai/Taikos labui]]
 - [[objektai/posakiai/Visišką ordino sunaikinimą]]
 - [[objektai/posakiai/Viskas yra viena, viena žemė ir tie patys žmonės]]
+- [[objektai/posakiai/„gente polonus, natione lituanus“]]

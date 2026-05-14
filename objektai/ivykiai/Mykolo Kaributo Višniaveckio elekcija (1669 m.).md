@@ -77,7 +77,6 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
-- [[temos/elekcija]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XVII amžius]]

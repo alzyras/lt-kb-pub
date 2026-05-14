@@ -41,18 +41,6 @@ tags: []
 - Data / laikotarpis: 1569 m. liepos 1 d.; nenurodyta šiame gabale; 1569 m..
 
 ## Teiginiai
-- t-001
-  teiginys: '1569 m. liepos 1 d. Liublino unija buvo patvirtinta trimis aktais, o po to nustatyti bendri seimai, bendras senatas ir bendri pinigai.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Liublino unijos akte Livonija ir Kuršo kunigaikštija buvo laikomos priklausančios abiem valstybėm, o į aktą įtrauktas paragrafas dėl Lietuvos statute esančių draudimų panaikinimo.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-003
   teiginys: 'Liublino unijos aktas buvo pirmasis tikras unijos aktas.'
   pagrindžia:
@@ -65,80 +53,26 @@ tags: []
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: 'Seimai buvo bendri, bet kiekviena valstybė svarstė savo reikalus ir leido sau reikalingus įstatymus.'
-  pagrindžia:
-    - c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: '1569 m. į Liublino unijos aktą buvo įrašytas paragrafas dėl Lietuvos Statuto pakeitimo.'
-  pagrindžia:
-    - c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-007
   teiginys: 'Lietuvos Statutas tekste apibūdinamas kaip visiškai nesiskaitantis su Liublino aktu ir lenkų reikalavimais.'
   pagrindžia:
     - c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-008
+  teiginys: 'ABIEJŲ TAUTŲ RESPUBLIKA 64 Liublino unija 64; LDK Baroko epochos Europoje.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: '1569 Liublino unija.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: Citata pagrindžia: 1569 m. liepos 1 d. Liublino unija buvo patvirtinta trimis aktais, o po to nustatyti bendri seimai, bendras senatas ir bendri pinigai.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Grįžę į seimą, lietuviai dar ilgai kovojo, stengdamiesi iš-
-    siderėti sau palankesnes sąlygas, ir reikalavo grąžinti atplėštąsias
-    žemes, tačiau, karaliui palaikant lenkus, buvo priversti nusileisti.
-    Tuo būdu jie sutiko, kad karalius būtų bendrai renkamas, ir
-    atsisakė nuo reikalavimo, kad jis dar atskirai būtų Vilniuje pa-
-    keliamas didžiuoju Lietuvos kunigaikščiu: Krokuvoje karūnuo-
-    damasis, karalius tuo pačiu turėjo pasidaryti ir didžiuoju Lie-
-    tuvos kunigaikščiu. Lietuviai atsisakė ir nuo atskirų savo sei-
-    mų: buvo palikti tik bendrieji seimai ir bendras abiejų valstybių
-    senatas. Jie sutiko ir su bendrais pinigais. Tačiau visa
-    kita pasiliko, kaip buvo: liko atskiri visi Lietuvos ministeriai,
-    atskiras valdžios aparatas, atskiras iždas, atskira kariuomenė
-    ir t.t. Visa tai liepos 1 d. buvo patvirtinta trimis unijos aktais
-    — dviem abiejų valstybių luomų ir vienu karaliaus aktu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Citata pagrindžia: Liublino unijos akte Livonija ir Kuršo kunigaikštija buvo laikomos priklausančios abiem valstybėm, o į aktą įtrauktas paragrafas dėl Lietuvos statute esančių draudimų panaikinimo.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Nemaža dar ginčų sukėlė ir Livonijos klau-
-    simas. Lietuviai ją laikė prijungta prie Lietuvos, o Lenkai
-    tvirtino, kad ji prisiekusi karaliui, todėl ir jiems priklausanti.
-    Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija
-    bus laikomos priklausančios lygiai abiem valstybėm.
-    Pagaliau lenkams labai rūpėjo iškovoti sau teisę Lietu-
-    voje įsigyti dvarų ir gauti urėdų. Kadangi Lie-
-    tuvos statute buvo nuostatų, tatai draudžiančių, todėl į unijos
-    aktą jie įtraukė paragrafą, reikalaujantį visus tuos nuostatus
-    panaikinti. Savo statuto antrąja laida buvo nebepatenkinti
-    ir patys lietuviai, — apie jo pataisymą jau buvo kalbama ir
-    ankstyvesniuose Lietuvos seimuose, — todėl dėl paties statuto
-    pataisymo klausimo lietuviai nė nesispyrė. Statutui pataisyti buvo
-    sudaryta speciali komisija. Vėliau ji buvo pakeista kita komi-
-    sija, tačiau 1588 m. paruošta trečioji statuto laida vis dėlto
-    nepanaikino lenkams nepatikusių nuostatų. Tiesa, 1588 m. jiems
-    buvo leista įsigyti Lietuvoje dvarų, betgi jiems niekad nebuvo
-    leista gauti Lietuvoje urėdų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
   santrauka: Citata pagrindžia: Liublino unijos aktas buvo pirmasis tikras unijos aktas.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -170,35 +104,6 @@ tags: []
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-- c-005
-  santrauka: Citata pagrindžia: Seimai buvo bendri, bet kiekviena valstybė svarstė savo reikalus ir leido sau reikalingus įstatymus.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Seimai buvo bendri, bet
-    juose kiekviena valstybė svarstė savo reikalus ir leido sau rei-
-
-    kalingus įstatymus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: Citata pagrindžia: 1569 m. į Liublino unijos aktą buvo įrašytas paragrafas dėl Lietuvos Statuto pakeitimo.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1569 m. į Liublino unijos aktą lenkai įrašė paragrafą, reikalaujantį taip pakeisti Lietuvos
-    Statutą, kad jis nebedraustų lenkams įsigyti Lietuvoje dvarų ir
-    gauti ten vietų, bet lietuviai neketino ta prasme keisti Statuto.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
 - c-007
   santrauka: Citata pagrindžia: Lietuvos Statutas tekste apibūdinamas kaip visiškai nesiskaitantis su Liublino aktu ir lenkų reikalavimais.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -215,3 +120,40 @@ tags: []
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'ABIEJŲ TAUTŲ RESPUBLIKA 64 Liublino unija 64; LDK Baroko epochos Europoje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    ABIEJŲ TAUTŲ RESPUBLIKA 64
+    Liublino unija 64; LDK Baroko epochos Europoje. Bajoriškoji demokratija 67;
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: '1569 Liublino unija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Liublino unija. Susikuria jungtinė Lenkijos ir Lietuvos Valstybė –
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    ginalus valstybių junginys, kuris šiandien kartais laikomas net Europos
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010

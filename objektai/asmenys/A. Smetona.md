@@ -88,6 +88,18 @@ A. Smetona rodomas kaip tautinio judėjimo ir nepriklausomybės laikotarpio poli
     - c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-008
+  teiginys: 'Smetonos, „ji liovėsi būti valstybe“.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyderius.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Smetona, tikintis, Lietuvių konferencijos Vilniuje prezidiumas (1917 m. rugsėjis).'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -208,6 +220,42 @@ A. Smetona rodomas kaip tautinio judėjimo ir nepriklausomybės laikotarpio poli
   priskyrimo_pagrindas: explicit_variant
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Smetonos, „ji liovėsi būti valstybe“.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    valdyba (Militaerverwaltung Litauen). Nuostabiausia tai, kad žemėlapyje
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyderius.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Per karą daugeliui gyventojų likus be namų ir lėšų, atsiradus minioms
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Smetona, tikintis, Lietuvių konferencijos Vilniuje prezidiumas (1917 m. rugsėjis).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    ninku – teisininkas, lietuviškų laikraščių redaktorius A. Smetona, tikintis,
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Laikotarpiai
@@ -216,3 +264,5 @@ A. Smetona rodomas kaip tautinio judėjimo ir nepriklausomybės laikotarpio poli
 
 ### Susiję objektai
 - [[objektai/asmenys/J. Tūbelis]]
+- [[objektai/asmenys/Antanas Smetona]]
+- [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti]]

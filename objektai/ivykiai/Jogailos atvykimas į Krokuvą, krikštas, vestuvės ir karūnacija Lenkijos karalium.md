@@ -121,4 +121,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karūnacija]]
-- [[temos/krikštas]]

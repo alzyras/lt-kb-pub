@@ -23,10 +23,14 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
   teiginys: 'Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelgdamas į Lietuvos teises nepabaigtame ginče su Lenkija.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Pirmieji atgimstančios Lietuvos santykiai su Vatikanu buvo užmegzti dar Tarybos, Vilniuje, kai buvo susirūpinta Vilniaus vyskupo paskyrimu.'
+- t-003
+  teiginys: 'Vyriausybei derantis su Vatikanu dėl diplomatinių santykių opozicija apkaltino krikščionis demokratus išsižadant Seinų ir Vilniaus vyskupijų.'
   pagrindžia:
-    - c-002
+    - c-003
+- t-004
+  teiginys: 'Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios padėtį valstybėje.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -43,20 +47,31 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Pirmieji atgimstančios Lietuvos santykiai su Vatikanu buvo užmegzti dar Tarybos, Vilniuje, kai buvo susirūpinta Vilniaus vyskupo paskyrimu.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-003
+  santrauka: 'Vyriausybei derantis su Vatikanu dėl diplomatinių santykių opozicija apkaltino krikščionis demokratus išsižadant Seinų ir Vilniaus vyskupijų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Pirmieji atgimstančios Lietuvos santykiai su Vatikanu buvo
-    užmegzti dar Tarybos, Vilniuje, kai buvo susirūpinta Vilniaus
-    vyskupo paskyrimu. Vėliau Lietuva turėjo savo atstovą Vati-
-    kane, o Vatikanas Lietuvoj. Tačiau tie santykiai pasidarė visai
-    oficialūs tik tada, kai Šv. Sostas pripažino Lietuvos valstybę de
-    jure (1922. XI. 10).
+    Vatikanu dėl diplomatinių santykių opozicija apkaltino krikščionis de-
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-003
+- c-004
+  santrauka: 'Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios padėtį valstybėje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Konkordato su Vatikanu pasirašymas (1927 m. rugsėjo 27 d.)]]

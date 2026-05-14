@@ -1,0 +1,56 @@
+---
+tipas: ivykis
+pavadinimas: 'Tauragės pučas (1927 m. rugsėjo 8–9 d.)'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - ginklas
+  - ivykis
+  - miestas
+  - sukilimas
+---
+# Tauragės pučas (1927 m. rugsėjo 8–9 d.)
+
+## Santrauka
+
+1927 m. rugsėjo 8–9 d. ginkluotos socialdemokratų grupės surengė pučus keliose apskrityse.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: '1927 m. rugsėjo 8–9 d. ginkluotos socialdemokratų grupės surengė pučus keliose apskrityse.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: '1927 m. rugsėjo 8–9 d. ginkluotos socialdemokratų grupės surengė pučus keliose apskrityse.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    pučus keliose apskrityse. Sukilimas kuriam laikui pavyko tik Tauragėje,
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Tauragė]]

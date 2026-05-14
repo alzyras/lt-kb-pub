@@ -1,0 +1,83 @@
+---
+tipas: ivykis
+pavadinimas: "Lietuvos ir Vokietijos sienos sutarties pasirašymas (1928 m. sausio 29 d.)"
+sukurta: "2026-05-14"
+variantai: ["Lietuvos ir Vokietijos sienos sutartis", "Berlyno sienos linijos nustatymas"]
+aliases: ["Lietuvos ir Vokietijos sienos sutartis", "Berlyno sienos linijos nustatymas"]
+saltiniai:
+  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+bukle: paskelbta
+laikotarpis: "1928 m. sausio 29 d."
+datos: ["1928 m. sausio 29 d."]
+periodas: siuolaikine_istorija
+periodo_grupes: [tarpukaris]
+amziai:
+  - 'XX'
+date_start: '1928'
+date_end: '1928'
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
+patikimumas: vidutinis
+tags: []
+---
+# Lietuvos ir Vokietijos sienos sutarties pasirašymas (1928 m. sausio 29 d.)
+
+## Santrauka
+
+1928 m. sausio 29 d. po ilgų derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis Berlyne nustatė sienos liniją, palikusią Klaipėdos teritoriją Lietuvos pusėje.
+
+## Laikotarpis ir datos
+- laikotarpis: 1928 m. sausio 29 d.
+- datos: 1928 m. sausio 29 d.
+- periodas: siuolaikine_istorija
+- periodo_grupes: tarpukaris
+- amziai: XX
+- date_start: 1928-01-29
+- date_end: 1928-01-29
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: "1928 m. sausio 29 d. pasirašyta Lietuvos ir Vokietijos sienos sutartis."
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: "Berlyne nustatyta sienos linija Klaipėdos teritoriją paliko Lietuvos pusėje."
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių, svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų ir sunkių derybų pasirašyta.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: Sienos sutarties pasirašymas ir Klaipėdos teritorijos statusas.
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių,
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Kūno prozos citata tiesiogiai nurodo įvykį ir jo aplinkybes."
+  pagrindžia:
+    - t-001
+    - t-002
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]

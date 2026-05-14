@@ -84,5 +84,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/ginklas]]
 - [[temos/įrankis]]

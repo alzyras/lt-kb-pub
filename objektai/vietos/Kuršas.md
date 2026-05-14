@@ -26,89 +26,41 @@ tags: []
 ## Santrauka
 Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos ginti, o įsibrovė naikinti ordino valdomojo Kuršo. Kraštas tarp Ventos ir Daugavos iki šiol vadinamas Kuršu. Kuršas minimas kaip viena iš vietų, kur tikrieji lietuviai tebgyvena atsikieminėję vienkiemiuose.
 ## Teiginiai
-- t-001
-  teiginys: 'Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos ginti, o įsibrovė naikinti ordino valdomojo Kuršo.'
+- t-005
+  teiginys: 'Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno, Suvalkų ir Gardino gubernijose, dalis Kuršo.'
   pagrindžia:
-    - c-001
+    - c-005
+- t-006
+  teiginys: 'Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis), be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti ir Liepojos uosto (vokiškoji Klaipėda.'
+  pagrindžia:
+    - c-006
 
-- t-002
-  teiginys: "Kraštas tarp Ventos ir Daugavos iki šiol vadinamas Kuršu."
-  pagrindžia:
-    - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-003
-  teiginys: "Kuršas minimas kaip viena iš vietų, kur tikrieji lietuviai tebgyvena atsikieminėję vienkiemiuose."
-  pagrindžia:
-    - c-003
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-004
-  teiginys: "Kurše dar galima regėti seną trobų priežiūros praktiką."
-  pagrindžia:
-    - c-004
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos ginti, o įsibrovė naikinti ordino valdomojo Kuršo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-005
+  santrauka: 'Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno, Suvalkų ir Gardino gubernijose, dalis Kuršo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Tada priešais
-    Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Ordinas
-    ketino suruošti į Žemaičius didelį žygį ir išgriauti Karšuvą.
-    Livonijos ordinui atėjo į pagalbą Prūsų ordinas ir daug svečių
-    iš Europos. Bet visai priešo kariuomenei traukiant į Karšuvą,
-    žemaičiai nėjo jos ginti, o įsibrovė naikinti ordino valdomojo
-    Kuršo.
+    kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno,
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-005
+- c-006
+  santrauka: 'Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis), be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti ir Liepojos uosto (vokiškoji Klaipėda.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
-- c-002
-  santrauka: "Kraštas tarp Ventos ir Daugavos iki šiol vadinamas Kuršu."
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    kraštas tarp upės Ventos ir Daugavos, pačiu pajūriu einąs, Kuršu lig šiai dienai yra vadinamas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: "Kuršas minimas kaip viena iš vietų, kur tikrieji lietuviai tebgyvena atsikieminėję vienkiemiuose."
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Taip
-    šiandien dar daugioj vietoj tikrieji lietuviai tebgyvena atsikieminėję savo vienkiemiuose
-    Žemaičiuose, Kurše, Parusy bei Kalne.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: "Kurše dar galima regėti seną trobų priežiūros praktiką."
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Abejose tose trobose sienos lig palangių iš
-    vidaus ir lauko, taip pat staktos ir durys kas devintąją dieną buvo mazgojamos, ką šiandien dar
-    gal regėti Žemgaliuose, Kurše, arba Kuržemėj, ir pakaunėj.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
 ## Pavadinimai šaltiniuose
 
 - Kuršas
@@ -124,3 +76,5 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 ### Susiję objektai
 - [[objektai/vietos/Prūsija]]
 - [[objektai/paprociai/Vienkieminis gyvenimas dėl taikos ir gaisrų saugos]]
+- [[objektai/vietos/Suvalkai]]
+- [[objektai/zodynas/tautų apsisprendimo teisė tautų apsisprendimo principas]]

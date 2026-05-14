@@ -61,9 +61,6 @@ Tada Katkevičius ironiškai atkirto: „Jei mes jums dovanoti, tai kam jums dar
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/unija]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Katkevičius (Liublino unijos derybininkas)]]
 - [[objektai/asmenys/Valavičius]]

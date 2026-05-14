@@ -21,6 +21,10 @@ Seirijuose, Simne, Prienuose ir kt.
   teiginys: 'Seirijuose, Simne, Prienuose ir kt.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Pirmasis jos redaktorius buvo tuomet Simne dirbęs kun. Sigitas Tamkevičius.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -36,7 +40,19 @@ Seirijuose, Simne, Prienuose ir kt.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Pirmasis jos redaktorius buvo tuomet Simne dirbęs kun. Sigitas Tamkevičius.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    tuvos katalikų bažnyčios kronika“. Pirmasis jos redaktorius buvo tuomet
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/šventė]]
+### Susiję objektai
+- [[objektai/asmenys/Sigitas Tamkevičius]]

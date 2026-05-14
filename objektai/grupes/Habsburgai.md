@@ -92,9 +92,3 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/valdovas]]
-- [[temos/šeima]]
-- [[temos/valdovas - šeima]]

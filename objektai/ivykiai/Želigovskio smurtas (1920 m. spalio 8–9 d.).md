@@ -101,7 +101,6 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/paliaubos]]
-- [[temos/sukilimas]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]

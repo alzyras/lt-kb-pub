@@ -80,10 +80,6 @@ tags:
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/popiežius]]
-- [[temos/šeima]]
-
 ### Susiję objektai
 - [[objektai/vietos/Kaluga]]
 - [[objektai/vietos/Tula]]

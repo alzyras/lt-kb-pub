@@ -30,10 +30,18 @@ Tiek jų lyrika, tiek klasiškoji Baranausko poema „Anykščių šilelis" nega
   teiginys: 'Baranausko buvo paskirtas kun. Antanavičius (1902—1910 m.).'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Baranauskas (1835—1902 m.) ir kun. Vienažindys (1841—1892 m.), kurių dainelės dar ir dabar tebedainuojamos po visą Lietuvą.'
+- t-005
+  teiginys: 'Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas, ateityje tapsiantis vyskupu, lietuvių literatūros šedevro, poemos „Anykščių šilelis“ autorius, Antanas Baranauskas (1835–1902) 1859 m. parašė: „Viso svieto mokslus lietuviam paduosiu.'
   pagrindžia:
-    - c-004
+    - c-005
+- t-006
+  teiginys: 'au antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas, ateityje tapsiantis vyskupu, lietuvių literatūros šedevro, poemos „Anykščių šilelis“ autorius, Antanas Baranauskas (1835–1902) 1859 m. parašė: „Viso svieto mokslus lietuviam paduosiu; /.'
+  pagrindžia:
+    - c-005
+- t-007
+  teiginys: 'Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valstybė, kuri juos laikytų ir savo kultūros politikos dalimi.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -80,27 +88,32 @@ Tiek jų lyrika, tiek klasiškoji Baranausko poema „Anykščių šilelis" nega
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Baranauskas (1835—1902 m.) ir kun. Vienažindys (1841—1892 m.), kurių dainelės dar ir dabar tebedainuojamos po visą Lietuvą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-005
+  santrauka: 'Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas, ateityje tapsiantis vyskupu, lietuvių literatūros šedevro, poemos „Anykščių šilelis“ autorius, Antanas Baranauskas (1835–1902) 1859 m. parašė: „Viso svieto mokslus lietuviam paduosiu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Nepaprastą reikšmę turėjo Šiaulėniškio Senelio slapyvardžiu daug knygučių
-    išleidęs Valančiaus bendradarbis kun. Juozas Dovydaitis
-    (1825—1882 m.), kun. Strazdelis (1763—1833 m.), vysk.
-    Baranauskas (1835—1902 m.) ir kun. Vienažindys
-    (1841—1892 m.), kurių dainelės dar ir dabar tebedainuojamos
-    po visą Lietuvą.
+    / Viso svieto raštus, knygas lietuviškan versiu. / Lietuvnykai žmonės bus
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-004
+    - t-005
+- c-007
+  santrauka: 'Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valstybė, kuri juos laikytų ir savo kultūros politikos dalimi.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvių literatūra per šį laikotarpį pakilo į naujas aukštumas, lietuvių
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/knyga]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Baranauskas]]
+- [[objektai/posakiai/„Viso svieto mokslus lietuviam paduosiu...“]]

@@ -40,7 +40,3 @@ Nepaprastą reikšmę turėjo Šiaulėniškio Senelio slapyvardžiu daug knyguč
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/knyga]]

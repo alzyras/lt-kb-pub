@@ -180,11 +180,8 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
     - t-008
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/popiežius]]
-- [[temos/valdovas]]
-- [[temos/popiežius - valdovas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Bona]]
 - [[objektai/asmenys/Jonas Kazimieras]]
+- [[objektai/asmenys/Protasevičius]]
+- [[objektai/asmenys/Steponas Batoras]]

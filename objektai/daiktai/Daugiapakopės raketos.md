@@ -67,6 +67,10 @@ Nenurodyta
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Jame randame šiuolaikinės artilerijos ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų teorija.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -106,12 +110,25 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-004
+  santrauka: 'Jame randame šiuolaikinės artilerijos ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų teorija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Šaltiniai ir įrodymai
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/ginklas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XVII amžius]]
+
+### Susiję objektai
+- [[objektai/daiktai/Daugiapakopės raketos ir raketų brėžiniai]]
+- [[objektai/autoriai/Kazimieras Semenavičius]]

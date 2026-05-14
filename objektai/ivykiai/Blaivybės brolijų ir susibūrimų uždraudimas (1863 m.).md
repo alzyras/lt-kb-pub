@@ -96,9 +96,5 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/kunigas]]
-- [[temos/sukilimas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]

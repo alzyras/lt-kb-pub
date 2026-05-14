@@ -1,0 +1,43 @@
+---
+tipas: posakis
+pavadinimas: '„Nors lietuviu esu gimęs ir lietuviu teks man mirti...“'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - mūšis
+  - posakis
+---
+# „Nors lietuviu esu gimęs ir lietuviu teks man mirti...“
+
+## Santrauka
+
+Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai, lenkėjimo procesas pamažu apėmė visą jos politinį ir kultūrinį elitą.
+
+## Teiginiai
+- t-001
+  teiginys: 'Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai, lenkėjimo procesas pamažu apėmė visą jos politinį ir kultūrinį elitą.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai, lenkėjimo procesas pamažu apėmė visą jos politinį ir kultūrinį elitą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai,
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/paprociai/Kandidatas 38 Lenkų kalbos, kultūros ir gyvensenos perėmimas LDK elite]]
+- [[objektai/paprociai/Kandidatas Lenkų kalbos, kultūros ir gyvensenos perėmimas LDK elite]]

@@ -73,8 +73,5 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/šventė]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XVII amžius]]

@@ -40,5 +40,4 @@ Naujo karo metu Karolis ir žuvo (1718 m.), imdamas Norvegijoje Fridrichshalės 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Karolis XII]]
 - [[objektai/vietos/Norvegija]]

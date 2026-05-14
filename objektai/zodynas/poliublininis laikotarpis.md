@@ -186,6 +186,7 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
 - [[temos/teisinis-terminas]]
+- [[temos/istorinė-sąvoka - teisinis-terminas]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]

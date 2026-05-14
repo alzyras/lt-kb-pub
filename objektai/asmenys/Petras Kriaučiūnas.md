@@ -17,47 +17,21 @@ tags:
 Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiūnas ir visa eilė vėlesnių „Aušros", „Varpo" ir kitų laikraščių bendradarbią. Vienu metu Marijampolės gimnazijoje mokė net trys lietuviai mokytojai (Petras Kriaučiūnas, V.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiūnas ir visa eilė vėlesnių „Aušros", „Varpo" ir kitų laikraščių bendradarbią.'
+- t-003
+  teiginys: 'Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m. Pirmoje eilėje iš kairės sėdi: kalbininkas Jonas Jablonskis, rašytoja Julija Žymantienė-Žemaitė, Petras Kriaučiūnas, dr. Jonas Basanavičius, Liudvika Didžiulienė-Žmona ir kt.'
   pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Vienu metu Marijampolės gimnazijoje mokė net trys lietuviai mokytojai (Petras Kriaučiūnas, V.'
-  pagrindžia:
-    - c-002
+    - c-003
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiūnas ir visa eilė vėlesnių „Aušros", „Varpo" ir kitų laikraščių bendradarbią.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-003
+  santrauka: 'Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m. Pirmoje eilėje iš kairės sėdi: kalbininkas Jonas Jablonskis, rašytoja Julija Žymantienė-Žemaitė, Petras Kriaučiūnas, dr. Jonas Basanavičius, Liudvika Didžiulienė-Žmona ir kt.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Iš jų išėjo tokie
-      lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiūnas ir visa
-      eilė vėlesnių „Aušros", „Varpo" ir kitų laikraščių bendradarbią.
+    Julija Žymantienė-Žemaitė, Petras Kriaučiūnas, dr. Jonas Basanavičius,
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Vienu metu Marijampolės gimnazijoje mokė net trys lietuviai mokytojai (Petras Kriaučiūnas, V.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vienu metu Marijampolės
-      gimnazijoje mokė net trys lietuviai mokytojai (Petras Kriau-
-      čiūnas, V. Staniškis ir J. Jasiulaitis).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/J. Jasiulaitis]]
-- [[objektai/asmenys/Jonas Užupys]]
-- [[objektai/asmenys/V. Staniškis]]
+    - t-003

@@ -98,8 +98,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/knyga]]
-- [[temos/kunigas]]
 - [[temos/pinigai]]
 
 ### Laikotarpiai

@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 51.
+Objektų skaičius: 58.
 
 ## Kaip naudoti
 
@@ -19,10 +19,17 @@ Objektų skaičius: 51.
 ## Susiję objektai
 
 ### Asmenys
+- [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų]]
+- [[objektai/asmenys/Ivanas Fiodorovas]]
+- [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis]]
 - [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/asmenys/Valerijonas Protasevičius]]
 
 ### Autoriai
 - [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
+- [[objektai/autoriai/Mikalojus Husovianas]]
+- [[objektai/autoriai/Mykolas Lietuvis]]
+- [[objektai/autoriai/Pranciškus Skorina]]
 
 ### Daiktai
 - [[objektai/daiktai/Lietuvos pinigai]]
@@ -49,15 +56,15 @@ Objektų skaičius: 51.
 - [[objektai/vietos/Balstogė]]
 - [[objektai/vietos/Juodoji jūra]]
 - [[objektai/vietos/Luckas]]
-- [[objektai/vietos/Žemaičių jūra]]
+- [Žemaičių jūra](../objektai/vietos/%C5%BDemai%C4%8Di%C5%B3%20j%C5%ABra)
 
 ### Įvykiai
-- [[objektai/ivykiai/1507–1508 m. karas su Maskva ir Mykolo Glinskio maištas]]
-- [[objektai/ivykiai/1509 m. amžinoji taika su Maskva]]
-- [[objektai/ivykiai/1522 m. paliaubos su Maskva]]
-- [[objektai/ivykiai/1571 m. paliaubos su Maskva]]
-- [[objektai/ivykiai/1582 m. sausio 15 d. 10 metų karo paliaubos su Maskva]]
-- [[objektai/ivykiai/Antrasis karas su Maskva (1512–1522 m.)]]
+- [1507–1508 m. karas su Maskva ir Mykolo Glinskio maištas](../objektai/ivykiai/1507%E2%80%931508%20m.%20karas%20su%20Maskva%20ir%20Mykolo%20Glinskio%20mai%C5%A1tas)
+- [1509 m. amžinoji taika su Maskva](../objektai/ivykiai/1509%20m.%20am%C5%BEinoji%20taika%20su%20Maskva)
+- [1522 m. paliaubos su Maskva](../objektai/ivykiai/1522%20m.%20paliaubos%20su%20Maskva)
+- [1571 m. paliaubos su Maskva](../objektai/ivykiai/1571%20m.%20paliaubos%20su%20Maskva)
+- [1582 m. sausio 15 d. 10 metų karo paliaubos su Maskva](../objektai/ivykiai/1582%20m.%20sausio%2015%20d.%2010%20met%C5%B3%20karo%20paliaubos%20su%20Maskva)
+- [Antrasis karas su Maskva (1512–1522 m.)](../objektai/ivykiai/Antrasis%20karas%20su%20Maskva%20%281512%E2%80%931522%20m.%29)
 - [Didžioji Maskvos suirutė (1597–1613 m.)](../objektai/ivykiai/Did%C5%BEioji%20Maskvos%20suirut%C4%97%20%281597%E2%80%931613%20m.%29)
 - [Jėzuitų atkvietimas į Lietuvą ir pirmosios kolegijos įsteigimas Vilniuje (1569–1570 m.)](../objektai/ivykiai/J%C4%97zuit%C5%B3%20atkvietimas%20%C4%AF%20Lietuv%C4%85%20ir%20pirmosios%20kolegijos%20%C4%AFsteigimas%20Vilniuje%20%281569%E2%80%931570%20m.%29)
 - [K. Radvilos Perkūno reidas (1581 m. liepa-spalis)](../objektai/ivykiai/K.%20Radvilos%20Perk%C5%ABno%20reidas%20%281581%20m.%20liepa-spalis%29)

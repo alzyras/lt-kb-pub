@@ -23,8 +23,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
-tags:
-  - privilegija
+tags: []
 ---
 # Baudžiava
 
@@ -68,6 +67,18 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
     - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Todėl sukilėlių būriuose, kuriems vadovavo vietiniai smulkiosios bajorijos atstovai, buvo daug valstiečių, kai kuriuose net dauguma, tad atsišaukimuose lenkų ir lietuvių (žemaičių) kalbomis keltas ir reikalavimas paleisti valstiečius iš baudžiavos.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksandrą II rengtis baudžiavos panaikinimui, sušvelninta tautinė politika.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -129,6 +140,42 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lenkijos ir Lietuvos valstybę. Tuo metu carizmas pradėjo jau anksčiau
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Todėl sukilėlių būriuose, kuriems vadovavo vietiniai smulkiosios bajorijos atstovai, buvo daug valstiečių, kai kuriuose net dauguma, tad atsišaukimuose lenkų ir lietuvių (žemaičių) kalbomis keltas ir reikalavimas paleisti valstiečius iš baudžiavos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    niai smulkiosios bajorijos atstovai, buvo daug valstiečių, kai kuriuose net
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksandrą II rengtis baudžiavos panaikinimui, sušvelninta tautinė politika.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    matyta privaloma valstiečiams skiriamo žemės sklypo išpirka. Valstiečių
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Šaltiniai ir įrodymai
 
@@ -137,11 +184,10 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/teisinis-terminas]]
-- [[temos/privilegija]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XV amžius]]
 
 ### Susiję objektai
-- [[objektai/zodynas/valakas]]
+- [[objektai/zodynas/baudžiava baudžiavinė priklausomybė]]

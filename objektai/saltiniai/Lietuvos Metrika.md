@@ -36,6 +36,18 @@ Zenono Ivinskio veikale Lietuvos Metrika minima bibliografinėje nuorodoje, kuri
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Šia kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Kitą lietuvių vaidmens rusėnų visuomenėje aspektą slepia socialinė ekonominė sritis.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Šios knygos įėjo į istoriją Lietuvos Metrikos vardu.'
+  pagrindžia:
+    - c-006
 
 ## Bibliografiniai įrodymai
 - c-003
@@ -51,3 +63,41 @@ Zenono Ivinskio veikale Lietuvos Metrika minima bibliografinėje nuorodoje, kuri
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Reikšmingi paminėjimai
+- c-004
+  santrauka: 'Šia kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    tuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai. Taigi politinis
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Kitą lietuvių vaidmens rusėnų visuomenėje aspektą slepia socialinė ekonominė sritis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    tys valstiečiai skyrėsi nuo rytinių slavų. Pastarųjų erdvėje toliau į rytus
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Šios knygos įėjo į istoriją Lietuvos Metrikos vardu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    tui, plėtėsi ir didžiojo kunigaikščio raštinė bei jos personalas. Raštininkai
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006

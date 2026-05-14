@@ -76,9 +76,5 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/ginklas]]
-- [[temos/sukilimas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]

@@ -45,6 +45,11 @@ Terminas paaiškintas skliaustuose kaip religinės mokslo įstaigos.
 Vartojamas Vilniaus Gaono pasiūlymų ir žydų mokymo reformų kontekste.
 
 ## Teiginiai
+- t-001
+  teiginys: 'Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Ješivos apibrėžiamos kaip religinės mokslo įstaigos.
@@ -57,7 +62,22 @@ Vartojamas Vilniaus Gaono pasiūlymų ir žydų mokymo reformų kontekste.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Exact citata pridėta po public_notes_have_evidence validacijos klaidos."
   pagrindžia: []
+- c-002
+  santrauka: 'Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    jos jidiš kalba. Jis sukūrė beveik visų to meto žydų mokslo sričių veikalų:
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/religinis-terminas]]
+
 ### Laikotarpiai
 - [[laikotarpiai/XVIII amžius]]

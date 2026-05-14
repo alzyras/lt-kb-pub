@@ -46,8 +46,5 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas.
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/knyga]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lietuvių Mokslo Draugija]]

@@ -92,10 +92,3 @@ Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūk�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/reforma]]
-
-### Susiję objektai
-- [[objektai/zodynas/Baudžiava]]

@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 4.
+Objektų skaičius: 7.
 
 ## Kaip naudoti
 
@@ -23,3 +23,10 @@ Objektų skaičius: 4.
 - [[objektai/autoriai/Alfredas Bumblauskas]]
 - [[objektai/autoriai/Antanas Kulakauskas]]
 - [[objektai/autoriai/Mindaugas Tamošaitis]]
+- [[objektai/autoriai/Raimundas Lopata]]
+
+### Daiktai
+- [[objektai/daiktai/Išsaugotos Toros]]
+
+### Papročiai
+- [[objektai/paprociai/Masinė Lietuvos gyventojų emigracija po privatizacijos dešimtmečio]]

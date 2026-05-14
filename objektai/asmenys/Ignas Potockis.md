@@ -42,7 +42,3 @@ Ignas Potockis, 1783—1791 m. Lietuvos kiemo maršalka, 1791 — 1793 m. krašt
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/reforma]]

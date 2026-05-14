@@ -122,8 +122,5 @@ Nenurodyta
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/ginklas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Ulrichas von Jungingenas]]

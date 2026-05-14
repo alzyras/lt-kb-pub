@@ -138,3 +138,4 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/įrankis]]
+- [[temos/ūkio-įrankis]]

@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 4.
+Objektų skaičius: 14.
 
 ## Kaip naudoti
 
@@ -18,10 +18,30 @@ Objektų skaičius: 4.
 
 ## Susiję objektai
 
+### Asmenys
+- [[objektai/asmenys/F. Ruzveltas]]
+
 ### Daiktai
+- [[objektai/daiktai/1900 m. Paryžiaus parodos lietuvių ekspozicijos daiktai]]
 - [[objektai/daiktai/Balti vilnoniai marškiniai]]
+- [[objektai/daiktai/Baroko kasdienybės daiktai]]
 - [[objektai/daiktai/Drabužiai]]
 - [[objektai/daiktai/Moterų galvos danga]]
 
+### Grupės
+- [[objektai/grupes/Lietuvos diplomatinė tarnyba]]
+
+### Papročiai
+- [[objektai/paprociai/Kandidatas 42 Barokinis šventasis peizažas, kryždirbystė ir Vilniaus baroko mokyklos sakralinė estetika]]
+- [[objektai/paprociai/Kandidatas Barokinis šventasis peizažas, kryždirbystė ir Vilniaus baroko mokyklos sakralinė estetika]]
+
+### Vietos
+- [[objektai/vietos/Šeinfeldas]]
+
 ### Įvykiai
+- [[objektai/ivykiai/F. Ruzvelto įsakymo dėl Baltijos valstybių lėšų įšaldymo išleidimas (1940 m. liepos 15 d.)]]
 - [[objektai/ivykiai/Kęstučio nelaisvė ir pabėgimas iš Marijenburgo]]
+- [[objektai/ivykiai/Lietuvių prisistatymas 1900 m. Paryžiaus pasaulinėje parodoje]]
+
+### Žodynas
+- [[objektai/zodynas/akcijos]]

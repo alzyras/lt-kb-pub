@@ -27,10 +27,6 @@ tags: []
 ## Santrauka
 Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladimiras, o iš Karijoto sūnaus, Teodoro, — Podolė. Iš visų čia suminėtų sričių ne visiškai perėjo į Vytauto valdžią tik viena Podolė: mat, ji iš seno buvo glaudžiai susijusi su Lenkija. Ir tikrai, tuojau kilo su ja konfliktas dėl Podolės žemių. Šiame pasakojime Podolija pateikiama kaip kraštas, kur anksčiau buvo jūra. Podolė šiame fragmente veikia kaip istorinė teritorija.
 ## Teiginiai
-- t-001
-  teiginys: 'Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladimiras, o iš Karijoto sūnaus, Teodoro, — Podolė.'
-  pagrindžia:
-    - c-001
 - t-002
   teiginys: 'Iš visų čia suminėtų sričių ne visiškai perėjo į Vytauto valdžią tik viena Podolė: mat, ji iš seno buvo glaudžiai susijusi su Lenkija.'
   pagrindžia:
@@ -48,55 +44,16 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   pagrindžia:
     - c-005
 
-- t-006
-  teiginys: "Šiame pasakojime Podolija pateikiama kaip kraštas, kur anksčiau buvo jūra."
+- t-011
+  teiginys: '1393 m. Luckas perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikštiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.'
   pagrindžia:
-    - c-006
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-007
-  teiginys: "Podolė šiame fragmente veikia kaip istorinė teritorija."
+    - c-009
+- t-012
+  teiginys: 'Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Voluinės, Kijevo ir Podolės (Braclavo) vaivadijas).'
   pagrindžia:
-    - c-007
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-008
-  teiginys: "Podolė siejama su lietuvių atskyrimu nuo Uksinės jūros ir Dunojaus."
-  pagrindžia:
-    - c-008
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-009
-  teiginys: "Podolė šiame fragmente veikia kaip konkretus kraštas."
-  pagrindžia:
-    - c-006
-    - c-007
-    - c-008
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-010
-  teiginys: "Podolė siejama su Lietuvos tyrais ir pietine riba."
-  pagrindžia:
-    - c-006
-    - c-007
-    - c-008
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
+    - c-010
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladimiras, o iš Karijoto sūnaus, Teodoro, — Podolė.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kaributas, kuris valdė Naugardą Sieverską. Iš Liubarto sūnaus,
-    Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladimi-
-    ras, o iš Karijoto sūnaus, Teodoro, — Podolė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
 - c-002
   santrauka: 'Iš visų čia suminėtų sričių ne visiškai perėjo į Vytauto valdžią tik viena Podolė: mat, ji iš seno buvo glaudžiai susijusi su Lenkija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -163,55 +120,34 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   pagrindžia:
     - t-005
 
-- c-006
-  santrauka: "Šiame pasakojime Podolija pateikiama kaip kraštas, kur anksčiau buvo jūra."
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+- c-009
+  santrauka: '1393 m. Luckas perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikštiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    rašyta, jog ir Žemaičių visas pašalys, šiandien Kuršu, Žemaičiais ir Parusiais vadinamas,
-    ne vien lig Kauno ir Žaliosios girios, bet lig pat Karpatų kalnų buvęs kana kados^20 jūra aptekęs,
-    kuri jūra buvusi susikišusi su Uksine, arba Juodąja, jūra Lietuvos tyruose, šiandien Podolija
-    vadinamuose.
-  citata_rodoma: ""
+    tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-006
-    - t-009
-    - t-010
-- c-007
-  santrauka: "Podolė šiame fragmente veikia kaip istorinė teritorija."
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+    - t-011
+- c-010
+  santrauka: 'Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Voluinės, Kijevo ir Podolės (Braclavo) vaivadijas).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    tame amžiuje antsigrūdo^1388 iš Azijos tauta, jau gudais, jau lenkais
-    vadinama, kuri pirma užgulė Lietuvos tyrus, šiandien Podolijomis vadinamus, ir taip būtinai
-    atskiedė^1389 lietuvius nuo Uksinės, arba Juodosios, jūros ir nuo upės Dunojaus.
-  citata_rodoma: ""
+    Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-
+    mantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė be-
+    veik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Volui-
+    nės, Kijevo ir Podolės (Braclavo) vaivadijas).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-007
-    - t-009
-    - t-010
-- c-008
-  santrauka: "Podolė siejama su lietuvių atskyrimu nuo Uksinės jūros ir Dunojaus."
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Užvis Gediminui valdant Lietuvos ūkę, kad jis, metuose 1320 užėmęs
-    gudų buveinę Kijevą, išvarė totorius iš vienų ir antrų Podolijų, arba Lietuvos tyrų, apgalėjo Krymą,
-    arba senovės Kimeriją, Mažąją Gudiją ir, visus tuos kraštus sunėręs su Lietuvos ūke, išplėtė jos
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
-    - t-009
-    - t-010
+    - t-012
+
 ## Pavadinimai šaltiniuose
 
 - Podolė

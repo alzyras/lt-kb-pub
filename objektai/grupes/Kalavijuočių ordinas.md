@@ -109,6 +109,15 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - c-012
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-013
+  teiginys: 'Vienydamas Lietuvą, Mindaugas negalėjo nekreipti dėmesio į tokią faktų grandinę: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu pradeda užkariauti lybius, latvius, estus, kuršius.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Nors žemaičiai Saulės mūšyje 1236 m. šį žygį Vokiečių ordino riteris pagrobia vaiką.'
+  pagrindžia:
+    - c-014
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Kalavijuočiai yra atskira vokiečių karinė grupė
@@ -294,11 +303,33 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-012
+- c-013
+  santrauka: 'Vienydamas Lietuvą, Mindaugas negalėjo nekreipti dėmesio į tokią faktų grandinę: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu pradeda užkariauti lybius, latvius, estus, kuršius.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Nors žemaičiai Saulės mūšyje 1236 m. šį žygį Vokiečių ordino riteris pagrobia vaiką.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    atlaikė, replės Lietuvą jau spaudė – 1237 m. Kalavijuočių ordinas tapo
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/ginklas]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Žemaičiai]]

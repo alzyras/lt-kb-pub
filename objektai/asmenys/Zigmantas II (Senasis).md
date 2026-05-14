@@ -187,7 +187,3 @@ Tačiau, kai paskutinysis tos dinastijos valdovas, Zigmantas Augustas, baigė sa
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/valdovas]]

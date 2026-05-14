@@ -102,7 +102,6 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/religinis-terminas]]
-- [[temos/krikštas]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]

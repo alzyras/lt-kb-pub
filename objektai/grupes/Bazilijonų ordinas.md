@@ -59,9 +59,5 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/kunigas]]
-- [[temos/popiežius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Unitai]]

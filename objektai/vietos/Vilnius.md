@@ -118,6 +118,18 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     - c-018
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-016
+  teiginys: 'Visai neseniai Prancūzijos nacionalinis geografijos institutas atliko naujus skaičiavimus, pagal kuriuos iš 180 km aukščio geografiškai išvestas centro statmuo yra 25 km į šiaurę nuo Lietuvos sostinės Vilniaus.'
+  pagrindžia:
+    - c-019
+- t-017
+  teiginys: 'Savo ruožtu lietuviai buvo apsisprendę kurti Lietuvos valstybę etniniais pagrindais, nebepretendavo į „Minsko Lietuvą“, tačiau neįsivaizdavo savo valstybės be istorinės sostinės Vilniaus.'
+  pagrindžia:
+    - c-020
+- t-018
+  teiginys: 'Vilnius XVI–XVIII a.'
+  pagrindžia:
+    - c-021
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -323,12 +335,50 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-015
+- c-019
+  santrauka: 'Visai neseniai Prancūzijos nacionalinis geografijos institutas atliko naujus skaičiavimus, pagal kuriuos iš 180 km aukščio geografiškai išvestas centro statmuo yra 25 km į šiaurę nuo Lietuvos sostinės Vilniaus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    gal kuriuos iš 180 km aukščio geografiškai išvestas centro statmuo yra
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-020
+  santrauka: 'Savo ruožtu lietuviai buvo apsisprendę kurti Lietuvos valstybę etniniais pagrindais, nebepretendavo į „Minsko Lietuvą“, tačiau neįsivaizdavo savo valstybės be istorinės sostinės Vilniaus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Savo ruožtu lietuviai buvo apsisprendę kurti Lietuvos valstybę etniniais
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-021
+  santrauka: 'Vilnius XVI–XVIII a.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vilnius XVI–XVIII a. tapo vienintele stovinčia ant dviejų pasaulių
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/vietos/Kremlius]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Radomas]]
 - [[objektai/vietos/Trakai]]
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/vietos/Europos geografinis centras]]
+- [[objektai/vietos/Minsko Lietuva]]
 - [[objektai/vietos/Vitebskas]]

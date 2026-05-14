@@ -55,6 +55,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/krikštas]]
 - [[temos/laiškas]]
-- [[temos/popiežius]]

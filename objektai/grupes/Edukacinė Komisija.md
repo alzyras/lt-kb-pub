@@ -41,6 +41,14 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   teiginys: 'Tai buvo vadinamoji Edukacinė Komisija, kuri perėmė kaip tik tuo metu panaikinto jėzuitų ordino mokyklas ir ėmė rūpintis visu švietimu.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švietimo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino švietimo sistemą.'
+  pagrindžia:
+    - c-007
+- t-007
+  teiginys: 'Edukacinė komisija sumodernino ir supasaulietino mokymo programą (įvedė privalomą rašymą ir skaičiavimą, bendrojo lavinimo elementus ėmė jungti su praktinių žemės ūkio, amatų įgūdžių ugdymu), įvedė gamtos ir tiksliųjų mokslų disciplinas.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -142,12 +150,36 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-004
+- c-007
+  santrauka: 'Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švietimo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino švietimo sistemą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-008
+  santrauka: 'Edukacinė komisija sumodernino ir supasaulietino mokymo programą (įvedė privalomą rašymą ir skaičiavimą, bendrojo lavinimo elementus ėmė jungti su praktinių žemės ūkio, amatų įgūdžių ugdymu), įvedė gamtos ir tiksliųjų mokslų disciplinas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    čiavimą, bendrojo lavinimo elementus ėmė jungti su praktinių žemės ūkio,
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Dalomoji Komisija]]
-- [[objektai/grupes/Targovicos konfederacija]]
+- [[objektai/asmenys/Ignotas Masalskis]]

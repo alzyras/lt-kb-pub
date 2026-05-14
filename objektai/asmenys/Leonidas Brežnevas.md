@@ -1,0 +1,37 @@
+---
+tipas: asmuo
+pavadinimas: 'Leonidas Brežnevas'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
+---
+# Leonidas Brežnevas
+
+## Santrauka
+
+O valdžios olimpe įsitvirtinus Leonidui Brežnevui, sustiprėjus revanšistinėms stalininėms jėgoms Maskvoje, valdymas vėl sugriežtintas – imta persekioti kitaminčius (1967–1975 m. Lietuvoje už antisovietinę agitaciją ir propagandą nuteisti 1 583 asmenys).
+
+## Teiginiai
+- t-001
+  teiginys: 'O valdžios olimpe įsitvirtinus Leonidui Brežnevui, sustiprėjus revanšistinėms stalininėms jėgoms Maskvoje, valdymas vėl sugriežtintas – imta persekioti kitaminčius (1967–1975 m. Lietuvoje už antisovietinę agitaciją ir propagandą nuteisti 1 583 asmenys).'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'O valdžios olimpe įsitvirtinus Leonidui Brežnevui, sustiprėjus revanšistinėms stalininėms jėgoms Maskvoje, valdymas vėl sugriežtintas – imta persekioti kitaminčius (1967–1975 m. Lietuvoje už antisovietinę agitaciją ir propagandą nuteisti 1 583 asmenys).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    nidui Brežnevui, sustiprėjus revanšistinėms stalininėms jėgoms Maskvoje,
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001

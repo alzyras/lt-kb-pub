@@ -133,7 +133,3 @@ Kunigas Burba, kuris už lietuviškąją veiklą turėjo išvažiuoti j Ameriką
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/kunigas]]

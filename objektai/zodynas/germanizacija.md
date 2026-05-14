@@ -81,8 +81,5 @@ Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonist
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/sukilimas]]
-
 ### Susiję objektai
 - [[objektai/zodynas/germanizacija vokietinimas vokietėjimas]]

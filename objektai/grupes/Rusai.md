@@ -24,9 +24,16 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   pagrindžia:
     - c-005
     - c-004
-    - c-003
     - c-002
     - c-001
+- t-002
+  teiginys: 'Diegti „rusų pradus“ turėjo rusai mokytojai, paprastai atvykę iš Rusijos gilumos, pradžioje daugumą jų sudarė rusų stačiatikių dvasinių seminarijų auklėtiniai.'
+  pagrindžia:
+    - c-006
+- t-003
+  teiginys: '– baltarusiai, rusai ir ukrainiečiai kartu sudėjus.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -61,22 +68,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-001
-- c-003
-  santrauka: Rusai papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Kaipogi maskolių didieji kunigaikščiai Ugriją, plačią
-    valstybę, saulėteky esančią, metuose 1499 nuveikę, sunėrė su savo ūke ir savo urėdus^1455 tenai
-    perdėjo^1456. Lygia dalia paveikę metuose 1554 totorių chaną, jo buveinę Kazanę užėmė, metuose
-    1570 antrą chaną totorių pergalėję, jo buveinę Astrachanę užėmė ir tenai savo urėdus įdėjo.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
@@ -90,7 +82,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
@@ -105,9 +97,38 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
     - t-001
     - t-001
+- c-006
+  santrauka: 'Diegti „rusų pradus“ turėjo rusai mokytojai, paprastai atvykę iš Rusijos gilumos, pradžioje daugumą jų sudarė rusų stačiatikių dvasinių seminarijų auklėtiniai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    rusai mokytojai, paprastai atvykę iš Rusijos gilumos, pradžioje daugumą
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-007
+  santrauka: '– baltarusiai, rusai ir ukrainiečiai kartu sudėjus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    bartinės Lietuvos ribose (be Klaipėdos krašto) siekė apie 2,7 mln. Apie
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Baltarusiai]]
+- [[objektai/grupes/Ukrainiečiai]]

@@ -40,7 +40,3 @@ Lenkijos autonominė karalystė buvo panaikinta, Lietuva ir Lenkija buvo nuterio
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/sukilimas]]

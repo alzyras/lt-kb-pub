@@ -69,7 +69,3 @@ tags:
   pagrindžia:
     - t-003
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/knyga]]

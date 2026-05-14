@@ -1,0 +1,37 @@
+---
+tipas: zodyno_irasas
+pavadinimas: 'vienvaldystė'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - sąvoka
+---
+# vienvaldystė
+
+## Santrauka
+
+Būdamas ir premjeru, ir užsienio reikalų ministru jau ne visur spėjo, konfliktavo su keliais savo ministrais ir pradėjo pretenduoti į vienvaldystę šalyje.
+
+## Teiginiai
+- t-001
+  teiginys: 'Būdamas ir premjeru, ir užsienio reikalų ministru jau ne visur spėjo, konfliktavo su keliais savo ministrais ir pradėjo pretenduoti į vienvaldystę šalyje.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Būdamas ir premjeru, ir užsienio reikalų ministru jau ne visur spėjo, konfliktavo su keliais savo ministrais ir pradėjo pretenduoti į vienvaldystę šalyje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    kalų ministru jau ne visur spėjo, konfliktavo su keliais savo ministrais
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001

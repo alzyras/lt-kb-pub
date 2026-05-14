@@ -59,9 +59,3 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/valdovas]]
-- [[temos/šeima]]
-- [[temos/valdovas - šeima]]

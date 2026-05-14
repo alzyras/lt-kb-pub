@@ -96,7 +96,6 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dokumentas]]
-- [[temos/sukilimas]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]

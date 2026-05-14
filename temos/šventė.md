@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 25.
+Objektų skaičius: 27.
 
 ## Kaip naudoti
 
@@ -33,7 +33,9 @@ Objektų skaičius: 25.
 
 ### Papročiai
 - [[objektai/paprociai/Aukso laisvės ideologija]]
+- [[objektai/paprociai/Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą]]
 - [[objektai/paprociai/Pagoniškosios Lietuvos tikybinės apeigos]]
+- [[objektai/paprociai/Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika]]
 
 ### Vietos
 - [[objektai/vietos/Naumiestis]]
@@ -54,5 +56,5 @@ Objektų skaičius: 25.
 
 ### Žodynas
 - [[objektai/zodynas/Alkos ir romuvos]]
-- [[objektai/zodynas/gabija]]
-- [[objektai/zodynas/vaidilos kriviai žyniai]]
+- [gabija](../objektai/zodynas/gabija)
+- [vaidilos kriviai žyniai](../objektai/zodynas/vaidilos%20kriviai%20%C5%BEyniai)

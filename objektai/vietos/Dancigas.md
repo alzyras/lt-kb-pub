@@ -37,12 +37,6 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
 Šaltinyje Dancigas pasirodo Nemuno prekybos, Lietuvos eksporto ir Lenkijos bei Ordino santykių kontekste. Miestas siejamas tiek su Lietuvos ūkiniu gyvenimu, tiek su vėlyvesniais teritoriniais pokyčiais po 1466 m. taikos.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Vytauto laikais Dancigas buvo vienas iš Ordino prekybos centrų, su kuriais Lietuva palaikė gyvus prekybos ryšius.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-002
   teiginys: 'Lietuvos vaškas buvo garsus Dancigo rinkoje.'
   pagrindžia:
@@ -55,33 +49,12 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: "Dancigas šiame fragmente yra viena iš pakrantės pilių."
+- t-007
+  teiginys: 'Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“ statuso (panašaus į Dancigo (dabar Gdanskas)).'
   pagrindžia:
-    - c-005
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-006
-  teiginys: "Dancigas šiame fragmente yra viena iš vokiečių įkurtų pilių."
-  pagrindžia:
-    - c-006
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
+    - c-007
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: Citata tiesiogiai sieja Dancigą su Ordino prekybos tinklu ir Lietuvos prekybos atsigavimu Vytauto laikais.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vytauto laikais, aprimus karams su kryžiuočiais, atgijo pre-
-    kyba Nemunu. Užsimezgė gyvi ryšiai su ordino prekybos cent-
-    rais—Karaliaučium ir Dancigu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
 - c-002
   santrauka: Citata parodo, kad Dancigas buvo viena svarbiausių Lietuvos vaško eksporto rinkų.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -112,32 +85,19 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   pagrindžia:
     - t-004
 
-- c-005
-  santrauka: "Dancigas šiame fragmente yra viena iš pakrantės pilių."
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+- c-007
+  santrauka: 'Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“ statuso (panašaus į Dancigo (dabar Gdanskas)).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    įkūrę sau tenai pilis Rygos, Ventspilio, Liepojos,
-    Klaipėdos, Karaliaučiaus, Elbingo, Dansko užimtuosiuose nuo žemaičių kraštuose.
-  citata_rodoma: ""
+    diškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: "Dancigas šiame fragmente yra viena iš vokiečių įkurtų pilių."
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Taip pat paskui, Kazimierui paėmus Lietuvos ūkės valdžią ir atėmus
-    vokiečiams pilis Dansko, Elbingo, Toninės, Lietuvos prekyba vis dar plėtės, kaipogi metuose 1470
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006
+    - t-007
+
 ## Laikotarpis ir datos
 - tipas: miestas / pilis
 
@@ -146,4 +106,3 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
 - [[objektai/vietos/Karaliaučius]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Ryga]]
-- [[objektai/vietos/Klaipėda]]

@@ -38,7 +38,3 @@ Tada imperatorius išsiuntė į Lietuvą savo delegaciją, Prahos arkivyskupo Er
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/krikštas]]

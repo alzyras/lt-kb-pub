@@ -28,6 +28,14 @@ Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasirašytą 1919 metų bi
   teiginys: 'Vokietija, svajodama vėl užgrobti Klaipėdos kraštą, tam neturi jokio juridinio pagrindo, nes, pasirašydama Versalio sutartį, ji sutiko su Klaipėdos krašto atskyrimu, o 1928 m. darydama sienų sutartį su Lietuva, niekieno neverčiama Klaipėdos kraštą pripažino.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Versalio sutarties 28 straipsnis iš tiesų atribojo Klaipėdos kraštą nuo Vokietijos ir perdavė laikinai sąjungininkų kontrolei.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -62,3 +70,27 @@ Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasirašytą 1919 metų bi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Versalio sutarties 28 straipsnis iš tiesų atribojo Klaipėdos kraštą nuo Vokietijos ir perdavė laikinai sąjungininkų kontrolei.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    sutarties 28 straipsnis iš tiesų atribojo Klaipėdos kraštą nuo Vokietijos ir
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    nistracija, remiama bataliono prancūzų pėstininkų. Prancūzai skelbė, kad
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

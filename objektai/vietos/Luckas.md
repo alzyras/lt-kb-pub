@@ -28,10 +28,6 @@ tags: []
 ## Santrauka
 Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų suvažiavimo ir kunigaikštiško titulo vieta. Šiame šaltinyje Luckas taip pat siejamas su karaimų apgyvendinimu ir Lucko suvažiavimu 1429 m. 1434 m. Jurša gynė Lucko pilį nuo lenkų. 1504 m. į Lucko pilį artinosi platburniai.
 ## Teiginiai
-- t-001
-  teiginys: 'Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija.'
-  pagrindžia:
-    - c-001
 - t-002
   teiginys: 'Apie jį Lucke ėmė burtis visi Jogaila nepatenkintieji ir nuo jo nukentėjusieji kunigaikščiai ir bajorai.'
   pagrindžia:
@@ -53,39 +49,20 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   pagrindžia:
     - c-007
 
-- t-008
-  teiginys: "1434 m. Jurša gynė Lucko pilį nuo lenkų."
+- t-011
+  teiginys: 'Vakarinė LDK dalis – tarp Vilniaus ir Lucko – tai ne tik LDK vizitinė kortelė, kurioje dėl reprezentacijos bei artumo Krokuvai kurs rezidencijas didikai.'
   pagrindžia:
-    - c-008
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-009
-  teiginys: "1504 m. į Lucko pilį artinosi platburniai."
+    - c-011
+- t-012
+  teiginys: 'Lucko suvažiavime 1429 m. Lietuva buvo paskelbta suverenia valstybe, ir tik atsitiktinumas sutrukdė jai pasidaryti karalyste.'
   pagrindžia:
-    - c-009
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-010
-  teiginys: "Luckas šiame fragmente yra vaško gamybos ir eksporto vieta."
+    - c-012
+- t-013
+  teiginys: '1393 m. Luckas perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikštiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.'
   pagrindžia:
-    - c-010
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
+    - c-013
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Mask-
-    vos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke,
-    susižadėjo su jo dukteria Sofija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
 - c-002
   santrauka: 'Apie jį Lucke ėmė burtis visi Jogaila nepatenkintieji ir nuo jo nukentėjusieji kunigaikščiai ir bajorai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -158,49 +135,43 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 ### Susiję įvykiai
 - [[Lucko suvažiavimas (1429 m.)]]
 
-- c-008
-  santrauka: "1434 m. Jurša gynė Lucko pilį nuo lenkų."
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+- c-011
+  santrauka: 'Vakarinė LDK dalis – tarp Vilniaus ir Lucko – tai ne tik LDK vizitinė kortelė, kurioje dėl reprezentacijos bei artumo Krokuvai kurs rezidencijas didikai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lygia dalia metuose 1346 Vaidotas Kauno pilį
-    nuo meldžionų, o Jurša 1434 metuose Lucko pilį nuo lenkų gyniodamu, tūkstančius neprietelių
-    iškrėtusiu, velijos ugnies liepsnose užsirausti, nekaip neprieteliams pasiduoti [45]. Kad taip kantriai
-    kalnėnai ir žemaičiai mokėjo užsirakinę pily gintis, lygia dalia neguro nė į neprietelių pilis
-  citata_rodoma: ""
+    prezentacijos bei artumo Krokuvai kurs rezidencijas didikai.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-008
-- c-009
-  santrauka: "1504 m. į Lucko pilį artinosi platburniai."
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+    - t-011
+- c-012
+  santrauka: 'Lucko suvažiavime 1429 m. Lietuva buvo paskelbta suverenia valstybe, ir tik atsitiktinumas sutrukdė jai pasidaryti karalyste.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Nereikia taip pat užmiršti nė našlės kunigaikštienės Lucko
-    Anastazijos Alelkienės, kuri metuose 1504, išgirdusi platburnius Lucko pilin artinantis, kardą
-  citata_rodoma: ""
+    valstybe, ir tik atsitiktinumas sutrukdė jai pasidaryti karalyste.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-009
-- c-010
-  santrauka: "Luckas šiame fragmente yra vaško gamybos ir eksporto vieta."
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+    - t-012
+- c-013
+  santrauka: '1393 m. Luckas perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikštiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Taip pat paskui, Kazimierui paėmus Lietuvos ūkės valdžią ir atėmus
-    vokiečiams pilis Dansko, Elbingo, Toninės, Lietuvos prekyba vis dar plėtės, kaipogi metuose 1470
-    paties vaško pardavė į svečias žemes už 10 000 kapų Lietuvos grašių. Iš pačios Lucko vaškinyčios^1450
-    tą patį metą išleido per rubežių daugiau nei tūkstantį pundų^1451 vaško.
-  citata_rodoma: ""
+    tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-010
+    - t-013
+
 ## Pavadinimai šaltiniuose
 
 - Luckas
@@ -222,3 +193,4 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 - [[objektai/vietos/Trakai]]
 - [[objektai/vietos/Voluinė]]
 - [[objektai/asmenys/Vytautas]]
+- [[objektai/vietos/Krokuva]]

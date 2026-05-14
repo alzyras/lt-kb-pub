@@ -57,6 +57,18 @@ Nenurodyta
   teiginys: '1387 m. lietuvių krikštas Aukštaičių žemėje šiame veikale aptariamas kaip papildomas krikšto aktas Lietuvos krikštijimo istorijoje.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: '1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių.'
+  pagrindžia:
+    - c-008
+- t-007
+  teiginys: 'Ši privilegija yra svarbiausias krikščionybės įvedimo Lietuvoje aktas.'
+  pagrindžia:
+    - c-009
+- t-008
+  teiginys: 'Ryškiausios permainos po krikšto buvo išorinės.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -160,7 +172,7 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
@@ -176,14 +188,48 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
+- c-008
+  santrauka: '1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    krikštytis kviesti į Vilnių su šeimomis ir kiekvienas atskirai pašlakstytas
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-009
+  santrauka: 'Ši privilegija yra svarbiausias krikščionybės įvedimo Lietuvoje aktas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    jėga priversti priimti katalikybę. Jogaila, pavertęs Lietuvą krikščioniška
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-010
+  santrauka: 'Ryškiausios permainos po krikšto buvo išorinės.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    šias institucijas į Lietuvą sklido naujos idėjos. Pasikeitė mirties samprata
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/krikštas]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Lietuvos krikšto apeigos]]
+- [[objektai/ivykiai/Lietuvos krikštas (1387 m.)]]

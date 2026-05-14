@@ -57,3 +57,6 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
+
+### Susiję objektai
+- [[objektai/grupes/Valakai]]

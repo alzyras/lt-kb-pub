@@ -104,7 +104,3 @@ Ignas Masalskis įsakė visiems savo kunigams steigti mokyklas, o vėliau per de
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/kunigas]]

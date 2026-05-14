@@ -1,0 +1,37 @@
+---
+tipas: vieta
+pavadinimas: 'Pietų Afrikos Sąjunga'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - vieta
+---
+# Pietų Afrikos Sąjunga
+
+## Santrauka
+
+sudarė žydai, vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.
+
+## Teiginiai
+- t-001
+  teiginys: 'sudarė žydai, vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'sudarė žydai, vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    šalies emigravo apie 100 000 gyventojų, iš jų apie 30 proc. sudarė žydai,
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001

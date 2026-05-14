@@ -18,27 +18,21 @@ tags:
 Tad baudžiavos panaikinimu susirūpino jau naujasis caras Aleksandras II (1855—1881 m.), kuris tėvo politikos nepasisekimus norėjo pataisyti vidaus reformomis.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Tad baudžiavos panaikinimu susirūpino jau naujasis caras Aleksandras II (1855—1881 m.), kuris tėvo politikos nepasisekimus norėjo pataisyti vidaus reformomis.'
+- t-002
+  teiginys: 'Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksandrą II rengtis baudžiavos panaikinimui, sušvelninta tautinė politika.'
   pagrindžia:
-    - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Tad baudžiavos panaikinimu susirūpino jau naujasis caras Aleksandras II (1855—1881 m.), kuris tėvo politikos nepasisekimus norėjo pataisyti vidaus reformomis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-002
+  santrauka: 'Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksandrą II rengtis baudžiavos panaikinimui, sušvelninta tautinė politika.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Tad baudžiavos panaikinimu susirūpino
-      jau naujasis caras Aleksandras II (1855—1881 m.), kuris
-      tėvo politikos nepasisekimus norėjo pataisyti vidaus reformomis.
+    sį privačių dvarų valstiečius iš baudžiavinės priklausomybės, pasirašyti
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/reforma]]
+    - t-002

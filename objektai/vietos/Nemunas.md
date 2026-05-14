@@ -70,6 +70,18 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-009
+  teiginys: 'Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siaurąja prasme ankstyvaisiais istoriniais laikais buvo tarp Nemuno ir Neries upių.'
+  pagrindžia:
+    - c-008
+- t-010
+  teiginys: 'Kryžiuočių kumštis grėsmingai tebekybojo ties Nemunu.'
+  pagrindžia:
+    - c-009
+- t-011
+  teiginys: 'Tačiau išvedus visą kariuomenę iš Lietuvos, liko neapsaugotos pilys ir staigus Ordino puolimas prie Nemuno galėjo baigtis katastrofa.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -155,9 +167,48 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-008
+  santrauka: 'Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siaurąja prasme ankstyvaisiais istoriniais laikais buvo tarp Nemuno ir Neries upių.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    duolys – Lietuvos žemė siaurąja prasme ankstyvaisiais istoriniais laikais
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-009
+  santrauka: 'Kryžiuočių kumštis grėsmingai tebekybojo ties Nemunu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kry-
+    žiuočių kumštis grėsmingai tebekybojo ties Nemunu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-010
+  santrauka: 'Tačiau išvedus visą kariuomenę iš Lietuvos, liko neapsaugotos pilys ir staigus Ordino puolimas prie Nemuno galėjo baigtis katastrofa.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    neapsaugotos pilys ir staigus Ordino puolimas prie Nemuno galėjo baig-
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Kaunas]]
 - [[objektai/vietos/Klaipėda]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Lietauka]]
+- [[objektai/vietos/Neris]]

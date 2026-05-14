@@ -47,7 +47,3 @@ Išsižadame visų savo beverčių lenkiškų didžiosios Lietuvos kunigaikštij
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]

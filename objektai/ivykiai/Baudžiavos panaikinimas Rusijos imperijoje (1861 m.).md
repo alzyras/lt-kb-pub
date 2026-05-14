@@ -107,7 +107,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/reforma]]
 - [[temos/tikėjimas]]
 
 ### Laikotarpiai

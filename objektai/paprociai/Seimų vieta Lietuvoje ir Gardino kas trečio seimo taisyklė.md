@@ -139,8 +139,6 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
-- [[temos/unija]]
-- [[temos/aktas - unija]]
 
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]

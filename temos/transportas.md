@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 6.
+Objektų skaičius: 8.
 
 ## Kaip naudoti
 
@@ -20,6 +20,7 @@ Objektų skaičius: 6.
 
 ### Daiktai
 - [[objektai/daiktai/ANBO lėktuvai]]
+- [[objektai/daiktai/Gardino ekonomijos manufaktūrų gaminiai]]
 - [[objektai/daiktai/Kūlgrindos]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/daiktai/Sovietų tankai ir šarvuočiai]]
@@ -28,4 +29,5 @@ Objektų skaičius: 6.
 - [[objektai/paprociai/Seimelių mobilizavimas per puotas, plikbajorius ir instrukcijas]]
 
 ### Žodynas
+- [[objektai/zodynas/buožės darbo valstiečiai]]
 - [[objektai/zodynas/ratininkas]]

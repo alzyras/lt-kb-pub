@@ -70,7 +70,3 @@ Biržiška, Kryžiuočių keliai į Lietuvą XIV amž., I dalis (Praeitis I) ;. 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/knyga]]

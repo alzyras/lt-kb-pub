@@ -62,5 +62,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/ginklas]]
 - [[temos/simbolis]]

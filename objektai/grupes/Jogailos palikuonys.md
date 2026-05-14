@@ -60,11 +60,5 @@ Nors lietuviai jau nuo Švitrigailos laikų rinkosi sau kunigaikščius, tačiau
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/valdovas - šeima]]
-- [[temos/elekcija]]
-- [[temos/valdovas]]
-- [[temos/šeima]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]

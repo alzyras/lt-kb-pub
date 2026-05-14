@@ -18,45 +18,39 @@ tags:
 viršuje — popiežiaus Grigaliaus XIII, jo kairėje — Zigmanto Augusto, dešinėje — St. Tais pačiais 1579 m. Grigalius XIII ją patvirtino ir davė jai tokias pat teises, kokias turėjo visi kiti Europos katalikiškieji universitetai ir akademijos.
 
 ## Teiginiai
-- t-001
-  teiginys: 'viršuje — popiežiaus Grigaliaus XIII, jo kairėje — Zigmanto Augusto, dešinėje — St.'
+- t-003
+  teiginys: 'Paversti kolegiją aukštąja mokykla reikėjo nemažų lėšų ir pakankamai kvalifikuotų dėstytojų, būtinai – popiežiaus pritarimo (1577 m. Grigaliaus XIII pritarimas buvo gautas).'
   pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Tais pačiais 1579 m. Grigalius XIII ją patvirtino ir davė jai tokias pat teises, kokias turėjo visi kiti Europos katalikiškieji universitetai ir akademijos.'
+    - c-003
+- t-004
+  teiginys: '1579 m. spalio 29 d. popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją universitetu.'
   pagrindžia:
-    - c-002
+    - c-004
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'viršuje — popiežiaus Grigaliaus XIII, jo kairėje — Zigmanto Augusto, dešinėje — St.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-003
+  santrauka: 'Paversti kolegiją aukštąja mokykla reikėjo nemažų lėšų ir pakankamai kvalifikuotų dėstytojų, būtinai – popiežiaus pritarimo (1577 m. Grigaliaus XIII pritarimas buvo gautas).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    viršuje — popiežiaus Grigaliaus XIII, jo kairėje — Zigmanto Augusto, deši-
-      nėje — St. Batoro; žemiau kairėje — Vazų, o dešinėje — Poniatauskų; pačioje
-      apačioje — vysk. Protasevičiaus, jo kairėje — Radvilų, o dešinėje — Sapiegų.
+    Paversti kolegiją aukštąja mokykla reikėjo nemažų lėšų ir pakanka-
+    mai kvalifikuotų dėstytojų, būtinai – popiežiaus pritarimo (1577 m. Gri-
+    galiaus XIII pritarimas buvo gautas).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Tais pačiais 1579 m. Grigalius XIII ją patvirtino ir davė jai tokias pat teises, kokias turėjo visi kiti Europos katalikiškieji universitetai ir akademijos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+    - t-003
+- c-004
+  santrauka: '1579 m. spalio 29 d. popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją universitetu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Tais pačiais 1579 m. Grigalius XIII
-      ją patvirtino ir davė jai tokias pat teises, kokias turėjo visi kiti
-      Europos katalikiškieji universitetai ir akademijos.
+    popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją uni-
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/popiežius]]
+    - t-004

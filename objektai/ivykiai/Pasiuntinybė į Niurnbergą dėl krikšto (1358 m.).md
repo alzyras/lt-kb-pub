@@ -153,7 +153,6 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/krikštas]]
 - [[temos/politinis-sprendimas]]
 
 ### Laikotarpiai

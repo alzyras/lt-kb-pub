@@ -61,6 +61,3 @@ Radvilos Juodojo, suorganizavo mokslintus lietuvius, kurie paskelbė atsakymą O
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Mikalojus Radvila Juodasis]]

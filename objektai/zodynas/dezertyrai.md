@@ -1,0 +1,42 @@
+---
+tipas: zodyno_irasas
+pavadinimas: 'dezertyrai'
+sukurta: '2026-05-14'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'vidutinis'
+tags:
+  - karas
+  - sąvoka
+---
+# dezertyrai
+
+## Santrauka
+
+Tūkstančiai lietuvių slapstėsi arba bėgo iš sovietų kariuomenės, todėl jie įtraukti į oficialiai ieškomų „dezertyrų“ kategoriją, tūkstančiai jų įsijungė į lietuvių partizanų, kovojusių prieš sovietus, gretas.
+
+## Teiginiai
+- t-001
+  teiginys: 'Tūkstančiai lietuvių slapstėsi arba bėgo iš sovietų kariuomenės, todėl jie įtraukti į oficialiai ieškomų „dezertyrų“ kategoriją, tūkstančiai jų įsijungė į lietuvių partizanų, kovojusių prieš sovietus, gretas.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Tūkstančiai lietuvių slapstėsi arba bėgo iš sovietų kariuomenės, todėl jie įtraukti į oficialiai ieškomų „dezertyrų“ kategoriją, tūkstančiai jų įsijungė į lietuvių partizanų, kovojusių prieš sovietus, gretas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    lizacijos į Raudonąją armiją ir pažeisti tarptautinę teisę (1907 m. priimtą
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Sovietinė Lietuvos vyrų mobilizacija į Raudonąją armiją (1944 m. ruduo–1945 m.)]]

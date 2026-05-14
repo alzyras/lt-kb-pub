@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 48.
+Objektų skaičius: 52.
 
 ## Kaip naudoti
 
@@ -20,6 +20,12 @@ Objektų skaičius: 48.
 
 ### Asmenys
 - [[objektai/asmenys/Kristupas († 1640 m.)]]
+
+### Autoriai
+- [[objektai/autoriai/Andrius Rudamina]]
+- [[objektai/autoriai/Kazimieras Semenavičius]]
+- [[objektai/autoriai/Martynas Smigleckis]]
+- [[objektai/autoriai/Saliamonas Slavočinskis]]
 
 ### Daiktai
 - [[objektai/daiktai/Daugiapakopės raketos]]
@@ -50,10 +56,10 @@ Objektų skaičius: 48.
 - [[objektai/ivykiai/Karas su Maskva (1632–1634 m.)]]
 - [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]]
 - [[objektai/ivykiai/Kėdainių lietuviškų knygų spaustuvės įkūrimas ir sudegimas (apie 1652–1654 m.)]]
-- [[objektai/ivykiai/Liubomirskio seimo išardymas (1639 m.)]]
-- [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]]
-- [[objektai/ivykiai/Maskvos ir Švedų užpuolimas Lietuvai (1654–1655 m.)]]
-- [[objektai/ivykiai/Mykolo Kaributo Višniaveckio elekcija (1669 m.)]]
+- [Liubomirskio seimo išardymas (1639 m.)](../objektai/ivykiai/Liubomirskio%20seimo%20i%C5%A1ardymas%20%281639%20m.%29)
+- [Lojevo mūšis (1649 m. liepos 31 d.)](../objektai/ivykiai/Lojevo%20m%C5%AB%C5%A1is%20%281649%20m.%20liepos%2031%20d.%29)
+- [Maskvos ir Švedų užpuolimas Lietuvai (1654–1655 m.)](../objektai/ivykiai/Maskvos%20ir%20%C5%A0ved%C5%B3%20u%C5%BEpuolimas%20Lietuvai%20%281654%E2%80%931655%20m.%29)
+- [Mykolo Kaributo Višniaveckio elekcija (1669 m.)](../objektai/ivykiai/Mykolo%20Kaributo%20Vi%C5%A1niaveckio%20elekcija%20%281669%20m.%29)
 - [Prostkų mūšis (1656 m. spalio 8 d.)](../objektai/ivykiai/Prostk%C5%B3%20m%C5%AB%C5%A1is%20%281656%20m.%20spalio%208%20d.%29)
 - [Protestanto nubaudimas per Dievo Kūno procesiją Vilniuje (1611 m.)](../objektai/ivykiai/Protestanto%20nubaudimas%20per%20Dievo%20K%C5%ABno%20procesij%C4%85%20Vilniuje%20%281611%20m.%29)
 - [Rygos atitekimas švedams (1621 m.)](../objektai/ivykiai/Rygos%20atitekimas%20%C5%A1vedams%20%281621%20m.%29)

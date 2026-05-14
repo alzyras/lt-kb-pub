@@ -41,7 +41,3 @@ Kaip ir ankstyvesnioje elekcijoje, taip ir šį kartą buvo du stipriausi kandid
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]
