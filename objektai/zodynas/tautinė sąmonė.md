@@ -2,18 +2,14 @@
 tipas: zodyno_irasas
 pavadinimas: "tautinė sąmonė"
 sukurta: "2026-04-28"
-variantai:
-  []
-aliases:
-  []
+variantai: []
+aliases: []
 saltiniai:
   - "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
 laikotarpis: "XIX a."
-datos:
-  []
+datos: []
 periodas: "naujieji_laikai"
-periodo_grupes:
-  []
+periodo_grupes: []
 amziai:
   - "XIX"
 date_start: ""

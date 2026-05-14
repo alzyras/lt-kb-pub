@@ -2,18 +2,14 @@
 tipas: zodyno_irasas
 pavadinimas: "buržuazinė istoriografija"
 sukurta: "2026-04-28"
-variantai:
-  []
-aliases:
-  []
+variantai: []
+aliases: []
 saltiniai:
   - "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
 laikotarpis: "1957–1958 m."
-datos:
-  []
+datos: []
 periodas: "siuolaikine_istorija"
-periodo_grupes:
-  []
+periodo_grupes: []
 amziai:
   - "XX"
 date_start: "1957"

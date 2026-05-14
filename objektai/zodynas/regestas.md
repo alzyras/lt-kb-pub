@@ -5,18 +5,14 @@ sukurta: "2026-04-28"
 variantai:
   - "regestai"
   - "išlikęs regestas"
-aliases:
-  []
+aliases: []
 saltiniai:
   - "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
 laikotarpis: ""
-datos:
-  []
+datos: []
 periodas: ""
-periodo_grupes:
-  []
-amziai:
-  []
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
 vaidmenys: []

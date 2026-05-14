@@ -2,8 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Isaakas ben Abrahamas iš Trakų'
 sukurta: '2026-05-14'
-variantai:
-[]
+variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
@@ -16,8 +15,7 @@ periodo_grupes: []
 amziai: []
 date_start: ''
 date_end: ''
-vaidmenys:
-[]
+vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
