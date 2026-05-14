@@ -13,7 +13,7 @@ laikotarpis: "1797 m. Peterburgo konvencijos ir Stanislovo Augusto Poniatovskio 
 datos:
   - "1797 m. sausio 26 d."
 periodas: "naujieji_laikai"
-periodo_grupes:[]
+periodo_grupes: []
 amziai:
   - "XVIII"
 date_start: ""

@@ -9,9 +9,9 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: juodrastis
 laikotarpis: "XIV a. Aukso ordos ir rusų kunigaikštysčių kontekstas"
-datos:[]
+datos: []
 periodas: "viduramziai"
-periodo_grupes:[]
+periodo_grupes: []
 amziai:
   - "XIV"
 date_start: ""

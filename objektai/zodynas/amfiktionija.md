@@ -9,10 +9,10 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: juodrastis
 laikotarpis: "Senovės graikų analogijos lietuvių pagonybės institucijai kontekstas"
-datos:[]
+datos: []
 periodas: "senove"
-periodo_grupes:[]
-amziai:[]
+periodo_grupes: []
+amziai: []
 date_start: ""
 date_end: ""
 vaidmenys: []

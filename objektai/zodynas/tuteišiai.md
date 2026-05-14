@@ -10,9 +10,9 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: juodrastis
 laikotarpis: "XIX a. antrosios pusės ir XX a. pradžios pietryčių Lietuvos kalbinės tapatybės kontekstas"
-datos:[]
+datos: []
 periodas: "naujieji_laikai"
-periodo_grupes:[]
+periodo_grupes: []
 amziai:
   - "XIX"
   - "XX"

@@ -10,7 +10,7 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: juodrastis
 laikotarpis: "XV-XVI a. socialinės-ekonominės ir žemėvaldos raidos kontekstas"
-datos:[]
+datos: []
 periodas: "viduramziai"
 periodo_grupes:
   - "LDK"

@@ -13,7 +13,7 @@ laikotarpis: "1009 m. Lietuvos paminėjimo ir Netimero valdžios kontekstas"
 datos:
   - "1009 m."
 periodas: "viduramziai"
-periodo_grupes:[]
+periodo_grupes: []
 amziai:
   - "XI"
 date_start: ""

@@ -13,7 +13,7 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: juodrastis
 laikotarpis: "Vytauto, Gedimino ir galbūt Mindaugo valstybės pakraščių kontekstas"
-datos:[]
+datos: []
 periodas: "viduramziai"
 periodo_grupes:
   - "LDK"

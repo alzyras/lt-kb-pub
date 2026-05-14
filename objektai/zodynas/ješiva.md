@@ -10,9 +10,9 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: juodrastis
 laikotarpis: "XVIII a. Vilniaus Gaono veiklos ir žydų religinio švietimo kontekstas"
-datos:[]
+datos: []
 periodas: "naujieji_laikai"
-periodo_grupes:[]
+periodo_grupes: []
 amziai:
   - "XVIII"
 date_start: ""
