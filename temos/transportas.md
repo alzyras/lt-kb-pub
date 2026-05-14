@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 4.
+Objektų skaičius: 6.
 
 ## Kaip naudoti
 
@@ -19,8 +19,10 @@ Objektų skaičius: 4.
 ## Susiję objektai
 
 ### Daiktai
+- [[objektai/daiktai/ANBO lėktuvai]]
 - [[objektai/daiktai/Kūlgrindos]]
 - [[objektai/daiktai/Laivai]]
+- [[objektai/daiktai/Sovietų tankai ir šarvuočiai]]
 
 ### Papročiai
 - [[objektai/paprociai/Seimelių mobilizavimas per puotas, plikbajorius ir instrukcijas]]

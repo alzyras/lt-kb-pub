@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 9.
+Objektų skaičius: 10.
 
 ## Kaip naudoti
 
@@ -19,6 +19,7 @@ Objektų skaičius: 9.
 ## Susiję objektai
 
 ### Autoriai
+- [[objektai/autoriai/Alfonsas Eidintas]]
 - [[objektai/autoriai/Dr. J. Šliūpas]]
 - [[objektai/autoriai/Jonas Basanavičius]]
 - [[objektai/autoriai/Jonas Šliūpas]]

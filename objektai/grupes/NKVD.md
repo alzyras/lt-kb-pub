@@ -1,0 +1,148 @@
+---
+tipas: grupe
+pavadinimas: "NKVD"
+sukurta: "2026-05-14"
+variantai:
+  - "Vidaus reikalų liaudies komisariatas"
+  - "Vidaus reikalų liaudies komisariatas (SSRS)"
+aliases:
+  - "sovietų NKVD kariuomenės daliniai"
+  - "NKVD kariuomenė"
+saltiniai:
+  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+bukle: juodrastis
+laikotarpis: "1940-1946 m. Lietuvos okupacijų kontekstas"
+datos:
+  - "1940"
+  - "1941"
+  - "1945"
+  - "1946"
+periodas: "siuolaikine_istorija"
+periodo_grupes:
+  - "sovietinė okupacija"
+  - "pokaris"
+amziai:
+  - "XX"
+date_start: "1940"
+date_end: "1946"
+vaidmenys:
+  - "saugumo ir represinė institucija"
+dalyviai: []
+susije_irasai: []
+patikimumas: "vidutinis"
+tags: []
+---
+# NKVD
+
+## Santrauka
+
+NKVD minima kaip sovietinė saugumo ir represinė struktūra, susijusi su 1940-1941 m. areštais, bėgimo į Vokietiją kontrolės planais, sovietizavimu teroru ir pokario kova prieš Lietuvos partizanus. 1945-1946 m. Lietuvoje dislokuota NKVD kariuomenė, o NKVD ir NKGB skyriai koordinavo baudžiamąsias operacijas, gaudynes, tardymus ir agentų verbavimą.
+
+## Pavadinimai šaltiniuose
+
+- NKVD
+- Vidaus reikalų liaudies komisariatas
+- sovietų NKVD kariuomenės daliniai
+- slaptoji tarnyba NKVD
+- NKVD kariuomenė
+- NKVD ir NKGB skyriai
+
+## Laikotarpis ir datos
+
+- laikotarpis: 1940-1946 m. Lietuvos okupacijų kontekstas
+- datos: 1940; 1941; 1945; 1946
+- periodas: siuolaikine_istorija
+- periodo_grupes: sovietinė okupacija; pokaris
+- amziai: XX
+- date_start: 1940
+- date_end: 1946
+
+## Kas tai
+
+Sovietinė saugumo, vidaus reikalų ir represinė institucija bei kariuomenės struktūra.
+
+## Sudėtis ir vaidmuo
+
+- tipas: saugumo ir represinė institucija
+- laikotarpis: 1940-1946 m. Lietuvos okupacijų kontekstas
+- nariai: NKVD kariuomenė ir NKVD skyriai; šaltinis konkretaus institucijos narių skaičiaus nenurodo, bet pateikia karių skaičius Lietuvoje 1945-1946 m.
+- susiję žmonės: šaltinyje šiame kontekste konkrečių NKVD vadovų nenurodyta.
+- susiję įvykiai: pirmieji masiniai areštai; sovietizavimas; kova su Lietuvos partizanais.
+- susijusios vietos: Lietuva, SSRS giluma.
+
+## Teiginiai
+
+- t-001
+  teiginys: "Sovietų NKVD kariuomenės daliniai turėjo neleisti numatytiems suimti asmenims pabėgti į Vokietiją."
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: "Kovai su partizanais Lietuvoje buvo dislokuota NKVD kariuomenė: 1945 m. vasarą iki 20 tūkst., 1946 m. apie 14 tūkst. karių."
+  pagrindžia:
+    - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: "NKVD ir NKGB skyriai koordinavo baudžiamąsias operacijas, gaudynes, tardymus ir agentų verbavimą."
+  pagrindžia:
+    - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: "Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė naikintojų batalionus."
+  pagrindžia:
+    - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: NKVD kariuomenės daliniai siejami su numatytų suimti asmenų pabėgimo į Vokietiją blokavimu.
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1940 m. liepos 6 d. Valstybės saugumo
+    departamento direktorius A. Sniečkus išleido įsakymą, leidžiantį suimti
+    agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politi-
+    nių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti
+    numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai
+
+    L I E T U V O S  I S T O R I J A
+    194
+    turėjo neleisti tokiems pabėgti į Vokietiją.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata turi puslapio antraštės intarpą, bet NKVD funkcija tiesiogiai nurodyta."
+  pagrindžia:
+    - t-001
+- c-003
+  santrauka: Aprašoma NKVD kariuomenės dislokacija, NKVD ir NKGB skyrių veikla bei naikintojų batalionų kūrimas.
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė:
+    1945 m. vasarą joje buvo iki 20 tūkst., 1946 m. – apie 14 tūkst. karių. NKVD
+    ir NKGB skyriai, įsikūrę visose apskrityse, koordinavo baudžiamąsias ope-
+    racijas, vadovavo joms ir žmonių gaudynėms, tardė suimtuosius, verbavo
+    agentus. Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė
+    „naikintojų batalionus“, lietuvių vadintus stribais (santrumpa nuo rus. pa-
+    vadinimo istrebitelnyje bataliony), į kuriuos agitavo stoti vietinius gyvento-
+    jus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+    - t-004
+    - t-005
+
+## Šaltiniai ir įrodymai
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]

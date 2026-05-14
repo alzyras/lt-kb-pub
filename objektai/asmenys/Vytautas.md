@@ -224,7 +224,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-024
-  teiginys: 'Šaltinis Vytautui priskiria didelį švaistymąsi materialinėmis gėrybėmis, ypač norint pasirodyti užsieniečiams.'
+  teiginys: 'Vytautui priskiriamas didelis švaistymasis materialinėmis gėrybėmis, ypač norint pasirodyti užsieniečiams.'
   ankstesnes_formuluotes:
     - 'Vytautui priskiriamas didelis švaistymasis materialinėmis gėrybėmis, ypač norint pasirodyti užsieniečiams.'
   pagrindžia:

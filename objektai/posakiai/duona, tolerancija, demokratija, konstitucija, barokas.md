@@ -1,0 +1,64 @@
+---
+tipas: posakis
+pavadinimas: "duona, tolerancija, demokratija, konstitucija, barokas"
+sukurta: "2026-05-13"
+variantai: []
+aliases: []
+saltiniai:
+  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+bukle: juodrastis
+laikotarpis: "XVII–XVIII a. Abiejų Tautų Respublikos civilizacinių fenomenų kontekstas."
+datos: []
+periodas: "ankstyvieji_naujieji_laikai"
+periodo_grupes: []
+amziai:
+  - "XVII"
+  - "XVIII"
+date_start: "1601"
+date_end: "1800"
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
+patikimumas: "aukštas"
+tags: []
+---
+# duona, tolerancija, demokratija, konstitucija, barokas
+
+## Santrauka
+
+Formulė glaustai apibendrina Abiejų Tautų Respublikai priskiriamus XVII–XVIII a. civilizacinius fenomenus.
+
+## Teiginiai
+- t-001
+  teiginys: "Abiejų Tautų Respublikos XVII–XVIII a. reikšmingi fenomenai apibendrinami formule „duona, tolerancija, demokratija, konstitucija, barokas“."
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: "Formulė susiejama su javais, religine tolerancija, bajoriškąja demokratija, teisine tradicija ir Vilniaus baroku."
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: Citata pateikia formulę ir išskleidžia jos elementus.
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    duona, toleran-
+    cija, demokratija, konstitucija, barokas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata pririšta prie darbo šaltinio kūno teksto arba kandidato ledžerio patvirtinto offseto."
+  pagrindžia:
+    - t-001
+    - t-002
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XVII amžius]]
+- [[laikotarpiai/XVIII amžius]]

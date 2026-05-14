@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 68.
+Objektų skaičius: 73.
 
 ## Kaip naudoti
 
@@ -44,6 +44,7 @@ Objektų skaičius: 68.
 - [[objektai/paprociai/Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas]]
 - [[objektai/paprociai/Gedimino religinio pakantumo norma]]
 - [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas]]
+- [[objektai/paprociai/Pagoniškų elementų integravimas į krikščioniškas praktikas]]
 - [[objektai/paprociai/Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais]]
 - [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija]]
 - [[objektai/paprociai/Žemaičių paklusnumas ir ištikimybės priesaikos Ordinui]]
@@ -51,8 +52,9 @@ Objektų skaičius: 68.
 ### Posakiai
 - [[objektai/posakiai/Aš tave pasodinsiu Auksinėj Ordoj...]]
 - [[objektai/posakiai/Bemeilijo žūti ugny, negu pasiduoti vokiečiams]]
-- [[objektai/posakiai/Saugokis manęs, kaip ir aš tavęs saugaus]]
+- [Saugokis manęs, kaip ir aš tavęs saugaus](../objektai/posakiai/Saugokis%20man%C4%99s%2C%20kaip%20ir%20a%C5%A1%20tav%C4%99s%20saugaus)
 - [savo užantyje maitinti gyvatę](../objektai/posakiai/savo%20u%C5%BEantyje%20maitinti%20gyvat%C4%99)
+- [senovės negriauname, naujovių neįvedame](../objektai/posakiai/senov%C4%97s%20negriauname%2C%20naujovi%C5%B3%20ne%C4%AFvedame)
 
 ### Vietos
 - [Isteris](../objektai/vietos/Isteris)
@@ -91,8 +93,10 @@ Objektų skaičius: 68.
 - [baskakas](../objektai/zodynas/baskakas)
 - [diarchija](../objektai/zodynas/diarchija)
 - [inkorporacija](../objektai/zodynas/inkorporacija)
+- [jarlykas](../objektai/zodynas/jarlykas)
 - [kontrevoliucija](../objektai/zodynas/kontrevoliucija)
 - [kunigaikštija](../objektai/zodynas/kunigaik%C5%A1tija)
+- [leičiai / liečiai / leišiai](../objektai/zodynas/lei%C4%8Diai%20lie%C4%8Diai%20lei%C5%A1iai)
 - [lotyniškasis krikštas](../objektai/zodynas/lotyni%C5%A1kasis%20krik%C5%A1tas)
 - [metropolija](../objektai/zodynas/metropolija)
 - [metropolitas](../objektai/zodynas/metropolitas)
@@ -100,4 +104,5 @@ Objektų skaičius: 68.
 - [pravoslavai](../objektai/zodynas/pravoslavai)
 - [saar](../objektai/zodynas/saar)
 - [supremus dux ir magnus dux](../objektai/zodynas/supremus%20dux%20ir%20magnus%20dux)
+- [tripartitio christiana](../objektai/zodynas/tripartitio%20christiana)
 - [valstybingumo idėja](../objektai/zodynas/valstybingumo%20id%C4%97ja)

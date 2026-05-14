@@ -1,0 +1,61 @@
+---
+tipas: posakis
+pavadinimas: "senovės negriauname, naujovių neįvedame"
+sukurta: "2026-05-13"
+variantai: []
+aliases: []
+saltiniai:
+  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+bukle: juodrastis
+laikotarpis: "LDK kunigaikščių taktikos apibūdinimo kontekstas."
+datos: []
+periodas: "viduramziai"
+periodo_grupes: []
+amziai:
+  - "XIV"
+date_start: "1301"
+date_end: "1400"
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
+patikimumas: "aukštas"
+tags: []
+---
+# senovės negriauname, naujovių neįvedame
+
+## Santrauka
+
+Lietuvių kunigaikščių posakis apibūdina užimtų žemių tvarkos išlaikymo taktiką.
+
+## Teiginiai
+- t-001
+  teiginys: "Frazė „senovės negriauname, naujovių neįvedame“ vadinama lietuvių kunigaikščių posakiu."
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: "Posakis apibūdina taktiką palikti senąsias kunigaikštijų struktūras užgrobtose žemėse."
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: Citata pateikia posakį ir paaiškina jo politinę taktiką.
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    „senovės negriauname, naujovių neįvedame“
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata pririšta prie darbo šaltinio kūno teksto arba kandidato ledžerio patvirtinto offseto."
+  pagrindžia:
+    - t-001
+    - t-002
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]

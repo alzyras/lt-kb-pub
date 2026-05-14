@@ -122,7 +122,7 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-014
-  teiginys: 'Šaltinis Gediminą apibūdina ne tik kariu, bet ir valstybininku, veikusiu diplomatija.'
+  teiginys: 'Gediminas apibūdinamas ne tik kaip karys, bet ir kaip diplomatija veikęs valstybininkas.'
   ankstesnes_formuluotes:
     - 'Gediminas apibūdinamas ne tik kariu, bet ir valstybininku, veikusiu diplomatija.'
   pagrindžia:

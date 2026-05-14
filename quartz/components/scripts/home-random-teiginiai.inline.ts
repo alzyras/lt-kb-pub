@@ -21,7 +21,23 @@ function shuffle<T>(arr: T[]): T[] {
   return copy
 }
 
-function pageHrefFromSlug(slug: string): string {
+function normalizeSiteBasePath(rawBasePath?: string): string {
+  const raw = String(rawBasePath ?? "").trim()
+  if (!raw || raw === "/") {
+    return ""
+  }
+
+  const basePath = raw.startsWith("/") ? raw : `/${raw}`
+  return basePath.endsWith("/") ? basePath : `${basePath}/`
+}
+
+function pageHrefFromSlug(slug: string, siteBasePath?: string): string {
+  const basePath = normalizeSiteBasePath(siteBasePath)
+  if (basePath) {
+    const slugPath = slug === "index" ? "" : encodeURI(slug).replace(/^\/+/, "")
+    return `${basePath}${slugPath}`
+  }
+
   if (slug === "index") {
     return "./"
   }
@@ -95,13 +111,14 @@ function pickRandomTeiginiai(entries: TeiginysEntry[], limit: number): TeiginysE
   return result.slice(0, limit)
 }
 
-async function fetchContentIndex(): Promise<Record<string, ContentIndexEntry>> {
+async function fetchContentIndex(siteBasePath?: string): Promise<Record<string, ContentIndexEntry>> {
+  const basePath = normalizeSiteBasePath(siteBasePath)
   const candidates = [
     "./static/contentIndex.json",
     "../static/contentIndex.json",
-    "/lt-kb-pub/static/contentIndex.json",
+    basePath ? `${basePath}static/contentIndex.json` : "",
     "/static/contentIndex.json",
-  ]
+  ].filter(Boolean)
 
   for (const url of candidates) {
     try {
@@ -163,7 +180,7 @@ function renderTeiginiai(host: HTMLElement, entries: TeiginysEntry[]) {
 
   const html = entries
     .map((entry) => {
-      const href = pageHrefFromSlug(entry.slug)
+      const href = pageHrefFromSlug(entry.slug, host.dataset.basePath)
       return `<li><a href="${href}">${escapeHtml(entry.text)}</a></li>`
     })
     .join("")
@@ -177,7 +194,7 @@ async function initRandomTeiginiai() {
     return
   }
 
-  const index = await fetchContentIndex()
+  const index = await fetchContentIndex(hosts[0]?.dataset.basePath)
 
   hosts.forEach((host) => {
     const limit = Math.max(1, Number(host.dataset.limit ?? "5") || 5)

@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 43.
+Objektų skaičius: 42.
 
 ## Kaip naudoti
 
@@ -60,7 +60,6 @@ Objektų skaičius: 43.
 - [Švietimo Ministerijos Knygų Leidimo Komisija](../objektai/grupes/%C5%A0vietimo%20Ministerijos%20Knyg%C5%B3%20Leidimo%20Komisija)
 
 ### Papročiai
-- [Knygnešystė ir slaptas lietuviškų knygų platinimas](../objektai/paprociai/Knygne%C5%A1yst%C4%97%20ir%20slaptas%20lietuvi%C5%A1k%C5%B3%20knyg%C5%B3%20platinimas)
 - [Protestantų pamaldos lenkiškai](../objektai/paprociai/Protestant%C5%B3%20pamaldos%20lenki%C5%A1kai)
 
 ### Posakiai

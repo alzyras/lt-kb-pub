@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 91.
+Objektų skaičius: 114.
 
 ## Kaip naudoti
 
@@ -31,6 +31,7 @@ Objektų skaičius: 91.
 - [[objektai/autoriai/A. Salys]]
 - [[objektai/autoriai/A. Šapoka]]
 - [[objektai/autoriai/Adomas Dambrauskas Jakštas]]
+- [[objektai/autoriai/Antanas Kulakauskas]]
 - [[objektai/autoriai/B. Dundulis]]
 - [[objektai/autoriai/H. Lowmiański]]
 - [[objektai/autoriai/J. Jakštas]]
@@ -45,15 +46,39 @@ Objektų skaičius: 91.
 - [[objektai/autoriai/P. Šležas]]
 - [[objektai/autoriai/S. Sužiedėlis]]
 - [[objektai/autoriai/V. Dėdinas]]
-- [[objektai/autoriai/Vincas Kudirka]]
+- [Vincas Kudirka](../objektai/autoriai/Vincas%20Kudirka)
 - [Zenonas Ivinskis](../objektai/autoriai/Z.%20Ivinskis)
+
+### Daiktai
+- [ANBO lėktuvai](../objektai/daiktai/ANBO%20l%C4%97ktuvai)
+- [Baltijos kelio gedulo kaspinai ir žvakutės](../objektai/daiktai/Baltijos%20kelio%20gedulo%20kaspinai%20ir%20%C5%BEvakut%C4%97s)
+- [Bomba](../objektai/daiktai/Bomba)
+- [Lietuvos trispalvė](../objektai/daiktai/Lietuvos%20trispalv%C4%97)
+- [Partizanų bunkeriai](../objektai/daiktai/Partizan%C5%B3%20bunkeriai)
+- [Sovietų tankai ir šarvuočiai](../objektai/daiktai/Soviet%C5%B3%20tankai%20ir%20%C5%A1arvuo%C4%8Diai)
 
 ### Grupės
 - [Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti](../objektai/grupes/Centralinis%20Komitetas%20Nukent%C4%97jusiems%20D%C4%97l%20Karo%20%C5%A0elpti)
+- [Lietuvių aktyvistų frontas](../objektai/grupes/Lietuvi%C5%B3%20aktyvist%C5%B3%20frontas)
+- [Lietuvos laisvės kovos sąjūdis](../objektai/grupes/Lietuvos%20laisv%C4%97s%20kovos%20s%C4%85j%C5%ABdis)
+- [Lietuvos Persitvarkymo Sąjūdis](../objektai/grupes/Lietuvos%20Persitvarkymo%20S%C4%85j%C5%ABdis)
 - [Lietuvos seimas (1924 m.)](../objektai/grupes/Lietuvos%20seimas%20%281924%20m.%29)
+- [NKVD](../objektai/grupes/NKVD)
+
+### Papročiai
+- [Pirmosios dainų šventės tradicija](../objektai/paprociai/Pirmosios%20dain%C5%B3%20%C5%A1vent%C4%97s%20tradicija)
+- [Rugsėjo 8-osios Tautos šventės ceremonijos](../objektai/paprociai/Rugs%C4%97jo%208-osios%20Tautos%20%C5%A1vent%C4%97s%20ceremonijos)
+- [Rusiškų mokyklų boikotas ir daraktorinės mokyklėlės](../objektai/paprociai/Rusi%C5%A1k%C5%B3%20mokykl%C5%B3%20boikotas%20ir%20daraktorin%C4%97s%20mokykl%C4%97l%C4%97s)
+- [Tautinių bendrijų kalbos, kultūros ir papročių puoselėjimas](../objektai/paprociai/Tautini%C5%B3%20bendrij%C5%B3%20kalbos%2C%20kult%C5%ABros%20ir%20papro%C4%8Di%C5%B3%20puosel%C4%97jimas)
 
 ### Posakiai
+- [Daina mums padėjo, padėjo šimtmečiais](../objektai/posakiai/Daina%20mums%20pad%C4%97jo%2C%20pad%C4%97jo%20%C5%A1imtme%C4%8Diais)
+- [Laisvę Lietuvai!](../objektai/posakiai/Laisv%C4%99%20Lietuvai%21)
+- [Lietuva be suvereniteto – Lietuva be ateities.](../objektai/posakiai/Lietuva%20be%20suvereniteto%20%E2%80%93%20Lietuva%20be%20ateities)
 - [Skelbia nepriklausomos Lietuvos valstybės atstatymą su sostine Vilnium](../objektai/posakiai/Skelbia%20nepriklausomos%20Lietuvos%20valstyb%C4%97s%20atstatym%C4%85%20su%20sostine%20Vilnium)
+- [Tas, kuris nori žinoti, kaip kalbėjo mūsų proseneliai](../objektai/posakiai/Tas%2C%20kuris%20nori%20%C5%BEinoti%2C%20kaip%20kalb%C4%97jo%20m%C5%ABs%C5%B3%20proseneliai)
+- [Viešumas, demokratija, suverenumas](../objektai/posakiai/Vie%C5%A1umas%2C%20demokratija%2C%20suverenumas)
+- [Šalin rankas nuo Lietuvos](../objektai/posakiai/%C5%A0alin%20rankas%20nuo%20Lietuvos)
 
 ### Įvykiai
 - [1917 m. lietuvių seimas Petrapilyje](../objektai/ivykiai/1917%20m.%20lietuvi%C5%B3%20seimas%20Petrapilyje)
@@ -116,7 +141,9 @@ Objektų skaičius: 91.
 ### Žodynas
 - [buržuazinė istoriografija](../objektai/zodynas/bur%C5%BEuazin%C4%97%20istoriografija)
 - [Graždanka](../objektai/zodynas/Gra%C5%BEdanka)
+- [istorinė Lietuva](../objektai/zodynas/istorin%C4%97%20Lietuva)
 - [marksistinė periodizacija](../objektai/zodynas/marksistin%C4%97%20periodizacija)
 - [Suverenitetas](../objektai/zodynas/Suverenitetas)
 - [tautinis atgimimas](../objektai/zodynas/tautinis%20atgimimas)
+- [tuteišiai](../objektai/zodynas/tutei%C5%A1iai)
 - [valstybingumo idėja](../objektai/zodynas/valstybingumo%20id%C4%97ja)
