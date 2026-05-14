@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 25.
+Objektų skaičius: 26.
 
 ## Kaip naudoti
 
@@ -22,6 +22,7 @@ Objektų skaičius: 25.
 - [[objektai/zodynas/apostazija]]
 - [[objektai/zodynas/baskakas]]
 - [[objektai/zodynas/buržuazinė istoriografija]]
+- [[objektai/zodynas/chiefdom vadystė|chiefdom / vadystė]]
 - [[objektai/zodynas/dykra]]
 - [[objektai/zodynas/genetinė istorija]]
 - [[objektai/zodynas/inkorporacija]]
@@ -43,4 +44,4 @@ Objektų skaičius: 25.
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/urėdas]]
 - [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/valstybingumo idėja]]
+- [valstybingumo idėja](../objektai/zodynas/valstybingumo%20id%C4%97ja)

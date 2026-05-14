@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 21.
+Objektų skaičius: 23.
 
 ## Kaip naudoti
 
@@ -47,10 +47,12 @@ Objektų skaičius: 21.
 - [[objektai/ivykiai/Kryžiuočių ordino karo pradžia su Lietuvos valstybe (1283 m.)]]
 - [[objektai/ivykiai/Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)]]
 - [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]
+- [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)]]
 - [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
 
 ### Žodynas
 - [[objektai/zodynas/apostazija]]
 - [[objektai/zodynas/kryžiaus karas]]
+- [[objektai/zodynas/leičiai liečiai leišiai|leičiai / liečiai / leišiai]]
 - [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/metropolitas]]

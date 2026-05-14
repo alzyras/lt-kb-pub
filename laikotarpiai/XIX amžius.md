@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 46.
+Objektų skaičius: 51.
 
 ## Kaip naudoti
 
@@ -38,8 +38,11 @@ Objektų skaičius: 46.
 
 ### Papročiai
 - [[objektai/paprociai/Lydimoji žemdirbystė]]
+- [[objektai/paprociai/Rusiškų mokyklų boikotas ir daraktorinės mokyklėlės]]
 
 ### Posakiai
+- [[objektai/posakiai/Tas, kuris nori žinoti, kaip kalbėjo mūsų proseneliai]]
+- [[objektai/posakiai/Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga|Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.]]
 - [[objektai/posakiai/Žmonės nusidavimų (istorijos) nepažįstantieji vis yra vaikai]]
 
 ### Įvykiai
@@ -51,9 +54,9 @@ Objektų skaičius: 46.
 - [[objektai/ivykiai/Blaivybės brolijų kūrimas ir plitimas Žemaičių vyskupystėje (1858—1859 m.)]]
 - [[objektai/ivykiai/Gelgaudo vadovaujami kariuomenės žygiai į Vilnių ir Šiaulius (1831 m.)]]
 - [[objektai/ivykiai/Jono Smalakio išrinkimas į imperijos parlamentą Klaipėdos apygardoje (1898 m.)]]
-- [[objektai/ivykiai/Katalikiško moksleivių judėjimo plėtra Amerikoje (1899–1912 m.)]]
-- [[objektai/ivykiai/Lenkų sukilimas Varšuvoje (1830 m.)]]
-- [[objektai/ivykiai/Lietuviškosios spaudos draudimas ir rusiškų raidžių įvedimas (1864—1865 m.)]]
+- [Katalikiško moksleivių judėjimo plėtra Amerikoje (1899–1912 m.)](../objektai/ivykiai/Kataliki%C5%A1ko%20moksleivi%C5%B3%20jud%C4%97jimo%20pl%C4%97tra%20Amerikoje%20%281899%E2%80%931912%20m.%29)
+- [Lenkų sukilimas Varšuvoje (1830 m.)](../objektai/ivykiai/Lenk%C5%B3%20sukilimas%20Var%C5%A1uvoje%20%281830%20m.%29)
+- [Lietuviškosios spaudos draudimas ir rusiškų raidžių įvedimas (1864—1865 m.)](../objektai/ivykiai/Lietuvi%C5%A1kosios%20spaudos%20draudimas%20ir%20rusi%C5%A1k%C5%B3%20raid%C5%BEi%C5%B3%20%C4%AFvedimas%20%281864%E2%80%941865%20m.%29)
 - [Lietuviškosios spaudos pradžia Amerikoje (1874–1885 m.)](../objektai/ivykiai/Lietuvi%C5%A1kosios%20spaudos%20prad%C5%BEia%20Amerikoje%20%281874%E2%80%931885%20m.%29)
 - [Lietuviškosios spaudos suklestėjimas Amerikoje (1892–1896 m.)](../objektai/ivykiai/Lietuvi%C5%A1kosios%20spaudos%20suklest%C4%97jimas%20Amerikoje%20%281892%E2%80%931896%20m.%29)
 - [Lietuvių peticijų dėl kalbos teisių mokyklose kampanija (1879–1897 m.)](../objektai/ivykiai/Lietuvi%C5%B3%20peticij%C5%B3%20d%C4%97l%20kalbos%20teisi%C5%B3%20mokyklose%20kampanija%20%281879%E2%80%931897%20m.%29)
@@ -71,9 +74,11 @@ Objektų skaičius: 46.
 
 ### Žodynas
 - [Baudžiava](../objektai/zodynas/Baud%C5%BEiava)
+- [istorinė Lietuva](../objektai/zodynas/istorin%C4%97%20Lietuva)
 - [Laisvamanybė ir laisvamaniai](../objektai/zodynas/Laisvamanyb%C4%97%20ir%20laisvamaniai)
 - [lituanistinis sąjūdis](../objektai/zodynas/lituanistinis%20s%C4%85j%C5%ABdis)
 - [marksistinė periodizacija](../objektai/zodynas/marksistin%C4%97%20periodizacija)
 - [Rusiškosios raidės](../objektai/zodynas/Rusi%C5%A1kosios%20raid%C4%97s)
 - [tautinis atgimimas](../objektai/zodynas/tautinis%20atgimimas)
 - [tautinė sąmonė](../objektai/zodynas/tautin%C4%97%20s%C4%85mon%C4%97)
+- [tuteišiai](../objektai/zodynas/tutei%C5%A1iai)

@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 45.
+Objektų skaičius: 48.
 
 ## Kaip naudoti
 
@@ -22,6 +22,7 @@ Objektų skaičius: 45.
 - [[objektai/asmenys/Kristupas († 1640 m.)]]
 
 ### Daiktai
+- [[objektai/daiktai/Daugiapakopės raketos]]
 - [[objektai/daiktai/Lietuvos pinigai]]
 
 ### Grupės
@@ -31,6 +32,10 @@ Objektų skaičius: 45.
 
 ### Papročiai
 - [[objektai/paprociai/Nuotakos išpirkimas ir Krienos mokestis]]
+- [[objektai/paprociai/Pagoniškų elementų integravimas į krikščioniškas praktikas]]
+
+### Posakiai
+- [[objektai/posakiai/duona, tolerancija, demokratija, konstitucija, barokas]]
 
 ### Įvykiai
 - [[objektai/ivykiai/Andrusavos sutarties patvirtinimas (1686 m.)]]
@@ -49,9 +54,9 @@ Objektų skaičius: 45.
 - [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]]
 - [[objektai/ivykiai/Maskvos ir Švedų užpuolimas Lietuvai (1654–1655 m.)]]
 - [[objektai/ivykiai/Mykolo Kaributo Višniaveckio elekcija (1669 m.)]]
-- [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]
-- [[objektai/ivykiai/Protestanto nubaudimas per Dievo Kūno procesiją Vilniuje (1611 m.)]]
-- [[objektai/ivykiai/Rygos atitekimas švedams (1621 m.)]]
+- [Prostkų mūšis (1656 m. spalio 8 d.)](../objektai/ivykiai/Prostk%C5%B3%20m%C5%AB%C5%A1is%20%281656%20m.%20spalio%208%20d.%29)
+- [Protestanto nubaudimas per Dievo Kūno procesiją Vilniuje (1611 m.)](../objektai/ivykiai/Protestanto%20nubaudimas%20per%20Dievo%20K%C5%ABno%20procesij%C4%85%20Vilniuje%20%281611%20m.%29)
+- [Rygos atitekimas švedams (1621 m.)](../objektai/ivykiai/Rygos%20atitekimas%20%C5%A1vedams%20%281621%20m.%29)
 - [Salaspilio (Kircholmo) mūšis (1605 m.)](../objektai/ivykiai/Salaspilio%20%28Kircholmo%29%20m%C5%AB%C5%A1is%20%281605%20m.%29)
 - [Sapiegų ir vyskupo Bžostausko taikos pasirašymas (1696 m. gale)](../objektai/ivykiai/Sapieg%C5%B3%20ir%20vyskupo%20B%C5%BEostausko%20taikos%20pasira%C5%A1ymas%20%281696%20m.%20gale%29)
 - [Seimų vietos įstatymo pakeitimas (1673 m.)](../objektai/ivykiai/Seim%C5%B3%20vietos%20%C4%AFstatymo%20pakeitimas%20%281673%20m.%29)

@@ -1,0 +1,122 @@
+---
+tipas: vieta
+pavadinimas: "Vidurinė Lietuva"
+sukurta: "2026-05-13"
+variantai:
+  - "Vidurinė Lietuva"
+  - "Vidurinės Lietuvos"
+  - "Litwa środkowa"
+aliases: []
+saltiniai:
+  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+bukle: juodrastis
+laikotarpis: ""
+datos: []
+periodas: ""
+periodo_grupes: []
+amziai: []
+date_start: ""
+date_end: ""
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
+patikimumas: "vidutinis"
+tags: []
+---
+# Vidurinė Lietuva
+
+## Santrauka
+Vidurinė Lietuva aprašoma kaip Vilniaus krašte suformuotas teritorinis-politinis darinys, siejamas su 1920 m. konfliktu dėl Vilniaus, L. Želigovskio akcija ir 1922 m. prisijungimu prie Lenkijos.
+
+## Pavadinimai šaltiniuose
+- Vidurinė Lietuva
+- Vidurinės Lietuvos
+- Litwa środkowa
+
+## Kas tai
+Politinis-teritorinis darinys Vilniaus krašte.
+
+## Geografinis ir istorinis kontekstas
+Vieta siejama su Lietuvos ir Lenkijos konfliktu dėl Vilniaus po Pirmojo pasaulinio karo.
+
+## Teiginiai
+- t-001
+  teiginys: "Vidurinė Lietuva buvo suformuota Vilniaus krašte per 1920 m. Lenkijos ir Lietuvos konfliktą dėl Vilniaus."
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: "1922 m. Lenkijos valia vykusiuose rinkimuose Želigovskio užimtoje teritorijoje, vadinamoje Vidurine Lietuva su Vilniumi, balsuota už tapimą Lenkijos dalimi."
+  pagrindžia:
+    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: "1920 m. spalio 9 d. L. Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą."
+  pagrindžia:
+    - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: Citata tiesiogiai sieja Vidurinės Lietuvos suformavimą su Vilniaus kraštu ir 1920 m. konfliktu.
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tiesa,
+    nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“
+    arba „senalietuviais“, tačiau dauguma jų vis labiau integravosi į lenkų
+    tautą, o Lietuvą laikė Lenkijos dalimi. Būtent ši samprata iškilo 1920 m.
+    Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo
+    suformuota „Vidurinė Lietuva“. Remiantis tokia lenkiška Lietuvos sam-
+    prata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių
+    tarmė – lietuvių kalba.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: Citata aprašo 1922 m. rinkimus Želigovskio užimtoje Vidurinėje Lietuvoje.
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ši trijų dalių Lietuvos sampra-
+    ta, pasitelkiama neva siekiant atkurti LDK tradiciją, buvo tik deklaracija,
+    nebeatitinkanti istorinės tikrovės. Iš tikrųjų tai buvo lenkiška Lietuvos
+    samprata: 1922 m. Lenkijos valia vykusiuose rinkimuose gen. Liucijano
+    Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vi-
+    durinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: Citata datuoja Želigovskio veiksmą ir Vidurinės Lietuvos paskelbimą.
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nors 1920 m.
+    spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį
+    susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietu-
+    vos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-
+    ligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos
+    (Litwa środkowa) sudarymą. Pagal klastingą J. Pilsudskio sumanymą
+    miestą užėmė ne Lenkijos kariuomenė, o neva nepaklususio Lenkijos val-
+    džiai „maištininko“ L. Želigovskio vietinių Vilnijos „lietuvių ir baltaru-
+    sių“ daliniai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+
+## Šaltiniai ir įrodymai
+
+## Pastabos

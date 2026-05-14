@@ -2,36 +2,50 @@
 tipas: paprotys
 pavadinimas: 'Knygnešystė ir slaptas lietuviškų knygų platinimas'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - "Kontrabandinė knygnešystė ir nelegalus lietuviškos spaudos platinimas"
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 patikimumas: 'vidutinis'
-tags:
-  - kunigas
-  - paprotys
-  - tauta
+tags: []
 ---
 # Knygnešystė ir slaptas lietuviškų knygų platinimas
 
 ## Santrauka
 
-Lietuviškosios spaudos centru pasidarė Tilžė. Jis pats parašė daugybę knygučių ir joms išleisti nesigailėjo nei lėšų nei vargo. Kunigija iš pradžių daugiausia rūpinosi religinio turinio knygomis ir elementoriais, kurie buvo reikalingi vaikams mokyti.
+Knygnešystė buvo slaptas lietuviškos spaudos spausdinimo, gabenimo ir platinimo tinklas. Spaudos draudimo laikotarpiu lietuviškos knygos spausdintos Rytprūsiuose, knygnešių atnešamos į Lietuvą ir nelegaliai platinamos, o valdžios bausmės šio srauto nesustabdė.
 
 ## Laikotarpis ir datos
-Nenurodyta
+- laikotarpis: lietuvių spaudos draudimo laikotarpis; XIX a. pabaiga
+- datos:
+  - 1864-1904 m.
+- periodas: naujieji_laikai
+- periodo_grupes:
+  - Rusijos imperija
+- amziai:
+  - XIX
+  - XX
+- date_start: 1864
+- date_end: 1904
 
 ## Kas tai
-Nenurodyta
+- kategorija: kultūrinė praktika
 
 ## Atlikimas
-Nenurodyta
+- kas atlieka: M. Valančius, kunigai, knygnešiai, nelegalūs platintojai, skaitytojai
+- kada atliekama: lietuvių spaudos draudimo laikotarpiu
+- kaip atliekama: spausdinant lietuviškas knygas tradiciniu raidynu Rytprūsiuose, gabenant per sieną ir platinant Lietuvoje
 
 ## Paskirtis
-Nenurodyta
+- Praktika palaikė lietuvišką spaudą ir skaitymą, kai valdžia draudė lietuvių raštiją tradiciniu raidynu.
 
 ## Kontekstas
-Nenurodyta
+- regionas: Rytprūsiai ir Didžioji Lietuva
+- laikotarpis: spaudos draudimas
+- susiję žodžiai: knygnešystė; spaudos draudimas
+- susiję daiktai: lietuviškos knygos; elementoriai
 
 ## Teiginiai
 - t-001
@@ -50,17 +64,13 @@ Nenurodyta
   teiginys: 'Visi knygų platinimo vadai turėjo daugybę padėjėjų, kurie slapta eidavo per sieną, nunešdavo rankraščius ir atnešdavo knygų.'
   pagrindžia:
     - c-004
-- t-005
-  teiginys: 'Atsirado net specialių knygų platinamųjų draugijų iš kunigų, bažnyčios tarnų, o vėliau ir iš pasaulinių inteligentų tarpo.'
-  pagrindžia:
-    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuviškosios spaudos centru pasidarė Tilžė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kad lietuviai neliktų be savų raštų,
+    ** Kad lietuviai neliktų be savų raštų,
     šie tuojau buvo pradėti spausdinti Mažojoje Lietuvoje. Lietu-
     viškosios spaudos centru pasidarė Tilžė. Iš ten slapta knygos
     buvo gabenamos ir skleidžiamos po visą Lietuvą.
@@ -123,31 +133,26 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Atsirado net specialių knygų platinamųjų draugijų iš kunigų, bažnyčios tarnų, o vėliau ir iš pasaulinių inteligentų tarpo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-71130
+  santrauka: 2013 m. šaltinis tiesiogiai įvardija kontrabandinės knygnešystės tradicijos susiformavimą.
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Atsirado
-    net specialių knygų platinamųjų draugijų iš kunigų, bažnyčios
-    tarnų, o vėliau ir iš pasaulinių inteligentų tarpo. Pirmoji tokia
-    organizacija buvo sudaryta taip pat Valančiaus rūpesčiu. Ypa-
-    tingai knygų platinimu pasižymėjo prasilavinęs kaimietis bir-
-    žietis J. Bielinis (1846—1918 m.). Iš pradžių jis buvo pa-
-    tikimas Valančiaus pasiuntinys į Mažąją Lietuvą, o vėliau pats
-    suorganizavo didelį knygų platinimo tinklą su centru Garš-
-    viuose.
-  citata_rodoma: ''
+    Susiformavo tvirta kontrabandinės
+    knygnešystės tradicija, ir į XIX a. pabaigą lietuvių kalba Rytprūsiuo-
+    se išleidžiamų ir į Lietuvą knygnešių atnešamų ir nelegaliai platinamų
+    knygų gausėjo.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: "Rankiniu būdu sutrumpinta į šaltinyje exact randamą fragmentą po OCR tarpų validacijos klaidos."
   pagrindžia:
-    - t-005
+    - t-006
+    - t-007
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/knyga]]
-- [[temos/kunigas]]
+- [[temos/socialinė-praktika]]
 
 ### Susiję objektai
 - [[objektai/autoriai/Motiejus Valančius]]

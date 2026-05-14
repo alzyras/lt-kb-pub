@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 50.
+Objektų skaičius: 52.
 
 ## Kaip naudoti
 
@@ -38,6 +38,9 @@ Objektų skaičius: 50.
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Valakai]]
 
+### Papročiai
+- [[objektai/paprociai/Pagoniškų elementų integravimas į krikščioniškas praktikas]]
+
 ### Posakiai
 - [[objektai/posakiai/Drang nach Osten]]
 - [[objektai/posakiai/karūna su karūna negali būti sujungta — inkorporuota]]
@@ -51,7 +54,7 @@ Objektų skaičius: 50.
 ### Vietos
 - [[objektai/vietos/Galvės ežero salos pilis]]
 - [[objektai/vietos/Luckas]]
-- [[objektai/vietos/Lydos pilis]]
+- [Lydos pilis](../objektai/vietos/Lydos%20pilis)
 - [Medininkų pilis](../objektai/vietos/Medinink%C5%B3%20pilis)
 - [Senieji Trakai](../objektai/vietos/Senieji%20Trakai)
 
@@ -67,6 +70,7 @@ Objektų skaičius: 50.
 - [Vytauto mirtis (1430 m. spalio 27 d.)](../objektai/ivykiai/Vytauto%20mirtis%20%281430%20m.%20spalio%2027%20d.%29)
 
 ### Žodynas
+- [alodas / alodinė nuosavybė](../objektai/zodynas/alodas%20alodin%C4%97%20nuosavyb%C4%97)
 - [Baudžiava](../objektai/zodynas/Baud%C5%BEiava)
 - [diarchija](../objektai/zodynas/diarchija)
 - [dykra](../objektai/zodynas/dykra)

@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 14.
+Objektų skaičius: 16.
 
 ## Kaip naudoti
 
@@ -21,11 +21,13 @@ Objektų skaičius: 14.
 ### Daiktai
 - [[objektai/daiktai/Antspaudas]]
 - [[objektai/daiktai/Aukuras]]
+- [[objektai/daiktai/Baltijos kelio gedulo kaspinai ir žvakutės]]
 - [[objektai/daiktai/Bizantijos imperatorių herbas]]
 - [[objektai/daiktai/Herbai]]
 - [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
 - [[objektai/daiktai/Kryžius ant kardo galo]]
 - [[objektai/daiktai/Lietuvos specialiųjų operacijų pajėgų karių kvalifikacinis antsiuvas „Žaliukas“]]
+- [[objektai/daiktai/Lietuvos trispalvė]]
 - [[objektai/daiktai/Pirmosios katedros didysis altoriaus kryžius]]
 - [[objektai/daiktai/Riterių vėliava]]
 - [[objektai/daiktai/Vytauto vėliava]]

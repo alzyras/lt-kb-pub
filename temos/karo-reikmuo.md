@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 3.
+Objektų skaičius: 7.
 
 ## Kaip naudoti
 
@@ -19,6 +19,10 @@ Objektų skaičius: 3.
 ## Susiję objektai
 
 ### Daiktai
+- [[objektai/daiktai/ANBO lėktuvai]]
 - [[objektai/daiktai/Baltas apsiaustas su išsiuvinėtu kalaviju]]
+- [[objektai/daiktai/Bomba]]
+- [[objektai/daiktai/Daugiapakopės raketos]]
 - [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
-- [[objektai/daiktai/Šarvai]]
+- [[objektai/daiktai/Partizanų bunkeriai]]
+- [[objektai/daiktai/Sovietų tankai ir šarvuočiai]]

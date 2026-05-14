@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 6.
+Objektų skaičius: 7.
 
 ## Kaip naudoti
 
@@ -29,3 +29,6 @@ Objektų skaičius: 6.
 - [[objektai/ivykiai/Brunono misija į aisčių kraštą ir žūtis (1009 m.)]]
 - [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą (1040 m.)]]
 - [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]
+
+### Žodynas
+- [[objektai/zodynas/chiefdom vadystė|chiefdom / vadystė]]

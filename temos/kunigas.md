@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 46.
+Objektų skaičius: 45.
 
 ## Kaip naudoti
 
@@ -57,7 +57,6 @@ Objektų skaičius: 46.
 ### Papročiai
 - [Baudžiauninkų tikėjimo priklausomybė nuo pono paskirto kunigo](../objektai/paprociai/Baud%C5%BEiaunink%C5%B3%20tik%C4%97jimo%20priklausomyb%C4%97%20nuo%20pono%20paskirto%20kunigo)
 - [Jėzuitų viešos religinės kovos praktikos](../objektai/paprociai/J%C4%97zuit%C5%B3%20vie%C5%A1os%20religin%C4%97s%20kovos%20praktikos)
-- [Knygnešystė ir slaptas lietuviškų knygų platinimas](../objektai/paprociai/Knygne%C5%A1yst%C4%97%20ir%20slaptas%20lietuvi%C5%A1k%C5%B3%20knyg%C5%B3%20platinimas)
 - [Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose](../objektai/paprociai/Vyriausiojo%20Lietuvos%20tribunolo%20teis%C4%97j%C5%B3%20rinkimas%20seimeliuose)
 
 ### Vietos

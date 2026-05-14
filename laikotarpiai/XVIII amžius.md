@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 29.
+Objektų skaičius: 32.
 
 ## Kaip naudoti
 
@@ -32,6 +32,9 @@ Objektų skaičius: 29.
 - [[objektai/grupes/1773—1775 m. seimas]]
 - [[objektai/grupes/Gardino seimas (1793 m.)]]
 
+### Posakiai
+- [[objektai/posakiai/duona, tolerancija, demokratija, konstitucija, barokas]]
+
 ### Įvykiai
 - [[objektai/ivykiai/1717 m. nebylys seimas]]
 - [[objektai/ivykiai/1766 m. seimo sprendimas dėl kitatikių teisių]]
@@ -51,10 +54,12 @@ Objektų skaičius: 29.
 - [[objektai/ivykiai/Rusijos ir Prūsijos sutartis remti Poniatausko kandidatūrą (1764 m.)]]
 - [[objektai/ivykiai/Stanislovo Augusto elekcija (1764 m.)]]
 - [[objektai/ivykiai/Stanislovo Leščinskio išrinkimas karalium (1704 m.)]]
-- [[objektai/ivykiai/Targovicos konfederacija (1792—1793 m.)]]
+- [Targovicos konfederacija (1792—1793 m.)](../objektai/ivykiai/Targovicos%20konfederacija%20%281792%E2%80%941793%20m.%29)
 - [Varšuvos konfederacinis seimas (1768 m.)](../objektai/ivykiai/Var%C5%A1uvos%20konfederacinis%20seimas%20%281768%20m.%29)
 - [Šiaulių ekonomijos valstiečių sukilimas (1769 m.)](../objektai/ivykiai/%C5%A0iauli%C5%B3%20ekonomijos%20valstie%C4%8Di%C5%B3%20sukilimas%20%281769%20m.%29)
 
 ### Žodynas
+- [abdikacija](../objektai/zodynas/abdikacija)
+- [ješiva](../objektai/zodynas/je%C5%A1iva)
 - [Liberum veto](../objektai/zodynas/Liberum%20veto)
 - [valstybingumo idėja](../objektai/zodynas/valstybingumo%20id%C4%97ja)

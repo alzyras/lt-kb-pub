@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 48.
+Objektų skaičius: 51.
 
 ## Kaip naudoti
 
@@ -28,6 +28,7 @@ Objektų skaičius: 48.
 - [[objektai/daiktai/Lietuvos pinigai]]
 - [[objektai/daiktai/Pirmosios katedros didysis altoriaus kryžius]]
 - [[objektai/daiktai/Stepono Batoro paradinis kalavijas]]
+- [[objektai/daiktai/Šakutė]]
 
 ### Grupės
 - [[objektai/grupes/Gardino seimas (1566 m.)]]
@@ -39,6 +40,7 @@ Objektų skaičius: 48.
 ### Papročiai
 - [[objektai/paprociai/Lydimoji žemdirbystė]]
 - [[objektai/paprociai/Nuotakos išpirkimas ir Krienos mokestis]]
+- [[objektai/paprociai/Pagoniškų elementų integravimas į krikščioniškas praktikas]]
 
 ### Posakiai
 - [[objektai/posakiai/nihil novi]]
@@ -56,8 +58,8 @@ Objektų skaičius: 48.
 - [[objektai/ivykiai/1571 m. paliaubos su Maskva]]
 - [[objektai/ivykiai/1582 m. sausio 15 d. 10 metų karo paliaubos su Maskva]]
 - [[objektai/ivykiai/Antrasis karas su Maskva (1512–1522 m.)]]
-- [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]
-- [[objektai/ivykiai/Jėzuitų atkvietimas į Lietuvą ir pirmosios kolegijos įsteigimas Vilniuje (1569–1570 m.)]]
+- [Didžioji Maskvos suirutė (1597–1613 m.)](../objektai/ivykiai/Did%C5%BEioji%20Maskvos%20suirut%C4%97%20%281597%E2%80%931613%20m.%29)
+- [Jėzuitų atkvietimas į Lietuvą ir pirmosios kolegijos įsteigimas Vilniuje (1569–1570 m.)](../objektai/ivykiai/J%C4%97zuit%C5%B3%20atkvietimas%20%C4%AF%20Lietuv%C4%85%20ir%20pirmosios%20kolegijos%20%C4%AFsteigimas%20Vilniuje%20%281569%E2%80%931570%20m.%29)
 - [K. Radvilos Perkūno reidas (1581 m. liepa-spalis)](../objektai/ivykiai/K.%20Radvilos%20Perk%C5%ABno%20reidas%20%281581%20m.%20liepa-spalis%29)
 - [Karas su Maskva (1499–1503 m.)](../objektai/ivykiai/Karas%20su%20Maskva%20%281499%E2%80%931503%20m.%29)
 - [Klecko mūšis (1506 m. rugpjūčio 6 d.)](../objektai/ivykiai/Klecko%20m%C5%AB%C5%A1is%20%281506%20m.%20rugpj%C5%AB%C4%8Dio%206%20d.%29)
@@ -77,6 +79,7 @@ Objektų skaičius: 48.
 - [Zigmanto Vazos karūnacinis seimas (1588 m.)](../objektai/ivykiai/Zigmanto%20Vazos%20kar%C5%ABnacinis%20seimas%20%281588%20m.%29)
 
 ### Žodynas
+- [alodas / alodinė nuosavybė](../objektai/zodynas/alodas%20alodin%C4%97%20nuosavyb%C4%97)
 - [lažas](../objektai/zodynas/La%C5%BEas)
 - [Personalinė unija](../objektai/zodynas/Personalin%C4%97%20unija)
 - [poliublininis laikotarpis](../objektai/zodynas/poliublininis%20laikotarpis)

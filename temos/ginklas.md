@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 28.
+Objektų skaičius: 30.
 
 ## Kaip naudoti
 
@@ -25,8 +25,10 @@ Objektų skaičius: 28.
 
 ### Daiktai
 - [[objektai/daiktai/Baltas apsiaustas su raudonu kalaviju]]
+- [[objektai/daiktai/Bomba]]
 - [[objektai/daiktai/Bombardos]]
 - [[objektai/daiktai/Dalgiai]]
+- [[objektai/daiktai/Daugiapakopės raketos]]
 - [[objektai/daiktai/Du pliki kardai]]
 - [[objektai/daiktai/Dviašmenis kalavijas]]
 - [[objektai/daiktai/Geležiniai ginklai ir įrankiai]]
@@ -50,10 +52,10 @@ Objektų skaičius: 28.
 ### Vietos
 - [[objektai/vietos/Vengrija]]
 - [[objektai/vietos/Vokietija]]
-- [[objektai/vietos/Šiauliai]]
+- [Šiauliai](../objektai/vietos/%C5%A0iauliai)
 
 ### Įvykiai
-- [[objektai/ivykiai/Kalavijuočių ordino įkūrimas]]
+- [Kalavijuočių ordino įkūrimas](../objektai/ivykiai/Kalavijuo%C4%8Di%C5%B3%20ordino%20%C4%AFk%C5%ABrimas)
 - [Klaipėdos krašto prisijungimas prie Lietuvos (1923–1924 m.)](../objektai/ivykiai/Klaip%C4%97dos%20kra%C5%A1to%20prisijungimas%20prie%20Lietuvos%20%281923%E2%80%931924%20m.%29)
 - [Paskutinės Kęstučio kovos ir mirtis](../objektai/ivykiai/Paskutin%C4%97s%20K%C4%99stu%C4%8Dio%20kovos%20ir%20mirtis)
 - [Sukilimo numalšinimas Lietuvoje (1831 m. rudenį)](../objektai/ivykiai/Sukilimo%20numal%C5%A1inimas%20Lietuvoje%20%281831%20m.%20ruden%C4%AF%29)

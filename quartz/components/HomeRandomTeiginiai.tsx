@@ -10,7 +10,21 @@ interface Options {
   minEvidence?: number
 }
 
+function basePathFromBaseUrl(baseUrl?: string): string {
+  if (!baseUrl) {
+    return ""
+  }
+
+  const pathname = new URL(`https://${baseUrl}`).pathname
+  if (!pathname || pathname === "/") {
+    return ""
+  }
+
+  return pathname.endsWith("/") ? pathname : `${pathname}/`
+}
+
 const HomeRandomTeiginiai: QuartzComponent = ({
+  cfg,
   displayClass,
   title = "Atsitiktiniai teiginiai",
   limit = 5,
@@ -22,6 +36,7 @@ const HomeRandomTeiginiai: QuartzComponent = ({
       data-home-random-teiginiai="true"
       data-limit={String(Math.max(1, Number(limit) || 5))}
       data-min-evidence={String(Math.max(1, Number(minEvidence) || 10))}
+      data-base-path={basePathFromBaseUrl(cfg.baseUrl)}
     >
       <h2 class="home-random-teiginiai-title">{title}</h2>
       <ol class="home-random-teiginiai-list" data-home-random-teiginiai-list="true">
