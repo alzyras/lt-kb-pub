@@ -26,6 +26,10 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginys: 'Baltų gentys pradėjo formuotis III tūkstantmečio pr.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'I s k y r i u s SENOJI LIETUVA SENOVĖS BALTAI IR LIETUVOS VALSTYBĖS ATSIRADIMAS M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, gyvenusių arba gyvenančių Baltijos jūros rytų pakraštyje ir kalbėjusių arba kalbančių giminiškomis.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -63,6 +67,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

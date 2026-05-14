@@ -116,6 +116,10 @@ tags: []
   teiginys: 'Lietuvos istorija.'
   pagrindžia:
     - c-010
+- t-016
+  teiginys: 'Vilnius, 2009; Lietuvos istorija.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -257,6 +261,7 @@ tags: []
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-014
+    - t-016
 
 ## Bibliografiniai įrodymai
     # LIETUVOS

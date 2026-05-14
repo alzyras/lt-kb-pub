@@ -89,6 +89,18 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginys: 'Mindaugas sukūrė didžiausią ankstyvosios Lietuvos istorijos kūrinį – valstybę, suteikusią galimybę išlikti lietuvių tautai ir vėliau perimti Vakarų civilizaciją.'
   pagrindžia:
     - c-031
+- t-015
+  teiginys: 'Lietuviai veikiausiai buvo tokie pat imperialistai kaip ir kiti, tik, užgrobę svetimą kraštą, „nespausdavo“, t.'
+  pagrindžia:
+    - c-032
+- t-016
+  teiginys: 'Atėję iš ryškią individualią alodinę nuosavybės struktūrą turinčios visuomenės lietuvių bajorai ir individualiai ūkininkaujantys valstiečiai skyrėsi nuo rytinių slavų.'
+  pagrindžia:
+    - c-033
+- t-017
+  teiginys: 'Didieji kunigaikščiai, reikšdami teritorines pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendrumu grindė žemaičių priklausomybę Lietuvai.'
+  pagrindžia:
+    - c-034
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -349,6 +361,48 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-014
+- c-032
+  santrauka: 'Lietuviai veikiausiai buvo tokie pat imperialistai kaip ir kiti, tik, užgrobę svetimą kraštą, „nespausdavo“, t.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuviai veikiausiai buvo tokie pat imperialistai kaip ir kiti, tik, užgro-
+    bę svetimą kraštą, „nespausdavo“, t. y. iš pradžių nekeisdavo susiklosčiu-
+    sios tvarkos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-033
+  santrauka: 'Atėję iš ryškią individualią alodinę nuosavybės struktūrą turinčios visuomenės lietuvių bajorai ir individualiai ūkininkaujantys valstiečiai skyrėsi nuo rytinių slavų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Atėję iš ryškią individualią alodinę nuosavybės struk-
+    tūrą turinčios visuomenės lietuvių bajorai ir individualiai ūkininkaujan-
+    tys valstiečiai skyrėsi nuo rytinių slavų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-034
+  santrauka: 'Didieji kunigaikščiai, reikšdami teritorines pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendrumu grindė žemaičių priklausomybę Lietuvai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Didieji kunigaikščiai, reikšdami teritorines
+    pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendru-
+    mu grindė žemaičių priklausomybę Lietuvai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
 
 ## Ryšiai
 ### Susiję objektai

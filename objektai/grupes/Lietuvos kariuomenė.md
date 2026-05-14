@@ -89,6 +89,14 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   teiginys: '1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.'
   pagrindžia:
     - c-019
+- t-014
+  teiginys: 'Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje), turinti 3 tūkst.'
+  pagrindžia:
+    - c-020
+- t-015
+  teiginys: 'Voldemaras, tapęs dar ir užsienio reikalų ministru, gerokai nustebino pareiškęs, kad neplanuoja kurti Lietuvos kariuomenės, nes esą Lietuva nesiruošianti kariauti – užteksią milicijos… Tačiau jau lapkričio 23-iąją A.'
+  pagrindžia:
+    - c-021
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -334,6 +342,37 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+- c-020
+  santrauka: 'Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje), turinti 3 tūkst.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1605 m. mūšyje prie Kirchholmo netoli Rygos J. K. Chodkevičiaus
+    vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje),
+    turinti 3 tūkst. raitelių, nugali 12 tūkst. švedų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-021
+  santrauka: 'Voldemaras, tapęs dar ir užsienio reikalų ministru, gerokai nustebino pareiškęs, kad neplanuoja kurti Lietuvos kariuomenės, nes esą Lietuva nesiruošianti kariauti – užteksią milicijos… Tačiau jau lapkričio 23-iąją A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kabinetas
+    pradėjo veikti 1918 m. lapkričio 11 d. Ekstravagantiškasis istorijos pro-
+    fesorius A. Voldemaras, tapęs dar ir užsienio reikalų ministru, gerokai
+    nustebino pareiškęs, kad neplanuoja kurti Lietuvos kariuomenės, nes esą
+    Lietuva nesiruošianti kariauti – užteksią milicijos…
+    Tačiau jau lapkričio 23-iąją A. Voldemarui teko skelbti mobilizaciją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
 
 ## Ryšiai
 ### Susiję objektai
@@ -344,3 +383,4 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 - [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Augustinas Voldemaras]]

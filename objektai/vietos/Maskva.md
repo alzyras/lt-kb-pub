@@ -78,6 +78,18 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginys: '„Senovės nekeitimo“ tezė tėra istoriografinis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo savarankiškais keliais.'
   pagrindžia:
     - c-015
+- t-017
+  teiginys: '1427 m. žygiavo į Maskvą padėti vaikaičiui Baziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą.'
+  pagrindžia:
+    - c-016
+- t-018
+  teiginys: 'Lietuva, Lenkijos padedama, atsilaikė prieš stačiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m. patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.'
+  pagrindžia:
+    - c-017
+- t-019
+  teiginys: 'Atsidūrusi Maskvoje ir iki šiol ten saugoma, ji tapo Lietuvos paveldo išbarstymo ar išgrobstymo simboliu, senosios Lietuvos valstybės likimo ženklu.'
+  pagrindžia:
+    - c-018
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -297,8 +309,54 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
+- c-016
+  santrauka: '1427 m. žygiavo į Maskvą padėti vaikaičiui Baziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1427 m. žygiavo į Maskvą padėti vaikaičiui
+    Baziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-017
+  santrauka: 'Lietuva, Lenkijos padedama, atsilaikė prieš stačiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m. patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuva, Lenkijos padedama, atsilaikė prieš sta-
+    čiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m.
+    patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemė-
+    lapio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-018
+  santrauka: 'Atsidūrusi Maskvoje ir iki šiol ten saugoma, ji tapo Lietuvos paveldo išbarstymo ar išgrobstymo simboliu, senosios Lietuvos valstybės likimo ženklu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Atsidūrusi Maskvoje ir
+    iki šiol ten saugoma, ji tapo Lietuvos paveldo išbarstymo ar išgrobstymo
+    simboliu, senosios Lietuvos valstybės likimo ženklu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Tverė]]
+- [[objektai/asmenys/Bazilius (Vasilius) II]]
+- [[objektai/vietos/Kijevas]]
 - [[objektai/vietos/Kremlius]]
+- [[objektai/vietos/Mohačas]]
+- [[objektai/vietos/Vengrija]]

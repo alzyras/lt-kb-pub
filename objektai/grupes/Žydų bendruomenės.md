@@ -43,3 +43,4 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/kahalai sėslumo riba]]
+- [[objektai/grupes/Žydai]]

@@ -151,6 +151,18 @@ Tautinis politinis judėjimas, kurį šaltinis apibūdina kaip tautos frontą ir
   teiginys: 'Tokie jaunimo muzikos koncertų žygiai per Lietuvą vyko 1987, 1988 ir 1989 m. vasarą – jie buvo skirti LPS idėjoms skleisti ir išlaisvinti režimo įbaugintus žmones.'
   pagrindžia:
     - c-014
+- t-015
+  teiginys: 'Vis dėlto šiandien į tokį vaidmenį pretenduoja ir 1988–1990 m. Lietuvos Sąjūdžio, Baltijos kelio ir Lietuvos Nepriklausomybės kūrėjai, taip pat Sausio 13-osios (1991) herojai, kurie sugebėjo įveikti pusamžį trukusią Vienas žymiausių M.'
+  pagrindžia:
+    - c-015
+- t-016
+  teiginys: 'Lietuvių inteligentų būrys 1988 m. birželio 3 d. Vilniuje Lietuvos mokslų akademijos salėje įsteigė Lietuvos Persitvarkymo Sąjūdžio (LPS) iniciatyvinę grupę.'
+  pagrindžia:
+    - c-003
+- t-017
+  teiginys: 'LPS tapo dar populiaresnis, kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūdžio žinios“, pradėtas leisti laikraštis „Atgimimas“ (red. Romualdas Ozolas).'
+  pagrindžia:
+    - c-017
 
 ## Reikšmingi paminėjimai
 
@@ -364,6 +376,37 @@ Tautinis politinis judėjimas, kurį šaltinis apibūdina kaip tautos frontą ir
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-014
+- c-015
+  santrauka: 'Vis dėlto šiandien į tokį vaidmenį pretenduoja ir 1988–1990 m. Lietuvos Sąjūdžio, Baltijos kelio ir Lietuvos Nepriklausomybės kūrėjai, taip pat Sausio 13-osios (1991) herojai, kurie sugebėjo įveikti pusamžį trukusią Vienas žymiausių M.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietu-
+    vos Sąjūdžio, Baltijos kelio ir Lietuvos Nepriklausomybės kūrėjai, taip pat
+    Sausio 13-osios (1991) herojai, kurie sugebėjo įveikti pusamžį trukusią
+    Vienas žymiausių M. K. Čiurlionio kūrinių
+    „Karalių pasaka“, 1909 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+    - t-016
+- c-017
+  santrauka: 'LPS tapo dar populiaresnis, kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūdžio žinios“, pradėtas leisti laikraštis „Atgimimas“ (red. Romualdas Ozolas).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    LPS tapo dar populiaresnis,
+    kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūdžio žinios“, pradėtas leisti
+    laikraštis „Atgimimas“ (red. Romualdas Ozolas).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
 
 ## Šaltiniai ir įrodymai
 
@@ -377,5 +420,8 @@ Tautinis politinis judėjimas, kurį šaltinis apibūdina kaip tautos frontą ir
 - [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio įkūrimas (1988 VI 3)]]
 - [[objektai/grupes/Lietuvos laisvės lyga]]
 - [[objektai/vietos/Lietuvos mokslų akademijos salė]]
+- [[objektai/asmenys/Romualdas Ozolas]]
+- [[objektai/ivykiai/Sausio 13-oji (1991 m.)]]
 - [[objektai/paprociai/Sąjūdžio masiniai mitingai ir reikalavimų viešinimas]]
 - [[objektai/zodynas/tautos frontas]]
+- [[objektai/posakiai/„Lietuva be suvereniteto – Lietuva be ateities.“]]

@@ -411,5 +411,4 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - [[objektai/asmenys/Algirdas]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/vietos/Galvės ežeras]]
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/zodynas/partizaniškas karas]]

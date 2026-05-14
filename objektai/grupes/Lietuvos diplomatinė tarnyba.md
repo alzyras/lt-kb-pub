@@ -62,8 +62,9 @@ Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rū
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/diplomatas]]
 - [[temos/drabužis]]
 
 ### Susiję objektai
+- [[objektai/vietos/JAV]]
 - [[objektai/ivykiai/Lietuvos diplomatinės tarnybos darbo pabaiga (1991 m. rugsėjo 6 d.)]]
+- [[objektai/vietos/Prancūzija]]

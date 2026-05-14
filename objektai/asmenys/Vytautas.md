@@ -328,7 +328,14 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginys: 'Tik Vytautas taps mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.'
   pagrindžia:
     - c-048
-
+- t-044
+  teiginys: 'kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jogaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis (valdė 1392–1430).'
+  pagrindžia:
+    - c-049
+- t-045
+  teiginys: 'Mūsų kultūroje ypač garbingą vietą užima žymiausių jos atstovų – Gedimino, Algirdo, Kęstučio, Vytauto – vardai, o dinastijos ženklas – Gediminaičių stulpai – yra vienas iš svarbiausių lietuvių tautos ir Lietuvos valstybės simbolių.'
+  pagrindžia:
+    - c-050
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Vytautas pabėgo iš Krėvos su Onos pagalba.
@@ -1078,6 +1085,35 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-043
+- c-049
+  santrauka: 'kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jogaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis (valdė 1392–1430).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jo-
+    gaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis
+    (valdė 1392–1430).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-044
+- c-050
+  santrauka: 'Mūsų kultūroje ypač garbingą vietą užima žymiausių jos atstovų – Gedimino, Algirdo, Kęstučio, Vytauto – vardai, o dinastijos ženklas – Gediminaičių stulpai – yra vienas iš svarbiausių lietuvių tautos ir Lietuvos valstybės simbolių.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Mūsų kultūroje
+    ypač garbingą vietą užima žymiausių jos atstovų – Gedimino, Algirdo,
+    Kęstučio, Vytauto – vardai, o dinastijos ženklas – Gediminaičių stulpai –
+    yra vienas iš svarbiausių lietuvių tautos ir Lietuvos valstybės simbolių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-045
 
 ## Ryšiai
 ### Laikotarpiai
@@ -1092,8 +1128,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
 - [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)]]
 - [[objektai/vietos/Gardinas]]
+- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/daiktai/Gediminaičių stulpai]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/ivykiai/Vytauto mirtis (1430 m. spalio 27 d.)]]
-- [[objektai/zodynas/karo taryba]]
-- [[objektai/grupes/Žemaičiai]]

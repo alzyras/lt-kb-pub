@@ -73,6 +73,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/1792 m. LLV ir Rusijos karas]]
+- [[objektai/vietos/Brasta]]
 - [[objektai/asmenys/Juzefas Poniatovskis]]
-- [[objektai/asmenys/Stanislovas Augustas Poniatovskis]]

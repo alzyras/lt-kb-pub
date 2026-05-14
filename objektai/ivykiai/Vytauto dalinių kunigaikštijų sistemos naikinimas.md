@@ -35,6 +35,10 @@ Nenurodyta
   teiginys: 'Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureikšminimai nulėmė, kad Vytautas pradėtas vadinti Didžiuoju.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Vytauto laikų permainos Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureikšminimai nulėmė, kad Vytautas pradėtas vadinti Didžiuoju.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -51,6 +55,7 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -37,6 +37,14 @@ tags:
   teiginys: 'Tiesa, Latvija 1921 m. vasario 16 d. pripažino Lietuvą de jure – Lietuvos tarptautinės izoliacijos metu tai buvo didelė parama.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Kairės demokratija ir 1926 metų gruodžio perversmas Nepaisant geografinio artumo, istorijos bendrumo, etninės giminystės (tarp latvių ir lietuvių) ryšiai su Latvija ir Estija nesiplėtojo.'
+  pagrindžia:
+    - c-004
+- t-007
+  teiginys: 'Tačiau ji negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto, nors sustiprino regiono šalių bendradarbiavimą.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -111,8 +119,24 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+    - t-006
+- c-007
+  santrauka: 'Tačiau ji negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto, nors sustiprino regiono šalių bendradarbiavimą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau ji negaran-
+    tavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus
+    krašto, nors sustiprino regiono šalių bendradarbiavimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Baltijos antantė]]
 - [[objektai/vietos/Estija]]
 - [[objektai/ivykiai/Latvijos de jure Lietuvos pripažinimas ir Lietuvos–Latvijos sienos nustatymas (1921 m.)]]

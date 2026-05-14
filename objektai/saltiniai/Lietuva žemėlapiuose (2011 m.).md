@@ -22,6 +22,10 @@ Lietuva žemėlapiuose.
   teiginys: 'Lietuva žemėlapiuose.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Vilnius, 2009; Lietuva žemėlapiuose.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -37,3 +41,4 @@ Lietuva žemėlapiuose.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002

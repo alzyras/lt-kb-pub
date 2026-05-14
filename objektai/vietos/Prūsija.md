@@ -50,6 +50,14 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginys: 'Visų pirma – tai Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa, pateikusi pirmą lietuvišką knygą, o ir pradėjusi lietuviakalbės raštijos tradiciją, tačiau ji buvo kuriama emigracijoje – Prūsijoje, ir jos neprireikė LDK elitui.'
   pagrindžia:
     - c-010
+- t-012
+  teiginys: 'Lenkijai ir Lietuvai grasino ne tik stiprėjanti Petro I Rusija, bet ir 1701 m. karalyste tapusi Prūsija – šios centralizuotos valstybės ilgainiui nulems tolesnį ATR likimą.'
+  pagrindžia:
+    - c-011
+- t-013
+  teiginys: '1793 m. sausio 21 d. Prancūzijoje nukirsdinus Liudviką XVI, sausio 23-iąją Rusija kartu su Prūsija įvykdė antrąjį LLV padalijimą.'
+  pagrindžia:
+    - c-012
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -133,6 +141,33 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+- c-011
+  santrauka: 'Lenkijai ir Lietuvai grasino ne tik stiprėjanti Petro I Rusija, bet ir 1701 m. karalyste tapusi Prūsija – šios centralizuotos valstybės ilgainiui nulems tolesnį ATR likimą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lenkijai ir Lietuvai grasino ne tik stiprėjanti Petro I Rusija, bet ir
+    1701 m. karalyste tapusi Prūsija – šios centralizuotos valstybės ilgainiui
+    nulems tolesnį ATR likimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-012
+  santrauka: '1793 m. sausio 21 d. Prancūzijoje nukirsdinus Liudviką XVI, sausio 23-iąją Rusija kartu su Prūsija įvykdė antrąjį LLV padalijimą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1793 m. sausio 21 d. Prancūzijoje nukirsdinus Liudviką XVI, sausio
+    23-iąją Rusija kartu su Prūsija įvykdė antrąjį LLV padalijimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
 
 ## Pavadinimai šaltiniuose
 
@@ -155,4 +190,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - [[objektai/paprociai/Vienkieminis gyvenimas dėl taikos ir gaisrų saugos]]
 - [[objektai/zodynas/paliaubos]]
 - [[objektai/vietos/Gumbinė]]
+- [[objektai/asmenys/Liudvikas XVI]]
 - [[objektai/asmenys/Martynas Mažvydas]]
+- [[objektai/asmenys/Petras I]]

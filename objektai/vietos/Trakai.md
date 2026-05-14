@@ -101,6 +101,10 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginys: 'Vytautas perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke.'
   pagrindžia:
     - c-020
+- t-020
+  teiginys: 'Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos tyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586).'
+  pagrindžia:
+    - c-021
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -338,6 +342,19 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-019
+- c-021
+  santrauka: 'Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos tyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos
+    tyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
 
 ## Ryšiai
 ### Susiję objektai
@@ -346,3 +363,4 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - [[objektai/vietos/Naugardukas]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/ivykiai/Vytauto mirtis (1430 m. spalio 27 d.)]]
+- [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų]]

@@ -764,5 +764,4 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
 - [[objektai/asmenys/Vytautas]]
 - [[objektai/ivykiai/Krėvos sutarties priėmimas]]
 - [[objektai/ivykiai/Krėvos sutartis (1385 m.)]]
-- [[objektai/asmenys/Kęstutis]]
 - [[objektai/zodynas/vyskupystė]]

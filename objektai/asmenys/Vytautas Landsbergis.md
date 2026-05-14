@@ -44,7 +44,6 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   teiginys: 'Landsbergį, nors sunkumai buvo senosios ekonomikos pasekmės.'
   pagrindžia:
     - c-008
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio 25 d. išrinktas muzikologas Vytautas Landsbergis.'

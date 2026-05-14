@@ -38,3 +38,7 @@ Lenkijai ir Lietuvai grasino ne tik stiprėjanti Petro I Rusija, bet ir 1701 m. 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Prūsija]]

@@ -96,5 +96,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/diplomatas]]
 - [[temos/tikėjimas]]

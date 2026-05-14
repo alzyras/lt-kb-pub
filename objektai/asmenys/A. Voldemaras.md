@@ -51,6 +51,14 @@ Voldemarą ir M. Ministerių pirmininkas Voldemaras, manydamas, kad taikingos ir
   teiginys: 'Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino politinių partijų vaidmens, esą atstovavusių tik dalies, o ne visos tautos valiai, ir neketino sugrįžti į vadinamuosius „seimų laikus“, prilygintus netvarkai ir anarchijai.'
   pagrindžia:
     - c-009
+- t-010
+  teiginys: 'Voldemaras, užėmęs ne tik premjero, bet ir užsienio reikalų ministro postus.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Voldemaras užsienio politiką stumtelėjo radikalesne kryptimi, pabrėžęs, kad politika su Lenkija nesikeičia, tačiau be Vilniaus Lietuva nėra vienas kūnas.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -157,11 +165,40 @@ Voldemarą ir M. Ministerių pirmininkas Voldemaras, manydamas, kad taikingos ir
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-010
+  santrauka: 'Voldemaras, užėmęs ne tik premjero, bet ir užsienio reikalų ministro postus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kol kas viešojoje erdvėje dominuoja ekstrava-
+    gantiškas, dėl savo oratorinių sugebėjimų geriausiai Vakaruose žinomas
+    lietuvis A. Voldemaras, užėmęs ne tik premjero, bet ir užsienio reikalų
+    ministro postus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Voldemaras užsienio politiką stumtelėjo radikalesne kryptimi, pabrėžęs, kad politika su Lenkija nesikeičia, tačiau be Vilniaus Lietuva nėra vienas kūnas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    A. Voldemaras užsienio politiką
+    stumtelėjo radikalesne kryptimi, pabrėžęs, kad politika su Lenkija nesi-
+    keičia, tačiau be Vilniaus Lietuva nėra vienas kūnas. Neatsisakęs derybų
+    su Lenkija, manydamas jų metu parodyti, kad Vilniaus klausimas nėra
+    išspręstas, A. Voldemaras prašovė – 1927 m. balandį derybose Lenkija
+    atsisakė kalbėtis dėl Vilniaus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/posakiai/„seimų laikus“]]

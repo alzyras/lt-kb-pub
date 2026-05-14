@@ -72,4 +72,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Nesvyžius]]
 - [[objektai/vietos/Vilniaus katedra]]

@@ -24,6 +24,10 @@ m. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J 
   teiginys: 'm. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 111 gija išleido iš Lietuvos kilusio kunigo ir teologo Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“, kurioje pirmą.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: '1808 m. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 111 gija išleido iš Lietuvos kilusio kunigo ir teologo Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“, kurioje.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -41,6 +45,7 @@ m. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

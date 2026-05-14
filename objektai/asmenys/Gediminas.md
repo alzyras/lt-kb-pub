@@ -127,6 +127,10 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   teiginys: 'Aiškindamas Gedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir išpranašaus Vilniaus įkūrimą ir šlovę.'
   pagrindžia:
     - c-024
+- t-026
+  teiginys: 'Lietuva liks savarankiška civilizacinė monada, todėl tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš svetur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais.'
+  pagrindžia:
+    - c-025
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -361,11 +365,22 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   pagrindžia:
     - t-024
     - t-025
+- c-025
+  santrauka: 'Lietuva liks savarankiška civilizacinė monada, todėl tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš svetur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuva liks savarankiška civilizacinė monada, todėl
+    tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš sve-
+    tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
 
@@ -373,3 +388,4 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
 - [[objektai/asmenys/Kęstutis]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Algirdas]]

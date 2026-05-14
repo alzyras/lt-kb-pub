@@ -61,4 +61,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Žydų bendruomenės]]

@@ -55,8 +55,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]

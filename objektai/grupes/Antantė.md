@@ -100,4 +100,5 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Vokietija]]
 - [[objektai/zodynas/de jure]]

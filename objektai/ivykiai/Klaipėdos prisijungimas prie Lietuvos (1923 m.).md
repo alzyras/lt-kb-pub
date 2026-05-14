@@ -179,6 +179,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Ambasadorių Konferencija]]
 - [[objektai/asmenys/Gabrielis Žanas Petisnė]]
+- [[objektai/vietos/Klaipėda]]
 - [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas]]
 - [[objektai/zodynas/fait accompli]]
 - [[objektai/zodynas/laisvojo miesto statusas]]

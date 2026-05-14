@@ -209,3 +209,4 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 ### Susiję objektai
 - [[objektai/grupes/Domininkonų ordinas]]
 - [[objektai/grupes/Hanza]]
+- [[objektai/vietos/Vilnius]]

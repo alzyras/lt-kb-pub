@@ -81,4 +81,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Kandidatas 45 Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai]]
+- [[objektai/autoriai/Mykolas Kleopas Oginskis]]
 - [[objektai/ivykiai/Rusijos vietinio valdymo sistemos įvedimas aneksuotoje LDK dalyje]]

@@ -54,8 +54,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]
-
 ### Susiję objektai
 - [[objektai/vietos/Ženeva]]

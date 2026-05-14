@@ -40,7 +40,3 @@ Sapiegos f-ja). Šapoka, Leonas Sapiega kaip Liet. Paskutiniai Zigmanto Vazos la
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]

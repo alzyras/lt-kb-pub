@@ -48,6 +48,10 @@ Nenurodyta
   teiginys: 'Kartais abejojama, ar Gegužės trečioji yra ir Lietuvos valdymo įstatymas.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -111,6 +115,7 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

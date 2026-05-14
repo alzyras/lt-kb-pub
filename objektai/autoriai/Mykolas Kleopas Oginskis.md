@@ -62,6 +62,11 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
   teiginys: '1794 m. sukilėlis, paskutinio LDK atkūrimo projekto autorius Mykolas Kleopas Oginskis.'
   pagrindžia:
     - c-002
+- t-005
+  teiginys: 'Liko galioti Lietuvos Statutas, lenkų kalba leista savivaldos institucijose, aps- 1794 m. sukilėlis, paskutinio LDK atkūrimo projekto autorius Mykolas Kleopas Oginskis.'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Oginskis pristatomas kaip kompozitorius ir polonezo autorius.
@@ -115,8 +120,29 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Liko galioti Lietuvos Statutas, lenkų kalba leista savivaldos institucijose, aps- 1794 m. sukilėlis, paskutinio LDK atkūrimo projekto autorius Mykolas Kleopas Oginskis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Liko ga-
+    lioti Lietuvos Statutas, lenkų kalba
+    leista savivaldos institucijose, aps-
+    1794 m. sukilėlis, paskutinio
+    LDK atkūrimo projekto autorius
+    Mykolas Kleopas Oginskis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XVIII amžius]]
+
+### Susiję objektai
+- [[objektai/paprociai/Kandidatas 45 Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai]]
+- [[objektai/paprociai/Kandidatas Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai]]

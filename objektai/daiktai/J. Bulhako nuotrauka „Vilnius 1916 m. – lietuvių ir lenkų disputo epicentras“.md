@@ -36,6 +36,10 @@ Nenurodyta
   teiginys: 'Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Pasitarimai vyko, teikta ir pasiūlymų, tačiau visus Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -51,3 +55,4 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002

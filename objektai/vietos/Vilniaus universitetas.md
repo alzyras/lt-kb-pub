@@ -31,7 +31,6 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
   teiginys: 'Šiauriausias katalikiškas ir ryčiausias Europos universitetas – tai svarbiausia senojo jėzuitų universiteto reikšmė.'
   pagrindžia:
     - c-004
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Manoma, kad studijų lygis senajame universitete nebuvo menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose.'
@@ -80,5 +79,4 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
 - [[objektai/autoriai/Andrius Rudamina]]
 - [[objektai/vietos/Praha]]
 - [[objektai/vietos/Vidurio Europa]]
-- [[objektai/vietos/Viena]]
 - [[objektai/posakiai/„Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją...“]]

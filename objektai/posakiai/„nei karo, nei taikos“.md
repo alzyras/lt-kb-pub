@@ -44,3 +44,4 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Rytų Lietuva]]
+- [[objektai/vietos/Vidurinė Lietuva]]

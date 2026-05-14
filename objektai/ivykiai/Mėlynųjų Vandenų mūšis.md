@@ -51,8 +51,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
-- [[objektai/ivykiai/Rusios žemių prijungimai prie Lietuvos]]

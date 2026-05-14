@@ -117,10 +117,5 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
     - t-005
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]
-
 ### Susiję objektai
-- [[objektai/grupes/Ambasadorių Konferencija]]
 - [[objektai/daiktai/Bomba]]
-- [[objektai/zodynas/administracinė linija demarkacijos linija]]

@@ -93,9 +93,5 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]
-
 ### Susiję objektai
-- [[objektai/zodynas/ES pilietis]]
 - [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]

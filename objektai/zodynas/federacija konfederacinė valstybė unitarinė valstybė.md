@@ -42,7 +42,3 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]

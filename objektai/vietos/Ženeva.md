@@ -22,7 +22,6 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
   teiginys: 'Todėl tik 1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjunga – Baltijos antantė arba Baltijos santarvė.'
   pagrindžia:
     - c-004
-
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Todėl tik 1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjunga – Baltijos antantė arba Baltijos santarvė.'

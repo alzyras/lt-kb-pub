@@ -37,6 +37,10 @@ Nenurodyta
   teiginys: 'Vokiečių ordino riteris pagrobia vaiką.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Nors žemaičiai Saulės mūšyje 1236 m. šį žygį Vokiečių ordino riteris pagrobia vaiką.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -52,3 +56,4 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002

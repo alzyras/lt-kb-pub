@@ -44,6 +44,10 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
   teiginys: 'Tūbelio ministrų kabinetas, premjerą pakeitė kitas A.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Tūbelis puikiai išmanė Lietuvos ekonomiką ir finansus, kietai priešinosi lito nuvertinimui, o atsargi ekonominė politika leido atlaikyti krizę, valstybės finansai nepakriko, valstybė nebrido ir neįbrido į nepakeliamas skolas.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -134,6 +138,21 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Tūbelis puikiai išmanė Lietuvos ekonomiką ir finansus, kietai priešinosi lito nuvertinimui, o atsargi ekonominė politika leido atlaikyti krizę, valstybės finansai nepakriko, valstybė nebrido ir neįbrido į nepakeliamas skolas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    J. Tūbelis puikiai išmanė Lietuvos ekonomiką ir finansus, kietai
+    priešinosi lito nuvertinimui, o atsargi ekonominė politika leido atlaikyti
+    krizę, valstybės finansai nepakriko, valstybė nebrido ir neįbrido į nepa-
+    keliamas skolas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai

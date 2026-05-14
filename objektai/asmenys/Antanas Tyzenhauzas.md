@@ -62,6 +62,10 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   teiginys: 'Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė matininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine.'
   pagrindžia:
     - c-005
+- t-007
+  teiginys: 'Tyzenhauzo reformos buvo vienas iš svarbiausių XVIII a.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -140,6 +144,19 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-006
+  santrauka: 'Tyzenhauzo reformos buvo vienas iš svarbiausių XVIII a.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    A. Tyzenhauzo reformos buvo vienas iš svarbiau-
+    sių XVIII a. pabaigos Lietuvos gyvenimo reiškinių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Laikotarpiai

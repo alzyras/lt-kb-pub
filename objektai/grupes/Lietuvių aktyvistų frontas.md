@@ -87,6 +87,15 @@ Politinė ir rezistencinė lietuvių emigrantų organizacija, veikusi Antrojo pa
   teiginys: 'Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis dėmesys buvo kreipiamas į galimybes atkurti Lietuvos valstybingumą, būsimo sukilimo detales.'
   pagrindžia:
     - c-002
+- t-007
+  teiginys: 'Daugumą visose profesijose šalyje sudarė lietuviai, tačiau žydų verslininkai dominavo eksporte ir importe, be to, žydai sudarė 83 proc.'
+  pagrindžia:
+    - c-005
+- t-008
+  teiginys: 'LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje).'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 
 - c-002
@@ -132,6 +141,23 @@ Politinė ir rezistencinė lietuvių emigrantų organizacija, veikusi Antrojo pa
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Daugumą visose profesijose šalyje sudarė lietuviai, tačiau žydų verslininkai dominavo eksporte ir importe, be to, žydai sudarė 83 proc.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Dau-
+    gumą visose profesijose šalyje sudarė lietuviai, tačiau žydų verslininkai
+    dominavo eksporte ir importe, be to, žydai sudarė 83 proc. visų prekybos
+    įmonių savininkų, lietuviai – vos 13 proc.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+    - t-008
+
 ## Šaltiniai ir įrodymai
 
 ## Ryšiai

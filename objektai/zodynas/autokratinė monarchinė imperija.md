@@ -25,6 +25,10 @@ tags:
   teiginys: 'L DK teritorijų prijungimas prie Rusijos reiškė patekimą į autokratinės monarchinės imperijos valdžią, kuri realizuota pasitelkus monarchui pavaldų centralizuotą biurokratinį aparatą.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'BUVUSIO VALSTYBINGUMO TRAUKOJE Kultūrinė autonomija Napoleono šešėlyje L DK teritorijų prijungimas prie Rusijos reiškė patekimą į autokratinės monarchinės imperijos valdžią, kuri realizuota pasitelkus monarchui pavaldų centralizuotą biurokratinį aparatą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -62,6 +66,7 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

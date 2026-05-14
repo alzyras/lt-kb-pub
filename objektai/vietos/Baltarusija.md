@@ -34,7 +34,6 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   teiginys: 'Gerai klostėsi ekonominiai santykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lukašenkos diktatūrinis valdymas.'
   pagrindžia:
     - c-004
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti Lietuva, o šiandien ją vadiname istorine Lietuva.'

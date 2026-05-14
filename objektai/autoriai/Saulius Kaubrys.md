@@ -63,5 +63,6 @@ dr. Sauliui Kaubriui ir daugeliui kitų, prisidėjusių prie jos parengimo, iliu
 - [[temos/žemėlapis]]
 
 ### Susiję objektai
+- [[objektai/autoriai/Alfonsas Eidintas]]
 - [[objektai/autoriai/Kaubrys S]]
 - [[objektai/autoriai/Zenonas Butkus]]

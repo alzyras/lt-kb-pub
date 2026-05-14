@@ -96,8 +96,3 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kuršas]]
-- [[objektai/zodynas/tautų apsisprendimo teisė tautų apsisprendimo principas]]

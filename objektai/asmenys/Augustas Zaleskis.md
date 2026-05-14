@@ -39,3 +39,7 @@ Po susitikimo Paryžiuje su Lenkijos užsienio reikalų ministru Augustu Zaleski
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Paryžius]]

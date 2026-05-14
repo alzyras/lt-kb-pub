@@ -80,4 +80,3 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Daumantas]]
-- [[objektai/vietos/Durbė]]

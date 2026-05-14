@@ -36,6 +36,10 @@ Nenurodyta
   teiginys: 'Rusijos imperijos priespaudos laikų švietimą lietuvių kalba vaizduojanti alegorinė skulptūra „Lietuvos mokykla 1864–1904“.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Rusų kalba Rusijos imperijos priespaudos laikų švietimą lietuvių kalba vaizduojanti alegorinė skulptūra „Lietuvos mokykla 1864–1904“.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -53,3 +57,4 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002

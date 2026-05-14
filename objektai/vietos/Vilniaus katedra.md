@@ -116,5 +116,6 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Nesvyžius]]
 - [[objektai/daiktai/Vilniaus katedros portalo kolonada ir frontono skulptūros]]
 - [[objektai/ivykiai/Vytauto palaidojimas Vilniaus katedroje]]

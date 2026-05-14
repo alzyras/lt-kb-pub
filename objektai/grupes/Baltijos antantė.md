@@ -42,5 +42,6 @@ Todėl tik 1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos valstybių politin
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]
+### Susiję objektai
+- [[objektai/vietos/Estija]]
+- [[objektai/vietos/Latvija]]

@@ -44,6 +44,10 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
   teiginys: 'Pilsudskio pavyzdžiu pastatyti visus į fait accompli padėtį ir tada derėtis.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Lietuvos, kuri yra „tėvyninė“ šalis.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -137,9 +141,24 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Lietuvos, kuri yra „tėvyninė“ šalis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lenkija laikėsi ramiai, privengdama karinės Vokie-
+    tijos reakcijos – J. Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir
+    kad jis nepuls Lietuvos, kuri yra „tėvyninė“ šalis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/J. Pilsudskis]]
 - [[objektai/grupes/Lenkų socialistų partija]]
 - [[objektai/asmenys/Romanas Dmovskis]]
+- [[objektai/posakiai/„tėvyninė“ šalis]]

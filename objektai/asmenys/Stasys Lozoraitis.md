@@ -100,9 +100,6 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Magdalena Avietėnaitė]]
 - [[objektai/daiktai/Monumentalios Lietuvos istorijos drobės]]

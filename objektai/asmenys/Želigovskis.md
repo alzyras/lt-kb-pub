@@ -95,7 +95,3 @@ Iš tikro Želigovskio kariuomenė buvo taip sudaryta, kad joje būtų daug viln
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]

@@ -44,6 +44,18 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   teiginys: 'Siekdami pateisinti gruodžio įvykius tautininkai ir krikščionys demokratai skelbė Lietuvą išgelbėję nuo komunistų perversmo (1924 m. gruodžio 1 d. komunistų pučas Estijoje rodė esant tokią galimybę).'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Tačiau ji negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto, nors sustiprino regiono šalių bendradarbiavimą.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Klaipėdos kraštas daugeliu išsivystymo parametrų buvo panašesnis į Latviją ir Estiją, negu į Didžiąją Lietuvą.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Neutralumo įstatymu besiginantį Kauną sukrėtė naujiena apie nacių ir sovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sferomis: Suomija, Estija ir Latvija atiteko.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -117,9 +129,55 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Tačiau ji negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto, nors sustiprino regiono šalių bendradarbiavimą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau ji negaran-
+    tavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus
+    krašto, nors sustiprino regiono šalių bendradarbiavimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Klaipėdos kraštas daugeliu išsivystymo parametrų buvo panašesnis į Latviją ir Estiją, negu į Didžiąją Lietuvą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Klaipėdos kraštas dauge-
+    liu išsivystymo parametrų buvo panašesnis į Latviją ir Estiją, negu į Di-
+    džiąją Lietuvą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Neutralumo įstatymu besiginantį Kauną sukrėtė naujiena apie nacių ir sovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sferomis: Suomija, Estija ir Latvija atiteko.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Neutralumo įstatymu besiginantį Kauną sukrėtė naujiena apie nacių ir
+    sovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS
+    pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sfero-
+    mis: Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Baltijos antantė]]
 - [[objektai/vietos/Dauguva]]
 - [[objektai/vietos/Latvija]]
 - [[objektai/grupes/Lietuvių tautininkų sąjunga]]
+- [[objektai/ivykiai/Molotovo-Ribentropo pakto ir slaptojo protokolo pasirašymas (1939 m. rugpjūčio 23 d.)]]
+- [[objektai/vietos/Suomija]]

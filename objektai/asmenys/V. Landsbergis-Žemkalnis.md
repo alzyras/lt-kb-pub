@@ -25,6 +25,10 @@ Landsbergis-Žemkalnis, 1938. Landsbergis-Žemkalnis.
   teiginys: 'Landsbergis-Žemkalnis.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Landsbergis-Žemkalnis, 1938 A.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -53,6 +57,20 @@ Landsbergis-Žemkalnis, 1938. Landsbergis-Žemkalnis.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Landsbergis-Žemkalnis, 1938 A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Architektas V. Landsbergis-Žemkalnis, 1938
+    A. Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir
+    dvasios, nors ir nemažai kalbėta apie lietuvių tautinės kultūros kūrimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

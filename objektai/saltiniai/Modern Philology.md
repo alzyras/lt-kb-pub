@@ -22,6 +22,10 @@ Dwight Iš jo „Modern Philology“ („Modernioji filologija“).
   teiginys: 'Dwight Iš jo „Modern Philology“ („Modernioji filologija“).'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Dwight Iš jo „Modern Philology“ („Modernioji filologija“) X X a.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -43,3 +47,24 @@ Dwight Iš jo „Modern Philology“ („Modernioji filologija“).
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Dwight Iš jo „Modern Philology“ („Modernioji filologija“) X X a.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jeigu tautos vertė, imant visą
+    žmoniją, būtų matuojama kalbos grožiu, tai lietuvių tauta turėtų
+    užimti pirmą vietą tarp Europos tautų“
+    Benjamin W. Dwight
+    Iš jo „Modern Philology“ („Modernioji filologija“)
+    X
+    X a. pradžioje apie lietuvių tautos egzistenciją gerai
+    žinojo tik žymūs to meto lingvistai, keldami lietuvių
+    kalbos savitumą, jos išsaugotas archajines indoeuropiečių kalbos formas
+    ir vertingumą lyginamajai kalbotyrai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

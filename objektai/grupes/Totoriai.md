@@ -90,6 +90,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginys: 'Taigi net jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje, pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruomenių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.'
   pagrindžia:
     - c-018
+- t-012
+  teiginys: 'LDK iki unijos su Lenkija savo kultūrine ir konfesine įvairove lenkė Lenkiją ir jungtinėje valstybėje šią įvairovę padidino (pavyzdžiui, turėdama totorių musulmonų, kurių iki tol Lenkijoje nebuvo).'
+  pagrindžia:
+    - c-019
+- t-013
+  teiginys: 'Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją, o iš jos per totorius galėsime pasiekti ir Kiniją.'
+  pagrindžia:
+    - c-020
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -342,6 +350,36 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+- c-019
+  santrauka: 'LDK iki unijos su Lenkija savo kultūrine ir konfesine įvairove lenkė Lenkiją ir jungtinėje valstybėje šią įvairovę padidino (pavyzdžiui, turėdama totorių musulmonų, kurių iki tol Lenkijoje nebuvo).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    LDK iki unijos su Lenkija savo kultūrine ir konfesine įvairove len-
+    kė Lenkiją ir jungtinėje valstybėje šią įvairovę padidino (pavyzdžiui,
+    turėdama totorių musulmonų, kurių iki tol Lenkijoje nebuvo).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-020
+  santrauka: 'Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją, o iš jos per totorius galėsime pasiekti ir Kiniją.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Be to, reikia neužmirš-
+    ti Švedijos ir Livonijos.“ Šios ambicijos nebeatrodo geografiškai tokios
+    naivios, kai prisimename Vilniaus universiteto auklėtinį Andrių Ruda-
+    miną, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo
+    1626–1634 m. ir rašė asketikos veikalus kinų kalba.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
 
 ## Ryšiai
 ### Laikotarpiai
@@ -349,6 +387,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - [[laikotarpiai/XVI amžius]]
 
 ### Susiję objektai
+- [[objektai/autoriai/Andrius Rudamina]]
 - [[objektai/grupes/Karaimai]]
 - [[objektai/daiktai/Vežimai]]
 - [[objektai/grupes/Vokiečių ordinas]]

@@ -154,9 +154,6 @@ tags:
     - t-007
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]
-
 ### Susiję objektai
 - [[objektai/vietos/Briuselis]]
 - [[objektai/grupes/Europos Parlamentas]]

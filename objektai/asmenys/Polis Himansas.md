@@ -60,4 +60,5 @@ Derybų su Lenkija mediatoriumi tapo buvęs Belgijos užsienio reikalų ministra
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Tautų Sąjunga]]
 - [[objektai/posakiai/„bazę diskusijom“]]

@@ -42,3 +42,6 @@ Vilnius: Spaudos departamentas, 1991; A.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dokumentas]]
+
+### Susiję objektai
+- [[objektai/autoriai/Alfonsas Eidintas]]

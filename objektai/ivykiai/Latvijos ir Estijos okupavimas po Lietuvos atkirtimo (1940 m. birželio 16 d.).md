@@ -34,6 +34,10 @@ Nenurodyta
   teiginys: '1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietuvos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu okupuotos ir dvi gretimos Baltijos valstybės.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Lietuvos sovietizacija 1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietuvos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu okupuotos ir dvi gretimos Baltijos valstybės.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -51,3 +55,4 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002

@@ -110,9 +110,6 @@ Nenurodyta
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Lietuvos krikštas]]
 - [[objektai/vietos/Žemaitija]]

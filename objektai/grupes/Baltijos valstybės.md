@@ -59,3 +59,7 @@ Neturėdamos jokio pasirinkimo, trys Baltijos valstybės paruošė neutralumo į
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Berlynas]]

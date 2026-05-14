@@ -34,7 +34,6 @@ Tiek jų lyrika, tiek klasiškoji Baranausko poema „Anykščių šilelis" nega
   teiginys: 'Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valstybė, kuri juos laikytų ir savo kultūros politikos dalimi.'
   pagrindžia:
     - c-007
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tiek jų lyrika, tiek klasiškoji Baranausko poema „Anykščių šilelis" negalės būti niekad užmirštos.'

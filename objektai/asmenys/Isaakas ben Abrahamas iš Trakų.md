@@ -61,3 +61,6 @@ Isaakas ben Abrahamas iš Trakų pristatomas kaip iš LDK karaimų bendruomenės
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]
+
+### Susiję objektai
+- [[objektai/vietos/Trakai]]

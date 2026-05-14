@@ -30,6 +30,10 @@ tags:
   teiginys: 'Lietuvos vardas pašalintas iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: '1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos dalies apskričių buvo sudaryta Kauno gubernija, o prie Vilniaus gubernijos priskirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms, todėl caro valdžia etnografiškai.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -75,8 +79,26 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: '1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos dalies apskričių buvo sudaryta Kauno gubernija, o prie Vilniaus gubernijos priskirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms, todėl caro valdžia etnografiškai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos dalies
+    apskričių buvo sudaryta Kauno gubernija, o prie Vilniaus gubernijos pri-
+    skirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino guberni-
+    joms, todėl caro valdžia etnografiškai lietuviška ėmė laikyti tik Kauno gu-
+    berniją, o Vilniaus guberniją priskyrė prie baltarusiškų, nors vakarinėje
+    Vilniaus gubernijos dalyje tebevyravo lietuviškai kalbantieji.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kauno gubernija]]
 - [[objektai/vietos/Vilniaus gubernija]]
 - [[objektai/vietos/Šiaurės Vakarų kraštas]]

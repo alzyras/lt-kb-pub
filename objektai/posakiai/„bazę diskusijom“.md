@@ -42,3 +42,4 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Polis Himansas]]
+- [[objektai/grupes/Tautų Sąjunga]]

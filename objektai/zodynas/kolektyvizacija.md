@@ -27,6 +27,10 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
   teiginys: 'Kolektyvizacija reiškė ir vienkiemių mirtį.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Tačiau kolektyvizacija staigiai nusmukdė Lietuvos žemės ūkį – nepriklausomos Lietuvos žemės ūkio prieškarinį gamybos lygį pagal javų Raudonosios gurguolės.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -60,3 +64,18 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Tačiau kolektyvizacija staigiai nusmukdė Lietuvos žemės ūkį – nepriklausomos Lietuvos žemės ūkio prieškarinį gamybos lygį pagal javų Raudonosios gurguolės.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    derlingumą, gyvulių skaičių ir jų produktyvumą LSSR pasiekė tik po
+    20 metų. Varu varomi į kolūkius valstiečiai nesistengė sąžiningai dirbti,
+    mažai uždirbdami, nepaisydami didelių bausmių, pradėjo vogti iš kolū-
+    kių (manyta, kad tai nėra nusikaltimas), neliko pagarbos darbui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

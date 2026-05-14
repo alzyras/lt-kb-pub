@@ -79,3 +79,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Kandidatas Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]
+- [[objektai/vietos/Krokuva]]

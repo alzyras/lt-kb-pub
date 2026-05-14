@@ -41,6 +41,14 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   teiginys: 'Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsijai ji priklausė iki 1806 m., kai Napoleonas įkūrė Varšuvos kunigaikštiją; 1815 m. Užnemunė atiteko Rusijai).'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 101 klausė gubernijai, kuri iš pradžių vadinta Augustavo, o nuo 1867 m. Suvalkų gubernija – tai maždaug šeštadalis dabartinės Lietuvos.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Iki 1807 m. Užnemunė priklausė Prūsijai, 1807–1814 m. – Napoleono Bonaparto įkurtai Varšuvos kunigaikštystei.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -135,9 +143,42 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 101 klausė gubernijai, kuri iš pradžių vadinta Augustavo, o nuo 1867 m. Suvalkų gubernija – tai maždaug šeštadalis dabartinės Lietuvos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos Užnemunė pri-
+
+    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
+    101
+    klausė gubernijai, kuri iš pradžių vadinta Augustavo, o nuo 1867 m. Su-
+    valkų gubernija – tai maždaug šeštadalis dabartinės Lietuvos teritorijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Iki 1807 m. Užnemunė priklausė Prūsijai, 1807–1814 m. – Napoleono Bonaparto įkurtai Varšuvos kunigaikštystei.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Iki 1807 m. Užnemunė priklausė Prūsijai, 1807–1814 m. – Napoleono
+    Bonaparto įkurtai Varšuvos kunigaikštystei.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Augustavo gubernija]]
 - [[objektai/vietos/Klaipėda]]
 - [[objektai/asmenys/Napoleonas Bonapartas]]
 - [[objektai/vietos/Naujoji Prūsija]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Suvalkų gubernija]]

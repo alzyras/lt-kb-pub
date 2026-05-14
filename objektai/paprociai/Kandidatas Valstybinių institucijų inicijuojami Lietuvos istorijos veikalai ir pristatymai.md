@@ -99,9 +99,6 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Kandidatas 1 Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai]]
 - [[objektai/ivykiai/Lietuvos skyriaus parengimas 1939 m. pasaulinei parodai Niujorke]]

@@ -155,9 +155,6 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     - t-007
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/A. Hitleris]]
 - [[objektai/asmenys/Edvardas Rydzas-Smiglas]]

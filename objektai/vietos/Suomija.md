@@ -60,5 +60,6 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Estija]]
 - [[objektai/ivykiai/Molotovo-Ribentropo pakto ir slaptojo protokolo pasirašymas (1939 m. rugpjūčio 23 d.)]]
 - [[objektai/vietos/SSRS]]

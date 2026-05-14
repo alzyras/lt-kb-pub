@@ -134,8 +134,6 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ambasadorių Konferencija]]
-- [[objektai/asmenys/Ernestas Galvanauskas]]
 - [[objektai/ivykiai/Incidentas prie Lietuvos ir Lenkijos administracinės linijos (1938 m. kovo 11 d.)]]
 - [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/zodynas/administracinė linija]]

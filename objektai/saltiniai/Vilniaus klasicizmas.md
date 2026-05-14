@@ -21,6 +21,10 @@ Vilniaus klasicizmas: parodos katalogas.
   teiginys: 'Vilniaus klasicizmas: parodos katalogas.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Vilnius, 2001; Vilniaus klasicizmas: parodos katalogas.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -37,3 +41,4 @@ Vilniaus klasicizmas: parodos katalogas.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002

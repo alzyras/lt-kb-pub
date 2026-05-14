@@ -47,8 +47,5 @@ Pakviesti į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]
-
 ### Susiję objektai
 - [[objektai/posakiai/„Baltic Kindergarten“]]

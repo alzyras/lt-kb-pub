@@ -27,6 +27,10 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
   teiginys: 'Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko dvasia.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Ryčiausia ir šiauriausia Europoje baroko architektūra Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, istorijos, o pats žodis „barokas“ siejamas su isp. barrueco, port.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -60,3 +64,8 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jonas Kristupas Glaubicas]]

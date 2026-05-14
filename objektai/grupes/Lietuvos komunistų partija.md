@@ -48,6 +48,10 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   teiginys: 'LSSR institucijos neturėjo jokios realios valdžios – net LKP (bolševikų) centro komitetas turėjo tik eilinės Rusijos srities partijos komiteto teises.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Pamažu tampanti lietuviškesnė komunistų partija (1953 m. LKP lietuvių buvo 13 tūkst.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -161,6 +165,21 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Pamažu tampanti lietuviškesnė komunistų partija (1953 m. LKP lietuvių buvo 13 tūkst.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir
+    masiškai pažeidinėjamos žmogaus teisės ir laisvės, tačiau toliau vykdytas
+    gyventojų priverstinis ideologinis apdorojimas, taikomi administraciniai
+    metodai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
@@ -170,4 +189,5 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
 - [[objektai/ivykiai/Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)]]
 - [[objektai/ivykiai/Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.)]]
 - [[objektai/zodynas/aneksija]]
+- [[objektai/zodynas/destalinizacija postalininis metas atšilimo laikotarpis]]
 - [[objektai/zodynas/polpredas]]

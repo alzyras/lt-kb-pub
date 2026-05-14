@@ -37,6 +37,10 @@ Nenurodyta
   teiginys: 'Gediminas stato Vilniaus pilį.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Gediminaičių dinastijai priklausė žymiausi, labai svarbų istorinį vaidmenį suvaidinę Lietuvos didieji Gediminas stato Vilniaus pilį.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -53,3 +57,4 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002

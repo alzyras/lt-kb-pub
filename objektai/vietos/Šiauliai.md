@@ -159,3 +159,4 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jokūbas Jasinskis]]
+- [[objektai/vietos/Prancūzija]]

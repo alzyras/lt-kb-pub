@@ -35,6 +35,10 @@ Nenurodyta
   teiginys: 'Unifikuodami visų sovietinių respublikų gyvenimą, sovietai atkakliai naikino privatinę nuosavybę visose ekonomikos šakose, tad žemės ūkyje turėjo būti steigiami kolektyviniai ūkiai.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Ekonomikos susovietinimas Unifikuodami visų sovietinių respublikų gyvenimą, sovietai atkakliai naikino privatinę nuosavybę visose ekonomikos šakose, tad žemės ūkyje turėjo būti steigiami kolektyviniai ūkiai.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -53,3 +57,4 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002

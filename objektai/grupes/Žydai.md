@@ -48,7 +48,14 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginys: 'O kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.'
   pagrindžia:
     - c-007
-
+- t-006
+  teiginys: 'Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai – pradėti laikyti ypač iškiliais žydais, besiskiriančiais nuo kitų griežtu religinės tradicijos laikymusi, intelektualiu racionalumu ir pagarba išsimokslinimui.'
+  pagrindžia:
+    - c-008
+- t-007
+  teiginys: 'Žydų bendruomenės (kahalai) taip pat buvo savivaldūs iki 1840 m., kai žydai buvo įtraukti į bendrąjį miestų valdymą.'
+  pagrindžia:
+    - c-009
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: Žydai papildomas patvirtintas šaltinio paminėjimas.
@@ -112,6 +119,35 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-008
+  santrauka: 'Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai – pradėti laikyti ypač iškiliais žydais, besiskiriančiais nuo kitų griežtu religinės tradicijos laikymusi, intelektualiu racionalumu ir pagarba išsimokslinimui.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litva-
+    kai – pradėti laikyti ypač iškiliais žydais, besiskiriančiais nuo kitų griežtu
+    religinės tradicijos laikymusi, intelektualiu racionalumu ir pagarba išsi-
+    mokslinimui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-009
+  santrauka: 'Žydų bendruomenės (kahalai) taip pat buvo savivaldūs iki 1840 m., kai žydai buvo įtraukti į bendrąjį miestų valdymą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Žydams uždrausta verstis žemės ūkiu, įvesta sėslumo riba, neleidžiama
+    keltis į abi Rusijos sostines, bet ši riba netaikyta kvalifikuotas profesijas
+    turintiems ir išsilavinusiems šios tautos atstovams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -122,5 +158,8 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 
 ### Susiję objektai
 - [[objektai/zodynas/Lite litvakai]]
+- [[objektai/grupes/Litvakai]]
 - [[objektai/vietos/Rusija]]
+- [[objektai/zodynas/kahalai sėslumo riba]]
 - [[objektai/zodynas/litvakai Lite litviš]]
+- [[objektai/grupes/Žydų bendruomenės]]

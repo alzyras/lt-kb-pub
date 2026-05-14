@@ -93,9 +93,6 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Kandidatas Carinės sukilimo slopinimo teroro ir viešų bausmių praktika]]
 - [[objektai/asmenys/Zigmantas Sierakauskas]]

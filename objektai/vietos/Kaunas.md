@@ -108,6 +108,18 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginys: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
   pagrindžia:
     - c-015
+- t-015
+  teiginys: 'Mergelės Marijos – iškart po šio mūšio funduota Vytauto bažnyčia Kaune buvo pašvęsta Švč.'
+  pagrindžia:
+    - c-016
+- t-016
+  teiginys: 'Šio konflikto esmę paaiškina įdomi detalė: 1413 m. sausio 28 d. derybose Salyne (prie Kauno) su Vokiečių ordino pasiuntinybės vadovu maršalu Mykolu Kiuchmeisteriu fon Štenbergu įvyko įdomus pašnekesys.'
+  pagrindžia:
+    - c-017
+- t-017
+  teiginys: 'Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniškose LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje (Melnikas, gal Brasta) ir net Voluinėje.'
+  pagrindžia:
+    - c-018
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -327,6 +339,51 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-014
+- c-016
+  santrauka: 'Mergelės Marijos – iškart po šio mūšio funduota Vytauto bažnyčia Kaune buvo pašvęsta Švč.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Šventasis valdovas
+    Vytautas tikėjo, kad viename pralaimėtame mūšyje buvęs
+    išgelbėtas Švč. Mergelės Marijos – iškart po šio mūšio funduota Vytauto
+    bažnyčia Kaune buvo pašvęsta Švč.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-017
+  santrauka: 'Šio konflikto esmę paaiškina įdomi detalė: 1413 m. sausio 28 d. derybose Salyne (prie Kauno) su Vokiečių ordino pasiuntinybės vadovu maršalu Mykolu Kiuchmeisteriu fon Štenbergu įvyko įdomus pašnekesys.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Pagrindinis konfliktas su Vokiečių ordinu vyko dėl Žemaitijos. Šio
+    konflikto esmę paaiškina įdomi detalė: 1413 m. sausio 28 d. derybose Sa-
+    lyne (prie Kauno) su Vokiečių ordino pasiuntinybės vadovu maršalu My-
+    kolu Kiuchmeisteriu fon Štenbergu įvyko įdomus pašnekesys.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-018
+  santrauka: 'Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniškose LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje (Melnikas, gal Brasta) ir net Voluinėje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius,
+    Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-
+    se LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje
+    (Melnikas, gal Brasta) ir net Voluinėje (Luckas).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
 
 ## Ryšiai
 ### Susiję objektai

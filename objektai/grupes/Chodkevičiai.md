@@ -58,8 +58,3 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas Karolis Chodkevičius]]
-- [[objektai/ivykiai/Salaspilio (Kirchholmo) mūšis]]

@@ -71,7 +71,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginys: '1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.'
   pagrindžia:
     - c-012
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tarpuvaldis ir Stepono Batoro (1576—1586 m.) elekcija 282.'

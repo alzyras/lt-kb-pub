@@ -179,7 +179,7 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
 
 ### Susiję objektai
 - [[objektai/ivykiai/1792 m. LLV ir Rusijos karas]]
-- [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare]]
+- [[objektai/vietos/Gardinas]]
 - [[objektai/ivykiai/Gardino seimas ir antrojo LLV padalijimo patvirtinimas]]
 - [[objektai/grupes/Prancūzijos steigiamasis susirinkimas]]
 - [[objektai/ivykiai/Stanislovo Augusto Poniatovskio išrinkimas LLV valdovu]]

@@ -41,9 +41,6 @@ Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares (pir
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Stasys Antanas Bačkis]]
 - [[objektai/asmenys/Stasys Lozoraitis]]

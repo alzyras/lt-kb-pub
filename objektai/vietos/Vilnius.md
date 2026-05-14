@@ -124,6 +124,18 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   teiginys: 'Vilnius XVI–XVIII a.'
   pagrindžia:
     - c-021
+- t-019
+  teiginys: '1323 Gediminas perkelia Lietuvos sostinę iš Trakų į Vilnių.'
+  pagrindžia:
+    - c-022
+- t-020
+  teiginys: 'Nors jie dažniausiai siejami tik su pirmu Vilniaus paminėjimu rašto šaltiniuose, kartu rodo, kad Gediminas kūrė nuoseklią Lietuvos europėjimo programą.'
+  pagrindžia:
+    - c-023
+- t-021
+  teiginys: 'Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingoji pranciškonų kankinių istorija, davusi pradžią vienai ilgaamžiškiausių Vilniaus legendų.'
+  pagrindžia:
+    - c-024
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -375,6 +387,47 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-018
+- c-022
+  santrauka: '1323 Gediminas perkelia Lietuvos sostinę iš Trakų į Vilnių.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Gediminas perkelia Lietuvos sostinę iš Trakų į Vilnių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-023
+  santrauka: 'Nors jie dažniausiai siejami tik su pirmu Vilniaus paminėjimu rašto šaltiniuose, kartu rodo, kad Gediminas kūrė nuoseklią Lietuvos europėjimo programą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-024
+  santrauka: 'Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingoji pranciškonų kankinių istorija, davusi pradžią vienai ilgaamžiškiausių Vilniaus legendų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingo-
+    ji pranciškonų kankinių istorija, davusi pradžią vienai ilgaamžiškiausių
+    Vilniaus legendų. Nuo XIV a. žinoma istorija apie dviejų pranciškonų
+    nužudymą Vilniuje Gedimino valdymo pabaigoje, o XVI a. pradžioje jų
+    palaidojimo vietoje statoma koplyčia (prie kurios vėliau įsikurs Bonifra-
+    trų vienuolynas).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
 
 ## Ryšiai
 ### Susiję objektai
@@ -385,4 +438,5 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - [[objektai/vietos/Trakai]]
 - [[objektai/vietos/Europos geografinis centras]]
 - [[objektai/vietos/Minsko Lietuva]]
+- [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/vietos/Vitebskas]]

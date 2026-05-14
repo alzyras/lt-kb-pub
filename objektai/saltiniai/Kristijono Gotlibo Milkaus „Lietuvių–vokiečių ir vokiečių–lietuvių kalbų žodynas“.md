@@ -22,6 +22,10 @@ tags:
   teiginys: '„Iš tikrųjų jokia kita pasaulio kalba nėra gavusi tiek aukščiausių pagyrimų kaip lietuvių kalba.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'III s k y r i u s Rusijos imperijos valdoma Lietuva (1795–1915) „Iš tikrųjų jokia kita pasaulio kalba nėra gavusi tiek aukščiausių pagyrimų kaip lietuvių kalba.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -43,3 +47,4 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002

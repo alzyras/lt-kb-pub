@@ -39,6 +39,14 @@ Bet kadangi tada Lietuvos likimas formaliai dar nebuvo išspręstas, tai tas ats
   teiginys: 'Administruoti Klaipėdos kraštą pavesta prancūzams.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Pademonstruota vienybė su Mažąja Lietuva – Steigiamasis Seimas 1921 m. lapkričio 11 d. vienbalsiai pareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -114,10 +122,39 @@ Bet kadangi tada Lietuvos likimas formaliai dar nebuvo išspręstas, tai tas ats
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Pademonstruota vienybė su Mažąja Lietuva – Steigiamasis Seimas 1921 m. lapkričio 11 d. vienbalsiai pareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Pademonstruota vienybė su
+    Mažąja Lietuva – Steigiamasis Seimas 1921 m. lapkričio 11 d. vienbalsiai
+    pareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Prancūzai skelbė, kad
+    Klaipėda gali tapti Lietuvos, bet tik susivienijusios su Lenkija, dalimi. Mat
+    ir Lenkija neslėpė savo planų įsitvirtinti Klaipėdoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Klaipėdos krašto autonominis režimas]]
+- [[objektai/ivykiai/Steigiamojo Seimo reikalavimas įjungti Klaipėdos teritoriją į Lietuvą (1921 m. lapkričio 11 d.)]]
 - [[objektai/vietos/Vokietija]]
 - [[objektai/asmenys/Žoržas B. Klemansas]]
 - [[objektai/posakiai/„visada buvo lietuviškas“]]

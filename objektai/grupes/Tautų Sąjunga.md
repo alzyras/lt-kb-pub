@@ -39,6 +39,18 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
   teiginys: 'Želigovskio akciją sveikino minios Vilniaus lenkų, Tautų Sąjunga pasirodė bejėgė, o Lietuvai dabar jau reikėjo sustabdyti tolesnį želigovskininkų judėjimą į Lietuvos teritoriją.'
   pagrindžia:
     - c-007
+- t-006
+  teiginys: '1921 m. vasarą Tautų Sąjungos Taryba priėmė rezoliuciją, pritariančią Himanso planui.'
+  pagrindžia:
+    - c-008
+- t-007
+  teiginys: 'Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot A.'
+  pagrindžia:
+    - c-009
+- t-008
+  teiginys: 'Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo atšaukusi karo padėties su Lenkija.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -117,8 +129,56 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-008
+  santrauka: '1921 m. vasarą Tautų Sąjungos Taryba priėmė rezoliuciją, pritariančią Himanso planui.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuva ir Lenkija turėjo koordinuoti užsienio politiką ir sudaryti karinę
+    ir ekonominę konvencijas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-009
+  santrauka: 'Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ministras pirminin-
+    kas E. Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių
+    konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot
+    A. Smetonos, be faktinės kontrolės nebus juridinės), J. Pilsudskio pavyz-
+    džiu pastatyti visus į fait accompli padėtį ir tada derėtis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-010
+  santrauka: 'Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo atšaukusi karo padėties su Lenkija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų
+    Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo at-
+    šaukusi karo padėties su Lenkija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Ambasadorių Konferencija]]
+- [[objektai/asmenys/Jonas Žilius]]
+- [[objektai/ivykiai/Lietuvos skundas prieš Lenkiją Tautų Sąjungai ir Ženevos „Karas ar taika “ susidūrimas (1927 m.)]]
+- [[objektai/asmenys/Polis Himansas]]
 - [[objektai/zodynas/de jure]]
 - [[objektai/grupes/Želigovskininkai]]
+- [[objektai/posakiai/„bazę diskusijom“]]

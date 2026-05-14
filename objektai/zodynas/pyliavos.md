@@ -27,6 +27,10 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
   teiginys: '„Buožėms“ padidinti mokesčiai ir pyliavos, jos buvo 50–100 proc.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Užimant Grupė Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 211 miestelius naikintos vietos įgulos, valsčiaus dokumentai, mobilizacijos sąrašai, pyliavų žiniaraščiai, išlaisvinami suimtieji, nušaunami.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -61,6 +65,7 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -35,6 +35,10 @@ Nenurodyta
   teiginys: 'Neturėdamos jokio pasirinkimo, trys Baltijos valstybės paruošė neutralumo įstatymą – Lietuva jį ratifikavo 1939 m. sausio 10 d.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Neutralumo politika ir Molotovo–Ribentropo paktas Griūvant Versalio sistemos postulatams, Tautų Sąjungai nebegarantuojant jos narių saugumo, trijų Baltijos šalių užsienio reikalų ministrai 1938 m. vasarą nutarė neleisti užsienio kariuomenėms kirsti jų.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -55,3 +59,4 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002

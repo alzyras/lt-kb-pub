@@ -52,6 +52,11 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Bumblauskas.'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: Bibliografijoje Bumblauskas A. siejamas su Senosios Lietuvos istorija.
@@ -65,6 +70,19 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Bumblauskas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vilnius, 2005; Alma Mater
+    Vilnensis: Vilniaus universiteto istorijos bruožai: kolektyvinė monografija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

@@ -41,6 +41,7 @@ Negalima irgi viešai nepadėkoti p. L. Kuodžiui, atidžiai taisiusiam vadovėl
 
 ## Ryšiai
 ### Teminiai klasteriai
+- [[temos/schema]]
 - [[temos/žemėlapis]]
 
 ### Susiję objektai

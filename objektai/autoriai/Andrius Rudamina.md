@@ -105,5 +105,6 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
 - [[laikotarpiai/XVII amžius]]
 
 ### Susiję objektai
+- [[objektai/grupes/Totoriai]]
 - [[objektai/vietos/Vilniaus universitetas]]
 - [[objektai/posakiai/„Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją...“]]

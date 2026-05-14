@@ -29,6 +29,10 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
   teiginys: 'Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pirmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Katekizmą“.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Kilmės iš romėnų teorija, susipynusi su lotynų – „romėnų“ kalbos vartojimu per visą XVII–XVIII a., buvo tam tikras atsvaros savaiminiam lenkėjimui Pirmoji lietuviška knyga – Martyno Mažvydo „Katekizmas“.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -81,3 +85,4 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+    - t-004

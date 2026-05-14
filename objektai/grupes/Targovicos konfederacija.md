@@ -122,6 +122,4 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
 
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų konfederacija]]
-- [[objektai/asmenys/Ignotas Masalskis]]
-- [[objektai/asmenys/Juozapas Kosakovskis]]
 - [[objektai/grupes/Vilniaus konfederacija]]

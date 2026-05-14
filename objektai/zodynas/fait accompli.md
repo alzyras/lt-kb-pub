@@ -44,4 +44,5 @@ Pilsudskio pavyzdžiu pastatyti visus į fait accompli padėtį ir tada derėtis
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Klaipėda]]
 - [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]

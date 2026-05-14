@@ -42,11 +42,3 @@ Kiek­ vienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]
-
-### Susiję objektai
-- [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]
-- [[objektai/ivykiai/Lietuvos įstojimas į Europos Sąjungą (2004 m. gegužės 1 d.)]]

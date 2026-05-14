@@ -65,6 +65,14 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
   teiginys: 'Glaubicas suformavo baroko architektūrinio stiliaus atmainą, neturinčią analogo – Vilniaus baroko mokyklą.'
   pagrindžia:
     - c-002
+- t-007
+  teiginys: 'ar- 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 83 chitektas ne tik Vilniuje, bet ir visoje LDK buvo iš vokiškų žemių atvykęs liuteronas Jonas Kristupas Glaubicas (apie 1700–1767 m.).'
+  pagrindžia:
+    - c-002
+- t-008
+  teiginys: 'Glaubico kūrybos trisdešimtmetis (1737–1767 m.) yra vienas ryškiausių senosios Lietuvos civilizacijos reiškinių, priklausomybės Vakarų civilizacijai ženklas.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -121,6 +129,21 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
     - t-004
     - t-005
     - t-006
+    - t-007
+- c-005
+  santrauka: 'Glaubico kūrybos trisdešimtmetis (1737–1767 m.) yra vienas ryškiausių senosios Lietuvos civilizacijos reiškinių, priklausomybės Vakarų civilizacijai ženklas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    J. K. Glaubi-
+    co kūrybos trisdešimtmetis (1737–1767 m.) yra vienas ryškiausių senosios
+    Lietuvos civilizacijos reiškinių, priklausomybės Vakarų civilizacijai ženklas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Laikotarpiai
@@ -129,3 +152,4 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
 ### Susiję objektai
 - [[objektai/zodynas/Baroko epocha]]
 - [[objektai/zodynas/Baroko epocha Vilniaus baroko mokykla]]
+- [[objektai/zodynas/barokas]]

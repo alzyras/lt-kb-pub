@@ -62,8 +62,5 @@ Po triukšmingų puotų jis išvyko iš Vilniaus, tik kai kuriuos ponus apdovano
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Rusijos ordinai]]

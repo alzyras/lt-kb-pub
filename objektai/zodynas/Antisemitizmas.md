@@ -59,4 +59,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Paryžius]]
 - [[objektai/zodynas/kultūrinė autonomija]]

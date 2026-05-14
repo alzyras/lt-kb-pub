@@ -87,6 +87,4 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Lavrentijus Berija]]
-- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
 - [[objektai/vietos/Maskvos Butyrkų kalėjimas]]
-- [[objektai/ivykiai/Visos Lietuvos partizanų vadų suvažiavimas (1949 m. vasario 2–22 d.)]]

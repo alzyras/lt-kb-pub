@@ -81,4 +81,5 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/zodynas/destalinizacija atšilimo laikotarpis]]

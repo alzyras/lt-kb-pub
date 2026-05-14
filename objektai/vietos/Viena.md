@@ -71,8 +71,3 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Praha]]
-- [[objektai/vietos/Vilniaus universitetas]]

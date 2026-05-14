@@ -80,5 +80,3 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Edukacinė Komisija]]
-- [[objektai/asmenys/Juozapas Kosakovskis]]
-- [[objektai/grupes/Targovicos konfederacija]]

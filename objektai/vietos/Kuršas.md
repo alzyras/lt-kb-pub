@@ -86,5 +86,3 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 ### Susiję objektai
 - [[objektai/vietos/Prūsija]]
 - [[objektai/paprociai/Vienkieminis gyvenimas dėl taikos ir gaisrų saugos]]
-- [[objektai/vietos/Suvalkai]]
-- [[objektai/zodynas/tautų apsisprendimo teisė tautų apsisprendimo principas]]

@@ -77,3 +77,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Kandidatas 9 Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas]]
+- [[objektai/zodynas/Romuva ir krivis]]

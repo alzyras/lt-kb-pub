@@ -37,3 +37,7 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Petras Klimas]]

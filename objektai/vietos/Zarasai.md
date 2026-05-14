@@ -60,4 +60,5 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Paryžius]]
 - [[objektai/zodynas/archieriejus]]

@@ -40,6 +40,14 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   teiginys: 'Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė naują rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise, paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą Lietuvos valstybę su.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Konferencijoje išrinkta 20 asmenų Lietuvos Taryba (ji pradėjo veikti rugsėjo 24 dieną) kaip vykdomasis Lietuvos žmonių organas, o jos pirmininku – teisininkas, lietuviškų laikraščių redaktorius A.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: '1918 m. lapkričio 2 d. Taryba priėmė Laikinąją konstituciją, pati pagal ją tapdama įstatymų leidimo organu, o Tarybos prezidiumas (pirmininkas A.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -125,6 +133,37 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Konferencijoje išrinkta 20 asmenų Lietuvos Taryba (ji pradėjo veikti rugsėjo 24 dieną) kaip vykdomasis Lietuvos žmonių organas, o jos pirmininku – teisininkas, lietuviškų laikraščių redaktorius A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Reali valdžia Tarybai nebuvo suteikta, tad ji ėmėsi sunkaus
+    vaidmens – tarpininkės tarp lietuvių tautos ir Oberosto, stengdamasi pa-
+    sinaudoti Vokietijoje prasibrėžiančiais skirtumais tarp kaizerio, Užsienio
+    reikalų ministerijos ir Reichstago centro (katalikų) deputatų ir trukdyti
+    Lietuvos aneksijos planus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: '1918 m. lapkričio 2 d. Taryba priėmė Laikinąją konstituciją, pati pagal ją tapdama įstatymų leidimo organu, o Tarybos prezidiumas (pirmininkas A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1918 m. lapkričio 2 d. Taryba priėmė Laikinąją konstituciją, pati pagal
+    ją tapdama įstatymų leidimo organu, o Tarybos prezidiumas (pirminin-
+    kas A. Smetona ir du vicepirmininkai Justinas Staugaitis ir S. Šilingas)
+    drauge su ministrų kabinetu sudarė vykdomąją valdžią.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai

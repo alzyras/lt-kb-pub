@@ -94,6 +94,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Chodkevičiai]]
-- [[objektai/asmenys/Jonas Karolis Chodkevičius]]
 - [[objektai/ivykiai/Oršos mūšis]]

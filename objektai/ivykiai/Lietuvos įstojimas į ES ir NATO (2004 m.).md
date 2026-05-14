@@ -184,9 +184,5 @@ Nenurodyta
     - t-008
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]
-
 ### Susiję objektai
-- [[objektai/zodynas/ES pilietis]]
 - [[objektai/ivykiai/Lietuvos įstojimas į Europos Sąjungą (2004 m. gegužės 1 d.)]]

@@ -73,6 +73,10 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
   teiginys: 'Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.'
   pagrindžia:
     - c-005
+- t-007
+  teiginys: 'Gaonas ir „Šiaurės Jeruzalė“ Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas Elijas (ben Šlomo Zalman Elijahu, 1720–1797) – viena iškiliausių asmenybių pasaulio žydų istorijoje.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -139,6 +143,26 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-006
+  santrauka: 'Gaonas ir „Šiaurės Jeruzalė“ Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas Elijas (ben Šlomo Zalman Elijahu, 1720–1797) – viena iškiliausių asmenybių pasaulio žydų istorijoje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Gaonas ir „Šiaurės Jeruzalė“
+    Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas
+    Elijas (ben Šlomo Zalman Elijahu, 1720–1797) – viena iškiliausių asmeny-
+    bių pasaulio žydų istorijoje. Jo istorinis vaidmuo neatsiejamas nuo didžiulį
+    poveikį visiems žydams turėjusios akcijos – reformistinio sąjūdžio – cha-
+    sidizmo sustabdymo. Aplinkinėse valstybėse ir LDK pietrytinėje dalyje iki
+    Vilniaus išplitusio chasidizmo šalininkai siūlė reformuoti ortodoksinį rabi-
+    nizmą – sureikšminti individą ir nuoširdų jo tikėjimą, sušvelninti griežtus
+    buitį normuojančius įstatymus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Laikotarpiai

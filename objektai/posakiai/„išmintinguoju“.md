@@ -39,7 +39,3 @@ Net savo priešų Mindaugas buvo vadinamas išmintinguoju.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]

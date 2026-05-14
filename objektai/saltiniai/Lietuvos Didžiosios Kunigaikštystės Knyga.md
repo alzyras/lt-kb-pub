@@ -22,6 +22,10 @@ Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų Europos tradicijų link: b
   teiginys: 'Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų Europos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų darbas.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Vilnius, 1993; Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų Europos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų darbas.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -38,3 +42,4 @@ Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų Europos tradicijų link: b
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002

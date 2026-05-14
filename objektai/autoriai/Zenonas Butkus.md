@@ -47,4 +47,5 @@ Nuoširdžiai dėkojame leidinio iniciatoriams, redakcinės kolegijos nariams, s
 - [[temos/žemėlapis]]
 
 ### Susiję objektai
+- [[objektai/autoriai/Alfonsas Eidintas]]
 - [[objektai/autoriai/Saulius Kaubrys]]

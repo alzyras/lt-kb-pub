@@ -161,8 +161,6 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Lietuvos valstybės susikūrimas apie 1240 m]]
-- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis]]
 - [[objektai/zodynas/Personalinė unija]]
-- [[objektai/ivykiai/Rusios žemių prijungimai prie Lietuvos]]
 - [[objektai/zodynas/aksominė imperija siuzerenitetas hegemonija]]
 - [[objektai/posakiai/„tauta galėjo apsisaugoti tik sukūrusi valstybę“]]

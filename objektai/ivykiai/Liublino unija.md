@@ -56,6 +56,10 @@ Nenurodyta
   teiginys: 'Žinoma, lenkai ir Žygimantas Augustas darė spaudimą Liublino unijos metu – siekė panaikinti valstybingumą, atplėšti teritorijų, tačiau net ir toks Liublino unijos rezultatas buvo kompromisas, kurį, nors ir per ašaras, LDK atstovai priėmė, tačiau šio.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -144,11 +148,9 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+    - t-007
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]
-
 ### Susiję objektai
 - [[objektai/vietos/Liublinas]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]

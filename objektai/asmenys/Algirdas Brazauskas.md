@@ -36,6 +36,10 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
   teiginys: 'Brazauskas nusiuntė NATO generaliniam sekretoriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pageidauja tapti šios organizacijos nare.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Pirminė prielaida Lietuvai įsilieti į vakarietiškas saugumo struktūras buvo sėkmingas Rusijos kariuomenės išvedimas 1993 m. rugpjūčio 31 d. Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos Respublikos prezidentas Algirdas Brazauskas ir.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą, ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus arkikatedrą.'
@@ -98,6 +102,7 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

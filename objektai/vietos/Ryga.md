@@ -36,7 +36,6 @@ Priėjimas prie Rygos Dauguvos upe taip pat buvo gana sunkus, — čia irgi truk
   teiginys: 'Kai 1621 m. Ryga atiteko Švedams, laisvajai prekybai užsidarė ir šis kelias.'
   pagrindžia:
     - c-004
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Ryga buvo išgelbėta, Livonija atvaduota.'
@@ -80,7 +79,6 @@ Priėjimas prie Rygos Dauguvos upe taip pat buvo gana sunkus, — čia irgi truk
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
 ## Pavadinimai šaltiniuose
 
 - Ryga

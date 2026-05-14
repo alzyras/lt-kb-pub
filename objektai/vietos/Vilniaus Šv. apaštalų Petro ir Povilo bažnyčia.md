@@ -25,6 +25,10 @@ Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Su
   teiginys: 'Sukurti europinės reikšmės kūriniai: Vilniaus katedros Šv.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Tai reikštų, kad Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -56,3 +60,4 @@ Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Su
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+    - t-003

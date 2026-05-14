@@ -101,3 +101,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/daiktai/Sąjūdžio ženklas su Gedimino stulpais]]
+- [[objektai/asmenys/Vytautas]]

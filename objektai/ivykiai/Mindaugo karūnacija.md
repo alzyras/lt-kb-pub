@@ -57,3 +57,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Karūna]]
+- [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)]]

@@ -36,6 +36,10 @@ Nenurodyta
   teiginys: 'Knygnešys.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Nors valdžia ir žandarai knygnešius gaudė ir baudė dar Knygnešys.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -51,3 +55,4 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002

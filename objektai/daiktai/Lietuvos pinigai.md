@@ -173,6 +173,10 @@ Nenurodyta
   teiginys: 'Per visą nepriklausomos Lietuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose užsienio valstybėse.'
   pagrindžia:
     - c-024
+- t-023
+  teiginys: '1922 m. spalio 1 d. Lietuvoje įvestas litas.'
+  pagrindžia:
+    - c-025
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -543,6 +547,20 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-022
+- c-025
+  santrauka: '1922 m. spalio 1 d. Lietuvoje įvestas litas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1922 m. spalio 1 d. Lietuvoje
+    įvestas litas. Jo aukso turinys buvo lygus 0,150462 g gryno aukso, t. y. litas
+    buvo prilygintas JAV doleriui santykiu 10:1.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
 
 ## Ryšiai
 ### Teminiai klasteriai

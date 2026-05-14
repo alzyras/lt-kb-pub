@@ -46,3 +46,4 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Ambasadorių Konferencija]]
+- [[objektai/grupes/Tautų Sąjunga]]

@@ -59,8 +59,3 @@ Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas Simonas Kosako
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Ignotas Masalskis]]
-- [[objektai/grupes/Targovicos konfederacija]]

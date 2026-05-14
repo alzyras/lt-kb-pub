@@ -23,6 +23,10 @@ Rinkimų į Liaudies seimą agitacinis plakatas.
   teiginys: 'Rinkimų į Liaudies seimą agitacinis plakatas.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Taip įforminta Lietuvos aneksija, Rinkimų į Liaudies seimą agitacinis plakatas.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -38,3 +42,4 @@ Rinkimų į Liaudies seimą agitacinis plakatas.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002

@@ -96,3 +96,7 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltijos jūra]]

@@ -80,4 +80,5 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
 ### Susiję objektai
 - [[objektai/ivykiai/B. Jelcino kreipimasis į Baltijos šalyse tarnaujančius karius po Sausio 13-osios (1991 m. sausio 14 d.)]]
 - [[objektai/asmenys/Borisas Jelcinas]]
+- [[objektai/zodynas/Išskirtinė ekonominė zona ir žemyninis šelfas]]
 - [[objektai/ivykiai/Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.)]]

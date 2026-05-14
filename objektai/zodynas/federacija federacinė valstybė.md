@@ -99,8 +99,5 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]
-
 ### Susiję objektai
 - [[objektai/zodynas/kantonas kantoninis principas]]

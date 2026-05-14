@@ -39,6 +39,14 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
   teiginys: 'Apie 350 000 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lietuvoje), apie 100 000 Vilniaus krašte, 6 000 – Anglijoje.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Lenkija suprato šią taktiką ir, siekdama padaryti Lietuvą sukalbamesnę, ėmėsi ekonominių ir kultūrinių sankcijų prieš Vilniaus krašto lietuvių organizacijas.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Tačiau situaciją blogino Lenkijos vykdomi lietuvių kultūrinio gyvenimo ribojimai Vilniaus krašte, nes tuo pačiu atsakydavo ir Lietuvos valdžia.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -111,11 +119,40 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Lenkija suprato šią taktiką ir, siekdama padaryti Lietuvą sukalbamesnę, ėmėsi ekonominių ir kultūrinių sankcijų prieš Vilniaus krašto lietuvių organizacijas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lenkija suprato šią taktiką ir, siekdama padaryti Lietuvą sukalbames-
+    nę, ėmėsi ekonominių ir kultūrinių sankcijų prieš Vilniaus krašto lietuvių
+    organizacijas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Tačiau situaciją blogino Lenkijos vykdomi lietuvių kultūrinio gyvenimo ribojimai Vilniaus krašte, nes tuo pačiu atsakydavo ir Lietuvos valdžia.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau situaciją blogino Lenkijos vykdomi lietuvių kultūrinio
+    gyvenimo ribojimai Vilniaus krašte, nes tuo pačiu atsakydavo ir Lietuvos
+    valdžia.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/upė]]
 
 ### Susiję objektai
+- [[objektai/vietos/Anglija]]
 - [[objektai/daiktai/Gairės]]
 - [[objektai/zodynas/bažnytinė provincija]]

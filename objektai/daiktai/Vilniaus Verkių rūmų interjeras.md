@@ -36,6 +36,10 @@ Nenurodyta
   teiginys: 'Senųjų laikų reminiscencija – Vilniaus Verkių rūmų interjeras iš J.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Nors Lietuvos „raudonieji“ buvo už lygiateisį federacinį ryšį su Lenkija, Senųjų laikų reminiscencija – Vilniaus Verkių rūmų interjeras iš J.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -52,3 +56,4 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002

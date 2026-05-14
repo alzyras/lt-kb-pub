@@ -68,6 +68,14 @@ Mindaugo karūnacija šiame šaltinyje siejama su karūnos tikslu, pasiektu 1253
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Mindaugo vainikavimo dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pirmas ir vienintelis vainikuotas Lietuvos karalius.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Mindaugo vainikavimas Mindaugo karūnacija.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -94,6 +102,35 @@ Mindaugo karūnacija šiame šaltinyje siejama su karūnos tikslu, pasiektu 1253
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Mindaugo vainikavimo dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pirmas ir vienintelis vainikuotas Lietuvos karalius.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Svarbiausias tikslas, kurio siekta krikštijantis, – ka-
+    rūna. Tikslas buvo pasiektas 1253 m. liepos 6-ąją. Mindaugo vainikavimo
+    dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pir-
+    mas ir vienintelis vainikuotas Lietuvos karalius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Mindaugo vainikavimas Mindaugo karūnacija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Mindaugo vainikavimas
+    Mindaugo karūnacija.
+    Dail. A. Varnas, 1952–1953 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Data ir vieta
 - 1253 m. liepos 6 d.
@@ -107,3 +144,8 @@ Karūna šaltinyje įvardijama kaip svarbiausias Mindaugo krikšto politinis tik
 
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
+
+### Susiję objektai
+- [[objektai/daiktai/A. Varno paveikslas „Mindaugo karūnacija“]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/ivykiai/Mindaugo karūnacija]]

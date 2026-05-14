@@ -29,6 +29,18 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginys: 'Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Prancūzijos paramą.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Po susitikimo Paryžiuje su Lenkijos užsienio reikalų ministru Augustu Zaleskiu (August Zaleski) birželio 22 dieną A.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Voldemaras šį kartą nubaustas ypač rimtai – iš Lietuvos provincijos miestelio Zarasų ištremtas į Paryžių...'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -79,3 +91,53 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Po susitikimo Paryžiuje su Lenkijos užsienio reikalų ministru Augustu Zaleskiu (August Zaleski) birželio 22 dieną A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Po susitikimo Paryžiuje su Lenkijos užsie-
+    nio reikalų ministru Augustu Zaleskiu (August Zaleski) birželio 22 dieną
+    A. Voldemarą Kauno stotyje pasitiko grupė karininkų, kurie davė jam
+    suprasti, kad tokiomis sąlygomis derybos su lenkais sulauks kietos opo-
+    zicijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Voldemaras šį kartą nubaustas ypač rimtai – iš Lietuvos provincijos miestelio Zarasų ištremtas į Paryžių...'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tik A. Voldemaras šį kartą nubaustas ypač rimtai – iš
+    Lietuvos provincijos miestelio Zarasų ištremtas į Paryžių...
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos
+    planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie
+    tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Antisemitizmas]]
+- [[objektai/asmenys/Augustas Zaleskis]]
+- [[objektai/vietos/Zarasai]]
+- [[objektai/zodynas/kultūrinė autonomija]]

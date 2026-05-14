@@ -54,6 +54,10 @@ tags:
   teiginys: 'Mindaugo krikštas nepašalino ordinų pavojaus, be to, buvo prarasta etninės Lietuvos dalis – Žemaitija.'
   pagrindžia:
     - c-007
+- t-009
+  teiginys: 'Žalgirio mūšis Nors popiežius uždraudė Vokiečių ordinui kariauti su apsikrikštijusia Lietuva, Žemaitija vis dar priklausė jam.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -126,6 +130,20 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-008
+  santrauka: 'Žalgirio mūšis Nors popiežius uždraudė Vokiečių ordinui kariauti su apsikrikštijusia Lietuva, Žemaitija vis dar priklausė jam.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Žalgirio mūšis
+    Nors popiežius uždraudė Vokiečių ordinui kariauti su ap-
+    sikrikštijusia Lietuva, Žemaitija vis dar priklausė jam.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai

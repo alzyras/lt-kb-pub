@@ -140,6 +140,10 @@ Nenurodyta
   teiginys: 'Svarbiausias tikslas, kurio siekta krikštijantis, – karūna.'
   pagrindžia:
     - c-026
+- t-022
+  teiginys: 'O Mindaugas, karūnavęsis per Vokietijos vasalą – Livonijos ordiną, tapo ne imperatoriaus, o popiežiaus vasalu ir iš karto gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją.'
+  pagrindžia:
+    - c-027
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -508,6 +512,22 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-021
+- c-027
+  santrauka: 'O Mindaugas, karūnavęsis per Vokietijos vasalą – Livonijos ordiną, tapo ne imperatoriaus, o popiežiaus vasalu ir iš karto gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    O Mindaugas, karūnavęsis per Vokietijos vasalą –
+    Livonijos ordiną, tapo ne imperatoriaus, o popiežiaus vasalu ir iš karto
+    gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją. Maža to,
+    po keleto metų Mindaugas gavo karaliaus vainiką visai dinastijai – po-
+    piežius leido vainikuotis ir sūnui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -517,4 +537,5 @@ Nenurodyta
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/karūnacija karūnuotis]]
 - [[objektai/ivykiai/Mindaugo karūnacija]]
+- [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)]]
 - [[objektai/asmenys/Vytautas]]

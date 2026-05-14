@@ -21,6 +21,10 @@ Aleksandravičius E., Kulakauskas A.
   teiginys: 'Aleksandravičius E., Kulakauskas A.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Literatūra tolesniam skaitymui Aleksandravičius E., Kulakauskas A.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -38,6 +42,7 @@ Aleksandravičius E., Kulakauskas A.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

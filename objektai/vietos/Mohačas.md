@@ -42,4 +42,5 @@ Lietuva, Lenkijos padedama, atsilaikė prieš stačiatikišką Maskvą mūšio p
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Vengrija]]

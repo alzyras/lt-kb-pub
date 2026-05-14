@@ -38,8 +38,3 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Chodkevičiai]]
-- [[objektai/ivykiai/Salaspilio (Kirchholmo) mūšis]]

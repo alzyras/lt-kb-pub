@@ -41,9 +41,6 @@ LDT aukščiausia valdžia priklausė diplomatijos šefui, tas pareigas ėjo dip
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Stasys Lozoraitis]]
 - [[objektai/posakiai/„primus inter pares“]]

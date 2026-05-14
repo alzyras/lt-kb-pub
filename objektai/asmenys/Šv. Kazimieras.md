@@ -29,6 +29,10 @@ Pagaliau dar vienas Kazimiero sūnus, taip pat Kazimieras, pripažintas šventuo
   teiginys: 'Kazimieras tapo svarbiausiu Lietuvos bei Vilniaus globėju ir pagrindiniu šventuoju, o Kaziuko mugės – tai iki šių dienų iš LDK laikų ateinanti tradicija.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Kazimiero, Lenkijos globėjo šv.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -74,6 +78,19 @@ Pagaliau dar vienas Kazimiero sūnus, taip pat Kazimieras, pripažintas šventuo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Kazimiero, Lenkijos globėjo šv.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kazimiero, Lenkijos
+    globėjo šv. Stanislovo ir šv. Elenos skulptūros ant katedros frontono.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

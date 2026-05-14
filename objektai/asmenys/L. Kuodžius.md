@@ -41,6 +41,7 @@ Kuodžiui, atidžiai taisiusiam vadovėlio kalbą, ir p. R.
 
 ## Ryšiai
 ### Teminiai klasteriai
+- [[temos/schema]]
 - [[temos/žemėlapis]]
 
 ### Susiję objektai

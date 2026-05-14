@@ -82,3 +82,4 @@ tags:
 
 ### Susiję objektai
 - [[objektai/zodynas/Antisemitizmas]]
+- [[objektai/vietos/Paryžius]]

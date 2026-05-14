@@ -101,6 +101,11 @@ Centralizuota ginkluoto ir politinio antisovietinio pasipriešinimo organizacija
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Bunkeryje priimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika, suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais, demokratiniais.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -139,6 +144,8 @@ Centralizuota ginkluoto ir politinio antisovietinio pasipriešinimo organizacija
   pagrindžia:
     - t-004
     - t-005
+    - t-006
+
 ## Šaltiniai ir įrodymai
 
 ## Ryšiai
@@ -146,6 +153,4 @@ Centralizuota ginkluoto ir politinio antisovietinio pasipriešinimo organizacija
 - [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Jonas Žemaitis-Vytautas]]
 - [[objektai/ivykiai/LLKS Vasario 16-osios deklaracijos priėmimas (1949 m.)]]
-- [[objektai/ivykiai/Visos Lietuvos partizanų vadų suvažiavimas (1949 m. vasario 2–22 d.)]]

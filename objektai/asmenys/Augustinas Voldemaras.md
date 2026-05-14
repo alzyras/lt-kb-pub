@@ -47,7 +47,6 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
   teiginys: 'Voldemarui.'
   pagrindžia:
     - c-008
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Taryba pakvietė Augustiną Voldemarą suformuoti ministrų kabinetą.'
@@ -145,3 +144,4 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/A. Voldemaras]]
+- [[objektai/grupes/Lietuvos kariuomenė]]

@@ -36,6 +36,10 @@ Nenurodyta
   teiginys: 'Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, istorijos, o pats žodis „barokas“ siejamas su isp. barrueco, port.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Ryčiausia ir šiauriausia Europoje baroko architektūra Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, istorijos, o pats žodis „barokas“ siejamas su isp. barrueco, port.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -55,6 +59,7 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

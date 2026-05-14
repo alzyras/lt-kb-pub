@@ -53,4 +53,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Gardinas]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis]]

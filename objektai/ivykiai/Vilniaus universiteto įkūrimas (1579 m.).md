@@ -52,6 +52,10 @@ Nenurodyta
   teiginys: 'Yra ir kitas senojo Vilniaus universiteto istorinės reikšmės aspektas.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -128,6 +132,7 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

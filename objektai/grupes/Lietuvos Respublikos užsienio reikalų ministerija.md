@@ -61,7 +61,3 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]

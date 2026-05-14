@@ -118,8 +118,7 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Ernestas Galvanauskas]]
 - [[objektai/asmenys/Jonas Žilius]]
 - [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
+- [[objektai/grupes/Tautų Sąjunga]]
 - [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas]]
-- [[objektai/zodynas/administracinė linija demarkacijos linija]]

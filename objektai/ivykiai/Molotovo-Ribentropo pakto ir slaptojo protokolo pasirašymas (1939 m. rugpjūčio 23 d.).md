@@ -54,4 +54,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Estija]]
 - [[objektai/vietos/Suomija]]

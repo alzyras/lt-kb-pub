@@ -66,6 +66,18 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginys: 'Delegacija buvo instruktuota diskusijose dėl sienų remtis etnografiniu principu darant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipėdą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad Lietuva būtų priimta į Tautų.'
   pagrindžia:
     - c-010
+- t-009
+  teiginys: 'Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai nepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į jūrą.'
+  pagrindžia:
+    - c-011
+- t-010
+  teiginys: '1922 m. pradžioje Lietuvos atstovas Klaipėdoje Jonas Žilius pranešė vyriausybei, kad tėra viena galimybė pasiimti miestą – užimti jį karine jėga.'
+  pagrindžia:
+    - c-012
+- t-011
+  teiginys: 'Tarp jų į Klaipėdą žygiavo 40 reguliariosios kariuomenės karininkų ir 584 kariai, kiti – šauliai, studentai ir apie 300 vietinių gyventojų, tarp jų keli vokiečiai, kaip įrodymas sąjungininkams, kad sukilo vietiniai.'
+  pagrindžia:
+    - c-013
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -176,9 +188,58 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-011
+  santrauka: 'Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai nepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į jūrą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Prancūzija Žoržo B. Klemanso
+    (Georges B. Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai
+    nepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada
+    buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į
+    jūrą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-012
+  santrauka: '1922 m. pradžioje Lietuvos atstovas Klaipėdoje Jonas Žilius pranešė vyriausybei, kad tėra viena galimybė pasiimti miestą – užimti jį karine jėga.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1922 m. pradžioje
+    Lietuvos atstovas Klaipėdoje Jonas Žilius pranešė vyriausybei, kad tėra
+    viena galimybė pasiimti miestą – užimti jį karine jėga. Kariškiai laikė tai
+    24 valandų reikalu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-013
+  santrauka: 'Tarp jų į Klaipėdą žygiavo 40 reguliariosios kariuomenės karininkų ir 584 kariai, kiti – šauliai, studentai ir apie 300 vietinių gyventojų, tarp jų keli vokiečiai, kaip įrodymas sąjungininkams, kad sukilo vietiniai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tarp jų į Klaipėdą žygiavo 40 regu-
+    liariosios kariuomenės karininkų ir 584 kariai, kiti – šauliai, studentai ir
+    apie 300 vietinių gyventojų, tarp jų keli vokiečiai, kaip įrodymas sąjun-
+    gininkams, kad sukilo vietiniai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Nemunas]]
 - [[objektai/vietos/Žemaitija]]
+- [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
 - [[objektai/vietos/Užnemunė]]
+- [[objektai/zodynas/fait accompli]]
+- [[objektai/zodynas/tautų apsisprendimo teisė tautų apsisprendimo principas]]

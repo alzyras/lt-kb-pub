@@ -39,3 +39,7 @@ Ostrogiškis smarkiai sumušė Maskvos kariuomenę ties Orša. Bet tuo tarpu atv
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Naugardukas]]

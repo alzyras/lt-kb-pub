@@ -94,6 +94,14 @@ Sovietinė saugumo, vidaus reikalų ir represinė institucija bei kariuomenės s
   teiginys: 'Tai pražūtingai atsiliepė žydams – daugybė jų, besitraukiančių į Rytus, grąžinti atgal lietuvių sukilėlių arba sugrįžo patys, nes kelyje į Maskvą juos aplenkė vermachtas, o iš kitos pusės, sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į.'
   pagrindžia:
     - c-005
+- t-008
+  teiginys: 'Sovietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai, žmones imta kalinti ir tremti į SSRS gilumą.'
+  pagrindžia:
+    - c-006
+- t-009
+  teiginys: 'Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė: 1945 m. vasarą joje buvo iki 20 tūkst., 1946 m. – apie 14 tūkst.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -134,6 +142,22 @@ Sovietinė saugumo, vidaus reikalų ir represinė institucija bei kariuomenės s
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-006
+  santrauka: 'Sovietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai, žmones imta kalinti ir tremti į SSRS gilumą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    So-
+    vietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai,
+    žmones imta kalinti ir tremti į SSRS gilumą. Net didžiausi SSRS simpatikai
+    prikando liežuvius – bolševizmą galima pažinti tik jame pagyvenus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+    - t-009
 
 ## Šaltiniai ir įrodymai
 

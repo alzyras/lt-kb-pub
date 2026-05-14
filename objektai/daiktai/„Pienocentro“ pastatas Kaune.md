@@ -36,6 +36,10 @@ Nenurodyta
   teiginys: '„Pienocentro“ pastatas Kaune (apie 1938).'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: '1933 m. liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu „Pienocentro“ pastatas Kaune (apie 1938).'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -52,3 +56,4 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002

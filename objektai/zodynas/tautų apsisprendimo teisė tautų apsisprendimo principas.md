@@ -106,7 +106,6 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kuršas]]
+- [[objektai/vietos/Klaipėda]]
 - [[objektai/grupes/Lietuvos Taryba]]
-- [[objektai/vietos/Suvalkai]]
 - [[objektai/posakiai/„atkuria“ „atkūrimu“ „atstatymu“]]

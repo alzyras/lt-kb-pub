@@ -83,3 +83,4 @@ Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukil
 ### Susiję objektai
 - [[objektai/vietos/Gardino gubernija]]
 - [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Vilniaus gubernija]]

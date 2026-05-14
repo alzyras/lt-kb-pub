@@ -56,6 +56,11 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   teiginys: '1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.'
   pagrindžia:
     - c-002
+- t-005
+  teiginys: 'Lietuvos katalikai – ir pats Vilniaus vyskupas Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketinimui įkurti kolegiją.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Protasevičius siejamas su jėzuitų atvykimu ir kolegijos kūrimu Vilniuje.
@@ -88,6 +93,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-003
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
