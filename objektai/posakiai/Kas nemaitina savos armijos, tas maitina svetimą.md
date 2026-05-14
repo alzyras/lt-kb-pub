@@ -2,8 +2,7 @@
 tipas: posakis
 pavadinimas: 'Kas nemaitina savos armijos, tas maitina svetimą'
 sukurta: '2026-05-02'
-variantai:
-  []
+variantai: []
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'

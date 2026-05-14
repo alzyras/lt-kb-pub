@@ -2,15 +2,12 @@
 tipas: zodyno_irasas
 pavadinimas: "inkorporacija"
 sukurta: "2026-04-28"
-variantai:
-  []
-aliases:
-  []
+variantai: []
+aliases: []
 saltiniai:
   - "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
 laikotarpis: "XIV a. pabaigos – XV a. pradžios sutarčių aiškinimas"
-datos:
-  []
+datos: []
 periodas: "viduramziai"
 periodo_grupes:
   - "LDK"

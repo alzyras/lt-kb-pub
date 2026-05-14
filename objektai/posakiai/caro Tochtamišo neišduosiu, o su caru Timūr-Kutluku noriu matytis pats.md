@@ -2,8 +2,7 @@
 tipas: posakis
 pavadinimas: 'caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats'
 sukurta: '2026-05-02'
-variantai:
-  []
+variantai: []
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
