@@ -1,10 +1,12 @@
 ---
 tipas: asmuo
-pavadinimas: 'Mikalojus Kristupas Radvila-Našlaitėlis'
+pavadinimas: 'Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)'
 sukurta: '2026-05-14'
 variantai:
   - 'Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Radvila-Našlaitėlis'
-aliases: []
+  - 'Mikalojus Kristupas Radvila-Našlaitėlis'
+aliases:
+  - 'Mikalojus Kristupas Radvila-Našlaitėlis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 bukle: juodrastis
@@ -29,14 +31,14 @@ patikimumas: aukštas
 tags:
   - didikas
 ---
-# Mikalojus Kristupas Radvila-Našlaitėlis
+# Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)
 
 ## Santrauka
 
 Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Juodojo sūnus, grįžęs į katalikybę ir 1575 m. perkėlęs Brastos spaustuvę į Vilnių.
 
 ## Teiginiai
-- t-004
+- t-005
   teiginys: 'Grįžęs į katalikybę Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją jėzuitų universitetui.'
   pagrindžia:
     - c-001
@@ -59,7 +61,7 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai

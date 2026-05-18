@@ -39,7 +39,7 @@ Cituojama „Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.)“
 - Cituojama „Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.)“ ištrauka.
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Cituojama „Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.)“ ištrauka.'
   pagrindžia:
     - c-001
@@ -47,6 +47,8 @@ Cituojama „Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.)“
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Cituojama „Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.)“ ištrauka.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -57,6 +59,6 @@ Cituojama „Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.)“
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

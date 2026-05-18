@@ -18,7 +18,7 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
 
 ## Teiginiai
 - t-001
-  teiginys: 'Sovietinė valdžia Balį Gajauską priskyrė prie disidentų, kuriuos suimdavo ir nuteisdavo.'
+  teiginys: 'Sovietinė valdžia Balį Gajauską teisė kaip vieną iš disidentų, prieš kuriuos taikė represijas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Sovietinė valdžia Balį Gajauską priskyrė prie disidentų, kuriuos suimdavo ir nuteisdavo.'
+  santrauka: 'Sovietinė valdžia Balį Gajauską teisė kaip vieną iš disidentų, prieš kuriuos taikė represijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietinė valdžia represijas prieš disidentus derino su dalinių

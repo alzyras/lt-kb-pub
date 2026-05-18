@@ -22,6 +22,8 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   teiginys: 'Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -33,11 +35,11 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
     poly 1452 m., tik jau nebebuvo laiko jam įvykdyti: po pusės
     metų (1453 m.) Konstantinopolį užėmė turkai, imperija žlugo, o
     su ja žlugo ir unija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

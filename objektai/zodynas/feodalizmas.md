@@ -20,55 +20,61 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
 
 ## Teiginiai
 - t-001
-  teiginys: 'Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis feodalizmas.'
+  teiginys: 'Lietuvoje buvo santvarka, maždaug atitikusi Vakaruose feodalizmu vadintą santvarką.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Tik Lietuvos feodalizmas buvo kiek kitoks: jis skyrėsi nuo vakarų Europos feodalizmo ne tiek bajorijos, kiek sritinių kunigaikščių teisėmis.'
+  teiginys: 'Lietuvos feodalizmas nuo Vakarų Europos feodalizmo labiau skyrėsi sritinių kunigaikščių, o ne bajorijos teisėmis.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Lietuvos feodalizmas, kaip matome, nebuvo galutinai išsiplėtojęs.'
+  teiginys: 'Lietuvos feodalizmas nebuvo galutinai išsiplėtojęs.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis feodalizmas.'
+  santrauka: 'Lietuvoje buvo santvarka, maždaug atitikusi Vakaruose feodalizmu vadintą santvarką.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taigi ir pas mus buvo maždaug tokia pat santvarka,
     kaip Vakaruose vadinamasis feodalizmas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Tik Lietuvos feodalizmas buvo kiek kitoks: jis skyrėsi nuo vakarų Europos feodalizmo ne tiek bajorijos, kiek sritinių kunigaikščių teisėmis.'
+  santrauka: 'Lietuvos feodalizmas nuo Vakarų Europos feodalizmo labiau skyrėsi sritinių kunigaikščių, o ne bajorijos teisėmis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tik Lietuvos feoda-
     lizmas buvo kiek kitoks: jis skyrėsi nuo vakarų Europos feodalizmo
     ne tiek bajorijos, kiek sritinių kunigaikščių teisėmis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Lietuvos feodalizmas, kaip matome, nebuvo galutinai išsiplėtojęs.'
+  santrauka: 'Lietuvos feodalizmas nebuvo galutinai išsiplėtojęs.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvos feodalizmas, kaip matome, nebuvo galutinai išsiplėtojęs.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003

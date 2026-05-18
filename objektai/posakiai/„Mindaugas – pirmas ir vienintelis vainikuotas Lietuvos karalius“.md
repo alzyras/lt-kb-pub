@@ -38,7 +38,7 @@ m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijo
 
 ## Teiginiai
 - t-001
-  teiginys: '1251 m. Mindaugas krikštijosi, o 1253 m. liepos 6 d. pasiekė krikšto tikslą – karūną.'
+  teiginys: '1251 m. Mindaugas krikštijosi, o 1253 m. liepos 6 d. buvo vainikuotas pirmuoju ir vieninteliu Lietuvos karaliumi.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -46,7 +46,7 @@ m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijo
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1251 m. Mindaugas krikštijosi, o 1253 m. liepos 6 d. pasiekė krikšto tikslą – karūną.'
+  santrauka: '1251 m. Mindaugas krikštijosi, o 1253 m. liepos 6 d. buvo vainikuotas pirmuoju ir vieninteliu Lietuvos karaliumi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-

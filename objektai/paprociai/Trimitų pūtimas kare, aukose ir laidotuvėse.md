@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Senovės lietuviai trimitais skatino kareivius į kovą, pūtė aukas dievams ir lydėdavo mirusiuosius laidotuvėse.'
   pagrindžia:
     - c-001
@@ -50,15 +50,17 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Senovės lietuviai trimitais skatino kareivius į kovą, pūtė aukas dievams ir lydėdavo mirusiuosius laidotuvėse.
+  santrauka: 'Senovės lietuviai trimitais skatino kareivius į kovą, pūtė aukas dievams ir lydėdavo mirusiuosius laidotuvėse.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Įrankiais jų linksmybės buvo ilgi, iš trijų skilų sudėti apvalūs medžio trūbai^551 , nuokamieni^552 ir
     truputį pakumpi, per pusantro sieksnio ilgi, stipriai sukibyti^553 , nukaišti ir laibai tošėmis nuvyturti,
     kuriuos t vadino trimitais, jog iš trijų dalių buvo sudėti; tais trūbais skatino kareivius į kovą
     kariaudami, pūtė aukas dievams aukaudarni, nabaštikus^554 laidodami, kaip viršiau minavojau;
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

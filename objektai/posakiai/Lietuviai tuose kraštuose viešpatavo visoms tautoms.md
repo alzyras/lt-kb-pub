@@ -20,13 +20,15 @@ Henrikas (vadinamas Henriku Latviu) šiaip juos apibūdina: „Lietuviai tuose k
 
 ## Teiginiai
 - t-001
-  teiginys: 'Henrikas (vadinamas Henriku Latviu) šiaip juos apibūdina: „Lietuviai tuose kraštuose viešpatavo visoms tautoms, tiek krikščioniškoms, tiek pagoniškoms, Dėl jų žygių nedaug kas išdrįso gyventi savo namuose ...'
+  teiginys: 'Henrikas Latvis lietuvius apibūdino kaip tuose kraštuose viešpatavusius krikščioniškoms ir pagoniškoms tautoms.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Henrikas (vadinamas Henriku Latviu) šiaip juos apibūdina: „Lietuviai tuose kraštuose viešpatavo visoms tautoms, tiek krikščioniškoms, tiek pagoniškoms, Dėl jų žygių nedaug kas išdrįso gyventi savo namuose ...'
+  santrauka: 'Henrikas Latvis lietuvius apibūdino kaip tuose kraštuose viešpatavusius krikščioniškoms ir pagoniškoms tautoms.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Henrikas (va-
@@ -37,10 +39,10 @@ Henrikas (vadinamas Henriku Latviu) šiaip juos apibūdina: „Lietuviai tuose k
     mynuose, tačiau nė tokiuo būdu negalėdavo ištrūkti iš lietuvių.
     Ir nuo mažo lietuvių skaičiaus rusai bėgo per miškus ir sodžius,
     kaip kad bėga kiškiai nuo medžiotojų" ...
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

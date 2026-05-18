@@ -20,7 +20,7 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
 
 ## Teiginiai
 - t-001
-  teiginys: 'Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje įgavo tokį didelį populiarumą, jog prezidentas po ilgoko ambicijų konflikto 1940 m. balandį atleido jį iš pareigų.'
+  teiginys: 'Kariuomenės vadas Stasys Raštikis visuomenėje įgavo didelį populiarumą, todėl prezidentas po ambicijų konflikto 1940 m. balandį atleido jį iš pareigų.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -32,7 +32,7 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Stasys Raštikis svarstė karinį bendradarbiavimą su Latvija ir Estija ir pasisakė už trijų šalių karinę sąjungą.'
+  teiginys: 'Stasys Raštikis tyrė karinio bendradarbiavimo su Latvija ir Estija galimybes ir pasisakė už trijų šalių karinę sąjungą.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -44,7 +44,7 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Stasys Raštikis balandį dalyvavo Adolfo Hitlerio 50-mečio šventime, o gegužę oficialiai lankėsi Lenkijoje.'
+  teiginys: 'Kariuomenės vadas Stasys Raštikis balandį dalyvavo Adolfo Hitlerio 50-mečio šventime, o gegužę oficialiai lankėsi Lenkijoje.'
   pagrindžia:
     - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -64,7 +64,7 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje įgavo tokį didelį populiarumą, jog prezidentas po ilgoko ambicijų konflikto 1940 m. balandį atleido jį iš pareigų.'
+  santrauka: 'Kariuomenės vadas Stasys Raštikis visuomenėje įgavo didelį populiarumą, todėl prezidentas po ambicijų konflikto 1940 m. balandį atleido jį iš pareigų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Krikščionių demokratų pakraipos opozicija atvirai pretendavo daly-
@@ -95,7 +95,7 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Stasys Raštikis svarstė karinį bendradarbiavimą su Latvija ir Estija ir pasisakė už trijų šalių karinę sąjungą.'
+  santrauka: 'Stasys Raštikis tyrė karinio bendradarbiavimo su Latvija ir Estija galimybes ir pasisakė už trijų šalių karinę sąjungą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Karinėje srityje
@@ -124,7 +124,7 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Stasys Raštikis balandį dalyvavo Adolfo Hitlerio 50-mečio šventime, o gegužę oficialiai lankėsi Lenkijoje.'
+  santrauka: 'Kariuomenės vadas Stasys Raštikis balandį dalyvavo Adolfo Hitlerio 50-mečio šventime, o gegužę oficialiai lankėsi Lenkijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kariuomenės vadas gen. S. Raštikis balandį dalyvavo A. Hitlerio

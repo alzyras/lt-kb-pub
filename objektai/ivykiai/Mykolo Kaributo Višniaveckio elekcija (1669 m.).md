@@ -33,46 +33,28 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Didikai bandė šitą elekciją sutrukdyti, tačiau bajorija dėjo galvą už savo išrinktąjį karalių.'
+  teiginys: 'Didikams nepavyko sutrukdyti Mykolo Kaributo Višniaveckio elekcijos, nes bajorija ir Pacų vadovaujama Lietuva jį palaikė.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Jam metus šūkį, visai netikėtai karalium buvo paskelbtas Mykolas Kaributas Višniaveckis.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Didikai bandė šitą elekciją sutrukdyti, tačiau bajorija dėjo galvą už savo išrinktąjį karalių.'
+  santrauka: 'Didikams nepavyko sutrukdyti Mykolo Kaributo Višniaveckio elekcijos, nes bajorija ir Pacų vadovaujama Lietuva jį palaikė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Didikai bandė šitą elekciją sutruk-
     dyti, tačiau bajorija dėjo galvą už savo išrinktąjį karalių. Pacų
     vadovaujamoji Lietuva irgi pasisakė už jį, ir tuo būdu Višnia-
     veckis tapo karalium.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Jam metus šūkį, visai netikėtai karalium buvo paskelbtas Mykolas Kaributas Višniaveckis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pagaliau atsirado žmonių, kurie sumanė pasinaudoti šituo bajorijos nepasitenki-
-    nimu ir išrinkti karalių, aplenkiant didikus. To sumanymo prie-
-    šaky stovėjo Lenkijos vicekancleris Olšovskis. Jam metus šūkį,
-    visai netikėtai karalium buvo paskelbtas Mykolas Kaributas Viš-
-    niaveckis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

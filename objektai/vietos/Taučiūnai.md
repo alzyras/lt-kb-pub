@@ -18,20 +18,22 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
 
 ## Teiginiai
 - t-001
-  teiginys: 'Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).'
+  teiginys: 'Taučiūnų kaimo lauke netoli Kėdainių stovėjo Povilo Lukšio paminklas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).'
+  santrauka: 'Taučiūnų kaimo lauke netoli Kėdainių stovėjo Povilo Lukšio paminklas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

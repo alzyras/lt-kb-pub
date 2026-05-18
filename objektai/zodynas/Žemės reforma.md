@@ -26,7 +26,7 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Dėl vykdytos žemės reformos didžioji Lietuvos ūkių dalis buvo per smulkūs, kad galėtų garantuoti šeimai pajamas, prilygstančias minimaliam gyvenimo lygiui.'
+  teiginys: 'Dėl žemės reformos didžioji Lietuvos ūkių dalis buvo per smulkūs, kad šeimai garantuotų minimaliam gyvenimo lygiui prilygstančias pajamas.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -55,7 +55,7 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Dėl vykdytos žemės reformos didžioji Lietuvos ūkių dalis buvo per smulkūs, kad galėtų garantuoti šeimai pajamas, prilygstančias minimaliam gyvenimo lygiui.'
+  santrauka: 'Dėl žemės reformos didžioji Lietuvos ūkių dalis buvo per smulkūs, kad šeimai garantuotų minimaliam gyvenimo lygiui prilygstančias pajamas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dėl vykdytos žemės reformos didžioji

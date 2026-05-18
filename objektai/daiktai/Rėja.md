@@ -41,13 +41,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Rėjoje kūlė javus, o jos viduje buvo duoba javams džiovinti.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Neturtingieji toje duoboje kartais ir pėrėsi.'
   pagrindžia:
     - c-002
@@ -56,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Rėjoje kūlė javus, o jos viduje buvo duoba javams džiovinti.
+  santrauka: 'Rėjoje kūlė javus, o jos viduje buvo duoba javams džiovinti.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Penktasis trobesys buvo taip pat pailguotinai ketvirtainis, reja vadinamas, kuriame javus
@@ -70,9 +70,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Neturtingieji toje duoboje kartais ir pėrėsi.
+  santrauka: 'Neturtingieji toje duoboje kartais ir pėrėsi.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Pas
@@ -85,4 +85,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004

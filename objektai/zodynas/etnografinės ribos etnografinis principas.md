@@ -33,7 +33,7 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Delegacija buvo instruktuota derybose dėl sienų remtis etnografiniu principu, darant būtiniausias ekonomines korektyvas.'
+  teiginys: 'Delegacija derybose dėl sienų turėjo remtis etnografiniu principu ir daryti būtiniausias ekonomines korektyvas.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -77,7 +77,7 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Delegacija buvo instruktuota derybose dėl sienų remtis etnografiniu principu, darant būtiniausias ekonomines korektyvas.'
+  santrauka: 'Delegacija derybose dėl sienų turėjo remtis etnografiniu principu ir daryti būtiniausias ekonomines korektyvas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Delegacija

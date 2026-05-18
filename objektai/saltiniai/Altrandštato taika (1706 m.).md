@@ -21,8 +21,12 @@ Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką, atsižadėjo Res
   teiginys: 'Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką, atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį (1706 m.).'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką, atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį (1706 m.).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -30,10 +34,10 @@ Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką, atsižadėjo Res
     Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką,
     atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį
     (1706 m.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

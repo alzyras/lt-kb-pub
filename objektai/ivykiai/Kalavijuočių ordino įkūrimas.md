@@ -33,13 +33,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ordinas buvo pavadintas Kristaus Karių Brolija (Fratres Militiae Christi), bet dėl išsiūto ant balto jų apsiausto raudono kalavijo paprastai vadinamas kalavijuočių ordinu.'
+  teiginys: '1202 m. vyskupo Alberto įkurtas ordinas buvo pavadintas Kristaus Karių Brolija, bet dėl raudono kalavijo ženklo vadintas kalavijuočių ordinu.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ordinas buvo pavadintas Kristaus Karių Brolija (Fratres Militiae Christi), bet dėl išsiūto ant balto jų apsiausto raudono kalavijo paprastai vadinamas kalavijuočių ordinu.'
+  santrauka: '1202 m. vyskupo Alberto įkurtas ordinas buvo pavadintas Kristaus Karių Brolija, bet dėl raudono kalavijo ženklo vadintas kalavijuočių ordinu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vysku-
@@ -48,10 +50,10 @@ Nenurodyta
     taus Karių Brolija _(Fratres Militiae Christi),_ bet dėl išsiūto ant
     balto jų apsiausto raudono kalavijo paprastai vadinamas ka-
     lavijuočių ordinu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

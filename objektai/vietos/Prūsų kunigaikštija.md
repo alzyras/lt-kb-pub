@@ -18,13 +18,15 @@ Pasienio stulpas, Lietuvos Lenkijos ir Prūsų kunigaikštijos sienų susiėjimo
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pasienio stulpas, Lietuvos Lenkijos ir Prūsų kunigaikštijos sienų susiėjimo vietoje pastatytas 1545 m. Viršuj parašo lentos matyti Lietuvos Vytis ir Lenkijos erelis.'
+  teiginys: '1545 m. Lietuvos, Lenkijos ir Prūsų kunigaikštijos sienų susiėjimo vietoje buvo pastatytas pasienio stulpas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pasienio stulpas, Lietuvos Lenkijos ir Prūsų kunigaikštijos sienų susiėjimo vietoje pastatytas 1545 m. Viršuj parašo lentos matyti Lietuvos Vytis ir Lenkijos erelis.'
+  santrauka: '1545 m. Lietuvos, Lenkijos ir Prūsų kunigaikštijos sienų susiėjimo vietoje buvo pastatytas pasienio stulpas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pasienio stulpas,
@@ -33,10 +35,10 @@ Pasienio stulpas, Lietuvos Lenkijos ir Prūsų kunigaikštijos sienų susiėjimo
     pastatytas 1545 m. Viršuj parašo
     lentos matyti Lietuvos Vytis ir
     Lenkijos erelis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

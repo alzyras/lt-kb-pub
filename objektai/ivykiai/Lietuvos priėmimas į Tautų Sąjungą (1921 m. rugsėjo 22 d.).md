@@ -32,13 +32,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kitame visuotiniame Tautų Sąjungos susirinkime (1921 m.) visų trijų Pabaltijo valstybių priėmimo klausimas buvo teigiamai išspręstas, tačiau ne be sunkenybių Lietuvai.'
+  teiginys: '1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą ir įėjo lygiomis teisėmis į pasaulio valstybių draugiją.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kitame visuotiniame Tautų Sąjungos susirinkime (1921 m.) visų trijų Pabaltijo valstybių priėmimo klausimas buvo teigiamai išspręstas, tačiau ne be sunkenybių Lietuvai.'
+  santrauka: '1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą ir įėjo lygiomis teisėmis į pasaulio valstybių draugiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kitame visuotiniame Tautų Sąjungos susirinkime (1921 m.)
@@ -55,11 +57,11 @@ Nenurodyta
     Lenkai ir Rumunai).
     Tuo būdu nuo 1921 metų rugsėjo 22 d. Lietuva įėjo lygio-
     mis teisėmis į pasaulio valstybių draugiją.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

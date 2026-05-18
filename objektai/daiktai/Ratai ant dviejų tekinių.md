@@ -41,13 +41,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Pirmieji kalnėnų ir žemaičių ratai buvo ant dviejų tekinių, vadinamų šliuižiu.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Pjautuvus, dalgius ir grėblius darydavo iš medžio, ne iš geležies.'
   pagrindžia:
     - c-002
@@ -56,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Pirmieji kalnėnų ir žemaičių ratai buvo ant dviejų tekinių, vadinamų šliuižiu.
+  santrauka: 'Pirmieji kalnėnų ir žemaičių ratai buvo ant dviejų tekinių, vadinamų šliuižiu.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Pirmieji ratai kalnėnų ir žemaičių buvo ant dviejų tekinių, šliuižiu^275 vadinami, ant kurių javus ir
@@ -68,9 +68,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Pjautuvus, dalgius ir grėblius darydavo iš medžio, ne iš geležies.
+  santrauka: 'Pjautuvus, dalgius ir grėblius darydavo iš medžio, ne iš geležies.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Pjautuvus, dalgius ir grėblius dėvėjo tokius pat, kaip jei šiandien regim dėvimus, tiktai ne
@@ -81,7 +81,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

@@ -41,13 +41,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Pirčioje buvo krosnis, plautai ir suolai, ant kurių pėrėsi su vantomis.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Pirtis buvo laikoma naudingu ir reikalingu daiktu, į ją vesdavo ir svečius, ir siuntinius.'
   pagrindžia:
     - c-002
@@ -56,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Pirčioje buvo krosnis, plautai ir suolai, ant kurių pėrėsi su vantomis.
+  santrauka: 'Pirčioje buvo krosnis, plautai ir suolai, ant kurių pėrėsi su vantomis.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Ašmasis trobesys buvo vadinamas pirčia; pačioj pirty buvo krosnis, pusėj sienų buvo plautai,
@@ -71,9 +71,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Pirtis buvo laikoma naudingu ir reikalingu daiktu, į ją vesdavo ir svečius, ir siuntinius.
+  santrauka: 'Pirtis buvo laikoma naudingu ir reikalingu daiktu, į ją vesdavo ir svečius, ir siuntinius.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Pasaka yra užrašyta, jog, apkyrėjus zokaninkams^242 dominikonims
@@ -88,4 +88,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004

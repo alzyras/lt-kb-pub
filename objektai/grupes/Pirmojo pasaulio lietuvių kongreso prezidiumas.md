@@ -18,23 +18,25 @@ Pirmojo pasaulio lietuvių kongreso prezidiumas.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pirmojo pasaulio lietuvių kongreso prezidiumas.'
+  teiginys: 'Pirmojo pasaulio lietuvių kongreso prezidiumas veikė 1935 m. rugpjūčio 11–17 d. Kaune vykusiame kongrese.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pirmojo pasaulio lietuvių kongreso prezidiumas.'
+  santrauka: 'Pirmojo pasaulio lietuvių kongreso prezidiumas veikė 1935 m. rugpjūčio 11–17 d. Kaune vykusiame kongrese.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmojo pasaulio lietuvių kongreso prezidiumas.
     (Kongresas įvyko 1935 m. rugpiūčio 11—17 d. Kaune. Tarp kitko jis
     nutarė įkurti Pasaulio Lietuvių Sąjungą).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -22,10 +22,14 @@ Tuo tikslu pas Napoleoną į Tilžę buvo nuvykusi net slapta Lietuvos bajorų d
   teiginys: 'Tuo tikslu pas Napoleoną į Tilžę buvo nuvykusi net slapta Lietuvos bajorų delegacija.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Napoleono ir Aleksandro I susitikimas Nemune prie Tilžės (1807 m. birželio 25 d.).'
+  teiginys: '1807 m. birželio 25 d. Napoleonas ir Aleksandras I susitiko Nemune prie Tilžės.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -38,23 +42,23 @@ Tuo tikslu pas Napoleoną į Tilžę buvo nuvykusi net slapta Lietuvos bajorų d
     nieko neišėjo, nes Napoleonas nenorėjo kariauti su caru Alek-
     sandru I (1801—1825 m.). Tilžėje padaryta su Aleksandru I taika
     (1807 m.) palaidojo Lietuvos bajorų viltis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Napoleono ir Aleksandro I susitikimas Nemune prie Tilžės (1807 m. birželio 25 d.).'
+  santrauka: '1807 m. birželio 25 d. Napoleonas ir Aleksandras I susitiko Nemune prie Tilžės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Napoleono ir Aleksandro I susitikimas Nemune prie Tilžės
     (1807 m. birželio 25 d.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

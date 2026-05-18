@@ -20,7 +20,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Partizanų vadovybė 1947 m. pabaigoje per Juozą Lukšą-Skirmantą ir Kazimierą Pyplį-Mažytį perdavė laišką popiežiui Pijui XII.'
+  teiginys: 'Popiežiui Pijui XII buvo skirtas 1947 m. pabaigoje į laisvąjį pasaulį nugabentas partizanų vadovybės laiškas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -28,7 +28,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Partizanų vadovybė 1947 m. pabaigoje per Juozą Lukšą-Skirmantą ir Kazimierą Pyplį-Mažytį perdavė laišką popiežiui Pijui XII.'
+  santrauka: 'Popiežiui Pijui XII buvo skirtas 1947 m. pabaigoje į laisvąjį pasaulį nugabentas partizanų vadovybės laiškas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir Kazimieras

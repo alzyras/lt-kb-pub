@@ -18,7 +18,7 @@ Nuo 1993 m. vidurio infliacijos lygis pradėjo mažėti, iš esmės dėl naciona
 
 ## Teiginiai
 - t-001
-  teiginys: 'Nuo 1993 m. vidurio infliacija mažėjo iš esmės dėl Lietuvos banko sugriežtintos pinigų politikos ir pradėto taikyti valiutų valdybos modelio.'
+  teiginys: 'Nuo 1993 m. vidurio infliacija mažėjo dėl Lietuvos banko sugriežtintos pinigų politikos ir 1994 m. pradėto valiutų valdybos modelio.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Nuo 1993 m. vidurio infliacijos lygis pradėjo mažėti, iš esmės dėl naciona
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Nuo 1993 m. vidurio infliacija mažėjo iš esmės dėl Lietuvos banko sugriežtintos pinigų politikos ir pradėto taikyti valiutų valdybos modelio.'
+  santrauka: 'Nuo 1993 m. vidurio infliacija mažėjo dėl Lietuvos banko sugriežtintos pinigų politikos ir 1994 m. pradėto valiutų valdybos modelio.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo 1993 m.

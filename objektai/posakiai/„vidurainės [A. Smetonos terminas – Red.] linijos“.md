@@ -29,7 +29,7 @@ Smetona stengėsi laikytis „vidurainės [A.
 
 ## Teiginiai
 - t-001
-  teiginys: 'A. Smetona stengėsi laikytis „vidurainės linijos“ ir nesusisieti su konkrečia valstybe ar jų grupe.'
+  teiginys: 'A. Smetona „viduraine linija“ vadino siekį užsienio politikoje nesusisieti su konkrečia valstybe ar jų grupe.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -37,7 +37,7 @@ Smetona stengėsi laikytis „vidurainės [A.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'A. Smetona stengėsi laikytis „vidurainės linijos“ ir nesusisieti su konkrečia valstybe ar jų grupe.'
+  santrauka: 'A. Smetona „viduraine linija“ vadino siekį užsienio politikoje nesusisieti su konkrečia valstybe ar jų grupe.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pasirodė, kad jis neturėjo naujų užsienio politikos idė-

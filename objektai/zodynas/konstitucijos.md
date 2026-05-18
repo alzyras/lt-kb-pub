@@ -23,6 +23,8 @@ Visi seimo nutarimai, vadinęsi konstitucijomis, buvo įstatymai.
   teiginys: 'Visi seimo nutarimai, vadinęsi konstitucijomis, buvo įstatymai.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -32,10 +34,10 @@ Visi seimo nutarimai, vadinęsi konstitucijomis, buvo įstatymai.
     Visi seimo nutarimai, vadinęsi konstituci-
     jomis, buvo įstatymai. Po seimo paprastai jie būdavo išspaus-
     dinami ir pranešami visam kraštui.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

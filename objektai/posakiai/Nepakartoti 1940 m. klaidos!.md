@@ -32,7 +32,7 @@ tags:
 - Pagrindinė forma: Nepakartoti 1940 m. klaidos!
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Ši frazė yra Sausio 13-osios gynėjų nerašyta misija.'
   pagrindžia:
     - c-001
@@ -41,10 +41,21 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Frazė tiesiogiai apibrėžia gynybos moralinę užduotį.
+  santrauka: 'Ši frazė yra Sausio 13-osios gynėjų nerašyta misija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Gynėjai išsikėlė nerašytą misiją - pa-
+    Pirmomis sausio įvykių dienomis tik
+    mažesnioji gynėjų dalis turėjo aiškesnę uz-
+    duotį - pagal galimybes ginti AT rūmus ir
+    jų išorinį perimetrą, siekiant užfiksuoti patį
+    pasipriešinimo faktą, o daliai ginkluotų gy-
+    nėjų AT šturmo metu atakuoti šturmuojan-
+    čias sovietų pajėgas iš nugaros. Tuo tikslu
+    dalis ginkluotų A. Pociaus vadovaujamų
+    vyrų buvo išdėstyti ties Žvėryno tiltu ki-
+    toje Neries pusėje, dalis kovotojų išsidėstė
+    ant Nacionalinės M. Mažvydo bibliotekos
+    stogo. Gynėjai išsikėlė nerašytą misiją - pa-
     sipriešinti bet kokiu atveju ir nepakartoti
     1940 m. klaidos!
   citata_rodoma: ""
@@ -53,4 +64,9 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/paprociai/Aukščiausiosios Tarybos gynybos principai]]
+- [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]

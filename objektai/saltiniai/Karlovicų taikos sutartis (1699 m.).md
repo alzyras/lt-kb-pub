@@ -34,25 +34,6 @@ Karai su turkais tęsėsi iki pat 1699 m., kai buvo tarp ATR ir Turkijos buvo su
 - Karai su turkais tęsėsi iki pat 1699 m., kai buvo tarp ATR ir Turkijos buvo sudaryta Karlovicų taikos sutartis. Šio karinio.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Karai su turkais tęsėsi iki pat 1699 m., kai buvo tarp ATR ir Turkijos buvo sudaryta Karlovicų taikos sutartis. Šio karinio.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Karai su turkais tęsėsi iki pat 1699 m., kai buvo tarp ATR ir Turkijos buvo sudaryta Karlovicų taikos sutartis. Šio karinio.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Karai su turkais tęsėsi iki pat 1699 m., kailį, kuris pritaisytas taip, kad atrodytų karingai, kas nepaprastai puošia raitelį. Jų ietys
-    kai buvo tarp ATR ir Turkijos buvo suda- yra ne mažiau įspūdingos: jos ilgesnės už dideles mūsų pilkas, apvalios su aštriu geležiniu
-    ryta Karlovicų taikos sutartis. Šio karinio
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
-  pagrindžia:
-    - t-001
+
+## Bibliografiniai įrodymai

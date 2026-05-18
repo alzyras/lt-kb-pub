@@ -32,7 +32,7 @@ Tai Vilniaus puolimo pradžią ženklinantis ir miestiečius mobilizuojantis ša
 - Pagrindinė forma: Prie ginklų!
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Ši frazė yra vilniečių šauksmas puolimo pradžioje.'
   pagrindžia:
     - c-001
@@ -41,7 +41,7 @@ Tai Vilniaus puolimo pradžią ženklinantis ir miestiečius mobilizuojantis ša
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Šauksmas pasigirsta iškart po patrankos signalo ir bažnyčių varpų.
+  santrauka: 'Ši frazė yra vilniečių šauksmas puolimo pradžioje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tai buvo
@@ -54,4 +54,4 @@ Tai Vilniaus puolimo pradžią ženklinantis ir miestiečius mobilizuojantis ša
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

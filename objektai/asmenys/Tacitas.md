@@ -18,7 +18,7 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
 
 ## Teiginiai
 - t-001
-  teiginys: 'Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Lietuvos vardo.'
+  teiginys: 'Tacitas paminėjo aisčius beveik tūkstantį metų iki Lietuvos vardo paminėjimo.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Lietuvos vardo.'
+  santrauka: 'Tacitas paminėjo aisčius beveik tūkstantį metų iki Lietuvos vardo paminėjimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės

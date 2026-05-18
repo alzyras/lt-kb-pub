@@ -45,7 +45,7 @@ Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European pol
 
 ## Teiginiai
 - t-001
-  teiginys: 'A. E. Sennas kartu su V. Žaliu siejamas su 1997 m. Niujorke išleistu veikalu „Lithuania in European politics“.'
+  teiginys: 'A. E. Sennas kartu su V. Žaliu parengė 1997 m. Niujorke išleistą veikalą „Lithuania in European politics“.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -53,7 +53,7 @@ Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European pol
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'A. E. Sennas kartu su V. Žaliu siejamas su 1997 m. Niujorke išleistu veikalu „Lithuania in European politics“.'
+  santrauka: 'A. E. Sennas kartu su V. Žaliu parengė 1997 m. Niujorke išleistą veikalą „Lithuania in European politics“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     , Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European

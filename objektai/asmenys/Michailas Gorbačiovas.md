@@ -32,7 +32,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 
 ## Teiginiai
 - t-001
-  teiginys: 'Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvoje didėjo visuomenės nepasitenkinimas.'
+  teiginys: 'Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvoje visuomenės nepasitenkinimas didėjo, kol ji pati ėmėsi iniciatyvos.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -40,7 +40,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvoje didėjo visuomenės nepasitenkinimas.'
+  santrauka: 'Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvoje visuomenės nepasitenkinimas didėjo, kol ji pati ėmėsi iniciatyvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     KGB numeriais pažymėjo eisenos lyderius

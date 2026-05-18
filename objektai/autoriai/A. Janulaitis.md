@@ -63,107 +63,33 @@ A. Janulaitis minimas kaip istorikas, teisės istorikas ir leidėjas; šiame tom
 
 ## Teiginiai
 - t-001
-  teiginys: 'Janulaitis, Lietuvos visuomenės ir teisės istorija (1916; parašyta sekant Št.'
+  teiginys: 'A. Janulaitis 1932 m. Kaune paskelbė veikalą „Ignas Danilavičius“.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Janulaitis, Kęstutis Marienburgo kalėjime (Praeitis, I);.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Janulaitis, Žemaičiai ir bažnytinis seimas Konstancoje (Praeitis II);.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Janulaitis, Valstiečių sukilimas XVIII a.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'A. Janulaitis parašė Ignas Danilavičius.'
-  pagrindžia:
-    - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-006
+- t-002
   teiginys: 'A. Janulaitis buvo Daukanto laiškų leidėjas.'
   pagrindžia:
-    - c-006
+    - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-007
+- t-003
   teiginys: 'A. Janulaitis laikomas pirmuoju lietuvių teisės istoriku ir 1920 m. paskelbė Lietuvos visuomenės ir teisės istoriją.'
   pagrindžia:
-    - c-007
+    - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-008
-  teiginys: 'A. Janulaitis parašė veikalus Žydai Lietuvoje, Vyriausias Lietuvos Tribunolas XVI-XVIII amž., Užnemunė po Prūsais 1795-1807, Napoleono teisynas ir Lietuvos bajorai ir jų seimeliai 1795-1863, taip pat monografiją apie Kęstutį.'
+- t-004
+  teiginys: 'A. Janulaitis 1933 m. „Praeities“ antrame tome paskelbė darbą „Žemaičiai ir bažnytinis seimas Konstancijoje“.'
   pagrindžia:
-    - c-010
-    - c-008
+    - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-009
-  teiginys: 'A. Janulaitis parašė Žemaičiai ir bažnytinis seimas Konstancijoje.'
-  pagrindžia:
-    - c-009
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Janulaitis, Lietuvos visuomenės ir teisės istorija (1916; parašyta sekant Št.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    _A. Janulaitis,_ Lietuvos visuomenės ir teisės istorija (1916; pa-
-    rašyta sekant _Št. Kutrzebos_ Historja ustroju Polski w zarysie, II — Litwa).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Janulaitis, Kęstutis Marienburgo kalėjime (Praeitis, I);.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    _A. Janulaitis,_ Kęstutis Marienburgo kalėjime (Pra-
-    eitis, I);
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Janulaitis, Žemaičiai ir bažnytinis seimas Konstancoje (Praeitis II);.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    _A. Janulaitis,_ Žemaičiai ir bažnytinis
-    seimas Konstancoje (Praeitis II);
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Janulaitis, Valstiečių sukilimas XVIII a.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    _A. Janulaitis,_ Valstiečių sukilimas XVIII a. Lietuvoje
-    (1910);
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: Aug. Janulaitis pateikiamas kaip veikalo Ignas Danilavičius autorius
+  santrauka: 'A. Janulaitis 1932 m. Kaune paskelbė veikalą „Ignas Danilavičius“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^37) **Plačiai apie ji parašė Aug. Janulaitis :** **_Ignas Danilavičius,_** **Kaunas
@@ -174,9 +100,9 @@ A. Janulaitis minimas kaip istorikas, teisės istorikas ir leidėjas; šiame tom
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: Daukanto laiškai bibliografiškai priskirti A. Janulaičiui kaip leidėjui
+    - t-001
+- c-002
+  santrauka: 'A. Janulaitis buvo Daukanto laiškų leidėjas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^54) **A. Janulaitis (leidėjas):** **_Daukanto laiškai,_** **Mūsų Senovė, red. J. Tu­
@@ -190,9 +116,9 @@ A. Janulaitis minimas kaip istorikas, teisės istorikas ir leidėjas; šiame tom
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
-- c-007
-  santrauka: A. Janulaitis apibūdinamas kaip pirmasis lietuvių teisės istorikas ir Lietuvos visuomenės bei teisės istorijos autorius
+    - t-002
+- c-003
+  santrauka: 'A. Janulaitis laikomas pirmuoju lietuvių teisės istoriku ir 1920 m. paskelbė Lietuvos visuomenės ir teisės istoriją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuvos istorijos srityje nepalyginamai savo raštais buvo vai­
@@ -210,27 +136,9 @@ A. Janulaitis minimas kaip istorikas, teisės istorikas ir leidėjas; šiame tom
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
-- c-008
-  santrauka: Išvardijami pagrindiniai A. Janulaičio istoriniai veikalai ir nepublikuota monografija apie Kęstutį
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tarp gausių jo raštų paminėtina: «Žydai Lietuvoje» (1923),
-    «Vyriausias Lietuvos Tribunolas XVI-XVIII amž. » (1927), «Užne­
-    munė po Prūsais 1795-1807 » (1928), «Napoleono teisynas» (1930).
-    Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų
-    veikalą «Lietuvos bajorai ir jų seimeliai 1795-1863 » (1936). Lie­
-    tuvos Karininkų Ramovės iniciatyva Janulaitis parašė plačią mo­
-    nografiją apie Kęstutį, kurią išspausdinti sutrukdė 1940 m. įvykiai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
-- c-009
-  santrauka: Bibliografinis įrašas susieja A. Janulaitį su darbu apie Žemaičius ir Konstancos seimą
+    - t-003
+- c-004
+  santrauka: 'A. Janulaitis 1933 m. „Praeities“ antrame tome paskelbė darbą „Žemaičiai ir bažnytinis seimas Konstancijoje“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Janulai­
@@ -251,20 +159,7 @@ A. Janulaitis minimas kaip istorikas, teisės istorikas ir leidėjas; šiame tom
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-009
-- c-010
-  santrauka: A. Janulaitis papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    (^3) ) Janul. „Žydai Lietuvoje“. Privilegija atspausta I priede 169—173.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-008
-    - t-008
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

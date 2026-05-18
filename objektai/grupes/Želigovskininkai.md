@@ -19,7 +19,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvai reikėjo sustabdyti tolesnį želigovskininkų judėjimą į Lietuvos teritoriją.'
+  teiginys: 'Po L. Želigovskio akcijos Lietuvai reikėjo stabdyti tolesnį želigovskininkų judėjimą į Lietuvos teritoriją.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvai reikėjo sustabdyti tolesnį želigovskininkų judėjimą į Lietuvos teritoriją.'
+  santrauka: 'Po L. Želigovskio akcijos Lietuvai reikėjo stabdyti tolesnį želigovskininkų judėjimą į Lietuvos teritoriją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L. Želigovskio akciją sveikino minios Vilniaus lenkų, Tautų

@@ -18,22 +18,24 @@ Bet Chlapovskis, kurio vadovybėje buvo ir Gelgaudas, užuot kovojęs su rusais,
 
 ## Teiginiai
 - t-001
-  teiginys: 'Bet Chlapovskis, kurio vadovybėje buvo ir Gelgaudas, užuot kovojęs su rusais, prieš pereidamas Prūsijos sieną, padėjo ginklus.'
+  teiginys: 'Chlapovskio vadovaujama kariuomenė, užuot kovojusi su rusais, prieš pereidama Prūsijos sieną padėjo ginklus.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Bet Chlapovskis, kurio vadovybėje buvo ir Gelgaudas, užuot kovojęs su rusais, prieš pereidamas Prūsijos sieną, padėjo ginklus.'
+  santrauka: 'Chlapovskio vadovaujama kariuomenė, užuot kovojusi su rusais, prieš pereidama Prūsijos sieną padėjo ginklus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet Chlapovskis, kurio vadovybėje buvo ir Gelgaudas, užuot
     kovojęs su rusais, prieš pereidamas Prūsijos sieną, padėjo gink-
     lus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

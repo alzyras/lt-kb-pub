@@ -20,24 +20,26 @@ Jo nevykusiai padaryta bažnytinė unija sukiršino rytų apeigų tikinčiuosius
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jo nevykusiai padaryta bažnytinė unija sukiršino rytų apeigų tikinčiuosius (unitus su pravoslavais) ir paruošė dirvą vėlesnėms audroms ir Maskvos įsikišimui.'
+  teiginys: 'Bažnytinė unija sukiršino rytų apeigų unitus ir pravoslavus ir paruošė dirvą Maskvos įsikišimui.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jo nevykusiai padaryta bažnytinė unija sukiršino rytų apeigų tikinčiuosius (unitus su pravoslavais) ir paruošė dirvą vėlesnėms audroms ir Maskvos įsikišimui.'
+  santrauka: 'Bažnytinė unija sukiršino rytų apeigų unitus ir pravoslavus ir paruošė dirvą Maskvos įsikišimui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jo nevy-
     kusiai padaryta bažnytinė unija sukiršino rytų apeigų tikinčiuo-
     sius (unitus su pravoslavais) ir paruošė dirvą vėlesnėms aud-
     roms ir Maskvos įsikišimui.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

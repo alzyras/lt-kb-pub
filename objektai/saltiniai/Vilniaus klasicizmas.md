@@ -18,13 +18,13 @@ Vilniaus klasicizmas: parodos katalogas.
 
 ## Teiginiai
 - t-001
-  teiginys: '„Vilniaus klasicizmas“ yra parodos katalogas, susijęs su parodomis Varšuvos nacionaliniame muziejuje ir Lietuvos dailės muziejuje.'
+  teiginys: '„Vilniaus klasicizmas“ yra parodos katalogas, siejamas su 1999–2000 m. parodomis Varšuvos nacionaliniame muziejuje ir Lietuvos dailės muziejuje.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '„Vilniaus klasicizmas“ yra parodos katalogas, susijęs su parodomis Varšuvos nacionaliniame muziejuje ir Lietuvos dailės muziejuje.'
+  teiginys: '„Vilniaus klasicizmas“ yra parodos katalogas, siejamas su 1999–2000 m. parodomis Varšuvos nacionaliniame muziejuje ir Lietuvos dailės muziejuje.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -34,7 +34,7 @@ Vilniaus klasicizmas: parodos katalogas.
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: '„Vilniaus klasicizmas“ yra parodos katalogas, susijęs su parodomis Varšuvos nacionaliniame muziejuje ir Lietuvos dailės muziejuje.'
+  santrauka: '„Vilniaus klasicizmas“ yra parodos katalogas, siejamas su 1999–2000 m. parodomis Varšuvos nacionaliniame muziejuje ir Lietuvos dailės muziejuje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilnius, 2001; Vilniaus klasicizmas: parodos

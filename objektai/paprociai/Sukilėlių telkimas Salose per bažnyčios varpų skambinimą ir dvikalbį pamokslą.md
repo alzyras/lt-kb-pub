@@ -41,13 +41,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Žmones į Salas telkė bažnyčios varpų skambėjimas.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Kunigas Mackevičius sakė pamokslą ir lenkiškai, ir lietuviškai, o kariuomenė bei žmonių pulkai jo klausėsi tyrame lauke.'
   pagrindžia:
     - c-002
@@ -56,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Žmones į Salas telkė bažnyčios varpų skambėjimas.
+  santrauka: 'Žmones į Salas telkė bažnyčios varpų skambėjimas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „Štai vieną dieną bažnyčioje visais varpais skambina. Pulkai žmonių eina į Salas. Nuėjo
@@ -67,9 +67,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Kunigas Mackevičius sakė pamokslą ir lenkiškai, ir lietuviškai, o kariuomenė bei žmonių pulkai jo klausėsi tyrame lauke.
+  santrauka: 'Kunigas Mackevičius sakė pamokslą ir lenkiškai, ir lietuviškai, o kariuomenė bei žmonių pulkai jo klausėsi tyrame lauke.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Gražų pamokslą lenkiškai, tą pat ir lietuviškai sakęs kunigas Mackevičius. Visa kariuo-
@@ -83,7 +83,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

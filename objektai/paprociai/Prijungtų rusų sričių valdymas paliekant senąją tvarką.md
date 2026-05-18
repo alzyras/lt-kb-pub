@@ -34,21 +34,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Jie palikdavo visą senąją tvarką, pastatydami tik savo kunigaikštį.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Jie palikdavo visą senąją tvarką, pastatydami tik savo kunigaikštį.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Išvaduodami rusus nuo totorių jungo, jie buvo laikomi net krašto geradariais. Rusai juo lengviau priimdavo jų valdžią, kad lietuviai nieko nekeisdavo vietos gyvenime. Jie palikdavo visą senąją tvarką, pastatydami tik savo kunigaikštį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta

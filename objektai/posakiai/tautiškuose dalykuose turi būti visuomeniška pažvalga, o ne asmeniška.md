@@ -20,13 +20,15 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Šliūpas savo asmeniškomis pažiūromis nėra katalikas, bet jeigu jis, kaipo lietuvis, ką naudingo lietuvystei parašo, o tas veikalas nesipriešina mūsų tikėjimui, tai su džiaugsmu turime priimti ir jam dėkoti: tautiškuose dalykuose turi būti visuomeniška.'
+  teiginys: 'Burba rašė, kad Šliūpo lietuvystei naudingi darbai priimtini, jei neprieštarauja tikėjimui, nes tautiškuose dalykuose svarbi visuomeniška pažvalga.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šliūpas savo asmeniškomis pažiūromis nėra katalikas, bet jeigu jis, kaipo lietuvis, ką naudingo lietuvystei parašo, o tas veikalas nesipriešina mūsų tikėjimui, tai su džiaugsmu turime priimti ir jam dėkoti: tautiškuose dalykuose turi būti visuomeniška.'
+  santrauka: 'Burba rašė, kad Šliūpo lietuvystei naudingi darbai priimtini, jei neprieštarauja tikėjimui, nes tautiškuose dalykuose svarbi visuomeniška pažvalga.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vieną
@@ -35,11 +37,11 @@ tags:
     rašo, o tas veikalas nesipriešina mūsų tikėjimui, tai su džiaugsmu
     turime priimti ir jam dėkoti: tautiškuose dalykuose turi būti visuo-
     meniška pažvalga, o ne asmeniška".
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

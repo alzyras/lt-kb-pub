@@ -24,244 +24,54 @@ tags:
 Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio valdų vieta ir viena iš tankiau apgyventų bei valdovo būstinei artimų žemių.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Pirmieji tokie vaivadų ir kaštelionų urėdai buvo įsteigti Vilniuje ir Trakuose.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Nuvykęs į Trakus, atsigulė ir daugiau nebekėlė.'
-  pagrindžia:
-    - c-002
-- t-006
-  teiginys: 'Trakų pilies įkūrimas šiame šaltinyje siejamas su Gedimino statybomis penkių mylių atstumu nuo Kernavės.'
-  pagrindžia:
-    - c-006
-- t-007
-  teiginys: 'Kęstučio valdose buvo ir Trakai, buvę nesaugioje kaimynystėje su kryžiuočių valstybe.'
-  pagrindžia:
-    - c-007
-- t-008
-  teiginys: 'Vytautas įkurdino totorius Trakų kunigaikštijoje, o karaimus apgyvendino Naujuosiuose Trakuose.'
-  pagrindžia:
-    - c-008
-    - c-009
-- t-009
-  teiginys: '1430 m. spalio 17 d. Vytautas su Jogaila išjojo iš Vilniaus į Trakus, o pakeliui nukritęs nuo arklio buvo atvežtas į Trakus žmonos vežime.'
-  pagrindžia:
-    - c-010
-- t-011
-  teiginys: 'Žygimantas Kęstutaitis su kariuomene ėjo į Trakus.'
-  pagrindžia:
-    - c-012
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-012
-  teiginys: '1655 m. rugpjūtį po Vilniaus užėmimo netrukus buvo užimti Trakai ir Kaunas.'
-  pagrindžia:
-    - c-013
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-013
-  teiginys: 'Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį į Jiezną.'
-  pagrindžia:
-    - c-014
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-014
+- t-017
   teiginys: '1379 m. rugsėjo 29 d. po trijų dienų derybų Trakuose buvo pasirašyta sutartis.'
   pagrindžia:
-    - c-015
+    - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-015
+- t-018
   teiginys: 'Lietuvą kurį laiką valdė diarchija: Algirdas Vilniuje, o Kęstutis Trakuose.'
   pagrindžia:
-    - c-016
+    - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-016
-  teiginys: 'Trakų žemė priklausė tankiau apgyventoms sritims ir buvo arti didžiojo kunigaikščio būstinės.'
+- t-019
+  teiginys: 'Vytauto laikais Trakų žemėje buvo daug dvarų, nes ji buvo labiau apgyventa ir arti didžiojo kunigaikščio būstinės.'
   pagrindžia:
-    - c-017
+    - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pirmieji tokie vaivadų ir kaštelionų urėdai buvo įsteigti Vilniuje ir Trakuose.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pirmieji tokie vaivadų ir
-    kaštelionų urėdai buvo įsteigti Vilniuje ir Trakuose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Nuvykęs į Trakus, atsigulė ir daugiau nebekėlė.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Susitrenkęs nebegalėjo toliau joti, todėl važiavo žmonos
-    vežime. Nuvykęs į Trakus, atsigulė ir daugiau nebekėlė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-006
-  santrauka: Trakų pilies pradžia siejama su Gedimino statybomis ir legendine medžioklės vieta.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Gediminas stiprino Lietuvą, statydamas joje naujų pilių, tapu­
-    sių administracijos centrais. XVI amž. plačioji Lietuvos metraščio
-    redakcija mini įkūrimą išgarsėjusios Trakų pilies, 5 mylios atstu nuo
-    Kernavės, toje girios vietoje, kur Gediminas primedžiojęs daug
-    žvėrienos.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006
-- c-007
-  santrauka: Citata tiesiogiai mini Trakus tarp Kęstučio valdų.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    O ir paties Kęstučio visos
-    valdos (dalis tikrosios Lietuvos su Trakais, Gardino žemė ir Pa­
-    lenkė), būdamos artimoje kaimynystėje su kryžiuočių valstybe,
-    niekada nebuvo saugios.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-007
-- c-008
-  santrauka: Citata rodo, kad Vytautas įkurdino totorius Trakų kunigaikštijoje.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Atsigabenęs iš žygio daug
-    totorių belaisvių ir pabėgėlių, kurių pusę atidavė Jogailai, juos
-    Vytautas įkurdino Trakų kunigaikštijoje.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
-- c-009
-  santrauka: Citata patikslina, kad karaimai buvo apgyvendinti Naujuosiuose Trakuose.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Berods, to žygio metu paim­
-    tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
-  citata_rodoma: ""
-  teiginio_tipas: interpretacija
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
-- c-010
-  santrauka: Trakai įvardijami kaip paskutinės Vytauto kelionės tikslas prieš mirtį.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa­
-    kelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo
-    žmonos vežime.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
-
-### Susiję įvykiai
-- [[Vytauto mirtis (1430 m. spalio 27 d.)]]
-- c-012
-  santrauka: Citata tiesiogiai mini žygį į Trakus.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos didysis kunigaikštis Žygi-
-    mantas Kęstutaitis, sukaupęs „kiek galėjo
-    didžiausias lietuvių jėgas“, gavęs prašytos
-    pagalbos iš Lenkijos karaliaus Vladislovo
-    Jogailaičio, ėjo į Trakus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-011
-- c-013
-  santrauka: Citata Trakus mini tarp 1655 m. užimtų miestų.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Nors
-    Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų ver-
-    žimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą
-    lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai
-    priartėjo prie Vilniaus. Rugpjūčio 7 d. po aršių kautynių priešas
-    užėmė Lietuvos sostinę, netrukus buvo užimti Trakai ir Kaunas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-012
-- c-014
-  santrauka: Citata rodo Trakus kaip priešo judėjimo kelią į Jiezną.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pagrindinė priešo vora slinko iš Vilniaus pro Trakus, |
-    | Aukštadvarį ir pasiekė Jiezną.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-013
-- c-015
-  santrauka: Citata tiesiogiai datuoja Trakus kaip 1379 m. sutarties pasirašymo vietą.
+  santrauka: '1379 m. rugsėjo 29 d. po trijų dienų derybų Trakuose buvo pasirašyta sutartis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Po trijų dienų sunkių derybų Trakuose bu­
     vo pasirašyta (1379—IX—29) sutartis.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-014
-- c-016
-  santrauka: Citata tiesiogiai apibūdina Trakus kaip Kęstučio valdžios centrą diarchijos metu.
+    - t-017
+- c-002
+  santrauka: 'Lietuvą kurį laiką valdė diarchija: Algirdas Vilniuje, o Kęstutis Trakuose.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku­
     nigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-015
-- c-017
-  santrauka: Citata rodo Trakus kaip tankiau apgyventą ir valdovo centrui artimą žemę.
+    - t-018
+- c-003
+  santrauka: 'Vytauto laikais Trakų žemėje buvo daug dvarų, nes ji buvo labiau apgyventa ir arti didžiojo kunigaikščio būstinės.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas Didysis, ėmęs valdyti Lietuvą, taip pat pasidarė
@@ -273,11 +83,11 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
     arčiau didž. Lietuvos kunigaikščio būstinės.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-016
+    - t-019
 
 ## Ryšiai
 ### Susiję objektai

@@ -31,17 +31,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Valančium, tapo lietuvių išgama, lietuviškosios spaudos budeliu.'
+  teiginys: 'Petkevičius Muravjovui apibūdino Valančiaus lietuviškų raštų spausdinimą kaip pavojingą rusų valdžiai.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Įvedant rusiškas raides, buvo norima atitraukti lietuvius nuo lenkų ir priartinti prie rusų.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Valančium, tapo lietuvių išgama, lietuviškosios spaudos budeliu.'
+  santrauka: 'Petkevičius Muravjovui apibūdino Valančiaus lietuviškų raštų spausdinimą kaip pavojingą rusų valdžiai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo pat metu pradėjo drausti kai kurias lietuviškas kny-
@@ -51,11 +55,11 @@ Nenurodyta
     Keršydamas Valančiui, Petkevičius apibūdino Muravjovui jo
     varomą lietuviškųjų raštų spausdinimą, kaip pavojingą rusų
     valdžiai; paties vyskupo raštai, esą, taip pat priešvalstybiški.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -68,11 +72,11 @@ Nenurodyta
     knygos buvo spausdinamos svetur ir gabenamos kontrabandos
     keliu į Lietuvą. Varginga kova su spausdos draudimu tebuvo
     laimėta tik po 40 metų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

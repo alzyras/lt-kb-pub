@@ -33,7 +33,7 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
 
 ## Teiginiai
 - t-001
-  teiginys: 'LLL brežnevinės stagnacijos laikotarpiu gaivino pasipriešinimo tradiciją ir tapo pirmąja nacionalinio išsivadavimo organizacija.'
+  teiginys: 'Lietuvos laisvės lyga brežnevinės stagnacijos laikotarpiu gaivino pasipriešinimo tradiciją ir tapo pirmąja nacionalinio išsivadavimo organizacija.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -41,7 +41,7 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'LLL brežnevinės stagnacijos laikotarpiu gaivino pasipriešinimo tradiciją ir tapo pirmąja nacionalinio išsivadavimo organizacija.'
+  santrauka: 'Lietuvos laisvės lyga brežnevinės stagnacijos laikotarpiu gaivino pasipriešinimo tradiciją ir tapo pirmąja nacionalinio išsivadavimo organizacija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LLL buvo paskutinė rezistencijos organizacija, kuri brežnevi-

@@ -19,7 +19,7 @@ Soclagerį ištikus politinei, ekonominei, tautinei krizei, lietuviai surado jė
 
 ## Teiginiai
 - t-001
-  teiginys: 'Soclagerio politinės, ekonominės ir tautinės krizės metu lietuvių tautinis judėjimas prisidėjo prie komunistų valdžios Lietuvoje ir vienpartinio SSRS režimo žlugimo.'
+  teiginys: 'Soclagerio politinės, ekonominės ir tautinės krizės metu lietuviai sukūrė tautinio judėjimo modelį ir padėjo sunaikinti vienpartinį SSRS režimą.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ Soclagerį ištikus politinei, ekonominei, tautinei krizei, lietuviai surado jė
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Soclagerio politinės, ekonominės ir tautinės krizės metu lietuvių tautinis judėjimas prisidėjo prie komunistų valdžios Lietuvoje ir vienpartinio SSRS režimo žlugimo.'
+  santrauka: 'Soclagerio politinės, ekonominės ir tautinės krizės metu lietuviai sukūrė tautinio judėjimo modelį ir padėjo sunaikinti vienpartinį SSRS režimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Soclagerį ištikus politi-

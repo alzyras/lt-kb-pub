@@ -21,7 +21,7 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
 
 ## Teiginiai
 - t-001
-  teiginys: '1864 m. caro valdžia pradėjo anksčiau paskelbtą valstiečių paleidimą iš baudžiavinės priklausomybės.'
+  teiginys: '1864 m. carizmas pradėjo anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -41,7 +41,7 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1864 m. caro valdžia pradėjo anksčiau paskelbtą valstiečių paleidimą iš baudžiavinės priklausomybės.'
+  santrauka: '1864 m. carizmas pradėjo anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1864 m. – sąlyginė skiriamoji riba, kai Rusijos caro valdžia nuslopi-

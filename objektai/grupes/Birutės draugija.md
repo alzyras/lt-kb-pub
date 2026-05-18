@@ -20,14 +20,16 @@ Pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „Birutės" draugija.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „Birutės" draugija.'
+  teiginys: '„Birutės“ draugija buvo įkurta 1885 m. Tilžėje lietuviškumui stiprinti ir tautinei sąmonei kelti.'
   pagrindžia:
     - c-002
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „Birutės" draugija.'
+  santrauka: '„Birutės“ draugija buvo įkurta 1885 m. Tilžėje lietuviškumui stiprinti ir tautinei sąmonei kelti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmoji
@@ -36,15 +38,15 @@ Pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „Birutės" draugija.
     konservuoti lietuviškosios kultūros kūrinius mokslo reikalams,
     „Birutės" tikslas buvo stiprinti lietuviškumą ir kel-
     ti tautišką sąmonę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Birutės draugija papildomas patvirtintas šaltinio paminėjimas.
+  santrauka: '„Birutės“ draugija buvo įkurta 1885 m. Tilžėje lietuviškumui stiprinti ir tautinei sąmonei kelti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jos sumanytojai buvo Basanavi-
@@ -53,13 +55,11 @@ Pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „Birutės" draugija.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/V. Bruožis]]
 - [[objektai/grupes/Vokiečių literatų draugija]]

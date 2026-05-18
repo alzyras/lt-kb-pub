@@ -18,27 +18,28 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią Zigmanto sūnaus Mykolo vedama lietuvių ir į pagalbą atėjusių lenkų kariuomenė.'
+  teiginys: 'Ties Pabaisku Zigmanto sūnaus Mykolo vedama lietuvių ir lenkų kariuomenė pastojo kelią prie Šventosios.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią Zigmanto sūnaus Mykolo vedama lietuvių ir į pagalbą atėjusių lenkų kariuomenė.'
+  santrauka: 'Ties Pabaisku Zigmanto sūnaus Mykolo vedama lietuvių ir lenkų kariuomenė pastojo kelią prie Šventosios.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet, pasiekus Šventąją, netoli Ukmergės (ties Pa-
     baisku), jam pastojo kelią Zigmanto sūnaus Mykolo vedama
     lietuvių ir į pagalbą atėjusių lenkų kariuomenė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Ukmergė]]
-- [[objektai/vietos/Šventoji]]

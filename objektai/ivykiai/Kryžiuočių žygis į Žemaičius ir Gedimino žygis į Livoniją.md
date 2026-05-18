@@ -30,21 +30,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Tik 1322 m., pasikvietę svečių iš Vokietijos, kryžiuočiai suruošė žygi į Žemaičius ir sugriovė vieną pilį.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Tik 1322 m., pasikvietę svečių iš Vokietijos, kryžiuočiai suruošė žygi į Žemaičius ir sugriovė vieną pilį.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tik 1322 m., pasikvietę svečių iš Vokietijos, kryžiuočiai suruošė žygi į Žemaičius ir sugriovė vieną pilį. Atsilygindamas už tai, Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta

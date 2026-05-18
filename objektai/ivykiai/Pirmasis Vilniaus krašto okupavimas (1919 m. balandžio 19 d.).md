@@ -31,26 +31,10 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Pirmasis Vilniaus krašto okupavimas.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pirmasis Vilniaus krašto okupavimas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Pirmasis Vilniaus krašto okupavimas.** Tų metų balandžio
-    mėnesį Pilsudskio vadovaujama Lenkijos kariuomenė, pasinau-
-    dodama mūsų kariuomenės silpnumu ir josios kovomis su rusais
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Ryšiai
 ### Laikotarpiai

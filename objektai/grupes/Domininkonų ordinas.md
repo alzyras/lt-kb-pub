@@ -19,110 +19,70 @@ tags:
 Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pranciškonų ir domininkonų; jie turį savo bažnyčių ir laisvai skelbią krikščionybę. Šiame šaltinyje domininkonai papildomai rodomi kaip kryžiaus karo telkėjai, Gedimino laiškų adresatai ir Rygoje veikusios evangelizacinės aplinkos dalis.
 
 ## Teiginiai
-- t-002
-  teiginys: 'Domininkonai skelbė kryžiaus karą įvairiuose kraštuose ir turėjo atvesti naujus piligrimų būrius.'
+- t-006
+  teiginys: 'Domininkonai Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje ir Gotlande skelbė kryžiaus karą ir telkė naujus piligrimų būrius.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'Gegužės 26 d. trys laiškai buvo pasiųsti Saksų provincijos pranciškonams, domininkonams ir Hanzos miestams.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: '1323 m. Gedimino laiškai buvo pasiųsti Saksų provincijos domininkonams.'
+- t-008
+  teiginys: 'Rygoje veikė domininkonai, o iš ten į Lietuvą buvo siunčiami dvasininkai skelbti evangelijos.'
   pagrindžia:
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'Gediminas prašė domininkonų atsiųsti į Lietuvą vienuolių.'
-  pagrindžia:
-    - c-006
-    - c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'Rygoje veikė domininkonai, iš ten Lietuvon buvo siunčiami dvasininkai skelbti evangelijos.'
-  pagrindžia:
-    - c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: Domininkonai skelbdami kryžiaus karą turėjo sutelkti naujus piligrimus.
+- c-001
+  santrauka: 'Domininkonai Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje ir Gotlande skelbė kryžiaus karą ir telkė naujus piligrimų būrius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš naujo skelbdami kryžiaus
     karą Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje, Gotlande,
     domininkonai turėjo atvesti naujus pilgrimų būrius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: Gedimino laiškai buvo siunčiami ir domininkonams.
+    - t-006
+- c-002
+  santrauka: 'Gegužės 26 d. trys laiškai buvo pasiųsti Saksų provincijos pranciškonams, domininkonams ir Hanzos miestams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     O trys laiškai
     (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir dominin­
     konams ir Hanzos miestams (Liubekui, Rostokui, Stralsundui,
     Greifswaldni, Stettinui ir Gotlando salai).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: Gediminas prašė domininkonus siųsti vienuolių į Lietuvą.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Rašydamas Saksų pranciškonams
-    ir domininkonams, Gediminas prašė atsiųsti į Lietuvą vienuolių,
-    pažymėdamas, jog Vilniuje ir Naugarduke esančios jo paties sta­
-    tytos katalikų bažnyčios.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: Domininkonai veikė Rygoje, iš kurios buvo siunčiami dvasininkai į Lietuvą.
+    - t-007
+- c-003
+  santrauka: 'Rygoje veikė domininkonai, o iš ten į Lietuvą buvo siunčiami dvasininkai skelbti evangelijos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš Rygos Lietuvon buvo siunti­
     nėjami dvasininkai skelbti evangelijos^8. Ten veikė pranciškonai
     ir domininkonai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: Domininkonų ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir
-    stačiatikių tarpe, patvirtindamas Vytauto įkurtąją Vladimiro
-    vyskupiją (Volynijoje) ir vyskupu paskirdamas domininkoną
-    Gregorijų; tik dėl to kilo su lenkais nesusipratimų, nes ir jie no­
-    rėjo tame krašte labiau įsigalėti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-    - t-004
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/grupes/Hanza]]

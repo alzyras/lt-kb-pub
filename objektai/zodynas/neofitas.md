@@ -18,67 +18,16 @@ tags: []
 # neofitas
 
 ## Teiginiai
-
-- t-001
-  teiginys: neofitas šiame tekste reiškia ką tik pakrikštytą žmogų.
+- t-006
+  teiginys: 'Lietuvoje bažnyčia buvo vos prigijusi, o žmonės neofitais laikyti labiau iš reikalo negu iš įsitikinimo.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: Ordinas lietuvius vadina neofitais.
-  pagrindžia:
-    - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: Vytautas čia tiesiogiai apibūdinamas kaip neofitas.
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: Neofitai šiame tekste reiškia neseniai krikščionybe persiėmusius žmones.
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: Lietuvos žmonės čia apibūdinami kaip dar nevisiškai susiformavę krikščionys.
-  pagrindžia:
-    - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: neofitus vartojamas kaip ką tik pakrikštytų lietuvių apibūdinimas.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    drausdami Vok. Ordinui pulti lietuvius, kaipo neofitus. Bet
-    kadangi šituo laiku buvo Vakarų Bažnyčios schizma ir Romos
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-003
-    - t-004
-- c-002
-  santrauka: Vytautas šiame tekste tiesiogiai vadinamas neofitu.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    ir visiems kariams suteikė tokius pat atlaidus, kokiais naudo­
-    josi tikrųjų kryžiaus karų riteriai^1 ). Taigi neofitą Vytautą
-    Bažnyčios ganytojas gerbė ir rėmė, kaip kovotoją su katalikų
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: Lietuvos žmonės čia apibūdinami kaip dar nevisiškai susiformavę krikščionys.
+  santrauka: 'Lietuvoje bažnyčia buvo vos prigijusi, o žmonės neofitais laikyti labiau iš reikalo negu iš įsitikinimo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Naujai įėjusią į vakarų Europos tautų šeimą Lietuvą tik
@@ -88,11 +37,13 @@ tags: []
     nepersiėmę ir klausimai: popiežius ar susirinkimas — nejau­
     dina taip jų, kaip vakariečių — jie žiūri šalčiau, ypač kad jie
     neofitai daugiau iš reikalo, negu iš įsitikinimo.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-006
 
 ## Ryšiai
 ### Laikotarpiai

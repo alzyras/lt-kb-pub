@@ -34,21 +34,19 @@ tags: []
 - Žuvinto ežerą
 
 ## Teiginiai
-- t-001
-  teiginys: '1945 m. rugpjūčio kautynių metu Žuvinto ežeras ir Palios buvo apsupti šarvuočių, o įtartinas vietas rodė lėktuvai.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-
-- t-002
-  teiginys: '1945 m. liepos 13 d. prie Žuvinto ežero Dzūkų būrio partizanai susidūrė su NKVD kareiviais ir stribais.'
+- t-004
+  teiginys: 'Žuvinto ežerą ir Palias buvo apsupę šarvuočiai, o lėktuvai raketų šūviais nurodydavo įtartinas ežero vietas.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
-- t-003
+- t-005
+  teiginys: '1945 m. liepos 13 d. prie Žuvinto ežero Dzūkų būrio partizanai susidūrė su NKVD kareiviais ir stribais.'
+  pagrindžia:
+    - c-001
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-006
   teiginys: 'Per Žuvinto ežerą enkavėdistai plaukė iš kluonų durų pasidarytais plaustais.'
   pagrindžia:
     - c-003
@@ -57,53 +55,60 @@ tags: []
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata parodo ežerą kaip apsupties ir paieškos erdvę.
+  santrauka: '1945 m. liepos 13 d. prie Žuvinto ežero Dzūkų būrio partizanai susidūrė su NKVD kareiviais ir stribais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Žuvinto ežeras ir Palios buvo apsupti
-    šarvuočių. Lėktuvai raketų šūviais nuro-
-    dydavo įtartinas ežero vietas, o ginkluotų
-    kareivių pilnos valtys tuoj pat plaukdavo jų
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: Citata tiesiogiai mini susidūrimą prie Žuvinto ežero.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tų pačių metų
+    vadas Vladas Gavėnas-Tarzanas bei lais-
+    vės kovotojai Vincas Boruta-Žvalgas ir
+    Sigitas Melnykas-Portas. Tų pačių metų
     liepos 13 d., grįždami iš žygio, Dzūkų būrio
     partizanai prie Žuvinto ežero susidūrė su
     pasaloje laukusiais NKVD kareiviais ir vie-
-    tiniais stribais.
-  citata_rodoma: ''
+    tiniais stribais. Tuomet žuvo partizanas
+    Jurgis Krušinskas, Juozas Remeikis-Lokys
+    vėliau mirė nuo sužeidimų.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: Citata aprašo improvizuotą plaukimą per ežerą.
+    - t-005
+- c-002
+  santrauka: 'Žuvinto ežerą ir Palias buvo apsupę šarvuočiai, o lėktuvai raketų šūviais nurodydavo įtartinas ežero vietas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Pritrūkus valčių, enkavėdistai
+    1945 m. rugpjūčio mėnesio pačioje pra-
+    džioje Palias puolė NKVD užnugario ap-
+    saugos kariuomenės 132-ojo pasienio
+    pulko ir jungtinio pasienio būrio pajė-
+    gos. Žuvinto ežeras ir Palios buvo apsupti
+    šarvuočių. Lėktuvai raketų šūviais nuro-
+    dydavo įtartinas ežero vietas, o ginkluotų
+    kareivių pilnos valtys tuoj pat plaukdavo jų
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-003
+  santrauka: 'Per Žuvinto ežerą enkavėdistai plaukė iš kluonų durų pasidarytais plaustais.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    patikrinti. Pritrūkus valčių, enkavėdistai
     nulupo Aleknonių ir Žuvinto kaimų ūki-
     ninkų kluonų duris ir jomis kaip plaustais
-    plaukė ežeru.
-  citata_rodoma: ''
+    plaukė ežeru. Partizanai be paliovos juos
+    apšaudė ir granatomis skandino.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

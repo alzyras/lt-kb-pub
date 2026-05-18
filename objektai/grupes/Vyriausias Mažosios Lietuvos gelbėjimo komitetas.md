@@ -29,7 +29,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Sausio 24 d. Lietuvos Seimas patenkino VMLGK prašymą, o vasario 17 d. Ambasadorių konferencija perleido Klaipėdos teises Lietuvai.'
+  teiginys: 'Sausio 24 d. Lietuvos Seimas patenkino Vyriausiojo Mažosios Lietuvos gelbėjimo komiteto prašymą, o vasario 17 d. Klaipėdos teisės perduotos Lietuvai.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -37,7 +37,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Sausio 24 d. Lietuvos Seimas patenkino VMLGK prašymą, o vasario 17 d. Ambasadorių konferencija perleido Klaipėdos teises Lietuvai.'
+  santrauka: 'Sausio 24 d. Lietuvos Seimas patenkino Vyriausiojo Mažosios Lietuvos gelbėjimo komiteto prašymą, o vasario 17 d. Klaipėdos teisės perduotos Lietuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S

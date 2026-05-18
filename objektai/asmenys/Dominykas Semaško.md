@@ -21,7 +21,7 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Dominyko Semaškos argumentus lietuviai pasitelkė derybose dėl didesnės Lietuvos teritorijos Rytuose.'
+  teiginys: 'Lietuviai, derėdamiesi dėl didesnės teritorijos Rytuose, rėmėsi Dominyko Semaškos argumentais.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -29,7 +29,7 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Dominyko Semaškos argumentus lietuviai pasitelkė derybose dėl didesnės Lietuvos teritorijos Rytuose.'
+  santrauka: 'Lietuviai, derėdamiesi dėl didesnės teritorijos Rytuose, rėmėsi Dominyko Semaškos argumentais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Toliau kaudamiesi dėl didesnės teritorijos Rytuose, moty-

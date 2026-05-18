@@ -40,7 +40,7 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Posakis pateikiamas kaip Vytauto atsakymas į pastabą apie jo dosnumą totoriams.
+  santrauka: 'Vytautui priskiriama formulė teigia, kad gerumu galima sušvelninti net laukinius žvėris.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kai

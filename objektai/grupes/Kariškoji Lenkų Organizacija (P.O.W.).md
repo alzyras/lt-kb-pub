@@ -22,6 +22,8 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
   teiginys: 'Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta į 13 apskričių, kurių kiekvienoje dar buvo po 3—4 tos organizacijos komendantūras.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -33,10 +35,10 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
     3—4 tos organizacijos komendantūras. Viskas, žinoma, buvo
     daroma slaptai: kiekvienas narys turėjo slapyvardį, o visi svar-
     besnieji raštai buvo rašomi šifruoti (slapta, sutartine abėcėle).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

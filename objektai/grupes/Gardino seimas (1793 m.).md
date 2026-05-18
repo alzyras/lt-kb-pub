@@ -20,44 +20,29 @@ Tam tikslui Gardine buvo sušauktas seimas. Taigi minėtame Gardino seime (1793 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tam tikslui Gardine buvo sušauktas seimas.'
-  pagrindžia:
-    - c-003
-    - c-001
-- t-002
-  teiginys: 'Taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai padaryti.'
+  teiginys: '1793 m. Gardino seimas buvo sušauktas naujai taikos sutarčiai su apkarpyta Respublika sudaryti.'
   pagrindžia:
     - c-002
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tam tikslui Gardine buvo sušauktas seimas.'
+  santrauka: '1793 m. Gardino seimas buvo sušauktas naujai taikos sutarčiai su apkarpyta Respublika sudaryti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     su apkarpyta Respublika reikėjo padaryti naują taikos sutartį.
     Tam tikslui Gardine buvo sušauktas seimas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai padaryti.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai
-    padaryti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: Gardino seimas (1793 m.) papildomas patvirtintas šaltinio paminėjimas.
+  santrauka: '1793 m. Gardino seimas buvo sušauktas naujai taikos sutarčiai su apkarpyta Respublika sudaryti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Buvo atgaivinta Nuolatinė Taryba ir
@@ -65,8 +50,8 @@ Tam tikslui Gardine buvo sušauktas seimas. Taigi minėtame Gardino seime (1793 
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

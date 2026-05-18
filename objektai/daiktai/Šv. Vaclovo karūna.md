@@ -46,28 +46,28 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: '1420 m. husitai pasiūlė Jogailai Šv. Vaclovo karūną.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
+- t-005
   teiginys: 'Vytautas sutiko priimti čekų karūną ir pasiuntė į Pragą savo vietininku Zigmantą Kaributą.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-003
+- t-006
   teiginys: 'Vėliau Vytautas nuo husitų siūlytos karūnos atsisakė, nes ji galėjo per brangiai kaštuoti.'
   pagrindžia:
-    - c-004
+    - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Husitai siūlė Jogailai Šv. Vaclovo karūną.
+  santrauka: '1420 m. husitai pasiūlė Jogailai Šv. Vaclovo karūną.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kaip žinoma, 1420 m. husitai pasiūlė Jo­
@@ -76,26 +76,13 @@ Nenurodyta
     kunigaikščiu Vytautu”.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-002
-  santrauka: Čekai siūlė Vytautui jų karaliaus karūną.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tą rodo ir tuo laiku čekų kreipimasis į jį sosto rei­
-    kalais, t. y. Vytautui pasiūlė karūnuotis jų karaliaus karūna.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: Vytautas sutiko priimti čekų karūną ir siuntė Kaributą į Pragą.
+  santrauka: 'Vytautas sutiko priimti čekų karūną ir pasiuntė į Pragą savo vietininku Zigmantą Kaributą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų
@@ -104,13 +91,13 @@ Nenurodyta
     linkybėms, Vytautas nuo to sumanymo atsisakė.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-004
-  santrauka: Vytautas atsisakė sumanymo dėl per brangios husitų karūnos kainos.
+    - t-005
+- c-003
+  santrauka: 'Vėliau Vytautas nuo husitų siūlytos karūnos atsisakė, nes ji galėjo per brangiai kaštuoti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pamatęs, kad jo jė­
@@ -120,11 +107,11 @@ Nenurodyta
     mėginimu, kai paaiškėjo, kad ją sunku įgyvendinti.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai

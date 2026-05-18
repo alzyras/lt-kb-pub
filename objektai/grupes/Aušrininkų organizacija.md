@@ -19,22 +19,24 @@ Tik vėliau iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę",
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tik vėliau iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę", atsirado socialistiškosios pakraipos moksleivių aušrininkų organizacija.'
+  teiginys: 'Aušrininkų organizacija atsirado iš jaunimo, susitelkusio apie moksleivių žurnalą „Aušrinė“.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tik vėliau iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę", atsirado socialistiškosios pakraipos moksleivių aušrininkų organizacija.'
+  santrauka: 'Aušrininkų organizacija atsirado iš jaunimo, susitelkusio apie moksleivių žurnalą „Aušrinė“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tik vėliau iš jaunimo, su-
     sispietusio apie moksleivių žurnalą „Aušrinę", atsirado so-
     cialistiškosios pakraipos moksleivių aušrininkų organizacija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

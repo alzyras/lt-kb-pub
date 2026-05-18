@@ -31,23 +31,25 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vėliau, 1917 m. spalių mėn., antroji Stokholmo konferencija pritarė Vilniaus konferencijos programai ir pripažino Lietuvos Tarybą visos lietuvių tautos atstovybe.'
+  teiginys: '1917 m. spalį antroji Stokholmo konferencija pritarė Vilniaus konferencijos programai ir Lietuvos Tarybą pripažino visos lietuvių tautos atstovybe.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vėliau, 1917 m. spalių mėn., antroji Stokholmo konferencija pritarė Vilniaus konferencijos programai ir pripažino Lietuvos Tarybą visos lietuvių tautos atstovybe.'
+  santrauka: '1917 m. spalį antroji Stokholmo konferencija pritarė Vilniaus konferencijos programai ir Lietuvos Tarybą pripažino visos lietuvių tautos atstovybe.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vėliau, 1917 m. spalių mėn., antroji Stokholmo konferencija pri-
     tarė Vilniaus konferencijos programai ir pripažino Lietuvos Ta-
     rybą visos lietuvių tautos atstovybe.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

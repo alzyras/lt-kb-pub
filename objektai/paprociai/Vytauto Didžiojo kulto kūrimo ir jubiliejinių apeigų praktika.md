@@ -56,13 +56,13 @@ tags: []
 - Praktika siejama su tarpukario valstybine atminties politika ir A. Smetonos režimo ideologija.
 
 ## Teiginiai
-- t-003
+- t-005
   teiginys: 'Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-004
+- t-006
   teiginys: 'Vytauto jubiliejinių renginių svarbiausia mintis buvo tautos vienybė ir žinia, kad Lietuva yra sena istorinė valstybė.'
   pagrindžia:
     - c-002
@@ -85,7 +85,7 @@ tags: []
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-005
 - c-002
   santrauka: 'Vytauto jubiliejinių renginių svarbiausia mintis buvo tautos vienybė ir žinia, kad Lietuva yra sena istorinė valstybė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -100,7 +100,7 @@ tags: []
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-006
 
 ## Šaltiniai ir įrodymai
 

@@ -20,14 +20,16 @@ tags:
 Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau buvo Italijoj. Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją.
 
 ## Teiginiai
-- t-002
-  teiginys: 'Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją.'
+- t-001
+  teiginys: 'Aukštojo mokslo siekę ne dvasininkai vykdavo į Vokietijos, Italijos ir Prancūzijos universitetus.'
   pagrindžia:
-    - c-002
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją.'
+- c-001
+  santrauka: 'Aukštojo mokslo siekę ne dvasininkai vykdavo į Vokietijos, Italijos ir Prancūzijos universitetus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     aukštojo mokslo, turėdavo vykti į užsienį. Tie, kurie ruošėsi dvasi-
@@ -36,15 +38,14 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     Italiją ir Prancūziją. Kadangi į tolimuosius kraštus tegalėjo
     vykti mokytis tik turtingųjų bajorų vaikai, todėl mokytų žmo-
     nių buvo nedaug.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Prancūzija]]
-- [[objektai/vietos/Vokietija]]

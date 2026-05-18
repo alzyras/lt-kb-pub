@@ -50,8 +50,8 @@ Terminas aiškinamas kaip aplinkinių vartotas įvardijimas ištikimiems žmonė
 Vartojamas Lietuvos vardo kilmės, etnonimų ir istorinės kalbotyros kontekste.
 
 ## Teiginiai
-- t-002
-  teiginys: 'Valstybės pakraščiuose įkurdinti ištikimi žmonės iš Lietuvos aplinkinių vadinti „leičiais“, o gal ir „liečiais“.'
+- t-003
+  teiginys: 'Leičių ar liečių vardas siejamas su Lietuvos valdovų valstybės pakraščiuose įkurdintais ištikimais žmonėmis iš Lietuvos.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -59,7 +59,7 @@ Vartojamas Lietuvos vardo kilmės, etnonimų ir istorinės kalbotyros kontekste.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Valstybės pakraščiuose įkurdinti ištikimi žmonės iš Lietuvos aplinkinių vadinti „leičiais“, o gal ir „liečiais“.'
+  santrauka: 'Leičių ar liečių vardas siejamas su Lietuvos valdovų valstybės pakraščiuose įkurdintais ištikimais žmonėmis iš Lietuvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Grindžiama
@@ -76,7 +76,7 @@ Vartojamas Lietuvos vardo kilmės, etnonimų ir istorinės kalbotyros kontekste.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

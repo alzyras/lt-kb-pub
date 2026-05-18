@@ -19,7 +19,7 @@ Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laišku
 
 ## Teiginiai
 - t-001
-  teiginys: 'Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laiškuose Vakarams rex; Algirdas laiškuose Bizantijos imperijai – bazileus).'
+  teiginys: 'Lietuvos valdovai vadinosi karaliais: Gediminas laiškuose Vakarams vartojo rex, o Algirdas laiškuose Bizantijai – bazileus.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laišku
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laiškuose Vakarams rex; Algirdas laiškuose Bizantijos imperijai – bazileus).'
+  santrauka: 'Lietuvos valdovai vadinosi karaliais: Gediminas laiškuose Vakarams vartojo rex, o Algirdas laiškuose Bizantijai – bazileus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Antra vertus, visi

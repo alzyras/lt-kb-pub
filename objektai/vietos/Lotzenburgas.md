@@ -20,13 +20,15 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Štai Lietuvai artimesniųjų pilių įkūrimo datos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava — 1325 m., Vėluva ir Angerburgas — 1335 m., Įsrutis ir Röselis — 1337 m., Lotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m..'
+  teiginys: 'Lotzenburgas buvo viena iš Lietuvai artimesnių pilių, įkurta apie 1340 m.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Štai Lietuvai artimesniųjų pilių įkūrimo datos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava — 1325 m., Vėluva ir Angerburgas — 1335 m., Įsrutis ir Röselis — 1337 m., Lotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m..'
+  santrauka: 'Lotzenburgas buvo viena iš Lietuvai artimesnių pilių, įkurta apie 1340 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Štai Lietuvai artimesniųjų pilių įkūrimo
@@ -35,10 +37,10 @@ tags:
     Lotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m.,
     Alenšteinas — 1353 m., Ortelsburgas — taip pat XIV a. vidury, Bišofsburgas—
     1395 m., Lyka — 1398 m. (miestelis prie jos pradėtas kurti tik 1435 m. ), ir t.t.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

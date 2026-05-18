@@ -33,13 +33,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Anglija, Prancūzija, Italija ir Japonija pripažino tiktai 1922 metų gruodžio 20 dieną, pateikusios sąlygą, kad Lietuva pripažintų Versalio sutarties nuostatus, liečiančius Nemuno navigacijos režimą, t.'
+  teiginys: 'Anglija, Prancūzija, Italija ir Japonija Lietuvą de jure pripažino 1922 m. gruodžio 20 d.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Anglija, Prancūzija, Italija ir Japonija pripažino tiktai 1922 metų gruodžio 20 dieną, pateikusios sąlygą, kad Lietuva pripažintų Versalio sutarties nuostatus, liečiančius Nemuno navigacijos režimą, t.'
+  santrauka: 'Anglija, Prancūzija, Italija ir Japonija Lietuvą de jure pripažino 1922 m. gruodžio 20 d.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Anglija, Prancūzija, Italija ir Japonija pripažino tiktai
@@ -49,11 +51,11 @@ Nenurodyta
     Lietuvos valstybė užmezgė normalius diplomatinius santykius
     su visomis valstybėmis, išėmus Lenkiją, ir įsteigė svarbesnio-
     siose valstybėse savo pasiuntinybes.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

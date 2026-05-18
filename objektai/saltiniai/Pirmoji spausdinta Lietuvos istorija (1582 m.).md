@@ -39,8 +39,8 @@ tags:
 - Data: 1582 m.
 
 ## Teiginiai
-- t-001
-  teiginys: 'XVI amž. gale, 1582 m., pasirodė pirmoji spausdinta Lietuvos istorija, lenkiškai parašyta Strikauskio, globojamo Žemaičių vyskupo Merkelio Giedraičio.'
+- t-002
+  teiginys: '1582 m. pasirodė pirmoji spausdinta Lietuvos istorija, lenkiškai parašyta Merkelio Giedraičio globojamo Strikauskio.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -48,17 +48,17 @@ tags:
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: Citata vienoje vietoje pateikia datą, veikalo pobūdį, kalbą, autorių ir globėją.
+  santrauka: '1582 m. pasirodė pirmoji spausdinta Lietuvos istorija, lenkiškai parašyta Merkelio Giedraičio globojamo Strikauskio.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     XVI
     amž. gale (1582 m.) pasirodo pirmoji spausdinta Lietuvos istorija, len-
     kiškai parašyta (Žemaičių vyskupo Merkelio Giedraičio globojamojo)
     lenko Strikauskio.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Šaltinyje aprašomas veikalas, bet nenurodomas jo savarankiškas bibliografinis pavadinimas.'
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

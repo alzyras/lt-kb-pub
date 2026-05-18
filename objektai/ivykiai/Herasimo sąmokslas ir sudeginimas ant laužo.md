@@ -32,13 +32,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Bet Herasimo sąmokslas buvo susektas, ir jis, Švitrigailos įsakymu, buvo sudegintas ant laužo, o Smolenskas liko, kaip buvęs, Švitrigailos valdžioje.'
+  teiginys: 'Herasimas siekė sukelti maištą Smolenske, bet jo sąmokslas buvo susektas ir Švitrigailos įsakymu jis sudegintas ant laužo.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Bet Herasimo sąmokslas buvo susektas, ir jis, Švitrigailos įsakymu, buvo sudegintas ant laužo, o Smolenskas liko, kaip buvęs, Švitrigailos valdžioje.'
+  santrauka: 'Herasimas siekė sukelti maištą Smolenske, bet jo sąmokslas buvo susektas ir Švitrigailos įsakymu jis sudegintas ant laužo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Švitrigailos didelis priešas (Zigmanto šalininkas),
@@ -48,10 +50,10 @@ Nenurodyta
     Zigmantas. Bet Herasimo sąmokslas buvo susektas, ir jis, Švit-
     rigailos įsakymu, buvo sudegintas ant laužo, o Smolenskas liko,
     kaip buvęs, Švitrigailos valdžioje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

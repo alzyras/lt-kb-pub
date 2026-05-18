@@ -17,22 +17,4 @@ tags:
 Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija
-    atvaduota.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: zemas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001

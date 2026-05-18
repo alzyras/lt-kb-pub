@@ -42,20 +42,20 @@ Isteris, arba Dunojus, yra viena iš didžiųjų pietinės įšleities upių. Du
 Isteris pateikiamas kaip viena iš didžiųjų upių, tekančių iš tos pačios kalvos pietinėje įšleityje. ; Dunojus šiame gabale minimas kaip pietinė Lietuvos prekybos riba ir kaip upė, kurią užgulė priešai.
 
 ## Teiginiai
-- t-001
-  teiginys: "Isteris, arba Dunojus, yra viena iš didžiųjų pietinės įšleities upių."
+- t-004
+  teiginys: 'Isteris, arba Dunojus, yra viena iš didžiųjų pietinės įšleities upių.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
-  teiginys: "Dunojus šiame fragmente yra konkreti upė."
+- t-005
+  teiginys: 'Dunojus šiame fragmente yra konkreti upė.'
   pagrindžia:
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-003
-  teiginys: "Dunojus siejamas su Lietuvos pietine riba ir kariniu spaudimu."
+- t-006
+  teiginys: 'Dunojus siejamas su Lietuvos pietine riba ir kariniu spaudimu.'
   pagrindžia:
     - c-003
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -63,7 +63,7 @@ Isteris pateikiamas kaip viena iš didžiųjų upių, tekančių iš tos pačios
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: "Isteris, arba Dunojus, yra viena iš didžiųjų pietinės įšleities upių."
+  santrauka: 'Isteris, arba Dunojus, yra viena iš didžiųjų pietinės įšleities upių.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Reikia žinoti, jog tame pasaulio sluoksny, einančiame nuo šiaurės
@@ -78,9 +78,9 @@ Isteris pateikiamas kaip viena iš didžiųjų upių, tekančių iš tos pačios
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-002
-  santrauka: "Dunojus šiame fragmente yra konkreti upė."
+  santrauka: 'Dunojus šiame fragmente yra konkreti upė.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     rubežių į pietus lig Uksinės, arba Juodosios, jūros, upės Dunojaus ir Vengrų žemės, į rytus lig
@@ -91,9 +91,9 @@ Isteris pateikiamas kaip viena iš didžiųjų upių, tekančių iš tos pačios
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-005
 - c-003
-  santrauka: "Dunojus siejamas su Lietuvos pietine riba ir kariniu spaudimu."
+  santrauka: 'Dunojus siejamas su Lietuvos pietine riba ir kariniu spaudimu.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     užgulė Uksinę jūrą įr Dunojų,
@@ -104,7 +104,7 @@ Isteris pateikiamas kaip viena iš didžiųjų upių, tekančių iš tos pačios
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-006
 
 ## Pastabos
 Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
@@ -114,5 +114,4 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
 - [[laikotarpiai/XIV amžius]]
 
 ### Susiję objektai
-- [[objektai/vietos/Juodoji jūra]]
 - [[objektai/vietos/Žalioji giria]]

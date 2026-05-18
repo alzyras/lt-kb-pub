@@ -47,7 +47,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Vyriškieji patys dailidavo namų baldus, rakandus ir įvairius būtos padargus.'
   pagrindžia:
     - c-001
@@ -56,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Vyriškieji patys dailidavo namų baldus, rakandus ir įvairius būtos padargus.
+  santrauka: 'Vyriškieji patys dailidavo namų baldus, rakandus ir įvairius būtos padargus.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Lygia dalia dailidavo sau patys namų baldus, beje: kubilus, bosus, verpeles^572 ,
@@ -91,11 +91,11 @@ Nenurodyta
     prasma dirbo
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Pastabos
 

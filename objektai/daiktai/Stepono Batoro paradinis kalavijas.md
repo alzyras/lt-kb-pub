@@ -53,8 +53,8 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: Stepono Batoro paradinis kalavijas buvo pagamintas pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu atminti.
+- t-002
+  teiginys: 'Stepono Batoro paradinis kalavijas buvo pagamintas pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu atminti.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -62,20 +62,24 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata tiesiogiai įvardija paradinį kalaviją ir jo atminties paskirtį.
+  santrauka: 'Stepono Batoro paradinis kalavijas buvo pagamintas pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu atminti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos ir Lenkijos valdovo Stepono Batoro pa-
     radinis kalavijas, pagamintas pergalingoms Lietuvių ir jų
     sąjungininkų kampanijoms Maskvos žemėse Livonijos karo
-    metu (1558-1582) atminti.
+    metu (1558-1582) atminti. Šiame kare Lietuva sugebėjo
+    atremti sustiprėjusios Maskvos ekspansiją, tačiau
+    išaugęs pavojus vertė sudaryti Liublino
+    uniją (1569 m.) su Lenkija Lietuvai
+    nepalankiomis sąlygomis.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Pastabos
 
@@ -84,6 +88,3 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Steponas Batoras]]

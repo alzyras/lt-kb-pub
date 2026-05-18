@@ -36,7 +36,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Voluinės ir Lietuvos kunigaikščių sutartyje Mindaugas paminėtas ketvirtuoju tarp penkių vyresniųjų kunigaikščių.'
+  teiginys: 'Voluinės ir Lietuvos kunigaikščių sutartyje Mindaugas buvo paminėtas ketvirtuoju tarp penkių vyresniųjų kunigaikščių.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -44,7 +44,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Voluinės ir Lietuvos kunigaikščių sutartyje Mindaugas paminėtas ketvirtuoju tarp penkių vyresniųjų kunigaikščių.'
+  santrauka: 'Voluinės ir Lietuvos kunigaikščių sutartyje Mindaugas buvo paminėtas ketvirtuoju tarp penkių vyresniųjų kunigaikščių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Voluinės ir Lietuvos kunigaikščių sutartyje (sudarytoje taip

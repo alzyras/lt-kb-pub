@@ -49,14 +49,14 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: „Žaliukas“ įvardijamas kaip Lietuvos specialiųjų operacijų pajėgų karių kvalifikacinis antsiuvas.
+- t-003
+  teiginys: '„Žaliukas“ yra Lietuvos specialiųjų operacijų pajėgų karių kvalifikacinis antsiuvas.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: Šaltinio paaiškinime „Žaliukas“ siejamas su kovinga tautos dalies būsena pavojuje, nepakantumu okupacijai ir spontanišku gynėjų telkimusi.
+- t-004
+  teiginys: '„Žaliukas“ siejamas su kovinga tautos dalies būsena pavojuje, nepakantumu okupacijai ir žaliukų telkimusi ginti šalį.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -64,7 +64,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Vienas blokas kartu identifikuoja antsiuvą ir išaiškina simbolinę „Žaliuko“ prasmę.
+  santrauka: '„Žaliukas“ yra Lietuvos specialiųjų operacijų pajėgų karių kvalifikacinis antsiuvas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos specialiųjų operacijų pajėgų
@@ -83,8 +83,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai

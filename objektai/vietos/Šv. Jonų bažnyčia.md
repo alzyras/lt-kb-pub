@@ -19,7 +19,7 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
 
 ## Teiginiai
 - t-001
-  teiginys: 'Uždarytoje Šv. Jonų bažnyčioje buvo įkurtas Mokslo muziejus.'
+  teiginys: 'Šv. Jonų bažnyčioje buvo įkurtas Mokslo muziejus.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Uždarytoje Šv. Jonų bažnyčioje buvo įkurtas Mokslo muziejus.'
+  santrauka: 'Šv. Jonų bažnyčioje buvo įkurtas Mokslo muziejus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno

@@ -1,9 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Adomas Mickevičius'
+pavadinimas: 'Adomas Mickevičius (poetas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Adomas Mickevičius'
+aliases:
+  - 'Adomas Mickevičius'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - kunigas
   - tauta
 ---
-# Adomas Mickevičius
+# Adomas Mickevičius (poetas)
 
 ## Santrauka
 
@@ -39,13 +41,13 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'A. Mickevičius buvo tarp dvidešimties asmenų, kurie po apkaltinimų buvo ištremti.'
+  teiginys: 'Adomas Mickevičius buvo vienas iš dvidešimties apkaltintų asmenų, kurie buvo ištremti.'
   pagrindžia:
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'A. Mickevičiaus kūryba turėjo didelės reikšmės lietuvių tautinės savimonės plėtotei.'
+  teiginys: 'Adomo Mickevičiaus kūryba turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.'
   pagrindžia:
     - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -99,7 +101,7 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'A. Mickevičius buvo tarp dvidešimties asmenų, kurie po apkaltinimų buvo ištremti.'
+  santrauka: 'Adomas Mickevičius buvo vienas iš dvidešimties apkaltintų asmenų, kurie buvo ištremti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Apkaltinus per 100 asmenų, dvidešimt, tarp
@@ -112,7 +114,7 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'A. Mickevičiaus kūryba turėjo didelės reikšmės lietuvių tautinės savimonės plėtotei.'
+  santrauka: 'Adomo Mickevičiaus kūryba turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-

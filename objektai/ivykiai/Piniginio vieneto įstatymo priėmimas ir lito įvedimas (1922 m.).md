@@ -47,7 +47,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-005
+- t-006
   teiginys: '1922 m. spalio 1 d. Lietuvoje įvestas litas.'
   pagrindžia:
     - c-001
@@ -68,7 +68,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai

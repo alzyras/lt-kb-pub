@@ -18,22 +18,24 @@ Radvila Rudasis, o vėliau — jo sūnūs — Biržų Radvilos.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Radvila Rudasis, o vėliau — jo sūnūs — Biržų Radvilos.'
+  teiginys: 'Biržų Radvilos po M. Radvilos Rudojo išliko svarbūs protestantizmo rėmėjai.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Radvila Rudasis, o vėliau — jo sūnūs — Biržų Radvilos.'
+  santrauka: 'Biržų Radvilos po M. Radvilos Rudojo išliko svarbūs protestantizmo rėmėjai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Didžiausias protestantizmo
     rėmėjas dar liko M. Radvila Rudasis, o vėliau — jo sūnūs —
     Biržų Radvilos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

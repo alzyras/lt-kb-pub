@@ -20,13 +20,15 @@ Tada jau buvo net kelios politinės grupės, būtent kairieji — socialdemokrat
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tada jau buvo net kelios politinės grupės, būtent kairieji — socialdemokratai ir lietuvių valstiečių sąjunga, dešinieji — lietuvių krikščionių demokratų partija ir apie „Viltį" susispietę tautininkai, — tačiau jos visos tebebuvo dar „generolai be armijų".'
+  teiginys: 'Apie „Viltį“ susispietę tautininkai minimi tarp dešiniųjų politinių grupių, kurios dar neturėjo organizuotų skyrių krašte.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tada jau buvo net kelios politinės grupės, būtent kairieji — socialdemokratai ir lietuvių valstiečių sąjunga, dešinieji — lietuvių krikščionių demokratų partija ir apie „Viltį" susispietę tautininkai, — tačiau jos visos tebebuvo dar „generolai be armijų".'
+  santrauka: 'Apie „Viltį“ susispietę tautininkai minimi tarp dešiniųjų politinių grupių, kurios dar neturėjo organizuotų skyrių krašte.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvos visuomenė dar nebuvo politiškai susipratusi. Tada
@@ -36,10 +38,10 @@ Tada jau buvo net kelios politinės grupės, būtent kairieji — socialdemokrat
     — tačiau jos visos tebebuvo dar „generolai be armijų". Jos ne-
     turėjo nei suorganizuotų skyrių krašte nei priemonių skleisti sa-
     vo idėjoms ir siekimams.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

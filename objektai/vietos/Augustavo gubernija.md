@@ -18,7 +18,7 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos Užnemunė priklausė gubernijai, kuri iš pradžių vadinta Augustavo, o nuo 1867 m. – Suvalkų gubernija.'
+  teiginys: 'Lietuvos Užnemunė priklausė gubernijai, iš pradžių vadintai Augustavo, o nuo 1867 m. – Suvalkų gubernija.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvos Užnemunė priklausė gubernijai, kuri iš pradžių vadinta Augustavo, o nuo 1867 m. – Suvalkų gubernija.'
+  santrauka: 'Lietuvos Užnemunė priklausė gubernijai, iš pradžių vadintai Augustavo, o nuo 1867 m. – Suvalkų gubernija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos Užnemunė pri-

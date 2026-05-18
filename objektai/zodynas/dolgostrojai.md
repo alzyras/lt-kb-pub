@@ -18,7 +18,7 @@ Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Maskv�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvoje sovietmečiu nebūdavo „dolgostrojų“ - ilgai užsitęsusių statybų, reikalaujančių nesibaigiančio finansavimo.'
+  teiginys: 'Sovietmečiu Lietuvoje nebūdavo „dolgostrojų“, nes naujos įmonės buvo paleidžiamos daugiau ar mažiau laiku.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Maskv�
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvoje sovietmečiu nebūdavo „dolgostrojų“ - ilgai užsitęsusių statybų, reikalaujančių nesibaigiančio finansavimo.'
+  santrauka: 'Sovietmečiu Lietuvoje nebūdavo „dolgostrojų“, nes naujos įmonės buvo paleidžiamos daugiau ar mažiau laiku.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Mas-

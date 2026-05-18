@@ -38,13 +38,13 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
 - Apie totorių, lietuvių ir maskvėnų papročius
 
 ## Teiginiai
-- t-004
+- t-006
   teiginys: 'Mykolo Lietuvio svarstymai apie valstybės tvarką siejami su veikalu „Apie totorių, lietuvių ir maskvėnų papročius“.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-005
+- t-007
   teiginys: 'Mykolas Lietuvis savo svarstymuose Vytauto laikų papročių rigorizmą ir asketizmą priešpriešino savo meto visuomenės išglebimui, girtuoklystei ir netvarkai.'
   pagrindžia:
     - c-001
@@ -67,8 +67,8 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-    - t-005
+    - t-006
+    - t-007
 
 ## Ryšiai
 ### Laikotarpiai

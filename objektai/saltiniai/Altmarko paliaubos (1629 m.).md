@@ -22,8 +22,12 @@ tags:
   teiginys: '1629 m. padarytos Altmarko paliaubos baigėsi 1635 m., tad reikėjo arba ruoštis naujam karui arba rūpintis pratęsti paliaubas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
   santrauka: '1629 m. padarytos Altmarko paliaubos baigėsi 1635 m., tad reikėjo arba ruoštis naujam karui arba rūpintis pratęsti paliaubas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -33,10 +37,10 @@ tags:
     1635 m., tad reikėjo arba ruoš-
     tis naujam karui arba rūpintis
     pratęsti paliaubas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -23,10 +23,14 @@ tags:
   teiginys: 'Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj) vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Bazelio suvažiavimas, prasidėjęs 1431 m., tęsėsi iki 1449 m., t.'
+  teiginys: 'Bazelio suvažiavimas prasidėjo 1431 m. ir tęsėsi iki 1449 m.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -35,25 +39,25 @@ tags:
   citata_originali: |
     Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj)
     vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Bazelio suvažiavimas, prasidėjęs 1431 m., tęsėsi iki 1449 m., t.'
+  santrauka: 'Bazelio suvažiavimas prasidėjo 1431 m. ir tęsėsi iki 1449 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau patsai unijos klausimas nemirė. Juo ėmė rūpintis
     kiti kraštai. Bazelio suvažiavimas, prasidėjęs 1431 m., tęsėsi iki
     1449 m., t. y. daug ilgiau, negu gyveno Zigmantas (-)- 1440 m.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

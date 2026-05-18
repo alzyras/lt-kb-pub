@@ -19,13 +19,13 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvių kalba apibūdinta kaip gavusi itin daug aukščiausių pagyrimų ir turinti savitą gražią bei aiškią fonologiją.'
+  teiginys: 'Lietuvių kalba apibūdinta kaip gavusi daugiausia aukščiausių pagyrimų ir turinti savitą gražią bei aiškią fonologiją.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Lietuvių kalba apibūdinta kaip gavusi itin daug aukščiausių pagyrimų ir turinti savitą gražią bei aiškią fonologiją.'
+  teiginys: 'Lietuvių kalba apibūdinta kaip gavusi daugiausia aukščiausių pagyrimų ir turinti savitą gražią bei aiškią fonologiją.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -35,7 +35,7 @@ tags:
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Lietuvių kalba apibūdinta kaip gavusi itin daug aukščiausių pagyrimų ir turinti savitą gražią bei aiškią fonologiją.'
+  santrauka: 'Lietuvių kalba apibūdinta kaip gavusi daugiausia aukščiausių pagyrimų ir turinti savitą gražią bei aiškią fonologiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     III s k y r i u s

@@ -46,13 +46,13 @@ Pagrindinė forma: `adynos`.
 Vartojamos formos: `adynas`, `sambrėškis`, `brėkšta`, `santėmis`, `sutemo`, `nuovakarės`, `išvakarės`, `naktovidas`, `įmygis`, `gaidžiai`, `prieš aušrą`, `aušta`, `švinta`, `mažoji pusrytėlė`, `išaušo`, `saulėtekis`, `didysis pusrytis`, `priešpietis`, `pietai`, `pusdienis`, `pakaitis`, `po pakaičio`, `po pusdienio`, `pavakarė`, `mažoji pavakarėlė`, `vakarop`, `saulėlydis`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Adynos` šiame tekste reiškia paros valandas arba dienos dalis.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Paros dalys turi konkrečius senovinius vardus.'
   pagrindžia:
     - c-001
@@ -61,7 +61,7 @@ Vartojamos formos: `adynas`, `sambrėškis`, `brėkšta`, `santėmis`, `sutemo`,
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Adynos` šiame tekste reiškia paros valandas arba dienos dalis
+  santrauka: '`Adynos` šiame tekste reiškia paros valandas arba dienos dalis.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Dieną su nakčia dalijo į 24 valandas,
@@ -77,8 +77,8 @@ Vartojamos formos: `adynas`, `sambrėškis`, `brėkšta`, `santėmis`, `sutemo`,
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Pastabos
 

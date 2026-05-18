@@ -21,17 +21,21 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
 
 ## Teiginiai
 - t-001
-  teiginys: 'O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną ir užėjo lietuviams iš kairiojo sparno, — mūsų kariuomenės būklė dar labiau pablogėjo: dalis mūsų kariuomenės buvo visai atkirsta nuo savųjų.'
+  teiginys: 'Lenkams ties Druskininkais persikėlus per Nemuną, Lietuvos kariuomenės būklė dar labiau pablogėjo.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: '2) Lietuvos siena eina Kerzono linija (Suvalkų krašto ruože ta linija buvo nustatyta Suvalkų sutartyje, kaip demarkacijos linija) ligi Nemuno, paskui — Nemunu ligi Druskininkų, nuo čia — per Ežeronis ligi Volios, toliau vėl Nemunu ligi Beržūnės, o nuo čia.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną ir užėjo lietuviams iš kairiojo sparno, — mūsų kariuomenės būklė dar labiau pablogėjo: dalis mūsų kariuomenės buvo visai atkirsta nuo savųjų.'
+  santrauka: 'Lenkams ties Druskininkais persikėlus per Nemuną, Lietuvos kariuomenės būklė dar labiau pablogėjo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     O kai, besivydami bolše-
@@ -39,11 +43,11 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
     lietuviams iš kairiojo sparno, — mūsų kariuomenės būklė dar
     labiau pablogėjo: dalis mūsų kariuomenės buvo visai atkirsta
     nuo savųjų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -56,11 +60,11 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
     — Nemunu ligi Druskininkų, nuo čia — per Ežeronis ligi Volios,
     toliau vėl Nemunu ligi Beržūnės, o nuo čia tiesiog į rytus ligi Len-
     kijos su Sovietų Rusija nustatytų sienų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

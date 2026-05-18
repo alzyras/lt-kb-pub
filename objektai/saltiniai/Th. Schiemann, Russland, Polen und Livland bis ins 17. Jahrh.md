@@ -18,21 +18,25 @@ Schiemann, Russland, Polen und Livland bis ins 17.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Schiemann, Russland, Polen und Livland bis ins 17.'
+  teiginys: 'Th. Schiemanno „Russland, Polen und Livland bis ins 17. Jahrh.“ apėmė I ir II tomus, datuotus 1885-1887 m.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Schiemann, Russland, Polen und Livland bis ins 17.'
+  santrauka: 'Th. Schiemanno „Russland, Polen und Livland bis ins 17. Jahrh.“ apėmė I ir II tomus, datuotus 1885-1887 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _Th. Schiemann,_ Russland, Polen und Liv-
     land bis ins 17. Jahrh., I, II (1885—1887);
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

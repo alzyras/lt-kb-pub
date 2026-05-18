@@ -18,13 +18,15 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas.'
+  teiginys: 'Šv. Kazimiero Draugija knygoms ir laikraščiams leisti buvo įkurta Kaune 1906 m.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas.'
+  santrauka: 'Šv. Kazimiero Draugija knygoms ir laikraščiams leisti buvo įkurta Kaune 1906 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po 1905 m. revoliucijos palengvėjo
@@ -32,10 +34,10 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas.
     įkurta Šv. Kazimiero Draugija knygoms ir laikraš-
     čiams leisti (ji leido „Ned. Skaitymą", iš kurio vėliau atsirado
     „Vienybė" ir „Draugija").
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

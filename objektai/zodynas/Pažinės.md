@@ -20,13 +20,13 @@ Pagrindinė forma: `pažinės`.
 Vartojamos formos: `pažines`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Pažinės` šiame tekste reiškia ryšius ar kontaktus su kitomis tautomis ir kraštais.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Lietuvių tauta apibūdinama kaip turėjusi plačius prekybinius ir politinius ryšius.'
   pagrindžia:
     - c-002
@@ -36,7 +36,7 @@ Vartojamos formos: `pažines`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Pažinės` šiame tekste reiškia ryšius ar kontaktus su kitomis tautomis ir kraštais
+  santrauka: '`Pažinės` šiame tekste reiškia ryšius ar kontaktus su kitomis tautomis ir kraštais.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     pati tauta plačiai gyvenusi ir didžias pažines^54 yra turėjusi su tolimais kraštais, kurių
@@ -47,9 +47,9 @@ Vartojamos formos: `pažines`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Lietuvių tauta apibūdinama kaip turėjusi plačius prekybinius ir politinius ryšius
+  santrauka: 'Lietuvių tauta apibūdinama kaip turėjusi plačius prekybinius ir politinius ryšius.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     vienok buvo didžiai garsi gilioj
@@ -62,9 +62,9 @@ Vartojamos formos: `pažines`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 - c-003
-  santrauka: Lietuvių tauta apibūdinama kaip turėjusi plačius prekybinius ir politinius ryšius
+  santrauka: 'Lietuvių tauta apibūdinama kaip turėjusi plačius prekybinius ir politinius ryšius.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     gyvendami tenai,
@@ -76,7 +76,7 @@ Vartojamos formos: `pažines`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Pastabos
 

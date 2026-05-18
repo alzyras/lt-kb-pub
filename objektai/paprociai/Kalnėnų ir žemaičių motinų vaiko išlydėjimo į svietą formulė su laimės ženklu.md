@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Kalnėnų ir žemaičių motinos, išleisdamos vaiką į svietą, įduoda jam laimės ženklą.'
   pagrindžia:
     - c-001
@@ -50,14 +50,16 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Kalnėnų ir žemaičių motinos, išleisdamos vaiką į svietą, įduoda jam laimės ženklą.
+  santrauka: 'Kalnėnų ir žemaičių motinos, išleisdamos vaiką į svietą, įduoda jam laimės ženklą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     nes^58 mūsų išmintingos kalnėnų ir žemaičių motinos savo apkerpėjusiuose tarp girių nameliuose,
     kurios šiandien dar, išleisdamos savo vaiką į svietą ir įduodamos jam laimės ženklą, sako: „Mirk,
     vaikeli, ar doru žmogum būk ir namų savo neužmiršk“, – tos, sakau, užlaikė mūsų senovės kalbą,
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

@@ -20,13 +20,15 @@ Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietij
 
 ## Teiginiai
 - t-001
-  teiginys: 'Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietijos dalies (Ruhro srities) okupacija, sujaudintos tų įvykių Klaipėdoje, įtarė Lietuvos vyriausybę dalyvavus paties sukilimo ruošime ir pasiuntė nepaprastą komisiją tvarkai grąžinti.'
+  teiginys: 'Didžiosios valstybės tuo metu domėjosi vakarinės Vokietijos Ruhro srities okupacija.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietijos dalies (Ruhro srities) okupacija, sujaudintos tų įvykių Klaipėdoje, įtarė Lietuvos vyriausybę dalyvavus paties sukilimo ruošime ir pasiuntė nepaprastą komisiją tvarkai grąžinti.'
+  santrauka: 'Didžiosios valstybės tuo metu domėjosi vakarinės Vokietijos Ruhro srities okupacija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Didžiosios valstybės, kurios tuo metu buvo susidomėjusios
@@ -34,10 +36,10 @@ Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietij
     tos tų įvykių Klaipėdoje, įtarė Lietuvos vyriausybę dalyvavus
     paties sukilimo ruošime ir pasiuntė nepaprastą komisiją tvarkai
     grąžinti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

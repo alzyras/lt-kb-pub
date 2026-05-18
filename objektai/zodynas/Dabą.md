@@ -20,13 +20,13 @@ Pagrindinė forma: `dabą`.
 Vartojamos formos: `dabos`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Dabą` šiame tekste reiškia papročius arba gyvenimo būdą.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Autorius ją laiko vienu iš tautos senovės bruožų greta būdo ir tikybos.'
   pagrindžia:
     - c-002
@@ -35,7 +35,7 @@ Vartojamos formos: `dabos`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Dabą` šiame tekste reiškia papročius arba gyvenimo būdą
+  santrauka: '`Dabą` šiame tekste reiškia papročius arba gyvenimo būdą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     kurių aš čia užsiėmiau^59 būdą, dabą^60 , tikybą, ūkės rėdą, karybą, prekybą ir mantą^61 , arba pinigus,
@@ -47,9 +47,9 @@ Vartojamos formos: `dabos`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Autorius ją laiko vienu iš tautos senovės bruožų greta būdo ir tikybos
+  santrauka: 'Autorius ją laiko vienu iš tautos senovės bruožų greta būdo ir tikybos.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     jog svietas dar pasakomis minėjo, jog nuo Indijos kilimo buvo, jau nuo jų būdo, dabos ir tikybos,
@@ -60,7 +60,7 @@ Vartojamos formos: `dabos`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Pastabos
 

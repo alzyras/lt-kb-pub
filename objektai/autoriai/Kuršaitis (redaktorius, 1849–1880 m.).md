@@ -53,19 +53,19 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
 - t-003
   teiginys: 'Kuršaitis 1849—1880 m. leido „Keleivį“.'
   pagrindžia:
-    - c-003
+    - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: '„Keleivis“ ragino lietuvius aktyviai dalyvauti rinkimuose.'
+  teiginys: 'Kuršaičio „Keleivis“ ragino lietuvius uoliai dalyvauti rinkimuose.'
   pagrindžia:
-    - c-004
+    - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Kuršaitis redagavo lietuvišką laikraštį „Keleivį“ ir buvo Karaliaučiaus lietuvių seminarijos profesorius
+  santrauka: 'Kuršaitis redagavo lietuvišką laikraštį „Keleivį“ ir buvo Karaliaučiaus lietuvių seminarijos profesorius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Centro valdžia, norėdama palaikyti šitą lietuvių prisi-
@@ -81,7 +81,7 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Kuršaitis buvo „Keleivio“ redaktorius ir lietuvių kalbos gramatikos, žodyno bei kitų raštų autorius
+  santrauka: 'Kuršaitis buvo „Keleivio“ redaktorius ir lietuvių kalbos gramatikos, žodyno bei kitų raštų autorius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš lietuvių tyrinė-
@@ -97,7 +97,20 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
   pagrindžia:
     - t-002
 - c-003
-  santrauka: Kuršaitis 1849—1880 m. leido „Keleivį“
+  santrauka: 'Kuršaičio „Keleivis“ ragino lietuvius uoliai dalyvauti rinkimuose.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tad veltui Kuršaičio „Ke-
+    leivis" šaukdavo lietuvius uoliai dalyvauti rinkimuose.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-004
+  santrauka: 'Kuršaitis 1849—1880 m. leido „Keleivį“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Daugiau
@@ -113,19 +126,6 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-- c-004
-  santrauka: „Keleivis“ ragino lietuvius aktyviai dalyvauti rinkimuose
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tad veltui Kuršaičio „Ke-
-    leivis" šaukdavo lietuvius uoliai dalyvauti rinkimuose.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai

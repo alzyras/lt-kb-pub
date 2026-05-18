@@ -20,13 +20,15 @@ Pagaliau 1704 m. Karolis privertė sušaukti elekcinį seimą, kuris, apstatytas
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pagaliau 1704 m. Karolis privertė sušaukti elekcinį seimą, kuris, apstatytas švedų kariuomene, paskelbė karalium Poznanės vaivadą Stanislovą Leščinskį.'
+  teiginys: '1704 m. Karolis privertė sušaukti elekcinį seimą, kuris karaliumi paskelbė Stanislovą Leščinskį.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pagaliau 1704 m. Karolis privertė sušaukti elekcinį seimą, kuris, apstatytas švedų kariuomene, paskelbė karalium Poznanės vaivadą Stanislovą Leščinskį.'
+  santrauka: '1704 m. Karolis privertė sušaukti elekcinį seimą, kuris karaliumi paskelbė Stanislovą Leščinskį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pagaliau
@@ -37,11 +39,11 @@ Pagaliau 1704 m. Karolis privertė sušaukti elekcinį seimą, kuris, apstatytas
     lium Poznanės vaivadą
     Stanislovą Leščin-
     skį.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -38,7 +38,7 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
 
 ## Teiginiai
 - t-001
-  teiginys: '1910 m. JAV Pensilvanijoje, Čikagoje ir Niujorke gyveno 207 tūkst. lietuvių.'
+  teiginys: '1910 m. Pensilvanijoje, Čikagoje ir Niujorke gyveno 207 tūkst. lietuvių.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -46,7 +46,7 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1910 m. JAV Pensilvanijoje, Čikagoje ir Niujorke gyveno 207 tūkst. lietuvių.'
+  santrauka: '1910 m. Pensilvanijoje, Čikagoje ir Niujorke gyveno 207 tūkst. lietuvių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1910 m. JAV (Pensilvanijoje, Čikagoje, Niujorke) gyveno 207 tūkst. lietu-

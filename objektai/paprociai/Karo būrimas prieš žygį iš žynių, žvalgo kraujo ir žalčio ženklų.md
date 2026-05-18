@@ -41,13 +41,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Prieš pradėdami karą senovės kalnėnai ir žemaičiai pirmiausia klausdavo žynių apie būsimą laimę.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Traukiant į karę žalčio pasirodymas kelyje buvo laikomas laimės ženklu.'
   pagrindžia:
     - c-002
@@ -56,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Prieš pradėdami karą senovės kalnėnai ir žemaičiai pirmiausia klausdavo žynių apie būsimą laimę.
+  santrauka: 'Prieš pradėdami karą senovės kalnėnai ir žemaičiai pirmiausia klausdavo žynių apie būsimą laimę.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Kad jau visi buvo susirinkę į vieną vietą ir rangūs prieš neprietelių traukti, tad pirma teiravos ir
@@ -66,19 +66,23 @@ Nenurodyta
     ąžuolo, pervėrė jam vylyčia arba aksčia širdį ir veizėjo: jei kraujas čiurkšliu tekėjo, tad toj karėj vylės
     laimės, nesgi tas buvo ženklu, jog dievai suteiks jiems pergalę, bet jei kraujas sulojo^1333 , tad reiškė
     sau atenčioj karėj nelaimę.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Traukiant į karę žalčio pasirodymas kelyje buvo laikomas laimės ženklu.
+  santrauka: 'Traukiant į karę žalčio pasirodymas kelyje buvo laikomas laimės ženklu.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Lygia dalia traukdami į karę kad išvydo žaltį, slenkantį per kelią, taip pat
     tarės laimėsiantys.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004

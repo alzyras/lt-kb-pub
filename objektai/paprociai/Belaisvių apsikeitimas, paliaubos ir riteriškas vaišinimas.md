@@ -44,43 +44,43 @@ Mažinti karo įtampą, palaikyti derybinį kanalą ir laikinai reguliuoti santy
 Praktika aprašoma kaip Vinricho von Kniprodės taikyta lankstesnė politika, nors Ordino įstatai draudė su pagonimis sudaryti sutartis.
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: 'Kęstutis, kryžiuočių spaudžiamas labiau negu Jogaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti paliaubas.'
   pagrindžia:
     - c-001
-  šaltinis: 'Vytautas Didysis 1350-1430 (1930 m.)'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Vinricho von Kniprodės laikais Kęstutis ir Ordinas pradėjo keistis belaisviais, daryti tarpukares ir vienas kitą riteriškai vaišinti.'
+- t-005
+  teiginys: 'Vinricho von Kniprodės laikais Kęstutis ir Ordinas pradėjo keistis belaisviais, daryti tarpukares ir riteriškai vienas kitą vaišinti.'
   pagrindžia:
     - c-002
-  šaltinis: 'Vytautas Didysis 1350-1430 (1930 m.)'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-003
+- t-006
   teiginys: '1379 m. liepos pabaigoje Kęstutis su Ordino maršalu vyko į Kauną pasikeisti nelaisvėn patekusiais kariais, o Jogaila prašė leisti atsiųsti ten savo pasiuntinius.'
   pagrindžia:
     - c-003
-  šaltinis: 'Vytautas Didysis 1350-1430 (1930 m.)'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Kęstutis pirmasis pasiūlė belaisvių mainus ir paliaubas.
-  šaltinis: 'Vytautas Didysis 1350-1430 (1930 m.)'
+  santrauka: 'Kęstutis, kryžiuočių spaudžiamas labiau negu Jogaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti paliaubas.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kęstutis kryžiuočių daug smarkiau spaudžiamas, negu Jo­
     gaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti
     paliaubas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-002
-  santrauka: Vinricho von Kniprodės laikais belaisvių mainai, tarpukariai ir riteriškas vaišinimas tapo sąmoninga santykių su Kęstučiu taktika.
-  šaltinis: 'Vytautas Didysis 1350-1430 (1930 m.)'
+  santrauka: 'Vinricho von Kniprodės laikais Kęstutis ir Ordinas pradėjo keistis belaisviais, daryti tarpukares ir riteriškai vienas kitą vaišinti.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Čia reikia pastebėti, kad Vinrichas von Kniprodė,
     būdamas gabus ir lankstus politikas, nuolat kariaudamas su
@@ -88,28 +88,28 @@ Praktika aprašoma kaip Vinricho von Kniprodės taikyta lankstesnė politika, no
     Vokiečių Ordino įstatai draudė su pagonimis daryti kokias nors
     sutartis, vis dėlto jiedu pradėjo pasikeisti belaisviais, daryti tar­
     pukares, vienas kitą riteriškai pavaišinti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-005
 - c-003
-  santrauka: 1379 m. Kęstutis ir Ordino maršalas Kaune derėjosi dėl į nelaisvę patekusių karių mainų.
-  šaltinis: 'Vytautas Didysis 1350-1430 (1930 m.)'
+  santrauka: '1379 m. liepos pabaigoje Kęstutis su Ordino maršalu vyko į Kauną pasikeisti nelaisvėn patekusiais kariais, o Jogaila prašė leisti atsiųsti ten savo pasiuntinius.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kada 1379 metais liepos mėn. pabaigoje Kęstutis su Ordino
     maršalu vyko Kaunan pasikeisti patekusiais nelaisvėn karei­
     viais, Jogaila prašės leisti ir jam atsiųsti savo pasiuntinius į
     tuos pasitarimus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-006
 
 ## Ryšiai
 ### Laikotarpiai

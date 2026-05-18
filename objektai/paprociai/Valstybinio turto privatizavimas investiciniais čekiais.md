@@ -57,13 +57,13 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
 - Praktika siejama su planinės ekonomikos perėjimu į kapitalistinę rinką ir visuomenės vertinimu, kad privatizacija buvo neteisinga.
 
 ## Teiginiai
-- t-003
+- t-005
   teiginys: 'Privatizacijos laikotarpiu dauguma valstybinių įmonių tapo privačios ir susidarė naujas verslininkų sluoksnis.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-004
+- t-006
   teiginys: 'Daugelis gyventojų pardavė čekius ir nesugebėjo privatizuoti savo gyvenamojo būsto.'
   pagrindžia:
     - c-002
@@ -84,7 +84,7 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-005
 - c-002
   santrauka: 'Daugelis gyventojų pardavė čekius ir nesugebėjo privatizuoti savo gyvenamojo būsto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -99,7 +99,7 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-006
 
 ## Šaltiniai ir įrodymai
 

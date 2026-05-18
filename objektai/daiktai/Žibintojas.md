@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Ant akmens, vadinamo žibintoju, sukurdavo ugnį vakarojant.'
   pagrindžia:
     - c-001
@@ -50,7 +50,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Ant akmens, vadinamo žibintoju, sukurdavo ugnį vakarojant.
+  santrauka: 'Ant akmens, vadinamo žibintoju, sukurdavo ugnį vakarojant.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Po ta
@@ -66,4 +66,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

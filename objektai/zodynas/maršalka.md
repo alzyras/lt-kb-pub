@@ -21,32 +21,32 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Žuvusiam maršalkai Schindekopui paminklinis kryžius buvo pastatytas tuojau po mūšio; jam sugriuvus, ant tų pačių pamatų 1835 m. buvo šis pastatytas.'
+  teiginys: 'Maršalkai Schindekopui paminklinis kryžius buvo pastatytas tuojau po mūšio, o 1835 m. atstatytas ant tų pačių pamatų.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Tribunole pirmininkaudavo iš tų pačių deputatų renkamas pirmininkas, vadinamas tribunolo maršalka.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Jame žuvo patsai ordino kariuomenės vadas — maršalka, trys komtūrai (pilių bei sričių viršininkai) ir daugybė riterių.'
-  pagrindžia:
-    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Žuvusiam maršalkai Schindekopui paminklinis kryžius buvo pastatytas tuojau po mūšio; jam sugriuvus, ant tų pačių pamatų 1835 m. buvo šis pastatytas.'
+  santrauka: 'Maršalkai Schindekopui paminklinis kryžius buvo pastatytas tuojau po mūšio, o 1835 m. atstatytas ant tų pačių pamatų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Žuvusiam maršalkai Schindekopui pamin-
     klinis kryžius buvo pastatytas tuojau po
     mūšio; jam sugriuvus, ant tų pačių pa-
     matų 1835 m. buvo šis pastatytas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -55,26 +55,10 @@ tags:
   citata_originali: |
     Tribunole pirmininkaudavo iš tų pačių deputatų renkamas
     pirmininkas, vadinamas tribunolo maršalka.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Jame žuvo patsai ordino kariuomenės vadas — maršalka, trys komtūrai (pilių bei sričių viršininkai) ir daugybė riterių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jame žuvo patsai ordino kariuo-
-    menės vadas — maršal-
-    ka, trys komtūrai (pilių
-    bei sričių viršininkai) ir
-    daugybė riterių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003

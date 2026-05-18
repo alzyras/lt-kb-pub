@@ -41,34 +41,22 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Po audros gaspadorius linksmindamasis keldavo namiškiams puotą ar gėrynę.'
   pagrindžia:
-    - c-001
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Kilus audrai arba grasinant krušai šeimininkas tris kartus apeidavo savo rugius ar varstą su lašinių paltimi ir melsdavo Perūną.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Po audros gaspadorius linksmindamasis keldavo namiškiams puotą ar gėrynę.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Audrai praėjus, gaspadorius linksmindamos pakėlęs namiškiams
-    puotą, arba gėrynę, jog jį Perūnas nuo tos nelaimės paglemžti^954 teikės, todėl šis, jam
-    dėkavodamas, iš džiaugsmo pats su šeimyna besveikas lašinius suvalgęs.
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Kilus audrai arba grasinant krušai šeimininkas tris kartus apeidavo savo rugius ar varstą su lašinių paltimi ir melsdavo Perūną.
+  santrauka: 'Kilus audrai arba grasinant krušai šeimininkas tris kartus apeidavo savo rugius ar varstą su lašinių paltimi ir melsdavo Perūną.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Kieminę auką pats namų gaspadorius atlaikęs tokiu pragumu: ūkiantis ar žaibuojant ir iš tolo
@@ -76,8 +64,24 @@ Nenurodyta
     tankiai lašinių paltį į kukšterą įkabinęs, kepurę nuvožęs, apnešė tris kartus apsuk savo rugius ar
     varstą^952 , trigubai tais žodžiais melsdamas Perūną, savo Titį: „Perime dievali, nemušk ant mano
     javų to kipšo, melsiu tave šia palčia lašinių.“^
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
+- c-002
+  santrauka: 'Po audros gaspadorius linksmindamasis keldavo namiškiams puotą ar gėrynę.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Audrai praėjus, gaspadorius linksmindamos pakėlęs namiškiams
+    puotą, arba gėrynę, jog jį Perūnas nuo tos nelaimės paglemžti^954 teikės, todėl šis, jam
+    dėkavodamas, iš džiaugsmo pats su šeimyna besveikas lašinius suvalgęs.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003

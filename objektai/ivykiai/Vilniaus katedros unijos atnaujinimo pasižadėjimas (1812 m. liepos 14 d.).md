@@ -32,13 +32,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tą pakvietimą ypač karštai sutiko Vilniaus universiteto jaunuomenė.'
+  teiginys: 'Vilniaus universiteto jaunuomenės iniciatyva 1812 m. liepos 14 d. Vilniaus katedroje iškilmingai pasižadėta atnaujinti uniją.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tą pakvietimą ypač karštai sutiko Vilniaus universiteto jaunuomenė.'
+  santrauka: 'Vilniaus universiteto jaunuomenės iniciatyva 1812 m. liepos 14 d. Vilniaus katedroje iškilmingai pasižadėta atnaujinti uniją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kaip
@@ -48,11 +50,11 @@ Nenurodyta
     karštai sutiko Vilniaus universiteto jaunuomenė. Jos iniciatyva
     1812 m. liepos 14 d. Vilniaus katedroje įvyko iškilmingas pasi-
     žadėjimas atnaujinti uniją. Tokių iškilmių įvyko ir kitur.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

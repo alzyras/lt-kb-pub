@@ -18,22 +18,24 @@ Netrukus pradėjo eiti „Vienybė Lietuvininkų" ir vargonininko Bačkausko Tam
 
 ## Teiginiai
 - t-001
-  teiginys: 'Netrukus pradėjo eiti „Vienybė Lietuvininkų" ir vargonininko Bačkausko Tamošausko redaguojamoji „Sau1ė", kurios tebeina ir dabar.'
+  teiginys: 'Bačkausko Tamošausko redaguojama „Saulė“ pradėjo eiti netrukus po „Vienybės Lietuvininkų“.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Netrukus pradėjo eiti „Vienybė Lietuvininkų" ir vargonininko Bačkausko Tamošausko redaguojamoji „Sau1ė", kurios tebeina ir dabar.'
+  santrauka: 'Bačkausko Tamošausko redaguojama „Saulė“ pradėjo eiti netrukus po „Vienybės Lietuvininkų“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Netrukus pradėjo eiti „Vienybė Lietuvi-
     ninkų" ir vargonininko Bačkausko Tamošausko redaguojamoji
     „Sau1ė", kurios tebeina ir dabar.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -34,35 +34,17 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
 - Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro Seredos-Stumbro pasakojimo ištrauka:.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro Seredos-Stumbro pasakojimo ištrauka:.'
+- t-003
+  teiginys: '»---Apie 100 partizanų būrį Kalniškės miške 1945 05 16 apsupo NKVD kariuomenė. Simno stribų prašymu mišką apsupo iš vakaro. Keletas partizanų išėjo į kaimą. Sugrįžę apie 24 val. pas ūkininką, miške radome pilna vyrų. Dar saulei netekėjus Ralių k. prie miško pasigirdo automatų šūviai. Vyrai sukilo ir išėjo į savo vietas. Iš kaimo atbėgo.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: '»---Apie 100 partizanų būrį Kalniškės miške 1945 05 16 apsupo NKVD kariuomenė. Simno stribų prašymu mišką apsupo iš vakaro. Keletas partizanų išėjo į kaimą. Sugrįžę apie 24 val. pas ūkininką, miške radome pilna vyrų. Dar saulei netekėjus Ralių k. prie miško pasigirdo automatų šūviai. Vyrai sukilo ir išėjo į savo vietas. Iš kaimo atbėgo.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro Seredos-Stumbro pasakojimo ištrauka:.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio da-
-    lyvio Petro Seredos-Stumbro pasakojimo ištrauka:
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
-  pagrindžia:
-    - t-001
 
-- c-002
+## Bibliografiniai įrodymai
+- c-001
   santrauka: '»---Apie 100 partizanų būrį Kalniškės miške 1945 05 16 apsupo NKVD kariuomenė. Simno stribų prašymu mišką apsupo iš vakaro. Keletas partizanų išėjo į kaimą. Sugrįžę apie 24 val. pas ūkininką, miške radome pilna vyrų. Dar saulei netekėjus Ralių k. prie miško pasigirdo automatų šūviai. Vyrai sukilo ir išėjo į savo vietas. Iš kaimo atbėgo.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -75,6 +57,6 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003

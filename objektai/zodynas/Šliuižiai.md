@@ -20,7 +20,7 @@ Pagrindinė forma: `šliuižiai`.
 Vartojamos formos: `šliuižiu`.
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'šliuižiai yra pirmieji kalnėnų ir žemaičių ratai ant dviejų tekinių.'
   pagrindžia:
     - c-001
@@ -29,7 +29,7 @@ Vartojamos formos: `šliuižiu`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: šliuižiai yra pirmieji kalnėnų ir žemaičių ratai ant dviejų tekinių
+  santrauka: 'šliuižiai yra pirmieji kalnėnų ir žemaičių ratai ant dviejų tekinių.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Pirmieji ratai kalnėnų ir žemaičių buvo ant dviejų tekinių, šliuižiu^275 vadinami, ant kurių javus ir
@@ -41,7 +41,7 @@ Vartojamos formos: `šliuižiu`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

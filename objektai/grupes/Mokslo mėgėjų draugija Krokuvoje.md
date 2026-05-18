@@ -19,13 +19,15 @@ Iš Krokuvos atėjo į Vilnių prašymas, kad arčiau lietuvių stovįs universi
 
 ## Teiginiai
 - t-001
-  teiginys: 'Iš Krokuvos atėjo į Vilnių prašymas, kad arčiau lietuvių stovįs universitetas patyrinėtų jų praeitį ir šį tą praneštų Mokslo Mėgėjų Draugijai Krokuvoj.'
+  teiginys: 'Mokslo mėgėjų draugija Krokuvoje prašė Vilniaus universiteto patyrinėti lietuvių praeitį ir jai apie tai pranešti.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Iš Krokuvos atėjo į Vilnių prašymas, kad arčiau lietuvių stovįs universitetas patyrinėtų jų praeitį ir šį tą praneštų Mokslo Mėgėjų Draugijai Krokuvoj.'
+  santrauka: 'Mokslo mėgėjų draugija Krokuvoje prašė Vilniaus universiteto patyrinėti lietuvių praeitį ir jai apie tai pranešti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš Krokuvos atėjo į Vil-
@@ -33,10 +35,10 @@ Iš Krokuvos atėjo į Vilnių prašymas, kad arčiau lietuvių stovįs universi
     lietuvių stovįs universitetas
     patyrinėtų jų praeitį ir šį
     tą praneštų Mokslo Mėgėjų Draugijai Krokuvoj.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -41,7 +41,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Birutės ir Kęstučio meilės istorija laikoma Lietuvos metraščiuose užrašytu epinio pasakojimo siužetu.'
+  teiginys: 'Birutės legenda nenutrūko įsigalint krikščionybei, o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios vieta.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -49,7 +49,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Birutės ir Kęstučio meilės istorija laikoma Lietuvos metraščiuose užrašytu epinio pasakojimo siužetu.'
+  santrauka: 'Birutės legenda nenutrūko įsigalint krikščionybei, o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios vieta.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Daugelis tautų sukūrė epą, t. y. pasakojimus apie dievus, pusdievius

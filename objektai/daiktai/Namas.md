@@ -41,13 +41,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Pirmasis jų trobesys tose giriose vadinos nams, arba namas, namaitis.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Senovėj tame name atlikdavo visus namų darbus ir laikydavo reikmenis.'
   pagrindžia:
     - c-002
@@ -56,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Pirmasis jų trobesys tose giriose vadinos nams, arba namas, namaitis.
+  santrauka: 'Pirmasis jų trobesys tose giriose vadinos nams, arba namas, namaitis.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Pirmasis jų trobesys tose giriose vadinos nams, arba namas, namaitis, dėl ko ir visa tauta nuo
@@ -75,9 +75,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Senovėj tame name atlikdavo visus namų darbus ir laikydavo reikmenis.
+  santrauka: 'Senovėj tame name atlikdavo visus namų darbus ir laikydavo reikmenis.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Senovėj kalnėnai ir žemaičiai tame trobesy visus namų darbus atliko: alų, midų darė, žlugtį
@@ -93,4 +93,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004

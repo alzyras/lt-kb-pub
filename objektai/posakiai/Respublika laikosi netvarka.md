@@ -37,8 +37,8 @@ tags:
 - Respublika laikantisi netvarka
 
 ## Teiginiai
-- t-001
-  teiginys: 'Formuluotė šiame pasakojime pateikiama kaip senasis bajoriškos netvarkos pateisinimo posakis.'
+- t-002
+  teiginys: 'Posakis „Respublika laikosi netvarka“ aiškino, kad netvarkinga bajorų Respublika niekam nepavojinga ir todėl nebus puolama.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -46,7 +46,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: senasis bajoriškos netvarkos pateisinimo posakis
+  santrauka: 'Posakis „Respublika laikosi netvarka“ aiškino, kad netvarkinga bajorų Respublika niekam nepavojinga ir todėl nebus puolama.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kiek vėliau įėjo
@@ -61,7 +61,7 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

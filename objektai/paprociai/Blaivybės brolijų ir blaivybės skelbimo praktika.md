@@ -39,14 +39,20 @@ Nenurodyta
   teiginys: 'Vyskupo raginama, kunigija tapo uoliausia blaivybės platintoja; ji surašinėjo žmones į blaivybės brolijas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Administracijai spiriant, blaivybės brolijų narių surašinėjamosios knygos buvo nustotos vesti, tačiau blaivybė dėl to nė kiek nesusilpnėjo.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Kova su girtybe buvo iš naujo pradėta tik 1908 m., įkūrus Blaivybės Draugiją, kuri ir dabar tebeveikia.'
+  teiginys: '1908 m. įkurta Blaivybės Draugija atnaujino kovą su girtybe.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -62,11 +68,11 @@ Nenurodyta
     Panevėžio, Ukmergės, Utenos, Obelių, Zarasų, Kuršo ir Žiem-
     galos dekanatai). Vyskupo raginama, kunigija tapo uoliausia
     blaivybės platintoja; ji surašinėjo žmones į blaivybės brolijas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -91,24 +97,24 @@ Nenurodyta
     1863 m. sukilimo, kada Mu-
     ravjovas uždraudė visokius
     susibūrimus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Kova su girtybe buvo iš naujo pradėta tik 1908 m., įkūrus Blaivybės Draugiją, kuri ir dabar tebeveikia.'
+  santrauka: '1908 m. įkurta Blaivybės Draugija atnaujino kovą su girtybe.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kova su girtybe buvo iš naujo pradėta tik 1908 m., įkūrus
     Blaivybės Draugiją, kuri ir dabar tebeveikia.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 

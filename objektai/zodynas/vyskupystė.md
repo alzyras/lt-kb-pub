@@ -21,13 +21,15 @@ Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedr
 
 ## Teiginiai
 - t-001
-  teiginys: 'Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedrą ir dar 7 pirmąsias parapijines bažnyčias krašte (Ukmergėje, Maišiogaloje, Nemenčine, Medininkuose, Krėvoje, Obalčiuose ir Ainoje).'
+  teiginys: 'Po Lietuvos krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedrą ir septynias pirmąsias parapijines bažnyčias krašte.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedrą ir dar 7 pirmąsias parapijines bažnyčias krašte (Ukmergėje, Maišiogaloje, Nemenčine, Medininkuose, Krėvoje, Obalčiuose ir Ainoje).'
+  santrauka: 'Po Lietuvos krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedrą ir septynias pirmąsias parapijines bažnyčias krašte.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl tuojau
@@ -38,10 +40,10 @@ Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedr
     mergėje, Maišiogaloje, Ne-
     menčine, Medininkuose, Krė-
     voje, Obalčiuose ir Ainoje).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

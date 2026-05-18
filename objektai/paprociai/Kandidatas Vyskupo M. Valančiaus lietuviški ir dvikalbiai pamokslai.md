@@ -42,7 +42,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Valančius pasirūpino, kad kunigai turėtų pagarbų požiūrį į lietuviškai kalbančią liaudį, gerai išmoktų lietuviškai ir sakytų pamokslus lietuviškai, davė nurodymą kunigams prie bažnyčių steigti lietuviškas mokyklas.'
+  teiginys: 'M. Valančius ragino kunigus gerbti lietuviškai kalbančią liaudį, mokytis lietuvių kalbos, sakyti lietuviškus pamokslus ir steigti lietuviškas mokyklas.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -65,7 +65,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Valančius pasirūpino, kad kunigai turėtų pagarbų požiūrį į lietuviškai kalbančią liaudį, gerai išmoktų lietuviškai ir sakytų pamokslus lietuviškai, davė nurodymą kunigams prie bažnyčių steigti lietuviškas mokyklas.'
+  santrauka: 'M. Valančius ragino kunigus gerbti lietuviškai kalbančią liaudį, mokytis lietuvių kalbos, sakyti lietuviškus pamokslus ir steigti lietuviškas mokyklas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     M. Valančius pasirūpino, kad

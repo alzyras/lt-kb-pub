@@ -18,17 +18,17 @@ Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi gi
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi giesmių knygas, kurios ėjo pagrindu vėlesnėms lietuvių liuterionių giesmynų laidoms.'
+  teiginys: '1666 m. D. Kleinas išleido dvi giesmių knygas, tapusias pagrindu vėlesnėms lietuvių liuterionių giesmynų laidoms.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Kleino giesmynas.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi giesmių knygas, kurios ėjo pagrindu vėlesnėms lietuvių liuterionių giesmynų laidoms.'
+  santrauka: '1666 m. D. Kleinas išleido dvi giesmių knygas, tapusias pagrindu vėlesnėms lietuvių liuterionių giesmynų laidoms.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nors lietuviškų knygų spausdinimas
@@ -38,22 +38,10 @@ Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi gi
     matiką, o 1666 m. — dvi giesmių knygas,
     kurios ėjo pagrindu vėlesnėms lietuvių liu-
     terionių giesmynų laidoms.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Kleino giesmynas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1666 m. D. Kleino giesmynas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

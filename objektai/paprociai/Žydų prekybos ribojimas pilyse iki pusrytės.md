@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Smulkesnėje prekyboje pilyse dar vertėsi krikščionys, o žydai negalėjo pirkti į pilį įvežamų prekių iki didžiosios pusrytės ar iki pietų.'
   pagrindžia:
     - c-001
@@ -50,18 +50,20 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Smulkesnėje prekyboje pilyse dar vertėsi krikščionys, o žydai negalėjo pirkti į pilį įvežamų prekių iki didžiosios pusrytės ar iki pietų.
+  santrauka: 'Smulkesnėje prekyboje pilyse dar vertėsi krikščionys, o žydai negalėjo pirkti į pilį įvežamų prekių iki didžiosios pusrytės ar iki pietų.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Nesgi žydai, iš Lenkų atėję į Lietuvą, noris plėtės
     tenai ir jau nuomojo jos muitus, vienok smulkmėmis vis dar krikščionys vertės, o žydams nevalna
     buvo pirkinėti už pilių įvežamas į pilį prekes, kaipogi ir pačioje pily pirm krikščionų, jau lig didžiosios
     pusrytės^1481 , jau lig pietų, žydai pirkti negalėjo.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

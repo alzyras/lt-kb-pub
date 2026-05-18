@@ -20,7 +20,7 @@ tags:
 Apšvietos žingsniais Lietuvos ūkyje reikia laikyti valstiečių paleidimo iš baudžiavos, suteikiant jiems asmeninę laisvę, atvejus.
 
 ## Teiginiai
-- t-002
+- t-003
   teiginys: 'Posakis apie tris respublikas rodė ypatingą visuomenės reikšmę Paulavai.'
   pagrindžia:
     - c-001
@@ -43,4 +43,4 @@ Apšvietos žingsniais Lietuvos ūkyje reikia laikyti valstiečių paleidimo iš
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003

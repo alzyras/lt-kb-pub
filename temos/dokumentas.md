@@ -21,7 +21,7 @@ Objektų skaičius: 54.
 ### Asmenys
 - [[objektai/asmenys/Adolfas Jofė]]
 - [[objektai/asmenys/Aleksandras (didysis kunigaikštis)]]
-- [[objektai/asmenys/Aleksandras Stulginskis]]
+- [[objektai/asmenys/Aleksandras Stulginskis|Aleksandras Stulginskis (Lietuvos prezidentas)]]
 - [[objektai/asmenys/Andrius Pfafendorfas]]
 - [[objektai/asmenys/Ditrichas von Altenburgas]]
 - [[objektai/asmenys/Jonas Perlingas]]

@@ -32,7 +32,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Formuluotė šiame pasakojime pateikiama kaip Vytauto nepalaužiamumo formulė.'
+  teiginys: 'Vytautas maršalkai pareiškė, kad piktuoju iš jo dar niekas nieko nelaimėjo ir kad savo nusistatymo jis nekeičia.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -40,7 +40,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Vytauto nepalaužiamumo formulė
+  santrauka: 'Vytautas maršalkai pareiškė, kad piktuoju iš jo dar niekas nieko nelaimėjo ir kad savo nusistatymo jis nekeičia.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     — Maršalka, tu labai gerai žinai, kad piktuoju iš ma-

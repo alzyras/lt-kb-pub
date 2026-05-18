@@ -18,21 +18,25 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '„Vienybės Lietuvininkų" antraštė.'
+  teiginys: '„Vienybė Lietuvininkų“ buvo vienas seniausių ir daug įtakos turėjusių Amerikos lietuvių laikraščių.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: '„Vienybės Lietuvininkų" antraštė.'
+  santrauka: '„Vienybė Lietuvininkų“ buvo vienas seniausių ir daug įtakos turėjusių Amerikos lietuvių laikraščių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     „Vienybės Lietuvininkų" antraštė.
     (Tai vienas seniausių ir daug įtakos turėjusių Amerikos lietuvių laikraščių).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

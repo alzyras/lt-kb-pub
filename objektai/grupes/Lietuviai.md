@@ -87,13 +87,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-010
-  teiginys: 'Patys save lietuviai vadino lietuviais, kalnėnais, aukštėjais ir žemaičiais pagal tai, ar gyveno kalne, ar pakalnėje, jūros link.'
-  pagrindžia:
-    - c-028
-    - c-027
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-002

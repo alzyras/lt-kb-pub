@@ -33,21 +33,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Dar per karūnaciją caras įsakė atsiklausti dėl baudžiavos panaikinimo į iškilmes suvažiavusios bajorijos.'
+  teiginys: 'Per karūnaciją caras įsakė atsiklausti į iškilmes suvažiavusios bajorijos dėl baudžiavos panaikinimo.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Šitos komisijos sudarytas projektas buvo nusiųstas į Petrapilį, kur tokį pat darbą dirbo speciali komisija visai Rusijai.'
-  pagrindžia:
-    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Dar per karūnaciją caras įsakė atsiklausti dėl baudžiavos panaikinimo į iškilmes suvažiavusios bajorijos.'
+  santrauka: 'Per karūnaciją caras įsakė atsiklausti į iškilmes suvažiavusios bajorijos dėl baudžiavos panaikinimo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Dar per karūnaciją caras įsakė atsiklausti dėl baudžiavos
@@ -57,11 +57,11 @@ Nenurodyta
     dauguma jau buvo supratusi baudžiauninko darbo neproduk-
     tyvumą ir tikėjosi, kad, panaikinus baudžiavą, atsiras pigių dar-
     bininkų, su kuriais bus galima pakelti ūkį.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -73,37 +73,13 @@ Nenurodyta
     Dvarininkai, žinoma, tik savimi tesirūpino. Visą reformą pagal
     manifestą ir papildomuosius įsakymus (ukazus) reikėjo atlikti
     per 2 metus (tuo laiku valstiečiai dar turėjo eiti baudžiavą).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Šitos komisijos sudarytas projektas buvo nusiųstas į Petrapilį, kur tokį pat darbą dirbo speciali komisija visai Rusijai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Po to (1858 m.) valstiečių at-
-    leidimo projektui pa-
-    ruošti visose Lietuvos
-    gubernijose buvo suda-
-    ryti bajorų komitetai,
-    kurių darbą turėjo su-
-    vienodinti centralinė
-    komisija Vilniuje. Ši-
-    tos komisijos sudarytas
-    projektas buvo nusiųs-
-    tas į Petrapilį, kur tokį
-    pat darbą dirbo speciali
-    komisija visai Rusijai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

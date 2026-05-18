@@ -34,17 +34,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prieš tą blogybę būdavo nukreipti vadinamieji konfederaciniai seimai.'
+  teiginys: 'Konfederaciniuose seimuose atstovai pasižadėdavo numatomus klausimus spręsti balsų dauguma.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Tuo būdu šitokiam seime veto teisė jau nebeveikė.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prieš tą blogybę būdavo nukreipti vadinamieji konfederaciniai seimai.'
+  santrauka: 'Konfederaciniuose seimuose atstovai pasižadėdavo numatomus klausimus spręsti balsų dauguma.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kadangi seimo iširimas dažnai grėsdavo vals-
@@ -53,26 +51,13 @@ Nenurodyta
     būdavo renkami paprasta tvarka, tik suvažiavę, pasiūlius kara-
     liui ar kam nors kitam, jie pasirašydavo tam tikrą pasižadėjimo
     aktą, kad numatomus klausimus spręsią balsų dauguma.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Tuo būdu šitokiam seime veto teisė jau nebeveikė.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu šitokiam seime _veto_ teisė
-    jau nebeveikė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

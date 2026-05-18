@@ -19,13 +19,15 @@ Toks jų susibūrimas vadinosi kariuomenės konfederacija.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Toks jų susibūrimas vadinosi kariuomenės konfederacija.'
+  teiginys: 'Kariuomenės konfederacija buvo neapmokėtų karių susibūrimas, kai jie atsisakydavo klausyti vadų ir plėšikaudavo, kol gaudavo algą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Toks jų susibūrimas vadinosi kariuomenės konfederacija.'
+  santrauka: 'Kariuomenės konfederacija buvo neapmokėtų karių susibūrimas, kai jie atsisakydavo klausyti vadų ir plėšikaudavo, kol gaudavo algą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai nemokėdavo algos, jie paprastai visi atsisakydavo
@@ -37,10 +39,10 @@ Toks jų susibūrimas vadinosi kariuomenės konfederacija.
     imdavo po vieną nuo 20 kiemų. Bet kadangi dvarų ponai ne-
     norėjo jų duoti, tai netrukus tokie rinktiniai pėstininkai turėjo
     išnykti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

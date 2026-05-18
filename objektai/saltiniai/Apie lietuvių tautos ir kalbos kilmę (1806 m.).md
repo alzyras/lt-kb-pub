@@ -20,17 +20,17 @@ Savo tyrinėjimus jis paskelbė ir atskira knyga — „Apie lietuvių tautos ir
 
 ## Teiginiai
 - t-001
-  teiginys: 'Savo tyrinėjimus jis paskelbė ir atskira knyga — „Apie lietuvių tautos ir kalbos kilmę" (1806 m.), kurioje ragina gelbėti lietuvybę.'
+  teiginys: 'Ks. Bauža 1806 m. atskira knyga paskelbė tyrinėjimus „Apie lietuvių tautos ir kalbos kilmę“, joje ragindamas gelbėti lietuvybę.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Kad lietuvių kalba nežūtų, jis siūlo įsteigti Lietuvą mylinčių ir lietuvių kalbą mokančių draugiją, kuri rinktų tautosaką, senienas ir rūpintųsi leisti liaudžiai ir kunigams reikalingas lietuviškas knygas.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Savo tyrinėjimus jis paskelbė ir atskira knyga — „Apie lietuvių tautos ir kalbos kilmę" (1806 m.), kurioje ragina gelbėti lietuvybę.'
+  santrauka: 'Ks. Bauža 1806 m. atskira knyga paskelbė tyrinėjimus „Apie lietuvių tautos ir kalbos kilmę“, joje ragindamas gelbėti lietuvybę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tokį pra-
@@ -38,26 +38,10 @@ Savo tyrinėjimus jis paskelbė ir atskira knyga — „Apie lietuvių tautos ir
     mergiškis kunigas Ks. Bauža. Savo tyrinėjimus jis paskelbė
     ir atskira knyga — „Apie lietuvių tautos ir kalbos kilmę"
     (1806 m.), kurioje ragina gelbėti lietuvybę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Kad lietuvių kalba nežūtų, jis siūlo įsteigti Lietuvą mylinčių ir lietuvių kalbą mokančių draugiją, kuri rinktų tautosaką, senienas ir rūpintųsi leisti liaudžiai ir kunigams reikalingas lietuviškas knygas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kad lietuvių kalba nežūtų, jis siūlo įsteigti Lietuvą mylinčių ir lietuvių kalbą mokančių draugiją, kuri
-    rinktų tautosaką, senienas ir rūpintųsi leisti liaudžiai ir kunigams
-    reikalingas lietuviškas knygas. Be to, jis įrodinėja, kad lietuvių pro-
-    senoliai buvę Romos nukariautojai geruliai ir kad senovėje jie tu-
-    rėję didelę literatūrą, kuri žuvusi dėl nelemtų istorinių aplinkybių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

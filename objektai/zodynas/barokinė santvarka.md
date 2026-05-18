@@ -21,7 +21,7 @@ Barokinė Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o
 
 ## Teiginiai
 - t-001
-  teiginys: 'Barokinės santvarkos sąvoką leidžia vartoti saitai su 1566 m. įsigalėjusia luomine bajorų santvarka.'
+  teiginys: 'Barokinės santvarkos sąvoka siejama su 1566 m. įsigalėjusia luomine bajorų santvarka.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -29,7 +29,7 @@ Barokinė Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Barokinės santvarkos sąvoką leidžia vartoti saitai su 1566 m. įsigalėjusia luomine bajorų santvarka.'
+  santrauka: 'Barokinės santvarkos sąvoka siejama su 1566 m. įsigalėjusia luomine bajorų santvarka.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Įvairūs saitai juos siejo su 1566 m. įsigalėjusia luomine

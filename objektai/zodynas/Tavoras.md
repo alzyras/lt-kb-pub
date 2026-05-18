@@ -21,13 +21,13 @@ Pagrindinė forma: `tavoras`.
 Vartojamos formos: `prekė`, `prekę`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Tavoras` šiame tekste reiškia prekę ar prekybos daiktą.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Terminas vartojamas kalbant apie senąją Lietuvos prekybą.'
   pagrindžia:
     - c-001
@@ -36,7 +36,7 @@ Vartojamos formos: `prekė`, `prekę`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Tavoras` šiame tekste reiškia prekę ar prekybos daiktą
+  santrauka: '`Tavoras` šiame tekste reiškia prekę ar prekybos daiktą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Gilioj senovėj pirmiau buvo žinoma Lietuvos krašto prekė, arba tavoras^1357 , nekaip pati jos tauta. Ir
@@ -48,8 +48,8 @@ Vartojamos formos: `prekė`, `prekę`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Pastabos
 

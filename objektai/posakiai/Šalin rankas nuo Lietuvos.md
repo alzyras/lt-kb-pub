@@ -30,14 +30,14 @@ tags: []
 Šūkis pateikiamas kaip Maskvos demonstracijos solidarumo su Lietuva po Sausio 13-osios įvykių dalis.
 
 ## Teiginiai
-- t-003
+- t-005
   teiginys: '1991 m. kovą daugiau nei 200 tūkst. demonstracijoje dalyvavusių maskviečių skandavo „Šalin rankas nuo Lietuvos“.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'Toje pačioje demonstracijoje buvo skanduojamas ir šūkis „Gorbačiovai, atsistatydink!“.'
+- t-006
+  teiginys: '1991 m. kovą Maskvos demonstracijoje kartu su „Šalin rankas nuo Lietuvos“ skambėjo šūkis „Gorbačiovai, atsistatydink!“.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -60,8 +60,8 @@ tags: []
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-    - t-004
+    - t-005
+    - t-006
 
 ## Ryšiai
 ### Laikotarpiai

@@ -20,32 +20,38 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Įdomus yra jo raštas imperatoriui Zigmantui, kur jis nurodo Vroclave 1420 m. padaryto Zigmanto sprendimo neteisingumą.'
+  teiginys: 'Vytauto rašte imperatoriui Zigmantui nurodomas 1420 m. Vroclave priimto Zigmanto sprendimo neteisingumas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Bet kadangi Žemaičiai yra žemesnėj vietoj, negu Lietuva, tai tas kraštas lietuviškai ir vadinamas Žemaičių kraštu, nes taip lietuviškai yra vadinama žemuma.'
+  teiginys: 'Vytautas rašte imperatoriui Zigmantui aiškino, kad Žemaičiai yra ta pati Lietuva, nes ten kalbama lietuvių kalba.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Įdomus yra jo raštas imperatoriui Zigmantui, kur jis nurodo Vroclave 1420 m. padaryto Zigmanto sprendimo neteisingumą.'
+  santrauka: 'Vytauto rašte imperatoriui Zigmantui nurodomas 1420 m. Vroclave priimto Zigmanto sprendimo neteisingumas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vytautas kryžiuočius laikė atėjūnais grobikais, o jų ginčijamus
     Žemaičius ir kitas žemes — savo tėvų palikimu. Įdomus yra jo raštas
     imperatoriui Zigmantui, kur jis nurodo Vroclave 1420 m. padaryto
     Zigmanto sprendimo neteisingumą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Bet kadangi Žemaičiai yra žemesnėj vietoj, negu Lietuva, tai tas kraštas lietuviškai ir vadinamas Žemaičių kraštu, nes taip lietuviškai yra vadinama žemuma.'
+  santrauka: 'Vytautas rašte imperatoriui Zigmantui aiškino, kad Žemaičiai yra ta pati Lietuva, nes ten kalbama lietuvių kalba.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Žemaičius
@@ -66,10 +72,10 @@ tags:
     mūsų žemės išvaryti. Jei tas sprendimas nebus pakeistas,
     — grasino Vytautas, baigdamas laišką imperatoriui,—kol gyvas, ne-
     būsiu Jūsų bičiuliu!"...
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

@@ -33,7 +33,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vokiečių ordinas tebebuvo galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei.'
+  teiginys: 'Prieš Žalgirio mūšį Vokiečių ordinas buvo galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -53,7 +53,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vokiečių ordinas tebebuvo galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei.'
+  santrauka: 'Prieš Žalgirio mūšį Vokiečių ordinas buvo galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ordinas tebebuvo

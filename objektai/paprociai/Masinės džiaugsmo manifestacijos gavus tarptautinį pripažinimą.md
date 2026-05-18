@@ -57,7 +57,7 @@ tags: []
 - Praktika rodo ankstyvą valstybingumo viešo šventimo formą laikinojoje sostinėje.
 
 ## Teiginiai
-- t-002
+- t-003
   teiginys: '1919 m. rugsėjo 26 d. tūkstančiai žmonių susirinko prie Kauno rotušės, gavę žinią apie Didžiosios Britanijos de facto pripažinimą Lietuvai.'
   pagrindžia:
     - c-001
@@ -79,7 +79,7 @@ tags: []
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Šaltiniai ir įrodymai
 

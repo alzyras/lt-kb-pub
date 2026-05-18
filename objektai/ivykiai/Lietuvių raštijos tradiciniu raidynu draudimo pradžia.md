@@ -47,13 +47,13 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Sužlugdyta ir valdžios užmačia pakeisti lietuvių raštijoje tradicinį lotyniškąjį raidyną kirilika.'
+  teiginys: 'Valdžios mėginimas lietuvių raštijoje tradicinį lotyniškąjį raidyną pakeisti kirilika žlugo dėl boikoto.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Vyskupas M. Valančius ragino nepriimti valdžios brukamų knygų ir slapta organizavo lietuviškos spaudos tradiciniu raidynu leidybą Rytprūsiuose.'
+  teiginys: 'M. Valančius ragino nepriimti valdžios brukamų knygų ir slapta organizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -61,7 +61,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Sužlugdyta ir valdžios užmačia pakeisti lietuvių raštijoje tradicinį lotyniškąjį raidyną kirilika.'
+  santrauka: 'Valdžios mėginimas lietuvių raštijoje tradicinį lotyniškąjį raidyną pakeisti kirilika žlugo dėl boikoto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sužlugdyta ir valdžios užmačia pakeisti lietuvių raštijoje tradicinį
@@ -80,7 +80,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Vyskupas M. Valančius ragino nepriimti valdžios brukamų knygų ir slapta organizavo lietuviškos spaudos tradiciniu raidynu leidybą Rytprūsiuose.'
+  santrauka: 'M. Valančius ragino nepriimti valdžios brukamų knygų ir slapta organizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Paraginęs nepriimti valdžios peršamų knygų, vyskupas slapta suorga-

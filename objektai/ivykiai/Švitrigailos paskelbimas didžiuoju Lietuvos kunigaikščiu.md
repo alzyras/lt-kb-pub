@@ -36,6 +36,8 @@ Nenurodyta
   teiginys: 'Vytautui mirus, Lietuvos bajorija savo didžiuoju kunigaikščiu paskelbė jauniausiąjį Jogailos brolį, Švitrigailą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -47,11 +49,11 @@ Nenurodyta
     gaila (tuo metu jisai buvo Lietuvoje), kurs tikėjosi, kad po Vy-
     tauto mirties Lietuva jam sugrįš, noromis nenoromis turėjo su-
     tikti su įvykusiu faktu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

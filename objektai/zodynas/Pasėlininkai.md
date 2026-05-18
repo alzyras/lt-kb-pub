@@ -23,13 +23,13 @@ Pagrindinė forma: `pasėlininkai`.
 Vartojamos formos: `pasėlininkais`, `auglininkais`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Pasėlininkai / auglininkai` šiame tekste reiškia prie tėvų ūkio įsikūrusius žmones.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Šie žodžiai žymi skirtingas šeimos sodybos kūrimo formas.'
   pagrindžia:
     - c-001
@@ -38,7 +38,7 @@ Vartojamos formos: `pasėlininkais`, `auglininkais`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Pasėlininkai / auglininkai` šiame tekste reiškia prie tėvų ūkio įsikūrusius žmones
+  santrauka: '`Pasėlininkai / auglininkai` šiame tekste reiškia prie tėvų ūkio įsikūrusius žmones.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Viršiau minavojau, jog vaikai ilgai prie tėvų buvo ir
@@ -48,12 +48,12 @@ Vartojamos formos: `pasėlininkais`, `auglininkais`.
     vaikai, Rumšos vaikai.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Pastabos
 

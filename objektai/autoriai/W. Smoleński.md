@@ -18,41 +18,22 @@ Smoleński, Lenkų t. Smoleński, Ostatni rok sejmu wielkiego (1897);.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Smoleński, Lenkų t.'
+  teiginys: 'W. Smoleński yra nurodytas kaip 1897 m. darbo „Ostatni rok sejmu wielkiego“ autorius.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Smoleński, Ostatni rok sejmu wielkiego (1897);.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Smoleński, Lenkų t.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    _V. Smoleński,_ Lenkų t. ist. (1925; _Kasakaičio_ vert.);
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Smoleński, Ostatni rok sejmu wielkiego (1897);.'
+  santrauka: 'W. Smoleński yra nurodytas kaip 1897 m. darbo „Ostatni rok sejmu wielkiego“ autorius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _W. Smoleński,_ Ostatni rok sejmu wielkiego (1897);
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Kasakaitis]]
-- [[objektai/autoriai/V. Smoleński]]
+    - t-001

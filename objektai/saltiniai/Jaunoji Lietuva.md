@@ -34,7 +34,7 @@ Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lie
 
 ## Teiginiai
 - t-001
-  teiginys: '1895 m. išleistos Maironio knygos „Pavasario balsai“ ir „Jaunoji Lietuva“, o jo eilėraščiai virto liaudies dainomis.'
+  teiginys: '1895 m. buvo išleistos Maironio knygos „Pavasario balsai“ ir „Jaunoji Lietuva“, o jo eilėraščiai virto liaudies dainomis.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -44,7 +44,7 @@ Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lie
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: '1895 m. išleistos Maironio knygos „Pavasario balsai“ ir „Jaunoji Lietuva“, o jo eilėraščiai virto liaudies dainomis.'
+  santrauka: '1895 m. buvo išleistos Maironio knygos „Pavasario balsai“ ir „Jaunoji Lietuva“, o jo eilėraščiai virto liaudies dainomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jonas Basanavičius

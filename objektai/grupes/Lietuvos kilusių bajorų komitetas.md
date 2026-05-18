@@ -19,13 +19,15 @@ Jau vienas jo vardas rodė Lenkijos sukilėlių bendrumą su Lietuva, ir Varšuv
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jau vienas jo vardas rodė Lenkijos sukilėlių bendrumą su Lietuva, ir Varšuvoje tuojau susidarė iš Lietuvos kilusių bajorų komitetas.'
+  teiginys: 'Varšuvoje susidaręs iš Lietuvos kilusių bajorų komitetas sukilimo vadovybei pareiškė, kad prie jo prisideda Lietuva.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jau vienas jo vardas rodė Lenkijos sukilėlių bendrumą su Lietuva, ir Varšuvoje tuojau susidarė iš Lietuvos kilusių bajorų komitetas.'
+  santrauka: 'Varšuvoje susidaręs iš Lietuvos kilusių bajorų komitetas sukilimo vadovybei pareiškė, kad prie jo prisideda Lietuva.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po kurio laiko Varšuvos sukilėlių
@@ -35,10 +37,10 @@ Jau vienas jo vardas rodė Lenkijos sukilėlių bendrumą su Lietuva, ir Varšuv
     limo vadovybei įteikė pa-
     reiškimą, kad prie jo pri-
     sidedanti ir Lietuva.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

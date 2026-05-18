@@ -22,10 +22,14 @@ Visos teisės, kurias turėjo iždininkai, buvo pavestos iždo komisijai, o hetm
   teiginys: 'Visos teisės, kurias turėjo iždininkai, buvo pavestos iždo komisijai, o hetmonų turėtosios teisės atiteko karo komisijai.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Buvo paliktos taip pat Čartoriskių įsteigtos karo ir iždo komisijos, kaip vykdomieji organai; Nuolatinė Taryba visą veikimą turėjo tik prižiūrėti, aiškinti įstatymus ir spręst kylančius konfliktus.'
+  teiginys: 'Čartoriskių įsteigtos karo ir iždo komisijos buvo paliktos kaip vykdomieji organai.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -37,25 +41,25 @@ Visos teisės, kurias turėjo iždininkai, buvo pavestos iždo komisijai, o hetm
     liko tik kariuomenės vadovybė, t. y. jie liko vien kariuomenės
     vadais, o visas kariuomenės aprūpinimas ir jos surinkimas ati-
     teko komisijai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Buvo paliktos taip pat Čartoriskių įsteigtos karo ir iždo komisijos, kaip vykdomieji organai; Nuolatinė Taryba visą veikimą turėjo tik prižiūrėti, aiškinti įstatymus ir spręst kylančius konfliktus.'
+  santrauka: 'Čartoriskių įsteigtos karo ir iždo komisijos buvo paliktos kaip vykdomieji organai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Buvo paliktos taip pat Čartoriskių įsteigtos karo
     ir iždo komisijos, kaip vykdomieji organai; Nuolatinė Taryba
     visą veikimą turėjo tik prižiūrėti, aiškinti įstatymus ir spręst
     kylančius konfliktus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

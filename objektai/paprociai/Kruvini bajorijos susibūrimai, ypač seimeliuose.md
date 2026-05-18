@@ -35,22 +35,24 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Visa tai labai charakteringa to meto bajorijos nuotaikai ir jos veikimo būdui.'
+  teiginys: 'Kruvinų susidūrimų pasitaikydavo dažnuose bajorijos susibūrimuose, ypač seimeliuose.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Visa tai labai charakteringa to meto bajorijos nuotaikai ir jos veikimo būdui.'
+  santrauka: 'Kruvinų susidūrimų pasitaikydavo dažnuose bajorijos susibūrimuose, ypač seimeliuose.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visa tai labai charakteringa to meto bajorijos nuotaikai ir jos
     veikimo būdui. Šitokių kruvinų vaizdų atsitikdavo dažnuose bajorijos
     susibūrimuose, o ypač seimeliuose.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

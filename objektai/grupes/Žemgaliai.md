@@ -31,13 +31,13 @@ tags:
 Žemgaliai slapta lankė senąją žinyčią ir minėjo save angis broliais buvusius. Žemgaliai minimi tarp kraštų, kurių gyventojus iš Teutonijos plūdę piktadėjai krikštijo kardu ir vertė į vergiją.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Žemgaliai slapta lankė senąją žinyčią ir minėjo save angis broliais buvusius.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Žemgaliai minimi tarp kraštų, kurių gyventojus iš Teutonijos plūdę piktadėjai krikštijo kardu ir vertė į vergiją.'
   pagrindžia:
     - c-002
@@ -46,7 +46,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Žemgaliai slapta lankė senąją žinyčią ir minėjo save angis broliais buvusius.
+  santrauka: 'Žemgaliai slapta lankė senąją žinyčią ir minėjo save angis broliais buvusius.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     rubežiaus^804 , kurią slapta didžiai vėlai, jau krikščionimis būdami, dar lankę žemaičiai, parusėnai ir
@@ -58,9 +58,9 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Žemgaliai minimi tarp kraštų, kurių gyventojus iš Teutonijos plūdę piktadėjai krikštijo kardu ir vertė į vergiją.
+  santrauka: 'Žemgaliai minimi tarp kraštų, kurių gyventojus iš Teutonijos plūdę piktadėjai krikštijo kardu ir vertė į vergiją.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     piktadėjai^851 tvino iš Teutonijos į Žemaičius, Parusius ir Žemgalius, arba Kuršą, dievą maldauti už
@@ -71,4 +71,4 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004

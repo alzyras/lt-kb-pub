@@ -33,32 +33,11 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Moterų galvos danga paminėta kaip atskiro tyrimo objektas.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: Moterų galvos danga čia figūruoja kaip atskirai tyrinėta archeologinė tema.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ji tyrinėjo ankstyvojo feodalizmo laikotarpio kovos kirvius (AkMD,
-    t. 16, 1964, 101-112 p.), moterų galvos dangą (AkMD, t. 17, 1964, 71-86 p.),
-    ankstyviausius šalmus (AkMD, t. 19, 1965, 59-70 p.). —Žr. LE, t. 36, 527 p.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/drabužis]]
-
-### Susiję objektai
-- [[objektai/daiktai/Kovos kirviai]]

@@ -20,17 +20,21 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
 
 ## Teiginiai
 - t-001
-  teiginys: 'Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjimu rūpinąsis pijarų ordinas (pijarai kurdavo vadinamąsias dievobaimingąsias mokyklas, lotyniškai scholae piae; dėl to jie ir buvo vadinami pijarais).'
+  teiginys: 'Pijarai XVIII a. Lietuvoje kūrė dievobaimingąsias mokyklas, lotyniškai vadintas scholae piae.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Mat, šviesesnieji žmonės norėjo, kad mokyklų teikiamasai mokslas būtų platesnis, pritaikytas ir kitiems gyvenimo reikalams, ne vien Bažnyčiai.'
+  teiginys: 'Pijarai buvo pakviesti, nes rūpinosi mokslu ir praktinio gyvenimo reikalais.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjimu rūpinąsis pijarų ordinas (pijarai kurdavo vadinamąsias dievobaimingąsias mokyklas, lotyniškai scholae piae; dėl to jie ir buvo vadinami pijarais).'
+  santrauka: 'Pijarai XVIII a. Lietuvoje kūrė dievobaimingąsias mokyklas, lotyniškai vadintas scholae piae.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, XVIII amž. ir į Lietuvą
@@ -39,15 +43,15 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
     mokyklas, lotyniškai _scholae piae;_ dėl to jie ir buvo vadinami
     pijarais). Jie turėjo ne vien pradinių mokyklų, bet ir tokių pat
     kolegijų, kaip ir jėzuitai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Mat, šviesesnieji žmonės norėjo, kad mokyklų teikiamasai mokslas būtų platesnis, pritaikytas ir kitiems gyvenimo reikalams, ne vien Bažnyčiai.'
+  santrauka: 'Pijarai buvo pakviesti, nes rūpinosi mokslu ir praktinio gyvenimo reikalais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pijarai daugiau rūpinosi pačiu mokslu ir praktiškojo
@@ -57,11 +61,11 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
     Bažnyčiai. Tačiau pijarams buvo sunku įsigalėti: jėzuitų mo-
     kyklų tinklas buvo jau išplėstas, visuomenė buvo jų įtakoje, o
     patys jėzuitai nenorėjo užleisti savo pozicijų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

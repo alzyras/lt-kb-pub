@@ -32,7 +32,7 @@ tags:
 Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas, ateityje tapsiantis vyskupu, lietuvių literatūros šedevro, poemos „Anykščių šilelis“ autorius, Antanas Baranauskas (1835–1902) 1859 m. parašė: „Viso svieto mokslus lietuviam paduosiu.
 
 ## Teiginiai
-- t-002
+- t-003
   teiginys: 'Antanas Baranauskas 1859 m. parašė apie siekį lietuviams pateikti viso pasaulio mokslus ir raštus lietuvių kalba.'
   pagrindžia:
     - c-001
@@ -60,7 +60,7 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

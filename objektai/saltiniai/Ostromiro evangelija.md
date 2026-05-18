@@ -19,7 +19,7 @@ surašytas Ostromiro ir Turovo evangelijas.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos valdiniai jau XI a. turėjo surašytas Ostromiro ir Turovo evangelijas.'
+  teiginys: 'Ostromiro evangelija buvo viena iš XI a. surašytų evangelijų, kurias turėjo Lietuvos valdiniai.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -29,7 +29,7 @@ surašytas Ostromiro ir Turovo evangelijas.
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Lietuvos valdiniai jau XI a. turėjo surašytas Ostromiro ir Turovo evangelijas.'
+  santrauka: 'Ostromiro evangelija buvo viena iš XI a. surašytų evangelijų, kurias turėjo Lietuvos valdiniai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Savaip rašyti Lietuva nemokėjo, lotyniškas raštas pasiekė vė-

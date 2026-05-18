@@ -40,8 +40,8 @@ tags:
 - „ _nihil novi" —_ „nieko naujo"
 
 ## Teiginiai
-- t-001
-  teiginys: "Ši formuluotė pateikiama kaip konstitucinė privilegijos formulė."
+- t-002
+  teiginys: 'Lenkijoje nuo 1505 m. galiojusi privilegija „nihil novi“ draudė karaliui įvesti naujoves be senato ir bajorijos atstovų sutikimo.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -49,7 +49,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata pateikia tiesioginį įrašo „nihil novi“ šaltinio pagrindą.
+  santrauka: 'Lenkijoje nuo 1505 m. galiojusi privilegija „nihil novi“ draudė karaliui įvesti naujoves be senato ir bajorijos atstovų sutikimo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lenkijoje nuo 1505 m. veikė privilegija, kuria karalius buvo
@@ -59,10 +59,10 @@ tags:
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata rekonstruota iš verified canonical evidence."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -21,22 +21,24 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė ir patsai Vilniaus miestas.'
+  teiginys: 'Panemunė ir Vilniaus miestas buvo pirmasis pabėgėlių ir tremtinių etapas Vilniaus krašte.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė ir patsai Vilniaus miestas.'
+  santrauka: 'Panemunė ir Vilniaus miestas buvo pirmasis pabėgėlių ir tremtinių etapas Vilniaus krašte.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     karas užtruktų ilgiau, kaip kelis mėnesius. Pirmasis tų pabė-
     gėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė ir
     patsai Vilniaus miestas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -1,11 +1,13 @@
 ---
 tipas: asmuo
-pavadinimas: 'Povilas Ksaveras Bžostovskis'
+pavadinimas: 'Povilas Ksaveras Bžostovskis (reformų veikėjas)'
 sukurta: '2026-05-14'
 variantai:
   - 'Povilo Ksavero Bžostovskio'
   - 'P. K. Bžostovskio'
-aliases: []
+  - 'Povilas Ksaveras Bžostovskis'
+aliases:
+  - 'Povilas Ksaveras Bžostovskis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 bukle: juodrastis
@@ -25,26 +27,26 @@ susije_irasai: []
 patikimumas: aukštas
 tags: []
 ---
-# Povilas Ksaveras Bžostovskis
+# Povilas Ksaveras Bžostovskis (reformų veikėjas)
 
 ## Santrauka
 
 Povilas Ksaveras Bžostovskis aprašomas kaip Paulavos respublikos kūrėjas; jos įstatus 1791 m. patvirtino Ketverių metų seimas.
 
 ## Teiginiai
-- t-004
+- t-007
   teiginys: 'Povilas Ksaveras Bžostovskis 1769 m. įkūrė Paulavos respubliką.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-005
+- t-008
   teiginys: 'Ketverių metų seimas 1791 m. patvirtino Povilo Ksavero Bžostovskio įkurtos Paulavos respublikos įstatus.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-006
+- t-009
   teiginys: 'Povilo Ksavero Bžostovskio 1769 m. įkurta Paulavos respublika kartais laikoma vienu Apšvietos epochos pradžios įvykių.'
   pagrindžia:
     - c-001
@@ -66,8 +68,8 @@ Povilas Ksaveras Bžostovskis aprašomas kaip Paulavos respublikos kūrėjas; jo
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-    - t-006
+    - t-007
+    - t-009
 - c-002
   santrauka: 'Ketverių metų seimas 1791 m. patvirtino Povilo Ksavero Bžostovskio įkurtos Paulavos respublikos įstatus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -83,7 +85,7 @@ Povilas Ksaveras Bžostovskis aprašomas kaip Paulavos respublikos kūrėjas; jo
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-008
 
 ## Ryšiai
 ### Laikotarpiai

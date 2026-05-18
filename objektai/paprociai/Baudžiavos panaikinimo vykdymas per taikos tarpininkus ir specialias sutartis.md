@@ -37,10 +37,8 @@ Nenurodyta
   teiginys: 'Valstiečiai tuo tarpu pradėjo būkštauti, kad iš skelbiamosios laisvės nieko neišeis; bijodami, kad iš sutarčių su ponais gali sulaukti naujų prievolių, ėmė net bruzdėti ir atsisakinėjo daryti sutartis.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Su valstiečiais turėjo būti sudarytos specialios sutartys.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -51,24 +49,10 @@ Nenurodyta
     sios laisvės nieko neišeis; bijodami, kad iš sutarčių su ponais
     gali sulaukti naujų prievolių, ėmė net bruzdėti ir atsisakinėjo
     daryti sutartis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Su valstiečiais turėjo būti sudarytos specialios sutartys.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Su valstiečiais turėjo būti sudarytos specialios sutartys. Tačiau
-    praėjo paskirtasis laikas (2 metai), o tokių sutarčių teatsirado
-    vos tiktai keletas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

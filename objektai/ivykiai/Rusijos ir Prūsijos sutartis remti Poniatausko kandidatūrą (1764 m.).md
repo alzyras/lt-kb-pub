@@ -36,6 +36,8 @@ Nenurodyta
   teiginys: 'Tarp Rusijos ir Prūsijos buvo atnaujinta jau daug kartų daryta sutartis, kuria abi valstybės pasižadėjo remti Poniatausko kandidatūrą ir žiūrėti, kad Respublikoje nebūtų padaryta jokių reformų.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -48,11 +50,11 @@ Nenurodyta
     ir žiūrėti, kad Respublikoje nebūtų padaryta jokių reformų. Taip
     pat jos įsipareigojo priversti seimą, kad kitatikių, t. y. pravosla-
     vų ir protestantų teisės būtų sulygintos su katalikų teisėmis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

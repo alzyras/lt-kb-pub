@@ -31,17 +31,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Radomo konfederacija.'
+  teiginys: '1767 m. Repninui kurstant Radomas buvo numatytas prieš karalių ir Čartoriskius nukreiptų konfederacijų centru.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Tačiau ir jis ir visi konfederatai labai apsivylė: Radome rusų kariuomenės apsupti, jie buvo priversti pasirašyti konfederacijos aktą, kuriuo kvietė prisidėti prie konfederacijos ir karalių, pripažino lygias teises kitatikiams, o Kotryną II prašė „priimti.'
+  teiginys: 'Radome rusų kariuomenės apsupti konfederatai buvo priversti pasirašyti aktą, pripažinusį lygias teises kitatikiams.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Radomo konfederacija.'
+  santrauka: '1767 m. Repninui kurstant Radomas buvo numatytas prieš karalių ir Čartoriskius nukreiptų konfederacijų centru.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Radomo konfederacija.** 1767 m. Repninui kurstant, visuose
@@ -53,15 +57,15 @@ Nenurodyta
     o jos priešaky buvo pastatytas
     Rusų iš emigracijos atšauktasis
     K. Radvila.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Tačiau ir jis ir visi konfederatai labai apsivylė: Radome rusų kariuomenės apsupti, jie buvo priversti pasirašyti konfederacijos aktą, kuriuo kvietė prisidėti prie konfederacijos ir karalių, pripažino lygias teises kitatikiams, o Kotryną II prašė „priimti.'
+  santrauka: 'Radome rusų kariuomenės apsupti konfederatai buvo priversti pasirašyti aktą, pripažinusį lygias teises kitatikiams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau ir jis ir visi kon-
@@ -73,11 +77,11 @@ Nenurodyta
     vadino, kardinalines teises; be to, iš Rusijos buvo
     paprašyta garantijos, kad nė viena iš tų teisių nebus pa-
     keista.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

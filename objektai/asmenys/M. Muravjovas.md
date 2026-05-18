@@ -39,7 +39,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'M. Muravjovas XIX a. buvo vadinamas Koriku.'
+  teiginys: 'M. Muravjovo laikai XIX a. siejami su Koriko pravarde.'
   pagrindžia:
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -96,7 +96,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'M. Muravjovas XIX a. buvo vadinamas Koriku.'
+  santrauka: 'M. Muravjovo laikai XIX a. siejami su Koriko pravarde.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Paradoksalu, tačiau stalinizmo

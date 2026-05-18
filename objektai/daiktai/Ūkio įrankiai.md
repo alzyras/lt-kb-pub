@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Įrankius jie patys sau kalė ir gaminosi be svetimo meistro, o šiame sąraše tiesiogiai minimi grąžtai, kaltai, Strūnos, skaptai, skrytulės, kirviai ir skliutai.'
   pagrindžia:
     - c-001
@@ -50,7 +50,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Įrankius jie patys sau kalė ir gaminosi be svetimo meistro, o šiame sąraše tiesiogiai minimi grąžtai, kaltai, Strūnos, skaptai, skrytulės, kirviai ir skliutai.
+  santrauka: 'Įrankius jie patys sau kalė ir gaminosi be svetimo meistro, o šiame sąraše tiesiogiai minimi grąžtai, kaltai, Strūnos, skaptai, skrytulės, kirviai ir skliutai.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Taip pat
@@ -65,7 +65,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Pastabos
 

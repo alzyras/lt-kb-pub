@@ -51,7 +51,7 @@ Sovietmečio kasdienybėje deficitas reiškė apytuštes parduotuves, maisto ir 
 - Praktika kilo iš komandinės planinės ekonomikos ir vartojimo prekių stokos.
 
 ## Teiginiai
-- t-002
+- t-003
   teiginys: 'Sovietmečiu parduotuvės buvo apytuštės, trūko maisto produktų, o žmonės ilgose eilėse laukdavo talonų vartojimo prekėms įsigyti.'
   pagrindžia:
     - c-001
@@ -75,7 +75,7 @@ Sovietmečio kasdienybėje deficitas reiškė apytuštes parduotuves, maisto ir 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Šaltiniai ir įrodymai
 

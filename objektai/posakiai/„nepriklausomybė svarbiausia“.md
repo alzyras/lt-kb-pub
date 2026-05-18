@@ -29,7 +29,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Stasys Lozoraitis laikėsi idėjos „nepriklausomybė svarbiausia“ ir modus vivendi su Lenkija laikė būtina nepriklausomybės sąlyga.'
+  teiginys: 'Stasys Lozoraitis laikėsi idėjos „nepriklausomybė svarbiausia“ ir modus vivendi su Lenkija laikė būtina jos sąlyga.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -37,7 +37,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Stasys Lozoraitis laikėsi idėjos „nepriklausomybė svarbiausia“ ir modus vivendi su Lenkija laikė būtina nepriklausomybės sąlyga.'
+  santrauka: 'Stasys Lozoraitis laikėsi idėjos „nepriklausomybė svarbiausia“ ir modus vivendi su Lenkija laikė būtina jos sąlyga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus

@@ -33,7 +33,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1938 m. kovo 17 d. Varšuva įteikė Lietuvai ultimatumą, reikalaudama be išlygų užmegzti diplomatinius santykius.'
+  teiginys: 'Kovo 17 d. Varšuva įteikė Lietuvai ultimatumą, reikalaudama užmegzti diplomatinius santykius ir be išlygų atsakyti teigiamai.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -45,7 +45,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Po Lenkijos ultimatumo Lietuvai teko apsikeisti pasiuntinybėmis, įsteigti konsulatą Vilniuje ir paleisti „Vilniui vaduoti sąjungą“.'
+  teiginys: 'Po Lenkijos ultimatumo Lietuva turėjo apsikeisti pasiuntinybėmis, įsteigti konsulatą Vilniuje ir paleisti „Vilniui vaduoti sąjungą“.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -53,7 +53,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1938 m. kovo 17 d. Varšuva įteikė Lietuvai ultimatumą, reikalaudama be išlygų užmegzti diplomatinius santykius.'
+  santrauka: 'Kovo 17 d. Varšuva įteikė Lietuvai ultimatumą, reikalaudama užmegzti diplomatinius santykius ir be išlygų atsakyti teigiamai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors per panašius incidentus lenkai buvo nu-
@@ -83,7 +83,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Po Lenkijos ultimatumo Lietuvai teko apsikeisti pasiuntinybėmis, įsteigti konsulatą Vilniuje ir paleisti „Vilniui vaduoti sąjungą“.'
+  santrauka: 'Po Lenkijos ultimatumo Lietuva turėjo apsikeisti pasiuntinybėmis, įsteigti konsulatą Vilniuje ir paleisti „Vilniui vaduoti sąjungą“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko

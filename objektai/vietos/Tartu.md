@@ -21,31 +21,35 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jis paėmė net Tartus (Dorpatą).'
+  teiginys: 'Tartu (Dorpatas) buvo paimtas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Tuojau po laimingųjų Stepono Batoro karų su Maskva, kai buvo atsiimtas Polockas ir įsistiprinta Livonijoje, jėzuitų kolegijos buvo įkurtos ir Polocke, ir Rygoje ir Tartuose (Dorpate).'
+  teiginys: 'Po Stepono Batoro karų su Maskva jėzuitų kolegija buvo įkurta ir Tartu (Dorpate).'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jis paėmė net Tartus (Dorpatą).'
+  santrauka: 'Tartu (Dorpatas) buvo paimtas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jis paėmė net Tartus
     _(Dorpatą)._ Bet visų didžiausias jo laimėjimas buvo 1605 m.
     rugsėjo 27 d. mūšyje ties Salaspiliu _(Kirchholmu)._
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Tuojau po laimingųjų Stepono Batoro karų su Maskva, kai buvo atsiimtas Polockas ir įsistiprinta Livonijoje, jėzuitų kolegijos buvo įkurtos ir Polocke, ir Rygoje ir Tartuose (Dorpate).'
+  santrauka: 'Po Stepono Batoro karų su Maskva jėzuitų kolegija buvo įkurta ir Tartu (Dorpate).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo-
@@ -53,10 +57,10 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
     imtas Polockas ir įsistiprinta Livonijoje, jėzuitų kolegijos buvo
     įkurtos ir Polocke, ir Rygoje ir Tartuose _(Dorpate)._ Mat, reikėjo
     stiprios katalikybės atramos tuose nekatalikiškuose kraštuose.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

@@ -33,7 +33,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Mindaugo krikštas ir karalystė buvo epizodas pagoniškos Lietuvos istorijoje.'
+  teiginys: 'Mindaugo krikštas ir karalystė pagoniškos Lietuvos istorijoje liko tik epizodas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -47,7 +47,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Mindaugo krikštas ir karalystė buvo epizodas pagoniškos Lietuvos istorijoje.'
+  santrauka: 'Mindaugo krikštas ir karalystė pagoniškos Lietuvos istorijoje liko tik epizodas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Su pagonišku veidu Lietuva dar

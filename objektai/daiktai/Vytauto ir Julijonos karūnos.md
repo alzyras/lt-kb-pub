@@ -36,7 +36,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vytauto karūna buvo laikoma paskutine kliūtimi Lietuvos karalystės siekiui įgyvendinti.'
+  teiginys: 'Vytauto karūna laikyta būtina sąlyga Lietuvos karalystės siekiui įgyvendinti.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -56,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vytauto karūna buvo laikoma paskutine kliūtimi Lietuvos karalystės siekiui įgyvendinti.'
+  santrauka: 'Vytauto karūna laikyta būtina sąlyga Lietuvos karalystės siekiui įgyvendinti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atrodė,

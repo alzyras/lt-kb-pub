@@ -58,7 +58,7 @@ tags: []
 - Nors tai vienkartinė akcija, citata aiškiai aprašo socialinę protesto formą ir komemoracinius gestus.
 
 ## Teiginiai
-- t-003
+- t-004
   teiginys: '1989 m. rugpjūčio 23 d. Baltijos kelyje apie du milijonai lietuvių, latvių ir estų susikibę rankomis sudarė daugiau kaip 650 km žmonių grandinę.'
   pagrindžia:
     - c-001
@@ -82,7 +82,7 @@ tags: []
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-004
 
 ## Šaltiniai ir įrodymai
 

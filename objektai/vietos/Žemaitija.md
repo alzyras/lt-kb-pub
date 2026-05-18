@@ -49,48 +49,8 @@ tags:
 Šaltinyje Žemaitija pasirodo tiek Mindaugo laikų vyskupijos ir Livonijos ordino santykių, tiek Vytauto kovų su Ordinu ir 1409 m. sukilimo kontekste.
 
 ## Teiginiai
-- t-003
-  teiginys: '1409 m., Vytauto pasiųstiems bajorams veikiant kartu su žemaičiais, buvo sudegintos visos kryžiuočių pilys ir Ordinas išvytas iš Žemaičių.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'Žemaičių krašte įsikūręs vyskupas Kristijonas nuo 1259 m. iš ten visiškai išsikraustė.'
-  pagrindžia:
-    - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: Citata tiesiogiai pagrindžia 1409 m. žemaičių sukilimo rezultatą.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vytautas pats dar laikėsi nuošaliai,
-    bet jo pasiųsti bajorai veikė kartu su žemaičiais, ir 1409 m., pra-
-    dėjus nuo Skirsnemunės, buvo sudegintos visos kryžiuočių pilys,
-    o jie patys buvo išvyti iš Žemaičių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: Citata pagrindžia ankstyvą nesėkmingą bažnytinę organizaciją Žemaitijoje.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Žemaičių krašte įsikūręs vyskupas Kristijonas,
-    nieko negalėdamas veikti, nuo 1259 m. iš čia visiškai išsikraustė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 
 ## Ryšiai
 ### Laikotarpiai
@@ -102,4 +62,3 @@ tags:
 ### Susiję objektai
 - [[objektai/vietos/Klaipėda]]
 - [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Skirsnemunė]]

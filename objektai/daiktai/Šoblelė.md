@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Šoblelė buvo dėvima ant šilkelio kaip senovinio vyriško apdaro dalis.'
   pagrindžia:
     - c-001
@@ -50,7 +50,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Šoblelė buvo dėvima ant šilkelio kaip senovinio vyriško apdaro dalis.
+  santrauka: 'Šoblelė buvo dėvima ant šilkelio kaip senovinio vyriško apdaro dalis.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Lietuvos senovės
@@ -64,7 +64,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

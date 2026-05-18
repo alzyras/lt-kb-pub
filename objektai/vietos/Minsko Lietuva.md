@@ -41,25 +41,25 @@ Istorinis-politinis krašto pavadinimas, vartotas aiškinant trijų dalių Lietu
 Pavadinimas siejamas su senosiomis rusėniškosiomis LDK žemėmis ir modernios Lietuvos etninės valstybės projektu.
 
 ## Teiginiai
-- t-005
+- t-009
   teiginys: 'Į rytus nuo Vidurinės Lietuvos senosios rusėniškosios LDK žemės buvo vadinamos Minsko arba rusėnų Lietuva.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-006
-  teiginys: 'Moderniosios Lietuvos kūrėjai nebepretendavo į Minsko Lietuvą.'
+- t-010
+  teiginys: 'Lietuviai, apsisprendę kurti Lietuvos valstybę etniniais pagrindais, nebepretendavo į Minsko Lietuvą.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-007
+- t-011
   teiginys: 'Minsko Lietuva vadintos į rytus nuo Vidurinės Lietuvos buvusios senosios rusėniškosios LDK žemės.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-008
+- t-012
   teiginys: 'Lietuviai siekė kurti valstybę etniniais pagrindais ir nebepretendavo į Minsko Lietuvą.'
   pagrindžia:
     - c-003
@@ -82,7 +82,7 @@ Pavadinimas siejamas su senosiomis rusėniškosiomis LDK žemėmis ir modernios 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-009
 - c-002
   santrauka: 'Minsko Lietuva vadintos į rytus nuo Vidurinės Lietuvos buvusios senosios rusėniškosios LDK žemės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -96,9 +96,9 @@ Pavadinimas siejamas su senosiomis rusėniškosiomis LDK žemėmis ir modernios 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
+    - t-011
 - c-003
-  santrauka: 'Moderniosios Lietuvos kūrėjai nebepretendavo į Minsko Lietuvą.'
+  santrauka: 'Lietuviai, apsisprendę kurti Lietuvos valstybę etniniais pagrindais, nebepretendavo į Minsko Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Savo ruožtu lietuviai buvo apsisprendę kurti Lietuvos valstybę etniniais
@@ -110,8 +110,8 @@ Pavadinimas siejamas su senosiomis rusėniškosiomis LDK žemėmis ir modernios 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
-    - t-008
+    - t-010
+    - t-012
 
 ## Šaltiniai ir įrodymai
 

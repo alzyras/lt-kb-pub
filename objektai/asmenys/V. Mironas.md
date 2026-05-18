@@ -1,16 +1,18 @@
 ---
 tipas: asmuo
-pavadinimas: 'V. Mironas'
+pavadinimas: 'V. Mironas (kunigas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'V. Mironas'
+aliases:
+  - 'V. Mironas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
 ---
-# V. Mironas
+# V. Mironas (kunigas)
 
 ## Santrauka
 

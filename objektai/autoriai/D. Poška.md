@@ -20,49 +20,55 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
 
 ## Teiginiai
 - t-001
-  teiginys: 'Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs žemaitiškai.'
+  teiginys: 'D. Poška savo Baublyje globojo lietuviškosios kultūros palaikus ir rašė žemaitiškai.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Poška net ėmė rašyti žemaitišką žodyną ir tam tikslui rinko senas knygas.'
+  teiginys: 'D. Poška ėmė rašyti žemaitišką žodyną ir tam tikslui rinko senas knygas.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Poška savo Baubly įtaisė net senienų muziejų.'
+  teiginys: 'D. Poška savo Baublyje įtaisė senienų muziejų.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs žemaitiškai.'
+  santrauka: 'D. Poška savo Baublyje globojo lietuviškosios kultūros palaikus ir rašė žemaitiškai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Baužos mintys sukėlė didelį atgarsį mokslininkų ir lietuvių
     veikėjų tarpe. Ypač juo buvo susižavėjęs D. Poška, pats
     globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     žemaitiškai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Poška net ėmė rašyti žemaitišką žodyną ir tam tikslui rinko senas knygas.'
+  santrauka: 'D. Poška ėmė rašyti žemaitišką žodyną ir tam tikslui rinko senas knygas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     D. Poška net ėmė rašyti žemaitišką žodyną ir tam tikslui
     rinko senas knygas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Poška savo Baubly įtaisė net senienų muziejų.'
+  santrauka: 'D. Poška savo Baublyje įtaisė senienų muziejų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, buvo renkamos se-
@@ -71,11 +77,11 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     Baubly įtaisė net senienų mu-
     ziejų. Jis taip pat bandė rašyti
     ir Lietuvos istoriją.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 

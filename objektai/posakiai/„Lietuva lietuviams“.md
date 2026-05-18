@@ -19,7 +19,7 @@ Lietuviams plūstelėjus į miestus ir veržiantis į pramonę bei prekybą, pra
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ketvirtajame dešimtmetyje laikraščio „Verslas“ verslininkai puldinėjo žydų prekybininkus ir kėlė šūkį „Lietuva lietuviams“.'
+  teiginys: 'Ketvirtajame dešimtmetyje laikraštyje „Verslas“ verslininkai puldinėjo žydų prekybininkus ir atvirai kėlė šūkį „Lietuva lietuviams“.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ Lietuviams plūstelėjus į miestus ir veržiantis į pramonę bei prekybą, pra
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ketvirtajame dešimtmetyje laikraščio „Verslas“ verslininkai puldinėjo žydų prekybininkus ir kėlė šūkį „Lietuva lietuviams“.'
+  santrauka: 'Ketvirtajame dešimtmetyje laikraštyje „Verslas“ verslininkai puldinėjo žydų prekybininkus ir atvirai kėlė šūkį „Lietuva lietuviams“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ketvir-

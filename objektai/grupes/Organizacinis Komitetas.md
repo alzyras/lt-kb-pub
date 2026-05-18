@@ -18,13 +18,15 @@ Susirinkimas, pasivadinęs Organizaciniu Komitetu, nenorėjo pertraukti savo pol
 
 ## Teiginiai
 - t-001
-  teiginys: 'Susirinkimas, pasivadinęs Organizaciniu Komitetu, nenorėjo pertraukti savo politinės veiklos, ir todėl šiek tiek atsižvelgė į tą atšiaurų reikalavimą — pareiškė, jog būsią galima glaudžiau santykiauti su Vokietija.'
+  teiginys: 'Organizacinis Komitetas, norėdamas tęsti politinę veiklą, pareiškė, kad bus galima glaudžiau santykiauti su Vokietija.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Susirinkimas, pasivadinęs Organizaciniu Komitetu, nenorėjo pertraukti savo politinės veiklos, ir todėl šiek tiek atsižvelgė į tą atšiaurų reikalavimą — pareiškė, jog būsią galima glaudžiau santykiauti su Vokietija.'
+  santrauka: 'Organizacinis Komitetas, norėdamas tęsti politinę veiklą, pareiškė, kad bus galima glaudžiau santykiauti su Vokietija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Susirinkimas, pasivadinęs Organizaciniu Komitetu,
@@ -37,10 +39,10 @@ Susirinkimas, pasivadinęs Organizaciniu Komitetu, nenorėjo pertraukti savo pol
     klausė įvairioms politinėms pakraipoms ir luomams, biuras su-
     darė konferencijos atstovų sąrašą, — maždaug po 5—8 atstovus
     iš kiekvienos apskrities (šių buvo tuomet sudaryta 33).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

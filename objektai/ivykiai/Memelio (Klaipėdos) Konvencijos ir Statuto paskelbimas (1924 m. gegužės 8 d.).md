@@ -46,13 +46,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-003
+- t-005
   teiginys: '1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas paskelbė regioną autonomine Lietuvos dalimi.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-004
+- t-006
   teiginys: '1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas panaikino „Klaipėdos problemos“ teritorinį aspektą.'
   pagrindžia:
     - c-001
@@ -73,8 +73,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-    - t-004
+    - t-005
+    - t-006
 
 ## Ryšiai
 ### Laikotarpiai

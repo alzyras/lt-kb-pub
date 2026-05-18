@@ -22,10 +22,14 @@ Tie generaliniai seimeliai neišnyko nė įvedus bendrą su lietuviais seimą. T
   teiginys: 'Tie generaliniai seimeliai neišnyko nė įvedus bendrą su lietuviais seimą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Tos „sesijos" atlikdavo tą patį darbą, kurį anksčiau atlikdavo generaliniai seimeliai.'
+  teiginys: 'Provincijų sesijos atlikdavo tą patį darbą, kurį anksčiau atlikdavo generaliniai seimeliai.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -37,15 +41,15 @@ Tie generaliniai seimeliai neišnyko nė įvedus bendrą su lietuviais seimą. T
     seimą taip pat buvo pradėti daryti tokie pat į seimą vyks-
     tančių atstovų ir senatorių suvažiavimai. Iš pradžių jie įvyk-
     davo Volkoviske, o vėliau Slanime.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Tos „sesijos" atlikdavo tą patį darbą, kurį anksčiau atlikdavo generaliniai seimeliai.'
+  santrauka: 'Provincijų sesijos atlikdavo tą patį darbą, kurį anksčiau atlikdavo generaliniai seimeliai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet, išnykus atskiriems suvažiavimams,
@@ -57,10 +61,10 @@ Tie generaliniai seimeliai neišnyko nė įvedus bendrą su lietuviais seimą. T
     dinamas visas parlamento veikimo metas tarp dviejų atostogų
     arba šiaip tarp dviejų pertraukų). Tos „sesijos" atlikdavo tą
     patį darbą, kurį anksčiau atlikdavo generaliniai seimeliai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

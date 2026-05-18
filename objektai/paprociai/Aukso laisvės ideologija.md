@@ -34,22 +34,24 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Laisvės ideologai matė netvarką, tačiau veto teisę laikė šventa: esą, tai visų bajoriškųjų laisvių perlas, saugotinas, kaip akies lėlytė.'
+  teiginys: 'Aukso laisvės ideologai matė netvarką, tačiau veto teisę laikė šventa bajoriškųjų laisvių dalimi.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Laisvės ideologai matė netvarką, tačiau veto teisę laikė šventa: esą, tai visų bajoriškųjų laisvių perlas, saugotinas, kaip akies lėlytė.'
+  santrauka: 'Aukso laisvės ideologai matė netvarką, tačiau veto teisę laikė šventa bajoriškųjų laisvių dalimi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Laisvės ideologai matė
     netvarką, tačiau _veto_ teisę laikė šventa: esą, tai visų bajoriškųjų
     laisvių perlas, saugotinas, kaip akies lėlytė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

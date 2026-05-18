@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Žiemos laiku gyventojai važinėdavo upeliais, šunis užkinkę.'
   pagrindžia:
     - c-001
@@ -50,7 +50,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Žiemos laiku gyventojai važinėdavo upeliais, šunis užkinkę.
+  santrauka: 'Žiemos laiku gyventojai važinėdavo upeliais, šunis užkinkę.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Žiemos tenai nebuvo, nesgi sniegas negalėjo įsnigti ir, jei kur pūgos ir pusnys kame
@@ -58,8 +58,10 @@ Nenurodyta
     įeiti, nesgi, kaip sakiau, nė kokio kelio nebuvo; todėl žiemos laiku šunis užkinkę važinėjos
     upeliais, nuo ko tuo senu įpratimu šiandien dar ankštą kelelį per girią šunkeliu vadina: kaipogi jų
     šunys it kumeliai dar kudloti ir kelią namo sekė, ir nuo žvėrių patį keliaujantį gyniojo.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

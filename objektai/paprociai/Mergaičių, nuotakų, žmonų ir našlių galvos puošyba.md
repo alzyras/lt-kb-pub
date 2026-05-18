@@ -41,59 +41,23 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Išeigai moterys dėvėjo kitokį drabužį, o nuotakos vestuvių metu segėjo rūtų vainikus.'
   pagrindžia:
-    - c-001
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Motriškosios ilgai dėvėjo senovinius nuometus ir nenorėjo jų mesti nuo galvos.'
   pagrindžia:
+    - c-001
     - c-003
-    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Išeigai moterys dėvėjo kitokį drabužį, o nuotakos vestuvių metu segėjo rūtų vainikus.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Išeiginiu drabužiu motriškųjų
-    buvo taip vadinamas kilimas^338 , nuo žodžio keliauti, kurį drabužį iš namų eidamos kur toli
-    tesiėmė; vadino dar jį sage, arba sagše^339 , nuo žodžio segti, kurią dar tankiau vilnonę^340 vadino;
-    tai buvo didelis vilnonas baltas raištis^341 , pailguotinas, retai juodas ar pilkas; paskesniuose
-    laikuose išlepusios audė dryžus, kuriuos šiandien dar daugioj vietoj gal regėti Žemaičiuose ir
-    Žemgaliuose, arba Kurše; tokį kilimą ant pečių antsiautusios^342 , ant dešiniojo peties segele
-    susegė, nuo ko, kaip sakiau, sage, arba sagše vadino, kuria lynant ar dergiant galėjo apsisiausti;
-    žiemą vilnonus, vasarą marškonus dėvėjo. Motriškosios vasarą dirbdamos po marškinių trūsėjo,
-    išeiginiu drabužiu tie patys buvo balti žitkuoti^343 raštiniai sijonai ir avalai, nuotakos ant galvų rūtų
-    vainikus sagstė, palaidose bizose įpinti kaspinai blizgėjo, vietoje žieminių vilnonių tokiomis pat
-    klastės marškonomis sagėmis, kurias galėjo kaip tinkamos nuo vieno peties ar nuo abiedviejų
-    numesti, kursai apdaras didžiai jas gašijo^344 : dirvose, pievose trūsėdamos it gulbės svyravo.
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Motriškosios ilgai dėvėjo senovinius nuometus ir nenorėjo jų mesti nuo galvos.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Lygia dalia motriškosios nenorėjo dar niekaip senovės nuometų nuo
-    galvos savo mesti, noris kitą apdarą kaitė kaip tinkamos, todėl didžiai vėlai dar baltomis galvomis
-    vadinos nuo savo baltų nuometų, ir kad vyrams nebtiko toks jų apdaras, jos vis jiems tarė: „Tai, mūsų
-    nuometus regėdami, varnai nelekia į jūsų pūrus^1474 , tardami, jog čia dar senovės lietuviai tebgyvena,
-    nes kad nukris nuometai nuo mūsų galvų, tad jūs nebatginsit jų su savo skaleliais nuo savo pūrų ir
-    sėsit juos ne sau, bet varnams.“
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: Mergaičių, nuotakų, žmonų ir našlių galvos puošyba papildomas patvirtintas šaltinio paminėjimas.
+  santrauka: 'Motriškosios ilgai dėvėjo senovinius nuometus ir nenorėjo jų mesti nuo galvos.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Motriškųjų maž ką buvo įvairesnis drabužis: mergaitės ir nuotakos savo kasas į bizas^331 pynė ir
@@ -140,8 +104,47 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-    - t-002
+    - t-004
+- c-002
+  santrauka: 'Išeigai moterys dėvėjo kitokį drabužį, o nuotakos vestuvių metu segėjo rūtų vainikus.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Išeiginiu drabužiu motriškųjų
+    buvo taip vadinamas kilimas^338 , nuo žodžio keliauti, kurį drabužį iš namų eidamos kur toli
+    tesiėmė; vadino dar jį sage, arba sagše^339 , nuo žodžio segti, kurią dar tankiau vilnonę^340 vadino;
+    tai buvo didelis vilnonas baltas raištis^341 , pailguotinas, retai juodas ar pilkas; paskesniuose
+    laikuose išlepusios audė dryžus, kuriuos šiandien dar daugioj vietoj gal regėti Žemaičiuose ir
+    Žemgaliuose, arba Kurše; tokį kilimą ant pečių antsiautusios^342 , ant dešiniojo peties segele
+    susegė, nuo ko, kaip sakiau, sage, arba sagše vadino, kuria lynant ar dergiant galėjo apsisiausti;
+    žiemą vilnonus, vasarą marškonus dėvėjo. Motriškosios vasarą dirbdamos po marškinių trūsėjo,
+    išeiginiu drabužiu tie patys buvo balti žitkuoti^343 raštiniai sijonai ir avalai, nuotakos ant galvų rūtų
+    vainikus sagstė, palaidose bizose įpinti kaspinai blizgėjo, vietoje žieminių vilnonių tokiomis pat
+    klastės marškonomis sagėmis, kurias galėjo kaip tinkamos nuo vieno peties ar nuo abiedviejų
+    numesti, kursai apdaras didžiai jas gašijo^344 : dirvose, pievose trūsėdamos it gulbės svyravo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-003
+  santrauka: 'Motriškosios ilgai dėvėjo senovinius nuometus ir nenorėjo jų mesti nuo galvos.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Lygia dalia motriškosios nenorėjo dar niekaip senovės nuometų nuo
+    galvos savo mesti, noris kitą apdarą kaitė kaip tinkamos, todėl didžiai vėlai dar baltomis galvomis
+    vadinos nuo savo baltų nuometų, ir kad vyrams nebtiko toks jų apdaras, jos vis jiems tarė: „Tai, mūsų
+    nuometus regėdami, varnai nelekia į jūsų pūrus^1474 , tardami, jog čia dar senovės lietuviai tebgyvena,
+    nes kad nukris nuometai nuo mūsų galvų, tad jūs nebatginsit jų su savo skaleliais nuo savo pūrų ir
+    sėsit juos ne sau, bet varnams.“
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004

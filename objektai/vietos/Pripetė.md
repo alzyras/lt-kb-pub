@@ -22,6 +22,8 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
   teiginys: 'Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką Piną su Bugo intaku Muchavcu.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -30,15 +32,14 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
   citata_originali: |
     Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia
     Pripetės intaką Piną su Bugo intaku Muchavcu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Muchavcas]]
-- [[objektai/vietos/Pina]]

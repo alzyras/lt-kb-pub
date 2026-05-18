@@ -22,6 +22,8 @@ Po karūnacijos visi Lietuvos gubernijų seimeliai, — atsakydami į klausimą,
   teiginys: 'Po karūnacijos visi Lietuvos gubernijų seimeliai, — atsakydami į klausimą, kuriuo būdu, jų nuomone, reikėtų pagerinti valstiečių būklę, — pareiškė, kad pirmąja sąlyga jie laiką baudžiavos panaikinimą ir kad jie patys mielai atsižadą savo teisių valstiečiams.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -40,10 +42,10 @@ Po karūnacijos visi Lietuvos gubernijų seimeliai, — atsakydami į klausimą,
     ir kad jie patys mielai
     atsižadą savo teisių
     valstiečiams.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

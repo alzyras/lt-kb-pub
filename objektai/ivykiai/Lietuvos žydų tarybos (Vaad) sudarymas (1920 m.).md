@@ -30,7 +30,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1920 m. nacionalinėje žydų kahalų atstovų konferencijoje sudaryta 34 narių Lietuvos žydų taryba.'
+  teiginys: '1920 m. sudaryta 34 narių Lietuvos žydų taryba turėjo spręsti socialinius ir kultūrinius žydų reikalus.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -38,7 +38,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1920 m. nacionalinėje žydų kahalų atstovų konferencijoje sudaryta 34 narių Lietuvos žydų taryba.'
+  santrauka: '1920 m. sudaryta 34 narių Lietuvos žydų taryba turėjo spręsti socialinius ir kultūrinius žydų reikalus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1920 m. nacionali-

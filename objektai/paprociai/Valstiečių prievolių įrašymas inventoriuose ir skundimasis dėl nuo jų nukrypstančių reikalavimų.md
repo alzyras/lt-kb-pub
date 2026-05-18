@@ -33,13 +33,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jei kartais koks seniūnas nenorėdavo to laikytis, reikalaudavo daugiau, tai valstiečiai galėjo skųstis.'
+  teiginys: 'Valstiečiai galėjo skųstis, jei seniūnas nesilaikė nustatytų prievolių ir reikalavo daugiau.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jei kartais koks seniūnas nenorėdavo to laikytis, reikalaudavo daugiau, tai valstiečiai galėjo skųstis.'
+  santrauka: 'Valstiečiai galėjo skųstis, jei seniūnas nesilaikė nustatytų prievolių ir reikalavo daugiau.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jei kartais koks seniūnas nenorė-
@@ -48,10 +50,10 @@ Nenurodyta
     ar giminėms buvo gana sunku, ir dažniausiai jie nieko nelai-
     mėdavo; priešingai, kartais būdavo net jie patys apkaltinami
     maišto kėlimu ir, pakvietus kariuomenę, skaudžiai nubaudžiami.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -21,34 +21,40 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė.'
+  teiginys: 'Žygio metu buvo pasiekta Riazanė.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaikščiai; atvyko daugybė Vytauto priklausomų rusų kunigaikščių; pagaliau atvyko pats imperatorius Zigmantas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaikščių atstovų.'
+  teiginys: 'Į Vytauto suvažiavimą atvyko Riazanės kunigaikščiai.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
   teiginys: 'Riazanei buvo palikta teisė pačiai pasirinkti sau globą.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė.'
+  santrauka: 'Žygio metu buvo pasiekta Riazanė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šito žygio metu
     buvo pasiekta net Tula, Kaluga ir Riazanė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaikščiai; atvyko daugybė Vytauto priklausomų rusų kunigaikščių; pagaliau atvyko pats imperatorius Zigmantas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaikščių atstovų.'
+  santrauka: 'Į Vytauto suvažiavimą atvyko Riazanės kunigaikščiai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės,
@@ -57,11 +63,11 @@ tags:
     tas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaikš-
     čių atstovų. Suvažiavimo šeimininkas, Vytautas, turėjo progos
     parodyti savo vaišingumą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
@@ -71,11 +77,11 @@ tags:
     Maskvos įtakoje buvo palikti Pskovas su D. Naugardu, o Lie-
     tuvos įtakoje — Tverė. Riazanei buvo palikta teisė pačiai
     pasirinkti sau globą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 

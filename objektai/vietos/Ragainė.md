@@ -23,10 +23,14 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   teiginys: 'Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o kiek vėliau ir Skirsnemunės pilis.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Tačiau ordinas Ragainėje juos sulaikė.'
+  teiginys: '1409 m. Ordinas Ragainėje sulaikė Jogailos Lietuvai siųstus javus.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -36,25 +40,25 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
     Kryžiuočiai, atslinkę prie Nemuno, tuojau
     pasistatė Ragainės, Jurbarko, o kiek vėliau ir Skirsnemunės
     pilis
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Tačiau ordinas Ragainėje juos sulaikė.'
+  santrauka: '1409 m. Ordinas Ragainėje sulaikė Jogailos Lietuvai siųstus javus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tais pačiais 1409 m. Lietuvoje buvo nederlius. Jogaila, norė-
     damas padėti Lietuvai, siuntė jai javų. Tačiau ordinas Ragainėje
     juos sulaikė. Tatai Vytauto santykius su ordinu visai nutraukė,
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

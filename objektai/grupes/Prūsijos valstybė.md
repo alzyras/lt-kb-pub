@@ -27,7 +27,7 @@ Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūs
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Tačiau susidarė tik lietuvių ir latvių tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir vėliau įkūrė Prūsijos valstybę.'
+  teiginys: 'Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -51,7 +51,7 @@ Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūs
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Tačiau susidarė tik lietuvių ir latvių tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir vėliau įkūrė Prūsijos valstybę.'
+  santrauka: 'Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     II tūkstantmečio pradžioje pradėjo formuotis prū-

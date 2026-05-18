@@ -20,7 +20,7 @@ Pagrindinė forma: `nomadžiai`.
 Vartojamos formos: `nomadžiais`.
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'terminas vartojamas kaip išorinis visos tautos pavadinimas, aiškinamas kaip „žmonės, namuose gyvenantys“.'
   pagrindžia:
     - c-001
@@ -29,7 +29,7 @@ Vartojamos formos: `nomadžiais`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: terminas vartojamas kaip išorinis visos tautos pavadinimas, aiškinamas kaip „žmonės, namuose gyvenantys“
+  santrauka: 'terminas vartojamas kaip išorinis visos tautos pavadinimas, aiškinamas kaip „žmonės, namuose gyvenantys“.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Pirmasis jų trobesys tose giriose vadinos nams, arba namas, namaitis, dėl ko ir visa tauta nuo
@@ -40,4 +40,4 @@ Vartojamos formos: `nomadžiais`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

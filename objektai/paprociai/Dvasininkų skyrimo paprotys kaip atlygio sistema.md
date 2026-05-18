@@ -36,21 +36,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tuo būdu į dvasininkus įsibraudavo daug žmonių, kurie nieko bendro neturėdavo su Bažnyčia, o tiktai norėdavo pasipelnyti.'
+  teiginys: 'Bažnytinės vietos būdavo atiduodamos nusipelniusiems valdovui, todėl į dvasininkus patekdavo su Bažnyčia nesusiję pelno siekę žmonės.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Be abejo, kad šitokiu būdu skiriami dvasininkai labai dažnai nepasižymėdavo savo vertybe, nes daugumas iš jų tapdavo dvasininkais tik dėl pelningumo.'
+  teiginys: 'Valdovo ir ponų skiriami dvasininkai dažnai nepasižymėdavo verte, nes daugelis dvasininkais tapdavo dėl vietų pelningumo.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Be to, dar reikia priminti blogą dvasininkų skyrimo paprotį, buvusį tuomet visoje Europoje, būtent klebonus skirdavo tas, kas pastatydavo ir aprūpindavo bažnyčią, o vyskupus ir kanauninkus — didysis kunigaikštis.'
-  pagrindžia:
-    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tuo būdu į dvasininkus įsibraudavo daug žmonių, kurie nieko bendro neturėdavo su Bažnyčia, o tiktai norėdavo pasipelnyti.'
+  santrauka: 'Bažnytinės vietos būdavo atiduodamos nusipelniusiems valdovui, todėl į dvasininkus patekdavo su Bažnyčia nesusiję pelno siekę žmonės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tais laikais į bažnytines vietas buvo žiūrima, kaip į pel-
@@ -58,15 +58,15 @@ Nenurodyta
     kuriuo nors būdu nusipelnydavo didžiajam kunigaikščiui. Tuo
     būdu į dvasininkus įsibraudavo daug žmonių, kurie nieko
     bendro neturėdavo su Bažnyčia, o tiktai norėdavo pasipelnyti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Be abejo, kad šitokiu būdu skiriami dvasininkai labai dažnai nepasižymėdavo savo vertybe, nes daugumas iš jų tapdavo dvasininkais tik dėl pelningumo.'
+  santrauka: 'Valdovo ir ponų skiriami dvasininkai dažnai nepasižymėdavo verte, nes daugelis dvasininkais tapdavo dėl vietų pelningumo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Daug kam būdavo lengva
@@ -78,27 +78,10 @@ Nenurodyta
     būdu skiriami dvasininkai labai dažnai nepasižymėdavo savo
     vertybe, nes daugumas iš jų tapdavo dvasininkais tik dėl
     pelningumo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Be to, dar reikia priminti blogą dvasininkų skyrimo paprotį, buvusį tuomet visoje Europoje, būtent klebonus skirdavo tas, kas pastatydavo ir aprūpindavo bažnyčią, o vyskupus ir kanauninkus — didysis kunigaikštis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Be to, dar reikia priminti blogą dvasininkų skyrimo paprotį, buvusį tuomet visoje
-    Europoje, būtent klebonus skirdavo tas, kas pastatydavo ir
-
-    aprūpindavo bažnyčią, o vyskupus ir kanauninkus — didysis
-    kunigaikštis. Vyskupų paskyrimą tvirtindavo popiežius, o ku-
-    nigų — vyskupas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003

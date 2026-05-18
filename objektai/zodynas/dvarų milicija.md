@@ -18,21 +18,23 @@ Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.'
+  teiginys: 'Dvarų milicija buvo didikų atsivesta samdyta kariuomenė.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.'
+  santrauka: 'Dvarų milicija buvo didikų atsivesta samdyta kariuomenė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jie kiekvienas irgi atsivedė
     samdytos kariuomenės — savo dvarų milicijos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

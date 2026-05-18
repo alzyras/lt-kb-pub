@@ -18,7 +18,7 @@ Vitkauskas, gen.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kariuomenės vadas gen. V. Vitkauskas teigė, kad Lietuva viena negali rimčiau pasipriešinti sovietų karinei mašinai.'
+  teiginys: 'Kariuomenės vadas generolas V. Vitkauskas motyvavo, kad Lietuva viena negali rimčiau pasipriešinti sovietų karinei mašinai.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Vitkauskas, gen.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kariuomenės vadas gen. V. Vitkauskas teigė, kad Lietuva viena negali rimčiau pasipriešinti sovietų karinei mašinai.'
+  santrauka: 'Kariuomenės vadas generolas V. Vitkauskas motyvavo, kad Lietuva viena negali rimčiau pasipriešinti sovietų karinei mašinai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.

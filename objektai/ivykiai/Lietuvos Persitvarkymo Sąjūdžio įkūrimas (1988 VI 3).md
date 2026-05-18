@@ -39,7 +39,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Kritiški ir prieš valdžią nusiteikę Lietuvos inteligentai sekė M. Gorbačiovo pertvarką ir pokyčius sovietinėse respublikose.'
+  teiginys: 'Kritiškai mąstantys ir prieš valdžią nusiteikę Lietuvos inteligentai atidžiai sekė M. Gorbačiovo pertvarką ir pokyčius sovietinėse respublikose.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -60,7 +60,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Kritiški ir prieš valdžią nusiteikę Lietuvos inteligentai sekė M. Gorbačiovo pertvarką ir pokyčius sovietinėse respublikose.'
+  santrauka: 'Kritiškai mąstantys ir prieš valdžią nusiteikę Lietuvos inteligentai atidžiai sekė M. Gorbačiovo pertvarką ir pokyčius sovietinėse respublikose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kritiškai mąstantys
@@ -77,4 +77,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
-- [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio iniciatyvinės grupės įsteigimas (1988 m. birželio 3 d.)]]

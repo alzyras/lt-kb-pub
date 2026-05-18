@@ -23,6 +23,8 @@ Ordinui dar liko nemaža vokiečių imperatorių ir kunigaikščių dovanotų ž
   teiginys: 'Ordinui dar liko nemaža vokiečių imperatorių ir kunigaikščių dovanotų žemių, tad didysis magistras su taryba ir persikėlė į vieną tokią dovanotąją žemę — į Apuliją (pietų Italijoj).'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -33,10 +35,10 @@ Ordinui dar liko nemaža vokiečių imperatorių ir kunigaikščių dovanotų ž
     kunigaikščių dovanotų žemių, tad didysis magistras su taryba
     ir persikėlė į vieną tokią dovanotąją žemę — į Apuliją (pietų
     Italijoj).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

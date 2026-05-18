@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Vėlėms prieš valgį ir gėrimą aukodavo pirmuosius kąsnius ir gurkšnius, o Ilgių dieną kartą per metus jas vaišindavo.'
   pagrindžia:
     - c-001
@@ -50,7 +50,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Vėlėms prieš valgį ir gėrimą aukodavo pirmuosius kąsnius ir gurkšnius, o Ilgių dieną kartą per metus jas vaišindavo.
+  santrauka: 'Vėlėms prieš valgį ir gėrimą aukodavo pirmuosius kąsnius ir gurkšnius, o Ilgių dieną kartą per metus jas vaišindavo.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tą žinodami, kalnėnai ir žemaičiai didžiai rūpinęsi likumu
@@ -61,8 +61,10 @@ Nenurodyta
     daiktuose, nesgi jos, nebūdamos palaidotomis, kentėjusios alkį, todėl, idant jas nutildytų, ne vien
     kiek pradėdami valgyti ar gerti mėčioję žemyn pirmuosius šmotelius valgio ir laistę gėrimo, bet
     dar metuose kartą ilgių^707 dieną jas vaišinę, kaip tuojau regėsim.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

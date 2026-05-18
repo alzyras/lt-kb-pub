@@ -45,7 +45,7 @@ Terminas paaiškintas skliaustuose kaip religinės mokslo įstaigos.
 Vartojamas Vilniaus Gaono pasiūlymų ir žydų mokymo reformų kontekste.
 
 ## Teiginiai
-- t-002
+- t-003
   teiginys: 'Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.'
   pagrindžia:
     - c-001
@@ -67,7 +67,7 @@ Vartojamas Vilniaus Gaono pasiūlymų ir žydų mokymo reformų kontekste.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

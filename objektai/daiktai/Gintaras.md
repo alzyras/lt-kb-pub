@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Aukojant dievams degindavo gintarus kartu su kitomis aukojimo medžiagomis.'
   pagrindžia:
     - c-001
@@ -50,7 +50,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Aukojant dievams degindavo gintarus kartu su kitomis aukojimo medžiagomis.
+  santrauka: 'Aukojant dievams degindavo gintarus kartu su kitomis aukojimo medžiagomis.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Turėjo dar taip pat už šventus aukurus, arba altorius, ant kalnų, kuriuos vadino auko kalnais,
@@ -60,11 +60,11 @@ Nenurodyta
     kasant juos, šiandien dar randamos tenai supuvusios ir sutrynėjusios^841 anglys tą stigavoja.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

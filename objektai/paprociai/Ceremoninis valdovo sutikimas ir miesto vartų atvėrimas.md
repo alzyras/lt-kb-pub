@@ -41,19 +41,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: 'Miesto atstovai išėję pasitikdavo valdovą ir atverdavo jam miesto vartus.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Po pasidavimo miesto atstovai sutikdavo tarnauti valdovui, o šis iškilmingai įjodavo į miestą ir pilį.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-003
+- t-005
   teiginys: '1345 m. Lietuvos karalių pasitikęs lyvių seniūnas siūlė viso krašto pasidavimą.'
   pagrindžia:
     - c-002
@@ -62,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Miesto atstovai išėję pasitikdavo valdovą ir atverdavo jam miesto vartus.
+  santrauka: 'Miesto atstovai išėję pasitikdavo valdovą ir atverdavo jam miesto vartus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     kad jų kunigaikštis pabėgęs, jų valdovo
@@ -74,15 +68,16 @@ Nenurodyta
     rusų tradicija keliuose variantuose mini,
     kad Gediminas paėmė Rusijos sostinės
     miestą Kijevą ir prijungė Kijevo kunigaikš-
+    tystę prie Lietuvos; Gediminas prie Irpenės
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-002
-  santrauka: Po pasidavimo miesto atstovai sutikdavo tarnauti valdovui, o šis iškilmingai įjodavo į miestą ir pilį.
+  santrauka: '1345 m. Lietuvos karalių pasitikęs lyvių seniūnas siūlė viso krašto pasidavimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     »[-..] 1345 metais Lietuvos karalius (Algirdas) surinko stiprią kariuomenę ir įsiveržė į
@@ -96,5 +91,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-    - t-003
+    - t-005

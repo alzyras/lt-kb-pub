@@ -44,7 +44,7 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
 - Apie lietuvių tautos ir kalbos kilmę
 
 ## Teiginiai
-- t-004
+- t-005
   teiginys: '1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“.'
   pagrindžia:
     - c-001
@@ -70,7 +70,7 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -18,23 +18,5 @@ tags:
 Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryvą (Dünamünde).
 
 ## Teiginiai
-- t-001
-  teiginys: 'Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryvą (Dünamünde).'
-  pagrindžia:
-    - c-001
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryvą (Dünamünde).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią
-    Daugavgryvą _(Dünamünde)._ Tuo būdu karas, prasidėjęs
-    dėl Zigmanto Švedų sosto, virto karu dėl Livonijos ir užtruko net 60 metų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001

@@ -22,14 +22,14 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
   teiginys: 'Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Pacai, bijodami jo kandidatūros, buvo pradėję prieš jį veikti dar tarpuvaldžio pradžioje.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Lietuvai vadovaujantieji Pacai stovėjo karaliaus pusėje ir labai nesugyveno su abiem prancūziškosios partijos vadais — primų ir Lenkijos hetmonu Sobieskiu.'
-  pagrindžia:
-    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -38,11 +38,11 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
   citata_originali: |
     Pirmučiausia iškilo Pacai, kuriuos pakeitė Sa-
     piegos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -53,25 +53,10 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
     kandidatūros, buvo pra-
     dėję prieš jį veikti dar
     tarpuvaldžio pradžioje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Lietuvai vadovaujantieji Pacai stovėjo karaliaus pusėje ir labai nesugyveno su abiem prancūziškosios partijos vadais — primų ir Lenkijos hetmonu Sobieskiu.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvai vadovaujantieji Pacai stovėjo
-    karaliaus pusėje ir labai nesugyveno su abiem prancūziškosios partijos
-    vadais — primų ir Len-
-    kijos hetmonu Sobieskiu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003

@@ -56,7 +56,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Lietuvos krikštas suteikė feodaliniams santykiams idėjinį pagrindą, nes pavaldiniui buvo nurodoma, kokį tikėjimą išpažinti.'
+  teiginys: 'Po Lietuvos krikšto feodaliniai santykiai įgijo idėjinį pagrindą, nes pavaldiniui buvo nurodoma, kokį tikėjimą išpažinti.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -79,7 +79,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Lietuvos krikštas suteikė feodaliniams santykiams idėjinį pagrindą, nes pavaldiniui buvo nurodoma, kokį tikėjimą išpažinti.'
+  santrauka: 'Po Lietuvos krikšto feodaliniai santykiai įgijo idėjinį pagrindą, nes pavaldiniui buvo nurodoma, kokį tikėjimą išpažinti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Savaip transformuota artimo meilės idėja atsispindi

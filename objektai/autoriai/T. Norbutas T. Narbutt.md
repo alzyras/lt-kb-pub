@@ -22,6 +22,8 @@ Norbutas parašė pirmąją didžiulę (9 tomų) Lietuvos istoriją.
   teiginys: 'Norbutas parašė pirmąją didžiulę (9 tomų) Lietuvos istoriją.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -31,14 +33,10 @@ Norbutas parašė pirmąją didžiulę (9 tomų) Lietuvos istoriją.
     Taip pat universiteto įtakoje kiek vėliau Lydos bajoras
     T. Norbutas parašė pirmąją didžiulę (9 tomų) Lietuvos isto-
     riją.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/T. Norbutas]]

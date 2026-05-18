@@ -31,8 +31,8 @@ tags:
 - Pagrindinė forma: Lietuva, sako Gediminas, nekariaujanti su krikščionybe: ji teginanti savo laisvę
 
 ## Teiginiai
-- t-001
-  teiginys: 'Formuluotė šiame pasakojime pateikiama kaip Gedimino laiško formulė apie Lietuvos laisvės gynimą.'
+- t-002
+  teiginys: 'Gediminas teigė, kad Lietuva nekariauja su krikščionybe, o tik gina savo laisvę.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -40,7 +40,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Gedimino laiško formulė apie Lietuvos laisvės gynimą
+  santrauka: 'Gediminas teigė, kad Lietuva nekariauja su krikščionybe, o tik gina savo laisvę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuva, sako Gediminas,
@@ -51,4 +51,4 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

@@ -51,10 +51,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginys: 'Gavęs dėdės, karaliaus Zigmanto, sutikimą, jis visa tai įvykdė ir 1525 m. Krokuvoje iškilmingai prisiekė Zigmantui, kaip Prūsų kunigaikštis.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Zigmanto II antkapis Krokuvos katedroje.'
-  pagrindžia:
-    - c-004
 - t-005
   teiginys: '1550 m. Barbora buvo iškilmingai Krokuvoje karūnuota Lenkijos karaliene.'
   pagrindžia:
@@ -71,24 +67,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginys: 'Pagaliau tarpuvaldį pabaigdavo karūnacinis seimas, kuris visada būdavo šaukiamas Krokuvoje, nes ten įvykdavo karūnacija.'
   pagrindžia:
     - c-008
-- t-009
-  teiginys: 'Krokuva buvo per toli, kad galėtų tiesiogiai tvarkyti Lietuvos reikalus.'
-  pagrindžia:
-    - c-009
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-010
-  teiginys: 'Po paskutinio pralaimėjimo Vytautas buvo nuvykęs į Krokuvą ir iš ten greitai grįžo į Lietuvą.'
-  pagrindžia:
-    - c-010
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-011
-  teiginys: 'Vėlyvesnių unijų sąlygomis naujosios aukščiausiosios kunigaikštijos sostinė buvo laikoma nebe Vilnius, o Krokuva.'
-  pagrindžia:
-    - c-011
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -132,19 +110,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Zigmanto II antkapis Krokuvos katedroje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jaunystę praleido
-    Zigmanto II antkapis Krokuvos katedroje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 - c-005
   santrauka: '1550 m. Barbora buvo iškilmingai Krokuvoje karūnuota Lenkijos karaliene.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -208,49 +173,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-- c-009
-  santrauka: Citata apibrėžia Krokuvos nuotolį kaip praktinę kliūtį valdyti Lietuvą.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Nors teoretiškai Lietuva ir priklausė lenkams, bet Krokuva
-    nuo jos buvo per toli, kad galėtą krašto likimą diriguoti.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
-- c-010
-  santrauka: Citata rodo Krokuvą kaip Vytauto politinio manevravimo vietą po pralaimėjimo.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Matyt, susirūpinęs tokia ga­
-    limybe, Vytautas tuojau po paskutinio savo pralaimėjimo nu­
-    vyko į Krokuvą ir, nežiūrint geriausių iš pažiūros santykių su
-    karalium, greitai sugrįžo į Lietuvą^1 ).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-010
-- c-011
-  santrauka: Citata tiesiogiai apibūdina Krokuvą kaip aukščiausiosios kunigaikštijos sostinę.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet šis atnaujinimas, jei atsiminsime antrąjį Vytauto pabėgimą
-    į Prūsus ir visas vėlyvesnes unijas, pergyveno įvairius santy­
-    kius, atsižvelgiant į naująją aukščiausiąją kunigaikštiją, kurios
-    sostinė buvo jau nebe Vilnius, bet Krokuva.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-011
 
 ## Ryšiai
 ### Laikotarpiai

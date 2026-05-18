@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Po kremacijos numirėlio pelenai buvo supilami į molio indą prieš įdedant jį į kapus.'
   pagrindžia:
     - c-001
@@ -50,7 +50,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Po kremacijos numirėlio pelenai buvo supilami į molio indą prieš įdedant jį į kapus.
+  santrauka: 'Po kremacijos numirėlio pelenai buvo supilami į molio indą prieš įdedant jį į kapus.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     paskui sušluostę gruzdinius^1299 numirėlio supylė į molio
@@ -64,7 +64,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Pastabos
 

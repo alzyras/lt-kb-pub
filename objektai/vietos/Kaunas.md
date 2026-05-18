@@ -68,7 +68,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kaunas buvo stipriausia lietuvių pilis, o kryžiuočių pasiekimas prie jos buvo tik laikinas laimėjimas.'
+  teiginys: 'Kaunas buvo stipriausia lietuvių pilis ir kovose su Ordinu suvaidino svarbų vaidmenį.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -109,28 +109,10 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-009
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-009
-  teiginys: '1362 m. ordinas išgriovė Kauno pilį ir nuo čia pradėjo veržtis giliau į Lietuvą.'
-  pagrindžia:
-    - c-010
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-010
-  teiginys: 'Žygio į Žemaitiją metu kelias Nemunu į Aukokalnį ėjo per Merkinę ir Kauną.'
-  pagrindžia:
-    - c-011
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-011
-  teiginys: 'Vytautas Kaune pastatė parapinę ir pranciškonų bažnyčias.'
-  pagrindžia:
-    - c-012
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata tiesiogiai apibūdina Kauną kaip stipriausią lietuvių pilį.
+  santrauka: 'Kaunas buvo stipriausia lietuvių pilis ir kovose su Ordinu suvaidino svarbų vaidmenį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Stipriausia lie-
@@ -267,52 +249,6 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-- c-010
-  santrauka: Citata nurodo 1362 m. Kauno pilies sugriovimą ir jo vietą ankstyvame Ordino veržimesi į Lietuvą.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kiek tos kovos Kęstučio valdymo laiku padidėjo,
-    rodo ir ta aplinkybė, kad vokiečiai tiek jau buvo įsidrąsinę, kad
-    1362 m. išgriovė Kauno pilį ir pradėjo brautis vis gilyn į Lietu­
-    vą, pasiekdami net Vilniaus ir Neries sritis, kurių dar niekad
-    priešai nebuvo pasiekę.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
-- c-011
-  santrauka: Citata rodo Kauną kaip svarbų žygio į Žemaitiją maršruto tašką.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
-    gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
-    ja iki Aukokalnio, buvusio ties dabartine Betygala.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-010
-- c-012
-  santrauka: Citata tiesiogiai mini dvi Vytauto funduotas Kauno bažnyčias.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kaune parapinę bažnyčią ir pranciškoną (dabar Vytauto), Nau­
-    juose Trakuose (kur yra išlikęs Vytauto numylėtas Šv. Pane­
-    lės paveikslas, žmonių laikomas stebuklingu), Sen. Trakuose,
-    Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­
-    bingiuose, Utenoje, Eišiškiuose, Gardine, Liet.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-011
 
 ## Ryšiai
 ### Laikotarpiai
@@ -325,4 +261,3 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - [[objektai/vietos/Alytus]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Gardinas]]

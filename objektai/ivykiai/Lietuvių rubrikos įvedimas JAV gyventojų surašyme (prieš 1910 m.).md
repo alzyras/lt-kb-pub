@@ -30,26 +30,10 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Prieš 1910 m. J.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Prieš 1910 m. J.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Prieš 1910 m. J. Amerikos Valstybių gyventojų surašinėjimą lietuvių delegacija, apsilan-
-    kiusi pas prezidentą, pasiekė tai, kad prezidento įsakymu buvo
-    įvesta ir lietuvių rubrika.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Ryšiai
 ### Laikotarpiai

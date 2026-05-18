@@ -36,6 +36,8 @@ Nenurodyta
   teiginys: 'Kai sukilimai aprimdavo, ordinas kiekvieną kartą turėdavo iš naujo nugalėti prūsus.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -46,10 +48,10 @@ Nenurodyta
     naujo nugalėti prūsus. Bet šitokiais kritiškais momentais jis pa-
     sišaukdavo paramos iš Vokietijos ir iš kitų kraštų, ir prūsai bū-
     davo nuveikiami.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

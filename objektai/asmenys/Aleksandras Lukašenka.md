@@ -18,7 +18,7 @@ Gerai klostėsi ekonominiai santykiai, o politinius komplikavo Baltarusijos prez
 
 ## Teiginiai
 - t-001
-  teiginys: 'Gerai klostėsi ekonominiai santykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lukašenkos diktatūrinis valdymas.'
+  teiginys: 'Aleksandro Lukašenkos diktatūrinis valdymas komplikavo politinius santykius su Baltarusija.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Gerai klostėsi ekonominiai santykiai, o politinius komplikavo Baltarusijos prez
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Gerai klostėsi ekonominiai santykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lukašenkos diktatūrinis valdymas.'
+  santrauka: 'Aleksandro Lukašenkos diktatūrinis valdymas komplikavo politinius santykius su Baltarusija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gerai klostėsi ekonominiai san-

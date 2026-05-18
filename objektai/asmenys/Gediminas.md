@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Gediminas'
+pavadinimas: 'Gediminas (Lietuvos valdovas)'
 sukurta: '2026-04-24'
 variantai:
   - 'Gedimino'
@@ -10,6 +10,7 @@ variantai:
   - 'Gediminas'
 aliases:
   - 'Gediminas (Lietuvos valdovas, 1323 m.)'
+  - 'Gediminas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -52,7 +53,7 @@ tags:
   - diplomatas
   - valdovas
 ---
-# Gediminas
+# Gediminas (Lietuvos valdovas)
 ## Santrauka
 
 Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdovas, plėtęs valstybę į rytus ir palaikęs ryšius su Europa. Su juo siejami laiškai popiežiui ir Europos miestams, Vilniaus įtvirtinimas sostine, Aukštaičių karaliaus vardas, rytinių rusų ir kitų baltų žemių jungimas bei religinė pakanta.
@@ -146,7 +147,7 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-025
-  teiginys: 'Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai.'
+  teiginys: 'Gedimino laiškai laikomi reikšmingiausiu jo politikos atspindžiu.'
   pagrindžia:
     - c-025
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -158,7 +159,7 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-027
-  teiginys: 'Taigi pagoniška Lietuvos visuomenė ir jos ūkinė, socialinė, politinė ir dvasinė struktūra įgijo brandžiausią pavidalą valdant Gediminui.'
+  teiginys: 'Valdant Gediminui pagoniškos Lietuvos visuomenės ūkinė, socialinė, politinė ir dvasinė struktūra įgijo brandžiausią pavidalą.'
   pagrindžia:
     - c-027
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -176,7 +177,7 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-030
-  teiginys: 'Nors Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algirdas už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk Vytautas nustojo mokėti mongolams duoklę).'
+  teiginys: 'Gediminas ir Algirdas už teisę valdyti prijungtas rusų žemes nuolat mokėjo duoklę Aukso ordai.'
   pagrindžia:
     - c-030
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -421,7 +422,7 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   pagrindžia:
     - t-024
 - c-025
-  santrauka: 'Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai.'
+  santrauka: 'Gedimino laiškai laikomi reikšmingiausiu jo politikos atspindžiu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai.
@@ -460,7 +461,7 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   pagrindžia:
     - t-026
 - c-027
-  santrauka: 'Taigi pagoniška Lietuvos visuomenė ir jos ūkinė, socialinė, politinė ir dvasinė struktūra įgijo brandžiausią pavidalą valdant Gediminui.'
+  santrauka: 'Valdant Gediminui pagoniškos Lietuvos visuomenės ūkinė, socialinė, politinė ir dvasinė struktūra įgijo brandžiausią pavidalą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi pagoniška Lietuvos visuomenė ir jos ūkinė, socialinė, politinė
@@ -514,7 +515,7 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   pagrindžia:
     - t-029
 - c-030
-  santrauka: 'Nors Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algirdas už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk Vytautas nustojo mokėti mongolams duoklę).'
+  santrauka: 'Gediminas ir Algirdas už teisę valdyti prijungtas rusų žemes nuolat mokėjo duoklę Aukso ordai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors

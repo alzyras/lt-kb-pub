@@ -33,7 +33,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų mokyklų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkurtas 1579 m.).'
+  teiginys: 'Valstybės remiami jėzuitai sukūrė kolegijų tinklą, kurio viršūnėje buvo 1579 m. įkurtas Vilniaus universitetas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -57,7 +57,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
+  teiginys: 'Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų; už jį senesni buvo tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
   pagrindžia:
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -65,7 +65,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų mokyklų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkurtas 1579 m.).'
+  santrauka: 'Valstybės remiami jėzuitai sukūrė kolegijų tinklą, kurio viršūnėje buvo 1579 m. įkurtas Vilniaus universitetas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi

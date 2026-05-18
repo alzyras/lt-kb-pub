@@ -24,23 +24,29 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
   teiginys: 'Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfederacija.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Opozicionieriai, atvykę į Targovicos miestelį (Ukrainoje, prie Sieniuchos), paskelbė konfederacijos aktą.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfederacija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ta konfederacija dėl jos akto pa-
     skelbimo vietos yra vadinama Targovicos konfederacija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -51,10 +57,10 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
     miestelį (Ukrainoje, prie Sieniuchos), paskelbė konfederacijos
     aktą. Jie skelbėsi einą sugrąžinti seimo sulaužytų krašto laisvių;
     rusai esą jų sąjungininkai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

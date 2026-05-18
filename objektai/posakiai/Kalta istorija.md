@@ -19,13 +19,13 @@ Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atv
 
 ## Teiginiai
 - t-001
-  teiginys: 'Autorių pasakojimas apie Lietuvos istoriją galėjo atrodyti atveriantis aštrių prieštaravimų ir per kritiškas kaimynams.'
+  teiginys: 'Pasakojimas apie Lietuvos istoriją galėjo atrodyti atveriantis daug aštrių prieštaravimų ir pernelyg kritiškas kaimynams.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Nes dėl Lietuvos istorijos komplikuotumo tikrai kalti ne Lietuvos istorikai.'
+  teiginys: 'Dėl Lietuvos istorijos komplikuotumo Lietuvos istorikai nelaikomi kaltais.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -33,7 +33,7 @@ Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atv
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Autorių pasakojimas apie Lietuvos istoriją galėjo atrodyti atveriantis aštrių prieštaravimų ir per kritiškas kaimynams.'
+  santrauka: 'Pasakojimas apie Lietuvos istoriją galėjo atrodyti atveriantis daug aštrių prieštaravimų ir pernelyg kritiškas kaimynams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tūlas gal pasakys, kad mūsų
@@ -49,7 +49,7 @@ Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atv
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Nes dėl Lietuvos istorijos komplikuotumo tikrai kalti ne Lietuvos istorikai.'
+  santrauka: 'Dėl Lietuvos istorijos komplikuotumo Lietuvos istorikai nelaikomi kaltais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nes dėl Lietuvos istorijos komplikuotumo tikrai kalti ne Lietuvos

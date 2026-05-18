@@ -48,49 +48,10 @@ Knygnešystė buvo slaptas lietuviškos spaudos spausdinimo, gabenimo ir platini
 - susiję daiktai: lietuviškos knygos; elementoriai
 
 ## Teiginiai
-- t-002
-  teiginys: 'Jis pats parašė daugybę knygučių ir joms išleisti nesigailėjo nei lėšų nei vargo.'
-  pagrindžia:
-    - c-002
-- t-004
-  teiginys: 'Visi knygų platinimo vadai turėjo daugybę padėjėjų, kurie slapta eidavo per sieną, nunešdavo rankraščius ir atnešdavo knygų.'
-  pagrindžia:
-    - c-004
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Jis pats parašė daugybę knygučių ir joms išleisti nesigailėjo nei lėšų nei vargo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tą darbą
-    pradėjo vysk. Valančius su savo artimaisiais padėjėjais. Jis pats
-    parašė daugybę knygučių ir joms išleisti nesigailėjo nei lėšų
-    nei vargo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-004
-  santrauka: 'Visi knygų platinimo vadai turėjo daugybę padėjėjų, kurie slapta eidavo per sieną, nunešdavo rankraščius ir atnešdavo knygų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Visi knygų platinimo vadai turėjo daugybę padėjėjų, kurie
-    slapta eidavo per sieną, nunešdavo rankraščius ir atnešdavo
-    knygų. Jie patys arba kiti tas knygas platindavo tarp žmonių.
-    Tokių knygnešių buvo daugybė. Knygas vežiojo visoki škap-
-    lierininkai, o kartais net žydai kromelininkai, nes iš jų būdavo
-    neblogo uždarbio. Tačiau to darbo vadai dirbo iš tikro pasi-
-    aukojimo tautai. Ir pagaliau jie laimėjo kovą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
+Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai

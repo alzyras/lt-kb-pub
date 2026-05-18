@@ -31,25 +31,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Pirmą kartą, kaip visos Lietuvos valdovas, Algirdas, drauge su Kęstučiu, susidūrė su ordinu tais pačiais metais, kai buvo nuo sosto pašalintas Jaunutis (1345 m.).'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pirmą kartą, kaip visos Lietuvos valdovas, Algirdas, drauge su Kęstučiu, susidūrė su ordinu tais pačiais metais, kai buvo nuo sosto pašalintas Jaunutis (1345 m.).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pirmą kartą, kaip visos Lietuvos valdovas, Algirdas, drauge su Kęstučiu, susidūrė su ordinu tais pačiais metais, kai buvo nuo sosto pašalintas Jaunutis (1345 m.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jaunutis]]
+Nenurodyta

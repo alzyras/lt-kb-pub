@@ -21,13 +21,13 @@ Pagrindinė forma: `pusrytės`.
 Papildomos aiškios formos neišskirtos.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Pusrytės` šaltinyje žymi rytinį metą, artimą pusryčiams.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Žydams buvo draudžiama pirkti prekes iki didžiųjų pusryčių.'
   pagrindžia:
     - c-001
@@ -36,7 +36,7 @@ Papildomos aiškios formos neišskirtos.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Pusrytės` šaltinyje žymi rytinį metą, artimą pusryčiams
+  santrauka: '`Pusrytės` šaltinyje žymi rytinį metą, artimą pusryčiams.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Nesgi žydai, iš Lenkų atėję į Lietuvą, noris plėtės
@@ -45,12 +45,12 @@ Papildomos aiškios formos neišskirtos.
     pusrytės^1481 , jau lig pietų, žydai pirkti negalėjo.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Pastabos
 

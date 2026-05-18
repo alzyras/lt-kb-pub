@@ -48,7 +48,7 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Rėza šiame fragmente įvardytas kaip vienas iš karštų lietuvių kalbos gynėjų.'
+  teiginys: 'Rėza buvo vienas iš lietuvių kalbos gynėjų per ginčą, kuriame lietuvių kalba buvo apginta.'
   pagrindžia:
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -56,7 +56,7 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Rėza 1818 m. išleido Duonelaičio raštus ir 1825 m. dainų rinkinį
+  santrauka: 'Rėza 1818 m. išleido Duonelaičio raštus ir 1825 m. dainų rinkinį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šitą sąjūdį dar labiau sustiprino susidomėjimas lietuviš-
@@ -69,13 +69,13 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
     kus — 1825 m. — ir išgarsėjusį savo dainų rinkinį).
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Rėza išleido trečią Šventojo Rašto leidimą, paskelbė Duonelaičio raštus ir išleido liaudies dainų rinkinį
+  santrauka: 'Rėza išleido trečią Šventojo Rašto leidimą, paskelbė Duonelaičio raštus ir išleido liaudies dainų rinkinį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Paskutiniai tos rūšies
@@ -85,13 +85,13 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
     nyčios prieglobstyje rašliava M. Lietuvoje jau niekad nebeatgijo.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: Rėza šiame fragmente įvardytas kaip vienas iš karštų lietuvių kalbos gynėjų
+  santrauka: 'Rėza buvo vienas iš lietuvių kalbos gynėjų per ginčą, kuriame lietuvių kalba buvo apginta.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet tuojau atsirado ir karštų lietuvių kalbos
@@ -100,7 +100,7 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
     buvo apginta.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:

@@ -18,7 +18,7 @@ Masinėms žudynėms vykdyti sukonstruotas mechanizmas – rugpjūčio 16-ąją 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Masinėms žudynėms vykdyti sukonstruotas mechanizmas – rugpjūčio 16-ąją lietuvių policijos departamento direktorius Vytautas Reivytis slaptu raštu Nr. 3 įsakė sulaikyti visus žydus ir juos sutelkti tam numatytose vietose.'
+  teiginys: 'Rugpjūčio 16 d. Vytautas Reivytis slaptu raštu Nr. 3 įsakė sulaikyti visus žydus ir sutelkti juos tam numatytose vietose.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -28,7 +28,7 @@ Masinėms žudynėms vykdyti sukonstruotas mechanizmas – rugpjūčio 16-ąją 
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Masinėms žudynėms vykdyti sukonstruotas mechanizmas – rugpjūčio 16-ąją lietuvių policijos departamento direktorius Vytautas Reivytis slaptu raštu Nr. 3 įsakė sulaikyti visus žydus ir juos sutelkti tam numatytose vietose.'
+  santrauka: 'Rugpjūčio 16 d. Vytautas Reivytis slaptu raštu Nr. 3 įsakė sulaikyti visus žydus ir sutelkti juos tam numatytose vietose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Masinėms žudynėms vykdyti sukonstruotas

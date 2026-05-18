@@ -21,57 +21,34 @@ tags: []
 Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete. Čia nuo Vytauto laikų buvo krašto viršininkas, vadinamas seniūnu.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.'
+- t-008
+  teiginys: 'Lenkijos karalius Lietuvoje laikė ne tik įgulas, bet ir storastą.'
   pagrindžia:
     - c-001
-- t-003
-  teiginys: Storasta šiame tekste vartojamas kaip lenkiško administratoriaus titulas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: 'Seniūnas šiame tekste yra lenkiškas urėdas Lietuvoje.'
+  pagrindžia:
+    - c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: '1411 m. Vytautas pats paskyrė seniūną atgautai Žemaitijai.'
   pagrindžia:
     - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: Lenkijos karalius Lietuvoje laikė ne tik įgulas, bet ir storastą.
+- t-011
+  teiginys: 'Seniūnas buvo bendro valstybės valdymo organas, turėjęs teismo valdžią ir vietininko teises.'
   pagrindžia:
     - c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: Seniūnas šiame tekste yra lenkiškas urėdas Lietuvoje.
-  pagrindžia:
-    - c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 1411 m. Vytautas pats paskyrė seniūną atgautai Žemaitijai.
-  pagrindžia:
-    - c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: Seniūnas turėjo teismo valdžią ir vietininko teises.
-  pagrindžia:
-    - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek
-    daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-003
-  santrauka: Storasta šiame tekste vartojamas kaip lenkiško administratoriaus titulas.
+  santrauka: 'Lenkijos karalius Lietuvoje laikė ne tik įgulas, bet ir storastą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lietuvoje buvo jau­
@@ -85,26 +62,29 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
     ```
     tikrai galėjai manyti, jog Krėvės unijos akte įrašytas Lietuvos
     prijungimas prie Lenkijos, tuo tarpu negalės įvykti
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-    - t-004
-- c-004
-  santrauka: Seniūnas šiame tekste yra lenkiškas urėdas Lietuvoje.
+    - t-008
+- c-002
+  santrauka: 'Seniūnas šiame tekste yra lenkiškas urėdas Lietuvoje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pirmas lenkų urėdas atsiradęs Lietuvoje vadinosi seniūnu
     (lenk. starosta). Tai buvo 1386 met. Jogailos Vilniun atsiųstas
     jau minėtas vad. „Vilniaus seniūnas“.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-- c-005
-  santrauka: 1411 m. Vytautas pats paskyrė seniūną atgautai Žemaitijai.
+    - t-009
+- c-003
+  santrauka: '1411 m. Vytautas pats paskyrė seniūną atgautai Žemaitijai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     1411 m. jis
@@ -113,12 +93,14 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
     kunigaikščio domenuose, bet ir visos apylinkės bajorų ir Baž­
     nyčios dvaruose. Jis naudojosi visomis vietininko teisėmis ir
     paprastomis jo pajamomis.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
-    - t-007
+    - t-010
+    - t-011
 
 ## Ryšiai
 ### Teminiai klasteriai

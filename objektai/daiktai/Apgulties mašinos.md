@@ -34,28 +34,22 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuviai vietoje pasidarydavo pilims imti mašinas.'
+  teiginys: 'Lietuviai karo žygiuose iš vietoje prisikirstų medžių dirbdavosi pilims imti skirtas apgulties mašinas.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Daugpilio apgultyje buvo panaudotos keturios akmenims svaidyti mašinos.'
+  teiginys: '1278 m. Daugpilio apgultyje Traidenio kariuomenė panaudojo keturias akmenims svaidyti skirtas apgulties mašinas.'
   pagrindžia:
     - c-002
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Vytenis Christmemelio apgultyje panaudojo porą akmenų svaidyklių.'
-  pagrindžia:
-    - c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Lietuviai vietoje pasidarydavo pilims imti mašinas.
+  santrauka: 'Lietuviai karo žygiuose iš vietoje prisikirstų medžių dirbdavosi pilims imti skirtas apgulties mašinas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pasitelkdami amate įgudusių žmonių, lietuviai atlikdavo ir
@@ -76,7 +70,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Daugpilio apgultyje buvo panaudotos keturios akmenims svaidyti mašinos.
+  santrauka: '1278 m. Daugpilio apgultyje Traidenio kariuomenė panaudojo keturias akmenims svaidyti skirtas apgulties mašinas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Po nepasise­
@@ -90,7 +84,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 - c-003
-  santrauka: Daugpilio apgultyje buvo panaudotos keturios akmenims svaidyti mašinos.
+  santrauka: '1278 m. Daugpilio apgultyje Traidenio kariuomenė panaudojo keturias akmenims svaidyti skirtas apgulties mašinas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nors dieną ir naktį akmenims svaidyti mašinos
@@ -102,16 +96,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-004
-  santrauka: Vytenis Christmemelio apgultyje panaudojo porą akmenų svaidyklių.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    nors ir jis panaudojo porą akmenų
-    svaidyklių ir daug lankininkų^22.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003

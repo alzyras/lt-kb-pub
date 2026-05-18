@@ -24,7 +24,7 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Iš pradžių aneksuotoje teritorijoje pradėtos kurti dvi gubernijos, tačiau tepraėjus tik metams sujungtos į vieną Lietuvos vardu (Litovskaja gubernija).'
+  teiginys: 'Aneksuotoje teritorijoje iš pradžių kurtos dvi gubernijos po metų buvo sujungtos į vieną Lietuvos guberniją.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -47,7 +47,7 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Iš pradžių aneksuotoje teritorijoje pradėtos kurti dvi gubernijos, tačiau tepraėjus tik metams sujungtos į vieną Lietuvos vardu (Litovskaja gubernija).'
+  santrauka: 'Aneksuotoje teritorijoje iš pradžių kurtos dvi gubernijos po metų buvo sujungtos į vieną Lietuvos guberniją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš pradžių aneksuotoje teritorijoje pradėtos kurti dvi gubernijos, tačiau

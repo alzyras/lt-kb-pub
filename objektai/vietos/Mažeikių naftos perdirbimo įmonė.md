@@ -18,7 +18,7 @@ Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai indu
 
 ## Teiginiai
 - t-001
-  teiginys: 'Septintąjį–aštuntąjį dešimtmetį sovietinės industrializacijos metu pastatyta Mažeikių naftos perdirbimo įmonė.'
+  teiginys: 'Septintąjį–aštuntąjį dešimtmetį per sovietinę industrializaciją Lietuvoje pastatyta Mažeikių naftos perdirbimo įmonė.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai indu
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Septintąjį–aštuntąjį dešimtmetį sovietinės industrializacijos metu pastatyta Mažeikių naftos perdirbimo įmonė.'
+  santrauka: 'Septintąjį–aštuntąjį dešimtmetį per sovietinę industrializaciją Lietuvoje pastatyta Mažeikių naftos perdirbimo įmonė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai

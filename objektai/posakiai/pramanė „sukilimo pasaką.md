@@ -19,13 +19,15 @@ Lenkija, nebegalėdama niekuo pateisinti tokio savo elgesio, pramanė „sukilim
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lenkija, nebegalėdama niekuo pateisinti tokio savo elgesio, pramanė „sukilimo" pasaką.'
+  teiginys: 'Lenkija, nebegalėdama pateisinti savo elgesio dėl Vilniaus užėmimo, pramanė „sukilimo“ pasaką apie Želigovskį.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lenkija, nebegalėdama niekuo pateisinti tokio savo elgesio, pramanė „sukilimo" pasaką.'
+  santrauka: 'Lenkija, nebegalėdama pateisinti savo elgesio dėl Vilniaus užėmimo, pramanė „sukilimo“ pasaką apie Želigovskį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lenkija, nebegalėdama
@@ -34,10 +36,10 @@ Lenkija, nebegalėdama niekuo pateisinti tokio savo elgesio, pramanė „sukilim
     ligovskis ir savavališkai užėmęs Vilnių. Jo kariuomenė (dvi
     pėstininkų ir viena raitelių divizija, kurios buvo vadinamos lie-
     tuvių bei gudų divizijomis), esą, buvusi taip pat sukilusi.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -75,3 +75,7 @@ Nenurodyta
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/asmenys/A. Hitleris]]
+- [[objektai/grupes/SA smogikai]]

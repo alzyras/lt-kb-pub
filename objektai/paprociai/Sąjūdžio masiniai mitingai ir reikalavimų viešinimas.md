@@ -62,7 +62,7 @@ tags: []
 - Praktika rodo Sąjūdžio akcijų atvirumą visiems Lietuvos gyventojams.
 
 ## Teiginiai
-- t-003
+- t-004
   teiginys: '1988 m. spalio pabaigoje Lietuvoje buvo įregistruota 1 200 LPS grupių, vienijusių 300 000 narių.'
   pagrindžia:
     - c-001
@@ -84,7 +84,7 @@ tags: []
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-004
 
 ## Šaltiniai ir įrodymai
 

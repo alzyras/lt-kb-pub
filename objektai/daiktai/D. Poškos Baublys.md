@@ -46,20 +46,20 @@ Jame buvo įtaisytas senienų muziejus.
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: D. Poška savo Baubly įtaisė senienų muziejų.
+- t-004
+  teiginys: 'D. Poška savo Baublyje įtaisė senienų muziejų.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 1812 m. Poška iš tuščiavidurio ąžuolo padarė tris trobeles, kuriose buvo įtaisyti muziejėliai.
+- t-005
+  teiginys: '1812 m. Poška iš tuščiavidurio ąžuolo padarė tris trobeles, kuriose buvo įtaisyti muziejėliai.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: Šios trobelės dar tebestovėjo Bijotuose, paliai Skaudvilę.
+- t-006
+  teiginys: 'D. Poškos iš tuščiavidurio ąžuolo padarytos trobelės tebestovėjo Bijotuose, paliai Skaudvilę.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -67,7 +67,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Tiesiogiai mini Baublį kaip senienų muziejaus vietą.
+  santrauka: 'D. Poška savo Baublyje įtaisė senienų muziejų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, buvo renkamos se-
@@ -76,29 +76,29 @@ Nenurodyta
     Baubly įtaisė net senienų mu-
     ziejų. Jis taip pat bandė rašyti
     ir Lietuvos istoriją.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-002
-  santrauka: Papildo Baublio aprašą jo materialia kilme ir 1812 m. datavimu.
+  santrauka: '1812 m. Poška iš tuščiavidurio ąžuolo padarė tris trobeles, kuriose buvo įtaisyti muziejėliai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1812 m. Poška iš tuščiavidurio ąžuolo
     padarė 3 trobeles, kuriose buvo įtaisyti
     muziejėliai; Bijotuose, paliai Skaud-
     vilę, jos dar tebestovi.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Dalį teiginio sudaro iliustracijos antraštė, bet ji pateikia konkrečią medžiaginę informaciją ir datą.'
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-    - t-003
+    - t-005
+    - t-006
 
 ## Ryšiai
 ### Laikotarpiai

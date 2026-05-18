@@ -43,13 +43,13 @@ Pranciškus Skorina vadinamas pirmuoju Lietuvos spaustuvininku; jis Prahoje pare
 - Rusėnų Biblija
 
 ## Teiginiai
-- t-005
+- t-007
   teiginys: 'Pranciškus Skorina vadinamas pirmuoju Lietuvos spaustuvininku.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-006
+- t-008
   teiginys: 'Pranciškus Skorina buvo iš rusėnų kultūrinės aplinkos kilęs pirmasis Lietuvos spaustuvininkas, gimęs Polocko pirklių šeimoje.'
   pagrindžia:
     - c-001
@@ -71,8 +71,8 @@ Pranciškus Skorina vadinamas pirmuoju Lietuvos spaustuvininku; jis Prahoje pare
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-    - t-006
+    - t-007
+    - t-008
 
 ## Ryšiai
 ### Laikotarpiai

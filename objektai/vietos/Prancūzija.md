@@ -20,17 +20,21 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją.'
+  teiginys: 'Į Prancūziją, kaip ir į Vokietiją bei Italiją, vykdavo mokytis tie, kurie nesiruošė dvasininkais.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Atvykęs ir vainikavęsis Krokuvoje, jis savo pažadų nepaisė, vedybas su Ona vis atidėliojo ir svajojo valdyti taip, kaip buvo valdoma Prancūzija, t.'
+  teiginys: 'Prancūzija minima kaip absoliutinio valdymo pavyzdys, kuriuo norėjo sekti Krokuvoje vainikuotas valdovas.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją.'
+  santrauka: 'Į Prancūziją, kaip ir į Vokietiją bei Italiją, vykdavo mokytis tie, kurie nesiruošė dvasininkais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     aukštojo mokslo, turėdavo vykti į užsienį. Tie, kurie ruošėsi dvasi-
@@ -39,15 +43,15 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     Italiją ir Prancūziją. Kadangi į tolimuosius kraštus tegalėjo
     vykti mokytis tik turtingųjų bajorų vaikai, todėl mokytų žmo-
     nių buvo nedaug.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Atvykęs ir vainikavęsis Krokuvoje, jis savo pažadų nepaisė, vedybas su Ona vis atidėliojo ir svajojo valdyti taip, kaip buvo valdoma Prancūzija, t.'
+  santrauka: 'Prancūzija minima kaip absoliutinio valdymo pavyzdys, kuriuo norėjo sekti Krokuvoje vainikuotas valdovas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Atvykęs ir vainikavęsis
@@ -57,15 +61,14 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     svajojo valdyti taip, kaip
     buvo valdoma Prancūzi-
     ja, t. y. absoliutiškai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Italija]]
-- [[objektai/vietos/Vokietija]]

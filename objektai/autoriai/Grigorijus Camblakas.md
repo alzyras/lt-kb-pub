@@ -38,25 +38,25 @@ tags:
 Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės teologų; Vytautas jį paskyrė į LDK stačiatikių metropoliją, o G. Camblako vadovaujama delegacija Konstance iškėlė visuotinės bažnyčių unijos idėją.
 
 ## Teiginiai
-- t-005
+- t-009
   teiginys: 'Vytautas paskyrė Grigorijų Camblaką į LDK stačiatikių metropoliją.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-006
-  teiginys: 'Grigorijus Camblakas buvo vadinamas vienu žymiausių to meto stačiatikybės teologų.'
+- t-010
+  teiginys: 'Grigorijus Camblakas buvo vienas žymiausių to meto stačiatikybės teologų.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-007
-  teiginys: 'G. Camblako vadovaujama LDK stačiatikių delegacija Konstance iškėlė visuotinės bažnyčių unijos idėją.'
+- t-011
+  teiginys: 'Grigorijaus Camblako vadovaujama LDK stačiatikių delegacija Konstance iškėlė visuotinės bažnyčių unijos idėją.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-008
+- t-012
   teiginys: 'Vytautas Naugarduke sušaukė LDK stačiatikių vyskupų suvažiavimą, įkūrė metropoliją ir į ją paskyrė Grigorijų Camblaką.'
   pagrindžia:
     - c-001
@@ -83,10 +83,10 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-    - t-006
-    - t-007
-    - t-008
+    - t-009
+    - t-010
+    - t-011
+    - t-012
 
 ## Ryšiai
 ### Teminiai klasteriai

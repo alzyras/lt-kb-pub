@@ -21,17 +21,15 @@ Kadangi jis buvo Lenkijos karaliaus lenininkas, tai negalėjo labai varžyti Lie
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kadangi jis buvo Lenkijos karaliaus lenininkas, tai negalėjo labai varžyti Lietuvos prekybos.'
+  teiginys: 'Prūsų kunigaikštis buvo Lenkijos karaliaus lenininkas, todėl negalėjo smarkiai varžyti Lietuvos prekybos.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Po karų prekyba Nemunu dar labiau pasunkėjo, nes Prūsų kunigaikštis, atsipalaidavęs nuo leninės priklausomybės (1660 m.), muitų tvarkyme jau nebepriklausė karaliaus.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kadangi jis buvo Lenkijos karaliaus lenininkas, tai negalėjo labai varžyti Lietuvos prekybos.'
+  santrauka: 'Prūsų kunigaikštis buvo Lenkijos karaliaus lenininkas, todėl negalėjo smarkiai varžyti Lietuvos prekybos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nemuno žiotys buvo Prūsų kunigaikščio
@@ -43,24 +41,10 @@ Kadangi jis buvo Lenkijos karaliaus lenininkas, tai negalėjo labai varžyti Lie
     Nemunu dar labiau pasunkėjo, nes Prūsų kunigaikštis, atsipa-
     laidavęs nuo leninės priklausomybės (1660 m.), muitų tvarkyme
     jau nebepriklausė karaliaus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Po karų prekyba Nemunu dar labiau pasunkėjo, nes Prūsų kunigaikštis, atsipalaidavęs nuo leninės priklausomybės (1660 m.), muitų tvarkyme jau nebepriklausė karaliaus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Po karų prekyba Nemunu dar labiau pasunkėjo, nes Prūsų kunigaikštis, atsipa-
-    laidavęs nuo leninės priklausomybės (1660 m.), muitų tvarkyme
-    jau nebepriklausė karaliaus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

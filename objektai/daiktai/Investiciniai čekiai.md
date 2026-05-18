@@ -58,31 +58,31 @@ Naudoti privatizuojamam turtui įsigyti, parduoti arba patikėti investicinėms 
 Nenurodyta
 
 ## Teiginiai
-- t-006
-  teiginys: 'Investiciniais čekiais pirktas privatus turtas buvo naudojamas pradiniam kapitalui įsigyti.'
+- t-011
+  teiginys: 'Už investicinius čekius pirktas privatus turtas buvo vienas iš pradinio kapitalo įsigijimo šaltinių.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-007
+- t-012
   teiginys: 'Šalies piliečiams buvo sudarytos galimybės įsigyti privatizuojamo valstybės turto už investicinius čekius, bet tinkamai tuo pasinaudojo ne visi.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-008
-  teiginys: 'Investicinius čekius patikėjusiems asmenims nepalikta garantijų.'
+- t-013
+  teiginys: 'Investicinius čekius bendrovėms patikėjusiems asmenims nebuvo palikta garantijų.'
   pagrindžia:
     - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-009
+- t-014
   teiginys: 'Daugelis gyventojų investicinius čekius pardavė ir nesugebėjo privatizuoti savo gyvenamojo būsto.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-010
+- t-015
   teiginys: 'Investicinius čekius patikėjusiems asmenims nebuvo palikta garantijų, kai privatizavimui kūrėsi žemės ūkio akcinės ir investicinės bendrovės.'
   pagrindžia:
     - c-004
@@ -91,7 +91,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Investiciniais čekiais pirktas privatus turtas buvo naudojamas pradiniam kapitalui įsigyti.'
+  santrauka: 'Už investicinius čekius pirktas privatus turtas buvo vienas iš pradinio kapitalo įsigijimo šaltinių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tam reikėjo
@@ -104,7 +104,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-011
 - c-002
   santrauka: 'Šalies piliečiams buvo sudarytos galimybės įsigyti privatizuojamo valstybės turto už investicinius čekius, bet tinkamai tuo pasinaudojo ne visi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -118,7 +118,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
+    - t-012
 - c-003
   santrauka: 'Daugelis gyventojų investicinius čekius pardavė ir nesugebėjo privatizuoti savo gyvenamojo būsto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -133,7 +133,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-009
+    - t-014
 - c-004
   santrauka: 'Investicinius čekius patikėjusiems asmenims nebuvo palikta garantijų, kai privatizavimui kūrėsi žemės ūkio akcinės ir investicinės bendrovės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -150,9 +150,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-010
+    - t-015
 - c-005
-  santrauka: 'Investicinius čekius patikėjusiems asmenims nepalikta garantijų.'
+  santrauka: 'Investicinius čekius bendrovėms patikėjusiems asmenims nebuvo palikta garantijų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Privatizuojamam turtui įsigyti
@@ -165,7 +165,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-008
+    - t-013
 
 ## Šaltiniai ir įrodymai
 

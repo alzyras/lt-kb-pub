@@ -41,13 +41,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Vilniaus žinyčios sienoje būdavo įmūrijama paženklinta plyta, kad būtų žinomi praėjusių metų skaitliai.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Paskuojoji plyta turėjo dvikežį skersį, o ženklas buvo siunčiamas didžiajam kunigaikščiui.'
   pagrindžia:
     - c-002
@@ -56,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Vilniaus žinyčios sienoje būdavo įmūrijama paženklinta plyta, kad būtų žinomi praėjusių metų skaitliai.
+  santrauka: 'Vilniaus žinyčios sienoje būdavo įmūrijama paženklinta plyta, kad būtų žinomi praėjusių metų skaitliai.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Ant tų rūmų buvęs apvalus
@@ -97,9 +97,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Paskuojoji plyta turėjo dvikežį skersį, o ženklas buvo siunčiamas didžiajam kunigaikščiui.
+  santrauka: 'Paskuojoji plyta turėjo dvikežį skersį, o ženklas buvo siunčiamas didžiajam kunigaikščiui.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tos plytos, sako minavotas raštininkas, po truputį buvusios jo amžiuje
@@ -114,4 +114,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004

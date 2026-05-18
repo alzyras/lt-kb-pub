@@ -32,26 +32,10 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Po ilgų derybų buvo sudaryta sutartis (1561 m.), kuria Livonija pasidavė Zigmantui Augustui, kaip didžiajam Lietuvos kunigaikščiui; nustatyti ryšį su Lenkija buvo palikta vėlesniam laikui.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Po ilgų derybų buvo sudaryta sutartis (1561 m.), kuria Livonija pasidavė Zigmantui Augustui, kaip didžiajam Lietuvos kunigaikščiui; nustatyti ryšį su Lenkija buvo palikta vėlesniam laikui.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Po ilgų derybų buvo sudaryta sutartis (1561 m.), kuria Livonija pasidavė
-    Zigmantui Augustui, kaip didžiajam Lietuvos kunigaikščiui; nustatyti ryšį
-    su Lenkija buvo palikta vėlesniam laikui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Ryšiai
 ### Laikotarpiai

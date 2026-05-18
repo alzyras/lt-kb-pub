@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Mirus senovės kariui, jis kartu su žirgu būdavo deginamas ant rogo.'
   pagrindžia:
     - c-001
@@ -50,7 +50,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Mirus senovės kariui, jis kartu su žirgu būdavo deginamas ant rogo.
+  santrauka: 'Mirus senovės kariui, jis kartu su žirgu būdavo deginamas ant rogo.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     kaipogi senovėj
@@ -59,11 +59,11 @@ Nenurodyta
     save atvesti ir taip, veizėdami į jį, kaipo į savo draugą laimės ir nelaimės, numirė.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Pastabos
 

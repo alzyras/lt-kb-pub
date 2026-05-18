@@ -22,6 +22,8 @@ Prasidėjus sukilimui Lenkijoje, po poros mėnesių ir Lietuvoje susidarė revol
   teiginys: 'Prasidėjus sukilimui Lenkijoje, po poros mėnesių ir Lietuvoje susidarė revoliucinis komitetas, pasivadinęs Lietuvos Provincijos Valdymo Skyrium.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -32,10 +34,10 @@ Prasidėjus sukilimui Lenkijoje, po poros mėnesių ir Lietuvoje susidarė revol
     poros mėnesių ir Lietuvoje susidarė revoliucinis komitetas, pa-
     sivadinęs Lietuvos Provincijos Valdymo Sky-
     rium.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -19,22 +19,24 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '1904 m. dr. Gaigalaičio buvo įkurta Klaipėdoje tikybinė lietuvių draugija, vardu „Sandara", kuri irgi tebegyvuoja, jungdama viso krašto lietuvius.'
+  teiginys: '1904 m. dr. Gaigalaitis Klaipėdoje įkūrė tikybinę lietuvių draugiją „Sandara“, jungusią viso krašto lietuvius.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1904 m. dr. Gaigalaičio buvo įkurta Klaipėdoje tikybinė lietuvių draugija, vardu „Sandara", kuri irgi tebegyvuoja, jungdama viso krašto lietuvius.'
+  santrauka: '1904 m. dr. Gaigalaitis Klaipėdoje įkūrė tikybinę lietuvių draugiją „Sandara“, jungusią viso krašto lietuvius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1904 m. dr. Gaigalaičio buvo įkurta Klaipėdoje
     tikybinė lietuvių draugija, vardu „Sandara", kuri irgi tebe-
     gyvuoja, jungdama viso krašto lietuvius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

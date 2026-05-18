@@ -18,36 +18,40 @@ Konopczyński, Liberum veto (1918);. Konopczyński, Polska a Szwecja (1924);.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Konopczyński, Liberum veto (1918);.'
+  teiginys: 'W. Konopczyński yra nurodytas kaip 1918 m. darbo „Liberum veto“ autorius.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Konopczyński, Polska a Szwecja (1924);.'
+  teiginys: 'W. Konopczyński yra nurodytas kaip 1924 m. darbo „Polska a Szwecja“ autorius.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Konopczyński, Liberum veto (1918);.'
+  santrauka: 'W. Konopczyński yra nurodytas kaip 1918 m. darbo „Liberum veto“ autorius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     W. Konopczyński, Liberum veto (1918);
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Konopczyński, Polska a Szwecja (1924);.'
+  santrauka: 'W. Konopczyński yra nurodytas kaip 1924 m. darbo „Polska a Szwecja“ autorius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _W. Konopczyński,_ Polska a Szwecja (1924);
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

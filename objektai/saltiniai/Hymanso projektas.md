@@ -21,21 +21,29 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '3 d. pateikė jau nebe diskusijų bazę, bet patį susitarimo projektą.'
+  teiginys: 'Hymansas rugsėjo 3 d. pateikė patį susitarimo projektą, o ne diskusijų bazę.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Klaipėdos krašto klausimas buvo iškeltas ir Hymanso projekto svarstymuose, kurių metu paaiškėjo, kad krašto prijungimas prie Lietuvos galėjo būti viena iš to projekto priėmimo perspektyvų.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
   teiginys: '1922 metų rudenį, Hymanso projektui žuvus, didžiosios valstybės sudarė komisiją būsimam Klaipėdos krašto statutui svarstyti.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: '3 d. pateikė jau nebe diskusijų bazę, bet patį susitarimo projektą.'
+  santrauka: 'Hymansas rugsėjo 3 d. pateikė patį susitarimo projektą, o ne diskusijų bazę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvos vyriausybė sutiko tęsti derybas, bet tiktai sugrą-
@@ -54,11 +62,11 @@ tags:
     pridėtas protokolas, kurs, tarp kito ko, numatė, kad Vilniaus
     kantono seimas turės pasisakyti dėl to Lietuvos ir Lenkijos
     susitarimo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -69,11 +77,11 @@ tags:
     jekto svarstymuose, kurių metu paaiškėjo, kad krašto prijun-
     gimas prie Lietuvos galėjo būti viena iš to projekto priėmimo
     perspektyvų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
@@ -83,10 +91,10 @@ tags:
     1922 metų
     rudenį, Hymanso projektui žuvus, didžiosios valstybės sudarė
     komisiją būsimam Klaipėdos krašto statutui svarstyti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003

@@ -37,7 +37,7 @@ Politinis-publicistinis krašto pavadinimas, taikytas Lietuvos Respublikai lenki
 Pavadinimas aiškinamas kartu su Vidurinės Lietuvos ir Minsko Lietuvos sampratomis.
 
 ## Teiginiai
-- t-003
+- t-004
   teiginys: 'Remiantis tokia lenkiška Lietuvos samprata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių tarmė – lietuvių kalba.'
   pagrindžia:
     - c-001
@@ -58,7 +58,7 @@ Pavadinimas aiškinamas kartu su Vidurinės Lietuvos ir Minsko Lietuvos samprato
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-004
 
 ## Šaltiniai ir įrodymai
 

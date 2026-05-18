@@ -21,13 +21,15 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaikščiai; atvyko daugybė Vytauto priklausomų rusų kunigaikščių; pagaliau atvyko pats imperatorius Zigmantas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaikščių atstovų.'
+  teiginys: 'Į suvažiavimą atvyko imperatorius Zigmantas, popiežiaus legatas ir Vokietijos miestų bei kunigaikščių atstovai.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaikščiai; atvyko daugybė Vytauto priklausomų rusų kunigaikščių; pagaliau atvyko pats imperatorius Zigmantas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaikščių atstovų.'
+  santrauka: 'Į suvažiavimą atvyko imperatorius Zigmantas, popiežiaus legatas ir Vokietijos miestų bei kunigaikščių atstovai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės,
@@ -36,11 +38,11 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
     tas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaikš-
     čių atstovų. Suvažiavimo šeimininkas, Vytautas, turėjo progos
     parodyti savo vaišingumą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

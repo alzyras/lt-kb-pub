@@ -31,7 +31,7 @@ tags:
 Žemaičių medininkai šiame šaltinyje pateikiami kaip atspari ir pajūrį ginanti žemaičių grupė.
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Žemaičių medininkai šiame šaltinyje pateikiami kaip atspari ir pajūrį ginanti žemaičių grupė.'
   pagrindžia:
     - c-001
@@ -41,7 +41,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Žemaičių medininkai šiame šaltinyje pateikiami kaip atspari ir pajūrį ginanti žemaičių grupė.
+  santrauka: 'Žemaičių medininkai šiame šaltinyje pateikiami kaip atspari ir pajūrį ginanti žemaičių grupė.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Vieni tiktai Žemaičių medininkai, arba šios
@@ -56,9 +56,9 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 - c-002
-  santrauka: Žemaičių medininkai šiame šaltinyje pateikiami kaip atspari ir pajūrį ginanti žemaičių grupė.
+  santrauka: 'Žemaičių medininkai šiame šaltinyje pateikiami kaip atspari ir pajūrį ginanti žemaičių grupė.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Vienok Žemaičių
@@ -71,7 +71,7 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

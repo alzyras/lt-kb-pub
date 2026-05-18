@@ -22,6 +22,8 @@ Visą reformą pagal manifestą ir papildomuosius įsakymus (ukazus) reikėjo at
   teiginys: 'Visą reformą pagal manifestą ir papildomuosius įsakymus (ukazus) reikėjo atlikti per 2 metus (tuo laiku valstiečiai dar turėjo eiti baudžiavą).'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -31,10 +33,10 @@ Visą reformą pagal manifestą ir papildomuosius įsakymus (ukazus) reikėjo at
     Visą reformą pagal
     manifestą ir papildomuosius įsakymus (ukazus) reikėjo atlikti
     per 2 metus (tuo laiku valstiečiai dar turėjo eiti baudžiavą).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

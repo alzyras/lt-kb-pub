@@ -27,7 +27,7 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Pagal J. Pilsudskio sumanymą Vilnių užėmė ne Lenkijos kariuomenė, o L. Želigovskio vadovaujami daliniai.'
+  teiginys: 'Pagal J. Pilsudskio sumanymą Vilnių užėmė ne Lenkijos kariuomenė, o L. Želigovskio vadovaujami Vilnijos daliniai.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -56,7 +56,7 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Pagal J. Pilsudskio sumanymą Vilnių užėmė ne Lenkijos kariuomenė, o L. Želigovskio vadovaujami daliniai.'
+  santrauka: 'Pagal J. Pilsudskio sumanymą Vilnių užėmė ne Lenkijos kariuomenė, o L. Želigovskio vadovaujami Vilnijos daliniai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagal klastingą J. Pilsudskio sumanymą

@@ -18,7 +18,7 @@ Anot vieno budelio – „buvo baisu šaudyti, bet maniau, kad tai reikalinga Li
 
 ## Teiginiai
 - t-001
-  teiginys: 'Anot vieno budelio – „buvo baisu šaudyti, bet maniau, kad tai reikalinga Lietuvos nepriklausomybei“, juoba kad okupantai įsakinėjo ir skatino tai daryti.'
+  teiginys: 'Vienas budelis sakė manęs, kad šaudymas buvo reikalingas Lietuvos nepriklausomybei, nes okupantai tai įsakė ir skatino.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Anot vieno budelio – „buvo baisu šaudyti, bet maniau, kad tai reikalinga Li
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Anot vieno budelio – „buvo baisu šaudyti, bet maniau, kad tai reikalinga Lietuvos nepriklausomybei“, juoba kad okupantai įsakinėjo ir skatino tai daryti.'
+  santrauka: 'Vienas budelis sakė manęs, kad šaudymas buvo reikalingas Lietuvos nepriklausomybei, nes okupantai tai įsakė ir skatino.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Anot vieno budelio – „buvo baisu šaudyti, bet maniau, kad tai reikalinga

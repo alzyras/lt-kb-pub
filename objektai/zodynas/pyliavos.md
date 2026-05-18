@@ -20,7 +20,7 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Užimdami miestelius partizanai naikino valsčiaus dokumentus, mobilizacijos sąrašus ir pyliavų žiniaraščius.'
+  teiginys: 'Partizanams užėmus miestelius, buvo naikinami valsčiaus dokumentai, mobilizacijos sąrašai ir pyliavų žiniaraščiai.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -32,7 +32,7 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Užimdami miestelius partizanai naikino valsčiaus dokumentus, mobilizacijos sąrašus ir pyliavų žiniaraščius.'
+  teiginys: 'Partizanams užėmus miestelius, buvo naikinami valsčiaus dokumentai, mobilizacijos sąrašai ir pyliavų žiniaraščiai.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -40,7 +40,7 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Užimdami miestelius partizanai naikino valsčiaus dokumentus, mobilizacijos sąrašus ir pyliavų žiniaraščius.'
+  santrauka: 'Partizanams užėmus miestelius, buvo naikinami valsčiaus dokumentai, mobilizacijos sąrašai ir pyliavų žiniaraščiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     miestelius naikintos vietos įgulos, valsčiaus dokumentai, mobilizacijos

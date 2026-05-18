@@ -18,20 +18,24 @@ Lohmeyer, Gesch.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lohmeyer, Gesch.'
+  teiginys: 'K. Lohmeyerio veikalo „Geschichte von Ost- und Westpreussen“ pirmasis tomas išleistas 1908 m. ir apėmė laikotarpį iki 1411 m.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Lohmeyer, Gesch.'
+  santrauka: 'K. Lohmeyerio veikalo „Geschichte von Ost- und Westpreussen“ pirmasis tomas išleistas 1908 m. ir apėmė laikotarpį iki 1411 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _K. Lohmeyer,_ Gesch. von Ost- und Westpreussen, I (1908; iki 1411 m.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

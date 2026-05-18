@@ -25,7 +25,7 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Su stipriausi
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Su stipriausiais finansiškai ir organizacijų atžvilgiu JAV lietuviais daugiausia bendrauta per giminingas politines organizacijas, profesiškai ar tiesiog asmeniškai.'
+  teiginys: '1935 m. Pasaulio lietuvių kongresas Kaune parodė, kad dauguma užsienio lietuvių buvo artimi Lietuvai ir rūpinosi jos ateitimi.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -48,7 +48,7 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Su stipriausi
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Su stipriausiais finansiškai ir organizacijų atžvilgiu JAV lietuviais daugiausia bendrauta per giminingas politines organizacijas, profesiškai ar tiesiog asmeniškai.'
+  santrauka: '1935 m. Pasaulio lietuvių kongresas Kaune parodė, kad dauguma užsienio lietuvių buvo artimi Lietuvai ir rūpinosi jos ateitimi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Su stipriausiais finansiškai ir

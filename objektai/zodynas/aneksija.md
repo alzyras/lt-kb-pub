@@ -27,7 +27,7 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'J. Paleckio vadovaujama delegacija Maskvoje rugpjūčio 3 d. paprašė Lietuvą įtraukti į SSRS sudėtį, taip įforminant Lietuvos aneksiją.'
+  teiginys: 'J. Paleckio vadovaujama delegacija rugpjūčio 3 d. Maskvoje paprašė Lietuvą priimti į SSRS sudėtį, taip įforminant aneksiją.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -56,7 +56,7 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'J. Paleckio vadovaujama delegacija Maskvoje rugpjūčio 3 d. paprašė Lietuvą įtraukti į SSRS sudėtį, taip įforminant Lietuvos aneksiją.'
+  santrauka: 'J. Paleckio vadovaujama delegacija rugpjūčio 3 d. Maskvoje paprašė Lietuvą priimti į SSRS sudėtį, taip įforminant aneksiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Seime išrinkta 20 asmenų delegaci-

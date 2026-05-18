@@ -33,13 +33,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kadangi tuo metu Lietuvoje teko rūpintis, kad katalikybė pirmautų ne tik prieš naikinamą pagonybę, bet ir prieš rytų apeigų Bažnyčią, todėl Jogailos duotoje privilegijoje visos teisės pripažįstamos tik katalikams, o rytų apeigų krikščionys net suvaržomi.'
+  teiginys: 'Jogailos duotoje privilegijoje visos teisės buvo pripažintos tik katalikams, o rytų apeigų krikščionys suvaržyti.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kadangi tuo metu Lietuvoje teko rūpintis, kad katalikybė pirmautų ne tik prieš naikinamą pagonybę, bet ir prieš rytų apeigų Bažnyčią, todėl Jogailos duotoje privilegijoje visos teisės pripažįstamos tik katalikams, o rytų apeigų krikščionys net suvaržomi.'
+  santrauka: 'Jogailos duotoje privilegijoje visos teisės buvo pripažintos tik katalikams, o rytų apeigų krikščionys suvaržyti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kadangi tuo
@@ -50,11 +52,11 @@ Nenurodyta
     draudžiamos jungtuvės su jais, jei šie nepriima katalikybės. Kata-
     likų bajorams pirmą kartą Lietuvoje raštu nusakomos teisės ir
     pareigos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

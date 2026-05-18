@@ -20,13 +20,13 @@ Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose prad�
 
 ## Teiginiai
 - t-001
-  teiginys: 'M. Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu; draudimas galiojo iki 1904 m. pavasario.'
+  teiginys: 'M. Muravjovo nurodymu pradėtas lietuvių raštijos tradiciniu raidynu draudimas išplėstas visoje Rusijos imperijoje ir galiojo iki 1904 m. pavasario.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį atšauktas lietuvių spaudos lotyniškuoju raidynu draudimas, jį panaikinus greitai atsirado ir legaliai pačiame krašte leidžiama lietuvių spauda.'
+  teiginys: '1904 m. pavasarį atšaukus lietuvių spaudos lotyniškuoju raidynu draudimą, krašte greitai atsirado legaliai leidžiama lietuvių spauda.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -34,7 +34,7 @@ Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose prad�
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'M. Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu; draudimas galiojo iki 1904 m. pavasario.'
+  santrauka: 'M. Muravjovo nurodymu pradėtas lietuvių raštijos tradiciniu raidynu draudimas išplėstas visoje Rusijos imperijoje ir galiojo iki 1904 m. pavasario.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     M. Muravjovo
@@ -49,7 +49,7 @@ Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose prad�
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį atšauktas lietuvių spaudos lotyniškuoju raidynu draudimas, jį panaikinus greitai atsirado ir legaliai pačiame krašte leidžiama lietuvių spauda.'
+  santrauka: '1904 m. pavasarį atšaukus lietuvių spaudos lotyniškuoju raidynu draudimą, krašte greitai atsirado legaliai leidžiama lietuvių spauda.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį

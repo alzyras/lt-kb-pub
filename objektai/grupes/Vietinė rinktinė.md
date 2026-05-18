@@ -25,13 +25,13 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Vietinės rinktinės kariai neketino kariauti Vokietijos pusėje ir su ginklais bei amunicija ėmė skirstytis.'
+  teiginys: 'Vietinės rinktinės kariai neketino kariauti Vokietijos pusėje ir ėmė skirstytis su ginklais bei amunicija.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais lenkų Armija Krajova daliniais.'
+  teiginys: 'Vietinės rinktinės daliniai Vilnijoje susidūrė su ginkluotais lenkų Armijos Krajovos daliniais.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -56,7 +56,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Vietinės rinktinės kariai neketino kariauti Vokietijos pusėje ir su ginklais bei amunicija ėmė skirstytis.'
+  santrauka: 'Vietinės rinktinės kariai neketino kariauti Vokietijos pusėje ir ėmė skirstytis su ginklais bei amunicija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvių kariai neke-
@@ -69,7 +69,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais lenkų Armija Krajova daliniais.'
+  santrauka: 'Vietinės rinktinės daliniai Vilnijoje susidūrė su ginkluotais lenkų Armijos Krajovos daliniais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į

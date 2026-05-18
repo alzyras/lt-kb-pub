@@ -33,13 +33,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jis pats tuo tarpu pradėjo rūpintis, kad iš buvusių didžiosios Lietuvos kunigaikštijos žemių būtų sudaryta autonomiška valstybė; tam tikslui 1811 m. įteikė carui memorialą — kunigaikštijos sudarymo projektą.'
+  teiginys: '1811 m. Oginskis įteikė carui memorialą dėl autonomiškos valstybės sudarymo iš buvusių Lietuvos Didžiosios Kunigaikštijos žemių.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jis pats tuo tarpu pradėjo rūpintis, kad iš buvusių didžiosios Lietuvos kunigaikštijos žemių būtų sudaryta autonomiška valstybė; tam tikslui 1811 m. įteikė carui memorialą — kunigaikštijos sudarymo projektą.'
+  santrauka: '1811 m. Oginskis įteikė carui memorialą dėl autonomiškos valstybės sudarymo iš buvusių Lietuvos Didžiosios Kunigaikštijos žemių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jis pats tuo tarpu pradėjo
@@ -48,11 +50,11 @@ Nenurodyta
     kė carui memorialą — ku-
     nigaikštijos sudarymo pro-
     jektą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

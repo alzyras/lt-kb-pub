@@ -39,14 +39,20 @@ Nenurodyta
   teiginys: 'Karinė prievolė bajorijai nebuvo lengva: kasmet vieną ar keletą kartų tekdavo eiti į karą pačiam su savo ginklais, su savu arkliu ir su savo maistu.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Be karo tarnybos, bajorai turėjo dar ir kitų pareigų; jie turėjo statyti naujas ir taisyti senas pilis; be to, jų pareiga buvo ir saugoti pilis.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
   teiginys: 'Lietuvos bajorijos pareigos valstybei priklausydavo nuo jų valdomosios žemės.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -60,11 +66,11 @@ Nenurodyta
     luotų savo tarnų. Bajoras, kurs neatlikdavo karinės prievolės,
     netekdavo žemės, o jei karinės prievolės neatlikdavo neturtingas
     bajorėlis, tai jis turėdavo eiti valstiečio pareigas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -79,11 +85,11 @@ Nenurodyta
     kyti pravažiuojančius kunigaikščio pasiuntinius, parūpinti jiems
     arklių, vežimų. Jie turėjo išlaikyti ir kelionėje pas juos sustojantį
     kunigaikštį su visu jo dvaru.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
@@ -97,10 +103,10 @@ Nenurodyta
     ne tiek bajorijos, kiek sritinių kunigaikščių teisėmis. Lietuvos sri-
     tinės kunigaikštystės buvo laikomos ne tiek jas gavusio kunigaikš-
     čio nuosava valstybe, kiek administracine apygarda.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003

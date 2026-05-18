@@ -21,13 +21,15 @@ Užsitęsusio karo metu mirė vyskupas ir daugy bė pralotų; drauge su jais žu
 
 ## Teiginiai
 - t-001
-  teiginys: 'Užsitęsusio karo metu mirė vyskupas ir daugy bė pralotų; drauge su jais žuvo ir valdovų kapų vietos paslaptis jie neatrasti nė XVIII a.'
+  teiginys: 'Užsitęsusio karo metu mirė vyskupas ir daug pralotų, todėl žuvo valdovų kapų vietos paslaptis.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Užsitęsusio karo metu mirė vyskupas ir daugy bė pralotų; drauge su jais žuvo ir valdovų kapų vietos paslaptis jie neatrasti nė XVIII a.'
+  santrauka: 'Užsitęsusio karo metu mirė vyskupas ir daug pralotų, todėl žuvo valdovų kapų vietos paslaptis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Už-
@@ -39,10 +41,10 @@ Užsitęsusio karo metu mirė vyskupas ir daugy bė pralotų; drauge su jais žu
     jie neatrasti nė XVIII
     a. pabaigoj, perstatant
     katedrą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

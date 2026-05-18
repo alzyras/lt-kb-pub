@@ -32,7 +32,7 @@ Formulė pateikiama kaip patriotinė kovos ir ištvermės ašis, siejama su Vyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kova ir patriotizmas šiame tekste susiejami su formule „vardan tos Lietuvos“.'
+  teiginys: 'Vytauto didingumas turėjo stiprinti patriotizmą, praeities meilę ir jėgas kovoje „vardan tos Lietuvos“.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -40,7 +40,7 @@ Formulė pateikiama kaip patriotinė kovos ir ištvermės ašis, siejama su Vyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Formulė pateikiama kaip kovos už Lietuvos laisvę ir patriotizmo ašis.
+  santrauka: 'Vytauto didingumas turėjo stiprinti patriotizmą, praeities meilę ir jėgas kovoje „vardan tos Lietuvos“.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ir, apskritai, galime
@@ -52,7 +52,7 @@ Formulė pateikiama kaip patriotinė kovos ir ištvermės ašis, siejama su Vyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

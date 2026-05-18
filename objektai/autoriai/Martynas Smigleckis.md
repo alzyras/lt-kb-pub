@@ -39,8 +39,8 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
 - Logika
 
 ## Teiginiai
-- t-004
-  teiginys: 'Martyno Smigleckio „Logika“ 1618 m. pasiekė protestantiškąją Angliją ir ja rėmėsi Sorbonos bei Oksfordo daktarai.'
+- t-005
+  teiginys: 'Martyno Smigleckio 1618 m. „Logika“ pasiekė protestantiškąją Angliją, ja rėmėsi Sorbonos ir Oksfordo daktarai.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -48,7 +48,7 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Martyno Smigleckio „Logika“ 1618 m. pasiekė protestantiškąją Angliją ir ja rėmėsi Sorbonos bei Oksfordo daktarai.'
+  santrauka: 'Martyno Smigleckio 1618 m. „Logika“ pasiekė protestantiškąją Angliją, ja rėmėsi Sorbonos ir Oksfordo daktarai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilniaus universite-
@@ -63,7 +63,7 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai

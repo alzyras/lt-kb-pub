@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Maskvos kunigaikštienė į Maskvą atsivežė ir dalį Kristaus Kančios relikvijos.'
   pagrindžia:
     - c-001
@@ -50,7 +50,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Relikvijos dalis minima tarp brangių dovanų Maskvos kunigaikštienei.
+  santrauka: 'Maskvos kunigaikštienė į Maskvą atsivežė ir dalį Kristaus Kančios relikvijos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Mas­
@@ -61,8 +61,8 @@ Nenurodyta
     negavo^3 ).
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

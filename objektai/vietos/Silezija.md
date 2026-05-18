@@ -20,24 +20,26 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties Byčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo priverstas atsisakyti nuo sosto.'
+  teiginys: 'Silezijoje, ties Byčina, Maksimilijonas pralaimėjo mūšį, pateko į Zamoiskio nelaisvę ir atsisakė sosto.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties Byčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo priverstas atsisakyti nuo sosto.'
+  santrauka: 'Silezijoje, ties Byčina, Maksimilijonas pralaimėjo mūšį, pateko į Zamoiskio nelaisvę ir atsisakė sosto.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Maksimilijonas
     dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties
     Byčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo
     priverstas atsisakyti nuo sosto.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

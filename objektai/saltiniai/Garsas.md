@@ -19,22 +19,26 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '„Garso Amerikos Lietuvių" antraštė.'
+  teiginys: 'Laikraštis 1892–1894 m. ėjo „Garso“ vardu, o 1894–1899 m. buvo leidžiamas dešimties kunigų bendrovės.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: '„Garso Amerikos Lietuvių" antraštė.'
+  santrauka: 'Laikraštis 1892–1894 m. ėjo „Garso“ vardu, o 1894–1899 m. buvo leidžiamas dešimties kunigų bendrovės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     „Garso Amerikos Lietuvių" antraštė.
     (Šis laikraštis 1892—4 m. ėjo tik „Garso" vardu ir buvo kairesnis, o
     1894—9 m. buvo leidžiamas 10-ties kunigų bendrovės).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

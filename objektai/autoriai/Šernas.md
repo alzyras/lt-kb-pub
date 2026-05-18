@@ -19,17 +19,21 @@ Tik vienas Šernas savo „Lietuviškoje Ceitungoje" buvo pradėjęs spausdinti 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tik vienas Šernas savo „Lietuviškoje Ceitungoje" buvo pradėjęs spausdinti patriotiškus straipsnius - apie garbingą lietuvių praeitį ir apie sunkų dabartinį svetimųjų jungą.'
+  teiginys: 'Šernas „Lietuviškoje Ceitungoje“ pradėjo spausdinti patriotiškus straipsnius apie lietuvių praeitį ir svetimųjų jungą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: '1878 m. Šerno redaguojamoji „Lietuviška Ceitunga" net ėmė skelbti bendrumą su Didžiosios Lietuvos lietuviais (mat, joje buvo pradėję rašyti ir vėlesnieji „Aušros" bendradarbiai).'
+  teiginys: '1878 m. Šerno redaguojama „Lietuviška Ceitunga“ ėmė skelbti bendrumą su Didžiosios Lietuvos lietuviais.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tik vienas Šernas savo „Lietuviškoje Ceitungoje" buvo pradėjęs spausdinti patriotiškus straipsnius - apie garbingą lietuvių praeitį ir apie sunkų dabartinį svetimųjų jungą.'
+  santrauka: 'Šernas „Lietuviškoje Ceitungoje“ pradėjo spausdinti patriotiškus straipsnius apie lietuvių praeitį ir svetimųjų jungą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tik vienas Šernas savo „Lie-
@@ -51,15 +55,15 @@ Tik vienas Šernas savo „Lietuviškoje Ceitungoje" buvo pradėjęs spausdinti 
     (autorius giesmės „Lie-
     tuviai esame mes gi-
     mę").
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '1878 m. Šerno redaguojamoji „Lietuviška Ceitunga" net ėmė skelbti bendrumą su Didžiosios Lietuvos lietuviais (mat, joje buvo pradėję rašyti ir vėlesnieji „Aušros" bendradarbiai).'
+  santrauka: '1878 m. Šerno redaguojama „Lietuviška Ceitunga“ ėmė skelbti bendrumą su Didžiosios Lietuvos lietuviais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1878 m. Šerno redaguojamoji „Lietuviška Ceitunga"
@@ -68,11 +72,11 @@ Tik vienas Šernas savo „Lietuviškoje Ceitungoje" buvo pradėjęs spausdinti 
     biai). Bet prieš radikalųjį jos tautiškumą kilo nepasitenkinimas,
     ir redaktorius vėl pavertė ją paprastu informaciniu laikraščiu be
     jokios ideologijos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

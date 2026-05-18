@@ -1,9 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Ignotas Masalskis'
+pavadinimas: 'Ignotas Masalskis (vyskupas, XVIII–XIX a.)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Ignotas Masalskis'
+aliases:
+  - 'Ignotas Masalskis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -29,7 +31,7 @@ tags:
   - sukilimas
   - vyskupas
 ---
-# Ignotas Masalskis
+# Ignotas Masalskis (vyskupas, XVIII–XIX a.)
 
 ## Santrauka
 
@@ -43,7 +45,7 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '1769 m. Martynas Knakfusas tapo Vilniaus vyskupo Ignoto Masalskio architektu ir pradėjo statyti vyskupo rūmus Verkiuose.'
+  teiginys: 'Vilniaus vyskupui Ignotui Masalskiui architektas Martynas Knakfusas 1769 m. pradėjo statyti rūmus Verkiuose.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -66,7 +68,7 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '1769 m. Martynas Knakfusas tapo Vilniaus vyskupo Ignoto Masalskio architektu ir pradėjo statyti vyskupo rūmus Verkiuose.'
+  santrauka: 'Vilniaus vyskupui Ignotui Masalskiui architektas Martynas Knakfusas 1769 m. pradėjo statyti rūmus Verkiuose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1769 m. vienas iš klasicizmo architektūros

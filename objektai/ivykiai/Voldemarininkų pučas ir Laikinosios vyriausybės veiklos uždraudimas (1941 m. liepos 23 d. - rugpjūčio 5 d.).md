@@ -36,7 +36,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Rugpjūčio 5 d. naciai uždraudė Laikinosios vyriausybės veiklą, o rugsėjo 26 d. uždarė LAF.'
+  teiginys: '1941 m. rugsėjo 26 d., daugumai ministrų atsisakius tapti tarėjais, naciai uždarė LAF.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -61,7 +61,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Rugpjūčio 5 d. naciai uždraudė Laikinosios vyriausybės veiklą, o rugsėjo 26 d. uždarė LAF.'
+  santrauka: '1941 m. rugsėjo 26 d., daugumai ministrų atsisakius tapti tarėjais, naciai uždarė LAF.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Daugumai ministrų atsisakius tapti

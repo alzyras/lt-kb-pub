@@ -32,7 +32,7 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
 
 ## Teiginiai
 - t-001
-  teiginys: 'Formulė apibendrina Vytauto kovą dėl teisių kaip tikslą, pateisinusį priemones.'
+  teiginys: 'Vytautas dėl savo teisių kovojo ne visai teisėtu būdu, o jo tikslas pateisino priemones.'
   pagrindžia:
     - c-001
     - c-002
@@ -41,28 +41,28 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Santraukinė frazė įterpiama po teiginio, kad kova dėl teisių vyko ne visai teisėtu būdu.
+  santrauka: 'Vytautas dėl savo teisių kovojo ne visai teisėtu būdu, o jo tikslas pateisino priemones.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jis kovojo dėl sa­
     vo teisių, bet ne visai teisėtu būdu. Tikslas pateisino prie­
     mones.
   citata_rodoma: ""
-  teiginio_tipas: vertinimas
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Gretima pastraipa paaiškina, kad kova truko ilgai ir vyko ne tik atvirai, bet ir aplinkiniais keliais.
+  santrauka: 'Vytautas dėl savo teisių kovojo ne visai teisėtu būdu, o jo tikslas pateisino priemones.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ta kova trūko dešimtį metų. Ji ėjo ne tik atvirame
     lauke, bet dažnai ir aplinkiniais keliais.
   citata_rodoma: ""
-  teiginio_tipas: interpretacija
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:

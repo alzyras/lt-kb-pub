@@ -19,7 +19,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '„Idealioji Lietuva“ įsivaizduojama kaip kultūrinė erdvė, kurioje kurtų Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.'
+  teiginys: '„Idealioji Lietuva“ įsivaizduota kaip kultūrinė erdvė, kurioje filmus ir spektaklius kurtų Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '„Idealioji Lietuva“ įsivaizduojama kaip kultūrinė erdvė, kurioje kurtų Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.'
+  santrauka: '„Idealioji Lietuva“ įsivaizduota kaip kultūrinė erdvė, kurioje filmus ir spektaklius kurtų Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria

@@ -40,7 +40,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Pasakojime apie prūsų dievus aprašytas jų kultas, kulto tarnų hierarchija ir vaidilutės.'
+  teiginys: 'Pasakojime apie prūsų dievų trejybę aprašytas jų kultas, kulto tarnų hierarchija ir vaidilutės.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -61,7 +61,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Pasakojime apie prūsų dievus aprašytas jų kultas, kulto tarnų hierarchija ir vaidilutės.'
+  santrauka: 'Pasakojime apie prūsų dievų trejybę aprašytas jų kultas, kulto tarnų hierarchija ir vaidilutės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Aprašomas šių

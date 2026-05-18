@@ -18,7 +18,7 @@ Dar didesnio atgarsio susilaukė vadinamasis 45 pabaltijiečių memorandumas, ad
 
 ## Teiginiai
 - t-001
-  teiginys: '45 pabaltijiečių memorandumas buvo adresuotas JT Generaliniam sekretoriui Kurtui Valdheimui ir kelioms valstybėms bei vyriausybėms.'
+  teiginys: 'Kurtas Valdheimas buvo JT generalinis sekretorius, kuriam adresuotas 45 pabaltijiečių memorandumas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Dar didesnio atgarsio susilaukė vadinamasis 45 pabaltijiečių memorandumas, ad
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '45 pabaltijiečių memorandumas buvo adresuotas JT Generaliniam sekretoriui Kurtui Valdheimui ir kelioms valstybėms bei vyriausybėms.'
+  santrauka: 'Kurtas Valdheimas buvo JT generalinis sekretorius, kuriam adresuotas 45 pabaltijiečių memorandumas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dar didesnio atgarsio susilaukė va-

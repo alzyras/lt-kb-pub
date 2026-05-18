@@ -31,13 +31,13 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lucko suvažiavimas turėjo įtvirtinti Lietuvos monarchiją Europos politinėje sistemoje.'
+  teiginys: 'Lucko suvažiavimas siejamas su Vytauto politiniu tikslu įtvirtinti Lietuvos monarchiją Europos politinėje sistemoje.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Nors maksimalus planas nebuvo įgyvendintas, svarbiausią tikslą Vytauto politika pasiekė: atsilikusi ir izoliuota Lietuvos valstybė pašalino didžiuosius pavojus, įteisino savo egzistenciją, įžengė į Europą, pritapo prie jos ir joje išsilaikė.'
+  teiginys: 'Vytauto politika pašalino didžiuosius pavojus Lietuvos valstybei, įteisino jos egzistenciją ir įtvirtino ją Europoje.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -45,7 +45,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lucko suvažiavimas turėjo įtvirtinti Lietuvos monarchiją Europos politinėje sistemoje.'
+  santrauka: 'Lucko suvažiavimas siejamas su Vytauto politiniu tikslu įtvirtinti Lietuvos monarchiją Europos politinėje sistemoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lucko suvažiavimas logiškai užbaigė sudėtingą Vytauto politinį kelią,
@@ -61,7 +61,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Nors maksimalus planas nebuvo įgyvendintas, svarbiausią tikslą Vytauto politika pasiekė: atsilikusi ir izoliuota Lietuvos valstybė pašalino didžiuosius pavojus, įteisino savo egzistenciją, įžengė į Europą, pritapo prie jos ir joje išsilaikė.'
+  santrauka: 'Vytauto politika pašalino didžiuosius pavojus Lietuvos valstybei, įteisino jos egzistenciją ir įtvirtino ją Europoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors maksimalus planas nebuvo įgyvendintas, svarbiausią

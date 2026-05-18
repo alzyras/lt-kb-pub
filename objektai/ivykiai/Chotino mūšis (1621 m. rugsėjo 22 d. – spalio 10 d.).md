@@ -44,13 +44,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Chotino mūšis buvo gynybinio karo pavyzdys ir paskutinė Jono Karolio Chodkevičiaus pergalė.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Po Chotino mūšio Turkija pasirašė paliaubas, o 1623 m. taika atstatė sieną palei Dniestrą.'
   pagrindžia:
     - c-002
@@ -59,23 +59,24 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Chotino mūšis buvo gynybinio karo pavyzdys ir paskutinė Jono Karolio Chodkevičiaus pergalė.
+  santrauka: 'Chotino mūšis buvo gynybinio karo pavyzdys ir paskutinė Jono Karolio Chodkevičiaus pergalė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Šis laimėjimas - puikus gy-
+    priversdavo juos bėgti nuo gynybinių
+    įtvirtinimų. Šis laimėjimas - puikus gy-
     nybinio mūšio pavyzdys. Chotino mūšis
     tapo paskutine legendinio Lietuvos karve-
     džio Jono Karolio Chodkevičiaus pasiekta
     pergale.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Po Chotino mūšio Turkija pasirašė paliaubas, o 1623 m. taika atstatė sieną palei Dniestrą.
+  santrauka: 'Po Chotino mūšio Turkija pasirašė paliaubas, o 1623 m. taika atstatė sieną palei Dniestrą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     apsaugota nuo Turkijos kariuomenės įsi-
@@ -85,13 +86,13 @@ Nenurodyta
     1623 m. sudarytą taiką buvo atkurta siena
     tarp Abiejų Tautų Respublikos ir Turkijos,
     ėjusi palei Dniestro upę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

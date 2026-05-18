@@ -43,7 +43,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvai buvo grasinta prijungti Klaipėdos kraštą prie RSSFR Kaliningrado srities ir kurti Vilniaus regiono autonomiją.'
+  teiginys: 'Lietuvai grasinta prijungti Klaipėdos kraštą prie RSFSR Kaliningrado srities ir iš Vilniaus regiono sukurti autonomiją.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -51,7 +51,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvai buvo grasinta prijungti Klaipėdos kraštą prie RSSFR Kaliningrado srities ir kurti Vilniaus regiono autonomiją.'
+  santrauka: 'Lietuvai grasinta prijungti Klaipėdos kraštą prie RSFSR Kaliningrado srities ir iš Vilniaus regiono sukurti autonomiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Griebtasi šantažo – grasinta

@@ -24,7 +24,7 @@ Eidintas A. Eidintas A., Senn A.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'A. Eidintas kartu su A. E. Sennu ir V. Žaliu parengė leidinį „Lithuania in European Politics“.'
+  teiginys: 'A. Eidintas, A. E. Sennas ir V. Žalys yra leidinio „Lithuania in European Politics“ autoriai.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -44,7 +44,7 @@ Eidintas A. Eidintas A., Senn A.
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'A. Eidintas kartu su A. E. Sennu ir V. Žaliu parengė leidinį „Lithuania in European Politics“.'
+  santrauka: 'A. Eidintas, A. E. Sennas ir V. Žalys yra leidinio „Lithuania in European Politics“ autoriai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European
@@ -60,4 +60,3 @@ Eidintas A. Eidintas A., Senn A.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/E. Tuskenis]]
-- [[objektai/autoriai/Žalys V]]

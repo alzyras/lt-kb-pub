@@ -21,6 +21,8 @@ Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės d
   teiginys: 'Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės draugas ir artimas patarėjas Adomas Čartoriskis.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -30,10 +32,10 @@ Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės d
     Apygardos viršininku — kuratorium buvo pa-
     skirtas caro Aleksandro jaunystės draugas ir artimas patarėjas
     Adomas Čartoriskis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

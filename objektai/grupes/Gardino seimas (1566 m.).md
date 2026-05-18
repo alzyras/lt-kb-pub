@@ -20,13 +20,15 @@ Tuo būdu tais pat 1566 m. Gardino seime buvo sudaryta nauja sutartis, kuria Liv
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tuo būdu tais pat 1566 m. Gardino seime buvo sudaryta nauja sutartis, kuria Livonija pasidarė Lietuvos provincija su kunigaikštystės titulu.'
+  teiginys: '1566 m. Gardino seime sudaryta sutartimi Livonija tapo Lietuvos provincija su kunigaikštystės titulu.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tuo būdu tais pat 1566 m. Gardino seime buvo sudaryta nauja sutartis, kuria Livonija pasidarė Lietuvos provincija su kunigaikštystės titulu.'
+  santrauka: '1566 m. Gardino seime sudaryta sutartimi Livonija tapo Lietuvos provincija su kunigaikštystės titulu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu tais pat 1566 m. Gardino seime buvo su-
@@ -35,11 +37,11 @@ Tuo būdu tais pat 1566 m. Gardino seime buvo sudaryta nauja sutartis, kuria Liv
     su visomis Lietuvos provincijomis siųsti į Lietuvos seimą. Len-
     kai be galo buvo pasipiktinę dėl šito lietuvių laimėjimo; jie nuo-
     lat reikalavo, kad Livonija lygia dalia ir jiems priklausytų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

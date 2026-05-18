@@ -19,23 +19,25 @@ Bona atsinešė iš Italijos įsitikinimus, kad valdovas turįs siekti valdžios
 
 ## Teiginiai
 - t-001
-  teiginys: 'Bona atsinešė iš Italijos įsitikinimus, kad valdovas turįs siekti valdžios, nesiskaitydamas su jokiomis priemonėmis (Machiavellio mokslas).'
+  teiginys: 'Machiavellio mokslu vadintas įsitikinimas, kad valdovas turi siekti valdžios nesiskaitydamas su priemonėmis.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Bona atsinešė iš Italijos įsitikinimus, kad valdovas turįs siekti valdžios, nesiskaitydamas su jokiomis priemonėmis (Machiavellio mokslas).'
+  santrauka: 'Machiavellio mokslu vadintas įsitikinimas, kad valdovas turi siekti valdžios nesiskaitydamas su priemonėmis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bona atsinešė iš Italijos įsitikinimus, kad val-
     dovas turįs siekti valdžios, nesiskaitydamas su jokiomis prie-
     monėmis _(Machiavellio_ mokslas).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

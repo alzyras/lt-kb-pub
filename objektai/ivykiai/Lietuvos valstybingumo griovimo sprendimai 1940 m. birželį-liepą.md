@@ -32,7 +32,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Liaudies vyriausybė vykdė sovietų valią, griovė Lietuvos valstybingumą, keitė administraciją ir ribojo nekomunistines organizacijas.'
+  teiginys: 'Liaudies vyriausybė vykdė sovietų valią, griovė Lietuvos valstybingumą, keitė administraciją ir uždarė nekomunistines organizacijas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -40,7 +40,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Liaudies vyriausybė vykdė sovietų valią, griovė Lietuvos valstybingumą, keitė administraciją ir ribojo nekomunistines organizacijas.'
+  santrauka: 'Liaudies vyriausybė vykdė sovietų valią, griovė Lietuvos valstybingumą, keitė administraciją ir uždarė nekomunistines organizacijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griovė

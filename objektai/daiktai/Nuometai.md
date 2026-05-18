@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Moteriškosios dar ilgai nenorėjo mesti senovės nuometų nuo galvos.'
   pagrindžia:
     - c-001
@@ -50,7 +50,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Moteriškosios dar ilgai nenorėjo mesti senovės nuometų nuo galvos.
+  santrauka: 'Moteriškosios dar ilgai nenorėjo mesti senovės nuometų nuo galvos.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Vieni dar žemaičiai sekė senovės būdą, ir
@@ -67,4 +67,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

@@ -19,13 +19,15 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų Rusijai paliaubas, o Lenkus privertė pasirašyti Spa miestely (Belgijoje) protokolą, kuriuo Lenkija apsiėmė atsitraukti už vadinamosios Kerzono (Curzono) linijos (ją nustatė toji.'
+  teiginys: 'Spa miestelyje Belgijoje Lenkija buvo priversta pasirašyti protokolą dėl atsitraukimo už Curzono linijos.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų Rusijai paliaubas, o Lenkus privertė pasirašyti Spa miestely (Belgijoje) protokolą, kuriuo Lenkija apsiėmė atsitraukti už vadinamosios Kerzono (Curzono) linijos (ją nustatė toji.'
+  santrauka: 'Spa miestelyje Belgijoje Lenkija buvo priversta pasirašyti protokolą dėl atsitraukimo už Curzono linijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tada Aukš-
@@ -35,11 +37,11 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
     vadinamosios Kerzono (Curzono) linijos (ją nustatė toji Aukš-
     čiausioji Taryba 1919 metų gruodžio 8 d.) ir Vilniaus sritį ati-
     duoti Lietuvai (liepos 10 d.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

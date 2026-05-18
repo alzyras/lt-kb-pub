@@ -30,23 +30,25 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kariuomenės organizavimo pradžia laikoma 1918 m. lapkričio mėn.'
+  teiginys: 'Lietuvos kariuomenės organizavimo pradžia laikoma 1918 m. lapkričio 23 d., nes tą dieną išleistas pirmasis įsakymas šiuo reikalu.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kariuomenės organizavimo pradžia laikoma 1918 m. lapkričio mėn.'
+  santrauka: 'Lietuvos kariuomenės organizavimo pradžia laikoma 1918 m. lapkričio 23 d., nes tą dieną išleistas pirmasis įsakymas šiuo reikalu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kariuomenės organizavimo pradžia laiko-
     ma 1918 m. lapkričio mėn. 23 d., nes tą dieną išleistas
     pirmasis tuo reikalu įsakymas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

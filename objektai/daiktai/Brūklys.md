@@ -43,13 +43,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Giliojoje senovėje pėsčiųjų ginklas buvo brūklys.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Brūklių drūktieji galai vėliau buvo pripilami švino, o trumpesni jų variantai vadinti strypais.'
   pagrindžia:
     - c-002
@@ -58,7 +58,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Giliojoje senovėje pėsčiųjų ginklas buvo brūklys.
+  santrauka: 'Giliojoje senovėje pėsčiųjų ginklas buvo brūklys.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Ginklai jų buvo įvairūs pagal įvairią gadynę: visų giliojoj senovėj pėsčiųjų buvo ginklais
@@ -70,9 +70,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Brūklių drūktieji galai vėliau buvo pripilami švino, o trumpesni jų variantai vadinti strypais.
+  santrauka: 'Brūklių drūktieji galai vėliau buvo pripilami švino, o trumpesni jų variantai vadinti strypais.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Ilgainiui tų brūklių drūktieji galai buvo švinu pripilti dėl svarumo, idant tuo siūtį pasmarkintų, vieni
@@ -101,7 +101,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Pastabos
 

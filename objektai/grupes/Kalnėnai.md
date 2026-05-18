@@ -30,7 +30,7 @@ tags:
 Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomenė: į žygį jie traukia su žirgu ir šunimi, jodinėdami remiasi ir paslėptais pėsčiaisiais, o seniausia jų uždanga laikomos neišžengiamos girios.
 
 ## Teiginiai
-- t-001
+- t-005
   teiginys: 'Kalnėnai šiame fragmente veikia kaip karingas, su žemaičiais gretinamas kolektyvas.'
   pagrindžia:
     - c-001
@@ -38,21 +38,19 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
     - c-003
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-
-
-- t-002
+- t-006
   teiginys: 'Kalnėnai, traukdami į karę, kartu su žirgu vedėsi ir šunį, kuris mažomis rogėmis vežė įkaitį, karo padargą ir grįžtant grobį.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-003
+- t-007
   teiginys: 'Kalnėnai, nors kariavo jodami, turėjo ir paslėptus pėsčiuosius, kuriuos jodino dvisėdais.'
   pagrindžia:
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-004
+- t-008
   teiginys: 'Seniausia kalnėnų uždanga laikytos neišžengiamos girios, o vėliau tarpgiriai buvo kamšomi pilimis nuo neprietelių.'
   pagrindžia:
     - c-003
@@ -61,7 +59,7 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Kalnėnai šiame fragmente veikia kaip karingas, su žemaičiais gretinamas kolektyvas.
+  santrauka: 'Kalnėnai šiame fragmente veikia kaip karingas, su žemaičiais gretinamas kolektyvas.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Senovės kalnėnai ir žemaičiai, traukdami į karę, du tarnu lygiai turėjo, beje, šunį ir žirgą, nesgi, ko
@@ -69,14 +67,14 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
     įkaištį^1183 ir karės padargą, grįžtant iš karės, pydė^1184 grobį, nuo neprietelių sugrietą^1185.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-005
+    - t-006
 - c-002
-  santrauka: Kalnėnai šiame fragmente veikia kaip karingas, su žemaičiais gretinamas kolektyvas.
+  santrauka: 'Kalnėnai šiame fragmente veikia kaip karingas, su žemaičiais gretinamas kolektyvas.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Kaip kalnėnai, taip ir žemaičiai, noris visados joti tekariavo, tačiau turėjo lygiai ir pėsčiuosius
@@ -84,14 +82,14 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
     pripadėjo^1244.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-003
+    - t-005
+    - t-007
 - c-003
-  santrauka: Kalnėnai šiame fragmente veikia kaip karingas, su žemaičiais gretinamas kolektyvas.
+  santrauka: 'Kalnėnai šiame fragmente veikia kaip karingas, su žemaičiais gretinamas kolektyvas.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Senų senovėj kalnėnai ir žemaičiai pilių neturėjo, kaipogi neišžengiamos girios jų pilimis, o pačių
@@ -102,9 +100,9 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
     šiandien dar Žemaičiuose pilies kalnais, arba nuo žuvėdų pilimis, tebvadina.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-004
+    - t-005
+    - t-008

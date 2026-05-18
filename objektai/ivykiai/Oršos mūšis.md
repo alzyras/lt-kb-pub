@@ -33,7 +33,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'LDK politinės tautos prielaidas kūrė karinės pergalės Žalgiryje, Klecke, Oršoje ir Kirchholme.'
+  teiginys: 'Oršos mūšis buvo viena LDK karinių pergalių, kūrusių LDK politinės tautos prielaidas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -41,7 +41,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'LDK politinės tautos prielaidas kūrė karinės pergalės Žalgiryje, Klecke, Oršoje ir Kirchholme.'
+  santrauka: 'Oršos mūšis buvo viena LDK karinių pergalių, kūrusių LDK politinės tautos prielaidas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Bendras vidaus politinis

@@ -27,7 +27,7 @@ Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inicidentas prie admi
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Kadangi Vilniaus pripažinimo Lenkijai ultimatumas nelietė, kovo 19 dieną Lietuva ultimatumą priėmė.'
+  teiginys: 'Kovo 19 d. Lietuva priėmė Lenkijos ultimatumą, nes jis nelietė Vilniaus pripažinimo Lenkijai.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -53,7 +53,7 @@ Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inicidentas prie admi
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Kadangi Vilniaus pripažinimo Lenkijai ultimatumas nelietė, kovo 19 dieną Lietuva ultimatumą priėmė.'
+  santrauka: 'Kovo 19 d. Lietuva priėmė Lenkijos ultimatumą, nes jis nelietė Vilniaus pripažinimo Lenkijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kadangi Vilniaus pripažinimo Lenkijai ultimatumas nelietė, kovo 19 die-

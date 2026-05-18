@@ -46,7 +46,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: '1338 m. lapkričio 1 d. Gediminas su Livonija sudarė prekybinę sutartį.'
   pagrindžia:
     - c-001
@@ -55,20 +55,20 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1338 m. žiemop Gediminas su Livonija sudarė prekybinę sutartį.'
+  santrauka: '1338 m. lapkričio 1 d. Gediminas su Livonija sudarė prekybinę sutartį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Yra tikra tiek,
     jog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per
     Veliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas. Jis tada
     žiemop (XI. 1) su Livonija sudarė prekybinę sutartį.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

@@ -37,13 +37,13 @@ tags:
 - Lietuvos principas buvo nepulti, bet nesitraukti.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Ši frazė apibrėžia Lietuvos gynybinį principą nepulti, bet ir nesitraukti.'
+- t-003
+  teiginys: 'Lietuvos principas buvo nepulti, bet nesitraukti, pasirinkus nesmurtinio politinio ir moralinio išsivadavimo kelią.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Ši gynybinė nuostata siejama su Sausio 13-osios kulminacija.'
   pagrindžia:
     - c-002
@@ -52,7 +52,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Platesnė ištrauka paaiškina principą kaip nesmurtinės gynybos laikyseną.
+  santrauka: 'Lietuvos principas buvo nepulti, bet nesitraukti, pasirinkus nesmurtinio politinio ir moralinio išsivadavimo kelią.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuva neturėjo jokios ginkluotos jėgos, ji jau buvo pasirinkus
@@ -65,11 +65,15 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Vėlesnė to paties skyriaus formuluotė pabrėžia šios nuostatos kulminaciją.
+  santrauka: 'Ši gynybinė nuostata siejama su Sausio 13-osios kulminacija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Sudarėme savo Laikinąją
+    gynybos vadovybę ir toliau laikydamiesi nesmurtinio pasiprieši-
+    nimo civilių piliečių apsisprendimu. Jie plikomis rankomis, dai-
+    nuodami ir melsdamiesi, stojo skersai kelio sovietų užpuolikui.
     „Nepuolam, bet nesitraukiam“ gynybinė nuostata pasiekė savo
     kulminaciją.
   citata_rodoma: ""
@@ -78,4 +82,4 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004

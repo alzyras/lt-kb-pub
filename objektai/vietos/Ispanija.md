@@ -25,7 +25,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Ispanijos galybės saulėlydį ženklino Nenugalimosios armados nesėkmė 1588 m. Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra, žygio Ispanija nekartojo.'
+  teiginys: '1588 m. Nenugalimosios armados nesėkmė ženklino Ispanijos galybės saulėlydį, o Ispanija žygio į Angliją nebekartojo.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -60,7 +60,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Ispanijos galybės saulėlydį ženklino Nenugalimosios armados nesėkmė 1588 m. Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra, žygio Ispanija nekartojo.'
+  santrauka: '1588 m. Nenugalimosios armados nesėkmė ženklino Ispanijos galybės saulėlydį, o Ispanija žygio į Angliją nebekartojo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ispanijos galybės saulėlydį ženklino Nenugalimosios armados ne-

@@ -18,7 +18,7 @@ tags:
 Nors tūkstančiai karštakošių Lenkijos miestų gatvėse ugningai skandavo „Marsz na Kowno“ („Marš į Kauną“), oficialiąją Varšuvą rezultatai tenkino.
 
 ## Teiginiai
-- t-002
+- t-003
   teiginys: 'Nors tūkstančiai karštakošių Lenkijos miestų gatvėse ugningai skandavo „Marsz na Kowno“ („Marš į Kauną“), oficialiąją Varšuvą rezultatai tenkino.'
   pagrindžia:
     - c-001
@@ -41,4 +41,4 @@ Nors tūkstančiai karštakošių Lenkijos miestų gatvėse ugningai skandavo �
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003

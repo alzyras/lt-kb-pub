@@ -26,7 +26,7 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'MGB-KGB agentai smogikai naudojo rezistencijos atributiką ir uniformas terorui, rezistentams naikinti, kankindavo ginkluoto pasipriešinimo dalyvius, tarp jų moteris, senelius, vaikus, sušaudydavo partizanų ryšininkus, rėmėjus.'
+  teiginys: 'MGB-KGB agentai smogikai naudojo rezistencijos atributiką ir uniformas terorui, rezistentams naikinti bei partizanų ryšininkams ir rėmėjams šaudyti.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -54,7 +54,7 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'MGB-KGB agentai smogikai naudojo rezistencijos atributiką ir uniformas terorui, rezistentams naikinti, kankindavo ginkluoto pasipriešinimo dalyvius, tarp jų moteris, senelius, vaikus, sušaudydavo partizanų ryšininkus, rėmėjus.'
+  santrauka: 'MGB-KGB agentai smogikai naudojo rezistencijos atributiką ir uniformas terorui, rezistentams naikinti bei partizanų ryšininkams ir rėmėjams šaudyti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     MGB-KGB agentai smogikai nau-

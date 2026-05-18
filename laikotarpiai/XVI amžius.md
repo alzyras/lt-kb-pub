@@ -19,19 +19,19 @@ Objektų skaičius: 107.
 ## Susiję objektai
 
 ### Asmenys
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Enėjas Silvijus Pikolominis]]
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Grigalius XIII]]
 - [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų]]
-- [[objektai/asmenys/Ivanas Fiodorovas]]
+- [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas (spaustuvininkas, XVI a.)]]
 - [[objektai/asmenys/Jadvyga]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/asmenys/Konstantinas Ostrogiškis]]
-- [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis]]
+- [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]
 - [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/asmenys/Valerijonas Protasevičius]]
+- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
 
 ### Autoriai
 - [[objektai/autoriai/Abraomas Kulvietis]]

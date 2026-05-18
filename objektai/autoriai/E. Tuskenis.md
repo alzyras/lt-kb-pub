@@ -42,4 +42,3 @@ Tuskenis.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Eidintas A]]
-- [[objektai/autoriai/Žalys V]]

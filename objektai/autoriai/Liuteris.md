@@ -21,31 +21,37 @@ Ypač didelis nepasitenkinimas ordinu ėjo iš to, kad krašte buvo smarkiai įs
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ypač didelis nepasitenkinimas ordinu ėjo iš to, kad krašte buvo smarkiai įsigalėjęs naujai pradėtas skelbti Liuterio mokslas.'
+  teiginys: 'Liuterio mokslas krašte buvo smarkiai įsigalėjęs, juo sekė net kai kurie vyskupai.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Tada magistras Albrechtas patsai užmezgė ryšius su Liuteriu.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
   teiginys: 'Liuteris jam patarė mesti vienuolio apdarus, vesti žmoną ir pasiskelbti kunigaikščiu.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ypač didelis nepasitenkinimas ordinu ėjo iš to, kad krašte buvo smarkiai įsigalėjęs naujai pradėtas skelbti Liuterio mokslas.'
+  santrauka: 'Liuterio mokslas krašte buvo smarkiai įsigalėjęs, juo sekė net kai kurie vyskupai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ypač didelis nepasitenkinimas ordi-
     nu ėjo iš to, kad krašte buvo smarkiai įsigalėjęs naujai pradėtas
     skelbti Liuterio mokslas. Juo buvo pasekę net kai kurie vyskupai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -53,11 +59,11 @@ Ypač didelis nepasitenkinimas ordinu ėjo iš to, kad krašte buvo smarkiai įs
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tada magistras Albrechtas patsai užmezgė ryšius su Liuteriu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
@@ -66,14 +72,10 @@ Ypač didelis nepasitenkinimas ordinu ėjo iš to, kad krašte buvo smarkiai įs
   citata_originali: |
     Liuteris jam patarė mesti vienuolio apdarus, vesti žmoną ir
     pasiskelbti kunigaikščiu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/sekuliarizacija]]

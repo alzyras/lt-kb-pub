@@ -19,23 +19,25 @@ Kilus klausimui dėl Nemuno neutralizacijos ryšium su Lietuvos pripažinimu de 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kilus klausimui dėl Nemuno neutralizacijos ryšium su Lietuvos pripažinimu de jure, Lietuvos vyriausybė vienoj iš savo notų Ambasadorių Konferencijai Paryžiuje atkreipė dėmesį į tai, kad dėl to nebūtų sunkenybės, jei didžiosios valstybės, remdamosi.'
+  teiginys: 'Nemuno neutralizacijos klausimas kilo ryšium su Lietuvos pripažinimu de jure.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kilus klausimui dėl Nemuno neutralizacijos ryšium su Lietuvos pripažinimu de jure, Lietuvos vyriausybė vienoj iš savo notų Ambasadorių Konferencijai Paryžiuje atkreipė dėmesį į tai, kad dėl to nebūtų sunkenybės, jei didžiosios valstybės, remdamosi.'
+  santrauka: 'Nemuno neutralizacijos klausimas kilo ryšium su Lietuvos pripažinimu de jure.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kilus klausimui dėl Nemuno neutralizacijos ryšium su Lie-
     tuvos pripažinimu de jure, Lietuvos vyriausybė vienoj iš savo
     notų Ambasadorių Konferencijai Paryžiuje atkreipė dėmesį į tai,
     kad dėl to nebūtų sunkenybės, jei didžiosios valstybės, remdamosi
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

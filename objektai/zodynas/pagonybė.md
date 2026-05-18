@@ -33,19 +33,19 @@ tags:
 Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės tema. Iš mūsų pagonių valdovų laikysenos galima suprasti, kad pagonybė jiems buvo lygiavertė krikščionybei.
 
 ## Teiginiai
-- t-004
+- t-007
   teiginys: 'Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės tema.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: 'Iš mūsų pagonių valdovų laikysenos galima suprasti, kad pagonybė jiems buvo lygiavertė krikščionybei.'
+- t-008
+  teiginys: 'Lietuvos pagonių valdovų laikysena rodo, kad pagonybė jiems buvo lygiavertė krikščionybei.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-006
+- t-009
   teiginys: 'Daugiausia ginčytinų teiginių ir vertinimų pasakyta Lietuvos pagonybės tema.'
   pagrindžia:
     - c-001
@@ -74,7 +74,7 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-009
 - c-002
   santrauka: 'Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės tema.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -94,9 +94,9 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-007
 - c-003
-  santrauka: 'Iš mūsų pagonių valdovų laikysenos galima suprasti, kad pagonybė jiems buvo lygiavertė krikščionybei.'
+  santrauka: 'Lietuvos pagonių valdovų laikysena rodo, kad pagonybė jiems buvo lygiavertė krikščionybei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kitų valstybių valdovai
@@ -110,7 +110,7 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-008
 
 ## Ryšiai
 ### Laikotarpiai

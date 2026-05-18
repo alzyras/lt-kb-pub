@@ -49,7 +49,7 @@ Senieji Trakai čia aprašomi kaip vienuolių įkurdinimo vieta.
 
 ## Teiginiai
 - t-001
-  teiginys: "Vytautas įkurdino benediktinus Senuosiuose Trakuose."
+  teiginys: 'Vytautas įkurdino benediktinus Senuosiuose Trakuose.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -57,7 +57,7 @@ Senieji Trakai čia aprašomi kaip vienuolių įkurdinimo vieta.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Senieji Trakai pateikiami kaip benediktinų įkurdinimo vieta.
+  santrauka: 'Vytautas įkurdino benediktinus Senuosiuose Trakuose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vytautas įkurdino benediktinus S. Trakuose, atkeldamas

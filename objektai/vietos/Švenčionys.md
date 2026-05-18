@@ -19,7 +19,7 @@ Lietuviai atkakliai siekė išvengti karinių bazių, išsaugoti savo etnines ž
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuviai atkakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus).'
+  teiginys: 'Lietuviai siekė atgauti Švenčionis ir Druskininkus kaip lietuviškus Vilniaus krašto rajonus.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ Lietuviai atkakliai siekė išvengti karinių bazių, išsaugoti savo etnines ž
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuviai atkakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus).'
+  santrauka: 'Lietuviai siekė atgauti Švenčionis ir Druskininkus kaip lietuviškus Vilniaus krašto rajonus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuviai at-

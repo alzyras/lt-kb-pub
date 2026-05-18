@@ -27,7 +27,7 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Pirmoje rezoliucijos dalyje tautų apsisprendimo teisės pagrindu ir remiantis Vilniaus konferencijos nutarimais skelbiama, kad Lietuva yra nepriklausoma valstybė su sostine Vilniumi ir kad anuliuojami visi buvę valstybiniai ryšiai su kitomis valstybėmis.'
+  teiginys: 'Rezoliucijoje tautų apsisprendimo teisės pagrindu skelbta nepriklausoma Lietuvos valstybė su sostine Vilniumi.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -39,7 +39,7 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Prancūzija Georges B. Clemenceau rašte vokiečiams aiškino, kad Klaipėdos atskyrimas nepažeidė tautų apsisprendimo principo.'
+  teiginys: 'Prancūzija Georges B. Clemenceau rašte aiškino, kad Klaipėdos atskyrimas nepažeidė tautų apsisprendimo principo.'
   pagrindžia:
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -62,7 +62,7 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Pirmoje rezoliucijos dalyje tautų apsisprendimo teisės pagrindu ir remiantis Vilniaus konferencijos nutarimais skelbiama, kad Lietuva yra nepriklausoma valstybė su sostine Vilniumi ir kad anuliuojami visi buvę valstybiniai ryšiai su kitomis valstybėmis.'
+  santrauka: 'Rezoliucijoje tautų apsisprendimo teisės pagrindu skelbta nepriklausoma Lietuvos valstybė su sostine Vilniumi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pirmoje rezoliucijos dalyje tautų apsisprendimo teisės pagrin-
@@ -96,7 +96,7 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Prancūzija Georges B. Clemenceau rašte vokiečiams aiškino, kad Klaipėdos atskyrimas nepažeidė tautų apsisprendimo principo.'
+  santrauka: 'Prancūzija Georges B. Clemenceau rašte aiškino, kad Klaipėdos atskyrimas nepažeidė tautų apsisprendimo principo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prancūzija Žoržo B. Klemanso

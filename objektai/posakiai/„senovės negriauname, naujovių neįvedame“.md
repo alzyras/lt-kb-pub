@@ -26,12 +26,6 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Vytauto laikais LDK pradėjo artėti prie imperijos, o jo reformos buvo radikalios net to meto mastu.'
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -51,20 +45,6 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Vytauto laikais LDK pradėjo artėti prie imperijos, o jo reformos buvo radikalios net to meto mastu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    LDK būtent Vytauto
-    laikais pradėjo artėti prie imperijos, Vytauto reformos buvo radikalios,
-    matuojant net tų laikų mastu.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

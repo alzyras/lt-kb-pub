@@ -33,17 +33,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Todėl atvykusių žydų jis ne tik nespaudė, bet dar jiems davė privilegijų, suteikė jiems savivaldybę, leido laisvai išpažinti savo tikėjimą, apdraudė jų gyvybę ir turtą (už žydo nužudymą buvo paskirtos tokios pat bausmės, kaip ir už bajoro nužudymą).'
+  teiginys: 'Vytautas žydams suteikė privilegijų, savivaldybę, tikėjimo laisvę ir jų gyvybės bei turto apsaugą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Vytauto laikais buvo tik trys žydų bendruomenės, — Brastoje, Gardine ir Trakuose, — vėliau jų atsirado visame krašte.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Todėl atvykusių žydų jis ne tik nespaudė, bet dar jiems davė privilegijų, suteikė jiems savivaldybę, leido laisvai išpažinti savo tikėjimą, apdraudė jų gyvybę ir turtą (už žydo nužudymą buvo paskirtos tokios pat bausmės, kaip ir už bajoro nužudymą).'
+  santrauka: 'Vytautas žydams suteikė privilegijų, savivaldybę, tikėjimo laisvę ir jų gyvybės bei turto apsaugą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Žydai** visur vaduramžių Europoje buvo pinigų skolintojai,
@@ -59,11 +63,11 @@ Nenurodyta
     žydo nužudymą buvo paskirtos tokios pat bausmės, kaip ir už
     bajoro nužudymą). Tuo būdu nuo Vytauto laikų Lietuvoje dau-
     giau atsirado žydų, kurie palengva suėmė į savo rankas pinigus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -78,10 +82,10 @@ Nenurodyta
     mą, jie gaudavo metams ar ilgesniam laikui teisę rinkti iš pirklių
     nustatytus muitus. Be to, jie daug pelno gaudavo ir iš kitų
     verslų. Tuo būdu žydų tarpe atsirado didelių piniguočių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

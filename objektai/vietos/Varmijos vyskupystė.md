@@ -21,32 +21,36 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę.'
+  teiginys: '1466 m. Torno taika Varmijos vyskupystę perleido Lenkijai.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Jėzuitų į Lenkiją atkvietė garsus katalikybės gynėjas Varmijos vyskupas St.'
+  teiginys: '1564 m. Varmijos vyskupas Stanislovas Hozijus atkvietė jėzuitus į Lenkiją.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę.'
+  santrauka: '1466 m. Torno taika Varmijos vyskupystę perleido Lenkijai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1466 m. Torne buvo pasirašyta taika, kuria ordinas
     pasidarė Lenkijos vasalu ir perleido jai daug žemių. Lenkija
     atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte —
     Elbingą, Marijenburgą ir visą Varmijos vyskupystę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Jėzuitų į Lenkiją atkvietė garsus katalikybės gynėjas Varmijos vyskupas St.'
+  santrauka: '1564 m. Varmijos vyskupas Stanislovas Hozijus atkvietė jėzuitus į Lenkiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jėzuitų į Lenkiją
@@ -58,11 +62,11 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
     kupystės centre Brauns-
     berge, o iš ten paplito
     po visą Lenkiją. 1569
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

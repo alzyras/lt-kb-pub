@@ -1,9 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Vincentas Vėlavičius'
+pavadinimas: 'Vincentas Vėlavičius (kunigas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Vincentas Vėlavičius'
+aliases:
+  - 'Vincentas Vėlavičius'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -12,7 +14,7 @@ tags:
   - kunigas
   - valstybė
 ---
-# Vincentas Vėlavičius
+# Vincentas Vėlavičius (kunigas)
 
 ## Santrauka
 

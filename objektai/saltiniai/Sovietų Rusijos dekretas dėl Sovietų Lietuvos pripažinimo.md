@@ -18,7 +18,7 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
 
 ## Teiginiai
 - t-001
-  teiginys: 'Sovietų Rusija po savaitės Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Lietuvą.'
+  teiginys: 'Vladimiro Lenino pasirašytu dekretu Sovietų Rusija pripažino Sovietų Lietuvą.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -28,7 +28,7 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Sovietų Rusija po savaitės Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Lietuvą.'
+  santrauka: 'Vladimiro Lenino pasirašytu dekretu Sovietų Rusija pripažino Sovietų Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po savaitės ją Vladimiro

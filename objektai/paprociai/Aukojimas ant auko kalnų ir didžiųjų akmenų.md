@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Ant auko kalnų ir didelių akmenų žmonės meldėsi ir dievams aukavo, degindami įvairias aukas.'
   pagrindžia:
     - c-001
@@ -50,7 +50,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Ant auko kalnų ir didelių akmenų žmonės meldėsi ir dievams aukavo, degindami įvairias aukas.
+  santrauka: 'Ant auko kalnų ir didelių akmenų žmonės meldėsi ir dievams aukavo, degindami įvairias aukas.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Turėjo dar taip pat už šventus aukurus, arba altorius, ant kalnų, kuriuos vadino auko kalnais,
@@ -58,11 +58,13 @@ Nenurodyta
     vaišino, kaip šiandien iš gudiškumo yra sakoma, apieras jiems darė, degindami gyvulius, vašką,
     gintarus, mirą ir kitus kvepiančius daiktus ir melsdamos; ant kurių visados amžina ugnis kūrinos,
     kasant juos, šiandien dar randamos tenai supuvusios ir sutrynėjusios^841 anglys tą stigavoja.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

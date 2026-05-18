@@ -22,6 +22,8 @@ Ypač garsus buvo 1769 m. Šiaulių ekonomijos valstiečių sukilimas.
   teiginys: 'Ypač garsus buvo 1769 m. Šiaulių ekonomijos valstiečių sukilimas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -31,10 +33,10 @@ Ypač garsus buvo 1769 m. Šiaulių ekonomijos valstiečių sukilimas.
     Būdavo taip pat atsitikimų, kad valstiečiai kai kur net su-
     kildavo. Ypač garsus buvo 1769 m. Šiaulių ekonomijos vals-
     tiečių sukilimas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -37,38 +37,16 @@ Vulfstano pasakojimas čia minimas kaip IX amžiaus jūrininko liudijimas apie a
 - Data / laikotarpis: IX amž.
 
 ## Teiginiai
-- t-001
-  teiginys: 'IX amž. jūrininko Vulfstano pasakojimas gana smulkiai nupasakoja aisčių gyvenimo būdą ir papročius.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
-- t-002
+- t-003
   teiginys: 'Šiame veikale istoriografijoje perduotos žinios apie Baltijos pajūrio tautas tiesiogiai vadinamos Wulfstano pasakojimais.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: Citata pagrindžia, kad Vulfstano pasakojimas minimas kaip IX amžiaus kelionės aprašymas apie aisčių gyvenimo būdą ir papročius.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Keliautojai** mums paliko savo kelionių aprašymų, iš kurių
-    taip pat šį tą sužinome apie aisčius. įdomiausiai minimi aisčiai
-    IX amž. jūrininko Vulfstano pasakojime. Buvęs Prūsuose,
-    jis gana smulkiai nupasakoja aisčių gyvenimo būdą ir papročius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Šaltinyje nurodytas autoriaus vardas ir pasakojimo pobūdis, bet nepateiktas pilnas bibliografinis pavadinimas.'
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: Citata pagrindžia, kad istoriografijoje žinios įvardijamos kaip Wulfstano pasakojimai.
+  santrauka: 'Šiame veikale istoriografijoje perduotos žinios apie Baltijos pajūrio tautas tiesiogiai vadinamos Wulfstano pasakojimais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tas žinias jis sako
@@ -84,10 +62,10 @@ Vulfstano pasakojimas čia minimas kaip IX amžiaus jūrininko liudijimas apie a
     — XVI —
     ```
     pasakojimai^1
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003

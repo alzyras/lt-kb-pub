@@ -43,7 +43,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvių artilerija naudota prieš lenkų dalinius 1920 m. kovose prie Giedraičių.'
+  teiginys: 'Lietuvių artilerija 1920 m. kovose prie Giedraičių veikė prieš lenkų dalinius.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -51,7 +51,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvių artilerija naudota prieš lenkų dalinius 1920 m. kovose prie Giedraičių.'
+  santrauka: 'Lietuvių artilerija 1920 m. kovose prie Giedraičių veikė prieš lenkų dalinius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvių artilerija prieš lenkų dalinius

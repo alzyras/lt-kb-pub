@@ -21,13 +21,13 @@ Pagrindinė forma: `liuosybė`.
 Vartojamos formos: `liuosais`, `liuosybę`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Liuosybė` šiame tekste reiškia laisvę ir nevaržomą gyvenimą.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Terminas vartojamas tiek žmonių būklei, tiek tautos išlikimui apibūdinti.'
   pagrindžia:
     - c-002
@@ -36,7 +36,7 @@ Vartojamos formos: `liuosais`, `liuosybę`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Liuosybė` šiame tekste reiškia laisvę ir nevaržomą gyvenimą
+  santrauka: '`Liuosybė` šiame tekste reiškia laisvę ir nevaržomą gyvenimą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     pagal žmogaus būdą visi
@@ -51,9 +51,9 @@ Vartojamos formos: `liuosais`, `liuosybę`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Terminas vartojamas tiek žmonių būklei, tiek tautos išlikimui apibūdinti
+  santrauka: 'Terminas vartojamas tiek žmonių būklei, tiek tautos išlikimui apibūdinti.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     nuo nuožmių tautų, liuosybę savo taupydama,
@@ -64,7 +64,7 @@ Vartojamos formos: `liuosais`, `liuosybę`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Pastabos
 

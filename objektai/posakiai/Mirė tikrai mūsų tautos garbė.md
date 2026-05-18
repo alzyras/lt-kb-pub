@@ -33,7 +33,7 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
 
 ## Teiginiai
 - t-001
-  teiginys: 'Formulė Vytauto mirtį nusako kaip tautos garbės netektį.'
+  teiginys: 'Vytauto mirtis apibūdinta žodžiais, kad mirė tikrai mūsų tautos garbė.'
   pagrindžia:
     - c-001
     - c-002
@@ -42,27 +42,27 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Prieš trumpą epitafinę formulę įterpiamas platesnis pasakojimas apie Vytauto mirtį ir Lietuvai paliktas nelaimes.
+  santrauka: 'Vytauto mirtis apibūdinta žodžiais, kad mirė tikrai mūsų tautos garbė.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taip tad Vytautas, didysis mūsų valdovas, kaip geras ka­
     talikas, susitaikinęs su Dievu, užmerkė akis ir paliko Lietuvą
     didelėms nelaimėms.
   citata_rodoma: ""
-  teiginio_tipas: vertinimas
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Epitafinė frazė sutraukia Vytauto mirties vertinimą į vieną sakinį.
+  santrauka: 'Vytauto mirtis apibūdinta žodžiais, kad mirė tikrai mūsų tautos garbė.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Mirė tikrai mūsų tautos
     garbė.
   citata_rodoma: ""
-  teiginio_tipas: vertinimas
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""

@@ -35,7 +35,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose svariai prisidėjo prie europinės kultūros įsisavinimo.'
+  teiginys: 'Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose buvo svarbios europinės kultūros įsisavinimui.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -49,7 +49,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose svariai prisidėjo prie europinės kultūros įsisavinimo.'
+  santrauka: 'Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose buvo svarbios europinės kultūros įsisavinimui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Svarbų vaidmenį šiame procese suvaidino

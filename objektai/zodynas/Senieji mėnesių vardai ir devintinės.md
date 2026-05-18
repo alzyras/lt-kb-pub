@@ -35,19 +35,19 @@ Pagrindinė forma: `senieji mėnesių vardai ir devintinės`.
 Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `gegužė`, `kirmėšų`, `birželis`, `liepos mėnuo`, `rugpjūtis`, `rugsėjis`, `šilo mėnuo`, `spalių mėnuo`, `lapkristis`, `gruodis`, `devintines`.
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: 'Metai šiame tekste dalijami į 13 mėnesių.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-005
   teiginys: 'Kai kurie mėnesių vardai yra senieji ir kitokie nei dabartiniai.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-003
+- t-006
   teiginys: 'Mėnesiai skaidomi į devintines.'
   pagrindžia:
     - c-001
@@ -56,7 +56,7 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Metai šiame tekste dalijami į 13 mėnesių
+  santrauka: 'Metai šiame tekste dalijami į 13 mėnesių.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Metus dalijo į trylika mėnesių, kuriuos taip vadino: 1. siekis, 2.
@@ -70,9 +70,9 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
+    - t-004
+    - t-005
+    - t-006
 
 ## Pastabos
 

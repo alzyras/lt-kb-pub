@@ -20,20 +20,20 @@ Pagrindinė forma: `ermyderiai`.
 Vartojamos formos: `ermyderių`.
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: '`Ermyderiai` žymi gamtos, visuomenės ir politinės tvarkos suirutes.'
   pagrindžia:
     - c-001
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-005
   teiginys: 'Autorius jais apibūdina tiek žemės ir vandens pokyčius, tiek tikybos ir ūkės tvarkos krizes.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-003
+- t-006
   teiginys: 'Lietuvos tautos senovė čia rodoma kaip patirta didelių ūkės ermyderių.'
   pagrindžia:
     - c-003
@@ -42,7 +42,7 @@ Vartojamos formos: `ermyderių`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Ermyderiai` žymi gamtos, visuomenės ir politinės tvarkos suirutes
+  santrauka: '`Ermyderiai` žymi gamtos, visuomenės ir politinės tvarkos suirutes.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Vienos yra buvusios šiame pasauly tokios atmainos, kurias jam raštai pasako, kitas jam
@@ -54,10 +54,10 @@ Vartojamos formos: `ermyderių`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-004
+    - t-005
 - c-002
-  santrauka: `Ermyderiai` žymi gamtos, visuomenės ir politinės tvarkos suirutes
+  santrauka: '`Ermyderiai` žymi gamtos, visuomenės ir politinės tvarkos suirutes.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tas dar taip pat yra žinomu, jog ne vieni tokie žemės, oro ar jūrų ermyderiai blaškė ir naikino
@@ -69,9 +69,9 @@ Vartojamos formos: `ermyderių`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-003
-  santrauka: Lietuvos tautos senovė čia rodoma kaip patirta didelių ūkės ermyderių
+  santrauka: 'Lietuvos tautos senovė čia rodoma kaip patirta didelių ūkės ermyderių.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Jei tiktai pažvelgsim į pačią Lietuvos tautą, kalnėnų ir žemaičių, aiškiai tenai matysim, jog ta
@@ -83,7 +83,7 @@ Vartojamos formos: `ermyderių`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-006
 
 ## Pastabos
 

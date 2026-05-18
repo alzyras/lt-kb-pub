@@ -21,7 +21,7 @@ Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad re
 
 ## Teiginiai
 - t-001
-  teiginys: 'Po abiejų sukilimų Rusijos aukštuosiuose sluoksniuose sustiprėjo rusiškas nacionalizmas ir polonofobija.'
+  teiginys: 'Abu sukilimai Rusijos aukštuosiuose sluoksniuose sukėlė rusiško nacionalizmo ir polonofobijos bangą.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -35,7 +35,7 @@ Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad re
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Po abiejų sukilimų Rusijos aukštuosiuose sluoksniuose sustiprėjo rusiškas nacionalizmas ir polonofobija.'
+  santrauka: 'Abu sukilimai Rusijos aukštuosiuose sluoksniuose sukėlė rusiško nacionalizmo ir polonofobijos bangą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LIAUDIS VIRSTA TAUTA

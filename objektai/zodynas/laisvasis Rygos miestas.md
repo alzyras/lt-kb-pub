@@ -19,21 +19,23 @@ Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autoritet
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autoritetas Livonijoj, ir jau labai praturtėjęs laisvasis Rygos miestas.'
+  teiginys: 'Laisvasis Rygos miestas priešinosi veiksmui, kuriam taip pat nepritarė Livonijoje aukščiausiu autoritetu save laikęs arkivyskupas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autoritetas Livonijoj, ir jau labai praturtėjęs laisvasis Rygos miestas.'
+  santrauka: 'Laisvasis Rygos miestas priešinosi veiksmui, kuriam taip pat nepritarė Livonijoje aukščiausiu autoritetu save laikęs arkivyskupas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autori-
     tetas Livonijoj, ir jau labai praturtėjęs laisvasis Rygos miestas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

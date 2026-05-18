@@ -31,7 +31,7 @@ Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde) renkasi dalijamus drab
 
 ## Teiginiai
 - t-001
-  teiginys: '1948 m. Lietuvos pabėgėliai stovykloje Vokietijos Šeinfelde rinkosi dalijamus drabužius.'
+  teiginys: '1948 m. Šeinfeldo stovykloje Vokietijoje Lietuvos pabėgėliai rinkosi dalijamus drabužius.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -39,7 +39,7 @@ Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde) renkasi dalijamus drab
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1948 m. Lietuvos pabėgėliai stovykloje Vokietijos Šeinfelde rinkosi dalijamus drabužius.'
+  santrauka: '1948 m. Šeinfeldo stovykloje Vokietijoje Lietuvos pabėgėliai rinkosi dalijamus drabužius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     JAV prezidento

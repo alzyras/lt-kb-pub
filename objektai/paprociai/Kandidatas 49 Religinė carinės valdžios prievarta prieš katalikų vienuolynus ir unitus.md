@@ -33,7 +33,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Caro valdžia uždarė nemažai katalikų vienuolynų, o 1839 m. likvidavo Unitų bažnyčią.'
+  teiginys: 'Caro valdžia uždarė nemažai katalikų vienuolynų, 1839 m. likvidavo Unitų bažnyčią ir prievarta grąžino unitus į stačiatikybę.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -41,7 +41,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Caro valdžia uždarė nemažai katalikų vienuolynų, o 1839 m. likvidavo Unitų bažnyčią.'
+  santrauka: 'Caro valdžia uždarė nemažai katalikų vienuolynų, 1839 m. likvidavo Unitų bažnyčią ir prievarta grąžino unitus į stačiatikybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pasikeitė valdžios kursas ir bažnyčios atžvilgiu. Apkaltinus parama suki-

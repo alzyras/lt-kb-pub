@@ -31,7 +31,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1931 m. gegužės 2 d. apskričių tarybos rinkdavo ypatingus tautos atstovus, o šie rinkdavo prezidentą.'
+  teiginys: 'Nuo 1931 m. gegužės 2 d. apskričių tarybos rinkdavo ypatingus tautos atstovus, o šie rinkdavo prezidentą.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -45,7 +45,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1931 m. gegužės 2 d. apskričių tarybos rinkdavo ypatingus tautos atstovus, o šie rinkdavo prezidentą.'
+  santrauka: 'Nuo 1931 m. gegužės 2 d. apskričių tarybos rinkdavo ypatingus tautos atstovus, o šie rinkdavo prezidentą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1931 m. gegužės 2 d. savival-

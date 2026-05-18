@@ -45,7 +45,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Sovietų valdžia Lietuvos valstybingumo paminklų vietose statė V. Lenino, J. Stalino ir sovietinio kario nugalėtojo statulas.'
+  teiginys: 'Sovietų valdžia Lietuvos valstybingumo paminklų vietose statė J. Stalino, V. Lenino ir sovietinio kario nugalėtojo statulas.'
   pagrindžia:
     - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -126,7 +126,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Sovietų valdžia Lietuvos valstybingumo paminklų vietose statė V. Lenino, J. Stalino ir sovietinio kario nugalėtojo statulas.'
+  santrauka: 'Sovietų valdžia Lietuvos valstybingumo paminklų vietose statė J. Stalino, V. Lenino ir sovietinio kario nugalėtojo statulas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietu-

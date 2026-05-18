@@ -31,13 +31,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Susivienijimo Lietuvių Amerikoje neramiausias elementas buvo komunistai.'
+  teiginys: 'Po triukšmingo 1930 m. Susivienijimo Lietuvių Amerikoje seimo komunistai įkūrė Amerikos Lietuvių Darbininkų Susivienijimą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Susivienijimo Lietuvių Amerikoje neramiausias elementas buvo komunistai.'
+  santrauka: 'Po triukšmingo 1930 m. Susivienijimo Lietuvių Amerikoje seimo komunistai įkūrė Amerikos Lietuvių Darbininkų Susivienijimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Susivienijimo Lietuvių Amerikoje neramiausias elementas
@@ -47,11 +49,11 @@ Nenurodyta
     jie įsikūrė atskirą organizaciją — Amerikos Lietuvių
     Darbininkų Susivienijimą. Tuo būdu Amerikoje
     atsirado trečias lietuvių Susivienijimas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

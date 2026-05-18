@@ -36,10 +36,8 @@ Nenurodyta
   teiginys: 'Voluinės kunigaikščiams geriau sekėsi kariauti su jotvingais, ir iki XIII amž. pradžios jie jau buvo paėmę net Gardiną.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Tuo būdu XIII amž. pradžioje, kai Mindaugas pradėjo kurti Lietuvos valstybę, Voluinės kunigaikštijos siena ėjo aukščiau Gardino ir nyko kažkur miškuose.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -51,25 +49,10 @@ Nenurodyta
     Nukariautose žemėse tada buvo įkurti Naugardukas, Slanimas ir
     atstatyta, jotvingų buvusi, Gardino pilis (senasis Gardinas, tur
     būt, bus turėjęs kitą vardą).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Tuo būdu XIII amž. pradžioje, kai Mindaugas pradėjo kurti Lietuvos valstybę, Voluinės kunigaikštijos siena ėjo aukščiau Gardino ir nyko kažkur miškuose.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu XIII amž. pradžioje, kai Mindaugas pradėjo kurti Lietuvos valstybę, Voluinės kunigaikš-
-    tijos siena ėjo aukščiau Gardino ir nyko kažkur miškuose. Mer-
-    kinė čia buvo kraštutinė didesnioji lietuvių pilis, nors jotvingų
-    sodybos dar toli nuėjo į pietus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

@@ -18,24 +18,22 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.'
+  teiginys: 'Kazimiero laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.'
+  santrauka: 'Kazimiero laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kazimieras Jogailaitis]]

@@ -39,6 +39,8 @@ Nenurodyta
   teiginys: 'Miestiečiai savo magistratus ir teismus taip pat rinkdavosi patys.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -50,10 +52,10 @@ Nenurodyta
     kalais ir galėjo kreiptis į gubernatorių (bajorai savo reikalais
     galėjo kreiptis net į carą). Tik vieni valstiečiai neturėjo jokių
     savivaldybės organų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

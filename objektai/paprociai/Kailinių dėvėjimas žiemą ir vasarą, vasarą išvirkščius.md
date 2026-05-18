@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Skitais arba kailinuočiais vadinti gyventojai visada dėvėdavo kailinius.'
   pagrindžia:
     - c-001
@@ -50,15 +50,17 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Skitais arba kailinuočiais vadinti gyventojai visada dėvėdavo kailinius.
+  santrauka: 'Skitais arba kailinuočiais vadinti gyventojai visada dėvėdavo kailinius.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tankiau grekonys abelnai^72 visus gyventojus šiapus Uksinės marės, beje, į šiaurę
     linkan gyvenančius, vadino skitais, arba kailinuočiais, nuo to, jog visados žiemą ir vasarą kailinius
     dėvėjo, žiemą įvirsčius, o vasarą išvirsčius; bet pervis^73 tankiau lig paskuojų laikų vadino juos
     getais, kaip tuojau regėsim.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

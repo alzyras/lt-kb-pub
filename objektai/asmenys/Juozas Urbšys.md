@@ -20,7 +20,7 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
 
 ## Teiginiai
 - t-001
-  teiginys: 'V. Molotovas pakvietė ministrą Juozą Urbšį atvykti į Maskvą, ir šis išvyko spalio 2 dieną.'
+  teiginys: 'V. Molotovui pakvietus Juozą Urbšį atvykti į Maskvą, šis išvyko spalio 2 dieną.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -44,7 +44,7 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Birželio 14 d. vakare Juozas Urbšys iš V. Molotovo gavo ultimatumą Lietuvai.'
+  teiginys: 'Birželio 14 d. vakare Juozas Urbšys iš V. Molotovo gavo ultimatumą, kuriuo Lietuvai kelti sovietų reikalavimai.'
   pagrindžia:
     - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -52,7 +52,7 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'V. Molotovas pakvietė ministrą Juozą Urbšį atvykti į Maskvą, ir šis išvyko spalio 2 dieną.'
+  santrauka: 'V. Molotovui pakvietus Juozą Urbšį atvykti į Maskvą, šis išvyko spalio 2 dieną.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-
@@ -107,7 +107,7 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Birželio 14 d. vakare Juozas Urbšys iš V. Molotovo gavo ultimatumą Lietuvai.'
+  santrauka: 'Birželio 14 d. vakare Juozas Urbšys iš V. Molotovo gavo ultimatumą, kuriuo Lietuvai kelti sovietų reikalavimai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau nei J. Urbšys, nei taikingas A. Smetonos

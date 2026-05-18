@@ -26,23 +26,23 @@ A. Kučinskas 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įraš
 - Žalgirio mūšis
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'A. Kučinskas šiame leidinyje įrašytas tarp knygos autorių.'
   pagrindžia:
-    - c-003
+    - c-002
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Turinyje A. Kučinskui priskiriamas skyrius „Žalgirio mūšis“.'
   pagrindžia:
-    - c-002
+    - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Tituliniame puslapyje A. Kučinskas įrašytas tarp leidinio autorių.
+  santrauka: 'A. Kučinskas šiame leidinyje įrašytas tarp knygos autorių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Parašė:
@@ -50,38 +50,37 @@ A. Kučinskas 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įraš
     ##### A.Šapoka, Z. Ivinskis, V. Dėdinas, A. Kučinskas,
 
     ##### S. Sužiedėlis, P. Šležas, Dr. M. Krasauskaitė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Turinyje A. Kučinskui priskiriamas skyrius apie Žalgirio mūšį.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    A. Kučinskas. Žalgirio mūšis .......................................................... 69
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: A. Kučinskas papildomas patvirtintas šaltinio paminėjimas.
+  santrauka: 'A. Kučinskas šiame leidinyje įrašytas tarp knygos autorių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     ##### A.Šapoka, Z. Ivinskis, V. Dėdinas, A. Kučinskas,
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-001
+    - t-003
+- c-003
+  santrauka: 'Turinyje A. Kučinskui priskiriamas skyrius „Žalgirio mūšis“.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    A. Kučinskas. Žalgirio mūšis .......................................................... 69
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

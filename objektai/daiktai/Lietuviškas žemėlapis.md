@@ -33,25 +33,10 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Maciejauskas Petrapily išspausdino lietuvišką žemėlapį.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Maciejauskas Petrapily išspausdino lietuvišką žemėlapį.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1900 m. inž. A. Maciejauskas Petrapily išspausdino lietu-
-      višką žemėlapį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai

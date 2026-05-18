@@ -30,13 +30,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '23 d. Tarybos delegacija pranešė Vokietijos kancleriui Hertlingui nepriklausomybės paskelbimą tokį, koks jis buvo padarytas vasario 16 d., tačiau pažymėjo, kad būsimieji santykiai su Vokietija bus svarstomi gruodžio 11 d. pagrindais.'
+  teiginys: '1918 m. kovo 23 d. Tarybos delegacija Vokietijos kancleriui Hertlingui pranešė vasario 16 d. nepriklausomybės paskelbimą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '23 d. Tarybos delegacija pranešė Vokietijos kancleriui Hertlingui nepriklausomybės paskelbimą tokį, koks jis buvo padarytas vasario 16 d., tačiau pažymėjo, kad būsimieji santykiai su Vokietija bus svarstomi gruodžio 11 d. pagrindais.'
+  santrauka: '1918 m. kovo 23 d. Tarybos delegacija Vokietijos kancleriui Hertlingui pranešė vasario 16 d. nepriklausomybės paskelbimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kovo mėn.
@@ -47,11 +49,11 @@ Nenurodyta
     kaizeris Vilhelmas II tą pačią dieną pasirašė pripažinimo aktą,
     surišdamas tą pripažinimą su artimų santykių užmezgimu su
     Vokietija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

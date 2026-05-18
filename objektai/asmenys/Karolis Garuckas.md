@@ -1,16 +1,18 @@
 ---
 tipas: asmuo
-pavadinimas: 'Karolis Garuckas'
+pavadinimas: 'Karolis Garuckas (kunigas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Karolis Garuckas'
+aliases:
+  - 'Karolis Garuckas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
 ---
-# Karolis Garuckas
+# Karolis Garuckas (kunigas)
 
 ## Santrauka
 

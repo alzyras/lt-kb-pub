@@ -31,24 +31,10 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Karalius ir lenkai ramino, kad jie norį tik gero ir kad unija išeisianti tik į naudą Lietuvai.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Karalius ir lenkai ramino, kad jie norį tik gero ir kad unija išeisianti tik į naudą Lietuvai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pagaliau atėjo lemiamoji birželio 27 d. Katkevičius pasakė karštą ir graudingą kalbą, maldaudamas karalių neskriausti Lietuvos. Ją baigdamas, didysis Livonijos gynėjas net apsiašarojo, o visi Lietuvos atstovai suklaupė. Scena sugraudino net karalių ir lenkus: beveik visi verkė. Tačiau tas nieko nepadėjo. Karalius ir lenkai ramino, kad jie norį tik gero ir kad unija išeisianti tik į naudą Lietuvai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai

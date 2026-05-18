@@ -32,17 +32,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jogaila 1382 m. buvo sudaręs su kryžiuočiais sutartį, kuria jis atidavė kryžiuočiams Žemaičius iki Dubysos, pasižadėjo 4 metų būvyje krikštytis, o be to, pasižadėjo be kryžiuočių pritarimo su niekuo nekariauti ir nedaryti jokios taikos.'
+  teiginys: '1382 m. Jogaila sutartimi su kryžiuočiais atidavė jiems Žemaičius iki Dubysos ir pasižadėjo per ketverius metus krikštytis.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Taigi Jogaila sutiko klausyti kryžiuočių nurodymų, t.'
+  teiginys: 'Jogaila sutiko klausyti kryžiuočių nurodymų, bet šios sutarties neketino laikytis.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jogaila 1382 m. buvo sudaręs su kryžiuočiais sutartį, kuria jis atidavė kryžiuočiams Žemaičius iki Dubysos, pasižadėjo 4 metų būvyje krikštytis, o be to, pasižadėjo be kryžiuočių pritarimo su niekuo nekariauti ir nedaryti jokios taikos.'
+  santrauka: '1382 m. Jogaila sutartimi su kryžiuočiais atidavė jiems Žemaičius iki Dubysos ir pasižadėjo per ketverius metus krikštytis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jogaila 1382 m. buvo sudaręs su kryžiuočiais sutartį, kuria jis
@@ -51,24 +55,24 @@ Nenurodyta
     niekuo nekariauti ir nedaryti jokios taikos. Taigi Jogaila su-
     tiko klausyti kryžiuočių nurodymų, t. y. prisipažino jų priklauso-
     mas. Bet šitos sutarties jis vis dėlto neketino laikytis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Taigi Jogaila sutiko klausyti kryžiuočių nurodymų, t.'
+  santrauka: 'Jogaila sutiko klausyti kryžiuočių nurodymų, bet šios sutarties neketino laikytis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taigi Jogaila su-
     tiko klausyti kryžiuočių nurodymų, t. y. prisipažino jų priklauso-
     mas. Bet šitos sutarties jis vis dėlto neketino laikytis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

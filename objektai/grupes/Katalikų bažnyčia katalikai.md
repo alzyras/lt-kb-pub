@@ -20,40 +20,20 @@ Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m
 
 ## Teiginiai
 - t-001
-  teiginys: 'LDK buvo šešios stačiatikių vyskupijos, pavaldžios tai pačiai Kijevo metropolijai.'
+  teiginys: 'Lietuvos katalikai – ir pats Vilniaus vyskupas Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketinimui įkurti kolegiją.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Lietuvos katalikai – ir pats Vilniaus vyskupas Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketinimui įkurti kolegiją.'
+  teiginys: 'Dvibokštės katalikų bažnyčios žymėjo rytinę katalikybės ir Vidurio Europos ribą.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Bažnyčios su dviem grakščiais, skirtingai dekoruotų tarpsnių bokštais tapo neatskiriamu katalikiškojo peizažo bruožu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą.'
-  pagrindžia:
-    - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'LDK buvo šešios stačiatikių vyskupijos, pavaldžios tai pačiai Kijevo metropolijai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    trys stačiatikių vyskupijos, o LDK – šešios, ir visos jos buvo pavaldžios tai
-    pačiai metropolijai Kijeve, o metropolitas reziduodavo ne tik Kijeve, bet ir
-    Naugarduke bei Vilniuje.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
   santrauka: 'Lietuvos katalikai – ir pats Vilniaus vyskupas Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketinimui įkurti kolegiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -68,9 +48,9 @@ Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Bažnyčios su dviem grakščiais, skirtingai dekoruotų tarpsnių bokštais tapo neatskiriamu katalikiškojo peizažo bruožu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą.'
+    - t-001
+- c-002
+  santrauka: 'Dvibokštės katalikų bažnyčios žymėjo rytinę katalikybės ir Vidurio Europos ribą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Bažnyčios su dviem grakščiais, skirtingai
@@ -82,7 +62,7 @@ Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

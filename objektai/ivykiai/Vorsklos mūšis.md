@@ -34,48 +34,28 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Vytautas susitiko su totoriais prie Vorsklos upės ir skaudžiai pralaimėjo mūšį: žuvo trys ketvirčiai jo kariuomenės ir daugybė kunigaikščių.'
+- t-013
+  teiginys: '1399 m. rugpjūčio 12 d. popietę prie Vorsklos totorių kariuomenė į kautynes stojo gerokai gausesnė už Vytauto jėgas.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: '1399 m. rugpjūčio 12 d. prie Vorsklos totorių kariuomenės į kautynes stojo žymiai gausesnės už Vytauto jėgas.'
-  pagrindžia:
-    - c-002
-- t-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-014
   teiginys: 'Vorsklos kautynės reiškė galą Vytauto didiesiems planams, o didelė jo kariuomenės dalis buvo išžudyta.'
   pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Vytautui po mūšio nakties tamsoje pavyko pabėgti kartu su Žygimantu ir Švitrigaila.'
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-015
+  teiginys: 'Vytautui nakties tamsoje pavyko pabėgti kartu su jaunu broliu Žygimantu ir Švitrigaila.'
   pagrindžia:
-    - c-004
+    - c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vytautas susitiko su totoriais prie Vorsklos upės ir skaudžiai pralaimėjo mūšį: žuvo trys ketvirčiai jo kariuomenės ir daugybė kunigaikščių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Įsidėmėtina, kad tai buvo pir-
-    mas atsitikimas, kada kryžiaus žygis prieš netikė-
-    lius totorius buvo vadovaujamas Lietuvos
-    valdovo. Kryžiuočiai irgi ėjo po jo vėliava (o kaip dar ne-
-    seniai tokie pat kryžiaus žygiai buvo ruošiami prieš Lietuvą!).
-    Vytautas susitiko su totoriais prie Vorsklos upės ir skau-
-    džiai pralaimėjo mūšį: žuvo trys ketvirčiai jo kariuomenės ir dau-
-    gybė kunigaikščių. Pats Vytautas kartu su broliu Zigmantu vos
-    išsigelbėjo, pasinaudoję nakties tamsa.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Prie Vorsklos totorių kariuomenė buvo gausesnė už Vytauto jėgas.'
+  santrauka: '1399 m. rugpjūčio 12 d. popietę prie Vorsklos totorių kariuomenė į kautynes stojo gerokai gausesnė už Vytauto jėgas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos
@@ -89,41 +69,37 @@ Nenurodyta
     tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo
     vado Edigos dalinių. Šitaip rugpiučio 12 popietėje totorių kariuo­
     menės į kautynes stojo žymiai daugiau už Vytauto jėgas^34.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Vorsklos kautynės pateikiamos kaip Vytauto didžiųjų planų žlugimas ir kariuomenės katastrofa.'
+    - t-013
+- c-002
+  santrauka: 'Vorsklos kautynės reiškė galą Vytauto didiesiems planams, o didelė jo kariuomenės dalis buvo išžudyta.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vorsklos kautynės, apie kurias iš ano laiko yra daug šaltinių^35 ,
     reiškė galą Vytauto didiesiems planams. Didelė dalis apsuptos jo
     kariuomenės (skaičiuojama trys ketvirčiai) buvo išžudyta.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Vytautui po Vorsklos pasisekė ištrūkti nakties tamsoje.'
+    - t-014
+- c-003
+  santrauka: 'Vytautui nakties tamsoje pavyko pabėgti kartu su jaunu broliu Žygimantu ir Švitrigaila.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pačiam Vytautui nakties tamsoje, drauge su jaunu broliu
     Žygimantu ir Švitrigaila, pasisekė pabėgti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/J. Dlugošas]]
+    - t-015

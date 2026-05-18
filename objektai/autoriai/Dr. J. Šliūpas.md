@@ -18,13 +18,15 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Šliūpas, o kai šį vokiečių valdžia privertė išvažiuoti į Ameriką, — vėl Mikšas.'
+  teiginys: 'Dr. J. Šliūpas tvarkė „Aušrą“, kol vokiečių valdžia privertė jį išvažiuoti į Ameriką.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šliūpas, o kai šį vokiečių valdžia privertė išvažiuoti į Ameriką, — vėl Mikšas.'
+  santrauka: 'Dr. J. Šliūpas tvarkė „Aušrą“, kol vokiečių valdžia privertė jį išvažiuoti į Ameriką.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     tebuvo įsteigtas tik laikraštis „Aušra" (1883 m.). Jos suma-
@@ -36,11 +38,11 @@ tags:
     o kai šį vokiečių valdžia
     privertė išvažiuoti į
     Ameriką, — vėl Mikšas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
@@ -49,5 +51,4 @@ tags:
 - [[temos/redaktorius]]
 
 ### Susiję objektai
-- [[objektai/autoriai/Jonas Šliūpas]]
 - [[objektai/autoriai/Mikšas]]

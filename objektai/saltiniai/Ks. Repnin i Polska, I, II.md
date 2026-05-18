@@ -18,20 +18,24 @@ Repnin i Polska, I, II (1897);.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Repnin i Polska, I, II (1897);.'
+  teiginys: 'A. Krausharo „Ks. Repnin i Polska“ I ir II tomai buvo išleisti 1897 m.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Repnin i Polska, I, II (1897);.'
+  santrauka: 'A. Krausharo „Ks. Repnin i Polska“ I ir II tomai buvo išleisti 1897 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _A. Kraushar,_ Ks. Repnin i Polska, I, II (1897);
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

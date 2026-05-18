@@ -20,13 +20,17 @@ Pirmasis pilietybės įstatymas taip pat įterpė vieną straipsnį, kuriuo žem
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pirmasis pilietybės įstatymas taip pat įterpė vieną straipsnį, kuriuo žemė, valdoma rusų vyriausybės įkurdintų Lietuvoj kolonistų, iš jų atimama ir grąžinama Lietuvos valstybei, o ši pasižada grąžinti kolonistams pinigus, kiek jie patys už tą žemę yra.'
+  teiginys: 'Pirmasis pilietybės įstatymas numatė iš rusų valdžios įkurdintų kolonistų atimti jų valdytą žemę ir grąžinti ją Lietuvos valstybei.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Pirmasis pilietybės įstatymas taip pat įterpė vieną straipsnį, kuriuo žemė, valdoma rusų vyriausybės įkurdintų Lietuvoj kolonistų, iš jų atimama ir grąžinama Lietuvos valstybei, o ši pasižada grąžinti kolonistams pinigus, kiek jie patys už tą žemę yra.'
+  santrauka: 'Pirmasis pilietybės įstatymas numatė iš rusų valdžios įkurdintų kolonistų atimti jų valdytą žemę ir grąžinti ją Lietuvos valstybei.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmasis pilietybės įstatymas taip pat įterpė vieną straipsnį,
@@ -34,10 +38,10 @@ Pirmasis pilietybės įstatymas taip pat įterpė vieną straipsnį, kuriuo žem
     lonistų, iš jų atimama ir grąžinama Lietuvos valstybei, o ši pasi-
     žada grąžinti kolonistams pinigus, kiek jie patys už tą žemę
     yra sumokėję.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

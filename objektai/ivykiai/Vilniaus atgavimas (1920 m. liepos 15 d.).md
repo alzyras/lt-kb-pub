@@ -30,26 +30,10 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Vilniaus atgavimas.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Vilniaus atgavimas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Vilniaus atgavimas.** Kai lenkai savo kovose su Rusais nu-
-    ėjo net ligi Kijevo (1920 m. gegužės mėn.), ūmai pasikeitė karo
-    laimė, ir lenkai turėjo labai greitu tempu trauktis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Ryšiai
 ### Laikotarpiai

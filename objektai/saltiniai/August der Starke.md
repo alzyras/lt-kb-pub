@@ -18,20 +18,24 @@ Haake, August der Starke (1902);.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Haake, August der Starke (1902);.'
+  teiginys: 'Haake veikalas „August der Starke“ datuojamas 1902 m.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Haake, August der Starke (1902);.'
+  santrauka: 'Haake veikalas „August der Starke“ datuojamas 1902 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _Haake,_ August der Starke (1902);
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

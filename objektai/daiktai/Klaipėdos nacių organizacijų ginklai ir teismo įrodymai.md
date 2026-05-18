@@ -40,7 +40,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išrikiuota 300 dėžių su įrodymais: svastikomis, vėliavomis, smogikų uniformomis, instrukcijomis, lapeliais, ginklais.'
+  teiginys: 'Teismo salės pasienyje buvo išrikiuota 300 dėžių su įrodymais, tarp jų svastikomis, vėliavomis, uniformomis ir ginklais.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -63,7 +63,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išrikiuota 300 dėžių su įrodymais: svastikomis, vėliavomis, smogikų uniformomis, instrukcijomis, lapeliais, ginklais.'
+  santrauka: 'Teismo salės pasienyje buvo išrikiuota 300 dėžių su įrodymais, tarp jų svastikomis, vėliavomis, uniformomis ir ginklais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išri-

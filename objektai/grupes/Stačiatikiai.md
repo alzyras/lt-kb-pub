@@ -45,7 +45,7 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Apie 1500 m. LDK buvo šešios stačiatikių vyskupijos, pavaldžios tai pačiai Kijevo metropolijai.'
+  teiginys: 'LDK buvo šešios stačiatikių vyskupijos, pavaldžios tai pačiai Kijevo metropolijai.'
   pagrindžia:
     - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -108,7 +108,7 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Apie 1500 m. LDK buvo šešios stačiatikių vyskupijos, pavaldžios tai pačiai Kijevo metropolijai.'
+  santrauka: 'LDK buvo šešios stačiatikių vyskupijos, pavaldžios tai pačiai Kijevo metropolijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     trys stačiatikių vyskupijos, o LDK – šešios, ir visos jos buvo pavaldžios tai
@@ -121,3 +121,8 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/daugiakonfesiškumas]]
+- [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas]]

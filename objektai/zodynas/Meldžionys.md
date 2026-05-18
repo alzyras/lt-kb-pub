@@ -20,13 +20,13 @@ Pagrindinė forma: `meldžionys`.
 Vartojamos formos: `meldžionis`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Meldžionys` šiame tekste reiškia vienuolius ar krikščionių misionierius.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Žodis aiškinamas kaip kilęs nuo `melsti`.'
   pagrindžia:
     - c-001
@@ -35,7 +35,7 @@ Vartojamos formos: `meldžionis`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Meldžionys` šiame tekste reiškia vienuolius ar krikščionių misionierius
+  santrauka: '`Meldžionys` šiame tekste reiškia vienuolius ar krikščionių misionierius.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     meldžionis, paeina nuo melsti, kaipogi visiems yra žinoma, jog šiokie tokie pergalviai^850 ir
@@ -50,8 +50,8 @@ Vartojamos formos: `meldžionis`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Pastabos
 

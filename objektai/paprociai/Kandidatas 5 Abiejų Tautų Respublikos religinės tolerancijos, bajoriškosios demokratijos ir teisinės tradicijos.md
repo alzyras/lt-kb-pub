@@ -36,7 +36,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Abiejų Tautų Respublika sukūrė religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos reiškinius.'
+  teiginys: 'Abiejų Tautų Respublika sukūrė religinės tolerancijos, bajoriškosios demokratijos ir teisinę tradiciją.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -44,7 +44,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Abiejų Tautų Respublika sukūrė religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos reiškinius.'
+  santrauka: 'Abiejų Tautų Respublika sukūrė religinės tolerancijos, bajoriškosios demokratijos ir teisinę tradiciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Paprastai moksle laikoma, kad ši

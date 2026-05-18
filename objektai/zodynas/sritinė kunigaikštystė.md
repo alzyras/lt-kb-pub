@@ -21,13 +21,15 @@ Tik Lietuvos feodalizmas buvo kiek kitoks: jis skyrėsi nuo vakarų Europos feod
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tik Lietuvos feodalizmas buvo kiek kitoks: jis skyrėsi nuo vakarų Europos feodalizmo ne tiek bajorijos, kiek sritinių kunigaikščių teisėmis.'
+  teiginys: 'Lietuvos sritinės kunigaikštystės buvo laikomos veikiau administracinėmis apygardomis negu kunigaikščių nuosavomis valstybėmis.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tik Lietuvos feodalizmas buvo kiek kitoks: jis skyrėsi nuo vakarų Europos feodalizmo ne tiek bajorijos, kiek sritinių kunigaikščių teisėmis.'
+  santrauka: 'Lietuvos sritinės kunigaikštystės buvo laikomos veikiau administracinėmis apygardomis negu kunigaikščių nuosavomis valstybėmis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tik Lietuvos feoda-
@@ -35,10 +37,10 @@ Tik Lietuvos feodalizmas buvo kiek kitoks: jis skyrėsi nuo vakarų Europos feod
     ne tiek bajorijos, kiek sritinių kunigaikščių teisėmis. Lietuvos sri-
     tinės kunigaikštystės buvo laikomos ne tiek jas gavusio kunigaikš-
     čio nuosava valstybe, kiek administracine apygarda.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

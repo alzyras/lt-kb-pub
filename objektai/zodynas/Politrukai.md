@@ -18,7 +18,7 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 
 ## Teiginiai
 - t-001
-  teiginys: 'Sovietmečiu Kazimiero Būgos pradėto lietuvių kalbos žodyno rengimą trukdė politrukai.'
+  teiginys: 'Sovietmečiu politrukai trukdė rengti Kazimiero Būgos pradėtą lietuvių kalbos žodyną.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Sovietmečiu Kazimiero Būgos pradėto lietuvių kalbos žodyno rengimą trukdė politrukai.'
+  santrauka: 'Sovietmečiu politrukai trukdė rengti Kazimiero Būgos pradėtą lietuvių kalbos žodyną.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kazi-

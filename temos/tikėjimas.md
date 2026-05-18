@@ -24,7 +24,7 @@ Objektų skaičius: 54.
 - [[objektai/asmenys/Jonušas Radvila]]
 - [[objektai/asmenys/Mykolas Sleževičius]]
 - [[objektai/asmenys/Teodoras]]
-- [[objektai/asmenys/Vaišelga]]
+- [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]]
 
 ### Daiktai
 - [[objektai/daiktai/Kryžių kalno kryžiai]]

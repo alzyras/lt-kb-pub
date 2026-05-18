@@ -45,51 +45,10 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: '1257–1259 metų paliaubų derybose žemaičiai taikos prašė per pasiuntinius Rygoje.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Žemaičių krašto atstovai pagal savo paprotį taiką patvirtindavo su ordino magistru sudauždami delnus, o taip patvirtintos sutarties laikėsi.'
-  pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: Delnų sudaužymo paprotys aprašomas 1257–1259 metų paliaubų derybų kontekste.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tuo tarpu žemaičiai, prašydami taikos, siuntė Rygon savo pasiuntinius, kurie
-    ten šaltai buvo priimti. Neįprasta juk buvo su pagonimis laikyti
-    taiką. Todėl magistras tarėsi su komtūrais, arkivyskupu ir Rygos
-    miestu^156. Buvo nutarta žemaičiams duoti dviejų metų (1257-1259)
-    paliaubas, nes, tur būt, manyta, kad tokio laikotarpio užteks įsitvir­
-    tinti 1253 m. Mindaugo užrašytose žemėse.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Žemaičių delnų sudaužymas veikė kaip taikos sutarties patvirtinimo ritualas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Eiliuotinė kronika įdomiai pažymi, kaip Žemaičių krašto atstovai, pagal savo paprotį, taiką patvirtino su ordino magistru sudauž-
-    dami delnus^157. Jeigu kas jų esąs sutartį tokiu būdu patvirtinęs,
-    jos mirtinai laikosi^158. Iš tiesų, žemaičiai laikėsi savo žodžio.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
+Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai

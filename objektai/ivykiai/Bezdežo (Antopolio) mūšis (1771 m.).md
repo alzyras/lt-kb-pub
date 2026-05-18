@@ -48,16 +48,16 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-002
+- t-003
   teiginys: 'Po Bezdežo mūšio Oginskio pajėgos buvo sumuštos prie Stalovičių, o Baro konfederacija nepasiekė savo tikslų.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: Po Bezdežo mūšio Oginskio pajėgos buvo sumuštos prie Stalovičių, o Baro konfederacija nepasiekė savo tikslų.
+- c-001
+  santrauka: 'Po Bezdežo mūšio Oginskio pajėgos buvo sumuštos prie Stalovičių, o Baro konfederacija nepasiekė savo tikslų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šios pergalės išvystyti nepavyko. Po ga-
@@ -71,13 +71,13 @@ Nenurodyta
     tikslų atsikratyti svetimų šalių įtakos.
     Konfederatams nepavyko sutrukdyti
     1772 m. įvykusio pirmajo ATR padalijimo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

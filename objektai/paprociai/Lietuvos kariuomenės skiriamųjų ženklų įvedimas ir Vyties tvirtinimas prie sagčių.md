@@ -41,22 +41,16 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Pirmaisiais Lietuvos kariuomenės mėnesiais įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiuvas ir geltonas lankelis ant kepurės.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Lietuvos kariai prie gautų vokiečių kariuomenės sagčių tvirtindavo Vytį ir taip uždengdavo vokišką imperijos simboliką.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Pirmaisiais Lietuvos kariuomenės mėnesiais įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiuvas ir geltonas lankelis ant kepurės.
+  santrauka: 'Pirmaisiais Lietuvos kariuomenės mėnesiais įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiuvas ir geltonas lankelis ant kepurės.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Besikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pa-
@@ -73,22 +67,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: Lietuvos kariai prie gautų vokiečių kariuomenės sagčių tvirtindavo Vytį ir taip uždengdavo vokišką imperijos simboliką.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos kariai prie gautų vokiečių kariuomenės sagčių (kairėje) pritvirtindavo
-    Lietuvos simbolį - Vytj (dešinėje), taip uždengdami vokišką imperijos karūną su
-    šūkiu „GOT MIT UNS“ („DIEVAS SU MUMIS“)
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/posakiai/GOT MIT UNS]]
+    - t-003

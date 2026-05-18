@@ -21,7 +21,7 @@ Tačiau pirmasis visuotinis Rusijos imperijos gyventojų surašymas 1897 m. paro
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pagal raštingumą etniniai lietuviai beveik du kartus lenkė Rusijos vidurkį ir nusileido tik latviams bei estams.'
+  teiginys: 'Pagal raštingumą etniniai lietuviai bemaž du kartus lenkė Rusijos vidurkį ir, neskaitant žydų, nusileido tik latviams ir estams.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -31,7 +31,7 @@ Tačiau pirmasis visuotinis Rusijos imperijos gyventojų surašymas 1897 m. paro
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Pagal raštingumą etniniai lietuviai beveik du kartus lenkė Rusijos vidurkį ir nusileido tik latviams bei estams.'
+  santrauka: 'Pagal raštingumą etniniai lietuviai bemaž du kartus lenkė Rusijos vidurkį ir, neskaitant žydų, nusileido tik latviams ir estams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pa-

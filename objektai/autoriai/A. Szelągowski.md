@@ -18,36 +18,22 @@ Szelągowski, Walka o Bałtyk (1904);. Szelągowski, Pieniądz i przewrót cen w
 
 ## Teiginiai
 - t-001
-  teiginys: 'Szelągowski, Walka o Bałtyk (1904);.'
+  teiginys: 'A. Szelągowski buvo 1904 m. veikalo „Walka o Bałtyk“ autorius.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Szelągowski, Pieniądz i przewrót cen w XVI i XVII w.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Szelągowski, Walka o Bałtyk (1904);.'
+  santrauka: 'A. Szelągowski buvo 1904 m. veikalo „Walka o Bałtyk“ autorius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     A. Szelągowski, Walka o Bałtyk (1904);
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Szelągowski, Pieniądz i przewrót cen w XVI i XVII w.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    _A. Szelągowski,_ Pieniądz i przewrót cen w XVI i XVII w. w Polsce (1902);
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

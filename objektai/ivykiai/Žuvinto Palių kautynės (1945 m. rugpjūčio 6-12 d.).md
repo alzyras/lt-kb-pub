@@ -52,28 +52,22 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: 'Partizanai be paliovos apšaudė valtimis plaukiančius enkavėdistus, mūšis tęsėsi visą savaitę, o Dzūkų būriui įsakyta trauktis į Palių pakraštį.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Partizanai slapstėsi Žuvinto ežero salose, o Juozas Kasparavičius-Strausas apgaule privertė rusų valtis artintis.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-003
+- t-005
   teiginys: 'Alytaus NKVD slaptame pranešime nurodyta, kad operacijos metu buvo nukauta 17 partizanų.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Partizanai be paliovos apšaudė valtimis plaukiančius enkavėdistus, mūšis tęsėsi visą savaitę, o Dzūkų būriui įsakyta trauktis į Palių pakraštį.
+  santrauka: 'Partizanai be paliovos apšaudė valtimis plaukiančius enkavėdistus, mūšis tęsėsi visą savaitę, o Dzūkų būriui įsakyta trauktis į Palių pakraštį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pritrūkus valčių, enkavėdistai
@@ -111,51 +105,33 @@ Nenurodyta
     gnan. Tai buvo partizanų pergalė. Junginio
     vadui įsakius, partizanai išsiskirstė mažo-
     mis grupelėmis ir ėmė trauktis iš apsupimo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-002
-  santrauka: Partizanai slapstėsi Žuvinto ežero salose, o Juozas Kasparavičius-Strausas apgaule privertė rusų valtis artintis.
+  santrauka: 'Alytaus NKVD slaptame pranešime nurodyta, kad operacijos metu buvo nukauta 17 partizanų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Pritrūkus valčių, enkavėdistai
-    nulupo Aleknonių ir Žuvinto kaimų ūki-
-    ninkų kluonų duris ir jomis kaip plaustais
-    plaukė ežeru. Partizanai be paliovos juos
-    apšaudė ir granatomis skandino. Mūšis
-    tęsėsi visą savaitę. Matydamas tokią priešo
-    gausą S. Staniškis-Litas įsakė Dzūkų bū-
-    riui trauktis į Buktos (Žaliosios) miško —
-    Palių pakraštį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: Alytaus NKVD slaptame pranešime nurodyta, kad operacijos metu buvo nukauta 17 partizanų.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1945 m. rugpjūčio
+    Žuvusių laisvės kovo-
+    tojų kūnai buvo niekinami Simne, vė-
+    liau užkasti paežerėje. 1945 m. rugpjūčio
     18 d. Alytaus NKVD slaptame pranešime
     LTSR Vidaus reikalų liaudies komisa-
     rui J. Bartašiūnui rašoma, kad opera-
     cijos metu buvo nukauta 17 partizanų.
     Čekistai mėgdavo padidinti žuvusių
     partizanų skaičių, o savų - sumažinti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai

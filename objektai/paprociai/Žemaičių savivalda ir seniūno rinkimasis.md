@@ -34,43 +34,22 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Nesutikimai, kilę po Zigmanto mirties, teturėjo tam tikrų padarinių tik Žemaičiams: konkurentų kovų metu jie išgavo iš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems laikams laidavo jiems savotišką vidaus tvarkymąsi.'
-  pagrindžia:
-    - c-001
-
-- t-002
+- t-004
   teiginys: 'Didieji Lietuvos kunigaikščiai Žemaičių krašto vidaus reikaluose turėjo nedaug įtakos, bet pavojaus metu teikė pagalbą.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-003
+- t-005
   teiginys: 'Žemaičiai vedė savitą politinį gyvenimą, socialiniu atžvilgiu skyrėsi nuo kitų lietuvių žemių ir savo privilegijas išlaikė iki XVI amžiaus.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Nesutikimai, kilę po Zigmanto mirties, teturėjo tam tikrų padarinių tik Žemaičiams: konkurentų kovų metu jie išgavo iš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems laikams laidavo jiems savotišką vidaus tvarkymąsi.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Nesutikimai, kilę po Zigmanto mirties, teturėjo tam tikrų
-    padarinių tik Žemaičiams: konkurentų kovų metu jie išgavo
-    iš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems
-    laikams laidavo jiems savotišką vidaus tvarkymąsi.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: Žemaičiai buvo laikomi Lietuvos dalimi, tačiau jų vidaus reikalams kunigaikščiai darė mažą įtaką.
+  santrauka: 'Didieji Lietuvos kunigaikščiai Žemaičių krašto vidaus reikaluose turėjo nedaug įtakos, bet pavojaus metu teikė pagalbą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet didieji Lietuvos kunigaikščiai, nors nedaug teturėjo
@@ -83,9 +62,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: Žemaičių politinis ir socialinis savitumas siejamas su išlikusiomis privilegijomis.
+    - t-004
+- c-002
+  santrauka: 'Žemaičiai vedė savitą politinį gyvenimą, socialiniu atžvilgiu skyrėsi nuo kitų lietuvių žemių ir savo privilegijas išlaikė iki XVI amžiaus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tenka pastebėti, jog Žemaičiai iš dalies vedė savitą
@@ -108,7 +87,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai

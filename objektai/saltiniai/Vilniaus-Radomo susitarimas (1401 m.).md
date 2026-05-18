@@ -20,32 +20,38 @@ Po ilgų derybų, 1401 m. buvo pasiektas naujas susitarimas, kurs buvo patvirtin
 
 ## Teiginiai
 - t-001
-  teiginys: 'Po ilgų derybų, 1401 m. buvo pasiektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais dokumentais: atskirais dokumentais jį patvirtino Vytautas, Jogaila, Lietuvos ir Lenkų bajorai.'
+  teiginys: '1401 m. Vilniaus-Radomo susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos ir Lenkijos bajorai.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Todėl šis susitarimas yra vadinamas Vilniaus Radomo susitarimu.'
+  teiginys: 'Vilniaus-Radomo susitarimas taip vadinamas todėl, kad Lietuvos dokumentai parašyti Vilniuje, o lenkų bajorų dokumentas surašytas Radome.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Po ilgų derybų, 1401 m. buvo pasiektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais dokumentais: atskirais dokumentais jį patvirtino Vytautas, Jogaila, Lietuvos ir Lenkų bajorai.'
+  santrauka: '1401 m. Vilniaus-Radomo susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos ir Lenkijos bajorai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po ilgų derybų, 1401 m. buvo pa-
     siektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais do-
     kumentais: atskirais dokumentais jį patvirtino Vytautas, Jo-
     gaila, Lietuvos ir Lenkų bajorai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Todėl šis susitarimas yra vadinamas Vilniaus Radomo susitarimu.'
+  santrauka: 'Vilniaus-Radomo susitarimas taip vadinamas todėl, kad Lietuvos dokumentai parašyti Vilniuje, o lenkų bajorų dokumentas surašytas Radome.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vytauto ir Lietuvos bajorų
@@ -53,10 +59,10 @@ Po ilgų derybų, 1401 m. buvo pasiektas naujas susitarimas, kurs buvo patvirtin
     vęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-
     rašė Radome. Todėl šis susitarimas yra vadinamas Vilniaus
     Radomo susitarimu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

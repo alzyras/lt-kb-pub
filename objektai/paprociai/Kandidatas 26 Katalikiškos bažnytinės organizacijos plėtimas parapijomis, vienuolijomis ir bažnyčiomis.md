@@ -35,7 +35,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Net toli nuo vyskupijų centrų buvo kuriamos parapijos ir statomos bažnyčios.'
+  teiginys: 'Katalikiška bažnytinė organizacija plėsta kuriant parapijas ir statant bažnyčias net toli nuo vyskupijų centrų.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -43,7 +43,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Net toli nuo vyskupijų centrų buvo kuriamos parapijos ir statomos bažnyčios.'
+  santrauka: 'Katalikiška bažnytinė organizacija plėsta kuriant parapijas ir statant bažnyčias net toli nuo vyskupijų centrų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visur, net ir toliausiai nuo vyskupijų centrų, kurtos parapijos ir statytos

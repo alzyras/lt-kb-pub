@@ -31,13 +31,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kaip visur, taip ir Lietuvoje, pirmas jėzuitų darbas buvo steigti mokyklos.'
+  teiginys: '1570 m. jėzuitai Vilniuje įsteigė pirmąją kolegiją, o vėliau kolegijų atsirado ir kitose Lietuvos vietose.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kaip visur, taip ir Lietuvoje, pirmas jėzuitų darbas buvo steigti mokyklos.'
+  santrauka: '1570 m. jėzuitai Vilniuje įsteigė pirmąją kolegiją, o vėliau kolegijų atsirado ir kitose Lietuvos vietose.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kaip visur, taip ir Lietuvoje, pirmas jėzuitų darbas buvo
@@ -45,11 +47,11 @@ Nenurodyta
     niąsias, vadinamas kolegijomis, ir akademijas. 1570 m.
     Vilniuje jų buvo įsteigta pirmoji kolegija; netrukus kolegijų
     atsirado ir visame krašte.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

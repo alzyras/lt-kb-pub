@@ -31,17 +31,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Keletą kartų jie vis dėlto pasiekė tai, kad seimas prieš įstatymus buvo sušauktas Lietuvoje, o 1673 m. buvo pakeistas ir patsai seimų vietos įstatymas; naujasis įstatymas nustatė, kad kas trečias seimas, kurio maršalka esti lietuvis, rinktųsi Lietuvoje —.'
+  teiginys: '1673 m. pakeistas seimų vietos įstatymas nustatė, kad kas trečias seimas, kurio maršalka lietuvis, rinktųsi Gardine.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Be to, tas pats įstatymas pripažino pirmenybę Lietuvos ministeriams, kai seimas būdavo Lietuvoje.'
+  teiginys: 'Tas pats įstatymas pripažino Lietuvos ministerių pirmenybę, kai seimas vykdavo Lietuvoje.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Keletą kartų jie vis dėlto pasiekė tai, kad seimas prieš įstatymus buvo sušauktas Lietuvoje, o 1673 m. buvo pakeistas ir patsai seimų vietos įstatymas; naujasis įstatymas nustatė, kad kas trečias seimas, kurio maršalka esti lietuvis, rinktųsi Lietuvoje —.'
+  santrauka: '1673 m. pakeistas seimų vietos įstatymas nustatė, kad kas trečias seimas, kurio maršalka lietuvis, rinktųsi Gardine.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Keletą kartų jie vis dėlto pasiekė tai, kad seimas prieš
@@ -49,25 +53,25 @@ Nenurodyta
     ir patsai seimų vietos įstatymas; naujasis įstatymas nustatė, kad
     kas trečias seimas, kurio maršalka esti lietuvis, rink-
     tųsi Lietuvoje — Gardine.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Be to, tas pats įstatymas pripažino pirmenybę Lietuvos ministeriams, kai seimas būdavo Lietuvoje.'
+  santrauka: 'Tas pats įstatymas pripažino Lietuvos ministerių pirmenybę, kai seimas vykdavo Lietuvoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, tas pats įstatymas
     pripažino pirmenybę Lietuvos ministeriams, kai seimas būdavo
     Lietuvoje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

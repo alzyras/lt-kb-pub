@@ -54,7 +54,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Įvesti mokymą lietuviškai pagal mokinių kilmę nepavyko, o nurodymai tarnautojams darbe kalbėti lietuviškai, dalyvauti lietuviškose šventėse davė atvirkščią rezultatą – oponentai efektyviai kliudė integruoti Klaipėdos kraštą.'
+  teiginys: 'Lietuviško mokymo ir lietuvių kalbos vartojimo skatinimas Klaipėdos krašte davė priešingą rezultatą, nes oponentai kliudė krašto integracijai.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -94,7 +94,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Įvesti mokymą lietuviškai pagal mokinių kilmę nepavyko, o nurodymai tarnautojams darbe kalbėti lietuviškai, dalyvauti lietuviškose šventėse davė atvirkščią rezultatą – oponentai efektyviai kliudė integruoti Klaipėdos kraštą.'
+  santrauka: 'Lietuviško mokymo ir lietuvių kalbos vartojimo skatinimas Klaipėdos krašte davė priešingą rezultatą, nes oponentai kliudė krašto integracijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vokiškose įstaigose dominavo nacių ša-

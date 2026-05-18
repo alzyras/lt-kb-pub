@@ -43,14 +43,14 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Aisčiai namuose laikė šventuosius žalčius kaip namų globėjus, o juos įvesdavo į paskirtą guolį su apeigomis.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Pagarba žalčiams kai kur išlikusi ir vėliau, dar visai neseniai žalčiai buvo laikomi senose trobose.'
+- t-004
+  teiginys: 'Pagarba žalčiams kai kur išliko vėliau, o miškų ir pamiškių senose trobose dar neseniai buvo laikomi žalčiai.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -58,7 +58,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Aisčiai namuose laikė šventuosius žalčius kaip namų globėjus, o juos įvesdavo į paskirtą guolį su apeigomis.
+  santrauka: 'Aisčiai namuose laikė šventuosius žalčius kaip namų globėjus, o juos įvesdavo į paskirtą guolį su apeigomis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kaip visoje gamtoje buvo pilna dievybių, taip jų buvo apstu
@@ -73,9 +73,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Pagarba žalčiams kai kur išlikusi ir vėliau, dar visai neseniai žalčiai buvo laikomi senose trobose.
+  santrauka: 'Pagarba žalčiams kai kur išliko vėliau, o miškų ir pamiškių senose trobose dar neseniai buvo laikomi žalčiai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šita pagarba žalčiams tebėra kai kur išlikusi
@@ -87,7 +87,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai

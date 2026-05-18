@@ -38,32 +38,10 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Prezidentas galėjo diktuoti vyriausybės darbus, todėl opozicijos deleguotas ministras turėjo vykdyti jo užduotis.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Prezidentas galėjo diktuoti vyriausybės darbus, todėl opozicijos deleguotas ministras turėjo vykdyti jo užduotis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos
-    Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. –
-    jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    183
-    deleguotas ministras turėjo vykdyti jo užduotis.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Ryšiai
 ### Laikotarpiai

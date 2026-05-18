@@ -45,7 +45,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Dėl nacistinės Vokietijos spaudimo prezidentas A. Smetona mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos.'
+  teiginys: 'Dėl Nacių Vokietijos politinio ir ekonominio spaudimo A. Smetona mirties bausmę pakeitė kalėjimu iki gyvos galvos.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -53,7 +53,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Dėl nacistinės Vokietijos spaudimo prezidentas A. Smetona mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos.'
+  santrauka: 'Dėl Nacių Vokietijos politinio ir ekonominio spaudimo A. Smetona mirties bausmę pakeitė kalėjimu iki gyvos galvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nacių Vokietija dėl proceso darė didžiulį politinį ir ekonominį spaudi-

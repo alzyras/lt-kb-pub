@@ -44,19 +44,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Aisčiai gerbė ir garbino atskirus medžius, girias bei miškus, ant šakų kabino aukas ir iš medžių ošimo burdavo likimą.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Senieji kalnėnai ir žemaičiai girias taupė ir laikė šventomis, todėl be girių kunigo žinios į jas nebuvo galima nei įžengti, nei žalio virbelio išlaužti.'
   pagrindžia:
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-003
+- t-005
   teiginys: 'Ąžuolus ir ąžuolynus kalnėnai bei žemaičiai garbino ypač stipriai, juos kirsti galėjo tik kunigai, o ąžuolynai ir lieknai veikė kaip šventos garbinimo vietos.'
   pagrindžia:
     - c-003
@@ -64,22 +58,8 @@ Nenurodyta
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: Aisčiai gerbė ir garbino atskirus medžius, girias bei miškus, ant šakų kabino aukas ir iš medžių ošimo burdavo likimą.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl buvo gerbiami ir garbinami ne tik
-    atskiri medžiai, ypač šimtamečiai didingi ąžuolai, bet ir ištisos
-    girios ir miškai: mat, jie buvo laikomi dievų, dvasių ir vėlių būs-
-    tinėmis. Ant medžių šakų aisčiai kabindavo įvairias aukas, iš me-
-    džių ošimo burdavo likimą.
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 - c-002
-  santrauka: Senieji kalnėnai ir žemaičiai girias taupė ir laikė šventomis, o be girių kunigo žinios į jas nebuvo galima nei įžengti, nei žalių šakų laužyti.
+  santrauka: 'Senieji kalnėnai ir žemaičiai girias taupė ir laikė šventomis, todėl be girių kunigo žinios į jas nebuvo galima nei įžengti, nei žalio virbelio išlaužti.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Regėdami senieji tokią naudą iš tų girių didžiai jas gerbė ir augino, žalius medžius laikė, o
@@ -88,13 +68,15 @@ Nenurodyta
     tūlus medžius, bet ir cielas girias taupė ir už šventas turėjo, iš kurių be žinios girių kunigo niekšai
     ne vien žalio virbelio išlaužti, bet įžengti tenai negalėjo, negut, galą daromas, kaipo šventoj
     vietoj globos sau veizėjo.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 - c-003
-  santrauka: Ąžuolai ir ąžuolynai laikyti ypač šventais, juos kirsti galėjo tik kunigai, o ąžuolynai ir lieknai veikė kaip garbinimo vietos.
+  santrauka: 'Ąžuolus ir ąžuolynus kalnėnai bei žemaičiai garbino ypač stipriai, juos kirsti galėjo tik kunigai, o ąžuolynai ir lieknai veikė kaip šventos garbinimo vietos.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Ąžuolus ir ąžuolynus pervis didžiau gerbė, kurių malka pagal jų
@@ -104,8 +86,10 @@ Nenurodyta
     uoksuose, šėtra^171 uždengtus, savo dievų stabus laikė ir tenai meldės, šventą ugnį kūrindami,
     nesgi, kaip tuojau regėsim, bažnyčių neturėjo, bet jų vietoj buvo ąžuolynai ir lieknai, kuriuose
     dievą šio pasaulio Perūną garbino, todėl ir tas girias it šventas vietas gerbė ir godojo.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-005

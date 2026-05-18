@@ -1,9 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Audrys Juozas Bačkis'
+pavadinimas: 'Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Audrys Juozas Bačkis'
+aliases:
+  - 'Audrys Juozas Bačkis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - asmuo
   - popiežius
 ---
-# Audrys Juozas Bačkis
+# Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas)
 
 ## Santrauka
 

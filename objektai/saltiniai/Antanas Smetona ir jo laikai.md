@@ -18,7 +18,7 @@ Antanas Smetona ir jo laikai.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Liudas Truska knygą „Antanas Smetona ir jo laikai“ išleido Vilniuje 1996 m.'
+  teiginys: 'Liudo Truskos knyga „Antanas Smetona ir jo laikai“ išleista Vilniuje 1996 m.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -28,7 +28,7 @@ Antanas Smetona ir jo laikai.
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Liudas Truska knygą „Antanas Smetona ir jo laikai“ išleido Vilniuje 1996 m.'
+  santrauka: 'Liudo Truskos knyga „Antanas Smetona ir jo laikai“ išleista Vilniuje 1996 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Truska L. Antanas Smetona ir jo laikai. Vilnius, 1996.

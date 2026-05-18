@@ -42,7 +42,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Po trejų metų sustojusi „Aušra“ išplėtė lietuvių tautinio ugdymo tęsėjų gretas, kurios ėmė rengti ir leisti naujus lietuviškus periodinius leidinius.'
+  teiginys: 'Po trejų metų sustojusi „Aušra“ išplėtė lietuvių tautinio ugdymo tęsėjų gretas, kurios ėmė leisti naujus periodinius leidinius lietuvių kalba.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -72,7 +72,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Po trejų metų sustojusi „Aušra“ išplėtė lietuvių tautinio ugdymo tęsėjų gretas, kurios ėmė rengti ir leisti naujus lietuviškus periodinius leidinius.'
+  santrauka: 'Po trejų metų sustojusi „Aušra“ išplėtė lietuvių tautinio ugdymo tęsėjų gretas, kurios ėmė leisti naujus periodinius leidinius lietuvių kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors po trejų metų „Aušra“ dėl

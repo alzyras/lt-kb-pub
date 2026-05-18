@@ -40,7 +40,3 @@ Visuomenėje virė diskusijos dėl tų, kurie uoliai talkino naciams ir sovietam
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/posakiai/atėjus okupantui nepulk jam padėti, netarnauk, nekolaboruok]]

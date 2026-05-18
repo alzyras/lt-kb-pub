@@ -18,38 +18,26 @@ Vien tik vokiečių štabas spausdino lietuvišką laikraštpalaikį „Dabartį
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vien tik vokiečių štabas spausdino lietuvišką laikraštpalaikį „Dabartį".'
+  teiginys: 'Vokiečių štabas spausdino lietuvišką laikraštį „Dabartis“.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Vien tik vokiečių štabas spausdino lietuvišką laikraštpalaikį „Dabartį".'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vien tik vokiečių štabas spausdino lietuvišką laikrašt-
-    palaikį „Dabartį". Tik 1917 metais buvo gautas leidimas
-    griežtoj cenzūroj leisti „Lietuvos Aidą".
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Vien tik vokiečių štabas spausdino lietuvišką laikraštpalaikį „Dabartį".'
+  santrauka: 'Vokiečių štabas spausdino lietuvišką laikraštį „Dabartis“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vien tik vokiečių štabas spausdino lietuvišką laikrašt-
     palaikį „Dabartį". Tik 1917 metais buvo gautas leidimas
     griežtoj cenzūroj leisti „Lietuvos Aidą".
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

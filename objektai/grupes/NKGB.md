@@ -65,13 +65,13 @@ Sovietinė valstybės saugumo ir represinė struktūra.
 - susijusios vietos:
 
 ## Teiginiai
-- t-004
+- t-006
   teiginys: 'Atkuriant stalininį režimą Lietuvoje, totalitariniam režimui dirigavo komunistų partija, NKGB ir NKVD struktūros.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-005
+- t-007
   teiginys: 'NKVD ir NKGB skyriai visose apskrityse koordinavo baudžiamąsias operacijas, gaudynes, tardymus ir agentų verbavimą.'
   pagrindžia:
     - c-002
@@ -97,7 +97,7 @@ Sovietinė valstybės saugumo ir represinė struktūra.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-006
 - c-002
   santrauka: 'NKVD ir NKGB skyriai visose apskrityse koordinavo baudžiamąsias operacijas, gaudynes, tardymus ir agentų verbavimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -116,7 +116,7 @@ Sovietinė valstybės saugumo ir represinė struktūra.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-007
 
 ## Ryšiai
 ### Laikotarpiai

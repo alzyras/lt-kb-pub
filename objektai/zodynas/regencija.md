@@ -18,21 +18,23 @@ Kadangi jis tuomet buvo dar mažas, tai buvo sudaryta regencija.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kadangi jis tuomet buvo dar mažas, tai buvo sudaryta regencija.'
+  teiginys: '1533 m. mirus Vosyliui III, Maskvos kunigaikščiu tapo dar mažas Jonas IV Žiaurusis, todėl buvo sudaryta regencija.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kadangi jis tuomet buvo dar mažas, tai buvo sudaryta regencija.'
+  santrauka: '1533 m. mirus Vosyliui III, Maskvos kunigaikščiu tapo dar mažas Jonas IV Žiaurusis, todėl buvo sudaryta regencija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis. Kadangi jis tuomet buvo
     dar mažas, tai buvo sudaryta regencija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

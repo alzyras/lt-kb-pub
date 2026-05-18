@@ -62,13 +62,13 @@ Statytos aplink AT-AS pastatą 1991 m. sausio įvykių metu.
 Nenurodyta
 
 ## Teiginiai
-- t-006
+- t-008
   teiginys: '1991 m. sausio 14 d. prie parlamento buvo gynybinės barikados.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-007
+- t-009
   teiginys: '1991 m. sausio 12 d. vakare žmonės rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos bei televizijos bokšto.'
   pagrindžia:
     - c-002
@@ -91,7 +91,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-008
 - c-002
   santrauka: '1991 m. sausio 12 d. vakare žmonės rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos bei televizijos bokšto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -109,7 +109,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
+    - t-009
 
 ## Šaltiniai ir įrodymai
 

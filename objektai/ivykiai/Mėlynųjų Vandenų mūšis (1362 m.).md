@@ -64,91 +64,40 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: '1362 m. Algirdas prie Mėlynųjų Vandenų sumušė totorius.'
+- t-009
+  teiginys: 'Algirdas 1363 m. rudenį nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Pergalė prie Mėlynųjų Vandenų Algirdui atvėrė kelią į Podolę ir Dniepro žemupį.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Drauge su Podole į Lietuvos valstybę buvo įjungta ir Kijevo kunigaikštystė.'
+- t-010
+  teiginys: 'Algirdas, sutelkęs lietuvių pajėgas, žygiuodamas Padniepre pro Kanevą ir Čerkasus, ties Mėlynaisiais Vandenimis sumušė totorius.'
   pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
-- t-004
-  teiginys: 'Algirdas 1363 m. rudenį nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.'
+- t-011
+  teiginys: 'Lietuvos kariuomenę sudarė Algirdas ir Karijoto sūnų vadovaujami kariai; prieš juos stojo Chadžibėjaus, Kutlugbugos ir Dmitrijaus kariuomenė.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: 'Algirdas, sutelkęs lietuvių pajėgas, žygiuodamas Padniepre pro Kanevą ir Čerkasus, ties Mėlynaisiais Vandenimis sumušė totorius.'
+- t-012
+  teiginys: 'Tikėtina Mėlynųjų Vandenų mūšio vieta siejama su Siniuchos upe Pietų Ukrainoje ir Targovicos vietove prie jos žiočių.'
   pagrindžia:
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-006
-  teiginys: 'Lietuvos kariuomenę sudarė Algirdas ir Karijoto sūnų vadovaujami kariai; prieš juos stojo Chadžibėjaus, Kutlugbugos ir Dmitrijaus kariuomenė.'
-  pagrindžia:
-    - c-005
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: 'Tikėtina mūšio vieta buvo Siniuchos upė Pietų Ukrainoje prie Targovicos.'
-  pagrindžia:
-    - c-006
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-008
+- t-013
   teiginys: 'Pergalė sutvirtino Lietuvos pozicijas Kijevo žemėje, nusiaubė Podolę ir buvo pirmas toks didelis įsiveržimas į Ordos valdas.'
   pagrindžia:
-    - c-007
+    - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1362 m. Algirdas sumušė totorius prie Mėlynųjų Vandenų.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų
-    Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo
-    ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
-    Dniepro žemupį, kuris tada buvo tuščias^13.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-    - t-002
-- c-002
-  santrauka: '1362 m. Algirdas sumušė totorius prie Mėlynųjų Vandenų.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo
-    kunigaikštystė, kuri jau nuo Gedimino laikų buvo didžiojo Lietuvos
-    kunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino
-    brolis Teodoras.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-
-- c-003
-  santrauka: Algirdas 1363 m. rudenį nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.
+  santrauka: 'Algirdas 1363 m. rudenį nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mėlynųjų Vandenų įvykių pagrindi-
@@ -156,19 +105,29 @@ Nenurodyta
     rusų Tverės sąvade - Rogožos metraštyje
     prieš 6871 (1363) m. sakoma, kad rudenį
     Algirdas „Mėlynuosius Vandenis ir Baltąją
-    pakrantę nukariavo“.
-  citata_rodoma: ''
+    pakrantę nukariavo“. Tas pats aprašyta vė-
+    lesniame Maskvos- Tverės kilmės Nikono
+    metraštyje (susijusiame su Algirdo pali-
+    kuonimis Belskiais). Trumpojoje Lietuvos
+    metraščių redakcijoje (xv a. 4-5 de-
+    šimtmečiai) įrašytas „Pasakojimas apie
+    Podolę“ - plačiausiai kalbantis šaltinis
+    šia tema.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-- c-004
-  santrauka: Algirdas, sutelkęs lietuvių pajėgas, žygiuodamas Padniepre pro Kanevą ir Čerkasus, ties Mėlynaisiais Vandenimis sumušė totorius.
+    - t-009
+- c-002
+  santrauka: 'Algirdas, sutelkęs lietuvių pajėgas, žygiuodamas Padniepre pro Kanevą ir Čerkasus, ties Mėlynaisiais Vandenimis sumušė totorius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Trumpojoje Lietuvos
+    Tas pats aprašyta vė-
+    lesniame Maskvos- Tverės kilmės Nikono
+    metraštyje (susijusiame su Algirdo pali-
+    kuonimis Belskiais). Trumpojoje Lietuvos
     metraščių redakcijoje (xv a. 4-5 de-
     šimtmečiai) įrašytas „Pasakojimas apie
     Podolę“ - plačiausiai kalbantis šaltinis
@@ -177,15 +136,15 @@ Nenurodyta
     telkęs savo lietuvių pajėgas, žygiuoda-
     mas Padniepre pro Kanevą, Čerkasus, ties
     Mėlynaisiais Vandenimis sumušęs totorius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-- c-005
-  santrauka: Lietuvos kariuomenę sudarė Algirdas ir Karijoto sūnų vadovaujami kariai; prieš juos stojo Chadžibėjaus, Kutlugbugos ir Dmitrijaus kariuomenė.
+    - t-010
+- c-003
+  santrauka: 'Lietuvos kariuomenę sudarė Algirdas ir Karijoto sūnų vadovaujami kariai; prieš juos stojo Chadžibėjaus, Kutlugbugos ir Dmitrijaus kariuomenė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos kariuomenė buvo sudaryta
@@ -195,15 +154,15 @@ Nenurodyta
     jūros pajūrio ir Krymo totorių teritori-
     jos trijų vadų-kunigaikščių Chadžibėjaus,
     Kutlugbugo, Dmitrijaus kariuomene.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
-- c-006
-  santrauka: Tikėtina mūšio vieta buvo Siniuchos upė Pietų Ukrainoje prie Targovicos.
+    - t-011
+- c-004
+  santrauka: 'Tikėtina Mėlynųjų Vandenų mūšio vieta siejama su Siniuchos upe Pietų Ukrainoje ir Targovicos vietove prie jos žiočių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Didžiausia tikimybė, kad Mėlynieji Van-
@@ -222,15 +181,15 @@ Nenurodyta
     jėgas šešiais lenktais rikiuotės daliniais.
     Neišlaikę spaudimo totoriai bėgo“ žuvo
     daug murzy ir ulonų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
-- c-007
-  santrauka: Pergalė sutvirtino Lietuvos pozicijas Kijevo žemėje, nusiaubė Podolę ir buvo pirmas toks didelis įsiveržimas į Ordos valdas.
+    - t-012
+- c-005
+  santrauka: 'Pergalė sutvirtino Lietuvos pozicijas Kijevo žemėje, nusiaubė Podolę ir buvo pirmas toks didelis įsiveržimas į Ordos valdas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Taigi po mūšio buvo nusiaub-
@@ -250,13 +209,13 @@ Nenurodyta
     pirmas Rytų Europoje toks didelis įsiverži-
     mas į Ordos valdas, sudavęs jos įtakai di-
     delį smūgį.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-008
+    - t-013
 
 ## Ryšiai
 ### Laikotarpiai
@@ -264,3 +223,4 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/vietos/Dniepras]]
+- [[objektai/autoriai/M. Strijkovskis]]

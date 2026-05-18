@@ -18,7 +18,7 @@ Valdžios nedraudžiamų klubų veikla kultūros, gamtos apsaugos, ekologijos ir
 
 ## Teiginiai
 - t-001
-  teiginys: '1988–1990 m. prabilta apie vadinamąsias Lietuvos istorijos „baltąsias dėmes“.'
+  teiginys: '1988–1990 m. prabilta apie vadinamąsias Lietuvos istorijos „baltąsias dėmes“, kai reikalauta daugiau dėmesio Lietuvos istorijai mokyklose.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Valdžios nedraudžiamų klubų veikla kultūros, gamtos apsaugos, ekologijos ir
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1988–1990 m. prabilta apie vadinamąsias Lietuvos istorijos „baltąsias dėmes“.'
+  santrauka: '1988–1990 m. prabilta apie vadinamąsias Lietuvos istorijos „baltąsias dėmes“, kai reikalauta daugiau dėmesio Lietuvos istorijai mokyklose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos Persitvarkymo Sąjūdis

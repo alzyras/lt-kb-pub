@@ -39,36 +39,18 @@ Cituojama „Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kari
 - Cituojama „Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kariuomenes“ ištrauka apie Lenkijos ir Lietuvos kariuomenes.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Cituojama „Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kariuomenes“ ištrauka apie Lenkijos ir Lietuvos kariuomenes.'
+- t-003
+  teiginys: 'Francois Paulin Dalairac rašė, kad Karūnos ir Lietuvos kariuomenė buvo padalyta į lenkų ir svetimšalių autoramentus.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: '„Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kariuomenes“ šiame veikale cituojamas kaip atskiras šaltinis.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Cituojama „Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kariuomenes“ ištrauka apie Lenkijos ir Lietuvos kariuomenes.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ištrauka iš Prancūzijos armijos kario Francois Paulin Dalairac (1699 m.) atsiminimų
-    apie Lenkijos ir Lietuvos kariuomenes.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
-  pagrindžia:
-    - t-001
 
-- c-002
-  santrauka: '„Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kariuomenes“ šiame veikale cituojamas kaip atskiras šaltinis.'
+## Bibliografiniai įrodymai
+- c-001
+  santrauka: 'Francois Paulin Dalairac rašė, kad Karūnos ir Lietuvos kariuomenė buvo padalyta į lenkų ir svetimšalių autoramentus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „Karūnos, kaip ir Lietuvos, kariuomenė yra padalyta į dvi dalis: vieną sudaro vien ka-
@@ -84,6 +66,6 @@ Cituojama „Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kari
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003

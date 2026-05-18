@@ -20,13 +20,15 @@ Jis tuojau susiartino su Lenkų priešu imperatorium Albrechtu (Zigmanto įpėdi
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jis tuojau susiartino su Lenkų priešu imperatorium Albrechtu (Zigmanto įpėdiniu).'
+  teiginys: 'Zigmantas Kęstutaitis suartėjo su Lenkijos priešu imperatoriumi Albrechtu ir neigė Lietuvos priklausomybę Lenkų karaliams.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jis tuojau susiartino su Lenkų priešu imperatorium Albrechtu (Zigmanto įpėdiniu).'
+  santrauka: 'Zigmantas Kęstutaitis suartėjo su Lenkijos priešu imperatoriumi Albrechtu ir neigė Lietuvos priklausomybę Lenkų karaliams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jis tuojau susiartino su Lenkų priešu impe-
@@ -36,11 +38,11 @@ Jis tuojau susiartino su Lenkų priešu imperatorium Albrechtu (Zigmanto įpėdi
     vusi jokios kitos valstybės valdžioje. Jis pats Lietuvos kuni-
     gaikštystę gavęs ne iš Lenkų karaliaus, bet iš Dievo: jis pavel-
     dėjęs ją po savo brolio.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

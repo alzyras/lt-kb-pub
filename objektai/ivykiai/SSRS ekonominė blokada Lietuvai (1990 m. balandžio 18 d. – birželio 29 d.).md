@@ -31,7 +31,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'SSRS ekonominė blokada smarkiai paveikė Lietuvą: trūko kuro, stojo įmonės, užsidarė kai kurios gamyklos ir atsirado pirmieji bedarbiai.'
+  teiginys: 'SSRS ekonominė blokada smarkiai paveikė Lietuvą: trūko kuro, nedirbo Mažeikių naftos perdirbimo įmonė, užsidarė kai kurios gamyklos ir atsirado pirmieji bedarbiai.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -45,7 +45,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'SSRS ekonominė blokada smarkiai paveikė Lietuvą: trūko kuro, stojo įmonės, užsidarė kai kurios gamyklos ir atsirado pirmieji bedarbiai.'
+  santrauka: 'SSRS ekonominė blokada smarkiai paveikė Lietuvą: trūko kuro, nedirbo Mažeikių naftos perdirbimo įmonė, užsidarė kai kurios gamyklos ir atsirado pirmieji bedarbiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nepaisant

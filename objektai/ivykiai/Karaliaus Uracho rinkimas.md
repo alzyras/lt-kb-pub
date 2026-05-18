@@ -32,13 +32,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Norėdama Lietuvos valstybę išgelbėti iš tos būklės, Taryba nusprendė pavesti ją vienam iš valdančiųjų Vokietijos princų, būtent Viurtembergo karaliaus artimam giminaičiui katalikui, kunigaikščiui von Urachui, kurs, būdamas už Prūsijos karalių daug silpnesnis.'
+  teiginys: 'Lietuvos Taryba nusprendė valdovu kviesti kataliką kunigaikštį von Urachą, kuris priėmė lietuvių pateiktas karaliavimo sąlygas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Norėdama Lietuvos valstybę išgelbėti iš tos būklės, Taryba nusprendė pavesti ją vienam iš valdančiųjų Vokietijos princų, būtent Viurtembergo karaliaus artimam giminaičiui katalikui, kunigaikščiui von Urachui, kurs, būdamas už Prūsijos karalių daug silpnesnis.'
+  santrauka: 'Lietuvos Taryba nusprendė valdovu kviesti kataliką kunigaikštį von Urachą, kuris priėmė lietuvių pateiktas karaliavimo sąlygas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Norėdama Lietuvos valstybę išgelbėti iš tos
@@ -50,10 +52,10 @@ Nenurodyta
     tucinius principus, t. y. priėmė lietuvių pateiktas karaliavimo są-
     lygas. Kaip antrasis Lietuvos karalius, jis turėjo vadintis Min-
     daugu II.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

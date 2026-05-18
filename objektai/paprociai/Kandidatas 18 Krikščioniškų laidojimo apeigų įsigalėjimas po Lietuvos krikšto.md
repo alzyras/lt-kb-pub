@@ -35,33 +35,12 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Po Lietuvos krikšto pavaldiniui buvo nurodoma, kokį tikėjimą jis turi išpažinti.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Po Lietuvos krikšto pavaldiniui buvo nurodoma, kokį tikėjimą jis turi išpažinti.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vadinasi, pavaldiniui nurodoma, kokį
-    tikėjimą jis turi išpažinti. Taigi feodaliniai santykiai įgijo idėjinį pagrindą,
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ritualas]]
 - [[temos/tikėjimas]]
-
-### Susiję objektai
-- [[objektai/paprociai/Kandidatas 19 Senjoro atsakomybė už pavaldinio tikėjimą]]
-- [[objektai/paprociai/Kandidatas Senjoro atsakomybė už pavaldinio tikėjimą]]

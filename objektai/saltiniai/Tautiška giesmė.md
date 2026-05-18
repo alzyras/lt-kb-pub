@@ -25,7 +25,7 @@ Kudirka rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam me
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '1950 m. uždraustas ir Lietuvos himnas – Vinco Kudirkos „Tautiška giesmė“.'
+  teiginys: '1950 m. sovietai uždraudė Lietuvos himną - Vinco Kudirkos „Tautišką giesmę“.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -49,7 +49,7 @@ Kudirka rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam me
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '1950 m. uždraustas ir Lietuvos himnas – Vinco Kudirkos „Tautiška giesmė“.'
+  santrauka: '1950 m. sovietai uždraudė Lietuvos himną - Vinco Kudirkos „Tautišką giesmę“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietai sunaikino nepriklausomos Lietuvos laikų paminklus, išnieki-

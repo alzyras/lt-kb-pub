@@ -21,7 +21,7 @@ Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Planinės ekonomikos metais Lietuvos visuomenėje vyravo lūkestis perėmus gamybą ją paskirstyti pagal poreikius.'
+  teiginys: 'Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad perėmus gamybą ją bus galima paskirstyti pagal poreikius.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -35,7 +35,7 @@ Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Planinės ekonomikos metais Lietuvos visuomenėje vyravo lūkestis perėmus gamybą ją paskirstyti pagal poreikius.'
+  santrauka: 'Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad perėmus gamybą ją bus galima paskirstyti pagal poreikius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Planinės

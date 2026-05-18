@@ -19,22 +19,24 @@ Naujo karo metu Karolis ir žuvo (1718 m.), imdamas Norvegijoje Fridrichshalės 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Naujo karo metu Karolis ir žuvo (1718 m.), imdamas Norvegijoje Fridrichshalės tvirtovę.'
+  teiginys: 'Karolis žuvo 1718 m., imdamas Fridrichshalės tvirtovę Norvegijoje.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Naujo karo metu Karolis ir žuvo (1718 m.), imdamas Norvegijoje Fridrichshalės tvirtovę.'
+  santrauka: 'Karolis žuvo 1718 m., imdamas Fridrichshalės tvirtovę Norvegijoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Naujo karo metu Karolis ir
     žuvo (1718 m.), imdamas Norvegijoje Fridrichshalės tvirtovę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

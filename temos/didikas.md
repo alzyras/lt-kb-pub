@@ -24,7 +24,7 @@ Objektų skaičius: 42.
 - [[objektai/asmenys/Jokūbas Sobieskis]]
 - [[objektai/asmenys/Liudvikas XIV]]
 - [[objektai/asmenys/Maksimilijonas]]
-- [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis]]
+- [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]
 - [[objektai/asmenys/Mikalojus Radvila Juodasis]]
 - [[objektai/asmenys/Mikalojus Radvila Rudasis]]
 - [[objektai/asmenys/Mykolas Kaributas Višniaveckis]]

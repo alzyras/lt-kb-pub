@@ -21,26 +21,30 @@ Nesugriautos liko tik Karaliaučiaus, Baigos, Elbingo ir Kulmo, t. Lenkija atgav
 
 ## Teiginiai
 - t-001
-  teiginys: 'Nesugriautos liko tik Karaliaučiaus, Baigos, Elbingo ir Kulmo, t.'
+  teiginys: 'Elbingo pilis liko nesugriauta, nes buvo viena iš tvirčiausių pilių.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Nesugriautos liko tik Karaliaučiaus, Baigos, Elbingo ir Kulmo, t.'
+  santrauka: 'Elbingo pilis liko nesugriauta, nes buvo viena iš tvirčiausių pilių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nesugriautos liko tik Karaliau-
     čiaus, Baigos, Elbingo ir Kulmo, t. y. pačios tvirtosios pilys.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -51,14 +55,10 @@ Nesugriautos liko tik Karaliaučiaus, Baigos, Elbingo ir Kulmo, t. Lenkija atgav
     pasidarė Lenkijos vasalu ir perleido jai daug žemių. Lenkija
     atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte —
     Elbingą, Marijenburgą ir visą Varmijos vyskupystę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Karaliaučius]]

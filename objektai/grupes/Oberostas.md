@@ -66,25 +66,25 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
 - susijusios vietos:
 
 ## Teiginiai
-- t-005
+- t-009
   teiginys: '1915 m. frontui stabilizavusis, vokiečiai sudarė karinę administraciją ir pavadino ją Oberostu.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-006
+- t-010
   teiginys: 'Oberostui formaliai vadovavo Paulius fon Hindenburgas ir Ėrichas Liudendorfas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-007
+- t-011
   teiginys: 'Oberosto režimas nusavino maistą, apkrovė gyventojus mokesčiais ir prievolėmis, išvežė pramonės įmones ir pradėjo germanizaciją mokyklose.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-008
+- t-012
   teiginys: '1917 m. pabaigoje Oberostas įteikė Lietuvos Tarybos prezidiumui Vokietijai palankios rezoliucijos projektą.'
   pagrindžia:
     - c-003
@@ -112,8 +112,8 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-    - t-006
+    - t-009
+    - t-010
 - c-002
   santrauka: 'Oberosto režimas nusavino maistą, apkrovė gyventojus mokesčiais ir prievolėmis, išvežė pramonės įmones ir pradėjo germanizaciją mokyklose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -136,7 +136,7 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
+    - t-011
 - c-003
   santrauka: '1917 m. pabaigoje Oberostas įteikė Lietuvos Tarybos prezidiumui Vokietijai palankios rezoliucijos projektą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -158,7 +158,7 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-008
+    - t-012
 
 ## Ryšiai
 ### Laikotarpiai

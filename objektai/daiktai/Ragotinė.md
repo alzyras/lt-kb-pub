@@ -41,19 +41,19 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: 'Iš žvėrių ragų ant kesčių galų darydavo ragotines kaip sau skirtą ginklą.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-005
   teiginys: 'Žemaičiai, neturėdami geležies, gelžinius noragus sukalė į ragotines.'
   pagrindžia:
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-003
+- t-006
   teiginys: 'Ragotinė senovės Lietuvos vyrams buvo sunki ir senoviška ginklo forma.'
   pagrindžia:
     - c-003
@@ -62,7 +62,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Iš žvėrių ragų ant kesčių galų darydavo ragotines kaip sau skirtą ginklą.
+  santrauka: 'Iš žvėrių ragų ant kesčių galų darydavo ragotines kaip sau skirtą ginklą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Pačius ragus žvėrių vienus ant kesčių^159 galų maustė ir ragotines^160 dirbo sau ginklui, nesgi
@@ -74,9 +74,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-002
-  santrauka: Žemaičiai, neturėdami geležies, gelžinius noragus sukalė į ragotines.
+  santrauka: 'Žemaičiai, neturėdami geležies, gelžinius noragus sukalė į ragotines.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Vieni tiktai Žemaičių medininkai, arba šios
@@ -108,9 +108,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-005
 - c-003
-  santrauka: Ragotinė senovės Lietuvos vyrams buvo sunki ir senoviška ginklo forma.
+  santrauka: 'Ragotinė senovės Lietuvos vyrams buvo sunki ir senoviška ginklo forma.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Lietuvos senovės
@@ -124,7 +124,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

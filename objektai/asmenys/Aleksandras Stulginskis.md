@@ -1,9 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Aleksandras Stulginskis'
+pavadinimas: 'Aleksandras Stulginskis (Lietuvos prezidentas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Aleksandras Stulginskis'
+aliases:
+  - 'Aleksandras Stulginskis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - seimas
   - tauta
 ---
-# Aleksandras Stulginskis
+# Aleksandras Stulginskis (Lietuvos prezidentas)
 
 ## Santrauka
 
@@ -21,7 +23,7 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
 
 ## Teiginiai
 - t-001
-  teiginys: 'Aleksandras Stulginskis buvo išrinktas Steigiamojo Seimo pirmininku, o 1922–1926 m. ėjo Lietuvos prezidento pareigas.'
+  teiginys: 'Aleksandras Stulginskis buvo išrinktas Steigiamojo Seimo pirmininku ir 1922–1926 m. Lietuvos prezidentu.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -29,7 +31,7 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Aleksandras Stulginskis buvo išrinktas Steigiamojo Seimo pirmininku, o 1922–1926 m. ėjo Lietuvos prezidento pareigas.'
+  santrauka: 'Aleksandras Stulginskis buvo išrinktas Steigiamojo Seimo pirmininku ir 1922–1926 m. Lietuvos prezidentu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vasario 16 Aktas, skelbė,

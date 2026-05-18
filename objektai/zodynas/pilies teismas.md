@@ -19,22 +19,24 @@ Pagaliau baudžiamosios (kriminalinės) bylos buvo pavestos spręsti trečiam, v
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pagaliau baudžiamosios (kriminalinės) bylos buvo pavestos spręsti trečiam, vadinamajam pilies teismui.'
+  teiginys: 'Pilies teismui buvo pavesta spręsti baudžiamąsias bylas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pagaliau baudžiamosios (kriminalinės) bylos buvo pavestos spręsti trečiam, vadinamajam pilies teismui.'
+  santrauka: 'Pilies teismui buvo pavesta spręsti baudžiamąsias bylas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pagaliau baudžiamosios (kriminalinės) bylos
     buvo pavestos spręsti trečiam, vadinamajam pilies teismui.
     Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

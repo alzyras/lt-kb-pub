@@ -18,22 +18,24 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė.'
+  teiginys: 'Žygio metu buvo pasiekta Kaluga, taip pat Tula ir Riazanė.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė.'
+  santrauka: 'Žygio metu buvo pasiekta Kaluga, taip pat Tula ir Riazanė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šito žygio metu
     buvo pasiekta net Tula, Kaluga ir Riazanė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

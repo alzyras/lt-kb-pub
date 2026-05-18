@@ -58,13 +58,13 @@ Naudoti prisitaikymui prie gyvenimo miške ir slėpimuisi nuo priešų per šuka
 Nenurodyta
 
 ## Teiginiai
-- t-003
+- t-005
   teiginys: 'Partizanai turėjo prisitaikyti prie gyvenimo miške ir bunkeriuose.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-004
+- t-006
   teiginys: '1946 m. birželį–1948 m. lapkritį partizanai sodybose ir prie jų kasė požeminius bunkerius slėptis nuo priešų per šukavimus.'
   pagrindžia:
     - c-002
@@ -85,7 +85,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-005
 - c-002
   santrauka: '1946 m. birželį–1948 m. lapkritį partizanai sodybose ir prie jų kasė požeminius bunkerius slėptis nuo priešų per šukavimus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -100,7 +100,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-006
 
 ## Šaltiniai ir įrodymai
 

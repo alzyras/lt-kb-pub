@@ -18,7 +18,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
 
 ## Teiginiai
 - t-001
-  teiginys: 'Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia kaip sovietų penktoji kolona Lietuvoje, Maskvos nurodymu besipriešinanti Lietuvos nepriklausomybės atkūrimui, rimtesnės įtakos neturėjo.'
+  teiginys: 'Prosovietinė organizacija „Jedinstvo“ veikė kaip sovietų penktoji kolona Lietuvoje ir priešinosi nepriklausomybės atkūrimui.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia kaip sovietų penktoji kolona Lietuvoje, Maskvos nurodymu besipriešinanti Lietuvos nepriklausomybės atkūrimui, rimtesnės įtakos neturėjo.'
+  santrauka: 'Prosovietinė organizacija „Jedinstvo“ veikė kaip sovietų penktoji kolona Lietuvoje ir priešinosi nepriklausomybės atkūrimui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mažuma komunistų drauge su prosovietine

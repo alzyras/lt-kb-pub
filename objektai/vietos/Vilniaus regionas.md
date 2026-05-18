@@ -28,7 +28,7 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Grasinant Lietuvai, siūlyta iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomiją ar net mini Lietuvos SSR.'
+  teiginys: 'Grasinant Lietuvai siūlyta iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomiją ar mini Lietuvos SSR.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -36,7 +36,7 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Grasinant Lietuvai, siūlyta iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomiją ar net mini Lietuvos SSR.'
+  santrauka: 'Grasinant Lietuvai siūlyta iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomiją ar mini Lietuvos SSR.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Griebtasi šantažo – grasinta

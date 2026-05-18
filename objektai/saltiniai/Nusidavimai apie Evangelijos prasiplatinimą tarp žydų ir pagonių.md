@@ -19,17 +19,23 @@ Tai buvo 1832 m. pradėtas leisti misijų laikraštis „Nusidavimai apie Evange
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tai buvo 1832 m. pradėtas leisti misijų laikraštis „Nusidavimai apie Evangelijos prasiplatinimą tarp žydų ir pagonių".'
+  teiginys: '„Nusidavimai apie Evangelijos prasiplatinimą tarp žydų ir pagonių“ buvo 1832 m. pradėtas leisti misijų laikraštis.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Pirmasis lietuviškas laikraštis — „Nusidavimai apie Evangelijos prasiplatinimą tarp žydų ir pagonių".'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Tai buvo 1832 m. pradėtas leisti misijų laikraštis „Nusidavimai apie Evangelijos prasiplatinimą tarp žydų ir pagonių".'
+  santrauka: '„Nusidavimai apie Evangelijos prasiplatinimą tarp žydų ir pagonių“ buvo 1832 m. pradėtas leisti misijų laikraštis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Laikraščiai.** Pirmasis lietuviškas laikraštis Mažojoje Lie-
@@ -38,11 +44,11 @@ Tai buvo 1832 m. pradėtas leisti misijų laikraštis „Nusidavimai apie Evange
     prasiplatinimą tarp žydų ir pagonių". Daugiau
     įtakos betgi visuomenei turėjo 1849—1880 m. su valdžios pa-
     rama prof. Kuršaičio leistasai „Keleivis".
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -53,10 +59,10 @@ Tai buvo 1832 m. pradėtas leisti misijų laikraštis „Nusidavimai apie Evange
     tarp žydų ir pagonių".
     (1832 m. pradėtas leisti Tilžėje, tais pačiais metais perkeltas į Karaliaučių;
     sustojo tik didžiojo karo metu).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

@@ -59,14 +59,14 @@ Atkūrus Lietuvą sportininkų vieša atsiskyrimo nuo SSRS sporto struktūrų pr
 - Praktika siejama su nepriklausomybės atkūrimu ir sportininkų perėjimu iš SSRS struktūrų į Lietuvos atstovavimą.
 
 ## Teiginiai
-- t-003
-  teiginys: '1991 m. rugpjūtį atkūrus LTOK tarptautines teises, Lietuvos sportininkai tarptautinėse varžybose dalyvavo už savo šalį.'
+- t-005
+  teiginys: '1991 m. rugpjūtį Tarptautiniam olimpiniam komitetui atkūrus LTOK teises, Lietuvos sportininkai tarptautinėse varžybose atstovavo savo šaliai.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: '1991 m. rugpjūtį atkūrus LTOK tarptautines teises, Lietuvos sportininkai tarptautinėse varžybose dalyvavo už savo šalį.'
+- t-006
+  teiginys: '1991 m. rugpjūtį Tarptautiniam olimpiniam komitetui atkūrus LTOK teises, Lietuvos sportininkai tarptautinėse varžybose atstovavo savo šaliai.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -74,7 +74,7 @@ Atkūrus Lietuvą sportininkų vieša atsiskyrimo nuo SSRS sporto struktūrų pr
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1991 m. rugpjūtį atkūrus LTOK tarptautines teises, Lietuvos sportininkai tarptautinėse varžybose dalyvavo už savo šalį.'
+  santrauka: '1991 m. rugpjūtį Tarptautiniam olimpiniam komitetui atkūrus LTOK teises, Lietuvos sportininkai tarptautinėse varžybose atstovavo savo šaliai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tarptautinis olimpinis ko-
@@ -87,8 +87,8 @@ Atkūrus Lietuvą sportininkų vieša atsiskyrimo nuo SSRS sporto struktūrų pr
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-    - t-004
+    - t-005
+    - t-006
 
 ## Šaltiniai ir įrodymai
 

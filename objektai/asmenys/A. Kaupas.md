@@ -18,29 +18,5 @@ tags:
 Kaupo, A.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Kaupo, A.'
-  pagrindžia:
-    - c-001
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Kaupo, A.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jau 1894 m. trijų lietuvių klierikų, vėliau žymių veikėjų
-      kunigų,—A. Kaupo, A. Miluko ir J. Žilinsko,—pastangomis bu-
-      vo įkurta Ivinskio Draugija, kurios tikslas buvo rūpintis, kad
-      1900 m. pasaulinėje Paryžiaus parodoje būtų ir lietuvių skyrius;
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Milukas]]
-- [[objektai/ivykiai/Lietuvos skriaudų viešinimo akcijos Amerikoje (1894–1900 m.)]]

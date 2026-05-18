@@ -35,17 +35,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Hetmonas Pacas atsisakinėjo eiti lenkams į pagalbą, teisindamasis, kad Lietuvos kariuomenė neturinti teisės peržengti Lenkijos sienos.'
+  teiginys: 'Hetmonas Pacas atsisakė eiti lenkams į pagalbą, aiškindamas, kad Lietuvos kariuomenė neturi teisės peržengti Lenkijos sienos.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Bet ne kartą hetmonas Pacas visiškai atsisakė vykti prieš turkus, paprastai remdamasis tuo, kad pagal įstatymus Lietuvos kariuomenė tegalinti išeiti už savo valstybės sienų, tik seimui įsakius.'
+  teiginys: 'Hetmonas Pacas ne kartą atsisakė vykti prieš turkus, remdamasis įstatymu, kad Lietuvos kariuomenė už sienų gali išeiti tik seimui įsakius.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Hetmonas Pacas atsisakinėjo eiti lenkams į pagalbą, teisindamasis, kad Lietuvos kariuomenė neturinti teisės peržengti Lenkijos sienos.'
+  santrauka: 'Hetmonas Pacas atsisakė eiti lenkams į pagalbą, aiškindamas, kad Lietuvos kariuomenė neturi teisės peržengti Lenkijos sienos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Hetmonas Pa-
@@ -53,25 +57,25 @@ Nenurodyta
     kams į pagalbą, teisin-
     damasis, kad Lietuvos kariuomenė neturinti teisės peržengti Len-
     kijos sienos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Bet ne kartą hetmonas Pacas visiškai atsisakė vykti prieš turkus, paprastai remdamasis tuo, kad pagal įstatymus Lietuvos kariuomenė tegalinti išeiti už savo valstybės sienų, tik seimui įsakius.'
+  santrauka: 'Hetmonas Pacas ne kartą atsisakė vykti prieš turkus, remdamasis įstatymu, kad Lietuvos kariuomenė už sienų gali išeiti tik seimui įsakius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet ne kartą hetmonas Pacas visiškai atsisakė vykti prieš
     turkus, paprastai remdamasis tuo, kad pagal įstatymus Lietuvos
     kariuomenė tegalinti išeiti už savo valstybės sienų, tik seimui
     įsakius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

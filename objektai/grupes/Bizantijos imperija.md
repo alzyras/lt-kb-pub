@@ -23,10 +23,14 @@ Tuo metu pasauly geriausiai klestėjo Bizantijos imperija: ji turėjo didžiuosi
   teiginys: 'Tuo metu pasauly geriausiai klestėjo Bizantijos imperija: ji turėjo didžiuosius prekybos centrus ir buvo turtingiausia.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolatinį upių susisiekimą su Bizantija.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -35,11 +39,11 @@ Tuo metu pasauly geriausiai klestėjo Bizantijos imperija: ji turėjo didžiuosi
   citata_originali: |
     Tuo metu pasauly geriausiai klestėjo Bizantijos imperija:
     ji turėjo didžiuosius prekybos centrus ir buvo turtingiausia.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -48,11 +52,11 @@ Tuo metu pasauly geriausiai klestėjo Bizantijos imperija: ji turėjo didžiuosi
   citata_originali: |
     Skandinavai, būdami energingiausi iš šiaurės Europos tautų, tu-
     rėjo nuolatinį upių susisiekimą su Bizantija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

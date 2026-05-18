@@ -41,19 +41,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: 'Karolis Chodkevičius įsakė frontui imituoti atsitraukimą.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Švedų kariuomenės vadovybė sureagavo puldama besitraukiančius lietuvius.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-003
+- t-005
   teiginys: 'Lietuvių karvedžiai nuo seno mėgo apgaulingo atsitraukimo manevrą ir juo versdavo priešininką suardyti savo rikiuotę.'
   pagrindžia:
     - c-002
@@ -62,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Karolis Chodkevičius įsakė frontui imituoti atsitraukimą.
+  santrauka: 'Karolis Chodkevičius įsakė frontui imituoti atsitraukimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pagaliau Karolis Chodkevičius davė
@@ -81,12 +75,13 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-002
-  santrauka: Švedų kariuomenės vadovybė sureagavo puldama besitraukiančius lietuvius.
+  santrauka: 'Lietuvių karvedžiai nuo seno mėgo apgaulingo atsitraukimo manevrą ir juo versdavo priešininką suardyti savo rikiuotę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Lietuvių karvedžiai nuo seno
+    Žalgirio, 1514 m. Oršos mūšius ir
+    daug kitų). Lietuvių karvedžiai nuo seno
     mėgo apgaulingo atsitraukimo manevrą,
     kurį su laiku vis įdomiau įgyvendindavo ir
     provokuodami suardyti priešo rikiuotę pri-
@@ -97,5 +92,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-    - t-003
+    - t-005

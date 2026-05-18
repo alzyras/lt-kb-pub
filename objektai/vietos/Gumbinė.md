@@ -18,22 +18,24 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 
 ## Teiginiai
 - t-001
-  teiginys: 'kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gumbinės, Stalupėnų.'
+  teiginys: 'Vokiečių jėgų menkumas Rytų fronte leido Rusijos kariuomenei įsiveržti į Mažąją Lietuvą iki Gumbinės.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gumbinės, Stalupėnų.'
+  santrauka: 'Vokiečių jėgų menkumas Rytų fronte leido Rusijos kariuomenei įsiveržti į Mažąją Lietuvą iki Gumbinės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Rytų fronte Vokiečių jėgų menkumas leido Rusijos
     kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsru-
     ties, Gumbinės, Stalupėnų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: zemas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

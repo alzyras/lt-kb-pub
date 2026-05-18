@@ -21,7 +21,7 @@ Lietuvos reformacijos ryškiausia ir įtakingiausia protestantų figūra – LDK
 
 ## Teiginiai
 - t-001
-  teiginys: 'XVI a. šeštajame ir septintajame dešimtmetyje beveik visi Lietuvos didikai buvo perėję į reformaciją.'
+  teiginys: 'XVI a. šeštajame-septintajame dešimtmetyje beveik visi Lietuvos didikai buvo perėję į reformaciją, o kalvinizmas vėliau pradėjo nykti.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -29,7 +29,7 @@ Lietuvos reformacijos ryškiausia ir įtakingiausia protestantų figūra – LDK
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'XVI a. šeštajame ir septintajame dešimtmetyje beveik visi Lietuvos didikai buvo perėję į reformaciją.'
+  santrauka: 'XVI a. šeštajame-septintajame dešimtmetyje beveik visi Lietuvos didikai buvo perėję į reformaciją, o kalvinizmas vėliau pradėjo nykti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     XVI a. šeštajame–septintajame dešimtmetyje beveik visi didikai buvo

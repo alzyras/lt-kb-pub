@@ -19,7 +19,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Čekijai „atkritus“ nuo Jogailaičių dinastinės sistemos, joje, kaip ir anksčiau, liko tik Lenkija ir Lietuva.'
+  teiginys: 'Čekijai atkritus nuo Jogailaičių dinastinės sistemos, joje liko tik Lenkija ir Lietuva.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Čekijai „atkritus“ nuo Jogailaičių dinastinės sistemos, joje, kaip ir anksčiau, liko tik Lenkija ir Lietuva.'
+  santrauka: 'Čekijai atkritus nuo Jogailaičių dinastinės sistemos, joje liko tik Lenkija ir Lietuva.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Čekijai „atkritus“ nuo Jogailaičių dinastinės sistemos, joje, kaip ir

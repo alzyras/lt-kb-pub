@@ -19,40 +19,26 @@ Tautų Sąjunga tą projektą tada paskelbė, kaip galutinę savo rekomendaciją
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tautų Sąjunga tą projektą tada paskelbė, kaip galutinę savo rekomendaciją (pagal pakto str.'
+  teiginys: 'Tautų Sąjunga projektą paskelbė galutine rekomendacija pagal pakto 15 straipsnio 4 punktą.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Ambasadorių Konferencija apkaltino Lietuvą Tautų Sąjungai, kad ji savo elgesiu Klaipėdoje gresianti suardyti taiką ir gerus internaciolinius santykius ir pareikalavo pritaikyti pakto 11 str.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Tautų Sąjunga tą projektą tada paskelbė, kaip galutinę savo rekomendaciją (pagal pakto str.'
+  santrauka: 'Tautų Sąjunga projektą paskelbė galutine rekomendacija pagal pakto 15 straipsnio 4 punktą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tautų Sąjunga tą projektą tada
     paskelbė, kaip galutinę savo rekomendaciją (pagal pakto str. 15
     p. 4), geriausiai tinkančią esamam konfliktui išspręsti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Ambasadorių Konferencija apkaltino Lietuvą Tautų Sąjungai, kad ji savo elgesiu Klaipėdoje gresianti suardyti taiką ir gerus internaciolinius santykius ir pareikalavo pritaikyti pakto 11 str.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ambasadorių Konferencija apkaltino Lietuvą Tautų Sąjungai, kad ji savo
-    elgesiu Klaipėdoje gresianti suardyti taiką ir gerus internacio-
-    linius santykius ir pareikalavo pritaikyti pakto 11 str.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

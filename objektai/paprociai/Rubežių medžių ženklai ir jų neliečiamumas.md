@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Dideli ir seni medžiai senovėje tarnavo kaip rubežių ženklai, o jų palietimas buvo baudžiamas labai griežtai.'
   pagrindžia:
     - c-001
@@ -50,15 +50,17 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Dideli ir seni medžiai senovėje tarnavo kaip rubežių ženklai, o jų palietimas buvo baudžiamas labai griežtai.
+  santrauka: 'Dideli ir seni medžiai senovėje tarnavo kaip rubežių ženklai, o jų palietimas buvo baudžiamas labai griežtai.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     dar žinoma yra, jog dideli ir seni medžiai senovėj buvo ženklais rubežių grumtuose, kuriuos
     saugojo kaipo šventus, nesgi už pakušinimą^821 rubežių ženklų buvo visų smarkiausia koronę^822 ,
     beje, smerčio, kaipogi raštuose 15 ir 16 amžiaus mažne vieni medžiai yra randami ženklais
     rubežių.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

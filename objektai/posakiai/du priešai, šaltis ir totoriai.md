@@ -32,7 +32,7 @@ Vytautui priskiriama lakoniška karo formulė pergalę ir galimą pralaimėjimą
 - Pagrindinė forma: Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du priešai: šaltis ir totoriai.
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Formulė pateikiama kaip Vytauto atsakymas atkalbinėjusiems mesti kovą su totoriais dėl šalčių.'
   pagrindžia:
     - c-001
@@ -41,7 +41,7 @@ Vytautui priskiriama lakoniška karo formulė pergalę ir galimą pralaimėjimą
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Lakoniškas atsakymas karo sprendimą paverčia dviejų priešų logika.
+  santrauka: 'Formulė pateikiama kaip Vytauto atsakymas atkalbinėjusiems mesti kovą su totoriais dėl šalčių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,
@@ -50,13 +50,13 @@ Vytautui priskiriama lakoniška karo formulė pergalę ir galimą pralaimėjimą
     Vytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,
     gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės
     apie mus, kad mus nugalėjo du priešai: šaltis ir totoriai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -46,19 +46,19 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-005
+- t-008
   teiginys: '1926 m. gegužės 8-9 d. rinkimuose į III Seimą pralaimėjo LKDP blokas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-006
+- t-009
   teiginys: '1926 m. birželį naują valdančiąją koaliciją pirmą kartą suformavo kairė: valstiečiai liaudininkai ir socialdemokratai.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-007
+- t-010
   teiginys: '1926 m. gegužės 8–9 d. rinkimuose į 85 vietų III Seimą LKDP blokas pralaimėjo.'
   pagrindžia:
     - c-001
@@ -82,9 +82,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-    - t-006
-    - t-007
+    - t-008
+    - t-009
+    - t-010
 
 ## Ryšiai
 ### Laikotarpiai

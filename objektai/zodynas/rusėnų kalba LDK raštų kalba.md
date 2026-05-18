@@ -32,7 +32,7 @@ tags:
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Vytauto laikais raštijos poreikiai sparčiai didėjo, o lietuvių kalba dar nebuvo sukūrusi raštijos tradicijų.'
+  teiginys: 'Vytauto laikais didėjant raštijos poreikiams, lietuvių kalba dar neturėjo raštijos tradicijų.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -78,7 +78,7 @@ tags:
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Vytauto laikais raštijos poreikiai sparčiai didėjo, o lietuvių kalba dar nebuvo sukūrusi raštijos tradicijų.'
+  santrauka: 'Vytauto laikais didėjant raštijos poreikiams, lietuvių kalba dar neturėjo raštijos tradicijų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai lėmė

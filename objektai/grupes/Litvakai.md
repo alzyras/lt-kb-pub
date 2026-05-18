@@ -21,7 +21,7 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vilniaus Gaono autoritetas galėjo lemti, kad litvakai laikyti iškiliais žydais, išsiskyrusiais religine tradicija, racionalumu ir pagarba išsimokslinimui.'
+  teiginys: 'Vilniaus Gaono autoritetas galėjo lemti, kad litvakai imti laikyti iškiliais žydais, išsiskyrusiais religine tradicija, racionalumu ir pagarba išsimokslinimui.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -33,7 +33,7 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Holokausto metu buvo sunaikinta pasaulinę šlovę Lietuvai suteikusi litvakų bendruomenė, nors jos šaknys išliko Lietuvoje, JAV ir Izraelyje.'
+  teiginys: 'Holokausto metu buvo sunaikinta pasaulinę šlovę Lietuvai suteikusi litvakų bendruomenė, nors jos gyvosios šaknys išliko Lietuvoje, JAV ir Izraelyje.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -47,7 +47,7 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vilniaus Gaono autoritetas galėjo lemti, kad litvakai laikyti iškiliais žydais, išsiskyrusiais religine tradicija, racionalumu ir pagarba išsimokslinimui.'
+  santrauka: 'Vilniaus Gaono autoritetas galėjo lemti, kad litvakai imti laikyti iškiliais žydais, išsiskyrusiais religine tradicija, racionalumu ir pagarba išsimokslinimui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litva-
@@ -78,7 +78,7 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Holokausto metu buvo sunaikinta pasaulinę šlovę Lietuvai suteikusi litvakų bendruomenė, nors jos šaknys išliko Lietuvoje, JAV ir Izraelyje.'
+  santrauka: 'Holokausto metu buvo sunaikinta pasaulinę šlovę Lietuvai suteikusi litvakų bendruomenė, nors jos gyvosios šaknys išliko Lietuvoje, JAV ir Izraelyje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Okupacijos ir aneksijos, tremtys, genocidai ir

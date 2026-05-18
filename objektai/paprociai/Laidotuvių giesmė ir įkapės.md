@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Laidodami mirusįjį lietuviai giedodavo palydos giesmę apie laimingesnį antrą gyvenimą ir į kapus dėdavo daiktus kaip žemiškojo darbo ženklą.'
   pagrindžia:
     - c-001
@@ -50,7 +50,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Laidodami mirusįjį lietuviai giedodavo palydos giesmę apie laimingesnį antrą gyvenimą ir į kapus dėdavo daiktus kaip žemiškojo darbo ženklą.
+  santrauka: 'Laidodami mirusįjį lietuviai giedodavo palydos giesmę apie laimingesnį antrą gyvenimą ir į kapus dėdavo daiktus kaip žemiškojo darbo ženklą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Žinoma taip pat yra visiems, jog lietuviai pagonys, laidodami savo numirėlius, taip
@@ -58,8 +58,10 @@ Nenurodyta
     tau vokiečiai vergaus.“ Jei būt tikėję, jog ir po smerčio reiks vergauti, kaip gyvojant, tad nebūt
     taip giedoję laidodami. Jei paskiau dėjo daiktus į kapus, tad ne dėl atenčio^698 darbo, bet dėl
     pasirodymo, jog, pasauly gyvendami, netingėjo.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

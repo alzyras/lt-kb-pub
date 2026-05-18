@@ -18,13 +18,15 @@ Susidarė taip pat ir slaptas vadinamasis Lietuvių Centras Vilniuje, kurs galvo
 
 ## Teiginiai
 - t-001
-  teiginys: 'Susidarė taip pat ir slaptas vadinamasis Lietuvių Centras Vilniuje, kurs galvojo apie laisvos Lietuvos atstatymą, tuo tarpu betgi tenkinosi varydamas lietuvių tautos savarankiškumo propagandą ir keldamas aikštėn lietuvių skirtingumą nuo lenkų.'
+  teiginys: 'Slaptas Lietuvių Centras Vilniuje siekė atkurti laisvą Lietuvą ir skleidė lietuvių tautos savarankiškumo propagandą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Susidarė taip pat ir slaptas vadinamasis Lietuvių Centras Vilniuje, kurs galvojo apie laisvos Lietuvos atstatymą, tuo tarpu betgi tenkinosi varydamas lietuvių tautos savarankiškumo propagandą ir keldamas aikštėn lietuvių skirtingumą nuo lenkų.'
+  santrauka: 'Slaptas Lietuvių Centras Vilniuje siekė atkurti laisvą Lietuvą ir skleidė lietuvių tautos savarankiškumo propagandą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Susidarė taip pat ir slaptas vadinamasis
@@ -34,10 +36,10 @@ Susidarė taip pat ir slaptas vadinamasis Lietuvių Centras Vilniuje, kurs galvo
     skirtingumą nuo lenkų. Centras pirmiausia savo darbą išplėtė
     tarp Amerikos lietuvių, kurie galėjo laisviau kelti Lietuvos ne-
     priklausomybės klausimą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

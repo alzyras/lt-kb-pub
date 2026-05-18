@@ -21,13 +21,13 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
 
 ## Teiginiai
 - t-001
-  teiginys: 'Šv. Steponas buvo pirmasis tikras krikščionis Vengrijos soste ir buvo karūnuotas 1000 metais.'
+  teiginys: 'Šv. Steponas, pirmasis tikras krikščionis Vengrijos soste, buvo karūnuotas 1000 m.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu.'
+  teiginys: 'Vengrijos valdovas Steponas įgijo šventojo statusą ir tapo šventuoju Steponu.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -35,7 +35,7 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šv. Steponas buvo pirmasis tikras krikščionis Vengrijos soste ir buvo karūnuotas 1000 metais.'
+  santrauka: 'Šv. Steponas, pirmasis tikras krikščionis Vengrijos soste, buvo karūnuotas 1000 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Adalberto misija Prūsijoje (997), Norvegijos
@@ -51,7 +51,7 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu.'
+  santrauka: 'Vengrijos valdovas Steponas įgijo šventojo statusą ir tapo šventuoju Steponu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atrodo, kad visa Vytauto politika orientuota į „švento

@@ -22,6 +22,8 @@ Pagaliau tarpuvaldį pabaigdavo karūnacinis seimas, kuris visada būdavo šauki
   teiginys: 'Pagaliau tarpuvaldį pabaigdavo karūnacinis seimas, kuris visada būdavo šaukiamas Krokuvoje, nes ten įvykdavo karūnacija.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -31,10 +33,10 @@ Pagaliau tarpuvaldį pabaigdavo karūnacinis seimas, kuris visada būdavo šauki
     Pagaliau tarpuvaldį pabaigdavo karūnacinis sei-
     mas, kuris visada būdavo šaukiamas Krokuvoje, nes ten įvyk-
     davo karūnacija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

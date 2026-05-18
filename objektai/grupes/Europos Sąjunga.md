@@ -38,7 +38,7 @@ tags:
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Dabartinė Lietuva yra visavertė demokratinė Europos valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios Europos valstybių likimas.'
+  teiginys: 'Dalyvaudama NATO ir ES veikloje, Lietuva sustiprino saugumą, tarptautinį statusą ir ekonomiką.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -68,7 +68,7 @@ tags:
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Dabartinė Lietuva yra visavertė demokratinė Europos valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios Europos valstybių likimas.'
+  santrauka: 'Dalyvaudama NATO ir ES veikloje, Lietuva sustiprino saugumą, tarptautinį statusą ir ekonomiką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sėkmingai dalyvaudama įvairiose NATO ir ES veiklos srityse, Lietu-

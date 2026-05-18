@@ -33,13 +33,13 @@ Liudvika Gedgaudienė-Didžiulienė šiame leidinyje minima kaip užrašų ir pr
 - užrašai apie telkiamas sukilėlių pajėgas Salų miestelyje
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Liudvika Gedgaudienė-Didžiulienė šiame leidinyje įvardijama kaip užrašų autorė.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Liudvikos Gedgaudienės-Didžiulienės užrašuose aprašomas sukilėlių pajėgų telkimas Salų miestelyje.'
   pagrindžia:
     - c-002
@@ -49,34 +49,34 @@ Liudvika Gedgaudienė-Didžiulienė šiame leidinyje minima kaip užrašų ir pr
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Šaltinio ištrauka tiesiogiai įvardija Liudvikos Gedgaudienės-Didžiulienės užrašus.
+  santrauka: 'Liudvika Gedgaudienė-Didžiulienė šiame leidinyje įvardijama kaip užrašų autorė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku buvusios
     moters prisiminimai apie telkiamas sukilėlių pajėgas Salų miestelyje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Užrašuose pateikiamas gyvas sukilimo dienos vaizdas.
+  santrauka: 'Liudvikos Gedgaudienės-Didžiulienės užrašuose aprašomas sukilėlių pajėgų telkimas Salų miestelyje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „Štai vieną dieną bažnyčioje visais varpais skambina. Pulkai žmonių eina į Salas. Nuėjo
     ir mūsų tėveliai ir visa šeimyna; tiktai mes vaikai su bobute namie belikome. Kaip gaila!
     Sugrįžę apsakinėjo tokius gražius daiktus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 - c-003
-  santrauka: Užrašuose detalizuojama sukilėlių pulkų sudėtis ir kunigo Mackevičiaus kalba.
+  santrauka: 'Liudvikos Gedgaudienės-Didžiulienės užrašuose aprašomas sukilėlių pajėgų telkimas Salų miestelyje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Buvusi ten atėjusi Lietuvos kariuomenė, trys didžiausi pulkai. Vienas pulkas, Dolegos
@@ -90,10 +90,10 @@ Liudvika Gedgaudienė-Didžiulienė šiame leidinyje minima kaip užrašų ir pr
 
     ~ Eikime, broliai, už vierą šventą, už tėvynę mūsų brangiąją Lietuvą ir už mūsų bro-
     lius Lietuvius!“
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004

@@ -22,8 +22,12 @@ Buvo sudaryta naujoji valstybės konstitucija, kuria buvo grąžinta santvarka, 
   teiginys: 'Buvo sudaryta naujoji valstybės konstitucija, kuria buvo grąžinta santvarka, buvusi po I padalinimo.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Buvo sudaryta naujoji valstybės konstitucija, kuria buvo grąžinta santvarka, buvusi po I padalinimo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -31,10 +35,10 @@ Buvo sudaryta naujoji valstybės konstitucija, kuria buvo grąžinta santvarka, 
     Buvo sudaryta
     naujoji valstybės konstitucija, kuria buvo grąžinta santvarka,
     buvusi po I padalinimo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

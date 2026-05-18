@@ -107,4 +107,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Kandidatas Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos]]
-- [[objektai/grupes/Vilniaus mokslo bičiulių draugija]]

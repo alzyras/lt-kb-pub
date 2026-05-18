@@ -45,25 +45,25 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-005
   teiginys: '1397 m. Vytautas surengė didelį žygį prie Juodosios jūros ir į Krymą.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Po 1397 m. žygio Vytautas apgyvendino dalį totorių belaisvių ir pabėgėlių Trakų kunigaikštijoje, o dalį atidavė Jogailai.'
+- t-006
+  teiginys: 'Po 1397 m. žygio Vytautas pusę atsivežtų totorių belaisvių ir pabėgėlių atidavė Jogailai, o kitus įkurdino Trakų kunigaikštijoje.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-003
+- t-007
   teiginys: '1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės tvirtovę.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-004
+- t-008
   teiginys: '1398 m. žygio metu paimti karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
   pagrindžia:
     - c-002
@@ -81,29 +81,29 @@ Nenurodyta
     totorių gyvenime vaidino svarbią rolę. Atsigabenęs iš žygio daug
     totorių belaisvių ir pabėgėlių, kurių pusę atidavė Jogailai, juos
     Vytautas įkurdino Trakų kunigaikštijoje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-005
+    - t-006
 - c-002
-  santrauka: '1397 m. Vytautas surengė didelį žygį prie Juodosios jūros ir į Krymą.'
+  santrauka: '1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės tvirtovę.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
     tvirtovę « Tavan’ » (šv. Jono pilį)^21. Berods, to žygio metu paim­
     tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-    - t-004
+    - t-007
+    - t-008
 
 ## Ryšiai
 ### Laikotarpiai

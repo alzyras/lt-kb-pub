@@ -19,13 +19,15 @@ Zabitis Nezabitauskas išleido lietuviškųjų knygų bibliografiją, S.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Zabitis Nezabitauskas išleido lietuviškųjų knygų bibliografiją, S.'
+  teiginys: 'K. Zabitis Nezabitauskas išleido lietuviškųjų knygų bibliografiją.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Zabitis Nezabitauskas išleido lietuviškųjų knygų bibliografiją, S.'
+  santrauka: 'K. Zabitis Nezabitauskas išleido lietuviškųjų knygų bibliografiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     D. Poška net ėmė rašyti žemaitišką žodyną ir tam tikslui
@@ -35,11 +37,11 @@ Zabitis Nezabitauskas išleido lietuviškųjų knygų bibliografiją, S.
     bliografiją, S. Stanevi-
     čius — lietuviškų dainų rin-
     kinį.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

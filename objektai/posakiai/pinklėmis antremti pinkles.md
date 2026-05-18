@@ -38,7 +38,7 @@ Formulė nusako atsakomąją gudrybę: į priešo pinkles atsakyti kitomis pinkl
 
 ## Teiginiai
 - t-001
-  teiginys: 'Formulė pateikia Vytauto laikyseną atsakyti kryžiuočių pinklėms kitomis pinklėmis.'
+  teiginys: 'Žemaičiai buvo palaikomi siekiant užbėgti už akių didesnėms nelaimėms ir pinklėmis atremti pinkles.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -46,7 +46,7 @@ Formulė nusako atsakomąją gudrybę: į priešo pinkles atsakyti kitomis pinkl
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Atsišaukime pinklės aprašomos kaip atsakomoji politinė priemonė.
+  santrauka: 'Žemaičiai buvo palaikomi siekiant užbėgti už akių didesnėms nelaimėms ir pinklėmis atremti pinkles.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     „Trokšdami išmintingai užbėgti už akių dar didesnėms ne­

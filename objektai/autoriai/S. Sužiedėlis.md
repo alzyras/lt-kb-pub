@@ -29,13 +29,13 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
 - Vytauto ekonominė politika
 
 ## Teiginiai
-- t-001
-  teiginys: 'S. Sužiedėlis šiame leidinyje įrašytas tarp knygos autorių.'
+- t-003
+  teiginys: 'S. Sužiedėlis buvo vienas iš leidinio autorių.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Turinyje S. Sužiedėliui priskiriami skyriai „Vytauto vaidmuo Lietuvos kristianizacijoj“, „Vytauto galybės laikai“ ir „Vytauto ekonominė politika“.'
   pagrindžia:
     - c-002
@@ -44,7 +44,7 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Tituliniame puslapyje S. Sužiedėlis įrašytas tarp leidinio autorių.
+  santrauka: 'S. Sužiedėlis buvo vienas iš leidinio autorių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Parašė:
@@ -52,15 +52,15 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
     ##### A.Šapoka, Z. Ivinskis, V. Dėdinas, A. Kučinskas,
 
     ##### S. Sužiedėlis, P. Šležas, Dr. M. Krasauskaitė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Turinyje S. Sužiedėliui priskiriami trys skyriai apie Vytauto laikus.
+  santrauka: 'Turinyje S. Sužiedėliui priskiriami skyriai „Vytauto vaidmuo Lietuvos kristianizacijoj“, „Vytauto galybės laikai“ ir „Vytauto ekonominė politika“.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     S. Sužiedėlis. Vytauto vaidmuo Lietuvos kristianizacijoj 91
@@ -69,13 +69,13 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
     P. Šležas. Vytauto konfliktas su Lenkija dėl karūnacijos ............. 205
     ```
     S.Sužiedėlis. Vytauto ekonominė politika ..................................... 235
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

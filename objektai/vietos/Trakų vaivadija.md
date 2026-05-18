@@ -20,13 +20,15 @@ Krašto padalinimas į pavietus ir vaivadijas.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Krašto padalinimas į pavietus ir vaivadijas.'
+  teiginys: 'Iš Trakų vaivadijos buvo išskirti Gardino, Kauno ir Upytės pavietai.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Krašto padalinimas į pavietus ir vaivadijas.'
+  santrauka: 'Iš Trakų vaivadijos buvo išskirti Gardino, Kauno ir Upytės pavietai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Krašto padalinimas į pavietus ir vaivadijas. Visas kraš-
@@ -39,10 +41,10 @@ Krašto padalinimas į pavietus ir vaivadijas.
     Ašmenos, Lydos, Ukmergės ir Breslaujos, o iš Trakų vaiva-
     dijos — Gardino, Kauno ir Upytės pavietai. Pilies teismai
     pavietuose priklausė seniūnams, o vaivadijose — vaivadoms.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

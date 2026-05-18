@@ -36,7 +36,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Po Žalgirio mūšio lenkai ir lietuviai pasidalijo grobį, tarp jo belaisvius, Ordino komtūrų barzdas ir vėliavas.'
+  teiginys: 'Po Žalgirio mūšio lenkai ir lietuviai pasidalijo Ordino vėliavas kaip karo grobio dalį.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -44,7 +44,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Po Žalgirio mūšio lenkai ir lietuviai pasidalijo grobį, tarp jo belaisvius, Ordino komtūrų barzdas ir vėliavas.'
+  santrauka: 'Po Žalgirio mūšio lenkai ir lietuviai pasidalijo Ordino vėliavas kaip karo grobio dalį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žalgirio mūšis įėjo į isto-

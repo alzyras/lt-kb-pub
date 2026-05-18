@@ -33,17 +33,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Valstybės pajamos per 1773—1775 m. padalinamąjį seimą, kai krašte šeimininkavo visoki rusų parsidavėliai, taip pat buvo visiškai sunaikintos: daugumas valstybės dvarų buvo jų išgrobstyta (seimas tą patvirtino), be to, jie išgrobstė ir visus ižde buvusius.'
+  teiginys: 'Per 1773–1775 m. padalinamąjį seimą buvo sunaikintos valstybės pajamos, išgrobsčius daugumą valstybės dvarų ir iždo pinigus.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Seimas priėmė eilę konstitucijų, kuriomis Rusams pasidarbavę didikai „už nuopelnus kraštui" buvo apdovanoti milžiniškomis sumomis pinigų.'
+  teiginys: 'Padalinamasis seimas konstitucijomis didikams, pasidarbavusiems rusams, skyrė milžiniškas pinigų sumas.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Valstybės pajamos per 1773—1775 m. padalinamąjį seimą, kai krašte šeimininkavo visoki rusų parsidavėliai, taip pat buvo visiškai sunaikintos: daugumas valstybės dvarų buvo jų išgrobstyta (seimas tą patvirtino), be to, jie išgrobstė ir visus ižde buvusius.'
+  santrauka: 'Per 1773–1775 m. padalinamąjį seimą buvo sunaikintos valstybės pajamos, išgrobsčius daugumą valstybės dvarų ir iždo pinigus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Valstybės pajamos per 1773—1775 m. padalinamąjį seimą,
@@ -51,25 +55,25 @@ Nenurodyta
     visiškai sunaikintos: daugumas valstybės dvarų buvo jų iš-
     grobstyta (seimas tą patvirtino), be to, jie išgrobstė ir visus
     ižde buvusius pinigus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Seimas priėmė eilę konstitucijų, kuriomis Rusams pasidarbavę didikai „už nuopelnus kraštui" buvo apdovanoti milžiniškomis sumomis pinigų.'
+  santrauka: 'Padalinamasis seimas konstitucijomis didikams, pasidarbavusiems rusams, skyrė milžiniškas pinigų sumas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Seimas priėmė eilę konstitucijų, kuriomis
     Rusams pasidarbavę didikai „už nuopelnus kraštui" buvo
     apdovanoti milžiniškomis sumomis pinigų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

@@ -23,6 +23,8 @@ tags:
   teiginys: 'Šia sutartim Švitrigaila sutiko atiduoti kryžiuočiams Palangą ir trejetą mylių pajūrio ruožo.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -33,11 +35,11 @@ tags:
     dinui buvo ypatingai maloni, nes čia jam šmėkštelėjo viltis revi-
     duoti Melno taikos sąlygas. Šia sutartim Švitrigaila sutiko ati-
     duoti kryžiuočiams Palangą ir trejetą mylių pajūrio ruožo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

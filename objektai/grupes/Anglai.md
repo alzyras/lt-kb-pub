@@ -32,7 +32,7 @@ tags:
 Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvos / Žemaičių.
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvos / Žemaičių.'
   pagrindžia:
     - c-001
@@ -42,7 +42,7 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvos / Žemaičių.
+  santrauka: 'Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvos / Žemaičių.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Ant galų galo, nebgalėdami nė nuo ko geležies
@@ -56,9 +56,9 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 - c-002
-  santrauka: Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvos / Žemaičių.
+  santrauka: 'Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvos / Žemaičių.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Atentį metą anglai buvo įkūrę tenai prekės draugybą^1512.
@@ -68,7 +68,7 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

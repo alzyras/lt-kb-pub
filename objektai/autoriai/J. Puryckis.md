@@ -18,21 +18,23 @@ Puryckis, Die Glaubenspaltung in Litauen (1919);.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Puryckis, Die Glaubenspaltung in Litauen (1919);.'
+  teiginys: 'J. Puryckis parašė veikalą „Die Glaubenspaltung in Litauen“, išleistą 1919 m.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Puryckis, Die Glaubenspaltung in Litauen (1919);.'
+  santrauka: 'J. Puryckis parašė veikalą „Die Glaubenspaltung in Litauen“, išleistą 1919 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     J. Puryckis, Die Glaubenspal-
     tung in Litauen (1919);
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

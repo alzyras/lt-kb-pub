@@ -35,26 +35,28 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
 - Cituojama „Juozo Miliausko prisiminimai“ ištrauka.
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: 'Cituojama „Juozo Miliausko prisiminimai“ ištrauka.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-005
   teiginys: '„Juozo Miliausko prisiminimai“ šiame veikale cituojamas kaip atskiras šaltinis.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Antrą dieną per pusryčius vėl įvyko ataka nuo tos tankumyno pusės, kur pastatyti tokie šauliai, kurie būtų net ir lekiantį žvirblį nudėję, ne ik baimingai lendantį „kirilą“ Šauliams dar davė pagalbon šovinių užtaisytojus. Šaudymas tęsėsi be pertraukos 6 valandas. Nė vienas šovinys veltui nelėkė: vos tik tankumyne rusas šnektelėjo - ir guli amžinam atilsiui. Vėl puolėjai pasitraukė, savo pašautus šalin pavilkėję. Rasti keli rusų palikti karabinai. Iš šešių kariuomenės kuopų ir iš poros šimtų sienos sargybos mažai kas bepasiliko. Mūsų pusėj pirmą dieną krito tik vienas, o antrą du lengvai sužeisti. Tai buvo mums stebūklai.'
+- t-006
+  teiginys: 'Juozas Miliauskas rašė, kad antrą puolimo dieną šaudymas tęsėsi šešias valandas, o sukilėlių pusėje buvo du lengvai sužeisti.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Cituojama „Juozo Miliausko prisiminimai“ ištrauka.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -66,10 +68,9 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-
+    - t-004
 - c-002
   santrauka: '„Juozo Miliausko prisiminimai“ šiame veikale cituojamas kaip atskiras šaltinis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -86,12 +87,11 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-
+    - t-005
 - c-003
-  santrauka: 'Antrą dieną per pusryčius vėl įvyko ataka nuo tos tankumyno pusės, kur pastatyti tokie šauliai, kurie būtų net ir lekiantį žvirblį nudėję, ne ik baimingai lendantį „kirilą“ Šauliams dar davė pagalbon šovinių užtaisytojus. Šaudymas tęsėsi be pertraukos 6 valandas. Nė vienas šovinys veltui nelėkė: vos tik tankumyne rusas šnektelėjo - ir guli amžinam atilsiui. Vėl puolėjai pasitraukė, savo pašautus šalin pavilkėję. Rasti keli rusų palikti karabinai. Iš šešių kariuomenės kuopų ir iš poros šimtų sienos sargybos mažai kas bepasiliko. Mūsų pusėj pirmą dieną krito tik vienas, o antrą du lengvai sužeisti. Tai buvo mums stebūklai.'
+  santrauka: 'Juozas Miliauskas rašė, kad antrą puolimo dieną šaudymas tęsėsi šešias valandas, o sukilėlių pusėje buvo du lengvai sužeisti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Antrą dieną per pusryčius vėl įvyko ataka nuo tos tankumyno pusės, kur pastatyti tokie
@@ -105,6 +105,6 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-006

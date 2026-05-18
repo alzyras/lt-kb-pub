@@ -18,7 +18,7 @@ Susiformavo dvi kultūrinės kryptys – etnokultūrinis sąjūdis ir dėl Vakar
 
 ## Teiginiai
 - t-001
-  teiginys: 'Susiformavo dvi kultūrinės kryptys – etnokultūrinis sąjūdis ir dėl Vakarų kultūros įtakos susidariusios jaunimo roko muzikos grupių, hipių, pankų, rokerių ir kitų bendrijos.'
+  teiginys: 'Dėl Vakarų kultūros įtakos susidarė jaunimo roko muzikos grupių, hipių, pankų, rokerių ir kitų bendrijos.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -32,7 +32,7 @@ Susiformavo dvi kultūrinės kryptys – etnokultūrinis sąjūdis ir dėl Vakar
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Susiformavo dvi kultūrinės kryptys – etnokultūrinis sąjūdis ir dėl Vakarų kultūros įtakos susidariusios jaunimo roko muzikos grupių, hipių, pankų, rokerių ir kitų bendrijos.'
+  santrauka: 'Dėl Vakarų kultūros įtakos susidarė jaunimo roko muzikos grupių, hipių, pankų, rokerių ir kitų bendrijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Susiformavo dvi kultūrinės kryptys –

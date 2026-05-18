@@ -27,25 +27,25 @@ tags:
 Šis leidinys minimas kaip XV amžiaus laiškų rinkinys. Santrumpų sąrašas pateikia pilną pavadinimą, tomus ir leidėjus.
 
 ## Teiginiai
-- t-002
-  teiginys: '„Codex epistolaris saeculi decimi quinti“ yra XV amžiaus laiškų rinkinys, kurio 1-3 tomus parengė J. Sokołowski, J. Szujski ir A. Lewicki.'
+- t-001
+  teiginys: '„Codex epistolaris saeculi decimi quinti“ 1-3 tomus išleido J. Sokołowskis, J. Szujskis ir A. Lewickis 1876, 1891 ir 1894 m.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Bibliografiniai įrodymai
-- c-002
-  santrauka: Citata pagrindžia pilną leidinio pavadinimą, tomus ir leidėjus.
+- c-001
+  santrauka: '„Codex epistolaris saeculi decimi quinti“ 1-3 tomus išleido J. Sokołowskis, J. Szujskis ir A. Lewickis 1876, 1891 ir 1894 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     CeXV = Codex epistolaris saeculi decimi quinti, t. 1-3, išl. J. So­
     kołowski, J. Szujski ir A. Lewicki (rink. : MoMP, t. 2,
     1876 ; t. 12, 1891 ; t. 14, 1894).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001

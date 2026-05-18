@@ -38,7 +38,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Joną Mačiulį-Maironį žinojimas apie Lietuvos praeitį įkvėpė įamžinti savo šalies istoriją raštu.'
+  teiginys: 'Jonas Mačiulis-Maironis buvo tarp Lietuvos šviesuolių, kuriuos žinojimas įkvėpė raštu įamžinti savo šalies praeitį.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -46,7 +46,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Joną Mačiulį-Maironį žinojimas apie Lietuvos praeitį įkvėpė įamžinti savo šalies istoriją raštu.'
+  santrauka: 'Jonas Mačiulis-Maironis buvo tarp Lietuvos šviesuolių, kuriuos žinojimas įkvėpė raštu įamžinti savo šalies praeitį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     “

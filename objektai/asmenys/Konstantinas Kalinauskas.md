@@ -20,7 +20,7 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
 
 ## Teiginiai
 - t-001
-  teiginys: 'Konstantinas Kalinauskas buvo paskirtas Lietuvos sukilimo vadovu, kai Lenkijos sukilėlių vyriausybė grąžino „raudonuosius“.'
+  teiginys: 'Konstantinas Kalinauskas buvo paskirtas Lietuvos sukilimo vadovu, kai į vadovybę grįžo „raudonieji“.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -34,7 +34,7 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Konstantinas Kalinauskas buvo paskirtas Lietuvos sukilimo vadovu, kai Lenkijos sukilėlių vyriausybė grąžino „raudonuosius“.'
+  santrauka: 'Konstantinas Kalinauskas buvo paskirtas Lietuvos sukilimo vadovu, kai į vadovybę grįžo „raudonieji“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkijos sukilėlių vyriausybė į Lietu-

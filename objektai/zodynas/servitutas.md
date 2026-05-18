@@ -19,31 +19,35 @@ Valstiečiai, eidami baudžiavą, turėjo vadinamuosius servitutus, t. Sužinoj�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Valstiečiai, eidami baudžiavą, turėjo vadinamuosius servitutus, t.'
+  teiginys: 'Baudžiavos laikais servitutai buvo valstiečių teisės dvaro miškuose ganyti, šienauti, žvejoti dvaro ežeruose ir kirstis malkų.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Sužinojęs apie tai, Muravjovas įsakė tikrinamosioms komisijoms, kad už servitutus valstiečiams būtų suteikta kitokių patogumų, o jeigu kur nors dvarininkai nesutiktų jų duoti, tai kad servitutų teisės būtų paliktos, kaip buvusios.'
+  teiginys: 'Muravjovas įsakė už servitutus suteikti valstiečiams kitų patogumų arba palikti servitutų teises, jei dvarininkai nesutiktų.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Valstiečiai, eidami baudžiavą, turėjo vadinamuosius servitutus, t.'
+  santrauka: 'Baudžiavos laikais servitutai buvo valstiečių teisės dvaro miškuose ganyti, šienauti, žvejoti dvaro ežeruose ir kirstis malkų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Valstiečiai, eidami baudžiavą, turėjo vadinamuosius
     servitutus, t. y. teises dvaro miškuose ganyti, šienau-
     ti, dvaro ežeruose žvejoti ir giriose pasikirsti malkų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Sužinojęs apie tai, Muravjovas įsakė tikrinamosioms komisijoms, kad už servitutus valstiečiams būtų suteikta kitokių patogumų, o jeigu kur nors dvarininkai nesutiktų jų duoti, tai kad servitutų teisės būtų paliktos, kaip buvusios.'
+  santrauka: 'Muravjovas įsakė už servitutus suteikti valstiečiams kitų patogumų arba palikti servitutų teises, jei dvarininkai nesutiktų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Sužinojęs apie
@@ -51,11 +55,11 @@ Valstiečiai, eidami baudžiavą, turėjo vadinamuosius servitutus, t. Sužinoj�
     tutus valstiečiams būtų suteikta kitokių patogumų, o jeigu kur
     nors dvarininkai nesutiktų jų duoti, tai kad servitutų teisės būtų
     paliktos, kaip buvusios.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

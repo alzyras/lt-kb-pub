@@ -38,7 +38,7 @@ Mengli-Girėjus, gavęs žinią apie totoriams fatališkai pasibaigusį mūšį,
 - Mengli-Girėjus, gavęs žinią apie totoriams fatališkai pasibaigusį mūšį, tuojau pat išsiuntė savo pasiuntinį į Vilnių, kuris turėjo pranešti, kad chanas labai noriai laikysis gegužės mėnesį suderėtos taikos. Pasiuntinys taip pat gabeno Kazanės chano MahometoAmino laišką, kuriame jis Lietuvai siūlė sąjungą prieš Maskvą.
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Mengli-Girėjus, gavęs žinią apie totoriams fatališkai pasibaigusį mūšį, tuojau pat išsiuntė savo pasiuntinį į Vilnių, kuris turėjo pranešti, kad chanas labai noriai laikysis gegužės mėnesį suderėtos taikos. Pasiuntinys taip pat gabeno Kazanės chano MahometoAmino laišką, kuriame jis Lietuvai siūlė sąjungą prieš Maskvą.'
   pagrindžia:
     - c-001
@@ -46,10 +46,13 @@ Mengli-Girėjus, gavęs žinią apie totoriams fatališkai pasibaigusį mūšį,
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Mengli-Girėjus, gavęs žinią apie totoriams fatališkai pasibaigusį mūšį, tuojau pat išsiuntė savo pasiuntinį į Vilnių, kuris turėjo pranešti, kad chanas labai noriai laikysis gegužės mėnesį suderėtos taikos. Pasiuntinys taip pat gabeno Kazanės chano MahometoAmino laišką, kuriame jis Lietuvai siūlė sąjungą prieš Maskvą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    mirštantį valdovą Aleksandrą.
     Mengli-Girėjus, gavęs žinią apie toto-
     riams fatališkai pasibaigusį mūšį, tuojau pat
     išsiuntė savo pasiuntinį į Vilnių, kuris turėjo
@@ -64,6 +67,6 @@ Mengli-Girėjus, gavęs žinią apie totoriams fatališkai pasibaigusį mūšį,
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

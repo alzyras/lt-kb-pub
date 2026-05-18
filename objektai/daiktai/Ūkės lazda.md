@@ -41,28 +41,28 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-005
   teiginys: 'Lazda buvo naudojama kaip vyresnybės įsakymų skelbimo ženklas.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-006
   teiginys: 'Lazda siejama su krive krivaičiu ir kreiva lazda.'
   pagrindžia:
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-004
+- t-007
   teiginys: 'Sueigose lazda padėdavo palaikyti tylą ir tvarką.'
   pagrindžia:
-    - c-004
+    - c-003
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Lazda buvo naudojama kaip vyresnybės įsakymų skelbimo ženklas.
+  santrauka: 'Lazda buvo naudojama kaip vyresnybės įsakymų skelbimo ženklas.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Jo įsakymai buvo svietui kaip dievo
@@ -77,9 +77,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-005
 - c-002
-  santrauka: Lazda siejama su krive krivaičiu ir kreiva lazda.
+  santrauka: 'Lazda siejama su krive krivaičiu ir kreiva lazda.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Prašaleičiai vadino jį krive krivaičiu, būk nuo jo kreivos lazdos, kuria jis svietui įsakymus davęs.
@@ -89,9 +89,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-004
-  santrauka: Sueigose lazda padėdavo palaikyti tylą ir tvarką.
+    - t-006
+- c-003
+  santrauka: 'Sueigose lazda padėdavo palaikyti tylą ir tvarką.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tuose sueimuose visą parėdką vedė kunigai, kurių tenai valdžia buvo didelė, nesgi, su lazda
@@ -102,4 +102,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-007

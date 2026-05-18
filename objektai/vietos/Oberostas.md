@@ -26,15 +26,9 @@ Vokiečiai Lietuvą laikė Rusijos okupuota teritorija, tad, 1915 m. frontui sta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Oberosto teritorija žemėlapyje forma kone sutapo su 1793–1795 m. LDK ribomis.'
+  teiginys: 'Oberoste judėjimas tarp apskričių buvo suvaržytas, o pašto korespondencija lietuvių kalba uždrausta.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Oberoste judėjimas tarp apskričių buvo suvaržytas, o lietuviška pašto korespondencija uždrausta.'
-  pagrindžia:
-    - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 
@@ -55,20 +49,7 @@ Vokiečiai Lietuvą laikė Rusijos okupuota teritorija, tad, 1915 m. frontui sta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Oberosto teritorija žemėlapyje forma kone sutapo su 1793–1795 m. LDK ribomis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nuostabiausia tai, kad žemėlapyje
-    į pietus nutįsusi Oberosto teritorija forma kone sutapo su 1793–1795 m.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Oberoste judėjimas tarp apskričių buvo suvaržytas, o lietuviška pašto korespondencija uždrausta.'
+  santrauka: 'Oberoste judėjimas tarp apskričių buvo suvaržytas, o pašto korespondencija lietuvių kalba uždrausta.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Judėjimas tarp apskričių buvo suvaržytas, pašto korespondencija lie-
@@ -80,7 +61,7 @@ Vokiečiai Lietuvą laikė Rusijos okupuota teritorija, tad, 1915 m. frontui sta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

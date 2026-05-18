@@ -41,16 +41,16 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-002
+- t-003
   teiginys: 'Nuo tokių svečių kai kurie pilionys išsipirkdavo privilegijomis, o vargšesni statydavosi namus labai žemomis angomis, kad į juos neįvažiuotų vežimai ir karietos.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: Kai kurie pilionys išsipirkdavo privilegijomis, o vargšesni statydavosi žemų angų namus, kad išvengtų tokių svečių.
+- c-001
+  santrauka: 'Nuo tokių svečių kai kurie pilionys išsipirkdavo privilegijomis, o vargšesni statydavosi namus labai žemomis angomis, kad į juos neįvažiuotų vežimai ir karietos.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Pilionys, neįmanydami, kaip nuo tokių svečių nusikratyti, vieni
@@ -75,8 +75,10 @@ Nenurodyta
     nuo tokių svečių nusikratyti, dirbo sau namus didžiai žemomis angomis, idant pro vartus su aukštais
     vežimais ir karietomis negalėtų įvažiuoti, kokius namus šiandien dar Vilniuje ir Kaune gal regėti, pro
     kurių angas augalotas vyras su brylium nepasilenkęs negali įlįsti
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003

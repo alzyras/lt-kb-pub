@@ -34,17 +34,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1861 m. įkurtų valsčių viršaičiai (staršinos) ir raštininkai, kurių daugumas buvo dvarininkų pastatyti, buvo atstatyti.'
+  teiginys: '1861 m. įkurtų valsčių viršaičiai ir raštininkai, kurių daugumą buvo parinkę dvarininkai, buvo atstatyti.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Viso valstiečių savivaldybių veikimo priežiūra buvo pavesta taikos tarpininkams su taikos teisėjais.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1861 m. įkurtų valsčių viršaičiai (staršinos) ir raštininkai, kurių daugumas buvo dvarininkų pastatyti, buvo atstatyti.'
+  santrauka: '1861 m. įkurtų valsčių viršaičiai ir raštininkai, kurių daugumą buvo parinkę dvarininkai, buvo atstatyti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1861 m. įkurtų valsčių viršaičiai (star-
@@ -54,11 +58,11 @@ Nenurodyta
     vo įsakyta stropiai žiūrėti, kad dvarininkai ir dvarų administra-
     cijos tarnautojai nedalyvautų valsčių sueigose ir nesikištų į jų
     nutarimus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -69,11 +73,11 @@ Nenurodyta
     pavesta taikos tarpininkams su taikos teisėjais. Kai XIX a. gale
     taikos tarpininkai ir taikos teisėjai buvo pakeisti vad. žemiečių
     viršininkais, šie taip pat prižiūrėjo ir valsčių savivaldybes.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

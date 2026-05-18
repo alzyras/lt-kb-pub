@@ -32,17 +32,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kęstutis tuojau patikėjo žinia, nes jau ir pats įtarė Jogailą.'
+  teiginys: 'Kęstutis, radęs Jogailos sutarties su Ordinu raštą, paskelbė atimąs iš Jogailos sostą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Tačiau, Vytautui užtarus Jogailą, Kęstutis ne tiktai jį paleido suimtą, bet dar jam davė valdyti Vitebską, kurį valdė jaunystėje jo tėvas Algirdas.'
+  teiginys: 'Vytautui užtarus Jogailą, Kęstutis jį paleido ir davė valdyti Vitebską.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kęstutis tuojau patikėjo žinia, nes jau ir pats įtarė Jogailą.'
+  santrauka: 'Kęstutis, radęs Jogailos sutarties su Ordinu raštą, paskelbė atimąs iš Jogailos sostą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kęstutis tuojau patikėjo žinia, nes jau ir pats įtarė
@@ -55,25 +59,25 @@ Nenurodyta
     lis labai greit pasidavė. Kęstutis tuojau suėmė visą Jogailos šei-
     mą. Radęs sutarties su ordinu raštą, — išdavimo įrodymą tu-
     rėdamas savo rankose, jis pasiskelbė atimąs iš Jogailos sostą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Tačiau, Vytautui užtarus Jogailą, Kęstutis ne tiktai jį paleido suimtą, bet dar jam davė valdyti Vitebską, kurį valdė jaunystėje jo tėvas Algirdas.'
+  santrauka: 'Vytautui užtarus Jogailą, Kęstutis jį paleido ir davė valdyti Vitebską.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau, Vytautui užtarus Jogailą, Kęstutis ne tiktai jį paleido
     suimtą, bet dar jam davė valdyti Vitebską, kurį valdė jaunystėje
     jo tėvas Algirdas. Į Polocką išsiųsta Jogailos kariuomenė, iš-
     girdusi apie perversmą, tuojau perėjo į Kęstučio pusę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

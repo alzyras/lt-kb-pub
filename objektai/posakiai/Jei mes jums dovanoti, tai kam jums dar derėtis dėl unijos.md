@@ -37,8 +37,8 @@ tags:
 - Niekas negalėjo mūsų dovanoti, nes mes esame laisvi žmonės...
 
 ## Teiginiai
-- t-001
-  teiginys: 'Formuluotė šiame pasakojime pateikiama kaip Katkevičiaus ir Radvilos kontrformulių pora ginče dėl unijos.'
+- t-002
+  teiginys: 'Katkevičius ironiškai atkirto, kad jei lietuviai lenkams dovanoti, jiems nebėra reikalo derėtis dėl unijos.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -46,7 +46,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Katkevičiaus ir Radvilos kontrformulių pora ginče dėl unijos
+  santrauka: 'Katkevičius ironiškai atkirto, kad jei lietuviai lenkams dovanoti, jiems nebėra reikalo derėtis dėl unijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tada Katkevičius ironiškai atkirto: „Jei mes jums dovanoti, tai
@@ -57,4 +57,4 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

@@ -33,20 +33,22 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Naujojo akmens amžiaus kirvukas su kotu, rastas Kaune.'
+  teiginys: 'Naujojo akmens amžiaus kirvukas su kotu buvo rastas Kaune.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Naujojo akmens amžiaus kirvukas su kotu, rastas Kaune.'
+  santrauka: 'Naujojo akmens amžiaus kirvukas su kotu buvo rastas Kaune.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Naujojo akmens amžiaus kirvukas su kotu, rastas Kaune.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

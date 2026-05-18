@@ -21,13 +21,13 @@ Pagrindinė forma: `vieža`.
 Vartojamos formos: `viežą`, `viežos`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Vieža` šiame tekste reiškia kalinimo duobę ar kalėjimo tipo vietą.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Ji siejama su baudimu ir baudos išsipirkimu pinigais.'
   pagrindžia:
     - c-001
@@ -36,7 +36,7 @@ Vartojamos formos: `viežą`, `viežos`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Vieža` šiame tekste reiškia kalinimo duobę ar kalėjimo tipo vietą
+  santrauka: '`Vieža` šiame tekste reiškia kalinimo duobę ar kalėjimo tipo vietą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Kaltininkus taip kankino: vienus korė į sausą medį, kaip šiandien dar tariama yra į paiką žmogų:
@@ -51,8 +51,8 @@ Vartojamos formos: `viežą`, `viežos`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Pastabos
 

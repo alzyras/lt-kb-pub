@@ -41,7 +41,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Lenkiškoji civilizacija Lietuvos kultūrą veikė per bažnytinę sistemą, studijas Krokuvoje, administraciją ir ūkio reformą.'
+  teiginys: 'Studijos Krokuvos universitete buvo vienas lenkiškosios civilizacijos poveikio Lietuvos kultūrai būdų.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -64,7 +64,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Lenkiškoji civilizacija Lietuvos kultūrą veikė per bažnytinę sistemą, studijas Krokuvoje, administraciją ir ūkio reformą.'
+  santrauka: 'Studijos Krokuvos universitete buvo vienas lenkiškosios civilizacijos poveikio Lietuvos kultūrai būdų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau viską nulė-

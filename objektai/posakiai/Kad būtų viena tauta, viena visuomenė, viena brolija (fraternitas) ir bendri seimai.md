@@ -43,8 +43,8 @@ tags:
 - viena galva, vienas karalius
 
 ## Teiginiai
-- t-001
-  teiginys: 'Formuluotė šiame pasakojime pateikiama kaip Melniko akto politinės unijos formulė.'
+- t-002
+  teiginys: 'Melniko akte numatyta viena tauta, viena visuomenė, viena brolija, bendri seimai ir vienas visų renkamas karalius.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -52,7 +52,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Melniko akto politinės unijos formulė
+  santrauka: 'Melniko akte numatyta viena tauta, viena visuomenė, viena brolija, bendri seimai ir vienas visų renkamas karalius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Akte yra sakoma: Kad būtų viena tauta, viena visuomenė,
@@ -65,7 +65,7 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

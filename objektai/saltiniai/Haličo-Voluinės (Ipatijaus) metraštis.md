@@ -35,7 +35,7 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
 - Paminėjimo data: prie 1252 m.
 
 ## Teiginiai
-- t-003
+- t-004
   teiginys: 'Haličo-Voluinės (Ipatijaus) metraštyje prie 1252 m. minimi keturi dievai.'
   pagrindžia:
     - c-001
@@ -59,4 +59,4 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-004

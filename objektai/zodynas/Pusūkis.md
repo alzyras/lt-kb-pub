@@ -23,13 +23,13 @@ Pagrindinė forma: `pusūkis`.
 Vartojamos formos: `pusūkiu`, `įnamiu`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'pusūkis yra kiemas, kuriame nėra tiek trobesių kaip pilname ūkyje.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'įnamis yra kiemas su vienu ar dviem trobesiais.'
   pagrindžia:
     - c-001
@@ -38,7 +38,7 @@ Vartojamos formos: `pusūkiu`, `įnamiu`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: pusūkis yra kiemas, kuriame nėra tiek trobesių kaip pilname ūkyje
+  santrauka: 'pusūkis yra kiemas, kuriame nėra tiek trobesių kaip pilname ūkyje.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     todėl nėra ko stebėtis, jei anie dainose savo namus visados dvarais vadina, nesgi jei kurs kiemas
@@ -65,5 +65,5 @@ Vartojamos formos: `pusūkiu`, `įnamiu`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004

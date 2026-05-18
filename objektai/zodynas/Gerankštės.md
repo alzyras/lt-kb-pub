@@ -18,13 +18,13 @@ Pagrindinė forma: `gerankštės`.
 Papildomos aiškios formos neišskirtos.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Gerankštės` yra archajiškas krūminio danties pavadinimas.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Terminas pavartotas kaip neįprastas mato palyginimas aprašant labai didelius gyvūnus.'
   pagrindžia:
     - c-001
@@ -33,7 +33,7 @@ Papildomos aiškios formos neišskirtos.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Gerankštės` yra archajiškas krūminio danties pavadinimas
+  santrauka: '`Gerankštės` yra archajiškas krūminio danties pavadinimas.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Kas tikėtų šiandien į
@@ -61,12 +61,12 @@ Papildomos aiškios formos neišskirtos.
     raštininkas nuo paties pramanymo rašto nežino jų ir neminavoja^18
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Pastabos
 

@@ -31,23 +31,25 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tad, norėdamas sumažinti importą ir paremti savąją pramonę, 1776 m. seimas išleido gyventojų išlaidų normuojamąjį įstatymą (lex sumptuaria).'
+  teiginys: '1776 m. seimas priėmė gyventojų išlaidų normuojamąjį įstatymą, siekdamas sumažinti importą ir paremti savąją pramonę.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tad, norėdamas sumažinti importą ir paremti savąją pramonę, 1776 m. seimas išleido gyventojų išlaidų normuojamąjį įstatymą (lex sumptuaria).'
+  santrauka: '1776 m. seimas priėmė gyventojų išlaidų normuojamąjį įstatymą, siekdamas sumažinti importą ir paremti savąją pramonę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tad, norėdamas sumažinti im-
     portą ir paremti savąją pramonę, 1776 m. seimas išleido gyventojų
     išlaidų normuojamąjį įstatymą **_(lex sumptuaria)._**
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

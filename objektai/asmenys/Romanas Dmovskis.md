@@ -26,7 +26,7 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'R. Dmovskio šalininkai lenkai siekė išlaikyti Lietuvą Lenkijos sudėtyje.'
+  teiginys: 'Romano Dmovskio ir J. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą Lenkijos sudėtyje.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -49,7 +49,7 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'R. Dmovskio šalininkai lenkai siekė išlaikyti Lietuvą Lenkijos sudėtyje.'
+  santrauka: 'Romano Dmovskio ir J. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą Lenkijos sudėtyje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gausūs R. Dmovskio ir

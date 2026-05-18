@@ -41,13 +41,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Klėtis buvo pakelta ant trinkų ar akmenų, grįsta ir lubota lentomis dėl sausumo.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Viename kambaryje laikydavo javus, kitame kybodavo drabužiai, todėl šis kambarys vadinosi svirnu.'
   pagrindžia:
     - c-002
@@ -56,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Klėtis buvo pakelta ant trinkų ar akmenų, grįsta ir lubota lentomis dėl sausumo.
+  santrauka: 'Klėtis buvo pakelta ant trinkų ar akmenų, grįsta ir lubota lentomis dėl sausumo.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Trečiasis trobesys buvo vadinamas klėtis, nuo žodžio klėsti^216 , nuo žemės per uolektį ar
@@ -70,9 +70,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Viename kambaryje laikydavo javus, kitame kybodavo drabužiai, todėl šis kambarys vadinosi svirnu.
+  santrauka: 'Viename kambaryje laikydavo javus, kitame kybodavo drabužiai, todėl šis kambarys vadinosi svirnu.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Visi tie kambariai, kaip sakiau, buvo luboti, ant tų lubų viskos^218 , kame laikė
@@ -85,4 +85,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004

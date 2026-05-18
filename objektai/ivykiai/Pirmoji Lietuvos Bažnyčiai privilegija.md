@@ -31,13 +31,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Taip pat buvo duota pirmoji Lietuvos Bažnyčiai privilegija, t.'
+  teiginys: 'Pirmoji Lietuvos Bažnyčiai privilegija buvo 1387 m. duotas raštas, apibrėžęs Bažnyčios ir dvasininkų teises.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Taip pat buvo duota pirmoji Lietuvos Bažnyčiai privilegija, t.'
+  santrauka: 'Pirmoji Lietuvos Bažnyčiai privilegija buvo 1387 m. duotas raštas, apibrėžęs Bažnyčios ir dvasininkų teises.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taip pat buvo duota pir-
@@ -45,11 +47,11 @@ Nenurodyta
     vilegija, t. y. raštas, arba
     įstatymas, kuriuo nusakomos Bažnyčios ir dvasininkų tei-
     ses (1387 m.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

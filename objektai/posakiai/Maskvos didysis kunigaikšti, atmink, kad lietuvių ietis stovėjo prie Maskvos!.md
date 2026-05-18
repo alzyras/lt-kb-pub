@@ -37,13 +37,13 @@ tags:
 - lietuvių ietis stovėjo prie Maskvos
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Ši frazė yra Algirdo viešas šūksnis po ieties atrėmimo į Maskvos sieną.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Platesnis Algirdo atsakymas Maskvai šiame šaltinyje siejamas su aktyviu kontrgrasinimu ir karo perkėlimu priešo žemėn.'
   pagrindžia:
     - c-001
@@ -52,24 +52,29 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Algirdo atsakymas Maskvos pasiuntiniui įrėmina vėlesnį šūksnį kaip kontrgrasinimą.
+  santrauka: 'Platesnis Algirdo atsakymas Maskvai šiame šaltinyje siejamas su aktyviu kontrgrasinimu ir karo perkėlimu priešo žemėn.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Perduok tai valdovui ir pasakyk jam, kad mes, lietuviai, ugnies turime; o kadangi jis
+    Algirdas uždegęs titnagu kempine, paduodamas ją, atsako Maskvos valdovo
+    pasiuntiniui:
+    „Perduok tai valdovui ir pasakyk jam, kad mes, lietuviai, ugnies turime; o kadangi jis
     man grasina įžengsiąs į mano žemę po skaistaus pavasario ir po tykios vasaros, tai aš,
     jei dievas duos, būsiu pas jį per Velykas ir pabučiuosiu jį raudonu kiaušiniu, per skydą
-    ietimi, o dievo padedamas, atremsiu savo ietį į jo Maskvos Kremliaus sieną
+    ietimi, o dievo padedamas, atremsiu savo ietį į jo Maskvos Kremliaus sieną, nes ne tas
+    karys, kuris kariauja patogiu metu, o tas, kuris nepatogiu kariauti metu atskleidžia prie-
+    šininkui savo karingą nusistatymą.“
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 - c-002
-  santrauka: Galutinė formulė išsakoma garsiai atsitraukiant nuo Maskvos sienos.
+  santrauka: 'Ši frazė yra Algirdo viešas šūksnis po ieties atrėmimo į Maskvos sieną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Ir, užšokęs ant žirgo, paėmė ietį rankon, prijojo prie miesto ir atrėmė savo ietį įsieną, 0
     nujodamas didžiu balsu sušuko: „Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis
     stovėjo prie Maskvos!“
   citata_rodoma: ""
@@ -78,4 +83,4 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003

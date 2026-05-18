@@ -41,13 +41,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Taika su neprieteliais būdavo sutvirtinama baltą žirgą sudeginant ir sukeičiant ragotines.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Karė susiedams būdavo skelbiama svetimą ragotinę su degančiu pagaliu įmetant į neprietelių kraštą.'
   pagrindžia:
     - c-002
@@ -56,27 +56,31 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Taika su neprieteliais būdavo sutvirtinama baltą žirgą sudeginant ir sukeičiant ragotines.
+  santrauka: 'Taika su neprieteliais būdavo sutvirtinama baltą žirgą sudeginant ir sukeičiant ragotines.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Nubengę karę, su
     neprieteliais derėjo tokiu pragumu: kunigai, nujodę baltą žirgą lig nuvargstant, ant malkinės gyvą
     sudegino, paskui pelenus jo išbarstė, ragotines^1286 tarp savęs sukeitė, kurias laikė šventoje vietoje,
     žinyčia^1287 vadinamoj, apie kurią viršiau regėjom
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Karė susiedams būdavo skelbiama svetimą ragotinę su degančiu pagaliu įmetant į neprietelių kraštą.
+  santrauka: 'Karė susiedams būdavo skelbiama svetimą ragotinę su degančiu pagaliu įmetant į neprietelių kraštą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Atkaliai^1288 skelbė karę susiedams tokiu pragumu:
     kunigas, paėmęs svetimąją ragotinę, nunešė į parubežį ir įmetė ją į neprietelių kraštą su degančiu
     pagaliu, kas buvo ženklu apskelbtos karės neprieteliui
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004

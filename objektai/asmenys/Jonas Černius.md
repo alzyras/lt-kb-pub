@@ -31,7 +31,7 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
 
 ## Teiginiai
 - t-001
-  teiginys: '1938 m. manevruose gen. Jonas Černius dalyvavo kartu su kariuomenės vadu Stasiu Raštikiu.'
+  teiginys: '1938 m. manevruose generolas Jonas Černius buvo užfiksuotas kartu su kariuomenės vadu Stasiu Raštikiu.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -39,7 +39,7 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1938 m. manevruose gen. Jonas Černius dalyvavo kartu su kariuomenės vadu Stasiu Raštikiu.'
+  santrauka: '1938 m. manevruose generolas Jonas Černius buvo užfiksuotas kartu su kariuomenės vadu Stasiu Raštikiu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vietoje bazių Lietuva siūlė padidinti savo

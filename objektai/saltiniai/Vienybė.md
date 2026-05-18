@@ -20,13 +20,17 @@ Kazimiero Draugija knygoms ir laikraščiams leisti (ji leido „Ned. Skaitymą"
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kazimiero Draugija knygoms ir laikraščiams leisti (ji leido „Ned. Skaitymą", iš kurio vėliau atsirado „Vienybė" ir „Draugija").'
+  teiginys: '„Vienybė“ atsirado iš Šv. Kazimiero draugijos leisto „Nedėldienio skaitymo“.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Kazimiero Draugija knygoms ir laikraščiams leisti (ji leido „Ned. Skaitymą", iš kurio vėliau atsirado „Vienybė" ir „Draugija").'
+  santrauka: '„Vienybė“ atsirado iš Šv. Kazimiero draugijos leisto „Nedėldienio skaitymo“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     įkurta Šv. Kazimiero Draugija knygoms ir laikraš-
@@ -35,10 +39,10 @@ Kazimiero Draugija knygoms ir laikraščiams leisti (ji leido „Ned. Skaitymą"
     įkurta Lietuvių Mokslo Draugija, kuri pasiryžo tirti
     lietuvių tautą, jos kultūrą ir kelti lietuviškąjį mokslą (ji ir dabar
     tebėra gyva ir tebeleidžia savo žurnalą Lietuvių Tautą).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

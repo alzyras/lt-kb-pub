@@ -20,41 +20,22 @@ tags: []
 Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kurių sričių valstiečiai jau labai anksti taip pat mokėjo ir vadinamąją sidabrinę (sidabrinę duoklę, t.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kurių sričių valstiečiai jau labai anksti taip pat mokėjo ir vadinamąją sidabrinę (sidabrinę duoklę, t.'
+- t-004
+  teiginys: 'Sidabrinė duoklė buvo piniginis paklusnybės mokestis, įvairiose vietose vadintas skirtingais vardais.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: Sidabrinė duoklė šiame tekste reiškia mokestį pinigais.
-  pagrindžia:
-    - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: Tributum ir serebsčina pateikiami kaip to paties mokesčio pavadinimai.
+- t-005
+  teiginys: 'Piniginis paklusnybės mokestis įvairiose vietose vadintas skirtingai, bet labiausiai žinotas sidabrinės vardu.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kurių sričių valstiečiai jau labai anksti taip pat mokėjo ir vadinamąją sidabrinę (sidabrinę duoklę, t.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet, greta visų rinkliavų ūkio produktais ir amatininkų ga-
-    miniais, kai kurių sričių valstiečiai jau labai anksti taip pat mo-
-    kėjo ir vadinamąją sidabrinę (sidabrinę duoklę, t. y. mo-
-    kestį sidabriniais pinigais).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Sidabrinė duoklė šiame tekste reiškia mokestį pinigais.
+  santrauka: 'Sidabrinė duoklė buvo piniginis paklusnybės mokestis, įvairiose vietose vadintas skirtingais vardais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Duoklėmis ir mezliavomis atsilygindavo daugiausia pa­
@@ -63,12 +44,14 @@ Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kuri�
     (tributum) kalbama ir Horodlės unijoje. Vadinamas jis įvai­
     riose vietose skirtingais vardais, bet daugiausia žinomas sida­
     brinės (serebsčina) vardu.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-    - t-003
+    - t-004
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -18,7 +18,7 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Valdant Ldk Gediminui Lietuvoje susiformavo ankstyvasis feodalizmas, kurio požymis buvo ankstyvieji dvarai, vadinti kiemais.'
+  teiginys: 'Valdant Ldk Gediminui ankstyvojo feodalizmo požymiu Lietuvoje buvo ankstyvieji dvarai, vadinti kiemais.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Valdant Ldk Gediminui Lietuvoje susiformavo ankstyvasis feodalizmas, kurio požymis buvo ankstyvieji dvarai, vadinti kiemais.'
+  santrauka: 'Valdant Ldk Gediminui ankstyvojo feodalizmo požymiu Lietuvoje buvo ankstyvieji dvarai, vadinti kiemais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Valdant

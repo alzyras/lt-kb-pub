@@ -1,9 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Antanas Smetona'
+pavadinimas: 'Antanas Smetona (Lietuvos prezidentas, XX a.)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Antanas Smetona'
+aliases:
+  - 'Antanas Smetona'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -42,7 +44,7 @@ tags:
   - tauta
   - vyskupas
 ---
-# Antanas Smetona
+# Antanas Smetona (Lietuvos prezidentas, XX a.)
 
 ## Santrauka
 
@@ -56,7 +58,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Antanas Smetona buvo vienas tautininkų kritikų, kuriems dėl valdžios spaudimo teko pasėdėti kalėjime.'
+  teiginys: 'Antanas Smetona, kaip vienas aršiausių tautininkų kritikų, dėl valdžios baudimų buvo patekęs į kalėjimą.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -180,7 +182,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Antanas Smetona buvo vienas tautininkų kritikų, kuriems dėl valdžios spaudimo teko pasėdėti kalėjime.'
+  santrauka: 'Antanas Smetona, kaip vienas aršiausių tautininkų kritikų, dėl valdžios baudimų buvo patekęs į kalėjimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilniaus problema, įtempti santykiai su Lenkija iš dalies lėmė ir Lietu-

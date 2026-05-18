@@ -41,25 +41,25 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-005
   teiginys: 'Ginklai ir ypač šarvai buvo labai branginami, o sugadinti perkalami.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-006
   teiginys: 'Didesnė ginkluotės dalis galėjo būti saugoma valstybės ir išdalinama kariams prieš operacijas.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
+- t-007
   teiginys: 'Po operacijų išduota ginkluotė turėjo būti grąžinama.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-004
+- t-008
   teiginys: 'Panaši ginkluotės praktika sutinkama to meto Kryžiuočių ordine.'
   pagrindžia:
     - c-002
@@ -68,9 +68,10 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Ginklai ir ypač šarvai buvo labai branginami, o sugadinti perkalami.
+  santrauka: 'Ginklai ir ypač šarvai buvo labai branginami, o sugadinti perkalami.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Tikėtina, kad brangi ir labai reikalinga ginkluotė
     į kapus buvo nebededama. Tuo metu Lietuva ilgą laiką dalyva-
     vo intensyviuose kovos veiksmuose. Todėl ginklai ir ypač šarvai
     buvo labai branginami, sugadinti perkalami.
@@ -80,12 +81,13 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-005
 - c-002
-  santrauka: Didesnė ginkluotės dalis galėjo būti saugoma valstybės ir išdalinama kariams prieš operacijas.
+  santrauka: 'Didesnė ginkluotės dalis galėjo būti saugoma valstybės ir išdalinama kariams prieš operacijas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Didesnė dalis gin-
+    Todėl ginklai ir ypač šarvai
+    buvo labai branginami, sugadinti perkalami. Didesnė dalis gin-
     kluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš
     operacijas, po to, žinoma, viską reikėdavo grąžinti. Panaši prakti-
     ka sutinkama to meto Kryžiuočių ordine.
@@ -95,6 +97,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-    - t-003
-    - t-004
+    - t-006
+    - t-007
+    - t-008

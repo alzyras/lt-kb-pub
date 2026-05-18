@@ -21,6 +21,8 @@ Kai Jonas Juškevičius 1864 m. pasiūlė kuratoriui Kornilovui išspausdinti sa
   teiginys: 'Kai Jonas Juškevičius 1864 m. pasiūlė kuratoriui Kornilovui išspausdinti savo rusiškai parašytą lietuvišką gramatiką, jis gavo pasiūlymą lietuviškąjį tekstą perrašyti rusiškomis raidėmis.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -31,14 +33,10 @@ Kai Jonas Juškevičius 1864 m. pasiūlė kuratoriui Kornilovui išspausdinti sa
     ratoriui Kornilovui išspausdinti savo rusiškai parašytą lietuvišką
     gramatiką, jis gavo pasiūlymą lietuviškąjį tekstą perrašyti rusiš-
     komis raidėmis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kornilovas]]

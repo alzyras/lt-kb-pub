@@ -36,7 +36,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Perimant Vakarų kultūros idėjas, visuomenėje susipažinta su kronikų rašymo tradicija, atsirado poreikis pažinti savo istoriją, perimtas ir Renesanso laikais Europoje paplitęs mitas apie valdovų kildinimą iš kito krašto.'
+  teiginys: 'Perimant Vakarų kultūros idėjas, LDK visuomenėje atsirado kronikų rašymo tradicija ir poreikis pažinti savo istoriją.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -50,7 +50,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Perimant Vakarų kultūros idėjas, visuomenėje susipažinta su kronikų rašymo tradicija, atsirado poreikis pažinti savo istoriją, perimtas ir Renesanso laikais Europoje paplitęs mitas apie valdovų kildinimą iš kito krašto.'
+  santrauka: 'Perimant Vakarų kultūros idėjas, LDK visuomenėje atsirado kronikų rašymo tradicija ir poreikis pažinti savo istoriją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Perimant Vakarų kultūros idėjas, visuomenėje susipažinta su kroni-

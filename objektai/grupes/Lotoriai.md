@@ -31,7 +31,7 @@ tags:
 Lotoriai šiame fragmente pateikiami kaip viena iš puolusių grupių, o jų vietinė forma `Lotriškieji` paliekama kaip to paties pasakojimo variantas.
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Lotoriai šiame fragmente pateikiami kaip viena iš puolusių grupių, o jų vietinė forma `Lotriškieji` paliekama kaip to paties pasakojimo variantas.'
   pagrindžia:
     - c-001
@@ -40,7 +40,7 @@ Lotoriai šiame fragmente pateikiami kaip viena iš puolusių grupių, o jų vie
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Lotoriai šiame fragmente pateikiami kaip viena iš puolusių grupių, o jų vietinė forma `Lotriškieji` paliekama kaip to paties pasakojimo variantas.
+  santrauka: 'Lotoriai šiame fragmente pateikiami kaip viena iš puolusių grupių, o jų vietinė forma `Lotriškieji` paliekama kaip to paties pasakojimo variantas.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Čia
@@ -53,11 +53,11 @@ Lotoriai šiame fragmente pateikiami kaip viena iš puolusių grupių, o jų vie
     it krušą bėrė.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

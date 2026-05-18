@@ -37,13 +37,13 @@ tags:
 - Lietuvos-ssRS karas (1945-1953)
 
 ## Teiginiai
-- t-001
-  teiginys: 'Ši formuluotė šiame šaltinyje vartojama kaip pokarinės ginkluotos rezistencijos pavadinimas.'
+- t-003
+  teiginys: '„Karas po karo“ yra ginkluotos rezistencijos, dar vadinamos Lietuvos–SSRS karu (1945–1953), pavadinimas.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Ši formuluotė tiesiogiai gretinama su pavadinimu „Lietuvos-ssRS karas (1945-1953)“.'
   pagrindžia:
     - c-001
@@ -52,16 +52,20 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Viena citata kartu įvardija posakį ir jo istorinį atitikmenį.
+  santrauka: '„Karas po karo“ yra ginkluotos rezistencijos, dar vadinamos Lietuvos–SSRS karu (1945–1953), pavadinimas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    dėjo pavėluotas pasipriešinimas - sukilimai (1794, 1831, 1863 m.)
     ir ginkluota rezistencija, šiandien vadinama „karu po karo“ arba
-    Lietuvos-ssRS karu (1945-1953).
+    Lietuvos-ssRS karu (1945-1953). Pastarajame galima surasti ne
+    vieną heroizmo pavyzdį, o gal net visą karą galima pavadinti he-
+    roizmu. Tiesa, kartais mūsų priešai jį bando vadinti „pilietiniu
+    karu“.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004

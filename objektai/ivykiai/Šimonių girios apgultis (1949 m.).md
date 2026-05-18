@@ -53,19 +53,19 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: '1949 m. lapkričio 1-2 d. Šimonių girioje MGB vidaus kariuomenė vykdė karines-čekistines operacijas.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-005
   teiginys: '1949 m. spalį suimti Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis sutiko bendradarbiauti ir atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio; bunkeryje susisprogdino Antanas Slučka-Šarūnas, Joana Railaitė-Neringa ir Juozas Jovaiša-Lokis; Balys Žukauskas-Princas pasidavė gyvas ir nurodė dar 3 štabo bunkerius.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
+- t-006
   teiginys: 'Didžiausio susirėmimo metu Šimonių girioje susprogdinti aštuoni partizanų bunkeriai, žuvo 33 partizanai, 10 pateko į nelaisvę, o 1949 m. rudenį sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.'
   pagrindžia:
     - c-003
@@ -74,7 +74,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 1949 m. lapkričio 1-2 d. Šimonių girioje MGB vidaus kariuomenė vykdė karines-čekistines operacijas.
+  santrauka: '1949 m. lapkričio 1-2 d. Šimonių girioje MGB vidaus kariuomenė vykdė karines-čekistines operacijas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1949 m. lapkričio 1-2 dienomis MGB vidaus
@@ -82,15 +82,15 @@ Nenurodyta
     kareivių pajėgomis buvo vykdomos ka-
     rinės-čekistinės operacijos Kupiškio aps.
     Svėdasų valsčiuje, Šimonių girioje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-002
-  santrauka: 1949 m. spalį suimti Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis sutiko bendradarbiauti ir atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio; bunkeryje susisprogdino Antanas Slučka-Šarūnas, Joana Railaitė-Neringa ir Juozas Jovaiša-Lokis; Balys Žukauskas-Princas pasidavė gyvas ir nurodė dar 3 štabo bunkerius.
+  santrauka: '1949 m. spalį suimti Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis sutiko bendradarbiauti ir atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio; bunkeryje susisprogdino Antanas Slučka-Šarūnas, Joana Railaitė-Neringa ir Juozas Jovaiša-Lokis; Balys Žukauskas-Princas pasidavė gyvas ir nurodė dar 3 štabo bunkerius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1949 m. spalio 24 d. MGB agentui V. Kučiui
@@ -116,17 +116,18 @@ Nenurodyta
     Lokiu. Štabo adjutantas Balys Žukauskas-
     Princas pasidavė gyvas ir nurodė dar
     3 štabo bunkerius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-005
 - c-003
-  santrauka: Didžiausio susirėmimo metu Šimonių girioje susprogdinti aštuoni partizanų bunkeriai, žuvo 33 partizanai, 10 pateko į nelaisvę, o 1949 m. rudenį sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.
+  santrauka: 'Didžiausio susirėmimo metu Šimonių girioje susprogdinti aštuoni partizanų bunkeriai, žuvo 33 partizanai, 10 pateko į nelaisvę, o 1949 m. rudenį sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Mūšio padariniai
     Didžiausias laisvės kovotojų ir NKVD susi-
     rėmimas įvyko 1949 m. lapkričio 1-2 dieno-
     mis, kai partizanų bunkeriai buvo išduoti.
@@ -138,14 +139,14 @@ Nenurodyta
 
     1949 m. lapkričio 1-3 d. ŠIMONIŲ GIRIOS APGULTIS
 
-    praktiškai žuvo visa apygardos vadovybė
-  citata_rodoma: ''
+    praktiškai žuvo visa apygardos vadovybė.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-006
 
 ## Ryšiai
 ### Laikotarpiai

@@ -34,23 +34,25 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Be to, susidurdami su lietuviais, jie čia pastebėdavo daug to, kas jiems būdavo nesuprantama ir nepaprasta: šventuosius miškus, amžinąsias ugnis, keistus dievų vardus, keistas tikybines apeigas.'
+  teiginys: 'Susidūrę su lietuviais, stebėtojai pastebėdavo šventuosius miškus, amžinąsias ugnis, dievų vardus ir tikybines apeigas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Be to, susidurdami su lietuviais, jie čia pastebėdavo daug to, kas jiems būdavo nesuprantama ir nepaprasta: šventuosius miškus, amžinąsias ugnis, keistus dievų vardus, keistas tikybines apeigas.'
+  santrauka: 'Susidūrę su lietuviais, stebėtojai pastebėdavo šventuosius miškus, amžinąsias ugnis, dievų vardus ir tikybines apeigas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, susidurdami su lietuviais, jie čia pastebėdavo daug to, kas
     jiems būdavo nesuprantama ir nepaprasta: šventuosius miškus, amži-
     nąsias ugnis, keistus dievų vardus, keistas tikybines apeigas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

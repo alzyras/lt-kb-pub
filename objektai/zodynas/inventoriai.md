@@ -18,21 +18,21 @@ Tam tikslui buvo įsakyta paruošti vadinamuosius inventorius, kuriuose nuo seno
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tam tikslui buvo įsakyta paruošti vadinamuosius inventorius, kuriuose nuo seno buvo surašomos visos valstiečių pareigos.'
+  teiginys: 'Inventoriai buvo dokumentai, kuriuose nuo seno surašomos visos valstiečių pareigos.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Tačiau tie inventoriai negalėjo daug padėti, nes valstiečiai vis tiek pasiliko beteisiai: jei ponas didino prievoles, jie neturėjo kam pasiskųsti.'
+  teiginys: 'Inventoriai valstiečiams menkai padėjo, nes jie liko beteisiai ir negalėjo skųstis dėl pono didinamų prievolių.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Kokios pareigos būdavo pažymėtos tuose inventoriuose, tokias valstiečiai turėdavo ir eiti tiems dvarams.'
-  pagrindžia:
-    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tam tikslui buvo įsakyta paruošti vadinamuosius inventorius, kuriuose nuo seno buvo surašomos visos valstiečių pareigos.'
+  santrauka: 'Inventoriai buvo dokumentai, kuriuose nuo seno surašomos visos valstiečių pareigos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Privatiniuose dvaruose tebuvo tik suvienodintos vals-
@@ -40,41 +40,27 @@ Tam tikslui buvo įsakyta paruošti vadinamuosius inventorius, kuriuose nuo seno
     sius inventorius, kuriuose nuo seno buvo surašomos visos
     valstiečių pareigos. Inventoriams suvienodinti visose gubernijose
     buvo įsteigti specialūs komitetai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Tačiau tie inventoriai negalėjo daug padėti, nes valstiečiai vis tiek pasiliko beteisiai: jei ponas didino prievoles, jie neturėjo kam pasiskųsti.'
+  santrauka: 'Inventoriai valstiečiams menkai padėjo, nes jie liko beteisiai ir negalėjo skųstis dėl pono didinamų prievolių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau tie inventoriai nega-
     lėjo daug padėti, nes valstiečiai vis tiek pasiliko beteisiai: jei
     ponas didino prievoles, jie neturėjo kam pasiskųsti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Kokios pareigos būdavo pažymėtos tuose inventoriuose, tokias valstiečiai turėdavo ir eiti tiems dvarams.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kokios pa-
-    reigos būdavo pažymėtos tuose inventoriuose, tokias valstiečiai turė-
-    davo ir eiti tiems dvarams.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai

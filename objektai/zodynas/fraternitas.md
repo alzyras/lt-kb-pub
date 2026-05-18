@@ -21,24 +21,26 @@ Akte yra sakoma: Kad būtų viena tauta, viena visuomenė, viena brolija (frater
 
 ## Teiginiai
 - t-001
-  teiginys: 'Akte yra sakoma: Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai, o tam vienam kūnui — viena galva, vienas karalius, kuris paskirtu laiku ir paskirtoje vietoje bus visų į elekciją atvykusiųjų bendrai renkamas...".'
+  teiginys: 'Akte brolija, arba fraternitas, siejama su viena tauta, viena visuomene, bendrais seimais ir bendrai renkamu karaliumi.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Akte yra sakoma: Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai, o tam vienam kūnui — viena galva, vienas karalius, kuris paskirtu laiku ir paskirtoje vietoje bus visų į elekciją atvykusiųjų bendrai renkamas...".'
+  santrauka: 'Akte brolija, arba fraternitas, siejama su viena tauta, viena visuomene, bendrais seimais ir bendrai renkamu karaliumi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Akte yra sakoma: Kad būtų viena tauta, viena visuomenė,
     viena brolija **_(fraternitas)_** ir bendri seimai, o tam vienam kūnui —
     viena galva, vienas karalius, kuris paskirtu laiku ir paskirtoje vietoje
     bus visų į elekciją atvykusiųjų bendrai renkamas..."
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

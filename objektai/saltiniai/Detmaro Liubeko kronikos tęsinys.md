@@ -36,51 +36,46 @@ Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro L
 - Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro Liubeko kronikos tęsinyje: tuo metu lietuviai prieš totorius kariavę tris kartus, dvejas kautynes laimėję, o prie Vorsklos patyrę nesėkmę;.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro Liubeko kronikos tęsinyje: tuo metu lietuviai prieš totorius kariavę tris kartus, dvejas kautynes laimėję, o prie Vorsklos patyrę nesėkmę;.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'to meto žiniomis, tuose mūšiuose totorių žuvo 300 000, 0 Vytautas praradęs 100 000 karių (skaičiai, be abejo, perdėti, gal net dešimtį kartų), bet santykis galėtų būti realus: totorių žuvo tris kartus daugiau nei Vytauto ir jo sąjungininkų karių.'
+- t-004
+  teiginys: 'Detmaro Liubeko kronikos tęsinyje nurodyta, kad tuose mūšiuose žuvo 300 000 totorių, o Vytautas prarado 100 000 karių.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro Liubeko kronikos tęsinyje: tuo metu lietuviai prieš totorius kariavę tris kartus, dvejas kautynes laimėję, o prie Vorsklos patyrę nesėkmę;.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Mūšio padariniai
     Visų trijų Vytauto žygių, Vorsklos kauty-
     nių įvykiai apibendrinti Detmaro Liubeko
     kronikos tęsinyje: tuo metu lietuviai prieš
     totorius kariavę tris kartus, dvejas kautynes
     laimėję, o prie Vorsklos patyrę nesėkmę;
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'to meto žiniomis, tuose mūšiuose totorių žuvo 300 000, 0 Vytautas praradęs 100 000 karių (skaičiai, be abejo, perdėti, gal net dešimtį kartų), bet santykis galėtų būti realus: totorių žuvo tris kartus daugiau nei Vytauto ir jo sąjungininkų karių.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
     to meto žiniomis, tuose mūšiuose totorių
     žuvo 300 000, 0 Vytautas praradęs 100 000
     karių (skaičiai, be abejo, perdėti, gal net
     dešimtį kartų), bet santykis galėtų būti re-
     alus: totorių žuvo tris kartus daugiau nei
-    Vytauto ir jo sąjungininkų karių.
+    Vytauto ir jo sąjungininkų karių. Vytautas
+    prarado apie 14 savo kariuomenės.
+    Vorsklos kautynėse daug lėmė Aukso
+    ordos karių kiekybinė persvara.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
+    - t-004

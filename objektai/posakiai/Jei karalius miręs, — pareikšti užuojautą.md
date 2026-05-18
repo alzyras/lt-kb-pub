@@ -20,13 +20,15 @@ Užsieny jau daug kas manė, kad jis miręs; pavyzdžiui, Turkų sultonas buvo a
 
 ## Teiginiai
 - t-001
-  teiginys: 'Užsieny jau daug kas manė, kad jis miręs; pavyzdžiui, Turkų sultonas buvo atsiuntęs net užuojautą, o Maskvos kunigaikštis savo pasiuntiniams, siunčiamiems į Krokuvą, instrukcijose įrašydavo: „Jei karalius miręs, — pareikšti užuojautą".'
+  teiginys: 'Maskvos kunigaikštis pasiuntiniams į Krokuvą nurodydavo pareikšti užuojautą, jei karalius būtų miręs.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Užsieny jau daug kas manė, kad jis miręs; pavyzdžiui, Turkų sultonas buvo atsiuntęs net užuojautą, o Maskvos kunigaikštis savo pasiuntiniams, siunčiamiems į Krokuvą, instrukcijose įrašydavo: „Jei karalius miręs, — pareikšti užuojautą".'
+  santrauka: 'Maskvos kunigaikštis pasiuntiniams į Krokuvą nurodydavo pareikšti užuojautą, jei karalius būtų miręs.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Užsieny jau daug kas manė, kad
@@ -35,10 +37,10 @@ Užsieny jau daug kas manė, kad jis miręs; pavyzdžiui, Turkų sultonas buvo a
     į Krokuvą, instrukcijose įrašydavo: „Jei karalius miręs, — pa-
     reikšti užuojautą". Zigmantas mirė 1548 m., sulaukęs 81 m.
     amžiaus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

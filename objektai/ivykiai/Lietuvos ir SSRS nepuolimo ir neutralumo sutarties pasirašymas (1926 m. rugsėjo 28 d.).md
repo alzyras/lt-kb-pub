@@ -46,13 +46,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-005
+- t-007
   teiginys: 'Sovietai užtikrino Lietuvą, kad faktiniai sienos pažeidimai nepakeitė Maskvos pozicijos dėl Lietuvos teritorinio suverenumo.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-006
+- t-008
   teiginys: 'Georgijaus Čičerino nota prie pakto patvirtino Lietuvos interesus Vilniuje.'
   pagrindžia:
     - c-001
@@ -74,8 +74,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-    - t-006
+    - t-007
+    - t-008
 
 ## Ryšiai
 ### Laikotarpiai

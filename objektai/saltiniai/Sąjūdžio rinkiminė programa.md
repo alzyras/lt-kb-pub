@@ -19,7 +19,7 @@ Taip įvykdyta Sąjūdžio rinkiminės programos dalis, susijusi su Lietuvos val
 
 ## Teiginiai
 - t-001
-  teiginys: 'Taip įvykdyta Sąjūdžio rinkiminės programos dalis, susijusi su Lietuvos valstybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų jurisdikcijos.'
+  teiginys: 'Sąjūdžio rinkiminės programos dalis dėl Lietuvos nepriklausomybės atkūrimo ir piliečių atskyrimo nuo sovietų jurisdikcijos buvo įvykdyta.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -29,7 +29,7 @@ Taip įvykdyta Sąjūdžio rinkiminės programos dalis, susijusi su Lietuvos val
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Taip įvykdyta Sąjūdžio rinkiminės programos dalis, susijusi su Lietuvos valstybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų jurisdikcijos.'
+  santrauka: 'Sąjūdžio rinkiminės programos dalis dėl Lietuvos nepriklausomybės atkūrimo ir piliečių atskyrimo nuo sovietų jurisdikcijos buvo įvykdyta.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taip

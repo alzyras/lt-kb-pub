@@ -21,7 +21,7 @@ Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į k
 
 ## Teiginiai
 - t-001
-  teiginys: 'Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose kaip daugiakultūrį lietuvių, lenkų, baltarusių ir žydų darinį.'
+  teiginys: 'Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose kaip daugiakultūrį lietuvių, lenkų, baltarusių ir tam tikra prasme žydų valstybinį darinį.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -29,7 +29,7 @@ Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į k
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose kaip daugiakultūrį lietuvių, lenkų, baltarusių ir žydų darinį.'
+  santrauka: 'Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose kaip daugiakultūrį lietuvių, lenkų, baltarusių ir tam tikra prasme žydų valstybinį darinį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kai-

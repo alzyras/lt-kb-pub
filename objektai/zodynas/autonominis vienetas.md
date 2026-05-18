@@ -20,22 +20,24 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui suteikiant autonominį režimą.'
+  teiginys: 'Klaipėdos kraštas prie Lietuvos valstybės buvo priskirtas suteikiant jam autonominį režimą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui suteikiant autonominį režimą.'
+  santrauka: 'Klaipėdos kraštas prie Lietuvos valstybės buvo priskirtas suteikiant jam autonominį režimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1923 metų vasario 16 d. nutarė Klai-
     pėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui
     suteikiant autonominį režimą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

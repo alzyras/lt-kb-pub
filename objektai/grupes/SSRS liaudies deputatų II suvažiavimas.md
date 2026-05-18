@@ -20,7 +20,7 @@ Pagaliau 1989 m. gruodį, veikiant visų Baltijos tautų atstovams, slaptųjų p
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pagaliau 1989 m. gruodį, veikiant visų Baltijos tautų atstovams, slaptųjų protokolų padarinius pasmerkė SSRS liaudies deputatų II suvažiavimas, nors tiesiogiai tų padarinių su Baltijos valstybių okupacija nesusiejo.'
+  teiginys: '1989 m. gruodį SSRS liaudies deputatų II suvažiavimas pasmerkė slaptųjų protokolų padarinius, bet tiesiogiai jų nesusiejo su Baltijos valstybių okupacija.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -28,7 +28,7 @@ Pagaliau 1989 m. gruodį, veikiant visų Baltijos tautų atstovams, slaptųjų p
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pagaliau 1989 m. gruodį, veikiant visų Baltijos tautų atstovams, slaptųjų protokolų padarinius pasmerkė SSRS liaudies deputatų II suvažiavimas, nors tiesiogiai tų padarinių su Baltijos valstybių okupacija nesusiejo.'
+  santrauka: '1989 m. gruodį SSRS liaudies deputatų II suvažiavimas pasmerkė slaptųjų protokolų padarinius, bet tiesiogiai jų nesusiejo su Baltijos valstybių okupacija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagaliau 1989 m. gruodį,

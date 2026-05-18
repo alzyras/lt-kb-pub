@@ -34,26 +34,10 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Iš pradžių Lietuvoje savų pinigų nebuvo iš viso; buvo vartojami svetimieji: rusų muštiniai, sidabro lazdelės, vėliau ordino pinigai ir pagaliau Prahos skatikai.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Iš pradžių Lietuvoje savų pinigų nebuvo iš viso; buvo vartojami svetimieji: rusų muštiniai, sidabro lazdelės, vėliau ordino pinigai ir pagaliau Prahos skatikai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iš pradžių Lietuvoje savų pinigų ne-
-      buvo iš viso; buvo vartojami svetimieji: rusų muštiniai, sidabro
-      lazdelės, vėliau ordino pinigai ir pagaliau Prahos skatikai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai

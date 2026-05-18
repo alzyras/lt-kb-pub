@@ -30,28 +30,10 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Šią kurį laiką (1884—5 m.) redagavo į Ameriką atvykęs dr. J.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Šią kurį laiką (1884—5 m.) redagavo į Ameriką atvykęs dr. J.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Šią kurį laiką (1884—5 m.) redagavo į Ameriką atvykęs dr. J. Šliūpas. Tačiau, nesutikdamas su lenkams pa-
-    lankia „Unijos" linija, Šliūpas ją metė ir pats ėmė leisti „Lie-
-    tuvišką Balsą". Netrukus pradėjo eiti „Vienybė Lietuvi-
-    ninkų" ir vargonininko Bačkausko Tamošausko redaguojamoji
-    „Sau1ė", kurios tebeina ir dabar.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Ryšiai
 ### Laikotarpiai

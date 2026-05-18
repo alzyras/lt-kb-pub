@@ -31,24 +31,26 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ypač plačiai išsiplėtė valstiečių sukilimas Gintiliškių ir Salantų parapijose (Telšių apskr.).'
+  teiginys: 'Valstiečių sukilimas Gintiliškių ir Salantų parapijose plačiai išsiplėtė, bet buvo rusų kariuomenės išvaikytas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ypač plačiai išsiplėtė valstiečių sukilimas Gintiliškių ir Salantų parapijose (Telšių apskr.).'
+  santrauka: 'Valstiečių sukilimas Gintiliškių ir Salantų parapijose plačiai išsiplėtė, bet buvo rusų kariuomenės išvaikytas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ypač plačiai
     išsiplėtė valstiečių sukilimas Gintiliškių ir Salantų parapijose
     (Telšių apskr.). Bet čia sukilėliai buvo rusų kariuomenės iš-
     vaikyti ir pabėgo į Prūsiją.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

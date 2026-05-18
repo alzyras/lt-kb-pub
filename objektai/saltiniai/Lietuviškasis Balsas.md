@@ -18,39 +18,45 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '„Lietuviškojo Balso" pirmojo numerio antraštė.'
+  teiginys: '„Lietuviškasis Balsas“ buvo leidžiamas 1885-1889 m.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: '1885 m. jau ėmė leisti savo laikraštį „Lietuviškąjį Balsą", kurį jam tekdavo beveik vienam ir prirašyti, ir išspausdinti ir išplatinti.'
+  teiginys: '1885 m. „Lietuviškasis Balsas“ pradėtas leisti kaip laikraštis, kurį leidėjui teko beveik vienam prirašyti, išspausdinti ir išplatinti.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: '„Lietuviškojo Balso" pirmojo numerio antraštė.'
+  santrauka: '„Lietuviškasis Balsas“ buvo leidžiamas 1885-1889 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     „Lietuviškojo Balso" pirmojo numerio antraštė.
     (Laikraštis ėjo 1885—1889 m.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '1885 m. jau ėmė leisti savo laikraštį „Lietuviškąjį Balsą", kurį jam tekdavo beveik vienam ir prirašyti, ir išspausdinti ir išplatinti.'
+  santrauka: '1885 m. „Lietuviškasis Balsas“ pradėtas leisti kaip laikraštis, kurį leidėjui teko beveik vienam prirašyti, išspausdinti ir išplatinti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1885 m. jau ėmė leisti savo laikraštį „Lietuviškąjį Bal-
     są", kurį jam tekdavo beveik vienam ir prirašyti, ir išspausdinti
     ir išplatinti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

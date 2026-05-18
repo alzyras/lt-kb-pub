@@ -21,13 +21,13 @@ Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rū
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rūpinosi Lietuvos diplomatinė tarnyba (LDT), Lietuvos valstybingumo simbolis, gyvavusi per visą sovietų okupacijos laikotarpį.'
+  teiginys: 'Lietuvos diplomatinė tarnyba rūpinosi lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje per sovietų okupaciją.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Lietuvos diplomatinė tarnyba simboliškai atstovavo Lietuvai ir palaikė ryšius su kitų Baltijos šalių atstovais.'
+  teiginys: 'Lietuvos diplomatinės tarnybos diplomatai simboliškai atstovavo Lietuvai ir palaikė ryšius su kitų Baltijos šalių atstovais.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -35,7 +35,7 @@ Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rū
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rūpinosi Lietuvos diplomatinė tarnyba (LDT), Lietuvos valstybingumo simbolis, gyvavusi per visą sovietų okupacijos laikotarpį.'
+  santrauka: 'Lietuvos diplomatinė tarnyba rūpinosi lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje per sovietų okupaciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tad
@@ -50,7 +50,7 @@ Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rū
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Lietuvos diplomatinė tarnyba simboliškai atstovavo Lietuvai ir palaikė ryšius su kitų Baltijos šalių atstovais.'
+  santrauka: 'Lietuvos diplomatinės tarnybos diplomatai simboliškai atstovavo Lietuvai ir palaikė ryšius su kitų Baltijos šalių atstovais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Diplomatai savo atstovaujamose valstybėse

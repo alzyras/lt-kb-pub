@@ -25,60 +25,37 @@ tags:
 Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku Latviu. Šiame leidinyje jo „Livonijos kronika“ papildomai naudojama kaip šaltinis apie lietuvių kovos būdą ir Lietuvos valdžios siekį valdyti aplinkines gentis.
 
 ## Teiginiai
-- t-001
-  teiginys: 'O Livonijos ordino kronikininkas Henrikas (vadinamas Henriku Latviu) šiaip juos apibūdina: „Lietuviai tuose kraštuose viešpatavo visoms tautoms, tiek krikščioniškoms, tiek pagoniškoms, Dėl jų žygių nedaug kas išdrįso gyventi savo namuose ...'
-  pagrindžia:
-    - c-001
-- t-002
+- t-004
   teiginys: 'Šiame leidinyje Henrikas Latvis tiesiogiai siejamas su „Livonijos kronika“.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
+- t-005
   teiginys: 'Šiame leidinyje Henriko Latvio „Livonijos kronika“ naudojama aprašant lietuvių kovos būdą ir Lietuvos valdžios siekį valdyti kitas gentis.'
   pagrindžia:
+    - c-001
     - c-002
-    - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Henrikas minimas kaip kronikininkas, vadinamas Henriku Latviu.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    O Livonijos ordino kronikininkas Henrikas (va-
-    dinamas Henriku Latviu) šiaip juos apibūdina: „Lietuviai tuose
-    kraštuose viešpatavo visoms tautoms, tiek krikščioniškoms, tiek
-    pagoniškoms, Dėl jų žygių nedaug kas išdrįso gyventi savo
-    namuose ... Palikę savo namus, visi slėpdavosi miškų tanku-
-    mynuose, tačiau nė tokiuo būdu negalėdavo ištrūkti iš lietuvių.
-    Ir nuo mažo lietuvių skaičiaus rusai bėgo per miškus ir sodžius,
-    kaip kad bėga kiškiai nuo medžiotojų" ...
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Šiame leidinyje tiesiogiai įvardijama Henriko Latvio „Livonijos kronika“.
+  santrauka: 'Šiame leidinyje Henrikas Latvis tiesiogiai siejamas su „Livonijos kronika“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ištrauka iš žymiausio Kalavijuočių ideologo Henriko Latvio „Livonijos kronikos“
     apie lietuvių būdą kovoje, mūšyje su kalavijuočiais prie Dauguvos, Livonijoje 1207 m.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-    - t-003
-- c-003
-  santrauka: Kita „Livonijos kronikos“ ištrauka šiame leidinyje naudojama Lietuvos valdžios siekiui aiškinti.
+    - t-004
+    - t-005
+- c-002
+  santrauka: 'Šiame leidinyje Henriko Latvio „Livonijos kronika“ naudojama aprašant lietuvių kovos būdą ir Lietuvos valdžios siekį valdyti kitas gentis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ištrauka iš Henriko Latvio „Livonijos kronikos“ apie Lietuvos valdžios siekį valdyti
@@ -91,10 +68,10 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
     [rusai] miškais ir kaimais nuo lettonų, net nuo nedaugelio, kaip bėga kiškiai nuo me-
     džiotojo, o lyviai ir lettai klusniai tarnavo lettonams, davė maistą ir pašarą, kaip avys, be
     ganytojo patekusios į vilkų gaują.“
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-005

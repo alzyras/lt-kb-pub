@@ -19,7 +19,7 @@ Dwight Iš jo „Modern Philology“ („Modernioji filologija“).
 
 ## Teiginiai
 - t-001
-  teiginys: 'Benjaminas W. Dwightas veikale „Modern Philology“ lietuvių kalbą siejo su dideliu mažybinių ir maloninių žodžių skaičiumi.'
+  teiginys: 'Benjaminas W. Dwightas veikale „Modern Philology“ lietuvių kalbos grožį iškėlė kaip lietuvių tautos vertės pagrindą.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -29,7 +29,7 @@ Dwight Iš jo „Modern Philology“ („Modernioji filologija“).
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Benjaminas W. Dwightas veikale „Modern Philology“ lietuvių kalbą siejo su dideliu mažybinių ir maloninių žodžių skaičiumi.'
+  santrauka: 'Benjaminas W. Dwightas veikale „Modern Philology“ lietuvių kalbos grožį iškėlė kaip lietuvių tautos vertės pagrindą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jeigu tautos vertė, imant visą

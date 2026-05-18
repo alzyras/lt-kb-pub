@@ -30,13 +30,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Balandžio mėnesį mūsiškiai nustūmė rusus į rytus ligi Vilniaus, tačiau Vilnių paėmė iš pietų prasiveržę lenkai (balandžio 19 d.).'
+  teiginys: '1919 m. balandžio 19 d. iš pietų prasiveržę lenkai paėmė Vilnių, nors lietuvių pajėgos buvo nustūmusios rusus iki miesto.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Balandžio mėnesį mūsiškiai nustūmė rusus į rytus ligi Vilniaus, tačiau Vilnių paėmė iš pietų prasiveržę lenkai (balandžio 19 d.).'
+  santrauka: '1919 m. balandžio 19 d. iš pietų prasiveržę lenkai paėmė Vilnių, nors lietuvių pajėgos buvo nustūmusios rusus iki miesto.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kovos ėjo prie Alytaus, ir kovo mėnesį iš
@@ -44,11 +46,11 @@ Nenurodyta
     nava. Balandžio mėnesį mūsiškiai nustūmė rusus į rytus ligi
     Vilniaus, tačiau Vilnių paėmė iš pietų prasiveržę lenkai (ba-
     landžio 19 d.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

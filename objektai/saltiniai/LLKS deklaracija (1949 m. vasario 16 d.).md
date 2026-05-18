@@ -41,13 +41,13 @@ tags: []
 - 1949 m. vasarį įvyko partizanų apygardų atstovų suvažiavimas, kuris suvienijo antisovietinio pasipriešinimo kovotojus į bendrą organizaciją - Lietuvos laisvės kovos sąjūdį (LLKs). Suvažiavimas patvirtino dokumentus, įteisinusius LLKs vadovavimą politinei ir karinei tautos išlaisvinimo kovai. 1949 m. vasario 16 d. LLKS tarybos patvirtinta deklaracija aukščiausia teisėta valdžia Lietuvoje paskelbė atkurti nepriklausomą demokratinę Lietuvos Respubliką ir nubrėžė jos ateities raidos gaires.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '1949 m. vasarį įvyko partizanų apygardų atstovų suvažiavimas, kuris suvienijo antisovietinio pasipriešinimo kovotojus į bendrą organizaciją - Lietuvos laisvės kovos sąjūdį (LLKs). Suvažiavimas patvirtino dokumentus, įteisinusius LLKs vadovavimą politinei ir karinei tautos išlaisvinimo kovai. 1949 m. vasario 16 d. LLKS tarybos patvirtinta deklaracija aukščiausia teisėta valdžia Lietuvoje paskelbė atkurti nepriklausomą demokratinę Lietuvos Respubliką ir nubrėžė jos ateities raidos gaires.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Naujoji Prisikėlimo apygarda dėl savo geografinės padėties tapo visos Lietuvos partizanų vadų susirinkimų vieta (čia 1949 m. vasario 16 d. pasirašyta LLKS deklaracija).'
   pagrindžia:
     - c-002
@@ -55,43 +55,6 @@ tags: []
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: '1949 m. vasarį įvyko partizanų apygardų atstovų suvažiavimas, kuris suvienijo antisovietinio pasipriešinimo kovotojus į bendrą organizaciją - Lietuvos laisvės kovos sąjūdį (LLKs). Suvažiavimas patvirtino dokumentus, įteisinusius LLKs vadovavimą politinei ir karinei tautos išlaisvinimo kovai. 1949 m. vasario 16 d. LLKS tarybos patvirtinta deklaracija aukščiausia teisėta valdžia Lietuvoje paskelbė atkurti nepriklausomą demokratinę Lietuvos Respubliką ir nubrėžė jos ateities raidos gaires.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1949 m. vasarį įvyko partizanų apygardų atstovų suvažiavimas,
-    kuris suvienijo antisovietinio pasipriešinimo kovotojus į bendrą
-    organizaciją - Lietuvos laisvės kovos sąjūdį (LLKs). Suvažiavimas
-    patvirtino dokumentus, įteisinusius LLKs vadovavimą politinei ir
-    karinei tautos išlaisvinimo kovai. 1949 m. vasario 16 d. LLKS tarybos
-    patvirtinta deklaracija aukščiausia teisėta valdžia Lietuvoje paskelbė
-
-    atkurti nepriklausomą demokratinę Lietuvos Respubliką ir nubrėžė
-    jos ateities raidos gaires.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Naujoji Prisikėlimo apygarda dėl savo geografinės padėties tapo visos Lietuvos partizanų vadų susirinkimų vieta (čia 1949 m. vasario 16 d. pasirašyta LLKS deklaracija).'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Naujoji Prisikėlimo
-    apygarda dėl savo geografinės pa-
-    dėties tapo visos Lietuvos parti-
-    zanų vadų susirinkimų vieta (čia
-    1949 m. vasario 16 d. pasirašyta
-    LLKS deklaracija).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
-  pagrindžia:
-    - t-002
 
 ## Bibliografiniai įrodymai
 - c-001
@@ -111,14 +74,19 @@ tags: []
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
   santrauka: 'Naujoji Prisikėlimo apygarda dėl savo geografinės padėties tapo visos Lietuvos partizanų vadų susirinkimų vieta (čia 1949 m. vasario 16 d. pasirašyta LLKS deklaracija).'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Naujoji Prisikėlimo
+    Jungtinė Kęstučio apygarda (ku-
+    riai priklausė J. Paliūnas) buvo padalinta į Kęstučio ir
+    Prisikėlimo apygardas. Prisikėlimo apygardoje buvo
+    atkurta P. Lukšio rinktinė (netrukus pervadinta į
+    Maironio), joje J. Paliūnas užėmė svar-
+    bias pareigas. Naujoji Prisikėlimo
     apygarda dėl savo geografinės pa-
     dėties tapo visos Lietuvos parti-
     zanų vadų susirinkimų vieta (čia
@@ -128,6 +96,6 @@ tags: []
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004

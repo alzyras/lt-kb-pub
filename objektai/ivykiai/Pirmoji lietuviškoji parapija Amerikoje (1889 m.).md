@@ -31,13 +31,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Parapijų skaičius nepaprastai greit išaugo.'
+  teiginys: '1889 m. buvo įkurta pirmoji lietuviškoji parapija.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Parapijų skaičius nepaprastai greit išaugo.'
+  santrauka: '1889 m. buvo įkurta pirmoji lietuviškoji parapija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Parapijų skai-
@@ -45,11 +47,11 @@ Nenurodyta
     tuviškoji parapija; 1907 m. jų buvo jau 41, 1915 m. — 95, 1925 m.
     — apie 120, o dabar jų yra apie 150 (jose yra apie 200 lietuvių
     kunigų).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -20,7 +20,7 @@ Pagrindinė forma: `šlapjurgis`.
 Vartojamos formos: `šlapjurgiui`.
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: '`Šlapjurgis` šiame tekste reiškia drėgną, šalčio lydimą oro būseną.'
   pagrindžia:
     - c-001
@@ -29,7 +29,7 @@ Vartojamos formos: `šlapjurgiui`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Šlapjurgis` šiame tekste reiškia drėgną, šalčio lydimą oro būseną
+  santrauka: '`Šlapjurgis` šiame tekste reiškia drėgną, šalčio lydimą oro būseną.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     puošė, nes idant, šlapjurgiui^332 esant, nuo šalčio ir drėgsmės^333 pastėrę sijonai blauzdų neplaktų,
@@ -40,7 +40,7 @@ Vartojamos formos: `šlapjurgiui`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Pastabos
 

@@ -34,6 +34,8 @@ Nenurodyta
   teiginys: 'Tiek karo vadovybė, tiek vyriausybė ir reichstagas reikalavo, kad Lietuva įeitų į federaciją su Vokietija, susirišdama su ja militarinėmis ir ekonominėmis konvencijomis.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -44,11 +46,11 @@ Nenurodyta
     vyriausybė ir reichstagas reikalavo, kad Lietuva įeitų į federa-
     ciją su Vokietija, susirišdama su ja militarinėmis ir ekonominė-
     mis konvencijomis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

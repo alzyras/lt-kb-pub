@@ -35,13 +35,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Zigmanto Vazos pinigai: 30 — šilingas; 31 ir 32 — skatikai; 33 — trečiokas; 34 — portugalas (=10 dukatų).'
+  teiginys: 'Zigmanto Vazos laikais nuolat veikusi Vilniaus kalykla išleido daugybę įvairios vertės pinigų.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Zigmanto Vazos pinigai: 30 — šilingas; 31 ir 32 — skatikai; 33 — trečiokas; 34 — portugalas (=10 dukatų).'
+  santrauka: 'Zigmanto Vazos laikais nuolat veikusi Vilniaus kalykla išleido daugybę įvairios vertės pinigų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Zigmanto Vazos** pinigai: 30 — _šilingas;_ 31 ir 32 — _skatikai;_ 33 — _tre-
@@ -54,17 +56,14 @@ Nenurodyta
     kalami visoje Europoje). Vilniaus kalyklos valdytojais Zigmanto Vazos lai-
     kais buvo daugelis iždininkų ir kitokių urėdų, ir visi jie piniguose dėdavo
     savo ženklus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
-
-### Susiję objektai
-- [[objektai/daiktai/Lietuvos pinigai]]

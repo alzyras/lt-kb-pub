@@ -20,23 +20,25 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Šitokioj dėtoj karalius 1453 m. buvo priverstas Petrakavos seime patvirtinti lenkų privilegijas, bet žemių jiems prisiekė grąžinti tik tas, kurios neteisingai esančios kitų užgrobtos.'
+  teiginys: '1453 m. Petrakavos seime karalius buvo priverstas patvirtinti lenkų privilegijas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šitokioj dėtoj karalius 1453 m. buvo priverstas Petrakavos seime patvirtinti lenkų privilegijas, bet žemių jiems prisiekė grąžinti tik tas, kurios neteisingai esančios kitų užgrobtos.'
+  santrauka: '1453 m. Petrakavos seime karalius buvo priverstas patvirtinti lenkų privilegijas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šitokioj dėtoj karalius
     1453 m. buvo priverstas Petrakavos seime patvirtinti lenkų pri-
     vilegijas, bet žemių jiems prisiekė grąžinti tik tas, kurios ne-
     teisingai esančios kitų užgrobtos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

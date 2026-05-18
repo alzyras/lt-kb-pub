@@ -35,60 +35,39 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos akmens amžiaus dirbiniai: 1—4 kauliniai harpūnai, 5—6 kauliniai durklai, 7—8 kauliniai kirvukai, 9 apskaldyto titnago įrankis, 10—12 akmens kirvukai, 13—15 titnaginiai iečių galai, 16—17 gintariniai amuletai, 18—22 gintariniai papuošalai, 23 puodas.'
+  teiginys: 'Palei Lietuvos sieną Rytprūsiuose rasti kauliniai dirbiniai, įskaitant kaulinius ietgalius, priskiriami paleolito kultūrai.'
   pagrindžia:
     - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Palei Lietuvos sieną Rytprūsiuose rasti kauliniai dirbiniai, įskaitant kaulinius ietgalius, priskiriami paleolito kultūrai.'
+  teiginys: 'Mezolito stovyklavietėse Lietuvoje rasta daug titnaginių ir kaulinių įrankių, tarp jų strėlių, ylų, peiliukų ir ietgalių.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Mezolito stovyklavietėse Lietuvoje aptikta daug titnaginių ir kalninių įrankių.'
+  teiginys: 'Mezolito pabaigoje jau buvo bandoma lipdyti molinius puodus, o apie 4000 m. pr. Kr. pietvakarių Pabaltijyje pažinta keramika.'
   pagrindžia:
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Mezolito laikotarpio pabaigoje minimi raginiai kirviai (« kapliai »), molinių puodų lipdymas ir keramika.'
-  pagrindžia:
-    - c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'Neolito žemdirbystės aprašyme minimi akmeniniai kapliai ir akmeninės girnos.'
+  teiginys: 'Neolito žemdirbiai dirvą pureno akmeniniais kapliais, o javus malė akmeninėmis girnomis.'
   pagrindžia:
     - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-006
+- t-005
   teiginys: 'Lietuvos pajūryje rastos gintarinės žmonių ir gyvulių figūrėlės buvo nešiojamos magijos tikslais.'
   pagrindžia:
-    - c-006
+    - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvos akmens amžiaus dirbiniai: 1—4 kauliniai harpūnai, 5—6 kauliniai durklai, 7—8 kauliniai kirvukai, 9 apskaldyto titnago įrankis, 10—12 akmens kirvukai, 13—15 titnaginiai iečių galai, 16—17 gintariniai amuletai, 18—22 gintariniai papuošalai, 23 puodas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Lietuvos akmens amžiaus dirbiniai:**
-    1—4 kauliniai harpūnai, 5—6 kauliniai durklai, 7—8 kauliniai kirvukai,
-    9 apskaldyto titnago įrankis, 10—12 akmens kirvukai, 13—15 titnaginiai iečių
-    galai, 16—17 gintariniai amuletai, 18—22 gintariniai papuošalai, 23 puodas,
-    24 akmuo, ant kurio su kitu akmeniu trindavo pabertus grūdus, — savotiškos
-    girnos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Paleolito kultūrai priskirti kauliniai dirbiniai ir kauliniai ietgaliai.
+  santrauka: 'Palei Lietuvos sieną Rytprūsiuose rasti kauliniai dirbiniai, įskaitant kaulinius ietgalius, priskiriami paleolito kultūrai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Palei Lietuvos sieną Ryt­
@@ -101,9 +80,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: Mezolito stovyklavietėse aptikta daug titnaginių ir kalninių įrankių.
+    - t-001
+- c-002
+  santrauka: 'Mezolito stovyklavietėse Lietuvoje rasta daug titnaginių ir kaulinių įrankių, tarp jų strėlių, ylų, peiliukų ir ietgalių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Mezolito žmogaus stovyklavietėse Lietuvoje buvo rasta daug
@@ -120,9 +99,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: Mezolito laikotarpio pabaigoje minimi raginiai kirviai, moliniai puodai ir keramika.
+    - t-002
+- c-003
+  santrauka: 'Mezolito pabaigoje jau buvo bandoma lipdyti molinius puodus, o apie 4000 m. pr. Kr. pietvakarių Pabaltijyje pažinta keramika.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Į mezolito laikotarpio galą jau buvo pažįstamas ir pirmas
@@ -143,9 +122,23 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-003
+- c-004
+  santrauka: 'Lietuvos pajūryje rastos gintarinės žmonių ir gyvulių figūrėlės buvo nešiojamos magijos tikslais.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    gana daug Lietuvos pajūryje rastų gintarinių žmonių ir gyvulių
+    figūrėlių. Jos buvo nešiojamos magijos tikslais, apsisaugoti nuo
+    piktų dvasių.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
 - c-005
-  santrauka: Neolito žemdirbystėje minimi akmeniniai kapliai ir akmeninės girnos.
+  santrauka: 'Neolito žemdirbiai dirvą pureno akmeniniais kapliais, o javus malė akmeninėmis girnomis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     keturkampiuose mediniuose trobesiuose, ateiviai ne tik augino
@@ -160,18 +153,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: Gintarinės figūrėlės buvo nešiojamos magijos tikslais.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    gana daug Lietuvos pajūryje rastų gintarinių žmonių ir gyvulių
-    figūrėlių. Jos buvo nešiojamos magijos tikslais, apsisaugoti nuo
-    piktų dvasių.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006
+    - t-004

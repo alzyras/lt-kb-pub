@@ -39,7 +39,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vilniaus, istorinės Lietuvos sostinės, atgavimas buvo šviesos spindulėlis niūrioje situacijoje, bet Lietuva tapo priklausoma nuo SSRS.'
+  teiginys: '1939 m. spalio pabaigoje Lietuvos kariuomenei įžengus į Vilnių, istorinės sostinės atgavimas buvo vertintas kaip šviesesnis momentas, bet Lietuva tapo priklausoma nuo SSRS.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -47,7 +47,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vilniaus, istorinės Lietuvos sostinės, atgavimas buvo šviesos spindulėlis niūrioje situacijoje, bet Lietuva tapo priklausoma nuo SSRS.'
+  santrauka: '1939 m. spalio pabaigoje Lietuvos kariuomenei įžengus į Vilnių, istorinės sostinės atgavimas buvo vertintas kaip šviesesnis momentas, bet Lietuva tapo priklausoma nuo SSRS.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tik Vilniaus,

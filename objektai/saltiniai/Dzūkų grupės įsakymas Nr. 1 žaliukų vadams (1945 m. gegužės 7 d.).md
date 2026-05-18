@@ -35,13 +35,13 @@ Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės
 - Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės 7 d.)“ ištrauka.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės 7 d.)“ ištrauka.'
+- t-003
+  teiginys: 'Dzūkų grupės įsakymas Nr. 1 buvo skirtas vykdyti ir žinoti tik žaliukų dalinių vadams.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Dabar veikiantieji atskiri žaliukų daliniai vadinasi atatinkamai jų vadų slapyvardžio būriais, pav., Perkūno būrys, Šarūno būrys ir pan. [...].'
   pagrindžia:
     - c-002
@@ -49,8 +49,10 @@ Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės 7 d.)“ ištrauka.'
+  santrauka: 'Dzūkų grupės įsakymas Nr. 1 buvo skirtas vykdyti ir žinoti tik žaliukų dalinių vadams.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ištrauka iš 1945 m. gegužės 7 d. Dzūkų
@@ -61,10 +63,9 @@ Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-
+    - t-003
 - c-002
   santrauka: 'Dabar veikiantieji atskiri žaliukų daliniai vadinasi atatinkamai jų vadų slapyvardžio būriais, pav., Perkūno būrys, Šarūno būrys ir pan. [...].'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -77,6 +78,6 @@ Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004

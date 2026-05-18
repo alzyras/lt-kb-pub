@@ -18,13 +18,15 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Šio Susivienijimo įstatuose buvo įrašytas toksai reikalavimas: „Kožnas lietuvininkas, prigulintis ing susivienijimą, privalo užlaikyti savo naciją, priduot pagelbą savo broliui nelaimėje būvančiam, vest dievobaimingą gyvenimą ir davinėti gerą priklodą (t.'
+  teiginys: 'Susivienijimo įstatai reikalavo, kad kiekvienas narys palaikytų savo naciją, padėtų nelaimės ištiktam broliui ir rodytų gerą pavyzdį.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šio Susivienijimo įstatuose buvo įrašytas toksai reikalavimas: „Kožnas lietuvininkas, prigulintis ing susivienijimą, privalo užlaikyti savo naciją, priduot pagelbą savo broliui nelaimėje būvančiam, vest dievobaimingą gyvenimą ir davinėti gerą priklodą (t.'
+  santrauka: 'Susivienijimo įstatai reikalavo, kad kiekvienas narys palaikytų savo naciją, padėtų nelaimės ištiktam broliui ir rodytų gerą pavyzdį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šio Susivienijimo įstatuose buvo įrašytas toksai reika-
@@ -33,10 +35,10 @@ tags:
     mėje būvančiam, vest dievobaimingą gyvenimą ir davinėti gerą
     priklodą (t. y. pavyzdį) nog savęs, taipgi naujai pribuvusiam
     broliui iš Lietuvos duoti pagelbą".
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

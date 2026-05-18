@@ -19,7 +19,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Po R. Kalantos mirties sovietiniai saugumiečiai slapta palaidojo jį anksčiau paskelbto laiko.'
+  teiginys: 'Sovietiniai saugumiečiai R. Kalantą slapta palaidojo anksčiau paskelbto laiko.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -45,7 +45,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Po R. Kalantos mirties sovietiniai saugumiečiai slapta palaidojo jį anksčiau paskelbto laiko.'
+  santrauka: 'Sovietiniai saugumiečiai R. Kalantą slapta palaidojo anksčiau paskelbto laiko.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietiniai saugumiečiai paskubėjo R. Kalantą slapta palaidoti
@@ -105,3 +105,4 @@ tags:
 
 ### Susiję objektai
 - [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]
+- [[objektai/ivykiai/Romo Kalantos susideginimas Kaune (1972 m. gegužės 14 d.)]]

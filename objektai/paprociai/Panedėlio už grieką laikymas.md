@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Panedėly daug kas vengia leistis į tolimą kelionę arba dirbti sunkų darbą, nes tą dieną laiko grėsminga ir ją pridengia kaip karaliaus dienos šventimą.'
   pagrindžia:
     - c-001
@@ -50,7 +50,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Panedėly daug kas vengia leistis į tolimą kelionę arba dirbti sunkų darbą, nes tą dieną laiko grėsminga ir ją pridengia kaip karaliaus dienos šventimą.
+  santrauka: 'Panedėly daug kas vengia leistis į tolimą kelionę arba dirbti sunkų darbą, nes tą dieną laiko grėsminga ir ją pridengia kaip karaliaus dienos šventimą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     pritirtu yra daiktu, kad lietuviai, Vilniuje metuose 1387 apsikrikštiję, panedėly po baltosios
@@ -60,8 +60,10 @@ Nenurodyta
     šventinti, kaipogi iki šiai dienai daug žmonių iš namo savo išeiti į tolimą kelionę arba ką sunkų
     dirbti panedėly už grieką^803 sau turi; nes, idant paslėptų tą savo gailesį nuo lenkų kunigų, sakės
     jiems karaliaus dieną šventinantys.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

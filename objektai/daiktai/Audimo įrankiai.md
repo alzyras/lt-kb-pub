@@ -51,7 +51,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Moterų audimo įrankiai buvo jų vyrų dirbti, o šiame sąraše minimos staklės, skietai, mastuvai, lankčiai ir vytuvai.'
   pagrindžia:
     - c-001
@@ -60,7 +60,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Moterų audimo įrankiai buvo jų vyrų dirbti, o šiame sąraše minimos staklės, skietai, mastuvai, lankčiai ir vytuvai.
+  santrauka: 'Moterų audimo įrankiai buvo jų vyrų dirbti, o šiame sąraše minimos staklės, skietai, mastuvai, lankčiai ir vytuvai.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Lygia dalia motriškosios pirkinių negeidė ir už visų didžiausią gėdą būt sau turėjusios svečios
@@ -72,4 +72,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

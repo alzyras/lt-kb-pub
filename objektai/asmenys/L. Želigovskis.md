@@ -21,7 +21,7 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
 
 ## Teiginiai
 - t-001
-  teiginys: 'Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vidurinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.'
+  teiginys: 'Liucijano Želigovskio užimtoje „Vidurinės Lietuvos“ teritorijoje su Vilniumi balsuota dėl jos tapimo Lenkijos dalimi.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -35,7 +35,7 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vidurinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.'
+  santrauka: 'Liucijano Želigovskio užimtoje „Vidurinės Lietuvos“ teritorijoje su Vilniumi balsuota dėl jos tapimo Lenkijos dalimi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkijos valia vykusiuose rinkimuose gen. Liucijano

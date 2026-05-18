@@ -29,25 +29,8 @@ tags:
 bajorijos tarpe kilo sumanymas rasti modus vivendi, kuris patenkintų ir Rusų valdžią ir bajoriją.
 
 ## Teiginiai
-- t-001
-  teiginys: 'bajorijos tarpe kilo sumanymas rasti modus vivendi, kuris patenkintų ir Rusų valdžią ir bajoriją.'
-  pagrindžia:
-    - c-001
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'bajorijos tarpe kilo sumanymas rasti modus vivendi, kuris patenkintų ir Rusų valdžią ir bajoriją.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    bajorijos tarpe kilo sumanymas rasti _modus vivendi,_ kuris patenkin-
-    tų ir Rusų valdžią ir bajoriją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: zemas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
 ### Laikotarpiai

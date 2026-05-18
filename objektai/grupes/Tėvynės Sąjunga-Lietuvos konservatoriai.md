@@ -19,7 +19,7 @@ Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuv
 
 ## Teiginiai
 - t-001
-  teiginys: 'Po 1992 m. Seimo rinkimų praėjus ketveriems metams sėkmė lydėjo V. Landsbergio vadovaujamus konservatorius.'
+  teiginys: 'V. Landsbergio vadovaujami konservatoriai laimėjo 1996 m. Seimo rinkimus.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuv
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Po 1992 m. Seimo rinkimų praėjus ketveriems metams sėkmė lydėjo V. Landsbergio vadovaujamus konservatorius.'
+  santrauka: 'V. Landsbergio vadovaujami konservatoriai laimėjo 1996 m. Seimo rinkimus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Per 1992 m. rinkimus į Sei-

@@ -20,13 +20,15 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis būtų galėjęs lengviau suvaldyti ir didikus ir bajoriją ir pasiekti absoliutiškos valdžios.'
+  teiginys: 'Saksonija buvo nuo Lenkijos netolima teritorija.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis būtų galėjęs lengviau suvaldyti ir didikus ir bajoriją ir pasiekti absoliutiškos valdžios.'
+  santrauka: 'Saksonija buvo nuo Lenkijos netolima teritorija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuomet, iš vienos pusės, turėdamas savo ka-
@@ -34,11 +36,11 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
     nuo Lenkijos netolimoje Saksonijoje, jis būtų galėjęs lengviau
     suvaldyti ir didikus ir bajoriją ir pasiekti absoliutiškos val-
     džios.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

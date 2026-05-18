@@ -17,21 +17,6 @@ tags:
 Askenazy, Dwa stulecia I, II (1903);.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Askenazy, Dwa stulecia I, II (1903);.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Askenazy, Dwa stulecia I, II (1903);.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    _Askenazy,_ Dwa stulecia I, II (1903);
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+
+## Bibliografiniai įrodymai

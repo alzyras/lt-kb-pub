@@ -30,29 +30,8 @@ tags: []
 - Pagrindinė forma: kad tik be arklio nebūtų
 
 ## Teiginiai
-- t-001
-  teiginys: 'Vytauto žodžiais ši frazė nusako bajorų karo prievolės reikalavimą turėti arklį.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: Bajorų karo prievolė sukoncentruojama į reikalavimą neatsidurti be arklio.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ir tiems bajorams, kurių luomą Vytautas taip rėmė dovanojimais,
-    stojimas karan su savo arkliu ir ginklais buvo geležinis įstatymas ;
-    o kurie neturėjo kuo joti ar apsišarvoti, paties Vytauto žodžiais,
-    turėjo parduoti žmoną ir vaikus, « kad tik be arklio nebūtų »^4.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

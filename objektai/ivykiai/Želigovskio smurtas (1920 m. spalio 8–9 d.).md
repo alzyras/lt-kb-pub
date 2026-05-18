@@ -33,50 +33,56 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Želigovskio smurtas.'
+  teiginys: 'Per derybas lenkų karo jėgos, nepaisydamos paliaubų, veržėsi Vilniaus link.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Tuo būdu Suvalkų sutartis, tik dvi dienos po pasirašymo, buvo sulaužyta, ir tas apgaulės ir smurto žygis sutrukdė visą tolesnį Lietuvių ir Lenkų santykių tvarkymą.'
+  teiginys: 'Želigovskio smurtas sulaužė Suvalkų sutartį praėjus dviem dienoms po jos pasirašymo ir sutrikdė Lietuvos ir Lenkijos santykių tvarkymą.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Esą, atsiradęs jų kariuomenėje generolas maištininkas Želigovskis ir savavališkai užėmęs Vilnių.'
+  teiginys: 'Lenkija aiškino, kad generolas Želigovskis savavališkai užėmė Vilnių, bet šaltinis šį pasakojimą vadina pramanu.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Želigovskio smurtas.'
+  santrauka: 'Per derybas lenkų karo jėgos, nepaisydamos paliaubų, veržėsi Vilniaus link.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Želigovskio smurtas.** Jau derybų metu lenkų karo jėgos,
     nepaisydamos paliaubų, veržėsi Vilniaus link, tarytum ten būtų
     buvę rusų bolševikų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Tuo būdu Suvalkų sutartis, tik dvi dienos po pasirašymo, buvo sulaužyta, ir tas apgaulės ir smurto žygis sutrukdė visą tolesnį Lietuvių ir Lenkų santykių tvarkymą.'
+  santrauka: 'Želigovskio smurtas sulaužė Suvalkų sutartį praėjus dviem dienoms po jos pasirašymo ir sutrikdė Lietuvos ir Lenkijos santykių tvarkymą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo
     būdu Suvalkų sutartis, tik dvi dienos po pasirašymo, buvo su-
     laužyta, ir tas apgaulės ir smurto žygis sutrukdė visą tolesnį
     Lietuvių ir Lenkų santykių tvarkymą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Esą, atsiradęs jų kariuomenėje generolas maištininkas Želigovskis ir savavališkai užėmęs Vilnių.'
+  santrauka: 'Lenkija aiškino, kad generolas Želigovskis savavališkai užėmė Vilnių, bet šaltinis šį pasakojimą vadina pramanu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lenkija, nebegalėdama
@@ -90,11 +96,11 @@ Nenurodyta
     teisintis, kad, esą, tos divizijos negalėjusios palikti neišvaduotos
     savo tėviškės, ir nužygiavusios, nepaisydamos santarvės rei-
     kalavimų klausančios Lenkų vyriausybės.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 

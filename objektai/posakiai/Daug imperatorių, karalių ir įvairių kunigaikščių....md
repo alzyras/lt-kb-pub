@@ -33,8 +33,8 @@ tags:
 - Pagrindinė forma: Daug imperatorių, karalių ir įvairių kunigaikščių...
 
 ## Teiginiai
-- t-001
-  teiginys: 'Formuluotė šiame pasakojime pateikiama kaip iškilminga Jogailos delegacijos derybinė formulė.'
+- t-002
+  teiginys: 'Elžbietai buvo sakoma, kad daugelis valdovų troško amžinos giminystės sąjungos su Lietuvos didžiuoju kunigaikščiu Jogaila.'
   pagrindžia:
     - c-001
     - c-002
@@ -44,7 +44,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: iškilminga Jogailos delegacijos derybinė formulė
+  santrauka: 'Elžbietai buvo sakoma, kad daugelis valdovų troško amžinos giminystės sąjungos su Lietuvos didžiuoju kunigaikščiu Jogaila.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     karalienei Elžbietai: „Daug imperatorių, karalių ir įvairių kunigaikš-
@@ -57,9 +57,9 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 - c-002
-  santrauka: iškilminga Jogailos delegacijos derybinė formulė
+  santrauka: 'Elžbietai buvo sakoma, kad daugelis valdovų troško amžinos giminystės sąjungos su Lietuvos didžiuoju kunigaikščiu Jogaila.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tad, Šviesiausioji
@@ -73,9 +73,9 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 - c-003
-  santrauka: iškilminga Jogailos delegacijos derybinė formulė
+  santrauka: 'Elžbietai buvo sakoma, kad daugelis valdovų troško amžinos giminystės sąjungos su Lietuvos didžiuoju kunigaikščiu Jogaila.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     O kol
@@ -106,4 +106,4 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

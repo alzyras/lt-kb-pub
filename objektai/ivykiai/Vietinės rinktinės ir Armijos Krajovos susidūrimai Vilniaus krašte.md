@@ -32,7 +32,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Komplikuotai susiklostė lietuvių ir lenkų santykiai Vilniaus krašte, kurį naciai padarė Lietuvos generalinės srities dalimi ir priskyrė lietuvių administracijai.'
+  teiginys: 'Naciams Vilniaus kraštą priskyrus Lietuvos generalinei sričiai ir lietuvių administracijai, lietuvių ir lenkų santykiai susiklostė komplikuotai.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -40,7 +40,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Komplikuotai susiklostė lietuvių ir lenkų santykiai Vilniaus krašte, kurį naciai padarė Lietuvos generalinės srities dalimi ir priskyrė lietuvių administracijai.'
+  santrauka: 'Naciams Vilniaus kraštą priskyrus Lietuvos generalinei sričiai ir lietuvių administracijai, lietuvių ir lenkų santykiai susiklostė komplikuotai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Komplikuotai susiklostė lietuvių ir lenkų santykiai Vilniaus krašte,

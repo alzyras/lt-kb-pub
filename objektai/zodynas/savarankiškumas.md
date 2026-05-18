@@ -21,21 +21,21 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
 
 ## Teiginiai
 - t-001
-  teiginys: 'Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu buvo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jogailai ir jo įpėdiniams, Lenkų karaliams.'
+  teiginys: 'Vilniaus-Radomo susitarimu Vytautas buvo paskelbtas tikruoju Lietuvos valdovu, bet po jo mirties Lietuva turėjo grįžti Jogailai ir jo įpėdiniams.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Tuo būdu Lietuvos savarankiškumas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Bajorų pritarimas jam buvo taip pat reikalingas ir siekiant savarankiškumo.'
-  pagrindžia:
-    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu buvo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jogailai ir jo įpėdiniams, Lenkų karaliams.'
+  santrauka: 'Vilniaus-Radomo susitarimu Vytautas buvo paskelbtas tikruoju Lietuvos valdovu, bet po jo mirties Lietuva turėjo grįžti Jogailai ir jo įpėdiniams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po ilgų derybų, 1401 m. buvo pa-
@@ -49,11 +49,11 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
     rankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu bu-
     vo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jo-
     gailai ir jo įpėdiniams, Lenkų karaliams.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -64,26 +64,13 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
     jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be
     lietuvių ir be Vytauto žinios. Tuo būdu Lietuvos savarankišku-
     mas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Bajorų pritarimas jam buvo taip pat reikalingas ir siekiant savarankiškumo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bajorų pritari-
-    mas jam buvo taip pat reikalingas ir siekiant savarankiškumo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

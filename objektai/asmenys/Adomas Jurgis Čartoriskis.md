@@ -20,13 +20,13 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
 
 ## Teiginiai
 - t-001
-  teiginys: 'A. J. Čartoriskiui jo globojama apygarda buvo plano atkurti Lenkijos arba Lenkijos ir Lietuvos valstybę parengiamoji grandis.'
+  teiginys: 'Adomui Jurgiui Čartoriskiui jo globojama apygarda buvo plano atkurti Lenkijos arba Lenkijos ir Lietuvos valstybę Rusijos imperijos globoje parengiamoji grandis.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'A. J. Čartoriskis buvo priverstas atsistatydinti iš globėjo posto.'
+  teiginys: 'Adomas Jurgis Čartoriskis buvo priverstas atsistatydinti iš globėjo posto.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -34,7 +34,7 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'A. J. Čartoriskiui jo globojama apygarda buvo plano atkurti Lenkijos arba Lenkijos ir Lietuvos valstybę parengiamoji grandis.'
+  santrauka: 'Adomui Jurgiui Čartoriskiui jo globojama apygarda buvo plano atkurti Lenkijos arba Lenkijos ir Lietuvos valstybę Rusijos imperijos globoje parengiamoji grandis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     A. J. Čartoris-
@@ -48,7 +48,7 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'A. J. Čartoriskis buvo priverstas atsistatydinti iš globėjo posto.'
+  santrauka: 'Adomas Jurgis Čartoriskis buvo priverstas atsistatydinti iš globėjo posto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Išvaryti ir politiš-

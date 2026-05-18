@@ -30,7 +30,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '„Čiurlionis Vilniuje“ 2010 m. išleistas Vilniuje, sudarytojas S. Urbonas.'
+  teiginys: '„Čiurlionis Vilniuje“ 2010 m. išleistas Vilniuje, o leidinį sudarė S. Urbonas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -40,7 +40,7 @@ tags:
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: '„Čiurlionis Vilniuje“ 2010 m. išleistas Vilniuje, sudarytojas S. Urbonas.'
+  santrauka: '„Čiurlionis Vilniuje“ 2010 m. išleistas Vilniuje, o leidinį sudarė S. Urbonas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilnius,

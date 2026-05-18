@@ -36,13 +36,13 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pagoniškos šventės buvo tarsi užsiklojusios krikščioniškuoju švenčių sluoksniu.'
+  teiginys: 'Pagoniškos šventės Lietuvoje išliko užsiklojusios krikščioniškuoju švenčių sluoksniu.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Lokalinių kultų vietos turėjo gyvuoti toliau, nors pagoniškosios šventvietės jau buvo bendros raidos su krikščionybe rezultatas.'
+  teiginys: 'Lokalinių kultų vietos gyvavo toliau, o pagoniškosios šventvietės tapo bendros plėtotės su krikščionybe rezultatu.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -50,7 +50,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pagoniškos šventės buvo tarsi užsiklojusios krikščioniškuoju švenčių sluoksniu.'
+  santrauka: 'Pagoniškos šventės Lietuvoje išliko užsiklojusios krikščioniškuoju švenčių sluoksniu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Galėtume sakyti, kad pagoniškos šventės yra
@@ -64,7 +64,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Lokalinių kultų vietos turėjo gyvuoti toliau, nors pagoniškosios šventvietės jau buvo bendros raidos su krikščionybe rezultatas.'
+  santrauka: 'Lokalinių kultų vietos gyvavo toliau, o pagoniškosios šventvietės tapo bendros plėtotės su krikščionybe rezultatu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lokalinių kultų vie-

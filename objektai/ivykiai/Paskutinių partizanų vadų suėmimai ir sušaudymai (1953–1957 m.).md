@@ -43,7 +43,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Berija pripažino Lietuvoje vykstantį partizaninį karą rimta grėsme sovietų valdymui.'
+  teiginys: '1953 m. agentai išdavė J. Žemaitį-Vytautą, o po pusantrų metų tardymų jis buvo sušaudytas Maskvos Butyrkų kalėjime.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -51,7 +51,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Berija pripažino Lietuvoje vykstantį partizaninį karą rimta grėsme sovietų valdymui.'
+  santrauka: '1953 m. agentai išdavė J. Žemaitį-Vytautą, o po pusantrų metų tardymų jis buvo sušaudytas Maskvos Butyrkų kalėjime.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1953 m. pavasarį užverbuoti

@@ -43,13 +43,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Žiemą važiuodavo važiuose, taip vadinamose rogėse, o ką vežė, tą vežė rogėse ir šlajose.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Kareiviui reikalingas karo įkaištis buvo vežamas mažomis rogėmis, kurias traukė šuo.'
   pagrindžia:
     - c-002
@@ -58,7 +58,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Žiemą važiuodavo važiuose, taip vadinamose rogėse, o ką vežė, tą vežė rogėse ir šlajose.
+  santrauka: 'Žiemą važiuodavo važiuose, taip vadinamose rogėse, o ką vežė, tą vežė rogėse ir šlajose.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Žiemos laiku, kaip sakiau, važiavo važiuose, taip vadinamose
@@ -70,9 +70,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Kareiviui reikalingas karo įkaištis buvo vežamas mažomis rogėmis, kurias traukė šuo.
+  santrauka: 'Kareiviui reikalingas karo įkaištis buvo vežamas mažomis rogėmis, kurias traukė šuo.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Senovės kalnėnai ir žemaičiai, traukdami į karę, du tarnu lygiai turėjo, beje, šunį ir žirgą, nesgi, ko
@@ -85,4 +85,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004

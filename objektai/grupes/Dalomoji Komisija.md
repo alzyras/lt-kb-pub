@@ -19,21 +19,27 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Šitam darbui atlikti Lietuvoje ir Lenkijoje buvo sudaryta po atskirą Dalomąją Komisiją.'
+  teiginys: 'Dalomoji Komisija buvo sudaryta Lietuvoje ir Lenkijoje atlikti turto dalybų darbą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Greit pasirodė, kad Dalomosios Komisijos su tais turtais daro biznį — dvarus labai pigiai dalina savo artimiesiems, o pinigus tiesiog vagia.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Todėl 1776 m. tos komisijos buvo panaikintos, ir visi turtai pavesti Edukacinei Komisijai.'
+  teiginys: '1776 m. Dalomosios Komisijos buvo panaikintos, o visi turtai pavesti Edukacinei Komisijai.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šitam darbui atlikti Lietuvoje ir Lenkijoje buvo sudaryta po atskirą Dalomąją Komisiją.'
+  santrauka: 'Dalomoji Komisija buvo sudaryta Lietuvoje ir Lenkijoje atlikti turto dalybų darbą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šitam darbui
@@ -41,11 +47,11 @@ tags:
     kijoje buvo sudaryta po
     atskirą Dalomąją
     Komisiją.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -55,24 +61,24 @@ tags:
     Greit pasirodė, kad Dalomosios Komisijos su tais turtais daro
     biznį — dvarus labai pigiai dalina savo artimiesiems, o pinigus tie-
     siog vagia.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Todėl 1776 m. tos komisijos buvo panaikintos, ir visi turtai pavesti Edukacinei Komisijai.'
+  santrauka: '1776 m. Dalomosios Komisijos buvo panaikintos, o visi turtai pavesti Edukacinei Komisijai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl 1776 m. tos komisijos buvo panaikintos, ir visi
     turtai pavesti Edukacinei Komisijai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 

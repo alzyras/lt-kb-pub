@@ -53,7 +53,7 @@ Stalo įrankis, šaltinyje minimas kaip viena itališkos Renesanso kultūros nau
 Nenurodyta
 
 ## Teiginiai
-- t-003
+- t-004
   teiginys: 'Šakutė tuo metu buvo nežinoma ne tik Lietuvoje, bet ir Skandinavijos šalyse.'
   pagrindžia:
     - c-001
@@ -73,7 +73,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-004
 
 ## Šaltiniai ir įrodymai
 

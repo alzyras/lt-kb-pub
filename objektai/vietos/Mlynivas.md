@@ -19,7 +19,7 @@ tą patį darė čia valdas įgiję didikai Radvilos (Olyka) ir Chodkevičiai (M
 
 ## Teiginiai
 - t-001
-  teiginys: 'Voluinėje valdas įgiję Chodkevičiai buvo susiję su Mlynivu.'
+  teiginys: 'Voluinėje valdas įgiję Chodkevičiai turėjo valdų Mlynive.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ tą patį darė čia valdas įgiję didikai Radvilos (Olyka) ir Chodkevičiai (M
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Voluinėje valdas įgiję Chodkevičiai buvo susiję su Mlynivu.'
+  santrauka: 'Voluinėje valdas įgiję Chodkevičiai turėjo valdų Mlynive.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vėliau Voluinė apskritai tapo šalutinių Gedimi-

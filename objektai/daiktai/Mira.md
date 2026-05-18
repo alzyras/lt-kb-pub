@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Trimpos garbei buvo aukojama mira kaip viena iš materialių dovanų.'
   pagrindžia:
     - c-001
@@ -50,7 +50,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Trimpos garbei buvo aukojama mira kaip viena iš materialių dovanų.
+  santrauka: 'Trimpos garbei buvo aukojama mira kaip viena iš materialių dovanų.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Aukavę jam
@@ -61,4 +61,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

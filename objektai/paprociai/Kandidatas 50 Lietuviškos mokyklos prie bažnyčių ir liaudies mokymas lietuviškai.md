@@ -42,7 +42,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Lietuviškos mokyklos prie bažnyčių visiškai nukonkuravo valdiškas mokyklas rusų kalba.'
+  teiginys: 'Lietuviškos mokyklos prie Telšių vyskupijos bažnyčių visiškai nukonkuravo valdiškas mokyklas rusų kalba.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -66,7 +66,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Lietuviškos mokyklos prie bažnyčių visiškai nukonkuravo valdiškas mokyklas rusų kalba.'
+  santrauka: 'Lietuviškos mokyklos prie Telšių vyskupijos bažnyčių visiškai nukonkuravo valdiškas mokyklas rusų kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O vyskupija

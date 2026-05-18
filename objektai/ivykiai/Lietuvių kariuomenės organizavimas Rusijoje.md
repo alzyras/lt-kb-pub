@@ -32,17 +32,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvių kariuomenės organizavimas Rusijoje.'
+  teiginys: 'Po revoliucijos Rusijoje lietuviai pradėjo rūpintis lietuvių karininkų ir kareivių telkimu į atskiras dalis.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Iš tikrųjų lietuviams karininkams buvo pasisekę suorganizuoti net kelis tokiuos lietuviškus batalijonus (Vitebske, Smolenske, Rovnoje — Ukrainoje, — Sibire ir kt.).'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvių kariuomenės organizavimas Rusijoje.'
+  santrauka: 'Po revoliucijos Rusijoje lietuviai pradėjo rūpintis lietuvių karininkų ir kareivių telkimu į atskiras dalis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Lietuvių kariuomenės organizavimas Rusijoje.** Kilus Ru-
@@ -51,28 +49,10 @@ Nenurodyta
     menės. Rusų armijoje lietuvių karininkų ir kareivių buvo ne-
     maža. Todėl buvo pradėta rūpintis juos suburti į atskiras dalis,
     apginkluoti ir, atsidarius frontui, grąžinti į Lietuvą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Iš tikrųjų lietuviams karininkams buvo pasisekę suorganizuoti net kelis tokiuos lietuviškus batalijonus (Vitebske, Smolenske, Rovnoje — Ukrainoje, — Sibire ir kt.).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iš
-    tikrųjų lietuviams karininkams buvo pasisekę suorganizuoti net
-    kelis tokiuos lietuviškus batalijonus (Vitebske, Smolenske, Rov-
-    noje — Ukrainoje, — Sibire ir kt.). Tačiau tie batalijonai neilgai
-    tegyvavo. Bolševikams paėmus valdžią, jie buvo išsklaidyti, ir
-    daugumas lietuvių karių grįžo atskirai, kartu su karo pabėgė-
-    liais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

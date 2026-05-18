@@ -41,22 +41,38 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Tris dievų stabai buvo įstatyti ąžuolo uoksuose.'
   pagrindžia:
-    - c-001
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Per metines viešas aukas prie aukuro ir stabo buvo meldžiamasi šėtroje.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Tris dievų stabai buvo įstatyti ąžuolo uoksuose.
+  santrauka: 'Per metines viešas aukas prie aukuro ir stabo buvo meldžiamasi šėtroje.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Išeiginėse aukose, beje, ant metinių viešių, arba švenčių, aukavo viršaitis ar viršininkas
+    vaideliotų, arba žynių, susirinkus taip pat svietui vienos apygardos į pašėtrį po visų dideliuoju
+    ąžuolu, kame šventa ugnis kūrinos. Viršaitis, paėmęs duonos šmotelį ant torieliaus^949 ir midaus
+    kaušą ar taurę ir tuo nešinas, tris kartus apėjo apie stalą ir tenai padėjo duoną ir taurę. Tad prie
+    aukuro ir stabo, šėtre stovinčio, meldės, pakaitomis su svietu giedodamas, kaip viršiau regėjom.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-002
+  santrauka: 'Tris dievų stabai buvo įstatyti ąžuolo uoksuose.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Žaliajame pagiry stovėjęs ąžuolas, kursai savo amžium, aukštybe ir platybe visų girių medžius
@@ -67,27 +83,11 @@ Nenurodyta
     išvydęs jų veidus.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: Per metines viešas aukas prie aukuro ir stabo buvo meldžiamasi šėtroje.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Išeiginėse aukose, beje, ant metinių viešių, arba švenčių, aukavo viršaitis ar viršininkas
-    vaideliotų, arba žynių, susirinkus taip pat svietui vienos apygardos į pašėtrį po visų dideliuoju
-    ąžuolu, kame šventa ugnis kūrinos. Viršaitis, paėmęs duonos šmotelį ant torieliaus^949 ir midaus
-    kaušą ar taurę ir tuo nešinas, tris kartus apėjo apie stalą ir tenai padėjo duoną ir taurę. Tad prie
-    aukuro ir stabo, šėtre stovinčio, meldės, pakaitomis su svietu giedodamas, kaip viršiau regėjom.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
+    - t-003
 
 ## Pastabos
 

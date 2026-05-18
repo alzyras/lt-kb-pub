@@ -24,10 +24,14 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   teiginys: 'Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio skiriamas urėdas — pakamorė, kuris visas tokias bylas spręsdavo vietoje.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Žemės teismams rinkti buvo įvesti viso pavieto arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -38,11 +42,11 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
     naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
     skiriamas urėdas — pakamorė, kuris visas tokias bylas spręs-
     davo vietoje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -51,10 +55,10 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   citata_originali: |
     Žemės teismams rinkti buvo įvesti viso pavieto
     arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

@@ -53,15 +53,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: Dviašmenis kalavijas šaltinyje apibūdinamas kaip X-XI a. Vakarų Europoje paplitęs ginklas.
+- t-003
+  teiginys: 'Dviašmenis kalavijas X–XI a. buvo paplitęs Vakarų Europoje.'
   pagrindžia:
     - c-001
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: Tokio tipo kalavijų randama ir to laikotarpio kapuose Lietuvoje.
+- t-004
+  teiginys: 'Tokio tipo kalavijų randama ir to laikotarpio kapuose Lietuvoje.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -69,7 +69,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Pagrindinis tekstas nusako paplitimą ir pabrėžia radinius Lietuvos kapuose.
+  santrauka: 'Dviašmenis kalavijas X–XI a. buvo paplitęs Vakarų Europoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     *  X-Xla. Vakarų Europoje paplitęs
@@ -79,25 +79,26 @@ Nenurodyta
     1= kapuose Lietuvoje
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 - c-002
-  santrauka: Iliustracijos antraštė šį objektą įvardija kaip X-XI a. Vakarų Europos dviašmenį kalaviją.
+  santrauka: 'Dviašmenis kalavijas X–XI a. buvo paplitęs Vakarų Europoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    p. 23, Tik Lietuvai būdingi dvinariai žąslai su skersinukais. Rusiai. vDKM, Artūro Užgalio nuotr.
     p. 23, X-xI a. Vakarų Europos dviašmenis kalavijas, Baltų kovų brolijos „Vilkatlakai“
     rekonstrukcija, Giedrės Maksimovicz nuotr.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

@@ -41,30 +41,17 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Kūrėjų kūrėjas gyveno ypatingai, prasišalinęs nuo svieto šventoje girioj, kad rodytų savo ryšį su dievu.'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Kūrėjų kūrėjas gyveno ypatingai, prasišalinęs nuo svieto šventoje girioj, kad rodytų savo ryšį su dievu.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Tas kūrėjų kūrėjas svetimų
-    siuntinių^968 , nuo tolimų tolimesnių kraštų atėjusių jo teirautis, neprileido prie savęs, bet per savo
-    tarnus, arba kunigus, davė jiems atsaką, kurio siuntiniai turėjo laukti girioj po lapine, tam reikalui
-    padirbta.
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Žynio gyvenimas šventoje girioje ir siuntinių priėmimas po lapine papildomas patvirtintas šaltinio paminėjimas.
+  santrauka: 'Kūrėjų kūrėjas gyveno ypatingai, prasišalinęs nuo svieto šventoje girioj, kad rodytų savo ryšį su dievu.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     todėl, dėl to
@@ -97,8 +84,22 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-001
+    - t-002
+- c-002
+  santrauka: 'Kūrėjų kūrėjas gyveno ypatingai, prasišalinęs nuo svieto šventoje girioj, kad rodytų savo ryšį su dievu.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Tas kūrėjų kūrėjas svetimų
+    siuntinių^968 , nuo tolimų tolimesnių kraštų atėjusių jo teirautis, neprileido prie savęs, bet per savo
+    tarnus, arba kunigus, davė jiems atsaką, kurio siuntiniai turėjo laukti girioj po lapine, tam reikalui
+    padirbta.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002

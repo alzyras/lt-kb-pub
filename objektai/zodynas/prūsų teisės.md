@@ -20,13 +20,15 @@ Tačiau kai kuriems ir naujai kuriamuose dvaruose buvo duodamos „prūsų" teis
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tačiau kai kuriems ir naujai kuriamuose dvaruose buvo duodamos „prūsų" teisės, todėl ir jie buvo vadinami prūsais.'
+  teiginys: 'Kai kuriems naujai kuriamų dvarų gyventojams buvo suteikiamos „prūsų“ teisės, todėl jie buvo vadinami prūsais.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tačiau kai kuriems ir naujai kuriamuose dvaruose buvo duodamos „prūsų" teisės, todėl ir jie buvo vadinami prūsais.'
+  santrauka: 'Kai kuriems naujai kuriamų dvarų gyventojams buvo suteikiamos „prūsų“ teisės, todėl jie buvo vadinami prūsais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau kai kuriems ir naujai
@@ -34,11 +36,11 @@ Tačiau kai kuriems ir naujai kuriamuose dvaruose buvo duodamos „prūsų" teis
     jie buvo vadinami prūsais. Tuo būdu ordino dokumentuose
     matome rytuose ir lietuvių ir prūsų, o vakaruose tik prūsus, nes ten naujų dvarų jau nebebuvo kuriama, ir valstiečių su nau-
     jomis teisėmis nebeatsirado.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

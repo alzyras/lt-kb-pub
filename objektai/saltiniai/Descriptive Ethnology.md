@@ -37,8 +37,8 @@ tags: []
 - Vartojimo kontekstas: įvado epigrafas.
 
 ## Teiginiai
-- t-005
-  teiginys: 'Robert Gordon Latham veikale „Descriptive Ethnology“ rašė apie sanskrito giminingumą su lietuvių kalba.'
+- t-006
+  teiginys: '„Descriptive Ethnology“ Robertas Gordonas Lathamas teigė, kad sanskrito giminingumas su lietuvių kalba didesnis nei su bet kuria kita kalba.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -46,7 +46,7 @@ tags: []
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Robert Gordon Latham veikale „Descriptive Ethnology“ rašė apie sanskrito giminingumą su lietuvių kalba.'
+  santrauka: '„Descriptive Ethnology“ Robertas Gordonas Lathamas teigė, kad sanskrito giminingumas su lietuvių kalba didesnis nei su bet kuria kita kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Alfonsas Eidintas,
@@ -66,6 +66,6 @@ tags: []
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-006
 
 ## Reikšmingi paminėjimai

@@ -24,10 +24,14 @@ Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių teturėjo vos 70
   teiginys: 'Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių teturėjo vos 704 narius, o dabar turi 300 su viršum kuopų ir 20.000 narių.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Be to, jis yra įkūręs Amerikos Lietuvių Katalikų Federaciją, kuri jungia visas katalikiškąsias Amerikos lietuvių organizacijas ir ypatingai rūpinasi švietimu ir mokyklų steigimu.'
+  teiginys: 'Susivienijimas Lietuvių Rymo Katalikų Amerikoje įkūrė Amerikos Lietuvių Katalikų Federaciją, jungusią katalikiškas Amerikos lietuvių organizacijas.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -41,15 +45,15 @@ Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių teturėjo vos 70
     gas", nuo 1917 metų tapo „Garsas". Susivienijimo pirmi-
     ninku paprastai renkamas kunigas. Susivienijimas daro kon-
     gresus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Be to, jis yra įkūręs Amerikos Lietuvių Katalikų Federaciją, kuri jungia visas katalikiškąsias Amerikos lietuvių organizacijas ir ypatingai rūpinasi švietimu ir mokyklų steigimu.'
+  santrauka: 'Susivienijimas Lietuvių Rymo Katalikų Amerikoje įkūrė Amerikos Lietuvių Katalikų Federaciją, jungusią katalikiškas Amerikos lietuvių organizacijas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, jis yra įkūręs Amerikos Lietuvių Ka-
@@ -68,11 +72,11 @@ Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių teturėjo vos 70
     maža katalikų jaunimo Federacija suorganizavo ir Lietuvos Vy-
     čių Sąjungoje (tai maždaug, kaip Lietuvoje pavasarinin-
     kai); ji turi apie 100 kuopų ir leidžia savo laikraštį „Vytį".
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

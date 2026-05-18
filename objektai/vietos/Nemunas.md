@@ -31,109 +31,57 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 Šaltinyje Nemunas pasirodo kaip vakarinės karo ribos ir prekybos kelio pagrindas. Su juo siejami Ordino puolimai, pilių statyba, Salyno susitarimai ir kovos dėl Žemaitijos sienos.
 
 ## Teiginiai
-- t-003
-  teiginys: 'Salynas buvo sala Nemune prie dabartinės Kulautuvos.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Vytautas reikalavo, kad Ordino ir Žemaičių siena eitų Nemunu.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'Žemaičiai buvo įsiveržę į Ordino žemes už Nemuno.'
-  pagrindžia:
-    - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-007
+- t-009
   teiginys: '1920 m. rugsėjo 23 d. lenkų divizijos per tiltą per Nemuną Druskininkuose persikėlė Marcinkonių link.'
   pagrindžia:
-    - c-006
+    - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-008
-  teiginys: '1920 m. spalio 7 d. demarkacinė linija buvo nustatyta iki Juodosios Ančios ir Nemuno santakos.'
+- t-010
+  teiginys: 'Spalio 7 d. demarkacinė linija buvo nustatyta nuo Vokietijos sienos iki Juodosios Ančios ir Nemuno santakos.'
   pagrindžia:
-    - c-007
+    - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: Citata tiksliai lokalizuoja Salyną Nemune.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Susitikimas buvo Salyne (sala
-    Nemune, buvusi apie dabartinę Kulautuvą).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-003
-  santrauka: Citata tiesiogiai pagrindžia Nemuno vaidmenį sienos ginče.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau Vytautas reikalavo, kad ordino ir Žemai-
-    čių siena būtų Nemunas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-004
-  santrauka: Citata rodo, kad Nemunas veikė kaip riba, per kurią vyko žemaičių puolimai.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pagaliau santykiai tarp ordino ir
-    Vytauto tiek paaštrėjo, kad jis parėmė žemaičius, ir tie visus
-    kryžiuočius išvarė iš savo krašto. Jie sugriovė net Klaipėdą ir
-    įsiveržė į ordino žemes už Nemuno.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: Citata tiesiogiai mini persikėlimą per Nemuną Druskininkuose.
+- c-001
+  santrauka: '1920 m. rugsėjo 23 d. lenkų divizijos per tiltą per Nemuną Druskininkuose persikėlė Marcinkonių link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    vietovę po kitos. Daug lietuvių karių žuvo,
+    buvo sužeisti ar pateko priešams į nelaisvę.
     Rugsėjo 23 d. lenkų divizijos perėjo tiltą
     per Nemuną Druskininkuose ir žygiavo
     Marcinkonių link.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
-- c-007
-  santrauka: Citata rodo Nemuno santaką kaip demarkacinės linijos orientyrą.
+    - t-009
+- c-002
+  santrauka: 'Spalio 7 d. demarkacinė linija buvo nustatyta nuo Vokietijos sienos iki Juodosios Ančios ir Nemuno santakos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Galiausiai spalio 7 d. buvo nusta-
+    Derybose Lietuvos delegacija reikalavo
+    nustatyti laikiną demarkacijos liniją, pasi-
+    baigus lenkų-bolševikų kovoms, atitraukti
+    lenkų pajėgas už Lietuvos su sovietais sude-
+    rėtų sienų. Lenkai su tuo nesutiko ir vilkino
+    derybas. Galiausiai spalio 7 d. buvo nusta-
     tyta demarkacinė linija nuo Vokietijos sienos
     iki Juodosios Ančios ir Nemuno santakos,
     toliau - palei Vilniaus-Lydos geležinkelį iki
     Bastūnų stoties.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-008
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai

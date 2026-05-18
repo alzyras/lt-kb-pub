@@ -18,8 +18,8 @@ tags:
 1832 m. nutarta uždaryti Vilniaus universitetą, – anot uždarymo iniciatorių, „Lietuvos laisvamanybės lizdą“.
 
 ## Teiginiai
-- t-002
-  teiginys: '1832 m. nutarta uždaryti Vilniaus universitetą, – anot uždarymo iniciatorių, „Lietuvos laisvamanybės lizdą“.'
+- t-003
+  teiginys: '1832 m. Vilniaus universitetą nutarta uždaryti, o uždarymo iniciatoriai jį vadino „Lietuvos laisvamanybės lizdu“.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1832 m. nutarta uždaryti Vilniaus universitetą, – anot uždarymo iniciatorių, „Lietuvos laisvamanybės lizdą“.'
+  santrauka: '1832 m. Vilniaus universitetą nutarta uždaryti, o uždarymo iniciatoriai jį vadino „Lietuvos laisvamanybės lizdu“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nustatyta, kad vietos bajorai
@@ -44,4 +44,4 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003

@@ -41,41 +41,30 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Gediminas pasitelkė informacines priemones ir laiškais popiežiui bei vakarų visuomenei gerino Lietuvos įvaizdį.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Gediminas pradėjo derinti karo veiksmus prieš kryžiuočius su Lenkija.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Gediminas pasitelkė informacines priemones ir laiškais popiežiui bei vakarų visuomenei gerino Lietuvos įvaizdį.
+  santrauka: 'Gediminas pasitelkė informacines priemones ir laiškais popiežiui bei vakarų visuomenei gerino Lietuvos įvaizdį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Šiam tikslui jis pasitelkė ne
+    1316 m. pradėjęs Lietuvą valdyti Gediminas turėjo atlaikyti su-
+    intensyvėjusį kryžiuočių puolimą. Šiam tikslui jis pasitelkė ne
     tik karines, bet ir informacines priemones, savo laiškais popie-
     žiui ir vakarų visuomenei gerindamas Lietuvos įvaizdį ir taip
     sumažindamas Vakarų Europos krikščionių teikiamą paramą
-    kryžiuočiams.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Gediminas pradėjo derinti karo veiksmus prieš kryžiuočius su Lenkija.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Gediminas pradėjo derinti karo veiksmus prieš
+    kryžiuočiams. Gediminas pradėjo derinti karo veiksmus prieš
     kryžiuočius su Lenkija.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -83,4 +72,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
+    - t-004

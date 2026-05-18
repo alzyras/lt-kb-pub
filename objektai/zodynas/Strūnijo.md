@@ -20,13 +20,13 @@ Pagrindinė forma: `strūnijo`.
 Vartojamos formos: `strūnijo ar dailidavo`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Strūnijo` šiame tekste reiškia savomis jėgomis statyti ar įrengti trobesius.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Terminas siejamas ir su įrankių kalimu bei namų apdirbimu.'
   pagrindžia:
     - c-001
@@ -36,7 +36,7 @@ Vartojamos formos: `strūnijo ar dailidavo`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Strūnijo` šiame tekste reiškia savomis jėgomis statyti ar įrengti trobesius
+  santrauka: '`Strūnijo` šiame tekste reiškia savomis jėgomis statyti ar įrengti trobesius.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Visa gudryba senovės lietuvių, kalnėnų ir žemaičių, buvo ta, jog visa, ko vien reikiant, patys
@@ -50,10 +50,10 @@ Vartojamos formos: `strūnijo ar dailidavo`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 - c-002
-  santrauka: Terminas siejamas ir su įrankių kalimu bei namų apdirbimu
+  santrauka: 'Terminas siejamas ir su įrankių kalimu bei namų apdirbimu.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Taip pat
@@ -67,7 +67,7 @@ Vartojamos formos: `strūnijo ar dailidavo`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Pastabos
 

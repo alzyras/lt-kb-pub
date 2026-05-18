@@ -17,26 +17,5 @@ tags:
 Draugelį, J.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Draugelį, J.'
-  pagrindžia:
-    - c-001
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Draugelį, J.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Dėl tos priežasties keturi kairiųjų
-      pažiūrų nariai (M. Biržiška, S. Kairys, S. Narutavičius ir J.
-      Vileišis) atsiskyrė nuo kitų Tarybos narių, kurie jų vieton koop-
-      tavo šešis naujus narius (dr. J. Alekną, E. Draugelį, J. Purickį,
-      A. Voldemarą ir M. Yčą, — kurie tuomet buvo sugrįžę iš Ru-
-      sijos).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001

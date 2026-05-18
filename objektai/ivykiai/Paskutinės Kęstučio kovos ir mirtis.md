@@ -36,10 +36,14 @@ Nenurodyta
   teiginys: 'Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kalėjime; Kęstutį netrukus išvežė į Krėvos pilį, o Vytautą paliko Vilniuje.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Kęstučio lavonas iš Krėvos buvo atvežtas į Vilnių ir iškilmingai palaidotas.'
+  teiginys: 'Kęstučio lavonas buvo atvežtas iš Krėvos į Vilnių, iškilmingai palaidotas ir sudegintas ant laužo su jo mėgtais daiktais.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -58,25 +62,25 @@ Nenurodyta
     paleista, o jie patys buvo uždaryti kalėjime; Kęstutį netrukus
     išvežė į Krėvos pilį, o Vytautą paliko Vilniuje. Krėvoje iška-
     lėjęs 5 dienas, Kęstutis buvo nužudytas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Kęstučio lavonas iš Krėvos buvo atvežtas į Vilnių ir iškilmingai palaidotas.'
+  santrauka: 'Kęstučio lavonas buvo atvežtas iš Krėvos į Vilnių, iškilmingai palaidotas ir sudegintas ant laužo su jo mėgtais daiktais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kęstučio lavonas iš Krėvos buvo atvežtas į Vilnių ir iškil-
     mingai palaidotas. Jis buvo sudegintas ant laužo su visais Kęstu-
     čio mėgtaisiais daiktais, ginklais ir gyvuliais: sakalais, šunimis ir
     arkliais. Visuomenei buvo paskelbta, kad jis pats nusižudęs.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

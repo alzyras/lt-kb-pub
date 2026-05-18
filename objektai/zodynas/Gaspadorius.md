@@ -18,13 +18,13 @@ Pagrindinė forma: `gaspadorius`.
 Papildomos aiškios formos neišskirtos.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Gaspadorius` šiame tekste reiškia ūkio šeimininką ar namų vadovą.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Gaspadorius gali raginti ir organizuoti ūkio darbus.'
   pagrindžia:
     - c-001
@@ -33,7 +33,7 @@ Papildomos aiškios formos neišskirtos.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Gaspadorius` šiame tekste reiškia ūkio šeimininką ar namų vadovą
+  santrauka: '`Gaspadorius` šiame tekste reiškia ūkio šeimininką ar namų vadovą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Gaspadorius subatos vakarą, norėdamas pievos kertę nubengti, stiprina savo
@@ -42,12 +42,12 @@ Papildomos aiškios formos neišskirtos.
     noris pusnakty
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Pastabos
 

@@ -23,14 +23,14 @@ Pagrindinė forma: `žiuponai`.
 Vartojamos formos: `žiuponais`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Žiuponai` šiame tekste reiškia vietinius ponus ar valdovus.'
   pagrindžia:
     - c-001
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Žodis siejamas su Žemaičių krašto politine sandara ankstyvaisiais viduramžiais.'
   pagrindžia:
     - c-001
@@ -39,7 +39,7 @@ Vartojamos formos: `žiuponais`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Žiuponai` šiame tekste reiškia vietinius ponus ar valdovus
+  santrauka: '`Žiuponai` šiame tekste reiškia vietinius ponus ar valdovus.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Prašaleičiai, nepermanydami lietuvių kalbos, vadino tuos sau ponus žiuponais^1026 ,
@@ -53,10 +53,10 @@ Vartojamos formos: `žiuponais`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 - c-002
-  santrauka: `Žiuponai` šiame tekste reiškia vietinius ponus ar valdovus
+  santrauka: '`Žiuponai` šiame tekste reiškia vietinius ponus ar valdovus.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Kitas raštininkas sako: „Tie sau ponai, turėdami ne tiktai vieną sodą^1029 , bet vieną patį
@@ -67,7 +67,7 @@ Vartojamos formos: `žiuponais`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 
 ## Pastabos
 

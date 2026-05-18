@@ -19,13 +19,13 @@ Objektų skaičius: 111.
 ## Susiję objektai
 
 ### Asmenys
-- [[objektai/asmenys/A. Smetona]]
+- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/asmenys/Bernardas Berensonas]]
 - [[objektai/asmenys/Chaim Soutin]]
 - [[objektai/asmenys/Czesław Miłosz]]
 - [[objektai/asmenys/Donatas Katkus]]
 - [[objektai/asmenys/Gintaras Rinkevičius]]
-- [[objektai/asmenys/Ignotas Masalskis]]
+- [[objektai/asmenys/Ignotas Masalskis|Ignotas Masalskis (vyskupas, XVIII–XIX a.)]]
 - [[objektai/asmenys/Jacques Lipchitz]]
 - [[objektai/asmenys/Jascha Heifetz]]
 - [[objektai/asmenys/Jonas Mačiulis-Maironis]]
@@ -33,7 +33,7 @@ Objektų skaičius: 111.
 - [[objektai/asmenys/Jurgis Mačiūnas]]
 - [[objektai/asmenys/Kristijonas Gotlibas Milkus]]
 - [[objektai/asmenys/M. E. Andriolli]]
-- [[objektai/asmenys/Martynas Knakfusas]]
+- [[objektai/asmenys/Martynas Knakfusas|Martynas Knakfusas (vyskupas, XVIII–XIX a.)]]
 - [[objektai/asmenys/Mikalojus Akelaitis]]
 - [[objektai/asmenys/Petras Repšys]]
 - [[objektai/asmenys/Saulius Sondeckis]]

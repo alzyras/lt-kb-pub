@@ -61,14 +61,6 @@ Nenurodyta
   teiginys: 'Krikštui sušaukdavo apylinkės žmones į vieną vietą; kad greičiau eitų krikštas, žmones krikštijo būriais.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: '1385–1387 m. Kriavo aktas ir Lietuvos krikštas šiame veikale įvardijami kaip viena iš svarbiųjų Lietuvos istorijos datų.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: '1387 m. lietuvių krikštas Aukštaičių žemėje šiame veikale aptariamas kaip papildomas krikšto aktas Lietuvos krikštijimo istorijoje.'
-  pagrindžia:
-    - c-005
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -108,42 +100,6 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-- c-004
-  santrauka: '1385–1387 m. Kriavo aktas ir Lietuvos krikštas įvardijami kaip kertinė Lietuvos istorijos data.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Gana ilgai, iki pat nepriklausomybės dešimtmečių Lietuvoją
-    ir jos kaimynuose, paprastai buvo laikomasi šių kertinių politiškai
-    Svarbių Lietuvos istorijos datų : 1) 1219-1236 (lietuvių gyvenamų
-    plotų susivienijimas į valstybę), 2) 1385-1387 m. (Kriavo aktas,
-    Lietuvos krikštas), 3) 1569-1572 m. (Liublino unija, Gediminaičių
-    [Jogailaičių ] dinastijos pabaiga), 4) 1795 m. (Lietuvos ir Lenkijos
-    paskutinis padalinimas) ir 5) 1918 m. (nepriklausomybės pradžia).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: '1387 m. Aukštaičių krikštas ir Vilniaus vyskupijos kūrimas čia vadinami papildomais krikšto aktais.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Iš to sektu nuosekli išvada, kad Dlugošo kronikoje smulkiai apra­
-    šytas lietuvių krikštas Aukštaičių žemėje (1387), lygiai kaip ir tuo
-    pat metu Lenkijos karaliaus ir didžiojo Lietuvos kunigaikščio Jogai­
-    los pastoviai sostinėje įsteigtoji vyskupija ir parapijų kūrimas,
-    nebebūtų galėję turėti lemiamo vaidmens Lietuvos krikštijimo
-    istorijoje. Tai bebuvę lenku pagalba įvykdytieji papildomi krikšto
-    aktai^6.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 - c-006
   santrauka: Lietuvos krikštas papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

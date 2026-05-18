@@ -33,23 +33,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Pastarojo nariai (o taip pat ir templininkai) nešiojo baltus apsiaustus su išsiūtu juodu kryžium, todėl mūsų krašte dažniausiai būdavo vadinami kryžiuočiais.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pastarojo nariai (o taip pat ir templininkai) nešiojo baltus apsiaustus su išsiūtu juodu kryžium, todėl mūsų krašte dažniausiai būdavo vadinami kryžiuočiais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pastarojo nariai (o taip pat ir templininkai) nešiojo baltus apsiaustus su išsiūtu
-      juodu kryžium, todėl mūsų krašte dažniausiai būdavo vadinami kry-
-      žiuočiais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta

@@ -30,13 +30,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną.'
+  teiginys: '1683 m. Sobieskis atskubėjo į pagalbą imperatoriui, išgelbėjo Vieną, o turkai buvo išvaryti net iš dalies Vengrijos.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną.'
+  santrauka: '1683 m. Sobieskis atskubėjo į pagalbą imperatoriui, išgelbėjo Vieną, o turkai buvo išvaryti net iš dalies Vengrijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Padarius sąjungą su
@@ -44,11 +46,11 @@ Nenurodyta
     momentu Sobieskis atskubėjo imperatoriui į pagalbą; Viena
     buvo išgelbėta (1683 m.), ir turkai buvo išvaryti net iš dalies
     Vengrijos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

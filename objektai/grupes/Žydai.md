@@ -47,12 +47,6 @@ tags:
 Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo atimamas. Bet Vytautas suprato, kad ekonomiškam Lietuvos kilimui reikalingi ir piniguočiai, kurie reikale teiktų kredito. Todėl atvykusių žydų jis ne tik nespaudė, bet dar jiems davė.
 
 ## Teiginiai
-- t-002
-  teiginys: 'Žydai šiame fragmente rodomi kaip Vilniaus prekybinio gyvenimo dalis, tačiau apribota.'
-  pagrindžia:
-    - c-004
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-004

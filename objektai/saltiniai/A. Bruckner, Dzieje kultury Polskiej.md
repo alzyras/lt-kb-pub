@@ -18,21 +18,25 @@ Bruckner, Dzieje kultury Polskiej, I-III (1930—1931);.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Bruckner, Dzieje kultury Polskiej, I-III (1930—1931);.'
+  teiginys: 'A. Brucknerio „Dzieje kultury Polskiej“ sudarė trys tomai, datuojami 1930–1931 m.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Bruckner, Dzieje kultury Polskiej, I-III (1930—1931);.'
+  santrauka: 'A. Brucknerio „Dzieje kultury Polskiej“ sudarė trys tomai, datuojami 1930–1931 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _A. Bruckner,_ Dzieje kultury
     Polskiej, I-III (1930—1931);
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -36,6 +36,8 @@ Nenurodyta
   teiginys: '1283 m. kryžiuočiai jau buvo įsitvirtinę Nemuno pakrantėje ir pradėjo karą su Lietuvos valstybe.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -46,11 +48,11 @@ Nenurodyta
     tėje ir pradėjo karą su Lietuvos valstybe. Pirmasis jų atsparos
     punktas čia buvo Ragainė. Vėliau jie stūmėsi Nemuno pakrante
     vis gilyn į Lietuvą ir žūt būt stengėsi nukariauti žemaičius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -32,14 +32,14 @@ tags:
 - Pagrindinė forma: caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Ši frazė yra Vytauto atsakymas reikalavimui išduoti Tochtamišą.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Formuluotė pabrėžia Vytauto norą pats susitikti su Timūr-Kutluku.'
+- t-004
+  teiginys: 'Vytautas pareiškė, kad caro Tochtamišo neišduos, o su caru Timūr-Kutluku nori susitikti pats.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -47,9 +47,17 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Vienoje citatoje sujungiami ir atsisakymas išduoti, ir asmeninio susitikimo valia.
+  santrauka: 'Ši frazė yra Vytauto atsakymas reikalavimui išduoti Tochtamišą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Greičiausiai Vytauto
+    iniciatyva per Maskvos didįjį kunigaikštį
+    Vasilijų Konstantinopolio patriarchas ra-
+    gino Kijevo metropolitą Kiprijoną kviesti
+    tikinčiuosius į karą prieš totorius.
+    Besirengdamas žygiui į Sarajų, Aukso
+    ordos chanas Timūr-Kutlukas atsiuntė savo
+    pasiuntinius pas lietuvių didįjį kunigaikštį
     Vytautą, kad išduotų jam pabėgusį „carą“
     Tochtamišą, jo priešą. O Vytautas atsakęs:
     „caro Tochtamišo neišduosiu, o su caru
@@ -60,5 +68,5 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004

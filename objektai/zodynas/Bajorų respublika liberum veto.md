@@ -27,7 +27,7 @@ Visuomenės agrarinis pobūdis ir miestų silpnumas lėmė, kad Lenkijoje ir Lie
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Kadangi atstovai rinkdavo valdovą, valstybės santvarka galėjo atrodyti nebe monarchija, o respublika.'
+  teiginys: 'Bajorų respublikoje valdovą rinkę atstovai sudarė įspūdį, kad valstybės santvarka buvo respublika, o ne monarchija.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -54,7 +54,7 @@ Visuomenės agrarinis pobūdis ir miestų silpnumas lėmė, kad Lenkijoje ir Lie
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Kadangi atstovai rinkdavo valdovą, valstybės santvarka galėjo atrodyti nebe monarchija, o respublika.'
+  santrauka: 'Bajorų respublikoje valdovą rinkę atstovai sudarė įspūdį, kad valstybės santvarka buvo respublika, o ne monarchija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kadangi šie atstovai rinkdavo net valdovą,

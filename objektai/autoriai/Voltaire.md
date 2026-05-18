@@ -18,22 +18,24 @@ Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D'Ale
 
 ## Teiginiai
 - t-001
-  teiginys: 'Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D''Alembert († 1783 m.), Diderot († 1784 m.) ir eilė kitų autorių pasidarė epochos dievaičiais.'
+  teiginys: 'Voltaire kartu su Montesquieu, Rousseau, D''Alembert ir Diderot buvo laikomas vienu iš epochos autoritetų.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D''Alembert († 1783 m.), Diderot († 1784 m.) ir eilė kitų autorių pasidarė epochos dievaičiais.'
+  santrauka: 'Voltaire kartu su Montesquieu, Rousseau, D''Alembert ir Diderot buvo laikomas vienu iš epochos autoritetų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _Montesquieu_ († 1755 m.),
     _Rousseau_ († 1778 m.), _Voltaire_ († 1778 m.), _D'Alembert_ († 1783 m.),
     _Diderot_ († 1784 m.) ir eilė kitų autorių pasidarė epochos dievaičiais.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -20,13 +20,15 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra ir didingi vyskupų rūmai Verkiuose (dabar jų jau nebėra).'
+  teiginys: 'Plačios Vilniaus vyskupijos parapijose buvo įsteigtos pradžios mokyklos.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra ir didingi vyskupų rūmai Verkiuose (dabar jų jau nebėra).'
+  santrauka: 'Plačios Vilniaus vyskupijos parapijose buvo įsteigtos pradžios mokyklos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet iš kitos pusės,
@@ -45,10 +47,10 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
     įsakė visiems savo kunigams
     steigti mokyklas, o vėliau per
     dekanus jas prižiūrėjo).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

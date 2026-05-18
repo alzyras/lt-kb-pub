@@ -32,13 +32,13 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vytauto politikoje svarbiausios buvo socialinės permainos, kuriant žemvaldžių riterių sluoksnį.'
+  teiginys: 'Vytauto politikoje svarbiausia socialinė permaina buvo žemvaldžių riterių sluoksnio kūrimas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Vytauto politikoje svarbiausios buvo socialinės permainos, kuriant žemvaldžių riterių sluoksnį.'
+  teiginys: 'Vytauto politikoje svarbiausia socialinė permaina buvo žemvaldžių riterių sluoksnio kūrimas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -46,7 +46,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vytauto politikoje svarbiausios buvo socialinės permainos, kuriant žemvaldžių riterių sluoksnį.'
+  santrauka: 'Vytauto politikoje svarbiausia socialinė permaina buvo žemvaldžių riterių sluoksnio kūrimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš-

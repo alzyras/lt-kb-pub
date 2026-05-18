@@ -21,7 +21,7 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos interesai laikyti labiau pasvirusiais į Vakarus, tai yra Vokietiją, negu į Rytus ar Pietus.'
+  teiginys: 'Lietuvos interesai buvo apibūdinti kaip labiau krypstantys į Vakarus, tai yra Vokietiją, negu į Rusiją ar Lenkiją.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -29,7 +29,7 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvos interesai laikyti labiau pasvirusiais į Vakarus, tai yra Vokietiją, negu į Rytus ar Pietus.'
+  santrauka: 'Lietuvos interesai buvo apibūdinti kaip labiau krypstantys į Vakarus, tai yra Vokietiją, negu į Rusiją ar Lenkiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jeigu Vokietija sutiktų pripažinti Lietuvos valstybę prieš Taikos konfe-

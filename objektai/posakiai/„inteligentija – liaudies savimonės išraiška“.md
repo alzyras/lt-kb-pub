@@ -19,7 +19,7 @@ LKP vadovybei Aleksandras Jakovlevas pabrėžė, kad „inteligentija – liaudi
 
 ## Teiginiai
 - t-001
-  teiginys: 'Po Aleksandro Jakovlevo teiginio LKP vadovybei, kad „inteligentija – liaudies savimonės išraiška“, partija nebedraudė komunistams dalyvauti LPS rėmimo grupėse.'
+  teiginys: 'Aleksandrui Jakovlevui LKP vadovybei pabrėžus, kad „inteligentija – liaudies savimonės išraiška“, partija nebedraudė komunistams dalyvauti LPS rėmimo grupėse.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ LKP vadovybei Aleksandras Jakovlevas pabrėžė, kad „inteligentija – liaudi
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Po Aleksandro Jakovlevo teiginio LKP vadovybei, kad „inteligentija – liaudies savimonės išraiška“, partija nebedraudė komunistams dalyvauti LPS rėmimo grupėse.'
+  santrauka: 'Aleksandrui Jakovlevui LKP vadovybei pabrėžus, kad „inteligentija – liaudies savimonės išraiška“, partija nebedraudė komunistams dalyvauti LPS rėmimo grupėse.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LKP vadovybei Aleksan-

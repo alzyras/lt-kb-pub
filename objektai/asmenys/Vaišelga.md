@@ -1,9 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Vaišelga'
+pavadinimas: 'Vaišelga (kunigaikštis)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Vaišelga'
+aliases:
+  - 'Vaišelga'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - tikėjimas
   - valdovas
 ---
-# Vaišelga
+# Vaišelga (kunigaikštis)
 
 ## Santrauka
 

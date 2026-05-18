@@ -18,13 +18,15 @@ Bet didžiausias darbas, atliktas šioje srityje, buvo iškastas 71 / 2 mylių i
 
 ## Teiginiai
 - t-001
-  teiginys: 'Bet didžiausias darbas, atliktas šioje srityje, buvo iškastas 71 / 2 mylių ilgumo kanalas, kuris jungia Ščarą su Jaselda.'
+  teiginys: 'Jaseldą su Ščara sujungė 7,5 mylios ilgio kanalas, leidęs vandens keliu sujungti Nemuną su Dniepru.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Bet didžiausias darbas, atliktas šioje srityje, buvo iškastas 71 / 2 mylių ilgumo kanalas, kuris jungia Ščarą su Jaselda.'
+  santrauka: 'Jaseldą su Ščara sujungė 7,5 mylios ilgio kanalas, leidęs vandens keliu sujungti Nemuną su Dniepru.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo pat metu daug dėmesio buvo kreipiama ir į vandens
@@ -36,11 +38,11 @@ Bet didžiausias darbas, atliktas šioje srityje, buvo iškastas 71 / 2 mylių i
     apie 12 milijonų auksinų. Jį iškasė savo lėšomis hetmonas
     Oginskis (todėl jis ir šiandien dar tebevadinamas Oginskio
     kanalu).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

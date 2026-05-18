@@ -43,7 +43,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Jaunuomenė pavasariais gaminosi ir naudojo vamzdžius iš karklų ar blendies, o piemenėliai turėjo molio pypynes.'
   pagrindžia:
     - c-001
@@ -52,7 +52,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Jaunuomenė pavasariais gaminosi ir naudojo vamzdžius iš karklų ar blendies, o piemenėliai turėjo molio pypynes.
+  santrauka: 'Jaunuomenė pavasariais gaminosi ir naudojo vamzdžius iš karklų ar blendies, o piemenėliai turėjo molio pypynes.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Taip pat vamzdžiais vamzdijo jaunuomenė, iš mauknos^559 karklų
@@ -64,7 +64,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Pastabos
 

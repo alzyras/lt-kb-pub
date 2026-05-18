@@ -35,63 +35,22 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Magistras nusiuntė Vytautui ir Jogailai du plikus kardus, ragindamas nesislapstyti krūmuose.'
+- t-005
+  teiginys: 'Du nuogus kardus nešę pasiuntiniai buvo du riteriai su Vengrijos ir Štetino kunigaikštystės ženklais.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Ulrichas von Jungingenas Jogailai ir Vytautui pasiuntė po vieną nuogą kalaviją.'
-  pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-
-- t-003
-  teiginys: 'Pasiuntiniai, nešę du kardus, buvo du riteriai su Vengrijos ir Štetino kunigaikštystės ženklais.'
-  pagrindžia:
-    - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-004
+- t-006
   teiginys: 'Ordino magistras prašė tuos du kardus priimti kaip pagalbą būsimam susirėmimui atvirame lauke.'
   pagrindžia:
-    - c-004
+    - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Magistras nusiuntė Vytautui ir Jogailai du plikus kardus, ragindamas nesislapstyti krūmuose.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Magistras nusiuntė Vytautui ir
-    Jogailai du plikus kardus, ragindamas nesislapstyti krūmuose.
-    bet greičiau pradėti mūšį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Jungingenas pasiuntė po nuogą kalaviją ir siūlė pradėti mūšį.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Nesulauk­
-    damas tačiau priešo atakos, Jungingenas atsiuntė Jogailai ir Vy­
-    tautui po nuogą kalaviją, siūlydamas « nesislapstyti krūmuose » ir
-    tuoj pradėti muši »^22.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: Kardus atnešė du konkrečiais ženklais pažymėti riteriai.
+  santrauka: 'Du nuogus kardus nešę pasiuntiniai buvo du riteriai su Vengrijos ir Štetino kunigaikštystės ženklais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Įėjo Vengrijos
@@ -104,9 +63,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: Du kardai įvardijami kaip simbolinė pagalba būsimam mūšiui.
+    - t-005
+- c-002
+  santrauka: 'Ordino magistras prašė tuos du kardus priimti kaip pagalbą būsimam susirėmimui atvirame lauke.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ordino
@@ -119,7 +78,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

@@ -18,39 +18,43 @@ Mat, lig šiol savų parapijinių mokyklų teturi vos pusė lietuviškųjų para
 
 ## Teiginiai
 - t-001
-  teiginys: 'Mat, lig šiol savų parapijinių mokyklų teturi vos pusė lietuviškųjų parapijų.'
+  teiginys: 'Savų parapijinių mokyklų turėjo vos pusė lietuviškųjų parapijų.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Lietuvių mokyklų 1919 m. Amerikoje buvo apie 30, o dabar jų yra 72; jų daugumą išlaiko parapijos (iš viso čia lietuvių mokyklose mokosi apie 12.000 mokinių).'
+  teiginys: 'Amerikoje lietuvių mokyklų skaičius nuo apie 30 mokyklų 1919 m. išaugo iki 72, o daugumą jų išlaikė parapijos.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Mat, lig šiol savų parapijinių mokyklų teturi vos pusė lietuviškųjų parapijų.'
+  santrauka: 'Savų parapijinių mokyklų turėjo vos pusė lietuviškųjų parapijų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Mat, lig šiol savų
     parapijinių mokyklų teturi vos pusė lietuviškųjų parapijų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Lietuvių mokyklų 1919 m. Amerikoje buvo apie 30, o dabar jų yra 72; jų daugumą išlaiko parapijos (iš viso čia lietuvių mokyklose mokosi apie 12.000 mokinių).'
+  santrauka: 'Amerikoje lietuvių mokyklų skaičius nuo apie 30 mokyklų 1919 m. išaugo iki 72, o daugumą jų išlaikė parapijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvių mokyklų 1919 m. Amerikoje buvo apie 30, o dabar
     jų yra 72; jų daugumą išlaiko parapijos (iš viso čia lietuvių
     mokyklose mokosi apie 12.000 mokinių).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

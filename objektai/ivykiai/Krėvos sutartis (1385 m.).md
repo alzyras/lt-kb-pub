@@ -51,7 +51,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Tokią Lietuvai nepalankią sutartį vertė sudaryti ypač įnirtingi vokiečių puolimai.'
+  teiginys: 'Krėvos sutartį skatino ypač įnirtingi vokiečių puolimai ir silpstančios Lietuvos poreikis turėti lenkus sąjungininkais.'
   pagrindžia:
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -101,7 +101,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Tokią Lietuvai nepalankią sutartį vertė sudaryti ypač įnirtingi vokiečių puolimai.'
+  santrauka: 'Krėvos sutartį skatino ypač įnirtingi vokiečių puolimai ir silpstančios Lietuvos poreikis turėti lenkus sąjungininkais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tokią Lietuvai nepalankią sutartį vertė sudaryti ypač įnirtingi vokie-

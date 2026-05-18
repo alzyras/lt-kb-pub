@@ -35,23 +35,25 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Bet to meto bajorija ir didikai buvo įpratę visur, kur tik prikišdavo savo pirštus, pasipelnyti.'
+  teiginys: 'To meto bajorija ir didikai buvo įpratę pasipelnyti iš viešųjų reikalų, prie kurių prisidėdavo.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Bet to meto bajorija ir didikai buvo įpratę visur, kur tik prikišdavo savo pirštus, pasipelnyti.'
+  santrauka: 'To meto bajorija ir didikai buvo įpratę pasipelnyti iš viešųjų reikalų, prie kurių prisidėdavo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet to meto bajorija
     ir didikai buvo įpratę visur, kur tik prikišdavo savo pirštus, pasipel-
     nyti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

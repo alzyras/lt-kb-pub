@@ -29,29 +29,11 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. parašė kaizeriui peticiją ir surinko po ja net 16.400 parašų.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. parašė kaizeriui peticiją ir surinko po ja net 16.400 parašų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. parašė kaizeriui peticiją
-    ir surinko po ja net 16.400 parašų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
-
-### Susiję objektai
-- [[objektai/zodynas/peticija]]

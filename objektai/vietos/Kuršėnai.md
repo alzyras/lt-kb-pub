@@ -18,13 +18,15 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia tarp jų nesantarvė: vieni kitiems prikaišiojo, kiekvienas norėjo vadovauti, bet nieko neveikė, tiktai paradavo ir puotavo.'
+  teiginys: 'Kuršėnuose įvyko paskutinis vadų pasitarimas, kuriame išryškėjo didelė jų nesantarvė.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia tarp jų nesantarvė: vieni kitiems prikaišiojo, kiekvienas norėjo vadovauti, bet nieko neveikė, tiktai paradavo ir puotavo.'
+  santrauka: 'Kuršėnuose įvyko paskutinis vadų pasitarimas, kuriame išryškėjo didelė jų nesantarvė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tada Kuršėnuose
@@ -34,10 +36,10 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
     vė: vieni kitiems prikai-
     šiojo, kiekvienas norėjo
     vadovauti, bet nieko neveikė, tiktai paradavo ir puotavo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

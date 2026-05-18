@@ -43,7 +43,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Kareiviui į kapą dėjo seidoką arba svilksnį kaip vieną iš įkapių.'
   pagrindžia:
     - c-001
@@ -52,7 +52,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Kareiviui į kapą dėjo seidoką arba svilksnį kaip vieną iš įkapių.
+  santrauka: 'Kareiviui į kapą dėjo seidoką arba svilksnį kaip vieną iš įkapių.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     mirusiam jo įrankį šalip padėję: ir taip, kareiviui vylyčias, kardą, seidoką^696 ar svilksnį^697
@@ -60,11 +60,11 @@ Nenurodyta
     patį darbą reiks atlikti, kurį ant svieto dirbo.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Pastabos
 

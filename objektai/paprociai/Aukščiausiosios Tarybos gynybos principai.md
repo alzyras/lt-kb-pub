@@ -41,28 +41,28 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: 'Lietuvos vadovybė sovietų agresijos akistatoje siekė fiksuoti karinės agresijos faktą ir užtikrinti politinį šalies atstovavimą.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-005
   teiginys: 'Parlamento gynyba buvo grindžiama trimis principais: agresijos fiksavimu ir informacijos sklaida, gynyba kariniais metodais bei pilietinio nesmurtinio pasipriešinimo organizavimu.'
   pagrindžia:
-    - c-002
+    - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
+- t-006
   teiginys: 'Gynėjai išsikėlė nerašytą misiją priešintis bet kokiu atveju ir nepakartoti 1940 m. klaidos.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Lietuvos vadovybė sovietų agresijos akistatoje siekė fiksuoti karinės agresijos faktą ir užtikrinti politinį šalies atstovavimą.
+  santrauka: 'Lietuvos vadovybė sovietų agresijos akistatoje siekė fiksuoti karinės agresijos faktą ir užtikrinti politinį šalies atstovavimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Atkurtos Lietuvos valstybės vadovybė so-
@@ -77,32 +77,16 @@ Nenurodyta
     kiek įmanoma platesniu mastu. Sovietams
     užėmus valstybinius objektus, užtikrinti
     politinį šalies atstovavimą bei organizuoti
-    įvairiapusišką pasipriešinimą okupantams
+    įvairiapusišką pasipriešinimą okupantams.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-002
-  santrauka: Parlamento gynyba buvo grindžiama trimis principais: agresijos fiksavimu ir informacijos sklaida, gynyba kariniais metodais bei pilietinio nesmurtinio pasipriešinimo organizavimu.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Galima išskirti tris principus: 1) sovietų
-    agresijos fiksavimas ir informacijos sklaida
-    Lietuvoje bei užsienyje, 2) gynyba kariniais
-    metodais, 3) pilietinio, nesmurtinio pasi-
-    priešinimo organizavimas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: Gynėjai išsikėlė nerašytą misiją priešintis bet kokiu atveju ir nepakartoti 1940 m. klaidos.
+  santrauka: 'Gynėjai išsikėlė nerašytą misiją priešintis bet kokiu atveju ir nepakartoti 1940 m. klaidos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pirmomis sausio įvykių dienomis tik
@@ -125,8 +109,26 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-006
+- c-003
+  santrauka: 'Parlamento gynyba buvo grindžiama trimis principais: agresijos fiksavimu ir informacijos sklaida, gynyba kariniais metodais bei pilietinio nesmurtinio pasipriešinimo organizavimu.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Parlamento gynybos principai
+    Galima išskirti tris principus: 1) sovietų
+    agresijos fiksavimas ir informacijos sklaida
+    Lietuvoje bei užsienyje, 2) gynyba kariniais
+    metodais, 3) pilietinio, nesmurtinio pasi-
+    priešinimo organizavimas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]
+- [[objektai/posakiai/Nepakartoti 1940 m. klaidos!]]

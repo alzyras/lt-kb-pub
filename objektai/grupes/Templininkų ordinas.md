@@ -19,21 +19,23 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 
 ## Teiginiai
 - t-001
-  teiginys: 'Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o trečiojo kryžiaus žygio metu vokiečiai įkūrė savo Marijos Mergelės ordiną (1190 m.).'
+  teiginys: 'Templininkų ordinas buvo prancūzų ordinas, minimas šalia italų joanitų ir vokiečių Marijos Mergelės ordino.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o trečiojo kryžiaus žygio metu vokiečiai įkūrė savo Marijos Mergelės ordiną (1190 m.).'
+  santrauka: 'Templininkų ordinas buvo prancūzų ordinas, minimas šalia italų joanitų ir vokiečių Marijos Mergelės ordino.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o trečiojo kryžiaus žygio metu vokiečiai įkūrė savo Marijos Mergelės ordiną (1190 m.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -41,7 +41,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Po poros metų blaivybės brolijoms priklausė daugiau kaip 80 proc. vyskupijos gyventojų katalikų.'
+  teiginys: 'Po poros metų blaivybės brolijų nariais buvo per 80 proc. vyskupijos gyventojų katalikų.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -64,7 +64,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Po poros metų blaivybės brolijoms priklausė daugiau kaip 80 proc. vyskupijos gyventojų katalikų.'
+  santrauka: 'Po poros metų blaivybės brolijų nariais buvo per 80 proc. vyskupijos gyventojų katalikų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po poros metų šių blaivybės

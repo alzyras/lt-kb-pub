@@ -21,7 +21,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '1922 m. sausį jie surengė rinkimus Vilniaus krašte – Vidurinėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei karo, nei taikos“ situacijoje.'
+  teiginys: '1922 m. sausį po rinkimų Vilniaus krašte–Vidurinėje Lietuvoje Lietuva liko „nei karo, nei taikos“ situacijoje.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -29,7 +29,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1922 m. sausį jie surengė rinkimus Vilniaus krašte – Vidurinėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei karo, nei taikos“ situacijoje.'
+  santrauka: '1922 m. sausį po rinkimų Vilniaus krašte–Vidurinėje Lietuvoje Lietuva liko „nei karo, nei taikos“ situacijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1922 m. sausį jie surengė rinkimus Vilniaus krašte – Viduri-

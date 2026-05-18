@@ -1,11 +1,13 @@
 ---
 tipas: asmuo
-pavadinimas: 'Mikalojus Konstantinas Čiurlionis'
+pavadinimas: 'Mikalojus Konstantinas Čiurlionis (dailininkas)'
 sukurta: '2026-05-14'
 variantai:
   - 'M. K. Čiurlionis'
   - 'M. K. Čiurlionio'
-aliases: []
+  - 'Mikalojus Konstantinas Čiurlionis'
+aliases:
+  - 'Mikalojus Konstantinas Čiurlionis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 bukle: juodrastis
@@ -26,32 +28,32 @@ susije_irasai: []
 patikimumas: aukštas
 tags: []
 ---
-# Mikalojus Konstantinas Čiurlionis
+# Mikalojus Konstantinas Čiurlionis (dailininkas)
 
 ## Santrauka
 
 Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kompozitorius, studijavęs Varšuvoje bei Leipcige ir tautinio apsisprendimo kontekste pasirinkęs lietuvius.
 
 ## Teiginiai
-- t-007
+- t-011
   teiginys: 'M. K. Čiurlionis apibūdinamas kaip didžiausias Lietuvos menininkas, dailininkas ir kompozitorius Lietuvos Respublikos ištakų kontekste.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-008
+- t-012
   teiginys: 'Mikalojus Konstantinas Čiurlionis studijavo muziką ir dailę Varšuvoje bei Leipcige.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-009
-  teiginys: 'Atšilimo laikotarpiu buvo spausdinami M. K. Čiurlionio kūrybos albumai.'
+- t-013
+  teiginys: 'Po Stalino mirties, atšilimo laikotarpiu, buvo spausdinami Mikalojaus Konstantino Čiurlionio kūrybos albumai.'
   pagrindžia:
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-010
+- t-014
   teiginys: 'Mikalojus Konstantinas Čiurlionis buvo kilęs iš etniškai lietuviškos aplinkos, bet iki to laikotarpio lietuviškai gerai nemokėjo.'
   pagrindžia:
     - c-003
@@ -75,7 +77,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
+    - t-011
 - c-002
   santrauka: 'Mikalojus Konstantinas Čiurlionis studijavo muziką ir dailę Varšuvoje bei Leipcige.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -90,7 +92,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-008
+    - t-012
 - c-003
   santrauka: 'Mikalojus Konstantinas Čiurlionis buvo kilęs iš etniškai lietuviškos aplinkos, bet iki to laikotarpio lietuviškai gerai nemokėjo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -103,9 +105,9 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-010
+    - t-014
 - c-004
-  santrauka: 'Atšilimo laikotarpiu buvo spausdinami M. K. Čiurlionio kūrybos albumai.'
+  santrauka: 'Po Stalino mirties, atšilimo laikotarpiu, buvo spausdinami Mikalojaus Konstantino Čiurlionio kūrybos albumai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po J. Stalino mirties, „atšilimo“ laikotarpiu, kultūriniame gyvenime
@@ -121,7 +123,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-009
+    - t-013
 
 ## Ryšiai
 ### Laikotarpiai

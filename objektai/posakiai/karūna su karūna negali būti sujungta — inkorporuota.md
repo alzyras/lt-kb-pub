@@ -46,7 +46,7 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Politinė sentencija siejama su Lietuvos karalijos projekto ir unijos santykiu.
+  santrauka: 'Formulė vartojama kaip argumentas prieš Lietuvos inkorporavimą į kitą karūną.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tas
@@ -56,7 +56,7 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
     nebegalėję būti, nes karūna su karūna negali bū­
     ti sujungta — inkorporuota^3 ).
   citata_rodoma: ""
-  teiginio_tipas: interpretacija
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""

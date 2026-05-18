@@ -19,21 +19,23 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
 
 ## Teiginiai
 - t-001
-  teiginys: 'Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurios žemaičiai taip pat neįstengė išgriauti.'
+  teiginys: '1259 m. Nemuno pakrantėje buvo pastatyta Jurbarko pilis, kurios žemaičiai neįstengė išgriauti.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurios žemaičiai taip pat neįstengė išgriauti.'
+  santrauka: '1259 m. Nemuno pakrantėje buvo pastatyta Jurbarko pilis, kurios žemaičiai neįstengė išgriauti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259
     m.), kurios žemaičiai taip pat neįstengė išgriauti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -31,24 +31,10 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Rusų valdžia dar prieš sukilimą gabesniuosius žmones buvo ištrėmusi, ir visam krašte neatsirado tinkamo vadovauti žmogaus.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Rusų valdžia dar prieš sukilimą gabesniuosius žmones buvo ištrėmusi, ir visam krašte neatsirado tinkamo vadovauti žmogaus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Rusų valdžia dar prieš sukilimą gabesniuosius žmones buvo ištrėmusi, ir visam krašte neatsirado tinkamo vadovauti žmogaus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Ryšiai
 ### Laikotarpiai

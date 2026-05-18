@@ -32,8 +32,8 @@ tags:
 - Pagrindinė forma: Širvintų stebuklas
 
 ## Teiginiai
-- t-001
-  teiginys: 'Ši formuluotė yra visuomenėje prigijęs Širvintų pergalės vardas.'
+- t-002
+  teiginys: 'Širvintų pergalė visuomenėje buvo praminta „Širvintų stebuklu“.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -41,16 +41,19 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata tiesiogiai nurodo, kad pergalė buvo praminta „Širvintų stebuklu“.
+  santrauka: 'Širvintų pergalė visuomenėje buvo praminta „Širvintų stebuklu“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     visuomenei ir buvo pramintas „Širvintų ste-
     buklu“. Ši pergalė leido lietuviams perimti
-    iniciatyvą.
+    iniciatyvą. Jei lenkams būtų pavykę sėkmin-
+    gai įvykdyti suplanuotą puolimą ir priar-
+    tėti prie Kauno, būtų iškilęs didelis pavojus
+    Lietuvos valstybingumui.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

@@ -31,43 +31,47 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tik kai apie 1652 m. hetmonas Jonušas Radvila Kėdainiuose įkūrė specialią lietuviškoms knygoms spaustuvę, čia buvo išspausdinta maldaknygių, giesmių rinkinys, katekizmas ir nauja postilė.'
+  teiginys: 'Apie 1652 m. Jonušas Radvila Kėdainiuose įkūrė lietuviškoms knygoms skirtą spaustuvę.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Netrukus Maskvos ir Švedų karai sunaikino visą kėdainiškių Radvilų galybę, ir nebebuvo kas įtaisytų spaustuvę.'
+  teiginys: 'Kėdainių lietuviškų knygų spaustuvė veikė vos porą metų ir greičiausiai sudegė 1654 m.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tik kai apie 1652 m. hetmonas Jonušas Radvila Kėdainiuose įkūrė specialią lietuviškoms knygoms spaustuvę, čia buvo išspausdinta maldaknygių, giesmių rinkinys, katekizmas ir nauja postilė.'
+  santrauka: 'Apie 1652 m. Jonušas Radvila Kėdainiuose įkūrė lietuviškoms knygoms skirtą spaustuvę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tik kai apie 1652 m. hetmonas
     Jonušas Radvila Kėdainiuose įkūrė specialią lietuviškoms
     knygoms spaustuvę, čia buvo išspausdinta maldaknygių,
     giesmių rinkinys, katekizmas ir nauja postilė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Netrukus Maskvos ir Švedų karai sunaikino visą kėdainiškių Radvilų galybę, ir nebebuvo kas įtaisytų spaustuvę.'
+  santrauka: 'Kėdainių lietuviškų knygų spaustuvė veikė vos porą metų ir greičiausiai sudegė 1654 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Spaustuvė te-
     veikė vos porą metų: greičiausiai, ji sudegė (1654 m.). Netrukus
     Maskvos ir Švedų karai sunaikino visą kėdainiškių Radvilų
     galybę, ir nebebuvo kas įtaisytų spaustuvę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

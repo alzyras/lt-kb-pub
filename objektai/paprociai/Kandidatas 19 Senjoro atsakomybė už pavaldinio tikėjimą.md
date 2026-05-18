@@ -60,5 +60,4 @@ Nenurodyta
 - [[temos/tikėjimas]]
 
 ### Susiję objektai
-- [[objektai/paprociai/Kandidatas 18 Krikščioniškų laidojimo apeigų įsigalėjimas po Lietuvos krikšto]]
 - [[objektai/paprociai/Kandidatas Senjoro atsakomybė už pavaldinio tikėjimą]]

@@ -20,41 +20,45 @@ Draugija savo statuto . 1 įsirašė šitokį darbo tikslą: „Surinkti ir išs
 
 ## Teiginiai
 - t-001
-  teiginys: 'Draugija savo statuto . 1 įsirašė šitokį darbo tikslą: „Surinkti ir išsaugoti mokslui visus kalbos, istorijos, tautosakos ir panašius duomenis, liečiančius Lietuvą ir lietuvius".'
+  teiginys: 'Draugija statuto 1 paragrafe įrašė tikslą surinkti ir išsaugoti mokslui duomenis apie Lietuvos ir lietuvių kalbą, istoriją bei tautosaką.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Taigi ji nesirūpino kelti lietuvybės, o vien tik rinkti ir saugoti mokslo reikalui lietuviškosios kultūros palaikus.'
+  teiginys: 'Draugija nesirūpino kelti lietuvybės, o rinko ir saugojo mokslo reikalams lietuviškosios kultūros palaikus.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Draugija savo statuto . 1 įsirašė šitokį darbo tikslą: „Surinkti ir išsaugoti mokslui visus kalbos, istorijos, tautosakos ir panašius duomenis, liečiančius Lietuvą ir lietuvius".'
+  santrauka: 'Draugija statuto 1 paragrafe įrašė tikslą surinkti ir išsaugoti mokslui duomenis apie Lietuvos ir lietuvių kalbą, istoriją bei tautosaką.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Draugija savo sta-
     tuto § 1 įsirašė šitokį darbo tikslą: „Surinkti ir išsaugo-
     ti mokslui visus kalbos, istorijos, tautosakos ir panašius
     duomenis, liečiančius Lietuvą ir lietuvius".
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Taigi ji nesirūpino kelti lietuvybės, o vien tik rinkti ir saugoti mokslo reikalui lietuviškosios kultūros palaikus.'
+  santrauka: 'Draugija nesirūpino kelti lietuvybės, o rinko ir saugojo mokslo reikalams lietuviškosios kultūros palaikus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taigi ji nesirūpino
     kelti lietuvybės, o vien tik rinkti ir saugoti mokslo reikalui lie-
     tuviškosios kultūros palaikus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

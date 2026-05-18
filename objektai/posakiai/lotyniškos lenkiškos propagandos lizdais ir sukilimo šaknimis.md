@@ -19,21 +19,23 @@ Nebuvo aplenkti nė vienuolynai: juos paskelbė „lotyniškos lenkiškos propag
 
 ## Teiginiai
 - t-001
-  teiginys: 'Nebuvo aplenkti nė vienuolynai: juos paskelbė „lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis".'
+  teiginys: 'Vienuolynai buvo paskelbti „lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis“.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Nebuvo aplenkti nė vienuolynai: juos paskelbė „lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis".'
+  santrauka: 'Vienuolynai buvo paskelbti „lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nebuvo aplenkti nė vienuolynai: juos paskelbė „lo-
     tyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis".
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

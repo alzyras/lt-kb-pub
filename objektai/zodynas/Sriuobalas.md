@@ -21,13 +21,13 @@ Pagrindinė forma: `sriuobalas`.
 Vartojamos formos: `sriuobalą`, `sriuobalu`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Sriuobalas` šiame tekste reiškia skystą valgomą putrą ar sriubą.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Tas pats terminas gali žymėti ir batvinių patiekalą.'
   pagrindžia:
     - c-002
@@ -36,7 +36,7 @@ Vartojamos formos: `sriuobalą`, `sriuobalu`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Sriuobalas` šiame tekste reiškia skystą valgomą putrą ar sriubą
+  santrauka: '`Sriuobalas` šiame tekste reiškia skystą valgomą putrą ar sriubą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Valgė visi vasarą ant žemės pablaka ar išsitiesę, kaip šiandien dar tebdaro šienuodamies, ant
@@ -52,9 +52,9 @@ Vartojamos formos: `sriuobalą`, `sriuobalu`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Tas pats terminas gali žymėti ir batvinių patiekalą
+  santrauka: 'Tas pats terminas gali žymėti ir batvinių patiekalą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Antras jų didžiai čėdijamas^357
@@ -66,7 +66,7 @@ Vartojamos formos: `sriuobalą`, `sriuobalu`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Pastabos
 

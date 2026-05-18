@@ -30,13 +30,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Zigmanto nužudymas 1440 m. Zigmantas, ruošęsis atgauti visišką Lietuvos nepriklausomybę, staiga buvo nužudytas savo paties ponų.'
+  teiginys: '1440 m. Zigmantas, ruošęsis atgauti visišką Lietuvos nepriklausomybę, buvo nužudytas savo paties ponų.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Zigmanto nužudymas 1440 m. Zigmantas, ruošęsis atgauti visišką Lietuvos nepriklausomybę, staiga buvo nužudytas savo paties ponų.'
+  santrauka: '1440 m. Zigmantas, ruošęsis atgauti visišką Lietuvos nepriklausomybę, buvo nužudytas savo paties ponų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Zigmanto nužudymas 1440 m. Zigmantas, ruošęsis atgauti
@@ -49,10 +51,10 @@ Nenurodyta
     trikdyti Zigmanto planus, suruošė sąmokslą ir jį nužudė. Tačiau
     tikroji sąmokslo priežastis ir sąmokslininkų tikslai lig šiol tebėra
     neišaiškinti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

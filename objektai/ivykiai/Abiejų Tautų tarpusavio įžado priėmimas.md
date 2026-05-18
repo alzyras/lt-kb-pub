@@ -46,7 +46,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Po Gegužės trečiosios konstitucijos priimtas įstatymas numatė kiekvieną trečią seimą Gardine ir atskiras Lietuvos atstovų sesijas.'
+  teiginys: 'Po Gegužės trečiosios konstitucijos gegužės 16 d. priimtas įstatymas numatė kiekvieną trečią seimą Gardine ir atskiras Lietuvos atstovų sesijas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -54,7 +54,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Po Gegužės trečiosios konstitucijos priimtas įstatymas numatė kiekvieną trečią seimą Gardine ir atskiras Lietuvos atstovų sesijas.'
+  santrauka: 'Po Gegužės trečiosios konstitucijos gegužės 16 d. priimtas įstatymas numatė kiekvieną trečią seimą Gardine ir atskiras Lietuvos atstovų sesijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Priėmus Gegužės trečiosios konstituciją prasidėjusiose diskusijose

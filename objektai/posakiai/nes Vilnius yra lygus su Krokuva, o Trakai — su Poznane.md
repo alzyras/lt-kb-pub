@@ -20,23 +20,25 @@ Bendram seime jie reikalavo sau irgi garbingų vietų, „nes Vilnius yra lygus 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Bendram seime jie reikalavo sau irgi garbingų vietų, „nes Vilnius yra lygus su Krokuva, o Trakai — su Poznane".'
+  teiginys: 'Bendrame seime argumentu „nes Vilnius yra lygus su Krokuva, o Trakai — su Poznane“ buvo reikalaujama garbingų vietų.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Bendram seime jie reikalavo sau irgi garbingų vietų, „nes Vilnius yra lygus su Krokuva, o Trakai — su Poznane".'
+  santrauka: 'Bendrame seime argumentu „nes Vilnius yra lygus su Krokuva, o Trakai — su Poznane“ buvo reikalaujama garbingų vietų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bendram seime jie reikalavo sau irgi garbingų vietų, „nes Vilnius
     yra lygus su Krokuva, o Trakai — su Poznane". Karalių sutiko rinkti
     bendrai, bet tik ne Lenkijos centre, o pačiame pasieny, ir reikalavo,
     kad lietuvių ir lenkų rinkėjų būtų po lygiai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

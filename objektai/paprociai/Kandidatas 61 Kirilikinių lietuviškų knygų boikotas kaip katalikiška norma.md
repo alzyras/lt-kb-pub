@@ -33,7 +33,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kirilikinio lietuvių raidyno boikotą skatino lietuviškų pradžios mokyklų draudimas, katalikų diskriminacija ir viliojimas į stačiatikybę.'
+  teiginys: 'Kirilikinė lietuvių abėcėlė galėjo būti boikotuojama dėl lietuviškų pradžios mokyklų draudimo ir katalikų diskriminacijos.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -41,7 +41,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kirilikinio lietuvių raidyno boikotą skatino lietuviškų pradžios mokyklų draudimas, katalikų diskriminacija ir viliojimas į stačiatikybę.'
+  santrauka: 'Kirilikinė lietuvių abėcėlė galėjo būti boikotuojama dėl lietuviškų pradžios mokyklų draudimo ir katalikų diskriminacijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sužlugdyta ir valdžios užmačia pakeisti lietuvių raštijoje tradicinį

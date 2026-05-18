@@ -18,42 +18,46 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '1—5 d. Berne sušaukta konferencija, atsižvelgdama į lenkų propagandą, savinančiąsi Lietuvą, paskelbė Lietuvos nepri.'
+  teiginys: '1916 m. kovo 1-5 d. Berne sušaukta konferencija paskelbė Lietuvos nepriklausomybės šūkį ir lietuvių tautos savarankiškumą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Kai Vilniaus konferencija išrinko Lietuvos Tarybą, Berne vėl buvo sušaukta naujoji konferencija (1917 m. lapkričio.'
+  teiginys: '1917 m. lapkričio 2-10 d. Berne buvo sušaukta nauja konferencija, kurioje dalyvavo Lietuvos Tarybos delegatai.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1—5 d. Berne sušaukta konferencija, atsižvelgdama į lenkų propagandą, savinančiąsi Lietuvą, paskelbė Lietuvos nepri.'
+  santrauka: '1916 m. kovo 1-5 d. Berne sušaukta konferencija paskelbė Lietuvos nepriklausomybės šūkį ir lietuvių tautos savarankiškumą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1916 metų kovo
     mėn. 1—5 d. Berne sušaukta konferencija, atsižvelgdama į lenkų
     propagandą, savinančiąsi Lietuvą, paskelbė Lietuvos nepri-
     klausomybės šūkį ir lietuvių tautos savarankiškumą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Kai Vilniaus konferencija išrinko Lietuvos Tarybą, Berne vėl buvo sušaukta naujoji konferencija (1917 m. lapkričio.'
+  santrauka: '1917 m. lapkričio 2-10 d. Berne buvo sušaukta nauja konferencija, kurioje dalyvavo Lietuvos Tarybos delegatai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai Vilniaus konferencija išrinko Lietuvos Tarybą, Berne
     vėl buvo sušaukta naujoji konferencija (1917 m. lapkričio
     2 — 10 d.), kurioj dalyvavo ir Tarybos delegatai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

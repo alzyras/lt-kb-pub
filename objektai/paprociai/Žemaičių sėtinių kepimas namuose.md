@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Žemaičiai 1564 m. savo namuose kepė sėtinius.'
   pagrindžia:
     - c-001
@@ -50,14 +50,16 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Žemaičiai 1564 m. savo namuose kepė sėtinius.
+  santrauka: 'Žemaičiai 1564 m. savo namuose kepė sėtinius.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Vieni dar žemaičiai sekė senovės būdą, ir
     taip Lasickis rašo tyčiodamos, jog Žemaičių jomylistos metuose 1564 sėtinius kepę savo namuose ir
     už visų didžiausią skaninį turėję.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

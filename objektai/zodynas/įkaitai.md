@@ -22,39 +22,16 @@ tags:
 Žymesniųjų bajorų vaikai buvo net išvežti į Pavyslį, kaip įkaitai.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Žymesniųjų bajorų vaikai buvo net išvežti į Pavyslį, kaip įkaitai.'
+- t-004
+  teiginys: 'Žemaičiai atsitraukdami nuo Vilniaus vokiečiams atiduoda įkaitus.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: Žemaičiai atsitraukdami nuo Vilniaus vokiečiams atiduoda įkaitus.
-  pagrindžia:
-    - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: Įkaitai čia vartojami kaip paklusnumo ir susitarimo garantija.
-  pagrindžia:
-    - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Žymesniųjų bajorų vaikai buvo net išvežti į Pavyslį, kaip įkaitai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Žymesniųjų bajorų vaikai buvo net iš-
-    vežti į Pavyslį, kaip įkaitai. Ordino valdžia buvo labai žiauri.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Žemaičiai atsitraukdami nuo Vilniaus vokiečiams atiduoda įkaitus.
+  santrauka: 'Žemaičiai atsitraukdami nuo Vilniaus vokiečiams atiduoda įkaitus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Zöllneris ir Vytautas 1383 metų rugsėjo 11 d. didele ka­
@@ -69,9 +46,10 @@ tags:
     Vilniaus, jie davė vokiečiams savo įkaitus. Tiesa, tie įkaitai
     buvo duoti ne nuo visos Žemaitijos sričių. Bet ir tai, kas buvo
     padaryta, reikia laikyti Vytauto nuopelnu.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-    - t-003
+    - t-004

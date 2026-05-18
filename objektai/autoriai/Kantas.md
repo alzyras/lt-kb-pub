@@ -19,13 +19,15 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '1800 m., savo prakalboje Milkės žodynui, tą pareiškė ir garsusis Karaliaučiaus filosofas Kantas.'
+  teiginys: '1800 m. Karaliaučiaus filosofas Kantas Milkės žodyno prakalboje palaikė lietuvių kultūrines teises.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1800 m., savo prakalboje Milkės žodynui, tą pareiškė ir garsusis Karaliaučiaus filosofas Kantas.'
+  santrauka: '1800 m. Karaliaučiaus filosofas Kantas Milkės žodyno prakalboje palaikė lietuvių kultūrines teises.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1800 m., savo prakal-
@@ -33,11 +35,11 @@ tags:
     sofas Kantas. Anot jo, valstybė esanti reikalinga tokių kilnių,
     padorių žmonių, kaip lietuviai, todėl jų kultūrinės teisės pa-
     laikytinos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

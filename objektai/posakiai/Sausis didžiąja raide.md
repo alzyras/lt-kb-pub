@@ -37,8 +37,8 @@ tags:
 - Kai rašoma Sausis didžiąja raide
 
 ## Teiginiai
-- t-001
-  teiginys: 'Formuluotė „Sausis didžiąja raide“ tiesiogiai reiškia Sausio 13-osios atmintį.'
+- t-002
+  teiginys: 'Formuluotė „Sausis didžiąja raide“ Lietuvoje siejama su Sausio 13-ąja ir 1991 metų nakties atmintimi.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -46,17 +46,19 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata išaiškina, kad didžiąja raide rašomas Sausis reiškia Sausio 13-ąją.
+  santrauka: 'Formuluotė „Sausis didžiąja raide“ Lietuvoje siejama su Sausio 13-ąja ir 1991 metų nakties atmintimi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „Kai rašoma Sausis didžiąja raide - tai atminties dar neprara-
     dusioje Lietuvoje aišku: kalbėsim apie Sausio 13-ąją, apie tą 1991
     metų naktį, kai Lietuva nepuldama laimėjo ištvermės ir istikimy-
-    bės mūšį.
+    bės mūšį. Ji liko savo kely tvirtai žengianti toliau į laisvę, pasau-
+    lio užjausta dėl sukeltų aukų ir gerbiama už drąsą; o užpuolikas,
+    daužęs ir šaudęs beginklius žmones, subyrėjo į dulkes.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

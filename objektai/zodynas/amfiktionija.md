@@ -43,7 +43,7 @@ Terminas pateikiamas kaip senovės graikų analogija, padedanti aiškinti žynio
 Vartojama lyginamajame religinių-politinių institucijų aiškinime.
 
 ## Teiginiai
-- t-002
+- t-003
   teiginys: 'Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti.'
   pagrindžia:
     - c-001
@@ -64,7 +64,7 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

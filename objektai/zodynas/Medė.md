@@ -22,13 +22,13 @@ Pagrindinė forma: `medė`.
 Vartojamos formos: `medės`, `medėse`, `mėžė`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Medė` šiame tekste reiškia mišką arba girią.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Terminas vartojamas aiškinant senąsias vietovardžių ir etnonimų kilmes.'
   pagrindžia:
     - c-002
@@ -38,7 +38,7 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Medė` šiame tekste reiškia mišką arba girią
+  santrauka: '`Medė` šiame tekste reiškia mišką arba girią.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     už tų tyrų, juo į šiaurę einant,
@@ -49,9 +49,9 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Terminas vartojamas aiškinant senąsias vietovardžių ir etnonimų kilmes
+  santrauka: 'Terminas vartojamas aiškinant senąsias vietovardžių ir etnonimų kilmes.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Grekonys abelnai gyventojus, toje pietinėj įšleitėj gyvenančius, vadino
@@ -63,9 +63,9 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 - c-003
-  santrauka: Terminas vartojamas aiškinant senąsias vietovardžių ir etnonimų kilmes
+  santrauka: 'Terminas vartojamas aiškinant senąsias vietovardžių ir etnonimų kilmes.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Gyventojus
@@ -77,7 +77,7 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Pastabos
 

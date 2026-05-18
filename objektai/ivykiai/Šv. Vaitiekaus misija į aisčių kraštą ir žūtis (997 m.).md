@@ -50,26 +50,26 @@ Vaitiekus išplaukė iš Lenkijos į aisčių kraštą, Priegliaus žiotyse išl
 Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas šventuoju, krikščionybės kankiniu.
 
 ## Teiginiai
-- t-001
-  teiginys: Vaitiekus, gavęs Boleslovo Narsiojo apsaugą, išvyko iš Lenkijos į aisčių kraštą ir pasiekė krantą Priegliaus žiotyse.
+- t-005
+  teiginys: 'Vaitiekus, gavęs Boleslovo Narsiojo apsaugą, išvyko iš Lenkijos į aisčių kraštą ir pasiekė krantą Priegliaus žiotyse.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: Vaitiekaus misija aisčių krašte nebuvo sėkminga.
+- t-006
+  teiginys: 'Vaitiekaus misijonieriams aisčių krašte nesisekė platinti krikščionybės.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 997 m. balandžio 23 d. vietiniai gyventojai nužudė Vaitiekų šventajame miške.
+- t-007
+  teiginys: '997 m. balandžio 23 d. vietiniai gyventojai nužudė Vaitiekų šventajame miške.'
   pagrindžia:
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: Po mirties Vaitiekus buvo paskelbtas šventuoju, krikščionybės kankiniu.
+- t-008
+  teiginys: 'Po mirties Vaitiekus buvo paskelbtas šventuoju, krikščionybės kankiniu.'
   pagrindžia:
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -77,7 +77,7 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Aprašo Vaitiekaus išvykimą į aisčių kraštą ir atvykimą prie Priegliaus žiočių.
+  santrauka: 'Vaitiekus, gavęs Boleslovo Narsiojo apsaugą, išvyko iš Lenkijos į aisčių kraštą ir pasiekė krantą Priegliaus žiotyse.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Atvykęs pas Lenkų kunigaikštį Boleslovą Narsųjį,
@@ -85,28 +85,28 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
     jis priplaukė krantą Priegliaus žiotyse. Kad aisčių giminės į at-
     vykusius labai neskersuotų, jis atleido visus savo palydovus ir
     liko tik su dviem kunigais.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-005
 - c-002
-  santrauka: Tiesiogiai nurodo misijos nesėkmę.
+  santrauka: 'Vaitiekaus misijonieriams aisčių krašte nesisekė platinti krikščionybės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau tas nieko nepadėjo: misijo-
     nieriams čia nesisekė platinti krikščionybės.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-006
 - c-003
-  santrauka: Aprašo Vaitiekaus nužudymą ir nurodo tikslią datą.
+  santrauka: '997 m. balandžio 23 d. vietiniai gyventojai nužudė Vaitiekų šventajame miške.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet vieną rytą, kai visi trys
@@ -115,27 +115,27 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
     nodami, buvo sustoję šventajam miške, kur negalėjo įžengti joks
     svetimšalis. Pagonys tuo būdu atkeršijo už savo šventovės
     įžeidimą. Tas atsitiko 997 m. balandžio 23 d.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-007
 - c-004
-  santrauka: Nurodo Vaitiekaus paskelbimą šventuoju po jo mirties.
+  santrauka: 'Po mirties Vaitiekus buvo paskelbtas šventuoju, krikščionybės kankiniu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Misijonierių la-
     vonus išpirko kunigaikštis Boleslovas. Vyskupas Vaitiekus buvo
     paskelbtas šventuoju, krikščionybės kankiniu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-008
 
 ## Ryšiai
 ### Laikotarpiai

@@ -37,7 +37,7 @@ tags:
 - Vyrai, susikibkim rankom ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Ši frazė yra Sausio 13-osios gynėjų solidarumo ir fizinio pasipriešinimo šūksnis.'
   pagrindžia:
     - c-001
@@ -46,10 +46,11 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Šūksnis kviečia susikibti rankomis ir sudaryti grandinę prieš tankus.
+  santrauka: 'Ši frazė yra Sausio 13-osios gynėjų solidarumo ir fizinio pasipriešinimo šūksnis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Išgirdom, kaip žmonės sušuko: „Vyrai, susikibkim rankom
+    Čia bokšto
+    gynėjų buvo žymiai mažiau. Išgirdom, kaip žmonės sušuko: „Vyrai, susikibkim rankom
     ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -57,4 +58,4 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

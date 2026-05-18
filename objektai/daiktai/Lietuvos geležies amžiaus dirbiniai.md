@@ -32,23 +32,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Lietuvos geležies amžiaus dirbiniai: 1—8 fibulos (segtukai), 9 ir 15 apirankė, 12 kirvis, 13 ieties galas.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Lietuvos geležies amžiaus dirbiniai: 1—8 fibulos (segtukai), 9 ir 15 apirankė, 12 kirvis, 13 ieties galas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Lietuvos geležies amžiaus dirbiniai:
-      1—8 fibulos (segtukai), 9 ir 15 apirankė, 12 kirvis, 13 ieties galas.
-      10-12, 14 ir 16 antkakliai.**
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta

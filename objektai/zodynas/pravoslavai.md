@@ -18,30 +18,28 @@ tags: []
 # pravoslavai
 
 ## Teiginiai
-
-- t-001
-  teiginys: Pravoslavai yra vėlyvesnis graikų tikybos žmonių pavadinimas.
+- t-004
+  teiginys: 'Pravoslavai yra vėlyvesnis graikų tikybos žmonių pavadinimas.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: Šie žmonės priklausė Konstantinopolio patriarchatui ir turėjo atskirą metropoliją.
+- t-005
+  teiginys: 'Pravoslavai priklausė Konstantinopolio patriarchatui ir kadaise buvo valdomi Kijevo metropolito.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: Jų nepasitenkinimas prisidėjo prie rytų ir vakarų bažnyčių unijos idėjos.
+- t-006
+  teiginys: 'Jų nepasitenkinimas prisidėjo prie rytų ir vakarų bažnyčių unijos idėjos.'
   pagrindžia:
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: Pravoslavai čia yra vėlyvesnis graikų tikybos žmonių pavadinimas.
+  santrauka: 'Pravoslavai yra vėlyvesnis graikų tikybos žmonių pavadinimas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Apie pusę tų laikų didž. Lietuvos kunigaikštijos gyventojų
@@ -49,14 +47,16 @@ tags: []
     žiais pradėta vadinti, pravoslavai. Jie priklausė Konstantino­
     polio patriarchatui ir kadaise buvo valdomi vieno Kijevo metro­
     polito.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-004
+    - t-005
 - c-002
-  santrauka: Jų nepasitenkinimas prisidėjo prie rytų ir vakarų bažnyčių unijos idėjos.
+  santrauka: 'Jų nepasitenkinimas prisidėjo prie rytų ir vakarų bažnyčių unijos idėjos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Visa tai sukėlė tarp pravoslavų nepasitenkinimą bei anta­
@@ -65,11 +65,13 @@ tags: []
     voslavų teises, kaip tai darė jo brolis Zigmantas, bet suprasda­
     mas tautos vieningumo religišku atžvilgiu svarbą, jis iškėlė rytų
     ir vakarų bažnyčių unijos idėją.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-006
 
 ## Ryšiai
 ### Laikotarpiai

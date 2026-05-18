@@ -45,20 +45,20 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
 - Antanas Smetona ir jo aplinka
 
 ## Teiginiai
-- t-007
+- t-010
   teiginys: 'Alfonsas Eidintas buvo vienas 2013 m. Vilniaus universiteto leidyklos išleistos „Lietuvos istorijos“ autorių.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-008
+- t-011
   teiginys: 'Alfonsui Eidintui nurodytos 2013 m. leidimo autorių teisės.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-009
-  teiginys: 'Alfonsas Eidintas buvo leidinio redaktorius.'
+- t-012
+  teiginys: 'Alfonsas Eidintas buvo „Lietuvos istorijos“ redaktorius.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -86,7 +86,7 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
+    - t-010
 - c-002
   santrauka: 'Alfonsui Eidintui nurodytos 2013 m. leidimo autorių teisės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -113,9 +113,9 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-008
+    - t-011
 - c-003
-  santrauka: 'Alfonsas Eidintas buvo leidinio redaktorius.'
+  santrauka: 'Alfonsas Eidintas buvo „Lietuvos istorijos“ redaktorius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sauliui Kaubriui ir daugeliui
@@ -138,7 +138,7 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-009
+    - t-012
 
 ## Ryšiai
 ### Teminiai klasteriai

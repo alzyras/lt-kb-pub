@@ -34,7 +34,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-002
+- t-003
   teiginys: 'Vilniuje buvo pašalintas Lenino paminklas.'
   pagrindžia:
     - c-001
@@ -58,7 +58,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

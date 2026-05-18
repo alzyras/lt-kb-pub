@@ -36,7 +36,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos metraščių Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai kildinti save iš Palemono tradicijos.'
+  teiginys: 'Lietuvos metraščiuose sukurta Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai savo kilmę vesti iš Palemono tradicijos.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -44,7 +44,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvos metraščių Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai kildinti save iš Palemono tradicijos.'
+  santrauka: 'Lietuvos metraščiuose sukurta Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai savo kilmę vesti iš Palemono tradicijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono

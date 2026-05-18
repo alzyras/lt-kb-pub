@@ -36,17 +36,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Politinis gyvenimas ėjo seimeliuose.'
+  teiginys: 'Didikai seimeliuose bajorijos daugumą stengėsi patraukti protekcijomis ir nuolatinėmis puotomis savo dvaruose.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Seimelio vaizdai, aprašyti daugelio ano meto žmonių, tiesiog šiurpūs.'
+  teiginys: 'Į seimelius didikai atgabendavo plikbajorius, juos maitindavo, girdydavo ir nurodydavo, kaip elgtis bei kieno klausyti.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Politinis gyvenimas ėjo seimeliuose.'
+  santrauka: 'Didikai seimeliuose bajorijos daugumą stengėsi patraukti protekcijomis ir nuolatinėmis puotomis savo dvaruose.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Politinis gyvenimas ėjo seimeliuose. Čia buvo spren-
@@ -60,15 +64,15 @@ Nenurodyta
     vartoti savo pono ar to, kuris gerai užmokėdavo, nuomonei paremti.
     Į seimelius tokių plikbajorių atsigabendavo visi didikai, ir todėl
     seimeliai buvo nuolatinių muštynių vieta.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Seimelio vaizdai, aprašyti daugelio ano meto žmonių, tiesiog šiurpūs.'
+  santrauka: 'Į seimelius didikai atgabendavo plikbajorius, juos maitindavo, girdydavo ir nurodydavo, kaip elgtis bei kieno klausyti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Seimelio vaizdai, aprašyti daugelio ano meto žmonių, tiesiog
@@ -84,11 +88,11 @@ Nenurodyta
     dėdavo jų valgydinimas ir girdymas. Čia pat didiko agentai, o kar-
     tais net ir jis pats, visiems duodavo instrukcijų, kaip turi seimely
     elgtis, ko laikytis ir kieno nurodymų klausyti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

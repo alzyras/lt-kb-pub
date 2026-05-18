@@ -47,7 +47,7 @@ Naudoti korupciniame investicijų pritraukimo kontekste.
 Nenurodyta
 
 ## Teiginiai
-- t-002
+- t-003
   teiginys: 'Į Maskvą keliaudavo kyšiai, apibūdinti kaip lagaminai rūkytų dešrų ir kumpių.'
   pagrindžia:
     - c-001
@@ -71,7 +71,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

@@ -19,37 +19,23 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą.'
+  teiginys: 'Žemaičiai priešais Jurbarką pasistatė savo pilį Karšuvą.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Jurbarką žemaičiai pasistatė savo pilį — Karšuvą.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą.'
+  santrauka: 'Žemaičiai priešais Jurbarką pasistatė savo pilį Karšuvą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tada priešais
     Jurbarką žemaičiai pasistatė savo pilį — Karšuvą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Jurbarką žemaičiai pasistatė savo pilį — Karšuvą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jurbarką žemaičiai pasistatė savo pilį — Karšuvą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

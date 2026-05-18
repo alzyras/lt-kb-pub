@@ -19,17 +19,21 @@ Zauerveinas (autorius giesmės „Lietuviai esame mes gimę"). Kitas didelis lie
 
 ## Teiginiai
 - t-001
-  teiginys: 'Zauerveinas (autorius giesmės „Lietuviai esame mes gimę").'
+  teiginys: 'S. Zauerveinas buvo giesmės „Lietuviai esame mes gimę“ autorius.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Kitas didelis lietuvių kalbos garbintojas buvo net ne lietuvis, o tikras vokietis Zauerveinas (†- 1904 m.).'
+  teiginys: 'Zauerveinas tyrė lietuvių kalbą, kovojo už lietuvių teises ir rašė lietuvių laikraščiuose.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Zauerveinas (autorius giesmės „Lietuviai esame mes gimę").'
+  santrauka: 'S. Zauerveinas buvo giesmės „Lietuviai esame mes gimę“ autorius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Juos rašė
@@ -44,15 +48,15 @@ Zauerveinas (autorius giesmės „Lietuviai esame mes gimę"). Kitas didelis lie
     (autorius giesmės „Lie-
     tuviai esame mes gi-
     mę").
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Kitas didelis lietuvių kalbos garbintojas buvo net ne lietuvis, o tikras vokietis Zauerveinas (†- 1904 m.).'
+  santrauka: 'Zauerveinas tyrė lietuvių kalbą, kovojo už lietuvių teises ir rašė lietuvių laikraščiuose.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kitas didelis lietuvių kalbos garbintojas bu-
@@ -60,11 +64,11 @@ Zauerveinas (autorius giesmės „Lietuviai esame mes gimę"). Kitas didelis lie
     m.). Jis ne tiktai tyrė lietuvių kalbą, bet ir kovojo už lietuvių
     teises. Jis rašė daugely anuomet jau ėjusių lietuvių laikraščių,
     keldamas tautos susipratimą. Nors jis buvo ir svetimtautis,
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 
@@ -73,6 +77,5 @@ Zauerveinas (autorius giesmės „Lietuviai esame mes gimę"). Kitas didelis lie
 - [[temos/redaktorius]]
 
 ### Susiję objektai
-- [[objektai/autoriai/Jonas Basanavičius]]
 - [[objektai/autoriai/M. Jankus]]
 - [[objektai/autoriai/Zauerveinas]]

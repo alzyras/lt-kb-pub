@@ -41,22 +41,16 @@ Laisvamanybė čia nusako idėjinę ir visuomeninę laikyseną, dėl kurios buvo
 Terminas siejamas su J. Šliūpo veikla ir aplink jį susibūrusia tautininkų bei laisvamanių aplinka.
 
 ## Teiginiai
-- t-001
-  teiginys: Laisvamanybė pateikiama kaip viena iš pagrindinių J. Šliūpo gyvenimo kovų.
+- t-003
+  teiginys: 'Jonas Šliūpas visą gyvenimą kovojo dėl tautos teisių bei susipratimo ir dėl laisvamanybės.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: Laisvamaniais vadinami žmonės, susibūrę apie J. Šliūpą drauge su griežtesniaisiais tautininkais.
-  pagrindžia:
-    - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Laisvamanybė įvardijama kaip savarankiška J. Šliūpo siekta idėja.
+  santrauka: 'Jonas Šliūpas visą gyvenimą kovojo dėl tautos teisių bei susipratimo ir dėl laisvamanybės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Dr. Šliūpas visą
@@ -68,20 +62,7 @@ Terminas siejamas su J. Šliūpo veikla ir aplink jį susibūrusia tautininkų b
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: Tiesiogiai pavartotas šalininkų pavadinimas `laisvamaniai`.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl apie jį susibūrė griežtes-
-    nieji tautininkai ir laisvamaniai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
+    - t-003
 
 ## Šaltiniai ir įrodymai
 

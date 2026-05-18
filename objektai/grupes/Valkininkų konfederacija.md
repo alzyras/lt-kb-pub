@@ -21,21 +21,21 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 
 ## Teiginiai
 - t-001
-  teiginys: 'Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti Sapiegos.'
+  teiginys: 'Valkininkų konfederaciją sudariusi bajorija pasižadėjo nesiskirstyti, kol bus sunaikinti Sapiegos.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Jis datuotas Valkininkuose 1700 m. lapkričio 24 d., t.'
+  teiginys: 'Valkininkuose datuotas raštas nurodė 1700 m. lapkričio 24 d., nors iš tikro buvo surašytas vėliau.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Ten pat, Valkininkuose, visus Sapiegas ji paskelbė krašto išdavikais, jų dvarus konfiskuotais, jų turėtus urėdus atimtais.'
-  pagrindžia:
-    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti Sapiegos.'
+  santrauka: 'Valkininkų konfederaciją sudariusi bajorija pasižadėjo nesiskirstyti, kol bus sunaikinti Sapiegos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau Sapiegų priešų jėgos
@@ -45,15 +45,15 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti
     Sapiegos. Konfederacijos maršalka buvo išrinktas Katilas, o
     regimentorium (karo vadu) — Mykolas Višniaveckis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Jis datuotas Valkininkuose 1700 m. lapkričio 24 d., t.'
+  santrauka: 'Valkininkuose datuotas raštas nurodė 1700 m. lapkričio 24 d., nors iš tikro buvo surašytas vėliau.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tas raštas pasirašytas visų žymesniųjų Sapiegų priešų, bajorijos
@@ -61,29 +61,13 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     datuotas Valkininkuose 1700 m. lapkričio 24 d., t. y. tą pačią dieną,
     kai buvo padarytas nutarimas, skelbiąs Sapiegas išdavikais; bet iš
     tikro jis buvo surašytas vėliau, ir parašai surinkti atskirai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Ten pat, Valkininkuose, visus Sapiegas ji paskelbė krašto išdavikais, jų dvarus konfiskuotais, jų turėtus urėdus atimtais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvos bajorija tuo tarpu pasiryžo juos visiškai sunaikinti. Ten pat, Valkininkuose, visus
-    Sapiegas ji paskelbė krašto išdavikais, jų dvarus konfiskuotais,
-    jų turėtus urėdus atimtais. Žodžiu, viskas iš jų buvo atimta;
-    pagaliau ir pavojinga buvo jiems ką nors palikti, kad atsigavę
-    neatkeršytų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai

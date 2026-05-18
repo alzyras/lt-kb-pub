@@ -40,19 +40,19 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
 - Gegužės trečiosios konstitucijos pataisa
 
 ## Teiginiai
-- t-006
+- t-009
   teiginys: 'Tadas Korsakas buvo Gegužės trečiosios konstitucijos pataisos autorius.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-007
+- t-010
   teiginys: 'Tadas Korsakas žuvo ginant Varšuvą.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-008
+- t-011
   teiginys: 'Tadas Korsakas buvo Gegužės trečiosios konstitucijos pataisos autorius ir žuvo ginant Varšuvą.'
   pagrindžia:
     - c-001
@@ -73,9 +73,9 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
-    - t-007
-    - t-008
+    - t-009
+    - t-010
+    - t-011
 
 ## Ryšiai
 ### Laikotarpiai

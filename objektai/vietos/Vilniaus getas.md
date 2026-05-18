@@ -18,7 +18,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Apie 50 tūkst. žydų buvo laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose kaip pigi darbo jėga.'
+  teiginys: 'Vilniaus, Kauno, Šiaulių ir mažesniuose getuose apie 50 tūkst. žydų laikinai palikta kaip pigi darbo jėga.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Apie 50 tūkst. žydų buvo laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose kaip pigi darbo jėga.'
+  santrauka: 'Vilniaus, Kauno, Šiaulių ir mažesniuose getuose apie 50 tūkst. žydų laikinai palikta kaip pigi darbo jėga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Apie 50 tūkst. žydų

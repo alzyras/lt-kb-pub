@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Ublas buvo smalos pečius, kuriame degino dervą, smalą ir degutą.'
   pagrindžia:
     - c-001
@@ -50,7 +50,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Ublas buvo smalos pečius, kuriame degino dervą, smalą ir degutą.
+  santrauka: 'Ublas buvo smalos pečius, kuriame degino dervą, smalą ir degutą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Dešimtasis trobesys vadinos ublas^246 , taip vadinamas smalos pečius, kuriame dervą, arba
@@ -61,4 +61,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

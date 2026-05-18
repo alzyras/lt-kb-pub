@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Parusnyje po dideliu ąžuolu buvo šėtra, prie kurios kunigai kūrė amžiną ugnį.'
   pagrindžia:
     - c-001
@@ -50,7 +50,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Parusnyje po dideliu ąžuolu buvo šėtra, prie kurios kunigai kūrė amžiną ugnį.
+  santrauka: 'Parusnyje po dideliu ąžuolu buvo šėtra, prie kurios kunigai kūrė amžiną ugnį.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     lietuvių krikštyti sako, jog Parusny radę jau šėtrą^715 po dideliu ąžuolu, visados žaliuojančiu, pas
@@ -61,7 +61,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Pastabos
 

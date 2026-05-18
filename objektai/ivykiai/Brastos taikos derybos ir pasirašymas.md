@@ -30,13 +30,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tarp bolševikų vyriausybės ir Vokietijos prasidėjus separatinės taikos deryboms (derybos prasidėjo 1917 m. gale Brastoje, taika buvo pasirašyta 1918 m. kovo mėn.), visi lietuvių rūpesčiai buvo suvesti į vieną: kuo greičiausiai grįžti ir visus lietuvius.'
+  teiginys: '1917 m. pabaigoje Brastoje prasidėjus bolševikų ir Vokietijos taikos deryboms, lietuviai siekė grįžti į Lietuvą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tarp bolševikų vyriausybės ir Vokietijos prasidėjus separatinės taikos deryboms (derybos prasidėjo 1917 m. gale Brastoje, taika buvo pasirašyta 1918 m. kovo mėn.), visi lietuvių rūpesčiai buvo suvesti į vieną: kuo greičiausiai grįžti ir visus lietuvius.'
+  santrauka: '1917 m. pabaigoje Brastoje prasidėjus bolševikų ir Vokietijos taikos deryboms, lietuviai siekė grįžti į Lietuvą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tarp bolševikų vyriausybės ir Vokietijos prasidėjus sepa-
@@ -44,10 +46,10 @@ Nenurodyta
     je, taika buvo pasirašyta 1918 m. kovo mėn.), visi lietuvių rū-
     pesčiai buvo suvesti į vieną: kuo greičiausiai grįžti ir visus lie-
     tuvius grąžinti į Lietuvą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

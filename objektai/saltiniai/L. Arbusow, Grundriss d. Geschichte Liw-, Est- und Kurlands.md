@@ -18,21 +18,25 @@ Arbusow, Grundriss d. Geschichte Liw-, Estund Kurlands (1889; yra dar 3 laidos);
 
 ## Teiginiai
 - t-001
-  teiginys: 'Arbusow, Grundriss d. Geschichte Liw-, Estund Kurlands (1889; yra dar 3 laidos);.'
+  teiginys: 'L. Arbusowo „Grundriss d. Geschichte Liw-, Est- und Kurlands“ išėjo 1889 m. ir turėjo dar tris laidas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Arbusow, Grundriss d. Geschichte Liw-, Estund Kurlands (1889; yra dar 3 laidos);.'
+  santrauka: 'L. Arbusowo „Grundriss d. Geschichte Liw-, Est- und Kurlands“ išėjo 1889 m. ir turėjo dar tris laidas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     L. _Arbusow,_ Grundriss d. Geschichte Liw-, Est- und Kur-
     lands (1889; yra dar 3 laidos);
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

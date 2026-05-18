@@ -41,34 +41,28 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-005
   teiginys: 'MGB-KGB agentai-smogikai suvaidino svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-006
   teiginys: 'Agentai buvo verbuojami ir iš čekistų, ir iš suimtų partizanų, o jų veikla buvo grindžiama griežta konspiracija.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
+- t-007
   teiginys: 'Agentai-smogikai infiltruodavosi į partizanų gretas ir net į jų vadovybę.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'Partizanais apsimetę agentai-smogikai žudė civilius ir taip diskreditavo partizanus.'
-  pagrindžia:
-    - c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: MGB-KGB agentai-smogikai suvaidino svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
+  santrauka: 'MGB-KGB agentai-smogikai suvaidino svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     MGB-KGB agentai smogikai suvaidino itin svarbų vaidmenį galu-
@@ -91,9 +85,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-005
 - c-002
-  santrauka: Agentai buvo verbuojami ir iš čekistų, ir iš suimtų partizanų, o jų veikla buvo grindžiama griežta konspiracija.
+  santrauka: 'Agentai buvo verbuojami ir iš čekistų, ir iš suimtų partizanų, o jų veikla buvo grindžiama griežta konspiracija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     KGB kontržvalgybos sąvokų žodyne pateikiamas agentų-smogikų apibrėžimas.
@@ -119,9 +113,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-006
 - c-003
-  santrauka: Agentai-smogikai infiltruodavosi į partizanų gretas ir net į jų vadovybę.
+  santrauka: 'Agentai-smogikai infiltruodavosi į partizanų gretas ir net į jų vadovybę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šimonių girios operacija gerai atspindi
@@ -148,34 +142,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: Partizanais apsimetę agentai-smogikai žudė civilius ir taip diskreditavo partizanus.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    »[...] Kiek pavažiavus, kareiviai suriko, kad banditai puola.
-    Prasidėjo šaudymas. Kareiviai sukrito į griovį, o tie partizanai
-    šaudė iš miško pusės. Šaudėsi jie gal kokią pusę valandos, [...]. Kai
-    baigėsi šaudymas, prie manęs pripuolė tie partizanai, griebė mane
-    už kasų, išvadino paleistuve, naktimis su rusais besiduodančia... Kai paaiskinau, kad esu kalinė, apsikabino, išbučiavo - sese brangiau-
-    sia, mes tave, matai, išlaisvinome... Parodé man dar tuos stribus negyvus rave - matyt, jie turėjo ar tai kokio gyvulio kraujo pasiruošę,
-    ar kokio rašalo, nes jie visi gulėjo kruvini ir „negyvi“ [...]. Tada tie „partizanai“ užrišo man stipriai akis, vienas paėmė už vienos rankos,
-    kitas už kitos ir tuo mišku vedasi. [...] Paskui pajutau, kad po kojomis mėšlas - mes tvarte. Tame tvarte ir buvo įrengtas bunkeris. [...].
-    Akis atrišo tik bunkerio viduje. Pasiteisino, kad visa tai dėl konspiracijos. Bunkeryje buvo visi tie trylika vyrų - visi aukšti kaip ąžuo-
-    lai, visi gražūs, visi vilkėjo lietuviškas uniformas. [...] O paskui atkreipiau dėmesį į rankovių antsiuvus. [...]. Ir atpažinau savo pačios
-    siuvinėtą ženklą. Mat kai buvau suimta, saugumiečiai buvo mane nutempę Ariogaloje atpažinti ant grindinio numesto žuvusio parti-
-    zano „Uosio“. Jis vilkėjo uniformą su mano siuvinėtu ženklu, o dabar tą uniformą su mano pačios siuvinėtu antsiuvu dėvėjo vienas iš tų
-    „partizanų“. Tada galutinai supratau, kad mane jie provokuoja, bet neišsidaviau. Kalbėjau ir jiems viską kaip ir per tardymus, [...]. O
-    Jie irgi norėjo sužinoti, kur mano brolio bunkeris. Tris dienas jie mane išlaikė tame bunkeryje. Taip ir pasakė, kad jei nežinau, kur mano
-    brolio būrys ir bunkeriai, tai jie kaip nors patys juos susiras. Pasakė, kad mergos su partizanais nevaikščios, kad yra parengę man kažkur
-    kitą bunkeriuką, kur pabūsiu, kol ateis mano krašto partizanai ir mane pasiims. Na ir išvedė mane iš to bunkerio vėl užrištomis akimis,
-    vėl vedė per mišką kokių pora kilometrų, suriko, kad garnizono kareiviai puola ir vėl prasidėjo šaudymas. Vėl jie pasišaudė, ir pripuolę
-
-    kareiviai mane „suėmė“ vėl. [...].“
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
+    - t-007

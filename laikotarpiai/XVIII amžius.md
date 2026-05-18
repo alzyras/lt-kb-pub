@@ -19,19 +19,19 @@ Objektų skaičius: 79.
 ## Susiję objektai
 
 ### Asmenys
-- [[objektai/asmenys/A. Smetona]]
-- [[objektai/asmenys/Antanas Smetona]]
-- [[objektai/asmenys/Antanas Tyzenhauzas]]
-- [[objektai/asmenys/Ignotas Masalskis]]
+- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
+- [[objektai/asmenys/Ignotas Masalskis|Ignotas Masalskis (vyskupas, XVIII–XIX a.)]]
 - [[objektai/asmenys/Jekaterina II]]
-- [[objektai/asmenys/Jonas Kristupas Glaubicas]]
+- [[objektai/asmenys/Jonas Kristupas Glaubicas|Jonas Kristupas Glaubicas (architektas)]]
 - [[objektai/asmenys/Kristijonas Gotlibas Milkus]]
-- [[objektai/asmenys/Martynas Knakfusas]]
-- [[objektai/asmenys/Povilas Ksaveras Bžostovskis]]
+- [[objektai/asmenys/Martynas Knakfusas|Martynas Knakfusas (vyskupas, XVIII–XIX a.)]]
+- [[objektai/asmenys/Povilas Ksaveras Bžostovskis|Povilas Ksaveras Bžostovskis (reformų veikėjas)]]
 - [[objektai/asmenys/Radvila (XVIII a. didikas)]]
 - [[objektai/asmenys/Simonas Daukantas]]
 - [[objektai/asmenys/Simonas Stanevičius]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 
 ### Autoriai
 - [[objektai/autoriai/Augustas Ludvikas Schlözeris]]

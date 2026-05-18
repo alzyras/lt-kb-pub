@@ -20,31 +20,31 @@ Objektų skaičius: 246.
 
 ### Asmenys
 - [[objektai/asmenys/A. Hitleris]]
-- [[objektai/asmenys/A. Smetona]]
+- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/asmenys/A. Voldemaras]]
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Algirdas Brazauskas]]
 - [[objektai/asmenys/Andrejus Sacharovas]]
 - [[objektai/asmenys/Antanas Gustaitis]]
 - [[objektai/asmenys/Antanas Mackevičius]]
 - [[objektai/asmenys/Antanas Merkys]]
-- [[objektai/asmenys/Antanas Smetona]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/asmenys/Antanas Valionis]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/asmenys/Bernardas Berensonas]]
 - [[objektai/asmenys/Czesław Miłosz]]
 - [[objektai/asmenys/Ernestas Galvanauskas]]
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Grigalius XIII]]
 - [[objektai/asmenys/Horacijus]]
-- [[objektai/asmenys/Ignotas Masalskis]]
+- [[objektai/asmenys/Ignotas Masalskis|Ignotas Masalskis (vyskupas, XVIII–XIX a.)]]
 - [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų]]
-- [[objektai/asmenys/Ivanas Fiodorovas]]
+- [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas (spaustuvininkas, XVI a.)]]
 - [[objektai/asmenys/J. Pilsudskis]]
 - [[objektai/asmenys/Jadvyga]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/asmenys/Jekaterina II]]
-- [Jogaila](../objektai/asmenys/Jogaila)
+- [Jogaila (Lenkijos karalius)](../objektai/asmenys/Jogaila)
 - [Jonas Mačiulis-Maironis](../objektai/asmenys/Jonas%20Ma%C4%8Diulis-Maironis)
 - [Jonas Černius](../objektai/asmenys/Jonas%20%C4%8Cernius)
 - [Julija Žymantienė-Žemaitė](../objektai/asmenys/Julija%20%C5%BDymantien%C4%97-%C5%BDemait%C4%97)
@@ -52,9 +52,9 @@ Objektų skaičius: 246.
 - [Juzefas Pilsudskis](../objektai/asmenys/Juzefas%20Pilsudskis)
 - [Konstantinas Ostrogiškis](../objektai/asmenys/Konstantinas%20Ostrogi%C5%A1kis)
 - [Kristijonas Gotlibas Milkus](../objektai/asmenys/Kristijonas%20Gotlibas%20Milkus)
-- [Kęstutis](../objektai/asmenys/K%C4%99stutis)
+- [Kęstutis (vakarų pasienio valdovas, XIV–XV a.)](../objektai/asmenys/K%C4%99stutis)
 - [Michailas Gorbačiovas](../objektai/asmenys/Michailas%20Gorba%C4%8Diovas)
-- [Mikalojus Kristupas Radvila-Našlaitėlis](../objektai/asmenys/Mikalojus%20Kristupas%20Radvila-Na%C5%A1lait%C4%97lis)
+- [Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)](../objektai/asmenys/Mikalojus%20Kristupas%20Radvila-Na%C5%A1lait%C4%97lis)
 - [Mindaugas](../objektai/asmenys/Mindaugas)
 - [Mykolas Biržiška](../objektai/asmenys/Mykolas%20Bir%C5%BEi%C5%A1ka)
 - [Mykolas Sleževičius](../objektai/asmenys/Mykolas%20Sle%C5%BEevi%C4%8Dius)

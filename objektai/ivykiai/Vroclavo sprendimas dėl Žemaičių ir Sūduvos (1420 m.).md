@@ -44,26 +44,26 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-005
   teiginys: '1420 m. Vroclave imperatoriaus Zigmanto sprendimas dėl Žemaičių ir Sūduvos kryžiuočiams pripažino daugiau, negu jie patys buvo prašę.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Vytautas ir Jogaila po Vroclavo sprendimo pasiuntė į Vroclavą protestus, kuriuos gabeno Zbignievas Olesnickis.'
+- t-006
+  teiginys: 'Vytautas ir Jogaila po Vroclavo sprendimo tuojau pasiuntė protestus, kuriuos į Vroclavą gabeno Zbignievas Olesnickis.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-003
+- t-007
   teiginys: 'Jogaila apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo sprendimą.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'Melno taika panaikino imperatoriaus sprendimus, priimtus Budoje 1412 m. ir Vroclave 1420 m.'
+- t-008
+  teiginys: 'Melno taikos sąlygos anuliavo imperatoriaus sprendimus, priimtus Budoje 1412 m. ir Vroclave 1420 m.'
   pagrindžia:
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -71,7 +71,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Imperatorius Zigmantas Vroclave priėmė sprendimą, palankesnį kryžiuočiams, negu jie buvo prašę.'
+  santrauka: '1420 m. Vroclave imperatoriaus Zigmanto sprendimas dėl Žemaičių ir Sūduvos kryžiuočiams pripažino daugiau, negu jie patys buvo prašę.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tokis imperatoriaus sprendimas, kuris kryžiuočiams daugiau
@@ -80,41 +80,41 @@ Nenurodyta
     ištarmę, jiedu esą rėkę ir raudoję, kaip du sužeisti hutai^13. Pus­
     broliai tuojau į Vroclavą pasiuntė savo protestus, kuriuos ten ga­
     beno savo politinę karjerą pradedąs Zbignievas Olesnickis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-005
+    - t-006
 - c-002
-  santrauka: 'Imperatorius Zigmantas Vroclave priėmė sprendimą, palankesnį kryžiuočiams, negu jie buvo prašę.'
+  santrauka: 'Jogaila apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo sprendimą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Abu valdovai tačiau kratėsi tokio sprendimo. Jogaila tuojau
     apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo
     sprendimą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-007
 - c-003
-  santrauka: 'Imperatorius Zigmantas Vroclave priėmė sprendimą, palankesnį kryžiuočiams, negu jie buvo prašę.'
+  santrauka: 'Melno taikos sąlygos anuliavo imperatoriaus sprendimus, priimtus Budoje 1412 m. ir Vroclave 1420 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Melno taikos sąlygų įžeistas jautėsi ir pats imperatorius, nes
     buvo anuliuoti jo sprendimai (Budoje 1412, Vroclave 1420).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-008
 
 ## Ryšiai
 ### Teminiai klasteriai

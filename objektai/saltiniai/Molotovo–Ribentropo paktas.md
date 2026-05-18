@@ -52,14 +52,14 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
 - Vėlesniame pasakojime paktas susiejamas su Lietuvos okupacija, slaptųjų protokolų pasmerkimu ir Baltijos keliu.
 
 ## Teiginiai
-- t-014
+- t-016
   teiginys: 'LLL nariai daug dėmesio skyrė 1939 m. rugpjūčio 23 d. Vokietijos ir Sovietų Sąjungos pasirašytam Molotovo–Ribentropo paktui.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-015
-  teiginys: 'Lietuvos SSR Aukščiausiosios Tarybos valstybinė komisija pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius.'
+- t-017
+  teiginys: 'Lietuvos SSR Aukščiausiosios Tarybos komisija viešai pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -94,9 +94,9 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-014
+    - t-016
 - c-002
-  santrauka: 'Lietuvos SSR Aukščiausiosios Tarybos valstybinė komisija pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius.'
+  santrauka: 'Lietuvos SSR Aukščiausiosios Tarybos komisija viešai pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vladimiro Gulevičiaus nuotrauka
@@ -114,4 +114,4 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-015
+    - t-017

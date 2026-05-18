@@ -19,17 +19,15 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „Niekad, niekados".'
+  teiginys: 'Bajorija į kvietimą prisidėti prie Lietuvos atgaivinimo darbų atsakė straipsniais ir brošiūra su formule „Niekad, niekados“.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Griežčiausiai neigiamai atsakė Krokuvoje išleista brošiūra, pavadinta „Niekad, niekados" (Przenigdy").'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „Niekad, niekados".'
+  santrauka: 'Bajorija į kvietimą prisidėti prie Lietuvos atgaivinimo darbų atsakė straipsniais ir brošiūra su formule „Niekad, niekados“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tam tikslui buvo išleista net atskira A. Jakšto lenkiškai
@@ -37,25 +35,10 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
     jaunoji bajorų karta buvo kviečiama j bendrą Lietuvos atgaivi-
     nimo darbą. Tačiau mūsų bajorija daugybe straipsnių ir spe-
     cialia brošiūra atsakė: „Niekad, niekados".
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Griežčiausiai neigiamai atsakė Krokuvoje išleista brošiūra, pavadinta „Niekad, niekados" (Przenigdy").'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Griežčiausiai neigiamai at-
-    sakė Krokuvoje išleista brošiūra, pavadinta „Niekad, nie-
-    kados" (Przenigdy"). Apskritai mūsų bajorijos nusistatymas buvo
-    laikytis Lenkijos ir remti lenkų kalbos įsigalėjimą Lietuvoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

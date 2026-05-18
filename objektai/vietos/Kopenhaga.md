@@ -18,13 +18,15 @@ Kitais metais (1925 m.) Lenkija pasiūlė Lietuvai derybas dėl Nemuno atidarymo
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kitais metais (1925 m.) Lenkija pasiūlė Lietuvai derybas dėl Nemuno atidarymo Kopenhagoje.'
+  teiginys: '1925 m. Lenkija pasiūlė Lietuvai Kopenhagoje derėtis dėl Nemuno atidarymo.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kitais metais (1925 m.) Lenkija pasiūlė Lietuvai derybas dėl Nemuno atidarymo Kopenhagoje.'
+  santrauka: '1925 m. Lenkija pasiūlė Lietuvai Kopenhagoje derėtis dėl Nemuno atidarymo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kitais metais (1925 m.) Lenkija pasiūlė Lietuvai derybas dėl
@@ -33,11 +35,11 @@ Kitais metais (1925 m.) Lenkija pasiūlė Lietuvai derybas dėl Nemuno atidarymo
     Nemuną miško plukdymui, todėl pasiūlymą priėmė. Kopen-
     hagos derybos vėliau dar buvo tęsiamos Luganoj (Šveica-
     rijoje).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

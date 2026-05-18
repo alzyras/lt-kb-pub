@@ -25,7 +25,7 @@ tags:
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Bemaž visa Vilniaus gubernijos teritorija, suskirstyta į 11 apskričių, istoriniu etnografiniu požiūriu buvo lietuviška, taip pat ir Gardino gubernijos šiaurinis pakraštys.'
+  teiginys: 'Gardino gubernijos šiaurinis pakraštys istoriniu etnografiniu požiūriu buvo laikomas lietuvišku.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -59,7 +59,7 @@ tags:
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Bemaž visa Vilniaus gubernijos teritorija, suskirstyta į 11 apskričių, istoriniu etnografiniu požiūriu buvo lietuviška, taip pat ir Gardino gubernijos šiaurinis pakraštys.'
+  santrauka: 'Gardino gubernijos šiaurinis pakraštys istoriniu etnografiniu požiūriu buvo laikomas lietuvišku.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Bemaž visa Vilniaus gubernijos teritorija, suskirstyta į 11 apskričių,

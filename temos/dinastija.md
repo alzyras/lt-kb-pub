@@ -20,7 +20,7 @@ Objektų skaičius: 35.
 
 ### Asmenys
 - [[objektai/asmenys/Palemonas]]
-- [[objektai/asmenys/Stanislovas Augustas Poniatovskis]]
+- [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]
 - [[objektai/asmenys/Teodoras]]
 - [[objektai/asmenys/Žygimantas Augustas]]
 

@@ -31,7 +31,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pirmasis URM darbas buvo aiškintis Europos šalių reakciją į valstybės įvykius po konstitucijos paskelbimo.'
+  teiginys: 'Pirmasis URM darbas buvo aiškintis Europos šalių reakciją į įvykius valstybėje po konstitucijos paskelbimo.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -39,7 +39,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pirmasis URM darbas buvo aiškintis Europos šalių reakciją į valstybės įvykius po konstitucijos paskelbimo.'
+  santrauka: 'Pirmasis URM darbas buvo aiškintis Europos šalių reakciją į įvykius valstybėje po konstitucijos paskelbimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pirmasis URM darbas buvo aiškintis, kokia Europos šalių reak-

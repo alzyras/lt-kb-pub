@@ -40,20 +40,20 @@ tags: []
 Žalioji giria minima kartu su Juodąja gira kaip didžiojo šiaurinio kraštovaizdžio dalis. ; Žalioji giria minima kaip vieta, iš kurios Algirdas išpuolė su antra tiek joties.
 
 ## Teiginiai
-- t-001
-  teiginys: "Žalioji giria yra viena iš dviejų didžiųjų girijų šiame geografiniame aprašyme."
+- t-004
+  teiginys: 'Žalioji giria yra viena iš dviejų didžiųjų girijų šiame geografiniame aprašyme.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
-  teiginys: "Su Žaliąja giria siejama tolesnė lietuvių ir kitų tautų sklaida."
+- t-005
+  teiginys: 'Su Žaliąja giria siejama tolesnė lietuvių ir kitų tautų sklaida.'
   pagrindžia:
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-003
-  teiginys: "Algirdas su antra tiek joties iš Žaliosios girios išpuolė į priešus."
+- t-006
+  teiginys: 'Algirdas su antra tiek joties iš Žaliosios girios išpuolė į priešus.'
   pagrindžia:
     - c-003
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -61,7 +61,7 @@ tags: []
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: "Žalioji giria yra viena iš dviejų didžiųjų girijų šiame geografiniame aprašyme."
+  santrauka: 'Žalioji giria yra viena iš dviejų didžiųjų girijų šiame geografiniame aprašyme.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Reikia žinoti, jog tame pasaulio sluoksny, einančiame nuo šiaurės
@@ -76,9 +76,9 @@ tags: []
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-002
-  santrauka: "Su Žaliąja giria siejama tolesnė lietuvių ir kitų tautų sklaida."
+  santrauka: 'Su Žaliąja giria siejama tolesnė lietuvių ir kitų tautų sklaida.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Čia aš, trumpai parodęs notis Lietuvos tautos, žiloj senovėj nutikusias, ir šios dienos jos kraštą,
@@ -93,9 +93,9 @@ tags: []
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-005
 - c-003
-  santrauka: "Algirdas su antra tiek joties iš Žaliosios girios išpuolė į priešus."
+  santrauka: 'Algirdas su antra tiek joties iš Žaliosios girios išpuolė į priešus.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     iš Palangos girių, per Klaipėdą, o Algirdas su antra tiek iš Žaliosios girios per Įstrupį užsiautė užpakalį
@@ -107,7 +107,7 @@ tags: []
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

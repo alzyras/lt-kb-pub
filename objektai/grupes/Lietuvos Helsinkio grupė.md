@@ -34,7 +34,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '1976 m. gegužės 12 d. įkurta pirmoji Maskvos Helsinkio grupė, o tų pačių metų rudenį panaši grupė įsikūrė Vilniuje.'
+  teiginys: '1976 m. rudenį Vilniuje įsikūrė į Maskvos Helsinkio grupę panaši žmogaus teisių stebėjimo grupė.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -42,7 +42,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1976 m. gegužės 12 d. įkurta pirmoji Maskvos Helsinkio grupė, o tų pačių metų rudenį panaši grupė įsikūrė Vilniuje.'
+  santrauka: '1976 m. rudenį Vilniuje įsikūrė į Maskvos Helsinkio grupę panaši žmogaus teisių stebėjimo grupė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš kairės kunigai: Vincentas Vėlavičius,

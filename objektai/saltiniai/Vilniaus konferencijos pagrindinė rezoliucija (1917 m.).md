@@ -21,7 +21,7 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vilniaus konferencijos pagrindinė rezoliucija numatė, kad santykiai su Vokietija neturėtų kenkti Lietuvos interesams.'
+  teiginys: 'Vilniaus konferencijos pagrindinė rezoliucija leido tikslinti santykius su Vokietija, jeigu tai nekenktų Lietuvos interesams.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -31,7 +31,7 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Vilniaus konferencijos pagrindinė rezoliucija numatė, kad santykiai su Vokietija neturėtų kenkti Lietuvos interesams.'
+  santrauka: 'Vilniaus konferencijos pagrindinė rezoliucija leido tikslinti santykius su Vokietija, jeigu tai nekenktų Lietuvos interesams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jeigu Vokietija sutiktų pripažinti Lietuvos valstybę prieš Taikos konfe-

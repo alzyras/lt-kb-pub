@@ -42,13 +42,13 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
 Šaltinyje žodis aptariamas XVII a. kavalerijos taktikos kontekste, ypač kalbant apie švedų raitarus.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Karakolė šiame šaltinyje apibrėžiama kaip priekinės šaulių eilės iššovimo, pasisukimo ir persirikiavimo į rikiuotės galą seka.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Švedų raitarai šiame šaltinyje tiesiogiai siejami su karakoliavimo taktika.'
   pagrindžia:
     - c-002
@@ -57,7 +57,7 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Karakolė čia aiškinama kaip šaudymo ir persirikiavimo manevras.
+  santrauka: 'Karakolė šiame šaltinyje apibrėžiama kaip priekinės šaulių eilės iššovimo, pasisukimo ir persirikiavimo į rikiuotės galą seka.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Priekinė šaulių eilė, iššovusi salvę,
@@ -65,25 +65,26 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
     šoną žygiuoja į savo rikiuotės galą ir
     ten užtaiso ginklus, tai vadinamoji
     karakolė arba „sraigė“.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Karakoliavimo taktika susiejama su švedų raitarais.
+  santrauka: 'Švedų raitarai šiame šaltinyje tiesiogiai siejami su karakoliavimo taktika.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Švedų raitarai, pasikliaudami karakoliavimo taktika,
-  citata_rodoma: ''
+    P. Snayerso paveikslo „Salaspilio mūšis“ fragmente Švedij iu es raita tė
+    jau pašlijusi, netrukus prasidės bėgimas. Švedų raitarai, pasikliaudami karakoliavimo taktika,
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

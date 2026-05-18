@@ -23,14 +23,14 @@ Pagrindinė forma: `veldėmė`.
 Vartojamos formos: `veldėme`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Veldėmė` šiame tekste reiškia paveldimą žemės nuosavybę.'
   pagrindžia:
     - c-001
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Žemė laikoma šeimos ar įkūrėjo pelnu, kurį galima dovanoti.'
   pagrindžia:
     - c-001
@@ -39,7 +39,7 @@ Vartojamos formos: `veldėme`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Veldėmė` šiame tekste reiškia paveldimą žemės nuosavybę
+  santrauka: '`Veldėmė` šiame tekste reiškia paveldimą žemės nuosavybę.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Pirma žemė, arba gruntas, visuomenis buvo, ir, kurs kame buvo pragyvenęs, girios vidury namą
@@ -52,10 +52,10 @@ Vartojamos formos: `veldėme`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 - c-002
-  santrauka: `Veldėmė` šiame tekste reiškia paveldimą žemės nuosavybę
+  santrauka: '`Veldėmė` šiame tekste reiškia paveldimą žemės nuosavybę.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Dar Zigmantas III DLK, Augustu vadinamas, metuose 1557 savo
@@ -68,7 +68,7 @@ Vartojamos formos: `veldėme`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 
 ## Pastabos
 

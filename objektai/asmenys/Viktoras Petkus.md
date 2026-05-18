@@ -18,13 +18,13 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
 
 ## Teiginiai
 - t-001
-  teiginys: 'Viktoras Petkus buvo buvęs politinis kalinys ir priklausė grupei, palaikiusiai ryšius su žmogaus teisių gynimo grupėmis.'
+  teiginys: 'Viktoras Petkus buvo buvęs politinis kalinys ir priklausė grupei, palaikiusiai ryšius su žmogaus teisių gynėjais.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Sovietinė valdžia suėmė ir nuteisė disidentą Viktorą Petkų.'
+  teiginys: 'Sovietinė valdžia suėmė ir nuteisė Viktorą Petkų kaip vieną iš disidentų.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -32,7 +32,7 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Viktoras Petkus buvo buvęs politinis kalinys ir priklausė grupei, palaikiusiai ryšius su žmogaus teisių gynimo grupėmis.'
+  santrauka: 'Viktoras Petkus buvo buvęs politinis kalinys ir priklausė grupei, palaikiusiai ryšius su žmogaus teisių gynėjais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Grupei priklausė kun. Karolis Garuckas, fizi-
@@ -48,7 +48,7 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Sovietinė valdžia suėmė ir nuteisė disidentą Viktorą Petkų.'
+  santrauka: 'Sovietinė valdžia suėmė ir nuteisė Viktorą Petkų kaip vieną iš disidentų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietinė valdžia represijas prieš disidentus derino su dalinių

@@ -19,7 +19,7 @@ Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų –
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vytauto laikais raštijos poreikiai sparčiai didėjo, o lietuvių kalba dar nebuvo sukūrusi raštijos tradicijų.'
+  teiginys: 'Vytauto laikais didėjant raštijos poreikiams, lietuvių kalba dar neturėjo raštijos tradicijų.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -33,7 +33,7 @@ Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų –
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vytauto laikais raštijos poreikiai sparčiai didėjo, o lietuvių kalba dar nebuvo sukūrusi raštijos tradicijų.'
+  santrauka: 'Vytauto laikais didėjant raštijos poreikiams, lietuvių kalba dar neturėjo raštijos tradicijų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai lėmė

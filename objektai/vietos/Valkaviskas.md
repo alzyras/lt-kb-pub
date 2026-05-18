@@ -29,7 +29,7 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 
 ## Teiginiai
 - t-001
-  teiginys: 'Valkavisko apskritis 1917 m. Berno konferencijoje buvo įtraukta į „Lithuania Propria“ ribose svarstytą Lietuvos teritorijos projektą.'
+  teiginys: 'Valkavisko apskritis buvo įtraukta į Lietuvos teritorijos projektą, grindžiamą „Lithuania Propria“ ribomis.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -37,7 +37,7 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Valkavisko apskritis 1917 m. Berno konferencijoje buvo įtraukta į „Lithuania Propria“ ribose svarstytą Lietuvos teritorijos projektą.'
+  santrauka: 'Valkavisko apskritis buvo įtraukta į Lietuvos teritorijos projektą, grindžiamą „Lithuania Propria“ ribomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šaulys) bei užsienio lietuvių atstovai, pasisakyta

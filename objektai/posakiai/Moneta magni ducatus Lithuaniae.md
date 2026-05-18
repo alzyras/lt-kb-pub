@@ -20,47 +20,28 @@ Batoro piniguose yra parašas: „Moneta magni ducatus Lithuaniae"; Batoras jau 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Batoro piniguose yra parašas: „Moneta magni ducatus Lithuaniae"; Batoras jau mini ir Lenkų karaliaus titulą, o be to, visada greta Vyties, toje pačioje pinigo pusėje, yra ir Lenkijos erelis.'
+  teiginys: 'Visuose Stepono Batoro piniguose buvo parašas „Moneta magni ducatus Lithuaniae“.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Lenkijoje jo laikais nebuvo jokios kalyklos (kalykla buvo tik vad. karališkuosiuose Prūsuose); visuose jo piniguose yra parašas: „Moneta magni ducatus Lithuaniae".'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Batoro piniguose yra parašas: „Moneta magni ducatus Lithuaniae"; Batoras jau mini ir Lenkų karaliaus titulą, o be to, visada greta Vyties, toje pačioje pinigo pusėje, yra ir Lenkijos erelis.'
+  santrauka: 'Visuose Stepono Batoro piniguose buvo parašas „Moneta magni ducatus Lithuaniae“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visuose St. Batoro piniguose yra parašas: _„Mo-
     neta magni ducatus Lithuaniae";_ Batoras jau mini ir Lenkų karaliaus titulą,
     o be to, visada greta Vyties, toje pačioje pinigo pusėje, yra ir Lenkijos
     erelis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Lenkijoje jo laikais nebuvo jokios kalyklos (kalykla buvo tik vad. karališkuosiuose Prūsuose); visuose jo piniguose yra parašas: „Moneta magni ducatus Lithuaniae".'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Zigmanto Augusto laikais Lietuvoje
-    pinigų buvo nukalta labai daug ir įvairių. Lenkijoje jo laikais nebuvo
-    jokios kalyklos (kalykla buvo tik vad. karališkuosiuose Prūsuose); visuose
-    jo piniguose yra parašas: _„Moneta magni ducatus Lithuaniae"._
-    Vilniaus ka-
-    lyklos prižiūrėtoju 1545—1555 m. buvo rūmų iždininkas Jonas Liutomirskis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

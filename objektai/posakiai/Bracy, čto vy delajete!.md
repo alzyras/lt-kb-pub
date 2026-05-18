@@ -37,14 +37,8 @@ tags:
 - Brolyčiai, ką jūs darote! Savus šaudote!
 
 ## Teiginiai
-- t-001
-  teiginys: 'Ši frazė reiškia protestą prieš savų šaudymą.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Kartu pateikiamas ir lietuviškas šios frazės vertimas.'
+- t-003
+  teiginys: '„Bracy, čto vy delajete!“ buvo šaukiama protestuojant prieš savų šaudymą.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -52,7 +46,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata pateikia ir rusišką protesto frazę, ir jos lietuvišką išaiškinimą.
+  santrauka: '„Bracy, čto vy delajete!“ buvo šaukiama protestuojant prieš savų šaudymą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     šaukdamas: „Bracy, čto vy delajete! Streliajete svoich! Ja že s vami slu-
@@ -65,5 +59,4 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003

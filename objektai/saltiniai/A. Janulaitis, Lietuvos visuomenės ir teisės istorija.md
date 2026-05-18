@@ -18,21 +18,25 @@ Janulaitis, Lietuvos visuomenės ir teisės istorija (1916; parašyta sekant Št
 
 ## Teiginiai
 - t-001
-  teiginys: 'Janulaitis, Lietuvos visuomenės ir teisės istorija (1916; parašyta sekant Št.'
+  teiginys: 'A. Janulaičio „Lietuvos visuomenės ir teisės istorija“ 1916 m. parašyta sekant Št. Kutrzebos veikalo apie Lietuvos santvarką pavyzdžiu.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Janulaitis, Lietuvos visuomenės ir teisės istorija (1916; parašyta sekant Št.'
+  santrauka: 'A. Janulaičio „Lietuvos visuomenės ir teisės istorija“ 1916 m. parašyta sekant Št. Kutrzebos veikalo apie Lietuvos santvarką pavyzdžiu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _A. Janulaitis,_ Lietuvos visuomenės ir teisės istorija (1916; pa-
     rašyta sekant _Št. Kutrzebos_ Historja ustroju Polski w zarysie, II — Litwa).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

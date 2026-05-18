@@ -41,35 +41,16 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Lenkijos ir Lietuvos kariuomenė stovyklose apsisupdavo vežimais.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
+- t-003
   teiginys: 'Prie kelių praėjimų būdavo statomi artilerijos pabūklai, o už vežimų iškasamas ilgas ir platus griovys.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Lenkijos ir Lietuvos kariuomenė stovyklose apsisupdavo vežimais.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „Nenutylėsiu ir būdo, kuriuo ši kariuomenė paprastai įsikuria stovyklose, nes šis būdas
-    labai skiriasi nuo kitų ir dėl to pažymėtinas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Prie kelių praėjimų būdavo statomi artilerijos pabūklai, o už vežimų iškasamas ilgas ir platus griovys.
+  santrauka: 'Prie kelių praėjimų būdavo statomi artilerijos pabūklai, o už vežimų iškasamas ilgas ir platus griovys.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Susibūrusi į vieną vietą, visa kariuomenė ap-
@@ -83,4 +64,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003

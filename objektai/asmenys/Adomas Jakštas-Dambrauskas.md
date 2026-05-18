@@ -19,7 +19,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '1902 m. kun. Adomas Jakštas-Dambrauskas išleido lenkiškai knygelę, kurioje išdėstė jaunosios lietuvių kartos siekius ir programą, pageidaudamas, kad ir jaunoji Lietuvos bajorų karta aiškiai pasisakytų, kas ji – lietuviai ar lenkai.'
+  teiginys: '1902 m. Adomas Jakštas-Dambrauskas lenkiškai išleido knygelę apie jaunosios lietuvių kartos siekius ir programą.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1902 m. kun. Adomas Jakštas-Dambrauskas išleido lenkiškai knygelę, kurioje išdėstė jaunosios lietuvių kartos siekius ir programą, pageidaudamas, kad ir jaunoji Lietuvos bajorų karta aiškiai pasisakytų, kas ji – lietuviai ar lenkai.'
+  santrauka: '1902 m. Adomas Jakštas-Dambrauskas lenkiškai išleido knygelę apie jaunosios lietuvių kartos siekius ir programą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1902 m. kun.

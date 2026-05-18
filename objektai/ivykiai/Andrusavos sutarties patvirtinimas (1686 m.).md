@@ -32,24 +32,26 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Buvo patvirtinta (1686 m.) Andrusavos sutartis su didelėmis nuolaidomis Maskvai, tačiau caras prie karo su Turkais neprisidėjo.'
+  teiginys: '1686 m. Andrusavos sutartis buvo patvirtinta su didelėmis nuolaidomis Maskvai, tačiau caras neprisidėjo prie karo su turkais.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Buvo patvirtinta (1686 m.) Andrusavos sutartis su didelėmis nuolaidomis Maskvai, tačiau caras prie karo su Turkais neprisidėjo.'
+  santrauka: '1686 m. Andrusavos sutartis buvo patvirtinta su didelėmis nuolaidomis Maskvai, tačiau caras neprisidėjo prie karo su turkais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ruošdamasis koalicijai prieš Turkus, Sobieskis padarė am-
     žinąją taiką su Maskva. Buvo patvirtinta (1686 m.)
     Andrusavos sutartis su didelėmis nuolaidomis Maskvai, tačiau
     caras prie karo su Turkais neprisidėjo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

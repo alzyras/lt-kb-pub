@@ -61,7 +61,7 @@ Naudoti ūkininkų aprūpinimui ir žemės ūkio našumui didinti.
 Nenurodyta
 
 ## Teiginiai
-- t-005
+- t-006
   teiginys: 'Žemės ūkyje pradėtos naudoti organinės ir mineralinės trąšos, pagerėjo javų derlingumas (nuo 9 cnt prieš karą iki 12 cnt ketvirtajame dešimtmetyje).'
   pagrindžia:
     - c-001
@@ -84,7 +84,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-006
 
 ## Šaltiniai ir įrodymai
 

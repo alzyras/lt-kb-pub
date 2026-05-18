@@ -55,19 +55,19 @@ Naudojimas tiesiogiai neaprašytas; šaltinis mini teoriją, brėžinius ir ryš
 Nenurodyta
 
 ## Teiginiai
-- t-004
-  teiginys: 'K. Semenavičiaus veikale išdėstyta daugiapakopių raketų teorija.'
+- t-007
+  teiginys: 'K. Semenavičiaus veikale buvo išdėstyta daugiapakopių raketų teorija.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: 'K. Semenavičiaus raketų brėžiniai siejami su Amsterdamu ir 1650 m.'
+- t-008
+  teiginys: 'K. Semenavičiaus raketų brėžiniai buvo publikuoti Amsterdame 1650 m.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-006
+- t-009
   teiginys: 'K. Semenavičiaus veikale „Artis magnae artilleriae“ išdėstyta daugiapakopių raketų teorija.'
   pagrindžia:
     - c-001
@@ -91,9 +91,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-009
 - c-002
-  santrauka: 'K. Semenavičiaus veikale išdėstyta daugiapakopių raketų teorija.'
+  santrauka: 'K. Semenavičiaus veikale buvo išdėstyta daugiapakopių raketų teorija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jame randame šiuolaikinės artilerijos
@@ -105,9 +105,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-007
 - c-003
-  santrauka: 'K. Semenavičiaus raketų brėžiniai siejami su Amsterdamu ir 1650 m.'
+  santrauka: 'K. Semenavičiaus raketų brėžiniai buvo publikuoti Amsterdame 1650 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo XIV a. ryčiausias Europoje du amžius
@@ -118,7 +118,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-008
 
 ## Šaltiniai ir įrodymai
 

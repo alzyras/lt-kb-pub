@@ -35,27 +35,6 @@ Targovicos konfederacijos aktas apibūdinamas kaip Peterburge subrendęs ir sura
 - Surašymo kontekstas: Peterburgas.
 
 ## Teiginiai
-- t-005
-  teiginys: 'Targovicos konfederacijos aktas siejamas su aršiausių reformų priešininkų opozicija, kurios lizdas buvo Peterburge.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 
 ## Bibliografiniai įrodymai
-- c-001
-  santrauka: 'Targovicos konfederacijos aktas siejamas su aršiausių reformų priešininkų opozicija, kurios lizdas buvo Peterburge.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau
-    opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius
-    reformų priešininkus.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005

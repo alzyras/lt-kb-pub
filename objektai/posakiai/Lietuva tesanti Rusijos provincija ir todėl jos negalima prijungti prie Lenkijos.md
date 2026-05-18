@@ -18,13 +18,15 @@ Tiek Aleksandras I, tiek Mikalojus I (1825— 1855 m.) visada atsakydavo, kad Li
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tiek Aleksandras I, tiek Mikalojus I (1825— 1855 m.) visada atsakydavo, kad Lietuva tesanti Rusijos provincija ir todėl jos negalima prijungti prie Lenkijos.'
+  teiginys: 'Aleksandras I ir Mikalojus I atsakydavo, kad Lietuva esanti Rusijos provincija ir todėl jos negalima prijungti prie Lenkijos.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tiek Aleksandras I, tiek Mikalojus I (1825— 1855 m.) visada atsakydavo, kad Lietuva tesanti Rusijos provincija ir todėl jos negalima prijungti prie Lenkijos.'
+  santrauka: 'Aleksandras I ir Mikalojus I atsakydavo, kad Lietuva esanti Rusijos provincija ir todėl jos negalima prijungti prie Lenkijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tiek Aleksand-
@@ -33,10 +35,10 @@ Tiek Aleksandras I, tiek Mikalojus I (1825— 1855 m.) visada atsakydavo, kad Li
     kad Lietuva tesanti Rusijos
     provincija ir todėl jos negalima
     prijungti prie Lenkijos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -41,8 +41,8 @@ tags: []
 - Data: 1650 m.
 
 ## Teiginiai
-- t-007
-  teiginys: 'K. Semenavičiaus veikalo „Artis magnae artilleriae“ frontispisas datuojamas 1650 m.'
+- t-008
+  teiginys: 'K. Semenavičiaus veikalo „Artis magnae artilleriae“ frontispisas buvo datuojamas 1650 m.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -52,7 +52,7 @@ tags: []
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'K. Semenavičiaus veikalo „Artis magnae artilleriae“ frontispisas datuojamas 1650 m.'
+  santrauka: 'K. Semenavičiaus veikalo „Artis magnae artilleriae“ frontispisas buvo datuojamas 1650 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš šių
@@ -72,4 +72,4 @@ tags: []
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
+    - t-008

@@ -21,25 +21,25 @@ Pagrindinė forma: `valdymieras`.
 Vartojamos formos: `valdymierais`, `valdymierai`.
 
 ## Teiginiai
-- t-001
+- t-005
   teiginys: '`Valdymieras` čia reiškia valdovą arba aukščiausią viešpatį.'
-  pagrindžia:
-    - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Terminas gali būti vartojamas tiek dieviškos, tiek politinės valdžios prasme.'
   pagrindžia:
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-003
+- t-006
+  teiginys: 'Terminas gali būti vartojamas tiek dieviškos, tiek politinės valdžios prasme.'
+  pagrindžia:
+    - c-001
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-007
   teiginys: '`Valdymierai` šiame tekste reiškia tautų valdovus.'
   pagrindžia:
     - c-003
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-004
+- t-008
   teiginys: 'Jiems priskiriamas svetimų parėdymų įvedimas siekiant padidinti valdžią.'
   pagrindžia:
     - c-003
@@ -48,7 +48,21 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Valdymieras` čia reiškia valdovą arba aukščiausią viešpatį
+  santrauka: 'Terminas gali būti vartojamas tiek dieviškos, tiek politinės valdžios prasme.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    kaipo tą rodo pačios karės, kurias senovėj su persų viešpačiais ir su grekonų
+    valdymierais^79 turėjo; jog yra buvusi didžiai turtinga, akyla ir sugebanti, jei išgalėjo stengti^80 prieš
+    taip stiprius ir narsius neprietelius,
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+- c-002
+  santrauka: '`Valdymieras` čia reiškia valdovą arba aukščiausią viešpatį.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Jei netyčiomis jis
@@ -61,23 +75,9 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: Terminas gali būti vartojamas tiek dieviškos, tiek politinės valdžios prasme
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    kaipo tą rodo pačios karės, kurias senovėj su persų viešpačiais ir su grekonų
-    valdymierais^79 turėjo; jog yra buvusi didžiai turtinga, akyla ir sugebanti, jei išgalėjo stengti^80 prieš
-    taip stiprius ir narsius neprietelius,
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
+    - t-005
 - c-003
-  santrauka: `Valdymierai` šiame tekste reiškia tautų valdovus
+  santrauka: '`Valdymierai` šiame tekste reiškia tautų valdovus.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     nesgi anie tankiai regėjo per prityrimą, jog valdymierai tautų dėl to vien kartais
@@ -89,8 +89,8 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-    - t-004
+    - t-007
+    - t-008
 
 ## Pastabos
 

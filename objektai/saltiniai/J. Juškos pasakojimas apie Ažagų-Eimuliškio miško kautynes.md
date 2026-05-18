@@ -35,34 +35,17 @@ Prisimena mūšio dalyvis J. Juška:. Prieš kokią valandą iki mūšio, - toli
 - Prisimena mūšio dalyvis J. Juška:.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Prisimena mūšio dalyvis J. Juška:.'
+- t-003
+  teiginys: 'Prieš kokią valandą iki mūšio, - toliau prisimena J. Juška, - labai žemai virš medžių viršūnių praskrido lėktuvas. Taip, matyt, jie nustatė mūsų buvimo vietas. Jei būtume žinoję, kad mus ruošiasi pulti kariuomenė, būtume išsisklaidę ir pasitraukę tolyn... Netrukus miško link pradėjo važiuoti tanketės, sunkvežimiai, gurguolės, o lėktuvas vėl ėmė skraidyti virš miško. Nebebuvo laiko slėptis, reikėjo ruoštis gynybai. Mūšis prasidėjo ankstų rytą. Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką stengėsi išsiveržti iš apsupties zonos (miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės). Mūšis truko iki pavakario. Išvykdami raudonieji susirinko savo žuvusiuosius, susikrovė į sunkvežimius ir išsivežė. Mūsiškius paliko miške.“.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Prieš kokią valandą iki mūšio, - toliau prisimena J. Juška, - labai žemai virš medžių viršūnių praskrido lėktuvas. Taip, matyt, jie nustatė mūsų buvimo vietas. Jei būtume žinoję, kad mus ruošiasi pulti kariuomenė, būtume išsisklaidę ir pasitraukę tolyn... Netrukus miško link pradėjo važiuoti tanketės, sunkvežimiai, gurguolės, o lėktuvas vėl ėmė skraidyti virš miško. Nebebuvo laiko slėptis, reikėjo ruoštis gynybai. Mūšis prasidėjo ankstų rytą. Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką stengėsi išsiveržti iš apsupties zonos (miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės). Mūšis truko iki pavakario. Išvykdami raudonieji susirinko savo žuvusiuosius, susikrovė į sunkvežimius ir išsivežė. Mūsiškius paliko miške.“.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Prisimena mūšio dalyvis J. Juška:.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Prisimena mūšio dalyvis J. Juška:
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
-  pagrindžia:
-    - t-001
 
-- c-002
+## Bibliografiniai įrodymai
+- c-001
   santrauka: 'Prieš kokią valandą iki mūšio, - toliau prisimena J. Juška, - labai žemai virš medžių viršūnių praskrido lėktuvas. Taip, matyt, jie nustatė mūsų buvimo vietas. Jei būtume žinoję, kad mus ruošiasi pulti kariuomenė, būtume išsisklaidę ir pasitraukę tolyn... Netrukus miško link pradėjo važiuoti tanketės, sunkvežimiai, gurguolės, o lėktuvas vėl ėmė skraidyti virš miško. Nebebuvo laiko slėptis, reikėjo ruoštis gynybai. Mūšis prasidėjo ankstų rytą. Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką stengėsi išsiveržti iš apsupties zonos (miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės). Mūšis truko iki pavakario. Išvykdami raudonieji susirinko savo žuvusiuosius, susikrovė į sunkvežimius ir išsivežė. Mūsiškius paliko miške.“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -89,6 +72,6 @@ Prisimena mūšio dalyvis J. Juška:. Prieš kokią valandą iki mūšio, - toli
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003

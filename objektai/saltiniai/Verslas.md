@@ -18,7 +18,7 @@ Ketvirtajame dešimtmetyje gana agresyviai žydų prekybininkus ėmė puldinėti
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ketvirtajame dešimtmetyje laikraštis „Verslas“ agresyviai puldinėjo žydų prekybininkus ir kėlė šūkį „Lietuva lietuviams“.'
+  teiginys: 'Ketvirtajame dešimtmetyje verslininkai laikraštyje „Verslas“ agresyviai puldinėjo žydų prekybininkus ir kėlė šūkį „Lietuva lietuviams“.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -28,7 +28,7 @@ Ketvirtajame dešimtmetyje gana agresyviai žydų prekybininkus ėmė puldinėti
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Ketvirtajame dešimtmetyje laikraštis „Verslas“ agresyviai puldinėjo žydų prekybininkus ir kėlė šūkį „Lietuva lietuviams“.'
+  santrauka: 'Ketvirtajame dešimtmetyje verslininkai laikraštyje „Verslas“ agresyviai puldinėjo žydų prekybininkus ir kėlė šūkį „Lietuva lietuviams“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ketvir-

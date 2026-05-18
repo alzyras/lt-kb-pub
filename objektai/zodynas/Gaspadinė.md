@@ -22,14 +22,14 @@ Pagrindinė forma: `gaspadinė`.
 Vartojamos formos: `gaspadinę`, `viešne`, `viešnė`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Gaspadinė` šiame tekste reiškia vestuvių šeimininkę ar vaišių tvarkytoją.'
   pagrindžia:
     - c-001
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: '`Viešnė` yra to paties vaidmens sinonimas.'
   pagrindžia:
     - c-001
@@ -38,7 +38,7 @@ Vartojamos formos: `gaspadinę`, `viešne`, `viešnė`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Gaspadinė` šiame tekste reiškia vestuvių šeimininkę ar vaišių tvarkytoją
+  santrauka: '`Gaspadinė` šiame tekste reiškia vestuvių šeimininkę ar vaišių tvarkytoją.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     tarp motriškųjų viena buvo paskirta už gaspadinę, kuri viešne^442
@@ -70,10 +70,10 @@ Vartojamos formos: `gaspadinę`, `viešne`, `viešnė`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 - c-002
-  santrauka: `Gaspadinė` šiame tekste reiškia vestuvių šeimininkę ar vaišių tvarkytoją
+  santrauka: '`Gaspadinė` šiame tekste reiškia vestuvių šeimininkę ar vaišių tvarkytoją.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Ryto metą vakarop, atkeliavus jaunajam su vėdliais į jaunosios tėvo namus, linksminos ir gėrė
@@ -86,7 +86,7 @@ Vartojamos formos: `gaspadinę`, `viešne`, `viešnė`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 
 ## Pastabos
 

@@ -32,43 +32,47 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1639 m. tyčia ar netyčia iš kalvinų bažnyčios šventoriaus kažkas įšovė pro langą į pranciškonių vienuolyno bažnyčią.'
+  teiginys: '1639 m. po šūvio iš kalvinų bažnyčios šventoriaus į pranciškonių bažnyčią Vilniaus minia apgriovė kalvinų bažnyčią.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Paskui prasidėjo ilga byla, ir galų gale seimo sprendimu kalvinų bažnyčia Vilniuje buvo nugriauta.'
+  teiginys: 'Po ilgos bylos seimas nusprendė nugriauti Vilniaus kalvinų bažnyčią, o 1640 m. kita kalvinų bažnyčia pastatyta už miesto.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1639 m. tyčia ar netyčia iš kalvinų bažnyčios šventoriaus kažkas įšovė pro langą į pranciškonių vienuolyno bažnyčią.'
+  santrauka: '1639 m. po šūvio iš kalvinų bažnyčios šventoriaus į pranciškonių bažnyčią Vilniaus minia apgriovė kalvinų bažnyčią.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1639 m. tyčia ar netyčia iš kalvinų bažnyčios šventoriaus kaž-
     kas įšovė pro langą į pranciškonių vienuolyno bažnyčią. Mieste
     tuojau kilo triukšmas: kalvinai buvo apkaltinti išniekinę baž-
     nyčią, ir minia už tai apgriovė jų bažnyčią.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Paskui prasidėjo ilga byla, ir galų gale seimo sprendimu kalvinų bažnyčia Vilniuje buvo nugriauta.'
+  santrauka: 'Po ilgos bylos seimas nusprendė nugriauti Vilniaus kalvinų bažnyčią, o 1640 m. kita kalvinų bažnyčia pastatyta už miesto.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Paskui prasidėjo
     ilga byla, ir galų gale seimo sprendimu kalvinų bažnyčia Vil-
     niuje buvo nugriauta. Kita kalvinų bažnyčia buvo pastatyta už
     miesto (1640 m.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

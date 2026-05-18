@@ -34,13 +34,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jono Kazimiero pinigai: 35 — šilingas; 36 — trečiokas; 37 — šeštokas; 38 — orta (=18 skatikų); 39 — pusdukatis (auksinis); 40 — dukatas.'
+  teiginys: 'Jono Kazimiero pinigų rūšys buvo šilingas, trečiokas, šeštokas, orta, pusdukatis ir dukatas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jono Kazimiero pinigai: 35 — šilingas; 36 — trečiokas; 37 — šeštokas; 38 — orta (=18 skatikų); 39 — pusdukatis (auksinis); 40 — dukatas.'
+  santrauka: 'Jono Kazimiero pinigų rūšys buvo šilingas, trečiokas, šeštokas, orta, pusdukatis ir dukatas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Jono Kazimiero** pinigai: 35 — _šilingas;_ 36 — _trečiokas;_ 37 — _šeštokas;_
@@ -52,11 +54,11 @@ Nenurodyta
     įvairūs. Įvairūs jie buvo ir pagal vertę. Be matomų lentelėje (35—40 nr.),
     dar buvo kalami _variniai šilingai_ (tai buvo iš viso pirmieji lietuviški vario
     pinigai), _skatikai, pusantraskatikiai_ ir _auksinai._
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

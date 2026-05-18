@@ -62,5 +62,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/paprociai/Kandidatas 1 Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai]]
 - [[objektai/paprociai/Kandidatas Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai]]

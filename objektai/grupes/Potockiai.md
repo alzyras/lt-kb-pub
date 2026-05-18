@@ -20,13 +20,15 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Šitokioje būklėje dėl valdžios kovojančios Čartoriskių ir Potockių partijos gerai suprato reformų reikalą, bet kiekviena tuo tarpu apie tai nekalbėjo.'
+  teiginys: 'Dėl valdžios kovojusios Čartoriskių ir Potockių partijos suprato reformų reikalingumą, bet iš pradžių apie jas nekalbėjo.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šitokioje būklėje dėl valdžios kovojančios Čartoriskių ir Potockių partijos gerai suprato reformų reikalą, bet kiekviena tuo tarpu apie tai nekalbėjo.'
+  santrauka: 'Dėl valdžios kovojusios Čartoriskių ir Potockių partijos suprato reformų reikalingumą, bet iš pradžių apie jas nekalbėjo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Partijos ir reformų klausimas.** Šitokioje būklėje dėl valdžios
@@ -43,11 +45,11 @@ tags:
     kurstomą bajoriją. Ir kai, mirus Augustui III, Čartoriskiai Rusų
     padedami pasidarė vieninteliais viešpačiais, tik tada buvo galima
     imtis reformų. Jie tas reformas ir pradėjo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

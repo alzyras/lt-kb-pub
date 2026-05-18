@@ -21,13 +21,15 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante, ir laikydavosi vieningai.'
+  teiginys: 'Lietuvos atstovai elekcijos metu sustodavo Varšuvos priemiestyje Pragoje, dešiniajame Vyslos krante.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante, ir laikydavosi vieningai.'
+  santrauka: 'Lietuvos atstovai elekcijos metu sustodavo Varšuvos priemiestyje Pragoje, dešiniajame Vyslos krante.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet į elekciją, žinoma, susirinkdavo ne visi, o tik arti-
@@ -36,10 +38,10 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     seimo atstovai. Jie visada sustodavo Varšuvos priemiestyje,
     Pragoje, dešiniajam Vyslos krante, ir laikydavosi vieningai. Tad
     iš tikrųjų būdavo renkama ne bendrai, o buvo du rinkėjai —
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -52,8 +52,8 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-005
-  teiginys: 'III Seimo naujoji valdančioji dauguma siekė šalyje įdiegti visateisę demokratinę santvarką.'
+- t-006
+  teiginys: '1926 m. birželio 17 d. III Seimo dauguma panaikino karo padėtį, amnestavo politinius kalinius, panaikino spaudos apribojimus ir leido laisvai rengti susirinkimus.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -61,7 +61,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'III Seimo naujoji valdančioji dauguma siekė šalyje įdiegti visateisę demokratinę santvarką.'
+  santrauka: '1926 m. birželio 17 d. III Seimo dauguma panaikino karo padėtį, amnestavo politinius kalinius, panaikino spaudos apribojimus ir leido laisvai rengti susirinkimus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
@@ -77,7 +77,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai

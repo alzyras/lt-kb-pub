@@ -33,23 +33,23 @@ tags:
 Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimis. Parusėnai buvo lenkų puolami, atsakydami teriojo jų kraštą, o po to prieš juos buvo pasitelkti kryžiuočiai.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimis.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Parusėnai buvo lenkų puolami, atsakydami teriojo jų kraštą, o po to prieš juos buvo pasitelkti kryžiuočiai.'
   pagrindžia:
-    - c-002
     - c-003
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimis.
+  santrauka: 'Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimis.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Nuo ko gal manyti, jog, visiems žemlionims traukiant į karę, didi kariauna turėjo būti, ką
@@ -64,9 +64,25 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Parusėnai buvo lenkų puolami, atsakydami teriojo jų kraštą, o po to prieš juos buvo pasitelkti kryžiuočiai.
+  santrauka: 'Parusėnai buvo lenkų puolami, atsakydami teriojo jų kraštą, o po to prieš juos buvo pasitelkti kryžiuočiai.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    lietuviai,
+    kalnėnai ir žemaičiai, žuvo dieną ir naktį, nenorėdami jiems vergauti ir jų gyvuliais būti taip, kaip jau
+    vergavo jų broliai kraugeriams vokiečiams Parusy, Žemgaliuose, arba Kurše, ir Padaugavy, kruviną
+    prakaitą dieną naktį braukdami; todėl tankiai, krikščionų kunigą sugavę, perskėlė aukštai dvišakį
+    medį augantį ir tenai kunigo kaklą įdėjo į spraskilą^1347 , kursai svimburdamas^1348 tenai nusigalavo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-003
+  santrauka: 'Parusėnai buvo lenkų puolami, atsakydami teriojo jų kraštą, o po to prieš juos buvo pasitelkti kryžiuočiai.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tam nutikus Padaugavy, nuo vakarų vėl lenkai, norėdami Išlos įtaką
@@ -85,23 +101,7 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: Parusėnai buvo lenkų puolami, atsakydami teriojo jų kraštą, o po to prieš juos buvo pasitelkti kryžiuočiai.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    lietuviai,
-    kalnėnai ir žemaičiai, žuvo dieną ir naktį, nenorėdami jiems vergauti ir jų gyvuliais būti taip, kaip jau
-    vergavo jų broliai kraugeriams vokiečiams Parusy, Žemgaliuose, arba Kurše, ir Padaugavy, kruviną
-    prakaitą dieną naktį braukdami; todėl tankiai, krikščionų kunigą sugavę, perskėlė aukštai dvišakį
-    medį augantį ir tenai kunigo kaklą įdėjo į spraskilą^1347 , kursai svimburdamas^1348 tenai nusigalavo.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

@@ -41,13 +41,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Sunkiąją kavaleriją sudarė raiti kariai, apkaustyti tvirtais metaliniais šarvais nuo galvos iki kojų, šarvuodavę net arklius.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Lengvosios kavalerijos šarvai buvo lengvesni, dengė pečius ir krūtinę, o galvas saugojo šalmai.'
   pagrindžia:
     - c-002
@@ -56,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Sunkiosios kavalerijos šarvai apibūdinami kaip viso kūno metalinė apsauga.
+  santrauka: 'Sunkiąją kavaleriją sudarė raiti kariai, apkaustyti tvirtais metaliniais šarvais nuo galvos iki kojų, šarvuodavę net arklius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kavalerija būdavo sunkiai ir lengvai ginkluota. Sunkiąją
@@ -68,13 +68,13 @@ Nenurodyta
     laiku jiems būdavo labai sunku.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Lengvosios kavalerijos apsauga aprašoma kaip kuklesnė ir mobilesnė.
+  santrauka: 'Lengvosios kavalerijos šarvai buvo lengvesni, dengė pečius ir krūtinę, o galvas saugojo šalmai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lengvoji kavalerija buvo pa­
@@ -85,8 +85,8 @@ Nenurodyta
     dengti.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004

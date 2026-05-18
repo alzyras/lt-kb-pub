@@ -23,6 +23,8 @@ Todėl 1404 m. Racionže (Lenkijoje) buvo padaryta nauja taika su ordinu.
   teiginys: 'Todėl 1404 m. Racionže (Lenkijoje) buvo padaryta nauja taika su ordinu.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -35,14 +37,10 @@ Todėl 1404 m. Racionže (Lenkijoje) buvo padaryta nauja taika su ordinu.
     buvo atiduoti ordinui, bet sutartyje buvo įrašytas vienas Vytau-
     tui labai naudingas nuostatas, — kad jis galėsiąs pasiimti iš Že-
     maičių 250 gyventojų. Tatai jam vėliau labai pravertė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Racionžo taika (1404 m.)]]

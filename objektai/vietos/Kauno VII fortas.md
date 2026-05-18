@@ -19,7 +19,7 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos laikinoji vyriausybė, steigdama konclagerį Kauno VII forte, siekė nuolaidų iš nacių Vokietijos.'
+  teiginys: 'Lietuvos laikinoji vyriausybė konclagerio steigimu Kauno VII forte siekė nuolaidų iš nacių Vokietijos.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -33,7 +33,7 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvos laikinoji vyriausybė, steigdama konclagerį Kauno VII forte, siekė nuolaidų iš nacių Vokietijos.'
+  santrauka: 'Lietuvos laikinoji vyriausybė konclagerio steigimu Kauno VII forte siekė nuolaidų iš nacių Vokietijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pati

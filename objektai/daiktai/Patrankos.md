@@ -36,188 +36,40 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Nuo Vytauto laikų Lietuvoje buvo liejami pabūklai.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: Ankstyvuoju parakinių pabūklų raidos etapu jie geriau tiko tvirtovių apguloms negu atviriems mūšiams.
+- t-010
+  teiginys: 'XV a. patrankos buvo griozdiškos, didelės, sunkiai pervežamos ir labiau tiko tvirtovėms griauti.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 1382 m. lietuviai, puldami kryžiuočių pilį, panaudojo artileriją.
+- t-011
+  teiginys: 'Žalgirio mūšyje patrankos buvo vartotos tik pradžioje.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 1397 m. pradžioje Vytautas siuntė pabūklus Kijevui įtvirtinti.
+- t-012
+  teiginys: 'Prie Drevencos kryžiuočiai sustiprino upės krantus ir apstatė juos patrankomis.'
   pagrindžia:
     - c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-
-- t-005
-  teiginys: 'XV a. patrankos buvo griozdiškos, didelės, sunkiai pervežamos ir labiau tiko tvirtovėms griauti.'
+- t-013
+  teiginys: 'Žalgirio mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet sąjungininkų sumišimo nesukėlė.'
   pagrindžia:
     - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-006
-  teiginys: 'Žalgirio mūšyje patrankos buvo vartotos tik pradžioje.'
+- t-014
+  teiginys: 'Skirgaila Trakų piliai ginti iš maršalkos dovanų gavo keletą didelių armotų.'
   pagrindžia:
-    - c-006
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: 'Prie Drevencos kryžiuočiai sustiprino upės krantus ir apstatė juos patrankomis.'
-  pagrindžia:
-    - c-007
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Žalgirio mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet sąjungininkų sumišimo nesukėlė.'
-  pagrindžia:
-    - c-008
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-009
-  teiginys: 'Skirgaila Trakų piliai ginti gavo iš maršalkos keletą didelių armotų.'
-  pagrindžia:
-    - c-009
+    - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Nuo Vytauto laikų Lietuvoje buvo liejami pabūklai.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pagaliau pasibaigus karams su kryžiuo­
-    čiais (1422 m.—su Prūsų, 1435 m.—su Livonijos), prasidėjo vi­
-    daus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais
-    (Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­
-    netos, liejami pabūklai, varpai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-    - t-001
-    - t-001
-- c-002
-  santrauka: Ankstyvieji parakiniai pabūklai ypač pasiteisino tvirtovių apgulose.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    kovojančioms pusėms sueinant į artimą kovą. Tačiau jų efektyvu-
-    mas atviruose mūšiuose xIV-xv a. dar buvo minimalus. Parakiniai
-    pabūklai savo ankstyvojoje vystymosi stadijoje kur kas geriau už-
-    sirekomendavo tvirtovių apgulose.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: Pateikiamas pirmasis lietuvių artilerijos panaudojimo prieš kryžiuočių pilį atvejis.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1382 m. žinomas pirmas atvejis, kai lietuviai, puldami kryžiuočių
-    pilį, panaudojo artileriją. Vokiečių pabūklai Baltijos regione pirmą
-    kartą minimi vos 20 metų ankščiau.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: Vytauto pasirengimas žygiui siejamas su pabūklų siuntimu Kijevui įtvirtinti.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tam ruošdamasis dar
-    1397 m. pradžioje Vytautas siuntė pabūklus
-    Kijevui įtvirtinti, rengė žvalgomuosius-pa-
-    rengiamuosius žygius.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: XV a. patrankos apibūdinamos kaip didelės ir nepatogios atviram mūšiui.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Artilerija XV šm. dar buvo labai netobula ir ne visuose ka­
-    ruose pritaikoma. Patrankos buvo griozdiškos, didelės, sun­
-    kiai pervežamos, todėl jos labiau tiko tvirtovėms griauti ir pi­
-    lims imti. Šoviniai patrankoms buvo daromi iš akmens arba
-    švino. Patrankos padarydavo daug triukšmo, bet maža nau­
-    dos.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: Žalgirio mūšyje patrankos panaudotos tik pačioje pradžioje.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Nors Žalgirio mūšyje patrankų buvo, bet jas mažai, tik
-    pradžioje tevartojo.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006
-- c-007
-  santrauka: Drevencos perėja buvo apstatyta kryžiuočių patrankomis.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­
-    niku. Čia pastebėjo, kad perėjimas per tą upę jau kryžiuočių
-    buvo saugojamas. Jie čia jau buvo atvykę iš Sviečės, sustipri­
-    nę upės krantus ir apstatę juos patrankomis.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-007
-- c-008
-  santrauka: Žalgirio pradžioje patrankų salvės sąjungininkų nesutrikdė.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pirmiausia kautynės prasidėjo ietimis, o paskui į darbą ėjo kir­
-    viai, kardai ir kiti ginklai. Tiesa, pačioje mūšio pradžioje kry­
-    žiuočiai iššovė porą kartų iš patrankų, bet jos sumišimo sąjun­
-    gininkų kariuomenėj nesukėlė.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
-- c-009
-  santrauka: Skirgaila Trakams gavo didelių armotų.
+  santrauka: 'Skirgaila Trakų piliai ginti iš maršalkos dovanų gavo keletą didelių armotų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Patvirtinus tą aktą savo antspaudomis Baigos, Bran­
@@ -238,7 +90,67 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-009
+    - t-014
+- c-002
+  santrauka: 'XV a. patrankos buvo griozdiškos, didelės, sunkiai pervežamos ir labiau tiko tvirtovėms griauti.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Artilerija XV šm. dar buvo labai netobula ir ne visuose ka­
+    ruose pritaikoma. Patrankos buvo griozdiškos, didelės, sun­
+    kiai pervežamos, todėl jos labiau tiko tvirtovėms griauti ir pi­
+    lims imti. Šoviniai patrankoms buvo daromi iš akmens arba
+    švino. Patrankos padarydavo daug triukšmo, bet maža nau­
+    dos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
+- c-003
+  santrauka: 'Žalgirio mūšyje patrankos buvo vartotos tik pradžioje.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Nors Žalgirio mūšyje patrankų buvo, bet jas mažai, tik
+    pradžioje tevartojo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-011
+- c-004
+  santrauka: 'Prie Drevencos kryžiuočiai sustiprino upės krantus ir apstatė juos patrankomis.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­
+    niku. Čia pastebėjo, kad perėjimas per tą upę jau kryžiuočių
+    buvo saugojamas. Jie čia jau buvo atvykę iš Sviečės, sustipri­
+    nę upės krantus ir apstatę juos patrankomis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-012
+- c-005
+  santrauka: 'Žalgirio mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet sąjungininkų sumišimo nesukėlė.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pirmiausia kautynės prasidėjo ietimis, o paskui į darbą ėjo kir­
+    viai, kardai ir kiti ginklai. Tiesa, pačioje mūšio pradžioje kry­
+    žiuočiai iššovė porą kartų iš patrankų, bet jos sumišimo sąjun­
+    gininkų kariuomenėj nesukėlė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-013
 
 ## Ryšiai
 ### Susiję objektai

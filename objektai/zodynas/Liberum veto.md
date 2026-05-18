@@ -43,22 +43,22 @@ Sąvoka reiškia seimo nario teisę prieštaravimu sužlugdyti sprendimų priėm
 Terminas vartojamas tiek aiškinamajame pasakojime, tiek cituojamame politiniame tekste, o vėliau siejamas su Ketverių metų seimo reformomis.
 
 ## Teiginiai
-- t-003
-  teiginys: Konfederaciniuose seimuose veto teisė nebeveikė, nes sprendimai buvo priimami balsų dauguma.
+- t-005
+  teiginys: 'Konfederaciniuose seimuose veto teisė nebeveikė, nes sprendimai buvo priimami balsų dauguma.'
+  pagrindžia:
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Liberum veto politiniame tekste aiškintas kaip laisvas priešinimosi žodis.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: Politiniame tekste liberum veto įvardytas kaip laisvas priešinimosi žodis.
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: Aprašoma procedūra, kuria konfederaciniai seimai apeidavo veto teisę.
+- c-001
+  santrauka: 'Konfederaciniuose seimuose veto teisė nebeveikė, nes sprendimai buvo priimami balsų dauguma.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kadangi seimo iširimas dažnai grėsdavo vals-
@@ -74,9 +74,9 @@ Terminas vartojamas tiek aiškinamajame pasakojime, tiek cituojamame politiniame
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-003
-  santrauka: Cituojamame tekste sąvoka išverčiama į lietuvišką apibūdinimą.
+    - t-005
+- c-002
+  santrauka: 'Liberum veto politiniame tekste aiškintas kaip laisvas priešinimosi žodis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Štai charakteringa jo ištrauka:
@@ -93,7 +93,7 @@ Terminas vartojamas tiek aiškinamajame pasakojime, tiek cituojamame politiniame
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-006
 
 ## Šaltiniai ir įrodymai
 

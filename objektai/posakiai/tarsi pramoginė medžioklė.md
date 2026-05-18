@@ -18,22 +18,24 @@ Tokie žygiai tuomet būdavo tarsi pramoginė medžioklė.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tokie žygiai tuomet būdavo tarsi pramoginė medžioklė.'
+  teiginys: 'Nereguliarūs žygiai, rengiami atvykus svečiams iš Vakarų, tuomet būdavo tarsi pramoginė medžioklė.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tokie žygiai tuomet būdavo tarsi pramoginė medžioklė.'
+  santrauka: 'Nereguliarūs žygiai, rengiami atvykus svečiams iš Vakarų, tuomet būdavo tarsi pramoginė medžioklė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šitie nereguliarūs žygiai dažniausiai būdavo
     ruošiami tada, kai iš Vakarų atvykdavo svečių. Tokie žygiai
     tuomet būdavo tarsi pramoginė medžioklė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

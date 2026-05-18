@@ -33,17 +33,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'XIII amž. į aisčių gyvenamuosius kraštus atsikraustė vokiečiai ir čia sukūrė savo valstybes.'
+  teiginys: 'XIII a. kryžiuočiai atsikraustė į Pavyslį ir ten sukūrė savo valstybę.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Po ilgų kovų, XIII amž. pradžioje prūsų kilčių kaimynai, mozūrų kunigaikščiai, atsikvietė sau į pagalbą vokiečių ordiną (kryžiuočius), kurs vėliau, nukariavęs didelius aisčių plotus, sukūrė ten savo valstybę.'
+  teiginys: 'XIII a. pradžioje mozūrų kunigaikščiai pasikvietė kryžiuočius į pagalbą prieš prūsus.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'XIII amž. į aisčių gyvenamuosius kraštus atsikraustė vokiečiai ir čia sukūrė savo valstybes.'
+  santrauka: 'XIII a. kryžiuočiai atsikraustė į Pavyslį ir ten sukūrė savo valstybę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     XIII amž. į aisčių gyvenamuosius kraštus atsikraustė vokiečiai
@@ -51,25 +55,25 @@ Nenurodyta
     lavijuočiai), o kiti į Pavyslį (kryžiuočiai). Nuo tada pradeda
     rastis kaskart vis daugiau istorinių žinių apie aisčių gyve-
     nimą ir jų kovas už savo nepriklausomybę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Po ilgų kovų, XIII amž. pradžioje prūsų kilčių kaimynai, mozūrų kunigaikščiai, atsikvietė sau į pagalbą vokiečių ordiną (kryžiuočius), kurs vėliau, nukariavęs didelius aisčių plotus, sukūrė ten savo valstybę.'
+  santrauka: 'XIII a. pradžioje mozūrų kunigaikščiai pasikvietė kryžiuočius į pagalbą prieš prūsus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po ilgų kovų, XIII amž. pra-
     džioje prūsų kilčių kaimynai, mozūrų kunigaikščiai, atsikvietė
     sau į pagalbą vokiečių ordiną (kryžiuočius), kurs vėliau, nuka-
     riavęs didelius aisčių plotus, sukūrė ten savo valstybę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

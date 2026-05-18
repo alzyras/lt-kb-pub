@@ -18,13 +18,13 @@ Pagrindinė forma: `karmūšų`.
 Papildomos aiškios formos neišskirtos.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Karmūšų` šiame tekste reiškia mūšių vietas.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Šios vietos laikomos šventomis dėl žuvusiųjų gynybos.'
   pagrindžia:
     - c-001
@@ -33,7 +33,7 @@ Papildomos aiškios formos neišskirtos.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Karmūšų` šiame tekste reiškia mūšių vietas
+  santrauka: '`Karmūšų` šiame tekste reiškia mūšių vietas.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Buvo dar šventomis vadinamos karmūšų^842 , arba kovų, vietos, tai yra laukai, kuriuose su
@@ -46,8 +46,8 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Pastabos
 

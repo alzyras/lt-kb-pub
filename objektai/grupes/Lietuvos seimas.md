@@ -19,21 +19,23 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.'
+  teiginys: 'Lietuvos seimas liepos 30 d. ratifikavo konvenciją.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.'
+  santrauka: 'Lietuvos seimas liepos 30 d. ratifikavo konvenciją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

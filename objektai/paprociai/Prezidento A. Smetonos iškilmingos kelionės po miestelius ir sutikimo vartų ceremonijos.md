@@ -59,8 +59,8 @@ tags:
 - Kelionės jungė politinį aiškinimą, vietos ceremonijas ir skirtingų religinių bendruomenių aplankymą.
 
 ## Teiginiai
-- t-002
-  teiginys: '1927 m. A. Smetona keliavo po miestelius su oficialia palyda, o vietose buvo sutinkamas prie gėlėmis ir vainikais puoštų vartų.'
+- t-003
+  teiginys: '1927 m. vasarą ir rudenį A. Smetona keliavo po miestelius su oficialia palyda ir buvo iškilmingai sutinkamas prie puošnių sutikimo vartų.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -68,7 +68,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1927 m. A. Smetona keliavo po miestelius su oficialia palyda, o vietose buvo sutinkamas prie gėlėmis ir vainikais puoštų vartų.'
+  santrauka: '1927 m. vasarą ir rudenį A. Smetona keliavo po miestelius su oficialia palyda ir buvo iškilmingai sutinkamas prie puošnių sutikimo vartų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prezidentas A. Smetona visą 1927 m. vasarą ir rudenį, lydimas kari-
@@ -82,7 +82,7 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Šaltiniai ir įrodymai
 

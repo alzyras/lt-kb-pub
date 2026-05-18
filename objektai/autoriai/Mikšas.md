@@ -18,17 +18,21 @@ Lietuvos veikėjas Mikšas, paskui dr. J. „Aušra" iš pradžių buvo spausdin
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos veikėjas Mikšas, paskui dr. J.'
+  teiginys: 'Mikšas tvarkė laikraštį „Aušra“, kai Basanavičius gyveno užsienyje.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: '„Aušra" iš pradžių buvo spausdinama Ragainėje, o paskui Tilžėje, paties Mikšo įsteigtoje spaustuvėje.'
+  teiginys: 'Mikšas Tilžėje įsteigė spaustuvę, kurioje vėliau buvo spausdinama „Aušra“.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvos veikėjas Mikšas, paskui dr. J.'
+  santrauka: 'Mikšas tvarkė laikraštį „Aušra“, kai Basanavičius gyveno užsienyje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     tebuvo įsteigtas tik laikraštis „Aušra" (1883 m.). Jos suma-
@@ -40,15 +44,15 @@ Lietuvos veikėjas Mikšas, paskui dr. J. „Aušra" iš pradžių buvo spausdin
     o kai šį vokiečių valdžia
     privertė išvažiuoti į
     Ameriką, — vėl Mikšas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '„Aušra" iš pradžių buvo spausdinama Ragainėje, o paskui Tilžėje, paties Mikšo įsteigtoje spaustuvėje.'
+  santrauka: 'Mikšas Tilžėje įsteigė spaustuvę, kurioje vėliau buvo spausdinama „Aušra“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     „Aušra" iš pradžių bu-
@@ -56,11 +60,11 @@ Lietuvos veikėjas Mikšas, paskui dr. J. „Aušra" iš pradžių buvo spausdin
     nėje, o paskui Tilžėje,
     paties Mikšo įsteigtoje
     spaustuvėje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 
@@ -70,4 +74,3 @@ Lietuvos veikėjas Mikšas, paskui dr. J. „Aušra" iš pradžių buvo spausdin
 
 ### Susiję objektai
 - [[objektai/autoriai/Dr. J. Šliūpas]]
-- [[objektai/autoriai/Jonas Šliūpas]]

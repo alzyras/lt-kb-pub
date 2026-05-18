@@ -18,7 +18,7 @@ Voldemaro gyvybę, 1929 m. rugsėjį visiems ministrams in corpore „atsistatyd
 
 ## Teiginiai
 - t-001
-  teiginys: '1929 m. rugsėjį visiems ministrams in corpore „atsistatydinus“, turėjo atsistatydinti ir premjeras Augustinas Voldemaras.'
+  teiginys: '1929 m. rugsėjį visiems ministrams in corpore atsistatydinus, turėjo atsistatydinti ir premjeras Augustinas Voldemaras.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Voldemaro gyvybę, 1929 m. rugsėjį visiems ministrams in corpore „atsistatyd
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1929 m. rugsėjį visiems ministrams in corpore „atsistatydinus“, turėjo atsistatydinti ir premjeras Augustinas Voldemaras.'
+  santrauka: '1929 m. rugsėjį visiems ministrams in corpore atsistatydinus, turėjo atsistatydinti ir premjeras Augustinas Voldemaras.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po gegužę įvykdyto studen-

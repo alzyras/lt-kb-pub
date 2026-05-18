@@ -32,13 +32,13 @@ tags:
 - Pagrindinė forma: Kaimieti (Rustice), tu čia karalium nebūsi
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Ši frazė yra Algirdo atsakas lyvių seniūnui.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Frazė reiškia, kad Algirdas atmeta lyvių seniūno pretenziją ar pasiūlymą dėl karaliaus valdžios.'
   pagrindžia:
     - c-001
@@ -47,9 +47,10 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata iškart pateikia ir kreipinį, ir jo pasekmę.
+  santrauka: 'Ši frazė yra Algirdo atsakas lyvių seniūnui.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Tasai atsakė, kad jie apskritai
     visus vokiečius (Almanis) išvarys. Bet karalius tarė: ,,Kaimieti (Rustice), tu čia karalium
 
     nebūsi“ ir liepė pilies kieme nukirsti jam galvą.“
@@ -59,5 +60,5 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004

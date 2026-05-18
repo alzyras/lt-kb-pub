@@ -20,23 +20,27 @@ Vytauto raštas ordino magistrui (rašytas Vilniuje 1414 m. sausio 2d.).
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vytauto raštas ordino magistrui (rašytas Vilniuje 1414 m. sausio 2d.).'
+  teiginys: 'Vytauto raštas ordino magistrui parašytas Vilniuje 1414 m. sausio 2 d. ir laidavo Jogailos atvykimą per Velykas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Vytauto raštas ordino magistrui (rašytas Vilniuje 1414 m. sausio 2d.).'
+  santrauka: 'Vytauto raštas ordino magistrui parašytas Vilniuje 1414 m. sausio 2 d. ir laidavo Jogailos atvykimą per Velykas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **V. Vytauto raštas ordino magistrui** (rašytas Vilniuje 1414 m. sausio 2d.).
     Tai dokumentas, kuriuo Vytautas laiduoja, kad per 1414 m. Velykas Jogaila
     iš tikro atvyksiąs į pasimatymą su naujuoju ordino magistrui Kuchmeisteriu
     (buvusiu Žemaičių valdytoju).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

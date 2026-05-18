@@ -19,13 +19,15 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir veržėsi į Lvovo apylinkes.'
+  teiginys: 'Karo su turkais metu turkai užėmė Podolės tvirtovę Kameniecą ir veržėsi į Lvovo apylinkes.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir veržėsi į Lvovo apylinkes.'
+  santrauka: 'Karo su turkais metu turkai užėmė Podolės tvirtovę Kameniecą ir veržėsi į Lvovo apylinkes.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kartu su jo viešpatavimu Lenkijoje prasidėjo sunkus ka-
@@ -33,14 +35,10 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     šenko. Lenkams, netvarkingai kariaujantiems, karas labai ne-
     sisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir
     veržėsi į Lvovo apylinkes.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kamenecas]]

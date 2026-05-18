@@ -48,34 +48,28 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'J. Radvila 1649 m. liepos 21 d. atvedė kariuomenę prie Lojevo, o S. Podobaila sudegino miestą, kad priešininkas negalėtų įsitvirtinti.'
+- t-005
+  teiginys: '1649 m. liepos 21 d. J. Radvila atvedė kariuomenę prie Lojevo, kur buvo numatyta pasitikti artėjančius kazokus.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Į Lojevo mūšį įsiterpusi lietuvių kavalerija atakavo kazokus iš užnugario ir nulėmė mūšio baigtį.'
+- t-006
+  teiginys: 'Lojevo mūšyje kazokų kariuomenė buvo perskelta į dvi dalis, jos kairysis sparnas sumuštas, o M. Kričevskio kariai atsitraukė į mišką.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Kazokų kariuomenė buvo perskelta į dvi dalis, Kričevskis buvo sunkiai sužeistas, o jo likučiai išsilakstė.'
+- t-007
+  teiginys: 'Lojevo mūšis buvo pirmoji svari J. Radvilos pergalė, o žinia apie ją plačiai pasklido Europoje.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Lojevo mūšis buvo pirmoji svarbi J. Radvilos pergalė ir plačiai aptarinėtas laimėjimas.'
-  pagrindžia:
-    - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: J. Radvila 1649 m. liepos 21 d. atvedė kariuomenę prie Lojevo, o S. Podobaila sudegino miestą, kad priešininkas negalėtų įsitvirtinti.
+  santrauka: '1649 m. liepos 21 d. J. Radvila atvedė kariuomenę prie Lojevo, kur buvo numatyta pasitikti artėjančius kazokus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1649 m. liepos 21 d. J. Radvila at-
@@ -97,49 +91,15 @@ Nenurodyta
     pylimus. Lojevo miestas, esantis kitoje
     (dešinėje) upės pusėje, buvo sudegintas,
     kad priešui nebūtų kur įsitvirtinti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-005
 - c-002
-  santrauka: Į Lojevo mūšį įsiterpusi lietuvių kavalerija atakavo kazokus iš užnugario ir nulėmė mūšio baigtį.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „1649 metais [...] kelios valandos iki vidurdienio iš pirmųjų priešų, staiga pasileidusių
-    ant buvusių prie pat stovyklos pašarininkų, buvo gauta žinia apie pavojų, ir lauko etmono
-    įsakymu buvo duotas signalas stvertis ginklų. Per tą netikėtą ataką užgriuvo šitokia dau-
-    gybė [maištininkų], kad plytintys aplinkui stovyklą laukai buvo tvindyte užtvindyti gin-
-    kluotais vyrais taip greitai, jog jie akimirksniu pasiekė aikštę ir ėmė žudyti neginkluotą
-    liaudį.[...] Asmeninio lengvai ginkluotų raitelių vėliavos leitenantas Lukas Chodorkovskis
-    pirmas per artimiausius stovyklos vartus įpuolė į patį priešų tirštimą su nedideliu savųjų
-    pulkeliu [...]. Paskui į apleistus malūno trobesius prie upės šalia stovyklos pakilo keturi
-    šimtai pėstininkų (dalis, vadovaujama Petro Podleckio, buvo su tėvynine ginkluote, o dalis,
-    kurią vedė Juškevičius, - su vengriška), pylė tankesnėmis salvėmis ir taip sulaikė pirmą
-    besiveržiančių į stovyklą puolimą. Toji trumpa minutė leido tvarkingai pradėti kautynes,
-    nes per ją po savo vėliavomis susirinko raiteliai. Ir štai su ietimis ginkluotos kavalerijos
-    pulkais į lauką išjojo Lietuvos Didžiosios Kunigaikštystės stalininkas Gosievskis ir garsus
-    karvedys Paulius Neviarovskis [...]. Salvėmis kiek atstūmę priešus, anie keturi šimtai pės-
-    tininkų padarė vietos išjoti, ir [lietuvių kavalerija] taip aršiai kirto į kairįjį priešo būrį,
-    kad nušlavė jį nuo lauko ir atbloškė į mišką. [...] Grįždamas iš reido kovojančius priešus
-    užgriuvo Ukmergės vėliavininkas Samuelis Komorovskis, kuris neseniai su rinktiniais vy-
-    rais buvo išsiųstas į žvalgybą ir gavo įsakymą kuo greičiau skubėti atgal į stovyklą. Taigi
-    iš užnugario su didžia jėga smogęs puolimo nesitikėjusiems, ne tiktai [juos] išgąsdino, bet
-    ir nemažą dalį paklojo. Užtat prispirti kautis iš abiejų pusių ir pamane, jog iš surengtos
-    [jiems] pasalos puola didesnės pajėgos, [maištininkai] leidosi bėgti ir vėl dingo miške. Taip
-    buvo visiškai nuo priešų išvalytas laukas, kurį visą jie ką tiktai buvo užtvindę, nepaisant
-    tai vienur, tai kitur jame gulėjusių nukautų arba leisgyvių [priešų].
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: Kazokų kariuomenė buvo perskelta į dvi dalis, Kričevskis buvo sunkiai sužeistas, o jo likučiai išsilakstė.
+  santrauka: 'Lojevo mūšyje kazokų kariuomenė buvo perskelta į dvi dalis, jos kairysis sparnas sumuštas, o M. Kričevskio kariai atsitraukė į mišką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvių pėstininkai
@@ -161,15 +121,15 @@ Nenurodyta
     versti atsitraukti į mišką, iš ten nusileido
     prie Dniepro ir įsitvirtino stovykloje netoli
     Bragino.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: Lojevo mūšis buvo pirmoji svarbi J. Radvilos pergalė ir plačiai aptarinėtas laimėjimas.
+    - t-006
+- c-003
+  santrauka: 'Lojevo mūšis buvo pirmoji svari J. Radvilos pergalė, o žinia apie ją plačiai pasklido Europoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lojevo mūšis - pirmoji kunigaikščio J. Rad-
@@ -184,14 +144,14 @@ Nenurodyta
     letininkai
     (pikinieriai)
 
-    apie ją pasklido ir visoje Europoje
-  citata_rodoma: ''
+    apie ją pasklido ir visoje Europoje.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-007
 
 ## Ryšiai
 ### Laikotarpiai

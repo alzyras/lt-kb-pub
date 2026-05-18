@@ -18,25 +18,23 @@ Tallgren, Zur Archäologie Eestis, I-II (1921-1925); H.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tallgren, Zur Archäologie Eestis, I-II (1921-1925); H.'
+  teiginys: 'A. Tallgren buvo 1921–1925 m. išėjusio veikalo „Zur Archäologie Eestis“ autorius.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tallgren, Zur Archäologie Eestis, I-II (1921-1925); H.'
+  santrauka: 'A. Tallgren buvo 1921–1925 m. išėjusio veikalo „Zur Archäologie Eestis“ autorius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     A. Tallgren,_ Zur Archäologie
     Eestis, I-II (1921-1925); _H. Moora,_ Die Vorzeit Estlands (1932).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/H. Moora]]

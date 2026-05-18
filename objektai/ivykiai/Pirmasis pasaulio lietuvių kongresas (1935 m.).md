@@ -30,22 +30,24 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '(Kongresas įvyko 1935 m. rugpiūčio 11—17 d. Kaune.'
+  teiginys: 'Pirmasis pasaulio lietuvių kongresas įvyko 1935 m. rugpjūčio 11–17 d. Kaune.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '(Kongresas įvyko 1935 m. rugpiūčio 11—17 d. Kaune.'
+  santrauka: 'Pirmasis pasaulio lietuvių kongresas įvyko 1935 m. rugpjūčio 11–17 d. Kaune.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     (Kongresas įvyko 1935 m. rugpiūčio 11—17 d. Kaune. Tarp kitko jis
     nutarė įkurti Pasaulio Lietuvių Sąjungą).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

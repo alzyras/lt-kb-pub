@@ -33,41 +33,22 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
 - Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas
 
 ## Teiginiai
-- t-001
-  teiginys: 'Arvydui Anušauskui šiame leidinyje priskiriamas straipsnis apie žymiausius Lietuvos partizanų susirėmimus prieš sovietų pajėgas.'
+- t-004
+  teiginys: 'Arvydas Anušauskas buvo Lietuvos naujausių laikų istorijos specialistas ir pripažintas rezistencinių kovų istorijos žinovas.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Arvydas Anušauskas autorių sąraše apibūdinamas kaip Lietuvos naujausių laikų istorijos specialistas ir rezistencinių kovų žinovas.'
+- t-005
+  teiginys: 'Arvydas Anušauskas kartu su Karoliu Zikaru ir Loreta Uzdraite buvo teksto apie Lietuvos partizanų mūšius bendraautoris.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Priedų dalyje Arvydas Anušauskas minimas ir kaip informacinio bloko bendraautoris.'
-  pagrindžia:
-    - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Turinio puslapyje Arvydui Anušauskui priskiriamas partizanų kovų straipsnis.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Žymiausi Lietuvos partizanų susirėmimai prieš sovietų pajėgas
-    Arvydas Anušauskas 238
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Autorių sąraše pateikiama Arvydo Anušausko profesinė charakteristika.
+  santrauka: 'Arvydas Anušauskas buvo Lietuvos naujausių laikų istorijos specialistas ir pripažintas rezistencinių kovų istorijos žinovas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Arvydas Anušauskas (gimęs 1963 m.), 1989 m. baigė Vilniaus
@@ -82,23 +63,23 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
     torių. Pripažintas Lietuvos rezistencinių kovų, sovietų teroro
 
     ir specialiųjų tarnybų istorijos žinovas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: Priedų dalyje Arvydas Anušauskas nurodomas kaip bendraautoris.
+    - t-004
+- c-002
+  santrauka: 'Arvydas Anušauskas kartu su Karoliu Zikaru ir Loreta Uzdraite buvo teksto apie Lietuvos partizanų mūšius bendraautoris.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     P. 238-239, „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“, Arvydas Anušauskas,
     Karolis Zikaras, Loreta Uzdraitė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-005

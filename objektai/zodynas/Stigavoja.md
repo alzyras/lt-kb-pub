@@ -18,13 +18,13 @@ Pagrindinė forma: `stigavoja`.
 Papildomos aiškios formos neišskirtos.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Stigavoja` čia reiškia „rodo“ arba „patvirtina“.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Terminas vartojamas gamtos būsenai, pasakojimams ir senovės raštų liudijimams nusakyti.'
   pagrindžia:
     - c-002
@@ -34,7 +34,7 @@ Papildomos aiškios formos neišskirtos.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Stigavoja` čia reiškia „rodo“ arba „patvirtina“
+  santrauka: '`Stigavoja` čia reiškia „rodo“ arba „patvirtina“.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tokią būseną^21 jūros tame krašte, viena, stigavoja^22 daugybė jūrinių varlakaušių^23 ,
@@ -46,9 +46,9 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Terminas vartojamas gamtos būsenai, pasakojimams ir senovės raštų liudijimams nusakyti
+  santrauka: 'Terminas vartojamas gamtos būsenai, pasakojimams ir senovės raštų liudijimams nusakyti.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     šiandien jau nebrasi, ką pačios pasakos, tarp žmonių tebesančios, stigavoja, kaipogi
@@ -59,9 +59,9 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 - c-003
-  santrauka: Terminas vartojamas gamtos būsenai, pasakojimams ir senovės raštų liudijimams nusakyti
+  santrauka: 'Terminas vartojamas gamtos būsenai, pasakojimams ir senovės raštų liudijimams nusakyti.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     kuo būtinai indijonims pavėdavo^68 , kaip mums tą senovės raštininkai stigavoja^69.
@@ -71,7 +71,7 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Pastabos
 

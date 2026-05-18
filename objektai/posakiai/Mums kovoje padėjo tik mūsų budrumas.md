@@ -32,7 +32,7 @@ tags:
 - Pagrindinė forma: Mums kovoje padėjo tik mūsų budrumas
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Ši frazė aiškina partizanų kovinę sėkmę.'
   pagrindžia:
     - c-001
@@ -41,7 +41,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata budrumą ir vietovės pažinimą tiesiogiai įvardija kaip kovos atramą.
+  santrauka: 'Ši frazė aiškina partizanų kovinę sėkmę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mums kovoje padėjo tik mūsų bud-
@@ -53,4 +53,4 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

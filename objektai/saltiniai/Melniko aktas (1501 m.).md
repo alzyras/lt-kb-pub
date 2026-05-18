@@ -24,12 +24,18 @@ Ir vėlesnės — Liublino unijos pagrindiniai dėsniai buvo irgi paimti iš to 
   teiginys: 'Ir vėlesnės — Liublino unijos pagrindiniai dėsniai buvo irgi paimti iš to paties Melniko akto.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Jie reikalavo derybų pagrindui 1501 m. Melniko ir 1564 m. Varšuvos receso aktų.'
+  teiginys: 'Lenkai reikalavo 1501 m. Melniko akto ir 1564 m. Varšuvos receso aktų kaip derybų pagrindo.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Ir vėlesnės — Liublino unijos pagrindiniai dėsniai buvo irgi paimti iš to paties Melniko akto.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -41,25 +47,25 @@ Ir vėlesnės — Liublino unijos pagrindiniai dėsniai buvo irgi paimti iš to 
     klausimas, lenkai šitą susitarimą padarė derybų pagrindu. Ir
     vėlesnės — Liublino unijos pagrindiniai dėsniai buvo irgi pa-
     imti iš to paties Melniko akto.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Jie reikalavo derybų pagrindui 1501 m. Melniko ir 1564 m. Varšuvos receso aktų.'
+  santrauka: 'Lenkai reikalavo 1501 m. Melniko akto ir 1564 m. Varšuvos receso aktų kaip derybų pagrindo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lenkai šitokiu lietuvių siūlomu projektu pasipiktino. Jie rei-
     kalavo derybų pagrindui 1501 m. Melniko ir 1564 m. Varšuvos re-
     ceso aktų. Bet lietuviai sakė, kad 1501 m. aktų Lietuva neprisiekusi,
     o 1563—4 m. seime jos delegatai neturėję neribotų įgaliojimų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

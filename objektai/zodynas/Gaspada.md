@@ -18,13 +18,13 @@ Pagrindinė forma: `gaspada`.
 Papildomos aiškios formos neišskirtos.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Gaspada` šiame tekste yra keleiviams skirta pastogė.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Ji priklauso žinyčios erdvei šalia kunigaikščio rūmų.'
   pagrindžia:
     - c-001
@@ -33,19 +33,19 @@ Papildomos aiškios formos neišskirtos.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Gaspada` šiame tekste yra keleiviams skirta pastogė
+  santrauka: '`Gaspada` šiame tekste yra keleiviams skirta pastogė.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     po kairės tos angos buvusi gaspada^773
     keleiviams, atėjusiems dievų maldyti.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Pastabos
 

@@ -41,19 +41,19 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: 'Traukdami į karę lietuviai apvyniodavo žirgus plaušomis, kad šie nepakriūštų ir nepagurtų nuo darganų bei lytų.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-005
   teiginys: 'Karės žygius visados atlikdavo žiemą, o vasarą upes kirsdavo plaukte arba ant taurų kailių.'
   pagrindžia:
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-003
+- t-006
   teiginys: 'Karės įkaištis dalinai būdavo vežamas mažomis rogėmis, į kurias kinkyti dideli šunys briciai.'
   pagrindžia:
     - c-003
@@ -62,7 +62,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Traukdami į karę lietuviai apvyniodavo žirgus plaušomis, kad šie nenuvargtų nuo darganų ir lietaus.
+  santrauka: 'Traukdami į karę lietuviai apvyniodavo žirgus plaušomis, kad šie nepakriūštų ir nepagurtų nuo darganų bei lytų.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Paprastai, traukdami į karę, apvyžo^1195 savo žirgus plaušomis ne vien pačius, bet jų galvas ir ausis
@@ -70,26 +70,30 @@ Nenurodyta
     nepagurtų^1197. Tokiu dar senovės būdu išjojo žemaičiai metuose 1794 kariauti paliepojy, pagruobinėj,
     pasalotėj, ant žirgų, namie augusių, ne plaušomis nuvyžtų, bet gelumbėmis apsiūtų, ką dar tarp
     senųjų šiandien kiekvienas tebminavoja
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-002
-  santrauka: Karės žygius visados atlikdavo žiemą, o vasarą upes kirsdavo plaukte arba ant taurų kailių.
+  santrauka: 'Karės žygius visados atlikdavo žiemą, o vasarą upes kirsdavo plaukte arba ant taurų kailių.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Karės žygius visados atlikdavo žiemą, kad visur pašalusi buvo ir kėlė raitą per
     versmes ir upes, idant niekame netruktų. Jei kuomet nutiko vasaros laiku žygiuoti į karę, tad pėstieji
     kėlės per upes, po keturis, po penkis ant taurų kailių sustoję it ant pluoštų^1213 , o raitieji, įrišę į arklių
     uodegas ranką, plaukte perplaukė
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-005
 - c-003
-  santrauka: Karės įkaištis dalinai būdavo vežamas mažomis rogėmis, į kurias kinkyti dideli šunys briciai.
+  santrauka: 'Karės įkaištis dalinai būdavo vežamas mažomis rogėmis, į kurias kinkyti dideli šunys briciai.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Karės įkaiščiui ėmės visados sausus valgius, beje, džiūvusią mėsą
@@ -97,8 +101,10 @@ Nenurodyta
     likusįjį, sudėjus į mažas rogeles, šunys dideli, tai lietai^1215 auginami, briciais vadinami, po pačių vežė,
     nuo ko lenkai lig šiai dienai, iš lietuvių tyčiodamies, sako „Licwiaki bocwiaki“, tai yra lietuvėliai
     batvinėliai
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-006

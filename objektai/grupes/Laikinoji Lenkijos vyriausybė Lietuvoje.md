@@ -19,7 +19,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '1831 m. birželį Antano Gelgaudo vadovaujama Lenkijos karalystės kariuomenė kūrė Laikinąją Lenkijos vyriausybę Lietuvoje.'
+  teiginys: '1831 m. birželį Antano Gelgaudo vadovaujama Lenkijos karalystės kariuomenė Lietuvoje kūrė Laikinąją Lenkijos vyriausybę.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1831 m. birželį Antano Gelgaudo vadovaujama Lenkijos karalystės kariuomenė kūrė Laikinąją Lenkijos vyriausybę Lietuvoje.'
+  santrauka: '1831 m. birželį Antano Gelgaudo vadovaujama Lenkijos karalystės kariuomenė Lietuvoje kūrė Laikinąją Lenkijos vyriausybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1831 m. birželį į Lietuvą strateginiais sumetimais buvo pasiųsta re-

@@ -19,40 +19,44 @@ Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiausiųjų buvo suma
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiausiųjų buvo sumanymas karūnuoti Vytautą Lietuvos karalium.'
+  teiginys: 'Suvažiavime vienu svarbiausių klausimų buvo sumanymas karūnuoti Vytautą Lietuvos karaliumi.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Jis jau paskyrė karūnacijos terminą (rugsėjo 8 d.), susikvietė svečių ir laukė imperatoriaus atsiunčiamos žadėtosios karūnos su karūnacijos dokumentais.'
+  teiginys: 'Vytautas paskyrė karūnacijos datą rugsėjo 8 d., susikvietė svečių ir laukė imperatoriaus žadėtos karūnos su dokumentais.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiausiųjų buvo sumanymas karūnuoti Vytautą Lietuvos karalium.'
+  santrauka: 'Suvažiavime vienu svarbiausių klausimų buvo sumanymas karūnuoti Vytautą Lietuvos karaliumi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiau-
     siųjų buvo sumanymas karūnuoti Vytautą Lietuvos karalium.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Jis jau paskyrė karūnacijos terminą (rugsėjo 8 d.), susikvietė svečių ir laukė imperatoriaus atsiunčiamos žadėtosios karūnos su karūnacijos dokumentais.'
+  santrauka: 'Vytautas paskyrė karūnacijos datą rugsėjo 8 d., susikvietė svečių ir laukė imperatoriaus žadėtos karūnos su dokumentais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Buvo paruoštos betgi ir Vytauto jėgos. Jis jau paskyrė karūnaci-
     jos terminą (rugsėjo 8 d.), susikvietė svečių ir laukė imperatoriaus
     atsiunčiamos žadėtosios karūnos su karūnacijos dokumentais.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

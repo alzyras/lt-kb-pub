@@ -20,7 +20,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '„Bolševizaciją“ papildė kaltinimai polonizacija, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti 70 lenkiškų mokyklų, o tai, esant įtemptiems Lietuvos ir Lenkijos santykiams, įvertinta kaip pavojus visai tautai.'
+  teiginys: 'Vyriausybei leidus steigti 70 lenkiškų mokyklų, kaltinimai polonizacija buvo siejami su pavojumi tautai dėl įtemptų Lietuvos ir Lenkijos santykių.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -28,7 +28,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '„Bolševizaciją“ papildė kaltinimai polonizacija, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti 70 lenkiškų mokyklų, o tai, esant įtemptiems Lietuvos ir Lenkijos santykiams, įvertinta kaip pavojus visai tautai.'
+  santrauka: 'Vyriausybei leidus steigti 70 lenkiškų mokyklų, kaltinimai polonizacija buvo siejami su pavojumi tautai dėl įtemptų Lietuvos ir Lenkijos santykių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     „Bolševizaciją“ papildė kaltinimai polonizaci-

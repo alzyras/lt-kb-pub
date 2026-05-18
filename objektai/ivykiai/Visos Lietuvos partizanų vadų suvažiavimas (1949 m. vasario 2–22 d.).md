@@ -32,7 +32,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'LLKS Tarybos prezidiumo pirmininku išrinktas Jonas Žemaitis-Vytautas, kuriam suteiktas aukščiausias partizanų generolo laipsnis.'
+  teiginys: 'Jonas Žemaitis-Vytautas buvo išrinktas LLKS Tarybos prezidiumo pirmininku ir gavo aukščiausią partizanų generolo laipsnį.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -40,7 +40,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'LLKS Tarybos prezidiumo pirmininku išrinktas Jonas Žemaitis-Vytautas, kuriam suteiktas aukščiausias partizanų generolo laipsnis.'
+  santrauka: 'Jonas Žemaitis-Vytautas buvo išrinktas LLKS Tarybos prezidiumo pirmininku ir gavo aukščiausią partizanų generolo laipsnį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LLKS Tarybos prezidiumo pirmininku iš-

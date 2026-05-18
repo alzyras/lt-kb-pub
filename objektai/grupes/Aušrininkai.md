@@ -16,13 +16,13 @@ tags:
 Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuvių tautinio atgimimo grupė, tęsianti istorinį ir tautinį Simono Daukanto palikimą.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Aušrininkai šiame šaltinyje pateikiami kaip romantiškai nusiteikusi lietuvių tautinio atgimimo grupė.'
+- t-003
+  teiginys: 'Aušrininkai Lietuvoje perėmė Simono Daukanto romantišką tautinį nusistatymą ir tęsė jo palikimą iki nepriklausomybės metų.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Aušrininkai siejami su Simono Daukanto pradėto tautinio ir istorinio palikimo tęsiniu iki nepriklausomybės metų.'
   pagrindžia:
     - c-001
@@ -31,7 +31,7 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Aušrininkai rodomi kaip Simono Daukanto istorinės krypties tęsėjai.
+  santrauka: 'Aušrininkai Lietuvoje perėmė Simono Daukanto romantišką tautinį nusistatymą ir tęsė jo palikimą iki nepriklausomybės metų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tokį nusistatymą jau su kaupu buvo vykdęs mūsų pirmasis
@@ -39,13 +39,11 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
     kantas. Per eilę dešimtmečių iki pat nepriklausomybės metų tuo
     šūkiu pasekė Lietuvoje ir mūsų romantiškai nusiteikusieji aušrinin­
     kai ir jų tautinio palikimo tęsėjai.
-  citata_rodoma: ''
-  teiginio_tipas: vertinimas
-  patikimumo_lygis: vidutinis
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
-    - t-002
-    - t-002
+    - t-003
+    - t-004

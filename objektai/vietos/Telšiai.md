@@ -18,22 +18,24 @@ Buvo uždaryta daugybė vienuolynų (Kaune, Pažaisly, Panevėžy, Ukmergėje, R
 
 ## Teiginiai
 - t-001
-  teiginys: 'Buvo uždaryta daugybė vienuolynų (Kaune, Pažaisly, Panevėžy, Ukmergėje, Raseiniuose, Telšiuose ir kt.).'
+  teiginys: 'Telšiuose buvo uždarytas vienuolynas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Buvo uždaryta daugybė vienuolynų (Kaune, Pažaisly, Panevėžy, Ukmergėje, Raseiniuose, Telšiuose ir kt.).'
+  santrauka: 'Telšiuose buvo uždarytas vienuolynas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Buvo uždaryta daugybė vienuolynų
     (Kaune, Pažaisly, Panevėžy, Ukmergėje, Raseiniuose, Telšiuose
     ir kt.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

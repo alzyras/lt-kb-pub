@@ -42,8 +42,8 @@ Terminas žymi nustatytą kariuomenės skaičių ar karo etatą, nuo kurio prikl
 Šaltinyje žodis pasirodo XVII a. antrosios pusės tarptautinės kariuomenių sudėties ir vadovavimo aprašyme.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Komputas šiame šaltinyje yra karo tarybos nustatomas kariuomenės dydis arba etatas.'
+- t-002
+  teiginys: 'Komputu lenkiškai vadintas karo tarybos nustatytas karo etatas.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -51,17 +51,20 @@ Terminas žymi nustatytą kariuomenės skaičių ar karo etatą, nuo kurio prikl
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Terminas tiesiogiai susiejamas su karo tarybos nustatomu kariuomenės skaičiumi.
+  santrauka: 'Komputu lenkiškai vadintas karo tarybos nustatytas karo etatas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    XVII a. viduryje Turkija savo ekspansiją kokiam nors žygiui Respublika išrikiuotų didesnę armiją, o kadangi šis skaičius niekad
+    iš Viduržemio jūros pakrančių perkėlė į nebūna tikslus, kariuomenė būna tai stipresnė, tai silpnesnė - priklausomai nuo valstybės
+    šiaurę, siekdama užvaldyti visą Vengrijos pastangų, kai prispiria reikalas, tačiau ji niekad nepasiekia 48 000 vyrų skaičiaus, kurį
     teritoriją (dalis Vengrijos jau priklausė nustatė karo taryba [etat de la guerre], lenkiškai vadinama komputu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Pastabos
 

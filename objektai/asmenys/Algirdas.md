@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Algirdas'
+pavadinimas: 'Algirdas (Lietuvos valdovas)'
 sukurta: '2026-04-24'
 variantai:
   - 'Algirdo'
@@ -9,6 +9,7 @@ variantai:
   - 'Algirdas'
 aliases:
   - 'Algirdas (Lietuvos valdovas, 1345 m.)'
+  - 'Algirdas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -55,7 +56,7 @@ patikimumas: 'aukštas'
 tags:
   - asmuo
 ---
-# Algirdas
+# Algirdas (Lietuvos valdovas)
 ## Santrauka
 
 Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žemes ir plėtęs valstybę Rusios kryptimi. Jis siejamas su Vilniaus kunigaikštyste, Kijevo užėmimu, santuoka su Julijona ir pagonišku palaidojimu Vilniuje.
@@ -144,7 +145,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-014
-  teiginys: 'Algirdas buvo Gedimino sūnus ir Gediminaičių kunigaikščių giminės atstovas.'
+  teiginys: 'Algirdas buvo Gedimino sūnus ir vienas iš Lietuvos valdovų.'
   pagrindžia:
     - c-014
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -357,7 +358,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-012
     - t-013
 - c-014
-  santrauka: 'Algirdas buvo Gedimino sūnus ir Gediminaičių kunigaikščių giminės atstovas.'
+  santrauka: 'Algirdas buvo Gedimino sūnus ir vienas iš Lietuvos valdovų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     piešti

@@ -44,20 +44,20 @@ Lazdelė būdavo įpjaunama ir perskeliama pusiau, kad abi pusės sutaptų ir n�
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: Birka buvo skaičiams žymėti vartojama lazdelė su įpjovomis.
+- t-004
+  teiginys: 'Birka buvo skaičiams žymėti vartojama lazdelė su įpjovomis.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: Birka būdavo perskeliama pusiau taip, kad abi pusės išlaikytų tas pačias žymes.
+- t-005
+  teiginys: 'Birka būdavo perskeliama pusiau taip, kad abi pusės išlaikytų tas pačias žymes.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: Birka veikė kaip savotiškas kvitas ar vekselis.
+- t-006
+  teiginys: 'Birka veikė kaip savotiškas kvitas ar vekselis.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -65,7 +65,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Aprašo birkos sandarą, naudojimą ir jos funkciją atsiskaityme.
+  santrauka: 'Birka buvo skaičiams žymėti vartojama lazdelė su įpjovomis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tiek Lietuvoje, tiek Skandinavijoje net šiandien dar vartojamos
@@ -79,15 +79,15 @@ Nenurodyta
     savotiškas kvitas, vekselis, — apskritai skaičiuojamoji priemonė. Se-
     novėje tokias lazdeles vartojo visi, o vietomis jos tebevartoja-
     mos ir dabar. Jos vadinamos birkomis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
+    - t-004
+    - t-005
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai

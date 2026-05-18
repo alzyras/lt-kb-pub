@@ -36,7 +36,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kryžiaus karų epochos Europoje Lietuvos kunigaikščiai vedė derybas dėl krikšto, tačiau Lietuva buvo tarsi atstumta nuo krikščionybės.'
+  teiginys: 'Kryžiaus karų epochoje Lietuvos kunigaikščiai derėjosi dėl krikšto, tačiau Europa tarsi atstūmė Lietuvą nuo krikščionybės.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -44,7 +44,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kryžiaus karų epochos Europoje Lietuvos kunigaikščiai vedė derybas dėl krikšto, tačiau Lietuva buvo tarsi atstumta nuo krikščionybės.'
+  santrauka: 'Kryžiaus karų epochoje Lietuvos kunigaikščiai derėjosi dėl krikšto, tačiau Europa tarsi atstūmė Lietuvą nuo krikščionybės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors nebus nė vieno kunigaikščio,

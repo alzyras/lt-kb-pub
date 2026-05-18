@@ -26,23 +26,23 @@ V. Dėdinas 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įrašyt
 - Vytauto vidaus ir užsienio politika ligi Žalgirio mūšio
 
 ## Teiginiai
-- t-001
-  teiginys: 'V. Dėdinas šiame leidinyje įrašytas tarp knygos autorių.'
+- t-003
+  teiginys: 'V. Dėdinas buvo vienas iš leidinio autorių.'
   pagrindžia:
-    - c-003
+    - c-002
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Turinyje V. Dėdinui priskiriamas skyrius „Vytauto vidaus ir užsienio politika ligi Žalgirio mūšio“.'
+- t-004
+  teiginys: 'V. Dėdinas parašė skyrių „Vytauto vidaus ir užsienio politika ligi Žalgirio mūšio“.'
   pagrindžia:
-    - c-002
+    - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Tituliniame puslapyje V. Dėdinas įrašytas tarp leidinio autorių.
+  santrauka: 'V. Dėdinas buvo vienas iš leidinio autorių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Parašė:
@@ -50,39 +50,38 @@ V. Dėdinas 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įrašyt
     ##### A.Šapoka, Z. Ivinskis, V. Dėdinas, A. Kučinskas,
 
     ##### S. Sužiedėlis, P. Šležas, Dr. M. Krasauskaitė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Turinyje V. Dėdinui priskiriamas skyrius apie Vytauto vidaus ir užsienio politiką.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    V. Dėdinas. Vytauto vidaus ir užsienio politika ligi Žal­
-    girio mūšio.....................................................................
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: V. Dėdinas papildomas patvirtintas šaltinio paminėjimas.
+  santrauka: 'V. Dėdinas buvo vienas iš leidinio autorių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     ##### A.Šapoka, Z. Ivinskis, V. Dėdinas, A. Kučinskas,
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-001
+    - t-003
+- c-003
+  santrauka: 'V. Dėdinas parašė skyrių „Vytauto vidaus ir užsienio politika ligi Žalgirio mūšio“.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    V. Dėdinas. Vytauto vidaus ir užsienio politika ligi Žal­
+    girio mūšio.....................................................................
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

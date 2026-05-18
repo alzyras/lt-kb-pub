@@ -18,7 +18,7 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
 
 ## Teiginiai
 - t-001
-  teiginys: 'Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Hercegovinoje, Gruzijoje dalyvavo per du šimtus Lietuvos karių.'
+  teiginys: 'Bosnija ir Hercegovina buvo viena iš šalių, kuriose Lietuvos kariai dalyvavo tarptautinėse misijose.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Hercegovinoje, Gruzijoje dalyvavo per du šimtus Lietuvos karių.'
+  santrauka: 'Bosnija ir Hercegovina buvo viena iš šalių, kuriose Lietuvos kariai dalyvavo tarptautinėse misijose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Apskri-

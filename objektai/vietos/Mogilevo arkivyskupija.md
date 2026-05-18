@@ -20,13 +20,15 @@ Senosios Lietuvos valstybės laikais, nuo pat krikšto, visa etnografinė Lietuv
 
 ## Teiginiai
 - t-001
-  teiginys: 'Senosios Lietuvos valstybės laikais, nuo pat krikšto, visa etnografinė Lietuva priklausė Lenkijos Gniezno arkivyskupijai, o rusų valdymo laikais ji buvo įterpta į naujai sudarytą Mogilevo arkivyskupiją, kurios arkivyskupas buvo perkeltas į Petrapilį.'
+  teiginys: 'Rusų valdymo laikais etnografinė Lietuva buvo įtraukta į naujai sudarytą Mogilevo arkivyskupiją.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Senosios Lietuvos valstybės laikais, nuo pat krikšto, visa etnografinė Lietuva priklausė Lenkijos Gniezno arkivyskupijai, o rusų valdymo laikais ji buvo įterpta į naujai sudarytą Mogilevo arkivyskupiją, kurios arkivyskupas buvo perkeltas į Petrapilį.'
+  santrauka: 'Rusų valdymo laikais etnografinė Lietuva buvo įtraukta į naujai sudarytą Mogilevo arkivyskupiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Senosios Lietuvos valstybės laikais, nuo
@@ -34,11 +36,11 @@ Senosios Lietuvos valstybės laikais, nuo pat krikšto, visa etnografinė Lietuv
     arkivyskupijai, o rusų valdymo laikais ji buvo įterpta į naujai
     sudarytą Mogilevo arkivyskupiją, kurios arkivyskupas buvo
     perkeltas į Petrapilį.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -20,13 +20,15 @@ Taip antai, Federacijos įkurta (1899 m.) „Motinėlė", kuri, jos remiama, še
 
 ## Teiginiai
 - t-001
-  teiginys: 'Taip antai, Federacijos įkurta (1899 m.) „Motinėlė", kuri, jos remiama, šelpia lietuvius moksleivius ir duoda stipendijas 100-ui studentų Amerikos ir Europos universitetuose.'
+  teiginys: '„Motinėlė“ buvo įkurta 1899 m. Federacijos ir šelpė lietuvius moksleivius bei teikė stipendijas 100 studentų Amerikos ir Europos universitetuose.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Taip antai, Federacijos įkurta (1899 m.) „Motinėlė", kuri, jos remiama, šelpia lietuvius moksleivius ir duoda stipendijas 100-ui studentų Amerikos ir Europos universitetuose.'
+  santrauka: '„Motinėlė“ buvo įkurta 1899 m. Federacijos ir šelpė lietuvius moksleivius bei teikė stipendijas 100 studentų Amerikos ir Europos universitetuose.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, jis yra įkūręs Amerikos Lietuvių Ka-
@@ -45,11 +47,11 @@ Taip antai, Federacijos įkurta (1899 m.) „Motinėlė", kuri, jos remiama, še
     maža katalikų jaunimo Federacija suorganizavo ir Lietuvos Vy-
     čių Sąjungoje (tai maždaug, kaip Lietuvoje pavasarinin-
     kai); ji turi apie 100 kuopų ir leidžia savo laikraštį „Vytį".
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -43,23 +43,23 @@ Pažymėti politinės orientacijos pasikeitimą ir įsiteikti naujai galiai.
 Praktika minima žemaičiams pasisukus į savo vakarykščius priešus ir mėginant su jais kurti naujus santykius.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Žemaičiai savo vakarykščiams priešams ėmė daryti ištikimybės priesaikas.'
+- t-003
+  teiginys: '1384 m. vasario pradžioje Medininkų, Vangių ir kitų Žemaičių krašto vietų gyventojai pareiškė paklusnumą Ordinui.'
   pagrindžia:
     - c-001
-  šaltinis: 'Vytautas Didysis 1350-1430 (1930 m.)'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: '1384 m. vasario pradžioje Žemaičių krašto Medininkų, Vangių ir kitų vietų gyventojai pareiškė Ordinui savo paklusnumą; tai buvo pirmas savarankiškas jų mėginimas pasiduoti naujai jėgai.'
   pagrindžia:
     - c-001
-  šaltinis: 'Vytautas Didysis 1350-1430 (1930 m.)'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 1384 m. pradžioje žemaičiai ėmė prisiekinėti Ordinui ir savarankiškai pareiškė jam paklusnumą.
-  šaltinis: 'Vytautas Didysis 1350-1430 (1930 m.)'
+  santrauka: '1384 m. vasario pradžioje Medininkų, Vangių ir kitų Žemaičių krašto vietų gyventojai pareiškė paklusnumą Ordinui.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Todėl ir
     nenuostabu, kad žemaičiai savo vakarykščiams priešams
@@ -68,14 +68,14 @@ Praktika minima žemaičiams pasisukus į savo vakarykščius priešus ir mėgin
     kt.) gyventojai pareiškė Ordinui savo paklusnumą. Iš tų gy­
     ventojų pusės buvo tai pirmas savarankiškas mėginimas pasi­
     duoti naujai jėgai^1 ).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

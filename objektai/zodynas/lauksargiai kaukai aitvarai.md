@@ -21,6 +21,8 @@ Buvo net svarbesnių javų (pav., linų) globėjų, lauksargių, kaukų, aitvar�
   teiginys: 'Buvo net svarbesnių javų (pav., linų) globėjų, lauksargių, kaukų, aitvarų ir kitokių dievybių.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -30,10 +32,10 @@ Buvo net svarbesnių javų (pav., linų) globėjų, lauksargių, kaukų, aitvar�
     Buvo net svarbes-
     nių javų (pav., linų) globėjų, lauksargių, kaukų, aitvarų ir kitokių
     dievybių. Be to, buvo miškų, namų, židinio ir gyvulių dievų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

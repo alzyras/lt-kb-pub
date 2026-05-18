@@ -41,7 +41,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Po Zigmanto Sierakausko mirties Kauno gubernijos sukilėlių karo vadu paskirtas jaunas kunigas Antanas Mackevičius.'
+  teiginys: 'Po Zigmanto Sierakausko mirties Kauno gubernijos sukilėlių karo vadu buvo paskirtas kunigas Antanas Mackevičius.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -49,7 +49,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Po Zigmanto Sierakausko mirties Kauno gubernijos sukilėlių karo vadu paskirtas jaunas kunigas Antanas Mackevičius.'
+  santrauka: 'Po Zigmanto Sierakausko mirties Kauno gubernijos sukilėlių karo vadu buvo paskirtas kunigas Antanas Mackevičius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po Z. Sierakausko mirties Kauno gubernijos (sukilėliai vadino vaivadija)

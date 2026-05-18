@@ -19,60 +19,44 @@ Buvo nustatyta, kad seimai turi rinktis kas dveji metai. Be to, reikalui esant, 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Buvo nustatyta, kad seimai turi rinktis kas dveji metai.'
+  teiginys: 'Ordinariniai seimai turėjo rinktis kas dveji metai ir dirbti šešias savaites.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Be to, reikalui esant, galėjo būti šaukiami ir vadinamieji ekstraordinariniai seimai, kuriems buvo skiriamos dvi savaitės.'
+  teiginys: 'Reikalui esant galėjo būti šaukiami ekstraordinariniai seimai, kuriems buvo skiriamos dvi savaitės.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Tą dalyką turėdavo išspręsti tuojau po seimo įvykstą vadinamieji reliaciniai seimeliai.'
-  pagrindžia:
-    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Buvo nustatyta, kad seimai turi rinktis kas dveji metai.'
+  santrauka: 'Ordinariniai seimai turėjo rinktis kas dveji metai ir dirbti šešias savaites.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Buvo nustatyta, kad seimai turi rinktis kas
     dveji metai. Tai buvo vadinamieji ordinariniai seimai,
     kurių darbas trukdavo šešetą savaičių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Be to, reikalui esant, galėjo būti šaukiami ir vadinamieji ekstraordinariniai seimai, kuriems buvo skiriamos dvi savaitės.'
+  santrauka: 'Reikalui esant galėjo būti šaukiami ekstraordinariniai seimai, kuriems buvo skiriamos dvi savaitės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, reikalui esant,
     galėjo būti šaukiami ir vadinamieji ekstraordinariniai
     seimai, kuriems buvo skiriamos dvi savaitės.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Tą dalyką turėdavo išspręsti tuojau po seimo įvykstą vadinamieji reliaciniai seimeliai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tą dalyką turėdavo išspręsti tuojau po seimo įvykstą vadinamieji reliaciniai seimeliai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Seimų pradžia pamaldomis ir pamokslu]]

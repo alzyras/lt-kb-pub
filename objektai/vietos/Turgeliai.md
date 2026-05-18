@@ -19,23 +19,25 @@ Merkinės dvaro (prie Turgelių, netoli Vilniaus) valstiečius atleido vien už 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Merkinės dvaro (prie Turgelių, netoli Vilniaus) valstiečius atleido vien už piniginį mokestį ir net davė jiems savivaldybę.'
+  teiginys: 'Prie Turgelių, netoli Vilniaus, buvusio Merkinės dvaro valstiečiai buvo atleisti už piniginį mokestį ir gavo savivaldybę.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Merkinės dvaro (prie Turgelių, netoli Vilniaus) valstiečius atleido vien už piniginį mokestį ir net davė jiems savivaldybę.'
+  santrauka: 'Prie Turgelių, netoli Vilniaus, buvusio Merkinės dvaro valstiečiai buvo atleisti už piniginį mokestį ir gavo savivaldybę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Merkinės dvaro (prie Turgelių,
     netoli Vilniaus) valstiečius atleido vien už piniginį mokestį ir net
     davė jiems savivaldybę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

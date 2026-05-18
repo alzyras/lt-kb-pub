@@ -32,7 +32,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Antanas Smetona vienu ypu nuo valdžios vairo nustūmė krikščionis demokratus, stipriausią šalies politinę jėgą.'
+  teiginys: 'Prezidentas Antanas Smetona nuo valdžios nustūmė krikščionis demokratus, tuo metu stipriausią šalies politinę jėgą.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -40,7 +40,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Antanas Smetona vienu ypu nuo valdžios vairo nustūmė krikščionis demokratus, stipriausią šalies politinę jėgą.'
+  santrauka: 'Prezidentas Antanas Smetona nuo valdžios nustūmė krikščionis demokratus, tuo metu stipriausią šalies politinę jėgą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taip pre-

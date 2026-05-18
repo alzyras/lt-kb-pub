@@ -23,85 +23,50 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
 - t-001
   teiginys: 'Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba nieko negalėjo padaryti.'
   pagrindžia:
-    - c-001
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Buvo atgaivinta Nuolatinė Taryba ir tada veikusios karo ir iždo komisijos.'
   pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Pirmiausia buvo panaikinta Nuolatinė Taryba.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Tuo pat metu buvo suorganizuotas lig šiol nebuvęs centralinės valdžios organas, pavadintas Nuolatine Taryba.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Nuolatinė Taryba susidėjo iš 18 senatorių ir 18 atstovų;^2 /3 jų turėjo būti lenkai ir^1 /з lietuviai.'
-  pagrindžia:
     - c-005
-- t-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Nuolatinė Taryba buvo suorganizuota kaip iki tol nebuvęs centralinės valdžios organas.'
+  pagrindžia:
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Nuolatinę Tarybą sudarė 18 senatorių ir 18 atstovų, iš kurių du trečdaliai turėjo būti lenkai, o trečdalis lietuviai.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-005
   teiginys: 'Nuolatinė Taryba išgyvavo 14 metų (iki 1789 m.).'
   pagrindžia:
-    - c-006
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba nieko negalėjo padaryti.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Be jos ambasadoriaus Štakelbergo
-    sutikimo, nei karalius nei Nuolatinė Taryba nieko negalėjo pa-
-    daryti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Buvo atgaivinta Nuolatinė Taryba ir tada veikusios karo ir iždo komisijos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Buvo atgaivinta Nuolatinė Taryba ir
-    tada veikusios karo ir iždo komisijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Pirmiausia buvo panaikinta Nuolatinė Taryba.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pirmiausia buvo panaikinta Nuolatinė Taryba. Jos
-    vietoje buvo suorganizuota vadinamoji Įstatymų Sargyba,
-    t. y. ministerių kabinetas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Tuo pat metu buvo suorganizuotas lig šiol nebuvęs centralinės valdžios organas, pavadintas Nuolatine Taryba.'
+  santrauka: 'Nuolatinė Taryba buvo suorganizuota kaip iki tol nebuvęs centralinės valdžios organas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo pat metu buvo suorganizuotas lig šiol nebuvęs centralinės val-
     džios organas, pavadintas Nuolatine Taryba.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Nuolatinė Taryba susidėjo iš 18 senatorių ir 18 atstovų;^2 /3 jų turėjo būti lenkai ir^1 /з lietuviai.'
+    - t-003
+- c-002
+  santrauka: 'Nuolatinę Tarybą sudarė 18 senatorių ir 18 atstovų, iš kurių du trečdaliai turėjo būti lenkai, o trečdalis lietuviai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nuolatinė Taryba susidėjo iš 18 senatorių ir 18 at-
@@ -115,14 +80,14 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
     visą veikimą turėjo tik prižiūrėti, aiškinti įstatymus ir spręst
     kylančius konfliktus. Ji buvo bendra Lietuvai ir Lenkijai, o anos
     komisijos ir kiti organai liko, kaip buvę, atskiri.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-- c-006
+    - t-004
+- c-003
   santrauka: 'Nuolatinė Taryba išgyvavo 14 metų (iki 1789 m.).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -130,16 +95,42 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
     didelę reikšmę ir Lietuvai. Iki tol Lietuva ir Lenkija buvo
     visiškai atskiros valstybės, kurios turėjo visiškai atskirai orga-
     nizuotą savo valdžią.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-005
+- c-004
+  santrauka: 'Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba nieko negalėjo padaryti.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Be jos ambasadoriaus Štakelbergo
+    sutikimo, nei karalius nei Nuolatinė Taryba nieko negalėjo pa-
+    daryti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-005
+  santrauka: 'Buvo atgaivinta Nuolatinė Taryba ir tada veikusios karo ir iždo komisijos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Buvo atgaivinta Nuolatinė Taryba ir
+    tada veikusios karo ir iždo komisijos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Gardino seimas]]
 - [[objektai/grupes/Gardino seimas (1793 m.)]]
-- [[objektai/grupes/Įstatymų Sargyba]]

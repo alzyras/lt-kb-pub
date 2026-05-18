@@ -21,7 +21,7 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
 
 ## Teiginiai
 - t-001
-  teiginys: 'Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antemurale christianitatis – krikščionybės forposto – idėja nukreipta prieš stačiatikišką Maskvą), susiformuoja bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.'
+  teiginys: 'Susiformavusi bajorų tauta turėjo istorinę savimonę ir kilmės kroniką.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -35,7 +35,7 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antemurale christianitatis – krikščionybės forposto – idėja nukreipta prieš stačiatikišką Maskvą), susiformuoja bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.'
+  santrauka: 'Susiformavusi bajorų tauta turėjo istorinę savimonę ir kilmės kroniką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Krikščioniškasis men-

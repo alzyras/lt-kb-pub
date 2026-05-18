@@ -18,22 +18,24 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '(Taip atvaizduota jo mirtis vienos senos Sembos bažnyčios altoriuje).'
+  teiginys: 'Šv. Vaitiekaus mirtis buvo pavaizduota vienos senos Sembos bažnyčios altoriuje.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '(Taip atvaizduota jo mirtis vienos senos Sembos bažnyčios altoriuje).'
+  santrauka: 'Šv. Vaitiekaus mirtis buvo pavaizduota vienos senos Sembos bažnyčios altoriuje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šv. Vaitiekaus mirtis.
     (Taip atvaizduota jo mirtis vienos senos
     Sembos bažnyčios altoriuje).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

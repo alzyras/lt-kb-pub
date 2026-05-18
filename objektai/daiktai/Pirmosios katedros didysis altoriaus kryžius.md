@@ -46,7 +46,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Iš pirmosios katedros išlikęs didžiojo altoriaus kryžius.'
   pagrindžia:
     - c-001
@@ -55,7 +55,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Kryžius įvardijamas kaip vienintelis pirmosios katedros likutis.
+  santrauka: 'Iš pirmosios katedros išlikęs didžiojo altoriaus kryžius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet ši katedra 1399 metais sudegė. Ta­
@@ -64,11 +64,11 @@ Nenurodyta
     likęs didžiojo altoriaus kryžius^2 ).
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Cituojamas apibendrinantis pasakojimas apie išlikusį reliktą."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

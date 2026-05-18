@@ -32,7 +32,7 @@ tags:
 - Pagrindinė forma: Niekada nesitarsim, nesiderėsim!
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Ši frazė yra SSRS valdovų atsakymas į Lietuvos siūlymą tartis.'
   pagrindžia:
     - c-001
@@ -41,7 +41,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Vienoje ištraukoje sujungiami ir Lietuvos kvietimas tartis, ir kategoriškas atsakymas.
+  santrauka: 'Ši frazė yra SSRS valdovų atsakymas į Lietuvos siūlymą tartis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Štai, buvę skriaudėjai arba paveldėtojai, mūsų ištiesta taikos ir
@@ -51,8 +51,8 @@ tags:
     atsakymas. - Atšaukit savo paskelbtą Nepriklausomybės aktą.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

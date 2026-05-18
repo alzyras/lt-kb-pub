@@ -45,7 +45,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Birželio 25 d. LKP buvo įteisinta, nors kitos politinės partijos nebuvo įteisintos.'
+  teiginys: '1940 m. birželio 25 d. LKP buvo įteisinta, nors kitos politinės partijos liko neįteisintos.'
   pagrindžia:
     - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -129,7 +129,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Birželio 25 d. LKP buvo įteisinta, nors kitos politinės partijos nebuvo įteisintos.'
+  santrauka: '1940 m. birželio 25 d. LKP buvo įteisinta, nors kitos politinės partijos liko neįteisintos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griovė

@@ -19,17 +19,21 @@ Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstat
 
 ## Teiginiai
 - t-001
-  teiginys: 'Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstatymu.'
+  teiginys: '1861 m. įkurtų valsčių viršaičiai ir raštininkai buvo atstatyti po Muravjovo pertvarkymo.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Nauji viršaičių rinkimai buvo apsaugoti nuo dvarininkų įtakos.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstatymu.'
+  santrauka: '1861 m. įkurtų valsčių viršaičiai ir raštininkai buvo atstatyti po Muravjovo pertvarkymo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Savivaldybės.** Valsčių savivaldybės buvo įkurtos jau
@@ -37,11 +41,11 @@ Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstat
     keitė ir naujai pertvarkė. 1861 m. įkurtų valsčių viršaičiai (star-
     šinos) ir raštininkai, kurių daugumas buvo dvarininkų pastatyti,
     buvo atstatyti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -50,10 +54,10 @@ Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstat
   citata_originali: |
     Nauji viršaičių rinkimai buvo apsaugoti nuo
     dvarininkų įtakos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

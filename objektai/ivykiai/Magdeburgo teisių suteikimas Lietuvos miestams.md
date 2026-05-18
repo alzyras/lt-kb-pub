@@ -33,13 +33,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vakaruose miestai turėjo tam tikras teises ir valdėsi patys.'
+  teiginys: 'Kai kuriems Lietuvos miestams buvo suteiktos savivaldybės, vadintos Magdeburgo teisėmis.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vakaruose miestai turėjo tam tikras teises ir valdėsi patys.'
+  santrauka: 'Kai kuriems Lietuvos miestams buvo suteiktos savivaldybės, vadintos Magdeburgo teisėmis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Miestai.** Visais laikais prekyba ir amatai koncentravosi mies-
@@ -52,10 +54,10 @@ Nenurodyta
     mo pradžia; jie įsigalėjo daug vėliau. Pirmas Magdeburgo teises
     gavo Vilnius (1387 m.), vėliau Brasta (1390 m.), Gardinas (1391
     m.), o dar vėliau Kaunas ir kt. miestai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

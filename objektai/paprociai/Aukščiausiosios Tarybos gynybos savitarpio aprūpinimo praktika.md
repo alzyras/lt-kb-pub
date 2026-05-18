@@ -41,19 +41,19 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: 'Rengiantis gynybai AT rūsyje įrengtos ginklų remonto, šovinių ir sprogmenų gamybos dirbtuvės bei šaudykla.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-005
   teiginys: 'Benziną padegamiesiems mišiniams, maistą ir statybines medžiagas gynybai tiekė gyventojai, maitinimo įmonės ir statybinės organizacijos.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
+- t-006
   teiginys: 'Nacionalinėje M. Mažvydo bibliotekoje įkurtas pirmosios medicinos pagalbos ir medicininio vadovavimo punktas.'
   pagrindžia:
     - c-003
@@ -62,21 +62,22 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Rengiantis gynybai AT rūsyje įrengtos ginklų remonto, šovinių ir sprogmenų gamybos dirbtuvės bei šaudykla.
+  santrauka: 'Rengiantis gynybai AT rūsyje įrengtos ginklų remonto, šovinių ir sprogmenų gamybos dirbtuvės bei šaudykla.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rengiantis gynybai AT rūsyje buvo įreng-
     tos ginklų remonto ir šovinių, sprogmenų
-    gamybos dirbtuvės bei šaudykla.
+    gamybos dirbtuvės bei šaudykla. Ginklai
+    ir sprogmenys - gyventojų sunešti, gauti
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-002
-  santrauka: Benziną padegamiesiems mišiniams, maistą ir statybines medžiagas gynybai tiekė gyventojai, maitinimo įmonės ir statybinės organizacijos.
+  santrauka: 'Benziną padegamiesiems mišiniams, maistą ir statybines medžiagas gynybai tiekė gyventojai, maitinimo įmonės ir statybinės organizacijos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Benzinas padegamiesiems
@@ -91,12 +92,14 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-005
 - c-003
-  santrauka: Nacionalinėje M. Mažvydo bibliotekoje įkurtas pirmosios medicinos pagalbos ir medicininio vadovavimo punktas.
+  santrauka: 'Nacionalinėje M. Mažvydo bibliotekoje įkurtas pirmosios medicinos pagalbos ir medicininio vadovavimo punktas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Nacionalinėje M. Mažvydo
+    deputatų pastangomis. Medicininę pagalbą
+    ir reikalingas priemones teikė miesto medi-
+    cinos įstaigos. Nacionalinėje M. Mažvydo
     bibliotekoje Raudonojo Kryžiaus pastango-
     mis įkurtas pirmosios medicinos pagalbos
     ir medicininio vadovavimo punktas, atsa-
@@ -110,7 +113,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

@@ -13,24 +13,22 @@ tags: []
 # Aistuva
 
 ## Teiginiai
-
-- t-001
-  teiginys: Aistuva tekste aiškinama kaip žodžio kilmės forma.
+- t-003
+  teiginys: 'Aistuva tekste aiškinama kaip žodžio kilmės forma.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: Aistuva čia siejama su pakraštine žeme ir lietuviškų tautų protėvyne.
+- t-004
+  teiginys: 'Aistuva čia siejama su pakraštine žeme ir lietuviškų tautų protėvyne.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: Aistuva tekste aiškinama kaip žodžio kilmės forma.
+  santrauka: 'Aistuva tekste aiškinama kaip žodžio kilmės forma.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tik ligšiol dar galutinai nesusitarta ar „aesti”
@@ -39,9 +37,11 @@ tags: []
     žmonės”, — „Leute des Ostens”. Mūsų kalbininkai Kaz. Jau­
     nius ir Kaz. Būga jį išveda iš žodžio „Aistuva“, kuris kadaise
     reiškęs pakraštinę žemę ir buvęs lietuviškų tautų protėvynė1 2).
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004

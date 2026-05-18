@@ -18,13 +18,15 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pasiekus Kuršmares, toliau būdavo plaukiama Deimena pro Labguvą į Prieglių, juo — pro Karaliaučių į Aistmares, iš čia — Nogatu į Vyslą, pagaliau į Dancigą.'
+  teiginys: 'Lietuvos javų eksporto kelias iš Nemuno ėjo per jo šaką Giliją toliau į Kuršmares ir Dancigą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pasiekus Kuršmares, toliau būdavo plaukiama Deimena pro Labguvą į Prieglių, juo — pro Karaliaučių į Aistmares, iš čia — Nogatu į Vyslą, pagaliau į Dancigą.'
+  santrauka: 'Lietuvos javų eksporto kelias iš Nemuno ėjo per jo šaką Giliją toliau į Kuršmares ir Dancigą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuva kad ir neturėjo savo uosto, tačiau ir ji stengėsi ekspor-
@@ -32,10 +34,10 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
     kelias ėjo per jo šaką Giliją; pasiekus Kuršmares, toliau būdavo
     plaukiama Deimena pro Labguvą į Prieglių, juo — pro Kara-
     liaučių į Aistmares, iš čia — Nogatu į Vyslą, pagaliau į Dancigą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

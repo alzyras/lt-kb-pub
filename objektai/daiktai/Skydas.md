@@ -43,13 +43,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Skydai buvo naudojami kaip apsauga nuo priešo smūgių.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Baltos vėliavos skyde buvo vaizduojami ženklai ir žmogus su meškos galva.'
   pagrindžia:
     - c-002
@@ -58,7 +58,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Skydai buvo naudojami kaip apsauga nuo priešo smūgių.
+  santrauka: 'Skydai buvo naudojami kaip apsauga nuo priešo smūgių.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Paskesnėse gadynėse ginklais buvo: kalavijai, kardai ir kirviai, iš akmens dirbti, turėjo taip pat
@@ -70,9 +70,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Baltos vėliavos skyde buvo vaizduojami ženklai ir žmogus su meškos galva.
+  santrauka: 'Baltos vėliavos skyde buvo vaizduojami ženklai ir žmogus su meškos galva.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Kariauna, stodama į kovą, turėjo priešaky didelę baltą vėliavą, ant kurios buvęs skydas, pusiau
@@ -86,8 +86,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Vėliavos]]
+    - t-004

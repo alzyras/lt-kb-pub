@@ -31,7 +31,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tarptautinis olimpinis komitetas 1991 m. rugpjūtį atkūrė Lietuvos tautinio olimpinio komiteto tarptautines teises ir Lietuvos sportininkai dalyvavo tarptautinėse įvairių šakų sporto varžybose už savo šalį.'
+  teiginys: '1991 m. rugpjūtį Tarptautinis olimpinis komitetas atkūrė Lietuvos tautinio olimpinio komiteto tarptautines teises.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -39,7 +39,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tarptautinis olimpinis komitetas 1991 m. rugpjūtį atkūrė Lietuvos tautinio olimpinio komiteto tarptautines teises ir Lietuvos sportininkai dalyvavo tarptautinėse įvairių šakų sporto varžybose už savo šalį.'
+  santrauka: '1991 m. rugpjūtį Tarptautinis olimpinis komitetas atkūrė Lietuvos tautinio olimpinio komiteto tarptautines teises.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tarptautinis olimpinis ko-

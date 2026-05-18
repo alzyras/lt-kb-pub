@@ -21,6 +21,8 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
   teiginys: 'Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -28,11 +30,11 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

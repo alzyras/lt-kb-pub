@@ -18,22 +18,24 @@ Toliau, Lietuvoje jokio teismo sprendimas nubausti ką nors infamija ar banicija
 
 ## Teiginiai
 - t-001
-  teiginys: 'Toliau, Lietuvoje jokio teismo sprendimas nubausti ką nors infamija ar banicija (visų teisių atėmimu ar ištrėmimu) tol negaliodavo, kol jį patvirtindavo kancleris; Lenkijoje šito nereikėjo.'
+  teiginys: 'Lietuvoje teismo sprendimas dėl infamijos ar banicijos įsigaliodavo tik jį patvirtinus kancleriui.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Toliau, Lietuvoje jokio teismo sprendimas nubausti ką nors infamija ar banicija (visų teisių atėmimu ar ištrėmimu) tol negaliodavo, kol jį patvirtindavo kancleris; Lenkijoje šito nereikėjo.'
+  santrauka: 'Lietuvoje teismo sprendimas dėl infamijos ar banicijos įsigaliodavo tik jį patvirtinus kancleriui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Toliau, Lietuvoje jokio teismo sprendimas nubausti ką nors
     infamija ar banicija (visų teisių atėmimu ar ištrėmimu) tol ne-
     galiodavo, kol jį patvirtindavo kancleris; Lenkijoje šito nereikėjo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

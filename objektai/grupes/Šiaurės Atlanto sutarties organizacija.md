@@ -36,7 +36,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '1991 m. gruodį Lietuva prisijungė prie Šiaurės Atlanto bendradarbiavimo tarybos.'
+  teiginys: 'Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungusi prie Šiaurės Atlanto bendradarbiavimo tarybos.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -50,7 +50,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1991 m. gruodį Lietuva prisijungė prie Šiaurės Atlanto bendradarbiavimo tarybos.'
+  santrauka: 'Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungusi prie Šiaurės Atlanto bendradarbiavimo tarybos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A

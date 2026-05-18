@@ -23,6 +23,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginys: 'Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir kt.), priklauso prie tos pačios indoeuropiečių, arba arijų, tautų grupės.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -34,10 +36,10 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     čios indoeuropiečių, arba arijų, tautų grupės. Kada
     ir iš kur aisčiai atsikraustė į Pabaltijį, lig šiol mokslas dar nėra
     nustatęs (yra tik keletas hipotezių).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

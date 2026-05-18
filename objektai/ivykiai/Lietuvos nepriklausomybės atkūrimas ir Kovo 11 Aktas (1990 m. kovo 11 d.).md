@@ -45,7 +45,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Atkūrus Lietuvos nepriklausomybę sovietinį Lietuvos SSR herbą pakeitė Vytis.'
+  teiginys: 'Atkuriant Lietuvos nepriklausomybę sovietinį Lietuvos SSR herbą pakeitė Vytis.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -53,7 +53,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Atkūrus Lietuvos nepriklausomybę sovietinį Lietuvos SSR herbą pakeitė Vytis.'
+  santrauka: 'Atkuriant Lietuvos nepriklausomybę sovietinį Lietuvos SSR herbą pakeitė Vytis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietinį Lietuvos SSR herbą keičia Vytis

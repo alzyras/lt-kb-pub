@@ -16,24 +16,16 @@ tags: []
 # apsaugos raštas
 
 ## Teiginiai
-
-- t-001
-  teiginys: Apsaugos raštas čia reiškia saugų atvykimą garantuojantį raštą.
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: Gavęs Jogailos apsaugos raštą, Ordino viršininkas galėjo vykti į susitikimo vietą.
+- t-003
+  teiginys: 'Gavęs Jogailos apsaugos raštą, Ordino viršininkas galėjo vykti į susitikimo vietą.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: Apsaugos raštas čia reiškia saugų atvykimą garantuojantį raštą.
+  santrauka: 'Gavęs Jogailos apsaugos raštą, Ordino viršininkas galėjo vykti į susitikimo vietą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Gavęs Jogai­
@@ -41,12 +33,13 @@ tags: []
     pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­
     los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­
     no seklumo esą nebegalima toliau plaukti.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

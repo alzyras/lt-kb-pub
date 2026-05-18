@@ -23,6 +23,8 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   teiginys: 'Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -30,10 +32,10 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

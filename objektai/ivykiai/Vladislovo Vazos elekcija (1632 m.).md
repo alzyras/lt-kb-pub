@@ -31,24 +31,26 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pati elekcija užtruko vos^1 /2 valandos, nes Vladislovo priešų nebuvo.'
+  teiginys: 'Vladislovo Vazos elekcija užtruko vos pusę valandos, nes jis neturėjo priešininkų.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pati elekcija užtruko vos^1 /2 valandos, nes Vladislovo priešų nebuvo.'
+  santrauka: 'Vladislovo Vazos elekcija užtruko vos pusę valandos, nes jis neturėjo priešininkų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pati
     elekcija užtruko vos^1 /2
     valandos, nes Vladislovo
     priešų nebuvo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

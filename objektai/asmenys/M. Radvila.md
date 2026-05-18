@@ -17,22 +17,5 @@ tags:
 Radvila.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Radvila.'
-  pagrindžia:
-    - c-001
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Radvila.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Po kurio laiko Varšuvos sukilėlių
-      priešaky atsistojo M. Radvila.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001

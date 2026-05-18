@@ -45,7 +45,7 @@ Formulė pateikiama kaip Ordino propagandinis teiginys, menkinantis Lietuvos kri
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Poleminė frazė sujungia nominalų katalikiškumą su kaltinimu, kad tikėjimas Lietuvoje realiai neskelbiamas.
+  santrauka: 'Formulė pateikiama kaip Ordino skleidžiamas teiginys, menkinantis Lietuvos katalikiškumą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vok. Ordinas nenorėjo nusileisti. Apie Vytautą jis skelbė

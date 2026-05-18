@@ -18,13 +18,13 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pirmą nacių okupacijos savaitę atvykusios SD einzatsgrupės pradėjo „valymo operacijas“, per kurias sunaikinta keli tūkstančiai žmonių.'
+  teiginys: 'Pirmą nacių okupacijos savaitę SD einzatsgrupės pradėjo „valymo operacijas“, per kurias sunaikinti keli tūkstančiai žmonių.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'SD einzatsgrupės įkvėpė žiaurius pogromus Vilijampolėje ir Kauno „Lietūkio“ garaže 1941 m. birželio 26-27 d.'
+  teiginys: 'SD inspiruotuose pogromuose birželio 26 d. Vilijampolėje ir birželio 27 d. Kauno „Lietūkio“ garaže dalyvavo vietiniai talkininkai.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -32,7 +32,7 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pirmą nacių okupacijos savaitę atvykusios SD einzatsgrupės pradėjo „valymo operacijas“, per kurias sunaikinta keli tūkstančiai žmonių.'
+  santrauka: 'Pirmą nacių okupacijos savaitę SD einzatsgrupės pradėjo „valymo operacijas“, per kurias sunaikinti keli tūkstančiai žmonių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pirmą nacių okupacijos savaitę daug gy-
@@ -47,7 +47,7 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'SD einzatsgrupės įkvėpė žiaurius pogromus Vilijampolėje ir Kauno „Lietūkio“ garaže 1941 m. birželio 26-27 d.'
+  santrauka: 'SD inspiruotuose pogromuose birželio 26 d. Vilijampolėje ir birželio 27 d. Kauno „Lietūkio“ garaže dalyvavo vietiniai talkininkai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Talkinin-

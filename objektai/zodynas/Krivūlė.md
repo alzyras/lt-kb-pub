@@ -20,13 +20,13 @@ Pagrindinė forma: `krivūlė`.
 Vartojamos formos: `krivūle`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Krivūlė` šiame tekste yra valdžios lazda.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Ji naudojama įsakymams skelbti.'
   pagrindžia:
     - c-001
@@ -35,7 +35,7 @@ Vartojamos formos: `krivūle`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Krivūlė` šiame tekste yra valdžios lazda
+  santrauka: '`Krivūlė` šiame tekste yra valdžios lazda.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     įduodamas lietos, arba ūkės^878 , lazdą,
@@ -49,8 +49,8 @@ Vartojamos formos: `krivūle`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Pastabos
 

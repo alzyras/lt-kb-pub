@@ -48,45 +48,8 @@ tags:
 Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuva su Lenkija, kitą — Švedija, trečią — Danija, o ketvirtą buvo užgrobęs caras. Livonija nuo Maskvos buvo apginta, bet netrukus dėl jos prasidėjo net 60 metų trukę karai su Švedija. Tėvui mirus, 1593 m. jis nuvyko į Švediją ir karūnavosi jos karalium. Išgyvenęs ten metus, jis grįžo į Krokuvą, o savo valdžią Švedijoj paliko dėdei, Sudermanlandijos kunigaikščiui Karoliui.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuva su Lenkija, kitą — Švedija, trečią — Danija, o ketvirtą buvo užgrobęs caras.'
-  pagrindžia:
-    - c-001
-- t-003
-  teiginys: 'Tėvui mirus, 1593 m. jis nuvyko į Švediją ir karūnavosi jos karalium. Išgyvenęs ten metus, jis grįžo į Krokuvą, o savo valdžią Švedijoj paliko dėdei, Sudermanlandijos kunigaikščiui Karoliui.'
-  pagrindžia:
-    - c-003
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuva su Lenkija, kitą — Švedija, trečią — Danija, o ketvirtą buvo užgrobęs caras.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį
-    valdė Lietuva su Lenkija, kitą — Švedija, trečią — Danija, o
-    ketvirtą buvo užgrobęs caras.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-003
-  santrauka: 'Tėvui mirus, 1593 m. jis nuvyko į Švediją ir karūnavosi jos karalium. Išgyvenęs ten metus, jis grįžo į Krokuvą, o savo valdžią Švedijoj paliko dėdei, Sudermanlandijos kunigaikščiui Karoliui.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tėvui mirus, 1593 m. jis
-    nuvyko į Švediją ir karūnavosi jos karalium. Išgyvenęs ten
-    metus, jis grįžo į Krokuvą, o savo valdžią Švedijoj paliko dėdei,
-    Sudermanlandijos kunigaikščiui Karoliui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -97,6 +60,3 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - [[laikotarpiai/XVII amžius]]
 - [[laikotarpiai/XVIII amžius]]
 - [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/vietos/Danija]]

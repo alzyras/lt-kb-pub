@@ -23,7 +23,7 @@ tags:
 Šaipantis iš komandinės, planinės ekonomikos neefektyvumo niūriai juokauta, kad jeigu Sacharos dykumoje būtų įvestas socializmas, netrukus ten atsirastų smėlio deficitas...
 
 ## Teiginiai
-- t-002
+- t-003
   teiginys: 'Šaipantis iš komandinės, planinės ekonomikos neefektyvumo niūriai juokauta, kad jeigu Sacharos dykumoje būtų įvestas socializmas, netrukus ten atsirastų smėlio deficitas...'
   pagrindžia:
     - c-001
@@ -49,4 +49,4 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003

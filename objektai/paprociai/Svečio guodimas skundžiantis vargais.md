@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Kai šeimininkai neturi kuo pavaišinti svečio, jie verkia ir skundžiasi savo vargais, kad svečias jų nelaikytų blogais gaspadoriais.'
   pagrindžia:
     - c-001
@@ -50,15 +50,17 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Kai šeimininkai neturi kuo pavaišinti svečio, jie verkia ir skundžiasi savo vargais, kad svečias jų nelaikytų blogais gaspadoriais.
+  santrauka: 'Kai šeimininkai neturi kuo pavaišinti svečio, jie verkia ir skundžiasi savo vargais, kad svečias jų nelaikytų blogais gaspadoriais.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Šiandien nabagai nuvargę, žudomi vis nori dar žmonysta^501 pasielgti, tankiai išmintingam
     svečiui, į jų namus įėjusiam, neturėdami kuo jo pamylėti, pradeda verkti ir jam guostis
     prispaudimais ir neteisybėmis, to vien dėjęsi^502 , idant svetys neturėtų jo už piktos širdies žmogų
     ir netartų jį paiku gaspadorium esant.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

@@ -29,25 +29,10 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Gavęs žinią apie tėvo mirtį, Zigmantas tuojau įsakė tarybos ponams atlydėti žmoną į Vilnių. Čia ji buvo iškilmingai sutikta ir pripažinta didžiąja kunigaikštiene.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Gavęs žinią apie tėvo mirtį, Zigmantas tuojau įsakė tarybos ponams atlydėti žmoną į Vilnių. Čia ji buvo iškilmingai sutikta ir pripažinta didžiąja kunigaikštiene.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Gavęs žinią apie tėvo mirtį, Zigmantas tuojau įsakė tarybos ponams atlydėti
-    žmoną į Vilnių. Čia ji buvo iškilmingai sutikta ir pripažinta didžiąja kunigaikštiene.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: žemas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Ryšiai
 ### Laikotarpiai

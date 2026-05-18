@@ -21,13 +21,15 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai — Talino (Revelio) miestą su apylinkėmis, o Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos (Eželio) vyskupystę.'
+  teiginys: 'Tuo metu Maskva buvo užgrobusi Tartų (Dorpato) vyskupystę.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai — Talino (Revelio) miestą su apylinkėmis, o Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos (Eželio) vyskupystę.'
+  santrauka: 'Tuo metu Maskva buvo užgrobusi Tartų (Dorpato) vyskupystę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vys-
@@ -35,15 +37,10 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-
     tenę, ir Saremos (Eželio) vyskupystę. Bet didžiausioji Livonijos
     dalis teko Lietuvai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Talinas]]

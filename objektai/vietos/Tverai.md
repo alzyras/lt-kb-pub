@@ -24,6 +24,8 @@ Kunigaikštis Vykintas netrukus ties Tverais buvo nugalėtas; jis pats žuvo mū
   teiginys: 'Kunigaikštis Vykintas netrukus ties Tverais buvo nugalėtas; jis pats žuvo mūšyje, o Tautvilas su Erdvilu pabėgo.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -32,14 +34,10 @@ Kunigaikštis Vykintas netrukus ties Tverais buvo nugalėtas; jis pats žuvo mū
   citata_originali: |
     Kunigaikštis Vykintas netrukus ties Tverais buvo nu-
     galėtas; jis pats žuvo mūšyje, o Tautvilas su Erdvilu pabėgo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vykintas]]

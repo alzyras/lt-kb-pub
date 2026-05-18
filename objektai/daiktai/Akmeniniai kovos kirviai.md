@@ -34,7 +34,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Indoeuropiečiai, pasiekę Nemuno baseiną ir Baltijos jūrą, buvo ginkluoti akmeniniais kovos kirviais.'
+  teiginys: 'Apie 2000–1800 m. pr. Kr. indoeuropiečiai, pasiekę Nemuno baseiną ir Baltijos pajūrį, buvo ginkluoti akmeniniais kovos kirviais.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -42,7 +42,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Indoeuropiečiai, pasiekę Nemuno baseiną ir Baltijos jūrą, buvo ginkluoti akmeniniais kovos kirviais.
+  santrauka: 'Apie 2000–1800 m. pr. Kr. indoeuropiečiai, pasiekę Nemuno baseiną ir Baltijos pajūrį, buvo ginkluoti akmeniniais kovos kirviais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Apie 2000-1800 m. pr. Kr. indoeuropiečiai plačiai išsiskleidė ir
@@ -59,6 +59,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-001
     - t-001
