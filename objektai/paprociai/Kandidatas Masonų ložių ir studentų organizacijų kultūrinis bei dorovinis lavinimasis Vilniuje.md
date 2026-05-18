@@ -34,28 +34,32 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas.'
+  teiginys: 'Vilniaus universitete veikė studentų organizacijos, rūpinusiosios kultūriniu ir doroviniu tobulėjimu bei ištikimybe tiesai, laisvei ir Tėvynei.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Nors jokių sąmokslų šios organizacijos nerezgė, jos kūrė atmosferą, neskatinančią paklusnumo valdžiai.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas.'
+  santrauka: 'Vilniaus universitete veikė studentų organizacijos, rūpinusiosios kultūriniu ir doroviniu tobulėjimu bei ištikimybe tiesai, laisvei ir Tėvynei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Uni-
     versitete veikė nemažai studentų
     organizacijų, besirūpinusių kul-
     tūriniu ir doroviniu tobulėjimu, ištikimybe tiesai, laisvei ir Tėvynei.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -66,11 +70,11 @@ Nenurodyta
     neskatinančią paklusnumo valdžiai. Caro administracija ėmėsi tyrimo,
     kuris išsirutuliojo į to meto didžiausią Europoje teismo procesą prieš stu-
     dentų ir moksleivių jaunimą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

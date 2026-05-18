@@ -36,23 +36,25 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'o Lietuvą valdė svetimkilmiai valdovai).'
+  teiginys: 'Lietuvių valdovai, supratę Ordino krikšto kainą, ieškojo kitų krikšto variantų per Čekiją, Vengriją ir Lenkiją.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'o Lietuvą valdė svetimkilmiai valdovai).'
+  santrauka: 'Lietuvių valdovai, supratę Ordino krikšto kainą, ieškojo kitų krikšto variantų per Čekiją, Vengriją ir Lenkiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Suvokę, kad
     būti pakrikštytiems Ordino kainuos pernelyg brangiai, lietuvių valdovai
     ieškojo naujų krikšto variantų per Čekiją, Vengriją, Lenkiją (stačiatikiškas
     krikštas nebūtų išsprendęs ordinų agresijos problemos).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

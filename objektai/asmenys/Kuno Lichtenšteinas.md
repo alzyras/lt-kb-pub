@@ -20,22 +20,24 @@ Prasidėjus mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdi
 
 ## Teiginiai
 - t-001
-  teiginys: 'Prasidėjus mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdinių, pleišto, vedamo didžiojo komtūro Kuno Lichtenšteino, sunkiosios raitijos lavina.'
+  teiginys: 'Didysis komtūras Kuno Lichtenšteinas mūšio pradžioje vedė Ordino svečių ir samdinių sunkiosios raitijos pleištą prieš lietuvius.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Prasidėjus mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdinių, pleišto, vedamo didžiojo komtūro Kuno Lichtenšteino, sunkiosios raitijos lavina.'
+  santrauka: 'Didysis komtūras Kuno Lichtenšteinas mūšio pradžioje vedė Ordino svečių ir samdinių sunkiosios raitijos pleištą prieš lietuvius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prasidėjus
     mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdinių, pleišto,
     vedamo didžiojo komtūro Kuno Lichtenšteino, sunkiosios raitijos lavina.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

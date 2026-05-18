@@ -35,10 +35,6 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
     - c-004
     - c-003
     - c-002
-- t-003
-  teiginys: 'Ankstyvaisiais Viduramžiais Vakarų metraštininkai pradeda minėti prūsus, kuršius, žiemgalius.'
-  pagrindžia:
-    - c-014
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -183,21 +179,3 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
     - t-002
     - t-002
     - t-002
-- c-014
-  santrauka: 'Ankstyvaisiais Viduramžiais Vakarų metraštininkai pradeda minėti prūsus, kuršius, žiemgalius.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Anks-
-    tyvaisiais Viduramžiais Vakarų metraštininkai pradeda minėti prūsus,
-    kuršius, žiemgalius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kuršiai]]

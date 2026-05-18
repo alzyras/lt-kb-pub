@@ -53,8 +53,8 @@ Sovietmečiu religinės manifestacijos veikė kaip masinė draudimų nepaisymo p
 - Praktika tiesiogiai siejama su valdžios draudimų nepaisymu.
 
 ## Teiginiai
-- t-001
-  teiginys: "Nepaisydami sovietų valdžios draudimų, dešimtys tūkstančių maldininkų suvažiuodavo į religines manifestacijas ir įsigydavo draustų religinių relikvijų bei nelegaliai išspausdintos literatūros."
+- t-002
+  teiginys: 'Nepaisydami valdžios draudimų, į religines manifestacijas suvažiuodavo dešimtys tūkstančių maldininkų, įsigydavusių draustų relikvijų ir nelegalios religinės literatūros.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -62,7 +62,7 @@ Sovietmečiu religinės manifestacijos veikė kaip masinė draudimų nepaisymo p
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata aprašo masines religines manifestacijas ir draustos literatūros įsigijimą.
+  santrauka: 'Nepaisydami valdžios draudimų, į religines manifestacijas suvažiuodavo dešimtys tūkstančių maldininkų, įsigydavusių draustų relikvijų ir nelegalios religinės literatūros.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nepaisydami valdžios draudimų į religines manifestacijas suva-
@@ -73,9 +73,9 @@ Sovietmečiu religinės manifestacijos veikė kaip masinė draudimų nepaisymo p
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata patikrinta kaip pažodinis darbinio šaltinio fragmentas."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Šaltiniai ir įrodymai
 

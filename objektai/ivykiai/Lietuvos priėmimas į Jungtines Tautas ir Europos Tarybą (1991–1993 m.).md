@@ -33,13 +33,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Išsivadavusi Lietuva, kaip ir kitos kaimynės, siekė kuo greičiau integruotis į svarbiausias tarptautines demokratinio Vakarų pasaulio organizacijas ir tapti visateise valstybe.'
+  teiginys: '1991 m. rugsėjo 17 d. Lietuva priimta į Jungtines Tautas, o 1993 m. – į Europos Tarybą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Išsivadavusi Lietuva, kaip ir kitos kaimynės, siekė kuo greičiau integruotis į svarbiausias tarptautines demokratinio Vakarų pasaulio organizacijas ir tapti visateise valstybe.'
+  santrauka: '1991 m. rugsėjo 17 d. Lietuva priimta į Jungtines Tautas, o 1993 m. – į Europos Tarybą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Išsivadavusi Lietuva, kaip ir kitos kaimynės, siekė kuo greičiau inte-
@@ -50,10 +52,10 @@ Nenurodyta
     (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą
     (ET), o 2004 m. – ir į svarbiausias organizacijas – karinę Šiaurės Atlanto
     sutarties organizaciją ir ekonominę organizaciją – Europos Sąjungą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

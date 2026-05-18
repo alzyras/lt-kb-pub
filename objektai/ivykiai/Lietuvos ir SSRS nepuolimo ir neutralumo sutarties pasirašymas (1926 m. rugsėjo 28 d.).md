@@ -46,32 +46,22 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: "1926 m. rugsėjo 28 d. Maskvoje pasirašyta Lietuvos ir SSRS nepuolimo ir neutralumo sutartis."
+- t-005
+  teiginys: 'Sovietai užtikrino Lietuvą, kad faktiniai sienos pažeidimai nepakeitė Maskvos pozicijos dėl Lietuvos teritorinio suverenumo.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "Sutartyje SSRS patvirtino 1920 m. sutarties sąlygų tęstinumą."
+- t-006
+  teiginys: 'Georgijaus Čičerino nota prie pakto patvirtino Lietuvos interesus Vilniuje.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: "Georgijaus Čičerino nota prie pakto patvirtino Lietuvos interesus Vilniuje."
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Likę vieniši lietuviai 1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir neutralumo sutartį su SSRS.'
-  pagrindžia:
-    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Sutarties pasirašymas, 1920 m. sutarties tęstinumas ir Čičerino nota.
+  santrauka: 'Sovietai užtikrino Lietuvą, kad faktiniai sienos pažeidimai nepakeitė Maskvos pozicijos dėl Lietuvos teritorinio suverenumo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Georgijaus Čičerino nota prie šio pakto patvirtino Lietuvos intere-
@@ -80,13 +70,12 @@ Nenurodyta
     suverenumo.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Kūno prozos citata tiesiogiai nurodo įvykį ir jo aplinkybes."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
+    - t-005
+    - t-006
 
 ## Ryšiai
 ### Laikotarpiai

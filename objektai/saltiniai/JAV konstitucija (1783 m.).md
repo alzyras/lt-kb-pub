@@ -18,21 +18,25 @@ Lenkijos ir Lietuvos konstitucijos konstruojama santvarka turėjo lygiuotis į A
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lenkijos ir Lietuvos konstitucijos konstruojama santvarka turėjo lygiuotis į Anglijoje prieš 100 metų įvestą santvarką, tiesa, taip ir nesulaukusią rašytinės konstitucijos.'
+  teiginys: 'Lenkijos ir Lietuvos Valstybės konstitucija buvo antroji pasaulyje ir pirmoji Europoje.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Lenkijos ir Lietuvos konstitucijos konstruojama santvarka turėjo lygiuotis į Anglijoje prieš 100 metų įvestą santvarką, tiesa, taip ir nesulaukusią rašytinės konstitucijos.'
+  santrauka: 'Lenkijos ir Lietuvos Valstybės konstitucija buvo antroji pasaulyje ir pirmoji Europoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi, LLV Konstitucija buvo antroji pasaulyje ir pirmoji Europoje, keliais
     mėnesiais aplenkusi Prancūzijos konstituciją.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -136,7 +136,3 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/vietos/Baltijos jūra]]
-- [[objektai/vietos/Mažoji Lietuva]]

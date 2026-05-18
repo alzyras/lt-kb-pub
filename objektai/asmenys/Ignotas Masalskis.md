@@ -37,87 +37,36 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
 
 ## Teiginiai
 - t-001
-  teiginys: 'Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m.'
+  teiginys: 'Vilniaus vyskupas Ignotas Masalskis 1773 m. tapo pirmosios Europoje švietimo ministerijos tipo įstaigos, Edukacinės komisijos, pirmininku.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Masalskis.'
+  teiginys: '1769 m. Martynas Knakfusas tapo Vilniaus vyskupo Ignoto Masalskio architektu ir pradėjo statyti vyskupo rūmus Verkiuose.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Masalskis ir Livonijos vyskupas J.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švietimo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino švietimo sistemą.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: '1769 m. vienas iš klasicizmo architektūros L I E T U V O S I S T O R I J A 90 pradininkų Lietuvoje Martynas Knakfusas (Marcin Knackfus, apie 1740– 1821) tapo būsimojo pirmojo Edukacinės komisijos pirmininko Vilniaus vyskupo Ignoto Masalskio architektu ir.'
-  pagrindžia:
-    - c-005
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus
-    vyskupas Ignotas Masalskis) įkūrimas 1773 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Masalskis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Targovicos konfederacijai 1792  m. birželio 25 d. pritarė Vilniaus (t.  y.
-    Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas
-    Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis
-    ir Vilniaus vyskupas I. Masalskis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Masalskis ir Livonijos vyskupas J.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos
-    konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos
-    vyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-
-    lio 28 dieną.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švietimo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino švietimo sistemą.'
+  santrauka: 'Vilniaus vyskupas Ignotas Masalskis 1773 m. tapo pirmosios Europoje švietimo ministerijos tipo įstaigos, Edukacinės komisijos, pirmininku.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus
     vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švie-
     timo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino
     švietimo sistemą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-- c-005
-  santrauka: '1769 m. vienas iš klasicizmo architektūros L I E T U V O S I S T O R I J A 90 pradininkų Lietuvoje Martynas Knakfusas (Marcin Knackfus, apie 1740– 1821) tapo būsimojo pirmojo Edukacinės komisijos pirmininko Vilniaus vyskupo Ignoto Masalskio architektu ir.'
+    - t-001
+- c-002
+  santrauka: '1769 m. Martynas Knakfusas tapo Vilniaus vyskupo Ignoto Masalskio architektu ir pradėjo statyti vyskupo rūmus Verkiuose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1769 m. vienas iš klasicizmo architektūros
@@ -128,13 +77,13 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
     1821) tapo būsimojo pirmojo Edukacinės komisijos pirmininko Vilniaus
     vyskupo Ignoto Masalskio architektu ir pradėjo statyti vyskupo rūmus
     Verkiuose, vieną iš ryškiausių klasicizmo paminklų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai
@@ -143,5 +92,4 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
 - [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
-- [[objektai/grupes/Edukacinė Komisija]]
 - [[objektai/asmenys/Martynas Knakfusas]]

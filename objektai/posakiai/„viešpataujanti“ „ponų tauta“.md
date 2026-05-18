@@ -20,13 +20,15 @@ Naciai SSRS ir jos okupuotų kraštų gyventojus laikė atsilikusiomis tautomis,
 
 ## Teiginiai
 - t-001
-  teiginys: 'Naciai SSRS ir jos okupuotų kraštų gyventojus laikė atsilikusiomis tautomis, kurios turėjo paklusti vokiečių viešpatavimui, dėl savo rasinio ir kultūrinio pranašumo vokiečių tauta turinti būti „viešpataujanti“ arba „ponų tauta“, o „rasės atžvilgiu svetimus.'
+  teiginys: 'Naciai manė, kad dėl rasinio ir kultūrinio pranašumo vokiečių tauta turi būti „viešpataujanti“ arba „ponų tauta“.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Naciai SSRS ir jos okupuotų kraštų gyventojus laikė atsilikusiomis tautomis, kurios turėjo paklusti vokiečių viešpatavimui, dėl savo rasinio ir kultūrinio pranašumo vokiečių tauta turinti būti „viešpataujanti“ arba „ponų tauta“, o „rasės atžvilgiu svetimus.'
+  santrauka: 'Naciai manė, kad dėl rasinio ir kultūrinio pranašumo vokiečių tauta turi būti „viešpataujanti“ arba „ponų tauta“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nacių savivalda – lietuvių savismauga
@@ -36,10 +38,10 @@ Naciai SSRS ir jos okupuotų kraštų gyventojus laikė atsilikusiomis tautomis,
     taujanti“ arba „ponų tauta“, o „rasės atžvilgiu svetimus elementus“ bū-
     tina pašalinti. Nacių Vokietijos planuose Baltijos šalys laikytos vokiečių
     „gynybine erdve“, kuri palaipsniui turėjo susilieti su Trečiuoju Reichu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

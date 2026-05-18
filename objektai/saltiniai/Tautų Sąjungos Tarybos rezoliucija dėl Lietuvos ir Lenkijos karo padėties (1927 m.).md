@@ -21,22 +21,26 @@ Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų
 
 ## Teiginiai
 - t-001
-  teiginys: 'Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų valstybių pavadino jau ne „demarkacijos linija“, o „administracine linija“, bet ne „siena“, kaip norėjo lietuviai.'
+  teiginys: 'Tautų Sąjungos Taryba rezoliucijoje Lietuvos ir Lenkijos ribą pavadino administracine linija, bet ne siena.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų valstybių pavadino jau ne „demarkacijos linija“, o „administracine linija“, bet ne „siena“, kaip norėjo lietuviai.'
+  santrauka: 'Tautų Sąjungos Taryba rezoliucijoje Lietuvos ir Lenkijos ribą pavadino administracine linija, bet ne siena.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp
     abiejų valstybių pavadino jau ne „demarkacijos linija“, o „administraci-
     ne linija“, bet ne „siena“, kaip norėjo lietuviai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

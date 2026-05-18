@@ -127,7 +127,3 @@ tags:
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/S. Darius]]
-- [[objektai/asmenys/S. Girėnas]]

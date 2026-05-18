@@ -18,24 +18,26 @@ nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietu
 
 ## Teiginiai
 - t-001
-  teiginys: 'nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietuvos radijo ir televizijos komiteto pastatą, kurį tik savo kūnais gynė daugiatūkstantinė taikių Lietuvos gyventojų minia.'
+  teiginys: 'Apie vidurnaktį sovietų tankai ir šarvuočiai apsiautė Lietuvos radijo ir televizijos komiteto pastatą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietuvos radijo ir televizijos komiteto pastatą, kurį tik savo kūnais gynė daugiatūkstantinė taikių Lietuvos gyventojų minia.'
+  santrauka: 'Apie vidurnaktį sovietų tankai ir šarvuočiai apsiautė Lietuvos radijo ir televizijos komiteto pastatą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Apie
     12 val. nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei
     Lietuvos radijo ir televizijos komiteto pastatą, kurį tik savo kūnais gynė
     daugiatūkstantinė taikių Lietuvos gyventojų minia.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

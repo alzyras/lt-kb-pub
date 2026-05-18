@@ -24,10 +24,8 @@ Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji ta
   teiginys: 'Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji tautos atstovai.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Prezidentą renka septyneriems metams ypatingi tautos atstovai, jis daro visus paskyrimus ir atleidimus.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -36,26 +34,10 @@ Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji ta
   citata_originali: |
     neįvardyta. Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė
     vadinamieji tautos atstovai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Prezidentą renka septyneriems metams ypatingi tautos atstovai, jis daro visus paskyrimus ir atleidimus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    A. Smetona 1928 m. gegužės 15 d., „pritariamas viso Ministerių kabi-
-    neto“, nauja konstitucija sustiprino savo pozicijas, nes įteisino savo virše-
-    nybę prieš Seimą, galėjo jį paleisti ar surengti rinkimus, leisti įstatymus
-    (įsteigta Valstybės Taryba turėjo teisę tik ruošti bei svarstyti įstatymus),
-    Seimui nesant, vykdyti jo teises.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

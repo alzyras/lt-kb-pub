@@ -33,23 +33,25 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Siekti karūnacijos Vytautas pradėjo išsprendęs savo politikos prioritetą – 1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir grėsmės Lietuvai nebekėlė.'
+  teiginys: '1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir nebekėlė grėsmės Lietuvai.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Siekti karūnacijos Vytautas pradėjo išsprendęs savo politikos prioritetą – 1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir grėsmės Lietuvai nebekėlė.'
+  santrauka: '1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir nebekėlė grėsmės Lietuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją
     ir grėsmės Lietuvai nebekėlė. Atėjo metas Lietuvos ir Lenkijos santykių
     problemai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

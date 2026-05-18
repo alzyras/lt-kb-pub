@@ -18,13 +18,15 @@ Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio akademija Do
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio akademija Dotnuvoje, Veterinarijos akademija Kaune, rengusios specialistus žemės ūkiui.'
+  teiginys: 'Dotnuvoje veikusi Žemės ūkio akademija rengė specialistus žemės ūkiui.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio akademija Dotnuvoje, Veterinarijos akademija Kaune, rengusios specialistus žemės ūkiui.'
+  santrauka: 'Dotnuvoje veikusi Žemės ūkio akademija rengė specialistus žemės ūkiui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio
@@ -33,10 +35,10 @@ Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio akademija Do
     kykla ir konservatorija ugdė menininkus, gavę valstybės stipendijas apie
     1 500 jaunų lietuvių baigė užsienyje inžinerijos, jūreivystės, medicinos,
     kalbų ir istorijos, karo mokslus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

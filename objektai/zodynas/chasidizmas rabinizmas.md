@@ -21,13 +21,15 @@ Jo istorinis vaidmuo neatsiejamas nuo didžiulį poveikį visiems žydams turėj
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jo istorinis vaidmuo neatsiejamas nuo didžiulį poveikį visiems žydams turėjusios akcijos – reformistinio sąjūdžio – chasidizmo sustabdymo.'
+  teiginys: 'Vilniaus Gaonas inicijavo akcijas prieš chasidizmą ir savo autoritetu sustabdė jo plitimą Lietuvoje.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jo istorinis vaidmuo neatsiejamas nuo didžiulį poveikį visiems žydams turėjusios akcijos – reformistinio sąjūdžio – chasidizmo sustabdymo.'
+  santrauka: 'Vilniaus Gaonas inicijavo akcijas prieš chasidizmą ir savo autoritetu sustabdė jo plitimą Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vil-
@@ -35,11 +37,11 @@ Jo istorinis vaidmuo neatsiejamas nuo didžiulį poveikį visiems žydams turėj
     esant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo
     plitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį
     jo reformavimą skelbiančio chasidizmo ėjo būtent per LDK teritoriją.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

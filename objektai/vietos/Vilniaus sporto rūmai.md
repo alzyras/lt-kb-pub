@@ -30,13 +30,15 @@ Kadangi Baltijos valstybių įjungimas į Sovietų Sąjungą prieštaravo SSRS d
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kadangi Baltijos valstybių įjungimas į Sovietų Sąjungą prieštaravo SSRS deklaruojamiems Lietuvos Persitvarkymo Sąjūdžio Steigiamasis suvažiavimas Vilniaus sporto rūmuose 1988 m. spalio 22–23 d. Vladimiro Gulevičiaus nuotrauka L I E T U V O S I S T O R I J A.'
+  teiginys: 'Lietuvos Persitvarkymo Sąjūdžio Steigiamasis suvažiavimas vyko Vilniaus sporto rūmuose 1988 m. spalio 22–23 d.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kadangi Baltijos valstybių įjungimas į Sovietų Sąjungą prieštaravo SSRS deklaruojamiems Lietuvos Persitvarkymo Sąjūdžio Steigiamasis suvažiavimas Vilniaus sporto rūmuose 1988 m. spalio 22–23 d. Vladimiro Gulevičiaus nuotrauka L I E T U V O S I S T O R I J A.'
+  santrauka: 'Lietuvos Persitvarkymo Sąjūdžio Steigiamasis suvažiavimas vyko Vilniaus sporto rūmuose 1988 m. spalio 22–23 d.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kadangi Baltijos
@@ -50,11 +52,11 @@ Kadangi Baltijos valstybių įjungimas į Sovietų Sąjungą prieštaravo SSRS d
     tautų apsisprendimo principams, Lietuvos SSR Aukščiausiosios Tary-
     bos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Moloto-
     vo–Ribentropo pakto ir slaptųjų protokolų padarinius – 1940 m.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

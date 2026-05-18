@@ -47,30 +47,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Sąjūdžio ženklas su Gedimino stulpais (dail.'
+  teiginys: 'Sąjūdžio ženklą su Gedimino stulpais sukūrė Giedrius Reimeris ir Algimantas Nasvytis.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 235 Sąjūdžio ženklas su Gedimino stulpais (dail.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Sąjūdžio ženklas su Gedimino stulpais (dail.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sąjūdžio ženklas su Gedimino stulpais
-    (dail.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 235 Sąjūdžio ženklas su Gedimino stulpais (dail.'
+  santrauka: 'Sąjūdžio ženklą su Gedimino stulpais sukūrė Giedrius Reimeris ir Algimantas Nasvytis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
@@ -80,18 +65,15 @@ Nenurodyta
     Nasvytis)
     Laisvėjant spaudai, klubų diskusijose didėjo susidomėjimas istorija, ypač
     1939–1940 m.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/daiktai/Gediminaičių stulpai]]

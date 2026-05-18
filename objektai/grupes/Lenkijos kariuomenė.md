@@ -24,14 +24,20 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   teiginys: 'Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m. birželio 18 d. „Maršalo Fošo“ liniją, o Antantė vengė pripažinti naujas valstybes, laikydamasi Rusijos nedalomumo principo.'
   pagrindžia:
     - c-001
-- t-003
-  teiginys: 'Pilsudskio sumanymą miestą užėmė ne Lenkijos kariuomenė, o neva nepaklususio Lenkijos valdžiai „maištininko“ L.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Pagal J. Pilsudskio sumanymą Vilnių užėmė ne Lenkijos kariuomenė, o L. Želigovskio vadovaujami daliniai.'
   pagrindžia:
-    - c-003
-- t-004
+    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-003
   teiginys: 'Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių.'
   pagrindžia:
-    - c-004
+    - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -42,42 +48,42 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     ją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m. birželio
     18 d. „Maršalo Fošo“ liniją, o Antantė vengė pripažinti naujas valstybes,
     laikydamasi Rusijos nedalomumo principo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-003
-  santrauka: 'Pilsudskio sumanymą miestą užėmė ne Lenkijos kariuomenė, o neva nepaklususio Lenkijos valdžiai „maištininko“ L.'
+- c-002
+  santrauka: 'Pagal J. Pilsudskio sumanymą Vilnių užėmė ne Lenkijos kariuomenė, o L. Želigovskio vadovaujami daliniai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagal klastingą J. Pilsudskio sumanymą
     miestą užėmė ne Lenkijos kariuomenė, o neva nepaklususio Lenkijos val-
     džiai „maištininko“ L. Želigovskio vietinių Vilnijos „lietuvių ir baltaru-
     sių“ daliniai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-004
+    - t-002
+- c-003
   santrauka: 'Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Persigrupavusi Lietuvos
     kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie
     Širvintų ir Giedraičių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

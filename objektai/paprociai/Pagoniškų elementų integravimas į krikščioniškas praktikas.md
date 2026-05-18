@@ -74,21 +74,7 @@ Po Lietuvos krikšto krikščioniškos praktikos ilgai persidengė su pagoniška
 Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-33419
-  santrauka: Krikščionėjimas siejamas su pagoniškųjų tikėjimų integravimu.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Bažnyčia siekė integruoti pagoniškuosius tikėjimus,
-    nors katalikų šventieji labai iš lėto stūmė pagonių dievus, kurie žmonių
-    sąmonėje dar ilgai gyvavo kartu.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Rankiniu būdu sutrumpinta į šaltinyje exact randamą fragmentą po OCR tarpų validacijos klaidos."
-  pagrindžia:
-    - t-003
-    - t-004
+Nenurodyta
 
 ## Šaltiniai ir įrodymai
 

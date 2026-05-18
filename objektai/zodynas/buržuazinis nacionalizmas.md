@@ -18,45 +18,25 @@ Kai kuriems jų neleista apsigyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kai kuriems jų neleista apsigyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti aukštosiose mokyklose, jie ignoruojami, sekami, jiems prikaišiojama „antisovietinė veikla“ ir „buržuazinis nacionalizmas“.'
+  teiginys: 'Kai kuriems asmenims prikaišiota „antisovietinė veikla“ ir „buržuazinis nacionalizmas“, jie buvo ignoruojami ir sekami.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Nusižengusieji buvo kaltinami „buržuaziniu nacionalizmu“, neigiama Vakarų kultūros įtaka.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kai kuriems jų neleista apsigyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti aukštosiose mokyklose, jie ignoruojami, sekami, jiems prikaišiojama „antisovietinė veikla“ ir „buržuazinis nacionalizmas“.'
+  santrauka: 'Kai kuriems asmenims prikaišiota „antisovietinė veikla“ ir „buržuazinis nacionalizmas“, jie buvo ignoruojami ir sekami.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kai kuriems jų neleista apsi-
     gyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti aukštosiose moky-
     klose, jie ignoruojami, sekami, jiems prikaišiojama „antisovietinė veikla“
     ir „buržuazinis nacionalizmas“.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Nusižengusieji buvo kaltinami „buržuaziniu nacionalizmu“, neigiama Vakarų kultūros įtaka.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Todėl nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto
-    Lietuvių literatūros katedros darbuotojų, kai kurių kultūros veikėjų ide-
-    ologinis puolimas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vilniaus universiteto Lietuvių literatūros katedra]]

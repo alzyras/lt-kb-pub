@@ -51,24 +51,22 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
 - amziai: XII, XIV
 
 ## Teiginiai
-
-- t-001
-  teiginys: Kijevo Rusios erdvė minima kaip buvusios stačiatikiškos žemės, kurią užvaldė pagoniška Lietuvos valstybė tapdama regionine didvalstybe arba imperija.
+- t-003
+  teiginys: 'Pagoniška Lietuvos valstybė užvaldė didžiules buvusios Kijevo Rusios stačiatikiškų žemių erdves.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes.
+- t-004
+  teiginys: '1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: Citata pagrindžia Kijevo Rusios erdvių paminėjimą kaip Lietuvos valstybės užvaldytų stačiatikiškų žemių kontekstą.
+  santrauka: 'Pagoniška Lietuvos valstybė užvaldė didžiules buvusios Kijevo Rusios stačiatikiškų žemių erdves.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     suspėjo krikštytis, o 1253 m. – karūnuotis
@@ -79,13 +77,13 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
     (buvusios Kijevo Rusios) erdves. 1387 m.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Citata pagrindžia Rusios žemių paminėjimą kaip 1183 m. lietuvių žygio kryptį.
+  santrauka: '1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mindaugas sukuria Lietuvos valstybę.
@@ -96,11 +94,11 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
     kurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

@@ -46,14 +46,16 @@ Iš konteksto `tuteišiai` reiškia žmones, laikiusius save čiabuviais; taip p
 Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimonės permainas.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Bet rytiniai ir pietrytiniai šio ploto pakraščiai jau buvo apimti dvikalbystės ir kalbinės slavizacijos (baltarusėjimo) procesų, prarandant lietuvio, bet neįgyjant baltarusio etninės savimonės, laikant save tiesiog čiabuviais (tuteišiais).'
+- t-002
+  teiginys: 'Rytiniuose ir pietrytiniuose lietuviško ploto pakraščiuose dalis žmonių save laikė čiabuviais, arba tuteišiais.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Tuteišiai aiškinami kaip čiabuviai.
+  santrauka: 'Rytiniuose ir pietrytiniuose lietuviško ploto pakraščiuose dalis žmonių save laikė čiabuviais, arba tuteišiais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1819 m. nuo Vilniaus
@@ -69,9 +71,9 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Exact citata pridėta po public_notes_have_evidence validacijos klaidos."
-  pagrindžia: []
-    - t-001
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

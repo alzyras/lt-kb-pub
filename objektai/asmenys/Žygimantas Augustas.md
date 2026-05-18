@@ -21,21 +21,27 @@ pabaigoje į Lietuvos istoriją įžengė garsiausia ir – tai svarbu – lietu
 
 ## Teiginiai
 - t-001
-  teiginys: 'pabaigoje į Lietuvos istoriją įžengė garsiausia ir – tai svarbu – lietuvių kilmės valdovų – Gediminaičių dinastija, valdžiusi Lietuvą iki 1572 m. – Žygimanto Augusto mirties (po jo Lietuvą valdė svetimkilmiai valdovai).'
+  teiginys: 'Žygimanto Augusto mirtimi 1572 m. baigėsi Gediminaičių dinastijos valdymas Lietuvoje.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Žygimantas Augustas savo aktais prie Lenkijos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos.'
+  pagrindžia:
+    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Voluinės, Kijevo ir Podolės (Braclavo) vaivadijas).'
+  teiginys: 'Žygimanto Augusto privilegija sulygino visų krikščioniškų konfesijų teises.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Lietuvoje tai padarė 1563 m. Žygimanto Augusto privilegija, sulyginusi visų krikščioniškų konfesijų teises, tai tapo ir Antrojo bei Trečiojo Lietuvos Statutų teisine norma.'
-  pagrindžia:
-    - c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'pabaigoje į Lietuvos istoriją įžengė garsiausia ir – tai svarbu – lietuvių kilmės valdovų – Gediminaičių dinastija, valdžiusi Lietuvą iki 1572 m. – Žygimanto Augusto mirties (po jo Lietuvą valdė svetimkilmiai valdovai).'
+  santrauka: 'Žygimanto Augusto mirtimi 1572 m. baigėsi Gediminaičių dinastijos valdymas Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tad
@@ -43,47 +49,46 @@ pabaigoje į Lietuvos istoriją įžengė garsiausia ir – tai svarbu – lietu
     lietuvių kilmės valdovų – Gediminaičių dinastija, valdžiusi Lietuvą iki
     1572 m. – Žygimanto Augusto mirties (po jo Lietuvą valdė svetimkilmiai
     valdovai).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-003
-  santrauka: 'Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Voluinės, Kijevo ir Podolės (Braclavo) vaivadijas).'
+- c-002
+  santrauka: 'Žygimantas Augustas savo aktais prie Lenkijos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-
     mantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė be-
     veik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Volui-
     nės, Kijevo ir Podolės (Braclavo) vaivadijas).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Lietuvoje tai padarė 1563 m. Žygimanto Augusto privilegija, sulyginusi visų krikščioniškų konfesijų teises, tai tapo ir Antrojo bei Trečiojo Lietuvos Statutų teisine norma.'
+    - t-002
+- c-003
+  santrauka: 'Žygimanto Augusto privilegija sulygino visų krikščioniškų konfesijų teises.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žygimanto Augusto privilegija, sulyginusi visų
     krikščioniškų konfesijų teises, tai tapo ir Antrojo bei Trečiojo Lietuvos
     Statutų teisine norma.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
 
 ### Susiję objektai
-- [[objektai/ivykiai/Varšuvos konfederacija]]
 - [[objektai/ivykiai/Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių]]

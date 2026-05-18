@@ -18,13 +18,15 @@ Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideologinės pakrai
 
 ## Teiginiai
 - t-001
-  teiginys: 'Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideologinės pakraipos politinių grupuočių (neretai pasivadinusių partijomis), veikusių atskirai lietuvių ir lenkų bendruomenių vardu, kurios daugiau ar mažiau laikėsi atitinkamai arba lietuvių, arba.'
+  teiginys: 'Lietuvių ir lenkų politinės grupuotės laikėsi etnolingvistinio nacionalizmo pozicijų ir kitos pusės siekius laikė neteisėtais.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideologinės pakraipos politinių grupuočių (neretai pasivadinusių partijomis), veikusių atskirai lietuvių ir lenkų bendruomenių vardu, kurios daugiau ar mažiau laikėsi atitinkamai arba lietuvių, arba.'
+  santrauka: 'Lietuvių ir lenkų politinės grupuotės laikėsi etnolingvistinio nacionalizmo pozicijų ir kitos pusės siekius laikė neteisėtais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideo-
@@ -33,10 +35,10 @@ Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideologinės pakrai
     mažiau laikėsi atitinkamai arba lietuvių, arba lenkų etnolingvistinio naci-
     onalizmo pozicijų ir a priori kitos pusės siekius laikė priešiškais ir iš esmės
     neteisėtais.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

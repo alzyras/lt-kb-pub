@@ -18,13 +18,15 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
 
 ## Teiginiai
 - t-001
-  teiginys: 'O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai susijusius su Lietuva – David Baltimore (Deividą Boltimorą, 1975 m. laureatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių, nuo kurių kilęs ir įžymus.'
+  teiginys: 'Italų renesanso tapybos žinovas Bernardas Berensonas buvo kilęs iš Butrimonių.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai susijusius su Lietuva – David Baltimore (Deividą Boltimorą, 1975 m. laureatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių, nuo kurių kilęs ir įžymus.'
+  santrauka: 'Italų renesanso tapybos žinovas Bernardas Berensonas buvo kilęs iš Butrimonių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O juk
@@ -37,10 +39,15 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
     damas 12-os) ar Sydney Brenner (Sidnėjus Brėneris, gimęs 1927 m. bat-
     siuvio, 1910 m. emigravusio į Pietų Afriką iš Lietuvos, šeimoje; 2002 m.
     premija).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gertrude Ellion]]
+- [[objektai/asmenys/Sydney Brenner]]

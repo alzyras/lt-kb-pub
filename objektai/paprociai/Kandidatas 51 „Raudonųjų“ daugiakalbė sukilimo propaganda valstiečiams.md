@@ -39,10 +39,14 @@ Nenurodyta
   teiginys: '„Raudonieji“ savo propagandoje ne tik lenkų, bet ir lietuvių bei baltarusių kalbomis žadėjo valstiečiams laisvę ir nuosavybės teisę į visą jų dirbamą žemę be jokių išpirkų.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Vasario 1-ąją atsišaukimais lenkų ir lietuvių kalbomis sukilimo pradžia paskelbta ir buvusios LDK teritorijoje.'
+  teiginys: 'Lenkijos sukilėlių vadovybė, bijodama Lietuvos „raudonųjų“ radikalumo, sukilimo Lietuvoje vadovavimą pavedė „baltiesiems“.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -54,25 +58,25 @@ Nenurodyta
     jų dirbamą žemę be jokių išpirkų. Jie tikėjosi, kad, prasidėjus valstiečių
     reformai, kils neramumai ir Rusijos kaime, ir valdžia neturės galimybių
     mesti prieš sukilėlius didelių karinių pajėgų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Vasario 1-ąją atsišaukimais lenkų ir lietuvių kalbomis sukilimo pradžia paskelbta ir buvusios LDK teritorijoje.'
+  santrauka: 'Lenkijos sukilėlių vadovybė, bijodama Lietuvos „raudonųjų“ radikalumo, sukilimo Lietuvoje vadovavimą pavedė „baltiesiems“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Baimindamasi Lietuvos „raudonųjų“ radika-
     lumo Lenkijos sukilėlių vadovybė sukilimui Lietuvoje vadovauti pavedė
     „baltiesiems“.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 
@@ -82,5 +86,4 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/paprociai/Kandidatas „Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams]]
-- [[objektai/grupes/Lenkijos laikinoji tautinė vyriausybė]]
 - [[objektai/grupes/Raudonieji]]

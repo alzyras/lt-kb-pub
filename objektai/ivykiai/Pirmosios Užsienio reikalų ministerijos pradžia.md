@@ -31,22 +31,24 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Gegužės trečiosios konstitucijos pagrindu buvo įsteigtas antspaudo ministro užsienio reikalams postas.'
+  teiginys: 'Pirmasis URM darbas buvo aiškintis Europos šalių reakciją į valstybės įvykius po konstitucijos paskelbimo.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Gegužės trečiosios konstitucijos pagrindu buvo įsteigtas antspaudo ministro užsienio reikalams postas.'
+  santrauka: 'Pirmasis URM darbas buvo aiškintis Europos šalių reakciją į valstybės įvykius po konstitucijos paskelbimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pirmasis URM darbas buvo aiškintis, kokia Europos šalių reak-
     cija į įvykius valstybėje po konstitucijos paskelbimo. Ypatingas dėmesys
     skirtas pasiuntinybėms Berlyne ir Peterburge.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

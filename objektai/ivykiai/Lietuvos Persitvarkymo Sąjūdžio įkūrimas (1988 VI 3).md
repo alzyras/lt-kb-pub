@@ -33,83 +33,48 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vis dėlto šiandien į tokį vaidmenį pretenduoja ir 1988–1990 m. Lietuvos Sąjūdžio, Baltijos kelio ir Lietuvos Nepriklausomybės kūrėjai, taip pat Sausio 13-osios (1991) herojai, kurie sugebėjo įveikti pusamžį trukusią Vienas žymiausių M.'
+  teiginys: '1988 m. birželio 3 d. įkurtas Lietuvos Persitvarkymo Sąjūdis.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: '1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis.'
+  teiginys: 'Kritiški ir prieš valdžią nusiteikę Lietuvos inteligentai sekė M. Gorbačiovo pertvarką ir pokyčius sovietinėse respublikose.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Kritiškai mąstantys ir prieš valdžią nusiteikę Lietuvos inteligentai atidžiai sekė M.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Ją sudarė 35 visoje Lietuvoje žinomi inteligentai.'
-  pagrindžia:
-    - c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vis dėlto šiandien į tokį vaidmenį pretenduoja ir 1988–1990 m. Lietuvos Sąjūdžio, Baltijos kelio ir Lietuvos Nepriklausomybės kūrėjai, taip pat Sausio 13-osios (1991) herojai, kurie sugebėjo įveikti pusamžį trukusią Vienas žymiausių M.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietu-
-    vos Sąjūdžio, Baltijos kelio ir Lietuvos Nepriklausomybės kūrėjai, taip pat
-    Sausio 13-osios (1991) herojai, kurie sugebėjo įveikti pusamžį trukusią
-    Vienas žymiausių M. K. Čiurlionio kūrinių
-    „Karalių pasaka“, 1909 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: '1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis.'
+  santrauka: '1988 m. birželio 3 d. įkurtas Lietuvos Persitvarkymo Sąjūdis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1988 VI 3
     įkuriamas Lietuvos Persitvarkymo Sąjūdis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Kritiškai mąstantys ir prieš valdžią nusiteikę Lietuvos inteligentai atidžiai sekė M.'
+    - t-001
+- c-002
+  santrauka: 'Kritiški ir prieš valdžią nusiteikę Lietuvos inteligentai sekė M. Gorbačiovo pertvarką ir pokyčius sovietinėse respublikose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kritiškai mąstantys
     ir prieš valdžią nusiteikę Lietuvos inteligentai atidžiai sekė M. Gorbačiovo
     vykdomą pertvarką, pokyčius sovietinėse respublikose.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Ją sudarė 35 visoje Lietuvoje žinomi inteligentai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Čekoslo-
-    vakijoje vykusio „Prahos pavasario“, kur iniciatyvą rodė valdančioji partija,
-    ir Lenkijos „Solidarumo“ judėjimo, kur iniciatyva priklausė darbininkams.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
 - [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio iniciatyvinės grupės įsteigimas (1988 m. birželio 3 d.)]]
-- [[objektai/ivykiai/Sausio 13-oji (1991 m.)]]

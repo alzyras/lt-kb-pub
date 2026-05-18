@@ -46,13 +46,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tautos, kalbos, raštijos Pradėkime nuo lietuviakalbės raštijos.'
+  teiginys: 'Mikalojui Daukšai rūpėjo ne kasdienis lietuvių kalbos vartojimas, o būtinybė šia kalba sukurti oficialųjį kultūros modelį.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tautos, kalbos, raštijos Pradėkime nuo lietuviakalbės raštijos.'
+  santrauka: 'Mikalojui Daukšai rūpėjo ne kasdienis lietuvių kalbos vartojimas, o būtinybė šia kalba sukurti oficialųjį kultūros modelį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tautos, kalbos, raštijos
@@ -75,11 +77,11 @@ Nenurodyta
     73
     Žemėlapio fragmentas su pirmosiomis „Tėve mūsų“ eilutėmis visomis
     Europos kalbomis ir lietuvių kalba (pažymėta raudona linija).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

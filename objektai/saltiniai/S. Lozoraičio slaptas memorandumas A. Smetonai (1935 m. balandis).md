@@ -27,13 +27,17 @@ Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus L I E T
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus L I E T U V O S I S T O R I J A 178 vivendi su Lenkija yra būtina nepriklausomybės sąlyga.'
+  teiginys: 'S. Lozoraitis teigė, kad modus vivendi su Lenkija yra būtina Lietuvos nepriklausomybės sąlyga.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus L I E T U V O S I S T O R I J A 178 vivendi su Lenkija yra būtina nepriklausomybės sąlyga.'
+  santrauka: 'S. Lozoraitis teigė, kad modus vivendi su Lenkija yra būtina Lietuvos nepriklausomybės sąlyga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus
@@ -41,10 +45,10 @@ Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus L I E T
     L I E T U V O S  I S T O R I J A
     178
     vivendi su Lenkija yra būtina nepriklausomybės sąlyga.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

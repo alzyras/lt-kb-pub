@@ -24,10 +24,14 @@ Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rū
   teiginys: 'Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rūpinosi Lietuvos diplomatinė tarnyba (LDT), Lietuvos valstybingumo simbolis, gyvavusi per visą sovietų okupacijos laikotarpį.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Tad išbraukta iš pasaulio politinio žemėlapio Lietuva diplomatų dėka nebuvo išbraukta iš politinės sąmonės.'
+  teiginys: 'Lietuvos diplomatinė tarnyba simboliškai atstovavo Lietuvai ir palaikė ryšius su kitų Baltijos šalių atstovais.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -38,25 +42,25 @@ Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rū
     lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rūpinosi
     Lietuvos diplomatinė tarnyba (LDT), Lietuvos valstybingumo simbolis, gy-
     vavusi per visą sovietų okupacijos laikotarpį.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Tad išbraukta iš pasaulio politinio žemėlapio Lietuva diplomatų dėka nebuvo išbraukta iš politinės sąmonės.'
+  santrauka: 'Lietuvos diplomatinė tarnyba simboliškai atstovavo Lietuvai ir palaikė ryšius su kitų Baltijos šalių atstovais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Diplomatai savo atstovaujamose valstybėse
     simboliškai atstovavo Lietuvai, palaikė ryšius su kitų Baltijos šalių atstovais,
     dalyvavo įvairių šalių ambasadų, oficialių įstaigų priėmimuose.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 
@@ -65,6 +69,4 @@ Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rū
 - [[temos/drabužis]]
 
 ### Susiję objektai
-- [[objektai/vietos/JAV]]
 - [[objektai/ivykiai/Lietuvos diplomatinės tarnybos darbo pabaiga (1991 m. rugsėjo 6 d.)]]
-- [[objektai/vietos/Prancūzija]]

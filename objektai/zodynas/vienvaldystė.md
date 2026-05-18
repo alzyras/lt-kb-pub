@@ -18,22 +18,24 @@ Būdamas ir premjeru, ir užsienio reikalų ministru jau ne visur spėjo, konfli
 
 ## Teiginiai
 - t-001
-  teiginys: 'Būdamas ir premjeru, ir užsienio reikalų ministru jau ne visur spėjo, konfliktavo su keliais savo ministrais ir pradėjo pretenduoti į vienvaldystę šalyje.'
+  teiginys: 'Būdamas premjeru ir užsienio reikalų ministru, jis konfliktavo su ministrais ir pradėjo pretenduoti į vienvaldystę šalyje.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Būdamas ir premjeru, ir užsienio reikalų ministru jau ne visur spėjo, konfliktavo su keliais savo ministrais ir pradėjo pretenduoti į vienvaldystę šalyje.'
+  santrauka: 'Būdamas premjeru ir užsienio reikalų ministru, jis konfliktavo su ministrais ir pradėjo pretenduoti į vienvaldystę šalyje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Būdamas ir premjeru, ir užsienio rei-
     kalų ministru jau ne visur spėjo, konfliktavo su keliais savo ministrais
     ir pradėjo pretenduoti į vienvaldystę šalyje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

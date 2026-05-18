@@ -19,13 +19,15 @@ tą patį darė čia valdas įgiję didikai Radvilos (Olyka) ir Chodkevičiai (M
 
 ## Teiginiai
 - t-001
-  teiginys: 'tą patį darė čia valdas įgiję didikai Radvilos (Olyka) ir Chodkevičiai (Mlynivas),.'
+  teiginys: 'Voluinėje valdas įgiję Chodkevičiai buvo susiję su Mlynivu.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'tą patį darė čia valdas įgiję didikai Radvilos (Olyka) ir Chodkevičiai (Mlynivas),.'
+  santrauka: 'Voluinėje valdas įgiję Chodkevičiai buvo susiję su Mlynivu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vėliau Voluinė apskritai tapo šalutinių Gedimi-
@@ -35,11 +37,11 @@ tą patį darė čia valdas įgiję didikai Radvilos (Olyka) ir Chodkevičiai (M
     ir Chodkevičiai (Mlynivas), pagaliau iš Voluinės, iš Ostroho buvo nepa-
     prastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiš-
     kos“ kilmės kunigaikščiai Ostrogiškiai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

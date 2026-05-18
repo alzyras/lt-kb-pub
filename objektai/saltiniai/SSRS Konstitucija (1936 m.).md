@@ -18,40 +18,46 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
 
 ## Teiginiai
 - t-001
-  teiginys: 'Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas lietuvių kalbos pamokų skaičius.'
+  teiginys: 'Mokyklose buvo įvestas privalomas J. Stalino konstitucijos ir rusų kalbos dėstymas.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžiagą.'
+  teiginys: 'Mokytojai buvo verčiami studijuoti SSRS konstituciją ir Sovietų Sąjungos komunistų partijos istoriją.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas lietuvių kalbos pamokų skaičius.'
+  santrauka: 'Mokyklose buvo įvestas privalomas J. Stalino konstitucijos ir rusų kalbos dėstymas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mokyklose įvestas privalomas J. Stalino konstitucijos, rusų kalbos
     dėstymas, uždrausta tikyba, sumažintas lietuvių kalbos pamokų skaičius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžiagą.'
+  santrauka: 'Mokytojai buvo verčiami studijuoti SSRS konstituciją ir Sovietų Sąjungos komunistų partijos istoriją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mokytojai verčiami studijuoti
     V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų
     partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-
     gą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

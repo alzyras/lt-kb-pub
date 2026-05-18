@@ -42,17 +42,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Valstybė – Lietuvos Didžioji Kunigaikštija – buvo sukurta XIII a.'
+  teiginys: 'Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos pirmasis valdovas buvo Mindaugas.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Plėšiamieji žygiai rodė didėjant lietuvių jėgą, jie tokių žygių skaičiumi pralenkė turtingus prūsus ar karingus kuršius.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Valstybė – Lietuvos Didžioji Kunigaikštija – buvo sukurta XIII a.'
+  santrauka: 'Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos pirmasis valdovas buvo Mindaugas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Valstybė – Lietuvos Didžioji Kunigaikš-
@@ -61,11 +65,11 @@ Nenurodyta
     Įvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S
     17
     suspėjo krikštytis, o 1253 m.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -77,11 +81,11 @@ Nenurodyta
     gausumas, ypač svarbus karo žygiuose. Lietuvių genties iškilimas ir padėjo
     pagrindus santvarkos permainoms ir greitai atsirasiančiai Lietuvos valsty-
     bei.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

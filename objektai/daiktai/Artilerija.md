@@ -43,13 +43,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvių artilerija prieš lenkų dalinius 1920 m. kovose prie Giedraičių 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 145 Sąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lietuvą buferine valstybe, kuri drauge su Latvija.'
+  teiginys: 'Lietuvių artilerija naudota prieš lenkų dalinius 1920 m. kovose prie Giedraičių.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvių artilerija prieš lenkų dalinius 1920 m. kovose prie Giedraičių 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 145 Sąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lietuvą buferine valstybe, kuri drauge su Latvija.'
+  santrauka: 'Lietuvių artilerija naudota prieš lenkų dalinius 1920 m. kovose prie Giedraičių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvių artilerija prieš lenkų dalinius
@@ -60,11 +62,11 @@ Nenurodyta
     Sąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lie-
     tuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos
     vadovaujama, sudarytų patikimą saugumo kordoną nuo bolševizmo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

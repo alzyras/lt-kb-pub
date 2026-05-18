@@ -19,13 +19,15 @@ Nuoširdžiai dėkojame leidinio iniciatoriams, redakcinės kolegijos nariams, s
 
 ## Teiginiai
 - t-001
-  teiginys: 'Nuoširdžiai dėkojame leidinio iniciatoriams, redakcinės kolegijos nariams, skaičiusiems pradinius tekstus, ypač Jauniui Petraičiui, taip pat dr. Vytautui Žaliui, Romanui Judinui, labai ačiū recenzavusiems šią knygą prof. dr. Zenonui Butkui ir doc.'
+  teiginys: 'Zenonas Butkus recenzavo knygą „Lietuvos istorija“.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Nuoširdžiai dėkojame leidinio iniciatoriams, redakcinės kolegijos nariams, skaičiusiems pradinius tekstus, ypač Jauniui Petraičiui, taip pat dr. Vytautui Žaliui, Romanui Judinui, labai ačiū recenzavusiems šią knygą prof. dr. Zenonui Butkui ir doc.'
+  santrauka: 'Zenonas Butkus recenzavo knygą „Lietuvos istorija“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuoširdžiai dėkojame leidinio iniciatoriams, redakcinės kolegijos
@@ -34,11 +36,11 @@ Nuoširdžiai dėkojame leidinio iniciatoriams, redakcinės kolegijos nariams, s
     knygą prof. dr. Zenonui Butkui ir doc. dr. Sauliui Kaubriui ir daugeliui
     kitų, prisidėjusių prie jos parengimo, iliustravimo, reikalingų žemėlapių
     atrinkimo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
@@ -47,5 +49,4 @@ Nuoširdžiai dėkojame leidinio iniciatoriams, redakcinės kolegijos nariams, s
 - [[temos/žemėlapis]]
 
 ### Susiję objektai
-- [[objektai/autoriai/Alfonsas Eidintas]]
 - [[objektai/autoriai/Saulius Kaubrys]]

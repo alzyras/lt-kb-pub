@@ -19,22 +19,24 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '66 tokie lėktuvai buvo pastatyti Kauno karo aviacijos dirbtuvėse.'
+  teiginys: 'Kauno karo aviacijos dirbtuvėse buvo pastatyti 66 lėktuvai.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '66 tokie lėktuvai buvo pastatyti Kauno karo aviacijos dirbtuvėse.'
+  santrauka: 'Kauno karo aviacijos dirbtuvėse buvo pastatyti 66 lėktuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     66 tokie lėktuvai buvo pastatyti Kauno karo aviaci-
     jos dirbtuvėse.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

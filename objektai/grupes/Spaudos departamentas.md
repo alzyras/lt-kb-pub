@@ -18,30 +18,8 @@ tags:
 Vilnius: Spaudos departamentas, 1991; A.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Vilnius: Spaudos departamentas, 1991; A.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Vilnius: Spaudos departamentas, 1991; A.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilnius: Spaudos
-    departamentas, 1991; A. Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012)
-    ir A. Eidinto, A. Bumblausko asmeninių archyvų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dokumentas]]
-
-### Susiję objektai
-- [[objektai/autoriai/Alfonsas Eidintas]]

@@ -51,47 +51,34 @@ Tai keturių autorių Lietuvos istorijos sintezė, išleista Lietuvos Respubliko
 - Skyrių autorystė siejama su Alfredu Bumblausku, Antanu Kulakausku, Alfonsu Eidintu ir Mindaugu Tamošaičiu.
 
 ## Teiginiai
-- t-003
+- t-009
   teiginys: 'Bibliografinėje eilutėje leidinys nurodytas kaip 2012 m. Vilniaus universiteto leidyklos 280 puslapių knyga.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: 'Redaktoriaus žodyje leidinys apibūdintas kaip glaustas, lengvai skaitomas, tiesos ir atvirumo kriterijais grįstas Lietuvos istorijos veikalas.'
+- t-010
+  teiginys: 'Leidinys buvo rengiamas kaip glaustas, lengvai skaitomas, tiesos ir atvirumo kriterijais grįstas Lietuvos istorijos veikalas.'
   pagrindžia:
-    - c-005
+    - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-006
-  teiginys: 'Redaktoriaus žodyje leidinio chronologinė aprėptis siejama su laikotarpiu nuo 1009 m. iki Lietuvos tapimo visateise Europos Sąjungos nare 2004 m.'
+- t-011
+  teiginys: 'Leidinys aprėpia Lietuvos istorijos kelią nuo pirmo Lietuvos vardo paminėjimo 1009 m. iki tapimo Europos Sąjungos nare 2004 m.'
   pagrindžia:
-    - c-005
+    - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-008
-  teiginys: 'Redaktoriaus žodyje leidinys įvardytas kaip pirmas nuo 1990 m. valstybės atkūrimo bandymas aprėpti visą Lietuvos istorijos distanciją.'
+- t-012
+  teiginys: 'Leidinys įvardytas kaip pirmas nuo 1990 m. valstybės atkūrimo bandymas aprėpti visą Lietuvos istoriją iš nūdienos perspektyvos.'
   pagrindžia:
-    - c-008
+    - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+
 ## Bibliografiniai įrodymai
-- c-003
-  santrauka: Bibliografinėje eilutėje nurodyti leidimo metai, leidykla ir apimtis.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos istorija. – Vilnius: Vilniaus universitetas, Vilniaus universiteto
-    leidykla, 2012. – 280 p.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-## Reikšmingi paminėjimai
-- c-005
-  santrauka: Redaktoriaus žodyje nurodytas leidinio parengimo užsakymas, numatytas pobūdis ir chronologinė aprėptis.
+- c-001
+  santrauka: 'Leidinys buvo rengiamas kaip glaustas, lengvai skaitomas, tiesos ir atvirumo kriterijais grįstas Lietuvos istorijos veikalas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai iš-
@@ -113,16 +100,16 @@ Tai keturių autorių Lietuvos istorijos sintezė, išleista Lietuvos Respubliko
     nepriklausomybės įkalnes bei nuokalnes – nuo pat pirmo valstybės vardo
     paminėjimo vienoje iš Europos kronikų 1009 m. iki Lietuvos virsmo vi-
     sateise Europos Sąjungos nare 2004 m.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-    - t-006
-- c-008
-  santrauka: Redaktoriaus žodyje leidinys apibūdinamas kaip pirmas tokios aprėpties bandymas nuo 1990 m.
+    - t-010
+    - t-011
+- c-002
+  santrauka: 'Leidinys įvardytas kaip pirmas nuo 1990 m. valstybės atkūrimo bandymas aprėpti visą Lietuvos istoriją iš nūdienos perspektyvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dėl ribotos šios is-
@@ -138,10 +125,25 @@ Tai keturių autorių Lietuvos istorijos sintezė, išleista Lietuvos Respubliko
     damas, kad tai pirmas bandymas nuo 1990 m. valstybės atkūrimo aprėpti
     visą Lietuvos istorijos distanciją iš nūdienos perspektyvos bendru, atsa-
     kingu ir taupiu žvilgsniu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-008
+    - t-012
+- c-003
+  santrauka: 'Bibliografinėje eilutėje leidinys nurodytas kaip 2012 m. Vilniaus universiteto leidyklos 280 puslapių knyga.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos istorija. – Vilnius: Vilniaus universitetas, Vilniaus universiteto
+    leidykla, 2012. – 280 p.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+
+## Reikšmingi paminėjimai

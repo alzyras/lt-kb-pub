@@ -35,24 +35,26 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Reformacija tapo nauju lenkėjimo postūmiu.'
+  teiginys: 'LDK politinis elitas nesulaukė lietuviakalbės kultūrinės programos ir rinkosi lenkakalbę raštijos tradiciją.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Reformacija tapo nauju lenkėjimo postūmiu.'
+  santrauka: 'LDK politinis elitas nesulaukė lietuviakalbės kultūrinės programos ir rinkosi lenkakalbę raštijos tradiciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors radosi ir lietuviakalbė
     raštijos tradicija, LDK visuomenės politinis elitas lietuviakalbės kultūri-
     nės programos nesulaukė ir rinkosi lenkakalbę. Lietuvių kalbą išlaikė tik
     smulkioji bajorija, o tvirčiausiai – valstiečiai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

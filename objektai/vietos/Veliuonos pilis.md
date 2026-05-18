@@ -27,13 +27,15 @@ Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų,
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų, kad turėtų sugriauti Veliuonos pilį ir šią žemę grąžinti Ordinui, Vytautas atkirtęs: „Jūs norite man išplėšti tėvų palikimą ir Veliuonos pilį atimti; bet kol aš jums atiduosiu, ne.'
+  teiginys: 'Vytautas atmetė Ordino reikalavimą sugriauti Veliuonos pilį ir grąžinti šią žemę Ordinui.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų, kad turėtų sugriauti Veliuonos pilį ir šią žemę grąžinti Ordinui, Vytautas atkirtęs: „Jūs norite man išplėšti tėvų palikimą ir Veliuonos pilį atimti; bet kol aš jums atiduosiu, ne.'
+  santrauka: 'Vytautas atmetė Ordino reikalavimą sugriauti Veliuonos pilį ir grąžinti šią žemę Ordinui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kuchmeis-
@@ -44,11 +46,11 @@ Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų,
     tai atsakius, kad Ordinas šiems savo reikalavimams turįs „gerų laiškų ir
     įrodymų“, Vytautas supykęs ir pasakęs: „Ir Prūsai yra mano paveldėjimas,
     ir aš reikalausiu jų iki Osos, nes visa tai yra mano tėvų palikimas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

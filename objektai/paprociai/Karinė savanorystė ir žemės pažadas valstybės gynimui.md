@@ -59,14 +59,14 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
 - Karinė savanorystė siejama su Lietuvos kariuomenės augimu, žemės pažadu ir tautinių mažumų įtraukimu.
 
 ## Teiginiai
-- t-001
-  teiginys: "1919 m. Lietuvos kariuomenė augo savanorių dėka, o savanoriams buvo žadami žemės sklypai."
+- t-003
+  teiginys: 'Apie 12 000 savanorių stojo į Lietuvos kariuomenę, o jiems buvo žadėti žemės sklypai.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "M. Sleževičiaus kvietimas priešintis įsiveržėliams siejamas su žydų ir baltarusių savanorių dalyvavimu bei pažadu dalyti žemę bežemiams ir mažažemiams."
+- t-004
+  teiginys: 'M. Sleževičius pabrėžė, kad bežemiai ir mažažemiai gaus lenkų dvarininkų žemės.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -74,7 +74,7 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Lietuvos kariuomenės augimas siejamas su savanoriais ir žemės sklypų pažadu.
+  santrauka: 'Apie 12 000 savanorių stojo į Lietuvos kariuomenę, o jiems buvo žadėti žemės sklypai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sa-
@@ -84,11 +84,11 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata patikrinta kaip pažodinis darbinio šaltinio fragmentas."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Karinis kvietimas priešintis įsiveržėliams siejamas su tautinių mažumų savanoryste ir žemės pažadu.
+  santrauka: 'M. Sleževičius pabrėžė, kad bežemiai ir mažažemiai gaus lenkų dvarininkų žemės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuviai atmetė
@@ -100,9 +100,9 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata patikrinta kaip pažodinis darbinio šaltinio fragmentas."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Šaltiniai ir įrodymai
 
@@ -112,6 +112,3 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
 
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Mykolas Sleževičius]]

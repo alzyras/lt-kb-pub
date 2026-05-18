@@ -19,13 +19,15 @@ Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai negalėjo 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai negalėjo pretenduoti) problemą.'
+  teiginys: 'Stačiatikiams netekus civilizacinio pranašumo, LDK politinio ir kultūrinio elito kaita sukėlė konfesinio dualizmo problemą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai negalėjo pretenduoti) problemą.'
+  santrauka: 'Stačiatikiams netekus civilizacinio pranašumo, LDK politinio ir kultūrinio elito kaita sukėlė konfesinio dualizmo problemą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Politinės lietuvių įtakos ir stačiatikių kultūrinio
@@ -33,10 +35,10 @@ Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai negalėjo 
     ir kultūrinio elito statusą, nes stačiatikiai neteko savo civilizacinio pra-
     našumo. Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai
     negalėjo pretenduoti) problemą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

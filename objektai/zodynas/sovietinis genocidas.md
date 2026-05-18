@@ -18,13 +18,15 @@ Sovietinio genocido ir teroro aukomis tapo 456 tūkst.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Sovietinio genocido ir teroro aukomis tapo 456 tūkst.'
+  teiginys: 'Sovietinio genocido ir teroro aukomis tapo 456 tūkst. gyventojų.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Sovietinio genocido ir teroro aukomis tapo 456 tūkst.'
+  santrauka: 'Sovietinio genocido ir teroro aukomis tapo 456 tūkst. gyventojų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietinio genocido ir teroro aukomis tapo 456 tūkst. gyven-
@@ -32,10 +34,10 @@ Sovietinio genocido ir teroro aukomis tapo 456 tūkst.
     nių įkalinti, išvežti į tremtį ar GULAG’o lagerius, dar 26,5 tūkst. nužu-
     dyti Lietuvoje – iš viso Lietuva neteko apie 1,058 mln. arba daugiau kaip
     trečdalio gyventojų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

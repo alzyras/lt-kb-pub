@@ -29,13 +29,17 @@ Atsikūrusi Lietuva siekė nustatyti gerus santykius su nauja valstybe – Balta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Atsikūrusi Lietuva siekė nustatyti gerus santykius su nauja valstybe – Baltarusija, su ja 1991 m. spalį pasirašė Deklaraciją dėl geros kaimynystės santykių principų, o po ketverių metų – sutartį dėl geros kaimynystės, Sutarties pasirašymas su Rusija – centre.'
+  teiginys: 'Atsikūrusi Lietuva 1991 m. spalį su Baltarusija pasirašė Deklaraciją dėl geros kaimynystės santykių principų.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Atsikūrusi Lietuva siekė nustatyti gerus santykius su nauja valstybe – Baltarusija, su ja 1991 m. spalį pasirašė Deklaraciją dėl geros kaimynystės santykių principų, o po ketverių metų – sutartį dėl geros kaimynystės, Sutarties pasirašymas su Rusija – centre.'
+  santrauka: 'Atsikūrusi Lietuva 1991 m. spalį su Baltarusija pasirašė Deklaraciją dėl geros kaimynystės santykių principų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atsikūrusi Lietuva siekė nustatyti gerus santykius su nauja valstybe –
@@ -49,10 +53,10 @@ Atsikūrusi Lietuva siekė nustatyti gerus santykius su nauja valstybe – Balta
     bendradarbiavimo ir dėl valstybės sienos. Gerai klostėsi ekonominiai san-
     tykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lu-
     kašenkos diktatūrinis valdymas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -21,13 +21,17 @@ pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų), atskiras i�
 
 ## Teiginiai
 - t-001
-  teiginys: 'pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų), atskiras iždas, kariuomenė, teismai ir teisinė sistema, kurią įformino Trečiasis Lietuvos Statutas 1588 m. Taigi Abiejų Tautų Respublika – ne unitarinė valstybė, o federacija, kurioje bendros yra.'
+  teiginys: 'Trečiasis Lietuvos Statutas 1588 m. įformino atskirą LDK teisinę sistemą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų), atskiras iždas, kariuomenė, teismai ir teisinė sistema, kurią įformino Trečiasis Lietuvos Statutas 1588 m. Taigi Abiejų Tautų Respublika – ne unitarinė valstybė, o federacija, kurioje bendros yra.'
+  santrauka: 'Trečiasis Lietuvos Statutas 1588 m. įformino atskirą LDK teisinę sistemą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira
@@ -35,10 +39,10 @@ pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų), atskiras i�
     XVIII a. pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų),
     atskiras iždas, kariuomenė, teismai ir teisinė sistema, kurią įformino Tre-
     čiasis Lietuvos Statutas 1588 m.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

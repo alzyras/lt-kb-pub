@@ -47,50 +47,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Žymiausio LDK karo inžinieriaus, daugiapakopių raketų teorijos kūrėjo K.'
+  teiginys: 'K. Semenavičius buvo vadinamas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Semenavičiaus raketų brėžiniai.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Iš šių ir kitų Vakarų bei Vidurio Europos katalikiškųjų universitetų atvykę proŽymiausio LDK karo inžinieriaus, daugiapakopių raketų teorijos kūrėjo K.'
-  pagrindžia:
-    - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Žymiausio LDK karo inžinieriaus, daugiapakopių raketų teorijos kūrėjo K.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Iš šių
-    ir kitų Vakarų bei Vidurio Europos katalikiškųjų universitetų atvykę pro-
-    Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
-    teorijos  kūrėjo K. Semenavičiaus veikalo
-    „Artis magnae artilleriae“  frontispisas, 1650 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Semenavičiaus raketų brėžiniai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nuo XIV a. ryčiausias Europoje du amžius
-    K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Iš šių ir kitų Vakarų bei Vidurio Europos katalikiškųjų universitetų atvykę proŽymiausio LDK karo inžinieriaus, daugiapakopių raketų teorijos kūrėjo K.'
+  santrauka: 'K. Semenavičius buvo vadinamas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš šių
@@ -104,19 +69,15 @@ Nenurodyta
     fesoriai atnešė susiformavusius, katalikiškosios reformos paveiktus mo-
     kymo principus ir didelius reikalavimus, intensyvaus mokymo sistemą, o
     vilniečiai skleidė įtaką ne tik Lietuvoje (visų pirma lituanistiniai K.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVII amžius]]
 - [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/daiktai/Daugiapakopės raketos]]
-- [[objektai/autoriai/Kazimieras Semenavičius]]

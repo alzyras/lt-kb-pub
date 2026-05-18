@@ -130,7 +130,6 @@ Nenurodyta
     - c-014
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-
 - t-015
   teiginys: 'Totoriai turėjo atmušti Vytauto atvaizdą savo piniguose.'
   pagrindžia:
@@ -161,22 +160,6 @@ Nenurodyta
     - c-019
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-020
-  teiginys: 'Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksinais.'
-  pagrindžia:
-    - c-022
-- t-021
-  teiginys: 'Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.'
-  pagrindžia:
-    - c-023
-- t-022
-  teiginys: 'Per visą nepriklausomos Lietuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose užsienio valstybėse.'
-  pagrindžia:
-    - c-024
-- t-023
-  teiginys: '1922 m. spalio 1 d. Lietuvoje įvestas litas.'
-  pagrindžia:
-    - c-025
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -387,7 +370,6 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-014
-
 - c-015
   santrauka: Totorių pinigai turėjo nešti Vytauto atvaizdą.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -504,63 +486,6 @@ Nenurodyta
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-012
-- c-022
-  santrauka: 'Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksinais.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sunkmečiu labai nukritęs vokiškų pinigų kursas neigiamai veikė Lie-
-    tuvos ekonomiką, katastrofiški infliacijos padariniai vertė Lietuvos valdžią
-    ieškoti sprendimo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-020
-- c-023
-  santrauka: 'Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-
-    niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
-    auksu paremtas litas, kurį sudaro 100 centų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-021
-- c-024
-  santrauka: 'Per visą nepriklausomos Lietuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose užsienio valstybėse.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Per visą nepriklausomos Lie-
-    tuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais
-    popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose už-
-    sienio valstybėse.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-022
-- c-025
-  santrauka: '1922 m. spalio 1 d. Lietuvoje įvestas litas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1922 m. spalio 1 d. Lietuvoje
-    įvestas litas. Jo aukso turinys buvo lygus 0,150462 g gryno aukso, t. y. litas
-    buvo prilygintas JAV doleriui santykiu 10:1.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-023
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -584,4 +509,3 @@ Nenurodyta
 - [[objektai/daiktai/Zigmanto Augusto pinigai]]
 - [[objektai/daiktai/Zigmanto II pinigai]]
 - [[objektai/daiktai/Zigmanto Vazos pinigai]]
-- [[objektai/ivykiai/Piniginio vieneto įstatymo priėmimas ir lito įvedimas (1922 m.)]]

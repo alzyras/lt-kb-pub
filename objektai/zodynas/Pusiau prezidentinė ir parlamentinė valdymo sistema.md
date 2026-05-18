@@ -19,23 +19,25 @@ Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad Lietuva yr
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad Lietuva yra pusiau prezidentinės ir parlamentinės valdymo sistemos kompromisas, labiau į parlamentinį valdymą orientuota sistema, nes prezidentinei valdymo formai nepritarta.'
+  teiginys: 'Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, bet valdymo sistema liko labiau orientuota į parlamentinį valdymą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad Lietuva yra pusiau prezidentinės ir parlamentinės valdymo sistemos kompromisas, labiau į parlamentinį valdymą orientuota sistema, nes prezidentinei valdymo formai nepritarta.'
+  santrauka: 'Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, bet valdymo sistema liko labiau orientuota į parlamentinį valdymą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad
     Lietuva yra pusiau prezidentinės ir parlamentinės valdymo sistemos
     kompromisas, labiau į parlamentinį valdymą orientuota sistema, nes pre-
     zidentinei valdymo formai nepritarta.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

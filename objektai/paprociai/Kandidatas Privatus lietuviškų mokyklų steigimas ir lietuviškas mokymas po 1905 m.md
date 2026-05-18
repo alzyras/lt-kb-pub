@@ -33,23 +33,25 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Be to, mokyklas leista steigti ir privatiems asmenims bei visuomeninėms organizacijoms, jose galėjo būti mokoma ir lietuvių, taip pat lenkų kalba.'
+  teiginys: 'Užnemunėje veikė privati moterų gimnazija, kurioje dėstyta lietuvių kalba.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Be to, mokyklas leista steigti ir privatiems asmenims bei visuomeninėms organizacijoms, jose galėjo būti mokoma ir lietuvių, taip pat lenkų kalba.'
+  santrauka: 'Užnemunėje veikė privati moterų gimnazija, kurioje dėstyta lietuvių kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Užnemunėje veikė ir privati moterų
     gimnazija dėstomąja lietuvių kalba. Kaime ir toliau vaikus mokyta skaityti,
     rašyti ir skaičiuoti grupelėmis namuose – to valdžia nebedraudė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

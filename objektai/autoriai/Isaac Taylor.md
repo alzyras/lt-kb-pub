@@ -18,13 +18,15 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '„Galima spėlioti, kad, jeigu turėtume lietuvių literatūros iš to laikotarpio, kaip seniausia indų literatūra, galėtume su didesniu tikrumu teigti, jog arijų kalbos lopšys turėjo būti lietuvių apgyventoje teritorijoje“ Isaac Taylor (1787–1865) Iš „The Origins.'
+  teiginys: 'Isaacas Tayloras veikale „The Origins of the Aryans“ svarstė lietuvių apgyventą teritoriją kaip galimą arijų kalbos lopšį.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '„Galima spėlioti, kad, jeigu turėtume lietuvių literatūros iš to laikotarpio, kaip seniausia indų literatūra, galėtume su didesniu tikrumu teigti, jog arijų kalbos lopšys turėjo būti lietuvių apgyventoje teritorijoje“ Isaac Taylor (1787–1865) Iš „The Origins.'
+  santrauka: 'Isaacas Tayloras veikale „The Origins of the Aryans“ svarstė lietuvių apgyventą teritoriją kaip galimą arijų kalbos lopšį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     V s k y r i u s
@@ -41,14 +43,10 @@ tags:
     omunistinės SSRS ir nacių Vokietijos draugystės lai-
     kotarpis 1940 m. pradžioje artėjo į jų lemiamą susi-
     dūrimą, abi totalitarinės valstybės ruošėsi karui dėl Europos užgrobimo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/posakiai/„Galima spėlioti, kad... arijų kalbos lopšys turėjo būti lietuvių apgyventoje teritorijoje“]]

@@ -51,29 +51,10 @@ Sovietmečiu investicijų ir statybų Lietuvoje kontekste minimas kyšių vežim
 - Praktika siejama su sovietinės nomenklatūros korupcija ir Lietuvos statybų efektyvumo palyginimu.
 
 ## Teiginiai
-- t-001
-  teiginys: "Sovietmečiu į Maskvą keliaudavo kyšiai lagaminais rūkytų dešrų ir kumpių."
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: Citata tiesiogiai nurodo kyšių vežimą ir jo ryšį su investicijomis Lietuvoje.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai patikdavo Maskvos nomenklatūrai, turėjusiai didelių korupci-
-    jos ir vagysčių problemų kitose SSRS vietose. Dėl didelių įmonių, ypač
-    chemijos, nesant lėšų gamtos apsaugai, statybos ir gyventojų gausėjimo
-    didžiuosiuose miestuose ėmė rastis ekologinių problemų.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata patikrinta kaip pažodinis darbinio šaltinio fragmentas."
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Šaltiniai ir įrodymai
 

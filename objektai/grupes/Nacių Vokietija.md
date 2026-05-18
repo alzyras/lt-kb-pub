@@ -21,36 +21,44 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet kokią Lietuvos vyriausybę ir skelbti bet kokį atsišaukimą į tautą, „negavus tam kompetentingų Vokietijos įstaigų sutikimo“.'
+  teiginys: 'Vokietijos vyriausybė uždraudė lietuviams kilus karui be jos įstaigų sutikimo sudaryti Lietuvos vyriausybę ar skelbti atsišaukimą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Nacių Vokietijos planuose Baltijos šalys laikytos vokiečių „gynybine erdve“, kuri palaipsniui turėjo susilieti su Trečiuoju Reichu.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją administravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis okupacinis valdymas.'
+  teiginys: '1941 m. liepos 17 d. iš Lietuvos, Latvijos, Estijos ir Gudijos sudarytas Rytų krašto, arba Ostlando, reicho komisariatas.'
   pagrindžia:
     - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-004
   teiginys: 'Vokiečių valdžia Lietuvoje pajungė jos išteklius ir ūkį Vokietijos reikmėms, nepaisydama vietos gyventojų poreikių.'
   pagrindžia:
     - c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet kokią Lietuvos vyriausybę ir skelbti bet kokį atsišaukimą į tautą, „negavus tam kompetentingų Vokietijos įstaigų sutikimo“.'
+  santrauka: 'Vokietijos vyriausybė uždraudė lietuviams kilus karui be jos įstaigų sutikimo sudaryti Lietuvos vyriausybę ar skelbti atsišaukimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau Vokietijos
     vyriausybė uždraudė lietuviams kilus karui sudaryti bet kokią Lietuvos
     vyriausybę ir skelbti bet kokį atsišaukimą į tautą, „negavus tam kompe-
     tentingų Vokietijos įstaigų sutikimo“.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -59,25 +67,25 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
   citata_originali: |
     Nacių Vokietijos planuose Baltijos šalys laikytos vokiečių
     „gynybine erdve“, kuri palaipsniui turėjo susilieti su Trečiuoju Reichu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją administravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis okupacinis valdymas.'
+  santrauka: '1941 m. liepos 17 d. iš Lietuvos, Latvijos, Estijos ir Gudijos sudarytas Rytų krašto, arba Ostlando, reicho komisariatas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Liepos 17-osios nutarimu iš „buvusių laisvų
     Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto
     (Ostlando) reicho komisariatas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 - c-004
@@ -87,10 +95,10 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
     Vokiečių valdžia Lietuvoje
     pajungė jos išteklius ir ūkį Vokietijos reikmėms, nepaisydama vietos gy-
     ventojų poreikių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004

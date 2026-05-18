@@ -57,14 +57,14 @@ Sovietizacijos metu tapo perdavimo ir pasisavinimo objektu.
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: "1940 m. liepos 12 d. nutarta SSRS valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą."
+- t-003
+  teiginys: 'Pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas Lietuvos auksas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "Pasisavintas Švedijos ir Šveicarijos bankuose saugotas Lietuvos auksas."
+- t-004
+  teiginys: 'Pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas Lietuvos auksas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -72,18 +72,18 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Auksas aprašomas kaip užsienyje laikytas ir pasisavintas valstybės rezervas.
+  santrauka: 'Pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas Lietuvos auksas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Šaltiniai ir įrodymai
 
@@ -93,7 +93,3 @@ Nenurodyta
 
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/ivykiai/Lietuvos valstybingumo griovimo sprendimai 1940 m. birželį-liepą]]
-- [[objektai/vietos/Šveicarija]]

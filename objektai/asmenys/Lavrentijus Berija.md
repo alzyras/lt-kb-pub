@@ -19,13 +19,15 @@ Berija ir apie ką jie kalbėjo, iki šiol nežinoma.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Berija ir apie ką jie kalbėjo, iki šiol nežinoma.'
+  teiginys: 'L. Berija lankė J. Žemaitį kameroje ir pripažino partizaninį karą Lietuvoje rimta grėsme sovietų valdymui.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Berija ir apie ką jie kalbėjo, iki šiol nežinoma.'
+  santrauka: 'L. Berija lankė J. Žemaitį kameroje ir pripažino partizaninį karą Lietuvoje rimta grėsme sovietų valdymui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kodėl kameroje J. Žemaitį lankė
@@ -35,11 +37,11 @@ Berija ir apie ką jie kalbėjo, iki šiol nežinoma.
     rodo, kad L. Berija pripažino Lie-
     tuvoje vykstantį partizaninį karą
     rimta grėsme sovietų valdymui.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

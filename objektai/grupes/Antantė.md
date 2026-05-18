@@ -23,18 +23,26 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
   teiginys: 'Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių reikalavimu, leido panaudoti savo dalinius stabdant bolševizmą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Palaipsniui pasikeitė ir Lietuvos Tarybos vertinimas: provokiška orientacija ją kaltinusi lietuvių kairė, lenkai ir net Antantė turėjo pripažinti, kad sunkiomis sąlygomis, svetimųjų varžoma Lietuvos Taryba sugebėjo išlaviruoti ir iškelti Lietuvos.'
+  teiginys: 'Antantė turėjo pripažinti, kad Lietuvos Taryba iškėlė Lietuvos nepriklausomybės klausimą ir vadavosi iš Vokietijos politikos diktato.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Lietuvos delegacijos reikalavimu sudarytos prancūzų, britų, JAV ir Antantės Aukščiausiosios Tarybos karinės misijos sustiprino viltis pasiekti nepriklausomybę, be to, misijos suteikė objektyvią informaciją Antantei apie padėtį Lietuvoje.'
+  teiginys: 'Antantės karinės misijos sustiprino Lietuvos viltis pasiekti nepriklausomybę ir suteikė Antantei objektyvios informacijos apie padėtį Lietuvoje.'
   pagrindžia:
     - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-004
   teiginys: 'Neilgai trukus Vatikanas, JAV, Ispanija, Olandija, Skandinavijos šalys, o 1922 m. gruodžio 20 d. keturios Antantės valstybės (Prancūzija, Anglija, Italija, Japonija) pripažino Lietuvą de jure.'
   pagrindžia:
     - c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -44,15 +52,15 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
     Vokietija pateikė
     ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių
     reikalavimu, leido panaudoti savo dalinius stabdant bolševizmą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Palaipsniui pasikeitė ir Lietuvos Tarybos vertinimas: provokiška orientacija ją kaltinusi lietuvių kairė, lenkai ir net Antantė turėjo pripažinti, kad sunkiomis sąlygomis, svetimųjų varžoma Lietuvos Taryba sugebėjo išlaviruoti ir iškelti Lietuvos.'
+  santrauka: 'Antantė turėjo pripažinti, kad Lietuvos Taryba iškėlė Lietuvos nepriklausomybės klausimą ir vadavosi iš Vokietijos politikos diktato.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Palaipsniui pasikeitė ir Lietuvos Tarybos vertinimas: provokiška
@@ -61,26 +69,26 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
     bėjo išlaviruoti ir iškelti Lietuvos nepriklausomybės klausimą, išsivaduoti
     iš Vokietijos politikos diktato ir paskubomis kūrė valdžios ir savivaldybių
     įstaigas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Lietuvos delegacijos reikalavimu sudarytos prancūzų, britų, JAV ir Antantės Aukščiausiosios Tarybos karinės misijos sustiprino viltis pasiekti nepriklausomybę, be to, misijos suteikė objektyvią informaciją Antantei apie padėtį Lietuvoje.'
+  santrauka: 'Antantės karinės misijos sustiprino Lietuvos viltis pasiekti nepriklausomybę ir suteikė Antantei objektyvios informacijos apie padėtį Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos delegacijos reikalavimu sudarytos prancūzų, britų, JAV ir An-
     tantės Aukščiausiosios Tarybos karinės misijos sustiprino viltis pasiekti
     nepriklausomybę, be to, misijos suteikė objektyvią informaciją Antantei
     apie padėtį Lietuvoje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 - c-004
@@ -90,15 +98,10 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
     Neilgai trukus Vatikanas, JAV, Ispanija, Olandija, Skandinavijos šalys, o
     1922 m. gruodžio 20 d. keturios Antantės valstybės (Prancūzija, Anglija,
     Italija, Japonija) pripažino Lietuvą de jure.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Vokietija]]
-- [[objektai/zodynas/de jure]]

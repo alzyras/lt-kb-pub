@@ -38,38 +38,15 @@ nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berens
 
 ## Teiginiai
 - t-001
-  teiginys: 'nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berensonas (Bernhard Valvrojenski, g.'
+  teiginys: 'Bernardas Berensonas buvo žymus italų renesanso tapybos žinovas, kilęs iš Butrimonių.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'laureatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių, nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berensonas (Bernhard Valvrojenski, g.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berensonas (Bernhard Valvrojenski, g.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    O juk
-    reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai
-    susijusius su Lietuva – David Baltimore (Deividą Boltimorą, 1975 m. lau-
-    reatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių,
-    nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Be-
-    rensonas (Bernhard Valvrojenski, g. 1865 m.), Gertrude Ellion (Geltrūda
-    Elion, 1918–1999; 1988 m. premija; tėvas emigravo iš Lietuvos į JAV bū-
-    damas 12-os) ar Sydney Brenner (Sidnėjus Brėneris, gimęs 1927 m. bat-
-    siuvio, 1910 m. emigravusio į Pietų Afriką iš Lietuvos, šeimoje; 2002 m.
-    premija).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'laureatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių, nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berensonas (Bernhard Valvrojenski, g.'
+  santrauka: 'Bernardas Berensonas buvo žymus italų renesanso tapybos žinovas, kilęs iš Butrimonių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     lau-
@@ -80,13 +57,13 @@ nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berens
     damas 12-os) ar Sydney Brenner (Sidnėjus Brėneris, gimęs 1927 m. bat-
     siuvio, 1910 m. emigravusio į Pietų Afriką iš Lietuvos, šeimoje; 2002 m.
     premija).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai

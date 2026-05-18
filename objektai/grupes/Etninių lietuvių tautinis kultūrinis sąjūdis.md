@@ -21,31 +21,15 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
 
 ## Teiginiai
 - t-001
-  teiginys: 'Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukilimus – 1830–1831 m. ir 1863–1864 m. Šiuo laikotarpiu prasidėjo ir etninių lietuvių tautinis kultūrinis sąjūdis.'
+  teiginys: 'Vilniaus universiteto aplinkoje susibūrę iš Žemaitijos kilę inteligentai plėtojo aukštąją kultūrą lietuvių kalba ir liaudies švietimą.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukilimus – 1830–1831 m. ir 1863–1864 m. Šiuo laikotarpiu prasidėjo ir etninių lietuvių tautinis kultūrinis sąjūdis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės
-    praradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukili-
-    mus – 1830–1831 m. ir 1863–1864 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.'
+  santrauka: 'Vilniaus universiteto aplinkoje susibūrę iš Žemaitijos kilę inteligentai plėtojo aukštąją kultūrą lietuvių kalba ir liaudies švietimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemai-
@@ -61,14 +45,10 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
     etnosu, bet jie patys save laikė
     vieno dvilypio lietuvių-žemaičių
     etnoso dalimi).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
+    - t-001

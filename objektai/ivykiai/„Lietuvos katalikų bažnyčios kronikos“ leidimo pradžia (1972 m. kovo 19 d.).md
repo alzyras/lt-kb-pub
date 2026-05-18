@@ -43,31 +43,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Aštuntajame dešimtmetyje kai kurie kunigai ėmė priešintis brutaliai valdžios politikai, reikalauti tikintiesiems ir bažnyčiai konstitucinių teisių.'
+  teiginys: 'Pirmame „Lietuvos katalikų bažnyčios kronikos“ numeryje išspausdintas lietuvių katalikų protesto memorandumas.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Jau pirmame jos numeryje išspausdintas lietuvių katalikų protesto prieš tikinčiųjų persekiojimą memorandumas, 5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 229 kurį pasirašė per 17 tūkst.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Aštuntajame dešimtmetyje kai kurie kunigai ėmė priešintis brutaliai valdžios politikai, reikalauti tikintiesiems ir bažnyčiai konstitucinių teisių.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pirmasis jos redaktorius buvo tuomet
-    Simne dirbęs kun. Sigitas Tamkevičius. Leidinys aprašė sovietų antireliginę
-    veiklą ir propagandą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Jau pirmame jos numeryje išspausdintas lietuvių katalikų protesto prieš tikinčiųjų persekiojimą memorandumas, 5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 229 kurį pasirašė per 17 tūkst.'
+  santrauka: 'Pirmame „Lietuvos katalikų bažnyčios kronikos“ numeryje išspausdintas lietuvių katalikų protesto memorandumas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jau pirmame jos numeryje išspausdintas
@@ -76,13 +60,13 @@ Nenurodyta
     5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
     229
     kurį pasirašė per 17 tūkst.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

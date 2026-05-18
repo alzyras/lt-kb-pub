@@ -18,22 +18,29 @@ The Battle of Grünwald: in commemoration of the 600th anniversary of the Battle
 
 ## Teiginiai
 - t-001
-  teiginys: 'The Battle of Grünwald: in commemoration of the 600th anniversary of the Battle of Grünwald in 1410 / translated by Albina Strunga; edited by Joseph Everatt, Mindaugas Šapoka.'
+  teiginys: 'Albina Strunga išvertė M. Jučo knygą „The Battle of Grünwald“, skirtą Žalgirio mūšio 600-osioms metinėms.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'The Battle of Grünwald: in commemoration of the 600th anniversary of the Battle of Grünwald in 1410 / translated by Albina Strunga; edited by Joseph Everatt, Mindaugas Šapoka.'
+  santrauka: 'Albina Strunga išvertė M. Jučo knygą „The Battle of Grünwald“, skirtą Žalgirio mūšio 600-osioms metinėms.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jučas M. The Battle of Grünwald: in commemoration of the 600th anniversary
     of the Battle of Grünwald in 1410 / translated by Albina Strunga; edited by Joseph
     Everatt, Mindaugas Šapoka.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Joseph Everatt]]
+- [[objektai/autoriai/Mindaugas Šapoka]]

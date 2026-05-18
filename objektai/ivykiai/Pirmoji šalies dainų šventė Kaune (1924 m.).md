@@ -31,23 +31,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Gimė naujos tradicijos – 1924 m. Kaune surengta pirmoji šalies dainų šventė.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Gimė naujos tradicijos – 1924 m. Kaune surengta pirmoji šalies dainų šventė.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvių kalba tapo ne tik vals-
-    tybine įstaigose, bet ir karine (įsteigta Kauno karo mokykla), mokslo ir
-    mokslinių tyrimų kalba.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta

@@ -19,17 +19,21 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymių, kuris partijai įsakius dirbs bet kur pagal žinomos dainos žodžius „Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“.'
+  teiginys: 'Sovietinė ideologija siekė formuoti unifikuotą, ideologiškai ir rusiškai kalbančią sovietinę naciją.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Sovietų santvarkai hipių veikla (dėmesys savo vidiniam pasauliui, absoliučios laisvės išpažinimas, karinės tarnybos sovietų kariuomenėje vengimas, „išsišokantis apsirengimo stilius“, ilgi plaukai) niekaip nesiderino su homo sovieticus nustatyto gyvenimo.'
+  teiginys: 'Sovietų santvarkai hipių laisvės išpažinimas, karinės tarnybos vengimas, apranga ir ilgi plaukai nesiderino su homo sovieticus gyvenimo taisyklėmis.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymių, kuris partijai įsakius dirbs bet kur pagal žinomos dainos žodžius „Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“.'
+  santrauka: 'Sovietinė ideologija siekė formuoti unifikuotą, ideologiškai ir rusiškai kalbančią sovietinę naciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pra-
@@ -39,15 +43,15 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
     suprasti, kad einama unifikuotos ideologiškai ir rusiškai kalbančios so-
     vietinės nacijos formavimo intensyvinimo keliu, kad ateityje lietuvių ir
     kitos kalbos išnyks.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Sovietų santvarkai hipių veikla (dėmesys savo vidiniam pasauliui, absoliučios laisvės išpažinimas, karinės tarnybos sovietų kariuomenėje vengimas, „išsišokantis apsirengimo stilius“, ilgi plaukai) niekaip nesiderino su homo sovieticus nustatyto gyvenimo.'
+  santrauka: 'Sovietų santvarkai hipių laisvės išpažinimas, karinės tarnybos vengimas, apranga ir ilgi plaukai nesiderino su homo sovieticus gyvenimo taisyklėmis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietų santvarkai hipių veikla (dėme-
@@ -55,11 +59,11 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
     nybos sovietų kariuomenėje vengimas, „išsišokantis apsirengimo stilius“,
     ilgi plaukai) niekaip nesiderino su homo sovieticus nustatyto gyvenimo
     taisyklėmis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

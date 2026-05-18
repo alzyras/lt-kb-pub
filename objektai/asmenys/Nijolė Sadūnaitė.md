@@ -18,23 +18,25 @@ Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė, Petras Cidzika
 
 ## Teiginiai
 - t-001
-  teiginys: 'Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė, Petras Cidzikas.'
+  teiginys: 'Nijolė Sadūnaitė buvo kalinta už kovą prieš sovietų santvarką.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė, Petras Cidzikas.'
+  santrauka: 'Nijolė Sadūnaitė buvo kalinta už kovą prieš sovietų santvarką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Organizacijai priklausė būrys
     prieš sovietų santvarką kovojusių asmenų, kai kurie jų – Romaldas Juozas
     Ragaišis ir A. Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė,
     Petras Cidzikas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

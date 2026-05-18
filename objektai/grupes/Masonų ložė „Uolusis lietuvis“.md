@@ -18,21 +18,23 @@ Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas.'
+  teiginys: 'Garsiausioji masonų ložė Lietuvoje vadinosi „Uolusis lietuvis“ arba „Gorliwy Litwin“.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas.'
+  santrauka: 'Garsiausioji masonų ložė Lietuvoje vadinosi „Uolusis lietuvis“ arba „Gorliwy Litwin“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Garsiausioji ložė vadinosi „Uolusis
     lietuvis“ („Gorliwy Litwin“).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

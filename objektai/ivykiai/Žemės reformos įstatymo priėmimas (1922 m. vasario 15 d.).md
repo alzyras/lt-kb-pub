@@ -47,36 +47,40 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: "1922 m. vasario 15 d. Steigiamasis Seimas priėmė pagrindinį Žemės reformos įstatymą."
+- t-006
+  teiginys: '1922 m. vasario 15 d. Steigiamasis Seimas priėmė pagrindinį Žemės reformos įstatymą.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "Įstatymas numatė įvairių žemių paėmimą į Valstybinį žemės fondą."
+- t-007
+  teiginys: 'Žemės reformos įstatymas į Valstybinį žemės fondą įtraukė valstybinę, dalį privačios ir bažnytinių institucijų žemės.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: "Pirmiausia žemė buvo skiriama kariams savanoriams, bežemiams, mažažemiams valstiečiams, kaimo amatininkams ir kai kurioms įstaigoms."
+- t-008
+  teiginys: 'Pirmiausia žemė buvo skiriama kariams savanoriams, bežemiams, mažažemiams valstiečiams, kaimo amatininkams ir kai kurioms įstaigoms.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-004
+- t-009
   teiginys: '1922 m. vasario 15 d. Steigiamasis Seimas krikščionių demokratų balsais priėmė pagrindinį Žemės reformos įstatymą.'
   pagrindžia:
     - c-001
-- t-005
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-010
   teiginys: 'Pirmiausia žemės gavo kariai savanoriai, bežemiai ir mažažemiai (turėję mažiau kaip 10 ha) valstiečiai, kaimo amatininkai, kai kurios valstybinės ir visuomeninės įstaigos.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Žemės reformos įstatymo priėmimas ir į Valstybinį žemės fondą paimamos žemės.
+  santrauka: '1922 m. vasario 15 d. Steigiamasis Seimas priėmė pagrindinį Žemės reformos įstatymą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1922 m. vasario 15 d. Steigiamasis Seimas krikščionių demokratų
@@ -88,14 +92,15 @@ Nenurodyta
     80 ha.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Kūno prozos citata tiesiogiai nurodo įvykį ir jo aplinkybes."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-006
+    - t-007
+    - t-009
 - c-002
-  santrauka: Pirmieji žemės reformos gavėjai.
+  santrauka: 'Pirmiausia žemė buvo skiriama kariams savanoriams, bežemiams, mažažemiams valstiečiams, kaimo amatininkams ir kai kurioms įstaigoms.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pirmiausia žemės gavo kariai savanoriai, bežemiai
@@ -103,11 +108,12 @@ Nenurodyta
     kai kurios valstybinės ir visuomeninės įstaigos.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Kūno prozos citata tiesiogiai nurodo įvykį ir jo aplinkybes."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-008
+    - t-010
 
 ## Ryšiai
 ### Teminiai klasteriai

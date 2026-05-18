@@ -32,30 +32,10 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vasario 16 Aktas, skelbė,
-    kad Lietuva yra nepriklausoma valstybė, su „etnologinėmis sienomis“, tai
-    tikriausiai turėjo reikšti, kad kiek atsitraukta vien nuo etnografinių sienų
-    planų, turint viltį, kad teritorija padidės. Steigiamojo Seimo pirmininku
-    išrinktas LŪS lyderis agronomas Aleksandras Stulginskis (1922–1926 m.
-    išrinktas Lietuvos prezidentu), o birželio 19-ąją sudaryta liaudininko
-    Kazio Griniaus vadovaujama vyriausybė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai

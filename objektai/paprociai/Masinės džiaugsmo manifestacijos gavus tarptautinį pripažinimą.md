@@ -57,8 +57,8 @@ tags: []
 - Praktika rodo ankstyvą valstybingumo viešo šventimo formą laikinojoje sostinėje.
 
 ## Teiginiai
-- t-001
-  teiginys: "1919 m. rugsėjo 26 d. Kaune de facto pripažinimas pažymėtas masine džiaugsmo manifestacija prie rotušės."
+- t-002
+  teiginys: '1919 m. rugsėjo 26 d. tūkstančiai žmonių susirinko prie Kauno rotušės, gavę žinią apie Didžiosios Britanijos de facto pripažinimą Lietuvai.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -66,7 +66,7 @@ tags: []
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata aprašo manifestacijos laiką, vietą, dalyvius ir šventimo gestus.
+  santrauka: '1919 m. rugsėjo 26 d. tūkstančiai žmonių susirinko prie Kauno rotušės, gavę žinią apie Didžiosios Britanijos de facto pripažinimą Lietuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos ma-
@@ -77,9 +77,9 @@ tags: []
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata patikrinta kaip pažodinis darbinio šaltinio fragmentas."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Šaltiniai ir įrodymai
 

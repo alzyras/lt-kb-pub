@@ -18,14 +18,16 @@ tags:
 bent jau Vilnius prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja) tokius žydų kultūros centrus kaip Krokuva, Liublinas ar Lvovas.
 
 ## Teiginiai
-- t-001
-  teiginys: 'bent jau Vilnius prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja) tokius žydų kultūros centrus kaip Krokuva, Liublinas ar Lvovas.'
+- t-002
+  teiginys: 'XVII–XVIII a. Vilnius prilygo arba galėjo lenkti Krokuvą, Liubliną ir Lvovą kaip žydų kultūros centras, siejamas su „Lietuvos Jeruzalės“ idėja.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'bent jau Vilnius prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja) tokius žydų kultūros centrus kaip Krokuva, Liublinas ar Lvovas.'
+  santrauka: 'XVII–XVIII a. Vilnius prilygo arba galėjo lenkti Krokuvą, Liubliną ir Lvovą kaip žydų kultūros centras, siejamas su „Lietuvos Jeruzalės“ idėja.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visų pirma – tai „tar-
@@ -34,10 +36,10 @@ bent jau Vilnius prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos J
     natūralu, kad čia jų būta mažiau. Tačiau XVII–XVIII a. bent jau Vilnius
     prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja)
     tokius žydų kultūros centrus kaip Krokuva, Liublinas ar Lvovas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

@@ -29,13 +29,15 @@ Smetona stengėsi laikytis „vidurainės [A.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Smetona stengėsi laikytis „vidurainės [A.'
+  teiginys: 'A. Smetona stengėsi laikytis „vidurainės linijos“ ir nesusisieti su konkrečia valstybe ar jų grupe.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Smetona stengėsi laikytis „vidurainės [A.'
+  santrauka: 'A. Smetona stengėsi laikytis „vidurainės linijos“ ir nesusisieti su konkrečia valstybe ar jų grupe.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pasirodė, kad jis neturėjo naujų užsienio politikos idė-
@@ -50,11 +52,11 @@ Smetona stengėsi laikytis „vidurainės [A.
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
     159
     Lenkiją.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

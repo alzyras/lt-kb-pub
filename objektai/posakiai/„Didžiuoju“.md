@@ -28,32 +28,15 @@ Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureik�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureikšminimai nulėmė, kad Vytautas pradėtas vadinti Didžiuoju.'
+  teiginys: 'Vytautas pradėtas vadinti Didžiuoju, nes jau amžininkai suvokė jo laikų permainų reikšmę.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Vytauto laikų permainos Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureikšminimai nulėmė, kad Vytautas pradėtas vadinti Didžiuoju.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureikšminimai nulėmė, kad Vytautas pradėtas vadinti Didžiuoju.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vytauto laikų permainos
-    Vytauto permainų reikšmę suvokė jau amžininkai, jų kom-
-    plimentai ar sureikšminimai nulėmė, kad Vytautas pradėtas vadinti Di-
-    džiuoju.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Vytauto laikų permainos Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureikšminimai nulėmė, kad Vytautas pradėtas vadinti Didžiuoju.'
+  santrauka: 'Vytautas pradėtas vadinti Didžiuoju, nes jau amžininkai suvokė jo laikų permainų reikšmę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vytauto laikų permainos
@@ -62,13 +45,13 @@ Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureik�
     džiuoju. Visų pirma Vytautas nustojo mokėti duoklę mongolams, panai-
     kino senovinę dalinių kunigaikštijų sistemą, į tas kunigaikštijas paskyrė
     vietininkus ir suėmė realią valdžią LDK į savo rankas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai

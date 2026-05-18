@@ -31,31 +31,15 @@ vyko įveikti destrukcijos planus – 1919 m. rugpjūtį lietuvių žvalgyba are
 
 ## Teiginiai
 - t-001
-  teiginys: 'vyko įveikti destrukcijos planus – 1919 m. rugpjūtį lietuvių žvalgyba areštavo 200 Lenkų karinės 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 141 organizacijos (Polska Organizacja Wojskowa, POW) narių, kurie planavo perversmą ir prolenkiškos.'
+  teiginys: '1919 m. rugpjūtį lietuvių žvalgyba areštavo 200 Lenkų karinės organizacijos narių, planavusių perversmą.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Namie pavyko įveikti destrukcijos planus – 1919 m. rugpjūtį lietuvių žvalgyba areštavo 200 Lenkų karinės 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 141 organizacijos (Polska Organizacja Wojskowa, POW) narių, kurie planavo perversmą ir.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'vyko įveikti destrukcijos planus – 1919 m. rugpjūtį lietuvių žvalgyba areštavo 200 Lenkų karinės 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 141 organizacijos (Polska Organizacja Wojskowa, POW) narių, kurie planavo perversmą ir prolenkiškos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    organizacijos (Polska Organizacja Wojskowa, POW) narių, kurie planavo
-    perversmą ir prolenkiškos vyriausybės sudarymą – po šio įvykio lietuvių
-    ūpas federuotis su Lenkija krito.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Namie pavyko įveikti destrukcijos planus – 1919 m. rugpjūtį lietuvių žvalgyba areštavo 200 Lenkų karinės 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 141 organizacijos (Polska Organizacja Wojskowa, POW) narių, kurie planavo perversmą ir.'
+  santrauka: '1919 m. rugpjūtį lietuvių žvalgyba areštavo 200 Lenkų karinės organizacijos narių, planavusių perversmą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Namie pavyko įveikti destrukcijos
@@ -67,13 +51,13 @@ vyko įveikti destrukcijos planus – 1919 m. rugpjūtį lietuvių žvalgyba are
     perversmą ir prolenkiškos vyriausybės sudarymą – po šio įvykio lietuvių
     ūpas federuotis su Lenkija krito. Sėkmingai likviduotas ir bermontininkų
     rengtas perversmas Kaune.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai

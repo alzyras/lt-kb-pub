@@ -20,13 +20,15 @@ N aują impulsą savo veiklai Europos šalių tautiniai sąjūdžiai gavo 1914 m
 
 ## Teiginiai
 - t-001
-  teiginys: 'N aują impulsą savo veiklai Europos šalių tautiniai sąjūdžiai gavo 1914 m. birželio 28 d. Sarajeve nugriaudėjus šūviams į Austrijos-Vengrijos erchercogą Pranciškų Ferdinandą (Franz Ferdinand), kai dvi didelės koalicijos perėjo į karo padėtį – Vokietijos ir.'
+  teiginys: 'Į Austrijos-Vengrijos erchercogą Pranciškų Ferdinandą 1914 m. birželio 28 d. Sarajeve buvo paleisti šūviai.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'N aują impulsą savo veiklai Europos šalių tautiniai sąjūdžiai gavo 1914 m. birželio 28 d. Sarajeve nugriaudėjus šūviams į Austrijos-Vengrijos erchercogą Pranciškų Ferdinandą (Franz Ferdinand), kai dvi didelės koalicijos perėjo į karo padėtį – Vokietijos ir.'
+  santrauka: 'Į Austrijos-Vengrijos erchercogą Pranciškų Ferdinandą 1914 m. birželio 28 d. Sarajeve buvo paleisti šūviai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     KOVA DĖL NEPRIKLAUSOMYBĖS
@@ -39,10 +41,10 @@ N aują impulsą savo veiklai Europos šalių tautiniai sąjūdžiai gavo 1914 m
     (Franz Ferdinand), kai dvi didelės koalicijos perėjo į karo padėtį – Vo-
     kietijos ir Austrijos–Vengrijos imperijos pradėjo karą prieš trilypę Pran-
     cūzijos, Didžiosios Britanijos ir Rusijos imperijos Antantę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

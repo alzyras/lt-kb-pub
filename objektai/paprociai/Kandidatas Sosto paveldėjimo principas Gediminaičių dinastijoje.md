@@ -36,17 +36,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Gediminaičių dinastijos iškilimas XIII a.'
+  teiginys: 'XIII a. pabaigoje Lietuvoje nauju reiškiniu tapo sosto paveldėjimas tos pačios giminės brolių arba sūnų linijoje.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gediminas (valdęs 1316–1341 m.).'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Gediminaičių dinastijos iškilimas XIII a.'
+  santrauka: 'XIII a. pabaigoje Lietuvoje nauju reiškiniu tapo sosto paveldėjimas tos pačios giminės brolių arba sūnų linijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gediminaičių dinastijos iškilimas
@@ -54,27 +52,13 @@ Nenurodyta
     čiai: Butigeidis, po jo – šio brolis Butvydas, dar vėliau – Butvydo sūnus
     Vytenis. Tai buvo naujas reiškinys Lietuvos istorijoje – sostą paveldi tos
     pačios giminės žmonės  – broliai arba sūnūs.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gediminas (valdęs 1316–1341 m.).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai leido Lietuvai tapti didelių
-    politinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe. Jos
-    politika darėsi plataus regiono ar net Europos masto politika.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

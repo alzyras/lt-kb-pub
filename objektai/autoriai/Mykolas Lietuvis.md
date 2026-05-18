@@ -38,25 +38,22 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
 - Apie totorių, lietuvių ir maskvėnų papročius
 
 ## Teiginiai
-- t-001
-  teiginys: "Mykolo Lietuvio svarstymai apie valstybės tvarką siejami su veikalu „Apie totorių, lietuvių ir maskvėnų papročius“."
+- t-004
+  teiginys: 'Mykolo Lietuvio svarstymai apie valstybės tvarką siejami su veikalu „Apie totorių, lietuvių ir maskvėnų papročius“.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "Mykolas Lietuvis siūlė atsisakyti rusėnų kalbos ir pereiti prie lotynų."
+- t-005
+  teiginys: 'Mykolas Lietuvis savo svarstymuose Vytauto laikų papročių rigorizmą ir asketizmą priešpriešino savo meto visuomenės išglebimui, girtuoklystei ir netvarkai.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Kitas Lietuvos bajoriškosios visuomenės istorinės sąmonės siužetas formavosi iškeliant Vytautą ir jo laikus.'
-  pagrindžia:
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Mykolas Lietuvis siejamas su valstybės tvarkos svarstymais ir kalbos reformos siūlymu.
+  santrauka: 'Mykolo Lietuvio svarstymai apie valstybės tvarką siejami su veikalu „Apie totorių, lietuvių ir maskvėnų papročius“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šias idėjas randame ir
@@ -68,11 +65,10 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-004
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai
@@ -80,3 +76,5 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
 
 ### Susiję objektai
 - [[objektai/autoriai/Mikalojus Husovianas]]
+- [[objektai/paprociai/Kandidatas 30 Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]
+- [[objektai/paprociai/Kandidatas Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]

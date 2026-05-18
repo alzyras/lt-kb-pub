@@ -33,20 +33,22 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Prancūzų kariuomenės traukimasis per Vilniaus rotušės aikštę. Iš J. K. Vilčinskio „Vilniaus albumo“. Dail. J. Damehl, 1846 m.'
+  teiginys: 'Paveiksle vaizduotas Prancūzų kariuomenės traukimasis per Vilniaus rotušės aikštę.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Prancūzų kariuomenės traukimasis per Vilniaus rotušės aikštę. Iš J. K. Vilčinskio „Vilniaus albumo“. Dail. J. Damehl, 1846 m.'
+  santrauka: 'Paveiksle vaizduotas Prancūzų kariuomenės traukimasis per Vilniaus rotušės aikštę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prancūzų kariuomenės traukimasis per Vilniaus rotušės aikštę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

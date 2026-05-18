@@ -97,7 +97,3 @@ Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis i
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/vietos/Paryžius]]
-- [[objektai/daiktai/Žemėlapis „Lituania Propria“]]

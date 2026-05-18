@@ -21,28 +21,25 @@ Ginkluoti partizanai nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąj
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ginkluoti partizanai nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąją sukilėlių būriai paleisti, o iš savanorių suformuotas Tautinės darbo apsaugos (TDA) batalionas prie Kauno karo komendantūros.'
+  teiginys: '1941 m. birželio 28 d. paleidus sukilėlių būrius, iš savanorių prie Kauno karo komendantūros suformuotas TDA batalionas.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ginkluoti partizanai nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąją sukilėlių būriai paleisti, o iš savanorių suformuotas Tautinės darbo apsaugos (TDA) batalionas prie Kauno karo komendantūros.'
+  santrauka: '1941 m. birželio 28 d. paleidus sukilėlių būrius, iš savanorių prie Kauno karo komendantūros suformuotas TDA batalionas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ginkluoti partizanai
     nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąją sukilėlių būriai
     paleisti, o iš savanorių suformuotas Tautinės darbo apsaugos (TDA)
     batalionas prie Kauno karo komendantūros.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/zonderkomanda]]
-- [[objektai/ivykiai/Žydų žudynės Kauno VII forte (1941 m. liepos 4 ir 6 d.)]]

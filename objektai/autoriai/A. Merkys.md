@@ -27,13 +27,15 @@ Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti- 4 skyrius �
 
 ## Teiginiai
 - t-001
-  teiginys: 'Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti- 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 187 ne politika, nebūtais kareivių grobimais, neva jų tardymais ir kankinimais, nesama karine antisovietine sąjunga su Latvija ir.'
+  teiginys: 'A. Merkys 1940 m. birželio 7 d. Maskvoje susitiko su V. Molotovu, kuris kaltino Lietuvą antisovietine politika.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti- 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 187 ne politika, nebūtais kareivių grobimais, neva jų tardymais ir kankinimais, nesama karine antisovietine sąjunga su Latvija ir.'
+  santrauka: 'A. Merkys 1940 m. birželio 7 d. Maskvoje susitiko su V. Molotovu, kuris kaltino Lietuvą antisovietine politika.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo pat pirmo susitikimo Maskvoje 1940 m. birželio 7 d. V. Molotovas
@@ -44,14 +46,18 @@ Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti- 4 skyrius �
     ne politika, nebūtais kareivių grobimais, neva jų tardymais ir kankinimais,
     nesama karine antisovietine sąjunga su Latvija ir Estija, užkliuvo antiso-
     vietinė karikatūra Lietuvos laikraštyje, netgi paties A.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/asmenys/Antanas Merkys]]
+- [[objektai/asmenys/Viačeslavas Molotovas]]

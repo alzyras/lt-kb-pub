@@ -30,23 +30,25 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Nuo 1993 m. vidurio infliacijos lygis pradėjo mažėti, iš esmės dėl nacionalinės valiutos – lito įvedimo laikotarpiu Lietuvos banko vykdytos sugriežtintos pinigų politikos ir 1994 m. kovo 1 d. pradėto taikyti valiutų valdybos modelio (pagal jį litas susietas.'
+  teiginys: 'Lito susiejimas su JAV doleriu laikytas vienu išmintingiausių atsikūrusios Lietuvos ekonominės politikos sprendimų.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Nuo 1993 m. vidurio infliacijos lygis pradėjo mažėti, iš esmės dėl nacionalinės valiutos – lito įvedimo laikotarpiu Lietuvos banko vykdytos sugriežtintos pinigų politikos ir 1994 m. kovo 1 d. pradėto taikyti valiutų valdybos modelio (pagal jį litas susietas.'
+  santrauka: 'Lito susiejimas su JAV doleriu laikytas vienu išmintingiausių atsikūrusios Lietuvos ekonominės politikos sprendimų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ekonomistų teigimu, lito susiejimas su JAV doleriu buvo vienas išmintin-
     giausių ekonominės politikos sprendimų per visą atsikūrusios Lietuvos
     laikotarpį.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

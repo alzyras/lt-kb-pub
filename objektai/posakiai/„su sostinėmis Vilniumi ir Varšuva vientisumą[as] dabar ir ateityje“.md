@@ -21,23 +21,25 @@ Dokumento preambulėje, be kitų nuostatų, buvo priminti ankstesni Lenkijos ir 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Dokumento preambulėje, be kitų nuostatų, buvo priminti ankstesni Lenkijos ir Lietuvos nesutarimai dėl teritorijų, pasmerktas smurto naudojimas abiejų tautų tarpusavio santykiuose ir abiejų šalių iškilmingai patvirtintas dabartinių teritorijų „su sostinėmis.'
+  teiginys: 'Ratifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė bet kokių pretenzijų į Vilniaus kraštą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Dokumento preambulėje, be kitų nuostatų, buvo priminti ankstesni Lenkijos ir Lietuvos nesutarimai dėl teritorijų, pasmerktas smurto naudojimas abiejų tautų tarpusavio santykiuose ir abiejų šalių iškilmingai patvirtintas dabartinių teritorijų „su sostinėmis.'
+  santrauka: 'Ratifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė bet kokių pretenzijų į Vilniaus kraštą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ra-
     tifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė
     bet kokių pretenzijų į Vilniaus kraštą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

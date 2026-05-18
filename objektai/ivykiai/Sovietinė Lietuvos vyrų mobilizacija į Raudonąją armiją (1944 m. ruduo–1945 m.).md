@@ -31,13 +31,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pradėjęs mobilizaciją į SSRS kariuomenę, sovietų režimas nustebo, kad lietuviai vengia tarnybos Raudonojoje armijoje, mat Lietuvos gyventojai laikė savo šalį okupuota, kurioje SSRS negalėjo vykdyti vyrų mobilizacijos į Raudonąją armiją ir pažeisti tarptautinę.'
+  teiginys: 'Pradėjus mobilizaciją į SSRS kariuomenę, lietuviai vengė tarnybos Raudonojoje armijoje, nes Lietuvą laikė okupuota.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pradėjęs mobilizaciją į SSRS kariuomenę, sovietų režimas nustebo, kad lietuviai vengia tarnybos Raudonojoje armijoje, mat Lietuvos gyventojai laikė savo šalį okupuota, kurioje SSRS negalėjo vykdyti vyrų mobilizacijos į Raudonąją armiją ir pažeisti tarptautinę.'
+  santrauka: 'Pradėjus mobilizaciją į SSRS kariuomenę, lietuviai vengė tarnybos Raudonojoje armijoje, nes Lietuvą laikė okupuota.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pradėjęs mobilizaciją į SSRS kariuomenę, sovietų režimas nustebo,
@@ -45,11 +47,11 @@ Nenurodyta
     tojai laikė savo šalį okupuota, kurioje SSRS negalėjo vykdyti vyrų mobi-
     lizacijos į Raudonąją armiją ir pažeisti tarptautinę teisę (1907 m. priimtą
     Hagos konvenciją).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

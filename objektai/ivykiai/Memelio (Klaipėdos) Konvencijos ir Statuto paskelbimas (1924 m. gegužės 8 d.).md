@@ -46,20 +46,22 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: "1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas paskelbė regioną autonomine Lietuvos dalimi."
+- t-003
+  teiginys: '1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas paskelbė regioną autonomine Lietuvos dalimi.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: '1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas panaikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną autonomine Lietuvos dalimi.'
+- t-004
+  teiginys: '1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas panaikino „Klaipėdos problemos“ teritorinį aspektą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Konvencijos ir Statuto paskelbimo rezultatas.
+  santrauka: '1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas paskelbė regioną autonomine Lietuvos dalimi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas pa-
@@ -67,15 +69,13 @@ Nenurodyta
     autonomine Lietuvos dalimi.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Kūno prozos citata tiesiogiai nurodo įvykį ir jo aplinkybes."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/vietos/Klaipėdos kraštas]]

@@ -18,23 +18,25 @@ tai neatrodė bloga išeitis – Roma, Madridas ar Lisabona tebespinduliavo kata
 
 ## Teiginiai
 - t-001
-  teiginys: 'tai neatrodė bloga išeitis – Roma, Madridas ar Lisabona tebespinduliavo katalikybę ir barokinės architektūros bei dailės šviesą iki pat Meksikos, Paragvajaus.'
+  teiginys: 'XVI–XVII a. Madridas tebespinduliavo katalikybę ir barokinės architektūros bei dailės įtaką iki Meksikos ir Paragvajaus.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'tai neatrodė bloga išeitis – Roma, Madridas ar Lisabona tebespinduliavo katalikybę ir barokinės architektūros bei dailės šviesą iki pat Meksikos, Paragvajaus.'
+  santrauka: 'XVI–XVII a. Madridas tebespinduliavo katalikybę ir barokinės architektūros bei dailės įtaką iki Meksikos ir Paragvajaus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     XVI–XVII a. tai neatrodė bloga išeitis – Roma, Madridas ar Li-
     sabona tebespinduliavo katalikybę ir barokinės architektūros bei dailės
     šviesą iki pat Meksikos, Paragvajaus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

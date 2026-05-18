@@ -18,22 +18,26 @@ Kova dėl identiteto.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kova dėl identiteto.'
+  teiginys: 'V. Žalio „Kova dėl identiteto“ nagrinėja, kodėl Lietuvai 1923–1939 m. nesisekė Klaipėdoje.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Kova dėl identiteto.'
+  santrauka: 'V. Žalio „Kova dėl identiteto“ nagrinėja, kodėl Lietuvai 1923–1939 m. nesisekė Klaipėdoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žalys V. Kova dėl identiteto. Kodėl Lietuvai nesisekė Klaipėdoje tarp 1923–
     1939 m. / Ringen um Identitat. Warum Litauen zwischen 1923 und 1939 im Me-
     melgebiet keinen Erfolg hatte/. Lueneburg, 1993.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

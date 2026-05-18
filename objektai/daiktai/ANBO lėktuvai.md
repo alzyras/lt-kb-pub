@@ -60,71 +60,43 @@ Naudota kaip Lietuvos karo ir sporto aviacijos technika; ANBO IV grupė 1934 m. 
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: "ANBO šaltinyje aiškinamas kaip lėktuvų projektavimo ir gamybos Kaune ženklas."
+- t-006
+  teiginys: 'Kauno karo aviacijos dirbtuvėse buvo pastatyti 66 tokie lėktuvai.'
+  pagrindžia:
+    - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'ANBO siejamas su lėktuvų projektavimu ir gamyba Kaune.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "Antanas Gustaitis sukonstravo ANBO seriją, o Kauno karo aviacijos dirbtuvėse pastatyti 66 tokie lėktuvai."
+- t-008
+  teiginys: 'Antanas Gustaitis sukonstravo ANBO lėktuvų seriją, kurios pavadinimas sudarytas iš žodžių „Antanas nori būti ore“ pirmųjų raidžių.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'O turima galvoje: žemės ūkio pažanga, lėktuvų projektavimas ir gamyba Kaune ir krepšininkų vyrų dukart – 1937 ir 1939 m. – iškovoti Europos čempionų titulai.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėktuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių pirmųjų raidžių).'
-  pagrindžia:
-    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: ANBO siejamas su lėktuvų projektavimu ir gamyba Kaune.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Šiandien istorikų jaunimas Lietuvos Respublikos civilizacinius pa-
-    siekimus įvardija labai trumpai – sviestas, ANBO ir krepšinis.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Pateikiama ANBO serijos kilmė, kiekis ir naudojimo kontekstas.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    66 tokie lėktuvai buvo pastatyti Kauno karo aviaci-
-    jos dirbtuvėse.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-004
-  santrauka: 'O turima galvoje: žemės ūkio pažanga, lėktuvų projektavimas ir gamyba Kaune ir krepšininkų vyrų dukart – 1937 ir 1939 m. – iškovoti Europos čempionų titulai.'
+  santrauka: 'ANBO siejamas su lėktuvų projektavimu ir gamyba Kaune.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O turima
     galvoje: žemės ūkio pažanga, lėktuvų projektavimas ir gamyba Kaune ir
     krepšininkų vyrų dukart – 1937 ir 1939 m. – iškovoti Europos čempionų
     titulai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėktuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių pirmųjų raidžių).'
+    - t-007
+- c-002
+  santrauka: 'Antanas Gustaitis sukonstravo ANBO lėktuvų seriją, kurios pavadinimas sudarytas iš žodžių „Antanas nori būti ore“ pirmųjų raidžių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šie įvykiai sudomino jaunimą aviacija, aviacijos ir sklandymo spor-
@@ -132,13 +104,26 @@ Nenurodyta
     buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėk-
     tuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių
     pirmųjų raidžių).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-008
+- c-003
+  santrauka: 'Kauno karo aviacijos dirbtuvėse buvo pastatyti 66 tokie lėktuvai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    66 tokie lėktuvai buvo pastatyti Kauno karo aviaci-
+    jos dirbtuvėse.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
 
 ## Šaltiniai ir įrodymai
 
@@ -150,6 +135,4 @@ Nenurodyta
 - [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Antanas Gustaitis]]
-- [[objektai/vietos/Kaunas]]
 - [[objektai/vietos/Kauno karo aviacijos dirbtuvės]]

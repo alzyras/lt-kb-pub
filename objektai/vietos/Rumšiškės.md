@@ -19,23 +19,25 @@ Tam įsteigtas Liaudies buities muziejus Rumšiškėse (netoli Kauno), įkurtos 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tam įsteigtas Liaudies buities muziejus Rumšiškėse (netoli Kauno), įkurtos meno ir kraštotyros draugijos, legalizuoti etnografiniai tyrimai, leista kurti folkloro ansamblius.'
+  teiginys: 'Rumšiškėse, netoli Kauno, buvo įsteigtas Liaudies buities muziejus.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tam įsteigtas Liaudies buities muziejus Rumšiškėse (netoli Kauno), įkurtos meno ir kraštotyros draugijos, legalizuoti etnografiniai tyrimai, leista kurti folkloro ansamblius.'
+  santrauka: 'Rumšiškėse, netoli Kauno, buvo įsteigtas Liaudies buities muziejus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tam įsteigtas Liaudies
     buities muziejus Rumšiškėse (netoli Kauno), įkurtos meno ir kraštotyros
     draugijos, legalizuoti etnografiniai tyrimai, leista kurti folkloro ansam-
     blius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

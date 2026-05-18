@@ -21,17 +21,21 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
 
 ## Teiginiai
 - t-001
-  teiginys: 'Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies christianizacija (997), Islandijos Altingo priimtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengrijos soste šv.'
+  teiginys: 'Lietuvos „karaliaus“ Netimero krikštas 1009 m. minimas greta kitų Europos christianizacijos įvykių.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Taigi, visa Vytauto politika buvo orientuota į bažnytinę politiką ir Lietuvos konversiją, kuri kartais perdėm formaliai užbaigiama vadinamuoju Žemaičių krikštu.'
+  teiginys: 'Vytauto politika buvo orientuota į „švento valdovo“ įvaizdį, panašų į Vengrijos valdovo šventojo Stepono statusą.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies christianizacija (997), Islandijos Altingo priimtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengrijos soste šv.'
+  santrauka: 'Lietuvos „karaliaus“ Netimero krikštas 1009 m. minimas greta kitų Europos christianizacijos įvykių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Adalberto misija Prūsijoje (997), Norvegijos
@@ -39,25 +43,25 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
     imtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengri-
     jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
     krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Taigi, visa Vytauto politika buvo orientuota į bažnytinę politiką ir Lietuvos konversiją, kuri kartais perdėm formaliai užbaigiama vadinamuoju Žemaičių krikštu.'
+  santrauka: 'Vytauto politika buvo orientuota į „švento valdovo“ įvaizdį, panašų į Vengrijos valdovo šventojo Stepono statusą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atrodo, kad visa Vytauto politika orientuota į „švento
     valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas
     įgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

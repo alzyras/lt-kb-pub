@@ -30,23 +30,25 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ypač populiarūs tapo vadinamieji Roko maršai.'
+  teiginys: 'Roko maršai per Lietuvą vyko 1987, 1988 ir 1989 m. vasaromis ir buvo skirti LPS idėjoms skleisti.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ypač populiarūs tapo vadinamieji Roko maršai.'
+  santrauka: 'Roko maršai per Lietuvą vyko 1987, 1988 ir 1989 m. vasaromis ir buvo skirti LPS idėjoms skleisti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ypač populiarūs tapo vadi-
     namieji Roko maršai. Tokie jaunimo muzikos koncertų žygiai per Lietuvą
     vyko 1987, 1988 ir 1989 m. vasarą – jie buvo skirti LPS idėjoms skleisti ir
     išlaisvinti režimo įbaugintus žmones.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

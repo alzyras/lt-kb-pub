@@ -20,13 +20,17 @@ Po to, kai 1905 m. spalio pabaigoje caras Nikolajus II, išsigandęs vis kylanč
 
 ## Teiginiai
 - t-001
-  teiginys: 'Po to, kai 1905 m. spalio pabaigoje caras Nikolajus II, išsigandęs vis kylančios revoliucijos bangos visoje Rusijoje, išleido manifestą, kuriame pažadėjo pripažinti pagrindines demokratines laisves ir organizuoti Valstybės Dūmos – parlamento – rinkimus.'
+  teiginys: '1905 m. spalio pabaigoje caras Nikolajus II išleido manifestą, pažadėjusį demokratines laisves ir Valstybės Dūmos rinkimus.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Po to, kai 1905 m. spalio pabaigoje caras Nikolajus II, išsigandęs vis kylančios revoliucijos bangos visoje Rusijoje, išleido manifestą, kuriame pažadėjo pripažinti pagrindines demokratines laisves ir organizuoti Valstybės Dūmos – parlamento – rinkimus.'
+  santrauka: '1905 m. spalio pabaigoje caras Nikolajus II išleido manifestą, pažadėjusį demokratines laisves ir Valstybės Dūmos rinkimus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po to, kai 1905 m. spalio pabaigoje caras Nikolajus II, išsigandęs vis
@@ -34,10 +38,10 @@ Po to, kai 1905 m. spalio pabaigoje caras Nikolajus II, išsigandęs vis kylanč
     pažadėjo pripažinti pagrindines demokratines laisves ir organizuoti Vals-
     tybės Dūmos – parlamento – rinkimus, lietuvių veikėjai sumanė Vilniuje
     legaliai sušaukti didelį lietuvių iš visų Lietuvos vietovių suvažiavimą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

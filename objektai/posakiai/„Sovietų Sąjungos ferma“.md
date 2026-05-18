@@ -18,21 +18,23 @@ Gavusi Maskvos palaiminimą Lietuvos valdžia, matydama, kad sąjunginio pavaldu
 
 ## Teiginiai
 - t-001
-  teiginys: 'Gavusi Maskvos palaiminimą Lietuvos valdžia, matydama, kad sąjunginio pavaldumo pramonės įmones sunku kontroliuoti, plėtojo sau pavaldžias pramonės šakas.'
+  teiginys: 'Lietuva vadinta „Sovietų Sąjungos ferma“, nes daug investicijų buvo nukreipta į žemės ūkį ir maisto pramonę.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Gavusi Maskvos palaiminimą Lietuvos valdžia, matydama, kad sąjunginio pavaldumo pramonės įmones sunku kontroliuoti, plėtojo sau pavaldžias pramonės šakas.'
+  santrauka: 'Lietuva vadinta „Sovietų Sąjungos ferma“, nes daug investicijų buvo nukreipta į žemės ūkį ir maisto pramonę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Neatsitiktinai Lietuva vadinta Sovietų Sąjungos ferma, nes daug investicijų
     nukreipta į žemės ūkio ir maisto pramonės sektorius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

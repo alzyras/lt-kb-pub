@@ -44,34 +44,16 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-002
-  teiginys: 'Lietuvos valdžia kruopščiai rinko kaltinamąją medžiagą, atliko kratas, per kurias išaiškėjo, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus, kurstomosios literatūros.'
+- t-001
+  teiginys: '1934 m. vasario 8 d. priimtas Tautai ir valstybei saugoti įstatymas numatė bausti už lietuvių tautos, valdžios ir valstybės ženklų niekinimą.'
   pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Siekiant sutramdyti antivalstybinę veiklą, 1934 m. vasario 8 d. priimtas Tautai ir valstybei saugoti įstatymas, kuriame numatyta bausti tuos, kurie niekins ir įžeidinės lietuvių tautą, Lietuvos vyriausybę, valstybi­nius L I E T U V O S I S T O R I J A 180.'
-  pagrindžia:
-    - c-003
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Lietuvos valdžia kruopščiai rinko kaltinamąją medžiagą, atliko kratas, per kurias išaiškėjo, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus, kurstomosios literatūros.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos valdžia
-    kruopščiai rinko kaltinamąją medžiagą, atliko kratas, per kurias išaiškė-
-    jo, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus,
-    kurstomosios literatūros. 126 asmenys patraukti teisminėn atsakomybėn,
-    o liepos 13 dieną nacių organizacijos uždraustos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Siekiant sutramdyti antivalstybinę veiklą, 1934 m. vasario 8 d. priimtas Tautai ir valstybei saugoti įstatymas, kuriame numatyta bausti tuos, kurie niekins ir įžeidinės lietuvių tautą, Lietuvos vyriausybę, valstybi­nius L I E T U V O S I S T O R I J A 180.'
+- c-001
+  santrauka: '1934 m. vasario 8 d. priimtas Tautai ir valstybei saugoti įstatymas numatė bausti už lietuvių tautos, valdžios ir valstybės ženklų niekinimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Siekiant sutramdyti antivalstybinę veiklą, 1934 m. vasario 8 d. priim-
@@ -81,13 +63,13 @@ Nenurodyta
     L I E T U V O S  I S T O R I J A
     180
     ženklus, vėliavą, dirbs užsienio naudai prieš Lietuvą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai

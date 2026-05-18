@@ -19,28 +19,25 @@ Juo garantuojama individualios ar kolektyvinės savigynos teisė, įvykus ginklu
 
 ## Teiginiai
 - t-001
-  teiginys: 'Juo garantuojama individualios ar kolektyvinės savigynos teisė, įvykus ginkluotam vienos iš Aljanso narių užpuolimui.'
+  teiginys: 'Kolektyvinės savigynos teisė reiškia, kad ginkluoto puolimo prieš vieną Aljanso narę atveju kitos narės ateina jai į pagalbą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Juo garantuojama individualios ar kolektyvinės savigynos teisė, įvykus ginkluotam vienos iš Aljanso narių užpuolimui.'
+  santrauka: 'Kolektyvinės savigynos teisė reiškia, kad ginkluoto puolimo prieš vieną Aljanso narę atveju kitos narės ateina jai į pagalbą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Juo garantuojama individualios ar kolektyvi-
     nės savigynos teisė, įvykus ginkluotam vienos iš Aljanso narių užpuo-
     limui. Tai reiškia, kad šalys narės ginkluoto puolimo prieš bet kurią iš
     jų atveju ateis viena kitai į pagalbą – ir kiekviena atskirai, ir visos kartu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija]]
-- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]

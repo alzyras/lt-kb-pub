@@ -18,28 +18,29 @@ JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą 
 
 ## Teiginiai
 - t-001
-  teiginys: 'JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą (vedėjas Juozas Gabrys-Paršaitis ir kt.), publikacijas užsienio kalbomis apie Lietuvą, kuriose kėlė Lietuvos nepriklausomybės reikalą.'
+  teiginys: 'Juozas Gabrys-Paršaitis vadovavo Lietuvių informacijos biurui Lozanoje, kurio veiklą finansiškai rėmė JAV lietuviai.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą (vedėjas Juozas Gabrys-Paršaitis ir kt.), publikacijas užsienio kalbomis apie Lietuvą, kuriose kėlė Lietuvos nepriklausomybės reikalą.'
+  santrauka: 'Juozas Gabrys-Paršaitis vadovavo Lietuvių informacijos biurui Lozanoje, kurio veiklą finansiškai rėmė JAV lietuviai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     JAV lietuviai finansiš-
     kai rėmė Lietuvių informacijos biuro Lozanoje veiklą (vedėjas Juozas Ga-
     brys-Paršaitis ir kt.), publikacijas užsienio kalbomis apie Lietuvą, kuriose
     kėlė Lietuvos nepriklausomybės reikalą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuvių informacijos biuras Lozanoje]]
-- [[objektai/vietos/Lozana]]

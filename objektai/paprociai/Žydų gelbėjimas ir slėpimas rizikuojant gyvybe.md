@@ -58,14 +58,14 @@ Nacių okupacijos metu dalis lietuvių visuomenės rizikuodama gyvybe padėjo ž
 - Praktika pateikiama kaip priešinga kolaboravimui ir smurtui Holokausto metu.
 
 ## Teiginiai
-- t-001
-  teiginys: "Dalis lietuvių visuomenės rizikuodama gyvybe bandė padėti žydams ir juos gelbėti."
+- t-003
+  teiginys: 'Dalis lietuvių visuomenės rizikuodama gyvybe bandė padėti žydams ir juos gelbėti.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "Už žydų gelbėjimą Pasaulio teisuoliais pripažinti 830 lietuvių, o jų sąrašas papildomas."
+- t-004
+  teiginys: 'Už žydų gelbėjimą Pasaulio teisuoliais pripažinti 830 lietuvių, o jų sąrašas papildomas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -73,7 +73,7 @@ Nacių okupacijos metu dalis lietuvių visuomenės rizikuodama gyvybe padėjo ž
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata aprašo gelbėjimo veiksmą, riziką, gelbėtojų grupes ir Pasaulio teisuolių pripažinimą.
+  santrauka: 'Dalis lietuvių visuomenės rizikuodama gyvybe bandė padėti žydams ir juos gelbėti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kita lietuvių visuo-
@@ -86,10 +86,10 @@ Nacių okupacijos metu dalis lietuvių visuomenės rizikuodama gyvybe padėjo ž
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata patikrinta kaip pažodinis darbinio šaltinio fragmentas."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Šaltiniai ir įrodymai
 

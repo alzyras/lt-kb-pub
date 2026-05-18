@@ -28,14 +28,14 @@ tags: []
 Pradiniame Sąjūdžio etape ši formulė įvardyta kaip pagrindinis šūkis.
 
 ## Teiginiai
-- t-001
-  teiginys: "Pradiniame Sąjūdžio etape pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“."
+- t-003
+  teiginys: '„Viešumas, demokratija, suverenumas“ buvo pagrindinis šūkis.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "Šūkis siejamas su LPS pastanga remti Maskvoje pradėtas reformas ir įgyvendinti jas Lietuvoje."
+- t-004
+  teiginys: '„Viešumas, demokratija, suverenumas“ buvo pagrindinis šūkis.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -43,7 +43,7 @@ Pradiniame Sąjūdžio etape ši formulė įvardyta kaip pagrindinis šūkis.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata pateikia šūkį ir pradinio Sąjūdžio politinį kontekstą.
+  santrauka: '„Viešumas, demokratija, suverenumas“ buvo pagrindinis šūkis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
@@ -51,10 +51,10 @@ Pradiniame Sąjūdžio etape ši formulė įvardyta kaip pagrindinis šūkis.
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata pririšta prie darbo šaltinio kūno teksto arba kandidato ledžerio patvirtinto offseto."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

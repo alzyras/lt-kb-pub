@@ -34,23 +34,25 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kadangi lietuviai krikščionybę priėmė palyginti vėlai, mūsų liaudies kultūroje ir tradicijose yra gausu archajiškų, iš pagonybės laikų išlikusių elementų.'
+  teiginys: 'Pagoniškos šventės Lietuvoje laikomos užsiklojusios krikščioniškuoju švenčių sluoksniu.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kadangi lietuviai krikščionybę priėmė palyginti vėlai, mūsų liaudies kultūroje ir tradicijose yra gausu archajiškų, iš pagonybės laikų išlikusių elementų.'
+  santrauka: 'Pagoniškos šventės Lietuvoje laikomos užsiklojusios krikščioniškuoju švenčių sluoksniu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Galėtume sakyti, kad pagoniškos šventės yra
     tik „užsiklojusios“ krikščioniškuoju švenčių sluoksniu. Išlikę žilos senovės
     elementai lemia lietuvių tautosakos, folkloro ir tautodailės savitumą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

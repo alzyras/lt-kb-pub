@@ -47,29 +47,16 @@ Sąvoka priešinama bendruomeninei žemėvaldai ir siejama su individualia alodi
 Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės santykių skirtumus.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Atėję iš ryškią individualią alodinę nuosavybės struktūrą turinčios visuomenės lietuvių bajorai ir individualiai ūkininkaujantys valstiečiai skyrėsi nuo rytinių slavų.'
+- t-002
+  teiginys: 'Rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarietiška alodinė nuosavybė – individualus valstiečių ūkis.'
   pagrindžia:
-    - c-002
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Alodas siejamas su individualiu valstiečių ūkiu.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pastarųjų erdvėje toliau į rytus
-    (Maskvos valstybėje, vėliau Rusijoje) ryškėjo bendruomeninė žemėvalda,
-    tačiau rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarie-
-    tiška ūkininkavimo ir nuosavybės forma – alodas (individualus valstiečių
-    ūkis).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Exact citata pridėta po public_notes_have_evidence validacijos klaidos."
-  pagrindžia: []
-- c-002
-  santrauka: 'Atėję iš ryškią individualią alodinę nuosavybės struktūrą turinčios visuomenės lietuvių bajorai ir individualiai ūkininkaujantys valstiečiai skyrėsi nuo rytinių slavų.'
+  santrauka: 'Rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarietiška alodinė nuosavybė – individualus valstiečių ūkis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atėję iš ryškią individualią alodinę nuosavybės struk-
@@ -79,13 +66,13 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
     tačiau rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarie-
     tiška ūkininkavimo ir nuosavybės forma – alodas (individualus valstiečių
     ūkis).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

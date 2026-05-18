@@ -19,27 +19,4 @@ tags:
 Rinkimų į Liaudies seimą agitacinis plakatas.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Rinkimų į Liaudies seimą agitacinis plakatas.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Taip įforminta Lietuvos aneksija, Rinkimų į Liaudies seimą agitacinis plakatas.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Rinkimų į Liaudies seimą agitacinis plakatas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taip įforminta Lietuvos aneksija,
-    Rinkimų į Liaudies seimą agitacinis plakatas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-    - t-002

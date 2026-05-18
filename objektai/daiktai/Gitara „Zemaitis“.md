@@ -56,26 +56,28 @@ Naudota pasaulinio garso roko muzikantų.
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: "Iš Lietuvos emigrantų kilęs Tony Zemaicis sukūrė gitarą „Zemaitis“."
+- t-004
+  teiginys: 'Iš Lietuvos emigrantų kilęs Tony Zemaicis sukūrė gitarą „Zemaitis“.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "Gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka."
+- t-005
+  teiginys: 'Gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Londone 1935) sukurta gitara „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.'
+- t-006
+  teiginys: 'Tony Zemaicis sukūrė gitarą „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Gitara siejama su Tony Zemaiciu ir pasaulinio garso muzikantais.
+  santrauka: 'Iš Lietuvos emigrantų kilęs Tony Zemaicis sukūrė gitarą „Zemaitis“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikan-
@@ -86,12 +88,13 @@ Nenurodyta
     ra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-004
+    - t-005
+    - t-006
 
 ## Šaltiniai ir įrodymai
 

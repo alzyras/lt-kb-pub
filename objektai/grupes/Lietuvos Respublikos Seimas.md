@@ -21,17 +21,21 @@ Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respu
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respublika, Lietuvos valstybę kuria tauta, suverenitetas priklauso tautai, aukščiausią suverenią galią tauta vykdo tiesiogiai ar per demokratiškai išrinktus savo atstovus, valstybės.'
+  teiginys: 'Konstitucijos nuostatos skelbė, kad valstybės valdžią Lietuvoje vykdo Seimas, Respublikos prezidentas, vyriausybė ir teismas.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: '2003 m. kovą pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį, 2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respublika, Lietuvos valstybę kuria tauta, suverenitetas priklauso tautai, aukščiausią suverenią galią tauta vykdo tiesiogiai ar per demokratiškai išrinktus savo atstovus, valstybės.'
+  santrauka: 'Konstitucijos nuostatos skelbė, kad valstybės valdžią Lietuvoje vykdo Seimas, Respublikos prezidentas, vyriausybė ir teismas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagrindinės Konstitucijos nuostatos skelbė,
@@ -40,11 +44,11 @@ Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respu
     tiesiogiai ar per demokratiškai išrinktus savo atstovus, valstybės valdžią
     Lietuvoje vykdo Seimas, Respublikos prezidentas ir vyriausybė, teismas,
     valdžios galias riboja konstitucija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -55,14 +59,16 @@ Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respu
     pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties
     protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį,
     2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.)]]
+- [[objektai/vietos/Vašingtonas]]
+- [[objektai/posakiai/„Mūsų sąjunga pasiryžusi ginti savo nares...“]]

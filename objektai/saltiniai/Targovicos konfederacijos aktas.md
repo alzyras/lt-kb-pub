@@ -35,31 +35,18 @@ Targovicos konfederacijos aktas apibūdinamas kaip Peterburge subrendęs ir sura
 - Surašymo kontekstas: Peterburgas.
 
 ## Teiginiai
-- t-001
-  teiginys: "Targovicos konfederacijos aktas subrendo ir buvo surašytas Peterburge."
+- t-005
+  teiginys: 'Targovicos konfederacijos aktas siejamas su aršiausių reformų priešininkų opozicija, kurios lizdas buvo Peterburge.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "Targovicos konfederacijos aktas paskelbtas 1792 m. gegužės 14 d."
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: "Aktas siejamas su opozicija Gegužės trečiosios konstitucijos reformoms."
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame telkėsi reformų priešininkai) konfederacijos aktas, paskelbtas 1792 m. gegužės 14 d. Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie.'
-  pagrindžia:
-    - c-001
+
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: Citata pagrindžia akto surašymo kontekstą, paskelbimo datą ir politinę funkciją.
+  santrauka: 'Targovicos konfederacijos aktas siejamas su aršiausių reformų priešininkų opozicija, kurios lizdas buvo Peterburge.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau
@@ -71,6 +58,4 @@ Targovicos konfederacijos aktas apibūdinamas kaip Peterburge subrendęs ir sura
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
+    - t-005

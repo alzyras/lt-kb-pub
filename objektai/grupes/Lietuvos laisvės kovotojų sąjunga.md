@@ -19,32 +19,36 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
 
 ## Teiginiai
 - t-001
-  teiginys: 'Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė į Lietuvių frontą (LF) ir Lietuvių vienybės sąjūdį, o liberaliai nusistatę tautininkai – į Lietuvos laisvės kovotojų sąjungą (LLKS), abi kryptys leido pogrindinius leidinius.'
+  teiginys: 'Liberaliai nusistatę tautininkai susibūrė į Lietuvos laisvės kovotojų sąjungą, kuri leido pogrindinius leidinius.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt., suėmė daug pogrindinės spaudos leidėjų ir.'
+  teiginys: '1943 m. kovo viduryje gestapas suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, taip pat LLKS ir LLA grupes.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė į Lietuvių frontą (LF) ir Lietuvių vienybės sąjūdį, o liberaliai nusistatę tautininkai – į Lietuvos laisvės kovotojų sąjungą (LLKS), abi kryptys leido pogrindinius leidinius.'
+  santrauka: 'Liberaliai nusistatę tautininkai susibūrė į Lietuvos laisvės kovotojų sąjungą, kuri leido pogrindinius leidinius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė
     į Lietuvių frontą (LF) ir Lietuvių vienybės sąjūdį, o liberaliai nusistatę
     tautininkai – į Lietuvos laisvės kovotojų sąjungą (LLKS), abi kryptys lei-
     do pogrindinius leidinius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt., suėmė daug pogrindinės spaudos leidėjų ir.'
+  santrauka: '1943 m. kovo viduryje gestapas suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, taip pat LLKS ir LLA grupes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė
@@ -52,11 +56,11 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
     klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
     suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
     grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

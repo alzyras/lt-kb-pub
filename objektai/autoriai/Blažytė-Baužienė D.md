@@ -19,22 +19,24 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Blažytė-Baužienė D., Tamošaitis M., Truska L.'
+  teiginys: 'D. Blažytė-Baužienė kartu su M. Tamošaičiu ir L. Truska siejama su veikalu „Lietuvos Seimo istorija: XX–XXI a. pradžia“.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Blažytė-Baužienė D., Tamošaitis M., Truska L.'
+  santrauka: 'D. Blažytė-Baužienė kartu su M. Tamošaičiu ir L. Truska siejama su veikalu „Lietuvos Seimo istorija: XX–XXI a. pradžia“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Blažytė-Baužienė D., Tamošaitis M., Truska L. Lietuvos Seimo istorija:
     XX–XXI a. pradžia.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

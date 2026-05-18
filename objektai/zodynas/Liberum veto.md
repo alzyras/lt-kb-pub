@@ -55,14 +55,6 @@ Terminas vartojamas tiek aiškinamajame pasakojime, tiek cituojamame politiniame
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: 'LLV seimuose ilgainiui įsigalėjo liberum veto teisė (sprendimai turėjo būti priimami vienbalsiai), todėl bendras Seimas niekaip negalėjo primesti Lietuvai savo valios.'
-  pagrindžia:
-    - c-004
-- t-006
-  teiginys: 'Deja, šioje santvarkoje būta daugiau anarchijos nei tvarkos – amžininkai net sakydavo: „Valstybė netvarka remiasi.“ Mat LLV seimuose susiformavo liberum veto teisė ir kiekvienas Seimo narys galėjo vetuoti jo sprendimus, paralyžiuoti veiklą.'
-  pagrindžia:
-    - c-005
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -102,39 +94,6 @@ Terminas vartojamas tiek aiškinamajame pasakojime, tiek cituojamame politiniame
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-- c-004
-  santrauka: 'LLV seimuose ilgainiui įsigalėjo liberum veto teisė (sprendimai turėjo būti priimami vienbalsiai), todėl bendras Seimas niekaip negalėjo primesti Lietuvai savo valios.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira
-    vykdomoji valdžia – kancleris, iždininkas, etmonas ir kt. (tik antrojoje
-    XVIII a. pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų),
-    atskiras iždas, kariuomenė, teismai ir teisinė sistema, kurią įformino Tre-
-    čiasis Lietuvos Statutas 1588 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-005
-  santrauka: 'Deja, šioje santvarkoje būta daugiau anarchijos nei tvarkos – amžininkai net sakydavo: „Valstybė netvarka remiasi.“ Mat LLV seimuose susiformavo liberum veto teisė ir kiekvienas Seimo narys galėjo vetuoti jo sprendimus, paralyžiuoti veiklą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kadangi šie atstovai rinkdavo net valdovą,
-    gali susidaryti įspūdis, jog ir santvarka – jau nebe monarchija, o respu-
-    blika (juo labiau kad oficialiai valstybė taip ir vadinosi). Tai reikštų, kad
-    Vienas didingiausių ir puošniausių LDK baroko
-    interjerų – Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios
-    interjeras (XVII a. antra p.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
 
 ## Šaltiniai ir įrodymai
 
@@ -144,7 +103,3 @@ Terminas vartojamas tiek aiškinamajame pasakojime, tiek cituojamame politiniame
 ### Laikotarpiai
 - [[laikotarpiai/XVII amžius]]
 - [[laikotarpiai/XVIII amžius]]
-
-### Susiję objektai
-- [[objektai/zodynas/Bajorų respublika liberum veto]]
-- [[objektai/zodynas/bajoriškoji demokratija luominė monarchija]]

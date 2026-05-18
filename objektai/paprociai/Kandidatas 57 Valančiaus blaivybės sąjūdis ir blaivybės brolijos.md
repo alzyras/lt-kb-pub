@@ -35,32 +35,36 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybės idėjomis, inicijavo blaivybės sąjūdį.'
+  teiginys: 'Motiejus Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybės idėjomis, inicijavo blaivybės sąjūdį.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Po poros metų šių blaivybės brolijų nariais buvo per 80 proc.'
+  teiginys: 'Po poros metų blaivybės brolijoms priklausė daugiau kaip 80 proc. vyskupijos gyventojų katalikų.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybės idėjomis, inicijavo blaivybės sąjūdį.'
+  santrauka: 'Motiejus Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybės idėjomis, inicijavo blaivybės sąjūdį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     M.  Valančius,
     remdamasis kituose katalikiškuo-
     se kraštuose platinamomis blai-
     vybės idėjomis, inicijavo blaivybės sąjūdį.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Po poros metų šių blaivybės brolijų nariais buvo per 80 proc.'
+  santrauka: 'Po poros metų blaivybės brolijoms priklausė daugiau kaip 80 proc. vyskupijos gyventojų katalikų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po poros metų šių blaivybės
@@ -68,11 +72,11 @@ Nenurodyta
     lietuviai metė gerti degtinę, kaipmat pakilo ūkių gerovė, sustiprėjo šei-
     Motiejus Valančius iš J. K. Vilčinskio
     „Vilniaus albumo“.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 
@@ -80,4 +84,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Blaivybės brolijos]]
 - [[objektai/paprociai/Kandidatas Valančiaus blaivybės sąjūdis ir blaivybės brolijos]]
-- [[objektai/autoriai/Motiejus Valančius]]

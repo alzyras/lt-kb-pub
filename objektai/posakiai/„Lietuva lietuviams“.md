@@ -19,26 +19,24 @@ Lietuviams plūstelėjus į miestus ir veržiantis į pramonę bei prekybą, pra
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuviams plūstelėjus į miestus ir veržiantis į pramonę bei prekybą, prasidėjus ekonomikos krizei, sustiprėjo konkurencija.'
+  teiginys: 'Ketvirtajame dešimtmetyje laikraščio „Verslas“ verslininkai puldinėjo žydų prekybininkus ir kėlė šūkį „Lietuva lietuviams“.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuviams plūstelėjus į miestus ir veržiantis į pramonę bei prekybą, prasidėjus ekonomikos krizei, sustiprėjo konkurencija.'
+  santrauka: 'Ketvirtajame dešimtmetyje laikraščio „Verslas“ verslininkai puldinėjo žydų prekybininkus ir kėlė šūkį „Lietuva lietuviams“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ketvir-
     tajame dešimtmetyje gana agresyviai žydų prekybininkus ėmė puldinėti
     verslininkai laikraštyje „Verslas“ – atvirai kėlė šūkį „Lietuva lietuviams“.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Filosemitas]]

@@ -21,17 +21,21 @@ Visuomenės agrarinis pobūdis ir miestų silpnumas lėmė, kad Lenkijoje ir Lie
 
 ## Teiginiai
 - t-001
-  teiginys: 'Visuomenės agrarinis pobūdis ir miestų silpnumas lėmė, kad Lenkijoje ir Lietuvoje susiformavo originali luominės monarchinės santvarkos atmaina – Bajorų respublika arba net anarchija.'
+  teiginys: 'Liberum veto teisė reikalavo Seimo sprendimus priimti vienu balsu ir trukdė stiprinti bei centralizuoti valstybę.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką.'
+  teiginys: 'Kadangi atstovai rinkdavo valdovą, valstybės santvarka galėjo atrodyti nebe monarchija, o respublika.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Visuomenės agrarinis pobūdis ir miestų silpnumas lėmė, kad Lenkijoje ir Lietuvoje susiformavo originali luominės monarchinės santvarkos atmaina – Bajorų respublika arba net anarchija.'
+  santrauka: 'Liberum veto teisė reikalavo Seimo sprendimus priimti vienu balsu ir trukdė stiprinti bei centralizuoti valstybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagal liberum veto
@@ -42,15 +46,15 @@ Visuomenės agrarinis pobūdis ir miestų silpnumas lėmė, kad Lenkijoje ir Lie
     visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendri-
     joms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš
     Rusijos atsikeliantiems sentikiams, be to, nuo Vytauto laikų gyvuojan-
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką.'
+  santrauka: 'Kadangi atstovai rinkdavo valdovą, valstybės santvarka galėjo atrodyti nebe monarchija, o respublika.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kadangi šie atstovai rinkdavo net valdovą,
@@ -59,15 +63,14 @@ Visuomenės agrarinis pobūdis ir miestų silpnumas lėmė, kad Lenkijoje ir Lie
     Vienas didingiausių ir puošniausių LDK baroko
     interjerų – Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios
     interjeras (XVII a. antra p.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Liberum veto]]
 - [[objektai/zodynas/bajoriškoji demokratija luominė monarchija]]

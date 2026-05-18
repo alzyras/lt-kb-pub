@@ -18,32 +18,36 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti kaip komunistai, sovietų aktyvistai, ir keli tūkstančiai jų sunaikinti per vadinamąsias „valymo operacijas“, kurias pradėjo atvykusios SD Einzatsgruppen – operatyviniai būriai.'
+  teiginys: 'Pirmą nacių okupacijos savaitę atvykusios SD einzatsgrupės pradėjo „valymo operacijas“, per kurias sunaikinta keli tūkstančiai žmonių.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Einzatsgrupės terorą organizavo taip, kad atrodytų, jog pirmuosius pogromus ir „apsivalymo“ akcijas vykdo vietiniai gyventojai.'
+  teiginys: 'SD einzatsgrupės įkvėpė žiaurius pogromus Vilijampolėje ir Kauno „Lietūkio“ garaže 1941 m. birželio 26-27 d.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti kaip komunistai, sovietų aktyvistai, ir keli tūkstančiai jų sunaikinti per vadinamąsias „valymo operacijas“, kurias pradėjo atvykusios SD Einzatsgruppen – operatyviniai būriai.'
+  santrauka: 'Pirmą nacių okupacijos savaitę atvykusios SD einzatsgrupės pradėjo „valymo operacijas“, per kurias sunaikinta keli tūkstančiai žmonių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pirmą nacių okupacijos savaitę daug gy-
     ventojų, tarp jų ir žydai persekioti kaip komunistai, sovietų aktyvistai, ir
     keli tūkstančiai jų sunaikinti per vadinamąsias „valymo operacijas“, ku-
     rias pradėjo atvykusios SD Einzatsgruppen – operatyviniai būriai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Einzatsgrupės terorą organizavo taip, kad atrodytų, jog pirmuosius pogromus ir „apsivalymo“ akcijas vykdo vietiniai gyventojai.'
+  santrauka: 'SD einzatsgrupės įkvėpė žiaurius pogromus Vilijampolėje ir Kauno „Lietūkio“ garaže 1941 m. birželio 26-27 d.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Talkinin-
@@ -52,11 +56,11 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
     inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje,
     27 – Kauno „Lietūkio“ garaže, nors SD einzatsgrupių vadų raportuose
     sakoma, kad surengti pogromus buvo nelengva.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

@@ -31,32 +31,17 @@ Vytautas, atremdamas Ordino pretenzijas į Žemaitiją, pasitelkė istoriL I E T
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vytautas, atremdamas Ordino pretenzijas į Žemaitiją, pasitelkė istoriL I E T U V O S I S T O R I J A 50 nius ir etninius argumentus – jo manymu, ankstesni Žemaičių užrašymų dokumentai, Lietuvai tapus krikščioniška šalimi, prarado juridinę galią.'
+  teiginys: 'Vytautas manė, kad ankstesni Žemaičių užrašymų dokumentai, Lietuvai tapus krikščioniška šalimi, prarado juridinę galią.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: '“ Vytautas, atremdamas Ordino pretenzijas į Žemaitiją, pasitelkė istoriL I E T U V O S I S T O R I J A 50 nius ir etninius argumentus – jo manymu, ankstesni Žemaičių užrašymų dokumentai, Lietuvai tapus krikščioniška šalimi, prarado juridinę galią.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Vytautas, atremdamas Ordino pretenzijas į Žemaitiją, pasitelkė istoriL I E T U V O S I S T O R I J A 50 nius ir etninius argumentus – jo manymu, ankstesni Žemaičių užrašymų dokumentai, Lietuvai tapus krikščioniška šalimi, prarado juridinę galią.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Čia Vytautas pakartoja ankstesnių Lie-
-    tuvos valdovų nuostatą plėsti valstybę visoje baltų erdvėje. Tačiau vėliau
-    jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei
-    Užnemunę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: '“ Vytautas, atremdamas Ordino pretenzijas į Žemaitiją, pasitelkė istoriL I E T U V O S I S T O R I J A 50 nius ir etninius argumentus – jo manymu, ankstesni Žemaičių užrašymų dokumentai, Lietuvai tapus krikščioniška šalimi, prarado juridinę galią.'
+  santrauka: 'Vytautas manė, kad ankstesni Žemaičių užrašymų dokumentai, Lietuvai tapus krikščioniška šalimi, prarado juridinę galią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     “
@@ -72,10 +57,10 @@ Vytautas, atremdamas Ordino pretenzijas į Žemaitiją, pasitelkė istoriL I E T
     tuvos valdovų nuostatą plėsti valstybę visoje baltų erdvėje. Tačiau vėliau
     jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei
     Užnemunę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001

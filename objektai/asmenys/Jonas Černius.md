@@ -31,32 +31,15 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos partijos gavo po dvi ministrų vietas.'
+  teiginys: '1938 m. manevruose gen. Jonas Černius dalyvavo kartu su kariuomenės vadu Stasiu Raštikiu.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Černius (dešinėje) 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 185 veiksmus sudarius bendrą karinę komisiją, motyvavo ir savo neutralumu, bet J.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos partijos gavo po dvi ministrų vietas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Krikščionys demokratai ir liaudininkai po Klaipėdos atplėšimo sąly-
-    ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono
-    Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-
-    tijos gavo po dvi ministrų vietas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Černius (dešinėje) 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 185 veiksmus sudarius bendrą karinę komisiją, motyvavo ir savo neutralumu, bet J.'
+  santrauka: '1938 m. manevruose gen. Jonas Černius dalyvavo kartu su kariuomenės vadu Stasiu Raštikiu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vietoje bazių Lietuva siūlė padidinti savo
@@ -68,13 +51,13 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
     185
     veiksmus sudarius bendrą karinę komisiją, motyvavo ir savo neutralumu,
     bet J.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai

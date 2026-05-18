@@ -20,13 +20,15 @@ Kovos su lenkais įgavo ne tik teritorinį, bet ir socialinį atspalvį – 1920
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kovos su lenkais įgavo ne tik teritorinį, bet ir socialinį atspalvį – 1920 m. rugsėjį ministras pirmininkas M.'
+  teiginys: '1920 m. rugsėjį Mykolas Sleževičius Seime pareiškė, kad lenkai atakuoja, nes Lietuvos dvarininkai pakvietė jų legionus ginti dvarų.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kovos su lenkais įgavo ne tik teritorinį, bet ir socialinį atspalvį – 1920 m. rugsėjį ministras pirmininkas M.'
+  santrauka: '1920 m. rugsėjį Mykolas Sleževičius Seime pareiškė, kad lenkai atakuoja, nes Lietuvos dvarininkai pakvietė jų legionus ginti dvarų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kovos su lenkais įgavo ne tik teritorinį, bet ir so-
@@ -34,15 +36,14 @@ Kovos su lenkais įgavo ne tik teritorinį, bet ir socialinį atspalvį – 1920
     paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų
     legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo
     dvarus, visi, kas sveiki, turi griebtis ginklo“.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Ginklai ir ginkluotė]]
-- [[objektai/asmenys/Mykolas Sleževičius]]

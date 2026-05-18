@@ -58,14 +58,14 @@ Naudoti prisitaikymui prie gyvenimo miške ir slėpimuisi nuo priešų per šuka
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: "Partizanai turėjo prisitaikyti prie gyvenimo miške ir bunkeriuose."
+- t-003
+  teiginys: 'Partizanai turėjo prisitaikyti prie gyvenimo miške ir bunkeriuose.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "1946 m. birželio-1948 m. lapkričio etape partizanai sodybose ir prie jų kasė požeminius bunkerius slėpimuisi per šukavimus."
+- t-004
+  teiginys: '1946 m. birželį–1948 m. lapkritį partizanai sodybose ir prie jų kasė požeminius bunkerius slėptis nuo priešų per šukavimus.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -73,7 +73,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Bunkeriai minimi kaip partizanų gyvenimo sąlygų dalis.
+  santrauka: 'Partizanai turėjo prisitaikyti prie gyvenimo miške ir bunkeriuose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Įstoję į partizanų gretas
@@ -81,13 +81,13 @@ Nenurodyta
     mo sąlygų miške ir bunkeriuose, todėl būriuose rengti kariniai mokymai.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Požeminiai bunkeriai aprašyti kaip slėptuvės per šukavimus.
+  santrauka: '1946 m. birželį–1948 m. lapkritį partizanai sodybose ir prie jų kasė požeminius bunkerius slėptis nuo priešų per šukavimus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Antrame etape (1946 m. birželį–1948 m. lapkritį), kovose netekę apie
@@ -96,11 +96,11 @@ Nenurodyta
     šukavimus.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Šaltiniai ir įrodymai
 

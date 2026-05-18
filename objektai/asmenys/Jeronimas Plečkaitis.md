@@ -30,13 +30,15 @@ Sukilusieji su savo lyderiu Jeronimu Plečkaičiu priešakyje pasitraukė į už
 
 ## Teiginiai
 - t-001
-  teiginys: 'Sukilusieji su savo lyderiu Jeronimu Plečkaičiu priešakyje pasitraukė į užsienį ir kurį laiką, veikdami iš Rygos, o paskui iš Lenkijos, vykdė teroro veiksmus, puoselėdami planus...'
+  teiginys: 'Jeronimas Plečkaitis vadovavo sukilėliams, kurie po 1927 m. rugsėjo pučų pasitraukė į užsienį ir vykdė teroro veiksmus.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Sukilusieji su savo lyderiu Jeronimu Plečkaičiu priešakyje pasitraukė į užsienį ir kurį laiką, veikdami iš Rygos, o paskui iš Lenkijos, vykdė teroro veiksmus, puoselėdami planus...'
+  santrauka: 'Jeronimas Plečkaitis vadovavo sukilėliams, kurie po 1927 m. rugsėjo pučų pasitraukė į užsienį ir vykdė teroro veiksmus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1927 m. rugsėjo 8–9 d. ginkluotos socialdemokratų grupės surengė
@@ -46,11 +48,11 @@ Sukilusieji su savo lyderiu Jeronimu Plečkaičiu priešakyje pasitraukė į už
     kaičiu priešakyje pasitraukė į užsienį ir kurį laiką, veikdami iš Rygos, o
     paskui iš Lenkijos, vykdė teroro veiksmus, puoselėdami planus... autori-
     tarinės Lenkijos padedami nuversti nedemokratinę A. Smetonos valdžią.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

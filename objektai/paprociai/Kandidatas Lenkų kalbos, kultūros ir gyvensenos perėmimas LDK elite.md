@@ -34,28 +34,32 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas.'
+  teiginys: '1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio kronika tapo parankine Lietuvos bajorijos knyga.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai, lenkėjimo procesas pamažu apėmė visą jos politinį ir kultūrinį elitą.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas.'
+  santrauka: '1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio kronika tapo parankine Lietuvos bajorijos knyga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Bene svarbiausias lenkiškojo modelio pradžios taškas buvo
     1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lie-
     tuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajo-
     rijos knyga. Lietuvos lenkėjimo procesas yra vienas svarbiausių Baroko
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -64,11 +68,11 @@ Nenurodyta
   citata_originali: |
     Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai,
     lenkėjimo procesas pamažu apėmė visą jos politinį ir kultūrinį elitą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

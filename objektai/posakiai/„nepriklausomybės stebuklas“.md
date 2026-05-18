@@ -21,30 +21,14 @@ Taigi atsitiko stebuklas – Lietuva išliko, suformavo 30 000 vyrų kariuomenę
 
 ## Teiginiai
 - t-001
-  teiginys: 'Taigi atsitiko stebuklas – Lietuva išliko, suformavo 30 000 vyrų kariuomenę, apsigynė ir pradėjo tvarkyti vidaus ekonominius reikalus.'
-  pagrindžia:
-    - c-001
-- t-002
   teiginys: 'Pirmąsias sutartis Lietuva pasirašė kaip tautinė valstybė ir buvo tokia pripažinta – nepriklausomybės stebuklas įvyko.'
   pagrindžia:
-    - c-002
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Taigi atsitiko stebuklas – Lietuva išliko, suformavo 30 000 vyrų kariuomenę, apsigynė ir pradėjo tvarkyti vidaus ekonominius reikalus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tik
-    Raudonajai armijai pralaimėjus prie Varšuvos, bolševikai „sukilimą“ at-
-    šaukė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
   santrauka: 'Pirmąsias sutartis Lietuva pasirašė kaip tautinė valstybė ir buvo tokia pripažinta – nepriklausomybės stebuklas įvyko.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -53,10 +37,10 @@ Taigi atsitiko stebuklas – Lietuva išliko, suformavo 30 000 vyrų kariuomenę
     sidalijo Lenkija ir Sovietų Rusija. Pirmąsias sutartis Lietuva pasirašė kaip
     tautinė valstybė ir buvo tokia pripažinta – nepriklausomybės stebuklas
     įvyko.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001

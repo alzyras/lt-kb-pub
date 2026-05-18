@@ -19,13 +19,15 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '1926, būdamas dvejų metų su tėvais emigravęs į PAR, vėliau – į Didžiąją Britaniją), o Nobelio taikos premijos laureatu už kovą dėl branduolinio ginklo neplatinimo 1985 m. tapo kardiologas Bernard Lown (Bernardas Lounas), gimęs Utenoje (kaip Boruchas Lacas.'
+  teiginys: 'Utenoje gimęs kardiologas Bernard Lown 1985 m. tapo Nobelio taikos premijos laureatu už kovą dėl branduolinio ginklo neplatinimo.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1926, būdamas dvejų metų su tėvais emigravęs į PAR, vėliau – į Didžiąją Britaniją), o Nobelio taikos premijos laureatu už kovą dėl branduolinio ginklo neplatinimo 1985 m. tapo kardiologas Bernard Lown (Bernardas Lounas), gimęs Utenoje (kaip Boruchas Lacas.'
+  santrauka: 'Utenoje gimęs kardiologas Bernard Lown 1985 m. tapo Nobelio taikos premijos laureatu už kovą dėl branduolinio ginklo neplatinimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nobelio premijos laureatu bio-
@@ -35,10 +37,15 @@ tags:
     ginklo neplatinimo 1985 m. tapo kardiologas Bernard Lown (Bernardas
     Lounas), gimęs Utenoje (kaip Boruchas Lacas 1921 m.), 1935 m. su šeima
     emigravęs į JAV.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aaron Klug]]
+- [[objektai/vietos/Želva]]

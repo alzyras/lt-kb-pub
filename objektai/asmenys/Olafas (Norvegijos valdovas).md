@@ -21,13 +21,15 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
 
 ## Teiginiai
 - t-001
-  teiginys: 'Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo Rusios valdovo Vladimiro krikštas (988), kankinyste pasibaigusi šv.'
+  teiginys: 'Norvegijos valdovas Olafas 997 m. pradėjo šalies christianizaciją.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo Rusios valdovo Vladimiro krikštas (988), kankinyste pasibaigusi šv.'
+  santrauka: 'Norvegijos valdovas Olafas 997 m. pradėjo šalies christianizaciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Adalberto misija Prūsijoje (997), Norvegijos
@@ -35,10 +37,10 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
     imtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengri-
     jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
     krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -19,24 +19,26 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
 
 ## Teiginiai
 - t-001
-  teiginys: 'Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė į Lietuvių frontą (LF) ir Lietuvių vienybės sąjūdį, o liberaliai nusistatę tautininkai – į Lietuvos laisvės kovotojų sąjungą (LLKS), abi kryptys leido pogrindinius leidinius.'
+  teiginys: 'Į Lietuvių vienybės sąjūdį susibūrė krikščionių demokratų sparno politikai ir ateitininkų jaunimas, leidę pogrindinius leidinius.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė į Lietuvių frontą (LF) ir Lietuvių vienybės sąjūdį, o liberaliai nusistatę tautininkai – į Lietuvos laisvės kovotojų sąjungą (LLKS), abi kryptys leido pogrindinius leidinius.'
+  santrauka: 'Į Lietuvių vienybės sąjūdį susibūrė krikščionių demokratų sparno politikai ir ateitininkų jaunimas, leidę pogrindinius leidinius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė
     į Lietuvių frontą (LF) ir Lietuvių vienybės sąjūdį, o liberaliai nusistatę
     tautininkai – į Lietuvos laisvės kovotojų sąjungą (LLKS), abi kryptys lei-
     do pogrindinius leidinius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

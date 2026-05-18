@@ -33,33 +33,15 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
 
 ## Teiginiai
 - t-001
-  teiginys: 'Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių.'
+  teiginys: '1920 m. kovose prie Giedraičių lietuvių artilerija veikė prieš lenkų dalinius.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Lietuvių artilerija prieš lenkų dalinius 1920 m. kovose prie Giedraičių 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 145 Sąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lietuvą buferine valstybe, kuri drauge su Latvija.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    L. Želigovskio akciją sveikino minios Vilniaus lenkų, Tautų
-    Sąjunga pasirodė bejėgė, o Lietuvai dabar jau reikėjo sustabdyti tolesnį
-    želigovskininkų judėjimą į Lietuvos teritoriją. Persigrupavusi Lietuvos
-    kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie
-    Širvintų ir Giedraičių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Lietuvių artilerija prieš lenkų dalinius 1920 m. kovose prie Giedraičių 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 145 Sąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lietuvą buferine valstybe, kuri drauge su Latvija.'
+  santrauka: '1920 m. kovose prie Giedraičių lietuvių artilerija veikė prieš lenkų dalinius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvių artilerija prieš lenkų dalinius
@@ -70,13 +52,13 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
     Sąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lie-
     tuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos
     vadovaujama, sudarytų patikimą saugumo kordoną nuo bolševizmo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai

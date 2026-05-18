@@ -35,42 +35,15 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '„Galima spėlioti, kad, jeigu turėtume lietuvių literatūros iš to laikotarpio, kaip seniausia indų literatūra, galėtume su didesniu tikrumu teigti, jog arijų kalbos lopšys turėjo būti lietuvių apgyventoje teritorijoje“ Isaac Taylor (1787–1865) Iš „The Origins.'
+  teiginys: 'Isaacas Tayloras spėjo, kad arijų kalbos lopšys galėjo būti lietuvių apgyventoje teritorijoje.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Georgo Birmano nuotrauka V s k y r i u s LIETUVA: SOVIETŲ IR NACIŲ OKUPACIJOS „Galima spėlioti, kad, jeigu turėtume lietuvių literatūros iš to laikotarpio, kaip seniausia indų literatūra, galėtume su didesniu tikrumu teigti, jog arijų kalbos lopšys turėjo.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '„Galima spėlioti, kad, jeigu turėtume lietuvių literatūros iš to laikotarpio, kaip seniausia indų literatūra, galėtume su didesniu tikrumu teigti, jog arijų kalbos lopšys turėjo būti lietuvių apgyventoje teritorijoje“ Isaac Taylor (1787–1865) Iš „The Origins.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    V s k y r i u s
-    LIETUVA: SOVIETŲ IR
-    NACIŲ OKUPACIJOS
-    „Galima spėlioti, kad, jeigu turėtume lietuvių literatūros iš to
-    laikotarpio, kaip seniausia indų literatūra, galėtume su didesniu
-    tikrumu teigti, jog arijų kalbos lopšys turėjo būti lietuvių
-    apgyventoje teritorijoje“
-    Isaac Taylor (1787–1865)
-    Iš „The Origins of the Aryans“ („Arijų kilmė“)
-    STALINO IR HITLERIO GNIAUŽTUOSE
-    K
-    omunistinės SSRS ir nacių Vokietijos draugystės lai-
-    kotarpis 1940 m. pradžioje artėjo į jų lemiamą susi-
-    dūrimą, abi totalitarinės valstybės ruošėsi karui dėl Europos užgrobimo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Georgo Birmano nuotrauka V s k y r i u s LIETUVA: SOVIETŲ IR NACIŲ OKUPACIJOS „Galima spėlioti, kad, jeigu turėtume lietuvių literatūros iš to laikotarpio, kaip seniausia indų literatūra, galėtume su didesniu tikrumu teigti, jog arijų kalbos lopšys turėjo.'
+  santrauka: 'Isaacas Tayloras spėjo, kad arijų kalbos lopšys galėjo būti lietuvių apgyventoje teritorijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Georgo Birmano nuotrauka
@@ -88,13 +61,13 @@ tags:
     K
     omunistinės SSRS ir nacių Vokietijos draugystės lai-
     kotarpis 1940 m.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai
@@ -102,6 +75,3 @@ tags:
 - [[laikotarpiai/XVIII amžius]]
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/Isaac Taylor]]

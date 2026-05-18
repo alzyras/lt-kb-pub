@@ -29,14 +29,14 @@ tags: []
 Romo Kalantos sušukta frazė siejama su susideginimo protestu prieš okupacinę valdžią.
 
 ## Teiginiai
-- t-001
-  teiginys: "1972 m. gegužės 14 d. Romas Kalanta prieš pasidegdamas sušuko „Laisvę Lietuvai!“."
+- t-003
+  teiginys: '1972 m. gegužės 14 d. Romas Kalanta prieš pasidegdamas sušuko „Laisvę Lietuvai!“.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "Šūksnis siejamas su pirmu Lietuvoje susideginimo protestuojant prieš okupacinę valdžią atveju."
+- t-004
+  teiginys: 'Šūksnis „Laisvę Lietuvai!“ siejamas su Romo Kalantos pasidegimu Kauno miesto sode 1972 m. gegužės 14 d.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -44,7 +44,7 @@ Romo Kalantos sušukta frazė siejama su susideginimo protestu prieš okupacinę
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata pateikia šūksnį, datą, veikėją ir protesto pobūdį.
+  santrauka: '1972 m. gegužės 14 d. Romas Kalanta prieš pasidegdamas sušuko „Laisvę Lietuvai!“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1972 m. gegužės 14 d. devyniolikme-
@@ -55,10 +55,10 @@ Romo Kalantos sušukta frazė siejama su susideginimo protestu prieš okupacinę
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata pririšta prie darbo šaltinio kūno teksto arba kandidato ledžerio patvirtinto offseto."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

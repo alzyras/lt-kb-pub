@@ -18,21 +18,25 @@ Lietuva, 1940–1990: okupuotos Lietuvos istorija.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuva, 1940–1990: okupuotos Lietuvos istorija.'
+  teiginys: 'A. Anušauskas ir kiti parengė leidinį „Lietuva, 1940–1990: okupuotos Lietuvos istorija“, išleistą Vilniuje 2005 m.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Lietuva, 1940–1990: okupuotos Lietuvos istorija.'
+  santrauka: 'A. Anušauskas ir kiti parengė leidinį „Lietuva, 1940–1990: okupuotos Lietuvos istorija“, išleistą Vilniuje 2005 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Anušauskas A. ir kt. Lietuva, 1940–1990: okupuotos Lietuvos istorija. Vil-
     nius, 2005.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

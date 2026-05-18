@@ -32,22 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Savo dalies kariuomenės modernizacijai reikalavo kariškiai – 1935 m. Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą – apie 20 proc.'
+  teiginys: 'Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą, pagal kurį apie 20 proc. biudžeto turėjo būti skirta krašto gynybai.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Savo dalies kariuomenės modernizacijai reikalavo kariškiai – 1935 m. Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą – apie 20 proc.'
+  santrauka: 'Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą, pagal kurį apie 20 proc. biudžeto turėjo būti skirta krašto gynybai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą –
     apie 20 proc. biudžeto teko skirti krašto gynybos reikalams.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

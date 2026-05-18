@@ -21,13 +21,15 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga, kuris yra pirmas žinomas Lietuvos istorijoje stačiatikybę priėmęs kunigaikštis.'
+  teiginys: 'Vaišelga buvo vienintelis kunigaikštis, atsisakęs kunigaikštijos ir tapęs vienuoliu.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga, kuris yra pirmas žinomas Lietuvos istorijoje stačiatikybę priėmęs kunigaikštis.'
+  santrauka: 'Vaišelga buvo vienintelis kunigaikštis, atsisakęs kunigaikštijos ir tapęs vienuoliu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taip pradėtas lietuvių kunigaikščių kūrima-
@@ -35,14 +37,18 @@ tags:
     (šiuo atveju Naugardukas, kuriame Vaišelgą įkurdino tėvas) jungiamos prie
     Lietuvos valstybės. Antra vertus, Vaišelga vienintelis kunigaikštis, atsisakęs
     kunigaikštijos ir tapęs vienuoliu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/tikėjimas]]
+
+### Susiję objektai
+- [[objektai/paprociai/Kandidatas 15 Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]
+- [[objektai/paprociai/Kandidatas Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]

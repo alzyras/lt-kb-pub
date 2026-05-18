@@ -29,23 +29,25 @@ Dieckmann Ch., Sužiedėlis S.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Dieckmann Ch., Sužiedėlis S.'
+  teiginys: 'S. Sužiedėlis kartu su Ch. Dieckmannu parašė leidinį apie Lietuvos žydų persekiojimą ir masines žudynes 1941 m. vasarą ir rudenį.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Dieckmann Ch., Sužiedėlis S.'
+  santrauka: 'S. Sužiedėlis kartu su Ch. Dieckmannu parašė leidinį apie Lietuvos žydų persekiojimą ir masines žudynes 1941 m. vasarą ir rudenį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dieckmann Ch., Sužiedėlis S. Lietuvos žydų persekiojimas ir masinės žu-
     dynės 1941 m. vasarą ir rudenį / The Persecution and Mass Murder of Lithuanian
     Jews during Summer and Fall of 1941/. Vilnius, 2006.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

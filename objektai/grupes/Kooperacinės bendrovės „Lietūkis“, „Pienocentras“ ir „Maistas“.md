@@ -19,14 +19,16 @@ tags:
 Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, draugijų palaikymas sustambino lietuvių kooperacines bendroves „Lietūkis“, „Pienocentras“, „Maistas“. 1935 m. „Pienocentras“, supirkinėjęs iš vals­tiečių pieno produktus, triskart sumažino supirkimo kai­nas.
 
 ## Teiginiai
-- t-002
-  teiginys: '1935 m. „Pienocentras“, supirkinėjęs iš vals­tiečių pieno produktus, triskart sumažino supirkimo kai­nas.'
+- t-001
+  teiginys: '1935 m. „Pienocentras“, supirkinėjęs iš valstiečių pieno produktus, triskart sumažino supirkimo kainas.'
   pagrindžia:
-    - c-002
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: '1935 m. „Pienocentras“, supirkinėjęs iš vals­tiečių pieno produktus, triskart sumažino supirkimo kai­nas.'
+- c-001
+  santrauka: '1935 m. „Pienocentras“, supirkinėjęs iš valstiečių pieno produktus, triskart sumažino supirkimo kainas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1935 m. „Pienocentras“, su-
@@ -34,13 +36,13 @@ Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, dr
     kai­nas. Suvalkijos valstiečiai pa­skelbė streiką, draudė pristatyti pieną
     į Kauną ir keliuose pastatė postus, o juos ardant kilo riaušės, policija
     Veiveriuose nušovė tris valstiečius, šimtus areštavo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

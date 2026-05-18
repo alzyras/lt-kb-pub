@@ -32,10 +32,6 @@ Aleksandro (1492—1506 m.) išrinkimas didžiuoju Lietu. Aleksandro asmuo ir jo
   teiginys: 'Aleksandras mirė 1506 m. ir buvo palaidotas Vilniaus katedroje.'
   pagrindžia:
     - c-003
-- t-008
-  teiginys: 'sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą (Bona Sforza).'
-  pagrindžia:
-    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -82,27 +78,7 @@ Aleksandro (1492—1506 m.) išrinkimas didžiuoju Lietu. Aleksandro asmuo ir jo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-- c-008
-  santrauka: 'sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą (Bona Sforza).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Renesansas ir reformacija
-    Humanistinio išsilavinimo žmonių būta jau XV–XVI a.
-    sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko
-    Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą
-    (Bona Sforza).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dokumentas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Žygimantas Senasis]]
-- [[objektai/ivykiai/Žygimanto Senojo ir Bonos Sforcos vedybos]]

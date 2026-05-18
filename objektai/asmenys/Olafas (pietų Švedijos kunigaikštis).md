@@ -21,13 +21,15 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
 
 ## Teiginiai
 - t-001
-  teiginys: 'Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies christianizacija (997), Islandijos Altingo priimtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengrijos soste šv.'
+  teiginys: 'Pietų Švedijos kunigaikštis Olafas buvo pakrikštytas 1008 m.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies christianizacija (997), Islandijos Altingo priimtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengrijos soste šv.'
+  santrauka: 'Pietų Švedijos kunigaikštis Olafas buvo pakrikštytas 1008 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Adalberto misija Prūsijoje (997), Norvegijos
@@ -35,10 +37,10 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
     imtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengri-
     jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
     krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

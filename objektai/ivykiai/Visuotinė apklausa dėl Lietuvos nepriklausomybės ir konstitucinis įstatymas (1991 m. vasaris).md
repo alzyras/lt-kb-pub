@@ -34,6 +34,8 @@ Nenurodyta
   teiginys: 'Sausio 13-osios aukų laidotuvės tapo nepriklausomybės siekio bei tautos ir valdžios vienybės viršūne.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -43,11 +45,11 @@ Nenurodyta
     Sausio 13-osios aukų laidotuvės tapo nepriklausomybės siekio bei
     tautos ir valdžios vienybės viršūne. Po Sausio 13-osios įvykių Lietuvoje
     5 dienas nebuvo įregistruota nė vieno kriminalinio nusikaltimo, o vasario
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

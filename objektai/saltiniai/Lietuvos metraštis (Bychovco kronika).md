@@ -50,16 +50,6 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: '„Lietuvos metraštis (Bychovco kronika)“ šiame veikale nurodomas kaip bibliografinė nuoroda.'
-  pagrindžia:
-    - c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'Perimant Vakarų kultūros idėjas, visuomenėje susipažinta su kronikų rašymo tradicija, atsirado poreikis pažinti savo istoriją, perimtas ir Renesanso laikais Europoje paplitęs mitas apie valdovų kildinimą iš kito krašto.'
-  pagrindžia:
-    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -78,7 +68,6 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: '„Lietuvos metraštis (Bychovco kronika)“ šiame veikale cituojamas chunk_0026: antrinės bibliografinės nuorodos į pabaisko mūšį, drąsią ataką ir grobio užgrobimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -95,32 +84,35 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   pagrindžia:
     - t-002
 
-- c-005
-  santrauka: 'Perimant Vakarų kultūros idėjas, visuomenėje susipažinta su kronikų rašymo tradicija, atsirado poreikis pažinti savo istoriją, perimtas ir Renesanso laikais Europoje paplitęs mitas apie valdovų kildinimą iš kito krašto.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Perimant Vakarų kultūros idėjas, visuomenėje susipažinta su kroni-
-    kų rašymo tradicija, atsirado poreikis pažinti savo istoriją, perimtas ir
-    Renesanso laikais Europoje paplitęs mitas apie valdovų kildinimą iš kito
-    krašto.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-
 ## Bibliografiniai įrodymai
-- c-004
-  santrauka: '„Lietuvos metraštis (Bychovco kronika)“ šiame veikale nurodomas kaip bibliografinė nuoroda.'
+- c-001
+  santrauka: 'Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis Dmitrijus pats sulaužė taiką, atsiųsdamas pas Algirdą „savo pasiuntinį su karo paskelbimu“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    P. 72, „PABAISKO MŪŠIS“, Lietuvos metraštis, p. 122-123.
+    Lietuvos metraštis (Bychovco kronika)
+    teigia, kad Maskvos didysis kunigaikš-
+    tis Dmitrijus pats sulaužė taiką, atsiųsda-
+    mas pas Algirdą „savo pasiuntinį su karo
+    paskelbimu“.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Antrinis bibliografinis ar atradimo kontekstas šiame veikale.'
+  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
   pagrindžia:
-    - t-004
+    - t-001
+- c-002
+  santrauka: '„Lietuvos metraštis (Bychovco kronika)“ šiame veikale cituojamas chunk_0026: antrinės bibliografinės nuorodos į pabaisko mūšį, drąsią ataką ir grobio užgrobimą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    „Lietuvos metraštis“ (Bychovco kronika) (rašytas xvI a. pirmojoje pusėje) pasakoja,
+    kaip Maskvos didysis kunigaikštis Lietuvos valdovui Algirdui per pasiuntinį perduoda
+    ugnies ir kardą, kas turėjo reikšti: „būsiu tavo žemėje po skaistaus pavasario, po ty-
+    kios vasaros“.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  pagrindžia:
+    - t-002

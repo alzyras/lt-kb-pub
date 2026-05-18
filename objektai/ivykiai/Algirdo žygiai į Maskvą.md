@@ -33,23 +33,25 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'pradžioje pagrindinėmis varžovėmis dėl jarlyko (chanų duodama privilegija rinkti duoklę Aukso ordai iš kitų rusų kunigaikščių) tapo Tverė ir Maskva, kovą laimėjo pastaroji, įsitvirtinusi ir Vladimire.'
+  teiginys: 'Algirdo pretenzijos, kad visa Rusia turėtų priklausyti lietuviams, liko neįgyvendintos, o Vilnius netapo „antruoju Kijevu“.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'pradžioje pagrindinėmis varžovėmis dėl jarlyko (chanų duodama privilegija rinkti duoklę Aukso ordai iš kitų rusų kunigaikščių) tapo Tverė ir Maskva, kovą laimėjo pastaroji, įsitvirtinusi ir Vladimire.'
+  santrauka: 'Algirdo pretenzijos, kad visa Rusia turėtų priklausyti lietuviams, liko neįgyvendintos, o Vilnius netapo „antruoju Kijevu“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taip liko neįgyvendintos Algirdo išsa-
     kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o
     Vilnius nevirto „antruoju Kijevu“.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -39,23 +39,25 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Landsbergis kreipiasi į protestuotojus, bandžiusius įsiveržti į parlamentą, SSRS šalininkus, 1991 m. sausio 8 d.'
+  teiginys: '1991 m. sausio 8 d. Vytautas Landsbergis kreipėsi į SSRS šalininkus, bandžiusius įsiveržti į parlamentą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Landsbergis kreipiasi į protestuotojus, bandžiusius įsiveržti į parlamentą, SSRS šalininkus, 1991 m. sausio 8 d.'
+  santrauka: '1991 m. sausio 8 d. Vytautas Landsbergis kreipėsi į SSRS šalininkus, bandžiusius įsiveržti į parlamentą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Masevičiaus nuotrauka
     V. Landsbergis kreipiasi į protestuotojus, bandžiusius įsiveržti į
     parlamentą, SSRS šalininkus, 1991 m. sausio 8 d.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -68,218 +68,22 @@ Politinė ir rezistencinė lietuvių emigrantų organizacija, veikusi Antrojo pa
 - susijusios vietos: Berlynas, Lietuva, Kaunas.
 
 ## Teiginiai
-
-- t-002
-  teiginys: "LAF aktyvistai rinko žinias iš sovietų valdomos Lietuvos ir siuntė instrukcijas, o karinė LAF dalis bendradarbiavo su Abveru."
+- t-012
+  teiginys: 'Karinė Lietuvių aktyvistų fronto dalis bendradarbiavo su Abveru, todėl nurodyta pirmiausia užimti tiltus, geležinkelio mazgus ir oro uostus.'
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-013
+  teiginys: '1941 m. rugsėjo 26 d., daugumai ministrų atsisakius tapti tarėjais, naciai uždarė Lietuvių aktyvistų frontą.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: "LAF programoje ir kituose dokumentuose buvo nacionalistinės retorikos ir antisemitizmo, o 16-asis programos punktas atšaukė teisę žydams gyventi Lietuvoje."
-  pagrindžia:
-    - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: "1941 m. rugsėjo 26 d. naciai uždarė LAF."
-  pagrindžia:
-    - c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis dėmesys buvo kreipiamas į galimybes atkurti Lietuvos valstybingumą, būsimo sukilimo detales.'
-  pagrindžia:
-    - c-002
-- t-007
-  teiginys: 'Daugumą visose profesijose šalyje sudarė lietuviai, tačiau žydų verslininkai dominavo eksporte ir importe, be to, žydai sudarė 83 proc.'
-  pagrindžia:
-    - c-005
-- t-008
-  teiginys: 'LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje).'
-  pagrindžia:
-    - c-003
-- t-009
-  teiginys: 'MYNIŲ ULTIMATUMŲ ERA 177 Lietuva ir Lenkija: santykiai be santykių 177; Pirmasis Europoje procesas prieš nacius ir Klaipėdos praradimas 179; Neutralumo politika ir Molotovo– Ribentropo paktas 183; SSRS 1940 metų ultimatumas ir sovietų okupacija 186 L I E T U.'
-  pagrindžia:
-    - c-006
-- t-010
-  teiginys: 'Mičiūno reprodukcija) L I E T U V O S I S T O R I J A 196 Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis dėmesys buvo kreipiamas į galimybes atkurti Lietuvos.'
-  pagrindžia:
-    - c-007
-- t-011
-  teiginys: 'Daugumai ministrų atsisakius tapti tarėjais rugsėjo 26-ąją naciai uždarė LAF (gruodį ir iš voldemarininkų susidariusią Lietuvių nacionalistų partiją).'
-  pagrindžia:
-    - c-008
 
 ## Reikšmingi paminėjimai
-
-- c-002
-  santrauka: Aprašoma LAF informacinė ir instrukcinė veikla bei karinės dalies ryšys su Abveru.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš
-    Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis
-    dėmesys buvo kreipiamas į galimybes atkurti Lietuvos valstybingumą,
-    būsimo sukilimo detales.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: Nurodomi LAF programos antisemitiniai punktai.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    K. Škirpa manė, kad nauja organizacija turi palaikyti ypač glaudžius
-    ryšius su nacių Vokietija.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: Nurodoma, kad naciai 1941 m. rugsėjo 26 d. uždarė LAF.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Daugumai ministrų atsisakius tapti
-    tarėjais rugsėjo 26-ąją naciai uždarė LAF (gruodį ir iš voldemarininkų su-
-    sidariusią Lietuvių nacionalistų partiją). Taip nacių okupuotoje Lietuvoje
-    baigėsi legalių lietuvių organizacijų veikla.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Daugumą visose profesijose šalyje sudarė lietuviai, tačiau žydų verslininkai dominavo eksporte ir importe, be to, žydai sudarė 83 proc.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Dau-
-    gumą visose profesijose šalyje sudarė lietuviai, tačiau žydų verslininkai
-    dominavo eksporte ir importe, be to, žydai sudarė 83 proc. visų prekybos
-    įmonių savininkų, lietuviai – vos 13 proc.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-    - t-008
-- c-006
-  santrauka: 'MYNIŲ ULTIMATUMŲ ERA 177 Lietuva ir Lenkija: santykiai be santykių 177; Pirmasis Europoje procesas prieš nacius ir Klaipėdos praradimas 179; Neutralumo politika ir Molotovo– Ribentropo paktas 183; SSRS 1940 metų ultimatumas ir sovietų okupacija 186 L I E T U.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    MYNIŲ ULTIMATUMŲ ERA 177
-    Lietuva ir Lenkija: santykiai be santykių  177; Pirmasis Europoje procesas
-    prieš nacius ir Klaipėdos praradimas  179; Neutralumo politika ir Molotovo–
-    Ribentropo paktas 183;  SSRS 1940 metų ultimatumas ir sovietų okupacija 186
-
-    L I E T U V O S  I S T O R I J A
-    6
-
-    V s k y r i u s
-    LIETUVA: SOVIETŲ IR NACIŲ OKUPACIJOS  189
-    STALINO IR HITLERIO GNIAUŽTUOSE 189
-    Lietuvos sovietizacija 190;  Represijos ir 1941 metų Birželio
-    sukilimas 193; Lietuvos žydų sunaikinimas – Holokaustas 198;
-    Nacių savivalda – lietuvių savismauga 201
-    ATGAL Į SSRS 205
-    Nacių okupaciją keičia sovietinė 206;  Karas po karo – ginkluota
-    rezistencija 209; Ekonomikos susovietinimas 214;   Kultūros suvienodinimas 220;
-    Švietimas ir bandymai rusinti 222;  Lietuvos diplomatinė tarnyba ir
-    išeivija 224;  Nesitaikstanti visuomenė 227
-    VI s k y r i u s
-    DAINUOJANTI REVOLIUCIJA  234
-    SU SĄJŪDŽIU UŽ LIETUVĄ 234
-    Lietuvos Persitvarkymo Sąjūdis 1988–1990 metais 234;
-    Lietuvos nepriklausomybės atkūrimas 239;  Belaukiant tarptautinio
-    Lietuvos pripažinimo 243;  Vejantis Vakarų Europą 249;
-    Santykiai su kaimynėmis ir transatlantinė integracija 255
-    Pabaiga arba išbarstyti Lietuvos veidai  264
-    Literatūra tolesniam skaitymui  267
-    Iliustracijų šaltiniai  269
-    Asmenvardžių rodyklė  270
-    T U R I N Y S
-    7
-
-    Santrumpos
-    AT-AS
-    Aukščiausioji Taryba-Atkuriamasis Seimas
-    ATR
-    Abiejų Tautų Respublika
-    ES
-    Europos Sąjunga
-    KGB
-    Valstybės saugumo komitetas (SSRS)
-    LCVA
-    Lietuvos centrinis valstybės archyvas
-    LDDP
-    Lietuvos demokratinė darbo partija
-    LDK
-    Lietuvos Didžioji Kunigaikštija
-    Ldk
-    Lietuvos didysis kunigaikštis
-    LDT
-    Lietuvos diplomatinė tarnyba
-    LGGRTC 	 Lietuvos gyventojų genocido ir rezistencijos tyrimo centras
-    LKDP
-    Lietuvių krikščionių demokratų partija
-    LKP
-    Lietuvos komunistų partija
-    LAF
-    Lietuvių aktyvistų frontas
-    LLA
-    Lietuvos laisvės armija
-    LLKS
-    Lietuvos laisvės kovų sąjūdis
-    LLL
-    Lietuvos laisvės lyga
-    LLV
-    Lenkijos ir Lietuvos Valstybė
-    LPS
-    Lietuvos Persitvarkymo Sąjūdis
-    LSDP
-    Lietuvos socialdemokratų partija
-    LSSR
-    Lietuvos Sovietų Socialistinė Respublika
-    LV
-    Laikinoji vyriausybė
-    MGB
-    Valstybės saugumo ministerija (SSRS)
-    NKGB
-    Valstybės saugumo liaudies komisariatas (SSRS)
-    NKVD
-    Vidaus reikalų liaudies komisariatas (SSRS)
-    SSKP
-    Sovietų Sąjungos komunistų partija
-    SSRS
-    Sovietų Socialistinių Respublikų Sąjunga
-    TS–LK
-    Tėvynės sąjunga–Lietuvos konservatoriai
-    VLIK
-    Vyriausiasis Lietuvos išlaisvinimo komitetas
-
-    Redaktoriaus ŽODIS
-    S
-    veikiname Skaitytoją, verčiantį neeilinės (kitokių ne-
-    būna) tautos istorijos puslapius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
-- c-007
-  santrauka: 'Mičiūno reprodukcija) L I E T U V O S I S T O R I J A 196 Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis dėmesys buvo kreipiamas į galimybes atkurti Lietuvos.'
+- c-001
+  santrauka: 'Karinė Lietuvių aktyvistų fronto dalis bendradarbiavo su Abveru, todėl nurodyta pirmiausia užimti tiltus, geležinkelio mazgus ir oro uostus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mičiūno reprodukcija)
@@ -294,15 +98,15 @@ Politinė ir rezistencinė lietuvių emigrantų organizacija, veikusi Antrojo pa
     gus, oro uostus, fabrikus ir kt. LAF vadovybė pernelyg pasitikėjo nacių
     Vokietija – manyta, jog „Vokietijos vadovaujamoje Naujoje Europoje bus
     suteikta visoms tautoms teisė tvarkytis pas save, kaip nori“.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-010
-- c-008
-  santrauka: 'Daugumai ministrų atsisakius tapti tarėjais rugsėjo 26-ąją naciai uždarė LAF (gruodį ir iš voldemarininkų susidariusią Lietuvių nacionalistų partiją).'
+    - t-012
+- c-002
+  santrauka: '1941 m. rugsėjo 26 d., daugumai ministrų atsisakius tapti tarėjais, naciai uždarė Lietuvių aktyvistų frontą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Daugumai ministrų atsisakius tapti
@@ -312,13 +116,13 @@ Politinė ir rezistencinė lietuvių emigrantų organizacija, veikusi Antrojo pa
     Laikinosios vyriausybės uždraudimas rodo, kad ji pirmiausia žiūrėjo
     lietuvių tautos interesų, buvo paskelbta prieš vokiečių vadovybės valią ir
     nebuvo nacių politinių intrigų darinys.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-011
+    - t-013
 
 ## Šaltiniai ir įrodymai
 
@@ -326,7 +130,3 @@ Politinė ir rezistencinė lietuvių emigrantų organizacija, veikusi Antrojo pa
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuvių nacionalistų partija]]
-- [[objektai/ivykiai/Voldemarininkų pučas ir Laikinosios vyriausybės veiklos uždraudimas (1941 m. liepos 23 d. - rugpjūčio 5 d.)]]

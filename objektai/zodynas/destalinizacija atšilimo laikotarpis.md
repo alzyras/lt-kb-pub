@@ -23,10 +23,14 @@ Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėti
   teiginys: 'Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Padėtis kultūroje ėmė švelnėti tik šeštojo dešimtmečio antroje pusėje, prasidėjus destalinizacijai.'
+  teiginys: 'Po J. Stalino mirties, atšilimo laikotarpiu, kultūriniame gyvenime imta nuolaidžiau vertinti tautinį kultūrinį palikimą.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -34,15 +38,15 @@ Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėti
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Padėtis kultūroje ėmė švelnėti tik šeštojo dešimtmečio antroje pusėje, prasidėjus destalinizacijai.'
+  santrauka: 'Po J. Stalino mirties, atšilimo laikotarpiu, kultūriniame gyvenime imta nuolaidžiau vertinti tautinį kultūrinį palikimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po J. Stalino mirties, „atšilimo“ laikotarpiu, kultūriniame gyvenime
@@ -52,11 +56,11 @@ Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėti
     Maironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-
     rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir
     kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

@@ -45,48 +45,15 @@ Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European pol
 
 ## Teiginiai
 - t-001
-  teiginys: 'Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European politics. The Years of the First Republic, 1918–1940. New York, 1997.'
+  teiginys: 'A. E. Sennas kartu su V. Žaliu siejamas su 1997 m. Niujorke išleistu veikalu „Lithuania in European politics“.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Senn A. E. Lietuvos valstybės atkūrimas 1918–1920. Vilnius, 1992. Senn A. E. Bundanti Lietuva. Vilnius, 1992. Senn A. E. Gorbačiovo nesėkmė Lietuvoje, 1997.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: ', Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European politics. The Years of the First Republic, 1918–1940. New York, 1997. Dieckmann Ch., Sužiedėlis S. Lietuvos žydų persekiojimas ir masinės žudynės 1941 m. vasarą ir rudenį / The Persecution and.'
-  pagrindžia:
-    - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European politics. The Years of the First Republic, 1918–1940. New York, 1997.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European
-    politics.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Senn A. E. Lietuvos valstybės atkūrimas 1918–1920. Vilnius, 1992. Senn A. E. Bundanti Lietuva. Vilnius, 1992. Senn A. E. Gorbačiovo nesėkmė Lietuvoje, 1997.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Senn A. E. Lietuvos valstybės atkūrimas 1918–1920. Vilnius, 1992.
-    Senn A. E. Bundanti Lietuva. Vilnius, 1992.
-    Senn A. E. Gorbačiovo nesėkmė Lietuvoje, 1997.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: ', Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European politics. The Years of the First Republic, 1918–1940. New York, 1997. Dieckmann Ch., Sužiedėlis S. Lietuvos žydų persekiojimas ir masinės žudynės 1941 m. vasarą ir rudenį / The Persecution and.'
+  santrauka: 'A. E. Sennas kartu su V. Žaliu siejamas su 1997 m. Niujorke išleistu veikalu „Lithuania in European politics“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     , Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European
@@ -104,13 +71,13 @@ Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European pol
     Kasparavičius A. Lietuva 1938–1939 m. Neutraliteto iliuzijos. Vilnius, 2010.
     Kaubrys S. Lietuvos mokykla 1918–1939 m.: galios gimtis. Vilnius, 2000.
     Laurinavičius Č. Lietuvos–Sovietų Rusijos Taikos sutartis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai

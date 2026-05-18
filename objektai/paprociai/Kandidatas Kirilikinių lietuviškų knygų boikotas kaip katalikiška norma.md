@@ -33,13 +33,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jei valdžia būtų leidusi lietuviškas pradžios mokyklas ir nedraudusi jose dirbti mokytojais lietuviams, nesiėmusi diskriminacinių priemonių prieš Katalikų bažnyčią ir katalikų viliojimo į stačiatikybę, abėcėlė boikoto galėjo nesusilaukti.'
+  teiginys: 'Valdžios mėginimas lietuvių raštijoje tradicinį lotynišką raidyną pakeisti kirilika buvo sužlugdytas.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jei valdžia būtų leidusi lietuviškas pradžios mokyklas ir nedraudusi jose dirbti mokytojais lietuviams, nesiėmusi diskriminacinių priemonių prieš Katalikų bažnyčią ir katalikų viliojimo į stačiatikybę, abėcėlė boikoto galėjo nesusilaukti.'
+  santrauka: 'Valdžios mėginimas lietuvių raštijoje tradicinį lotynišką raidyną pakeisti kirilika buvo sužlugdytas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sužlugdyta ir valdžios užmačia pakeisti lietuvių raštijoje tradicinį
@@ -47,11 +49,11 @@ Nenurodyta
     mokyklas ir nedraudusi jose dirbti mokytojais lietuviams, nesiėmusi dis-
     kriminacinių priemonių prieš Katalikų bažnyčią ir katalikų viliojimo į
     stačiatikybę, abėcėlė boikoto galėjo nesusilaukti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

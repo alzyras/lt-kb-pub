@@ -39,13 +39,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tik Vilniaus, Lietuvos kariuomenė įžengia į Vilnių (1939 m. spalio pabaiga) L I E T U V O S I S T O R I J A 186 istorinės sostinės, atgavimas buvo šviesos spindulėlis niūrioje situacijoje, o Lietuva tapo priklausoma nuo SSRS (liaudyje tuojau paplito taiklus.'
+  teiginys: 'Vilniaus, istorinės Lietuvos sostinės, atgavimas buvo šviesos spindulėlis niūrioje situacijoje, bet Lietuva tapo priklausoma nuo SSRS.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tik Vilniaus, Lietuvos kariuomenė įžengia į Vilnių (1939 m. spalio pabaiga) L I E T U V O S I S T O R I J A 186 istorinės sostinės, atgavimas buvo šviesos spindulėlis niūrioje situacijoje, o Lietuva tapo priklausoma nuo SSRS (liaudyje tuojau paplito taiklus.'
+  santrauka: 'Vilniaus, istorinės Lietuvos sostinės, atgavimas buvo šviesos spindulėlis niūrioje situacijoje, bet Lietuva tapo priklausoma nuo SSRS.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tik Vilniaus,
@@ -57,17 +59,14 @@ Nenurodyta
     istorinės sostinės, atgavimas buvo šviesos spindulėlis niūrioje situacijoje,
     o Lietuva tapo priklausoma nuo SSRS (liaudyje tuojau paplito taiklus po-
     sakis „Vilnius mūsų, o mes rusų“).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuvos kariuomenė]]

@@ -56,14 +56,14 @@ tags: []
 - Praktika siejama su tarpukario valstybine atminties politika ir A. Smetonos režimo ideologija.
 
 ## Teiginiai
-- t-001
-  teiginys: "Vytauto Didžiojo 500-ųjų metinių komitetas inicijavo atminimo panteono idėją, keliaujantį paveikslą, renginius ir paminklus."
+- t-003
+  teiginys: 'Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "Vytauto Didžiojo kultas siejo senovės didvyrio praeitį su A. Smetonos valdoma Lietuvos valstybe ir tautos vienybės idėja."
+- t-004
+  teiginys: 'Vytauto jubiliejinių renginių svarbiausia mintis buvo tautos vienybė ir žinia, kad Lietuva yra sena istorinė valstybė.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -71,7 +71,7 @@ tags: []
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata aprašo jubiliejines apeigas, keliaujantį paveikslą ir renginius.
+  santrauka: 'Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vytauto Didžiojo mirties
@@ -83,11 +83,11 @@ tags: []
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata patikrinta kaip pažodinis darbinio šaltinio fragmentas."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Citata tiesiogiai įvardija Vytauto Didžiojo kulto formavimą ir jo politinę mintį.
+  santrauka: 'Vytauto jubiliejinių renginių svarbiausia mintis buvo tautos vienybė ir žinia, kad Lietuva yra sena istorinė valstybė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Svar-
@@ -98,9 +98,9 @@ tags: []
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata patikrinta kaip pažodinis darbinio šaltinio fragmentas."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Šaltiniai ir įrodymai
 

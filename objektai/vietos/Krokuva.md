@@ -71,7 +71,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginys: 'Pagaliau tarpuvaldį pabaigdavo karūnacinis seimas, kuris visada būdavo šaukiamas Krokuvoje, nes ten įvykdavo karūnacija.'
   pagrindžia:
     - c-008
-
 - t-009
   teiginys: 'Krokuva buvo per toli, kad galėtų tiesiogiai tvarkyti Lietuvos reikalus.'
   pagrindžia:
@@ -90,34 +89,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     - c-011
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-012
-  teiginys: 'Vakarinė LDK dalis – tarp Vilniaus ir Lucko – tai ne tik LDK vizitinė kortelė, kurioje dėl reprezentacijos bei artumo Krokuvai kurs rezidencijas didikai.'
-  pagrindžia:
-    - c-012
-- t-013
-  teiginys: 'Pastatyta katedra, iškilmingai pašvęsta Krokuvos vyskupo šv.'
-  pagrindžia:
-    - c-013
-- t-014
-  teiginys: 'Svarbų vaidmenį šiame procese suvaidino Lietuvos jaunimo studijos Krokuvos, o vėliau ir Vokietijos bei Italijos universitetuose.'
-  pagrindžia:
-    - c-014
-- t-015
-  teiginys: 'Jos poveikis reiškėsi įvairiais pavidalais: bažnytinės sistemos organizavimu, studijomis Krokuvos universitete, administracinės sistemos perėmimu, ūkio reforma.'
-  pagrindžia:
-    - c-015
-- t-016
-  teiginys: 'Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos buvo dvi – Didžioji Lenkija su Poznane ir Mažoji Lenkija su Krokuva).'
-  pagrindžia:
-    - c-016
-- t-017
-  teiginys: 'Manoma, kad studijų lygis senajame universitete nebuvo menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose.'
-  pagrindžia:
-    - c-017
-- t-018
-  teiginys: 'Vasarą rusų ir prūsų kariuomenės perėmė iniciatyvą: birželį Prūsijos kariuomenė užėmė Krokuvą, o rugpjūtį Rusijos kariuomenė – Vilnių.'
-  pagrindžia:
-    - c-018
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -237,7 +208,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-
 - c-009
   santrauka: Citata apibrėžia Krokuvos nuotolį kaip praktinę kliūtį valdyti Lietuvą.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -281,107 +251,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-011
-- c-012
-  santrauka: 'Vakarinė LDK dalis – tarp Vilniaus ir Lucko – tai ne tik LDK vizitinė kortelė, kurioje dėl reprezentacijos bei artumo Krokuvai kurs rezidencijas didikai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vakarinė LDK dalis –
-    tarp Vilniaus ir Lucko – tai ne tik LDK vizitinė kortelė, kurioje dėl re-
-    prezentacijos bei artumo Krokuvai kurs rezidencijas didikai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-012
-- c-013
-  santrauka: 'Pastatyta katedra, iškilmingai pašvęsta Krokuvos vyskupo šv.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pastatyta katedra, iškilmingai pa-
-    švęsta Krokuvos vyskupo šv. Stanislovo garbei („kad abi lygiateisės tautos
-    turėtų vieną globėją ir užtarėją“), o didysis jos altorius buvo toje vietoje,
-    kur anksčiau degė pagonių amžinoji ugnis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-013
-- c-014
-  santrauka: 'Svarbų vaidmenį šiame procese suvaidino Lietuvos jaunimo studijos Krokuvos, o vėliau ir Vokietijos bei Italijos universitetuose.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Svarbų vaidmenį šiame procese suvaidino
-    Lietuvos jaunimo studijos Krokuvos, o vėliau ir Vokietijos bei Italijos uni-
-    versitetuose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-014
-- c-015
-  santrauka: 'Jos poveikis reiškėsi įvairiais pavidalais: bažnytinės sistemos organizavimu, studijomis Krokuvos universitete, administracinės sistemos perėmimu, ūkio reforma.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau viską nulė-
-    mė dar viena aplinkybė – didžiausią įtaką Lietuvos kultūrai darė lenkiškoji
-    civilizacija. Jos poveikis reiškėsi įvairiais pavidalais: bažnytinės sistemos
-    organizavimu, studijomis Krokuvos universitete, administracinės sistemos
-    perėmimu, ūkio reforma.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-015
-- c-016
-  santrauka: 'Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos buvo dvi – Didžioji Lenkija su Poznane ir Mažoji Lenkija su Krokuva).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Seime Lietuva
-    turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos
-    buvo dvi – Didžioji Lenkija su Poznane ir Mažoji Lenkija su Krokuva).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-016
-- c-017
-  santrauka: 'Manoma, kad studijų lygis senajame universitete nebuvo menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Manoma, kad studijų lygis senajame universitete nebuvo
-    menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-017
-- c-018
-  santrauka: 'Vasarą rusų ir prūsų kariuomenės perėmė iniciatyvą: birželį Prūsijos kariuomenė užėmė Krokuvą, o rugpjūtį Rusijos kariuomenė – Vilnių.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vasarą rusų ir prūsų kariuomenės per-
-    ėmė iniciatyvą: birželį Prūsijos kariuomenė užėmė Krokuvą, o rugpjūtį
-    Rusijos kariuomenė – Vilnių. Lapkričio 5 dieną pasidavė Varšuva, kurią
-    gynė ir pasitraukę Lietuvos sukilėliai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-018
 
 ## Ryšiai
 ### Laikotarpiai
@@ -394,9 +263,3 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - [[objektai/grupes/Karūnacinis seimas]]
 - [[objektai/grupes/Lenkų ponų taryba]]
 - [[objektai/daiktai/Zigmanto II antkapis]]
-- [[objektai/paprociai/Kandidatas 27 Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]
-- [[objektai/paprociai/Kandidatas Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]
-- [[objektai/vietos/Luckas]]
-- [[objektai/vietos/Poznanė]]
-- [[objektai/asmenys/Šv. Stanislovas]]
-- [[objektai/posakiai/„kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“]]

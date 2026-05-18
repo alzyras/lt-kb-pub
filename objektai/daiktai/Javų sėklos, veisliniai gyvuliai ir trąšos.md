@@ -61,57 +61,15 @@ Naudoti ūkininkų aprūpinimui ir žemės ūkio našumui didinti.
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: "Valstybė lengvatinėmis sąlygomis aprūpindavo ūkininkus geresnėmis javų sėklomis ir veisliniais gyvuliais."
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: "Žemės ūkyje pradėtos naudoti organinės ir mineralinės trąšos, o javų derlingumas ketvirtajame dešimtmetyje pagerėjo."
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Valstybė lengvatinėmis sąlygomis aprūpindavo ūkininkus geresnėmis javų sėklomis, veisliniais gyvuliais, padėjo rengti žemės ūkio specialistus.'
-  pagrindžia:
-    - c-001
-- t-004
+- t-005
   teiginys: 'Žemės ūkyje pradėtos naudoti organinės ir mineralinės trąšos, pagerėjo javų derlingumas (nuo 9 cnt prieš karą iki 12 cnt ketvirtajame dešimtmetyje).'
   pagrindžia:
-    - c-003
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Valstybė rėmė ūkininkus sėklomis ir veisliniais gyvuliais.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Valstybė lengvatinėmis sąlygomis aprūpindavo ūkininkus
-    geresnėmis javų sėklomis, veisliniais gyvuliais, padėjo rengti žemės ūkio
-    specialistus.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Trąšos siejamos su javų derlingumo pagerėjimu.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žemės ūkyje pradėtos naudoti organinės ir mineralinės trą-
-    šos, pagerėjo javų derlingumas (nuo 9 cnt prieš karą iki 12 cnt ketvirta-
-    jame dešimtmetyje).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
   santrauka: 'Žemės ūkyje pradėtos naudoti organinės ir mineralinės trąšos, pagerėjo javų derlingumas (nuo 9 cnt prieš karą iki 12 cnt ketvirtajame dešimtmetyje).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -120,13 +78,13 @@ Nenurodyta
     jame dešimtmetyje). Ūkininkai pradėjo kooperuotis, kūrėsi pieno per-
     dirbimo bendrovės, įsigijus modernią įrangą, šaldytuvus, didėjo pieno ir
     mėsos produktų eksportas į užsienį.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-005
 
 ## Šaltiniai ir įrodymai
 

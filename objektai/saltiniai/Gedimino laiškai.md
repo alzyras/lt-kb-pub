@@ -64,18 +64,6 @@ tags: []
     - c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-007
-  teiginys: 'Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai.'
-  pagrindžia:
-    - c-007
-- t-008
-  teiginys: 'Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laiškuose Vakarams rex; Algirdas laiškuose Bizantijos imperijai – bazileus).'
-  pagrindžia:
-    - c-008
-- t-009
-  teiginys: 'Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs intensyvias derybas dėl krikšto, savo laiškais Vakarų šalims ir miestams šalia krikšto kvietė į Lietuvą Vakarų pirklius ir amatininkus.'
-  pagrindžia:
-    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -145,48 +133,72 @@ tags: []
   patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
   pagrindžia:
     - t-006
-- c-007
-  santrauka: 'Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+
+## Bibliografiniai įrodymai
+- c-001
+  santrauka: Citata pagrindžia: 1323 m. Gediminas parašė laišką popiežiui, kuriame aiškino, kad Lietuva jau būtų krikštijusis, jei ne ordino politika.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Gediminas kūrė stačiatikių metro-
-    poliją, ryžosi krikštytis pats ir įkurti katalikų arkivyskupiją. Šia bažnytine
-    politika jis sugebėjo sudominti popiežių Joną XXII, kuris jau tais laikais
-    kėlė bažnytinės unijos idėją.
+    Popiežius parašė Gediminui laišką,
+    siūlydamas krikštytis. Atsakydamas Gediminas (1323 m.) nu-
+    siuntė popiežiui ilgą laišką, kuriame aiškinosi, kad jei ne gro-
+    buoniška ordino politika, tai Lietuva jau būtų krikštijusis. Esą,
+    jau Mindaugas krikštijęsis, tačiau ordino grobuoniški norai
+    pavergti Lietuvą privertę jį nutraukti ryšius su krikščionybe.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laiškuose Vakarams rex; Algirdas laiškuose Bizantijos imperijai – bazileus).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+    - t-001
+- c-004
+  santrauka: Citata pagrindžia: 1323 m. Gediminas parašė laiškų popiežiui ir Europos miestams.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Suvokę, kad
-    būti pakrikštytiems Ordino kainuos pernelyg brangiai, lietuvių valdovai
-    ieškojo naujų krikšto variantų per Čekiją, Vengriją, Lenkiją (stačiatikiškas
-    krikštas nebūtų išsprendęs ordinų agresijos problemos).
+    1323 m. Gediminas parašė laiškų ne tik popiežiui, bet ir dau-
+    geliui Europos miestų. Per rygiečius jis kreipėsi į Hanzos mies-
+    tus, tikindamas, kad norįs gyventi taikoje su krikščionimis, ir
+    kvietė amatininkus, pirklius, žemdirbius ir riterius vykti į Lie-
+    tuvą; visiems žadėjo savo globos ir paramos įsikurti. Kad nelai-
+    kytų jo užsispyrėliu pagonim, jis, be to, pranešė, kad jo valstybėje
+    jau esą krikščionių, vienuolių, turinčių ir savo bažnyčių; jis pats
+    pastatydinęs porą bažnyčių Vilniuje ir vieną Naugarduke.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-008
-- c-009
-  santrauka: 'Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs intensyvias derybas dėl krikšto, savo laiškais Vakarų šalims ir miestams šalia krikšto kvietė į Lietuvą Vakarų pirklius ir amatininkus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+    - t-004
+- c-005
+  santrauka: Citata pagrindžia: Gedimino laiškai Vakarų Europoje buvo sutinkami kaip politinis žingsnis prieš ordiną.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Lietuvos antiizo-
-    liacinės pastangos ilgai nedavė rezultatų, o ordinų karinė agresija ver-
-    tė Lietuvą visą energiją skirti karybai. Todėl kartais Lietuvos santvarka
-    XIV a. apibūdinama kaip karinė monarchija.
+    Ordinas
+    tuo tarpu Vakaruose skelbė, kad visi Gedimino laiškai esąs me-
+    las ir kad jais jis tik norįs sutrukdyti ordinui iš Vakarų plau-
+    kiančią pagalbą. Bet ne visur ordinui sekėsi agitacija. Hanzos
+    miestų atstovų suvažiavimas Liubeke Gedimino laiškus sutiko la-
+    bai palankiai. Jei jis krikštytųsi, Hanzos miestai sutiko pa-
+    dengti net pusę krikšto išlaidų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-009
+    - t-005
+- c-006
+  santrauka: 'Cituojamos „Gedimino laiškai“ ištraukos.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Pora ištraukų iš Gedimino susirašinė-
+    jimų, kuriose jis įvardijamas karaliumi.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  pagrindžia:
+    - t-006

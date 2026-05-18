@@ -35,24 +35,26 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos (1387) ir Žemaitijos (1413–1417) krikštu pradžioje žengtas tik nedidelis žingsnelis į krikščioniškąją visuomenę, nes sunaikintos tik svarbiausios pagoniškos šventvietės.'
+  teiginys: 'Lokalinės pagoniškos šventvietės galėjo gyvuoti toliau kaip katalikų bažnyčių alternatyva ir bendros su krikščionybe raidos rezultatas.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvos (1387) ir Žemaitijos (1413–1417) krikštu pradžioje žengtas tik nedidelis žingsnelis į krikščioniškąją visuomenę, nes sunaikintos tik svarbiausios pagoniškos šventvietės.'
+  santrauka: 'Lokalinės pagoniškos šventvietės galėjo gyvuoti toliau kaip katalikų bažnyčių alternatyva ir bendros su krikščionybe raidos rezultatas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lokalinių kultų vie-
     tos turėjo gyvuoti toliau. Nors pagoniškosios šventvietės egzistuoja kaip
     alternatyva katalikų bažnyčioms, ir jos jau yra bendros su krikščionybe
     plėtotės rezultatas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -20,22 +20,24 @@ Jonas XXII sugebėjo sudominti popiežių Joną XXII, kuris jau tais laikais kė
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jonas XXII sugebėjo sudominti popiežių Joną XXII, kuris jau tais laikais kėlė bažnytinės unijos idėją.'
+  teiginys: 'Popiežius Jonas XXII kėlė bažnytinės unijos idėją.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jonas XXII sugebėjo sudominti popiežių Joną XXII, kuris jau tais laikais kėlė bažnytinės unijos idėją.'
+  santrauka: 'Popiežius Jonas XXII kėlė bažnytinės unijos idėją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šia bažnytine
     politika jis sugebėjo sudominti popiežių Joną XXII, kuris jau tais laikais
     kėlė bažnytinės unijos idėją.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

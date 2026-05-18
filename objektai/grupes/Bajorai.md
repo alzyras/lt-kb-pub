@@ -21,41 +21,57 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką.'
+  teiginys: 'Bajorai buvo vienintelis privilegijuotas visuomenės luomas, turėjęs politines teises ir siuntęs atstovus į Seimą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Tačiau politinėmis teisėmis naudojosi tik bajorų luomas (bet net XIX a.'
+  teiginys: 'Lietuvoje politinėmis teisėmis naudojosi tik bajorų luomas.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Prieš tai Seimas ėmėsi labai svarbių socialinių reformų – pirmą kartą bandyta miestiečių luomui suteikti beveik lygias teises su bajorais ar bent pradėti šį procesą.'
+  teiginys: 'Seimas pirmą kartą bandė miestiečių luomui suteikti beveik lygias teises su bajorais arba pradėti šį procesą.'
   pagrindžia:
     - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-004
-  teiginys: 'Nušalinta nuo politinės valdžios bajorija viešpatavo socialiniame visuomenės gyvenime, o bajorų luomas Lenkijoje ir Lietuvoje buvo santykinai kur kas gausesnis nei bet kur kitur Europoje ir sudarė apie 6,5 proc.'
+  teiginys: 'Bajorai dvarininkai sudarė tik ketvirtadalį vietos bajorų luomo, o dauguma buvo mažažemiai ir bežemiai bajorai.'
   pagrindžia:
     - c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-005
-  teiginys: 'Jie turėjo dvilypį tautinį mentalitetą – vadino save sykiu ir lietuviais, ir lenkais (LDK bajorija nesutiko visiškai integruotis į senąją Lenkijos Karalystę, nors ir nelinko nuo jos atsiskirti).'
+  teiginys: 'LDK bajorai turėjo dvilypį tautinį mentalitetą ir vadino save sykiu lietuviais ir lenkais.'
   pagrindžia:
     - c-005
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-006
   teiginys: 'Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukilimus – 1830–1831 m. ir 1863–1864 m.'
   pagrindžia:
     - c-006
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-007
-  teiginys: 'Žinoma, bajorai savo valstybę prarado, bet gavo rusų bajorų teises ir tapo privilegijuotais imperijos valdiniais.'
+  teiginys: 'Bajorai prarado savo valstybę, bet gavo rusų bajorų teises ir tapo privilegijuotais imperijos valdiniais.'
   pagrindžia:
     - c-007
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-008
   teiginys: 'Bajorai turėjo savivaldą gubernijos ir apskrities lygmeniu, vadinamuosius seimelius, kurie vykdė pagalbines valdžios aparato funkcijas.'
   pagrindžia:
     - c-008
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką.'
+  santrauka: 'Bajorai buvo vienintelis privilegijuotas visuomenės luomas, turėjęs politines teises ir siuntęs atstovus į Seimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vieninte-
@@ -63,15 +79,15 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
     siuntę savo atstovus į Seimą. Kadangi šie atstovai rinkdavo net valdovą,
     gali susidaryti įspūdis, jog ir santvarka – jau nebe monarchija, o respu-
     blika (juo labiau kad oficialiai valstybė taip ir vadinosi).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Tačiau politinėmis teisėmis naudojosi tik bajorų luomas (bet net XIX a.'
+  santrauka: 'Lietuvoje politinėmis teisėmis naudojosi tik bajorų luomas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo
@@ -80,44 +96,44 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
     teisėmis naudojosi tik bajorų luomas (bet net XIX a. konstitucingoje ir
     modernioje Didžiojoje Britanijoje tokiomis teisėmis besinaudojančių
     piliečių procentas nebuvo didesnis).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Prieš tai Seimas ėmėsi labai svarbių socialinių reformų – pirmą kartą bandyta miestiečių luomui suteikti beveik lygias teises su bajorais ar bent pradėti šį procesą.'
+  santrauka: 'Seimas pirmą kartą bandė miestiečių luomui suteikti beveik lygias teises su bajorais arba pradėti šį procesą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prieš tai Seimas ėmėsi la-
     bai svarbių socialinių reformų – pirmą kartą bandyta miestiečių luomui
     suteikti beveik lygias teises su bajorais ar bent pradėti šį procesą. Mies-
     tiečių teises ir įformino Gegužės trečiosios konstitucija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Nušalinta nuo politinės valdžios bajorija viešpatavo socialiniame visuomenės gyvenime, o bajorų luomas Lenkijoje ir Lietuvoje buvo santykinai kur kas gausesnis nei bet kur kitur Europoje ir sudarė apie 6,5 proc.'
+  santrauka: 'Bajorai dvarininkai sudarė tik ketvirtadalį vietos bajorų luomo, o dauguma buvo mažažemiai ir bežemiai bajorai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     apie 1 proc.). Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų
     luomo, dauguma jų – mažažemiai ir bežemiai bajorai, kalbėję daugiausia
     lenkų kalba ir puoselėję buvusio valstybingumo atminimą ir tradicijas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Jie turėjo dvilypį tautinį mentalitetą – vadino save sykiu ir lietuviais, ir lenkais (LDK bajorija nesutiko visiškai integruotis į senąją Lenkijos Karalystę, nors ir nelinko nuo jos atsiskirti).'
+  santrauka: 'LDK bajorai turėjo dvilypį tautinį mentalitetą ir vadino save sykiu lietuviais ir lenkais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų
@@ -127,11 +143,11 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
     lenkais (LDK bajorija nesutiko visiškai integruotis į senąją Lenkijos Kara-
     lystę, nors ir nelinko nuo jos atsiskirti). Už Lietuvos ribų Lietuvos bajorai
     laikyti tiesiog lenkais.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
 - c-006
@@ -141,26 +157,26 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
     Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės
     praradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukili-
     mus – 1830–1831 m. ir 1863–1864 m.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
 - c-007
-  santrauka: 'Žinoma, bajorai savo valstybę prarado, bet gavo rusų bajorų teises ir tapo privilegijuotais imperijos valdiniais.'
+  santrauka: 'Bajorai prarado savo valstybę, bet gavo rusų bajorų teises ir tapo privilegijuotais imperijos valdiniais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žinoma, bajorai savo valsty-
     bę prarado, bet gavo rusų bajorų
     teises ir tapo privilegijuotais im-
     perijos valdiniais.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
 - c-008
@@ -172,15 +188,10 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
     lygmeniu, vadinamuosius seime-
     lius, kurie vykdė pagalbines val-
     džios aparato funkcijas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]

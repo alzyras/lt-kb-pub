@@ -57,20 +57,22 @@ Naudoti prezidento sutikimo ceremonijose prie lietuvių organizacijų, moksleivi
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: "1927 m. A. Smetonos kelionėse po miestelius jį iškilmingai sutikdavo prie gėlėmis ir vainikais išdabintų sutikimo vartų."
+- t-003
+  teiginys: '1927 m. A. Smetonos kelionėse po miestelius jį iškilmingai sutikdavo prie gėlėmis ir vainikais išdabintų sutikimo vartų.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Smetona visą 1927 m. vasarą ir rudenį, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų, keliavo iš miestelio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų, moksleivių gėlėmis ir vainikais išdabintų sutikimo vartų, po.'
+- t-004
+  teiginys: '1927 m. vasarą ir rudenį A. Smetoną miesteliuose sutikdavo prie gėlėmis ir vainikais išdabintų sutikimo vartų.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Sutikimo vartai aprašomi A. Smetonos kelionių ceremonijų kontekste.
+  santrauka: '1927 m. A. Smetonos kelionėse po miestelius jį iškilmingai sutikdavo prie gėlėmis ir vainikais išdabintų sutikimo vartų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prezidentas A. Smetona visą 1927 m. vasarą ir rudenį, lydimas kari-
@@ -80,11 +82,12 @@ Nenurodyta
     tinkamai išpuoštų vietos žydų vartų.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
+    - t-004
 
 ## Šaltiniai ir įrodymai
 

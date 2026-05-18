@@ -19,20 +19,22 @@ Vaskela G.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vaskela G.'
+  teiginys: 'G. Vaskela parašė knygą „Žemės reforma Lietuvoje 1919–1940 m.“, išleistą Vilniuje 1998 m.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vaskela G.'
+  santrauka: 'G. Vaskela parašė knygą „Žemės reforma Lietuvoje 1919–1940 m.“, išleistą Vilniuje 1998 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vaskela G. Žemės reforma Lietuvoje 1919–1940 m. Vilnius, 1998.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -31,17 +31,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Apie Lietuvos nepriklausomybę nieko nenorėjo girdėti SSRS vadovybė su M.'
+  teiginys: 'SSRS ekonominė blokada smarkiai paveikė Lietuvą: trūko kuro, stojo įmonės, užsidarė kai kurios gamyklos ir atsirado pirmieji bedarbiai.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Belaukiant tarptautinio Lietuvos pripažinimo Apie Lietuvos nepriklausomybę nieko nenorėjo girdėti SSRS vadovybė su M.'
+  teiginys: 'Lietuva atsilaikė prieš SSRS ekonominę blokadą ir diplomatinėmis priemonėmis pasiekė jos atšaukimą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Apie Lietuvos nepriklausomybę nieko nenorėjo girdėti SSRS vadovybė su M.'
+  santrauka: 'SSRS ekonominė blokada smarkiai paveikė Lietuvą: trūko kuro, stojo įmonės, užsidarė kai kurios gamyklos ir atsirado pirmieji bedarbiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nepaisant
@@ -49,11 +53,11 @@ Nenurodyta
     naftos perdirbimo įmonė, dėl žaliavų trūkumo užsidarė kai kurios ga-
     myklos, atsirado pirmieji bedarbiai), Lietuva atsilaikė ir diplomatinėmis
     priemonėmis pasiekė ekonominės blokados atšaukimo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
     - t-002

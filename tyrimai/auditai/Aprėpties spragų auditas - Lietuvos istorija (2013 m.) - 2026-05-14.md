@@ -106,3 +106,7 @@ Visos tikėtinos produkcinės kategorijos turi kandidatų failus; workflow gap d
   pasirinkta pirminė kategorija: paprotys
   reikalingas cross-link: galimas
   pastaba: šaltinis aprašo pasikartojančią politinę praktiką, ne vieną datuotą įvykį.
+
+## Teiginiai
+
+## Reikšmingi paminėjimai

@@ -21,13 +21,15 @@ N ors Rusijos imperijos vidaus politika nerusiškų imperijos regionų ir „pak
 
 ## Teiginiai
 - t-001
-  teiginys: 'N ors Rusijos imperijos vidaus politika nerusiškų imperijos regionų ir „pakraščių“ atžvilgiu tuomet dar nebuvo beatodairiškai persmelkta rusų nacionalizmo (pastarasis principas taps vyraujančiu imperijos vidaus politikos principu Aleksandro III (1881–1894).'
+  teiginys: 'Abu sukilimai Rusijos aukštuosiuose sluoksniuose sukėlė rusiško nacionalizmo ir polonofobijos bangą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'N ors Rusijos imperijos vidaus politika nerusiškų imperijos regionų ir „pakraščių“ atžvilgiu tuomet dar nebuvo beatodairiškai persmelkta rusų nacionalizmo (pastarasis principas taps vyraujančiu imperijos vidaus politikos principu Aleksandro III (1881–1894).'
+  santrauka: 'Abu sukilimai Rusijos aukštuosiuose sluoksniuose sukėlė rusiško nacionalizmo ir polonofobijos bangą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LIAUDIS VIRSTA TAUTA
@@ -38,14 +40,18 @@ N ors Rusijos imperijos vidaus politika nerusiškų imperijos regionų ir „pak
     pas taps vyraujančiu imperijos vidaus politikos principu Aleksandro III
     (1881–1894) laikais), abu sukilimai Rusijos aukštuosiuose sluoksniuose
     sukėlė rusiško nacionalizmo ir polonofobijos bangą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/tikėjimas]]
+
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras III]]
+- [[objektai/zodynas/„lenkų pradai“ „rusų pradai“]]

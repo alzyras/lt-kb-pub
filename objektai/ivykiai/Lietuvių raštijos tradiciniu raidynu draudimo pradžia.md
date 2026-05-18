@@ -47,35 +47,20 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose pradėti mokyti rusų kalbos mokytojui nemokant lietuviškai yra sunkiai įmanomas dalykas, kad visų pirma tokiam mokytojui reikia išleisti dvikalbius elementorius, kuriuose būtų ir rusiškų.'
-  pagrindžia:
-    - c-001
-- t-002
   teiginys: 'Sužlugdyta ir valdžios užmačia pakeisti lietuvių raštijoje tradicinį lotyniškąjį raidyną kirilika.'
   pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Paraginęs nepriimti valdžios peršamų knygų, vyskupas slapta suorganizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose ir nelegalų jos platinimą Lietuvoje.'
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Vyskupas M. Valančius ragino nepriimti valdžios brukamų knygų ir slapta organizavo lietuviškos spaudos tradiciniu raidynu leidybą Rytprūsiuose.'
   pagrindžia:
-    - c-003
+    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose pradėti mokyti rusų kalbos mokytojui nemokant lietuviškai yra sunkiai įmanomas dalykas, kad visų pirma tokiam mokytojui reikia išleisti dvikalbius elementorius, kuriuose būtų ir rusiškų.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    M. Muravjovo
-    nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, šis drau-
-    dimas išplėstas į visą Rusijos imperijos teritoriją ir galiojo ligi 1904 m.
-    pavasario.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
   santrauka: 'Sužlugdyta ir valdžios užmačia pakeisti lietuvių raštijoje tradicinį lotyniškąjį raidyną kirilika.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -87,15 +72,15 @@ Nenurodyta
     valdžios kėslus, per kunigus paskleidė mintį, kad skaityti tokias valdžios
     brukamas knygas katalikui yra nuodėmė. Todėl jų bemaž niekas ir ne-
     skaitė. O neturėdama skaitytojų valdžia jų išleido vos 60.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Paraginęs nepriimti valdžios peršamų knygų, vyskupas slapta suorganizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose ir nelegalų jos platinimą Lietuvoje.'
+    - t-001
+- c-002
+  santrauka: 'Vyskupas M. Valančius ragino nepriimti valdžios brukamų knygų ir slapta organizavo lietuviškos spaudos tradiciniu raidynu leidybą Rytprūsiuose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Paraginęs nepriimti valdžios peršamų knygų, vyskupas slapta suorga-
@@ -115,13 +100,13 @@ Nenurodyta
     lietuviškos spaudos sudarė religinė literatūra ir elementoriai, o į amžiaus
     pabaigą ėmė gausėti mokslo populiarinimo, politinio turinio ir grožinių
     kūrinių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

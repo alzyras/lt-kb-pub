@@ -30,43 +30,27 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką.'
+  teiginys: 'Sovietiniai saugumiečiai slapta palaidojo Romą Kalantą anksčiau paskelbto laiko, o į laidotuves susirinkę žmonės pasipiktino valdžia.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Iš daugiau kaip 3 000 aktyvių protestų dalyvių buvo suimta per 400 žmonių (iš jų 50 asmenų patraukti baudžiamojon atsakomybėn, aštuoni nuteisti kalėti nuo vienerių iki trejų metų).'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką.'
+  santrauka: 'Sovietiniai saugumiečiai slapta palaidojo Romą Kalantą anksčiau paskelbto laiko, o į laidotuves susirinkę žmonės pasipiktino valdžia.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietiniai saugumiečiai paskubėjo R. Kalantą slapta palaidoti
     anksčiau paskelbto laiko. Susirinkę į laidotuves žmonės pasipiktino valdžios
     savivale.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Iš daugiau kaip 3 000 aktyvių protestų dalyvių buvo suimta per 400 žmonių (iš jų 50 asmenų patraukti baudžiamojon atsakomybėn, aštuoni nuteisti kalėti nuo vienerių iki trejų metų).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Siekdama
-    sumenkinti šį įvykį, sovietų valdžia paskelbė, kad R. Kalantos susideginimo
-    priežastis – sunki psichikos liga šizofrenija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

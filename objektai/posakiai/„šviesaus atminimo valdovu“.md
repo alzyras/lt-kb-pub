@@ -20,23 +20,4 @@ tags:
 Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Klemensas IV bulėje Mindaugą vadina „šviesaus atminimo valdovu“.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Klemensas IV bulėje Mindaugą vadina „šviesaus atminimo valdovu“.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Klemensas IV bulėje Mindaugą vadina „šviesaus atminimo valdovu“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su
-    krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti
-    krikščionio valdovo statusą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001

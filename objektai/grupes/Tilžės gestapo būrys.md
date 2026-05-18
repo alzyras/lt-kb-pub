@@ -21,6 +21,8 @@ Specialiosios SD grupės (Tilžės gestapo būrys) 1941 m. birželio 24 d. suša
   teiginys: 'Specialiosios SD grupės (Tilžės gestapo būrys) 1941 m. birželio 24 d. sušaudė tik žydus (vyrus) 25 km ruože Lietuvos ir Vokietijos pasienyje, Gargžduose – 201 žydą, kitą dieną Kretingoje – 214, birželio 27-ąją Palangoje 111 žydų, žudė juos ir kitose vietose.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -31,10 +33,15 @@ Specialiosios SD grupės (Tilžės gestapo būrys) 1941 m. birželio 24 d. suša
     1941 m. birželio 24 d. sušaudė tik žydus (vyrus) 25 km ruože Lietuvos ir
     Vokietijos pasienyje, Gargžduose – 201 žydą, kitą dieną Kretingoje – 214,
     birželio 27-ąją Palangoje 111 žydų, žudė juos ir kitose vietose.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Gargždai]]
+- [[objektai/grupes/SD Einsatzgruppen]]

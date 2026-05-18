@@ -33,17 +33,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Sugrąžindamas Lietuvoje sovietų valdžią J.'
+  teiginys: '1946 m. ir 1947 m. Lietuvoje vyko pirmieji pokario rinkimai į SSRS ir Lietuvos SSR aukščiausiąsias okupacinės valdžios institucijas.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Visuose rinkimuose kandidatus tegalėjo siūlyti vienintelė komunistų partija, rinkimų rezultatai klastojami, oficialiai pranešant, jog rinkimuose dalyvavo per 90 proc.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Sugrąžindamas Lietuvoje sovietų valdžią J.'
+  santrauka: '1946 m. ir 1947 m. Lietuvoje vyko pirmieji pokario rinkimai į SSRS ir Lietuvos SSR aukščiausiąsias okupacinės valdžios institucijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sugrąžindamas Lietuvoje sovietų valdžią J. Stalinas „tesėjo“ pažadą,
@@ -53,28 +51,10 @@ Nenurodyta
     tucijas – SSRS Aukščiausiąją Tarybą, Lietuvos SSR Aukščiausiąją Tarybą
     (pirmą kartą po karo į šias institucijas rinkimai vyko 1946 m. ir 1947 m.), į
     vietines tarybas – juk formaliai SSRS buvo tarybų, arba sovietų, valdžia.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Visuose rinkimuose kandidatus tegalėjo siūlyti vienintelė komunistų partija, rinkimų rezultatai klastojami, oficialiai pranešant, jog rinkimuose dalyvavo per 90 proc.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    LSSR institucijos neturėjo jokios realios valdžios – net LKP (bolševikų)
-    centro komitetas turėjo tik eilinės Rusijos srities partijos komiteto teises.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
-- [[objektai/grupes/Lietuvos komunistų partija]]

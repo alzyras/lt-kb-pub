@@ -30,23 +30,25 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inicidentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė perėjusį liniją lenkų kareivį.'
+  teiginys: 'Deryboms atsidūrus aklavietėje, 1938 m. kovo 11 d. prie administracinės linijos Lietuvos pasienio policininkas nušovė ją perėjusį lenkų kareivį.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inicidentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė perėjusį liniją lenkų kareivį.'
+  santrauka: 'Deryboms atsidūrus aklavietėje, 1938 m. kovo 11 d. prie administracinės linijos Lietuvos pasienio policininkas nušovė ją perėjusį lenkų kareivį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inici-
     dentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė
     perėjusį liniją lenkų kareivį.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -32,32 +32,36 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tačiau tarptautinio pripažinimo dar keletą mėnesių teko palaukti – Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M.'
+  teiginys: 'Lietuvos tarptautinis pripažinimas užtruko, nes Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gorbačiovo reformoms.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Rugpjūtį, žlugus Maskvos pučui, kurio metu komunistai mėgino susigrąžinti valdžią Sovietų Sąjungoje, kelias į nepriklausomybės pripažinimą tapo laisvas.'
+  teiginys: 'Rugpjūtį žlugus Maskvos pučui, per kurį komunistai mėgino susigrąžinti valdžią Sovietų Sąjungoje, kelias į Lietuvos nepriklausomybės pripažinimą tapo laisvas.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tačiau tarptautinio pripažinimo dar keletą mėnesių teko palaukti – Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M.'
+  santrauka: 'Lietuvos tarptautinis pripažinimas užtruko, nes Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gorbačiovo reformoms.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau tarptautinio pripažinimo dar keletą mėnesių teko palaukti –
     Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gor-
     bačiovo reformoms, o jį patį nuvers „vanagai“. Pasirinkimas Gorbis ar
     Lietuva Vakarams buvo nelengvas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Rugpjūtį, žlugus Maskvos pučui, kurio metu komunistai mėgino susigrąžinti valdžią Sovietų Sąjungoje, kelias į nepriklausomybės pripažinimą tapo laisvas.'
+  santrauka: 'Rugpjūtį žlugus Maskvos pučui, per kurį komunistai mėgino susigrąžinti valdžią Sovietų Sąjungoje, kelias į Lietuvos nepriklausomybės pripažinimą tapo laisvas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rugpjūtį, žlugus Maskvos pučui, kurio metu komunistai mėgino
@@ -65,11 +69,11 @@ Nenurodyta
     žinimą tapo laisvas. Per keletą dienų Lietuvą pripažino visos didžiausios
     Sausio agresijos aukų laidotuvės – visos Lietuvos
     protestas prieš SSRS politiką
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 
@@ -79,4 +83,3 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/posakiai/Gorbis ar Lietuva]]
-- [[objektai/asmenys/Michailas Gorbačiovas]]

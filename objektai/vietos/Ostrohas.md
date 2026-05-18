@@ -19,13 +19,15 @@ pagaliau iš Voluinės, iš Ostroho buvo nepaprastai reikšmingą vaidmenį suva
 
 ## Teiginiai
 - t-001
-  teiginys: 'pagaliau iš Voluinės, iš Ostroho buvo nepaprastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiškos“ kilmės kunigaikščiai Ostrogiškiai.'
+  teiginys: 'Iš Voluinės Ostroho kilo riurikaitiškos, „ukrainietiškos“ kilmės kunigaikščiai Ostrogiškiai, suvaidinę reikšmingą vaidmenį.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'pagaliau iš Voluinės, iš Ostroho buvo nepaprastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiškos“ kilmės kunigaikščiai Ostrogiškiai.'
+  santrauka: 'Iš Voluinės Ostroho kilo riurikaitiškos, „ukrainietiškos“ kilmės kunigaikščiai Ostrogiškiai, suvaidinę reikšmingą vaidmenį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vėliau Voluinė apskritai tapo šalutinių Gedimi-
@@ -35,10 +37,10 @@ pagaliau iš Voluinės, iš Ostroho buvo nepaprastai reikšmingą vaidmenį suva
     ir Chodkevičiai (Mlynivas), pagaliau iš Voluinės, iš Ostroho buvo nepa-
     prastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiš-
     kos“ kilmės kunigaikščiai Ostrogiškiai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

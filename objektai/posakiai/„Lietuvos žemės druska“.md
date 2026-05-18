@@ -20,27 +20,25 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '1902 m. kun. Adomas Jakštas-Dambrauskas išleido lenkiškai knygelę, kurioje išdėstė jaunosios lietuvių kartos siekius ir programą, pageidaudamas, kad ir jaunoji Lietuvos bajorų karta aiškiai pasisakytų, kas ji – lietuviai ar lenkai.'
+  teiginys: 'Jaunieji Lietuvos bajorai buvo raginami būti „Lietuvos žemės druska“: kalbėti lietuviškai, mylėti kraštą ir rūpintis liaudies gerove.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1902 m. kun. Adomas Jakštas-Dambrauskas išleido lenkiškai knygelę, kurioje išdėstė jaunosios lietuvių kartos siekius ir programą, pageidaudamas, kad ir jaunoji Lietuvos bajorų karta aiškiai pasisakytų, kas ji – lietuviai ar lenkai.'
+  santrauka: 'Jaunieji Lietuvos bajorai buvo raginami būti „Lietuvos žemės druska“: kalbėti lietuviškai, mylėti kraštą ir rūpintis liaudies gerove.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos bajorų prašyta, kad būtų susipratę ir neveidmainiški lietuviai, kad
     lietuviškai kalbėtų, melstųsi, mylėtų savo kraštą, jam dirbtų, būtų jo vadai,
     rūpintųsi liaudies švietimu ir gerove, kad jaunieji bajorai būtų Lietuvos že-
     mės druska.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/litvomanija]]

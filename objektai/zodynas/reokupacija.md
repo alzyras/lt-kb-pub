@@ -18,13 +18,15 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '1944 m. vasarą sovietų karinės pajėgos išvadavo Lietuvą iš nacių Vokietijos. Tačiau bėda ta, kad lygia greta, kone tuo pat metu Lietuva buvo reokupuota, t. y. sovietų kariuomenė antrą kartą okupavo Lietuvą, Latviją ir Estiją – grąžintas stalininis režimas.'
+  teiginys: '1944 m. vasarą sovietų kariuomenė antrą kartą okupavo Lietuvą, Latviją ir Estiją, grąžindama stalininį režimą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1944 m. vasarą sovietų karinės pajėgos išvadavo Lietuvą iš nacių Vokietijos. Tačiau bėda ta, kad lygia greta, kone tuo pat metu Lietuva buvo reokupuota, t. y. sovietų kariuomenė antrą kartą okupavo Lietuvą, Latviją ir Estiją – grąžintas stalininis režimas.'
+  santrauka: '1944 m. vasarą sovietų kariuomenė antrą kartą okupavo Lietuvą, Latviją ir Estiją, grąžindama stalininį režimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nacių okupaciją keičia sovietinė
@@ -33,10 +35,10 @@ tags:
     Lietuva buvo reokupuota, t. y. sovietų kariuomenė antrą kartą okupavo
     Lietuvą, Latviją ir Estiją – grąžintas stalininis režimas, imtos vykdyti re-
     kvizicijos, vyrai gaudyti darbams.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

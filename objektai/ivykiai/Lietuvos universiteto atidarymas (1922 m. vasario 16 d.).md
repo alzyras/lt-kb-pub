@@ -46,42 +46,11 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: "Lietuvos universitetas atidarytas 1922 m. vasario 16 d."
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: "Universitetas išaugo iš Aukštųjų kursų Kaune."
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Laisvės sąlygomis sparčiai kilo švietimas, atsidarė naujų mokyklų, 1919 m. Lietuvoje jau veikė 1 036 mokyklos, jose buvo 45 540 mokinių, Aukštieji kursai Kaune netrukus peraugo į Lietuvos universitetą (atidarytas 1922 m. vasario 16 d.).'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: Aukštųjų kursų peraugimas į Lietuvos universitetą ir atidarymo data.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Laisvės sąlygomis sparčiai kilo švietimas, atsidarė naujų mokyklų,
-    1919 m.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Kūno prozos citata tiesiogiai nurodo įvykį ir jo aplinkybes."
-  pagrindžia:
-    - t-001
-    - t-002
+Nenurodyta
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuvos universitetas]]

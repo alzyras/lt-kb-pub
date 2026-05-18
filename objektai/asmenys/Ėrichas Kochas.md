@@ -18,13 +18,15 @@ Hess), Rytų Prūsijos oberprezidentas Ėrichas Kochas (Erich Koch) ir Vokietijo
 
 ## Teiginiai
 - t-001
-  teiginys: 'Hess), Rytų Prūsijos oberprezidentas Ėrichas Kochas (Erich Koch) ir Vokietijos konsulatas Klaipėdoje.'
+  teiginys: 'Klaipėdos nacistai teigė, kad nurodymus jiems davė Rytų Prūsijos oberprezidentas Ėrichas Kochas.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Hess), Rytų Prūsijos oberprezidentas Ėrichas Kochas (Erich Koch) ir Vokietijos konsulatas Klaipėdoje.'
+  santrauka: 'Klaipėdos nacistai teigė, kad nurodymus jiems davė Rytų Prūsijos oberprezidentas Ėrichas Kochas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dauguma kaltinamųjų sakė,
@@ -33,10 +35,14 @@ Hess), Rytų Prūsijos oberprezidentas Ėrichas Kochas (Erich Koch) ir Vokietijo
     davė nacių vadai Valteris R. Hesas (Walter R. Hess), Rytų Prūsijos ober-
     prezidentas Ėrichas Kochas (Erich Koch) ir Vokietijos konsulatas Klaipė-
     doje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Valteris R. Hesas]]

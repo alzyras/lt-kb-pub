@@ -50,106 +50,36 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1387 m. Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa.'
+  teiginys: '1387 m. įvyko Lietuvos krikštas.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: '1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių.'
+  teiginys: 'Lietuvos krikštas suteikė feodaliniams santykiams idėjinį pagrindą, nes pavaldiniui buvo nurodoma, kokį tikėjimą išpažinti.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Ši privilegija yra svarbiausias krikščionybės įvedimo Lietuvoje aktas.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Ryškiausios permainos po krikšto buvo išorinės.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: '1387 Lietuvos krikštas.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Taigi feodaliniai santykiai įgijo idėjinį pagrindą, 1 skyrius • S E N O J I L I E T U VA 43 Lietuva paskutinė ir pėsčia valstybė alegoriniame Europos šalių žygyje prie kryžiaus.'
-  pagrindžia:
-    - c-006
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1387 m. Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuva krikštijosi katalikišku krikštu, o jos
-    dalis Žemaitija tapo paskutiniu Europoje
-    apsikrikštijimo regionu – šiais įvykiais bai-
-    gė formuotis krikščioniškoji Europa.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: '1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kilmingieji bajorai
-    krikštytis kviesti į Vilnių su šeimomis ir kiekvienas atskirai pašlakstytas
-    vandeniu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Ši privilegija yra svarbiausias krikščionybės įvedimo Lietuvoje aktas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vasario 22-ąją Jogai-
-    la išleido raštą, kuriuo visus lietuvius prisiekė patraukti į savo pusę ar net
-    jėga priversti priimti katalikybę. Jogaila, pavertęs Lietuvą krikščioniška
-    šalimi, panaikino pagrindinę politinės izoliacijos priežastį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Ryškiausios permainos po krikšto buvo išorinės.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Per
-    šias institucijas į Lietuvą sklido naujos idėjos. Pasikeitė mirties samprata
-    ir laidojimo apeigos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: '1387 Lietuvos krikštas.'
+  santrauka: '1387 m. įvyko Lietuvos krikštas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1387
     Lietuvos krikštas.
     1392–1430
     žymiausio Lietuvos valdovo Vytauto valdymo metai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Taigi feodaliniai santykiai įgijo idėjinį pagrindą, 1 skyrius • S E N O J I L I E T U VA 43 Lietuva paskutinė ir pėsčia valstybė alegoriniame Europos šalių žygyje prie kryžiaus.'
+    - t-001
+- c-002
+  santrauka: 'Lietuvos krikštas suteikė feodaliniams santykiams idėjinį pagrindą, nes pavaldiniui buvo nurodoma, kokį tikėjimą išpažinti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Savaip transformuota artimo meilės idėja atsispindi
@@ -161,13 +91,13 @@ Nenurodyta
     43
     Lietuva paskutinė ir pėsčia valstybė alegoriniame Europos šalių
     žygyje prie kryžiaus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai
@@ -175,7 +105,3 @@ Nenurodyta
 - [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XVI amžius]]
 - [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/ivykiai/Lietuvos krikštas]]
-- [[objektai/vietos/Žemaitija]]

@@ -20,13 +20,15 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 
 ## Teiginiai
 - t-001
-  teiginys: 'Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino politinių partijų vaidmens, esą atstovavusių tik dalies, o ne visos tautos valiai, ir neketino sugrįžti į vadinamuosius „seimų laikus“, prilygintus netvarkai ir anarchijai.'
+  teiginys: 'A. Smetona ir A. Voldemaras pabrėžė stiprias prezidento galias ir neketino grįžti į „seimų laikus“, prilygintus netvarkai bei anarchijai.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino politinių partijų vaidmens, esą atstovavusių tik dalies, o ne visos tautos valiai, ir neketino sugrįžti į vadinamuosius „seimų laikus“, prilygintus netvarkai ir anarchijai.'
+  santrauka: 'A. Smetona ir A. Voldemaras pabrėžė stiprias prezidento galias ir neketino grįžti į „seimų laikus“, prilygintus netvarkai bei anarchijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     A. Smetona ir A. Voldemaras
@@ -38,14 +40,10 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     grįžti į vadinamuosius „seimų
     laikus“, prilygintus netvarkai ir
     anarchijai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Voldemaras]]

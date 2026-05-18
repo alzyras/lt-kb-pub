@@ -19,13 +19,15 @@ Lietuvos atstovai pasirodė net garbingiau nei Lenkijos – iš penkių balsų, 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos atstovai pasirodė net garbingiau nei Lenkijos – iš penkių balsų, pasisakiusių už priešinimąsi, trys buvo iš Lietuvos: LDK didysis maršalas Ignotas Potockis, LDK rūmų maršalas Stanislovas Soltanas ir LLV Seimo lietuviškosios pusės maršalas K.'
+  teiginys: 'LDK rūmų maršalas Stanislovas Soltanas buvo vienas iš trijų Lietuvos atstovų, balsavusių už priešinimąsi.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvos atstovai pasirodė net garbingiau nei Lenkijos – iš penkių balsų, pasisakiusių už priešinimąsi, trys buvo iš Lietuvos: LDK didysis maršalas Ignotas Potockis, LDK rūmų maršalas Stanislovas Soltanas ir LLV Seimo lietuviškosios pusės maršalas K.'
+  santrauka: 'LDK rūmų maršalas Stanislovas Soltanas buvo vienas iš trijų Lietuvos atstovų, balsavusių už priešinimąsi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos atstovai
@@ -33,11 +35,11 @@ Lietuvos atstovai pasirodė net garbingiau nei Lenkijos – iš penkių balsų, 
     priešinimąsi, trys buvo iš Lietuvos: LDK didysis maršalas Ignotas Potoc-
     kis, LDK rūmų maršalas Stanislovas Soltanas ir LLV Seimo lietuviškosios
     pusės maršalas K. N. Sapiega.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

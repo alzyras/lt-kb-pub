@@ -33,23 +33,25 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Antai Lietuvoje daug objektų: vietovių, kalnų, miškų, medžių, akmenų, kurie turi Perkūno vardą.'
+  teiginys: 'Lietuvoje daug vietovių, kalnų, miškų, medžių ir akmenų turi Perkūno vardą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Antai Lietuvoje daug objektų: vietovių, kalnų, miškų, medžių, akmenų, kurie turi Perkūno vardą.'
+  santrauka: 'Lietuvoje daug vietovių, kalnų, miškų, medžių ir akmenų turi Perkūno vardą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šią lietuvių pagonybės, kaip „pirminio gry-
     nuolio“, idėją ir aukštąjį panteoną, kuriame keturi dievai, patvirtina lietu-
     vių mitologinė geografija. Antai Lietuvoje daug objektų: vietovių, kalnų,
     miškų, medžių, akmenų, kurie turi Perkūno vardą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

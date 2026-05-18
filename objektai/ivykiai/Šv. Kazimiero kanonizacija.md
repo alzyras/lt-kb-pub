@@ -31,23 +31,29 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kazimiero kultas rodė, jog Lietuvoje susiformavo stipri, į Vakarų Europą orientuota religinė savimonė.'
+  teiginys: 'Karalaitis Kazimieras paskelbtas šventuoju, kai po mirties pradėjo garsėti kaip stebukladaris.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kazimiero kultas rodė, jog Lietuvoje susiformavo stipri, į Vakarų Europą orientuota religinė savimonė.'
+  santrauka: 'Karalaitis Kazimieras paskelbtas šventuoju, kai po mirties pradėjo garsėti kaip stebukladaris.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Karalaitis Kazimieras paskelbtas šventuoju, kai po mirties
     pradėjo garsėti kaip stebukladaris, nes tikėta, kad jis išgelbėjęs Lietuvą
     karuose su Maskva – 1518 m. padėjęs Lietuvos kariuomenei įveikti prie-
     šą prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Šv. Kazimierui priskiriamos Lietuvos kariuomenės pergalės prie Polocko ir Dauguvos]]

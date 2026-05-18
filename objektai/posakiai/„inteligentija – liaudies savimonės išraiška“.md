@@ -19,13 +19,15 @@ LKP vadovybei Aleksandras Jakovlevas pabrėžė, kad „inteligentija – liaudi
 
 ## Teiginiai
 - t-001
-  teiginys: 'LKP vadovybei Aleksandras Jakovlevas pabrėžė, kad „inteligentija – liaudies savimonės išraiška“, – partija nebedraudė komunistams dalyvauti LPS rėmimo grupėse, oficialiai pripažino trispalvę ir „Tautišką giesmę“, pirmą kartą viešai Vingio parke leido paminėti.'
+  teiginys: 'Po Aleksandro Jakovlevo teiginio LKP vadovybei, kad „inteligentija – liaudies savimonės išraiška“, partija nebedraudė komunistams dalyvauti LPS rėmimo grupėse.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'LKP vadovybei Aleksandras Jakovlevas pabrėžė, kad „inteligentija – liaudies savimonės išraiška“, – partija nebedraudė komunistams dalyvauti LPS rėmimo grupėse, oficialiai pripažino trispalvę ir „Tautišką giesmę“, pirmą kartą viešai Vingio parke leido paminėti.'
+  santrauka: 'Po Aleksandro Jakovlevo teiginio LKP vadovybei, kad „inteligentija – liaudies savimonės išraiška“, partija nebedraudė komunistams dalyvauti LPS rėmimo grupėse.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LKP vadovybei Aleksan-
@@ -34,10 +36,10 @@ LKP vadovybei Aleksandras Jakovlevas pabrėžė, kad „inteligentija – liaudi
     aliai pripažino trispalvę ir „Tautišką giesmę“, pirmą kartą viešai Vingio
     parke leido paminėti Molotovo–Ribentropo paktą, pažadėjo LPS teisę
     leisti laikraštį ir nuolatinę televizijos laidą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

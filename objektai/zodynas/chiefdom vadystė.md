@@ -52,40 +52,16 @@ Sąvoka aiškinama per Netimero valdžios paveldimumą ir Lietuvos politinio iš
 Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
 
 ## Teiginiai
-- t-001
-  teiginys: "Vadystė yra `chiefdom` stadijos atitikmuo."
+- t-004
+  teiginys: 'Netimero valdžios paveldimumas rodytų, kad Lietuva buvo pasiekusi bent chiefdomo, arba vadystės, stadiją.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "Netimero valdžios paveldimumas šaltinyje laikomas požymiu, kad Lietuva buvo pasiekusi bent vadystės stadiją."
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Netimero valdžios paveldimumo principo buvimas rodytų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Chiefdom` ir `vadystė` tiesiogiai susiejami su Netimero valdžios paveldimumu.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Netimero valdžios paveldimumo principo buvimas rody-
-    tų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-    - t-002
-- c-002
-  santrauka: 'Netimero valdžios paveldimumo principo buvimas rodytų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją.'
+  santrauka: 'Netimero valdžios paveldimumas rodytų, kad Lietuva buvo pasiekusi bent chiefdomo, arba vadystės, stadiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Netimero valdžios paveldimumo principo buvimas rody-
@@ -93,13 +69,13 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
     faktas rodytų, kad tuo metu nebuvo ypač didelio atotrūkio tarp Lietuvos
     ir kitų Vidurio Europos ir Šiaurės Europos šalių (į kurias tuo pačiu metu
     taip pat buvo organizuojamos krikščioniškos misijos).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai

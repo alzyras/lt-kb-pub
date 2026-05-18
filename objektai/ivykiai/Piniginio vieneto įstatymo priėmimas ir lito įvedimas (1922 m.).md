@@ -47,47 +47,16 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: "1922 m. rugpjūčio 9 d. Steigiamasis Seimas priėmė Piniginio vieneto įstatymą."
+- t-005
+  teiginys: '1922 m. spalio 1 d. Lietuvoje įvestas litas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "Piniginio vieneto įstatymas skelbė litą auksu paremtu Lietuvos piniginiu vienetu, sudarytu iš 100 centų."
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: "1922 m. spalio 1 d. Lietuvoje įvestas litas."
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.'
-  pagrindžia:
-    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Piniginio vieneto įstatymo priėmimo aplinkybės ir lito apibrėžimas.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sunkmečiu labai nukritęs vokiškų pinigų kursas neigiamai veikė Lie-
-    tuvos ekonomiką, katastrofiški infliacijos padariniai vertė Lietuvos valdžią
-    ieškoti sprendimo.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Kūno prozos citata tiesiogiai nurodo įvykį ir jo aplinkybes."
-  pagrindžia:
-    - t-001
-    - t-002
-- c-002
-  santrauka: Lito įvedimo data ir aukso turinys.
+  santrauka: '1922 m. spalio 1 d. Lietuvoje įvestas litas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1922 m. spalio 1 d. Lietuvoje
@@ -95,11 +64,11 @@ Nenurodyta
     buvo prilygintas JAV doleriui santykiu 10:1.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Kūno prozos citata tiesiogiai nurodo įvykį ir jo aplinkybes."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -107,7 +76,3 @@ Nenurodyta
 
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/daiktai/Lietuvos pinigai]]
-- [[objektai/zodynas/ostmarkės auksinai]]

@@ -58,7 +58,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-
 - t-007
   teiginys: '1370 m. Rudavos bažnytkaimis, prie kurio lietuviai vėl susirinko po Sambijos niokojimo, buvo netoli Karaliaučiaus.'
   pagrindžia:
@@ -71,18 +70,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-009
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-009
-  teiginys: 'Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvių kalba – tai garsusis Martyno Mažvydo „Katekizmas“: išspausdintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai.'
-  pagrindžia:
-    - c-010
-- t-010
-  teiginys: 'Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pirmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Katekizmą“.'
-  pagrindžia:
-    - c-011
-- t-011
-  teiginys: 'Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių (Kenigsbergą), linija Liepoja–Romnai.'
-  pagrindžia:
-    - c-012
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -183,50 +170,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
-- c-010
-  santrauka: 'Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvių kalba – tai garsusis Martyno Mažvydo „Katekizmas“: išspausdintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai kny-
-    gai lietuvių kalba – tai garsusis Martyno Mažvydo „Katekizmas“: išspaus-
-    dintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
-- c-011
-  santrauka: 'Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pirmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Katekizmą“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Šią programą A. Kulvietis
-    bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pir-
-    maisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų
-    programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Ka-
-    tekizmą“.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
-- c-012
-  santrauka: 'Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių (Kenigsbergą), linija Liepoja–Romnai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis
-    Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių
-    (Kenigsbergą), linija Liepoja–Romnai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-011
 
 ## Ryšiai
 ### Susiję objektai
@@ -235,7 +178,3 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Liepoja-Romnai]]
-- [[objektai/asmenys/Martynas Mažvydas]]
-- [[objektai/vietos/Peterburgas]]
-- [[objektai/asmenys/Stanislovas Rapolionis]]

@@ -98,7 +98,6 @@ Nenurodyta
     - c-012
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
 - t-010
   teiginys: 'Livonijos ordinas išrūpino Mindaugui karališkąjį vainiką.'
   pagrindžia:
@@ -147,26 +146,6 @@ Nenurodyta
     - c-022
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-019
-  teiginys: 'Lietuva liks savarankiška civilizacinė monada, todėl tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš svetur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais.'
-  pagrindžia:
-    - c-024
-- t-020
-  teiginys: 'Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną.'
-  pagrindžia:
-    - c-025
-- t-021
-  teiginys: 'Svarbiausias tikslas, kurio siekta krikštijantis, – karūna.'
-  pagrindžia:
-    - c-026
-- t-022
-  teiginys: 'O Mindaugas, karūnavęsis per Vokietijos vasalą – Livonijos ordiną, tapo ne imperatoriaus, o popiežiaus vasalu ir iš karto gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją.'
-  pagrindžia:
-    - c-027
-- t-023
-  teiginys: 'Gerbti ir garbinti Vytautą Didįjį, suaktualinus jo istorinį vaidmenį, tiko visiems: karvedys, laimėjęs Žalgirio mūšį, išplėtęs Lietuvą nuo jūrų iki jūrų, siekęs Lietuvai karaliaus karūnos, kurią „nugvelbė“ klastingi lenkai...'
-  pagrindžia:
-    - c-028
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -336,7 +315,6 @@ Nenurodyta
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-005
-
 - c-014
   santrauka: Livonijos ordinas išrūpino Mindaugui karališkąjį vainiką.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -491,81 +469,6 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-017
-- c-024
-  santrauka: 'Lietuva liks savarankiška civilizacinė monada, todėl tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš svetur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuva liks savarankiška civilizacinė monada, todėl
-    tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš sve-
-    tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps
-    mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-019
-- c-025
-  santrauka: 'Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diploma-
-    tija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę
-    Livonijos ordino magistrą Andrių Štirlandą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-020
-- c-026
-  santrauka: 'Svarbiausias tikslas, kurio siekta krikštijantis, – karūna.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Svarbiausias tikslas, kurio siekta krikštijantis, – ka-
-    rūna. Tikslas buvo pasiektas 1253 m. liepos 6-ąją. Mindaugo vainikavimo
-    dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pir-
-    mas ir vienintelis vainikuotas Lietuvos karalius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-021
-- c-027
-  santrauka: 'O Mindaugas, karūnavęsis per Vokietijos vasalą – Livonijos ordiną, tapo ne imperatoriaus, o popiežiaus vasalu ir iš karto gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    O Mindaugas, karūnavęsis per Vokietijos vasalą –
-    Livonijos ordiną, tapo ne imperatoriaus, o popiežiaus vasalu ir iš karto
-    gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją. Maža to,
-    po keleto metų Mindaugas gavo karaliaus vainiką visai dinastijai – po-
-    piežius leido vainikuotis ir sūnui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-022
-- c-028
-  santrauka: 'Gerbti ir garbinti Vytautą Didįjį, suaktualinus jo istorinį vaidmenį, tiko visiems: karvedys, laimėjęs Žalgirio mūšį, išplėtęs Lietuvą nuo jūrų iki jūrų, siekęs Lietuvai karaliaus karūnos, kurią „nugvelbė“ klastingi lenkai...'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gerbti ir garbinti
-    Vytautą Didįjį, suaktualinus jo istorinį vaidmenį, tiko visiems: karvedys,
-    laimėjęs Žalgirio mūšį, išplėtęs Lietuvą nuo jūrų iki jūrų, siekęs Lietuvai
-    karaliaus karūnos, kurią „nugvelbė“ klastingi lenkai...
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-023
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -580,6 +483,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/karūnacija karūnuotis]]
-- [[objektai/ivykiai/Mindaugo karūnacija]]
-- [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)]]
-- [[objektai/asmenys/Vytautas]]

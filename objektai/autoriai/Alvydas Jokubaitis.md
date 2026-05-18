@@ -29,35 +29,15 @@ Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų minist
 
 ## Teiginiai
 - t-001
-  teiginys: 'Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus universiteto Tarptautinių santykių ir politikos mokslų instituto mokslininkus, ne pirmus metus tiriančius istorijos politikos.'
+  teiginys: 'Alvydas Jokubaitis buvo „Lietuvos istorijos“ redakcinės kolegijos narys.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'dr. Alvydas Jokubaitis Prof.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus universiteto Tarptautinių santykių ir politikos mokslų instituto mokslininkus, ne pirmus metus tiriančius istorijos politikos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio
-    reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus
-    universiteto Tarptautinių santykių ir politikos mokslų instituto moks-
-    lininkus, ne pirmus metus tiriančius istorijos politikos problemas (pro-
-    fesorius Raimundą Lopatą, Alvydą Jokubaitį, Vytautą Radžvilą ir kitus),
-    prašydama parengti glaustą, lengvai skaitomą, tiesos ir atvirumo kriteri-
-    jais grįstą Lietuvos istorijos veikalą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'dr. Alvydas Jokubaitis Prof.'
+  santrauka: 'Alvydas Jokubaitis buvo „Lietuvos istorijos“ redakcinės kolegijos narys.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Alfonsas Eidintas, Alfredas Bumblauskas,
@@ -89,13 +69,13 @@ Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų minist
     Į v a d a s
     LIETUVA – VIDURIO EUROPOS DALIS  12
     Geografinis Europos centras?
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai

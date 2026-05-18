@@ -19,22 +19,24 @@ Sovietams įgyvendinant žemės ūkio pertvarkymus, atimta žemė iš ūkininkų
 
 ## Teiginiai
 - t-001
-  teiginys: 'Sovietams įgyvendinant žemės ūkio pertvarkymus, atimta žemė iš ūkininkų, kurie turėjo daugiau nei 30 ha, tokie laikomi buožėmis ir „liaudies priešais“. Juos stengtasi sunaikinti tris kartus padidinant mokesčius. Bežemiai ir mažažemiai galėjo gauti iki 10 ha.'
+  teiginys: 'Bežemiai ir mažažemiai galėjo gauti iki 10 ha žemės, o valstybės fonde likusi žemė turėjo būti naudojama kolūkiams kurti.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Sovietams įgyvendinant žemės ūkio pertvarkymus, atimta žemė iš ūkininkų, kurie turėjo daugiau nei 30 ha, tokie laikomi buožėmis ir „liaudies priešais“. Juos stengtasi sunaikinti tris kartus padidinant mokesčius. Bežemiai ir mažažemiai galėjo gauti iki 10 ha.'
+  santrauka: 'Bežemiai ir mažažemiai galėjo gauti iki 10 ha žemės, o valstybės fonde likusi žemė turėjo būti naudojama kolūkiams kurti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Beže-
     miai ir mažažemiai galėjo gauti iki 10 ha žemės. Valstybės fonde likusi žemė
     turėjo būti panaudota kolūkiams kurti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

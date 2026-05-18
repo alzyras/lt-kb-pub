@@ -24,22 +24,24 @@ O vyriausiasis Lenkijos derybininkas Šymonas Askenazis (Szymon Askenazy) manė 
 
 ## Teiginiai
 - t-001
-  teiginys: 'O vyriausiasis Lenkijos derybininkas Šymonas Askenazis (Szymon Askenazy) manė susitelkti į federacijos konceptą, bet...'
+  teiginys: 'Šymonas Askenazis buvo vyriausiasis Lenkijos derybininkas ir ketino telktis į federacijos konceptą, apeidamas Vilniaus temą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'O vyriausiasis Lenkijos derybininkas Šymonas Askenazis (Szymon Askenazy) manė susitelkti į federacijos konceptą, bet...'
+  santrauka: 'Šymonas Askenazis buvo vyriausiasis Lenkijos derybininkas ir ketino telktis į federacijos konceptą, apeidamas Vilniaus temą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O vyriausiasis Lenkijos
     derybininkas Šymonas Askenazis (Szymon Askenazy) manė susitelkti
     į federacijos konceptą, bet... apeiti Vilniaus temą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

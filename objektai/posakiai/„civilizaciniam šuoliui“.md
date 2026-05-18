@@ -26,13 +26,15 @@ LIETUVOS DIDŽIOJI KUNIGAIKŠTIJA KELYJE VAKARŲ LINK V ytautui valdant buvo pad
 
 ## Teiginiai
 - t-001
-  teiginys: 'LIETUVOS DIDŽIOJI KUNIGAIKŠTIJA KELYJE VAKARŲ LINK V ytautui valdant buvo padėtas pagrindas Lietuvos visuomenės artėjimui prie Vidurio Europos, Lietuvos „civilizaciniam šuoliui“.'
+  teiginys: 'Vytautui valdant buvo padėtas pagrindas Lietuvos visuomenės artėjimui prie Vidurio Europos, vadinamam „civilizaciniu šuoliu“.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'LIETUVOS DIDŽIOJI KUNIGAIKŠTIJA KELYJE VAKARŲ LINK V ytautui valdant buvo padėtas pagrindas Lietuvos visuomenės artėjimui prie Vidurio Europos, Lietuvos „civilizaciniam šuoliui“.'
+  santrauka: 'Vytautui valdant buvo padėtas pagrindas Lietuvos visuomenės artėjimui prie Vidurio Europos, vadinamam „civilizaciniu šuoliu“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Enėjas Silvijus Pikolominis (Enea Silvio Picco-
@@ -54,11 +56,11 @@ LIETUVOS DIDŽIOJI KUNIGAIKŠTIJA KELYJE VAKARŲ LINK V ytautui valdant buvo pad
     pavyko padaryti per šimtmetį. Svarbų vaidmenį šiame procese suvaidino
     Lietuvos jaunimo studijos Krokuvos, o vėliau ir Vokietijos bei Italijos uni-
     versitetuose.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

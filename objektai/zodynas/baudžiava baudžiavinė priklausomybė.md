@@ -21,51 +21,57 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.'
+  teiginys: '1864 m. caro valdžia pradėjo anksčiau paskelbtą valstiečių paleidimą iš baudžiavinės priklausomybės.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Todėl sukilėlių būriuose, kuriems vadovavo vietiniai smulkiosios bajorijos atstovai, buvo daug valstiečių, kai kuriuose net dauguma, tad atsišaukimuose lenkų ir lietuvių (žemaičių) kalbomis keltas ir reikalavimas paleisti valstiečius iš baudžiavos.'
+  teiginys: 'Sukilėlių atsišaukimuose lenkų ir lietuvių kalbomis keltas reikalavimas paleisti valstiečius iš baudžiavos.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksandrą II rengtis baudžiavos panaikinimui, sušvelninta tautinė politika.'
+  teiginys: '1861 m. imperatorius pasirašė manifestą, paleidusį privačių dvarų valstiečius iš baudžiavinės priklausomybės.'
   pagrindžia:
     - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.'
+  santrauka: '1864 m. caro valdžia pradėjo anksčiau paskelbtą valstiečių paleidimą iš baudžiavinės priklausomybės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1864 m. – sąlyginė skiriamoji riba, kai Rusijos caro valdžia nuslopi-
     no paskutinį bajorijos vadovautą sukilimą, kuriuo siekta atkurti buvusią
     Lenkijos ir Lietuvos valstybę. Tuo metu carizmas pradėjo jau anksčiau
     paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Todėl sukilėlių būriuose, kuriems vadovavo vietiniai smulkiosios bajorijos atstovai, buvo daug valstiečių, kai kuriuose net dauguma, tad atsišaukimuose lenkų ir lietuvių (žemaičių) kalbomis keltas ir reikalavimas paleisti valstiečius iš baudžiavos.'
+  santrauka: 'Sukilėlių atsišaukimuose lenkų ir lietuvių kalbomis keltas reikalavimas paleisti valstiečius iš baudžiavos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Todėl sukilėlių būriuose, kuriems vadovavo vieti-
     niai smulkiosios bajorijos atstovai, buvo daug valstiečių, kai kuriuose net
     dauguma, tad atsišaukimuose lenkų ir lietuvių (žemaičių) kalbomis keltas
     ir reikalavimas paleisti valstiečius iš baudžiavos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksandrą II rengtis baudžiavos panaikinimui, sušvelninta tautinė politika.'
+  santrauka: '1861 m. imperatorius pasirašė manifestą, paleidusį privačių dvarų valstiečius iš baudžiavinės priklausomybės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Naujasis imperatorius 1861 m. pavasarį pasirašė manifestą, paleidu-
@@ -73,14 +79,10 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
     teisės aktai, reglamentavę valstiečių tapsmo žemės savininkais tvarką, nu-
     matyta privaloma valstiečiams skiriamo žemės sklypo išpirka. Valstiečių
     reformą numatyta pradėti po dvejų metų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Baudžiava]]

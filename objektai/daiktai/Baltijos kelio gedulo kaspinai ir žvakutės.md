@@ -57,14 +57,14 @@ Naudoti visame Baltijos kelyje aukoms ir netektims priminti.
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: "1989 m. rugpjūčio 23 d. Baltijos kelyje plevėsavo juodi gedulo kaspinai ir degė žvakutės."
+- t-003
+  teiginys: 'Baltijos kelyje plevėsavo juodi gedulo kaspinai ir degė žvakutės.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "Kaspinai ir žvakutės priminė aukas ir didelių netekčių skausmą."
+- t-004
+  teiginys: 'Baltijos kelio gedulo kaspinai ir žvakutės priminė aukas ir didelių netekčių skausmą.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -72,19 +72,19 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Kaspinai ir žvakutės aprašomi kaip Baltijos kelio atminimo ženklai.
+  santrauka: 'Baltijos kelyje plevėsavo juodi gedulo kaspinai ir degė žvakutės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visame kelyje plevėsavo juodi gedulo kaspinai, degė žvakutės, ku-
     rios priminė aukas ir didelių netekčių skausmą.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Šaltiniai ir įrodymai
 

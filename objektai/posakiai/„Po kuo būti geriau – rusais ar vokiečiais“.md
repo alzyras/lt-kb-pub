@@ -21,13 +21,15 @@ Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstin
 
 ## Teiginiai
 - t-001
-  teiginys: 'Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstinio pasidavimo nuotaikų, o tik mažos valstybės realių galimybių įvertinimą – problema karštai kedenta ne tik kavinėse, bet ir prezidentūroje – daugelis Europos valstybių jau buvo nacių.'
+  teiginys: 'Mintis „Po kuo būti geriau – rusais ar vokiečiais“ reiškė mažos valstybės realių galimybių įvertinimą, o ne išankstinį pasidavimą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstinio pasidavimo nuotaikų, o tik mažos valstybės realių galimybių įvertinimą – problema karštai kedenta ne tik kavinėse, bet ir prezidentūroje – daugelis Europos valstybių jau buvo nacių.'
+  santrauka: 'Mintis „Po kuo būti geriau – rusais ar vokiečiais“ reiškė mažos valstybės realių galimybių įvertinimą, o ne išankstinį pasidavimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva stovėjo šių karinių milžinių kelyje Antrojo pasaulinio karo fone
@@ -37,10 +39,10 @@ Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstin
     karštai kedenta ne tik kavinėse, bet ir prezidentūroje – daugelis Europos
     valstybių jau buvo nacių okupuotos, Lenkija – grobuonių pasidalyta, tad
     ir Baltijos valstybėse suvokta, jog artėja jų eilė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

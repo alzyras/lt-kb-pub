@@ -21,24 +21,26 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
 
 ## Teiginiai
 - t-001
-  teiginys: 'Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kunigaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui, Alšėnų kunigaikščiai.'
+  teiginys: 'Alšėnų kunigaikščiai, turėję tėvonijų valstybės branduolyje ir nepriklausę Gediminaičių dinastijai, priėmė stačiatikybę.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kunigaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui, Alšėnų kunigaikščiai.'
+  santrauka: 'Alšėnų kunigaikščiai, turėję tėvonijų valstybės branduolyje ir nepriklausę Gediminaičių dinastijai, priėmė stačiatikybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Be to,
     stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kuni-
     gaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui,
     Alšėnų kunigaikščiai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

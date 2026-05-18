@@ -28,14 +28,14 @@ tags: []
 Lietuvių kunigaikščių posakis apibūdina užimtų žemių tvarkos išlaikymo taktiką.
 
 ## Teiginiai
-- t-001
-  teiginys: "Frazė „senovės negriauname, naujovių neįvedame“ vadinama lietuvių kunigaikščių posakiu."
+- t-003
+  teiginys: 'Frazė „senovės negriauname, naujovių neįvedame“ vadinama lietuvių kunigaikščių posakiu.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "Posakis apibūdina taktiką palikti senąsias kunigaikštijų struktūras užgrobtose žemėse."
+- t-004
+  teiginys: 'Posakis „senovės negriauname, naujovių neįvedame“ apibūdino taktiką palikti senąsias kunigaikštijų struktūras.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -43,7 +43,7 @@ Lietuvių kunigaikščių posakis apibūdina užimtų žemių tvarkos išlaikymo
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata pateikia posakį ir paaiškina jo politinę taktiką.
+  santrauka: 'Frazė „senovės negriauname, naujovių neįvedame“ vadinama lietuvių kunigaikščių posakiu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis:
@@ -54,10 +54,10 @@ Lietuvių kunigaikščių posakis apibūdina užimtų žemių tvarkos išlaikymo
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata pririšta prie darbo šaltinio kūno teksto arba kandidato ledžerio patvirtinto offseto."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

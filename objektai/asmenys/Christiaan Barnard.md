@@ -18,13 +18,15 @@ O juk reikėtų prisiminti, kad pirmąją pasaulyje žmogaus širdies persodinim
 
 ## Teiginiai
 - t-001
-  teiginys: 'O juk reikėtų prisiminti, kad pirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m. atliko litvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afrikos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas buvo.'
+  teiginys: 'Christiaanas Barnardas 1967 m. Pietų Afrikos Respublikoje atliko pirmąją pasaulyje žmogaus širdies persodinimo operaciją.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'O juk reikėtų prisiminti, kad pirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m. atliko litvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afrikos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas buvo.'
+  santrauka: 'Christiaanas Barnardas 1967 m. Pietų Afrikos Respublikoje atliko pirmąją pasaulyje žmogaus širdies persodinimo operaciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O juk reikėtų prisiminti, kad
@@ -32,10 +34,10 @@ O juk reikėtų prisiminti, kad pirmąją pasaulyje žmogaus širdies persodinim
     litvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afri-
     kos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas
     buvo tikrai iš litvakų kilęs Louis Washkansky (Luisas Vaškanskis)).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

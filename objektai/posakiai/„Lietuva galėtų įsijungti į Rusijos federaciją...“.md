@@ -24,13 +24,15 @@ Simpsono klausimą dėl požiūrio į federaciją su Rusija atsakė, kad „Liet
 
 ## Teiginiai
 - t-001
-  teiginys: 'Simpsono klausimą dėl požiūrio į federaciją su Rusija atsakė, kad „Lietuva galėtų įsijungti į Rusijos federaciją maždaug tokiais pagrindais, kaip Bavarija į Vokietijos sąjungą“ – Kaune apstulbusi Lietuvos vyriausybė skubiai paskelbė, kad tai tik asmeninė A.'
+  teiginys: 'A. Voldemaras birželį pareiškė, kad Lietuva galėtų įsijungti į Rusijos federaciją panašiais pagrindais kaip Bavarija į Vokietijos sąjungą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Simpsono klausimą dėl požiūrio į federaciją su Rusija atsakė, kad „Lietuva galėtų įsijungti į Rusijos federaciją maždaug tokiais pagrindais, kaip Bavarija į Vokietijos sąjungą“ – Kaune apstulbusi Lietuvos vyriausybė skubiai paskelbė, kad tai tik asmeninė A.'
+  santrauka: 'A. Voldemaras birželį pareiškė, kad Lietuva galėtų įsijungti į Rusijos federaciją panašiais pagrindais kaip Bavarija į Vokietijos sąjungą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Būta ir savų klaidų – su nie-
@@ -40,11 +42,11 @@ Simpsono klausimą dėl požiūrio į federaciją su Rusija atsakė, kad „Liet
     tokiais pagrindais, kaip Bavarija į Vokietijos sąjungą“ – Kaune apstulbusi
     Lietuvos vyriausybė skubiai paskelbė, kad tai tik asmeninė A. Voldemaro
     nuomonė...
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

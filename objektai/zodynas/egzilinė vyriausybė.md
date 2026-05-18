@@ -21,13 +21,15 @@ Iš pradžių penktame dešimtmetyje LDT stengėsi sudaryti Lietuvos tremties (e
 
 ## Teiginiai
 - t-001
-  teiginys: 'Iš pradžių penktame dešimtmetyje LDT stengėsi sudaryti Lietuvos tremties (egzilinę) vyriausybę, tačiau, retėjant diplomatų gretoms, įgijo simbolinės raiškos formą, nes valstybės laikėsi nuostatos pripažinti tik tuos Lietuvos diplomatus, kurie diplomatinėje.'
+  teiginys: 'Penktajame dešimtmetyje LDT stengėsi sudaryti Lietuvos tremties, arba egzilinę, vyriausybę.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Iš pradžių penktame dešimtmetyje LDT stengėsi sudaryti Lietuvos tremties (egzilinę) vyriausybę, tačiau, retėjant diplomatų gretoms, įgijo simbolinės raiškos formą, nes valstybės laikėsi nuostatos pripažinti tik tuos Lietuvos diplomatus, kurie diplomatinėje.'
+  santrauka: 'Penktajame dešimtmetyje LDT stengėsi sudaryti Lietuvos tremties, arba egzilinę, vyriausybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš
@@ -35,11 +37,11 @@ Iš pradžių penktame dešimtmetyje LDT stengėsi sudaryti Lietuvos tremties (e
     (egzilinę) vyriausybę, tačiau, retėjant diplomatų gretoms, įgijo simbolinės
     raiškos formą, nes valstybės laikėsi nuostatos pripažinti tik tuos Lietuvos
     diplomatus, kurie diplomatinėje tarnyboje dirbo iki 1940 m.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

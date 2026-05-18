@@ -35,28 +35,32 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'O valstybėje dėsningai atsiranda sąlygos susidaryti dvasininkų sluoksniui ir kulto reikalus tvarkančiai institucijai, nes veikia mechanizmas, leidžiantis visa tai išlaikyti.'
+  teiginys: 'Nadruvoje minima Romuva ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Romuvoje pagrindinis kulto objektas buvo ugnis.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'O valstybėje dėsningai atsiranda sąlygos susidaryti dvasininkų sluoksniui ir kulto reikalus tvarkančiai institucijai, nes veikia mechanizmas, leidžiantis visa tai išlaikyti.'
+  santrauka: 'Nadruvoje minima Romuva ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai-
     gi valstybė iš viršaus lyg ir turėjo bandyti paspartinti pagonybės virtimo
     institucine religija procesą. Šio proceso ankstyvąja apraiška reikėtų laikyti
     šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -66,11 +70,11 @@ Nenurodyta
     Ro-
     muvoje pagrindinis kulto objektas buvo ugnis. Jos garbinimas susijęs su
     Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

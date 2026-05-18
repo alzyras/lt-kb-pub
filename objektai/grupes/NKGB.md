@@ -65,24 +65,22 @@ Sovietinė valstybės saugumo ir represinė struktūra.
 - susijusios vietos:
 
 ## Teiginiai
-
-- t-002
-  teiginys: "Atkuriant sovietinį režimą Lietuvoje totalitariniam režimui dirigavo komunistų partija, NKGB ir NKVD struktūros, sovietų valdininkai ir okupacinė kariuomenė."
+- t-004
+  teiginys: 'Atkuriant stalininį režimą Lietuvoje, totalitariniam režimui dirigavo komunistų partija, NKGB ir NKVD struktūros.'
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 'NKVD ir NKGB skyriai visose apskrityse koordinavo baudžiamąsias operacijas, gaudynes, tardymus ir agentų verbavimą.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: "NKVD ir NKGB skyriai visose apskrityse koordinavo baudžiamąsias operacijas, gaudynes, tardymus ir agentų verbavimą."
-  pagrindžia:
-    - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-002
-  santrauka: NKGB ir NKVD struktūros įvardijamos tarp stalininį režimą atkūrusios valdžios atramų.
+- c-001
+  santrauka: 'Atkuriant stalininį režimą Lietuvoje, totalitariniam režimui dirigavo komunistų partija, NKGB ir NKVD struktūros.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau bėda ta, kad lygia greta, kone tuo pat metu
@@ -97,11 +95,11 @@ Sovietinė valstybės saugumo ir represinė struktūra.
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Kūno teksto citata tiesiogiai įvardija NKGB ir NKVD struktūras."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: NKGB skyriai kartu su NKVD skyriais koordinavo baudžiamąsias operacijas ir represinį darbą apskrityse.
+    - t-004
+- c-002
+  santrauka: 'NKVD ir NKGB skyriai visose apskrityse koordinavo baudžiamąsias operacijas, gaudynes, tardymus ir agentų verbavimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė:
@@ -116,9 +114,9 @@ Sovietinė valstybės saugumo ir represinė struktūra.
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Kūno teksto citata tiesiogiai aprašo NKGB skyrių veikimą."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai

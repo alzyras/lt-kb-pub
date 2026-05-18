@@ -17,24 +17,4 @@ tags:
 Carų valdžioje.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Carų valdžioje.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Carų valdžioje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Literatūra
-    tolesniam skaitymui
-    Aleksandravičius E., Kulakauskas A. Carų valdžioje. Lietuva XIX am-
-    žiuje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001

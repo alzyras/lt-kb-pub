@@ -20,36 +20,57 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo.'
+  teiginys: 'Kolektyvizacija sovietinėse respublikose reiškė privačios nuosavybės naikinimą žemės ūkyje ir kolektyvinių ūkių steigimą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Kolektyvizacija reiškė ir vienkiemių mirtį.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Tačiau kolektyvizacija staigiai nusmukdė Lietuvos žemės ūkį – nepriklausomos Lietuvos žemės ūkio prieškarinį gamybos lygį pagal javų Raudonosios gurguolės.'
+  teiginys: 'Sovietmečiu masiškai naikintos valstiečių vienkiemių sodybos, o jų savininkai versti keltis į kolektyvines gyvenvietes, miestelius ar miestus.'
   pagrindžia:
     - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Po kolektyvizacijos LSSR prieškarinį javų derlingumo, gyvulių skaičiaus ir produktyvumo lygį pasiekė tik po 20 metų.'
+  pagrindžia:
+    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo.'
+  santrauka: 'Kolektyvizacija sovietinėse respublikose reiškė privačios nuosavybės naikinimą žemės ūkyje ir kolektyvinių ūkių steigimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ekonomikos susovietinimas
     Unifikuodami visų sovietinių respublikų gyvenimą, sovie-
     tai atkakliai naikino privatinę nuosavybę visose ekonomikos šakose, tad
     žemės ūkyje turėjo būti steigiami kolektyviniai ūkiai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Kolektyvizacija reiškė ir vienkiemių mirtį.'
+  santrauka: 'Po kolektyvizacijos LSSR prieškarinį javų derlingumo, gyvulių skaičiaus ir produktyvumo lygį pasiekė tik po 20 metų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    derlingumą, gyvulių skaičių ir jų produktyvumą LSSR pasiekė tik po
+    20 metų. Varu varomi į kolūkius valstiečiai nesistengė sąžiningai dirbti,
+    mažai uždirbdami, nepaisydami didelių bausmių, pradėjo vogti iš kolū-
+    kių (manyta, kad tai nėra nusikaltimas), neliko pagarbos darbui.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-003
+  santrauka: 'Sovietmečiu masiškai naikintos valstiečių vienkiemių sodybos, o jų savininkai versti keltis į kolektyvines gyvenvietes, miestelius ar miestus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Per likusį
@@ -57,25 +78,10 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
     ninkai versti persikraustyti į kaimo vietovėje kuriamas kolektyvines gy-
     venvietes (jose aplinkiniai vieni apie kitus viską žinojo ir buvo valdžios
     kontroliuojami) arba keltis į miestelius ir miestus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Tačiau kolektyvizacija staigiai nusmukdė Lietuvos žemės ūkį – nepriklausomos Lietuvos žemės ūkio prieškarinį gamybos lygį pagal javų Raudonosios gurguolės.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    derlingumą, gyvulių skaičių ir jų produktyvumą LSSR pasiekė tik po
-    20 metų. Varu varomi į kolūkius valstiečiai nesistengė sąžiningai dirbti,
-    mažai uždirbdami, nepaisydami didelių bausmių, pradėjo vogti iš kolū-
-    kių (manyta, kad tai nėra nusikaltimas), neliko pagarbos darbui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003

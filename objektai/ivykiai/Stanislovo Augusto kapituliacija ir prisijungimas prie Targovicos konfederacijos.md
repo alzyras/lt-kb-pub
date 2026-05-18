@@ -32,13 +32,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Istorija pasmerkė susitaikėlišką Stanislovo Augusto poziciją – LLV priešinimosi galimybės 1792 m. gegužės–liepos kare su Rusija toli gražu nebuvo išsemtos.'
+  teiginys: 'Stanislovo Augusto pozicija 1792 m. gegužės–liepos kare su Rusija buvo susitaikėliška.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Istorija pasmerkė susitaikėlišką Stanislovo Augusto poziciją – LLV priešinimosi galimybės 1792 m. gegužės–liepos kare su Rusija toli gražu nebuvo išsemtos.'
+  santrauka: 'Stanislovo Augusto pozicija 1792 m. gegužės–liepos kare su Rusija buvo susitaikėliška.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos atstovai
@@ -48,10 +50,10 @@ Nenurodyta
     pusės maršalas K. N. Sapiega. Istorija pasmerkė susitaikėlišką Stanislovo
     Augusto poziciją – LLV priešinimosi galimybės 1792 m. gegužės–liepos
     kare su Rusija toli gražu nebuvo išsemtos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -21,25 +21,27 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva sugebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasipriešinimą SSRS ištisą.'
+  teiginys: 'Sovietų Sąjunga vykdė masines deportacijas iš Lietuvos į Sibirą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Pusė jų 1941 m. balandį–birželį išvežti į SSRS gilumą, daugiausia Sibirą.'
+  teiginys: 'Represinės institucijos, slopindamos partizanų judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas ir rėmėjus.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Represinės institucijos, slopindamos partizaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas, rėmėjus, kankino pasipriešinimo dalyvius, naudojo psichologinę prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse.'
+  teiginys: 'Lietuvių inteligentija iškeliavo dviem kryptimis: į Vakarus arba į Sibirą.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Tad lietuvių inteligentija iškeliavo dviem kryptimis – į Vakarus ar į Sibirą...'
-  pagrindžia:
-    - c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva sugebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasipriešinimą SSRS ištisą.'
+  santrauka: 'Sovietų Sąjunga vykdė masines deportacijas iš Lietuvos į Sibirą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau pergyvenusi
@@ -48,28 +50,15 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     gebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-
     nimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),
     o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Pusė jų 1941 m. balandį–birželį išvežti į SSRS gilumą, daugiausia Sibirą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Per vienerius sovietų okupacijos metus suimti 6 606 apkaltinti politiniais
-    nusikaltimais asmenys.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Represinės institucijos, slopindamos partizaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas, rėmėjus, kankino pasipriešinimo dalyvius, naudojo psichologinę prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse.'
+  santrauka: 'Represinės institucijos, slopindamos partizanų judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas ir rėmėjus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Represinės instituci-
@@ -79,29 +68,29 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse
     miestelių aikštėse, viešai išniekindavo, neleisdavo palaidoti ir patys slap-
     čia užkasdavo pelkėse ar šiukšlynuose.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Tad lietuvių inteligentija iškeliavo dviem kryptimis – į Vakarus ar į Sibirą...'
+    - t-002
+- c-003
+  santrauka: 'Lietuvių inteligentija iškeliavo dviem kryptimis: į Vakarus arba į Sibirą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tad lietuvių inteligentija
     iškeliavo dviem kryptimis – į Vakarus ar į Sibirą...
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/SSRS]]
+- [[objektai/ivykiai/Lietuvos žydų sunaikinimas - Holokaustas]]
 - [[objektai/ivykiai/Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)]]
 - [[objektai/paprociai/Žuvusių partizanų kūnų viešas išniekinimas ir slapti užkasimai]]

@@ -59,14 +59,14 @@ Atkūrus Lietuvą sportininkų vieša atsiskyrimo nuo SSRS sporto struktūrų pr
 - Praktika siejama su nepriklausomybės atkūrimu ir sportininkų perėjimu iš SSRS struktūrų į Lietuvos atstovavimą.
 
 ## Teiginiai
-- t-001
-  teiginys: "Atkūrus Lietuvą beveik visi jos sportininkai atsisakė dalyvauti SSRS rinktinėse ir čempionatuose."
+- t-003
+  teiginys: '1991 m. rugpjūtį atkūrus LTOK tarptautines teises, Lietuvos sportininkai tarptautinėse varžybose dalyvavo už savo šalį.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "1991 m. atkūrus LTOK tarptautines teises, Lietuvos sportininkai tarptautinėse varžybose dalyvavo už savo šalį."
+- t-004
+  teiginys: '1991 m. rugpjūtį atkūrus LTOK tarptautines teises, Lietuvos sportininkai tarptautinėse varžybose dalyvavo už savo šalį.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -74,7 +74,7 @@ Atkūrus Lietuvą sportininkų vieša atsiskyrimo nuo SSRS sporto struktūrų pr
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata aprašo atsisakymą dalyvauti SSRS struktūrose ir Lietuvos atstovavimo tarptautinėse varžybose pradžią.
+  santrauka: '1991 m. rugpjūtį atkūrus LTOK tarptautines teises, Lietuvos sportininkai tarptautinėse varžybose dalyvavo už savo šalį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tarptautinis olimpinis ko-
@@ -85,10 +85,10 @@ Atkūrus Lietuvą sportininkų vieša atsiskyrimo nuo SSRS sporto struktūrų pr
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata patikrinta kaip pažodinis darbinio šaltinio fragmentas."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Šaltiniai ir įrodymai
 

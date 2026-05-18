@@ -22,6 +22,8 @@ Viena priežasčių, dėl kurių Ispanija ir Portugalija neteko lyderių pozicij
   teiginys: 'Viena priežasčių, dėl kurių Ispanija ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų Amerikos plukdomas auksas neskatino plėtoti savų miestų ir jų ekonomikos.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -32,14 +34,10 @@ Viena priežasčių, dėl kurių Ispanija ir Portugalija neteko lyderių pozicij
     ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų
     Amerikos plukdomas auksas neskatino plėtoti savų miestų ir jų ekono-
     mikos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Nenugalimosios armados nesėkmė]]

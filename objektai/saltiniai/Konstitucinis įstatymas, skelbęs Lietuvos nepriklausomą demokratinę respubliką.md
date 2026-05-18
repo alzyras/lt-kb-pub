@@ -21,8 +21,12 @@ Po šios apklausos Lietuvos AS priėmė konstitucinį įstatymą, kuris skelbė,
   teiginys: 'Po šios apklausos Lietuvos AS priėmė konstitucinį įstatymą, kuris skelbė, kad Lietuva yra Nepriklausoma Demokratinė Respublika.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Po šios apklausos Lietuvos AS priėmė konstitucinį įstatymą, kuris skelbė, kad Lietuva yra Nepriklausoma Demokratinė Respublika.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -30,10 +34,10 @@ Po šios apklausos Lietuvos AS priėmė konstitucinį įstatymą, kuris skelbė,
     Po šios ap-
     klausos Lietuvos AS priėmė konstitucinį įstatymą, kuris skelbė, kad Lie-
     tuva yra Nepriklausoma Demokratinė Respublika.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

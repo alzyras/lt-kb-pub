@@ -32,13 +32,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-002
+- t-001
   teiginys: 'Nematyta masinė deportacija sukrėtė Lietuvą, nes trėmimas buvo nukreiptas į fizinį šeimų naikinimą.'
   pagrindžia:
-    - c-002
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
+- c-001
   santrauka: 'Nematyta masinė deportacija sukrėtė Lietuvą, nes trėmimas buvo nukreiptas į fizinį šeimų naikinimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -48,10 +50,10 @@ Nenurodyta
     komybę už trėmimus primetant žydams, kurie pirmomis sovietmečio
     dienomis smarkiai nukentėjo – nacionalizuoti žydų komerciniai bankai,
     gamybos ir prekybos įmonės, privatus turtas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001

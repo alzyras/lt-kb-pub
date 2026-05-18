@@ -18,12 +18,15 @@ Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės b
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės buvo apytuštės, trūko mėsos, daržovių, sviesto, dažnai netgi duonos ir kitų maisto produktų, ilgose eilėse žmonės laukdavo talonų (leidimo) įsigyti baldus, indus, televizorius, be to.'
+  teiginys: 'Sovietinėje Lietuvoje parduotuvės buvo apytuštės, trūko maisto, o baldams, indams ir televizoriams įsigyti žmonės laukdavo talonų.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės buvo apytuštės, trūko mėsos, daržovių, sviesto, dažnai netgi duonos ir kitų maisto produktų, ilgose eilėse žmonės laukdavo talonų (leidimo) įsigyti baldus, indus, televizorius, be to.'
+  santrauka: 'Sovietinėje Lietuvoje parduotuvės buvo apytuštės, trūko maisto, o baldams, indams ir televizoriams įsigyti žmonės laukdavo talonų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau tai nereiškė
@@ -32,11 +35,11 @@ Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės b
     ilgose eilėse žmonės laukdavo talonų (leidimo) įsigyti baldus, indus, tele-
     vizorius, be to, katastrofiškai trūko butų, medicinos reikmenų, vaistų – fak-
     tiškai viskas buvo deficitas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

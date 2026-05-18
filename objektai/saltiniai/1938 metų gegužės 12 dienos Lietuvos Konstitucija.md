@@ -19,23 +19,27 @@ Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietu
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą.'
+  teiginys: 'Atkuriant valstybę reikėjo atkurti paskutinės nepriklausomos Lietuvos konstitucijos galiojimą, vadovaujantis tęstinumu ir tapatumu.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą.'
+  santrauka: 'Atkuriant valstybę reikėjo atkurti paskutinės nepriklausomos Lietuvos konstitucijos galiojimą, vadovaujantis tęstinumu ir tapatumu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tam reikė-
     jo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje
     ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės
     nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

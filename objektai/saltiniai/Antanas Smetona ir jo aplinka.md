@@ -31,56 +31,26 @@ Antanas Smetona ir jo aplinka. Eidinto knygos „Antanas Smetona ir jo aplinka�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Antanas Smetona ir jo aplinka.'
+  teiginys: 'Alfonso Eidinto knyga „Antanas Smetona ir jo aplinka“ buvo išleista Vilniuje 2012 m.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012).'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012) ir A.'
-  pagrindžia:
-    - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Antanas Smetona ir jo aplinka.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Eidintas A. Antanas Smetona ir jo aplinka. Vilnius, 2012.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilnius: Spaudos
-    departamentas, 1991; A. Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012)
-    ir A. Eidinto, A. Bumblausko asmeninių archyvų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012) ir A.'
+  santrauka: 'Alfonso Eidinto knyga „Antanas Smetona ir jo aplinka“ buvo išleista Vilniuje 2012 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilnius: Spaudos
     departamentas, 1991; A. Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012)
     ir A.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-001

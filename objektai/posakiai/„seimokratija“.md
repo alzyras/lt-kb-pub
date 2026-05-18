@@ -19,13 +19,15 @@ Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija“).'
+  teiginys: '1926 m. J. Pilsudskio grįžimas į valdžią Lenkijoje skatino veikti tuos, kurie buvo nepatenkinti Seimo valdymu, vadintu „seimokratija“.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija“).'
+  santrauka: '1926 m. J. Pilsudskio grįžimas į valdžią Lenkijoje skatino veikti tuos, kurie buvo nepatenkinti Seimo valdymu, vadintu „seimokratija“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Bolševikų diktatūra
@@ -33,15 +35,14 @@ Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija�
     perversmai Bulgarijoje, Portugalijoje, o ypač karinis perversmas 1926 m.
     gegužę Lenkijoje, kurio metu į valdžią grįžo J. Pilsudskis, skatino veikti
     visus, nepatenkintus Seimo valdymu („seimokratija“).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Benito Musolinis]]
-- [[objektai/asmenys/J. Pilsudskis]]

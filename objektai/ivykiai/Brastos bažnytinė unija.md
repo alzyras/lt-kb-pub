@@ -32,22 +32,29 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Taigi Lenkijos stačiatikiai buvo valdomi iš LDK, kurios stačiatikių svoris nulėmė, kad bent jau bažnytinės unijos įgyvendinimo klausimu LDK, o ne Lenkija buvo aktualiausia erdvė.'
+  teiginys: 'Po Brastos bažnytinės unijos stačiatikiai ir graikai katalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Taigi Lenkijos stačiatikiai buvo valdomi iš LDK, kurios stačiatikių svoris nulėmė, kad bent jau bažnytinės unijos įgyvendinimo klausimu LDK, o ne Lenkija buvo aktualiausia erdvė.'
+  santrauka: 'Po Brastos bažnytinės unijos stačiatikiai ir graikai katalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropo-
     litai, tik jau nuolat reziduojantys Vilniuje. Taigi tiek stačiatikiai, tiek graikai
     katalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Graikų katalikų bažnyčia]]
+- [[objektai/zodynas/metropolija bažnytinė unija]]

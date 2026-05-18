@@ -46,26 +46,22 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: "1928 m. sausio 29 d. pasirašyta Lietuvos ir Vokietijos sienos sutartis."
+- t-004
+  teiginys: '1928 m. sausio 29 d. pasirašyta Lietuvos ir Vokietijos sienos sutartis.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "Berlyne nustatyta sienos linija Klaipėdos teritoriją paliko Lietuvos pusėje."
+- t-005
+  teiginys: '1928 m. sausio 29 d. po ilgų ir sunkių derybų buvo pasirašyta Lietuvos ir Vokietijos sienos sutartis.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių, svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų ir sunkių derybų pasirašyta.'
-  pagrindžia:
-    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Sienos sutarties pasirašymas ir Klaipėdos teritorijos statusas.
+  santrauka: '1928 m. sausio 29 d. pasirašyta Lietuvos ir Vokietijos sienos sutartis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių
@@ -74,16 +70,13 @@ Nenurodyta
     ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Kūno prozos citata tiesiogiai nurodo įvykį ir jo aplinkybes."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-004
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/vietos/Vokietija]]

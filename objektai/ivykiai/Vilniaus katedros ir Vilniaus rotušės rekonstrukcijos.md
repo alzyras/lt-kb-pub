@@ -32,40 +32,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Pats gyvenimas padėjo klasicizmui tapti svarbiausiu Vilniaus pastatų stiliumi.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Vilniaus katedros ir rotušės statyba sutapo su didžiosiomis Ketverių meto seimo nulemtomis permainomis.'
-  pagrindžia:
-    - c-002
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pats gyvenimas padėjo klasicizmui tapti svarbiausiu Vilniaus pastatų stiliumi.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kazimiero, Lenkijos
-    globėjo šv. Stanislovo ir šv. Elenos skulptūros ant katedros frontono.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Vilniaus katedros ir rotušės statyba sutapo su didžiosiomis Ketverių meto seimo nulemtomis permainomis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    L. Gucevičius savo gyvenimu suvienijo ne tik
-    Apšvietos ir klasicizmo idėjas – Lietuvos istorijoje jis vienas ryškiausių
-    menininkų, savo likimą susaisčiusių su krašto likimu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
+Nenurodyta

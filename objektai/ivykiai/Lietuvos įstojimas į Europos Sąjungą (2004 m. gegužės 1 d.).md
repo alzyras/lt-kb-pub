@@ -44,70 +44,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '2004 m. gegužės 1 d. Lietuva įstojo į ES ir įgijo teisę kurti savo ir žemyno ateitį kartu su kitomis demokratinėmis valstybėmis.'
-  pagrindžia:
-    - c-001
-- t-002
   teiginys: 'Po įstojimo į ES padidėjo Lietuvos prekybos ir eksportuojamų prekių gamybos apimtys.'
   pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gyventojų atžvilgiu.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 261 Po įstojimo į ES padidėjo Lietuvos prekybos ir eksportuojamų prekių gamybos apimtys.'
-  pagrindžia:
-    - c-004
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '2004 m. gegužės 1 d. Lietuva įstojo į ES ir įgijo teisę kurti savo ir žemyno ateitį kartu su kitomis demokratinėmis valstybėmis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    2004 m. gegužės 1 d. Lietuva įstojo į ES ir įgijo teisę
-    kurti savo ir žemyno ateitį kartu su kitomis demokratinėmis valstybėmis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
   santrauka: 'Po įstojimo į ES padidėjo Lietuvos prekybos ir eksportuojamų prekių gamybos apimtys.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai padidino Lietuvos eksportą į kitas šalis, skatino už-
-    sienio kapitalo investicijas į Lietuvos ekonomiką, paaštrino konkurenciją,
-    leido racionaliau naudoti ir paskirstyti ekonominius veiksnius (darbo ir
-    kapitalo).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gyventojų atžvilgiu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kiek­
-    vienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių na-
-    rių teritorijoje teisę; teisę balsuoti ir kandidatuoti vietiniuose ir Europos
-    rinkimuose toje šalyje, kurioje gyvena; teisę būti ginamas diplomatinių ir
-    konsulinių kiekvienos šalies narės įstaigų; peticijos (kolektyvinio prašy-
-    mo) Europos parlamentui teisę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 261 Po įstojimo į ES padidėjo Lietuvos prekybos ir eksportuojamų prekių gamybos apimtys.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
@@ -119,17 +64,14 @@ Nenurodyta
     kapitalo). Narystė ES apribojo Lietuvos vyriausybės galimybes tiesiogiai
     ir netiesiogiai kištis į ūkio funkcionavimą ir suteikė daugiau laisvių ir ga-
     limybių Lietuvos įmonėms bei vartotojams.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]

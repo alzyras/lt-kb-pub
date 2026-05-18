@@ -33,28 +33,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Gediminas stato Vilniaus pilį.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Gediminaičių dinastijai priklausė žymiausi, labai svarbų istorinį vaidmenį suvaidinę Lietuvos didieji Gediminas stato Vilniaus pilį.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Gediminas stato Vilniaus pilį.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gediminaičių dinastijai pri-
-    klausė žymiausi, labai svarbų istorinį vaidmenį suvaidinę Lietuvos didieji
-    Gediminas stato Vilniaus pilį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-    - t-002
+Nenurodyta

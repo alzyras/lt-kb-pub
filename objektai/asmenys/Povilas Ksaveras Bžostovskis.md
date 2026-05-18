@@ -32,42 +32,44 @@ tags: []
 Povilas Ksaveras Bžostovskis aprašomas kaip Paulavos respublikos kūrėjas; jos įstatus 1791 m. patvirtino Ketverių metų seimas.
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: 'Povilas Ksaveras Bžostovskis 1769 m. įkūrė Paulavos respubliką.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'P. K. Bžostovskio įkurtos Paulavos respublikos įstatus 1791 m. patvirtino Ketverių metų seimas.'
+- t-005
+  teiginys: 'Ketverių metų seimas 1791 m. patvirtino Povilo Ksavero Bžostovskio įkurtos Paulavos respublikos įstatus.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia.'
+- t-006
+  teiginys: 'Povilo Ksavero Bžostovskio 1769 m. įkurta Paulavos respublika kartais laikoma vienu Apšvietos epochos pradžios įvykių.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Bžostovskio Paulavos respublika pateikiama tarp Apšvietos pradžios reiškinių.
+  santrauka: 'Povilas Ksaveras Bžostovskis 1769 m. įkūrė Paulavos respubliką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Antano Tyzenhauzo reformos (1767 m.), Povilo Ksa-
     vero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino
     panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai
     kartais laikomi Apšvietos epochos pradžia.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
+    - t-006
 - c-002
-  santrauka: Paulavos respublikos įstatų patvirtinimas siejamas su Bžostovskiu.
+  santrauka: 'Ketverių metų seimas 1791 m. patvirtino Povilo Ksavero Bžostovskio įkurtos Paulavos respublikos įstatus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ryškiausiu iš jų
@@ -75,15 +77,13 @@ Povilas Ksaveras Bžostovskis aprašomas kaip Paulavos respublikos kūrėjas; jo
     patvirtino Ketverių metų seimas, parodydamas savo prielankumą tokiam
     „eksperimentui“, kuriuo buvo bandoma diegti respublikonišką gyvense-
     ną.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  priskyrimo_pagrindas: explicit_variant
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-    - t-003
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai
@@ -91,5 +91,4 @@ Povilas Ksaveras Bžostovskis aprašomas kaip Paulavos respublikos kūrėjas; jo
 
 ### Susiję objektai
 - [[objektai/asmenys/Antanas Tyzenhauzas]]
-- [[objektai/grupes/Ketverių metų seimas]]
 - [[objektai/vietos/Paulava]]

@@ -138,7 +138,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     - c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-
 - t-009
   teiginys: 'Prūsuose sustiprėjęs ordinas kolonizavo žemes ir kasmet puldavo Lietuvą.'
   pagrindžia:
@@ -183,34 +182,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     - c-062
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-015
-  teiginys: 'Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija, o XV–XVI a.'
-  pagrindžia:
-    - c-072
-- t-016
-  teiginys: 'Lenkijos ir Lietuvos jungtinė kariuomenė sutriuškina Vokiečių ordiną, kėlusį grėsmę abiejų valstybių egzistencijai.'
-  pagrindžia:
-    - c-073
-- t-017
-  teiginys: 'Tačiau susidarė tik lietuvių ir latvių tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir vėliau įkūrė Prūsijos valstybę.'
-  pagrindžia:
-    - c-074
-- t-018
-  teiginys: 'Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių ordino riterius (kryžiuočius).'
-  pagrindžia:
-    - c-075
-- t-019
-  teiginys: 'Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai, iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.'
-  pagrindžia:
-    - c-076
-- t-020
-  teiginys: 'Tačiau svarbiausios buvo politinės aplinkybės – krikšto nau- 1 skyrius • S E N O J I L I E T U VA 41 da išryškėjo netrukus, kai popiežiai uždraudė Vokiečių ordinui kariauti su Lietuva.'
-  pagrindžia:
-    - c-077
-- t-021
-  teiginys: 'Tai padaryti trukdė Vokiečių ordinas.'
-  pagrindžia:
-    - c-078
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -506,7 +477,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     - t-007
     - t-002
     - t-002
-
 - c-054
   santrauka: Ordinas parodytas kaip Prūsuose sustiprėjusi ir Lietuvą nuolat puldanti jėga.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -783,120 +753,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     - t-013
     - t-013
     - t-005
-- c-072
-  santrauka: 'Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija, o XV–XVI a.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos Didžioji Kunigaikštija dėl Vo-
-    kiečių ordino pavojaus pamažu stiprino
-    ryšius su Lenkija, o XV–XVI a. perėmė
-    krikščionišką Vakarų kultūrą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-015
-- c-073
-  santrauka: 'Lenkijos ir Lietuvos jungtinė kariuomenė sutriuškina Vokiečių ordiną, kėlusį grėsmę abiejų valstybių egzistencijai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žalgirio (Griunvaldo) mūšis. Lenkijos ir Lietuvos jungtinė kariuomenė
-    sutriuškina Vokiečių ordiną, kėlusį grėsmę abiejų valstybių egzis-
-    tencijai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-016
-- c-074
-  santrauka: 'Tačiau susidarė tik lietuvių ir latvių tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir vėliau įkūrė Prūsijos valstybę.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    II tūkstantmečio pradžioje pradėjo formuotis prū-
-    sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių
-    tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir
-    vėliau įkūrė Prūsijos valstybę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-017
-- c-075
-  santrauka: 'Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių ordino riterius (kryžiuočius).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kovodamas
-    prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis
-    Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių
-    ordino riterius (kryžiuočius).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-018
-- c-076
-  santrauka: 'Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai, iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų
-    kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai,
-    iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su
-    Livonija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-019
-- c-077
-  santrauka: 'Tačiau svarbiausios buvo politinės aplinkybės – krikšto nau- 1 skyrius • S E N O J I L I E T U VA 41 da išryškėjo netrukus, kai popiežiai uždraudė Vokiečių ordinui kariauti su Lietuva.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau svarbiausios buvo politinės aplinkybės – krikšto nau-
-
-    1 skyrius •  S E N O J I  L I E T U VA
-    41
-    da išryškėjo netrukus, kai popiežiai uždraudė Vokiečių ordinui kariauti su
-    Lietuva. Nuo tada šio ordino agresija nebegalėjo tikėtis efektyvesnės Va-
-    karų paramos. Krėvos sutarties nulemta sąjunga su Lenkija leido pasiekti
-    pergalę prie Tanenbergo ir Žalgirio. Lietuva, apsikrikštijusi ir nugalėjusi
-    Ordiną, pašalino 200 metų grėsmę savo egzistencijai ir perėjo į naują savo
-    istorijos stadiją – „europėjimo“ arba „kelio į Europą“ epochą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-020
-- c-078
-  santrauka: 'Tai padaryti trukdė Vokiečių ordinas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai
-    padaryti trukdė Vokiečių ordinas. Taip po Žalgirio mūšio atsirado Vytau-
-    to funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413),
-    įsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai
-    sklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą.
-    Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci-
-    ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su
-    Katalikų bažnyčia.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-021
 
 ## Ryšiai
 ### Laikotarpiai
@@ -912,5 +768,3 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - [[objektai/grupes/Templininkų ordinas]]
 - [[objektai/asmenys/Ulrichas von Jungingenas]]
 - [[objektai/grupes/Didžiojo Naugardo respublika]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
-- [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]

@@ -34,34 +34,15 @@ hos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į 
 
 ## Teiginiai
 - t-001
-  teiginys: 'hos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į kurias žmones telkė bendros idėjos, tikslai, kūrėsi etnokultūrinio pobūdžio kraštotyros draugijos, jų nariai ne tik rinko senosios lietuvių kultūros Lietuvos laisvės lygos surengtas.'
+  teiginys: 'Po Prahos įvykių Lietuvoje kūrėsi etnokultūrinės kraštotyros draugijos, skatinusios domėtis tautos praeitimi ir ugdžiusios tautinę savimonę.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Prahos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į kurias žmones telkė bendros idėjos, tikslai, kūrėsi etnokultūrinio pobūdžio kraštotyros draugijos, jų nariai ne tik rinko senosios lietuvių kultūros Lietuvos laisvės lygos surengtas.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'hos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į kurias žmones telkė bendros idėjos, tikslai, kūrėsi etnokultūrinio pobūdžio kraštotyros draugijos, jų nariai ne tik rinko senosios lietuvių kultūros Lietuvos laisvės lygos surengtas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Prahos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į
-    kurias žmones telkė bendros idėjos, tikslai, kūrėsi etnokultūrinio pobū-
-    džio kraštotyros draugijos, jų nariai ne tik rinko senosios lietuvių kultūros
-    Lietuvos laisvės lygos surengtas pirmasis sovietmečiu
-    viešas nesankcionuotas mitingas Vilniuje, skirtas Molotovo–
-    Ribentropo paktui paminėti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Prahos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į kurias žmones telkė bendros idėjos, tikslai, kūrėsi etnokultūrinio pobūdžio kraštotyros draugijos, jų nariai ne tik rinko senosios lietuvių kultūros Lietuvos laisvės lygos surengtas.'
+  santrauka: 'Po Prahos įvykių Lietuvoje kūrėsi etnokultūrinės kraštotyros draugijos, skatinusios domėtis tautos praeitimi ir ugdžiusios tautinę savimonę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prahos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į
@@ -77,18 +58,15 @@ hos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į 
     palikimą, bet ir skatino domėtis tautos praeitimi, ugdė gyventojų tautinę
     savimonę, įsisteigė žygeivių klubų. Pusiau legalūs inteligentų klubai popu-
     liarėjo: iki 1965 m.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/ivykiai/LLL mitingas prie Adomo Mickevičiaus paminklo Vilniuje (1987 m. rugpjūčio 23 d.)]]

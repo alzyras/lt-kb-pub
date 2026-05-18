@@ -35,32 +35,16 @@ tags:
 Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vilniuje spausdinto J. Salaspilis), Chotyne, kuriose lietuviai kovojo petys į petį su rusėnais.
 
 ## Teiginiai
-- t-002
-  teiginys: 'Salaspilis), Chotyne, kuriose lietuviai kovojo petys į petį su rusėnais.'
+- t-001
+  teiginys: '1673 m. Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumušė turkus.'
   pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'LenChotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vilniuje spausdinto J.'
-  pagrindžia:
-    - c-003
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Salaspilis), Chotyne, kuriose lietuviai kovojo petys į petį su rusėnais.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    LDK politinės tautos prielaidas kūrė LDK karinės
-    pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne,
-    kuriose lietuviai kovojo petys į petį su rusėnais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'LenChotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vilniuje spausdinto J.'
+- c-001
+  santrauka: '1673 m. Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumušė turkus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Len-
@@ -72,13 +56,13 @@ Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vi
     75
     kų kalbos vaidmenį Lietuvos kultūroje apibendrino vienas iš Radvilų savo
     laiške, rašytame 1615 m.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai

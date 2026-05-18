@@ -20,13 +20,15 @@ Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į k
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą besiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektualas, taip pat negausi LDK valstybingumo.'
+  teiginys: 'Į proletarinį internacionalizmą orientuotos radikalių kairiųjų organizacijos Lietuvoje veikė nelegaliai ir krašte buvo neįtakingos.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą besiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektualas, taip pat negausi LDK valstybingumo.'
+  santrauka: 'Į proletarinį internacionalizmą orientuotos radikalių kairiųjų organizacijos Lietuvoje veikė nelegaliai ir krašte buvo neįtakingos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kai-
@@ -34,10 +36,10 @@ Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į k
     besiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektua-
     las, taip pat negausi LDK valstybingumo idėjos mylėtojų, vadinamoji „kraš-
     tiečių“ (lenkiškai „krajovcų“) demokratų srovė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

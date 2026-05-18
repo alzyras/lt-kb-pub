@@ -34,14 +34,16 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Pakviesti į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo daug ambicijų, gerų sumanymų ir energijos, o dėl savo jaunumo ir trykštančio entuziazmo, netradicinių žingsnių greitai užsitarnavo vyresnio amžiaus Vakarų diplomatų epitetą „Baltic.'
+- t-002
+  teiginys: 'Vilniuje buvo pašalintas Lenino paminklas.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pakviesti į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo daug ambicijų, gerų sumanymų ir energijos, o dėl savo jaunumo ir trykštančio entuziazmo, netradicinių žingsnių greitai užsitarnavo vyresnio amžiaus Vakarų diplomatų epitetą „Baltic.'
+  santrauka: 'Vilniuje buvo pašalintas Lenino paminklas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pakviesti
@@ -50,13 +52,13 @@ Nenurodyta
     entuziazmo, netradicinių žingsnių greitai užsitarnavo vyresnio amžiaus
     Vakarų diplomatų epitetą „Baltic Kindergarten“…
     Vilniuje pašalinamas Lenino paminklas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

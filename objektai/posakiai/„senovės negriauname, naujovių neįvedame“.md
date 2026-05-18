@@ -21,17 +21,21 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės negriauname, naujovių neįvedame“ – jie palikdavo senąsias kunigaikštijų struktūras (tai vėliau išvirs į sritines privilegijas, šiuolaikiniais terminais – autonomijas).'
+  teiginys: 'Posakis „senovės negriauname, naujovių neįvedame“ apibūdino lietuvių kunigaikščių taktiką palikti užimtų kunigaikštijų senąsias struktūras.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: '„Senovės nekeitimo“ tezė tėra istoriografinis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo savarankiškais keliais.'
+  teiginys: 'Vytauto laikais LDK pradėjo artėti prie imperijos, o jo reformos buvo radikalios net to meto mastu.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės negriauname, naujovių neįvedame“ – jie palikdavo senąsias kunigaikštijų struktūras (tai vėliau išvirs į sritines privilegijas, šiuolaikiniais terminais – autonomijas).'
+  santrauka: 'Posakis „senovės negriauname, naujovių neįvedame“ apibūdino lietuvių kunigaikščių taktiką palikti užimtų kunigaikštijų senąsias struktūras.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuviai veikiausiai buvo tokie pat imperialistai kaip ir kiti, tik, užgro-
@@ -40,25 +44,25 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
     „senovės negriauname, naujovių neįvedame“  – jie palikdavo senąsias
     kunigaikštijų struktūras (tai vėliau išvirs į sritines privilegijas, šiuolaiki-
     niais terminais – autonomijas).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '„Senovės nekeitimo“ tezė tėra istoriografinis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo savarankiškais keliais.'
+  santrauka: 'Vytauto laikais LDK pradėjo artėti prie imperijos, o jo reformos buvo radikalios net to meto mastu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LDK būtent Vytauto
     laikais pradėjo artėti prie imperijos, Vytauto reformos buvo radikalios,
     matuojant net tų laikų mastu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

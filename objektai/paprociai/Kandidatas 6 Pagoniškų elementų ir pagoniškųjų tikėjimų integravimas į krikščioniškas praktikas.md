@@ -36,42 +36,46 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kadangi lietuviai krikščionybę priėmė palyginti vėlai, mūsų liaudies kultūroje ir tradicijose yra gausu archajiškų, iš pagonybės laikų išlikusių elementų.'
+  teiginys: 'Pagoniškos šventės buvo tarsi užsiklojusios krikščioniškuoju švenčių sluoksniu.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Lietuvos (1387) ir Žemaitijos (1413–1417) krikštu pradžioje žengtas tik nedidelis žingsnelis į krikščioniškąją visuomenę, nes sunaikintos tik svarbiausios pagoniškos šventvietės.'
+  teiginys: 'Lokalinių kultų vietos turėjo gyvuoti toliau, nors pagoniškosios šventvietės jau buvo bendros raidos su krikščionybe rezultatas.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kadangi lietuviai krikščionybę priėmė palyginti vėlai, mūsų liaudies kultūroje ir tradicijose yra gausu archajiškų, iš pagonybės laikų išlikusių elementų.'
+  santrauka: 'Pagoniškos šventės buvo tarsi užsiklojusios krikščioniškuoju švenčių sluoksniu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Galėtume sakyti, kad pagoniškos šventės yra
     tik „užsiklojusios“ krikščioniškuoju švenčių sluoksniu. Išlikę žilos senovės
     elementai lemia lietuvių tautosakos, folkloro ir tautodailės savitumą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Lietuvos (1387) ir Žemaitijos (1413–1417) krikštu pradžioje žengtas tik nedidelis žingsnelis į krikščioniškąją visuomenę, nes sunaikintos tik svarbiausios pagoniškos šventvietės.'
+  santrauka: 'Lokalinių kultų vietos turėjo gyvuoti toliau, nors pagoniškosios šventvietės jau buvo bendros raidos su krikščionybe rezultatas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lokalinių kultų vie-
     tos turėjo gyvuoti toliau. Nors pagoniškosios šventvietės egzistuoja kaip
     alternatyva katalikų bažnyčioms, ir jos jau yra bendros su krikščionybe
     plėtotės rezultatas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

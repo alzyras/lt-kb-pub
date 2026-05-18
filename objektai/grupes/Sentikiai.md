@@ -18,21 +18,27 @@ Lenkijoje nebuvo ir sentikių, atsiskyrusių nuo stačiatikių dėl liturgijos i
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lenkijoje nebuvo ir sentikių, atsiskyrusių nuo stačiatikių dėl liturgijos ir persekiojamų Rusijoje – antrojoje XVII a.'
+  teiginys: 'Sentikiai, atsiskyrę nuo stačiatikių dėl liturgijos ir persekioti Rusijoje, XVII a. antroje pusėje kėlėsi į LDK.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lenkijoje nebuvo ir sentikių, atsiskyrusių nuo stačiatikių dėl liturgijos ir persekiojamų Rusijoje – antrojoje XVII a.'
+  santrauka: 'Sentikiai, atsiskyrę nuo stačiatikių dėl liturgijos ir persekioti Rusijoje, XVII a. antroje pusėje kėlėsi į LDK.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkijoje nebuvo ir sentikių, atsiskyrusių nuo stačiatikių dėl liturgijos ir
     persekiojamų Rusijoje – antrojoje XVII a. pusėje jie kėlėsi į LDK.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/paprociai/Kandidatas LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]

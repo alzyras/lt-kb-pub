@@ -20,40 +20,25 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J.'
-  pagrindžia:
-    - c-001
-- t-002
   teiginys: 'Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto.'
   pagrindžia:
-    - c-002
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nors paktas minėjo Lietu-
-    vos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartis kaip bazinius dvišalių
-    santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos
-    nepriklausomybei.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
   santrauka: 'Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietu-
     va prarado neutralios politikos statusą ir dalį suvereniteto.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
